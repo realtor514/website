@@ -1,51 +1,95 @@
 {{ define "main" }}
 {{ $isFr := eq .Lang "fr" }}
-{{ $base  := cond $isFr "/fr" "" }}
+{{ $base  := "" }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ end }}
 
 {{ partial "hero.html" . }}
 
-<!-- About snippet -->
+{{ partial "services.html" . }}
+
+<!-- Stats bar -->
+<div class="stats-bar">
+  <div class="container">
+    <div class="stats-bar__grid">
+      <div class="stat-item">
+        <span class="stat-item__number">PhD</span>
+        <span class="stat-item__label">{{ if $isFr }}Formation académique{{ else }}Academic background{{ end }}</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-item__number">3</span>
+        <span class="stat-item__label">{{ if $isFr }}Langues parlées{{ else }}Languages spoken{{ end }}</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-item__number">RE/MAX</span>
+        <span class="stat-item__label">{{ if $isFr }}Réseau #1 mondial{{ else }}World's #1 network{{ end }}</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-item__number">Laval</span>
+        <span class="stat-item__label">{{ if $isFr }}Spécialiste local{{ else }}Local specialist{{ end }}</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- About -->
 <section class="section" id="about">
   <div class="container">
-    <div class="about-section">
-      <div class="about-section__photo">
-        <img src="{{ "images/georges-matar.png" | relURL }}"
-             alt="{{ .Site.Params.name }} - {{ .Site.Params.role }}"
-             width="400" height="420">
+    <div class="about-split">
+      <div class="about-split__media reveal">
+        <div class="about-split__img-main">
+          <img src="{{ "images/georges-matar.png" | relURL }}"
+               alt="{{ .Site.Params.name }}"
+               style="width:100%;height:100%;object-fit:cover;object-position:top center;">
+        </div>
+        <div class="about-split__img-float">
+          <img src="{{ "images/office/conference-room-2.png" | relURL }}" alt="RE/MAX DU CARTIER">
+        </div>
       </div>
-      <div>
-        <span class="about-section__badge">{{ .Site.Params.aboutBadge }}</span>
+      <div class="reveal reveal-delay-1">
+        <span class="about-split__eyebrow">{{ .Site.Params.aboutBadge }}</span>
         <h2>{{ .Site.Params.aboutTitle }}</h2>
-        <p class="about-section__text">{{ .Site.Params.bio }}</p>
-        <div class="about-section__highlights">
+        <p class="about-split__text">{{ .Site.Params.bio }}</p>
+        <div class="about-highlights">
           {{ if $isFr }}
-          <div class="highlight-item">Spécialiste Montr&eacute;al &amp; Laval</div>
+          <div class="highlight-item">Spécialiste Montréal &amp; Laval</div>
           <div class="highlight-item">Résidentiel &amp; Commercial</div>
           <div class="highlight-item">Premiers acheteurs</div>
           <div class="highlight-item">Propriétés d'investissement</div>
-          <div class="highlight-item">Service bilingue (FR/EN)</div>
-          <div class="highlight-item">Analyses de marché</div>
+          <div class="highlight-item">Service trilingue (FR/EN/AR)</div>
+          <div class="highlight-item">Analyse de marché rigoureuse</div>
           {{ else }}
-          <div class="highlight-item">Montr&eacute;al &amp; Laval Specialist</div>
+          <div class="highlight-item">Montréal &amp; Laval Specialist</div>
           <div class="highlight-item">Residential &amp; Commercial</div>
           <div class="highlight-item">First-Time Buyers</div>
           <div class="highlight-item">Investment Properties</div>
-          <div class="highlight-item">Bilingual Service (FR/EN)</div>
-          <div class="highlight-item">Market Analysis Expertise</div>
+          <div class="highlight-item">Trilingual (FR/EN/AR)</div>
+          <div class="highlight-item">Data-Driven Analysis</div>
           {{ end }}
         </div>
-        <a href="{{ $base }}/about/" class="btn btn-outline-dark">{{ if $isFr }}En savoir plus{{ else }}Learn More{{ end }}</a>
+        <div style="display:flex;gap:14px;flex-wrap:wrap">
+          <a href="{{ $base }}/about/" class="btn btn-outline-dark">{{ if $isFr }}En savoir plus{{ else }}Learn More{{ end }}</a>
+          <a href="{{ $base }}/#contact" class="btn btn-primary">{{ if $isFr }}Me contacter{{ else }}Contact Me{{ end }}</a>
+        </div>
       </div>
     </div>
   </div>
 </section>
 
+{{ partial "office-gallery.html" . }}
+
 <!-- Featured listings -->
-<section class="section section--light" id="listings">
+<section class="section" id="listings">
   <div class="container">
-    <div class="section-header">
+    <div class="section-header reveal">
+      <span class="eyebrow">{{ if $isFr }}Inscriptions actuelles{{ else }}Current Listings{{ end }}</span>
       <h2>{{ if $isFr }}Propriétés vedettes{{ else }}Featured Properties{{ end }}</h2>
-      <p class="subtitle">{{ if $isFr }}Propriétés sélectionnées dans les quartiers les plus recherchés de Montr&eacute;al et Laval{{ else }}Handpicked properties in Montr&eacute;al and Laval&rsquo;s most sought-after neighbourhoods{{ end }}</p>
+      <p class="subtitle">
+        {{ if $isFr }}
+          Propriétés sélectionnées dans les quartiers les plus recherchés de Montréal et Laval.
+        {{ else }}
+          Handpicked properties in the most sought-after neighbourhoods of Greater Montreal and Laval.
+        {{ end }}
+      </p>
     </div>
 
     {{ $listings := where .Site.RegularPages "Section" "listings" }}
@@ -57,23 +101,34 @@
       {{ range $featured }}{{ partial "listing-card.html" . }}{{ end }}
     </div>
     {{ else }}
-    <p class="text-center" style="color:#6b7280;padding:40px 0">
-      {{ if $isFr }}Propriétés à venir. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">Contactez-moi</a> pour les disponibilités.{{ else }}Properties coming soon. <a href="/#contact" style="color:#a8893d;font-weight:600">Contact me</a> for available listings.{{ end }}
+    <p class="text-center" style="color:#6b7280;padding:48px 0">
+      {{ if $isFr }}
+        Propriétés à venir. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">Contactez-moi</a> pour les disponibilités.
+      {{ else }}
+        Properties coming soon. <a href="/#contact" style="color:#a8893d;font-weight:600">Contact me</a> for available listings.
+      {{ end }}
     </p>
     {{ end }}
 
-    <div class="text-center mt-32">
+    <div class="text-center mt-48 reveal">
       <a href="{{ $base }}/listings/" class="btn btn-outline-dark">{{ if $isFr }}Voir toutes les propriétés{{ else }}View All Properties{{ end }}</a>
     </div>
   </div>
 </section>
 
-<!-- Recent articles -->
-<section class="section" id="articles">
+<!-- Articles -->
+<section class="section section--light" id="articles">
   <div class="container">
-    <div class="section-header">
+    <div class="section-header reveal">
+      <span class="eyebrow">{{ if $isFr }}Expertise &amp; conseils{{ else }}Expertise &amp; Insights{{ end }}</span>
       <h2>{{ if $isFr }}Conseils immobiliers{{ else }}Real Estate Insights{{ end }}</h2>
-      <p class="subtitle">{{ if $isFr }}Actualités du marché, conseils d'achat et analyses d'experts pour Montr&eacute;al et Laval{{ else }}Market updates, buying tips, and expert advice for the Montr&eacute;al &amp; Laval market{{ end }}</p>
+      <p class="subtitle">
+        {{ if $isFr }}
+          Actualités du marché, conseils d'achat et analyses d'experts pour Montréal et Laval.
+        {{ else }}
+          Market updates, buying tips, and expert analysis for the Montreal &amp; Laval market.
+        {{ end }}
+      </p>
     </div>
 
     {{ $articles := where .Site.RegularPages "Section" "articles" }}
@@ -83,11 +138,9 @@
     <div class="articles-grid">
       {{ range $recent }}{{ partial "article-card.html" . }}{{ end }}
     </div>
-    {{ else }}
-    <p class="text-center" style="color:#6b7280;padding:40px 0">{{ if $isFr }}Articles à venir.{{ else }}Articles coming soon.{{ end }}</p>
     {{ end }}
 
-    <div class="text-center mt-32">
+    <div class="text-center mt-48 reveal">
       <a href="{{ $base }}/articles/" class="btn btn-outline-dark">{{ if $isFr }}Tous les articles{{ else }}Read All Articles{{ end }}</a>
     </div>
   </div>
