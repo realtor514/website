@@ -160,7 +160,8 @@ p:last-child { margin-bottom: 0; }
   height: 80px;
 }
 .nav__logo { display: flex; flex-direction: row; align-items: center; gap: 12px; }
-.nav__logo-img { height: 44px; width: auto; object-fit: contain; filter: brightness(0) invert(1); }
+.nav__logo-badge { background: #fff; border-radius: 10px; padding: 4px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+.nav__logo-img { height: 40px; width: 40px; object-fit: contain; display: block; }
 .nav__logo-text { display: flex; flex-direction: column; }
 .nav__logo-name {
   font-family: 'Playfair Display', serif;
@@ -306,7 +307,7 @@ p:last-child { margin-bottom: 0; }
   text-transform: uppercase;
   margin-bottom: 28px;
 }
-.hero__eyebrow-logo { height: 36px; width: auto; object-fit: contain; filter: brightness(0) invert(1); }
+.hero__eyebrow-logo { height: 28px; width: 28px; object-fit: contain; border-radius: 6px; background: #fff; padding: 2px; }
 .hero__name {
   color: var(--white);
   font-size: clamp(2.8rem, 6vw, 5rem);
