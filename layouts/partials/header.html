@@ -6,8 +6,13 @@
   <div class="container">
     <div class="nav__inner">
       <a href="{{ $homeURL }}" class="nav__logo">
-        <span class="nav__logo-name">{{ .Site.Params.name }}</span>
-        <span class="nav__logo-title">{{ .Site.Params.role }} &middot; RE/MAX</span>
+        <img src="{{ "images/remax-ducartier-blanc.png" | relURL }}"
+             alt="RE/MAX DU CARTIER"
+             class="nav__logo-img">
+        <div class="nav__logo-text">
+          <span class="nav__logo-name">{{ .Site.Params.name }}</span>
+          <span class="nav__logo-title">{{ .Site.Params.role }}</span>
+        </div>
       </a>
 
       <button class="nav__toggle" id="navToggle" aria-label="Toggle menu">
