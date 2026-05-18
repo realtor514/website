@@ -13,7 +13,7 @@
       <p class="article-card__excerpt">{{ .Summary | plainify | truncate 115 }}</p>
       <div class="article-card__meta">
         <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-        <span class="article-card__read-more">Read more &rarr;</span>
+        <span class="article-card__read-more">{{ if eq .Lang "fr" }}Lire la suite &rarr;{{ else if eq .Lang "ar" }}اقرأ المزيد &larr;{{ else }}Read more &rarr;{{ end }}</span>
       </div>
     </div>
   </a>

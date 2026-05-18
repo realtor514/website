@@ -91,6 +91,48 @@ defaultContentLanguageInSubdir = false
       url    = "/fr/#contact"
       weight = 5
 
+  [languages.ar]
+    weight       = 3
+    languageCode = "ar"
+    languageName = "العربية"
+    contentDir   = "content/ar"
+    title        = "جورج متار | وسيط عقاري سكني"
+
+    [languages.ar.params]
+      role        = "وسيط عقاري سكني"
+      tagline     = "وسيط عقاري سكني · لافال ومونتريال"
+      ctaListings = "عرض العقارات"
+      ctaContact  = "تواصل معي"
+      description = "جورج متار، وسيط عقاري سكني في RE/MAX DU CARTIER INC. نخدم المشترين والبائعين والمستثمرين في لافال ومنطقة مونتريال الكبرى."
+      bio         = "بفضل معرفتي العميقة بأسواق العقارات في مونتريال ولافال، أقدم توجيهاً شخصياً لمساعدة المشترين والبائعين والمستثمرين على تحقيق أهدافهم العقارية. التزامي بالتميز ورضا العملاء يقود كل ما أقوم به."
+      aboutBadge  = "نبذة عني"
+      aboutTitle  = "شغوف بإيجاد عقارك المثالي"
+
+    [[languages.ar.menus.main]]
+      name   = "الرئيسية"
+      url    = "/ar/"
+      weight = 1
+
+    [[languages.ar.menus.main]]
+      name   = "العقارات"
+      url    = "/ar/listings/"
+      weight = 2
+
+    [[languages.ar.menus.main]]
+      name   = "المقالات"
+      url    = "/ar/articles/"
+      weight = 3
+
+    [[languages.ar.menus.main]]
+      name   = "من أنا"
+      url    = "/ar/about/"
+      weight = 4
+
+    [[languages.ar.menus.main]]
+      name   = "تواصل"
+      url    = "/ar/#contact"
+      weight = 5
+
 [params]
   name         = "Georges Matar"
   brokerage    = "RE/MAX DU CARTIER INC."

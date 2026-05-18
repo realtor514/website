@@ -1,11 +1,12 @@
 {{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
 <section class="section contact-section" id="contact">
   <div class="container">
     <div class="contact-grid">
 
       <div class="contact-info">
-        <h2>{{ if $isFr }}Parlons<br>immobilier{{ else }}Let&rsquo;s Talk<br>Real Estate{{ end }}</h2>
-        <p>{{ if $isFr }}Prêt à acheter, vendre ou investir? Je suis là pour répondre à vos questions et vous accompagner à chaque étape.{{ else }}Ready to buy, sell, or invest? I&rsquo;m here to answer your questions and guide you through every step of the process.{{ end }}</p>
+        <h2>{{ if $isFr }}Parlons<br>immobilier{{ else if $isAr }}لنتحدث عن<br>العقارات{{ else }}Let&rsquo;s Talk<br>Real Estate{{ end }}</h2>
+        <p>{{ if $isFr }}Prêt à acheter, vendre ou investir? Je suis là pour répondre à vos questions et vous accompagner à chaque étape.{{ else if $isAr }}هل أنت مستعد للشراء أو البيع أو الاستثمار؟ أنا هنا للإجابة على أسئلتك ومرافقتك في كل خطوة.{{ else }}Ready to buy, sell, or invest? I&rsquo;m here to answer your questions and guide you through every step of the process.{{ end }}</p>
 
         <div class="contact-details">
 
@@ -16,7 +17,7 @@
               </svg>
             </div>
             <div>
-              <span class="contact-detail__label">{{ if $isFr }}Téléphone{{ else }}Phone{{ end }}</span>
+              <span class="contact-detail__label">{{ if $isFr }}Téléphone{{ else if $isAr }}الهاتف{{ else }}Phone{{ end }}</span>
               <a href="tel:+14383720102" class="contact-detail__value">{{ .Site.Params.phone }}</a>
             </div>
           </div>
@@ -29,7 +30,7 @@
               </svg>
             </div>
             <div>
-              <span class="contact-detail__label">{{ if $isFr }}Courriel{{ else }}Email{{ end }}</span>
+              <span class="contact-detail__label">{{ if $isFr }}Courriel{{ else if $isAr }}البريد الإلكتروني{{ else }}Email{{ end }}</span>
               <a href="mailto:{{ .Site.Params.email }}" class="contact-detail__value">{{ .Site.Params.email }}</a>
             </div>
           </div>
@@ -42,7 +43,7 @@
               </svg>
             </div>
             <div>
-              <span class="contact-detail__label">{{ if $isFr }}Bureau{{ else }}Office{{ end }}</span>
+              <span class="contact-detail__label">{{ if $isFr }}Bureau{{ else if $isAr }}المكتب{{ else }}Office{{ end }}</span>
               <span class="contact-detail__value">{{ .Site.Params.address }}</span>
             </div>
           </div>
@@ -55,10 +56,10 @@
               <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
               <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
             </svg>
-            {{ if $isFr }}Prendre rendez-vous{{ else }}Book a Meeting{{ end }}
+            {{ if $isFr }}Prendre rendez-vous{{ else if $isAr }}احجز موعداً{{ else }}Book a Meeting{{ end }}
           </button>
           <a href="{{ .Site.Params.remaxProfile }}" target="_blank" rel="noopener" class="btn btn-outline-dark" style="justify-content:center">
-            {{ if $isFr }}Voir mon profil RE/MAX{{ else }}View My RE/MAX Profile{{ end }}
+            {{ if $isFr }}Voir mon profil RE/MAX{{ else if $isAr }}ملفي الشخصي على RE/MAX{{ else }}View My RE/MAX Profile{{ end }}
           </a>
         </div>
       </div>
@@ -67,33 +68,33 @@
         <form class="contact-form" action="https://formspree.io/f/mwvzkzvl" method="POST">
           <div class="form-row">
             <div class="form-group">
-              <label class="form-label" for="firstName">{{ if $isFr }}Prénom{{ else }}First Name{{ end }}</label>
-              <input class="form-input" type="text" id="firstName" name="firstName" placeholder="{{ if $isFr }}Jean{{ else }}John{{ end }}" required>
+              <label class="form-label" for="firstName">{{ if $isFr }}Prénom{{ else if $isAr }}الاسم الأول{{ else }}First Name{{ end }}</label>
+              <input class="form-input" type="text" id="firstName" name="firstName" placeholder="{{ if $isFr }}Jean{{ else if $isAr }}محمد{{ else }}John{{ end }}" required>
             </div>
             <div class="form-group">
-              <label class="form-label" for="lastName">{{ if $isFr }}Nom{{ else }}Last Name{{ end }}</label>
-              <input class="form-input" type="text" id="lastName" name="lastName" placeholder="{{ if $isFr }}Tremblay{{ else }}Smith{{ end }}" required>
+              <label class="form-label" for="lastName">{{ if $isFr }}Nom{{ else if $isAr }}اسم العائلة{{ else }}Last Name{{ end }}</label>
+              <input class="form-input" type="text" id="lastName" name="lastName" placeholder="{{ if $isFr }}Tremblay{{ else if $isAr }}الأحمد{{ else }}Smith{{ end }}" required>
             </div>
           </div>
 
           <div class="form-group">
-            <label class="form-label" for="contactEmail">{{ if $isFr }}Courriel{{ else }}Email{{ end }}</label>
+            <label class="form-label" for="contactEmail">{{ if $isFr }}Courriel{{ else if $isAr }}البريد الإلكتروني{{ else }}Email{{ end }}</label>
             <input class="form-input" type="email" id="contactEmail" name="email" placeholder="jean@exemple.com" required>
           </div>
 
           <div class="form-group">
-            <label class="form-label" for="phone">{{ if $isFr }}Téléphone (optionnel){{ else }}Phone (optional){{ end }}</label>
+            <label class="form-label" for="phone">{{ if $isFr }}Téléphone (optionnel){{ else if $isAr }}الهاتف (اختياري){{ else }}Phone (optional){{ end }}</label>
             <input class="form-input" type="tel" id="phone" name="phone" placeholder="(514) 555-1234">
           </div>
 
           <div class="form-group">
-            <label class="form-label" for="message">{{ if $isFr }}Message{{ else }}Message{{ end }}</label>
+            <label class="form-label" for="message">{{ if $isFr }}Message{{ else if $isAr }}الرسالة{{ else }}Message{{ end }}</label>
             <textarea class="form-input form-input--textarea" id="message" name="message"
-              placeholder="{{ if $isFr }}Dites-moi ce que vous recherchez...{{ else }}Tell me what you're looking for...{{ end }}" required></textarea>
+              placeholder="{{ if $isFr }}Dites-moi ce que vous recherchez...{{ else if $isAr }}أخبرني عما تبحث عنه...{{ else }}Tell me what you're looking for...{{ end }}" required></textarea>
           </div>
 
           <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center">
-            {{ if $isFr }}Envoyer le message{{ else }}Send Message{{ end }}
+            {{ if $isFr }}Envoyer le message{{ else if $isAr }}إرسال الرسالة{{ else }}Send Message{{ end }}
           </button>
         </form>
       </div>

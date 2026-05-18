@@ -1,7 +1,8 @@
 {{ define "main" }}
 {{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
 {{ $base  := "" }}
-{{ if $isFr }}{{ $base = "/fr" }}{{ end }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ end }}
 
 {{ partial "hero.html" . }}
 
@@ -13,19 +14,19 @@
     <div class="stats-bar__grid">
       <div class="stat-item">
         <span class="stat-item__number">PhD</span>
-        <span class="stat-item__label">{{ if $isFr }}Formation académique{{ else }}Academic background{{ end }}</span>
+        <span class="stat-item__label">{{ if $isFr }}Formation académique{{ else if $isAr }}خلفية أكاديمية{{ else }}Academic background{{ end }}</span>
       </div>
       <div class="stat-item">
         <span class="stat-item__number">3</span>
-        <span class="stat-item__label">{{ if $isFr }}Langues parlées{{ else }}Languages spoken{{ end }}</span>
+        <span class="stat-item__label">{{ if $isFr }}Langues parlées{{ else if $isAr }}لغات{{ else }}Languages spoken{{ end }}</span>
       </div>
       <div class="stat-item">
         <span class="stat-item__number">RE/MAX</span>
-        <span class="stat-item__label">{{ if $isFr }}Réseau #1 mondial{{ else }}World's #1 network{{ end }}</span>
+        <span class="stat-item__label">{{ if $isFr }}Réseau #1 mondial{{ else if $isAr }}الشبكة الأولى عالمياً{{ else }}World's #1 network{{ end }}</span>
       </div>
       <div class="stat-item">
         <span class="stat-item__number" style="font-size:1.4rem">Laval, Montréal,<br>Rive-Nord</span>
-        <span class="stat-item__label">{{ if $isFr }}Spécialiste local{{ else }}Local specialist{{ end }}</span>
+        <span class="stat-item__label">{{ if $isFr }}Spécialiste local{{ else if $isAr }}متخصص محلي{{ else }}Local specialist{{ end }}</span>
       </div>
     </div>
   </div>
@@ -57,6 +58,13 @@
           <div class="highlight-item">Propriétés d'investissement</div>
           <div class="highlight-item">Service trilingue (FR/EN/AR)</div>
           <div class="highlight-item">Analyse de marché rigoureuse</div>
+          {{ else if $isAr }}
+          <div class="highlight-item">متخصص في مونتريال ولافال</div>
+          <div class="highlight-item">سكني</div>
+          <div class="highlight-item">المشترون الأوائل</div>
+          <div class="highlight-item">عقارات استثمارية</div>
+          <div class="highlight-item">خدمة ثلاثية اللغات (ع/ف/إ)</div>
+          <div class="highlight-item">تحليل السوق بدقة</div>
           {{ else }}
           <div class="highlight-item">Montréal &amp; Laval Specialist</div>
           <div class="highlight-item">Residential</div>
@@ -67,8 +75,8 @@
           {{ end }}
         </div>
         <div style="display:flex;gap:14px;flex-wrap:wrap">
-          <a href="{{ $base }}/about/" class="btn btn-outline-dark">{{ if $isFr }}En savoir plus{{ else }}Learn More{{ end }}</a>
-          <a href="{{ $base }}/#contact" class="btn btn-primary">{{ if $isFr }}Me contacter{{ else }}Contact Me{{ end }}</a>
+          <a href="{{ $base }}/about/" class="btn btn-outline-dark">{{ if $isFr }}En savoir plus{{ else if $isAr }}اعرف أكثر{{ else }}Learn More{{ end }}</a>
+          <a href="{{ $base }}/#contact" class="btn btn-primary">{{ if $isFr }}Me contacter{{ else if $isAr }}تواصل معي{{ else }}Contact Me{{ end }}</a>
         </div>
       </div>
     </div>
@@ -81,11 +89,13 @@
 <section class="section" id="listings">
   <div class="container">
     <div class="section-header reveal">
-      <span class="eyebrow">{{ if $isFr }}Inscriptions actuelles{{ else }}Current Listings{{ end }}</span>
-      <h2>{{ if $isFr }}Propriétés vedettes{{ else }}Featured Properties{{ end }}</h2>
+      <span class="eyebrow">{{ if $isFr }}Inscriptions actuelles{{ else if $isAr }}العقارات الحالية{{ else }}Current Listings{{ end }}</span>
+      <h2>{{ if $isFr }}Propriétés vedettes{{ else if $isAr }}عقارات مميزة{{ else }}Featured Properties{{ end }}</h2>
       <p class="subtitle">
         {{ if $isFr }}
           Propriétés sélectionnées dans les quartiers les plus recherchés de Montréal et Laval.
+        {{ else if $isAr }}
+          عقارات مختارة في أكثر أحياء مونتريال ولافال طلباً.
         {{ else }}
           Handpicked properties in the most sought-after neighbourhoods of Greater Montreal and Laval.
         {{ end }}
@@ -103,15 +113,17 @@
     {{ else }}
     <p class="text-center" style="color:#6b7280;padding:48px 0">
       {{ if $isFr }}
-        Propriétés à venir. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">Contactez-moi</a> pour les disponibilités.
+        Propriétés à venir. <a href="{{ $base }}/#contact" style="color:#FF1200;font-weight:600">Contactez-moi</a> pour les disponibilités.
+      {{ else if $isAr }}
+        عقارات قادمة قريباً. <a href="{{ $base }}/#contact" style="color:#FF1200;font-weight:600">تواصل معي</a> للاطلاع على المتوفر.
       {{ else }}
-        Properties coming soon. <a href="/#contact" style="color:#a8893d;font-weight:600">Contact me</a> for available listings.
+        Properties coming soon. <a href="/#contact" style="color:#FF1200;font-weight:600">Contact me</a> for available listings.
       {{ end }}
     </p>
     {{ end }}
 
     <div class="text-center mt-48 reveal">
-      <a href="{{ $base }}/listings/" class="btn btn-outline-dark">{{ if $isFr }}Voir toutes les propriétés{{ else }}View All Properties{{ end }}</a>
+      <a href="{{ $base }}/listings/" class="btn btn-outline-dark">{{ if $isFr }}Voir toutes les propriétés{{ else if $isAr }}عرض جميع العقارات{{ else }}View All Properties{{ end }}</a>
     </div>
   </div>
 </section>
@@ -120,11 +132,13 @@
 <section class="section section--light" id="articles">
   <div class="container">
     <div class="section-header reveal">
-      <span class="eyebrow">{{ if $isFr }}Expertise &amp; conseils{{ else }}Expertise &amp; Insights{{ end }}</span>
-      <h2>{{ if $isFr }}Conseils immobiliers{{ else }}Real Estate Insights{{ end }}</h2>
+      <span class="eyebrow">{{ if $isFr }}Expertise &amp; conseils{{ else if $isAr }}خبرة ونصائح{{ else }}Expertise &amp; Insights{{ end }}</span>
+      <h2>{{ if $isFr }}Conseils immobiliers{{ else if $isAr }}نصائح عقارية{{ else }}Real Estate Insights{{ end }}</h2>
       <p class="subtitle">
         {{ if $isFr }}
           Actualités du marché, conseils d'achat et analyses d'experts pour Montréal et Laval.
+        {{ else if $isAr }}
+          تحديثات السوق، نصائح الشراء، وتحليلات الخبراء لسوقي مونتريال ولافال.
         {{ else }}
           Market updates, buying tips, and expert analysis for the Montreal &amp; Laval market.
         {{ end }}
@@ -141,7 +155,7 @@
     {{ end }}
 
     <div class="text-center mt-48 reveal">
-      <a href="{{ $base }}/articles/" class="btn btn-outline-dark">{{ if $isFr }}Tous les articles{{ else }}Read All Articles{{ end }}</a>
+      <a href="{{ $base }}/articles/" class="btn btn-outline-dark">{{ if $isFr }}Tous les articles{{ else if $isAr }}جميع المقالات{{ else }}Read All Articles{{ end }}</a>
     </div>
   </div>
 </section>

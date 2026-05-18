@@ -1,6 +1,7 @@
 {{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
 {{ $listingsURL := "/listings/" }}
-{{ if $isFr }}{{ $listingsURL = "/fr/listings/" }}{{ end }}
+{{ if $isFr }}{{ $listingsURL = "/fr/listings/" }}{{ else if $isAr }}{{ $listingsURL = "/ar/listings/" }}{{ end }}
 
 <section class="hero">
   <img src="{{ "images/office/exterieur_par-proprietaire.webp" | relURL }}"
@@ -26,6 +27,8 @@
         <p class="hero__tagline reveal reveal-delay-2">
           {{ if $isFr }}
             Votre guide de confiance sur le marché immobilier de la grande région de Montréal.
+          {{ else if $isAr }}
+            دليلك الموثوق في سوق العقارات بمنطقة مونتريال الكبرى، بتحليل دقيق وخدمة تضع مصلحتك أولاً.
           {{ else }}
             Your trusted guide to the Greater Montreal real estate market — data-driven, client-first.
           {{ end }}
@@ -44,7 +47,7 @@
               <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
               <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
             </svg>
-            {{ if $isFr }}Prendre rendez-vous{{ else }}Book a Meeting{{ end }}
+            {{ if $isFr }}Prendre rendez-vous{{ else if $isAr }}احجز موعداً{{ else }}Book a Meeting{{ end }}
           </button>
           <a href="#contact" class="btn btn-outline">{{ .Site.Params.ctaContact }}</a>
         </div>
@@ -52,17 +55,17 @@
         <div class="hero__trust reveal reveal-delay-3">
           <div class="hero__trust-item">
             <span class="hero__trust-num">PhD</span>
-            <span class="hero__trust-label">{{ if $isFr }}Ingénierie{{ else }}Engineering{{ end }}</span>
+            <span class="hero__trust-label">{{ if $isFr }}Ingénierie{{ else if $isAr }}هندسة{{ else }}Engineering{{ end }}</span>
           </div>
           <div class="hero__trust-divider"></div>
           <div class="hero__trust-item">
             <span class="hero__trust-num">3</span>
-            <span class="hero__trust-label">{{ if $isFr }}Langues{{ else }}Languages{{ end }}</span>
+            <span class="hero__trust-label">{{ if $isFr }}Langues{{ else if $isAr }}لغات{{ else }}Languages{{ end }}</span>
           </div>
           <div class="hero__trust-divider"></div>
           <div class="hero__trust-item">
             <span class="hero__trust-num">RE/MAX</span>
-            <span class="hero__trust-label">{{ if $isFr }}Réseau mondial{{ else }}Global network{{ end }}</span>
+            <span class="hero__trust-label">{{ if $isFr }}Réseau mondial{{ else if $isAr }}شبكة عالمية{{ else }}Global network{{ end }}</span>
           </div>
         </div>
       </div>

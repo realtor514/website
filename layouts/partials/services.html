@@ -1,6 +1,7 @@
 {{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
 {{ $base  := "" }}
-{{ if $isFr }}{{ $base = "/fr" }}{{ end }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ end }}
 
 <section class="section services">
   <div class="container">
@@ -13,16 +14,18 @@
             <polyline points="9 22 9 12 15 12 15 22"/>
           </svg>
         </div>
-        <h3 class="service-card__title">{{ if $isFr }}Acheter{{ else }}Buying{{ end }}</h3>
+        <h3 class="service-card__title">{{ if $isFr }}Acheter{{ else if $isAr }}شراء{{ else }}Buying{{ end }}</h3>
         <p class="service-card__text">
           {{ if $isFr }}
             De la recherche à la remise des clés, je vous accompagne avec des données réelles et une stratégie adaptée à votre situation.
+          {{ else if $isAr }}
+            من البحث حتى استلام المفاتيح، أرافقك بتحليل دقيق واستراتيجية مصممة خصيصاً لوضعك المالي وأهدافك.
           {{ else }}
             From search to closing, I guide you with real data and a strategy tailored to your financial situation and lifestyle goals.
           {{ end }}
         </p>
         <a href="{{ $base }}/articles/" class="service-card__link">
-          {{ if $isFr }}Conseils d'achat{{ else }}Buyer resources{{ end }}
+          {{ if $isFr }}Conseils d'achat{{ else if $isAr }}نصائح للمشترين{{ else }}Buyer resources{{ end }}
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
         </a>
       </div>
@@ -33,16 +36,18 @@
             <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
           </svg>
         </div>
-        <h3 class="service-card__title">{{ if $isFr }}Vendre{{ else }}Selling{{ end }}</h3>
+        <h3 class="service-card__title">{{ if $isFr }}Vendre{{ else if $isAr }}بيع{{ else }}Selling{{ end }}</h3>
         <p class="service-card__text">
           {{ if $isFr }}
             Stratégie de prix basée sur les comparables, mise en marché professionnelle et négociation rigoureuse pour maximiser votre résultat.
+          {{ else if $isAr }}
+            تسعير مبني على تحليل المقارنات، تسويق احترافي، وتفاوض دقيق لتعظيم عائدك من البيع.
           {{ else }}
             Data-based pricing, professional marketing, and rigorous negotiation to maximize your sale price and minimize time on market.
           {{ end }}
         </p>
         <a href="{{ $base }}/#contact" class="service-card__link">
-          {{ if $isFr }}Évaluation gratuite{{ else }}Free evaluation{{ end }}
+          {{ if $isFr }}Évaluation gratuite{{ else if $isAr }}تقييم مجاني{{ else }}Free evaluation{{ end }}
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
         </a>
       </div>
@@ -53,16 +58,18 @@
             <line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
           </svg>
         </div>
-        <h3 class="service-card__title">{{ if $isFr }}Investir{{ else }}Investing{{ end }}</h3>
+        <h3 class="service-card__title">{{ if $isFr }}Investir{{ else if $isAr }}استثمار{{ else }}Investing{{ end }}</h3>
         <p class="service-card__text">
           {{ if $isFr }}
             Analyse du rendement, évaluation des plex et stratégies d'investissement immobilier adaptées au marché de Laval et Montréal.
+          {{ else if $isAr }}
+            تحليل العوائد، تقييم المباني السكنية، واستراتيجيات استثمارية مصممة لسوق لافال ومونتريال.
           {{ else }}
             Yield analysis, plex evaluation and investment strategies tailored to the Laval and Montreal market — engineered, not guessed.
           {{ end }}
         </p>
         <a href="{{ $base }}/articles/" class="service-card__link">
-          {{ if $isFr }}Stratégies d'investissement{{ else }}Investment strategies{{ end }}
+          {{ if $isFr }}Stratégies d'investissement{{ else if $isAr }}استراتيجيات الاستثمار{{ else }}Investment strategies{{ end }}
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
         </a>
       </div>
