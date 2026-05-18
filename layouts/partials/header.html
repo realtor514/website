@@ -1,7 +1,10 @@
+{{ $isFr := eq .Lang "fr" }}
+{{ $homeURL := "/" }}
+{{ if $isFr }}{{ $homeURL = "/fr/" }}{{ end }}
 <nav class="nav" role="navigation" aria-label="Main navigation">
   <div class="container">
     <div class="nav__inner">
-      <a href="{{ if eq .Lang "fr" }}/fr/{{ else }}/{{ end }}" class="nav__logo">
+      <a href="{{ $homeURL }}" class="nav__logo">
         <span class="nav__logo-name">{{ .Site.Params.name }}</span>
         <span class="nav__logo-title">{{ .Site.Params.role }} &middot; RE/MAX</span>
       </a>
@@ -13,15 +16,15 @@
       <ul class="nav__menu" id="navMenu">
         {{ range .Site.Menus.main }}
         <li>
-          <a href="{{ .URL }}" class="nav__link {{ if eq .Name "Contact" }}nav__cta{{ end }}{{ if eq .Name "Me contacter" }}nav__cta{{ end }}">
+          <a href="{{ .URL }}" class="nav__link{{ if eq .Name "Contact" }} nav__cta{{ end }}">
             {{ .Name }}
           </a>
         </li>
         {{ end }}
 
         <li class="lang-switch">
-          {{ if eq .Lang "fr" }}
-            <a href="{{ .RelPermalink | replaceRE "^/fr" "" | default "/" }}" class="lang-btn" title="English">EN</a>
+          {{ if $isFr }}
+            <a href="/" class="lang-btn" title="English">EN</a>
             <span class="lang-sep">/</span>
             <span class="lang-btn active">FR</span>
           {{ else }}

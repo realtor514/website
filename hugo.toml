@@ -14,7 +14,7 @@ defaultContentLanguageInSubdir = false
 
     [languages.en.params]
       role        = "Real Estate Broker"
-      tagline     = "Real Estate Broker · Laval & Montréal"
+      tagline     = "Real Estate Broker &middot; Laval &amp; Montr&eacute;al"
       heroQuote   = "&ldquo;Your trusted guide to the Greater Montreal real estate market.&rdquo;"
       ctaListings = "View Properties"
       ctaContact  = "Contact Me"
@@ -24,15 +24,29 @@ defaultContentLanguageInSubdir = false
       aboutTitle  = "Passionate About Finding Your Perfect Property"
 
     [[languages.en.menus.main]]
-      name = "Home"       ; url = "/";          weight = 1
+      name   = "Home"
+      url    = "/"
+      weight = 1
+
     [[languages.en.menus.main]]
-      name = "Properties" ; url = "/listings/";  weight = 2
+      name   = "Properties"
+      url    = "/listings/"
+      weight = 2
+
     [[languages.en.menus.main]]
-      name = "Articles"   ; url = "/articles/";  weight = 3
+      name   = "Articles"
+      url    = "/articles/"
+      weight = 3
+
     [[languages.en.menus.main]]
-      name = "About"      ; url = "/about/";     weight = 4
+      name   = "About"
+      url    = "/about/"
+      weight = 4
+
     [[languages.en.menus.main]]
-      name = "Contact"    ; url = "/#contact";   weight = 5
+      name   = "Contact"
+      url    = "/#contact"
+      weight = 5
 
   [languages.fr]
     weight       = 2
@@ -43,9 +57,9 @@ defaultContentLanguageInSubdir = false
 
     [languages.fr.params]
       role        = "Courtier Immobilier"
-      tagline     = "Courtier Immobilier · Laval &amp; Montréal"
-      heroQuote   = "&laquo;&nbsp;Votre guide de confiance sur le marché immobilier de la grande région de Montréal.&nbsp;&raquo;"
-      ctaListings = "Voir les propriétés"
+      tagline     = "Courtier Immobilier &middot; Laval &amp; Montr&eacute;al"
+      heroQuote   = "Votre guide de confiance sur le march&eacute; immobilier de la grande r&eacute;gion de Montr&eacute;al."
+      ctaListings = "Voir les propri&eacute;t&eacute;s"
       ctaContact  = "Me contacter"
       description = "Courtier immobilier à Laval et dans la grande région de Montréal. Résidentiel, commercial et investissement immobilier."
       bio         = "Avec une connaissance approfondie des marchés immobiliers de Montréal et Laval, j'offre un accompagnement personnalisé pour aider acheteurs, vendeurs et investisseurs à atteindre leurs objectifs immobiliers."
@@ -53,22 +67,36 @@ defaultContentLanguageInSubdir = false
       aboutTitle  = "Passionné par la recherche de votre propriété idéale"
 
     [[languages.fr.menus.main]]
-      name = "Accueil"     ; url = "/fr/";           weight = 1
+      name   = "Accueil"
+      url    = "/fr/"
+      weight = 1
+
     [[languages.fr.menus.main]]
-      name = "Propriétés"  ; url = "/fr/listings/";  weight = 2
+      name   = "Propriétés"
+      url    = "/fr/listings/"
+      weight = 2
+
     [[languages.fr.menus.main]]
-      name = "Articles"    ; url = "/fr/articles/";  weight = 3
+      name   = "Articles"
+      url    = "/fr/articles/"
+      weight = 3
+
     [[languages.fr.menus.main]]
-      name = "À propos"    ; url = "/fr/about/";     weight = 4
+      name   = "À propos"
+      url    = "/fr/about/"
+      weight = 4
+
     [[languages.fr.menus.main]]
-      name = "Contact"     ; url = "/fr/#contact";   weight = 5
+      name   = "Contact"
+      url    = "/fr/#contact"
+      weight = 5
 
 [params]
-  name        = "Georges Matar"
-  brokerage   = "RE/MAX DU CARTIER INC."
-  phone       = "(438) 372-0102"
-  email       = "georges.matar@remax-quebec.com"
-  address     = "2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), Québec H7E 5A1"
+  name         = "Georges Matar"
+  brokerage    = "RE/MAX DU CARTIER INC."
+  phone        = "(438) 372-0102"
+  email        = "georges.matar@remax-quebec.com"
+  address      = "2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), Québec H7E 5A1"
   remaxProfile = "https://remaxducartier.com/fr/courtiers/georges-matar-140955"
 
 [markup]
