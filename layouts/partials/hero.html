@@ -12,30 +12,27 @@
           Georges<br><span>Matar</span>
         </h1>
 
-        <p class="hero__title">Real Estate Broker &middot; Laval &amp; Montr&eacute;al</p>
+        <p class="hero__title">{{ .Site.Params.tagline | safeHTML }}</p>
 
-        <p class="hero__tagline">
-          &ldquo;Your trusted guide to the Greater Montreal<br>real estate market.&rdquo;
-        </p>
+        <p class="hero__tagline">{{ .Site.Params.heroQuote | safeHTML }}</p>
 
         <div class="hero__actions">
-          <a href="{{ "/listings/" | relURL }}" class="btn btn-primary">
+          <a href="{{ if eq .Lang "fr" }}/fr/listings/{{ else }}/listings/{{ end }}" class="btn btn-primary">
             <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
               <polyline points="9 22 9 12 15 12 15 22"/>
             </svg>
-            View Properties
+            {{ .Site.Params.ctaListings }}
           </a>
-          <a href="#contact" class="btn btn-outline">Contact Me</a>
+          <a href="#contact" class="btn btn-outline">{{ .Site.Params.ctaContact }}</a>
         </div>
-
       </div>
 
       <div class="hero__photo-wrap">
         <div class="hero__photo-bg"></div>
         <img
           src="{{ "images/georges-matar.png" | relURL }}"
-          alt="Georges Matar &mdash; Real Estate Broker"
+          alt="Georges Matar - {{ .Site.Params.role }}"
           class="hero__photo"
           width="460"
           height="580"

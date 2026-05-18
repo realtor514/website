@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $base  := cond $isFr "/fr" "" }}
 
 {{ partial "hero.html" . }}
 
@@ -8,22 +10,31 @@
     <div class="about-section">
       <div class="about-section__photo">
         <img src="{{ "images/georges-matar.png" | relURL }}"
-             alt="{{ .Site.Params.name }} - Real Estate Broker"
+             alt="{{ .Site.Params.name }} - {{ .Site.Params.role }}"
              width="400" height="420">
       </div>
       <div>
-        <span class="about-section__badge">About Me</span>
-        <h2>Passionate About Finding<br>Your Perfect Property</h2>
+        <span class="about-section__badge">{{ .Site.Params.aboutBadge }}</span>
+        <h2>{{ .Site.Params.aboutTitle }}</h2>
         <p class="about-section__text">{{ .Site.Params.bio }}</p>
         <div class="about-section__highlights">
+          {{ if $isFr }}
+          <div class="highlight-item">Spécialiste Montr&eacute;al &amp; Laval</div>
+          <div class="highlight-item">Résidentiel &amp; Commercial</div>
+          <div class="highlight-item">Premiers acheteurs</div>
+          <div class="highlight-item">Propriétés d'investissement</div>
+          <div class="highlight-item">Service bilingue (FR/EN)</div>
+          <div class="highlight-item">Analyses de marché</div>
+          {{ else }}
           <div class="highlight-item">Montr&eacute;al &amp; Laval Specialist</div>
           <div class="highlight-item">Residential &amp; Commercial</div>
           <div class="highlight-item">First-Time Buyers</div>
           <div class="highlight-item">Investment Properties</div>
           <div class="highlight-item">Bilingual Service (FR/EN)</div>
           <div class="highlight-item">Market Analysis Expertise</div>
+          {{ end }}
         </div>
-        <a href="{{ "/about/" | relURL }}" class="btn btn-outline-dark">Learn More</a>
+        <a href="{{ $base }}/about/" class="btn btn-outline-dark">{{ if $isFr }}En savoir plus{{ else }}Learn More{{ end }}</a>
       </div>
     </div>
   </div>
@@ -33,8 +44,8 @@
 <section class="section section--light" id="listings">
   <div class="container">
     <div class="section-header">
-      <h2>Featured Properties</h2>
-      <p class="subtitle">Handpicked properties in Montr&eacute;al and Laval&rsquo;s most sought-after neighbourhoods</p>
+      <h2>{{ if $isFr }}Propriétés vedettes{{ else }}Featured Properties{{ end }}</h2>
+      <p class="subtitle">{{ if $isFr }}Propriétés sélectionnées dans les quartiers les plus recherchés de Montr&eacute;al et Laval{{ else }}Handpicked properties in Montr&eacute;al and Laval&rsquo;s most sought-after neighbourhoods{{ end }}</p>
     </div>
 
     {{ $listings := where .Site.RegularPages "Section" "listings" }}
@@ -47,12 +58,12 @@
     </div>
     {{ else }}
     <p class="text-center" style="color:#6b7280;padding:40px 0">
-      Properties coming soon. <a href="/#contact" style="color:#a8893d;font-weight:600">Contact me</a> for available listings.
+      {{ if $isFr }}Propriétés à venir. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">Contactez-moi</a> pour les disponibilités.{{ else }}Properties coming soon. <a href="/#contact" style="color:#a8893d;font-weight:600">Contact me</a> for available listings.{{ end }}
     </p>
     {{ end }}
 
     <div class="text-center mt-32">
-      <a href="{{ "/listings/" | relURL }}" class="btn btn-outline-dark">View All Properties</a>
+      <a href="{{ $base }}/listings/" class="btn btn-outline-dark">{{ if $isFr }}Voir toutes les propriétés{{ else }}View All Properties{{ end }}</a>
     </div>
   </div>
 </section>
@@ -61,8 +72,8 @@
 <section class="section" id="articles">
   <div class="container">
     <div class="section-header">
-      <h2>Real Estate Insights</h2>
-      <p class="subtitle">Market updates, buying tips, and expert advice for the Montr&eacute;al &amp; Laval market</p>
+      <h2>{{ if $isFr }}Conseils immobiliers{{ else }}Real Estate Insights{{ end }}</h2>
+      <p class="subtitle">{{ if $isFr }}Actualités du marché, conseils d'achat et analyses d'experts pour Montr&eacute;al et Laval{{ else }}Market updates, buying tips, and expert advice for the Montr&eacute;al &amp; Laval market{{ end }}</p>
     </div>
 
     {{ $articles := where .Site.RegularPages "Section" "articles" }}
@@ -73,11 +84,11 @@
       {{ range $recent }}{{ partial "article-card.html" . }}{{ end }}
     </div>
     {{ else }}
-    <p class="text-center" style="color:#6b7280;padding:40px 0">Articles coming soon. Check back shortly.</p>
+    <p class="text-center" style="color:#6b7280;padding:40px 0">{{ if $isFr }}Articles à venir.{{ else }}Articles coming soon.{{ end }}</p>
     {{ end }}
 
     <div class="text-center mt-32">
-      <a href="{{ "/articles/" | relURL }}" class="btn btn-outline-dark">Read All Articles</a>
+      <a href="{{ $base }}/articles/" class="btn btn-outline-dark">{{ if $isFr }}Tous les articles{{ else }}Read All Articles{{ end }}</a>
     </div>
   </div>
 </section>

@@ -1,15 +1,21 @@
 {{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $base  := cond $isFr "/fr" "" }}
 
 <section class="content-hero">
   <div class="container">
     <div class="breadcrumb">
-      <a href="{{ "/" | relURL }}">Home</a>
+      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else }}Home{{ end }}</a>
       <span class="breadcrumb__sep">&rsaquo;</span>
-      <span>Properties</span>
+      <span>{{ if $isFr }}Propriétés{{ else }}Properties{{ end }}</span>
     </div>
-    <h1 class="content-hero__title">Available Properties</h1>
+    <h1 class="content-hero__title">{{ if $isFr }}Propriétés disponibles{{ else }}Available Properties{{ end }}</h1>
     <p style="color:rgba(255,255,255,.65);max-width:560px;margin-top:12px">
-      Explore my current listings in Montr&eacute;al, Laval, and surrounding areas.
+      {{ if $isFr }}
+        Découvrez mes inscriptions à Montr&eacute;al, Laval et dans les environs.
+      {{ else }}
+        Explore my current listings in Montr&eacute;al, Laval, and surrounding areas.
+      {{ end }}
     </p>
   </div>
 </section>
@@ -24,7 +30,11 @@
     </div>
     {{ else }}
     <p class="text-center" style="padding:60px 0;color:#6b7280">
-      Listings coming soon. <a href="/#contact" style="color:#a8893d;font-weight:600">Contact me</a> for available properties.
+      {{ if $isFr }}
+        Inscriptions à venir. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">Contactez-moi</a> pour les propriétés disponibles.
+      {{ else }}
+        Listings coming soon. <a href="/#contact" style="color:#a8893d;font-weight:600">Contact me</a> for available properties.
+      {{ end }}
     </p>
     {{ end }}
 

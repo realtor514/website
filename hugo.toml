@@ -1,46 +1,80 @@
 baseURL = "https://georgesmatar.space/"
-languageCode = "en-ca"
-title = "Georges Matar | Real Estate Broker"
-
 enableRobotsTXT = true
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages]
+
+  [languages.en]
+    weight       = 1
+    languageCode = "en-ca"
+    languageName = "English"
+    contentDir   = "content/en"
+    title        = "Georges Matar | Real Estate Broker"
+
+    [languages.en.params]
+      role        = "Real Estate Broker"
+      tagline     = "Real Estate Broker · Laval & Montréal"
+      heroQuote   = "&ldquo;Your trusted guide to the Greater Montreal real estate market.&rdquo;"
+      ctaListings = "View Properties"
+      ctaContact  = "Contact Me"
+      description = "Real estate broker in Laval and Greater Montreal. Residential, commercial, and investment properties."
+      bio         = "With deep knowledge of the Montreal and Laval real estate markets, I provide personalized guidance to help buyers, sellers, and investors achieve their real estate goals. My commitment to excellence and client satisfaction drives everything I do."
+      aboutBadge  = "About Me"
+      aboutTitle  = "Passionate About Finding Your Perfect Property"
+
+    [[languages.en.menus.main]]
+      name = "Home"       ; url = "/";          weight = 1
+    [[languages.en.menus.main]]
+      name = "Properties" ; url = "/listings/";  weight = 2
+    [[languages.en.menus.main]]
+      name = "Articles"   ; url = "/articles/";  weight = 3
+    [[languages.en.menus.main]]
+      name = "About"      ; url = "/about/";     weight = 4
+    [[languages.en.menus.main]]
+      name = "Contact"    ; url = "/#contact";   weight = 5
+
+  [languages.fr]
+    weight       = 2
+    languageCode = "fr-ca"
+    languageName = "Français"
+    contentDir   = "content/fr"
+    title        = "Georges Matar | Courtier Immobilier"
+
+    [languages.fr.params]
+      role        = "Courtier Immobilier"
+      tagline     = "Courtier Immobilier · Laval &amp; Montréal"
+      heroQuote   = "&laquo;&nbsp;Votre guide de confiance sur le marché immobilier de la grande région de Montréal.&nbsp;&raquo;"
+      ctaListings = "Voir les propriétés"
+      ctaContact  = "Me contacter"
+      description = "Courtier immobilier à Laval et dans la grande région de Montréal. Résidentiel, commercial et investissement immobilier."
+      bio         = "Avec une connaissance approfondie des marchés immobiliers de Montréal et Laval, j'offre un accompagnement personnalisé pour aider acheteurs, vendeurs et investisseurs à atteindre leurs objectifs immobiliers."
+      aboutBadge  = "À propos"
+      aboutTitle  = "Passionné par la recherche de votre propriété idéale"
+
+    [[languages.fr.menus.main]]
+      name = "Accueil"     ; url = "/fr/";           weight = 1
+    [[languages.fr.menus.main]]
+      name = "Propriétés"  ; url = "/fr/listings/";  weight = 2
+    [[languages.fr.menus.main]]
+      name = "Articles"    ; url = "/fr/articles/";  weight = 3
+    [[languages.fr.menus.main]]
+      name = "À propos"    ; url = "/fr/about/";     weight = 4
+    [[languages.fr.menus.main]]
+      name = "Contact"     ; url = "/fr/#contact";   weight = 5
 
 [params]
   name        = "Georges Matar"
-  role        = "Real Estate Broker"
   brokerage   = "RE/MAX DU CARTIER INC."
   phone       = "(438) 372-0102"
   email       = "georges.matar@remax-quebec.com"
   address     = "2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), Québec H7E 5A1"
   remaxProfile = "https://remaxducartier.com/fr/courtiers/georges-matar-140955"
-  description = "Real estate broker in Laval and Greater Montreal. Residential, commercial, and investment properties."
-  bio         = "With deep knowledge of the Montreal and Laval real estate markets, I provide personalized guidance to help buyers, sellers, and investors achieve their real estate goals. My commitment to excellence and client satisfaction drives everything I do."
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[menu]
-  [[menu.main]]
-    name   = "Home"
-    url    = "/"
-    weight = 1
-  [[menu.main]]
-    name   = "Properties"
-    url    = "/listings/"
-    weight = 2
-  [[menu.main]]
-    name   = "Articles"
-    url    = "/articles/"
-    weight = 3
-  [[menu.main]]
-    name   = "About"
-    url    = "/about/"
-    weight = 4
-  [[menu.main]]
-    name   = "Contact"
-    url    = "/#contact"
-    weight = 5
 
 [pagination]
   pagerSize = 9

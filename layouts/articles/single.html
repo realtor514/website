@@ -1,20 +1,22 @@
 {{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $base  := cond $isFr "/fr" "" }}
 
 <section class="content-hero">
   <div class="container">
     <div class="breadcrumb">
-      <a href="{{ "/" | relURL }}">Home</a>
+      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else }}Home{{ end }}</a>
       <span class="breadcrumb__sep">&rsaquo;</span>
-      <a href="{{ "/articles/" | relURL }}">Articles</a>
+      <a href="{{ $base }}/articles/">Articles</a>
       <span class="breadcrumb__sep">&rsaquo;</span>
       <span>{{ .Title | truncate 40 }}</span>
     </div>
     {{ with .Params.category }}<p class="content-hero__category">{{ . }}</p>{{ end }}
     <h1 class="content-hero__title">{{ .Title }}</h1>
     <p class="content-hero__meta">
-      By <strong style="color:rgba(255,255,255,.9)">Georges Matar</strong> &middot;
+      {{ if $isFr }}Par{{ else }}By{{ end }} <strong style="color:rgba(255,255,255,.9)">Georges Matar</strong> &middot;
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-      &middot; {{ .ReadingTime }} min read
+      &middot; {{ .ReadingTime }} {{ if $isFr }}min de lecture{{ else }}min read{{ end }}
     </p>
   </div>
 </section>
@@ -33,15 +35,17 @@
          style="width:68px;height:68px;border-radius:50%;object-fit:cover;object-position:top center;flex-shrink:0">
     <div>
       <strong style="font-family:'Playfair Display',serif;font-size:1.05rem;color:#0d1b2a">Georges Matar</strong>
-      <p style="margin:4px 0 12px;font-size:.88rem;color:#6b7280">Real Estate Broker &middot; RE/MAX DU CARTIER INC.</p>
-      <a href="/#contact" class="btn btn-outline-dark" style="font-size:.83rem;padding:8px 16px">Contact Georges</a>
+      <p style="margin:4px 0 12px;font-size:.88rem;color:#6b7280">{{ .Site.Params.role }} &middot; RE/MAX DU CARTIER INC.</p>
+      <a href="{{ $base }}/#contact" class="btn btn-outline-dark" style="font-size:.83rem;padding:8px 16px">
+        {{ if $isFr }}Contacter Georges{{ else }}Contact Georges{{ end }}
+      </a>
     </div>
   </div>
 </div>
 
 <section class="section section--light">
   <div class="container">
-    <h2 style="margin-bottom:32px">More Articles</h2>
+    <h2 style="margin-bottom:32px">{{ if $isFr }}Plus d'articles{{ else }}More Articles{{ end }}</h2>
     <div class="articles-grid">
       {{ $others := where .Site.RegularPages "Section" "articles" }}
       {{ $others  = where $others "Permalink" "ne" .Permalink }}

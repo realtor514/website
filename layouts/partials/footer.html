@@ -1,38 +1,44 @@
+{{ $isFr := eq .Lang "fr" }}
+{{ $base := cond $isFr "/fr" "" }}
 <footer class="footer">
   <div class="container">
     <div class="footer__inner">
       <div>
         <div class="footer__brand-name">{{ .Site.Params.name }}</div>
-        <div class="footer__brand-title">Real Estate Broker</div>
+        <div class="footer__brand-title">{{ .Site.Params.role }}</div>
         <p class="footer__brand-text">
-          Your trusted partner for buying, selling, and investing in real estate in the Greater Montreal and Laval area.
+          {{ if $isFr }}
+            Votre partenaire de confiance pour l'achat, la vente et l'investissement immobilier dans la grande région de Montréal et Laval.
+          {{ else }}
+            Your trusted partner for buying, selling, and investing in real estate in the Greater Montreal and Laval area.
+          {{ end }}
         </p>
       </div>
 
       <div>
-        <h4 class="footer__heading">Navigation</h4>
+        <h4 class="footer__heading">{{ if $isFr }}Navigation{{ else }}Navigation{{ end }}</h4>
         <ul class="footer__links">
-          <li><a href="{{ "/" | relURL }}"         class="footer__link">Home</a></li>
-          <li><a href="{{ "/listings/" | relURL }}" class="footer__link">Properties</a></li>
-          <li><a href="{{ "/articles/" | relURL }}" class="footer__link">Articles</a></li>
-          <li><a href="{{ "/about/" | relURL }}"    class="footer__link">About</a></li>
-          <li><a href="/#contact"                   class="footer__link">Contact</a></li>
+          <li><a href="{{ $base }}/" class="footer__link">{{ if $isFr }}Accueil{{ else }}Home{{ end }}</a></li>
+          <li><a href="{{ $base }}/listings/" class="footer__link">{{ if $isFr }}Propriétés{{ else }}Properties{{ end }}</a></li>
+          <li><a href="{{ $base }}/articles/" class="footer__link">Articles</a></li>
+          <li><a href="{{ $base }}/about/" class="footer__link">{{ if $isFr }}À propos{{ else }}About{{ end }}</a></li>
+          <li><a href="{{ $base }}/#contact" class="footer__link">Contact</a></li>
         </ul>
       </div>
 
       <div>
         <h4 class="footer__heading">Contact</h4>
         <ul class="footer__links">
-          <li><a href="tel:+14383720102"                       class="footer__link">{{ .Site.Params.phone }}</a></li>
-          <li><a href="mailto:{{ .Site.Params.email }}"        class="footer__link">{{ .Site.Params.email }}</a></li>
-          <li><a href="{{ .Site.Params.remaxProfile }}" target="_blank" rel="noopener" class="footer__link">RE/MAX Profile</a></li>
+          <li><a href="tel:+14383720102" class="footer__link">{{ .Site.Params.phone }}</a></li>
+          <li><a href="mailto:{{ .Site.Params.email }}" class="footer__link">{{ .Site.Params.email }}</a></li>
+          <li><a href="{{ .Site.Params.remaxProfile }}" target="_blank" rel="noopener" class="footer__link">{{ if $isFr }}Profil RE/MAX{{ else }}RE/MAX Profile{{ end }}</a></li>
         </ul>
       </div>
     </div>
 
     <div class="footer__bottom">
       <span>&copy; {{ now.Year }} {{ .Site.Params.name }} &middot; <span class="footer__remax">{{ .Site.Params.brokerage }}</span></span>
-      <span>Real estate broker in Laval &amp; Montr&eacute;al</span>
+      <span>{{ if $isFr }}Courtier immobilier &agrave; Laval &amp; Montr&eacute;al{{ else }}Real estate broker in Laval &amp; Montr&eacute;al{{ end }}</span>
     </div>
   </div>
 </footer>

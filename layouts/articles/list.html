@@ -1,15 +1,20 @@
 {{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
 
 <section class="content-hero">
   <div class="container">
     <div class="breadcrumb">
-      <a href="{{ "/" | relURL }}">Home</a>
+      <a href="{{ if $isFr }}/fr/{{ else }}/{{ end }}">{{ if $isFr }}Accueil{{ else }}Home{{ end }}</a>
       <span class="breadcrumb__sep">&rsaquo;</span>
       <span>Articles</span>
     </div>
-    <h1 class="content-hero__title">Real Estate Insights</h1>
+    <h1 class="content-hero__title">{{ if $isFr }}Conseils immobiliers{{ else }}Real Estate Insights{{ end }}</h1>
     <p style="color:rgba(255,255,255,.65);max-width:560px;margin-top:12px">
-      Market trends, buying tips, investment advice, and local neighbourhood guides for Montr&eacute;al &amp; Laval.
+      {{ if $isFr }}
+        Actualités du marché, conseils d'achat, conseils d'investissement et guides de quartiers pour Montr&eacute;al et Laval.
+      {{ else }}
+        Market trends, buying tips, investment advice, and local neighbourhood guides for Montr&eacute;al &amp; Laval.
+      {{ end }}
     </p>
   </div>
 </section>
@@ -23,7 +28,9 @@
       {{ range $paginator.Pages }}{{ partial "article-card.html" . }}{{ end }}
     </div>
     {{ else }}
-    <p class="text-center" style="padding:60px 0;color:#6b7280">No articles yet &mdash; check back soon.</p>
+    <p class="text-center" style="padding:60px 0;color:#6b7280">
+      {{ if $isFr }}Aucun article pour l'instant, revenez bientôt.{{ else }}No articles yet, check back soon.{{ end }}
+    </p>
     {{ end }}
 
     {{ template "_internal/pagination.html" . }}

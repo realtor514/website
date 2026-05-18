@@ -1,10 +1,11 @@
+{{ $isFr := eq .Lang "fr" }}
 <section class="section contact-section" id="contact">
   <div class="container">
     <div class="contact-grid">
 
       <div class="contact-info">
-        <h2>Let&rsquo;s Talk<br>Real Estate</h2>
-        <p>Ready to buy, sell, or invest? I&rsquo;m here to answer your questions and guide you through every step of the process.</p>
+        <h2>{{ if $isFr }}Parlons<br>immobilier{{ else }}Let&rsquo;s Talk<br>Real Estate{{ end }}</h2>
+        <p>{{ if $isFr }}Prêt à acheter, vendre ou investir? Je suis là pour répondre à vos questions et vous accompagner à chaque étape.{{ else }}Ready to buy, sell, or invest? I&rsquo;m here to answer your questions and guide you through every step of the process.{{ end }}</p>
 
         <div class="contact-details">
 
@@ -15,7 +16,7 @@
               </svg>
             </div>
             <div>
-              <span class="contact-detail__label">Phone</span>
+              <span class="contact-detail__label">{{ if $isFr }}Téléphone{{ else }}Phone{{ end }}</span>
               <a href="tel:+14383720102" class="contact-detail__value">{{ .Site.Params.phone }}</a>
             </div>
           </div>
@@ -28,7 +29,7 @@
               </svg>
             </div>
             <div>
-              <span class="contact-detail__label">Email</span>
+              <span class="contact-detail__label">{{ if $isFr }}Courriel{{ else }}Email{{ end }}</span>
               <a href="mailto:{{ .Site.Params.email }}" class="contact-detail__value">{{ .Site.Params.email }}</a>
             </div>
           </div>
@@ -41,7 +42,7 @@
               </svg>
             </div>
             <div>
-              <span class="contact-detail__label">Office</span>
+              <span class="contact-detail__label">{{ if $isFr }}Bureau{{ else }}Office{{ end }}</span>
               <span class="contact-detail__value">{{ .Site.Params.address }}</span>
             </div>
           </div>
@@ -50,46 +51,42 @@
 
         <div style="margin-top:32px">
           <a href="{{ .Site.Params.remaxProfile }}" target="_blank" rel="noopener" class="btn btn-primary">
-            View My RE/MAX Profile
+            {{ if $isFr }}Voir mon profil RE/MAX{{ else }}View My RE/MAX Profile{{ end }}
           </a>
         </div>
       </div>
 
       <div>
-        {{/*
-          SETUP: Register free at formspree.io, create a form linked to your email,
-          then replace YOUR_FORM_ID below with the ID they give you (e.g. xvgpkbjn).
-        */}}
         <form class="contact-form" action="https://formspree.io/f/mwvzkzvl" method="POST">
           <div class="form-row">
             <div class="form-group">
-              <label class="form-label" for="firstName">First Name</label>
-              <input class="form-input" type="text" id="firstName" name="firstName" placeholder="John" required>
+              <label class="form-label" for="firstName">{{ if $isFr }}Prénom{{ else }}First Name{{ end }}</label>
+              <input class="form-input" type="text" id="firstName" name="firstName" placeholder="{{ if $isFr }}Jean{{ else }}John{{ end }}" required>
             </div>
             <div class="form-group">
-              <label class="form-label" for="lastName">Last Name</label>
-              <input class="form-input" type="text" id="lastName" name="lastName" placeholder="Smith" required>
+              <label class="form-label" for="lastName">{{ if $isFr }}Nom{{ else }}Last Name{{ end }}</label>
+              <input class="form-input" type="text" id="lastName" name="lastName" placeholder="{{ if $isFr }}Tremblay{{ else }}Smith{{ end }}" required>
             </div>
           </div>
 
           <div class="form-group">
-            <label class="form-label" for="contactEmail">Email</label>
-            <input class="form-input" type="email" id="contactEmail" name="email" placeholder="john@example.com" required>
+            <label class="form-label" for="contactEmail">{{ if $isFr }}Courriel{{ else }}Email{{ end }}</label>
+            <input class="form-input" type="email" id="contactEmail" name="email" placeholder="jean@exemple.com" required>
           </div>
 
           <div class="form-group">
-            <label class="form-label" for="phone">Phone (optional)</label>
+            <label class="form-label" for="phone">{{ if $isFr }}Téléphone (optionnel){{ else }}Phone (optional){{ end }}</label>
             <input class="form-input" type="tel" id="phone" name="phone" placeholder="(514) 555-1234">
           </div>
 
           <div class="form-group">
-            <label class="form-label" for="message">Message</label>
+            <label class="form-label" for="message">{{ if $isFr }}Message{{ else }}Message{{ end }}</label>
             <textarea class="form-input form-input--textarea" id="message" name="message"
-              placeholder="Tell me what you&#39;re looking for..." required></textarea>
+              placeholder="{{ if $isFr }}Dites-moi ce que vous recherchez...{{ else }}Tell me what you're looking for...{{ end }}" required></textarea>
           </div>
 
           <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center">
-            Send Message
+            {{ if $isFr }}Envoyer le message{{ else }}Send Message{{ end }}
           </button>
         </form>
       </div>
