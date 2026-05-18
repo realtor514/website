@@ -1,6 +1,6 @@
 ---
 title: "À propos de Georges Matar"
-description: "Courtier immobilier chez RE/MAX DU CARTIER INC., au service de Laval et de la grande région de Montréal."
+description: "Courtier immobilier résidentiel chez RE/MAX DU CARTIER INC., au service de Laval et de la grande région de Montréal."
 ---
 
 ## Mon approche

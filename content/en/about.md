@@ -1,6 +1,6 @@
 ---
 title: "About Georges Matar"
-description: "Real estate broker at RE/MAX DU CARTIER INC., serving Laval and Greater Montréal."
+description: "Residential real estate broker at RE/MAX DU CARTIER INC., serving Laval and Greater Montréal."
 ---
 
 ## My Approach
