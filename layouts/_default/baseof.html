@@ -29,38 +29,142 @@
 </button>
 
 <script>
-  // Nav scroll effect
+  // ── Scroll progress bar ──
+  const progressBar = document.createElement('div');
+  progressBar.className = 'scroll-progress';
+  document.body.prepend(progressBar);
+
+  // ── Nav scroll effect ──
   const nav = document.querySelector('.nav');
+
   window.addEventListener('scroll', () => {
     nav.classList.toggle('nav--scrolled', window.scrollY > 40);
-  });
+    const max = document.documentElement.scrollHeight - window.innerHeight;
+    if (max > 0) progressBar.style.transform = `scaleX(${window.scrollY / max})`;
+    scrollBtn.classList.toggle('visible', window.scrollY > 500);
+  }, { passive: true });
 
-  // Mobile menu
+  // ── Mobile menu ──
   const toggle = document.getElementById('navToggle');
   const menu   = document.getElementById('navMenu');
   if (toggle && menu) {
     toggle.addEventListener('click', () => menu.classList.toggle('is-open'));
   }
 
-  // Scroll to top
+  // ── Scroll to top ──
   const scrollBtn = document.getElementById('scrollTop');
-  window.addEventListener('scroll', () => {
-    scrollBtn.classList.toggle('visible', window.scrollY > 500);
-  });
   scrollBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 
-  // Reveal on scroll
-  const reveals = document.querySelectorAll('.reveal');
+  // ── Reveal on scroll (base + left + right variants) ──
   const observer = new IntersectionObserver((entries) => {
-    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); } });
+    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
   }, { threshold: 0.12 });
-  reveals.forEach(el => observer.observe(el));
+  document.querySelectorAll('.reveal, .reveal-left, .reveal-right').forEach(el => observer.observe(el));
+
+  // ── Hero animated blobs ──
+  (function () {
+    const hero = document.querySelector('.hero');
+    if (!hero) return;
+    [1, 2].forEach(n => {
+      const b = document.createElement('div');
+      b.className = `hero__blob hero__blob--${n}`;
+      hero.appendChild(b);
+    });
+  })();
+
+  // ── Hero floating particles ──
+  (function () {
+    const hero = document.querySelector('.hero');
+    if (!hero) return;
+    const colors = ['rgba(255,18,0,.55)', 'rgba(0,67,255,.45)', 'rgba(255,255,255,.25)'];
+    const sizes  = [3, 4, 5, 6];
+    for (let i = 0; i < 20; i++) {
+      const p = document.createElement('div');
+      p.className = 'hero__particle';
+      const s = sizes[i % sizes.length];
+      p.style.cssText = [
+        `width:${s}px`, `height:${s}px`,
+        `left:${Math.random() * 95}%`,
+        `bottom:${Math.random() * 50}%`,
+        `background:${colors[i % colors.length]}`,
+        `animation-duration:${5 + Math.random() * 9}s`,
+        `animation-delay:${Math.random() * 10}s`
+      ].join(';');
+      hero.appendChild(p);
+    }
+  })();
+
+  // ── Stats counter animation ──
+  (function () {
+    const stats = document.querySelectorAll('.stat-item__number');
+    if (!stats.length) return;
+    const counterObs = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        const el = entry.target;
+        if (el.dataset.counted) return;
+        el.dataset.counted = '1';
+        el.classList.add('animate');
+        const raw = el.textContent.trim();
+        const num = parseFloat(raw.replace(/[^0-9.]/g, ''));
+        if (isNaN(num)) return;
+        const suffix  = raw.replace(/[\d.]/g, '');
+        const isFloat = raw.includes('.');
+        const steps   = 55;
+        let step = 0;
+        const timer = setInterval(() => {
+          step++;
+          const eased = 1 - Math.pow(1 - step / steps, 3);
+          const val   = eased * num;
+          el.textContent = (isFloat ? val.toFixed(1) : Math.round(val)) + suffix;
+          if (step >= steps) { clearInterval(timer); el.textContent = raw; }
+        }, 1400 / steps);
+      });
+    }, { threshold: 0.6 });
+    stats.forEach(el => counterObs.observe(el));
+  })();
+
+  // ── 3D tilt on service cards ──
+  document.querySelectorAll('.service-card').forEach(card => {
+    card.addEventListener('mousemove', e => {
+      const r = card.getBoundingClientRect();
+      const x = (e.clientX - r.left) / r.width  - .5;
+      const y = (e.clientY - r.top)  / r.height - .5;
+      card.style.transform = `perspective(900px) rotateY(${x * 9}deg) rotateX(${-y * 9}deg) translateZ(6px)`;
+    });
+    card.addEventListener('mouseleave', () => { card.style.transform = ''; });
+  });
+
+  // ── Mouse parallax in hero ──
+  (function () {
+    const hero    = document.querySelector('.hero');
+    if (!hero) return;
+    const content = hero.querySelector('.hero__content');
+    const visual  = hero.querySelector('.hero__visual');
+    let ticking   = false;
+    hero.addEventListener('mousemove', e => {
+      if (ticking) return;
+      ticking = true;
+      requestAnimationFrame(() => {
+        const r = hero.getBoundingClientRect();
+        const x = (e.clientX - r.left) / r.width  - .5;
+        const y = (e.clientY - r.top)  / r.height - .5;
+        if (content) content.style.transform = `translate(${x * 10}px, ${y * 7}px)`;
+        if (visual)  visual.style.transform  = `translate(${x * -13}px, ${y * -10}px)`;
+        ticking = false;
+      });
+    });
+    hero.addEventListener('mouseleave', () => {
+      if (content) content.style.transform = '';
+      if (visual)  visual.style.transform  = '';
+    });
+  })();
 </script>
 
 <script>
   (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, [L, namespace, ...Array.prototype.slice.call(ar, 2)]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
   Cal("init", {origin:"https://cal.com"});
-  Cal("ui", {"styles":{"branding":{"brandColor":"#c9a84c"}},"hideEventTypeDetails":false,"layout":"month_view"});
+  Cal("ui", {"styles":{"branding":{"brandColor":"#FF1200"}},"hideEventTypeDetails":false,"layout":"month_view"});
 </script>
 
 </body>
