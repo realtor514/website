@@ -15,7 +15,6 @@ My priority is always to protect my clients' interests, whether that means negot
 - **Investment Properties:** Multi-unit buildings, income properties
 - **First-Time Buyers:** Step-by-step guidance through every stage
 - **Sellers:** Strategic marketing and maximum value
-- **Commercial Real Estate:** Office, retail, and mixed-use properties
 
 ## Service Area
 

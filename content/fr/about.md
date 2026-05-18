@@ -15,7 +15,6 @@ Ma priorité est toujours de défendre les intérêts de mes clients, que ce soi
 - **Propriétés d'investissement** — Immeubles à revenus, plex locatifs
 - **Premiers acheteurs** — Accompagnement étape par étape
 - **Vendeurs** — Mise en marché stratégique et valeur maximisée
-- **Immobilier commercial** — Bureaux, commerces et immeubles mixtes
 
 ## Zone de service
 
