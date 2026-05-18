@@ -2,13 +2,13 @@
 title: "A Complete Guide for Newcomers Buying Property in Quebec"
 date: 2025-06-16
 category: "Buyer's Guide"
-description: "Buying real estate in Quebec as a newcomer is entirely possible — but the system works differently from most countries. This guide walks through everything you need to know, in plain language."
+description: "Buying real estate in Quebec as a newcomer is entirely possible, but the system works differently from most countries. This guide walks through everything you need to know, in plain language."
 draft: false
 ---
 
-I came from Lebanon to do my doctorate in Montreal. The Quebec real estate system was completely foreign to me — the mortgage structure, the legal framework, the tax implications, the cultural norms around negotiation. I had to learn it all from scratch.
+I came from Lebanon to do my doctorate in Montreal. The Quebec real estate system was completely foreign to me: the mortgage structure, the legal framework, the tax implications, the cultural norms around negotiation. I had to learn it all from scratch.
 
-That experience is part of why I wrote this guide. If you are a newcomer to Quebec — whether from the Arab world, from francophone Africa, from South America, or anywhere else — this is the information I wish I had when I arrived.
+That experience is part of why I wrote this guide. If you are a newcomer to Quebec (whether from the Arab world, from francophone Africa, from South America, or anywhere else), this is the information I wish I had when I arrived.
 
 ## Who Can Buy Property in Quebec?
 
@@ -18,7 +18,7 @@ There is currently a restriction on foreign buyers (those without permanent resi
 
 ## The Mortgage System: How It Works Here
 
-In most Arab countries and many others, buying property means paying in cash or receiving family support. In Quebec and Canada, the vast majority of buyers — approximately 80% to 95% — finance their purchase with a mortgage (hypothèque).
+In most Arab countries and many others, buying property means paying in cash or receiving family support. In Quebec and Canada, the vast majority of buyers (approximately 80% to 95%) finance their purchase with a mortgage (hypothèque).
 
 Here is how it works:
 
@@ -26,22 +26,22 @@ Here is how it works:
 - A bank or lender provides the remaining 80% to 95% as a loan
 - You repay the loan monthly over 25 to 30 years, with interest
 
-If your down payment is less than 20%, you are required to purchase CMHC mortgage insurance — this protects the lender, not you, and costs 2.8% to 4% of the loan amount, added directly to your mortgage.
+If your down payment is less than 20%, you are required to purchase CMHC mortgage insurance. This protects the lender, not you, and costs 2.8% to 4% of the loan amount, added directly to your mortgage.
 
 ## Building Credit History: Start Now
 
 One of the most common challenges for newcomers is qualifying for a mortgage without Canadian credit history.
 
-Canadian lenders rely heavily on your credit score. If you are new to Canada, you likely have no credit file — which means lenders have no data to assess your risk.
+Canadian lenders rely heavily on your credit score. If you are new to Canada, you likely have no credit file, which means lenders have no data to assess your risk.
 
 **Start building credit as soon as you arrive:**
 
 1. Open a Canadian bank account immediately
 2. Apply for a secured credit card (requires a deposit, but starts building your file)
 3. Pay every balance in full and on time, every month
-4. Avoid applying for many credit products at once — each application is recorded
+4. Avoid applying for many credit products at once, as each application is recorded
 
-With consistent discipline, you can build a strong credit file in 12 to 24 months. Some lenders have "newcomer mortgage programs" that accommodate buyers with limited Canadian credit history — ask specifically about these options.
+With consistent discipline, you can build a strong credit file in 12 to 24 months. Some lenders have "newcomer mortgage programs" that accommodate buyers with limited Canadian credit history; ask specifically about these options.
 
 ## The First Home Savings Account (FHSA): Open It Now
 
@@ -56,7 +56,7 @@ Here is how it works:
 
 Open this account as soon as you qualify. Even if you are not ready to buy for two or three years, the contribution room you accumulate now will be available to you when you are ready.
 
-Combined with the Home Buyers' Plan (RAP — which allows you to withdraw up to $35,000 from your RRSP), many newcomers can access $40,000 to $75,000 in registered savings toward a first home purchase.
+Combined with the Home Buyers' Plan (RAP, which allows you to withdraw up to $35,000 from your RRSP), many newcomers can access $40,000 to $75,000 in registered savings toward a first home purchase.
 
 ## The Quebec Notarial System
 
@@ -69,7 +69,7 @@ In Quebec, all property transfers must be processed by a licensed notary. The no
 - Verifies that there are no unpaid taxes that could become your responsibility
 - Prepares and explains every document you sign
 
-The notary is legally neutral — they protect both parties' interests. In most transactions, the same notary represents both buyer and seller, though you always have the right to choose your own.
+The notary is legally neutral; they protect both parties' interests. In most transactions, the same notary represents both buyer and seller, though you always have the right to choose your own.
 
 **Notary fees:** Approximately $1,000 to $2,000 for a standard residential transaction.
 
@@ -81,13 +81,13 @@ This is a one-time tax paid to the municipality when you purchase property in Qu
 
 The tax is calculated on a sliding scale based on the property value. On a $400,000 property, you would pay approximately $4,500. On a $600,000 property, approximately $8,000.
 
-It is payable within 30 days of signing the notarial deed. Budget for it — many buyers are caught off guard.
+It is payable within 30 days of signing the notarial deed. Budget for it, as many buyers are caught off guard.
 
 Some municipalities offer partial rebates for first-time buyers. Check with your specific municipality.
 
 ## The Building Inspection
 
-In Quebec, buyers have the right to include an inspection condition in their offer to purchase. This means a licensed inspector examines the property — roof, foundation, plumbing, electrical, insulation, windows — and provides a detailed written report.
+In Quebec, buyers have the right to include an inspection condition in their offer to purchase. This means a licensed inspector examines the property (roof, foundation, plumbing, electrical, insulation, windows) and provides a detailed written report.
 
 **Never purchase a property without this inspection.** Even in competitive markets where some buyers waive conditions to win bidding wars, I strongly advise against waiving the inspection.
 
@@ -101,17 +101,17 @@ If I were advising a newcomer who arrived today and wanted to own property in Qu
 - Open a Canadian bank account immediately
 - Apply for a secured credit card and use it responsibly
 - Open an FHSA account (as soon as you qualify)
-- Begin saving consistently — even $500/month adds up
+- Begin saving consistently (even $500/month adds up)
 
 **Year 2:**
 - Your credit file is beginning to establish itself
 - Continue building savings in your FHSA and other accounts
-- Begin learning the local market — visit neighbourhoods, attend open houses (without pressure to buy yet)
+- Begin learning the local market: visit neighbourhoods, attend open houses (without pressure to buy yet)
 - Consult a mortgage specialist about your qualifying potential
 
 **Year 2-3:**
 - With a stable employment history and established credit: seek pre-approval
-- Engage a buyer's broker (at no cost to you — the broker's fees are paid by the seller)
+- Engage a buyer's broker (at no cost to you, as the broker's fees are paid by the seller)
 - Begin your serious property search
 - Proceed toward purchase
 
@@ -119,14 +119,14 @@ The timeline is longer than many newcomers hope. But the foundations you build i
 
 ## Working With a Bilingual Broker
 
-This may be the most practical piece of advice in this guide: choose a broker who speaks your language — literally.
+This may be the most practical piece of advice in this guide: choose a broker who speaks your language. Literally.
 
 The Quebec real estate process involves dozens of conversations, documents, and decisions. Being able to ask questions and receive explanations in your native language is not a luxury. It is a condition for making fully informed decisions.
 
-I work in French, English, and Arabic. I understand the cultural context of real estate decision-making in Arab families — the role of extended family, the importance of privacy, the preference for long-term stability over short-term speculation, the significance of owning something that is truly yours.
+I work in French, English, and Arabic. I understand the cultural context of real estate decision-making in Arab families: the role of extended family, the importance of privacy, the preference for long-term stability over short-term speculation, the significance of owning something that is truly yours.
 
 Those values align well with what Quebec real estate, done right, can offer.
 
 ---
 
-*Are you a newcomer navigating the Quebec real estate market? I am happy to have a conversation in whatever language works best for you. [Contact me](/#contact) — let's start from where you are.*
+*Are you a newcomer navigating the Quebec real estate market? I am happy to have a conversation in whatever language works best for you. [Contact me](/#contact) and let's start from where you are.*

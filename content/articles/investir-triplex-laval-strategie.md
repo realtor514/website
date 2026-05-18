@@ -2,11 +2,11 @@
 title: "Why a Triplex in Laval Is One of the Smartest Investments You Can Make Right Now"
 date: 2025-05-12
 category: "Investment"
-description: "The numbers on a Laval triplex don't just work — they work better than most financial products available to the average investor. Here is how to analyze one correctly."
+description: "The numbers on a Laval triplex don't just work; they work better than most financial products available to the average investor. Here is how to analyze one correctly."
 draft: false
 ---
 
-I bought a triplex in Laval in 2022. Two years later, I can say with confidence that it is one of the best financial decisions I have made — not because the market was perfect, not because everything went exactly as planned, but because the fundamentals of the investment were sound.
+I bought a triplex in Laval in 2022. Two years later, I can say with confidence that it is one of the best financial decisions I have made, not because the market was perfect, not because everything went exactly as planned, but because the fundamentals of the investment were sound.
 
 This article explains those fundamentals. If you are considering your first income property, this is the framework I use.
 
@@ -14,7 +14,7 @@ This article explains those fundamentals. If you are considering your first inco
 
 Before anything else, let's talk about the number that actually matters: the **net operating income** (NOI), also called the revenu net opérationnel (RNO).
 
-Most people who look at an income property calculate the gross rent — what all units would produce if fully occupied. That number is almost meaningless without context.
+Most people who look at an income property calculate the gross rent, meaning what all units would produce if fully occupied. That number is almost meaningless without context.
 
 The real calculation is:
 
@@ -29,7 +29,7 @@ The real calculation is:
 
 Then: **NOI ÷ purchase price = capitalization rate (cap rate)**
 
-In the greater Montreal area, a cap rate of 4% to 6% is realistic for a well-priced plex. Below 3%, you are betting entirely on appreciation. Above 7%, something is wrong — find out what before proceeding.
+In the greater Montreal area, a cap rate of 4% to 6% is realistic for a well-priced plex. Below 3%, you are betting entirely on appreciation. Above 7%, something is wrong; find out what before proceeding.
 
 This is the calculation that the seller's listing sheet rarely shows you correctly. Always rebuild it from scratch using actual leases and real expense figures from the past two years.
 
@@ -37,13 +37,13 @@ This is the calculation that the seller's listing sheet rarely shows you correct
 
 The triplex hits a sweet spot that few other property types can match.
 
-**Financing:** Up to 4 units qualifies for residential financing. You can put as little as 5% down if you occupy one of the units. That means the same financing terms as a personal home — better rates, better conditions, and access to CMHC insurance.
+**Financing:** Up to 4 units qualifies for residential financing. You can put as little as 5% down if you occupy one of the units. That means the same financing terms as a personal home: better rates, better conditions, and access to CMHC insurance.
 
 **Living situation:** Many investors start by living in one unit, letting the other two pay the majority of the mortgage. When I bought my triplex, my two tenants covered approximately 80% of my total carrying costs. I was essentially living almost for free while building equity.
 
 **Simplicity:** A triplex is manageable for a first-time landlord. You are not running a 20-unit building. You are managing two or three tenant relationships, which is meaningful but not overwhelming.
 
-**Resale market:** Triplexes appeal to a wide range of buyers — other investors, families who want to live in one unit and rent the others, and multi-generational households. Demand is consistent.
+**Resale market:** Triplexes appeal to a wide range of buyers: other investors, families who want to live in one unit and rent the others, and multi-generational households. Demand is consistent.
 
 ## Why Laval
 
@@ -52,7 +52,7 @@ Laval gets less attention than it deserves in the investment conversation. Here 
 - Third-largest city in Quebec with over 450,000 residents
 - Direct metro access via the orange line
 - Purchase prices still below the Montreal island for comparable properties
-- Rental vacancy rate consistently below 3% — a tight market that works in landlords' favour
+- Rental vacancy rate consistently below 3%, a tight market that works in landlords' favour
 - Strong demand from families priced out of the island
 - Active Arabic-speaking, French, and English communities generating diverse tenant demand
 
@@ -62,7 +62,7 @@ The price differential between Laval and Montreal island means your entry point 
 
 I want to be honest about something that many real estate content creators gloss over: **immediate positive cash flow is rare in Montreal and Laval.**
 
-In markets where property prices are high relative to rents, you often end up in a slightly negative or cash-flow-neutral position — meaning you contribute $200 to $500 per month out of pocket after all expenses.
+In markets where property prices are high relative to rents, you often end up in a slightly negative or cash-flow-neutral position, meaning you contribute $200 to $500 per month out of pocket after all expenses.
 
 This is not a failure. Here is why:
 
@@ -71,7 +71,7 @@ This is not a failure. Here is why:
 3. You are building an asset that generates increasing returns over time
 4. The tax deductions on a rental property reduce your net cost
 
-The full return on a Laval triplex over 10 years — when you account for appreciation, principal paydown, and rental income — typically runs between 8% and 12% annually. That is competitive with most financial products, with the added advantage of leverage.
+The full return on a Laval triplex over 10 years (when you account for appreciation, principal paydown, and rental income) typically runs between 8% and 12% annually. That is competitive with most financial products, with the added advantage of leverage.
 
 ## The 8 Questions to Ask Before Making an Offer
 
@@ -86,13 +86,13 @@ Before submitting an offer on any income property, I require answers to these ei
 7. Why is the seller selling now?
 8. Are there any planned municipal projects nearby (road work, transit, development)?
 
-The answers to these questions determine whether an investment makes sense — or whether you are inheriting someone else's problem.
+The answers to these questions determine whether an investment makes sense, or whether you are inheriting someone else's problem.
 
 ## The Long Game
 
 Here is my favourite way to think about a Laval triplex as a retirement strategy.
 
-Buy a triplex at 40. Mortgage on 25 years. At 65, the mortgage is paid off — by your tenants.
+Buy a triplex at 40. Mortgage on 25 years. At 65, the mortgage is paid off, by your tenants.
 
 At 65, you own an asset worth $1M+ (based on historical appreciation rates) that generates $3,000 to $5,000 per month in net rental income.
 

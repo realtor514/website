@@ -6,7 +6,7 @@ description: "Beyond the headlines and the predictions, here is what the indicat
 draft: false
 ---
 
-Every week, someone asks me whether it's a good time to buy or sell in Montreal. And every week, I give the same answer: that depends entirely on the data — not on predictions, not on headlines, and not on what the market did last year.
+Every week, someone asks me whether it's a good time to buy or sell in Montreal. And every week, I give the same answer: that depends entirely on the data, not on predictions, not on headlines, and not on what the market did last year.
 
 I have a doctorate in data processing. I have built my practice around analyzing real estate indicators the same way I analyzed research data: methodically, without confirmation bias, and with appropriate humility about what the numbers can and cannot tell us.
 
@@ -26,10 +26,10 @@ How long does the average property take to sell? A drop in this number signals i
 Are properties selling above, at, or below their asking price? This ratio tells you immediately whether you are in a negotiation market or a competition market.
 
 **4. Bank of Canada Rate Decisions**
-The policy rate directly influences variable mortgage rates. It influences fixed rates indirectly through the bond market — and the two don't always move in the same direction. I track both.
+The policy rate directly influences variable mortgage rates. It influences fixed rates indirectly through the bond market, and the two don't always move in the same direction. I track both.
 
 **5. Immigration and Household Formation Data**
-Montreal receives a significant share of Quebec's immigrant population. Each new household formed creates demand for housing — rental or ownership. This is the structural driver that keeps long-term pressure on prices regardless of short-term economic conditions.
+Montreal receives a significant share of Quebec's immigrant population. Each new household formed creates demand for housing, whether rental or ownership. This is the structural driver that keeps long-term pressure on prices regardless of short-term economic conditions.
 
 ## What the Current Data Shows (2025)
 
@@ -45,9 +45,9 @@ The correction that many predicted would be catastrophic turned out to be a norm
 
 I read the real estate headlines every week. Here is the pattern I consistently observe:
 
-- "Sales plunge 20%" — usually means sales returned to pre-pandemic norms after an artificial spike
-- "Prices fall 8%" — after a 35% increase, this is a moderate correction, not a crisis
-- "Housing bubble in Canada" — some segments are overvalued; the entire market is not one homogeneous bubble
+- "Sales plunge 20%": usually means sales returned to pre-pandemic norms after an artificial spike
+- "Prices fall 8%": after a 35% increase, this is a moderate correction, not a crisis
+- "Housing bubble in Canada": some segments are overvalued; the entire market is not one homogeneous bubble
 
 Media incentives favour dramatic headlines. A nuanced analysis of absorption rates by property type and neighbourhood does not generate clicks the same way "CRASH INCOMING" does.
 
@@ -59,10 +59,10 @@ Laval is consistently underestimated in the Montreal investment conversation. He
 
 - **Price differential:** Laval properties are still priced below comparable Montreal island properties, despite offering equivalent or better transit access in many areas.
 - **Vacancy rate:** Consistently below 3%, well under the equilibrium level that SCHL identifies as "healthy" for renters (around 3%). For landlords and investors, this means low vacancy risk.
-- **Rental demand:** Strong and diverse — families priced out of the island, students, young professionals, and an active immigrant community.
+- **Rental demand:** Strong and diverse: families priced out of the island, students, young professionals, and an active immigrant community.
 - **Infrastructure investment:** Continued highway and transit improvements keep Laval well-connected to Montreal's economic core.
 
-Over the past 10 years, well-located Laval properties have performed comparably to many Montreal boroughs, with a better entry price point. That gap is narrowing — which is an argument for acting sooner rather than later.
+Over the past 10 years, well-located Laval properties have performed comparably to many Montreal boroughs, with a better entry price point. That gap is narrowing, which is an argument for acting sooner rather than later.
 
 ## Why Prices Are Unlikely to Crash Significantly
 
@@ -72,7 +72,7 @@ Three factors put a floor under Montreal and Laval residential prices:
 
 **Supply constraint:** The amount of buildable land within reasonable distance of Montreal's core is physically limited. New supply cannot keep pace with demand.
 
-**Construction costs:** Building costs are 40% to 60% higher than they were in 2019. This creates a cost floor — new properties cannot be profitably built below a certain price, which supports existing inventory values.
+**Construction costs:** Building costs are 40% to 60% higher than they were in 2019. This creates a cost floor: new properties cannot be profitably built below a certain price, which supports existing inventory values.
 
 **Demographic demand:** Canada's immigration targets of 400,000 to 500,000 new permanent residents per year create ongoing household formation demand that the existing housing stock cannot absorb.
 
