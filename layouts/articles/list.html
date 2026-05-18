@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<section class="content-hero">
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="{{ "/" | relURL }}">Home</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <span>Articles</span>
+    </div>
+    <h1 class="content-hero__title">Real Estate Insights</h1>
+    <p style="color:rgba(255,255,255,.65);max-width:560px;margin-top:12px">
+      Market trends, buying tips, investment advice, and local neighbourhood guides for Montr&eacute;al &amp; Laval.
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "articles") 9 }}
+
+    {{ if $paginator.Pages }}
+    <div class="articles-grid">
+      {{ range $paginator.Pages }}{{ partial "article-card.html" . }}{{ end }}
+    </div>
+    {{ else }}
+    <p class="text-center" style="padding:60px 0;color:#6b7280">No articles yet &mdash; check back soon.</p>
+    {{ end }}
+
+    {{ template "_internal/pagination.html" . }}
+  </div>
+</section>
+
+{{ end }}

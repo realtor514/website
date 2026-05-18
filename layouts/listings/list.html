@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<section class="content-hero">
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="{{ "/" | relURL }}">Home</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <span>Properties</span>
+    </div>
+    <h1 class="content-hero__title">Available Properties</h1>
+    <p style="color:rgba(255,255,255,.65);max-width:560px;margin-top:12px">
+      Explore my current listings in Montr&eacute;al, Laval, and surrounding areas.
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "listings") 9 }}
+
+    {{ if $paginator.Pages }}
+    <div class="listings-grid">
+      {{ range $paginator.Pages }}{{ partial "listing-card.html" . }}{{ end }}
+    </div>
+    {{ else }}
+    <p class="text-center" style="padding:60px 0;color:#6b7280">
+      Listings coming soon. <a href="/#contact" style="color:#a8893d;font-weight:600">Contact me</a> for available properties.
+    </p>
+    {{ end }}
+
+    {{ template "_internal/pagination.html" . }}
+  </div>
+</section>
+
+{{ end }}

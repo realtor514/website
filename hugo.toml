@@ -1,0 +1,46 @@
+baseURL = "https://georgesmatar.space/"
+languageCode = "en-ca"
+title = "Georges Matar | Real Estate Broker"
+
+enableRobotsTXT = true
+
+[params]
+  name        = "Georges Matar"
+  role        = "Real Estate Broker"
+  brokerage   = "RE/MAX DU CARTIER INC."
+  phone       = "(438) 372-0102"
+  email       = "georges.matar@remax-quebec.com"
+  address     = "2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), Québec H7E 5A1"
+  remaxProfile = "https://remaxducartier.com/fr/courtiers/georges-matar-140955"
+  description = "Real estate broker in Laval and Greater Montreal. Residential, commercial, and investment properties."
+  bio         = "With deep knowledge of the Montreal and Laval real estate markets, I provide personalized guidance to help buyers, sellers, and investors achieve their real estate goals. My commitment to excellence and client satisfaction drives everything I do."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name   = "Home"
+    url    = "/"
+    weight = 1
+  [[menu.main]]
+    name   = "Properties"
+    url    = "/listings/"
+    weight = 2
+  [[menu.main]]
+    name   = "Articles"
+    url    = "/articles/"
+    weight = 3
+  [[menu.main]]
+    name   = "About"
+    url    = "/about/"
+    weight = 4
+  [[menu.main]]
+    name   = "Contact"
+    url    = "/#contact"
+    weight = 5
+
+[pagination]
+  pagerSize = 9

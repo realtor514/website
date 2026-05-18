@@ -1,0 +1,72 @@
+{{ define "main" }}
+
+<section class="content-hero">
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="{{ "/" | relURL }}">Home</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <a href="{{ "/listings/" | relURL }}">Properties</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <span>{{ .Title | truncate 40 }}</span>
+    </div>
+    {{ with .Params.status }}<p class="content-hero__category">{{ . }}</p>{{ end }}
+    <h1 class="content-hero__title">{{ .Title }}</h1>
+    <p class="content-hero__meta">{{ .Params.address }}</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+
+    {{ with .Params.images }}
+    {{ if gt (len .) 0 }}
+    <div class="listing-gallery">
+      {{ range first 3 . }}
+      <img src="{{ . | relURL }}" alt="Property photo" loading="lazy">
+      {{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
+
+    <div class="listing-detail-grid">
+      <div>
+        <h2 style="margin-bottom:20px">Property Details</h2>
+
+        <div class="listing-features-grid">
+          {{ with .Params.price     }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">Price</span></div>{{ end }}
+          {{ with .Params.bedrooms  }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">Bedrooms</span></div>{{ end }}
+          {{ with .Params.bathrooms }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">Bathrooms</span></div>{{ end }}
+          {{ with .Params.sqft      }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">Sq. Ft.</span></div>{{ end }}
+          {{ with .Params.parking   }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">Parking</span></div>{{ end }}
+          {{ with .Params.year_built}}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">Year Built</span></div>{{ end }}
+        </div>
+
+        <div style="margin-top:28px">{{ .Content }}</div>
+      </div>
+
+      <div>
+        <div class="listing-sidebar">
+          {{ with .Params.price }}<div class="listing-sidebar__price">{{ . }}</div>{{ end }}
+          <div class="listing-sidebar__address">{{ .Params.address }}</div>
+
+          <a href="/#contact" class="btn btn-primary"  style="width:100%;justify-content:center;margin-bottom:10px">Request Information</a>
+          <a href="tel:+14383720102" class="btn btn-outline" style="width:100%;justify-content:center">Call (438) 372-0102</a>
+
+          <hr style="border:none;border-top:1px solid rgba(255,255,255,.1);margin:22px 0">
+
+          <div style="display:flex;align-items:center;gap:12px">
+            <img src="{{ "images/georges-matar.png" | relURL }}" alt="Georges Matar"
+                 style="width:46px;height:46px;border-radius:50%;object-fit:cover;object-position:top center;flex-shrink:0">
+            <div>
+              <div style="font-weight:600;color:white;font-size:.9rem">Georges Matar</div>
+              <div style="color:rgba(255,255,255,.5);font-size:.78rem">RE/MAX DU CARTIER INC.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+{{ end }}

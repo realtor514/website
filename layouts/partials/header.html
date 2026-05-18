@@ -1,0 +1,24 @@
+<nav class="nav" role="navigation" aria-label="Main navigation">
+  <div class="container">
+    <div class="nav__inner">
+      <a href="{{ "/" | relURL }}" class="nav__logo">
+        <span class="nav__logo-name">{{ .Site.Params.name }}</span>
+        <span class="nav__logo-title">Real Estate Broker &middot; RE/MAX</span>
+      </a>
+
+      <button class="nav__toggle" id="navToggle" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+
+      <ul class="nav__menu" id="navMenu">
+        {{ range .Site.Menus.main }}
+        <li>
+          <a href="{{ .URL }}" class="nav__link {{ if eq .Name "Contact" }}nav__cta{{ end }}">
+            {{ .Name }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</nav>

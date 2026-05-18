@@ -1,0 +1,20 @@
+<article class="article-card">
+  <a href="{{ .RelPermalink }}">
+    <div class="article-card__image">
+      {{ with .Params.image }}
+        <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+      {{ else }}
+        <img src="{{ "images/article-placeholder.jpg" | relURL }}" alt="{{ .Title }}" loading="lazy">
+      {{ end }}
+    </div>
+    <div class="article-card__body">
+      {{ with .Params.category }}<span class="article-card__category">{{ . }}</span>{{ end }}
+      <h3 class="article-card__title">{{ .Title }}</h3>
+      <p class="article-card__excerpt">{{ .Summary | plainify | truncate 115 }}</p>
+      <div class="article-card__meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        <span class="article-card__read-more">Read more &rarr;</span>
+      </div>
+    </div>
+  </a>
+</article>

@@ -1,0 +1,87 @@
+{{ define "main" }}
+
+{{ partial "hero.html" . }}
+
+<!-- About snippet -->
+<section class="section" id="about">
+  <div class="container">
+    <div class="about-section">
+      <div class="about-section__photo">
+        <img src="{{ "images/georges-matar.png" | relURL }}"
+             alt="{{ .Site.Params.name }} - Real Estate Broker"
+             width="400" height="420">
+      </div>
+      <div>
+        <span class="about-section__badge">About Me</span>
+        <h2>Passionate About Finding<br>Your Perfect Property</h2>
+        <p class="about-section__text">{{ .Site.Params.bio }}</p>
+        <div class="about-section__highlights">
+          <div class="highlight-item">Montr&eacute;al &amp; Laval Specialist</div>
+          <div class="highlight-item">Residential &amp; Commercial</div>
+          <div class="highlight-item">First-Time Buyers</div>
+          <div class="highlight-item">Investment Properties</div>
+          <div class="highlight-item">Bilingual Service (FR/EN)</div>
+          <div class="highlight-item">Market Analysis Expertise</div>
+        </div>
+        <a href="{{ "/about/" | relURL }}" class="btn btn-outline-dark">Learn More</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Featured listings -->
+<section class="section section--light" id="listings">
+  <div class="container">
+    <div class="section-header">
+      <h2>Featured Properties</h2>
+      <p class="subtitle">Handpicked properties in Montr&eacute;al and Laval&rsquo;s most sought-after neighbourhoods</p>
+    </div>
+
+    {{ $listings := where .Site.RegularPages "Section" "listings" }}
+    {{ $featured := where $listings ".Params.featured" true }}
+    {{ if not $featured }}{{ $featured = first 3 $listings }}{{ end }}
+
+    {{ if $featured }}
+    <div class="listings-grid">
+      {{ range $featured }}{{ partial "listing-card.html" . }}{{ end }}
+    </div>
+    {{ else }}
+    <p class="text-center" style="color:#6b7280;padding:40px 0">
+      Properties coming soon. <a href="/#contact" style="color:#a8893d;font-weight:600">Contact me</a> for available listings.
+    </p>
+    {{ end }}
+
+    <div class="text-center mt-32">
+      <a href="{{ "/listings/" | relURL }}" class="btn btn-outline-dark">View All Properties</a>
+    </div>
+  </div>
+</section>
+
+<!-- Recent articles -->
+<section class="section" id="articles">
+  <div class="container">
+    <div class="section-header">
+      <h2>Real Estate Insights</h2>
+      <p class="subtitle">Market updates, buying tips, and expert advice for the Montr&eacute;al &amp; Laval market</p>
+    </div>
+
+    {{ $articles := where .Site.RegularPages "Section" "articles" }}
+    {{ $recent   := first 3 $articles }}
+
+    {{ if $recent }}
+    <div class="articles-grid">
+      {{ range $recent }}{{ partial "article-card.html" . }}{{ end }}
+    </div>
+    {{ else }}
+    <p class="text-center" style="color:#6b7280;padding:40px 0">Articles coming soon — check back shortly.</p>
+    {{ end }}
+
+    <div class="text-center mt-32">
+      <a href="{{ "/articles/" | relURL }}" class="btn btn-outline-dark">Read All Articles</a>
+    </div>
+  </div>
+</section>
+
+{{ partial "contact.html" . }}
+
+{{ end }}
