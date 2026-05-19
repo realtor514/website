@@ -142,6 +142,22 @@
     card.addEventListener('mouseleave', () => { card.style.transform = ''; });
   });
 
+  // ── About photo slideshow ──
+  (function () {
+    const track = document.querySelector('.about-slideshow__track');
+    const dots  = document.querySelectorAll('.about-slideshow__dot');
+    if (!track || !dots.length) return;
+    let current = 0;
+    const total = dots.length;
+    function goTo(idx) {
+      current = idx;
+      track.style.transform = `translateX(-${idx * 100}%)`;
+      dots.forEach((d, i) => d.classList.toggle('active', i === idx));
+    }
+    dots.forEach(d => d.addEventListener('click', () => goTo(+d.dataset.idx)));
+    setInterval(() => goTo((current + 1) % total), 2000);
+  })();
+
   // ── Mouse parallax in hero ──
   (function () {
     const hero    = document.querySelector('.hero');

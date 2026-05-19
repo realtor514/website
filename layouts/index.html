@@ -37,10 +37,17 @@
   <div class="container">
     <div class="about-split">
       <div class="about-split__media reveal">
-        <div class="about-split__img-main">
-          <img src="{{ "images/georges-matar.png" | relURL }}"
-               alt="{{ .Site.Params.name }}"
-               style="width:100%;height:100%;object-fit:cover;object-position:top center;">
+        <div class="about-split__img-main about-slideshow">
+          <div class="about-slideshow__track">
+            <img src="{{ "images/georges-matar.png" | relURL }}"   alt="{{ .Site.Params.name }}" class="about-slideshow__slide">
+            <img src="{{ "images/georges-matar-2.png" | relURL }}" alt="{{ .Site.Params.name }}" class="about-slideshow__slide">
+            <img src="{{ "images/georges-matar-3.png" | relURL }}" alt="{{ .Site.Params.name }}" class="about-slideshow__slide">
+          </div>
+          <div class="about-slideshow__dots">
+            <button class="about-slideshow__dot active" data-idx="0" aria-label="Photo 1"></button>
+            <button class="about-slideshow__dot" data-idx="1" aria-label="Photo 2"></button>
+            <button class="about-slideshow__dot" data-idx="2" aria-label="Photo 3"></button>
+          </div>
         </div>
       </div>
       <div class="reveal reveal-delay-1">

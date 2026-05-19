@@ -577,6 +577,37 @@ p:last-child { margin-bottom: 0; }
   object-fit: cover;
   object-position: top center;
 }
+/* Slideshow */
+.about-slideshow { position: relative; overflow: hidden; }
+.about-slideshow__track {
+  display: flex;
+  width: 100%; height: 100%;
+  transition: transform .6s cubic-bezier(.4,0,.2,1);
+}
+.about-slideshow__slide {
+  flex: 0 0 100%;
+  width: 100%; height: 100%;
+  object-fit: cover;
+  object-position: top center;
+}
+.about-slideshow__dots {
+  position: absolute;
+  bottom: 14px; left: 50%;
+  transform: translateX(-50%);
+  display: flex; gap: 8px;
+  z-index: 10;
+}
+.about-slideshow__dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,.45);
+  border: none; cursor: pointer; padding: 0;
+  transition: background .3s, transform .3s;
+}
+.about-slideshow__dot.active {
+  background: #fff;
+  transform: scale(1.3);
+}
 .about-split__img-float {
   position: absolute;
   bottom: -24px; right: -24px;
