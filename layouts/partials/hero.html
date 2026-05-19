@@ -37,13 +37,6 @@
         </p>
 
         <div class="hero__actions reveal reveal-delay-2">
-          <a href="{{ .Site.Params.remaxProfile }}" target="_blank" rel="noopener" class="btn btn-blue">
-            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
-              <polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
-            </svg>
-            {{ if $isFr }}Voir mon profil RE/MAX{{ else if $isAr }}زيارة صفحتي على RE/MAX{{ else }}Visit my RE/MAX page{{ end }}
-          </a>
           <button class="btn btn-primary" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
             <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
@@ -52,6 +45,13 @@
             {{ if $isFr }}Prendre rendez-vous{{ else if $isAr }}احجز موعداً{{ else }}Book a Meeting{{ end }}
           </button>
           <a href="#contact" class="btn btn-primary">{{ .Site.Params.ctaContact }}</a>
+          <a href="{{ .Site.Params.remaxProfile }}" target="_blank" rel="noopener" class="btn btn-blue">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+              <polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+            {{ if $isFr }}Voir mon profil RE/MAX{{ else if $isAr }}زيارة صفحتي على RE/MAX{{ else }}Visit my RE/MAX page{{ end }}
+          </a>
         </div>
 
         <div class="hero__trust reveal reveal-delay-3">
