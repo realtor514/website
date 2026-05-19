@@ -213,13 +213,14 @@ p:last-child { margin-bottom: 0; }
 }
 .nav__link:hover { color: var(--red); background: rgba(255,18,0,.08); }
 .nav__cta {
-  background: var(--red) !important;
+  background: rgba(255,18,0,.15) !important;
   color: var(--white) !important;
+  border-color: rgba(255,18,0,.55) !important;
   font-weight: 700;
   padding: 9px 20px;
   border-radius: var(--radius);
 }
-.nav__cta:hover { background: var(--red-dark) !important; transform: translateY(-1px); }
+.nav__cta:hover { background: var(--red) !important; border-color: var(--red) !important; transform: translateY(-1px); }
 .nav__toggle {
   display: none;
   flex-direction: column;
@@ -504,7 +505,20 @@ p:last-child { margin-bottom: 0; }
 }
 
 /* ── Stats bar ── */
-.stats-bar { background: var(--red); padding: 40px 0; }
+.stats-bar {
+  background: var(--navy);
+  padding: 40px 0;
+  position: relative;
+  border-top: 1px solid rgba(255,18,0,.2);
+  border-bottom: 1px solid rgba(255,18,0,.2);
+}
+.stats-bar::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(255,18,0,.1);
+  pointer-events: none;
+}
 .stats-bar__grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -1067,8 +1081,8 @@ p:last-child { margin-bottom: 0; }
   .nav__link:hover { background: rgba(255,255,255,.06); }
   .nav__cta {
     margin-top: 8px;
-    background: var(--red) !important;
-    border-color: var(--red) !important;
+    background: rgba(255,18,0,.15) !important;
+    border-color: rgba(255,18,0,.55) !important;
     justify-content: center;
     text-align: center;
   }
