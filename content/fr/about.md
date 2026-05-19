@@ -11,10 +11,10 @@ Ma priorité est toujours de défendre les intérêts de mes clients, que ce soi
 
 ## Domaines d'expertise
 
-- **Propriétés résidentielles** — Maisons unifamiliales, condos, plex
-- **Propriétés d'investissement** — Immeubles à revenus, plex locatifs
-- **Premiers acheteurs** — Accompagnement étape par étape
-- **Vendeurs** — Mise en marché stratégique et valeur maximisée
+- **Propriétés résidentielles** - Maisons unifamiliales, condos, plex
+- **Propriétés d'investissement** - Immeubles à revenus, plex locatifs
+- **Premiers acheteurs** - Accompagnement étape par étape
+- **Vendeurs** - Mise en marché stratégique et valeur maximisée
 
 ## Zone de service
 
@@ -29,4 +29,4 @@ Prêt à démarrer votre parcours immobilier? Je serais ravi d'échanger avec vo
 
 **Téléphone:** (438) 372-0102
 **Courriel:** georges.matar@remax-quebec.com
-**Bureau:** RE/MAX DU CARTIER INC. — 2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), Québec H7E 5A1
+**Bureau:** RE/MAX DU CARTIER INC. - 2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), Québec H7E 5A1
