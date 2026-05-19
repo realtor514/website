@@ -554,6 +554,19 @@ p:last-child { margin-bottom: 0; }
 }
 
 /* ── About ── */
+.about-section {
+  position: relative;
+  background: var(--white);
+}
+.about-section::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: url('../images/about-bg.jpg') center/cover no-repeat;
+  opacity: .07;
+  pointer-events: none;
+}
+.about-section > .container { position: relative; }
 .about-split {
   display: grid;
   grid-template-columns: 1fr 1fr;
