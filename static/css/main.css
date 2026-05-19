@@ -994,3 +994,10 @@ p:last-child { margin-bottom: 0; }
 [dir="rtl"] .nav__link::after { transform-origin: right; left: 14px; right: 14px; }
 [dir="rtl"] .section-header .eyebrow::after { margin: 6px auto 0; }
 [dir="rtl"] .scroll-progress { transform-origin: right; }
+
+/* ── Offices section responsive ── */
+@media (max-width: 768px) {
+  #offices .reveal > div[style*="grid-template-columns:1fr 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+}

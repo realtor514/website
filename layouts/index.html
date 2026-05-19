@@ -85,6 +85,118 @@
 
 {{ partial "office-gallery.html" . }}
 
+<!-- Offices / Coverage -->
+<section class="section section--dark" id="offices">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="eyebrow">
+        {{ if $isFr }}16 Places d'affaires{{ else if $isAr }}16 مكاناً للأعمال{{ else }}16 Offices{{ end }}
+      </span>
+      <h2>
+        {{ if $isFr }}Je peux vous recevoir partout{{ else if $isAr }}أستطيع استقبالك في أي مكان{{ else }}I Can Welcome You Anywhere{{ end }}
+      </h2>
+      <p class="subtitle">
+        {{ if $isFr }}
+          En tant que courtier RE/MAX DU CARTIER, je peux vous recevoir dans l'un de nos 16 bureaux répartis à Montréal, Laval, la Rive-Nord, la Rive-Sud et les Laurentides.
+        {{ else if $isAr }}
+          بوصفي وسيطاً في RE/MAX DU CARTIER، يمكنني استقبالك في أي من مكاتبنا الـ16 المنتشرة في مونتريال، لافال، الضفة الشمالية، الضفة الجنوبية، ومنطقة لوروبيد.
+        {{ else }}
+          As a RE/MAX DU CARTIER broker, I can welcome you in any of our 16 offices across Montreal, Laval, the North Shore, the South Shore, and the Laurentians.
+        {{ end }}
+      </p>
+    </div>
+
+    <!-- Coverage pills -->
+    <div class="reveal" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-bottom:64px;">
+      {{ $zones := slice }}
+      {{ if $isFr }}
+        {{ $zones = slice "Montréal" "Laval" "Rive-Nord" "Rive-Sud" "Laurentides" }}
+      {{ else if $isAr }}
+        {{ $zones = slice "مونتريال" "لافال" "الضفة الشمالية" "الضفة الجنوبية" "لوروبيد" }}
+      {{ else }}
+        {{ $zones = slice "Montréal" "Laval" "North Shore" "South Shore" "Laurentians" }}
+      {{ end }}
+      {{ range $zones }}
+      <span style="background:rgba(255,18,0,.1);border:1px solid rgba(255,18,0,.3);color:#fff;padding:8px 20px;border-radius:40px;font-size:.8rem;font-weight:600;letter-spacing:.06em;">{{ . }}</span>
+      {{ end }}
+    </div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:32px;" class="reveal">
+
+      <!-- RE/MAX du Cartier offices -->
+      <div style="background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.08);border-radius:20px;padding:36px;">
+        <div style="display:flex;align-items:center;gap:14px;margin-bottom:28px;">
+          <div style="background:rgba(255,18,0,.12);border:1px solid rgba(255,18,0,.25);border-radius:10px;padding:10px;flex-shrink:0;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FF1200" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+          </div>
+          <div>
+            <div style="color:#fff;font-weight:700;font-size:1rem;">RE/MAX du Cartier</div>
+            <div style="color:rgba(255,255,255,.4);font-size:.78rem;">{{ if $isFr }}Montréal &amp; Laval{{ else if $isAr }}مونتريال ولافال{{ else }}Montréal &amp; Laval{{ end }}</div>
+          </div>
+        </div>
+        <div style="display:flex;flex-direction:column;gap:0;">
+          {{ $offices := slice
+            (dict "name" "Plateau Mont-Royal" "addr" "835, boul. Saint-Joseph Est, Montréal" "phone" "514 281-5501")
+            (dict "name" "Outremont"           "addr" "1290, rue Bernard Ouest, Bureau 100"   "phone" "514 271-2131")
+            (dict "name" "Ville Mont-Royal"    "addr" "1257, boul. Laird, Mont-Royal"         "phone" "514 731-7575")
+            (dict "name" "Villeray"            "addr" "7085, boul. Saint-Laurent, Montréal"   "phone" "514 278-7170")
+            (dict "name" "Hochelaga-Maisonneuve" "addr" "3193, rue Ontario Est, Montréal"     "phone" "438 227-8437")
+            (dict "name" "Laval (Duvernay)"    "addr" "2820, boul. St-Martin Est, Bureau 201" "phone" "450 661-6810")
+          }}
+          {{ range $offices }}
+          <div style="padding:14px 0;border-bottom:1px solid rgba(255,255,255,.06);display:flex;align-items:flex-start;gap:12px;">
+            <span style="color:#FF1200;margin-top:2px;flex-shrink:0;">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            </span>
+            <div>
+              <div style="color:#fff;font-weight:600;font-size:.88rem;margin-bottom:2px;">{{ .name }}</div>
+              <div style="color:rgba(255,255,255,.35);font-size:.76rem;">{{ .addr }}</div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+
+      <!-- RE/MAX du Cartier Bonjour - Laurentians -->
+      <div style="background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.08);border-radius:20px;padding:36px;">
+        <div style="display:flex;align-items:center;gap:14px;margin-bottom:28px;">
+          <div style="background:rgba(0,67,255,.12);border:1px solid rgba(0,67,255,.25);border-radius:10px;padding:10px;flex-shrink:0;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0043FF" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+          </div>
+          <div>
+            <div style="color:#fff;font-weight:700;font-size:1rem;">RE/MAX du Cartier Bonjour</div>
+            <div style="color:rgba(255,255,255,.4);font-size:.78rem;">{{ if $isFr }}Laurentides{{ else if $isAr }}منطقة لوروبيد{{ else }}Laurentians{{ end }}</div>
+          </div>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:0;">
+          {{ $laurentians := slice "Saint-Sauveur" "Saint-Jérôme" "Mirabel" "Lachute" "Sainte-Adèle" "Ste-Agathe-des-Monts" "Saint-Adolphe-d'Howard" "Mont-Tremblant" "Val-David" "Saint-Donat" }}
+          {{ range $laurentians }}
+          <div style="padding:13px 0;border-bottom:1px solid rgba(255,255,255,.06);display:flex;align-items:center;gap:10px;">
+            <span style="color:#0043FF;flex-shrink:0;">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            </span>
+            <span style="color:rgba(255,255,255,.75);font-size:.85rem;font-weight:500;">{{ . }}</span>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+
+    </div><!-- /grid -->
+
+    <!-- CTA note -->
+    <p class="text-center reveal reveal-delay-2" style="margin-top:40px;color:rgba(255,255,255,.45);font-size:.92rem;">
+      {{ if $isFr }}
+        Dites-moi quel bureau est le plus pratique pour vous &mdash; je m'y retrouverai.
+      {{ else if $isAr }}
+        أخبرني أي مكتب يناسبك أكثر وسأكون هناك.
+      {{ else }}
+        Tell me which office is most convenient for you &mdash; I will be there.
+      {{ end }}
+    </p>
+
+  </div>
+</section>
+
 <!-- Featured listings -->
 <section class="section" id="listings">
   <div class="container">
