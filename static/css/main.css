@@ -506,7 +506,7 @@ p:last-child { margin-bottom: 0; }
 
 /* ── Stats bar ── */
 .stats-bar {
-  background: rgba(255,18,0,.80);
+  background: rgba(255,18,0,.88);
   padding: 40px 0;
   position: relative;
   backdrop-filter: blur(10px);
