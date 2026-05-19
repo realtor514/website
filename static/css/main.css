@@ -25,7 +25,7 @@
 }
 
 *,*::before,*::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; overflow-x: hidden; }
 body {
   font-family: 'Inter', system-ui, sans-serif;
   color: var(--text);
@@ -259,6 +259,7 @@ p:last-child { margin-bottom: 0; }
   align-items: center;
   overflow: hidden;
   padding-top: 80px;
+  transform: translate3d(0,0,0);
 }
 .hero__bg {
   position: absolute;
@@ -314,12 +315,7 @@ p:last-child { margin-bottom: 0; }
   margin-bottom: 4px;
   line-height: 1.05;
 }
-.hero__name span {
-  background: linear-gradient(90deg, #FF1200 0%, #FF6B00 55%, #FFA500 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
+.hero__name span { color: var(--red); }
 .hero__role {
   color: rgba(255,255,255,.5);
   font-size: .9rem;
@@ -1099,6 +1095,9 @@ p:last-child { margin-bottom: 0; }
 
   /* Scroll-top button */
   .scroll-top { bottom: 20px; right: 20px; width: 40px; height: 40px; }
+
+  /* Hide blobs on mobile to prevent overflow */
+  .hero__blob { display: none; }
 }
 
 /* ── Pagination ── */
