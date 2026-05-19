@@ -3,6 +3,7 @@ title: "Ce que les données disent vraiment sur le marché immobilier de Montré
 date: 2025-05-19
 category: "Analyse de marché"
 description: "Au-delà des manchettes et des prédictions, voici ce que les indicateurs que je suis chaque mois révèlent sur l'état réel du marché immobilier de Montréal et Laval."
+image: "images/articles/marche-immobilier-montreal-analyse-donnees/featured.jpg"
 draft: false
 ---
 

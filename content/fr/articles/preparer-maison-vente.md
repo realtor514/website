@@ -3,6 +3,7 @@ title: "Comment préparer votre maison pour la vente à Montréal et Laval"
 date: 2025-05-06
 category: "Guide du vendeur"
 description: "Les vendeurs qui préparent bien leur propriété vendent plus vite et au meilleur prix. Voici exactement quoi faire, et quoi ne pas dépenser inutilement, avant de mettre en marché."
+image: "images/articles/preparer-maison-vente-montreal-laval/featured.jpg"
 draft: false
 ---
 

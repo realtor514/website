@@ -1,12 +1,13 @@
 ---
-title: "5 choses à savoir avant d'acheter à Laval en 2025"
-date: 2025-01-15
+title: "5 choses à savoir avant d'acheter à Laval "
+date: -01-15
 category: "Guide de l'acheteur"
-description: "Un guide pratique pour les acheteurs qui veulent entrer sur le marché immobilier de Laval en 2025."
+description: "Un guide pratique pour les acheteurs qui veulent entrer sur le marché immobilier de Laval ."
+image: "images/articles/buying-in-laval-/featured.jpg"
 draft: false
 ---
 
-Le marché immobilier de Laval continue d'évoluer en 2025. Que vous soyez premier acheteur ou investisseur chevronné, voici ce que vous devez savoir avant de passer à l'action.
+Le marché immobilier de Laval continue d'évoluer . Que vous soyez premier acheteur ou investisseur chevronné, voici ce que vous devez savoir avant de passer à l'action.
 
 ## 1. Le marché est plus équilibré
 

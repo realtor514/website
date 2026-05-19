@@ -3,6 +3,7 @@ title: "5 استراتيجيات تفاوض تنجح فعلاً في سوق مو
 date: 2025-06-09
 category: "الاستراتيجية"
 description: "التفاوض العقاري لا علاقة له بكونك الأكثر عدوانية في الغرفة. كل شيء يتعلق بالاستعداد. هذه هي الاستراتيجيات الخمس التي أطبقها مع كل عميل: مشترين وبائعين على حد سواء."
+image: "images/articles/strategies-negociation-immobilier-montreal/featured.jpg"
 draft: false
 ---
 

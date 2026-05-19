@@ -3,6 +3,7 @@ title: "من دكتوراه في الهندسة إلى وسيط عقاري: لم
 date: 2025-05-26
 category: "عن جورج"
 description: "حصلت على دكتوراه في الهندسة الطبية الحيوية. درّست في الجامعة خمس سنوات. ثم اشتريت تريبلكساً وأصبحت وسيطاً عقارياً. هذه هي القصة، ولماذا هذان المساران أكثر ارتباطاً مما يبدو."
+image: "images/articles/docteur-ingenieur-courtier-immobilier/featured.jpg"
 draft: false
 ---
 

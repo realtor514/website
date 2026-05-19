@@ -3,6 +3,7 @@ title: "De docteur en ingénierie à courtier immobilier: pourquoi j'ai fait le 
 date: 2025-05-26
 category: "À propos de Georges"
 description: "J'ai un doctorat en génie biomédical. J'ai enseigné à l'université pendant cinq ans. Et puis j'ai acheté un triplex et je suis devenu courtier immobilier. Voici l'histoire, et pourquoi ces deux carrières sont plus liées qu'elles n'y paraissent."
+image: "images/articles/docteur-ingenieur-courtier-immobilier/featured.jpg"
 draft: false
 ---
 

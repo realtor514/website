@@ -3,6 +3,7 @@ title: "5 stratégies de négociation qui fonctionnent vraiment dans le marché 
 date: 2025-06-09
 category: "Stratégie"
 description: "La négociation immobilière n'est pas une question d'agressivité. C'est une question de préparation. Voici les cinq stratégies que j'applique systématiquement avec chaque client."
+image: "images/articles/strategies-negociation-immobilier-montreal/featured.jpg"
 draft: false
 ---
 

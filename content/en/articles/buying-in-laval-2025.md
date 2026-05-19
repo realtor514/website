@@ -1,12 +1,13 @@
 ---
-title: "5 Things to Know Before Buying in Laval in 2025"
-date: 2025-01-15
+title: "5 Things to Know Before Buying in Laval "
+date: -01-15
 category: "Buyer's Guide"
-description: "A practical guide for home buyers entering the Laval real estate market in 2025."
+description: "A practical guide for home buyers entering the Laval real estate market ."
+image: "images/articles/buying-in-laval-/featured.jpg"
 draft: false
 ---
 
-The Laval real estate market continues to evolve in 2025. Whether you're a first-time buyer or a seasoned investor, here's what you need to know before making your move.
+The Laval real estate market continues to evolve . Whether you're a first-time buyer or a seasoned investor, here's what you need to know before making your move.
 
 ## 1. The Market Is More Balanced
 

@@ -3,6 +3,7 @@ title: "How to Prepare Your Home for Sale in Montreal and Laval"
 date: 2025-05-06
 category: "Seller's Guide"
 description: "The sellers who prepare well consistently sell faster and for more money. Here is exactly what to do (and what not to waste money on) before listing your property."
+image: "images/articles/preparer-maison-vente-montreal-laval/featured.jpg"
 draft: false
 ---
 

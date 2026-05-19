@@ -3,6 +3,7 @@ title: "A Complete Guide for Newcomers Buying Property in Quebec"
 date: 2025-06-16
 category: "Buyer's Guide"
 description: "Buying real estate in Quebec as a newcomer is entirely possible, but the system works differently from most countries. This guide walks through everything you need to know, in plain language."
+image: "images/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/featured.jpg"
 draft: false
 ---
 

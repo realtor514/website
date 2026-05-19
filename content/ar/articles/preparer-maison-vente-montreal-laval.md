@@ -3,6 +3,7 @@ title: "كيف تحضّر منزلك للبيع في مونتريال ولافا
 date: 2025-05-06
 category: "دليل البائع"
 description: "البائعون الذين يستعدون جيداً يبيعون بشكل أسرع وبسعر أعلى باستمرار. إليك بالضبط ما يجب فعله (وما لا يجب إهدار الأموال عليه) قبل إدراج عقارك."
+image: "images/articles/preparer-maison-vente-montreal-laval/featured.jpg"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "Guide complet pour les nouveaux arrivants qui veulent acheter une propri
 date: 2025-06-16
 category: "Guide de l'acheteur"
 description: "Acheter une propriété au Québec en tant que nouvel arrivant est tout à fait possible, mais le système fonctionne différemment de la plupart des pays. Ce guide explique tout ce que vous devez savoir, en langage simple."
+image: "images/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/featured.jpg"
 draft: false
 ---
 

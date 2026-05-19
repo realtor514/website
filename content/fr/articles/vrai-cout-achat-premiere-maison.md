@@ -3,6 +3,7 @@ title: "Le vrai coût d'achat de votre première maison au Québec"
 date: 2025-05-01
 category: "Guide de l'acheteur"
 description: "Tout le monde parle du prix de la maison. Personne ne parle de ce qui vient après. Voici le budget complet que tout premier acheteur au Québec doit connaître."
+image: "images/articles/vrai-cout-achat-premiere-maison-quebec/featured.jpg"
 draft: false
 ---
 

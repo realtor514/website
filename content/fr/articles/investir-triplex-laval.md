@@ -2,7 +2,8 @@
 title: "Pourquoi un triplex à Laval est l'un des meilleurs investissements que vous puissiez faire"
 date: 2025-05-12
 category: "Investissement"
-description: "Les chiffres d'un triplex à Laval ne fonctionnent pas juste — ils fonctionnent mieux que la plupart des produits financiers accessibles à l'investisseur moyen. Voici comment l'analyser correctement."
+description: "Les chiffres d'un triplex à Laval ne fonctionnent pas juste - ils fonctionnent mieux que la plupart des produits financiers accessibles à l'investisseur moyen. Voici comment l'analyser correctement."
+image: "images/articles/investir-triplex-laval-strategie/featured.jpg"
 draft: false
 ---
 
