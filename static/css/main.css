@@ -506,18 +506,12 @@ p:last-child { margin-bottom: 0; }
 
 /* ── Stats bar ── */
 .stats-bar {
-  background: var(--navy);
+  background: rgba(255,18,0,.22);
   padding: 40px 0;
   position: relative;
-  border-top: 1px solid rgba(255,18,0,.2);
-  border-bottom: 1px solid rgba(255,18,0,.2);
-}
-.stats-bar::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: rgba(255,18,0,.1);
-  pointer-events: none;
+  border-top: 1px solid rgba(255,18,0,.4);
+  border-bottom: 1px solid rgba(255,18,0,.4);
+  backdrop-filter: blur(8px);
 }
 .stats-bar__grid {
   display: grid;
