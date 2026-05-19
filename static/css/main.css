@@ -314,7 +314,12 @@ p:last-child { margin-bottom: 0; }
   margin-bottom: 4px;
   line-height: 1.05;
 }
-.hero__name span { color: var(--red); }
+.hero__name span {
+  background: linear-gradient(90deg, #FF1200 0%, #FF6B00 55%, #FFA500 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
 .hero__role {
   color: rgba(255,255,255,.5);
   font-size: .9rem;
