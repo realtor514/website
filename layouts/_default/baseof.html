@@ -18,10 +18,6 @@
 </head>
 <body>
 
-<!-- Custom Cursor -->
-<div class="cursor" id="cursor"></div>
-<div class="cursor-follower" id="cursorFollower"></div>
-
 {{ partial "header.html" . }}
 <main>{{ block "main" . }}{{ end }}</main>
 {{ partial "footer.html" . }}
@@ -33,216 +29,114 @@
 </button>
 
 <script>
-(function() {
-  'use strict';
+  // ── Scroll progress bar ──
+  const progressBar = document.createElement('div');
+  progressBar.className = 'scroll-progress';
+  document.body.prepend(progressBar);
 
-  /* ── Scroll progress ── */
-  const bar = document.createElement('div');
-  bar.className = 'scroll-progress';
-  document.body.prepend(bar);
-
-  /* ── Custom cursor ── */
-  const cursor   = document.getElementById('cursor');
-  const follower = document.getElementById('cursorFollower');
-  let mouseX = -100, mouseY = -100;
-  let followerX = -100, followerY = -100;
-
-  document.addEventListener('mousemove', e => {
-    mouseX = e.clientX; mouseY = e.clientY;
-    cursor.style.left = mouseX + 'px';
-    cursor.style.top  = mouseY + 'px';
-  });
-
-  (function animFollower() {
-    followerX += (mouseX - followerX) * 0.1;
-    followerY += (mouseY - followerY) * 0.1;
-    follower.style.left = followerX + 'px';
-    follower.style.top  = followerY + 'px';
-    requestAnimationFrame(animFollower);
-  })();
-
-  document.addEventListener('mouseleave', () => {
-    cursor.style.opacity = '0'; follower.style.opacity = '0';
-  });
-  document.addEventListener('mouseenter', () => {
-    cursor.style.opacity = '1'; follower.style.opacity = '1';
-  });
-
-  /* ── Nav scroll effect ── */
+  // ── Nav scroll effect ──
   const nav = document.querySelector('.nav');
-  const scrollBtn = document.getElementById('scrollTop');
 
   window.addEventListener('scroll', () => {
     nav.classList.toggle('nav--scrolled', window.scrollY > 40);
     const max = document.documentElement.scrollHeight - window.innerHeight;
-    if (max > 0) bar.style.transform = `scaleX(${window.scrollY / max})`;
+    if (max > 0) progressBar.style.transform = `scaleX(${window.scrollY / max})`;
     scrollBtn.classList.toggle('visible', window.scrollY > 500);
   }, { passive: true });
 
-  /* ── Mobile menu ── */
+  // ── Mobile menu ──
   const toggle = document.getElementById('navToggle');
   const menu   = document.getElementById('navMenu');
-  if (toggle && menu) toggle.addEventListener('click', () => menu.classList.toggle('is-open'));
-
-  /* ── Scroll to top ── */
-  scrollBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
-
-  /* ── Reveal on scroll ── */
-  const revealObserver = new IntersectionObserver(entries => {
-    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
-  }, { threshold: 0.1 });
-  document.querySelectorAll('.reveal, .reveal-left, .reveal-right').forEach(el => revealObserver.observe(el));
-
-  /* ── Aurora canvas hero background ── */
-  const canvas = document.getElementById('hero-canvas');
-  if (canvas) {
-    const ctx = canvas.getContext('2d');
-    let W, H, time = 0;
-    const nodes = [];
-
-    function resize() {
-      W = canvas.width  = canvas.offsetWidth;
-      H = canvas.height = canvas.offsetHeight;
-    }
-    resize();
-    window.addEventListener('resize', resize);
-
-    class Node {
-      constructor() { this.reset(); }
-      reset() {
-        this.x  = Math.random() * W;
-        this.y  = Math.random() * H;
-        this.vx = (Math.random() - .5) * .4;
-        this.vy = (Math.random() - .5) * .4;
-        this.r  = 60 + Math.random() * 140;
-        this.hue = Math.random() < .5 ? 0 : 220;
-        this.alpha = .04 + Math.random() * .08;
-      }
-      update() {
-        this.x += this.vx;
-        this.y += this.vy;
-        if (this.x < -this.r || this.x > W + this.r ||
-            this.y < -this.r || this.y > H + this.r) this.reset();
-      }
-      draw() {
-        const g = ctx.createRadialGradient(this.x, this.y, 0, this.x, this.y, this.r);
-        const a = this.alpha * (.8 + .2 * Math.sin(time * .02 + this.x));
-        g.addColorStop(0, `hsla(${this.hue},100%,55%,${a})`);
-        g.addColorStop(1, 'transparent');
-        ctx.beginPath();
-        ctx.arc(this.x, this.y, this.r, 0, Math.PI * 2);
-        ctx.fillStyle = g;
-        ctx.fill();
-      }
-    }
-
-    for (let i = 0; i < 18; i++) nodes.push(new Node());
-
-    /* Aurora wave lines */
-    function drawAurora() {
-      for (let layer = 0; layer < 3; layer++) {
-        const offset = layer * 40;
-        const speed  = 1 + layer * .5;
-        const hue    = layer === 0 ? 0 : layer === 1 ? 260 : 220;
-        const alpha  = .025 - layer * .006;
-
-        ctx.beginPath();
-        ctx.moveTo(0, H * .4 + offset);
-        for (let x = 0; x <= W; x += 8) {
-          const y = H * .4 + offset
-            + Math.sin((x / W) * Math.PI * 3 + time * .008 * speed) * 60
-            + Math.sin((x / W) * Math.PI * 5 + time * .012 * speed) * 30;
-          ctx.lineTo(x, y);
-        }
-        ctx.lineTo(W, H); ctx.lineTo(0, H); ctx.closePath();
-        ctx.fillStyle = `hsla(${hue},100%,60%,${alpha})`;
-        ctx.fill();
-      }
-    }
-
-    function frame() {
-      time++;
-      ctx.clearRect(0, 0, W, H);
-
-      /* Deep space gradient bg */
-      const bg = ctx.createLinearGradient(0, 0, W, H);
-      bg.addColorStop(0, 'rgba(5,13,26,1)');
-      bg.addColorStop(.5, 'rgba(14,32,64,.9)');
-      bg.addColorStop(1, 'rgba(5,13,26,1)');
-      ctx.fillStyle = bg;
-      ctx.fillRect(0, 0, W, H);
-
-      ctx.globalCompositeOperation = 'screen';
-      nodes.forEach(n => { n.update(); n.draw(); });
-      drawAurora();
-      ctx.globalCompositeOperation = 'source-over';
-
-      requestAnimationFrame(frame);
-    }
-    frame();
+  if (toggle && menu) {
+    toggle.addEventListener('click', () => menu.classList.toggle('is-open'));
   }
 
-  /* ── Hero blobs ── */
-  (function() {
+  // ── Scroll to top ──
+  const scrollBtn = document.getElementById('scrollTop');
+  scrollBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+
+  // ── Reveal on scroll (base + left + right variants) ──
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+  }, { threshold: 0.12 });
+  document.querySelectorAll('.reveal, .reveal-left, .reveal-right').forEach(el => observer.observe(el));
+
+  // ── Hero animated blobs ──
+  (function () {
     const hero = document.querySelector('.hero');
     if (!hero) return;
-    [1, 2, 3].forEach(n => {
+    [1, 2].forEach(n => {
       const b = document.createElement('div');
       b.className = `hero__blob hero__blob--${n}`;
       hero.appendChild(b);
     });
   })();
 
-  /* ── Hero particles ── */
-  (function() {
+  // ── Hero floating particles ──
+  (function () {
     const hero = document.querySelector('.hero');
     if (!hero) return;
-    const colors = ['rgba(255,18,0,.7)','rgba(0,67,255,.6)','rgba(255,255,255,.3)','rgba(139,0,255,.5)'];
-    for (let i = 0; i < 28; i++) {
+    const colors = ['rgba(255,18,0,.55)', 'rgba(0,67,255,.45)', 'rgba(255,255,255,.25)'];
+    const sizes  = [3, 4, 5, 6];
+    for (let i = 0; i < 20; i++) {
       const p = document.createElement('div');
       p.className = 'hero__particle';
-      const s = 2 + Math.random() * 5;
+      const s = sizes[i % sizes.length];
       p.style.cssText = [
         `width:${s}px`, `height:${s}px`,
-        `left:${Math.random() * 96}%`,
-        `bottom:${Math.random() * 60}%`,
+        `left:${Math.random() * 95}%`,
+        `bottom:${Math.random() * 50}%`,
         `background:${colors[i % colors.length]}`,
-        `animation-duration:${6 + Math.random() * 10}s`,
-        `animation-delay:${Math.random() * 12}s`,
-        `box-shadow:0 0 ${s*2}px ${colors[i % colors.length]}`
+        `animation-duration:${5 + Math.random() * 9}s`,
+        `animation-delay:${Math.random() * 10}s`
       ].join(';');
       hero.appendChild(p);
     }
   })();
 
-  /* ── Floating badge cards in hero ── */
-  (function() {
-    const frame = document.querySelector('.hero__photo-frame');
-    if (!frame) return;
-
-    const b1 = document.createElement('div');
-    b1.className = 'hero__badge hero__badge--1';
-    b1.innerHTML = `
-      <div class="hero__badge-icon">🎓</div>
-      <div>
-        <div class="hero__badge-label">Background</div>
-        <div class="hero__badge-value">PhD Engineering</div>
-      </div>`;
-    frame.appendChild(b1);
-
-    const b2 = document.createElement('div');
-    b2.className = 'hero__badge hero__badge--2';
-    b2.innerHTML = `
-      <div class="hero__badge-icon">🌍</div>
-      <div>
-        <div class="hero__badge-label">Languages</div>
-        <div class="hero__badge-value">EN · FR · AR</div>
-      </div>`;
-    frame.appendChild(b2);
+  // ── Stats counter animation ──
+  (function () {
+    const stats = document.querySelectorAll('.stat-item__number');
+    if (!stats.length) return;
+    const counterObs = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        const el = entry.target;
+        if (el.dataset.counted) return;
+        el.dataset.counted = '1';
+        el.classList.add('animate');
+        const raw = el.textContent.trim();
+        const num = parseFloat(raw.replace(/[^0-9.]/g, ''));
+        if (isNaN(num)) return;
+        const suffix  = raw.replace(/[\d.]/g, '');
+        const isFloat = raw.includes('.');
+        const steps   = 55;
+        let step = 0;
+        const timer = setInterval(() => {
+          step++;
+          const eased = 1 - Math.pow(1 - step / steps, 3);
+          const val   = eased * num;
+          el.textContent = (isFloat ? val.toFixed(1) : Math.round(val)) + suffix;
+          if (step >= steps) { clearInterval(timer); el.textContent = raw; }
+        }, 1400 / steps);
+      });
+    }, { threshold: 0.6 });
+    stats.forEach(el => counterObs.observe(el));
   })();
 
-  /* ── Mouse parallax in hero ── */
-  (function() {
+  // ── 3D tilt on service cards ──
+  document.querySelectorAll('.service-card').forEach(card => {
+    card.addEventListener('mousemove', e => {
+      const r = card.getBoundingClientRect();
+      const x = (e.clientX - r.left) / r.width  - .5;
+      const y = (e.clientY - r.top)  / r.height - .5;
+      card.style.transform = `perspective(900px) rotateY(${x * 9}deg) rotateX(${-y * 9}deg) translateZ(6px)`;
+    });
+    card.addEventListener('mouseleave', () => { card.style.transform = ''; });
+  });
+
+  // ── Mouse parallax in hero ──
+  (function () {
     const hero    = document.querySelector('.hero');
     if (!hero) return;
     const content = hero.querySelector('.hero__content');
@@ -255,8 +149,8 @@
         const r = hero.getBoundingClientRect();
         const x = (e.clientX - r.left) / r.width  - .5;
         const y = (e.clientY - r.top)  / r.height - .5;
-        if (content) content.style.transform = `translate(${x * 12}px, ${y * 8}px)`;
-        if (visual)  visual.style.transform  = `translate(${x * -15}px, ${y * -11}px)`;
+        if (content) content.style.transform = `translate(${x * 10}px, ${y * 7}px)`;
+        if (visual)  visual.style.transform  = `translate(${x * -13}px, ${y * -10}px)`;
         ticking = false;
       });
     });
@@ -265,94 +159,12 @@
       if (visual)  visual.style.transform  = '';
     });
   })();
-
-  /* ── Stats counter ── */
-  (function() {
-    const stats = document.querySelectorAll('.stat-item__number');
-    if (!stats.length) return;
-    const obs = new IntersectionObserver(entries => {
-      entries.forEach(entry => {
-        if (!entry.isIntersecting) return;
-        const el = entry.target;
-        if (el.dataset.counted) return;
-        el.dataset.counted = '1';
-        el.classList.add('animate');
-        const raw    = el.textContent.trim();
-        const num    = parseFloat(raw.replace(/[^0-9.]/g, ''));
-        if (isNaN(num)) return;
-        const suffix  = raw.replace(/[\d.]/g, '');
-        const isFloat = raw.includes('.');
-        const steps   = 60;
-        let step = 0;
-        const timer = setInterval(() => {
-          step++;
-          const eased = 1 - Math.pow(1 - step / steps, 3);
-          el.textContent = (isFloat ? (eased*num).toFixed(1) : Math.round(eased*num)) + suffix;
-          if (step >= steps) { clearInterval(timer); el.textContent = raw; }
-        }, 1600 / steps);
-      });
-    }, { threshold: 0.5 });
-    stats.forEach(el => obs.observe(el));
-  })();
-
-  /* ── 3D tilt on service cards ── */
-  document.querySelectorAll('.service-card').forEach(card => {
-    card.addEventListener('mousemove', e => {
-      const r = card.getBoundingClientRect();
-      const x = (e.clientX - r.left) / r.width  - .5;
-      const y = (e.clientY - r.top)  / r.height - .5;
-      card.style.transform = `perspective(1000px) rotateY(${x * 8}deg) rotateX(${-y * 8}deg) translateZ(8px)`;
-    });
-    card.addEventListener('mouseleave', () => { card.style.transform = ''; });
-  });
-
-  /* ── Magnetic buttons ── */
-  document.querySelectorAll('.btn').forEach(btn => {
-    btn.addEventListener('mousemove', e => {
-      const r  = btn.getBoundingClientRect();
-      const dx = e.clientX - (r.left + r.width  / 2);
-      const dy = e.clientY - (r.top  + r.height / 2);
-      btn.style.transform = `translate(${dx * .22}px, ${dy * .22}px)`;
-    });
-    btn.addEventListener('mouseleave', () => { btn.style.transform = ''; });
-    btn.addEventListener('click', e => {
-      const r = btn.getBoundingClientRect();
-      const rp = document.createElement('span');
-      rp.className = 'ripple';
-      const size = Math.max(r.width, r.height);
-      rp.style.cssText = `width:${size}px;height:${size}px;left:${e.clientX-r.left-size/2}px;top:${e.clientY-r.top-size/2}px`;
-      btn.appendChild(rp);
-      setTimeout(() => rp.remove(), 700);
-    });
-  });
-
-  /* ── Listing & article card tilt ── */
-  document.querySelectorAll('.listing-card, .article-card').forEach(card => {
-    card.addEventListener('mousemove', e => {
-      const r = card.getBoundingClientRect();
-      const x = (e.clientX - r.left) / r.width  - .5;
-      const y = (e.clientY - r.top)  / r.height - .5;
-      card.style.transform = `translateY(-10px) perspective(800px) rotateY(${x * 4}deg) rotateX(${-y * 4}deg)`;
-    });
-    card.addEventListener('mouseleave', () => { card.style.transform = ''; });
-  });
-
-  /* ── Section dividers ── */
-  document.querySelectorAll('.section').forEach((sec, i) => {
-    if (i === 0) return;
-    const div = document.createElement('div');
-    div.className = 'section-divider';
-    sec.parentNode.insertBefore(div, sec);
-  });
-
-})();
 </script>
 
-<!-- Cal.com -->
 <script>
-(function(C,A,L){let p=function(a,ar){a.q.push(ar)};let d=C.document;C.Cal=C.Cal||function(){let cal=C.Cal;let ar=arguments;if(!cal.loaded){cal.ns={};cal.q=cal.q||[];d.head.appendChild(d.createElement("script")).src=A;cal.loaded=true}if(ar[0]===L){const api=function(){p(api,arguments)};const namespace=ar[1];api.q=api.q||[];if(typeof namespace==="string"){cal.ns[namespace]=cal.ns[namespace]||api;p(cal.ns[namespace],ar);p(cal,[L,namespace,...Array.prototype.slice.call(ar,2)])}else p(cal,ar);return}p(cal,ar)}})(window,"https://app.cal.com/embed/embed.js","init");
-Cal("init",{origin:"https://cal.com"});
-Cal("ui",{"styles":{"branding":{"brandColor":"#FF1200"}},"hideEventTypeDetails":false,"layout":"month_view"});
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, [L, namespace, ...Array.prototype.slice.call(ar, 2)]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+  Cal("init", {origin:"https://cal.com"});
+  Cal("ui", {"styles":{"branding":{"brandColor":"#FF1200"}},"hideEventTypeDetails":false,"layout":"month_view"});
 </script>
 
 </body>
