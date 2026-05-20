@@ -111,8 +111,61 @@ defaultContentLanguageInSubdir = false
       url    = "/fr/#contact"
       weight = 7
 
-  [languages.ar]
+  [languages.es]
     weight       = 3
+    languageCode = "es"
+    languageName = "Español"
+    contentDir   = "content/es"
+    title        = "Georges Matar | Corredor Inmobiliario Residencial"
+
+    [languages.es.params]
+      role        = "Corredor Inmobiliario Residencial"
+      tagline     = "Corredor Inmobiliario Residencial &middot; Laval &amp; Montr&eacute;al"
+      heroQuote   = "&ldquo;Su guía de confianza en el mercado inmobiliario del Gran Montréal.&rdquo;"
+      ctaListings = "Ver Propiedades"
+      ctaContact  = "Contácteme"
+      description = "Corredor inmobiliario residencial en Laval y el Gran Montréal. Propiedades residenciales e inversión inmobiliaria."
+      bio         = "Con un profundo conocimiento de los mercados inmobiliarios de Montréal y Laval, ofrezco orientación personalizada para ayudar a compradores, vendedores e inversores a alcanzar sus objetivos inmobiliarios. Mi compromiso con la excelencia y la satisfacción del cliente guía todo lo que hago."
+      aboutBadge  = "Sobre mí"
+      aboutTitle  = "Apasionado por encontrar su propiedad ideal"
+
+    [[languages.es.menus.main]]
+      name   = "Inicio"
+      url    = "/es/"
+      weight = 1
+
+    [[languages.es.menus.main]]
+      name   = "Propiedades"
+      url    = "/es/listings/"
+      weight = 2
+
+    [[languages.es.menus.main]]
+      name   = "Artículos"
+      url    = "/es/articles/"
+      weight = 3
+
+    [[languages.es.menus.main]]
+      name   = "Herramientas"
+      url    = "/es/#tools"
+      weight = 4
+
+    [[languages.es.menus.main]]
+      name   = "Sobre mí"
+      url    = "/es/about/"
+      weight = 5
+
+    [[languages.es.menus.main]]
+      name   = "Mi Red"
+      url    = "/es/#network"
+      weight = 6
+
+    [[languages.es.menus.main]]
+      name   = "Contacto"
+      url    = "/es/#contact"
+      weight = 7
+
+  [languages.ar]
+    weight       = 4
     languageCode = "ar"
     languageName = "العربية"
     contentDir   = "content/ar"
