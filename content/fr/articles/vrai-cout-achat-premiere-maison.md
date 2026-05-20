@@ -41,7 +41,7 @@ Souvent oubliés: de 1 500 à 5 000 dollars selon le volume et la distance.
 Sur un achat de 500 000 dollars avec une mise de fonds de 5%, voici le budget complet:
 
 | Poste | Coût estimé |
-|-------|-------------|
+|-|-|
 | Mise de fonds (5%) | 25 000 $ |
 | Assurance SCHL | ~19 000 $ (ajoutée au prêt) |
 | Taxes de bienvenue | ~6 500 $ |

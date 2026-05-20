@@ -20,9 +20,9 @@ That story repeats itself more than you'd think. Here's how to make sure it's no
 In Canada, mortgage lenders generally use the following thresholds:
 
 - **760+:** Best rates, maximum flexibility, any lender
-- **700–759:** Strong approval chances, competitive rates
-- **680–699:** Generally approvable with major banks, standard rates
-- **620–679:** May require a B-lender or higher rate, limited options
+- **700-759:** Strong approval chances, competitive rates
+- **680-699:** Generally approvable with major banks, standard rates
+- **620-679:** May require a B-lender or higher rate, limited options
 - **Below 620:** Difficult to finance conventionally; private lending territory
 
 The number isn't the whole picture - lenders also examine your full credit report, including the history of individual accounts - but it's the first filter.

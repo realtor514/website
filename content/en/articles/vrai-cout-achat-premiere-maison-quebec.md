@@ -41,7 +41,7 @@ Often forgotten: $1,500 to $5,000 depending on how much you're moving and how fa
 On a $500,000 purchase with a 5% down payment, here is what the complete budget looks like:
 
 | Item | Estimated Cost |
-|------|---------------|
+|-|-|
 | Down payment (5%) | $25,000 |
 | CMHC insurance | ~$19,000 (added to mortgage) |
 | Welcome tax | ~$6,500 |

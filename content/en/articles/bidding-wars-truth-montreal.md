@@ -9,7 +9,7 @@ draft: true
 
 Let me be honest with you about something most brokers won't say out loud: bidding wars are not a sign of a healthy market. They're a sign of a market where buyers have lost leverage, and where emotions can override logic in dangerous ways.
 
-As a broker who comes from an engineering background, my first instinct in any multiple-offer situation is to run the numbers -- not the emotions. And those numbers, more often than people expect, tell a story the excitement of the moment tends to hide. Some of my proudest moments are the ones where I helped a client **not** win a bidding war -- because the price had crossed a line where the math no longer made sense.
+As a broker who comes from an engineering background, my first instinct in any multiple-offer situation is to run the numbers - not the emotions. And those numbers, more often than people expect, tell a story the excitement of the moment tends to hide. Some of my proudest moments are the ones where I helped a client **not** win a bidding war - because the price had crossed a line where the math no longer made sense.
 
 ## How Bidding Wars Actually Start
 
