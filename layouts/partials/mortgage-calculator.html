@@ -123,8 +123,26 @@
         </div>
       </div>
 
-      <!-- Amortization / Frequency -->
-      <div class="mc-row mc-row--2">
+      <!-- Term / Amortization / Frequency -->
+      <div class="mc-row mc-row--3">
+        <div class="mc-field">
+          <label class="mc-label" for="mc-term">
+            {{ if $isFr }}Durée du terme{{ else if $isAr }}مدة العقد{{ else }}Term{{ end }}
+          </label>
+          <div class="mc-select-wrap">
+            <select class="mc-select" id="mc-term">
+              {{ range slice 1 2 3 4 5 6 7 8 9 10 }}
+              <option value="{{ . }}"{{ if eq . 5 }} selected{{ end }}>
+                {{ . }} {{ if $isFr }}ans{{ else if $isAr }}سنة{{ else }}years{{ end }}
+              </option>
+              {{ end }}
+            </select>
+            <span class="mc-select-arrow">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+            </span>
+          </div>
+        </div>
+
         <div class="mc-field">
           <label class="mc-label" for="mc-amort">
             {{ if $isFr }}Période d'amortissement{{ else if $isAr }}فترة الإطفاء{{ else }}Amortization period{{ end }}
@@ -180,29 +198,75 @@
         </button>
       </div>
 
-      <!-- Results -->
+      <!-- Results table -->
       <div class="mc-results" id="mc-results" aria-live="polite">
         <div class="mc-results__divider"></div>
-        <div class="mc-results__grid">
-          <div class="mc-result-card mc-result-card--primary">
-            <span class="mc-result-card__label" id="mc-payment-label">
-              {{ if $isFr }}Paiement mensuel{{ else if $isAr }}الدفعة الشهرية{{ else }}Monthly Payment{{ end }}
-            </span>
-            <span class="mc-result-card__value" id="mc-payment-value">$0</span>
-          </div>
-          <div class="mc-result-card">
-            <span class="mc-result-card__label">
-              {{ if $isFr }}Total des intérêts{{ else if $isAr }}إجمالي الفوائد{{ else }}Total Interest{{ end }}
-            </span>
-            <span class="mc-result-card__value" id="mc-interest-value">$0</span>
-          </div>
-          <div class="mc-result-card">
-            <span class="mc-result-card__label">
-              {{ if $isFr }}Montant total payé{{ else if $isAr }}إجمالي المبلغ المدفوع{{ else }}Total Amount Paid{{ end }}
-            </span>
-            <span class="mc-result-card__value" id="mc-total-value">$0</span>
-          </div>
+        <h3 class="mc-results__title">
+          {{ if $isFr }}Sommaire du calcul{{ else if $isAr }}ملخص الحساب{{ else }}Calculation Summary{{ end }}
+        </h3>
+
+        <div class="mc-table-wrap">
+          <table class="mc-table">
+            <thead>
+              <tr>
+                <th class="mc-th mc-th--category">
+                  {{ if $isFr }}Catégorie{{ else if $isAr }}الفئة{{ else }}Category{{ end }}
+                </th>
+                <th class="mc-th mc-th--col" id="mc-th-term">
+                  {{ if $isFr }}Terme{{ else if $isAr }}المدة{{ else }}Term{{ end }}
+                </th>
+                <th class="mc-th mc-th--col mc-th--amort">
+                  {{ if $isFr }}Période d'amortissement{{ else if $isAr }}فترة الإطفاء{{ else }}Amortization Period{{ end }}
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="mc-tr">
+                <td class="mc-td mc-td--label">
+                  {{ if $isFr }}Nombre de paiements{{ else if $isAr }}عدد الدفعات{{ else }}Number of Payments{{ end }}
+                </td>
+                <td class="mc-td mc-td--val" id="mc-r-term-n">—</td>
+                <td class="mc-td mc-td--val mc-td--amort" id="mc-r-amort-n">—</td>
+              </tr>
+              <tr class="mc-tr mc-tr--highlight">
+                <td class="mc-td mc-td--label" id="mc-r-payment-label">
+                  {{ if $isFr }}Paiement hypothécaire{{ else if $isAr }}الدفعة العقارية{{ else }}Mortgage Payment{{ end }}
+                </td>
+                <td class="mc-td mc-td--val mc-td--strong" id="mc-r-term-pay">—</td>
+                <td class="mc-td mc-td--val mc-td--strong mc-td--amort" id="mc-r-amort-pay">—</td>
+              </tr>
+              <tr class="mc-tr">
+                <td class="mc-td mc-td--label">
+                  {{ if $isFr }}Paiement anticipé{{ else if $isAr }}الدفع المسبق{{ else }}Prepayment{{ end }}
+                </td>
+                <td class="mc-td mc-td--val">$0.00</td>
+                <td class="mc-td mc-td--val mc-td--amort">$0.00</td>
+              </tr>
+              <tr class="mc-tr">
+                <td class="mc-td mc-td--label">
+                  {{ if $isFr }}Paiements en capital{{ else if $isAr }}مدفوعات رأس المال{{ else }}Principal Payments{{ end }}
+                </td>
+                <td class="mc-td mc-td--val" id="mc-r-term-principal">—</td>
+                <td class="mc-td mc-td--val mc-td--amort" id="mc-r-amort-principal">—</td>
+              </tr>
+              <tr class="mc-tr">
+                <td class="mc-td mc-td--label">
+                  {{ if $isFr }}Paiements d'intérêts{{ else if $isAr }}مدفوعات الفوائد{{ else }}Interest Payments{{ end }}
+                </td>
+                <td class="mc-td mc-td--val" id="mc-r-term-interest">—</td>
+                <td class="mc-td mc-td--val mc-td--amort" id="mc-r-amort-interest">—</td>
+              </tr>
+              <tr class="mc-tr mc-tr--total">
+                <td class="mc-td mc-td--label mc-td--total-label">
+                  {{ if $isFr }}Coût total{{ else if $isAr }}التكلفة الإجمالية{{ else }}Total Cost{{ end }}
+                </td>
+                <td class="mc-td mc-td--val mc-td--total" id="mc-r-term-total">—</td>
+                <td class="mc-td mc-td--val mc-td--total mc-td--amort" id="mc-r-amort-total">—</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
+
         <p class="mc-results__disclaimer">
           {{ if $isFr }}
             * Estimation à titre indicatif uniquement. Consultez un conseiller hypothécaire pour une analyse complète.
@@ -234,7 +298,7 @@
 (function () {
   function parseMoney(v) { return parseFloat(String(v).replace(/[^0-9.]/g, '')) || 0; }
   function formatMoney(n) { return n.toLocaleString('en-CA', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
-  function formatDisplay(n) { return '$' + formatMoney(n); }
+  function fmt(n) { return '$' + formatMoney(n); }
 
   var price  = document.getElementById('mc-price');
   var down   = document.getElementById('mc-down');
@@ -245,102 +309,114 @@
   var rateDn = document.getElementById('mc-rate-down');
   var calcBtn= document.getElementById('mc-calculate');
   var results= document.getElementById('mc-results');
-  var payLbl = document.getElementById('mc-payment-label');
-  var payVal = document.getElementById('mc-payment-value');
-  var intVal = document.getElementById('mc-interest-value');
-  var totVal = document.getElementById('mc-total-value');
   var freq   = document.getElementById('mc-freq');
 
   function updateLoan() {
     var p = parseMoney(price.value);
     var d = parseMoney(down.value);
-    var l = Math.max(0, p - d);
-    loan.value = formatMoney(l);
+    loan.value = formatMoney(Math.max(0, p - d));
   }
-
   function syncPct() {
-    var p = parseMoney(price.value);
-    var d = parseMoney(down.value);
-    if (p > 0) pct.value = ((d / p) * 100).toFixed(2);
-    else pct.value = '';
+    var p = parseMoney(price.value), d = parseMoney(down.value);
+    pct.value = p > 0 ? ((d / p) * 100).toFixed(2) : '';
     updateLoan();
   }
-
   function syncDown() {
-    var p = parseMoney(price.value);
-    var pc = parseMoney(pct.value);
-    if (p > 0 && pc > 0) {
-      var d = (pc / 100) * p;
-      down.value = formatMoney(d);
-    }
+    var p = parseMoney(price.value), pc = parseMoney(pct.value);
+    if (p > 0 && pc > 0) down.value = formatMoney((pc / 100) * p);
     updateLoan();
   }
-
-  function formatOnBlur(input) {
-    var v = parseMoney(input.value);
-    if (v > 0) input.value = formatMoney(v);
-  }
+  function fmtBlur(el) { var v = parseMoney(el.value); if (v > 0) el.value = formatMoney(v); }
 
   price.addEventListener('input', syncPct);
-  price.addEventListener('blur', function() { formatOnBlur(price); syncPct(); });
+  price.addEventListener('blur', function() { fmtBlur(price); syncPct(); });
   down.addEventListener('input', syncPct);
-  down.addEventListener('blur', function() { formatOnBlur(down); syncPct(); });
+  down.addEventListener('blur', function() { fmtBlur(down); syncPct(); });
   pct.addEventListener('input', syncDown);
 
-  rateUp.addEventListener('click', function() {
-    var v = parseFloat(rate.value) || 5.5;
-    rate.value = Math.min(30, +(v + 0.05).toFixed(2));
-  });
-  rateDn.addEventListener('click', function() {
-    var v = parseFloat(rate.value) || 5.5;
-    rate.value = Math.max(0, +(v - 0.05).toFixed(2));
-  });
+  rateUp.addEventListener('click', function() { rate.value = Math.min(30, +((parseFloat(rate.value)||5.5) + 0.05).toFixed(2)); });
+  rateDn.addEventListener('click', function() { rate.value = Math.max(0,  +((parseFloat(rate.value)||5.5) - 0.05).toFixed(2)); });
 
-  freq.addEventListener('change', function() {
-    var f = parseInt(freq.value);
-    var labels = { 12: 'Monthly Payment', 24: 'Semi-monthly Payment', 26: 'Bi-weekly Payment', 52: 'Weekly Payment' };
-    var labelsFr = { 12: 'Paiement mensuel', 24: 'Paiement bimensuel', 26: 'Paiement aux deux semaines', 52: 'Paiement hebdomadaire' };
-    var labelsAr = { 12: 'الدفعة الشهرية', 24: 'الدفعة نصف الشهرية', 26: 'الدفعة كل أسبوعين', 52: 'الدفعة الأسبوعية' };
+  /* Update term column header label */
+  function updateTermHeader() {
+    var t = parseInt(document.getElementById('mc-term').value) || 5;
+    var f = parseInt(freq.value) || 12;
     var lang = document.documentElement.lang || 'en';
-    if (lang === 'fr') payLbl.textContent = labelsFr[f] || labelsFr[12];
-    else if (lang === 'ar') payLbl.textContent = labelsAr[f] || labelsAr[12];
-    else payLbl.textContent = labels[f] || labels[12];
-  });
+    var yr = lang === 'fr' ? 'ans' : lang === 'ar' ? 'سنة' : 'years';
+    var lbl = lang === 'fr' ? 'Terme' : lang === 'ar' ? 'المدة' : 'Term';
+    document.getElementById('mc-th-term').textContent = lbl + ' (' + t + ' ' + yr + ')';
+    /* Update payment label per frequency */
+    var payLabels = { 12: {en:'Mortgage Payment',fr:'Paiement hypothécaire',ar:'الدفعة العقارية'},
+                      24: {en:'Semi-monthly Payment',fr:'Paiement bimensuel',ar:'الدفعة نصف الشهرية'},
+                      26: {en:'Bi-weekly Payment',fr:'Paiement aux deux semaines',ar:'الدفعة كل أسبوعين'},
+                      52: {en:'Weekly Payment',fr:'Paiement hebdomadaire',ar:'الدفعة الأسبوعية'} };
+    var map = payLabels[f] || payLabels[12];
+    document.getElementById('mc-r-payment-label').textContent = map[lang] || map['en'];
+  }
+  document.getElementById('mc-term').addEventListener('change', updateTermHeader);
+  freq.addEventListener('change', updateTermHeader);
 
   calcBtn.addEventListener('click', function() {
-    var P = parseMoney(loan.value);
-    var annualRate = parseFloat(rate.value) || 5.5;
-    var years = parseInt(document.getElementById('mc-amort').value) || 25;
-    var paymentsPerYear = parseInt(freq.value) || 12;
+    var P           = parseMoney(loan.value);
+    var annualRate  = parseFloat(rate.value) || 5.5;
+    var amortYears  = parseInt(document.getElementById('mc-amort').value) || 25;
+    var termYears   = parseInt(document.getElementById('mc-term').value) || 5;
+    var ppy         = parseInt(freq.value) || 12; /* payments per year */
 
     if (P <= 0) {
+      price.style.outline = '2px solid var(--red)';
       price.focus();
-      price.style.borderColor = 'var(--red)';
-      setTimeout(function() { price.style.borderColor = ''; }, 2000);
+      setTimeout(function() { price.style.outline = ''; }, 2000);
       return;
     }
 
+    /* Clamp term to amortization */
+    if (termYears > amortYears) termYears = amortYears;
+
     /* Canadian mortgage: semi-annual compounding */
-    var semiAnnualRate = annualRate / 100 / 2;
-    var effectivePerPeriod = Math.pow(1 + semiAnnualRate, 2 / paymentsPerYear) - 1;
-    var n = years * paymentsPerYear;
+    var r = effectiveRate(annualRate, ppy);
+    var N = amortYears * ppy;   /* total amortization payments */
+    var T = termYears  * ppy;   /* payments in term */
 
-    var payment;
-    if (effectivePerPeriod === 0) {
-      payment = P / n;
-    } else {
-      payment = P * (effectivePerPeriod * Math.pow(1 + effectivePerPeriod, n)) / (Math.pow(1 + effectivePerPeriod, n) - 1);
-    }
+    var payment = r === 0 ? P / N : P * r * Math.pow(1+r, N) / (Math.pow(1+r, N) - 1);
 
-    var totalPaid = payment * n;
-    var totalInterest = totalPaid - P;
+    /* Balance remaining after term */
+    var balanceAfterTerm = r === 0
+      ? P - payment * T
+      : P * (Math.pow(1+r, N) - Math.pow(1+r, T)) / (Math.pow(1+r, N) - 1);
 
-    payVal.textContent = formatDisplay(payment);
-    intVal.textContent = formatDisplay(totalInterest);
-    totVal.textContent = formatDisplay(totalPaid);
+    /* Term breakdown */
+    var termTotalPaid    = payment * T;
+    var termPrincipal    = P - balanceAfterTerm;
+    var termInterest     = termTotalPaid - termPrincipal;
+
+    /* Full amortization breakdown */
+    var amortTotalPaid   = payment * N;
+    var amortInterest    = amortTotalPaid - P;
+
+    /* Update term header */
+    updateTermHeader();
+
+    /* Fill table */
+    set('mc-r-term-n',          T);
+    set('mc-r-amort-n',         N);
+    set('mc-r-term-pay',        fmt(payment));
+    set('mc-r-amort-pay',       fmt(payment));
+    set('mc-r-term-principal',  fmt(termPrincipal));
+    set('mc-r-amort-principal', fmt(P));
+    set('mc-r-term-interest',   fmt(termInterest));
+    set('mc-r-amort-interest',  fmt(amortInterest));
+    set('mc-r-term-total',      fmt(termTotalPaid));
+    set('mc-r-amort-total',     fmt(amortTotalPaid));
 
     results.classList.add('mc-results--visible');
     results.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   });
+
+  function effectiveRate(annualPct, ppy) {
+    var semi = annualPct / 100 / 2;
+    return Math.pow(1 + semi, 2 / ppy) - 1;
+  }
+  function set(id, val) { document.getElementById(id).textContent = val; }
 })();
 </script>
