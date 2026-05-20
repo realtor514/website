@@ -1,6 +1,6 @@
----
+﻿---
 title: "The Montreal Neighborhoods I'd Buy In Right Now (And Two I'd Avoid)"
-date: -05-19
+date: 2025-05-19
 category: "Market Insights"
 description: "Not all Montreal neighborhoods are equal investments. Here's my honest, data-driven breakdown of where to buy  - and where to think twice."
 image: "images/articles/best-neighborhoods-montreal/featured.jpg"
@@ -31,7 +31,7 @@ This is a pick that surprises people. Saint-Laurent has a reputation as a suburb
 
 ## Where I'd Buy for Rental Income
 
-**Côte-des-Neiges**
+**CÃ´te-des-Neiges**
 
 One of the most densely populated areas in Canada, with a constant flow of students, medical professionals, and new immigrants. Vacancy rates are structurally low. A well-priced income property here - triplex, duplex, or even a condo unit - can generate solid returns. The trade-off is that capital appreciation is slower and property management is more active.
 
@@ -41,17 +41,17 @@ Verdun has undergone a dramatic transformation over the past decade. Waterfront 
 
 ## Where I'd Think Twice
 
-**Certain sectors of Pointe-aux-Trembles / Rivière-des-Prairies**
+**Certain sectors of Pointe-aux-Trembles / RiviÃ¨re-des-Prairies**
 
 Distance from the city center, aging infrastructure, and limited transit investment make some parts of the East Island difficult to recommend for appreciation-focused buyers. Rental demand exists, but the capital gains story is harder to build.
 
-**Overheated pockets of NDG (Notre-Dame-de-Grâce)**
+**Overheated pockets of NDG (Notre-Dame-de-GrÃ¢ce)**
 
 NDG is a beautiful neighborhood and I understand why people love it. But several pockets have priced in so much optimism that the margin for error is thin. If you're buying in NDG today, make sure the price-per-square-foot is supported by recent comparable sales - not by what the neighborhood used to transact at two years ago.
 
 ## The REM Factor
 
-The Réseau express métropolitain is changing the value equation in Greater Montreal in ways that haven't fully played out yet. Properties within walking distance of new REM stations in Brossard, West Island, and along the main trunk are likely to see continued price support as the network matures and ridership grows. This is where I'm watching the market most carefully .
+The RÃ©seau express mÃ©tropolitain is changing the value equation in Greater Montreal in ways that haven't fully played out yet. Properties within walking distance of new REM stations in Brossard, West Island, and along the main trunk are likely to see continued price support as the network matures and ridership grows. This is where I'm watching the market most carefully .
 
 ## My Honest Caveat
 

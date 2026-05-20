@@ -1,6 +1,6 @@
----
+﻿---
 title: "5 Things to Know Before Buying in Laval "
-date: -01-15
+date: 2025-01-15
 category: "Buyer's Guide"
 description: "A practical guide for home buyers entering the Laval real estate market ."
 image: "images/articles/buying-in-laval-/featured.jpg"
@@ -15,7 +15,7 @@ After years of rapid price growth, the Laval market has reached a more balanced 
 
 ## 2. Interest Rates Are the Key Variable
 
-Monitor the Bank of Canada rate decisions closely. Even a small rate change can significantly impact your borrowing capacity and monthly payments. Get pre-approved before you start visiting properties; it locks in a rate for 90–120 days and gives you negotiating strength.
+Monitor the Bank of Canada rate decisions closely. Even a small rate change can significantly impact your borrowing capacity and monthly payments. Get pre-approved before you start visiting properties; it locks in a rate for 90â€“120 days and gives you negotiating strength.
 
 ## 3. Duvernay and Vimont Remain Top Choices
 
