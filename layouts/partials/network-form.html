@@ -1,23 +1,26 @@
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
 {{ $base  := "" }}
-{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ end }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
 
 <section class="section network-section" id="network">
   <div class="container">
 
     <div class="section-header reveal">
       <span class="eyebrow">
-        {{ if $isFr }}Rejoindre mon réseau{{ else if $isAr }}انضم إلى شبكتي{{ else }}Join My Network{{ end }}
+        {{ if $isFr }}Rejoindre mon réseau{{ else if $isAr }}انضم إلى شبكتي{{ else if $isEs }}Únase a mi red{{ else }}Join My Network{{ end }}
       </span>
       <h2>
-        {{ if $isFr }}Faire partie de mon réseau{{ else if $isAr }}كن جزءاً من شبكتي{{ else }}Become Part of My Network{{ end }}
+        {{ if $isFr }}Faire partie de mon réseau{{ else if $isAr }}كن جزءاً من شبكتي{{ else if $isEs }}Forme parte de mi red{{ else }}Become Part of My Network{{ end }}
       </h2>
       <p class="subtitle">
         {{ if $isFr }}
           Inscrivez-vous pour recevoir du contenu personnalisé : analyses de marché, conseils immobiliers, nouvelles inscriptions dans votre secteur, et bien plus encore.
         {{ else if $isAr }}
           سجّل لتلقي محتوى مخصص: تحليلات السوق، نصائح عقارية، إعلانات جديدة في منطقتك، والمزيد.
+        {{ else if $isEs }}
+          Regístrese para recibir contenido personalizado: análisis de mercado, consejos inmobiliarios, nuevos listados en su área de interés, y más.
         {{ else }}
           Sign up to receive personalized content: market analyses, real estate tips, new listings in your area of interest, and more.
         {{ end }}
@@ -30,17 +33,17 @@
         <!-- Full name -->
         <div class="network-field">
           <label class="network-label" for="nf-name">
-            {{ if $isFr }}Nom complet{{ else if $isAr }}الاسم الكامل{{ else }}Full name{{ end }}
+            {{ if $isFr }}Nom complet{{ else if $isAr }}الاسم الكامل{{ else if $isEs }}Nombre completo{{ else }}Full name{{ end }}
             <span>*</span>
           </label>
           <input class="network-input" id="nf-name" name="name" type="text" required
-            placeholder="{{ if $isFr }}Prénom Nom{{ else if $isAr }}الاسم الأول واللقب{{ else }}First Last{{ end }}">
+            placeholder="{{ if $isFr }}Prénom Nom{{ else if $isAr }}الاسم الأول واللقب{{ else if $isEs }}Nombre Apellido{{ else }}First Last{{ end }}">
         </div>
 
         <!-- Email -->
         <div class="network-field">
           <label class="network-label" for="nf-email">
-            {{ if $isFr }}Courriel{{ else if $isAr }}البريد الإلكتروني{{ else }}Email{{ end }}
+            {{ if $isFr }}Courriel{{ else if $isAr }}البريد الإلكتروني{{ else if $isEs }}Correo electrónico{{ else }}Email{{ end }}
             <span>*</span>
           </label>
           <input class="network-input" id="nf-email" name="email" type="email" required
@@ -50,7 +53,7 @@
         <!-- Phone -->
         <div class="network-field">
           <label class="network-label" for="nf-phone">
-            {{ if $isFr }}Téléphone{{ else if $isAr }}الهاتف{{ else }}Phone{{ end }}
+            {{ if $isFr }}Téléphone{{ else if $isAr }}الهاتف{{ else if $isEs }}Teléfono{{ else }}Phone{{ end }}
             <span>*</span>
           </label>
           <input class="network-input" id="nf-phone" name="phone" type="tel" required
@@ -60,7 +63,7 @@
         <!-- Date of birth (optional) -->
         <div class="network-field">
           <label class="network-label" for="nf-dob">
-            {{ if $isFr }}Date de naissance (optionnel){{ else if $isAr }}تاريخ الميلاد (اختياري){{ else }}Date of birth (optional){{ end }}
+            {{ if $isFr }}Date de naissance (optionnel){{ else if $isAr }}تاريخ الميلاد (اختياري){{ else if $isEs }}Fecha de nacimiento (opcional){{ else }}Date of birth (optional){{ end }}
           </label>
           <input class="network-input" id="nf-dob" name="dob" type="date"
             placeholder="JJ / MM / AAAA">
@@ -69,7 +72,7 @@
         <!-- Already working with a broker? -->
         <div class="network-field">
           <label class="network-label" for="nf-broker">
-            {{ if $isFr }}Travaillez-vous déjà avec un courtier immobilier ?{{ else if $isAr }}هل تعمل بالفعل مع وسيط عقاري؟{{ else }}Are you already working with a real estate broker?{{ end }}
+            {{ if $isFr }}Travaillez-vous déjà avec un courtier immobilier ?{{ else if $isAr }}هل تعمل بالفعل مع وسيط عقاري؟{{ else if $isEs }}¿Ya trabaja con un corredor inmobiliario?{{ else }}Are you already working with a real estate broker?{{ end }}
           </label>
           <select class="network-select" id="nf-broker" name="broker">
             {{ if $isFr }}
@@ -84,6 +87,12 @@
               <option value="oui_pas_contrat">نعم، لكن بدون عقد حصري</option>
               <option value="oui_contrat">نعم، مع عقد حصري</option>
               <option value="incertain">لست متأكداً</option>
+            {{ else if $isEs }}
+              <option value="">-- Seleccionar --</option>
+              <option value="non">No</option>
+              <option value="oui_pas_contrat">Sí, pero sin contrato exclusivo</option>
+              <option value="oui_contrat">Sí, con contrato exclusivo</option>
+              <option value="incertain">No estoy seguro/a</option>
             {{ else }}
               <option value="">-- Select --</option>
               <option value="non">No</option>
@@ -97,7 +106,7 @@
         <!-- Need to sell a property? -->
         <div class="network-field">
           <label class="network-label" for="nf-sell">
-            {{ if $isFr }}Avez-vous besoin de vendre une propriété ?{{ else if $isAr }}هل تحتاج إلى بيع عقار؟{{ else }}Do you need to sell a property?{{ end }}
+            {{ if $isFr }}Avez-vous besoin de vendre une propriété ?{{ else if $isAr }}هل تحتاج إلى بيع عقار؟{{ else if $isEs }}¿Necesita vender una propiedad?{{ else }}Do you need to sell a property?{{ end }}
           </label>
           <select class="network-select" id="nf-sell" name="sell_property">
             {{ if $isFr }}
@@ -112,6 +121,12 @@
               <option value="oui_court_terme">نعم، خلال الـ 6 أشهر القادمة</option>
               <option value="oui_long_terme">نعم، خلال 6 إلى 18 شهراً</option>
               <option value="peut_etre">ربما، أنا أستكشف خياراتي</option>
+            {{ else if $isEs }}
+              <option value="">-- Seleccionar --</option>
+              <option value="non">No</option>
+              <option value="oui_court_terme">Sí, en los próximos 6 meses</option>
+              <option value="oui_long_terme">Sí, entre 6 y 18 meses</option>
+              <option value="peut_etre">Quizás, estoy explorando mis opciones</option>
             {{ else }}
               <option value="">-- Select --</option>
               <option value="non">No</option>
@@ -135,6 +150,8 @@
               En cochant cette case, vous acceptez de communiquer vos informations à Georges Matar, courtier immobilier agréé RE/MAX DU CARTIER. En soumettant, vous consentez également à recevoir des communications par courriel ou par téléphone concernant l'immobilier.
             {{ else if $isAr }}
               بتحديد هذه الخانة، توافق على مشاركة معلوماتك مع جورج مطر، الوسيط العقاري المعتمد RE/MAX DU CARTIER. بالتقديم، توافق أيضاً على تلقي اتصالات عبر البريد الإلكتروني أو الهاتف بخصوص العقارات.
+            {{ else if $isEs }}
+              Al marcar esta casilla, acepta compartir su información con Georges Matar, corredor inmobiliario certificado de RE/MAX DU CARTIER. Al enviar, también consiente recibir comunicaciones por correo electrónico o teléfono sobre bienes raíces.
             {{ else }}
               By checking this box, you agree to share your information with Georges Matar, licensed real estate broker at RE/MAX DU CARTIER. By submitting, you also consent to receiving communications by email or phone regarding real estate.
             {{ end }}
@@ -142,7 +159,7 @@
         </div>
 
         <button class="network-btn" type="submit">
-          {{ if $isFr }}Soumettre mes informations{{ else if $isAr }}تقديم معلوماتي{{ else }}Submit my information{{ end }}
+          {{ if $isFr }}Soumettre mes informations{{ else if $isAr }}تقديم معلوماتي{{ else if $isEs }}Enviar mi información{{ else }}Submit my information{{ end }}
         </button>
 
       </form>
@@ -151,13 +168,15 @@
       <div class="network-success" id="network-success">
         <div class="network-success__icon">&#10003;</div>
         <h3>
-          {{ if $isFr }}Merci ! Vous faites maintenant partie de mon réseau.{{ else if $isAr }}شكراً! أنت الآن جزء من شبكتي.{{ else }}Thank you! You're now part of my network.{{ end }}
+          {{ if $isFr }}Merci ! Vous faites maintenant partie de mon réseau.{{ else if $isAr }}شكراً! أنت الآن جزء من شبكتي.{{ else if $isEs }}¡Gracias! Ahora forma parte de mi red.{{ else }}Thank you! You're now part of my network.{{ end }}
         </h3>
         <p>
           {{ if $isFr }}
             Je vous contacterai sous peu. En attendant, n'hésitez pas à parcourir mes <a href="{{ $base }}/articles/" style="color:var(--red)">articles</a> ou mes <a href="{{ $base }}/listings/" style="color:var(--red)">propriétés en vente</a>.
           {{ else if $isAr }}
             سأتواصل معك قريباً. في غضون ذلك، لا تتردد في تصفح <a href="{{ $base }}/articles/" style="color:var(--red)">مقالاتي</a> أو <a href="{{ $base }}/listings/" style="color:var(--red)">العقارات المعروضة للبيع</a>.
+          {{ else if $isEs }}
+            Me pondré en contacto pronto. Mientras tanto, no dude en explorar mis <a href="{{ $base }}/articles/" style="color:var(--red)">artículos</a> o <a href="{{ $base }}/listings/" style="color:var(--red)">propiedades en venta</a>.
           {{ else }}
             I will be in touch shortly. In the meantime, feel free to browse my <a href="{{ $base }}/articles/" style="color:var(--red)">articles</a> or <a href="{{ $base }}/listings/" style="color:var(--red)">properties for sale</a>.
           {{ end }}

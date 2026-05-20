@@ -1,7 +1,8 @@
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
 {{ $base := "" }}
-{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ end }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
 <footer class="footer">
   <div class="container">
     <div class="footer__inner">
@@ -13,6 +14,8 @@
             Votre partenaire de confiance pour l'achat, la vente et l'investissement immobilier. Disponible dans 16 bureaux à Montréal, Laval, la Rive-Nord, la Rive-Sud et les Laurentides.
           {{ else if $isAr }}
             شريكك الموثوق للشراء والبيع والاستثمار العقاري. متواجد في 16 مكتباً في مونتريال، لافال، الضفة الشمالية، الضفة الجنوبية، ومنطقة لوروبيد.
+          {{ else if $isEs }}
+            Su socio de confianza para comprar, vender e invertir en bienes raíces. Disponible en 16 oficinas en Montréal, Laval, la Costa Norte, la Costa Sur y los Laurentides.
           {{ else }}
             Your trusted partner for buying, selling, and investing in real estate. Available across 16 offices in Montreal, Laval, the North Shore, the South Shore, and the Laurentians.
           {{ end }}
@@ -20,29 +23,29 @@
       </div>
 
       <div>
-        <h4 class="footer__heading">{{ if $isAr }}التنقل{{ else }}Navigation{{ end }}</h4>
+        <h4 class="footer__heading">{{ if $isAr }}التنقل{{ else if $isEs }}Navegación{{ else }}Navigation{{ end }}</h4>
         <ul class="footer__links">
-          <li><a href="{{ $base }}/" class="footer__link">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else }}Home{{ end }}</a></li>
-          <li><a href="{{ $base }}/listings/" class="footer__link">{{ if $isFr }}Propriétés{{ else if $isAr }}العقارات{{ else }}Properties{{ end }}</a></li>
+          <li><a href="{{ $base }}/" class="footer__link">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a></li>
+          <li><a href="{{ $base }}/listings/" class="footer__link">{{ if $isFr }}Propriétés{{ else if $isAr }}العقارات{{ else if $isEs }}Propiedades{{ else }}Properties{{ end }}</a></li>
           <li><a href="{{ $base }}/articles/" class="footer__link">{{ if $isAr }}المقالات{{ else }}Articles{{ end }}</a></li>
-          <li><a href="{{ $base }}/about/" class="footer__link">{{ if $isFr }}À propos{{ else if $isAr }}من أنا{{ else }}About{{ end }}</a></li>
-          <li><a href="{{ $base }}/#contact" class="footer__link">{{ if $isAr }}تواصل{{ else }}Contact{{ end }}</a></li>
+          <li><a href="{{ $base }}/about/" class="footer__link">{{ if $isFr }}À propos{{ else if $isAr }}من أنا{{ else if $isEs }}Sobre mí{{ else }}About{{ end }}</a></li>
+          <li><a href="{{ $base }}/#contact" class="footer__link">{{ if $isAr }}تواصل{{ else if $isEs }}Contacto{{ else }}Contact{{ end }}</a></li>
         </ul>
       </div>
 
       <div>
-        <h4 class="footer__heading">{{ if $isAr }}تواصل{{ else }}Contact{{ end }}</h4>
+        <h4 class="footer__heading">{{ if $isAr }}تواصل{{ else if $isEs }}Contacto{{ else }}Contact{{ end }}</h4>
         <ul class="footer__links">
           <li><a href="tel:+14383720102" class="footer__link">{{ .Site.Params.phone }}</a></li>
           <li><a href="mailto:{{ .Site.Params.email }}" class="footer__link">{{ .Site.Params.email }}</a></li>
-          <li><a href="{{ .Site.Params.remaxProfile }}" target="_blank" rel="noopener" class="footer__link">{{ if $isFr }}Profil RE/MAX{{ else if $isAr }}ملف RE/MAX{{ else }}RE/MAX Profile{{ end }}</a></li>
+          <li><a href="{{ .Site.Params.remaxProfile }}" target="_blank" rel="noopener" class="footer__link">{{ if $isFr }}Profil RE/MAX{{ else if $isAr }}ملف RE/MAX{{ else if $isEs }}Perfil RE/MAX{{ else }}RE/MAX Profile{{ end }}</a></li>
         </ul>
       </div>
     </div>
 
     <div class="footer__bottom">
       <span>&copy; {{ now.Year }} {{ .Site.Params.name }} &middot; <span class="footer__remax">{{ .Site.Params.brokerage }}</span></span>
-      <span>{{ if $isFr }}Courtier immobilier &middot; Montr&eacute;al &middot; Laval &middot; Rive-Nord &middot; Rive-Sud &middot; Laurentides{{ else if $isAr }}وسيط عقاري &middot; مونتريال &middot; لافال &middot; الضفة الشمالية &middot; الضفة الجنوبية &middot; لوروبيد{{ else }}Real estate broker &middot; Montr&eacute;al &middot; Laval &middot; North Shore &middot; South Shore &middot; Laurentians{{ end }}</span>
+      <span>{{ if $isFr }}Courtier immobilier &middot; Montr&eacute;al &middot; Laval &middot; Rive-Nord &middot; Rive-Sud &middot; Laurentides{{ else if $isAr }}وسيط عقاري &middot; مونتريال &middot; لافال &middot; الضفة الشمالية &middot; الضفة الجنوبية &middot; لوروبيد{{ else if $isEs }}Corredor inmobiliario &middot; Montr&eacute;al &middot; Laval &middot; Costa Norte &middot; Costa Sur &middot; Laurentides{{ else }}Real estate broker &middot; Montr&eacute;al &middot; Laval &middot; North Shore &middot; South Shore &middot; Laurentians{{ end }}</span>
     </div>
   </div>
 </footer>

@@ -1,15 +1,16 @@
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
 
 <div class="mc-card">
   <p class="mc-tool-desc">
-    {{ if $isFr }}Estimez l'ensemble des frais à prévoir lors de l'achat d'une propriété au Québec — droits de mutation, notaire, inspection et plus.{{ else if $isAr }}احسب جميع التكاليف المتوقعة عند شراء عقار في كيبيك — رسوم النقل، كاتب العدل، الفحص والمزيد.{{ else }}Estimate all costs to budget for when buying property in Quebec — welcome tax, notary, inspection and more.{{ end }}
+    {{ if $isFr }}Estimez l'ensemble des frais à prévoir lors de l'achat d'une propriété au Québec — droits de mutation, notaire, inspection et plus.{{ else if $isAr }}احسب جميع التكاليف المتوقعة عند شراء عقار في كيبيك — رسوم النقل، كاتب العدل، الفحص والمزيد.{{ else if $isEs }}Estime todos los costos al comprar una propiedad en Quebec - impuesto de bienvenida, notario, inspección y más.{{ else }}Estimate all costs to budget for when buying property in Quebec — welcome tax, notary, inspection and more.{{ end }}
   </p>
 
   <div class="mc-row mc-row--2">
     <div class="mc-field">
       <label class="mc-label" for="cc-price">
-        {{ if $isFr }}Prix de la propriété{{ else if $isAr }}سعر العقار{{ else }}Property price{{ end }}
+        {{ if $isFr }}Prix de la propriété{{ else if $isAr }}سعر العقار{{ else if $isEs }}Precio de la propiedad{{ else }}Property price{{ end }}
       </label>
       <div class="mc-input-wrap">
         <span class="mc-prefix">$</span>
@@ -18,7 +19,7 @@
     </div>
     <div class="mc-field">
       <label class="mc-label" for="cc-down">
-        {{ if $isFr }}Mise de fonds{{ else if $isAr }}الدفعة الأولى{{ else }}Down payment{{ end }}
+        {{ if $isFr }}Mise de fonds{{ else if $isAr }}الدفعة الأولى{{ else if $isEs }}Pago inicial{{ else }}Down payment{{ end }}
       </label>
       <div class="mc-input-wrap">
         <span class="mc-prefix">$</span>
@@ -30,7 +31,7 @@
   <div class="mc-row mc-row--2">
     <div class="mc-field">
       <label class="mc-label" for="cc-city">
-        {{ if $isFr }}Municipalité{{ else if $isAr }}البلدية{{ else }}Municipality{{ end }}
+        {{ if $isFr }}Municipalité{{ else if $isAr }}البلدية{{ else if $isEs }}Municipio{{ else }}Municipality{{ end }}
       </label>
       <div class="mc-select-wrap">
         <select class="mc-select" id="cc-city">
@@ -44,6 +45,11 @@
             <option value="montreal">مدينة مونتريال</option>
             <option value="quebec">مدينة كيبيك</option>
             <option value="gatineau">مدينة غاتينو</option>
+          {{ else if $isEs }}
+            <option value="other">Otro municipio de Quebec</option>
+            <option value="montreal">Ville de Montréal</option>
+            <option value="quebec">Ville de Québec</option>
+            <option value="gatineau">Ville de Gatineau</option>
           {{ else }}
             <option value="other">Other Quebec municipality</option>
             <option value="montreal">Ville de Montréal</option>
@@ -58,7 +64,7 @@
     </div>
     <div class="mc-field">
       <label class="mc-label" for="cc-proptype">
-        {{ if $isFr }}Type de propriété{{ else if $isAr }}نوع العقار{{ else }}Property type{{ end }}
+        {{ if $isFr }}Type de propriété{{ else if $isAr }}نوع العقار{{ else if $isEs }}Tipo de propiedad{{ else }}Property type{{ end }}
       </label>
       <div class="mc-select-wrap">
         <select class="mc-select" id="cc-proptype">
@@ -68,6 +74,9 @@
           {{ else if $isAr }}
             <option value="existing">عقار قائم</option>
             <option value="new">بناء جديد</option>
+          {{ else if $isEs }}
+            <option value="existing">Propiedad existente</option>
+            <option value="new">Nueva construcción</option>
           {{ else }}
             <option value="existing">Existing property</option>
             <option value="new">New construction</option>
@@ -82,7 +91,7 @@
 
   <div class="mc-actions">
     <button class="btn btn-primary mc-btn-calc" id="cc-calculate" type="button">
-      {{ if $isFr }}Calculer{{ else if $isAr }}احسب{{ else }}Calculate{{ end }}
+      {{ if $isFr }}Calculer{{ else if $isAr }}احسب{{ else if $isEs }}Calcular{{ else }}Calculate{{ end }}
     </button>
   </div>
 
@@ -92,14 +101,14 @@
     <div class="mc-headline-results">
       <div class="mc-headline-block mc-headline-block--payment" style="grid-column:1/-1">
         <span class="mc-headline-block__label">
-          {{ if $isFr }}Fourchette estimée des frais de clôture{{ else if $isAr }}النطاق المقدر لتكاليف الإغلاق{{ else }}Estimated Closing Costs Range{{ end }}
+          {{ if $isFr }}Fourchette estimée des frais de clôture{{ else if $isAr }}النطاق المقدر لتكاليف الإغلاق{{ else if $isEs }}Rango estimado de costos de cierre{{ else }}Estimated Closing Costs Range{{ end }}
         </span>
         <span class="mc-headline-block__value mc-headline-block__value--payment" id="cc-headline">—</span>
       </div>
     </div>
 
     <h3 class="mc-results__title">
-      {{ if $isFr }}Détail des frais{{ else if $isAr }}تفاصيل التكاليف{{ else }}Cost Breakdown{{ end }}
+      {{ if $isFr }}Détail des frais{{ else if $isAr }}تفاصيل التكاليف{{ else if $isEs }}Desglose de costos{{ else }}Cost Breakdown{{ end }}
     </h3>
 
     <div class="mc-table-wrap">
@@ -107,13 +116,13 @@
         <thead>
           <tr>
             <th class="mc-th mc-th--category">
-              {{ if $isFr }}Poste de dépense{{ else if $isAr }}البند{{ else }}Item{{ end }}
+              {{ if $isFr }}Poste de dépense{{ else if $isAr }}البند{{ else if $isEs }}Concepto{{ else }}Item{{ end }}
             </th>
             <th class="mc-th mc-th--col">
-              {{ if $isFr }}Min.{{ else if $isAr }}الحد الأدنى{{ else }}Low{{ end }}
+              {{ if $isFr }}Min.{{ else if $isAr }}الحد الأدنى{{ else if $isEs }}Mín.{{ else }}Low{{ end }}
             </th>
             <th class="mc-th mc-th--col">
-              {{ if $isFr }}Max.{{ else if $isAr }}الحد الأقصى{{ else }}High{{ end }}
+              {{ if $isFr }}Max.{{ else if $isAr }}الحد الأقصى{{ else if $isEs }}Máx.{{ else }}High{{ end }}
             </th>
           </tr>
         </thead>
@@ -128,6 +137,8 @@
         * تقديرات للإرشاد فقط. تختلف التكاليف الفعلية حسب الوضع. للمباني الجديدة، تنطبق GST (5%) وQST (9.975%) على سعر الشراء (قد تنطبق استردادات جزئية). استشر كاتب العدل للحصول على المبالغ الدقيقة.
       {{ else }}
         * Estimates for informational purposes. Actual costs vary by situation. For new construction, GST (5%) and QST (9.975%) apply on the purchase price (partial rebates may apply). Consult a notary for exact amounts.
+      {{ else if $isEs }}
+        * Estimaciones informativas. Los costos reales varían según la situación. Para nueva construcción, se aplican GST (5%) y QST (9.975%) sobre el precio de compra (pueden aplicarse reembolsos parciales). Consulte a un notario para los montos exactos.
       {{ end }}
     </p>
   </div>
@@ -177,14 +188,14 @@
     var welcomeTax = calcWelcomeTax(price, city);
 
     var lbl = {
-      wt:        { en: 'Welcome Tax (Droits de mutation)',          fr: 'Droits de mutation',            ar: 'رسوم نقل الملكية' },
-      notary:    { en: 'Notary fees',                               fr: 'Honoraires notariaux',           ar: 'أتعاب كاتب العدل' },
-      inspect:   { en: 'Home inspection',                           fr: 'Inspection préachat',            ar: 'فحص العقار' },
-      title:     { en: 'Title insurance',                           fr: 'Assurance titres',               ar: 'تأمين الملكية' },
-      cmhc:      { en: 'CMHC / Sagen / Canada Guaranty insurance', fr: 'Prime CMHC / Sagen / Canada Guaranty', ar: 'تأمين CMHC' },
-      moving:    { en: 'Moving costs',                              fr: 'Frais de déménagement',          ar: 'تكاليف الانتقال' },
-      adj:       { en: 'Adjustments (taxes, fees)',                 fr: 'Ajustements (taxes, charges)',   ar: 'التسويات (الضرائب، الرسوم)' },
-      tax:       { en: 'GST (5%) + QST (9.975%) — new build',      fr: 'TPS (5 %) + TVQ (9,975 %) — neuf', ar: 'GST + QST — بناء جديد' }
+      wt:        { en: 'Welcome Tax (Droits de mutation)',          fr: 'Droits de mutation',            ar: 'رسوم نقل الملكية',   es: 'Impuesto de bienvenida' },
+      notary:    { en: 'Notary fees',                               fr: 'Honoraires notariaux',           ar: 'أتعاب كاتب العدل',   es: 'Honorarios notariales' },
+      inspect:   { en: 'Home inspection',                           fr: 'Inspection préachat',            ar: 'فحص العقار',         es: 'Inspección de la propiedad' },
+      title:     { en: 'Title insurance',                           fr: 'Assurance titres',               ar: 'تأمين الملكية',       es: 'Seguro de título' },
+      cmhc:      { en: 'CMHC / Sagen / Canada Guaranty insurance', fr: 'Prime CMHC / Sagen / Canada Guaranty', ar: 'تأمين CMHC',   es: 'Seguro CMHC / Sagen / Canada Guaranty' },
+      moving:    { en: 'Moving costs',                              fr: 'Frais de déménagement',          ar: 'تكاليف الانتقال',    es: 'Gastos de mudanza' },
+      adj:       { en: 'Adjustments (taxes, fees)',                 fr: 'Ajustements (taxes, charges)',   ar: 'التسويات (الضرائب، الرسوم)', es: 'Ajustes (impuestos, cargos)' },
+      tax:       { en: 'GST (5%) + QST (9.975%) — new build',      fr: 'TPS (5 %) + TVQ (9,975 %) — neuf', ar: 'GST + QST — بناء جديد', es: 'GST (5%) + QST (9.975%) — nueva construcción' }
     };
     function l(key) { return lbl[key][lang] || lbl[key]['en']; }
 
@@ -218,7 +229,7 @@
       tbody.appendChild(tr);
     });
 
-    var tLbl = lang === 'fr' ? 'Total estimé' : lang === 'ar' ? 'الإجمالي المقدر' : 'Estimated Total';
+    var tLbl = lang === 'fr' ? 'Total estimé' : lang === 'ar' ? 'الإجمالي المقدر' : lang === 'es' ? 'Total estimado' : 'Estimated Total';
     var totalTr = document.createElement('tr');
     totalTr.className = 'mc-tr mc-tr--total';
     totalTr.innerHTML = '<td class="mc-td mc-td--label mc-td--total-label">' + tLbl + '</td>' +

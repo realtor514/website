@@ -1,23 +1,26 @@
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
 {{ $base  := "" }}
-{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ end }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
 
 <section class="section section--light mc-section" id="tools">
   <div class="container">
 
     <div class="section-header reveal">
       <span class="eyebrow">
-        {{ if $isFr }}Outils immobiliers{{ else if $isAr }}أدوات عقارية{{ else }}Real Estate Tools{{ end }}
+        {{ if $isFr }}Outils immobiliers{{ else if $isAr }}أدوات عقارية{{ else if $isEs }}Herramientas inmobiliarias{{ else }}Real Estate Tools{{ end }}
       </span>
       <h2>
-        {{ if $isFr }}5 calculateurs professionnels{{ else if $isAr }}5 حاسبات احترافية{{ else }}5 Professional Calculators{{ end }}
+        {{ if $isFr }}5 calculateurs professionnels{{ else if $isAr }}5 حاسبات احترافية{{ else if $isEs }}5 Calculadoras profesionales{{ else }}5 Professional Calculators{{ end }}
       </h2>
       <p class="subtitle">
         {{ if $isFr }}
           Hypothèque, droits de mutation, frais de clôture, capacité d'emprunt et loc. vs achat — tout au même endroit.
         {{ else if $isAr }}
           الرهن العقاري، رسوم النقل، تكاليف الإغلاق، القدرة الشرائية، واستئجار مقابل شراء — كل ذلك في مكان واحد.
+        {{ else if $isEs }}
+          Pagos hipotecarios, impuesto de bienvenida, costos de cierre, capacidad de compra y alquilar vs. comprar - todo en un solo lugar.
         {{ else }}
           Mortgage payments, welcome tax, closing costs, affordability, and rent vs. buy — all in one place.
         {{ end }}
@@ -27,19 +30,19 @@
     <!-- Tab navigation -->
     <div class="tools-tabs reveal" role="tablist">
       <button class="tools-tab tools-tab--active" role="tab" data-panel="tool-mortgage" aria-selected="true">
-        {{ if $isFr }}Hypothèque{{ else if $isAr }}الرهن العقاري{{ else }}Mortgage{{ end }}
+        {{ if $isFr }}Hypothèque{{ else if $isAr }}الرهن العقاري{{ else if $isEs }}Hipoteca{{ else }}Mortgage{{ end }}
       </button>
       <button class="tools-tab" role="tab" data-panel="tool-welcome-tax" aria-selected="false">
-        {{ if $isFr }}Droits de mutation{{ else if $isAr }}رسوم النقل{{ else }}Welcome Tax{{ end }}
+        {{ if $isFr }}Droits de mutation{{ else if $isAr }}رسوم النقل{{ else if $isEs }}Impuesto de bienvenida{{ else }}Welcome Tax{{ end }}
       </button>
       <button class="tools-tab" role="tab" data-panel="tool-closing-costs" aria-selected="false">
-        {{ if $isFr }}Frais de clôture{{ else if $isAr }}تكاليف الإغلاق{{ else }}Closing Costs{{ end }}
+        {{ if $isFr }}Frais de clôture{{ else if $isAr }}تكاليف الإغلاق{{ else if $isEs }}Costos de cierre{{ else }}Closing Costs{{ end }}
       </button>
       <button class="tools-tab" role="tab" data-panel="tool-affordability" aria-selected="false">
-        {{ if $isFr }}Capacité d'emprunt{{ else if $isAr }}القدرة الشرائية{{ else }}Affordability{{ end }}
+        {{ if $isFr }}Capacité d'emprunt{{ else if $isAr }}القدرة الشرائية{{ else if $isEs }}Capacidad de compra{{ else }}Affordability{{ end }}
       </button>
       <button class="tools-tab" role="tab" data-panel="tool-rent-vs-buy" aria-selected="false">
-        {{ if $isFr }}Loc. vs Achat{{ else if $isAr }}استئجار أم شراء{{ else }}Rent vs. Buy{{ end }}
+        {{ if $isFr }}Loc. vs Achat{{ else if $isAr }}استئجار أم شراء{{ else if $isEs }}Alquilar vs. Comprar{{ else }}Rent vs. Buy{{ end }}
       </button>
     </div>
 
@@ -66,6 +69,8 @@
         Prêt à passer à l'étape suivante ? <a href="/fr/#contact" style="color:var(--red);font-weight:600">Contactez-moi</a> pour discuter de votre projet immobilier.
       {{ else if $isAr }}
         هل أنت مستعد للخطوة التالية؟ <a href="/ar/#contact" style="color:var(--red);font-weight:600">تواصل معي</a> لمناقشة مشروعك العقاري.
+      {{ else if $isEs }}
+        ¿Listo para dar el siguiente paso? <a href="/es/#contact" style="color:var(--red);font-weight:600">Contácteme</a> para hablar sobre su proyecto inmobiliario.
       {{ else }}
         Ready to take the next step? <a href="/#contact" style="color:var(--red);font-weight:600">Contact me</a> to discuss your real estate project.
       {{ end }}

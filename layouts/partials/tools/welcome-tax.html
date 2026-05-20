@@ -1,15 +1,16 @@
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
 
 <div class="mc-card">
   <p class="mc-tool-desc">
-    {{ if $isFr }}Estimez les droits de mutation immobilière (taxe de bienvenue) à payer lors de l'achat d'une propriété au Québec — taux 2025 officiels selon la municipalité.{{ else if $isAr }}احسب رسوم نقل ملكية العقار (ضريبة الترحيب) عند شراء عقار في كيبيك — المعدلات الرسمية 2025 حسب البلدية.{{ else }}Estimate the welcome tax (droits de mutation) payable when purchasing property in Quebec — official 2025 rates by municipality.{{ end }}
+    {{ if $isFr }}Estimez les droits de mutation immobilière (taxe de bienvenue) à payer lors de l'achat d'une propriété au Québec — taux 2025 officiels selon la municipalité.{{ else if $isAr }}احسب رسوم نقل ملكية العقار (ضريبة الترحيب) عند شراء عقار في كيبيك — المعدلات الرسمية 2025 حسب البلدية.{{ else if $isEs }}Estime el impuesto de bienvenida (droits de mutation) a pagar al comprar una propiedad en Quebec - tarifas oficiales 2025 por municipio.{{ else }}Estimate the welcome tax (droits de mutation) payable when purchasing property in Quebec — official 2025 rates by municipality.{{ end }}
   </p>
 
   <div class="mc-row mc-row--2">
     <div class="mc-field">
       <label class="mc-label" for="wt-price">
-        {{ if $isFr }}Prix de la propriété{{ else if $isAr }}سعر العقار{{ else }}Property price{{ end }}
+        {{ if $isFr }}Prix de la propriété{{ else if $isAr }}سعر العقار{{ else if $isEs }}Precio de la propiedad{{ else }}Property price{{ end }}
       </label>
       <div class="mc-input-wrap">
         <span class="mc-prefix">$</span>
@@ -19,7 +20,7 @@
 
     <div class="mc-field">
       <label class="mc-label" for="wt-city">
-        {{ if $isFr }}Municipalité{{ else if $isAr }}البلدية{{ else }}Municipality{{ end }}
+        {{ if $isFr }}Municipalité{{ else if $isAr }}البلدية{{ else if $isEs }}Municipio{{ else }}Municipality{{ end }}
       </label>
       <div class="mc-select-wrap">
         <select class="mc-select" id="wt-city">
@@ -33,6 +34,11 @@
             <option value="montreal">مدينة مونتريال</option>
             <option value="quebec">مدينة كيبيك</option>
             <option value="gatineau">مدينة غاتينو</option>
+          {{ else if $isEs }}
+            <option value="other">Otro municipio de Quebec</option>
+            <option value="montreal">Ville de Montréal</option>
+            <option value="quebec">Ville de Québec</option>
+            <option value="gatineau">Ville de Gatineau</option>
           {{ else }}
             <option value="other">Other Quebec municipality</option>
             <option value="montreal">Ville de Montréal</option>
@@ -49,47 +55,47 @@
 
   <div class="mc-actions">
     <button class="btn btn-primary mc-btn-calc" id="wt-calculate" type="button">
-      {{ if $isFr }}Calculer{{ else if $isAr }}احسب{{ else }}Calculate{{ end }}
+      {{ if $isFr }}Calculer{{ else if $isAr }}احسب{{ else if $isEs }}Calcular{{ else }}Calculate{{ end }}
     </button>
   </div>
 
   <!-- Rates reference (collapsible) -->
   <details class="wt-rates-box">
     <summary class="wt-rates-box__toggle">
-      {{ if $isFr }}Voir les taux de droits de mutation 2025{{ else if $isAr }}عرض معدلات رسوم النقل 2025{{ else }}View 2025 welcome tax rates{{ end }}
+      {{ if $isFr }}Voir les taux de droits de mutation 2025{{ else if $isAr }}عرض معدلات رسوم النقل 2025{{ else if $isEs }}Ver tarifas de impuesto de bienvenida 2025{{ else }}View 2025 welcome tax rates{{ end }}
     </summary>
     <div class="wt-rates-box__body">
 
       <!-- Other QC -->
       <p class="wt-rates-box__city-title">
-        {{ if $isFr }}Autres municipalités du Québec{{ else if $isAr }}بلديات كيبيك الأخرى{{ else }}Other Quebec municipalities{{ end }}
+        {{ if $isFr }}Autres municipalités du Québec{{ else if $isAr }}بلديات كيبيك الأخرى{{ else if $isEs }}Otros municipios de Quebec{{ else }}Other Quebec municipalities{{ end }}
       </p>
       <table class="wt-rates-table">
-        <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
-        <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
-        <tr><td>{{ if $isFr }}Plus de 307 800 ${{ else if $isAr }}أكثر من 307,800${{ else }}Over $307,800{{ end }}</td><td>1,5 %</td></tr>
+        <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else if $isEs }}Hasta $61,500{{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else if $isEs }}$61,501 a $307,800{{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
+        <tr><td>{{ if $isFr }}Plus de 307 800 ${{ else if $isAr }}أكثر من 307,800${{ else if $isEs }}Más de $307,800{{ else }}Over $307,800{{ end }}</td><td>1,5 %</td></tr>
       </table>
       <p class="wt-rates-box__note">
-        {{ if $isFr }}* Une municipalité peut fixer un taux supérieur (max 3 %) sur la tranche excédant 500 000 $. Vérifiez auprès de la municipalité concernée.{{ else if $isAr }}* يمكن للبلدية تحديد معدل أعلى (حد أقصى 3%) على الجزء الذي يتجاوز 500,000$. تحقق من بلديتك.{{ else }}* A municipality may set a higher rate (max 3%) on the portion exceeding $500,000. Check with your municipality.{{ end }}
+        {{ if $isFr }}* Une municipalité peut fixer un taux supérieur (max 3 %) sur la tranche excédant 500 000 $. Vérifiez auprès de la municipalité concernée.{{ else if $isAr }}* يمكن للبلدية تحديد معدل أعلى (حد أقصى 3%) على الجزء الذي يتجاوز 500,000$. تحقق من بلديتك.{{ else if $isEs }}* Un municipio puede establecer una tarifa más alta (máximo 3%) sobre la porción que excede $500,000. Verifique con su municipio.{{ else }}* A municipality may set a higher rate (max 3%) on the portion exceeding $500,000. Check with your municipality.{{ end }}
       </p>
 
       <!-- Montréal -->
-      <p class="wt-rates-box__city-title">{{ if $isFr }}Ville de Montréal{{ else if $isAr }}مدينة مونتريال{{ else }}Ville de Montréal{{ end }}</p>
+      <p class="wt-rates-box__city-title">{{ if $isFr }}Ville de Montréal{{ else if $isAr }}مدينة مونتريال{{ else if $isEs }}Ville de Montréal{{ else }}Ville de Montréal{{ end }}</p>
       <table class="wt-rates-table">
-        <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
-        <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
-        <tr><td>{{ if $isFr }}De 307 801 $ à 552 300 ${{ else if $isAr }}من 307,801$ إلى 552,300${{ else }}$307,801 to $552,300{{ end }}</td><td>1,5 %</td></tr>
-        <tr><td>{{ if $isFr }}De 552 301 $ à 1 104 700 ${{ else if $isAr }}من 552,301$ إلى 1,104,700${{ else }}$552,301 to $1,104,700{{ end }}</td><td>2,0 %</td></tr>
-        <tr><td>{{ if $isFr }}De 1 104 701 $ à 2 136 500 ${{ else if $isAr }}من 1,104,701$ إلى 2,136,500${{ else }}$1,104,701 to $2,136,500{{ end }}</td><td>2,5 %</td></tr>
-        <tr><td>{{ if $isFr }}De 2 136 501 $ à 3 113 000 ${{ else if $isAr }}من 2,136,501$ إلى 3,113,000${{ else }}$2,136,501 to $3,113,000{{ end }}</td><td>3,5 %</td></tr>
-        <tr><td>{{ if $isFr }}Plus de 3 113 000 ${{ else if $isAr }}أكثر من 3,113,000${{ else }}Over $3,113,000{{ end }}</td><td>4,0 %</td></tr>
+        <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else if $isEs }}Hasta $61,500{{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else if $isEs }}$61,501 a $307,800{{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
+        <tr><td>{{ if $isFr }}De 307 801 $ à 552 300 ${{ else if $isAr }}من 307,801$ إلى 552,300${{ else if $isEs }}$307,801 a $552,300{{ else }}$307,801 to $552,300{{ end }}</td><td>1,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 552 301 $ à 1 104 700 ${{ else if $isAr }}من 552,301$ إلى 1,104,700${{ else if $isEs }}$552,301 a $1,104,700{{ else }}$552,301 to $1,104,700{{ end }}</td><td>2,0 %</td></tr>
+        <tr><td>{{ if $isFr }}De 1 104 701 $ à 2 136 500 ${{ else if $isAr }}من 1,104,701$ إلى 2,136,500${{ else if $isEs }}$1,104,701 a $2,136,500{{ else }}$1,104,701 to $2,136,500{{ end }}</td><td>2,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 2 136 501 $ à 3 113 000 ${{ else if $isAr }}من 2,136,501$ إلى 3,113,000${{ else if $isEs }}$2,136,501 a $3,113,000{{ else }}$2,136,501 to $3,113,000{{ end }}</td><td>3,5 %</td></tr>
+        <tr><td>{{ if $isFr }}Plus de 3 113 000 ${{ else if $isAr }}أكثر من 3,113,000${{ else if $isEs }}Más de $3,113,000{{ else }}Over $3,113,000{{ end }}</td><td>4,0 %</td></tr>
       </table>
 
       <!-- Québec -->
       <p class="wt-rates-box__city-title">{{ if $isFr }}Ville de Québec{{ else if $isAr }}مدينة كيبيك{{ else }}Ville de Québec{{ end }}</p>
       <table class="wt-rates-table">
-        <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
-        <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
+        <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else if $isEs }}Hasta $61,500{{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else if $isEs }}$61,501 a $307,800{{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
         <tr><td>{{ if $isFr }}De 307 801 $ à 500 000 ${{ else if $isAr }}من 307,801$ إلى 500,000${{ else }}$307,801 to $500,000{{ end }}</td><td>1,5 %</td></tr>
         <tr><td>{{ if $isFr }}De 500 001 $ à 1 000 000 ${{ else if $isAr }}من 500,001$ إلى 1,000,000${{ else }}$500,001 to $1,000,000{{ end }}</td><td>2,0 %</td></tr>
         <tr><td>{{ if $isFr }}De 1 000 001 $ à 2 000 000 ${{ else if $isAr }}من 1,000,001$ إلى 2,000,000${{ else }}$1,000,001 to $2,000,000{{ end }}</td><td>2,5 %</td></tr>
@@ -99,8 +105,8 @@
       <!-- Gatineau -->
       <p class="wt-rates-box__city-title">{{ if $isFr }}Ville de Gatineau{{ else if $isAr }}مدينة غاتينو{{ else }}Ville de Gatineau{{ end }}</p>
       <table class="wt-rates-table">
-        <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
-        <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
+        <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else if $isEs }}Hasta $61,500{{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else if $isEs }}$61,501 a $307,800{{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
         <tr><td>{{ if $isFr }}De 307 801 $ à 750 000 ${{ else if $isAr }}من 307,801$ إلى 750,000${{ else }}$307,801 to $750,000{{ end }}</td><td>1,5 %</td></tr>
         <tr><td>{{ if $isFr }}De 750 001 $ à 1 000 000 ${{ else if $isAr }}من 750,001$ إلى 1,000,000${{ else }}$750,001 to $1,000,000{{ end }}</td><td>2,5 %</td></tr>
         <tr><td>{{ if $isFr }}Plus de 1 000 000 ${{ else if $isAr }}أكثر من 1,000,000${{ else }}Over $1,000,000{{ end }}</td><td>3,0 %</td></tr>

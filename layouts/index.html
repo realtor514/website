@@ -1,8 +1,9 @@
 {{ define "main" }}
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
 {{ $base  := "" }}
-{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ end }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
 
 {{ partial "hero.html" . }}
 
@@ -14,19 +15,19 @@
     <div class="stats-bar__grid">
       <div class="stat-item">
         <span class="stat-item__number" style="font-size:1.5rem">Ingénieur (PhD)</span>
-        <span class="stat-item__label">{{ if $isFr }}Formation académique{{ else if $isAr }}خلفية أكاديمية{{ else }}Academic background{{ end }}</span>
+        <span class="stat-item__label">{{ if $isFr }}Formation académique{{ else if $isAr }}خلفية أكاديمية{{ else if $isEs }}Formación académica{{ else }}Academic background{{ end }}</span>
       </div>
       <div class="stat-item">
         <span class="stat-item__number">3</span>
-        <span class="stat-item__label">{{ if $isFr }}Langues parlées{{ else if $isAr }}لغات{{ else }}Languages spoken{{ end }}</span>
+        <span class="stat-item__label">{{ if $isFr }}Langues parlées{{ else if $isAr }}لغات{{ else if $isEs }}Idiomas hablados{{ else }}Languages spoken{{ end }}</span>
       </div>
       <div class="stat-item">
         <span class="stat-item__number">RE/MAX</span>
-        <span class="stat-item__label">{{ if $isFr }}Réseau #1 mondial{{ else if $isAr }}الشبكة الأولى عالمياً{{ else }}World's #1 network{{ end }}</span>
+        <span class="stat-item__label">{{ if $isFr }}Réseau #1 mondial{{ else if $isAr }}الشبكة الأولى عالمياً{{ else if $isEs }}Red #1 mundial{{ else }}World's #1 network{{ end }}</span>
       </div>
       <div class="stat-item">
         <span class="stat-item__number" style="font-size:1.4rem">Laval, Montréal,<br>Rive-Nord</span>
-        <span class="stat-item__label">{{ if $isFr }}Spécialiste local{{ else if $isAr }}متخصص محلي{{ else }}Local specialist{{ end }}</span>
+        <span class="stat-item__label">{{ if $isFr }}Spécialiste local{{ else if $isAr }}متخصص محلي{{ else if $isEs }}Especialista local{{ else }}Local specialist{{ end }}</span>
       </div>
     </div>
   </div>
@@ -69,6 +70,13 @@
           <div class="highlight-item">عقارات استثمارية</div>
           <div class="highlight-item">خدمة ثلاثية اللغات (ع/ف/إ)</div>
           <div class="highlight-item">تحليل السوق بدقة</div>
+          {{ else if $isEs }}
+          <div class="highlight-item">Especialista Montréal y Laval</div>
+          <div class="highlight-item">Residencial</div>
+          <div class="highlight-item">Compradores primerizos</div>
+          <div class="highlight-item">Propiedades de inversión</div>
+          <div class="highlight-item">Trilingüe (FR/EN/AR)</div>
+          <div class="highlight-item">Análisis basado en datos</div>
           {{ else }}
           <div class="highlight-item">Montréal &amp; Laval Specialist</div>
           <div class="highlight-item">Residential</div>
@@ -79,8 +87,8 @@
           {{ end }}
         </div>
         <div style="display:flex;gap:14px;flex-wrap:wrap">
-          <a href="{{ $base }}/about/" class="btn btn-outline-dark">{{ if $isFr }}En savoir plus{{ else if $isAr }}اعرف أكثر{{ else }}Learn More{{ end }}</a>
-          <a href="{{ $base }}/#contact" class="btn btn-glass-red">{{ if $isFr }}Me contacter{{ else if $isAr }}تواصل معي{{ else }}Contact Me{{ end }}</a>
+          <a href="{{ $base }}/about/" class="btn btn-outline-dark">{{ if $isFr }}En savoir plus{{ else if $isAr }}اعرف أكثر{{ else if $isEs }}Saber más{{ else }}Learn More{{ end }}</a>
+          <a href="{{ $base }}/#contact" class="btn btn-glass-red">{{ if $isFr }}Me contacter{{ else if $isAr }}تواصل معي{{ else if $isEs }}Contácteme{{ else }}Contact Me{{ end }}</a>
         </div>
       </div>
     </div>
@@ -94,16 +102,18 @@
   <div class="container">
     <div class="section-header reveal">
       <span class="eyebrow">
-        {{ if $isFr }}16 Places d'affaires{{ else if $isAr }}16 مكاناً للأعمال{{ else }}16 Offices{{ end }}
+        {{ if $isFr }}16 Places d'affaires{{ else if $isAr }}16 مكاناً للأعمال{{ else if $isEs }}16 Oficinas{{ else }}16 Offices{{ end }}
       </span>
       <h2>
-        {{ if $isFr }}Je peux vous recevoir partout{{ else if $isAr }}أستطيع استقبالك في أي مكان{{ else }}I Can Welcome You Anywhere{{ end }}
+        {{ if $isFr }}Je peux vous recevoir partout{{ else if $isAr }}أستطيع استقبالك في أي مكان{{ else if $isEs }}Puedo recibirle en cualquier lugar{{ else }}I Can Welcome You Anywhere{{ end }}
       </h2>
       <p class="subtitle">
         {{ if $isFr }}
           En tant que courtier RE/MAX DU CARTIER, je peux vous recevoir dans l'un de nos 16 bureaux répartis à Montréal, Laval, la Rive-Nord, la Rive-Sud et les Laurentides.
         {{ else if $isAr }}
           بوصفي وسيطاً في RE/MAX DU CARTIER، يمكنني استقبالك في أي من مكاتبنا الـ16 المنتشرة في مونتريال، لافال، الضفة الشمالية، الضفة الجنوبية، ومنطقة لوروبيد.
+        {{ else if $isEs }}
+          Como corredor de RE/MAX DU CARTIER, puedo recibirle en cualquiera de nuestras 16 oficinas en Montréal, Laval, la Costa Norte, la Costa Sur y los Laurentides.
         {{ else }}
           As a RE/MAX DU CARTIER broker, I can welcome you in any of our 16 offices across Montreal, Laval, the North Shore, the South Shore, and the Laurentians.
         {{ end }}
@@ -117,6 +127,8 @@
         {{ $zones = slice "Montréal" "Laval" "Rive-Nord" "Rive-Sud" "Laurentides" }}
       {{ else if $isAr }}
         {{ $zones = slice "مونتريال" "لافال" "الضفة الشمالية" "الضفة الجنوبية" "لوروبيد" }}
+      {{ else if $isEs }}
+        {{ $zones = slice "Montréal" "Laval" "Costa Norte" "Costa Sur" "Laurentides" }}
       {{ else }}
         {{ $zones = slice "Montréal" "Laval" "North Shore" "South Shore" "Laurentians" }}
       {{ end }}
@@ -135,7 +147,7 @@
           </div>
           <div>
             <div style="color:#fff;font-weight:700;font-size:1rem;">RE/MAX du Cartier</div>
-            <div style="color:rgba(255,255,255,.4);font-size:.78rem;">{{ if $isFr }}Montréal &amp; Laval{{ else if $isAr }}مونتريال ولافال{{ else }}Montréal &amp; Laval{{ end }}</div>
+            <div style="color:rgba(255,255,255,.4);font-size:.78rem;">{{ if $isFr }}Montréal &amp; Laval{{ else if $isAr }}مونتريال ولافال{{ else if $isEs }}Montréal y Laval{{ else }}Montréal &amp; Laval{{ end }}</div>
           </div>
         </div>
         <div style="display:flex;flex-direction:column;gap:0;">
@@ -169,7 +181,7 @@
           </div>
           <div>
             <div style="color:#fff;font-weight:700;font-size:1rem;">RE/MAX du Cartier Bonjour</div>
-            <div style="color:rgba(255,255,255,.4);font-size:.78rem;">{{ if $isFr }}Laurentides{{ else if $isAr }}منطقة لوروبيد{{ else }}Laurentians{{ end }}</div>
+            <div style="color:rgba(255,255,255,.4);font-size:.78rem;">{{ if $isFr }}Laurentides{{ else if $isAr }}منطقة لوروبيد{{ else if $isEs }}Laurentides{{ else }}Laurentians{{ end }}</div>
           </div>
         </div>
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:0;">
@@ -193,6 +205,8 @@
         Dites-moi quel bureau vous convient le mieux, ou restez simplement chez vous : je me déplace avec plaisir.
       {{ else if $isAr }}
         أخبرني أي مكتب يناسبك، أو ابقَ في منزلك: يسعدني أن أأتي إليك.
+      {{ else if $isEs }}
+        Dígame qué oficina le conviene mejor, o quédese en casa: con gusto iré a visitarle.
       {{ else }}
         Tell me which office suits you best, or simply stay home: I will gladly come to you.
       {{ end }}
@@ -205,13 +219,15 @@
 <section class="section" id="listings">
   <div class="container">
     <div class="section-header reveal">
-      <span class="eyebrow">{{ if $isFr }}Inscriptions actuelles{{ else if $isAr }}العقارات الحالية{{ else }}Current Listings{{ end }}</span>
-      <h2>{{ if $isFr }}Propriétés vedettes{{ else if $isAr }}عقارات مميزة{{ else }}Featured Properties{{ end }}</h2>
+      <span class="eyebrow">{{ if $isFr }}Inscriptions actuelles{{ else if $isAr }}العقارات الحالية{{ else if $isEs }}Propiedades actuales{{ else }}Current Listings{{ end }}</span>
+      <h2>{{ if $isFr }}Propriétés vedettes{{ else if $isAr }}عقارات مميزة{{ else if $isEs }}Propiedades destacadas{{ else }}Featured Properties{{ end }}</h2>
       <p class="subtitle">
         {{ if $isFr }}
           Propriétés sélectionnées dans les quartiers les plus recherchés de Montréal et Laval.
         {{ else if $isAr }}
           عقارات مختارة في أكثر أحياء مونتريال ولافال طلباً.
+        {{ else if $isEs }}
+          Propiedades seleccionadas en los vecindarios más buscados del Gran Montréal y Laval.
         {{ else }}
           Handpicked properties in the most sought-after neighbourhoods of Greater Montreal and Laval.
         {{ end }}
@@ -232,6 +248,8 @@
         Propriétés à venir. <a href="{{ $base }}/#contact" style="color:#FF1200;font-weight:600">Contactez-moi</a> pour les disponibilités.
       {{ else if $isAr }}
         عقارات قادمة قريباً. <a href="{{ $base }}/#contact" style="color:#FF1200;font-weight:600">تواصل معي</a> للاطلاع على المتوفر.
+      {{ else if $isEs }}
+        Propiedades próximamente. <a href="{{ $base }}/#contact" style="color:#FF1200;font-weight:600">Contácteme</a> para disponibilidades.
       {{ else }}
         Properties coming soon. <a href="/#contact" style="color:#FF1200;font-weight:600">Contact me</a> for available listings.
       {{ end }}
@@ -239,7 +257,7 @@
     {{ end }}
 
     <div class="text-center mt-48 reveal">
-      <a href="{{ $base }}/listings/" class="btn btn-outline-dark">{{ if $isFr }}Voir toutes les propriétés{{ else if $isAr }}عرض جميع العقارات{{ else }}View All Properties{{ end }}</a>
+      <a href="{{ $base }}/listings/" class="btn btn-outline-dark">{{ if $isFr }}Voir toutes les propriétés{{ else if $isAr }}عرض جميع العقارات{{ else if $isEs }}Ver todas las propiedades{{ else }}View All Properties{{ end }}</a>
     </div>
   </div>
 </section>
@@ -248,13 +266,15 @@
 <section class="section section--light" id="articles">
   <div class="container">
     <div class="section-header reveal">
-      <span class="eyebrow">{{ if $isFr }}Expertise &amp; conseils{{ else if $isAr }}خبرة ونصائح{{ else }}Expertise &amp; Insights{{ end }}</span>
-      <h2>{{ if $isFr }}Conseils immobiliers{{ else if $isAr }}نصائح عقارية{{ else }}Real Estate Insights{{ end }}</h2>
+      <span class="eyebrow">{{ if $isFr }}Expertise &amp; conseils{{ else if $isAr }}خبرة ونصائح{{ else if $isEs }}Experiencia y consejos{{ else }}Expertise &amp; Insights{{ end }}</span>
+      <h2>{{ if $isFr }}Conseils immobiliers{{ else if $isAr }}نصائح عقارية{{ else if $isEs }}Perspectivas inmobiliarias{{ else }}Real Estate Insights{{ end }}</h2>
       <p class="subtitle">
         {{ if $isFr }}
           Actualités du marché, conseils d'achat et analyses d'experts pour Montréal et Laval.
         {{ else if $isAr }}
           تحديثات السوق، نصائح الشراء، وتحليلات الخبراء لسوقي مونتريال ولافال.
+        {{ else if $isEs }}
+          Actualizaciones del mercado, consejos de compra y análisis experto para los mercados de Montréal y Laval.
         {{ else }}
           Market updates, buying tips, and expert analysis for the Montreal &amp; Laval market.
         {{ end }}
@@ -271,7 +291,7 @@
     {{ end }}
 
     <div class="text-center mt-48 reveal">
-      <a href="{{ $base }}/articles/" class="btn btn-outline-dark">{{ if $isFr }}Tous les articles{{ else if $isAr }}جميع المقالات{{ else }}Read All Articles{{ end }}</a>
+      <a href="{{ $base }}/articles/" class="btn btn-outline-dark">{{ if $isFr }}Tous les articles{{ else if $isAr }}جميع المقالات{{ else if $isEs }}Leer todos los artículos{{ else }}Read All Articles{{ end }}</a>
     </div>
   </div>
 </section>
