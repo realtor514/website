@@ -3,7 +3,7 @@
 
 <div class="mc-card">
   <p class="mc-tool-desc">
-    {{ if $isFr }}Estimez les droits de mutation immobilière (taxe de bienvenue) à payer lors de l'achat d'une propriété au Québec.{{ else if $isAr }}احسب رسوم نقل ملكية العقار (ضريبة الترحيب) عند شراء عقار في كيبيك.{{ else }}Estimate the welcome tax (droits de mutation) payable when purchasing property in Quebec.{{ end }}
+    {{ if $isFr }}Estimez les droits de mutation immobilière (taxe de bienvenue) à payer lors de l'achat d'une propriété au Québec — taux 2025 officiels selon la municipalité.{{ else if $isAr }}احسب رسوم نقل ملكية العقار (ضريبة الترحيب) عند شراء عقار في كيبيك — المعدلات الرسمية 2025 حسب البلدية.{{ else }}Estimate the welcome tax (droits de mutation) payable when purchasing property in Quebec — official 2025 rates by municipality.{{ end }}
   </p>
 
   <div class="mc-row mc-row--2">
@@ -24,14 +24,20 @@
       <div class="mc-select-wrap">
         <select class="mc-select" id="wt-city">
           {{ if $isFr }}
-            <option value="other">Autre (Québec)</option>
+            <option value="other">Autre municipalité du Québec</option>
             <option value="montreal">Ville de Montréal</option>
+            <option value="quebec">Ville de Québec</option>
+            <option value="gatineau">Ville de Gatineau</option>
           {{ else if $isAr }}
-            <option value="other">أخرى (كيبيك)</option>
+            <option value="other">بلديات كيبيك الأخرى</option>
             <option value="montreal">مدينة مونتريال</option>
+            <option value="quebec">مدينة كيبيك</option>
+            <option value="gatineau">مدينة غاتينو</option>
           {{ else }}
-            <option value="other">Other (Quebec)</option>
-            <option value="montreal">City of Montreal</option>
+            <option value="other">Other Quebec municipality</option>
+            <option value="montreal">Ville de Montréal</option>
+            <option value="quebec">Ville de Québec</option>
+            <option value="gatineau">Ville de Gatineau</option>
           {{ end }}
         </select>
         <span class="mc-select-arrow">
@@ -47,6 +53,62 @@
     </button>
   </div>
 
+  <!-- Rates reference (collapsible) -->
+  <details class="wt-rates-box">
+    <summary class="wt-rates-box__toggle">
+      {{ if $isFr }}Voir les taux de droits de mutation 2025{{ else if $isAr }}عرض معدلات رسوم النقل 2025{{ else }}View 2025 welcome tax rates{{ end }}
+    </summary>
+    <div class="wt-rates-box__body">
+
+      <!-- Other QC -->
+      <p class="wt-rates-box__city-title">
+        {{ if $isFr }}Autres municipalités du Québec{{ else if $isAr }}بلديات كيبيك الأخرى{{ else }}Other Quebec municipalities{{ end }}
+      </p>
+      <table class="wt-rates-table">
+        <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
+        <tr><td>{{ if $isFr }}Plus de 307 800 ${{ else if $isAr }}أكثر من 307,800${{ else }}Over $307,800{{ end }}</td><td>1,5 %</td></tr>
+      </table>
+      <p class="wt-rates-box__note">
+        {{ if $isFr }}* Une municipalité peut fixer un taux supérieur (max 3 %) sur la tranche excédant 500 000 $. Vérifiez auprès de la municipalité concernée.{{ else if $isAr }}* يمكن للبلدية تحديد معدل أعلى (حد أقصى 3%) على الجزء الذي يتجاوز 500,000$. تحقق من بلديتك.{{ else }}* A municipality may set a higher rate (max 3%) on the portion exceeding $500,000. Check with your municipality.{{ end }}
+      </p>
+
+      <!-- Montréal -->
+      <p class="wt-rates-box__city-title">{{ if $isFr }}Ville de Montréal{{ else if $isAr }}مدينة مونتريال{{ else }}Ville de Montréal{{ end }}</p>
+      <table class="wt-rates-table">
+        <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
+        <tr><td>{{ if $isFr }}De 307 801 $ à 552 300 ${{ else if $isAr }}من 307,801$ إلى 552,300${{ else }}$307,801 to $552,300{{ end }}</td><td>1,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 552 301 $ à 1 104 700 ${{ else if $isAr }}من 552,301$ إلى 1,104,700${{ else }}$552,301 to $1,104,700{{ end }}</td><td>2,0 %</td></tr>
+        <tr><td>{{ if $isFr }}De 1 104 701 $ à 2 136 500 ${{ else if $isAr }}من 1,104,701$ إلى 2,136,500${{ else }}$1,104,701 to $2,136,500{{ end }}</td><td>2,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 2 136 501 $ à 3 113 000 ${{ else if $isAr }}من 2,136,501$ إلى 3,113,000${{ else }}$2,136,501 to $3,113,000{{ end }}</td><td>3,5 %</td></tr>
+        <tr><td>{{ if $isFr }}Plus de 3 113 000 ${{ else if $isAr }}أكثر من 3,113,000${{ else }}Over $3,113,000{{ end }}</td><td>4,0 %</td></tr>
+      </table>
+
+      <!-- Québec -->
+      <p class="wt-rates-box__city-title">{{ if $isFr }}Ville de Québec{{ else if $isAr }}مدينة كيبيك{{ else }}Ville de Québec{{ end }}</p>
+      <table class="wt-rates-table">
+        <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
+        <tr><td>{{ if $isFr }}De 307 801 $ à 500 000 ${{ else if $isAr }}من 307,801$ إلى 500,000${{ else }}$307,801 to $500,000{{ end }}</td><td>1,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 500 001 $ à 1 000 000 ${{ else if $isAr }}من 500,001$ إلى 1,000,000${{ else }}$500,001 to $1,000,000{{ end }}</td><td>2,0 %</td></tr>
+        <tr><td>{{ if $isFr }}De 1 000 001 $ à 2 000 000 ${{ else if $isAr }}من 1,000,001$ إلى 2,000,000${{ else }}$1,000,001 to $2,000,000{{ end }}</td><td>2,5 %</td></tr>
+        <tr><td>{{ if $isFr }}Plus de 2 000 000 ${{ else if $isAr }}أكثر من 2,000,000${{ else }}Over $2,000,000{{ end }}</td><td>3,0 %</td></tr>
+      </table>
+
+      <!-- Gatineau -->
+      <p class="wt-rates-box__city-title">{{ if $isFr }}Ville de Gatineau{{ else if $isAr }}مدينة غاتينو{{ else }}Ville de Gatineau{{ end }}</p>
+      <table class="wt-rates-table">
+        <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
+        <tr><td>{{ if $isFr }}De 307 801 $ à 750 000 ${{ else if $isAr }}من 307,801$ إلى 750,000${{ else }}$307,801 to $750,000{{ end }}</td><td>1,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 750 001 $ à 1 000 000 ${{ else if $isAr }}من 750,001$ إلى 1,000,000${{ else }}$750,001 to $1,000,000{{ end }}</td><td>2,5 %</td></tr>
+        <tr><td>{{ if $isFr }}Plus de 1 000 000 ${{ else if $isAr }}أكثر من 1,000,000${{ else }}Over $1,000,000{{ end }}</td><td>3,0 %</td></tr>
+      </table>
+
+    </div>
+  </details>
+
   <div class="mc-results" id="wt-results" aria-live="polite">
     <div class="mc-results__divider"></div>
 
@@ -56,6 +118,7 @@
           {{ if $isFr }}Droits de mutation estimés{{ else if $isAr }}رسوم النقل المقدرة{{ else }}Estimated Welcome Tax{{ end }}
         </span>
         <span class="mc-headline-block__value mc-headline-block__value--payment" id="wt-total">—</span>
+        <span class="mc-headline-block__freq" id="wt-city-label">—</span>
       </div>
     </div>
 
@@ -82,15 +145,7 @@
       </table>
     </div>
 
-    <p class="mc-results__disclaimer">
-      {{ if $isFr }}
-        * Taux 2024/2025. La Ville de Montréal applique une surtaxe de 3 % sur la portion excédant 500 000 $. Consultez un notaire pour les montants exacts.
-      {{ else if $isAr }}
-        * معدلات 2024/2025. تطبق مدينة مونتريال رسوماً إضافية بنسبة 3% على الجزء الذي يتجاوز 500,000$. استشر كاتب العدل للحصول على المبالغ الدقيقة.
-      {{ else }}
-        * 2024/2025 rates. The City of Montreal applies an additional 3% surcharge on the portion exceeding $500,000. Consult a notary for exact amounts.
-      {{ end }}
-    </p>
+    <p class="mc-results__disclaimer" id="wt-disclaimer"></p>
   </div>
 
 </div>
@@ -100,35 +155,87 @@
   var u    = window._toolsUtils;
   var lang = document.documentElement.lang || 'en';
 
-  var QC_BRACKETS = [
-    { limit: 58900,   rate: 0.005 },
-    { limit: 294600,  rate: 0.010 },
-    { limit: 552300,  rate: 0.015 },
-    { limit: 1044700, rate: 0.020 },
-    { limit: Infinity,rate: 0.025 }
-  ];
+  var BRACKETS = {
+    other: [
+      { limit: 61500,    rate: 0.005 },
+      { limit: 307800,   rate: 0.010 },
+      { limit: Infinity, rate: 0.015 }
+    ],
+    montreal: [
+      { limit: 61500,    rate: 0.005 },
+      { limit: 307800,   rate: 0.010 },
+      { limit: 552300,   rate: 0.015 },
+      { limit: 1104700,  rate: 0.020 },
+      { limit: 2136500,  rate: 0.025 },
+      { limit: 3113000,  rate: 0.035 },
+      { limit: Infinity, rate: 0.040 }
+    ],
+    quebec: [
+      { limit: 61500,    rate: 0.005 },
+      { limit: 307800,   rate: 0.010 },
+      { limit: 500000,   rate: 0.015 },
+      { limit: 1000000,  rate: 0.020 },
+      { limit: 2000000,  rate: 0.025 },
+      { limit: Infinity, rate: 0.030 }
+    ],
+    gatineau: [
+      { limit: 61500,    rate: 0.005 },
+      { limit: 307800,   rate: 0.010 },
+      { limit: 750000,   rate: 0.015 },
+      { limit: 1000000,  rate: 0.025 },
+      { limit: Infinity, rate: 0.030 }
+    ]
+  };
 
-  function calcWelcomeTax(price, isMontreal) {
+  var CITY_LABELS = {
+    other:    { en: 'Other Quebec municipality', fr: 'Autre municipalité du Québec', ar: 'بلدية كيبيك أخرى' },
+    montreal: { en: 'Ville de Montréal',         fr: 'Ville de Montréal',            ar: 'مدينة مونتريال' },
+    quebec:   { en: 'Ville de Québec',           fr: 'Ville de Québec',              ar: 'مدينة كيبيك' },
+    gatineau: { en: 'Ville de Gatineau',         fr: 'Ville de Gatineau',            ar: 'مدينة غاتينو' }
+  };
+
+  var DISCLAIMERS = {
+    other: {
+      en: '* 2025 rates for Quebec municipalities (excluding Montréal, Québec city, and Gatineau). Note: your municipality may have set a higher rate (up to 3%) on the portion exceeding $500,000 — verify with your municipality.',
+      fr: "* Taux 2025 pour les municipalités du Québec (sauf Montréal, Québec et Gatineau). Note : votre municipalité peut avoir fixé un taux supérieur (jusqu'à 3 %) sur la tranche excédant 500 000 $ — vérifiez auprès de la municipalité concernée.",
+      ar: '* معدلات 2025 لبلديات كيبيك (باستثناء مونتريال، مدينة كيبيك، وغاتينو). ملاحظة: قد تكون بلديتك قد حددت معدلاً أعلى (حتى 3%) على الجزء الذي يتجاوز 500,000$ — تحقق من بلديتك.'
+    },
+    montreal: {
+      en: '* 2025 rates for the City of Montréal. Source: Loi concernant les droits sur les mutations immobilières.',
+      fr: '* Taux 2025 pour la Ville de Montréal. Source : Loi concernant les droits sur les mutations immobilières.',
+      ar: '* معدلات 2025 لمدينة مونتريال. المصدر: قانون رسوم نقل الملكية العقارية.'
+    },
+    quebec: {
+      en: '* 2025 rates for the City of Québec. Source: Loi concernant les droits sur les mutations immobilières.',
+      fr: '* Taux 2025 pour la Ville de Québec. Source : Loi concernant les droits sur les mutations immobilières.',
+      ar: '* معدلات 2025 لمدينة كيبيك. المصدر: قانون رسوم نقل الملكية العقارية.'
+    },
+    gatineau: {
+      en: '* 2025 rates for the City of Gatineau. Source: Loi concernant les droits sur les mutations immobilières.',
+      fr: '* Taux 2025 pour la Ville de Gatineau. Source : Loi concernant les droits sur les mutations immobilières.',
+      ar: '* معدلات 2025 لمدينة غاتينو. المصدر: قانون رسوم نقل الملكية العقارية.'
+    }
+  };
+
+  function calcWelcomeTax(price, city) {
+    var b = BRACKETS[city] || BRACKETS.other;
     var tax = 0, prev = 0, rows = [];
-    for (var i = 0; i < QC_BRACKETS.length; i++) {
+    for (var i = 0; i < b.length; i++) {
       if (price <= prev) break;
-      var upper   = QC_BRACKETS[i].limit === Infinity ? price : Math.min(price, QC_BRACKETS[i].limit);
+      var upper   = b[i].limit === Infinity ? price : Math.min(price, b[i].limit);
       var taxable = upper - prev;
-      var t       = taxable * QC_BRACKETS[i].rate;
+      var t       = taxable * b[i].rate;
       tax += t;
       var fromLbl = prev === 0 ? '$1' : '$' + (prev + 1).toLocaleString('en-CA');
-      var toLbl   = QC_BRACKETS[i].limit === Infinity
-        ? (lang === 'fr' ? 'et plus' : lang === 'ar' ? 'وما فوق' : 'and above')
-        : '$' + upper.toLocaleString('en-CA');
-      rows.push({ label: fromLbl + ' — ' + toLbl, rate: (QC_BRACKETS[i].rate * 100).toFixed(1) + '%', tax: t });
-      prev = QC_BRACKETS[i].limit;
-      if (price <= QC_BRACKETS[i].limit) break;
-    }
-    if (isMontreal && price > 500000) {
-      var surcharge = (price - 500000) * 0.03;
-      tax += surcharge;
-      var mtlLbl = lang === 'fr' ? 'Surtaxe Montréal (> 500 000 $)' : lang === 'ar' ? 'سورشارج مونتريال (> 500,000$)' : 'Montréal Surcharge (> $500,000)';
-      rows.push({ label: mtlLbl, rate: '3.0%', tax: surcharge, highlight: true });
+      var toLbl;
+      if (b[i].limit === Infinity) {
+        toLbl = (lang === 'fr' ? 'et plus' : lang === 'ar' ? 'وما فوق' : 'and above');
+      } else {
+        toLbl = '$' + upper.toLocaleString('en-CA');
+      }
+      rows.push({ label: fromLbl + ' — ' + toLbl, rate: (b[i].rate * 100).toFixed(1) + ' %', tax: t });
+      prev = b[i].limit;
+      if (price <= b[i].limit) break;
     }
     return { total: tax, rows: rows };
   }
@@ -142,16 +249,17 @@
       setTimeout(function () { priceEl.style.outline = ''; }, 2000);
       return;
     }
-    var isMontreal = document.getElementById('wt-city').value === 'montreal';
-    var result     = calcWelcomeTax(price, isMontreal);
+    var city   = document.getElementById('wt-city').value;
+    var result = calcWelcomeTax(price, city);
 
-    document.getElementById('wt-total').textContent = u.fmt(result.total);
+    document.getElementById('wt-total').textContent     = u.fmt(result.total);
+    document.getElementById('wt-city-label').textContent = (CITY_LABELS[city] || CITY_LABELS.other)[lang] || (CITY_LABELS[city] || CITY_LABELS.other)['en'];
 
     var tbody = document.getElementById('wt-tbody');
     tbody.innerHTML = '';
     result.rows.forEach(function (row) {
       var tr = document.createElement('tr');
-      tr.className = 'mc-tr' + (row.highlight ? ' mc-tr--insurance' : '');
+      tr.className = 'mc-tr';
       tr.innerHTML = '<td class="mc-td mc-td--label">' + row.label + '</td>' +
                      '<td class="mc-td mc-td--val">' + row.rate + '</td>' +
                      '<td class="mc-td mc-td--val">' + u.fmt(row.tax) + '</td>';
@@ -164,6 +272,9 @@
                         '<td class="mc-td mc-td--val mc-td--total"></td>' +
                         '<td class="mc-td mc-td--val mc-td--total">' + u.fmt(result.total) + '</td>';
     tbody.appendChild(totalTr);
+
+    var disc = DISCLAIMERS[city] || DISCLAIMERS.other;
+    document.getElementById('wt-disclaimer').textContent = disc[lang] || disc['en'];
 
     var res = document.getElementById('wt-results');
     res.classList.add('mc-results--visible');

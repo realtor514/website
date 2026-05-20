@@ -35,14 +35,20 @@
       <div class="mc-select-wrap">
         <select class="mc-select" id="cc-city">
           {{ if $isFr }}
-            <option value="other">Autre (Québec)</option>
+            <option value="other">Autre municipalité du Québec</option>
             <option value="montreal">Ville de Montréal</option>
+            <option value="quebec">Ville de Québec</option>
+            <option value="gatineau">Ville de Gatineau</option>
           {{ else if $isAr }}
-            <option value="other">أخرى (كيبيك)</option>
+            <option value="other">بلديات كيبيك الأخرى</option>
             <option value="montreal">مدينة مونتريال</option>
+            <option value="quebec">مدينة كيبيك</option>
+            <option value="gatineau">مدينة غاتينو</option>
           {{ else }}
-            <option value="other">Other (Quebec)</option>
-            <option value="montreal">City of Montreal</option>
+            <option value="other">Other Quebec municipality</option>
+            <option value="montreal">Ville de Montréal</option>
+            <option value="quebec">Ville de Québec</option>
+            <option value="gatineau">Ville de Gatineau</option>
           {{ end }}
         </select>
         <span class="mc-select-arrow">
@@ -133,24 +139,23 @@
   var u    = window._toolsUtils;
   var lang = document.documentElement.lang || 'en';
 
-  var QC_BRACKETS = [
-    { limit: 58900,    rate: 0.005 },
-    { limit: 294600,   rate: 0.010 },
-    { limit: 552300,   rate: 0.015 },
-    { limit: 1044700,  rate: 0.020 },
-    { limit: Infinity, rate: 0.025 }
-  ];
+  var BRACKETS = {
+    other:    [ { limit: 61500, rate: 0.005 }, { limit: 307800, rate: 0.010 }, { limit: Infinity, rate: 0.015 } ],
+    montreal: [ { limit: 61500, rate: 0.005 }, { limit: 307800, rate: 0.010 }, { limit: 552300, rate: 0.015 }, { limit: 1104700, rate: 0.020 }, { limit: 2136500, rate: 0.025 }, { limit: 3113000, rate: 0.035 }, { limit: Infinity, rate: 0.040 } ],
+    quebec:   [ { limit: 61500, rate: 0.005 }, { limit: 307800, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: 1000000, rate: 0.020 }, { limit: 2000000, rate: 0.025 }, { limit: Infinity, rate: 0.030 } ],
+    gatineau: [ { limit: 61500, rate: 0.005 }, { limit: 307800, rate: 0.010 }, { limit: 750000, rate: 0.015 }, { limit: 1000000, rate: 0.025 }, { limit: Infinity, rate: 0.030 } ]
+  };
 
-  function calcWelcomeTax(price, isMontreal) {
+  function calcWelcomeTax(price, city) {
+    var b = BRACKETS[city] || BRACKETS.other;
     var tax = 0, prev = 0;
-    for (var i = 0; i < QC_BRACKETS.length; i++) {
+    for (var i = 0; i < b.length; i++) {
       if (price <= prev) break;
-      var upper = QC_BRACKETS[i].limit === Infinity ? price : Math.min(price, QC_BRACKETS[i].limit);
-      tax += (upper - prev) * QC_BRACKETS[i].rate;
-      prev = QC_BRACKETS[i].limit;
-      if (price <= QC_BRACKETS[i].limit) break;
+      var upper = b[i].limit === Infinity ? price : Math.min(price, b[i].limit);
+      tax += (upper - prev) * b[i].rate;
+      prev = b[i].limit;
+      if (price <= b[i].limit) break;
     }
-    if (isMontreal && price > 500000) tax += (price - 500000) * 0.03;
     return tax;
   }
 
@@ -164,12 +169,12 @@
       return;
     }
     var down      = u.parseMoney(document.getElementById('cc-down').value);
-    var isMtl     = document.getElementById('cc-city').value === 'montreal';
+    var city      = document.getElementById('cc-city').value;
     var isNew     = document.getElementById('cc-proptype').value === 'new';
     var loan      = Math.max(0, price - down);
     var downPct   = price > 0 ? (down / price) * 100 : 0;
     var cmhc      = u.calcCMHC(price, loan, downPct);
-    var welcomeTax = calcWelcomeTax(price, isMtl);
+    var welcomeTax = calcWelcomeTax(price, city);
 
     var lbl = {
       wt:        { en: 'Welcome Tax (Droits de mutation)',          fr: 'Droits de mutation',            ar: 'رسوم نقل الملكية' },

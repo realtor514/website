@@ -1282,6 +1282,74 @@ p:last-child { margin-bottom: 0; }
 .tools-panel { display: none; }
 .tools-panel--active { display: block; }
 
+/* Welcome tax rates reference box */
+.wt-rates-box {
+  margin: 20px 0 24px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+.wt-rates-box__toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 13px 18px;
+  background: var(--off-white);
+  font-size: .82rem;
+  font-weight: 600;
+  color: var(--navy);
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+.wt-rates-box__toggle::-webkit-details-marker { display: none; }
+.wt-rates-box__toggle::before {
+  content: '+';
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--navy);
+  color: var(--white);
+  font-size: .75rem;
+  font-weight: 700;
+  flex-shrink: 0;
+  transition: transform .2s;
+}
+details[open] .wt-rates-box__toggle::before { content: '-'; }
+.wt-rates-box__body {
+  padding: 20px 20px 16px;
+  background: var(--white);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px 28px;
+}
+.wt-rates-box__city-title {
+  font-size: .78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: var(--navy);
+  margin: 0 0 8px;
+}
+.wt-rates-table { width: 100%; border-collapse: collapse; font-size: .8rem; }
+.wt-rates-table tr { border-bottom: 1px solid var(--border); }
+.wt-rates-table tr:last-child { border-bottom: none; }
+.wt-rates-table td { padding: 5px 0; color: var(--text); }
+.wt-rates-table td:last-child { text-align: right; font-weight: 600; color: var(--navy); white-space: nowrap; }
+.wt-rates-box__note {
+  grid-column: 1 / -1;
+  font-size: .74rem;
+  color: var(--gray);
+  font-style: italic;
+  margin: 0;
+}
+@media (max-width: 640px) {
+  .wt-rates-box__body { grid-template-columns: 1fr; }
+}
+
 /* Tool card utilities */
 .mc-tool-desc {
   color: var(--gray);
