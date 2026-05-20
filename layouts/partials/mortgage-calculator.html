@@ -312,7 +312,7 @@
           {{ else if $isAr }}
             * تقدير للإرشاد فقط. تنطبق أقساط تأمين CMHC/Sagen/Canada Guaranty على الدفعات الأولى التي تقل عن 20% للعقارات أقل من 1,000,000$. استشر مستشاراً للرهن العقاري للحصول على تحليل كامل.
           {{ else }}
-            * Estimate for informational purposes only. CMHC/Sagen/Canada Guaranty insurance premiums apply to down payments under 20% on properties under $1,000,000. Consult a mortgage advisor for a complete analysis.
+            * Estimate for informational purposes only. CMHC/Sagen/Canada Guaranty insurance premiums apply to down payments under 20% on properties under $1,500,000. Consult a mortgage advisor for a complete analysis.
           {{ end }}
         </p>
       </div>
@@ -350,19 +350,20 @@
   var results = document.getElementById('mc-results');
   var freq    = document.getElementById('mc-freq');
 
-  /* CMHC premium rates (Canada): semi-annual compounding mortgage insurance */
+  /* Official CMHC/Sagen/Canada Guaranty premium rates */
   function cmhcRate(downPct) {
     if (downPct >= 20) return 0;
-    if (downPct >= 15) return 0.028;
-    if (downPct >= 10) return 0.031;
-    if (downPct >=  5) return 0.040;
-    return 0; /* below 5% — not eligible */
+    if (downPct >= 15) return 0.0280; /* 2.80% */
+    if (downPct >= 10) return 0.0310; /* 3.10% */
+    if (downPct >=  5) return 0.0400; /* 4.00% */
+    return 0;
   }
 
   function calcCMHC(propertyPrice, loanAmt, downPct) {
-    /* Not available for properties >= $1,000,000 */
-    if (propertyPrice >= 1000000 || downPct >= 20 || downPct < 5) return 0;
-    return loanAmt * cmhcRate(downPct);
+    /* CMHC not available for properties >= $1,500,000 or down payment >= 20% */
+    if (propertyPrice >= 1500000 || downPct >= 20 || downPct < 5) return 0;
+    /* Round to nearest dollar — matches CMHC/BNC standard practice */
+    return Math.round(loanAmt * cmhcRate(downPct));
   }
 
   function updateLoanAndCMHC() {
