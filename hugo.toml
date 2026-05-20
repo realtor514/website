@@ -23,40 +23,114 @@ defaultContentLanguageInSubdir = false
       aboutBadge  = "About Me"
       aboutTitle  = "Passionate About Finding Your Perfect Property"
 
+    # ── BUYER menu ──
     [[languages.en.menus.main]]
-      name   = "Home"
-      url    = "/"
-      weight = 1
+      identifier = "buyer"
+      name       = "Buyer"
+      weight     = 1
 
     [[languages.en.menus.main]]
-      name   = "Properties"
-      url    = "/listings/"
-      weight = 2
+      parent     = "buyer"
+      identifier = "buyer-guide"
+      name       = "Buyer's Guide"
+      url        = "/buyer/"
+      weight     = 1
 
     [[languages.en.menus.main]]
-      name   = "Articles"
-      url    = "/articles/"
-      weight = 3
+      parent     = "buyer"
+      identifier = "buyer-props"
+      name       = "Find a Property"
+      url        = "/listings/"
+      weight     = 2
 
     [[languages.en.menus.main]]
-      name   = "Tools"
-      url    = "/#tools"
-      weight = 4
+      parent     = "buyer"
+      identifier = "buyer-mortgage"
+      name       = "Mortgage Calculator"
+      url        = "/#tools"
+      weight     = 3
 
     [[languages.en.menus.main]]
-      name   = "About"
-      url    = "/about/"
-      weight = 5
+      parent     = "buyer"
+      identifier = "buyer-afford"
+      name       = "Affordability Calculator"
+      url        = "/#tools"
+      weight     = 4
 
     [[languages.en.menus.main]]
-      name   = "Network"
-      url    = "/#network"
-      weight = 6
+      parent     = "buyer"
+      identifier = "buyer-costs"
+      name       = "Closing Costs & Welcome Tax"
+      url        = "/#tools"
+      weight     = 5
+
+    # ── SELLER menu ──
+    [[languages.en.menus.main]]
+      identifier = "seller"
+      name       = "Seller"
+      weight     = 2
 
     [[languages.en.menus.main]]
-      name   = "Contact"
-      url    = "/#contact"
-      weight = 7
+      parent     = "seller"
+      identifier = "seller-guide"
+      name       = "Seller's Guide"
+      url        = "/seller/"
+      weight     = 1
+
+    [[languages.en.menus.main]]
+      parent     = "seller"
+      identifier = "seller-eval"
+      name       = "Free Evaluation"
+      url        = "/#contact"
+      weight     = 2
+
+    [[languages.en.menus.main]]
+      parent     = "seller"
+      identifier = "seller-rvb"
+      name       = "Rent vs Buy"
+      url        = "/#tools"
+      weight     = 3
+
+    [[languages.en.menus.main]]
+      parent     = "seller"
+      identifier = "seller-market"
+      name       = "Market Insights"
+      url        = "/articles/"
+      weight     = 4
+
+    # ── ABOUT menu ──
+    [[languages.en.menus.main]]
+      identifier = "about"
+      name       = "About"
+      weight     = 3
+
+    [[languages.en.menus.main]]
+      parent     = "about"
+      identifier = "about-me"
+      name       = "About Me"
+      url        = "/about/"
+      weight     = 1
+
+    [[languages.en.menus.main]]
+      parent     = "about"
+      identifier = "about-blog"
+      name       = "Blog"
+      url        = "/articles/"
+      weight     = 2
+
+    [[languages.en.menus.main]]
+      parent     = "about"
+      identifier = "about-network"
+      name       = "My Network"
+      url        = "/#network"
+      weight     = 3
+
+    [[languages.en.menus.main]]
+      parent     = "about"
+      identifier = "about-contact"
+      name       = "Contact"
+      url        = "/#contact"
+      weight     = 4
 
   [languages.fr]
     weight       = 2
@@ -76,40 +150,114 @@ defaultContentLanguageInSubdir = false
       aboutBadge  = "À propos"
       aboutTitle  = "Passionné par la recherche de votre propriété idéale"
 
+    # ── ACHETEUR menu ──
     [[languages.fr.menus.main]]
-      name   = "Accueil"
-      url    = "/fr/"
-      weight = 1
+      identifier = "buyer"
+      name       = "Acheteur"
+      weight     = 1
 
     [[languages.fr.menus.main]]
-      name   = "Propriétés"
-      url    = "/fr/listings/"
-      weight = 2
+      parent     = "buyer"
+      identifier = "buyer-guide"
+      name       = "Guide de l'acheteur"
+      url        = "/fr/buyer/"
+      weight     = 1
 
     [[languages.fr.menus.main]]
-      name   = "Articles"
-      url    = "/fr/articles/"
-      weight = 3
+      parent     = "buyer"
+      identifier = "buyer-props"
+      name       = "Trouver une propriété"
+      url        = "/fr/listings/"
+      weight     = 2
 
     [[languages.fr.menus.main]]
-      name   = "Outils"
-      url    = "/fr/#tools"
-      weight = 4
+      parent     = "buyer"
+      identifier = "buyer-mortgage"
+      name       = "Calculateur hypothécaire"
+      url        = "/fr/#tools"
+      weight     = 3
 
     [[languages.fr.menus.main]]
-      name   = "À propos"
-      url    = "/fr/about/"
-      weight = 5
+      parent     = "buyer"
+      identifier = "buyer-afford"
+      name       = "Capacité d'emprunt"
+      url        = "/fr/#tools"
+      weight     = 4
 
     [[languages.fr.menus.main]]
-      name   = "Mon réseau"
-      url    = "/fr/#network"
-      weight = 6
+      parent     = "buyer"
+      identifier = "buyer-costs"
+      name       = "Frais de clôture & Taxe de bienvenue"
+      url        = "/fr/#tools"
+      weight     = 5
+
+    # ── VENDEUR menu ──
+    [[languages.fr.menus.main]]
+      identifier = "seller"
+      name       = "Vendeur"
+      weight     = 2
 
     [[languages.fr.menus.main]]
-      name   = "Contact"
-      url    = "/fr/#contact"
-      weight = 7
+      parent     = "seller"
+      identifier = "seller-guide"
+      name       = "Guide du vendeur"
+      url        = "/fr/seller/"
+      weight     = 1
+
+    [[languages.fr.menus.main]]
+      parent     = "seller"
+      identifier = "seller-eval"
+      name       = "Évaluation gratuite"
+      url        = "/fr/#contact"
+      weight     = 2
+
+    [[languages.fr.menus.main]]
+      parent     = "seller"
+      identifier = "seller-rvb"
+      name       = "Louer vs Acheter"
+      url        = "/fr/#tools"
+      weight     = 3
+
+    [[languages.fr.menus.main]]
+      parent     = "seller"
+      identifier = "seller-market"
+      name       = "Actualités du marché"
+      url        = "/fr/articles/"
+      weight     = 4
+
+    # ── À PROPOS menu ──
+    [[languages.fr.menus.main]]
+      identifier = "about"
+      name       = "À propos"
+      weight     = 3
+
+    [[languages.fr.menus.main]]
+      parent     = "about"
+      identifier = "about-me"
+      name       = "À propos de moi"
+      url        = "/fr/about/"
+      weight     = 1
+
+    [[languages.fr.menus.main]]
+      parent     = "about"
+      identifier = "about-blog"
+      name       = "Blogue"
+      url        = "/fr/articles/"
+      weight     = 2
+
+    [[languages.fr.menus.main]]
+      parent     = "about"
+      identifier = "about-network"
+      name       = "Mon réseau"
+      url        = "/fr/#network"
+      weight     = 3
+
+    [[languages.fr.menus.main]]
+      parent     = "about"
+      identifier = "about-contact"
+      name       = "Contact"
+      url        = "/fr/#contact"
+      weight     = 4
 
   [languages.es]
     weight       = 3
@@ -129,40 +277,93 @@ defaultContentLanguageInSubdir = false
       aboutBadge  = "Sobre mí"
       aboutTitle  = "Apasionado por encontrar su propiedad ideal"
 
+    # ── COMPRADOR menu ──
     [[languages.es.menus.main]]
-      name   = "Inicio"
-      url    = "/es/"
-      weight = 1
+      identifier = "buyer"
+      name       = "Comprador"
+      weight     = 1
 
     [[languages.es.menus.main]]
-      name   = "Propiedades"
-      url    = "/es/listings/"
-      weight = 2
+      parent     = "buyer"
+      identifier = "buyer-guide"
+      name       = "Guía del comprador"
+      url        = "/es/buyer/"
+      weight     = 1
 
     [[languages.es.menus.main]]
-      name   = "Artículos"
-      url    = "/es/articles/"
-      weight = 3
+      parent     = "buyer"
+      identifier = "buyer-props"
+      name       = "Buscar propiedades"
+      url        = "/es/listings/"
+      weight     = 2
 
     [[languages.es.menus.main]]
-      name   = "Herramientas"
-      url    = "/es/#tools"
-      weight = 4
+      parent     = "buyer"
+      identifier = "buyer-mortgage"
+      name       = "Calculadora hipotecaria"
+      url        = "/es/#tools"
+      weight     = 3
 
     [[languages.es.menus.main]]
-      name   = "Sobre mí"
-      url    = "/es/about/"
-      weight = 5
+      parent     = "buyer"
+      identifier = "buyer-costs"
+      name       = "Costos de cierre"
+      url        = "/es/#tools"
+      weight     = 4
+
+    # ── VENDEDOR menu ──
+    [[languages.es.menus.main]]
+      identifier = "seller"
+      name       = "Vendedor"
+      weight     = 2
 
     [[languages.es.menus.main]]
-      name   = "Mi Red"
-      url    = "/es/#network"
-      weight = 6
+      parent     = "seller"
+      identifier = "seller-guide"
+      name       = "Guía del vendedor"
+      url        = "/es/seller/"
+      weight     = 1
 
     [[languages.es.menus.main]]
-      name   = "Contacto"
-      url    = "/es/#contact"
-      weight = 7
+      parent     = "seller"
+      identifier = "seller-eval"
+      name       = "Evaluación gratuita"
+      url        = "/es/#contact"
+      weight     = 2
+
+    [[languages.es.menus.main]]
+      parent     = "seller"
+      identifier = "seller-market"
+      name       = "Noticias del mercado"
+      url        = "/es/articles/"
+      weight     = 3
+
+    # ── SOBRE MÍ menu ──
+    [[languages.es.menus.main]]
+      identifier = "about"
+      name       = "Sobre mí"
+      weight     = 3
+
+    [[languages.es.menus.main]]
+      parent     = "about"
+      identifier = "about-me"
+      name       = "Sobre mí"
+      url        = "/es/about/"
+      weight     = 1
+
+    [[languages.es.menus.main]]
+      parent     = "about"
+      identifier = "about-blog"
+      name       = "Blog"
+      url        = "/es/articles/"
+      weight     = 2
+
+    [[languages.es.menus.main]]
+      parent     = "about"
+      identifier = "about-contact"
+      name       = "Contacto"
+      url        = "/es/#contact"
+      weight     = 3
 
   [languages.ar]
     weight       = 4
@@ -181,40 +382,100 @@ defaultContentLanguageInSubdir = false
       aboutBadge  = "نبذة عني"
       aboutTitle  = "نجاحك العقاري هو هدفي"
 
+    # ── المشتري menu ──
     [[languages.ar.menus.main]]
-      name   = "الرئيسية"
-      url    = "/ar/"
-      weight = 1
+      identifier = "buyer"
+      name       = "المشتري"
+      weight     = 1
 
     [[languages.ar.menus.main]]
-      name   = "العقارات"
-      url    = "/ar/listings/"
-      weight = 2
+      parent     = "buyer"
+      identifier = "buyer-guide"
+      name       = "دليل المشتري"
+      url        = "/ar/buyer/"
+      weight     = 1
 
     [[languages.ar.menus.main]]
-      name   = "المقالات"
-      url    = "/ar/articles/"
-      weight = 3
+      parent     = "buyer"
+      identifier = "buyer-props"
+      name       = "ابحث عن عقار"
+      url        = "/ar/listings/"
+      weight     = 2
 
     [[languages.ar.menus.main]]
-      name   = "الأدوات"
-      url    = "/ar/#tools"
-      weight = 4
+      parent     = "buyer"
+      identifier = "buyer-mortgage"
+      name       = "حاسبة الرهن العقاري"
+      url        = "/ar/#tools"
+      weight     = 3
 
     [[languages.ar.menus.main]]
-      name   = "من أنا"
-      url    = "/ar/about/"
-      weight = 5
+      parent     = "buyer"
+      identifier = "buyer-costs"
+      name       = "تكاليف الإغلاق"
+      url        = "/ar/#tools"
+      weight     = 4
+
+    # ── البائع menu ──
+    [[languages.ar.menus.main]]
+      identifier = "seller"
+      name       = "البائع"
+      weight     = 2
 
     [[languages.ar.menus.main]]
-      name   = "شبكتي"
-      url    = "/ar/#network"
-      weight = 6
+      parent     = "seller"
+      identifier = "seller-guide"
+      name       = "دليل البائع"
+      url        = "/ar/seller/"
+      weight     = 1
 
     [[languages.ar.menus.main]]
-      name   = "تواصل"
-      url    = "/ar/#contact"
-      weight = 7
+      parent     = "seller"
+      identifier = "seller-eval"
+      name       = "تقييم مجاني"
+      url        = "/ar/#contact"
+      weight     = 2
+
+    [[languages.ar.menus.main]]
+      parent     = "seller"
+      identifier = "seller-market"
+      name       = "أخبار السوق"
+      url        = "/ar/articles/"
+      weight     = 3
+
+    # ── عن menu ──
+    [[languages.ar.menus.main]]
+      identifier = "about"
+      name       = "عن"
+      weight     = 3
+
+    [[languages.ar.menus.main]]
+      parent     = "about"
+      identifier = "about-me"
+      name       = "من أنا"
+      url        = "/ar/about/"
+      weight     = 1
+
+    [[languages.ar.menus.main]]
+      parent     = "about"
+      identifier = "about-blog"
+      name       = "المقالات"
+      url        = "/ar/articles/"
+      weight     = 2
+
+    [[languages.ar.menus.main]]
+      parent     = "about"
+      identifier = "about-network"
+      name       = "شبكتي"
+      url        = "/ar/#network"
+      weight     = 3
+
+    [[languages.ar.menus.main]]
+      parent     = "about"
+      identifier = "about-contact"
+      name       = "تواصل"
+      url        = "/ar/#contact"
+      weight     = 4
 
 [params]
   name         = "Georges Matar"

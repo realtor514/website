@@ -1,0 +1,228 @@
+{{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $base  := "" }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
+
+<!-- ── HERO ── -->
+<section class="journey-hero">
+  <img src="{{ "images/office/exterieur_par-proprietaire.webp" | relURL }}" alt="" class="journey-hero__bg">
+  <div class="journey-hero__overlay"></div>
+  <div class="container">
+    <div class="journey-hero__inner reveal">
+      <div class="journey-hero__badge">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+        {{ if $isFr }}Guide de l'Acheteur{{ else if $isEs }}Guía del Comprador{{ else if $isAr }}دليل المشتري{{ else }}Buyer's Guide{{ end }}
+      </div>
+      <h1 class="journey-hero__title">
+        {{ if $isFr }}Acheter votre propriété en toute confiance{{ else if $isEs }}Compre su propiedad con total confianza{{ else if $isAr }}اشترِ عقارك بثقة تامة{{ else }}Buy Your Property With Full Confidence{{ end }}
+      </h1>
+      <p class="journey-hero__subtitle">
+        {{ if $isFr }}
+          De la recherche au passage de titre, je vous accompagne à chaque étape avec des données réelles, une stratégie claire et une priorité absolue: vos intérêts.
+        {{ else if $isEs }}
+          Desde la búsqueda hasta el acto de venta, le acompaño en cada paso con datos reales, estrategia clara y una prioridad absoluta: sus intereses.
+        {{ else if $isAr }}
+          من البحث حتى نقل الملكية، أرافقك في كل خطوة ببيانات حقيقية، واستراتيجية واضحة، وأولوية مطلقة: مصلحتك.
+        {{ else }}
+          From first search to title transfer, I guide you at every step with real data, a clear strategy, and one absolute priority: your interests.
+        {{ end }}
+      </p>
+      <div class="journey-hero__actions">
+        <button class="btn btn-primary" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          {{ if $isFr }}Prendre rendez-vous{{ else if $isEs }}Reservar una cita{{ else if $isAr }}احجز موعداً{{ else }}Book a Free Consultation{{ end }}
+        </button>
+        <a href="{{ $base }}/listings/" class="btn btn-outline">
+          {{ if $isFr }}Voir les propriétés{{ else if $isEs }}Ver propiedades{{ else if $isAr }}عرض العقارات{{ else }}Browse Properties{{ end }}
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── BUYER STEPS ── -->
+<section class="section">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="eyebrow">{{ if $isFr }}Processus d'achat{{ else if $isEs }}Proceso de compra{{ else if $isAr }}عملية الشراء{{ else }}Buying Process{{ end }}</span>
+      <h2>{{ if $isFr }}8 étapes vers votre nouvelle propriété{{ else if $isEs }}8 pasos hacia su nueva propiedad{{ else if $isAr }}8 خطوات نحو عقارك الجديد{{ else }}8 Steps to Your New Home{{ end }}</h2>
+      <p class="subtitle">
+        {{ if $isFr }}Un processus clair et transparent pour vous éviter les surprises et vous donner confiance à chaque étape.{{ else if $isEs }}Un proceso claro y transparente para evitar sorpresas y darle confianza en cada paso.{{ else if $isAr }}عملية واضحة وشفافة لتجنب المفاجآت ومنحك الثقة في كل خطوة.{{ else }}A clear, transparent process so there are no surprises and you feel confident at every stage.{{ end }}
+      </p>
+    </div>
+    <div class="steps-grid reveal">
+
+      <div class="step-card">
+        <span class="step-card__num">1</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Définir votre budget{{ else if $isEs }}Definir su presupuesto{{ else if $isAr }}تحديد ميزانيتك{{ else }}Define Your Budget{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Utilisez nos calculateurs pour estimer votre capacité d'emprunt, vos mensualités et tous les frais annexes.{{ else if $isAr }}استخدم حاسباتنا لتقدير قدرتك الاقتراضية والأقساط الشهرية وجميع التكاليف الإضافية.{{ else }}Use our calculators to estimate your borrowing capacity, monthly payments, and all additional costs.{{ end }}</p>
+      </div>
+
+      <div class="step-card">
+        <span class="step-card__num">2</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Obtenir une pré-approbation{{ else if $isEs }}Obtener la pre-aprobación{{ else if $isAr }}الحصول على الموافقة المسبقة{{ else }}Get Pre-Approved{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Une pré-approbation hypothécaire renforce votre offre et démontre votre sérieux aux vendeurs.{{ else if $isAr }}الموافقة المسبقة على الرهن العقاري تعزز عرضك وتُظهر جديتك للبائعين.{{ else }}A mortgage pre-approval strengthens your offer and shows sellers you are a serious buyer.{{ end }}</p>
+      </div>
+
+      <div class="step-card">
+        <span class="step-card__num">3</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Définir vos critères{{ else if $isEs }}Definir sus criterios{{ else if $isAr }}تحديد معاييرك{{ else }}Define Your Criteria{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Quartier, type de propriété, superficie, nombre de chambres: je cible exactement ce que vous cherchez.{{ else if $isAr }}الحي، نوع العقار، المساحة، عدد الغرف: أستهدف بالضبط ما تبحث عنه.{{ else }}Neighbourhood, property type, size, rooms: I target exactly what you are looking for.{{ end }}</p>
+      </div>
+
+      <div class="step-card">
+        <span class="step-card__num">4</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Recherche de propriétés{{ else if $isEs }}Búsqueda de propiedades{{ else if $isAr }}البحث عن العقارات{{ else }}Property Search{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Accès à toutes les inscriptions MLS et aux propriétés hors marché. Je vous alerte en temps réel pour ne rater aucune opportunité.{{ else if $isAr }}الوصول إلى جميع إدراجات MLS والعقارات خارج السوق. أُنبّهك في الوقت الفعلي لعدم تفويت أي فرصة.{{ else }}Access to all MLS listings and off-market properties. I alert you in real time so you never miss an opportunity.{{ end }}</p>
+      </div>
+
+      <div class="step-card">
+        <span class="step-card__num">5</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Faire une offre d'achat{{ else if $isEs }}Hacer una oferta{{ else if $isAr }}تقديم عرض شراء{{ else }}Make an Offer{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Analyse des comparables pour déterminer le juste prix, rédaction de l'offre et négociation stratégique en votre faveur.{{ else if $isAr }}تحليل المقارنات لتحديد السعر العادل، صياغة العرض والتفاوض الاستراتيجي لصالحك.{{ else }}Analysis of comparables to determine fair value, offer writing and strategic negotiation in your favour.{{ end }}</p>
+      </div>
+
+      <div class="step-card">
+        <span class="step-card__num">6</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Inspection et conditions{{ else if $isEs }}Inspección y condiciones{{ else if $isAr }}الفحص والشروط{{ else }}Inspection & Conditions{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Coordination de l'inspection en bâtiment, analyse des résultats et levée des conditions dans les délais.{{ else if $isAr }}تنسيق فحص المبنى، تحليل النتائج ورفع الشروط في المواعيد المحددة.{{ else }}Building inspection coordination, results analysis, and timely removal of conditions.{{ end }}</p>
+      </div>
+
+      <div class="step-card">
+        <span class="step-card__num">7</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Finalisation du financement{{ else if $isEs }}Finalización del financiamiento{{ else if $isAr }}إتمام التمويل{{ else }}Finalize Financing{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Confirmation hypothécaire, assurance titres et coordination avec le notaire pour une transaction sans accroc.{{ else if $isAr }}تأكيد الرهن العقاري، تأمين الملكية والتنسيق مع كاتب العدل لإتمام المعاملة بسلاسة.{{ else }}Mortgage confirmation, title insurance, and notary coordination for a seamless transaction.{{ end }}</p>
+      </div>
+
+      <div class="step-card" style="border-color: rgba(176,0,0,.3); background: linear-gradient(135deg, #fff 80%, rgba(176,0,0,.04) 100%);">
+        <span class="step-card__num">8</span>
+        <div class="step-card__icon" style="background: rgba(176,0,0,.15);"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"/></svg></div>
+        <div class="step-card__title" style="color: var(--red);">{{ if $isFr }}Remise des clés!{{ else if $isEs }}Entrega de llaves!{{ else if $isAr }}استلام المفاتيح!{{ else }}Keys in Hand!{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Signature chez le notaire, remise des clés et accueil dans votre nouvelle propriété. Felicitations!{{ else if $isAr }}التوقيع عند كاتب العدل، استلام المفاتيح والترحيب بك في عقارك الجديد. مبروك!{{ else }}Notary signing, key handover, and welcome to your new property. Congratulations!{{ end }}</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ── TOOLS QUICK ACCESS ── -->
+<section class="section section--light">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="eyebrow">{{ if $isFr }}Outils pour acheteurs{{ else if $isEs }}Herramientas para compradores{{ else if $isAr }}أدوات للمشترين{{ else }}Tools for Buyers{{ end }}</span>
+      <h2>{{ if $isFr }}Calculez avant de decider{{ else if $isEs }}Calcule antes de decidir{{ else if $isAr }}احسب قبل أن تقرر{{ else }}Calculate Before You Decide{{ end }}</h2>
+    </div>
+    <div class="tools-quick-grid reveal">
+      <a href="{{ $base }}/#tools" class="tools-quick-card">
+        <span class="tools-quick-card__icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg></span>
+        {{ if $isFr }}Calculateur hypothécaire{{ else if $isEs }}Calculadora hipotecaria{{ else if $isAr }}حاسبة الرهن{{ else }}Mortgage Calculator{{ end }}
+      </a>
+      <a href="{{ $base }}/#tools" class="tools-quick-card">
+        <span class="tools-quick-card__icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg></span>
+        {{ if $isFr }}Capacité d'emprunt{{ else if $isEs }}Capacidad de compra{{ else if $isAr }}قدرة الاقتراض{{ else }}Affordability Calculator{{ end }}
+      </a>
+      <a href="{{ $base }}/#tools" class="tools-quick-card">
+        <span class="tools-quick-card__icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></span>
+        {{ if $isFr }}Frais de clôture{{ else if $isEs }}Costos de cierre{{ else if $isAr }}تكاليف الإغلاق{{ else }}Closing Costs{{ end }}
+      </a>
+      <a href="{{ $base }}/#tools" class="tools-quick-card">
+        <span class="tools-quick-card__icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg></span>
+        {{ if $isFr }}Taxe de bienvenue{{ else if $isEs }}Impuesto de bienvenida{{ else if $isAr }}رسوم الترحيب{{ else }}Welcome Tax{{ end }}
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ── WHY GEORGES ── -->
+<section class="section section--dark">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="eyebrow" style="color: var(--red-light);">{{ if $isFr }}Pourquoi travailler avec moi{{ else if $isEs }}Por qué trabajar conmigo{{ else if $isAr }}لماذا تعمل معي{{ else }}Why Work With Me{{ end }}</span>
+      <h2 style="color:#fff">{{ if $isFr }}Votre avantage en tant qu'acheteur{{ else if $isEs }}Su ventaja como comprador{{ else if $isAr }}ميزتك كمشتري{{ else }}Your Advantage as a Buyer{{ end }}</h2>
+    </div>
+    <div class="pillars-grid reveal">
+
+      <div class="pillar-card">
+        <div class="pillar-card__icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg></div>
+        <h3 class="pillar-card__title">{{ if $isFr }}Analyse fondée sur les données{{ else if $isAr }}تحليل قائم على البيانات{{ else }}Data-Driven Analysis{{ end }}</h3>
+        <p class="pillar-card__text">{{ if $isFr }}Formation d'ingénieur (PhD): chaque décision est basée sur des comparables réels, pas sur de l'intuition.{{ else if $isAr }}خلفية هندسية (دكتوراه): كل قرار يستند إلى بيانات حقيقية، لا إلى الحدس.{{ else }}Engineering background (PhD): every decision is based on real comparables, not intuition.{{ end }}</p>
+      </div>
+
+      <div class="pillar-card">
+        <div class="pillar-card__icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div>
+        <h3 class="pillar-card__title">{{ if $isFr }}Réseau RE/MAX mondial{{ else if $isAr }}شبكة RE/MAX العالمية{{ else }}Global RE/MAX Network{{ end }}</h3>
+        <p class="pillar-card__text">{{ if $isFr }}Accès aux inscriptions MLS, aux propriétés hors marché et à un réseau de partenaires de confiance.{{ else if $isAr }}الوصول إلى إدراجات MLS والعقارات خارج السوق وشبكة من الشركاء الموثوقين.{{ else }}Access to MLS listings, off-market properties, and a network of trusted partners.{{ end }}</p>
+      </div>
+
+      <div class="pillar-card">
+        <div class="pillar-card__icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></div>
+        <h3 class="pillar-card__title">{{ if $isFr }}Communication trilingue{{ else if $isAr }}تواصل ثلاثي اللغات{{ else }}Trilingual Communication{{ end }}</h3>
+        <p class="pillar-card__text">{{ if $isFr }}Francais, anglais et arabe: je communique avec vous dans la langue où vous vous sentez le plus a l'aise.{{ else if $isAr }}الفرنسية والإنجليزية والعربية: أتواصل معك باللغة التي تشعر فيها بأكبر قدر من الراحة.{{ else }}French, English and Arabic: I communicate in the language where you feel most comfortable.{{ end }}</p>
+      </div>
+
+      <div class="pillar-card">
+        <div class="pillar-card__icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+        <h3 class="pillar-card__title">{{ if $isFr }}Protection totale de vos intérets{{ else if $isAr }}حماية كاملة لمصالحك{{ else }}Full Protection of Your Interests{{ end }}</h3>
+        <p class="pillar-card__text">{{ if $isFr }}Je travaille exclusivement pour vous: chaque négociation vise à maximiser votre avantage.{{ else if $isAr }}أعمل حصريًا لصالحك: كل تفاوض يهدف إلى تعظيم ميزتك.{{ else }}I work exclusively for you: every negotiation aims to maximize your advantage.{{ end }}</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ── FEATURED LISTINGS ── -->
+<section class="section" id="listings">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="eyebrow">{{ if $isFr }}Inscriptions actuelles{{ else if $isAr }}العقارات الحالية{{ else }}Current Listings{{ end }}</span>
+      <h2>{{ if $isFr }}Propriétés disponibles{{ else if $isAr }}عقارات متاحة{{ else }}Available Properties{{ end }}</h2>
+    </div>
+    {{ $listings := where .Site.RegularPages "Section" "listings" }}
+    {{ if $listings }}
+    <div class="listings-grid">
+      {{ range first 3 $listings }}{{ partial "listing-card.html" . }}{{ end }}
+    </div>
+    {{ else }}
+    <p class="text-center" style="color:var(--gray);padding:40px 0">
+      {{ if $isFr }}Nouvelles propriétés à venir. <a href="{{ $base }}/#contact" style="color:var(--red);font-weight:600">Contactez-moi</a> pour les disponibilités.{{ else }}<a href="/#contact" style="color:var(--red);font-weight:600">Contact me</a> for available listings.{{ end }}
+    </p>
+    {{ end }}
+    <div class="text-center mt-48 reveal">
+      <a href="{{ $base }}/listings/" class="btn btn-outline-dark">{{ if $isFr }}Voir toutes les propriétés{{ else if $isAr }}عرض جميع العقارات{{ else }}View All Properties{{ end }}</a>
+    </div>
+  </div>
+</section>
+
+<!-- ── CTA ── -->
+<section class="section section--red" style="padding:72px 0">
+  <div class="container">
+    <div style="max-width:640px;margin:0 auto;text-align:center;" class="reveal">
+      <h2 style="color:#fff;margin-bottom:16px;">
+        {{ if $isFr }}Prêt a trouver votre maison?{{ else if $isAr }}مستعد للعثور على منزلك؟{{ else }}Ready to Find Your Home?{{ end }}
+      </h2>
+      <p style="color:rgba(255,255,255,.75);margin-bottom:32px;font-size:1.05rem;">
+        {{ if $isFr }}Consultation gratuite et sans engagement. Parlons de votre projet.{{ else if $isAr }}استشارة مجانية وبدون التزام. لنتحدث عن مشروعك.{{ else }}Free, no-commitment consultation. Let's talk about your project.{{ end }}
+      </p>
+      <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;">
+        <button class="btn btn-white" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
+          {{ if $isFr }}Prendre rendez-vous{{ else if $isAr }}احجز موعداً{{ else }}Book a Consultation{{ end }}
+        </button>
+        <a href="tel:+14383720102" class="btn btn-outline">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.61 3.5 2 2 0 0 1 3.59 1.3h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L7.91 8.6a16 16 0 0 0 6 6l.85-.85a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 21.5 16z"/></svg>
+          (438) 372-0102
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

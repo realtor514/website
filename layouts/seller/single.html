@@ -1,0 +1,210 @@
+{{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $base  := "" }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
+
+<!-- ── HERO ── -->
+<section class="journey-hero">
+  <img src="{{ "images/office/exterieur_par-proprietaire.webp" | relURL }}" alt="" class="journey-hero__bg">
+  <div class="journey-hero__overlay"></div>
+  <div class="container">
+    <div class="journey-hero__inner reveal">
+      <div class="journey-hero__badge">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+        {{ if $isFr }}Guide du Vendeur{{ else if $isEs }}Guía del Vendedor{{ else if $isAr }}دليل البائع{{ else }}Seller's Guide{{ end }}
+      </div>
+      <h1 class="journey-hero__title">
+        {{ if $isFr }}Vendre au meilleur prix, sans stress{{ else if $isEs }}Venda al mejor precio, sin estrés{{ else if $isAr }}بيع بأفضل سعر، بدون توتر{{ else }}Sell for Maximum Value, Stress-Free{{ end }}
+      </h1>
+      <p class="journey-hero__subtitle">
+        {{ if $isFr }}
+          Stratégie de prix rigoureuse, mise en marché professionnelle et négociation experte pour maximiser votre résultat de vente.
+        {{ else if $isEs }}
+          Estrategia de precios rigurosa, marketing profesional y negociación experta para maximizar el resultado de su venta.
+        {{ else if $isAr }}
+          استراتيجية تسعير صارمة، تسويق احترافي وتفاوض خبير لتعظيم نتيجة بيعك.
+        {{ else }}
+          Rigorous pricing strategy, professional marketing, and expert negotiation to maximize your sale outcome.
+        {{ end }}
+      </p>
+      <div class="journey-hero__actions">
+        <a href="{{ $base }}/#contact" class="btn btn-primary">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+          {{ if $isFr }}Évaluation gratuite{{ else if $isEs }}Evaluación gratuita{{ else if $isAr }}تقييم مجاني{{ else }}Get a Free Evaluation{{ end }}
+        </a>
+        <button class="btn btn-outline" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
+          {{ if $isFr }}Prendre rendez-vous{{ else if $isEs }}Reservar una cita{{ else if $isAr }}احجز موعداً{{ else }}Book a Consultation{{ end }}
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── 4 PILLARS ── -->
+<section class="section section--dark">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="eyebrow" style="color: var(--red-light);">{{ if $isFr }}Notre approche de vente{{ else if $isEs }}Nuestro enfoque de venta{{ else if $isAr }}نهجنا في البيع{{ else }}Our Selling Approach{{ end }}</span>
+      <h2 style="color:#fff">{{ if $isFr }}4 piliers pour maximiser votre résultat{{ else if $isEs }}4 pilares para maximizar su resultado{{ else if $isAr }}4 ركائز لتعظيم نتيجتك{{ else }}4 Pillars to Maximize Your Result{{ end }}</h2>
+    </div>
+    <div class="pillars-grid reveal">
+
+      <div class="pillar-card">
+        <div class="pillar-card__icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg></div>
+        <h3 class="pillar-card__title">{{ if $isFr }}Prix juste et stratégique{{ else if $isAr }}سعر عادل واستراتيجي{{ else }}Strategic Accurate Pricing{{ end }}</h3>
+        <p class="pillar-card__text">{{ if $isFr }}Analyse approfondie des comparables récents pour fixer le prix optimal: ni trop haut (qui fait fuir les acheteurs), ni trop bas (qui vous fait perdre de l'argent).{{ else if $isAr }}تحليل معمق للمقارنات الحديثة لتحديد السعر الأمثل: لا مرتفع جداً يُبعد المشترين، ولا منخفض جداً يُخسرك أموالاً.{{ else }}Deep analysis of recent comparables to set the optimal price: not too high (which drives buyers away), not too low (which costs you money).{{ end }}</p>
+      </div>
+
+      <div class="pillar-card">
+        <div class="pillar-card__icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg></div>
+        <h3 class="pillar-card__title">{{ if $isFr }}Mise en marché professionnelle{{ else if $isAr }}تسويق احترافي{{ else }}Professional Marketing{{ end }}</h3>
+        <p class="pillar-card__text">{{ if $isFr }}Photos professionnelles, description percutante, visite virtuelle et diffusion sur tous les portails immobiliers pour attirer un maximum d'acheteurs.{{ else if $isAr }}صور احترافية، وصف مقنع، جولة افتراضية ونشر على جميع البوابات العقارية لجذب أكبر عدد من المشترين.{{ else }}Professional photos, compelling description, virtual tour, and distribution on all real estate portals to attract maximum buyers.{{ end }}</p>
+      </div>
+
+      <div class="pillar-card">
+        <div class="pillar-card__icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div>
+        <h3 class="pillar-card__title">{{ if $isFr }}Exposition maximale{{ else if $isAr }}أقصى قدر من الظهور{{ else }}Maximum Exposure{{ end }}</h3>
+        <p class="pillar-card__text">{{ if $isFr }}Réseau RE/MAX mondial, base de données d'acheteurs qualifiés et partenaires courtiers pour une visibilité inégalée sur le marché.{{ else if $isAr }}شبكة RE/MAX العالمية، قاعدة بيانات من المشترين المؤهلين والسماسرة الشركاء لرؤية لا مثيل لها في السوق.{{ else }}Global RE/MAX network, qualified buyer database, and broker partners for unmatched market visibility.{{ end }}</p>
+      </div>
+
+      <div class="pillar-card">
+        <div class="pillar-card__icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+        <h3 class="pillar-card__title">{{ if $isFr }}Négociation experte{{ else if $isAr }}تفاوض خبير{{ else }}Expert Negotiation{{ end }}</h3>
+        <p class="pillar-card__text">{{ if $isFr }}Analyse rigoureuse de chaque offre, contre-offres stratégiques et protection de vos intérets jusqu'à la signature chez le notaire.{{ else if $isAr }}تحليل صارم لكل عرض، عروض مضادة استراتيجية وحماية مصالحك حتى التوقيع عند كاتب العدل.{{ else }}Rigorous analysis of every offer, strategic counter-offers, and protection of your interests through to notary signing.{{ end }}</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ── SELLING STEPS ── -->
+<section class="section">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="eyebrow">{{ if $isFr }}Processus de vente{{ else if $isEs }}Proceso de venta{{ else if $isAr }}عملية البيع{{ else }}Selling Process{{ end }}</span>
+      <h2>{{ if $isFr }}Votre vente, étape par étape{{ else if $isEs }}Su venta, paso a paso{{ else if $isAr }}بيعك، خطوة بخطوة{{ else }}Your Sale, Step by Step{{ end }}</h2>
+      <p class="subtitle">
+        {{ if $isFr }}Un processus éprouvé pour vendre rapidement et au meilleur prix.{{ else if $isAr }}عملية مجربة للبيع بسرعة وبأفضل سعر.{{ else }}A proven process to sell quickly and at the best price.{{ end }}
+      </p>
+    </div>
+    <div class="steps-grid reveal">
+
+      <div class="step-card">
+        <span class="step-card__num">1</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Évaluation gratuite{{ else if $isAr }}التقييم المجاني{{ else }}Free Evaluation{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Analyse comparative du marché (ACM) pour déterminer la valeur réelle de votre propriété, sans obligation.{{ else if $isAr }}تحليل مقارن للسوق لتحديد القيمة الحقيقية لعقارك، دون أي التزام.{{ else }}Comparative market analysis (CMA) to determine your property's true value, with no obligation.{{ end }}</p>
+      </div>
+
+      <div class="step-card">
+        <span class="step-card__num">2</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Préparation de la propriété{{ else if $isAr }}تحضير العقار{{ else }}Property Preparation{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Conseils de home staging, petits travaux prioritaires et conseils pour maximiser l'attrait de votre propriété.{{ else if $isAr }}نصائح الإخراج المنزلي، الأعمال الصغيرة ذات الأولوية لزيادة جاذبية عقارك.{{ else }}Home staging advice, priority repairs, and tips to maximize your property's appeal.{{ end }}</p>
+      </div>
+
+      <div class="step-card">
+        <span class="step-card__num">3</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Photos et visite virtuelle{{ else if $isAr }}الصور والجولة الافتراضية{{ else }}Photos & Virtual Tour{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Prise de vue professionnelle pour mettre en valeur chaque aspect de votre propriété et attirer des acheteurs sérieux.{{ else if $isAr }}تصوير احترافي لإبراز كل جانب من جوانب عقارك وجذب مشترين جادين.{{ else }}Professional photography to showcase every aspect of your property and attract serious buyers.{{ end }}</p>
+      </div>
+
+      <div class="step-card">
+        <span class="step-card__num">4</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M18 8h1a4 4 0 0 1 0 8h-1"/><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Lancement de la mise en marché{{ else if $isAr }}إطلاق التسويق{{ else }}Marketing Launch{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Diffusion sur Centris/MLS, Realtor.ca, réseaux sociaux et portails internationaux pour une visibilité maximale.{{ else if $isAr }}النشر على Centris/MLS وRealtor.ca والشبكات الاجتماعية والبوابات الدولية لأقصى رؤية.{{ else }}Listed on Centris/MLS, Realtor.ca, social media, and international portals for maximum visibility.{{ end }}</p>
+      </div>
+
+      <div class="step-card">
+        <span class="step-card__num">5</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Visites et offres{{ else if $isAr }}الزيارات والعروض{{ else }}Showings & Offers{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Organisation des visites, filtrage des acheteurs sérieux et gestion des offres d'achat avec rigueur.{{ else if $isAr }}تنظيم الزيارات، تصفية المشترين الجادين وإدارة عروض الشراء بدقة.{{ else }}Visit scheduling, screening of serious buyers, and rigorous management of purchase offers.{{ end }}</p>
+      </div>
+
+      <div class="step-card">
+        <span class="step-card__num">6</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Négociation stratégique{{ else if $isAr }}التفاوض الاستراتيجي{{ else }}Strategic Negotiation{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Contre-offres calculées, analyse des conditions et protection de votre position pour obtenir le maximum.{{ else if $isAr }}عروض مضادة محسوبة، تحليل الشروط وحماية موقفك للحصول على أقصى قيمة.{{ else }}Calculated counter-offers, condition analysis, and position protection to get you the maximum.{{ end }}</p>
+      </div>
+
+      <div class="step-card">
+        <span class="step-card__num">7</span>
+        <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg></div>
+        <div class="step-card__title">{{ if $isFr }}Offre acceptée{{ else if $isAr }}القبول بالعرض{{ else }}Offer Accepted{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Gestion des conditions (inspection, financement), coordination avec les avocats et suivi rigoureux jusqu'a la clôture.{{ else if $isAr }}إدارة الشروط (الفحص، التمويل)، التنسيق مع المحامين والمتابعة الدقيقة حتى الإغلاق.{{ else }}Condition management (inspection, financing), lawyer coordination, and rigorous follow-up through to closing.{{ end }}</p>
+      </div>
+
+      <div class="step-card" style="border-color: rgba(176,0,0,.3); background: linear-gradient(135deg, #fff 80%, rgba(176,0,0,.04) 100%);">
+        <span class="step-card__num">8</span>
+        <div class="step-card__icon" style="background: rgba(176,0,0,.15);"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div>
+        <div class="step-card__title" style="color: var(--red);">{{ if $isFr }}Passage de titre et argent!{{ else if $isAr }}نقل الملكية والمال!{{ else }}Title Transfer & Funds!{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Signature chez le notaire et reception de votre produit de vente net. Transaction completee avec succes.{{ else if $isAr }}التوقيع عند كاتب العدل واستلام صافي عائد البيع. اكتملت المعاملة بنجاح.{{ else }}Notary signing and receipt of your net sale proceeds. Transaction completed successfully.{{ end }}</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ── RENT VS BUY TOOL ── -->
+<section class="section section--light">
+  <div class="container">
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center;" class="reveal">
+      <div>
+        <span class="eyebrow">{{ if $isFr }}Outil pour vendeurs{{ else if $isAr }}أداة للبائعين{{ else }}Tool for Sellers{{ end }}</span>
+        <h2>{{ if $isFr }}Louer vs Acheter{{ else if $isAr }}الإيجار مقابل الشراء{{ else }}Rent vs Buy Analysis{{ end }}</h2>
+        <p>{{ if $isFr }}Vous hesitez entre louer et acheter votre prochain chez-vous apres la vente? Notre calculateur vous donne une comparaison claire basee sur votre situation.{{ else if $isAr }}هل تتردد بين الإيجار والشراء لمنزلك التالي بعد البيع؟ حاسبتنا تعطيك مقارنة واضحة بناءً على وضعك.{{ else }}Unsure whether to rent or buy your next home after the sale? Our calculator gives you a clear comparison based on your situation.{{ end }}</p>
+        <a href="{{ $base }}/#tools" class="btn btn-outline-dark" style="margin-top:8px;">
+          {{ if $isFr }}Utiliser le calculateur{{ else if $isAr }}استخدم الحاسبة{{ else }}Use the Calculator{{ end }}
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+      </div>
+      <div style="background:var(--navy);border-radius:var(--radius-xl);padding:40px;color:#fff;">
+        <h3 style="color:#fff;margin-bottom:20px;font-size:1.1rem;">{{ if $isFr }}Ce que vous obtenez avec moi{{ else if $isAr }}ما تحصل عليه معي{{ else }}What You Get With Me{{ end }}</h3>
+        {{ $items := slice }}
+        {{ if $isFr }}
+          {{ $items = slice "Evaluation gratuite et sans pression" "Strategie de prix fondee sur les donnees" "Photos et visite virtuelle professionnelles" "Diffusion sur tous les portails immobiliers" "Negociation rigoureuse en votre faveur" "Accompagnement complet jusqu'a la cle" }}
+        {{ else if $isAr }}
+          {{ $items = slice "تقييم مجاني وبدون ضغط" "استراتيجية تسعير قائمة على البيانات" "صور وجولة افتراضية احترافية" "نشر على جميع البوابات العقارية" "تفاوض صارم لصالحك" "مرافقة كاملة حتى نقل الملكية" }}
+        {{ else }}
+          {{ $items = slice "Free, no-pressure evaluation" "Data-driven pricing strategy" "Professional photos and virtual tour" "Listed on all real estate portals" "Rigorous negotiation in your favour" "Full support through to closing" }}
+        {{ end }}
+        {{ range $items }}
+        <div style="display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid rgba(255,255,255,.07);">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--red-light)" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>
+          <span style="color:rgba(255,255,255,.8);font-size:.9rem;">{{ . }}</span>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── CTA ── -->
+<section class="section section--red" style="padding:72px 0">
+  <div class="container">
+    <div style="max-width:640px;margin:0 auto;text-align:center;" class="reveal">
+      <h2 style="color:#fff;margin-bottom:16px;">
+        {{ if $isFr }}Quelle est la valeur de votre propriété?{{ else if $isAr }}ما هي قيمة عقارك؟{{ else }}What Is Your Property Worth?{{ end }}
+      </h2>
+      <p style="color:rgba(255,255,255,.75);margin-bottom:32px;font-size:1.05rem;">
+        {{ if $isFr }}Obtenez une évaluation gratuite et sans engagement de la valeur marchande de votre propriété.{{ else if $isAr }}احصل على تقييم مجاني وبدون التزام للقيمة السوقية لعقارك.{{ else }}Get a free, no-obligation evaluation of your property's market value.{{ end }}
+      </p>
+      <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;">
+        <a href="{{ $base }}/#contact" class="btn btn-white">
+          {{ if $isFr }}Évaluation gratuite{{ else if $isAr }}تقييم مجاني{{ else }}Free Evaluation{{ end }}
+        </a>
+        <button class="btn btn-outline" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
+          {{ if $isFr }}Prendre rendez-vous{{ else if $isAr }}احجز موعداً{{ else }}Book a Meeting{{ end }}
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

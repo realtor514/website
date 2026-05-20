@@ -7,6 +7,85 @@
 
 {{ partial "hero.html" . }}
 
+<!-- ── BUYER / SELLER SPLIT ── -->
+<section class="section" style="padding:64px 0;background:var(--off-white)">
+  <div class="container">
+    <div class="section-header reveal" style="margin-bottom:40px;">
+      <span class="eyebrow">{{ if $isFr }}Votre parcours commence ici{{ else if $isAr }}رحلتك تبدأ هنا{{ else if $isEs }}Su viaje comienza aquí{{ else }}Your Journey Starts Here{{ end }}</span>
+      <h2>{{ if $isFr }}Comment puis-je vous aider?{{ else if $isAr }}كيف يمكنني مساعدتك؟{{ else if $isEs }}¿Cómo puedo ayudarle?{{ else }}How Can I Help You?{{ end }}</h2>
+    </div>
+    <div class="journey-split reveal">
+
+      <div class="journey-split__panel journey-split__panel--buyer">
+        <span class="journey-split__eyebrow">{{ if $isFr }}Vous achetez{{ else if $isAr }}أنت تشتري{{ else if $isEs }}Usted compra{{ else }}You're Buying{{ end }}</span>
+        <h3 class="journey-split__title">
+          {{ if $isFr }}Trouvez la propriété parfaite{{ else if $isAr }}اعثر على العقار المثالي{{ else if $isEs }}Encuentre la propiedad perfecta{{ else }}Find Your Perfect Property{{ end }}
+        </h3>
+        <p class="journey-split__text">
+          {{ if $isFr }}De la recherche à la remise des clés, un accompagnement expert à chaque étape du processus d'achat.{{ else if $isAr }}من البحث حتى استلام المفاتيح، مرافقة خبيرة في كل خطوة من عملية الشراء.{{ else if $isEs }}Desde la búsqueda hasta las llaves, acompañamiento experto en cada paso del proceso de compra.{{ else }}From search to keys in hand, expert guidance at every step of the buying process.{{ end }}
+        </p>
+        <div class="journey-split__features">
+          {{ if $isFr }}
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Analyse du marché et comparables</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Calculateurs hypothécaires gratuits</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Négociation en votre faveur</div>
+          {{ else if $isAr }}
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>تحليل السوق والمقارنات</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>حاسبات الرهن العقاري المجانية</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>تفاوض لصالحك</div>
+          {{ else if $isEs }}
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Análisis de mercado y comparables</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Calculadoras hipotecarias gratuitas</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Negociación a su favor</div>
+          {{ else }}
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Market analysis and comparables</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Free mortgage calculators</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Negotiation in your favour</div>
+          {{ end }}
+        </div>
+        <a href="{{ $base }}/buyer/" class="btn btn-outline" style="align-self:flex-start;margin-top:8px;">
+          {{ if $isFr }}Guide de l'acheteur{{ else if $isAr }}دليل المشتري{{ else if $isEs }}Guía del comprador{{ else }}Buyer's Guide{{ end }}
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+      </div>
+
+      <div class="journey-split__panel journey-split__panel--seller">
+        <span class="journey-split__eyebrow">{{ if $isFr }}Vous vendez{{ else if $isAr }}أنت تبيع{{ else if $isEs }}Usted vende{{ else }}You're Selling{{ end }}</span>
+        <h3 class="journey-split__title">
+          {{ if $isFr }}Vendez au meilleur prix{{ else if $isAr }}بع بأفضل سعر{{ else if $isEs }}Venda al mejor precio{{ else }}Sell for Maximum Value{{ end }}
+        </h3>
+        <p class="journey-split__text">
+          {{ if $isFr }}Stratégie de prix rigoureuse, mise en marché professionnelle et négociation experte pour maximiser votre résultat.{{ else if $isAr }}استراتيجية تسعير صارمة، تسويق احترافي وتفاوض خبير لتعظيم نتيجتك.{{ else if $isEs }}Estrategia de precios rigurosa, marketing profesional y negociación experta para maximizar su resultado.{{ else }}Rigorous pricing strategy, professional marketing, and expert negotiation to maximize your result.{{ end }}
+        </p>
+        <div class="journey-split__features">
+          {{ if $isFr }}
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Évaluation gratuite et sans pression</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Photos professionnelles incluses</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Diffusion sur tous les portails MLS</div>
+          {{ else if $isAr }}
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>تقييم مجاني وبدون ضغط</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>صور احترافية مشمولة</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>النشر على جميع بوابات MLS</div>
+          {{ else if $isEs }}
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Evaluación gratuita y sin presión</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Fotos profesionales incluidas</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Publicación en todos los portales MLS</div>
+          {{ else }}
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Free, no-pressure evaluation</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Professional photos included</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Listed on all MLS portals</div>
+          {{ end }}
+        </div>
+        <a href="{{ $base }}/seller/" class="btn btn-white" style="align-self:flex-start;margin-top:8px;">
+          {{ if $isFr }}Guide du vendeur{{ else if $isAr }}دليل البائع{{ else if $isEs }}Guía del vendedor{{ else }}Seller's Guide{{ end }}
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
 {{ partial "services.html" . }}
 
 <!-- Stats bar -->

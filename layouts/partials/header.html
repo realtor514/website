@@ -3,9 +3,31 @@
 {{ $isEs := eq .Lang "es" }}
 {{ $homeURL := "/" }}
 {{ if $isFr }}{{ $homeURL = "/fr/" }}{{ else if $isAr }}{{ $homeURL = "/ar/" }}{{ else if $isEs }}{{ $homeURL = "/es/" }}{{ end }}
+{{ $base := "" }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
+
+{{/* ── Dropdown item metadata by identifier ── */}}
+{{ $ddMeta := dict
+  "buyer-guide"    (dict "desc" (cond $isFr "Feuille de route complète" (cond $isEs "Guía completa de compra" (cond $isAr "دليل الشراء الكامل" "Complete buying roadmap"))))
+  "buyer-props"    (dict "desc" (cond $isFr "Parcourir les inscriptions" (cond $isEs "Ver propiedades disponibles" (cond $isAr "تصفح العقارات المتاحة" "Browse available listings"))))
+  "buyer-mortgage" (dict "desc" (cond $isFr "Estimez vos versements" (cond $isEs "Calcule sus pagos" (cond $isAr "احسب أقساطك الشهرية" "Estimate your payments"))))
+  "buyer-afford"   (dict "desc" (cond $isFr "Combien puis-je emprunter?" (cond $isEs "¿Cuánto puedo pagar?" (cond $isAr "كم يمكنني اقتراضه؟" "How much can I borrow?"))))
+  "buyer-costs"    (dict "desc" (cond $isFr "Tous les frais à la clôture" (cond $isEs "Todos los gastos de cierre" (cond $isAr "تكاليف الإغلاق كاملة" "All fees at closing"))))
+  "seller-guide"   (dict "desc" (cond $isFr "Stratégie de vente gagnante" (cond $isEs "Estrategia ganadora de venta" (cond $isAr "استراتيجية البيع الرابحة" "Your winning sale strategy"))))
+  "seller-eval"    (dict "desc" (cond $isFr "Valeur marchande de votre bien" (cond $isEs "Valor de mercado de su propiedad" (cond $isAr "القيمة السوقية لعقارك" "Your property's market value"))))
+  "seller-rvb"     (dict "desc" (cond $isFr "Comparez le coût réel" (cond $isEs "Compare el costo real" (cond $isAr "قارن التكلفة الحقيقية" "Compare the true cost"))))
+  "seller-market"  (dict "desc" (cond $isFr "Données et tendances du marché" (cond $isEs "Datos y tendencias del mercado" (cond $isAr "بيانات واتجاهات السوق" "Market data and trends"))))
+  "about-me"       (dict "desc" (cond $isFr "Mon parcours et mon approche" (cond $isEs "Mi trayectoria y enfoque" (cond $isAr "مساري وأسلوبي" "My background and approach"))))
+  "about-blog"     (dict "desc" (cond $isFr "Conseils et actualités" (cond $isEs "Consejos y noticias" (cond $isAr "نصائح وأخبار العقارات" "Tips and market news"))))
+  "about-network"  (dict "desc" (cond $isFr "Partenaires de confiance" (cond $isEs "Socios de confianza" (cond $isAr "شركاء موثوقون" "Trusted partners"))))
+  "about-contact"  (dict "desc" (cond $isFr "Parlons de votre projet" (cond $isEs "Hablemos de su proyecto" (cond $isAr "تحدث معي عن مشروعك" "Let's talk about your project"))))
+}}
+
 <nav class="nav" role="navigation" aria-label="Main navigation">
   <div class="container">
     <div class="nav__inner">
+
+      {{/* ── Logo ── */}}
       <a href="{{ $homeURL }}" class="nav__logo">
         <div class="nav__logo-badge">
           <img src="{{ "images/remax-logo.png" | relURL }}"
@@ -18,19 +40,80 @@
         </div>
       </a>
 
-      <button class="nav__toggle" id="navToggle" aria-label="Toggle menu">
+      {{/* ── Mobile hamburger ── */}}
+      <button class="nav__toggle" id="navToggle" aria-label="Toggle menu" aria-expanded="false">
         <span></span><span></span><span></span>
       </button>
 
+      {{/* ── Main menu ── */}}
       <ul class="nav__menu" id="navMenu">
+
         {{ range .Site.Menus.main }}
-        <li>
-          <a href="{{ .URL }}" class="nav__link{{ if eq .Name "Contact" }} nav__cta{{ else if eq .Name "Contacto" }} nav__cta{{ else if eq .Name "تواصل" }} nav__cta{{ end }}">
+        {{ if .HasChildren }}
+        {{/* ── Parent item with dropdown ── */}}
+        <li class="nav__item nav__item--dropdown">
+          <button class="nav__link nav__parent-btn" aria-expanded="false" data-dropdown>
             {{ .Name }}
-          </a>
+            <svg class="nav__chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+              <polyline points="6 9 12 15 18 9"/>
+            </svg>
+          </button>
+          <div class="nav__dropdown" role="menu">
+            {{ range .Children }}
+            {{ $meta := index $ddMeta .Identifier }}
+            <a href="{{ .URL }}" class="nav__dd-item" role="menuitem">
+              <span class="nav__dd-icon" aria-hidden="true">
+                {{- if or (eq .Identifier "buyer-guide") (eq .Identifier "seller-guide") -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+                {{- else if eq .Identifier "buyer-props" -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                {{- else if or (eq .Identifier "buyer-mortgage") (eq .Identifier "buyer-afford") (eq .Identifier "buyer-costs") (eq .Identifier "seller-rvb") -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+                {{- else if eq .Identifier "seller-eval" -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+                {{- else if eq .Identifier "seller-market" -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+                {{- else if eq .Identifier "about-me" -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+                {{- else if eq .Identifier "about-blog" -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+                {{- else if eq .Identifier "about-network" -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+                {{- else if eq .Identifier "about-contact" -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+                {{- else -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+                {{- end -}}
+              </span>
+              <span class="nav__dd-text">
+                <span class="nav__dd-name">{{ .Name }}</span>
+                {{ with $meta }}{{ with .desc }}<span class="nav__dd-desc">{{ . }}</span>{{ end }}{{ end }}
+              </span>
+            </a>
+            {{ end }}
+          </div>
+        </li>
+
+        {{ else }}
+        {{/* ── Regular menu item ── */}}
+        <li class="nav__item">
+          <a href="{{ .URL }}" class="nav__link">{{ .Name }}</a>
         </li>
         {{ end }}
+        {{ end }}
 
+        {{/* ── Book a Meeting CTA ── */}}
+        <li class="nav__item nav__item--cta">
+          <button class="btn btn-primary nav__book-btn" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+              <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
+            </svg>
+            {{ if $isFr }}Réserver{{ else if $isAr }}احجز موعداً{{ else if $isEs }}Reservar{{ else }}Book a Call{{ end }}
+          </button>
+        </li>
+
+        {{/* ── Language switcher ── */}}
         <li class="lang-switch">
           {{ if $isFr }}
             <a href="/" class="lang-btn" title="English">EN</a>
@@ -66,7 +149,73 @@
             <a href="/ar/" class="lang-btn" title="العربية">AR</a>
           {{ end }}
         </li>
-      </ul>
-    </div>
+
+      </ul><!-- /nav__menu -->
+    </div><!-- /nav__inner -->
   </div>
 </nav>
+
+<script>
+(function () {
+  'use strict';
+
+  // ── Desktop: hover-based dropdowns ──
+  document.querySelectorAll('.nav__item--dropdown').forEach(function (item) {
+    var btn = item.querySelector('[data-dropdown]');
+    var dd  = item.querySelector('.nav__dropdown');
+
+    // Open on hover (desktop)
+    item.addEventListener('mouseenter', function () {
+      btn.setAttribute('aria-expanded', 'true');
+      item.classList.add('is-open');
+    });
+    item.addEventListener('mouseleave', function () {
+      btn.setAttribute('aria-expanded', 'false');
+      item.classList.remove('is-open');
+    });
+
+    // Toggle on click (touch / mobile)
+    btn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      var open = item.classList.toggle('is-open');
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      // Close siblings
+      document.querySelectorAll('.nav__item--dropdown').forEach(function (other) {
+        if (other !== item) {
+          other.classList.remove('is-open');
+          var ob = other.querySelector('[data-dropdown]');
+          if (ob) ob.setAttribute('aria-expanded', 'false');
+        }
+      });
+    });
+  });
+
+  // Close dropdowns when clicking outside
+  document.addEventListener('click', function () {
+    document.querySelectorAll('.nav__item--dropdown.is-open').forEach(function (item) {
+      item.classList.remove('is-open');
+      var btn = item.querySelector('[data-dropdown]');
+      if (btn) btn.setAttribute('aria-expanded', 'false');
+    });
+  });
+
+  // ── Mobile hamburger ──
+  var toggle = document.getElementById('navToggle');
+  var menu   = document.getElementById('navMenu');
+  if (toggle && menu) {
+    toggle.addEventListener('click', function () {
+      var open = menu.classList.toggle('is-open');
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      document.body.style.overflow = open ? 'hidden' : '';
+    });
+    // Close on nav link click (not dropdown buttons)
+    menu.querySelectorAll('a').forEach(function (a) {
+      a.addEventListener('click', function () {
+        menu.classList.remove('is-open');
+        toggle.setAttribute('aria-expanded', 'false');
+        document.body.style.overflow = '';
+      });
+    });
+  }
+})();
+</script>
