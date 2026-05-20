@@ -1,0 +1,346 @@
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+
+<div class="mc-card">
+  <p class="mc-tool-desc">
+    {{ if $isFr }}Comparez la richesse nette accumulée selon que vous achetez ou louez sur un horizon donné, en tenant compte de l'appréciation immobilière, du rendement des placements et de l'évolution du loyer.{{ else if $isAr }}قارن صافي الثروة المتراكمة بين الشراء والاستئجار على مدى زمني معين، مع مراعاة تقدير قيمة العقار وعائد الاستثمار وتطور الإيجار.{{ else }}Compare net wealth accumulated from buying vs. renting over a given horizon, accounting for property appreciation, investment returns, and rent growth.{{ end }}
+  </p>
+
+  <!-- Buy scenario -->
+  <p class="mc-tool-section-title">
+    {{ if $isFr }}Scénario d'achat{{ else if $isAr }}سيناريو الشراء{{ else }}Buy scenario{{ end }}
+  </p>
+  <div class="mc-row mc-row--3">
+    <div class="mc-field">
+      <label class="mc-label" for="rvb-price">
+        {{ if $isFr }}Prix de la propriété{{ else if $isAr }}سعر العقار{{ else }}Property price{{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix">$</span>
+        <input class="mc-input" id="rvb-price" type="text" inputmode="numeric" placeholder="450,000">
+      </div>
+    </div>
+    <div class="mc-field">
+      <label class="mc-label" for="rvb-down">
+        {{ if $isFr }}Mise de fonds{{ else if $isAr }}الدفعة الأولى{{ else }}Down payment{{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix">$</span>
+        <input class="mc-input" id="rvb-down" type="text" inputmode="numeric" placeholder="90,000">
+      </div>
+    </div>
+    <div class="mc-field">
+      <label class="mc-label" for="rvb-rate">
+        {{ if $isFr }}Taux d'intérêt (%){{ else if $isAr }}معدل الفائدة (%){{ else }}Interest rate (%){{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix mc-prefix--pct">%</span>
+        <input class="mc-input" id="rvb-rate" type="number" step="0.05" min="0" max="30" value="5.5">
+      </div>
+    </div>
+  </div>
+
+  <div class="mc-row mc-row--3">
+    <div class="mc-field">
+      <label class="mc-label" for="rvb-amort">
+        {{ if $isFr }}Amortissement (ans){{ else if $isAr }}فترة الإطفاء (سنوات){{ else }}Amortization (yrs){{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="rvb-amort">
+          {{ range slice 5 10 15 20 25 30 }}
+          <option value="{{ . }}"{{ if eq . 25 }} selected{{ end }}>{{ . }} {{ if $isFr }}ans{{ else if $isAr }}سنة{{ else }}yrs{{ end }}</option>
+          {{ end }}
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+    <div class="mc-field">
+      <label class="mc-label" for="rvb-appreciation">
+        {{ if $isFr }}Appréciation annuelle (%){{ else if $isAr }}تقدير سنوي (%){{ else }}Annual appreciation (%){{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix mc-prefix--pct">%</span>
+        <input class="mc-input" id="rvb-appreciation" type="number" step="0.1" min="0" max="20" value="3.0">
+      </div>
+    </div>
+    <div class="mc-field">
+      <label class="mc-label" for="rvb-proptax">
+        {{ if $isFr }}Taxe foncière mensuelle{{ else if $isAr }}الضريبة العقارية الشهرية{{ else }}Monthly property tax{{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix">$</span>
+        <input class="mc-input" id="rvb-proptax" type="text" inputmode="numeric" placeholder="300">
+      </div>
+    </div>
+  </div>
+
+  <!-- Rent scenario -->
+  <p class="mc-tool-section-title">
+    {{ if $isFr }}Scénario de location{{ else if $isAr }}سيناريو الاستئجار{{ else }}Rent scenario{{ end }}
+  </p>
+  <div class="mc-row mc-row--3">
+    <div class="mc-field">
+      <label class="mc-label" for="rvb-rent">
+        {{ if $isFr }}Loyer mensuel actuel{{ else if $isAr }}الإيجار الشهري الحالي{{ else }}Current monthly rent{{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix">$</span>
+        <input class="mc-input" id="rvb-rent" type="text" inputmode="numeric" placeholder="2,000">
+      </div>
+    </div>
+    <div class="mc-field">
+      <label class="mc-label" for="rvb-rentincrease">
+        {{ if $isFr }}Hausse annuelle du loyer (%){{ else if $isAr }}الزيادة السنوية في الإيجار (%){{ else }}Annual rent increase (%){{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix mc-prefix--pct">%</span>
+        <input class="mc-input" id="rvb-rentincrease" type="number" step="0.1" min="0" max="20" value="3.0">
+      </div>
+    </div>
+    <div class="mc-field">
+      <label class="mc-label" for="rvb-invest">
+        {{ if $isFr }}Rendement annuel du placement (%){{ else if $isAr }}العائد السنوي على الاستثمار (%){{ else }}Annual investment return (%){{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix mc-prefix--pct">%</span>
+        <input class="mc-input" id="rvb-invest" type="number" step="0.1" min="0" max="30" value="6.0">
+      </div>
+    </div>
+  </div>
+
+  <!-- Horizon -->
+  <div class="mc-row mc-row--2">
+    <div class="mc-field">
+      <label class="mc-label" for="rvb-years">
+        {{ if $isFr }}Horizon de comparaison{{ else if $isAr }}أفق المقارنة{{ else }}Comparison horizon{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="rvb-years">
+          {{ if $isFr }}
+            <option value="5">5 ans</option>
+            <option value="10">10 ans</option>
+            <option value="15">15 ans</option>
+            <option value="20" selected>20 ans</option>
+            <option value="25">25 ans</option>
+            <option value="30">30 ans</option>
+          {{ else if $isAr }}
+            <option value="5">5 سنوات</option>
+            <option value="10">10 سنوات</option>
+            <option value="15">15 سنوات</option>
+            <option value="20" selected>20 سنة</option>
+            <option value="25">25 سنة</option>
+            <option value="30">30 سنة</option>
+          {{ else }}
+            <option value="5">5 years</option>
+            <option value="10">10 years</option>
+            <option value="15">15 years</option>
+            <option value="20" selected>20 years</option>
+            <option value="25">25 years</option>
+            <option value="30">30 years</option>
+          {{ end }}
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="mc-actions">
+    <button class="btn btn-primary mc-btn-calc" id="rvb-calculate" type="button">
+      {{ if $isFr }}Comparer{{ else if $isAr }}قارن{{ else }}Compare{{ end }}
+    </button>
+  </div>
+
+  <div class="mc-results" id="rvb-results" aria-live="polite">
+    <div class="mc-results__divider"></div>
+
+    <div class="mc-headline-results">
+      <div class="mc-headline-block" id="rvb-hl-buy">
+        <span class="mc-headline-block__label">
+          {{ if $isFr }}Valeur nette (achat){{ else if $isAr }}صافي الثروة (شراء){{ else }}Net Worth (Buy){{ end }}
+        </span>
+        <span class="mc-headline-block__value" id="rvb-equity-final">—</span>
+        <span class="mc-headline-block__freq" id="rvb-buy-sub">—</span>
+      </div>
+      <div class="mc-headline-block mc-headline-block--payment" id="rvb-hl-rent">
+        <span class="mc-headline-block__label">
+          {{ if $isFr }}Richesse (location){{ else if $isAr }}الثروة (استئجار){{ else }}Wealth (Rent){{ end }}
+        </span>
+        <span class="mc-headline-block__value mc-headline-block__value--payment" id="rvb-renter-final">—</span>
+        <span class="mc-headline-block__freq" id="rvb-rent-sub">—</span>
+      </div>
+    </div>
+
+    <h3 class="mc-results__title" id="rvb-verdict"></h3>
+
+    <div class="mc-table-wrap">
+      <table class="mc-table">
+        <thead>
+          <tr>
+            <th class="mc-th" style="text-align:center;width:60px">
+              {{ if $isFr }}Année{{ else if $isAr }}السنة{{ else }}Year{{ end }}
+            </th>
+            <th class="mc-th mc-th--col">
+              {{ if $isFr }}Valeur propriété{{ else if $isAr }}قيمة العقار{{ else }}Property Value{{ end }}
+            </th>
+            <th class="mc-th mc-th--col">
+              {{ if $isFr }}Équité (achat){{ else if $isAr }}حقوق الملكية{{ else }}Equity (Buy){{ end }}
+            </th>
+            <th class="mc-th mc-th--col">
+              {{ if $isFr }}Richesse (location){{ else if $isAr }}الثروة (إيجار){{ else }}Wealth (Rent){{ end }}
+            </th>
+            <th class="mc-th mc-th--col">
+              {{ if $isFr }}Gagnant{{ else if $isAr }}الفائز{{ else }}Winner{{ end }}
+            </th>
+          </tr>
+        </thead>
+        <tbody id="rvb-tbody"></tbody>
+      </table>
+    </div>
+
+    <p class="mc-results__disclaimer">
+      {{ if $isFr }}
+        * Simulation simplifiée. L'équité achat = valeur propriété - solde hypothécaire. La richesse location = mise de fonds investie + économies mensuelles réinvesties au taux de placement indiqué. Entretien estimé à 1 % de la valeur initiale par an. Non pris en compte : frais de transaction, impôts sur gains en capital, assurance, etc. À titre indicatif seulement.
+      {{ else if $isAr }}
+        * محاكاة مبسطة. حقوق الملكية (شراء) = قيمة العقار - رصيد الرهن. الثروة (استئجار) = الدفعة الأولى المستثمرة + المدخرات الشهرية المعاد استثمارها بالمعدل المحدد. الصيانة مقدرة بـ 1% من القيمة الأولية سنوياً. غير مشمول: رسوم المعاملات، ضرائب الأرباح الرأسمالية، التأمين، إلخ. للإرشاد فقط.
+      {{ else }}
+        * Simplified simulation. Buy equity = property value - mortgage balance. Rent wealth = down payment invested + monthly savings re-invested at the stated return rate. Maintenance estimated at 1% of initial value per year. Not included: transaction fees, capital gains tax, insurance, etc. For informational purposes only.
+      {{ end }}
+    </p>
+  </div>
+
+</div>
+
+<script>
+(function () {
+  var u    = window._toolsUtils;
+  var lang = document.documentElement.lang || 'en';
+
+  document.getElementById('rvb-calculate').addEventListener('click', function () {
+    var priceEl = document.getElementById('rvb-price');
+    var price   = u.parseMoney(priceEl.value);
+    if (price <= 0) {
+      priceEl.style.outline = '2px solid var(--red)';
+      priceEl.focus();
+      setTimeout(function () { priceEl.style.outline = ''; }, 2000);
+      return;
+    }
+
+    var down         = u.parseMoney(document.getElementById('rvb-down').value);
+    var rate         = parseFloat(document.getElementById('rvb-rate').value) || 5.5;
+    var amortYears   = parseInt(document.getElementById('rvb-amort').value) || 25;
+    var appreciation = parseFloat(document.getElementById('rvb-appreciation').value) || 3.0;
+    var propTax      = u.parseMoney(document.getElementById('rvb-proptax').value) || 300;
+    var rent0        = u.parseMoney(document.getElementById('rvb-rent').value);
+    var rentInc      = parseFloat(document.getElementById('rvb-rentincrease').value) || 3.0;
+    var investReturn = parseFloat(document.getElementById('rvb-invest').value) || 6.0;
+    var years        = parseInt(document.getElementById('rvb-years').value) || 20;
+
+    var ppy      = 12;
+    var r        = u.effectiveRate(rate, ppy);
+    var N        = amortYears * ppy;
+    var downPct  = (down / price) * 100;
+    var cmhc     = u.calcCMHC(price, price - down, downPct);
+    var initLoan = price - down + cmhc;
+    var payment  = r === 0 ? initLoan / N : initLoan * r * Math.pow(1+r,N) / (Math.pow(1+r,N) - 1);
+    var annualMaint = price * 0.01;
+
+    var propValue    = price;
+    var mortBalance  = initLoan;
+    var renterWealth = down;
+    var monthlyRent  = rent0;
+    var invR         = Math.pow(1 + investReturn / 100, 1/12) - 1;
+    var appR         = Math.pow(1 + appreciation  / 100, 1/12) - 1;
+
+    var tableRows = [];
+
+    for (var month = 1; month <= years * 12; month++) {
+      propValue   *= (1 + appR);
+      if (mortBalance > 0) {
+        var interest  = mortBalance * r;
+        var principal = Math.min(mortBalance, payment - interest);
+        mortBalance   = Math.max(0, mortBalance - principal);
+      }
+      var buyerCost  = (mortBalance <= 0 ? 0 : payment) + propTax + annualMaint / 12;
+      renterWealth   = renterWealth * (1 + invR) + (buyerCost - monthlyRent);
+
+      if (month % 12 === 0) {
+        monthlyRent *= (1 + rentInc / 100);
+        tableRows.push({
+          year:         month / 12,
+          propValue:    propValue,
+          mortBalance:  mortBalance,
+          equity:       propValue - mortBalance,
+          renterWealth: renterWealth
+        });
+      }
+    }
+
+    var lastRow    = tableRows[tableRows.length - 1];
+    var buyWins    = lastRow.equity > lastRow.renterWealth;
+    var difference = Math.abs(lastRow.equity - lastRow.renterWealth);
+
+    /* Verdict */
+    var verdictMap = {
+      buyAhead: { en: 'After {Y} years, buying builds {D} more wealth than renting',
+                  fr: 'Après {Y} ans, acheter génère {D} de richesse de plus que louer',
+                  ar: 'بعد {Y} سنة، الشراء يبني ثروة أكثر بـ {D} مقارنة بالاستئجار' },
+      rentAhead:{ en: 'After {Y} years, renting builds {D} more wealth than buying',
+                  fr: "Après {Y} ans, louer génère {D} de richesse de plus qu'acheter",
+                  ar: 'بعد {Y} سنة، الاستئجار يبني ثروة أكثر بـ {D} مقارنة بالشراء' }
+    };
+    var template = (buyWins ? verdictMap.buyAhead : verdictMap.rentAhead)[lang] || (buyWins ? verdictMap.buyAhead : verdictMap.rentAhead)['en'];
+    var verdict  = template.replace('{Y}', years).replace('{D}', u.fmt(difference));
+    document.getElementById('rvb-verdict').textContent = verdict;
+
+    /* Headline blocks */
+    document.getElementById('rvb-equity-final').textContent  = u.fmt(lastRow.equity);
+    document.getElementById('rvb-renter-final').textContent  = u.fmt(lastRow.renterWealth);
+
+    var propValLbl = lang === 'fr' ? 'Valeur propriété : ' : lang === 'ar' ? 'قيمة العقار: ' : 'Property value: ';
+    document.getElementById('rvb-buy-sub').textContent  = propValLbl + u.fmt(lastRow.propValue);
+    var rentTotalLbl = lang === 'fr' ? 'Loyer mensuel final : ' : lang === 'ar' ? 'الإيجار الشهري النهائي: ' : 'Final monthly rent: ';
+    document.getElementById('rvb-rent-sub').textContent = rentTotalLbl + u.fmt(monthlyRent / (1 + rentInc / 100));
+
+    /* Swap headline colors so the winner is navy (prominent) */
+    var buyBlock  = document.getElementById('rvb-hl-buy');
+    var rentBlock = document.getElementById('rvb-hl-rent');
+    if (buyWins) {
+      buyBlock.classList.add('mc-headline-block--payment');
+      buyBlock.querySelector('.mc-headline-block__value').classList.add('mc-headline-block__value--payment');
+      rentBlock.classList.remove('mc-headline-block--payment');
+      rentBlock.querySelector('.mc-headline-block__value').classList.remove('mc-headline-block__value--payment');
+    } else {
+      rentBlock.classList.add('mc-headline-block--payment');
+      rentBlock.querySelector('.mc-headline-block__value').classList.add('mc-headline-block__value--payment');
+      buyBlock.classList.remove('mc-headline-block--payment');
+      buyBlock.querySelector('.mc-headline-block__value').classList.remove('mc-headline-block__value--payment');
+    }
+
+    /* Table */
+    var tbody = document.getElementById('rvb-tbody');
+    tbody.innerHTML = '';
+    var winnerLbl = { buy: { en:'Buy', fr:'Achat', ar:'شراء' }, rent: { en:'Rent', fr:'Location', ar:'استئجار' } };
+    tableRows.forEach(function (row) {
+      var winner    = row.equity > row.renterWealth ? 'buy' : 'rent';
+      var winnerTxt = winnerLbl[winner][lang] || winnerLbl[winner]['en'];
+      var isBuy     = winner === 'buy';
+      var tr        = document.createElement('tr');
+      tr.className  = 'mc-tr' + (isBuy ? '' : ' mc-tr--insurance');
+      tr.innerHTML  = '<td class="mc-td" style="text-align:center;font-weight:600">' + row.year + '</td>' +
+                      '<td class="mc-td mc-td--val">' + u.fmt(row.propValue) + '</td>' +
+                      '<td class="mc-td mc-td--val">' + u.fmt(row.equity) + '</td>' +
+                      '<td class="mc-td mc-td--val">' + u.fmt(row.renterWealth) + '</td>' +
+                      '<td class="mc-td mc-td--val" style="font-weight:700;color:' + (isBuy ? 'var(--navy)' : 'var(--blue)') + '">' + winnerTxt + '</td>';
+      tbody.appendChild(tr);
+    });
+
+    var res = document.getElementById('rvb-results');
+    res.classList.add('mc-results--visible');
+    res.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  });
+})();
+</script>

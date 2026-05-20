@@ -1253,6 +1253,147 @@ p:last-child { margin-bottom: 0; }
   .mc-td--label { font-size: .8rem; }
 }
 
+/* ── Tools Hub: Tab Navigation ── */
+.tools-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  margin-bottom: 32px;
+  border-bottom: 2px solid var(--border);
+}
+.tools-tab {
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  padding: 12px 20px;
+  font-family: 'Inter', sans-serif;
+  font-size: .83rem;
+  font-weight: 600;
+  color: var(--gray);
+  cursor: pointer;
+  transition: color .2s, border-color .2s;
+  white-space: nowrap;
+  letter-spacing: .03em;
+  line-height: 1;
+}
+.tools-tab:hover { color: var(--navy); }
+.tools-tab--active { color: var(--navy); border-bottom-color: var(--red); }
+.tools-panel { display: none; }
+.tools-panel--active { display: block; }
+
+/* Tool card utilities */
+.mc-tool-desc {
+  color: var(--gray);
+  font-size: .9rem;
+  margin-bottom: 24px;
+  line-height: 1.55;
+}
+.mc-tool-section-title {
+  font-family: 'Inter', sans-serif;
+  font-size: .76rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--navy);
+  margin: 20px 0 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+/* RTL for tabs */
+[dir="rtl"] .tools-tabs { flex-direction: row-reverse; }
+
+@media (max-width: 640px) {
+  .tools-tab { padding: 10px 12px; font-size: .78rem; }
+}
+
+/* ── Network Form Section ── */
+.network-section { background: var(--off-white); }
+.network-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-xl);
+  padding: 48px 56px;
+  box-shadow: var(--shadow);
+  max-width: 680px;
+  margin: 0 auto;
+}
+.network-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 20px;
+}
+.network-label {
+  font-size: .82rem;
+  font-weight: 600;
+  color: var(--navy);
+  letter-spacing: .02em;
+}
+.network-label span { color: var(--red); margin-left: 2px; }
+.network-input, .network-select {
+  height: 48px;
+  padding: 0 16px;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  font-family: 'Inter', sans-serif;
+  font-size: .9rem;
+  color: var(--text);
+  background: var(--off-white);
+  width: 100%;
+  transition: border-color .2s, box-shadow .2s;
+}
+.network-input:focus, .network-select:focus {
+  outline: none;
+  border-color: var(--navy);
+  box-shadow: 0 0 0 3px rgba(10,22,40,.07);
+}
+.network-select { appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%236b7280' stroke-width='2.5'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 14px center; padding-right: 40px; }
+.network-consent {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin: 24px 0;
+  padding: 16px 18px;
+  background: #f8f9fb;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+.network-consent input[type="checkbox"] { width: 16px; height: 16px; margin-top: 2px; flex-shrink: 0; accent-color: var(--navy); cursor: pointer; }
+.network-consent p { font-size: .78rem; color: var(--gray); line-height: 1.5; }
+.network-btn {
+  width: 100%;
+  padding: 16px 24px;
+  background: var(--navy);
+  color: var(--white);
+  border: none;
+  border-radius: var(--radius);
+  font-family: 'Inter', sans-serif;
+  font-size: .95rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  cursor: pointer;
+  transition: background .2s, transform .1s;
+}
+.network-btn:hover { background: var(--navy-mid); }
+.network-btn:active { transform: scale(.99); }
+.network-success {
+  text-align: center;
+  padding: 48px 24px;
+  display: none;
+}
+.network-success__icon { font-size: 3rem; margin-bottom: 16px; }
+.network-success h3 { color: var(--navy); margin-bottom: 10px; }
+.network-success p { color: var(--gray); font-size: .93rem; }
+
+@media (max-width: 900px) { .network-card { padding: 36px 32px; } }
+@media (max-width: 640px) { .network-card { padding: 28px 20px; } }
+
+/* RTL for network form */
+[dir="rtl"] .network-select { background-position: left 14px center; padding-right: 16px; padding-left: 40px; }
+[dir="rtl"] .network-label span { margin-left: 0; margin-right: 2px; }
+
 /* ── Utils ── */
 .text-center { text-align: center; }
 .text-red  { color: var(--red); }

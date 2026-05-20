@@ -1,0 +1,120 @@
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $base  := "" }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ end }}
+
+<section class="section section--light mc-section" id="tools">
+  <div class="container">
+
+    <div class="section-header reveal">
+      <span class="eyebrow">
+        {{ if $isFr }}Outils immobiliers{{ else if $isAr }}أدوات عقارية{{ else }}Real Estate Tools{{ end }}
+      </span>
+      <h2>
+        {{ if $isFr }}5 calculateurs professionnels{{ else if $isAr }}5 حاسبات احترافية{{ else }}5 Professional Calculators{{ end }}
+      </h2>
+      <p class="subtitle">
+        {{ if $isFr }}
+          Hypothèque, droits de mutation, frais de clôture, capacité d'emprunt et loc. vs achat — tout au même endroit.
+        {{ else if $isAr }}
+          الرهن العقاري، رسوم النقل، تكاليف الإغلاق، القدرة الشرائية، واستئجار مقابل شراء — كل ذلك في مكان واحد.
+        {{ else }}
+          Mortgage payments, welcome tax, closing costs, affordability, and rent vs. buy — all in one place.
+        {{ end }}
+      </p>
+    </div>
+
+    <!-- Tab navigation -->
+    <div class="tools-tabs reveal" role="tablist">
+      <button class="tools-tab tools-tab--active" role="tab" data-panel="tool-mortgage" aria-selected="true">
+        {{ if $isFr }}Hypothèque{{ else if $isAr }}الرهن العقاري{{ else }}Mortgage{{ end }}
+      </button>
+      <button class="tools-tab" role="tab" data-panel="tool-welcome-tax" aria-selected="false">
+        {{ if $isFr }}Droits de mutation{{ else if $isAr }}رسوم النقل{{ else }}Welcome Tax{{ end }}
+      </button>
+      <button class="tools-tab" role="tab" data-panel="tool-closing-costs" aria-selected="false">
+        {{ if $isFr }}Frais de clôture{{ else if $isAr }}تكاليف الإغلاق{{ else }}Closing Costs{{ end }}
+      </button>
+      <button class="tools-tab" role="tab" data-panel="tool-affordability" aria-selected="false">
+        {{ if $isFr }}Capacité d'emprunt{{ else if $isAr }}القدرة الشرائية{{ else }}Affordability{{ end }}
+      </button>
+      <button class="tools-tab" role="tab" data-panel="tool-rent-vs-buy" aria-selected="false">
+        {{ if $isFr }}Loc. vs Achat{{ else if $isAr }}استئجار أم شراء{{ else }}Rent vs. Buy{{ end }}
+      </button>
+    </div>
+
+    <!-- Tool panels -->
+    <div class="tools-panel tools-panel--active" id="tool-mortgage" role="tabpanel">
+      {{ partial "tools/mortgage.html" . }}
+    </div>
+    <div class="tools-panel" id="tool-welcome-tax" role="tabpanel">
+      {{ partial "tools/welcome-tax.html" . }}
+    </div>
+    <div class="tools-panel" id="tool-closing-costs" role="tabpanel">
+      {{ partial "tools/closing-costs.html" . }}
+    </div>
+    <div class="tools-panel" id="tool-affordability" role="tabpanel">
+      {{ partial "tools/affordability.html" . }}
+    </div>
+    <div class="tools-panel" id="tool-rent-vs-buy" role="tabpanel">
+      {{ partial "tools/rent-vs-buy.html" . }}
+    </div>
+
+    <!-- CTA -->
+    <p class="text-center reveal reveal-delay-2" style="margin-top:32px;color:var(--gray);font-size:.95rem;">
+      {{ if $isFr }}
+        Prêt à passer à l'étape suivante ? <a href="/fr/#contact" style="color:var(--red);font-weight:600">Contactez-moi</a> pour discuter de votre projet immobilier.
+      {{ else if $isAr }}
+        هل أنت مستعد للخطوة التالية؟ <a href="/ar/#contact" style="color:var(--red);font-weight:600">تواصل معي</a> لمناقشة مشروعك العقاري.
+      {{ else }}
+        Ready to take the next step? <a href="/#contact" style="color:var(--red);font-weight:600">Contact me</a> to discuss your real estate project.
+      {{ end }}
+    </p>
+
+  </div>
+</section>
+
+<script>
+/* Shared real estate utilities — available to all tool scripts as window._toolsUtils */
+window._toolsUtils = (function () {
+  function parseMoney(v) { return parseFloat(String(v).replace(/[^0-9.]/g, '')) || 0; }
+  function formatMoney(n) { return n.toLocaleString('en-CA', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+  function fmt(n) { return '$' + formatMoney(n); }
+  function cmhcRate(downPct) {
+    if (downPct >= 20) return 0;
+    if (downPct >= 15) return 0.0280;
+    if (downPct >= 10) return 0.0310;
+    if (downPct >=  5) return 0.0400;
+    return 0;
+  }
+  function calcCMHC(propertyPrice, loanAmt, downPct) {
+    if (propertyPrice >= 1500000 || downPct >= 20 || downPct < 5) return 0;
+    return Math.round(loanAmt * cmhcRate(downPct));
+  }
+  function effectiveRate(annualPct, ppy) {
+    var semi = annualPct / 100 / 2;
+    return Math.pow(1 + semi, 2 / ppy) - 1;
+  }
+  return { parseMoney: parseMoney, fmt: fmt, formatMoney: formatMoney, cmhcRate: cmhcRate, calcCMHC: calcCMHC, effectiveRate: effectiveRate };
+})();
+
+/* Tab switching */
+(function () {
+  var tabs = document.querySelectorAll('.tools-tab');
+  tabs.forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      tabs.forEach(function (t) {
+        t.classList.remove('tools-tab--active');
+        t.setAttribute('aria-selected', 'false');
+      });
+      document.querySelectorAll('.tools-panel').forEach(function (p) {
+        p.classList.remove('tools-panel--active');
+      });
+      tab.classList.add('tools-tab--active');
+      tab.setAttribute('aria-selected', 'true');
+      var panel = document.getElementById(tab.getAttribute('data-panel'));
+      if (panel) panel.classList.add('tools-panel--active');
+    });
+  });
+})();
+</script>

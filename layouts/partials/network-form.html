@@ -1,0 +1,197 @@
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $base  := "" }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ end }}
+
+<section class="section network-section" id="network">
+  <div class="container">
+
+    <div class="section-header reveal">
+      <span class="eyebrow">
+        {{ if $isFr }}Rejoindre mon réseau{{ else if $isAr }}انضم إلى شبكتي{{ else }}Join My Network{{ end }}
+      </span>
+      <h2>
+        {{ if $isFr }}Faire partie de mon réseau{{ else if $isAr }}كن جزءاً من شبكتي{{ else }}Become Part of My Network{{ end }}
+      </h2>
+      <p class="subtitle">
+        {{ if $isFr }}
+          Inscrivez-vous pour recevoir mes alertes de nouvelles propriétés, analyses de marché et conseils immobiliers exclusifs — en primeur.
+        {{ else if $isAr }}
+          سجّل لتلقي تنبيهات العقارات الجديدة وتحليلات السوق ونصائح عقارية حصرية — قبل الجميع.
+        {{ else }}
+          Sign up to receive my new property alerts, market analyses, and exclusive real estate tips — first.
+        {{ end }}
+      </p>
+    </div>
+
+    <div class="network-card reveal">
+      <form id="network-form-el" action="https://formspree.io/georgesmatar92@gmail.com" method="POST">
+
+        <!-- Full name -->
+        <div class="network-field">
+          <label class="network-label" for="nf-name">
+            {{ if $isFr }}Nom complet{{ else if $isAr }}الاسم الكامل{{ else }}Full name{{ end }}
+            <span>*</span>
+          </label>
+          <input class="network-input" id="nf-name" name="name" type="text" required
+            placeholder="{{ if $isFr }}Prénom Nom{{ else if $isAr }}الاسم الأول واللقب{{ else }}First Last{{ end }}">
+        </div>
+
+        <!-- Email -->
+        <div class="network-field">
+          <label class="network-label" for="nf-email">
+            {{ if $isFr }}Courriel{{ else if $isAr }}البريد الإلكتروني{{ else }}Email{{ end }}
+            <span>*</span>
+          </label>
+          <input class="network-input" id="nf-email" name="email" type="email" required
+            placeholder="{{ if $isFr }}vous@exemple.com{{ else if $isAr }}you@example.com{{ else }}you@example.com{{ end }}">
+        </div>
+
+        <!-- Phone -->
+        <div class="network-field">
+          <label class="network-label" for="nf-phone">
+            {{ if $isFr }}Téléphone{{ else if $isAr }}الهاتف{{ else }}Phone{{ end }}
+            <span>*</span>
+          </label>
+          <input class="network-input" id="nf-phone" name="phone" type="tel" required
+            placeholder="{{ if $isFr }}514 555-0000{{ else if $isAr }}514 555-0000{{ else }}514 555-0000{{ end }}">
+        </div>
+
+        <!-- Date of birth (optional) -->
+        <div class="network-field">
+          <label class="network-label" for="nf-dob">
+            {{ if $isFr }}Date de naissance (optionnel){{ else if $isAr }}تاريخ الميلاد (اختياري){{ else }}Date of birth (optional){{ end }}
+          </label>
+          <input class="network-input" id="nf-dob" name="dob" type="date"
+            placeholder="JJ / MM / AAAA">
+        </div>
+
+        <!-- Already working with a broker? -->
+        <div class="network-field">
+          <label class="network-label" for="nf-broker">
+            {{ if $isFr }}Travaillez-vous déjà avec un courtier immobilier ?{{ else if $isAr }}هل تعمل بالفعل مع وسيط عقاري؟{{ else }}Are you already working with a real estate broker?{{ end }}
+          </label>
+          <select class="network-select" id="nf-broker" name="broker">
+            {{ if $isFr }}
+              <option value="">-- Sélectionnez --</option>
+              <option value="non">Non</option>
+              <option value="oui_pas_contrat">Oui, mais sans contrat exclusif</option>
+              <option value="oui_contrat">Oui, avec contrat exclusif</option>
+              <option value="incertain">Je ne suis pas certain(e)</option>
+            {{ else if $isAr }}
+              <option value="">-- اختر --</option>
+              <option value="non">لا</option>
+              <option value="oui_pas_contrat">نعم، لكن بدون عقد حصري</option>
+              <option value="oui_contrat">نعم، مع عقد حصري</option>
+              <option value="incertain">لست متأكداً</option>
+            {{ else }}
+              <option value="">-- Select --</option>
+              <option value="non">No</option>
+              <option value="oui_pas_contrat">Yes, but without an exclusive contract</option>
+              <option value="oui_contrat">Yes, with an exclusive contract</option>
+              <option value="incertain">I'm not sure</option>
+            {{ end }}
+          </select>
+        </div>
+
+        <!-- Need to sell a property? -->
+        <div class="network-field">
+          <label class="network-label" for="nf-sell">
+            {{ if $isFr }}Avez-vous besoin de vendre une propriété ?{{ else if $isAr }}هل تحتاج إلى بيع عقار؟{{ else }}Do you need to sell a property?{{ end }}
+          </label>
+          <select class="network-select" id="nf-sell" name="sell_property">
+            {{ if $isFr }}
+              <option value="">-- Sélectionnez --</option>
+              <option value="non">Non</option>
+              <option value="oui_court_terme">Oui, dans les 6 prochains mois</option>
+              <option value="oui_long_terme">Oui, dans 6 à 18 mois</option>
+              <option value="peut_etre">Peut-être, je explore mes options</option>
+            {{ else if $isAr }}
+              <option value="">-- اختر --</option>
+              <option value="non">لا</option>
+              <option value="oui_court_terme">نعم، خلال الـ 6 أشهر القادمة</option>
+              <option value="oui_long_terme">نعم، خلال 6 إلى 18 شهراً</option>
+              <option value="peut_etre">ربما، أنا أستكشف خياراتي</option>
+            {{ else }}
+              <option value="">-- Select --</option>
+              <option value="non">No</option>
+              <option value="oui_court_terme">Yes, within the next 6 months</option>
+              <option value="oui_long_terme">Yes, within 6 to 18 months</option>
+              <option value="peut_etre">Maybe, I'm exploring my options</option>
+            {{ end }}
+          </select>
+        </div>
+
+        <!-- Hidden fields for Formspree context -->
+        <input type="hidden" name="_subject" value="Nouveau membre du réseau - georgesmatar.space">
+        <input type="hidden" name="_language" value="{{ .Lang }}">
+        <input type="text" name="_gotcha" style="display:none">
+
+        <!-- Consent -->
+        <div class="network-consent">
+          <input type="checkbox" id="nf-consent" name="consent" required value="yes">
+          <p>
+            {{ if $isFr }}
+              En cochant cette case, vous acceptez de communiquer vos informations à Georges Matar, courtier immobilier agréé RE/MAX DU CARTIER. En soumettant, vous consentez également à recevoir des communications par courriel ou par téléphone concernant l'immobilier.
+            {{ else if $isAr }}
+              بتحديد هذه الخانة، توافق على مشاركة معلوماتك مع جورج مطر، الوسيط العقاري المعتمد RE/MAX DU CARTIER. بالتقديم، توافق أيضاً على تلقي اتصالات عبر البريد الإلكتروني أو الهاتف بخصوص العقارات.
+            {{ else }}
+              By checking this box, you agree to share your information with Georges Matar, licensed real estate broker at RE/MAX DU CARTIER. By submitting, you also consent to receiving communications by email or phone regarding real estate.
+            {{ end }}
+          </p>
+        </div>
+
+        <button class="network-btn" type="submit">
+          {{ if $isFr }}Soumettre mes informations{{ else if $isAr }}تقديم معلوماتي{{ else }}Submit my information{{ end }}
+        </button>
+
+      </form>
+
+      <!-- Success message (shown after JS intercept) -->
+      <div class="network-success" id="network-success">
+        <div class="network-success__icon">&#10003;</div>
+        <h3>
+          {{ if $isFr }}Merci ! Vous faites maintenant partie de mon réseau.{{ else if $isAr }}شكراً! أنت الآن جزء من شبكتي.{{ else }}Thank you! You're now part of my network.{{ end }}
+        </h3>
+        <p>
+          {{ if $isFr }}
+            Je vous contacterai sous peu. En attendant, n'hésitez pas à parcourir mes <a href="{{ $base }}/articles/" style="color:var(--red)">articles</a> ou mes <a href="{{ $base }}/listings/" style="color:var(--red)">propriétés en vente</a>.
+          {{ else if $isAr }}
+            سأتواصل معك قريباً. في غضون ذلك، لا تتردد في تصفح <a href="{{ $base }}/articles/" style="color:var(--red)">مقالاتي</a> أو <a href="{{ $base }}/listings/" style="color:var(--red)">العقارات المعروضة للبيع</a>.
+          {{ else }}
+            I will be in touch shortly. In the meantime, feel free to browse my <a href="{{ $base }}/articles/" style="color:var(--red)">articles</a> or <a href="{{ $base }}/listings/" style="color:var(--red)">properties for sale</a>.
+          {{ end }}
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<script>
+(function () {
+  var form    = document.getElementById('network-form-el');
+  var success = document.getElementById('network-success');
+  if (!form) return;
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var data = new FormData(form);
+    fetch(form.action, {
+      method: 'POST',
+      body: data,
+      headers: { 'Accept': 'application/json' }
+    }).then(function (res) {
+      if (res.ok) {
+        form.style.display = 'none';
+        success.style.display = 'block';
+      } else {
+        /* fallback: native submit */
+        form.submit();
+      }
+    }).catch(function () {
+      form.submit();
+    });
+  });
+})();
+</script>

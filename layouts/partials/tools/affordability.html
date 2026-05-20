@@ -1,0 +1,270 @@
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+
+<div class="mc-card">
+  <p class="mc-tool-desc">
+    {{ if $isFr }}Découvrez le prix maximum que vous pouvez vous permettre selon vos revenus, vos dettes et la mise de fonds disponible — en appliquant le test de résistance hypothécaire canadien (GDS/TDS).{{ else if $isAr }}اكتشف الحد الأقصى للسعر الذي يمكنك تحمله بناءً على دخلك وديونك والدفعة الأولى المتاحة، مع تطبيق اختبار الإجهاد للرهن العقاري الكندي.{{ else }}Discover the maximum home price you can afford based on your income, debts, and down payment — applying the Canadian mortgage stress test (GDS/TDS).{{ end }}
+  </p>
+
+  <div class="mc-row mc-row--2">
+    <div class="mc-field">
+      <label class="mc-label" for="af-income">
+        {{ if $isFr }}Revenu brut annuel (ménage){{ else if $isAr }}الدخل السنوي الإجمالي (الأسرة){{ else }}Gross annual income (household){{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix">$</span>
+        <input class="mc-input" id="af-income" type="text" inputmode="numeric" placeholder="100,000">
+      </div>
+    </div>
+    <div class="mc-field">
+      <label class="mc-label" for="af-debts">
+        {{ if $isFr }}Dettes mensuelles (auto, cartes, prêts){{ else if $isAr }}الديون الشهرية (سيارة، بطاقات، قروض){{ else }}Monthly debts (car, cards, loans){{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix">$</span>
+        <input class="mc-input" id="af-debts" type="text" inputmode="numeric" placeholder="500">
+      </div>
+    </div>
+  </div>
+
+  <div class="mc-row mc-row--2">
+    <div class="mc-field">
+      <label class="mc-label" for="af-down">
+        {{ if $isFr }}Mise de fonds disponible{{ else if $isAr }}الدفعة الأولى المتاحة{{ else }}Available down payment{{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix">$</span>
+        <input class="mc-input" id="af-down" type="text" inputmode="numeric" placeholder="50,000">
+      </div>
+    </div>
+    <div class="mc-field">
+      <label class="mc-label" for="af-rate">
+        {{ if $isFr }}Taux d'intérêt du contrat (%){{ else if $isAr }}معدل الفائدة التعاقدي (%){{ else }}Contract interest rate (%){{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix mc-prefix--pct">%</span>
+        <input class="mc-input" id="af-rate" type="number" step="0.05" min="0" max="30" value="5.5">
+      </div>
+    </div>
+  </div>
+
+  <div class="mc-row mc-row--3">
+    <div class="mc-field">
+      <label class="mc-label" for="af-amort">
+        {{ if $isFr }}Amortissement{{ else if $isAr }}فترة الإطفاء{{ else }}Amortization{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="af-amort">
+          {{ range slice 5 10 15 20 25 30 }}
+          <option value="{{ . }}"{{ if eq . 25 }} selected{{ end }}>
+            {{ . }} {{ if $isFr }}ans{{ else if $isAr }}سنة{{ else }}years{{ end }}
+          </option>
+          {{ end }}
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+    <div class="mc-field">
+      <label class="mc-label" for="af-tax">
+        {{ if $isFr }}Taxes foncières mensuelles (est.){{ else if $isAr }}الضرائب العقارية الشهرية (تقدير){{ else }}Monthly property tax (est.){{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix">$</span>
+        <input class="mc-input" id="af-tax" type="text" inputmode="numeric" placeholder="300">
+      </div>
+    </div>
+    <div class="mc-field">
+      <label class="mc-label" for="af-condo">
+        {{ if $isFr }}Frais de condo mensuels{{ else if $isAr }}رسوم الكوندو الشهرية{{ else }}Monthly condo fees{{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix">$</span>
+        <input class="mc-input" id="af-condo" type="text" inputmode="numeric" placeholder="0">
+      </div>
+    </div>
+  </div>
+
+  <div class="mc-actions">
+    <button class="btn btn-primary mc-btn-calc" id="af-calculate" type="button">
+      {{ if $isFr }}Calculer ma capacité{{ else if $isAr }}احسب قدرتي الشرائية{{ else }}Calculate my affordability{{ end }}
+    </button>
+  </div>
+
+  <div class="mc-results" id="af-results" aria-live="polite">
+    <div class="mc-results__divider"></div>
+
+    <div class="mc-headline-results">
+      <div class="mc-headline-block mc-headline-block--payment" style="grid-column:1/-1">
+        <span class="mc-headline-block__label">
+          {{ if $isFr }}Prix d'achat maximum estimé{{ else if $isAr }}الحد الأقصى المقدر لسعر الشراء{{ else }}Estimated Maximum Purchase Price{{ end }}
+        </span>
+        <span class="mc-headline-block__value mc-headline-block__value--payment" id="af-max-price">—</span>
+        <span class="mc-headline-block__freq">
+          {{ if $isFr }}Paiement mensuel estimé :{{ else if $isAr }}الدفعة الشهرية المقدرة:{{ else }}Estimated monthly payment:{{ end }}
+          <strong id="af-payment">—</strong>
+        </span>
+      </div>
+    </div>
+
+    <h3 class="mc-results__title">
+      {{ if $isFr }}Indicateurs de qualification{{ else if $isAr }}مؤشرات التأهيل{{ else }}Qualification Metrics{{ end }}
+    </h3>
+
+    <div class="mc-table-wrap">
+      <table class="mc-table">
+        <thead>
+          <tr>
+            <th class="mc-th mc-th--category">
+              {{ if $isFr }}Indicateur{{ else if $isAr }}المؤشر{{ else }}Metric{{ end }}
+            </th>
+            <th class="mc-th mc-th--col">
+              {{ if $isFr }}Votre résultat{{ else if $isAr }}نتيجتك{{ else }}Your Result{{ end }}
+            </th>
+            <th class="mc-th mc-th--col">
+              {{ if $isFr }}Limite{{ else if $isAr }}الحد المسموح{{ else }}Limit{{ end }}
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="mc-tr">
+            <td class="mc-td mc-td--label">
+              {{ if $isFr }}Taux de test de résistance{{ else if $isAr }}معدل اختبار الإجهاد{{ else }}Stress test rate{{ end }}
+            </td>
+            <td class="mc-td mc-td--val" id="af-stress">—</td>
+            <td class="mc-td mc-td--val" style="color:var(--gray);font-size:.82rem;">
+              {{ if $isFr }}max(taux + 2 %, 5,25 %){{ else if $isAr }}max(المعدل + 2%, 5.25%){{ else }}max(rate + 2%, 5.25%){{ end }}
+            </td>
+          </tr>
+          <tr class="mc-tr mc-tr--highlight">
+            <td class="mc-td mc-td--label">
+              {{ if $isFr }}Ratio ABD (revenus bruts servant à l'habitation){{ else if $isAr }}نسبة GDS (تكاليف السكن من الدخل){{ else }}GDS ratio (housing costs){{ end }}
+            </td>
+            <td class="mc-td mc-td--val mc-td--strong" id="af-gds">—</td>
+            <td class="mc-td mc-td--val mc-td--strong">
+              <span style="color:var(--gray)">&le; 39%</span>
+            </td>
+          </tr>
+          <tr class="mc-tr mc-tr--highlight">
+            <td class="mc-td mc-td--label">
+              {{ if $isFr }}Ratio ATD (total des dettes){{ else if $isAr }}نسبة TDS (إجمالي الديون){{ else }}TDS ratio (total debt){{ end }}
+            </td>
+            <td class="mc-td mc-td--val mc-td--strong" id="af-tds">—</td>
+            <td class="mc-td mc-td--val mc-td--strong">
+              <span style="color:var(--gray)">&le; 44%</span>
+            </td>
+          </tr>
+          <tr class="mc-tr">
+            <td class="mc-td mc-td--label">
+              {{ if $isFr }}PITH mensuel (capital + intérêts + taxes + chauffage){{ else if $isAr }}PITH الشهري (رأس المال + الفوائد + الضرائب + التدفئة){{ else }}Monthly PITH (principal + interest + taxes + heating){{ end }}
+            </td>
+            <td class="mc-td mc-td--val" id="af-pith">—</td>
+            <td class="mc-td mc-td--val" style="color:var(--gray);font-size:.82rem;">
+              {{ if $isFr }}Inclut 150 $/mois de chauffage{{ else if $isAr }}يتضمن 150$/شهر للتدفئة{{ else }}Includes $150/month heating{{ end }}
+            </td>
+          </tr>
+          <tr class="mc-tr mc-tr--total">
+            <td class="mc-td mc-td--label mc-td--total-label">
+              {{ if $isFr }}Revenu mensuel brut{{ else if $isAr }}الدخل الشهري الإجمالي{{ else }}Gross monthly income{{ end }}
+            </td>
+            <td class="mc-td mc-td--val mc-td--total" id="af-monthly-income">—</td>
+            <td class="mc-td mc-td--val mc-td--total"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="mc-results__disclaimer">
+      {{ if $isFr }}
+        * Calcul basé sur les règles SCHL 2024. Le test de résistance = max(taux contractuel + 2 %, 5,25 %). ABD ≤ 39 % et ATD ≤ 44 % du revenu brut. Chauffage estimé à 150 $/mois. Consultez un courtier hypothécaire pour une pré-approbation officielle.
+      {{ else if $isAr }}
+        * الحساب مبني على قواعد CMHC 2024. اختبار الإجهاد = max(المعدل التعاقدي + 2%، 5.25%). GDS ≤ 39% وTDS ≤ 44% من الدخل الإجمالي. التدفئة مقدرة بـ 150$/شهر. استشر وسيطاً للرهن العقاري للحصول على موافقة مبدئية رسمية.
+      {{ else }}
+        * Calculation based on 2024 CMHC rules. Stress test rate = max(contract rate + 2%, 5.25%). GDS &le; 39% and TDS &le; 44% of gross income. Heating estimated at $150/month. Consult a mortgage broker for an official pre-approval.
+      {{ end }}
+    </p>
+  </div>
+
+</div>
+
+<script>
+(function () {
+  var u    = window._toolsUtils;
+  var lang = document.documentElement.lang || 'en';
+
+  function findMaxAffordable(annualIncome, monthlyDebts, downPayment, contractRate, amortYears, monthlyTax, condoFees) {
+    var stressRate    = Math.max(contractRate + 2, 5.25);
+    var ppy           = 12;
+    var r             = u.effectiveRate(stressRate, ppy);
+    var N             = amortYears * ppy;
+    var monthlyIncome = annualIncome / 12;
+    var heating       = 150;
+
+    function computeRatios(price) {
+      if (price <= downPayment) return { gds: 999, tds: 999, payment: 0, pith: 0 };
+      var loan    = price - downPayment;
+      var dpct    = (downPayment / price) * 100;
+      var cmhc    = u.calcCMHC(price, loan, dpct);
+      var P       = loan + cmhc;
+      var payment = r === 0 ? P / N : P * r * Math.pow(1+r,N) / (Math.pow(1+r,N) - 1);
+      var pith    = payment + monthlyTax + heating + condoFees * 0.5;
+      return {
+        gds:     (pith / monthlyIncome) * 100,
+        tds:     ((pith + monthlyDebts) / monthlyIncome) * 100,
+        payment: payment,
+        pith:    pith
+      };
+    }
+
+    var lo = downPayment + 5000, hi = 5000000;
+    for (var i = 0; i < 60; i++) {
+      var mid    = (lo + hi) / 2;
+      var ratios = computeRatios(mid);
+      if (ratios.gds <= 39 && ratios.tds <= 44) { lo = mid; } else { hi = mid; }
+    }
+    var maxPrice   = Math.floor(lo / 1000) * 1000;
+    var finalRatios = computeRatios(maxPrice);
+    return {
+      price:      maxPrice,
+      gds:        finalRatios.gds,
+      tds:        finalRatios.tds,
+      payment:    finalRatios.payment,
+      pith:       finalRatios.pith,
+      stressRate: stressRate
+    };
+  }
+
+  document.getElementById('af-calculate').addEventListener('click', function () {
+    var incomeEl = document.getElementById('af-income');
+    var income   = u.parseMoney(incomeEl.value);
+    if (income <= 0) {
+      incomeEl.style.outline = '2px solid var(--red)';
+      incomeEl.focus();
+      setTimeout(function () { incomeEl.style.outline = ''; }, 2000);
+      return;
+    }
+    var debts  = u.parseMoney(document.getElementById('af-debts').value);
+    var down   = u.parseMoney(document.getElementById('af-down').value);
+    var rate   = parseFloat(document.getElementById('af-rate').value) || 5.5;
+    var amort  = parseInt(document.getElementById('af-amort').value) || 25;
+    var tax    = u.parseMoney(document.getElementById('af-tax').value) || 300;
+    var condo  = u.parseMoney(document.getElementById('af-condo').value);
+
+    var result = findMaxAffordable(income, debts, down, rate, amort, tax, condo);
+
+    function set(id, val) { document.getElementById(id).textContent = val; }
+    set('af-max-price',     u.fmt(result.price));
+    set('af-payment',       u.fmt(result.payment));
+    set('af-gds',           result.gds.toFixed(1) + '%');
+    set('af-tds',           result.tds.toFixed(1) + '%');
+    set('af-stress',        result.stressRate.toFixed(2) + '%');
+    set('af-pith',          u.fmt(result.pith));
+    set('af-monthly-income', u.fmt(income / 12));
+
+    var res = document.getElementById('af-results');
+    res.classList.add('mc-results--visible');
+    res.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  });
+})();
+</script>

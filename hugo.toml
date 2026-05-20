@@ -49,9 +49,14 @@ defaultContentLanguageInSubdir = false
       weight = 5
 
     [[languages.en.menus.main]]
+      name   = "Network"
+      url    = "/#network"
+      weight = 6
+
+    [[languages.en.menus.main]]
       name   = "Contact"
       url    = "/#contact"
-      weight = 6
+      weight = 7
 
   [languages.fr]
     weight       = 2
@@ -97,9 +102,14 @@ defaultContentLanguageInSubdir = false
       weight = 5
 
     [[languages.fr.menus.main]]
+      name   = "Mon réseau"
+      url    = "/fr/#network"
+      weight = 6
+
+    [[languages.fr.menus.main]]
       name   = "Contact"
       url    = "/fr/#contact"
-      weight = 6
+      weight = 7
 
   [languages.ar]
     weight       = 3
@@ -144,9 +154,14 @@ defaultContentLanguageInSubdir = false
       weight = 5
 
     [[languages.ar.menus.main]]
+      name   = "شبكتي"
+      url    = "/ar/#network"
+      weight = 6
+
+    [[languages.ar.menus.main]]
       name   = "تواصل"
       url    = "/ar/#contact"
-      weight = 6
+      weight = 7
 
 [params]
   name         = "Georges Matar"

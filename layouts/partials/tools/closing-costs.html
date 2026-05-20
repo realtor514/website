@@ -1,0 +1,230 @@
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+
+<div class="mc-card">
+  <p class="mc-tool-desc">
+    {{ if $isFr }}Estimez l'ensemble des frais à prévoir lors de l'achat d'une propriété au Québec — droits de mutation, notaire, inspection et plus.{{ else if $isAr }}احسب جميع التكاليف المتوقعة عند شراء عقار في كيبيك — رسوم النقل، كاتب العدل، الفحص والمزيد.{{ else }}Estimate all costs to budget for when buying property in Quebec — welcome tax, notary, inspection and more.{{ end }}
+  </p>
+
+  <div class="mc-row mc-row--2">
+    <div class="mc-field">
+      <label class="mc-label" for="cc-price">
+        {{ if $isFr }}Prix de la propriété{{ else if $isAr }}سعر العقار{{ else }}Property price{{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix">$</span>
+        <input class="mc-input" id="cc-price" type="text" inputmode="numeric" placeholder="400,000">
+      </div>
+    </div>
+    <div class="mc-field">
+      <label class="mc-label" for="cc-down">
+        {{ if $isFr }}Mise de fonds{{ else if $isAr }}الدفعة الأولى{{ else }}Down payment{{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <span class="mc-prefix">$</span>
+        <input class="mc-input" id="cc-down" type="text" inputmode="numeric" placeholder="80,000">
+      </div>
+    </div>
+  </div>
+
+  <div class="mc-row mc-row--2">
+    <div class="mc-field">
+      <label class="mc-label" for="cc-city">
+        {{ if $isFr }}Municipalité{{ else if $isAr }}البلدية{{ else }}Municipality{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="cc-city">
+          {{ if $isFr }}
+            <option value="other">Autre (Québec)</option>
+            <option value="montreal">Ville de Montréal</option>
+          {{ else if $isAr }}
+            <option value="other">أخرى (كيبيك)</option>
+            <option value="montreal">مدينة مونتريال</option>
+          {{ else }}
+            <option value="other">Other (Quebec)</option>
+            <option value="montreal">City of Montreal</option>
+          {{ end }}
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+    <div class="mc-field">
+      <label class="mc-label" for="cc-proptype">
+        {{ if $isFr }}Type de propriété{{ else if $isAr }}نوع العقار{{ else }}Property type{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="cc-proptype">
+          {{ if $isFr }}
+            <option value="existing">Propriété existante</option>
+            <option value="new">Construction neuve</option>
+          {{ else if $isAr }}
+            <option value="existing">عقار قائم</option>
+            <option value="new">بناء جديد</option>
+          {{ else }}
+            <option value="existing">Existing property</option>
+            <option value="new">New construction</option>
+          {{ end }}
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="mc-actions">
+    <button class="btn btn-primary mc-btn-calc" id="cc-calculate" type="button">
+      {{ if $isFr }}Calculer{{ else if $isAr }}احسب{{ else }}Calculate{{ end }}
+    </button>
+  </div>
+
+  <div class="mc-results" id="cc-results" aria-live="polite">
+    <div class="mc-results__divider"></div>
+
+    <div class="mc-headline-results">
+      <div class="mc-headline-block mc-headline-block--payment" style="grid-column:1/-1">
+        <span class="mc-headline-block__label">
+          {{ if $isFr }}Fourchette estimée des frais de clôture{{ else if $isAr }}النطاق المقدر لتكاليف الإغلاق{{ else }}Estimated Closing Costs Range{{ end }}
+        </span>
+        <span class="mc-headline-block__value mc-headline-block__value--payment" id="cc-headline">—</span>
+      </div>
+    </div>
+
+    <h3 class="mc-results__title">
+      {{ if $isFr }}Détail des frais{{ else if $isAr }}تفاصيل التكاليف{{ else }}Cost Breakdown{{ end }}
+    </h3>
+
+    <div class="mc-table-wrap">
+      <table class="mc-table">
+        <thead>
+          <tr>
+            <th class="mc-th mc-th--category">
+              {{ if $isFr }}Poste de dépense{{ else if $isAr }}البند{{ else }}Item{{ end }}
+            </th>
+            <th class="mc-th mc-th--col">
+              {{ if $isFr }}Min.{{ else if $isAr }}الحد الأدنى{{ else }}Low{{ end }}
+            </th>
+            <th class="mc-th mc-th--col">
+              {{ if $isFr }}Max.{{ else if $isAr }}الحد الأقصى{{ else }}High{{ end }}
+            </th>
+          </tr>
+        </thead>
+        <tbody id="cc-tbody"></tbody>
+      </table>
+    </div>
+
+    <p class="mc-results__disclaimer">
+      {{ if $isFr }}
+        * Estimations à titre indicatif. Les frais réels varient selon la situation. Pour les constructions neuves, la TPS (5 %) et la TVQ (9,975 %) s'appliquent sur le prix d'achat (des remboursements partiels peuvent s'appliquer). Consultez un notaire pour les montants exacts.
+      {{ else if $isAr }}
+        * تقديرات للإرشاد فقط. تختلف التكاليف الفعلية حسب الوضع. للمباني الجديدة، تنطبق GST (5%) وQST (9.975%) على سعر الشراء (قد تنطبق استردادات جزئية). استشر كاتب العدل للحصول على المبالغ الدقيقة.
+      {{ else }}
+        * Estimates for informational purposes. Actual costs vary by situation. For new construction, GST (5%) and QST (9.975%) apply on the purchase price (partial rebates may apply). Consult a notary for exact amounts.
+      {{ end }}
+    </p>
+  </div>
+
+</div>
+
+<script>
+(function () {
+  var u    = window._toolsUtils;
+  var lang = document.documentElement.lang || 'en';
+
+  var QC_BRACKETS = [
+    { limit: 58900,    rate: 0.005 },
+    { limit: 294600,   rate: 0.010 },
+    { limit: 552300,   rate: 0.015 },
+    { limit: 1044700,  rate: 0.020 },
+    { limit: Infinity, rate: 0.025 }
+  ];
+
+  function calcWelcomeTax(price, isMontreal) {
+    var tax = 0, prev = 0;
+    for (var i = 0; i < QC_BRACKETS.length; i++) {
+      if (price <= prev) break;
+      var upper = QC_BRACKETS[i].limit === Infinity ? price : Math.min(price, QC_BRACKETS[i].limit);
+      tax += (upper - prev) * QC_BRACKETS[i].rate;
+      prev = QC_BRACKETS[i].limit;
+      if (price <= QC_BRACKETS[i].limit) break;
+    }
+    if (isMontreal && price > 500000) tax += (price - 500000) * 0.03;
+    return tax;
+  }
+
+  document.getElementById('cc-calculate').addEventListener('click', function () {
+    var priceEl = document.getElementById('cc-price');
+    var price   = u.parseMoney(priceEl.value);
+    if (price <= 0) {
+      priceEl.style.outline = '2px solid var(--red)';
+      priceEl.focus();
+      setTimeout(function () { priceEl.style.outline = ''; }, 2000);
+      return;
+    }
+    var down      = u.parseMoney(document.getElementById('cc-down').value);
+    var isMtl     = document.getElementById('cc-city').value === 'montreal';
+    var isNew     = document.getElementById('cc-proptype').value === 'new';
+    var loan      = Math.max(0, price - down);
+    var downPct   = price > 0 ? (down / price) * 100 : 0;
+    var cmhc      = u.calcCMHC(price, loan, downPct);
+    var welcomeTax = calcWelcomeTax(price, isMtl);
+
+    var lbl = {
+      wt:        { en: 'Welcome Tax (Droits de mutation)',          fr: 'Droits de mutation',            ar: 'رسوم نقل الملكية' },
+      notary:    { en: 'Notary fees',                               fr: 'Honoraires notariaux',           ar: 'أتعاب كاتب العدل' },
+      inspect:   { en: 'Home inspection',                           fr: 'Inspection préachat',            ar: 'فحص العقار' },
+      title:     { en: 'Title insurance',                           fr: 'Assurance titres',               ar: 'تأمين الملكية' },
+      cmhc:      { en: 'CMHC / Sagen / Canada Guaranty insurance', fr: 'Prime CMHC / Sagen / Canada Guaranty', ar: 'تأمين CMHC' },
+      moving:    { en: 'Moving costs',                              fr: 'Frais de déménagement',          ar: 'تكاليف الانتقال' },
+      adj:       { en: 'Adjustments (taxes, fees)',                 fr: 'Ajustements (taxes, charges)',   ar: 'التسويات (الضرائب، الرسوم)' },
+      tax:       { en: 'GST (5%) + QST (9.975%) — new build',      fr: 'TPS (5 %) + TVQ (9,975 %) — neuf', ar: 'GST + QST — بناء جديد' }
+    };
+    function l(key) { return lbl[key][lang] || lbl[key]['en']; }
+
+    var items = [
+      { label: l('wt'),     low: welcomeTax, high: welcomeTax, exact: true },
+      { label: l('notary'), low: 1500,        high: 2500 },
+      { label: l('inspect'),low: 400,         high: 700 },
+      { label: l('title'),  low: 200,         high: 400 }
+    ];
+    if (cmhc > 0) items.push({ label: l('cmhc'), low: cmhc, high: cmhc, exact: true, ins: true });
+    items.push({ label: l('moving'), low: 800,  high: 2500 });
+    items.push({ label: l('adj'),    low: 500,  high: 2000 });
+    if (isNew) {
+      var taxes = price * (0.05 + 0.09975);
+      items.push({ label: l('tax'), low: taxes, high: taxes, exact: true, note: true });
+    }
+
+    var tbody    = document.getElementById('cc-tbody');
+    tbody.innerHTML = '';
+    var totalLow = 0, totalHigh = 0;
+
+    items.forEach(function (item) {
+      totalLow  += item.low;
+      totalHigh += item.high;
+      var tr = document.createElement('tr');
+      tr.className = 'mc-tr' + (item.ins ? ' mc-tr--insurance' : '');
+      var highVal = item.exact ? u.fmt(item.low) : u.fmt(item.high);
+      tr.innerHTML = '<td class="mc-td mc-td--label">' + item.label + '</td>' +
+                     '<td class="mc-td mc-td--val">' + u.fmt(item.low) + '</td>' +
+                     '<td class="mc-td mc-td--val">' + highVal + '</td>';
+      tbody.appendChild(tr);
+    });
+
+    var tLbl = lang === 'fr' ? 'Total estimé' : lang === 'ar' ? 'الإجمالي المقدر' : 'Estimated Total';
+    var totalTr = document.createElement('tr');
+    totalTr.className = 'mc-tr mc-tr--total';
+    totalTr.innerHTML = '<td class="mc-td mc-td--label mc-td--total-label">' + tLbl + '</td>' +
+                        '<td class="mc-td mc-td--val mc-td--total">' + u.fmt(totalLow) + '</td>' +
+                        '<td class="mc-td mc-td--val mc-td--total">' + u.fmt(totalHigh) + '</td>';
+    tbody.appendChild(totalTr);
+
+    document.getElementById('cc-headline').textContent = u.fmt(totalLow) + ' — ' + u.fmt(totalHigh);
+    var res = document.getElementById('cc-results');
+    res.classList.add('mc-results--visible');
+    res.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  });
+})();
+</script>
