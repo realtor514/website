@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Seller's Guide"
 description: "Everyone says spring is the best time to sell. The data is more nuanced than that. Here's a month-by-month breakdown of what actually drives sale prices and speed in Greater Montreal."
 image: "images/articles/best-time-sell-home-montreal/featured.jpg"
-draft: true
+draft: false
 ---
 
 "List in spring" is the most repeated piece of real estate advice in Montreal. Like most advice that gets repeated endlessly, it's partially true and significantly oversimplified.

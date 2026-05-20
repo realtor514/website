@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide du vendeur"
 description: "Les vendeurs surestiment systematiquement les retours sur renovation. Voici l'analyse honnete avant de toucher quoi que ce soit."
 image: "images/articles/renovations-dont-add-value/featured.jpg"
-draft: true
+draft: false
 ---
 
 Avant d'inscrire, beaucoup de vendeurs font une decision qui leur coute de l'argent : ils renovent. Non pas parce que la propriete en a besoin pour etre vendable, mais parce qu'ils croient que la renovation rapportera plus qu'elle ne coute. Cette croyance est frequemment erronee.

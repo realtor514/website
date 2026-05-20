@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "دليل المشتري"
 description: "الوقوع في حب عقار به مشاكل خطيرة هو أحد أكثر الأشياء تكلفةً. إليك الحالات الخمس التي أوصي فيها بالرحيل."
 image: "images/articles/red-flags-walk-away-property/featured.jpg"
-draft: true
+draft: false
 ---
 
 هناك حالات محددة يكون فيها الاستنتاج التحليلي واضحاً: ارحل عن هذا العقار.

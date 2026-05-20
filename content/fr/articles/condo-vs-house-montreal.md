@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "La plupart des acheteurs ont une preference instinctive. Voici le cadre pour verifier si cette preference correspond a votre situation reelle."
 image: "images/articles/condo-vs-house-montreal/featured.jpg"
-draft: true
+draft: false
 ---
 
 Les acheteurs viennent generalement avec une preference deja formee. Mon travail n'est pas de contester la preference. C'est de m'assurer qu'elle survive au contact des chiffres et compromis reels.

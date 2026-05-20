@@ -4,7 +4,7 @@ date: 2025-06-02
 category: "Financing"
 description: "The mortgage process is more complex than your bank makes it seem, and simpler than the internet makes it look. Here is the complete, honest guide for first-time buyers in Quebec."
 image: "images/articles/guide-hypotheque-premier-acheteur-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 The mortgage process intimidates most first-time buyers. It shouldn't.

@@ -4,7 +4,7 @@ date: 2025-05-01
 category: "Guide de l'acheteur"
 description: "Tout le monde parle du prix de la maison. Personne ne parle de ce qui vient après. Voici le budget complet que tout premier acheteur au Québec doit connaître."
 image: "images/articles/vrai-cout-achat-premiere-maison-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Tout le monde vous dit combien coûte la maison. Personne ne vous dit combien coûte l'achat.

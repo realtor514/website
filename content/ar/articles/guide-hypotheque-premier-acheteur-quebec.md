@@ -4,7 +4,7 @@ date: 2025-06-02
 category: "التمويل"
 description: "عملية الرهن العقاري أكثر تعقيداً مما يوحي به بنكك، وأبسط مما يبدو عليه الإنترنت. هذا هو الدليل الكامل والصادق للمشترين للمرة الأولى في كيبيك."
 image: "images/articles/guide-hypotheque-premier-acheteur-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 عملية الرهن العقاري تُرهب معظم المشترين للمرة الأولى. لا ينبغي أن تكون كذلك.
