@@ -27,6 +27,31 @@
       </p>
     </div>
 
+    <!-- Shared utilities must be defined before tool panel scripts execute -->
+    <script>
+    window._toolsUtils = (function () {
+      function parseMoney(v) { return parseFloat(String(v).replace(/[^0-9.]/g, '')) || 0; }
+      function formatMoney(n) { return n.toLocaleString('en-CA', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+      function fmt(n) { return '$' + formatMoney(n); }
+      function cmhcRate(downPct) {
+        if (downPct >= 20) return 0;
+        if (downPct >= 15) return 0.0280;
+        if (downPct >= 10) return 0.0310;
+        if (downPct >=  5) return 0.0400;
+        return 0;
+      }
+      function calcCMHC(propertyPrice, loanAmt, downPct) {
+        if (propertyPrice >= 1500000 || downPct >= 20 || downPct < 5) return 0;
+        return Math.round(loanAmt * cmhcRate(downPct));
+      }
+      function effectiveRate(annualPct, ppy) {
+        var semi = annualPct / 100 / 2;
+        return Math.pow(1 + semi, 2 / ppy) - 1;
+      }
+      return { parseMoney: parseMoney, fmt: fmt, formatMoney: formatMoney, cmhcRate: cmhcRate, calcCMHC: calcCMHC, effectiveRate: effectiveRate };
+    })();
+    </script>
+
     <!-- Tab navigation -->
     <div class="tools-tabs reveal" role="tablist">
       <button class="tools-tab tools-tab--active" role="tab" data-panel="tool-mortgage" aria-selected="true">
@@ -80,29 +105,6 @@
 </section>
 
 <script>
-/* Shared real estate utilities — available to all tool scripts as window._toolsUtils */
-window._toolsUtils = (function () {
-  function parseMoney(v) { return parseFloat(String(v).replace(/[^0-9.]/g, '')) || 0; }
-  function formatMoney(n) { return n.toLocaleString('en-CA', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
-  function fmt(n) { return '$' + formatMoney(n); }
-  function cmhcRate(downPct) {
-    if (downPct >= 20) return 0;
-    if (downPct >= 15) return 0.0280;
-    if (downPct >= 10) return 0.0310;
-    if (downPct >=  5) return 0.0400;
-    return 0;
-  }
-  function calcCMHC(propertyPrice, loanAmt, downPct) {
-    if (propertyPrice >= 1500000 || downPct >= 20 || downPct < 5) return 0;
-    return Math.round(loanAmt * cmhcRate(downPct));
-  }
-  function effectiveRate(annualPct, ppy) {
-    var semi = annualPct / 100 / 2;
-    return Math.pow(1 + semi, 2 / ppy) - 1;
-  }
-  return { parseMoney: parseMoney, fmt: fmt, formatMoney: formatMoney, cmhcRate: cmhcRate, calcCMHC: calcCMHC, effectiveRate: effectiveRate };
-})();
-
 /* Tab switching */
 (function () {
   var tabs = document.querySelectorAll('.tools-tab');
