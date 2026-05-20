@@ -1104,6 +1104,60 @@ p:last-child { margin-bottom: 0; }
   font-family: 'Playfair Display', serif;
 }
 
+/* Headline results (prominent payment display) */
+.mc-headline-results {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin-bottom: 32px;
+}
+.mc-headline-block {
+  background: var(--off-white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 24px 28px;
+}
+.mc-headline-block--payment {
+  background: var(--navy);
+  border-color: var(--navy);
+}
+.mc-headline-block__label {
+  display: block;
+  font-size: .78rem;
+  font-weight: 600;
+  color: var(--gray);
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  margin-bottom: 10px;
+}
+.mc-headline-block--payment .mc-headline-block__label { color: rgba(255,255,255,.55); }
+.mc-headline-block__value {
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--blue);
+  line-height: 1.1;
+  margin-bottom: 8px;
+}
+.mc-headline-block__value--payment { color: var(--white); font-size: 2.2rem; }
+.mc-headline-block__sub {
+  font-size: .78rem;
+  color: var(--gray);
+  margin-top: 6px;
+  display: block;
+}
+.mc-headline-block__sub strong { color: var(--blue); }
+.mc-headline-block__freq {
+  display: block;
+  font-size: .88rem;
+  color: rgba(255,255,255,.6);
+  font-weight: 500;
+}
+@media (max-width: 640px) {
+  .mc-headline-results { grid-template-columns: 1fr; }
+}
+
 /* CMHC insurance banner */
 .mc-cmhc-banner {
   display: flex;

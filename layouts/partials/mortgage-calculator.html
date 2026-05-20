@@ -229,6 +229,30 @@
       <!-- Results table -->
       <div class="mc-results" id="mc-results" aria-live="polite">
         <div class="mc-results__divider"></div>
+
+        <!-- Prominent headline results -->
+        <div class="mc-headline-results">
+          <div class="mc-headline-block">
+            <span class="mc-headline-block__label" id="mc-hl-loan-label">
+              {{ if $isFr }}Votre prêt hypothécaire sera de :{{ else if $isAr }}مبلغ قرضك العقاري سيكون:{{ else }}Your mortgage loan amount will be:{{ end }}
+            </span>
+            <span class="mc-headline-block__value" id="mc-hl-loan">—</span>
+            <span class="mc-headline-block__sub" id="mc-hl-insurance-sub" style="display:none">
+              {{ if $isFr }}Avec prime d'assurance (CMHC / Sagen&#8482; / Canada Guaranty&#8482;) :{{ else if $isAr }}مع قسط التأمين (CMHC / Sagen&#8482; / Canada Guaranty&#8482;):{{ else }}With insurance premium (CMHC / Sagen&#8482; / Canada Guaranty&#8482;):{{ end }}
+              <strong id="mc-hl-insurance-amt">—</strong>
+            </span>
+          </div>
+          <div class="mc-headline-block mc-headline-block--payment">
+            <span class="mc-headline-block__label">
+              {{ if $isFr }}Votre paiement sera de :{{ else if $isAr }}دفعتك ستكون:{{ else }}Your payments will be:{{ end }}
+            </span>
+            <span class="mc-headline-block__value mc-headline-block__value--payment" id="mc-hl-payment">—</span>
+            <span class="mc-headline-block__freq" id="mc-hl-freq-label">
+              {{ if $isFr }}par mois{{ else if $isAr }}في الشهر{{ else }}per month{{ end }}
+            </span>
+          </div>
+        </div>
+
         <h3 class="mc-results__title">
           {{ if $isFr }}Sommaire du calcul{{ else if $isAr }}ملخص الحساب{{ else }}Calculation Summary{{ end }}
         </h3>
@@ -447,14 +471,33 @@
     updateTermHeader();
 
     /* Insurance row */
-    var insRow = document.getElementById('mc-r-insurance-row');
+    var insRow   = document.getElementById('mc-r-insurance-row');
+    var hlInsSub = document.getElementById('mc-hl-insurance-sub');
     if (premium > 0) {
       set('mc-r-insurance-term',  fmt(premium));
       set('mc-r-insurance-amort', fmt(premium));
       insRow.style.display = '';
+      set('mc-hl-insurance-amt', fmt(premium));
+      hlInsSub.style.display = '';
     } else {
-      insRow.style.display = 'none';
+      insRow.style.display   = 'none';
+      hlInsSub.style.display = 'none';
     }
+
+    /* Headline results */
+    set('mc-hl-loan',    fmt(P));
+    set('mc-hl-payment', fmt(payment));
+
+    /* Frequency label for headline */
+    var lang = document.documentElement.lang || 'en';
+    var freqLabels = {
+      12: {en:'per month',      fr:'par mois',           ar:'في الشهر'},
+      24: {en:'semi-monthly',   fr:'bimensuel',          ar:'نصف شهري'},
+      26: {en:'every two weeks',fr:'aux deux semaines',  ar:'كل أسبوعين'},
+      52: {en:'per week',       fr:'par semaine',        ar:'في الأسبوع'}
+    };
+    var fl = freqLabels[ppy] || freqLabels[12];
+    set('mc-hl-freq-label', fl[lang] || fl['en']);
 
     set('mc-r-term-n',          T);
     set('mc-r-amort-n',         N);
