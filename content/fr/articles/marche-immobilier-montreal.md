@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Analyse de marché"
 description: "Au-delà des manchettes et des prédictions, voici ce que les indicateurs que je suis chaque mois révèlent sur l'état réel du marché immobilier de Montréal et Laval."
 image: "images/articles/marche-immobilier-montreal-analyse-donnees/featured.jpg"
-draft: false
+draft: true
 ---
 
 Chaque semaine, quelqu'un me demande si c'est un bon moment d'acheter ou de vendre à Montréal. Et chaque semaine, je donne la même réponse: cela dépend entièrement des données, pas des prédictions, pas des manchettes, et pas de ce que le marché a fait l'année dernière.

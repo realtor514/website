@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Investment"
 description: "Everyone says income properties build wealth. Very few people explain the actual mechanics, the real risks, and what a first-time income property purchase looks like from start to finish."
 image: "images/articles/income-property-beginners/featured.jpg"
-draft: false
+draft: true
 ---
 
 Income property investing in Greater Montreal gets discussed in two extremes: either as a guaranteed path to wealth that anyone can access, or as a complex undertaking only professionals should attempt. Both framings are wrong.

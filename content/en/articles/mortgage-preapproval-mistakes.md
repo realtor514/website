@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Finance"
 description: "A mortgage pre-approval feels like a green light. It isn't. Most buyers misunderstand what it means, what it doesn't cover, and how to actually use it as a strategic tool."
 image: "images/articles/mortgage-preapproval-mistakes/featured.jpg"
-draft: false
+draft: true
 ---
 
 Most buyers treat a mortgage pre-approval like a finish line. You get it, you have a number, and now you go shopping. That mindset causes expensive problems.

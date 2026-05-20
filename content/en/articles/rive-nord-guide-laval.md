@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Local Guide"
 description: "The North Shore of Montreal offers some of the strongest value propositions in Greater Montreal real estate. Here is an honest breakdown of what each area offers and who it suits."
 image: "images/articles/rive-nord-guide-laval/featured.jpg"
-draft: false
+draft: true
 ---
 
 When buyers tell me they want "something more affordable than Montreal but still close enough to the city," the North Shore is almost always the answer. But the North Shore is not one market. It is a collection of distinct municipalities, each with a different character, infrastructure profile, and investment trajectory.

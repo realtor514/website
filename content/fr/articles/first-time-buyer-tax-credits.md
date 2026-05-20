@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Financement"
 description: "Entre les programmes federaux et provinciaux, les premiers acheteurs au Quebec peuvent acceder a des dizaines de milliers de dollars. La plupart ne les connaissent pas tous."
 image: "images/articles/first-time-buyer-tax-credits/featured.jpg"
-draft: false
+draft: true
 ---
 
 L'une des conversations que j'ai regulierement avec mes clients premiers acheteurs concerne les programmes financiers auxquels ils sont admissibles et qu'ils n'ont pas explores.

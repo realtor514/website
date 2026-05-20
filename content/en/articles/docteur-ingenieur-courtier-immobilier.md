@@ -4,7 +4,7 @@ date: 2025-05-26
 category: "About Georges"
 description: "I have a doctorate in biomedical engineering. I taught at university for five years. And then I bought a triplex and became a real estate broker. Here is the story, and why these careers are more connected than they look."
 image: "images/articles/docteur-ingenieur-courtier-immobilier/featured.jpg"
-draft: false
+draft: true
 ---
 
 People often raise an eyebrow when they hear my background: doctorate in biomedical engineering from ÉTS, five years of university teaching, biomedical equipment management for communities in Nunavik, and now real estate broker at RE/MAX DU CARTIER INC.

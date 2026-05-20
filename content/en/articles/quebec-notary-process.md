@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Real Estate 101"
 description: "In Quebec, real estate transactions close through a notary, not a lawyer. The process is different from other provinces and significantly different from what international buyers expect. Here is a clear explanation."
 image: "images/articles/quebec-notary-process/featured.jpg"
-draft: false
+draft: true
 ---
 
 One of the most common points of confusion for buyers coming to Quebec from other provinces or other countries is the role of the notary in a real estate transaction. In most English-speaking jurisdictions, real estate closings are handled by real estate lawyers. In Quebec, they are handled by a notaire, and the distinction is more than a title difference.

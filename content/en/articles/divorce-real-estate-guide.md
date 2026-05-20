@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Real Estate 101"
 description: "Separating couples face some of the most complex real estate decisions of their lives under the worst possible emotional circumstances. Here is what the process actually looks like in Quebec."
 image: "images/articles/divorce-real-estate-guide/featured.jpg"
-draft: false
+draft: true
 ---
 
 Real estate is often the most significant shared asset in a divorce or separation. Navigating its disposition under emotional stress, with compressed timelines and high financial stakes, is genuinely difficult. I want to give you a clear picture of the options and processes, not legal advice, which requires a family law attorney.

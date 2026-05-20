@@ -4,7 +4,7 @@ date: 2025-01-15
 category: "Buyer's Guide"
 description: "A practical guide for home buyers entering the Laval real estate market ."
 image: "images/articles/buying-in-laval-/featured.jpg"
-draft: false
+draft: true
 ---
 
 The Laval real estate market continues to evolve . Whether you're a first-time buyer or a seasoned investor, here's what you need to know before making your move.

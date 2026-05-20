@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Finance"
 description: "The rent vs. buy debate is full of ideology on both sides. I prefer math. Here is the actual calculation you need to run before deciding which makes more sense for your situation."
 image: "images/articles/renting-vs-buying-calculation/featured.jpg"
-draft: false
+draft: true
 ---
 
 I get asked this question constantly: "Is it better to rent or buy right now?"

@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide du vendeur"
 description: "Je pensais que la valorisation etait optionnelle. Une experience specifique a change ma vision definitivement."
 image: "images/articles/home-staging-client-story/featured.jpg"
-draft: false
+draft: true
 ---
 
 J'aborde la plupart des choses analytiquement. Mon instinct est de faire confiance aux donnees plutot qu'a l'anecdote. Mais parfois une experience specifique recalibre votre comprehension de quelque chose.

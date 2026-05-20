@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Finance"
 description: "Between federal and provincial programs, first-time buyers in Quebec can access tens of thousands of dollars in benefits. Most don't know all of them. Here's the complete picture."
 image: "images/articles/first-time-buyer-tax-credits/featured.jpg"
-draft: false
+draft: true
 ---
 
 One of the conversations I consistently have with first-time buyer clients is about the financial programs they qualify for and haven't looked into. My engineering background means I approach these systematically - and the systematic view shows a surprising amount of available benefit that buyers leave unclaimed.

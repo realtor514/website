@@ -4,7 +4,7 @@ date: 2025-01-15
 category: "Guide de l'acheteur"
 description: "Un guide pratique pour les acheteurs qui veulent entrer sur le marchÃ© immobilier de Laval ."
 image: "images/articles/buying-in-laval-/featured.jpg"
-draft: false
+draft: true
 ---
 
 Le marchÃ© immobilier de Laval continue d'Ã©voluer . Que vous soyez premier acheteur ou investisseur chevronnÃ©, voici ce que vous devez savoir avant de passer Ã  l'action.

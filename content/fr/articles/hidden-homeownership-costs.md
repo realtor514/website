@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "Votre versement hypothécaire est le chiffre sur lequel tout le monde se concentre. C'est aussi le chiffre le plus trompeur dans tout le processus d'achat. Voici ce qui apparaît vraiment la première année."
 image: "images/articles/hidden-homeownership-costs/featured.jpg"
-draft: false
+draft: true
 ---
 
 Voici le chiffre que les banques utilisent pour calculer si vous pouvez vous permettre une maison : votre versement hypothécaire. Voici le chiffre qui compte réellement : votre coût total de possession. Ces deux chiffres peuvent différer de 15 000 à 25 000 $ par an.

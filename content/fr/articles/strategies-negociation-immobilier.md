@@ -4,7 +4,7 @@ date: 2025-06-09
 category: "Stratégie"
 description: "La négociation immobilière n'est pas une question d'agressivité. C'est une question de préparation. Voici les cinq stratégies que j'applique systématiquement avec chaque client."
 image: "images/articles/strategies-negociation-immobilier-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 La négociation immobilière n'a rien à voir avec le fait d'être la personne la plus dure dans la pièce. Elle a tout à voir avec le fait d'être la mieux préparée.

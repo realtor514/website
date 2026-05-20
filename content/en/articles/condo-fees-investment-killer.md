@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Investment"
 description: "Nobody talks about how condo fees compound over time, how underfunded reserve funds become your problem, and how a 'cheap' condo can cost more than a house. Until now."
 image: "images/articles/condo-fees-investment-killer/featured.jpg"
-draft: false
+draft: true
 ---
 
 The condo looks affordable. The price is right. The monthly fee is $380 - manageable.

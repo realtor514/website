@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Real Stories"
 description: "The transactions where everything goes wrong teach more than the ones that go smoothly. Here are the specific lessons from a difficult deal that changed how I approach every transaction."
 image: "images/articles/worst-real-estate-deal-lessons/featured.jpg"
-draft: false
+draft: true
 ---
 
 Anyone in real estate who tells you every deal they have been involved with went smoothly is either new or not being honest. Transactions are complex multi-party events involving significant money, legal obligations, emotional decisions, and tight timelines. Things go wrong.

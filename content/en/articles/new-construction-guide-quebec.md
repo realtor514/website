@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Buyer's Guide"
 description: "New construction feels simple: choose your finishes, move in, enjoy. The reality involves GCR warranties, extras charges, and delays that nobody explains upfront. Here's the full picture."
 image: "images/articles/new-construction-guide-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 New construction is seductive. Everything is fresh, under warranty, and exactly what you specified. No previous owners, no deferred maintenance, no surprises hiding in the walls.

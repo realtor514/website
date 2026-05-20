@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "About Georges"
 description: "Choosing which brokerage to affiliate with is a decision that affects what I can offer my clients. Here is an honest explanation of why RE/MAX DU CARTIER and what that choice actually delivers."
 image: "images/articles/why-choose-remax/featured.jpg"
-draft: false
+draft: true
 ---
 
 When I decided to become a real estate broker, the question of which brokerage to join was not a trivial one. The choice of affiliation affects the tools available, the brand recognition, the referral network, the training resources, and ultimately the level of service I can provide to clients.

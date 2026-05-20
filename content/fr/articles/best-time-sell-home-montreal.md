@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide du vendeur"
 description: "Tout le monde dit que le printemps est le meilleur moment pour vendre. Les données sont plus nuancées. Voici une analyse mensuelle de ce qui influence vraiment les prix et la rapidité de vente."
 image: "images/articles/best-time-sell-home-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 « Inscrivez-vous au printemps » est le conseil immobilier le plus répété à Montréal. Comme la plupart des conseils répétés sans fin, il est partiellement vrai et considérablement simplifié.

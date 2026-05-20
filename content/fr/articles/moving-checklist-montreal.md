@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide pratique"
 description: "Entre la date de possession et le jour du demenagement, il y a des dizaines de taches qui peuvent etre oubliees. Voici la liste complete."
 image: "images/articles/moving-checklist-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 Obtenir les cles est une etape, pas une fin. La periode entre l'acceptation de l'offre et votre premiere nuit dans une nouvelle propriete implique plus d'etapes administratives et logistiques que la plupart des acheteurs ne l'anticipent.

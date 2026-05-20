@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Buyer's Guide"
 description: "Your mortgage payment is the number everyone focuses on. It's also the most misleading number in the entire buying process. Here's what actually shows up on your first year of ownership."
 image: "images/articles/hidden-homeownership-costs/featured.jpg"
-draft: false
+draft: true
 ---
 
 Here is the number banks use when they calculate whether you can afford a home: your mortgage payment.

@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Analyse de marche"
 description: "Les zones scolaires sont l'une des variables les moins discutees et les plus impactantes en immobilier residentiel."
 image: "images/articles/school-districts-property-values/featured.jpg"
-draft: false
+draft: true
 ---
 
 Dans tout marche ou les familles representent une part importante des acheteurs, la qualite et l'acces aux ecoles sont parmi les moteurs les plus puissants de la demande de proprietes.

@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "استثمار"
 description: "امتلاك عقار إيجاري وإدارته مهارتان مختلفتان. إليك الواقع التشغيلي."
 image: "images/articles/rental-property-management/featured.jpg"
-draft: false
+draft: true
 ---
 
 شراء عقار استثماري قرار. إدارته ممارسة. كلاهما يتطلب مهارات مختلفة.

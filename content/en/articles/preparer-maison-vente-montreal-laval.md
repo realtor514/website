@@ -4,7 +4,7 @@ date: 2025-05-06
 category: "Seller's Guide"
 description: "The sellers who prepare well consistently sell faster and for more money. Here is exactly what to do (and what not to waste money on) before listing your property."
 image: "images/articles/preparer-maison-vente-montreal-laval/featured.jpg"
-draft: false
+draft: true
 ---
 
 The sellers who prepare their properties well consistently sell faster and for more money than those who don't. This is not a theory; it is visible in the data every single month.

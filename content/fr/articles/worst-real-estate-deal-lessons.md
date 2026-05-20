@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Temoignages"
 description: "Les transactions ou tout va mal enseignent plus que celles qui se deroulent bien. Voici les leçons specifiques qui ont change mon approche."
 image: "images/articles/worst-real-estate-deal-lessons/featured.jpg"
-draft: false
+draft: true
 ---
 
 Quiconque en immobilier vous dit que chaque transaction s'est passee sans probleme est soit nouveau, soit pas honnete. Les transactions sont des evenements multi-parties complexes impliquant de l'argent important, des obligations legales, des decisions emotionnelles et des echeanciers serres.

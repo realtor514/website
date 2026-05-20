@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Finance"
 description: "Waiting to save 20% down before buying? That strategy costs some buyers years of equity building and can actually be the wrong financial move. Let's run the real numbers."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"
-draft: false
+draft: true
 ---
 
 "Save 20% before you buy. Never pay mortgage insurance."

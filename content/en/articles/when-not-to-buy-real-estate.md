@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Honest Advice"
 description: "Every broker wants a commission. But the best advice I can give sometimes costs me one. Here are the situations where buying a property is the wrong move right now."
 image: "images/articles/when-not-to-buy-real-estate/featured.jpg"
-draft: false
+draft: true
 ---
 
 This article will cost me money to write. That's fine.

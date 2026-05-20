@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "Les offres comptant ont un vrai avantage dans les situations competitives. Mais l'avantage est plus petit qu'on ne le pense et les acheteurs finances ont plus d'outils."
 image: "images/articles/cash-buyers-advantage/featured.jpg"
-draft: false
+draft: true
 ---
 
 Les acheteurs comptant ont un veritable avantage dans les transactions immobilieres. L'avantage n'est pas, contrairement a ce que beaucoup supposent, l'argent lui-meme. Le vendeur recevra le meme montant qu'il vienne du compte bancaire de l'acheteur ou d'un preteur hypothecaire. L'avantage est la suppression de la condition de financement et la certitude qu'elle represente.

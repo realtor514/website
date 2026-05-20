@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "تحليل السوق"
 description: "الجميع يركز على الجزيرة. البيانات تُشير إلى لافال منذ سنوات. إليك الحجة."
 image: "images/articles/laval-investment-city/featured.jpg"
-draft: false
+draft: true
 ---
 
 اشتريت ثلاثيتي الخاصة في لافال. هذه الحقيقة تخبرك شيئاً عن المكان الذي أضع فيه مالي.

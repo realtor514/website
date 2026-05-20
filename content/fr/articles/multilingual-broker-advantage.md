@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "A propos de Georges"
 description: "Je travaille en francais, en anglais et en arabe. Ce n'est pas qu'une commodite. Voici pourquoi la langue compte plus que la plupart ne le pensent."
 image: "images/articles/multilingual-broker-advantage/featured.jpg"
-draft: false
+draft: true
 ---
 
 Quand je dis aux gens que je travaille en trois langues, la reaction est generalement une reconnaissance polie. Commode pour certains clients. Je pense que la signification va plus loin.

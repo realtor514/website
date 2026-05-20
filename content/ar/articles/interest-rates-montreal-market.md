@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "تحليل السوق"
 description: "أسعار الفائدة تؤثر على القدرة الشرائية والمنافسة بطرق لا يأخذها معظم المشترين والبائعين بعين الاعتبار."
 image: "images/articles/interest-rates-montreal-market/featured.jpg"
-draft: false
+draft: true
 ---
 
 أسعار الفائدة هي المتغير الذي يتتبعه معظم المشترين بأقل اهتمام وهو الأكثر تأثيراً في عملية الشراء.

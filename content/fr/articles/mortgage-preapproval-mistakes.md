@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Financement"
 description: "Une préapprobation hypothécaire ressemble à un feu vert. Ce n'en est pas un. Voici ce qu'elle signifie réellement et comment l'utiliser comme outil stratégique."
 image: "images/articles/mortgage-preapproval-mistakes/featured.jpg"
-draft: false
+draft: true
 ---
 
 La plupart des acheteurs traitent une préapprobation hypothécaire comme une ligne d'arrivée. Vous l'obtenez, vous avez un chiffre, et maintenant vous cherchez. Cette mentalité cause des problèmes coûteux.

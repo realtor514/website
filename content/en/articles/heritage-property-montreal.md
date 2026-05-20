@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Buyer's Guide"
 description: "Montreal's heritage buildings are some of the most beautiful in North America. They are also some of the most complicated to buy, finance, and maintain. Here is what to know before falling in love with one."
 image: "images/articles/heritage-property-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 Montreal's heritage residential stock is genuinely extraordinary. Victorian row houses in Outremont, Italianate duplexes in the Plateau, Second Empire mansions in Westmount, greystone triplexes that define the visual character of neighborhoods across the island. If you grew up in a city built mostly after 1970, walking through these neighborhoods produces a specific feeling that modern construction simply cannot replicate.

@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Seller's Guide"
 description: "Selling the family home and moving to something smaller is one of the most significant real estate decisions of a lifetime. Here is how to approach it with financial clarity and emotional intelligence."
 image: "images/articles/senior-downsizing-guide/featured.jpg"
-draft: false
+draft: true
 ---
 
 Downsizing is not just a real estate transaction. It is a life transition that involves financial recalibration, lifestyle renegotiation, and the process of letting go of a home that may have held a family's history for decades. Done well, it frees capital, reduces maintenance burden, and creates a living situation better suited to the next phase of life. Done poorly, it creates regret.

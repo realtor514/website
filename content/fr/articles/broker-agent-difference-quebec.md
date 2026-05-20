@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Immobilier 101"
 description: "La plupart des acheteurs et vendeurs utilisent ces termes de façon interchangeable. Ils ne sont pas identiques. Voici une explication claire de ce que chaque designation signifie au Quebec."
 image: "images/articles/broker-agent-difference-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 Quand je dis que je suis courtier immobilier, la reponse la plus frequente est : « Ah, un agent d'immeuble ? » Les termes sont utilises de façon interchangeable dans la conversation quotidienne, mais ils ont des significations precises. Au Quebec, le cadre reglementaire est suffisamment specifique pour meriter une explication.

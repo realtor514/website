@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Real Estate 101"
 description: "Most buyers and sellers use these terms interchangeably. They're not the same. Here's a clear breakdown of what each designation means, who regulates them, and why it matters for you."
 image: "images/articles/broker-agent-difference-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 When I tell someone I'm a courtier immobilier, the response I most often get is "oh, a realtor?" The terms get used interchangeably in everyday conversation, but they mean different things - and in Quebec, the regulatory framework is specific enough that it's worth understanding.

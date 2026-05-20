@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Buyer's Guide"
 description: "Off-market properties are real. They are also surrounded by more mythology than almost any other concept in real estate. Here is what they actually are and how buyers can access them."
 image: "images/articles/off-market-properties/featured.jpg"
-draft: false
+draft: true
 ---
 
 "Off-market" is one of the most used and least accurately understood terms in real estate. I hear it from buyers who want to avoid competition, from investors looking for below-market deals, and from sellers who want privacy. Let me explain what it actually means and what it does not.

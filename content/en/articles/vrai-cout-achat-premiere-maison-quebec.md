@@ -4,7 +4,7 @@ date: 2025-05-01
 category: "Buyer's Guide"
 description: "Everyone talks about the purchase price. Nobody tells you about what comes after. Here is the complete cost breakdown every first-time buyer in Quebec needs to know."
 image: "images/articles/vrai-cout-achat-premiere-maison-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 Everyone tells you what the house costs. Nobody tells you what buying it actually costs.

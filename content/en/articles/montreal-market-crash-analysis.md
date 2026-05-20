@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Market Insights"
 description: "The question comes up constantly. The honest answer is more nuanced than either the bulls or the bears want to admit. Here is how I think about crash risk in the Montreal market."
 image: "images/articles/montreal-market-crash-analysis/featured.jpg"
-draft: false
+draft: true
 ---
 
 Every time prices are elevated, the crash question surfaces. And every time I hear it, I try to separate what is knowable from what is speculation dressed as analysis.

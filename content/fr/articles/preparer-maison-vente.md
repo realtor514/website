@@ -4,7 +4,7 @@ date: 2025-05-06
 category: "Guide du vendeur"
 description: "Les vendeurs qui préparent bien leur propriété vendent plus vite et au meilleur prix. Voici exactement quoi faire, et quoi ne pas dépenser inutilement, avant de mettre en marché."
 image: "images/articles/preparer-maison-vente-montreal-laval/featured.jpg"
-draft: false
+draft: true
 ---
 
 Les vendeurs qui préparent bien leur propriété vendent systématiquement plus vite et à un meilleur prix que ceux qui ne le font pas. Ce n'est pas une théorie; c'est visible dans les données chaque mois.

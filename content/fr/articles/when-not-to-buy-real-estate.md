@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Conseils honnêtes"
 description: "Tout courtier veut une commission. Mais le meilleur conseil que je puisse donner m'en coûte parfois une. Voici les situations où acheter une propriété est la mauvaise décision."
 image: "images/articles/when-not-to-buy-real-estate/featured.jpg"
-draft: false
+draft: true
 ---
 
 Cet article me coûtera de l'argent à écrire. C'est correct.

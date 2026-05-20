@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "تحليل السوق"
 description: "مناطق المدارس من أقل المتغيرات نقاشاً وأكثرها تأثيراً في العقارات السكنية."
 image: "images/articles/school-districts-property-values/featured.jpg"
-draft: false
+draft: true
 ---
 
 في أي سوق تمثل فيه العائلات نسبة كبيرة من المشترين، تُعدّ جودة المدارس والوصول إليها من أقوى محركات الطلب على العقارات.

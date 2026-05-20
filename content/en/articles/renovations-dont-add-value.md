@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Seller's Guide"
 description: "Sellers consistently overestimate renovation returns. Some improvements genuinely add value. Many add cost without proportional return. Here is the honest breakdown before you touch anything."
 image: "images/articles/renovations-dont-add-value/featured.jpg"
-draft: false
+draft: true
 ---
 
 Before listing, many sellers make a decision that costs them money: they renovate. Not because the property requires it to be sellable, but because they believe the renovation will return more than it costs. This belief is frequently wrong.

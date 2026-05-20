@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Analyse de marché"
 description: "Tous les quartiers montréalais ne se valent pas comme investissement. Voici mon analyse honnête basée sur les données pour savoir où acheter maintenant."
 image: "images/articles/best-neighborhoods-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 On me pose constamment cette question : « Georges, où devrais-je acheter à Montréal ? » Ma réponse commence toujours par une question en retour : « Qu'est-ce que vous optimisez ? » Car le meilleur quartier pour un premier acheteur qui bâtit de l'équité est différent du meilleur quartier pour un investisseur qui cherche un rendement locatif.

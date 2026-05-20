@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "A propos de Georges"
 description: "RE/MAX est le plus grand reseau immobilier au monde par volume de transactions. Voici ce que cela signifie concrètement, au-dela du marketing."
 image: "images/articles/why-choose-remax/featured.jpg"
-draft: false
+draft: true
 ---
 
 Quand j'ai choisi de m'affilier a RE/MAX DU CARTIER, la decision n'etait pas basee uniquement sur la notoriete de la marque. Je voulais comprendre ce que le reseau offre vraiment en pratique.

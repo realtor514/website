@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Seller's Guide"
 description: "I used to think home staging was optional. A specific client experience changed my view permanently. Here is what happened and what it taught me about how buyers actually make decisions."
 image: "images/articles/home-staging-client-story/featured.jpg"
-draft: false
+draft: true
 ---
 
 I approach most things analytically. My instinct is to trust data over anecdote. But sometimes a specific experience recalibrates how you understand something, and for me, that experience was watching home staging change the outcome of a difficult listing.

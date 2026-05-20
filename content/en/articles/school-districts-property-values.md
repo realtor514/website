@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Market Insights"
 description: "School zones are one of the least discussed and most impactful variables in residential real estate. Here is how they work in Quebec and what they mean for buyers and investors."
 image: "images/articles/school-districts-property-values/featured.jpg"
-draft: false
+draft: true
 ---
 
 In any market where families are a significant portion of buyers, school quality and access are among the most powerful drivers of property demand. Montreal and Laval are no exception. Understanding how the Quebec school system intersects with real estate can meaningfully improve the decisions buyers and investors make.

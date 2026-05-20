@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Market Insights"
 description: "Everyone focuses on the island. The data has been quietly pointing to Laval for years. Here's the case for why it consistently outperforms the conversation around it."
 image: "images/articles/laval-investment-city/featured.jpg"
-draft: false
+draft: true
 ---
 
 I bought my own triplex in Laval. That fact tells you something about where I put my money when I'm making personal real estate decisions.

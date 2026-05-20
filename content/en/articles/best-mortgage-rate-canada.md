@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Finance"
 description: "Most buyers accept the first rate their bank offers. There is usually a better option. Here is the systematic approach to finding and securing the lowest rate your financial profile qualifies for."
 image: "images/articles/best-mortgage-rate-canada/featured.jpg"
-draft: false
+draft: true
 ---
 
 Your mortgage rate affects every monthly payment for the term of your mortgage and the total interest you pay over your amortization period. A difference of 0.5% on a $450,000 mortgage saves approximately $2,250 per year, or $56,000 over a 25-year amortization. The effort required to find the best rate is worth several thousand dollars per hour of time invested.

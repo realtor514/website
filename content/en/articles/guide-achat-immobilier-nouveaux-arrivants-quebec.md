@@ -4,7 +4,7 @@ date: 2025-06-16
 category: "Buyer's Guide"
 description: "Buying real estate in Quebec as a newcomer is entirely possible, but the system works differently from most countries. This guide walks through everything you need to know, in plain language."
 image: "images/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 I came from Lebanon to do my doctorate in Montreal. The Quebec real estate system was completely foreign to me: the mortgage structure, the legal framework, the tax implications, the cultural norms around negotiation. I had to learn it all from scratch.

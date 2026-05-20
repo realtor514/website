@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Buyer's Guide"
 description: "Falling in love with a property that has serious problems is one of the most expensive things that can happen to a buyer. Here are the five situations where I recommend walking, regardless of price."
 image: "images/articles/red-flags-walk-away-property/featured.jpg"
-draft: false
+draft: true
 ---
 
 I believe in data and analysis over gut feeling in most areas of real estate. But I also believe there are specific situations where the analytical conclusion is clear: walk away from this property, regardless of how appealing the price or how much you love the kitchen.

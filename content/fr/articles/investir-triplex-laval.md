@@ -4,7 +4,7 @@ date: 2025-05-12
 category: "Investissement"
 description: "Les chiffres d'un triplex à Laval ne fonctionnent pas juste - ils fonctionnent mieux que la plupart des produits financiers accessibles à l'investisseur moyen. Voici comment l'analyser correctement."
 image: "images/articles/investir-triplex-laval-strategie/featured.jpg"
-draft: false
+draft: true
 ---
 
 J'ai acheté un triplex à Laval en 2022. Deux ans plus tard, je peux affirmer avec confiance que c'est l'une des meilleures décisions financières que j'aie prises, pas parce que le marché était parfait, pas parce que tout s'est passé exactement comme prévu, mais parce que les fondamentaux de l'investissement étaient solides.

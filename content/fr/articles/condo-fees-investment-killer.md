@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Investissement"
 description: "Personne ne parle de la façon dont les frais de condo s'accumulent avec le temps, comment les fonds de prévoyance sous-financés deviennent votre problème, et comment un condo 'bon marché' peut coûter plus cher qu'une maison."
 image: "images/articles/condo-fees-investment-killer/featured.jpg"
-draft: false
+draft: true
 ---
 
 Le condo semble abordable. Le prix est juste. Le frais mensuel est de 380 $ - gérable. Dix ans plus tard : le frais est de 620 $, il y a eu une cotisation spéciale de 18 000 $, et vous vous demandez où sont passés vos rendements.

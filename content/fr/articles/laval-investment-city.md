@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Analyse de marche"
 description: "Tout le monde regarde l'ile. Les donnees pointent vers Laval depuis des annees. Voici pourquoi."
 image: "images/articles/laval-investment-city/featured.jpg"
-draft: false
+draft: true
 ---
 
 J'ai achete mon propre triplex a Laval. Ce fait vous dit quelque chose sur la ou je mets mon argent.

@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "La plupart des acheteurs suivent l'inspecteur et hochent la tête. Voici comment comprendre ce que vous voyez réellement - les problèmes qui comptent et les questions à poser."
 image: "images/articles/home-inspection-checklist-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 Mon parcours en ingénierie me permet de regarder les bâtiments différemment. Je peux lire une configuration de plomberie et comprendre ce que les décisions d'installation originales révèlent sur l'époque et le budget du constructeur. Je peux examiner un panneau électrique et savoir immédiatement s'il pose problème.

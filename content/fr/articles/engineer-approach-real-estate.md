@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "A propos de Georges"
 description: "Les memes outils analytiques qu'un ingenieur utilise pour resoudre des problemes complexes s'appliquent directement aux decisions immobilieres."
 image: "images/articles/engineer-approach-real-estate/featured.jpg"
-draft: false
+draft: true
 ---
 
 Quand les gens apprennent que j'ai un doctorat en genie biomedical et que je travaille maintenant en immobilier, la reaction est generalement de la curiosite suivie d'une question : comment ces deux choses se connectent-elles ?

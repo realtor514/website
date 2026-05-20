@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "عقارات 101"
 description: "الأزواج المنفصلون يواجهون بعضاً من أعقد القرارات العقارية في أسوأ الظروف العاطفية."
 image: "images/articles/divorce-real-estate-guide/featured.jpg"
-draft: false
+draft: true
 ---
 
 العقارات كثيراً ما تكون الأصل المشترك الأهم في الطلاق. إليك نظرة عملية على الخيارات والعمليات.

@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "La construction neuve semble simple : choisissez vos finitions, emmenagez. La realite implique des garanties GCR, des frais supplementaires et des delais que personne n'explique d'avance."
 image: "images/articles/new-construction-guide-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 La construction neuve est seduisante. Tout est frais, sous garantie, exactement ce que vous avez specifie. Voici la realite plus complete.

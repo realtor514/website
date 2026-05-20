@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "عقارات 101"
 description: "وراثة العقارات في كيبيك تستدعي قرارات قانونية ومالية لم يكن معظم الورثة مستعدين لها."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 وراثة عقار معقدة دائماً تقريباً. تحدث في سياق الحزن، وكثيراً ما تشمل ورثة متعددين بأوضاع مالية مختلفة.

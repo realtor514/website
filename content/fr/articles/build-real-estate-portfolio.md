@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Investissement"
 description: "La richesse immobiliere ne se batit pas par une transaction brillante. Elle se construit par une approche systematique sur le temps."
 image: "images/articles/build-real-estate-portfolio/featured.jpg"
-draft: false
+draft: true
 ---
 
 La question que les investisseurs serieux me posent n'est pas 'quelle propriete devrais-je acheter ?' C'est 'comment puis-je batir un portefeuille qui genere de la richesse sur 10 a 20 ans ?' Ce sont des questions tres differentes.

@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Buyer's Guide"
 description: "The first visit to a property is where emotional decisions get made. Here is how to also make it a productive information-gathering exercise so you can decide with your head as well as your gut."
 image: "images/articles/first-visit-property-checklist/featured.jpg"
-draft: false
+draft: true
 ---
 
 There is a sequence to how buyers experience a first property visit. They walk in and their gut registers an immediate response: yes or no. If it is yes, they start to imagine their life there, which makes it harder to see the problems. If it is no, they often leave quickly without gathering useful information about why the property did not work.

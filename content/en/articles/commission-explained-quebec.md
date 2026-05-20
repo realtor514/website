@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Real Estate 101"
 description: "Commission is the fee everyone knows exists and almost nobody fully understands. Here is a transparent breakdown of how it works, who pays it, and what you actually get for it."
 image: "images/articles/commission-explained-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 Real estate commission is one of the most discussed and least understood fees in a property transaction. People know it exists. Most don't know exactly how it's structured, how it gets split, or what value it should be delivering.

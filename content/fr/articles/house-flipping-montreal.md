@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Investissement"
 description: "Le retournement de maisons semble profitable a la television. Les vrais chiffres racontent une histoire plus sobre. Voici un cadre realiste."
 image: "images/articles/house-flipping-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 Le retournement de proprietes en television semble simple : acheter bas, renover a bon prix, vendre haut, encaisser le benefice. La realite implique des depassements de couts, des delais et des obligations fiscales.

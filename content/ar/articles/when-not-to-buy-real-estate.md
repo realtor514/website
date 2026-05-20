@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "نصيحة صادقة"
 description: "كل وسيط يريد عمولة. لكن أفضل نصيحة يمكنني تقديمها تكلفني أحياناً عمولة. إليك الحالات التي يكون فيها الشراء قراراً خاطئاً."
 image: "images/articles/when-not-to-buy-real-estate/featured.jpg"
-draft: false
+draft: true
 ---
 
 هذا المقال سيكلفني مالاً. لا بأس.

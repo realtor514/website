@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Buyer's Guide"
 description: "An open house visit is an information gathering exercise. Most buyers collect impressions. Experienced brokers collect data. Here is what to look for, ask, and remember."
 image: "images/articles/open-house-secrets/featured.jpg"
-draft: false
+draft: true
 ---
 
 Most buyers attend open houses the same way: they walk through the rooms, form impressions about the layout and finishes, maybe open a closet, and leave with a general feeling of "yes" or "no." This is how you miss the information that matters most.

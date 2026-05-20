@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Real Estate 101"
 description: "Some of the most repeated advice in real estate is wrong, or was true in a different market, or applies to a different jurisdiction. Here are the ones I see costing buyers the most."
 image: "images/articles/real-estate-myths-debunked/featured.jpg"
-draft: false
+draft: true
 ---
 
 My engineering background gives me a specific allergy to received wisdom that has not been tested against evidence. Real estate is full of it. Here are the seven myths I correct most often.

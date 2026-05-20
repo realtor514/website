@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Immobilier 101"
 description: "La commission est le frais que tout le monde sait qui existe et que presque personne ne comprend completement. Voici une explication transparente."
 image: "images/articles/commission-explained-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 La commission immobiliere est l'un des frais les plus discutes et les moins bien compris dans une transaction.

@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "About Georges"
 description: "The same analytical tools that engineers use to solve complex problems apply directly to real estate decisions. Here is the framework, and why most buyers would benefit from using it."
 image: "images/articles/engineer-approach-real-estate/featured.jpg"
-draft: false
+draft: true
 ---
 
 When people learn I have a doctorate in biomedical engineering and now work in real estate, the reaction is usually curiosity followed by a question: how do those two things connect?

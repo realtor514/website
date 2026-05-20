@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "دليل البائع"
 description: "كنت أعتقد أن التهيئة اختيارية. تجربة محددة غيّرت وجهة نظري نهائياً."
 image: "images/articles/home-staging-client-story/featured.jpg"
-draft: false
+draft: true
 ---
 
 أتعامل مع معظم الأمور بتحليلية. غريزتي هي الثقة بالبيانات لا القصص. لكن أحياناً تجربة محددة تُعيد معايرة فهمك.

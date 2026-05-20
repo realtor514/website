@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Buyer's Guide"
 description: "Cash offers have a real advantage in competitive situations. But the advantage is smaller and more specific than most people think, and financed buyers have more tools to compete than they realize."
 image: "images/articles/cash-buyers-advantage/featured.jpg"
-draft: false
+draft: true
 ---
 
 Cash buyers have a genuine advantage in real estate transactions. I want to be precise about what that advantage is, how large it actually is, and what buyers who need financing can do to close the gap.

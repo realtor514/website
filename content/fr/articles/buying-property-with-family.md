@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "Le co-achat avec des parents, freres et soeurs ou enfants est de plus en plus courant. Cela peut tres bien fonctionner. Cela peut aussi creer de serieux conflits."
 image: "images/articles/buying-property-with-family/featured.jpg"
-draft: false
+draft: true
 ---
 
 Le co-achat immobilier avec des membres de la famille est l'une des tendances les plus rapides dans le Grand Montreal alors que les couts de logement ont augmente. Ces arrangements peuvent etre d'excellentes strategies financieres. Ils peuvent aussi detruire les relations familiales si les termes ne sont pas clairement definis.

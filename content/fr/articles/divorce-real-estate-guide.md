@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Immobilier 101"
 description: "Les couples qui se separent font face a certaines des decisions immobilieres les plus complexes de leur vie dans les pires circonstances emotionnelles."
 image: "images/articles/divorce-real-estate-guide/featured.jpg"
-draft: false
+draft: true
 ---
 
 L'immobilier est souvent l'actif partage le plus important dans un divorce. Voici un aperçu pratique des options et processus, non pas des conseils juridiques, ce qui requiert un avocat en droit familial.

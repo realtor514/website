@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Buyer's Guide"
 description: "Most buyers have a gut preference before they analyze anything. Here is the framework to verify whether that preference matches your actual situation, priorities, and financial position."
 image: "images/articles/condo-vs-house-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 Buyers usually come to me with a preference already formed: "I want a house" or "a condo makes more sense for my lifestyle." My job is not to argue with the preference. It is to make sure the preference survives contact with the actual numbers and trade-offs.

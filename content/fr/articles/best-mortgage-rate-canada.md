@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Financement"
 description: "La plupart des acheteurs acceptent le premier taux que leur banque offre. Il y a presque toujours une meilleure option."
 image: "images/articles/best-mortgage-rate-canada/featured.jpg"
-draft: false
+draft: true
 ---
 
 Votre taux hypothecaire affecte chaque paiement mensuel pendant la duree de votre hypotheque. Une difference de 0,5 % sur une hypotheque de 450 000 $ economise environ 2 250 $ par an, ou 56 000 $ sur 25 ans d'amortissement.

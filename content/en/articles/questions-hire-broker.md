@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Real Estate 101"
 description: "Most people hire a broker based on a referral or a yard sign. There are better ways to make this decision. Here are the five questions that reveal whether a broker will actually serve your interests."
 image: "images/articles/questions-hire-broker/featured.jpg"
-draft: false
+draft: true
 ---
 
 Choosing a real estate broker is one of the most consequential decisions in a property transaction, and most people give it far less thought than choosing a smartphone.

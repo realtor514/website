@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "About Georges"
 description: "I work in French, English, and Arabic. That is not just a convenience. It changes what I can explain, who I can serve, and how negotiations unfold. Here is why language matters more than most people think."
 image: "images/articles/multilingual-broker-advantage/featured.jpg"
-draft: false
+draft: true
 ---
 
 When I tell people I work in three languages, the response is usually polite acknowledgment. Nice to have. Convenient for some clients.

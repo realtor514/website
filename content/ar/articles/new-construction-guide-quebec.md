@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "دليل المشتري"
 description: "البناء الجديد يبدو بسيطاً. الواقع يتضمن ضمانات GCR ورسوماً إضافية وتأخيرات لا يشرحها أحد مسبقاً."
 image: "images/articles/new-construction-guide-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 البناء الجديد مُغرٍ. كل شيء جديد، مضمون، بالضبط كما حددت. إليك الصورة الأكثر اكتمالاً.

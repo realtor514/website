@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Buyer's Guide"
 description: "Bidding wars sound exciting on TV. In real life, they're stressful, expensive, and full of traps. Here's what most brokers won't say out loud."
 image: "images/articles/bidding-wars-truth-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 Let me be honest with you about something most brokers won't say out loud: bidding wars are not a sign of a healthy market. They're a sign of a market where buyers have lost leverage, and where emotions can override logic in dangerous ways.

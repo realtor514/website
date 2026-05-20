@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Market Insights"
 description: "Interest rates affect affordability, competition, and strategy in ways most buyers and sellers don't fully account for. Here is how to think about rate environments and what they mean for your decision."
 image: "images/articles/interest-rates-montreal-market/featured.jpg"
-draft: false
+draft: true
 ---
 
 Interest rates are the variable that most buyers track least carefully and that affects their purchase most directly. The connection between the Bank of Canada's policy rate and your monthly mortgage payment is well understood in theory. The strategic implications for buyers and sellers are less often discussed.

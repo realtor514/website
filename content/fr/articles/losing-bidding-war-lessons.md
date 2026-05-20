@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Temoignages"
 description: "Perdre une situation multi-offres est douloureux sur le moment. Certains des meilleurs resultats immobiliers viennent d'offres qui n'ont pas gagne."
 image: "images/articles/losing-bidding-war-lessons/featured.jpg"
-draft: false
+draft: true
 ---
 
 L'une des conversations les plus difficiles en immobilier est celle qu'on a avec des clients dix minutes apres qu'ils ont perdu une guerre d'offres. Ils se sont prepares. Ils ont allonge leur budget. Ils se sont laisses imaginer vivre la.

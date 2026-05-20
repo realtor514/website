@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "دليل المشتري"
 description: "العقارات خارج السوق حقيقية. وهي أيضاً محاطة بأساطير أكثر من أي مفهوم آخر في العقارات."
 image: "images/articles/off-market-properties/featured.jpg"
-draft: false
+draft: true
 ---
 
 العقارات خارج السوق (off-market) من أكثر المصطلحات استخداماً وأقلها فهماً بدقة.

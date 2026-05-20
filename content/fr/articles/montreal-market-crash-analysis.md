@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Analyse de marche"
 description: "La question revient constamment. La reponse honnete est plus nuancee que ce que les optimistes ou les pessimistes veulent admettre."
 image: "images/articles/montreal-market-crash-analysis/featured.jpg"
-draft: false
+draft: true
 ---
 
 Chaque fois que les prix sont eleves, la question de l'effondrement refait surface. Separons ce qui est connaissable de ce qui est de la speculation deguisee en analyse.

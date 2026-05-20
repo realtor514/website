@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "قصص حقيقية"
 description: "المعاملات التي يسير فيها كل شيء بشكل خاطئ تُعلّم أكثر من تلك التي تسير بسلاسة."
 image: "images/articles/worst-real-estate-deal-lessons/featured.jpg"
-draft: false
+draft: true
 ---
 
 أي شخص في مجال العقارات يخبرك أن كل معاملة سارت بسلاسة إما حديث عهد أو غير صادق.

@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Investment"
 description: "Real estate wealth is not built through one brilliant transaction. It is built through a systematic approach to acquisition, financing, and management over time. Here is the framework I use."
 image: "images/articles/build-real-estate-portfolio/featured.jpg"
-draft: false
+draft: true
 ---
 
 The question I get from serious investors is not "which property should I buy?" It is "how do I build a portfolio that generates meaningful wealth over ten to twenty years?" Those are very different questions, and the second one is far more interesting.

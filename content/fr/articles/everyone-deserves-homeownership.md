@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "A propos de Georges"
 description: "La propriete est souvent discutee comme un instrument financier. Pour de nombreuses familles, c'est la fondation de la stabilite et de la securite generationnelle."
 image: "images/articles/everyone-deserves-homeownership/featured.jpg"
-draft: false
+draft: true
 ---
 
 Je viens du Liban. Ma famille, comme beaucoup de familles libanaises, comprenait la propriete non pas comme une categorie d'investissement mais comme la securite, quelque chose qui ne peut pas etre enleve.

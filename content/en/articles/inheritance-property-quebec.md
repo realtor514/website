@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Real Estate 101"
 description: "Inheriting real estate in Quebec triggers a series of legal and financial decisions that most heirs are not prepared for. Here is the process, the options, and what to do first."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 Inheriting property is almost always complicated. It occurs in the context of loss, often involves multiple heirs with different financial situations and preferences, and requires navigating legal processes that most people have never encountered before.

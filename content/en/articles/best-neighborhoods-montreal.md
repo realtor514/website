@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Market Insights"
 description: "Not all Montreal neighborhoods are equal investments. Here's my honest, data-driven breakdown of where to buy  - and where to think twice."
 image: "images/articles/best-neighborhoods-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 People ask me this question constantly: "Georges, where should I buy in Montreal?" My answer always starts with a question back: "What are you optimizing for?" Because the best neighborhood for a first-time buyer building equity is different from the best one for an investor seeking rental yield, which is different again from the best one for a family prioritizing schools and green space.

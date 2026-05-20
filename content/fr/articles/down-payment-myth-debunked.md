@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Financement"
 description: "Attendre d'avoir 20 % avant d'acheter peut vous coûter des années d'équité. Voici le vrai calcul."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"
-draft: false
+draft: true
 ---
 
 Epargner 20 % avant d'acheter semble prudent. Ce n'est pas toujours le meilleur choix financier.

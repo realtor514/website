@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "Les batiments patrimoniaux de Montreal sont parmi les plus beaux en Amerique du Nord. Ils sont aussi parmi les plus compliques a acheter et a entretenir."
 image: "images/articles/heritage-property-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 Le patrimoine residentiel de Montreal est genuinement extraordinaire. Les maisons victoriennes en rangee d'Outremont, les duplex italianisants du Plateau, les triplex en gres qui definissent le caractere visuel des quartiers. Je comprends pourquoi les acheteurs tombent amoureux des proprietes patrimoniales.

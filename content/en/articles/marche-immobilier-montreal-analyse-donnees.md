@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Market Analysis"
 description: "Beyond the headlines and the predictions, here is what the indicators I track every month say about where the Montreal and Laval real estate market actually stands."
 image: "images/articles/marche-immobilier-montreal-analyse-donnees/featured.jpg"
-draft: false
+draft: true
 ---
 
 Every week, someone asks me whether it's a good time to buy or sell in Montreal. And every week, I give the same answer: that depends entirely on the data, not on predictions, not on headlines, and not on what the market did last year.

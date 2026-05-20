@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "La plupart des acheteurs découvrent que leur cote de crédit pose problème trop tard - pendant l'approbation hypothécaire. Voici quoi vérifier, quoi corriger, et combien de temps cela prend vraiment."
 image: "images/articles/credit-score-home-buying-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 J'ai eu un client - ingénieur en logiciel, bon emploi, épargne solide - qui est venu me voir avec enthousiasme pour acheter son premier condo à Laval. Nous avons trouvé le bon endroit. Il a fait une offre. Elle a été acceptée. Et puis, trois jours avant la date limite de la condition de financement, son courtier hypothécaire l'a appelé.

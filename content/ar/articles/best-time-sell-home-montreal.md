@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "دليل البائع"
 description: "الجميع يقول إن الربيع هو أفضل وقت للبيع. البيانات أكثر دقة من ذلك."
 image: "images/articles/best-time-sell-home-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 «أدرج عقارك في الربيع» هي النصيحة العقارية الأكثر تكراراً في مونتريال. وكمعظم النصائح المكررة، هي صحيحة جزئياً ومبسَّطة بشكل مفرط.

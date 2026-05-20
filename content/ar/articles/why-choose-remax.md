@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "عن جورج"
 description: "RE/MAX أكبر شبكة عقارية في العالم من حيث حجم المعاملات. إليك ما يعنيه ذلك فعلاً، بعيداً عن التسويق."
 image: "images/articles/why-choose-remax/featured.jpg"
-draft: false
+draft: true
 ---
 
 عندما اخترت الانتساب إلى RE/MAX DU CARTIER، لم تكن القرار مبنياً على الشهرة وحدها. أردت أن أفهم ما تقدمه الشبكة فعلاً في الممارسة.

@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Buyer's Guide"
 description: "Co-purchasing with parents, siblings, or children is increasingly common as prices rise. It can work extremely well. It can also create serious conflict. Here is how to structure it properly."
 image: "images/articles/buying-property-with-family/featured.jpg"
-draft: false
+draft: true
 ---
 
 Co-purchasing real estate with family members is one of the fastest-growing trends in Greater Montreal as housing costs have risen relative to individual buyer capacity. A parent contributing to their child's down payment, two siblings pooling resources for a duplex, adult children purchasing a home that their aging parents will occupy, a combination of generations on a single title.

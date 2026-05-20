@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "About Georges"
 description: "Homeownership is often discussed as a financial instrument. For many families, it is the foundation of stability and generational security. Here is why I take that seriously in my work."
 image: "images/articles/everyone-deserves-homeownership/featured.jpg"
-draft: false
+draft: true
 ---
 
 I came from Lebanon. My family, like many Lebanese families, understood property not as an investment category but as security, as something that could not be taken away, as a physical manifestation of establishment in a country.

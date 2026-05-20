@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Real Stories"
 description: "Losing a multiple-offer situation feels terrible in the moment. But some of the best real estate outcomes I've seen came from offers that didn't win. Here's what losing teaches."
 image: "images/articles/losing-bidding-war-lessons/featured.jpg"
-draft: false
+draft: true
 ---
 
 One of the hardest conversations in real estate is the one you have with clients ten minutes after they've lost a bidding war.

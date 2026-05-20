@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Buyer's Guide"
 description: "Most buyers discover their credit score is a problem when it's too late - during mortgage approval. Here's what to check, what to fix, and how long it actually takes."
 image: "images/articles/credit-score-home-buying-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 I had a client - a software engineer, great job, solid savings - who came to me excited to buy his first condo in Laval. We found the perfect place. He made the offer. It was accepted. And then, three days before the financing condition deadline, his mortgage broker called.

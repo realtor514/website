@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Investissement"
 description: "Posseder un immeuble locatif et le gerer sont deux competences differentes. Voici la realite operationnelle."
 image: "images/articles/rental-property-management/featured.jpg"
-draft: false
+draft: true
 ---
 
 Acheter un immeuble a revenus est une decision. Le gerer est une pratique. Les deux necessitent des competences differentes.

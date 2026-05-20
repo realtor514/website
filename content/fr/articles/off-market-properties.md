@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "Les proprietes hors marche sont reelles. Elles sont aussi entourees de plus de mythologie que presque tout autre concept en immobilier."
 image: "images/articles/off-market-properties/featured.jpg"
-draft: false
+draft: true
 ---
 
 Les proprietes hors marche (off-market) sont l'une des expressions les plus utilisees et les moins bien comprises en immobilier. Voici ce que cela signifie vraiment.

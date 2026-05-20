@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Investment"
 description: "Two of the most popular property types in Greater Montreal, two completely different financial profiles. Here's my honest breakdown of which makes sense and when."
 image: "images/articles/triplex-vs-condo-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 People ask me this question expecting a simple answer. There isn't one. Whether a triplex or a condo is the smarter purchase depends entirely on your financial situation, your goals, your risk tolerance, and frankly, your personality. Let me break down both sides honestly.

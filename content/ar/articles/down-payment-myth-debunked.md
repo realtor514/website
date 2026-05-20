@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "تمويل"
 description: "انتظار توفير 20% دفعة أولى قبل الشراء قد يكلفك سنوات من بناء الثروة. إليك الحساب الحقيقي."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"
-draft: false
+draft: true
 ---
 
 يُتناقل مبدأ «وفِّر 20% قبل الشراء» كحكمة عائلية. يبدو حكيماً. وهو صحيح أحياناً. لكنه ليس حقيقة مطلقة.

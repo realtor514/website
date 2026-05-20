@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Financement"
 description: "Le debat louer vs acheter est plein d'ideologie des deux cotes. Je prefere les mathematiques. Voici le vrai calcul."
 image: "images/articles/renting-vs-buying-calculation/featured.jpg"
-draft: false
+draft: true
 ---
 
 Je regois constamment cette question : est-il preferable de louer ou d'acheter en ce moment ? La reponse honnete est que la question ne peut pas etre repondue sans connaitre vos chiffres specifiques.

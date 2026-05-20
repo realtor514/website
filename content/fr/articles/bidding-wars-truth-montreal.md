@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "Les guerres d'offres semblent excitantes à la télévision. Dans la réalité, elles sont stressantes et pleines de pièges. Voici ce que la plupart des courtiers ne disent pas à voix haute."
 image: "images/articles/bidding-wars-truth-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 Je vais être honnête avec vous sur quelque chose que la plupart des courtiers ne disent pas à voix haute : les guerres d'offres ne sont pas le signe d'un marché en santé. Ce sont le signe d'un marché où les acheteurs ont perdu leur levier, et où les émotions peuvent prendre le dessus sur la logique de façon dangereuse.

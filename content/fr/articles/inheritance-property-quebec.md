@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Immobilier 101"
 description: "Heriter d'un bien immobilier au Quebec declenche des decisions legales et financieres pour lesquelles la plupart des heritiers ne sont pas prepares."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 Heriter d'une propriete est presque toujours complique. Ca se produit dans un contexte de perte, implique souvent plusieurs heritiers avec des situations financieres differentes, et necessite de naviguer des processus juridiques.

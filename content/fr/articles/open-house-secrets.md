@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "Une visite libre est un exercice de collecte d'information. La plupart des acheteurs recueillent des impressions. Les courtiers recueillent des donnees."
 image: "images/articles/open-house-secrets/featured.jpg"
-draft: false
+draft: true
 ---
 
 La plupart des acheteurs visitent les proprietes de la meme façon : ils parcourent les pieces, forment des impressions sur la disposition, ouvrent peut-etre un placard et repartent avec un sentiment general de oui ou non. C'est ainsi qu'on rate les informations qui comptent le plus.

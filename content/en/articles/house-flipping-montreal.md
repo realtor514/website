@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Investment"
 description: "House flipping looks profitable on television. The actual numbers, once you include all the costs, tell a more sobering story. Here is a realistic framework for evaluating whether a flip makes sense."
 image: "images/articles/house-flipping-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 Real estate flipping shows make it look straightforward: buy low, renovate cheaply, sell high, collect profit. The reality involves cost overruns, timeline extensions, tax obligations, and transaction costs that television does not show.

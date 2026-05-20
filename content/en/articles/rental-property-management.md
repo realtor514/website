@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Investment"
 description: "Owning a rental property and managing one are two different skills. Here is what the operational reality looks like, what Quebec's landlord-tenant laws require, and how to set up for success."
 image: "images/articles/rental-property-management/featured.jpg"
-draft: false
+draft: true
 ---
 
 Buying an income property is a decision. Managing it is a practice. The two require different skills, and buyers who prepare only for the purchase and not for the management phase often find themselves surprised by the operational demands of being a landlord.

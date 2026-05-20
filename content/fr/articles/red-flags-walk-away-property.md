@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "Tomber amoureux d'une propriete avec de serieux problemes est l'une des erreurs les plus couteuses. Voici quand il faut partir."
 image: "images/articles/red-flags-walk-away-property/featured.jpg"
-draft: false
+draft: true
 ---
 
 Il existe des situations specifiques ou la conclusion analytique est claire : quittez cette propriete.

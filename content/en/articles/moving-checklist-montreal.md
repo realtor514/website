@@ -4,7 +4,7 @@ date: 2025-05-19
 category: "Practical Guide"
 description: "Between possession date and moving day, there are dozens of tasks that can get lost. This is the complete checklist I give every buyer after their offer is accepted."
 image: "images/articles/moving-checklist-montreal/featured.jpg"
-draft: false
+draft: true
 ---
 
 Getting the keys is a milestone, not an endpoint. The period between offer acceptance and your first night in a new property involves more administrative and logistical steps than most buyers anticipate. Here is the complete list, organized by timeline.
