@@ -1104,6 +1104,44 @@ p:last-child { margin-bottom: 0; }
   font-family: 'Playfair Display', serif;
 }
 
+/* CMHC insurance banner */
+.mc-cmhc-banner {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+  border-radius: var(--radius-lg);
+  padding: 16px 20px;
+  margin-bottom: 24px;
+}
+.mc-cmhc-banner__icon {
+  color: var(--blue);
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+.mc-cmhc-banner__title {
+  display: block;
+  font-size: .82rem;
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 6px;
+}
+.mc-cmhc-banner__details {
+  font-size: .82rem;
+  color: var(--gray);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 0;
+  align-items: center;
+}
+.mc-cmhc-banner__details strong { color: var(--navy); margin: 0 4px; }
+
+/* Insurance table row */
+.mc-tr--insurance { background: #eff6ff; }
+.mc-td--insurance { color: var(--blue) !important; font-weight: 600 !important; }
+.mc-td--insurance-label { color: var(--blue) !important; font-size: .82rem; }
+
 /* Summary table */
 .mc-table-wrap { overflow-x: auto; margin-bottom: 20px; border-radius: var(--radius-lg); border: 1px solid var(--border); }
 .mc-table { width: 100%; border-collapse: collapse; font-size: .9rem; }

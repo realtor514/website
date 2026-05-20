@@ -123,6 +123,34 @@
         </div>
       </div>
 
+      <!-- CMHC insurance banner (shown automatically when down payment < 20%) -->
+      <div class="mc-cmhc-banner" id="mc-cmhc-banner" style="display:none">
+        <div class="mc-cmhc-banner__icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+        </div>
+        <div class="mc-cmhc-banner__body">
+          <span class="mc-cmhc-banner__title" id="mc-cmhc-title">
+            {{ if $isFr }}Prime d'assurance CMHC / Sagen&#8482; / Canada Guaranty&#8482;{{ else if $isAr }}قسط تأمين CMHC / Sagen&#8482; / Canada Guaranty&#8482;{{ else }}Insurance Premium (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ end }}
+          </span>
+          <div class="mc-cmhc-banner__details">
+            <span id="mc-cmhc-rate-label">
+              {{ if $isFr }}Taux de prime :{{ else if $isAr }}معدل القسط:{{ else }}Premium rate:{{ end }}
+            </span>
+            <strong id="mc-cmhc-pct-display">—</strong>
+            &nbsp;&nbsp;
+            <span id="mc-cmhc-amt-label">
+              {{ if $isFr }}Prime :{{ else if $isAr }}القسط:{{ else }}Premium:{{ end }}
+            </span>
+            <strong id="mc-cmhc-amt">—</strong>
+            &nbsp;&nbsp;
+            <span id="mc-cmhc-insured-label">
+              {{ if $isFr }}Prêt assuré :{{ else if $isAr }}القرض المؤمَّن:{{ else }}Insured mortgage:{{ end }}
+            </span>
+            <strong id="mc-cmhc-insured">—</strong>
+          </div>
+        </div>
+      </div>
+
       <!-- Term / Amortization / Frequency -->
       <div class="mc-row mc-row--3">
         <div class="mc-field">
@@ -235,6 +263,14 @@
                 <td class="mc-td mc-td--val mc-td--strong" id="mc-r-term-pay">—</td>
                 <td class="mc-td mc-td--val mc-td--strong mc-td--amort" id="mc-r-amort-pay">—</td>
               </tr>
+              <!-- CMHC insurance row — hidden when not applicable -->
+              <tr class="mc-tr mc-tr--insurance" id="mc-r-insurance-row" style="display:none">
+                <td class="mc-td mc-td--label mc-td--insurance-label">
+                  {{ if $isFr }}Prime d'assurance (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ else if $isAr }}قسط التأمين (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ else }}Insurance Premium (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ end }}
+                </td>
+                <td class="mc-td mc-td--val mc-td--insurance" id="mc-r-insurance-term">—</td>
+                <td class="mc-td mc-td--val mc-td--insurance mc-td--amort" id="mc-r-insurance-amort">—</td>
+              </tr>
               <tr class="mc-tr">
                 <td class="mc-td mc-td--label">
                   {{ if $isFr }}Paiement anticipé{{ else if $isAr }}الدفع المسبق{{ else }}Prepayment{{ end }}
@@ -269,11 +305,11 @@
 
         <p class="mc-results__disclaimer">
           {{ if $isFr }}
-            * Estimation à titre indicatif uniquement. Consultez un conseiller hypothécaire pour une analyse complète.
+            * Estimation à titre indicatif uniquement. Les primes d'assurance CMHC/Sagen/Canada Guaranty s'appliquent aux mises de fonds inférieures à 20 % sur les propriétés de moins de 1 000 000 $. Consultez un conseiller hypothécaire pour une analyse complète.
           {{ else if $isAr }}
-            * تقدير للإرشاد فقط. استشر مستشاراً للرهن العقاري للحصول على تحليل كامل.
+            * تقدير للإرشاد فقط. تنطبق أقساط تأمين CMHC/Sagen/Canada Guaranty على الدفعات الأولى التي تقل عن 20% للعقارات أقل من 1,000,000$. استشر مستشاراً للرهن العقاري للحصول على تحليل كامل.
           {{ else }}
-            * Estimate for informational purposes only. Consult a mortgage advisor for a complete analysis.
+            * Estimate for informational purposes only. CMHC/Sagen/Canada Guaranty insurance premiums apply to down payments under 20% on properties under $1,000,000. Consult a mortgage advisor for a complete analysis.
           {{ end }}
         </p>
       </div>
@@ -300,56 +336,87 @@
   function formatMoney(n) { return n.toLocaleString('en-CA', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
   function fmt(n) { return '$' + formatMoney(n); }
 
-  var price  = document.getElementById('mc-price');
-  var down   = document.getElementById('mc-down');
-  var pct    = document.getElementById('mc-pct');
-  var loan   = document.getElementById('mc-loan');
-  var rate   = document.getElementById('mc-rate');
-  var rateUp = document.getElementById('mc-rate-up');
-  var rateDn = document.getElementById('mc-rate-down');
-  var calcBtn= document.getElementById('mc-calculate');
-  var results= document.getElementById('mc-results');
-  var freq   = document.getElementById('mc-freq');
+  var price   = document.getElementById('mc-price');
+  var down    = document.getElementById('mc-down');
+  var pct     = document.getElementById('mc-pct');
+  var loan    = document.getElementById('mc-loan');
+  var rate    = document.getElementById('mc-rate');
+  var rateUp  = document.getElementById('mc-rate-up');
+  var rateDn  = document.getElementById('mc-rate-down');
+  var calcBtn = document.getElementById('mc-calculate');
+  var results = document.getElementById('mc-results');
+  var freq    = document.getElementById('mc-freq');
 
-  function updateLoan() {
-    var p = parseMoney(price.value);
-    var d = parseMoney(down.value);
-    loan.value = formatMoney(Math.max(0, p - d));
+  /* CMHC premium rates (Canada): semi-annual compounding mortgage insurance */
+  function cmhcRate(downPct) {
+    if (downPct >= 20) return 0;
+    if (downPct >= 15) return 0.028;
+    if (downPct >= 10) return 0.031;
+    if (downPct >=  5) return 0.040;
+    return 0; /* below 5% — not eligible */
   }
+
+  function calcCMHC(propertyPrice, loanAmt, downPct) {
+    /* Not available for properties >= $1,000,000 */
+    if (propertyPrice >= 1000000 || downPct >= 20 || downPct < 5) return 0;
+    return loanAmt * cmhcRate(downPct);
+  }
+
+  function updateLoanAndCMHC() {
+    var p    = parseMoney(price.value);
+    var d    = parseMoney(down.value);
+    var l    = Math.max(0, p - d);
+    var dpct = p > 0 ? (d / p) * 100 : 0;
+    loan.value = formatMoney(l);
+
+    var premium = calcCMHC(p, l, dpct);
+    var banner  = document.getElementById('mc-cmhc-banner');
+
+    if (premium > 0) {
+      var rate_pct = (cmhcRate(dpct) * 100).toFixed(2) + '%';
+      document.getElementById('mc-cmhc-pct-display').textContent = rate_pct;
+      document.getElementById('mc-cmhc-amt').textContent         = fmt(premium);
+      document.getElementById('mc-cmhc-insured').textContent     = fmt(l + premium);
+      banner.style.display = 'flex';
+    } else {
+      banner.style.display = 'none';
+    }
+  }
+
   function syncPct() {
     var p = parseMoney(price.value), d = parseMoney(down.value);
     pct.value = p > 0 ? ((d / p) * 100).toFixed(2) : '';
-    updateLoan();
+    updateLoanAndCMHC();
   }
   function syncDown() {
     var p = parseMoney(price.value), pc = parseMoney(pct.value);
     if (p > 0 && pc > 0) down.value = formatMoney((pc / 100) * p);
-    updateLoan();
+    updateLoanAndCMHC();
   }
   function fmtBlur(el) { var v = parseMoney(el.value); if (v > 0) el.value = formatMoney(v); }
 
   price.addEventListener('input', syncPct);
-  price.addEventListener('blur', function() { fmtBlur(price); syncPct(); });
-  down.addEventListener('input', syncPct);
-  down.addEventListener('blur', function() { fmtBlur(down); syncPct(); });
-  pct.addEventListener('input', syncDown);
+  price.addEventListener('blur',  function() { fmtBlur(price); syncPct(); });
+  down.addEventListener('input',  syncPct);
+  down.addEventListener('blur',   function() { fmtBlur(down); syncPct(); });
+  pct.addEventListener('input',   syncDown);
 
   rateUp.addEventListener('click', function() { rate.value = Math.min(30, +((parseFloat(rate.value)||5.5) + 0.05).toFixed(2)); });
   rateDn.addEventListener('click', function() { rate.value = Math.max(0,  +((parseFloat(rate.value)||5.5) - 0.05).toFixed(2)); });
 
-  /* Update term column header label */
   function updateTermHeader() {
-    var t = parseInt(document.getElementById('mc-term').value) || 5;
-    var f = parseInt(freq.value) || 12;
+    var t    = parseInt(document.getElementById('mc-term').value) || 5;
+    var f    = parseInt(freq.value) || 12;
     var lang = document.documentElement.lang || 'en';
-    var yr = lang === 'fr' ? 'ans' : lang === 'ar' ? 'سنة' : 'years';
-    var lbl = lang === 'fr' ? 'Terme' : lang === 'ar' ? 'المدة' : 'Term';
+    var yr   = lang === 'fr' ? 'ans' : lang === 'ar' ? 'سنة' : 'years';
+    var lbl  = lang === 'fr' ? 'Terme' : lang === 'ar' ? 'المدة' : 'Term';
     document.getElementById('mc-th-term').textContent = lbl + ' (' + t + ' ' + yr + ')';
-    /* Update payment label per frequency */
-    var payLabels = { 12: {en:'Mortgage Payment',fr:'Paiement hypothécaire',ar:'الدفعة العقارية'},
-                      24: {en:'Semi-monthly Payment',fr:'Paiement bimensuel',ar:'الدفعة نصف الشهرية'},
-                      26: {en:'Bi-weekly Payment',fr:'Paiement aux deux semaines',ar:'الدفعة كل أسبوعين'},
-                      52: {en:'Weekly Payment',fr:'Paiement hebdomadaire',ar:'الدفعة الأسبوعية'} };
+    var payLabels = {
+      12: {en:'Mortgage Payment',         fr:'Paiement hypothécaire',              ar:'الدفعة العقارية'},
+      24: {en:'Semi-monthly Payment',     fr:'Paiement bimensuel',                 ar:'الدفعة نصف الشهرية'},
+      26: {en:'Bi-weekly Payment',        fr:'Paiement aux deux semaines',         ar:'الدفعة كل أسبوعين'},
+      52: {en:'Weekly Payment',           fr:'Paiement hebdomadaire',              ar:'الدفعة الأسبوعية'}
+    };
     var map = payLabels[f] || payLabels[12];
     document.getElementById('mc-r-payment-label').textContent = map[lang] || map['en'];
   }
@@ -357,47 +424,59 @@
   freq.addEventListener('change', updateTermHeader);
 
   calcBtn.addEventListener('click', function() {
-    var P           = parseMoney(loan.value);
-    var annualRate  = parseFloat(rate.value) || 5.5;
-    var amortYears  = parseInt(document.getElementById('mc-amort').value) || 25;
-    var termYears   = parseInt(document.getElementById('mc-term').value) || 5;
-    var ppy         = parseInt(freq.value) || 12; /* payments per year */
+    var baseLoan   = parseMoney(loan.value);
+    var p_price    = parseMoney(price.value);
+    var d_down     = parseMoney(down.value);
+    var dpct       = p_price > 0 ? (d_down / p_price) * 100 : 0;
+    var annualRate = parseFloat(rate.value) || 5.5;
+    var amortYears = parseInt(document.getElementById('mc-amort').value) || 25;
+    var termYears  = parseInt(document.getElementById('mc-term').value) || 5;
+    var ppy        = parseInt(freq.value) || 12;
 
-    if (P <= 0) {
+    if (baseLoan <= 0) {
       price.style.outline = '2px solid var(--red)';
       price.focus();
       setTimeout(function() { price.style.outline = ''; }, 2000);
       return;
     }
 
-    /* Clamp term to amortization */
+    /* CMHC premium — added to loan for all calculations */
+    var premium    = calcCMHC(p_price, baseLoan, dpct);
+    var P          = baseLoan + premium; /* insured mortgage amount */
+
     if (termYears > amortYears) termYears = amortYears;
 
-    /* Canadian mortgage: semi-annual compounding */
     var r = effectiveRate(annualRate, ppy);
-    var N = amortYears * ppy;   /* total amortization payments */
-    var T = termYears  * ppy;   /* payments in term */
+    var N = amortYears * ppy;
+    var T = termYears  * ppy;
 
     var payment = r === 0 ? P / N : P * r * Math.pow(1+r, N) / (Math.pow(1+r, N) - 1);
 
-    /* Balance remaining after term */
     var balanceAfterTerm = r === 0
       ? P - payment * T
       : P * (Math.pow(1+r, N) - Math.pow(1+r, T)) / (Math.pow(1+r, N) - 1);
 
     /* Term breakdown */
-    var termTotalPaid    = payment * T;
-    var termPrincipal    = P - balanceAfterTerm;
-    var termInterest     = termTotalPaid - termPrincipal;
+    var termTotalPaid  = payment * T;
+    var termPrincipal  = P - balanceAfterTerm;
+    var termInterest   = termTotalPaid - termPrincipal;
 
     /* Full amortization breakdown */
-    var amortTotalPaid   = payment * N;
-    var amortInterest    = amortTotalPaid - P;
+    var amortTotalPaid = payment * N;
+    var amortInterest  = amortTotalPaid - P;
 
-    /* Update term header */
     updateTermHeader();
 
-    /* Fill table */
+    /* Insurance row */
+    var insRow = document.getElementById('mc-r-insurance-row');
+    if (premium > 0) {
+      set('mc-r-insurance-term',  fmt(premium));
+      set('mc-r-insurance-amort', fmt(premium));
+      insRow.style.display = '';
+    } else {
+      insRow.style.display = 'none';
+    }
+
     set('mc-r-term-n',          T);
     set('mc-r-amort-n',         N);
     set('mc-r-term-pay',        fmt(payment));
