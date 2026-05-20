@@ -271,33 +271,12 @@
                 <td class="mc-td mc-td--val mc-td--insurance" id="mc-r-insurance-term">—</td>
                 <td class="mc-td mc-td--val mc-td--insurance mc-td--amort" id="mc-r-insurance-amort">—</td>
               </tr>
-              <tr class="mc-tr">
-                <td class="mc-td mc-td--label">
-                  {{ if $isFr }}Paiement anticipé{{ else if $isAr }}الدفع المسبق{{ else }}Prepayment{{ end }}
-                </td>
-                <td class="mc-td mc-td--val">$0.00</td>
-                <td class="mc-td mc-td--val mc-td--amort">$0.00</td>
-              </tr>
-              <tr class="mc-tr">
-                <td class="mc-td mc-td--label">
-                  {{ if $isFr }}Paiements en capital{{ else if $isAr }}مدفوعات رأس المال{{ else }}Principal Payments{{ end }}
-                </td>
-                <td class="mc-td mc-td--val" id="mc-r-term-principal">—</td>
-                <td class="mc-td mc-td--val mc-td--amort" id="mc-r-amort-principal">—</td>
-              </tr>
-              <tr class="mc-tr">
-                <td class="mc-td mc-td--label">
-                  {{ if $isFr }}Paiements d'intérêts{{ else if $isAr }}مدفوعات الفوائد{{ else }}Interest Payments{{ end }}
-                </td>
-                <td class="mc-td mc-td--val" id="mc-r-term-interest">—</td>
-                <td class="mc-td mc-td--val mc-td--amort" id="mc-r-amort-interest">—</td>
-              </tr>
               <tr class="mc-tr mc-tr--total">
                 <td class="mc-td mc-td--label mc-td--total-label">
-                  {{ if $isFr }}Coût total{{ else if $isAr }}التكلفة الإجمالية{{ else }}Total Cost{{ end }}
+                  {{ if $isFr }}Total des intérêts payés{{ else if $isAr }}إجمالي الفوائد المدفوعة{{ else }}Total Interest Paid{{ end }}
                 </td>
-                <td class="mc-td mc-td--val mc-td--total" id="mc-r-term-total">—</td>
-                <td class="mc-td mc-td--val mc-td--total mc-td--amort" id="mc-r-amort-total">—</td>
+                <td class="mc-td mc-td--val mc-td--total" id="mc-r-term-interest">—</td>
+                <td class="mc-td mc-td--val mc-td--total mc-td--amort" id="mc-r-amort-interest">—</td>
               </tr>
             </tbody>
           </table>
@@ -481,12 +460,8 @@
     set('mc-r-amort-n',         N);
     set('mc-r-term-pay',        fmt(payment));
     set('mc-r-amort-pay',       fmt(payment));
-    set('mc-r-term-principal',  fmt(termPrincipal));
-    set('mc-r-amort-principal', fmt(P));
     set('mc-r-term-interest',   fmt(termInterest));
     set('mc-r-amort-interest',  fmt(amortInterest));
-    set('mc-r-term-total',      fmt(termTotalPaid));
-    set('mc-r-amort-total',     fmt(amortTotalPaid));
 
     results.classList.add('mc-results--visible');
     results.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
