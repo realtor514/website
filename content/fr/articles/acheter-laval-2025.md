@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 choses Ã  savoir avant d'acheter Ã  Laval "
 date: 2025-01-15
 category: "Guide de l'acheteur"

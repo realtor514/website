@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Things to Know Before Buying in Laval "
 date: 2025-01-15
 category: "Buyer's Guide"

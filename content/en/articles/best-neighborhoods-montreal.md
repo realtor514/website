@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Montreal Neighborhoods I'd Buy In Right Now (And Two I'd Avoid)"
 date: 2025-05-19
 category: "Market Insights"
