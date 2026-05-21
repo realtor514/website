@@ -1,8 +1,8 @@
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
 {{ $isEs := eq .Lang "es" }}
-{{ $listingsURL := "/listings/" }}
-{{ if $isFr }}{{ $listingsURL = "/fr/listings/" }}{{ else if $isAr }}{{ $listingsURL = "/ar/listings/" }}{{ else if $isEs }}{{ $listingsURL = "/es/listings/" }}{{ end }}
+{{ $listingsURL := "/en/listings/" }}
+{{ if $isFr }}{{ $listingsURL = "/listings/" }}{{ else if $isAr }}{{ $listingsURL = "/ar/listings/" }}{{ else if $isEs }}{{ $listingsURL = "/es/listings/" }}{{ end }}
 
 <section class="hero">
   <img src="{{ "images/office/exterieur_par-proprietaire.webp" | relURL }}"

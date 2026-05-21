@@ -160,35 +160,35 @@ defaultContentLanguageInSubdir = false
       parent     = "buyer"
       identifier = "buyer-guide"
       name       = "Guide de l'acheteur"
-      url        = "/fr/buyer/"
+      url        = "/buyer/"
       weight     = 1
 
     [[languages.fr.menus.main]]
       parent     = "buyer"
       identifier = "buyer-props"
       name       = "Trouver une propriété"
-      url        = "/fr/listings/"
+      url        = "/listings/"
       weight     = 2
 
     [[languages.fr.menus.main]]
       parent     = "buyer"
       identifier = "buyer-mortgage"
       name       = "Calculateur hypothécaire"
-      url        = "/fr/#tools"
+      url        = "/#tools"
       weight     = 3
 
     [[languages.fr.menus.main]]
       parent     = "buyer"
       identifier = "buyer-afford"
       name       = "Capacité d'emprunt"
-      url        = "/fr/#tools"
+      url        = "/#tools"
       weight     = 4
 
     [[languages.fr.menus.main]]
       parent     = "buyer"
       identifier = "buyer-costs"
       name       = "Frais de clôture & Taxe de bienvenue"
-      url        = "/fr/#tools"
+      url        = "/#tools"
       weight     = 5
 
     # ── VENDEUR menu ──
@@ -201,28 +201,28 @@ defaultContentLanguageInSubdir = false
       parent     = "seller"
       identifier = "seller-guide"
       name       = "Guide du vendeur"
-      url        = "/fr/seller/"
+      url        = "/seller/"
       weight     = 1
 
     [[languages.fr.menus.main]]
       parent     = "seller"
       identifier = "seller-eval"
       name       = "Évaluation gratuite"
-      url        = "/fr/#contact"
+      url        = "/#contact"
       weight     = 2
 
     [[languages.fr.menus.main]]
       parent     = "seller"
       identifier = "seller-rvb"
       name       = "Louer vs Acheter"
-      url        = "/fr/#tools"
+      url        = "/#tools"
       weight     = 3
 
     [[languages.fr.menus.main]]
       parent     = "seller"
       identifier = "seller-market"
       name       = "Actualités du marché"
-      url        = "/fr/articles/"
+      url        = "/articles/"
       weight     = 4
 
     # ── À PROPOS menu ──
@@ -235,28 +235,28 @@ defaultContentLanguageInSubdir = false
       parent     = "about"
       identifier = "about-me"
       name       = "À propos de moi"
-      url        = "/fr/about/"
+      url        = "/about/"
       weight     = 1
 
     [[languages.fr.menus.main]]
       parent     = "about"
       identifier = "about-blog"
       name       = "Blogue"
-      url        = "/fr/articles/"
+      url        = "/articles/"
       weight     = 2
 
     [[languages.fr.menus.main]]
       parent     = "about"
       identifier = "about-network"
       name       = "Mon réseau"
-      url        = "/fr/#network"
+      url        = "/#network"
       weight     = 3
 
     [[languages.fr.menus.main]]
       parent     = "about"
       identifier = "about-contact"
       name       = "Contact"
-      url        = "/fr/#contact"
+      url        = "/#contact"
       weight     = 4
 
   [languages.es]
