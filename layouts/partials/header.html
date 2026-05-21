@@ -1,10 +1,10 @@
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
 {{ $isEs := eq .Lang "es" }}
-{{ $homeURL := "/" }}
-{{ if $isFr }}{{ $homeURL = "/fr/" }}{{ else if $isAr }}{{ $homeURL = "/ar/" }}{{ else if $isEs }}{{ $homeURL = "/es/" }}{{ end }}
-{{ $base := "" }}
-{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
+{{ $homeURL := "/en/" }}
+{{ if $isFr }}{{ $homeURL = "/" }}{{ else if $isAr }}{{ $homeURL = "/ar/" }}{{ else if $isEs }}{{ $homeURL = "/es/" }}{{ end }}
+{{ $base := "/en" }}
+{{ if $isFr }}{{ $base = "" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
 
 {{/* ── Dropdown item metadata by identifier ── */}}
 {{ $ddMeta := dict
@@ -116,7 +116,7 @@
         {{/* ── Language switcher ── */}}
         <li class="lang-switch">
           {{ if $isFr }}
-            <a href="/" class="lang-btn" title="English">EN</a>
+            <a href="/en/" class="lang-btn" title="English">EN</a>
             <span class="lang-sep">/</span>
             <span class="lang-btn active">FR</span>
             <span class="lang-sep">/</span>
@@ -124,17 +124,17 @@
             <span class="lang-sep">/</span>
             <a href="/ar/" class="lang-btn" title="العربية">AR</a>
           {{ else if $isEs }}
-            <a href="/" class="lang-btn" title="English">EN</a>
+            <a href="/en/" class="lang-btn" title="English">EN</a>
             <span class="lang-sep">/</span>
-            <a href="/fr/" class="lang-btn" title="Français">FR</a>
+            <a href="/" class="lang-btn" title="Français">FR</a>
             <span class="lang-sep">/</span>
             <span class="lang-btn active">ES</span>
             <span class="lang-sep">/</span>
             <a href="/ar/" class="lang-btn" title="العربية">AR</a>
           {{ else if $isAr }}
-            <a href="/" class="lang-btn" title="English">EN</a>
+            <a href="/en/" class="lang-btn" title="English">EN</a>
             <span class="lang-sep">/</span>
-            <a href="/fr/" class="lang-btn" title="Français">FR</a>
+            <a href="/" class="lang-btn" title="Français">FR</a>
             <span class="lang-sep">/</span>
             <a href="/es/" class="lang-btn" title="Español">ES</a>
             <span class="lang-sep">/</span>
@@ -142,7 +142,7 @@
           {{ else }}
             <span class="lang-btn active">EN</span>
             <span class="lang-sep">/</span>
-            <a href="/fr/" class="lang-btn" title="Français">FR</a>
+            <a href="/" class="lang-btn" title="Français">FR</a>
             <span class="lang-sep">/</span>
             <a href="/es/" class="lang-btn" title="Español">ES</a>
             <span class="lang-sep">/</span>

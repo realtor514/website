@@ -1,12 +1,12 @@
 baseURL = "https://georgesmatar.ca/"
 enableRobotsTXT = true
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 
 [languages]
 
   [languages.en]
-    weight       = 1
+    weight       = 2
     languageCode = "en-ca"
     languageName = "English"
     contentDir   = "content/en"
@@ -14,12 +14,12 @@ defaultContentLanguageInSubdir = false
 
     [languages.en.params]
       role        = "Residential Real Estate Broker"
-      tagline     = "Residential Real Estate Broker &middot; Laval &amp; Montr&eacute;al"
-      heroQuote   = "&ldquo;Your trusted guide to the Greater Montreal real estate market.&rdquo;"
+      tagline     = "Residential Real Estate Broker &middot; Montr&eacute;al, Laval &amp; Laurentians"
+      heroQuote   = "&ldquo;Your trusted guide to the Montreal, Laval &amp; Laurentians real estate market.&rdquo;"
       ctaListings = "View Properties"
       ctaContact  = "Contact Me"
-      description = "Real estate broker in Laval and Greater Montreal. Residential and investment properties."
-      bio         = "With deep knowledge of the Montreal and Laval real estate markets, I provide personalized guidance to help buyers, sellers, and investors achieve their real estate goals. My commitment to excellence and client satisfaction drives everything I do."
+      description = "Real estate broker in Montreal, Laval and the Laurentians. Residential and investment properties."
+      bio         = "With deep knowledge of the Montreal, Laval, and Laurentians real estate markets, I provide personalized guidance to help buyers, sellers, and investors achieve their real estate goals. My commitment to excellence and client satisfaction drives everything I do."
       aboutBadge  = "About Me"
       aboutTitle  = "Passionate About Finding Your Perfect Property"
 
@@ -33,35 +33,35 @@ defaultContentLanguageInSubdir = false
       parent     = "buyer"
       identifier = "buyer-guide"
       name       = "Buyer's Guide"
-      url        = "/buyer/"
+      url        = "/en/buyer/"
       weight     = 1
 
     [[languages.en.menus.main]]
       parent     = "buyer"
       identifier = "buyer-props"
       name       = "Find a Property"
-      url        = "/listings/"
+      url        = "/en/listings/"
       weight     = 2
 
     [[languages.en.menus.main]]
       parent     = "buyer"
       identifier = "buyer-mortgage"
       name       = "Mortgage Calculator"
-      url        = "/#tools"
+      url        = "/en/#tools"
       weight     = 3
 
     [[languages.en.menus.main]]
       parent     = "buyer"
       identifier = "buyer-afford"
       name       = "Affordability Calculator"
-      url        = "/#tools"
+      url        = "/en/#tools"
       weight     = 4
 
     [[languages.en.menus.main]]
       parent     = "buyer"
       identifier = "buyer-costs"
       name       = "Closing Costs & Welcome Tax"
-      url        = "/#tools"
+      url        = "/en/#tools"
       weight     = 5
 
     # ── SELLER menu ──
@@ -74,28 +74,28 @@ defaultContentLanguageInSubdir = false
       parent     = "seller"
       identifier = "seller-guide"
       name       = "Seller's Guide"
-      url        = "/seller/"
+      url        = "/en/seller/"
       weight     = 1
 
     [[languages.en.menus.main]]
       parent     = "seller"
       identifier = "seller-eval"
       name       = "Free Evaluation"
-      url        = "/#contact"
+      url        = "/en/#contact"
       weight     = 2
 
     [[languages.en.menus.main]]
       parent     = "seller"
       identifier = "seller-rvb"
       name       = "Rent vs Buy"
-      url        = "/#tools"
+      url        = "/en/#tools"
       weight     = 3
 
     [[languages.en.menus.main]]
       parent     = "seller"
       identifier = "seller-market"
       name       = "Market Insights"
-      url        = "/articles/"
+      url        = "/en/articles/"
       weight     = 4
 
     # ── ABOUT menu ──
@@ -108,32 +108,32 @@ defaultContentLanguageInSubdir = false
       parent     = "about"
       identifier = "about-me"
       name       = "About Me"
-      url        = "/about/"
+      url        = "/en/about/"
       weight     = 1
 
     [[languages.en.menus.main]]
       parent     = "about"
       identifier = "about-blog"
       name       = "Blog"
-      url        = "/articles/"
+      url        = "/en/articles/"
       weight     = 2
 
     [[languages.en.menus.main]]
       parent     = "about"
       identifier = "about-network"
       name       = "My Network"
-      url        = "/#network"
+      url        = "/en/#network"
       weight     = 3
 
     [[languages.en.menus.main]]
       parent     = "about"
       identifier = "about-contact"
       name       = "Contact"
-      url        = "/#contact"
+      url        = "/en/#contact"
       weight     = 4
 
   [languages.fr]
-    weight       = 2
+    weight       = 1
     languageCode = "fr-ca"
     languageName = "Français"
     contentDir   = "content/fr"
@@ -141,12 +141,12 @@ defaultContentLanguageInSubdir = false
 
     [languages.fr.params]
       role        = "Courtier Immobilier Résidentiel"
-      tagline     = "Courtier Immobilier R&eacute;sidentiel &middot; Laval &amp; Montr&eacute;al"
-      heroQuote   = "Votre guide de confiance sur le march&eacute; immobilier de la grande r&eacute;gion de Montr&eacute;al."
+      tagline     = "Courtier Immobilier R&eacute;sidentiel &middot; Montr&eacute;al, Laval &amp; Laurentides"
+      heroQuote   = "Votre guide de confiance sur les march&eacute;s immobiliers de Montr&eacute;al, Laval et les Laurentides."
       ctaListings = "Voir les propriétés"
       ctaContact  = "Me contacter"
-      description = "Courtier immobilier résidentiel à Laval et dans la grande région de Montréal. Propriétés résidentielles et investissement immobilier."
-      bio         = "Avec une connaissance approfondie des marchés immobiliers de Montréal et Laval, j'offre un accompagnement personnalisé pour aider acheteurs, vendeurs et investisseurs à atteindre leurs objectifs immobiliers."
+      description = "Courtier immobilier résidentiel à Montréal, Laval et dans les Laurentides. Propriétés résidentielles et investissement immobilier."
+      bio         = "Avec une connaissance approfondie des marchés immobiliers de Montréal, Laval et des Laurentides, j'offre un accompagnement personnalisé pour aider acheteurs, vendeurs et investisseurs à atteindre leurs objectifs immobiliers."
       aboutBadge  = "À propos"
       aboutTitle  = "Passionné par la recherche de votre propriété idéale"
 
@@ -268,12 +268,12 @@ defaultContentLanguageInSubdir = false
 
     [languages.es.params]
       role        = "Corredor Inmobiliario Residencial"
-      tagline     = "Corredor Inmobiliario Residencial &middot; Laval &amp; Montr&eacute;al"
-      heroQuote   = "&ldquo;Su guía de confianza en el mercado inmobiliario del Gran Montréal.&rdquo;"
+      tagline     = "Corredor Inmobiliario Residencial &middot; Montr&eacute;al, Laval &amp; Laurentides"
+      heroQuote   = "&ldquo;Su guía de confianza en los mercados inmobiliarios de Montréal, Laval y los Laurentides.&rdquo;"
       ctaListings = "Ver Propiedades"
       ctaContact  = "Contácteme"
-      description = "Corredor inmobiliario residencial en Laval y el Gran Montréal. Propiedades residenciales e inversión inmobiliaria."
-      bio         = "Con un profundo conocimiento de los mercados inmobiliarios de Montréal y Laval, ofrezco orientación personalizada para ayudar a compradores, vendedores e inversores a alcanzar sus objetivos inmobiliarios. Mi compromiso con la excelencia y la satisfacción del cliente guía todo lo que hago."
+      description = "Corredor inmobiliario residencial en Montréal, Laval y los Laurentides. Propiedades residenciales e inversión inmobiliaria."
+      bio         = "Con un profundo conocimiento de los mercados inmobiliarios de Montréal, Laval y los Laurentides, ofrezco orientación personalizada para ayudar a compradores, vendedores e inversores a alcanzar sus objetivos inmobiliarios. Mi compromiso con la excelencia y la satisfacción del cliente guía todo lo que hago."
       aboutBadge  = "Sobre mí"
       aboutTitle  = "Apasionado por encontrar su propiedad ideal"
 
@@ -374,11 +374,11 @@ defaultContentLanguageInSubdir = false
 
     [languages.ar.params]
       role        = "وسيط عقاري سكني"
-      tagline     = "وسيط عقاري سكني · لافال ومونتريال"
+      tagline     = "وسيط عقاري سكني · مونتريال، لافال واللورانتيد"
       ctaListings = "عرض العقارات"
       ctaContact  = "تواصل معي"
-      description = "جورج متار، وسيط عقاري سكني في RE/MAX DU CARTIER INC. نخدم المشترين والبائعين والمستثمرين في لافال ومنطقة مونتريال الكبرى."
-      bio         = "بفضل معرفتي العميقة بأسواق العقارات في مونتريال ولافال، أقدم توجيهاً شخصياً لمساعدة المشترين والبائعين والمستثمرين على تحقيق أهدافهم العقارية. التزامي بالتميز ورضا العملاء يقود كل ما أقوم به."
+      description = "جورج متار، وسيط عقاري سكني في RE/MAX DU CARTIER INC. نخدم المشترين والبائعين والمستثمرين في مونتريال، لافال ومنطقة اللورانتيد."
+      bio         = "بفضل معرفتي العميقة بأسواق العقارات في مونتريال، لافال ومنطقة اللورانتيد، أقدم توجيهاً شخصياً لمساعدة المشترين والبائعين والمستثمرين على تحقيق أهدافهم العقارية. التزامي بالتميز ورضا العملاء يقود كل ما أقوم به."
       aboutBadge  = "نبذة عني"
       aboutTitle  = "نجاحك العقاري هو هدفي"
 
