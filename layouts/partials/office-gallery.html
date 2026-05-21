@@ -1,16 +1,19 @@
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
 
 <section class="section office-gallery">
   <div class="container">
     <div class="section-header reveal">
       <span class="eyebrow">RE/MAX DU CARTIER INC.</span>
-      <h2>{{ if $isFr }}Notre bureau, votre espace{{ else if $isAr }}مكتبنا، فضاؤك{{ else }}Our Office, Your Space{{ end }}</h2>
+      <h2>{{ if $isFr }}Notre bureau, votre espace{{ else if $isAr }}مكتبنا، فضاؤك{{ else if $isEs }}Nuestra oficina, su espacio{{ else }}Our Office, Your Space{{ end }}</h2>
       <p class="subtitle">
         {{ if $isFr }}
           Un environnement professionnel et accueillant au coeur de Laval, conçu pour vous accompagner dans chaque étape de votre projet immobilier.
         {{ else if $isAr }}
           بيئة احترافية ومرحبة في قلب لافال، مصممة لمرافقتك في كل خطوة من مشروعك العقاري.
+        {{ else if $isEs }}
+          Un entorno profesional y acogedor en el corazón de Laval, diseñado para acompañarle en cada etapa de su proyecto inmobiliario.
         {{ else }}
           A professional, welcoming environment in the heart of Laval, designed to support you through every step of your real estate journey.
         {{ end }}
@@ -20,23 +23,23 @@
     <div class="gallery-masonry reveal">
       <div class="gallery-item">
         <img src="{{ "images/office/reception.png" | relURL }}" alt="Reception RE/MAX DU CARTIER" loading="lazy">
-        <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Réception{{ else if $isAr }}الاستقبال{{ else }}Reception{{ end }}</span></div>
+        <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Réception{{ else if $isAr }}الاستقبال{{ else if $isEs }}Recepción{{ else }}Reception{{ end }}</span></div>
       </div>
       <div class="gallery-item">
         <img src="{{ "images/office/conference-room.png" | relURL }}" alt="Salle de conférence" loading="lazy">
-        <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Salle de conférence{{ else if $isAr }}قاعة الاجتماعات{{ else }}Conference Room{{ end }}</span></div>
+        <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Salle de conférence{{ else if $isAr }}قاعة الاجتماعات{{ else if $isEs }}Sala de conferencias{{ else }}Conference Room{{ end }}</span></div>
       </div>
       <div class="gallery-item">
         <img src="{{ "images/office/corridor.webp" | relURL }}" alt="Corridor bureau" loading="lazy">
-        <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Couloir{{ else if $isAr }}الممر{{ else }}Hallway{{ end }}</span></div>
+        <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Couloir{{ else if $isAr }}الممر{{ else if $isEs }}Pasillo{{ else }}Hallway{{ end }}</span></div>
       </div>
       <div class="gallery-item">
         <img src="{{ "images/office/client-office.png" | relURL }}" alt="Bureau client" loading="lazy">
-        <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Bureau privé{{ else if $isAr }}مكتب خاص{{ else }}Private Office{{ end }}</span></div>
+        <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Bureau privé{{ else if $isAr }}مكتب خاص{{ else if $isEs }}Oficina privada{{ else }}Private Office{{ end }}</span></div>
       </div>
       <div class="gallery-item">
         <img src="{{ "images/office/office.png" | relURL }}" alt="Bureau principal" loading="lazy">
-        <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Bureau principal{{ else if $isAr }}المكتب الرئيسي{{ else }}Main Office{{ end }}</span></div>
+        <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Bureau principal{{ else if $isAr }}المكتب الرئيسي{{ else if $isEs }}Oficina principal{{ else }}Main Office{{ end }}</span></div>
       </div>
     </div>
 

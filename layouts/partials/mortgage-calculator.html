@@ -1,21 +1,24 @@
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
 
 <section class="section section--light mc-section" id="tools">
   <div class="container">
 
     <div class="section-header reveal">
       <span class="eyebrow">
-        {{ if $isFr }}Outils immobiliers{{ else if $isAr }}أدوات عقارية{{ else }}Real Estate Tools{{ end }}
+        {{ if $isFr }}Outils immobiliers{{ else if $isAr }}أدوات عقارية{{ else if $isEs }}Herramientas inmobiliarias{{ else }}Real Estate Tools{{ end }}
       </span>
       <h2>
-        {{ if $isFr }}Calculez les paiements pour une propriété{{ else if $isAr }}احسب دفعات العقار{{ else }}Calculate the Payments for a Property{{ end }}
+        {{ if $isFr }}Calculez les paiements pour une propriété{{ else if $isAr }}احسب دفعات العقار{{ else if $isEs }}Calcule los pagos de una propiedad{{ else }}Calculate the Payments for a Property{{ end }}
       </h2>
       <p class="subtitle">
         {{ if $isFr }}
           Estimez vos versements hypothécaires mensuels en quelques secondes.
         {{ else if $isAr }}
           احسب دفعاتك الشهرية للرهن العقاري في ثوانٍ.
+        {{ else if $isEs }}
+          Calcule sus pagos hipotecarios mensuales en segundos con nuestra calculadora fácil de usar.
         {{ else }}
           Estimate your mortgage payments in seconds with our easy-to-use calculator.
         {{ end }}
@@ -27,7 +30,7 @@
       <!-- Property type -->
       <div class="mc-field mc-field--full">
         <label class="mc-label" for="mc-type">
-          {{ if $isFr }}Type de propriété préféré ?{{ else if $isAr }}نوع العقار المفضل؟{{ else }}Preferred property type?{{ end }}
+          {{ if $isFr }}Type de propriété préféré ?{{ else if $isAr }}نوع العقار المفضل؟{{ else if $isEs }}¿Tipo de propiedad preferido?{{ else }}Preferred property type?{{ end }}
         </label>
         <div class="mc-select-wrap">
           <span class="mc-select-icon">
@@ -44,6 +47,11 @@
               <option value="condo">شقة / كوندو</option>
               <option value="commercial">تجاري</option>
               <option value="investment">استثماري</option>
+            {{ else if $isEs }}
+              <option value="residential">Residencial</option>
+              <option value="condo">Condo / Apartamento</option>
+              <option value="commercial">Comercial</option>
+              <option value="investment">Inversión</option>
             {{ else }}
               <option value="residential">Residential</option>
               <option value="condo">Condo / Apartment</option>
@@ -61,29 +69,29 @@
       <div class="mc-row mc-row--3">
         <div class="mc-field">
           <label class="mc-label" for="mc-price">
-            {{ if $isFr }}Prix de la propriété{{ else if $isAr }}سعر العقار{{ else }}Price of property{{ end }}
+            {{ if $isFr }}Prix de la propriété{{ else if $isAr }}سعر العقار{{ else if $isEs }}Precio de la propiedad{{ else }}Price of property{{ end }}
           </label>
           <div class="mc-input-wrap">
             <span class="mc-prefix">$</span>
             <input class="mc-input" id="mc-price" type="text" inputmode="numeric"
-              placeholder="{{ if $isFr }}Prix de la propriété{{ else if $isAr }}سعر العقار{{ else }}Price of property{{ end }}">
+              placeholder="{{ if $isFr }}Prix de la propriété{{ else if $isAr }}سعر العقار{{ else if $isEs }}Precio de la propiedad{{ else }}Price of property{{ end }}">
           </div>
         </div>
 
         <div class="mc-field">
           <label class="mc-label" for="mc-down">
-            {{ if $isFr }}Mise de fonds{{ else if $isAr }}الدفعة الأولى{{ else }}Down payment{{ end }}
+            {{ if $isFr }}Mise de fonds{{ else if $isAr }}الدفعة الأولى{{ else if $isEs }}Pago inicial{{ else }}Down payment{{ end }}
           </label>
           <div class="mc-input-wrap">
             <span class="mc-prefix">$</span>
             <input class="mc-input" id="mc-down" type="text" inputmode="numeric"
-              placeholder="{{ if $isFr }}Mise de fonds{{ else if $isAr }}الدفعة الأولى{{ else }}Down payment{{ end }}">
+              placeholder="{{ if $isFr }}Mise de fonds{{ else if $isAr }}الدفعة الأولى{{ else if $isEs }}Pago inicial{{ else }}Down payment{{ end }}">
           </div>
         </div>
 
         <div class="mc-field">
           <label class="mc-label" for="mc-pct">
-            {{ if $isFr }}Pourcentage{{ else if $isAr }}النسبة المئوية{{ else }}Percentage{{ end }}
+            {{ if $isFr }}Pourcentage{{ else if $isAr }}النسبة المئوية{{ else if $isEs }}Porcentaje{{ else }}Percentage{{ end }}
           </label>
           <div class="mc-input-wrap">
             <input class="mc-input mc-input--no-prefix" id="mc-pct" type="text" inputmode="numeric" placeholder="0.00">
@@ -96,7 +104,7 @@
       <div class="mc-row mc-row--2">
         <div class="mc-field">
           <label class="mc-label" for="mc-loan">
-            {{ if $isFr }}Montant du prêt{{ else if $isAr }}مبلغ القرض{{ else }}Loan amount{{ end }}
+            {{ if $isFr }}Montant du prêt{{ else if $isAr }}مبلغ القرض{{ else if $isEs }}Monto del préstamo{{ else }}Loan amount{{ end }}
           </label>
           <div class="mc-input-wrap mc-input-wrap--readonly">
             <span class="mc-prefix">$</span>
@@ -106,7 +114,7 @@
 
         <div class="mc-field">
           <label class="mc-label" for="mc-rate">
-            {{ if $isFr }}Taux d'intérêt{{ else if $isAr }}معدل الفائدة{{ else }}Interest rate{{ end }}
+            {{ if $isFr }}Taux d'intérêt{{ else if $isAr }}معدل الفائدة{{ else if $isEs }}Tasa de interés{{ else }}Interest rate{{ end }}
           </label>
           <div class="mc-input-wrap">
             <span class="mc-prefix mc-prefix--pct">%</span>
@@ -130,21 +138,21 @@
         </div>
         <div class="mc-cmhc-banner__body">
           <span class="mc-cmhc-banner__title" id="mc-cmhc-title">
-            {{ if $isFr }}Prime d'assurance CMHC / Sagen&#8482; / Canada Guaranty&#8482;{{ else if $isAr }}قسط تأمين CMHC / Sagen&#8482; / Canada Guaranty&#8482;{{ else }}Insurance Premium (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ end }}
+            {{ if $isFr }}Prime d'assurance CMHC / Sagen&#8482; / Canada Guaranty&#8482;{{ else if $isAr }}قسط تأمين CMHC / Sagen&#8482; / Canada Guaranty&#8482;{{ else if $isEs }}Prima de seguro (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ else }}Insurance Premium (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ end }}
           </span>
           <div class="mc-cmhc-banner__details">
             <span id="mc-cmhc-rate-label">
-              {{ if $isFr }}Taux de prime :{{ else if $isAr }}معدل القسط:{{ else }}Premium rate:{{ end }}
+              {{ if $isFr }}Taux de prime :{{ else if $isAr }}معدل القسط:{{ else if $isEs }}Tasa de prima:{{ else }}Premium rate:{{ end }}
             </span>
             <strong id="mc-cmhc-pct-display">—</strong>
             &nbsp;&nbsp;
             <span id="mc-cmhc-amt-label">
-              {{ if $isFr }}Prime :{{ else if $isAr }}القسط:{{ else }}Premium:{{ end }}
+              {{ if $isFr }}Prime :{{ else if $isAr }}القسط:{{ else if $isEs }}Prima:{{ else }}Premium:{{ end }}
             </span>
             <strong id="mc-cmhc-amt">—</strong>
             &nbsp;&nbsp;
             <span id="mc-cmhc-insured-label">
-              {{ if $isFr }}Prêt assuré :{{ else if $isAr }}القرض المؤمَّن:{{ else }}Insured mortgage:{{ end }}
+              {{ if $isFr }}Prêt assuré :{{ else if $isAr }}القرض المؤمَّن:{{ else if $isEs }}Hipoteca asegurada:{{ else }}Insured mortgage:{{ end }}
             </span>
             <strong id="mc-cmhc-insured">—</strong>
           </div>
@@ -155,13 +163,13 @@
       <div class="mc-row mc-row--3">
         <div class="mc-field">
           <label class="mc-label" for="mc-term">
-            {{ if $isFr }}Durée du terme{{ else if $isAr }}مدة العقد{{ else }}Term{{ end }}
+            {{ if $isFr }}Durée du terme{{ else if $isAr }}مدة العقد{{ else if $isEs }}Plazo{{ else }}Term{{ end }}
           </label>
           <div class="mc-select-wrap">
             <select class="mc-select" id="mc-term">
               {{ range slice 1 2 3 4 5 6 7 8 9 10 }}
               <option value="{{ . }}"{{ if eq . 5 }} selected{{ end }}>
-                {{ . }} {{ if $isFr }}ans{{ else if $isAr }}سنة{{ else }}years{{ end }}
+                {{ . }} {{ if $isFr }}ans{{ else if $isAr }}سنة{{ else if $isEs }}años{{ else }}years{{ end }}
               </option>
               {{ end }}
             </select>
@@ -173,13 +181,13 @@
 
         <div class="mc-field">
           <label class="mc-label" for="mc-amort">
-            {{ if $isFr }}Période d'amortissement{{ else if $isAr }}فترة الإطفاء{{ else }}Amortization period{{ end }}
+            {{ if $isFr }}Période d'amortissement{{ else if $isAr }}فترة الإطفاء{{ else if $isEs }}Período de amortización{{ else }}Amortization period{{ end }}
           </label>
           <div class="mc-select-wrap">
             <select class="mc-select" id="mc-amort">
               {{ range slice 5 10 15 20 25 30 }}
               <option value="{{ . }}"{{ if eq . 25 }} selected{{ end }}>
-                {{ . }} {{ if $isFr }}ans{{ else if $isAr }}سنة{{ else }}years{{ end }}
+                {{ . }} {{ if $isFr }}ans{{ else if $isAr }}سنة{{ else if $isEs }}años{{ else }}years{{ end }}
               </option>
               {{ end }}
             </select>
@@ -191,7 +199,7 @@
 
         <div class="mc-field">
           <label class="mc-label" for="mc-freq">
-            {{ if $isFr }}Fréquence de paiement{{ else if $isAr }}تكرار الدفع{{ else }}Payment frequency{{ end }}
+            {{ if $isFr }}Fréquence de paiement{{ else if $isAr }}تكرار الدفع{{ else if $isEs }}Frecuencia de pago{{ else }}Payment frequency{{ end }}
           </label>
           <div class="mc-select-wrap">
             <select class="mc-select" id="mc-freq">
@@ -205,6 +213,11 @@
                 <option value="24">مرتين شهرياً</option>
                 <option value="26">كل أسبوعين</option>
                 <option value="52">أسبوعي</option>
+              {{ else if $isEs }}
+                <option value="12">Mensual</option>
+                <option value="24">Quincenal</option>
+                <option value="26">Cada dos semanas</option>
+                <option value="52">Semanal</option>
               {{ else }}
                 <option value="12">Monthly</option>
                 <option value="24">Semi-monthly</option>
@@ -222,7 +235,7 @@
       <!-- Calculate button -->
       <div class="mc-actions">
         <button class="btn btn-primary mc-btn-calc" id="mc-calculate" type="button">
-          {{ if $isFr }}Calculer{{ else if $isAr }}احسب{{ else }}Calculate{{ end }}
+          {{ if $isFr }}Calculer{{ else if $isAr }}احسب{{ else if $isEs }}Calcular{{ else }}Calculate{{ end }}
         </button>
       </div>
 
@@ -234,27 +247,27 @@
         <div class="mc-headline-results">
           <div class="mc-headline-block">
             <span class="mc-headline-block__label" id="mc-hl-loan-label">
-              {{ if $isFr }}Votre prêt hypothécaire sera de :{{ else if $isAr }}مبلغ قرضك العقاري سيكون:{{ else }}Your mortgage loan amount will be:{{ end }}
+              {{ if $isFr }}Votre prêt hypothécaire sera de :{{ else if $isAr }}مبلغ قرضك العقاري سيكون:{{ else if $isEs }}El monto de su préstamo hipotecario será:{{ else }}Your mortgage loan amount will be:{{ end }}
             </span>
             <span class="mc-headline-block__value" id="mc-hl-loan">—</span>
             <span class="mc-headline-block__sub" id="mc-hl-insurance-sub" style="display:none">
-              {{ if $isFr }}Avec prime d'assurance (CMHC / Sagen&#8482; / Canada Guaranty&#8482;) :{{ else if $isAr }}مع قسط التأمين (CMHC / Sagen&#8482; / Canada Guaranty&#8482;):{{ else }}With insurance premium (CMHC / Sagen&#8482; / Canada Guaranty&#8482;):{{ end }}
+              {{ if $isFr }}Avec prime d'assurance (CMHC / Sagen&#8482; / Canada Guaranty&#8482;) :{{ else if $isAr }}مع قسط التأمين (CMHC / Sagen&#8482; / Canada Guaranty&#8482;):{{ else if $isEs }}Con prima de seguro (CMHC / Sagen&#8482; / Canada Guaranty&#8482;):{{ else }}With insurance premium (CMHC / Sagen&#8482; / Canada Guaranty&#8482;):{{ end }}
               <strong id="mc-hl-insurance-amt">—</strong>
             </span>
           </div>
           <div class="mc-headline-block mc-headline-block--payment">
             <span class="mc-headline-block__label">
-              {{ if $isFr }}Votre paiement sera de :{{ else if $isAr }}دفعتك ستكون:{{ else }}Your payments will be:{{ end }}
+              {{ if $isFr }}Votre paiement sera de :{{ else if $isAr }}دفعتك ستكون:{{ else if $isEs }}Sus pagos serán:{{ else }}Your payments will be:{{ end }}
             </span>
             <span class="mc-headline-block__value mc-headline-block__value--payment" id="mc-hl-payment">—</span>
             <span class="mc-headline-block__freq" id="mc-hl-freq-label">
-              {{ if $isFr }}par mois{{ else if $isAr }}في الشهر{{ else }}per month{{ end }}
+              {{ if $isFr }}par mois{{ else if $isAr }}في الشهر{{ else if $isEs }}por mes{{ else }}per month{{ end }}
             </span>
           </div>
         </div>
 
         <h3 class="mc-results__title">
-          {{ if $isFr }}Sommaire du calcul{{ else if $isAr }}ملخص الحساب{{ else }}Calculation Summary{{ end }}
+          {{ if $isFr }}Sommaire du calcul{{ else if $isAr }}ملخص الحساب{{ else if $isEs }}Resumen del cálculo{{ else }}Calculation Summary{{ end }}
         </h3>
 
         <div class="mc-table-wrap">
@@ -262,27 +275,27 @@
             <thead>
               <tr>
                 <th class="mc-th mc-th--category">
-                  {{ if $isFr }}Catégorie{{ else if $isAr }}الفئة{{ else }}Category{{ end }}
+                  {{ if $isFr }}Catégorie{{ else if $isAr }}الفئة{{ else if $isEs }}Categoría{{ else }}Category{{ end }}
                 </th>
                 <th class="mc-th mc-th--col" id="mc-th-term">
-                  {{ if $isFr }}Terme{{ else if $isAr }}المدة{{ else }}Term{{ end }}
+                  {{ if $isFr }}Terme{{ else if $isAr }}المدة{{ else if $isEs }}Plazo{{ else }}Term{{ end }}
                 </th>
                 <th class="mc-th mc-th--col mc-th--amort">
-                  {{ if $isFr }}Période d'amortissement{{ else if $isAr }}فترة الإطفاء{{ else }}Amortization Period{{ end }}
+                  {{ if $isFr }}Période d'amortissement{{ else if $isAr }}فترة الإطفاء{{ else if $isEs }}Período de amortización{{ else }}Amortization Period{{ end }}
                 </th>
               </tr>
             </thead>
             <tbody>
               <tr class="mc-tr">
                 <td class="mc-td mc-td--label">
-                  {{ if $isFr }}Nombre de paiements{{ else if $isAr }}عدد الدفعات{{ else }}Number of Payments{{ end }}
+                  {{ if $isFr }}Nombre de paiements{{ else if $isAr }}عدد الدفعات{{ else if $isEs }}Número de pagos{{ else }}Number of Payments{{ end }}
                 </td>
                 <td class="mc-td mc-td--val" id="mc-r-term-n">—</td>
                 <td class="mc-td mc-td--val mc-td--amort" id="mc-r-amort-n">—</td>
               </tr>
               <tr class="mc-tr mc-tr--highlight">
                 <td class="mc-td mc-td--label" id="mc-r-payment-label">
-                  {{ if $isFr }}Paiement hypothécaire{{ else if $isAr }}الدفعة العقارية{{ else }}Mortgage Payment{{ end }}
+                  {{ if $isFr }}Paiement hypothécaire{{ else if $isAr }}الدفعة العقارية{{ else if $isEs }}Pago hipotecario{{ else }}Mortgage Payment{{ end }}
                 </td>
                 <td class="mc-td mc-td--val mc-td--strong" id="mc-r-term-pay">—</td>
                 <td class="mc-td mc-td--val mc-td--strong mc-td--amort" id="mc-r-amort-pay">—</td>
@@ -290,14 +303,14 @@
               <!-- CMHC insurance row — hidden when not applicable -->
               <tr class="mc-tr mc-tr--insurance" id="mc-r-insurance-row" style="display:none">
                 <td class="mc-td mc-td--label mc-td--insurance-label">
-                  {{ if $isFr }}Prime d'assurance (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ else if $isAr }}قسط التأمين (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ else }}Insurance Premium (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ end }}
+                  {{ if $isFr }}Prime d'assurance (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ else if $isAr }}قسط التأمين (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ else if $isEs }}Prima de seguro (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ else }}Insurance Premium (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ end }}
                 </td>
                 <td class="mc-td mc-td--val mc-td--insurance" id="mc-r-insurance-term">—</td>
                 <td class="mc-td mc-td--val mc-td--insurance mc-td--amort" id="mc-r-insurance-amort">—</td>
               </tr>
               <tr class="mc-tr mc-tr--total">
                 <td class="mc-td mc-td--label mc-td--total-label">
-                  {{ if $isFr }}Total des intérêts payés{{ else if $isAr }}إجمالي الفوائد المدفوعة{{ else }}Total Interest Paid{{ end }}
+                  {{ if $isFr }}Total des intérêts payés{{ else if $isAr }}إجمالي الفوائد المدفوعة{{ else if $isEs }}Total de intereses pagados{{ else }}Total Interest Paid{{ end }}
                 </td>
                 <td class="mc-td mc-td--val mc-td--total" id="mc-r-term-interest">—</td>
                 <td class="mc-td mc-td--val mc-td--total mc-td--amort" id="mc-r-amort-interest">—</td>
@@ -311,6 +324,8 @@
             * Estimation à titre indicatif uniquement. Les primes d'assurance CMHC/Sagen/Canada Guaranty s'appliquent aux mises de fonds inférieures à 20 % sur les propriétés de moins de 1 000 000 $. Consultez un conseiller hypothécaire pour une analyse complète.
           {{ else if $isAr }}
             * تقدير للإرشاد فقط. تنطبق أقساط تأمين CMHC/Sagen/Canada Guaranty على الدفعات الأولى التي تقل عن 20% للعقارات أقل من 1,000,000$. استشر مستشاراً للرهن العقاري للحصول على تحليل كامل.
+          {{ else if $isEs }}
+            * Estimación con fines informativos únicamente. Las primas de seguro CMHC/Sagen/Canada Guaranty aplican a pagos iniciales inferiores al 20% en propiedades de menos de $1,500,000. Consulte a un asesor hipotecario para un análisis completo.
           {{ else }}
             * Estimate for informational purposes only. CMHC/Sagen/Canada Guaranty insurance premiums apply to down payments under 20% on properties under $1,500,000. Consult a mortgage advisor for a complete analysis.
           {{ end }}
@@ -325,6 +340,8 @@
         Prêt à passer à l'étape suivante ? <a href="/fr/#contact" style="color:var(--red);font-weight:600">Contactez-moi</a> pour discuter de votre financement.
       {{ else if $isAr }}
         هل أنت مستعد للخطوة التالية؟ <a href="/ar/#contact" style="color:var(--red);font-weight:600">تواصل معي</a> لمناقشة تمويلك.
+      {{ else if $isEs }}
+        ¿Listo para dar el siguiente paso? <a href="/es/#contact" style="color:var(--red);font-weight:600">Contácteme</a> para hablar sobre sus opciones de financiamiento.
       {{ else }}
         Ready to take the next step? <a href="/#contact" style="color:var(--red);font-weight:600">Contact me</a> to discuss your financing options.
       {{ end }}
@@ -412,14 +429,14 @@
     var t    = parseInt(document.getElementById('mc-term').value) || 5;
     var f    = parseInt(freq.value) || 12;
     var lang = document.documentElement.lang || 'en';
-    var yr   = lang === 'fr' ? 'ans' : lang === 'ar' ? 'سنة' : 'years';
-    var lbl  = lang === 'fr' ? 'Terme' : lang === 'ar' ? 'المدة' : 'Term';
+    var yr   = lang === 'fr' ? 'ans' : lang === 'ar' ? 'سنة' : lang === 'es' ? 'años' : 'years';
+    var lbl  = lang === 'fr' ? 'Terme' : lang === 'ar' ? 'المدة' : lang === 'es' ? 'Plazo' : 'Term';
     document.getElementById('mc-th-term').textContent = lbl + ' (' + t + ' ' + yr + ')';
     var payLabels = {
-      12: {en:'Mortgage Payment',         fr:'Paiement hypothécaire',              ar:'الدفعة العقارية'},
-      24: {en:'Semi-monthly Payment',     fr:'Paiement bimensuel',                 ar:'الدفعة نصف الشهرية'},
-      26: {en:'Bi-weekly Payment',        fr:'Paiement aux deux semaines',         ar:'الدفعة كل أسبوعين'},
-      52: {en:'Weekly Payment',           fr:'Paiement hebdomadaire',              ar:'الدفعة الأسبوعية'}
+      12: {en:'Mortgage Payment',         fr:'Paiement hypothécaire',              ar:'الدفعة العقارية',        es:'Pago hipotecario'},
+      24: {en:'Semi-monthly Payment',     fr:'Paiement bimensuel',                 ar:'الدفعة نصف الشهرية',    es:'Pago quincenal'},
+      26: {en:'Bi-weekly Payment',        fr:'Paiement aux deux semaines',         ar:'الدفعة كل أسبوعين',     es:'Pago cada dos semanas'},
+      52: {en:'Weekly Payment',           fr:'Paiement hebdomadaire',              ar:'الدفعة الأسبوعية',      es:'Pago semanal'}
     };
     var map = payLabels[f] || payLabels[12];
     document.getElementById('mc-r-payment-label').textContent = map[lang] || map['en'];
@@ -492,10 +509,10 @@
     /* Frequency label for headline */
     var lang = document.documentElement.lang || 'en';
     var freqLabels = {
-      12: {en:'per month',      fr:'par mois',           ar:'في الشهر'},
-      24: {en:'semi-monthly',   fr:'bimensuel',          ar:'نصف شهري'},
-      26: {en:'every two weeks',fr:'aux deux semaines',  ar:'كل أسبوعين'},
-      52: {en:'per week',       fr:'par semaine',        ar:'في الأسبوع'}
+      12: {en:'per month',       fr:'par mois',           ar:'في الشهر',    es:'por mes'},
+      24: {en:'semi-monthly',    fr:'bimensuel',          ar:'نصف شهري',   es:'quincenal'},
+      26: {en:'every two weeks', fr:'aux deux semaines',  ar:'كل أسبوعين', es:'cada dos semanas'},
+      52: {en:'per week',        fr:'par semaine',        ar:'في الأسبوع', es:'por semana'}
     };
     var fl = freqLabels[ppy] || freqLabels[12];
     set('mc-hl-freq-label', fl[lang] || fl['en']);

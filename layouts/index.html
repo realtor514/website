@@ -88,12 +88,101 @@
 
 {{ partial "services.html" . }}
 
+<!-- ── CALCULATOR SHORTCUTS ── -->
+<section class="calc-shortcuts">
+  <div class="container">
+    <div class="calc-shortcuts__header reveal">
+      <span class="calc-shortcuts__eyebrow">
+        {{ if $isFr }}Outils gratuits{{ else if $isAr }}أدوات مجانية{{ else if $isEs }}Herramientas gratuitas{{ else }}Free Tools{{ end }}
+      </span>
+      <h2 class="calc-shortcuts__title">
+        {{ if $isFr }}5 calculateurs pour votre projet{{ else if $isAr }}5 حاسبات لمشروعك{{ else if $isEs }}5 calculadoras para su proyecto{{ else }}5 Calculators for Your Project{{ end }}
+      </h2>
+    </div>
+    <div class="calc-shortcuts__grid reveal">
+
+      <a href="#tools" class="calc-card" data-tool="tool-mortgage">
+        <div class="calc-card__icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/><line x1="7" y1="15" x2="7" y2="15" stroke-linecap="round" stroke-width="3"/><line x1="12" y1="15" x2="12" y2="15" stroke-linecap="round" stroke-width="3"/><line x1="17" y1="15" x2="17" y2="15" stroke-linecap="round" stroke-width="3"/></svg>
+        </div>
+        <div class="calc-card__body">
+          <span class="calc-card__name">{{ if $isFr }}Hypothèque{{ else if $isAr }}الرهن العقاري{{ else if $isEs }}Hipoteca{{ else }}Mortgage{{ end }}</span>
+          <span class="calc-card__desc">{{ if $isFr }}Paiements mensuels &amp; SCHL{{ else if $isAr }}الدفعات الشهرية{{ else if $isEs }}Pagos y SCHL{{ else }}Monthly payments &amp; CMHC{{ end }}</span>
+        </div>
+        <svg class="calc-card__arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+
+      <a href="#tools" class="calc-card" data-tool="tool-welcome-tax">
+        <div class="calc-card__icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="9" y1="12" x2="15" y2="12"/><line x1="9" y1="16" x2="13" y2="16"/></svg>
+        </div>
+        <div class="calc-card__body">
+          <span class="calc-card__name">{{ if $isFr }}Droits de mutation{{ else if $isAr }}رسوم النقل{{ else if $isEs }}Impuesto bienvenida{{ else }}Welcome Tax{{ end }}</span>
+          <span class="calc-card__desc">{{ if $isFr }}Taxe de bienvenue QC{{ else if $isAr }}ضريبة الترحيب QC{{ else if $isEs }}Impuesto de transferencia QC{{ else }}Quebec transfer tax{{ end }}</span>
+        </div>
+        <svg class="calc-card__arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+
+      <a href="#tools" class="calc-card" data-tool="tool-closing-costs">
+        <div class="calc-card__icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><path d="M12 12l3 3"/><polyline points="8 6 12 2 16 6"/></svg>
+        </div>
+        <div class="calc-card__body">
+          <span class="calc-card__name">{{ if $isFr }}Frais de clôture{{ else if $isAr }}تكاليف الإغلاق{{ else if $isEs }}Costos de cierre{{ else }}Closing Costs{{ end }}</span>
+          <span class="calc-card__desc">{{ if $isFr }}Notaire, inspection &amp; taxes{{ else if $isAr }}الموثق والتفتيش{{ else if $isEs }}Notario, inspección{{ else }}Notary, inspection &amp; taxes{{ end }}</span>
+        </div>
+        <svg class="calc-card__arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+
+      <a href="#tools" class="calc-card" data-tool="tool-affordability">
+        <div class="calc-card__icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+        </div>
+        <div class="calc-card__body">
+          <span class="calc-card__name">{{ if $isFr }}Capacité d'emprunt{{ else if $isAr }}القدرة الشرائية{{ else if $isEs }}Capacidad de compra{{ else }}Affordability{{ end }}</span>
+          <span class="calc-card__desc">{{ if $isFr }}Budget max selon revenu{{ else if $isAr }}أقصى ميزانية حسب الدخل{{ else if $isEs }}Presupuesto máximo{{ else }}Max budget from income{{ end }}</span>
+        </div>
+        <svg class="calc-card__arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+
+      <a href="#tools" class="calc-card" data-tool="tool-rent-vs-buy">
+        <div class="calc-card__icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><line x1="12" y1="2" x2="12" y2="22"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+        </div>
+        <div class="calc-card__body">
+          <span class="calc-card__name">{{ if $isFr }}Loc. vs Achat{{ else if $isAr }}استئجار أم شراء{{ else if $isEs }}Alquilar vs. Comprar{{ else }}Rent vs. Buy{{ end }}</span>
+          <span class="calc-card__desc">{{ if $isFr }}Quel choix est le plus rentable?{{ else if $isAr }}أيهما أكثر ربحية؟{{ else if $isEs }}¿Qué opción es mejor?{{ else }}Which option wins long-term?{{ end }}</span>
+        </div>
+        <svg class="calc-card__arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+
+    </div>
+  </div>
+</section>
+<script>
+(function () {
+  document.querySelectorAll('.calc-card').forEach(function (card) {
+    card.addEventListener('click', function (e) {
+      var targetPanel = card.getAttribute('data-tool');
+      var toolSection = document.getElementById('tools');
+      if (!targetPanel || !toolSection) return;
+      e.preventDefault();
+      toolSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      setTimeout(function () {
+        var tab = document.querySelector('[data-panel="' + targetPanel + '"]');
+        if (tab) tab.click();
+      }, 600);
+    });
+  });
+})();
+</script>
+
 <!-- Stats bar -->
 <div class="stats-bar">
   <div class="container">
     <div class="stats-bar__grid">
       <div class="stat-item">
-        <span class="stat-item__number" style="font-size:1.5rem">Ingénieur (PhD)</span>
+        <span class="stat-item__number" style="font-size:1.5rem">{{ if $isFr }}Ingénieur (PhD){{ else if $isAr }}مهندس (دكتوراه){{ else if $isEs }}Ingeniero (PhD){{ else }}Engineer (PhD){{ end }}</span>
         <span class="stat-item__label">{{ if $isFr }}Formation académique{{ else if $isAr }}خلفية أكاديمية{{ else if $isEs }}Formación académica{{ else }}Academic background{{ end }}</span>
       </div>
       <div class="stat-item">
@@ -136,28 +225,28 @@
         <p class="about-split__text">{{ .Site.Params.bio }}</p>
         <div class="about-highlights">
           {{ if $isFr }}
-          <div class="highlight-item">Spécialiste Montréal &amp; Laval</div>
+          <div class="highlight-item">Spécialiste Montréal, Laval &amp; Laurentides</div>
           <div class="highlight-item">Résidentiel</div>
           <div class="highlight-item">Premiers acheteurs</div>
           <div class="highlight-item">Propriétés d'investissement</div>
           <div class="highlight-item">Service trilingue (FR/EN/AR)</div>
           <div class="highlight-item">Analyse de marché rigoureuse</div>
           {{ else if $isAr }}
-          <div class="highlight-item">متخصص في مونتريال ولافال</div>
+          <div class="highlight-item">متخصص في مونتريال، لافال واللورانتيد</div>
           <div class="highlight-item">سكني</div>
           <div class="highlight-item">المشترون الأوائل</div>
           <div class="highlight-item">عقارات استثمارية</div>
           <div class="highlight-item">خدمة ثلاثية اللغات (ع/ف/إ)</div>
           <div class="highlight-item">تحليل السوق بدقة</div>
           {{ else if $isEs }}
-          <div class="highlight-item">Especialista Montréal y Laval</div>
+          <div class="highlight-item">Especialista Montréal, Laval y Laurentides</div>
           <div class="highlight-item">Residencial</div>
           <div class="highlight-item">Compradores primerizos</div>
           <div class="highlight-item">Propiedades de inversión</div>
           <div class="highlight-item">Trilingüe (FR/EN/AR)</div>
           <div class="highlight-item">Análisis basado en datos</div>
           {{ else }}
-          <div class="highlight-item">Montréal &amp; Laval Specialist</div>
+          <div class="highlight-item">Montréal, Laval &amp; Laurentians Specialist</div>
           <div class="highlight-item">Residential</div>
           <div class="highlight-item">First-Time Buyers</div>
           <div class="highlight-item">Investment Properties</div>
@@ -226,7 +315,7 @@
           </div>
           <div>
             <div style="color:#fff;font-weight:700;font-size:1rem;">RE/MAX du Cartier</div>
-            <div style="color:rgba(255,255,255,.4);font-size:.78rem;">{{ if $isFr }}Montréal &amp; Laval{{ else if $isAr }}مونتريال ولافال{{ else if $isEs }}Montréal y Laval{{ else }}Montréal &amp; Laval{{ end }}</div>
+            <div style="color:rgba(255,255,255,.4);font-size:.78rem;">{{ if $isFr }}Montréal, Laval &amp; Laurentides{{ else if $isAr }}مونتريال، لافال واللورانتيد{{ else if $isEs }}Montréal, Laval y Laurentides{{ else }}Montréal, Laval &amp; Laurentians{{ end }}</div>
           </div>
         </div>
         <div style="display:flex;flex-direction:column;gap:0;">
@@ -302,13 +391,13 @@
       <h2>{{ if $isFr }}Propriétés vedettes{{ else if $isAr }}عقارات مميزة{{ else if $isEs }}Propiedades destacadas{{ else }}Featured Properties{{ end }}</h2>
       <p class="subtitle">
         {{ if $isFr }}
-          Propriétés sélectionnées dans les quartiers les plus recherchés de Montréal et Laval.
+          Propriétés sélectionnées dans les quartiers les plus recherchés de Montréal, Laval et des Laurentides.
         {{ else if $isAr }}
-          عقارات مختارة في أكثر أحياء مونتريال ولافال طلباً.
+          عقارات مختارة في أكثر أحياء مونتريال، لافال ومنطقة اللورانتيد طلباً.
         {{ else if $isEs }}
-          Propiedades seleccionadas en los vecindarios más buscados del Gran Montréal y Laval.
+          Propiedades seleccionadas en los vecindarios más buscados de Montréal, Laval y los Laurentides.
         {{ else }}
-          Handpicked properties in the most sought-after neighbourhoods of Greater Montreal and Laval.
+          Handpicked properties in the most sought-after neighbourhoods of Montreal, Laval, and the Laurentians.
         {{ end }}
       </p>
     </div>
@@ -349,13 +438,13 @@
       <h2>{{ if $isFr }}Conseils immobiliers{{ else if $isAr }}نصائح عقارية{{ else if $isEs }}Perspectivas inmobiliarias{{ else }}Real Estate Insights{{ end }}</h2>
       <p class="subtitle">
         {{ if $isFr }}
-          Actualités du marché, conseils d'achat et analyses d'experts pour Montréal et Laval.
+          Actualités du marché, conseils d'achat et analyses d'experts pour Montréal, Laval et les Laurentides.
         {{ else if $isAr }}
-          تحديثات السوق، نصائح الشراء، وتحليلات الخبراء لسوقي مونتريال ولافال.
+          تحديثات السوق، نصائح الشراء، وتحليلات الخبراء لأسواق مونتريال، لافال واللورانتيد.
         {{ else if $isEs }}
-          Actualizaciones del mercado, consejos de compra y análisis experto para los mercados de Montréal y Laval.
+          Actualizaciones del mercado, consejos de compra y análisis experto para Montréal, Laval y los Laurentides.
         {{ else }}
-          Market updates, buying tips, and expert analysis for the Montreal &amp; Laval market.
+          Market updates, buying tips, and expert analysis for the Montreal, Laval &amp; Laurentians market.
         {{ end }}
       </p>
     </div>

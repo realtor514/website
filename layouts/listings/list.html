@@ -1,20 +1,27 @@
 {{ define "main" }}
 {{ $isFr := eq .Lang "fr" }}
-{{ $base  := cond $isFr "/fr" "" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $base  := "" }}
+{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
 
 <section class="content-hero">
   <div class="container">
     <div class="breadcrumb">
-      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else }}Home{{ end }}</a>
+      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a>
       <span class="breadcrumb__sep">&rsaquo;</span>
-      <span>{{ if $isFr }}Propriétés{{ else }}Properties{{ end }}</span>
+      <span>{{ if $isFr }}Propriétés{{ else if $isAr }}العقارات{{ else if $isEs }}Propiedades{{ else }}Properties{{ end }}</span>
     </div>
-    <h1 class="content-hero__title">{{ if $isFr }}Propriétés disponibles{{ else }}Available Properties{{ end }}</h1>
+    <h1 class="content-hero__title">{{ if $isFr }}Propriétés disponibles{{ else if $isAr }}العقارات المتاحة{{ else if $isEs }}Propiedades disponibles{{ else }}Available Properties{{ end }}</h1>
     <p style="color:rgba(255,255,255,.65);max-width:560px;margin-top:12px">
       {{ if $isFr }}
-        Découvrez mes inscriptions à Montr&eacute;al, Laval et dans les environs.
+        Découvrez mes inscriptions à Montr&eacute;al, Laval, dans les Laurentides et les environs.
+      {{ else if $isAr }}
+        استكشف إدراجاتي الحالية في مونتريال، لافال، منطقة اللورانتيد والمناطق المجاورة.
+      {{ else if $isEs }}
+        Explore mis propiedades actuales en Montr&eacute;al, Laval, los Laurentides y las áreas circundantes.
       {{ else }}
-        Explore my current listings in Montr&eacute;al, Laval, and surrounding areas.
+        Explore my current listings in Montr&eacute;al, Laval, the Laurentians, and surrounding areas.
       {{ end }}
     </p>
   </div>
@@ -32,8 +39,12 @@
     <p class="text-center" style="padding:60px 0;color:#6b7280">
       {{ if $isFr }}
         Inscriptions à venir. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">Contactez-moi</a> pour les propriétés disponibles.
+      {{ else if $isAr }}
+        عقارات قادمة قريباً. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">تواصل معي</a> للاطلاع على المتوفر.
+      {{ else if $isEs }}
+        Propiedades próximamente. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">Contácteme</a> para propiedades disponibles.
       {{ else }}
-        Listings coming soon. <a href="/#contact" style="color:#a8893d;font-weight:600">Contact me</a> for available properties.
+        Listings coming soon. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">Contact me</a> for available properties.
       {{ end }}
     </p>
     {{ end }}
