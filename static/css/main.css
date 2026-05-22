@@ -1814,6 +1814,17 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
   transform: translateX(-50%) rotate(45deg);
 }
 
+/* Invisible bridge that covers the gap between the nav button and the dropdown,
+   preventing mouseleave from firing while the cursor crosses that space. */
+.nav__item--dropdown.is-open::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 14px; /* slightly larger than the 10px gap */
+}
+
 /* Show state */
 .nav__item--dropdown.is-open .nav__dropdown {
   opacity: 1;
