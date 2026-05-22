@@ -49,7 +49,7 @@
       <span class="eyebrow">{{ if $isFr }}Processus d'achat{{ else if $isEs }}Proceso de compra{{ else if $isAr }}عملية الشراء{{ else }}Buying Process{{ end }}</span>
       <h2>{{ if $isFr }}8 étapes vers votre nouvelle propriété{{ else if $isEs }}8 pasos hacia su nueva propiedad{{ else if $isAr }}8 خطوات نحو عقارك الجديد{{ else }}8 Steps to Your New Home{{ end }}</h2>
       <p class="subtitle">
-        {{ if $isFr }}Un processus clair et transparent pour vous éviter les surprises et vous donner confiance à chaque étape.{{ else if $isEs }}Un proceso claro y transparente para evitar sorpresas y darle confianza en cada paso.{{ else if $isAr }}عملية واضحة وشفافة لتجنب المفاجآت ومنحك الثقة في كل خطوة.{{ else }}A clear, transparent process so there are no surprises and you feel confident at every stage.{{ end }}
+        {{ if $isFr }}Je vous guide personnellement à chaque étape — un processus clair et transparent pour vous éviter les surprises et vous donner confiance du début à la fin.{{ else if $isEs }}Lo guío personalmente en cada paso — un proceso claro y transparente para evitar sorpresas y darle confianza de principio a fin.{{ else if $isAr }}أرشدك شخصياً في كل خطوة — عملية واضحة وشفافة لتجنب المفاجآت ومنحك الثقة من البداية إلى النهاية.{{ else }}I personally guide you through every step — a clear, transparent process so there are no surprises and you feel confident from start to finish.{{ end }}
       </p>
     </div>
     <div class="steps-grid reveal">
@@ -65,7 +65,7 @@
         <span class="step-card__num">2</span>
         <div class="step-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg></div>
         <div class="step-card__title">{{ if $isFr }}Obtenir une pré-approbation{{ else if $isEs }}Obtener la pre-aprobación{{ else if $isAr }}الحصول على الموافقة المسبقة{{ else }}Get Pre-Approved{{ end }}</div>
-        <p class="step-card__text">{{ if $isFr }}Une pré-approbation hypothécaire renforce votre offre et démontre votre sérieux aux vendeurs.{{ else if $isAr }}الموافقة المسبقة على الرهن العقاري تعزز عرضك وتُظهر جديتك للبائعين.{{ else }}A mortgage pre-approval strengthens your offer and shows sellers you are a serious buyer.{{ end }}</p>
+        <p class="step-card__text">{{ if $isFr }}Une pré-approbation hypothécaire renforce votre offre et démontre votre sérieux aux vendeurs. Grâce à mon réseau de partenaires financiers professionnels orientés résultats rapides, je vous recommande les bonnes personnes pour votre situation.{{ else if $isAr }}الموافقة المسبقة على الرهن العقاري تعزز عرضك وتُظهر جديتك للبائعين. بفضل شبكتي من الشركاء الماليين المحترفين والمركّزين على النتائج السريعة، أرشّح لك الشخص المناسب لوضعك.{{ else }}A mortgage pre-approval strengthens your offer and shows sellers you are serious. Through my network of professional financial partners focused on fast results, I connect you with the right people for your situation.{{ end }}</p>
       </div>
 
       <div class="step-card">
@@ -179,6 +179,7 @@
   </div>
 </section>
 
+{{/* HIDDEN – buyer page listings section (restore: unhide mes inscriptions)
 <!-- ── FEATURED LISTINGS ── -->
 <section class="section" id="listings">
   <div class="container">
@@ -198,6 +199,33 @@
     {{ end }}
     <div class="text-center mt-48 reveal">
       <a href="{{ $base }}/listings/" class="btn btn-outline-dark">{{ if $isFr }}Voir toutes les propriétés{{ else if $isAr }}عرض جميع العقارات{{ else }}View All Properties{{ end }}</a>
+    </div>
+  </div>
+</section>
+*/}}
+
+<!-- Trouver votre propriété → contact -->
+<section class="section" id="find-property" style="padding:64px 0">
+  <div class="container">
+    <div class="section-header reveal" style="margin-bottom:32px">
+      <span class="eyebrow">{{ if $isFr }}Votre projet d'achat{{ else if $isAr }}مشروع الشراء{{ else if $isEs }}Su proyecto de compra{{ else }}Your Buying Project{{ end }}</span>
+      <h2>{{ if $isFr }}Trouver votre propriété{{ else if $isAr }}ابحث عن عقارك{{ else if $isEs }}Encuentre su propiedad{{ else }}Find Your Property{{ end }}</h2>
+      <p class="subtitle">
+        {{ if $isFr }}
+          Parlez-moi de vos critères — quartier, budget, type de propriété. Je trouve les options qui vous correspondent.
+        {{ else if $isAr }}
+          أخبرني بمعاييرك — الحي، الميزانية، نوع العقار. وسأجد لك الخيارات الأنسب.
+        {{ else if $isEs }}
+          Cuénteme sus criterios — barrio, presupuesto, tipo de propiedad. Encuentro las opciones ideales para usted.
+        {{ else }}
+          Tell me your criteria — neighbourhood, budget, property type. I'll find the right options for you.
+        {{ end }}
+      </p>
+    </div>
+    <div class="text-center reveal">
+      <a href="{{ $base }}/#contact" class="btn btn-primary" style="font-size:1.05rem;padding:16px 36px">
+        {{ if $isFr }}Me contacter pour mon projet{{ else if $isAr }}تواصل معي لمشروعي{{ else if $isEs }}Contácteme para mi proyecto{{ else }}Contact Me for My Project{{ end }}
+      </a>
     </div>
   </div>
 </section>

@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
       parent     = "buyer"
       identifier = "buyer-props"
       name       = "Find a Property"
-      url        = "/en/listings/"
+      url        = "/en/#contact"
       weight     = 2
 
     [[languages.en.menus.main]]
@@ -167,7 +167,7 @@ defaultContentLanguageInSubdir = false
       parent     = "buyer"
       identifier = "buyer-props"
       name       = "Trouver une propriété"
-      url        = "/listings/"
+      url        = "/#contact"
       weight     = 2
 
     [[languages.fr.menus.main]]
@@ -294,7 +294,7 @@ defaultContentLanguageInSubdir = false
       parent     = "buyer"
       identifier = "buyer-props"
       name       = "Buscar propiedades"
-      url        = "/es/listings/"
+      url        = "/es/#contact"
       weight     = 2
 
     [[languages.es.menus.main]]
@@ -399,7 +399,7 @@ defaultContentLanguageInSubdir = false
       parent     = "buyer"
       identifier = "buyer-props"
       name       = "ابحث عن عقار"
-      url        = "/ar/listings/"
+      url        = "/ar/#contact"
       weight     = 2
 
     [[languages.ar.menus.main]]

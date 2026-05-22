@@ -26,7 +26,7 @@
         <h4 class="footer__heading">{{ if $isAr }}التنقل{{ else if $isEs }}Navegación{{ else }}Navigation{{ end }}</h4>
         <ul class="footer__links">
           <li><a href="{{ $base }}/" class="footer__link">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a></li>
-          <li><a href="{{ $base }}/listings/" class="footer__link">{{ if $isFr }}Propriétés{{ else if $isAr }}العقارات{{ else if $isEs }}Propiedades{{ else }}Properties{{ end }}</a></li>
+          {{/* HIDDEN – listings footer link (restore: unhide mes inscriptions) <li><a href="{{ $base }}/listings/" class="footer__link">{{ if $isFr }}Propriétés{{ else if $isAr }}العقارات{{ else if $isEs }}Propiedades{{ else }}Properties{{ end }}</a></li> */}}
           <li><a href="{{ $base }}/articles/" class="footer__link">{{ if $isAr }}المقالات{{ else }}Articles{{ end }}</a></li>
           <li><a href="{{ $base }}/about/" class="footer__link">{{ if $isFr }}À propos{{ else if $isAr }}من أنا{{ else if $isEs }}Sobre mí{{ else }}About{{ end }}</a></li>
           <li><a href="{{ $base }}/#contact" class="footer__link">{{ if $isAr }}تواصل{{ else if $isEs }}Contacto{{ else }}Contact{{ end }}</a></li>
