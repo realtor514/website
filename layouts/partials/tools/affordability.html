@@ -7,6 +7,82 @@
     {{ if $isFr }}Découvrez le prix maximum que vous pouvez vous permettre selon vos revenus, vos dettes et la mise de fonds disponible - en appliquant le test de résistance hypothécaire canadien (GDS/TDS).{{ else if $isAr }}اكتشف الحد الأقصى للسعر الذي يمكنك تحمله بناءً على دخلك وديونك والدفعة الأولى المتاحة، مع تطبيق اختبار الإجهاد للرهن العقاري الكندي.{{ else if $isEs }}Descubra el precio máximo que puede pagar según sus ingresos, deudas y pago inicial disponible, aplicando la prueba de estrés hipotecario canadiense (GDS/TDS).{{ else }}Discover the maximum home price you can afford based on your income, debts, and down payment - applying the Canadian mortgage stress test (GDS/TDS).{{ end }}
   </p>
 
+  <div class="af-method-box">
+    {{ if $isFr }}
+    <div class="af-method-box__title">Comment fonctionne le calcul ?</div>
+    <div class="af-method-box__grid">
+      <div class="af-method-item">
+        <span class="af-method-item__badge">ABD</span>
+        <span class="af-method-item__label">Amortissement Brut de la Dette</span>
+        <span class="af-method-item__desc">Coûts de logement (hypothèque + taxes + chauffage) ÷ revenu brut. Limite : <strong>39 %</strong></span>
+      </div>
+      <div class="af-method-item">
+        <span class="af-method-item__badge">ATD</span>
+        <span class="af-method-item__label">Amortissement Total de la Dette</span>
+        <span class="af-method-item__desc">ABD + toutes vos autres dettes mensuelles ÷ revenu brut. Limite : <strong>44 %</strong></span>
+      </div>
+      <div class="af-method-item af-method-item--full">
+        <span class="af-method-item__badge af-method-item__badge--gray">Test de résistance</span>
+        <span class="af-method-item__desc">Le calcul utilise le plus élevé entre : taux contractuel + 2 % ou 5,25 %. Cela simule une hausse de taux pour s'assurer que vous pouvez toujours payer.</span>
+      </div>
+    </div>
+    {{ else if $isAr }}
+    <div class="af-method-box__title">كيف يعمل الحساب؟</div>
+    <div class="af-method-box__grid">
+      <div class="af-method-item">
+        <span class="af-method-item__badge">GDS</span>
+        <span class="af-method-item__label">نسبة تكاليف السكن الإجمالية</span>
+        <span class="af-method-item__desc">تكاليف السكن (قسط الرهن + الضرائب + التدفئة) ÷ الدخل الإجمالي. الحد الأقصى: <strong>39%</strong></span>
+      </div>
+      <div class="af-method-item">
+        <span class="af-method-item__badge">TDS</span>
+        <span class="af-method-item__label">نسبة إجمالي الديون</span>
+        <span class="af-method-item__desc">GDS + جميع ديونك الشهرية الأخرى ÷ الدخل الإجمالي. الحد الأقصى: <strong>44%</strong></span>
+      </div>
+      <div class="af-method-item af-method-item--full">
+        <span class="af-method-item__badge af-method-item__badge--gray">اختبار الإجهاد</span>
+        <span class="af-method-item__desc">يستخدم الحساب الأعلى من: المعدل التعاقدي + 2% أو 5.25%. يحاكي ارتفاع المعدلات للتأكد من قدرتك على الدفع.</span>
+      </div>
+    </div>
+    {{ else if $isEs }}
+    <div class="af-method-box__title">¿Cómo funciona el cálculo?</div>
+    <div class="af-method-box__grid">
+      <div class="af-method-item">
+        <span class="af-method-item__badge">GDS</span>
+        <span class="af-method-item__label">Servicio de deuda bruta</span>
+        <span class="af-method-item__desc">Costos de vivienda (hipoteca + impuestos + calefacción) ÷ ingreso bruto. Límite: <strong>39%</strong></span>
+      </div>
+      <div class="af-method-item">
+        <span class="af-method-item__badge">TDS</span>
+        <span class="af-method-item__label">Servicio de deuda total</span>
+        <span class="af-method-item__desc">GDS + todas sus otras deudas mensuales ÷ ingreso bruto. Límite: <strong>44%</strong></span>
+      </div>
+      <div class="af-method-item af-method-item--full">
+        <span class="af-method-item__badge af-method-item__badge--gray">Prueba de estrés</span>
+        <span class="af-method-item__desc">El cálculo usa el mayor entre: tasa contractual + 2% o 5.25%. Simula un aumento de tasa para garantizar que pueda seguir pagando.</span>
+      </div>
+    </div>
+    {{ else }}
+    <div class="af-method-box__title">How does the calculation work?</div>
+    <div class="af-method-box__grid">
+      <div class="af-method-item">
+        <span class="af-method-item__badge">GDS</span>
+        <span class="af-method-item__label">Gross Debt Service ratio</span>
+        <span class="af-method-item__desc">Housing costs (mortgage + taxes + heating) ÷ gross income. Limit: <strong>39%</strong></span>
+      </div>
+      <div class="af-method-item">
+        <span class="af-method-item__badge">TDS</span>
+        <span class="af-method-item__label">Total Debt Service ratio</span>
+        <span class="af-method-item__desc">GDS + all your other monthly debts ÷ gross income. Limit: <strong>44%</strong></span>
+      </div>
+      <div class="af-method-item af-method-item--full">
+        <span class="af-method-item__badge af-method-item__badge--gray">Stress test</span>
+        <span class="af-method-item__desc">The calculation uses whichever is higher: contract rate + 2% or 5.25%. This simulates a rate increase to ensure you can still afford payments.</span>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+
   <div class="mc-row mc-row--2">
     <div class="mc-field">
       <label class="mc-label" for="af-income">
