@@ -1357,6 +1357,16 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
   margin-bottom: 24px;
   line-height: 1.55;
 }
+.mc-preset-note {
+  background: rgba(176,0,0,.06);
+  border-left: 3px solid var(--red);
+  border-radius: 6px;
+  color: #5a3030;
+  font-size: .82rem;
+  padding: 8px 12px;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
 .mc-tool-section-title {
   font-family: 'Inter', sans-serif;
   font-size: .76rem;
