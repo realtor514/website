@@ -1,0 +1,132 @@
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+
+<section class="section section--light" id="protections">
+  <div class="container">
+
+    <div class="section-header reveal">
+      <span class="eyebrow">
+        {{ if $isFr }}Protections exclusives RE/MAX{{ else if $isAr }}حمايات حصرية RE/MAX{{ else if $isEs }}Protecciones exclusivas RE/MAX{{ else }}Exclusive RE/MAX Protections{{ end }}
+      </span>
+      <h2>
+        {{ if $isFr }}Votre tranquillite d'esprit, protegee{{ else if $isAr }}راحة بالك، محمية{{ else if $isEs }}Su tranquilidad, protegida{{ else }}Your Peace of Mind, Protected{{ end }}
+      </h2>
+      <p class="subtitle">
+        {{ if $isFr }}
+          En tant que courtier RE/MAX DU CARTIER, je vous offre deux programmes de protection exclusifs inclus dans votre transaction.
+        {{ else if $isAr }}
+          بوصفي وسيطاً في RE/MAX DU CARTIER، أقدم لك برنامجين حصريين للحماية مشمولَين في معاملتك.
+        {{ else if $isEs }}
+          Como corredor de RE/MAX DU CARTIER, le ofrezco dos programas de proteccion exclusivos incluidos en su transaccion.
+        {{ else }}
+          As a RE/MAX DU CARTIER broker, I offer you two exclusive protection programs included in your transaction.
+        {{ end }}
+      </p>
+    </div>
+
+    <div class="prot-grid reveal">
+
+      <!-- Integri-T -->
+      <div class="prot-card">
+        <div class="prot-card__header">
+          <div class="prot-card__icon prot-card__icon--red">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#B00000" stroke-width="1.8">
+              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+              <polyline points="9 12 11 14 15 10"/>
+            </svg>
+          </div>
+          <div>
+            <div class="prot-card__brand prot-card__brand--red">RE/MAX</div>
+            <div class="prot-card__name">Integri-T</div>
+          </div>
+        </div>
+
+        <h3 class="prot-card__title">
+          {{ if $isFr }}Protection contre les vices caches{{ else if $isAr }}حماية من العيوب الخفية{{ else if $isEs }}Proteccion contra vicios ocultos{{ else }}Hidden Defect Protection{{ end }}
+        </h3>
+
+        <ul class="prot-card__list">
+          {{ if $isFr }}
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Jusqu'a <strong>50 000 $</strong> de couverture</span></li>
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Valide <strong>3 ans</strong> apres l'acte de vente</span></li>
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Toiture, fondation, electricite, plomberie, moisissures</span></li>
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Evite les recours judiciaires couteux</span></li>
+          {{ else if $isAr }}
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>تغطية تصل الى <strong>50,000 دولار</strong></span></li>
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>صالحة <strong>3 سنوات</strong> بعد توقيع العقد</span></li>
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>السقف، الاساسات، الكهرباء، السباكة، العفن</span></li>
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>تجنب الاجراءات القضائية المكلفة</span></li>
+          {{ else if $isEs }}
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Hasta <strong>$50,000</strong> de cobertura</span></li>
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Valido <strong>3 anos</strong> despues del acta de venta</span></li>
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Techo, cimientos, electricidad, plomeria, moho</span></li>
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Evita costosos procedimientos judiciales</span></li>
+          {{ else }}
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Up to <strong>$50,000</strong> in coverage</span></li>
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Valid for <strong>3 years</strong> after the deed of sale</span></li>
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Roof, foundation, electrical, plumbing, mold</span></li>
+          <li><span class="prot-check prot-check--red"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Avoid costly legal proceedings</span></li>
+          {{ end }}
+        </ul>
+
+        <a href="https://www.remax-quebec.com/fr/integri-t" target="_blank" rel="noopener" class="prot-card__link prot-card__link--red">
+          {{ if $isFr }}En savoir plus{{ else if $isAr }}اعرف اكثر{{ else if $isEs }}Saber mas{{ else }}Learn more{{ end }}
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+      </div>
+
+      <!-- Tranquilli-T -->
+      <div class="prot-card">
+        <div class="prot-card__header">
+          <div class="prot-card__icon prot-card__icon--blue">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#0043B4" stroke-width="1.8">
+              <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+              <circle cx="9" cy="7" r="4"/>
+              <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
+              <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+            </svg>
+          </div>
+          <div>
+            <div class="prot-card__brand prot-card__brand--blue">RE/MAX</div>
+            <div class="prot-card__name">Tranquilli-T</div>
+          </div>
+        </div>
+
+        <h3 class="prot-card__title">
+          {{ if $isFr }}Assistance juridique incluse{{ else if $isAr }}المساعدة القانونية مشمولة{{ else if $isEs }}Asistencia juridica incluida{{ else }}Legal Assistance Included{{ end }}
+        </h3>
+
+        <ul class="prot-card__list">
+          {{ if $isFr }}
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span><strong>Offert gratuitement</strong> a nos clients</span></li>
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Consultations illimitees avec des avocats en droit immobilier</span></li>
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Protection en cas de delais, retrait ou deces</span></li>
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Aide pour les recours en petites creances</span></li>
+          {{ else if $isAr }}
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span><strong>مقدمة مجانا</strong> لعملائنا</span></li>
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>استشارات غير محدودة مع محامين في القانون العقاري</span></li>
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>حماية عند التاخير او الانسحاب او الوفاة</span></li>
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>مساعدة في قضايا المطالبات الصغيرة</span></li>
+          {{ else if $isEs }}
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span><strong>Ofrecida gratuitamente</strong> a nuestros clientes</span></li>
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Consultas ilimitadas con abogados en derecho inmobiliario</span></li>
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Proteccion ante retrasos, retiro o fallecimiento</span></li>
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Asistencia para pequenas causas</span></li>
+          {{ else }}
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span><strong>Offered free of charge</strong> to our clients</span></li>
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Unlimited consultations with real estate lawyers</span></li>
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Protection against delays, withdrawal, or death</span></li>
+          <li><span class="prot-check prot-check--blue"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg></span><span>Support for small claims court matters</span></li>
+          {{ end }}
+        </ul>
+
+        <a href="https://www.remax-quebec.com/fr/tranquilli-t" target="_blank" rel="noopener" class="prot-card__link prot-card__link--blue">
+          {{ if $isFr }}En savoir plus{{ else if $isAr }}اعرف اكثر{{ else if $isEs }}Saber mas{{ else }}Learn more{{ end }}
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+      </div>
+
+    </div>
+  </div>
+</section>

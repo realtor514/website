@@ -2337,3 +2337,97 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
   .calc-card__icon { width: 44px; height: 44px; }
 }
 .scroll-progress { pointer-events: none; }
+
+/* ── Protections RE/MAX section ── */
+.prot-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+  margin-top: 48px;
+}
+.prot-card {
+  background: #fff;
+  border-radius: 20px;
+  padding: 40px;
+  box-shadow: 0 4px 24px rgba(0,0,0,.06);
+  border: 1px solid rgba(0,0,0,.06);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.prot-card__header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.prot-card__icon {
+  border-radius: 12px;
+  padding: 14px;
+  flex-shrink: 0;
+}
+.prot-card__icon--red {
+  background: rgba(176,0,0,.08);
+  border: 1px solid rgba(176,0,0,.15);
+}
+.prot-card__icon--blue {
+  background: rgba(0,67,180,.08);
+  border: 1px solid rgba(0,67,180,.15);
+}
+.prot-card__brand {
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  margin-bottom: 3px;
+}
+.prot-card__brand--red  { color: #B00000; }
+.prot-card__brand--blue { color: #0043B4; }
+.prot-card__name {
+  font-size: 1.45rem;
+  font-weight: 800;
+  color: #1a1a1a;
+  letter-spacing: -.02em;
+}
+.prot-card__title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0;
+}
+.prot-card__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.prot-card__list li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  color: #374151;
+  font-size: .93rem;
+}
+.prot-check {
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+.prot-check--red  { color: #B00000; }
+.prot-check--blue { color: #0043B4; }
+.prot-card__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: .88rem;
+  font-weight: 600;
+  text-decoration: none;
+  margin-top: auto;
+}
+.prot-card__link--red  { color: #B00000; }
+.prot-card__link--blue { color: #0043B4; }
+.prot-card__link:hover { text-decoration: underline; }
+@media (max-width: 700px) {
+  .prot-grid { grid-template-columns: 1fr; }
+  .prot-card { padding: 28px 22px; }
+}
