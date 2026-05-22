@@ -142,7 +142,7 @@ defaultContentLanguageInSubdir = false
     [languages.fr.params]
       role        = "Courtier Immobilier Résidentiel"
       tagline     = "Courtier Immobilier R&eacute;sidentiel &middot; Montr&eacute;al, Laval &amp; Laurentides"
-      heroQuote   = "Votre guide de confiance sur les march&eacute;s immobiliers de Montr&eacute;al, Laval et les Laurentides."
+      heroQuote   = "Analyse rigoureuse. N&eacute;gociation experte. R&eacute;sultats concrets."
       ctaListings = "Voir les propriétés"
       ctaContact  = "Me contacter"
       description = "Courtier immobilier résidentiel à Montréal, Laval et dans les Laurentides. Propriétés résidentielles et investissement immobilier."
