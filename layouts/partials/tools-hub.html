@@ -1,4 +1,4 @@
-{{ $isFr := eq .Lang "fr" }}
+﻿{{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
 {{ $isEs := eq .Lang "es" }}
 {{ $base  := "" }}
@@ -16,13 +16,13 @@
       </h2>
       <p class="subtitle">
         {{ if $isFr }}
-          Hypothèque, droits de mutation, frais de clôture, capacité d'emprunt et loc. vs achat — tout au même endroit.
+          Hypothèque, droits de mutation, frais de clôture, capacité d'emprunt et loc. vs achat - tout au même endroit.
         {{ else if $isAr }}
-          الرهن العقاري، رسوم النقل، تكاليف الإغلاق، القدرة الشرائية، واستئجار مقابل شراء — كل ذلك في مكان واحد.
+          الرهن العقاري، رسوم النقل، تكاليف الإغلاق، القدرة الشرائية، واستئجار مقابل شراء - كل ذلك في مكان واحد.
         {{ else if $isEs }}
           Pagos hipotecarios, impuesto de bienvenida, costos de cierre, capacidad de compra y alquilar vs. comprar - todo en un solo lugar.
         {{ else }}
-          Mortgage payments, welcome tax, closing costs, affordability, and rent vs. buy — all in one place.
+          Mortgage payments, welcome tax, closing costs, affordability, and rent vs. buy - all in one place.
         {{ end }}
       </p>
     </div>

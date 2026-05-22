@@ -1,4 +1,4 @@
-{{ $isFr := eq .Lang "fr" }}
+﻿{{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
 {{ $isEs := eq .Lang "es" }}
 
@@ -144,17 +144,17 @@
             <span id="mc-cmhc-rate-label">
               {{ if $isFr }}Taux de prime :{{ else if $isAr }}معدل القسط:{{ else if $isEs }}Tasa de prima:{{ else }}Premium rate:{{ end }}
             </span>
-            <strong id="mc-cmhc-pct-display">—</strong>
+            <strong id="mc-cmhc-pct-display">-</strong>
             &nbsp;&nbsp;
             <span id="mc-cmhc-amt-label">
               {{ if $isFr }}Prime :{{ else if $isAr }}القسط:{{ else if $isEs }}Prima:{{ else }}Premium:{{ end }}
             </span>
-            <strong id="mc-cmhc-amt">—</strong>
+            <strong id="mc-cmhc-amt">-</strong>
             &nbsp;&nbsp;
             <span id="mc-cmhc-insured-label">
               {{ if $isFr }}Prêt assuré :{{ else if $isAr }}القرض المؤمَّن:{{ else if $isEs }}Hipoteca asegurada:{{ else }}Insured mortgage:{{ end }}
             </span>
-            <strong id="mc-cmhc-insured">—</strong>
+            <strong id="mc-cmhc-insured">-</strong>
           </div>
         </div>
       </div>
@@ -249,17 +249,17 @@
             <span class="mc-headline-block__label" id="mc-hl-loan-label">
               {{ if $isFr }}Votre prêt hypothécaire sera de :{{ else if $isAr }}مبلغ قرضك العقاري سيكون:{{ else if $isEs }}El monto de su préstamo hipotecario será:{{ else }}Your mortgage loan amount will be:{{ end }}
             </span>
-            <span class="mc-headline-block__value" id="mc-hl-loan">—</span>
+            <span class="mc-headline-block__value" id="mc-hl-loan">-</span>
             <span class="mc-headline-block__sub" id="mc-hl-insurance-sub" style="display:none">
               {{ if $isFr }}Avec prime d'assurance (CMHC / Sagen&#8482; / Canada Guaranty&#8482;) :{{ else if $isAr }}مع قسط التأمين (CMHC / Sagen&#8482; / Canada Guaranty&#8482;):{{ else if $isEs }}Con prima de seguro (CMHC / Sagen&#8482; / Canada Guaranty&#8482;):{{ else }}With insurance premium (CMHC / Sagen&#8482; / Canada Guaranty&#8482;):{{ end }}
-              <strong id="mc-hl-insurance-amt">—</strong>
+              <strong id="mc-hl-insurance-amt">-</strong>
             </span>
           </div>
           <div class="mc-headline-block mc-headline-block--payment">
             <span class="mc-headline-block__label">
               {{ if $isFr }}Votre paiement sera de :{{ else if $isAr }}دفعتك ستكون:{{ else if $isEs }}Sus pagos serán:{{ else }}Your payments will be:{{ end }}
             </span>
-            <span class="mc-headline-block__value mc-headline-block__value--payment" id="mc-hl-payment">—</span>
+            <span class="mc-headline-block__value mc-headline-block__value--payment" id="mc-hl-payment">-</span>
             <span class="mc-headline-block__freq" id="mc-hl-freq-label">
               {{ if $isFr }}par mois{{ else if $isAr }}في الشهر{{ else if $isEs }}por mes{{ else }}per month{{ end }}
             </span>
@@ -290,30 +290,30 @@
                 <td class="mc-td mc-td--label">
                   {{ if $isFr }}Nombre de paiements{{ else if $isAr }}عدد الدفعات{{ else if $isEs }}Número de pagos{{ else }}Number of Payments{{ end }}
                 </td>
-                <td class="mc-td mc-td--val" id="mc-r-term-n">—</td>
-                <td class="mc-td mc-td--val mc-td--amort" id="mc-r-amort-n">—</td>
+                <td class="mc-td mc-td--val" id="mc-r-term-n">-</td>
+                <td class="mc-td mc-td--val mc-td--amort" id="mc-r-amort-n">-</td>
               </tr>
               <tr class="mc-tr mc-tr--highlight">
                 <td class="mc-td mc-td--label" id="mc-r-payment-label">
                   {{ if $isFr }}Paiement hypothécaire{{ else if $isAr }}الدفعة العقارية{{ else if $isEs }}Pago hipotecario{{ else }}Mortgage Payment{{ end }}
                 </td>
-                <td class="mc-td mc-td--val mc-td--strong" id="mc-r-term-pay">—</td>
-                <td class="mc-td mc-td--val mc-td--strong mc-td--amort" id="mc-r-amort-pay">—</td>
+                <td class="mc-td mc-td--val mc-td--strong" id="mc-r-term-pay">-</td>
+                <td class="mc-td mc-td--val mc-td--strong mc-td--amort" id="mc-r-amort-pay">-</td>
               </tr>
-              <!-- CMHC insurance row — hidden when not applicable -->
+              <!-- CMHC insurance row - hidden when not applicable -->
               <tr class="mc-tr mc-tr--insurance" id="mc-r-insurance-row" style="display:none">
                 <td class="mc-td mc-td--label mc-td--insurance-label">
                   {{ if $isFr }}Prime d'assurance (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ else if $isAr }}قسط التأمين (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ else if $isEs }}Prima de seguro (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ else }}Insurance Premium (CMHC / Sagen&#8482; / Canada Guaranty&#8482;){{ end }}
                 </td>
-                <td class="mc-td mc-td--val mc-td--insurance" id="mc-r-insurance-term">—</td>
-                <td class="mc-td mc-td--val mc-td--insurance mc-td--amort" id="mc-r-insurance-amort">—</td>
+                <td class="mc-td mc-td--val mc-td--insurance" id="mc-r-insurance-term">-</td>
+                <td class="mc-td mc-td--val mc-td--insurance mc-td--amort" id="mc-r-insurance-amort">-</td>
               </tr>
               <tr class="mc-tr mc-tr--total">
                 <td class="mc-td mc-td--label mc-td--total-label">
                   {{ if $isFr }}Total des intérêts payés{{ else if $isAr }}إجمالي الفوائد المدفوعة{{ else if $isEs }}Total de intereses pagados{{ else }}Total Interest Paid{{ end }}
                 </td>
-                <td class="mc-td mc-td--val mc-td--total" id="mc-r-term-interest">—</td>
-                <td class="mc-td mc-td--val mc-td--total mc-td--amort" id="mc-r-amort-interest">—</td>
+                <td class="mc-td mc-td--val mc-td--total" id="mc-r-term-interest">-</td>
+                <td class="mc-td mc-td--val mc-td--total mc-td--amort" id="mc-r-amort-interest">-</td>
               </tr>
             </tbody>
           </table>
@@ -379,7 +379,7 @@
   function calcCMHC(propertyPrice, loanAmt, downPct) {
     /* CMHC not available for properties >= $1,500,000 or down payment >= 20% */
     if (propertyPrice >= 1500000 || downPct >= 20 || downPct < 5) return 0;
-    /* Round to nearest dollar — matches CMHC/BNC standard practice */
+    /* Round to nearest dollar - matches CMHC/BNC standard practice */
     return Math.round(loanAmt * cmhcRate(downPct));
   }
 
@@ -461,7 +461,7 @@
       return;
     }
 
-    /* CMHC premium — added to loan for all calculations */
+    /* CMHC premium - added to loan for all calculations */
     var premium    = calcCMHC(p_price, baseLoan, dpct);
     var P          = baseLoan + premium; /* insured mortgage amount */
 

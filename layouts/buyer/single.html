@@ -1,4 +1,4 @@
-{{ define "main" }}
+﻿{{ define "main" }}
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
 {{ $isEs := eq .Lang "es" }}
@@ -49,7 +49,7 @@
       <span class="eyebrow">{{ if $isFr }}Processus d'achat{{ else if $isEs }}Proceso de compra{{ else if $isAr }}عملية الشراء{{ else }}Buying Process{{ end }}</span>
       <h2>{{ if $isFr }}8 étapes vers votre nouvelle propriété{{ else if $isEs }}8 pasos hacia su nueva propiedad{{ else if $isAr }}8 خطوات نحو عقارك الجديد{{ else }}8 Steps to Your New Home{{ end }}</h2>
       <p class="subtitle">
-        {{ if $isFr }}Je vous guide personnellement à chaque étape — un processus clair et transparent pour vous éviter les surprises et vous donner confiance du début à la fin.{{ else if $isEs }}Lo guío personalmente en cada paso — un proceso claro y transparente para evitar sorpresas y darle confianza de principio a fin.{{ else if $isAr }}أرشدك شخصياً في كل خطوة — عملية واضحة وشفافة لتجنب المفاجآت ومنحك الثقة من البداية إلى النهاية.{{ else }}I personally guide you through every step — a clear, transparent process so there are no surprises and you feel confident from start to finish.{{ end }}
+        {{ if $isFr }}Je vous guide personnellement à chaque étape, avec un processus clair et transparent pour vous éviter les surprises et vous donner confiance du début à la fin.{{ else if $isEs }}Lo guío personalmente en cada paso, con un proceso claro y transparente para evitar sorpresas y darle confianza de principio a fin.{{ else if $isAr }}أرشدك شخصياً في كل خطوة، بعملية واضحة وشفافة لتجنب المفاجآت ومنحك الثقة من البداية إلى النهاية.{{ else }}I personally guide you through every step, with a clear and transparent process so there are no surprises and you feel confident from start to finish.{{ end }}
       </p>
     </div>
     <div class="steps-grid reveal">
@@ -179,7 +179,7 @@
   </div>
 </section>
 
-{{/* HIDDEN – buyer page listings section (restore: unhide mes inscriptions)
+{{/* HIDDEN - buyer page listings section (restore: unhide mes inscriptions)
 <!-- ── FEATURED LISTINGS ── -->
 <section class="section" id="listings">
   <div class="container">
@@ -212,13 +212,13 @@
       <h2>{{ if $isFr }}Trouver votre propriété{{ else if $isAr }}ابحث عن عقارك{{ else if $isEs }}Encuentre su propiedad{{ else }}Find Your Property{{ end }}</h2>
       <p class="subtitle">
         {{ if $isFr }}
-          Parlez-moi de vos critères — quartier, budget, type de propriété. Je trouve les options qui vous correspondent.
+          Parlez-moi de vos critères: quartier, budget, type de propriété. Je trouve les options qui vous correspondent.
         {{ else if $isAr }}
-          أخبرني بمعاييرك — الحي، الميزانية، نوع العقار. وسأجد لك الخيارات الأنسب.
+          أخبرني بمعاييرك: الحي، الميزانية، نوع العقار. وسأجد لك الخيارات الأنسب.
         {{ else if $isEs }}
-          Cuénteme sus criterios — barrio, presupuesto, tipo de propiedad. Encuentro las opciones ideales para usted.
+          Cuénteme sus criterios: barrio, presupuesto, tipo de propiedad. Encuentro las opciones ideales para usted.
         {{ else }}
-          Tell me your criteria — neighbourhood, budget, property type. I'll find the right options for you.
+          Tell me your criteria: neighbourhood, budget, property type. I'll find the right options for you.
         {{ end }}
       </p>
     </div>

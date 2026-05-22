@@ -1,10 +1,10 @@
-{{ $isFr := eq .Lang "fr" }}
+﻿{{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
 {{ $isEs := eq .Lang "es" }}
 
 <div class="mc-card">
   <p class="mc-tool-desc">
-    {{ if $isFr }}Estimez les droits de mutation immobilière (taxe de bienvenue) à payer lors de l'achat d'une propriété au Québec — taux 2025 officiels selon la municipalité.{{ else if $isAr }}احسب رسوم نقل ملكية العقار (ضريبة الترحيب) عند شراء عقار في كيبيك — المعدلات الرسمية 2025 حسب البلدية.{{ else if $isEs }}Estime el impuesto de bienvenida (droits de mutation) a pagar al comprar una propiedad en Quebec - tarifas oficiales 2025 por municipio.{{ else }}Estimate the welcome tax (droits de mutation) payable when purchasing property in Quebec — official 2025 rates by municipality.{{ end }}
+    {{ if $isFr }}Estimez les droits de mutation immobilière (taxe de bienvenue) à payer lors de l'achat d'une propriété au Québec - taux 2025 officiels selon la municipalité.{{ else if $isAr }}احسب رسوم نقل ملكية العقار (ضريبة الترحيب) عند شراء عقار في كيبيك - المعدلات الرسمية 2025 حسب البلدية.{{ else if $isEs }}Estime el impuesto de bienvenida (droits de mutation) a pagar al comprar una propiedad en Quebec - tarifas oficiales 2025 por municipio.{{ else }}Estimate the welcome tax (droits de mutation) payable when purchasing property in Quebec - official 2025 rates by municipality.{{ end }}
   </p>
 
   <div class="mc-row mc-row--2">
@@ -123,8 +123,8 @@
         <span class="mc-headline-block__label">
           {{ if $isFr }}Droits de mutation estimés{{ else if $isAr }}رسوم النقل المقدرة{{ else }}Estimated Welcome Tax{{ end }}
         </span>
-        <span class="mc-headline-block__value mc-headline-block__value--payment" id="wt-total">—</span>
-        <span class="mc-headline-block__freq" id="wt-city-label">—</span>
+        <span class="mc-headline-block__value mc-headline-block__value--payment" id="wt-total">-</span>
+        <span class="mc-headline-block__freq" id="wt-city-label">-</span>
       </div>
     </div>
 
@@ -202,9 +202,9 @@
 
   var DISCLAIMERS = {
     other: {
-      en: '* 2025 rates for Quebec municipalities (excluding Montréal, Québec city, and Gatineau). Note: your municipality may have set a higher rate (up to 3%) on the portion exceeding $500,000 — verify with your municipality.',
-      fr: "* Taux 2025 pour les municipalités du Québec (sauf Montréal, Québec et Gatineau). Note : votre municipalité peut avoir fixé un taux supérieur (jusqu'à 3 %) sur la tranche excédant 500 000 $ — vérifiez auprès de la municipalité concernée.",
-      ar: '* معدلات 2025 لبلديات كيبيك (باستثناء مونتريال، مدينة كيبيك، وغاتينو). ملاحظة: قد تكون بلديتك قد حددت معدلاً أعلى (حتى 3%) على الجزء الذي يتجاوز 500,000$ — تحقق من بلديتك.'
+      en: '* 2025 rates for Quebec municipalities (excluding Montréal, Québec city, and Gatineau). Note: your municipality may have set a higher rate (up to 3%) on the portion exceeding $500,000 - verify with your municipality.',
+      fr: "* Taux 2025 pour les municipalités du Québec (sauf Montréal, Québec et Gatineau). Note : votre municipalité peut avoir fixé un taux supérieur (jusqu'à 3 %) sur la tranche excédant 500 000 $ - vérifiez auprès de la municipalité concernée.",
+      ar: '* معدلات 2025 لبلديات كيبيك (باستثناء مونتريال، مدينة كيبيك، وغاتينو). ملاحظة: قد تكون بلديتك قد حددت معدلاً أعلى (حتى 3%) على الجزء الذي يتجاوز 500,000$ - تحقق من بلديتك.'
     },
     montreal: {
       en: '* 2025 rates for the City of Montréal. Source: Loi concernant les droits sur les mutations immobilières.',
@@ -239,7 +239,7 @@
       } else {
         toLbl = '$' + upper.toLocaleString('en-CA');
       }
-      rows.push({ label: fromLbl + ' — ' + toLbl, rate: (b[i].rate * 100).toFixed(1) + ' %', tax: t });
+      rows.push({ label: fromLbl + ' - ' + toLbl, rate: (b[i].rate * 100).toFixed(1) + ' %', tax: t });
       prev = b[i].limit;
       if (price <= b[i].limit) break;
     }

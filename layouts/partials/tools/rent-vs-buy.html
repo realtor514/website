@@ -1,4 +1,4 @@
-{{ $isFr := eq .Lang "fr" }}
+﻿{{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
 {{ $isEs := eq .Lang "es" }}
 
@@ -170,15 +170,15 @@
         <span class="mc-headline-block__label">
           {{ if $isFr }}Valeur nette (achat){{ else if $isAr }}صافي الثروة (شراء){{ else if $isEs }}Patrimonio neto (compra){{ else }}Net Worth (Buy){{ end }}
         </span>
-        <span class="mc-headline-block__value" id="rvb-equity-final">—</span>
-        <span class="mc-headline-block__freq" id="rvb-buy-sub">—</span>
+        <span class="mc-headline-block__value" id="rvb-equity-final">-</span>
+        <span class="mc-headline-block__freq" id="rvb-buy-sub">-</span>
       </div>
       <div class="mc-headline-block mc-headline-block--payment" id="rvb-hl-rent">
         <span class="mc-headline-block__label">
           {{ if $isFr }}Richesse (location){{ else if $isAr }}الثروة (استئجار){{ else if $isEs }}Riqueza (alquiler){{ else }}Wealth (Rent){{ end }}
         </span>
-        <span class="mc-headline-block__value mc-headline-block__value--payment" id="rvb-renter-final">—</span>
-        <span class="mc-headline-block__freq" id="rvb-rent-sub">—</span>
+        <span class="mc-headline-block__value mc-headline-block__value--payment" id="rvb-renter-final">-</span>
+        <span class="mc-headline-block__freq" id="rvb-rent-sub">-</span>
       </div>
     </div>
 

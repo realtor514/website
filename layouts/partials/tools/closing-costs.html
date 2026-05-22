@@ -1,10 +1,10 @@
-{{ $isFr := eq .Lang "fr" }}
+﻿{{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
 {{ $isEs := eq .Lang "es" }}
 
 <div class="mc-card">
   <p class="mc-tool-desc">
-    {{ if $isFr }}Estimez l'ensemble des frais à prévoir lors de l'achat d'une propriété au Québec — droits de mutation, notaire, inspection et plus.{{ else if $isAr }}احسب جميع التكاليف المتوقعة عند شراء عقار في كيبيك — رسوم النقل، كاتب العدل، الفحص والمزيد.{{ else if $isEs }}Estime todos los costos al comprar una propiedad en Quebec - impuesto de bienvenida, notario, inspección y más.{{ else }}Estimate all costs to budget for when buying property in Quebec — welcome tax, notary, inspection and more.{{ end }}
+    {{ if $isFr }}Estimez l'ensemble des frais à prévoir lors de l'achat d'une propriété au Québec - droits de mutation, notaire, inspection et plus.{{ else if $isAr }}احسب جميع التكاليف المتوقعة عند شراء عقار في كيبيك - رسوم النقل، كاتب العدل، الفحص والمزيد.{{ else if $isEs }}Estime todos los costos al comprar una propiedad en Quebec - impuesto de bienvenida, notario, inspección y más.{{ else }}Estimate all costs to budget for when buying property in Quebec - welcome tax, notary, inspection and more.{{ end }}
   </p>
 
   <div class="mc-row mc-row--2">
@@ -103,7 +103,7 @@
         <span class="mc-headline-block__label">
           {{ if $isFr }}Fourchette estimée des frais de clôture{{ else if $isAr }}النطاق المقدر لتكاليف الإغلاق{{ else if $isEs }}Rango estimado de costos de cierre{{ else }}Estimated Closing Costs Range{{ end }}
         </span>
-        <span class="mc-headline-block__value mc-headline-block__value--payment" id="cc-headline">—</span>
+        <span class="mc-headline-block__value mc-headline-block__value--payment" id="cc-headline">-</span>
       </div>
     </div>
 
@@ -195,7 +195,7 @@
       cmhc:      { en: 'CMHC / Sagen / Canada Guaranty insurance', fr: 'Prime CMHC / Sagen / Canada Guaranty', ar: 'تأمين CMHC',   es: 'Seguro CMHC / Sagen / Canada Guaranty' },
       moving:    { en: 'Moving costs',                              fr: 'Frais de déménagement',          ar: 'تكاليف الانتقال',    es: 'Gastos de mudanza' },
       adj:       { en: 'Adjustments (taxes, fees)',                 fr: 'Ajustements (taxes, charges)',   ar: 'التسويات (الضرائب، الرسوم)', es: 'Ajustes (impuestos, cargos)' },
-      tax:       { en: 'GST (5%) + QST (9.975%) — new build',      fr: 'TPS (5 %) + TVQ (9,975 %) — neuf', ar: 'GST + QST — بناء جديد', es: 'GST (5%) + QST (9.975%) — nueva construcción' }
+      tax:       { en: 'GST (5%) + QST (9.975%) - new build',      fr: 'TPS (5 %) + TVQ (9,975 %) - neuf', ar: 'GST + QST - بناء جديد', es: 'GST (5%) + QST (9.975%) - nueva construcción' }
     };
     function l(key) { return lbl[key][lang] || lbl[key]['en']; }
 
@@ -237,7 +237,7 @@
                         '<td class="mc-td mc-td--val mc-td--total">' + u.fmt(totalHigh) + '</td>';
     tbody.appendChild(totalTr);
 
-    document.getElementById('cc-headline').textContent = u.fmt(totalLow) + ' — ' + u.fmt(totalHigh);
+    document.getElementById('cc-headline').textContent = u.fmt(totalLow) + ' - ' + u.fmt(totalHigh);
     var res = document.getElementById('cc-results');
     res.classList.add('mc-results--visible');
     res.scrollIntoView({ behavior: 'smooth', block: 'nearest' });

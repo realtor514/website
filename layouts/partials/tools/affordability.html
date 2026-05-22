@@ -1,10 +1,10 @@
-{{ $isFr := eq .Lang "fr" }}
+﻿{{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
 {{ $isEs := eq .Lang "es" }}
 
 <div class="mc-card">
   <p class="mc-tool-desc">
-    {{ if $isFr }}Découvrez le prix maximum que vous pouvez vous permettre selon vos revenus, vos dettes et la mise de fonds disponible — en appliquant le test de résistance hypothécaire canadien (GDS/TDS).{{ else if $isAr }}اكتشف الحد الأقصى للسعر الذي يمكنك تحمله بناءً على دخلك وديونك والدفعة الأولى المتاحة، مع تطبيق اختبار الإجهاد للرهن العقاري الكندي.{{ else if $isEs }}Descubra el precio máximo que puede pagar según sus ingresos, deudas y pago inicial disponible, aplicando la prueba de estrés hipotecario canadiense (GDS/TDS).{{ else }}Discover the maximum home price you can afford based on your income, debts, and down payment — applying the Canadian mortgage stress test (GDS/TDS).{{ end }}
+    {{ if $isFr }}Découvrez le prix maximum que vous pouvez vous permettre selon vos revenus, vos dettes et la mise de fonds disponible - en appliquant le test de résistance hypothécaire canadien (GDS/TDS).{{ else if $isAr }}اكتشف الحد الأقصى للسعر الذي يمكنك تحمله بناءً على دخلك وديونك والدفعة الأولى المتاحة، مع تطبيق اختبار الإجهاد للرهن العقاري الكندي.{{ else if $isEs }}Descubra el precio máximo que puede pagar según sus ingresos, deudas y pago inicial disponible, aplicando la prueba de estrés hipotecario canadiense (GDS/TDS).{{ else }}Discover the maximum home price you can afford based on your income, debts, and down payment - applying the Canadian mortgage stress test (GDS/TDS).{{ end }}
   </p>
 
   <div class="mc-row mc-row--2">
@@ -101,10 +101,10 @@
         <span class="mc-headline-block__label">
           {{ if $isFr }}Prix d'achat maximum estimé{{ else if $isAr }}الحد الأقصى المقدر لسعر الشراء{{ else if $isEs }}Precio máximo de compra estimado{{ else }}Estimated Maximum Purchase Price{{ end }}
         </span>
-        <span class="mc-headline-block__value mc-headline-block__value--payment" id="af-max-price">—</span>
+        <span class="mc-headline-block__value mc-headline-block__value--payment" id="af-max-price">-</span>
         <span class="mc-headline-block__freq">
           {{ if $isFr }}Paiement mensuel estimé :{{ else if $isAr }}الدفعة الشهرية المقدرة:{{ else if $isEs }}Pago mensual estimado:{{ else }}Estimated monthly payment:{{ end }}
-          <strong id="af-payment">—</strong>
+          <strong id="af-payment">-</strong>
         </span>
       </div>
     </div>
@@ -133,7 +133,7 @@
             <td class="mc-td mc-td--label">
               {{ if $isFr }}Taux de test de résistance{{ else if $isAr }}معدل اختبار الإجهاد{{ else if $isEs }}Tasa de prueba de estrés{{ else }}Stress test rate{{ end }}
             </td>
-            <td class="mc-td mc-td--val" id="af-stress">—</td>
+            <td class="mc-td mc-td--val" id="af-stress">-</td>
             <td class="mc-td mc-td--val" style="color:var(--gray);font-size:.82rem;">
               {{ if $isFr }}max(taux + 2 %, 5,25 %){{ else if $isAr }}max(المعدل + 2%, 5.25%){{ else if $isEs }}max(tasa + 2%, 5.25%){{ else }}max(rate + 2%, 5.25%){{ end }}
             </td>
@@ -142,7 +142,7 @@
             <td class="mc-td mc-td--label">
               {{ if $isFr }}Ratio ABD (revenus bruts servant à l'habitation){{ else if $isAr }}نسبة GDS (تكاليف السكن من الدخل){{ else if $isEs }}Ratio GDS (costos de vivienda){{ else }}GDS ratio (housing costs){{ end }}
             </td>
-            <td class="mc-td mc-td--val mc-td--strong" id="af-gds">—</td>
+            <td class="mc-td mc-td--val mc-td--strong" id="af-gds">-</td>
             <td class="mc-td mc-td--val mc-td--strong">
               <span style="color:var(--gray)">&le; 39%</span>
             </td>
@@ -151,7 +151,7 @@
             <td class="mc-td mc-td--label">
               {{ if $isFr }}Ratio ATD (total des dettes){{ else if $isAr }}نسبة TDS (إجمالي الديون){{ else if $isEs }}Ratio TDS (deuda total){{ else }}TDS ratio (total debt){{ end }}
             </td>
-            <td class="mc-td mc-td--val mc-td--strong" id="af-tds">—</td>
+            <td class="mc-td mc-td--val mc-td--strong" id="af-tds">-</td>
             <td class="mc-td mc-td--val mc-td--strong">
               <span style="color:var(--gray)">&le; 44%</span>
             </td>
@@ -160,7 +160,7 @@
             <td class="mc-td mc-td--label">
               {{ if $isFr }}PITH mensuel (capital + intérêts + taxes + chauffage){{ else if $isAr }}PITH الشهري (رأس المال + الفوائد + الضرائب + التدفئة){{ else if $isEs }}PITH mensual (capital + intereses + impuestos + calefacción){{ else }}Monthly PITH (principal + interest + taxes + heating){{ end }}
             </td>
-            <td class="mc-td mc-td--val" id="af-pith">—</td>
+            <td class="mc-td mc-td--val" id="af-pith">-</td>
             <td class="mc-td mc-td--val" style="color:var(--gray);font-size:.82rem;">
               {{ if $isFr }}Inclut 150 $/mois de chauffage{{ else if $isAr }}يتضمن 150$/شهر للتدفئة{{ else if $isEs }}Incluye $150/mes de calefacción{{ else }}Includes $150/month heating{{ end }}
             </td>
@@ -169,7 +169,7 @@
             <td class="mc-td mc-td--label mc-td--total-label">
               {{ if $isFr }}Revenu mensuel brut{{ else if $isAr }}الدخل الشهري الإجمالي{{ else if $isEs }}Ingreso mensual bruto{{ else }}Gross monthly income{{ end }}
             </td>
-            <td class="mc-td mc-td--val mc-td--total" id="af-monthly-income">—</td>
+            <td class="mc-td mc-td--val mc-td--total" id="af-monthly-income">-</td>
             <td class="mc-td mc-td--val mc-td--total"></td>
           </tr>
         </tbody>
