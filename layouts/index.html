@@ -2,8 +2,8 @@
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
 {{ $isEs := eq .Lang "es" }}
-{{ $base  := "" }}
-{{ if $isFr }}{{ $base = "/fr" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
+{{ $base  := "/en" }}
+{{ if $isFr }}{{ $base = "" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
 
 {{ partial "hero.html" . }}
 

@@ -1,3 +1,19 @@
+# Regles Obligatoires - A Respecter Dans Toutes Les Sessions
+
+## REGLE 1 - Zero tirets longs
+**JAMAIS** utiliser le caractere em dash (--), en dash (-) ou double tiret (--)
+dans TOUT ce que Claude produit: texte visible, commentaires de code, JavaScript,
+templates, fichiers de config, articles, memoires. Remplacer par: virgule,
+deux-points, ou point. Cette regle s applique dans tous les projets, toutes
+les sessions, Claude Code et Claude Chat.
+
+## REGLE 2 - Toutes les langues
+**TOUTE** modification de contenu ou de lien doit etre faite dans les 4 langues:
+Francais (defaut, racine /), English (/en/), Espanol (/es/), Arabe (/ar/).
+Ne jamais modifier une langue sans faire la meme chose dans les 3 autres.
+
+---
+
 # Real Estate Website Automation Workflow
 
 ## Project Overview

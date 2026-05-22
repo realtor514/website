@@ -1,6 +1,9 @@
-{{ define "main" }}
+﻿{{ define "main" }}
 {{ $isFr := eq .Lang "fr" }}
-{{ $base  := cond $isFr "/fr" "" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $base  := "/en" }}
+{{ if $isFr }}{{ $base = "" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
 
 <section class="content-hero">
   <div class="container">
