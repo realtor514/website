@@ -5,10 +5,7 @@
 {{ if $isFr }}{{ $listingsURL = "/listings/" }}{{ else if $isAr }}{{ $listingsURL = "/ar/listings/" }}{{ else if $isEs }}{{ $listingsURL = "/es/listings/" }}{{ end }}
 
 <section class="hero">
-  <img src="{{ "images/office/exterieur_par-proprietaire.webp" | relURL }}"
-       alt="RE/MAX DU CARTIER - Laval"
-       class="hero__bg">
-  <div class="hero__overlay"></div>
+  <div class="hero__ambient"></div>
 
   <div class="container">
     <div class="hero__inner">

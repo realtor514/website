@@ -14,7 +14,7 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏠</text></svg>">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Noto+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300;1,9..40,400&family=DM+Mono:wght@400;500&family=Noto+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 </head>
 <body>
@@ -70,7 +70,7 @@
   (function () {
     const hero = document.querySelector('.hero');
     if (!hero) return;
-    const colors = ['rgba(255,18,0,.55)', 'rgba(0,67,255,.45)', 'rgba(255,255,255,.25)'];
+    const colors = ['rgba(200,165,90,.50)', 'rgba(200,165,90,.30)', 'rgba(240,235,224,.20)'];
     const sizes  = [3, 4, 5, 6];
     for (let i = 0; i < 20; i++) {
       const p = document.createElement('div');
@@ -174,7 +174,7 @@
 <script>
   (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, [L, namespace, ...Array.prototype.slice.call(ar, 2)]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
   Cal("init", {origin:"https://cal.com"});
-  Cal("ui", {"styles":{"branding":{"brandColor":"#FF1200"}},"hideEventTypeDetails":false,"layout":"month_view"});
+  Cal("ui", {"styles":{"branding":{"brandColor":"#C8A55A"}},"hideEventTypeDetails":false,"layout":"month_view"});
 </script>
 
 </body>
