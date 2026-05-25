@@ -7,7 +7,16 @@
   <div class="container">
     <div class="footer__inner">
       <div>
-        <div class="footer__brand-name">{{ .Site.Params.name }}</div>
+        <div class="footer__logo-wrap">
+          <div class="footer__logo-badge">
+            <img src="{{ "images/remax-logo.png" | relURL }}"
+                 alt="RE/MAX DU CARTIER"
+                 class="footer__logo-img"
+                 width="36" height="36"
+                 loading="lazy">
+          </div>
+          <span class="footer__logo-label">{{ .Site.Params.name }}</span>
+        </div>
         <div class="footer__brand-title">{{ .Site.Params.role }}</div>
         <p class="footer__brand-text">
           {{ if $isFr }}
@@ -20,6 +29,13 @@
             Your trusted partner for buying, selling, and investing in real estate. Available across 16 offices in Montreal, Laval, the North Shore, the South Shore, and the Laurentians.
           {{ end }}
         </p>
+        <button class="footer__book-btn" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+            <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
+          </svg>
+          {{ if $isFr }}Prendre rendez-vous{{ else if $isAr }}احجز موعداً{{ else if $isEs }}Reservar una cita{{ else }}Book a Meeting{{ end }}
+        </button>
       </div>
 
       <div>
