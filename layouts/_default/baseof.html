@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}"{{ if eq .Lang "ar" }} dir="rtl"{{ end }}>
+<html lang="{{ .Lang }}"{{ if eq .Lang "ar" }} dir="rtl"{{ end }}>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,7 +23,7 @@
 <main>{{ block "main" . }}{{ end }}</main>
 {{ partial "footer.html" . }}
 
-<button class="scroll-top" id="scrollTop" aria-label="Back to top">
+<button class="scroll-top" id="scrollTop" aria-label="{{ if eq .Lang "fr" }}Retour en haut{{ else if eq .Lang "ar" }}العودة للأعلى{{ else if eq .Lang "es" }}Volver arriba{{ else }}Back to top{{ end }}">
   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
     <polyline points="18 15 12 9 6 15"/>
   </svg>

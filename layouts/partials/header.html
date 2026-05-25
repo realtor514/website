@@ -41,7 +41,7 @@
       </a>
 
       {{/* ── Mobile hamburger ── */}}
-      <button class="nav__toggle" id="navToggle" aria-label="Toggle menu" aria-expanded="false">
+      <button class="nav__toggle" id="navToggle" aria-label="{{ if $isFr }}Ouvrir le menu{{ else if $isAr }}فتح القائمة{{ else if $isEs }}Abrir menú{{ else }}Toggle menu{{ end }}" aria-expanded="false">
         <span></span><span></span><span></span>
       </button>
 

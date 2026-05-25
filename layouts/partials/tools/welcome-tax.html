@@ -96,10 +96,10 @@
       <table class="wt-rates-table">
         <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else if $isEs }}Hasta $61,500{{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
         <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else if $isEs }}$61,501 a $307,800{{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
-        <tr><td>{{ if $isFr }}De 307 801 $ à 500 000 ${{ else if $isAr }}من 307,801$ إلى 500,000${{ else }}$307,801 to $500,000{{ end }}</td><td>1,5 %</td></tr>
-        <tr><td>{{ if $isFr }}De 500 001 $ à 1 000 000 ${{ else if $isAr }}من 500,001$ إلى 1,000,000${{ else }}$500,001 to $1,000,000{{ end }}</td><td>2,0 %</td></tr>
-        <tr><td>{{ if $isFr }}De 1 000 001 $ à 2 000 000 ${{ else if $isAr }}من 1,000,001$ إلى 2,000,000${{ else }}$1,000,001 to $2,000,000{{ end }}</td><td>2,5 %</td></tr>
-        <tr><td>{{ if $isFr }}Plus de 2 000 000 ${{ else if $isAr }}أكثر من 2,000,000${{ else }}Over $2,000,000{{ end }}</td><td>3,0 %</td></tr>
+        <tr><td>{{ if $isFr }}De 307 801 $ à 500 000 ${{ else if $isAr }}من 307,801$ إلى 500,000${{ else if $isEs }}$307,801 a $500,000{{ else }}$307,801 to $500,000{{ end }}</td><td>1,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 500 001 $ à 1 000 000 ${{ else if $isAr }}من 500,001$ إلى 1,000,000${{ else if $isEs }}$500,001 a $1,000,000{{ else }}$500,001 to $1,000,000{{ end }}</td><td>2,0 %</td></tr>
+        <tr><td>{{ if $isFr }}De 1 000 001 $ à 2 000 000 ${{ else if $isAr }}من 1,000,001$ إلى 2,000,000${{ else if $isEs }}$1,000,001 a $2,000,000{{ else }}$1,000,001 to $2,000,000{{ end }}</td><td>2,5 %</td></tr>
+        <tr><td>{{ if $isFr }}Plus de 2 000 000 ${{ else if $isAr }}أكثر من 2,000,000${{ else if $isEs }}Más de $2,000,000{{ else }}Over $2,000,000{{ end }}</td><td>3,0 %</td></tr>
       </table>
 
       <!-- Gatineau -->
@@ -107,9 +107,9 @@
       <table class="wt-rates-table">
         <tr><td>{{ if $isFr }}Jusqu'à 61 500 ${{ else if $isAr }}حتى 61,500${{ else if $isEs }}Hasta $61,500{{ else }}Up to $61,500{{ end }}</td><td>0,5 %</td></tr>
         <tr><td>{{ if $isFr }}De 61 501 $ à 307 800 ${{ else if $isAr }}من 61,501$ إلى 307,800${{ else if $isEs }}$61,501 a $307,800{{ else }}$61,501 to $307,800{{ end }}</td><td>1,0 %</td></tr>
-        <tr><td>{{ if $isFr }}De 307 801 $ à 750 000 ${{ else if $isAr }}من 307,801$ إلى 750,000${{ else }}$307,801 to $750,000{{ end }}</td><td>1,5 %</td></tr>
-        <tr><td>{{ if $isFr }}De 750 001 $ à 1 000 000 ${{ else if $isAr }}من 750,001$ إلى 1,000,000${{ else }}$750,001 to $1,000,000{{ end }}</td><td>2,5 %</td></tr>
-        <tr><td>{{ if $isFr }}Plus de 1 000 000 ${{ else if $isAr }}أكثر من 1,000,000${{ else }}Over $1,000,000{{ end }}</td><td>3,0 %</td></tr>
+        <tr><td>{{ if $isFr }}De 307 801 $ à 750 000 ${{ else if $isAr }}من 307,801$ إلى 750,000${{ else if $isEs }}$307,801 a $750,000{{ else }}$307,801 to $750,000{{ end }}</td><td>1,5 %</td></tr>
+        <tr><td>{{ if $isFr }}De 750 001 $ à 1 000 000 ${{ else if $isAr }}من 750,001$ إلى 1,000,000${{ else if $isEs }}$750,001 a $1,000,000{{ else }}$750,001 to $1,000,000{{ end }}</td><td>2,5 %</td></tr>
+        <tr><td>{{ if $isFr }}Plus de 1 000 000 ${{ else if $isAr }}أكثر من 1,000,000${{ else if $isEs }}Más de $1,000,000{{ else }}Over $1,000,000{{ end }}</td><td>3,0 %</td></tr>
       </table>
 
     </div>
@@ -121,7 +121,7 @@
     <div class="mc-headline-results">
       <div class="mc-headline-block mc-headline-block--payment" style="grid-column:1/-1">
         <span class="mc-headline-block__label">
-          {{ if $isFr }}Droits de mutation estimés{{ else if $isAr }}رسوم النقل المقدرة{{ else }}Estimated Welcome Tax{{ end }}
+          {{ if $isFr }}Droits de mutation estimés{{ else if $isAr }}رسوم النقل المقدرة{{ else if $isEs }}Impuesto de bienvenida estimado{{ else }}Estimated Welcome Tax{{ end }}
         </span>
         <span class="mc-headline-block__value mc-headline-block__value--payment" id="wt-total">-</span>
         <span class="mc-headline-block__freq" id="wt-city-label">-</span>
@@ -129,7 +129,7 @@
     </div>
 
     <h3 class="mc-results__title">
-      {{ if $isFr }}Ventilation par tranches{{ else if $isAr }}تفصيل الشرائح{{ else }}Bracket Breakdown{{ end }}
+      {{ if $isFr }}Ventilation par tranches{{ else if $isAr }}تفصيل الشرائح{{ else if $isEs }}Desglose por tramos{{ else }}Bracket Breakdown{{ end }}
     </h3>
 
     <div class="mc-table-wrap">
@@ -137,13 +137,13 @@
         <thead>
           <tr>
             <th class="mc-th mc-th--category">
-              {{ if $isFr }}Tranche{{ else if $isAr }}الشريحة{{ else }}Bracket{{ end }}
+              {{ if $isFr }}Tranche{{ else if $isAr }}الشريحة{{ else if $isEs }}Tramo{{ else }}Bracket{{ end }}
             </th>
             <th class="mc-th mc-th--col">
-              {{ if $isFr }}Taux{{ else if $isAr }}المعدل{{ else }}Rate{{ end }}
+              {{ if $isFr }}Taux{{ else if $isAr }}المعدل{{ else if $isEs }}Tasa{{ else }}Rate{{ end }}
             </th>
             <th class="mc-th mc-th--col">
-              {{ if $isFr }}Taxe{{ else if $isAr }}الضريبة{{ else }}Tax{{ end }}
+              {{ if $isFr }}Taxe{{ else if $isAr }}الضريبة{{ else if $isEs }}Impuesto{{ else }}Tax{{ end }}
             </th>
           </tr>
         </thead>
@@ -194,32 +194,36 @@
   };
 
   var CITY_LABELS = {
-    other:    { en: 'Other Quebec municipality', fr: 'Autre municipalité du Québec', ar: 'بلدية كيبيك أخرى' },
-    montreal: { en: 'Ville de Montréal',         fr: 'Ville de Montréal',            ar: 'مدينة مونتريال' },
-    quebec:   { en: 'Ville de Québec',           fr: 'Ville de Québec',              ar: 'مدينة كيبيك' },
-    gatineau: { en: 'Ville de Gatineau',         fr: 'Ville de Gatineau',            ar: 'مدينة غاتينو' }
+    other:    { en: 'Other Quebec municipality', fr: 'Autre municipalité du Québec', ar: 'بلدية كيبيك أخرى', es: 'Otro municipio de Quebec' },
+    montreal: { en: 'Ville de Montréal',         fr: 'Ville de Montréal',            ar: 'مدينة مونتريال',   es: 'Ville de Montréal' },
+    quebec:   { en: 'Ville de Québec',           fr: 'Ville de Québec',              ar: 'مدينة كيبيك',      es: 'Ville de Québec' },
+    gatineau: { en: 'Ville de Gatineau',         fr: 'Ville de Gatineau',            ar: 'مدينة غاتينو',     es: 'Ville de Gatineau' }
   };
 
   var DISCLAIMERS = {
     other: {
       en: '* 2025 rates for Quebec municipalities (excluding Montréal, Québec city, and Gatineau). Note: your municipality may have set a higher rate (up to 3%) on the portion exceeding $500,000 - verify with your municipality.',
       fr: "* Taux 2025 pour les municipalités du Québec (sauf Montréal, Québec et Gatineau). Note : votre municipalité peut avoir fixé un taux supérieur (jusqu'à 3 %) sur la tranche excédant 500 000 $ - vérifiez auprès de la municipalité concernée.",
-      ar: '* معدلات 2025 لبلديات كيبيك (باستثناء مونتريال، مدينة كيبيك، وغاتينو). ملاحظة: قد تكون بلديتك قد حددت معدلاً أعلى (حتى 3%) على الجزء الذي يتجاوز 500,000$ - تحقق من بلديتك.'
+      ar: '* معدلات 2025 لبلديات كيبيك (باستثناء مونتريال، مدينة كيبيك، وغاتينو). ملاحظة: قد تكون بلديتك قد حددت معدلاً أعلى (حتى 3%) على الجزء الذي يتجاوز 500,000$ - تحقق من بلديتك.',
+      es: '* Tarifas 2025 para municipios de Quebec (excluyendo Montréal, ciudad de Québec y Gatineau). Nota: su municipio puede haber fijado una tarifa más alta (hasta 3%) sobre la porción que excede $500,000 - verifique con su municipio.'
     },
     montreal: {
       en: '* 2025 rates for the City of Montréal. Source: Loi concernant les droits sur les mutations immobilières.',
       fr: '* Taux 2025 pour la Ville de Montréal. Source : Loi concernant les droits sur les mutations immobilières.',
-      ar: '* معدلات 2025 لمدينة مونتريال. المصدر: قانون رسوم نقل الملكية العقارية.'
+      ar: '* معدلات 2025 لمدينة مونتريال. المصدر: قانون رسوم نقل الملكية العقارية.',
+      es: '* Tarifas 2025 para la Ville de Montréal. Fuente: Loi concernant les droits sur les mutations immobilières.'
     },
     quebec: {
       en: '* 2025 rates for the City of Québec. Source: Loi concernant les droits sur les mutations immobilières.',
       fr: '* Taux 2025 pour la Ville de Québec. Source : Loi concernant les droits sur les mutations immobilières.',
-      ar: '* معدلات 2025 لمدينة كيبيك. المصدر: قانون رسوم نقل الملكية العقارية.'
+      ar: '* معدلات 2025 لمدينة كيبيك. المصدر: قانون رسوم نقل الملكية العقارية.',
+      es: '* Tarifas 2025 para la Ville de Québec. Fuente: Loi concernant les droits sur les mutations immobilières.'
     },
     gatineau: {
       en: '* 2025 rates for the City of Gatineau. Source: Loi concernant les droits sur les mutations immobilières.',
       fr: '* Taux 2025 pour la Ville de Gatineau. Source : Loi concernant les droits sur les mutations immobilières.',
-      ar: '* معدلات 2025 لمدينة غاتينو. المصدر: قانون رسوم نقل الملكية العقارية.'
+      ar: '* معدلات 2025 لمدينة غاتينو. المصدر: قانون رسوم نقل الملكية العقارية.',
+      es: '* Tarifas 2025 para la Ville de Gatineau. Fuente: Loi concernant les droits sur les mutations immobilières.'
     }
   };
 
@@ -235,7 +239,7 @@
       var fromLbl = prev === 0 ? '$1' : '$' + (prev + 1).toLocaleString('en-CA');
       var toLbl;
       if (b[i].limit === Infinity) {
-        toLbl = (lang === 'fr' ? 'et plus' : lang === 'ar' ? 'وما فوق' : 'and above');
+        toLbl = (lang === 'fr' ? 'et plus' : lang === 'ar' ? 'وما فوق' : lang === 'es' ? 'y más' : 'and above');
       } else {
         toLbl = '$' + upper.toLocaleString('en-CA');
       }

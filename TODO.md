@@ -1,39 +1,30 @@
-# Georges Matar Website — To-Do List
+# Todo List
 
-Ideas and tasks to work on in future sessions with Claude Code.
+## Instructions pour Claude
+Quand l'utilisateur ecrit "fais todo":
+1. Identifier le prochain point avec Status: pending
+2. Executer CE POINT SEULEMENT
+3. Marquer le point comme done dans ce fichier
+4. Confirmer si ca a bien fonctionne
+5. S'ARRETER et demander: "Veux-tu passer au point suivant?"
+Ne jamais executer plusieurs points d'un coup sans confirmation.
 
----
+## Point 1 - Emoji favicon dans l'onglet navigateur
+Ajouter le meme emoji que RE/MAX Quebec dans l'onglet du navigateur (favicon emoji visible dans le browser tab).
+**Status:** pending
 
-## Pending Tasks
+## Point 2 - Stats bar: retirer le label "Formation academique"
+Au lieu d'afficher "Ingenieur (PhD)" + "Formation academique" en dessous, afficher uniquement "Ingenieur (PhD)" sans label.
+**Status:** pending
 
-### Integrate cal.com booking into the website
-Add a cal.com meeting booking widget or button to the website so visitors can directly book an appointment with Georges. Georges already has a cal.com account connected to his calendar.
-- Add a "Book a Meeting" button in the hero section and/or contact section
-- Embed the cal.com scheduling widget on the site
-- Ensure it is mobile-friendly
+## Point 3 - Tagline hero: proposer 10 alternatives
+Proposer 10 alternatives a "Votre guide de confiance sur le marche immobilier de la grande region de Montreal" pour que l'utilisateur puisse choisir.
+**Status:** pending
 
----
+## Point 4 - Calculateur Loc. vs Achat: valeurs par defaut realistes
+Ajouter des valeurs preset basees sur le marche immobilier de Montreal/Laval pour aider la simulation (prix moyen propriete, loyer moyen, taux hypothecaire actuel, etc.).
+**Status:** pending
 
-### Add photos to all articles automatically
-Set up the photo workflow described in CLAUDE.md: search Unsplash, Pexels, Pixabay, and Wikimedia Commons for relevant images, download and optimize them, and embed them in each article.
-- API keys are stored in .env file locally
-- API keys are also stored in GitHub Secrets on realtor514/website repo
-- Wikimedia Commons requires no API key
-
----
-
-## Completed
-
-- [x] Set up Hugo static site with dark navy + gold design
-- [x] Deploy to GitHub Pages at georgesmatar.github.io
-- [x] Connect domain georgesmatar.space via Namecheap DNS
-- [x] Connect Formspree contact form (ID: mwvzkzvl)
-- [x] Add 8 articles (EN) from scripts
-- [x] Remove all em dashes from site content
-- [x] Remove fake stats from hero section
-- [x] Add bilingual support (FR + EN) with language toggle
-- [x] Translate all 8 articles to French
-- [x] Add CLAUDE.md workflow documentation
-- [x] Transfer website from georgesmatar to realtor514/website GitHub repo
-- [x] Update DNS CNAME to realtor514.github.io
-- [x] Delete old georgesmatar/georgesmatar.github.io repo
+## Point 5 - Capacite d'emprunt: expliquer la methode GDS/TDS
+Ajouter une courte explication dans le calculateur pour dire quelle methode est utilisee (GDS, TDS, ou autre) et comment ca fonctionne.
+**Status:** pending
