@@ -125,3 +125,214 @@
   });
 })();
 </script>
+
+<!-- Lead capture modal -->
+<div id="lead-modal" role="dialog" aria-modal="true" aria-labelledby="lead-modal-title" style="display:none;position:fixed;inset:0;z-index:9999;background:rgba(10,10,18,.82);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);align-items:center;justify-content:center;padding:16px">
+  <div style="background:var(--dark,#0d0d1a);border:1px solid rgba(200,160,80,.25);border-radius:16px;width:100%;max-width:480px;max-height:90vh;overflow-y:auto;padding:36px 32px 32px;position:relative;box-shadow:0 32px 80px rgba(0,0,0,.7)">
+
+    <button id="lead-modal-close" type="button" aria-label="Fermer" style="position:absolute;top:14px;right:16px;background:none;border:none;cursor:pointer;color:rgba(255,255,255,.45);font-size:22px;line-height:1;padding:4px 8px">&times;</button>
+
+    <div style="text-align:center;margin-bottom:24px">
+      <div style="display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;border-radius:50%;background:rgba(200,160,80,.12);border:1px solid rgba(200,160,80,.3);margin-bottom:14px">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--gold,#c8a050)" stroke-width="2"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
+      </div>
+      <h2 id="lead-modal-title" style="font-size:1.25rem;font-weight:700;color:#fff;margin:0 0 8px">
+        {{ if $isFr }}Recevez vos resultats par courriel{{ else if $isAr }}احصل على نتائجك عبر البريد الإلكتروني{{ else if $isEs }}Reciba sus resultados por correo{{ else }}Get Your Results by Email{{ end }}
+      </h2>
+      <p style="font-size:.875rem;color:rgba(255,255,255,.55);margin:0">
+        {{ if $isFr }}Entrez vos coordonnees pour recevoir votre calcul et etre contacte par Georges Matar, courtier immobilier.{{ else if $isAr }}ادخل بياناتك لتلقي حسابك والتواصل مع جورج ماتار، وسيط عقاري.{{ else if $isEs }}Ingrese sus datos para recibir su calculo y ser contactado por Georges Matar, corredor inmobiliario.{{ else }}Enter your info to receive your calculation and be contacted by Georges Matar, real estate broker.{{ end }}
+      </p>
+    </div>
+
+    <form id="lead-modal-form" novalidate>
+      <input type="hidden" name="_source" value="calculateur">
+      <input type="hidden" name="_subject" value="Nouveau lead calculateur - georgesmatar.space">
+
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px">
+        <div>
+          <label style="display:block;font-size:.78rem;font-weight:600;color:rgba(255,255,255,.7);margin-bottom:5px" for="lm-prenom">
+            {{ if $isFr }}Prenom *{{ else if $isAr }}الاسم الأول *{{ else if $isEs }}Nombre *{{ else }}First Name *{{ end }}
+          </label>
+          <input id="lm-prenom" name="prenom" type="text" required autocomplete="given-name"
+            placeholder="{{ if $isFr }}Jean{{ else if $isAr }}محمد{{ else if $isEs }}Juan{{ else }}John{{ end }}"
+            style="width:100%;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.15);border-radius:8px;padding:10px 12px;font-size:.9rem;color:#fff;outline:none;box-sizing:border-box;transition:border-color .2s">
+        </div>
+        <div>
+          <label style="display:block;font-size:.78rem;font-weight:600;color:rgba(255,255,255,.7);margin-bottom:5px" for="lm-nom">
+            {{ if $isFr }}Nom *{{ else if $isAr }}اسم العائلة *{{ else if $isEs }}Apellido *{{ else }}Last Name *{{ end }}
+          </label>
+          <input id="lm-nom" name="nom" type="text" required autocomplete="family-name"
+            placeholder="{{ if $isFr }}Tremblay{{ else if $isAr }}الأحمد{{ else if $isEs }}García{{ else }}Smith{{ end }}"
+            style="width:100%;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.15);border-radius:8px;padding:10px 12px;font-size:.9rem;color:#fff;outline:none;box-sizing:border-box;transition:border-color .2s">
+        </div>
+      </div>
+
+      <div style="margin-bottom:12px">
+        <label style="display:block;font-size:.78rem;font-weight:600;color:rgba(255,255,255,.7);margin-bottom:5px" for="lm-email">
+          {{ if $isFr }}Courriel *{{ else if $isAr }}البريد الإلكتروني *{{ else if $isEs }}Correo electronico *{{ else }}Email *{{ end }}
+        </label>
+        <input id="lm-email" name="email" type="email" required autocomplete="email"
+          placeholder="jean@exemple.com"
+          style="width:100%;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.15);border-radius:8px;padding:10px 12px;font-size:.9rem;color:#fff;outline:none;box-sizing:border-box;transition:border-color .2s">
+      </div>
+
+      <div style="margin-bottom:12px">
+        <label style="display:block;font-size:.78rem;font-weight:600;color:rgba(255,255,255,.7);margin-bottom:5px" for="lm-tel">
+          {{ if $isFr }}Telephone *{{ else if $isAr }}الهاتف *{{ else if $isEs }}Telefono *{{ else }}Phone *{{ end }}
+        </label>
+        <input id="lm-tel" name="telephone" type="tel" required autocomplete="tel"
+          placeholder="(514) 555-1234"
+          style="width:100%;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.15);border-radius:8px;padding:10px 12px;font-size:.9rem;color:#fff;outline:none;box-sizing:border-box;transition:border-color .2s">
+      </div>
+
+      <div style="margin-bottom:20px">
+        <label style="display:block;font-size:.78rem;font-weight:600;color:rgba(255,255,255,.7);margin-bottom:5px" for="lm-adresse">
+          {{ if $isFr }}Adresse (ville ou quartier){{ else if $isAr }}العنوان (مدينة أو حي){{ else if $isEs }}Direccion (ciudad o barrio){{ else }}Address (city or neighbourhood){{ end }}
+        </label>
+        <input id="lm-adresse" name="adresse" type="text" autocomplete="street-address"
+          placeholder="{{ if $isFr }}Montreal, Laval, Rive-Sud...{{ else if $isAr }}مونتريال، لافال...{{ else if $isEs }}Montreal, Laval, Rive-Sud...{{ else }}Montreal, Laval, South Shore...{{ end }}"
+          style="width:100%;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.15);border-radius:8px;padding:10px 12px;font-size:.9rem;color:#fff;outline:none;box-sizing:border-box;transition:border-color .2s">
+      </div>
+
+      <label style="display:flex;align-items:flex-start;gap:10px;cursor:pointer;margin-bottom:22px">
+        <input id="lm-consent" name="consentement" type="checkbox" required value="oui"
+          style="margin-top:3px;width:16px;height:16px;flex-shrink:0;accent-color:var(--gold,#c8a050)">
+        <span style="font-size:.775rem;color:rgba(255,255,255,.5);line-height:1.5">
+          {{ if $isFr }}J'accepte d'etre contacte par Georges Matar, courtier immobilier RE/MAX DU CARTIER INC., concernant mon projet immobilier. Je peux retirer mon consentement en tout temps.{{ else if $isAr }}أوافق على التواصل معي من قبل جورج ماتار، وسيط عقاري في RE/MAX DU CARTIER INC.، بخصوص مشروعي العقاري. يمكنني سحب موافقتي في أي وقت.{{ else if $isEs }}Acepto ser contactado por Georges Matar, corredor inmobiliario RE/MAX DU CARTIER INC., sobre mi proyecto inmobiliario. Puedo retirar mi consentimiento en cualquier momento.{{ else }}I consent to being contacted by Georges Matar, real estate broker at RE/MAX DU CARTIER INC., regarding my real estate project. I may withdraw my consent at any time.{{ end }}
+        </span>
+      </label>
+
+      <div id="lead-modal-error" style="display:none;color:#ff6b6b;font-size:.82rem;margin-bottom:12px;text-align:center"></div>
+
+      <button type="submit" id="lead-modal-submit" style="width:100%;padding:13px;background:var(--gold,#c8a050);color:#0d0d1a;font-weight:700;font-size:.95rem;border:none;border-radius:10px;cursor:pointer;transition:opacity .2s;letter-spacing:.03em">
+        {{ if $isFr }}Voir mes resultats{{ else if $isAr }}عرض نتائجي{{ else if $isEs }}Ver mis resultados{{ else }}See My Results{{ end }}
+      </button>
+
+      <p style="text-align:center;font-size:.72rem;color:rgba(255,255,255,.3);margin:14px 0 0">
+        {{ if $isFr }}Vos donnees sont confidentielles et ne seront jamais revendues.{{ else if $isAr }}بياناتك سرية ولن تباع ابدا.{{ else if $isEs }}Sus datos son confidenciales y nunca seran revendidos.{{ else }}Your data is confidential and will never be sold.{{ end }}
+      </p>
+    </form>
+
+    <div id="lead-modal-success" style="display:none;text-align:center;padding:20px 0">
+      <div style="font-size:2.5rem;margin-bottom:12px">&#10003;</div>
+      <p style="color:#fff;font-weight:600;font-size:1rem;margin:0 0 6px">
+        {{ if $isFr }}Merci ! Calcul en cours...{{ else if $isAr }}شكرا! جاري الحساب...{{ else if $isEs }}Gracias! Calculando...{{ else }}Thank you! Calculating...{{ end }}
+      </p>
+    </div>
+
+  </div>
+</div>
+
+<script>
+(function () {
+  var modal       = document.getElementById('lead-modal');
+  var form        = document.getElementById('lead-modal-form');
+  var closeBtn    = document.getElementById('lead-modal-close');
+  var submitBtn   = document.getElementById('lead-modal-submit');
+  var errorDiv    = document.getElementById('lead-modal-error');
+  var successDiv  = document.getElementById('lead-modal-success');
+  var pendingBtn  = null;
+  var SESSION_KEY = 'gm_lead_ok';
+
+  var ERRORS = {
+    fr: 'Veuillez remplir tous les champs obligatoires (*) et cocher la case de consentement.',
+    ar: 'يرجى ملء جميع الحقول الإلزامية (*) وتأشير خانة الموافقة.',
+    es: 'Por favor complete todos los campos obligatorios (*) y marque la casilla de consentimiento.',
+    en: 'Please fill in all required fields (*) and check the consent box.'
+  };
+
+  function getLang() { return document.documentElement.lang || 'en'; }
+
+  function openModal(btn) {
+    pendingBtn = btn;
+    form.style.display = '';
+    successDiv.style.display = 'none';
+    errorDiv.style.display = 'none';
+    errorDiv.textContent = '';
+    modal.style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+    var firstInput = form.querySelector('input:not([type=hidden]):not([type=checkbox])');
+    if (firstInput) setTimeout(function () { firstInput.focus(); }, 80);
+  }
+
+  function closeModal() {
+    modal.style.display = 'none';
+    document.body.style.overflow = '';
+    pendingBtn = null;
+  }
+
+  function fireCalc() {
+    if (pendingBtn) {
+      var btn = pendingBtn;
+      pendingBtn = null;
+      btn.click();
+    }
+  }
+
+  /* Intercept all .mc-btn-calc clicks in capture phase */
+  document.addEventListener('click', function (e) {
+    var btn = e.target.closest('.mc-btn-calc');
+    if (!btn) return;
+    if (sessionStorage.getItem(SESSION_KEY)) return;
+    e.stopImmediatePropagation();
+    openModal(btn);
+  }, true);
+
+  /* Close on overlay click */
+  modal.addEventListener('click', function (e) {
+    if (e.target === modal) closeModal();
+  });
+
+  /* Close button */
+  closeBtn.addEventListener('click', closeModal);
+
+  /* Escape key */
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && modal.style.display === 'flex') closeModal();
+  });
+
+  /* Focus styling */
+  form.querySelectorAll('input').forEach(function (inp) {
+    inp.addEventListener('focus', function () { this.style.borderColor = 'rgba(200,160,80,.6)'; });
+    inp.addEventListener('blur',  function () { this.style.borderColor = 'rgba(255,255,255,.15)'; });
+  });
+
+  /* Form submit */
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+
+    var lang = getLang();
+    var prenom   = document.getElementById('lm-prenom').value.trim();
+    var nom      = document.getElementById('lm-nom').value.trim();
+    var email    = document.getElementById('lm-email').value.trim();
+    var tel      = document.getElementById('lm-tel').value.trim();
+    var consent  = document.getElementById('lm-consent').checked;
+
+    if (!prenom || !nom || !email || !tel || !consent) {
+      errorDiv.textContent = ERRORS[lang] || ERRORS.en;
+      errorDiv.style.display = 'block';
+      return;
+    }
+    errorDiv.style.display = 'none';
+
+    submitBtn.disabled = true;
+    submitBtn.style.opacity = '.6';
+
+    var data = new FormData(form);
+
+    fetch('https://formspree.io/f/mwvzkzvl', {
+      method: 'POST',
+      body: data,
+      headers: { 'Accept': 'application/json' }
+    }).finally(function () {
+      sessionStorage.setItem(SESSION_KEY, '1');
+      form.style.display = 'none';
+      successDiv.style.display = 'block';
+      setTimeout(function () {
+        closeModal();
+        fireCalc();
+      }, 900);
+    });
+  });
+})();
+</script>
