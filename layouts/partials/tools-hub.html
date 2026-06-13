@@ -187,9 +187,9 @@
 
       <div style="margin-bottom:20px">
         <label style="display:block;font-size:.78rem;font-weight:600;color:rgba(255,255,255,.7);margin-bottom:5px" for="lm-adresse">
-          {{ if $isFr }}Adresse (ville ou quartier){{ else if $isAr }}العنوان (مدينة أو حي){{ else if $isEs }}Direccion (ciudad o barrio){{ else }}Address (city or neighbourhood){{ end }}
+          {{ if $isFr }}Adresse (ville ou quartier) *{{ else if $isAr }}العنوان (مدينة أو حي) *{{ else if $isEs }}Direccion (ciudad o barrio) *{{ else }}Address (city or neighbourhood) *{{ end }}
         </label>
-        <input id="lm-adresse" name="adresse" type="text" autocomplete="street-address"
+        <input id="lm-adresse" name="adresse" type="text" required autocomplete="street-address"
           placeholder="{{ if $isFr }}Montreal, Laval, Rive-Sud...{{ else if $isAr }}مونتريال، لافال...{{ else if $isEs }}Montreal, Laval, Rive-Sud...{{ else }}Montreal, Laval, South Shore...{{ end }}"
           style="width:100%;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.15);border-radius:8px;padding:10px 12px;font-size:.9rem;color:#fff;outline:none;box-sizing:border-box;transition:border-color .2s">
       </div>
@@ -306,9 +306,10 @@
     var nom      = document.getElementById('lm-nom').value.trim();
     var email    = document.getElementById('lm-email').value.trim();
     var tel      = document.getElementById('lm-tel').value.trim();
+    var adresse  = document.getElementById('lm-adresse').value.trim();
     var consent  = document.getElementById('lm-consent').checked;
 
-    if (!prenom || !nom || !email || !tel || !consent) {
+    if (!prenom || !nom || !email || !tel || !adresse || !consent) {
       errorDiv.textContent = ERRORS[lang] || ERRORS.en;
       errorDiv.style.display = 'block';
       return;
