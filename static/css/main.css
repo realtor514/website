@@ -2678,3 +2678,9 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
 .scroll-top:hover {
   background: linear-gradient(135deg, var(--red-dark) 0%, #600000 100%);
 }
+
+@media (max-width: 768px) {
+  .offices-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
