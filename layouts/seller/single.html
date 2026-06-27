@@ -151,6 +151,46 @@
   </div>
 </section>
 
+<!-- ── HOME ESTIMATE TOOL ── -->
+<section class="section section--light mc-section" id="estimation">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="eyebrow eyebrow--gold">
+        {{ if $isFr }}Outil exclusif pour vendeurs{{ else if $isAr }}أداة حصرية للبائعين{{ else if $isEs }}Herramienta exclusiva para vendedores{{ else }}Exclusive Tool for Sellers{{ end }}
+      </span>
+      <h2>
+        {{ if $isFr }}Estimez la valeur de votre propriete{{ else if $isAr }}قدّر قيمة عقارك{{ else if $isEs }}Estime el valor de su propiedad{{ else }}Estimate Your Property's Value{{ end }}
+      </h2>
+      <p class="subtitle">
+        {{ if $isFr }}
+          Obtenez une estimation preliminaire basee sur les donnees du marche 2025 avant votre evaluation officielle gratuite.
+        {{ else if $isAr }}
+          احصل على تقدير اولي بناء على بيانات سوق 2025 قبل تقييمك الرسمي المجاني.
+        {{ else if $isEs }}
+          Obtenga una estimacion preliminar basada en datos del mercado 2025 antes de su evaluacion oficial gratuita.
+        {{ else }}
+          Get a preliminary estimate based on 2025 market data before your free official evaluation.
+        {{ end }}
+      </p>
+    </div>
+
+    <script>
+    if (!window._toolsUtils) {
+      window._toolsUtils = (function () {
+        function parseMoney(v) { return parseFloat(String(v).replace(/[^0-9.]/g, '')) || 0; }
+        function formatMoney(n) { return n.toLocaleString('en-CA', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+        function fmt(n) { return '$' + formatMoney(n); }
+        return { parseMoney: parseMoney, fmt: fmt, formatMoney: formatMoney };
+      })();
+    }
+    </script>
+
+    {{ partial "tools/home-estimate.html" . }}
+  </div>
+</section>
+
+{{ partial "lead-modal.html" . }}
+
 <!-- ── RENT VS BUY TOOL ── -->
 <section class="section section--light">
   <div class="container">

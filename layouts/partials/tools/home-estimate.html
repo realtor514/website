@@ -1,0 +1,557 @@
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+
+<div class="mc-card">
+  <p class="mc-tool-desc">
+    {{ if $isFr }}Obtenez une estimation preliminaire de la valeur marchande de votre propriete selon son secteur, type, superficie et caracteristiques - basee sur les donnees du marche immobilier quebecois 2025.{{ else if $isAr }}احصل على تقدير اولي للقيمة السوقية لعقارك بناء على موقعه ونوعه ومساحته وخصائصه، استنادا الى بيانات سوق كيبيك 2025.{{ else if $isEs }}Obtenga una estimacion preliminar del valor de mercado de su propiedad segun su sector, tipo, superficie y caracteristicas, basada en datos del mercado de Quebec 2025.{{ else }}Get a preliminary estimate of your property's market value based on its sector, type, area, and features - based on 2025 Quebec real estate market data.{{ end }}
+  </p>
+
+  <!-- Sector -->
+  <div class="mc-row">
+    <div class="mc-field" style="grid-column:1/-1">
+      <label class="mc-label" for="he-sector">
+        {{ if $isFr }}Secteur geographique{{ else if $isAr }}المنطقة الجغرافية{{ else if $isEs }}Sector geografico{{ else }}Geographic sector{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="he-sector">
+          {{ if $isFr }}
+            <optgroup label="Montreal">
+              <option value="mtl-prestige">Montreal - Prestige (Plateau, Outremont, Westmount, Mile-End, Griffintown)</option>
+              <option value="mtl-centre" selected>Montreal - Centre (CDN-NDG, Rosemont, Verdun, Hochelaga, Cote-des-Neiges)</option>
+              <option value="mtl-est-nord">Montreal - Est / Nord (Anjou, St-Leonard, Ahuntsic, LaSalle, Villeray)</option>
+            </optgroup>
+            <option value="laval">Laval</option>
+            <option value="rive-sud">Rive-Sud (Longueuil, Brossard, St-Bruno, Boucherville)</option>
+            <option value="couronne-nord">Couronne Nord (Terrebonne, Repentigny, Blainville, Mirabel)</option>
+          {{ else if $isAr }}
+            <optgroup label="مونتريال">
+              <option value="mtl-prestige">مونتريال - راقي (بلاتو، أوتريمون، ويستماونت، ميل-اند، غريفينتاون)</option>
+              <option value="mtl-centre" selected>مونتريال - وسط (CDN-NDG، روزمون، فيردان، أوشلاغا، كوت-دي-نيج)</option>
+              <option value="mtl-est-nord">مونتريال - شرق / شمال (أنجو، سان-ليونار، أهونتسيك، لاسال، فيلاري)</option>
+            </optgroup>
+            <option value="laval">لافال</option>
+            <option value="rive-sud">الضفة الجنوبية (لونغويل، بروسار، سان-برونو، بوشرفيل)</option>
+            <option value="couronne-nord">الضفة الشمالية (تيربون، ريبانتيني، بلانفيل، ميرابيل)</option>
+          {{ else if $isEs }}
+            <optgroup label="Montreal">
+              <option value="mtl-prestige">Montreal - Prestigio (Plateau, Outremont, Westmount, Mile-End, Griffintown)</option>
+              <option value="mtl-centre" selected>Montreal - Centro (CDN-NDG, Rosemont, Verdun, Hochelaga, Cote-des-Neiges)</option>
+              <option value="mtl-est-nord">Montreal - Este / Norte (Anjou, St-Leonard, Ahuntsic, LaSalle, Villeray)</option>
+            </optgroup>
+            <option value="laval">Laval</option>
+            <option value="rive-sud">Rive-Sud (Longueuil, Brossard, St-Bruno, Boucherville)</option>
+            <option value="couronne-nord">Couronne Nord (Terrebonne, Repentigny, Blainville, Mirabel)</option>
+          {{ else }}
+            <optgroup label="Montreal">
+              <option value="mtl-prestige">Montreal - Prestige (Plateau, Outremont, Westmount, Mile-End, Griffintown)</option>
+              <option value="mtl-centre" selected>Montreal - Centre (CDN-NDG, Rosemont, Verdun, Hochelaga, Cote-des-Neiges)</option>
+              <option value="mtl-est-nord">Montreal - East / North (Anjou, St-Leonard, Ahuntsic, LaSalle, Villeray)</option>
+            </optgroup>
+            <option value="laval">Laval</option>
+            <option value="rive-sud">South Shore (Longueuil, Brossard, St-Bruno, Boucherville)</option>
+            <option value="couronne-nord">North Shore (Terrebonne, Repentigny, Blainville, Mirabel)</option>
+          {{ end }}
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Type + Area -->
+  <div class="mc-row mc-row--2">
+    <div class="mc-field">
+      <label class="mc-label" for="he-type">
+        {{ if $isFr }}Type de propriete{{ else if $isAr }}نوع العقار{{ else if $isEs }}Tipo de propiedad{{ else }}Property type{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="he-type">
+          {{ if $isFr }}
+            <option value="condo">Condo / Appartement</option>
+            <option value="semi">Jumele / Semi-detache</option>
+            <option value="detached">Unifamilial detache</option>
+            <option value="plex">Plex (duplex, triplex)</option>
+          {{ else if $isAr }}
+            <option value="condo">شقة / كوندو</option>
+            <option value="semi">شبه منفصل</option>
+            <option value="detached">منزل مستقل</option>
+            <option value="plex">بلكس (دوبلكس، تريبلكس)</option>
+          {{ else if $isEs }}
+            <option value="condo">Condo / Apartamento</option>
+            <option value="semi">Semiadosado / Jumele</option>
+            <option value="detached">Unifamiliar independiente</option>
+            <option value="plex">Plex (duplex, triplex)</option>
+          {{ else }}
+            <option value="condo">Condo / Apartment</option>
+            <option value="semi">Semi-detached / Jumele</option>
+            <option value="detached">Detached single-family</option>
+            <option value="plex">Plex (duplex, triplex)</option>
+          {{ end }}
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+
+    <div class="mc-field">
+      <label class="mc-label" for="he-area">
+        {{ if $isFr }}Superficie habitable (pi&sup2;){{ else if $isAr }}المساحة المعيشية (pi&sup2;){{ else if $isEs }}Superficie habitable (pi&sup2;){{ else }}Living area (sq ft){{ end }}
+      </label>
+      <div class="mc-input-wrap">
+        <input class="mc-input" id="he-area" type="text" inputmode="numeric" placeholder="1,000" style="padding-left:12px">
+      </div>
+    </div>
+  </div>
+
+  <!-- Bedrooms + Bathrooms -->
+  <div class="mc-row mc-row--2">
+    <div class="mc-field">
+      <label class="mc-label" for="he-beds">
+        {{ if $isFr }}Chambres a coucher{{ else if $isAr }}غرف النوم{{ else if $isEs }}Dormitorios{{ else }}Bedrooms{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="he-beds">
+          <option value="1">1</option>
+          <option value="2" selected>2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5+</option>
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+
+    <div class="mc-field">
+      <label class="mc-label" for="he-baths">
+        {{ if $isFr }}Salles de bain{{ else if $isAr }}الحمامات{{ else if $isEs }}Banos{{ else }}Bathrooms{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="he-baths">
+          <option value="1">1</option>
+          <option value="2" selected>2</option>
+          <option value="3">3+</option>
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Year built + Condition -->
+  <div class="mc-row mc-row--2">
+    <div class="mc-field">
+      <label class="mc-label" for="he-year">
+        {{ if $isFr }}Annee de construction{{ else if $isAr }}سنة البناء{{ else if $isEs }}Ano de construccion{{ else }}Year built{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="he-year">
+          {{ if $isFr }}
+            <option value="2020">2020 ou plus recent</option>
+            <option value="2010">2010 - 2019</option>
+            <option value="2000">2000 - 2009</option>
+            <option value="1990" selected>1990 - 1999</option>
+            <option value="1980">1980 - 1989</option>
+            <option value="1970">1970 - 1979</option>
+            <option value="1960">Avant 1970</option>
+          {{ else if $isAr }}
+            <option value="2020">2020 او احدث</option>
+            <option value="2010">2010 - 2019</option>
+            <option value="2000">2000 - 2009</option>
+            <option value="1990" selected>1990 - 1999</option>
+            <option value="1980">1980 - 1989</option>
+            <option value="1970">1970 - 1979</option>
+            <option value="1960">قبل 1970</option>
+          {{ else if $isEs }}
+            <option value="2020">2020 o mas reciente</option>
+            <option value="2010">2010 - 2019</option>
+            <option value="2000">2000 - 2009</option>
+            <option value="1990" selected>1990 - 1999</option>
+            <option value="1980">1980 - 1989</option>
+            <option value="1970">1970 - 1979</option>
+            <option value="1960">Antes de 1970</option>
+          {{ else }}
+            <option value="2020">2020 or newer</option>
+            <option value="2010">2010 - 2019</option>
+            <option value="2000">2000 - 2009</option>
+            <option value="1990" selected>1990 - 1999</option>
+            <option value="1980">1980 - 1989</option>
+            <option value="1970">1970 - 1979</option>
+            <option value="1960">Before 1970</option>
+          {{ end }}
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+
+    <div class="mc-field">
+      <label class="mc-label" for="he-condition">
+        {{ if $isFr }}Etat general{{ else if $isAr }}الحالة العامة{{ else if $isEs }}Estado general{{ else }}Overall condition{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="he-condition">
+          {{ if $isFr }}
+            <option value="new-reno">Neuf / Recemment renove</option>
+            <option value="good">Bon etat (cuisine / sdb mises a jour)</option>
+            <option value="average" selected>Etat moyen (finitions d'origine)</option>
+            <option value="needs-work">A renover (travaux importants requis)</option>
+          {{ else if $isAr }}
+            <option value="new-reno">جديد / مجدد حديثا</option>
+            <option value="good">حالة جيدة (مطبخ وحمام محدثان)</option>
+            <option value="average" selected>حالة متوسطة (تشطيبات اصلية)</option>
+            <option value="needs-work">يحتاج تجديدا (اعمال كبيرة مطلوبة)</option>
+          {{ else if $isEs }}
+            <option value="new-reno">Nuevo / Recientemente renovado</option>
+            <option value="good">Buen estado (cocina y banos actualizados)</option>
+            <option value="average" selected>Estado promedio (acabados originales)</option>
+            <option value="needs-work">A renovar (trabajos importantes requeridos)</option>
+          {{ else }}
+            <option value="new-reno">New / Recently renovated</option>
+            <option value="good">Good condition (updated kitchen / bathrooms)</option>
+            <option value="average" selected>Average condition (original finishes)</option>
+            <option value="needs-work">Needs work (major renovations required)</option>
+          {{ end }}
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Parking + Basement -->
+  <div class="mc-row mc-row--2">
+    <div class="mc-field">
+      <label class="mc-label" for="he-parking">
+        {{ if $isFr }}Stationnement{{ else if $isAr }}موقف السيارات{{ else if $isEs }}Estacionamiento{{ else }}Parking{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="he-parking">
+          {{ if $isFr }}
+            <option value="none">Aucun</option>
+            <option value="exterior" selected>Exterieur / Rue</option>
+            <option value="garage-1">Garage 1 voiture</option>
+            <option value="garage-2">Garage 2 voitures</option>
+          {{ else if $isAr }}
+            <option value="none">لا يوجد</option>
+            <option value="exterior" selected>خارجي / شارع</option>
+            <option value="garage-1">جراج لسيارة واحدة</option>
+            <option value="garage-2">جراج لسيارتين</option>
+          {{ else if $isEs }}
+            <option value="none">Ninguno</option>
+            <option value="exterior" selected>Exterior / Calle</option>
+            <option value="garage-1">Garaje 1 auto</option>
+            <option value="garage-2">Garaje 2 autos</option>
+          {{ else }}
+            <option value="none">None</option>
+            <option value="exterior" selected>Exterior / Street</option>
+            <option value="garage-1">1-car garage</option>
+            <option value="garage-2">2-car garage</option>
+          {{ end }}
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+
+    <div class="mc-field">
+      <label class="mc-label" for="he-basement">
+        {{ if $isFr }}Sous-sol{{ else if $isAr }}الطابق السفلي{{ else if $isEs }}Sotano{{ else }}Basement{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="he-basement">
+          {{ if $isFr }}
+            <option value="na" selected>Sans objet (condo / pas de sous-sol)</option>
+            <option value="unfinished">Non amenage</option>
+            <option value="finished">Amenage</option>
+          {{ else if $isAr }}
+            <option value="na" selected>لا ينطبق (كوندو / بدون طابق سفلي)</option>
+            <option value="unfinished">غير مشطب</option>
+            <option value="finished">مشطب</option>
+          {{ else if $isEs }}
+            <option value="na" selected>No aplica (condo / sin sotano)</option>
+            <option value="unfinished">Sin terminar</option>
+            <option value="finished">Terminado</option>
+          {{ else }}
+            <option value="na" selected>Not applicable (condo / no basement)</option>
+            <option value="unfinished">Unfinished</option>
+            <option value="finished">Finished</option>
+          {{ end }}
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="mc-actions">
+    <button class="btn btn-primary mc-btn-calc" id="he-calculate" type="button">
+      {{ if $isFr }}Obtenir mon estimation{{ else if $isAr }}الحصول على تقديري{{ else if $isEs }}Obtener mi estimacion{{ else }}Get my estimate{{ end }}
+    </button>
+  </div>
+
+  <div class="mc-results" id="he-results" aria-live="polite">
+    <div class="mc-results__divider"></div>
+
+    <div class="mc-headline-results">
+      <div class="mc-headline-block mc-headline-block--payment" style="grid-column:1/-1">
+        <span class="mc-headline-block__label">
+          {{ if $isFr }}Valeur marchande estimee{{ else if $isAr }}القيمة السوقية المقدرة{{ else if $isEs }}Valor de mercado estimado{{ else }}Estimated Market Value{{ end }}
+        </span>
+        <span class="mc-headline-block__value mc-headline-block__value--payment" id="he-range">-</span>
+        <span class="mc-headline-block__freq">
+          {{ if $isFr }}Valeur mediane estimee :{{ else if $isAr }}القيمة الوسطى المقدرة:{{ else if $isEs }}Valor mediano estimado:{{ else }}Estimated median value:{{ end }}
+          <strong id="he-median">-</strong>
+        </span>
+      </div>
+    </div>
+
+    <h3 class="mc-results__title">
+      {{ if $isFr }}Facteurs pris en compte{{ else if $isAr }}العوامل المأخوذة بعين الاعتبار{{ else if $isEs }}Factores considerados{{ else }}Factors Considered{{ end }}
+    </h3>
+
+    <div class="mc-table-wrap">
+      <table class="mc-table">
+        <thead>
+          <tr>
+            <th class="mc-th mc-th--category">
+              {{ if $isFr }}Facteur{{ else if $isAr }}العامل{{ else if $isEs }}Factor{{ else }}Factor{{ end }}
+            </th>
+            <th class="mc-th mc-th--col">
+              {{ if $isFr }}Detail{{ else if $isAr }}التفاصيل{{ else if $isEs }}Detalle{{ else }}Detail{{ end }}
+            </th>
+            <th class="mc-th mc-th--col">
+              {{ if $isFr }}Ajustement{{ else if $isAr }}التعديل{{ else if $isEs }}Ajuste{{ else }}Adjustment{{ end }}
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="mc-tr">
+            <td class="mc-td mc-td--label">
+              {{ if $isFr }}Valeur de base (secteur + superficie){{ else if $isAr }}القيمة الأساسية (منطقة + مساحة){{ else if $isEs }}Valor base (sector + superficie){{ else }}Base value (sector + area){{ end }}
+            </td>
+            <td class="mc-td mc-td--val" id="he-base-detail">-</td>
+            <td class="mc-td mc-td--val" id="he-base-val">-</td>
+          </tr>
+          <tr class="mc-tr mc-tr--highlight">
+            <td class="mc-td mc-td--label">
+              {{ if $isFr }}Type de propriete{{ else if $isAr }}نوع العقار{{ else if $isEs }}Tipo de propiedad{{ else }}Property type{{ end }}
+            </td>
+            <td class="mc-td mc-td--val" id="he-type-detail">-</td>
+            <td class="mc-td mc-td--val" id="he-type-impact">-</td>
+          </tr>
+          <tr class="mc-tr">
+            <td class="mc-td mc-td--label">
+              {{ if $isFr }}Chambres / Salles de bain{{ else if $isAr }}غرف النوم / الحمامات{{ else if $isEs }}Dormitorios / Banos{{ else }}Bedrooms / Bathrooms{{ end }}
+            </td>
+            <td class="mc-td mc-td--val" id="he-rooms-detail">-</td>
+            <td class="mc-td mc-td--val" id="he-rooms-impact">-</td>
+          </tr>
+          <tr class="mc-tr mc-tr--highlight">
+            <td class="mc-td mc-td--label">
+              {{ if $isFr }}Annee / Etat{{ else if $isAr }}السنة / الحالة{{ else if $isEs }}Ano / Estado{{ else }}Year / Condition{{ end }}
+            </td>
+            <td class="mc-td mc-td--val" id="he-age-detail">-</td>
+            <td class="mc-td mc-td--val" id="he-age-impact">-</td>
+          </tr>
+          <tr class="mc-tr">
+            <td class="mc-td mc-td--label">
+              {{ if $isFr }}Stationnement / Sous-sol{{ else if $isAr }}الموقف / الطابق السفلي{{ else if $isEs }}Estacionamiento / Sotano{{ else }}Parking / Basement{{ end }}
+            </td>
+            <td class="mc-td mc-td--val" id="he-extras-detail">-</td>
+            <td class="mc-td mc-td--val" id="he-extras-impact">-</td>
+          </tr>
+          <tr class="mc-tr mc-tr--total">
+            <td class="mc-td mc-td--label mc-td--total-label">
+              {{ if $isFr }}Estimation mediane{{ else if $isAr }}التقدير الوسطى{{ else if $isEs }}Estimacion mediana{{ else }}Median estimate{{ end }}
+            </td>
+            <td class="mc-td mc-td--val mc-td--total" colspan="2" id="he-total">-</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="mc-results__disclaimer">
+      {{ if $isFr }}
+        * Estimation preliminaire basee sur les donnees du marche immobilier quebecois 2024-2025. Cette estimation n'est pas une evaluation officielle et ne remplace pas une analyse comparative de marche (ACM). Les valeurs reelles peuvent varier selon les caracteristiques specifiques de la propriete, les comparables recents et les conditions du marche. Contactez Georges Matar pour une evaluation precise et gratuite. Pour les plex, entrer la superficie totale du batiment.
+      {{ else if $isAr }}
+        * تقدير اولي استنادا الى بيانات سوق العقارات في كيبيك 2024-2025. هذا التقدير ليس تقييما رسميا ولا يحل محل تحليل السوق المقارن. قد تختلف القيم الفعلية وفقا للخصائص المحددة للعقار والمقارنات الحديثة وظروف السوق. تواصل مع جورج ماتار للحصول على تقييم دقيق ومجاني. بالنسبة للبلكس، ادخل المساحة الاجمالية للمبنى.
+      {{ else if $isEs }}
+        * Estimacion preliminar basada en datos del mercado inmobiliario de Quebec 2024-2025. Esta estimacion no es una tasacion oficial y no reemplaza un analisis comparativo de mercado. Los valores reales pueden variar segun las caracteristicas especificas de la propiedad, comparables recientes y condiciones del mercado. Contacte a Georges Matar para una evaluacion precisa y gratuita. Para plex, ingrese la superficie total del edificio.
+      {{ else }}
+        * Preliminary estimate based on 2024-2025 Quebec real estate market data. This estimate is not an official appraisal and does not replace a comparative market analysis (CMA). Actual values may vary based on the property's specific features, recent comparables, and market conditions. Contact Georges Matar for a precise, free evaluation. For plex properties, enter the total building area.
+      {{ end }}
+    </p>
+  </div>
+
+</div>
+
+<script>
+(function () {
+  var u    = window._toolsUtils;
+  var lang = document.documentElement.lang || 'en';
+
+  /* Base price per sq ft by sector (CAD, 2025, condo baseline) */
+  var BASE = {
+    'mtl-prestige':  700,
+    'mtl-centre':    490,
+    'mtl-est-nord':  380,
+    'laval':         390,
+    'rive-sud':      370,
+    'couronne-nord': 330
+  };
+
+  var TYPE_MULT = { 'condo': 1.00, 'semi': 1.08, 'detached': 1.18, 'plex': 1.20 };
+  var BED_MULT  = { '1': 0.92, '2': 1.00, '3': 1.08, '4': 1.16, '5': 1.24 };
+  var BATH_MULT = { '1': 0.95, '2': 1.00, '3': 1.06 };
+  var YEAR_MULT = { '2020': 1.18, '2010': 1.10, '2000': 1.04, '1990': 1.00, '1980': 0.96, '1970': 0.92, '1960': 0.88 };
+  var COND_MULT = { 'new-reno': 1.14, 'good': 1.06, 'average': 1.00, 'needs-work': 0.88 };
+  var PARK_MULT = { 'none': 0.97, 'exterior': 1.00, 'garage-1': 1.06, 'garage-2': 1.12 };
+  var BSMT_MULT = { 'na': 1.00, 'unfinished': 1.03, 'finished': 1.09 };
+
+  var SECTOR_LABELS = {
+    'mtl-prestige':  { fr: 'Mtl Prestige', en: 'Mtl Prestige', ar: 'مونتريال راقي', es: 'Mtl Prestigio' },
+    'mtl-centre':    { fr: 'Mtl Centre',   en: 'Mtl Centre',   ar: 'مونتريال وسط', es: 'Mtl Centro' },
+    'mtl-est-nord':  { fr: 'Mtl Est/Nord', en: 'Mtl East/North', ar: 'مونتريال شرق/شمال', es: 'Mtl Este/Norte' },
+    'laval':         { fr: 'Laval',        en: 'Laval',        ar: 'لافال',         es: 'Laval' },
+    'rive-sud':      { fr: 'Rive-Sud',     en: 'South Shore',  ar: 'الضفة الجنوبية', es: 'Rive-Sud' },
+    'couronne-nord': { fr: 'Crne Nord',    en: 'North Shore',  ar: 'الضفة الشمالية', es: 'Crne Nord' }
+  };
+
+  var TYPE_LABELS = {
+    'condo':    { fr: 'Condo/Appart.',  en: 'Condo/Apt.',    ar: 'شقة/كوندو',   es: 'Condo/Apto.' },
+    'semi':     { fr: 'Jumele',         en: 'Semi-detached', ar: 'شبه منفصل',   es: 'Semiadosado' },
+    'detached': { fr: 'Unifamilial',    en: 'Detached',      ar: 'منزل مستقل',  es: 'Unifamiliar' },
+    'plex':     { fr: 'Plex',           en: 'Plex',          ar: 'بلكس',         es: 'Plex' }
+  };
+
+  var COND_LABELS = {
+    'new-reno':   { fr: 'Neuf/Renove',  en: 'New/Renovated', ar: 'جديد/مجدد',    es: 'Nuevo/Renovado' },
+    'good':       { fr: 'Bon etat',     en: 'Good',          ar: 'جيد',           es: 'Buen estado' },
+    'average':    { fr: 'Moyen',        en: 'Average',       ar: 'متوسط',         es: 'Promedio' },
+    'needs-work': { fr: 'A renover',    en: 'Needs work',    ar: 'يحتاج تجديد',   es: 'A renovar' }
+  };
+
+  var YEAR_RANGE_LABELS = {
+    '2020': { fr: '2020 ou +', en: '2020+',        ar: '2020 او اكثر', es: '2020+' },
+    '2010': { fr: '2010-2019', en: '2010-2019',    ar: '2010-2019',    es: '2010-2019' },
+    '2000': { fr: '2000-2009', en: '2000-2009',    ar: '2000-2009',    es: '2000-2009' },
+    '1990': { fr: '1990-1999', en: '1990-1999',    ar: '1990-1999',    es: '1990-1999' },
+    '1980': { fr: '1980-1989', en: '1980-1989',    ar: '1980-1989',    es: '1980-1989' },
+    '1970': { fr: '1970-1979', en: '1970-1979',    ar: '1970-1979',    es: '1970-1979' },
+    '1960': { fr: 'Avant 1970', en: 'Before 1970', ar: 'قبل 1970',     es: 'Antes 1970' }
+  };
+
+  var PARK_LABELS = {
+    'none':     { fr: 'Aucun',      en: 'None',         ar: 'لا يوجد',   es: 'Ninguno' },
+    'exterior': { fr: 'Exterieur',  en: 'Exterior',     ar: 'خارجي',     es: 'Exterior' },
+    'garage-1': { fr: 'Garage x1',  en: '1-car garage', ar: 'جراج x1',  es: 'Garaje x1' },
+    'garage-2': { fr: 'Garage x2',  en: '2-car garage', ar: 'جراج x2',  es: 'Garaje x2' }
+  };
+
+  var BSMT_LABELS = {
+    'na':         { fr: 'S/O',          en: 'N/A',        ar: 'لا ينطبق', es: 'N/A' },
+    'unfinished': { fr: 'Non amenage',  en: 'Unfinished', ar: 'غير مشطب', es: 'Sin terminar' },
+    'finished':   { fr: 'Amenage',      en: 'Finished',   ar: 'مشطب',     es: 'Terminado' }
+  };
+
+  function lbl(map, key) {
+    var entry = map[key];
+    if (!entry) return key;
+    return entry[lang] || entry['en'] || key;
+  }
+
+  function pct(mult) {
+    var diff = Math.round((mult - 1) * 100);
+    return diff === 0 ? '-' : (diff > 0 ? '+' : '') + diff + '%';
+  }
+
+  function sqftUnit() {
+    return lang === 'en' ? 'sq ft' : 'pi²';
+  }
+
+  function set(id, val) { document.getElementById(id).textContent = val; }
+
+  document.getElementById('he-calculate').addEventListener('click', function () {
+    var areaEl = document.getElementById('he-area');
+    var area   = u.parseMoney(areaEl.value);
+    if (area <= 0) {
+      areaEl.style.outline = '2px solid var(--red)';
+      areaEl.focus();
+      setTimeout(function () { areaEl.style.outline = ''; }, 2000);
+      return;
+    }
+
+    var sector    = document.getElementById('he-sector').value;
+    var propType  = document.getElementById('he-type').value;
+    var beds      = document.getElementById('he-beds').value;
+    var baths     = document.getElementById('he-baths').value;
+    var year      = document.getElementById('he-year').value;
+    var condition = document.getElementById('he-condition').value;
+    var parking   = document.getElementById('he-parking').value;
+    var basement  = document.getElementById('he-basement').value;
+
+    var basePpSqft = BASE[sector]   || 400;
+    var typeMult   = TYPE_MULT[propType] || 1;
+    var bedMult    = BED_MULT[beds]      || 1;
+    var bathMult   = BATH_MULT[baths]    || 1;
+    var yearMult   = YEAR_MULT[year]     || 1;
+    var condMult   = COND_MULT[condition]|| 1;
+    var parkMult   = PARK_MULT[parking]  || 1;
+    var bsmtMult   = BSMT_MULT[basement] || 1;
+
+    var roomsMult  = bedMult * bathMult;
+    var ageMult    = yearMult * condMult;
+    var extrasMult = parkMult * bsmtMult;
+
+    var baseValue = basePpSqft * area;
+    var median    = baseValue * typeMult * roomsMult * ageMult * extrasMult;
+    var low       = Math.round(median * 0.92 / 1000) * 1000;
+    var high      = Math.round(median * 1.08 / 1000) * 1000;
+    median        = Math.round(median / 1000) * 1000;
+
+    var sqft = sqftUnit();
+    var bedsLabel  = beds === '5' ? '5+' : beds;
+    var bathsLabel = baths === '3' ? '3+' : baths;
+
+    var roomsText;
+    if (lang === 'fr')     roomsText = bedsLabel + ' ch. / ' + bathsLabel + ' sdb.';
+    else if (lang === 'ar') roomsText = bedsLabel + ' غرف / ' + bathsLabel + ' حمام';
+    else if (lang === 'es') roomsText = bedsLabel + ' hab. / ' + bathsLabel + ' ba.';
+    else                    roomsText = bedsLabel + ' bd / ' + bathsLabel + ' ba';
+
+    set('he-range',         '$' + low.toLocaleString('en-CA') + ' - $' + high.toLocaleString('en-CA'));
+    set('he-median',        u.fmt(median));
+
+    set('he-base-detail',   lbl(SECTOR_LABELS, sector) + ', ' + area.toLocaleString('en-CA') + ' ' + sqft);
+    set('he-base-val',      u.fmt(baseValue));
+
+    set('he-type-detail',   lbl(TYPE_LABELS, propType));
+    set('he-type-impact',   pct(typeMult));
+
+    set('he-rooms-detail',  roomsText);
+    set('he-rooms-impact',  pct(roomsMult));
+
+    set('he-age-detail',    lbl(YEAR_RANGE_LABELS, year) + ' / ' + lbl(COND_LABELS, condition));
+    set('he-age-impact',    pct(ageMult));
+
+    set('he-extras-detail', lbl(PARK_LABELS, parking) + ' / ' + lbl(BSMT_LABELS, basement));
+    set('he-extras-impact', pct(extrasMult));
+
+    set('he-total',         u.fmt(median));
+
+    var res = document.getElementById('he-results');
+    res.classList.add('mc-results--visible');
+    res.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  });
+})();
+</script>

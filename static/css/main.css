@@ -2335,7 +2335,7 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
 }
 .calc-shortcuts__grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 14px;
 }
 .calc-card {
@@ -2412,14 +2412,9 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
   color: #FF1200;
   transform: translateX(3px);
 }
-@media (max-width: 1024px) {
-  .calc-shortcuts__grid { grid-template-columns: repeat(3, 1fr); }
-  .calc-shortcuts__grid .calc-card:last-child:nth-child(3n+1) { grid-column: span 3; max-width: 340px; margin: 0 auto; }
-}
 @media (max-width: 640px) {
   .calc-shortcuts { padding: 56px 0 64px; }
   .calc-shortcuts__grid { grid-template-columns: 1fr 1fr; gap: 12px; }
-  .calc-shortcuts__grid .calc-card:last-child:nth-child(odd) { grid-column: span 2; max-width: 100%; }
   .calc-card { padding: 22px 18px 20px; }
   .calc-card__icon { width: 44px; height: 44px; }
 }

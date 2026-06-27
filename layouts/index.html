@@ -96,7 +96,7 @@
         {{ if $isFr }}Outils gratuits{{ else if $isAr }}أدوات مجانية{{ else if $isEs }}Herramientas gratuitas{{ else }}Free Tools{{ end }}
       </span>
       <h2 class="calc-shortcuts__title">
-        {{ if $isFr }}5 calculateurs pour votre projet{{ else if $isAr }}5 حاسبات لمشروعك{{ else if $isEs }}5 calculadoras para su proyecto{{ else }}5 Calculators for Your Project{{ end }}
+        {{ if $isFr }}6 calculateurs pour votre projet{{ else if $isAr }}6 حاسبات لمشروعك{{ else if $isEs }}6 calculadoras para su proyecto{{ else }}6 Calculators for Your Project{{ end }}
       </h2>
     </div>
     <div class="calc-shortcuts__grid reveal">
@@ -152,6 +152,17 @@
         <div class="calc-card__body">
           <span class="calc-card__name">{{ if $isFr }}Loc. vs Achat{{ else if $isAr }}استئجار أم شراء{{ else if $isEs }}Alquilar vs. Comprar{{ else }}Rent vs. Buy{{ end }}</span>
           <span class="calc-card__desc">{{ if $isFr }}Quel choix est le plus rentable?{{ else if $isAr }}أيهما أكثر ربحية؟{{ else if $isEs }}¿Qué opción es mejor?{{ else }}Which option wins long-term?{{ end }}</span>
+        </div>
+        <svg class="calc-card__arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+
+      <a href="#tools" class="calc-card" data-tool="tool-home-estimate">
+        <div class="calc-card__icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/><line x1="9" y1="9" x2="15" y2="9"/></svg>
+        </div>
+        <div class="calc-card__body">
+          <span class="calc-card__name">{{ if $isFr }}Estimation{{ else if $isAr }}تقدير العقار{{ else if $isEs }}Estimacion{{ else }}Home Estimate{{ end }}</span>
+          <span class="calc-card__desc">{{ if $isFr }}Valeur estimee de votre bien{{ else if $isAr }}القيمة السوقية المقدرة{{ else if $isEs }}Valor estimado de su propiedad{{ else }}Estimated market value{{ end }}</span>
         </div>
         <svg class="calc-card__arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
       </a>
