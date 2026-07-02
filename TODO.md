@@ -9,22 +9,6 @@ Quand l'utilisateur ecrit "fais todo":
 5. S'ARRETER et demander: "Veux-tu passer au point suivant?"
 Ne jamais executer plusieurs points d'un coup sans confirmation.
 
-## Point 1 - Emoji favicon dans l'onglet navigateur
-Ajouter le meme emoji que RE/MAX Quebec dans l'onglet du navigateur (favicon emoji visible dans le browser tab).
-**Status:** pending
-
-## Point 2 - Stats bar: retirer le label "Formation academique"
-Au lieu d'afficher "Ingenieur (PhD)" + "Formation academique" en dessous, afficher uniquement "Ingenieur (PhD)" sans label.
-**Status:** pending
-
-## Point 3 - Tagline hero: proposer 10 alternatives
-Proposer 10 alternatives a "Votre guide de confiance sur le marche immobilier de la grande region de Montreal" pour que l'utilisateur puisse choisir.
-**Status:** pending
-
-## Point 4 - Calculateur Loc. vs Achat: valeurs par defaut realistes
-Ajouter des valeurs preset basees sur le marche immobilier de Montreal/Laval pour aider la simulation (prix moyen propriete, loyer moyen, taux hypothecaire actuel, etc.).
-**Status:** pending
-
-## Point 5 - Capacite d'emprunt: expliquer la methode GDS/TDS
-Ajouter une courte explication dans le calculateur pour dire quelle methode est utilisee (GDS, TDS, ou autre) et comment ca fonctionne.
+## Point 7 - Outil Alerte immobiliere
+Ajouter une page ou section "Alerte immobiliere" avec un formulaire permettant aux acheteurs d'etre avises par courriel des nouvelles inscriptions selon leurs criteres. Service gratuit et confidentiel. Inspirer du texte suivant: "Soyez informes des nouvelles inscriptions de residences a vendre. Notre alerte immobiliere offre la possibilite aux acheteurs d'etre avises rapidement des nouvelles inscriptions sur le marche selon vos criteres prealablement etablis. Les resultats vous seront achemines par courriel."
 **Status:** pending

@@ -11,36 +11,36 @@
 <section class="section" style="padding:64px 0;background:var(--off-white)">
   <div class="container">
     <div class="section-header reveal" style="margin-bottom:40px;">
-      <span class="eyebrow">{{ if $isFr }}Votre parcours commence ici{{ else if $isAr }}رحلتك تبدأ هنا{{ else if $isEs }}Su viaje comienza aquí{{ else }}Your Journey Starts Here{{ end }}</span>
-      <h2>{{ if $isFr }}Comment puis-je vous aider?{{ else if $isAr }}كيف يمكنني مساعدتك؟{{ else if $isEs }}¿Cómo puedo ayudarle?{{ else }}How Can I Help You?{{ end }}</h2>
+      <span class="eyebrow">{{ if $isFr }}Deux chemins, un seul interlocuteur{{ else if $isAr }}طريقان، وسيط واحد{{ else if $isEs }}Dos caminos, un solo interlocutor{{ else }}Two Paths, One Point of Contact{{ end }}</span>
+      <h2>{{ if $isFr }}Où en êtes-vous dans votre projet?{{ else if $isAr }}أين أنتم في مشروعكم؟{{ else if $isEs }}¿En qué etapa está?{{ else }}Where Are You in Your Journey?{{ end }}</h2>
     </div>
     <div class="journey-split reveal">
 
       <div class="journey-split__panel journey-split__panel--buyer">
         <span class="journey-split__eyebrow">{{ if $isFr }}Vous achetez{{ else if $isAr }}أنت تشتري{{ else if $isEs }}Usted compra{{ else }}You're Buying{{ end }}</span>
         <h3 class="journey-split__title">
-          {{ if $isFr }}Trouvez la propriété parfaite{{ else if $isAr }}اعثر على العقار المثالي{{ else if $isEs }}Encuentre la propiedad perfecta{{ else }}Find Your Perfect Property{{ end }}
+          {{ if $isFr }}Achetez avec les yeux ouverts{{ else if $isAr }}اشترِ وعيناك مفتوحتان على الحقائق{{ else if $isEs }}Compre con los ojos bien abiertos{{ else }}Buy With Your Eyes Open{{ end }}
         </h3>
         <p class="journey-split__text">
-          {{ if $isFr }}De la recherche à la remise des clés, un accompagnement expert à chaque étape du processus d'achat.{{ else if $isAr }}من البحث حتى استلام المفاتيح، مرافقة خبيرة في كل خطوة من عملية الشراء.{{ else if $isEs }}Desde la búsqueda hasta las llaves, acompañamiento experto en cada paso del proceso de compra.{{ else }}From search to keys in hand, expert guidance at every step of the buying process.{{ end }}
+          {{ if $isFr }}Je regarde les chiffres avant les photos. Vous saurez toujours ce qu'une propriété vaut vraiment avant de faire une offre.{{ else if $isAr }}أنظر إلى الأرقام قبل الصور. ستعرف دائماً القيمة الحقيقية للعقار قبل تقديم أي عرض.{{ else if $isEs }}Miro los números antes que las fotos. Sabrá siempre cuánto vale realmente una propiedad antes de hacer una oferta.{{ else }}I look at the numbers before the photos. You'll always know what a property is really worth before you make an offer.{{ end }}
         </p>
         <div class="journey-split__features">
           {{ if $isFr }}
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Analyse du marché et comparables</div>
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Calculateurs hypothécaires gratuits</div>
-          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Négociation en votre faveur</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Un négociateur dans votre coin, pas dans les deux</div>
           {{ else if $isAr }}
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>تحليل السوق والمقارنات</div>
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>حاسبات الرهن العقاري المجانية</div>
-          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>تفاوض لصالحك</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>مفاوض في صفك أنت، لا في الصفين</div>
           {{ else if $isEs }}
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Análisis de mercado y comparables</div>
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Calculadoras hipotecarias gratuitas</div>
-          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Negociación a su favor</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Un negociador de su lado, no de los dos</div>
           {{ else }}
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Market analysis and comparables</div>
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Free mortgage calculators</div>
-          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Negotiation in your favour</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>A negotiator in your corner, not both</div>
           {{ end }}
         </div>
         <a href="{{ $base }}/buyer/" class="btn btn-outline" style="align-self:flex-start;margin-top:8px;">
@@ -52,10 +52,10 @@
       <div class="journey-split__panel journey-split__panel--seller">
         <span class="journey-split__eyebrow">{{ if $isFr }}Vous vendez{{ else if $isAr }}أنت تبيع{{ else if $isEs }}Usted vende{{ else }}You're Selling{{ end }}</span>
         <h3 class="journey-split__title">
-          {{ if $isFr }}Vendez au meilleur prix{{ else if $isAr }}بع بأفضل سعر{{ else if $isEs }}Venda al mejor precio{{ else }}Sell for Maximum Value{{ end }}
+          {{ if $isFr }}Vendez au bon prix, pas au premier prix{{ else if $isAr }}بِع بالسعر الصحيح، لا بأول سعر{{ else if $isEs }}Venda al precio correcto, no al primer precio{{ else }}Sell at the Right Price, Not the First Price{{ end }}
         </h3>
         <p class="journey-split__text">
-          {{ if $isFr }}Stratégie de prix rigoureuse, mise en marché professionnelle et négociation experte pour maximiser votre résultat.{{ else if $isAr }}استراتيجية تسعير صارمة، تسويق احترافي وتفاوض خبير لتعظيم نتيجتك.{{ else if $isEs }}Estrategia de precios rigurosa, marketing profesional y negociación experta para maximizar su resultado.{{ else }}Rigorous pricing strategy, professional marketing, and expert negotiation to maximize your result.{{ end }}
+          {{ if $isFr }}Un prix fixé par les données, une mise en marché soignée, et une négociation qui ne cède rien qu'il ne faille.{{ else if $isAr }}سعر تحدده البيانات، تسويق معتنى به، وتفاوض لا يتنازل عن شيء دون داعٍ.{{ else if $isEs }}Un precio fijado por los datos, un marketing cuidado, y una negociación que no cede nada innecesariamente.{{ else }}A price set by the data, marketing done with care, and a negotiation that doesn't give up an inch it doesn't have to.{{ end }}
         </p>
         <div class="journey-split__features">
           {{ if $isFr }}
@@ -240,14 +240,14 @@
           <div class="highlight-item">Premiers acheteurs</div>
           <div class="highlight-item">Propriétés d'investissement</div>
           <div class="highlight-item">Service trilingue (FR/EN/AR)</div>
-          <div class="highlight-item">Analyse de marché rigoureuse</div>
+          <div class="highlight-item">Analyse basée sur les données</div>
           {{ else if $isAr }}
           <div class="highlight-item">متخصص في مونتريال، لافال واللورانتيد</div>
           <div class="highlight-item">سكني</div>
           <div class="highlight-item">المشترون الأوائل</div>
           <div class="highlight-item">عقارات استثمارية</div>
           <div class="highlight-item">خدمة ثلاثية اللغات (ع/ف/إ)</div>
-          <div class="highlight-item">تحليل السوق بدقة</div>
+          <div class="highlight-item">تحليل قائم على البيانات</div>
           {{ else if $isEs }}
           <div class="highlight-item">Especialista Montréal, Laval y Laurentides</div>
           <div class="highlight-item">Residencial</div>
@@ -452,13 +452,13 @@
       <h2>{{ if $isFr }}Conseils immobiliers{{ else if $isAr }}نصائح عقارية{{ else if $isEs }}Perspectivas inmobiliarias{{ else }}Real Estate Insights{{ end }}</h2>
       <p class="subtitle">
         {{ if $isFr }}
-          Actualités du marché, conseils d'achat et analyses d'experts pour Montréal, Laval et les Laurentides.
+          Le marché de Montréal, Laval et des Laurentides, expliqué sans jargon.
         {{ else if $isAr }}
-          تحديثات السوق، نصائح الشراء، وتحليلات الخبراء لأسواق مونتريال، لافال واللورانتيد.
+          سوق مونتريال ولافال ومنطقة اللورانتيد، مشروح بلا تعقيد.
         {{ else if $isEs }}
-          Actualizaciones del mercado, consejos de compra y análisis experto para Montréal, Laval y los Laurentides.
+          El mercado de Montréal, Laval y los Laurentides, explicado sin jerga.
         {{ else }}
-          Market updates, buying tips, and expert analysis for the Montreal, Laval &amp; Laurentians market.
+          The Montreal, Laval, and Laurentians market, explained without the jargon.
         {{ end }}
       </p>
     </div>

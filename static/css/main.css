@@ -355,14 +355,30 @@ p:last-child { margin-bottom: 0; }
   text-transform: uppercase;
   margin-bottom: 28px;
 }
-.hero__tagline {
-  font-size: clamp(1.05rem, 1.8vw, 1.25rem);
-  color: rgba(255,255,255,.82);
-  margin-bottom: 44px;
-  font-family: 'Playfair Display', serif;
-  font-style: italic;
-  line-height: 1.6;
-  max-width: 520px;
+.hero__quicklinks {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-bottom: 40px;
+}
+.hero__quicklink {
+  font-size: .92rem;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: underline;
+  text-decoration-color: var(--red);
+  text-underline-offset: 4px;
+  cursor: pointer;
+  transition: color .2s;
+}
+.hero__quicklink:hover { color: var(--red); }
+.hero__quicklink-divider {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: rgba(255,255,255,.4);
+  flex-shrink: 0;
 }
 .hero__actions { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 56px; }
 .hero__trust {
@@ -446,7 +462,7 @@ p:last-child { margin-bottom: 0; }
   .hero__photo-card { display: none; }
   .hero__actions { justify-content: center; }
   .hero__trust { justify-content: center; }
-  .hero__tagline { margin: 0 auto 44px; }
+  .hero__quicklinks { justify-content: center; margin: 0 auto 40px; }
 }
 
 /* ── Services ── */
@@ -1755,7 +1771,7 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
   .hero { min-height: 100svh; padding-top: 72px; }
   .hero__inner { padding: 48px 0 64px; gap: 28px; }
   .hero__name { font-size: 2.4rem; line-height: 1.1; }
-  .hero__tagline { font-size: .95rem; margin: 0 auto 36px; }
+  .hero__quicklinks { font-size: .85rem; margin: 0 auto 36px; }
   .hero__eyebrow { font-size: .68rem; padding: 6px 14px; margin-bottom: 20px; }
   .hero__actions { flex-direction: column; align-items: stretch; gap: 12px; }
   .hero__actions .btn { width: 100%; justify-content: center; }
