@@ -1,36 +1,36 @@
 ---
-title: "Vos renovations n'ajouteront pas ce que vous pensez a la valeur de votre maison"
+title: "Vos rénovations n'ajouteront pas ce que vous pensez à la valeur de votre maison"
 date: 2025-05-19
 category: "Guide du vendeur"
-description: "Les vendeurs surestiment systematiquement les retours sur renovation. Voici l'analyse honnete avant de toucher quoi que ce soit."
+description: "Les vendeurs surestiment systématiquement les retours sur rénovation. Voici l'analyse honnête avant de toucher quoi que ce soit."
 image: "images/articles/renovations-dont-add-value/featured.jpg"
 draft: false
 ---
 
-Avant d'inscrire, beaucoup de vendeurs font une decision qui leur coute de l'argent : ils renovent. Non pas parce que la propriete en a besoin pour etre vendable, mais parce qu'ils croient que la renovation rapportera plus qu'elle ne coute. Cette croyance est frequemment erronee.
+Avant d'inscrire, beaucoup de vendeurs font une décision qui leur coûte de l'argent : ils rénovent. Non pas parce que la propriété en a besoin pour être vendable, mais parce qu'ils croient que la rénovation rapportera plus qu'elle ne coûte. Cette croyance est fréquemment erronée.
 
-## Le probleme fondamental avec le ROI pre-vente
+## Le problème fondamental avec le ROI pré-vente
 
-Quand vous renovez puis vendez, vous demandez au marche de payer deux choses : la valeur objective que la renovation ajoute, et la prime que votre gout commande. Le marche paiera pour la premiere. Il ne paiera pas de maniere fiable pour la seconde.
+Quand vous rénovez puis vendez, vous demandez au marché de payer deux choses : la valeur objective que la rénovation ajoute, et la prime que votre goût commande. Le marché paiera pour la première. Il ne paiera pas de manière fiable pour la seconde.
 
-## Ce qui rapporte generalement bien
+## Ce qui rapporte généralement bien
 
-**La peinture.** Le retour sur investissement le plus eleve que vous pouvez faire. Cout bas, effet sur la perception des acheteurs significatif. Neutres : gris, blancs, beiges.
+**La peinture.** Le retour sur investissement le plus élevé que vous pouvez faire. Coût bas, effet sur la perception des acheteurs significatif. Neutres : gris, blancs, beiges.
 
-**Nettoyage et desencombrement professionnel.** Une maison propre et desencombree se photographie et se montre dramatiquement mieux.
+**Nettoyage et désencombrement professionnel.** Une maison propre et désencombrée se photographie et se montre dramatiquement mieux.
 
-**Reparations mineures.** Reparez ce qui est visiblement casse. Les robinets qui gouttent, les prises felees, les poignees de porte cassees coutent presque rien a reparer et signalent le soin.
+**Réparations mineures.** Réparez ce qui est visiblement cassé. Les robinets qui gouttent, les prises fêlées, les poignées de porte cassées coûtent presque rien à réparer et signalent le soin.
 
-**Amelioration de l'attrait exterieur.** Les premieres impressions se font avant que les acheteurs entrent. Amenagement soigne, porte d'entree repeinte, fenetres propres.
+**Amélioration de l'attrait extérieur.** Les premières impressions se font avant que les acheteurs entrent. Aménagement soigné, porte d'entrée repeinte, fenêtres propres.
 
-## Ce qui rapporte generalement mal
+## Ce qui rapporte généralement mal
 
-Renovations completes de cuisine, additions de salle de bain sans justification fonctionnelle, améliorations de luxe dans un marche a prix modere, piscines.
+Rénovations complètes de cuisine, additions de salle de bain sans justification fonctionnelle, améliorations de luxe dans un marché à prix modéré, piscines.
 
-## Valorisation vs renovation
+## Valorisation vs rénovation
 
-La valorisation retourne presque toujours mieux que la renovation avant une vente. Elle est temporaire, coute nettement moins, et traite la reponse emotionnelle de l'acheteur.
+La valorisation retourne presque toujours mieux que la rénovation avant une vente. Elle est temporaire, coûte nettement moins, et traite la réponse émotionnelle de l'acheteur.
 
 ---
 
-*Vous pensez a ce qu'il faut faire avant d'inscrire ? [Visitons votre propriete ensemble](/fr/#contact).*
+*Vous pensez à ce qu'il faut faire avant d'inscrire ? [Visitons votre propriété ensemble](/fr/#contact).*

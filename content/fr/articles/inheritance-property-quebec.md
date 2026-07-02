@@ -1,36 +1,36 @@
 ---
-title: "Heriter d'une propriete au Quebec : ce que les heritiers doivent savoir"
+title: "Hériter d'une propriété au Québec : ce que les héritiers doivent savoir"
 date: 2025-05-19
 category: "Immobilier 101"
-description: "Heriter d'un bien immobilier au Quebec declenche des decisions legales et financieres pour lesquelles la plupart des heritiers ne sont pas prepares."
+description: "Hériter d'un bien immobilier au Québec déclenche des décisions légales et financières pour lesquelles la plupart des héritiers ne sont pas préparés."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
 draft: true
 ---
 
-Heriter d'une propriete est presque toujours complique. Ca se produit dans un contexte de perte, implique souvent plusieurs heritiers avec des situations financieres differentes, et necessite de naviguer des processus juridiques.
+Hériter d'une propriété est presque toujours compliqué. Ça se produit dans un contexte de perte, implique souvent plusieurs héritiers avec des situations financières différentes, et nécessite de naviguer des processus juridiques.
 
-## Le processus de succession au Quebec
+## Le processus de succession au Québec
 
-Quand une personne deces au Quebec, sa succession est geree par un liquidateur designe dans le testament ou nomme par les heritiers. Pour l'immobilier, le liquidateur ne peut pas simplement transferer la propriete. Le transfert doit passer par le notaire.
+Quand une personne décède au Québec, sa succession est gérée par un liquidateur désigné dans le testament ou nommé par les héritiers. Pour l'immobilier, le liquidateur ne peut pas simplement transférer la propriété. Le transfert doit passer par le notaire.
 
 ## Les trois options
 
-**Vendre la propriete.** Le resultat le plus courant quand plusieurs heritiers sont impliques. Le produit de la vente est divise.
+**Vendre la propriété.** Le résultat le plus courant quand plusieurs héritiers sont impliqués. Le produit de la vente est divisé.
 
-**Conserver la propriete.** Un ou plusieurs heritiers choisissent de garder la propriete en rachetant les parts des co-heritiers.
+**Conserver la propriété.** Un ou plusieurs héritiers choisissent de garder la propriété en rachetant les parts des co-héritiers.
 
-**Continuer la copropriete.** Les heritiers decident de detenir la propriete ensemble pour une periode definie.
+**Continuer la copropriété.** Les héritiers décident de détenir la propriété ensemble pour une période définie.
 
-## Les considerations fiscales
+## Les considérations fiscales
 
-Au Canada, il n'y a pas de droits de succession. Mais il y a une disposition presumee au deces : le defunt est traite comme ayant vendu tous ses actifs a leur juste valeur marchande a la date du deces.
+Au Canada, il n'y a pas de droits de succession. Mais il y a une disposition présumée au décès : le défunt est traité comme ayant vendu tous ses actifs à leur juste valeur marchande à la date du décès.
 
-La base de cout pour l'heritier est majoree a la juste valeur marchande au moment de l'heritage. Si vous vendez plus tard la propriete heritee, votre gain en capital est calcule depuis la valeur a la date de l'heritage, pas ce que le defunt avait paye.
+La base de coût pour l'héritier est majorée à la juste valeur marchande au moment de l'héritage. Si vous vendez plus tard la propriété héritée, votre gain en capital est calculé depuis la valeur à la date de l'héritage, pas ce que le défunt avait payé.
 
 ## Que faire en premier
 
-Ne vous precipitez pas. Obtenez une evaluation independante. Comprenez les obligations de la succession. Consultez un notaire et un professionnel fiscal avant toute decision.
+Ne vous précipitez pas. Obtenez une évaluation indépendante. Comprenez les obligations de la succession. Consultez un notaire et un professionnel fiscal avant toute décision.
 
 ---
 
-*Vous gerez une situation de propriete heritee ? [Contactez-moi pour une consultation confidentielle](/fr/#contact).*
+*Vous gérez une situation de propriété héritée ? [Contactez-moi pour une consultation confidentielle](/fr/#contact).*

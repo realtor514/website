@@ -1,36 +1,36 @@
 ---
-title: "Le marche immobilier de Montreal va-t-il s'effondrer ? Une analyse honnete"
+title: "Le marché immobilier de Montréal va-t-il s'effondrer ? Une analyse honnête"
 date: 2025-05-19
-category: "Analyse de marche"
-description: "La question revient constamment. La reponse honnete est plus nuancee que ce que les optimistes ou les pessimistes veulent admettre."
+category: "Analyse de marché"
+description: "La question revient constamment. La réponse honnête est plus nuancée que ce que les optimistes ou les pessimistes veulent admettre."
 image: "images/articles/montreal-market-crash-analysis/featured.jpg"
 draft: true
 ---
 
-Chaque fois que les prix sont eleves, la question de l'effondrement refait surface. Separons ce qui est connaissable de ce qui est de la speculation deguisee en analyse.
+Chaque fois que les prix sont élevés, la question de l'effondrement refait surface. Séparons ce qui est connaissable de ce qui est de la spéculation déguisée en analyse.
 
-## Definition des termes
+## Définition des termes
 
-Un effondrement en immobilier residentiel est generalement compris comme une baisse rapide et significative des prix, typiquement 20 % et plus depuis le sommet. C'est different d'une correction modeste (5-15 %) ou d'une stagnation.
+Un effondrement en immobilier résidentiel est généralement compris comme une baisse rapide et significative des prix, typiquement 20 % et plus depuis le sommet. C'est différent d'une correction modeste (5-15 %) ou d'une stagnation.
 
-## Pourquoi les marches canadiens sont structurellement differents
+## Pourquoi les marchés canadiens sont structurellement différents
 
-**Hypotheques avec recours.** Les hypotheques canadiennes sont generalement a recours complet. Un emprunteur qui fait defaut ne peut pas simplement abandonner la propriete. Le preteur peut poursuivre les autres actifs. Cela cree des incitatifs nettement plus forts pour les emprunteurs de maintenir leurs paiements pendant les difficultes temporaires.
+**Hypothèques avec recours.** Les hypothèques canadiennes sont généralement à recours complet. Un emprunteur qui fait défaut ne peut pas simplement abandonner la propriété. Le prêteur peut poursuivre les autres actifs. Cela crée des incitatifs nettement plus forts pour les emprunteurs de maintenir leurs paiements pendant les difficultés temporaires.
 
-**Normes de pret conservatrices.** Le test de resistance assure que les emprunteurs ont demontre leur capacite a gerer leur dette a des taux superieurs a leur taux reel.
+**Normes de prêt conservatrices.** Le test de résistance assure que les emprunteurs ont démontré leur capacité à gérer leur dette à des taux supérieurs à leur taux réel.
 
-## Les facteurs specifiques a Montreal
+## Les facteurs spécifiques à Montréal
 
-Croissance de la population alimentee par l'immigration generant une demande continue. Accessibilite relative par rapport a Toronto et Vancouver. Base economique diversifiee. Presence universitaire et de recherche.
+Croissance de la population alimentée par l'immigration générant une demande continue. Accessibilité relative par rapport à Toronto et Vancouver. Base économique diversifiée. Présence universitaire et de recherche.
 
-## Ce qui pourrait causer un declin significatif
+## Ce qui pourrait causer un déclin significatif
 
-Une hausse brusque et soutenue du chomage dans les secteurs cles de Montreal. Des taux d'interet eleves prolonges comprimant severement l'accessibilite. Un changement de politique augmentant l'offre de logements plus rapidement que la demande.
+Une hausse brusque et soutenue du chômage dans les secteurs clés de Montréal. Des taux d'intérêt élevés prolongés comprimant sévèrement l'accessibilité. Un changement de politique augmentant l'offre de logements plus rapidement que la demande.
 
-## Ma position honnete
+## Ma position honnête
 
-Je ne crois pas qu'un effondrement de 30-40 % dans le marche residentiel de Montreal soit probable a moyen terme. Des periodes de stagnation des prix ou de correction moderee sont normales dans tout cycle de marche.
+Je ne crois pas qu'un effondrement de 30-40 % dans le marché résidentiel de Montréal soit probable à moyen terme. Des périodes de stagnation des prix ou de correction modérée sont normales dans tout cycle de marché.
 
 ---
 
-*Vous voulez discuter de la façon dont les conditions du marche affectent une decision d'achat ? [Travaillons-la ensemble](/fr/#contact).*
+*Vous voulez discuter de la façon dont les conditions du marché affectent une décision d'achat ? [Travaillons-la ensemble](/fr/#contact).*

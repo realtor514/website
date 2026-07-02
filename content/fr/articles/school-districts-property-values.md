@@ -1,31 +1,31 @@
 ---
-title: "Comment les secteurs scolaires influencent la valeur des proprietes a Montreal et Laval"
+title: "Comment les secteurs scolaires influencent la valeur des propriétés à Montréal et Laval"
 date: 2025-05-19
-category: "Analyse de marche"
-description: "Les zones scolaires sont l'une des variables les moins discutees et les plus impactantes en immobilier residentiel."
+category: "Analyse de marché"
+description: "Les zones scolaires sont l'une des variables les moins discutées et les plus impactantes en immobilier résidentiel."
 image: "images/articles/school-districts-property-values/featured.jpg"
 draft: true
 ---
 
-Dans tout marche ou les familles representent une part importante des acheteurs, la qualite et l'acces aux ecoles sont parmi les moteurs les plus puissants de la demande de proprietes.
+Dans tout marché où les familles représentent une part importante des acheteurs, la qualité et l'accès aux écoles sont parmi les moteurs les plus puissants de la demande de propriétés.
 
-## Comment fonctionne l'inscription scolaire au Quebec
+## Comment fonctionne l'inscription scolaire au Québec
 
-Le systeme scolaire du Quebec comprend deux reseaux principaux : les ecoles publiques francophones et les ecoles publiques anglophones. Pour les ecoles publiques, l'inscription est generalement basee sur les zones de desserte geographiques definies par le centre de services scolaire.
+Le système scolaire du Québec comprend deux réseaux principaux : les écoles publiques francophones et les écoles publiques anglophones. Pour les écoles publiques, l'inscription est généralement basée sur les zones de desserte géographiques définies par le centre de services scolaire.
 
-Au Quebec, l'acces a l'enseignement en anglais est regi par les lois linguistiques : un enfant doit generalement se qualifier sur la base de l'historique d'education des parents (parent ayant frequente l'ecole anglaise au Canada).
+Au Québec, l'accès à l'enseignement en anglais est régi par les lois linguistiques : un enfant doit généralement se qualifier sur la base de l'historique d'éducation des parents (parent ayant fréquenté l'école anglaise au Canada).
 
-## La prime de valeur autour des ecoles prisees
+## La prime de valeur autour des écoles prisées
 
-Dans les marches avec des ecoles bien cotees, les proprietes dans la zone de desserte se negocient avec une prime mesurable sur des proprietes comparables situees juste a l'exterieur de la zone. Cette prime reflete la demande des familles prates a payer davantage.
+Dans les marchés avec des écoles bien cotées, les propriétés dans la zone de desserte se négocient avec une prime mesurable sur des propriétés comparables situées juste à l'extérieur de la zone. Cette prime reflète la demande des familles prêtes à payer davantage.
 
-## Le variable ecole privee
+## Le variable école privée
 
-Une part significative des familles quebecoises envoie ses enfants dans des ecoles privees. Pour ces familles, le positionnement dans la zone de desserte importe moins. Les zones proches d'ecoles privees bien cotees voient aussi une concentration de la demande.
+Une part significative des familles québécoises envoie ses enfants dans des écoles privées. Pour ces familles, le positionnement dans la zone de desserte importe moins. Les zones proches d'écoles privées bien cotées voient aussi une concentration de la demande.
 
-## Comment j'utilise les donnees sur les zones scolaires
+## Comment j'utilise les données sur les zones scolaires
 
-Quand j'analyse une propriete pour un investisseur ou un acheteur familial, les donnees sur les zones scolaires sont l'une des variables explicites de l'analyse. Les changements de limites de zones peuvent modifier significativement le profil de demande des proprietes des deux cotes de la nouvelle ligne.
+Quand j'analyse une propriété pour un investisseur ou un acheteur familial, les données sur les zones scolaires sont l'une des variables explicites de l'analyse. Les changements de limites de zones peuvent modifier significativement le profil de demande des propriétés des deux côtés de la nouvelle ligne.
 
 ---
 

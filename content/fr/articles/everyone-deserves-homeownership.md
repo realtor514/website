@@ -1,32 +1,32 @@
 ---
-title: "Je crois que tout le monde merite une chance a la propriete. Voici ce que cela signifie en pratique."
+title: "Je crois que tout le monde mérite une chance à la propriété. Voici ce que cela signifie en pratique."
 date: 2025-05-19
-category: "A propos de Georges"
-description: "La propriete est souvent discutee comme un instrument financier. Pour de nombreuses familles, c'est la fondation de la stabilite et de la securite generationnelle."
+category: "À propos de Georges"
+description: "La propriété est souvent discutée comme un instrument financier. Pour de nombreuses familles, c'est la fondation de la stabilité et de la sécurité générationnelle."
 image: "images/articles/everyone-deserves-homeownership/featured.jpg"
 draft: true
 ---
 
-Je viens du Liban. Ma famille, comme beaucoup de familles libanaises, comprenait la propriete non pas comme une categorie d'investissement mais comme la securite, quelque chose qui ne peut pas etre enleve.
+Je viens du Liban. Ma famille, comme beaucoup de familles libanaises, comprenait la propriété non pas comme une catégorie d'investissement mais comme la sécurité, quelque chose qui ne peut pas être enlevé.
 
-Cette comprehension a voyage avec moi a Montreal. Et elle façonne, de maniere tres directe, comment je pense a ce que mon travail signifie vraiment.
+Cette compréhension a voyagé avec moi à Montréal. Et elle façonne, de manière très directe, comment je pense à ce que mon travail signifie vraiment.
 
-## Ce que la propriete fait vraiment pour les familles
+## Ce que la propriété fait vraiment pour les familles
 
-L'argument financier est bien documente : epargne forcee par le remboursement hypothecaire, levier sur un actif appreciant, protection contre les hausses de loyer.
+L'argument financier est bien documenté : épargne forcée par le remboursement hypothécaire, levier sur un actif appréciant, protection contre les hausses de loyer.
 
-Mais les arguments que je trouve les plus convaincants ne sont pas purement financiers. Une famille qui possede son logement ne recoit pas de lettre d'augmentation de loyer. Les enfants qui grandissent dans des maisons en propriete ont tendance a avoir une plus grande stabilite residentiellen, ce qui est associe aux resultats scolaires.
+Mais les arguments que je trouve les plus convaincants ne sont pas purement financiers. Une famille qui possède son logement ne reçoit pas de lettre d'augmentation de loyer. Les enfants qui grandissent dans des maisons en propriété ont tendance à avoir une plus grande stabilité résidentielle, ce qui est associé aux résultats scolaires.
 
-## Les barrieres sont reelles mais souvent navigables
+## Les barrières sont réelles mais souvent navigables
 
-Exigences de mise de fonds, qualifications pour le test de resistance, seuils de cote de credit, barrieres linguistiques dans la navigation du processus de transaction. Beaucoup de ces barrieres, examinees soigneusement, sont navigables.
+Exigences de mise de fonds, qualifications pour le test de résistance, seuils de cote de crédit, barrières linguistiques dans la navigation du processus de transaction. Beaucoup de ces barrières, examinées soigneusement, sont navigables.
 
-Quelqu'un qui croit qu'il ne peut pas acheter parce que sa cote de credit est de 650 pourrait avoir besoin d'un an de travail sur le credit, pas de cinq ans de resignation. Quelqu'un qui croit ne pas pouvoir se permettre Montreal pourrait avoir besoin d'une conversation sur Laval ou la Rive-Nord.
+Quelqu'un qui croit qu'il ne peut pas acheter parce que sa cote de crédit est de 650 pourrait avoir besoin d'un an de travail sur le crédit, pas de cinq ans de résignation. Quelqu'un qui croit ne pas pouvoir se permettre Montréal pourrait avoir besoin d'une conversation sur Laval ou la Rive-Nord.
 
 ## Le facteur langue
 
-L'un des obstacles les plus sous-estimes a la propriete dans la communaute immigrante est la langue. La navigation de concepts financiers et juridiques complexes dans une deuxieme ou troisieme langue necessite plus d'effort. C'est la ou travailler en arabe aux cotes du francais et de l'anglais est pour moi non seulement une caracteristique de service, mais un egalisateur reel.
+L'un des obstacles les plus sous-estimés à la propriété dans la communauté immigrante est la langue. La navigation de concepts financiers et juridiques complexes dans une deuxième ou troisième langue nécessite plus d'effort. C'est là où travailler en arabe aux côtés du français et de l'anglais est pour moi non seulement une caractéristique de service, mais un égalisateur réel.
 
 ---
 
-*Ou que vous en soyez dans votre parcours vers la propriete, [j'aimerais avoir une conversation honnete sur votre chemin](/fr/#contact).*
+*Où que vous en soyez dans votre parcours vers la propriété, [j'aimerais avoir une conversation honnête sur votre chemin](/fr/#contact).*

@@ -1,34 +1,34 @@
 ---
-title: "Gerer des proprietes locatives a Montreal et Laval : ce que les premiers proprietaires doivent savoir"
+title: "Gérer des propriétés locatives à Montréal et Laval : ce que les premiers propriétaires doivent savoir"
 date: 2025-05-19
 category: "Investissement"
-description: "Posseder un immeuble locatif et le gerer sont deux competences differentes. Voici la realite operationnelle."
+description: "Posséder un immeuble locatif et le gérer sont deux compétences différentes. Voici la réalité opérationnelle."
 image: "images/articles/rental-property-management/featured.jpg"
 draft: true
 ---
 
-Acheter un immeuble a revenus est une decision. Le gerer est une pratique. Les deux necessitent des competences differentes.
+Acheter un immeuble à revenus est une décision. Le gérer est une pratique. Les deux nécessitent des compétences différentes.
 
-## Fixer le loyer : equilibrer le marche et la realite legale
+## Fixer le loyer : équilibrer le marché et la réalité légale
 
-Quand vous acquerez un immeuble occupe au Quebec, vous heritez des baux et niveaux de loyers existants. Les lois quebecoises limitent les augmentations permissibles lors du renouvellement du bail. Le TAL publie des lignes directrices annuelles.
+Quand vous acquérez un immeuble occupé au Québec, vous héritez des baux et niveaux de loyers existants. Les lois québécoises limitent les augmentations permissibles lors du renouvellement du bail. Le TAL publie des lignes directrices annuelles.
 
-Cela signifie que si vous achetez une propriete dont les unites sont significativement sous le loyer du marche, vous ne pouvez pas augmenter immediatement au marche. La normalisation se fait graduellement sur plusieurs annees.
+Cela signifie que si vous achetez une propriété dont les unités sont significativement sous le loyer du marché, vous ne pouvez pas augmenter immédiatement au marché. La normalisation se fait graduellement sur plusieurs années.
 
-## Selection des locataires : la decision la plus importante
+## Sélection des locataires : la décision la plus importante
 
-Au Quebec, vous pouvez demander des references de credit, une verification d'emploi et des references des proprietaires precedents. Vous ne pouvez pas discriminer.
+Au Québec, vous pouvez demander des références de crédit, une vérification d'emploi et des références des propriétaires précédents. Vous ne pouvez pas discriminer.
 
-Un processus approfondi : verification de credit (avec consentement ecrit), confirmation d'emploi et revenu (le revenu devrait etre au moins 3 fois le loyer mensuel), et un appel de reference au proprietaire precedent.
+Un processus approfondi : vérification de crédit (avec consentement écrit), confirmation d'emploi et revenu (le revenu devrait être au moins 3 fois le loyer mensuel), et un appel de référence au propriétaire précédent.
 
-## Le bail quebecois
+## Le bail québécois
 
-Tous les baux residentiels utilisent le formulaire standard obligatoire du TAL. Points cles : les baux se renouvellent automatiquement sauf preavis dans les delais requis. Le proprietaire doit donner un preavis de 6 mois avant la fin d'un bail de 12 mois pour la non-reconduction.
+Tous les baux résidentiels utilisent le formulaire standard obligatoire du TAL. Points clés : les baux se renouvellent automatiquement sauf préavis dans les délais requis. Le propriétaire doit donner un préavis de 6 mois avant la fin d'un bail de 12 mois pour la non-reconduction.
 
 ## Votre obligation d'entretien
 
-Les proprietaires quebecois sont legalement tenus de maintenir les unites locatives en bon etat. Un locataire qui notifie par ecrit une reparation requise sans reponse dans un delai raisonnable a des recours legaux.
+Les propriétaires québécois sont légalement tenus de maintenir les unités locatives en bon état. Un locataire qui notifie par écrit une réparation requise sans réponse dans un délai raisonnable a des recours légaux.
 
 ---
 
-*Des questions sur la realite operationnelle de la propriete locative ? [Parlons de ce que vous devriez attendre avant d'acheter](/fr/#contact).*
+*Des questions sur la réalité opérationnelle de la propriété locative ? [Parlons de ce que vous devriez attendre avant d'acheter](/fr/#contact).*

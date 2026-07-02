@@ -1,38 +1,38 @@
 ---
-title: "Acheter une propriete patrimoniale a Montreal : le charme face a la realite"
+title: "Acheter une propriété patrimoniale à Montréal : le charme face à la réalité"
 date: 2025-05-19
 category: "Guide de l'acheteur"
-description: "Les batiments patrimoniaux de Montreal sont parmi les plus beaux en Amerique du Nord. Ils sont aussi parmi les plus compliques a acheter et a entretenir."
+description: "Les bâtiments patrimoniaux de Montréal sont parmi les plus beaux en Amérique du Nord. Ils sont aussi parmi les plus compliqués à acheter et à entretenir."
 image: "images/articles/heritage-property-montreal/featured.jpg"
 draft: true
 ---
 
-Le patrimoine residentiel de Montreal est genuinement extraordinaire. Les maisons victoriennes en rangee d'Outremont, les duplex italianisants du Plateau, les triplex en gres qui definissent le caractere visuel des quartiers. Je comprends pourquoi les acheteurs tombent amoureux des proprietes patrimoniales.
+Le patrimoine résidentiel de Montréal est génuinement extraordinaire. Les maisons victoriennes en rangée d'Outremont, les duplex italianisants du Plateau, les triplex en grès qui définissent le caractère visuel des quartiers. Je comprends pourquoi les acheteurs tombent amoureux des propriétés patrimoniales.
 
-## Ce que la designation 'patrimoine' signifie legalement au Quebec
+## Ce que la désignation 'patrimoine' signifie légalement au Québec
 
-Au Quebec, la designation patrimoniale n'est pas une categorie unique :
-- **Bien classe ou reconnu** par le gouvernement provincial : restrictions les plus importantes sur les modifications exterieures
+Au Québec, la désignation patrimoniale n'est pas une catégorie unique :
+- **Bien classé ou reconnu** par le gouvernement provincial : restrictions les plus importantes sur les modifications extérieures
 - **Inscrit dans un inventaire patrimonial municipal** : protection moindre
-- **Situe dans un secteur patrimonial ou zone PIIA** : directives sensibles au patrimoine applicables
-- **Simplement ancien** sans designation formelle : le cas le plus courant
+- **Situé dans un secteur patrimonial ou zone PIIA** : directives sensibles au patrimoine applicables
+- **Simplement ancien** sans désignation formelle : le cas le plus courant
 
-Determinez quelle categorie s'applique avant d'acheter. Cela affecte ce que vous pouvez faire, la duree des permis et les restrictions attachees au titre.
+Déterminez quelle catégorie s'applique avant d'acheter. Cela affecte ce que vous pouvez faire, la durée des permis et les restrictions attachées au titre.
 
-## La realite financiere de la propriete patrimoniale
+## La réalité financière de la propriété patrimoniale
 
-Les couts de renovation sont plus eleves. Remplacer des fenetres peut exiger des materiaux specifiques approuves. L'entretien est continu et reel. Le financement peut etre plus complexe, certains preteurs etant prudents avec certains types de batiments anciens.
+Les coûts de rénovation sont plus élevés. Remplacer des fenêtres peut exiger des matériaux spécifiques approuvés. L'entretien est continu et réel. Le financement peut être plus complexe, certains prêteurs étant prudents avec certains types de bâtiments anciens.
 
 ## Ce que l'inspection doit couvrir
 
-Les proprietes patrimoniales necessitent une inspection plus approfondie : fondations en pierre se comportant differemment du beton coule, electricite ancienne (knob-and-tube, aluminium) causant des complications d'assurance, plomberie en plomb, tuyaux galvanises ou drains en argile.
+Les propriétés patrimoniales nécessitent une inspection plus approfondie : fondations en pierre se comportant différemment du béton coulé, électricité ancienne (knob-and-tube, aluminium) causant des complications d'assurance, plomberie en plomb, tuyaux galvanisés ou drains en argile.
 
-## Pourquoi je les recommande quand meme dans les bonnes circonstances
+## Pourquoi je les recommande quand même dans les bonnes circonstances
 
-Le caractere est irreplacable. Les emplacements sont souvent exceptionnels. L'historique d'appreciation des proprietes patrimoniales bien entretenues dans les bons quartiers de Montreal est excellent.
+Le caractère est irremplaçable. Les emplacements sont souvent exceptionnels. L'historique d'appréciation des propriétés patrimoniales bien entretenues dans les bons quartiers de Montréal est excellent.
 
-La condition : un acheteur avec des reserves adequates, la patience pour des permis plus lents et un veritable gout pour la preservation.
+La condition : un acheteur avec des réserves adéquates, la patience pour des permis plus lents et un véritable goût pour la préservation.
 
 ---
 
-*Vous envisagez une propriete patrimoniale ? [Parlons des specificites](/fr/#contact) avant de faire une offre.*
+*Vous envisagez une propriété patrimoniale ? [Parlons des spécificités](/fr/#contact) avant de faire une offre.*

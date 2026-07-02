@@ -2,33 +2,33 @@
 title: "5 signaux d'alarme qui signifient : partez, peu importe votre attachement"
 date: 2025-05-19
 category: "Guide de l'acheteur"
-description: "Tomber amoureux d'une propriete avec de serieux problemes est l'une des erreurs les plus couteuses. Voici quand il faut partir."
+description: "Tomber amoureux d'une propriété avec de sérieux problèmes est l'une des erreurs les plus coûteuses. Voici quand il faut partir."
 image: "images/articles/red-flags-walk-away-property/featured.jpg"
 draft: false
 ---
 
-Il existe des situations specifiques ou la conclusion analytique est claire : quittez cette propriete.
+Il existe des situations spécifiques où la conclusion analytique est claire : quittez cette propriété.
 
 ## 1. Un vendeur qui refuse toute inspection
 
-Un refus categorique d'inspection communique quelque chose d'important. Un vendeur raisonnable accepte au moins une inspection pre-offre realisee par l'acheteur a ses frais.
+Un refus catégorique d'inspection communique quelque chose d'important. Un vendeur raisonnable accepte au moins une inspection pré-offre réalisée par l'acheteur à ses frais.
 
-## 2. Des preuves d'infiltration d'eau dissimulees
+## 2. Des preuves d'infiltration d'eau dissimulées
 
-Peinture fraiche sur une fondation qui cache des taches, cloison seche recemment installee dans un sous-sol inonde, produits masquants dans un espace possiblement moisi. Si quelque chose a ete dissimule, que d'autre a ete cache ?
+Peinture fraîche sur une fondation qui cache des taches, cloison sèche récemment installée dans un sous-sol inondé, produits masquants dans un espace possiblement moisi. Si quelque chose a été dissimulé, que d'autre a été caché ?
 
-## 3. Un immeuble avec des procedures judiciaires actives
+## 3. Un immeuble avec des procédures judiciaires actives
 
-Pour les condos : lisez les proces-verbaux des 3 dernieres annees. Un litige actif est votre probleme des la prise de possession.
+Pour les condos : lisez les procès-verbaux des 3 dernières années. Un litige actif est votre problème dès la prise de possession.
 
-## 4. Un prix tres inferieur aux comparables sans explication
+## 4. Un prix très inférieur aux comparables sans explication
 
-Une propriete cotee 15-20 % en dessous du marche sans raison divulguee necessite une investigation approfondie avant toute offre.
+Une propriété cotée 15-20 % en dessous du marché sans raison divulguée nécessite une investigation approfondie avant toute offre.
 
-## 5. Un ecart important entre la superficie annoncee et reelle
+## 5. Un écart important entre la superficie annoncée et réelle
 
-Calculez le prix au pied carre et comparez aux ventes recentes. Un ecart significatif signale une verification independante de la superficie.
+Calculez le prix au pied carré et comparez aux ventes récentes. Un écart significatif signale une vérification indépendante de la superficie.
 
 ---
 
-*Inquiet pour une propriete specifique ? [Examinons-la ensemble](/fr/#contact).*
+*Inquiet pour une propriété spécifique ? [Examinons-la ensemble](/fr/#contact).*
