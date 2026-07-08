@@ -28,12 +28,12 @@
         <p class="hero__role reveal reveal-delay-1">{{ .Site.Params.tagline | safeHTML }}</p>
 
         <div class="hero__quicklinks reveal reveal-delay-2">
-          <a href="{{ if $isFr }}/#tools{{ else if $isAr }}/ar/#tools{{ else if $isEs }}/es/#tools{{ else }}/en/#tools{{ end }}" class="hero__quicklink">
+          <a href="{{ if $isFr }}/#contact{{ else if $isAr }}/ar/#contact{{ else if $isEs }}/es/#contact{{ else }}/en/#contact{{ end }}" class="hero__quicklink">
             {{ if $isFr }}Obtenir une évaluation gratuite{{ else if $isAr }}احصل على تقييم مجاني{{ else if $isEs }}Obtener una evaluación gratuita{{ else }}Get a Free Evaluation{{ end }}
           </a>
           <span class="hero__quicklink-divider"></span>
           <a href="#" class="hero__quicklink" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
-            {{ if $isFr }}Consultation gratuite pour acheteurs{{ else if $isAr }}استشارة مجانية للمشترين{{ else if $isEs }}Consulta gratuita para compradores{{ else }}Free Consultation for Buyers{{ end }}
+            {{ if $isFr }}Consultation gratuite{{ else if $isAr }}استشارة مجانية{{ else if $isEs }}Consulta gratuita{{ else }}Free Consultation{{ end }}
           </a>
         </div>
 
