@@ -1,5 +1,5 @@
 ---
-title: "Ce qu'il faut vraiment vérifier lors d'une inspection en bâtiment (selon un ingénieur)"
+title: "Ce qu'il faut vraiment vérifier lors d'une inspection en bâtiment"
 date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "La plupart des acheteurs suivent l'inspecteur et hochent la tête. Voici comment comprendre ce que vous voyez réellement - les problèmes qui comptent et les questions à poser."
@@ -7,7 +7,7 @@ image: "images/articles/home-inspection-checklist-montreal/featured.jpg"
 draft: true
 ---
 
-Mon parcours en ingénierie me permet de regarder les bâtiments différemment. Je peux lire une configuration de plomberie et comprendre ce que les décisions d'installation originales révèlent sur l'époque et le budget du constructeur. Je peux examiner un panneau électrique et savoir immédiatement s'il pose problème.
+Je regarde les bâtiments différemment de la plupart des acheteurs. Je peux lire une configuration de plomberie et comprendre ce que les décisions d'installation originales révèlent sur l'époque et le budget du constructeur. Je peux examiner un panneau électrique et savoir immédiatement s'il pose problème.
 
 Je ne remplace pas un inspecteur certifié. Mais je peux vous aider à comprendre ce qu'il faut chercher en complément.
 

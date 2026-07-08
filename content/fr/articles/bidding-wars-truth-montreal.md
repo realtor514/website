@@ -9,7 +9,7 @@ draft: true
 
 Je vais être honnête avec vous sur quelque chose que la plupart des courtiers ne disent pas à voix haute : les guerres d'offres ne sont pas le signe d'un marché en santé. Ce sont le signe d'un marché où les acheteurs ont perdu leur levier, et où les émotions peuvent prendre le dessus sur la logique de façon dangereuse.
 
-En tant que courtier issu d'un parcours en ingénierie, mon premier réflexe dans toute situation multi-offres est d'analyser les chiffres, pas les émotions. Et ces chiffres, plus souvent qu'on ne le croit, racontent une histoire que l'excitation du moment tend à masquer. Certains de mes moments de fierté sont ceux où j'ai aidé un client à **ne pas** gagner une guerre d'offres, parce que le prix avait franchi un seuil où les chiffres n'avaient plus de sens.
+Mon premier réflexe dans toute situation multi-offres est d'analyser les chiffres, pas les émotions. Et ces chiffres, plus souvent qu'on ne le croit, racontent une histoire que l'excitation du moment tend à masquer. Certains de mes moments de fierté sont ceux où j'ai aidé un client à **ne pas** gagner une guerre d'offres, parce que le prix avait franchi un seuil où les chiffres n'avaient plus de sens.
 
 ## Comment les guerres d'offres démarrent vraiment
 

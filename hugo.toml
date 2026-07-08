@@ -19,9 +19,9 @@ defaultContentLanguageInSubdir = false
       ctaListings = "View Properties"
       ctaContact  = "Contact Me"
       description = "Real estate broker in Montreal, Laval and the Laurentians. Residential and investment properties."
-      bio         = "Before real estate, I was an engineer: trained to break a complex problem into simple decisions. I bring that same rigor to buying, selling, and investing across Montreal, Laval, and the Laurentians, no jargon, no empty promises."
+      bio         = "I've learned to break complex problems into simple decisions. I bring that same rigor to buying, selling, and investing across Montreal, Laval, and the Laurentians, no jargon, no empty promises."
       aboutBadge  = "About Me"
-      aboutTitle  = "I Approach Real Estate the Way an Engineer Approaches a Problem"
+      aboutTitle  = "I Approach Real Estate With Rigor and Method"
 
     # ── BUYER menu ──
     [[languages.en.menus.main]]
@@ -146,9 +146,9 @@ defaultContentLanguageInSubdir = false
       ctaListings = "Voir les propriétés"
       ctaContact  = "Me contacter"
       description = "Courtier immobilier résidentiel à Montréal, Laval et dans les Laurentides. Propriétés résidentielles et investissement immobilier."
-      bio         = "Avant l'immobilier, j'étais ingénieur : j'ai appris à décomposer un problème complexe en décisions simples. J'applique la même rigueur à l'achat, la vente et l'investissement immobilier à Montréal, Laval et dans les Laurentides, sans jargon ni promesses en l'air."
+      bio         = "J'ai appris à décomposer un problème complexe en décisions simples. J'applique cette même rigueur à l'achat, la vente et l'investissement immobilier à Montréal, Laval et dans les Laurentides, sans jargon ni promesses en l'air."
       aboutBadge  = "À propos"
-      aboutTitle  = "Je traite l'immobilier comme un ingénieur traite un problème"
+      aboutTitle  = "Je traite l'immobilier avec rigueur et méthode"
 
     # ── ACHETEUR menu ──
     [[languages.fr.menus.main]]
@@ -273,9 +273,9 @@ defaultContentLanguageInSubdir = false
       ctaListings = "Ver Propiedades"
       ctaContact  = "Contácteme"
       description = "Corredor inmobiliario residencial en Montréal, Laval y los Laurentides. Propiedades residenciales e inversión inmobiliaria."
-      bio         = "Antes de los bienes raíces, fui ingeniero: aprendí a descomponer un problema complejo en decisiones simples. Aplico el mismo rigor a la compra, venta e inversión inmobiliaria en Montréal, Laval y los Laurentides, sin jerga ni promesas vacías."
+      bio         = "He aprendido a descomponer un problema complejo en decisiones simples. Aplico ese mismo rigor a la compra, venta e inversión inmobiliaria en Montréal, Laval y los Laurentides, sin jerga ni promesas vacías."
       aboutBadge  = "Sobre mí"
-      aboutTitle  = "Trato el sector inmobiliario como un ingeniero trata un problema"
+      aboutTitle  = "Trato el sector inmobiliario con rigor y método"
 
     # ── COMPRADOR menu ──
     [[languages.es.menus.main]]
@@ -378,9 +378,9 @@ defaultContentLanguageInSubdir = false
       ctaListings = "عرض العقارات"
       ctaContact  = "تواصل معي"
       description = "جورج متار، وسيط عقاري سكني في RE/MAX DU CARTIER INC. نخدم المشترين والبائعين والمستثمرين في مونتريال، لافال ومنطقة اللورانتيد."
-      bio         = "قبل العقارات، كنت مهندساً: تعلمت كيف أفكك مشكلة معقدة إلى قرارات بسيطة. أطبق الدقة نفسها على الشراء والبيع والاستثمار العقاري في مونتريال ولافال ومنطقة اللورانتيد، بلا مصطلحات معقدة ولا وعود فارغة."
+      bio         = "تعلمت كيف أفكك مشكلة معقدة إلى قرارات بسيطة. أطبق الدقة نفسها على الشراء والبيع والاستثمار العقاري في مونتريال ولافال ومنطقة اللورانتيد، بلا مصطلحات معقدة ولا وعود فارغة."
       aboutBadge  = "نبذة عني"
-      aboutTitle  = "أتعامل مع العقارات كما يتعامل المهندس مع مشكلة"
+      aboutTitle  = "أتعامل مع العقارات بدقة ومنهجية"
 
     # ── المشتري menu ──
     [[languages.ar.menus.main]]

@@ -1,5 +1,5 @@
 ---
-title: "What to Actually Look for During a Home Inspection (From an Engineer's Eye)"
+title: "What to Actually Look for During a Home Inspection"
 date: 2025-05-19
 category: "Buyer's Guide"
 description: "Most buyers follow the inspector around and nod. Here's how to actually understand what you're seeing - the issues that matter, the ones that don't, and the questions to ask."
@@ -7,7 +7,7 @@ image: "images/articles/home-inspection-checklist-montreal/featured.jpg"
 draft: true
 ---
 
-My background in engineering means I look at buildings differently than most. I can read a plumbing configuration and understand what the original installation decisions say about the era and budget of the builder. I can look at an electrical panel and know immediately whether it's a problem. I notice foundation crack patterns that a hurried inspection can miss.
+I look at buildings differently than most buyers do. I can read a plumbing configuration and understand what the original installation decisions say about the era and budget of the builder. I can look at an electrical panel and know immediately whether it's a problem. I notice foundation crack patterns that a hurried inspection can miss.
 
 I'm not a licensed building inspector and I'm not replacing one. But I can help you understand what to look for alongside your inspector - and more importantly, how to distinguish between the issues that are expensive problems and the ones that are just cosmetic noise.
 

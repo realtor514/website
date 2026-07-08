@@ -11,7 +11,7 @@ People ask me this question expecting a simple answer. There isn't one. Whether 
 
 ## The Case for a Triplex
 
-When I bought my own triplex in Laval, I approached it the way I approach any engineering problem: build a model, stress-test the variables, identify the failure modes, and decide if the expected return justifies the risk. The numbers made sense. They don't always.
+When I bought my own triplex in Laval, I approached it methodically: build a model, stress-test the variables, identify the failure modes, and decide if the expected return justifies the risk. The numbers made sense. They don't always.
 
 **The financial logic of a triplex:**
 

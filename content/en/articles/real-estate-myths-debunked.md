@@ -7,7 +7,7 @@ image: "images/articles/real-estate-myths-debunked/featured.jpg"
 draft: true
 ---
 
-My engineering background gives me a specific allergy to received wisdom that has not been tested against evidence. Real estate is full of it. Here are the seven myths I correct most often.
+I have a specific allergy to received wisdom that has not been tested against evidence. Real estate is full of it. Here are the seven myths I correct most often.
 
 ## Myth 1: "The asking price is what the seller wants"
 

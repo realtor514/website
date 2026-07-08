@@ -61,7 +61,7 @@ Instead of asking "should I put 20% down?", ask:
 3. What would the property's value likely be in that same period?
 4. What would my total return look like under each scenario?
 
-This is an engineering approach to a financial decision, and it leads to better outcomes than inherited rules of thumb.
+This is a methodical approach to a financial decision, and it leads to better outcomes than inherited rules of thumb.
 
 ## My Honest Advice
 

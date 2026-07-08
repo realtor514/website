@@ -1,5 +1,5 @@
 ---
-title: "Louer ou acheter à Montréal : le calcul honnête d'un ingénieur"
+title: "Louer ou acheter à Montréal : le calcul honnête"
 date: 2025-05-19
 category: "Financement"
 description: "Le débat louer vs acheter est plein d'idéologie des deux côtés. Je préfère les mathématiques. Voici le vrai calcul."

@@ -29,7 +29,7 @@ The agency's management supports brokers with ongoing training, compliance guida
 
 ## What This Does Not Mean
 
-Affiliation with RE/MAX does not mean I outsource my judgment to the brokerage. My analytical approach, my pricing assessments, my negotiation strategies, and my counsel to clients are my own, informed by my engineering background and my specific market knowledge.
+Affiliation with RE/MAX does not mean I outsource my judgment to the brokerage. My analytical approach, my pricing assessments, my negotiation strategies, and my counsel to clients are my own, informed by my rigor and my specific market knowledge.
 
 The brokerage provides infrastructure and brand. The service experience is mine to provide.
 

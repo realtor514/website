@@ -11,7 +11,7 @@ Les gens me posent cette question en s'attendant à une réponse simple. Il n'y 
 
 ## L'argument en faveur du triplex
 
-Quand j'ai acheté mon propre triplex à Laval, je l'ai abordé comme un problème d'ingénierie : construire un modèle, tester les variables, identifier les modes d'échec, et décider si le rendement attendu justifie le risque.
+Quand j'ai acheté mon propre triplex à Laval, je l'ai abordé avec méthode : construire un modèle, tester les variables, identifier les modes d'échec, et décider si le rendement attendu justifie le risque.
 
 **La logique financière du triplex :**
 
