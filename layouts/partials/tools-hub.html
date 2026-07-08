@@ -52,46 +52,31 @@
     })();
     </script>
 
-    <!-- Tab navigation -->
+    <!-- Tab navigation: each tab links to the tool's own dedicated page -->
     <div class="tools-tabs reveal" role="tablist">
-      <button class="tools-tab tools-tab--active" role="tab" data-panel="tool-mortgage" aria-selected="true">
+      <a href="{{ $base }}/tools/mortgage/" class="tools-tab tools-tab--active">
         {{ if $isFr }}Hypothèque{{ else if $isAr }}الرهن العقاري{{ else if $isEs }}Hipoteca{{ else }}Mortgage{{ end }}
-      </button>
-      <button class="tools-tab" role="tab" data-panel="tool-welcome-tax" aria-selected="false">
+      </a>
+      <a href="{{ $base }}/tools/welcome-tax/" class="tools-tab">
         {{ if $isFr }}Droits de mutation{{ else if $isAr }}رسوم النقل{{ else if $isEs }}Impuesto de bienvenida{{ else }}Welcome Tax{{ end }}
-      </button>
-      <button class="tools-tab" role="tab" data-panel="tool-closing-costs" aria-selected="false">
+      </a>
+      <a href="{{ $base }}/tools/closing-costs/" class="tools-tab">
         {{ if $isFr }}Frais de clôture{{ else if $isAr }}تكاليف الإغلاق{{ else if $isEs }}Costos de cierre{{ else }}Closing Costs{{ end }}
-      </button>
-      <button class="tools-tab" role="tab" data-panel="tool-affordability" aria-selected="false">
+      </a>
+      <a href="{{ $base }}/tools/affordability/" class="tools-tab">
         {{ if $isFr }}Capacité d'emprunt{{ else if $isAr }}القدرة الشرائية{{ else if $isEs }}Capacidad de compra{{ else }}Affordability{{ end }}
-      </button>
-      <button class="tools-tab" role="tab" data-panel="tool-rent-vs-buy" aria-selected="false">
+      </a>
+      <a href="{{ $base }}/tools/rent-vs-buy/" class="tools-tab">
         {{ if $isFr }}Loc. vs Achat{{ else if $isAr }}استئجار أم شراء{{ else if $isEs }}Alquilar vs. Comprar{{ else }}Rent vs. Buy{{ end }}
-      </button>
-      <button class="tools-tab" role="tab" data-panel="tool-home-estimate" aria-selected="false">
+      </a>
+      <a href="{{ $base }}/tools/home-estimate/" class="tools-tab">
         {{ if $isFr }}Estimation{{ else if $isAr }}تقدير العقار{{ else if $isEs }}Estimacion{{ else }}Home Estimate{{ end }}
-      </button>
+      </a>
     </div>
 
-    <!-- Tool panels -->
-    <div class="tools-panel tools-panel--active" id="tool-mortgage" role="tabpanel">
+    <!-- Preview panel: mortgage calculator (the other 5 live on their own pages) -->
+    <div class="tools-panel tools-panel--active" id="tool-mortgage">
       {{ partial "tools/mortgage.html" . }}
-    </div>
-    <div class="tools-panel" id="tool-welcome-tax" role="tabpanel">
-      {{ partial "tools/welcome-tax.html" . }}
-    </div>
-    <div class="tools-panel" id="tool-closing-costs" role="tabpanel">
-      {{ partial "tools/closing-costs.html" . }}
-    </div>
-    <div class="tools-panel" id="tool-affordability" role="tabpanel">
-      {{ partial "tools/affordability.html" . }}
-    </div>
-    <div class="tools-panel" id="tool-rent-vs-buy" role="tabpanel">
-      {{ partial "tools/rent-vs-buy.html" . }}
-    </div>
-    <div class="tools-panel" id="tool-home-estimate" role="tabpanel">
-      {{ partial "tools/home-estimate.html" . }}
     </div>
 
     <!-- CTA -->
@@ -109,27 +94,5 @@
 
   </div>
 </section>
-
-<script>
-/* Tab switching */
-(function () {
-  var tabs = document.querySelectorAll('.tools-tab');
-  tabs.forEach(function (tab) {
-    tab.addEventListener('click', function () {
-      tabs.forEach(function (t) {
-        t.classList.remove('tools-tab--active');
-        t.setAttribute('aria-selected', 'false');
-      });
-      document.querySelectorAll('.tools-panel').forEach(function (p) {
-        p.classList.remove('tools-panel--active');
-      });
-      tab.classList.add('tools-tab--active');
-      tab.setAttribute('aria-selected', 'true');
-      var panel = document.getElementById(tab.getAttribute('data-panel'));
-      if (panel) panel.classList.add('tools-panel--active');
-    });
-  });
-})();
-</script>
 
 {{ partial "lead-modal.html" . }}
