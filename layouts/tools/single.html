@@ -14,35 +14,14 @@
     <h1 class="content-hero__title">{{ .Title }}</h1>
     {{ with .Description }}<p class="content-hero__meta" style="max-width:560px">{{ . }}</p>{{ end }}
 
-    <div style="margin-top:24px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
-      <button type="button" id="tool-copy-link" class="btn btn-outline" style="padding:10px 18px;font-size:.88rem;">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
-        <span id="tool-copy-link-label">
-          {{ if $isFr }}Copier le lien{{ else if $isAr }}نسخ الرابط{{ else if $isEs }}Copiar el enlace{{ else }}Copy Link{{ end }}
-        </span>
-      </button>
-      <span style="color:rgba(255,255,255,.5);font-size:.82rem;">
-        {{ if $isFr }}À inclure dans un courriel{{ else if $isAr }}لإدراجه في بريد إلكتروني{{ else if $isEs }}Para incluir en un correo{{ else }}To include in an email{{ end }}
-      </span>
+    <div style="margin-top:24px;">
+      <a href="{{ $base }}/#tools" class="btn btn-outline" style="padding:10px 18px;font-size:.88rem;">
+        {{ if $isFr }}Voir les 6 calculateurs{{ else if $isAr }}عرض الحاسبات الست{{ else if $isEs }}Ver las 6 calculadoras{{ else }}View All 6 Calculators{{ end }}
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
     </div>
   </div>
 </section>
-
-<script>
-(function () {
-  var btn = document.getElementById('tool-copy-link');
-  var label = document.getElementById('tool-copy-link-label');
-  if (!btn || !label) return;
-  var defaultText = label.textContent;
-  var copiedText = {{ if $isFr }}"Lien copié !"{{ else if $isAr }}"تم نسخ الرابط!"{{ else if $isEs }}"¡Enlace copiado!"{{ else }}"Link copied!"{{ end }};
-  btn.addEventListener('click', function () {
-    navigator.clipboard.writeText(window.location.href).then(function () {
-      label.textContent = copiedText;
-      setTimeout(function () { label.textContent = defaultText; }, 2000);
-    });
-  });
-})();
-</script>
 
 <section class="section section--light mc-section" id="tools">
   <div class="container">
@@ -76,15 +55,8 @@
       {{ partial (printf "tools/%s.html" $tool) . }}
     </div>
 
-    <!-- Link back to the full calculator hub -->
-    <p class="text-center reveal" style="margin-top:32px;">
-      <a href="{{ $base }}/#tools" style="color:var(--navy);font-weight:600">
-        {{ if $isFr }}Voir les 6 calculateurs{{ else if $isAr }}عرض الحاسبات الست{{ else if $isEs }}Ver las 6 calculadoras{{ else }}View All 6 Calculators{{ end }}
-      </a>
-    </p>
-
     <!-- CTA -->
-    <p class="text-center reveal reveal-delay-2" style="margin-top:16px;color:var(--gray);font-size:.95rem;">
+    <p class="text-center reveal reveal-delay-2" style="margin-top:32px;color:var(--gray);font-size:.95rem;">
       {{ if $isFr }}
         Prêt à passer à l'étape suivante ? <a href="{{ $base }}/#contact" style="color:var(--red);font-weight:600">Contactez-moi</a> pour discuter de votre projet immobilier.
       {{ else if $isAr }}
