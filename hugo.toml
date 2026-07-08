@@ -79,24 +79,31 @@ defaultContentLanguageInSubdir = false
 
     [[languages.en.menus.main]]
       parent     = "seller"
+      identifier = "seller-estimate"
+      name       = "Estimate Your Property Value"
+      url        = "/en/tools/home-estimate/"
+      weight     = 2
+
+    [[languages.en.menus.main]]
+      parent     = "seller"
       identifier = "seller-eval"
       name       = "Free Evaluation"
       url        = "/en/#contact"
-      weight     = 2
+      weight     = 3
 
     [[languages.en.menus.main]]
       parent     = "seller"
       identifier = "seller-rvb"
       name       = "Rent vs Buy"
       url        = "/en/#tools"
-      weight     = 3
+      weight     = 4
 
     [[languages.en.menus.main]]
       parent     = "seller"
       identifier = "seller-market"
       name       = "Market Insights"
       url        = "/en/articles/"
-      weight     = 4
+      weight     = 5
 
     # ── ABOUT menu ──
     [[languages.en.menus.main]]
@@ -206,24 +213,31 @@ defaultContentLanguageInSubdir = false
 
     [[languages.fr.menus.main]]
       parent     = "seller"
+      identifier = "seller-estimate"
+      name       = "Estimez la valeur de votre propriété"
+      url        = "/tools/home-estimate/"
+      weight     = 2
+
+    [[languages.fr.menus.main]]
+      parent     = "seller"
       identifier = "seller-eval"
       name       = "Évaluation gratuite"
       url        = "/#contact"
-      weight     = 2
+      weight     = 3
 
     [[languages.fr.menus.main]]
       parent     = "seller"
       identifier = "seller-rvb"
       name       = "Louer vs Acheter"
       url        = "/#tools"
-      weight     = 3
+      weight     = 4
 
     [[languages.fr.menus.main]]
       parent     = "seller"
       identifier = "seller-market"
       name       = "Actualités du marché"
       url        = "/articles/"
-      weight     = 4
+      weight     = 5
 
     # ── À PROPOS menu ──
     [[languages.fr.menus.main]]
@@ -326,17 +340,24 @@ defaultContentLanguageInSubdir = false
 
     [[languages.es.menus.main]]
       parent     = "seller"
+      identifier = "seller-estimate"
+      name       = "Estime el valor de su propiedad"
+      url        = "/es/tools/home-estimate/"
+      weight     = 2
+
+    [[languages.es.menus.main]]
+      parent     = "seller"
       identifier = "seller-eval"
       name       = "Evaluación gratuita"
       url        = "/es/#contact"
-      weight     = 2
+      weight     = 3
 
     [[languages.es.menus.main]]
       parent     = "seller"
       identifier = "seller-market"
       name       = "Noticias del mercado"
       url        = "/es/articles/"
-      weight     = 3
+      weight     = 4
 
     # ── SOBRE MÍ menu ──
     [[languages.es.menus.main]]
@@ -431,17 +452,24 @@ defaultContentLanguageInSubdir = false
 
     [[languages.ar.menus.main]]
       parent     = "seller"
+      identifier = "seller-estimate"
+      name       = "قدّر قيمة عقارك"
+      url        = "/ar/tools/home-estimate/"
+      weight     = 2
+
+    [[languages.ar.menus.main]]
+      parent     = "seller"
       identifier = "seller-eval"
       name       = "تقييم مجاني"
       url        = "/ar/#contact"
-      weight     = 2
+      weight     = 3
 
     [[languages.ar.menus.main]]
       parent     = "seller"
       identifier = "seller-market"
       name       = "أخبار السوق"
       url        = "/ar/articles/"
-      weight     = 3
+      weight     = 4
 
     # ── عن menu ──
     [[languages.ar.menus.main]]
