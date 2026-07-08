@@ -9,7 +9,6 @@
 {{/* ── Dropdown item metadata by identifier ── */}}
 {{ $ddMeta := dict
   "buyer-guide"    (dict "desc" (cond $isFr "Feuille de route complète" (cond $isEs "Guía completa de compra" (cond $isAr "دليل الشراء الكامل" "Complete buying roadmap"))))
-  "buyer-props"    (dict "desc" (cond $isFr "Parcourir les inscriptions" (cond $isEs "Ver propiedades disponibles" (cond $isAr "تصفح العقارات المتاحة" "Browse available listings"))))
   "buyer-mortgage" (dict "desc" (cond $isFr "Estimez vos versements" (cond $isEs "Calcule sus pagos" (cond $isAr "احسب أقساطك الشهرية" "Estimate your payments"))))
   "buyer-afford"   (dict "desc" (cond $isFr "Combien puis-je emprunter?" (cond $isEs "¿Cuánto puedo pagar?" (cond $isAr "كم يمكنني اقتراضه؟" "How much can I borrow?"))))
   "buyer-costs"    (dict "desc" (cond $isFr "Tous les frais à la clôture" (cond $isEs "Todos los gastos de cierre" (cond $isAr "تكاليف الإغلاق كاملة" "All fees at closing"))))
