@@ -1,0 +1,75 @@
+{{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $base  := "/en" }}
+{{ if $isFr }}{{ $base = "" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
+{{ $tool := .Params.tool }}
+
+<section class="content-hero">
+  <div class="container">
+    <span class="content-hero__category">
+      {{ if $isFr }}Outil exclusif RE/MAX Cartier{{ else if $isAr }}أداة حصرية RE/MAX كارتييه{{ else if $isEs }}Herramienta exclusiva RE/MAX Cartier{{ else }}Exclusive RE/MAX Cartier Tool{{ end }}
+    </span>
+    <h1 class="content-hero__title">{{ .Title }}</h1>
+    {{ with .Description }}<p class="content-hero__meta" style="max-width:560px">{{ . }}</p>{{ end }}
+  </div>
+</section>
+
+<section class="section section--light mc-section" id="tools">
+  <div class="container">
+
+    <!-- Shared utilities must be defined before the tool panel script executes -->
+    <script>
+    window._toolsUtils = (function () {
+      function parseMoney(v) { return parseFloat(String(v).replace(/[^0-9.]/g, '')) || 0; }
+      function formatMoney(n) { return n.toLocaleString('en-CA', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+      function fmt(n) { return '$' + formatMoney(n); }
+      function cmhcRate(downPct) {
+        if (downPct >= 20) return 0;
+        if (downPct >= 15) return 0.0280;
+        if (downPct >= 10) return 0.0310;
+        if (downPct >=  5) return 0.0400;
+        return 0;
+      }
+      function calcCMHC(propertyPrice, loanAmt, downPct) {
+        if (propertyPrice >= 1500000 || downPct >= 20 || downPct < 5) return 0;
+        return Math.round(loanAmt * cmhcRate(downPct));
+      }
+      function effectiveRate(annualPct, ppy) {
+        var semi = annualPct / 100 / 2;
+        return Math.pow(1 + semi, 2 / ppy) - 1;
+      }
+      return { parseMoney: parseMoney, fmt: fmt, formatMoney: formatMoney, cmhcRate: cmhcRate, calcCMHC: calcCMHC, effectiveRate: effectiveRate };
+    })();
+    </script>
+
+    <div class="tools-panel tools-panel--active" id="tool-{{ $tool }}">
+      {{ partial (printf "tools/%s.html" $tool) . }}
+    </div>
+
+    <!-- Link back to the full calculator hub -->
+    <p class="text-center reveal" style="margin-top:32px;">
+      <a href="{{ $base }}/#tools" style="color:var(--navy);font-weight:600">
+        {{ if $isFr }}Voir les 6 calculateurs{{ else if $isAr }}عرض الحاسبات الست{{ else if $isEs }}Ver las 6 calculadoras{{ else }}View All 6 Calculators{{ end }}
+      </a>
+    </p>
+
+    <!-- CTA -->
+    <p class="text-center reveal reveal-delay-2" style="margin-top:16px;color:var(--gray);font-size:.95rem;">
+      {{ if $isFr }}
+        Prêt à passer à l'étape suivante ? <a href="{{ $base }}/#contact" style="color:var(--red);font-weight:600">Contactez-moi</a> pour discuter de votre projet immobilier.
+      {{ else if $isAr }}
+        هل أنت مستعد للخطوة التالية؟ <a href="{{ $base }}/#contact" style="color:var(--red);font-weight:600">تواصل معي</a> لمناقشة مشروعك العقاري.
+      {{ else if $isEs }}
+        ¿Listo para dar el siguiente paso? <a href="{{ $base }}/#contact" style="color:var(--red);font-weight:600">Contácteme</a> para hablar sobre su proyecto inmobiliario.
+      {{ else }}
+        Ready to take the next step? <a href="{{ $base }}/#contact" style="color:var(--red);font-weight:600">Contact me</a> to discuss your real estate project.
+      {{ end }}
+    </p>
+
+  </div>
+</section>
+
+{{ partial "lead-modal.html" . }}
+{{ end }}
