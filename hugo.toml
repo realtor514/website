@@ -47,22 +47,29 @@ defaultContentLanguageInSubdir = false
       parent     = "buyer"
       identifier = "buyer-mortgage"
       name       = "Mortgage Calculator"
-      url        = "/en/#tools"
+      url        = "/en/tools/mortgage/"
       weight     = 3
 
     [[languages.en.menus.main]]
       parent     = "buyer"
       identifier = "buyer-afford"
       name       = "Affordability Calculator"
-      url        = "/en/#tools"
+      url        = "/en/tools/affordability/"
       weight     = 4
 
     [[languages.en.menus.main]]
       parent     = "buyer"
       identifier = "buyer-costs"
-      name       = "Closing Costs & Welcome Tax"
-      url        = "/en/#tools"
+      name       = "Closing Costs"
+      url        = "/en/tools/closing-costs/"
       weight     = 5
+
+    [[languages.en.menus.main]]
+      parent     = "buyer"
+      identifier = "buyer-welcome-tax"
+      name       = "Welcome Tax"
+      url        = "/en/tools/welcome-tax/"
+      weight     = 6
 
     # ── SELLER menu ──
     [[languages.en.menus.main]]
@@ -95,7 +102,7 @@ defaultContentLanguageInSubdir = false
       parent     = "seller"
       identifier = "seller-rvb"
       name       = "Rent vs Buy"
-      url        = "/en/#tools"
+      url        = "/en/tools/rent-vs-buy/"
       weight     = 4
 
     [[languages.en.menus.main]]
@@ -181,22 +188,29 @@ defaultContentLanguageInSubdir = false
       parent     = "buyer"
       identifier = "buyer-mortgage"
       name       = "Calculateur hypothécaire"
-      url        = "/#tools"
+      url        = "/tools/mortgage/"
       weight     = 3
 
     [[languages.fr.menus.main]]
       parent     = "buyer"
       identifier = "buyer-afford"
       name       = "Capacité d'emprunt"
-      url        = "/#tools"
+      url        = "/tools/affordability/"
       weight     = 4
 
     [[languages.fr.menus.main]]
       parent     = "buyer"
       identifier = "buyer-costs"
-      name       = "Frais de clôture & Taxe de bienvenue"
-      url        = "/#tools"
+      name       = "Frais de clôture"
+      url        = "/tools/closing-costs/"
       weight     = 5
+
+    [[languages.fr.menus.main]]
+      parent     = "buyer"
+      identifier = "buyer-welcome-tax"
+      name       = "Taxe de bienvenue"
+      url        = "/tools/welcome-tax/"
+      weight     = 6
 
     # ── VENDEUR menu ──
     [[languages.fr.menus.main]]
@@ -229,7 +243,7 @@ defaultContentLanguageInSubdir = false
       parent     = "seller"
       identifier = "seller-rvb"
       name       = "Louer vs Acheter"
-      url        = "/#tools"
+      url        = "/tools/rent-vs-buy/"
       weight     = 4
 
     [[languages.fr.menus.main]]
@@ -315,14 +329,14 @@ defaultContentLanguageInSubdir = false
       parent     = "buyer"
       identifier = "buyer-mortgage"
       name       = "Calculadora hipotecaria"
-      url        = "/es/#tools"
+      url        = "/es/tools/mortgage/"
       weight     = 3
 
     [[languages.es.menus.main]]
       parent     = "buyer"
       identifier = "buyer-costs"
       name       = "Costos de cierre"
-      url        = "/es/#tools"
+      url        = "/es/tools/closing-costs/"
       weight     = 4
 
     # ── VENDEDOR menu ──
@@ -427,14 +441,14 @@ defaultContentLanguageInSubdir = false
       parent     = "buyer"
       identifier = "buyer-mortgage"
       name       = "حاسبة الرهن العقاري"
-      url        = "/ar/#tools"
+      url        = "/ar/tools/mortgage/"
       weight     = 3
 
     [[languages.ar.menus.main]]
       parent     = "buyer"
       identifier = "buyer-costs"
       name       = "تكاليف الإغلاق"
-      url        = "/ar/#tools"
+      url        = "/ar/tools/closing-costs/"
       weight     = 4
 
     # ── البائع menu ──

@@ -12,7 +12,9 @@
   "buyer-mortgage" (dict "desc" (cond $isFr "Estimez vos versements" (cond $isEs "Calcule sus pagos" (cond $isAr "احسب أقساطك الشهرية" "Estimate your payments"))))
   "buyer-afford"   (dict "desc" (cond $isFr "Combien puis-je emprunter?" (cond $isEs "¿Cuánto puedo pagar?" (cond $isAr "كم يمكنني اقتراضه؟" "How much can I borrow?"))))
   "buyer-costs"    (dict "desc" (cond $isFr "Tous les frais à la clôture" (cond $isEs "Todos los gastos de cierre" (cond $isAr "تكاليف الإغلاق كاملة" "All fees at closing"))))
+  "buyer-welcome-tax" (dict "desc" (cond $isFr "Estimez la taxe de bienvenue" (cond $isEs "Estime el impuesto de bienvenida" (cond $isAr "قدّر رسوم النقل" "Estimate the welcome tax"))))
   "seller-guide"   (dict "desc" (cond $isFr "Stratégie de vente gagnante" (cond $isEs "Estrategia ganadora de venta" (cond $isAr "استراتيجية البيع الرابحة" "Your winning sale strategy"))))
+  "seller-estimate" (dict "desc" (cond $isFr "Estimation rapide de votre bien" (cond $isEs "Estimación rápida de su propiedad" (cond $isAr "تقدير سريع لعقارك" "Quick estimate of your property"))))
   "seller-eval"    (dict "desc" (cond $isFr "Valeur marchande de votre bien" (cond $isEs "Valor de mercado de su propiedad" (cond $isAr "القيمة السوقية لعقارك" "Your property's market value"))))
   "seller-rvb"     (dict "desc" (cond $isFr "Comparez le coût réel" (cond $isEs "Compare el costo real" (cond $isAr "قارن التكلفة الحقيقية" "Compare the true cost"))))
   "seller-market"  (dict "desc" (cond $isFr "Données et tendances du marché" (cond $isEs "Datos y tendencias del mercado" (cond $isAr "بيانات واتجاهات السوق" "Market data and trends"))))
@@ -66,7 +68,7 @@
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
                 {{- else if eq .Identifier "buyer-props" -}}
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-                {{- else if or (eq .Identifier "buyer-mortgage") (eq .Identifier "buyer-afford") (eq .Identifier "buyer-costs") (eq .Identifier "seller-rvb") -}}
+                {{- else if or (eq .Identifier "buyer-mortgage") (eq .Identifier "buyer-afford") (eq .Identifier "buyer-costs") (eq .Identifier "buyer-welcome-tax") (eq .Identifier "seller-rvb") -}}
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
                 {{- else if eq .Identifier "seller-eval" -}}
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
