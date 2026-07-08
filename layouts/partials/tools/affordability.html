@@ -125,7 +125,7 @@
     </div>
   </div>
 
-  <div class="mc-row mc-row--3">
+  <div class="mc-row mc-row--2">
     <div class="mc-field">
       <label class="mc-label" for="af-amort">
         {{ if $isFr }}Amortissement{{ else if $isAr }}فترة الإطفاء{{ else if $isEs }}Amortización{{ else }}Amortization{{ end }}
@@ -141,15 +141,6 @@
         <span class="mc-select-arrow">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
         </span>
-      </div>
-    </div>
-    <div class="mc-field">
-      <label class="mc-label" for="af-tax">
-        {{ if $isFr }}Taxes foncières mensuelles (est.){{ else if $isAr }}الضرائب العقارية الشهرية (تقدير){{ else if $isEs }}Impuesto predial mensual (est.){{ else }}Monthly property tax (est.){{ end }}
-      </label>
-      <div class="mc-input-wrap">
-        <span class="mc-prefix">$</span>
-        <input class="mc-input" id="af-tax" type="text" inputmode="numeric" placeholder="300">
       </div>
     </div>
     <div class="mc-field">
@@ -234,6 +225,15 @@
           </tr>
           <tr class="mc-tr">
             <td class="mc-td mc-td--label">
+              {{ if $isFr }}Taxes foncières mensuelles (est.){{ else if $isAr }}الضرائب العقارية الشهرية (تقدير){{ else if $isEs }}Impuesto predial mensual (est.){{ else }}Monthly property tax (est.){{ end }}
+            </td>
+            <td class="mc-td mc-td--val" id="af-tax">-</td>
+            <td class="mc-td mc-td--val" style="color:var(--gray);font-size:.82rem;">
+              {{ if $isFr }}~1 % de la valeur/an{{ else if $isAr }}~1% من القيمة سنوياً{{ else if $isEs }}~1% del valor/año{{ else }}~1% of value/year{{ end }}
+            </td>
+          </tr>
+          <tr class="mc-tr">
+            <td class="mc-td mc-td--label">
               {{ if $isFr }}PITH mensuel (capital + intérêts + taxes + chauffage){{ else if $isAr }}PITH الشهري (رأس المال + الفوائد + الضرائب + التدفئة){{ else if $isEs }}PITH mensual (capital + intereses + impuestos + calefacción){{ else }}Monthly PITH (principal + interest + taxes + heating){{ end }}
             </td>
             <td class="mc-td mc-td--val" id="af-pith">-</td>
@@ -254,13 +254,13 @@
 
     <p class="mc-results__disclaimer">
       {{ if $isFr }}
-        * Calcul basé sur les règles SCHL 2024. Le test de résistance = max(taux contractuel + 2 %, 5,25 %). ABD ≤ 39 % et ATD ≤ 44 % du revenu brut. Chauffage estimé à 150 $/mois. Consultez un courtier hypothécaire pour une pré-approbation officielle.
+        * Calcul basé sur les règles SCHL 2024. Le test de résistance = max(taux contractuel + 2 %, 5,25 %). ABD ≤ 39 % et ATD ≤ 44 % du revenu brut. Chauffage estimé à 150 $/mois. Taxes foncières estimées à environ 1 % de la valeur de la propriété par année, puisque le prix d'achat exact n'est pas encore connu. Consultez un courtier hypothécaire pour une pré-approbation officielle.
       {{ else if $isAr }}
-        * الحساب مبني على قواعد CMHC 2024. اختبار الإجهاد = max(المعدل التعاقدي + 2%، 5.25%). GDS ≤ 39% وTDS ≤ 44% من الدخل الإجمالي. التدفئة مقدرة بـ 150$/شهر. استشر وسيطاً للرهن العقاري للحصول على موافقة مبدئية رسمية.
+        * الحساب مبني على قواعد CMHC 2024. اختبار الإجهاد = max(المعدل التعاقدي + 2%، 5.25%). GDS ≤ 39% وTDS ≤ 44% من الدخل الإجمالي. التدفئة مقدرة بـ 150$/شهر. الضرائب العقارية مقدرة بنحو 1% من قيمة العقار سنوياً، لأن سعر الشراء الدقيق غير معروف بعد. استشر وسيطاً للرهن العقاري للحصول على موافقة مبدئية رسمية.
       {{ else if $isEs }}
-        * Cálculo basado en las reglas CMHC 2024. Tasa de prueba de estrés = max(tasa contractual + 2%, 5.25%). GDS &le; 39% y TDS &le; 44% del ingreso bruto. Calefacción estimada en $150/mes. Consulte a un corredor hipotecario para una aprobación previa oficial.
+        * Cálculo basado en las reglas CMHC 2024. Tasa de prueba de estrés = max(tasa contractual + 2%, 5.25%). GDS &le; 39% y TDS &le; 44% del ingreso bruto. Calefacción estimada en $150/mes. Impuesto predial estimado en aproximadamente 1% del valor de la propiedad por año, ya que el precio de compra exacto aún no se conoce. Consulte a un corredor hipotecario para una aprobación previa oficial.
       {{ else }}
-        * Calculation based on 2024 CMHC rules. Stress test rate = max(contract rate + 2%, 5.25%). GDS &le; 39% and TDS &le; 44% of gross income. Heating estimated at $150/month. Consult a mortgage broker for an official pre-approval.
+        * Calculation based on 2024 CMHC rules. Stress test rate = max(contract rate + 2%, 5.25%). GDS &le; 39% and TDS &le; 44% of gross income. Heating estimated at $150/month. Property tax estimated at roughly 1% of the property's value per year, since the exact purchase price is not yet known. Consult a mortgage broker for an official pre-approval.
       {{ end }}
     </p>
   </div>
@@ -272,7 +272,9 @@
   var u    = window._toolsUtils;
   var lang = document.documentElement.lang || 'en';
 
-  function findMaxAffordable(annualIncome, monthlyDebts, downPayment, contractRate, amortYears, monthlyTax, condoFees) {
+  var PROPERTY_TAX_RATE = 0.01; // estimated annual property tax as % of purchase price
+
+  function findMaxAffordable(annualIncome, monthlyDebts, downPayment, contractRate, amortYears, condoFees) {
     var stressRate    = Math.max(contractRate + 2, 5.25);
     var ppy           = 12;
     var r             = u.effectiveRate(stressRate, ppy);
@@ -281,18 +283,20 @@
     var heating       = 150;
 
     function computeRatios(price) {
-      if (price <= downPayment) return { gds: 999, tds: 999, payment: 0, pith: 0 };
-      var loan    = price - downPayment;
-      var dpct    = (downPayment / price) * 100;
-      var cmhc    = u.calcCMHC(price, loan, dpct);
-      var P       = loan + cmhc;
-      var payment = r === 0 ? P / N : P * r * Math.pow(1+r,N) / (Math.pow(1+r,N) - 1);
-      var pith    = payment + monthlyTax + heating + condoFees * 0.5;
+      if (price <= downPayment) return { gds: 999, tds: 999, payment: 0, pith: 0, tax: 0 };
+      var loan       = price - downPayment;
+      var dpct       = (downPayment / price) * 100;
+      var cmhc       = u.calcCMHC(price, loan, dpct);
+      var P          = loan + cmhc;
+      var payment    = r === 0 ? P / N : P * r * Math.pow(1+r,N) / (Math.pow(1+r,N) - 1);
+      var monthlyTax = (price * PROPERTY_TAX_RATE) / 12;
+      var pith       = payment + monthlyTax + heating + condoFees * 0.5;
       return {
         gds:     (pith / monthlyIncome) * 100,
         tds:     ((pith + monthlyDebts) / monthlyIncome) * 100,
         payment: payment,
-        pith:    pith
+        pith:    pith,
+        tax:     monthlyTax
       };
     }
 
@@ -310,6 +314,7 @@
       tds:        finalRatios.tds,
       payment:    finalRatios.payment,
       pith:       finalRatios.pith,
+      tax:        finalRatios.tax,
       stressRate: stressRate
     };
   }
@@ -327,10 +332,9 @@
     var down   = u.parseMoney(document.getElementById('af-down').value);
     var rate   = parseFloat(document.getElementById('af-rate').value) || 5.5;
     var amort  = parseInt(document.getElementById('af-amort').value) || 25;
-    var tax    = u.parseMoney(document.getElementById('af-tax').value) || 300;
     var condo  = u.parseMoney(document.getElementById('af-condo').value);
 
-    var result = findMaxAffordable(income, debts, down, rate, amort, tax, condo);
+    var result = findMaxAffordable(income, debts, down, rate, amort, condo);
 
     function set(id, val) { document.getElementById(id).textContent = val; }
     set('af-max-price',     u.fmt(result.price));
@@ -339,6 +343,7 @@
     set('af-tds',           result.tds.toFixed(1) + '%');
     set('af-stress',        result.stressRate.toFixed(2) + '%');
     set('af-pith',          u.fmt(result.pith));
+    set('af-tax',           u.fmt(result.tax));
     set('af-monthly-income', u.fmt(income / 12));
 
     var res = document.getElementById('af-results');
