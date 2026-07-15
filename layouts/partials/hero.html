@@ -3,6 +3,8 @@
 {{ $isEs := eq .Lang "es" }}
 {{ $listingsURL := "/en/listings/" }}
 {{ if $isFr }}{{ $listingsURL = "/listings/" }}{{ else if $isAr }}{{ $listingsURL = "/ar/listings/" }}{{ else if $isEs }}{{ $listingsURL = "/es/listings/" }}{{ end }}
+{{ $homeEstimateURL := "/en/tools/home-estimate/" }}
+{{ if $isFr }}{{ $homeEstimateURL = "/tools/home-estimate/" }}{{ else if $isAr }}{{ $homeEstimateURL = "/ar/tools/home-estimate/" }}{{ else if $isEs }}{{ $homeEstimateURL = "/es/tools/home-estimate/" }}{{ end }}
 
 <section class="hero">
   <img src="{{ "images/office/exterieur_par-proprietaire.webp" | relURL }}"
@@ -28,12 +30,8 @@
         <p class="hero__role reveal reveal-delay-1">{{ .Site.Params.tagline | safeHTML }}</p>
 
         <div class="hero__quicklinks reveal reveal-delay-2">
-          <a href="{{ if $isFr }}/#contact{{ else if $isAr }}/ar/#contact{{ else if $isEs }}/es/#contact{{ else }}/en/#contact{{ end }}" class="hero__quicklink">
-            {{ if $isFr }}Obtenir une évaluation gratuite{{ else if $isAr }}احصل على تقييم مجاني{{ else if $isEs }}Obtener una evaluación gratuita{{ else }}Get a Free Evaluation{{ end }}
-          </a>
-          <span class="hero__quicklink-divider"></span>
-          <a href="#" class="hero__quicklink" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
-            {{ if $isFr }}Consultation gratuite{{ else if $isAr }}استشارة مجانية{{ else if $isEs }}Consulta gratuita{{ else }}Free Consultation{{ end }}
+          <a href="{{ $homeEstimateURL }}" class="hero__quicklink">
+            {{ if $isFr }}Estimation gratuite de la valeur de votre propriété{{ else if $isAr }}تقدير مجاني لقيمة عقارك{{ else if $isEs }}Estimación gratuita del valor de su propiedad{{ else }}Free Estimate of Your Property Value{{ end }}
           </a>
         </div>
 
@@ -43,16 +41,9 @@
               <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
               <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
             </svg>
-            {{ if $isFr }}Prendre rendez-vous{{ else if $isAr }}احجز موعداً{{ else if $isEs }}Reservar una cita{{ else }}Book a Meeting{{ end }}
+            {{ if $isFr }}Consultation gratuite{{ else if $isAr }}استشارة مجانية{{ else if $isEs }}Consulta gratuita{{ else }}Free Consultation{{ end }}
           </button>
           <a href="#contact" class="btn btn-outline">{{ .Site.Params.ctaContact }}</a>
-          <a href="{{ .Site.Params.remaxProfile }}" target="_blank" rel="noopener" class="btn btn-blue">
-            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
-              <polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
-            </svg>
-            {{ if $isFr }}Voir mon profil RE/MAX{{ else if $isAr }}زيارة صفحتي على RE/MAX{{ else if $isEs }}Visitar mi página RE/MAX{{ else }}Visit my RE/MAX page{{ end }}
-          </a>
         </div>
 
         <div class="hero__trust reveal reveal-delay-3">
