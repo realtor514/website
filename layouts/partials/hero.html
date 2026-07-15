@@ -7,9 +7,13 @@
 {{ if $isFr }}{{ $homeEstimateURL = "/tools/home-estimate/" }}{{ else if $isAr }}{{ $homeEstimateURL = "/ar/tools/home-estimate/" }}{{ else if $isEs }}{{ $homeEstimateURL = "/es/tools/home-estimate/" }}{{ end }}
 
 <section class="hero">
-  <img src="{{ "images/office/exterieur_par-proprietaire.webp" | relURL }}"
-       alt="RE/MAX DU CARTIER - Laval"
-       class="hero__bg">
+  <div class="hero__bg-slideshow">
+    <img src="{{ "images/office/exterieur_par-proprietaire.webp" | relURL }}" alt="RE/MAX DU CARTIER - Laval" class="hero__bg-slide">
+    <img src="{{ "images/office/hero-reception.webp" | relURL }}" alt="RE/MAX DU CARTIER - Reception" class="hero__bg-slide">
+    <img src="{{ "images/office/hero-conference.webp" | relURL }}" alt="RE/MAX DU CARTIER - Salle de conference" class="hero__bg-slide">
+    <img src="{{ "images/office/hero-entrance.webp" | relURL }}" alt="RE/MAX DU CARTIER - Entree" class="hero__bg-slide">
+    <img src="{{ "images/office/hero-client-office.webp" | relURL }}" alt="RE/MAX DU CARTIER - Bureau" class="hero__bg-slide">
+  </div>
   <div class="hero__overlay"></div>
 
   <div class="container">
