@@ -326,11 +326,17 @@ p:last-child { margin-bottom: 0; }
 
 @media (prefers-reduced-motion: reduce) {
   .hero__bg-slide {
-    animation: none;
-    opacity: 0;
-    transform: scale(1);
+    animation-name: heroFadeOnly;
+    transform: none;
   }
-  .hero__bg-slide:nth-child(1) { opacity: 1; }
+}
+
+@keyframes heroFadeOnly {
+  0%   { opacity: 0; }
+  3%   { opacity: 1; }
+  17%  { opacity: 1; }
+  20%  { opacity: 0; }
+  100% { opacity: 0; }
 }
 .hero__overlay {
   position: absolute;
