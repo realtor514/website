@@ -16,6 +16,21 @@
   </div>
   <div class="hero__overlay"></div>
 
+  <script>
+    (function () {
+      var slides = document.querySelectorAll('.hero__bg-slide');
+      if (slides.length < 2) return;
+      var current = 0;
+      slides[0].classList.add('is-active');
+      setInterval(function () {
+        var next = (current + 1) % slides.length;
+        slides[next].classList.add('is-active');
+        slides[current].classList.remove('is-active');
+        current = next;
+      }, 6000);
+    })();
+  </script>
+
   <div class="container">
     <div class="hero__inner">
 
