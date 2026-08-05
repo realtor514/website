@@ -10,7 +10,7 @@ cardText: "Roussillon: ciudad pequeña accesible, estación exo y proximidad de 
 facts:
   - value: "Estación"
     label: "Línea exo Candiac en la ciudad"
-  - value: "14"
+  - value: "24"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

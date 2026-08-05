@@ -196,7 +196,7 @@ defaultContentLanguageInSubdir = false
     [[languages.en.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-all"
-      name       = "All areas (14 cities)"
+      name       = "All areas (24 cities)"
       url        = "/en/real-estate-broker/"
       weight     = 1
 
@@ -447,7 +447,7 @@ defaultContentLanguageInSubdir = false
     [[languages.fr.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-all"
-      name       = "Tous les secteurs (14 villes)"
+      name       = "Tous les secteurs (24 villes)"
       url        = "/courtier-immobilier/"
       weight     = 1
 
@@ -670,7 +670,7 @@ defaultContentLanguageInSubdir = false
     [[languages.es.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-all"
-      name       = "Todas las zonas (14 ciudades)"
+      name       = "Todas las zonas (24 ciudades)"
       url        = "/es/corredor-inmobiliario/"
       weight     = 1
 
@@ -899,7 +899,7 @@ defaultContentLanguageInSubdir = false
     [[languages.ar.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-all"
-      name       = "كل المناطق (14 مدينة)"
+      name       = "كل المناطق (24 مدينة)"
       url        = "/ar/wasit-aqari/"
       weight     = 1
 
@@ -988,7 +988,7 @@ defaultContentLanguageInSubdir = false
   linkedin  = ""
   youtube   = ""
 
-  areasServed = ["Laval", "Montréal", "Longueuil", "Brossard", "Terrebonne", "Blainville", "Repentigny", "Boucherville", "Saint-Bruno-de-Montarville", "Chambly", "La Prairie", "Candiac", "Delson", "Saint-Jérôme", "Rive-Nord", "Rive-Sud", "Laurentides", "Lanaudière", "Montérégie", "Saint-Hubert", "Greenfield Park", "Sainte-Julie", "Varennes", "Saint-Constant", "Sainte-Catherine", "Châteauguay", "Boisbriand", "Sainte-Thérèse", "Rosemère", "Mascouche", "Mirabel", "Saint-Eustache"]
+  areasServed = ["Laval", "Montréal", "Longueuil", "Brossard", "Terrebonne", "Blainville", "Repentigny", "Boucherville", "Saint-Bruno-de-Montarville", "Chambly", "La Prairie", "Candiac", "Delson", "Saint-Jérôme", "Boisbriand", "Sainte-Thérèse", "Rosemère", "Mascouche", "Saint-Eustache", "Mirabel", "Sainte-Julie", "Varennes", "Châteauguay", "Saint-Constant", "Rive-Nord", "Rive-Sud", "Laurentides", "Lanaudière", "Montérégie", "Saint-Hubert", "Greenfield Park", "Sainte-Catherine", "Lorraine", "Carignan"]
 
 [markup]
   [markup.goldmark]

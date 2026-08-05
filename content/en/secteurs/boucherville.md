@@ -10,7 +10,7 @@ cardText: "South Shore: Vieux-Boucherville, Harmonie, Sabrevois and the riverfro
 facts:
   - value: "Riverfront"
     label: "River and island access"
-  - value: "14"
+  - value: "24"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

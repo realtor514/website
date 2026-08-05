@@ -596,15 +596,31 @@ input:focus, select:focus, textarea:focus {
    11. LIENS DE CONTENU
    ═══════════════════════════════════════════════════════════════ */
 
-.content-body a:not(.btn) {
-  background-image: linear-gradient(currentColor, currentColor);
-  background-size: 0% 1.5px;
-  background-position: 0 100%;
-  background-repeat: no-repeat;
-  text-decoration: none;
-  transition: background-size .4s var(--ease-out-expo);
+/* Les liens dans le texte doivent se voir sans survol: couleur, gras et
+   soulignement permanents. Avant, ils etaient invisibles jusqu au hover. */
+.content-body a:not(.btn),
+.faq-item__a a,
+.adv-body a:not(.btn) {
+  color: var(--red);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+  text-decoration-color: rgba(176, 0, 0, .45);
+  transition: color .25s, text-decoration-color .25s;
 }
-.content-body a:not(.btn):hover { background-size: 100% 1.5px; }
+.content-body a:not(.btn):hover,
+.faq-item__a a:hover,
+.adv-body a:not(.btn):hover {
+  color: var(--red-dark);
+  text-decoration-color: currentColor;
+}
+.content-body a:not(.btn):focus-visible,
+.faq-item__a a:focus-visible {
+  outline: 2px solid var(--red);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
 
 /* ═══════════════════════════════════════════════════════════════
    12. RESPONSIVE

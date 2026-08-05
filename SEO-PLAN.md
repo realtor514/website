@@ -10,14 +10,14 @@ Tout ceci est en ligne. Le deploiement GitHub Pages prend 2 a 3 minutes.
 
 | Element | Avant | Apres |
 |---|---|---|
-| Pages indexables (FR) | 28 | 103 |
-| Pages indexables (EN) | 28 | 101 |
-| Pages indexables (AR) | 28 | 101 |
-| Pages indexables (ES) | 28 | 52 |
+| Pages indexables (FR) | 28 | 113 |
+| Pages indexables (EN) | 28 | 111 |
+| Pages indexables (AR) | 28 | 111 |
+| Pages indexables (ES) | 28 | 62 |
 | Donnees structurees | aucune | 8 types de schema |
 | Balises hreflang | aucune | 4 langues + x-default |
 | robots.txt | vide | sitemaps + bots IA autorises |
-| Pages ciblant une ville | 0 | 56 (14 villes x 4 langues) |
+| Pages ciblant une ville | 0 | 96 (24 villes x 4 langues) |
 | FAQ structuree | aucune | 8 questions x 4 langues |
 
 ### Detail
@@ -38,14 +38,17 @@ Ils sont maintenant en ligne.
 
 **4. Pages par ville** (le plus gros levier pour les leads)
 
-Rive-Nord et Laurentides: `/courtier-immobilier/laval/`, `/terrebonne/`,
-`/blainville/`, `/repentigny/`, `/saint-jerome/`
+Rive-Nord, Laurentides et Lanaudiere (11): Laval, Terrebonne, Blainville,
+Repentigny, Saint-Jerome, Boisbriand, Sainte-Therese, Rosemere, Mascouche,
+Saint-Eustache, Mirabel
 
-Île de Montréal: `/courtier-immobilier/montreal/`
+Ile de Montreal (1): les 19 arrondissements
 
-Rive-Sud et Montérégie: `/courtier-immobilier/longueuil/`, `/brossard/`,
-`/boucherville/`, `/saint-bruno-de-montarville/`, `/chambly/`, `/la-prairie/`,
-`/candiac/`, `/delson/`
+Rive-Sud et Monteregie (12): Longueuil, Brossard, Boucherville,
+Saint-Bruno-de-Montarville, Chambly, La Prairie, Candiac, Delson,
+Sainte-Julie, Varennes, Chateauguay, Saint-Constant
+
+Format des URL: `/courtier-immobilier/<ville>/`
 
 Et les equivalents en EN (`/en/real-estate-broker/...`), ES
 (`/es/corredor-inmobiliario/...`) et AR (`/ar/wasit-aqari/...`).
@@ -107,10 +110,11 @@ Ne mets pas de mots-cles supplementaires (Google peut suspendre la fiche).
 **3. Adresse et zone de service**
 - Adresse: 2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), QC H7E 5A1
 - Active "Je sers aussi mes clients en dehors de cette adresse"
-- Zones de service a ajouter: Laval, Montreal, Longueuil, Brossard, Terrebonne,
-  Boucherville, Blainville, Repentigny, Saint-Bruno-de-Montarville, Chambly,
-  La Prairie, Candiac, Delson, Saint-Jerome, Boisbriand, Sainte-Therese,
-  Rosemere, Mascouche, Mirabel, Saint-Eustache, Sainte-Julie, Varennes
+- Zones de service a ajouter (les 24 villes couvertes): Laval, Montreal,
+  Longueuil, Brossard, Terrebonne, Boucherville, Blainville, Repentigny,
+  Saint-Bruno-de-Montarville, Chambly, La Prairie, Candiac, Delson,
+  Saint-Jerome, Boisbriand, Sainte-Therese, Rosemere, Mascouche,
+  Saint-Eustache, Mirabel, Sainte-Julie, Varennes, Chateauguay, Saint-Constant
 
 **4. Horaires**
 Mets des horaires reels et larges (ex. lundi-dimanche 8h-20h). Une fiche sans
@@ -234,9 +238,8 @@ https://georgesmatar.ca
    Google favorise nettement les contenus de 800 a 1500 mots sur les sujets
    concurrentiels. Priorite aux 10 articles qui ciblent les requetes les plus
    commerciales (commission, evaluation, premier acheteur, taxe de bienvenue).
-3. **Ajouter des pages villes secondaires**: Boisbriand, Sainte-Therese,
-   Rosemere, Mascouche, Mirabel, Saint-Eustache, Sainte-Julie, Varennes,
-   Chateauguay, Saint-Constant, Sainte-Catherine.
+3. **Ajouter les dernieres villes manquantes**: Sainte-Catherine, Lorraine,
+   Carignan, Saint-Basile-le-Grand, Beloeil, Mont-Saint-Hilaire.
 4. **Ajouter des inscriptions reelles** dans `/listings/`. Une page par
    propriete avec le schema `RealEstateListing` genere des leads directs.
 5. **Optimiser la vitesse.** Les polices Google Fonts sont chargees depuis un

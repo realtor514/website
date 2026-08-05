@@ -10,7 +10,7 @@ cardText: "Roussillon: an accessible small city, an exo station and Candiac next
 facts:
   - value: "Station"
     label: "Exo Candiac line in the city"
-  - value: "14"
+  - value: "24"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

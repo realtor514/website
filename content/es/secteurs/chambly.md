@@ -10,7 +10,7 @@ cardText: "Valle del Richelieu: el Vieux-Chambly, el Bassin y los sectores recie
 facts:
   - value: "Richelieu"
     label: "Mercado ribereño distinto"
-  - value: "14"
+  - value: "24"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

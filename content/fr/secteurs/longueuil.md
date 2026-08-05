@@ -10,7 +10,7 @@ cardText: "Rive-Sud: Vieux-Longueuil, Saint-Hubert et Greenfield Park, trois mar
 facts:
   - value: "3"
     label: "Arrondissements"
-  - value: "14"
+  - value: "24"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

@@ -10,7 +10,7 @@ cardText: "Roussillon: ville planifiée, gare exo et secteurs résidentiels haut
 facts:
   - value: "1957"
     label: "Ville planifiée depuis"
-  - value: "14"
+  - value: "24"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

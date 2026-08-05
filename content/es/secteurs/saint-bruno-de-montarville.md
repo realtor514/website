@@ -10,7 +10,7 @@ cardText: "Rive-Sud: el monte Saint-Bruno, el Vieux-Saint-Bruno y los sectores f
 facts:
   - value: "Monte"
     label: "Parque nacional en la ciudad"
-  - value: "14"
+  - value: "24"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

@@ -10,7 +10,7 @@ cardText: "South Shore: Mont Saint-Bruno, Vieux-Saint-Bruno and the family secto
 facts:
   - value: "Mountain"
     label: "National park within the city"
-  - value: "14"
+  - value: "24"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

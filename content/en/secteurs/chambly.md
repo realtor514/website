@@ -10,7 +10,7 @@ cardText: "Richelieu Valley: Vieux-Chambly, the Bassin and the newer sectors."
 facts:
   - value: "Richelieu"
     label: "Distinct riverfront market"
-  - value: "14"
+  - value: "24"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

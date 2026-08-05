@@ -10,7 +10,7 @@ cardText: "Roussillon: petite ville accessible, gare exo et proximité de Candia
 facts:
   - value: "Gare"
     label: "Ligne exo Candiac sur le territoire"
-  - value: "14"
+  - value: "24"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

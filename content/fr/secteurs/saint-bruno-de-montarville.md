@@ -10,7 +10,7 @@ cardText: "Rive-Sud: le mont Saint-Bruno, le Vieux-Saint-Bruno et les secteurs f
 facts:
   - value: "Mont"
     label: "Parc national sur le territoire"
-  - value: "14"
+  - value: "24"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

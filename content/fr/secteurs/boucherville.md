@@ -10,7 +10,7 @@ cardText: "Rive-Sud: Vieux-Boucherville, Harmonie, Sabrevois et le secteur river
 facts:
   - value: "Riverain"
     label: "Accès au fleuve et aux Îles"
-  - value: "14"
+  - value: "24"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

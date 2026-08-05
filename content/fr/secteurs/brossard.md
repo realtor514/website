@@ -10,7 +10,7 @@ cardText: "Rive-Sud: les secteurs alphabétiques, le DIX30 et le corridor du REM
 facts:
   - value: "3"
     label: "Stations REM sur le territoire"
-  - value: "14"
+  - value: "24"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"
