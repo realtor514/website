@@ -19,7 +19,7 @@ defaultContentLanguageInSubdir = false
       ctaListings = "View Properties"
       ctaContact  = "Contact Me"
       description = "Real estate broker in Montreal, Laval, the Laurentians and Lanaudière. Residential and investment properties."
-      bio         = "I've learned to break complex problems into simple decisions. I bring that same rigor to buying, selling, and investing across Montreal, Laval, the Laurentians and Lanaudière, no jargon, no empty promises."
+      bio         = "I've learned to break complex problems into simple decisions. I bring that same rigor to buying, selling, and investing across Montreal, Laval, the Laurentians and Lanaudière."
       aboutBadge  = "About Me"
       aboutTitle  = "I Approach Real Estate With Rigor and Method"
 
@@ -201,7 +201,7 @@ defaultContentLanguageInSubdir = false
       ctaListings = "Voir les propriétés"
       ctaContact  = "Me contacter"
       description = "Courtier immobilier résidentiel à Montréal, Laval, dans les Laurentides et Lanaudière. Propriétés résidentielles et investissement immobilier."
-      bio         = "J'ai appris à décomposer un problème complexe en décisions simples. J'applique cette même rigueur à l'achat, la vente et l'investissement immobilier à Montréal, Laval, dans les Laurentides et Lanaudière, sans jargon ni promesses en l'air."
+      bio         = "J'ai appris à décomposer un problème complexe en décisions simples. J'applique cette même rigueur à l'achat, la vente et l'investissement immobilier à Montréal, Laval, dans les Laurentides et Lanaudière."
       aboutBadge  = "À propos"
       aboutTitle  = "Je traite l'immobilier avec rigueur et méthode"
 
@@ -383,7 +383,7 @@ defaultContentLanguageInSubdir = false
       ctaListings = "Ver Propiedades"
       ctaContact  = "Contácteme"
       description = "Corredor inmobiliario residencial en Montréal, Laval, los Laurentides y Lanaudière. Propiedades residenciales e inversión inmobiliaria."
-      bio         = "He aprendido a descomponer un problema complejo en decisiones simples. Aplico ese mismo rigor a la compra, venta e inversión inmobiliaria en Montréal, Laval, los Laurentides y Lanaudière, sin jerga ni promesas vacías."
+      bio         = "He aprendido a descomponer un problema complejo en decisiones simples. Aplico ese mismo rigor a la compra, venta e inversión inmobiliaria en Montréal, Laval, los Laurentides y Lanaudière."
       aboutBadge  = "Sobre mí"
       aboutTitle  = "Trato el sector inmobiliario con rigor y método"
 
@@ -536,7 +536,7 @@ defaultContentLanguageInSubdir = false
       ctaListings = "عرض العقارات"
       ctaContact  = "تواصل معي"
       description = "جورج متار، وسيط عقاري سكني في RE/MAX DU CARTIER INC. نخدم المشترين والبائعين والمستثمرين في مونتريال، لافال، منطقة اللورانتيد ولانوديير."
-      bio         = "تعلمت كيف أفكك مشكلة معقدة إلى قرارات بسيطة. أطبق الدقة نفسها على الشراء والبيع والاستثمار العقاري في مونتريال ولافال ومنطقة اللورانتيد ولانوديير، بلا مصطلحات معقدة ولا وعود فارغة."
+      bio         = "تعلمت كيف أفكك مشكلة معقدة إلى قرارات بسيطة. أطبق الدقة نفسها على الشراء والبيع والاستثمار العقاري في مونتريال ولافال ومنطقة اللورانتيد ولانوديير."
       aboutBadge  = "نبذة عني"
       aboutTitle  = "أتعامل مع العقارات بدقة ومنهجية"
 
