@@ -6,10 +6,6 @@ draft: false
 
 Elegir un corredor no consiste solamente en elegir a alguien que publique su propiedad o le abra puertas. Consiste en elegir la estructura que está detrás de esa persona.
 
-Como corredor inmobiliario residencial en **RE/MAX DU CARTIER INC.**, tengo acceso a cuatro programas exclusivos desarrollados por RE/MAX Québec. Tres de ellos lo protegen directamente, en lo financiero y en lo jurídico. El cuarto le hace ahorrar después de la transacción. Ninguno le cuesta un centavo más.
-
-Esto es lo que cambia en la práctica.
-
 ## Lo que usted obtiene al trabajar conmigo
 
 | Programa | Qué cubre | Valor para usted |

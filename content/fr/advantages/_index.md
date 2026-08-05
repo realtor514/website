@@ -6,10 +6,6 @@ draft: false
 
 Choisir un courtier, ce n'est pas seulement choisir quelqu'un qui affichera votre propriété ou vous ouvrira des portes. C'est choisir la structure derrière lui.
 
-En tant que courtier immobilier résidentiel chez **RE/MAX DU CARTIER INC.**, j'ai accès à quatre programmes exclusifs développés par RE/MAX Québec. Trois d'entre eux vous protègent directement, financièrement et juridiquement. Le quatrième vous fait économiser après la transaction. Aucun ne vous coûte un sou de plus.
-
-Voici ce que ça change concrètement.
-
 ## Ce que vous obtenez en travaillant avec moi
 
 | Programme | Ce que ça couvre | Valeur pour vous |

@@ -6,10 +6,6 @@ draft: false
 
 Choosing a broker is not only about choosing someone who will list your property or open doors for you. It is about choosing the structure behind that person.
 
-As a residential real estate broker with **RE/MAX DU CARTIER INC.**, I have access to four exclusive programs developed by RE/MAX Québec. Three of them protect you directly, financially and legally. The fourth saves you money after the transaction. None of them costs you a cent more.
-
-Here is what that means in practice.
-
 ## What you get when you work with me
 
 | Program | What it covers | Value to you |
