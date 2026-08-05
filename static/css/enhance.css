@@ -1143,3 +1143,26 @@ input:focus-visible, select:focus-visible, textarea:focus-visible {
   .footer__sectors { padding-top: 22px; margin-bottom: 22px; }
   .footer__sectors-list { line-height: 2.3; }
 }
+
+/* ══════════════════════════════════════════════
+   GRANDS ECRANS
+   Le contenu restait fige a 1240px quelle que soit
+   la largeur du moniteur. Sur un ecran large, ca
+   donnait une colonne etroite au centre, percue
+   comme un zoom arriere. On elargit le conteneur
+   et on augmente legerement la base typographique.
+   ══════════════════════════════════════════════ */
+@media (min-width: 1600px) {
+  :root { --max-width: 1400px; }
+  .container { padding: 0 40px; }
+}
+
+@media (min-width: 1920px) {
+  :root { --max-width: 1560px; }
+  html { font-size: 17px; }
+}
+
+@media (min-width: 2400px) {
+  :root { --max-width: 1720px; }
+  html { font-size: 18px; }
+}
