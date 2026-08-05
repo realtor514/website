@@ -279,17 +279,19 @@ horaires perd des positions.
 **5. Description (750 caracteres max)**
 Copie-colle ceci:
 
-> Georges Matar, courtier immobilier residentiel chez RE/MAX Du Cartier, dessert
-> Laval, Montreal, Longueuil, Brossard, Terrebonne, Boucherville, Repentigny et
-> l'ensemble de la Rive-Nord, de la Rive-Sud, des Laurentides, de Lanaudiere et
-> de la Monteregie. Achat, vente et
-> investissement immobilier: analyse comparative de marche gratuite, strategie de
-> prix basee sur les donnees reelles du secteur, negociation et accompagnement
-> jusqu'a la signature chez le notaire. Services offerts en francais, anglais,
-> espagnol et arabe. Les programmes exclusifs RE/MAX Quebec sont inclus sans
-> frais: Tranquilli-T (assistance juridique), Integri-T (jusqu'a 50 000 $ de
-> protection contre les vices caches pendant 3 ans) et Coproprie-T (expertise en
-> copropriete). Premiere consultation gratuite et sans engagement.
+> Georges Matar, courtier immobilier résidentiel chez RE/MAX Du Cartier. Je
+> dessers Laval, Montréal, Longueuil, Brossard, Terrebonne, Boucherville,
+> Repentigny, ainsi que la Rive-Nord, la Rive-Sud, les Laurentides, Lanaudière
+> et la Montérégie. Achat, vente et investissement: analyse comparative de
+> marché gratuite, stratégie de prix basée sur les données réelles du secteur,
+> négociation et accompagnement jusqu'à la signature chez le notaire. Services
+> en français, anglais, espagnol et arabe. Les programmes exclusifs RE/MAX
+> Québec sont inclus sans frais: Tranquilli-T (assistance juridique), Intégri-T
+> (jusqu'à 50 000 $ contre les vices cachés pendant 3 ans) et Coproprie-T
+> (copropriété). Première consultation gratuite et sans engagement.
+
+(738 caractères, la limite de Google est 750. Colle le texte d'un seul bloc,
+sans les chevrons.)
 
 **6. Photos - minimum 20** (c'est le point le plus neglige)
 - 1 logo (RE/MAX Du Cartier)
