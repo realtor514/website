@@ -707,8 +707,8 @@ defaultContentLanguageInSubdir = false
   longitude    = -73.6800
   priceRange   = "$$"
   founderTitle = "Courtier immobilier residentiel"
-  # Ajouter ici l URL Google Maps de la fiche Google Business (format https://maps.app.goo.gl/... ou https://www.google.com/maps/place/...)
-  googleBusinessURL = ""
+  # Fiche Google Business. Alimente sameAs et hasMap dans le JSON-LD.
+  googleBusinessURL = "https://share.google/AjCbISVn2Mfe14obG"
 
   # Profils sociaux (laisser vide si inexistant, ils alimentent le sameAs du schema)
   facebook  = ""

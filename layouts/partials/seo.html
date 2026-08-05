@@ -114,6 +114,7 @@
       "employee" (dict "@id" $personID)
 -}}
 {{- if $sameAs }}{{ $agent = merge $agent (dict "sameAs" $sameAs) }}{{ end -}}
+{{- with $p.googleBusinessURL }}{{ $agent = merge $agent (dict "hasMap" .) }}{{ end -}}
 
 {{- $person := dict
       "@type" "Person"
