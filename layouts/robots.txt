@@ -19,5 +19,7 @@ Allow: /
 
 Sitemap: {{ "sitemap.xml" | absURL }}
 {{ range .Site.Home.AllTranslations -}}
-Sitemap: {{ printf "%ssitemap.xml" .Permalink }}
+{{ $sm := printf "%ssitemap.xml" .Permalink -}}
+{{ if ne $sm ("sitemap.xml" | absURL) }}Sitemap: {{ $sm }}
+{{ end -}}
 {{ end -}}
