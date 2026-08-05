@@ -102,7 +102,7 @@
     <h2 style="margin-bottom:32px">{{ if $isFr }}Autres secteurs desservis{{ else if $isAr }}مناطق أخرى مخدومة{{ else if $isEs }}Otras zonas atendidas{{ else }}Other areas served{{ end }}</h2>
     <div class="sector-grid">
       {{ $others := where .CurrentSection.RegularPages "Permalink" "ne" .Permalink }}
-      {{ range first 5 (sort $others "Weight") }}
+      {{ range sort $others "Weight" }}
       <a href="{{ .Permalink }}" class="sector-card">
         <span class="sector-card__city">{{ .Params.city }}</span>
         <span class="sector-card__link">{{ if $isFr }}Voir le secteur{{ else if $isAr }}عرض المنطقة{{ else if $isEs }}Ver la zona{{ else }}View area{{ end }} &rsaquo;</span>

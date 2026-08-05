@@ -33,7 +33,7 @@ faq:
     a: "Oui, sans frais et sans engagement, avec les comparables réels de votre secteur et non une estimation automatisée."
 ---
 
-Repentigny est la porte d'entrée de Lanaudière pour la majorité des acheteurs qui viennent de l'est de l'île. C'est un marché que je couvre régulièrement, en partie parce qu'une part importante de ma clientèle montréalaise y aboutit.
+Repentigny est la porte d'entrée de Lanaudière pour la majorité des acheteurs qui viennent de l'est de l'île. C'est un marché que je couvre au même titre que Laval, Montréal, Terrebonne, Blainville et Saint-Jérôme.
 
 ## Un marché tiré par l'est de Montréal
 

@@ -10,8 +10,8 @@ cardText: "Lower Laurentians: Fontainebleau, Chante-Bois, Notre-Dame, Domaine Ve
 facts:
   - value: "Laurentians"
     label: "Southern gateway"
-  - value: "30 min"
-    label: "From my Duvernay office"
+  - value: "6"
+    label: "Areas served equally"
   - value: "4"
     label: "Languages of service"
   - value: "$0"

@@ -10,8 +10,8 @@ cardText: "Basses-Laurentides: Fontainebleau, Chante-Bois, Notre-Dame, sector de
 facts:
   - value: "Laurentides"
     label: "Puerta de entrada sur"
-  - value: "30 min"
-    label: "De mi oficina de Duvernay"
+  - value: "6"
+    label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"
   - value: "0 $"

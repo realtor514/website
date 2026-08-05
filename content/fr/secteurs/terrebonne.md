@@ -10,8 +10,8 @@ cardText: "Vieux-Terrebonne, Lachenaie, La Plaine et le développement Urbanova.
 facts:
   - value: "4"
     label: "Secteurs distincts"
-  - value: "25 min"
-    label: "De mon bureau de Duvernay"
+  - value: "6"
+    label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"
   - value: "0 $"
@@ -34,7 +34,7 @@ faq:
     a: "Oui. Analyse comparative de marché complète, sans frais ni engagement, avec les ventes récentes et les propriétés retirées du marché dans votre secteur précis."
 ---
 
-Terrebonne est le secteur vers lequel se dirigent beaucoup d'acheteurs qui ont d'abord cherché à Laval. La logique est presque toujours la même: à budget identique, ils obtiennent plus de terrain et une maison plus récente, en échange d'un trajet plus long.
+Terrebonne attire beaucoup d'acheteurs qui ont d'abord cherché plus près de l'île. La logique est presque toujours la même: à budget identique, ils obtiennent plus de terrain et une maison plus récente, en échange d'un trajet plus long.
 
 ## Quatre secteurs, quatre marchés
 

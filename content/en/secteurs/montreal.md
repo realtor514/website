@@ -6,7 +6,7 @@ city: "Montreal"
 url: "/en/real-estate-broker/montreal/"
 translationKey: "secteur-montreal"
 weight: 2
-cardText: "North and east of the island especially: Ahuntsic, Villeray, Saint-Léonard, RDP, Anjou, Rosemont."
+cardText: "All 19 boroughs, with in-depth knowledge of the north and east of the island."
 facts:
   - value: "19"
     label: "Boroughs on the island"
@@ -33,7 +33,7 @@ sectors:
   - "Notre-Dame-de-Grâce"
 faq:
   - q: "Which Montreal boroughs do you know best?"
-    a: "The north and east of the island: Ahuntsic-Cartierville, Villeray, Rosemont-La Petite-Patrie, Saint-Léonard, Montréal-Nord, Rivière-des-Prairies and Anjou. These are the sectors where I transact most, partly because they form the natural extension of the Laval market."
+    a: "The north and east of the island: Ahuntsic-Cartierville, Villeray, Rosemont-La Petite-Patrie, Saint-Léonard, Montréal-Nord, Rivière-des-Prairies and Anjou. That said, I cover the entire island, on the same footing as Laval, Terrebonne, Blainville, Repentigny and Saint-Jérôme."
   - q: "Condo or plex in Montreal: which is the better buy?"
     a: "It depends on your horizon and your tolerance for management. A condo costs you monthly fees you never recover; a plex generates income but demands time and a real cash reserve. I wrote a [detailed comparison](/en/articles/condo-vs-house-montreal/), but the real answer depends on your numbers."
   - q: "Should I worry about Montreal condo fees?"

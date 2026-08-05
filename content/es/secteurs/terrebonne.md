@@ -10,8 +10,8 @@ cardText: "Viejo Terrebonne, Lachenaie, La Plaine y el desarrollo Urbanova."
 facts:
   - value: "4"
     label: "Sectores distintos"
-  - value: "25 min"
-    label: "De mi oficina de Duvernay"
+  - value: "6"
+    label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"
   - value: "0 $"
@@ -34,7 +34,7 @@ faq:
     a: "Sí. Análisis comparativo de mercado completo, sin costo ni compromiso, con las ventas recientes y las propiedades retiradas del mercado en su sector preciso."
 ---
 
-Terrebonne es el sector hacia el que se dirigen muchos compradores que empezaron su búsqueda en Laval. La lógica es casi siempre la misma: con el mismo presupuesto obtienen más terreno y una casa más reciente, a cambio de un trayecto más largo.
+Terrebonne atrae a muchos compradores que empezaron su búsqueda más cerca de la isla. La lógica es casi siempre la misma: con el mismo presupuesto obtienen más terreno y una casa más reciente, a cambio de un trayecto más largo.
 
 ## Cuatro sectores, cuatro mercados
 

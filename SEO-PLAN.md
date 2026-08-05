@@ -10,14 +10,14 @@ Tout ceci est en ligne. Le deploiement GitHub Pages prend 2 a 3 minutes.
 
 | Element | Avant | Apres |
 |---|---|---|
-| Pages indexables (FR) | 28 | 95 |
-| Pages indexables (EN) | 28 | 93 |
-| Pages indexables (AR) | 28 | 93 |
-| Pages indexables (ES) | 28 | 44 |
+| Pages indexables (FR) | 28 | 103 |
+| Pages indexables (EN) | 28 | 101 |
+| Pages indexables (AR) | 28 | 101 |
+| Pages indexables (ES) | 28 | 52 |
 | Donnees structurees | aucune | 8 types de schema |
 | Balises hreflang | aucune | 4 langues + x-default |
 | robots.txt | vide | sitemaps + bots IA autorises |
-| Pages ciblant une ville | 0 | 24 (6 villes x 4 langues) |
+| Pages ciblant une ville | 0 | 56 (14 villes x 4 langues) |
 | FAQ structuree | aucune | 8 questions x 4 langues |
 
 ### Detail
@@ -37,12 +37,15 @@ images, leurs descriptions, tout etait pret. Ils etaient invisibles pour Google.
 Ils sont maintenant en ligne.
 
 **4. Pages par ville** (le plus gros levier pour les leads)
-- `/courtier-immobilier/laval/`
-- `/courtier-immobilier/montreal/`
-- `/courtier-immobilier/terrebonne/`
-- `/courtier-immobilier/blainville/`
-- `/courtier-immobilier/repentigny/`
-- `/courtier-immobilier/saint-jerome/`
+
+Rive-Nord et Laurentides: `/courtier-immobilier/laval/`, `/terrebonne/`,
+`/blainville/`, `/repentigny/`, `/saint-jerome/`
+
+Île de Montréal: `/courtier-immobilier/montreal/`
+
+Rive-Sud et Montérégie: `/courtier-immobilier/longueuil/`, `/brossard/`,
+`/boucherville/`, `/saint-bruno-de-montarville/`, `/chambly/`, `/la-prairie/`,
+`/candiac/`, `/delson/`
 
 Et les equivalents en EN (`/en/real-estate-broker/...`), ES
 (`/es/corredor-inmobiliario/...`) et AR (`/ar/wasit-aqari/...`).
@@ -104,9 +107,10 @@ Ne mets pas de mots-cles supplementaires (Google peut suspendre la fiche).
 **3. Adresse et zone de service**
 - Adresse: 2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), QC H7E 5A1
 - Active "Je sers aussi mes clients en dehors de cette adresse"
-- Zones de service a ajouter: Laval, Montreal, Terrebonne, Blainville,
-  Repentigny, Saint-Jerome, Boisbriand, Sainte-Therese, Rosemere, Mascouche,
-  Mirabel, Saint-Eustache, Lorraine
+- Zones de service a ajouter: Laval, Montreal, Longueuil, Brossard, Terrebonne,
+  Boucherville, Blainville, Repentigny, Saint-Bruno-de-Montarville, Chambly,
+  La Prairie, Candiac, Delson, Saint-Jerome, Boisbriand, Sainte-Therese,
+  Rosemere, Mascouche, Mirabel, Saint-Eustache, Sainte-Julie, Varennes
 
 **4. Horaires**
 Mets des horaires reels et larges (ex. lundi-dimanche 8h-20h). Une fiche sans
@@ -116,8 +120,9 @@ horaires perd des positions.
 Copie-colle ceci:
 
 > Georges Matar, courtier immobilier residentiel chez RE/MAX Du Cartier, dessert
-> Laval, Montreal, Terrebonne, Blainville, Repentigny, Saint-Jerome et
-> l'ensemble de la Rive-Nord, des Laurentides et de Lanaudiere. Achat, vente et
+> Laval, Montreal, Longueuil, Brossard, Terrebonne, Boucherville, Repentigny et
+> l'ensemble de la Rive-Nord, de la Rive-Sud, des Laurentides, de Lanaudiere et
+> de la Monteregie. Achat, vente et
 > investissement immobilier: analyse comparative de marche gratuite, strategie de
 > prix basee sur les donnees reelles du secteur, negociation et accompagnement
 > jusqu'a la signature chez le notaire. Services offerts en francais, anglais,
@@ -150,7 +155,7 @@ Active la messagerie. Google favorise les fiches qui repondent vite.
 **10. Questions/Reponses**
 Publie toi-meme 5 questions et reponds-y (c'est permis et recommande):
 - "Est-ce que l'evaluation de ma propriete est gratuite?"
-- "Quelles villes desservez-vous?"
+- "Quelles villes desservez-vous sur la Rive-Sud?"
 - "Parlez-vous arabe et espagnol?"
 - "Combien coute un courtier pour un acheteur?"
 - "Offrez-vous une protection contre les vices caches?"
@@ -230,7 +235,8 @@ https://georgesmatar.ca
    concurrentiels. Priorite aux 10 articles qui ciblent les requetes les plus
    commerciales (commission, evaluation, premier acheteur, taxe de bienvenue).
 3. **Ajouter des pages villes secondaires**: Boisbriand, Sainte-Therese,
-   Rosemere, Mascouche, Mirabel, Saint-Eustache.
+   Rosemere, Mascouche, Mirabel, Saint-Eustache, Sainte-Julie, Varennes,
+   Chateauguay, Saint-Constant, Sainte-Catherine.
 4. **Ajouter des inscriptions reelles** dans `/listings/`. Une page par
    propriete avec le schema `RealEstateListing` genere des leads directs.
 5. **Optimiser la vitesse.** Les polices Google Fonts sont chargees depuis un

@@ -10,8 +10,8 @@ cardText: "Old Terrebonne, Lachenaie, La Plaine and the Urbanova development."
 facts:
   - value: "4"
     label: "Distinct sectors"
-  - value: "25 min"
-    label: "From my Duvernay office"
+  - value: "6"
+    label: "Areas served equally"
   - value: "4"
     label: "Languages of service"
   - value: "$0"
@@ -34,7 +34,7 @@ faq:
     a: "Yes. A complete comparative market analysis, free and with no obligation, including recent sales and properties withdrawn from the market in your specific sector."
 ---
 
-Terrebonne is where many buyers end up after starting their search in Laval. The logic is almost always the same: at an identical budget, they get more land and a newer home in exchange for a longer commute.
+Terrebonne draws many buyers who started their search closer to the island. The logic is almost always the same: at an identical budget, they get more land and a newer home in exchange for a longer commute.
 
 ## Four sectors, four markets
 

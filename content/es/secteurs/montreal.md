@@ -6,7 +6,7 @@ city: "Montreal"
 url: "/es/corredor-inmobiliario/montreal/"
 translationKey: "secteur-montreal"
 weight: 2
-cardText: "Sobre todo el norte y el este de la isla: Ahuntsic, Villeray, Saint-Léonard, RDP, Anjou, Rosemont."
+cardText: "Los 19 distritos, con un conocimiento profundo del norte y del este de la isla."
 facts:
   - value: "19"
     label: "Distritos en la isla"
@@ -33,7 +33,7 @@ sectors:
   - "Notre-Dame-de-Grâce"
 faq:
   - q: "¿Qué distritos de Montreal conoce mejor?"
-    a: "El norte y el este de la isla: Ahuntsic-Cartierville, Villeray, Rosemont-La Petite-Patrie, Saint-Léonard, Montréal-Nord, Rivière-des-Prairies y Anjou. Son los sectores donde más transacciones hago, en parte porque forman la prolongación natural del mercado de Laval."
+    a: "El norte y el este de la isla: Ahuntsic-Cartierville, Villeray, Rosemont-La Petite-Patrie, Saint-Léonard, Montréal-Nord, Rivière-des-Prairies y Anjou. Dicho esto, cubro toda la isla, por igual que Laval, Terrebonne, Blainville, Repentigny y Saint-Jérôme."
   - q: "¿Condominio o plex en Montreal: cuál es la mejor compra?"
     a: "Depende de su horizonte y de su tolerancia a la gestión. Un condominio le cuesta gastos mensuales que no recupera; un plex genera ingresos pero exige tiempo y una reserva de tesorería real. La respuesta verdadera depende de sus cifras."
   - q: "¿Hay que temer los gastos de condominio en Montreal?"

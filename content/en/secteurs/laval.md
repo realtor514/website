@@ -6,12 +6,12 @@ city: "Laval"
 url: "/en/real-estate-broker/laval/"
 translationKey: "secteur-laval"
 weight: 1
-cardText: "My primary market. Office in Duvernay, full coverage of all 14 Laval neighbourhoods."
+cardText: "All 14 Laval neighbourhoods, from the metro corridor to the family sectors in the west."
 facts:
   - value: "14"
     label: "Neighbourhoods covered in Laval"
-  - value: "Duvernay"
-    label: "My office location"
+  - value: "6"
+    label: "Areas served equally"
   - value: "4"
     label: "Languages of service"
   - value: "$0"
@@ -33,7 +33,7 @@ sectors:
   - "Îles-Laval"
 faq:
   - q: "Which Laval neighbourhoods do you cover?"
-    a: "All 14 sectors of the city, from Laval-Ouest to Saint-François. My RE/MAX Du Cartier office is at 2820 boul. St-Martin Est in Duvernay, which puts me less than 20 minutes from any Laval neighbourhood."
+    a: "All 14 sectors of the city, from Laval-Ouest to Saint-François. My RE/MAX Du Cartier office is at 2820 boul. St-Martin Est in Duvernay, which puts me less than 20 minutes from any Laval neighbourhood. I cover Montreal, Terrebonne, Blainville, Repentigny, Saint-Jérôme and the entire North Shore, Laurentians and Lanaudière on the same footing."
   - q: "How much does a property evaluation in Laval cost?"
     a: "Nothing. The comparative market analysis I prepare for a seller is free and carries no obligation. You leave with the real comparables from your street, not an algorithm-generated estimate."
   - q: "Is Laval a good market for a first purchase?"
@@ -44,7 +44,7 @@ faq:
     a: "French, English, Spanish and Arabic. This matters concretely when a transaction involves a family whose members do not all share a language: nobody signs a document they do not understand."
 ---
 
-Laval is my primary market and my office is located there, at 2820 boulevard St-Martin Est in Duvernay. I do not serve Laval from a distance: I work there every day.
+Laval is one of six areas I cover equally, alongside Montreal, Terrebonne, Blainville, Repentigny and Saint-Jérôme. I have no secondary territory: each area has its own dynamic and I analyze each one with the same rigour.
 
 ## What actually sets the Laval market apart
 

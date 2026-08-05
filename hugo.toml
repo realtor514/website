@@ -10,7 +10,7 @@ defaultContentLanguageInSubdir = false
     languageCode = "en-ca"
     languageName = "English"
     contentDir   = "content/en"
-    title        = "Real Estate Broker Laval & Montreal | Georges Matar RE/MAX"
+    title        = "Real Estate Broker Laval, Montreal, South Shore | Georges Matar"
 
     [languages.en.params]
       role        = "Residential Real Estate Broker"
@@ -18,7 +18,7 @@ defaultContentLanguageInSubdir = false
       heroQuote   = "&ldquo;Your trusted guide to the Montreal, Laval, Laurentians &amp; Lanaudi&egrave;re real estate market.&rdquo;"
       ctaListings = "View Properties"
       ctaContact  = "Contact Me"
-      description = "Real estate broker in Montreal, Laval, the Laurentians and Lanaudière. Residential and investment properties."
+      description = "Real estate broker in Montreal, Laval, Longueuil, Brossard and 14 cities across the North and South Shores. Residential and investment properties."
       bio         = "I've learned to break complex problems into simple decisions. I bring that same rigor to buying, selling, and investing across Montreal, Laval, the Laurentians and Lanaudière."
       aboutBadge  = "About Me"
       aboutTitle  = "I Approach Real Estate With Rigor and Method"
@@ -196,7 +196,7 @@ defaultContentLanguageInSubdir = false
     [[languages.en.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-all"
-      name       = "All areas"
+      name       = "All areas (14 cities)"
       url        = "/en/real-estate-broker/"
       weight     = 1
 
@@ -216,38 +216,52 @@ defaultContentLanguageInSubdir = false
 
     [[languages.en.menus.main]]
       parent     = "secteurs"
+      identifier = "secteurs-longueuil"
+      name       = "Longueuil"
+      url        = "/en/real-estate-broker/longueuil/"
+      weight     = 4
+
+    [[languages.en.menus.main]]
+      parent     = "secteurs"
+      identifier = "secteurs-brossard"
+      name       = "Brossard"
+      url        = "/en/real-estate-broker/brossard/"
+      weight     = 5
+
+    [[languages.en.menus.main]]
+      parent     = "secteurs"
       identifier = "secteurs-terrebonne"
       name       = "Terrebonne"
       url        = "/en/real-estate-broker/terrebonne/"
-      weight     = 4
+      weight     = 6
 
     [[languages.en.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-blainville"
       name       = "Blainville"
       url        = "/en/real-estate-broker/blainville/"
-      weight     = 5
+      weight     = 7
 
     [[languages.en.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-repentigny"
       name       = "Repentigny"
       url        = "/en/real-estate-broker/repentigny/"
-      weight     = 6
+      weight     = 8
 
     [[languages.en.menus.main]]
       parent     = "secteurs"
-      identifier = "secteurs-saint-jerome"
-      name       = "Saint-Jérôme"
-      url        = "/en/real-estate-broker/saint-jerome/"
-      weight     = 7
+      identifier = "secteurs-boucherville"
+      name       = "Boucherville"
+      url        = "/en/real-estate-broker/boucherville/"
+      weight     = 9
 
   [languages.fr]
     weight       = 1
     languageCode = "fr-ca"
     languageName = "Français"
     contentDir   = "content/fr"
-    title        = "Courtier immobilier Laval & Montréal | Georges Matar RE/MAX"
+    title        = "Courtier immobilier Laval, Montréal, Rive-Sud | Georges Matar"
 
     [languages.fr.params]
       role        = "Courtier Immobilier Résidentiel"
@@ -255,7 +269,7 @@ defaultContentLanguageInSubdir = false
       heroQuote   = "Analyse rigoureuse. N&eacute;gociation experte. R&eacute;sultats concrets."
       ctaListings = "Voir les propriétés"
       ctaContact  = "Me contacter"
-      description = "Courtier immobilier résidentiel à Montréal, Laval, dans les Laurentides et Lanaudière. Propriétés résidentielles et investissement immobilier."
+      description = "Courtier immobilier résidentiel à Montréal, Laval, Longueuil, Brossard et dans 14 villes de la Rive-Nord et de la Rive-Sud. Résidentiel et investissement."
       bio         = "J'ai appris à décomposer un problème complexe en décisions simples. J'applique cette même rigueur à l'achat, la vente et l'investissement immobilier à Montréal, Laval, dans les Laurentides et Lanaudière."
       aboutBadge  = "À propos"
       aboutTitle  = "Je traite l'immobilier avec rigueur et méthode"
@@ -433,7 +447,7 @@ defaultContentLanguageInSubdir = false
     [[languages.fr.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-all"
-      name       = "Tous les secteurs"
+      name       = "Tous les secteurs (14 villes)"
       url        = "/courtier-immobilier/"
       weight     = 1
 
@@ -453,31 +467,45 @@ defaultContentLanguageInSubdir = false
 
     [[languages.fr.menus.main]]
       parent     = "secteurs"
+      identifier = "secteurs-longueuil"
+      name       = "Longueuil"
+      url        = "/courtier-immobilier/longueuil/"
+      weight     = 4
+
+    [[languages.fr.menus.main]]
+      parent     = "secteurs"
+      identifier = "secteurs-brossard"
+      name       = "Brossard"
+      url        = "/courtier-immobilier/brossard/"
+      weight     = 5
+
+    [[languages.fr.menus.main]]
+      parent     = "secteurs"
       identifier = "secteurs-terrebonne"
       name       = "Terrebonne"
       url        = "/courtier-immobilier/terrebonne/"
-      weight     = 4
+      weight     = 6
 
     [[languages.fr.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-blainville"
       name       = "Blainville"
       url        = "/courtier-immobilier/blainville/"
-      weight     = 5
+      weight     = 7
 
     [[languages.fr.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-repentigny"
       name       = "Repentigny"
       url        = "/courtier-immobilier/repentigny/"
-      weight     = 6
+      weight     = 8
 
     [[languages.fr.menus.main]]
       parent     = "secteurs"
-      identifier = "secteurs-saint-jerome"
-      name       = "Saint-Jérôme"
-      url        = "/courtier-immobilier/saint-jerome/"
-      weight     = 7
+      identifier = "secteurs-boucherville"
+      name       = "Boucherville"
+      url        = "/courtier-immobilier/boucherville/"
+      weight     = 9
 
   [languages.es]
     weight       = 3
@@ -642,7 +670,7 @@ defaultContentLanguageInSubdir = false
     [[languages.es.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-all"
-      name       = "Todas las zonas"
+      name       = "Todas las zonas (14 ciudades)"
       url        = "/es/corredor-inmobiliario/"
       weight     = 1
 
@@ -662,31 +690,45 @@ defaultContentLanguageInSubdir = false
 
     [[languages.es.menus.main]]
       parent     = "secteurs"
+      identifier = "secteurs-longueuil"
+      name       = "Longueuil"
+      url        = "/es/corredor-inmobiliario/longueuil/"
+      weight     = 4
+
+    [[languages.es.menus.main]]
+      parent     = "secteurs"
+      identifier = "secteurs-brossard"
+      name       = "Brossard"
+      url        = "/es/corredor-inmobiliario/brossard/"
+      weight     = 5
+
+    [[languages.es.menus.main]]
+      parent     = "secteurs"
       identifier = "secteurs-terrebonne"
       name       = "Terrebonne"
       url        = "/es/corredor-inmobiliario/terrebonne/"
-      weight     = 4
+      weight     = 6
 
     [[languages.es.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-blainville"
       name       = "Blainville"
       url        = "/es/corredor-inmobiliario/blainville/"
-      weight     = 5
+      weight     = 7
 
     [[languages.es.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-repentigny"
       name       = "Repentigny"
       url        = "/es/corredor-inmobiliario/repentigny/"
-      weight     = 6
+      weight     = 8
 
     [[languages.es.menus.main]]
       parent     = "secteurs"
-      identifier = "secteurs-saint-jerome"
-      name       = "Saint-Jérôme"
-      url        = "/es/corredor-inmobiliario/saint-jerome/"
-      weight     = 7
+      identifier = "secteurs-boucherville"
+      name       = "Boucherville"
+      url        = "/es/corredor-inmobiliario/boucherville/"
+      weight     = 9
 
   [languages.ar]
     weight       = 4
@@ -857,7 +899,7 @@ defaultContentLanguageInSubdir = false
     [[languages.ar.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-all"
-      name       = "كل المناطق"
+      name       = "كل المناطق (14 مدينة)"
       url        = "/ar/wasit-aqari/"
       weight     = 1
 
@@ -877,31 +919,45 @@ defaultContentLanguageInSubdir = false
 
     [[languages.ar.menus.main]]
       parent     = "secteurs"
+      identifier = "secteurs-longueuil"
+      name       = "لونغوي"
+      url        = "/ar/wasit-aqari/longueuil/"
+      weight     = 4
+
+    [[languages.ar.menus.main]]
+      parent     = "secteurs"
+      identifier = "secteurs-brossard"
+      name       = "بروسار"
+      url        = "/ar/wasit-aqari/brossard/"
+      weight     = 5
+
+    [[languages.ar.menus.main]]
+      parent     = "secteurs"
       identifier = "secteurs-terrebonne"
       name       = "تيربون"
       url        = "/ar/wasit-aqari/terrebonne/"
-      weight     = 4
+      weight     = 6
 
     [[languages.ar.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-blainville"
       name       = "بلينفيل"
       url        = "/ar/wasit-aqari/blainville/"
-      weight     = 5
+      weight     = 7
 
     [[languages.ar.menus.main]]
       parent     = "secteurs"
       identifier = "secteurs-repentigny"
       name       = "روبنتيني"
       url        = "/ar/wasit-aqari/repentigny/"
-      weight     = 6
+      weight     = 8
 
     [[languages.ar.menus.main]]
       parent     = "secteurs"
-      identifier = "secteurs-saint-jerome"
-      name       = "سان جيروم"
-      url        = "/ar/wasit-aqari/saint-jerome/"
-      weight     = 7
+      identifier = "secteurs-boucherville"
+      name       = "بوشرفيل"
+      url        = "/ar/wasit-aqari/boucherville/"
+      weight     = 9
 
 [params]
   name         = "Georges Matar"
@@ -932,7 +988,7 @@ defaultContentLanguageInSubdir = false
   linkedin  = ""
   youtube   = ""
 
-  areasServed = ["Laval", "Montréal", "Rive-Nord", "Rive-Sud", "Laurentides", "Lanaudière", "Terrebonne", "Blainville", "Repentigny", "Saint-Jérôme", "Boisbriand", "Rosemère", "Mascouche", "Sainte-Thérèse", "Mirabel"]
+  areasServed = ["Laval", "Montréal", "Longueuil", "Brossard", "Terrebonne", "Blainville", "Repentigny", "Boucherville", "Saint-Bruno-de-Montarville", "Chambly", "La Prairie", "Candiac", "Delson", "Saint-Jérôme", "Rive-Nord", "Rive-Sud", "Laurentides", "Lanaudière", "Montérégie", "Saint-Hubert", "Greenfield Park", "Sainte-Julie", "Varennes", "Saint-Constant", "Sainte-Catherine", "Châteauguay", "Boisbriand", "Sainte-Thérèse", "Rosemère", "Mascouche", "Mirabel", "Saint-Eustache"]
 
 [markup]
   [markup.goldmark]

@@ -33,7 +33,7 @@ faq:
     a: "Yes, free and with no obligation, using real comparables from your sector rather than an automated estimate."
 ---
 
-Repentigny is the gateway to Lanaudière for most buyers coming from the east end of the island. It is a market I cover regularly, partly because a significant share of my Montreal clientele ends up there.
+Repentigny is the gateway to Lanaudière for most buyers coming from the east end of the island. It is a market I cover on the same footing as Laval, Montreal, Terrebonne, Blainville and Saint-Jérôme.
 
 ## A market pulled by east-end Montreal
 

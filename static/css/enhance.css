@@ -575,7 +575,6 @@
 .adv-fact { transition: transform .5s var(--ease-spring); }
 .adv-fact:hover { transform: translateY(-4px); }
 .adv-fact__value {
-  background-image: linear-gradient(180deg, currentColor, currentColor);
   letter-spacing: -.02em;
 }
 

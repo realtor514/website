@@ -6,12 +6,12 @@ city: "Laval"
 url: "/es/corredor-inmobiliario/laval/"
 translationKey: "secteur-laval"
 weight: 1
-cardText: "Mi mercado principal. Oficina en Duvernay, cobertura completa de los 14 barrios de Laval."
+cardText: "Los 14 barrios de Laval, del corredor del metro a los sectores familiares del oeste."
 facts:
   - value: "14"
     label: "Barrios cubiertos en Laval"
-  - value: "Duvernay"
-    label: "Ubicación de mi oficina"
+  - value: "6"
+    label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"
   - value: "0 $"
@@ -33,7 +33,7 @@ sectors:
   - "Îles-Laval"
 faq:
   - q: "¿Qué barrios de Laval cubre?"
-    a: "Los 14 sectores de la ciudad, de Laval-Ouest a Saint-François. Mi oficina RE/MAX Du Cartier está en el 2820, boul. St-Martin Est, en Duvernay, lo que me sitúa a menos de 20 minutos de cualquier barrio de Laval."
+    a: "Los 14 sectores de la ciudad, de Laval-Ouest a Saint-François. Mi oficina RE/MAX Du Cartier está en el 2820, boul. St-Martin Est, en Duvernay, lo que me sitúa a menos de 20 minutos de cualquier barrio de Laval. También cubro Montreal, Terrebonne, Blainville, Repentigny, Saint-Jérôme y toda la Rive-Nord, las Laurentides y Lanaudière, por igual."
   - q: "¿Cuánto cuesta una evaluación de mi propiedad en Laval?"
     a: "Nada. El análisis comparativo de mercado que preparo para un vendedor es gratuito y sin compromiso. Usted se queda con los comparables reales de su calle, no con una estimación generada por un algoritmo."
   - q: "¿Es Laval un buen mercado para una primera compra?"
@@ -44,7 +44,7 @@ faq:
     a: "Francés, inglés, español y árabe. Es una ventaja concreta cuando una transacción involucra a una familia cuyos miembros no hablan todos el mismo idioma: nadie firma un documento que no entiende."
 ---
 
-Laval es mi mercado principal y mi oficina está allí, en el 2820, boulevard St-Martin Est, en Duvernay. No atiendo Laval desde lejos: trabajo allí todos los días.
+Laval es una de las seis zonas que cubro por igual, junto a Montreal, Terrebonne, Blainville, Repentigny y Saint-Jérôme. No tengo territorio secundario: cada zona tiene su propia dinámica y la analizo con el mismo rigor.
 
 ## Lo que realmente distingue al mercado de Laval
 

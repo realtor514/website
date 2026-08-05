@@ -6,7 +6,7 @@ city: "Montréal"
 url: "/courtier-immobilier/montreal/"
 translationKey: "secteur-montreal"
 weight: 2
-cardText: "Nord et est de l'île surtout: Ahuntsic, Villeray, Saint-Léonard, RDP, Anjou, Rosemont."
+cardText: "Les 19 arrondissements, avec une connaissance approfondie du nord et de l'est de l'île."
 facts:
   - value: "19"
     label: "Arrondissements sur l'île"
@@ -33,7 +33,7 @@ sectors:
   - "Notre-Dame-de-Grâce"
 faq:
   - q: "Quels arrondissements de Montréal connaissez-vous le mieux?"
-    a: "Le nord et l'est de l'île: Ahuntsic-Cartierville, Villeray, Rosemont-La Petite-Patrie, Saint-Léonard, Montréal-Nord, Rivière-des-Prairies et Anjou. Ce sont les secteurs où je transige le plus, en partie parce qu'ils forment le prolongement naturel du marché lavallois."
+    a: "Le nord et l'est de l'île: Ahuntsic-Cartierville, Villeray, Rosemont-La Petite-Patrie, Saint-Léonard, Montréal-Nord, Rivière-des-Prairies et Anjou. Cela dit, je couvre l'ensemble de l'île, au même titre que Laval, Terrebonne, Blainville, Repentigny et Saint-Jérôme."
   - q: "Un condo ou un plex à Montréal: lequel est le meilleur achat?"
     a: "Cela dépend de votre horizon et de votre tolérance à la gestion. Un condo vous coûte des frais mensuels que vous ne récupérez pas; un plex vous procure des revenus mais exige du temps et une réserve de trésorerie réelle. J'ai écrit un [texte détaillé sur cette comparaison](/articles/condo-vs-house-montreal/), mais la vraie réponse dépend de vos chiffres."
   - q: "Faut-il craindre les frais de condo à Montréal?"

@@ -6,12 +6,12 @@ city: "Laval"
 url: "/courtier-immobilier/laval/"
 translationKey: "secteur-laval"
 weight: 1
-cardText: "Mon secteur principal. Bureau à Duvernay, couverture complète des 14 quartiers lavallois."
+cardText: "Les 14 quartiers lavallois, du corridor du métro aux secteurs familiaux de l'ouest."
 facts:
   - value: "14"
     label: "Quartiers couverts à Laval"
-  - value: "Duvernay"
-    label: "Emplacement de mon bureau"
+  - value: "6"
+    label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"
   - value: "0 $"
@@ -33,7 +33,7 @@ sectors:
   - "Îles-Laval"
 faq:
   - q: "Quels quartiers de Laval couvrez-vous?"
-    a: "Les 14 secteurs de la ville, de Laval-Ouest à Saint-François. Mon bureau RE/MAX Du Cartier est situé au 2820, boul. St-Martin Est à Duvernay, ce qui me place à moins de 20 minutes de n'importe quel quartier lavallois."
+    a: "Les 14 secteurs de la ville, de Laval-Ouest à Saint-François. Mon bureau RE/MAX Du Cartier est situé au 2820, boul. St-Martin Est à Duvernay, ce qui me place à moins de 20 minutes de n'importe quel quartier lavallois. Je couvre aussi Montréal, Terrebonne, Blainville, Repentigny, Saint-Jérôme et l'ensemble de la Rive-Nord, des Laurentides et de Lanaudière, au même titre."
   - q: "Combien coûte une évaluation de ma propriété à Laval?"
     a: "Rien. L'analyse comparative de marché que je prépare pour un vendeur est gratuite et sans engagement. Vous repartez avec les comparables réels de votre rue, pas avec une estimation générée par un algorithme."
   - q: "Est-ce que Laval est un bon marché pour un premier achat?"
@@ -44,7 +44,7 @@ faq:
     a: "Français, anglais, espagnol et arabe. C'est un avantage concret quand une transaction implique une famille dont les membres ne parlent pas tous la même langue: personne ne signe un document qu'il ne comprend pas."
 ---
 
-Laval est mon marché principal et mon bureau y est situé, au 2820, boulevard St-Martin Est, à Duvernay. Je ne dessers pas Laval de loin: j'y travaille tous les jours.
+Laval fait partie des six secteurs que je couvre au même titre, avec Montréal, Terrebonne, Blainville, Repentigny et Saint-Jérôme. Je n'ai pas de secteur secondaire: chacun a sa propre dynamique et je l'analyse avec la même rigueur.
 
 ## Ce qui distingue vraiment le marché lavallois
 
