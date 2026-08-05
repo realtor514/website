@@ -18,7 +18,7 @@ defaultContentLanguageInSubdir = false
       heroQuote   = "&ldquo;Your trusted guide to the Montreal, Laval, Laurentians &amp; Lanaudi&egrave;re real estate market.&rdquo;"
       ctaListings = "View Properties"
       ctaContact  = "Contact Me"
-      description = "Real estate broker in Montreal, Laval, Longueuil, Brossard and 14 cities across the North and South Shores. Residential and investment properties."
+      description = "Real estate broker in Montreal, Laval, Longueuil, Brossard and 24 cities across the North and South Shores. Residential and investment properties."
       bio         = "I've learned to break complex problems into simple decisions. I bring that same rigor to buying, selling, and investing across Montreal, Laval, the Laurentians and Lanaudière."
       aboutBadge  = "About Me"
       aboutTitle  = "I Approach Real Estate With Rigor and Method"
@@ -201,7 +201,7 @@ defaultContentLanguageInSubdir = false
       heroQuote   = "Analyse rigoureuse. N&eacute;gociation experte. R&eacute;sultats concrets."
       ctaListings = "Voir les propriétés"
       ctaContact  = "Me contacter"
-      description = "Courtier immobilier résidentiel à Montréal, Laval, Longueuil, Brossard et dans 14 villes de la Rive-Nord et de la Rive-Sud. Résidentiel et investissement."
+      description = "Courtier immobilier résidentiel à Montréal, Laval, Longueuil, Brossard et dans 24 villes de la Rive-Nord et de la Rive-Sud. Résidentiel et investissement."
       bio         = "J'ai appris à décomposer un problème complexe en décisions simples. J'applique cette même rigueur à l'achat, la vente et l'investissement immobilier à Montréal, Laval, dans les Laurentides et Lanaudière."
       aboutBadge  = "À propos"
       aboutTitle  = "Je traite l'immobilier avec rigueur et méthode"
@@ -692,23 +692,23 @@ defaultContentLanguageInSubdir = false
   brokerage    = "RE/MAX DU CARTIER INC."
   phone        = "(438) 372-0102"
   email        = "georges.matar@remax-quebec.com"
-  address      = "2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), Québec H7E 5A1"
+  address      = "2820, boul. Saint-Martin Est, bureau 201, Laval (Duvernay), Québec H7E 5A1"
   remaxProfile = "https://remaxducartier.com/fr/courtiers/georges-matar-140955"
 
   # ── SEO / donnees structurees ──
   ogImage      = "images/georges-matar.png"
   phoneRaw     = "+14383720102"
-  streetAddress   = "2820, boul. St-Martin Est, Bureau 201"
+  streetAddress   = "2820, boul. Saint-Martin Est, bureau 201"
   addressLocality = "Laval"
   addressRegion   = "QC"
   postalCode      = "H7E 5A1"
   addressCountry  = "CA"
-  latitude     = 45.6100
-  longitude    = -73.6800
+  latitude     = 45.6000301
+  longitude    = -73.6815269
   priceRange   = "$$"
   founderTitle = "Courtier immobilier residentiel"
   # Fiche Google Business. Alimente sameAs et hasMap dans le JSON-LD.
-  googleBusinessURL = "https://share.google/AjCbISVn2Mfe14obG"
+  googleBusinessURL = "https://maps.google.com/?cid=7533992484077488450"
 
   # Profils sociaux (laisser vide si inexistant, ils alimentent le sameAs du schema)
   facebook  = ""
