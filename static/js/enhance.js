@@ -180,19 +180,13 @@
   /* ─────────────────────────────────────────────────────────────
      9. Bandeau defilant sous le hero
      ───────────────────────────────────────────────────────────── */
+  /* Territoire desservi uniquement. Rien qui repete le hero
+     (badge RE/MAX, Ingenieur PhD, langues, reseau mondial). */
   var MARQUEE = {
-    fr: ['RE/MAX DU CARTIER INC.', 'Montréal', 'Laval', 'Rive-Nord', 'Rive-Sud', 'Laurentides', 'Lanaudière',
-         'Ingénieur (PhD)', '4 langues parlées', 'Tranquilli-T inclus', 'Intégri-T jusqu’à 50 000 $',
-         'Évaluation gratuite', 'Réseau mondial RE/MAX'],
-    en: ['RE/MAX DU CARTIER INC.', 'Montreal', 'Laval', 'North Shore', 'South Shore', 'Laurentians', 'Lanaudière',
-         'Engineer (PhD)', '4 languages spoken', 'Tranquilli-T included', 'Integri-T up to $50,000',
-         'Free evaluation', 'RE/MAX global network'],
-    es: ['RE/MAX DU CARTIER INC.', 'Montreal', 'Laval', 'Rive-Nord', 'Rive-Sud', 'Laurentides', 'Lanaudière',
-         'Ingeniero (PhD)', '4 idiomas', 'Tranquilli-T incluido', 'Integri-T hasta 50 000 $',
-         'Evaluación gratuita', 'Red mundial RE/MAX'],
-    ar: ['RE/MAX DU CARTIER INC.', 'مونتريال', 'لافال', 'الضفة الشمالية', 'الضفة الجنوبية', 'اللورانتيد', 'لانوديير',
-         'مهندس (دكتوراه)', '4 لغات', 'Tranquilli-T مشمول', 'Integri-T حتى 50,000 $',
-         'تقييم مجاني', 'شبكة RE/MAX العالمية']
+    fr: ['Montréal', 'Laval', 'Rive-Nord', 'Rive-Sud', 'Laurentides', 'Lanaudière'],
+    en: ['Montreal', 'Laval', 'North Shore', 'South Shore', 'Laurentians', 'Lanaudière'],
+    es: ['Montreal', 'Laval', 'Rive-Nord', 'Rive-Sud', 'Laurentides', 'Lanaudière'],
+    ar: ['مونتريال', 'لافال', 'الضفة الشمالية', 'الضفة الجنوبية', 'اللورانتيد', 'لانوديير']
   };
 
   function setupMarquee() {
@@ -200,15 +194,16 @@
     if (!hero || document.querySelector('.marquee')) return;
 
     var items = MARQUEE[lang] || MARQUEE.fr;
-    var group = '<div class="marquee__group">' +
+    var groupHTML = '<div class="marquee__group">' +
       items.map(function (t) { return '<span class="marquee__item">' + t + '</span>'; }).join('') +
       '</div>';
 
+    /* Bande statique, pas de defilement: avec six regions seulement, une
+       boucle animee finirait toujours par afficher deux fois le meme mot
+       sur un ecran large. Ici chaque region n apparait qu une seule fois. */
     var bar = document.createElement('div');
     bar.className = 'marquee';
-    bar.setAttribute('aria-hidden', 'true');
-    // Deux groupes identiques: la boucle est continue
-    bar.innerHTML = '<div class="marquee__track">' + group + group + '</div>';
+    bar.innerHTML = '<div class="marquee__track">' + groupHTML + '</div>';
     hero.insertAdjacentElement('afterend', bar);
   }
 

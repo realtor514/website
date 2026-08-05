@@ -218,55 +218,42 @@
 }
 
 /* ═══════════════════════════════════════════════════════════════
-   3. BANDEAU DEFILANT (marquee)
+   3. BANDE DE TERRITOIRE (sous le hero)
    ═══════════════════════════════════════════════════════════════ */
 
+/* Bande de territoire: statique, chaque region affichee une seule fois */
 .marquee {
   position: relative;
-  overflow: hidden;
   background: var(--navy);
   border-top: 1px solid rgba(255,255,255,.07);
   border-bottom: 1px solid rgba(255,255,255,.07);
-  padding: 15px 0;
+  padding: 16px 24px;
+  overflow: hidden;
 }
-/* Fondus lateraux poses par dessus: le fond marine reste plein */
-.marquee::before,
-.marquee::after {
-  content: '';
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 90px;
-  z-index: 2;
-  pointer-events: none;
-}
-.marquee::before { left: 0;  background: linear-gradient(90deg,  var(--navy), transparent); }
-.marquee::after  { right: 0; background: linear-gradient(270deg, var(--navy), transparent); }
-
 .marquee__track {
   display: flex;
-  width: max-content;
-  animation: marqueeSlide 46s linear infinite;
+  justify-content: center;
 }
-.marquee:hover .marquee__track { animation-play-state: paused; }
 .marquee__group {
   display: flex;
   align-items: center;
-  gap: 42px;
-  padding-inline-end: 42px;
-  flex-shrink: 0;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 14px 38px;
 }
 .marquee__item {
   display: inline-flex;
   align-items: center;
   gap: 12px;
-  color: rgba(255,255,255,.62);
-  font-size: .74rem;
+  color: rgba(255,255,255,.66);
+  font-size: .76rem;
   font-weight: 600;
   letter-spacing: .2em;
   text-transform: uppercase;
   white-space: nowrap;
+  transition: color .35s var(--ease-smooth);
 }
+.marquee__item:hover { color: #fff; }
 .marquee__item::before {
   content: '';
   width: 5px;
@@ -276,11 +263,6 @@
   box-shadow: 0 0 12px rgba(204,0,0,.9);
   flex-shrink: 0;
 }
-@keyframes marqueeSlide {
-  from { transform: translateX(0); }
-  to   { transform: translateX(-50%); }
-}
-[dir="rtl"] .marquee__track { animation-direction: reverse; }
 
 /* ═══════════════════════════════════════════════════════════════
    4. EN-TETES DE SECTION
@@ -631,9 +613,9 @@ input:focus, select:focus, textarea:focus {
 
 @media (max-width: 860px) {
   .hero__scroll-cue { display: none; }
-  .marquee { padding: 12px 0; }
-  .marquee__item { font-size: .67rem; letter-spacing: .16em; }
-  .marquee__group { gap: 28px; padding-inline-end: 28px; }
+  .marquee { padding: 14px 18px; }
+  .marquee__item { font-size: .67rem; letter-spacing: .14em; }
+  .marquee__group { gap: 10px 22px; }
 }
 
 @media (hover: none) {
@@ -658,7 +640,6 @@ input:focus, select:focus, textarea:focus {
     transform: none !important;
   }
   [data-wipe] { clip-path: none !important; }
-  .marquee__track { animation: none !important; }
   .hero__scroll-cue { display: none; }
   /* Le carrousel du hero et le degrade du nom restent visibles, sans mouvement */
   .hero__name span { animation: none !important; background-position: 30% 50% !important; }
