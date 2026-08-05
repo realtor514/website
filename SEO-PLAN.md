@@ -66,23 +66,179 @@ apparaitre directement dans les resultats Google.
 
 Ces etapes demandent tes identifiants. Je ne peux pas les faire a ta place.
 
-### A. Google Search Console (10 min) - PRIORITE 1
+### A. Google Search Console - FAIT
 
-Sans ca, Google decouvre tes 300 nouvelles pages en quelques semaines au lieu
-de quelques jours.
+1. Propriete `georgesmatar.ca` ajoutee en "Prefixe d'URL"
+2. Validee par fichier HTML (`/google279547fdbb37f62a.html`, ne pas supprimer)
+3. Les 5 sitemaps sont soumis et acceptes:
+   `sitemap.xml`, `fr/sitemap.xml`, `en/sitemap.xml`, `es/sitemap.xml`,
+   `ar/sitemap.xml`
+   URLs declarees: 102 en FR, 102 en EN, 102 en AR, 53 en ES
 
-1. Va sur https://search.google.com/search-console
-2. Ajoute la propriete `georgesmatar.ca` (choisis "Prefixe d'URL",
-   pas "Domaine", c'est plus simple avec GitHub Pages)
-3. Methode de verification: choisis "Balise HTML". Google te donne un code
-   du type `<meta name="google-site-verification" content="ABC123...">`.
-   **Envoie-moi ce code, je l'installe dans le site en 2 minutes.**
-4. Une fois verifie, va dans "Sitemaps" et soumets:
-   - `sitemap.xml`
-   - `fr/sitemap.xml`
-   - `en/sitemap.xml`
-   - `es/sitemap.xml`
-   - `ar/sitemap.xml`
+---
+
+### A-bis. Demandes d'indexation, jour par jour
+
+Google explore tout seul, mais lentement. L'outil "Inspection de l'URL"
+permet de passer devant la file. La limite pratique est d'environ 10 a 12
+demandes par jour et par propriete.
+
+**Comment faire, pour chaque URL:**
+1. Colle l'URL dans la barre de recherche tout en haut de Search Console
+2. Attends l'analyse (10 a 30 secondes)
+3. Clique sur "Demander une indexation"
+4. Attends la confirmation, puis passe a la suivante
+
+Un message du type "URL disponible pour Google" ou "Detectee, actuellement
+non indexee" est normal a ce stade. La demande est prise en compte quand
+meme.
+
+Toutes les URLs commencent par `https://georgesmatar.ca`.
+
+---
+
+#### JOUR 1 - FAIT
+
+```
+/
+/courtier-immobilier/
+/courtier-immobilier/laval/
+/courtier-immobilier/montreal/
+/courtier-immobilier/longueuil/
+/courtier-immobilier/brossard/
+/courtier-immobilier/terrebonne/
+/courtier-immobilier/repentigny/
+/courtier-immobilier/blainville/
+/courtier-immobilier/boucherville/
+/courtier-immobilier/saint-bruno-de-montarville/
+```
+
+#### JOUR 2 - Les 10 villes suivantes
+
+```
+https://georgesmatar.ca/courtier-immobilier/saint-jerome/
+https://georgesmatar.ca/courtier-immobilier/mascouche/
+https://georgesmatar.ca/courtier-immobilier/saint-eustache/
+https://georgesmatar.ca/courtier-immobilier/chateauguay/
+https://georgesmatar.ca/courtier-immobilier/sainte-therese/
+https://georgesmatar.ca/courtier-immobilier/boisbriand/
+https://georgesmatar.ca/courtier-immobilier/mirabel/
+https://georgesmatar.ca/courtier-immobilier/sainte-julie/
+https://georgesmatar.ca/courtier-immobilier/la-prairie/
+https://georgesmatar.ca/courtier-immobilier/chambly/
+```
+
+#### JOUR 3 - Les 5 dernieres villes + les pages de service
+
+```
+https://georgesmatar.ca/courtier-immobilier/rosemere/
+https://georgesmatar.ca/courtier-immobilier/varennes/
+https://georgesmatar.ca/courtier-immobilier/candiac/
+https://georgesmatar.ca/courtier-immobilier/saint-constant/
+https://georgesmatar.ca/courtier-immobilier/delson/
+https://georgesmatar.ca/buyer/
+https://georgesmatar.ca/seller/
+https://georgesmatar.ca/about/
+https://georgesmatar.ca/tools/
+https://georgesmatar.ca/advantages/
+```
+
+A la fin du jour 3, les 24 villes sont soumises.
+
+#### JOUR 4 - Outils et avantages (pages a forte intention commerciale)
+
+```
+https://georgesmatar.ca/tools/home-estimate/
+https://georgesmatar.ca/tools/mortgage/
+https://georgesmatar.ca/tools/affordability/
+https://georgesmatar.ca/tools/closing-costs/
+https://georgesmatar.ca/tools/welcome-tax/
+https://georgesmatar.ca/tools/rent-vs-buy/
+https://georgesmatar.ca/advantages/integri-t/
+https://georgesmatar.ca/advantages/tranquilli-t/
+https://georgesmatar.ca/advantages/coproprie-t/
+https://georgesmatar.ca/advantages/mes-rabais-remax/
+```
+
+#### JOUR 5 - Les 10 articles les plus commerciaux
+
+Ce sont ceux qui repondent a une question que les gens tapent avant de
+contacter un courtier.
+
+```
+https://georgesmatar.ca/articles/commission-explained-quebec/
+https://georgesmatar.ca/articles/guide-hypotheque-premier-acheteur/
+https://georgesmatar.ca/articles/vrai-cout-achat-premiere-maison/
+https://georgesmatar.ca/articles/guide-nouveaux-arrivants-quebec/
+https://georgesmatar.ca/articles/down-payment-myth-debunked/
+https://georgesmatar.ca/articles/property-tax-explained/
+https://georgesmatar.ca/articles/credit-score-home-buying-quebec/
+https://georgesmatar.ca/articles/questions-hire-broker/
+https://georgesmatar.ca/articles/broker-agent-difference-quebec/
+https://georgesmatar.ca/articles/preparer-maison-vente/
+```
+
+#### JOUR 6 - Suite des articles FR + l'index du blogue
+
+```
+https://georgesmatar.ca/articles/
+https://georgesmatar.ca/articles/marche-immobilier-montreal/
+https://georgesmatar.ca/articles/best-time-sell-home-montreal/
+https://georgesmatar.ca/articles/condo-vs-house-montreal/
+https://georgesmatar.ca/articles/acheter-laval-2025/
+https://georgesmatar.ca/articles/renovations-dont-add-value/
+https://georgesmatar.ca/articles/home-inspection-checklist-montreal/
+https://georgesmatar.ca/articles/red-flags-walk-away-property/
+https://georgesmatar.ca/articles/investir-triplex-laval/
+https://georgesmatar.ca/articles/rive-nord-guide-laval/
+```
+
+#### JOUR 7 - Anglais: accueil, hub et villes principales
+
+```
+https://georgesmatar.ca/en/
+https://georgesmatar.ca/en/real-estate-broker/
+https://georgesmatar.ca/en/real-estate-broker/laval/
+https://georgesmatar.ca/en/real-estate-broker/montreal/
+https://georgesmatar.ca/en/real-estate-broker/longueuil/
+https://georgesmatar.ca/en/real-estate-broker/brossard/
+https://georgesmatar.ca/en/real-estate-broker/terrebonne/
+https://georgesmatar.ca/en/real-estate-broker/boucherville/
+https://georgesmatar.ca/en/buyer/
+https://georgesmatar.ca/en/seller/
+```
+
+#### JOUR 8 - Arabe et espagnol: accueil, hub et villes principales
+
+Ce sont tes deux avantages concurrentiels les plus rares. Presque aucun
+courtier de la region ne se positionne sur ces requetes.
+
+```
+https://georgesmatar.ca/ar/
+https://georgesmatar.ca/ar/wasit-aqari/
+https://georgesmatar.ca/ar/wasit-aqari/laval/
+https://georgesmatar.ca/ar/wasit-aqari/montreal/
+https://georgesmatar.ca/ar/wasit-aqari/brossard/
+https://georgesmatar.ca/es/
+https://georgesmatar.ca/es/corredor-inmobiliario/
+https://georgesmatar.ca/es/corredor-inmobiliario/laval/
+https://georgesmatar.ca/es/corredor-inmobiliario/montreal/
+https://georgesmatar.ca/es/corredor-inmobiliario/brossard/
+```
+
+---
+
+**Apres le jour 8, arrete.** Le rendement des demandes manuelles chute
+fortement une fois que les pages principales sont indexees. Google suivra
+les liens internes depuis ces pages pour trouver le reste, et les sitemaps
+couvrent l'ensemble. Continuer a soumettre manuellement n'accelere plus rien.
+
+**Ce qu'il faut surveiller a la place**, une fois par semaine:
+- `Indexation > Pages`: le nombre de pages indexees doit monter
+- `Performances`: les premieres impressions apparaissent generalement
+  entre la 3e et la 5e semaine
+- Toute erreur signalee dans `Indexation > Pages > Pourquoi des pages ne
+  sont pas indexees`: envoie-moi une capture, je corrige
 
 ### B. Google Business Profile (30 min) - PRIORITE 1
 
