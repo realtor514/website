@@ -86,4 +86,4 @@ Si usted vende un condominio, el mismo trabajo se aplica a la inversa: un expedi
 
 Este programa no lo protege con dinero. Lo protege con competencia, lo que en copropiedad suele llegar antes en la cadena y evita el problema en lugar de compensarlo.
 
-Si está considerando un condominio en Montreal, Laval o los Laurentides, hablemos antes de su primera visita.
+Si está considerando un condominio en Montreal, Laval, los Laurentides o Lanaudière, hablemos antes de su primera visita.

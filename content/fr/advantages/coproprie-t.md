@@ -86,4 +86,4 @@ Si vous vendez un condo, le même travail s'applique en sens inverse : un dossie
 
 Ce programme ne vous protège pas avec de l'argent. Il vous protège avec de la compétence, ce qui, en copropriété, arrive souvent plus tôt dans la chaîne et évite le problème au lieu de le compenser.
 
-Si vous envisagez un condo à Montréal, Laval ou dans les Laurentides, parlons-en avant votre première visite.
+Si vous envisagez un condo à Montréal, Laval, dans les Laurentides ou Lanaudière, parlons-en avant votre première visite.

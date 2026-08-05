@@ -101,4 +101,4 @@ The program is administered with ACQ Résidentiel:
 - Official site: **garantie-integri-t.com**
 - Phone: **1-844-787-3450**
 
-If you are considering buying or selling a property more than five years old in Greater Montreal, Laval or the Laurentians, let's discuss Integri-T before the calendar decides for us.
+If you are considering buying or selling a property more than five years old in Greater Montreal, Laval, the Laurentians or Lanaudière, let's discuss Integri-T before the calendar decides for us.

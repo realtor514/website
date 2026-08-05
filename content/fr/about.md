@@ -22,6 +22,7 @@ Je me spécialise dans les propriétés de la grande région de Montréal, notam
 - Laval (Duvernay, Vimont, Sainte-Rose, Chomedey)
 - Montréal (Ahuntsic-Cartierville, Villeray, Rosemont)
 - Communautés de la Rive-Nord et de la Rive-Sud
+- Laurentides et Lanaudière
 
 ## Me contacter
 

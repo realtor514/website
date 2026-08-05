@@ -20,13 +20,13 @@
         <div class="footer__brand-title">{{ .Site.Params.role }}</div>
         <p class="footer__brand-text">
           {{ if $isFr }}
-            Votre partenaire de confiance pour l'achat, la vente et l'investissement immobilier. Disponible dans 16 bureaux à Montréal, Laval, la Rive-Nord, la Rive-Sud et les Laurentides.
+            Votre partenaire de confiance pour l'achat, la vente et l'investissement immobilier. Disponible dans 16 bureaux à Montréal, Laval, la Rive-Nord, la Rive-Sud, les Laurentides et Lanaudière.
           {{ else if $isAr }}
-            شريكك الموثوق للشراء والبيع والاستثمار العقاري. متواجد في 16 مكتباً في مونتريال، لافال، الضفة الشمالية، الضفة الجنوبية، ومنطقة لوروبيد.
+            شريكك الموثوق للشراء والبيع والاستثمار العقاري. متواجد في 16 مكتباً في مونتريال، لافال، الضفة الشمالية، الضفة الجنوبية، منطقة اللورانتيد ولانوديير.
           {{ else if $isEs }}
-            Su socio de confianza para comprar, vender e invertir en bienes raíces. Disponible en 16 oficinas en Montréal, Laval, la Costa Norte, la Costa Sur y los Laurentides.
+            Su socio de confianza para comprar, vender e invertir en bienes raíces. Disponible en 16 oficinas en Montréal, Laval, la Costa Norte, la Costa Sur, los Laurentides y Lanaudière.
           {{ else }}
-            Your trusted partner for buying, selling, and investing in real estate. Available across 16 offices in Montreal, Laval, the North Shore, the South Shore, and the Laurentians.
+            Your trusted partner for buying, selling, and investing in real estate. Available across 16 offices in Montreal, Laval, the North Shore, the South Shore, the Laurentians and Lanaudière.
           {{ end }}
         </p>
         <button class="footer__book-btn" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
@@ -61,7 +61,7 @@
 
     <div class="footer__bottom">
       <span>&copy; {{ now.Year }} {{ .Site.Params.name }} &middot; <span class="footer__remax">{{ .Site.Params.brokerage }}</span></span>
-      <span>{{ if $isFr }}Courtier immobilier &middot; Montr&eacute;al &middot; Laval &middot; Rive-Nord &middot; Rive-Sud &middot; Laurentides{{ else if $isAr }}وسيط عقاري &middot; مونتريال &middot; لافال &middot; الضفة الشمالية &middot; الضفة الجنوبية &middot; لوروبيد{{ else if $isEs }}Corredor inmobiliario &middot; Montr&eacute;al &middot; Laval &middot; Costa Norte &middot; Costa Sur &middot; Laurentides{{ else }}Real estate broker &middot; Montr&eacute;al &middot; Laval &middot; North Shore &middot; South Shore &middot; Laurentians{{ end }}</span>
+      <span>{{ if $isFr }}Courtier immobilier &middot; Montr&eacute;al &middot; Laval &middot; Rive-Nord &middot; Rive-Sud &middot; Laurentides &middot; Lanaudi&egrave;re{{ else if $isAr }}وسيط عقاري &middot; مونتريال &middot; لافال &middot; الضفة الشمالية &middot; الضفة الجنوبية &middot; اللورانتيد &middot; لانوديير{{ else if $isEs }}Corredor inmobiliario &middot; Montr&eacute;al &middot; Laval &middot; Costa Norte &middot; Costa Sur &middot; Laurentides &middot; Lanaudi&egrave;re{{ else }}Real estate broker &middot; Montr&eacute;al &middot; Laval &middot; North Shore &middot; South Shore &middot; Laurentians &middot; Lanaudi&egrave;re{{ end }}</span>
     </div>
   </div>
 </footer>

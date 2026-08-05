@@ -219,28 +219,28 @@
         <p class="about-split__text">{{ .Site.Params.bio }}</p>
         <div class="about-highlights">
           {{ if $isFr }}
-          <div class="highlight-item">Spécialiste Montréal, Laval &amp; Laurentides</div>
+          <div class="highlight-item">Spécialiste Montréal, Laval, Laurentides &amp; Lanaudière</div>
           <div class="highlight-item">Résidentiel</div>
           <div class="highlight-item">Premiers acheteurs</div>
           <div class="highlight-item">Propriétés d'investissement</div>
           <div class="highlight-item">Service trilingue (FR/EN/AR)</div>
           <div class="highlight-item">Analyse basée sur les données</div>
           {{ else if $isAr }}
-          <div class="highlight-item">متخصص في مونتريال، لافال واللورانتيد</div>
+          <div class="highlight-item">متخصص في مونتريال، لافال، اللورانتيد ولانوديير</div>
           <div class="highlight-item">سكني</div>
           <div class="highlight-item">المشترون الأوائل</div>
           <div class="highlight-item">عقارات استثمارية</div>
           <div class="highlight-item">خدمة ثلاثية اللغات (ع/ف/إ)</div>
           <div class="highlight-item">تحليل قائم على البيانات</div>
           {{ else if $isEs }}
-          <div class="highlight-item">Especialista Montréal, Laval y Laurentides</div>
+          <div class="highlight-item">Especialista Montréal, Laval, Laurentides y Lanaudière</div>
           <div class="highlight-item">Residencial</div>
           <div class="highlight-item">Compradores primerizos</div>
           <div class="highlight-item">Propiedades de inversión</div>
           <div class="highlight-item">Trilingüe (FR/EN/AR)</div>
           <div class="highlight-item">Análisis basado en datos</div>
           {{ else }}
-          <div class="highlight-item">Montréal, Laval &amp; Laurentians Specialist</div>
+          <div class="highlight-item">Montréal, Laval, Laurentians &amp; Lanaudière Specialist</div>
           <div class="highlight-item">Residential</div>
           <div class="highlight-item">First-Time Buyers</div>
           <div class="highlight-item">Investment Properties</div>
@@ -271,13 +271,13 @@
       </h2>
       <p class="subtitle">
         {{ if $isFr }}
-          En tant que courtier RE/MAX DU CARTIER, je peux vous recevoir dans l'un de nos 16 bureaux répartis à Montréal, Laval, la Rive-Nord, la Rive-Sud et les Laurentides.
+          En tant que courtier RE/MAX DU CARTIER, je peux vous recevoir dans l'un de nos 16 bureaux répartis à Montréal, Laval, la Rive-Nord, la Rive-Sud, les Laurentides et Lanaudière.
         {{ else if $isAr }}
-          بوصفي وسيطاً في RE/MAX DU CARTIER، يمكنني استقبالك في أي من مكاتبنا الـ16 المنتشرة في مونتريال، لافال، الضفة الشمالية، الضفة الجنوبية، ومنطقة لوروبيد.
+          بوصفي وسيطاً في RE/MAX DU CARTIER، يمكنني استقبالك في أي من مكاتبنا الـ16 المنتشرة في مونتريال، لافال، الضفة الشمالية، الضفة الجنوبية، منطقة اللورانتيد ولانوديير.
         {{ else if $isEs }}
-          Como corredor de RE/MAX DU CARTIER, puedo recibirle en cualquiera de nuestras 16 oficinas en Montréal, Laval, la Costa Norte, la Costa Sur y los Laurentides.
+          Como corredor de RE/MAX DU CARTIER, puedo recibirle en cualquiera de nuestras 16 oficinas en Montréal, Laval, la Costa Norte, la Costa Sur, los Laurentides y Lanaudière.
         {{ else }}
-          As a RE/MAX DU CARTIER broker, I can welcome you in any of our 16 offices across Montreal, Laval, the North Shore, the South Shore, and the Laurentians.
+          As a RE/MAX DU CARTIER broker, I can welcome you in any of our 16 offices across Montreal, Laval, the North Shore, the South Shore, the Laurentians and Lanaudière.
         {{ end }}
       </p>
     </div>
@@ -286,13 +286,13 @@
     <div class="reveal" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-bottom:64px;">
       {{ $zones := slice }}
       {{ if $isFr }}
-        {{ $zones = slice "Montréal" "Laval" "Rive-Nord" "Rive-Sud" "Laurentides" }}
+        {{ $zones = slice "Montréal" "Laval" "Rive-Nord" "Rive-Sud" "Laurentides" "Lanaudière" }}
       {{ else if $isAr }}
-        {{ $zones = slice "مونتريال" "لافال" "الضفة الشمالية" "الضفة الجنوبية" "لوروبيد" }}
+        {{ $zones = slice "مونتريال" "لافال" "الضفة الشمالية" "الضفة الجنوبية" "اللورانتيد" "لانوديير" }}
       {{ else if $isEs }}
-        {{ $zones = slice "Montréal" "Laval" "Costa Norte" "Costa Sur" "Laurentides" }}
+        {{ $zones = slice "Montréal" "Laval" "Costa Norte" "Costa Sur" "Laurentides" "Lanaudière" }}
       {{ else }}
-        {{ $zones = slice "Montréal" "Laval" "North Shore" "South Shore" "Laurentians" }}
+        {{ $zones = slice "Montréal" "Laval" "North Shore" "South Shore" "Laurentians" "Lanaudière" }}
       {{ end }}
       {{ range $zones }}
       <span style="background:rgba(255,18,0,.1);border:1px solid rgba(255,18,0,.3);color:#fff;padding:8px 20px;border-radius:40px;font-size:.8rem;font-weight:600;letter-spacing:.06em;">{{ . }}</span>
@@ -309,7 +309,7 @@
           </div>
           <div>
             <div style="color:#fff;font-weight:700;font-size:1rem;">RE/MAX du Cartier</div>
-            <div style="color:rgba(255,255,255,.4);font-size:.78rem;">{{ if $isFr }}Montréal, Laval &amp; Laurentides{{ else if $isAr }}مونتريال، لافال واللورانتيد{{ else if $isEs }}Montréal, Laval y Laurentides{{ else }}Montréal, Laval &amp; Laurentians{{ end }}</div>
+            <div style="color:rgba(255,255,255,.4);font-size:.78rem;">{{ if $isFr }}Montréal, Laval, Laurentides &amp; Lanaudière{{ else if $isAr }}مونتريال، لافال، اللورانتيد ولانوديير{{ else if $isEs }}Montréal, Laval, Laurentides y Lanaudière{{ else }}Montréal, Laval, Laurentians &amp; Lanaudière{{ end }}</div>
           </div>
         </div>
         <div style="display:flex;flex-direction:column;gap:0;">
@@ -388,13 +388,13 @@
       <h2>{{ if $isFr }}Propriétés vedettes{{ else if $isAr }}عقارات مميزة{{ else if $isEs }}Propiedades destacadas{{ else }}Featured Properties{{ end }}</h2>
       <p class="subtitle">
         {{ if $isFr }}
-          Propriétés sélectionnées dans les quartiers les plus recherchés de Montréal, Laval et des Laurentides.
+          Propriétés sélectionnées dans les quartiers les plus recherchés de Montréal, Laval, des Laurentides et de Lanaudière.
         {{ else if $isAr }}
-          عقارات مختارة في أكثر أحياء مونتريال، لافال ومنطقة اللورانتيد طلباً.
+          عقارات مختارة في أكثر أحياء مونتريال، لافال، منطقة اللورانتيد ولانوديير طلباً.
         {{ else if $isEs }}
-          Propiedades seleccionadas en los vecindarios más buscados de Montréal, Laval y los Laurentides.
+          Propiedades seleccionadas en los vecindarios más buscados de Montréal, Laval, los Laurentides y Lanaudière.
         {{ else }}
-          Handpicked properties in the most sought-after neighbourhoods of Montreal, Laval, and the Laurentians.
+          Handpicked properties in the most sought-after neighbourhoods of Montreal, Laval, the Laurentians and Lanaudière.
         {{ end }}
       </p>
     </div>
@@ -436,13 +436,13 @@
       <h2>{{ if $isFr }}Conseils immobiliers{{ else if $isAr }}نصائح عقارية{{ else if $isEs }}Perspectivas inmobiliarias{{ else }}Real Estate Insights{{ end }}</h2>
       <p class="subtitle">
         {{ if $isFr }}
-          Le marché de Montréal, Laval et des Laurentides, expliqué sans jargon.
+          Le marché de Montréal, Laval, des Laurentides et de Lanaudière, expliqué sans jargon.
         {{ else if $isAr }}
-          سوق مونتريال ولافال ومنطقة اللورانتيد، مشروح بلا تعقيد.
+          سوق مونتريال ولافال ومنطقة اللورانتيد ولانوديير، مشروح بلا تعقيد.
         {{ else if $isEs }}
-          El mercado de Montréal, Laval y los Laurentides, explicado sin jerga.
+          El mercado de Montréal, Laval, los Laurentides y Lanaudière, explicado sin jerga.
         {{ else }}
-          The Montreal, Laval, and Laurentians market, explained without the jargon.
+          The Montreal, Laval, Laurentians and Lanaudière market, explained without the jargon.
         {{ end }}
       </p>
     </div>

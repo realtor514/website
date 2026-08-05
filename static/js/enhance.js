@@ -181,16 +181,16 @@
      9. Bandeau defilant sous le hero
      ───────────────────────────────────────────────────────────── */
   var MARQUEE = {
-    fr: ['RE/MAX DU CARTIER INC.', 'Montréal', 'Laval', 'Rive-Nord', 'Rive-Sud', 'Laurentides',
+    fr: ['RE/MAX DU CARTIER INC.', 'Montréal', 'Laval', 'Rive-Nord', 'Rive-Sud', 'Laurentides', 'Lanaudière',
          'Ingénieur (PhD)', '4 langues parlées', 'Tranquilli-T inclus', 'Intégri-T jusqu’à 50 000 $',
          'Évaluation gratuite', 'Réseau mondial RE/MAX'],
-    en: ['RE/MAX DU CARTIER INC.', 'Montreal', 'Laval', 'North Shore', 'South Shore', 'Laurentians',
+    en: ['RE/MAX DU CARTIER INC.', 'Montreal', 'Laval', 'North Shore', 'South Shore', 'Laurentians', 'Lanaudière',
          'Engineer (PhD)', '4 languages spoken', 'Tranquilli-T included', 'Integri-T up to $50,000',
          'Free evaluation', 'RE/MAX global network'],
-    es: ['RE/MAX DU CARTIER INC.', 'Montreal', 'Laval', 'Rive-Nord', 'Rive-Sud', 'Laurentides',
+    es: ['RE/MAX DU CARTIER INC.', 'Montreal', 'Laval', 'Rive-Nord', 'Rive-Sud', 'Laurentides', 'Lanaudière',
          'Ingeniero (PhD)', '4 idiomas', 'Tranquilli-T incluido', 'Integri-T hasta 50 000 $',
          'Evaluación gratuita', 'Red mundial RE/MAX'],
-    ar: ['RE/MAX DU CARTIER INC.', 'مونتريال', 'لافال', 'الضفة الشمالية', 'الضفة الجنوبية', 'اللورانتيد',
+    ar: ['RE/MAX DU CARTIER INC.', 'مونتريال', 'لافال', 'الضفة الشمالية', 'الضفة الجنوبية', 'اللورانتيد', 'لانوديير',
          'مهندس (دكتوراه)', '4 لغات', 'Tranquilli-T مشمول', 'Integri-T حتى 50,000 $',
          'تقييم مجاني', 'شبكة RE/MAX العالمية']
   };

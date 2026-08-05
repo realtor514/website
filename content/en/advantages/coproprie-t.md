@@ -86,4 +86,4 @@ If you are selling a condo, the same work applies in reverse: a clean, complete 
 
 This program does not protect you with money. It protects you with competence, which in co-ownership usually arrives earlier in the chain and prevents the problem instead of compensating for it.
 
-If you are considering a condo in Montreal, Laval or the Laurentians, let's talk before your first visit.
+If you are considering a condo in Montreal, Laval, the Laurentians or Lanaudière, let's talk before your first visit.

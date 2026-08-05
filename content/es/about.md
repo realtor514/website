@@ -21,7 +21,8 @@ Mi prioridad es siempre proteger los intereses de mis clientes, ya sea negociand
 Me especializo en propiedades en toda el área del Gran Montréal, incluyendo:
 - Laval (Duvernay, Vimont, Sainte-Rose, Chomedey)
 - Montréal (Ahuntsic-Cartierville, Villeray, Rosemont)
-- Comunidades de la Costa Norte
+- Comunidades de la Costa Norte y la Costa Sur
+- Laurentides y Lanaudière
 
 ## Contácteme
 

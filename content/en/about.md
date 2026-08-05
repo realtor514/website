@@ -21,7 +21,8 @@ My priority is always to protect my clients' interests, whether that means negot
 I specialize in properties throughout the Greater Montréal area, including:
 - Laval (Duvernay, Vimont, Sainte-Rose, Chomedey)
 - Montréal (Ahuntsic-Cartierville, Villeray, Rosemont)
-- North Shore communities
+- North Shore and South Shore communities
+- Laurentians and Lanaudière
 
 ## Contact Me
 
