@@ -1107,3 +1107,39 @@ input:focus-visible, select:focus-visible, textarea:focus-visible {
 }
 .faq-item__a p { margin-bottom: 12px; }
 .faq-item__a p:last-child { margin-bottom: 0; }
+
+/* ══════════════════════════════════════════════
+   PIED DE PAGE: SECTEURS DESSERVIS
+   Restaure le maillage interne site-wide vers les
+   pages villes, sans encombrer la navigation.
+   ══════════════════════════════════════════════ */
+.footer__sectors {
+  border-top: 1px solid rgba(255, 255, 255, .07);
+  padding-top: 26px;
+  margin-bottom: 26px;
+}
+.footer__sectors-list {
+  font-size: .82rem;
+  line-height: 2.1;
+  margin: 0;
+  max-width: 100%;
+}
+.footer__sectors-list .footer__link {
+  font-size: .82rem;
+  white-space: nowrap;
+}
+.footer__sectors-sep {
+  color: rgba(255, 255, 255, .22);
+  margin: 0 7px;
+  user-select: none;
+}
+.footer__sectors-all {
+  font-weight: 600;
+  color: var(--red-light);
+}
+.footer__sectors-all:hover { color: var(--white); }
+
+@media (max-width: 768px) {
+  .footer__sectors { padding-top: 22px; margin-bottom: 22px; }
+  .footer__sectors-list { line-height: 2.3; }
+}

@@ -59,6 +59,24 @@
       </div>
     </div>
 
+    {{ $sectors := where .Site.RegularPages "Section" "secteurs" }}
+    {{ with $sectors }}
+    {{ $hub := "/en/real-estate-broker/" }}
+    {{ if $isFr }}{{ $hub = "/courtier-immobilier/" }}{{ else if $isAr }}{{ $hub = "/ar/wasit-aqari/" }}{{ else if $isEs }}{{ $hub = "/es/corredor-inmobiliario/" }}{{ end }}
+    <div class="footer__sectors">
+      <h4 class="footer__heading">
+        {{ if $isFr }}Secteurs desservis{{ else if $isAr }}المناطق المخدومة{{ else if $isEs }}Zonas atendidas{{ else }}Areas served{{ end }}
+      </h4>
+      <p class="footer__sectors-list">
+        {{ range $i, $p := sort . "Weight" }}{{ if $i }}<span class="footer__sectors-sep">&middot;</span>{{ end }}<a href="{{ $p.Permalink }}" class="footer__link">{{ $p.Params.city }}</a>{{ end }}
+        <span class="footer__sectors-sep">&middot;</span>
+        <a href="{{ $hub }}" class="footer__link footer__sectors-all">
+          {{ if $isFr }}Voir les {{ len . }} villes{{ else if $isAr }}عرض المدن الـ{{ len . }}{{ else if $isEs }}Ver las {{ len . }} ciudades{{ else }}View all {{ len . }} cities{{ end }}
+        </a>
+      </p>
+    </div>
+    {{ end }}
+
     <div class="footer__bottom">
       <span>&copy; {{ now.Year }} {{ .Site.Params.name }} &middot; <span class="footer__remax">{{ .Site.Params.brokerage }}</span></span>
       <span>{{ if $isFr }}Courtier immobilier &middot; Montr&eacute;al &middot; Laval &middot; Rive-Nord &middot; Rive-Sud &middot; Laurentides &middot; Lanaudi&egrave;re{{ else if $isAr }}وسيط عقاري &middot; مونتريال &middot; لافال &middot; الضفة الشمالية &middot; الضفة الجنوبية &middot; اللورانتيد &middot; لانوديير{{ else if $isEs }}Corredor inmobiliario &middot; Montr&eacute;al &middot; Laval &middot; Costa Norte &middot; Costa Sur &middot; Laurentides &middot; Lanaudi&egrave;re{{ else }}Real estate broker &middot; Montr&eacute;al &middot; Laval &middot; North Shore &middot; South Shore &middot; Laurentians &middot; Lanaudi&egrave;re{{ end }}</span>
