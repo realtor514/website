@@ -2715,3 +2715,148 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
     grid-template-columns: 1fr !important;
   }
 }
+
+/* ════════════════════════════════════════════════════════
+   MES AVANTAGES - programmes exclusifs RE/MAX
+   ════════════════════════════════════════════════════════ */
+.adv-hero__grid {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 48px;
+  align-items: center;
+}
+.adv-hero__lede {
+  color: rgba(255,255,255,.72);
+  font-size: 1.06rem;
+  line-height: 1.75;
+  max-width: 620px;
+  margin-top: 18px;
+}
+.adv-hero__cta { margin-top: 28px; }
+.adv-hero__logo {
+  background: #fff;
+  border-radius: var(--radius-lg);
+  padding: 28px 24px;
+  box-shadow: var(--shadow-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 130px;
+}
+.adv-hero__logo img { max-height: 88px; width: auto; object-fit: contain; }
+
+/* Key facts strip */
+.adv-facts { background: var(--off-white); border-bottom: 1px solid var(--border); }
+.adv-facts__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 8px;
+  padding: 34px 0;
+}
+.adv-fact { text-align: center; padding: 6px 16px; }
+.adv-fact__value {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: var(--red);
+}
+.adv-facts--blue  .adv-fact__value { color: #0043B4; }
+.adv-facts--navy  .adv-fact__value { color: var(--navy-mid); }
+.adv-facts--gold  .adv-fact__value { color: #a8801f; }
+.adv-fact__label {
+  font-size: .82rem;
+  color: var(--gray);
+  margin-top: 6px;
+  letter-spacing: .02em;
+}
+
+/* Article body tweaks */
+.adv-body { margin-top: 56px; }
+.adv-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 28px 0;
+  font-size: .95rem;
+}
+.adv-body th, .adv-body td {
+  border: 1px solid var(--border);
+  padding: 11px 14px;
+  text-align: left;
+  vertical-align: top;
+}
+.adv-body th { background: var(--off-white); font-weight: 600; }
+
+/* Inline CTA block */
+.adv-cta {
+  border-radius: var(--radius-lg);
+  padding: 34px 36px;
+  margin: 52px 0 0;
+  background: var(--off-white);
+  border-left: 5px solid var(--red);
+}
+.adv-cta--blue { border-left-color: #0043B4; }
+.adv-cta--navy { border-left-color: var(--navy-mid); }
+.adv-cta--gold { border-left-color: #c9a84c; }
+.adv-cta h3 { margin: 0 0 10px; font-size: 1.3rem; }
+.adv-cta p { margin: 0 0 22px; color: var(--gray); font-size: 1rem; line-height: 1.75; }
+.adv-cta__actions { display: flex; flex-wrap: wrap; gap: 12px; }
+
+/* Cards grid */
+.adv-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 28px;
+}
+.adv-card {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,.07);
+  border-radius: var(--radius-lg);
+  padding: 30px 26px;
+  box-shadow: 0 4px 20px rgba(10,22,40,.05);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  text-decoration: none;
+  transition: var(--transition);
+  border-top: 4px solid var(--red);
+}
+.adv-card--blue { border-top-color: #0043B4; }
+.adv-card--navy { border-top-color: var(--navy-mid); }
+.adv-card--gold { border-top-color: #c9a84c; }
+.adv-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-lg); }
+.adv-card__logo {
+  height: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.adv-card__logo img { max-height: 54px; max-width: 210px; width: auto; object-fit: contain; }
+.adv-card__title { font-size: 1.08rem; font-weight: 700; color: var(--text); margin: 0; line-height: 1.4; }
+.adv-card__desc { font-size: .92rem; color: var(--gray); line-height: 1.65; margin: 0; flex: 1; }
+.adv-card__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: .87rem;
+  font-weight: 600;
+  color: var(--red);
+}
+.adv-card--blue .adv-card__link { color: #0043B4; }
+.adv-card--navy .adv-card__link { color: var(--navy-mid); }
+.adv-card--gold .adv-card__link { color: #a8801f; }
+
+@media (max-width: 860px) {
+  .adv-hero__grid { grid-template-columns: 1fr; gap: 32px; }
+  .adv-hero__logo { max-width: 300px; }
+  .adv-cta { padding: 26px 22px; }
+  .adv-fact__value { font-size: 1.55rem; }
+}
+
+/* RTL */
+[dir="rtl"] .adv-cta { border-left: none; border-right: 5px solid var(--red); }
+[dir="rtl"] .adv-cta--blue { border-right-color: #0043B4; }
+[dir="rtl"] .adv-cta--navy { border-right-color: var(--navy-mid); }
+[dir="rtl"] .adv-cta--gold { border-right-color: #c9a84c; }
+[dir="rtl"] .adv-card__logo { justify-content: flex-end; }
+[dir="rtl"] .adv-body th, [dir="rtl"] .adv-body td { text-align: right; }

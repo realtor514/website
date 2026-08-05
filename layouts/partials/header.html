@@ -18,6 +18,11 @@
   "seller-eval"    (dict "desc" (cond $isFr "Valeur marchande de votre bien" (cond $isEs "Valor de mercado de su propiedad" (cond $isAr "القيمة السوقية لعقارك" "Your property's market value"))))
   "seller-rvb"     (dict "desc" (cond $isFr "Comparez le coût réel" (cond $isEs "Compare el costo real" (cond $isAr "قارن التكلفة الحقيقية" "Compare the true cost"))))
   "seller-market"  (dict "desc" (cond $isFr "Données et tendances du marché" (cond $isEs "Datos y tendencias del mercado" (cond $isAr "بيانات واتجاهات السوق" "Market data and trends"))))
+  "adv-overview"   (dict "desc" (cond $isFr "Les 4 programmes exclusifs" (cond $isEs "Los 4 programas exclusivos" (cond $isAr "البرامج الأربعة الحصرية" "The 4 exclusive programs"))))
+  "adv-tranquillit" (dict "desc" (cond $isFr "Assistance juridique gratuite" (cond $isEs "Asistencia jurídica gratuita" (cond $isAr "مساعدة قانونية مجانية" "Free legal assistance"))))
+  "adv-integrit"   (dict "desc" (cond $isFr "Vices caches couverts 3 ans" (cond $isEs "Vicios ocultos cubiertos 3 años" (cond $isAr "عيوب خفية مغطاة 3 سنوات" "Hidden defects covered 3 years"))))
+  "adv-coproprit"  (dict "desc" (cond $isFr "Expertise en copropriete" (cond $isEs "Experiencia en copropiedad" (cond $isAr "خبرة في الملكية المشتركة" "Co-ownership expertise"))))
+  "adv-rabais"     (dict "desc" (cond $isFr "Rabais exclusifs apres l'achat" (cond $isEs "Descuentos exclusivos tras la compra" (cond $isAr "خصومات حصرية بعد الشراء" "Exclusive post-purchase discounts"))))
   "about-me"       (dict "desc" (cond $isFr "Mon parcours et mon approche" (cond $isEs "Mi trayectoria y enfoque" (cond $isAr "مساري وأسلوبي" "My background and approach"))))
   "about-blog"     (dict "desc" (cond $isFr "Conseils et actualités" (cond $isEs "Consejos y noticias" (cond $isAr "نصائح وأخبار العقارات" "Tips and market news"))))
   "about-network"  (dict "desc" (cond $isFr "Partenaires de confiance" (cond $isEs "Socios de confianza" (cond $isAr "شركاء موثوقون" "Trusted partners"))))
@@ -74,6 +79,12 @@
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
                 {{- else if eq .Identifier "seller-market" -}}
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+                {{- else if eq .Identifier "adv-overview" -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+                {{- else if or (eq .Identifier "adv-tranquillit") (eq .Identifier "adv-integrit") (eq .Identifier "adv-coproprit") -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/></svg>
+                {{- else if eq .Identifier "adv-rabais" -}}
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><line x1="19" y1="5" x2="5" y2="19"/><circle cx="7.5" cy="7.5" r="2.5"/><circle cx="16.5" cy="16.5" r="2.5"/></svg>
                 {{- else if eq .Identifier "about-me" -}}
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
                 {{- else if eq .Identifier "about-blog" -}}

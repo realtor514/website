@@ -1,0 +1,16 @@
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $accent := default "red" .Params.accent }}
+
+<a href="{{ .RelPermalink }}" class="adv-card adv-card--{{ $accent }}">
+  <div class="adv-card__logo">
+    {{ with .Params.logo }}<img src="{{ . | relURL }}" alt="{{ $.Params.program }}" loading="lazy">{{ end }}
+  </div>
+  <h3 class="adv-card__title">{{ .Params.cardTitle | default .Title }}</h3>
+  <p class="adv-card__desc">{{ .Params.cardText | default .Description }}</p>
+  <span class="adv-card__link">
+    {{ if $isFr }}En savoir plus{{ else if $isAr }}اعرف المزيد{{ else if $isEs }}Saber más{{ else }}Learn more{{ end }}
+    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+  </span>
+</a>

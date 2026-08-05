@@ -1,0 +1,98 @@
+{{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $base  := "/en" }}
+{{ if $isFr }}{{ $base = "" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
+{{ $accent := default "red" .Params.accent }}
+
+<section class="content-hero adv-hero">
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <a href="{{ $base }}/advantages/">{{ if $isFr }}Mes avantages{{ else if $isAr }}مزاياي{{ else if $isEs }}Mis ventajas{{ else }}My Advantages{{ end }}</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <span>{{ .Params.program }}</span>
+    </div>
+
+    <div class="adv-hero__grid">
+      <div>
+        {{ with .Params.eyebrow }}<p class="content-hero__category">{{ . }}</p>{{ end }}
+        <h1 class="content-hero__title">{{ .Title }}</h1>
+        {{ with .Description }}<p class="adv-hero__lede">{{ . }}</p>{{ end }}
+        <a href="{{ $base }}/#contact" class="btn btn-primary adv-hero__cta">
+          {{ if $isFr }}Demander ce programme{{ else if $isAr }}اطلب هذا البرنامج{{ else if $isEs }}Solicitar este programa{{ else }}Ask me about this program{{ end }}
+        </a>
+      </div>
+      {{ with .Params.logo }}
+      <div class="adv-hero__logo">
+        <img src="{{ . | relURL }}" alt="{{ $.Params.program }}" loading="eager">
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ with .Params.facts }}
+<div class="adv-facts adv-facts--{{ $accent }}">
+  <div class="container">
+    <div class="adv-facts__grid">
+      {{ range . }}
+      <div class="adv-fact">
+        <div class="adv-fact__value">{{ .value | safeHTML }}</div>
+        <div class="adv-fact__label">{{ .label }}</div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
+<div class="content-body adv-body">
+  {{ .Content }}
+
+  <div class="adv-cta adv-cta--{{ $accent }}">
+    <h3>
+      {{ if $isFr }}Ce programme vous intéresse ?{{ else if $isAr }}هل يهمك هذا البرنامج؟{{ else if $isEs }}¿Le interesa este programa?{{ else }}Interested in this program?{{ end }}
+    </h3>
+    <p>
+      {{ if $isFr }}
+        Il est inclus dans mon accompagnement, sans frais supplémentaires. Écrivez-moi et je vous explique exactement ce qui s'applique à votre situation.
+      {{ else if $isAr }}
+        إنه مشمول ضمن خدماتي، بدون رسوم إضافية. راسلني وسأشرح لك بالضبط ما ينطبق على وضعك.
+      {{ else if $isEs }}
+        Está incluido en mi acompañamiento, sin costo adicional. Escríbame y le explico exactamente qué aplica a su situación.
+      {{ else }}
+        It is included in my service, at no extra cost. Write to me and I will explain exactly what applies to your situation.
+      {{ end }}
+    </p>
+    <div class="adv-cta__actions">
+      <a href="{{ $base }}/#contact" class="btn btn-primary">
+        {{ if $isFr }}Me contacter{{ else if $isAr }}تواصل معي{{ else if $isEs }}Contácteme{{ else }}Contact me{{ end }}
+      </a>
+      {{ with .Params.official }}
+      <a href="{{ . }}" target="_blank" rel="noopener" class="btn btn-outline-dark">
+        {{ if $isFr }}Page officielle RE/MAX Québec{{ else if $isAr }}الصفحة الرسمية RE/MAX Québec{{ else if $isEs }}Página oficial RE/MAX Québec{{ else }}Official RE/MAX Québec page{{ end }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<section class="section section--light">
+  <div class="container">
+    <h2 style="margin-bottom:32px">
+      {{ if $isFr }}Mes autres avantages{{ else if $isAr }}مزاياي الأخرى{{ else if $isEs }}Mis otras ventajas{{ else }}My Other Advantages{{ end }}
+    </h2>
+    <div class="adv-grid adv-grid--compact">
+      {{ $others := where .CurrentSection.RegularPages "Permalink" "ne" .Permalink }}
+      {{ range sort $others "Weight" }}
+      {{ partial "advantage-card.html" . }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ partial "lead-modal.html" . }}
+{{ end }}

@@ -1,0 +1,60 @@
+{{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $base  := "/en" }}
+{{ if $isFr }}{{ $base = "" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
+
+<section class="content-hero">
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <span>{{ if $isFr }}Mes avantages{{ else if $isAr }}مزاياي{{ else if $isEs }}Mis ventajas{{ else }}My Advantages{{ end }}</span>
+    </div>
+    <p class="content-hero__category">
+      {{ if $isFr }}Programmes exclusifs RE/MAX Québec{{ else if $isAr }}برامج حصرية من RE/MAX Québec{{ else if $isEs }}Programas exclusivos RE/MAX Québec{{ else }}Exclusive RE/MAX Québec Programs{{ end }}
+    </p>
+    <h1 class="content-hero__title">{{ .Title }}</h1>
+    {{ with .Description }}<p class="adv-hero__lede">{{ . }}</p>{{ end }}
+  </div>
+</section>
+
+<div class="content-body adv-body">
+  {{ .Content }}
+</div>
+
+<section class="section section--light">
+  <div class="container">
+    <div class="adv-grid">
+      {{ range sort .RegularPages "Weight" }}
+      {{ partial "advantage-card.html" . }}
+      {{ end }}
+    </div>
+
+    <div class="adv-cta adv-cta--red" style="margin-top:48px">
+      <h3>
+        {{ if $isFr }}Quatre programmes, un seul courtier{{ else if $isAr }}أربعة برامج، وسيط واحد{{ else if $isEs }}Cuatro programas, un solo corredor{{ else }}Four programs, one broker{{ end }}
+      </h3>
+      <p>
+        {{ if $isFr }}
+          Ces protections ne sont pas des options payantes : elles font partie de ce que je mets sur la table dès notre première rencontre. Parlons de votre projet.
+        {{ else if $isAr }}
+          هذه الحمايات ليست خيارات مدفوعة: إنها جزء مما أقدمه منذ لقائنا الأول. لنتحدث عن مشروعك.
+        {{ else if $isEs }}
+          Estas protecciones no son opciones de pago: forman parte de lo que pongo sobre la mesa desde nuestra primera reunión. Hablemos de su proyecto.
+        {{ else }}
+          These protections are not paid add-ons: they are part of what I bring to the table from our first meeting. Let's talk about your project.
+        {{ end }}
+      </p>
+      <div class="adv-cta__actions">
+        <a href="{{ $base }}/#contact" class="btn btn-primary">
+          {{ if $isFr }}Consultation gratuite{{ else if $isAr }}استشارة مجانية{{ else if $isEs }}Consulta gratuita{{ else }}Free consultation{{ end }}
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "lead-modal.html" . }}
+{{ end }}

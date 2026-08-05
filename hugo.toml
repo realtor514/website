@@ -112,11 +112,52 @@ defaultContentLanguageInSubdir = false
       url        = "/en/articles/"
       weight     = 5
 
+    # ── ADVANTAGES menu ──
+    [[languages.en.menus.main]]
+      identifier = "advantages"
+      name       = "My Advantages"
+      weight     = 3
+
+    [[languages.en.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-overview"
+      name       = "Why Work With Me"
+      url        = "/en/advantages/"
+      weight     = 1
+
+    [[languages.en.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-tranquillit"
+      name       = "Tranquilli-T"
+      url        = "/en/advantages/tranquilli-t/"
+      weight     = 2
+
+    [[languages.en.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-integrit"
+      name       = "Integri-T"
+      url        = "/en/advantages/integri-t/"
+      weight     = 3
+
+    [[languages.en.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-coproprit"
+      name       = "Coproprie-T"
+      url        = "/en/advantages/coproprie-t/"
+      weight     = 4
+
+    [[languages.en.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-rabais"
+      name       = "My RE/MAX Discounts"
+      url        = "/en/advantages/mes-rabais-remax/"
+      weight     = 5
+
     # ── ABOUT menu ──
     [[languages.en.menus.main]]
       identifier = "about"
       name       = "About"
-      weight     = 3
+      weight     = 4
 
     [[languages.en.menus.main]]
       parent     = "about"
@@ -253,11 +294,52 @@ defaultContentLanguageInSubdir = false
       url        = "/articles/"
       weight     = 5
 
+    # ── MES AVANTAGES menu ──
+    [[languages.fr.menus.main]]
+      identifier = "advantages"
+      name       = "Mes avantages"
+      weight     = 3
+
+    [[languages.fr.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-overview"
+      name       = "Pourquoi faire affaire avec moi"
+      url        = "/advantages/"
+      weight     = 1
+
+    [[languages.fr.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-tranquillit"
+      name       = "Tranquilli-T"
+      url        = "/advantages/tranquilli-t/"
+      weight     = 2
+
+    [[languages.fr.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-integrit"
+      name       = "Intégri-T"
+      url        = "/advantages/integri-t/"
+      weight     = 3
+
+    [[languages.fr.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-coproprit"
+      name       = "Coproprié-T"
+      url        = "/advantages/coproprie-t/"
+      weight     = 4
+
+    [[languages.fr.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-rabais"
+      name       = "Mes rabais RE/MAX"
+      url        = "/advantages/mes-rabais-remax/"
+      weight     = 5
+
     # ── À PROPOS menu ──
     [[languages.fr.menus.main]]
       identifier = "about"
       name       = "À propos"
-      weight     = 3
+      weight     = 4
 
     [[languages.fr.menus.main]]
       parent     = "about"
@@ -373,11 +455,52 @@ defaultContentLanguageInSubdir = false
       url        = "/es/articles/"
       weight     = 4
 
+    # ── MIS VENTAJAS menu ──
+    [[languages.es.menus.main]]
+      identifier = "advantages"
+      name       = "Mis ventajas"
+      weight     = 3
+
+    [[languages.es.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-overview"
+      name       = "Por qué trabajar conmigo"
+      url        = "/es/advantages/"
+      weight     = 1
+
+    [[languages.es.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-tranquillit"
+      name       = "Tranquilli-T"
+      url        = "/es/advantages/tranquilli-t/"
+      weight     = 2
+
+    [[languages.es.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-integrit"
+      name       = "Integri-T"
+      url        = "/es/advantages/integri-t/"
+      weight     = 3
+
+    [[languages.es.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-coproprit"
+      name       = "Coproprie-T"
+      url        = "/es/advantages/coproprie-t/"
+      weight     = 4
+
+    [[languages.es.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-rabais"
+      name       = "Mis descuentos RE/MAX"
+      url        = "/es/advantages/mes-rabais-remax/"
+      weight     = 5
+
     # ── SOBRE MÍ menu ──
     [[languages.es.menus.main]]
       identifier = "about"
       name       = "Sobre mí"
-      weight     = 3
+      weight     = 4
 
     [[languages.es.menus.main]]
       parent     = "about"
@@ -485,11 +608,52 @@ defaultContentLanguageInSubdir = false
       url        = "/ar/articles/"
       weight     = 4
 
+    # ── مزاياي menu ──
+    [[languages.ar.menus.main]]
+      identifier = "advantages"
+      name       = "مزاياي"
+      weight     = 3
+
+    [[languages.ar.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-overview"
+      name       = "لماذا تتعامل معي"
+      url        = "/ar/advantages/"
+      weight     = 1
+
+    [[languages.ar.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-tranquillit"
+      name       = "Tranquilli-T"
+      url        = "/ar/advantages/tranquilli-t/"
+      weight     = 2
+
+    [[languages.ar.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-integrit"
+      name       = "Integri-T"
+      url        = "/ar/advantages/integri-t/"
+      weight     = 3
+
+    [[languages.ar.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-coproprit"
+      name       = "Coproprie-T"
+      url        = "/ar/advantages/coproprie-t/"
+      weight     = 4
+
+    [[languages.ar.menus.main]]
+      parent     = "advantages"
+      identifier = "adv-rabais"
+      name       = "خصومات RE/MAX"
+      url        = "/ar/advantages/mes-rabais-remax/"
+      weight     = 5
+
     # ── عن menu ──
     [[languages.ar.menus.main]]
       identifier = "about"
       name       = "عن"
-      weight     = 3
+      weight     = 4
 
     [[languages.ar.menus.main]]
       parent     = "about"
