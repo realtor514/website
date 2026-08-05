@@ -1,0 +1,116 @@
+{{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $base  := "/en" }}
+{{ if $isFr }}{{ $base = "" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
+{{ $hub := "/secteurs/" }}
+{{ if $isFr }}{{ $hub = "/courtier-immobilier/" }}{{ else if $isAr }}{{ $hub = "/ar/wasit-aqari/" }}{{ else if $isEs }}{{ $hub = "/es/corredor-inmobiliario/" }}{{ else }}{{ $hub = "/en/real-estate-broker/" }}{{ end }}
+
+<section class="content-hero sector-hero">
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <a href="{{ $hub }}">{{ if $isFr }}Secteurs desservis{{ else if $isAr }}المناطق المخدومة{{ else if $isEs }}Zonas atendidas{{ else }}Areas Served{{ end }}</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <span>{{ .Params.city }}</span>
+    </div>
+
+    <p class="content-hero__category">{{ if $isFr }}Courtier immobilier{{ else if $isAr }}وسيط عقاري{{ else if $isEs }}Corredor inmobiliario{{ else }}Real estate broker{{ end }} &middot; {{ .Params.city }}</p>
+    <h1 class="content-hero__title">{{ .Params.h1 | default .Title }}</h1>
+    {{ with .Description }}<p class="adv-hero__lede">{{ . }}</p>{{ end }}
+
+    <div class="journey-hero__actions sector-hero__actions">
+      <button class="btn btn-primary" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
+        {{ if $isFr }}Prendre rendez-vous{{ else if $isAr }}احجز موعداً{{ else if $isEs }}Reservar una cita{{ else }}Book a consultation{{ end }}
+      </button>
+      <a href="tel:{{ .Site.Params.phoneRaw }}" class="btn btn-outline-dark">{{ .Site.Params.phone }}</a>
+    </div>
+  </div>
+</section>
+
+{{ with .Params.facts }}
+<div class="adv-facts adv-facts--navy">
+  <div class="container">
+    <div class="adv-facts__grid">
+      {{ range . }}
+      <div class="adv-fact">
+        <div class="adv-fact__value">{{ .value | safeHTML }}</div>
+        <div class="adv-fact__label">{{ .label }}</div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
+<div class="content-body adv-body">
+  {{ .Content }}
+</div>
+
+{{ with .Params.sectors }}
+<section class="section section--light">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="eyebrow">{{ if $isFr }}Quartiers{{ else if $isAr }}الأحياء{{ else if $isEs }}Barrios{{ else }}Neighbourhoods{{ end }}</span>
+      <h2>{{ if $isFr }}Les secteurs que je couvre à{{ else if $isAr }}الأحياء التي أغطيها في{{ else if $isEs }}Los sectores que cubro en{{ else }}Neighbourhoods I cover in{{ end }} {{ $.Params.city }}</h2>
+    </div>
+    <div class="sector-pills reveal">
+      {{ range . }}<span class="sector-pill">{{ . }}</span>{{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Params.faq }}
+<section class="section">
+  <div class="container container--narrow">
+    <div class="section-header reveal">
+      <span class="eyebrow">FAQ</span>
+      <h2>{{ if $isFr }}Questions fréquentes{{ else if $isAr }}أسئلة شائعة{{ else if $isEs }}Preguntas frecuentes{{ else }}Frequently asked questions{{ end }}</h2>
+    </div>
+    <div class="faq-list reveal">
+      {{ range . }}
+      <details class="faq-item">
+        <summary class="faq-item__q">{{ .q }}</summary>
+        <div class="faq-item__a">{{ .a | markdownify }}</div>
+      </details>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<div class="content-body">
+  <div class="adv-cta adv-cta--navy">
+    <h3>
+      {{ if $isFr }}Un projet immobilier à {{ .Params.city }} ?{{ else if $isAr }}هل لديك مشروع عقاري في {{ .Params.city }}؟{{ else if $isEs }}¿Un proyecto inmobiliario en {{ .Params.city }}?{{ else }}A real estate project in {{ .Params.city }}?{{ end }}
+    </h3>
+    <p>
+      {{ if $isFr }}Achat, vente ou investissement: parlons de votre situation. Première rencontre sans frais et sans engagement.{{ else if $isAr }}شراء أو بيع أو استثمار: لنتحدث عن وضعك. اللقاء الأول مجاني وبدون التزام.{{ else if $isEs }}Compra, venta o inversión: hablemos de su situación. Primera reunión gratuita y sin compromiso.{{ else }}Buying, selling or investing: let's talk about your situation. First meeting free, no obligation.{{ end }}
+    </p>
+    <div class="adv-cta__actions">
+      <a href="{{ $base }}/#contact" class="btn btn-primary">{{ if $isFr }}Me contacter{{ else if $isAr }}تواصل معي{{ else if $isEs }}Contácteme{{ else }}Contact me{{ end }}</a>
+      <a href="{{ $base }}/tools/home-estimate/" class="btn btn-outline-dark">{{ if $isFr }}Estimer ma propriété{{ else if $isAr }}تقدير قيمة عقاري{{ else if $isEs }}Estimar mi propiedad{{ else }}Estimate my property{{ end }}</a>
+    </div>
+  </div>
+</div>
+
+<section class="section section--light">
+  <div class="container">
+    <h2 style="margin-bottom:32px">{{ if $isFr }}Autres secteurs desservis{{ else if $isAr }}مناطق أخرى مخدومة{{ else if $isEs }}Otras zonas atendidas{{ else }}Other areas served{{ end }}</h2>
+    <div class="sector-grid">
+      {{ $others := where .CurrentSection.RegularPages "Permalink" "ne" .Permalink }}
+      {{ range first 5 (sort $others "Weight") }}
+      <a href="{{ .Permalink }}" class="sector-card">
+        <span class="sector-card__city">{{ .Params.city }}</span>
+        <span class="sector-card__link">{{ if $isFr }}Voir le secteur{{ else if $isAr }}عرض المنطقة{{ else if $isEs }}Ver la zona{{ else }}View area{{ end }} &rsaquo;</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ partial "lead-modal.html" . }}
+{{ end }}

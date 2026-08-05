@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Guide pratique"
 description: "Entre la date de possession et le jour du déménagement, il y a des dizaines de tâches qui peuvent être oubliées. Voici la liste complète."
 image: "images/articles/moving-checklist-montreal/featured.jpg"
-draft: true
 ---
 
 Obtenir les clés est une étape, pas une fin. La période entre l'acceptation de l'offre et votre première nuit dans une nouvelle propriété implique plus d'étapes administratives et logistiques que la plupart des acheteurs ne l'anticipent.

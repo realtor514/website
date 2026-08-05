@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Financement"
 description: "Les taxes foncières sont l'un des coûts importants de la propriété que beaucoup d'acheteurs sous-estiment. Voici exactement comment elles fonctionnent au Québec."
 image: "images/articles/property-tax-explained/featured.jpg"
-draft: true
 ---
 
 Les taxes foncières ne sont pas compliquées, mais elles sont fréquemment mal comprises et systématiquement sous-estimées dans les budgets des acheteurs.

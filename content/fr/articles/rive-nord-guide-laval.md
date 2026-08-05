@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Guide local"
 description: "La Rive-Nord offre certaines des meilleures propositions de valeur dans l'immobilier du Grand Montréal. Voici mon analyse honnête de ce que chaque secteur offre."
 image: "images/articles/rive-nord-guide-laval/featured.jpg"
-draft: true
 ---
 
 Quand les acheteurs me disent qu'ils veulent quelque chose de plus abordable que Montréal mais assez proche de la ville, la Rive-Nord est presque toujours la réponse.

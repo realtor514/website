@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "À propos de Georges"
 description: "La propriété est souvent discutée comme un instrument financier. Pour de nombreuses familles, c'est la fondation de la stabilité et de la sécurité générationnelle."
 image: "images/articles/everyone-deserves-homeownership/featured.jpg"
-draft: true
 ---
 
 Je viens du Liban. Ma famille, comme beaucoup de familles libanaises, comprenait la propriété non pas comme une catégorie d'investissement mais comme la sécurité, quelque chose qui ne peut pas être enlevé.

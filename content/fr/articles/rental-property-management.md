@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Investissement"
 description: "Posséder un immeuble locatif et le gérer sont deux compétences différentes. Voici la réalité opérationnelle."
 image: "images/articles/rental-property-management/featured.jpg"
-draft: true
 ---
 
 Acheter un immeuble à revenus est une décision. Le gérer est une pratique. Les deux nécessitent des compétences différentes.

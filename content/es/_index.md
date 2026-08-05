@@ -1,4 +1,21 @@
 ---
 title: "Georges Matar | Corredor Inmobiliario Residencial, Laval & Montréal"
-description: "Georges Matar, corredor inmobiliario residencial en RE/MAX DU CARTIER INC. Ayudando a compradores, vendedores e inversores en Laval y el Gran Montréal."
+description: "Corredor inmobiliario residencial en Laval, Montreal, Terrebonne y la Rive-Nord. Compra, venta, inversión. Evaluación gratuita. Servicio en 4 idiomas. (438) 372-0102."
+faq:
+  - q: "¿Cuánto cuesta un corredor inmobiliario en Quebec?"
+    a: "Para un comprador, generalmente nada: la comisión la paga el vendedor con el producto de la venta. Para un vendedor, la comisión se negocia y suele situarse entre el 4 % y el 6 % del precio de venta en el Gran Montreal. No existe ninguna tarifa fija impuesta por la ley."
+  - q: "¿La evaluación de mi propiedad es realmente gratuita?"
+    a: "Sí, gratuita y sin compromiso. Preparo un análisis comparativo de mercado con las ventas recientes de su sector y las propiedades retiradas del mercado sin venderse. Usted se queda con el documento, decida vender conmigo o no."
+  - q: "¿Qué aporte inicial se necesita para comprar en Quebec?"
+    a: "El mínimo legal es del 5 % sobre el tramo hasta 500 000 $, y del 10 % sobre la porción superior. Por debajo del 20 %, el seguro hipotecario es obligatorio y se añade a su préstamo. Para un inmueble de más de cuatro viviendas o una casa de campo, las exigencias son mayores. La [calculadora de costos de cierre](/es/tools/closing-costs/) le da el panorama completo."
+  - q: "¿En qué ciudades trabaja?"
+    a: "Laval, Montreal, Terrebonne, Blainville, Repentigny, Saint-Jérôme y toda la Rive-Nord, las Laurentides y Lanaudière. Mi oficina RE/MAX Du Cartier está en el 2820, boul. St-Martin Est, en Laval (Duvernay). Ver [todas las zonas atendidas](/es/corredor-inmobiliario/)."
+  - q: "¿En qué idiomas ofrece sus servicios?"
+    a: "Francés, inglés, español y árabe. Es una ventaja concreta cuando una transacción involucra a una familia cuyos miembros no hablan todos el mismo idioma: nadie firma un documento que no entiende."
+  - q: "¿Qué es el impuesto de bienvenida y cuánto pagaré?"
+    a: "Es el derecho de mutación inmobiliaria, pagadero al municipio en los meses siguientes a la compra. El importe depende del precio y de la ciudad: Montreal aplica tramos adicionales que lo hacen claramente más alto que en la mayoría de las ciudades de la corona norte. Utilice la [calculadora del impuesto de bienvenida](/es/tools/welcome-tax/) para su importe exacto."
+  - q: "¿Cuánto tarda la venta de una propiedad?"
+    a: "Varía según el sector, el tipo de propiedad y el precio de salida. Una propiedad bien preparada y correctamente publicada recibe generalmente sus mejores ofertas en las tres primeras semanas. Una propiedad sobrevalorada que debe bajar su precio después casi siempre se vende por menos y más lentamente."
+  - q: "¿Ofrece garantías adicionales?"
+    a: "Sí, los programas exclusivos de RE/MAX Québec están incluidos sin costo adicional: [Tranquilli-T](/es/advantages/tranquilli-t/) para la asistencia jurídica, [Intégri-T](/es/advantages/integri-t/) que cubre hasta 50 000 $ en vicios ocultos durante tres años, y [Coproprié-T](/es/advantages/coproprie-t/) para las transacciones en copropiedad."
 ---

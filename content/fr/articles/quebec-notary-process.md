@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Immobilier 101"
 description: "Au Québec, les transactions immobilières se concluent par un notaire. Le processus est différent des autres provinces. Voici une explication claire."
 image: "images/articles/quebec-notary-process/featured.jpg"
-draft: true
 ---
 
 L'un des points de confusion les plus courants pour les acheteurs venant d'autres provinces ou d'autres pays est le rôle du notaire dans une transaction immobilière.

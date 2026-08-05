@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Investissement"
 description: "Tout le monde dit que les immeubles à revenus bâtissent de la richesse. Très peu de personnes expliquent vraiment les mécanismes concrets."
 image: "images/articles/income-property-beginners/featured.jpg"
-draft: true
 ---
 
 L'investissement en immeubles à revenus dans le Grand Montréal est présenté dans deux extrêmes : soit comme un chemin garanti vers la richesse accessible à tous, soit comme une entreprise complexe que seuls les professionnels devraient tenter. Les deux cadres sont faux.

@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Analyse de marché"
 description: "Les zones scolaires sont l'une des variables les moins discutées et les plus impactantes en immobilier résidentiel."
 image: "images/articles/school-districts-property-values/featured.jpg"
-draft: true
 ---
 
 Dans tout marché où les familles représentent une part importante des acheteurs, la qualité et l'accès aux écoles sont parmi les moteurs les plus puissants de la demande de propriétés.

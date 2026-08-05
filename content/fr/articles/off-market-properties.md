@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "Les propriétés hors marché sont réelles. Elles sont aussi entourées de plus de mythologie que presque tout autre concept en immobilier."
 image: "images/articles/off-market-properties/featured.jpg"
-draft: true
 ---
 
 Les propriétés hors marché (off-market) sont l'une des expressions les plus utilisées et les moins bien comprises en immobilier. Voici ce que cela signifie vraiment.

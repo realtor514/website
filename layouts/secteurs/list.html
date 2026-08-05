@@ -1,0 +1,40 @@
+{{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $base  := "/en" }}
+{{ if $isFr }}{{ $base = "" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
+
+<section class="content-hero sector-hero">
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <span>{{ if $isFr }}Secteurs desservis{{ else if $isAr }}المناطق المخدومة{{ else if $isEs }}Zonas atendidas{{ else }}Areas Served{{ end }}</span>
+    </div>
+    <p class="content-hero__category">{{ .Site.Params.brokerage }}</p>
+    <h1 class="content-hero__title">{{ .Title }}</h1>
+    {{ with .Description }}<p class="adv-hero__lede">{{ . }}</p>{{ end }}
+  </div>
+</section>
+
+<div class="content-body adv-body">
+  {{ .Content }}
+</div>
+
+<section class="section section--light">
+  <div class="container">
+    <div class="sector-grid sector-grid--lg">
+      {{ range sort .RegularPages "Weight" }}
+      <a href="{{ .Permalink }}" class="sector-card sector-card--lg">
+        <span class="sector-card__city">{{ .Params.city }}</span>
+        <span class="sector-card__desc">{{ .Params.cardText | default .Description }}</span>
+        <span class="sector-card__link">{{ if $isFr }}Voir le secteur{{ else if $isAr }}عرض المنطقة{{ else if $isEs }}Ver la zona{{ else }}View area{{ end }} &rsaquo;</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ partial "lead-modal.html" . }}
+{{ end }}

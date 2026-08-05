@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "عقارات 101"
 description: "بعض أكثر النصائح تكراراً في العقارات خاطئة. إليك تلك التي تكلف المشترين أكثر."
 image: "images/articles/real-estate-myths-debunked/featured.jpg"
-draft: true
 ---
 
 لديّ حساسية خاصة تجاه الحكمة المستلمة التي لم تُختبر بالأدلة. العقارات مليئة بها.

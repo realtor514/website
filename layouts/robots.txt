@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Bots IA / moteurs de reponse : autorises (visibilite dans ChatGPT, Perplexity, Google AI)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: {{ "sitemap.xml" | absURL }}
+{{ range .Site.Home.AllTranslations -}}
+Sitemap: {{ printf "%ssitemap.xml" .Permalink }}
+{{ end -}}

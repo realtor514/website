@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "La première visite est là où les décisions émotionnelles sont prises. Voici comment en faire aussi un exercice de collecte d'information productif."
 image: "images/articles/first-visit-property-checklist/featured.jpg"
-draft: true
 ---
 
 Il y a une séquence dans la façon dont les acheteurs vivent une première visite. Ils entrent et leur instinct enregistre une réponse immédiate : oui ou non. Si c'est oui, ils commencent à s'imaginer y vivre. Si c'est non, ils partent souvent rapidement.

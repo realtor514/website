@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Immobilier 101"
 description: "Certains des conseils les plus répétés en immobilier sont faux. Voici ceux qui coûtent le plus aux acheteurs."
 image: "images/articles/real-estate-myths-debunked/featured.jpg"
-draft: true
 ---
 
 J'ai une allergie particulière aux sagesses reçues qui n'ont pas été testées contre les preuves. L'immobilier en est plein. Voici les sept mythes que je corrige le plus souvent.

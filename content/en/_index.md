@@ -1,4 +1,21 @@
 ---
 title: "Georges Matar | Residential Real Estate Broker, Laval, Montréal, Laurentians & Lanaudière"
-description: "Georges Matar, residential real estate broker at RE/MAX DU CARTIER INC. Helping buyers, sellers, and investors in Laval, Montréal, the Laurentians and Lanaudière."
+description: "Residential real estate broker in Laval, Montreal, Terrebonne and the North Shore. Buying, selling, investing. Free evaluation. Service in 4 languages. (438) 372-0102."
+faq:
+  - q: "How much does a real estate broker cost in Quebec?"
+    a: "For a buyer, generally nothing: the commission is paid by the seller out of the sale proceeds. For a seller, the commission is negotiated and usually falls between 4% and 6% of the sale price in Greater Montreal. There is no legally fixed rate. I explain in detail what the commission actually covers in [this article](/en/articles/commission-explained-quebec/)."
+  - q: "Is the property evaluation really free?"
+    a: "Yes, free and with no obligation. I prepare a comparative market analysis using recent sales in your sector and properties withdrawn from the market without selling. You keep the document, whether you decide to list with me or not."
+  - q: "What down payment do I need to buy a property in Quebec?"
+    a: "The legal minimum is 5% on the portion up to $500,000, then 10% on the portion above that. Below 20%, mortgage loan insurance becomes mandatory and is added to your loan. For a building with more than four units or a cottage, requirements are higher. The [closing costs calculator](/en/tools/closing-costs/) gives you the full picture."
+  - q: "Which cities do you work in?"
+    a: "Laval, Montreal, Terrebonne, Blainville, Repentigny, Saint-Jérôme and the entire North Shore, Laurentians and Lanaudière. My RE/MAX Du Cartier office is at 2820 boul. St-Martin Est in Laval (Duvernay). See [all areas served](/en/real-estate-broker/)."
+  - q: "What languages do you work in?"
+    a: "French, English, Spanish and Arabic. This matters concretely when a transaction involves a family whose members do not all share a language: nobody signs a document they do not understand."
+  - q: "What is the welcome tax and how much will I pay?"
+    a: "It is the property transfer duty, payable to the municipality in the months following your purchase. The amount depends on the price and the city: Montreal applies additional brackets that make it considerably higher than in most north shore cities. Use the [welcome tax calculator](/en/tools/welcome-tax/) for your exact amount."
+  - q: "How long does it take to sell a property?"
+    a: "It varies by sector, property type and list price. A well-prepared, correctly priced property generally receives its best offers within the first three weeks. An overpriced property that has to cut its price later almost always sells for less and takes longer."
+  - q: "Do you offer additional guarantees?"
+    a: "Yes, RE/MAX Québec's exclusive programs are included at no additional cost: [Tranquilli-T](/en/advantages/tranquilli-t/) for legal assistance, [Intégri-T](/en/advantages/integri-t/) covering up to $50,000 in latent defects for three years, and [Coproprié-T](/en/advantages/coproprie-t/) for condominium transactions."
 ---

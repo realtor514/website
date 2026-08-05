@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Immobilier 101"
 description: "La plupart des gens engagent un courtier sur la base d'une recommandation ou d'une pancarte. Voici les cinq questions qui révèlent si un courtier servira vraiment vos intérêts."
 image: "images/articles/questions-hire-broker/featured.jpg"
-draft: true
 ---
 
 Choisir un courtier immobilier est l'une des décisions les plus conséquentes dans une transaction, et la plupart des gens y accordent beaucoup moins de réflexion qu'au choix d'un téléphone.

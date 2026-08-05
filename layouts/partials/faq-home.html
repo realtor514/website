@@ -1,0 +1,51 @@
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $hub := "/en/real-estate-broker/" }}
+{{ if $isFr }}{{ $hub = "/courtier-immobilier/" }}{{ else if $isAr }}{{ $hub = "/ar/wasit-aqari/" }}{{ else if $isEs }}{{ $hub = "/es/corredor-inmobiliario/" }}{{ end }}
+
+{{ $sectorPages := where .Site.RegularPages "Section" "secteurs" }}
+{{ with $sectorPages }}
+<section class="section section--light" id="secteurs">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="eyebrow">{{ if $isFr }}Zone de service{{ else if $isAr }}منطقة الخدمة{{ else if $isEs }}Zona de servicio{{ else }}Service area{{ end }}</span>
+      <h2>{{ if $isFr }}Où je travaille{{ else if $isAr }}أين أعمل{{ else if $isEs }}Dónde trabajo{{ else }}Where I work{{ end }}</h2>
+      <p class="subtitle">
+        {{ if $isFr }}Chaque secteur a sa propre dynamique de prix. Voici ce que je connais réellement de chacun.
+        {{ else if $isAr }}لكل قطاع ديناميكية أسعار خاصة به. إليك ما أعرفه فعلاً عن كل منها.
+        {{ else if $isEs }}Cada sector tiene su propia dinámica de precios. Esto es lo que realmente conozco de cada uno.
+        {{ else }}Each area has its own price dynamic. Here is what I actually know about each one.{{ end }}
+      </p>
+    </div>
+    <div class="sector-grid sector-grid--lg reveal">
+      {{ range sort . "Weight" }}
+      <a href="{{ .Permalink }}" class="sector-card sector-card--lg">
+        <span class="sector-card__city">{{ .Params.city }}</span>
+        <span class="sector-card__desc">{{ .Params.cardText | default .Description }}</span>
+        <span class="sector-card__link">{{ if $isFr }}Voir le secteur{{ else if $isAr }}عرض المنطقة{{ else if $isEs }}Ver la zona{{ else }}View area{{ end }} &rsaquo;</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Params.faq }}
+<section class="section" id="faq">
+  <div class="container container--narrow">
+    <div class="section-header reveal">
+      <span class="eyebrow">FAQ</span>
+      <h2>{{ if $isFr }}Questions fréquentes{{ else if $isAr }}أسئلة شائعة{{ else if $isEs }}Preguntas frecuentes{{ else }}Frequently asked questions{{ end }}</h2>
+    </div>
+    <div class="faq-list reveal">
+      {{ range . }}
+      <details class="faq-item">
+        <summary class="faq-item__q">{{ .q }}</summary>
+        <div class="faq-item__a">{{ .a | markdownify }}</div>
+      </details>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

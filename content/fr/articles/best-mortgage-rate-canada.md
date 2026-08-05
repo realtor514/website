@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Financement"
 description: "La plupart des acheteurs acceptent le premier taux que leur banque offre. Il y a presque toujours une meilleure option."
 image: "images/articles/best-mortgage-rate-canada/featured.jpg"
-draft: true
 ---
 
 Votre taux hypothécaire affecte chaque paiement mensuel pendant la durée de votre hypothèque. Une différence de 0,5 % sur une hypothèque de 450 000 $ économise environ 2 250 $ par an, ou 56 000 $ sur 25 ans d'amortissement.

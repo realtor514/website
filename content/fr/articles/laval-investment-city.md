@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Analyse de marché"
 description: "Tout le monde regarde l'île. Les données pointent vers Laval depuis des années. Voici pourquoi."
 image: "images/articles/laval-investment-city/featured.jpg"
-draft: true
 ---
 
 J'ai acheté mon propre triplex à Laval. Ce fait vous dit quelque chose sur où je mets mon argent.

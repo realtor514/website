@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Guide de l'acheteur"
 description: "Les bâtiments patrimoniaux de Montréal sont parmi les plus beaux en Amérique du Nord. Ils sont aussi parmi les plus compliqués à acheter et à entretenir."
 image: "images/articles/heritage-property-montreal/featured.jpg"
-draft: true
 ---
 
 Le patrimoine résidentiel de Montréal est génuinement extraordinaire. Les maisons victoriennes en rangée d'Outremont, les duplex italianisants du Plateau, les triplex en grès qui définissent le caractère visuel des quartiers. Je comprends pourquoi les acheteurs tombent amoureux des propriétés patrimoniales.

@@ -4,7 +4,6 @@ date: 2025-05-19
 category: "Guide du vendeur"
 description: "Vendre la maison familiale et passer à quelque chose de plus petit est l'une des décisions immobilières les plus significatives d'une vie."
 image: "images/articles/senior-downsizing-guide/featured.jpg"
-draft: true
 ---
 
 Réduire la taille de sa propriété n'est pas seulement une transaction immobilière. C'est une transition de vie qui implique une recalibration financière et le processus de se détacher d'une maison qui a peut-être accueilli l'histoire d'une famille pendant des décennies.
