@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi faire affaire avec moi"
+title: "Vue d'ensemble"
 description: "Quatre programmes exclusifs RE/MAX Québec inclus dans mon accompagnement : Tranquilli-T, Intégri-T, Coproprié-T et Mes rabais RE/MAX. Aucun frais supplémentaire."
 draft: false
 ---

@@ -121,7 +121,7 @@ defaultContentLanguageInSubdir = false
     [[languages.en.menus.main]]
       parent     = "advantages"
       identifier = "adv-overview"
-      name       = "Why Work With Me"
+      name       = "Overview"
       url        = "/en/advantages/"
       weight     = 1
 
@@ -303,7 +303,7 @@ defaultContentLanguageInSubdir = false
     [[languages.fr.menus.main]]
       parent     = "advantages"
       identifier = "adv-overview"
-      name       = "Pourquoi faire affaire avec moi"
+      name       = "Vue d'ensemble"
       url        = "/advantages/"
       weight     = 1
 
@@ -464,7 +464,7 @@ defaultContentLanguageInSubdir = false
     [[languages.es.menus.main]]
       parent     = "advantages"
       identifier = "adv-overview"
-      name       = "Por qué trabajar conmigo"
+      name       = "Visión general"
       url        = "/es/advantages/"
       weight     = 1
 
@@ -617,7 +617,7 @@ defaultContentLanguageInSubdir = false
     [[languages.ar.menus.main]]
       parent     = "advantages"
       identifier = "adv-overview"
-      name       = "لماذا تتعامل معي"
+      name       = "نظرة عامة"
       url        = "/ar/advantages/"
       weight     = 1
 

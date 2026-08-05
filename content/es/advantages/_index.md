@@ -1,5 +1,5 @@
 ---
-title: "Por qué trabajar conmigo"
+title: "Visión general"
 description: "Cuatro programas exclusivos de RE/MAX Québec incluidos en mi acompañamiento: Tranquilli-T, Integri-T, Coproprie-T y Mis descuentos RE/MAX. Sin costo adicional."
 draft: false
 ---
