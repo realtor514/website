@@ -1,0 +1,17 @@
+{{- /* Date formatee dans la langue de la page.
+       Usage: {{ partial "localized-date.html" . }} avec . = la Page. */ -}}
+{{- $d := .Date -}}
+{{- $lang := .Lang -}}
+{{- if eq $lang "fr" -}}
+  {{- $mois := slice "janvier" "février" "mars" "avril" "mai" "juin" "juillet" "août" "septembre" "octobre" "novembre" "décembre" -}}
+  {{- $j := int ($d.Format "2") -}}
+  {{- printf "%s %s %s" (cond (eq $j 1) "1er" (string $j)) (index $mois (sub (int ($d.Format "1")) 1)) ($d.Format "2006") -}}
+{{- else if eq $lang "es" -}}
+  {{- $meses := slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre" -}}
+  {{- printf "%s de %s de %s" ($d.Format "2") (index $meses (sub (int ($d.Format "1")) 1)) ($d.Format "2006") -}}
+{{- else if eq $lang "ar" -}}
+  {{- $ashhur := slice "يناير" "فبراير" "مارس" "أبريل" "مايو" "يونيو" "يوليو" "أغسطس" "سبتمبر" "أكتوبر" "نوفمبر" "ديسمبر" -}}
+  {{- printf "%s %s %s" ($d.Format "2") (index $ashhur (sub (int ($d.Format "1")) 1)) ($d.Format "2006") -}}
+{{- else -}}
+  {{- $d.Format "January 2, 2006" -}}
+{{- end -}}

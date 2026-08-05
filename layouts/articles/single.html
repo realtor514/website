@@ -17,9 +17,9 @@
     {{ with .Params.category }}<p class="content-hero__category">{{ . }}</p>{{ end }}
     <h1 class="content-hero__title">{{ .Title }}</h1>
     <p class="content-hero__meta">
-      {{ if $isFr }}Par{{ else }}By{{ end }} <strong style="color:rgba(255,255,255,.9)">Georges Matar</strong> &middot;
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-      &middot; {{ .ReadingTime }} {{ if $isFr }}min de lecture{{ else }}min read{{ end }}
+      {{ if $isFr }}Par{{ else if $isAr }}بقلم{{ else if $isEs }}Por{{ else }}By{{ end }} <strong style="color:rgba(255,255,255,.9)">Georges Matar</strong> &middot;
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ partial "localized-date.html" . }}</time>
+      &middot; {{ .ReadingTime }} {{ if $isFr }}min de lecture{{ else if $isAr }}دقائق قراءة{{ else if $isEs }}min de lectura{{ else }}min read{{ end }}
     </p>
   </div>
 </section>

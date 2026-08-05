@@ -644,3 +644,332 @@ input:focus, select:focus, textarea:focus {
   /* Le carrousel du hero et le degrade du nom restent visibles, sans mouvement */
   .hero__name span { animation: none !important; background-position: 30% 50% !important; }
 }
+
+/* ═══════════════════════════════════════════════════════════════
+   14. CORRECTIFS DE LISIBILITE SUR FOND SOMBRE
+   ═══════════════════════════════════════════════════════════════ */
+
+/* Les CTA principaux etaient en rouge a 15% d opacite sur fond sombre:
+   pratiquement invisibles. On en fait de vrais boutons. */
+.btn-glass-red {
+  background: linear-gradient(135deg, var(--red-light), var(--red) 55%, var(--red-dark)) !important;
+  border-color: transparent !important;
+  color: #fff !important;
+  box-shadow: 0 6px 22px rgba(176,0,0,.34);
+}
+.btn-glass-red:hover {
+  background: linear-gradient(135deg, #d81414, var(--red-light) 60%, var(--red)) !important;
+  box-shadow: 0 12px 34px rgba(176,0,0,.46);
+  transform: translateY(-2px);
+}
+
+/* Bouton du pied de page: rouge sombre sur fond quasi noir */
+.footer__book-btn {
+  color: #ff6b5e !important;
+  background: rgba(255,61,46,.1) !important;
+  border-color: rgba(255,61,46,.42) !important;
+  transition: background .35s, color .35s, border-color .35s, transform .35s var(--ease-spring);
+}
+.footer__book-btn:hover {
+  background: var(--red) !important;
+  border-color: var(--red) !important;
+  color: #fff !important;
+  transform: translateY(-2px);
+}
+
+/* Bouton contour fonce place sur un fond sombre: texte marine illisible */
+.section--dark .btn-outline-dark,
+.contact .btn-outline-dark,
+#contact .btn-outline-dark,
+.footer .btn-outline-dark {
+  color: rgba(255,255,255,.9);
+  border-color: rgba(255,255,255,.28);
+}
+.section--dark .btn-outline-dark:hover,
+.contact .btn-outline-dark:hover,
+#contact .btn-outline-dark:hover,
+.footer .btn-outline-dark:hover {
+  background: #fff;
+  color: var(--navy);
+  border-color: #fff;
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   15. SECTION A PROPOS
+   ═══════════════════════════════════════════════════════════════ */
+
+/* Le panorama de fond etait presque efface */
+.about-split::before,
+#about::before { opacity: .16 !important; }
+
+/* Cadre photo: carte nette, bordure fine, profondeur */
+.about-slideshow,
+.about-split__image {
+  border-radius: 22px;
+  overflow: hidden;
+  box-shadow: var(--el-4);
+  border: 1px solid rgba(10,22,40,.08);
+  background: linear-gradient(170deg, #fdfdfc, #f1efe8);
+  position: relative;
+}
+.about-slideshow::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  border-radius: inherit;
+  box-shadow: inset 0 -70px 90px -50px rgba(10,22,40,.18);
+}
+.about-slideshow__dot {
+  width: 7px; height: 7px;
+  transition: transform .35s var(--ease-spring), background .3s;
+}
+.about-slideshow__dot.active { transform: scale(1.45); }
+
+/* Puces de specialites: petites pastilles au lieu de simples points */
+.about-highlights { gap: 12px 28px; }
+.highlight-item {
+  position: relative;
+  transition: transform .35s var(--ease-spring), color .3s;
+}
+.highlight-item:hover { transform: translateX(3px); color: var(--navy); }
+[dir="rtl"] .highlight-item:hover { transform: translateX(-3px); }
+
+.about-split__text { font-size: 1.04rem; line-height: 1.85; }
+
+/* ═══════════════════════════════════════════════════════════════
+   16. FORMULAIRES
+   ═══════════════════════════════════════════════════════════════ */
+
+/* Carte du formulaire de contact: vrai verre depoli */
+.contact-form,
+.contact-card,
+#contact form {
+  backdrop-filter: blur(20px) saturate(150%);
+  -webkit-backdrop-filter: blur(20px) saturate(150%);
+}
+
+/* Champs sur fond sombre */
+#contact input, #contact textarea, #contact select {
+  background: rgba(255,255,255,.06);
+  border: 1px solid rgba(255,255,255,.14);
+  color: #fff;
+  border-radius: 10px;
+}
+#contact input::placeholder, #contact textarea::placeholder { color: rgba(255,255,255,.42); }
+#contact input:focus, #contact textarea:focus, #contact select:focus {
+  background: rgba(255,255,255,.1);
+  border-color: rgba(255,61,46,.6);
+  box-shadow: 0 0 0 3px rgba(255,61,46,.16);
+  outline: none;
+}
+
+/* Champs sur fond clair (formulaire reseau) */
+.network-form input, .network-form select, .network-form textarea,
+#network input, #network select, #network textarea {
+  border-radius: 10px;
+  border: 1px solid rgba(10,22,40,.12);
+  transition: border-color .3s, box-shadow .3s, background .3s;
+}
+#network input:focus, #network select:focus, #network textarea:focus {
+  border-color: rgba(176,0,0,.5);
+  box-shadow: 0 0 0 3px rgba(176,0,0,.1);
+  background: #fff;
+  outline: none;
+}
+#network label { letter-spacing: .01em; }
+
+/* Bouton d envoi du formulaire reseau */
+#network button[type="submit"],
+.network-form button[type="submit"] {
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(10,22,40,.22);
+  transition: transform .35s var(--ease-spring), box-shadow .4s;
+}
+#network button[type="submit"]:hover,
+.network-form button[type="submit"]:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 34px rgba(10,22,40,.3);
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   17. CARTES D ARTICLES
+   ═══════════════════════════════════════════════════════════════ */
+
+.article-card {
+  border-radius: 18px;
+  overflow: hidden;
+  border: 1px solid rgba(10,22,40,.07);
+}
+.article-card__image { position: relative; }
+.article-card__image::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 55%, rgba(10,22,40,.28));
+  opacity: 0;
+  transition: opacity .5s var(--ease-smooth);
+}
+.article-card:hover .article-card__image::after { opacity: 1; }
+
+/* Categorie en pastille plutot qu en texte nu */
+.article-card__category {
+  display: inline-block;
+  padding: 4px 11px;
+  border-radius: 40px;
+  background: rgba(0,67,255,.08);
+  border: 1px solid rgba(0,67,255,.16);
+  font-size: .67rem;
+  letter-spacing: .1em;
+}
+.article-card__title { transition: color .35s var(--ease-smooth); }
+.article-card:hover .article-card__title { color: var(--red); }
+.article-card__meta { border-top: 1px solid rgba(10,22,40,.07); }
+
+/* ═══════════════════════════════════════════════════════════════
+   18. PIED DE PAGE
+   ═══════════════════════════════════════════════════════════════ */
+
+.footer { position: relative; }
+/* Filet lumineux en haut du pied de page */
+.footer::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255,61,46,.55), rgba(46,107,255,.4), transparent);
+}
+.footer a {
+  position: relative;
+  transition: color .3s var(--ease-smooth);
+}
+.footer a:not(.btn)::after {
+  content: '';
+  position: absolute;
+  left: 0; bottom: -3px;
+  width: 0; height: 1px;
+  background: currentColor;
+  transition: width .4s var(--ease-out-expo);
+}
+.footer a:not(.btn):hover::after { width: 100%; }
+[dir="rtl"] .footer a:not(.btn)::after { left: auto; right: 0; }
+
+.footer__bottom { border-top: 1px solid rgba(255,255,255,.08); }
+
+/* ═══════════════════════════════════════════════════════════════
+   19. RYTHME ET COUTURES ENTRE SECTIONS
+   ═══════════════════════════════════════════════════════════════ */
+
+/* Degrade doux au passage clair -> sombre */
+.section--dark::after,
+.footer::after { z-index: 1; }
+
+/* Le bloc rouge des chiffres gagne de la matiere */
+.stats-bar, .section--red {
+  background-image:
+    linear-gradient(135deg, rgba(255,255,255,.07), transparent 42%),
+    radial-gradient(80% 120% at 100% 0%, rgba(0,0,0,.16), transparent 60%);
+}
+.stat-item { transition: transform .45s var(--ease-spring); }
+.stat-item:hover { transform: translateY(-4px); }
+
+/* ═══════════════════════════════════════════════════════════════
+   20. TYPOGRAPHIE
+   ═══════════════════════════════════════════════════════════════ */
+
+h1, h2 { letter-spacing: -.022em; }
+h3 { letter-spacing: -.012em; }
+.subtitle, .section-header .subtitle { line-height: 1.75; }
+
+/* Selection de texte aux couleurs de la marque */
+::selection { background: rgba(176,0,0,.85); color: #fff; }
+
+/* Focus visible coherent pour la navigation au clavier */
+a:focus-visible, button:focus-visible,
+input:focus-visible, select:focus-visible, textarea:focus-visible {
+  outline: 2px solid rgba(255,61,46,.75);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   21. CONTRASTE - corrections issues d un audit automatise
+   Chaque valeur ci-dessous remonte un rapport de contraste qui
+   passait sous le seuil lisible (WCAG AA).
+   ═══════════════════════════════════════════════════════════════ */
+
+/* Liens des cartes de services: rouge sombre sur marine (2.5:1) */
+.section--dark .service-card__link,
+.service-card__link { color: #ff6b5e; }
+.service-card:hover .service-card__link { color: #ff8a7e; }
+
+/* Pied de page: rouge sombre sur presque noir (2.6:1) */
+.footer__brand-title { color: #ff6b5e; }
+.footer__remax { color: #ff6b5e; }
+.footer__brand-text { color: rgba(255,255,255,.55); }
+.footer__link { color: rgba(255,255,255,.62); }
+.footer__link:hover { color: #fff; }
+.footer__bottom span,
+.footer__bottom { color: rgba(255,255,255,.55); }
+
+/* Eyebrow doree sur fond creme (2.1:1) */
+.eyebrow--gold { color: #7d6212; }
+.eyebrow--gold::after { background: linear-gradient(90deg, #b08d1f, #7d6212); }
+
+/* Accent dore de la carte Mes rabais (3.3:1) */
+.adv-card--gold .adv-card__link { color: #7d6212; }
+.adv-facts--gold .adv-fact__value { color: #7d6212; }
+
+/* Badges et eyebrows rouges sur fond sombre (3.0:1) */
+.journey-hero__badge { color: #ff6b5e; }
+.section--dark .eyebrow,
+.journey-hero .eyebrow { color: #ff8a7e; }
+
+/* Textes secondaires sur fond sombre, trop effaces */
+.section--dark .subtitle { color: rgba(255,255,255,.66); }
+.calc-card__desc { color: rgba(255,255,255,.58); }
+.contact-detail__label { color: rgba(255,255,255,.58); }
+.hero__trust-label { color: rgba(255,255,255,.6); }
+#offices .office-city,
+#offices [style*="rgba(255,255,255,.35)"] { color: rgba(255,255,255,.55) !important; }
+#offices [style*="rgba(255,255,255,.4)"]  { color: rgba(255,255,255,.6)  !important; }
+
+/* Gris de corps sur fond creme, legerement trop clair */
+.adv-card__desc,
+.section--light .subtitle,
+.gallery-caption { color: #5b6472; }
+
+/* Texte blanc semi-transparent sur le bloc rouge */
+.journey-split__text { color: rgba(255,255,255,.82); }
+.stat-item__label { color: rgba(255,255,255,.85); }
+
+/* Rattrapages de contraste: regles d origine posees en !important */
+.eyebrow--gold { color: #7d6212 !important; }
+.eyebrow--gold::after { background: linear-gradient(90deg, #b08d1f, #7d6212) !important; }
+
+/* Gris de corps: legerement assombri pour passer le seuil sur creme */
+.subtitle, .tools-tab, .gallery-caption,
+.section .text-center { color: #5b6472; }
+.section--dark .text-center,
+.section--dark .subtitle { color: rgba(255,255,255,.66); }
+
+/* Etiquettes de la galerie: posees sur photo, on garantit la lisibilite */
+.gallery-item__label {
+  text-shadow: 0 1px 6px rgba(0,0,0,.85), 0 0 18px rgba(0,0,0,.6);
+}
+
+/* Gris de corps global: #6b7280 tombait a 4.43:1 sur creme, juste sous
+   le seuil. Un cran plus fonce fait passer tout le site d un coup. */
+:root { --gray: #5b6472; }
+
+/* Fil d Ariane: element courant trop efface */
+.breadcrumb span:not(.breadcrumb__sep) { color: rgba(255,255,255,.62); }
+.breadcrumb__sep { color: rgba(255,255,255,.35); }
+
+/* Derniers cas: textes blancs trop transparents sur marine, eyebrow
+   rouge sombre des pages Acheteur / Vendeur. */
+.section--dark p.text-center { color: rgba(255,255,255,.62) !important; }
+.section--dark .eyebrow,
+.journey-hero .eyebrow,
+.steps .eyebrow { color: #ff8a7e !important; }
+.section--red p { color: rgba(255,255,255,.88); }
