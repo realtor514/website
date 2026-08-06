@@ -26,7 +26,8 @@ M = 72                                  # marge laterale
 RED = (230, 20, 5)
 RED_PURE = (255, 18, 0)
 BLUE = (0, 55, 214)
-NAVY = (0, 14, 53)
+NAVY = (0, 14, 53)                      # #000e35, navy du one pager RE/MAX
+NAVY_SOFT = (152, 166, 198)             # navy eclairci pour les sous-titres
 INK = (22, 27, 43)
 GREY = (112, 120, 136)
 LINE = (227, 231, 238)
@@ -235,22 +236,27 @@ def base(bg=WHITE):
 
 
 def badge(canvas, xy, text, fill=None, fg=WHITE, outline=None, size=26,
-          track=3, pad=(26, 14)):
-    """Pastille pleine (fill) ou contour (outline). Renvoie sa largeur."""
+          track=3, pad=(26, 14), r=None):
+    """Pastille pleine (fill) ou contour (outline). Renvoie sa largeur.
+
+    r = rayon des coins. Par defaut la pastille est arrondie complete; le
+    one pager RE/MAX utilise plutot un rectangle a coins doux (r=6).
+    """
     d = ImageDraw.Draw(canvas)
     f = inter(size, 800)
     w = tw(d, text, f, track) + pad[0] * 2
     h = size + pad[1] * 2
     x, y = xy
+    rad = h / 2 if r is None else r
     if fill:
-        d.rounded_rectangle([x, y, x + w, y + h], h / 2, fill=fill + (255,))
+        d.rounded_rectangle([x, y, x + w, y + h], rad, fill=fill + (255,))
     else:
-        d.rounded_rectangle([x, y, x + w, y + h], h / 2, outline=outline, width=3)
+        d.rounded_rectangle([x, y, x + w, y + h], rad, outline=outline, width=3)
     tracked(d, (x + pad[0], y + pad[1] - size * 0.12), text, f, fg, track)
     return w
 
 
-def eyebrow(canvas, xy, text, color=BLUE, align="l", size=23, track=5):
+def eyebrow(canvas, xy, text, color=NAVY, align="l", size=23, track=5):
     tracked(ImageDraw.Draw(canvas), xy, text, inter(size, 800), color, track,
             align)
 
@@ -278,21 +284,23 @@ def save(canvas, name):
 
 # ================================================================ SLIDE 1
 def slide1():
-    """Couverture: photo en haut, bandeau blanc en bas. Format plus propre
-    qu un texte pose sur la photo, et les pastilles restent lisibles."""
+    """Couverture calquee sur le one pager RE/MAX: titre blanc pose au bas de
+    la photo, pastille navy NOUVEAUTE, puis bandeau blanc avec le prix."""
     c = base()
-    photo(c, "03.jpg", (0, 0, W, 880), r=0, shad=False)
-    gradient(c, 0, 300, 130, top=True)
+    photo(c, "03.jpg", (0, 0, W, 900), r=0, shad=False)
+    gradient(c, 420, 900, 232)
     d = ImageDraw.Draw(c)
 
-    bw = badge(c, (M, 56), "À VENDRE", fill=RED)
-    badge(c, (M + bw + 16, 56), "ÉQUIPE PISTOLI", outline=(255, 255, 255, 235),
-          fg=WHITE)
+    d.text((M, 566), "28, rue St-Hilaire", font=playfair(78, 700), fill=WHITE)
+    d.text((M, 672), "Vieux-Longueuil", font=inter(34, 400),
+           fill=(255, 255, 255, 225))
+    badge(c, (M, 748), "NOUVEAUTÉ", fill=NAVY, size=27, track=4,
+          pad=(34, 17), r=6)
 
-    eyebrow(c, (M, 928), "NOUVELLE INSCRIPTION")
-    d.text((M, 968), "28, rue St-Hilaire", font=playfair(74, 700), fill=NAVY)
-    d.text((M, 1064), "Vieux-Longueuil", font=inter(32, 400), fill=GREY)
-    d.text((W - M, 1050), "499 000 $", font=playfair(56, 800), fill=RED,
+    eyebrow(c, (M, 962), "PRIX DEMANDÉ")
+    d.text((M, 1000), "499 000 $", font=playfair(64, 800), fill=NAVY)
+    tracked(d, (W - M, 962), "ÉQUIPE PISTOLI", inter(23, 800), NAVY, 5, "r")
+    d.text((W - M, 1004), "Centris 26368231", font=inter(25, 400), fill=GREY,
            anchor="ra")
 
     d.line([M, 1136, W - M, 1136], fill=LINE + (255,), width=2)
@@ -318,13 +326,13 @@ def slide2():
     for i, (ic, val, lab) in enumerate(items):
         x = x0 + (i % 2) * cw
         y = y0 + (i // 2) * rh
-        icon(c, ic, (x, y + 6), 44, RED + (255,))
+        icon(c, ic, (x, y + 6), 44, NAVY + (255,))
         d.text((x + 62, y), val, font=inter(33, 800), fill=NAVY)
         d.text((x + 62, y + 42), lab, font=inter(24, 400), fill=GREY)
 
-    d.rounded_rectangle([M, 1176, W - M, 1292], 20, fill=RED + (255,))
+    d.rounded_rectangle([M, 1176, W - M, 1292], 12, fill=NAVY + (255,))
     tracked(d, (M + 34, 1204), "PRIX DEMANDÉ", inter(23, 800),
-            (255, 210, 205), 5)
+            NAVY_SOFT, 5)
     d.text((W - M - 34, 1198), "499 000 $", font=playfair(58, 800), fill=WHITE,
            anchor="ra")
     return c
@@ -346,7 +354,7 @@ def slide3():
     for t in ["Îlot central avec rangement",
               "Armoires blanches pleine hauteur",
               "Électroménagers en acier inoxydable"]:
-        icon(c, "check", (M, y + 2), 34, RED + (255,))
+        icon(c, "check", (M, y + 2), 34, NAVY + (255,))
         d.text((M + 52, y), t, font=inter(30, 500), fill=INK)
         y += 62
 
@@ -370,7 +378,7 @@ def slide4():
               "Plomberie et électricité 2014",
               "Piscine hors terre 2023",
               "Borne de recharge électrique"]:
-        icon(c, "check", (M, y + 2), 34, RED + (255,))
+        icon(c, "check", (M, y + 2), 34, NAVY + (255,))
         d.text((M + 52, y), t, font=inter(30, 500), fill=INK)
         y += 62
 
@@ -417,7 +425,7 @@ def slide6():
     for ic, t in [("pin", "Écoles et services du secteur"),
                   ("tree", "Parcs et pistes cyclables"),
                   ("train", "Métro et pont Jacques-Cartier")]:
-        icon(c, ic, (M, y - 2), 40, BLUE + (255,))
+        icon(c, ic, (M, y - 2), 40, NAVY + (255,))
         d.text((M + 60, y), t, font=inter(30, 500), fill=INK)
         y += 62
 
@@ -433,7 +441,7 @@ def slide7():
     gradient(c, 700, H, 245)
     d = ImageDraw.Draw(c)
 
-    d.line([W // 2 - 46, 820, W // 2 + 46, 820], fill=RED_PURE + (255,), width=5)
+    d.line([W // 2 - 46, 820, W // 2 + 46, 820], fill=WHITE + (255,), width=5)
     d.text((W // 2, 876), "Imaginez-vous", font=playfair(80, 700), fill=WHITE,
            anchor="ma")
     d.text((W // 2, 972), "vivre ici.", font=playfair(80, 700), fill=WHITE,
@@ -451,7 +459,7 @@ def slide8():
     """Les deux courtiers de l inscription: Georges Matar et Rovena Pistoli."""
     c = base(CREAM)
     d = ImageDraw.Draw(c)
-    d.rectangle([0, 0, W, 10], fill=RED + (255,))
+    d.rectangle([0, 0, W, 10], fill=NAVY + (255,))
 
     s, gap = 250, 60
     x0 = (W - (2 * s + gap)) // 2
@@ -466,7 +474,7 @@ def slide8():
         d.text((cx, 368), nom, font=inter(26, 800), fill=NAVY, anchor="ma")
         para(d, (cx, 404), titre, inter(19, 400), GREY, s + 40, 26, "c")
 
-    eyebrow(c, (W // 2, 500), "ÉQUIPE PISTOLI", RED, "c")
+    eyebrow(c, (W // 2, 500), "ÉQUIPE PISTOLI", NAVY, "c")
     d.text((W // 2, 542), "Cette propriété", font=playfair(62, 700), fill=NAVY,
            anchor="ma")
     d.text((W // 2, 616), "vous intéresse?", font=playfair(62, 700), fill=NAVY,
@@ -479,17 +487,17 @@ def slide8():
                   ("globe", "georgesmatar.ca")]:
         wtot = 40 + 22 + d.textlength(t, font=fnt)
         x = (W - wtot) // 2
-        icon(c, ic, (int(x), y), 40, RED + (255,))
+        icon(c, ic, (int(x), y), 40, NAVY + (255,))
         d.text((x + 62, y + 3), t, font=fnt, fill=INK)
         y += 62
 
     y += 18
     bh = 104
-    d.rounded_rectangle([M, y, W - M, y + bh], bh / 2, fill=RED + (255,))
+    d.rounded_rectangle([M, y, W - M, y + bh], 12, fill=NAVY + (255,))
     d.text((W // 2, y + bh / 2 - 16), "Planifiez votre visite",
            font=inter(33, 800), fill=WHITE, anchor="mm")
     tracked(d, (W // 2, y + bh / 2 + 6), "DÈS AUJOURD'HUI", inter(21, 700),
-            (255, 205, 200), 4, "c")
+            NAVY_SOFT, 4, "c")
 
     y += bh + 40
     d.line([M, y, W - M, y], fill=LINE + (255,), width=2)
