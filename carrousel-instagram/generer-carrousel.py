@@ -463,14 +463,16 @@ def slide8():
 
     s, gap = 250, 60
     x0 = (W - (2 * s + gap)) // 2
-    circle_photo(c, os.path.join(ASSETS, "georges-matar.png"), (x0, 86), s)
-    circle_photo(c, os.path.join(SOURCES, "rovena-pistoli.jpg"),
-                 (x0 + s + gap, 86), s, fy=0.0)
+    circle_photo(c, os.path.join(SOURCES, "rovena-pistoli.jpg"), (x0, 86), s,
+                 fy=0.0)
+    circle_photo(c, os.path.join(ASSETS, "georges-matar.png"),
+                 (x0 + s + gap, 86), s)
 
     for cx, nom, titre in [
-            (x0 + s // 2, "GEORGES MATAR", "Courtier immobilier résidentiel"),
-            (x0 + s + gap + s // 2, "ROVENA PISTOLI",
-             "Courtier immobilier résidentiel et commercial")]:
+            (x0 + s // 2, "ROVENA PISTOLI",
+             "Courtier immobilier résidentiel et commercial"),
+            (x0 + s + gap + s // 2, "GEORGES MATAR",
+             "Courtier immobilier résidentiel")]:
         d.text((cx, 368), nom, font=inter(26, 800), fill=NAVY, anchor="ma")
         para(d, (cx, 404), titre, inter(19, 400), GREY, s + 40, 26, "c")
 
