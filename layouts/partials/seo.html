@@ -211,6 +211,47 @@
   {{- $graph = $graph | append $service -}}
 {{- end -}}
 
+{{- /* ── Inscription immobiliere ── */ -}}
+{{- if and .IsPage (eq .Section "listings") -}}
+  {{- $residence := dict
+        "@type" "SingleFamilyResidence"
+        "name" .Title
+        "address" (dict
+          "@type" "PostalAddress"
+          "streetAddress" .Params.address
+          "addressLocality" (.Params.city | default $p.addressLocality)
+          "addressRegion" "QC"
+          "addressCountry" "CA")
+  -}}
+  {{- with .Params.bedrooms }}{{ $residence = merge $residence (dict "numberOfBedrooms" .) }}{{ end -}}
+  {{- with .Params.year_built }}{{ $residence = merge $residence (dict "yearBuilt" .) }}{{ end -}}
+  {{- with .Params.images }}{{ $residence = merge $residence (dict "photo" (index . 0 | absURL)) }}{{ end -}}
+
+  {{- $offer := dict
+        "@type" "Offer"
+        "availability" "https://schema.org/InStock"
+        "priceCurrency" "CAD"
+        "seller" (dict "@id" $agentID)
+  -}}
+  {{- with .Params.priceValue }}{{ $offer = merge $offer (dict "price" .) }}{{ end -}}
+
+  {{- $listing := dict
+        "@type" "RealEstateListing"
+        "@id" (printf "%s#listing" .Permalink)
+        "url" .Permalink
+        "name" .Title
+        "description" $desc
+        "datePosted" (.Date.Format "2006-01-02")
+        "inLanguage" (.Language.LanguageCode | default .Lang)
+        "isPartOf" (dict "@id" $siteID)
+        "about" $residence
+        "offers" $offer
+        "provider" (dict "@id" $agentID)
+  -}}
+  {{- with .Params.mls }}{{ $listing = merge $listing (dict "identifier" (dict "@type" "PropertyValue" "name" "Centris" "value" .)) }}{{ end -}}
+  {{- $graph = $graph | append $listing -}}
+{{- end -}}
+
 {{- /* ── FAQ declaree en frontmatter ── */ -}}
 {{- with .Params.faq -}}
   {{- $qa := slice -}}

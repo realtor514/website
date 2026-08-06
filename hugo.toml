@@ -23,6 +23,13 @@ defaultContentLanguageInSubdir = false
       aboutBadge  = "About Me"
       aboutTitle  = "I Approach Real Estate With Rigor and Method"
 
+    # -- PROPRIETES --
+    [[languages.en.menus.main]]
+      identifier = "listings"
+      name       = "Properties"
+      url        = "/en/listings/"
+      weight     = 0
+
     # ── BUYER menu ──
     [[languages.en.menus.main]]
       identifier = "buyer"
@@ -205,6 +212,13 @@ defaultContentLanguageInSubdir = false
       bio         = "J'ai appris à décomposer un problème complexe en décisions simples. J'applique cette même rigueur à l'achat, la vente et l'investissement immobilier à Montréal, Laval, dans les Laurentides et Lanaudière."
       aboutBadge  = "À propos"
       aboutTitle  = "Je traite l'immobilier avec rigueur et méthode"
+
+    # -- PROPRIETES --
+    [[languages.fr.menus.main]]
+      identifier = "listings"
+      name       = "Propriétés"
+      url        = "/listings/"
+      weight     = 0
 
     # ── ACHETEUR menu ──
     [[languages.fr.menus.main]]
@@ -389,6 +403,13 @@ defaultContentLanguageInSubdir = false
       aboutBadge  = "Sobre mí"
       aboutTitle  = "Trato el sector inmobiliario con rigor y método"
 
+    # -- PROPRIETES --
+    [[languages.es.menus.main]]
+      identifier = "listings"
+      name       = "Propiedades"
+      url        = "/es/listings/"
+      weight     = 0
+
     # ── COMPRADOR menu ──
     [[languages.es.menus.main]]
       identifier = "buyer"
@@ -542,6 +563,13 @@ defaultContentLanguageInSubdir = false
       bio         = "تعلمت كيف أفكك مشكلة معقدة إلى قرارات بسيطة. أطبق الدقة نفسها على الشراء والبيع والاستثمار العقاري في مونتريال ولافال ومنطقة اللورانتيد ولانوديير."
       aboutBadge  = "نبذة عني"
       aboutTitle  = "أتعامل مع العقارات بدقة ومنهجية"
+
+    # -- PROPRIETES --
+    [[languages.ar.menus.main]]
+      identifier = "listings"
+      name       = "العقارات"
+      url        = "/ar/listings/"
+      weight     = 0
 
     # ── المشتري menu ──
     [[languages.ar.menus.main]]

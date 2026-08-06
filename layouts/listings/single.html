@@ -1,4 +1,4 @@
-﻿{{ define "main" }}
+{{ define "main" }}
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
 {{ $isEs := eq .Lang "es" }}
@@ -8,9 +8,9 @@
 <section class="content-hero">
   <div class="container">
     <div class="breadcrumb">
-      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else }}Home{{ end }}</a>
+      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a>
       <span class="breadcrumb__sep">&rsaquo;</span>
-      <a href="{{ $base }}/listings/">{{ if $isFr }}Propriétés{{ else }}Properties{{ end }}</a>
+      <a href="{{ $base }}/listings/">{{ if $isFr }}Propriétés{{ else if $isAr }}العقارات{{ else if $isEs }}Propiedades{{ else }}Properties{{ end }}</a>
       <span class="breadcrumb__sep">&rsaquo;</span>
       <span>{{ .Title | truncate 40 }}</span>
     </div>
@@ -20,33 +20,42 @@
   </div>
 </section>
 
-<section class="section">
+{{ with .Params.images }}
+<section class="listing-photos">
   <div class="container">
-
-    {{ with .Params.images }}
-    {{ if gt (len .) 0 }}
-    <div class="listing-gallery">
-      {{ range first 3 . }}
-      <img src="{{ . | relURL }}" alt="{{ if $isFr }}Photo de la propriété{{ else }}Property photo{{ end }}" loading="lazy">
+    <div class="listing-photos__grid">
+      {{ range $i, $img := . }}
+      <a href="{{ $img | relURL }}" class="listing-photos__item{{ if eq $i 0 }} listing-photos__item--lead{{ end }}" target="_blank" rel="noopener">
+        <img src="{{ $img | relURL }}"
+             alt="{{ $.Params.address }} - photo {{ add $i 1 }}"
+             loading="{{ if lt $i 3 }}eager{{ else }}lazy{{ end }}"
+             width="1600" height="1062">
+      </a>
       {{ end }}
     </div>
-    {{ end }}
-    {{ end }}
+    <p class="listing-photos__count">
+      {{ len . }} {{ if $isFr }}photos{{ else if $isAr }}صورة{{ else if $isEs }}fotos{{ else }}photos{{ end }}
+    </p>
+  </div>
+</section>
+{{ end }}
 
+<section class="section">
+  <div class="container">
     <div class="listing-detail-grid">
       <div>
-        <h2 style="margin-bottom:20px">{{ if $isFr }}Détails de la propriété{{ else }}Property Details{{ end }}</h2>
+        <h2 style="margin-bottom:20px">{{ if $isFr }}Détails de la propriété{{ else if $isAr }}تفاصيل العقار{{ else if $isEs }}Detalles de la propiedad{{ else }}Property Details{{ end }}</h2>
 
         <div class="listing-features-grid">
-          {{ with .Params.price     }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Prix{{ else }}Price{{ end }}</span></div>{{ end }}
-          {{ with .Params.bedrooms  }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Chambres{{ else }}Bedrooms{{ end }}</span></div>{{ end }}
-          {{ with .Params.bathrooms }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Salles de bain{{ else }}Bathrooms{{ end }}</span></div>{{ end }}
-          {{ with .Params.sqft      }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">Pi. ca.</span></div>{{ end }}
-          {{ with .Params.parking   }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Stationnement{{ else }}Parking{{ end }}</span></div>{{ end }}
-          {{ with .Params.year_built}}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Année{{ else }}Year Built{{ end }}</span></div>{{ end }}
+          {{ with .Params.price      }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Prix{{ else if $isAr }}السعر{{ else if $isEs }}Precio{{ else }}Price{{ end }}</span></div>{{ end }}
+          {{ with .Params.bedrooms   }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Chambres{{ else if $isAr }}غرف نوم{{ else if $isEs }}Dormitorios{{ else }}Bedrooms{{ end }}</span></div>{{ end }}
+          {{ with .Params.bathrooms  }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Salle de bain / eau{{ else if $isAr }}حمّام / حمّام صغير{{ else if $isEs }}Baño / aseo{{ else }}Bath / powder{{ end }}</span></div>{{ end }}
+          {{ with .Params.lot        }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Terrain{{ else if $isAr }}الأرض{{ else if $isEs }}Terreno{{ else }}Lot{{ end }}</span></div>{{ end }}
+          {{ with .Params.parking    }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Stationnement{{ else if $isAr }}مواقف{{ else if $isEs }}Estacionamiento{{ else }}Parking{{ end }}</span></div>{{ end }}
+          {{ with .Params.year_built }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Année{{ else if $isAr }}سنة البناء{{ else if $isEs }}Año{{ else }}Year Built{{ end }}</span></div>{{ end }}
         </div>
 
-        <div style="margin-top:28px">{{ .Content }}</div>
+        <div class="content-body" style="margin:28px 0 0;padding:0;max-width:none">{{ .Content }}</div>
       </div>
 
       <div>
@@ -54,28 +63,54 @@
           {{ with .Params.price }}<div class="listing-sidebar__price">{{ . }}</div>{{ end }}
           <div class="listing-sidebar__address">{{ .Params.address }}</div>
 
-          <a href="{{ $base }}/#contact" class="btn btn-primary" style="width:100%;justify-content:center;margin-bottom:10px">
-            {{ if $isFr }}Demander de l'information{{ else }}Request Information{{ end }}
-          </a>
-          <a href="tel:+14383720102" class="btn btn-outline" style="width:100%;justify-content:center">
-            {{ if $isFr }}Appeler (438) 372-0102{{ else }}Call (438) 372-0102{{ end }}
-          </a>
+          {{ with .Params.mls }}
+          <div class="listing-sidebar__mls">
+            {{ if $isFr }}No Centris{{ else if $isAr }}رقم Centris{{ else if $isEs }}N.º Centris{{ else }}Centris no.{{ end }} <strong>{{ . }}</strong>
+          </div>
+          {{ end }}
 
-          <hr style="border:none;border-top:1px solid rgba(255,255,255,.1);margin:22px 0">
+          <a href="{{ $base }}/#contact" class="btn btn-primary" style="width:100%;justify-content:center;margin-bottom:10px">
+            {{ if $isFr }}Demander de l'information{{ else if $isAr }}اطلب معلومات{{ else if $isEs }}Solicitar información{{ else }}Request Information{{ end }}
+          </a>
+          <a href="tel:+14383720102" class="btn btn-outline" style="width:100%;justify-content:center;margin-bottom:10px">
+            {{ if $isFr }}Appeler (438) 372-0102{{ else if $isAr }}اتصل 0102-372-438{{ else if $isEs }}Llamar (438) 372-0102{{ else }}Call (438) 372-0102{{ end }}
+          </a>
+          <button class="btn btn-outline" style="width:100%;justify-content:center" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
+            {{ if $isFr }}Planifier une visite{{ else if $isAr }}احجز زيارة{{ else if $isEs }}Programar una visita{{ else }}Schedule a Viewing{{ end }}
+          </button>
+
+          {{ if or .Params.taxMunicipal .Params.assessment }}
+          <hr class="listing-sidebar__rule">
+          <ul class="listing-sidebar__facts">
+            {{ with .Params.propertyType }}<li><span>{{ if $isFr }}Type{{ else if $isAr }}النوع{{ else if $isEs }}Tipo{{ else }}Type{{ end }}</span><span>{{ . }}</span></li>{{ end }}
+            {{ with .Params.assessment   }}<li><span>{{ if $isFr }}Évaluation{{ else if $isAr }}التقييم{{ else if $isEs }}Evaluación{{ else }}Assessment{{ end }}</span><span>{{ . }}</span></li>{{ end }}
+            {{ with .Params.taxMunicipal }}<li><span>{{ if $isFr }}Taxes municipales{{ else if $isAr }}ضرائب بلدية{{ else if $isEs }}Impuestos municipales{{ else }}Municipal taxes{{ end }}</span><span>{{ . }}</span></li>{{ end }}
+            {{ with .Params.taxSchool    }}<li><span>{{ if $isFr }}Taxes scolaires{{ else if $isAr }}ضرائب مدرسية{{ else if $isEs }}Impuestos escolares{{ else }}School taxes{{ end }}</span><span>{{ . }}</span></li>{{ end }}
+          </ul>
+          {{ end }}
+
+          <hr class="listing-sidebar__rule">
 
           <div style="display:flex;align-items:center;gap:12px">
             <img src="{{ "images/georges-matar.png" | relURL }}" alt="Georges Matar"
-                 style="width:46px;height:46px;border-radius:50%;object-fit:cover;object-position:top center;flex-shrink:0">
+                 style="width:46px;height:46px;border-radius:50%;object-fit:cover;object-position:top center;flex-shrink:0"
+                 width="46" height="46" loading="lazy">
             <div>
               <div style="font-weight:600;color:white;font-size:.9rem">Georges Matar</div>
               <div style="color:rgba(255,255,255,.5);font-size:.78rem">RE/MAX DU CARTIER INC.</div>
             </div>
           </div>
+
+          {{ with .Params.sourceURL }}
+          <a href="{{ . }}" target="_blank" rel="noopener" class="listing-sidebar__source">
+            {{ if $isFr }}Voir la fiche officielle RE/MAX{{ else if $isAr }}عرض البطاقة الرسمية RE/MAX{{ else if $isEs }}Ver la ficha oficial RE/MAX{{ else }}View the official RE/MAX listing{{ end }} &rsaquo;
+          </a>
+          {{ end }}
         </div>
       </div>
     </div>
-
   </div>
 </section>
 
+{{ partial "lead-modal.html" . }}
 {{ end }}
