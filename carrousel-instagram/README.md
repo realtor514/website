@@ -15,18 +15,20 @@ Publier dans cet ordre exact. Instagram conserve l ordre d ajout des fichiers.
 | 3 | `03-cuisine.jpg` | Cuisine, 3 points |
 | 4 | `04-points-forts.jpg` | Cour, 4 travaux deja realises |
 | 5 | `05-details.jpg` | Chambre, salle de bain, terrasse |
-| 6 | `06-emplacement.jpg` | Pancarte Equipe Pistoli sur le terrain, 3 elements de proximite |
+| 6 | `06-emplacement.jpg` | Rue, 3 elements de proximite |
 | 7 | `07-coup-de-coeur.jpg` | Salle a manger, Imaginez-vous vivre ici |
 | 8 | `08-contact.jpg` | Georges Matar et Rovena Pistoli, coordonnees, appel a l action |
 
 ### Equipe Pistoli
 
 L inscription vient d un lead obtenu par Rovena Pistoli. Elle est mentionnee
-a trois endroits:
+a deux endroits:
 
 - slide 1: pastille EQUIPE PISTOLI a cote de A VENDRE
-- slide 6: photo de la pancarte installee sur le terrain, ou son nom parait
 - slide 8: sa photo, son nom et son titre a cote de ceux de Georges
+
+Les photos de la pancarte prises au telephone ne vont PAS dans le carrousel:
+seules les photos professionnelles de Centris sont utilisees.
 
 Titre exact tire de sa fiche RE/MAX DU CARTIER: Courtier immobilier
 residentiel et commercial. Entreprise: Rovena Pistoli Immobilier Inc.
@@ -86,11 +88,14 @@ Centris 26368231
 
 `sources/` contient les fichiers qui ne viennent pas de Centris:
 
-| Fichier | Origine |
-|---------|---------|
-| `pancarte-01.jpg` | Photo du terrain, pancarte vue de pres. Non utilisee, disponible en remplacement |
-| `pancarte-02.jpg` | Photo du terrain, cadrage large. Utilisee sur la slide 6 |
-| `rovena-pistoli.jpg` | Portrait officiel, telecharge de sa fiche RE/MAX DU CARTIER |
+| Fichier | Origine | Utilise |
+|---------|---------|---------|
+| `pancarte-01.jpg` | Photo du terrain, pancarte vue de pres | Non |
+| `pancarte-02.jpg` | Photo du terrain, cadrage large | Non |
+| `rovena-pistoli.jpg` | Portrait officiel, telecharge de sa fiche RE/MAX DU CARTIER | Slide 8 |
+
+Les deux photos de pancarte sont conservees pour les publications simples
+(story, publication unique le jour de l installation), pas pour le carrousel.
 
 ## Regenerer
 

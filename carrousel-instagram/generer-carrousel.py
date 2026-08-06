@@ -401,11 +401,10 @@ def slide5():
 
 # ================================================================ SLIDE 6
 def slide6():
-    """Photo de la pancarte sur le terrain: montre l Equipe Pistoli en
-    contexte et sert de photo de rue pour la section emplacement."""
+    """Photo de rue professionnelle. Les photos de la pancarte prise au
+    telephone restent dans sources/ mais ne vont pas dans le carrousel."""
     c = base()
-    photo(c, "pancarte-02.jpg", (0, 0, W, 700), r=0, shad=False, fy=0.57,
-          folder=SOURCES)
+    photo(c, "04.jpg", (0, 0, W, 700), r=0, shad=False)
     d = ImageDraw.Draw(c)
 
     y = 756
