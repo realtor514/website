@@ -341,7 +341,7 @@ def slide2():
 # ================================================================ SLIDE 3
 def slide3():
     c = base()
-    photo(c, "09.jpg", (0, 0, W, 700), r=0, shad=False)
+    photo(c, "10.jpg", (0, 0, W, 700), r=0, shad=False)
     d = ImageDraw.Draw(c)
 
     y = 756
@@ -365,7 +365,7 @@ def slide3():
 # ================================================================ SLIDE 4
 def slide4():
     c = base()
-    photo(c, "25.jpg", (0, 0, W, 700), r=0, shad=False, fy=0.28)
+    photo(c, "17.jpg", (0, 0, W, 700), r=0, shad=False, fy=0.5)
     d = ImageDraw.Draw(c)
 
     y = 756
@@ -412,7 +412,7 @@ def slide6():
     """Photo de rue professionnelle. Les photos de la pancarte prise au
     telephone restent dans sources/ mais ne vont pas dans le carrousel."""
     c = base()
-    photo(c, "04.jpg", (0, 0, W, 700), r=0, shad=False)
+    photo(c, "05.jpg", (0, 0, W, 700), r=0, shad=False)
     d = ImageDraw.Draw(c)
 
     y = 756
