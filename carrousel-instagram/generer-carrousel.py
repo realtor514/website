@@ -10,6 +10,7 @@ import os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 SLUG = "28-rue-st-hilaire-longueuil"
+CARTE = "carte.png"                  # capture du secteur, deposee dans sources/
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -326,7 +327,7 @@ def slide1():
     """Couverture calquee sur le one pager RE/MAX: titre blanc pose au bas de
     la photo, pastille navy NOUVEAUTE, puis bandeau blanc avec le prix."""
     c = base()
-    photo(c, "03.jpg", (0, 0, W, 900), r=0, shad=False)
+    photo(c, "6.png", (0, 0, W, 900), r=0, shad=False, folder=SOURCES)
     gradient(c, 420, 900, 232)
     d = ImageDraw.Draw(c)
 
@@ -451,7 +452,10 @@ def slide6():
     """Photo de rue professionnelle. Les photos de la pancarte prise au
     telephone restent dans sources/ mais ne vont pas dans le carrousel."""
     c = base()
-    photo(c, "6.png", (0, 0, W, 700), r=0, shad=False, folder=SOURCES)
+    if os.path.exists(os.path.join(SOURCES, CARTE)):
+        photo(c, CARTE, (0, 0, W, 700), r=0, shad=False, folder=SOURCES)
+    else:
+        photo(c, "04.jpg", (0, 0, W, 700), r=0, shad=False)
     d = ImageDraw.Draw(c)
 
     y = 756
