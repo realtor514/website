@@ -436,8 +436,8 @@ def slide5():
     photo(c, "4.png", (M, 268, W - M, 950), folder=SOURCES)
     d.text((M, 976), "L'étage", font=inter(25, 700), fill=NAVY)
     para(d, (M, 1020),
-         "La chambre principale a été divisée en deux chambres distinctes, "
-         "une configuration facilement réversible.",
+         "Une maison lumineuse, entretenue avec soin, "
+         "prête à vous accueillir.",
          inter(29, 400), INK, W - 2 * M, 44)
 
     signature(c, 1196)
