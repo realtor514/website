@@ -141,7 +141,7 @@ def circle_photo(canvas, path, xy, size, fy=0.0):
     canvas.alpha_composite(im, xy)
 
 
-def studio_portrait(png, size=1200, head_top=0.08, zoom=1.14):
+def studio_portrait(png, size=1200, head_top=0.08, zoom=1.14, dx=0.05):
     """Pose un portrait detoure sur un fond studio blanc vers gris.
 
     Reproduit le fond de la photo de Rovena: mur clair, legerement plus
@@ -166,7 +166,7 @@ def studio_portrait(png, size=1200, head_top=0.08, zoom=1.14):
     h = int(size * zoom)
     w = int(im.width * h / im.height)
     im = im.resize((w, h), Image.LANCZOS)
-    x0, y0 = (size - w) // 2, int(size * head_top)
+    x0, y0 = (size - w) // 2 + int(size * dx), int(size * head_top)
 
     sh = Image.new("RGBA", (size, size), (0, 0, 0, 0))
     sh.paste((176, 176, 180, 150), (x0 + int(size * 0.035), y0 + 10), im)
@@ -358,10 +358,10 @@ def slide2():
 
     photo(c, "06.jpg", (M, 336, W - M, 856))
 
-    items = [("bed", "2", "Chambres"),
+    items = [("bed", "3", "Chambres au total"),
              ("bath", "1 + 1", "Salle de bain / eau"),
              ("car", "2", "Stationnements"),
-             ("land", "371 m²", "Terrain")]
+             ("land", "3 994 pi²", "Terrain")]
     x0, y0, cw, rh = M, 926, (W - 2 * M) // 2, 104
     for i, (ic, val, lab) in enumerate(items):
         x = x0 + (i % 2) * cw
@@ -411,7 +411,7 @@ def slide4():
     y = 756
     eyebrow(c, (M, y), "DÉJÀ FAIT")
     y += 46
-    d.text((M, y), "Les points forts", font=playfair(70, 700), fill=NAVY)
+    d.text((M, y), "Tranquillité d'esprit", font=playfair(70, 700), fill=NAVY)
     y += 122
 
     for t in ["Toiture refaite en 2014",
@@ -433,15 +433,12 @@ def slide5():
     eyebrow(c, (M, 92), "VISITE INTÉRIEURE")
     d.text((M, 134), "Chaque détail compte", font=playfair(70, 700), fill=NAVY)
 
-    photo(c, "12.jpg", (M, 268, W - M, 700))
-    d.text((M, 716), "Chambre principale", font=inter(25, 700), fill=NAVY)
-
-    gap = 28
-    hw = (W - 2 * M - gap) // 2
-    photo(c, "22.jpg", (M, 782, M + hw, 1118))
-    photo(c, "24.jpg", (M + hw + gap, 782, W - M, 1118), fy=0.62)
-    d.text((M, 1134), "Salle de bain", font=inter(25, 700), fill=NAVY)
-    d.text((M + hw + gap, 1134), "Terrasse", font=inter(25, 700), fill=NAVY)
+    photo(c, "4.png", (M, 268, W - M, 950), folder=SOURCES)
+    d.text((M, 976), "L'étage", font=inter(25, 700), fill=NAVY)
+    para(d, (M, 1020),
+         "La chambre principale a été divisée en deux chambres distinctes, "
+         "une configuration facilement réversible.",
+         inter(29, 400), INK, W - 2 * M, 44)
 
     signature(c, 1196)
     return c
@@ -569,7 +566,7 @@ if __name__ == "__main__":
     print("Carrousel ->", OUT)
     for fn, name in [
             (slide1, "01-couverture.jpg"), (slide2, "02-caracteristiques.jpg"),
-            (slide3, "03-cuisine.jpg"), (slide4, "04-points-forts.jpg"),
+            (slide3, "03-cuisine.jpg"), (slide4, "04-tranquillite.jpg"),
             (slide5, "05-details.jpg"), (slide6, "06-emplacement.jpg"),
             (slide7, "07-coup-de-coeur.jpg"), (slide8, "08-contact.jpg")]:
         save(fn(), name)
