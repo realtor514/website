@@ -6,7 +6,7 @@ description: "Most buyers discover their credit score is a problem when it's too
 image: "images/articles/credit-score-home-buying-quebec/featured.jpg"
 ---
 
-I had a client - a software engineer, great job, solid savings - who came to me excited to buy his first condo in Laval. We found the perfect place. He made the offer. It was accepted. And then, three days before the financing condition deadline, his mortgage broker called.
+Take a typical buyer: a software engineer, great job, solid savings, excited to buy his first condo in Laval. He finds the perfect place. He makes the offer. It is accepted. And then, three days before the financing condition deadline, his mortgage broker calls.
 
 Credit score: 618.
 
@@ -38,7 +38,7 @@ This is the ratio of your used credit to your available credit. Using $4,500 of 
 
 **3. Length of credit history (15%)**
 
-This is why I always tell young clients: don't close your oldest credit card, even if you never use it. The age of your oldest account matters. A 10-year-old card you use once a year for a small purchase is an asset.
+This is why younger buyers should never close their oldest credit card, even if they never use it. The age of the oldest account matters. A 10-year-old card used once a year for a small purchase is an asset.
 
 **4. Credit mix (10%)**
 
@@ -56,7 +56,7 @@ The fix: get a second credit card or a small personal line of credit, use it reg
 
 ## How Long Does It Actually Take to Fix?
 
-This is the question I get most often. The honest answer depends on why your score is low:
+This is the most common question. The honest answer depends on why your score is low:
 
 - **High utilization only:** 1-2 months after paying down balances
 - **Recent missed payments:** 6-12 months of clean payment history to recover meaningfully
@@ -65,11 +65,11 @@ This is the question I get most often. The honest answer depends on why your sco
 
 If you're planning to buy within 2 years, check your score now. Use Equifax Canada or TransUnion's free annual report. If you see issues, you have time to fix them.
 
-## My Practical Checklist Before Applying for a Mortgage
+## A Practical Checklist Before Applying for a Mortgage
 
 Before you walk into any lender's office:
 
-1. Pull your credit report from both Equifax and TransUnion (errors exist - I've seen wrong accounts, identity mix-ups)
+1. Pull your credit report from both Equifax and TransUnion (errors exist: wrong accounts, identity mix-ups)
 2. Get all credit card balances below 30% of their limits
 3. Don't apply for any new credit for at least 6 months
 4. Don't close old accounts
@@ -80,4 +80,4 @@ The best time to think about your credit for a home purchase is the moment you s
 
 ---
 
-*Want to know if your financial profile is mortgage-ready? [Let's talk](/\#contact) - I'll connect you with a mortgage broker I trust and walk through your situation before we even look at listings.*
+*Want to know if your financial profile is mortgage-ready? [Get in touch](/\#contact) to be connected with a trusted mortgage broker before looking at listings.*

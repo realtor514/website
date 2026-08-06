@@ -22,9 +22,9 @@ Dans les marchés avec des écoles bien cotées, les propriétés dans la zone d
 
 Une part significative des familles québécoises envoie ses enfants dans des écoles privées. Pour ces familles, le positionnement dans la zone de desserte importe moins. Les zones proches d'écoles privées bien cotées voient aussi une concentration de la demande.
 
-## Comment j'utilise les données sur les zones scolaires
+## Comment utiliser les données sur les zones scolaires
 
-Quand j'analyse une propriété pour un investisseur ou un acheteur familial, les données sur les zones scolaires sont l'une des variables explicites de l'analyse. Les changements de limites de zones peuvent modifier significativement le profil de demande des propriétés des deux côtés de la nouvelle ligne.
+Dans l'analyse d'une propriété pour un investisseur ou un acheteur familial, les données sur les zones scolaires sont l'une des variables explicites. Les changements de limites de zones peuvent modifier significativement le profil de demande des propriétés des deux côtés de la nouvelle ligne.
 
 ---
 

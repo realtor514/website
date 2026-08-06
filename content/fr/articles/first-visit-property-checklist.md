@@ -36,4 +36,4 @@ Prenez des notes immédiatement. Photographiez tout ce qui vous préoccupe. Si v
 
 ---
 
-*Vous voulez visiter une propriété ensemble ? [Contactez-moi](/fr/#contact).*
+*Vous voulez visiter une propriété accompagné d'un courtier ? [Prenez contact](/fr/#contact).*

@@ -34,4 +34,4 @@ Un service offert en français, en anglais, en espagnol et en arabe avec la mêm
 
 ---
 
-*Vous préférez travailler en français, en anglais, en espagnol ou en arabe ? [Contactez-moi dans la langue de votre choix](/fr/#contact).*
+*Vous préférez travailler en français, en anglais, en espagnol ou en arabe ? [Prenez contact dans la langue de votre choix](/fr/#contact).*

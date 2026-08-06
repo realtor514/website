@@ -6,7 +6,7 @@ description: "Tous les quartiers montréalais ne se valent pas comme investissem
 image: "images/articles/best-neighborhoods-montreal/featured.jpg"
 ---
 
-La question "où devrais-je acheter à Montréal ?" n'a pas de réponse tant qu'on n'a pas répondu à une autre: qu'est-ce que vous cherchez à optimiser ?
+La question "où acheter à Montréal ?" n'a pas de réponse tant qu'on n'a pas répondu à une autre: qu'est-ce que vous cherchez à optimiser ?
 
 Le meilleur quartier pour un premier acheteur qui bâtit de l'équité n'est pas le meilleur quartier pour un investisseur qui cherche un rendement locatif. Voici l'analyse par objectif.
 
@@ -52,4 +52,4 @@ C'est probablement la variable la plus sous-évaluée du marché actuel.
 
 ---
 
-*Vous souhaitez une analyse spécifique d'un quartier ou d'une propriété ? [Contactez-moi](/fr/#contact) et je ferai l'étude.*
+*Vous souhaitez une analyse spécifique d'un quartier ou d'une propriété ? [Demandez l'étude](/fr/#contact).*

@@ -8,7 +8,7 @@ image: "images/articles/preparer-maison-vente-montreal-laval/featured.jpg"
 
 The sellers who prepare their properties well consistently sell faster and for more money than those who don't. This is not a theory; it is visible in the data every single month.
 
-But preparation doesn't mean spending $50,000 on renovations. It means being strategic about what buyers actually respond to. Here is what I tell every seller I work with before we list.
+But preparation doesn't mean spending $50,000 on renovations. It means being strategic about what buyers actually respond to. Here is what every seller should know before listing.
 
 ## Price Is the Most Important Decision You Make
 
@@ -20,7 +20,7 @@ If you price too high, you miss that window. After 30 days without an offer, buy
 
 The right price is not the highest price you can imagine. It is the highest price the market will actually pay today, for your specific property, based on what comparable homes have sold for in the past 90 days.
 
-I analyze this data for every property I list. I don't tell sellers what they want to hear. I tell them what the market says.
+This data should be analyzed for every property before listing. The point is not to tell sellers what they want to hear, but what the market says.
 
 ## What to Fix Before Listing
 
@@ -96,4 +96,4 @@ The preparation is straightforward. The discipline to follow through is rarer th
 
 ---
 
-*Thinking about selling? I offer a complimentary market evaluation with no obligation. [Contact me](/#contact) and let's look at what your property is worth in today's market.*
+*Thinking about selling? The market evaluation is complimentary and carries no obligation. [Request it here](/#contact) to see what your property is worth in today's market.*

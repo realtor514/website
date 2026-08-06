@@ -2,11 +2,11 @@
 title: "Louer ou acheter à Montréal : le calcul honnête"
 date: 2025-05-19
 category: "Financement"
-description: "Le débat louer vs acheter est plein d'idéologie des deux côtés. Je préfère les mathématiques. Voici le vrai calcul."
+description: "Le débat louer vs acheter est plein d'idéologie des deux côtés. Les mathématiques tranchent mieux. Voici le vrai calcul."
 image: "images/articles/renting-vs-buying-calculation/featured.jpg"
 ---
 
-Je reçois constamment cette question : est-il préférable de louer ou d'acheter en ce moment ? La réponse honnête est que la question ne peut pas être répondue sans connaître vos chiffres spécifiques.
+La question revient constamment : est-il préférable de louer ou d'acheter en ce moment ? La réponse honnête est qu'on ne peut pas y répondre sans connaître vos chiffres précis.
 
 ## Les fausses prémisses des deux côtés
 
@@ -30,4 +30,4 @@ Si votre horizon est de moins de 3 ans, la location est presque toujours supéri
 
 ---
 
-*Vous voulez faire ce calcul avec vos propres chiffres ? [Contactez-moi](/fr/#contact) et on le fait ensemble.*
+*Vous voulez faire ce calcul avec vos propres chiffres ? [Prenez contact](/fr/#contact).*

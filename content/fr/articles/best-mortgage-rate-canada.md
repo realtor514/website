@@ -12,7 +12,7 @@ Votre taux hypothécaire affecte chaque paiement mensuel pendant la durée de vo
 
 Votre banque personnelle vous offre un ensemble de produits à un ensemble de taux. Un courtier hypothécaire a accès à des dizaines de prêteurs. En général, leur service ne vous coûte rien directement.
 
-Ma recommandation : obtenez des offres de votre banque et d'un courtier hypothécaire, puis décidez sur la base des chiffres réels.
+La bonne approche : obtenez des offres de votre banque et d'un courtier hypothécaire, puis décidez sur la base des chiffres réels.
 
 ## Ce qui détermine votre taux
 
@@ -32,4 +32,4 @@ Privilèges de remboursement anticipé, pénalité pour bris d'hypothèque, port
 
 ---
 
-*Vous voulez être mis en contact avec un courtier hypothécaire en qui j'ai confiance ? [Contactez-moi](/fr/#contact).*
+*Vous voulez être mis en contact avec un courtier hypothécaire de confiance ? [Prenez contact](/fr/#contact).*

@@ -2,7 +2,7 @@
 title: "The Complete Moving Checklist for Montreal and Laval Buyers"
 date: 2025-05-19
 category: "Practical Guide"
-description: "Between possession date and moving day, there are dozens of tasks that can get lost. This is the complete checklist I give every buyer after their offer is accepted."
+description: "Between possession date and moving day, there are dozens of tasks that can get lost. This is the complete checklist to work through after an offer is accepted."
 image: "images/articles/moving-checklist-montreal/featured.jpg"
 ---
 
@@ -66,4 +66,4 @@ Bring two pieces of government-issued identification to the notary. Expect to sp
 
 ---
 
-*Questions at any stage of your purchase? [I am here throughout the process](/\#contact), not just during the search.*
+*Questions at any stage of your purchase? [Get in touch](/\#contact) at any point in the process, not just during the search.*

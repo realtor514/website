@@ -50,7 +50,7 @@ Leases renew automatically unless specific notice procedures are followed. A ten
 
 None of this makes income property in Quebec a bad investment. It makes it an investment that requires understanding the rules of the specific environment you are operating in.
 
-## My Recommendation for a First Purchase
+## What to Look for in a First Purchase
 
 For a first-time income property buyer: a duplex or triplex in a sector with demonstrated rental demand, priced so the current rents provide at least neutral cash flow at your financing rate, in a condition that does not require immediate major capital expenditure.
 

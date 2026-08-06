@@ -27,13 +27,13 @@ Trade-off: you'll face the most competition from other sellers. If your property
 
 **Fall (September-October): The underrated window**
 
-This is my personal favorite selling season for the right properties. Buyer demand remains strong after summer, but many sellers have already listed in spring and taken their homes off market. Inventory is typically lower, which means less direct competition for your listing.
+This is the strongest selling season for the right properties. Buyer demand remains strong after summer, but many sellers have already listed in spring and taken their homes off market. Inventory is typically lower, which means less direct competition for your listing.
 
-Fall buyers are also, in my observation, more motivated and more decisive. Summer is over. They want to be settled before winter. A well-priced property in October can sell faster and at a stronger price than the identical property listed in April when it would compete against ten similar homes.
+Fall buyers also tend to be more motivated and more decisive. Summer is over. They want to be settled before winter. A well-priced property in October can sell faster and at a stronger price than the identical property listed in April when it would compete against ten similar homes.
 
 **Winter (December-February): Smaller pool, serious buyers**
 
-Winter gets dismissed, but I've seen excellent results for the right properties during this period. Anyone actively searching in January or February is not browsing. They're buying. That changes the negotiation dynamic significantly.
+Winter gets dismissed, but the right properties produce excellent results during this period. Anyone actively searching in January or February is not browsing. They're buying. That changes the negotiation dynamic significantly.
 
 The limitation: showing a property in winter has aesthetic challenges. Snow-covered landscaping and limited natural light don't help your staging photography. These are solvable with the right photographer and presentation, but they're real factors.
 
@@ -47,9 +47,9 @@ Timing matters less than condition and price. A well-prepared property priced ac
 
 The variables you control - preparation, pricing, photography, access for showings - have a larger impact on your outcome than the calendar date you choose to list.
 
-## My Honest Recommendation for Timing
+## What to Keep in Mind About Timing
 
-If you have flexibility on timing, here's my hierarchy:
+If you have flexibility on timing, here is the order of preference:
 
 1. **October** - strong demand, lower competition, motivated buyers
 2. **March-April** - high buyer activity, just be aware of competition

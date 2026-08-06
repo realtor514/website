@@ -2,13 +2,13 @@
 title: "Will the Montreal Real Estate Market Crash? An Honest Analysis"
 date: 2025-05-19
 category: "Market Insights"
-description: "The question comes up constantly. The honest answer is more nuanced than either the bulls or the bears want to admit. Here is how I think about crash risk in the Montreal market."
+description: "The question comes up constantly. The honest answer is more nuanced than either the bulls or the bears want to admit. Here is how to think about crash risk in the Montreal market."
 image: "images/articles/montreal-market-crash-analysis/featured.jpg"
 ---
 
-Every time prices are elevated, the crash question surfaces. And every time I hear it, I try to separate what is knowable from what is speculation dressed as analysis.
+Every time prices are elevated, the crash question surfaces. And every time, the useful exercise is to separate what is knowable from what is speculation dressed as analysis.
 
-Let me be precise about what "crash" means, what historical evidence shows, and what the specific factors in the Montreal market suggest.
+It is worth being precise about what "crash" means, what historical evidence shows, and what the specific factors in the Montreal market suggest.
 
 ## Defining the Terms
 
@@ -38,15 +38,15 @@ The Canadian residential mortgage market is structurally different from markets 
 
 ## What Could Cause Significant Decline
 
-I will not pretend the risk is zero. The scenarios that could produce meaningful price declines:
+The risk is not zero. The scenarios that could produce meaningful price declines:
 
 A sharp and sustained increase in unemployment in Montreal's key economic sectors would reduce buyer demand and increase forced selling. Extended high interest rates that severely compress affordability would reduce buyer pools. A policy change that significantly increases housing supply faster than demand grows could moderate prices. A global economic shock affecting investor confidence broadly.
 
 None of these scenarios seems imminent in isolation. Their combination, which is impossible to rule out, would be more disruptive.
 
-## My Honest Position
+## An Honest Reading
 
-I do not believe a 30-40% crash in the Montreal residential market is likely in the medium term. I do believe that periods of price stagnation or modest correction are normal parts of any market cycle, and that buyers who purchase at the edge of their financial tolerance are more exposed to the consequences of those corrections than those who buy with appropriate financial buffer.
+A 30-40% crash in the Montreal residential market does not look likely in the medium term. Periods of price stagnation or modest correction, on the other hand, are normal parts of any market cycle, and buyers who purchase at the edge of their financial tolerance are more exposed to the consequences of those corrections than those who buy with appropriate financial buffer.
 
 The right response to uncertainty is not to wait for certainty, which never arrives. It is to buy within your means, maintain financial reserves, and hold for a timeline long enough to be resilient to whatever shorter-term volatility occurs.
 

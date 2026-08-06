@@ -6,7 +6,7 @@ description: "Certains des conseils les plus répétés en immobilier sont faux.
 image: "images/articles/real-estate-myths-debunked/featured.jpg"
 ---
 
-J'ai une allergie particulière aux sagesses reçues qui n'ont pas été testées contre les preuves. L'immobilier en est plein. Voici les sept mythes que je corrige le plus souvent.
+L'immobilier est plein de sagesses reçues qui n'ont jamais été confrontées aux preuves. Voici les sept mythes les plus tenaces, et ce que les données disent réellement.
 
 **Mythe 1 : Le prix demandé est ce que le vendeur veut**
 Parfois. Souvent, c'est un chiffre stratégique. Un immeuble sous-coté est conçu pour générer des offres multiples. Un immeuble surcoté teste si quelqu'un paiera une prime.

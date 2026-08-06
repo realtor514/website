@@ -47,7 +47,7 @@ Title insurance is also typically recommended and purchased through the notary. 
 
 In Quebec, the buyer traditionally has the right to choose the notary for the transaction. This is the case in most standard transactions. The notary does not need to be located near the property.
 
-I recommend choosing a notary who has active experience with residential real estate transactions and who will take the time to explain the documents before you sign them. Do not sign a deed of sale without understanding what you are signing.
+Choose a notary who has active experience with residential real estate transactions and who will take the time to explain the documents before you sign them. Do not sign a deed of sale without understanding what you are signing.
 
 ## The Welcome Tax Connection
 
@@ -55,4 +55,4 @@ One administrative reality tied to the notary process: the municipal welcome tax
 
 ---
 
-*Questions about the closing process for a property you're considering? [Reach out](/\#contact) and I'll walk you through what to expect step by step.*
+*Questions about the closing process for a property you're considering? [Reach out](/\#contact) for a step-by-step walkthrough.*

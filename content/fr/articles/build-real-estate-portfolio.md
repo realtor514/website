@@ -6,7 +6,7 @@ description: "La richesse immobilière ne se bâtit pas par une transaction bril
 image: "images/articles/build-real-estate-portfolio/featured.jpg"
 ---
 
-La question que les investisseurs sérieux me posent n'est pas 'quelle propriété devrais-je acheter ?' C'est 'comment puis-je bâtir un portefeuille qui génère de la richesse sur 10 à 20 ans ?' Ce sont des questions très différentes.
+La question que se posent les investisseurs sérieux n'est pas « quelle propriété acheter ? » C'est « comment bâtir un portefeuille qui génère de la richesse sur 10 à 20 ans ? » Ce sont des questions très différentes.
 
 ## Commencez par une propriété bien faite
 
@@ -20,9 +20,9 @@ C'est le mécanisme fondamental de la création de richesse immobilière : l'app
 
 ## Flux de trésorerie vs appréciation
 
-Dans le Grand Montréal, la valeur des propriétés a apprécié de manière significative historiquement. Ma préférence : des propriétés où le flux de trésorerie est au moins neutre après toutes les dépenses. Je modélise un taux d'inoccupation de 5 % même dans les marchés serrés.
+Dans le Grand Montréal, la valeur des propriétés a apprécié de manière significative historiquement. Le critère à retenir : des propriétés où le flux de trésorerie est au moins neutre après toutes les dépenses. Un taux d'inoccupation de 5 % devrait être modélisé même dans les marchés serrés.
 
-## Les secteurs que je surveille
+## Les secteurs à surveiller
 
 **Triplexes de Laval :** Forte demande locative, secteurs familiaux à faible inoccupation, prix encore abordables.
 **Immeubles de rapport établis de Montréal :** Plateau, Rosemont, Villeray ont une demande locative profonde.

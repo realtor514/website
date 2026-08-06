@@ -24,7 +24,7 @@ Sur un projet de 8 mois nécessitant un effort important, des compétences et du
 
 Quand vous avez une vraie expertise en rénovation. Quand vous identifiez une propriété spécifiquement sous-évaluée. Quand la période de portage est courte. Quand la sortie est claire.
 
-## Mon évaluation honnête
+## Une évaluation honnête
 
 Le retournement est une activité, pas un investissement. Il nécessite une expertise en gestion de rénovation, en évaluation de marché et en synchronisation de projet. Il concurrence votre capital contre des investissements passifs en immeubles à revenus qui nécessitent beaucoup moins d'effort actif.
 

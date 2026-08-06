@@ -7,7 +7,7 @@ image: "images/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/feature
 draft: false
 ---
 
-El sistema inmobiliario de Quebec me era completamente desconocido cuando llegué: la estructura hipotecaria, el marco legal, las implicaciones fiscales, las normas culturales alrededor de la negociación. Tuve que aprenderlo todo desde cero.
+Para quien llega del extranjero, el sistema inmobiliario de Quebec resulta completamente opaco: la estructura hipotecaria, el marco legal, las implicaciones fiscales, las normas culturales alrededor de la negociación. Todo hay que aprenderlo desde cero.
 
 Esa experiencia es parte de por qué escribí esta guía. Si usted es un recién llegado a Quebec (ya sea del mundo árabe, del África francófona, de América del Sur o de cualquier otro lugar), esta es la información que desearía haber tenido cuando llegué.
 

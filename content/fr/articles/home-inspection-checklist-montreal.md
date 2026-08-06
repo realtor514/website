@@ -6,9 +6,9 @@ description: "La plupart des acheteurs suivent l'inspecteur et hochent la tête.
 image: "images/articles/home-inspection-checklist-montreal/featured.jpg"
 ---
 
-Je regarde les bâtiments différemment de la plupart des acheteurs. Je peux lire une configuration de plomberie et comprendre ce que les décisions d'installation originales révèlent sur l'époque et le budget du constructeur. Je peux examiner un panneau électrique et savoir immédiatement s'il pose problème.
+Un oeil exercé regarde un bâtiment autrement que la plupart des acheteurs. Une configuration de plomberie révèle ce que les décisions d'installation originales disent de l'époque et du budget du constructeur. Un panneau électrique se lit en quelques secondes.
 
-Je ne remplace pas un inspecteur certifié. Mais je peux vous aider à comprendre ce qu'il faut chercher en complément.
+Rien de tout cela ne remplace un inspecteur certifié. Mais savoir quoi chercher aide à comprendre son rapport.
 
 ## Avant de commencer l'inspection
 
@@ -36,7 +36,7 @@ Identifiez les matériaux des tuyaux. Les tuyaux en plomb nécessitent un rempla
 
 Les bardeaux d'asphalte ont une durée de vie typique de 20 à 25 ans. Recherchez : tuiles courbées ou manquantes, perte de granulés, croissance de mousse.
 
-## Ma recommandation pour les marchés concurrentiels
+## Que faire dans les marchés concurrentiels
 
 Si les conditions du marché exigent de retirer la condition d'inspection pour être compétitif, négociez plutôt une inspection pré-offre, réalisée avant de soumettre votre offre. Cela vous coûte les frais d'inspection même si vous n'achetez pas, mais vous protège d'hériter d'un problème coûteux.
 
@@ -44,4 +44,4 @@ N'achetez jamais une propriété au Québec sans une forme quelconque d'évaluat
 
 ---
 
-*Des questions sur ce que vous avez vu dans un rapport d'inspection ? [Contactez-moi](/fr/#contact) - je suis heureux d'aider à interpréter ce que cela signifie.*
+*Des questions sur ce que vous avez vu dans un rapport d'inspection ? [Prenez contact](/fr/#contact) pour aider à l'interpréter.*

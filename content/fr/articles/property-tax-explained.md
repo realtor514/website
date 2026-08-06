@@ -32,4 +32,4 @@ Tous les trois ans, les municipalités publient un nouveau rôle d'évaluation. 
 
 ---
 
-*Vous voulez un calcul précis pour une propriété que vous envisagez ? [Contactez-moi](/fr/#contact).*
+*Vous voulez un calcul précis pour une propriété que vous envisagez ? [Prenez contact](/fr/#contact).*

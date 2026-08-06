@@ -6,7 +6,7 @@ description: "Most buyers and sellers use these terms interchangeably. They're n
 image: "images/articles/broker-agent-difference-quebec/featured.jpg"
 ---
 
-When I tell someone I'm a courtier immobilier, the response I most often get is "oh, a realtor?" The terms get used interchangeably in everyday conversation, but they mean different things - and in Quebec, the regulatory framework is specific enough that it's worth understanding.
+"Courtier immobilier" and "realtor" get used interchangeably in everyday conversation, but they mean different things - and in Quebec, the regulatory framework is specific enough that it's worth understanding.
 
 ## The Quebec Framework
 
@@ -48,7 +48,7 @@ When you hear "agent" used in Quebec, it's usually informally, borrowed from usa
 
 **Complaints have a formal channel.** If a broker fails to meet their obligations, OACIQ handles complaints and has the authority to discipline or revoke licenses. This protection exists because real estate is regulated.
 
-**RE/MAX DU CARTIER and OACIQ oversight.** My affiliation with RE/MAX DU CARTIER means I operate under both RE/MAX standards and OACIQ regulation. That's two layers of professional accountability - which, in a field involving transactions of several hundred thousand dollars, is relevant.
+**RE/MAX DU CARTIER and OACIQ oversight.** A broker affiliated with RE/MAX DU CARTIER operates under both RE/MAX standards and OACIQ regulation. That's two layers of professional accountability - which, in a field involving transactions of several hundred thousand dollars, is relevant.
 
 ## The Question to Ask Before Hiring Anyone
 
@@ -58,4 +58,4 @@ You can verify the answer yourself at oaciq.com/en/find-a-broker. Takes 30 secon
 
 ---
 
-*Questions about working with me or how real estate representation works in Quebec? [Let's have that conversation](/\#contact).*
+*Questions about how real estate representation works in Quebec? [Get in touch](/\#contact).*

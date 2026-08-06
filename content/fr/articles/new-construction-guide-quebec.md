@@ -29,7 +29,7 @@ Les échéanciers des constructeurs sont par nature optimistes. Un projet commer
 
 ## Le représentant du promoteur travaille pour le promoteur
 
-Il est professionnel et souvent genuinement informatif, mais il n'est pas votre représentant. Je recommande fortement qu'un notaire examine tout contrat de construction neuve avant que vous le signiez.
+Il est professionnel et souvent réellement informatif, mais il n'est pas votre représentant. Il est fortement recommandé qu'un notaire examine tout contrat de construction neuve avant que vous le signiez.
 
 ---
 

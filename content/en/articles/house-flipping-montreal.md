@@ -8,7 +8,7 @@ image: "images/articles/house-flipping-montreal/featured.jpg"
 
 Real estate flipping shows make it look straightforward: buy low, renovate cheaply, sell high, collect profit. The reality involves cost overruns, timeline extensions, tax obligations, and transaction costs that television does not show.
 
-I am not against flipping. It can be profitable. I want to make sure anyone considering it is working from accurate numbers, not television ones.
+None of this is an argument against flipping. It can be profitable. The point is that anyone considering it should be working from accurate numbers, not television ones.
 
 ## The Full Cost Stack
 
@@ -64,7 +64,7 @@ The numbers change significantly if the renovation comes in under budget, if the
 
 **When the exit is clear.** Flipping in a segment with strong buyer demand reduces the risk of an extended listing period after renovation. A well-renovated triplex in a strong rental area, for example, will typically sell faster than a highly personalized single-family home in a niche segment.
 
-## My Honest Assessment
+## An Honest Assessment
 
 House flipping is a business, not an investment. It requires expertise in renovation management, market valuation, and project timing. It carries real risk of loss. And it competes for your capital against passive income property investments that require significantly less active effort.
 

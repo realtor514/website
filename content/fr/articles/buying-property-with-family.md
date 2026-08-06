@@ -10,7 +10,7 @@ Le co-achat immobilier avec des membres de la famille est l'une des tendances le
 
 ## Pourquoi les accords écrits importent entre membres de la famille
 
-Il y a un instinct humain profond à résister à la formalisation des relations avec la famille. Ça semble méfiants. Je comprends cet instinct et je vois aussi qu'il crée des problèmes de façon cohérente.
+Il y a un instinct humain profond à résister à la formalisation des relations avec la famille. Ça semble méfiant. Cet instinct est compréhensible, et il crée des problèmes de façon récurrente.
 
 Les membres de la famille décèdent. Les circonstances changent. Quelqu'un a besoin de récupérer son argent. Quelqu'un divorce et son conjoint a une réclamation sur les actifs.
 
@@ -22,9 +22,9 @@ Au Québec, ces arrangements sont généralement formalisés par une convention 
 
 ## Le don de mise de fonds parentale
 
-Les prêteurs canadiens exigent une lettre de don confirmant que les fonds sont un don, pas un prêt. Même quand l'intention est un don, je recommande que la compréhension soit documentée quelque part.
+Les prêteurs canadiens exigent une lettre de don confirmant que les fonds sont un don, pas un prêt. Même quand l'intention est un don, l'entente gagne à être documentée quelque part.
 
-## Ma recommandation
+## Ce qu'il faut retenir
 
 Engagez un notaire pour rédiger la convention de copropriété avant ou simultanément à l'achat, pas après. La conversation sur "que se passe-t-il si" est beaucoup plus productive avant que de l'argent ait bougé.
 

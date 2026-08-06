@@ -41,7 +41,7 @@ Un comprador que recorre una cocina que usted acaba de renovar con $45,000 en ga
 
 Si el presupuesto es limitado antes de una venta, el staging casi siempre retorna mejor que la renovación. El staging es temporal, cuesta significativamente menos y aborda la respuesta emocional del comprador en lugar de alterar permanentemente la condición de la propiedad.
 
-Mi recomendación estándar para vendedores que se aproximan a un listado: invierta en staging, fotografía, pintura neutral donde se necesite y reparaciones menores visibles. Difiera o evite renovaciones mayores a menos que sean necesarias para que la propiedad sea prestable o sean genuinamente transformadoras en un mercado que recompensa la transformación.
+La recomendación estándar para vendedores que se aproximan a un listado: invierta en staging, fotografía, pintura neutral donde se necesite y reparaciones menores visibles. Difiera o evite renovaciones mayores a menos que sean necesarias para que la propiedad sea prestable o sean genuinamente transformadoras en un mercado que recompensa la transformación.
 
 El objetivo antes de una venta es presentar lo que existe de la manera más convincente posible, no convertirse en el próximo propietario de la propiedad.
 

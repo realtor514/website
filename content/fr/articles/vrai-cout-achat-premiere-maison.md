@@ -9,7 +9,7 @@ draft: false
 
 Tout le monde vous dit combien coûte la maison. Personne ne vous dit combien coûte l'achat.
 
-C'est ce que j'observe constamment: des premiers acheteurs arrivent au closing avec leur mise de fonds prête, et découvrent qu'ils ont besoin de 15 000 à 20 000 dollars supplémentaires qu'ils n'avaient pas prévus. Ce moment de surprise est évitable, et cet article est écrit précisément pour que ça ne vous arrive pas.
+Le scénario se répète constamment: des premiers acheteurs arrivent au closing avec leur mise de fonds prête, et découvrent qu'ils ont besoin de 15 000 à 20 000 dollars supplémentaires qu'ils n'avaient pas prévus. Ce moment de surprise est évitable, et cet article est écrit précisément pour que ça ne vous arrive pas.
 
 ## Le prix d'achat n'est que le début
 
@@ -28,7 +28,7 @@ C'est la taxe de mutation immobilière du Québec, calculée selon un barème pr
 Au Québec, tous les transferts de propriété doivent passer par un notaire. Prévoyez de 1 000 à 2 000 dollars pour une transaction résidentielle standard.
 
 **5. L'inspection préachat**
-Ne sautez jamais cette étape. Un inspecteur qualifié coûte de 500 à 900 dollars et examine la toiture, les fondations, la plomberie, l'électricité et l'isolation. J'ai vu des acheteurs sauter l'inspection pour gagner une guerre d'offres, et découvrir 85 000 dollars de dommages liés à la pyrite dans les fondations six mois après le closing. L'inspection aurait coûté 600 dollars.
+Ne sautez jamais cette étape. Un inspecteur qualifié coûte de 500 à 900 dollars et examine la toiture, les fondations, la plomberie, l'électricité et l'isolation. Des acheteurs sautent l'inspection pour gagner une guerre d'offres, puis découvrent 85 000 dollars de dommages liés à la pyrite dans les fondations six mois après le closing. L'inspection aurait coûté 600 dollars.
 
 **6. Les ajustements et frais de fermeture**
 Le jour du closing, vous paierez une part proportionnelle des taxes municipales et scolaires que le vendeur a déjà acquittées pour le reste de l'année. Il y a aussi de petits frais administratifs. Prévoyez de 500 à 1 500 dollars.
@@ -77,4 +77,4 @@ Commencez par comprendre le chiffre complet. Ensuite, construisez votre plan d'�
 
 ---
 
-*Des questions sur votre situation spécifique? Je serais heureux de passer les chiffres en revue avec vous. [Contactez-moi](/#contact) pour une conversation sans engagement.*
+*Des questions sur votre situation spécifique? [Prenez contact](/#contact) pour passer les chiffres en revue, sans engagement.*

@@ -6,7 +6,7 @@ description: "Les bâtiments patrimoniaux de Montréal sont parmi les plus beaux
 image: "images/articles/heritage-property-montreal/featured.jpg"
 ---
 
-Le patrimoine résidentiel de Montréal est génuinement extraordinaire. Les maisons victoriennes en rangée d'Outremont, les duplex italianisants du Plateau, les triplex en grès qui définissent le caractère visuel des quartiers. Je comprends pourquoi les acheteurs tombent amoureux des propriétés patrimoniales.
+Le patrimoine résidentiel de Montréal est réellement extraordinaire. Les maisons victoriennes en rangée d'Outremont, les duplex italianisants du Plateau, les triplex en grès qui définissent le caractère visuel des quartiers. On comprend pourquoi les acheteurs tombent amoureux des propriétés patrimoniales.
 
 ## Ce que la désignation 'patrimoine' signifie légalement au Québec
 
@@ -26,7 +26,7 @@ Les coûts de rénovation sont plus élevés. Remplacer des fenêtres peut exige
 
 Les propriétés patrimoniales nécessitent une inspection plus approfondie : fondations en pierre se comportant différemment du béton coulé, électricité ancienne (knob-and-tube, aluminium) causant des complications d'assurance, plomberie en plomb, tuyaux galvanisés ou drains en argile.
 
-## Pourquoi je les recommande quand même dans les bonnes circonstances
+## Pourquoi elles restent recommandables dans les bonnes circonstances
 
 Le caractère est irremplaçable. Les emplacements sont souvent exceptionnels. L'historique d'appréciation des propriétés patrimoniales bien entretenues dans les bons quartiers de Montréal est excellent.
 

@@ -8,7 +8,7 @@ image: "images/articles/heritage-property-montreal/featured.jpg"
 
 Montreal's heritage residential stock is genuinely extraordinary. Victorian row houses in Outremont, Italianate duplexes in the Plateau, Second Empire mansions in Westmount, greystone triplexes that define the visual character of neighborhoods across the island. If you grew up in a city built mostly after 1970, walking through these neighborhoods produces a specific feeling that modern construction simply cannot replicate.
 
-I understand why buyers fall in love with heritage properties. I also want to make sure that love is well-informed.
+It is easy to understand why buyers fall in love with heritage properties. That love is worth a great deal more when it is well-informed.
 
 ## What "Heritage" Means Legally in Quebec
 
@@ -44,9 +44,9 @@ Heritage properties require more thorough inspection than modern buildings, not 
 
 **Envelope:** Windows, doors, and the building's weather resistance generally. Original windows have character and can be restored, but they are not thermally efficient and may contribute to high heating costs.
 
-## Why I Still Recommend Them in the Right Circumstances
+## Why They Remain a Good Choice in the Right Circumstances
 
-Despite all of the above, I have recommended heritage properties to clients who were right for them, and those clients have been deeply satisfied. The character is irreplaceable. The locations are often exceptional. The appreciation history of well-maintained heritage properties in strong Montreal neighborhoods is excellent.
+Despite all of the above, heritage properties are the right fit for the right buyers, and those buyers tend to be deeply satisfied. The character is irreplaceable. The locations are often exceptional. The appreciation history of well-maintained heritage properties in strong Montreal neighborhoods is excellent.
 
 The key word is "right circumstances." A buyer with adequate reserves, patience for slower renovation permits, the right professional support network, and a genuine appreciation for preservation rather than a desire for a quick cosmetic flip can do very well with Montreal's heritage stock.
 

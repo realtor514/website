@@ -6,9 +6,9 @@ description: "The North Shore of Montreal offers some of the strongest value pro
 image: "images/articles/rive-nord-guide-laval/featured.jpg"
 ---
 
-When buyers tell me they want "something more affordable than Montreal but still close enough to the city," the North Shore is almost always the answer. But the North Shore is not one market. It is a collection of distinct municipalities, each with a different character, infrastructure profile, and investment trajectory.
+For buyers who want something more affordable than Montreal but still close enough to the city, the North Shore is almost always the answer. But the North Shore is not one market. It is a collection of distinct municipalities, each with a different character, infrastructure profile, and investment trajectory.
 
-Here is my honest breakdown.
+Here is an honest breakdown.
 
 ## Laval
 
@@ -44,9 +44,9 @@ This market attracts buyers who prioritize space and cost above all else, those 
 
 Best for: remote workers, buyers with very flexible commute requirements, investors in the vacation rental space.
 
-## What I Look for in North Shore Properties
+## What to Look for in North Shore Properties
 
-When I evaluate a North Shore property, the variables I weight most heavily are:
+When evaluating a North Shore property, the variables that carry the most weight are:
 
 **Transit access:** Walking distance to metro, commuter rail, or major bus routes has a disproportionate impact on both rental demand and resale value.
 
@@ -62,4 +62,4 @@ The North Shore is not a consolation prize for buyers who cannot afford Montreal
 
 ---
 
-*Looking for a specific North Shore property analysis? [Reach out](/\#contact). This is territory I know well.*
+*Looking for a specific North Shore property analysis? [Reach out](/\#contact).*

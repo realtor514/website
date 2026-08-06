@@ -36,7 +36,7 @@ In Canada, all insured mortgages and most conventional mortgages must pass a str
 
 This means: if your actual mortgage rate is 5%, you qualify at 7%. If rates then rise to 7%, your renewal will be financially manageable because you already proved you could handle that payment. This is the protection the stress test provides, and it is genuinely valuable even if the qualifying process feels restrictive.
 
-## My Strategic Advice for Current Conditions
+## Strategic Guidance for Current Conditions
 
 Stop trying to time the rate cycle. Serious economists disagree regularly about rate direction, and buyers who make major life decisions based on rate predictions often regret it.
 

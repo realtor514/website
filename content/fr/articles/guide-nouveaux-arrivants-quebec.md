@@ -7,9 +7,9 @@ image: "images/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/feature
 draft: false
 ---
 
-Je suis venu du Liban pour faire mon doctorat à Montréal. Le système immobilier québécois m'était complètement étranger: la structure hypothécaire, le cadre légal, les implications fiscales, les normes culturelles autour de la négociation. J'ai dû tout apprendre de zéro.
+Pour une personne arrivée de l'étranger, le système immobilier québécois est complètement opaque: la structure hypothécaire, le cadre légal, les implications fiscales, les normes culturelles autour de la négociation. Tout est à apprendre de zéro.
 
-Cette expérience fait partie de la raison pour laquelle j'ai écrit ce guide. Si vous êtes un nouvel arrivant au Québec, que vous veniez du monde arabe, d'Afrique francophone, d'Amérique du Sud ou d'ailleurs, voici l'information que j'aurais aimé avoir à mon arrivée.
+C'est la raison d'être de ce guide. Si vous êtes un nouvel arrivant au Québec, que vous veniez du monde arabe, d'Afrique francophone, d'Amérique du Sud ou d'ailleurs, voici l'information qu'il vaut mieux avoir dès l'arrivée.
 
 ## Qui peut acheter une propriété au Québec?
 
@@ -80,7 +80,7 @@ Au Québec, les acheteurs ont le droit d'inclure une condition d'inspection dans
 
 ## Un parcours étape par étape pour les nouveaux arrivants
 
-Si je conseillais un nouvel arrivant qui est arrivé aujourd'hui et veut devenir propriétaire au Québec, voici la feuille de route que je lui donnerais:
+Pour un nouvel arrivant qui veut devenir propriétaire au Québec, voici la feuille de route à suivre:
 
 **Année 1:**
 - Ouvrir un compte bancaire canadien immédiatement
@@ -104,10 +104,10 @@ Ce conseil est peut-être le plus pratique de ce guide: choisissez un courtier q
 
 Le processus immobilier québécois implique des dizaines de conversations, documents et décisions. Pouvoir poser des questions et recevoir des explications dans votre langue maternelle n'est pas un luxe. C'est une condition pour prendre des décisions pleinement éclairées.
 
-Je travaille en français, en anglais et en arabe. Je comprends le contexte culturel de la prise de décision immobilière dans les familles arabes: le rôle de la famille élargie, l'importance de la vie privée, la préférence pour la stabilité à long terme plutôt que la spéculation à court terme, la signification de posséder quelque chose qui est vraiment à vous.
+Le service est offert en français, en anglais et en arabe. Le contexte culturel de la prise de décision immobilière dans les familles arabes est pris en compte: le rôle de la famille élargie, l'importance de la vie privée, la préférence pour la stabilité à long terme plutôt que la spéculation à court terme, la signification de posséder quelque chose qui est vraiment à soi.
 
 Ces valeurs s'alignent bien avec ce que l'immobilier québécois, fait correctement, peut offrir.
 
 ---
 
-*Vous êtes un nouvel arrivant qui navigue le marché immobilier québécois? Je serais heureux d'avoir une conversation dans la langue qui vous convient le mieux. [Contactez-moi](/#contact), commençons là où vous en êtes.*
+*Vous êtes un nouvel arrivant qui navigue le marché immobilier québécois? La conversation peut se tenir dans la langue qui vous convient le mieux. [Prenez contact](/#contact).*

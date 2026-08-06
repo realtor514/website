@@ -10,7 +10,7 @@ image: "images/articles/down-payment-myth-debunked/featured.jpg"
 
 This advice gets passed down like family wisdom. It sounds prudent. It is sometimes right. But it is not a universal truth, and for many buyers in the Greater Montreal market, following it rigidly means leaving significant wealth on the table.
 
-Let me show you the math.
+Here is the math.
 
 ## What CMHC Mortgage Insurance Actually Costs
 
@@ -41,7 +41,7 @@ If the property appreciates $50,000 while you're waiting to save that same $50,0
 
 ## When 20% Down Actually Makes Sense
 
-I'm not saying the 20% rule is always wrong. Here are the cases where it is the right strategy:
+The 20% rule is not always wrong. Here are the cases where it is the right strategy:
 
 **When the market is flat or declining.** If prices aren't rising, the opportunity cost of waiting decreases. You're not losing appreciation by waiting.
 
@@ -53,16 +53,16 @@ I'm not saying the 20% rule is always wrong. Here are the cases where it is the 
 
 ## The Real Calculation
 
-Instead of asking "should I put 20% down?", ask:
+Instead of asking whether to put 20% down, ask:
 
-1. What is my monthly payment difference between 10% and 20% down?
-2. How long would it take me to save the extra 10%?
+1. What is the monthly payment difference between 10% and 20% down?
+2. How long would it take to save the extra 10%?
 3. What would the property's value likely be in that same period?
-4. What would my total return look like under each scenario?
+4. What would the total return look like under each scenario?
 
 This is a methodical approach to a financial decision, and it leads to better outcomes than inherited rules of thumb.
 
-## My Honest Advice
+## The Bottom Line
 
 For most first-time buyers in Greater Montreal who have stable income, a solid emergency fund, and realistic expectations about the property they're buying: 5-10% down and buy now is often the superior financial strategy compared to waiting.
 

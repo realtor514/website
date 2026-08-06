@@ -8,7 +8,7 @@ image: "images/articles/preparer-maison-vente-montreal-laval/featured.jpg"
 
 Les vendeurs qui préparent bien leur propriété vendent systématiquement plus vite et à un meilleur prix que ceux qui ne le font pas. Ce n'est pas une théorie; c'est visible dans les données chaque mois.
 
-Mais bien se préparer ne signifie pas dépenser 50 000 dollars en rénovations. Cela signifie être stratégique sur ce à quoi les acheteurs répondent vraiment. Voici ce que je dis à chaque vendeur avec qui je travaille avant la mise en marché.
+Mais bien se préparer ne signifie pas dépenser 50 000 dollars en rénovations. Cela signifie être stratégique sur ce à quoi les acheteurs répondent vraiment. Voici ce qu'il faut savoir avant la mise en marché.
 
 ## Le prix est la décision la plus importante
 
@@ -70,4 +70,4 @@ Les vendeurs qui divulguent proactivement ont tendance à vendre plus vite et av
 
 ---
 
-*Vous pensez à vendre? J'offre une évaluation de marché gratuite sans engagement. [Contactez-moi](/#contact) et voyons ensemble ce que vaut votre propriété dans le marché actuel.*
+*Vous pensez à vendre? L'évaluation de marché est gratuite et sans engagement. [Demandez-la ici](/#contact) pour savoir ce que vaut votre propriété dans le marché actuel.*

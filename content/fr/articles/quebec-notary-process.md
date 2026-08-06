@@ -24,8 +24,8 @@ L'acheteur paye généralement les honoraires du notaire pour une transaction d'
 
 ## Le droit de l'acheteur de choisir son notaire
 
-Au Québec, l'acheteur a traditionnellement le droit de choisir le notaire pour la transaction. Je recommande de choisir un notaire avec une expérience active des transactions immobilières résidentielles et qui prendra le temps d'expliquer les documents avant que vous les signiez.
+Au Québec, l'acheteur a traditionnellement le droit de choisir le notaire pour la transaction. Mieux vaut choisir un notaire ayant une expérience active des transactions immobilières résidentielles, qui prendra le temps d'expliquer les documents avant que vous les signiez.
 
 ---
 
-*Des questions sur le processus de clôture ? [Contactez-moi](/fr/#contact) et je vous expliquerai chaque étape.*
+*Des questions sur le processus de clôture ? [Prenez contact](/fr/#contact) pour un survol de chaque étape.*

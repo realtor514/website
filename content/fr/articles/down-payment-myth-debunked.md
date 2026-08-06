@@ -20,7 +20,7 @@ Pendant 2 à 3 ans d'attente pour épargner 20 %, le marché de Montréal a hist
 
 Marché stable ou en baisse. Revenu variable. Achat à la limite financière absolue. Dans ces cas, une mise de fonds plus importante protège votre stabilité.
 
-## Ma conclusion honnête
+## Ce qu'il faut en conclure
 
 Pour la plupart des premiers acheteurs avec un revenu stable et un fonds d'urgence solide, acheter maintenant avec 5-10 % est souvent la stratégie supérieure à attendre. Calculez vos chiffres spécifiques plutôt que d'appliquer une règle héritée.
 

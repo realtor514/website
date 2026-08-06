@@ -2,16 +2,16 @@
 title: "What the Data Actually Says About the Montreal Real Estate Market in 2025"
 date: 2025-05-19
 category: "Market Analysis"
-description: "Beyond the headlines and the predictions, here is what the indicators I track every month say about where the Montreal and Laval real estate market actually stands."
+description: "Beyond the headlines and the predictions, here is what the indicators tracked every month say about where the Montreal and Laval real estate market actually stands."
 image: "images/articles/marche-immobilier-montreal-analyse-donnees/featured.jpg"
 draft: false
 ---
 
-Every week, someone asks me whether it's a good time to buy or sell in Montreal. And every week, I give the same answer: that depends entirely on the data, not on predictions, not on headlines, and not on what the market did last year.
+The question comes up every week: is it a good time to buy or sell in Montreal? And the answer is always the same: that depends entirely on the data, not on predictions, not on headlines, and not on what the market did last year.
 
-I have a doctorate in data processing. I have built my practice around analyzing real estate indicators the same way I analyzed research data: methodically, without confirmation bias, and with appropriate humility about what the numbers can and cannot tell us.
+Real estate indicators are best analyzed the same way research data is analyzed: methodically, without confirmation bias, and with appropriate humility about what the numbers can and cannot tell us.
 
-Here is what the indicators I track every month actually show.
+Here is what the indicators tracked every month actually show.
 
 ## The 5 Indicators That Matter
 
@@ -27,7 +27,7 @@ How long does the average property take to sell? A drop in this number signals i
 Are properties selling above, at, or below their asking price? This ratio tells you immediately whether you are in a negotiation market or a competition market.
 
 **4. Bank of Canada Rate Decisions**
-The policy rate directly influences variable mortgage rates. It influences fixed rates indirectly through the bond market, and the two don't always move in the same direction. I track both.
+The policy rate directly influences variable mortgage rates. It influences fixed rates indirectly through the bond market, and the two don't always move in the same direction. Both are worth tracking.
 
 **5. Immigration and Household Formation Data**
 Montreal receives a significant share of Quebec's immigrant population. Each new household formed creates demand for housing, whether rental or ownership. This is the structural driver that keeps long-term pressure on prices regardless of short-term economic conditions.
@@ -44,7 +44,7 @@ The correction that many predicted would be catastrophic turned out to be a norm
 
 ## What the Media Gets Wrong
 
-I read the real estate headlines every week. Here is the pattern I consistently observe:
+Real estate headlines follow a consistent pattern:
 
 - "Sales plunge 20%": usually means sales returned to pre-pandemic norms after an artificial spike
 - "Prices fall 8%": after a 35% increase, this is a moderate correction, not a crisis
@@ -52,7 +52,7 @@ I read the real estate headlines every week. Here is the pattern I consistently 
 
 Media incentives favour dramatic headlines. A nuanced analysis of absorption rates by property type and neighbourhood does not generate clicks the same way "CRASH INCOMING" does.
 
-My job is to give you the nuance, because your financial decisions deserve better than a headline.
+The nuance is what matters, because your financial decisions deserve better than a headline.
 
 ## The Laval Market Specifically
 
@@ -95,4 +95,4 @@ The people who waited for "the perfect moment" in 2020 paid 30% to 40% more in 2
 
 ---
 
-*I publish a regular market analysis of the greater Montreal and Laval real estate market. [Contact me](/#contact) if you'd like to discuss what the current data means for your specific situation.*
+*A regular market analysis of the greater Montreal and Laval real estate market is published here. [Get in touch](/#contact) to discuss what the current data means for your specific situation.*

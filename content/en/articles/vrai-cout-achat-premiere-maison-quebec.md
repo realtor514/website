@@ -9,7 +9,7 @@ draft: false
 
 Everyone tells you what the house costs. Nobody tells you what buying it actually costs.
 
-I see it constantly: first-time buyers arrive at closing day with their down payment ready, and then discover they need an additional $15,000 to $20,000 they hadn't planned for. That moment of surprise is avoidable, and this article is written to make sure it doesn't happen to you.
+The pattern repeats constantly: first-time buyers arrive at closing day with their down payment ready, and then discover they need an additional $15,000 to $20,000 they hadn't planned for. That moment of surprise is avoidable, and this article is written to make sure it doesn't happen to you.
 
 ## The Purchase Price Is Just the Beginning
 
@@ -28,7 +28,7 @@ This is Quebec's one-time property transfer tax, calculated on a sliding scale. 
 In Quebec, all property transfers must go through a notary. Budget $1,000 to $2,000 for a standard residential transaction.
 
 **5. Building Inspection**
-Never skip this. A qualified inspector costs $500 to $900 and will examine the roof, foundation, plumbing, electrical, and insulation. I have seen buyers skip the inspection to win a bidding war, and then discover $85,000 in pyrite damage in the foundation six months after closing. The inspection would have cost $600.
+Never skip this. A qualified inspector costs $500 to $900 and will examine the roof, foundation, plumbing, electrical, and insulation. Buyers do skip the inspection to win a bidding war, and then discover $85,000 in pyrite damage in the foundation six months after closing. The inspection would have cost $600.
 
 **6. Adjustments and Closing Costs**
 On closing day, you'll pay a prorated share of property taxes the seller has already paid for the remainder of the year. There are also small administrative fees. Budget $500 to $1,500.
@@ -77,4 +77,4 @@ Start by understanding the full number. Then work backward to build your savings
 
 ---
 
-*Questions about your specific situation? I'm happy to walk through the numbers with you. [Contact me](/#contact) for a no-obligation conversation.*
+*Questions about your specific situation? [Get in touch](/#contact) to walk through the numbers, with no obligation.*

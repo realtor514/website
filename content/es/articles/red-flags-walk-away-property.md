@@ -19,7 +19,7 @@ Puede que sepa lo que un inspector encontrará.
 
 Existen razones legítimas para que los vendedores prefieran condiciones de oferta sin inspección: ventas de herencia donde el albacea genuinamente no conoce la condición de la propiedad, o mercados altamente competitivos donde el vendedor tiene múltiples ofertas sin condición. Estas situaciones existen. Pero en esos casos, un vendedor razonable generalmente permitirá una inspección previa a la oferta realizada por el comprador a su propio costo.
 
-Una negativa categórica a permitir cualquier evaluación profesional de la propiedad es, en mi opinión, una señal de alerta significativa que supera la mayoría de los precios atractivos.
+Una negativa categórica a permitir cualquier evaluación profesional de la propiedad es una señal de alerta significativa que supera la mayoría de los precios atractivos.
 
 ## 2. Evidencia de Infiltración de Agua que ha Sido Ocultada
 
@@ -39,7 +39,7 @@ Los procedimientos legales crean incertidumbre financiera, posible responsabilid
 
 Las propiedades a veces tienen precios por debajo del mercado por razones legítimas: ventas de herencia que se mueven rápidamente, vendedores que necesitan cerrar en una fecha específica, o circunstancias motivadas. Estas pueden ser oportunidades.
 
-Pero una propiedad con precio del 15-20% o más por debajo de ventas comparables recientes sin una explicación divulgada debería desencadenar una investigación profunda antes de cualquier oferta. En mi experiencia, las gangas inexplicadas en el mercado residencial son situaciones donde el vendedor sabe algo que el comprador no, o condiciones que han sido divulgadas pero minimizadas.
+Pero una propiedad con precio del 15-20% o más por debajo de ventas comparables recientes sin una explicación divulgada debería desencadenar una investigación profunda antes de cualquier oferta. Las gangas inexplicadas en el mercado residencial suelen ser situaciones donde el vendedor sabe algo que el comprador no, o condiciones que han sido divulgadas pero minimizadas.
 
 Realice el análisis completo de comparables. Contrate a un inspector de edificios. Solicite todos los documentos de divulgación disponibles. Luego decida si el descuento refleja una oportunidad genuina o un riesgo genuino.
 
@@ -57,7 +57,7 @@ La parte más difícil de estas situaciones es que a menudo surgen cuando un com
 
 Ese es exactamente el momento en que la disciplina analítica más importa. Las propiedades vuelven al mercado. Existen mejores oportunidades. La propiedad específica de la que se ha enamorado no es irremplazable, incluso cuando se siente así.
 
-Mi trabajo es ayudarle a ver con claridad cuando las emociones están tomando la decisión. Estas cinco situaciones son aquellas en las que le diré directamente: dé un paso atrás y piense cuidadosamente antes de proceder.
+El valor de una lista como esta es que se sostiene cuando las emociones toman la decisión. En estas cinco situaciones la respuesta es la misma: dé un paso atrás y piense cuidadosamente antes de proceder.
 
 ---
 

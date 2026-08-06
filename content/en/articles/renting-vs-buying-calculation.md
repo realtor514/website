@@ -2,13 +2,13 @@
 title: "Renting vs. Buying in Montreal: An Honest Calculation"
 date: 2025-05-19
 category: "Finance"
-description: "The rent vs. buy debate is full of ideology on both sides. I prefer math. Here is the actual calculation you need to run before deciding which makes more sense for your situation."
+description: "The rent vs. buy debate is full of ideology on both sides. Math settles it better. Here is the actual calculation you need to run before deciding which makes more sense for your situation."
 image: "images/articles/renting-vs-buying-calculation/featured.jpg"
 ---
 
-I get asked this question constantly: "Is it better to rent or buy right now?"
+The question comes up constantly: "Is it better to rent or buy right now?"
 
-The honest answer is that the question as posed cannot be answered without knowing your specific numbers. What I can give you is the framework to answer it yourself, built the way I build financial models: systematically, without assumptions based on what you want the answer to be.
+The honest answer is that the question as posed cannot be answered without knowing your specific numbers. What follows is the framework to answer it yourself, built the way sound financial models are built: systematically, without assumptions based on what you want the answer to be.
 
 ## The False Premises on Both Sides
 
@@ -75,7 +75,7 @@ In order of impact on the calculation:
 4. **Mortgage rate:** Higher rates shift the advantage toward renting in the short term
 5. **Down payment size:** Larger down payment reduces opportunity cost gap
 
-## My Honest Conclusion
+## The Conclusion
 
 For most people in Greater Montreal planning to stay in a property for 5+ years, buying is the superior financial strategy. The equity accumulation effect compounds over time in a way that renting cannot replicate.
 

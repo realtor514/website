@@ -22,7 +22,7 @@ Ces quartiers offrent une excellente valeur: bonnes écoles, accès facile aux a
 
 ## 4. Faites toujours une inspection préachat
 
-Dans un marché compétitif, certains acheteurs sautent l'inspection pour gagner des guerres d'offres. Je le déconseille fortement. Quelques centaines de dollars pour une inspection peuvent vous éviter des dizaines de milliers de surprises après le closing.
+Dans un marché compétitif, certains acheteurs sautent l'inspection pour gagner des guerres d'offres. C'est fortement déconseillé. Quelques centaines de dollars pour une inspection peuvent vous éviter des dizaines de milliers de surprises après le closing.
 
 ## 5. Travaillez avec un expert local
 
@@ -30,4 +30,4 @@ Les nuances du marché de Laval, les zones scolaires, les cartes des zones inond
 
 ---
 
-*Des questions sur l'achat à Laval? [Contactez-moi](/#contact). Je suis heureux de discuter de votre situation sans obligation.*
+*Des questions sur l'achat à Laval? [Prenez contact](/#contact) pour discuter de votre situation, sans obligation.*

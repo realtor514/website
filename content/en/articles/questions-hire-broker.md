@@ -10,7 +10,7 @@ Choosing a real estate broker is one of the most consequential decisions in a pr
 
 The broker you work with affects the price you pay, the price you receive, the terms you negotiate, and the quality of guidance you get through a process that involves significant legal and financial complexity. The decision deserves deliberate evaluation.
 
-Here are the five questions I would ask any broker before signing a contract, including me.
+Here are the five questions to ask any broker before signing a contract.
 
 ## 1. "How do you determine a property's value?"
 
@@ -18,9 +18,9 @@ This question separates brokers who work from data from those who work from intu
 
 A strong answer will describe a specific analytical process: pulling comparable sales in the target area, adjusting for differences in size, condition, and timing, and arriving at a supportable price range. The broker should be able to show you this analysis, not just tell you the conclusion.
 
-A weak answer involves phrases like "I know this market well" without any specifics, or a number that happens to match what you already told them you were hoping for. Brokers who tell sellers what they want to hear to win listings, then reduce the price after signing, are a known pattern in this industry.
+A weak answer leans on vague phrases about knowing the market well, without any specifics, or offers a number that happens to match what you already told them you were hoping for. Brokers who tell sellers what they want to hear to win listings, then reduce the price after signing, are a known pattern in this industry.
 
-## 2. "What is your specific plan for my property?" (for sellers)
+## 2. "What is your specific plan for this property?" (for sellers)
 
 Every listing broker should have a concrete marketing plan. Not a vague commitment to "maximum exposure," but a specific description of:
 
@@ -33,7 +33,7 @@ Every listing broker should have a concrete marketing plan. Not a vague commitme
 
 If the broker cannot describe this specifically before you sign, the execution will likely be equally vague.
 
-## 3. "Can you show me your recent transaction history in this area?"
+## 3. "Can you show your recent transaction history in this area?"
 
 Experience in a specific market is meaningful, but it needs to be verifiable. Ask to see actual recent transactions: properties listed and sold in your neighborhood or price range. Relevant questions include:
 
@@ -49,7 +49,7 @@ In Quebec, dual representation (where one broker represents both the buyer and t
 
 OACIQ has specific rules around this situation, but the broker's attitude toward the question tells you something important about how they think about their obligations to clients.
 
-## 5. "What happens if I'm not satisfied with your service?"
+## 5. "What happens if the service is not satisfactory?"
 
 A confident, ethical broker will have a clear answer. Most reputable brokerages allow clients to terminate a listing agreement if the broker fails to meet their obligations. Understand what the terms are before you sign.
 
@@ -69,4 +69,4 @@ Ask for references and call them. Not just names on a form, but an actual conver
 
 ---
 
-*If you want to ask me any of these questions directly, [I welcome the conversation](/\#contact). I would rather earn your confidence before we work together than assume it.*
+*Want to ask any of these questions directly? [Start the conversation](/\#contact). Confidence should be earned before the work begins, not assumed.*

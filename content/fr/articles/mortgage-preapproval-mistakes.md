@@ -38,10 +38,10 @@ Si les taux baissent pendant la période de retenue, vous pouvez généralement 
 
 Au Canada, même si votre taux approuvé est de 5,5 %, le prêteur vous qualifie au taux le plus élevé entre 5,5 % + 2 % = 7,5 % ou le plancher réglementaire. Ce test protège votre capacité à renouveler si les taux augmentent.
 
-## Ma recommandation
+## Ce qu'il faut retenir
 
 Toujours travailler avec un courtier hypothécaire de confiance, pas seulement avec votre banque personnelle. La différence de taux peut valoir plusieurs milliers de dollars sur la durée de votre hypothèque.
 
 ---
 
-*Vous voulez être mis en contact avec un professionnel hypothécaire en qui j'ai confiance ? [Contactez-moi](/fr/#contact).*
+*Vous voulez être mis en contact avec un professionnel hypothécaire de confiance ? [Prenez contact](/fr/#contact).*

@@ -26,10 +26,10 @@ Les couples en union de fait (non mariés mais cohabitants) ne bénéficient pas
 
 Si la propriété doit être vendue, les deux parties doivent coopérer sauf si un tribunal a attribué l'autorité à une partie. Définissez le processus de décision à l'avance : qui approuve les offres, qui peut assister aux visites ?
 
-## Ma contribution la plus directe
+## L'apport le plus direct d'un courtier
 
-Je fournis une évaluation de valeur marchande honnête et basée sur les données que les deux parties peuvent utiliser comme base, puis j'exécute la transaction de manière professionnelle et neutre.
+Une évaluation de valeur marchande honnête et fondée sur les données donne aux deux parties une base commune. La transaction est ensuite exécutée de manière professionnelle et neutre.
 
 ---
 
-*Vous naviguez une décision immobilière dans un contexte de séparation ? [Je suis disponible pour une conversation confidentielle](/fr/#contact).*
+*Vous naviguez une décision immobilière dans un contexte de séparation ? [Demandez une conversation confidentielle](/fr/#contact).*

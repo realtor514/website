@@ -7,7 +7,7 @@ image: "images/articles/condo-vs-house-montreal/featured.jpg"
 draft: false
 ---
 
-Les acheteurs viennent généralement avec une préférence déjà formée. Mon travail n'est pas de contester la préférence. C'est de m'assurer qu'elle survive au contact des chiffres et compromis réels.
+Les acheteurs arrivent généralement avec une préférence déjà formée. L'enjeu n'est pas de contester cette préférence. C'est de vérifier qu'elle survive au contact des chiffres et des compromis réels.
 
 ## Espace et intimité
 
@@ -32,4 +32,4 @@ Avant tout achat de condo : examinez l'étude du fonds de prévoyance, les deux 
 
 ---
 
-*Vous voulez comparer des propriétés spécifiques côte à côte ? [Contactez-moi](/fr/#contact).*
+*Vous voulez comparer des propriétés spécifiques côte à côte ? [Prenez contact](/fr/#contact).*

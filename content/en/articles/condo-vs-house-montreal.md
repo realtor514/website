@@ -7,7 +7,7 @@ image: "images/articles/condo-vs-house-montreal/featured.jpg"
 draft: false
 ---
 
-Buyers usually come to me with a preference already formed: "I want a house" or "a condo makes more sense for my lifestyle." My job is not to argue with the preference. It is to make sure the preference survives contact with the actual numbers and trade-offs.
+Buyers usually arrive with a preference already formed: a house, or a condo that makes more sense for their lifestyle. The point is not to argue with the preference. It is to make sure the preference survives contact with the actual numbers and trade-offs.
 
 Here is the honest comparison.
 

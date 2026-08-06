@@ -2,11 +2,11 @@
 title: "7 Real Estate Myths That Cost Montreal Buyers Money"
 date: 2025-05-19
 category: "Real Estate 101"
-description: "Some of the most repeated advice in real estate is wrong, or was true in a different market, or applies to a different jurisdiction. Here are the ones I see costing buyers the most."
+description: "Some of the most repeated advice in real estate is wrong, or was true in a different market, or applies to a different jurisdiction. Here are the ones that cost buyers the most."
 image: "images/articles/real-estate-myths-debunked/featured.jpg"
 ---
 
-I have a specific allergy to received wisdom that has not been tested against evidence. Real estate is full of it. Here are the seven myths I correct most often.
+Real estate is full of received wisdom that has never been tested against evidence. Here are the seven most persistent myths, and what the data actually says.
 
 ## Myth 1: "The asking price is what the seller wants"
 
@@ -32,7 +32,7 @@ The GCR warranty provides recourse. That is not the same as certainty.
 
 ## Myth 6: "You need a 20% down payment to buy"
 
-I wrote a full article on this one. The short version: CMHC insurance allows qualified buyers to purchase with as little as 5% down. The insurance premium adds cost, but waiting years to accumulate 20% in an appreciating market often costs more in foregone appreciation than the insurance premium is worth. Run the specific numbers for your situation.
+There is a full article on this one. The short version: CMHC insurance allows qualified buyers to purchase with as little as 5% down. The insurance premium adds cost, but waiting years to accumulate 20% in an appreciating market often costs more in foregone appreciation than the insurance premium is worth. Run the specific numbers for your situation.
 
 ## Myth 7: "The seller's broker is on your side too"
 

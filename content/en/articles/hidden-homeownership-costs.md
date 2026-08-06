@@ -10,7 +10,7 @@ Here is the number banks use when they calculate whether you can afford a home: 
 
 Here is the number that actually matters: your total cost of ownership.
 
-These two numbers can differ by $15,000-$25,000 per year, and nobody in the transaction - not the bank, not necessarily your broker, not the excited seller - has a financial incentive to explain that gap to you clearly. Let me do it.
+These two numbers can differ by $15,000-$25,000 per year, and nobody in the transaction - not the bank, not necessarily your broker, not the excited seller - has a financial incentive to explain that gap to you clearly. Here it is.
 
 ## The Costs That Show Up at Closing (And That Many Buyers Underestimate)
 
@@ -24,7 +24,7 @@ In Quebec, all real estate transactions are handled by a notary (not a lawyer, a
 
 **Home inspection**
 
-$500-$900 for a standard inspection. Worth every dollar. I recommend it even in competitive markets - if conditions don't allow a traditional inspection, negotiate a pre-offer inspection before submitting.
+$500-$900 for a standard inspection. Worth every dollar, even in competitive markets. If conditions don't allow a traditional inspection, negotiate a pre-offer inspection before submitting.
 
 **Mortgage insurance (if less than 20% down)**
 
@@ -58,7 +58,7 @@ If you're moving from a rental apartment to a house, expect significantly higher
 
 ## The Real Number to Calculate Before You Buy
 
-Before any purchase decision, I ask clients to build a complete monthly ownership cost sheet:
+Before any purchase decision, build a complete monthly ownership cost sheet:
 
 - Mortgage payment (principal + interest)
 - Property taxes (monthly estimate)
@@ -70,9 +70,9 @@ Before any purchase decision, I ask clients to build a complete monthly ownershi
 
 This total is your true monthly cost. Compare it honestly to your current rent. The difference in cost, combined with the equity you're building, should justify the transition.
 
-## My Honest Bottom Line
+## The Bottom Line
 
-Buying a home is often financially smart. It is never as simple as "my mortgage payment is less than my rent." The full picture is more complex, but it's a picture you absolutely need to see before you commit.
+Buying a home is often financially smart. It is never as simple as a mortgage payment being lower than the rent. The full picture is more complex, but it's a picture you absolutely need to see before you commit.
 
 ---
 

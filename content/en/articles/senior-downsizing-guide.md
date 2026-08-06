@@ -20,7 +20,7 @@ The replacement property's purchase price, carrying costs, and any additional ex
 
 ## The Condo Question
 
-Many downsizers move to condominiums for the reduced maintenance burden. This is often excellent. It requires the same due diligence I describe in detail elsewhere: review the reserve fund health, read three years of board meeting minutes, understand the condo fee trajectory, and assess the building's management quality before any offer.
+Many downsizers move to condominiums for the reduced maintenance burden. This is often excellent. It requires the same due diligence described in detail elsewhere: review the reserve fund health, read three years of board meeting minutes, understand the condo fee trajectory, and assess the building's management quality before any offer.
 
 Moving from a large home to a poorly managed condo building with a looming special assessment is not a stress reduction. It is a different category of stress.
 
@@ -36,13 +36,13 @@ The right choice depends on your financial cushion, your market's speed, and you
 
 ## What to Expect Emotionally
 
-I want to acknowledge something that purely financial guides omit: the emotional weight of selling a long-held family home is real and significant, and it affects decision-making in ways that buyers and sellers of primary residences need to account for.
+There is something purely financial guides omit: the emotional weight of selling a long-held family home is real and significant, and it affects decision-making in ways that buyers and sellers of primary residences need to account for.
 
 Parents who raised children in a home, who buried grandparents and celebrated anniversaries in its spaces, often find the selling process more difficult than they expected. This is not irrational. The home is a container for memory and identity.
 
 Give yourself permission to take the time you need to make this decision well. Do not let external pressure, whether from children who want you to "simplify" or a broker who wants to list before spring, push you into a timeline that is not yours.
 
-When you are ready, the financial clarity that comes from the right downsizing decision is genuinely liberating. I have worked with clients who describe the transition as one of the best decisions of their later lives.
+When you are ready, the financial clarity that comes from the right downsizing decision is genuinely liberating. Many downsizers describe the transition as one of the best decisions of their later lives.
 
 ## The Neighborhoods Worth Considering
 

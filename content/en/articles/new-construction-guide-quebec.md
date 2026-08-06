@@ -62,9 +62,9 @@ The sales representative at a new development project works for the developer. T
 
 In a resale transaction, your broker represents you. In a new construction purchase directly from a developer, you may be entering a contract that was written by the developer's lawyers to protect the developer's interests.
 
-I strongly recommend having a notary or lawyer review any new construction contract before you sign. The cost is minimal relative to the contract value, and the protection can be substantial.
+Having a notary or lawyer review any new construction contract before you sign is strongly recommended. The cost is minimal relative to the contract value, and the protection can be substantial.
 
-## My Take on New Construction vs. Resale
+## New Construction vs. Resale
 
 New construction has real advantages: GCR coverage, no deferred maintenance, modern energy efficiency, and the ability to personalize. It also carries real risks: pricing opacity, delivery delays, and the fact that you're buying something that doesn't fully exist yet.
 

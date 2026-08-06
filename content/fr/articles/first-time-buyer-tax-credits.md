@@ -6,7 +6,7 @@ description: "Entre les programmes fédéraux et provinciaux, les premiers achet
 image: "images/articles/first-time-buyer-tax-credits/featured.jpg"
 ---
 
-L'une des conversations que j'ai régulièrement avec mes clients premiers acheteurs concerne les programmes financiers auxquels ils sont admissibles et qu'ils n'ont pas explorés.
+L'un des sujets qui revient le plus souvent avec les premiers acheteurs concerne les programmes financiers auxquels ils sont admissibles et qu'ils n'ont pas explorés.
 
 ## Programmes fédéraux
 
@@ -26,7 +26,7 @@ Un crédit d'impôt fédéral non remboursable de 1 500 $ pour les premiers ache
 
 Certaines municipalités dans le Grand Montréal offrent une aide supplémentaire : remboursements de taxe de bienvenue, programmes subventionnés de mise de fonds. Ces programmes changent avec les budgets municipaux ; demandez à votre courtier de rechercher ce qui est disponible.
 
-## Mon avertissement honnête
+## Une mise en garde
 
 Les règles fiscales changent. Vérifiez toujours les conditions actuelles avec un professionnel fiscal qualifié avant de prendre des décisions basées sur cet article.
 

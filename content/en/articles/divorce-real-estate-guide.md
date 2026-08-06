@@ -6,7 +6,7 @@ description: "Separating couples face some of the most complex real estate decis
 image: "images/articles/divorce-real-estate-guide/featured.jpg"
 ---
 
-Real estate is often the most significant shared asset in a divorce or separation. Navigating its disposition under emotional stress, with compressed timelines and high financial stakes, is genuinely difficult. I want to give you a clear picture of the options and processes, not legal advice, which requires a family law attorney.
+Real estate is often the most significant shared asset in a divorce or separation. Navigating its disposition under emotional stress, with compressed timelines and high financial stakes, is genuinely difficult. What follows is a clear picture of the options and processes, not legal advice, which requires a family law attorney.
 
 ## The Three Typical Scenarios
 
@@ -24,17 +24,17 @@ A buyout requires agreeing on value. The cleanest way to do this is through an i
 
 The party buying out the other must then refinance the mortgage in their sole name. This requires qualifying independently based on their income, credit, and debt. The lender treats this as a new mortgage application. If the buying spouse cannot qualify for the full amount needed to pay out the departing spouse's equity, the buyout may not be financially feasible.
 
-My role in a buyout situation: I often provide a comparative market analysis to help establish a realistic price range before a formal appraisal is ordered, and I work with the acquiring party's mortgage broker to assess whether the refinancing is achievable before the parties commit to a buyout structure.
+A broker's role in a buyout situation: provide a comparative market analysis to help establish a realistic price range before a formal appraisal is ordered, and work with the acquiring party's mortgage broker to assess whether the refinancing is achievable before the parties commit to a buyout structure.
 
 ## Selling During a Divorce
 
 If the property is to be sold, both parties must cooperate in the process unless a court has assigned authority to one party to act. This creates complexity when communication between separating parties is strained.
 
-I have worked with separating couples where the relationship, while painful, remained functional enough to navigate a sale professionally. I have also worked in situations where everything needed to go through legal counsel.
+Some separating couples keep a relationship functional enough to navigate a sale professionally, painful as it is. In other situations, everything has to go through legal counsel.
 
 The practical advice: agree early on the decision-making process. How will you handle offers? Who approves the list price? Who can be present for showings? Defining these things in advance, ideally through your attorneys, prevents the property sale from becoming another battlefield.
 
-On pricing: both parties have an incentive to maximize the sale price, which is usually the one area of alignment in an otherwise adversarial situation. I anchor everything to comparable market data, which gives both parties an objective basis and removes pricing from personal negotiation.
+On pricing: both parties have an incentive to maximize the sale price, which is usually the one area of alignment in an otherwise adversarial situation. Anchoring everything to comparable market data gives both parties an objective basis and removes pricing from personal negotiation.
 
 ## The Quebec Family Patrimony Consideration
 
@@ -44,12 +44,12 @@ This is a significant difference from common law provinces where title determine
 
 Common law couples (not married but cohabiting) do not benefit from family patrimony rules and are generally governed by the title registration.
 
-## When I Am Most Helpful
+## Where a Broker Helps Most
 
-My most direct contribution in divorce-related real estate situations is providing honest, data-driven market value assessment that both parties can use as a foundation, and then executing the transaction professionally and neutrally regardless of the personal dynamics.
+The most direct contribution in divorce-related real estate situations is an honest, data-driven market value assessment that both parties can use as a foundation, followed by a transaction executed professionally and neutrally regardless of the personal dynamics.
 
-I am not a family law attorney and cannot advise on the legal agreement between parties. For that, both parties need independent legal counsel.
+A real estate broker is not a family law attorney and cannot advise on the legal agreement between parties. For that, both parties need independent legal counsel.
 
 ---
 
-*Navigating a property decision in the context of a separation? [I am available for a confidential conversation](/\#contact).*
+*Navigating a property decision in the context of a separation? [Request a confidential conversation](/\#contact).*

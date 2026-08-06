@@ -9,13 +9,13 @@ draft: false
 
 Le processus hypothécaire intimide la plupart des premiers acheteurs. Il ne devrait pas.
 
-Une fois que vous comprenez ce que chaque élément signifie réellement et quelles questions poser, le chemin devient beaucoup plus clair. Cet article est le guide que je remets à chaque premier acheteur avec qui je travaille avant qu'il mette les pieds dans une banque ou chez un courtier hypothécaire.
+Une fois que vous comprenez ce que chaque élément signifie réellement et quelles questions poser, le chemin devient beaucoup plus clair. Cet article est le guide à lire avant de mettre les pieds dans une banque ou chez un courtier hypothécaire.
 
 ## Préapprobation vs approbation: la différence qui coûte cher
 
 Une préapprobation est une estimation basée sur ce que vous avez dit au prêteur. L'approbation finale intervient après une révision complète de votre dossier ET de la propriété spécifique que vous achetez.
 
-J'ai vu des acheteurs préapprouvés se faire refuser à la dernière étape. Les raisons sont presque toujours les mêmes: un changement d'emploi, un nouvel emprunt ou achat de voiture, une cote de crédit qui a bougé, ou une propriété que le prêteur a jugée non admissible.
+Des acheteurs préapprouvés se font refuser à la dernière étape. Les raisons sont presque toujours les mêmes: un changement d'emploi, un nouvel emprunt ou achat de voiture, une cote de crédit qui a bougé, ou une propriété que le prêteur a jugée non admissible.
 
 **La règle pendant la période entre votre préapprobation et votre closing:** ne changez rien à votre vie financière. Pas de nouveaux véhicules. Pas de nouvelles cartes de crédit ou prêts. Pas de changements d'emploi. Pas avant que les clés soient entre vos mains.
 
@@ -35,11 +35,11 @@ La plupart des premiers acheteurs vont directement à leur banque. Voici ce que 
 
 Un courtier hypothécaire a accès à 20 à 30 prêteurs: banques, caisses populaires et prêteurs alternatifs. Il compare pour vous et trouve le taux et les conditions les plus compétitifs disponibles selon votre profil. Ses honoraires sont typiquement payés par le prêteur, pas par vous.
 
-Mon conseil: commencez par un courtier hypothécaire. Obtenez la meilleure offre disponible. Puis retournez voir votre banque et demandez-lui de faire mieux. Vous obtiendrez presque toujours un meilleur résultat que si vous étiez resté exclusivement avec votre banque.
+La marche à suivre: commencez par un courtier hypothécaire. Obtenez la meilleure offre disponible. Puis retournez voir votre banque et demandez-lui de faire mieux. Vous obtiendrez presque toujours un meilleur résultat que si vous étiez resté exclusivement avec votre banque.
 
 ## Taux fixe vs variable: la décision qui dépend de vous
 
-C'est la question que j'entends le plus souvent, et ma réponse est toujours la même: **il n'y a pas de réponse universellement correcte**.
+C'est la question la plus fréquente, et la réponse est toujours la même: **il n'y a pas de réponse universellement correcte**.
 
 **Taux fixe:** Vous savez exactement ce que vous payez pour toute la durée du terme. Vous payez une prime pour cette certitude.
 
@@ -77,4 +77,4 @@ Un renouvellement bien négocié peut vous économiser de 5 000 à 15 000 dollar
 
 ---
 
-*Des questions sur le financement de votre première propriété au Québec? [Contactez-moi](/#contact) et je vous orienterai dans la bonne direction.*
+*Des questions sur le financement de votre première propriété au Québec? [Prenez contact](/#contact) pour être orienté dans la bonne direction.*

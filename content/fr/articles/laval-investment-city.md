@@ -6,7 +6,7 @@ description: "Tout le monde regarde l'île. Les données pointent vers Laval dep
 image: "images/articles/laval-investment-city/featured.jpg"
 ---
 
-J'ai acheté mon propre triplex à Laval. Ce fait vous dit quelque chose sur où je mets mon argent.
+Laval est l'un des rares secteurs du Grand Montréal où les chiffres d'un immeuble à revenus tiennent encore debout.
 
 ## L'avantage prix au pied carré
 
@@ -24,7 +24,7 @@ Cette croissance démographique crée une demande locative soutenue. Les taux d'
 
 Le REM change radicalement l'histoire de connectivité de Laval. Les autoroutes 440, 13, 15, 19 et 25 desservent toutes Laval, lui donnant un accès au transport qui rivalise génuinement avec certains quartiers urbains.
 
-## Mes secteurs préférés
+## Les secteurs les plus intéressants
 
 **Duvernay :** Grands terrains, bonnes écoles, bon accès à l'autoroute 440.
 **Sainte-Rose :** Caractère de village, accès riverain, charme irremplaçable.
@@ -32,4 +32,4 @@ Le REM change radicalement l'histoire de connectivité de Laval. Les autoroutes 
 
 ---
 
-*Vous vous intéressez à une analyse spécifique de propriété à revenus à Laval ? [Contactez-moi](/fr/#contact).*
+*Vous vous intéressez à une analyse spécifique de propriété à revenus à Laval ? [Prenez contact](/fr/#contact).*

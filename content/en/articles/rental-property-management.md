@@ -42,7 +42,7 @@ Quebec landlords are legally required to maintain rental units in good condition
 
 The practical approach: be responsive. A landlord who responds to maintenance requests quickly and professionally builds a good relationship with tenants, which pays dividends in lease renewals and property care.
 
-Budget 1% of the building's value per year for maintenance, as I mentioned in other articles. Do not skip this reserve. The year the furnace fails, the roof needs patching, and a bathroom has a leak simultaneously is the year you will be grateful for it.
+Budget 1% of the building's value per year for maintenance. Do not skip this reserve. The year the furnace fails, the roof needs patching, and a bathroom has a leak simultaneously is the year you will be grateful for it.
 
 ## When to Use a Property Manager
 

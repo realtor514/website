@@ -7,7 +7,7 @@ image: "images/articles/condo-vs-house-montreal/featured.jpg"
 draft: false
 ---
 
-Los compradores generalmente llegan a mí con una preferencia ya formada: "quiero una casa" o "un condominio tiene más sentido para mi estilo de vida." Mi trabajo no es discutir la preferencia. Es asegurarme de que la preferencia sobreviva el contacto con los números y compromisos reales.
+Los compradores generalmente llegan con una preferencia ya formada: una casa, o un condominio que encaja mejor con su estilo de vida. La cuestión no es discutir esa preferencia. Es verificar que sobreviva al contacto con los números y los compromisos reales.
 
 Aquí está la comparación honesta.
 

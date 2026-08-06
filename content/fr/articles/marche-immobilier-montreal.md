@@ -2,16 +2,16 @@
 title: "Ce que les données disent vraiment sur le marché immobilier de Montréal en 2025"
 date: 2025-05-19
 category: "Analyse de marché"
-description: "Au-delà des manchettes et des prédictions, voici ce que les indicateurs que je suis chaque mois révèlent sur l'état réel du marché immobilier de Montréal et Laval."
+description: "Au-delà des manchettes et des prédictions, voici ce que les indicateurs suivis chaque mois révèlent sur l'état réel du marché immobilier de Montréal et Laval."
 image: "images/articles/marche-immobilier-montreal-analyse-donnees/featured.jpg"
 draft: false
 ---
 
-Chaque semaine, quelqu'un me demande si c'est un bon moment d'acheter ou de vendre à Montréal. Et chaque semaine, je donne la même réponse: cela dépend entièrement des données, pas des prédictions, pas des manchettes, et pas de ce que le marché a fait l'année dernière.
+La question revient chaque semaine: est-ce un bon moment d'acheter ou de vendre à Montréal? Et la réponse est toujours la même: cela dépend entièrement des données, pas des prédictions, pas des manchettes, et pas de ce que le marché a fait l'année dernière.
 
-J'ai un doctorat en traitement de données. J'ai bâti ma pratique autour de l'analyse des indicateurs immobiliers de la même façon que j'analysais des données de recherche: méthodiquement, sans biais de confirmation, et avec l'humilité nécessaire sur ce que les chiffres peuvent et ne peuvent pas révéler.
+Les indicateurs immobiliers gagnent à être analysés comme des données de recherche: méthodiquement, sans biais de confirmation, et avec l'humilité nécessaire sur ce que les chiffres peuvent et ne peuvent pas révéler.
 
-Voici ce que les indicateurs que je suis chaque mois montrent réellement.
+Voici ce que les indicateurs suivis chaque mois montrent réellement.
 
 ## Les 5 indicateurs qui comptent
 
@@ -42,13 +42,13 @@ La correction que beaucoup prédisaient catastrophique s'est avérée être une 
 
 ## Ce que les médias ne disent pas
 
-Je lis les manchettes immobilières chaque semaine. Voici le schéma que j'observe constamment:
+Les manchettes immobilières suivent un schéma constant:
 
 - "Les ventes immobilières chutent de 20%": signifie généralement un retour aux niveaux pré-pandémiques normaux après une hausse artificielle
 - "Les prix baissent de 8%": après une hausse de 35%, c'est une correction modérée, pas une crise
 - "Bulle immobilière au Canada": certains segments sont surévalués; l'ensemble du marché n'est pas une bulle homogène
 
-Les incitatifs médiatiques favorisent les manchettes dramatiques. Mon travail est de vous donner la nuance, parce que vos décisions financières méritent mieux qu'un gros titre.
+Les incitatifs médiatiques favorisent les manchettes dramatiques. La nuance est indispensable, parce que vos décisions financières méritent mieux qu'un gros titre.
 
 ## Le marché de Laval spécifiquement
 
@@ -87,4 +87,4 @@ Si la réponse à ces quatre questions est oui, le timing du marché plus large 
 
 ---
 
-*Je publie une analyse régulière du marché immobilier de la grande région de Montréal et Laval. [Contactez-moi](/#contact) si vous souhaitez discuter de ce que les données actuelles signifient pour votre situation spécifique.*
+*Une analyse du marché immobilier de la grande région de Montréal et Laval est publiée ici régulièrement. [Prenez contact](/#contact) pour discuter de ce que les données actuelles signifient pour votre situation.*

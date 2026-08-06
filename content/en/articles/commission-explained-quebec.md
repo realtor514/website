@@ -8,7 +8,7 @@ image: "images/articles/commission-explained-quebec/featured.jpg"
 
 Real estate commission is one of the most discussed and least understood fees in a property transaction. People know it exists. Most don't know exactly how it's structured, how it gets split, or what value it should be delivering.
 
-I believe in transparency. Here is a full breakdown.
+Transparency matters here. Here is a full breakdown.
 
 ## How Commission Works in Quebec
 
@@ -32,9 +32,9 @@ The split between listing and buying sides is typically 50/50, but can vary base
 
 ## What Commission Actually Covers
 
-I think it's important to be specific about this, because "broker services" is vague.
+It is worth being specific about this, because "broker services" is vague.
 
-When a seller lists with me, the commission covers:
+When a seller signs a brokerage contract, the commission covers:
 
 **Preparation:** Professional photography, staging consultation, virtual tour, floor plan. The difference between a well-presented listing and a poorly presented one in today's market directly affects sale price and speed.
 
@@ -58,7 +58,7 @@ Not all commission is equal. A broker who charges full commission and delivers:
 
 ...is not delivering value equivalent to what they're charging.
 
-Before signing a brokerage contract, ask specifically: What is included in the service? What will the marketing look like? How will you communicate with me and how often? What is your average days-on-market for listings in this price range?
+Before signing a brokerage contract, ask specifically: What is included in the service? What will the marketing look like? How often will you communicate, and through which channel? What is your average days-on-market for listings in this price range?
 
 ## The Discount Brokerage Question
 
@@ -66,9 +66,9 @@ There are brokerage models in Quebec that offer reduced commission structures in
 
 They require the seller to take on more responsibility and carry more execution risk. For most sellers, the incremental commission paid for full service is recovered many times over through better pricing, better negotiation, and fewer costly mistakes.
 
-## My Commitment on This
+## What to Expect on This
 
-My commission is negotiable and depends on the specifics of your situation. What I will always tell you clearly: what you're getting for it, what I expect to deliver, and how I measure success. If you can get equal or better service for less, you should do that.
+Commission is negotiable and depends on the specifics of the situation. What a broker should always state clearly: what you're getting for it, what will be delivered, and how success is measured. If you can get equal or better service for less, you should do that.
 
 ---
 

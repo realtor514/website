@@ -2,13 +2,13 @@
 title: "5 Negotiation Strategies That Actually Work in Today's Montreal Market"
 date: 2025-06-09
 category: "Strategy"
-description: "Real estate negotiation is not about being aggressive. It is about being prepared. Here are the five strategies I use with every client: buyers and sellers alike."
+description: "Real estate negotiation is not about being aggressive. It is about being prepared. Here are five strategies that work for buyers and sellers alike."
 image: "images/articles/strategies-negociation-immobilier-montreal/featured.jpg"
 ---
 
 Real estate negotiation has nothing to do with being the toughest person in the room. It has everything to do with being the most prepared.
 
-Here are the five strategies I apply systematically, whether I am representing a buyer or a seller.
+Here are five strategies that apply systematically, on the buyer side and the seller side alike.
 
 ## 1. Set Your Maximum Before You Fall in Love
 
@@ -18,7 +18,7 @@ Most buyers walk into a property, feel the space, imagine their life there, and 
 
 The right sequence is: analyze the comparable sales, determine fair market value, set your maximum offer, and only then visit the property. If you love it, that's good. But you already know the ceiling, and you hold to it.
 
-In a bidding war, the emotion intensifies. The artificial deadline, the knowledge that others want the same thing, the fear of losing: all of it pushes buyers above their ceiling. I have seen buyers pay $40,000 above a price they told me was their maximum, convinced they could "make it work."
+In a bidding war, the emotion intensifies. The artificial deadline, the knowledge that others want the same thing, the fear of losing: all of it pushes buyers above their ceiling. Buyers routinely pay $40,000 above the price they had set as their maximum, convinced they could "make it work."
 
 They couldn't. Not comfortably.
 
@@ -44,13 +44,13 @@ Most people think real estate negotiation is about price. Price is just one of f
 
 The most powerful negotiating position is one grounded in facts.
 
-When I present a below-asking offer on behalf of a buyer, I always attach a comparables analysis. "Here are the three properties most similar to yours that sold in this neighbourhood in the past 90 days. Here is their price per square foot. Here is how your property compares on the key variables. Based on this analysis, the price I'm offering reflects what the market has recently paid for equivalent properties."
+A below-asking offer should always come with a comparables analysis attached. "Here are the three properties most similar to yours that sold in this neighbourhood in the past 90 days. Here is their price per square foot. Here is how your property compares on the key variables. Based on this analysis, the price offered reflects what the market has recently paid for equivalent properties."
 
 An opinion invites argument. Data invites discussion.
 
-The same applies from the seller's side. When I receive a low offer, I respond not with emotion but with data. "Here is why the asking price is supported by the market. Here is the analysis we used to set it. Here are the specific sales that confirm it."
+The same applies from the seller's side. A low offer deserves a response built on data, not emotion. "Here is why the asking price is supported by the market. Here is the analysis used to set it. Here are the specific sales that confirm it."
 
-Data changes the conversation from "I think it's worth this" to "the market says this."
+Data changes the conversation from an opinion about value to what the market actually says.
 
 ## 4. Understand the Other Party's Real Situation
 
@@ -72,7 +72,7 @@ Submit the offer. State the reasoning if appropriate. Then wait.
 
 The party that feels most urgency to break the silence is usually the one who blinks first. Patience communicates confidence. It suggests you are prepared to walk away, even if you're not entirely. And a seller who is not sure whether you'll stay in the conversation will often move toward you to keep it alive.
 
-The same applies during verbal negotiations. When the other side makes a concession, don't immediately accept or escalate. Pause. Think visibly. Then respond. This simple habit has saved my clients thousands of dollars.
+The same applies during verbal negotiations. When the other side makes a concession, don't immediately accept or escalate. Pause. Think visibly. Then respond. This simple habit saves buyers and sellers thousands of dollars.
 
 ## The Bidding War: A Special Case
 
@@ -91,10 +91,10 @@ A strong offer in a bidding war is not necessarily the highest. It is the most c
 
 The best negotiations in real estate are not won; they are structured. Both parties walk away feeling that the outcome was fair. That mutual sense of fairness is what keeps transactions from falling apart after the offer is accepted.
 
-My job is not to extract the maximum advantage from the other side. It is to achieve the best possible outcome for my client in a way that closes the transaction successfully.
+The goal is not to extract the maximum advantage from the other side. It is to achieve the best possible outcome for the client in a way that closes the transaction successfully.
 
 The difference matters more than most people realize.
 
 ---
 
-*Navigating a negotiation in the Montreal or Laval market? [Contact me](/#contact) and let's discuss your strategy before you submit.*
+*Navigating a negotiation in the Montreal or Laval market? [Get in touch](/#contact) to review your strategy before you submit.*

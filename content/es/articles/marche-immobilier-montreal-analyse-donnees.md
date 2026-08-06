@@ -7,9 +7,9 @@ image: "images/articles/marche-immobilier-montreal-analyse-donnees/featured.jpg"
 draft: false
 ---
 
-Cada semana, alguien me pregunta si es un buen momento para comprar o vender en Montréal. Y cada semana, doy la misma respuesta: eso depende enteramente de los datos, no de predicciones, no de titulares, y no de lo que el mercado hizo el año pasado.
+La pregunta vuelve cada semana: ¿es un buen momento para comprar o vender en Montréal? Y la respuesta siempre es la misma: eso depende enteramente de los datos, no de predicciones, no de titulares, y no de lo que el mercado hizo el año pasado.
 
-Tengo un doctorado en procesamiento de datos. He construido mi práctica alrededor de analizar los indicadores inmobiliarios de la misma manera que analizaba los datos de investigación: metódicamente, sin sesgo de confirmación, y con la humildad apropiada sobre lo que los números pueden y no pueden decirnos.
+Los indicadores inmobiliarios conviene analizarlos igual que se analizan los datos de investigación: metódicamente, sin sesgo de confirmación, y con la humildad apropiada sobre lo que los números pueden y no pueden decirnos.
 
 Esto es lo que los indicadores que sigo cada mes realmente muestran.
 
@@ -52,7 +52,7 @@ Leo los titulares inmobiliarios cada semana. Este es el patrón que observo cons
 
 Los incentivos de los medios favorecen los titulares dramáticos. Un análisis matizado de las tasas de absorción por tipo de propiedad y vecindario no genera clics de la misma manera que "COLAPSO INMINENTE".
 
-Mi trabajo es darle el matiz, porque sus decisiones financieras merecen algo mejor que un titular.
+El matiz es lo que importa, porque sus decisiones financieras merecen algo mejor que un titular.
 
 ## El Mercado de Laval Específicamente
 

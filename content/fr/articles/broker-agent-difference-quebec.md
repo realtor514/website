@@ -6,7 +6,7 @@ description: "La plupart des acheteurs et vendeurs utilisent ces termes de faço
 image: "images/articles/broker-agent-difference-quebec/featured.jpg"
 ---
 
-Quand je dis que je suis courtier immobilier, la réponse la plus fréquente est : « Ah, un agent d'immeuble ? » Les termes sont utilisés de façon interchangeable dans la conversation quotidienne, mais ils ont des significations précises. Au Québec, le cadre réglementaire est suffisamment spécifique pour mériter une explication.
+« Courtier immobilier » et « agent d'immeuble » sont utilisés de façon interchangeable dans la conversation quotidienne, mais ces termes ont des significations précises. Au Québec, le cadre réglementaire est suffisamment spécifique pour mériter une explication.
 
 ## Le cadre québécois : l'OACIQ
 
@@ -32,4 +32,4 @@ Si un courtier manque à ses obligations, l'OACIQ traite les plaintes et a le po
 
 ---
 
-*Des questions sur la représentation immobilière au Québec ? [Je suis disponible pour une conversation](/fr/#contact).*
+*Des questions sur la représentation immobilière au Québec ? [Prenez contact](/fr/#contact).*

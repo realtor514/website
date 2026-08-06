@@ -6,7 +6,7 @@ description: "Off-market properties are real. They are also surrounded by more m
 image: "images/articles/off-market-properties/featured.jpg"
 ---
 
-"Off-market" is one of the most used and least accurately understood terms in real estate. I hear it from buyers who want to avoid competition, from investors looking for below-market deals, and from sellers who want privacy. Let me explain what it actually means and what it does not.
+"Off-market" is one of the most used and least accurately understood terms in real estate. It comes up with buyers who want to avoid competition, investors looking for below-market deals, and sellers who want privacy. Here is what it actually means and what it does not.
 
 ## What an Off-Market Property Is
 
@@ -32,7 +32,7 @@ It is not a secret database accessible only to insiders. There is no hidden repo
 
 **Work with an active broker who has a local network.** Brokers who are deeply engaged in a specific market know sellers who are considering listing before those sellers have listed. That relationship-based intelligence is the primary access mechanism for off-market properties.
 
-When I work with investor clients, I have conversations with other brokers in markets they are targeting. I contact property managers who manage income plexes. I reach out to owners directly in some cases. This is the practical reality of accessing pre-market information.
+Accessing pre-market information means conversations with other brokers in the targeted markets, contact with property managers who run income plexes, and in some cases direct outreach to owners. That is the practical reality of it.
 
 **Know your target clearly.** A buyer who can articulate precisely what they want (duplex in Duvernay, $500,000-$600,000, in reasonable condition) gives their broker specific criteria to work from. A vague request generates vague results.
 
@@ -40,7 +40,7 @@ When I work with investor clients, I have conversations with other brokers in ma
 
 **Consider direct outreach.** Some buyers identify properties they would like to purchase and contact the owners directly. This is more common in the income property market than in single-family residential. Success rates are low but the effort is low per attempt, and occasionally it produces genuine results.
 
-## My Honest Assessment
+## An Honest Assessment
 
 Off-market properties are a real part of the Greater Montreal market, particularly in the income plex segment. For buyers who are well-prepared, patient, and working with a broker who has genuine local relationships, off-market access provides an occasional advantage.
 
@@ -48,4 +48,4 @@ It is not a magic solution to competitive markets or high prices. It is one addi
 
 ---
 
-*Looking for specific off-market opportunities in Laval or Montreal? [Let's talk about your criteria](/\#contact) and I will work my network on your behalf.*
+*Looking for off-market opportunities in Laval or Montreal? [Send your criteria](/\#contact) and the network will be put to work.*

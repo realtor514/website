@@ -9,13 +9,13 @@ draft: false
 
 The mortgage process intimidates most first-time buyers. It shouldn't.
 
-Once you understand what each piece actually means (and what questions to ask), the path becomes much clearer. This article is the guide I give every first-time buyer I work with before they set foot in a bank or broker's office.
+Once you understand what each piece actually means (and what questions to ask), the path becomes much clearer. This article is the guide to read before setting foot in a bank or broker's office.
 
 ## Pre-Approval vs. Approval: The Difference That Costs People
 
 A pre-approval is an estimate based on what you told the lender. The final approval happens after a full review of your file AND the specific property you are buying.
 
-I have seen pre-approved buyers get refused at the final stage. The reasons are almost always the same: a job change, a new loan or car purchase, a credit score that shifted, or a property that the lender determined didn't qualify.
+Pre-approved buyers do get refused at the final stage. The reasons are almost always the same: a job change, a new loan or car purchase, a credit score that shifted, or a property that the lender determined didn't qualify.
 
 **The rule during the period between your pre-approval and your closing date:** change nothing in your financial life. No new vehicles. No new credit cards or loans. No employment changes. Not until after the keys are in your hand.
 
@@ -37,11 +37,11 @@ Most first-time buyers go directly to their bank. Here is what that means: you a
 
 A mortgage broker has access to 20 to 30 lenders: banks, credit unions, and alternative lenders. They compare on your behalf and find the most competitive rate and conditions available to your profile. Their fees are typically paid by the lender, not by you.
 
-My advice: start with a mortgage broker. Get the best offer available. Then bring that offer to your own bank and ask them to beat it. You will almost always get a better outcome than if you had stayed exclusively with your bank.
+The approach: start with a mortgage broker. Get the best offer available. Then bring that offer to your own bank and ask them to beat it. You will almost always get a better outcome than if you had stayed exclusively with your bank.
 
 ## Fixed vs. Variable: The Decision That Depends on You
 
-This is the question I get most often, and my answer is always the same: **there is no universally correct answer**.
+This is the most common question, and the answer is always the same: **there is no universally correct answer**.
 
 **Fixed rate:** You know exactly what you pay for the full term. You pay a small premium for that certainty. If rates fall, you don't benefit. If rates rise, you're protected.
 
@@ -49,7 +49,7 @@ This is the question I get most often, and my answer is always the same: **there
 
 The real question is your risk tolerance. If a $200/month increase in payments would stress your budget significantly, choose fixed. If you have financial flexibility and a longer horizon, variable may serve you well over time.
 
-In 2025, with the Bank of Canada in a rate-cutting cycle, the calculus is different than it was in 2022 or 2023. What I can tell you with confidence: the answer depends on your specific financial situation, not on what a general article tells you.
+In 2025, with the Bank of Canada in a rate-cutting cycle, the calculus is different than it was in 2022 or 2023. What can be said with confidence: the answer depends on your specific financial situation, not on what a general article tells you.
 
 ## The Down Payment Sources You May Not Know About
 
@@ -91,12 +91,12 @@ A well-negotiated renewal can save you $5,000 to $15,000 over the next 5-year te
 1. What lenders do you have access to, and which ones are you recommending?
 2. What is the total annual percentage rate (APR), not just the nominal rate?
 3. What are the prepayment privileges?
-4. What is the penalty if I need to break the term early?
-5. Are there any origination fees I need to pay?
-6. How are you compensated: by the lender, by me, or both?
+4. What is the penalty for breaking the term early?
+5. Are there any origination fees to pay?
+6. How are you compensated: by the lender, by the borrower, or both?
 
 A mortgage professional who answers these questions clearly and without hesitation is one you can trust.
 
 ---
 
-*Questions about financing your first property in Quebec? I work closely with mortgage specialists who know this market well. [Contact me](/#contact) and I'll point you in the right direction.*
+*Questions about financing your first property in Quebec? [Get in touch](/#contact) to be pointed toward mortgage specialists who know this market well.*

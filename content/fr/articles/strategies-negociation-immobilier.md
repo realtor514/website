@@ -2,13 +2,13 @@
 title: "5 stratégies de négociation qui fonctionnent vraiment dans le marché montréalais"
 date: 2025-06-09
 category: "Stratégie"
-description: "La négociation immobilière n'est pas une question d'agressivité. C'est une question de préparation. Voici les cinq stratégies que j'applique systématiquement avec chaque client."
+description: "La négociation immobilière n'est pas une question d'agressivité. C'est une question de préparation. Voici cinq stratégies qui fonctionnent systématiquement."
 image: "images/articles/strategies-negociation-immobilier-montreal/featured.jpg"
 ---
 
 La négociation immobilière n'a rien à voir avec le fait d'être la personne la plus dure dans la pièce. Elle a tout à voir avec le fait d'être la mieux préparée.
 
-Voici les cinq stratégies que j'applique systématiquement, que je représente un acheteur ou un vendeur.
+Voici cinq stratégies qui s'appliquent systématiquement, du côté acheteur comme du côté vendeur.
 
 ## 1. Fixez votre maximum avant de tomber en amour
 
@@ -40,7 +40,7 @@ La plupart des gens pensent que la négociation immobilière porte sur le prix. 
 
 La position de négociation la plus puissante est celle ancrée dans les faits.
 
-Lorsque je présente une offre en dessous du prix demandé au nom d'un acheteur, j'attache toujours une analyse de comparables. "Voici les trois propriétés les plus similaires à la vôtre qui ont été vendues dans ce quartier au cours des 90 derniers jours. Voici leur prix au pied carré. Voici comment votre propriété se compare sur les variables clés. Sur la base de cette analyse, le prix que j'offre reflète ce que le marché a récemment payé pour des propriétés équivalentes."
+Une offre en dessous du prix demandé devrait toujours être accompagnée d'une analyse de comparables. "Voici les trois propriétés les plus similaires à la vôtre qui ont été vendues dans ce quartier au cours des 90 derniers jours. Voici leur prix au pied carré. Voici comment votre propriété se compare sur les variables clés. Sur la base de cette analyse, le prix offert reflète ce que le marché a récemment payé pour des propriétés équivalentes."
 
 Une opinion invite à l'argumentation. Les données invitent à la discussion.
 
@@ -68,8 +68,8 @@ La partie qui ressent le plus l'urgence de briser le silence est généralement 
 
 Les meilleures négociations en immobilier ne se gagnent pas: elles se structurent. Les deux parties repartent avec le sentiment que le résultat était équitable. Ce sentiment mutuel d'équité est ce qui empêche les transactions de s'effondrer après que l'offre est acceptée.
 
-Mon travail n'est pas d'extraire le maximum d'avantages de l'autre partie. C'est d'obtenir le meilleur résultat possible pour mon client d'une manière qui fait fermer la transaction avec succès.
+Le but n'est pas d'extraire le maximum d'avantages de l'autre partie. C'est d'obtenir le meilleur résultat possible pour son client, d'une manière qui fait aboutir la transaction.
 
 ---
 
-*Vous naviguez une négociation sur le marché de Montréal ou Laval? [Contactez-moi](/#contact) et discutons de votre stratégie avant que vous soumettiez.*
+*Vous naviguez une négociation sur le marché de Montréal ou Laval? [Prenez contact](/#contact) pour valider votre stratégie avant de soumettre.*

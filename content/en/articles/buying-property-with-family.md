@@ -8,11 +8,11 @@ image: "images/articles/buying-property-with-family/featured.jpg"
 
 Co-purchasing real estate with family members is one of the fastest-growing trends in Greater Montreal as housing costs have risen relative to individual buyer capacity. A parent contributing to their child's down payment, two siblings pooling resources for a duplex, adult children purchasing a home that their aging parents will occupy, a combination of generations on a single title.
 
-These arrangements can be excellent financial strategies. They can also destroy family relationships if the terms are not clearly defined before the purchase. Here is what I advise clients to think through before proceeding.
+These arrangements can be excellent financial strategies. They can also destroy family relationships if the terms are not clearly defined before the purchase. Here is what to think through before proceeding.
 
 ## Why Written Agreements Matter Between Family Members
 
-There is a deeply human instinct to resist formalizing relationships with family. It feels distrustful, transactional, and contrary to the warmth of the relationship. I understand that instinct and I also watch it create problems consistently.
+There is a deeply human instinct to resist formalizing relationships with family. It feels distrustful, transactional, and contrary to the warmth of the relationship. That instinct is understandable, and it creates problems consistently.
 
 Family members die. Circumstances change. Someone needs their money back. Someone gets divorced and their spouse has a claim on assets. Someone stops paying their share of the mortgage. Someone wants to sell when others do not.
 
@@ -40,7 +40,7 @@ A very common arrangement is a parent providing all or part of a down payment as
 
 Mortgage lenders in Canada require a gift letter confirming that the funds are a gift, not a loan, because a loan obligation would affect the buyer's debt ratios. The letter needs to be signed by the donor and typically confirm the family relationship.
 
-From a family harmony perspective, even when the intention is a gift, I recommend that the understanding be documented somewhere. What everyone agrees is a gift when relations are good can become contested when relations are not.
+From a family harmony perspective, even when the intention is a gift, the understanding should be documented somewhere. What everyone agrees is a gift when relations are good can become contested when relations are not.
 
 ## The Multiple Generations on Title Situation
 
@@ -52,9 +52,9 @@ If the property serves as the parent's principal residence, there may be capital
 
 Estate planning considerations are significant. A notary with estate planning experience, not just real estate experience, should be consulted.
 
-## My Recommendation
+## What to Keep in Mind
 
-Family co-ownership transactions are among the most relationship-sensitive situations I work in. My standard advice: engage a notary to draft the co-ownership agreement before or simultaneously with the purchase, not after. The conversation about "what happens if" is much more productive before any money has moved.
+Family co-ownership transactions are among the most relationship-sensitive situations in real estate. The standard advice: engage a notary to draft the co-ownership agreement before or simultaneously with the purchase, not after. The conversation about "what happens if" is much more productive before any money has moved.
 
 ---
 

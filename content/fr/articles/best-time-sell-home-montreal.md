@@ -19,7 +19,7 @@ Le problème : chaque vendeur qui a entendu le même conseil « inscrivez-vous a
 
 **Printemps (mars-mai) :** Volume élevé, concurrence élevée. Meilleur pour les propriétés familiales avec de bonnes écoles dans le secteur.
 
-**Automne (septembre-octobre) :** Ma saison de vente préférée pour les bonnes propriétés. La demande des acheteurs reste forte après l'été, mais beaucoup de vendeurs se sont déjà inscrits au printemps et retirés. L'inventaire est généralement plus faible, ce qui signifie moins de concurrence directe pour votre inscription.
+**Automne (septembre-octobre) :** La meilleure saison de vente pour les bonnes propriétés. La demande des acheteurs reste forte après l'été, mais beaucoup de vendeurs se sont déjà inscrits au printemps et retirés. L'inventaire est généralement plus faible, ce qui signifie moins de concurrence directe pour votre inscription.
 
 **Hiver (décembre-février) :** Marché réduit, mais acheteurs sérieux. Quiconque cherche activement en janvier ou février n'est pas en train de naviguer. Il achète. Cela change significativement la dynamique de négociation.
 
@@ -29,7 +29,7 @@ Le problème : chaque vendeur qui a entendu le même conseil « inscrivez-vous a
 
 Le timing compte moins que la condition et le prix. Une propriété bien préparée, au prix juste pour le marché actuel, se vendra rapidement n'importe quel mois. Concentrez-vous sur les variables que vous contrôlez : la préparation, le prix, la photographie et l'accès aux visites.
 
-## Ma recommandation honnête sur le timing
+## Ce qu'il faut retenir sur le timing
 
 Si vous avez de la flexibilité : octobre en premier, puis mars-avril, puis janvier. Évitez la fin juillet, août et la période des fêtes de décembre.
 

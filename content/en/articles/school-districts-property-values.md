@@ -20,7 +20,7 @@ The key practical point: the school a child attends in Quebec is not purely dete
 
 In markets with well-regarded schools, properties in the catchment zone trade at a measurable premium to otherwise comparable properties just outside the zone. This premium reflects the demand from families willing to pay more to be in a specific catchment area.
 
-I observe this dynamic clearly in certain Laval sectors. Properties in the Duvernay catchment for well-regarded schools consistently attract stronger family buyer demand than properties in adjacent sectors with weaker school reputations. The price gap is real, even for properties that are physically similar.
+The dynamic is clearly visible in certain Laval sectors. Properties in the Duvernay catchment for well-regarded schools consistently attract stronger family buyer demand than properties in adjacent sectors with weaker school reputations. The price gap is real, even for properties that are physically similar.
 
 For investors targeting family renters, school zone positioning matters directly. A family paying above-market rent to be in a specific school catchment is a more stable tenant than one who has no particular attachment to the location.
 
@@ -38,9 +38,9 @@ Quebec's language laws govern access to English public education. To enroll in E
 
 For Anglophone or bilingual families seeking English public education, proximity to eligible English schools is an active consideration that affects neighborhood selection.
 
-## How I Use School Zone Data
+## How to Use School Zone Data
 
-When I analyze a property for an investor or a family buyer, school zone data is one of the explicit variables in the analysis. Specifically:
+When analyzing a property for an investor or a family buyer, school zone data is one of the explicit variables. Specifically:
 
 Which school service center governs the area, and what is the reputation of the assigned schools at the elementary and secondary levels? Is the area near private school options, and which communities are those schools associated with? Has there been any recent rezoning or discussion of catchment boundary changes?
 
@@ -48,4 +48,4 @@ The last point is important and underappreciated. A catchment boundary change ca
 
 ---
 
-*Have a specific area or property you'd like me to analyze with school zone context? [Let's talk through it](/\#contact).*
+*Have a specific area or property to analyze with school zone context? [Request the analysis](/\#contact).*

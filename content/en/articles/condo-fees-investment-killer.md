@@ -10,7 +10,7 @@ The condo looks affordable. The price is right. The monthly fee is $380 - manage
 
 Ten years later: the fee is $620, there's been a special assessment for $18,000, and you're wondering where your returns went.
 
-I am not anti-condo. I've recommended condos to many clients and will continue to do so. But there's a conversation about condo fees that almost nobody has before a purchase, and it needs to happen.
+None of this is an argument against condos. They are the right choice for many buyers. But there's a conversation about condo fees that almost nobody has before a purchase, and it needs to happen.
 
 ## What Condo Fees Actually Cover
 
@@ -50,7 +50,7 @@ The mitigation: read the minutes of condo board meetings for the past 3 years be
 
 A $400/month fee growing at 5% per year reaches $652/month in 10 years and $1,062/month in 20 years. That growth erodes your effective rental yield if you're holding the property as an investment, or increases your true ownership cost if you're living in it.
 
-When I model investment properties for clients, I always use a projected fee growth rate of 4-6% per year in my long-term cash flow analysis. Many buyers model static fees. That's optimistic to the point of inaccuracy.
+Any long-term cash flow analysis should use a projected fee growth rate of 4-6% per year. Many buyers model static fees. That's optimistic to the point of inaccuracy.
 
 ## When a Condo Still Makes Sense
 
@@ -67,4 +67,4 @@ This information is legally available to prospective buyers through their broker
 
 ---
 
-*Looking at a specific condo? [Reach out](/\#contact) - I'll help you review the building's financials before you commit.*
+*Looking at a specific condo? [Request a review of the building's financials](/\#contact) before you commit.*

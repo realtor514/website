@@ -6,33 +6,33 @@ description: "Bidding wars sound exciting on TV. In real life, they're stressful
 image: "images/articles/bidding-wars-truth-montreal/featured.jpg"
 ---
 
-Let me be honest with you about something most brokers won't say out loud: bidding wars are not a sign of a healthy market. They're a sign of a market where buyers have lost leverage, and where emotions can override logic in dangerous ways.
+Here is something most brokers won't say out loud: bidding wars are not a sign of a healthy market. They're a sign of a market where buyers have lost leverage, and where emotions can override logic in dangerous ways.
 
-My first instinct in any multiple-offer situation is to run the numbers - not the emotions. And those numbers, more often than people expect, tell a story the excitement of the moment tends to hide. Some of my proudest moments are the ones where I helped a client **not** win a bidding war - because the price had crossed a line where the math no longer made sense.
+The first instinct in any multiple-offer situation should be to run the numbers, not the emotions. And those numbers, more often than people expect, tell a story the excitement of the moment tends to hide. Sometimes the best outcome is the one where a buyer does **not** win the bidding war, because the price had crossed a line where the math no longer made sense.
 
 ## How Bidding Wars Actually Start
 
 The common belief is that bidding wars happen because too many people want the same house. That's partially true. But here's what's really happening in many cases: **some sellers and their brokers deliberately underprice a property** to generate a rush of offers and push the final price above market value.
 
-I've seen listings priced 10-15% below comparable sales, not because the seller was generous, but because they wanted a bidding frenzy. The strategy works. Buyers see a great price, rush to visit, and then start competing against each other - sometimes paying more than they would have if the property had been listed at a realistic price from the start.
+Some listings are priced 10-15% below comparable sales, not because the seller is generous, but because they want a bidding frenzy. The strategy works. Buyers see a great price, rush to visit, and then start competing against each other - sometimes paying more than they would have if the property had been listed at a realistic price from the start.
 
 Understanding this tactic changes everything about how you should approach the process.
 
-## The Five Mistakes I See Buyers Make
+## The Five Most Common Buyer Mistakes
 
 **1. Removing the inspection condition to "win"**
 
-This is the one that keeps me up at night. In a hot market, buyers start removing conditions - particularly the inspection - to make their offer more attractive. I understand the logic. I've also seen what happens when a buyer discovers a $40,000 foundation problem two weeks after possession.
+This is the costliest of the five. In a hot market, buyers start removing conditions - particularly the inspection - to make their offer more attractive. The logic is understandable. It holds up far less well when a buyer discovers a $40,000 foundation problem two weeks after possession.
 
-My position is firm: never remove the inspection condition without a pre-offer inspection, meaning you hire an inspector *before* you submit your offer. If the seller won't allow a pre-offer inspection on an occupied home, that itself is a red flag worth discussing.
+The rule is simple: never remove the inspection condition without a pre-offer inspection, meaning you hire an inspector *before* you submit your offer. If the seller won't allow a pre-offer inspection on an occupied home, that itself is a red flag worth discussing.
 
 **2. Adding an escalation clause without a ceiling**
 
-Escalation clauses - "I'll beat any offer by $5,000" - seem clever. Without a clear ceiling, they're not. I once watched a buyer end up at $68,000 over their intended maximum because of an escalation clause with a high ceiling they hadn't truly thought through. Set your ceiling before you write the clause, and treat it as an absolute limit.
+Escalation clauses - "beat any offer by $5,000" - seem clever. Without a clear ceiling, they're not. A buyer can end up $68,000 over their intended maximum because of an escalation clause with a high ceiling they hadn't truly thought through. Set your ceiling before you write the clause, and treat it as an absolute limit.
 
 **3. Confusing winning with success**
 
-Winning a bidding war is not the same as making a good purchase. Success in real estate means buying a property that meets your needs at a price supported by real market data. I tell every client the same thing before we go into multiple offers: "We have a maximum. When we hit it, we walk. There will be another property."
+Winning a bidding war is not the same as making a good purchase. Success in real estate means buying a property that meets your needs at a price supported by real market data. The line to repeat before going into multiple offers: "There is a maximum. When it is reached, we walk. There will be another property."
 
 **4. Letting the timeline pressure you**
 
@@ -40,25 +40,25 @@ Sellers in multiple-offer situations often set very short offer review deadlines
 
 **5. Skipping comparables analysis**
 
-In a competitive moment, it's easy to say "I just want this house." My job is to make sure you also know what it's worth. Before any offer submission, I run a detailed comparables analysis so you know exactly where fair market value sits. Going $10,000 over asking on a $600,000 property might be smart if asking was $40,000 below market. It might be terrible if asking was already $30,000 above.
+In a competitive moment, it's easy to become convinced that this is the house and no other. Knowing what it's worth still matters. Before any offer submission, a detailed comparables analysis shows exactly where fair market value sits. Going $10,000 over asking on a $600,000 property might be smart if asking was $40,000 below market. It might be terrible if asking was already $30,000 above.
 
-## What I Actually Do for My Clients in Multiple Offers
+## What a Broker Should Actually Do in Multiple Offers
 
-When I represent a buyer in a competitive situation, here's my process:
+Here is the process to follow when a buyer is in a competitive situation:
 
-- I request full disclosure on whether other offers exist and how many
-- I build a comparables model the day of offer submission, not the day of the visit
-- I call the listing broker to understand seller priorities (sometimes it's not just price - closing date, flexibility on conditions, or personal connection matters)
-- I advise on the one or two conditions worth keeping and how to frame them professionally
-- I set a hard ceiling before we start, and I enforce it even when emotions run high
+- Request full disclosure on whether other offers exist and how many
+- Build a comparables model the day of offer submission, not the day of the visit
+- Call the listing broker to understand seller priorities (sometimes it's not just price: closing date, flexibility on conditions, or personal connection matters)
+- Identify the one or two conditions worth keeping and how to frame them professionally
+- Set a hard ceiling before starting, and enforce it even when emotions run high
 
-That last point is uncomfortable in the moment. I've had clients frustrated with me in the minutes after losing a bidding war. I've had those same clients call me three months later, grateful, because they're in a better property at a better price.
+That last point is uncomfortable in the moment. Buyers are often frustrated in the minutes after losing a bidding war. Three months later, many of those same buyers are grateful, because they ended up in a better property at a better price.
 
 ## When to Walk Away
 
-My rule of thumb: if winning requires paying more than 8-10% above your own comparables analysis, you need a very specific reason to proceed. Maybe the property has unique characteristics not captured in comparable sales. Maybe it's the last available lot in a school district. Maybe there's a personal reason that genuinely has value.
+The rule of thumb: if winning requires paying more than 8-10% above your own comparables analysis, you need a very specific reason to proceed. Maybe the property has unique characteristics not captured in comparable sales. Maybe it's the last available lot in a school district. Maybe there's a personal reason that genuinely has value.
 
-But "I just don't want to lose" is not a reason. That's fear talking. And fear is the most expensive emotion in real estate.
+But not wanting to lose is not a reason. That's fear talking. And fear is the most expensive emotion in real estate.
 
 ## The Montreal Market in 2025
 
@@ -70,4 +70,4 @@ The house you win by keeping your head will almost always be better than the one
 
 ---
 
-*Have a specific property you're considering? [Reach out](/\#contact) - I'll run the comparables and tell you exactly what it's worth before you submit a dollar.*
+*Have a specific property you're considering? [Request the comparables](/\#contact) and know exactly what it's worth before submitting a dollar.*

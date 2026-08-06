@@ -6,9 +6,9 @@ description: "The numbers on a Laval triplex don't just work; they work better t
 image: "images/articles/investir-triplex-laval-strategie/featured.jpg"
 ---
 
-I bought a triplex in Laval in 2022. Two years later, I can say with confidence that it is one of the best financial decisions I have made, not because the market was perfect, not because everything went exactly as planned, but because the fundamentals of the investment were sound.
+Buying a triplex in Laval in 2022 turned out, two years later, to be one of the best financial decisions available. Not because the market was perfect, not because everything went exactly as planned, but because the fundamentals of the investment were sound.
 
-This article explains those fundamentals. If you are considering your first income property, this is the framework I use.
+This article explains those fundamentals. If you are considering your first income property, this is the framework to use.
 
 ## The Calculation Most Investors Skip
 
@@ -39,7 +39,7 @@ The triplex hits a sweet spot that few other property types can match.
 
 **Financing:** Up to 4 units qualifies for residential financing. You can put as little as 5% down if you occupy one of the units. That means the same financing terms as a personal home: better rates, better conditions, and access to CMHC insurance.
 
-**Living situation:** Many investors start by living in one unit, letting the other two pay the majority of the mortgage. When I bought my triplex, my two tenants covered approximately 80% of my total carrying costs. I was essentially living almost for free while building equity.
+**Living situation:** Many investors start by living in one unit, letting the other two pay the majority of the mortgage. In a typical Laval triplex, two tenants cover approximately 80% of total carrying costs. The owner-occupant lives almost for free while building equity.
 
 **Simplicity:** A triplex is manageable for a first-time landlord. You are not running a 20-unit building. You are managing two or three tenant relationships, which is meaningful but not overwhelming.
 
@@ -60,7 +60,7 @@ The price differential between Laval and Montreal island means your entry point 
 
 ## The Cash Flow Reality in Greater Montreal
 
-I want to be honest about something that many real estate content creators gloss over: **immediate positive cash flow is rare in Montreal and Laval.**
+Here is something many real estate content creators gloss over: **immediate positive cash flow is rare in Montreal and Laval.**
 
 In markets where property prices are high relative to rents, you often end up in a slightly negative or cash-flow-neutral position, meaning you contribute $200 to $500 per month out of pocket after all expenses.
 
@@ -75,7 +75,7 @@ The full return on a Laval triplex over 10 years (when you account for appreciat
 
 ## The 8 Questions to Ask Before Making an Offer
 
-Before submitting an offer on any income property, I require answers to these eight questions:
+Before submitting an offer on any income property, require answers to these eight questions:
 
 1. What is the actual gross income, verified against signed leases?
 2. What are the real expenses from the past two years (receipts, not estimates)?
@@ -90,7 +90,7 @@ The answers to these questions determine whether an investment makes sense, or w
 
 ## The Long Game
 
-Here is my favourite way to think about a Laval triplex as a retirement strategy.
+Here is the soundest way to think about a Laval triplex as a retirement strategy.
 
 Buy a triplex at 40. Mortgage on 25 years. At 65, the mortgage is paid off, by your tenants.
 
@@ -102,4 +102,4 @@ The math takes time, but it works. The discipline to hold through market fluctua
 
 ---
 
-*Thinking about your first income property in Laval or the greater Montreal area? I analyze plex investments regularly and would be happy to walk through the numbers with you. [Contact me](/#contact).*
+*Thinking about your first income property in Laval or the greater Montreal area? [Get in touch](/#contact) to have the numbers reviewed.*

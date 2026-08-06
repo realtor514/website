@@ -37,11 +37,11 @@ La mayoría de los compradores primerizos van directamente a su banco. Esto es l
 
 Un corredor hipotecario tiene acceso a 20 o 30 prestamistas: bancos, cooperativas de crédito y prestamistas alternativos. Comparan en su nombre y encuentran la tasa y condiciones más competitivas disponibles para su perfil. Sus honorarios generalmente los paga el prestamista, no usted.
 
-Mi consejo: comience con un corredor hipotecario. Obtenga la mejor oferta disponible. Luego lleve esa oferta a su propio banco y pídale que la supere. Casi siempre obtendrá un mejor resultado que si se hubiera quedado exclusivamente con su banco.
+El procedimiento: comience con un corredor hipotecario. Obtenga la mejor oferta disponible. Luego lleve esa oferta a su propio banco y pídale que la supere. Casi siempre obtendrá un mejor resultado que si se hubiera quedado exclusivamente con su banco.
 
 ## Tasa Fija vs. Variable: La Decisión que Depende de Usted
 
-Esta es la pregunta que me hacen con más frecuencia, y mi respuesta siempre es la misma: **no hay una respuesta universalmente correcta**.
+Es la pregunta más frecuente, y la respuesta siempre es la misma: **no hay una respuesta universalmente correcta**.
 
 **Tasa fija:** Sabe exactamente lo que paga durante todo el plazo. Paga una pequeña prima por esa certeza. Si las tasas bajan, no se beneficia. Si las tasas suben, está protegido.
 

@@ -48,4 +48,4 @@ Changez les serrures. Localisez la vanne d'arrêt d'eau principale, le panneau �
 
 ---
 
-*Des questions à n'importe quelle étape de votre achat ? [Je suis là tout au long du processus](/fr/#contact).*
+*Des questions à n'importe quelle étape de votre achat ? [Prenez contact](/fr/#contact).*

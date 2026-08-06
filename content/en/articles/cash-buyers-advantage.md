@@ -6,7 +6,7 @@ description: "Cash offers have a real advantage in competitive situations. But t
 image: "images/articles/cash-buyers-advantage/featured.jpg"
 ---
 
-Cash buyers have a genuine advantage in real estate transactions. I want to be precise about what that advantage is, how large it actually is, and what buyers who need financing can do to close the gap.
+Cash buyers have a genuine advantage in real estate transactions. It is worth being precise about what that advantage is, how large it actually is, and what buyers who need financing can do to close the gap.
 
 ## What a Cash Offer Actually Provides
 
@@ -20,7 +20,7 @@ A cash buyer removes this uncertainty entirely. The deal is certain the moment t
 
 The advantage is real but situational. In a market with many competing offers, certainty of closing is genuinely valuable and sellers may accept a lower cash offer over a higher financed one. In a slow market where the seller is happy to have one serious buyer, the cash advantage narrows significantly because the financing condition is not competing against other offers.
 
-The premium sellers assign to cash varies, but in my observation, a cash offer that is 1-3% below an otherwise equivalent financed offer will often win in competitive conditions. Beyond that spread, most sellers will take the higher financed offer and accept the financing condition risk.
+The premium sellers assign to cash varies, but in practice a cash offer that is 1-3% below an otherwise equivalent financed offer will often win in competitive conditions. Beyond that spread, most sellers will take the higher financed offer and accept the financing condition risk.
 
 ## What Financed Buyers Can Do to Compete
 
@@ -28,7 +28,7 @@ The premium sellers assign to cash varies, but in my observation, a cash offer t
 
 **Shorten the financing condition period.** Standard financing conditions in Quebec run 5-7 business days. A buyer with a well-prepared file and a responsive mortgage broker can often satisfy a financing condition in 3-4 business days. Offering a shorter condition period reduces the seller's uncertainty exposure.
 
-**Remove the financing condition entirely if you are truly certain.** This is an extreme step and I recommend it only in specific circumstances where the buyer has had direct communication from their lender that approval is virtually guaranteed and the downside risk is manageable. This removes you from the protection of the condition and should not be done casually.
+**Remove the financing condition entirely if you are truly certain.** This is an extreme step, defensible only in specific circumstances where the buyer has had direct communication from their lender that approval is virtually guaranteed and the downside risk is manageable. This removes you from the protection of the condition and should not be done casually.
 
 **Use an escalation clause thoughtfully.** If you know a property is likely to attract cash offers, structuring your offer to automatically beat competing offers by a specific amount can result in a financed offer winning over a cash offer that came in lower.
 
@@ -36,7 +36,7 @@ The premium sellers assign to cash varies, but in my observation, a cash offer t
 
 ## The Cash Buyer's Blind Spot
 
-One thing I have observed: buyers who pay cash sometimes skip the inspection because "they have no conditions to negotiate from." This is a strategic error. The absence of a financing condition does not make the inspection condition unnecessary. It means you should get the inspection done as a pre-offer inspection, before you submit, rather than as a post-offer condition.
+One pattern worth noting: buyers who pay cash sometimes skip the inspection because "they have no conditions to negotiate from." This is a strategic error. The absence of a financing condition does not make the inspection condition unnecessary. It means you should get the inspection done as a pre-offer inspection, before you submit, rather than as a post-offer condition.
 
 Never buy a property of significant value without some form of professional building assessment, regardless of how you are paying for it.
 

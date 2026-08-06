@@ -41,7 +41,7 @@ A buyer who tours a kitchen you just renovated with $45,000 of custom cabinetry,
 
 If budget is limited before a sale, staging almost always returns better than renovation. Staging is temporary, costs significantly less, and addresses the buyer's emotional response rather than permanently altering the property's condition.
 
-My standard recommendation for sellers approaching a listing: invest in staging, photography, neutral paint where needed, and visible minor repairs. Defer or skip major renovations unless they are necessary to make the property lendable or are genuinely transformative in a market that rewards transformation.
+The standard recommendation for sellers approaching a listing: invest in staging, photography, neutral paint where needed, and visible minor repairs. Defer or skip major renovations unless they are necessary to make the property lendable or are genuinely transformative in a market that rewards transformation.
 
 The goal before a sale is to present what exists as compellingly as possible, not to become the property's next owner.
 

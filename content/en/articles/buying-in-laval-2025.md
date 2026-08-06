@@ -22,7 +22,7 @@ These neighbourhoods offer excellent value: good schools, easy highway access (4
 
 ## 4. Always Get a Pre-Purchase Inspection
 
-In a competitive market, some buyers skip inspections to win bidding wars. I strongly advise against this. A few hundred dollars on an inspection can save you tens of thousands in surprises after closing.
+In a competitive market, some buyers skip inspections to win bidding wars. This is strongly discouraged. A few hundred dollars on an inspection can save you tens of thousands in surprises after closing.
 
 ## 5. Work With a Local Expert
 
@@ -30,4 +30,4 @@ The nuances of the Laval market (school catchment zones, flood plain maps, munic
 
 ---
 
-*Have questions about buying in Laval? [Contact me](/#contact). I'm happy to talk through your situation with no obligation.*
+*Have questions about buying in Laval? [Get in touch](/#contact) to talk through your situation, with no obligation.*

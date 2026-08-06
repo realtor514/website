@@ -6,9 +6,9 @@ description: "Everyone focuses on the island. The data has been quietly pointing
 image: "images/articles/laval-investment-city/featured.jpg"
 ---
 
-I bought my own triplex in Laval. That fact tells you something about where I put my money when I'm making personal real estate decisions.
+Laval is one of the few sectors in Greater Montreal where the numbers on an income property still hold up.
 
-Here's the case I make for Laval to investors who are fixated on the Montreal island - and it's an argument built on numbers, not sentiment.
+Here's the case for Laval against a fixation on the Montreal island, built on numbers rather than sentiment.
 
 ## The Price-Per-Square-Foot Advantage
 
@@ -32,9 +32,9 @@ Autoroute 440, 13, 15, 19, and 25 all serve Laval, giving it transportation acce
 
 Laval has strong French-language public schools, several well-regarded private institutions, and Université Laval's campus presence. For families - who make up a significant portion of rental and purchase demand - educational infrastructure matters enormously.
 
-When I do analysis for clients considering income properties in Laval's family-oriented sectors, the school quality in the catchment area is one of the variables I weight explicitly. It drives both rental demand and resale value.
+In any analysis of income properties in Laval's family-oriented sectors, school quality in the catchment area deserves explicit weight. It drives both rental demand and resale value.
 
-## My Favorite Sectors Right Now
+## The Most Interesting Sectors Right Now
 
 **Duvernay:** Large lots, established trees, good school options, close to commercial corridors. The property stock here is aging but often structurally solid. The renovation potential is real.
 
@@ -52,4 +52,4 @@ But for investors focused on cash flow, appreciation potential, and long-term de
 
 ---
 
-*Interested in a specific Laval income property analysis? [Reach out](/\#contact) - this is territory I know well.*
+*Interested in a specific Laval income property analysis? [Reach out](/\#contact).*

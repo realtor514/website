@@ -71,4 +71,4 @@ If your gut says yes and your notes identify significant concerns, discuss those
 
 ---
 
-*Want to visit a property together so I can show you exactly what I look for? [Let's set it up](/\#contact).*
+*Want to visit a property with a broker who knows exactly what to look for? [Set it up here](/\#contact).*

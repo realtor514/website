@@ -27,9 +27,9 @@ Compensación: enfrentará la mayor competencia de otros vendedores. Si su propi
 
 **Otoño (septiembre-octubre): La ventana subestimada**
 
-Esta es mi temporada de venta personal favorita para las propiedades adecuadas. La demanda de los compradores sigue siendo fuerte después del verano, pero muchos vendedores ya listaron en primavera y retiraron sus casas del mercado. El inventario es típicamente menor, lo que significa menos competencia directa para su listado.
+Es la mejor temporada de venta para las propiedades adecuadas. La demanda de los compradores sigue siendo fuerte después del verano, pero muchos vendedores ya listaron en primavera y retiraron sus casas del mercado. El inventario es típicamente menor, lo que significa menos competencia directa para su listado.
 
-Los compradores de otoño también son, en mi observación, más motivados y más decididos. El verano terminó. Quieren estar instalados antes del invierno. Una propiedad bien valorada en octubre puede venderse más rápido y a un precio más fuerte que la propiedad idéntica listada en abril cuando competiría contra diez casas similares.
+Los compradores de otoño también suelen ser más motivados y más decididos. El verano terminó. Quieren estar instalados antes del invierno. Una propiedad bien valorada en octubre puede venderse más rápido y a un precio más fuerte que la propiedad idéntica listada en abril cuando competiría contra diez casas similares.
 
 **Invierno (diciembre-febrero): Grupo más pequeño, compradores serios**
 
@@ -47,9 +47,9 @@ El momento importa menos que la condición y el precio. Una propiedad bien prepa
 
 Las variables que usted controla: preparación, precio, fotografía, acceso para visitas, tienen un mayor impacto en su resultado que la fecha del calendario que elija para listar.
 
-## Mi Recomendación Honesta sobre el Momento
+## Lo que Hay que Retener sobre el Momento
 
-Si tiene flexibilidad en el momento, aquí está mi jerarquía:
+Si tiene flexibilidad en el momento, este es el orden de preferencia:
 
 1. **Octubre** - demanda fuerte, menos competencia, compradores motivados
 2. **Marzo-abril** - alta actividad de compradores, solo tenga en cuenta la competencia

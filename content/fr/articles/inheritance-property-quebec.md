@@ -32,4 +32,4 @@ Ne vous précipitez pas. Obtenez une évaluation indépendante. Comprenez les ob
 
 ---
 
-*Vous gérez une situation de propriété héritée ? [Contactez-moi pour une consultation confidentielle](/fr/#contact).*
+*Vous gérez une situation de propriété héritée ? [Demandez une consultation confidentielle](/fr/#contact).*

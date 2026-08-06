@@ -6,7 +6,7 @@ description: "Not all Montreal neighbourhoods are equal investments. Here is an 
 image: "images/articles/best-neighborhoods-montreal/featured.jpg"
 ---
 
-The question "where should I buy in Montreal?" has no answer until another one is settled: what are you trying to optimize?
+The question "where to buy in Montreal?" has no answer until another one is settled: what are you trying to optimize?
 
 The best neighbourhood for a first-time buyer building equity is not the best neighbourhood for an investor seeking rental yield. Here is the analysis by objective.
 
@@ -52,4 +52,4 @@ It is probably the most undervalued variable in the current market.
 
 ---
 
-*Want a specific analysis of a neighbourhood or a property? [Contact me](/en/#contact) and I will run the study.*
+*Want a specific analysis of a neighbourhood or a property? [Request the study](/en/#contact).*

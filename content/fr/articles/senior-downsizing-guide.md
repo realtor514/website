@@ -23,7 +23,7 @@ Beaucoup de ceux qui réduisent la taille passent aux condominiums pour la charg
 
 ## La dimension émotionnelle
 
-Je veux reconnaître quelque chose que les guides purement financiers omettent : le poids émotionnel de vendre une maison détenue longtemps est réel et significatif. Donnez-vous la permission de prendre le temps dont vous avez besoin.
+Il y a une chose que les guides purement financiers omettent : le poids émotionnel de vendre une maison détenue longtemps est réel et significatif. Donnez-vous la permission de prendre le temps dont vous avez besoin.
 
 ---
 

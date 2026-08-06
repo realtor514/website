@@ -30,4 +30,4 @@ Connaissez votre cible clairement. Un acheteur qui peut articuler précisément 
 
 ---
 
-*Vous cherchez des opportunités hors marché spécifiques ? [Parlons de vos critères](/fr/#contact) et je travaillerai mon réseau pour vous.*
+*Vous cherchez des opportunités hors marché ? [Transmettez vos critères](/fr/#contact) et le réseau sera mis à contribution.*

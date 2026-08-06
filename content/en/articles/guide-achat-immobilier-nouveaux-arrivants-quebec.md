@@ -7,9 +7,9 @@ image: "images/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/feature
 draft: false
 ---
 
-I came from Lebanon to do my doctorate in Montreal. The Quebec real estate system was completely foreign to me: the mortgage structure, the legal framework, the tax implications, the cultural norms around negotiation. I had to learn it all from scratch.
+For anyone arriving from abroad, the Quebec real estate system is completely opaque: the mortgage structure, the legal framework, the tax implications, the cultural norms around negotiation. All of it has to be learned from scratch.
 
-That experience is part of why I wrote this guide. If you are a newcomer to Quebec (whether from the Arab world, from francophone Africa, from South America, or anywhere else), this is the information I wish I had when I arrived.
+That is the reason for this guide. If you are a newcomer to Quebec (whether from the Arab world, from francophone Africa, from South America, or anywhere else), this is the information worth having on arrival.
 
 ## Who Can Buy Property in Quebec?
 
@@ -90,13 +90,13 @@ Some municipalities offer partial rebates for first-time buyers. Check with your
 
 In Quebec, buyers have the right to include an inspection condition in their offer to purchase. This means a licensed inspector examines the property (roof, foundation, plumbing, electrical, insulation, windows) and provides a detailed written report.
 
-**Never purchase a property without this inspection.** Even in competitive markets where some buyers waive conditions to win bidding wars, I strongly advise against waiving the inspection.
+**Never purchase a property without this inspection.** Even in competitive markets where some buyers waive conditions to win bidding wars, waiving the inspection is strongly discouraged.
 
 A building inspection costs $500 to $900. It has saved clients from discovering $80,000+ in hidden problems after closing. The cost-to-risk ratio is entirely in favour of always doing the inspection.
 
 ## A Step-by-Step Path for Newcomers
 
-If I were advising a newcomer who arrived today and wanted to own property in Quebec, here is the roadmap I would give:
+For a newcomer who wants to own property in Quebec, here is the roadmap to follow:
 
 **Year 1:**
 - Open a Canadian bank account immediately
@@ -124,10 +124,10 @@ This may be the most practical piece of advice in this guide: choose a broker wh
 
 The Quebec real estate process involves dozens of conversations, documents, and decisions. Being able to ask questions and receive explanations in your native language is not a luxury. It is a condition for making fully informed decisions.
 
-I work in French, English, and Arabic. I understand the cultural context of real estate decision-making in Arab families: the role of extended family, the importance of privacy, the preference for long-term stability over short-term speculation, the significance of owning something that is truly yours.
+Service is available in French, English, and Arabic, with attention to the cultural context of real estate decision-making in Arab families: the role of extended family, the importance of privacy, the preference for long-term stability over short-term speculation, the significance of owning something that is truly your own.
 
 Those values align well with what Quebec real estate, done right, can offer.
 
 ---
 
-*Are you a newcomer navigating the Quebec real estate market? I am happy to have a conversation in whatever language works best for you. [Contact me](/#contact) and let's start from where you are.*
+*Are you a newcomer navigating the Quebec real estate market? The conversation can happen in whatever language works best for you. [Get in touch](/#contact).*

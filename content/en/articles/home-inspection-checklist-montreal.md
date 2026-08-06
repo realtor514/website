@@ -6,9 +6,9 @@ description: "Most buyers follow the inspector around and nod. Here's how to act
 image: "images/articles/home-inspection-checklist-montreal/featured.jpg"
 ---
 
-I look at buildings differently than most buyers do. I can read a plumbing configuration and understand what the original installation decisions say about the era and budget of the builder. I can look at an electrical panel and know immediately whether it's a problem. I notice foundation crack patterns that a hurried inspection can miss.
+A trained eye reads a building differently than most buyers do. A plumbing configuration says a great deal about the era and budget of the builder. An electrical panel can be assessed in seconds. Foundation crack patterns that a hurried inspection would miss stand out.
 
-I'm not a licensed building inspector and I'm not replacing one. But I can help you understand what to look for alongside your inspector - and more importantly, how to distinguish between the issues that are expensive problems and the ones that are just cosmetic noise.
+None of this replaces a licensed building inspector. But knowing what to look for alongside the inspector helps, and more importantly, it helps distinguish between the issues that are expensive problems and the ones that are just cosmetic noise.
 
 ## Before the Inspection Starts
 
@@ -50,7 +50,7 @@ Forced-air furnaces, hot water boilers, and electric baseboard systems all have 
 - **Small cosmetic cracks in drywall:** Almost always settlement, not structural.
 - **Older windows:** Functional, just inefficient. The cost of replacement is real but not urgent.
 
-## My Recommendation for Buyers in Competitive Markets
+## What Buyers Should Do in Competitive Markets
 
 If the market conditions require removing the inspection condition to compete, negotiate a pre-offer inspection instead - conducted before you submit your offer. This costs you the inspection fee ($500-$900) even if you don't buy the property, but it protects you from inheriting an expensive problem without warning.
 
@@ -58,4 +58,4 @@ Never, under any circumstances, buy a property in Quebec without some form of pr
 
 ---
 
-*Have questions about what you saw in an inspection report? [Get in touch](/\#contact) - I'm happy to help you interpret what it means.*
+*Have questions about what you saw in an inspection report? [Get in touch](/\#contact) for help interpreting it.*

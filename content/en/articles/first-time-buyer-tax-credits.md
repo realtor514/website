@@ -6,7 +6,7 @@ description: "Between federal and provincial programs, first-time buyers in Queb
 image: "images/articles/first-time-buyer-tax-credits/featured.jpg"
 ---
 
-One of the conversations I consistently have with first-time buyer clients is about the financial programs they qualify for and haven't looked into. I approach these systematically - and the systematic view shows a surprising amount of available benefit that buyers leave unclaimed.
+One subject that comes up constantly with first-time buyers is the financial programs they qualify for and haven't looked into. Approached systematically, they add up to a surprising amount of available benefit that buyers leave unclaimed.
 
 Here's the complete breakdown.
 
@@ -64,10 +64,10 @@ A first-time buyer couple in Quebec who:
 
 ...can receive significant financial leverage and tax efficiency that makes the purchase considerably more accessible than if they'd simply saved in a regular bank account.
 
-## My Honest Caveat
+## One Caveat
 
-Tax rules change. Program availability changes. This article reflects the programs as I understand them, but you should always verify the current terms with a qualified tax professional or your financial institution before making decisions based on them. My role is to make sure you know these programs exist - your accountant's role is to tell you exactly how they apply to your specific situation.
+Tax rules change. Program availability changes. This article reflects the programs as they stand at the time of writing, but you should always verify the current terms with a qualified tax professional or your financial institution before making decisions based on them. The purpose here is to make sure you know these programs exist - your accountant's role is to tell you exactly how they apply to your specific situation.
 
 ---
 
-*Have questions about the financial side of your first purchase? [Let's talk](/\#contact) - I'll connect you with the right professionals to make sure you capture everything you're entitled to.*
+*Have questions about the financial side of your first purchase? [Get in touch](/\#contact) to be connected with the right professionals and capture everything you're entitled to.*

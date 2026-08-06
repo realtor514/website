@@ -58,4 +58,4 @@ Budget conservatively: $4,000-$8,000 annually for property taxes on a $500,000-$
 
 ---
 
-*Want a precise tax calculation for a property you're considering? [Reach out](/\#contact) and I'll run the numbers with you.*
+*Want a precise tax calculation for a property you're considering? [Reach out](/\#contact) to have the numbers run.*

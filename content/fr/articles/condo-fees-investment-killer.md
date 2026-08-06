@@ -41,4 +41,4 @@ Un immeuble bien géré avec un fonds de prévoyance sain et des frais qui refl�
 
 ---
 
-*Vous regardez un condo spécifique ? [Contactez-moi](/fr/#contact) et je vous aiderai à analyser les finances de l'immeuble avant de vous engager.*
+*Vous regardez un condo spécifique ? [Demandez une analyse des finances de l'immeuble](/fr/#contact) avant de vous engager.*

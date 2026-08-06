@@ -24,13 +24,13 @@ The conditions matter enormously. A pre-approval is subject to the property you 
 
 Banks and credit unions have different risk tolerances, different products, and different interpretations of your financial profile. What one lender rates at 6.2% another might offer at 5.9%. A mortgage broker can shop your profile across multiple lenders simultaneously - that's their entire job, and it typically costs you nothing because lenders pay broker commissions.
 
-My advice: always work with a mortgage broker you trust, not just your personal bank.
+The advice: always work with a mortgage broker you trust, not just your personal bank.
 
 **2. Treating the pre-approved amount as your budget**
 
 If you're pre-approved for $650,000, that doesn't mean you should buy a $650,000 property. It means the bank thinks you *can* service that debt. Whether you *should* is a separate question entirely, one that requires a full budget analysis including property taxes, condo fees (if applicable), maintenance reserves, and your own life goals.
 
-I've seen buyers max out their pre-approval and then feel trapped in their home because they have no financial flexibility left. The pre-approval ceiling is a legal limit, not a target.
+Buyers who max out their pre-approval often end up feeling trapped in their home because they have no financial flexibility left. The pre-approval ceiling is a legal limit, not a target.
 
 **3. Making major financial changes after pre-approval**
 
@@ -64,4 +64,4 @@ A pre-approval is a useful tool. A mortgage broker who knows your full situation
 
 ---
 
-*Want to be connected to a mortgage professional I trust? [Reach out](/\#contact) and I'll make the introduction.*
+*Want to be connected to a trusted mortgage professional? [Reach out](/\#contact) for an introduction.*

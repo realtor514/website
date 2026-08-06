@@ -16,7 +16,7 @@ Your personal bank offers you one set of products at one set of rates. A mortgag
 
 Mortgage brokers in Canada are paid by lenders, not by borrowers, so their service costs you nothing directly. The argument for using only your personal bank is convenience and the relationship you already have. The argument for using a mortgage broker is that they can generally find you a lower rate and that the relationship between a bank and a borrower is primarily transactional anyway.
 
-My recommendation: get quotes from both your bank and a mortgage broker, then make a decision based on actual numbers.
+The right approach: get quotes from both your bank and a mortgage broker, then make a decision based on actual numbers.
 
 ## What Determines Your Rate
 
@@ -64,4 +64,4 @@ The lowest rate is not always the best mortgage. Check:
 
 ---
 
-*Want to be connected to a mortgage broker I trust and have worked with? [Reach out](/\#contact) and I will make the introduction.*
+*Want to be connected to a trusted mortgage broker? [Reach out](/\#contact) for an introduction.*

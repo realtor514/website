@@ -2,13 +2,13 @@
 title: "How to Build a Real Estate Portfolio in Greater Montreal Starting From Zero"
 date: 2025-05-19
 category: "Investment"
-description: "Real estate wealth is not built through one brilliant transaction. It is built through a systematic approach to acquisition, financing, and management over time. Here is the framework I use."
+description: "Real estate wealth is not built through one brilliant transaction. It is built through a systematic approach to acquisition, financing, and management over time. Here is the framework that works."
 image: "images/articles/build-real-estate-portfolio/featured.jpg"
 ---
 
-The question I get from serious investors is not "which property should I buy?" It is "how do I build a portfolio that generates meaningful wealth over ten to twenty years?" Those are very different questions, and the second one is far more interesting.
+The question serious investors ask is not "which property to buy?" It is "how to build a portfolio that generates meaningful wealth over ten to twenty years?" Those are very different questions, and the second one is far more interesting.
 
-Here is the framework I think about when working with clients on long-term portfolio strategy.
+Here is the framework to use for long-term portfolio strategy.
 
 ## Start With One Property Done Well
 
@@ -28,13 +28,13 @@ The key is maintaining adequate cash flow at each step. Negative cash flow prope
 
 In Greater Montreal, property values have historically appreciated meaningfully. This means investors face a genuine trade-off: some properties offer strong cash flow but modest appreciation prospects, while others offer excellent appreciation trajectories but thinner immediate returns.
 
-My preference, and what I recommend to most clients, is properties where the cash flow is at least neutral after all expenses (mortgage, taxes, insurance, maintenance reserve, vacancy allowance). I model a 5% vacancy rate even in tight markets, because vacancy is certain to occur at some point, and models that assume full occupancy always are not models, they are optimism.
+The criterion to hold to is properties where the cash flow is at least neutral after all expenses (mortgage, taxes, insurance, maintenance reserve, vacancy allowance). A 5% vacancy rate should be modelled even in tight markets, because vacancy is certain to occur at some point, and models that assume full occupancy always are not models, they are optimism.
 
 If a property cash flows positively at a 5% vacancy rate, the appreciation is bonus. If it requires full occupancy to avoid negative cash flow, you are dependent on market conditions for basic financial sustainability.
 
-## The Sectors I Watch for Portfolio Building
+## The Sectors to Watch for Portfolio Building
 
-In Greater Montreal, the property types and sectors that consistently meet my criteria:
+In Greater Montreal, the property types and sectors that consistently meet these criteria:
 
 **Laval triplexes:** Strong rental demand, family-oriented neighborhoods with low vacancy, price points that still allow positive cash flow with reasonable financing terms.
 
@@ -44,7 +44,7 @@ In Greater Montreal, the property types and sectors that consistently meet my cr
 
 ## The Discipline That Separates Successful Portfolio Builders
 
-Every investor I have seen build meaningful real estate wealth over time has shared one characteristic: they run the numbers before every decision, and they walk away from properties where the numbers don't work, regardless of how much they like the property.
+Every investor who builds meaningful real estate wealth over time shares one characteristic: they run the numbers before every decision, and they walk away from properties where the numbers don't work, regardless of how much they like the property.
 
 Emotional attachment to a specific asset is the enemy of portfolio performance. The portfolio mindset treats each property as a financial instrument, not a personal project.
 

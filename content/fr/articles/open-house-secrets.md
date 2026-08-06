@@ -32,4 +32,4 @@ Regardez la vue satellite. Vérifiez la proximité des autoroutes, zones commerc
 
 ---
 
-*Vous voulez visiter une propriété ensemble pour que je vous montre ce que je cherche ? [Contactez-moi](/fr/#contact).*
+*Vous voulez visiter une propriété accompagné d'un courtier ? [Prenez contact](/fr/#contact).*

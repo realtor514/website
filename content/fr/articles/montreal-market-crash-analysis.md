@@ -26,9 +26,9 @@ Croissance de la population alimentée par l'immigration générant une demande 
 
 Une hausse brusque et soutenue du chômage dans les secteurs clés de Montréal. Des taux d'intérêt élevés prolongés comprimant sévèrement l'accessibilité. Un changement de politique augmentant l'offre de logements plus rapidement que la demande.
 
-## Ma position honnête
+## Une lecture honnête
 
-Je ne crois pas qu'un effondrement de 30-40 % dans le marché résidentiel de Montréal soit probable à moyen terme. Des périodes de stagnation des prix ou de correction modérée sont normales dans tout cycle de marché.
+Un effondrement de 30-40 % dans le marché résidentiel de Montréal n'apparaît pas probable à moyen terme. Des périodes de stagnation des prix ou de correction modérée sont normales dans tout cycle de marché.
 
 ---
 

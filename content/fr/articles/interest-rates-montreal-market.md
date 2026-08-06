@@ -24,7 +24,7 @@ Les taux fixes offrent la certitude. Les taux variables ont historiquement été
 
 Au Canada, vous êtes qualifié non pas à votre taux réel mais au plus élevé entre votre taux réel + 2 % ou le plancher réglementaire. Si votre taux est de 5 %, vous êtes qualifié à 7 %. C'est la protection que le test de résistance fournit.
 
-## Mon conseil stratégique
+## Le conseil stratégique
 
 Arrêtez d'essayer de synchroniser le cycle des taux. Achetez quand la propriété est la bonne, le prix est soutenu par les données et les chiffres fonctionnent au taux actuel. Si les taux baissent après votre achat, vous pouvez refinancer.
 
