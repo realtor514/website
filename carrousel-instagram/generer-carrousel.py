@@ -91,8 +91,12 @@ def para(draw, xy, s, font, fill, maxw, leading, align="l"):
 
 # ---------------------------------------------------------------- images
 def cover(path, w, h, fy=0.5):
-    """Recadre en remplissant la boite. fy = centre d interet vertical."""
-    im = Image.open(path).convert("RGB")
+    """Recadre en remplissant la boite. fy = centre d interet vertical.
+
+    Accepte un chemin ou une image deja ouverte.
+    """
+    im = path if isinstance(path, Image.Image) else Image.open(path)
+    im = im.convert("RGB")
     r = max(w / im.width, h / im.height)
     im = im.resize((max(w, int(im.width * r + .5)), max(h, int(im.height * r + .5))),
                    Image.LANCZOS)
@@ -134,6 +138,41 @@ def circle_photo(canvas, path, xy, size, fy=0.0):
     shadow(canvas, (xy[0], xy[1], xy[0] + size, xy[1] + size), size // 2,
            blur=20, alpha=44)
     canvas.alpha_composite(im, xy)
+
+
+def studio_portrait(png, size=1200, head_top=0.08, zoom=1.14):
+    """Pose un portrait detoure sur un fond studio blanc vers gris.
+
+    Reproduit le fond de la photo de Rovena: mur clair, legerement plus
+    fonce vers le bas et les coins, avec une ombre douce derriere le sujet.
+    """
+    bg = Image.new("RGB", (size, size), (243, 244, 246))
+    px = bg.load()
+    cx, cy = size * 0.5, size * 0.34          # coeur lumineux derriere la tete
+    rmax = (size ** 2 * 2) ** 0.5
+    for y in range(size):
+        for x in range(0, size, 4):           # 1 colonne sur 4, lisse ensuite
+            t = min(1.0, (((x - cx) ** 2 + (y - cy) ** 2) ** 0.5) / (rmax * 0.62))
+            v = tuple(int(a + (b - a) * t) for a, b in
+                      ((246, 209), (247, 209), (249, 211)))
+            for k in range(4):
+                if x + k < size:
+                    px[x + k, y] = v
+    bg = bg.filter(ImageFilter.GaussianBlur(6))
+
+    im = Image.open(png)
+    im = im.crop(im.getchannel("A").getbbox())
+    h = int(size * zoom)
+    w = int(im.width * h / im.height)
+    im = im.resize((w, h), Image.LANCZOS)
+    x0, y0 = (size - w) // 2, int(size * head_top)
+
+    sh = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    sh.paste((176, 176, 180, 150), (x0 + int(size * 0.035), y0 + 10), im)
+    bg = bg.convert("RGBA")
+    bg.alpha_composite(sh.filter(ImageFilter.GaussianBlur(size // 26)))
+    bg.alpha_composite(im, (x0, y0))
+    return bg.convert("RGB")
 
 
 def gradient(canvas, y0, y1, alpha=225, top=False):
@@ -341,7 +380,7 @@ def slide2():
 # ================================================================ SLIDE 3
 def slide3():
     c = base()
-    photo(c, "10.jpg", (0, 0, W, 700), r=0, shad=False)
+    photo(c, "5.png", (0, 0, W, 700), r=0, shad=False, folder=SOURCES)
     d = ImageDraw.Draw(c)
 
     y = 756
@@ -412,7 +451,7 @@ def slide6():
     """Photo de rue professionnelle. Les photos de la pancarte prise au
     telephone restent dans sources/ mais ne vont pas dans le carrousel."""
     c = base()
-    photo(c, "05.jpg", (0, 0, W, 700), r=0, shad=False)
+    photo(c, "6.png", (0, 0, W, 700), r=0, shad=False, folder=SOURCES)
     d = ImageDraw.Draw(c)
 
     y = 756
@@ -465,8 +504,9 @@ def slide8():
     x0 = (W - (2 * s + gap)) // 2
     circle_photo(c, os.path.join(SOURCES, "rovena-pistoli.jpg"), (x0, 86), s,
                  fy=0.0)
-    circle_photo(c, os.path.join(ASSETS, "georges-matar.png"),
-                 (x0 + s + gap, 86), s)
+    circle_photo(c, studio_portrait(os.path.join(SOURCES,
+                                                 "georges-matar-decoupe.png")),
+                 (x0 + s + gap, 86), s, fy=0.0)
 
     for cx, nom, titre in [
             (x0 + s // 2, "ROVENA PISTOLI",
