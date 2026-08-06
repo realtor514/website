@@ -208,11 +208,11 @@
         <h3 style="color:#fff;margin-bottom:20px;font-size:1.1rem;">{{ if $isFr }}Ce que vous obtenez avec moi{{ else if $isAr }}ما تحصل عليه معي{{ else }}What You Get With Me{{ end }}</h3>
         {{ $items := slice }}
         {{ if $isFr }}
-          {{ $items = slice "Evaluation gratuite et sans pression" "Strategie de prix fondee sur les donnees" "Photos et visite virtuelle professionnelles" "Diffusion sur tous les portails immobiliers" "Negociation rigoureuse en votre faveur" "Accompagnement complet jusqu'a la cle" }}
+          {{ $items = slice "Evaluation gratuite" "Strategie de prix fondee sur les donnees" "Photos et visite virtuelle professionnelles" "Diffusion sur tous les portails immobiliers" "Negociation rigoureuse en votre faveur" "Accompagnement complet jusqu'a la cle" }}
         {{ else if $isAr }}
-          {{ $items = slice "تقييم مجاني وبدون ضغط" "استراتيجية تسعير قائمة على البيانات" "صور وجولة افتراضية احترافية" "نشر على جميع البوابات العقارية" "تفاوض صارم لصالحك" "مرافقة كاملة حتى نقل الملكية" }}
+          {{ $items = slice "تقييم مجاني" "استراتيجية تسعير قائمة على البيانات" "صور وجولة افتراضية احترافية" "نشر على جميع البوابات العقارية" "تفاوض صارم لصالحك" "مرافقة كاملة حتى نقل الملكية" }}
         {{ else }}
-          {{ $items = slice "Free, no-pressure evaluation" "Data-driven pricing strategy" "Professional photos and virtual tour" "Listed on all real estate portals" "Rigorous negotiation in your favour" "Full support through to closing" }}
+          {{ $items = slice "Free evaluation" "Data-driven pricing strategy" "Professional photos and virtual tour" "Listed on all real estate portals" "Rigorous negotiation in your favour" "Full support through to closing" }}
         {{ end }}
         {{ range $items }}
         <div style="display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid rgba(255,255,255,.07);">

@@ -19,7 +19,7 @@ Beaucoup de ceux qui réduisent la taille passent aux condominiums pour la charg
 ## La décision vendre d'abord vs acheter d'abord
 
 **Vendre d'abord** offre la certitude sur votre capital mais crée un écart entre votre vente et la disponibilité de votre prochaine maison.
-**Acheter d'abord** vous permet de trouver le remplacement idéal sans pression de temps, mais crée une exposition financière si votre maison actuelle prend plus longtemps à se vendre.
+**Acheter d'abord** vous laisse le temps de trouver le remplacement idéal, mais crée une exposition financière si votre maison actuelle prend plus longtemps à se vendre.
 
 ## La dimension émotionnelle
 

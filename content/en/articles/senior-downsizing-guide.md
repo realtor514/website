@@ -30,7 +30,7 @@ Downsizers face a sequencing decision: sell the current home first and then buy,
 
 **Selling first** provides certainty about your capital but creates a gap between your sale and your next home's availability. You may need bridge housing or very careful timing on possession dates.
 
-**Buying first** allows you to find the right replacement without time pressure, but creates financial exposure if your current home takes longer to sell than anticipated or sells for less than you need.
+**Buying first** gives you the time to find the right replacement, but creates financial exposure if your current home takes longer to sell than anticipated or sells for less than you need.
 
 The right choice depends on your financial cushion, your market's speed, and your risk tolerance. In a market where well-priced homes sell quickly, selling first with a flexible possession date and then buying works cleanly for many downsizers.
 
