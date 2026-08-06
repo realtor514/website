@@ -1,41 +1,47 @@
 ---
-title: "Je dis parfois à mes clients de ne pas acheter. Voici quand."
+title: "Cinq situations où acheter une propriété est la mauvaise décision"
 date: 2025-05-19
 category: "Conseils honnêtes"
-description: "Tout courtier veut une commission. Mais le meilleur conseil que je puisse donner m'en coûte parfois une. Voici les situations où acheter une propriété est la mauvaise décision."
+description: "Acheter n'est pas toujours le bon choix, même quand le financement est approuvé. Voici les cas où attendre coûte moins cher que d'acheter."
 image: "images/articles/when-not-to-buy-real-estate/featured.jpg"
 ---
 
-Cet article me coûtera de l'argent à écrire. C'est correct.
+Être qualifié pour un prêt hypothécaire et être prêt à acheter sont deux choses différentes. Un prêteur évalue une capacité de remboursement à un instant donné. Il n'évalue pas si le moment est bon.
 
-Mon travail, tel que je le conçois, n'est pas de vous vendre une propriété. C'est de vous donner les meilleurs conseils immobiliers dont je suis capable. Parfois, ce conseil mène à un achat qui me rapporte une commission. Parfois, il mène à une conversation où je dis à quelqu'un d'attendre.
+Voici cinq situations où l'analyse mène à la même conclusion: attendre.
 
-## Quand votre situation d'emploi est instable
+## 1. Quand la situation d'emploi est instable
 
-Si vous êtes dans la première année d'un nouvel emploi, venez de devenir travailleur autonome, ou travaillez dans un domaine connaissant une restructuration significative, la question n'est pas seulement « pouvez-vous être qualifié ? » C'est « ce revenu existera-t-il encore dans 3 ans ? »
+Première année dans un nouvel emploi, passage récent au travail autonome, ou secteur en restructuration significative. La question n'est pas seulement "peut-on être qualifié ?", mais "ce revenu existera-t-il encore dans trois ans ?"
 
-Mon conseil : attendez d'avoir 18 à 24 mois de stabilité dans votre nouvelle situation avant d'acheter.
+La règle raisonnable: 18 à 24 mois de stabilité dans la nouvelle situation avant d'acheter. Un prêteur regarde le passé; un acheteur doit regarder devant.
 
-## Quand votre fonds d'urgence disparaîtrait
+## 2. Quand le fonds d'urgence disparaîtrait
 
-J'ai rencontré des acheteurs qui avaient exactement assez pour la mise de fonds et les frais de clôture, et rien de plus. Cette situation me préoccupe sérieusement.
+Certains acheteurs ont exactement assez pour la mise de fonds et les frais de clôture, et rien de plus. C'est la configuration la plus risquée qui soit.
 
-La propriété génère des dépenses imprévues. Le chauffe-eau qui lâche trois semaines après la prise de possession. Le problème de fondation sous-estimé par l'inspecteur. Ma recommandation standard : vous devriez avoir votre mise de fonds, vos frais de clôture, ET au moins 3 à 6 mois de versements hypothécaires en réserve avant d'acheter.
+La propriété génère des dépenses imprévues: le chauffe-eau qui lâche trois semaines après la prise de possession, le problème de fondation sous-estimé par l'inspecteur, la toiture qui tient un hiver de moins que prévu.
 
-## Quand vous achetez pour résoudre un problème émotionnel
+Le seuil raisonnable: mise de fonds, frais de clôture, **et** trois à six mois de versements hypothécaires en réserve.
 
-Je vois cela plus souvent qu'on ne le croit. Quelqu'un traversant un divorce ou une séparation décide d'acheter une propriété pour établir le contrôle. L'intention est compréhensible. Le moment est souvent terrible.
+## 3. Quand l'achat sert à résoudre un problème émotionnel
 
-Les grandes transitions de vie créent une prise de décision déformée. Une hypothèque de 25 ans n'est pas un outil thérapeutique.
+Cela arrive plus souvent qu'on ne le croit. Quelqu'un qui traverse un divorce ou une séparation décide d'acheter pour reprendre le contrôle. L'intention est compréhensible, le moment est souvent mauvais.
 
-## Quand les chiffres ne fonctionnent pas à aucun prix
+Les grandes transitions de vie déforment la prise de décision. Une hypothèque de vingt-cinq ans n'est pas un outil thérapeutique.
 
-Parfois j'analyse une propriété et la conclusion est claire : à ce prix demandé, le projet n'a pas de sens financier. Mon travail est de le dire clairement, pas de trouver un moyen de rendre l'affaire attrayante par un cadrage sélectif.
+## 4. Quand les chiffres ne fonctionnent à aucun prix
 
-## Quand vous prévoyez déménager dans moins de 3 ans
+Il arrive qu'une analyse mène à une conclusion nette: au prix demandé, le projet n'a pas de sens financier, quel que soit l'angle.
 
-Les coûts de transaction en immobilier sont élevés. Entre la taxe de bienvenue, les frais de notaire et la commission à la revente, un achat immobilier coûte généralement 3 à 5 % de sa valeur à l'entrée et à la sortie. Si vous avez une chance réaliste de déménager dans 3 ans, la location est souvent la meilleure décision.
+Le rôle d'un courtier est de le dire clairement, pas de rendre l'affaire attrayante par un cadrage sélectif. Un chiffre qu'on doit présenter d'une certaine façon pour qu'il fonctionne ne fonctionne pas.
+
+## 5. Quand un déménagement est probable en moins de trois ans
+
+Les coûts de transaction sont élevés. Entre la taxe de bienvenue, les frais de notaire et la commission à la revente, un achat coûte généralement de 3 à 5 % de sa valeur à l'entrée et autant à la sortie.
+
+Avec une probabilité réaliste de déménager dans trois ans, la location est souvent la décision la plus rentable, même dans un marché qui monte.
 
 ---
 
-*Pas sûr que l'achat soit la bonne décision pour votre situation en ce moment ? [Ayons cette conversation honnêtement](/fr/#contact).*
+*Pas certain que l'achat soit la bonne décision en ce moment ? [Ayons cette conversation honnêtement](/fr/#contact).*

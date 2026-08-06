@@ -1,53 +1,37 @@
 ---
-title: "The Real Estate Deal That Taught Me the Most (And It Was Not the Successful One)"
+title: "When Deals Go Wrong: What They Reveal About the Checks You Skipped"
 date: 2025-05-19
-category: "Real Stories"
-description: "The transactions where everything goes wrong teach more than the ones that go smoothly. Here are the specific lessons from a difficult deal that changed how I approach every transaction."
+category: "Real Estate 101"
+description: "Transactions where everything goes wrong teach more than the ones that go smoothly. Here are the verifications that prevent most bad surprises."
 image: "images/articles/worst-real-estate-deal-lessons/featured.jpg"
 ---
 
-Anyone in real estate who tells you every deal they have been involved with went smoothly is either new or not being honest. Transactions are complex multi-party events involving significant money, legal obligations, emotional decisions, and tight timelines. Things go wrong.
+Anyone in real estate who claims every transaction goes smoothly is either new or not being honest. A transaction is a complex event involving multiple parties, significant money, legal obligations, emotional decisions and tight deadlines.
 
-What matters is how you handle it and what you learn.
+The deals that go wrong tend to resemble each other, and they always teach the same thing: the problem was detectable before the offer.
 
-Here is the deal I have learned the most from, and the specific principles it reinforced.
+## A typical condominium case
 
-## What Happened
+A buyer signs a promise to purchase on a condominium in a building that appears well managed. Three weeks before closing, during the notary's title search, a registered notice appears: the condominium corporation has registered a legal hypothec against the unit, tied to a special assessment left unpaid by the previous owner.
 
-A client was purchasing a condominium in a building that appeared well-managed. The price was fair by the comparables. The inspection was satisfactory. The financing came through. Everything seemed to be on track.
+The amount is rarely catastrophic, often a few thousand dollars. But discovering it ten business days before a scheduled closing creates a cascade of urgency: the payment has to be coordinated out of the sale proceeds, a release obtained, and the date held.
 
-Three weeks before closing, during the notary's title search, a registered notice appeared that had not been visible at the time of the offer: the condo corporation had recently registered a hypotheque legale (a legal hypothec) on the property related to an unpaid special assessment from the unit's previous owner.
+This kind of file almost always gets resolved. It simply costs several days of avoidable stress.
 
-This meant the buyer was about to take possession of a property with a registered charge against it that would need to be resolved before clear title could transfer. The amount was not enormous, approximately $7,000, but the discovery ten business days before a scheduled closing created a cascade of urgency.
+## The checks that would have changed everything
 
-## What We Had to Do
+**A title search is not a formality.** Assuming that an uneventful offer period means clean title is unreliable. Charges are registered independently of the transaction in progress.
 
-The first step was to contact the seller immediately and clearly. The charge needed to be resolved before closing. This was not negotiable. It could be paid from the seller's closing proceeds if both parties agreed and the notary could coordinate the payoff.
+**Condominium minutes get read before the offer, not after.** A special assessment never appears out of nowhere: it was discussed in meetings, often for months. Two years of minutes are usually enough to see it coming.
 
-The seller was not aware the charge existed. They had purchased the unit themselves without being informed of the previous owner's unpaid assessment by the condo corporation. There was genuine confusion, not bad faith.
+**The state of the contingency fund is the best indicator of future risk.** An undercapitalized building transfers its debt to the next buyer, in the form of a special assessment.
 
-The notary coordinated the payoff from the seller's proceeds. Closing happened on time, though it required several days of intensive coordination that would not have been necessary if the issue had been identified earlier.
+## What makes the difference when a problem does surface
 
-## The Lessons
+Transparency and speed. A buyer informed immediately, with a clear explanation of what happened and what the resolution path looks like, handles the situation far better than one who discovers the problem in fragments.
 
-**The title search matters and it is not a formality.** The assumption that a clean offer period means a clean title is not reliable. Issues surface at the notary stage, and the later they surface, the more stressful and costly they are to resolve.
-
-**Read the condo corporation's minutes before an offer, not after.** If I had reviewed the condo corporation's board meeting minutes for the previous two years before the offer, there is a reasonable chance the unpaid assessment or related discussions would have appeared. This is now a standard step in my process for any condominium purchase.
-
-**Transparency and speed in a crisis matter more than composure.** When the title issue surfaced, I called the client immediately, explained exactly what had happened, what it meant, and what the resolution path looked like. No softening, no delay. Clients handle difficult situations better when they have complete information and a clear action plan than when they are protected from the news until it cannot be contained.
-
-**The notary is your partner, not just a closing administrator.** The resolution happened because the notary was proactive, experienced, and willing to coordinate a complex payoff sequence under time pressure. Choosing a notary based on price alone is a mistake.
-
-## What Changed in My Process
-
-After this transaction, I added two specific steps to my standard buyer workflow for condominiums:
-
-First, I now request the full declaration of co-ownership, the last two years of board meeting minutes, and any registered notices against all units in the building before offer submission, not just before closing.
-
-Second, I explicitly ask the listing broker whether any special assessments have been levied against the specific unit and whether any amounts remain outstanding. This question, asked directly and in writing, creates a paper trail and surfaces issues that sellers may not volunteer.
-
-The deal went fine in the end. But the stress and the narrow margin were instructive in a way that smooth transactions are not.
+Most difficult files are difficult not because of the problem itself, but because of the delay between discovering it and communicating it.
 
 ---
 
-*Working through a complicated real estate situation? [Let's talk](/\#contact).*
+*Dealing with a complex real estate situation? [Let's talk](/en/#contact).*

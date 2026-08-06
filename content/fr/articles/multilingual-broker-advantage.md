@@ -1,31 +1,37 @@
 ---
-title: "Pourquoi travailler avec un courtier multilingue change l'expérience immobilière"
+title: "Pourquoi la langue du courtier change l'expérience immobilière"
 date: 2025-05-19
-category: "À propos de Georges"
-description: "Je travaille en français, en anglais et en arabe. Ce n'est pas qu'une commodité. Voici pourquoi la langue compte plus que la plupart ne le pensent."
+category: "Immobilier 101"
+description: "Traiter une transaction dans sa langue maternelle n'est pas qu'une commodité. Voici pourquoi la langue pèse plus lourd que la plupart des acheteurs ne le pensent."
 image: "images/articles/multilingual-broker-advantage/featured.jpg"
 ---
 
-Quand je dis aux gens que je travaille en trois langues, la réaction est généralement une reconnaissance polie. Commode pour certains clients. Je pense que la signification va plus loin.
+Quand un courtier annonce qu'il travaille en plusieurs langues, la réaction est généralement une reconnaissance polie: pratique pour certains clients. La portée réelle est plus large que ça.
 
-## La langue n'est pas seulement de la communication. C'est de la compréhension.
+## La langue n'est pas de la communication, c'est de la compréhension
 
-Les transactions immobilières impliquent des documents juridiques, des concepts financiers et des cadres réglementaires difficiles à naviguer pleinement dans une deuxième langue. Pas parce que l'acheteur manque d'intelligence, mais parce que les nuances dans une deuxième langue nécessitent un effort cognitif qu'un locuteur natif ne déploie pas.
+Une transaction immobilière implique des documents juridiques, des concepts financiers et un cadre réglementaire difficiles à saisir pleinement dans une deuxième langue. Non par manque d'intelligence, mais parce que la nuance dans une langue seconde exige un effort cognitif qu'un locuteur natif ne fournit pas.
 
-Quand j'explique un test de résistance hypothécaire à un client francophone en français, ou que je parcours un contrat de courtage avec une famille arabophone en arabe, je ne fais pas que répéter de l'information dans un code différent. Je les rejoins là où leur compréhension complète réside.
+Expliquer un test de résistance hypothécaire à un acheteur dans sa langue maternelle, ou parcourir un contrat de courtage avec une famille dans la langue qu'elle utilise à la maison, ce n'est pas répéter la même information dans un autre code. C'est rejoindre les gens là où leur compréhension est complète.
 
-## La communauté arabophone du Grand Montréal
+La différence se voit à un endroit précis: les questions posées. Un acheteur à l'aise dans la langue de la transaction pose les questions embarrassantes, celles sur ce qu'il n'a pas compris. Un acheteur qui fournit déjà un effort pour suivre ne les pose pas.
 
-Le Grand Montréal compte une importante communauté arabophone : immigrants récents, familles établies, professionnels et investisseurs du Liban, du Maroc, de l'Algérie, de l'Égypte et de la Syrie. Beaucoup d'entre eux naviguent dans l'immobilier canadien pour la première fois.
+## Le cas particulier des communautés immigrantes du Grand Montréal
 
-Le système notarial du Québec, le cadre réglementaire de l'OACIQ, les règles d'assurance SCHL et les mécanismes spécifiques du droit civil québécois sont genuinement des territoires inconnus pour les nouveaux arrivants. Travailler avec un courtier qui peut expliquer ces systèmes couramment en arabe change significativement l'expérience.
+Le Grand Montréal compte d'importantes communautés arabophones et hispanophones: immigrants récents, familles établies, professionnels et investisseurs venus du Liban, du Maroc, de l'Algérie, de l'Égypte, de la Syrie, de la Colombie, du Mexique ou du Venezuela. Beaucoup abordent l'immobilier canadien pour la première fois.
 
-Je le sais par expérience personnelle. Quand je suis arrivé à Montréal du Liban pour poursuivre mon doctorat, je naviguais dans un nouveau système, une nouvelle langue et un nouvel environnement financier simultanément.
+Le système notarial québécois, le cadre réglementaire de l'OACIQ, les règles d'assurance hypothécaire et les mécanismes propres au droit civil québécois sont un territoire réellement inconnu pour un nouvel arrivant. Ces systèmes n'existent nulle part ailleurs sous cette forme, et l'intuition acquise dans un autre pays y est souvent trompeuse.
 
-## Mon engagement
+## Ce que ça change concrètement
 
-Je travaille en français, en anglais et en arabe avec une même rigueur professionnelle. Quelle que soit la langue dans laquelle vous êtes le plus à l'aise, c'est la langue dans laquelle nous travaillons.
+Un service offert en français, en anglais, en espagnol et en arabe avec la même rigueur professionnelle change trois choses:
+
+**Personne ne signe un document qu'il ne comprend pas.** C'est la base, et c'est loin d'être universel.
+
+**Les familles multigénérationnelles fonctionnent.** Quand les parents ne parlent pas la même langue que les enfants qui les accompagnent, la transaction se joue à trois. Pouvoir s'adresser directement à chacun évite que quelqu'un décide pour un autre.
+
+**Les questions se posent au bon moment.** Avant l'offre, pas chez le notaire.
 
 ---
 
-*Vous préférez travailler en français, anglais ou arabe ? [Contactez-moi dans la langue de votre choix](/fr/#contact).*
+*Vous préférez travailler en français, en anglais, en espagnol ou en arabe ? [Contactez-moi dans la langue de votre choix](/fr/#contact).*

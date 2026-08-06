@@ -1,57 +1,49 @@
 ---
-title: "Triplex vs Condo in Montreal: What Would Georges Actually Buy?"
+title: "Triplex vs Condo in Montreal: How to Decide With Numbers"
 date: 2025-05-19
 category: "Investment"
-description: "Two of the most popular property types in Greater Montreal, two completely different financial profiles. Here's my honest breakdown of which makes sense and when."
+description: "Two of the most popular property types in Greater Montreal, two completely different financial profiles. Here is the analytical framework that settles it."
 image: "images/articles/triplex-vs-condo-montreal/featured.jpg"
 ---
 
-People ask me this question expecting a simple answer. There isn't one. Whether a triplex or a condo is the smarter purchase depends entirely on your financial situation, your goals, your risk tolerance, and frankly, your personality. Let me break down both sides honestly.
+The question comes up constantly, and it usually expects a simple answer. There is not one. Whether a triplex or a condo is the better buy depends entirely on financial situation, objectives, risk tolerance and, very concretely, available time.
 
-## The Case for a Triplex
+## The case for the triplex
 
-When I bought my own triplex in Laval, I approached it methodically: build a model, stress-test the variables, identify the failure modes, and decide if the expected return justifies the risk. The numbers made sense. They don't always.
+In Greater Montreal, buying a triplex generally means occupying one unit and renting the other two. Rental income partly or fully offsets the mortgage payment, and appreciation applies to the value of the whole building rather than a single unit.
 
-**The financial logic of a triplex:**
+That is the logic that makes a triplex attractive over a ten-year horizon or longer.
 
-In Greater Montreal, a triplex typically means you occupy one unit and rent the other two. The rental income partially or fully offsets your mortgage payment - a structure sometimes called "house hacking." This is powerful because it allows you to build equity in a property while your out-of-pocket cost is significantly lower than what you'd pay for a comparable single-family home.
+**The costs most buyers underestimate**
 
-The long-term play is even stronger: as a property owner, you benefit from capital appreciation on the full value of the building, not just your unit. If the building appreciates by $150,000, that gain belongs to you entirely - whereas a condo owner appreciates only on their unit's value.
+Maintenance is real and it is shared with no one. Roof replacement, furnace failure, plumbing emergency: it all belongs to the owner. A maintenance reserve of 1% to 1.5% of building value per year is a reasonable starting point for modelling.
 
-**The real costs most people underestimate:**
+Tenant relations are the other variable. Some owners keep excellent tenants for ten years. Others face late payments or the complexity of Quebec's rent-setting regime, among the most tenant-protective in North America. A building with below-market rents cannot be freely corrected, and the return calculation has to account for that from the start.
 
-Maintenance is real. You are the landlord. Roof replacements, furnace failures, plumbing emergencies - these happen, and they happen to you, not to a condo corporation. I typically model a maintenance reserve of 1-1.5% of the building's value per year for income properties. On a $600,000 triplex, that's $6,000-$9,000 annually you should not touch.
+## The case for the condo
 
-Tenant relationships are also real. Some landlords have excellent tenants for ten years. Others deal with late payments, property damage, or the legal complexity of Quebec's landlord-tenant laws, which are among the most tenant-protective in North America.
+For a buyer who values simplicity and predictability, a well-chosen condo remains an excellent first purchase.
 
-## The Case for a Condo
+**The real strength: low friction**
 
-I genuinely like well-chosen condos as a first purchase for buyers who prioritize simplicity, predictability, and flexibility. Here's why.
+Condo fees cover exterior maintenance and common areas. That predictability has concrete value for someone whose scarce resource is time.
 
-**The condo's real strength: low friction:**
+**The hidden risk: the fees themselves**
 
-Your condo fee covers exterior maintenance, common areas, and in many buildings, heat and hot water. That predictability has real value if you're a busy professional who doesn't want to spend weekends dealing with a leaky roof. The building corporation handles it. You pay the fee and move on.
+Fees rise over time. A building charging $350 per month today can be charging $600 in ten years, especially if the contingency fund is underfunded.
 
-**The condo's hidden risk: the fee itself:**
+Before any offer: request the contingency fund study, the financial statements and the minutes of the last three meetings. Unusually low fees are not a bargain, they are deferred debt.
 
-Condo fees compound over time. A building that charges $350/month today might charge $600/month in a decade, particularly if the reserve fund is underfunded - which is surprisingly common. Before buying any condo, I always recommend requesting the last two years of financial statements and the most recent reserve fund study. If the building is significantly underfunded, you're inheriting that problem.
+## A decision framework
 
-Also: special assessments. When a major repair is needed and the reserve fund doesn't cover it, the condo corporation issues a special assessment to all unit owners. I've seen assessments of $15,000-$40,000 per unit hit owners who had no warning. Read the minutes of condo corporation meetings for the past three years before any purchase.
+| Profile | What the analysis shows |
+|---|---|
+| Patient investor, 10-year horizon or more | The triplex wins in most scenarios |
+| Professional who values simplicity | A condo in a financially sound building |
+| Pure rental purchase, no occupancy | The analysis changes: prioritize cash flow and real yield |
 
-## How I Think About the Decision
-
-My framework is simple:
-
-- **If you have the patience to be a landlord and want to build wealth efficiently:** The triplex wins in most scenarios over a 10+ year horizon. The capital appreciation is on the full building, the rental income is real, and the forced savings effect of paying down a larger mortgage is significant.
-
-- **If you value simplicity, have a high-paying career with limited time, or want geographic flexibility:** A well-chosen condo in a financially healthy building is an excellent choice. Just vet the finances carefully.
-
-- **If you're buying purely as an investment (not occupying):** The math changes significantly, and you should analyze gross yield, cap rate, and cash-on-cash return rather than just price.
-
-## The One Thing I'd Tell Both Buyers
-
-Whether you're buying a triplex or a condo, the quality of your analysis before you commit matters far more than the property type. I've seen people make excellent returns on condos and terrible decisions on triplexes, and vice versa. The asset class doesn't make the decision for you - the numbers do.
+The factor that most often decides is not financial. It is how much time the buyer is genuinely willing to spend on management.
 
 ---
 
-*Thinking through a triplex or condo purchase? [Let's talk](/\#contact) - I'll build the financial model with you before you make an offer.*
+*Considering a triplex or a condo? [Let's build the financial model together](/en/#contact) before you make an offer.*

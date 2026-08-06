@@ -1,45 +1,49 @@
 ---
-title: "Triplex ou condo à Montréal : que choisirait Georges ?"
+title: "Triplex ou condo à Montréal : comment trancher avec des chiffres"
 date: 2025-05-19
 category: "Investissement"
-description: "Deux des types de propriétés les plus populaires dans le Grand Montréal, deux profils financiers complètement différents. Voici mon analyse honnête de ce qui a du sens et dans quelles circonstances."
+description: "Deux des types de propriétés les plus populaires du Grand Montréal, deux profils financiers complètement différents. Voici le cadre d'analyse qui permet de décider."
 image: "images/articles/triplex-vs-condo-montreal/featured.jpg"
 ---
 
-Les gens me posent cette question en s'attendant à une réponse simple. Il n'y en a pas. Que le triplex ou le condo soit le meilleur achat dépend entièrement de votre situation financière, de vos objectifs, de votre tolérance au risque et, franchement, de votre personnalité.
+La question revient constamment, et elle attend souvent une réponse simple. Il n'y en a pas. Le meilleur achat entre un triplex et un condo dépend entièrement de la situation financière, des objectifs, de la tolérance au risque et, très concrètement, du temps disponible.
 
 ## L'argument en faveur du triplex
 
-Quand j'ai acheté mon propre triplex à Laval, je l'ai abordé avec méthode : construire un modèle, tester les variables, identifier les modes d'échec, et décider si le rendement attendu justifie le risque.
+Dans le Grand Montréal, acheter un triplex signifie généralement occuper une unité et louer les deux autres. Le revenu locatif compense partiellement ou totalement le versement hypothécaire, et l'appréciation porte sur la valeur totale de l'immeuble plutôt que sur une seule unité.
 
-**La logique financière du triplex :**
+C'est la logique qui rend le triplex attrayant sur un horizon de dix ans ou plus.
 
-Dans le Grand Montréal, un triplex signifie généralement que vous occupez une unité et louez les deux autres. Le revenu locatif compense partiellement ou totalement votre versement hypothécaire. À long terme, l'appréciation porte sur la valeur totale de l'immeuble, pas seulement sur votre unité.
+**Les coûts que la plupart des acheteurs sous-estiment**
 
-**Les coûts réels que la plupart des gens sous-estiment :**
+L'entretien est réel et il n'est partagé avec personne. Remplacement de toiture, panne de fournaise, urgence de plomberie: tout appartient au propriétaire. Une réserve d'entretien de 1 à 1,5 % de la valeur de l'immeuble par année est un point de départ raisonnable pour modéliser.
 
-L'entretien est réel. Vous êtes le propriétaire. Remplacements de toiture, pannes de fournaise, urgences de plomberie : tout cela vous appartient. Je modélise généralement une réserve d'entretien de 1 à 1,5 % de la valeur de l'immeuble par an.
-
-Les relations locatives sont aussi une réalité. Certains propriétaires ont d'excellents locataires pendant dix ans. D'autres font face à des retards de paiement ou à la complexité juridique des lois québécoises sur les locataires, parmi les plus protectrices en Amérique du Nord.
+Les relations locatives sont l'autre variable. Certains propriétaires gardent d'excellents locataires pendant dix ans. D'autres affrontent des retards de paiement ou la complexité du régime québécois de fixation des loyers, parmi les plus protecteurs des locataires en Amérique du Nord. Un immeuble dont les loyers sont sous le marché ne se redresse pas librement, et le calcul de rendement doit en tenir compte dès le départ.
 
 ## L'argument en faveur du condo
 
-Je recommande sincèrement les condos bien choisis comme premier achat pour les acheteurs qui privilégient la simplicité et la prévisibilité.
+Pour un acheteur qui privilégie la simplicité et la prévisibilité, un condo bien choisi reste un excellent premier achat.
 
-**La vraie force du condo : peu de friction**
+**La force réelle: peu de friction**
 
-Votre frais de condo couvre l'entretien extérieur et les espaces communs. Cette prévisibilité a une vraie valeur si vous êtes un professionnel occupé.
+Les frais de copropriété couvrent l'entretien extérieur et les espaces communs. Cette prévisibilité a une valeur concrète pour quelqu'un dont le temps est la ressource rare.
 
-**Le risque caché : les frais eux-mêmes**
+**Le risque caché: les frais eux-mêmes**
 
-Les frais de condo augmentent au fil du temps. Un immeuble qui facture 350 $/mois aujourd'hui pourrait facturer 600 $/mois dans dix ans, surtout si le fonds de prévoyance est sous-financé. Avant d'acheter, demandez toujours l'étude du fonds de prévoyance des trois dernières années et les procès-verbaux des assemblées.
+Les frais augmentent avec le temps. Un immeuble qui facture 350 $ par mois aujourd'hui peut en facturer 600 $ dans dix ans, surtout si le fonds de prévoyance est sous-financé.
 
-## Mon cadre de décision
+Avant toute offre: demander l'étude du fonds de prévoyance, les états financiers et les procès-verbaux des trois dernières assemblées. Des frais anormalement bas ne sont pas une aubaine, c'est une dette différée.
 
-- **Investisseur patient cherchant à bâtir de la richesse :** Le triplex gagne dans la plupart des scénarios sur 10 ans ou plus
-- **Professionnel valorisant la simplicité :** Un condo bien choisi dans un immeuble financièrement sain est excellent
-- **Achat purement locatif :** L'analyse change, privilégiez le taux de rendement brut et le flux de trésorerie
+## Un cadre de décision
+
+| Profil | Ce qui ressort de l'analyse |
+|---|---|
+| Investisseur patient, horizon de 10 ans et plus | Le triplex l'emporte dans la majorité des scénarios |
+| Professionnel qui valorise la simplicité | Un condo dans un immeuble financièrement sain |
+| Achat purement locatif, sans occupation | L'analyse change: priorité au flux de trésorerie et au taux de rendement réel |
+
+Le facteur qui tranche le plus souvent n'est pas financier. C'est le temps que l'acheteur est réellement prêt à consacrer à la gestion.
 
 ---
 
-*Vous réfléchissez à l'achat d'un triplex ou d'un condo ? [Construisons le modèle financier ensemble](/fr/#contact) avant que vous fassiez une offre.*
+*Vous réfléchissez à un triplex ou à un condo ? [Construisons le modèle financier ensemble](/fr/#contact) avant que vous fassiez une offre.*

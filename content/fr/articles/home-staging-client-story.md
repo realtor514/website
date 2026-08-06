@@ -1,32 +1,36 @@
 ---
-title: "La valorisation immobilière a tout changé. Voici l'histoire qui m'a convaincu."
+title: "La valorisation immobilière: ce qu'elle change vraiment sur le prix de vente"
 date: 2025-05-19
 category: "Guide du vendeur"
-description: "Je pensais que la valorisation était optionnelle. Une expérience spécifique a changé ma vision définitivement."
+description: "La valorisation est souvent perçue comme une dépense optionnelle. Les chiffres racontent autre chose. Voici comment elle agit sur le délai de vente et le prix obtenu."
 image: "images/articles/home-staging-client-story/featured.jpg"
 ---
 
-J'aborde la plupart des choses analytiquement. Mon instinct est de faire confiance aux données plutôt qu'à l'anecdote. Mais parfois une expérience spécifique recalibre votre compréhension de quelque chose.
+La valorisation immobilière divise les vendeurs. Certains la voient comme une dépense superflue sur une propriété qui se vendra de toute façon. D'autres y voient une étape obligatoire. La réponse dépend d'un facteur précis: à quel point votre propriété est personnalisée.
 
-La propriété était un semi-détaché de trois chambres à Laval. Bonnes structures, bon emplacement, prix correct selon les comparables. Mais elle avait été occupée par la même famille depuis plus de quinze ans et ça se voyait : meubles datés, murs peints dans des couleurs qui rapetissaient les pièces, cuisine encombrée.
+## Le scénario le plus courant
 
-Nous l'avons inscrite. Trois semaines sont passées. Deux visites. Aucune offre.
+Prenons un cas de figure fréquent sur la Rive-Nord. Un semi-détaché de trois chambres à Laval. Bonne structure, bon emplacement, prix conforme aux comparables. Mais occupé par la même famille depuis plus de quinze ans, et ça se voit: meubles datés, murs peints dans des couleurs qui rapetissent les pièces, cuisine encombrée.
+
+Une propriété comme celle-là s'affiche, et il ne se passe rien. Trois semaines, deux visites, aucune offre. C'est un schéma qui revient constamment, et il est presque toujours mal interprété: le vendeur conclut que le prix est trop élevé, alors que le problème est ailleurs.
 
 ## Ce que la valorisation fait vraiment
 
-J'ai demandé au vendeur d'investir dans une valorisation professionnelle. Il était sceptique.
+Les acheteurs n'achètent pas la maison qu'ils visitent. Ils achètent la maison dans laquelle ils s'imaginent vivre. La valorisation n'est pas une tromperie: c'est une traduction, qui convertit une maison familiale habitée en un langage visuel permettant aux acheteurs de se projeter.
 
-La réponse : les acheteurs n'achètent pas la maison qu'ils visitent. Ils achètent la maison dans laquelle ils s'imaginent vivre. La valorisation n'est pas une tromperie. C'est une traduction, convertissant une maison familiale habitée en un langage visuel qui permet aux acheteurs de se projeter dans l'espace.
+Concrètement: retirer les objets personnels et l'excès de mobilier, faire intervenir une valorisatrice professionnelle pour quelques pièces choisies, repeindre deux murs en teinte neutre, refaire les photos avec un photographe.
 
-Nous avons retiré les objets personnels et l'excès de mobilier. Une valorisatrice professionnelle a apporté des pièces soigneusement choisies. De la peinture neutre fraîche sur deux murs. Une photographie professionnelle.
+## L'effet sur les chiffres
 
-## Le résultat
+Dans ce type de situation, l'investissement se situe généralement autour de 2 000 $ à 2 500 $. Une propriété réinscrite avec de nouvelles photos passe couramment de deux visites en trois semaines à quatre visites en dix jours, avec des offres concurrentes à la clé.
 
-La propriété a été réinscrite avec de nouvelles photos. En dix jours, nous avions quatre visites. Deux offres concurrentes en une semaine. La propriété s'est vendue au-dessus du prix demandé initial. La valorisation avait coûté environ 2 200 $ au vendeur.
+L'écart ne vient pas de la valorisation en soi. Il vient du fait que la propriété redevient comparable, dans l'esprit de l'acheteur, aux autres propriétés qu'il visite le même week-end.
 
-## Ma recommandation standard
+## Quand ça en vaut la peine, et quand non
 
-Pour tout vendeur dont la propriété a été fortement personnalisée, je recommande maintenant une consultation en valorisation avant l'inscription.
+La valorisation a le plus d'effet sur les propriétés fortement personnalisées ou occupées depuis longtemps. Sur une propriété récente, neutre et bien entretenue, l'effet est marginal et la dépense discutable.
+
+Le test est simple: si un acheteur qui entre chez vous voit d'abord votre vie plutôt que l'espace, la valorisation se rentabilise.
 
 ---
 
