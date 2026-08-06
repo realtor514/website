@@ -10,14 +10,27 @@ Publier dans cet ordre exact. Instagram conserve l ordre d ajout des fichiers.
 
 | # | Fichier | Contenu |
 |---|---------|---------|
-| 1 | `01-couverture.jpg` | Facade, badge A VENDRE, adresse, prix |
-| 2 | `02-caracteristiques.jpg` | Salon, 6 caracteristiques, bande de prix |
-| 3 | `03-cuisine.jpg` | Cuisine, 4 points |
-| 4 | `04-points-forts.jpg` | Cour, 6 travaux deja realises |
+| 1 | `01-couverture.jpg` | Facade, pastilles A VENDRE et EQUIPE PISTOLI, adresse, prix |
+| 2 | `02-caracteristiques.jpg` | Salon, 4 caracteristiques, bande de prix |
+| 3 | `03-cuisine.jpg` | Cuisine, 3 points |
+| 4 | `04-points-forts.jpg` | Cour, 4 travaux deja realises |
 | 5 | `05-details.jpg` | Chambre, salle de bain, terrasse |
-| 6 | `06-emplacement.jpg` | Rue, 4 elements de proximite |
+| 6 | `06-emplacement.jpg` | Pancarte Equipe Pistoli sur le terrain, 3 elements de proximite |
 | 7 | `07-coup-de-coeur.jpg` | Salle a manger, Imaginez-vous vivre ici |
-| 8 | `08-contact.jpg` | Portrait, coordonnees, appel a l action |
+| 8 | `08-contact.jpg` | Georges Matar et Rovena Pistoli, coordonnees, appel a l action |
+
+### Equipe Pistoli
+
+L inscription vient d un lead obtenu par Rovena Pistoli. Elle est mentionnee
+a trois endroits:
+
+- slide 1: pastille EQUIPE PISTOLI a cote de A VENDRE
+- slide 6: photo de la pancarte installee sur le terrain, ou son nom parait
+- slide 8: sa photo, son nom et son titre a cote de ceux de Georges
+
+Titre exact tire de sa fiche RE/MAX DU CARTIER: Courtier immobilier
+residentiel et commercial. Entreprise: Rovena Pistoli Immobilier Inc.
+Telephone: 514 910-4128. Fiche: remaxducartier.com/fr/courtiers/rovena-pistoli
 
 ### Legende a copier-coller
 
@@ -42,7 +55,9 @@ Taxes municipales: 2 899 $ | Taxes scolaires: 334 $
 
 Glissez jusqu'à la fin pour les détails et pour planifier une visite.
 
+Une inscription de l'Équipe Pistoli.
 Georges Matar, courtier immobilier résidentiel
+Rovena Pistoli, courtier immobilier résidentiel et commercial
 RE/MAX DU CARTIER INC.
 438-372-0102 | georgesmatar.ca
 Centris 26368231
@@ -60,10 +75,22 @@ Centris 26368231
 
 - Le premier commentaire est le meilleur endroit pour le lien vers la fiche.
   Instagram ne rend pas les liens cliquables dans la legende.
-- La fiche officielle indique un co-courtage. Verifier si la mention de la
-  courtiere collaboratrice doit apparaitre sur la slide 8.
+- Identifier @ l Equipe Pistoli et Rovena Pistoli dans la publication, en plus
+  de la mention dans la legende. Une identification rejoint ses abonnes a elle.
+- Seules les coordonnees de Georges paraissent sur la slide 8. Si le telephone
+  de Rovena doit y figurer aussi, le dire et je l ajoute.
 - Quand la propriete se vend: changer le badge de la slide 1 pour VENDU et
   regenerer. Une publication VENDU performe mieux qu une suppression.
+
+## Dossier sources
+
+`sources/` contient les fichiers qui ne viennent pas de Centris:
+
+| Fichier | Origine |
+|---------|---------|
+| `pancarte-01.jpg` | Photo du terrain, pancarte vue de pres. Non utilisee, disponible en remplacement |
+| `pancarte-02.jpg` | Photo du terrain, cadrage large. Utilisee sur la slide 6 |
+| `rovena-pistoli.jpg` | Portrait officiel, telecharge de sa fiche RE/MAX DU CARTIER |
 
 ## Regenerer
 

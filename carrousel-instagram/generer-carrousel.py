@@ -3,6 +3,8 @@
 
 Genere 8 slides JPG numerotes dans l ordre de publication.
 Couleurs echantillonnees directement dans le logo RE/MAX DU CARTIER.
+Inscription en collaboration avec l Equipe Pistoli: les deux courtiers
+apparaissent sur la slide de contact.
 """
 import os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -13,6 +15,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 PHOTOS = os.path.join(ROOT, "static", "images", "listings", SLUG)
 ASSETS = os.path.join(ROOT, "static", "images")
+SOURCES = os.path.join(HERE, "sources")
 FONTS = os.path.join(HERE, "fonts")
 OUT = os.path.join(HERE, SLUG)
 os.makedirs(OUT, exist_ok=True)
@@ -111,15 +114,25 @@ def shadow(canvas, box, r, blur=26, alpha=42, dy=12):
     canvas.alpha_composite(lay.filter(ImageFilter.GaussianBlur(blur)))
 
 
-def photo(canvas, name, box, r=22, shad=True, fy=0.5):
+def photo(canvas, name, box, r=22, shad=True, fy=0.5, folder=None):
     x0, y0, x1, y1 = box
     w, h = x1 - x0, y1 - y0
     if shad and r:
         shadow(canvas, box, r)
-    im = cover(os.path.join(PHOTOS, name), w, h, fy).convert("RGBA")
+    im = cover(os.path.join(folder or PHOTOS, name), w, h, fy).convert("RGBA")
     if r:
         im.putalpha(round_mask(w, h, r))
     canvas.alpha_composite(im, (x0, y0))
+
+
+def circle_photo(canvas, path, xy, size, fy=0.0):
+    im = cover(path, size, size, fy).convert("RGBA")
+    m = Image.new("L", (size, size), 0)
+    ImageDraw.Draw(m).ellipse([0, 0, size - 1, size - 1], fill=255)
+    im.putalpha(m)
+    shadow(canvas, (xy[0], xy[1], xy[0] + size, xy[1] + size), size // 2,
+           blur=20, alpha=44)
+    canvas.alpha_composite(im, xy)
 
 
 def gradient(canvas, y0, y1, alpha=225, top=False):
@@ -167,14 +180,9 @@ ICONS = {
     "land": [("p", [(3, 8), (3, 3), (8, 3)]), ("p", [(16, 3), (21, 3), (21, 8)]),
              ("p", [(21, 16), (21, 21), (16, 21)]), ("p", [(8, 21), (3, 21), (3, 16)]),
              ("l", 8, 12, 16, 12)],
-    "cal": [("r", 3, 5, 21, 21, 3), ("l", 3, 10.5, 21, 10.5),
-            ("l", 8, 2.5, 8, 7), ("l", 16, 2.5, 16, 7), ("c", 8.5, 15.5, 1.2)],
-    "area": [("r", 3, 3, 21, 21, 2), ("l", 3, 3, 21, 21),
-             ("p", [(3, 8), (3, 3), (8, 3)]), ("p", [(21, 16), (21, 21), (16, 21)])],
     "check": [("p", [(4.5, 12.5), (10, 18), (19.5, 5.5)])],
     "pin": [("a", 4, 2, 20, 18, 180, 360), ("p", [(4, 10), (12, 21.5), (20, 10)]),
             ("c", 12, 9.8, 3.1)],
-    "bag": [("r", 4, 7, 20, 21, 3), ("a", 8, 2.5, 16, 11, 180, 360)],
     "tree": [("c", 12, 8.5, 6), ("l", 12, 14.5, 12, 22),
              ("l", 12, 18, 8, 14.5), ("l", 12, 18, 16, 14.5)],
     "train": [("r", 5, 2.5, 19, 17, 4), ("l", 5, 11, 19, 11),
@@ -226,15 +234,20 @@ def base(bg=WHITE):
     return Image.new("RGBA", (W, H), bg + (255,))
 
 
-def badge(canvas, xy, text, fill, fg=WHITE, pad=(26, 14), size=26, track=3):
+def badge(canvas, xy, text, fill=None, fg=WHITE, outline=None, size=26,
+          track=3, pad=(26, 14)):
+    """Pastille pleine (fill) ou contour (outline). Renvoie sa largeur."""
     d = ImageDraw.Draw(canvas)
     f = inter(size, 800)
     w = tw(d, text, f, track) + pad[0] * 2
     h = size + pad[1] * 2
     x, y = xy
-    d.rounded_rectangle([x, y, x + w, y + h], h / 2, fill=fill + (255,))
+    if fill:
+        d.rounded_rectangle([x, y, x + w, y + h], h / 2, fill=fill + (255,))
+    else:
+        d.rounded_rectangle([x, y, x + w, y + h], h / 2, outline=outline, width=3)
     tracked(d, (x + pad[0], y + pad[1] - size * 0.12), text, f, fg, track)
-    return w, h
+    return w
 
 
 def eyebrow(canvas, xy, text, color=BLUE, align="l", size=23, track=5):
@@ -265,29 +278,25 @@ def save(canvas, name):
 
 # ================================================================ SLIDE 1
 def slide1():
+    """Couverture: photo en haut, bandeau blanc en bas. Format plus propre
+    qu un texte pose sur la photo, et les pastilles restent lisibles."""
     c = base()
-    photo(c, "03.jpg", (0, 0, W, H), r=0, shad=False)
-    gradient(c, 0, 360, 155, top=True)
-    gradient(c, 600, H, 252)
+    photo(c, "03.jpg", (0, 0, W, 880), r=0, shad=False)
+    gradient(c, 0, 300, 130, top=True)
     d = ImageDraw.Draw(c)
 
-    badge(c, (M, 64), "À VENDRE", RED)
-    tracked(d, (W - M, 78), "CENTRIS 26368231", inter(23, 700),
-            (255, 255, 255, 220), 4, "r")
+    bw = badge(c, (M, 56), "À VENDRE", fill=RED)
+    badge(c, (M + bw + 16, 56), "ÉQUIPE PISTOLI", outline=(255, 255, 255, 235),
+          fg=WHITE)
 
-    y = 820
-    eyebrow(c, (M, y), "NOUVELLE INSCRIPTION", (255, 138, 124))
-    y += 52
-    d.text((M, y), "28, rue St-Hilaire", font=playfair(84, 700), fill=WHITE)
-    y += 106
-    d.text((M, y), "Vieux-Longueuil", font=inter(38, 400),
-           fill=(255, 255, 255, 205))
-    y += 62
-    d.line([M, y + 10, M + 5, y + 68], fill=RED_PURE + (255,), width=6)
-    d.text((M + 26, y), "499 000 $", font=playfair(64, 800), fill=WHITE)
+    eyebrow(c, (M, 928), "NOUVELLE INSCRIPTION")
+    d.text((M, 968), "28, rue St-Hilaire", font=playfair(74, 700), fill=NAVY)
+    d.text((M, 1064), "Vieux-Longueuil", font=inter(32, 400), fill=GREY)
+    d.text((W - M, 1050), "499 000 $", font=playfair(56, 800), fill=RED,
+           anchor="ra")
 
-    d.line([M, 1152, W - M, 1152], fill=(255, 255, 255, 70), width=2)
-    signature(c, 1186, dark=True)
+    d.line([M, 1136, W - M, 1136], fill=LINE + (255,), width=2)
+    signature(c, 1172)
     return c
 
 
@@ -299,26 +308,24 @@ def slide2():
     d.text((M, 134), "Découvrez votre", font=playfair(72, 700), fill=NAVY)
     d.text((M, 218), "prochaine maison", font=playfair(72, 700), fill=NAVY)
 
-    photo(c, "06.jpg", (M, 336, W - M, 836))
+    photo(c, "06.jpg", (M, 336, W - M, 856))
 
     items = [("bed", "2", "Chambres"),
-             ("bath", "1 + 1", "Salle de bain / salle d'eau"),
+             ("bath", "1 + 1", "Salle de bain / eau"),
              ("car", "2", "Stationnements"),
-             ("land", "371 m²", "Terrain (4 000 pi²)"),
-             ("area", "25 x 25 pi", "Dimensions du bâtiment"),
-             ("cal", "1949", "Année de construction")]
-    x0, y0, cw, rh = M, 900, (W - 2 * M) // 2, 96
+             ("land", "371 m²", "Terrain")]
+    x0, y0, cw, rh = M, 926, (W - 2 * M) // 2, 104
     for i, (ic, val, lab) in enumerate(items):
         x = x0 + (i % 2) * cw
         y = y0 + (i // 2) * rh
-        icon(c, ic, (x, y + 6), 42, RED + (255,))
-        d.text((x + 58, y), val, font=inter(31, 800), fill=NAVY)
-        d.text((x + 58, y + 38), lab, font=inter(24, 400), fill=GREY)
+        icon(c, ic, (x, y + 6), 44, RED + (255,))
+        d.text((x + 62, y), val, font=inter(33, 800), fill=NAVY)
+        d.text((x + 62, y + 42), lab, font=inter(24, 400), fill=GREY)
 
-    d.rounded_rectangle([M, 1194, W - M, 1310], 20, fill=RED + (255,))
-    tracked(d, (M + 34, 1222), "PRIX DEMANDÉ", inter(23, 800),
+    d.rounded_rectangle([M, 1176, W - M, 1292], 20, fill=RED + (255,))
+    tracked(d, (M + 34, 1204), "PRIX DEMANDÉ", inter(23, 800),
             (255, 210, 205), 5)
-    d.text((W - M - 34, 1216), "499 000 $", font=playfair(58, 800), fill=WHITE,
+    d.text((W - M - 34, 1198), "499 000 $", font=playfair(58, 800), fill=WHITE,
            anchor="ra")
     return c
 
@@ -326,20 +333,19 @@ def slide2():
 # ================================================================ SLIDE 3
 def slide3():
     c = base()
-    photo(c, "09.jpg", (0, 0, W, 640), r=0, shad=False)
+    photo(c, "09.jpg", (0, 0, W, 700), r=0, shad=False)
     d = ImageDraw.Draw(c)
 
-    y = 696
+    y = 756
     eyebrow(c, (M, y), "LA CUISINE")
     y += 46
     d.text((M, y), "Une cuisine pensée", font=playfair(66, 700), fill=NAVY)
     d.text((M, y + 78), "pour recevoir", font=playfair(66, 700), fill=NAVY)
-    y += 192
+    y += 196
 
     for t in ["Îlot central avec rangement",
               "Armoires blanches pleine hauteur",
-              "Électroménagers en acier inoxydable",
-              "Grandes fenêtres sur la cour arrière"]:
+              "Électroménagers en acier inoxydable"]:
         icon(c, "check", (M, y + 2), 34, RED + (255,))
         d.text((M + 52, y), t, font=inter(30, 500), fill=INK)
         y += 62
@@ -351,24 +357,22 @@ def slide3():
 # ================================================================ SLIDE 4
 def slide4():
     c = base()
-    photo(c, "25.jpg", (0, 0, W, 600), r=0, shad=False, fy=0.28)
+    photo(c, "25.jpg", (0, 0, W, 700), r=0, shad=False, fy=0.28)
     d = ImageDraw.Draw(c)
 
-    y = 656
-    eyebrow(c, (M, y), "CE QUI A DÉJÀ ÉTÉ FAIT")
+    y = 756
+    eyebrow(c, (M, y), "DÉJÀ FAIT")
     y += 46
     d.text((M, y), "Les points forts", font=playfair(70, 700), fill=NAVY)
-    y += 130
+    y += 122
 
-    items = ["Toiture refaite en 2014", "Plomberie et électricité 2014",
-             "Plancher sablé en 2026", "Piscine hors terre 2023",
-             "Terrasse en bois et cabanon", "Borne de recharge électrique"]
-    cw, rh = (W - 2 * M) // 2, 108
-    for i, t in enumerate(items):
-        x = M + (i % 2) * cw
-        yy = y + (i // 2) * rh
-        icon(c, "check", (x, yy + 2), 32, RED + (255,))
-        para(d, (x + 46, yy), t, inter(27, 500), INK, cw - 70, 36)
+    for t in ["Toiture refaite en 2014",
+              "Plomberie et électricité 2014",
+              "Piscine hors terre 2023",
+              "Borne de recharge électrique"]:
+        icon(c, "check", (M, y + 2), 34, RED + (255,))
+        d.text((M + 52, y), t, font=inter(30, 500), fill=INK)
+        y += 62
 
     signature(c, 1196)
     return c
@@ -397,24 +401,26 @@ def slide5():
 
 # ================================================================ SLIDE 6
 def slide6():
+    """Photo de la pancarte sur le terrain: montre l Equipe Pistoli en
+    contexte et sert de photo de rue pour la section emplacement."""
     c = base()
-    photo(c, "04.jpg", (0, 0, W, 620), r=0, shad=False)
+    photo(c, "pancarte-02.jpg", (0, 0, W, 700), r=0, shad=False, fy=0.57,
+          folder=SOURCES)
     d = ImageDraw.Draw(c)
 
-    y = 680
+    y = 756
     eyebrow(c, (M, y), "LE VIEUX-LONGUEUIL")
     y += 46
     d.text((M, y), "Un emplacement", font=playfair(66, 700), fill=NAVY)
     d.text((M, y + 78), "exceptionnel", font=playfair(66, 700), fill=NAVY)
-    y += 194
+    y += 196
 
-    for ic, t in [("pin", "Écoles primaires et secondaires du secteur"),
-                  ("bag", "Commerces de la rue Saint-Charles"),
+    for ic, t in [("pin", "Écoles et services du secteur"),
                   ("tree", "Parcs et pistes cyclables"),
-                  ("train", "Métro Longueuil et pont Jacques-Cartier")]:
+                  ("train", "Métro et pont Jacques-Cartier")]:
         icon(c, ic, (M, y - 2), 40, BLUE + (255,))
-        para(d, (M + 60, y), t, inter(29, 500), INK, W - 2 * M - 60, 36)
-        y += 66
+        d.text((M + 60, y), t, font=inter(30, 500), fill=INK)
+        y += 62
 
     signature(c, 1196)
     return c
@@ -443,43 +449,40 @@ def slide7():
 
 # ================================================================ SLIDE 8
 def slide8():
+    """Les deux courtiers de l inscription: Georges Matar et Rovena Pistoli."""
     c = base(CREAM)
     d = ImageDraw.Draw(c)
-
     d.rectangle([0, 0, W, 10], fill=RED + (255,))
 
-    # portrait rond
-    ph = Image.open(os.path.join(ASSETS, "georges-matar.png")).convert("RGB")
-    s = 300
-    r = max(s / ph.width, s / ph.height)
-    ph = ph.resize((int(ph.width * r + .5), int(ph.height * r + .5)), Image.LANCZOS)
-    ph = ph.crop(((ph.width - s) // 2, 0, (ph.width - s) // 2 + s, s)).convert("RGBA")
-    m = Image.new("L", (s, s), 0)
-    ImageDraw.Draw(m).ellipse([0, 0, s - 1, s - 1], fill=255)
-    ph.putalpha(m)
-    px = (W - s) // 2
-    shadow(c, (px, 96, px + s, 96 + s), s // 2, blur=22, alpha=48)
-    c.alpha_composite(ph, (px, 96))
+    s, gap = 250, 60
+    x0 = (W - (2 * s + gap)) // 2
+    circle_photo(c, os.path.join(ASSETS, "georges-matar.png"), (x0, 86), s)
+    circle_photo(c, os.path.join(SOURCES, "rovena-pistoli.jpg"),
+                 (x0 + s + gap, 86), s, fy=0.0)
 
-    y = 440
-    eyebrow(c, (W // 2, y), "PARLONS-EN", RED, "c")
-    y += 46
-    d.text((W // 2, y), "Cette propriété", font=playfair(66, 700), fill=NAVY,
-           anchor="ma")
-    d.text((W // 2, y + 78), "vous intéresse?", font=playfair(66, 700), fill=NAVY,
-           anchor="ma")
-    y += 216
+    for cx, nom, titre in [
+            (x0 + s // 2, "GEORGES MATAR", "Courtier immobilier résidentiel"),
+            (x0 + s + gap + s // 2, "ROVENA PISTOLI",
+             "Courtier immobilier résidentiel et commercial")]:
+        d.text((cx, 368), nom, font=inter(26, 800), fill=NAVY, anchor="ma")
+        para(d, (cx, 404), titre, inter(19, 400), GREY, s + 40, 26, "c")
 
-    rows = [("phone", "(438) 372-0102"),
-            ("mail", "georges.matar@remax-quebec.com"),
-            ("globe", "georgesmatar.ca")]
+    eyebrow(c, (W // 2, 500), "ÉQUIPE PISTOLI", RED, "c")
+    d.text((W // 2, 542), "Cette propriété", font=playfair(62, 700), fill=NAVY,
+           anchor="ma")
+    d.text((W // 2, 616), "vous intéresse?", font=playfair(62, 700), fill=NAVY,
+           anchor="ma")
+
+    y = 728
     fnt = inter(29, 500)
-    for ic, t in rows:
+    for ic, t in [("phone", "(438) 372-0102"),
+                  ("mail", "georges.matar@remax-quebec.com"),
+                  ("globe", "georgesmatar.ca")]:
         wtot = 40 + 22 + d.textlength(t, font=fnt)
         x = (W - wtot) // 2
         icon(c, ic, (int(x), y), 40, RED + (255,))
         d.text((x + 62, y + 3), t, font=fnt, fill=INK)
-        y += 66
+        y += 62
 
     y += 18
     bh = 104
@@ -489,24 +492,18 @@ def slide8():
     tracked(d, (W // 2, y + bh / 2 + 6), "DÈS AUJOURD'HUI", inter(21, 700),
             (255, 205, 200), 4, "c")
 
-    y += bh + 46
+    y += bh + 40
     d.line([M, y, W - M, y], fill=LINE + (255,), width=2)
-    y += 36
-
-    lh = 84
+    y += 26
+    lh = 66
     lw = logo_w(lh, False)
-    f1, f2, f3 = inter(29, 800), inter(22, 400), inter(22, 700)
-    tmax = max(d.textlength("GEORGES MATAR", font=f1),
-               d.textlength("Courtier immobilier résidentiel", font=f2),
-               d.textlength("RE/MAX DU CARTIER INC.", font=f3))
-    lx = (W - (lw + 26 + tmax)) / 2
+    f = inter(24, 700)
+    lbl = "RE/MAX DU CARTIER INC."
+    lx = (W - (lw + 20 + d.textlength(lbl, font=f))) / 2
     logo(c, lh, (lx, y), white=False)
-    tx = lx + lw + 26
-    d.text((tx, y + 2), "GEORGES MATAR", font=f1, fill=NAVY)
-    d.text((tx, y + 38), "Courtier immobilier résidentiel", font=f2, fill=GREY)
-    d.text((tx, y + 66), "RE/MAX DU CARTIER INC.", font=f3, fill=RED)
+    d.text((lx + lw + 20, y + lh / 2), lbl, font=f, fill=NAVY, anchor="lm")
 
-    tracked(d, (W // 2, 1290), "CENTRIS 26368231", inter(21, 600), GREY, 4, "c")
+    tracked(d, (W // 2, 1296), "CENTRIS 26368231", inter(21, 600), GREY, 4, "c")
     return c
 
 
@@ -517,10 +514,10 @@ if __name__ == "__main__":
         if f.lower().endswith(".jpg"):
             os.remove(os.path.join(OUT, f))
     print("Carrousel ->", OUT)
-    for i, (fn, name) in enumerate([
+    for fn, name in [
             (slide1, "01-couverture.jpg"), (slide2, "02-caracteristiques.jpg"),
             (slide3, "03-cuisine.jpg"), (slide4, "04-points-forts.jpg"),
             (slide5, "05-details.jpg"), (slide6, "06-emplacement.jpg"),
-            (slide7, "07-coup-de-coeur.jpg"), (slide8, "08-contact.jpg")], 1):
+            (slide7, "07-coup-de-coeur.jpg"), (slide8, "08-contact.jpg")]:
         save(fn(), name)
     print("OK")
