@@ -1,6 +1,7 @@
 ---
 title: "ماذا تقول البيانات الفعلية عن سوق العقارات في مونتريال عام 2025"
 date: 2025-05-19
+translationKey: "article-marche-immobilier-montreal"
 category: "تحليل السوق"
 description: "بعيداً عن العناوين والتوقعات، إليك ما تقوله المؤشرات التي أتابعها كل شهر حول الوضع الفعلي لسوق العقارات في مونتريال ولافال."
 image: "images/articles/marche-immobilier-montreal-analyse-donnees/featured.jpg"

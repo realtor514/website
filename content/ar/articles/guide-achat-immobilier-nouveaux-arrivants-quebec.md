@@ -1,6 +1,7 @@
 ---
 title: "دليل شامل للمقيمين الجدد لشراء العقارات في كيبيك"
 date: 2025-06-16
+translationKey: "article-guide-nouveaux-arrivants"
 category: "دليل المشتري"
 description: "شراء العقارات في كيبيك كمقيم جديد أمر ممكن تماماً، لكن النظام يعمل بشكل مختلف عن معظم البلدان. هذا الدليل يشرح كل ما تحتاج معرفته بلغة واضحة."
 image: "images/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/featured.jpg"

@@ -19,7 +19,7 @@
             </div>
             <div>
               <span class="contact-detail__label">{{ if $isFr }}Téléphone{{ else if $isAr }}الهاتف{{ else if $isEs }}Teléfono{{ else }}Phone{{ end }}</span>
-              <a href="tel:+14383720102" class="contact-detail__value">{{ .Site.Params.phone }}</a>
+              <a href="tel:+14383720102" class="contact-detail__value"><bdi dir="ltr">{{ .Site.Params.phone }}</bdi></a>
             </div>
           </div>
 
@@ -80,7 +80,7 @@
 
           <div class="form-group">
             <label class="form-label" for="contactEmail">{{ if $isFr }}Courriel{{ else if $isAr }}البريد الإلكتروني{{ else if $isEs }}Correo electrónico{{ else }}Email{{ end }}</label>
-            <input class="form-input" type="email" id="contactEmail" name="email" placeholder="jean@exemple.com" required>
+            <input class="form-input" type="email" id="contactEmail" name="email" placeholder="{{ if $isFr }}jean@exemple.com{{ else if $isAr }}name@example.com{{ else if $isEs }}juan@ejemplo.com{{ else }}john@example.com{{ end }}" required>
           </div>
 
           <div class="form-group">

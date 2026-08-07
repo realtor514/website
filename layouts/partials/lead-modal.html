@@ -48,7 +48,7 @@
           {{ if $isFr }}Courriel *{{ else if $isAr }}البريد الإلكتروني *{{ else if $isEs }}Correo electronico *{{ else }}Email *{{ end }}
         </label>
         <input id="lm-email" name="email" type="email" required autocomplete="email"
-          placeholder="jean@exemple.com"
+          placeholder="{{ if $isFr }}jean@exemple.com{{ else if $isAr }}name@example.com{{ else if $isEs }}juan@ejemplo.com{{ else }}john@example.com{{ end }}"
           style="width:100%;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.15);border-radius:8px;padding:10px 12px;font-size:.9rem;color:#fff;outline:none;box-sizing:border-box;transition:border-color .2s">
       </div>
 

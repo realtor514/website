@@ -1,6 +1,7 @@
 ---
 title: "لماذا يُعدّ الترييبلكس في لافال من أذكى الاستثمارات حالياً"
 date: 2025-05-12
+translationKey: "article-triplex-laval"
 category: "الاستثمار"
 description: "أرقام الترييبلكس في لافال لا تعمل فحسب؛ بل تعمل بشكل أفضل من معظم المنتجات المالية المتاحة للمستثمر العادي. إليك كيفية تحليله بشكل صحيح."
 image: "images/articles/investir-triplex-laval-strategie/featured.jpg"

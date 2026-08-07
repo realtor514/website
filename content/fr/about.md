@@ -29,5 +29,7 @@ Je me spécialise dans les propriétés de la grande région de Montréal, notam
 Prêt à démarrer votre parcours immobilier? Je serais ravi d'échanger avec vous.
 
 **Téléphone:** (438) 372-0102
+
 **Courriel:** georges.matar@remax-quebec.com
+
 **Bureau:** RE/MAX DU CARTIER INC. - 2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), Québec H7E 5A1

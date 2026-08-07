@@ -1,6 +1,7 @@
 ---
 title: "كل ما يحتاج المشتري الأول معرفته عن الرهن العقاري في كيبيك"
 date: 2025-06-02
+translationKey: "article-guide-hypotheque"
 category: "التمويل"
 description: "عملية الرهن العقاري أكثر تعقيداً مما يوحي به بنكك، وأبسط مما يبدو عليه الإنترنت. هذا هو الدليل الكامل والصادق للمشترين للمرة الأولى في كيبيك."
 image: "images/articles/guide-hypotheque-premier-acheteur-quebec/featured.jpg"

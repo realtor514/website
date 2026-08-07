@@ -8,16 +8,16 @@
 <section class="content-hero">
   <div class="container">
     <div class="breadcrumb">
-      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else }}Home{{ end }}</a>
+      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a>
       <span class="breadcrumb__sep">&rsaquo;</span>
-      <a href="{{ $base }}/articles/">Articles</a>
+      <a href="{{ $base }}/articles/">{{ if $isFr }}Articles{{ else if $isAr }}مقالات{{ else if $isEs }}Artículos{{ else }}Articles{{ end }}</a>
       <span class="breadcrumb__sep">&rsaquo;</span>
       <span>{{ .Title | truncate 40 }}</span>
     </div>
     {{ with .Params.category }}<p class="content-hero__category">{{ . }}</p>{{ end }}
     <h1 class="content-hero__title">{{ .Title }}</h1>
     <p class="content-hero__meta">
-      {{ if $isFr }}Par{{ else if $isAr }}بقلم{{ else if $isEs }}Por{{ else }}By{{ end }} <strong style="color:rgba(255,255,255,.9)">Georges Matar</strong> &middot;
+      {{ if $isFr }}Par{{ else if $isAr }}بقلم{{ else if $isEs }}Por{{ else }}By{{ end }} <strong style="color:rgba(255,255,255,.9)">{{ if $isAr }}جورج مطر{{ else }}Georges Matar{{ end }}</strong> &middot;
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ partial "localized-date.html" . }}</time>
       &middot; {{ .ReadingTime }} {{ if $isFr }}min de lecture{{ else if $isAr }}دقائق قراءة{{ else if $isEs }}min de lectura{{ else }}min read{{ end }}
     </p>
@@ -37,10 +37,10 @@
     <img src="{{ "images/georges-matar.png" | relURL }}" alt="Georges Matar"
          style="width:68px;height:68px;border-radius:50%;object-fit:cover;object-position:top center;flex-shrink:0">
     <div>
-      <strong style="font-family:'Playfair Display',serif;font-size:1.05rem;color:#0d1b2a">Georges Matar</strong>
+      <strong style="font-family:'Playfair Display',serif;font-size:1.05rem;color:#0d1b2a">{{ if $isAr }}جورج مطر{{ else }}Georges Matar{{ end }}</strong>
       <p style="margin:4px 0 12px;font-size:.88rem;color:#6b7280">{{ .Site.Params.role }} &middot; RE/MAX DU CARTIER INC.</p>
       <a href="{{ $base }}/#contact" class="btn btn-outline-dark" style="font-size:.83rem;padding:8px 16px">
-        {{ if $isFr }}Contacter Georges{{ else }}Contact Georges{{ end }}
+        {{ if $isFr }}Contacter Georges{{ else if $isAr }}تواصل مع جورج{{ else if $isEs }}Contactar a Georges{{ else }}Contact Georges{{ end }}
       </a>
     </div>
   </div>
@@ -48,7 +48,7 @@
 
 <section class="section section--light">
   <div class="container">
-    <h2 style="margin-bottom:32px">{{ if $isFr }}Plus d'articles{{ else }}More Articles{{ end }}</h2>
+    <h2 style="margin-bottom:32px">{{ if $isFr }}Plus d'articles{{ else if $isAr }}مزيد من المقالات{{ else if $isEs }}Más artículos{{ else }}More Articles{{ end }}</h2>
     <div class="articles-grid">
       {{ $others := where .Site.RegularPages "Section" "articles" }}
       {{ $others  = where $others "Permalink" "ne" .Permalink }}

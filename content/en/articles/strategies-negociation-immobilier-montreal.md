@@ -1,6 +1,7 @@
 ---
 title: "5 Negotiation Strategies That Actually Work in Today's Montreal Market"
 date: 2025-06-09
+translationKey: "article-strategies-negociation"
 category: "Strategy"
 description: "Real estate negotiation is not about being aggressive. It is about being prepared. Here are five strategies that work for buyers and sellers alike."
 image: "images/articles/strategies-negociation-immobilier-montreal/featured.jpg"

@@ -29,5 +29,7 @@ I specialize in properties throughout the Greater Montréal area, including:
 Ready to start your real estate journey? I'd love to hear from you.
 
 **Phone:** (438) 372-0102
+
 **Email:** georges.matar@remax-quebec.com
+
 **Office:** RE/MAX DU CARTIER INC., 2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), Québec H7E 5A1

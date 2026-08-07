@@ -1,5 +1,5 @@
 ---
-title: "نبذة عن جورج متار"
+title: "نبذة عن جورج مطر"
 description: "وسيط عقاري سكني في RE/MAX DU CARTIER INC.، في خدمة لافال ومنطقة مونتريال الكبرى."
 ---
 
@@ -28,6 +28,8 @@ description: "وسيط عقاري سكني في RE/MAX DU CARTIER INC.، في خ
 
 هل أنت مستعد لبدء مسيرتك العقارية؟ يسعدني التحدث معك.
 
-**هاتف:** (438) 372-0102
-**بريد إلكتروني:** georges.matar@remax-quebec.com
-**مكتب:** RE/MAX DU CARTIER INC.، 2820، بول. سان-مارتان إيست، مكتب 201، لافال (دوفيرناي)، كيبيك H7E 5A1
+**هاتف:** <bdi dir="ltr">(438) 372-0102</bdi>
+
+**بريد إلكتروني:** <bdi dir="ltr">georges.matar@remax-quebec.com</bdi>
+
+**مكتب:** <bdi dir="ltr">RE/MAX DU CARTIER INC.</bdi>، 2820، بول. سان-مارتان إيست، مكتب 201، لافال (دوفيرناي)، كيبيك <bdi dir="ltr">H7E 5A1</bdi>

@@ -10,7 +10,7 @@
     <div class="breadcrumb">
       <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a>
       <span class="breadcrumb__sep">&rsaquo;</span>
-      <span>Articles</span>
+      <span>{{ if $isFr }}Articles{{ else if $isAr }}مقالات{{ else if $isEs }}Artículos{{ else }}Articles{{ end }}</span>
     </div>
     <h1 class="content-hero__title">{{ if $isFr }}Conseils immobiliers{{ else if $isAr }}نصائح عقارية{{ else if $isEs }}Perspectivas inmobiliarias{{ else }}Real Estate Insights{{ end }}</h1>
     <p style="color:rgba(255,255,255,.65);max-width:560px;margin-top:12px">

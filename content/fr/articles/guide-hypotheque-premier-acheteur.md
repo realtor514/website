@@ -1,6 +1,7 @@
 ---
 title: "Tout ce que les premiers acheteurs doivent savoir sur les hypothèques au Québec"
 date: 2025-06-02
+translationKey: "article-guide-hypotheque"
 category: "Financement"
 description: "Le processus hypothécaire est plus complexe que votre banque le laisse paraître, et plus simple que ce qu'internet vous fait croire. Voici le guide complet et honnête pour les premiers acheteurs au Québec."
 image: "images/articles/guide-hypotheque-premier-acheteur-quebec/featured.jpg"

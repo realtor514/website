@@ -73,7 +73,7 @@
             {{ if $isFr }}Demander de l'information{{ else if $isAr }}اطلب معلومات{{ else if $isEs }}Solicitar información{{ else }}Request Information{{ end }}
           </a>
           <a href="tel:+14383720102" class="btn btn-outline" style="width:100%;justify-content:center;margin-bottom:10px">
-            {{ if $isFr }}Appeler (438) 372-0102{{ else if $isAr }}اتصل 0102-372-438{{ else if $isEs }}Llamar (438) 372-0102{{ else }}Call (438) 372-0102{{ end }}
+            {{ if $isFr }}Appeler{{ else if $isAr }}اتصل{{ else if $isEs }}Llamar{{ else }}Call{{ end }} <bdi dir="ltr">(438) 372-0102</bdi>
           </a>
           <button class="btn btn-outline" style="width:100%;justify-content:center" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
             {{ if $isFr }}Planifier une visite{{ else if $isAr }}احجز زيارة{{ else if $isEs }}Programar una visita{{ else }}Schedule a Viewing{{ end }}

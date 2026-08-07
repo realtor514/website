@@ -47,7 +47,7 @@
             <span>*</span>
           </label>
           <input class="network-input" id="nf-email" name="email" type="email" required
-            placeholder="{{ if $isFr }}vous@exemple.com{{ else if $isAr }}you@example.com{{ else }}you@example.com{{ end }}">
+            placeholder="{{ if $isFr }}vous@exemple.com{{ else if $isAr }}name@example.com{{ else if $isEs }}juan@ejemplo.com{{ else }}you@example.com{{ end }}">
         </div>
 
         <!-- Phone -->
@@ -66,7 +66,7 @@
             {{ if $isFr }}Date de naissance (optionnel){{ else if $isAr }}تاريخ الميلاد (اختياري){{ else if $isEs }}Fecha de nacimiento (opcional){{ else }}Date of birth (optional){{ end }}
           </label>
           <input class="network-input" id="nf-dob" name="dob" type="date"
-            placeholder="JJ / MM / AAAA">
+            placeholder="{{ if $isFr }}JJ / MM / AAAA{{ else if $isAr }}يوم / شهر / سنة{{ else if $isEs }}DD / MM / AAAA{{ else }}DD / MM / YYYY{{ end }}">
         </div>
 
         <!-- Already working with a broker? -->

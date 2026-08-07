@@ -1,6 +1,7 @@
 ---
 title: "التكلفة الحقيقية لشراء أول منزل في كيبيك"
 date: 2025-05-01
+translationKey: "article-vrai-cout-premiere-maison"
 category: "دليل المشتري"
 description: "الجميع يتحدث عن سعر الشراء. لا أحد يخبرك بما يأتي بعده. هذا هو التفصيل الكامل للتكاليف التي يحتاج كل مشترٍ للمرة الأولى في كيبيك معرفتها."
 image: "images/articles/vrai-cout-achat-premiere-maison-quebec/featured.jpg"
