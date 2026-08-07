@@ -54,7 +54,13 @@ Lo digo sinceramente, hay situaciones en que es una decisión razonable:
 - Tiene experiencia real en transacciones inmobiliarias y tiempo para dedicarle.
 - Está dispuesto a contratar un notario para encuadrar la parte jurídica y asumir el resto.
 
-En esos casos, contrate un notario temprano en el proceso y haga preparar un certificado de ubicación actualizado.
+Pero tenga claro lo que deja de lado al mismo tiempo: vendiendo solo, usted renuncia a varias protecciones legales que existen únicamente en una transacción encuadrada por un corredor.
+
+Los formularios obligatorios de la OACIQ, la promesa de compra y las declaraciones del vendedor, no son papeleo. Fueron redactados para repartir con claridad las responsabilidades entre las partes y cerrar las puertas a los litigios antes de que se abran. Un corredor tiene además un deber legal de verificación e información, cuenta con un seguro de responsabilidad profesional, y las partes de una transacción encuadrada por un corredor están cubiertas por el Fondo de Indemnización del Corretaje Inmobiliario en casos de fraude o de desvío de fondos.
+
+Nada de eso se aplica a una venta entre particulares. Si algo sale mal después de la firma, no tiene organismo de supervisión al que dirigirse, ni seguro detrás de la otra parte, ni fondo de indemnización. Su único recurso es el tribunal civil, a su costa y durante varios años.
+
+No es un argumento para asustarlo, es una línea que debe entrar en su cálculo igual que la retribución. Si aun así decide ir solo, contrate un notario temprano en el proceso, haga preparar un certificado de ubicación actualizado y complete las declaraciones del vendedor con la misma seriedad con que lo haría un corredor.
 
 ## Cuándo cuesta más de lo que ahorra
 

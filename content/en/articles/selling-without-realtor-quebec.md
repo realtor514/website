@@ -54,7 +54,13 @@ I will say it sincerely, there are situations where it is a reasonable choice:
 - You have real transaction experience and time to devote to it.
 - You are willing to hire a notary to handle the legal side and take on the rest yourself.
 
-In those cases, engage a notary early in the process and get an up-to-date certificate of location prepared.
+But be clear about what you are setting aside at the same time: selling on your own means giving up several legal protections that exist only in a transaction handled by a broker.
+
+The OACIQ's mandatory forms, the promise to purchase and the seller's declarations, are not paperwork. They were written to allocate responsibility clearly between the parties and to close the doors on disputes before they open. A broker also carries a legal duty to verify and inform, holds professional liability insurance, and the parties to a broker-handled transaction are covered by the Real Estate Indemnity Fund in cases of fraud or misappropriation of funds.
+
+None of that applies to a private sale. If something goes wrong after signing, you have no regulator to turn to, no insurance standing behind the other party, and no indemnity fund. Your only recourse is civil court, at your own expense and over several years.
+
+This is not meant to scare you, it is a line to put in your calculation alongside the compensation figure. If you decide to go it alone anyway, engage a notary early in the process, get an up-to-date certificate of location prepared, and complete the seller's declarations with the same seriousness a broker would.
 
 ## When it costs more than it saves
 

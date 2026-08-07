@@ -54,7 +54,13 @@ Je le dis sincèrement, il y a des situations où c'est un choix raisonnable:
 - Vous avez de l'expérience en transactions immobilières et du temps à y consacrer.
 - Vous êtes prêt à payer un notaire pour encadrer la partie juridique et à assumer le reste.
 
-Dans ces cas, engagez au minimum un notaire tôt dans le processus et faites préparer un certificat de localisation à jour.
+Mais soyez conscient de ce que vous laissez de côté en même temps: en vendant seul, vous vous privez de plusieurs protections légales qui n'existent que dans une transaction encadrée par un courtier.
+
+Les formulaires obligatoires de l'OACIQ, la promesse d'achat et les déclarations du vendeur, ne sont pas de la paperasse. Ils ont été écrits pour répartir clairement les responsabilités entre les parties et fermer les portes aux litiges avant qu'ils ne s'ouvrent. Un courtier a par ailleurs un devoir légal de vérification et d'information, il détient une assurance responsabilité professionnelle, et les parties à une transaction encadrée par un courtier sont couvertes par le Fonds d'indemnisation du courtage immobilier en cas de fraude ou de détournement de fonds.
+
+Rien de tout cela ne s'applique à une vente entre particuliers. Si quelque chose tourne mal après la signature, vous n'avez ni organisme de surveillance à qui vous adresser, ni assurance derrière l'autre partie, ni fonds d'indemnisation. Votre seul recours est le tribunal civil, à vos frais et sur plusieurs années.
+
+Ce n'est pas un argument pour vous faire peur, c'est une ligne à mettre dans votre calcul au même titre que la rétribution. Si vous décidez quand même d'y aller seul, engagez au minimum un notaire tôt dans le processus, faites préparer un certificat de localisation à jour, et remplissez les déclarations du vendeur avec le même sérieux qu'un courtier le ferait.
 
 ## Quand ça coûte plus cher que ça rapporte
 
