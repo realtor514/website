@@ -1,6 +1,6 @@
 ---
 title: "Guide immobilier de la Rive-Nord : Laval, Terrebonne et au-delà"
-date: 2025-05-19
+date: 2026-07-12
 category: "Guide local"
 description: "La Rive-Nord offre certaines des meilleures propositions de valeur dans l'immobilier du Grand Montréal. Voici une analyse honnête de ce que chaque secteur offre."
 image: "images/articles/rive-nord-guide-laval/featured.jpg"

@@ -50,7 +50,7 @@ Mirabel is the result of merging about ten former villages separated by agricult
 
 Comparing a Saint-Janvier sale to a Saint-Benoît property makes no sense. That is exactly what online tools do.
 
-## What I check here
+## What to check here
 
 **Agricultural zoning**, before any offer on a rural property. Construction, expansion and subdivision possibilities are strictly governed.
 
@@ -62,6 +62,6 @@ Comparing a Saint-Janvier sale to a Saint-Benoît property makes no sense. That 
 
 For a seller, the marketing has to target the right pool. A buyer looking in Saint-Janvier is generally not looking in Saint-Benoît.
 
-I prepare the comparative analysis at no charge, with comparables from your specific sector rather than the city as a whole.
+The comparative analysis is prepared at no charge, with comparables from your specific sector rather than the city as a whole.
 
 For a buyer, the [mortgage calculator](/en/tools/mortgage/) will give you a first basis before the visits.

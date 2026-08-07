@@ -48,7 +48,7 @@ The city also has a significant historic anglophone community, which widens the 
 
 **The waterfront**, on the Châteauguay river and Lac Saint-Louis, is a distinct market.
 
-## What I check here
+## What to check here
 
 **System age**, because a large share of the stock is between 35 and 60 years old: roof, electrical service, windows, French drain. It is the item that most often explains the gap between two apparently comparable properties.
 
@@ -60,6 +60,6 @@ The city also has a significant historic anglophone community, which widens the 
 
 For a seller, preparation matters a lot: in a market where buyers are price-sensitive, a property whose obvious work has not been done gets negotiated hard.
 
-I prepare the comparative analysis at no charge and tell you frankly what needs correcting before listing.
+The comparative analysis is prepared at no charge and tell you frankly what needs correcting before listing.
 
 For a buyer, plan for [closing costs](/en/tools/closing-costs/) beyond the down payment.

@@ -1,6 +1,6 @@
 ---
 title: "Condo vs. House in Montreal: How to Actually Decide"
-date: 2025-05-19
+date: 2026-05-20
 category: "Buyer's Guide"
 description: "Most buyers have a gut preference before they analyze anything. Here is the framework to verify whether that preference matches your actual situation, priorities, and financial position."
 image: "images/articles/condo-vs-house-montreal/featured.jpg"

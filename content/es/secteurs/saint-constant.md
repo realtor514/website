@@ -46,7 +46,7 @@ Saint-Constant forma parte de la misma cuenca que Candiac, Delson y Sainte-Cathe
 
 **Sainte-Marguerite** y las franjas rurales ofrecen terrenos más grandes, a veces sin conexión a los servicios municipales.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **La garantía de construcción residencial** para las propiedades de menos de diez años.
 
@@ -58,4 +58,4 @@ Saint-Constant forma parte de la misma cuenca que Candiac, Delson y Sainte-Cathe
 
 La cuenca de compradores incluye a quienes comparan Candiac, Delson y La Prairie en paralelo. El precio de salida debe tener en cuenta esa comparación.
 
-Preparo el análisis comparativo sin costo. Para comprar, establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/).
+El análisis comparativo se prepara sin costo. Para comprar, establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/).

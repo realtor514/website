@@ -1,6 +1,6 @@
 ---
 title: "The Real Cost of Buying Your First Home in Quebec"
-date: 2025-05-01
+date: 2026-06-10
 translationKey: "article-vrai-cout-premiere-maison"
 category: "Buyer's Guide"
 description: "Everyone talks about the purchase price. Nobody tells you about what comes after. Here is the complete cost breakdown every first-time buyer in Quebec needs to know."

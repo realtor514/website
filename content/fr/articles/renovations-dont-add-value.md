@@ -1,6 +1,6 @@
 ---
 title: "Vos rénovations n'ajouteront pas ce que vous pensez à la valeur de votre maison"
-date: 2025-05-19
+date: 2026-07-20
 category: "Guide du vendeur"
 description: "Les vendeurs surestiment systématiquement les retours sur rénovation. Voici l'analyse honnête avant de toucher quoi que ce soit."
 image: "images/articles/renovations-dont-add-value/featured.jpg"

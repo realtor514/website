@@ -1,6 +1,6 @@
 ---
 title: "Realtor, Broker, Agent: What's the Actual Difference in Quebec?"
-date: 2025-05-19
+date: 2026-07-21
 category: "Real Estate 101"
 description: "Most buyers and sellers use these terms interchangeably. They're not the same. Here's a clear breakdown of what each designation means, who regulates them, and why it matters for you."
 image: "images/articles/broker-agent-difference-quebec/featured.jpg"

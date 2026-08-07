@@ -1,6 +1,6 @@
 ---
 title: "Louer ou acheter à Montréal : le calcul honnête"
-date: 2025-05-19
+date: 2026-05-23
 category: "Financement"
 description: "Le débat louer vs acheter est plein d'idéologie des deux côtés. Les mathématiques tranchent mieux. Voici le vrai calcul."
 image: "images/articles/renting-vs-buying-calculation/featured.jpg"

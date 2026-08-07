@@ -51,7 +51,7 @@ Para un vendedor, eso significa que la buena comparación no es únicamente loca
 
 **El sector ribereño** constituye un mercado distinto. Menos compradores, pero una demanda estable y poco sensible a las fluctuaciones generales. Las restricciones normativas ligadas a las franjas ribereñas y a las zonas inundables deben verificarse propiedad por propiedad: dos casas vecinas pueden tener estatus diferentes.
 
-## Lo que priorizo aquí
+## Lo que hay que priorizar aquí
 
 **La cartografía de zonas inundables**, para toda propiedad situada cerca del río o de la rivière L'Assomption. Afecta a la asegurabilidad, la financiación y la reventa. No es una razón para no comprar, es una razón para saber exactamente qué compra.
 
@@ -63,7 +63,7 @@ Para un vendedor, eso significa que la buena comparación no es únicamente loca
 
 El precio de salida debe tener en cuenta las dos cuencas de compradores: los locales y los que vienen del este de la isla. Estos últimos comparan su propiedad con lo que habrían obtenido en Rivière-des-Prairies por el mismo importe, y esa comparación decide a menudo la oferta.
 
-Preparo el análisis comparativo sin costo, incluyendo las ventas recientes de su sector y las propiedades retiradas del mercado sin encontrar comprador.
+El análisis comparativo se prepara sin costo, incluyendo las ventas recientes de su sector y las propiedades retiradas del mercado sin encontrar comprador.
 
 ## Comprar en Repentigny
 

@@ -54,7 +54,7 @@ Enfin, le centre-ville piétonnier est un actif réel: peu de banlieues de la r�
 
 **Le secteur des lacs**, en bordure du parc, constitue un marché distinct avec peu de transactions et une demande constante.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **Les servitudes et les contraintes de zonage** pour les propriétés adjacentes au parc national. Certains terrains comportent des restrictions d'aménagement qui n'apparaissent pas dans l'inscription.
 
@@ -66,7 +66,7 @@ Enfin, le centre-ville piétonnier est un actif réel: peu de banlieues de la r�
 
 Avec un inventaire étroit, la fenêtre des trois premières semaines est déterminante. Une propriété correctement affichée et bien préparée reçoit ses meilleures offres dans cette période. Une propriété surévaluée la manque et se vend ensuite plus bas qu'elle n'aurait dû.
 
-Je prépare l'analyse comparative sans frais, avec les comparables de votre secteur précis.
+L'analyse comparative est préparée sans frais, avec les comparables de votre secteur précis.
 
 ## Acheter à Saint-Bruno
 

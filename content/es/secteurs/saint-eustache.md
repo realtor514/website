@@ -44,7 +44,7 @@ Saint-Eustache combina uno de los núcleos patrimoniales más significativos de 
 
 **Los sectores familiares** (Grand-Chêne, Arthur-Sauvé, Rivière-Nord) aportan el volumen, con casas construidas mayoritariamente entre 1980 y 2010.
 
-## Lo que priorizo aquí
+## Lo que hay que priorizar aquí
 
 **La cartografía de zonas inundables**, para toda propiedad cercana al agua. Es el punto más importante en Saint-Eustache y el que los compradores descubren demasiado a menudo después de la promesa de compra.
 
@@ -56,4 +56,4 @@ Saint-Eustache combina uno de los núcleos patrimoniales más significativos de 
 
 Para un vendedor, la comparación correcta es local y no municipal: el Vieux-Saint-Eustache y el Grand-Chêne no atraen al mismo comprador.
 
-Preparo el análisis comparativo sin costo, con los comparables de su sector preciso. Para comprar, prevea los [costos de cierre](/es/tools/closing-costs/).
+El análisis comparativo se prepara sin costo, con los comparables de su sector preciso. Para comprar, prevea los [costos de cierre](/es/tools/closing-costs/).

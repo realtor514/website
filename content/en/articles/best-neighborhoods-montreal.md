@@ -1,6 +1,6 @@
 ---
 title: "Where to Buy in Montreal Right Now: A Neighbourhood Analysis"
-date: 2025-05-19
+date: 2026-05-07
 category: "Market Insights"
 description: "Not all Montreal neighbourhoods are equal investments. Here is an analysis by objective: long-term appreciation, rental income, and the areas to examine carefully."
 image: "images/articles/best-neighborhoods-montreal/featured.jpg"

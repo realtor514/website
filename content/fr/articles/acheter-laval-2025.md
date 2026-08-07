@@ -1,6 +1,6 @@
 ---
 title: "5 choses à savoir avant d'acheter à Laval"
-date: 2025-01-15
+date: 2026-05-19
 translationKey: "article-buying-in-laval"
 category: "Guide de l'acheteur"
 description: "Un guide pratique pour les acheteurs qui veulent entrer sur le marché immobilier de Laval."

@@ -1,6 +1,6 @@
 ---
 title: "The Quebec Notary Process: What Every Buyer Needs to Know"
-date: 2025-05-19
+date: 2026-08-04
 category: "Real Estate 101"
 description: "In Quebec, real estate transactions close through a notary, not a lawyer. The process is different from other provinces and significantly different from what international buyers expect. Here is a clear explanation."
 image: "images/articles/quebec-notary-process/featured.jpg"

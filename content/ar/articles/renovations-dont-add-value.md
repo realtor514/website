@@ -1,6 +1,6 @@
 ---
 title: "تجديداتك لن تضيف ما تظنه لقيمة منزلك"
-date: 2025-05-19
+date: 2026-07-20
 category: "دليل البائع"
 description: "البائعون يبالغون باستمرار في تقدير عوائد التجديد. إليك التحليل الصادق."
 image: "images/articles/renovations-dont-add-value/featured.jpg"

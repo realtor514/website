@@ -1,6 +1,6 @@
 ---
 title: "House Flipping in Montreal: The Honest Math Nobody Shows You"
-date: 2025-05-19
+date: 2026-05-21
 category: "Investment"
 description: "House flipping looks profitable on television. The actual numbers, once you include all the costs, tell a more sobering story. Here is a realistic framework for evaluating whether a flip makes sense."
 image: "images/articles/house-flipping-montreal/featured.jpg"

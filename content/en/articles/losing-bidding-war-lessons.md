@@ -1,6 +1,6 @@
 ---
 title: "Losing a Bidding War Is Not Always Bad News"
-date: 2025-05-19
+date: 2026-06-11
 category: "Buyer's Guide"
 description: "Losing a multiple-offer situation feels terrible in the moment. Yet some of the best real estate outcomes come from offers that did not win."
 image: "images/articles/losing-bidding-war-lessons/featured.jpg"

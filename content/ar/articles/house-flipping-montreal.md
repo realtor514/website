@@ -1,6 +1,6 @@
 ---
 title: "تقليب المنازل في مونتريال: الحسابات الحقيقية التي لا يريك إياها أحد"
-date: 2025-05-19
+date: 2026-05-21
 category: "استثمار"
 description: "تقليب العقارات يبدو مربحاً على شاشة التلفزيون. الأرقام الفعلية تحكي قصة أكثر رصانة."
 image: "images/articles/house-flipping-montreal/featured.jpg"

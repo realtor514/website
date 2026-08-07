@@ -41,7 +41,7 @@ La Prairie es uno de los municipios más antiguos de Quebec, y se nota en la est
 
 **Symbiocité y los desarrollos recientes** funcionan al revés: propiedades nuevas o casi nuevas, normas altas, comparables fiables. La cuestión aquí no es el patrimonio sino la garantía de construcción y el estado real del terreno.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **El reglamento del distrito histórico**, antes de cualquier proyecto de renovación exterior en el Vieux-La Prairie.
 
@@ -53,4 +53,4 @@ La Prairie es uno de los municipios más antiguos de Quebec, y se nota en la est
 
 Para un vendedor, la clave es dirigirse a la cuenca correcta: el Vieux-La Prairie y Symbiocité no atraen en absoluto a la misma clientela, y la comercialización debe tenerlo en cuenta.
 
-Preparo el análisis comparativo sin costo, con los comparables de su sector preciso. Para comprar, empiece por la preaprobación y pruebe sus escenarios con la [calculadora hipotecaria](/es/tools/mortgage/).
+El análisis comparativo se prepara sin costo, con los comparables de su sector preciso. Para comprar, empiece por la preaprobación y pruebe sus escenarios con la [calculadora hipotecaria](/es/tools/mortgage/).

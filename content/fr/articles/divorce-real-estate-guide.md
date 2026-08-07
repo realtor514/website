@@ -1,6 +1,6 @@
 ---
 title: "Divorce et immobilier au Québec : ce que vous devez savoir"
-date: 2025-05-19
+date: 2026-06-20
 category: "Immobilier 101"
 description: "Les couples qui se séparent font face à certaines des décisions immobilières les plus complexes de leur vie dans les pires circonstances émotionnelles."
 image: "images/articles/divorce-real-estate-guide/featured.jpg"

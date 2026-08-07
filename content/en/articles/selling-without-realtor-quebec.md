@@ -1,15 +1,15 @@
 ---
 title: "Selling With or Without a Realtor in Quebec: The Honest Comparison"
-date: 2026-08-07
+date: 2026-05-09
 translationKey: "article-vendre-sans-courtier"
 category: "Seller's Guide"
 description: "It is the number one question Quebec sellers ask. Here are the real numbers, what you actually save, what risk you take on, and the cases where selling privately genuinely makes sense."
 image: "images/articles/selling-without-realtor-quebec/featured.jpg"
 ---
 
-This is the question sellers ask most often, and often the one they hesitate to ask me directly: do I really need a broker to sell my house?
+This is the most common question among Quebec sellers, and often the one they hesitate to put to a broker directly: do you really need a broker to sell your house?
 
-I am going to answer honestly, including in the cases where the answer does not work in my favour.
+Here is the full comparison, including the cases where selling on your own is the right call.
 
 ## What you actually save
 
@@ -47,7 +47,7 @@ Selling without a broker means handling:
 
 ## When selling privately makes sense
 
-I will say it sincerely, there are situations where it is a reasonable choice:
+There are situations where it is a perfectly reasonable choice:
 
 - You already have a buyer identified, such as a family member, a tenant or a neighbour.
 - Your property sits in an extremely sought-after area with very little inventory, and you accept selling to the first serious buyer.
@@ -71,11 +71,11 @@ Conversely, be careful if:
 - The market is slowing in your area and buyers have to be actively pursued.
 - You are selling in the context of a separation, an estate or joint ownership, where a neutral third party has real value.
 
-## Where I stand
+## What actually justifies a broker
 
-A broker is not justified by planting a sign and opening doors. A broker is justified by better positioning on price, wider exposure, colder negotiation, and reduced legal risk after the sale.
+A broker is not justified by planting a sign and opening doors. A broker is justified by better positioning on price, wider exposure, a negotiation run at a distance from the emotion, and reduced legal risk after the sale.
 
-If the compensation figure is your main concern, let us talk about it first. It is negotiable, and I would rather have a frank conversation about numbers than have a seller walk away feeling something was hidden from them.
+If the compensation figure is your main concern, that is the first item to put on the table. The rate is negotiable, and a frank conversation about numbers beats a signed contract with the feeling that something was held back.
 
 To position your property before you even decide, start with a [value estimate](/en/tools/home-estimate/) and read [the real cost of selling in Quebec](/en/articles/real-cost-selling-home-quebec/), which covers every fee other than compensation.
 

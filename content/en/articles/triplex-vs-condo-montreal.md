@@ -1,6 +1,6 @@
 ---
 title: "Triplex vs Condo in Montreal: How to Decide With Numbers"
-date: 2025-05-19
+date: 2026-08-03
 category: "Investment"
 description: "Two of the most popular property types in Greater Montreal, two completely different financial profiles. Here is the analytical framework that settles it."
 image: "images/articles/triplex-vs-condo-montreal/featured.jpg"

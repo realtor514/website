@@ -43,7 +43,7 @@ El mercado es esencialmente unifamiliar, con algunos adosados y un número limit
 
 Es exactamente el tipo de mercado donde un análisis manual vale más que un algoritmo.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **La edad de los sistemas**, porque parte del parque data de los años 1960 a 1980: techo, entrada eléctrica, ventanas, drenaje francés.
 
@@ -55,4 +55,4 @@ Es exactamente el tipo de mercado donde un análisis manual vale más que un alg
 
 Con un volumen de transacciones bajo, el precio de salida inicial es aún más determinante: hay menos compradores para absorber un error y una propiedad sobrevalorada se queda en el mercado.
 
-Preparo el análisis comparativo sin costo, ampliando si hace falta a las ciudades vecinas y ajustando por la diferencia de mercado. Para comprar, la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) le dará su horquilla real.
+El análisis comparativo se prepara sin costo, ampliando si hace falta a las ciudades vecinas y ajustando por la diferencia de mercado. Para comprar, la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) le dará su horquilla real.

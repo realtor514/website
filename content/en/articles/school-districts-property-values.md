@@ -1,6 +1,6 @@
 ---
 title: "How School Catchment Zones Affect Property Values in Montreal and Laval"
-date: 2025-05-19
+date: 2026-06-02
 category: "Market Insights"
 description: "School zones are one of the least discussed and most impactful variables in residential real estate. Here is how they work in Quebec and what they mean for buyers and investors."
 image: "images/articles/school-districts-property-values/featured.jpg"

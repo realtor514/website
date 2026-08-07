@@ -1,6 +1,6 @@
 ---
 title: "What to Actually Look for During a Home Inspection"
-date: 2025-05-19
+date: 2026-06-25
 category: "Buyer's Guide"
 description: "Most buyers follow the inspector around and nod. Here's how to actually understand what you're seeing - the issues that matter, the ones that don't, and the questions to ask."
 image: "images/articles/home-inspection-checklist-montreal/featured.jpg"

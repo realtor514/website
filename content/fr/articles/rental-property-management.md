@@ -1,6 +1,6 @@
 ---
 title: "Gérer des propriétés locatives à Montréal et Laval : ce que les premiers propriétaires doivent savoir"
-date: 2025-05-19
+date: 2026-06-27
 category: "Investissement"
 description: "Posséder un immeuble locatif et le gérer sont deux compétences différentes. Voici la réalité opérationnelle."
 image: "images/articles/rental-property-management/featured.jpg"

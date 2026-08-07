@@ -1,13 +1,13 @@
 ---
 title: "¿Cuánto tiempo toma realmente vender una casa en Montreal?"
-date: 2026-08-07
+date: 2026-06-21
 translationKey: "article-combien-temps-vendre"
 category: "Guía del Vendedor"
 description: "El plazo de venta depende mucho menos del mercado que de tres decisiones que usted controla. Aquí está el calendario realista, desde la primera llamada hasta la firma ante el notario."
 image: "images/articles/how-long-to-sell-house-montreal/featured.jpg"
 ---
 
-Cuando un vendedor me pregunta cuánto tiempo tomará, generalmente piensa en el plazo entre la publicación y la oferta aceptada. Eso es solo una parte de la respuesta, y a menudo la más corta.
+Cuando un vendedor se pregunta cuánto tiempo tomará, generalmente piensa en el plazo entre la publicación y la oferta aceptada. Eso es solo una parte de la respuesta, y a menudo la más corta.
 
 Aquí está el calendario completo, con los puntos donde el tiempo se pierde realmente.
 

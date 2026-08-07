@@ -58,7 +58,7 @@ In a market where buyers have high expectations, preparation is not an extra: it
 
 In practice, properties that sell quickly and at asking price in Blainville share three things: they are decluttered, visible minor repairs are done, and the photography is professional. Properties that accumulate days on market have almost always failed on at least one of those three points, before price is even the issue.
 
-I prepare the comparative analysis at no charge, and I tell you honestly what needs to be corrected before listing. Including when the answer is "nothing, let's list this week."
+The comparative analysis is prepared at no charge, with an honest read on what needs to be corrected before listing. Including when the answer is "nothing, let's list this week."
 
 ## Buying in Blainville
 

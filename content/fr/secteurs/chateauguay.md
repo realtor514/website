@@ -48,7 +48,7 @@ La ville compte aussi une communauté anglophone historique importante, ce qui �
 
 **Le front riverain**, sur la rivière Châteauguay et le lac Saint-Louis, constitue un marché distinct.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **L'âge des systèmes**, parce qu'une grande partie du parc a entre 35 et 60 ans: toiture, entrée électrique, fenêtres, drain français. C'est le poste qui explique le plus souvent l'écart entre deux propriétés apparemment comparables.
 
@@ -60,6 +60,6 @@ La ville compte aussi une communauté anglophone historique importante, ce qui �
 
 Pour un vendeur, la préparation compte beaucoup: dans un marché où les acheteurs sont sensibles au prix, une propriété dont les travaux évidents n'ont pas été faits se fait négocier durement.
 
-Je prépare l'analyse comparative sans frais et je vous dis franchement ce qui doit être corrigé avant l'affichage.
+L'analyse comparative est préparée sans frais, avec un avis franc sur ce qui doit être corrigé avant l'affichage.
 
 Pour un acheteur, prévoyez les [coûts de clôture](/tools/closing-costs/) au-delà de la mise de fonds.

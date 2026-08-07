@@ -1,6 +1,6 @@
 ---
 title: "Les immeubles à revenus à Montréal : le guide honnête pour débutants"
-date: 2025-05-19
+date: 2026-06-22
 category: "Investissement"
 description: "Tout le monde dit que les immeubles à revenus bâtissent de la richesse. Très peu de personnes expliquent vraiment les mécanismes concrets."
 image: "images/articles/income-property-beginners/featured.jpg"

@@ -46,7 +46,7 @@ Longueuil est la porte d'entrée de la Rive-Sud, et l'une des rares villes de la
 
 **Greenfield Park** garde une identité propre, avec une communauté anglophone historique et un parc immobilier des années 1950 à 1970. Les terrains matures et les arbres établis y sont un argument réel pour une partie des acheteurs.
 
-## Ce que je vérifie en priorité ici
+## Ce qu'il faut vérifier en priorité ici
 
 **L'âge des systèmes**, dans le Vieux-Longueuil et à Greenfield Park. Une bonne partie du parc a plus de cinquante ans: toiture, entrée électrique, plomberie en fonte, drain français. Ce n'est pas un obstacle, c'est un montant à intégrer dans l'offre.
 
@@ -58,7 +58,7 @@ Longueuil est la porte d'entrée de la Rive-Sud, et l'une des rares villes de la
 
 Le bassin d'acheteurs vient autant de l'île que de la Rive-Sud, ce qui élargit la comparaison. Un acheteur qui quitte Hochelaga compare votre propriété à ce qu'il aurait obtenu en restant sur l'île, et c'est souvent cette comparaison qui décide de l'offre.
 
-Je prépare l'analyse comparative sans frais, avec les ventes récentes de votre arrondissement précis et les propriétés retirées du marché sans avoir trouvé preneur.
+L'analyse comparative est préparée sans frais, avec les ventes récentes de votre arrondissement précis et les propriétés retirées du marché sans avoir trouvé preneur.
 
 ## Acheter à Longueuil
 

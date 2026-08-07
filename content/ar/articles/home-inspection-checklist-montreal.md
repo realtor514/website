@@ -1,6 +1,6 @@
 ---
 title: "ما يجب البحث عنه فعلاً في تفتيش المنزل"
-date: 2025-05-19
+date: 2026-06-25
 category: "دليل المشتري"
 description: "معظم المشترين يتبعون المفتش ويومئون برأسهم. إليك كيفية فهم ما تراه فعلاً."
 image: "images/articles/home-inspection-checklist-montreal/featured.jpg"

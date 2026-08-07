@@ -50,7 +50,7 @@ A eso se suma una población cuyo ingreso mediano está entre los más altos de 
 
 **El sector ribereño** es un mercado aparte, con menos compradores pero demanda estable. Las restricciones de franja ribereña deben verificarse propiedad por propiedad.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **La edad de los sistemas** en los sectores de los años 1970 y 1980: techo, ventanas, drenaje francés.
 
@@ -62,4 +62,4 @@ A eso se suma una población cuyo ingreso mediano está entre los más altos de 
 
 Los compradores tienen expectativas altas y muchos medios de comparación. Una propiedad despejada, con las reparaciones menores visibles hechas y fotografía profesional, se vende claramente mejor que una comparable presentada tal cual.
 
-Preparo el análisis comparativo sin costo. Para comprar, haga la inspección completa sin excepción y prepare sus cifras con la [calculadora hipotecaria](/es/tools/mortgage/).
+El análisis comparativo se prepara sin costo. Para comprar, haga la inspección completa sin excepción y prepare sus cifras con la [calculadora hipotecaria](/es/tools/mortgage/).

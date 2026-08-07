@@ -58,13 +58,13 @@ En un mercado donde los compradores tienen expectativas altas, la preparación n
 
 En concreto, las propiedades que se venden rápido y al precio pedido en Blainville tienen tres cosas en común: están despejadas, las reparaciones menores visibles están hechas y la fotografía es profesional. Las propiedades que acumulan días en el mercado han fallado casi siempre en al menos uno de esos tres puntos, antes incluso de que el precio sea el problema.
 
-Preparo el análisis comparativo sin costo y le digo con honestidad qué debe corregirse antes de publicar. Incluso cuando la respuesta es "nada, publiquemos esta semana".
+El análisis comparativo se prepara sin costo, con una lectura honesta de lo que debe corregirse antes de publicar. Incluso cuando la respuesta es "nada, publiquemos esta semana".
 
 ## Comprar en Blainville
 
 El principal riesgo aquí es la compra emocional. Blainville se presenta bien, y una visita en una tarde de primavera rara vez da una idea justa de lo que se está comprando.
 
-Lo que verifico sistemáticamente: la edad real del techo y de las ventanas, el estado del drenaje francés en las propiedades de los años 1980, y el historial de la piscina enterrada cuando la hay, porque su costo de puesta a punto es lo que más sorprende a los compradores.
+Lo que hay que verificar sistemáticamente: la edad real del techo y de las ventanas, el estado del drenaje francés en las propiedades de los años 1980, y el historial de la piscina enterrada cuando la hay, porque su costo de puesta a punto es lo que más sorprende a los compradores.
 
 También se beneficia de la protección [Intégri-T](/es/advantages/integri-t/), que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial, incluida en mi acompañamiento.
 

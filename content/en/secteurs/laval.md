@@ -35,11 +35,11 @@ faq:
   - q: "Which Laval neighbourhoods do you cover?"
     a: "All 14 sectors of the city, from Laval-Ouest to Saint-François. My RE/MAX Du Cartier office is at 2820 boul. St-Martin Est in Duvernay, which puts me less than 20 minutes from any Laval neighbourhood. I cover Montreal, Terrebonne, Blainville, Repentigny, Saint-Jérôme and the entire North Shore, Laurentians and Lanaudière on the same footing."
   - q: "How much does a property evaluation in Laval cost?"
-    a: "Nothing. The comparative market analysis I prepare for a seller is free and carries no obligation. You leave with the real comparables from your street, not an algorithm-generated estimate."
+    a: "Nothing. The comparative market analysis prepared for a seller is free and carries no obligation. You leave with the real comparables from your street, not an algorithm-generated estimate."
   - q: "Is Laval a good market for a first purchase?"
     a: "For many buyers, yes. The sectors served by the orange metro line, Pont-Viau, Laval-des-Rapides and Duvernay, often offer a better square-footage-to-price ratio than central Montreal neighbourhoods, with direct downtown access. It is a case-by-case calculation, and I do it with you before you visit anything."
   - q: "Do you work with investors in Laval?"
-    a: "Yes. Plexes in Chomedey, Pont-Viau and Laval-des-Rapides make up a significant part of my work. I analyze the real return before the visit: income, taxes, operating costs, capital reserve, not the cap rate printed in the listing."
+    a: "Yes. Plexes in Chomedey, Pont-Viau and Laval-des-Rapides make up a significant part of the Laval market. I analyze the real return before the visit: income, taxes, operating costs, capital reserve, not the cap rate printed in the listing."
   - q: "What languages do you work in?"
     a: "French, English, Spanish and Arabic. This matters concretely when a transaction involves a family whose members do not all share a language: nobody signs a document they do not understand."
 ---
@@ -58,11 +58,11 @@ Laval is not a uniform suburb. It is a city of 450,000 people containing at leas
 
 **The northeast** (Saint-François, Saint-Vincent-de-Paul, Auteuil) remains more affordable, with larger lots. This is where buyers priced out of Duvernay or Vimont often end up finding what they want.
 
-## Selling in Laval: what I do differently
+## Selling in Laval: what makes the difference
 
 The list price is the single most consequential decision of the entire sale, and it is the one most sellers make with the least data.
 
-I prepare a comparative analysis that goes beyond recent sales on your street. I also examine properties withdrawn from the market without selling, because they tell you where the real buyer ceiling sits in your sector. Online estimates never capture that.
+The comparative analysis prepared is one that goes beyond recent sales on your street. It also includes properties withdrawn from the market without selling, because they tell you where the real buyer ceiling sits in your sector. Online estimates never capture that.
 
 Then: professional photography, marketing on Centris and across the RE/MAX network, and a concentrated rather than scattered showing strategy. A property that gets eight visits in four days negotiates very differently from one that gets eight visits over five weeks.
 
@@ -70,7 +70,7 @@ Then: professional photography, marketing on Centris and across the RE/MAX netwo
 
 Before you visit a single property, we establish three things: your real borrowing capacity confirmed by a lender, the price range that matches what you actually want, and the sectors where that range still exists.
 
-The order matters. Most frustrated buyers I meet have spent months visiting in sectors where their budget only gave them access to the weakest inventory.
+The order matters. Most buyers who lose heart have spent months visiting in sectors where their budget only gave them access to the weakest inventory.
 
 You also benefit from RE/MAX Québec's exclusive programs, included at no additional cost: [Tranquilli-T](/en/advantages/tranquilli-t/) for legal assistance and [Intégri-T](/en/advantages/integri-t/), which covers up to $50,000 in latent defects for three years after the notarial deed.
 

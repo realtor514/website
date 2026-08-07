@@ -42,7 +42,7 @@ Por un lado, un mercado de unifamiliares y adosados impulsado por familias que b
 
 Por otro, un mercado de inmuebles de renta sostenido por el Cégep Lionel-Groulx, la estación de la línea Saint-Jérôme y una base estable de inquilinos. Los precios de entrada son inferiores a los de Laval, lo que atrae a inversores de fuera de la región.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **Los contratos de alquiler vigentes**, para todo inmueble de renta. Los alquileres por debajo del mercado no se corrigen libremente.
 
@@ -54,4 +54,4 @@ Por otro, un mercado de inmuebles de renta sostenido por el Cégep Lionel-Groulx
 
 Para un vendedor de unifamiliar, la preparación y el precio cuentan más que el calendario. Para un vendedor de plex, deciden las cifras: un inmueble con documentación financiera clara se vende más rápido y más caro.
 
-Preparo el análisis comparativo sin costo. Pruebe sus escenarios con la [calculadora hipotecaria](/es/tools/mortgage/).
+El análisis comparativo se prepara sin costo. Pruebe sus escenarios con la [calculadora hipotecaria](/es/tools/mortgage/).

@@ -1,6 +1,6 @@
 ---
 title: "Ce qu'il faut vraiment vérifier lors d'une inspection en bâtiment"
-date: 2025-05-19
+date: 2026-06-25
 category: "Guide de l'acheteur"
 description: "La plupart des acheteurs suivent l'inspecteur et hochent la tête. Voici comment comprendre ce que vous voyez réellement - les problèmes qui comptent et les questions à poser."
 image: "images/articles/home-inspection-checklist-montreal/featured.jpg"

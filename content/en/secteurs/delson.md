@@ -43,7 +43,7 @@ The market is essentially single-family, with a few semi-detached homes and a li
 
 This is exactly the kind of market where a manual analysis beats an algorithm.
 
-## What I check here
+## What to check here
 
 **System age**, because part of the stock dates from the 1960s through the 1980s: roof, electrical service, windows, French drain.
 
@@ -55,6 +55,6 @@ This is exactly the kind of market where a manual analysis beats an algorithm.
 
 With low transaction volume, the initial list price matters even more than elsewhere: there are fewer buyers to absorb a mistake, and an overpriced property sits.
 
-I prepare the comparative analysis at no charge, widening to neighbouring cities when local comparables are insufficient and adjusting for the market difference.
+The comparative analysis is prepared at no charge, widening to neighbouring cities when local comparables are insufficient and adjusting for the market difference.
 
 For a buyer, the [affordability calculator](/en/tools/affordability/) will give you your real range before you start visiting.

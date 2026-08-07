@@ -44,7 +44,7 @@ The Chambly basin is not a landscape detail: it is the main segmentation factor 
 
 **Fonrouge, Domaine des Érables and the Bourgogne sectors** carry the family volume: homes built mostly since 1985, residential streets, reliable comparables.
 
-## What I prioritize here
+## What to prioritize here
 
 **Flood zone mapping** along the Richelieu, for any property near the water.
 
@@ -56,6 +56,6 @@ The Chambly basin is not a landscape detail: it is the main segmentation factor 
 
 The buyer pool is smaller than on the immediate South Shore, which makes the initial list price more decisive: an overpriced property does not correct quickly here.
 
-I prepare the comparative analysis at no charge, with recent sales from your exact sector and properties withdrawn without a buyer, which show the real ceiling.
+The comparative analysis is prepared at no charge, with recent sales from your exact sector and properties withdrawn without a buyer, which show the real ceiling.
 
 On the buying side, establish your range before the visits with the [affordability calculator](/en/tools/affordability/) and plan for [closing costs](/en/tools/closing-costs/).

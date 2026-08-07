@@ -1,6 +1,6 @@
 ---
 title: "How to Get the Best Mortgage Rate in Canada: The Honest Guide"
-date: 2025-05-19
+date: 2026-07-07
 category: "Finance"
 description: "Most buyers accept the first rate their bank offers. There is usually a better option. Here is the systematic approach to finding and securing the lowest rate your financial profile qualifies for."
 image: "images/articles/best-mortgage-rate-canada/featured.jpg"

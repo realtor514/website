@@ -1,6 +1,6 @@
 ---
 title: "Ce que les données disent vraiment sur le marché immobilier de Montréal en 2025"
-date: 2025-05-19
+date: 2026-05-29
 translationKey: "article-marche-immobilier-montreal"
 category: "Analyse de marché"
 description: "Au-delà des manchettes et des prédictions, voici ce que les indicateurs suivis chaque mois révèlent sur l'état réel du marché immobilier de Montréal et Laval."

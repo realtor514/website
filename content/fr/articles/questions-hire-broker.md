@@ -1,6 +1,6 @@
 ---
 title: "5 questions à poser avant d'engager un courtier immobilier"
-date: 2025-05-19
+date: 2026-06-15
 category: "Immobilier 101"
 description: "La plupart des gens engagent un courtier sur la base d'une recommandation ou d'une pancarte. Voici les cinq questions qui révèlent si un courtier servira vraiment vos intérêts."
 image: "images/articles/questions-hire-broker/featured.jpg"

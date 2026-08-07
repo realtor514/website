@@ -1,6 +1,6 @@
 ---
 title: "كيف تبني محفظة عقارية في المنطقة الكبرى لمونتريال بدءاً من الصفر"
-date: 2025-05-19
+date: 2026-05-26
 category: "استثمار"
 description: "ثروة العقارات لا تُبنى من خلال معاملة واحدة رائعة. تُبنى من خلال نهج منهجي على مدى الزمن."
 image: "images/articles/build-real-estate-portfolio/featured.jpg"

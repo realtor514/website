@@ -1,6 +1,6 @@
 ---
 title: "الإيجار مقابل الشراء في مونتريال: حساب صادق"
-date: 2025-05-19
+date: 2026-05-23
 category: "تمويل"
 description: "الجدال بين الإيجار والشراء مليء بالأيديولوجيا من الجانبين. أفضل الرياضيات. إليك الحساب الحقيقي."
 image: "images/articles/renting-vs-buying-calculation/featured.jpg"

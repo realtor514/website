@@ -1,6 +1,6 @@
 ---
 title: "عمولة الوسيط العقاري في كيبيك: ما الذي تدفعه فعلاً؟"
-date: 2025-05-19
+date: 2026-06-16
 category: "عقارات 101"
 description: "العمولة هي الرسوم التي يعرف الجميع أنها موجودة ولا يفهمها أحد بالكامل. إليك شرح شفاف."
 image: "images/articles/commission-explained-quebec/featured.jpg"

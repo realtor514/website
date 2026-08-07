@@ -1,15 +1,15 @@
 ---
 title: "Vender con o sin corredor en Quebec: la comparación honesta"
-date: 2026-08-07
+date: 2026-05-09
 translationKey: "article-vendre-sans-courtier"
 category: "Guía del Vendedor"
 description: "Es la pregunta número uno de los vendedores en Quebec. Aquí están las cifras reales, lo que usted ahorra de verdad, el riesgo que asume y los casos en que vender sin corredor tiene sentido."
 image: "images/articles/selling-without-realtor-quebec/featured.jpg"
 ---
 
-Es la pregunta que los vendedores hacen con más frecuencia, y a menudo la que dudan en hacerme directamente: ¿realmente necesito un corredor para vender mi casa?
+Es la pregunta más común entre los vendedores de Quebec, y a menudo la que dudan en plantearle a un corredor directamente: ¿realmente hace falta un corredor para vender una casa?
 
-Voy a responder con honestidad, incluso en los casos en que la respuesta no me favorece.
+Aquí está la comparación completa, incluidos los casos en que vender por cuenta propia es la decisión correcta.
 
 ## Lo que usted ahorra realmente
 
@@ -47,7 +47,7 @@ Vender sin corredor significa hacerse cargo de:
 
 ## Cuándo vender sin corredor tiene sentido
 
-Lo digo sinceramente, hay situaciones en que es una decisión razonable:
+Hay situaciones en que es una decisión perfectamente razonable:
 
 - Ya tiene un comprador identificado, por ejemplo un familiar, un inquilino o un vecino.
 - Su propiedad está en un sector muy solicitado con muy poco inventario y acepta vender al primer comprador serio.
@@ -71,11 +71,11 @@ En cambio, tenga cuidado si:
 - El mercado se está desacelerando en su sector y hay que buscar activamente a los compradores.
 - Vende en un contexto de separación, sucesión o copropiedad, donde la neutralidad de un tercero tiene valor real.
 
-## Mi posición
+## Qué justifica realmente a un corredor
 
-Un corredor no se justifica por poner un letrero y abrir puertas. Se justifica por un precio mejor posicionado, una exposición más amplia, una negociación más fría y una reducción del riesgo jurídico después de la venta.
+Un corredor no se justifica por poner un letrero y abrir puertas. Se justifica por un precio mejor posicionado, una exposición más amplia, una negociación conducida a distancia de la emoción y una reducción del riesgo jurídico después de la venta.
 
-Si el monto de la retribución es su preocupación principal, hablemos de eso primero. Es negociable, y prefiero una conversación franca sobre las cifras antes que un vendedor que se va con la impresión de que le ocultaron algo.
+Si el monto de la retribución es su preocupación principal, ese es el primer tema que hay que poner sobre la mesa. La tasa es negociable, y una conversación franca sobre las cifras vale más que un contrato firmado con la impresión de que se ocultó algo.
 
 Para situar su propiedad antes de decidir, empiece por una [estimación de su valor](/es/tools/home-estimate/) y lea [el costo real de vender en Quebec](/es/articles/real-cost-selling-home-quebec/), que cubre todos los gastos distintos de la retribución.
 

@@ -43,7 +43,7 @@ Le marché y est essentiellement unifamilial, avec quelques jumelés et un nombr
 
 C'est exactement le type de marché où une analyse manuelle vaut mieux qu'un algorithme.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **L'âge des systèmes**, parce qu'une part du parc date des années 1960 à 1980: toiture, entrée électrique, fenêtres, drain français.
 
@@ -55,6 +55,6 @@ C'est exactement le type de marché où une analyse manuelle vaut mieux qu'un al
 
 Avec un volume de transactions faible, le prix d'affichage initial est encore plus déterminant qu'ailleurs: il y a moins d'acheteurs pour absorber une erreur, et une propriété surévaluée reste longtemps sur le marché.
 
-Je prépare l'analyse comparative sans frais, en élargissant au besoin aux villes voisines quand les comparables locaux sont insuffisants, et en ajustant pour la différence de marché.
+L'analyse comparative est préparée sans frais, en élargissant au besoin aux villes voisines quand les comparables locaux sont insuffisants, et en ajustant pour la différence de marché.
 
 Pour un acheteur, le [calculateur de capacité d'emprunt](/tools/affordability/) vous donnera votre fourchette réelle avant de commencer les visites.

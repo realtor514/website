@@ -1,6 +1,6 @@
 ---
 title: "El Mejor Momento para Vender su Casa en Montréal (Lo que los Datos Realmente Muestran)"
-date: 2025-05-19
+date: 2026-05-12
 category: "Guía del Vendedor"
 description: "Todo el mundo dice que la primavera es el mejor momento para vender. Los datos son más matizados que eso. Aquí hay un desglose mes a mes de lo que realmente impulsa los precios de venta y la velocidad en el Gran Montréal."
 image: "images/articles/best-time-sell-home-montreal/featured.jpg"

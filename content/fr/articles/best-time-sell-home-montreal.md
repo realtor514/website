@@ -1,6 +1,6 @@
 ---
 title: "Le meilleur moment pour vendre votre maison à Montréal (ce que les données montrent vraiment)"
-date: 2025-05-19
+date: 2026-05-12
 category: "Guide du vendeur"
 description: "Tout le monde dit que le printemps est le meilleur moment pour vendre. Les données sont plus nuancées. Voici une analyse mensuelle de ce qui influence vraiment les prix et la rapidité de vente."
 image: "images/articles/best-time-sell-home-montreal/featured.jpg"

@@ -44,7 +44,7 @@ Saint-Eustache combine un noyau patrimonial parmi les plus significatifs des Lau
 
 **Les secteurs familiaux** (Grand-Chêne, Arthur-Sauvé, Rivière-Nord) portent le volume, avec des maisons construites majoritairement entre 1980 et 2010.
 
-## Ce que je vérifie ici en priorité
+## Ce qu'il faut vérifier ici en priorité
 
 **La cartographie des zones inondables**, pour toute propriété près de l'eau. C'est le point le plus important à Saint-Eustache, et celui que les acheteurs découvrent trop souvent après la promesse d'achat.
 
@@ -56,6 +56,6 @@ Saint-Eustache combine un noyau patrimonial parmi les plus significatifs des Lau
 
 Pour un vendeur, la bonne comparaison est locale et non municipale: le Vieux-Saint-Eustache et le Grand-Chêne n'attirent pas le même acheteur, et une estimation qui mélange les deux produit un prix faux.
 
-Je prépare l'analyse comparative sans frais, avec les comparables de votre secteur précis.
+L'analyse comparative est préparée sans frais, avec les comparables de votre secteur précis.
 
 Pour un acheteur, commencez par la préautorisation puis prévoyez les [coûts de clôture](/tools/closing-costs/) au-delà de la mise de fonds.

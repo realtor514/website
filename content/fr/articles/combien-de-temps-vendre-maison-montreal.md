@@ -1,13 +1,13 @@
 ---
 title: "Combien de temps faut-il vraiment pour vendre une maison à Montréal?"
-date: 2026-08-07
+date: 2026-06-21
 translationKey: "article-combien-temps-vendre"
 category: "Guide du vendeur"
 description: "Le délai de vente dépend beaucoup moins du marché que de trois décisions que vous contrôlez. Voici le calendrier réaliste, du premier appel jusqu'à la signature chez le notaire."
 image: "images/articles/how-long-to-sell-house-montreal/featured.jpg"
 ---
 
-Quand un vendeur me demande combien de temps ça va prendre, il pense généralement au délai entre la mise en marché et l'offre acceptée. C'est une partie de la réponse seulement, et souvent la plus courte.
+Quand un vendeur se demande combien de temps ça va prendre, il pense généralement au délai entre la mise en marché et l'offre acceptée. C'est une partie de la réponse seulement, et souvent la plus courte.
 
 Voici le calendrier complet, avec les endroits où le temps se perd réellement.
 

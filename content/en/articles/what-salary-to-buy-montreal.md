@@ -1,13 +1,13 @@
 ---
 title: "What Salary Do You Need to Buy in Montreal or Laval?"
-date: 2026-08-07
+date: 2026-05-06
 translationKey: "article-quel-salaire-acheter"
 category: "Financing"
 description: "The question is not only about salary. Here is how lenders actually calculate your borrowing capacity in Quebec, and why two people with the same income do not get approved for the same amount."
 image: "images/articles/what-salary-to-buy-montreal/featured.jpg"
 ---
 
-This is probably the most frequent question I get, and unfortunately the one no single number can answer honestly.
+This is one of the most frequent questions among first-time buyers, and no single number can answer it honestly.
 
 Two people earning exactly the same salary can be approved for amounts that differ by $150,000. Here is why, and how to work out yours.
 
@@ -27,7 +27,7 @@ Take two households with the same combined income of $110,000.
 
 The first carries no debt. The second has a $650 monthly car payment and a balance on a line of credit. That car payment alone strips tens of thousands of dollars off borrowing capacity, because it consumes a share of TDS that would otherwise have gone to housing.
 
-That is why I always give buyers planning a purchase in the next twelve months the same advice: do not finance a vehicle, do not take on a new personal loan, and pay down credit card balances before you apply. The effect on your borrowing capacity is larger than a $5,000 raise.
+That is why the same rule applies to any purchase planned in the next twelve months: do not finance a vehicle, do not take on a new personal loan, and pay down credit card balances before you apply. The effect on your borrowing capacity is larger than a $5,000 raise.
 
 ## The stress test
 

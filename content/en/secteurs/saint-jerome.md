@@ -69,6 +69,6 @@ The advertised return is almost always more attractive than in Laval or Montreal
 
 The average time to sell is generally longer than in the immediate north shore, simply because the buyer pool is smaller. That makes the initial list price even more decisive: an overpriced property does not correct quickly here.
 
-I prepare the comparative analysis at no charge, using comparables from your specific sector rather than the city as a whole.
+The comparative analysis is prepared at no charge, using comparables from your specific sector rather than the city as a whole.
 
 To prepare your numbers before we meet, the [property estimate tool](/en/tools/home-estimate/) and the [mortgage calculator](/en/tools/mortgage/) will give you a first working basis.

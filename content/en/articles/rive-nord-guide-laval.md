@@ -1,6 +1,6 @@
 ---
 title: "The North Shore Real Estate Guide: Laval, Terrebonne, and Beyond"
-date: 2025-05-19
+date: 2026-07-12
 category: "Local Guide"
 description: "The North Shore of Montreal offers some of the strongest value propositions in Greater Montreal real estate. Here is an honest breakdown of what each area offers and who it suits."
 image: "images/articles/rive-nord-guide-laval/featured.jpg"

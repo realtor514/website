@@ -1,6 +1,6 @@
 ---
 title: "Votre cote de crédit bloque silencieusement votre maison de rêve (et comment y remédier)"
-date: 2025-05-19
+date: 2026-05-17
 category: "Guide de l'acheteur"
 description: "La plupart des acheteurs découvrent que leur cote de crédit pose problème trop tard - pendant l'approbation hypothécaire. Voici quoi vérifier, quoi corriger, et combien de temps cela prend vraiment."
 image: "images/articles/credit-score-home-buying-quebec/featured.jpg"

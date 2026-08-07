@@ -1,6 +1,6 @@
 ---
 title: "Will the Montreal Real Estate Market Crash? An Honest Analysis"
-date: 2025-05-19
+date: 2026-06-17
 category: "Market Insights"
 description: "The question comes up constantly. The honest answer is more nuanced than either the bulls or the bears want to admit. Here is how to think about crash risk in the Montreal market."
 image: "images/articles/montreal-market-crash-analysis/featured.jpg"

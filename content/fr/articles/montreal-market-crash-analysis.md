@@ -1,6 +1,6 @@
 ---
 title: "Le marché immobilier de Montréal va-t-il s'effondrer ? Une analyse honnête"
-date: 2025-05-19
+date: 2026-06-17
 category: "Analyse de marché"
 description: "La question revient constamment. La réponse honnête est plus nuancée que ce que les optimistes ou les pessimistes veulent admettre."
 image: "images/articles/montreal-market-crash-analysis/featured.jpg"

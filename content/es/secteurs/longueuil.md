@@ -46,7 +46,7 @@ Longueuil es la puerta de entrada de la Rive-Sud y una de las pocas ciudades de 
 
 **Greenfield Park** conserva una identidad propia, con una comunidad anglófona histórica y un parque inmobiliario de los años 1950 a 1970. Los terrenos maduros y los árboles establecidos son un argumento real para parte de los compradores.
 
-## Lo que verifico primero aquí
+## Lo que hay que verificar primero aquí
 
 **La edad de los sistemas**, en el Vieux-Longueuil y en Greenfield Park. Buena parte del parque supera los cincuenta años: techo, entrada eléctrica, plomería de hierro fundido, drenaje francés. No es un obstáculo, es un importe a integrar en la oferta.
 
@@ -58,4 +58,4 @@ Longueuil es la puerta de entrada de la Rive-Sud y una de las pocas ciudades de 
 
 La cuenca de compradores viene tanto de la isla como de la Rive-Sud, lo que amplía la comparación. Un comprador que deja Hochelaga compara su propiedad con lo que habría obtenido quedándose en la isla, y esa comparación decide a menudo la oferta.
 
-Preparo el análisis comparativo sin costo. Para comprar, establezca su horquilla real con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) y prevea los [costos de cierre](/es/tools/closing-costs/).
+El análisis comparativo se prepara sin costo. Para comprar, establezca su horquilla real con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) y prevea los [costos de cierre](/es/tools/closing-costs/).

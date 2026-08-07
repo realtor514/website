@@ -45,7 +45,7 @@ Depuis la mise en service du REM, Brossard fonctionne comme deux marchés distin
 
 **Les secteurs alphabétiques résidentiels** (A, B, C, L, M, N, O, P entre autres) restent des marchés d'unifamiliales et de jumelés, avec une clientèle familiale et des dynamiques de prix beaucoup plus stables. Chaque lettre correspond à une période de développement: comparer une propriété du secteur B à une vente du secteur P produit une estimation fausse.
 
-## Ce que je regarde avant de recommander une offre
+## Ce qu'il faut regarder avant de faire une offre
 
 **Le fonds de prévoyance**, pour tout condo. Un immeuble récent n'est pas un immeuble sans risque: c'est souvent là que le fonds est le plus faible, parce que le budget initial a été fixé par le promoteur pour paraître attrayant.
 
@@ -59,7 +59,7 @@ Si vous vendez un condo près du REM, votre concurrence n'est pas seulement le v
 
 Si vous vendez une unifamiliale dans un secteur résidentiel, la logique est inverse: l'inventaire est limité et la préparation compte davantage que le timing.
 
-Je prépare l'analyse comparative sans frais, en respectant la logique des secteurs.
+L'analyse comparative est préparée sans frais, en respectant la logique des secteurs.
 
 ## Acheter à Brossard
 

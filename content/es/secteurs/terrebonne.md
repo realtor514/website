@@ -60,7 +60,7 @@ El mercado de Terrebonne es más estacional que el de Montreal. Las familias com
 
 Eso no significa que haya que vender en primavera a cualquier precio. Significa que si vende fuera de esa ventana, el precio de salida y la preparación deben ser más precisos, porque hay menos compradores para absorber un error.
 
-Preparo el análisis comparativo gratuitamente, con las ventas recientes de su sector exacto y las propiedades que no encontraron comprador, que indican dónde está el techo real.
+El análisis comparativo se prepara gratuitamente, con las ventas recientes de su sector exacto y las propiedades que no encontraron comprador, que indican dónde está el techo real.
 
 ## Comprar en Terrebonne
 

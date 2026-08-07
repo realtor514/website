@@ -1,6 +1,6 @@
 ---
 title: "Cinq situations où acheter une propriété est la mauvaise décision"
-date: 2025-05-19
+date: 2026-06-08
 category: "Conseils honnêtes"
 description: "Acheter n'est pas toujours le bon choix, même quand le financement est approuvé. Voici les cas où attendre coûte moins cher que d'acheter."
 image: "images/articles/when-not-to-buy-real-estate/featured.jpg"

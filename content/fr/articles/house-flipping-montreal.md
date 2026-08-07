@@ -1,6 +1,6 @@
 ---
 title: "Le retournement de propriétés à Montréal : les vrais chiffres que personne ne vous montre"
-date: 2025-05-19
+date: 2026-05-21
 category: "Investissement"
 description: "Le retournement de maisons semble profitable à la télévision. Les vrais chiffres racontent une histoire plus sobre. Voici un cadre réaliste."
 image: "images/articles/house-flipping-montreal/featured.jpg"

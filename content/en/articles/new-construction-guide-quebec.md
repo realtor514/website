@@ -1,6 +1,6 @@
 ---
 title: "Buying a New Construction Home in Quebec: What the Brochure Doesn't Tell You"
-date: 2025-05-19
+date: 2026-06-23
 category: "Buyer's Guide"
 description: "New construction feels simple: choose your finishes, move in, enjoy. The reality involves GCR warranties, extras charges, and delays that nobody explains upfront. Here's the full picture."
 image: "images/articles/new-construction-guide-quebec/featured.jpg"

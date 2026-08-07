@@ -1,6 +1,6 @@
 ---
 title: "كيف تؤثر مناطق المدارس على قيم العقارات في مونتريال ولافال"
-date: 2025-05-19
+date: 2026-06-02
 category: "تحليل السوق"
 description: "مناطق المدارس من أقل المتغيرات نقاشاً وأكثرها تأثيراً في العقارات السكنية."
 image: "images/articles/school-districts-property-values/featured.jpg"

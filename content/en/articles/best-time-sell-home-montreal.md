@@ -1,6 +1,6 @@
 ---
 title: "The Best Time to Sell Your Home in Montreal (What the Data Actually Shows)"
-date: 2025-05-19
+date: 2026-05-12
 category: "Seller's Guide"
 description: "Everyone says spring is the best time to sell. The data is more nuanced than that. Here's a month-by-month breakdown of what actually drives sale prices and speed in Greater Montreal."
 image: "images/articles/best-time-sell-home-montreal/featured.jpg"

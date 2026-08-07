@@ -1,6 +1,6 @@
 ---
 title: "Downsizing in Greater Montreal: A Guide for Homeowners Ready for the Next Chapter"
-date: 2025-05-19
+date: 2026-07-17
 category: "Seller's Guide"
 description: "Selling the family home and moving to something smaller is one of the most significant real estate decisions of a lifetime. Here is how to approach it with financial clarity and emotional intelligence."
 image: "images/articles/senior-downsizing-guide/featured.jpg"

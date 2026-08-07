@@ -46,7 +46,7 @@ Terrebonne attire beaucoup d'acheteurs qui ont d'abord cherché plus près de l'
 
 **Urbanova** est un projet de développement durable planifié à long terme, avec des exigences architecturales et environnementales plus strictes que dans les développements traditionnels. Cela protège la valeur à long terme, mais impose aussi des contraintes qu'un acheteur doit connaître avant de signer, notamment sur les aménagements extérieurs.
 
-## Ce que je regarde avant de recommander une offre
+## Ce qu'il faut regarder avant de faire une offre
 
 Dans les secteurs de développement récent, deux éléments méritent plus d'attention qu'ailleurs.
 
@@ -60,7 +60,7 @@ Le marché terrebonnien est plus saisonnier que celui de Montréal. Les familles
 
 Cela ne veut pas dire qu'il faut vendre au printemps à tout prix. Cela veut dire que si vous vendez en dehors de cette fenêtre, le prix d'affichage et la préparation doivent être plus précis, parce qu'il y a moins d'acheteurs pour absorber une erreur.
 
-Je prépare l'analyse comparative gratuitement, avec les ventes récentes de votre secteur exact et les propriétés qui n'ont pas trouvé preneur, qui vous indiquent où se situe le plafond réel.
+L'analyse comparative est préparée gratuitement, avec les ventes récentes de votre secteur exact et les propriétés qui n'ont pas trouvé preneur, qui vous indiquent où se situe le plafond réel.
 
 ## Acheter à Terrebonne
 

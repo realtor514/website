@@ -1,6 +1,6 @@
 ---
 title: "Triplex ou condo à Montréal : comment trancher avec des chiffres"
-date: 2025-05-19
+date: 2026-08-03
 category: "Investissement"
 description: "Deux des types de propriétés les plus populaires du Grand Montréal, deux profils financiers complètement différents. Voici le cadre d'analyse qui permet de décider."
 image: "images/articles/triplex-vs-condo-montreal/featured.jpg"

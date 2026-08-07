@@ -1,6 +1,6 @@
 ---
 title: "5 Señales de Alerta en una Propiedad que Significan: Retírese (Sin Importar Cuánto la Ame)"
-date: 2025-05-19
+date: 2026-07-24
 category: "Guía del Comprador"
 description: "Enamorarse de una propiedad con problemas graves es una de las cosas más costosas que puede pasarle a un comprador. Aquí están las cinco situaciones en las que recomiendo retirarse, independientemente del precio."
 image: "images/articles/red-flags-walk-away-property/featured.jpg"

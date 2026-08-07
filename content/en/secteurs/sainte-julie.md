@@ -48,7 +48,7 @@ The city developed in successive phases since the 1970s, producing coherent sect
 
 School reputation is a real demand driver here: a significant share of buyers move specifically for the sector, which makes the market more resilient than in cities where price is the only argument.
 
-## What I check here
+## What to check here
 
 **System age** in the 1980s sectors: roof, windows, French drain. A property with several systems reaching end of life at once is not worth what an identical, updated property is worth.
 
@@ -60,6 +60,6 @@ School reputation is a real demand driver here: a significant share of buyers mo
 
 The market is seasonal: families buy around the school calendar, creating a denser spring window. Outside that period, the list price has to be more precise because there are fewer buyers to absorb a mistake.
 
-I prepare the comparative analysis at no charge, with recent sales from your exact sector.
+The comparative analysis is prepared at no charge, with recent sales from your exact sector.
 
 For a buyer, the [affordability calculator](/en/tools/affordability/) will establish your real range.

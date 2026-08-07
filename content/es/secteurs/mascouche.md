@@ -44,7 +44,7 @@ Mascouche forma parte de la misma cuenca que Terrebonne, pero con su propia din�
 
 **Los sectores recientes** (Domaine du Golf, Les Manoirs, Mascouche-Ouest) representan el volumen: casas construidas desde 1995, comparables fiables, clientela familiar.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **La garantía de construcción residencial** para las propiedades de menos de diez años.
 
@@ -56,6 +56,6 @@ Mascouche forma parte de la misma cuenca que Terrebonne, pero con su propia din�
 
 El mercado es más estacional que en la isla: las familias compran en función del calendario escolar, lo que crea una ventana de primavera más densa.
 
-Preparo el análisis comparativo sin costo, teniendo en cuenta que el comprador suele comparar Mascouche y Terrebonne en paralelo.
+El análisis comparativo se prepara sin costo, teniendo en cuenta que el comprador suele comparar Mascouche y Terrebonne en paralelo.
 
 Antes de las visitas, establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/).

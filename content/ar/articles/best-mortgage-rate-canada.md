@@ -1,6 +1,6 @@
 ---
 title: "كيف تحصل على أفضل سعر رهن عقاري في كندا: الدليل الصادق"
-date: 2025-05-19
+date: 2026-07-07
 category: "تمويل"
 description: "معظم المشترين يقبلون أول سعر تعرضه عليهم بنكهم. هناك دائماً خيار أفضل تقريباً."
 image: "images/articles/best-mortgage-rate-canada/featured.jpg"

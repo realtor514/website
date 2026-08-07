@@ -44,7 +44,7 @@ Mascouche fait partie du même bassin que Terrebonne, mais avec sa propre dynami
 
 **Les secteurs récents** (Domaine du Golf, Les Manoirs, Mascouche-Ouest) représentent le volume: maisons construites depuis 1995, comparables fiables, clientèle familiale.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **La garantie de construction résidentielle** pour les propriétés de moins de dix ans.
 
@@ -56,6 +56,6 @@ Mascouche fait partie du même bassin que Terrebonne, mais avec sa propre dynami
 
 Le marché est plus saisonnier que sur l'île: les familles achètent en fonction du calendrier scolaire, ce qui crée une fenêtre de printemps plus dense. Vendre en dehors de cette fenêtre est possible, mais le prix d'affichage et la préparation doivent être plus précis.
 
-Je prépare l'analyse comparative sans frais, en tenant compte du fait qu'un acheteur compare souvent Mascouche et Terrebonne en parallèle.
+L'analyse comparative est préparée sans frais, en tenant compte du fait qu'un acheteur compare souvent Mascouche et Terrebonne en parallèle.
 
 Avant les visites, établissez votre fourchette avec le [calculateur de capacité d'emprunt](/tools/affordability/).

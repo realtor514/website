@@ -1,6 +1,6 @@
 ---
 title: "5 signaux d'alarme qui signifient : partez, peu importe votre attachement"
-date: 2025-05-19
+date: 2026-07-24
 category: "Guide de l'acheteur"
 description: "Tomber amoureux d'une propriété avec de sérieux problèmes est l'une des erreurs les plus coûteuses. Voici quand il faut partir."
 image: "images/articles/red-flags-walk-away-property/featured.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Impuesto de bienvenida en Quebec: cuánto, cuándo y quién lo paga"
-date: 2026-08-07
+date: 2026-06-05
 translationKey: "article-taxe-bienvenue"
 category: "Guía del Comprador"
 description: "Los derechos de mutación sorprenden cada año a miles de compradores en Quebec, porque la factura llega meses después de la compra. Así se calcula el monto y así se puede prever."
@@ -35,7 +35,7 @@ Dos puntos importantes:
 
 **Los municipios pueden añadir sus propios tramos superiores.** Montreal, en particular, aplica tasas más altas en los tramos de valor elevado de lo que prevé el régimen de base. Dos propiedades al mismo precio, una en Montreal y otra en un municipio suburbano, no generan la misma factura.
 
-Por eso no publico aquí una tabla de tasas: estaría desactualizada antes de fin de año. Use más bien la [calculadora del impuesto de bienvenida](/es/tools/welcome-tax/) y valide después con el municipio correspondiente.
+Por eso una tabla de tasas no tiene lugar aquí: estaría desactualizada antes de fin de año. Use más bien la [calculadora del impuesto de bienvenida](/es/tools/welcome-tax/) y valide después con el municipio correspondiente.
 
 ## Cuándo la recibe
 

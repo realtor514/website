@@ -50,7 +50,7 @@ A eso se suma la estación exo de la línea Candiac, que da acceso directo al ce
 
 **El sector de la estación** goza de una prima ligada al transporte colectivo, concentrada en un radio reducido.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **La garantía de construcción** para las propiedades recientes del Square Candiac.
 
@@ -62,4 +62,4 @@ A eso se suma la estación exo de la línea Candiac, que da acceso directo al ce
 
 Para un vendedor del Square Candiac, la competencia incluye la obra nueva. Para un vendedor de un sector establecido, el inventario es más estrecho y la preparación cuenta más que el momento.
 
-Preparo el análisis comparativo sin costo. Para comprar, la [calculadora de costos de cierre](/es/tools/closing-costs/) le indicará el importe a prever además del aporte inicial.
+El análisis comparativo se prepara sin costo. Para comprar, la [calculadora de costos de cierre](/es/tools/closing-costs/) le indicará el importe a prever además del aporte inicial.

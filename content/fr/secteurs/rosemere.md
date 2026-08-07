@@ -48,7 +48,7 @@ Un algorithme a besoin de comparables. À Rosemère, ils sont rares et souvent i
 
 Concrètement, j'élargis l'analyse aux villes voisines quand c'est nécessaire, puis j'ajuste pour la différence de marché. C'est du travail manuel, mais c'est la seule façon d'arriver à un prix défendable.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **Les bandes riveraines et les zones inondables** pour les propriétés près de la rivière des Mille Îles.
 
@@ -60,6 +60,6 @@ Concrètement, j'élargis l'analyse aux villes voisines quand c'est nécessaire,
 
 La clientèle est étroite, donc la mise en marché doit être précise: photographie professionnelle, mise en valeur du terrain, et un prix qui reflète les comparables réels et non l'aspiration.
 
-Je prépare l'analyse comparative sans frais et je vous dis franchement ce qui doit être corrigé avant l'affichage.
+L'analyse comparative est préparée sans frais, avec un avis franc sur ce qui doit être corrigé avant l'affichage.
 
 Pour un acheteur, le [calculateur de coûts de clôture](/tools/closing-costs/) vous donnera le montant à prévoir au-delà de la mise de fonds.

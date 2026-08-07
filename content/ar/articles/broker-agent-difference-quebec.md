@@ -1,6 +1,6 @@
 ---
 title: "وسيط، وكيل، REALTOR: ما الفرق الحقيقي في كيبيك؟"
-date: 2025-05-19
+date: 2026-07-21
 category: "عقارات 101"
 description: "معظم المشترين والبائعين يستخدمون هذه المصطلحات بالتبادل. إليك شرح واضح لما يعنيه كل مصطلح في كيبيك."
 image: "images/articles/broker-agent-difference-quebec/featured.jpg"

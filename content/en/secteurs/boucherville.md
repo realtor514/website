@@ -50,7 +50,7 @@ Add to that a population whose median income is among the highest in the region,
 
 **The riverfront sector** is a market of its own, with fewer buyers but steady demand. Shoreline buffer constraints must be verified property by property.
 
-## What I check here
+## What to check here
 
 **System age** in the 1970s and 1980s sectors: roof, windows, French drain. A property with several systems reaching end of life at once is not worth what an identical property is worth after that work is done.
 
@@ -62,7 +62,7 @@ Add to that a population whose median income is among the highest in the region,
 
 Buyers have high expectations and plenty of ways to compare. A decluttered property, with visible minor repairs done and professional photography, sells considerably better than a comparable property presented as is.
 
-I prepare the comparative analysis at no charge and tell you honestly what needs correcting before listing.
+The comparative analysis is prepared at no charge and tell you honestly what needs correcting before listing.
 
 ## Buying in Boucherville
 

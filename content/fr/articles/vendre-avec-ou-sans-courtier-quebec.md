@@ -1,15 +1,15 @@
 ---
 title: "Vendre avec ou sans courtier au Québec: la comparaison honnête"
-date: 2026-08-07
+date: 2026-05-09
 translationKey: "article-vendre-sans-courtier"
 category: "Guide du vendeur"
 description: "C'est la question numéro un des vendeurs québécois. Voici les vrais chiffres, ce que vous économisez réellement, ce que vous prenez comme risque, et dans quels cas la vente sans courtier a du sens."
 image: "images/articles/selling-without-realtor-quebec/featured.jpg"
 ---
 
-C'est la question que les vendeurs se posent le plus souvent, et souvent celle qu'ils hésitent à me poser directement: est-ce que j'ai vraiment besoin d'un courtier pour vendre ma maison?
+C'est la question la plus répandue chez les vendeurs québécois, et celle qu'ils hésitent souvent à poser à un courtier directement: faut-il vraiment un courtier pour vendre sa maison?
 
-Je vais y répondre honnêtement, y compris dans les cas où la réponse ne joue pas en ma faveur.
+Voici la comparaison complète, y compris les cas où vendre seul est le bon choix.
 
 ## Ce que vous économisez vraiment
 
@@ -47,7 +47,7 @@ Vendre sans courtier signifie assumer vous-même:
 
 ## Quand vendre sans courtier a du sens
 
-Je le dis sincèrement, il y a des situations où c'est un choix raisonnable:
+Il existe des situations où c'est un choix parfaitement raisonnable:
 
 - Vous avez déjà un acheteur identifié, par exemple un membre de la famille, un locataire ou un voisin.
 - Votre propriété est dans un secteur extrêmement recherché avec très peu d'inventaire, et vous acceptez de vendre au premier acheteur sérieux.
@@ -71,11 +71,11 @@ Ce n'est pas un argument pour vous faire peur, c'est une ligne à mettre dans vo
 - Le marché est en ralentissement dans votre secteur et il faut aller chercher activement les acheteurs.
 - Vous vendez dans un contexte de séparation, de succession ou d'indivision, où la neutralité d'un tiers a de la valeur.
 
-## Ma position
+## Ce qui justifie réellement un courtier
 
-Un courtier ne se justifie pas par le fait de mettre une pancarte et d'ouvrir des portes. Il se justifie par un prix mieux positionné, une exposition plus large, une négociation plus froide et une réduction du risque juridique après la vente.
+Un courtier ne se justifie pas par le fait de planter une pancarte et d'ouvrir des portes. Il se justifie par un prix mieux positionné, une exposition plus large, une négociation menée à distance de l'émotion, et une réduction du risque juridique après la vente.
 
-Si le montant de la rétribution est votre préoccupation principale, parlons-en avant toute chose. C'est négociable, et je préfère une conversation franche sur les chiffres plutôt qu'un vendeur qui part avec l'impression qu'on lui cache quelque chose.
+Si le montant de la rétribution est votre préoccupation principale, c'est le premier sujet à mettre sur la table. Le taux est négociable, et une discussion franche sur les chiffres vaut mieux qu'un contrat signé avec l'impression qu'une information a été gardée de côté.
 
 Pour situer votre propriété avant même de décider, commencez par une [estimation de sa valeur](/tools/home-estimate/) et regardez [le coût réel d'une vente au Québec](/articles/cout-reel-vendre-maison-quebec/), incluant tous les frais autres que la rétribution.
 

@@ -1,6 +1,6 @@
 ---
 title: "Your Renovation Won't Add What You Think to Your Home's Value"
-date: 2025-05-19
+date: 2026-07-20
 category: "Seller's Guide"
 description: "Sellers consistently overestimate renovation returns. Some improvements genuinely add value. Many add cost without proportional return. Here is the honest breakdown before you touch anything."
 image: "images/articles/renovations-dont-add-value/featured.jpg"

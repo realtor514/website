@@ -1,6 +1,6 @@
 ---
 title: "La mise de fonds de 20 % : le mythe qui freine les acheteurs"
-date: 2025-05-19
+date: 2026-07-25
 category: "Financement"
 description: "Attendre d'avoir 20 % avant d'acheter peut vous coûter des années d'équité. Voici le vrai calcul."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"

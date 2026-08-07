@@ -50,7 +50,7 @@ Mirabel résulte de la fusion d'une dizaine d'anciens villages séparés par de 
 
 Comparer une vente de Saint-Janvier à une propriété de Saint-Benoît n'a aucun sens. C'est pourtant exactement ce que font les outils en ligne.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **Le zonage agricole**, avant toute offre sur une propriété en secteur rural. Les possibilités de construction, d'agrandissement et de morcellement sont strictement encadrées.
 
@@ -62,6 +62,6 @@ Comparer une vente de Saint-Janvier à une propriété de Saint-Benoît n'a aucu
 
 Pour un vendeur, la mise en marché doit cibler le bon bassin. Un acheteur qui cherche à Saint-Janvier ne cherche généralement pas à Saint-Benoît.
 
-Je prépare l'analyse comparative sans frais, avec les comparables de votre secteur précis et non de la ville dans son ensemble.
+L'analyse comparative est préparée sans frais, avec les comparables de votre secteur précis et non de la ville dans son ensemble.
 
 Pour un acheteur, le [calculateur hypothécaire](/tools/mortgage/) vous donnera une première base avant les visites.

@@ -42,7 +42,7 @@ Boisbriand cambió de perfil con el desarrollo del Faubourg, construido sobre el
 
 **Los sectores establecidos** (Chambéry, Boisbriand-Est, Grande-Côte) son mercados de unifamiliares de los años 1970 a 2000, con terrenos más grandes y clientela familiar estable. Los comparables son fiables porque las propiedades se parecen lo suficiente.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **La garantía de construcción residencial** para las propiedades del Faubourg de menos de diez años.
 
@@ -54,4 +54,4 @@ Boisbriand cambió de perfil con el desarrollo del Faubourg, construido sobre el
 
 El precio de salida debe reflejar la lógica del sector, no la media municipal. Una propiedad del Faubourg y una de Chambéry no atraen al mismo comprador.
 
-Preparo el análisis comparativo sin costo. Para comprar, establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/).
+El análisis comparativo se prepara sin costo. Para comprar, establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/).

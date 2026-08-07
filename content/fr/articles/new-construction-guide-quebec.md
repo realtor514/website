@@ -1,6 +1,6 @@
 ---
 title: "Acheter une construction neuve au Québec : ce que la brochure ne vous dit pas"
-date: 2025-05-19
+date: 2026-06-23
 category: "Guide de l'acheteur"
 description: "La construction neuve semble simple : choisissez vos finitions, emménagez. La réalité implique des garanties GCR, des frais supplémentaires et des délais que personne n'explique d'avance."
 image: "images/articles/new-construction-guide-quebec/featured.jpg"

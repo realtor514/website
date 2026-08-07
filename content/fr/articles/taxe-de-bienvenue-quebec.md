@@ -1,6 +1,6 @@
 ---
 title: "Taxe de bienvenue au Québec: combien, quand, et qui la paie"
-date: 2026-08-07
+date: 2026-06-05
 translationKey: "article-taxe-bienvenue"
 category: "Guide de l'acheteur"
 description: "Les droits de mutation surprennent chaque année des milliers d'acheteurs québécois, parce que la facture arrive des mois après l'achat. Voici comment le montant se calcule et comment le prévoir."
@@ -35,7 +35,7 @@ Deux points importants:
 
 **Les municipalités peuvent ajouter leurs propres tranches supérieures.** Montréal, notamment, applique des taux plus élevés sur les tranches de valeur élevée que ce que prévoit le régime de base. Deux propriétés au même prix, l'une à Montréal et l'autre dans une municipalité de banlieue, ne génèrent pas la même facture.
 
-C'est pour cette raison que je ne publie pas ici un tableau de taux: il serait périmé avant la fin de l'année. Utilisez plutôt [le calculateur de taxe de bienvenue](/tools/welcome-tax/), et validez ensuite auprès de la municipalité concernée.
+C'est pour cette raison qu'un tableau de taux n'a pas sa place ici: il serait périmé avant la fin de l'année. Utilisez plutôt [le calculateur de taxe de bienvenue](/tools/welcome-tax/), et validez ensuite auprès de la municipalité concernée.
 
 ## Quand vous la recevez
 

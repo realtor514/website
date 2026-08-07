@@ -42,7 +42,7 @@ Boisbriand changed profile with the development of the Faubourg, built on the fo
 
 **The established sectors** (Chambéry, Boisbriand-Est, Grande-Côte) are single-family markets from the 1970s through the 2000s, with larger lots and a stable family clientele. Comparables here are reliable because properties resemble each other enough.
 
-## What I check here
+## What to check here
 
 **The residential construction warranty** for Faubourg properties under ten years old: what is still covered, what is not, what has already been claimed.
 
@@ -54,6 +54,6 @@ Boisbriand changed profile with the development of the Faubourg, built on the fo
 
 The list price has to reflect the sector's logic, not the municipal average. A Faubourg property and a Chambéry property do not attract the same buyer.
 
-I prepare the comparative analysis at no charge, with recent sales from your exact sector and properties withdrawn without a buyer.
+The comparative analysis is prepared at no charge, with recent sales from your exact sector and properties withdrawn without a buyer.
 
 For a buyer, establish your range before visiting with the [affordability calculator](/en/tools/affordability/).

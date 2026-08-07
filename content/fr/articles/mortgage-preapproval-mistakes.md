@@ -1,6 +1,6 @@
 ---
 title: "Le piège de la préapprobation hypothécaire : pourquoi la plupart des acheteurs s'y prennent mal"
-date: 2025-05-19
+date: 2026-07-06
 category: "Financement"
 description: "Une préapprobation hypothécaire ressemble à un feu vert. Ce n'en est pas un. Voici ce qu'elle signifie réellement et comment l'utiliser comme outil stratégique."
 image: "images/articles/mortgage-preapproval-mistakes/featured.jpg"

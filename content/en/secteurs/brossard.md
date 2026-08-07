@@ -45,7 +45,7 @@ Since the REM went into service, Brossard functions as two distinct markets.
 
 **The residential alphabetical sectors** (A, B, C, L, M, N, O, P among others) remain single-family and semi-detached markets, with family buyers and far more stable price dynamics. Each letter corresponds to a development period: comparing a sector B property to a sector P sale produces a false estimate.
 
-## What I look at before recommending an offer
+## What to look at before making an offer
 
 **The contingency fund**, for any condo. A recent building is not a risk-free building: it is often where the fund is weakest, because the initial budget was set by the developer to look attractive.
 
@@ -59,7 +59,7 @@ If you are selling a condo near the REM, your competition is not only the neighb
 
 If you are selling a single-family home in a residential sector, the logic is reversed: inventory is limited and preparation matters more than timing.
 
-I prepare the comparative analysis at no charge, respecting the logic of the sectors.
+The comparative analysis is prepared at no charge, respecting the logic of the sectors.
 
 ## Buying in Brossard
 

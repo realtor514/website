@@ -44,7 +44,7 @@ faq:
     a: "Oui, acheteurs comme vendeurs. Pour un vendeur montréalais, la préparation compte souvent davantage que dans les banlieues: l'inventaire est plus grand et les acheteurs comparent plus vite."
 ---
 
-Montréal et Laval forment un seul marché pour la plupart des acheteurs que j'accompagne. Rares sont ceux qui cherchent uniquement d'un côté de la rivière des Prairies: ils cherchent un type de propriété, un budget et un temps de déplacement.
+Montréal et Laval forment un seul marché pour la plupart des acheteurs. Rares sont ceux qui cherchent uniquement d'un côté de la rivière des Prairies: ils cherchent un type de propriété, un budget et un temps de déplacement.
 
 ## Un marché qui se joue par arrondissement
 
@@ -58,7 +58,7 @@ Sur l'île, la moyenne montréalaise ne signifie rien. Un triplex à Villeray et
 
 **Mercier-Hochelaga-Maisonneuve** a connu la transformation la plus rapide de l'est. Cela crée des occasions, et aussi des surprises: deux rues peuvent se négocier à des prix très différents.
 
-## Ce que je vérifie avant que vous fassiez une offre
+## Ce qu'il faut vérifier avant de faire une offre
 
 Sur l'île, trois éléments causent la majorité des mauvaises surprises.
 
@@ -78,4 +78,4 @@ Vous pouvez commencer par une [estimation en ligne](/tools/home-estimate/), puis
 
 ## Acheter en tant que nouvel arrivant
 
-Une part importante de ma clientèle montréalaise arrive de l'étranger. Je travaille en français, en anglais, en espagnol et en arabe, et j'ai écrit un [guide complet pour les nouveaux arrivants qui achètent au Québec](/articles/guide-nouveaux-arrivants-quebec/): mise de fonds, dossier de crédit sans historique canadien, rôle du notaire et étapes réelles de la transaction.
+Une part importante des acheteurs montréalais arrive de l'étranger. Le service est offert en français, en anglais, en espagnol et en arabe, et le site propose un [guide complet pour les nouveaux arrivants qui achètent au Québec](/articles/guide-nouveaux-arrivants-quebec/): mise de fonds, dossier de crédit sans historique canadien, rôle du notaire et étapes réelles de la transaction.

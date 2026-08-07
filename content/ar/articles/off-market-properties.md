@@ -1,6 +1,6 @@
 ---
 title: "العقارات خارج السوق: ما هي فعلاً وكيف تجدها"
-date: 2025-05-19
+date: 2026-07-04
 category: "دليل المشتري"
 description: "العقارات خارج السوق حقيقية. وهي أيضاً محاطة بأساطير أكثر من أي مفهوم آخر في العقارات."
 image: "images/articles/off-market-properties/featured.jpg"

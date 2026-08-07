@@ -1,6 +1,6 @@
 ---
 title: "Buying Real Estate With Family Members in Quebec: What to Get in Writing"
-date: 2025-05-19
+date: 2026-07-27
 category: "Buyer's Guide"
 description: "Co-purchasing with parents, siblings, or children is increasingly common as prices rise. It can work extremely well. It can also create serious conflict. Here is how to structure it properly."
 image: "images/articles/buying-property-with-family/featured.jpg"

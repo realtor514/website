@@ -1,13 +1,13 @@
 ---
 title: "¿Qué salario se necesita para comprar en Montreal o Laval?"
-date: 2026-08-07
+date: 2026-05-06
 translationKey: "article-quel-salaire-acheter"
 category: "Financiamiento"
 description: "La pregunta no es solo el salario. Así calculan realmente los prestamistas su capacidad de endeudamiento en Quebec, y por qué dos personas con el mismo ingreso no obtienen el mismo monto."
 image: "images/articles/what-salary-to-buy-montreal/featured.jpg"
 ---
 
-Es probablemente la pregunta más frecuente que recibo, y lamentablemente aquella a la que ninguna cifra única puede responder con honestidad.
+Es una de las preguntas más frecuentes entre los primeros compradores, y ninguna cifra única puede responderla con honestidad.
 
 Dos personas que ganan exactamente el mismo salario pueden ser aprobadas por montos que difieren en 150 000 dólares. Aquí está el porqué, y cómo calcular el suyo.
 
@@ -27,7 +27,7 @@ Tome dos hogares con un ingreso combinado idéntico de 110 000 dólares.
 
 El primero no tiene deudas. El segundo tiene un pago de auto de 650 dólares mensuales y un saldo en una línea de crédito. Ese pago de auto por sí solo resta decenas de miles de dólares de capacidad de endeudamiento, porque consume una parte del ATD que de otro modo habría ido a la vivienda.
 
-Por eso siempre doy el mismo consejo a los compradores que planean comprar en los próximos doce meses: no financie un vehículo, no tome un nuevo préstamo personal y pague los saldos de tarjetas de crédito antes de presentar su solicitud. El efecto sobre su capacidad de endeudamiento es mayor que el de un aumento de salario de 5 000 dólares.
+Por eso la misma regla se aplica a toda compra prevista en los próximos doce meses: no financie un vehículo, no tome un nuevo préstamo personal y pague los saldos de tarjetas de crédito antes de presentar su solicitud. El efecto sobre su capacidad de endeudamiento es mayor que el de un aumento de salario de 5 000 dólares.
 
 ## La prueba de resistencia
 

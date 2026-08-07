@@ -1,6 +1,6 @@
 ---
 title: "La valorisation immobilière: ce qu'elle change vraiment sur le prix de vente"
-date: 2025-05-19
+date: 2026-07-10
 category: "Guide du vendeur"
 description: "La valorisation est souvent perçue comme une dépense optionnelle. Les chiffres racontent autre chose. Voici comment elle agit sur le délai de vente et le prix obtenu."
 image: "images/articles/home-staging-client-story/featured.jpg"

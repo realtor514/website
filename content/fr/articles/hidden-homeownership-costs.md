@@ -1,6 +1,6 @@
 ---
 title: "Les coûts cachés de la propriété que personne ne met dans la brochure"
-date: 2025-05-19
+date: 2026-06-29
 category: "Guide de l'acheteur"
 description: "Votre versement hypothécaire est le chiffre sur lequel tout le monde se concentre. C'est aussi le chiffre le plus trompeur dans tout le processus d'achat. Voici ce qui apparaît vraiment la première année."
 image: "images/articles/hidden-homeownership-costs/featured.jpg"

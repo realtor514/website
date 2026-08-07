@@ -1,6 +1,6 @@
 ---
 title: "Su Renovación No Añadirá lo que Cree al Valor de su Vivienda"
-date: 2025-05-19
+date: 2026-07-20
 category: "Guía del Vendedor"
 description: "Los vendedores consistentemente sobreestiman el retorno de las renovaciones. Algunas mejoras genuinamente añaden valor. Muchas añaden costo sin retorno proporcional. Aquí está el análisis honesto antes de que toque nada."
 image: "images/articles/renovations-dont-add-value/featured.jpg"

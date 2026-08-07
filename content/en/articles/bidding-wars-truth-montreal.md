@@ -1,6 +1,6 @@
 ---
 title: "The Truth About Bidding Wars in Montreal (What the Market Won't Tell You)"
-date: 2025-05-19
+date: 2026-06-13
 category: "Buyer's Guide"
 description: "Bidding wars sound exciting on TV. In real life, they're stressful, expensive, and full of traps. Here's what most brokers won't say out loud."
 image: "images/articles/bidding-wars-truth-montreal/featured.jpg"

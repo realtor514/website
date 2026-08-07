@@ -46,7 +46,7 @@ Longueuil is the gateway to the South Shore, and one of the few off-island citie
 
 **Greenfield Park** keeps its own identity, with a historic anglophone community and housing stock from the 1950s through the 1970s. Mature lots and established trees are a real argument for part of the buyer pool.
 
-## What I check first here
+## What to check first here
 
 **System age**, in Vieux-Longueuil and Greenfield Park. A good share of the stock is over fifty years old: roof, electrical service, cast-iron plumbing, French drain. That is not an obstacle, it is an amount to build into the offer.
 
@@ -58,7 +58,7 @@ Longueuil is the gateway to the South Shore, and one of the few off-island citie
 
 The buyer pool comes as much from the island as from the South Shore, which widens the comparison. A buyer leaving Hochelaga compares your property to what they would have gotten by staying on the island, and that comparison often decides the offer.
 
-I prepare the comparative analysis at no charge, with recent sales from your specific borough and properties withdrawn without finding a buyer.
+The comparative analysis is prepared at no charge, with recent sales from your specific borough and properties withdrawn without finding a buyer.
 
 ## Buying in Longueuil
 

@@ -46,7 +46,7 @@ La ciudad cuenta además con una comunidad anglófona histórica importante, lo 
 
 **Nouvelle-France, Domaine Robitaille y Saint-Bernard** aportan el volumen familiar.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **La edad de los sistemas**, porque gran parte del parque tiene entre 35 y 60 años: techo, entrada eléctrica, ventanas, drenaje francés. Es lo que más a menudo explica la diferencia entre dos propiedades aparentemente comparables.
 
@@ -58,4 +58,4 @@ La ciudad cuenta además con una comunidad anglófona histórica importante, lo 
 
 Para un vendedor, la preparación cuenta mucho: en un mercado donde los compradores son sensibles al precio, una propiedad cuyas obras evidentes no se han hecho se negocia con dureza.
 
-Preparo el análisis comparativo sin costo. Para comprar, prevea los [costos de cierre](/es/tools/closing-costs/).
+El análisis comparativo se prepara sin costo. Para comprar, prevea los [costos de cierre](/es/tools/closing-costs/).

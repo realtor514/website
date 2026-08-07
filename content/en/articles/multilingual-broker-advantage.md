@@ -1,6 +1,6 @@
 ---
 title: "Why Your Broker's Language Changes the Real Estate Experience"
-date: 2025-05-19
+date: 2026-07-05
 category: "Real Estate 101"
 description: "Handling a transaction in your first language is not just a convenience. Here is why language carries more weight than most buyers realize."
 image: "images/articles/multilingual-broker-advantage/featured.jpg"

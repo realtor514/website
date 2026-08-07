@@ -15,6 +15,6 @@ That is why I work by sector rather than by broad territory. I cover twenty-four
 
 **South Shore and Montérégie:** Longueuil, Brossard, Boucherville, Saint-Bruno-de-Montarville, Chambly, La Prairie, Candiac, Delson, Sainte-Julie, Varennes, Châteauguay, Saint-Constant.
 
-Each page below describes what I actually know about the area: the neighbourhoods, the dominant property types, what moves prices locally, and the mistakes I see most often from buyers and sellers.
+Each page below describes what actually defines the area: the neighbourhoods, the dominant property types, what moves prices locally, and the mistakes I see most often from buyers and sellers.
 
 I work in French, English, Spanish and Arabic. If your area is not on the list, write to me anyway: I serve Greater Montreal, the Laurentians and Lanaudière.

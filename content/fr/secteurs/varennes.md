@@ -44,7 +44,7 @@ Varennes est l'une des rares villes de la Rive-Sud à avoir conservé un vrai fr
 
 **Marie-Victorin, le Domaine des Îles et les secteurs nord** portent le volume familial, avec un parc immobilier construit majoritairement depuis 1980.
 
-## Ce que je vérifie ici en priorité
+## Ce qu'il faut vérifier ici en priorité
 
 **Les bandes riveraines et la cartographie des zones inondables**, pour toute propriété près du fleuve. Cela affecte l'assurabilité, le financement et la revente.
 
@@ -56,6 +56,6 @@ Varennes est l'une des rares villes de la Rive-Sud à avoir conservé un vrai fr
 
 L'inventaire étant plus étroit qu'à Sainte-Julie ou Boucherville, une propriété bien préparée et correctement affichée reçoit généralement ses meilleures offres dans les trois premières semaines. Une propriété surévaluée manque cette fenêtre et se vend ensuite plus bas.
 
-Je prépare l'analyse comparative sans frais, en distinguant clairement le marché riverain du reste de la ville.
+L'analyse comparative est préparée sans frais, en distinguant clairement le marché riverain du reste de la ville.
 
 Pour un acheteur, l'outil d'[estimation de propriété](/tools/home-estimate/) et le [calculateur hypothécaire](/tools/mortgage/) vous donneront une première base.

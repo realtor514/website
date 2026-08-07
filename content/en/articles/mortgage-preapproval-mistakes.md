@@ -1,6 +1,6 @@
 ---
 title: "The Mortgage Pre-Approval Trap: Why Most Buyers Do It Wrong"
-date: 2025-05-19
+date: 2026-07-06
 category: "Finance"
 description: "A mortgage pre-approval feels like a green light. It isn't. Most buyers misunderstand what it means, what it doesn't cover, and how to actually use it as a strategic tool."
 image: "images/articles/mortgage-preapproval-mistakes/featured.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Your First Property Visit: What to Check Before You Fall in Love"
-date: 2025-05-19
+date: 2026-07-22
 category: "Buyer's Guide"
 description: "The first visit to a property is where emotional decisions get made. Here is how to also make it a productive information-gathering exercise so you can decide with your head as well as your gut."
 image: "images/articles/first-visit-property-checklist/featured.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "5 Questions You Must Ask Before Hiring a Real Estate Broker"
-date: 2025-05-19
+date: 2026-06-15
 category: "Real Estate 101"
 description: "Most people hire a broker based on a referral or a yard sign. There are better ways to make this decision. Here are the five questions that reveal whether a broker will actually serve your interests."
 image: "images/articles/questions-hire-broker/featured.jpg"

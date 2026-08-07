@@ -1,6 +1,6 @@
 ---
 title: "Renting vs. Buying in Montreal: An Honest Calculation"
-date: 2025-05-19
+date: 2026-05-23
 category: "Finance"
 description: "The rent vs. buy debate is full of ideology on both sides. Math settles it better. Here is the actual calculation you need to run before deciding which makes more sense for your situation."
 image: "images/articles/renting-vs-buying-calculation/featured.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "7 mythes immobiliers qui coûtent de l'argent aux acheteurs de Montréal"
-date: 2025-05-19
+date: 2026-05-31
 category: "Immobilier 101"
 description: "Certains des conseils les plus répétés en immobilier sont faux. Voici ceux qui coûtent le plus aux acheteurs."
 image: "images/articles/real-estate-myths-debunked/featured.jpg"

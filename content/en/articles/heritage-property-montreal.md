@@ -1,6 +1,6 @@
 ---
 title: "Buying a Heritage Property in Montreal: The Charm vs. The Reality"
-date: 2025-05-19
+date: 2026-06-06
 category: "Buyer's Guide"
 description: "Montreal's heritage buildings are some of the most beautiful in North America. They are also some of the most complicated to buy, finance, and maintain. Here is what to know before falling in love with one."
 image: "images/articles/heritage-property-montreal/featured.jpg"

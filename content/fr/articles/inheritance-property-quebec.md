@@ -1,6 +1,6 @@
 ---
 title: "Hériter d'une propriété au Québec : ce que les héritiers doivent savoir"
-date: 2025-05-19
+date: 2026-05-16
 category: "Immobilier 101"
 description: "Hériter d'un bien immobilier au Québec déclenche des décisions légales et financières pour lesquelles la plupart des héritiers ne sont pas préparés."
 image: "images/articles/inheritance-property-quebec/featured.jpg"

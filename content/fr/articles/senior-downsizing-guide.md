@@ -1,6 +1,6 @@
 ---
 title: "Réduire la taille de sa propriété dans le Grand Montréal : un guide pour la prochaine étape"
-date: 2025-05-19
+date: 2026-07-17
 category: "Guide du vendeur"
 description: "Vendre la maison familiale et passer à quelque chose de plus petit est l'une des décisions immobilières les plus significatives d'une vie."
 image: "images/articles/senior-downsizing-guide/featured.jpg"

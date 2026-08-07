@@ -1,6 +1,6 @@
 ---
 title: "Guía Completa para Recién Llegados que Compran Propiedad en Quebec"
-date: 2025-06-16
+date: 2026-07-16
 translationKey: "article-guide-nouveaux-arrivants"
 category: "Guía del Comprador"
 description: "Comprar bienes raíces en Quebec como recién llegado es completamente posible, pero el sistema funciona de manera diferente a la mayoría de los países. Esta guía explica todo lo que necesita saber, en lenguaje claro."

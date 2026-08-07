@@ -51,7 +51,7 @@ Pour un vendeur, cela signifie que la bonne comparaison n'est pas seulement loca
 
 **Le secteur riverain** constitue un marché distinct. Moins d'acheteurs, mais une demande stable et peu sensible aux fluctuations générales. Les contraintes réglementaires liées aux bandes riveraines et aux zones inondables doivent être vérifiées propriété par propriété: deux maisons voisines peuvent avoir des statuts différents.
 
-## Ce que je vérifie ici en priorité
+## Ce qu'il faut vérifier ici en priorité
 
 **La cartographie des zones inondables**, pour toute propriété située près du fleuve ou de la rivière L'Assomption. Cela affecte l'assurabilité, le financement et la revente. Ce n'est pas une raison de ne pas acheter, c'est une raison de savoir exactement ce que vous achetez.
 
@@ -63,7 +63,7 @@ Pour un vendeur, cela signifie que la bonne comparaison n'est pas seulement loca
 
 Le prix d'affichage doit tenir compte des deux bassins d'acheteurs: les acheteurs locaux et ceux qui viennent de l'est de l'île. Ces derniers comparent votre propriété à ce qu'ils auraient obtenu à Rivière-des-Prairies pour le même montant, et cette comparaison décide souvent de l'offre.
 
-Je prépare l'analyse comparative sans frais, incluant les ventes récentes de votre secteur et les propriétés retirées du marché sans avoir trouvé preneur.
+L'analyse comparative est préparée sans frais, incluant les ventes récentes de votre secteur et les propriétés retirées du marché sans avoir trouvé preneur.
 
 ## Acheter à Repentigny
 

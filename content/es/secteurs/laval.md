@@ -35,7 +35,7 @@ faq:
   - q: "¿Qué barrios de Laval cubre?"
     a: "Los 14 sectores de la ciudad, de Laval-Ouest a Saint-François. Mi oficina RE/MAX Du Cartier está en el 2820, boul. St-Martin Est, en Duvernay, lo que me sitúa a menos de 20 minutos de cualquier barrio de Laval. También cubro Montreal, Terrebonne, Blainville, Repentigny, Saint-Jérôme y toda la Rive-Nord, las Laurentides y Lanaudière, por igual."
   - q: "¿Cuánto cuesta una evaluación de mi propiedad en Laval?"
-    a: "Nada. El análisis comparativo de mercado que preparo para un vendedor es gratuito y sin compromiso. Usted se queda con los comparables reales de su calle, no con una estimación generada por un algoritmo."
+    a: "Nada. El análisis comparativo de mercado preparado para un vendedor es gratuito y sin compromiso. Usted se queda con los comparables reales de su calle, no con una estimación generada por un algoritmo."
   - q: "¿Es Laval un buen mercado para una primera compra?"
     a: "Para muchos compradores, sí. Los sectores servidos por la línea naranja del metro, Pont-Viau, Laval-des-Rapides y Duvernay, suelen ofrecer una mejor relación superficie/precio que los barrios centrales de Montreal, con acceso directo al centro. Es un cálculo caso por caso, y lo hago con usted antes de que visite nada."
   - q: "¿Trabaja con inversores en Laval?"
@@ -58,11 +58,11 @@ Laval no es un suburbio homogéneo. Es una ciudad de 450 000 habitantes que cont
 
 **El noreste** (Saint-François, Saint-Vincent-de-Paul, Auteuil) sigue siendo más asequible, con terrenos más grandes. Es donde suelen encontrar los compradores que quedaron fuera de Duvernay o Vimont.
 
-## Vender en Laval: lo que hago diferente
+## Vender en Laval: lo que marca la diferencia
 
 El precio de salida es la decisión más determinante de toda la venta, y es la que la mayoría de los vendedores toma con menos datos.
 
-Preparo un análisis comparativo que no se limita a las ventas recientes de su calle. Examino también las propiedades retiradas del mercado sin venderse, porque indican dónde está el techo real de los compradores en su sector. Es información que las estimaciones en línea nunca captan.
+El análisis comparativo no se limita a las ventas recientes de su calle. Examino también las propiedades retiradas del mercado sin venderse, porque indican dónde está el techo real de los compradores en su sector. Es información que las estimaciones en línea nunca captan.
 
 Después: fotografía profesional, comercialización en Centris y en la red RE/MAX, y una estrategia de visitas concentrada en lugar de dispersa. Una propiedad que recibe ocho visitas en cuatro días se negocia de otra manera que una que recibe ocho en cinco semanas.
 
@@ -70,7 +70,7 @@ Después: fotografía profesional, comercialización en Centris y en la red RE/M
 
 Antes de que visite una sola propiedad, establecemos tres cosas: su capacidad real de endeudamiento confirmada por un prestamista, la horquilla de precio que corresponde a lo que realmente quiere, y los sectores donde esa horquilla todavía existe.
 
-Este orden importa. La mayoría de los compradores frustrados que conozco han visitado durante meses en sectores donde su presupuesto solo les daba acceso a las propiedades más débiles del inventario.
+Este orden importa. La mayoría de los compradores que se desaniman han visitado durante meses en sectores donde su presupuesto solo les daba acceso a las propiedades más débiles del inventario.
 
 También se beneficia de los programas exclusivos de RE/MAX Québec, incluidos sin costo adicional: [Tranquilli-T](/es/advantages/tranquilli-t/) para la asistencia jurídica e [Intégri-T](/es/advantages/integri-t/), que cubre hasta 50 000 $ en vicios ocultos durante tres años después de la escritura notarial.
 

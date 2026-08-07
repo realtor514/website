@@ -1,6 +1,6 @@
 ---
 title: "Welcome Tax in Quebec: How Much, When, and Who Pays It"
-date: 2026-08-07
+date: 2026-06-05
 translationKey: "article-taxe-bienvenue"
 category: "Buyer's Guide"
 description: "Transfer duties catch thousands of Quebec buyers off guard every year, because the bill arrives months after the purchase. Here is how the amount is calculated and how to plan for it."
@@ -35,7 +35,7 @@ Two important points:
 
 **Municipalities can add their own upper brackets.** Montreal in particular applies higher rates on high-value brackets than the base regime provides. Two properties at the same price, one in Montreal and one in a suburban municipality, do not generate the same bill.
 
-That is why I do not publish a rate table here: it would be outdated before year end. Use the [welcome tax calculator](/en/tools/welcome-tax/) instead, then confirm with the municipality involved.
+That is why a rate table has no place here: it would be outdated before year end. Use the [welcome tax calculator](/en/tools/welcome-tax/) instead, then confirm with the municipality involved.
 
 ## When you receive it
 

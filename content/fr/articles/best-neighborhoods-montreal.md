@@ -1,6 +1,6 @@
 ---
 title: "Où acheter à Montréal en ce moment : analyse par quartier"
-date: 2025-05-19
+date: 2026-05-07
 category: "Analyse de marché"
 description: "Tous les quartiers montréalais ne se valent pas comme investissement. Voici une analyse par objectif: appréciation à long terme, revenu locatif, et les secteurs à examiner avec prudence."
 image: "images/articles/best-neighborhoods-montreal/featured.jpg"

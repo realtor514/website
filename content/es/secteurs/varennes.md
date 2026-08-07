@@ -44,7 +44,7 @@ Varennes es una de las pocas ciudades de la Rive-Sud que conserva a la vez un fr
 
 **Marie-Victorin, el Domaine des Îles y los sectores norte** aportan el volumen familiar, con un parque construido mayoritariamente desde 1980.
 
-## Lo que priorizo aquí
+## Lo que hay que priorizar aquí
 
 **Las franjas ribereñas y la cartografía de zonas inundables**, para toda propiedad cercana al río.
 
@@ -56,4 +56,4 @@ Varennes es una de las pocas ciudades de la Rive-Sud que conserva a la vez un fr
 
 Con un inventario más estrecho que Sainte-Julie o Boucherville, una propiedad bien preparada y correctamente publicada recibe sus mejores ofertas en las tres primeras semanas.
 
-Preparo el análisis comparativo sin costo, distinguiendo claramente el mercado ribereño del resto. Para comprar, la [calculadora hipotecaria](/es/tools/mortgage/) le dará una primera base.
+El análisis comparativo se prepara sin costo, distinguiendo claramente el mercado ribereño del resto. Para comprar, la [calculadora hipotecaria](/es/tools/mortgage/) le dará una primera base.

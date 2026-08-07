@@ -44,7 +44,7 @@ Le bassin de Chambly n'est pas un détail de paysage: c'est le principal facteur
 
 **Fonrouge, le Domaine des Érables et les secteurs Bourgogne** représentent le volume familial: maisons construites majoritairement depuis 1985, rues résidentielles, comparables fiables.
 
-## Ce que je vérifie ici en priorité
+## Ce qu'il faut vérifier ici en priorité
 
 **La cartographie des zones inondables** le long du Richelieu, pour toute propriété située près de l'eau.
 
@@ -56,6 +56,6 @@ Le bassin de Chambly n'est pas un détail de paysage: c'est le principal facteur
 
 Le bassin d'acheteurs est plus petit que sur la Rive-Sud immédiate, ce qui rend le prix d'affichage initial plus déterminant: une propriété surévaluée ne se corrige pas rapidement ici.
 
-Je prépare l'analyse comparative sans frais, avec les ventes récentes de votre secteur exact et les propriétés retirées du marché sans preneur, qui indiquent le plafond réel.
+L'analyse comparative est préparée sans frais, avec les ventes récentes de votre secteur exact et les propriétés retirées du marché sans preneur, qui indiquent le plafond réel.
 
 Côté achat, établissez votre fourchette avant les visites avec le [calculateur de capacité d'emprunt](/tools/affordability/) et prévoyez les [coûts de clôture](/tools/closing-costs/).

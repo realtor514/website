@@ -1,6 +1,6 @@
 ---
 title: "أسطورة الدفعة الأولى 20%: لماذا تُعيق المشترين"
-date: 2025-05-19
+date: 2026-07-25
 category: "تمويل"
 description: "انتظار توفير 20% دفعة أولى قبل الشراء قد يكلفك سنوات من بناء الثروة. إليك الحساب الحقيقي."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"

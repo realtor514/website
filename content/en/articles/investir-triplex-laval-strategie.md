@@ -1,6 +1,6 @@
 ---
 title: "Why a Triplex in Laval Is One of the Smartest Investments You Can Make Right Now"
-date: 2025-05-12
+date: 2026-05-14
 translationKey: "article-triplex-laval"
 category: "Investment"
 description: "The numbers on a Laval triplex don't just work; they work better than most financial products available to the average investor. Here is how to analyze one correctly."

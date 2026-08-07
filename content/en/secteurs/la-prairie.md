@@ -41,7 +41,7 @@ La Prairie is one of Quebec's oldest municipalities, and it shows in the structu
 
 **Symbiocité and the recent developments** work in reverse: new or near-new properties, high standards, reliable comparables. The question here is not heritage but the construction warranty and the real state of the land.
 
-## What I check here
+## What to check here
 
 **The historic district by-law**, before any exterior renovation project in Vieux-La Prairie.
 
@@ -53,6 +53,6 @@ La Prairie is one of Quebec's oldest municipalities, and it shows in the structu
 
 For a seller, the key is targeting the right pool: Vieux-La Prairie and Symbiocité attract completely different buyers, and the marketing has to reflect that.
 
-I prepare the comparative analysis at no charge, using comparables from your specific sector rather than the city as a whole.
+The comparative analysis is prepared at no charge, using comparables from your specific sector rather than the city as a whole.
 
 For a buyer, start with the pre-approval, then test your scenarios with the [mortgage calculator](/en/tools/mortgage/).

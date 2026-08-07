@@ -54,7 +54,7 @@ Finally, the walkable town centre is a real asset: few suburbs in the region hav
 
 **The lakes sector**, bordering the park, is a distinct market with few transactions and steady demand.
 
-## What I check here
+## What to check here
 
 **Servitudes and zoning constraints** for properties adjacent to the national park. Some lots carry development restrictions that do not appear in the listing.
 
@@ -66,7 +66,7 @@ Finally, the walkable town centre is a real asset: few suburbs in the region hav
 
 With thin inventory, the first three weeks are decisive. A correctly priced, well-prepared property receives its best offers in that window. An overpriced property misses it and then sells below what it should have.
 
-I prepare the comparative analysis at no charge, using comparables from your specific sector.
+The comparative analysis is prepared at no charge, using comparables from your specific sector.
 
 ## Buying in Saint-Bruno
 

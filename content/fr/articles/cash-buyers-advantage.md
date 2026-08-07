@@ -1,6 +1,6 @@
 ---
 title: "Pourquoi les acheteurs comptant gagnent à Montréal (et ce que les acheteurs financés peuvent faire)"
-date: 2025-05-19
+date: 2026-08-05
 category: "Guide de l'acheteur"
 description: "Les offres comptant ont un vrai avantage dans les situations compétitives. Mais l'avantage est plus petit qu'on ne le pense et les acheteurs financés ont plus d'outils."
 image: "images/articles/cash-buyers-advantage/featured.jpg"

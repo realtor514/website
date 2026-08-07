@@ -1,6 +1,6 @@
 ---
 title: "Condo ou maison à Montréal : comment vraiment décider"
-date: 2025-05-19
+date: 2026-05-20
 category: "Guide de l'acheteur"
 description: "La plupart des acheteurs ont une préférence instinctive. Voici le cadre pour vérifier si cette préférence correspond à votre situation réelle."
 image: "images/articles/condo-vs-house-montreal/featured.jpg"

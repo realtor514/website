@@ -1,6 +1,6 @@
 ---
 title: "5 stratégies de négociation qui fonctionnent vraiment dans le marché montréalais"
-date: 2025-06-09
+date: 2026-07-02
 translationKey: "article-strategies-negociation"
 category: "Stratégie"
 description: "La négociation immobilière n'est pas une question d'agressivité. C'est une question de préparation. Voici cinq stratégies qui fonctionnent systématiquement."

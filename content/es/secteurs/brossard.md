@@ -45,7 +45,7 @@ Desde la puesta en servicio del REM, Brossard funciona como dos mercados distint
 
 **Los sectores alfabéticos residenciales** (A, B, C, L, M, N, O, P entre otros) siguen siendo mercados de unifamiliares y adosados, con clientela familiar y dinámicas de precios mucho más estables. Cada letra corresponde a un periodo de desarrollo: comparar una propiedad del sector B con una venta del sector P produce una estimación falsa.
 
-## Lo que miro antes de recomendar una oferta
+## Lo que hay que mirar antes de hacer una oferta
 
 **El fondo de previsión**, para todo condominio. Un edificio reciente no es un edificio sin riesgo: suele ser donde el fondo es más débil, porque el presupuesto inicial lo fijó el promotor para parecer atractivo.
 
@@ -57,4 +57,4 @@ Desde la puesta en servicio del REM, Brossard funciona como dos mercados distint
 
 Si vende un condominio cerca del REM, su competencia no es solo el vecino: es también el inventario nuevo del promotor, con sus garantías e incentivos. El precio de salida debe tenerlo en cuenta desde el primer día.
 
-Preparo el análisis comparativo sin costo, respetando la lógica de los sectores. Para comprar, empiece por la preaprobación y pruebe sus escenarios con la [calculadora hipotecaria](/es/tools/mortgage/).
+El análisis comparativo se prepara sin costo, respetando la lógica de los sectores. Para comprar, empiece por la preaprobación y pruebe sus escenarios con la [calculadora hipotecaria](/es/tools/mortgage/).

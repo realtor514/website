@@ -1,6 +1,6 @@
 ---
 title: "فخ الموافقة المسبقة على الرهن العقاري: لماذا يُخطئ معظم المشترين"
-date: 2025-05-19
+date: 2026-07-06
 category: "تمويل"
 description: "الموافقة المسبقة تبدو ضوءاً أخضر. لكنها ليست كذلك. إليك ما تعنيه حقاً وكيف تستخدمها أداةً استراتيجية."
 image: "images/articles/mortgage-preapproval-mistakes/featured.jpg"

@@ -42,7 +42,7 @@ Boisbriand a changé de profil avec le développement du Faubourg, construit sur
 
 **Les secteurs établis** (Chambéry, Boisbriand-Est, Grande-Côte) sont des marchés d'unifamiliales des années 1970 à 2000, avec des terrains plus grands et une clientèle familiale stable. Les comparables y sont fiables parce que les propriétés se ressemblent suffisamment.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **La garantie de construction résidentielle** pour les propriétés du Faubourg de moins de dix ans: ce qui est encore couvert, ce qui ne l'est plus, ce qui a déjà fait l'objet d'une réclamation.
 
@@ -54,6 +54,6 @@ Boisbriand a changé de profil avec le développement du Faubourg, construit sur
 
 Le prix d'affichage doit refléter la logique du secteur, pas la moyenne municipale. Une propriété du Faubourg et une propriété de Chambéry n'attirent pas le même acheteur.
 
-Je prépare l'analyse comparative sans frais, avec les ventes récentes de votre secteur exact et les propriétés retirées du marché sans preneur.
+L'analyse comparative est préparée sans frais, avec les ventes récentes de votre secteur exact et les propriétés retirées du marché sans preneur.
 
 Pour un acheteur, établissez votre fourchette avant les visites avec le [calculateur de capacité d'emprunt](/tools/affordability/).

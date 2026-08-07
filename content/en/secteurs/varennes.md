@@ -44,7 +44,7 @@ Varennes is one of the few South Shore cities that kept both genuine accessible 
 
 **Marie-Victorin, Domaine des Îles and the northern sectors** carry the family volume, with housing stock built mostly since 1980.
 
-## What I prioritize here
+## What to prioritize here
 
 **Shoreline buffers and flood zone mapping**, for any property near the river. It affects insurability, financing and resale.
 
@@ -56,6 +56,6 @@ Varennes is one of the few South Shore cities that kept both genuine accessible 
 
 With thinner inventory than Sainte-Julie or Boucherville, a well-prepared and correctly priced property generally receives its best offers in the first three weeks. An overpriced property misses that window and then sells lower.
 
-I prepare the comparative analysis at no charge, clearly separating the riverfront market from the rest of the city.
+The comparative analysis is prepared at no charge, clearly separating the riverfront market from the rest of the city.
 
 For a buyer, the [property estimate tool](/en/tools/home-estimate/) and the [mortgage calculator](/en/tools/mortgage/) will give you a first basis.

@@ -1,6 +1,6 @@
 ---
 title: "What the Data Actually Says About the Montreal Real Estate Market in 2025"
-date: 2025-05-19
+date: 2026-05-29
 translationKey: "article-marche-immobilier-montreal"
 category: "Market Analysis"
 description: "Beyond the headlines and the predictions, here is what the indicators tracked every month say about where the Montreal and Laval real estate market actually stands."

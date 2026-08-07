@@ -1,6 +1,6 @@
 ---
 title: "Comment bâtir un portefeuille immobilier dans le Grand Montréal à partir de zéro"
-date: 2025-05-19
+date: 2026-05-26
 category: "Investissement"
 description: "La richesse immobilière ne se bâtit pas par une transaction brillante. Elle se construit par une approche systématique sur le temps."
 image: "images/articles/build-real-estate-portfolio/featured.jpg"

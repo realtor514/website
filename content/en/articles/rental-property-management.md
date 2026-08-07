@@ -1,6 +1,6 @@
 ---
 title: "Managing Rental Properties in Montreal and Laval: What First-Time Landlords Need to Know"
-date: 2025-05-19
+date: 2026-06-27
 category: "Investment"
 description: "Owning a rental property and managing one are two different skills. Here is what the operational reality looks like, what Quebec's landlord-tenant laws require, and how to set up for success."
 image: "images/articles/rental-property-management/featured.jpg"

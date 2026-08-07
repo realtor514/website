@@ -44,7 +44,7 @@ faq:
     a: "Yes, buyers and sellers both. For a Montreal seller, preparation often matters more than in the suburbs: inventory is deeper and buyers compare faster."
 ---
 
-Montreal and Laval form a single market for most of the buyers I work with. Few people search on only one side of the Rivière des Prairies: they search for a property type, a budget and a commute.
+Montreal and Laval form a single market for most buyers. Few people search on only one side of the Rivière des Prairies: they search for a property type, a budget and a commute.
 
 ## A market decided borough by borough
 
@@ -58,7 +58,7 @@ On the island, the Montreal average means nothing. A triplex in Villeray and a t
 
 **Mercier-Hochelaga-Maisonneuve** has seen the fastest transformation in the east end. That creates opportunities, and also surprises: two streets apart can trade at very different prices.
 
-## What I check before you make an offer
+## What to check before making an offer
 
 On the island, three things cause most of the bad surprises.
 

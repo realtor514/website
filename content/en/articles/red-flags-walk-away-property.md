@@ -1,6 +1,6 @@
 ---
 title: "5 Property Red Flags That Mean Walk Away (No Matter How Much You Love It)"
-date: 2025-05-19
+date: 2026-07-24
 category: "Buyer's Guide"
 description: "Falling in love with a property that has serious problems is one of the most expensive things that can happen to a buyer. Here are the five situations that warrant walking away, regardless of price."
 image: "images/articles/red-flags-walk-away-property/featured.jpg"

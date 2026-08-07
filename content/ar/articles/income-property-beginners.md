@@ -1,6 +1,6 @@
 ---
 title: "العقارات الاستثمارية في مونتريال: الدليل الصادق للمبتدئين"
-date: 2025-05-19
+date: 2026-06-22
 category: "استثمار"
 description: "الجميع يقول إن العقارات الاستثمارية تبني الثروة. قلة من الناس تشرح الميكانيكيات الفعلية."
 image: "images/articles/income-property-beginners/featured.jpg"

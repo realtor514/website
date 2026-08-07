@@ -1,6 +1,6 @@
 ---
 title: "7 أساطير عقارية تكلّف المشترين مالاً في مونتريال"
-date: 2025-05-19
+date: 2026-05-31
 category: "عقارات 101"
 description: "بعض أكثر النصائح تكراراً في العقارات خاطئة. إليك تلك التي تكلف المشترين أكثر."
 image: "images/articles/real-estate-myths-debunked/featured.jpg"

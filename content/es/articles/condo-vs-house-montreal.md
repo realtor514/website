@@ -1,6 +1,6 @@
 ---
 title: "Condominio vs. Casa en Montréal: Cómo Decidir de Verdad"
-date: 2025-05-19
+date: 2026-05-20
 category: "Guía del Comprador"
 description: "La mayoría de los compradores tienen una preferencia instintiva antes de analizar nada. Aquí está el marco para verificar si esa preferencia coincide con su situación real, prioridades y posición financiera."
 image: "images/articles/condo-vs-house-montreal/featured.jpg"

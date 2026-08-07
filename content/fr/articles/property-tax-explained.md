@@ -1,6 +1,6 @@
 ---
 title: "Les taxes foncières à Montréal et Laval : une explication complète"
-date: 2025-05-19
+date: 2026-05-25
 category: "Financement"
 description: "Les taxes foncières sont l'un des coûts importants de la propriété que beaucoup d'acheteurs sous-estiment. Voici exactement comment elles fonctionnent au Québec."
 image: "images/articles/property-tax-explained/featured.jpg"

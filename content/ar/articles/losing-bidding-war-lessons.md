@@ -1,6 +1,6 @@
 ---
 title: "خسارة حرب العروض ليست دائماً خبراً سيئاً"
-date: 2025-05-19
+date: 2026-06-11
 category: "دليل المشتري"
 description: "الخسارة في وضع متعدد العروض مؤلمة في لحظتها. ومع ذلك، بعض أفضل النتائج العقارية تأتي من عروض لم تفز."
 image: "images/articles/losing-bidding-war-lessons/featured.jpg"

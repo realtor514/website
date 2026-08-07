@@ -1,6 +1,6 @@
 ---
 title: "هل سيتراجع سوق العقارات في مونتريال؟ تحليل صادق"
-date: 2025-05-19
+date: 2026-06-17
 category: "تحليل السوق"
 description: "السؤال يتردد باستمرار. الإجابة الصادقة أكثر دقة مما يريد المتفائلون أو المتشائمون الاعتراف به."
 image: "images/articles/montreal-market-crash-analysis/featured.jpg"

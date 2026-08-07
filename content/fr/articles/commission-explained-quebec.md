@@ -1,6 +1,6 @@
 ---
 title: "La commission immobilière au Québec : ce que vous payez vraiment"
-date: 2025-05-19
+date: 2026-06-16
 category: "Immobilier 101"
 description: "La commission est le frais que tout le monde sait qui existe et que presque personne ne comprend complètement. Voici une explication transparente."
 image: "images/articles/commission-explained-quebec/featured.jpg"

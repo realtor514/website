@@ -11,7 +11,7 @@
 <section class="section" style="padding:64px 0;background:var(--off-white)">
   <div class="container">
     <div class="section-header reveal" style="margin-bottom:40px;">
-      <span class="eyebrow">{{ if $isFr }}Deux chemins, un seul interlocuteur{{ else if $isAr }}طريقان، وسيط واحد{{ else if $isEs }}Dos caminos, un solo interlocutor{{ else }}Two Paths, One Point of Contact{{ end }}</span>
+      <span class="eyebrow">{{ if $isFr }}Achat ou vente: le même interlocuteur{{ else if $isAr }}شراء أو بيع: الوسيط نفسه{{ else if $isEs }}Compra o venta: el mismo interlocutor{{ else }}Buying or Selling: the Same Point of Contact{{ end }}</span>
       <h2>{{ if $isFr }}Où en êtes-vous dans votre projet?{{ else if $isAr }}أين أنتم في مشروعكم؟{{ else if $isEs }}¿En qué etapa está?{{ else }}Where Are You in Your Journey?{{ end }}</h2>
     </div>
     <div class="journey-split reveal">
@@ -19,28 +19,28 @@
       <div class="journey-split__panel journey-split__panel--buyer">
         <span class="journey-split__eyebrow">{{ if $isFr }}Vous achetez{{ else if $isAr }}أنت تشتري{{ else if $isEs }}Usted compra{{ else }}You're Buying{{ end }}</span>
         <h3 class="journey-split__title">
-          {{ if $isFr }}Achetez avec les yeux ouverts{{ else if $isAr }}اشترِ وعيناك مفتوحتان على الحقائق{{ else if $isEs }}Compre con los ojos bien abiertos{{ else }}Buy With Your Eyes Open{{ end }}
+          {{ if $isFr }}Achetez en connaissant les chiffres{{ else if $isAr }}اشترِ وأنت تعرف الأرقام{{ else if $isEs }}Compre conociendo las cifras{{ else }}Buy Knowing the Numbers{{ end }}
         </h3>
         <p class="journey-split__text">
-          {{ if $isFr }}Je regarde les chiffres avant les photos. Vous saurez toujours ce qu'une propriété vaut vraiment avant de faire une offre.{{ else if $isAr }}أنظر إلى الأرقام قبل الصور. ستعرف دائماً القيمة الحقيقية للعقار قبل تقديم أي عرض.{{ else if $isEs }}Miro los números antes que las fotos. Sabrá siempre cuánto vale realmente una propiedad antes de hacer una oferta.{{ else }}I look at the numbers before the photos. You'll always know what a property is really worth before you make an offer.{{ end }}
+          {{ if $isFr }}Ventes comparables, taxes, frais de copropriété et évaluation municipale sont analysés avant la visite. Vous connaissez la valeur réelle avant de faire une offre.{{ else if $isAr }}المبيعات المقارنة والضرائب ورسوم الملكية المشتركة والتقييم البلدي تُحلَّل قبل الزيارة. ستعرف القيمة الحقيقية قبل تقديم أي عرض.{{ else if $isEs }}Las ventas comparables, los impuestos, las cuotas de condominio y la evaluación municipal se analizan antes de la visita. Sabrá el valor real antes de hacer una oferta.{{ else }}Comparable sales, taxes, condo fees and the municipal assessment are analyzed before the showing. You know the real value before you make an offer.{{ end }}
         </p>
         <div class="journey-split__features">
           {{ if $isFr }}
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Analyse du marché et comparables</div>
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Calculateurs hypothécaires gratuits</div>
-          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Un négociateur dans votre coin, pas dans les deux</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Représentation de l'acheteur seul, jamais des deux parties</div>
           {{ else if $isAr }}
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>تحليل السوق والمقارنات</div>
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>حاسبات الرهن العقاري المجانية</div>
-          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>مفاوض في صفك أنت، لا في الصفين</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>تمثيل المشتري وحده، لا الطرفين معاً</div>
           {{ else if $isEs }}
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Análisis de mercado y comparables</div>
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Calculadoras hipotecarias gratuitas</div>
-          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Un negociador de su lado, no de los dos</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Representación del comprador solamente, nunca de ambas partes</div>
           {{ else }}
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Market analysis and comparables</div>
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Free mortgage calculators</div>
-          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>A negotiator in your corner, not both</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Buyer representation only, never both sides</div>
           {{ end }}
         </div>
         <a href="{{ $base }}/buyer/" class="btn btn-outline" style="align-self:flex-start;margin-top:8px;">
@@ -55,7 +55,7 @@
           {{ if $isFr }}Vendez au bon prix, pas au premier prix{{ else if $isAr }}بِع بالسعر الصحيح، لا بأول سعر{{ else if $isEs }}Venda al precio correcto, no al primer precio{{ else }}Sell at the Right Price, Not the First Price{{ end }}
         </h3>
         <p class="journey-split__text">
-          {{ if $isFr }}Un prix fixé par les données, une mise en marché soignée, et une négociation qui ne cède rien qu'il ne faille.{{ else if $isAr }}سعر تحدده البيانات، تسويق معتنى به، وتفاوض لا يتنازل عن شيء دون داعٍ.{{ else if $isEs }}Un precio fijado por los datos, un marketing cuidado, y una negociación que no cede nada innecesariamente.{{ else }}A price set by the data, marketing done with care, and a negotiation that doesn't give up an inch it doesn't have to.{{ end }}
+          {{ if $isFr }}Prix établi à partir des ventes comparables des 90 derniers jours, et chaque offre analysée avec vous, chiffres à l'appui, avant de répondre.{{ else if $isAr }}سعر يُحدَّد من المبيعات المقارنة في آخر 90 يوماً، وكل عرض نحلله معك بالأرقام قبل أن ترد.{{ else if $isEs }}Precio fijado a partir de las ventas comparables de los últimos 90 días, y cada oferta analizada con usted, con las cifras a la vista, antes de responder.{{ else }}Price set from comparable sales in the last 90 days, and every offer reviewed with you, numbers in hand, before you answer.{{ end }}
         </p>
         <div class="journey-split__features">
           {{ if $isFr }}
@@ -162,7 +162,7 @@
         </div>
         <div class="calc-card__body">
           <span class="calc-card__name">{{ if $isFr }}Estimation{{ else if $isAr }}تقدير العقار{{ else if $isEs }}Estimacion{{ else }}Home Estimate{{ end }}</span>
-          <span class="calc-card__desc">{{ if $isFr }}Valeur estimee de votre bien{{ else if $isAr }}القيمة السوقية المقدرة{{ else if $isEs }}Valor estimado de su propiedad{{ else }}Estimated market value{{ end }}</span>
+          <span class="calc-card__desc">{{ if $isFr }}Valeur estimée de votre bien{{ else if $isAr }}القيمة السوقية المقدرة{{ else if $isEs }}Valor estimado de su propiedad{{ else }}Estimated market value{{ end }}</span>
         </div>
         <svg class="calc-card__arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
       </a>
@@ -267,7 +267,7 @@
         {{ if $isFr }}16 Places d'affaires{{ else if $isAr }}16 مكاناً للأعمال{{ else if $isEs }}16 Oficinas{{ else }}16 Offices{{ end }}
       </span>
       <h2>
-        {{ if $isFr }}Je peux vous recevoir partout{{ else if $isAr }}أستطيع استقبالك في أي مكان{{ else if $isEs }}Puedo recibirle en cualquier lugar{{ else }}I Can Welcome You Anywhere{{ end }}
+        {{ if $isFr }}16 bureaux dans le Grand Montréal{{ else if $isAr }}16 مكتباً في منطقة مونتريال الكبرى{{ else if $isEs }}16 oficinas en el Gran Montreal{{ else }}16 Offices Across Greater Montreal{{ end }}
       </h2>
       <p class="subtitle">
         {{ if $isFr }}
@@ -364,11 +364,11 @@
     <!-- CTA note -->
     <p class="text-center reveal reveal-delay-2" style="margin-top:40px;color:rgba(255,255,255,.45);font-size:.92rem;">
       {{ if $isFr }}
-        Dites-moi quel bureau vous convient le mieux, ou restez simplement chez vous : je me déplace avec plaisir.
+        Choisissez le bureau le plus proche de chez vous, ou fixez le rendez-vous à votre domicile.
       {{ else if $isAr }}
-        أخبرني أي مكتب يناسبك، أو ابقَ في منزلك: يسعدني أن أأتي إليك.
+        اختر المكتب الأقرب إليك، أو حدد الموعد في منزلك.
       {{ else if $isEs }}
-        Dígame qué oficina le conviene mejor, o quédese en casa: con gusto iré a visitarle.
+        Elija la oficina más cercana a su domicilio, o fije la cita en su casa.
       {{ else }}
         Tell me which office suits you best, or simply stay home: I will gladly come to you.
       {{ end }}

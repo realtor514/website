@@ -1,6 +1,6 @@
 ---
 title: "Quebec First-Time Buyer Tax Benefits: Are You Leaving Money on the Table?"
-date: 2025-05-19
+date: 2026-05-05
 category: "Finance"
 description: "Between federal and provincial programs, first-time buyers in Quebec can access tens of thousands of dollars in benefits. Most don't know all of them. Here's the complete picture."
 image: "images/articles/first-time-buyer-tax-credits/featured.jpg"

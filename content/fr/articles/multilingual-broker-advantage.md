@@ -1,6 +1,6 @@
 ---
 title: "Pourquoi la langue du courtier change l'expérience immobilière"
-date: 2025-05-19
+date: 2026-07-05
 category: "Immobilier 101"
 description: "Traiter une transaction dans sa langue maternelle n'est pas qu'une commodité. Voici pourquoi la langue pèse plus lourd que la plupart des acheteurs ne le pensent."
 image: "images/articles/multilingual-broker-advantage/featured.jpg"

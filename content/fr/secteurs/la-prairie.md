@@ -41,7 +41,7 @@ La Prairie est l'une des plus anciennes municipalités du Québec, et c'est visi
 
 **Symbiocité et les développements récents** fonctionnent à l'inverse: propriétés neuves ou quasi neuves, normes élevées, comparables fiables. La question ici n'est pas le patrimoine mais la garantie de construction et l'état réel du terrain.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **Le règlement de l'arrondissement historique**, avant tout projet de rénovation extérieure dans le Vieux-La Prairie.
 
@@ -53,6 +53,6 @@ La Prairie est l'une des plus anciennes municipalités du Québec, et c'est visi
 
 Pour un vendeur, la clé est de cibler le bon bassin: le Vieux-La Prairie et Symbiocité n'attirent pas du tout la même clientèle, et la mise en marché doit en tenir compte.
 
-Je prépare l'analyse comparative sans frais, avec les comparables de votre secteur précis et non de la ville dans son ensemble.
+L'analyse comparative est préparée sans frais, avec les comparables de votre secteur précis et non de la ville dans son ensemble.
 
 Pour un acheteur, commencez par la préautorisation, puis testez vos scénarios avec le [calculateur hypothécaire](/tools/mortgage/).

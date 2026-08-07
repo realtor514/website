@@ -1,6 +1,6 @@
 ---
 title: "How Interest Rates Are Reshaping the Montreal Real Estate Market"
-date: 2025-05-19
+date: 2026-07-13
 category: "Market Insights"
 description: "Interest rates affect affordability, competition, and strategy in ways most buyers and sellers don't fully account for. Here is how to think about rate environments and what they mean for your decision."
 image: "images/articles/interest-rates-montreal-market/featured.jpg"

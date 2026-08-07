@@ -44,7 +44,7 @@ Mascouche belongs to the same pool as Terrebonne, but with its own dynamic: fast
 
 **The newer sectors** (Domaine du Golf, Les Manoirs, Mascouche-Ouest) carry the volume: homes built since 1995, reliable comparables, family clientele.
 
-## What I check here
+## What to check here
 
 **The residential construction warranty** for properties under ten years old.
 
@@ -56,6 +56,6 @@ Mascouche belongs to the same pool as Terrebonne, but with its own dynamic: fast
 
 The market is more seasonal than on the island: families buy around the school calendar, which creates a denser spring window. Selling outside that window is possible, but the list price and preparation have to be more precise.
 
-I prepare the comparative analysis at no charge, accounting for the fact that a buyer often compares Mascouche and Terrebonne in parallel.
+The comparative analysis is prepared at no charge, accounting for the fact that a buyer often compares Mascouche and Terrebonne in parallel.
 
 Before visiting, establish your range with the [affordability calculator](/en/tools/affordability/).

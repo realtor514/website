@@ -1,6 +1,6 @@
 ---
 title: "إدارة العقارات الإيجارية في مونتريال ولافال: ما يحتاج أصحاب العقارات الجدد معرفته"
-date: 2025-05-19
+date: 2026-06-27
 category: "استثمار"
 description: "امتلاك عقار إيجاري وإدارته مهارتان مختلفتان. إليك الواقع التشغيلي."
 image: "images/articles/rental-property-management/featured.jpg"

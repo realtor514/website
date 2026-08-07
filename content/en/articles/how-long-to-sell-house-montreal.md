@@ -1,13 +1,13 @@
 ---
 title: "How Long Does It Actually Take to Sell a House in Montreal?"
-date: 2026-08-07
+date: 2026-06-21
 translationKey: "article-combien-temps-vendre"
 category: "Seller's Guide"
 description: "Time on market depends far less on the market than on three decisions you control. Here is the realistic timeline, from the first call to signing at the notary."
 image: "images/articles/how-long-to-sell-house-montreal/featured.jpg"
 ---
 
-When a seller asks me how long it will take, they are usually thinking about the gap between listing and accepted offer. That is only part of the answer, and often the shortest part.
+When a seller wonders how long it will take, they are usually thinking about the gap between listing and accepted offer. That is only part of the answer, and often the shortest part.
 
 Here is the full timeline, including where the time actually gets lost.
 

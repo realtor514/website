@@ -1,6 +1,6 @@
 ---
 title: "Pourquoi Laval est la ville la plus sous-estimée pour l'investissement immobilier"
-date: 2025-05-19
+date: 2026-05-01
 category: "Analyse de marché"
 description: "Tout le monde regarde l'île. Les données pointent vers Laval depuis des années. Voici pourquoi."
 image: "images/articles/laval-investment-city/featured.jpg"

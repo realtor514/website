@@ -1,6 +1,6 @@
 ---
 title: "7 Real Estate Myths That Cost Montreal Buyers Money"
-date: 2025-05-19
+date: 2026-05-31
 category: "Real Estate 101"
 description: "Some of the most repeated advice in real estate is wrong, or was true in a different market, or applies to a different jurisdiction. Here are the ones that cost buyers the most."
 image: "images/articles/real-estate-myths-debunked/featured.jpg"

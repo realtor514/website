@@ -1,6 +1,6 @@
 ---
 title: "كيف تُعيد أسعار الفائدة تشكيل سوق العقارات في مونتريال"
-date: 2025-05-19
+date: 2026-07-13
 category: "تحليل السوق"
 description: "أسعار الفائدة تؤثر على القدرة الشرائية والمنافسة بطرق لا يأخذها معظم المشترين والبائعين بعين الاعتبار."
 image: "images/articles/interest-rates-montreal-market/featured.jpg"

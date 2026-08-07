@@ -1,6 +1,6 @@
 ---
 title: "When Deals Go Wrong: What They Reveal About the Checks You Skipped"
-date: 2025-05-19
+date: 2026-05-28
 category: "Real Estate 101"
 description: "Transactions where everything goes wrong teach more than the ones that go smoothly. Here are the verifications that prevent most bad surprises."
 image: "images/articles/worst-real-estate-deal-lessons/featured.jpg"

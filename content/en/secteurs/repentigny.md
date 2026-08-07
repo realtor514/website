@@ -51,7 +51,7 @@ For a seller, this means the right comparison is not purely local. For a buyer, 
 
 **The riverfront sector** is a distinct market. Fewer buyers, but steady demand that is relatively insensitive to general fluctuations. Regulatory constraints tied to shoreline buffers and flood zones must be verified property by property: two neighbouring homes can have different statuses.
 
-## What I prioritize here
+## What to prioritize here
 
 **Flood zone mapping**, for any property near the river or the L'Assomption. It affects insurability, financing and resale. That is not a reason not to buy, it is a reason to know exactly what you are buying.
 
@@ -63,7 +63,7 @@ For a seller, this means the right comparison is not purely local. For a buyer, 
 
 The list price has to account for both buyer pools: local buyers and those coming from the east end of the island. The latter compare your property to what they would have gotten in Rivière-des-Prairies for the same amount, and that comparison often decides the offer.
 
-I prepare the comparative analysis at no charge, including recent sales in your sector and properties withdrawn without finding a buyer.
+The comparative analysis is prepared at no charge, including recent sales in your sector and properties withdrawn without finding a buyer.
 
 ## Buying in Repentigny
 

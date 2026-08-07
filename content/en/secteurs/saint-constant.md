@@ -46,7 +46,7 @@ Saint-Constant belongs to the same pool as Candiac, Delson and Sainte-Catherine,
 
 **Sainte-Marguerite** and the rural fringes offer larger lots, sometimes not connected to municipal services.
 
-## What I check here
+## What to check here
 
 **The residential construction warranty** for properties under ten years old.
 
@@ -58,6 +58,6 @@ Saint-Constant belongs to the same pool as Candiac, Delson and Sainte-Catherine,
 
 The buyer pool includes people comparing Candiac, Delson and La Prairie in parallel. The list price has to account for that comparison, because it often decides the offer.
 
-I prepare the comparative analysis at no charge, with comparables from your sector and an adjustment when I widen to neighbouring cities.
+The comparative analysis is prepared at no charge, with comparables from your sector and an adjustment when I widen to neighbouring cities.
 
 For a buyer, establish your range with the [affordability calculator](/en/tools/affordability/) before starting the visits.

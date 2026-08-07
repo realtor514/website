@@ -1,6 +1,6 @@
 ---
 title: "Inspection préachat au Québec: combien ça coûte et quand la faire"
-date: 2026-08-07
+date: 2026-07-15
 translationKey: "article-inspection-cout-moment"
 category: "Guide de l'acheteur"
 description: "Avant l'offre ou après? Qui paie? Combien? Voici les réponses aux questions que les acheteurs québécois posent le plus souvent au sujet de l'inspection, et l'erreur qui coûte le plus cher."

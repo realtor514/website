@@ -48,7 +48,7 @@ An algorithm needs comparables. In Rosemère they are scarce and often unsuitabl
 
 In practice, I widen the analysis to neighbouring cities when necessary, then adjust for the market difference. It is manual work, but it is the only way to reach a defensible price.
 
-## What I check here
+## What to check here
 
 **Shoreline buffers and flood zones** for properties near the Rivière des Mille Îles.
 
@@ -60,6 +60,6 @@ In practice, I widen the analysis to neighbouring cities when necessary, then ad
 
 The clientele is narrow, so the marketing has to be precise: professional photography, showcasing the lot, and a price that reflects real comparables rather than aspiration.
 
-I prepare the comparative analysis at no charge and tell you frankly what needs correcting before listing.
+The comparative analysis is prepared at no charge and tell you frankly what needs correcting before listing.
 
 For a buyer, the [closing costs calculator](/en/tools/closing-costs/) will show you what to plan for beyond the down payment.

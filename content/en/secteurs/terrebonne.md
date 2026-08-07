@@ -46,7 +46,7 @@ Terrebonne draws many buyers who started their search closer to the island. The 
 
 **Urbanova** is a long-term sustainable development project with stricter architectural and environmental requirements than traditional developments. That protects long-term value, but also imposes constraints a buyer needs to understand before signing, particularly around landscaping.
 
-## What I look at before recommending an offer
+## What to look at before making an offer
 
 In recently developed sectors, two elements deserve more attention than elsewhere.
 
@@ -60,7 +60,7 @@ The Terrebonne market is more seasonal than Montreal's. Families buy around the 
 
 That does not mean you must sell in spring at any cost. It means that if you sell outside that window, the list price and the preparation have to be more precise, because there are fewer buyers to absorb a mistake.
 
-I prepare the comparative analysis at no charge, using recent sales in your exact sector and the properties that failed to find a buyer, which tell you where the real ceiling sits.
+The comparative analysis is prepared at no charge, using recent sales in your exact sector and the properties that failed to find a buyer, which tell you where the real ceiling sits.
 
 ## Buying in Terrebonne
 

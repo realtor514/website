@@ -1,6 +1,6 @@
 ---
 title: "Property Taxes in Montreal and Laval: A Complete Explanation"
-date: 2025-05-19
+date: 2026-05-25
 category: "Finance"
 description: "Property taxes are one of the significant ongoing costs of homeownership that many buyers underestimate. Here is exactly how they work in Quebec, how they are calculated, and how to plan for them."
 image: "images/articles/property-tax-explained/featured.jpg"

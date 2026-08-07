@@ -1,6 +1,6 @@
 ---
 title: "قائمة التحقق الكاملة للانتقال لمشتري مونتريال ولافال"
-date: 2025-05-19
+date: 2026-06-04
 category: "دليل عملي"
 description: "بين تاريخ الاستلام ويوم الانتقال، عشرات المهام قد تُنسى. إليك القائمة الكاملة."
 image: "images/articles/moving-checklist-montreal/featured.jpg"

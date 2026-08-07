@@ -1,6 +1,6 @@
 ---
 title: "Five Situations Where Buying a Property Is the Wrong Decision"
-date: 2025-05-19
+date: 2026-06-08
 category: "Honest Advice"
 description: "Buying is not always the right move, even when financing is approved. Here are the cases where waiting costs less than buying."
 image: "images/articles/when-not-to-buy-real-estate/featured.jpg"

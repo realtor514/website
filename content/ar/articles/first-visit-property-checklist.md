@@ -1,6 +1,6 @@
 ---
 title: "زيارتك الأولى للعقار: ما تتحقق منه قبل الوقوع في الغرام"
-date: 2025-05-19
+date: 2026-07-22
 category: "دليل المشتري"
 description: "الزيارة الأولى هي حيث تُتخَذ القرارات العاطفية. إليك كيف تجعلها أيضاً تمريناً مثمراً لجمع المعلومات."
 image: "images/articles/first-visit-property-checklist/featured.jpg"

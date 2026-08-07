@@ -1,6 +1,6 @@
 ---
 title: "Condo Fees: The Silent Killer of Real Estate Investment Returns"
-date: 2025-05-19
+date: 2026-08-01
 category: "Investment"
 description: "Nobody talks about how condo fees compound over time, how underfunded reserve funds become your problem, and how a 'cheap' condo can cost more than a house. Until now."
 image: "images/articles/condo-fees-investment-killer/featured.jpg"

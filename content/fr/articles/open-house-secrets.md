@@ -1,6 +1,6 @@
 ---
 title: "Ce que les courtiers remarquent pendant les visites libres que les acheteurs ratent"
-date: 2025-05-19
+date: 2026-06-30
 category: "Guide de l'acheteur"
 description: "Une visite libre est un exercice de collecte d'information. La plupart des acheteurs recueillent des impressions. Les courtiers recueillent des données."
 image: "images/articles/open-house-secrets/featured.jpg"

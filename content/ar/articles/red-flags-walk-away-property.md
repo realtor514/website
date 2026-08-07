@@ -1,6 +1,6 @@
 ---
 title: "5 مؤشرات خطر تعني: ارحل، بغض النظر عن مدى تعلقك بالعقار"
-date: 2025-05-19
+date: 2026-07-24
 category: "دليل المشتري"
 description: "الوقوع في حب عقار به مشاكل خطيرة هو أحد أكثر الأشياء تكلفةً. إليك الحالات الخمس التي تستدعي الانسحاب."
 image: "images/articles/red-flags-walk-away-property/featured.jpg"

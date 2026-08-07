@@ -1,6 +1,6 @@
 ---
 title: "Comment les taux d'intérêt reconfigurent le marché immobilier de Montréal"
-date: 2025-05-19
+date: 2026-07-13
 category: "Analyse de marché"
 description: "Les taux d'intérêt affectent l'accessibilité et la stratégie d'achat de façons que la plupart des acheteurs et vendeurs ne comptabilisent pas pleinement."
 image: "images/articles/interest-rates-montreal-market/featured.jpg"

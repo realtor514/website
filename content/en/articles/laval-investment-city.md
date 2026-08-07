@@ -1,6 +1,6 @@
 ---
 title: "Why Laval Is the Most Underrated City for Real Estate Investment in Greater Montreal"
-date: 2025-05-19
+date: 2026-05-01
 category: "Market Insights"
 description: "Everyone focuses on the island. The data has been quietly pointing to Laval for years. Here's the case for why it consistently outperforms the conversation around it."
 image: "images/articles/laval-investment-city/featured.jpg"

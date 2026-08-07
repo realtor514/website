@@ -48,7 +48,7 @@ La ciudad se desarrolló por fases sucesivas desde los años 1970, lo que produc
 
 La reputación escolar es un motor de demanda real: una parte importante de los compradores se muda específicamente por el sector.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **La edad de los sistemas** en los sectores de los años 1980: techo, ventanas, drenaje francés.
 
@@ -60,4 +60,4 @@ La reputación escolar es un motor de demanda real: una parte importante de los 
 
 El mercado es estacional: las familias compran en torno al calendario escolar. Fuera de ese periodo, el precio de salida debe ser más preciso.
 
-Preparo el análisis comparativo sin costo. Para comprar, la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) establecerá su horquilla real.
+El análisis comparativo se prepara sin costo. Para comprar, la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) establecerá su horquilla real.

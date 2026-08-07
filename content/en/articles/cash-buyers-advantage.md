@@ -1,6 +1,6 @@
 ---
 title: "Why Cash Buyers Win in Montreal Real Estate (And What Financed Buyers Can Do About It)"
-date: 2025-05-19
+date: 2026-08-05
 category: "Buyer's Guide"
 description: "Cash offers have a real advantage in competitive situations. But the advantage is smaller and more specific than most people think, and financed buyers have more tools to compete than they realize."
 image: "images/articles/cash-buyers-advantage/featured.jpg"

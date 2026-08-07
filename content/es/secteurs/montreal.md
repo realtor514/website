@@ -44,7 +44,7 @@ faq:
     a: "Sí, compradores y vendedores. Para un vendedor de Montreal, la preparación importa a menudo más que en los suburbios: el inventario es mayor y los compradores comparan más rápido."
 ---
 
-Montreal y Laval forman un solo mercado para la mayoría de los compradores que acompaño. Pocos buscan únicamente de un lado de la rivière des Prairies: buscan un tipo de propiedad, un presupuesto y un tiempo de desplazamiento.
+Montreal y Laval forman un solo mercado para la mayoría de los compradores. Pocos buscan únicamente de un lado de la rivière des Prairies: buscan un tipo de propiedad, un presupuesto y un tiempo de desplazamiento.
 
 ## Un mercado que se juega por distrito
 

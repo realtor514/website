@@ -48,7 +48,7 @@ La ville s'est développée par phases successives depuis les années 1970, ce q
 
 La réputation scolaire est un moteur de demande réel ici: une part importante des acheteurs déménage spécifiquement pour le secteur, ce qui rend le marché plus résilient que dans les villes où le seul argument est le prix.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **L'âge des systèmes** dans les secteurs des années 1980: toiture, fenêtres, drain français. Une propriété dont plusieurs systèmes arrivent en fin de vie en même temps ne vaut pas le prix d'une propriété identique remise à niveau.
 
@@ -60,6 +60,6 @@ La réputation scolaire est un moteur de demande réel ici: une part importante 
 
 Le marché est saisonnier: les familles achètent autour du calendrier scolaire, ce qui crée une fenêtre de printemps plus dense. En dehors de cette période, le prix d'affichage doit être plus précis parce qu'il y a moins d'acheteurs pour absorber une erreur.
 
-Je prépare l'analyse comparative sans frais, avec les ventes récentes de votre secteur exact.
+L'analyse comparative est préparée sans frais, avec les ventes récentes de votre secteur exact.
 
 Pour un acheteur, le [calculateur de capacité d'emprunt](/tools/affordability/) établira votre fourchette réelle.

@@ -54,7 +54,7 @@ Por último, el centro peatonal es un activo real: pocas ciudades suburbanas de 
 
 **El sector de los lagos**, al borde del parque, es un mercado distinto con pocas transacciones y demanda constante.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **Las servidumbres y restricciones de zonificación** para las propiedades colindantes con el parque nacional.
 
@@ -66,4 +66,4 @@ Por último, el centro peatonal es un activo real: pocas ciudades suburbanas de 
 
 Con un inventario estrecho, las tres primeras semanas son determinantes. Una propiedad correctamente publicada y bien preparada recibe sus mejores ofertas en ese periodo; una sobrevalorada lo pierde y luego se vende por debajo de lo que debía.
 
-Preparo el análisis comparativo sin costo. Para comprar, esté listo antes de visitar: la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) le dará su horquilla real.
+El análisis comparativo se prepara sin costo. Para comprar, esté listo antes de visitar: la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) le dará su horquilla real.

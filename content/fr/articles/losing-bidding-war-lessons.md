@@ -1,6 +1,6 @@
 ---
 title: "Perdre une guerre d'offres n'est pas toujours une mauvaise nouvelle"
-date: 2025-05-19
+date: 2026-06-11
 category: "Guide de l'acheteur"
 description: "Perdre une situation multi-offres est douloureux sur le moment. Certains des meilleurs résultats immobiliers viennent pourtant d'offres qui n'ont pas gagné."
 image: "images/articles/losing-bidding-war-lessons/featured.jpg"

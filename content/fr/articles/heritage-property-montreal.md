@@ -1,6 +1,6 @@
 ---
 title: "Acheter une propriété patrimoniale à Montréal : le charme face à la réalité"
-date: 2025-05-19
+date: 2026-06-06
 category: "Guide de l'acheteur"
 description: "Les bâtiments patrimoniaux de Montréal sont parmi les plus beaux en Amérique du Nord. Ils sont aussi parmi les plus compliqués à acheter et à entretenir."
 image: "images/articles/heritage-property-montreal/featured.jpg"

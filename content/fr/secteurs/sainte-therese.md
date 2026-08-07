@@ -44,7 +44,7 @@ De l'autre, un marché d'immeubles à revenus soutenu par le Cégep Lionel-Groul
 
 Ces deux marchés ne répondent pas aux mêmes signaux, et un vendeur n'a pas la même stratégie selon le côté où il se trouve.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **Les baux en cours**, pour tout immeuble à revenus. Des loyers sous le marché ne se corrigent pas librement, et le calcul de rendement doit en tenir compte dès le départ.
 
@@ -56,6 +56,6 @@ Ces deux marchés ne répondent pas aux mêmes signaux, et un vendeur n'a pas la
 
 Pour un vendeur d'unifamiliale, la préparation et le prix d'affichage comptent plus que le calendrier. Pour un vendeur de plex, ce sont les chiffres qui décident: un immeuble dont les documents financiers sont clairs se vend plus vite et plus cher.
 
-Je prépare l'analyse comparative sans frais. Pour un acheteur ou un investisseur, l'analyse de rendement se fait avant la visite, pas après: les revenus affichés dans une inscription ne sont pas un rendement.
+L'analyse comparative est préparée sans frais. Pour un acheteur ou un investisseur, l'analyse de rendement se fait avant la visite, pas après: les revenus affichés dans une inscription ne sont pas un rendement.
 
 Testez vos scénarios avec le [calculateur hypothécaire](/tools/mortgage/).

@@ -50,7 +50,7 @@ S'y ajoute la gare exo de la ligne Candiac, qui donne un accès direct au centre
 
 **Le secteur de la gare** bénéficie d'une prime liée au transport collectif, concentrée sur un rayon réduit.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **La garantie de construction** pour les propriétés récentes du Square Candiac.
 
@@ -62,4 +62,4 @@ S'y ajoute la gare exo de la ligne Candiac, qui donne un accès direct au centre
 
 Pour un vendeur du Square Candiac, la concurrence inclut le neuf. Pour un vendeur d'un secteur établi, l'inventaire est plus étroit et la préparation compte davantage que le timing.
 
-Je prépare l'analyse comparative sans frais. Pour un acheteur, le [calculateur de coûts de clôture](/tools/closing-costs/) vous donnera le montant à prévoir au-delà de la mise de fonds.
+L'analyse comparative est préparée sans frais. Pour un acheteur, le [calculateur de coûts de clôture](/tools/closing-costs/) vous donnera le montant à prévoir au-delà de la mise de fonds.

@@ -1,6 +1,6 @@
 ---
 title: "Comment les secteurs scolaires influencent la valeur des propriétés à Montréal et Laval"
-date: 2025-05-19
+date: 2026-06-02
 category: "Analyse de marché"
 description: "Les zones scolaires sont l'une des variables les moins discutées et les plus impactantes en immobilier résidentiel."
 image: "images/articles/school-districts-property-values/featured.jpg"

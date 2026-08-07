@@ -69,6 +69,6 @@ El rendimiento anunciado es casi siempre más atractivo que en Laval o Montreal.
 
 El plazo medio de venta suele ser más largo que en la corona norte inmediata, simplemente porque la cuenca de compradores es menor. Eso hace que el precio de salida inicial sea aún más determinante: una propiedad sobrevalorada no se corrige rápido aquí.
 
-Preparo el análisis comparativo sin costo, con los comparables de su sector preciso y no de la ciudad en su conjunto.
+El análisis comparativo se prepara sin costo, con los comparables de su sector preciso y no de la ciudad en su conjunto.
 
 Para preparar sus cifras antes de nuestro encuentro, la herramienta de [estimación de propiedad](/es/tools/home-estimate/) y la [calculadora hipotecaria](/es/tools/mortgage/) le darán una primera base de trabajo.

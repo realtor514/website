@@ -1,6 +1,6 @@
 ---
 title: "Real Estate Commission in Quebec: What You're Actually Paying For"
-date: 2025-05-19
+date: 2026-06-16
 category: "Real Estate 101"
 description: "Commission is the fee everyone knows exists and almost nobody fully understands. Here is a transparent breakdown of how it works, who pays it, and what you actually get for it."
 image: "images/articles/commission-explained-quebec/featured.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Access to Homeownership: What Actually Blocks Families, and What Is Negotiable"
-date: 2025-05-19
+date: 2026-07-30
 category: "Real Estate 101"
 description: "Homeownership is often discussed as a financial instrument. For many families it is first a question of stability. Here is which barriers are real and which are not."
 image: "images/articles/everyone-deserves-homeownership/featured.jpg"

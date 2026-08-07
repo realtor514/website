@@ -1,6 +1,6 @@
 ---
 title: "الكوندو أم المنزل في مونتريال: كيف تقرر فعلاً"
-date: 2025-05-19
+date: 2026-05-20
 category: "دليل المشتري"
 description: "معظم المشترين يمتلكون تفضيلاً غريزياً. إليك الإطار للتحقق إذا كان يتوافق مع وضعك الحقيقي."
 image: "images/articles/condo-vs-house-montreal/featured.jpg"

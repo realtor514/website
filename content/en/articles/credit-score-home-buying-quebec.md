@@ -1,6 +1,6 @@
 ---
 title: "Your Credit Score Is Quietly Blocking Your Dream Home (Here's the Fix)"
-date: 2025-05-19
+date: 2026-05-17
 category: "Buyer's Guide"
 description: "Most buyers discover their credit score is a problem when it's too late - during mortgage approval. Here's what to check, what to fix, and how long it actually takes."
 image: "images/articles/credit-score-home-buying-quebec/featured.jpg"

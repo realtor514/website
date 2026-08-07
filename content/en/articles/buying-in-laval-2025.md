@@ -1,6 +1,6 @@
 ---
 title: "5 Things to Know Before Buying in Laval"
-date: 2025-01-15
+date: 2026-05-19
 translationKey: "article-buying-in-laval"
 category: "Buyer's Guide"
 description: "A practical guide for home buyers entering the Laval real estate market."

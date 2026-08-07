@@ -1,6 +1,6 @@
 ---
 title: "رسوم الكوندو: القاتل الصامت لعوائد الاستثمار العقاري"
-date: 2025-05-19
+date: 2026-08-01
 category: "استثمار"
 description: "لا أحد يتحدث عن كيفية تراكم رسوم الكوندو عبر الزمن وكيف يصبح الصندوق الاحتياطي ناقص التمويل مشكلتك."
 image: "images/articles/condo-fees-investment-killer/featured.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Courtier, agent, REALTOR : quelle est la vraie différence au Québec ?"
-date: 2025-05-19
+date: 2026-07-21
 category: "Immobilier 101"
 description: "La plupart des acheteurs et vendeurs utilisent ces termes de façon interchangeable. Ils ne sont pas identiques. Voici une explication claire de ce que chaque désignation signifie au Québec."
 image: "images/articles/broker-agent-difference-quebec/featured.jpg"

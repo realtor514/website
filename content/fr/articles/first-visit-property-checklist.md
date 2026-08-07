@@ -1,6 +1,6 @@
 ---
 title: "Votre première visite de propriété : quoi vérifier avant de tomber amoureux"
-date: 2025-05-19
+date: 2026-07-22
 category: "Guide de l'acheteur"
 description: "La première visite est là où les décisions émotionnelles sont prises. Voici comment en faire aussi un exercice de collecte d'information productif."
 image: "images/articles/first-visit-property-checklist/featured.jpg"

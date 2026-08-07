@@ -1,6 +1,6 @@
 ---
 title: "La vérité sur les guerres d'offres à Montréal (ce que le marché ne vous dit pas)"
-date: 2025-05-19
+date: 2026-06-13
 category: "Guide de l'acheteur"
 description: "Les guerres d'offres semblent excitantes à la télévision. Dans la réalité, elles sont stressantes et pleines de pièges. Voici ce que la plupart des courtiers ne disent pas à voix haute."
 image: "images/articles/bidding-wars-truth-montreal/featured.jpg"

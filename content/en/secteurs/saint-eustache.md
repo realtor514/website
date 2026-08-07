@@ -44,7 +44,7 @@ Saint-Eustache combines one of the most significant heritage cores in the Lauren
 
 **The family sectors** (Grand-Chêne, Arthur-Sauvé, Rivière-Nord) carry the volume, with homes built mostly between 1980 and 2010.
 
-## What I prioritize here
+## What to prioritize here
 
 **Flood zone mapping**, for any property near the water. It is the single most important point in Saint-Eustache, and the one buyers too often discover after the promise to purchase.
 
@@ -56,6 +56,6 @@ Saint-Eustache combines one of the most significant heritage cores in the Lauren
 
 For a seller, the right comparison is local rather than municipal: Vieux-Saint-Eustache and Grand-Chêne do not attract the same buyer, and an estimate that mixes the two produces a false price.
 
-I prepare the comparative analysis at no charge, with comparables from your specific sector.
+The comparative analysis is prepared at no charge, with comparables from your specific sector.
 
 For a buyer, start with the pre-approval then plan for [closing costs](/en/tools/closing-costs/) beyond the down payment.

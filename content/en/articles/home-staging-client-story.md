@@ -1,6 +1,6 @@
 ---
 title: "Home Staging: What It Actually Changes About Your Sale Price"
-date: 2025-05-19
+date: 2026-07-10
 category: "Seller's Guide"
 description: "Staging is often seen as an optional expense. The numbers tell a different story. Here is how it affects time on market and the price you get."
 image: "images/articles/home-staging-client-story/featured.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "لماذا تغيّر لغة الوسيط تجربة العقارات"
-date: 2025-05-19
+date: 2026-07-05
 category: "عقارات 101"
 description: "إنجاز المعاملة بلغتك الأم ليس مجرد ميزة عملية. إليك لماذا تزن اللغة أثقل مما يتصوّر معظم المشترين."
 image: "images/articles/multilingual-broker-advantage/featured.jpg"

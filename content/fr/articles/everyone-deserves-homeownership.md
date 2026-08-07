@@ -1,6 +1,6 @@
 ---
 title: "L'accès à la propriété: ce qui bloque vraiment les familles, et ce qui est négociable"
-date: 2025-05-19
+date: 2026-07-30
 category: "Immobilier 101"
 description: "La propriété est souvent discutée comme un instrument financier. Pour de nombreuses familles, c'est d'abord une question de stabilité. Voici quelles barrières sont réelles et lesquelles ne le sont pas."
 image: "images/articles/everyone-deserves-homeownership/featured.jpg"

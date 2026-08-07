@@ -50,7 +50,7 @@ Add to that the exo station on the Candiac line, which gives direct access to do
 
 **The station sector** carries a transit premium concentrated within a short radius.
 
-## What I check here
+## What to check here
 
 **The construction warranty** for recent Square Candiac properties.
 
@@ -62,4 +62,4 @@ Add to that the exo station on the Candiac line, which gives direct access to do
 
 For a Square Candiac seller, the competition includes new construction. For a seller in an established sector, inventory is thinner and preparation matters more than timing.
 
-I prepare the comparative analysis at no charge. For a buyer, the [closing costs calculator](/en/tools/closing-costs/) will show you what to plan for beyond the down payment.
+The comparative analysis is prepared at no charge. For a buyer, the [closing costs calculator](/en/tools/closing-costs/) will show you what to plan for beyond the down payment.

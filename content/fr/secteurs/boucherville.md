@@ -50,7 +50,7 @@ S'y ajoute une population dont le revenu médian est parmi les plus élevés de 
 
 **Le secteur riverain** constitue un marché à part, avec moins d'acheteurs mais une demande stable. Les contraintes réglementaires liées aux bandes riveraines doivent être vérifiées propriété par propriété.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **L'âge des systèmes** dans les secteurs des années 1970 et 1980: toiture, fenêtres, drain français. Une propriété dont plusieurs systèmes arrivent en fin de vie utile en même temps ne vaut pas le prix d'une propriété identique où ces travaux ont été faits.
 
@@ -62,7 +62,7 @@ S'y ajoute une population dont le revenu médian est parmi les plus élevés de 
 
 Les acheteurs ont des attentes élevées et beaucoup de moyens de comparaison. Une propriété désencombrée, avec les réparations mineures visibles faites et une photographie professionnelle, se vend nettement mieux qu'une propriété comparable présentée telle quelle.
 
-Je prépare l'analyse comparative sans frais et je vous dis honnêtement ce qui doit être corrigé avant l'affichage.
+L'analyse comparative est préparée sans frais, avec un avis honnête sur ce qui doit être corrigé avant l'affichage.
 
 ## Acheter à Boucherville
 

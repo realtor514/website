@@ -48,7 +48,7 @@ Un algoritmo necesita comparables. En Rosemère son escasos y a menudo inadecuad
 
 En concreto, amplio el análisis a las ciudades vecinas cuando hace falta y luego ajusto por la diferencia de mercado.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **Las franjas ribereñas y las zonas inundables** para las propiedades cercanas al río.
 
@@ -60,4 +60,4 @@ En concreto, amplio el análisis a las ciudades vecinas cuando hace falta y lueg
 
 La clientela es estrecha, así que la comercialización debe ser precisa: fotografía profesional, puesta en valor del terreno y un precio que refleje los comparables reales.
 
-Preparo el análisis comparativo sin costo. Para comprar, la [calculadora de costos de cierre](/es/tools/closing-costs/) le indicará el importe a prever.
+El análisis comparativo se prepara sin costo. Para comprar, la [calculadora de costos de cierre](/es/tools/closing-costs/) le indicará el importe a prever.

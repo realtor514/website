@@ -69,6 +69,6 @@ Le rendement affiché est presque toujours plus attrayant qu'à Laval ou à Mont
 
 Le délai de vente moyen est généralement plus long que dans la couronne nord immédiate, simplement parce que le bassin d'acheteurs est plus petit. Cela rend le prix d'affichage initial encore plus déterminant: une propriété surévaluée ne se corrige pas rapidement ici.
 
-Je prépare l'analyse comparative sans frais, avec les comparables de votre secteur précis, et non de la ville dans son ensemble.
+L'analyse comparative est préparée sans frais, avec les comparables de votre secteur précis, et non de la ville dans son ensemble.
 
 Pour préparer vos chiffres avant notre rencontre, l'outil d'[estimation de propriété](/tools/home-estimate/) et le [calculateur hypothécaire](/tools/mortgage/) vous donneront une première base de travail.

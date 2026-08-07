@@ -1,6 +1,6 @@
 ---
 title: "Off-Market Properties: What They Are and How to Actually Find Them"
-date: 2025-05-19
+date: 2026-07-04
 category: "Buyer's Guide"
 description: "Off-market properties are real. They are also surrounded by more mythology than almost any other concept in real estate. Here is what they actually are and how buyers can access them."
 image: "images/articles/off-market-properties/featured.jpg"

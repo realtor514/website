@@ -1,6 +1,6 @@
 ---
 title: "La liste complète de déménagement pour les acheteurs de Montréal et Laval"
-date: 2025-05-19
+date: 2026-06-04
 category: "Guide pratique"
 description: "Entre la date de possession et le jour du déménagement, il y a des dizaines de tâches qui peuvent être oubliées. Voici la liste complète."
 image: "images/articles/moving-checklist-montreal/featured.jpg"

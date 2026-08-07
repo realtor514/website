@@ -1,6 +1,6 @@
 ---
 title: "شراء منزل قيد الإنشاء في كيبيك: ما لا تخبرك به الكتيّبات"
-date: 2025-05-19
+date: 2026-06-23
 category: "دليل المشتري"
 description: "البناء الجديد يبدو بسيطاً. الواقع يتضمن ضمانات GCR ورسوماً إضافية وتأخيرات لا يشرحها أحد مسبقاً."
 image: "images/articles/new-construction-guide-quebec/featured.jpg"

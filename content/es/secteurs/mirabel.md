@@ -50,7 +50,7 @@ Mirabel resulta de la fusión de una decena de antiguos pueblos separados por zo
 
 Comparar una venta de Saint-Janvier con una propiedad de Saint-Benoît no tiene sentido. Es exactamente lo que hacen las herramientas en línea.
 
-## Lo que verifico aquí
+## Lo que hay que verificar aquí
 
 **La zonificación agrícola**, antes de cualquier oferta sobre una propiedad rural.
 
@@ -62,4 +62,4 @@ Comparar una venta de Saint-Janvier con una propiedad de Saint-Benoît no tiene 
 
 Para un vendedor, la comercialización debe dirigirse a la cuenca correcta. Quien busca en Saint-Janvier no suele buscar en Saint-Benoît.
 
-Preparo el análisis comparativo sin costo, con los comparables de su sector preciso. Para comprar, la [calculadora hipotecaria](/es/tools/mortgage/) le dará una primera base.
+El análisis comparativo se prepara sin costo, con los comparables de su sector preciso. Para comprar, la [calculadora hipotecaria](/es/tools/mortgage/) le dará una primera base.

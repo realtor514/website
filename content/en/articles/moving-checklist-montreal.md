@@ -1,6 +1,6 @@
 ---
 title: "The Complete Moving Checklist for Montreal and Laval Buyers"
-date: 2025-05-19
+date: 2026-06-04
 category: "Practical Guide"
 description: "Between possession date and moving day, there are dozens of tasks that can get lost. This is the complete checklist to work through after an offer is accepted."
 image: "images/articles/moving-checklist-montreal/featured.jpg"

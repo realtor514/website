@@ -1,13 +1,13 @@
 ---
 title: "Quel salaire faut-il pour acheter à Montréal ou à Laval?"
-date: 2026-08-07
+date: 2026-05-06
 translationKey: "article-quel-salaire-acheter"
 category: "Financement"
 description: "La question n'est pas seulement le salaire. Voici comment les prêteurs calculent réellement votre capacité d'emprunt au Québec, et pourquoi deux personnes au même revenu n'obtiennent pas le même montant."
 image: "images/articles/what-salary-to-buy-montreal/featured.jpg"
 ---
 
-C'est probablement la question la plus fréquente que je reçois, et malheureusement celle à laquelle aucun chiffre unique ne peut répondre honnêtement.
+C'est l'une des questions les plus fréquentes chez les premiers acheteurs, et aucun chiffre unique ne peut y répondre honnêtement.
 
 Deux personnes qui gagnent exactement le même salaire peuvent se faire approuver pour des montants qui diffèrent de 150 000 dollars. Voici pourquoi, et comment calculer le vôtre.
 
@@ -27,7 +27,7 @@ Prenez deux ménages avec un revenu combiné identique de 110 000 dollars.
 
 Le premier n'a aucune dette. Le second a un paiement auto de 650 dollars par mois et un solde de marge de crédit. Ce paiement auto retranche à lui seul plusieurs dizaines de milliers de dollars de capacité d'emprunt, parce qu'il consomme une part de l'ATD qui aurait autrement servi au logement.
 
-C'est la raison pour laquelle je conseille toujours la même chose aux acheteurs qui planifient un achat dans les douze prochains mois: ne financez pas de véhicule, ne prenez pas de nouveau prêt personnel, et remboursez les soldes de cartes de crédit avant de faire votre demande. L'effet sur votre capacité d'emprunt est plus important que celui d'une hausse de salaire de 5 000 dollars.
+C'est la raison pour laquelle la même règle s'applique à tout achat prévu dans les douze prochains mois: ne financez pas de véhicule, ne prenez pas de nouveau prêt personnel, et remboursez les soldes de cartes de crédit avant de faire votre demande. L'effet sur votre capacité d'emprunt est plus important que celui d'une hausse de salaire de 5 000 dollars.
 
 ## Le test de résistance
 

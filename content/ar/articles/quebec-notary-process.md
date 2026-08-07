@@ -1,6 +1,6 @@
 ---
 title: "عملية كاتب العدل في كيبيك: ما يحتاج كل مشترٍ معرفته"
-date: 2025-05-19
+date: 2026-08-04
 category: "عقارات 101"
 description: "في كيبيك، تُنجَز المعاملات العقارية عبر كاتب عدل. العملية مختلفة عن بقية المقاطعات."
 image: "images/articles/quebec-notary-process/featured.jpg"

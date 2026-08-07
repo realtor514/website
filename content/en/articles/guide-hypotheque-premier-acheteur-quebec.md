@@ -1,6 +1,6 @@
 ---
 title: "Everything First-Time Buyers Need to Know About Mortgages in Quebec"
-date: 2025-06-02
+date: 2026-07-29
 translationKey: "article-guide-hypotheque"
 category: "Financing"
 description: "The mortgage process is more complex than your bank makes it seem, and simpler than the internet makes it look. Here is the complete, honest guide for first-time buyers in Quebec."

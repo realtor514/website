@@ -44,7 +44,7 @@ El bassin de Chambly no es un detalle del paisaje: es el principal factor de seg
 
 **Fonrouge, el Domaine des Érables y los sectores Bourgogne** representan el volumen familiar: casas construidas mayoritariamente desde 1985, calles residenciales, comparables fiables.
 
-## Lo que priorizo aquí
+## Lo que hay que priorizar aquí
 
 **La cartografía de zonas inundables** a lo largo del Richelieu, para toda propiedad cercana al agua.
 
@@ -56,4 +56,4 @@ El bassin de Chambly no es un detalle del paisaje: es el principal factor de seg
 
 La cuenca de compradores es menor que en la Rive-Sud inmediata, lo que hace el precio de salida inicial más determinante: una propiedad sobrevalorada no se corrige rápido aquí.
 
-Preparo el análisis comparativo sin costo. Para comprar, establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) y prevea los [costos de cierre](/es/tools/closing-costs/).
+El análisis comparativo se prepara sin costo. Para comprar, establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) y prevea los [costos de cierre](/es/tools/closing-costs/).

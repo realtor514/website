@@ -1,6 +1,6 @@
 ---
 title: "What Real Estate Agents Notice at Open Houses That Buyers Miss"
-date: 2025-05-19
+date: 2026-06-30
 category: "Buyer's Guide"
 description: "An open house visit is an information gathering exercise. Most buyers collect impressions. Experienced brokers collect data. Here is what to look for, ask, and remember."
 image: "images/articles/open-house-secrets/featured.jpg"

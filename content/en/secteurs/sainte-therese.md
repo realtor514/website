@@ -44,7 +44,7 @@ On the other, an income property market supported by Cégep Lionel-Groulx, the S
 
 These two markets do not respond to the same signals, and a seller's strategy differs depending on which side they are on.
 
-## What I check here
+## What to check here
 
 **Existing leases**, for any income property. Below-market rents cannot be freely corrected, and the return calculation has to account for that from the start.
 
@@ -56,6 +56,6 @@ These two markets do not respond to the same signals, and a seller's strategy di
 
 For a single-family seller, preparation and list price matter more than the calendar. For a plex seller, the numbers decide: a building with clear financial documents sells faster and higher.
 
-I prepare the comparative analysis at no charge. For a buyer or investor, the return analysis happens before the visit, not after: the income printed in a listing is not a return.
+The comparative analysis is prepared at no charge. For a buyer or investor, the return analysis happens before the visit, not after: the income printed in a listing is not a return.
 
 Test your scenarios with the [mortgage calculator](/en/tools/mortgage/).

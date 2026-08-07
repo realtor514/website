@@ -1,6 +1,6 @@
 ---
 title: "Divorce and Real Estate in Quebec: What You Need to Know"
-date: 2025-05-19
+date: 2026-06-20
 category: "Real Estate 101"
 description: "Separating couples face some of the most complex real estate decisions of their lives under the worst possible emotional circumstances. Here is what the process actually looks like in Quebec."
 image: "images/articles/divorce-real-estate-guide/featured.jpg"

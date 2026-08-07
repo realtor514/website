@@ -1,6 +1,6 @@
 ---
 title: "How to Build a Real Estate Portfolio in Greater Montreal Starting From Zero"
-date: 2025-05-19
+date: 2026-05-26
 category: "Investment"
 description: "Real estate wealth is not built through one brilliant transaction. It is built through a systematic approach to acquisition, financing, and management over time. Here is the framework that works."
 image: "images/articles/build-real-estate-portfolio/featured.jpg"

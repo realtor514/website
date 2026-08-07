@@ -1,6 +1,6 @@
 ---
 title: "Le processus notarial au Québec : ce que tout acheteur doit savoir"
-date: 2025-05-19
+date: 2026-08-04
 category: "Immobilier 101"
 description: "Au Québec, les transactions immobilières se concluent par un notaire. Le processus est différent des autres provinces. Voici une explication claire."
 image: "images/articles/quebec-notary-process/featured.jpg"

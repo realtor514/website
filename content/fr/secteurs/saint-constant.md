@@ -46,7 +46,7 @@ Saint-Constant fait partie du même bassin que Candiac, Delson et Sainte-Catheri
 
 **Sainte-Marguerite** et les franges rurales offrent des terrains plus grands, parfois non raccordés aux services municipaux.
 
-## Ce que je vérifie ici
+## Ce qu'il faut vérifier ici
 
 **La garantie de construction résidentielle** pour les propriétés de moins de dix ans.
 
@@ -58,6 +58,6 @@ Saint-Constant fait partie du même bassin que Candiac, Delson et Sainte-Catheri
 
 Le bassin d'acheteurs inclut ceux qui comparent avec Candiac, Delson et La Prairie en parallèle. Le prix d'affichage doit tenir compte de cette comparaison, parce que c'est souvent elle qui décide de l'offre.
 
-Je prépare l'analyse comparative sans frais, avec les comparables de votre secteur et un ajustement quand j'élargis aux villes voisines.
+L'analyse comparative est préparée sans frais, avec les comparables de votre secteur et un ajustement quand j'élargis aux villes voisines.
 
 Pour un acheteur, établissez votre fourchette avec le [calculateur de capacité d'emprunt](/tools/affordability/) avant de commencer les visites.

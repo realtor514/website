@@ -1,6 +1,6 @@
 ---
 title: "5 أشياء يجب معرفتها قبل الشراء في لافال"
-date: 2025-01-15
+date: 2026-05-19
 translationKey: "article-buying-in-laval"
 category: "دليل المشتري"
 description: "دليل عملي للمشترين الراغبين في دخول سوق العقارات في لافال."

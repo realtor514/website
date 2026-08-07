@@ -1,6 +1,6 @@
 ---
 title: "Les transactions qui dérapent: ce qu'elles révèlent sur les vérifications à faire"
-date: 2025-05-19
+date: 2026-05-28
 category: "Immobilier 101"
 description: "Les transactions où tout va mal enseignent plus que celles qui se déroulent bien. Voici les vérifications qui évitent la majorité des mauvaises surprises."
 image: "images/articles/worst-real-estate-deal-lessons/featured.jpg"

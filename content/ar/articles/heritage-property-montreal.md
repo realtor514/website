@@ -1,6 +1,6 @@
 ---
 title: "شراء عقار تراثي في مونتريال: السحر مقابل الواقع"
-date: 2025-05-19
+date: 2026-06-06
 category: "دليل المشتري"
 description: "مباني التراث في مونتريال من أجمل ما في أمريكا الشمالية. وهي أيضاً من أعقدها شراءً وتمويلاً وصيانة."
 image: "images/articles/heritage-property-montreal/featured.jpg"

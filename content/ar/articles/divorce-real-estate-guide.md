@@ -1,6 +1,6 @@
 ---
 title: "الطلاق والعقارات في كيبيك: ما تحتاج معرفته"
-date: 2025-05-19
+date: 2026-06-20
 category: "عقارات 101"
 description: "الأزواج المنفصلون يواجهون بعضاً من أعقد القرارات العقارية في أسوأ الظروف العاطفية."
 image: "images/articles/divorce-real-estate-guide/featured.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Acheter un bien immobilier avec des membres de la famille au Québec : ce qu'il faut mettre par écrit"
-date: 2025-05-19
+date: 2026-07-27
 category: "Guide de l'acheteur"
 description: "Le co-achat avec des parents, frères et soeurs ou enfants est de plus en plus courant. Cela peut très bien fonctionner. Cela peut aussi créer de sérieux conflits."
 image: "images/articles/buying-property-with-family/featured.jpg"

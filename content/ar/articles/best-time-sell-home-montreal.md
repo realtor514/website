@@ -1,6 +1,6 @@
 ---
 title: "أفضل وقت لبيع منزلك في مونتريال (ما تظهره البيانات فعلاً)"
-date: 2025-05-19
+date: 2026-05-12
 category: "دليل البائع"
 description: "الجميع يقول إن الربيع هو أفضل وقت للبيع. البيانات أكثر دقة من ذلك."
 image: "images/articles/best-time-sell-home-montreal/featured.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Propriétés hors marché : ce qu'elles sont vraiment et comment les trouver"
-date: 2025-05-19
+date: 2026-07-04
 category: "Guide de l'acheteur"
 description: "Les propriétés hors marché sont réelles. Elles sont aussi entourées de plus de mythologie que presque tout autre concept en immobilier."
 image: "images/articles/off-market-properties/featured.jpg"

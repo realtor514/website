@@ -1,6 +1,6 @@
 ---
 title: "وراثة عقار في كيبيك: ما يحتاج الورثة معرفته قبل البيع أو الاحتفاظ"
-date: 2025-05-19
+date: 2026-05-16
 category: "عقارات 101"
 description: "وراثة العقارات في كيبيك تستدعي قرارات قانونية ومالية لم يكن معظم الورثة مستعدين لها."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
