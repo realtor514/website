@@ -19,17 +19,13 @@ Deux elements viennent recouvrir la couverture, la mise en page les evite:
 - **Photo de profil**: cercle en bas a gauche. Rien d important a gauche de
   x = 400 ni dans le coin inferieur gauche. Le degrade seul occupe cette zone.
 - **Recadrage telephone**: Facebook rogne les cotes sur mobile. Tout le texte
-  reste entre x = 452 et x = 1105, donc toujours visible.
+  reste entre x = 452 et x = 1000, donc toujours visible.
 
 ### Contenu
 
-Logo RE/MAX DU CARTIER, nom, titre, secteurs desservis, telephone, site web
-et langues de service. Portrait detoure a droite, sur le navy de la charte.
-Polices Playfair Display et Inter, les memes que le site.
-
-Les langues sont ecrites en francais plutot que chacune dans sa propre
-ecriture: Pillow ne fait pas la mise en forme de l arabe et les lettres
-sortiraient detachees les unes des autres.
+Logo RE/MAX DU CARTIER, nom, titre, telephone, site web et courriel.
+Portrait detoure a droite, sur le navy de la charte. Polices Playfair
+Display et Inter, les memes que le site.
 
 ### Regenerer
 

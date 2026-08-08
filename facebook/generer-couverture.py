@@ -132,6 +132,7 @@ def logo(canvas, box_h, xy):
 # ---------------------------------------------------------------- icones
 ICONS = {
     "phone": [("r", 7, 2, 17, 22, 3), ("l", 10.5, 19, 13.5, 19)],
+    "mail": [("r", 2, 5, 22, 19, 2), ("p", [(2.5, 6), (12, 14), (21.5, 6)])],
     "globe": [("c", 12, 12, 9.6), ("l", 2.4, 12, 21.6, 12),
               ("a", 7, 2.4, 17, 21.6, 0, 360)],
 }
@@ -153,6 +154,8 @@ def icon(canvas, name, xy, size, color, sw=None):
         if t == "l":
             d.line([P(op[1], op[2]), P(op[3], op[4])], fill=color, width=S,
                    joint="curve")
+        elif t == "p":
+            d.line([P(*p) for p in op[1]], fill=color, width=S, joint="curve")
         elif t == "r":
             d.rounded_rectangle([P(op[1], op[2]), P(op[3], op[4])],
                                 op[5] * k * ss, outline=color, width=S)
@@ -177,7 +180,7 @@ def couverture():
 
     # barre d accent rouge, blanc, bleu, alignee sur le bloc de texte
     bx, by, bw = X - 38, 252, 6
-    for col, y0, y1 in [(RED, 0, 96), (WHITE, 102, 136), (BLUE, 142, 242)]:
+    for col, y0, y1 in [(RED, 0, 104), (WHITE, 110, 146), (BLUE, 152, 266)]:
         d.rounded_rectangle([bx, by + y0, bx + bw, by + y1], bw / 2,
                             fill=col + (255,))
 
@@ -187,22 +190,16 @@ def couverture():
     d.text((X, 344), "Courtier immobilier résidentiel",
            font=inter(31, 500), fill=(214, 222, 240, 255))
 
-    tracked(d, (X, 400), "LAVAL  ·  MONTRÉAL  ·  RIVE-NORD  ·  LAURENTIDES",
-            inter(20, 700), NAVY_SOFT + (255,), 3)
-
-    # coordonnees
-    y = 452
-    f = inter(29, 600)
+    # coordonnees: telephone et site sur une ligne, courriel en dessous
+    f = inter(28, 600)
     x = X
     for ic, t in [("phone", "(438) 372-0102"), ("globe", "georgesmatar.ca")]:
-        icon(c, ic, (int(x), y), 34, (255, 255, 255, 235), sw=3)
-        d.text((x + 46, y + 2), t, font=f, fill=WHITE)
-        x += int(46 + d.textlength(t, font=f) + 52)
+        icon(c, ic, (int(x), 424), 32, (255, 255, 255, 235), sw=3)
+        d.text((x + 44, 425), t, font=f, fill=WHITE)
+        x += int(44 + d.textlength(t, font=f) + 50)
 
-    # Pillow ne fait pas la mise en forme de l ecriture arabe: le nom des
-    # langues reste en francais, sinon les lettres sortent detachees.
-    tracked(d, (X, 518), "SERVICE EN FRANÇAIS, ANGLAIS, ESPAGNOL ET ARABE",
-            inter(19, 600), (146, 160, 194, 255), 2)
+    icon(c, "mail", (X, 486), 32, (255, 255, 255, 235), sw=3)
+    d.text((X + 44, 487), "georges.matar@remax-quebec.com", font=f, fill=WHITE)
 
     return c
 
