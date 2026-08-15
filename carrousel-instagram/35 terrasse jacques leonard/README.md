@@ -15,7 +15,7 @@ Publier dans cet ordre exact. Instagram conserve l ordre d ajout des fichiers.
 | 4 | `04-domaine.jpg` | Parc du domaine, aires communes et charges communes | `16-parc et piscine privés du domaine.png` |
 | 5 | `05-details.jpg` | Chambre principale, salon du sous-sol, terrasse couverte | `5`, `11`, `14` |
 | 6 | `06-emplacement.jpg` | Vue aerienne du secteur, 3 elements de proximite | `16` (vue aerienne) |
-| 7 | `07-coup-de-coeur.jpg` | Cour arriere, Imaginez-vous vivre ici | `15-backyard.png` |
+| 7 | `07-coup-de-coeur.jpg` | Salon du rez-de-chaussee, Imaginez-vous vivre ici | `2-salon-rdc.png` |
 | 8 | `08-contact.jpg` | Georges Matar et Rovena Pistoli, coordonnees, appel a l action | portraits |
 
 La photo `16-parc et piscine privés du domaine.png` est un montage de trois

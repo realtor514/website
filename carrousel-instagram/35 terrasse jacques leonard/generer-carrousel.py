@@ -43,6 +43,7 @@ CENTRIS = "15815581"
 
 # photos deposees dans sources/
 FACADE = "0-façade.png"
+SALON = "2-salon-rdc.png"
 SALLE_A_MANGER = "3-salle à manger- rdc.png"
 CUISINE = "4-cuisine- RDC.png"
 CHAMBRE = "5-chambre à coucher principale- 2ème étage.jpg"
@@ -503,9 +504,10 @@ def slide6():
 # ================================================================ SLIDE 7
 def slide7():
     c = base()
-    photo(c, COUR, (0, 0, W, H), r=0, shad=False, fy=0.5)
+    photo(c, SALON, (0, 0, W, H), r=0, shad=False, fy=0.5)
     gradient(c, 0, 300, 130, top=True)
     gradient(c, 700, H, 245)
+    gradient(c, 760, H, 200)            # le plancher pale exige un voile de plus
     d = ImageDraw.Draw(c)
 
     d.line([W // 2 - 46, 820, W // 2 + 46, 820], fill=WHITE + (255,), width=5)
