@@ -37,39 +37,40 @@ Telephone: 514 910-4128. Fiche: remaxducartier.com/fr/courtiers/rovena-pistoli
 ### Legende a copier-coller
 
 ```
-NOUVELLE INSCRIPTION | 35, terrasse Jacques-Léonard | Rivière-des-Prairies | 380 000 $
+Bienvenue au 35, terrasse Jacques-Léonard, Rivière-des-Prairies.
 
-Maison de ville sur 3 niveaux au Domaine Bonneville, une enclave paisible de
-250 maisons dans un site paysager mature. Garage privé au sous-sol, allée à
-usage exclusif et cour arrière privée et clôturée.
+Une maison de ville sur trois niveaux au Domaine Bonneville, une enclave paisible de 250 maisons dans un site paysager mature.
 
 4 chambres, dont 1 au sous-sol
 2 salles de bain et 1 salle d'eau
-9 pièces réparties sur 3 niveaux, sous-sol complet
-Construite en 1972, brique et fondation de béton
-Chauffage électrique individuel
+Sous-sol complet avec cuisine, salon et chambre
+Garage au sous-sol et allée à usage exclusif
+Cour arrière privée et clôturée avec terrasse couverte
 
-Le domaine, c'est aussi:
-Piscine, pataugeoire et parc privés
-Aire de jeux et centre communautaire
-Charges communes couvrant assurance, toiture, maçonnerie, balcons,
-déneigement et fonds de prévoyance
+Piscine, pataugeoire, parc privé, aire de jeux et centre communautaire réservés aux résidents du domaine.
+
+Les charges communes couvrent l'assurance, la toiture, la maçonnerie, les balcons, le déneigement et le fonds de prévoyance.
+
+Écoles, parcs et pistes cyclables à distance de marche. Transport en commun et autoroute 40 à proximité.
+
+Écrivez-moi pour une visite.
+
+380 000 $ - Centris 15815581
+
+Georges Matar, courtier immobilier résidentiel
+RE/MAX DU CARTIER INC., avec l'Équipe Pistoli
+438 372-0102
+```
+
+### Version longue, si la fiche complete est souhaitee
+
+```
+Construite en 1972, brique et fondation de béton, chauffage électrique individuel.
+9 pièces réparties sur 3 niveaux.
 
 Évaluation municipale 2026: 412 300 $
 Taxes municipales: 2 616 $ | Taxes scolaires: 314 $
 Occupation: 90 jours après l'acceptation de la promesse d'achat
-
-Écoles primaire et secondaire, cégep, parcs, pistes cyclables, transport en
-commun et autoroute 40 à proximité.
-
-Glissez jusqu'à la fin pour les détails et pour planifier une visite.
-
-Une inscription de l'Équipe Pistoli.
-Georges Matar, courtier immobilier résidentiel
-Rovena Pistoli, courtier immobilier résidentiel et commercial
-RE/MAX DU CARTIER INC.
-438-372-0102 | georgesmatar.ca
-Centris 15815581
 ```
 
 ### Mots-cles
