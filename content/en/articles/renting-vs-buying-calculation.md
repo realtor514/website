@@ -85,4 +85,4 @@ Run your own numbers. The answer exists in the math, not in conventional wisdom.
 
 ---
 
-*Want to run this calculation with your actual numbers? [Get in touch](/\#contact) and we will work through it together.*
+*Want to run this calculation with your actual numbers? [Get in touch](/en/form/) and we will work through it together.*

@@ -31,4 +31,4 @@ The nuances of the Laval market (school catchment zones, flood plain maps, munic
 
 ---
 
-*Have questions about buying in Laval? [Get in touch](/#contact) to talk through your situation, with no obligation.*
+*Have questions about buying in Laval? [Get in touch](/en/form/) to talk through your situation, with no obligation.*

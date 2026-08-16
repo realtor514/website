@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}"{{ if eq .Lang "ar" }} dir="rtl"{{ end }}>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} | Georges Matar</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:title"       content="{{ .Title }}">
+  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:type"        content="website">
+  <meta property="og:url"         content="{{ .Permalink }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ partial "seo.html" . }}
+  <link rel="icon" type="image/png" href="{{ "images/remax-logo.png" | relURL }}">
+  <link rel="apple-touch-icon" href="{{ "images/remax-logo.png" | relURL }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Noto+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/enhance.css" | relURL }}">
+</head>
+<body class="lead-body">
+
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $homeURL := "/en/" }}
+{{ if $isFr }}{{ $homeURL = "/" }}{{ else if $isAr }}{{ $homeURL = "/ar/" }}{{ else if $isEs }}{{ $homeURL = "/es/" }}{{ end }}
+
+{{/* ── Entete allegee: le visiteur d une publicite n a qu une chose a faire ── */}}
+<header class="lead-nav">
+  <div class="container">
+    <div class="lead-nav__inner">
+      <a href="{{ $homeURL }}" class="lead-nav__logo">
+        <img src="{{ "images/remax-logo.png" | relURL }}" alt="RE/MAX DU CARTIER" width="34" height="34">
+        <span>
+          <strong>{{ .Site.Params.name }}</strong>
+          <em>{{ .Site.Params.role }}</em>
+        </span>
+      </a>
+      <a href="tel:{{ .Site.Params.phoneRaw }}" class="lead-nav__phone">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 13a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.56 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 9.91a16 16 0 0 0 6.18 6.18l1.27-.91a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/>
+        </svg>
+        <bdi dir="ltr">{{ .Site.Params.phone }}</bdi>
+      </a>
+    </div>
+  </div>
+</header>
+
+<main>{{ block "main" . }}{{ end }}</main>
+
+<footer class="lead-foot">
+  <div class="container">
+    <p>&copy; {{ now.Year }} {{ .Site.Params.name }} &middot; {{ .Site.Params.brokerage }}</p>
+    <p class="lead-foot__links">
+      <a href="{{ .Site.Params.privacyURL }}">{{ if $isFr }}Politique de confidentialité{{ else if $isAr }}سياسة الخصوصية{{ else if $isEs }}Política de privacidad{{ else }}Privacy policy{{ end }}</a>
+      <span>&middot;</span>
+      <a href="{{ $homeURL }}">{{ if $isFr }}Site complet{{ else if $isAr }}الموقع الكامل{{ else if $isEs }}Sitio completo{{ else }}Full site{{ end }}</a>
+    </p>
+  </div>
+</footer>
+
+<script src="{{ "js/enhance.js" | relURL }}" defer></script>
+</body>
+</html>

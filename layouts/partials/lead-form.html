@@ -1,0 +1,98 @@
+{{/*
+  Formulaire de demande, partage par la section contact de l accueil,
+  la page /contact/ et la page d atterrissage /formulaire/.
+
+  Appel:  {{ partial "lead-form.html" (dict "ctx" . "source" "accueil") }}
+  source  identifie la provenance du lead dans le courriel recu.
+*/}}
+{{ $ctx    := .ctx }}
+{{ $source := .source | default "site" }}
+{{ $isFr   := eq $ctx.Lang "fr" }}
+{{ $isAr   := eq $ctx.Lang "ar" }}
+{{ $isEs   := eq $ctx.Lang "es" }}
+
+<form class="contact-form lead-form" action="https://formspree.io/f/mwvzkzvl" method="POST">
+
+  {{/* ── Champs caches: provenance du lead ── */}}
+  <input type="hidden" name="_subject" value="Demande {{ $source }} ({{ $ctx.Lang }}) - georgesmatar.ca">
+  <input type="hidden" name="_next" value="{{ $ctx.Site.Params.thanksURL | absURL }}">
+  <input type="hidden" name="provenance" value="{{ $source }}">
+  <input type="hidden" name="langue" value="{{ $ctx.Lang }}">
+  <input type="hidden" name="page" data-lead-field="page" value="">
+  <input type="hidden" name="campagne" data-lead-field="utm_campaign" value="">
+  <input type="hidden" name="source_pub" data-lead-field="utm_source" value="">
+  <input type="hidden" name="support_pub" data-lead-field="utm_medium" value="">
+  <input type="hidden" name="annonce" data-lead-field="utm_content" value="">
+  <input type="hidden" name="reference" data-lead-field="referrer" value="">
+
+  {{/* ── Intention ── */}}
+  <div class="form-group">
+    <span class="form-label">{{ if $isFr }}Je veux{{ else if $isAr }}أريد{{ else if $isEs }}Quiero{{ else }}I want to{{ end }}</span>
+    <div class="intent-grid">
+      {{ $intents := slice
+        (dict "v" "acheter"    "fr" "Acheter"            "en" "Buy"                 "es" "Comprar"            "ar" "الشراء")
+        (dict "v" "vendre"     "fr" "Vendre"             "en" "Sell"                "es" "Vender"             "ar" "البيع")
+        (dict "v" "evaluation" "fr" "Faire évaluer"      "en" "Get an evaluation"   "es" "Obtener evaluación" "ar" "تقييم عقاري")
+        (dict "v" "investir"   "fr" "Investir"           "en" "Invest"              "es" "Invertir"           "ar" "الاستثمار")
+      }}
+      {{ range $i, $it := $intents }}
+      <label class="intent-option">
+        <input type="radio" name="intention" value="{{ $it.v }}" {{ if eq $i 0 }}checked{{ end }}>
+        <span class="intent-option__box">{{ if $isFr }}{{ $it.fr }}{{ else if $isAr }}{{ $it.ar }}{{ else if $isEs }}{{ $it.es }}{{ else }}{{ $it.en }}{{ end }}</span>
+      </label>
+      {{ end }}
+    </div>
+  </div>
+
+  {{/* ── Coordonnees ── */}}
+  <div class="form-row">
+    <div class="form-group">
+      <label class="form-label" for="lf-first-{{ $source }}">{{ if $isFr }}Prénom{{ else if $isAr }}الاسم الأول{{ else if $isEs }}Nombre{{ else }}First name{{ end }}</label>
+      <input class="form-input" type="text" id="lf-first-{{ $source }}" name="firstName" autocomplete="given-name"
+             placeholder="{{ if $isFr }}Jean{{ else if $isAr }}محمد{{ else if $isEs }}Juan{{ else }}John{{ end }}" required>
+    </div>
+    <div class="form-group">
+      <label class="form-label" for="lf-last-{{ $source }}">{{ if $isFr }}Nom{{ else if $isAr }}اسم العائلة{{ else if $isEs }}Apellido{{ else }}Last name{{ end }}</label>
+      <input class="form-input" type="text" id="lf-last-{{ $source }}" name="lastName" autocomplete="family-name"
+             placeholder="{{ if $isFr }}Tremblay{{ else if $isAr }}الأحمد{{ else if $isEs }}García{{ else }}Smith{{ end }}" required>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="form-label" for="lf-email-{{ $source }}">{{ if $isFr }}Courriel{{ else if $isAr }}البريد الإلكتروني{{ else if $isEs }}Correo electrónico{{ else }}Email{{ end }}</label>
+    <input class="form-input" type="email" id="lf-email-{{ $source }}" name="email" autocomplete="email"
+           placeholder="{{ if $isFr }}jean@exemple.com{{ else if $isAr }}name@example.com{{ else if $isEs }}juan@ejemplo.com{{ else }}john@example.com{{ end }}" required>
+  </div>
+
+  <div class="form-group">
+    <label class="form-label" for="lf-phone-{{ $source }}">{{ if $isFr }}Téléphone{{ else if $isAr }}الهاتف{{ else if $isEs }}Teléfono{{ else }}Phone{{ end }}</label>
+    <input class="form-input" type="tel" id="lf-phone-{{ $source }}" name="phone" autocomplete="tel" placeholder="(514) 555-1234" required>
+  </div>
+
+  <div class="form-group">
+    <label class="form-label" for="lf-msg-{{ $source }}">{{ if $isFr }}Message (optionnel){{ else if $isAr }}الرسالة (اختياري){{ else if $isEs }}Mensaje (opcional){{ else }}Message (optional){{ end }}</label>
+    <textarea class="form-input form-input--textarea" id="lf-msg-{{ $source }}" name="message"
+      placeholder="{{ if $isFr }}Dites-moi ce que vous recherchez...{{ else if $isAr }}أخبرني عما تبحث عنه...{{ else if $isEs }}Dígame lo que está buscando...{{ else }}Tell me what you're looking for...{{ end }}"></textarea>
+  </div>
+
+  {{/* ── Consentements, Loi 25 ── */}}
+  <div class="form-consent">
+    <label class="form-check">
+      <input type="checkbox" name="consentementContact" value="oui" required>
+      <span>{{ if $isFr }}J&rsquo;accepte d&rsquo;être contacté au sujet de ma demande.{{ else if $isAr }}أوافق على أن يتم الاتصال بي بخصوص طلبي.{{ else if $isEs }}Acepto ser contactado en relación con mi solicitud.{{ else }}I agree to be contacted about my request.{{ end }}</span>
+    </label>
+    <label class="form-check">
+      <input type="checkbox" name="consentementInfolettre" value="oui">
+      <span>{{ if $isFr }}Je veux recevoir les nouvelles inscriptions et les analyses de marché.{{ else if $isAr }}أرغب في تلقي العقارات الجديدة وتحليلات السوق.{{ else if $isEs }}Deseo recibir las nuevas propiedades y los análisis de mercado.{{ else }}I want to receive new listings and market analysis.{{ end }}</span>
+    </label>
+  </div>
+
+  <button type="submit" class="btn btn-glass-red lead-form__submit">
+    {{ if $isFr }}Envoyer ma demande{{ else if $isAr }}إرسال طلبي{{ else if $isEs }}Enviar mi solicitud{{ else }}Send my request{{ end }}
+  </button>
+
+  <p class="form-fineprint">
+    {{ if $isFr }}Réponse en moins de 24 heures. Vos coordonnées ne sont jamais revendues.{{ else if $isAr }}الرد خلال أقل من 24 ساعة. بياناتك لا تُباع أبداً.{{ else if $isEs }}Respuesta en menos de 24 horas. Sus datos nunca se venden.{{ else }}Answer within 24 hours. Your information is never sold.{{ end }}
+    <a href="{{ $ctx.Site.Params.privacyURL }}">{{ if $isFr }}Politique de confidentialité{{ else if $isAr }}سياسة الخصوصية{{ else if $isEs }}Política de privacidad{{ else }}Privacy policy{{ end }}</a>
+  </p>
+</form>

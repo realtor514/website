@@ -58,4 +58,4 @@ That combination is achievable in Laval and certain Montreal neighborhoods at re
 
 ---
 
-*Ready to look at specific income properties? [Let's start with the numbers](/\#contact) before we start with the listings.*
+*Ready to look at specific income properties? [Let's start with the numbers](/en/form/) before we start with the listings.*

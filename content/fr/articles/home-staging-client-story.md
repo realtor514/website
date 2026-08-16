@@ -34,4 +34,4 @@ Le test est simple: si un acheteur qui entre chez vous voit d'abord votre vie pl
 
 ---
 
-*Vous pensez à vendre ? [Parlons de la stratégie de préparation](/fr/#contact) avant d'inscrire.*
+*Vous pensez à vendre ? [Parlons de la stratégie de préparation](/formulaire/) avant d'inscrire.*

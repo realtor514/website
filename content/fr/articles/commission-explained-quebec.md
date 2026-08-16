@@ -28,4 +28,4 @@ Un courtier qui facture la pleine commission et livre des photos de smartphone, 
 
 ---
 
-*Des questions sur la commission pour votre situation spécifique ? [Parlons-en directement](/fr/#contact).*
+*Des questions sur la commission pour votre situation spécifique ? [Parlons-en directement](/formulaire/).*

@@ -30,4 +30,4 @@ Le retournement est une activité, pas un investissement. Il nécessite une expe
 
 ---
 
-*Vous évaluez un retournement potentiel ? [Faisons les calculs ensemble avant que vous vous engagiez](/fr/#contact).*
+*Vous évaluez un retournement potentiel ? [Faisons les calculs ensemble avant que vous vous engagiez](/formulaire/).*

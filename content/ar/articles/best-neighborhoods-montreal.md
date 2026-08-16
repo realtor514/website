@@ -52,4 +52,4 @@ image: "images/articles/best-neighborhoods-montreal/featured.jpg"
 
 ---
 
-*تريد تحليلاً محدداً لحي أو لعقار؟ [تواصل معي](/ar/#contact) وسأنجز الدراسة.*
+*تريد تحليلاً محدداً لحي أو لعقار؟ [تواصل معي](/ar/istimara/) وسأنجز الدراسة.*

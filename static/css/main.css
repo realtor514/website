@@ -2860,3 +2860,112 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
 [dir="rtl"] .adv-cta--gold { border-right-color: #c9a84c; }
 [dir="rtl"] .adv-card__logo { justify-content: flex-end; }
 [dir="rtl"] .adv-body th, [dir="rtl"] .adv-body td { text-align: right; }
+
+/* ══════════════════════════════════════════════════════════════
+   Formulaire de demande, page de contact, page d atterrissage
+   ══════════════════════════════════════════════════════════════ */
+
+/* ── Selecteur d intention ── */
+.intent-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+.intent-option { cursor: pointer; }
+.intent-option input { position: absolute; opacity: 0; width: 0; height: 0; }
+.intent-option__box {
+  display: flex; align-items: center; justify-content: center;
+  padding: 13px 10px; text-align: center;
+  background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.13);
+  border-radius: var(--radius); color: rgba(255,255,255,.72);
+  font-size: .88rem; font-weight: 500; line-height: 1.25;
+  transition: var(--transition);
+}
+.intent-option:hover .intent-option__box { border-color: rgba(255,255,255,.3); color: var(--white); }
+.intent-option input:checked + .intent-option__box {
+  background: rgba(176,0,0,.22); border-color: var(--red); color: var(--white); font-weight: 600;
+}
+.intent-option input:focus-visible + .intent-option__box { outline: 2px solid var(--red); outline-offset: 2px; }
+
+/* ── Consentements ── */
+.form-consent { display: flex; flex-direction: column; gap: 12px; margin: 24px 0 26px; }
+.form-check { display: flex; align-items: flex-start; gap: 10px; cursor: pointer; }
+.form-check input {
+  flex-shrink: 0; width: 17px; height: 17px; margin-top: 2px;
+  accent-color: var(--red); cursor: pointer;
+}
+.form-check span { color: rgba(255,255,255,.62); font-size: .82rem; line-height: 1.5; }
+.lead-form__submit { width: 100%; justify-content: center; font-size: 1rem; padding: 16px 28px; }
+.form-fineprint { margin: 14px 0 0; color: rgba(255,255,255,.38); font-size: .76rem; line-height: 1.6; text-align: center; }
+.form-fineprint a { color: rgba(255,255,255,.62); text-decoration: underline; }
+.form-fineprint a:hover { color: var(--white); }
+
+/* ── Page de contact ── */
+.contact-actions { margin-top: 32px; display: flex; flex-direction: column; gap: 12px; }
+.contact-map-link { display: inline-block; margin-top: 18px; color: rgba(255,255,255,.5); font-size: .84rem; }
+.contact-map-link:hover { color: var(--white); }
+.contact-form-heading { color: var(--white); margin-bottom: 20px; font-size: 1.35rem; }
+
+/* ── Page d atterrissage: entete allegee ── */
+.lead-body { background: var(--navy); }
+.lead-nav { background: var(--navy); border-bottom: 1px solid rgba(255,255,255,.09); padding: 15px 0; }
+.lead-nav__inner { display: flex; align-items: center; justify-content: space-between; gap: 18px; }
+.lead-nav__logo { display: flex; align-items: center; gap: 11px; }
+.lead-nav__logo img { border-radius: 7px; flex-shrink: 0; }
+.lead-nav__logo span { display: flex; flex-direction: column; line-height: 1.25; }
+.lead-nav__logo strong { color: var(--white); font-size: .95rem; font-weight: 600; }
+.lead-nav__logo em { color: rgba(255,255,255,.45); font-size: .72rem; font-style: normal; }
+.lead-nav__phone {
+  display: inline-flex; align-items: center; gap: 8px; flex-shrink: 0;
+  padding: 9px 16px; border: 1px solid rgba(255,255,255,.18); border-radius: 100px;
+  color: var(--white); font-size: .88rem; font-weight: 600; transition: var(--transition);
+}
+.lead-nav__phone:hover { background: var(--red); border-color: var(--red); }
+
+/* ── Page d atterrissage: contenu ── */
+.lead-page { padding: 56px 0 72px; position: relative; }
+.lead-page::before {
+  content: ''; position: absolute; inset: 0;
+  background: url('../images/office/office.png') center/cover no-repeat;
+  opacity: .05; pointer-events: none;
+}
+.lead-page .container { position: relative; max-width: 720px; }
+.lead-page__head { text-align: center; margin-bottom: 32px; }
+.lead-page__head h1 { color: var(--white); font-size: clamp(1.9rem, 4.6vw, 2.9rem); line-height: 1.15; margin-bottom: 16px; }
+.lead-page__sub { color: rgba(255,255,255,.66); font-size: 1.04rem; line-height: 1.7; max-width: 560px; margin: 0 auto; }
+.lead-page__proof {
+  list-style: none; margin: 26px 0 0; padding: 0;
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 10px 26px;
+}
+.lead-page__proof li {
+  display: inline-flex; align-items: center; gap: 7px;
+  color: rgba(255,255,255,.72); font-size: .85rem; font-weight: 500;
+}
+.lead-page__proof svg { color: var(--red-light); flex-shrink: 0; }
+.lead-page__card .contact-form { padding: 40px; }
+.lead-page__contact { text-align: center; margin-top: 30px; color: rgba(255,255,255,.42); font-size: .8rem; line-height: 1.75; }
+.lead-page__contact p { margin: 0 0 3px; }
+.lead-page__contact a { color: rgba(255,255,255,.6); }
+.lead-page__contact a:hover { color: var(--white); text-decoration: underline; }
+.lead-page__contact-name { color: rgba(255,255,255,.62); font-weight: 600; margin-bottom: 6px !important; }
+.lead-page__sep { padding: 0 7px; opacity: .4; }
+.lead-page__body { margin-top: 42px; color: rgba(255,255,255,.6); font-size: .92rem; line-height: 1.8; }
+.lead-page__body h2 { color: var(--white); font-size: 1.25rem; margin: 30px 0 12px; }
+.lead-page__body a { color: rgba(255,255,255,.8); text-decoration: underline; }
+
+/* ── Page d atterrissage: pied ── */
+.lead-foot { background: #060f1c; padding: 26px 0; text-align: center; color: rgba(255,255,255,.34); font-size: .78rem; }
+.lead-foot p { margin: 0 0 5px; }
+.lead-foot__links a { color: rgba(255,255,255,.5); }
+.lead-foot__links a:hover { color: var(--white); }
+.lead-foot__links span { padding: 0 8px; opacity: .5; }
+
+@media (max-width: 768px) {
+  .intent-grid { grid-template-columns: 1fr 1fr; gap: 8px; }
+  .intent-option__box { padding: 12px 6px; font-size: .82rem; }
+  .lead-page { padding: 36px 0 52px; }
+  .lead-page__card .contact-form { padding: 26px 20px; }
+  .lead-nav__logo em { display: none; }
+}
+
+/* ── Ajustements RTL ── */
+[dir="rtl"] .form-check { flex-direction: row-reverse; text-align: right; }
+[dir="rtl"] .intent-grid { direction: rtl; }
+[dir="rtl"] .lead-page__contact,
+[dir="rtl"] .lead-page__head { direction: rtl; }

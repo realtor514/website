@@ -72,4 +72,4 @@ The answer depends on your situation. Anyone who tells you the answer is the sam
 
 ---
 
-*Want to model the actual numbers for your situation? [Let's run the calculation together](/\#contact) - 30 minutes can change your timeline.*
+*Want to model the actual numbers for your situation? [Let's run the calculation together](/en/form/) - 30 minutes can change your timeline.*

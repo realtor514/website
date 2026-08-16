@@ -80,4 +80,4 @@ The best time to think about your credit for a home purchase is the moment you s
 
 ---
 
-*Want to know if your financial profile is mortgage-ready? [Get in touch](/\#contact) to be connected with a trusted mortgage broker before looking at listings.*
+*Want to know if your financial profile is mortgage-ready? [Get in touch](/en/form/) to be connected with a trusted mortgage broker before looking at listings.*

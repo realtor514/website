@@ -83,4 +83,4 @@ Pour la suite, lisez [la liste de vérification d'inspection](/articles/home-ins
 
 ---
 
-*Vous avez un rapport d'inspection en main et vous ne savez pas si le problème est majeur ou normal? [Envoyez-le-moi](/#contact). Je vous dirai franchement ce qui mérite une renégociation.*
+*Vous avez un rapport d'inspection en main et vous ne savez pas si le problème est majeur ou normal? [Envoyez-le-moi](/formulaire/). Je vous dirai franchement ce qui mérite une renégociation.*

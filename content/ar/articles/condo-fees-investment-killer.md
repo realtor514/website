@@ -26,4 +26,4 @@ image: "images/articles/condo-fees-investment-killer/featured.jpg"
 
 ---
 
-*تنظر في كوندو معين؟ [تواصل معي](/ar/#contact) وسأساعدك على مراجعة المالية قبل الالتزام.*
+*تنظر في كوندو معين؟ [تواصل معي](/ar/istimara/) وسأساعدك على مراجعة المالية قبل الالتزام.*

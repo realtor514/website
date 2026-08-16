@@ -58,4 +58,4 @@ Family co-ownership transactions are among the most relationship-sensitive situa
 
 ---
 
-*Planning a family co-purchase? [Let's talk through the structure before you start the search](/\#contact).*
+*Planning a family co-purchase? [Let's talk through the structure before you start the search](/en/form/).*

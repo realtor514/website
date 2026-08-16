@@ -32,4 +32,4 @@ Un effondrement de 30-40 % dans le marché résidentiel de Montréal n'apparaît
 
 ---
 
-*Vous voulez discuter de la façon dont les conditions du marché affectent une décision d'achat ? [Travaillons-la ensemble](/fr/#contact).*
+*Vous voulez discuter de la façon dont les conditions du marché affectent une décision d'achat ? [Travaillons-la ensemble](/formulaire/).*

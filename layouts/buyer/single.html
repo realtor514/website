@@ -34,7 +34,7 @@
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
           {{ if $isFr }}Prendre rendez-vous{{ else if $isEs }}Reservar una cita{{ else if $isAr }}احجز موعداً{{ else }}Book a Free Consultation{{ end }}
         </button>
-        <a href="{{ $base }}/#contact" class="btn btn-outline">
+        <a href="{{ site.Params.formURL }}" class="btn btn-outline">
           {{ if $isFr }}Me contacter{{ else if $isEs }}Contácteme{{ else if $isAr }}تواصل معي{{ else }}Contact Me{{ end }}
         </a>
       </div>
@@ -194,7 +194,7 @@
     </div>
     {{ else }}
     <p class="text-center" style="color:var(--gray);padding:40px 0">
-      {{ if $isFr }}Nouvelles propriétés à venir. <a href="{{ $base }}/#contact" style="color:var(--red);font-weight:600">Contactez-moi</a> pour les disponibilités.{{ else }}<a href="/#contact" style="color:var(--red);font-weight:600">Contact me</a> for available listings.{{ end }}
+      {{ if $isFr }}Nouvelles propriétés à venir. <a href="{{ site.Params.formURL }}" style="color:var(--red);font-weight:600">Contactez-moi</a> pour les disponibilités.{{ else }}<a href="{{ site.Params.formURL }}" style="color:var(--red);font-weight:600">Contact me</a> for available listings.{{ end }}
     </p>
     {{ end }}
     <div class="text-center mt-48 reveal">
@@ -223,7 +223,7 @@
       </p>
     </div>
     <div class="text-center reveal">
-      <a href="{{ $base }}/#contact" class="btn btn-primary" style="font-size:1.05rem;padding:16px 36px">
+      <a href="{{ site.Params.formURL }}" class="btn btn-primary" style="font-size:1.05rem;padding:16px 36px">
         {{ if $isFr }}Me contacter pour mon projet{{ else if $isAr }}تواصل معي لمشروعي{{ else if $isEs }}Contácteme para mi proyecto{{ else }}Contact Me for My Project{{ end }}
       </a>
     </div>

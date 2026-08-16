@@ -32,4 +32,4 @@ image: "images/articles/new-construction-guide-quebec/featured.jpg"
 
 ---
 
-*تقارن خيارات البناء الجديد مع إعادة البيع؟ [لنُحلّل معاً](/ar/#contact).*
+*تقارن خيارات البناء الجديد مع إعادة البيع؟ [لنُحلّل معاً](/ar/istimara/).*

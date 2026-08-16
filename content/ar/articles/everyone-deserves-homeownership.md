@@ -36,4 +36,4 @@ image: "images/articles/everyone-deserves-homeownership/featured.jpg"
 
 ---
 
-*أينما كنت في طريقك نحو التملّك، [لنتحدث بصراحة عن وضعك](/ar/#contact).*
+*أينما كنت في طريقك نحو التملّك، [لنتحدث بصراحة عن وضعك](/ar/istimara/).*

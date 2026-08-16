@@ -90,4 +90,4 @@ image: "images/articles/strategies-negociation-immobilier-montreal/featured.jpg"
 
 ---
 
-*هل تتنقل في تفاوض في سوق مونتريال أو لافال؟ [تواصل معي](/#contact) ولنناقش استراتيجيتك قبل التقديم.*
+*هل تتنقل في تفاوض في سوق مونتريال أو لافال؟ [تواصل معي](/ar/istimara/) ولنناقش استراتيجيتك قبل التقديم.*

@@ -36,4 +36,4 @@ Garder la discipline du plafond, surtout dans les deux semaines qui suivent une 
 
 ---
 
-*Vous traversez une recherche frustrante ? [Parlons-en](/fr/#contact).*
+*Vous traversez une recherche frustrante ? [Parlons-en](/formulaire/).*

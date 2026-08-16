@@ -46,4 +46,4 @@ If rates fall meaningfully after you purchase, you can refinance. You cannot rec
 
 ---
 
-*Want to understand how current rate conditions affect your specific buying or selling situation? [Let's talk through it](/\#contact).*
+*Want to understand how current rate conditions affect your specific buying or selling situation? [Let's talk through it](/en/form/).*

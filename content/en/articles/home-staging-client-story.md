@@ -34,4 +34,4 @@ The test is simple: if a buyer walking into your home sees your life before they
 
 ---
 
-*Thinking about selling? [Let's talk about preparation strategy](/en/#contact) before listing.*
+*Thinking about selling? [Let's talk about preparation strategy](/en/form/) before listing.*

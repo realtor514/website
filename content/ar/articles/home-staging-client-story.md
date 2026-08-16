@@ -34,4 +34,4 @@ image: "images/articles/home-staging-client-story/featured.jpg"
 
 ---
 
-*هل تفكّر بالبيع؟ [لنتحدث عن استراتيجية التحضير](/ar/#contact) قبل العرض.*
+*هل تفكّر بالبيع؟ [لنتحدث عن استراتيجية التحضير](/ar/istimara/) قبل العرض.*

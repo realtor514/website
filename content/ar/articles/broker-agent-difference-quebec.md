@@ -30,4 +30,4 @@ image: "images/articles/broker-agent-difference-quebec/featured.jpg"
 
 ---
 
-*أسئلة حول التمثيل العقاري في كيبيك؟ [تواصل معي](/ar/#contact).*
+*أسئلة حول التمثيل العقاري في كيبيك؟ [تواصل معي](/ar/istimara/).*

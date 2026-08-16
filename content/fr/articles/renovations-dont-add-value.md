@@ -33,4 +33,4 @@ La valorisation retourne presque toujours mieux que la rénovation avant une ven
 
 ---
 
-*Vous pensez à ce qu'il faut faire avant d'inscrire ? [Visitons votre propriété ensemble](/fr/#contact).*
+*Vous pensez à ce qu'il faut faire avant d'inscrire ? [Visitons votre propriété ensemble](/formulaire/).*

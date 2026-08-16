@@ -61,4 +61,4 @@ The value of a checklist like this is that it holds when emotions are making the
 
 ---
 
-*Worried about a specific property you're considering? [Let's review it together](/\#contact) before you commit.*
+*Worried about a specific property you're considering? [Let's review it together](/en/form/) before you commit.*

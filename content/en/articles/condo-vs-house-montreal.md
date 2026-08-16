@@ -57,4 +57,4 @@ Neither is universally superior. The right choice is a function of your specific
 
 ---
 
-*Want to compare specific properties side by side? [Let's put together a list and run the numbers](/\#contact).*
+*Want to compare specific properties side by side? [Let's put together a list and run the numbers](/en/form/).*

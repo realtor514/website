@@ -28,4 +28,4 @@ image: "images/articles/quebec-notary-process/featured.jpg"
 
 ---
 
-*أسئلة حول عملية الإغلاق؟ [تواصل معي](/ar/#contact) وسأشرح لك كل خطوة.*
+*أسئلة حول عملية الإغلاق؟ [تواصل معي](/ar/istimara/) وسأشرح لك كل خطوة.*

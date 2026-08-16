@@ -88,4 +88,4 @@ Si la réponse à ces quatre questions est oui, le timing du marché plus large 
 
 ---
 
-*Une analyse du marché immobilier de la grande région de Montréal et Laval est publiée ici régulièrement. [Prenez contact](/#contact) pour discuter de ce que les données actuelles signifient pour votre situation.*
+*Une analyse du marché immobilier de la grande région de Montréal et Laval est publiée ici régulièrement. [Prenez contact](/formulaire/) pour discuter de ce que les données actuelles signifient pour votre situation.*

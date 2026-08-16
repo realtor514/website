@@ -32,4 +32,4 @@ image: "images/articles/best-mortgage-rate-canada/featured.jpg"
 
 ---
 
-*تريد الاتصال بوسيط رهن عقاري أثق به؟ [تواصل معي](/ar/#contact) وسأقدم المقدمة.*
+*تريد الاتصال بوسيط رهن عقاري أثق به؟ [تواصل معي](/ar/istimara/) وسأقدم المقدمة.*

@@ -34,4 +34,4 @@ La plupart des dossiers difficiles ne le sont pas à cause du problème lui-mêm
 
 ---
 
-*Vous traversez une situation immobilière complexe ? [Parlons-en](/fr/#contact).*
+*Vous traversez une situation immobilière complexe ? [Parlons-en](/formulaire/).*

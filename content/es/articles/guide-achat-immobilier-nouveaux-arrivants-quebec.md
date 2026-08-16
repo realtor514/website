@@ -125,4 +125,4 @@ Esos valores se alinean bien con lo que el sector inmobiliario de Quebec, bien e
 
 ---
 
-*¿Es usted un recién llegado que navega el mercado inmobiliario de Quebec? Estaré feliz de tener una conversación en el idioma que mejor le funcione. [Contácteme](/#contact) y empecemos desde donde usted está.*
+*¿Es usted un recién llegado que navega el mercado inmobiliario de Quebec? Estaré feliz de tener una conversación en el idioma que mejor le funcione. [Contácteme](/es/formulario/) y empecemos desde donde usted está.*

@@ -293,3 +293,34 @@
     setTimeout(sweep, 600);
   });
 })();
+
+/* ──────────────────────────────────────────────────────────────
+   Provenance des demandes
+
+   Remplit les champs caches du formulaire avec les parametres utm
+   de l URL, la page d atterrissage et le referent. Sans cela, une
+   demande arrive sans indiquer quelle publicite l a generee.
+   ────────────────────────────────────────────────────────────── */
+(function () {
+  'use strict';
+  var fields = document.querySelectorAll('[data-lead-field]');
+  if (!fields.length) return;
+
+  var params = new URLSearchParams(window.location.search);
+  var values = {
+    page:         window.location.pathname,
+    referrer:     document.referrer || 'direct',
+    utm_source:   params.get('utm_source')   || '',
+    utm_medium:   params.get('utm_medium')   || '',
+    utm_campaign: params.get('utm_campaign') || '',
+    utm_content:  params.get('utm_content')  || ''
+  };
+
+  /* Facebook passe fbclid sans utm quand la publicite n est pas balisee. */
+  if (!values.utm_source && params.get('fbclid')) values.utm_source = 'facebook';
+
+  fields.forEach(function (el) {
+    var key = el.getAttribute('data-lead-field');
+    if (values[key] !== undefined) el.value = values[key];
+  });
+})();

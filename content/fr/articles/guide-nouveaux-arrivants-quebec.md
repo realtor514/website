@@ -111,4 +111,4 @@ Ces valeurs s'alignent bien avec ce que l'immobilier québécois, fait correctem
 
 ---
 
-*Vous êtes un nouvel arrivant qui navigue le marché immobilier québécois? La conversation peut se tenir dans la langue qui vous convient le mieux. [Prenez contact](/#contact).*
+*Vous êtes un nouvel arrivant qui navigue le marché immobilier québécois? La conversation peut se tenir dans la langue qui vous convient le mieux. [Prenez contact](/formulaire/).*

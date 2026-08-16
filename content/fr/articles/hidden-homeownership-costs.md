@@ -44,4 +44,4 @@ C'est votre vrai coût mensuel. Comparez-le honnêtement à votre loyer actuel. 
 
 ---
 
-*Vous voulez construire une analyse complète des coûts avant de commencer votre recherche ? [Parlons-en](/fr/#contact), ça prend environ 30 minutes.*
+*Vous voulez construire une analyse complète des coûts avant de commencer votre recherche ? [Parlons-en](/formulaire/), ça prend environ 30 minutes.*

@@ -82,4 +82,4 @@ Pour la suite, lisez [vendre avec ou sans courtier](/articles/vendre-avec-ou-san
 
 ---
 
-*Vous voulez un décompte net réaliste pour votre propriété avant de décider? [Écrivez-moi](/#contact). Je le monte avec vous, ligne par ligne.*
+*Vous voulez un décompte net réaliste pour votre propriété avant de décider? [Écrivez-moi](/formulaire/). Je le monte avec vous, ligne par ligne.*

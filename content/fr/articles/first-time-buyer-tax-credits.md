@@ -32,4 +32,4 @@ Les règles fiscales changent. Vérifiez toujours les conditions actuelles avec 
 
 ---
 
-*Des questions sur l'aspect financier de votre premier achat ? [Parlons-en](/fr/#contact).*
+*Des questions sur l'aspect financier de votre premier achat ? [Parlons-en](/formulaire/).*

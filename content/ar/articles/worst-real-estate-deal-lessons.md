@@ -34,4 +34,4 @@ image: "images/articles/worst-real-estate-deal-lessons/featured.jpg"
 
 ---
 
-*هل تمرّ بوضع عقاري معقّد؟ [لنتحدث](/ar/#contact).*
+*هل تمرّ بوضع عقاري معقّد؟ [لنتحدث](/ar/istimara/).*

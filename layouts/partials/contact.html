@@ -66,38 +66,7 @@
       </div>
 
       <div>
-        <form class="contact-form" action="https://formspree.io/f/mwvzkzvl" method="POST">
-          <div class="form-row">
-            <div class="form-group">
-              <label class="form-label" for="firstName">{{ if $isFr }}Prénom{{ else if $isAr }}الاسم الأول{{ else if $isEs }}Nombre{{ else }}First Name{{ end }}</label>
-              <input class="form-input" type="text" id="firstName" name="firstName" placeholder="{{ if $isFr }}Jean{{ else if $isAr }}محمد{{ else if $isEs }}Juan{{ else }}John{{ end }}" required>
-            </div>
-            <div class="form-group">
-              <label class="form-label" for="lastName">{{ if $isFr }}Nom{{ else if $isAr }}اسم العائلة{{ else if $isEs }}Apellido{{ else }}Last Name{{ end }}</label>
-              <input class="form-input" type="text" id="lastName" name="lastName" placeholder="{{ if $isFr }}Tremblay{{ else if $isAr }}الأحمد{{ else if $isEs }}García{{ else }}Smith{{ end }}" required>
-            </div>
-          </div>
-
-          <div class="form-group">
-            <label class="form-label" for="contactEmail">{{ if $isFr }}Courriel{{ else if $isAr }}البريد الإلكتروني{{ else if $isEs }}Correo electrónico{{ else }}Email{{ end }}</label>
-            <input class="form-input" type="email" id="contactEmail" name="email" placeholder="{{ if $isFr }}jean@exemple.com{{ else if $isAr }}name@example.com{{ else if $isEs }}juan@ejemplo.com{{ else }}john@example.com{{ end }}" required>
-          </div>
-
-          <div class="form-group">
-            <label class="form-label" for="phone">{{ if $isFr }}Téléphone (optionnel){{ else if $isAr }}الهاتف (اختياري){{ else if $isEs }}Teléfono (opcional){{ else }}Phone (optional){{ end }}</label>
-            <input class="form-input" type="tel" id="phone" name="phone" placeholder="(514) 555-1234">
-          </div>
-
-          <div class="form-group">
-            <label class="form-label" for="message">{{ if $isFr }}Message{{ else if $isAr }}الرسالة{{ else if $isEs }}Mensaje{{ else }}Message{{ end }}</label>
-            <textarea class="form-input form-input--textarea" id="message" name="message"
-              placeholder="{{ if $isFr }}Dites-moi ce que vous recherchez...{{ else if $isAr }}أخبرني عما تبحث عنه...{{ else if $isEs }}Dígame lo que está buscando...{{ else }}Tell me what you're looking for...{{ end }}" required></textarea>
-          </div>
-
-          <button type="submit" class="btn btn-glass-red" style="width:100%;justify-content:center">
-            {{ if $isFr }}Envoyer le message{{ else if $isAr }}إرسال الرسالة{{ else if $isEs }}Enviar mensaje{{ else }}Send Message{{ end }}
-          </button>
-        </form>
+        {{ partial "lead-form.html" (dict "ctx" . "source" "accueil") }}
       </div>
 
     </div>

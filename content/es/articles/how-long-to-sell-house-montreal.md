@@ -80,4 +80,4 @@ Para situar su propiedad antes de empezar, pruebe la [estimación de valor](/es/
 
 ---
 
-*¿Tiene una fecha que respetar? [Hablemos](/es/#contact). El calendario se planifica al revés, a partir de su fecha, y conviene hacerlo antes de salir al mercado, no después.*
+*¿Tiene una fecha que respetar? [Hablemos](/es/formulario/). El calendario se planifica al revés, a partir de su fecha, y conviene hacerlo antes de salir al mercado, no después.*

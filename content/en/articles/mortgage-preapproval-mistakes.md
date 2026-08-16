@@ -64,4 +64,4 @@ A pre-approval is a useful tool. A mortgage broker who knows your full situation
 
 ---
 
-*Want to be connected to a trusted mortgage professional? [Reach out](/\#contact) for an introduction.*
+*Want to be connected to a trusted mortgage professional? [Reach out](/en/form/) for an introduction.*

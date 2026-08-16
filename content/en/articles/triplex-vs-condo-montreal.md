@@ -46,4 +46,4 @@ The factor that most often decides is not financial. It is how much time the buy
 
 ---
 
-*Considering a triplex or a condo? [Let's build the financial model together](/en/#contact) before you make an offer.*
+*Considering a triplex or a condo? [Let's build the financial model together](/en/form/) before you make an offer.*

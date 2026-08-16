@@ -83,4 +83,4 @@ Next, read [the inspection checklist](/en/articles/home-inspection-checklist-mon
 
 ---
 
-*Have an inspection report in hand and cannot tell whether the issue is major or normal? [Send it to me](/en/#contact). I will tell you honestly what deserves a renegotiation.*
+*Have an inspection report in hand and cannot tell whether the issue is major or normal? [Send it to me](/en/form/). I will tell you honestly what deserves a renegotiation.*

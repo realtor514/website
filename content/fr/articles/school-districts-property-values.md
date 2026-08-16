@@ -28,4 +28,4 @@ Dans l'analyse d'une propriété pour un investisseur ou un acheteur familial, l
 
 ---
 
-*Vous voulez une analyse incluant le contexte des zones scolaires ? [Parlons-en](/fr/#contact).*
+*Vous voulez une analyse incluant le contexte des zones scolaires ? [Parlons-en](/formulaire/).*

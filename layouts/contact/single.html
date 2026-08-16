@@ -1,0 +1,112 @@
+{{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $base := "/en" }}
+{{ if $isFr }}{{ $base = "" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
+
+<section class="content-hero">
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <span>{{ .Title }}</span>
+    </div>
+    <h1 class="content-hero__title">{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
+    <p class="content-hero__meta">{{ if $isFr }}Georges Matar, courtier immobilier résidentiel &middot; RE/MAX DU CARTIER INC.{{ else if $isAr }}جورج مطر، وسيط عقاري سكني &middot; RE/MAX DU CARTIER INC.{{ else if $isEs }}Georges Matar, corredor inmobiliario residencial &middot; RE/MAX DU CARTIER INC.{{ else }}Georges Matar, residential real estate broker &middot; RE/MAX DU CARTIER INC.{{ end }}</p>
+  </div>
+</section>
+
+<section class="section contact-section">
+  <div class="container">
+    <div class="contact-grid">
+
+      <div class="contact-info">
+        <h2>{{ if $isFr }}Me joindre{{ else if $isAr }}للتواصل معي{{ else if $isEs }}Contactarme{{ else }}Reach me{{ end }}</h2>
+        <p>{{ if $isFr }}Appelez, écrivez ou réservez directement une plage dans mon agenda. Je réponds à toutes les demandes en moins de 24 heures.{{ else if $isAr }}اتصل أو اكتب أو احجز موعداً مباشرة في جدولي. أرد على كل الطلبات خلال أقل من 24 ساعة.{{ else if $isEs }}Llame, escriba o reserve directamente un espacio en mi agenda. Respondo a todas las solicitudes en menos de 24 horas.{{ else }}Call, write, or book a slot directly in my calendar. I answer every request within 24 hours.{{ end }}</p>
+
+        <div class="contact-details">
+
+          <div class="contact-detail">
+            <div class="contact-detail__icon">
+              <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 13a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.56 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 9.91a16 16 0 0 0 6.18 6.18l1.27-.91a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/>
+              </svg>
+            </div>
+            <div>
+              <span class="contact-detail__label">{{ if $isFr }}Téléphone{{ else if $isAr }}الهاتف{{ else if $isEs }}Teléfono{{ else }}Phone{{ end }}</span>
+              <a href="tel:{{ .Site.Params.phoneRaw }}" class="contact-detail__value"><bdi dir="ltr">{{ .Site.Params.phone }}</bdi></a>
+            </div>
+          </div>
+
+          <div class="contact-detail">
+            <div class="contact-detail__icon">
+              <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+                <polyline points="22,6 12,13 2,6"/>
+              </svg>
+            </div>
+            <div>
+              <span class="contact-detail__label">{{ if $isFr }}Courriel{{ else if $isAr }}البريد الإلكتروني{{ else if $isEs }}Correo electrónico{{ else }}Email{{ end }}</span>
+              <a href="mailto:{{ .Site.Params.email }}" class="contact-detail__value">{{ .Site.Params.email }}</a>
+            </div>
+          </div>
+
+          <div class="contact-detail">
+            <div class="contact-detail__icon">
+              <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
+                <circle cx="12" cy="10" r="3"/>
+              </svg>
+            </div>
+            <div>
+              <span class="contact-detail__label">{{ if $isFr }}Bureau{{ else if $isAr }}المكتب{{ else if $isEs }}Oficina{{ else }}Office{{ end }}</span>
+              <span class="contact-detail__value">{{ .Site.Params.address }}</span>
+            </div>
+          </div>
+
+          <div class="contact-detail">
+            <div class="contact-detail__icon">
+              <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+              </svg>
+            </div>
+            <div>
+              <span class="contact-detail__label">{{ if $isFr }}Disponibilité{{ else if $isAr }}أوقات التوفر{{ else if $isEs }}Disponibilidad{{ else }}Availability{{ end }}</span>
+              <span class="contact-detail__value">{{ if $isFr }}7 jours sur 7, de 8 h à 21 h{{ else if $isAr }}7 أيام في الأسبوع، من 8 صباحاً حتى 9 مساءً{{ else if $isEs }}7 días por semana, de 8 h a 21 h{{ else }}7 days a week, 8 a.m. to 9 p.m.{{ end }}</span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="contact-actions">
+          <button class="btn btn-glass-red" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}' style="justify-content:center">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+              <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
+            </svg>
+            {{ if $isFr }}Prendre rendez-vous{{ else if $isAr }}احجز موعداً{{ else if $isEs }}Reservar una cita{{ else }}Book a Meeting{{ end }}
+          </button>
+          <a href="{{ .Site.Params.remaxProfile }}" target="_blank" rel="noopener" class="btn btn-outline-dark" style="justify-content:center">
+            {{ if $isFr }}Voir mon profil RE/MAX{{ else if $isAr }}ملفي الشخصي على RE/MAX{{ else if $isEs }}Ver mi perfil RE/MAX{{ else }}View My RE/MAX Profile{{ end }}
+          </a>
+        </div>
+
+        {{ with .Site.Params.googleBusinessURL }}
+        <a href="{{ . }}" target="_blank" rel="noopener" class="contact-map-link">
+          {{ if $isFr }}Voir le bureau sur Google Maps{{ else if $isAr }}عرض المكتب على خرائط Google{{ else if $isEs }}Ver la oficina en Google Maps{{ else }}See the office on Google Maps{{ end }} &rsaquo;
+        </a>
+        {{ end }}
+      </div>
+
+      <div>
+        <h2 class="contact-form-heading">{{ if $isFr }}Ou écrivez-moi ici{{ else if $isAr }}أو راسلني من هنا{{ else if $isEs }}O escríbame aquí{{ else }}Or write to me here{{ end }}</h2>
+        {{ partial "lead-form.html" (dict "ctx" . "source" "contact") }}
+      </div>
+
+    </div>
+  </div>
+</section>
+
+{{ with .Content }}<div class="content-body">{{ . }}</div>{{ end }}
+{{ end }}

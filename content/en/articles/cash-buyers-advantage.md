@@ -42,4 +42,4 @@ Never buy a property of significant value without some form of professional buil
 
 ---
 
-*Navigating a competitive offer situation? [Let's build the strongest possible offer for your circumstances](/\#contact).*
+*Navigating a competitive offer situation? [Let's build the strongest possible offer for your circumstances](/en/form/).*

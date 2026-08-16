@@ -81,4 +81,4 @@ To position your property before you even decide, start with a [value estimate](
 
 ---
 
-*Torn between the two options? [Write to me](/en/#contact). I will give you my honest read on your specific property, even if the conclusion is that you do not need me.*
+*Torn between the two options? [Write to me](/en/form/). I will give you my honest read on your specific property, even if the conclusion is that you do not need me.*

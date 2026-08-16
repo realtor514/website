@@ -97,4 +97,4 @@ The preparation is straightforward. The discipline to follow through is rarer th
 
 ---
 
-*Thinking about selling? The market evaluation is complimentary and carries no obligation. [Request it here](/#contact) to see what your property is worth in today's market.*
+*Thinking about selling? The market evaluation is complimentary and carries no obligation. [Request it here](/en/form/) to see what your property is worth in today's market.*

@@ -70,4 +70,4 @@ Tax rules change. Program availability changes. This article reflects the progra
 
 ---
 
-*Have questions about the financial side of your first purchase? [Get in touch](/\#contact) to be connected with the right professionals and capture everything you're entitled to.*
+*Have questions about the financial side of your first purchase? [Get in touch](/en/form/) to be connected with the right professionals and capture everything you're entitled to.*

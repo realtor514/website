@@ -31,4 +31,4 @@ Calculez le prix au pied carré et comparez aux ventes récentes. Un écart sign
 
 ---
 
-*Inquiet pour une propriété spécifique ? [Examinons-la ensemble](/fr/#contact).*
+*Inquiet pour une propriété spécifique ? [Examinons-la ensemble](/formulaire/).*

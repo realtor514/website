@@ -36,4 +36,4 @@ The network is the infrastructure. The broker is the service.
 
 ---
 
-*Want to understand the method before committing? [A 30-minute conversation will tell you more than any website](/en/#contact).*
+*Want to understand the method before committing? [A 30-minute conversation will tell you more than any website](/en/form/).*

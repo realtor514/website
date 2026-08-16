@@ -33,4 +33,4 @@ Il est professionnel et souvent réellement informatif, mais il n'est pas votre 
 
 ---
 
-*Vous comparez des options de construction neuve avec de la revente ? [Analysons-les ensemble](/fr/#contact).*
+*Vous comparez des options de construction neuve avec de la revente ? [Analysons-les ensemble](/formulaire/).*

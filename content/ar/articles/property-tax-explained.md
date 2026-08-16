@@ -32,4 +32,4 @@ image: "images/articles/property-tax-explained/featured.jpg"
 
 ---
 
-*تريد حساباً دقيقاً للضريبة لعقار تنظر فيه؟ [تواصل معي](/ar/#contact).*
+*تريد حساباً دقيقاً للضريبة لعقار تنظر فيه؟ [تواصل معي](/ar/istimara/).*

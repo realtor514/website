@@ -26,4 +26,4 @@ image: "images/articles/build-real-estate-portfolio/featured.jpg"
 
 ---
 
-*تريد رسم استراتيجية محفظة تناسب وضعك؟ [لنبدأ بمحادثة](/ar/#contact).*
+*تريد رسم استراتيجية محفظة تناسب وضعك؟ [لنبدأ بمحادثة](/ar/istimara/).*

@@ -66,4 +66,4 @@ Bring two pieces of government-issued identification to the notary. Expect to sp
 
 ---
 
-*Questions at any stage of your purchase? [Get in touch](/\#contact) at any point in the process, not just during the search.*
+*Questions at any stage of your purchase? [Get in touch](/en/form/) at any point in the process, not just during the search.*

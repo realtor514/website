@@ -50,4 +50,4 @@ Emotional attachment to a specific asset is the enemy of portfolio performance. 
 
 ---
 
-*Want to map out a portfolio strategy that fits your capital position and goals? [Let's start with a conversation](/\#contact).*
+*Want to map out a portfolio strategy that fits your capital position and goals? [Let's start with a conversation](/en/form/).*

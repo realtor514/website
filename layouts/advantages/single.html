@@ -21,7 +21,7 @@
         {{ with .Params.eyebrow }}<p class="content-hero__category">{{ . }}</p>{{ end }}
         <h1 class="content-hero__title">{{ .Title }}</h1>
         {{ with .Description }}<p class="adv-hero__lede">{{ . }}</p>{{ end }}
-        <a href="{{ $base }}/#contact" class="btn btn-primary adv-hero__cta">
+        <a href="{{ site.Params.formURL }}" class="btn btn-primary adv-hero__cta">
           {{ if $isFr }}Demander ce programme{{ else if $isAr }}اطلب هذا البرنامج{{ else if $isEs }}Solicitar este programa{{ else }}Ask me about this program{{ end }}
         </a>
       </div>
@@ -68,7 +68,7 @@
       {{ end }}
     </p>
     <div class="adv-cta__actions">
-      <a href="{{ $base }}/#contact" class="btn btn-primary">
+      <a href="{{ site.Params.formURL }}" class="btn btn-primary">
         {{ if $isFr }}Me contacter{{ else if $isAr }}تواصل معي{{ else if $isEs }}Contácteme{{ else }}Contact me{{ end }}
       </a>
       {{ with .Params.official }}

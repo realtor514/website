@@ -52,4 +52,4 @@ The right response to uncertainty is not to wait for certainty, which never arri
 
 ---
 
-*Want to talk through how market conditions affect a specific purchase decision you're considering? [Let's work through it together](/\#contact).*
+*Want to talk through how market conditions affect a specific purchase decision you're considering? [Let's work through it together](/en/form/).*

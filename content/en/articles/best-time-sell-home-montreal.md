@@ -64,4 +64,4 @@ This sounds minor, but it matters. Properties listed on Friday lose two days of 
 
 ---
 
-*Thinking about selling? [Let's sit down and talk timing, pricing, and preparation](/\#contact) before you make a decision.*
+*Thinking about selling? [Let's sit down and talk timing, pricing, and preparation](/en/form/) before you make a decision.*

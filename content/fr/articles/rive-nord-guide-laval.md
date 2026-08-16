@@ -32,4 +32,4 @@ Saint-Jérôme marque l'entrée dans les Laurentides et offre des prix immobilie
 
 ---
 
-*Vous cherchez une analyse spécifique d'une propriété sur la Rive-Nord ? [Prenez contact](/fr/#contact).*
+*Vous cherchez une analyse spécifique d'une propriété sur la Rive-Nord ? [Prenez contact](/formulaire/).*

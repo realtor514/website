@@ -78,4 +78,4 @@ Start by understanding the full number. Then work backward to build your savings
 
 ---
 
-*Questions about your specific situation? [Get in touch](/#contact) to walk through the numbers, with no obligation.*
+*Questions about your specific situation? [Get in touch](/en/form/) to walk through the numbers, with no obligation.*

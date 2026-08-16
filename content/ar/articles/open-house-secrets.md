@@ -34,4 +34,4 @@ image: "images/articles/open-house-secrets/featured.jpg"
 
 ---
 
-*تريد زيارة عقار معاً لأريك ما أبحث عنه؟ [تواصل معي](/ar/#contact).*
+*تريد زيارة عقار معاً لأريك ما أبحث عنه؟ [تواصل معي](/ar/istimara/).*

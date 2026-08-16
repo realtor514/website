@@ -72,4 +72,4 @@ For most buyers, a long-term hold strategy on a well-selected income property ou
 
 ---
 
-*Evaluating a potential flip? [Let's run the numbers together before you commit](/\#contact).*
+*Evaluating a potential flip? [Let's run the numbers together before you commit](/en/form/).*

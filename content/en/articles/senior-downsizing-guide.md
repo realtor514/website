@@ -54,4 +54,4 @@ For those who want to stay in houses but smaller ones, certain sectors of Laval 
 
 ---
 
-*Planning a downsizing transition? [Let's have a full conversation about both sides of the transaction](/\#contact) before you make any decisions.*
+*Planning a downsizing transition? [Let's have a full conversation about both sides of the transaction](/en/form/) before you make any decisions.*

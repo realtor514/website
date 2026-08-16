@@ -28,4 +28,4 @@ Les acheteurs qui paient comptant sautent parfois l'inspection parce qu'ils n'on
 
 ---
 
-*Vous naviguez une situation d'offre compétitive ? [Construisons l'offre la plus solide possible](/fr/#contact).*
+*Vous naviguez une situation d'offre compétitive ? [Construisons l'offre la plus solide possible](/formulaire/).*

@@ -58,4 +58,4 @@ Never, under any circumstances, buy a property in Quebec without some form of pr
 
 ---
 
-*Have questions about what you saw in an inspection report? [Get in touch](/\#contact) for help interpreting it.*
+*Have questions about what you saw in an inspection report? [Get in touch](/en/form/) for help interpreting it.*

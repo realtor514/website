@@ -30,4 +30,4 @@ Dans le Grand Montréal, la valeur des propriétés a apprécié de manière sig
 
 ---
 
-*Vous voulez cartographier une stratégie de portefeuille ? [Commençons par une conversation](/fr/#contact).*
+*Vous voulez cartographier une stratégie de portefeuille ? [Commençons par une conversation](/formulaire/).*

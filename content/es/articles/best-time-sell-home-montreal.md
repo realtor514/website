@@ -64,4 +64,4 @@ Esto parece menor, pero importa. Las propiedades listadas el viernes pierden dos
 
 ---
 
-*¿Pensando en vender? [Conversemos sobre el momento, el precio y la preparación](/\#contact) antes de tomar una decisión.*
+*¿Pensando en vender? [Conversemos sobre el momento, el precio y la preparación](/es/formulario/) antes de tomar una decisión.*

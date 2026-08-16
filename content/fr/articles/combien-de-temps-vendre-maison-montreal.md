@@ -80,4 +80,4 @@ Pour situer votre propriété avant de commencer, essayez [l'estimation de valeu
 
 ---
 
-*Vous avez une date à respecter? [Parlons-en](/#contact). Le calendrier se planifie à l'envers, à partir de votre date, et il vaut mieux le faire avant la mise en marché qu'après.*
+*Vous avez une date à respecter? [Parlons-en](/formulaire/). Le calendrier se planifie à l'envers, à partir de votre date, et il vaut mieux le faire avant la mise en marché qu'après.*

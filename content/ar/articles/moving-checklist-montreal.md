@@ -44,4 +44,4 @@ image: "images/articles/moving-checklist-montreal/featured.jpg"
 
 ---
 
-*أسئلة في أي مرحلة من شرائك؟ [أنا موجود طوال العملية](/ar/#contact).*
+*أسئلة في أي مرحلة من شرائك؟ [أنا موجود طوال العملية](/ar/istimara/).*

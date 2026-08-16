@@ -36,4 +36,4 @@ Being able to handle these subjects in your own language is not a comfort. It is
 
 ---
 
-*Wherever you are on the path to ownership, [let's talk honestly about your situation](/en/#contact).*
+*Wherever you are on the path to ownership, [let's talk honestly about your situation](/en/form/).*

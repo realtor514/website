@@ -26,4 +26,4 @@ Pour la plupart des premiers acheteurs avec un revenu stable et un fonds d'urgen
 
 ---
 
-*Vous voulez modéliser les chiffres pour votre situation ? [Faisons le calcul ensemble](/fr/#contact).*
+*Vous voulez modéliser les chiffres pour votre situation ? [Faisons le calcul ensemble](/formulaire/).*

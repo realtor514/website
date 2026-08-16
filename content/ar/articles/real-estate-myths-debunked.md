@@ -31,4 +31,4 @@ image: "images/articles/real-estate-myths-debunked/featured.jpg"
 
 ---
 
-*أسئلة حول كيف تنطبق هذه الديناميكيات على وضعك؟ [تواصل معي](/ar/#contact).*
+*أسئلة حول كيف تنطبق هذه الديناميكيات على وضعك؟ [تواصل معي](/ar/istimara/).*

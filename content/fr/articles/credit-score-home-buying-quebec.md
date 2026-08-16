@@ -65,4 +65,4 @@ Le meilleur moment pour penser à votre crédit pour un achat immobilier, c'est 
 
 ---
 
-*Vous voulez savoir si votre profil financier est prêt pour une hypothèque ? [Prenez contact](/fr/#contact) pour être mis en relation avec un courtier hypothécaire de confiance.*
+*Vous voulez savoir si votre profil financier est prêt pour une hypothèque ? [Prenez contact](/formulaire/) pour être mis en relation avec un courtier hypothécaire de confiance.*

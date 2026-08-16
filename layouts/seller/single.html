@@ -30,7 +30,7 @@
         {{ end }}
       </p>
       <div class="journey-hero__actions">
-        <a href="{{ $base }}/#contact" class="btn btn-primary">
+        <a href="{{ site.Params.formURL }}" class="btn btn-primary">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
           {{ if $isFr }}Évaluation gratuite{{ else if $isEs }}Evaluación gratuita{{ else if $isAr }}تقييم مجاني{{ else }}Get a Free Evaluation{{ end }}
         </a>
@@ -236,7 +236,7 @@
         {{ if $isFr }}Obtenez une évaluation gratuite et sans engagement de la valeur marchande de votre propriété.{{ else if $isAr }}احصل على تقييم مجاني وبدون التزام للقيمة السوقية لعقارك.{{ else }}Get a free, no-obligation evaluation of your property's market value.{{ end }}
       </p>
       <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;">
-        <a href="{{ $base }}/#contact" class="btn btn-white">
+        <a href="{{ site.Params.formURL }}" class="btn btn-white">
           {{ if $isFr }}Évaluation gratuite{{ else if $isAr }}تقييم مجاني{{ else }}Free Evaluation{{ end }}
         </a>
         <button class="btn btn-outline" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>

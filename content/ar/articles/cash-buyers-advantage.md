@@ -26,4 +26,4 @@ image: "images/articles/cash-buyers-advantage/featured.jpg"
 
 ---
 
-*تتنقل في موقف عرض تنافسي؟ [لنبنِ أقوى عرض ممكن](/ar/#contact).*
+*تتنقل في موقف عرض تنافسي؟ [لنبنِ أقوى عرض ممكن](/ar/istimara/).*

@@ -32,4 +32,4 @@ image: "images/articles/questions-hire-broker/featured.jpg"
 
 ---
 
-*تريد طرح هذه الأسئلة عليّ مباشرة؟ [هذه المحادثة مرحّب بها](/ar/#contact).*
+*تريد طرح هذه الأسئلة عليّ مباشرة؟ [هذه المحادثة مرحّب بها](/ar/istimara/).*

@@ -24,4 +24,4 @@ image: "images/articles/school-districts-property-values/featured.jpg"
 
 ---
 
-*تريد تحليلاً يشمل سياق المناطق المدرسية؟ [تواصل معي](/ar/#contact).*
+*تريد تحليلاً يشمل سياق المناطق المدرسية؟ [تواصل معي](/ar/istimara/).*

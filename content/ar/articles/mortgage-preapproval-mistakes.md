@@ -30,4 +30,4 @@ image: "images/articles/mortgage-preapproval-mistakes/featured.jpg"
 
 ---
 
-*تريد الاتصال بمتخصص رهن عقاري موثوق؟ [تواصل معي](/ar/#contact).*
+*تريد الاتصال بمتخصص رهن عقاري موثوق؟ [تواصل معي](/ar/istimara/).*

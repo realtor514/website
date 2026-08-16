@@ -28,4 +28,4 @@ image: "images/articles/buying-property-with-family/featured.jpg"
 
 ---
 
-*تخطط لشراء مشترك مع الأسرة؟ [لنتحدث عن الهيكل قبل بدء البحث](/ar/#contact).*
+*تخطط لشراء مشترك مع الأسرة؟ [لنتحدث عن الهيكل قبل بدء البحث](/ar/istimara/).*

@@ -71,4 +71,4 @@ Les vendeurs qui divulguent proactivement ont tendance à vendre plus vite et av
 
 ---
 
-*Vous pensez à vendre? L'évaluation de marché est gratuite et sans engagement. [Demandez-la ici](/#contact) pour savoir ce que vaut votre propriété dans le marché actuel.*
+*Vous pensez à vendre? L'évaluation de marché est gratuite et sans engagement. [Demandez-la ici](/formulaire/) pour savoir ce que vaut votre propriété dans le marché actuel.*

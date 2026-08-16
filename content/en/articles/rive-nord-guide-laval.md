@@ -62,4 +62,4 @@ The North Shore is not a consolation prize for buyers who cannot afford Montreal
 
 ---
 
-*Looking for a specific North Shore property analysis? [Reach out](/\#contact).*
+*Looking for a specific North Shore property analysis? [Reach out](/en/form/).*

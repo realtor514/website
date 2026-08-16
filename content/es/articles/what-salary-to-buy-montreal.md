@@ -79,4 +79,4 @@ Para completar, lea [el costo real de comprar su primera vivienda en Quebec](/es
 
 ---
 
-*¿Quiere saber qué permite realmente su situación? [Escríbame](/es/#contact). Puedo referirlo a corredores hipotecarios que hacen este cálculo correctamente, sin costo para usted.*
+*¿Quiere saber qué permite realmente su situación? [Escríbame](/es/formulario/). Puedo referirlo a corredores hipotecarios que hacen este cálculo correctamente, sin costo para usted.*

@@ -28,4 +28,4 @@ image: "images/articles/commission-explained-quebec/featured.jpg"
 
 ---
 
-*أسئلة حول العمولة لوضعك الخاص؟ [لنتحدث مباشرة](/ar/#contact).*
+*أسئلة حول العمولة لوضعك الخاص؟ [لنتحدث مباشرة](/ar/istimara/).*

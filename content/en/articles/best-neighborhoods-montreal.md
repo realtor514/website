@@ -52,4 +52,4 @@ It is probably the most undervalued variable in the current market.
 
 ---
 
-*Want a specific analysis of a neighbourhood or a property? [Request the study](/en/#contact).*
+*Want a specific analysis of a neighbourhood or a property? [Request the study](/en/form/).*

@@ -61,4 +61,4 @@ El valor de una lista como esta es que se sostiene cuando las emociones toman la
 
 ---
 
-*¿Preocupado por una propiedad específica que está considerando? [Revisémosla juntos](/\#contact) antes de que se comprometa.*
+*¿Preocupado por una propiedad específica que está considerando? [Revisémosla juntos](/es/formulario/) antes de que se comprometa.*

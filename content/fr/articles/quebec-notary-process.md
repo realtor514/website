@@ -28,4 +28,4 @@ Au Québec, l'acheteur a traditionnellement le droit de choisir le notaire pour 
 
 ---
 
-*Des questions sur le processus de clôture ? [Prenez contact](/fr/#contact) pour un survol de chaque étape.*
+*Des questions sur le processus de clôture ? [Prenez contact](/formulaire/) pour un survol de chaque étape.*

@@ -79,4 +79,4 @@ To go further, read [the real cost of buying your first home in Quebec](/en/arti
 
 ---
 
-*Want to know what your situation actually supports? [Write to me](/en/#contact). I can refer you to mortgage brokers who run this calculation properly, at no cost to you.*
+*Want to know what your situation actually supports? [Write to me](/en/form/). I can refer you to mortgage brokers who run this calculation properly, at no cost to you.*

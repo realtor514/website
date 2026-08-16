@@ -55,4 +55,4 @@ One administrative reality tied to the notary process: the municipal welcome tax
 
 ---
 
-*Questions about the closing process for a property you're considering? [Reach out](/\#contact) for a step-by-step walkthrough.*
+*Questions about the closing process for a property you're considering? [Reach out](/en/form/) for a step-by-step walkthrough.*

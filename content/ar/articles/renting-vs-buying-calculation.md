@@ -28,4 +28,4 @@ image: "images/articles/renting-vs-buying-calculation/featured.jpg"
 
 ---
 
-*تريد إجراء هذا الحساب بأرقامك الخاصة؟ [تواصل معي](/ar/#contact).*
+*تريد إجراء هذا الحساب بأرقامك الخاصة؟ [تواصل معي](/ar/istimara/).*

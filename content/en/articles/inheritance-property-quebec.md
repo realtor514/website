@@ -52,4 +52,4 @@ Tax treatment is complex and varies by individual circumstances. Work with a tax
 
 ---
 
-*Navigating an inherited property situation? [Request a confidential consultation](/\#contact) to understand your options.*
+*Navigating an inherited property situation? [Request a confidential consultation](/en/form/) to understand your options.*

@@ -74,4 +74,4 @@ The right choice depends on your situation, your timeline, and your risk toleran
 
 ---
 
-*Comparing new construction options with resale? [Let's work through the analysis together](/\#contact).*
+*Comparing new construction options with resale? [Let's work through the analysis together](/en/form/).*

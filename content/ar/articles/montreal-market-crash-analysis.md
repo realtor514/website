@@ -32,4 +32,4 @@ image: "images/articles/montreal-market-crash-analysis/featured.jpg"
 
 ---
 
-*تريد مناقشة تأثير ظروف السوق على قرار شراء محدد؟ [لنعمل عليه معاً](/ar/#contact).*
+*تريد مناقشة تأثير ظروف السوق على قرار شراء محدد؟ [لنعمل عليه معاً](/ar/istimara/).*

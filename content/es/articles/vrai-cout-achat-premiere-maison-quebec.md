@@ -78,4 +78,4 @@ Comience por entender el número completo. Luego trabaje hacia atrás para const
 
 ---
 
-*¿Preguntas sobre su situación específica? Con gusto repasaré los números con usted. [Contácteme](/#contact) para una conversación sin compromiso.*
+*¿Preguntas sobre su situación específica? Con gusto repasaré los números con usted. [Contácteme](/es/formulario/) para una conversación sin compromiso.*

@@ -28,4 +28,4 @@ image: "images/articles/divorce-real-estate-guide/featured.jpg"
 
 ---
 
-*تتنقل في قرار عقاري في سياق انفصال؟ [أنا متاح لمحادثة سرية](/ar/#contact).*
+*تتنقل في قرار عقاري في سياق انفصال؟ [أنا متاح لمحادثة سرية](/ar/istimara/).*

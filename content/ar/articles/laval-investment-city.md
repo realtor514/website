@@ -28,4 +28,4 @@ image: "images/articles/laval-investment-city/featured.jpg"
 
 ---
 
-*مهتم بتحليل عقار بعينه في لافال؟ [تواصل معي](/ar/#contact).*
+*مهتم بتحليل عقار بعينه في لافال؟ [تواصل معي](/ar/istimara/).*

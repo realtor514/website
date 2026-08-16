@@ -58,13 +58,13 @@
     <!-- CTA -->
     <p class="text-center reveal reveal-delay-2" style="margin-top:32px;color:var(--gray);font-size:.95rem;">
       {{ if $isFr }}
-        Prêt à passer à l'étape suivante ? <a href="{{ $base }}/#contact" style="color:var(--red);font-weight:600">Contactez-moi</a> pour discuter de votre projet immobilier.
+        Prêt à passer à l'étape suivante ? <a href="{{ site.Params.formURL }}" style="color:var(--red);font-weight:600">Contactez-moi</a> pour discuter de votre projet immobilier.
       {{ else if $isAr }}
-        هل أنت مستعد للخطوة التالية؟ <a href="{{ $base }}/#contact" style="color:var(--red);font-weight:600">تواصل معي</a> لمناقشة مشروعك العقاري.
+        هل أنت مستعد للخطوة التالية؟ <a href="{{ site.Params.formURL }}" style="color:var(--red);font-weight:600">تواصل معي</a> لمناقشة مشروعك العقاري.
       {{ else if $isEs }}
-        ¿Listo para dar el siguiente paso? <a href="{{ $base }}/#contact" style="color:var(--red);font-weight:600">Contácteme</a> para hablar sobre su proyecto inmobiliario.
+        ¿Listo para dar el siguiente paso? <a href="{{ site.Params.formURL }}" style="color:var(--red);font-weight:600">Contácteme</a> para hablar sobre su proyecto inmobiliario.
       {{ else }}
-        Ready to take the next step? <a href="{{ $base }}/#contact" style="color:var(--red);font-weight:600">Contact me</a> to discuss your real estate project.
+        Ready to take the next step? <a href="{{ site.Params.formURL }}" style="color:var(--red);font-weight:600">Contact me</a> to discuss your real estate project.
       {{ end }}
     </p>
 

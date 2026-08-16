@@ -76,4 +76,4 @@ Buying a home is often financially smart. It is never as simple as a mortgage pa
 
 ---
 
-*Want to build a complete cost analysis before you start your search? [Let's talk](/\#contact) - it takes about 30 minutes and saves months of surprises.*
+*Want to build a complete cost analysis before you start your search? [Let's talk](/en/form/) - it takes about 30 minutes and saves months of surprises.*

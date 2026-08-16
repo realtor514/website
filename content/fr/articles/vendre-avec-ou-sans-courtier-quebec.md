@@ -81,4 +81,4 @@ Pour situer votre propriété avant même de décider, commencez par une [estima
 
 ---
 
-*Vous hésitez entre les deux options? [Écrivez-moi](/#contact). Je vous donnerai mon avis franc sur votre propriété précise, même si la conclusion est que vous n'avez pas besoin de moi.*
+*Vous hésitez entre les deux options? [Écrivez-moi](/formulaire/). Je vous donnerai mon avis franc sur votre propriété précise, même si la conclusion est que vous n'avez pas besoin de moi.*

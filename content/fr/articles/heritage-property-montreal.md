@@ -34,4 +34,4 @@ La condition : un acheteur avec des réserves adéquates, la patience pour des p
 
 ---
 
-*Vous envisagez une propriété patrimoniale ? [Parlons des spécificités](/fr/#contact) avant de faire une offre.*
+*Vous envisagez une propriété patrimoniale ? [Parlons des spécificités](/formulaire/) avant de faire une offre.*

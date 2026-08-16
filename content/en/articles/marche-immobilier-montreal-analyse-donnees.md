@@ -96,4 +96,4 @@ The people who waited for "the perfect moment" in 2020 paid 30% to 40% more in 2
 
 ---
 
-*A regular market analysis of the greater Montreal and Laval real estate market is published here. [Get in touch](/#contact) to discuss what the current data means for your specific situation.*
+*A regular market analysis of the greater Montreal and Laval real estate market is published here. [Get in touch](/en/form/) to discuss what the current data means for your specific situation.*

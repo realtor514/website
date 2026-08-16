@@ -44,4 +44,4 @@ N'achetez jamais une propriété au Québec sans une forme quelconque d'évaluat
 
 ---
 
-*Des questions sur ce que vous avez vu dans un rapport d'inspection ? [Prenez contact](/fr/#contact) pour aider à l'interpréter.*
+*Des questions sur ce que vous avez vu dans un rapport d'inspection ? [Prenez contact](/formulaire/) pour aider à l'interpréter.*

@@ -52,4 +52,4 @@ But for investors focused on cash flow, appreciation potential, and long-term de
 
 ---
 
-*Interested in a specific Laval income property analysis? [Reach out](/\#contact).*
+*Interested in a specific Laval income property analysis? [Reach out](/en/form/).*

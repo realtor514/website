@@ -77,4 +77,4 @@ Prevea el conjunto con la [calculadora de costos de cierre](/es/tools/closing-co
 
 ---
 
-*¿Quiere el monto exacto para una propiedad concreta antes de hacer una oferta? [Escríbame](/es/#contact) con la dirección y el precio previsto y le hago el cálculo.*
+*¿Quiere el monto exacto para una propiedad concreta antes de hacer una oferta? [Escríbame](/es/formulario/) con la dirección y el precio previsto y le hago el cálculo.*

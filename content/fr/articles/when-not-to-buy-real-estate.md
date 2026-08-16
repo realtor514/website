@@ -44,4 +44,4 @@ Avec une probabilité réaliste de déménager dans trois ans, la location est s
 
 ---
 
-*Pas certain que l'achat soit la bonne décision en ce moment ? [Ayons cette conversation honnêtement](/fr/#contact).*
+*Pas certain que l'achat soit la bonne décision en ce moment ? [Ayons cette conversation honnêtement](/formulaire/).*

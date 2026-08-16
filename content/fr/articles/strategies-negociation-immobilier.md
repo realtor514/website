@@ -73,4 +73,4 @@ Le but n'est pas d'extraire le maximum d'avantages de l'autre partie. C'est d'ob
 
 ---
 
-*Vous naviguez une négociation sur le marché de Montréal ou Laval? [Prenez contact](/#contact) pour valider votre stratégie avant de soumettre.*
+*Vous naviguez une négociation sur le marché de Montréal ou Laval? [Prenez contact](/formulaire/) pour valider votre stratégie avant de soumettre.*

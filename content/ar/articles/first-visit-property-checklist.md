@@ -32,4 +32,4 @@ image: "images/articles/first-visit-property-checklist/featured.jpg"
 
 ---
 
-*تريد زيارة عقار معاً لأريك ما أبحث عنه؟ [تواصل معي](/ar/#contact).*
+*تريد زيارة عقار معاً لأريك ما أبحث عنه؟ [تواصل معي](/ar/istimara/).*

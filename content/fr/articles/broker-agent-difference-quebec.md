@@ -32,4 +32,4 @@ Si un courtier manque à ses obligations, l'OACIQ traite les plaintes et a le po
 
 ---
 
-*Des questions sur la représentation immobilière au Québec ? [Prenez contact](/fr/#contact).*
+*Des questions sur la représentation immobilière au Québec ? [Prenez contact](/formulaire/).*

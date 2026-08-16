@@ -36,4 +36,4 @@ Pouvoir traiter ces sujets dans sa propre langue n'est pas un confort. C'est ce 
 
 ---
 
-*Où que vous en soyez dans votre parcours vers la propriété, [parlons honnêtement de votre situation](/fr/#contact).*
+*Où que vous en soyez dans votre parcours vers la propriété, [parlons honnêtement de votre situation](/formulaire/).*

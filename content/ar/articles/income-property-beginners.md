@@ -26,4 +26,4 @@ image: "images/articles/income-property-beginners/featured.jpg"
 
 ---
 
-*مستعد للنظر في عقارات ذات دخل محددة؟ [لنبدأ بالأرقام](/ar/#contact).*
+*مستعد للنظر في عقارات ذات دخل محددة؟ [لنبدأ بالأرقام](/ar/istimara/).*

@@ -100,4 +100,4 @@ A mortgage professional who answers these questions clearly and without hesitati
 
 ---
 
-*Questions about financing your first property in Quebec? [Get in touch](/#contact) to be pointed toward mortgage specialists who know this market well.*
+*Questions about financing your first property in Quebec? [Get in touch](/en/form/) to be pointed toward mortgage specialists who know this market well.*

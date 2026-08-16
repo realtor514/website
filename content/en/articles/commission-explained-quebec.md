@@ -72,4 +72,4 @@ Commission is negotiable and depends on the specifics of the situation. What a b
 
 ---
 
-*Questions about how commission works for your specific situation? [Let's talk about it directly](/\#contact).*
+*Questions about how commission works for your specific situation? [Let's talk about it directly](/en/form/).*

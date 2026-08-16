@@ -28,4 +28,4 @@ image: "images/articles/inheritance-property-quebec/featured.jpg"
 
 ---
 
-*تتعامل مع موقف عقار موروث؟ [تواصل للحصول على استشارة سرية](/ar/#contact).*
+*تتعامل مع موقف عقار موروث؟ [تواصل للحصول على استشارة سرية](/ar/istimara/).*

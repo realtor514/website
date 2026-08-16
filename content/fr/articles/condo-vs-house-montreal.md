@@ -32,4 +32,4 @@ Avant tout achat de condo : examinez l'étude du fonds de prévoyance, les deux 
 
 ---
 
-*Vous voulez comparer des propriétés spécifiques côte à côte ? [Prenez contact](/fr/#contact).*
+*Vous voulez comparer des propriétés spécifiques côte à côte ? [Prenez contact](/formulaire/).*

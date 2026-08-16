@@ -46,4 +46,4 @@ Le facteur qui tranche le plus souvent n'est pas financier. C'est le temps que l
 
 ---
 
-*Vous réfléchissez à un triplex ou à un condo ? [Construisons le modèle financier ensemble](/fr/#contact) avant que vous fassiez une offre.*
+*Vous réfléchissez à un triplex ou à un condo ? [Construisons le modèle financier ensemble](/formulaire/) avant que vous fassiez une offre.*

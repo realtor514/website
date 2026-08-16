@@ -48,4 +48,4 @@ The last point is important and underappreciated. A catchment boundary change ca
 
 ---
 
-*Have a specific area or property to analyze with school zone context? [Request the analysis](/\#contact).*
+*Have a specific area or property to analyze with school zone context? [Request the analysis](/en/form/).*

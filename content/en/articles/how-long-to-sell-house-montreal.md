@@ -80,4 +80,4 @@ To position your property before you begin, try the [value estimate](/en/tools/h
 
 ---
 
-*Working against a fixed date? [Let's talk](/en/#contact). The calendar gets planned backwards from your date, and it is better done before listing than after.*
+*Working against a fixed date? [Let's talk](/en/form/). The calendar gets planned backwards from your date, and it is better done before listing than after.*

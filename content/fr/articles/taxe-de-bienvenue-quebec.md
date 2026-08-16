@@ -77,4 +77,4 @@ Prévoyez l'ensemble avec [le calculateur de frais de clôture](/tools/closing-c
 
 ---
 
-*Vous voulez le montant exact pour une propriété précise avant de faire une offre? [Écrivez-moi](/#contact) avec l'adresse et le prix envisagé, je vous fais le calcul.*
+*Vous voulez le montant exact pour une propriété précise avant de faire une offre? [Écrivez-moi](/formulaire/) avec l'adresse et le prix envisagé, je vous fais le calcul.*

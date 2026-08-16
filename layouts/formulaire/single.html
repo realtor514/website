@@ -1,0 +1,53 @@
+{{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+
+<section class="lead-page">
+  <div class="container">
+
+    <div class="lead-page__head">
+      <h1>{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
+      <p class="lead-page__sub">{{ if $isFr }}Remplissez le formulaire. Je vous réponds en moins de 24 heures, sans engagement et sans frais.{{ else if $isAr }}املأ الاستمارة. أرد عليك خلال أقل من 24 ساعة، دون أي التزام أو رسوم.{{ else if $isEs }}Complete el formulario. Le respondo en menos de 24 horas, sin compromiso y sin costo.{{ else }}Fill out the form. I answer within 24 hours, with no obligation and no fee.{{ end }}</p>
+
+      <ul class="lead-page__proof">
+        <li>
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="20 6 9 17 4 12"/></svg>
+          {{ if $isFr }}Réponse en moins de 24 h{{ else if $isAr }}رد خلال أقل من 24 ساعة{{ else if $isEs }}Respuesta en menos de 24 h{{ else }}Answer within 24 hours{{ end }}
+        </li>
+        <li>
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="20 6 9 17 4 12"/></svg>
+          {{ if $isFr }}Service en 4 langues{{ else if $isAr }}خدمة بأربع لغات{{ else if $isEs }}Servicio en 4 idiomas{{ else }}Service in 4 languages{{ end }}
+        </li>
+        <li>
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="20 6 9 17 4 12"/></svg>
+          {{ if $isFr }}Première consultation gratuite{{ else if $isAr }}الاستشارة الأولى مجانية{{ else if $isEs }}Primera consulta gratuita{{ else }}First consultation free{{ end }}
+        </li>
+      </ul>
+    </div>
+
+    <div class="lead-page__card">
+      {{ partial "lead-form.html" (dict "ctx" . "source" "formulaire") }}
+    </div>
+
+    {{/* ── Coordonnees, en petit, sous le formulaire ── */}}
+    <div class="lead-page__contact">
+      <p class="lead-page__contact-name">{{ .Site.Params.name }}, {{ if $isFr }}courtier immobilier résidentiel{{ else if $isAr }}وسيط عقاري سكني{{ else if $isEs }}corredor inmobiliario residencial{{ else }}residential real estate broker{{ end }} &middot; {{ .Site.Params.brokerage }}</p>
+      <p>
+        <a href="tel:{{ .Site.Params.phoneRaw }}"><bdi dir="ltr">{{ .Site.Params.phone }}</bdi></a>
+        <span class="lead-page__sep">&middot;</span>
+        <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
+      </p>
+      <p>{{ .Site.Params.address }}</p>
+      <p>
+        <a href="{{ .Site.Params.contactURL }}">{{ if $isFr }}Page de contact{{ else if $isAr }}صفحة الاتصال{{ else if $isEs }}Página de contacto{{ else }}Contact page{{ end }}</a>
+        <span class="lead-page__sep">&middot;</span>
+        <a href="{{ .Site.Params.privacyURL }}">{{ if $isFr }}Politique de confidentialité{{ else if $isAr }}سياسة الخصوصية{{ else if $isEs }}Política de privacidad{{ else }}Privacy policy{{ end }}</a>
+      </p>
+    </div>
+
+    {{ with .Content }}<div class="lead-page__body">{{ . }}</div>{{ end }}
+
+  </div>
+</section>
+{{ end }}

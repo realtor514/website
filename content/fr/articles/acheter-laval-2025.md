@@ -31,4 +31,4 @@ Les nuances du marché de Laval, les zones scolaires, les cartes des zones inond
 
 ---
 
-*Des questions sur l'achat à Laval? [Prenez contact](/#contact) pour discuter de votre situation, sans obligation.*
+*Des questions sur l'achat à Laval? [Prenez contact](/formulaire/) pour discuter de votre situation, sans obligation.*

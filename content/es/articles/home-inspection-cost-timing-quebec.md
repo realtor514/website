@@ -83,4 +83,4 @@ Para seguir, lea [las señales de alarma que justifican retirarse](/es/articles/
 
 ---
 
-*¿Tiene un informe de inspección en la mano y no sabe si el problema es mayor o normal? [Envíemelo](/es/#contact). Le diré con franqueza qué merece una renegociación.*
+*¿Tiene un informe de inspección en la mano y no sabe si el problema es mayor o normal? [Envíemelo](/es/formulario/). Le diré con franqueza qué merece una renegociación.*

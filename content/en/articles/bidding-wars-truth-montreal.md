@@ -70,4 +70,4 @@ The house you win by keeping your head will almost always be better than the one
 
 ---
 
-*Have a specific property you're considering? [Request the comparables](/\#contact) and know exactly what it's worth before submitting a dollar.*
+*Have a specific property you're considering? [Request the comparables](/en/form/) and know exactly what it's worth before submitting a dollar.*

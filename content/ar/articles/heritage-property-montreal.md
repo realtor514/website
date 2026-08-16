@@ -24,4 +24,4 @@ image: "images/articles/heritage-property-montreal/featured.jpg"
 
 ---
 
-*تنظر في عقار تراثي؟ [لنتحدث عن التفاصيل](/ar/#contact) قبل تقديم عرض.*
+*تنظر في عقار تراثي؟ [لنتحدث عن التفاصيل](/ar/istimara/) قبل تقديم عرض.*

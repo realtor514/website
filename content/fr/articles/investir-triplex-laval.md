@@ -93,4 +93,4 @@ C'est une rente privée, construite avec l'effet de levier, financée par d'autr
 
 ---
 
-*Vous pensez à votre premier immeuble à revenus à Laval ou dans la grande région de Montréal? [Prenez contact](/#contact) pour faire analyser les chiffres.*
+*Vous pensez à votre premier immeuble à revenus à Laval ou dans la grande région de Montréal? [Prenez contact](/formulaire/) pour faire analyser les chiffres.*

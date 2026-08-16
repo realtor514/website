@@ -91,7 +91,7 @@
       {{ if $isFr }}Achat, vente ou investissement: parlons de votre situation. Première rencontre sans frais et sans engagement.{{ else if $isAr }}شراء أو بيع أو استثمار: لنتحدث عن وضعك. اللقاء الأول مجاني وبدون التزام.{{ else if $isEs }}Compra, venta o inversión: hablemos de su situación. Primera reunión gratuita y sin compromiso.{{ else }}Buying, selling or investing: let's talk about your situation. First meeting free, no obligation.{{ end }}
     </p>
     <div class="adv-cta__actions">
-      <a href="{{ $base }}/#contact" class="btn btn-primary">{{ if $isFr }}Me contacter{{ else if $isAr }}تواصل معي{{ else if $isEs }}Contácteme{{ else }}Contact me{{ end }}</a>
+      <a href="{{ site.Params.formURL }}" class="btn btn-primary">{{ if $isFr }}Me contacter{{ else if $isAr }}تواصل معي{{ else if $isEs }}Contácteme{{ else }}Contact me{{ end }}</a>
       <a href="{{ $base }}/tools/home-estimate/" class="btn btn-outline-dark">{{ if $isFr }}Estimer ma propriété{{ else if $isAr }}تقدير قيمة عقاري{{ else if $isEs }}Estimar mi propiedad{{ else }}Estimate my property{{ end }}</a>
     </div>
   </div>

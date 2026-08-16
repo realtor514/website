@@ -60,4 +60,4 @@ The condition of a property, fully understood, is one of the most important inpu
 
 ---
 
-*Preparing for an open house on a property you're serious about? [Arrange to attend with a broker](/\#contact).*
+*Preparing for an open house on a property you're serious about? [Arrange to attend with a broker](/en/form/).*

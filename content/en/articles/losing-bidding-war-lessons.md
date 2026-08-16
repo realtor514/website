@@ -36,4 +36,4 @@ Keeping ceiling discipline, especially in the two weeks after a loss, is what se
 
 ---
 
-*Going through a frustrating search? [Let's talk](/en/#contact).*
+*Going through a frustrating search? [Let's talk](/en/form/).*

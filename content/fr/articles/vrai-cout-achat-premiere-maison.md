@@ -78,4 +78,4 @@ Commencez par comprendre le chiffre complet. Ensuite, construisez votre plan d'�
 
 ---
 
-*Des questions sur votre situation spécifique? [Prenez contact](/#contact) pour passer les chiffres en revue, sans engagement.*
+*Des questions sur votre situation spécifique? [Prenez contact](/formulaire/) pour passer les chiffres en revue, sans engagement.*

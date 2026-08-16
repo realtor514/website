@@ -26,4 +26,4 @@ image: "images/articles/interest-rates-montreal-market/featured.jpg"
 
 ---
 
-*تريد فهم تأثير الأسعار الحالية على وضعك؟ [لنتحدث](/ar/#contact).*
+*تريد فهم تأثير الأسعار الحالية على وضعك؟ [لنتحدث](/ar/istimara/).*

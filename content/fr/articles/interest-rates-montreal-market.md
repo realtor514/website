@@ -30,4 +30,4 @@ Arrêtez d'essayer de synchroniser le cycle des taux. Achetez quand la propriét
 
 ---
 
-*Vous voulez comprendre comment les conditions actuelles des taux affectent votre situation ? [Parlons-en](/fr/#contact).*
+*Vous voulez comprendre comment les conditions actuelles des taux affectent votre situation ? [Parlons-en](/formulaire/).*

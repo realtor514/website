@@ -30,4 +30,4 @@ Engagez un notaire pour rédiger la convention de copropriété avant ou simulta
 
 ---
 
-*Vous planifiez un co-achat familial ? [Parlons de la structure avant de commencer la recherche](/fr/#contact).*
+*Vous planifiez un co-achat familial ? [Parlons de la structure avant de commencer la recherche](/formulaire/).*

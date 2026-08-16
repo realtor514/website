@@ -131,4 +131,4 @@ Those values align well with what Quebec real estate, done right, can offer.
 
 ---
 
-*Are you a newcomer navigating the Quebec real estate market? The conversation can happen in whatever language works best for you. [Get in touch](/#contact).*
+*Are you a newcomer navigating the Quebec real estate market? The conversation can happen in whatever language works best for you. [Get in touch](/en/form/).*

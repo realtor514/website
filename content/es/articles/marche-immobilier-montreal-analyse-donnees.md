@@ -91,4 +91,4 @@ Si la respuesta a las cuatro es sí, el momento del mercado más amplio importa 
 
 ---
 
-*Publico un análisis regular del mercado inmobiliario del Gran Montréal y Laval. [Contácteme](/#contact) si desea hablar sobre lo que los datos actuales significan para su situación específica.*
+*Publico un análisis regular del mercado inmobiliario del Gran Montréal y Laval. [Contácteme](/es/formulario/) si desea hablar sobre lo que los datos actuales significan para su situación específica.*

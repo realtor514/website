@@ -26,4 +26,4 @@ image: "images/articles/rental-property-management/featured.jpg"
 
 ---
 
-*أسئلة حول واقع امتلاك العقارات الإيجارية؟ [تواصل معي](/ar/#contact).*
+*أسئلة حول واقع امتلاك العقارات الإيجارية؟ [تواصل معي](/ar/istimara/).*

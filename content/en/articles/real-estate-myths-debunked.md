@@ -42,4 +42,4 @@ Buying directly from a listing broker without your own representation is not a w
 
 ---
 
-*Questions about how any of these dynamics apply to a specific situation you are navigating? [Let's talk](/\#contact).*
+*Questions about how any of these dynamics apply to a specific situation you are navigating? [Let's talk](/en/form/).*

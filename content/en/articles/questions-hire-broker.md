@@ -69,4 +69,4 @@ Ask for references and call them. Not just names on a form, but an actual conver
 
 ---
 
-*Want to ask any of these questions directly? [Start the conversation](/\#contact). Confidence should be earned before the work begins, not assumed.*
+*Want to ask any of these questions directly? [Start the conversation](/en/form/). Confidence should be earned before the work begins, not assumed.*

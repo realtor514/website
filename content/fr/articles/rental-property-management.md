@@ -30,4 +30,4 @@ Les propriétaires québécois sont légalement tenus de maintenir les unités l
 
 ---
 
-*Des questions sur la réalité opérationnelle de la propriété locative ? [Parlons de ce que vous devriez attendre avant d'acheter](/fr/#contact).*
+*Des questions sur la réalité opérationnelle de la propriété locative ? [Parlons de ce que vous devriez attendre avant d'acheter](/formulaire/).*

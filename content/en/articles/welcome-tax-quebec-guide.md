@@ -77,4 +77,4 @@ Plan the whole set with the [closing costs calculator](/en/tools/closing-costs/)
 
 ---
 
-*Want the exact amount for a specific property before you make an offer? [Write to me](/en/#contact) with the address and the price you have in mind and I will run the calculation.*
+*Want the exact amount for a specific property before you make an offer? [Write to me](/en/form/) with the address and the price you have in mind and I will run the calculation.*

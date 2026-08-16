@@ -36,4 +36,4 @@ Le réseau est l'infrastructure. Le courtier est le service.
 
 ---
 
-*Vous voulez comprendre la méthode avant de vous engager ? [Une conversation de 30 minutes vous en dira plus que tout site web](/fr/#contact).*
+*Vous voulez comprendre la méthode avant de vous engager ? [Une conversation de 30 minutes vous en dira plus que tout site web](/formulaire/).*

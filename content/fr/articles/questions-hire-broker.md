@@ -32,4 +32,4 @@ Un courtier confiant et éthique aura une réponse claire. La plupart des agence
 
 ---
 
-*Vous voulez me poser ces questions directement ? [Cette conversation est la bienvenue](/fr/#contact).*
+*Vous voulez me poser ces questions directement ? [Cette conversation est la bienvenue](/formulaire/).*

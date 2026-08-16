@@ -34,4 +34,4 @@ Service delivered in French, English, Spanish and Arabic with the same professio
 
 ---
 
-*Prefer to work in French, English, Spanish or Arabic? [Get in touch in the language of your choice](/en/#contact).*
+*Prefer to work in French, English, Spanish or Arabic? [Get in touch in the language of your choice](/en/form/).*

@@ -60,4 +60,4 @@ Ne pas vouloir perdre n'est pas une raison. C'est la peur qui parle. Et la peur 
 
 ---
 
-*Vous envisagez une propriété spécifique ? [Demandez les comparables](/fr/#contact) et sachez exactement ce qu'elle vaut avant de soumettre le moindre dollar.*
+*Vous envisagez une propriété spécifique ? [Demandez les comparables](/formulaire/) et sachez exactement ce qu'elle vaut avant de soumettre le moindre dollar.*

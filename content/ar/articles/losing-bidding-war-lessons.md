@@ -36,4 +36,4 @@ image: "images/articles/losing-bidding-war-lessons/featured.jpg"
 
 ---
 
-*هل تمرّ ببحث محبِط؟ [لنتحدث](/ar/#contact).*
+*هل تمرّ ببحث محبِط؟ [لنتحدث](/ar/istimara/).*

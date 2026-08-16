@@ -52,4 +52,4 @@ Professional property management companies in Greater Montreal typically charge 
 
 ---
 
-*Questions about the operational realities of income property ownership? [Let's talk through what you should expect before you buy](/\#contact).*
+*Questions about the operational realities of income property ownership? [Let's talk through what you should expect before you buy](/en/form/).*

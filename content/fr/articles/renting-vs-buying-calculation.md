@@ -30,4 +30,4 @@ Si votre horizon est de moins de 3 ans, la location est presque toujours supéri
 
 ---
 
-*Vous voulez faire ce calcul avec vos propres chiffres ? [Prenez contact](/fr/#contact).*
+*Vous voulez faire ce calcul avec vos propres chiffres ? [Prenez contact](/formulaire/).*

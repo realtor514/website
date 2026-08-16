@@ -48,4 +48,4 @@ It is not a magic solution to competitive markets or high prices. It is one addi
 
 ---
 
-*Looking for off-market opportunities in Laval or Montreal? [Send your criteria](/\#contact) and the network will be put to work.*
+*Looking for off-market opportunities in Laval or Montreal? [Send your criteria](/en/form/) and the network will be put to work.*

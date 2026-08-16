@@ -82,4 +82,4 @@ Para seguir, lea [vender con o sin corredor](/es/articles/selling-without-realto
 
 ---
 
-*¿Quiere una cuenta neta realista para su propiedad antes de decidir? [Escríbame](/es/#contact). La armo con usted, línea por línea.*
+*¿Quiere una cuenta neta realista para su propiedad antes de decidir? [Escríbame](/es/formulario/). La armo con usted, línea por línea.*

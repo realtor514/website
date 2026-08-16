@@ -44,4 +44,4 @@ Toujours travailler avec un courtier hypothécaire de confiance, pas seulement a
 
 ---
 
-*Vous voulez être mis en contact avec un professionnel hypothécaire de confiance ? [Prenez contact](/fr/#contact).*
+*Vous voulez être mis en contact avec un professionnel hypothécaire de confiance ? [Prenez contact](/formulaire/).*

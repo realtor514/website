@@ -34,4 +34,4 @@ Most difficult files are difficult not because of the problem itself, but becaus
 
 ---
 
-*Dealing with a complex real estate situation? [Let's talk](/en/#contact).*
+*Dealing with a complex real estate situation? [Let's talk](/en/form/).*

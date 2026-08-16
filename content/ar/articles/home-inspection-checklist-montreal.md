@@ -26,4 +26,4 @@ image: "images/articles/home-inspection-checklist-montreal/featured.jpg"
 
 ---
 
-*أسئلة حول ما رأيته في تقرير الفحص؟ [تواصل معي](/ar/#contact).*
+*أسئلة حول ما رأيته في تقرير الفحص؟ [تواصل معي](/ar/istimara/).*

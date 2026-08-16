@@ -93,4 +93,4 @@ Un profesional hipotecario que responda estas preguntas de manera clara y sin du
 
 ---
 
-*¿Preguntas sobre el financiamiento de su primera propiedad en Quebec? Trabajo estrechamente con especialistas hipotecarios que conocen bien este mercado. [Contácteme](/#contact) y le orientaré en la dirección correcta.*
+*¿Preguntas sobre el financiamiento de su primera propiedad en Quebec? Trabajo estrechamente con especialistas hipotecarios que conocen bien este mercado. [Contácteme](/es/formulario/) y le orientaré en la dirección correcta.*

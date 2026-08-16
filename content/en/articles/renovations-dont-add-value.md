@@ -47,4 +47,4 @@ The goal before a sale is to present what exists as compellingly as possible, no
 
 ---
 
-*Thinking about what to do before listing? [Let's walk through your property together](/\#contact) and identify what actually moves the needle.*
+*Thinking about what to do before listing? [Let's walk through your property together](/en/form/) and identify what actually moves the needle.*

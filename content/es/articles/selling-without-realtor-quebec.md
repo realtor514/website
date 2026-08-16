@@ -81,4 +81,4 @@ Para situar su propiedad antes de decidir, empiece por una [estimación de su va
 
 ---
 
-*¿Dudando entre las dos opciones? [Escríbame](/es/#contact). Le daré mi opinión franca sobre su propiedad concreta, aunque la conclusión sea que no me necesita.*
+*¿Dudando entre las dos opciones? [Escríbame](/es/formulario/). Le daré mi opinión franca sobre su propiedad concreta, aunque la conclusión sea que no me necesita.*

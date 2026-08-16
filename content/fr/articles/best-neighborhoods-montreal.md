@@ -52,4 +52,4 @@ C'est probablement la variable la plus sous-évaluée du marché actuel.
 
 ---
 
-*Vous souhaitez une analyse spécifique d'un quartier ou d'une propriété ? [Demandez l'étude](/fr/#contact).*
+*Vous souhaitez une analyse spécifique d'un quartier ou d'une propriété ? [Demandez l'étude](/formulaire/).*

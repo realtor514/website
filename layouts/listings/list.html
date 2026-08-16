@@ -38,13 +38,13 @@
     {{ else }}
     <p class="text-center" style="padding:60px 0;color:#6b7280">
       {{ if $isFr }}
-        Inscriptions à venir. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">Contactez-moi</a> pour les propriétés disponibles.
+        Inscriptions à venir. <a href="{{ site.Params.formURL }}" style="color:#a8893d;font-weight:600">Contactez-moi</a> pour les propriétés disponibles.
       {{ else if $isAr }}
-        عقارات قادمة قريباً. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">تواصل معي</a> للاطلاع على المتوفر.
+        عقارات قادمة قريباً. <a href="{{ site.Params.formURL }}" style="color:#a8893d;font-weight:600">تواصل معي</a> للاطلاع على المتوفر.
       {{ else if $isEs }}
-        Propiedades próximamente. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">Contácteme</a> para propiedades disponibles.
+        Propiedades próximamente. <a href="{{ site.Params.formURL }}" style="color:#a8893d;font-weight:600">Contácteme</a> para propiedades disponibles.
       {{ else }}
-        Listings coming soon. <a href="{{ $base }}/#contact" style="color:#a8893d;font-weight:600">Contact me</a> for available properties.
+        Listings coming soon. <a href="{{ site.Params.formURL }}" style="color:#a8893d;font-weight:600">Contact me</a> for available properties.
       {{ end }}
     </p>
     {{ end }}

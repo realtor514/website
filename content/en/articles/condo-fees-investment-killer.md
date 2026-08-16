@@ -67,4 +67,4 @@ This information is legally available to prospective buyers through their broker
 
 ---
 
-*Looking at a specific condo? [Request a review of the building's financials](/\#contact) before you commit.*
+*Looking at a specific condo? [Request a review of the building's financials](/en/form/) before you commit.*

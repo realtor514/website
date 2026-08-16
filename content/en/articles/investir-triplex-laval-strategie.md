@@ -103,4 +103,4 @@ The math takes time, but it works. The discipline to hold through market fluctua
 
 ---
 
-*Thinking about your first income property in Laval or the greater Montreal area? [Get in touch](/#contact) to have the numbers reviewed.*
+*Thinking about your first income property in Laval or the greater Montreal area? [Get in touch](/en/form/) to have the numbers reviewed.*

@@ -58,4 +58,4 @@ You can verify the answer yourself at oaciq.com/en/find-a-broker. Takes 30 secon
 
 ---
 
-*Questions about how real estate representation works in Quebec? [Get in touch](/\#contact).*
+*Questions about how real estate representation works in Quebec? [Get in touch](/en/form/).*

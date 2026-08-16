@@ -32,4 +32,4 @@ Le REM change radicalement l'histoire de connectivité de Laval. Les autoroutes 
 
 ---
 
-*Vous vous intéressez à une analyse spécifique de propriété à revenus à Laval ? [Prenez contact](/fr/#contact).*
+*Vous vous intéressez à une analyse spécifique de propriété à revenus à Laval ? [Prenez contact](/formulaire/).*

@@ -82,4 +82,4 @@ Next, read [selling with or without a broker](/en/articles/selling-without-realt
 
 ---
 
-*Want a realistic net proceeds statement for your property before deciding? [Write to me](/en/#contact). I will build it with you, line by line.*
+*Want a realistic net proceeds statement for your property before deciding? [Write to me](/en/form/). I will build it with you, line by line.*

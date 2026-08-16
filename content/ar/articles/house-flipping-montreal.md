@@ -28,4 +28,4 @@ image: "images/articles/house-flipping-montreal/featured.jpg"
 
 ---
 
-*تقيّم عملية تقليب محتملة؟ [لنُجري الحسابات معاً قبل التزامك](/ar/#contact).*
+*تقيّم عملية تقليب محتملة؟ [لنُجري الحسابات معاً قبل التزامك](/ar/istimara/).*

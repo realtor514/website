@@ -28,4 +28,4 @@ image: "images/articles/off-market-properties/featured.jpg"
 
 ---
 
-*تبحث عن فرص خارج السوق محددة؟ [تواصل معي](/ar/#contact) وسأعمل على شبكتي من أجلك.*
+*تبحث عن فرص خارج السوق محددة؟ [تواصل معي](/ar/istimara/) وسأعمل على شبكتي من أجلك.*

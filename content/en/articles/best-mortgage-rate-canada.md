@@ -64,4 +64,4 @@ The lowest rate is not always the best mortgage. Check:
 
 ---
 
-*Want to be connected to a trusted mortgage broker? [Reach out](/\#contact) for an introduction.*
+*Want to be connected to a trusted mortgage broker? [Reach out](/en/form/) for an introduction.*

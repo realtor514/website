@@ -37,4 +37,4 @@ Un détail pratique souvent ignoré : n'inscrivez pas votre propriété un vendr
 
 ---
 
-*Vous pensez à vendre ? [Discutons du timing, de la tarification et de la préparation](/fr/#contact) avant de prendre une décision.*
+*Vous pensez à vendre ? [Discutons du timing, de la tarification et de la préparation](/formulaire/) avant de prendre une décision.*

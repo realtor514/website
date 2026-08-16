@@ -27,4 +27,4 @@ Il y a une chose que les guides purement financiers omettent : le poids émotion
 
 ---
 
-*Vous planifiez une transition de réduction de taille ? [Parlons des deux côtés de la transaction](/fr/#contact) avant de prendre des décisions.*
+*Vous planifiez une transition de réduction de taille ? [Parlons des deux côtés de la transaction](/formulaire/) avant de prendre des décisions.*

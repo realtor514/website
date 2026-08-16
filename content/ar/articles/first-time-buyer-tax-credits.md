@@ -22,4 +22,4 @@ image: "images/articles/first-time-buyer-tax-credits/featured.jpg"
 
 ---
 
-*أسئلة حول الجانب المالي لشرائك الأول؟ [لنتحدث](/ar/#contact).*
+*أسئلة حول الجانب المالي لشرائك الأول؟ [لنتحدث](/ar/istimara/).*

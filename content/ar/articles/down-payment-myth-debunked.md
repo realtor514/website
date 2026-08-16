@@ -26,4 +26,4 @@ image: "images/articles/down-payment-myth-debunked/featured.jpg"
 
 ---
 
-*تريد نمذجة الأرقام لوضعك الخاص؟ [لنُجري الحساب معاً](/ar/#contact).*
+*تريد نمذجة الأرقام لوضعك الخاص؟ [لنُجري الحساب معاً](/ar/istimara/).*

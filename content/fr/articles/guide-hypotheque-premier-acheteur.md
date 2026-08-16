@@ -78,4 +78,4 @@ Un renouvellement bien négocié peut vous économiser de 5 000 à 15 000 dollar
 
 ---
 
-*Des questions sur le financement de votre première propriété au Québec? [Prenez contact](/#contact) pour être orienté dans la bonne direction.*
+*Des questions sur le financement de votre première propriété au Québec? [Prenez contact](/formulaire/) pour être orienté dans la bonne direction.*

@@ -30,4 +30,4 @@ Le cadre québécois est parmi les plus protecteurs pour les locataires en Amér
 
 ---
 
-*Vous voulez analyser des immeubles à revenus spécifiques ? [Commençons par les chiffres](/fr/#contact).*
+*Vous voulez analyser des immeubles à revenus spécifiques ? [Commençons par les chiffres](/formulaire/).*

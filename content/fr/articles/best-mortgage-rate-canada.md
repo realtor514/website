@@ -32,4 +32,4 @@ Privilèges de remboursement anticipé, pénalité pour bris d'hypothèque, port
 
 ---
 
-*Vous voulez être mis en contact avec un courtier hypothécaire de confiance ? [Prenez contact](/fr/#contact).*
+*Vous voulez être mis en contact avec un courtier hypothécaire de confiance ? [Prenez contact](/formulaire/).*

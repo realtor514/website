@@ -54,4 +54,4 @@ The buyer who underestimates the complexity or overestimates their budget's flex
 
 ---
 
-*Considering a heritage property? [Let's talk through the specifics](/\#contact) before you make an offer.*
+*Considering a heritage property? [Let's talk through the specifics](/en/form/) before you make an offer.*

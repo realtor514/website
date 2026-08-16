@@ -47,4 +47,4 @@ El objetivo antes de una venta es presentar lo que existe de la manera más conv
 
 ---
 
-*¿Pensando en qué hacer antes de listar? [Recorramos juntos su propiedad](/\#contact) e identifiquemos lo que realmente mueve la aguja.*
+*¿Pensando en qué hacer antes de listar? [Recorramos juntos su propiedad](/es/formulario/) e identifiquemos lo que realmente mueve la aguja.*

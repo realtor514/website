@@ -98,4 +98,4 @@ The difference matters more than most people realize.
 
 ---
 
-*Navigating a negotiation in the Montreal or Laval market? [Get in touch](/#contact) to review your strategy before you submit.*
+*Navigating a negotiation in the Montreal or Laval market? [Get in touch](/en/form/) to review your strategy before you submit.*

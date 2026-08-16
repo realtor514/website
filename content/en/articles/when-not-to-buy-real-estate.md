@@ -44,4 +44,4 @@ With a realistic probability of moving within three years, renting is often the 
 
 ---
 
-*Not sure buying is the right decision right now? [Let's have that conversation honestly](/en/#contact).*
+*Not sure buying is the right decision right now? [Let's have that conversation honestly](/en/form/).*

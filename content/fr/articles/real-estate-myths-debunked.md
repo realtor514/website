@@ -31,4 +31,4 @@ Non. Le courtier inscripteur travaille pour le vendeur. Si vous êtes acheteur, 
 
 ---
 
-*Des questions sur la façon dont ces dynamiques s'appliquent ? [Parlons-en](/fr/#contact).*
+*Des questions sur la façon dont ces dynamiques s'appliquent ? [Parlons-en](/formulaire/).*

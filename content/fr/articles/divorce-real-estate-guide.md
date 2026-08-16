@@ -32,4 +32,4 @@ Une évaluation de valeur marchande honnête et fondée sur les données donne a
 
 ---
 
-*Vous naviguez une décision immobilière dans un contexte de séparation ? [Demandez une conversation confidentielle](/fr/#contact).*
+*Vous naviguez une décision immobilière dans un contexte de séparation ? [Demandez une conversation confidentielle](/formulaire/).*

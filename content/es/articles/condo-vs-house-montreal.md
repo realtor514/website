@@ -57,4 +57,4 @@ Ninguno es universalmente superior. La elección correcta es una función de sus
 
 ---
 
-*¿Quiere comparar propiedades específicas una al lado de la otra? [Hagamos una lista y analicemos los números](/\#contact).*
+*¿Quiere comparar propiedades específicas una al lado de la otra? [Hagamos una lista y analicemos los números](/es/formulario/).*

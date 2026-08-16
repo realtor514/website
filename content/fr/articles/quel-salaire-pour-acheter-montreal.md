@@ -79,4 +79,4 @@ Pour compléter, lisez [le vrai coût d'achat d'une première maison au Québec]
 
 ---
 
-*Vous voulez savoir ce que votre situation permet réellement? [Écrivez-moi](/#contact). Je peux vous référer à des courtiers hypothécaires qui font ce calcul correctement, sans frais pour vous.*
+*Vous voulez savoir ce que votre situation permet réellement? [Écrivez-moi](/formulaire/). Je peux vous référer à des courtiers hypothécaires qui font ce calcul correctement, sans frais pour vous.*

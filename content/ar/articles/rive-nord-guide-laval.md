@@ -28,4 +28,4 @@ image: "images/articles/rive-nord-guide-laval/featured.jpg"
 
 ---
 
-*تبحث عن تحليل محدد لعقار في الضفة الشمالية؟ [تواصل معي](/ar/#contact).*
+*تبحث عن تحليل محدد لعقار في الضفة الشمالية؟ [تواصل معي](/ar/istimara/).*
