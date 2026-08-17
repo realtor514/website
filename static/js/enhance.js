@@ -324,3 +324,84 @@
     if (values[key] !== undefined) el.value = values[key];
   });
 })();
+
+/* ──────────────────────────────────────────────────────────────
+   Messages de validation dans la langue du site
+
+   Les messages natifs du navigateur suivent la langue de celui-ci,
+   pas l attribut lang de la page: un visiteur dont le navigateur est
+   en anglais lit Please check this box sur la page francaise. On les
+   remplace par la langue du site.
+
+   setCustomValidity doit etre vide pour qu un champ redevienne
+   valide, d ou la remise a zero a chaque saisie.
+   ────────────────────────────────────────────────────────────── */
+(function () {
+  'use strict';
+  var forms = document.querySelectorAll('form:not([novalidate])');
+  if (!forms.length) return;
+
+  var MSG = {
+    fr: {
+      required: 'Veuillez remplir ce champ.',
+      checkbox: 'Veuillez cocher cette case pour continuer.',
+      radio:    'Veuillez choisir une option.',
+      select:   'Veuillez choisir une option dans la liste.',
+      email:    'Veuillez entrer une adresse courriel valide.',
+      invalid:  'Veuillez entrer une valeur valide.'
+    },
+    en: {
+      required: 'Please fill out this field.',
+      checkbox: 'Please check this box to continue.',
+      radio:    'Please choose an option.',
+      select:   'Please choose an option from the list.',
+      email:    'Please enter a valid email address.',
+      invalid:  'Please enter a valid value.'
+    },
+    es: {
+      required: 'Por favor, complete este campo.',
+      checkbox: 'Por favor, marque esta casilla para continuar.',
+      radio:    'Por favor, elija una opción.',
+      select:   'Por favor, elija una opción de la lista.',
+      email:    'Por favor, introduzca una dirección de correo válida.',
+      invalid:  'Por favor, introduzca un valor válido.'
+    },
+    ar: {
+      required: 'يرجى ملء هذا الحقل.',
+      checkbox: 'يرجى تحديد هذا المربع للمتابعة.',
+      radio:    'يرجى اختيار أحد الخيارات.',
+      select:   'يرجى اختيار خيار من القائمة.',
+      email:    'يرجى إدخال بريد إلكتروني صحيح.',
+      invalid:  'يرجى إدخال قيمة صحيحة.'
+    }
+  };
+
+  var lang = (document.documentElement.lang || 'fr').slice(0, 2).toLowerCase();
+  var m = MSG[lang] || MSG.fr;
+
+  function messageFor(el) {
+    var v = el.validity;
+    if (v.valueMissing) {
+      if (el.type === 'checkbox') return m.checkbox;
+      if (el.type === 'radio')    return m.radio;
+      if (el.tagName === 'SELECT') return m.select;
+      return m.required;
+    }
+    if (v.typeMismatch && el.type === 'email') return m.email;
+    if (v.typeMismatch || v.patternMismatch || v.badInput) return m.invalid;
+    return '';
+  }
+
+  forms.forEach(function (form) {
+    form.querySelectorAll('input, select, textarea').forEach(function (el) {
+      /* invalid ne remonte pas: il faut ecouter sur le champ lui-meme */
+      el.addEventListener('invalid', function () {
+        el.setCustomValidity('');
+        el.setCustomValidity(messageFor(el));
+      });
+      ['input', 'change'].forEach(function (evt) {
+        el.addEventListener(evt, function () { el.setCustomValidity(''); });
+      });
+    });
+  });
+})();
