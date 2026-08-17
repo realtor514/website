@@ -78,11 +78,23 @@ site tiers. Google compte ces mentions pour decider quelles fiches il montre
 dans le pack local. Trois annuaires bien remplis valent mieux que trente
 remplis a moitie.
 
-**Regle absolue avant de commencer.** Le bloc NAP de la section E plus bas doit
-etre copie-colle a l'identique partout. Une seule variation, "suite 201" au
-lieu de "bureau 201", ou "438-372-0102" au lieu de "(438) 372-0102", et Google
-traite ca comme deux entreprises differentes. C'est ce qui dilue le plus
-l'autorite locale, plus que le nombre d'annuaires.
+**Regle absolue avant de commencer.** Tes coordonnees doivent etre ecrites
+exactement de la meme facon sur chaque annuaire. Meme nom, meme adresse, meme
+numero, au caractere pres.
+
+Google compare ces mentions entre elles pour confirmer que l'entreprise existe
+vraiment. Si un annuaire dit "suite 201" et un autre "bureau 201", ou si l'un
+ecrit "438-372-0102" et l'autre "(438) 372-0102", Google n'est plus certain
+qu'il s'agit de la meme entreprise. Il partage alors la confiance entre deux
+fiches au lieu d'en renforcer une seule.
+
+C'est ce qui fait le plus de difference, plus que le nombre d'annuaires. Cinq
+fiches ecrites a l'identique valent mieux que trente fiches qui se
+contredisent.
+
+Le bloc exact a copier-coller est plus bas, section E, sous le titre "Format de
+reference a utiliser partout". Garde-le ouvert pendant que tu remplis les
+formulaires et copie-colle plutot que de retaper.
 
 Ajouter systematiquement, dans chaque fiche:
 - Le site: `https://georgesmatar.ca`
@@ -171,9 +183,17 @@ verifies un par un pour ne pas te faire perdre de temps:
 **Suivi.** Cree un fichier ou un tableau avec: nom de l'annuaire, date
 d'inscription, courriel utilise, mot de passe, URL de la fiche publique. Sans
 ca, dans six mois tu ne sauras plus ou tu es inscrit ni comment corriger une
-coordonnee. Envoie-moi la liste des URL de fiches obtenues: je les ajoute au
-champ `sameAs` des donnees structurees du site, ce qui relie explicitement
-toutes ces mentions a ton entite aux yeux de Google.
+coordonnee.
+
+**Envoie-moi ensuite la liste des adresses de tes fiches.** Exemple: une fois
+inscrit sur Yelp, ta fiche a une adresse du genre
+`https://www.yelp.ca/biz/georges-matar-laval`. Copie-la et envoie-la moi.
+
+Ce que j'en fais: le site contient une fiche d'identite invisible, lue par
+Google, qui enumere tous les endroits ou tu es present sur le web. J'y ajoute
+chaque adresse que tu m'envoies. Google cesse alors de deviner que ces fiches
+parlent de la meme personne, il en a la confirmation directe depuis ton site.
+Ca renforce l'ensemble des mentions d'un coup.
 
 **Ordre recommande.** Etape 1 en entier la premiere semaine. Puis 3 ou 4
 inscriptions par semaine, en alternant etape 2 et etape 3. L'etape 4 quand les
