@@ -11,6 +11,6 @@ translationKey: "formulaire"
 
 I read every request personally. You get an answer within 24 hours, through whichever channel you prefer: phone, email or text.
 
-The first conversation is about understanding where you stand, not about selling you anything. No fee, no obligation.
+The first conversation is about understanding where you stand. No fee, no obligation.
 
 Service in French, English, Spanish and Arabic, across Montreal, Laval, the North Shore and the South Shore.
