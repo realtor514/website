@@ -66,6 +66,121 @@ apparaitre directement dans les resultats Google.
 
 Ces etapes demandent tes identifiants. Je ne peux pas les faire a ta place.
 
+### 0. Citations et annuaires d'entreprises - PRIORITE 1
+
+Objectif: que `georgesmatar.ca`, le nom de courtage et la fiche Google Business
+soient cites le plus souvent possible sur des annuaires d'entreprises, a Laval,
+a Montreal, au Quebec, et sur les plateformes que consultent les acheteurs
+etrangers.
+
+Une citation, c'est une mention de ton nom, ton adresse et ton telephone sur un
+site tiers. Google compte ces mentions pour decider quelles fiches il montre
+dans le pack local. Trois annuaires bien remplis valent mieux que trente
+remplis a moitie.
+
+**Regle absolue avant de commencer.** Le bloc NAP de la section E plus bas doit
+etre copie-colle a l'identique partout. Une seule variation, "suite 201" au
+lieu de "bureau 201", ou "438-372-0102" au lieu de "(438) 372-0102", et Google
+traite ca comme deux entreprises differentes. C'est ce qui dilue le plus
+l'autorite locale, plus que le nombre d'annuaires.
+
+Ajouter systematiquement, dans chaque fiche:
+- Le site: `https://georgesmatar.ca`
+- Le lien de la fiche Google: `https://maps.google.com/?cid=7533992484077488450`
+- La categorie: Courtier immobilier / Real Estate Agent
+- Les langues: francais, anglais, espagnol, arabe
+
+---
+
+**Etape 1 - Le socle canadien.** Ce sont les huit qui pesent le plus lourd. Si
+tu n'en fais que huit, fais celles-la.
+
+- [ ] Google Business Profile (voir section B) - PRIORITE ABSOLUE
+- [ ] Apple Maps Connect, `mapsconnect.apple.com` (visible dans Siri et Plans)
+- [ ] Bing Places, `bingplaces.com` (alimente aussi Copilot et ChatGPT Search)
+- [ ] Facebook, page professionnelle avec adresse et telephone
+- [ ] Pages Jaunes, `pagesjaunes.ca` (la plus forte autorite francophone)
+- [ ] Yelp.ca (celui de ta liste, il est legitime et bien classe au Canada)
+- [ ] Foursquare, `foursquare.com` (alimente Uber, Apple, Samsung)
+- [ ] MapQuest, `mapquest.ca`
+
+**Etape 2 - Annuaires canadiens generiques.** Gratuits, 5 a 10 minutes chacun.
+Fais-en 3 ou 4 par semaine, pas tout d'un coup: une salve de vingt inscriptions
+en une journee ressemble a du spam.
+
+- [ ] n49.com
+- [ ] OurBis.ca (quebecois)
+- [ ] Cylex-usa.ca
+- [ ] HotFrog.ca
+- [ ] Brownbook.net
+- [ ] Opendi.ca
+- [ ] Infobel.com/fr/canada
+- [ ] ProfileCanada.com
+- [ ] CanadaOne.com
+- [ ] Lacartes.com
+- [ ] GoldBook.ca
+- [ ] Fyple.ca
+- [ ] 2FindLocal.com
+- [ ] Websites.ca
+- [ ] BBB.org (Better Business Bureau, payant mais forte confiance)
+
+**Etape 3 - Immobilier et Quebec.** C'est ici que se trouvent les vrais leads,
+pas seulement du signal SEO. Les gens qui consultent ces sites cherchent deja
+un courtier.
+
+- [ ] Centris, fiche courtier (verifier que le lien vers georgesmatar.ca y est)
+- [ ] RE/MAX Quebec, `remax-quebec.com` - FAIT
+- [ ] RE/MAX du Cartier, `remaxducartier.com` - FAIT
+- [ ] Trouvetoncourtier.net (celui de ta liste)
+- [ ] Reseauagentsimmobilier.com (celui de ta liste)
+- [ ] Courtiers.immo
+- [ ] Mon-Proprio.ca
+- [ ] ImmoAction.ca, repertoire des courtiers
+- [ ] Soumissions Quebec, `soumissionsquebec.ca` (service de referencement)
+- [ ] MeilleurCourtier.ca (celui de ta liste). Attention: ils n'acceptent que
+      les courtiers notes 5 etoiles sur Google. A faire APRES avoir obtenu tes
+      premiers avis, sinon la candidature est refusee. Voir section C.
+
+**Etape 4 - Acheteurs etrangers.** Pour les gens qui achetent au Quebec depuis
+l'exterieur. Ton avantage a quatre langues joue a plein ici.
+
+- [ ] Point2Homes.com, profil de courtier (portail canadien tres consulte a
+      l'international)
+- [ ] Properstar.ca, profil de courtier (diffusion vers plus de 60 pays)
+- [ ] Realtor.ca (via Centris, verifier que ta fiche courtier est complete)
+- [ ] LinkedIn, profil professionnel avec l'adresse du bureau
+- [ ] Realestateagents.com (celui de ta liste, surtout americain, valeur
+      moyenne pour le Quebec mais gratuit)
+
+---
+
+**Ce qui ne vaut pas l'effort, dans la liste que tu m'as envoyee.** Je les ai
+verifies un par un pour ne pas te faire perdre de temps:
+
+| Site | Verdict |
+|---|---|
+| `am.maptons.com`, `ht.maptons.com` | Sous-domaines Armenie et Haiti d'un agregateur de cartes. Les fiches sont generees automatiquement a partir de donnees copiees, on ne s'y inscrit pas vraiment. Aucun acheteur lavallois n'ira sur la version armenienne. |
+| `wheree.com` | Meme principe: agregateur qui aspire les donnees publiques. Ta fiche peut y apparaitre toute seule, mais il n'y a rien a soumettre. |
+| `splandidebiz.com` | Annuaire sans trafic ni autorite. Le genre de lien que Google ignore. |
+| `magicpin.com` | Plateforme indienne de commerces locaux. Aucune pertinence pour le Quebec. |
+| `renogiants.com` | Annuaire d'entrepreneurs en renovation. Mauvaise categorie, tu n'es pas renovateur. |
+| `birdeye.com` | C'est un logiciel de gestion d'avis, pas un annuaire. Les pages publiques n'apportent rien sans l'abonnement, qui coute plusieurs centaines de dollars par mois. A considerer seulement quand tu auras 50 avis a gerer. |
+
+---
+
+**Suivi.** Cree un fichier ou un tableau avec: nom de l'annuaire, date
+d'inscription, courriel utilise, mot de passe, URL de la fiche publique. Sans
+ca, dans six mois tu ne sauras plus ou tu es inscrit ni comment corriger une
+coordonnee. Envoie-moi la liste des URL de fiches obtenues: je les ajoute au
+champ `sameAs` des donnees structurees du site, ce qui relie explicitement
+toutes ces mentions a ton entite aux yeux de Google.
+
+**Ordre recommande.** Etape 1 en entier la premiere semaine. Puis 3 ou 4
+inscriptions par semaine, en alternant etape 2 et etape 3. L'etape 4 quand les
+etapes 1 a 3 sont faites.
+
+---
+
 ### A. Google Search Console - FAIT
 
 1. Propriete `georgesmatar.ca` ajoutee en "Prefixe d'URL"
