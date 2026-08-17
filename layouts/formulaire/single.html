@@ -8,7 +8,7 @@
 
     <div class="lead-page__head">
       <h1>{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
-      <p class="lead-page__sub">{{ if $isFr }}Remplissez le formulaire. Je vous réponds en moins de 24 heures, sans engagement et sans frais.{{ else if $isAr }}املأ الاستمارة. أرد عليك خلال أقل من 24 ساعة، دون أي التزام أو رسوم.{{ else if $isEs }}Complete el formulario. Le respondo en menos de 24 horas, sin compromiso y sin costo.{{ else }}Fill out the form. I answer within 24 hours, with no obligation and no fee.{{ end }}</p>
+      <p class="lead-page__sub">{{ if $isFr }}Remplissez le formulaire. Je vous réponds en moins de 24 heures.{{ else if $isAr }}املأ الاستمارة. أرد عليك خلال أقل من 24 ساعة.{{ else if $isEs }}Complete el formulario. Le respondo en menos de 24 horas.{{ else }}Fill out the form. I answer within 24 hours.{{ end }}</p>
 
       <ul class="lead-page__proof">
         <li>
@@ -18,10 +18,6 @@
         <li>
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="20 6 9 17 4 12"/></svg>
           {{ if $isFr }}Service en 4 langues{{ else if $isAr }}خدمة بأربع لغات{{ else if $isEs }}Servicio en 4 idiomas{{ else }}Service in 4 languages{{ end }}
-        </li>
-        <li>
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="20 6 9 17 4 12"/></svg>
-          {{ if $isFr }}Première consultation gratuite{{ else if $isAr }}الاستشارة الأولى مجانية{{ else if $isEs }}Primera consulta gratuita{{ else }}First consultation free{{ end }}
         </li>
       </ul>
     </div>
