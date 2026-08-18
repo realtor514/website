@@ -102,8 +102,13 @@
           </div>
 
           {{ with .Params.sourceURL }}
+          {{ $isCentris := in . "centris.ca" }}
           <a href="{{ . }}" target="_blank" rel="noopener" class="listing-sidebar__source">
-            {{ if $isFr }}Voir la fiche officielle RE/MAX{{ else if $isAr }}عرض البطاقة الرسمية RE/MAX{{ else if $isEs }}Ver la ficha oficial RE/MAX{{ else }}View the official RE/MAX listing{{ end }} &rsaquo;
+            {{ if $isCentris }}
+              {{ if $isFr }}Voir la fiche officielle Centris{{ else if $isAr }}عرض البطاقة الرسمية Centris{{ else if $isEs }}Ver la ficha oficial Centris{{ else }}View the official Centris listing{{ end }}
+            {{ else }}
+              {{ if $isFr }}Voir la fiche officielle RE/MAX{{ else if $isAr }}عرض البطاقة الرسمية RE/MAX{{ else if $isEs }}Ver la ficha oficial RE/MAX{{ else }}View the official RE/MAX listing{{ end }}
+            {{ end }} &rsaquo;
           </a>
           {{ end }}
         </div>
