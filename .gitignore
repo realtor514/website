@@ -2,3 +2,7 @@ public/
 .hugo_build.lock
 .env
 .env.local
+
+# les reels se refabriquent en 90 secondes, inutile de versionner 20 Mo par version
+reels/*/reel.mp4
+__pycache__/
