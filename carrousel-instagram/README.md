@@ -11,6 +11,7 @@ generateur et sa legende:
 |-------------|---------|
 | 28, rue St-Hilaire, Longueuil (Centris 26368231) | `28-rue-st-hilaire-longueuil/`, genere par `generer-carrousel.py` |
 | 35, terrasse Jacques-Leonard, Montreal (Centris 15815581) | `35 terrasse jacques leonard/`, avec son propre `generer-carrousel.py` et son `README.md` |
+| 4071, rang Saint-Hyacinthe, Mirabel (Centris 26269222) | `4071 rang saint-hyacinthe mirabel/`, avec son propre `generer-carrousel.py` et son `README.md` |
 
 ## 28, rue St-Hilaire, Longueuil (Centris 26368231)
 
@@ -94,22 +95,28 @@ Centris 26368231
 
 ## Dossier sources
 
-`sources/` contient les portraits des courtiers, les photos qui ne viennent
-pas de Centris, et les photos du 35, terrasse Jacques-Leonard:
+`sources/` contient les portraits des courtiers et les photos de chaque
+inscription. Les trois generateurs lisent tous dans ce dossier:
 
 | Fichier | Origine | Utilise |
 |---------|---------|---------|
-| `georges-matar-decoupe.png` | Portrait detoure, repose sur un fond studio par le script | Slide 8 des deux carrousels |
-| `rovena-pistoli.jpg` | Portrait officiel, telecharge de sa fiche RE/MAX DU CARTIER | Slide 8 des deux carrousels |
+| `georges-matar-decoupe.png` | Portrait detoure, repose sur un fond studio par le script | Slide 8 des trois carrousels |
+| `rovena-pistoli.jpg` | Portrait officiel, telecharge de sa fiche RE/MAX DU CARTIER | Slide 8 des trois carrousels |
 | `pancarte-01.jpg`, `pancarte-02.jpg` | Photos du terrain du 28, rue St-Hilaire | Non |
 | `4.png`, `5.png`, `6.png` | Photos du 28, rue St-Hilaire | Slides 1, 3 et 5 de ce carrousel |
 | `0-façade.png` a `16-parc et piscine privés du domaine.png` | Photos du 35, terrasse Jacques-Leonard | Carrousel Jacques-Leonard |
+| `01-Facade principale.png` a `29-Vue du terrain.png` | Photos du 4071, rang Saint-Hyacinthe | Carrousel Mirabel |
 
 Les deux photos de pancarte sont conservees pour les publications simples
 (story, publication unique le jour de l installation), pas pour le carrousel.
 
 Les fichiers `georges-matar-decoupe - Copy.png` et `rovena-pistoli - Copy.jpg`
 sont des doublons: aucun script ne les lit.
+
+**Ne pas vider `sources/` en deposant les photos d une nouvelle inscription.**
+Les trois generateurs y lisent leurs photos: effacer le contenu casse les
+carrousels precedents. Les noms de fichiers des trois inscriptions ne se
+marchent pas dessus, tout peut cohabiter dans le meme dossier.
 
 ## Regenerer
 
