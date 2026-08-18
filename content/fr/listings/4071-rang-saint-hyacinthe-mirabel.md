@@ -77,7 +77,7 @@ L'étage compte trois autres chambres, une seconde salle de bain complète et un
 
 ## La grange
 
-Une grange de bois sur deux étages occupe le terrain, à côté de la maison. Elle sert de garage et d'espace de rangement. Un poulailler complète les bâtiments secondaires.
+Une grange de bois sur deux étages occupe le terrain, à côté de la maison. Elle sert d'espace de rangement. Un poulailler complète les bâtiments secondaires.
 
 ## Les chiffres
 

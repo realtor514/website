@@ -77,7 +77,7 @@ En el exterior, una amplia galería de madera da frente a los campos. La entrada
 
 ## El granero
 
-Un granero de madera de dos pisos ocupa el terreno, junto a la casa. Sirve de garaje y de espacio de almacenamiento. Un gallinero completa las construcciones secundarias.
+Un granero de madera de dos pisos ocupa el terreno, junto a la casa. Sirve de espacio de almacenamiento. Un gallinero completa las construcciones secundarias.
 
 ## Las cifras
 

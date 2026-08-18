@@ -77,7 +77,7 @@ Outside, a large wooden gallery faces the fields. The driveway holds two vehicle
 
 ## The barn
 
-A two-storey wooden barn sits on the property, next to the house. It serves as garage and storage space. A chicken coop completes the outbuildings.
+A two-storey wooden barn sits on the property, next to the house. It serves as storage space. A chicken coop completes the outbuildings.
 
 ## The numbers
 
