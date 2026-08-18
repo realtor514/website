@@ -45,7 +45,7 @@
             </div>
             <div>
               <span class="contact-detail__label">{{ if $isFr }}Bureau{{ else if $isAr }}المكتب{{ else if $isEs }}Oficina{{ else }}Office{{ end }}</span>
-              <span class="contact-detail__value">{{ .Site.Params.address }}</span>
+              <span class="contact-detail__value"><bdi dir="ltr">{{ .Site.Params.address }}</bdi></span>
             </div>
           </div>
 

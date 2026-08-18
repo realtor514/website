@@ -16,7 +16,7 @@
     </div>
     {{ with .Params.status }}<p class="content-hero__category">{{ . }}</p>{{ end }}
     <h1 class="content-hero__title">{{ .Title }}</h1>
-    <p class="content-hero__meta">{{ .Params.address }}</p>
+    <p class="content-hero__meta"><bdi dir="ltr">{{ .Params.address }}</bdi></p>
   </div>
 </section>
 
@@ -61,11 +61,11 @@
       <div>
         <div class="listing-sidebar">
           {{ with .Params.price }}<div class="listing-sidebar__price">{{ . }}</div>{{ end }}
-          <div class="listing-sidebar__address">{{ .Params.address }}</div>
+          <div class="listing-sidebar__address"><bdi dir="ltr">{{ .Params.address }}</bdi></div>
 
           {{ with .Params.mls }}
           <div class="listing-sidebar__mls">
-            {{ if $isFr }}No Centris{{ else if $isAr }}رقم Centris{{ else if $isEs }}N.º Centris{{ else }}Centris no.{{ end }} <strong>{{ . }}</strong>
+            {{ if $isFr }}No Centris{{ else if $isAr }}رقم Centris{{ else if $isEs }}N.º Centris{{ else }}Centris no.{{ end }} <strong><bdi dir="ltr">{{ . }}</bdi></strong>
           </div>
           {{ end }}
 

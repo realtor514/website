@@ -13,8 +13,8 @@ translationKey: "confidentialite"
 
 جورج مطر، وسيط عقاري سكني في RE/MAX DU CARTIER INC.
 
-- المكتب: 2820, boul. Saint-Martin Est, bureau 201, Laval (Duvernay), Québec H7E 5A1
-- الهاتف: (438) 372-0102
+- المكتب: <bdi dir="ltr">2820, boul. Saint-Martin Est, bureau 201, Laval (Duvernay), Québec H7E 5A1</bdi>
+- الهاتف: <bdi dir="ltr">(438) 372-0102</bdi>
 - البريد الإلكتروني: georges.matar@remax-quebec.com
 
 يمكن توجيه أي سؤال يتعلق بحماية معلوماتك إلى هذه العناوين.

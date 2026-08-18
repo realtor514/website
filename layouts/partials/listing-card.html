@@ -16,7 +16,7 @@
           <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
           <circle cx="12" cy="10" r="3"/>
         </svg>
-        {{ .Params.address | default .Title }}
+        {{ with .Params.address }}<bdi dir="ltr">{{ . }}</bdi>{{ else }}{{ .Title }}{{ end }}
       </p>
       <div class="listing-card__features">
         {{ with .Params.bedrooms }}

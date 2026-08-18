@@ -1,0 +1,87 @@
+{{- if eq .Lang "ar" -}}
+<script>
+/* Chiffres arabo-indiens (٠-٩) sur les pages /ar/.
+   Convertit les chiffres latins du texte visible: prix, chambres, dates,
+   superficies, pourcentages, resultats des calculateurs.
+   Exclus volontairement (valeurs qu on copie, compose ou saisit):
+   telephone, adresses, numero Centris, champs de formulaire, scripts.
+   Tout element marque dir="ltr" ou data-latin-num est ignore. */
+(function () {
+  var AR    = '٠١٢٣٤٥٦٧٨٩';
+  var MILLE = '٬'; /* separateur des milliers arabe */
+  var VIRG  = '٫'; /* separateur decimal arabe */
+  var SKIP  = 'script,style,noscript,template,code,pre,kbd,samp,input,textarea,svg,'
+            + 'a[href^="tel:"],a[href^="mailto:"],[dir="ltr"],[data-latin-num]';
+  var DIGIT = /[0-9]/;
+  var LATIN = /[A-Za-z]/;
+
+  function localize(s) {
+    var prev;
+    /* 449 000 / 450,000  ->  ٤٤٩٬٠٠٠
+       La classe contient: espace, U+00A0, U+202F, virgule.
+       Un separateur non neutre garde les tranches dans le bon ordre en RTL:
+       avec une espace ordinaire, 449 000 s affichait 000 449. */
+    do {
+      prev = s;
+      s = s.replace(/([0-9])[   ,]([0-9]{3})(?![0-9])/g, '$1' + MILLE + '$2');
+    } while (s !== prev);
+    /* Un nombre colle a des lettres latines fait partie d un mot latin et
+       reste tel quel: DIX30, H7E 5A1, 1-844-REMAXTT, m2. */
+    return s.replace(/\S+/g, function (mot) {
+      if (LATIN.test(mot)) return mot;
+      return mot.replace(/([0-9])\.([0-9])/g, '$1' + VIRG + '$2')
+                .replace(/[0-9]/g, function (d) { return AR.charAt(+d); });
+    });
+  }
+
+  function convertText(node) {
+    if (!DIGIT.test(node.nodeValue)) return;
+    var parent = node.parentElement;
+    if (!parent || parent.closest(SKIP)) return;
+    node.nodeValue = localize(node.nodeValue);
+  }
+
+  function convert(root) {
+    if (!root) return;
+    if (root.nodeType === 3) { convertText(root); return; }
+    if (root.nodeType !== 1 && root.nodeType !== 9 && root.nodeType !== 11) return;
+    if (root.nodeType === 1 && root.closest(SKIP)) return;
+    var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, null, false);
+    var nodes = [], n;
+    while ((n = walker.nextNode())) nodes.push(n);
+    for (var i = 0; i < nodes.length; i++) convertText(nodes[i]);
+  }
+
+  convert(document.body);
+
+  /* Sens inverse pour les champs chiffres des calculateurs: un visiteur
+     avec un clavier arabe tape ٥٠٠, les calculateurs lisent du latin. */
+  var NUM_FIELD = 'input[type="number"],input[inputmode="numeric"],input[type="tel"]';
+  document.addEventListener('input', function (e) {
+    var el = e.target;
+    if (!el || !el.matches || !el.matches(NUM_FIELD)) return;
+    var v = el.value;
+    if (!/[٠-٩٬٫]/.test(v)) return;
+    /* selectionStart leve une exception sur input[type=number] */
+    var start = null, end = null;
+    try { start = el.selectionStart; end = el.selectionEnd; } catch (err) {}
+    el.value = v.replace(/[٠-٩]/g, function (d) { return String(AR.indexOf(d)); })
+                .replace(/٬/g, ',').replace(/٫/g, '.');
+    if (start !== null) { try { el.setSelectionRange(start, end); } catch (err) {} }
+  }, true);
+
+  /* Les calculateurs reecrivent leurs resultats a chaque saisie:
+     on reconvertit ce qui change. La conversion est idempotente,
+     donc pas de boucle avec l observateur. */
+  if (window.MutationObserver) {
+    new MutationObserver(function (records) {
+      for (var i = 0; i < records.length; i++) {
+        var r = records[i];
+        if (r.type === 'characterData') { convertText(r.target); continue; }
+        for (var j = 0; j < r.addedNodes.length; j++) convert(r.addedNodes[j]);
+      }
+    }).observe(document.body, { childList: true, subtree: true, characterData: true });
+  }
+})();
+</script>
+{{- end -}}

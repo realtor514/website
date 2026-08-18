@@ -980,6 +980,9 @@ p:last-child { margin-bottom: 0; }
 [dir="rtl"] .stat-item:first-child { border-left: 1px solid rgba(255,255,255,.2); }
 [dir="rtl"] .stat-item:last-child { border-left: none; }
 [dir="rtl"] .content-body blockquote { border-left: none; border-right: 4px solid var(--red); border-radius: var(--radius-lg) 0 0 var(--radius-lg); }
+/* Puces numerotees en chiffres arabo-indiens */
+[dir="rtl"] ol { list-style-type: arabic-indic; }
+[dir="rtl"] .content-body ul, [dir="rtl"] .content-body ol { margin: 0 24px 22px 0; }
 
 /* ── Mortgage Calculator ── */
 .mc-section { background: var(--off-white); }
