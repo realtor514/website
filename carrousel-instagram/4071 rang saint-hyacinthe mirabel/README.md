@@ -41,7 +41,7 @@ Une maison de campagne construite en 1935, dans la même famille depuis 1990, su
 Deux cuisines, une par étage
 Poêle à combustion lente au rez-de-chaussée
 Vaste galerie de bois face aux champs
-Grange-garage de bois sur deux étages
+Grange de bois sur deux étages
 
 Revêtement extérieur de vinyle refait en 2024.
 Thermopompe centrale de 2022 et génératrice neuve installée en 2025.

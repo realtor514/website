@@ -54,9 +54,11 @@ GRANGE = "19-Grange - vue exterieure.png"
 COTE = "25-Vue exterieure 2.png"
 GALERIE = "28-Galerie - vue vers la rue.png"
 
-# la galerie blanche de la couverture tombe pile sous le titre: la photo
-# descend jusqu a 940 pour que le texte se pose sur la pelouse, plus sombre
-COUV_BAS = 940
+# la photo de couverture s arrete a 900 comme dans les deux autres
+# carrousels: dans la grille Instagram, la ligne entre la photo et le bandeau
+# blanc doit tomber a la meme hauteur sur les trois. Le titre descend donc
+# dans la photo pour se poser sur la pelouse plutot que sur la galerie blanche.
+COUV_BAS = 900
 
 PORTRAIT_GEORGES = "georges-matar-decoupe.png"
 PORTRAIT_ROVENA = "rovena-pistoli.jpg"
@@ -361,20 +363,20 @@ def slide1():
     gradient(c, 430, COUV_BAS, 210)
     d = ImageDraw.Draw(c)
 
-    d.text((M, 596), ADRESSE_1, font=playfair(78, 700), fill=WHITE)
-    d.text((M, 692), ADRESSE_2, font=playfair(78, 700), fill=WHITE)
-    d.text((M, 804), SECTEUR, font=inter(32, 400), fill=(255, 255, 255, 225))
-    badge(c, (M, 866), "NOUVEAUTÉ", fill=NAVY, size=24, track=4,
+    d.text((M, 556), ADRESSE_1, font=playfair(78, 700), fill=WHITE)
+    d.text((M, 652), ADRESSE_2, font=playfair(78, 700), fill=WHITE)
+    d.text((M, 764), SECTEUR, font=inter(32, 400), fill=(255, 255, 255, 225))
+    badge(c, (M, 826), "NOUVEAUTÉ", fill=NAVY, size=24, track=4,
           pad=(30, 15), r=6)
 
-    eyebrow(c, (M, 1002), "PRIX DEMANDÉ")
-    d.text((M, 1040), PRIX, font=playfair(64, 800), fill=NAVY)
-    tracked(d, (W - M, 1002), "ÉQUIPE PISTOLI", inter(23, 800), NAVY, 5, "r")
-    d.text((W - M, 1044), "Centris " + CENTRIS, font=inter(25, 400), fill=GREY,
+    eyebrow(c, (M, 962), "PRIX DEMANDÉ")
+    d.text((M, 1000), PRIX, font=playfair(64, 800), fill=NAVY)
+    tracked(d, (W - M, 962), "ÉQUIPE PISTOLI", inter(23, 800), NAVY, 5, "r")
+    d.text((W - M, 1004), "Centris " + CENTRIS, font=inter(25, 400), fill=GREY,
            anchor="ra")
 
-    d.line([M, 1164, W - M, 1164], fill=LINE + (255,), width=2)
-    signature(c, 1196)
+    d.line([M, 1136, W - M, 1136], fill=LINE + (255,), width=2)
+    signature(c, 1172)
     return c
 
 
@@ -495,7 +497,7 @@ def slide6():
     y += 122
 
     for ic, t in [("land", "Terrain de 22 152 pi², plat et gazonné"),
-                  ("barn", "Grange-garage de bois sur deux étages"),
+                  ("barn", "Grange de bois sur deux étages"),
                   ("tree", "Un rang bordé de champs, sans vis-à-vis"),
                   ("train", "Services à Saint-Benoît, autoroute 50")]:
         icon(c, ic, (M, y - 2), 38, NAVY + (255,))
