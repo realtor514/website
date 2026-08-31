@@ -68,6 +68,8 @@
             {{ if $isFr }}Remplir le formulaire de contact{{ else if $isAr }}تعبئة استمارة الاتصال{{ else if $isEs }}Completar el formulario de contacto{{ else }}Fill out the contact form{{ end }}
           </a>
         </div>
+
+        {{ partial "social-links.html" (dict "ctx" . "variant" "contact") }}
       </div>
 
       <div>

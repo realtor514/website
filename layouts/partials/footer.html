@@ -36,6 +36,8 @@
           </svg>
           {{ if $isFr }}Prendre rendez-vous{{ else if $isAr }}احجز موعداً{{ else if $isEs }}Reservar una cita{{ else }}Book a Meeting{{ end }}
         </button>
+
+        {{ partial "social-links.html" (dict "ctx" . "variant" "footer") }}
       </div>
 
       <div>

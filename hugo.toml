@@ -754,11 +754,12 @@ defaultContentLanguageInSubdir = false
   # Fiche Google Business. Alimente sameAs et hasMap dans le JSON-LD.
   googleBusinessURL = "https://maps.google.com/?cid=7533992484077488450"
 
-  # Profils sociaux (laisser vide si inexistant, ils alimentent le sameAs du schema)
-  facebook  = ""
-  instagram = ""
+  # Profils sociaux (laisser vide si inexistant, ils alimentent le sameAs du schema
+  # et la rangee d icones dans le pied de page et la section contact)
+  facebook  = "https://www.facebook.com/share/197exME6zc/"
+  instagram = "https://www.instagram.com/georgesmatar.ca"
   linkedin  = ""
-  youtube   = ""
+  youtube   = "https://www.youtube.com/channel/UCeypcVDGZVlJkEK8FHLP5ag"
 
   areasServed = ["Laval", "Montréal", "Longueuil", "Brossard", "Terrebonne", "Blainville", "Repentigny", "Boucherville", "Saint-Bruno-de-Montarville", "Chambly", "La Prairie", "Candiac", "Delson", "Saint-Jérôme", "Boisbriand", "Sainte-Thérèse", "Rosemère", "Mascouche", "Saint-Eustache", "Mirabel", "Sainte-Julie", "Varennes", "Châteauguay", "Saint-Constant", "Rive-Nord", "Rive-Sud", "Laurentides", "Lanaudière", "Montérégie", "Saint-Hubert", "Greenfield Park", "Sainte-Catherine", "Lorraine", "Carignan"]
 

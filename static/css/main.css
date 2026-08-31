@@ -208,6 +208,10 @@ p:last-child { margin-bottom: 0; }
 }
 .nav__menu { display: flex; align-items: center; gap: 4px; }
 .nav__link {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1.15;
+  white-space: nowrap;
   color: rgba(255,255,255,.82);
   font-size: .87rem;
   font-weight: 500;
@@ -2657,6 +2661,39 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
   color: var(--white);
   transform: translateY(-1px);
   box-shadow: 0 6px 20px rgba(176,0,0,.35);
+}
+
+/* ── Reseaux sociaux (pied de page + section contact) ── */
+.socials { margin-top: 28px; }
+.socials--contact { margin-top: 32px; }
+.socials__label {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-size: .68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  color: rgba(255,255,255,.55);
+  margin-bottom: 12px;
+}
+.socials__row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.socials__link {
+  width: 40px; height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: rgba(255,255,255,.06);
+  border: 1px solid rgba(255,255,255,.13);
+  color: rgba(255,255,255,.75);
+  transition: var(--transition);
+}
+.socials__link:hover {
+  background: var(--red);
+  border-color: var(--red);
+  color: var(--white);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(176,0,0,.35);
 }
 
 /* ── Service card icon: fond plus contrastant ── */
