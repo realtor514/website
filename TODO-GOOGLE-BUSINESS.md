@@ -294,10 +294,7 @@ Etat verifie dans le depot le 2026-08-31.
       Saint-Basile-le-Grand, Beloeil, Mont-Saint-Hilaire. Attention, les trois
       premieres sont deja declarees dans `areasServed` du schema alors qu
       elles n ont pas de page, ce qui est incoherent aux yeux de Google.
-- [ ] Retirer le `@import` de polices Google en tete de `main.css`: les memes
-      polices sont deja chargees par une balise `link` dans `baseof.html`,
-      donc elles sont telechargees deux fois et l import bloque le rendu.
-      Gain direct sur le LCP, une ligne a supprimer.
-- [ ] Corriger les trois commentaires mal ouverts dans `enhance.css` (lignes
-      474, 488 et 496): un `\*` au lieu de `/*` annule silencieusement les
-      regles qui suivent, dont le voile de lisibilite de la barre de nav.
+- [x] Retirer le `@import` de polices Google en tete de `main.css` - FAIT le
+      2026-08-31. Les memes polices etaient deja chargees par une balise
+      `link` dans les deux `baseof.html`, donc telechargees deux fois, et l
+      import bloquait le rendu jusqu a sa reception. Gain direct sur le LCP.

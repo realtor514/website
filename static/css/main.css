@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&display=swap');
+/* Les polices sont chargees par une balise link dans baseof.html, avant ce
+   fichier. Ne pas remettre d @import ici: il serait telecharge une seconde
+   fois et bloquerait le rendu jusqu a sa reception. */
 
 :root {
   --navy:       #0a1628;
@@ -911,6 +913,42 @@ p:last-child { margin-bottom: 0; }
 .content-body li { margin-bottom: 9px; line-height: 1.65; font-size: 1.05rem; }
 .content-body img { border-radius: var(--radius-lg); margin: 36px 0; width: 100%; }
 .content-body blockquote { border-left: 4px solid var(--red); padding: 18px 28px; margin: 36px 0; background: var(--off-white); border-radius: 0 var(--radius-lg) var(--radius-lg) 0; font-style: italic; font-size: 1.08rem; }
+
+/* Tableaux du corps des articles. Le conteneur .table-wrap vient du render
+   hook layouts/_default/_markup/render-table.html et permet le defilement
+   horizontal sur petit ecran sans pousser la page. */
+.table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 32px 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+}
+.content-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .95rem;
+  margin: 0;
+}
+.content-body th,
+.content-body td {
+  padding: 11px 16px;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+.content-body th {
+  background: var(--off-white);
+  color: var(--navy);
+  font-weight: 600;
+  letter-spacing: .01em;
+}
+.content-body td { color: var(--text); }
+.content-body tbody tr:last-child th,
+.content-body tbody tr:last-child td { border-bottom: none; }
+[dir="rtl"] .content-body th,
+[dir="rtl"] .content-body td { text-align: right; }
 
 /* ── Listing detail ── */
 .listing-gallery { display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: repeat(2, 230px); gap: 8px; border-radius: var(--radius-xl); overflow: hidden; margin-bottom: 56px; }
