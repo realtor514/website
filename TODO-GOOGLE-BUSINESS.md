@@ -19,11 +19,12 @@ cliquant sur **"Editer la fiche"**.
   d office ou une suspension.
   **Status:** pending
 
-- [ ] **Envoyer a Claude les liens de profils sociaux**
-  Facebook, Instagram, LinkedIn, YouTube, TikTok.
-  Claude les ajoute dans le `sameAs` du schema du site, ce qui renforce
-  l entite dans le Knowledge Graph.
-  **Status:** pending
+- [x] **Envoyer a Claude les liens de profils sociaux**
+  Recus et integres le 2026-08-31: Instagram, Facebook, YouTube. Ils sont dans
+  le `sameAs` du schema et affiches en icones dans le pied de page et la
+  section contact, dans les 4 langues.
+  Manquent encore, si tu les crees un jour: LinkedIn et TikTok.
+  **Status:** done
 
 ---
 
@@ -31,13 +32,20 @@ cliquant sur **"Editer la fiche"**.
 
 - [ ] Ouvrir l onglet **Coordonnees**
 - [ ] Section **"Profils sociaux"**, cliquer sur **Ajouter**
-- [ ] Ajouter Facebook
-- [ ] Ajouter Instagram
-- [ ] Ajouter LinkedIn
-- [ ] Ajouter YouTube (si existant)
-- [ ] Ajouter TikTok (si existant)
-- [ ] Enregistrer
-- [ ] Copier les memes liens et les envoyer a Claude
+- [ ] Coller les trois liens ci-dessous, un par un, puis **Enregistrer**
+
+```
+https://www.instagram.com/georgesmatar.ca
+https://www.facebook.com/share/197exME6zc/
+https://www.youtube.com/channel/UCeypcVDGZVlJkEK8FHLP5ag
+```
+
+Ce sont exactement les memes liens que ceux du site, c est voulu: Google
+recoupe les deux sources et confirme qu il s agit de la meme entite.
+
+Pour Facebook, si tu retrouves l adresse directe de ta page (du type
+`facebook.com/nomdelapage`), utilise-la plutot que le lien de partage, et
+envoie-la moi pour que je la corrige aussi sur le site.
 
 **Status:** pending
 
@@ -143,7 +151,7 @@ reprendre telles quelles: https://georgesmatar.ca/#faq
 
 Format: 1 photo + 2 phrases + bouton "En savoir plus" vers un article du site.
 
-58 articles publies, donc plus d un an de contenu hebdomadaire sans repetition.
+63 articles publies, donc plus d un an de contenu hebdomadaire sans repetition.
 
 - [ ] Publier le premier post
 - [ ] Mettre un rappel recurrent hebdomadaire dans l agenda
@@ -271,11 +279,25 @@ relais.
 
 ## CE QUE CLAUDE FERA A LA REPRISE
 
-- [ ] Integrer les profils sociaux au `sameAs` du schema (des reception)
+Etat verifie dans le depot le 2026-08-31.
+
+- [x] Integrer les profils sociaux au `sameAs` du schema - FAIT le 2026-08-31
 - [ ] Integrer le lien de demande d avis sur le site (des reception)
 - [ ] Ajouter le schema `AggregateRating` une fois que la note et le nombre
       d avis sont stables (minimum 5 avis)
-- [ ] Completer l espagnol: 62 pages contre 111 en FR et EN, environ 32
-      articles manquants
-- [ ] Etoffer les 49 articles courts de 250 a 350 mots vers 800 a 1500 mots,
-      en priorite les 10 plus commerciaux
+- [ ] Etoffer les articles courts: 44 des 63 articles FR font moins de 400
+      mots, 7 sont entre 400 et 800, seulement 12 depassent 800 mots.
+      Priorite aux 10 plus commerciaux.
+- [ ] Completer l espagnol: 14 articles contre 63 en FR, EN et AR, donc 49
+      articles manquants. C est le plus gros trou du site.
+- [ ] Ajouter les 6 villes manquantes: Sainte-Catherine, Lorraine, Carignan,
+      Saint-Basile-le-Grand, Beloeil, Mont-Saint-Hilaire. Attention, les trois
+      premieres sont deja declarees dans `areasServed` du schema alors qu
+      elles n ont pas de page, ce qui est incoherent aux yeux de Google.
+- [ ] Retirer le `@import` de polices Google en tete de `main.css`: les memes
+      polices sont deja chargees par une balise `link` dans `baseof.html`,
+      donc elles sont telechargees deux fois et l import bloque le rendu.
+      Gain direct sur le LCP, une ligne a supprimer.
+- [ ] Corriger les trois commentaires mal ouverts dans `enhance.css` (lignes
+      474, 488 et 496): un `\*` au lieu de `/*` annule silencieusement les
+      regles qui suivent, dont le voile de lisibilite de la barre de nav.
