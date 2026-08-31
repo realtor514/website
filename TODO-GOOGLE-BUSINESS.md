@@ -285,11 +285,19 @@ Etat verifie dans le depot le 2026-08-31.
 - [ ] Integrer le lien de demande d avis sur le site (des reception)
 - [ ] Ajouter le schema `AggregateRating` une fois que la note et le nombre
       d avis sont stables (minimum 5 avis)
-- [ ] Etoffer les articles courts: 44 des 63 articles FR font moins de 400
-      mots, 7 sont entre 400 et 800, seulement 12 depassent 800 mots.
-      Priorite aux 10 plus commerciaux.
-- [ ] Completer l espagnol: 14 articles contre 63 en FR, EN et AR, donc 49
-      articles manquants. C est le plus gros trou du site.
+- [x] Les 10 articles les plus commerciaux - FAIT le 2026-08-31. Six sujets
+      etaient trop courts et ont ete refaits dans les 4 langues: commission,
+      mise de fonds, choix du courtier, taxes foncieres, courtier contre
+      agent, cote de credit. Les quatre autres etaient deja solides, il leur
+      manquait l espagnol, qui a ete ajoute. Mediane FR passee de 294 a
+      environ 360 mots, articles FR de plus de 800 mots passes de 12 a 21.
+- [ ] Etoffer le reste des articles courts: il reste environ 38 articles FR
+      sous 400 mots et 40 articles AR sous 400 mots. Le francais et l arabe
+      sont des resumes de la version anglaise, ce qui est a l envers pour le
+      marche vise.
+- [ ] Completer l espagnol: 42 articles manquants sur 63 groupes. Les sujets
+      les plus commerciaux sont maintenant couverts, il reste le contenu
+      secondaire.
 - [ ] Ajouter les 6 villes manquantes: Sainte-Catherine, Lorraine, Carignan,
       Saint-Basile-le-Grand, Beloeil, Mont-Saint-Hilaire. Attention, les trois
       premieres sont deja declarees dans `areasServed` du schema alors qu

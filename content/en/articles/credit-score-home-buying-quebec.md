@@ -1,83 +1,140 @@
 ---
-title: "Your Credit Score Is Quietly Blocking Your Dream Home (Here's the Fix)"
+title: "Your Credit Score Is Quietly Blocking Your Dream Home (and How to Fix It)"
 date: 2026-05-17
+lastmod: 2026-08-31
 category: "Buyer's Guide"
-description: "Most buyers discover their credit score is a problem when it's too late - during mortgage approval. Here's what to check, what to fix, and how long it actually takes."
+description: "The thresholds lenders actually use, the five factors behind your score, what you can fix in 30 days and what takes years, and the thin file trap that is very common in Quebec."
 image: "images/articles/credit-score-home-buying-quebec/featured.jpg"
 ---
 
-Take a typical buyer: a software engineer, great job, solid savings, excited to buy his first condo in Laval. He finds the perfect place. He makes the offer. It is accepted. And then, three days before the financing condition deadline, his mortgage broker calls.
+Picture a typical buyer: software engineer, good job, solid savings, excited
+about his first condo in Laval. He finds the place. He makes an offer. It is
+accepted. Then, three days before the financing condition deadline, his mortgage
+broker calls.
 
 Credit score: 618.
 
-The minimum for a conventional mortgage with a major bank in Canada is typically 680. The deal fell through. The seller kept his deposit. Twelve months later, after serious credit work, he bought a property - but not the one he wanted, and at a higher price because the market had moved.
+The deal collapses. Twelve months later, after real work on his credit, he buys,
+but not that property, and at a higher price because the market had moved.
 
-That story repeats itself more than you'd think. Here's how to make sure it's not yours.
+That story repeats more often than people think, and it is almost always
+avoidable. Here is how.
 
-## What Credit Score Do You Actually Need?
+## What score do you actually need?
 
-In Canada, mortgage lenders generally use the following thresholds:
+Thresholds vary between lenders, but the orders of magnitude used in Canada are
+fairly stable:
 
-- **760+:** Best rates, maximum flexibility, any lender
-- **700-759:** Strong approval chances, competitive rates
-- **680-699:** Generally approvable with major banks, standard rates
-- **620-679:** May require a B-lender or higher rate, limited options
-- **Below 620:** Difficult to finance conventionally; private lending territory
+| Score | What it means in practice |
+|---|---|
+| 760 and up | Best available rates, maximum flexibility |
+| 700 to 759 | Good approval odds, competitive rates |
+| 680 to 699 | Generally approvable at a major bank |
+| 620 to 679 | Alternative lender likely, higher rate |
+| Under 620 | Conventional financing is difficult |
 
-The number isn't the whole picture - lenders also examine your full credit report, including the history of individual accounts - but it's the first filter.
+Two details that matter:
 
-## The Five Factors That Build (or Destroy) Your Score
+**For an insured mortgage**, meaning less than 20% down, the insurer requires a
+minimum score of roughly 600 for at least one borrower. Below that, the insurance
+is refused, so the loan is too.
 
-**1. Payment history (35% of your score)**
+**The score is not the only criterion.** The lender also looks at your debt
+ratios, the stability of your income and the nature of your employment. An
+excellent score does not offset debt ratios that are too high, and the reverse is
+true as well.
 
-Every missed payment, late payment, or account sent to collections stays on your credit report for 6-7 years. One missed credit card payment from three years ago can still be dragging your score today. Set up automatic payments for every account, minimum balance at a minimum.
+## The five factors, by weight
 
-**2. Credit utilization (30% of your score)**
+**1. Payment history, about 35%.** The dominant factor by far. A single payment
+more than thirty days late can drop a good score by dozens of points, and the
+entry stays on file for about six years. Automate at least the minimum payment on
+every account: it is the highest return protection there is.
 
-This is the ratio of your used credit to your available credit. Using $4,500 of a $5,000 limit is 90% utilization - terrible for your score. Using $500 of the same limit is 10% - excellent. The golden rule: keep utilization below 30% on every card, and below 10% if you're actively trying to build your score.
+**2. Utilization, about 30%.** The share of your limit that you use. Aim for
+under 30%, and under 10% if you are actively trying to raise your score.
 
-**3. Length of credit history (15%)**
+A detail almost nobody knows: what counts is not your end of month balance, it is
+**the balance at the moment the issuer reports your statement**. You can pay your
+card in full every month and still show 80% utilization if your purchases land
+before the statement date. Pay part of it before that date and the effect shows up
+the following month.
 
-This is why younger buyers should never close their oldest credit card, even if they never use it. The age of the oldest account matters. A 10-year-old card used once a year for a small purchase is an asset.
+**3. Age of the file, about 15%.** Never close your oldest card, even unused. Its
+opening date supports the average age of your file, and closing an account also
+cuts your total limit, which pushes your utilization up. Two negative effects from
+one decision.
 
-**4. Credit mix (10%)**
+**4. Credit mix, about 10%.** Having both revolving credit, like a card, and
+instalment credit, like a car loan, shows you can handle both.
 
-Having both revolving credit (cards) and installment credit (car loan, line of credit, student loan) shows lenders you can manage different types of debt.
+**5. New applications, about 10%.** Every hard inquiry leaves a mark. They stay
+visible for about three years but weigh most in the first twelve months. Avoid any
+new application in the year before your mortgage request.
 
-**5. New credit inquiries (10%)**
+Worth noting: shopping your mortgage rate with several lenders over a short period
+is treated as a single search. It is the one case where multiple inquiries do not
+penalize you.
 
-Every time you apply for a new credit product, a hard inquiry appears on your report. Multiple inquiries in a short period signal financial stress to lenders. Avoid applying for any new credit in the 12 months before your mortgage application.
+## The thin file trap, very common in Quebec
 
-## The Quebec-Specific Wrinkle
+Many Quebecers use credit sparingly: one card, no debt, everything paid in cash.
+That is excellent personal management, and it is a problem for a lender.
 
-In Quebec, many people use credit less aggressively than elsewhere in Canada, which sounds like a good thing - but can actually create what's called a "thin credit file." If you have fewer than three active credit accounts, some lenders struggle to properly assess your risk, even if everything on your report is perfect.
+With fewer than three active accounts, or a history under two years, the system
+does not have enough data to compute a reliable risk. The result is not a bad
+score, it is an inconclusive one, and some lenders decline on that basis alone.
 
-The fix: get a second credit card or a small personal line of credit, use it regularly, and pay it in full. Two to three active accounts with clean histories is better than one perfect account.
+The fix is simple but takes time: open a second product, use it for small regular
+purchases, pay it before the statement date. It takes about twelve months for the
+file to become usable. That is exactly why you handle credit a year before buying,
+not three weeks before.
 
-## How Long Does It Actually Take to Fix?
+## What fixes fast, and what takes years
 
-This is the most common question. The honest answer depends on why your score is low:
+**In 30 to 60 days:** lowering utilization. It is the fastest lever available.
+Paying balances down before the statement date can move the score as early as the
+next cycle.
 
-- **High utilization only:** 1-2 months after paying down balances
-- **Recent missed payments:** 6-12 months of clean payment history to recover meaningfully
-- **Collection accounts:** 2-3 years for full recovery, though accounts over 2 years old carry less weight
-- **Limited credit history:** 12-18 months to build meaningful history from scratch
+**In 3 to 6 months:** getting an error corrected. They are more common than people
+think: a closed account still showing as active, a debt already settled, sometimes
+someone else's file under a similar name. You are entitled to your file free of
+charge from both Equifax and TransUnion. Request both, they do not always hold the
+same information, and dispute anything false in writing.
 
-If you're planning to buy within 2 years, check your score now. Use Equifax Canada or TransUnion's free annual report. If you see issues, you have time to fix them.
+**In 12 months and beyond:** erasing the effect of a late payment, building a thin
+file, recovering after a collection. There is no shortcut here, only clean
+payments, month after month.
 
-## A Practical Checklist Before Applying for a Mortgage
+Be wary of services promising to "repair your credit" quickly for a fee. What is
+accurate on the file cannot be removed, and anything false you can have corrected
+yourself, for free.
 
-Before you walk into any lender's office:
+## The checklist before requesting pre approval
 
-1. Pull your credit report from both Equifax and TransUnion (errors exist: wrong accounts, identity mix-ups)
-2. Get all credit card balances below 30% of their limits
-3. Don't apply for any new credit for at least 6 months
-4. Don't close old accounts
-5. Dispute any errors in writing - lenders are required to investigate
-6. Have 12 months of clean payment history minimum
+1. Pull both files, Equifax and TransUnion, and read them fully.
+2. Dispute any error in writing, and keep the proof.
+3. Bring every card under 30% of its limit, before the statement date.
+4. Do not close any account, even unused ones.
+5. No new credit application for at least six months.
+6. Automate all your minimum payments.
+7. Aim for twelve months of flawless payments before applying.
 
-The best time to think about your credit for a home purchase is the moment you start thinking about buying - not the moment you find the property.
+## Two mistakes that kill the deal after approval
+
+**Buying on credit between approval and signing.** The lender often re-checks your
+file just before funding. A car loan or furniture financing taken on in between can
+void the approval, days before signing at the notary.
+
+**Changing jobs during the process.** Even for better pay. Employment stability is
+part of the assessment, and a probation period restarts the clock.
+
+The right time to deal with your credit is the day you start thinking about
+buying. Not the day you find the property. The
+[affordability calculator](/en/tools/affordability/) gives you the other half of
+the picture: what your income actually supports.
 
 ---
 
-*Want to know if your financial profile is mortgage-ready? [Get in touch](/en/form/) to be connected with a trusted mortgage broker before looking at listings.*
+*Want to know whether your profile is mortgage ready? [Get in touch](/en/form/)
+and I will connect you with a mortgage broker I trust.*
