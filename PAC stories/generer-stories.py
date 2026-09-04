@@ -56,9 +56,8 @@ PROPRIETES = [
         slug="28-rue-st-hilaire-longueuil",
         adresse="28, rue St-Hilaire",
         secteur="Vieux-Longueuil, Longueuil",
-        prix="499 000 $", centris="26368231",
+        centris="26368231",
         hero=("03.jpg", 0.50, 0.42),
-        bandeau=["Une maison prête,", "un acheteur trouvé."],
         strip=[("09.jpg", 0.50, 0.50),
                ("06.jpg", 0.50, 0.50),
                ("24.jpg", 0.50, 0.50)],
@@ -69,9 +68,8 @@ PROPRIETES = [
         slug="4071-rang-saint-hyacinthe-mirabel",
         adresse="4071, rang Saint-Hyacinthe",
         secteur="Saint-Hermas, Mirabel",
-        prix="449 000 $", centris="26269222",
+        centris="26269222",
         hero=("25.jpg", 0.44, 0.55),
-        bandeau=["Une propriété rare,", "un acheteur qui la voit."],
         strip=[("06.jpg", 0.50, 0.50),
                ("27.jpg", 0.50, 0.55),
                ("28.jpg", 0.50, 0.28)],
@@ -337,9 +335,6 @@ def story(p):
 
     # ---- la nouvelle
     pastille(c, (M, 482), "PROMESSE D'ACHAT")
-    d.text((W - M, 492), p["prix"], font=playfair(46, 800), fill=WHITE,
-           anchor="ra")
-
     d.text((M - 6, 562), "ACCEPTÉE", font=playfair(118, 800), fill=WHITE)
 
     d.line([M, 748, W - M, 748], fill=(255, 255, 255, 96), width=2)
@@ -350,18 +345,12 @@ def story(p):
             (255, 255, 255, 176), 4, "r")
 
     # ---- trois photos de la propriete, en bandeau
-    gap, top, bh = 16, 956, 182
+    gap, top, bh = 16, 976, 212
     pw = (W - 2 * M - 2 * gap) // 3
     for i, (nom, fx, fy) in enumerate(p["strip"]):
         x = M + i * (pw + gap)
         photo(c, os.path.join(PHOTOS, p["slug"], nom),
               (x, top, x + pw, top + bh), r=14, fx=fx, fy=fy)
-
-    y = top + bh + 26
-    d.text((W // 2, y), p["bandeau"][0], font=inter(29, 600), fill=INK,
-           anchor="ma")
-    d.text((W // 2, y + 40), p["bandeau"][1], font=inter(29, 600), fill=INK,
-           anchor="ma")
 
     # ---- la relance: c est la que la story travaille pour le prochain mandat
     y = 1272

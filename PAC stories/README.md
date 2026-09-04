@@ -14,10 +14,10 @@ de mandats: il montre un résultat, pas une intention.
 De haut en bas, dans l'ordre où l'oeil la lit en trois secondes:
 
 1. **La photo de façade**, plein cadre, avec la pastille rouge PROMESSE
-   D'ACHAT et le mot ACCEPTÉE en gros. Le prix demandé est à droite: c'est
-   l'information que le voisinage cherche.
+   D'ACHAT et le mot ACCEPTÉE en gros.
 2. **L'adresse, le secteur et le numéro Centris**, pour que la propriété soit
-   identifiable et vérifiable.
+   identifiable et vérifiable. Le prix n'apparaît pas: la nouvelle, c'est
+   l'entente, et une story chargée de chiffres se fait passer.
 3. **Trois photos de la propriété**, la cuisine, une pièce de vie et
    l'extérieur, pour rappeler ce qui a été vendu.
 4. **La relance.** MERCI POUR VOTRE CONFIANCE d'un côté, ÉVALUATION GRATUITE
@@ -48,9 +48,10 @@ Quelques secondes par image. Le script lit les photos dans
 `static/images/listings/<slug>/`, les mêmes que la fiche du site, et le
 portrait détouré dans `carrousel-instagram/sources/`.
 
-Tout se règle en haut de `generer-stories.py`: l'adresse, le secteur, le prix,
-le numéro Centris, la photo de couverture, les trois photos du bandeau et les
-deux lignes de texte propres à la propriété. Une photo est un triplet
+Tout se règle en haut de `generer-stories.py`: l'adresse, le secteur, le
+numéro Centris, la photo de couverture et les trois photos du bandeau. Les
+textes communs aux deux stories, `EYEBROW`, `RELANCE` et `TAG`, sont juste en
+dessous. Une photo est un triplet
 `(fichier, fx, fy)`, où `fx` et `fy` donnent le point d'intérêt du recadrage:
 `fy=0.28` remonte le cadre vers le haut de la photo, `fy=0.5` reste au centre.
 
