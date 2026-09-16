@@ -13,6 +13,10 @@ generateur et sa legende:
 | 35, terrasse Jacques-Leonard, Montreal (Centris 15815581) | `35 terrasse jacques leonard/`, avec son propre `generer-carrousel.py` et son `README.md` |
 | 4071, rang Saint-Hyacinthe, Mirabel (Centris 26269222) | `4071 rang saint-hyacinthe mirabel/`, avec son propre `generer-carrousel.py` et son `README.md` |
 
+Le dossier `vendu/` ne contient pas de carrousel mais les reels VENDU: le
+meme montage que les reels d inscription, sans le texte de vente, avec le
+resultat obtenu pour les vendeurs a la place. Voir `vendu/README.md`.
+
 ## 28, rue St-Hilaire, Longueuil (Centris 26368231)
 
 Publier dans cet ordre exact. Instagram conserve l ordre d ajout des fichiers.

@@ -27,6 +27,7 @@ montage: un son tendance y vaut beaucoup plus de portee qu une musique
 importee.
 """
 import os
+import shutil
 import subprocess
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
@@ -49,6 +50,24 @@ ROOT = os.path.dirname(HERE)
 SOURCES = os.path.join(ROOT, "carrousel-instagram", "sources")
 FONTS = os.path.join(ROOT, "carrousel-instagram", "fonts")
 ASSETS = os.path.join(ROOT, "static", "images")
+
+
+# ---------------------------------------------------------------- encodeur
+def ffmpeg():
+    """Le ffmpeg du systeme s il existe, sinon celui livre par imageio-ffmpeg.
+
+    Rien a installer a la main sur un poste neuf: pip install imageio-ffmpeg
+    depose un binaire complet dans le site-packages.
+    """
+    exe = shutil.which("ffmpeg")
+    if exe:
+        return exe
+    try:
+        import imageio_ffmpeg
+        return imageio_ffmpeg.get_ffmpeg_exe()
+    except ImportError:
+        raise SystemExit("ffmpeg introuvable. Installer ffmpeg, ou lancer: "
+                         "pip install imageio-ffmpeg")
 
 
 # ---------------------------------------------------------------- polices
@@ -656,7 +675,7 @@ def rendre(clips, sortie, cover=None):
     clips[-1].sortie = 0                # la carte de contact reste a l ecran
 
     k = int(round(FONDU * FPS))
-    cmd = ["ffmpeg", "-y", "-loglevel", "error",
+    cmd = [ffmpeg(), "-y", "-loglevel", "error",
            "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", "%dx%d" % (W, H),
            "-r", str(FPS), "-i", "-",
            "-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=44100",
