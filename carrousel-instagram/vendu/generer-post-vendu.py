@@ -34,8 +34,11 @@ PHOTO_Y0, PHOTO_Y1 = 330, 970           # la bande de photo, pleine largeur
 
 COURTIER = "Georges Matar"
 TITRE = "Courtier immobilier résidentiel"
-EQUIPE = "AVEC L'ÉQUIPE PISTOLI"
-CONTACT = "438 372-0102   ·   GEORGESMATAR.CA"
+# l attribution a l Equipe Pistoli est due, mais elle n a pas a concurrencer
+# le nom du courtier: elle descend dans le pied, en gris pale, sous le titre
+EQUIPE = "Équipe Pistoli"
+GRIS_PALE = (152, 159, 172)
+CONTACT = "438 372-0102   ·   WWW.GEORGESMATAR.CA"
 
 
 # zoom: 1.0 garde la photo entiere sur la largeur. Au dela, on se rapproche
@@ -58,8 +61,7 @@ PROPRIETES = [
 def entete(c):
     """Le nom du courtier et l agence, comme un en-tete de papier a lettres."""
     d = ImageDraw.Draw(c)
-    tracked(d, (W // 2, 74), EQUIPE, inter(23, 700), GREY, 6, "c")
-    d.text((W // 2, 116), COURTIER, font=playfair(84, 700), fill=NAVY,
+    d.text((W // 2, 96), COURTIER, font=playfair(84, 700), fill=NAVY,
            anchor="ma")
 
     lh = 58
@@ -68,8 +70,8 @@ def entete(c):
     lbl = "RE/MAX DU CARTIER INC."
     total = lw + 20 + d.textlength(lbl, font=f)
     x = (W - total) / 2
-    logo(c, lh, (x, 232), white=False)
-    d.text((x + lw + 20, 232 + lh / 2), lbl, font=f, fill=NAVY, anchor="lm")
+    logo(c, lh, (x, 216), white=False)
+    d.text((x + lw + 20, 216 + lh / 2), lbl, font=f, fill=NAVY, anchor="lm")
 
 
 def bande_photo(c, prop):
@@ -127,23 +129,32 @@ def pied(c, prop):
 
     d = ImageDraw.Draw(c)
     x = 18 + pw + 34
-    d.text((x, 1026), COURTIER, font=inter(38, 800), fill=NAVY)
-    y = 1078
-    for ln in wrap(d, TITRE, inter(25, 400), W - MARGE - x):
+    dispo = W - MARGE - x
+    d.text((x, 1014), COURTIER, font=inter(38, 800), fill=NAVY)
+    y = 1066
+    for ln in wrap(d, TITRE, inter(25, 400), dispo):
         d.text((x, y), ln, font=inter(25, 400), fill=GREY)
         y += 34
+    d.text((x, y + 2), EQUIPE, font=inter(23, 400), fill=GRIS_PALE)
+    y += 38
 
-    y = max(y + 26, 1146)
+    y = max(y + 16, 1148)
     d.rectangle([x, y, x + 64, y + 5], fill=RED + (255,))
     y += 28
     for ln in prop["adresse"]:
-        for bout in wrap(d, ln, inter(27, 700), W - MARGE - x):
+        for bout in wrap(d, ln, inter(27, 700), dispo):
             d.text((x, y), bout, font=inter(27, 700), fill=INK)
             y += 38
 
     # la ligne de coordonnees se pose sous l adresse, jamais dessus, meme si
-    # une adresse prend une ligne de plus
-    tracked(d, (x, max(y + 26, H - 82)), CONTACT, inter(21, 600), GREY, 3)
+    # une adresse prend une ligne de plus, et se resserre jusqu a tenir dans
+    # la largeur restante plutot que de deborder sur la marge
+    taille, track = 21, 3
+    while taille > 16 and tw(d, CONTACT, inter(taille, 600), track) > dispo:
+        taille -= 1
+        track = 2
+    tracked(d, (x, max(y + 24, H - 82)), CONTACT, inter(taille, 600), GREY,
+            track)
 
 
 def fabriquer(prop):
