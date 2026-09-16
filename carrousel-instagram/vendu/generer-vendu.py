@@ -10,9 +10,9 @@ Ce qui change par rapport au reel d inscription:
 - la pastille NOUVEAUTE devient une pastille rouge VENDU, presente du premier
   au dernier plan
 - le prix demande disparait: a sa place, le delai de vente
-- les noms de pieces disparaissent. Pendant la visite, l image est nue: il ne
-  reste que le logo et la mention VENDU. Un reel de resultat n est pas une
-  visite, c est une preuve
+- les noms de pieces disparaissent. A leur place, une phrase courte un plan sur
+  deux, qui raconte le resultat plutot que la maison. Un reel de resultat n est
+  pas une visite, c est une preuve
 - l ecran des travaux devient l ecran du resultat
 - l appel a l action passe de "planifiez votre visite" a l evaluation
   gratuite: la personne qui regarde un VENDU est un vendeur potentiel
@@ -39,6 +39,7 @@ STH = os.path.join(ROOT, "static", "images", "listings",
                    "28-rue-st-hilaire-longueuil")
 
 DUREE_PLAN = 2.4
+DUREE_PHRASE = 2.9                      # un plan qui porte une phrase, a lire
 DUREE_ACCROCHE = 4.6
 DUREE_CARTE = 5.6
 DUREE_OUTRO = 5.0
@@ -64,17 +65,26 @@ PROPRIETES = [
             photo=os.path.join(STH, "04.jpg"), fy=0.45),
         ouverture=dict(photo=os.path.join(STH, "03.jpg"), mouvement="arc",
                        fy=0.42),
+        # (photo, mouvement, fx, fy, phrase). None: le plan reste muet, et
+        # c est voulu. Une phrase sur deux plans laisse respirer les images
+        # et rend la suivante plus forte. Le \n coupe la phrase la ou la
+        # chute doit tomber.
         plans=[
-            (os.path.join(STH, "06.jpg"), "zoom", 0.50, 0.50),
-            (os.path.join(STH, "07.jpg"), "droite", 0.50, 0.50),
-            (os.path.join(STH, "09.jpg"), "gauche", 0.45, 0.50),
-            (os.path.join(STH, "12.jpg"), "zoom", 0.50, 0.50),
-            (os.path.join(STH, "17.jpg"), "droite", 0.50, 0.50),
-            (os.path.join(STH, "23.jpg"), "zoom", 0.50, 0.50),
-            (os.path.join(STH, "24.jpg"), "arc_inverse", 0.50, 0.50),
+            (os.path.join(STH, "06.jpg"), "zoom", 0.50, 0.50,
+             "Quatre semaines.\nPas quatre mois."),
+            (os.path.join(STH, "07.jpg"), "droite", 0.50, 0.50, None),
+            (os.path.join(STH, "09.jpg"), "gauche", 0.45, 0.50,
+             "Le prix espéré par\nles vendeurs? Dépassé."),
+            (os.path.join(STH, "12.jpg"), "zoom", 0.50, 0.50, None),
+            (os.path.join(STH, "17.jpg"), "droite", 0.50, 0.50,
+             "Près de 20 000 $\nde plus que prévu."),
+            (os.path.join(STH, "23.jpg"), "zoom", 0.50, 0.50, None),
+            (os.path.join(STH, "24.jpg"), "arc_inverse", 0.50, 0.50,
+             "Et aux conditions\nqu'ils voulaient."),
         ],
         cadres=[
-            (os.path.join(STH, "25.jpg"), None, 0.5),
+            (os.path.join(STH, "25.jpg"), None, 0.5,
+             "Pas juste vendu.\nBien vendu."),
         ],
     ),
 
@@ -89,39 +99,53 @@ PROPRIETES = [
         ouverture=dict(photo="0-façade.png", mouvement="arc", fx=0.60,
                        fy=0.45),
         plans=[
-            ("2-salon-rdc.png", "zoom", 0.50, 0.50),
-            ("3-salle à manger- rdc.png", "droite", 0.50, 0.50),
-            ("4-cuisine- RDC.png", "gauche", 0.45, 0.50),
+            ("2-salon-rdc.png", "zoom", 0.50, 0.50, None),
+            ("3-salle à manger- rdc.png", "droite", 0.50, 0.50, None),
+            ("4-cuisine- RDC.png", "gauche", 0.45, 0.50, None),
             ("5-chambre à coucher principale- 2ème étage.jpg", "zoom",
-             0.50, 0.50),
-            ("11-Salon sous sol.jpg", "droite", 0.50, 0.50),
-            ("14-deck extérieur.png", "arc_inverse", 0.50, 0.50),
+             0.50, 0.50, None),
+            ("11-Salon sous sol.jpg", "droite", 0.50, 0.50, None),
+            ("14-deck extérieur.png", "arc_inverse", 0.50, 0.50, None),
         ],
         cadres=[
-            ("15-backyard.png", None, 0.5),
+            ("15-backyard.png", None, 0.5, None),
         ],
     ),
 
     # --------------------------------- 4071, rang Saint-Hyacinthe, Mirabel
-    # Chiffres de vente a fournir, meme chose.
     dict(
         slug="4071-rang-saint-hyacinthe-mirabel",
         titre1="4071, rang", titre2="Saint-Hyacinthe",
         secteur="Saint-Hermas, Mirabel", centris="26269222",
-        delai=None, accroche=None, resultat=None,
+        delai="10 jours",
+        accroche="Vendu en 10 jours, à un prix plus élevé que ce que les "
+                 "vendeurs attendaient.",
+        resultat=dict(
+            eyebrow="LE RÉSULTAT",
+            titre="Vendu en 10 jours",
+            points=["Un prix de vente plus élevé que les attentes "
+                    "des vendeurs",
+                    "Une maison de 1935 avec sa grange, sur 22 152 pi²",
+                    "Merci à nos vendeurs pour leur confiance"],
+            photo="25-Vue exterieure 2.png", fy=0.55),
         ouverture=dict(photo="01-Facade principale.png", mouvement="arc",
                        fy=0.52),
         plans=[
-            ("06-Cuisine - RDC.png", "zoom", 0.42, 0.50),
-            ("04-Salon - RDC.png", "droite", 0.50, 0.50),
-            ("11-Escalier vers le 2e etage - RDC.png", "gauche", 0.36, 0.50),
-            ("08-Chambre principale - RDC.png", "zoom", 0.50, 0.50),
-            ("13-Deuxieme cuisine - 2e etage.png", "droite", 0.44, 0.50),
-            ("28-Galerie - vue vers la rue.png", "arc_inverse", 0.50, 0.50),
+            ("06-Cuisine - RDC.png", "zoom", 0.42, 0.50,
+             "Dix jours.\nPas dix semaines."),
+            ("04-Salon - RDC.png", "droite", 0.50, 0.50, None),
+            ("11-Escalier vers le 2e etage - RDC.png", "gauche", 0.36, 0.50,
+             "Une maison de 1935\nqui n'a pas attendu."),
+            ("08-Chambre principale - RDC.png", "zoom", 0.50, 0.50,
+             "Le prix espéré par\nles vendeurs? Dépassé."),
+            ("13-Deuxieme cuisine - 2e etage.png", "droite", 0.44, 0.50, None),
+            ("28-Galerie - vue vers la rue.png", "arc_inverse", 0.50, 0.50,
+             "Plus cher que prévu.\nPlus vite que prévu."),
         ],
         cadres=[
-            ("23-Vue de la rue.png", None, 0.5),
-            ("19-Grange - vue exterieure.png", None, 0.5),
+            ("23-Vue de la rue.png", None, 0.5, None),
+            ("19-Grange - vue exterieure.png", None, 0.5,
+             "Pas juste vendu.\nBien vendu."),
         ],
     ),
 ]
@@ -180,12 +204,45 @@ def habillage_ouverture(prop):
     return c
 
 
-def habillage_muet():
-    """Plans de visite: aucune legende. Le logo, la pastille, rien d autre."""
+def habillage_fixe():
+    """Ce qui ne bouge jamais pendant la visite: le logo et la pastille.
+
+    Ce calque n est pas dans `etapes`: il est peint sous les phrases, a chaque
+    image, sans fondu. C est ce qui permet aux phrases d entrer et de sortir
+    sans que la mention VENDU clignote avec elles.
+    """
     c = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     degrade(c, 0, 420, 130, haut=True)
     logo(c, 82, (MARGE, HAUT), white=True, alpha=225)
     pastille(c, (W - MARGE - _largeur_pastille(25, 5), HAUT + 12))
+    return c
+
+
+def habillage_phrase(phrase):
+    """Une phrase courte en bas de l ecran, calee sur le bas de la zone sure.
+
+    Le `\\n` d une phrase est une coupure voulue: une chute en deux temps se
+    lit mieux quand la deuxieme ligne commence ou l auteur l a decide, et non
+    la ou le dernier mot ne rentrait plus. Chaque morceau est quand meme
+    repasse au calibrage, au cas ou il deborderait.
+
+    Le bloc est ancre en bas: le point final tombe toujours a la meme hauteur
+    d un plan a l autre, que la phrase prenne une ligne ou trois.
+    """
+    c = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    # voile plus soutenu que celui des reels d inscription: une cuisine
+    # blanche plein cadre avalerait du texte blanc pose dessus
+    degrade(c, 1040, H, 244)
+    d = ImageDraw.Draw(c)
+    f = playfair(60, 700)
+    lignes = []
+    for bout in phrase.split("\n"):
+        lignes += wrap(d, bout, f, W - 2 * MARGE)
+    y = 1566 - len(lignes) * 78
+    d.rectangle([MARGE, y - 44, MARGE + 76, y - 38], fill=RED + (255,))
+    for ln in lignes:
+        d.text((MARGE, y), ln, font=f, fill=WHITE)
+        y += 78
     return c
 
 
@@ -195,6 +252,35 @@ def _playfair_qui_tient(d, texte, maxw, base=72, mini=52):
     while taille > mini and d.textlength(texte, font=playfair(taille, 700)) > maxw:
         taille -= 2
     return playfair(taille, 700)
+
+
+class _AvecPastille:
+    """Peint un calque permanent avant le calque de texte.
+
+    `fixe` est prepare une fois pour tout le reel, en RGB et en alpha
+    separes: une conversion par image sur 1080 x 1920 coute plus cher que
+    tout le reste du plan.
+    """
+
+    fixe_rgb = fixe_a = None
+
+    def image(self, i):
+        t = i / moteur.FPS
+        im = self.fond(t)
+        if self.fixe_rgb is not None:
+            im.paste(self.fixe_rgb, (0, 0), self.fixe_a)
+        c = self.calque(t)
+        if c is not None:
+            im.paste(c.convert("RGB"), (0, 0), c.getchannel("A"))
+        return im
+
+
+class PlanVendu(_AvecPastille, ClipPhoto):
+    pass
+
+
+class CadreVendu(_AvecPastille, ClipCadre):
+    pass
 
 
 class ClipOutroVendu(ClipOutro):
@@ -269,30 +355,36 @@ class ClipOutroVendu(ClipOutro):
 
 # ---------------------------------------------------------------- montage
 def monter(prop):
-    """Ouverture, visite muette, ecran du resultat, carte de contact."""
+    """Ouverture, visite avec ses phrases, ecran du resultat, contact."""
     o = prop["ouverture"]
     ouverture = ClipPhoto(o["photo"], DUREE_ACCROCHE, o.get("mouvement", "arc"),
                           o.get("fx", 0.5), o.get("fy", 0.5))
     ouverture.etapes.append((0.12, habillage_ouverture(prop)))
 
-    muet = habillage_muet()
+    fixe = habillage_fixe()
+    fixe_rgb, fixe_a = fixe.convert("RGB"), fixe.getchannel("A")
+
+    def poser(cl, phrase):
+        """Calque permanent dessous, phrase dessus.
+
+        La phrase quitte l ecran avant le changement de plan: deux phrases
+        superposees pendant un fondu, ca se lit mal. Le logo et la pastille,
+        eux, ne partent jamais.
+        """
+        cl.fixe_rgb, cl.fixe_a = fixe_rgb, fixe_a
+        if phrase:
+            cl.etapes.append((0.06, habillage_phrase(phrase)))
+        return cl
 
     plans = []
-    for photo, mvt, fx, fy in prop["plans"]:
-        cl = ClipPhoto(photo, DUREE_PLAN, mvt, fx, fy)
-        # apparition datee avant le debut du plan: le logo et la pastille sont
-        # deja a pleine opacite a la premiere image, sinon ils pulsent a
-        # chaque changement de plan
-        cl.etapes.append((-1.0, muet))
-        cl.sortie = 0
-        plans.append(cl)
+    for photo, mvt, fx, fy, phrase in prop["plans"]:
+        duree = DUREE_PHRASE if phrase else DUREE_PLAN
+        plans.append(poser(PlanVendu(photo, duree, mvt, fx, fy), phrase))
 
     larges = []
-    for photo, crop, fy in prop["cadres"]:
-        cl = ClipCadre(photo, DUREE_PLAN, crop, fy)
-        cl.etapes.append((-1.0, muet))
-        cl.sortie = 0
-        larges.append(cl)
+    for photo, crop, fy, phrase in prop["cadres"]:
+        duree = DUREE_PHRASE if phrase else DUREE_PLAN
+        larges.append(poser(CadreVendu(photo, duree, crop, fy), phrase))
 
     # une vue large tous les trois plans, la derniere juste avant le resultat
     suite, i = [], 0
