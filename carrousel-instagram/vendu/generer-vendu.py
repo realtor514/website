@@ -124,13 +124,13 @@ PROPRIETES = [
         titre1="4071, rang", titre2="Saint-Hyacinthe",
         secteur="Saint-Hermas, Mirabel", centris="26269222",
         delai="22 jours",
-        accroche="Vendu en 22 jours, à un prix plus élevé que ce que les "
-                 "vendeurs attendaient.",
+        accroche="Vendu en 22 jours, à un prix qui convient aux attentes "
+                 "des acheteurs.",
         resultat=dict(
             eyebrow="LE RÉSULTAT",
             titre="Vendu en 22 jours",
-            points=["Un prix de vente plus élevé que les attentes "
-                    "des vendeurs",
+            points=["Un prix de vente qui convient aux attentes "
+                    "des acheteurs",
                     "Une maison de 1935 avec sa grange, sur 22 152 pi²",
                     "Merci à nos vendeurs pour leur confiance"],
             photo="25-Vue exterieure 2.png", fy=0.55),
@@ -143,10 +143,10 @@ PROPRIETES = [
             ("11-Escalier vers le 2e etage - RDC.png", "gauche", 0.36, 0.50,
              "Une maison de 1935\nqui n'a pas attendu."),
             ("08-Chambre principale - RDC.png", "zoom", 0.50, 0.50,
-             "Le prix espéré par\nles vendeurs? Dépassé."),
+             "Un prix qui convient\naux attentes des acheteurs."),
             ("13-Deuxieme cuisine - 2e etage.png", "droite", 0.44, 0.50, None),
             ("28-Galerie - vue vers la rue.png", "arc_inverse", 0.50, 0.50,
-             "Plus cher que prévu.\nPlus vite que prévu."),
+             "Le bon prix.\nEt plus vite que prévu."),
         ],
         cadres=[
             ("23-Vue de la rue.png", None, 0.5, None),
