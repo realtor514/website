@@ -1,4 +1,40 @@
-# Reels VENDU
+# VENDU
+
+Deux contenus par propriété vendue, dans le même dossier:
+
+| Fichier | Format | Quoi |
+|---------|--------|------|
+| `reel-vendu.mp4` | 1080 x 1920, 33,2 s | Le reel, avec ses phrases |
+| `couverture.jpg` | 1080 x 1920 | La couverture du reel |
+| `publication-vendu.jpg` | 1080 x 1350 | La publication VENDU \| SOLD |
+
+Le reel raconte le résultat, la publication l'annonce. Les deux se publient le
+même jour: la publication reste dans la grille du profil, le reel va chercher
+les gens qui ne suivent pas encore le compte.
+
+## La publication VENDU | SOLD
+
+Le visuel le plus courant du marché montréalais, refait dans l'identité
+RE/MAX DU CARTIER: en-tête au nom du courtier, la façade en plein cadre barrée
+d'un VENDU | SOLD bilingue, puis le portrait et l'adresse en bas. Rien
+d'autre, pas de prix, pas de caractéristiques. Ce n'est pas une annonce, c'est
+une preuve, et elle doit se lire en une seconde dans un fil.
+
+```
+python "carrousel-instagram/vendu/generer-post-vendu.py"           les deux
+python "carrousel-instagram/vendu/generer-post-vendu.py" mirabel   une seule
+```
+
+Quelques secondes par image. Le choix de la photo et son cadrage se règlent en
+haut de `generer-post-vendu.py`: `zoom` à 1,0 garde la photo entière sur la
+largeur, au delà on se rapproche, et `fx`, `fy` disent de quel côté on garde
+ce qui reste. Pour Mirabel, c'est la vue de la rue et non la façade: le grand
+pin et le rang disent la campagne en une seconde, alors que la façade de côté
+montrait la bonbonne de propane et la génératrice.
+
+La légende du reel sert telle quelle pour la publication.
+
+## Les reels VENDU
 
 Un reel vertical par propriété vendue, 1080 x 1920 (9:16), 30 images par
 seconde, 33,2 secondes, H.264. Même montage et même identité visuelle que les
