@@ -14,11 +14,38 @@ les gens qui ne suivent pas encore le compte.
 
 ## La publication VENDU | SOLD
 
-Le visuel le plus courant du marché montréalais, refait dans l'identité
-RE/MAX DU CARTIER: en-tête au nom du courtier, la façade en plein cadre barrée
-d'un VENDU | SOLD bilingue, puis le portrait et l'adresse en bas. Rien
-d'autre, pas de prix, pas de caractéristiques. Ce n'est pas une annonce, c'est
-une preuve, et elle doit se lire en une seconde dans un fil.
+Le visuel courant du marché montréalais, mais habillé aux couleurs du site
+georgesmatar.ca plutôt qu'en blanc neutre. De haut en bas:
+
+1. le triple filet rouge, blanc, bleu du ballon RE/MAX, sur fond navy
+2. le nom du courtier, dont le patronyme en bleu, comme le titre du hero sur
+   le site
+3. la façade en plein cadre, barrée d'un bandeau rouge VENDU | SOLD
+4. le pied crème: le portrait, le titre, l'adresse
+
+Pas de prix, pas de caractéristiques. Ce n'est pas une annonce, c'est une
+preuve, et elle doit se lire en une seconde dans un fil.
+
+### Les couleurs
+
+Prises telles quelles dans `static/css/main.css`, le fichier qui habille le
+site. Le profil Instagram et le site se répondent au lieu de vivre chacun de
+leur côté.
+
+| Rôle | Variable du site | Valeur |
+|------|------------------|--------|
+| En-tête, nom du courtier | `--navy` | `#0a1628` |
+| Bandeau VENDU, filet d'accent | `--red` | `#B00000` |
+| Patronyme, filet du ballon | `--blue` / `--blue-bright` | `#0043FF` / `#2E6BFF` |
+| Fond du pied | `--off-white` | `#F7F5EE` |
+| Adresse, texte courant | `--text` / `--gray` | `#1a2332` / `#6b7280` |
+
+Le pied reste clair alors que l'en-tête est navy: le portrait est un découpé
+en complet sombre, il disparaîtrait sur un fond foncé.
+
+Le bandeau rouge remplace le texte blanc posé sur la photo. C'est le seul
+traitement qui reste lisible dans une vignette de fil, et c'est le code
+couleur que tout le monde associe déjà à RE/MAX.
 
 ```
 python "carrousel-instagram/vendu/generer-post-vendu.py"           les deux
@@ -28,9 +55,12 @@ python "carrousel-instagram/vendu/generer-post-vendu.py" mirabel   une seule
 Quelques secondes par image. Le choix de la photo et son cadrage se règlent en
 haut de `generer-post-vendu.py`: `zoom` à 1,0 garde la photo entière sur la
 largeur, au delà on se rapproche, et `fx`, `fy` disent de quel côté on garde
-ce qui reste. Pour Mirabel, c'est la vue de la rue et non la façade: le grand
-pin et le rang disent la campagne en une seconde, alors que la façade de côté
-montrait la bonbonne de propane et la génératrice.
+ce qui reste. `bandeau` donne la hauteur du bandeau rouge: il se place là où
+il ne coupe pas la maison, sous elle à Longueuil, dans les arbres à Mirabel.
+
+Pour Mirabel, c'est la vue de la rue et non la façade: le grand pin et le rang
+disent la campagne en une seconde, alors que la façade de côté montrait la
+bonbonne de propane et la génératrice.
 
 La légende du reel sert telle quelle pour la publication.
 
@@ -44,7 +74,7 @@ par le résultat obtenu pour les vendeurs.
 | Propriété | Dossier | Résultat annoncé |
 |-----------|---------|------------------|
 | 28, rue St-Hilaire, Longueuil (Centris 26368231) | `28-rue-st-hilaire-longueuil/` | Vendu en 28 jours, près de 20 000 $ de plus que le prix attendu |
-| 4071, rang Saint-Hyacinthe, Mirabel (Centris 26269222) | `4071-rang-saint-hyacinthe-mirabel/` | Vendu en 10 jours, à un prix plus élevé que les attentes |
+| 4071, rang Saint-Hyacinthe, Mirabel (Centris 26269222) | `4071-rang-saint-hyacinthe-mirabel/` | Vendu en 22 jours, à un prix plus élevé que les attentes |
 | 35, terrasse Jacques-Léonard, Montréal (Centris 15815581) | `35-terrasse-jacques-leonard/` | en attente des chiffres de vente |
 
 Pour la propriété en attente, il manque deux informations: le délai de vente
@@ -86,7 +116,7 @@ Pas juste vendu. Bien vendu.
 **4071, rang Saint-Hyacinthe**
 
 ```
-Dix jours. Pas dix semaines.
+Vingt-deux jours. Pas six mois.
 Une maison de 1935 qui n'a pas attendu.
 Le prix espéré par les vendeurs? Dépassé.
 Plus cher que prévu. Plus vite que prévu.
@@ -109,6 +139,13 @@ porte une phrase dure 2,9 s au lieu de 2,4 s, le temps de la lire.
 1. **L'ouverture, 4,6 s.** La façade, un mouvement d'arc, et le résultat en
    clair dès la première seconde. Puis la pastille VENDU, l'adresse, le
    secteur, le délai de vente à la place du prix, et le numéro Centris.
+
+   Sur le 28, rue St-Hilaire, la phrase d'ouverture passe dans un **panneau
+   bordé de pointillés**, en corps 52 au lieu de 46: c'est la première chose
+   que l'oeil attrape, avant même l'adresse. Le résultat doit se lire dans
+   les trois premières secondes, sinon le reel est regardé comme une annonce
+   de plus et le pouce continue. Pour l'activer sur une autre propriété:
+   `accroche_encadree=True` dans son bloc de `PROPRIETES`.
 2. **La visite, 8 plans.** Les pièces défilent, une phrase sur deux plans. Le
    logo et la pastille VENDU restent à opacité constante pendant que les
    phrases entrent et sortent: ils sont peints sous le calque de texte, pas
@@ -129,7 +166,7 @@ Le reel affiche exactement ce qui a été convenu, sans arrondi vers le haut.
 
 4071, rang Saint-Hyacinthe:
 
-- vendu en 10 jours
+- vendu en 22 jours
 - à un prix de vente plus élevé que les attentes des vendeurs
 
 Aucun montant n'est annoncé pour le 4071: seul l'écart est connu, pas le
@@ -185,7 +222,7 @@ Centris 26368231
 ```
 VENDU | 4071, rang Saint-Hyacinthe, Saint-Hermas, Mirabel
 
-Dix jours. Pas dix semaines. Et à un prix plus élevé que ce que les vendeurs attendaient.
+Vingt-deux jours. Pas six mois. Et à un prix plus élevé que ce que les vendeurs attendaient.
 
 Une maison de 1935 avec sa grange, sur 22 152 pi² en bordure des champs, dans la même famille depuis 1990.
 

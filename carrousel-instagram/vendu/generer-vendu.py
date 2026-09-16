@@ -53,12 +53,18 @@ PROPRIETES = [
         secteur="Vieux-Longueuil", centris="26368231",
         # le resultat obtenu. C est tout le propos du reel.
         delai="28 jours",
-        accroche="Vendu en 28 jours, près de 20 000 $ de plus que le prix "
-                 "attendu par les vendeurs.",
+        # les espaces de 20 000 $ sont insecables (U+00A0): le calibrage ne
+        # doit jamais couper entre 20 et 000, ni laisser le $ tout seul au
+        # debut de la ligne suivante. Meme chose pour 22 152 pi² plus bas.
+        accroche="Vendu en 28 jours, près de 20 000 $ de plus que "
+                 "le prix attendu par les vendeurs.",
+        # la phrase d ouverture passe dans un panneau borde de pointilles:
+        # c est le resultat, il doit frapper avant l adresse
+        accroche_encadree=True,
         resultat=dict(
             eyebrow="LE RÉSULTAT",
             titre="Vendu en 28 jours",
-            points=["Près de 20 000 $ de plus que le prix attendu "
+            points=["Près de 20 000 $ de plus que le prix attendu "
                     "par les vendeurs",
                     "Selon les conditions souhaitées par les vendeurs",
                     "Merci à nos vendeurs pour leur confiance"],
@@ -77,7 +83,7 @@ PROPRIETES = [
              "Le prix espéré par\nles vendeurs? Dépassé."),
             (os.path.join(STH, "12.jpg"), "zoom", 0.50, 0.50, None),
             (os.path.join(STH, "17.jpg"), "droite", 0.50, 0.50,
-             "Près de 20 000 $\nde plus que prévu."),
+             "Près de 20 000 $\nde plus que prévu."),
             (os.path.join(STH, "23.jpg"), "zoom", 0.50, 0.50, None),
             (os.path.join(STH, "24.jpg"), "arc_inverse", 0.50, 0.50,
              "Et aux conditions\nqu'ils voulaient."),
@@ -117,22 +123,22 @@ PROPRIETES = [
         slug="4071-rang-saint-hyacinthe-mirabel",
         titre1="4071, rang", titre2="Saint-Hyacinthe",
         secteur="Saint-Hermas, Mirabel", centris="26269222",
-        delai="10 jours",
-        accroche="Vendu en 10 jours, à un prix plus élevé que ce que les "
+        delai="22 jours",
+        accroche="Vendu en 22 jours, à un prix plus élevé que ce que les "
                  "vendeurs attendaient.",
         resultat=dict(
             eyebrow="LE RÉSULTAT",
-            titre="Vendu en 10 jours",
+            titre="Vendu en 22 jours",
             points=["Un prix de vente plus élevé que les attentes "
                     "des vendeurs",
-                    "Une maison de 1935 avec sa grange, sur 22 152 pi²",
+                    "Une maison de 1935 avec sa grange, sur 22 152 pi²",
                     "Merci à nos vendeurs pour leur confiance"],
             photo="25-Vue exterieure 2.png", fy=0.55),
         ouverture=dict(photo="01-Facade principale.png", mouvement="arc",
                        fy=0.52),
         plans=[
             ("06-Cuisine - RDC.png", "zoom", 0.42, 0.50,
-             "Dix jours.\nPas dix semaines."),
+             "Vingt-deux jours.\nPas six mois."),
             ("04-Salon - RDC.png", "droite", 0.50, 0.50, None),
             ("11-Escalier vers le 2e etage - RDC.png", "gauche", 0.36, 0.50,
              "Une maison de 1935\nqui n'a pas attendu."),
@@ -170,6 +176,55 @@ def pastille(canvas, xy, hauteur=58, taille=25, track=5):
 
 
 # ---------------------------------------------------------------- habillage
+def cadre_pointille(d, box, couleur, tiret=20, trou=13, ep=4):
+    """Cadre en pointilles.
+
+    Le pas est recalcule sur chaque cote pour que le premier et le dernier
+    tiret tombent pile dans les coins: un pointille qui s arrete a trois
+    pixels du coin se voit tout de suite.
+    """
+    x0, y0, x1, y1 = box
+
+    def cote(fixe, debut, fin, horizontal):
+        long = fin - debut
+        n = max(2, int(round(long / (tiret + trou))))
+        pas = long / n
+        lg = pas * tiret / (tiret + trou)
+        for i in range(n):
+            a = debut + i * pas
+            if horizontal:
+                d.rectangle([a, fixe, a + lg, fixe + ep - 1], fill=couleur)
+            else:
+                d.rectangle([fixe, a, fixe + ep - 1, a + lg], fill=couleur)
+
+    cote(y0, x0, x1, True)
+    cote(y1 - ep, x0, x1, True)
+    cote(x0, y0, y1, False)
+    cote(x1 - ep, y0, y1, False)
+
+
+def encadre_accroche(c, texte):
+    """La phrase d ouverture, sur un panneau navy borde de pointilles.
+
+    C est la premiere chose que l oeil attrape, avant meme l adresse. Le
+    resultat doit se lire dans les trois premieres secondes, sinon le reel
+    est regarde comme une annonce de plus et le pouce continue.
+    """
+    f = inter(52, 800)
+    pad, interligne = 36, 66
+    d = ImageDraw.Draw(c)
+    lignes = wrap(d, texte, f, W - 2 * MARGE - 2 * pad)
+    y0 = HAUT + 126
+    h = len(lignes) * interligne + 2 * pad - 14
+    c.alpha_composite(Image.new("RGBA", (W - 2 * MARGE, h), NAVY + (132,)),
+                      (MARGE, y0))
+    cadre_pointille(d, (MARGE, y0, W - MARGE, y0 + h), (255, 255, 255, 240))
+    y = y0 + pad - 8
+    for ln in lignes:
+        d.text((MARGE + pad, y), ln, font=f, fill=WHITE)
+        y += interligne
+
+
 def habillage_ouverture(prop):
     """Premiere seconde: logo, le resultat en clair, l adresse, le delai."""
     c = Image.new("RGBA", (W, H), (0, 0, 0, 0))
@@ -179,11 +234,14 @@ def habillage_ouverture(prop):
     d = ImageDraw.Draw(c)
 
     logo(c, 96, (MARGE, HAUT), white=True)
-    y = HAUT + 152
-    f = inter(46, 800)
-    for ln in wrap(d, prop["accroche"], f, W - 2 * MARGE - 40):
-        d.text((MARGE, y), ln, font=f, fill=WHITE)
-        y += 60
+    if prop.get("accroche_encadree"):
+        encadre_accroche(c, prop["accroche"])
+    else:
+        y = HAUT + 152
+        f = inter(46, 800)
+        for ln in wrap(d, prop["accroche"], f, W - 2 * MARGE - 40):
+            d.text((MARGE, y), ln, font=f, fill=WHITE)
+            y += 60
 
     y = 1006
     pastille(c, (MARGE, y))
