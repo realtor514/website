@@ -2,8 +2,8 @@
 title: "Casa de campo con granero, Saint-Hermas, Mirabel"
 date: 2026-08-17
 address: "4071, rang Saint-Hyacinthe, Mirabel (Saint-Hermas), QC"
-description: "Casa de campo de 1935 en venta en Saint-Hermas, Mirabel. 449 000 $, 4 dormitorios, 2 cocinas, granero, terreno de 22 152 pi² frente a los campos. Centris 26269222."
-status: "En venta"
+description: "Casa de campo de 1935 vendida en Saint-Hermas, Mirabel. 449 000 $, 4 dormitorios, 2 cocinas, granero, terreno de 22 152 pi² frente a los campos. Centris 26269222."
+status: "Vendido"
 price: "449 000 $"
 priceValue: 449000
 bedrooms: 4

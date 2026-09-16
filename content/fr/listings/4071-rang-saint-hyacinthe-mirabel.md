@@ -2,8 +2,8 @@
 title: "Maison de campagne avec grange, Saint-Hermas, Mirabel"
 date: 2026-08-17
 address: "4071, rang Saint-Hyacinthe, Mirabel (Saint-Hermas), QC"
-description: "Maison de campagne de 1935 à vendre à Saint-Hermas, Mirabel. 449 000 $, 4 chambres, 2 cuisines, grange, terrain de 22 152 pi² en bordure des champs. Centris 26269222."
-status: "À vendre"
+description: "Maison de campagne de 1935 vendue à Saint-Hermas, Mirabel. 449 000 $, 4 chambres, 2 cuisines, grange, terrain de 22 152 pi² en bordure des champs. Centris 26269222."
+status: "Vendu"
 price: "449 000 $"
 priceValue: 449000
 bedrooms: 4

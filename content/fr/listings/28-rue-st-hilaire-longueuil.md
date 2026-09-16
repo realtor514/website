@@ -2,8 +2,8 @@
 title: "Maison à deux étages, Vieux-Longueuil"
 date: 2026-08-05
 address: "28, rue St-Hilaire, Longueuil (Le Vieux-Longueuil), QC"
-description: "Maison à deux étages à vendre dans le Vieux-Longueuil. 499 000 $, terrain clôturé de près de 4 000 pi², piscine, borne de recharge. Centris 26368231."
-status: "À vendre"
+description: "Maison à deux étages vendue dans le Vieux-Longueuil. 499 000 $, terrain clôturé de près de 4 000 pi², piscine, borne de recharge. Centris 26368231."
+status: "Vendu"
 price: "499 000 $"
 priceValue: 499000
 bedrooms: 2
