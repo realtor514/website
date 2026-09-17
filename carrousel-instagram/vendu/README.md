@@ -84,7 +84,7 @@ par le résultat obtenu pour les vendeurs.
 | Propriété | Dossier | Résultat annoncé |
 |-----------|---------|------------------|
 | 28, rue St-Hilaire, Longueuil (Centris 26368231) | `28-rue-st-hilaire-longueuil/` | Vendu en 28 jours, près de 20 000 $ de plus que le prix attendu |
-| 4071, rang Saint-Hyacinthe, Mirabel (Centris 26269222) | `4071-rang-saint-hyacinthe-mirabel/` | Vendu en 22 jours, à un prix qui convient aux attentes des acheteurs |
+| 4071, rang Saint-Hyacinthe, Mirabel (Centris 26269222) | `4071-rang-saint-hyacinthe-mirabel/` | Vendu en 22 jours, à un prix qui dépasse les attentes des vendeurs |
 | 35, terrasse Jacques-Léonard, Montréal (Centris 15815581) | `35-terrasse-jacques-leonard/` | en attente des chiffres de vente |
 
 Pour la propriété en attente, il manque deux informations: le délai de vente
@@ -128,8 +128,8 @@ Pas juste vendu. Bien vendu.
 ```
 Vingt-deux jours. Pas six mois.
 Une maison de 1935 qui n'a pas attendu.
-Un prix qui convient aux attentes des acheteurs.
-Le bon prix. Et plus vite que prévu.
+Un prix qui dépasse les attentes des vendeurs.
+Plus cher que prévu. Plus vite que prévu.
 Pas juste vendu. Bien vendu.
 ```
 
@@ -177,10 +177,12 @@ Le reel affiche exactement ce qui a été convenu, sans arrondi vers le haut.
 4071, rang Saint-Hyacinthe:
 
 - vendu en 22 jours
-- à un prix de vente qui convient aux attentes des acheteurs
+- à un prix de vente qui dépasse les attentes des vendeurs
 
-Aucun montant n'est annoncé pour le 4071, et aucun écart avec le prix
-demandé: le reel dit que le prix convenait aux acheteurs, rien de plus.
+Aucun montant n'est annoncé pour le 4071: le reel dit que le prix dépasse
+les attentes des vendeurs, sans chiffrer l'écart. Le jour où le montant est
+connu, l'ajouter dans `accroche` et dans le premier point de `resultat`
+rendrait le reel plus fort.
 
 ## Regénérer
 
@@ -231,7 +233,7 @@ Centris 26368231
 ```
 VENDU | 4071, rang Saint-Hyacinthe, Saint-Hermas, Mirabel
 
-Vingt-deux jours. Pas six mois. Et à un prix qui convient aux attentes des acheteurs.
+Vingt-deux jours. Pas six mois. Et à un prix qui dépasse les attentes des vendeurs.
 
 Une maison de 1935 avec sa grange, sur 22 152 pi² en bordure des champs, dans la même famille depuis 1990.
 
