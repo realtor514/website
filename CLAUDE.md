@@ -12,6 +12,27 @@ les sessions, Claude Code et Claude Chat.
 Francais (defaut, racine /), English (/en/), Espanol (/es/), Arabe (/ar/).
 Ne jamais modifier une langue sans faire la meme chose dans les 3 autres.
 
+## REGLE 3 - Couleurs de la marque
+**TOUT** visuel fabrique dans ce projet, carrousel, reel, story, banniere,
+publication VENDU, prend ses couleurs dans la charte RE/MAX DU CARTIER et
+nulle part ailleurs. Jamais une teinte choisie a l oeil.
+
+| Couleur | Hex | RGB | Rang |
+|---------|-----|-----|------|
+| Navy | `#000E35` | `(0, 14, 53)` | **principale** |
+| Creme | `#F7F5EE` | `(247, 245, 238)` | **principale** |
+| Bleu | `#0043FF` | `(0, 67, 255)` | secondaire |
+| Bordeaux | `#600000` | `(96, 0, 0)` | secondaire |
+| Rouge | `#FF1200` | `(255, 18, 0)` | secondaire |
+
+La hierarchie compte autant que les valeurs: les grands aplats sont navy et
+creme, les secondaires accentuent seulement. Le texte sur fond sombre est
+creme `#F7F5EE`, pas blanc pur. Polices: Playfair Display pour les titres,
+Inter pour le reste.
+
+Details, etat du code et ecarts connus: `CHARTE-COULEURS.md` a la racine.
+Chaque dossier de visuels contient aussi un `COULEURS.md` de rappel.
+
 ---
 
 # Real Estate Website Automation Workflow
