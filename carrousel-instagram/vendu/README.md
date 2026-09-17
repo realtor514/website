@@ -4,7 +4,7 @@ Deux contenus par propriété vendue, dans le même dossier:
 
 | Fichier | Format | Quoi |
 |---------|--------|------|
-| `reel-vendu.mp4` | 1080 x 1920, 33,2 s | Le reel, avec ses phrases |
+| `reel-vendu.mp4` | 1080 x 1920, 38,3 s | Le reel, avec ses phrases |
 | `couverture.jpg` | 1080 x 1920 | La couverture du reel |
 | `publication-vendu.jpg` | 1080 x 1350 | La publication VENDU \| SOLD |
 
@@ -77,7 +77,7 @@ La légende du reel sert telle quelle pour la publication.
 ## Les reels VENDU
 
 Un reel vertical par propriété vendue, 1080 x 1920 (9:16), 30 images par
-seconde, 33,2 secondes, H.264. Même montage et même identité visuelle que les
+seconde, 38,3 secondes, H.264. Même montage et même identité visuelle que les
 reels d'inscription de `reels/`, mais le texte de vente est retiré et remplacé
 par le résultat obtenu pour les vendeurs.
 
@@ -161,8 +161,20 @@ porte une phrase dure 2,9 s au lieu de 2,4 s, le temps de la lire.
    phrases entrent et sortent: ils sont peints sous le calque de texte, pas
    dedans, et ne clignotent donc jamais avec lui.
 3. **Le résultat, 5,6 s.** Les trois lignes qui comptent, une à une.
-4. **Le contact, 5 s.** Les deux courtiers, le téléphone, et l'appel à
+4. **L'accompagnement, 5,4 s.** Le même écran dans tous les reels, parce
+   qu'il ne parle pas de la maison vendue mais de la façon de travailler:
+   une vente sans tracas, un service clés en main du premier appel au
+   notaire, des photos professionnelles et une mise en marché complète, des
+   visites libres organisées et supervisées, un accompagnement à chaque
+   étape. Seule la photo de fond change d'une propriété à l'autre.
+5. **Le contact, 5 s.** Les deux courtiers, le téléphone, et l'appel à
    l'action qui va avec un VENDU: l'évaluation gratuite.
+
+L'ordre n'est pas anodin: le résultat prouve, l'accompagnement explique
+comment il a été obtenu, et l'outro demande le prochain mandat. Mettre
+l'accompagnement avant la preuve reviendrait à promettre avant d'avoir
+montré. Le texte se change en un seul endroit, la constante `ACCOMPAGNEMENT`
+en haut de `generer-vendu.py`.
 
 ## Les chiffres annoncés
 
@@ -192,7 +204,7 @@ python "carrousel-instagram/vendu/generer-vendu.py" hilaire      un seul
 python "carrousel-instagram/vendu/generer-vendu.py" mirabel      un seul
 ```
 
-Environ 90 secondes par reel. Le script lit les photos dans
+Entre 2 et 4 minutes par reel. Le script lit les photos dans
 `static/images/listings/<slug>/` et dans `carrousel-instagram/sources/`, et
 utilise le moteur de rendu `reels/moteur.py`. Rien à installer: si ffmpeg
 n'est pas sur le poste, le moteur prend celui du paquet `imageio-ffmpeg`

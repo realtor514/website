@@ -42,7 +42,21 @@ DUREE_PLAN = 2.4
 DUREE_PHRASE = 2.9                      # un plan qui porte une phrase, a lire
 DUREE_ACCROCHE = 4.6
 DUREE_CARTE = 5.6
+DUREE_ACCOMPAGNEMENT = 5.4
 DUREE_OUTRO = 5.0
+
+
+# Le meme bloc dans tous les reels, et c est voulu: il ne parle pas de la
+# maison vendue, il parle de la facon de travailler. Le resultat prouve, cet
+# ecran explique comment, et l outro demande le prochain mandat. Seule la
+# photo de fond change d une propriete a l autre.
+ACCOMPAGNEMENT = dict(
+    eyebrow="L'ACCOMPAGNEMENT",
+    titre="Une vente sans tracas",
+    points=["Un service clés en main, du premier appel au notaire",
+            "Photos professionnelles et mise en marché complète",
+            "Visites libres organisées et supervisées",
+            "Un accompagnement à chaque étape"])
 
 
 PROPRIETES = [
@@ -69,6 +83,9 @@ PROPRIETES = [
                     "Selon les conditions souhaitées par les vendeurs",
                     "Merci à nos vendeurs pour leur confiance"],
             photo=os.path.join(STH, "04.jpg"), fy=0.45),
+        # fond de l ecran de l accompagnement: une photo pas encore vue dans
+        # le reel, de toute facon floutee et assombrie
+        accompagnement=dict(photo=os.path.join(STH, "02.jpg"), fy=0.5),
         ouverture=dict(photo=os.path.join(STH, "03.jpg"), mouvement="arc",
                        fy=0.42),
         # (photo, mouvement, fx, fy, phrase). None: le plan reste muet, et
@@ -134,6 +151,7 @@ PROPRIETES = [
                     "Une maison de 1935 avec sa grange, sur 22 152 pi²",
                     "Merci à nos vendeurs pour leur confiance"],
             photo="25-Vue exterieure 2.png", fy=0.55),
+        accompagnement=dict(photo="02-Vue exterieure.png", fy=0.5),
         ouverture=dict(photo="01-Facade principale.png", mouvement="arc",
                        fy=0.52),
         plans=[
@@ -413,7 +431,13 @@ class ClipOutroVendu(ClipOutro):
 
 # ---------------------------------------------------------------- montage
 def monter(prop):
-    """Ouverture, visite avec ses phrases, ecran du resultat, contact."""
+    """Ouverture, visite, resultat, accompagnement, contact.
+
+    L ordre n est pas anodin: le resultat prouve, l accompagnement explique
+    comment il a ete obtenu, et l outro demande le prochain mandat. Mettre
+    l accompagnement avant la preuve reviendrait a promettre avant d avoir
+    montre.
+    """
     o = prop["ouverture"]
     ouverture = ClipPhoto(o["photo"], DUREE_ACCROCHE, o.get("mouvement", "arc"),
                           o.get("fx", 0.5), o.get("fy", 0.5))
@@ -456,9 +480,18 @@ def monter(prop):
         i += 1
 
     r = prop["resultat"]
-    carte = ClipCarte(r["photo"], DUREE_CARTE, r["eyebrow"], r["titre"],
-                      r["points"], r.get("crop"), r.get("fy", 0.5))
-    return [ouverture] + suite + [carte, ClipOutroVendu(DUREE_OUTRO, prop)]
+    fin = [ClipCarte(r["photo"], DUREE_CARTE, r["eyebrow"], r["titre"],
+                     r["points"], r.get("crop"), r.get("fy", 0.5))]
+
+    a = prop.get("accompagnement")
+    if a:
+        fin.append(ClipCarte(a["photo"], DUREE_ACCOMPAGNEMENT,
+                             ACCOMPAGNEMENT["eyebrow"], ACCOMPAGNEMENT["titre"],
+                             ACCOMPAGNEMENT["points"], a.get("crop"),
+                             a.get("fy", 0.5)))
+
+    fin.append(ClipOutroVendu(DUREE_OUTRO, prop))
+    return [ouverture] + suite + fin
 
 
 def main():
