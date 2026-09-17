@@ -342,7 +342,7 @@ Update: [What changed]
 ## Required Credentials & Access
 
 **GitHub:**
-- **Repository:** `georgesmatar/georgesmatar-website`
+- **Repository:** `realtor514/website` (verifiable par `git remote -v`)
 - **Domain:** georgesmatar.ca (already pointing to GitHub Pages)
 - **GitHub Pages:** Auto-deploys from main branch
 
