@@ -5,8 +5,31 @@ Deux contenus par propriété vendue, dans le même dossier:
 | Fichier | Format | Quoi |
 |---------|--------|------|
 | `reel-vendu.mp4` | 1080 x 1920, 38,3 s | Le reel, avec ses phrases |
-| `couverture.jpg` | 1080 x 1920 | La couverture du reel |
-| `publication-vendu.jpg` | 1080 x 1350 | La publication VENDU \| SOLD |
+| `couverture-vendu.jpg` | 1080 x 1920, 9:16 | **La couverture à choisir pour le reel** |
+| `publication-vendu.jpg` | 1080 x 1350, 4:5 | La publication VENDU \| SOLD dans le fil |
+| `couverture.jpg` | 1080 x 1920 | La première image du reel, couverture de secours |
+
+### Pourquoi deux couvertures
+
+`couverture-vendu.jpg` et `publication-vendu.jpg` disent la même chose et se
+ressemblent, mais ils ne peuvent pas être le même fichier. **Instagram
+recadre une image 4:5 posée en couverture de reel: il garde les 70 pour cent
+du milieu et coupe 15 pour cent de chaque côté.** Le nom et l'adresse, qui
+commencent sur la marge de gauche, s'y font manger.
+
+La couverture est donc dessinée en 9:16, et deux choses y sont calées
+exprès:
+
+- le nom du courtier descend sous la ligne des 285 px, là où commence le
+  recadrage 4:5 de la grille du profil. Centré comme sur la publication, il
+  tombait hors vignette et la grille n'affichait qu'une bande navy vide;
+- le bandeau rouge se place dans la bande de 285 à 1635 px, celle que l'oeil
+  voit en vignette, et le pied laisse le bas de l'écran libre puisque
+  l'interface d'Instagram le recouvre pendant la lecture.
+
+Le pied de la couverture est aussi plus maigre que celui de la publication:
+pas de téléphone, pas de site, pas de mention d'équipe. Une couverture est
+d'abord une vignette.
 
 Le reel raconte le résultat, la publication l'annonce. Les deux se publient le
 même jour: la publication reste dans la grille du profil, le reel va chercher
@@ -273,8 +296,8 @@ Centris 26269222
 - Publier en **reel**, pas en publication simple.
 - Ajouter un **son tendance** dans l'application, avant de publier. Le fichier
   ne contient qu'une piste muette, exprès.
-- Choisir `couverture.jpg` comme couverture, pour que la grille du profil
-  reste cohérente.
+- Choisir `couverture-vendu.jpg` comme couverture du reel. Ne pas prendre
+  `publication-vendu.jpg`: Instagram la recadre et coupe le nom et l'adresse.
 - Identifier @ l'Équipe Pistoli et Rovena Pistoli.
 - Épingler le reel **à la une** dans un dossier "Vendu" du profil: c'est la
   preuve sociale qu'un vendeur regarde avant d'appeler.
