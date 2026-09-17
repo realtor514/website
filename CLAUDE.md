@@ -33,6 +33,43 @@ Inter pour le reste.
 Details, etat du code et ecarts connus: `CHARTE-COULEURS.md` a la racine.
 Chaque dossier de visuels contient aussi un `COULEURS.md` de rappel.
 
+## REGLE 4 - Cycle de vie des fiches de proprietes
+
+Une fiche de propriete ne se supprime jamais. Ce qui change, c est ou elle
+vit et ce que dit son `status`. Les trois etats et le geste qui va avec:
+
+| Etat | Ou vit la fiche | Le geste |
+|------|-----------------|----------|
+| A vendre | `content/<langue>/listings/<slug>.md` | Rien, c est l etat de depart |
+| **Vendue** | **au meme endroit, elle reste en ligne** | Changer `status` et la meta `description` dans les 4 langues |
+| **Hors marche** | `archives/fiches-hors-marche/<slug>/` | Deplacer les 4 fichiers, ne pas les effacer |
+
+**Vendue ne veut pas dire retiree.** Une propriete vendue reste publiee avec
+sa pastille VENDU: c est la preuve sociale qu un vendeur regarde avant
+d appeler. Seule une propriete retiree du marche quitte le site.
+
+Valeurs exactes de `status`, a copier telles quelles, accents compris:
+
+| | fr | en | es | ar |
+|---|---|---|---|---|
+| A vendre | `À vendre` | `For sale` | `En venta` | `للبيع` |
+| Vendue | `Vendu` | `Sold` | `Vendido` | `مباع` |
+
+La meta `description` suit le statut, sinon Google annonce encore en vente une
+maison vendue: `a vendre` devient `vendue`, `for sale` devient `sold`,
+`en venta` devient `vendida`, `للبيع` devient `مباع`.
+
+**L archive.** `archives/` est hors de `content/`, et les 4 `contentDir` de
+`hugo.toml` pointent tous dans `content/<langue>`: Hugo ne lit donc jamais ce
+dossier et rien ne peut s en publier par accident. Les fichiers y sont nommes
+par langue, `fr.md`, `en.md`, `es.md`, `ar.md`, et non par slug. Remise en
+ligne, verification du prix et du statut: `archives/fiches-hors-marche/README.md`.
+
+**Les photos ne bougent jamais.** Elles restent dans
+`static/images/listings/<slug>/` meme apres un retrait, parce que les scripts
+de `carrousel-instagram/` et de `reels/` les lisent a ce chemin exact. Elles
+restent donc servies a leur adresse directe, sans qu aucune page n y mene.
+
 ---
 
 # Real Estate Website Automation Workflow
