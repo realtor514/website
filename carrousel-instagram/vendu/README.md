@@ -20,7 +20,8 @@ trois aplats et rien d'autre.
 1. **L'en-tête navy**: le nom du courtier en Playfair crème, puis le ballon
    sur sa pastille crème et RE/MAX DU CARTIER INC.
 2. **La façade** en plein cadre, barrée du **bandeau rouge VENDU | SOLD**.
-3. **Le pied crème**: le portrait, le titre, l'adresse.
+3. **Le pied crème**: le nom, le titre et l'adresse à gauche, le portrait
+   à droite.
 
 Pas de prix, pas de caractéristiques. Ce n'est pas une annonce, c'est une
 preuve, et elle doit se lire en une seconde dans un fil.

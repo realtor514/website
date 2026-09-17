@@ -153,7 +153,7 @@ def bandeau_vendu(c, prop):
 
 
 def pied(c, prop):
-    """Le pied creme: le portrait a gauche, l adresse a droite.
+    """Le pied creme: le portrait a droite, le nom et l adresse a gauche.
 
     Le pied reste clair alors que l en-tete est navy: le portrait est un
     decoupe en complet sombre, il disparaitrait sur un fond fonce.
@@ -165,11 +165,13 @@ def pied(c, prop):
     p = p.crop(p.getchannel("A").getbbox())
     ph = 468
     pw = int(p.width * ph / p.height)
-    c.alpha_composite(p.resize((pw, ph), Image.LANCZOS), (18, H - ph))
+    c.alpha_composite(p.resize((pw, ph), Image.LANCZOS), (W - 18 - pw, H - ph))
 
+    # le texte garde son alignement a gauche, sur la marge de la page: c est
+    # le bord que l oeil suit, et le portrait ferme le bloc a droite
     d = ImageDraw.Draw(c)
-    x = 18 + pw + 34
-    dispo = W - MARGE - x
+    x = MARGE
+    dispo = (W - 18 - pw) - 34 - x
     d.text((x, 1014), COURTIER, font=inter(38, 800), fill=NAVY)
     y = 1066
     for ln in wrap(d, TITRE, inter(25, 400), dispo):
