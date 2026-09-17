@@ -5,17 +5,20 @@
     python "carrousel-instagram/vendu/generer-post-vendu.py" mirabel   une seule
 
 Le visuel courant du marche montrealais, monte comme une pancarte RE/MAX:
-trois aplats, les trois couleurs du ballon, et rien d autre.
+trois aplats et rien d autre.
 
-1. l en-tete bleu, le nom du courtier et la pastille de l agence
+1. l en-tete navy, le nom du courtier et la pastille de l agence
 2. la facade en plein cadre, barree du bandeau rouge VENDU | SOLD
 3. le pied creme: le portrait, le titre, l adresse
 
-Le bleu et le rouge ne sont pas choisis a l oeil: ils sont echantillonnes
-dans `static/images/remax-logo.png`, comme le fait deja le generateur des
-carrousels. Le ballon donne #0043ff et #ff1200, et ce bleu est exactement le
-`--blue` de `static/css/main.css`: la pancarte, le site et le profil parlent
-la meme langue. Playfair pour le nom, Inter pour le reste.
+Les couleurs suivent la charte RE/MAX DU CARTIER, et surtout sa hierarchie.
+Navy #000E35 et creme #F7F5EE sont les principales: ce sont elles qui portent
+les grands aplats. Bleu #0043FF, bordeaux #600000 et rouge #FF1200 sont
+secondaires: elles n accentuent. Le bandeau rouge est la seule exception a
+cette regle, et c est voulu: c est lui qui dit VENDU, et il doit se lire dans
+une vignette de fil.
+
+Playfair pour le nom, Inter pour le reste, comme sur le site.
 
 Pas de prix, pas de caracteristiques. Ce n est pas une annonce, c est une
 preuve, et elle doit se lire en une seconde dans un fil.
@@ -40,17 +43,19 @@ MARGE = 72
 ENTETE_H = 330                          # le bloc navy du haut
 PHOTO_Y0, PHOTO_Y1 = 330, 970           # la bande de photo, pleine largeur
 
-# ------------------------------------- palette, echantillonnee dans le logo
-# remax-logo.png donne ces deux valeurs au pixel pres. Le bleu est aussi le
-# --blue de main.css: le site a ete construit sur le meme echantillon.
-BLEU = (0, 67, 255)                     # #0043ff, le ballon et --blue
-ROUGE = (255, 18, 0)                    # #ff1200, le ballon
-NAVY = (0, 14, 53)                      # #000e35, le fonce du logo
-CREME = (247, 245, 238)                 # --off-white du site
-TEXTE = (26, 35, 50)                    # --text
-GRIS = (107, 114, 128)                  # --gray
+# ------------------------------------------ palette RE/MAX DU CARTIER
+# La charte distingue deux principales et trois secondaires, et cet ordre
+# se voit: les grands aplats sont navy et creme, les secondaires ne servent
+# qu a accentuer. Le bandeau rouge est la seule exception, et c est voulu:
+# c est lui qui dit VENDU.
+NAVY = (0, 14, 53)                      # #000E35   principale, l en-tete
+CREME = (247, 245, 238)                 # #F7F5EE   principale, le pied
+BLEU = (0, 67, 255)                     # #0043FF   secondaire, le filet
+ROUGE = (255, 18, 0)                    # #FF1200   secondaire, le bandeau
+BORDEAUX = (96, 0, 0)                   # #600000   secondaire, non utilise ici
+
+GRIS = (107, 114, 128)                  # --gray du site, pour le titre
 GRIS_PALE = (152, 159, 172)
-BLANC = (255, 255, 255)
 
 COURTIER = "Georges Matar"
 TITRE = "Courtier immobilier résidentiel"
@@ -81,15 +86,16 @@ PROPRIETES = [
 
 
 def entete(c):
-    """L en-tete bleu: le nom du courtier, puis la pastille de l agence.
+    """L en-tete navy: le nom du courtier, puis la pastille de l agence.
 
-    Le ballon est pose sur une pastille blanche a coins arrondis, comme le
-    fait le site dans son eyebrow: sans elle, la moitie bleue du ballon se
-    fondrait dans le bleu du fond.
+    Navy et creme, les deux principales de la charte, et rien d autre. Le
+    ballon est pose sur une pastille creme a coins arrondis, comme le fait le
+    site dans son eyebrow: sans elle, la moitie foncee du ballon se fondrait
+    dans le fond.
     """
     d = ImageDraw.Draw(c)
-    d.rectangle([0, 0, W, ENTETE_H], fill=BLEU + (255,))
-    d.text((W // 2, 74), COURTIER, font=playfair(86, 700), fill=BLANC,
+    d.rectangle([0, 0, W, ENTETE_H], fill=NAVY + (255,))
+    d.text((W // 2, 82), COURTIER, font=playfair(86, 700), fill=CREME,
            anchor="ma")
 
     cote, pad = 82, 9
@@ -99,10 +105,10 @@ def entete(c):
     lbl = "RE/MAX DU CARTIER INC."
     total = cote + 22 + tw(d, lbl, fl, 3)
     x = (W - total) / 2
-    y = 206
-    d.rounded_rectangle([x, y, x + cote, y + cote], 12, fill=BLANC + (255,))
+    y = 216
+    d.rounded_rectangle([x, y, x + cote, y + cote], 12, fill=CREME + (255,))
     logo(c, lh, (x + (cote - lw) / 2, y + pad), white=False)
-    tracked(d, (x + cote + 22, y + cote / 2 - 13), lbl, fl, BLANC, 3)
+    tracked(d, (x + cote + 22, y + cote / 2 - 13), lbl, fl, CREME, 3)
 
 
 def bande_photo(c, prop):
@@ -140,10 +146,10 @@ def bandeau_vendu(c, prop):
     ecart, filet = 46, 3
     x = (W - (wv + ecart + filet + ecart + ws)) / 2
     y = haut + (bas - haut - 88) / 2 - 6
-    tracked(d, (x, y), "VENDU", f, BLANC, track)
+    tracked(d, (x, y), "VENDU", f, CREME, track)
     d.rectangle([x + wv + ecart, y + 10, x + wv + ecart + filet, y + 92],
-                fill=BLANC + (200,))
-    tracked(d, (x + wv + ecart + filet + ecart, y), "SOLD", f, BLANC, track)
+                fill=CREME + (200,))
+    tracked(d, (x + wv + ecart + filet + ecart, y), "SOLD", f, CREME, track)
 
 
 def pied(c, prop):
@@ -172,12 +178,15 @@ def pied(c, prop):
     d.text((x, y + 2), EQUIPE, font=inter(23, 400), fill=GRIS_PALE)
     y += 38
 
+    # le filet d accent est bleu et non rouge: le rouge est deja pris par le
+    # bandeau, et le bleu est la seule secondaire qui ne sert nulle part
+    # ailleurs que dans le ballon
     y = max(y + 16, 1148)
-    d.rectangle([x, y, x + 64, y + 5], fill=ROUGE + (255,))
+    d.rectangle([x, y, x + 64, y + 5], fill=BLEU + (255,))
     y += 28
     for ln in prop["adresse"]:
         for bout in wrap(d, ln, inter(27, 700), dispo):
-            d.text((x, y), bout, font=inter(27, 700), fill=TEXTE)
+            d.text((x, y), bout, font=inter(27, 700), fill=NAVY)
             y += 38
 
     # la ligne de coordonnees se pose sous l adresse, jamais dessus, et se

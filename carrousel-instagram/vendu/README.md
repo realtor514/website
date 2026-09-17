@@ -15,41 +15,46 @@ les gens qui ne suivent pas encore le compte.
 ## La publication VENDU | SOLD
 
 Le visuel courant du marché montréalais, monté comme une pancarte RE/MAX:
-trois aplats, les trois couleurs du ballon, et rien d'autre.
+trois aplats et rien d'autre.
 
-1. **L'en-tête bleu**: le nom du courtier en Playfair blanc, puis le ballon
-   sur sa pastille blanche et RE/MAX DU CARTIER INC.
+1. **L'en-tête navy**: le nom du courtier en Playfair crème, puis le ballon
+   sur sa pastille crème et RE/MAX DU CARTIER INC.
 2. **La façade** en plein cadre, barrée du **bandeau rouge VENDU | SOLD**.
 3. **Le pied crème**: le portrait, le titre, l'adresse.
 
 Pas de prix, pas de caractéristiques. Ce n'est pas une annonce, c'est une
 preuve, et elle doit se lire en une seconde dans un fil.
 
-### Les couleurs
+### La charte RE/MAX DU CARTIER
 
-Elles ne sont pas choisies à l'oeil: elles sont échantillonnées dans
-`static/images/remax-logo.png`, comme le fait déjà le générateur des
-carrousels. Le ballon donne deux valeurs, et son bleu est exactement le
-`--blue` de `static/css/main.css`: la pancarte, le site et le profil parlent
-la même langue.
+Ce qui compte ici n'est pas seulement la liste des couleurs, c'est leur
+hiérarchie. Deux principales, trois secondaires, et ça se voit: les grands
+aplats sont navy et crème, les secondaires n'accentuent.
 
-| Rôle | Valeur | D'où elle vient |
-|------|--------|-----------------|
-| En-tête | `#0043ff` | le bleu du ballon, et le `--blue` du site |
-| Bandeau VENDU, filet d'accent | `#ff1200` | le rouge du ballon |
-| Fond du pied | `#F7F5EE` | `--off-white` du site |
-| Adresse, texte courant | `#1a2332` / `#6b7280` | `--text` et `--gray` du site |
+| Couleur | Rang | Où elle sert sur la publication |
+|---------|------|----------------------------------|
+| `#000E35` navy | principale | l'en-tête, le nom, l'adresse |
+| `#F7F5EE` crème | principale | le pied, tout le texte sur navy et sur rouge |
+| `#FF1200` rouge | secondaire | le bandeau VENDU \| SOLD |
+| `#0043FF` bleu | secondaire | le filet d'accent au dessus de l'adresse |
+| `#600000` bordeaux | secondaire | pas utilisé ici, gardé dans la palette |
+
+Le bandeau rouge est la seule entorse à la règle: une secondaire sur une
+grande surface. C'est assumé, c'est lui qui dit VENDU, et il doit se lire
+dans une vignette de fil.
 
 Trois précisions de fabrication:
 
-- Le ballon est posé sur une **pastille blanche à coins arrondis**, comme le
-  fait le site dans son eyebrow. Sans elle, la moitié bleue du ballon se
-  fondrait dans le bleu du fond.
-- Le pied reste clair alors que l'en-tête est bleu: le portrait est un
+- Le ballon est posé sur une **pastille crème à coins arrondis**, comme le
+  fait le site dans son eyebrow. Sans elle, la moitié foncée du ballon se
+  fondrait dans le navy.
+- Le pied reste clair alors que l'en-tête est navy: le portrait est un
   découpé en complet sombre, il disparaîtrait sur un fond foncé.
 - Le bandeau est un **aplat plein**, sans filet ni transparence. C'est le
-  seul traitement qui reste lisible dans une vignette de fil, et c'est le
-  code couleur que tout le monde associe déjà à RE/MAX.
+  seul traitement qui reste lisible dans une vignette de fil.
+
+Le texte sur fond sombre est en crème `#F7F5EE` et non en blanc pur: le blanc
+n'est pas dans la charte.
 
 ```
 python "carrousel-instagram/vendu/generer-post-vendu.py"           les deux
