@@ -4,18 +4,18 @@
     python "carrousel-instagram/vendu/generer-post-vendu.py"           les deux
     python "carrousel-instagram/vendu/generer-post-vendu.py" mirabel   une seule
 
-Le visuel courant du marche montrealais, mais habille aux couleurs du site
-georgesmatar.ca plutot qu en blanc neutre. Les valeurs sont prises telles
-quelles dans `static/css/main.css`, le fichier qui habille le site: navy
-#0a1628, rouge #B00000, bleu #0043FF, creme #F7F5EE, Playfair pour les titres
-et Inter pour le reste. Le profil Instagram et le site se repondent.
+Le visuel courant du marche montrealais, monte comme une pancarte RE/MAX:
+trois aplats, les trois couleurs du ballon, et rien d autre.
 
-La structure, de haut en bas:
+1. l en-tete bleu, le nom du courtier et la pastille de l agence
+2. la facade en plein cadre, barree du bandeau rouge VENDU | SOLD
+3. le pied creme: le portrait, le titre, l adresse
 
-1. le triple filet rouge, blanc, bleu du ballon RE/MAX, sur fond navy
-2. le nom du courtier, dont le patronyme en bleu, comme le hero du site
-3. la facade en plein cadre, barree d un bandeau rouge VENDU | SOLD
-4. le pied creme: le portrait, le titre, l adresse
+Le bleu et le rouge ne sont pas choisis a l oeil: ils sont echantillonnes
+dans `static/images/remax-logo.png`, comme le fait deja le generateur des
+carrousels. Le ballon donne #0043ff et #ff1200, et ce bleu est exactement le
+`--blue` de `static/css/main.css`: la pancarte, le site et le profil parlent
+la meme langue. Playfair pour le nom, Inter pour le reste.
 
 Pas de prix, pas de caracteristiques. Ce n est pas une annonce, c est une
 preuve, et elle doit se lire en une seconde dans un fil.
@@ -40,20 +40,19 @@ MARGE = 72
 ENTETE_H = 330                          # le bloc navy du haut
 PHOTO_Y0, PHOTO_Y1 = 330, 970           # la bande de photo, pleine largeur
 
-# --------------------------------------------- palette du site, main.css
-NAVY = (10, 22, 40)                     # --navy
-ROUGE = (176, 0, 0)                     # --red
-BLEU = (0, 67, 255)                     # --blue
-BLEU_VIF = (46, 107, 255)               # --blue-bright, lisible sur le navy
-CREME = (247, 245, 238)                 # --off-white
+# ------------------------------------- palette, echantillonnee dans le logo
+# remax-logo.png donne ces deux valeurs au pixel pres. Le bleu est aussi le
+# --blue de main.css: le site a ete construit sur le meme echantillon.
+BLEU = (0, 67, 255)                     # #0043ff, le ballon et --blue
+ROUGE = (255, 18, 0)                    # #ff1200, le ballon
+NAVY = (0, 14, 53)                      # #000e35, le fonce du logo
+CREME = (247, 245, 238)                 # --off-white du site
 TEXTE = (26, 35, 50)                    # --text
 GRIS = (107, 114, 128)                  # --gray
 GRIS_PALE = (152, 159, 172)
 BLANC = (255, 255, 255)
 
-COURTIER_PRENOM = "Georges "
-COURTIER_NOM = "Matar"
-COURTIER = COURTIER_PRENOM + COURTIER_NOM
+COURTIER = "Georges Matar"
 TITRE = "Courtier immobilier résidentiel"
 # l attribution a l Equipe Pistoli est due, mais elle n a pas a concurrencer
 # le nom du courtier: elle reste dans le pied, en gris pale, sous le titre
@@ -82,30 +81,28 @@ PROPRIETES = [
 
 
 def entete(c):
-    """Fond navy, filet RE/MAX, nom du courtier et agence."""
+    """L en-tete bleu: le nom du courtier, puis la pastille de l agence.
+
+    Le ballon est pose sur une pastille blanche a coins arrondis, comme le
+    fait le site dans son eyebrow: sans elle, la moitie bleue du ballon se
+    fondrait dans le bleu du fond.
+    """
     d = ImageDraw.Draw(c)
-    d.rectangle([0, 0, W, ENTETE_H], fill=NAVY + (255,))
+    d.rectangle([0, 0, W, ENTETE_H], fill=BLEU + (255,))
+    d.text((W // 2, 74), COURTIER, font=playfair(86, 700), fill=BLANC,
+           anchor="ma")
 
-    # le triple filet du ballon: rouge, blanc, bleu
-    for i, couleur in enumerate([ROUGE, BLANC, BLEU]):
-        d.rectangle([0, i * 5, W, i * 5 + 5], fill=couleur + (255,))
-
-    # le patronyme en bleu, exactement comme le titre du hero sur le site
-    f = playfair(86, 700)
-    wp = d.textlength(COURTIER_PRENOM, font=f)
-    wn = d.textlength(COURTIER_NOM, font=f)
-    x = (W - (wp + wn)) / 2
-    d.text((x, 92), COURTIER_PRENOM, font=f, fill=BLANC)
-    d.text((x + wp, 92), COURTIER_NOM, font=f, fill=BLEU_VIF)
-
-    lh = 56
+    cote, pad = 82, 9
+    lh = cote - 2 * pad
     lw = logo_w(lh, False)
-    fl = inter(23, 700)
+    fl = inter(24, 700)
     lbl = "RE/MAX DU CARTIER INC."
-    total = lw + 20 + tw(d, lbl, fl, 3)
+    total = cote + 22 + tw(d, lbl, fl, 3)
     x = (W - total) / 2
-    logo(c, lh, (x, 222), white=False)
-    tracked(d, (x + lw + 20, 222 + lh / 2 - 13), lbl, fl, BLANC, 3)
+    y = 206
+    d.rounded_rectangle([x, y, x + cote, y + cote], 12, fill=BLANC + (255,))
+    logo(c, lh, (x + (cote - lw) / 2, y + pad), white=False)
+    tracked(d, (x + cote + 22, y + cote / 2 - 13), lbl, fl, BLANC, 3)
 
 
 def bande_photo(c, prop):
@@ -134,9 +131,8 @@ def bandeau_vendu(c, prop):
     haut = prop.get("bandeau", 596)
     bas = haut + 158
     d = ImageDraw.Draw(c)
-    d.rectangle([0, haut, W, bas], fill=ROUGE + (242,))
-    d.rectangle([0, haut, W, haut + 4], fill=BLANC + (70,))
-    d.rectangle([0, bas - 4, W, bas], fill=(0, 0, 0, 52))
+    # aplat plein, sans filet ni transparence: une pancarte, pas un calque
+    d.rectangle([0, haut, W, bas], fill=ROUGE + (255,))
 
     f = inter(88, 300)
     track = 9
@@ -195,7 +191,7 @@ def pied(c, prop):
 
 
 def fabriquer(prop):
-    c = Image.new("RGBA", (W, H), NAVY + (255,))
+    c = Image.new("RGBA", (W, H), CREME + (255,))
     entete(c)
     bande_photo(c, prop)
     bandeau_vendu(c, prop)

@@ -14,38 +14,42 @@ les gens qui ne suivent pas encore le compte.
 
 ## La publication VENDU | SOLD
 
-Le visuel courant du marché montréalais, mais habillé aux couleurs du site
-georgesmatar.ca plutôt qu'en blanc neutre. De haut en bas:
+Le visuel courant du marché montréalais, monté comme une pancarte RE/MAX:
+trois aplats, les trois couleurs du ballon, et rien d'autre.
 
-1. le triple filet rouge, blanc, bleu du ballon RE/MAX, sur fond navy
-2. le nom du courtier, dont le patronyme en bleu, comme le titre du hero sur
-   le site
-3. la façade en plein cadre, barrée d'un bandeau rouge VENDU | SOLD
-4. le pied crème: le portrait, le titre, l'adresse
+1. **L'en-tête bleu**: le nom du courtier en Playfair blanc, puis le ballon
+   sur sa pastille blanche et RE/MAX DU CARTIER INC.
+2. **La façade** en plein cadre, barrée du **bandeau rouge VENDU | SOLD**.
+3. **Le pied crème**: le portrait, le titre, l'adresse.
 
 Pas de prix, pas de caractéristiques. Ce n'est pas une annonce, c'est une
 preuve, et elle doit se lire en une seconde dans un fil.
 
 ### Les couleurs
 
-Prises telles quelles dans `static/css/main.css`, le fichier qui habille le
-site. Le profil Instagram et le site se répondent au lieu de vivre chacun de
-leur côté.
+Elles ne sont pas choisies à l'oeil: elles sont échantillonnées dans
+`static/images/remax-logo.png`, comme le fait déjà le générateur des
+carrousels. Le ballon donne deux valeurs, et son bleu est exactement le
+`--blue` de `static/css/main.css`: la pancarte, le site et le profil parlent
+la même langue.
 
-| Rôle | Variable du site | Valeur |
-|------|------------------|--------|
-| En-tête, nom du courtier | `--navy` | `#0a1628` |
-| Bandeau VENDU, filet d'accent | `--red` | `#B00000` |
-| Patronyme, filet du ballon | `--blue` / `--blue-bright` | `#0043FF` / `#2E6BFF` |
-| Fond du pied | `--off-white` | `#F7F5EE` |
-| Adresse, texte courant | `--text` / `--gray` | `#1a2332` / `#6b7280` |
+| Rôle | Valeur | D'où elle vient |
+|------|--------|-----------------|
+| En-tête | `#0043ff` | le bleu du ballon, et le `--blue` du site |
+| Bandeau VENDU, filet d'accent | `#ff1200` | le rouge du ballon |
+| Fond du pied | `#F7F5EE` | `--off-white` du site |
+| Adresse, texte courant | `#1a2332` / `#6b7280` | `--text` et `--gray` du site |
 
-Le pied reste clair alors que l'en-tête est navy: le portrait est un découpé
-en complet sombre, il disparaîtrait sur un fond foncé.
+Trois précisions de fabrication:
 
-Le bandeau rouge remplace le texte blanc posé sur la photo. C'est le seul
-traitement qui reste lisible dans une vignette de fil, et c'est le code
-couleur que tout le monde associe déjà à RE/MAX.
+- Le ballon est posé sur une **pastille blanche à coins arrondis**, comme le
+  fait le site dans son eyebrow. Sans elle, la moitié bleue du ballon se
+  fondrait dans le bleu du fond.
+- Le pied reste clair alors que l'en-tête est bleu: le portrait est un
+  découpé en complet sombre, il disparaîtrait sur un fond foncé.
+- Le bandeau est un **aplat plein**, sans filet ni transparence. C'est le
+  seul traitement qui reste lisible dans une vignette de fil, et c'est le
+  code couleur que tout le monde associe déjà à RE/MAX.
 
 ```
 python "carrousel-instagram/vendu/generer-post-vendu.py"           les deux
