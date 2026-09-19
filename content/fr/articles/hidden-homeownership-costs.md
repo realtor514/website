@@ -1,6 +1,7 @@
 ---
 title: "Les coûts cachés de la propriété que personne ne met dans la brochure"
 date: 2026-06-29
+lastmod: 2026-09-19
 category: "Guide de l'acheteur"
 description: "Votre versement hypothécaire est le chiffre sur lequel tout le monde se concentre. C'est aussi le chiffre le plus trompeur dans tout le processus d'achat. Voici ce qui apparaît vraiment la première année."
 image: "images/articles/hidden-homeownership-costs/featured.jpg"
@@ -12,7 +13,7 @@ Voici le chiffre que les banques utilisent pour calculer si vous pouvez vous per
 
 **Taxe de bienvenue**
 
-Au Québec, lors de l'achat d'une propriété, vous payez une taxe de mutation calculée sur une échelle progressive. Sur une propriété de 500 000 $, attendez-vous à payer environ 6 500 à 7 000 $ de taxe de bienvenue. Ce montant est dû dans les 30 jours suivant la prise de possession.
+Au Québec, lors de l'achat d'une propriété, vous payez une taxe de mutation calculée sur une échelle progressive. Sur une propriété de 500 000 $, attendez-vous à environ 5 600 $ de taxe de bienvenue avec les seuils de 2026. La municipalité envoie le compte quelques mois après l'achat, payable dans les 30 jours, et ce montant ne s'ajoute pas à votre hypothèque.
 
 **Frais de notaire**
 

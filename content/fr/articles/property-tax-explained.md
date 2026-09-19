@@ -1,7 +1,7 @@
 ---
 title: "Les taxes foncières à Montréal et Laval : une explication complète"
 date: 2026-05-25
-lastmod: 2026-08-31
+lastmod: 2026-09-19
 category: "Financement"
 description: "Évaluation municipale, taux, taxe scolaire, taxe de bienvenue et répartition chez le notaire. Ce que vous paierez vraiment chaque année, et les deux erreurs de budget les plus fréquentes."
 image: "images/articles/property-tax-explained/featured.jpg"
@@ -80,26 +80,27 @@ ce qui surprend les nouveaux propriétaires.
 le nom de taxe de bienvenue. Ce n'est pas une taxe annuelle, mais elle est assez
 lourde pour être planifiée dès le départ.
 
-Le calcul se fait par tranches, et les seuils sont indexés chaque année :
+Le calcul se fait par tranches, et les seuils sont indexés chaque année. En
+2026, le régime de base est :
 
-- 0,5 % sur la première tranche jusqu'à 61 500 $
-- 1,0 % sur la tranche de 61 500 $ à 307 800 $
-- 1,5 % sur la portion au-delà de 307 800 $
+- 0,5 % sur la première tranche jusqu'à 62 900 $
+- 1,0 % sur la tranche de 62 900 $ à 315 000 $
+- 1,5 % sur la portion au-delà de 315 000 $
 
-Montréal ajoute ses propres paliers au-delà de 552 300 $, ce qui rend sa taxe
-nettement plus élevée sur les propriétés de valeur importante. Comparaison à
-seuils identiques :
+Une municipalité peut ajouter des taux plus élevés au-delà de 500 000 $. Laval
+l'a fait en 2026 : 3 % sur toute la portion au-delà de 500 000 $. Montréal a ses
+propres paliers au-delà de 552 300 $. Comparaison avec les seuils 2026 :
 
-| Prix payé | Laval et la plupart des villes | Montréal |
-|---|---|---|
-| 400 000 $ | 4 154 $ | 4 154 $ |
-| 550 000 $ | 6 404 $ | 6 404 $ |
-| 700 000 $ | 8 654 $ | 9 392 $ |
-| 900 000 $ | 11 654 $ | 13 392 $ |
+| Prix payé | Taux de base (la plupart des villes) | Laval | Montréal |
+|---|---|---|---|
+| 400 000 $ | 4 111 $ | 4 111 $ | 4 111 $ |
+| 550 000 $ | 6 361 $ | 7 111 $ | 6 361 $ |
+| 700 000 $ | 8 611 $ | 11 611 $ | 9 349 $ |
+| 900 000 $ | 11 611 $ | 17 611 $ | 13 349 $ |
 
-L'écart apparaît au-delà de 552 300 $ et se creuse ensuite. Sur une propriété à
-900 000 $, acheter à Montréal plutôt qu'à Laval coûte environ 1 738 $ de plus en
-droit de mutation.
+Jusqu'à 500 000 $, le montant est le même partout. Au-delà, Laval devient la
+plus chère des trois : sur une propriété à 900 000 $, on y paie environ 6 000 $
+de plus qu'au taux de base, et environ 4 262 $ de plus qu'à Montréal.
 
 Le [calculateur de taxe de bienvenue](/tools/welcome-tax/) fait le calcul exact
 pour votre ville et votre prix, avec les seuils en vigueur.

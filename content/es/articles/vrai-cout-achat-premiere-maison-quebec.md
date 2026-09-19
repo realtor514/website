@@ -1,6 +1,7 @@
 ---
 title: "El Costo Real de Comprar su Primera Casa en Quebec"
 date: 2026-06-10
+lastmod: 2026-09-19
 translationKey: "article-vrai-cout-premiere-maison"
 category: "Guía del Comprador"
 description: "Todo el mundo habla del precio de compra. Nadie le habla de lo que viene después. Aquí está el desglose completo de costos que todo comprador primerizo en Quebec necesita conocer."
@@ -20,13 +21,13 @@ Cuando compra una propiedad de $500,000 en Quebec, esto es lo que realmente nece
 El mínimo legal es del 5%, es decir, $25,000 en una propiedad de $500K. Pero el 5% raramente es la elección financiera óptima (más sobre eso a continuación).
 
 **2. Seguro Hipotecario CMHC**
-Si su pago inicial es inferior al 20%, la ley le exige contratar un seguro CMHC. Este seguro protege al prestamista (no a usted) y cuesta entre el 2.8% y el 4% del monto de su préstamo. En una hipoteca de $475,000, eso es hasta $19,000 añadidos directamente a su préstamo. Pagará intereses sobre ese monto durante toda la vida de su hipoteca.
+Si su pago inicial es inferior al 20%, la ley le exige contratar un seguro CMHC. Este seguro protege al prestamista (no a usted) y cuesta entre el 2.8% y el 4% del monto de su préstamo. En una hipoteca de $475,000, eso es hasta $19,000 añadidos directamente a su préstamo. Pagará intereses sobre ese monto durante toda la vida de su hipoteca. La TVQ del 9% sobre esa prima, en cambio, no se añade al préstamo: se paga en efectivo ante el notario.
 
 **3. Impuesto de Bienvenida (Taxe de Bienvenue)**
-Este es el impuesto único de transferencia de propiedad de Quebec, calculado en una escala progresiva. En una propiedad de $500,000, presupueste aproximadamente $6,000 a $7,500. Vence dentro de los 30 días posteriores a la firma del acto notarial. Muchos compradores lo olvidan por completo hasta que llega la factura.
+Este es el impuesto único de transferencia de propiedad de Quebec, calculado en una escala progresiva. En una propiedad de $500,000, presupueste unos $5,600 con los umbrales de 2026. El municipio envía la factura unos meses después de la firma ante el notario, y se paga dentro de los 30 días siguientes a ese envío. Muchos compradores lo olvidan por completo hasta que llega la factura.
 
 **4. Honorarios Notariales**
-En Quebec, todas las transferencias de propiedad deben pasar por un notario. Presupueste $1,000 a $2,000 para una transacción residencial estándar.
+En Quebec, el acto de venta y el acto de hipoteca se firman ante notario. Presupueste $1,000 a $2,000 para una transacción residencial estándar.
 
 **5. Inspección del Edificio**
 Nunca omita esto. Un inspector calificado cuesta entre $500 y $900 y examinará el techo, los cimientos, la plomería, la electricidad y el aislamiento. He visto compradores omitir la inspección para ganar una guerra de ofertas, y luego descubrir $85,000 en daños por pirita en los cimientos seis meses después del cierre. La inspección habría costado $600.
@@ -45,12 +46,13 @@ En una compra de $500,000 con un pago inicial del 5%, así es como se ve el pres
 |-|-|
 | Pago inicial (5%) | $25,000 |
 | Seguro CMHC | ~$19,000 (añadido a la hipoteca) |
-| Impuesto de bienvenida | ~$6,500 |
+| TVQ sobre la prima CMHC (9%) | ~$1,710 |
+| Impuesto de bienvenida | ~$5,600 |
 | Honorarios notariales | ~$1,500 |
 | Inspección del edificio | ~$700 |
 | Ajustes y varios | ~$1,000 |
 | Costos de mudanza | ~$2,000 |
-| **Total en efectivo necesario al cierre** | **~$36,700** |
+| **Total en efectivo necesario al cierre** | **~$37,500** |
 
 La conclusión clave: los costos de cierre (todo más allá del pago inicial) típicamente representan del 3% al 5% del precio de compra. Esa cantidad debe estar en efectivo. No puede pedirla prestada.
 

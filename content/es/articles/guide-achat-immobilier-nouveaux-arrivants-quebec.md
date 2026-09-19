@@ -1,6 +1,7 @@
 ---
 title: "Guía Completa para Recién Llegados que Compran Propiedad en Quebec"
 date: 2026-07-16
+lastmod: 2026-09-19
 translationKey: "article-guide-nouveaux-arrivants"
 category: "Guía del Comprador"
 description: "Comprar bienes raíces en Quebec como recién llegado es completamente posible, pero el sistema funciona de manera diferente a la mayoría de los países. Esta guía explica todo lo que necesita saber, en lenguaje claro."
@@ -79,9 +80,9 @@ El notario es legalmente neutral; protege los intereses de ambas partes. En la m
 
 Este es un impuesto único que se paga al municipio cuando compra una propiedad en Quebec. Se aplica a todos los compradores, independientemente de si es comprador primerizo o no.
 
-El impuesto se calcula en una escala progresiva basada en el valor de la propiedad. En una propiedad de $400,000, pagaría aproximadamente $4,500. En una propiedad de $600,000, aproximadamente $8,000.
+El impuesto se calcula en una escala progresiva basada en el valor de la propiedad. Con los umbrales de 2026, una propiedad de $400,000 da unos $4,100. A $600,000, son unos $7,100 con la tasa base, unos $7,350 en Montreal y unos $8,600 en Laval, que aplica el 3% por encima de $500,000 desde 2026.
 
-Es pagadero dentro de los 30 días posteriores a la firma del acto notarial. Presupueste para ello, ya que muchos compradores son tomados por sorpresa.
+El municipio envía la factura unos meses después de la firma ante el notario, y se paga dentro de los 30 días siguientes a ese envío. Presupueste para ello, ya que muchos compradores son tomados por sorpresa.
 
 Algunos municipios ofrecen reembolsos parciales para compradores primerizos. Consulte con su municipio específico.
 

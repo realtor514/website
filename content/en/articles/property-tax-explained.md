@@ -1,7 +1,7 @@
 ---
 title: "Property Taxes in Montreal and Laval: A Complete Explanation"
 date: 2026-05-25
-lastmod: 2026-08-31
+lastmod: 2026-09-19
 category: "Finance"
 description: "Municipal evaluation, tax rate, school tax, welcome tax and the adjustment at the notary. What you will actually pay each year, and the two budgeting mistakes buyers make most often."
 image: "images/articles/property-tax-explained/featured.jpg"
@@ -76,24 +76,27 @@ owners.
 At purchase, the municipality collects a transfer duty known as the welcome tax.
 It is not annual, but it is heavy enough to plan for from the start.
 
-It is calculated in brackets, and the thresholds are indexed each year:
+It is calculated in brackets, and the thresholds are indexed each year. In
+2026, the base regime is:
 
-- 0.5% on the first bracket up to $61,500
-- 1.0% on the bracket from $61,500 to $307,800
-- 1.5% on the portion above $307,800
+- 0.5% on the first bracket up to $62,900
+- 1.0% on the bracket from $62,900 to $315,000
+- 1.5% on the portion above $315,000
 
-Montreal adds its own brackets above $552,300, which makes its tax significantly
-higher on more valuable properties. Same thresholds, side by side:
+A municipality may add higher rates above $500,000. Laval did so in 2026: 3% on
+the entire portion above $500,000. Montreal has its own brackets above
+$552,300. Side by side, with the 2026 thresholds:
 
-| Price paid | Laval and most cities | Montreal |
-|---|---|---|
-| $400,000 | $4,154 | $4,154 |
-| $550,000 | $6,404 | $6,404 |
-| $700,000 | $8,654 | $9,392 |
-| $900,000 | $11,654 | $13,392 |
+| Price paid | Base rate (most cities) | Laval | Montreal |
+|---|---|---|---|
+| $400,000 | $4,111 | $4,111 | $4,111 |
+| $550,000 | $6,361 | $7,111 | $6,361 |
+| $700,000 | $8,611 | $11,611 | $9,349 |
+| $900,000 | $11,611 | $17,611 | $13,349 |
 
-The gap appears above $552,300 and widens from there. On a $900,000 property,
-buying in Montreal rather than Laval costs about $1,738 more in transfer duty.
+Up to $500,000, the amount is the same everywhere. Above that, Laval becomes the
+most expensive of the three: on a $900,000 property, you pay about $6,000 more
+there than at the base rate, and about $4,262 more than in Montreal.
 
 The [welcome tax calculator](/en/tools/welcome-tax/) runs the exact figure for
 your city and price, with the thresholds in force.

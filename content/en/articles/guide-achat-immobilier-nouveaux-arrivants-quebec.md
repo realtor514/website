@@ -1,6 +1,7 @@
 ---
 title: "A Complete Guide for Newcomers Buying Property in Quebec"
 date: 2026-07-16
+lastmod: 2026-09-19
 translationKey: "article-guide-nouveaux-arrivants"
 category: "Buyer's Guide"
 description: "Buying real estate in Quebec as a newcomer is entirely possible, but the system works differently from most countries. This guide walks through everything you need to know, in plain language."
@@ -81,9 +82,9 @@ One important note: all official real estate documents in Quebec are in French. 
 
 This is a one-time tax paid to the municipality when you purchase property in Quebec. It applies to all buyers, regardless of whether you are a first-time buyer or not.
 
-The tax is calculated on a sliding scale based on the property value. On a $400,000 property, you would pay approximately $4,500. On a $600,000 property, approximately $8,000.
+The tax is calculated on a sliding scale based on the property value. With the 2026 thresholds, a $400,000 property comes to about $4,100. At $600,000, it is about $7,100 at the base rate, about $7,350 in Montreal and about $8,600 in Laval, which has charged 3% above $500,000 since 2026.
 
-It is payable within 30 days of signing the notarial deed. Budget for it, as many buyers are caught off guard.
+The municipality sends the bill a few months after the notary signing, and it is payable within 30 days of that bill. Budget for it, as many buyers are caught off guard.
 
 Some municipalities offer partial rebates for first-time buyers. Check with your specific municipality.
 

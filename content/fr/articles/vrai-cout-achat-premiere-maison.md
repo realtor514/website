@@ -1,6 +1,7 @@
 ---
 title: "Le vrai coût d'achat de votre première maison au Québec"
 date: 2026-06-10
+lastmod: 2026-09-19
 translationKey: "article-vrai-cout-premiere-maison"
 category: "Guide de l'acheteur"
 description: "Tout le monde parle du prix de la maison. Personne ne parle de ce qui vient après. Voici le budget complet que tout premier acheteur au Québec doit connaître."
@@ -20,13 +21,13 @@ Lorsque vous achetez une propriété à 500 000 dollars au Québec, voici ce que
 Le minimum légal est de 5%, soit 25 000 dollars sur une propriété à 500 000 dollars. Mais 5% est rarement le choix financier optimal (nous y reviendrons).
 
 **2. L'assurance hypothécaire SCHL**
-Si votre mise de fonds est inférieure à 20%, vous êtes obligé par la loi de souscrire à une assurance SCHL. Cette assurance protège le prêteur, pas vous, et coûte entre 2,8% et 4% du montant de votre prêt. Sur une hypothèque de 475 000 dollars, cela représente jusqu'à 19 000 dollars ajoutés directement à votre prêt. Vous paierez des intérêts sur ce montant pendant toute la durée de votre amortissement.
+Si votre mise de fonds est inférieure à 20%, vous êtes obligé par la loi de souscrire à une assurance SCHL. Cette assurance protège le prêteur, pas vous, et coûte entre 2,8% et 4% du montant de votre prêt. Sur une hypothèque de 475 000 dollars, cela représente jusqu'à 19 000 dollars ajoutés directement à votre prêt. Vous paierez des intérêts sur ce montant pendant toute la durée de votre amortissement. La TVQ de 9 % sur cette prime, elle, ne s'ajoute pas au prêt : elle se paie comptant chez le notaire.
 
 **3. Les taxes de bienvenue**
-C'est la taxe de mutation immobilière du Québec, calculée selon un barème progressif. Sur une propriété de 500 000 dollars, prévoyez environ 6 000 à 7 500 dollars. Elle est payable dans les 30 jours suivant la signature de l'acte notarié. De nombreux acheteurs l'oublient complètement jusqu'à la réception de la facture.
+C'est la taxe de mutation immobilière du Québec, calculée selon un barème progressif. Sur une propriété de 500 000 dollars, prévoyez environ 5 600 dollars avec les seuils de 2026. La municipalité envoie le compte quelques mois après la signature chez le notaire, et il est payable dans les 30 jours suivant cet envoi. De nombreux acheteurs l'oublient complètement jusqu'à la réception de la facture.
 
 **4. Les frais de notaire**
-Au Québec, tous les transferts de propriété doivent passer par un notaire. Prévoyez de 1 000 à 2 000 dollars pour une transaction résidentielle standard.
+Au Québec, l'acte de vente et l'acte d'hypothèque se signent devant notaire. Prévoyez de 1 000 à 2 000 dollars pour une transaction résidentielle standard.
 
 **5. L'inspection préachat**
 Ne sautez jamais cette étape. Un inspecteur qualifié coûte de 500 à 900 dollars et examine la toiture, les fondations, la plomberie, l'électricité et l'isolation. Des acheteurs sautent l'inspection pour gagner une guerre d'offres, puis découvrent 85 000 dollars de dommages liés à la pyrite dans les fondations six mois après le closing. L'inspection aurait coûté 600 dollars.
@@ -45,12 +46,13 @@ Sur un achat de 500 000 dollars avec une mise de fonds de 5%, voici le budget co
 |-|-|
 | Mise de fonds (5%) | 25 000 $ |
 | Assurance SCHL | ~19 000 $ (ajoutée au prêt) |
-| Taxes de bienvenue | ~6 500 $ |
+| TVQ sur la prime SCHL (9 %) | ~1 710 $ |
+| Taxes de bienvenue | ~5 600 $ |
 | Frais de notaire | ~1 500 $ |
 | Inspection préachat | ~700 $ |
 | Ajustements et divers | ~1 000 $ |
 | Frais de déménagement | ~2 000 $ |
-| **Total en espèces requis** | **~36 700 $** |
+| **Total en espèces requis** | **~37 500 $** |
 
 Le point clé: les frais de fermeture, tout ce qui s'ajoute à la mise de fonds, représentent typiquement 3% à 5% du prix d'achat. Ce montant doit être disponible en espèces. Il ne peut pas être emprunté.
 

@@ -1,7 +1,7 @@
 ---
 title: "Los impuestos municipales en Montreal y Laval: explicación completa"
 date: 2026-05-25
-lastmod: 2026-08-31
+lastmod: 2026-09-19
 category: "Financiamiento"
 description: "Evaluación municipal, tasa, impuesto escolar, impuesto de bienvenida y el prorrateo ante el notario. Lo que pagará realmente cada año y los dos errores de presupuesto más frecuentes."
 image: "images/articles/property-tax-explained/featured.jpg"
@@ -80,25 +80,27 @@ Al comprar, el municipio cobra un derecho de mutación conocido como impuesto de
 bienvenida. No es anual, pero pesa lo suficiente como para preverlo desde el
 principio.
 
-Se calcula por tramos, y los umbrales se indexan cada año:
+Se calcula por tramos, y los umbrales se indexan cada año. En 2026, el régimen
+de base es:
 
-- 0,5 % sobre el primer tramo hasta 61 500 $
-- 1,0 % sobre el tramo de 61 500 $ a 307 800 $
-- 1,5 % sobre la porción por encima de 307 800 $
+- 0,5 % sobre el primer tramo hasta 62 900 $
+- 1,0 % sobre el tramo de 62 900 $ a 315 000 $
+- 1,5 % sobre la porción por encima de 315 000 $
 
-Montreal añade sus propios tramos por encima de 552 300 $, lo que encarece
-bastante su impuesto en propiedades de valor alto. Comparación lado a lado:
+Un municipio puede añadir tasas más altas por encima de 500 000 $. Laval lo hizo
+en 2026: 3 % sobre toda la porción que supera 500 000 $. Montreal tiene sus
+propios tramos por encima de 552 300 $. Comparación con los umbrales 2026:
 
-| Precio pagado | Laval y la mayoría de ciudades | Montreal |
-|---|---|---|
-| 400 000 $ | 4 154 $ | 4 154 $ |
-| 550 000 $ | 6 404 $ | 6 404 $ |
-| 700 000 $ | 8 654 $ | 9 392 $ |
-| 900 000 $ | 11 654 $ | 13 392 $ |
+| Precio pagado | Tasa base (la mayoría de ciudades) | Laval | Montreal |
+|---|---|---|---|
+| 400 000 $ | 4 111 $ | 4 111 $ | 4 111 $ |
+| 550 000 $ | 6 361 $ | 7 111 $ | 6 361 $ |
+| 700 000 $ | 8 611 $ | 11 611 $ | 9 349 $ |
+| 900 000 $ | 11 611 $ | 17 611 $ | 13 349 $ |
 
-La diferencia aparece por encima de 552 300 $ y se agranda después. En una
-propiedad de 900 000 $, comprar en Montreal en lugar de Laval cuesta unos 1 738 $
-más en derecho de mutación.
+Hasta 500 000 $, el monto es el mismo en todas partes. Por encima, Laval pasa a
+ser la más cara de las tres: en una propiedad de 900 000 $, se paga allí unos
+6 000 $ más que con la tasa base, y unos 4 262 $ más que en Montreal.
 
 La [calculadora del impuesto de bienvenida](/es/tools/welcome-tax/) hace el
 cálculo exacto para su ciudad y su precio, con los umbrales vigentes.

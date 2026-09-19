@@ -1,6 +1,7 @@
 ---
 title: "The Hidden Costs of Homeownership Nobody Puts in the Brochure"
 date: 2026-06-29
+lastmod: 2026-09-19
 category: "Buyer's Guide"
 description: "Your mortgage payment is the number everyone focuses on. It's also the most misleading number in the entire buying process. Here's what actually shows up on your first year of ownership."
 image: "images/articles/hidden-homeownership-costs/featured.jpg"
@@ -10,13 +11,13 @@ Here is the number banks use when they calculate whether you can afford a home: 
 
 Here is the number that actually matters: your total cost of ownership.
 
-These two numbers can differ by $15,000-$25,000 per year, and nobody in the transaction - not the bank, not necessarily your broker, not the excited seller - has a financial incentive to explain that gap to you clearly. Here it is.
+These two numbers can differ by $15,000-$25,000 per year, and nobody in the transaction (not the bank, not necessarily your broker, not the excited seller) has a financial incentive to explain that gap to you clearly. Here it is.
 
 ## The Costs That Show Up at Closing (And That Many Buyers Underestimate)
 
 **Welcome tax (taxe de bienvenue)**
 
-In Quebec, when you purchase a property, you pay a municipal transfer tax calculated on a sliding scale based on the purchase price. On a $500,000 property, expect to pay approximately $6,500-$7,000 in welcome tax alone. This amount is due within about 30 days of taking possession - it doesn't roll into your mortgage.
+In Quebec, when you purchase a property, you pay a municipal transfer tax calculated on a sliding scale based on the purchase price. On a $500,000 property, expect about $5,600 in welcome tax alone with the 2026 thresholds. The municipality sends the bill a few months after the purchase, payable within 30 days, and it does not roll into your mortgage.
 
 **Legal fees and notary costs**
 
@@ -76,4 +77,4 @@ Buying a home is often financially smart. It is never as simple as a mortgage pa
 
 ---
 
-*Want to build a complete cost analysis before you start your search? [Let's talk](/en/form/) - it takes about 30 minutes and saves months of surprises.*
+*Want to build a complete cost analysis before you start your search? [Let's talk](/en/form/): it takes about 30 minutes and saves months of surprises.*

@@ -1,6 +1,7 @@
 ---
 title: "Guide complet pour les nouveaux arrivants qui veulent acheter une propriété au Québec"
 date: 2026-07-16
+lastmod: 2026-09-19
 translationKey: "article-guide-nouveaux-arrivants"
 category: "Guide de l'acheteur"
 description: "Acheter une propriété au Québec en tant que nouvel arrivant est tout à fait possible, mais le système fonctionne différemment de la plupart des pays. Ce guide explique tout ce que vous devez savoir, en langage simple."
@@ -69,9 +70,9 @@ Une note importante: tous les documents officiels immobiliers au Québec sont en
 
 ## Les taxes de bienvenue
 
-C'est une taxe unique payée à la municipalité lors de l'achat d'une propriété au Québec. Sur une propriété de 400 000 dollars, vous paieriez environ 4 500 dollars. Sur une propriété de 600 000 dollars, environ 8 000 dollars.
+C'est une taxe unique payée à la municipalité lors de l'achat d'une propriété au Québec. Avec les seuils de 2026, une propriété de 400 000 dollars donne environ 4 100 dollars. À 600 000 dollars, c'est environ 7 100 dollars au taux de base, environ 7 350 dollars à Montréal et environ 8 600 dollars à Laval, qui applique 3 % au-delà de 500 000 dollars depuis 2026.
 
-Elle est payable dans les 30 jours suivant la signature de l'acte notarié. Prévoyez-la dans votre budget.
+La municipalité envoie le compte quelques mois après la signature chez le notaire, et il est payable dans les 30 jours suivant cet envoi. Prévoyez-la dans votre budget.
 
 ## L'inspection préachat
 

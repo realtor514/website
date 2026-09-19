@@ -1,6 +1,7 @@
 ---
 title: "The Real Cost of Buying Your First Home in Quebec"
 date: 2026-06-10
+lastmod: 2026-09-19
 translationKey: "article-vrai-cout-premiere-maison"
 category: "Buyer's Guide"
 description: "Everyone talks about the purchase price. Nobody tells you about what comes after. Here is the complete cost breakdown every first-time buyer in Quebec needs to know."
@@ -20,13 +21,13 @@ When you buy a $500,000 property in Quebec, here is what you actually need to ha
 The legal minimum is 5%, so $25,000 on a $500K property. But 5% is rarely the optimal financial choice (more on that below).
 
 **2. CMHC Mortgage Insurance**
-If your down payment is under 20%, you're required by law to purchase CMHC insurance. This insurance protects the lender (not you) and it costs between 2.8% and 4% of your loan amount. On a $475,000 mortgage, that's up to $19,000 added directly to your loan. You'll pay interest on that amount for the entire life of your mortgage.
+If your down payment is under 20%, you're required by law to purchase CMHC insurance. This insurance protects the lender (not you) and it costs between 2.8% and 4% of your loan amount. On a $475,000 mortgage, that's up to $19,000 added directly to your loan. You'll pay interest on that amount for the entire life of your mortgage. The 9% QST on that premium, however, is not added to the loan: it is paid in cash at the notary.
 
 **3. Welcome Tax (Taxe de Bienvenue)**
-This is Quebec's one-time property transfer tax, calculated on a sliding scale. On a $500,000 property, budget approximately $6,000 to $7,500. It's due within 30 days of signing the notarial deed. Many buyers forget about it entirely until the invoice arrives.
+This is Quebec's one-time property transfer tax, calculated on a sliding scale. On a $500,000 property, budget about $5,600 with the 2026 thresholds. The municipality sends the bill a few months after the notary signing, and it is payable within 30 days of that bill. Many buyers forget about it entirely until the invoice arrives.
 
 **4. Notary Fees**
-In Quebec, all property transfers must go through a notary. Budget $1,000 to $2,000 for a standard residential transaction.
+In Quebec, the deed of sale and the mortgage deed are signed before a notary. Budget $1,000 to $2,000 for a standard residential transaction.
 
 **5. Building Inspection**
 Never skip this. A qualified inspector costs $500 to $900 and will examine the roof, foundation, plumbing, electrical, and insulation. Buyers do skip the inspection to win a bidding war, and then discover $85,000 in pyrite damage in the foundation six months after closing. The inspection would have cost $600.
@@ -45,12 +46,13 @@ On a $500,000 purchase with a 5% down payment, here is what the complete budget 
 |-|-|
 | Down payment (5%) | $25,000 |
 | CMHC insurance | ~$19,000 (added to mortgage) |
-| Welcome tax | ~$6,500 |
+| QST on the CMHC premium (9%) | ~$1,710 |
+| Welcome tax | ~$5,600 |
 | Notary fees | ~$1,500 |
 | Building inspection | ~$700 |
 | Adjustments and misc. | ~$1,000 |
 | Moving costs | ~$2,000 |
-| **Total cash needed at closing** | **~$36,700** |
+| **Total cash needed at closing** | **~$37,500** |
 
 The key takeaway: closing costs (everything beyond the down payment) typically run 3% to 5% of the purchase price. That amount must be in cash. You cannot borrow it.
 
