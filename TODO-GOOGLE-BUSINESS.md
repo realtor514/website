@@ -330,12 +330,16 @@ Etat verifie dans le depot le 2026-08-31.
       Longueuil ou une autre ville ont change leurs taux au-dela de 500 000 $
       dans leur budget. Sources: quebec.ca (droits sur les mutations
       immobilieres), montreal.ca, pages des villes.
-- [ ] Incoherences reperees, pas encore corrigees: les honoraires de notaire
-      varient selon les pages (1 000 a 2 000 $, 1 200 a 2 000 $, et 1 500 a
-      2 500 $ dans le calculateur de frais de cloture); le guide FR des
-      nouveaux arrivants dit qu on signe forcement en francais, alors qu on
-      peut signer en anglais (c est la publication au registre foncier qui
-      exige le francais).
+- [x] Incoherences corrigees le 2026-09-19:
+      - honoraires de notaire harmonises partout: pas de tarif fixe (Chambre
+        des notaires), estimations publiees pour 2026 d environ 1 500 a
+        3 500 $ pour un achat finance, taxes et frais de publication compris.
+        Calculateur de frais de cloture aligne (1 500 a 3 500 $). "Assurance
+        titres recommandee" remplace par "facultative" (AMF).
+      - guide des nouveaux arrivants: on peut signer un acte en anglais, c est
+        le registre foncier qui exige le francais (traduction certifiee).
+      - langues de service: le guide des nouveaux arrivants et la page Guide
+        de l acheteur annoncaient 3 langues, l espagnol manquait.
 - [x] Ajouter les 6 villes manquantes - FAIT le 2026-09-19. Sainte-Catherine,
       Lorraine, Carignan, Saint-Basile-le-Grand, Beloeil et Mont-Saint-Hilaire
       ont leur page dans les 4 langues, avec des faits verifiables

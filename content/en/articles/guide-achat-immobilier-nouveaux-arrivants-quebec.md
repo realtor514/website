@@ -74,9 +74,9 @@ In Quebec, all property transfers must be processed by a licensed notary. The no
 
 The notary is legally neutral; they protect both parties' interests. In most transactions, the same notary represents both buyer and seller, though you always have the right to choose your own.
 
-**Notary fees:** Approximately $1,000 to $2,000 for a standard residential transaction.
+**Notary fees:** No fixed tariff. Published 2026 estimates run from about $1,500 to $3,500 for a financed purchase, taxes and registry fees included. Ask for a written quote.
 
-One important note: all official real estate documents in Quebec are in French. As a buyer, you have the right to have everything explained to you in your preferred language. Your broker can communicate with you in English or Arabic; your notary can explain the French documents to you in another language. You sign the French documents, but you understand them fully before signing.
+One important note on language. Brokerage forms exist in French and English, and a notarial deed can be drawn up in English. The land registry, however, accepts only French: a deed in English needs a certified translation, which adds time. As a buyer, you have the right to have everything explained to you in your preferred language. Your broker can communicate with you in English or Arabic, and a notary who speaks your language can walk you through each deed. Whatever the language, you fully understand what you sign.
 
 ## The Welcome Tax (Taxe de Bienvenue)
 
@@ -126,7 +126,7 @@ This may be the most practical piece of advice in this guide: choose a broker wh
 
 The Quebec real estate process involves dozens of conversations, documents, and decisions. Being able to ask questions and receive explanations in your native language is not a luxury. It is a condition for making fully informed decisions.
 
-Service is available in French, English, and Arabic, with attention to the cultural context of real estate decision-making in Arab families: the role of extended family, the importance of privacy, the preference for long-term stability over short-term speculation, the significance of owning something that is truly your own.
+Service is available in French, English, Spanish and Arabic, with attention to the cultural context of real estate decision-making in Arab families: the role of extended family, the importance of privacy, the preference for long-term stability over short-term speculation, the significance of owning something that is truly your own.
 
 Those values align well with what Quebec real estate, done right, can offer.
 

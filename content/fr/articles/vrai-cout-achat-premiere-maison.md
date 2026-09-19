@@ -27,7 +27,7 @@ Si votre mise de fonds est inférieure à 20%, vous êtes obligé par la loi de 
 C'est la taxe de mutation immobilière du Québec, calculée selon un barème progressif. Sur une propriété de 500 000 dollars, prévoyez environ 5 600 dollars avec les seuils de 2026. La municipalité envoie le compte quelques mois après la signature chez le notaire, et il est payable dans les 30 jours suivant cet envoi. De nombreux acheteurs l'oublient complètement jusqu'à la réception de la facture.
 
 **4. Les frais de notaire**
-Au Québec, l'acte de vente et l'acte d'hypothèque se signent devant notaire. Prévoyez de 1 000 à 2 000 dollars pour une transaction résidentielle standard.
+Au Québec, l'acte de vente et l'acte d'hypothèque se signent devant notaire. Il n'existe pas de tarif fixe : les estimations publiées pour 2026 vont d'environ 1 500 à 3 500 dollars pour un achat financé, taxes et frais de publication compris. Demandez une soumission écrite.
 
 **5. L'inspection préachat**
 Ne sautez jamais cette étape. Un inspecteur qualifié coûte de 500 à 900 dollars et examine la toiture, les fondations, la plomberie, l'électricité et l'isolation. Des acheteurs sautent l'inspection pour gagner une guerre d'offres, puis découvrent 85 000 dollars de dommages liés à la pyrite dans les fondations six mois après le closing. L'inspection aurait coûté 600 dollars.
@@ -48,11 +48,11 @@ Sur un achat de 500 000 dollars avec une mise de fonds de 5%, voici le budget co
 | Assurance SCHL | ~19 000 $ (ajoutée au prêt) |
 | TVQ sur la prime SCHL (9 %) | ~1 710 $ |
 | Taxes de bienvenue | ~5 600 $ |
-| Frais de notaire | ~1 500 $ |
+| Frais de notaire | ~2 500 $ |
 | Inspection préachat | ~700 $ |
 | Ajustements et divers | ~1 000 $ |
 | Frais de déménagement | ~2 000 $ |
-| **Total en espèces requis** | **~37 500 $** |
+| **Total en espèces requis** | **~38 500 $** |
 
 Le point clé: les frais de fermeture, tout ce qui s'ajoute à la mise de fonds, représentent typiquement 3% à 5% du prix d'achat. Ce montant doit être disponible en espèces. Il ne peut pas être emprunté.
 

@@ -74,7 +74,7 @@ En Quebec, todas las transferencias de propiedad deben ser procesadas por un not
 
 El notario es legalmente neutral; protege los intereses de ambas partes. En la mayoría de las transacciones, el mismo notario representa tanto al comprador como al vendedor, aunque siempre tiene derecho a elegir el suyo propio.
 
-**Honorarios notariales:** Aproximadamente $1,000 a $2,000 para una transacción residencial estándar.
+**Honorarios notariales:** No hay tarifa fija. Las estimaciones publicadas para 2026 van de unos $1,500 a $3,500 para una compra financiada, con impuestos y gastos de publicación incluidos. Pida un presupuesto por escrito.
 
 ## El Impuesto de Bienvenida (Taxe de Bienvenue)
 
@@ -120,7 +120,7 @@ Este puede ser el consejo más práctico de esta guía: elija un corredor que ha
 
 El proceso inmobiliario de Quebec implica docenas de conversaciones, documentos y decisiones. Poder hacer preguntas y recibir explicaciones en su idioma nativo no es un lujo. Es una condición para tomar decisiones plenamente informadas.
 
-Trabajo en francés, inglés y árabe. Entiendo el contexto cultural de la toma de decisiones inmobiliarias en familias de diferentes orígenes: el papel de la familia extendida, la importancia de la privacidad, la preferencia por la estabilidad a largo plazo sobre la especulación a corto plazo, el significado de poseer algo que sea verdaderamente suyo.
+Trabajo en francés, inglés, español y árabe. Entiendo el contexto cultural de la toma de decisiones inmobiliarias en familias de diferentes orígenes: el papel de la familia extendida, la importancia de la privacidad, la preferencia por la estabilidad a largo plazo sobre la especulación a corto plazo, el significado de poseer algo que sea verdaderamente suyo.
 
 Esos valores se alinean bien con lo que el sector inmobiliario de Quebec, bien ejecutado, puede ofrecer.
 

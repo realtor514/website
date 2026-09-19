@@ -17,7 +17,7 @@ Au Québec, lors de l'achat d'une propriété, vous payez une taxe de mutation c
 
 **Frais de notaire**
 
-Au Québec, toutes les transactions immobilières sont gérées par un notaire. Les honoraires pour un achat standard se situent généralement entre 1 200 et 2 000 $, plus l'assurance titres recommandée.
+Au Québec, l'acte de vente et l'acte d'hypothèque se signent devant notaire. Il n'existe pas de tarif fixe : les estimations publiées pour 2026 vont d'environ 1 500 à 3 500 $ pour un achat financé, taxes et frais de publication compris. L'assurance titres est facultative.
 
 **Inspection en bâtiment**
 

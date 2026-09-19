@@ -27,7 +27,7 @@ Si su pago inicial es inferior al 20%, la ley le exige contratar un seguro CMHC.
 Este es el impuesto único de transferencia de propiedad de Quebec, calculado en una escala progresiva. En una propiedad de $500,000, presupueste unos $5,600 con los umbrales de 2026. El municipio envía la factura unos meses después de la firma ante el notario, y se paga dentro de los 30 días siguientes a ese envío. Muchos compradores lo olvidan por completo hasta que llega la factura.
 
 **4. Honorarios Notariales**
-En Quebec, el acto de venta y el acto de hipoteca se firman ante notario. Presupueste $1,000 a $2,000 para una transacción residencial estándar.
+En Quebec, el acto de venta y el acto de hipoteca se firman ante notario. No hay tarifa fija: las estimaciones publicadas para 2026 van de unos $1,500 a $3,500 para una compra financiada, con impuestos y gastos de publicación incluidos. Pida un presupuesto por escrito.
 
 **5. Inspección del Edificio**
 Nunca omita esto. Un inspector calificado cuesta entre $500 y $900 y examinará el techo, los cimientos, la plomería, la electricidad y el aislamiento. He visto compradores omitir la inspección para ganar una guerra de ofertas, y luego descubrir $85,000 en daños por pirita en los cimientos seis meses después del cierre. La inspección habría costado $600.
@@ -48,11 +48,11 @@ En una compra de $500,000 con un pago inicial del 5%, así es como se ve el pres
 | Seguro CMHC | ~$19,000 (añadido a la hipoteca) |
 | TVQ sobre la prima CMHC (9%) | ~$1,710 |
 | Impuesto de bienvenida | ~$5,600 |
-| Honorarios notariales | ~$1,500 |
+| Honorarios notariales | ~$2,500 |
 | Inspección del edificio | ~$700 |
 | Ajustes y varios | ~$1,000 |
 | Costos de mudanza | ~$2,000 |
-| **Total en efectivo necesario al cierre** | **~$37,500** |
+| **Total en efectivo necesario al cierre** | **~$38,500** |
 
 La conclusión clave: los costos de cierre (todo más allá del pago inicial) típicamente representan del 3% al 5% del precio de compra. Esa cantidad debe estar en efectivo. No puede pedirla prestada.
 

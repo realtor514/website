@@ -64,9 +64,9 @@ Au Québec, tous les transferts de propriété doivent être traités par un not
 - S'assure qu'il n'y a pas de taxes impayées qui pourraient devenir votre responsabilité
 - Prépare et explique chaque document que vous signez
 
-**Frais de notaire:** Environ 1 000 à 2 000 dollars pour une transaction résidentielle standard.
+**Frais de notaire:** Pas de tarif fixe. Les estimations publiées pour 2026 vont d'environ 1 500 à 3 500 dollars pour un achat financé, taxes et frais de publication compris. Demandez une soumission écrite.
 
-Une note importante: tous les documents officiels immobiliers au Québec sont en français. En tant qu'acheteur, vous avez le droit d'avoir tout expliqué dans la langue de votre choix. Votre courtier peut communiquer avec vous en arabe; votre notaire peut expliquer les documents français en arabe. Vous signez les documents en français, mais vous les comprenez entièrement avant de signer.
+Une note importante sur la langue. Les formulaires de courtage existent en français et en anglais, et un acte notarié peut être rédigé en anglais. Le registre foncier, lui, n'accepte que le français : un acte en anglais demande une traduction certifiée, ce qui ajoute du délai. En tant qu'acheteur, vous avez le droit d'avoir tout expliqué dans la langue de votre choix. Votre courtier peut communiquer avec vous en arabe, et un notaire qui parle votre langue peut vous expliquer chaque acte. Quelle que soit la langue, vous comprenez entièrement ce que vous signez.
 
 ## Les taxes de bienvenue
 
@@ -106,7 +106,7 @@ Ce conseil est peut-être le plus pratique de ce guide: choisissez un courtier q
 
 Le processus immobilier québécois implique des dizaines de conversations, documents et décisions. Pouvoir poser des questions et recevoir des explications dans votre langue maternelle n'est pas un luxe. C'est une condition pour prendre des décisions pleinement éclairées.
 
-Le service est offert en français, en anglais et en arabe. Le contexte culturel de la prise de décision immobilière dans les familles arabes est pris en compte: le rôle de la famille élargie, l'importance de la vie privée, la préférence pour la stabilité à long terme plutôt que la spéculation à court terme, la signification de posséder quelque chose qui est vraiment à soi.
+Le service est offert en français, en anglais, en espagnol et en arabe. Le contexte culturel de la prise de décision immobilière dans les familles arabes est pris en compte: le rôle de la famille élargie, l'importance de la vie privée, la préférence pour la stabilité à long terme plutôt que la spéculation à court terme, la signification de posséder quelque chose qui est vraiment à soi.
 
 Ces valeurs s'alignent bien avec ce que l'immobilier québécois, fait correctement, peut offrir.
 

@@ -21,7 +21,7 @@ In Quebec, when you purchase a property, you pay a municipal transfer tax calcul
 
 **Legal fees and notary costs**
 
-In Quebec, all real estate transactions are handled by a notary (not a lawyer, as in other provinces). Notary fees for a standard purchase typically run $1,200-$2,000, plus title insurance which is generally recommended.
+In Quebec, the deed of sale and the mortgage deed are signed before a notary (not a lawyer, as in other provinces). There is no fixed tariff: published 2026 estimates run from about $1,500 to $3,500 for a financed purchase, taxes and registry fees included. Title insurance is optional.
 
 **Home inspection**
 
