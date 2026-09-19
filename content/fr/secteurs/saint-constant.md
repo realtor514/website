@@ -10,7 +10,7 @@ cardText: "Roussillon: gare exo, secteurs récents et prix sous ceux de Candiac.
 facts:
   - value: "Gare"
     label: "Ligne exo Candiac"
-  - value: "24"
+  - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"
@@ -34,7 +34,7 @@ faq:
     a: "Oui, sans frais ni engagement, avec les comparables réels de votre rue."
 ---
 
-Saint-Constant fait partie du même bassin que Candiac, Delson et Sainte-Catherine, mais avec des prix généralement inférieurs à Candiac à superficie comparable. C'est ce qui en fait un point d'entrée intéressant dans le Roussillon.
+Saint-Constant fait partie du même bassin que Candiac, Delson et [Sainte-Catherine](/courtier-immobilier/sainte-catherine/), mais avec des prix généralement inférieurs à Candiac à superficie comparable. C'est ce qui en fait un point d'entrée intéressant dans le Roussillon.
 
 ## Ce qui structure le marché
 

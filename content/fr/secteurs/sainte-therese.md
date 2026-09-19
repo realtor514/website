@@ -10,7 +10,7 @@ cardText: "Basses-Laurentides: noyau villageois, gare exo et marché locatif du 
 facts:
   - value: "Gare"
     label: "Ligne exo Saint-Jérôme"
-  - value: "24"
+  - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

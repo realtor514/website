@@ -10,7 +10,7 @@ cardText: "South Shore: the alphabetical sectors, DIX30 and the REM corridor."
 facts:
   - value: "3"
     label: "REM stations in the city"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

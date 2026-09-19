@@ -10,7 +10,7 @@ cardText: "لورانتيد السفلى: نواة القرية، محطة exo �
 facts:
   - value: "محطة"
     label: "خط exo سان جيروم"
-  - value: "24"
+  - value: "30"
     label: "مناطق أخدمها بالتساوي"
   - value: "4"
     label: "لغات الخدمة"

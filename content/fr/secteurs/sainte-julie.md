@@ -10,7 +10,7 @@ cardText: "Montérégie: marché familial établi, entre Boucherville et Varenne
 facts:
   - value: "Familial"
     label: "Marché dominé par l'unifamiliale"
-  - value: "24"
+  - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

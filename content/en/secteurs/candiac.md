@@ -10,7 +10,7 @@ cardText: "Roussillon: a planned city, an exo station and upper-end residential 
 facts:
   - value: "1957"
     label: "Planned city since"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

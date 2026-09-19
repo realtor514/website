@@ -10,7 +10,7 @@ cardText: "Rive-Sud ouest: marché accessible, rivière Châteauguay et clientè
 facts:
   - value: "Bilingue"
     label: "Communauté anglophone importante"
-  - value: "24"
+  - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

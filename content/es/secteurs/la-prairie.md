@@ -10,7 +10,7 @@ cardText: "Roussillon: el distrito histórico y los nuevos barrios sostenibles."
 facts:
   - value: "1667"
     label: "Fundación de la ciudad"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

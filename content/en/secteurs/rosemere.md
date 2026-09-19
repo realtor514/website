@@ -10,7 +10,7 @@ cardText: "Lower Laurentians: large wooded lots, golf and river frontage."
 facts:
   - value: "Wooded"
     label: "Large lots, limited development"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

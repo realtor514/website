@@ -10,7 +10,7 @@ cardText: "Laurentides: dix anciens villages, croissance rapide et grands terrai
 facts:
   - value: "10"
     label: "Anciens villages fusionnés"
-  - value: "24"
+  - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

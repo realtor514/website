@@ -10,7 +10,7 @@ cardText: "South Shore: Vieux-Longueuil, Saint-Hubert and Greenfield Park, three
 facts:
   - value: "3"
     label: "Boroughs"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

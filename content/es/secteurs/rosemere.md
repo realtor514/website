@@ -10,7 +10,7 @@ cardText: "Basses-Laurentides: grandes terrenos arbolados, golf y ribera del rí
 facts:
   - value: "Arbolado"
     label: "Grandes terrenos, poco desarrollo"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

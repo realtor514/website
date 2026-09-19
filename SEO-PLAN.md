@@ -17,7 +17,7 @@ Tout ceci est en ligne. Le deploiement GitHub Pages prend 2 a 3 minutes.
 | Donnees structurees | aucune | 8 types de schema |
 | Balises hreflang | aucune | 4 langues + x-default |
 | robots.txt | vide | sitemaps + bots IA autorises |
-| Pages ciblant une ville | 0 | 96 (24 villes x 4 langues) |
+| Pages ciblant une ville | 0 | 120 (30 villes x 4 langues, 2026-09-19) |
 | FAQ structuree | aucune | 8 questions x 4 langues |
 
 ### Detail
@@ -328,6 +328,21 @@ https://georgesmatar.ca/articles/investir-triplex-laval/
 https://georgesmatar.ca/articles/rive-nord-guide-laval/
 ```
 
+#### JOUR 9 - Les 6 nouvelles villes (ajoutees le 2026-09-19)
+
+```
+https://georgesmatar.ca/courtier-immobilier/beloeil/
+https://georgesmatar.ca/courtier-immobilier/sainte-catherine/
+https://georgesmatar.ca/courtier-immobilier/mont-saint-hilaire/
+https://georgesmatar.ca/courtier-immobilier/saint-basile-le-grand/
+https://georgesmatar.ca/courtier-immobilier/carignan/
+https://georgesmatar.ca/courtier-immobilier/lorraine/
+```
+
+Ce jour peut passer avant les jours 7 et 8: ce sont des pages neuves que
+Google n a jamais vues, alors que les versions anglaises et arabes des autres
+villes sont deja dans les sitemaps depuis aout.
+
 #### JOUR 7 - Anglais: accueil, hub et villes principales
 
 ```
@@ -401,11 +416,16 @@ Ne mets pas de mots-cles supplementaires (Google peut suspendre la fiche).
 **3. Adresse et zone de service**
 - Adresse: 2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), QC H7E 5A1
 - Active "Je sers aussi mes clients en dehors de cette adresse"
-- Zones de service a ajouter (les 24 villes couvertes): Laval, Montreal,
-  Longueuil, Brossard, Terrebonne, Boucherville, Blainville, Repentigny,
-  Saint-Bruno-de-Montarville, Chambly, La Prairie, Candiac, Delson,
-  Saint-Jerome, Boisbriand, Sainte-Therese, Rosemere, Mascouche,
-  Saint-Eustache, Mirabel, Sainte-Julie, Varennes, Chateauguay, Saint-Constant
+- Zones de service: Google en accepte 20 au maximum. Le site couvre 30
+  villes, il faut donc choisir. Proposition, les plus grands marches autour
+  du bureau et les deux villes ou tu as deja vendu (Longueuil, Mirabel):
+  Laval, Montreal, Longueuil, Brossard, Terrebonne, Boucherville, Blainville,
+  Repentigny, Saint-Bruno-de-Montarville, Mascouche, Sainte-Therese,
+  Boisbriand, Rosemere, Saint-Eustache, Mirabel, Saint-Jerome, Sainte-Julie,
+  Chambly, Chateauguay, La Prairie
+  Les zones de service ne font pas monter la fiche dans le pack local, c est
+  surtout l adresse du bureau qui compte. Les 10 autres villes restent
+  couvertes par leurs pages sur le site.
 
 **4. Horaires**
 Mets des horaires reels et larges (ex. lundi-dimanche 8h-20h). Une fiche sans
@@ -531,8 +551,9 @@ https://georgesmatar.ca
    Google favorise nettement les contenus de 800 a 1500 mots sur les sujets
    concurrentiels. Priorite aux 10 articles qui ciblent les requetes les plus
    commerciales (commission, evaluation, premier acheteur, taxe de bienvenue).
-3. **Ajouter les dernieres villes manquantes**: Sainte-Catherine, Lorraine,
-   Carignan, Saint-Basile-le-Grand, Beloeil, Mont-Saint-Hilaire.
+3. **Ajouter les dernieres villes manquantes** - FAIT le 2026-09-19:
+   Sainte-Catherine, Lorraine, Carignan, Saint-Basile-le-Grand, Beloeil,
+   Mont-Saint-Hilaire, dans les 4 langues.
 4. **Ajouter des inscriptions reelles** dans `/listings/`. Une page par
    propriete avec le schema `RealEstateListing` genere des leads directs.
 5. **Optimiser la vitesse.** Les polices Google Fonts sont chargees depuis un

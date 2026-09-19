@@ -10,7 +10,7 @@ cardText: "Rive-Sud: los sectores alfabéticos, el DIX30 y el corredor del REM."
 facts:
   - value: "3"
     label: "Estaciones REM en la ciudad"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

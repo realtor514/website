@@ -10,7 +10,7 @@ cardText: "Lanaudière: estación exo, Vieux-Mascouche y sectores de crecimiento
 facts:
   - value: "Estación"
     label: "Terminal de la línea exo Mascouche"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

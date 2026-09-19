@@ -10,7 +10,7 @@ cardText: "Rive-Sud oeste: mercado accesible, río Châteauguay y clientela bili
 facts:
   - value: "Bilingüe"
     label: "Comunidad anglófona importante"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

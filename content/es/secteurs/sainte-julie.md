@@ -10,7 +10,7 @@ cardText: "Montérégie: mercado familiar establecido, entre Boucherville y Vare
 facts:
   - value: "Familiar"
     label: "Mercado dominado por la unifamiliar"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

@@ -10,7 +10,7 @@ cardText: "Basses-Laurentides: noyau patrimonial, rivière des Mille Îles et se
 facts:
   - value: "1837"
     label: "Noyau patrimonial historique"
-  - value: "24"
+  - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

@@ -10,7 +10,7 @@ cardText: "Roussillon: ciudad pequeña accesible, estación exo y proximidad de 
 facts:
   - value: "Estación"
     label: "Línea exo Candiac en la ciudad"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"
@@ -33,7 +33,7 @@ faq:
     a: "Sí, sin costo ni compromiso, con los comparables reales de su calle."
 ---
 
-Delson es una pequeña ciudad del sector Roussillon, entre Candiac, Saint-Constant y Sainte-Catherine. Suele ser el mejor punto de entrada de la zona para un comprador cuyo presupuesto no llega a Candiac.
+Delson es una pequeña ciudad del sector Roussillon, entre Candiac, Saint-Constant y [Sainte-Catherine](/es/corredor-inmobiliario/sainte-catherine/). Suele ser el mejor punto de entrada de la zona para un comprador cuyo presupuesto no llega a Candiac.
 
 ## Un mercado de proximidad
 

@@ -10,7 +10,7 @@ cardText: "Lower Laurentians: the Faubourg, the station district and the establi
 facts:
   - value: "Faubourg"
     label: "Planned district since 2007"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

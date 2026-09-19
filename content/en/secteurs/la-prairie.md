@@ -10,7 +10,7 @@ cardText: "Roussillon: the historic district and the new sustainable neighbourho
 facts:
   - value: "1667"
     label: "City founded in"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

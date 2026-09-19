@@ -10,7 +10,7 @@ cardText: "Roussillon: exo station, newer sectors and prices below Candiac."
 facts:
   - value: "Station"
     label: "Exo Candiac line"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"
@@ -34,7 +34,7 @@ faq:
     a: "Yes, free and with no obligation, using real comparables from your street."
 ---
 
-Saint-Constant belongs to the same pool as Candiac, Delson and Sainte-Catherine, but with prices generally below Candiac at comparable floor area. That makes it an interesting entry point in the Roussillon area.
+Saint-Constant belongs to the same pool as Candiac, Delson and [Sainte-Catherine](/en/real-estate-broker/sainte-catherine/), but with prices generally below Candiac at comparable floor area. That makes it an interesting entry point in the Roussillon area.
 
 ## What structures the market
 

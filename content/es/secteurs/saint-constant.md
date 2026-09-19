@@ -10,7 +10,7 @@ cardText: "Roussillon: estación exo, sectores recientes y precios por debajo de
 facts:
   - value: "Estación"
     label: "Línea exo Candiac"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"
@@ -34,7 +34,7 @@ faq:
     a: "Sí, sin costo ni compromiso, con los comparables reales de su calle."
 ---
 
-Saint-Constant forma parte de la misma cuenca que Candiac, Delson y Sainte-Catherine, pero con precios generalmente inferiores a Candiac a superficie comparable. Eso lo convierte en un punto de entrada interesante en el Roussillon.
+Saint-Constant forma parte de la misma cuenca que Candiac, Delson y [Sainte-Catherine](/es/corredor-inmobiliario/sainte-catherine/), pero con precios generalmente inferiores a Candiac a superficie comparable. Eso lo convierte en un punto de entrada interesante en el Roussillon.
 
 ## Lo que estructura el mercado
 

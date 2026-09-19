@@ -10,7 +10,7 @@ cardText: "Basses-Laurentides: núcleo patrimonial, rivière des Mille Îles y s
 facts:
   - value: "1837"
     label: "Núcleo patrimonial histórico"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

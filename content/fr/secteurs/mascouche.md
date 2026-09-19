@@ -10,7 +10,7 @@ cardText: "Lanaudière: gare exo, Vieux-Mascouche et secteurs en croissance rapi
 facts:
   - value: "Gare"
     label: "Terminus de la ligne exo Mascouche"
-  - value: "24"
+  - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

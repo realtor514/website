@@ -18,7 +18,7 @@ defaultContentLanguageInSubdir = false
       heroQuote   = "&ldquo;Your trusted guide to the Montreal, Laval, Laurentians &amp; Lanaudi&egrave;re real estate market.&rdquo;"
       ctaListings = "View Properties"
       ctaContact  = "Contact Me"
-      description = "Real estate broker in Montreal, Laval, Longueuil, Brossard and 24 cities across the North and South Shores. Residential and investment properties."
+      description = "Real estate broker in Montreal, Laval, Longueuil, Brossard and 30 cities across the North and South Shores. Residential and investment properties."
       bio         = "I've learned to break complex problems into simple decisions. I bring that same rigor to buying, selling, and investing across Montreal, Laval, the Laurentians and Lanaudière."
       aboutBadge  = "About Me"
       aboutTitle  = "I Approach Real Estate With Rigor and Method"
@@ -212,7 +212,7 @@ defaultContentLanguageInSubdir = false
       heroQuote   = "Analyse rigoureuse. N&eacute;gociation experte. R&eacute;sultats concrets."
       ctaListings = "Voir les propriétés"
       ctaContact  = "Me contacter"
-      description = "Courtier immobilier résidentiel à Montréal, Laval, Longueuil, Brossard et dans 24 villes de la Rive-Nord et de la Rive-Sud. Résidentiel et investissement."
+      description = "Courtier immobilier résidentiel à Montréal, Laval, Longueuil, Brossard et dans 30 villes de la Rive-Nord et de la Rive-Sud. Résidentiel et investissement."
       bio         = "J'ai appris à décomposer un problème complexe en décisions simples. J'applique cette même rigueur à l'achat, la vente et l'investissement immobilier à Montréal, Laval, dans les Laurentides et Lanaudière."
       aboutBadge  = "À propos"
       aboutTitle  = "Je traite l'immobilier avec rigueur et méthode"
@@ -761,7 +761,7 @@ defaultContentLanguageInSubdir = false
   linkedin  = ""
   youtube   = "https://www.youtube.com/channel/UCeypcVDGZVlJkEK8FHLP5ag"
 
-  areasServed = ["Laval", "Montréal", "Longueuil", "Brossard", "Terrebonne", "Blainville", "Repentigny", "Boucherville", "Saint-Bruno-de-Montarville", "Chambly", "La Prairie", "Candiac", "Delson", "Saint-Jérôme", "Boisbriand", "Sainte-Thérèse", "Rosemère", "Mascouche", "Saint-Eustache", "Mirabel", "Sainte-Julie", "Varennes", "Châteauguay", "Saint-Constant", "Rive-Nord", "Rive-Sud", "Laurentides", "Lanaudière", "Montérégie", "Saint-Hubert", "Greenfield Park", "Sainte-Catherine", "Lorraine", "Carignan"]
+  areasServed = ["Laval", "Montréal", "Longueuil", "Brossard", "Terrebonne", "Blainville", "Repentigny", "Boucherville", "Saint-Bruno-de-Montarville", "Chambly", "La Prairie", "Candiac", "Delson", "Saint-Jérôme", "Boisbriand", "Sainte-Thérèse", "Rosemère", "Mascouche", "Saint-Eustache", "Mirabel", "Sainte-Julie", "Varennes", "Châteauguay", "Saint-Constant", "Rive-Nord", "Rive-Sud", "Laurentides", "Lanaudière", "Montérégie", "Saint-Hubert", "Greenfield Park", "Sainte-Catherine", "Lorraine", "Carignan", "Saint-Basile-le-Grand", "Beloeil", "Mont-Saint-Hilaire"]
 
 [markup]
   [markup.goldmark]

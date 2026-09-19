@@ -10,7 +10,7 @@ cardText: "Lower Laurentians: heritage core, Rivière des Mille Îles and family
 facts:
   - value: "1837"
     label: "Historic heritage core"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

@@ -10,7 +10,7 @@ cardText: "Rive-Sud: Vieux-Longueuil, Saint-Hubert y Greenfield Park, tres merca
 facts:
   - value: "3"
     label: "Distritos"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

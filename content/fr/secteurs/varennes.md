@@ -10,7 +10,7 @@ cardText: "Montérégie: front sur le fleuve, noyau patrimonial et secteurs réc
 facts:
   - value: "Fleuve"
     label: "Front riverain sur le Saint-Laurent"
-  - value: "24"
+  - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

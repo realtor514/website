@@ -271,6 +271,7 @@ Le detail jour par jour est dans `SEO-PLAN.md`, section A-bis.
 - [ ] Jour 6: suite des articles + index du blogue
 - [ ] Jour 7: anglais
 - [ ] Jour 8: arabe et espagnol
+- [ ] Jour 9: les 6 nouvelles villes du 2026-09-19 (liste dans `SEO-PLAN.md`)
 
 Apres le jour 8, arreter. Les sitemaps et le maillage interne prennent le
 relais.
@@ -298,10 +299,17 @@ Etat verifie dans le depot le 2026-08-31.
 - [ ] Completer l espagnol: 42 articles manquants sur 63 groupes. Les sujets
       les plus commerciaux sont maintenant couverts, il reste le contenu
       secondaire.
-- [ ] Ajouter les 6 villes manquantes: Sainte-Catherine, Lorraine, Carignan,
-      Saint-Basile-le-Grand, Beloeil, Mont-Saint-Hilaire. Attention, les trois
-      premieres sont deja declarees dans `areasServed` du schema alors qu
-      elles n ont pas de page, ce qui est incoherent aux yeux de Google.
+- [x] Ajouter les 6 villes manquantes - FAIT le 2026-09-19. Sainte-Catherine,
+      Lorraine, Carignan, Saint-Basile-le-Grand, Beloeil et Mont-Saint-Hilaire
+      ont leur page dans les 4 langues, avec des faits verifiables
+      (recensement 2021, sites des villes, exo). Le site couvre 30 villes,
+      `areasServed` les declare toutes et chaque mention "24" est passee a 30.
+- [x] Schema des proprietes vendues - FAIT le 2026-09-19. Les fiches vendues
+      declaraient `InStock` a Google. Elles declarent maintenant `SoldOut`,
+      automatiquement des que le `status` passe a Vendu.
+- [x] Titre de la page Proprietes - FAIT le 2026-09-19. "Proprietes
+      disponibles" ne listait que des maisons vendues. Devient "Proprietes a
+      vendre et vendues", vrai dans les deux etats.
 - [x] Retirer le `@import` de polices Google en tete de `main.css` - FAIT le
       2026-08-31. Les memes polices etaient deja chargees par une balise
       `link` dans les deux `baseof.html`, donc telechargees deux fois, et l

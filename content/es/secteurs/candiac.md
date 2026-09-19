@@ -10,7 +10,7 @@ cardText: "Roussillon: ciudad planificada, estación exo y sectores residenciale
 facts:
   - value: "1957"
     label: "Ciudad planificada desde"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

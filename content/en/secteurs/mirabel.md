@@ -10,7 +10,7 @@ cardText: "Laurentians: ten former villages, fast growth and large lots."
 facts:
   - value: "10"
     label: "Former villages merged"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

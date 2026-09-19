@@ -10,7 +10,7 @@ cardText: "Rive-Sud: Vieux-Boucherville, Harmonie, Sabrevois y el sector ribere�
 facts:
   - value: "Ribereño"
     label: "Acceso al río y a las Islas"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

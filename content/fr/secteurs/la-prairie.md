@@ -10,7 +10,7 @@ cardText: "Roussillon: l'arrondissement historique et les nouveaux quartiers dur
 facts:
   - value: "1667"
     label: "Fondation de la ville"
-  - value: "24"
+  - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

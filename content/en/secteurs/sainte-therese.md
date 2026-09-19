@@ -10,7 +10,7 @@ cardText: "Lower Laurentians: village core, exo station and the CEGEP rental mar
 facts:
   - value: "Station"
     label: "Exo Saint-Jérôme line"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

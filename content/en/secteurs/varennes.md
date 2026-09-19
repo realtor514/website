@@ -10,7 +10,7 @@ cardText: "Montérégie: St. Lawrence frontage, heritage core and newer sectors.
 facts:
   - value: "River"
     label: "Frontage on the St. Lawrence"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

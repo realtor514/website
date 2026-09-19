@@ -10,7 +10,7 @@ cardText: "Laurentides: diez antiguos pueblos, crecimiento rápido y grandes ter
 facts:
   - value: "10"
     label: "Antiguos pueblos fusionados"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

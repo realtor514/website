@@ -10,7 +10,7 @@ cardText: "Basses-Laurentides: el Faubourg, el barrio de la estación y los sect
 facts:
   - value: "Faubourg"
     label: "Barrio planificado desde 2007"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

@@ -10,7 +10,7 @@ cardText: "Basses-Laurentides: le Faubourg, le quartier de la Gare et les secteu
 facts:
   - value: "Faubourg"
     label: "Quartier planifié depuis 2007"
-  - value: "24"
+  - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

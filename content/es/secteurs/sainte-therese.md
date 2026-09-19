@@ -10,7 +10,7 @@ cardText: "Basses-Laurentides: núcleo de pueblo, estación exo y mercado de alq
 facts:
   - value: "Estación"
     label: "Línea exo Saint-Jérôme"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

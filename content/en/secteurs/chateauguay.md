@@ -10,7 +10,7 @@ cardText: "West South Shore: accessible market, Châteauguay river and a bilingu
 facts:
   - value: "Bilingual"
     label: "Significant anglophone community"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"

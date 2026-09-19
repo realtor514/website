@@ -10,7 +10,7 @@ cardText: "Basses-Laurentides: grands terrains boisés, golf et bordure de la ri
 facts:
   - value: "Boisé"
     label: "Grands terrains, peu de développement"
-  - value: "24"
+  - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"

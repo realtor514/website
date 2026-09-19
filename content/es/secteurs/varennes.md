@@ -10,7 +10,7 @@ cardText: "Montérégie: frente al río San Lorenzo, núcleo patrimonial y secto
 facts:
   - value: "Río"
     label: "Frente sobre el San Lorenzo"
-  - value: "24"
+  - value: "30"
     label: "Zonas atendidas por igual"
   - value: "4"
     label: "Idiomas de servicio"

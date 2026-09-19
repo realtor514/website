@@ -10,7 +10,7 @@ cardText: "Roussillon: petite ville accessible, gare exo et proximité de Candia
 facts:
   - value: "Gare"
     label: "Ligne exo Candiac sur le territoire"
-  - value: "24"
+  - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "4"
     label: "Langues de service"
@@ -33,7 +33,7 @@ faq:
     a: "Oui, sans frais ni engagement, avec les comparables réels de votre rue."
 ---
 
-Delson est une petite ville du secteur Roussillon, coincée entre Candiac, Saint-Constant et Sainte-Catherine. C'est souvent le meilleur point d'entrée du secteur pour un acheteur dont le budget ne suit pas à Candiac.
+Delson est une petite ville du secteur Roussillon, coincée entre Candiac, Saint-Constant et [Sainte-Catherine](/courtier-immobilier/sainte-catherine/). C'est souvent le meilleur point d'entrée du secteur pour un acheteur dont le budget ne suit pas à Candiac.
 
 ## Un marché de proximité
 

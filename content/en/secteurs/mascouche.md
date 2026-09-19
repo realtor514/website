@@ -10,7 +10,7 @@ cardText: "Lanaudière: exo station, Vieux-Mascouche and fast-growing sectors."
 facts:
   - value: "Station"
     label: "Terminus of the exo Mascouche line"
-  - value: "24"
+  - value: "30"
     label: "Areas served equally"
   - value: "4"
     label: "Languages of service"
