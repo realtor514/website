@@ -271,10 +271,19 @@ Le detail jour par jour est dans `SEO-PLAN.md`, section A-bis.
 - [ ] Jour 6: suite des articles + index du blogue
 - [ ] Jour 7: anglais
 - [ ] Jour 8: arabe et espagnol
-- [ ] Jour 9: les 6 nouvelles villes du 2026-09-19 (liste dans `SEO-PLAN.md`)
+- [x] Jour 9: les 6 nouvelles villes du 2026-09-19 - FAIT le 2026-09-19
 
-Apres le jour 8, arreter. Les sitemaps et le maillage interne prennent le
-relais.
+Etat au 2026-09-19: Search Console affiche 399 pages indexees et 27 non
+indexees, pour environ 410 URLs declarees dans les sitemaps avant l ajout des
+6 villes. Google a donc indexe presque tout le site sans les demandes
+manuelles. Les jours 2 a 8 sont probablement inutiles: avant d en faire un,
+verifier dans `Indexation > Pages > Afficher les donnees sur les pages
+indexees` que les URLs du jour n y sont pas deja.
+
+A faire: envoyer a Claude une capture du tableau "Pourquoi les pages ne sont
+pas indexees" (meme rapport) pour trier les 27 pages. Attendues et normales:
+les 4 pages Merci (noindex) et le 35, terrasse Jacques-Leonard retire du site
+(404 dans les 4 langues).
 
 ---
 
@@ -292,13 +301,41 @@ Etat verifie dans le depot le 2026-08-31.
       agent, cote de credit. Les quatre autres etaient deja solides, il leur
       manquait l espagnol, qui a ete ajoute. Mediane FR passee de 294 a
       environ 360 mots, articles FR de plus de 800 mots passes de 12 a 21.
-- [ ] Etoffer le reste des articles courts: il reste environ 38 articles FR
-      sous 400 mots et 40 articles AR sous 400 mots. Le francais et l arabe
+- [ ] Etoffer le reste des articles courts: il reste environ 34 articles FR
+      sous 400 mots et 36 articles AR sous 400 mots. Le francais et l arabe
       sont des resumes de la version anglaise, ce qui est a l envers pour le
-      marche vise.
-- [ ] Completer l espagnol: 42 articles manquants sur 63 groupes. Les sujets
+      marche vise. Lot du 2026-09-19 fait dans les 4 langues, espagnol cree:
+      heritage, divorce et separation, aines qui vendent la maison familiale,
+      processus chez le notaire. Priorite suivante: les sujets qui amenent des
+      vendeurs ou des acheteurs prets a agir (construction neuve, credits
+      d impot premier acheteur, immeubles a revenus, liste de verification
+      de premiere visite).
+- [ ] Completer l espagnol: 38 articles manquants sur 63 groupes. Les sujets
       les plus commerciaux sont maintenant couverts, il reste le contenu
       secondaire.
+- [x] Taxe de bienvenue 2026 - FAIT le 2026-09-19. Les deux calculateurs
+      (taxe de bienvenue, frais de cloture) passent aux seuils 2026 (62 900 $
+      et 315 000 $) et gagnent une option Laval: 3 % sur toute la portion
+      au-dela de 500 000 $ depuis le budget 2026. Quebec et Gatineau mis a
+      jour aussi. Corriges dans les 4 langues: le tableau de l article taxes
+      foncieres, et les montants et le delai de paiement faux dans trois
+      articles (vrai cout d une premiere maison, guide des nouveaux
+      arrivants, couts caches). Le compte arrive quelques mois apres la
+      signature et se paie dans les 30 jours de son envoi, pas 30 jours
+      apres la signature.
+- [ ] RAPPEL ANNUEL, chaque janvier: les seuils de la taxe de bienvenue sont
+      indexes au 1er janvier. Mettre a jour `layouts/partials/tools/welcome-tax.html`,
+      `layouts/partials/tools/closing-costs.html` et le tableau de
+      `property-tax-explained.md` (4 langues). Verifier aussi si Laval,
+      Longueuil ou une autre ville ont change leurs taux au-dela de 500 000 $
+      dans leur budget. Sources: quebec.ca (droits sur les mutations
+      immobilieres), montreal.ca, pages des villes.
+- [ ] Incoherences reperees, pas encore corrigees: les honoraires de notaire
+      varient selon les pages (1 000 a 2 000 $, 1 200 a 2 000 $, et 1 500 a
+      2 500 $ dans le calculateur de frais de cloture); le guide FR des
+      nouveaux arrivants dit qu on signe forcement en francais, alors qu on
+      peut signer en anglais (c est la publication au registre foncier qui
+      exige le francais).
 - [x] Ajouter les 6 villes manquantes - FAIT le 2026-09-19. Sainte-Catherine,
       Lorraine, Carignan, Saint-Basile-le-Grand, Beloeil et Mont-Saint-Hilaire
       ont leur page dans les 4 langues, avec des faits verifiables
