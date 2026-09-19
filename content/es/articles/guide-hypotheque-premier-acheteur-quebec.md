@@ -1,6 +1,7 @@
 ---
 title: "Todo lo que los Compradores Primerizos Necesitan Saber Sobre las Hipotecas en Quebec"
 date: 2026-07-29
+lastmod: 2026-09-19
 translationKey: "article-guide-hypotheque"
 category: "Financiamiento"
 description: "El proceso hipotecario es más complejo de lo que su banco le hace creer, y más simple de lo que parece en internet. Aquí está la guía completa y honesta para compradores primerizos en Quebec."
@@ -58,9 +59,9 @@ Esta es una de las herramientas financieras más poderosas disponibles para comp
 El espacio de contribución se acumula a $8,000 por año. **Abra esta cuenta ahora, incluso si no compra en tres años.** El espacio que acumule estará disponible para usted cuando esté listo.
 
 **Plan de Compradores de Vivienda (RAP):**
-Retire hasta $35,000 de su RRSP para la compra de una primera vivienda. El monto es reembolsable a su RRSP durante 15 años, con un mínimo de 1/15 por año. Si no reembolsa en un año determinado, esa porción se agrega a su ingreso gravable de ese año.
+Retire hasta $60,000 de su RRSP para la compra de una primera vivienda ($120,000 para una pareja). El monto es reembolsable a su RRSP durante 15 años, con un mínimo de 1/15 por año. Si no reembolsa en un año determinado, esa porción se agrega a su ingreso gravable de ese año.
 
-Combinando FHSA y RAP, muchos compradores pueden acceder a $40,000 o $75,000+ en fondos de pago inicial de cuentas registradas, de manera eficiente fiscalmente.
+La FHSA y el RAP pueden usarse para la misma compra: hasta $100,000 por persona en cuentas registradas, si el ahorro está ahí.
 
 ## El Costo Real de Pedir Prestado
 

@@ -52,7 +52,7 @@ Le CELIAPP est l'un des outils les plus puissants disponibles pour les premiers 
 
 Ouvrez ce compte dès que vous y êtes admissible. Même si vous n'êtes pas prêt à acheter pendant deux ou trois ans, l'espace de cotisation que vous accumulez maintenant sera disponible quand vous le serez.
 
-Combiné au Régime d'accession à la propriété (RAP), qui vous permet de retirer jusqu'à 35 000 dollars de votre REER, de nombreux nouveaux arrivants peuvent accéder à 40 000 à 75 000 dollars et plus pour leur mise de fonds.
+Combiné au Régime d'accession à la propriété (RAP), qui permet de retirer jusqu'à 60 000 dollars de votre REER, le CELIAPP peut financer jusqu'à 100 000 dollars de mise de fonds par personne, si l'épargne est là.
 
 ## Le système notarial québécois
 
@@ -73,6 +73,8 @@ Une note importante sur la langue. Les formulaires de courtage existent en fran�
 C'est une taxe unique payée à la municipalité lors de l'achat d'une propriété au Québec. Avec les seuils de 2026, une propriété de 400 000 dollars donne environ 4 100 dollars. À 600 000 dollars, c'est environ 7 100 dollars au taux de base, environ 7 350 dollars à Montréal et environ 8 600 dollars à Laval, qui applique 3 % au-delà de 500 000 dollars depuis 2026.
 
 La municipalité envoie le compte quelques mois après la signature chez le notaire, et il est payable dans les 30 jours suivant cet envoi. Prévoyez-la dans votre budget.
+
+Pour un premier achat, Québec a annoncé en avril 2026 un crédit d'impôt remboursable qui rend jusqu'à 5 875 $ de cette taxe, pour une propriété acquise depuis le 1er janvier 2026. Voyez [les avantages fiscaux des premiers acheteurs](/articles/first-time-buyer-tax-credits/).
 
 ## L'inspection préachat
 

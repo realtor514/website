@@ -1,7 +1,7 @@
 ---
 title: "La mise de fonds de 20 % : le mythe qui freine les acheteurs"
 date: 2026-07-25
-lastmod: 2026-08-31
+lastmod: 2026-09-19
 category: "Financement"
 description: "La mise de fonds minimale au Québec, le vrai coût de l'assurance SCHL, la TVQ payable comptant que personne n'anticipe, et comment savoir si attendre vous rapporte ou vous coûte."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"
@@ -54,15 +54,15 @@ capital de votre hypothèque.
 
 Voici la particularité québécoise qui surprend chaque année des acheteurs à la
 signature. **La prime peut être ajoutée à l'hypothèque, mais pas la taxe sur
-cette prime.** La TVQ de 9,975 % s'applique à la prime et doit être payée
+cette prime.** La taxe québécoise de 9 % sur les primes d'assurance (9,975 % à partir du 1er janvier 2027) s'applique à la prime et doit être payée
 comptant à la clôture, chez le notaire.
 
-| Prix | Mise de fonds | Emprunt | Prime SCHL | TVQ à payer comptant |
+| Prix | Mise de fonds | Emprunt | Prime SCHL | Taxe à payer comptant (9 %) |
 |---|---|---|---|---|
-| 400 000 $ | 5 % (20 000 $) | 380 000 $ | 15 200 $ | 1 516 $ |
-| 500 000 $ | 5 % (25 000 $) | 475 000 $ | 19 000 $ | 1 895 $ |
-| 500 000 $ | 10 % (50 000 $) | 450 000 $ | 13 950 $ | 1 392 $ |
-| 500 000 $ | 15 % (75 000 $) | 425 000 $ | 11 900 $ | 1 187 $ |
+| 400 000 $ | 5 % (20 000 $) | 380 000 $ | 15 200 $ | 1 368 $ |
+| 500 000 $ | 5 % (25 000 $) | 475 000 $ | 19 000 $ | 1 710 $ |
+| 500 000 $ | 10 % (50 000 $) | 450 000 $ | 13 950 $ | 1 256 $ |
+| 500 000 $ | 15 % (75 000 $) | 425 000 $ | 11 900 $ | 1 071 $ |
 
 Cette somme s'ajoute à vos frais de clôture, au même titre que le droit de
 mutation et les honoraires du notaire. Prévoyez-la dès le départ avec le

@@ -21,7 +21,7 @@ Cuando compra una propiedad de $500,000 en Quebec, esto es lo que realmente nece
 El mínimo legal es del 5%, es decir, $25,000 en una propiedad de $500K. Pero el 5% raramente es la elección financiera óptima (más sobre eso a continuación).
 
 **2. Seguro Hipotecario CMHC**
-Si su pago inicial es inferior al 20%, la ley le exige contratar un seguro CMHC. Este seguro protege al prestamista (no a usted) y cuesta entre el 2.8% y el 4% del monto de su préstamo. En una hipoteca de $475,000, eso es hasta $19,000 añadidos directamente a su préstamo. Pagará intereses sobre ese monto durante toda la vida de su hipoteca. La TVQ del 9% sobre esa prima, en cambio, no se añade al préstamo: se paga en efectivo ante el notario.
+Si su pago inicial es inferior al 20%, la ley le exige contratar un seguro CMHC. Este seguro protege al prestamista (no a usted) y cuesta entre el 2.8% y el 4% del monto de su préstamo. En una hipoteca de $475,000, eso es hasta $19,000 añadidos directamente a su préstamo. Pagará intereses sobre ese monto durante toda la vida de su hipoteca. El impuesto del 9% sobre esa prima (9,975% desde 2027), en cambio, no se añade al préstamo: se paga en efectivo ante el notario.
 
 **3. Impuesto de Bienvenida (Taxe de Bienvenue)**
 Este es el impuesto único de transferencia de propiedad de Quebec, calculado en una escala progresiva. En una propiedad de $500,000, presupueste unos $5,600 con los umbrales de 2026. El municipio envía la factura unos meses después de la firma ante el notario, y se paga dentro de los 30 días siguientes a ese envío. Muchos compradores lo olvidan por completo hasta que llega la factura.
@@ -46,7 +46,7 @@ En una compra de $500,000 con un pago inicial del 5%, así es como se ve el pres
 |-|-|
 | Pago inicial (5%) | $25,000 |
 | Seguro CMHC | ~$19,000 (añadido a la hipoteca) |
-| TVQ sobre la prima CMHC (9%) | ~$1,710 |
+| Impuesto sobre la prima CMHC (9%) | ~$1,710 |
 | Impuesto de bienvenida | ~$5,600 |
 | Honorarios notariales | ~$2,500 |
 | Inspección del edificio | ~$700 |
@@ -69,8 +69,8 @@ Si puede llegar al 10% o al 20%, los ahorros a largo plazo son significativos.
 Los compradores primerizos en Quebec tienen acceso a programas que pueden facilitar el camino hacia la propiedad:
 
 - **FHSA (Cuenta de Ahorro para la Primera Vivienda):** Ahorre hasta $40,000 libres de impuestos para su primera vivienda. Las contribuciones son deducibles de impuestos como un RRSP, y los retiros para la compra de una vivienda son libres de impuestos como una TFSA. Abra una ahora, incluso si compra en tres años.
-- **Plan de Compradores de Vivienda (RAP):** Retire hasta $35,000 de su RRSP para su pago inicial, reembolsable en 15 años.
-- **Reembolsos del impuesto de bienvenida:** Algunos municipios ofrecen reembolsos parciales a compradores primerizos; consulte con su municipio antes del cierre.
+- **Plan de Compradores de Vivienda (RAP):** Retire hasta $60,000 de su RRSP para su pago inicial, reembolsable en 15 años.
+- **Crédito de Quebec para el acceso a la propiedad:** anunciado en abril de 2026, este crédito reembolsable devuelve a los compradores primerizos hasta $5,875 del impuesto de bienvenida, para una propiedad adquirida desde el 1 de enero de 2026. Detalles en [las ventajas fiscales para compradores primerizos](/es/articles/first-time-buyer-tax-credits/).
 
 ## La Conclusión
 

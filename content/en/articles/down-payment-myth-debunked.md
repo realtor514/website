@@ -1,7 +1,7 @@
 ---
 title: "The 20% Down Payment Myth: Why It's Holding Buyers Back"
 date: 2026-07-25
-lastmod: 2026-08-31
+lastmod: 2026-09-19
 category: "Finance"
 description: "The real minimum down payment in Quebec, what CMHC insurance actually costs, the QST you have to pay in cash at closing, and how to tell whether waiting pays you or costs you."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"
@@ -50,16 +50,16 @@ $13,950. It is not paid in cash: it is added to your mortgage principal.
 ## The QST on the premium: the amount nobody budgets for
 
 Here is the Quebec specific that surprises buyers at closing every year. **The
-premium can be added to the mortgage, but the tax on that premium cannot.** QST
-at 9.975% applies to the premium and must be paid in cash at closing, at the
+premium can be added to the mortgage, but the tax on that premium cannot.** Quebec's
+9% tax on insurance premiums (9.975% from January 1, 2027) applies to the premium and must be paid in cash at closing, at the
 notary.
 
-| Price | Down payment | Loan | CMHC premium | QST payable in cash |
+| Price | Down payment | Loan | CMHC premium | Tax payable in cash (9%) |
 |---|---|---|---|---|
-| $400,000 | 5% ($20,000) | $380,000 | $15,200 | $1,516 |
-| $500,000 | 5% ($25,000) | $475,000 | $19,000 | $1,895 |
-| $500,000 | 10% ($50,000) | $450,000 | $13,950 | $1,392 |
-| $500,000 | 15% ($75,000) | $425,000 | $11,900 | $1,187 |
+| $400,000 | 5% ($20,000) | $380,000 | $15,200 | $1,368 |
+| $500,000 | 5% ($25,000) | $475,000 | $19,000 | $1,710 |
+| $500,000 | 10% ($50,000) | $450,000 | $13,950 | $1,256 |
+| $500,000 | 15% ($75,000) | $425,000 | $11,900 | $1,071 |
 
 That amount sits alongside the welcome tax and the notary's fees in your
 closing costs. Plan for it from the start with the

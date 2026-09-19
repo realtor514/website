@@ -59,7 +59,7 @@ Here is how it works:
 
 Open this account as soon as you qualify. Even if you are not ready to buy for two or three years, the contribution room you accumulate now will be available to you when you are ready.
 
-Combined with the Home Buyers' Plan (RAP, which allows you to withdraw up to $35,000 from your RRSP), many newcomers can access $40,000 to $75,000 in registered savings toward a first home purchase.
+Combined with the Home Buyers' Plan (RAP, which allows you to withdraw up to $60,000 from your RRSP), the FHSA can fund up to $100,000 of down payment per person, if the savings are there.
 
 ## The Quebec Notarial System
 
@@ -86,7 +86,7 @@ The tax is calculated on a sliding scale based on the property value. With the 2
 
 The municipality sends the bill a few months after the notary signing, and it is payable within 30 days of that bill. Budget for it, as many buyers are caught off guard.
 
-Some municipalities offer partial rebates for first-time buyers. Check with your specific municipality.
+For a first purchase, Quebec announced in April 2026 a refundable tax credit that gives back up to $5,875 of this tax, for a home acquired on or after January 1, 2026. See [first-time buyer tax advantages](/en/articles/first-time-buyer-tax-credits/).
 
 ## The Building Inspection
 

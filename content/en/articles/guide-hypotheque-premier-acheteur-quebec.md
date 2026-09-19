@@ -1,6 +1,7 @@
 ---
 title: "Everything First-Time Buyers Need to Know About Mortgages in Quebec"
 date: 2026-07-29
+lastmod: 2026-09-19
 translationKey: "article-guide-hypotheque"
 category: "Financing"
 description: "The mortgage process is more complex than your bank makes it seem, and simpler than the internet makes it look. Here is the complete, honest guide for first-time buyers in Quebec."
@@ -60,9 +61,9 @@ This is one of the most powerful financial tools available to first-time buyers 
 Contribution room accumulates at $8,000 per year, with the ability to carry forward one year of unused room. **Open this account now, even if you're not buying for three years.** The room you accumulate is available to you when you are ready.
 
 **Home Buyers' Plan (RAP):**
-Withdraw up to $35,000 from your RRSP for a first home purchase. The amount is repayable to your RRSP over 15 years, with a minimum of 1/15th per year. If you don't repay in a given year, that portion is added to your taxable income for that year.
+Withdraw up to $60,000 from your RRSP for a first home purchase ($120,000 for a couple). The amount is repayable to your RRSP over 15 years, with a minimum of 1/15th per year. If you don't repay in a given year, that portion is added to your taxable income for that year.
 
-Combining FHSA and RAP, many buyers can access $40,000 to $75,000+ in down payment funds from registered accounts, tax-efficiently.
+The FHSA and the RAP can be used for the same purchase: up to $100,000 per person from registered accounts, if the savings are there.
 
 **Parental gift:**
 A parent can give you part of your down payment. The lender will require a gift letter confirming it is not a loan. This is legal and common, but must be disclosed fully to the lender.

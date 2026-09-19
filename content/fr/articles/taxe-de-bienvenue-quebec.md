@@ -1,6 +1,7 @@
 ---
 title: "Taxe de bienvenue au Québec: combien, quand, et qui la paie"
 date: 2026-06-05
+lastmod: 2026-09-19
 translationKey: "article-taxe-bienvenue"
 category: "Guide de l'acheteur"
 description: "Les droits de mutation surprennent chaque année des milliers d'acheteurs québécois, parce que la facture arrive des mois après l'achat. Voici comment le montant se calcule et comment le prévoir."
@@ -61,7 +62,7 @@ La loi prévoit certaines exonérations, principalement pour des transferts entr
 
 Les conditions sont précises et le notaire les vérifie au moment de la transaction. Si votre situation ressemble à l'un de ces cas, mentionnez-le à votre notaire tôt, pas après.
 
-**Et pour un premier achat?** Le régime provincial ne prévoit pas d'exonération générale pour les premiers acheteurs. Certaines municipalités ont mis en place leurs propres programmes de remboursement ou d'aide, souvent liés à l'achat d'une première propriété ou à la présence d'enfants. Ces programmes varient d'une ville à l'autre et changent avec les budgets municipaux. Vérifiez directement auprès de votre municipalité, c'est de l'argent que beaucoup d'acheteurs admissibles ne réclament jamais.
+**Et pour un premier achat?** La taxe reste due, mais Québec la rembourse en partie depuis 2026. Le crédit d'impôt remboursable pour l'accès à la propriété, annoncé en avril 2026, rend aux premiers acheteurs 100 % des premiers 5 000 $ de droits de mutation et 25 % des 3 500 $ suivants, soit jusqu'à 5 875 $, pour une propriété acquise depuis le 1er janvier 2026. Il diminue au-delà d'une valeur de 750 000 $ et disparaît à 1 000 000 $. Il remplace l'aide municipale équivalente : Montréal a fermé son propre programme le 7 juillet 2026. Conditions et définition du premier acheteur : [les avantages fiscaux des premiers acheteurs](/articles/first-time-buyer-tax-credits/). C'est de l'argent que beaucoup d'acheteurs admissibles risquent de ne pas réclamer.
 
 ## Où l'inscrire dans votre budget
 

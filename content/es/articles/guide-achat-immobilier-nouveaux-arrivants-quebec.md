@@ -59,7 +59,7 @@ Así es como funciona:
 
 Abra esta cuenta tan pronto como califique. Incluso si no está listo para comprar durante dos o tres años, el espacio de contribución que acumule ahora estará disponible para usted cuando esté listo.
 
-Combinado con el Plan de Compradores de Vivienda (RAP, que le permite retirar hasta $35,000 de su RRSP), muchos recién llegados pueden acceder a $40,000 a $75,000 en ahorros registrados para la compra de una primera vivienda.
+Combinado con el Plan de Compradores de Vivienda (RAP, que le permite retirar hasta $60,000 de su RRSP), la FHSA puede financiar hasta $100,000 de pago inicial por persona, si el ahorro está ahí.
 
 ## El Sistema Notarial de Quebec
 
@@ -84,7 +84,7 @@ El impuesto se calcula en una escala progresiva basada en el valor de la propied
 
 El municipio envía la factura unos meses después de la firma ante el notario, y se paga dentro de los 30 días siguientes a ese envío. Presupueste para ello, ya que muchos compradores son tomados por sorpresa.
 
-Algunos municipios ofrecen reembolsos parciales para compradores primerizos. Consulte con su municipio específico.
+Para una primera compra, Quebec anunció en abril de 2026 un crédito fiscal reembolsable que devuelve hasta $5,875 de este impuesto, para una propiedad adquirida desde el 1 de enero de 2026. Vea [las ventajas fiscales para compradores primerizos](/es/articles/first-time-buyer-tax-credits/).
 
 ## La Inspección del Edificio
 

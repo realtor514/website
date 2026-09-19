@@ -21,7 +21,7 @@ Lorsque vous achetez une propriété à 500 000 dollars au Québec, voici ce que
 Le minimum légal est de 5%, soit 25 000 dollars sur une propriété à 500 000 dollars. Mais 5% est rarement le choix financier optimal (nous y reviendrons).
 
 **2. L'assurance hypothécaire SCHL**
-Si votre mise de fonds est inférieure à 20%, vous êtes obligé par la loi de souscrire à une assurance SCHL. Cette assurance protège le prêteur, pas vous, et coûte entre 2,8% et 4% du montant de votre prêt. Sur une hypothèque de 475 000 dollars, cela représente jusqu'à 19 000 dollars ajoutés directement à votre prêt. Vous paierez des intérêts sur ce montant pendant toute la durée de votre amortissement. La TVQ de 9 % sur cette prime, elle, ne s'ajoute pas au prêt : elle se paie comptant chez le notaire.
+Si votre mise de fonds est inférieure à 20%, vous êtes obligé par la loi de souscrire à une assurance SCHL. Cette assurance protège le prêteur, pas vous, et coûte entre 2,8% et 4% du montant de votre prêt. Sur une hypothèque de 475 000 dollars, cela représente jusqu'à 19 000 dollars ajoutés directement à votre prêt. Vous paierez des intérêts sur ce montant pendant toute la durée de votre amortissement. La taxe de 9 % sur cette prime (9,975 % à partir de 2027), elle, ne s'ajoute pas au prêt : elle se paie comptant chez le notaire.
 
 **3. Les taxes de bienvenue**
 C'est la taxe de mutation immobilière du Québec, calculée selon un barème progressif. Sur une propriété de 500 000 dollars, prévoyez environ 5 600 dollars avec les seuils de 2026. La municipalité envoie le compte quelques mois après la signature chez le notaire, et il est payable dans les 30 jours suivant cet envoi. De nombreux acheteurs l'oublient complètement jusqu'à la réception de la facture.
@@ -46,7 +46,7 @@ Sur un achat de 500 000 dollars avec une mise de fonds de 5%, voici le budget co
 |-|-|
 | Mise de fonds (5%) | 25 000 $ |
 | Assurance SCHL | ~19 000 $ (ajoutée au prêt) |
-| TVQ sur la prime SCHL (9 %) | ~1 710 $ |
+| Taxe sur la prime SCHL (9 %) | ~1 710 $ |
 | Taxes de bienvenue | ~5 600 $ |
 | Frais de notaire | ~2 500 $ |
 | Inspection préachat | ~700 $ |
@@ -69,8 +69,8 @@ Si vous pouvez atteindre 10% ou 20%, les économies à long terme sont significa
 Les premiers acheteurs au Québec ont accès à des outils qui peuvent faciliter l'accession à la propriété:
 
 - **CELIAPP (Compte d'épargne libre d'impôt pour l'achat d'une première propriété):** Épargnez jusqu'à 40 000 dollars en franchise d'impôt pour votre première maison. Les cotisations sont déductibles comme un REER, et les retraits pour l'achat d'une maison sont non imposables comme un CELI. Ouvrez-en un maintenant, même si vous achetez dans trois ans.
-- **Régime d'accession à la propriété (RAP):** Retirez jusqu'à 35 000 dollars de votre REER pour votre mise de fonds, remboursable sur 15 ans.
-- **Remboursement des taxes de bienvenue:** Certaines municipalités offrent des remboursements partiels aux premiers acheteurs.
+- **Régime d'accession à la propriété (RAP):** Retirez jusqu'à 60 000 dollars de votre REER pour votre mise de fonds, remboursable sur 15 ans.
+- **Crédit d'impôt pour l'accès à la propriété:** Québec a annoncé en avril 2026 un crédit remboursable qui rend aux premiers acheteurs jusqu'à 5 875 $ de taxe de bienvenue, pour une propriété acquise depuis le 1er janvier 2026. Le détail est dans [les avantages fiscaux des premiers acheteurs](/articles/first-time-buyer-tax-credits/).
 
 ## En conclusion
 

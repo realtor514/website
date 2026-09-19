@@ -21,7 +21,7 @@ When you buy a $500,000 property in Quebec, here is what you actually need to ha
 The legal minimum is 5%, so $25,000 on a $500K property. But 5% is rarely the optimal financial choice (more on that below).
 
 **2. CMHC Mortgage Insurance**
-If your down payment is under 20%, you're required by law to purchase CMHC insurance. This insurance protects the lender (not you) and it costs between 2.8% and 4% of your loan amount. On a $475,000 mortgage, that's up to $19,000 added directly to your loan. You'll pay interest on that amount for the entire life of your mortgage. The 9% QST on that premium, however, is not added to the loan: it is paid in cash at the notary.
+If your down payment is under 20%, you're required by law to purchase CMHC insurance. This insurance protects the lender (not you) and it costs between 2.8% and 4% of your loan amount. On a $475,000 mortgage, that's up to $19,000 added directly to your loan. You'll pay interest on that amount for the entire life of your mortgage. The 9% tax on that premium (9.975% from 2027), however, is not added to the loan: it is paid in cash at the notary.
 
 **3. Welcome Tax (Taxe de Bienvenue)**
 This is Quebec's one-time property transfer tax, calculated on a sliding scale. On a $500,000 property, budget about $5,600 with the 2026 thresholds. The municipality sends the bill a few months after the notary signing, and it is payable within 30 days of that bill. Many buyers forget about it entirely until the invoice arrives.
@@ -46,7 +46,7 @@ On a $500,000 purchase with a 5% down payment, here is what the complete budget 
 |-|-|
 | Down payment (5%) | $25,000 |
 | CMHC insurance | ~$19,000 (added to mortgage) |
-| QST on the CMHC premium (9%) | ~$1,710 |
+| Tax on the CMHC premium (9%) | ~$1,710 |
 | Welcome tax | ~$5,600 |
 | Notary fees | ~$2,500 |
 | Building inspection | ~$700 |
@@ -69,8 +69,8 @@ If you can reach 10% or 20%, the long-term savings are significant.
 Quebec first-time buyers have access to programs that can ease the path to homeownership:
 
 - **FHSA (First Home Savings Account):** Save up to $40,000 tax-free toward your first home. Contributions are tax-deductible like an RRSP, and withdrawals for a home purchase are tax-free like a TFSA. Open one now, even if you're buying in three years.
-- **Home Buyers' Plan (RAP):** Withdraw up to $35,000 from your RRSP toward your down payment, repayable over 15 years.
-- **Welcome tax rebates:** Some municipalities offer partial rebates to first-time buyers; check with your municipality before closing.
+- **Home Buyers' Plan (RAP):** Withdraw up to $60,000 from your RRSP toward your down payment, repayable over 15 years.
+- **Quebec home ownership access credit:** announced in April 2026, this refundable credit gives first-time buyers back up to $5,875 of welcome tax, for a home acquired on or after January 1, 2026. Details in [first-time buyer tax advantages](/en/articles/first-time-buyer-tax-credits/).
 
 ## The Conclusion
 

@@ -1,6 +1,7 @@
 ---
 title: "Welcome Tax in Quebec: How Much, When, and Who Pays It"
 date: 2026-06-05
+lastmod: 2026-09-19
 translationKey: "article-taxe-bienvenue"
 category: "Buyer's Guide"
 description: "Transfer duties catch thousands of Quebec buyers off guard every year, because the bill arrives months after the purchase. Here is how the amount is calculated and how to plan for it."
@@ -61,7 +62,7 @@ The Act provides certain exemptions, mainly for transfers between related partie
 
 The conditions are precise and the notary verifies them at the time of the transaction. If your situation resembles one of these cases, mention it to your notary early, not after.
 
-**What about a first purchase?** The provincial regime does not provide a general exemption for first-time buyers. Some municipalities have set up their own reimbursement or assistance programs, often tied to buying a first property or to having children. These programs vary from city to city and change with municipal budgets. Check directly with your municipality. This is money many eligible buyers never claim.
+**What about a first purchase?** The tax is still owed, but since 2026 Quebec refunds part of it. The refundable tax credit for access to home ownership, announced in April 2026, gives first-time buyers back 100% of the first $5,000 of transfer duties and 25% of the next $3,500, up to $5,875, for a home acquired on or after January 1, 2026. It shrinks above a value of $750,000 and disappears at $1,000,000. It replaces the equivalent municipal aid: Montreal closed its own program on July 7, 2026. Conditions and the first-time buyer definition: [first-time buyer tax advantages](/en/articles/first-time-buyer-tax-credits/). This is money many eligible buyers may never claim.
 
 ## Where it belongs in your budget
 

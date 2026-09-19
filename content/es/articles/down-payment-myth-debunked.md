@@ -1,7 +1,7 @@
 ---
 title: "El mito del 20 % de entrada: lo que frena a los compradores"
 date: 2026-07-25
-lastmod: 2026-08-31
+lastmod: 2026-09-19
 category: "Financiamiento"
 description: "La entrada mínima real en Quebec, lo que cuesta de verdad el seguro CMHC, el QST que hay que pagar en efectivo al cierre, y cómo saber si esperar le conviene o le cuesta."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"
@@ -53,15 +53,15 @@ su hipoteca.
 
 Esta es la particularidad quebequense que sorprende cada año a los compradores
 en la firma. **La prima puede sumarse a la hipoteca, pero el impuesto sobre esa
-prima no.** El QST del 9,975 % se aplica a la prima y debe pagarse en efectivo
+prima no.** El impuesto quebequense del 9 % sobre las primas de seguro (9,975 % desde el 1 de enero de 2027) se aplica a la prima y debe pagarse en efectivo
 al cierre, ante el notario.
 
-| Precio | Entrada | Préstamo | Prima CMHC | QST en efectivo |
+| Precio | Entrada | Préstamo | Prima CMHC | Impuesto en efectivo (9 %) |
 |---|---|---|---|---|
-| 400 000 $ | 5 % (20 000 $) | 380 000 $ | 15 200 $ | 1 516 $ |
-| 500 000 $ | 5 % (25 000 $) | 475 000 $ | 19 000 $ | 1 895 $ |
-| 500 000 $ | 10 % (50 000 $) | 450 000 $ | 13 950 $ | 1 392 $ |
-| 500 000 $ | 15 % (75 000 $) | 425 000 $ | 11 900 $ | 1 187 $ |
+| 400 000 $ | 5 % (20 000 $) | 380 000 $ | 15 200 $ | 1 368 $ |
+| 500 000 $ | 5 % (25 000 $) | 475 000 $ | 19 000 $ | 1 710 $ |
+| 500 000 $ | 10 % (50 000 $) | 450 000 $ | 13 950 $ | 1 256 $ |
+| 500 000 $ | 15 % (75 000 $) | 425 000 $ | 11 900 $ | 1 071 $ |
 
 Ese monto se suma a sus gastos de cierre, igual que el impuesto de bienvenida y
 los honorarios del notario. Prevéalo desde el principio con la

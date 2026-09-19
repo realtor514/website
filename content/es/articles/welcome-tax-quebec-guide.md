@@ -1,6 +1,7 @@
 ---
 title: "Impuesto de bienvenida en Quebec: cuánto, cuándo y quién lo paga"
 date: 2026-06-05
+lastmod: 2026-09-19
 translationKey: "article-taxe-bienvenue"
 category: "Guía del Comprador"
 description: "Los derechos de mutación sorprenden cada año a miles de compradores en Quebec, porque la factura llega meses después de la compra. Así se calcula el monto y así se puede prever."
@@ -61,7 +62,7 @@ La ley prevé ciertas exenciones, principalmente para transferencias entre perso
 
 Las condiciones son precisas y el notario las verifica en el momento de la transacción. Si su situación se parece a alguno de estos casos, menciónelo a su notario temprano, no después.
 
-**¿Y para una primera compra?** El régimen provincial no prevé una exención general para primeros compradores. Algunos municipios han creado sus propios programas de reembolso o ayuda, a menudo vinculados a la compra de una primera propiedad o a la presencia de hijos. Estos programas varían de una ciudad a otra y cambian con los presupuestos municipales. Verifique directamente con su municipio: es dinero que muchos compradores elegibles nunca reclaman.
+**¿Y para una primera compra?** El impuesto se sigue debiendo, pero desde 2026 Quebec reembolsa una parte. El crédito fiscal reembolsable para el acceso a la propiedad, anunciado en abril de 2026, devuelve a los compradores primerizos el 100 % de los primeros 5 000 $ de derechos de mutación y el 25 % de los 3 500 $ siguientes, hasta 5 875 $, para una propiedad adquirida desde el 1 de enero de 2026. Disminuye por encima de un valor de 750 000 $ y desaparece a 1 000 000 $. Reemplaza la ayuda municipal equivalente: Montreal cerró su propio programa el 7 de julio de 2026. Condiciones y definición de comprador primerizo: [las ventajas fiscales para compradores primerizos](/es/articles/first-time-buyer-tax-credits/). Es dinero que muchos compradores elegibles podrían no reclamar.
 
 ## Dónde ubicarlo en su presupuesto
 

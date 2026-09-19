@@ -1,6 +1,7 @@
 ---
 title: "Tout ce que les premiers acheteurs doivent savoir sur les hypothèques au Québec"
 date: 2026-07-29
+lastmod: 2026-09-19
 translationKey: "article-guide-hypotheque"
 category: "Financement"
 description: "Le processus hypothécaire est plus complexe que votre banque le laisse paraître, et plus simple que ce qu'internet vous fait croire. Voici le guide complet et honnête pour les premiers acheteurs au Québec."
@@ -56,9 +57,9 @@ Introduit en 2023, il vous permet d'épargner jusqu'à 40 000 dollars sur une vi
 L'espace de cotisation s'accumule à 8 000 dollars par année. **Ouvrez ce compte maintenant, même si vous n'achetez pas avant trois ans.** L'espace que vous accumulez maintenant sera disponible quand vous serez prêt.
 
 **Régime d'accession à la propriété (RAP):**
-Retirez jusqu'à 35 000 dollars de votre REER pour un premier achat immobilier. Le montant est remboursable dans votre REER sur 15 ans.
+Retirez jusqu'à 60 000 dollars de votre REER pour un premier achat immobilier (120 000 dollars pour un couple). Le montant est remboursable dans votre REER sur 15 ans.
 
-En combinant CELIAPP et RAP, de nombreux acheteurs peuvent accéder à 40 000 à 75 000 dollars et plus en fonds de comptes enregistrés pour leur mise de fonds.
+Le CELIAPP et le RAP peuvent servir au même achat : jusqu'à 100 000 dollars par personne en fonds de comptes enregistrés, si l'épargne est là.
 
 ## Le coût réel de l'emprunt
 
