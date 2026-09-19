@@ -12,16 +12,16 @@
       <span class="breadcrumb__sep">&rsaquo;</span>
       <span>{{ if $isFr }}Propriétés{{ else if $isAr }}العقارات{{ else if $isEs }}Propiedades{{ else }}Properties{{ end }}</span>
     </div>
-    <h1 class="content-hero__title">{{ if $isFr }}Propriétés disponibles{{ else if $isAr }}العقارات المتاحة{{ else if $isEs }}Propiedades disponibles{{ else }}Available Properties{{ end }}</h1>
+    <h1 class="content-hero__title">{{ .Title }}</h1>
     <p style="color:rgba(255,255,255,.65);max-width:560px;margin-top:12px">
       {{ if $isFr }}
-        Découvrez mes inscriptions à Montr&eacute;al, Laval, dans les Laurentides, Lanaudi&egrave;re et les environs.
+        Mes inscriptions en cours et mes ventes récentes, à Laval, sur la Rive-Nord et sur la Rive-Sud.
       {{ else if $isAr }}
-        استكشف إدراجاتي الحالية في مونتريال، لافال، منطقة اللورانتيد، لانوديير والمناطق المجاورة.
+        عقاراتي المعروضة حالياً ومبيعاتي الأخيرة في لافال والضفة الشمالية والضفة الجنوبية.
       {{ else if $isEs }}
-        Explore mis propiedades actuales en Montr&eacute;al, Laval, los Laurentides, Lanaudi&egrave;re y las áreas circundantes.
+        Mis propiedades en venta y mis ventas recientes en Laval, la Rive-Nord y la Rive-Sud.
       {{ else }}
-        Explore my current listings in Montr&eacute;al, Laval, the Laurentians, Lanaudi&egrave;re, and surrounding areas.
+        My current listings and recent sales in Laval, on the North Shore and on the South Shore.
       {{ end }}
     </p>
   </div>

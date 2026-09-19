@@ -231,9 +231,15 @@
   {{- with .Params.year_built }}{{ $residence = merge $residence (dict "yearBuilt" .) }}{{ end -}}
   {{- with .Params.images }}{{ $residence = merge $residence (dict "photo" (index . 0 | absURL)) }}{{ end -}}
 
+  {{- /* Une fiche vendue reste en ligne (REGLE 4): l offre doit le dire, sinon
+       Google presente comme disponible une maison deja vendue. */ -}}
+  {{- $availability := "https://schema.org/InStock" -}}
+  {{- if in (slice "Vendu" "Sold" "Vendido" "مباع") .Params.status -}}
+    {{- $availability = "https://schema.org/SoldOut" -}}
+  {{- end -}}
   {{- $offer := dict
         "@type" "Offer"
-        "availability" "https://schema.org/InStock"
+        "availability" $availability
         "priceCurrency" "CAD"
         "seller" (dict "@id" $agentID)
   -}}
