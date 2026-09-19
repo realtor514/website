@@ -20,12 +20,18 @@ commencent sur la marge de gauche, s'y font manger.
 La couverture est donc dessinée en 9:16, et deux choses y sont calées
 exprès:
 
-- le nom du courtier descend sous la ligne des 285 px, là où commence le
-  recadrage 4:5 de la grille du profil. Centré comme sur la publication, il
+- le nom du courtier descend sous la ligne des 240 px, là où commence le
+  recadrage 3:4 de la grille du profil. Centré comme sur la publication, il
   tombait hors vignette et la grille n'affichait qu'une bande navy vide;
-- le bandeau rouge se place dans la bande de 285 à 1635 px, celle que l'oeil
+- le bandeau rouge se place dans la bande de 240 à 1680 px, celle que l'oeil
   voit en vignette, et le pied laisse le bas de l'écran libre puisque
   l'interface d'Instagram le recouvre pendant la lecture.
+
+**Le bandeau de la couverture est à la même hauteur pour toutes les
+propriétés: 960 px.** Les reels VENDU se suivent dans la grille du profil, et
+un rouge qui saute d'une vignette à l'autre se voit tout de suite. Ce n'est
+donc pas le bandeau qui s'adapte à la maison, c'est la photo qui se recadre
+autour du bandeau, avec `cadrage_couverture`.
 
 Le pied de la couverture est aussi plus maigre que celui de la publication:
 pas de téléphone, pas de site, pas de mention d'équipe. Une couverture est
@@ -88,8 +94,16 @@ python "carrousel-instagram/vendu/generer-post-vendu.py" mirabel   une seule
 Quelques secondes par image. Le choix de la photo et son cadrage se règlent en
 haut de `generer-post-vendu.py`: `zoom` à 1,0 garde la photo entière sur la
 largeur, au delà on se rapproche, et `fx`, `fy` disent de quel côté on garde
-ce qui reste. `bandeau` donne la hauteur du bandeau rouge: il se place là où
-il ne coupe pas la maison, sous elle à Longueuil, dans les arbres à Mirabel.
+ce qui reste. `bandeau` donne la hauteur du bandeau rouge sur la publication:
+il se place là où il ne coupe pas la maison, sous elle à Longueuil, dans les
+arbres à Mirabel.
+
+Sur la couverture, `bandeau` n'existe pas par propriété: le rouge reste à
+960 px. `cadrage_couverture` corrige alors `zoom`, `fx` et `fy` pour la
+couverture seule, sans toucher à la publication. À Longueuil, la photo remonte
+pour que toute la galerie passe au dessus du rouge. À Mirabel, elle descend un
+peu pour que le rez de chaussée passe dessous. Une nouvelle propriété garde le
+960 et cherche son cadrage.
 
 Pour Mirabel, c'est la vue de la rue et non la façade: le grand pin et le rang
 disent la campagne en une seconde, alors que la façade de côté montrait la

@@ -14,7 +14,7 @@ le meme fichier. Instagram recadre une image 4:5 posee en couverture de reel:
 il garde les 70 pour cent du milieu et coupe 15 pour cent de chaque cote. Le
 nom et l adresse, qui commencent sur la marge de gauche, s y font manger. La
 couverture est donc dessinee en 9:16, et tout ce qui compte tient dans la
-bande centrale que la grille du profil recadre en 4:5.
+bande centrale que la grille du profil recadre en 3:4.
 
 Le visuel courant du marche montrealais, monte comme une pancarte RE/MAX:
 trois aplats et rien d autre.
@@ -75,43 +75,52 @@ EQUIPE = "Équipe Pistoli"
 CONTACT = "438 372-0102   ·   WWW.GEORGESMATAR.CA"
 
 
-# Les deux geometries. `bandeau` est la valeur par defaut, une propriete peut
-# la corriger pour que le rouge ne coupe pas la maison.
+# Les deux geometries. Sur la publication, `bandeau` est la valeur par
+# defaut, une propriete peut la corriger pour que le rouge ne coupe pas la
+# maison.
 #
-# Pour la couverture, le bandeau est cale sur le centre vertical de l image:
-# la grille du profil recadre le 9:16 en 4:5, soit la bande de 285 a 1635, et
-# c est le milieu de cette bande que l oeil voit en vignette.
+# Sur la couverture, `bandeau` est le meme pour toutes les proprietes, sans
+# exception: les reels VENDU se suivent dans la grille du profil, et un rouge
+# qui saute d une vignette a l autre se voit tout de suite. C est la photo
+# qui se recadre autour du bandeau, avec `cadrage_couverture`, jamais
+# l inverse. La grille recadre le 9:16 en 3:4, soit la bande de 240 a 1680.
+# Le bandeau passe a 960, un peu sous le milieu de cette bande: plus haut, il
+# coupait la galerie de Longueuil, que le cadrage ne peut plus remonter.
 #
 # `nom` et `pastille` sont des hauteurs absolues et non un centrage: sur la
-# couverture, elles descendent volontairement sous la ligne des 285 px, la
-# ou commence le recadrage 4:5. Centrees, elles tombaient hors vignette et la
-# grille du profil n affichait qu une bande navy vide.
+# couverture, elles descendent volontairement sous la ligne des 240 px, la
+# ou commence le recadrage de la grille. Centrees, elles tombaient hors
+# vignette et la grille du profil n affichait qu une bande navy vide.
 FORMATS = {
     "publication": dict(fichier="publication-vendu.jpg", h=1350, entete=330,
                         nom=82, pastille=216, photo=(330, 970), bandeau=596,
                         portrait=468),
     "couverture":  dict(fichier="couverture-vendu.jpg", h=1920, entete=560,
-                        nom=300, pastille=432, photo=(560, 1440), bandeau=880,
+                        nom=300, pastille=432, photo=(560, 1440), bandeau=960,
                         portrait=560),
 }
 
 
 # zoom: 1.0 garde la photo entiere sur la largeur. Au dela, on se rapproche
 # du sujet, et fx, fy disent de quel cote on garde ce qui reste.
+# `cadrage_couverture` corrige ces trois valeurs pour la couverture seule.
 PROPRIETES = [
-    # bandeau et bandeau_couverture: la hauteur ou passe le rouge dans chaque
-    # format. Il se place la ou il ne coupe pas la maison.
+    # bandeau: la hauteur ou passe le rouge sur la publication, la ou il ne
+    # coupe pas la maison. Sur la couverture, le bandeau ne bouge pas, et
+    # la photo remonte pour que toute la galerie passe au dessus du rouge.
     dict(slug="28-rue-st-hilaire-longueuil",
          photo=os.path.join(STH, "03.jpg"), zoom=1.30, fx=0.53, fy=0.54,
-         bandeau=700, bandeau_couverture=1010,
+         bandeau=700, cadrage_couverture=dict(fy=0.80),
          adresse=["28, RUE ST-HILAIRE", "LONGUEUIL (VIEUX-LONGUEUIL)"],
          adresse_courte=["28, RUE ST-HILAIRE", "VIEUX-LONGUEUIL"]),
 
     # la vue de la rue plutot que la facade: le grand pin et le rang disent
     # la campagne en une seconde, et la facade de cote montrait la
-    # bonbonne de propane et la generatrice
+    # bonbonne de propane et la generatrice. Sur la couverture, la photo
+    # descend un peu pour que le rez de chaussee passe sous le rouge.
     dict(slug="4071-rang-saint-hyacinthe-mirabel",
          photo="23-Vue de la rue.png", zoom=1.0, fx=0.5, fy=0.50,
+         cadrage_couverture=dict(zoom=1.06, fy=0.0),
          adresse=["4071, RANG SAINT-HYACINTHE",
                   "MIRABEL (SAINT-HERMAS)"],
          adresse_courte=["4071, RANG SAINT-HYACINTHE",
@@ -146,17 +155,20 @@ def entete(c, g):
     tracked(d, (x + cote + 22, y + cote / 2 - 13), lbl, fl, CREME, 3)
 
 
-def bande_photo(c, prop, g):
+def bande_photo(c, prop, g, cle):
     """La facade, pleine largeur, a peine assombrie: le bandeau rouge suffit
     a porter le texte, inutile d etouffer la photo."""
+    r = dict(prop)
+    if cle == "couverture":
+        r.update(prop.get("cadrage_couverture", {}))
     y0, y1 = g["photo"]
     h = y1 - y0
-    z = prop.get("zoom", 1.0)
-    im = remplir(moteur._ouvrir(prop["photo"]), int(W * z), int(h * z),
-                 prop.get("fx", 0.5), prop.get("fy", 0.5))
+    z = r.get("zoom", 1.0)
+    im = remplir(moteur._ouvrir(r["photo"]), int(W * z), int(h * z),
+                 r.get("fx", 0.5), r.get("fy", 0.5))
     if z != 1.0:                        # on recadre au centre du sujet vise
-        x = int((im.width - W) * prop.get("fx", 0.5))
-        y = int((im.height - h) * prop.get("fy", 0.5))
+        x = int((im.width - W) * r.get("fx", 0.5))
+        y = int((im.height - h) * r.get("fy", 0.5))
         im = im.crop((x, y, x + W, y + h))
     im = im.filter(ImageFilter.UnsharpMask(2, 48, 3)).convert("RGBA")
     im.alpha_composite(Image.new("RGBA", (W, h), NAVY + (34,)))
@@ -170,9 +182,9 @@ def bandeau_vendu(c, prop, g, cle):
     le seul traitement qui reste lisible dans une vignette de fil, et c est
     le code couleur que tout le monde associe deja a RE/MAX.
     """
-    defaut = prop.get("bandeau" if cle == "publication"
-                      else "bandeau_couverture")
-    haut = defaut if defaut else g["bandeau"]
+    # la couverture ignore toute correction: meme hauteur pour tous les reels
+    haut = prop.get("bandeau") if cle == "publication" else None
+    haut = haut or g["bandeau"]
     bas = haut + 158
     d = ImageDraw.Draw(c)
     # aplat plein, sans filet ni transparence: une pancarte, pas un calque
@@ -281,7 +293,7 @@ def fabriquer(prop, cle):
     g = FORMATS[cle]
     c = Image.new("RGBA", (W, g["h"]), CREME + (255,))
     entete(c, g)
-    bande_photo(c, prop, g)
+    bande_photo(c, prop, g, cle)
     bandeau_vendu(c, prop, g, cle)
     if cle == "publication":
         pied_publication(c, prop, g)
