@@ -301,18 +301,32 @@ Etat verifie dans le depot le 2026-08-31.
       agent, cote de credit. Les quatre autres etaient deja solides, il leur
       manquait l espagnol, qui a ete ajoute. Mediane FR passee de 294 a
       environ 360 mots, articles FR de plus de 800 mots passes de 12 a 21.
-- [ ] Etoffer le reste des articles courts: il reste environ 34 articles FR
-      sous 400 mots et 36 articles AR sous 400 mots. Le francais et l arabe
+- [ ] Etoffer le reste des articles courts: il reste environ 30 articles FR
+      sous 400 mots et 32 articles AR sous 400 mots. Le francais et l arabe
       sont des resumes de la version anglaise, ce qui est a l envers pour le
-      marche vise. Lot du 2026-09-19 fait dans les 4 langues, espagnol cree:
-      heritage, divorce et separation, aines qui vendent la maison familiale,
-      processus chez le notaire. Priorite suivante: les sujets qui amenent des
-      vendeurs ou des acheteurs prets a agir (construction neuve, credits
-      d impot premier acheteur, immeubles a revenus, liste de verification
-      de premiere visite).
-- [ ] Completer l espagnol: 38 articles manquants sur 63 groupes. Les sujets
+      marche vise. Deux lots faits le 2026-09-19 dans les 4 langues, espagnol
+      cree: heritage, divorce, aines, notaire, puis construction neuve,
+      avantages fiscaux des premiers acheteurs 2026, immeubles a revenus,
+      premiere visite. A refaire en priorite parce qu ils contiennent des
+      chiffres sans source: triplex a Laval (taux de capitalisation, rendements,
+      vacance), liste d inspection a Montreal (duree de vie des bardeaux,
+      panneaux electriques), gestion locative.
+- [ ] Completer l espagnol: 34 articles manquants sur 63 groupes. Les sujets
       les plus commerciaux sont maintenant couverts, il reste le contenu
       secondaire.
+- [x] Programmes premiers acheteurs mis a jour le 2026-09-19, 4 langues: RAP
+      a 60 000 $ (au lieu de 35 000 $) dans 11 fichiers; taxe sur la prime
+      SCHL a 9 % en 2026, 9,975 % a partir du 1er janvier 2027 (et ce n est pas
+      la TVQ); nouveau credit d impot remboursable pour l acces a la propriete
+      de Quebec (jusqu a 5 875 $ de taxe de bienvenue rendue, achats depuis le
+      1er janvier 2026) a la place du conseil de verifier les programmes
+      municipaux; le programme de Montreal est ferme depuis le 7 juillet 2026.
+- [x] Petites corrections du 2026-09-19: certification RBQ des inspecteurs
+      (volontaire depuis octobre 2024, obligatoire le 1er octobre 2027), mise
+      de fonds d un triplex occupe (10 %, pas 5 %), pas d avis de
+      non-renouvellement au Quebec, le vendeur n est pas oblige d accepter une
+      inspection avant l offre, la garantie GCR ne couvre pas les condos de
+      plus de 4 unites superposees.
 - [x] Taxe de bienvenue 2026 - FAIT le 2026-09-19. Les deux calculateurs
       (taxe de bienvenue, frais de cloture) passent aux seuils 2026 (62 900 $
       et 315 000 $) et gagnent une option Laval: 3 % sur toute la portion
