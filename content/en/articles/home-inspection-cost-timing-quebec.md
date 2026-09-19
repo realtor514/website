@@ -1,6 +1,7 @@
 ---
 title: "Home Inspection in Quebec: What It Costs and When to Do It"
 date: 2026-07-15
+lastmod: 2026-09-19
 translationKey: "article-inspection-cout-moment"
 category: "Buyer's Guide"
 description: "Before the offer or after? Who pays? How much? Here are the answers to the questions Quebec buyers ask most about inspections, and the mistake that costs the most."
@@ -61,7 +62,7 @@ If you absolutely must submit without a condition, do it only if you were able t
 
 ## How to choose your inspector
 
-In Quebec the profession is not governed by a professional order the way architects or engineers are. Quality therefore varies a great deal.
+In Quebec the profession has no professional order the way architects or engineers do. Since October 1, 2024, the Régie du bâtiment du Québec (RBQ) has issued certificates to residential building inspectors on a voluntary basis; the certificate becomes mandatory on October 1, 2027. Until then quality varies a great deal: favour an RBQ-certified inspector who follows the BNQ 3009-500 standard.
 
 What to verify:
 

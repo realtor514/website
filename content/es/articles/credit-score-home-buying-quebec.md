@@ -2,7 +2,7 @@
 title: "Su historial de crédito bloquea en silencio la casa que quiere (y cómo arreglarlo)"
 date: 2026-05-17
 lastmod: 2026-08-31
-category: "Guía del comprador"
+category: "Guía del Comprador"
 description: "Los umbrales que usan de verdad los prestamistas, los cinco factores de su puntaje, lo que se corrige en 30 días y lo que toma años, y la trampa del expediente delgado, muy común en Quebec."
 image: "images/articles/credit-score-home-buying-quebec/featured.jpg"
 ---

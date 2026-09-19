@@ -1,6 +1,7 @@
 ---
 title: "Inspection préachat au Québec: combien ça coûte et quand la faire"
 date: 2026-07-15
+lastmod: 2026-09-19
 translationKey: "article-inspection-cout-moment"
 category: "Guide de l'acheteur"
 description: "Avant l'offre ou après? Qui paie? Combien? Voici les réponses aux questions que les acheteurs québécois posent le plus souvent au sujet de l'inspection, et l'erreur qui coûte le plus cher."
@@ -61,7 +62,7 @@ Si vous devez absolument déposer sans condition, faites-le seulement si vous av
 
 ## Comment choisir votre inspecteur
 
-Au Québec, la profession n'est pas encadrée par un ordre professionnel de la même façon que les architectes ou les ingénieurs. La qualité varie donc beaucoup.
+Au Québec, la profession n'a pas d'ordre professionnel comme les architectes ou les ingénieurs. Depuis le 1er octobre 2024, la Régie du bâtiment du Québec (RBQ) délivre un certificat aux inspecteurs en bâtiment résidentiel, sur une base volontaire; il deviendra obligatoire le 1er octobre 2027. D'ici là, la qualité varie beaucoup : privilégiez un inspecteur certifié par la RBQ qui suit la norme BNQ 3009-500.
 
 Ce qu'il faut vérifier:
 

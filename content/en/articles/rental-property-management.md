@@ -1,6 +1,7 @@
 ---
 title: "Managing Rental Properties in Montreal and Laval: What First-Time Landlords Need to Know"
 date: 2026-06-27
+lastmod: 2026-09-19
 category: "Investment"
 description: "Owning a rental property and managing one are two different skills. Here is what the operational reality looks like, what Quebec's landlord-tenant laws require, and how to set up for success."
 image: "images/articles/rental-property-management/featured.jpg"
@@ -30,7 +31,7 @@ That last step is underutilized. A two-minute call to a previous landlord asking
 
 All residential leases in Quebec use the mandatory standard lease form provided by the TAL. The lease cannot deviate from the mandatory terms in ways that disadvantage the tenant. Key provisions:
 
-**Automatic renewal:** Leases renew automatically at the end of the term unless the tenant provides notice to leave or the landlord provides notice within the legally required timeframe. For a 12-month lease, the landlord must give notice of non-renewal 6 months before the end date. Missing this window means the tenant has the right to renew.
+**Automatic renewal:** Leases renew automatically at the end of the term, and the tenant has the right to stay: a Quebec landlord cannot simply refuse to renew. To change the lease, for example the rent, the landlord sends a notice 3 to 6 months before the end of a 12-month lease. The landlord can end a lease only through a repossession or an eviction, under strict rules, or through a TAL decision.
 
 **Subletting and assignment:** Tenants have limited rights to sublet or assign their lease with landlord consent. Landlords can refuse but cannot refuse without reason.
 

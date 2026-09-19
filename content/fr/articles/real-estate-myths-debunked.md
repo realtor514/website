@@ -1,6 +1,7 @@
 ---
 title: "7 mythes immobiliers qui coûtent de l'argent aux acheteurs de Montréal"
 date: 2026-05-31
+lastmod: 2026-09-19
 category: "Immobilier 101"
 description: "Certains des conseils les plus répétés en immobilier sont faux. Voici ceux qui coûtent le plus aux acheteurs."
 image: "images/articles/real-estate-myths-debunked/featured.jpg"
@@ -21,7 +22,7 @@ L'inspection est une diligence raisonnable pour comprendre ce que vous achetez. 
 Le printemps a le plus d'activité. Pas automatiquement les meilleures conditions pour les acheteurs.
 
 **Mythe 5 : La construction neuve est toujours plus sûre que la revente**
-La garantie GCR fournit un recours. Ça n'est pas la même chose que la certitude.
+La garantie GCR, quand elle s'applique, fournit un recours, et elle ne couvre pas les condos des immeubles de plus de quatre unités superposées. Un recours n'est pas la même chose que la certitude.
 
 **Mythe 6 : Il faut 20 % de mise de fonds pour acheter**
 L'assurance SCHL permet aux acheteurs qualifiés d'acheter avec aussi peu que 5 %. Parfois c'est la meilleure décision financière.

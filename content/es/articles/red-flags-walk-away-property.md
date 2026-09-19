@@ -1,6 +1,7 @@
 ---
 title: "5 Señales de Alerta en una Propiedad que Significan: Retírese (Sin Importar Cuánto la Ame)"
 date: 2026-07-24
+lastmod: 2026-09-19
 category: "Guía del Comprador"
 description: "Enamorarse de una propiedad con problemas graves es una de las cosas más costosas que puede pasarle a un comprador. Aquí están las cinco situaciones en las que recomiendo retirarse, independientemente del precio."
 image: "images/articles/red-flags-walk-away-property/featured.jpg"
@@ -17,7 +18,7 @@ En una transacción estándar de bienes raíces en Quebec, usted tiene derecho a
 
 Puede que sepa lo que un inspector encontrará.
 
-Existen razones legítimas para que los vendedores prefieran condiciones de oferta sin inspección: ventas de herencia donde el albacea genuinamente no conoce la condición de la propiedad, o mercados altamente competitivos donde el vendedor tiene múltiples ofertas sin condición. Estas situaciones existen. Pero en esos casos, un vendedor razonable generalmente permitirá una inspección previa a la oferta realizada por el comprador a su propio costo.
+Existen razones legítimas para que los vendedores prefieran condiciones de oferta sin inspección: ventas de herencia donde el albacea genuinamente no conoce la condición de la propiedad, o mercados altamente competitivos donde el vendedor tiene múltiples ofertas sin condición. Estas situaciones existen. En esos casos, un vendedor de buena fe suele aceptar una inspección previa a la oferta a cargo del comprador, aunque nada lo obliga.
 
 Una negativa categórica a permitir cualquier evaluación profesional de la propiedad es una señal de alerta significativa que supera la mayoría de los precios atractivos.
 

@@ -1,6 +1,7 @@
 ---
 title: "5 signaux d'alarme qui signifient : partez, peu importe votre attachement"
 date: 2026-07-24
+lastmod: 2026-09-19
 category: "Guide de l'acheteur"
 description: "Tomber amoureux d'une propriété avec de sérieux problèmes est l'une des erreurs les plus coûteuses. Voici quand il faut partir."
 image: "images/articles/red-flags-walk-away-property/featured.jpg"
@@ -11,7 +12,7 @@ Il existe des situations spécifiques où la conclusion analytique est claire : 
 
 ## 1. Un vendeur qui refuse toute inspection
 
-Un refus catégorique d'inspection communique quelque chose d'important. Un vendeur raisonnable accepte au moins une inspection pré-offre réalisée par l'acheteur à ses frais.
+Un refus catégorique d'inspection communique quelque chose d'important. Le vendeur n'a aucune obligation de laisser entrer un inspecteur avant qu'une offre soit signée, mais celui qui refuse aussi toute condition d'inspection dans la promesse d'achat vous demande d'acheter à l'aveugle.
 
 ## 2. Des preuves d'infiltration d'eau dissimulées
 

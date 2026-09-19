@@ -1,6 +1,7 @@
 ---
 title: "7 Real Estate Myths That Cost Montreal Buyers Money"
 date: 2026-05-31
+lastmod: 2026-09-19
 category: "Real Estate 101"
 description: "Some of the most repeated advice in real estate is wrong, or was true in a different market, or applies to a different jurisdiction. Here are the ones that cost buyers the most."
 image: "images/articles/real-estate-myths-debunked/featured.jpg"
@@ -26,7 +27,7 @@ Spring has the most activity. More activity does not automatically mean better c
 
 ## Myth 5: "New construction is always safer than resale"
 
-New construction carries the GCR warranty, which is valuable. It does not carry the decades of operational history that allows a seasoned inspector to identify patterns and failure modes. New construction defects are real, they occur, and they are sometimes more difficult to identify during the first inspection because the building has not yet experienced a full weather cycle or the kind of use that reveals weaknesses.
+Most new houses and small condo buildings carry the GCR warranty, which is valuable, but condos in buildings with more than four superimposed units are outside the mandatory plan. It does not carry the decades of operational history that allows a seasoned inspector to identify patterns and failure modes. New construction defects are real, they occur, and they are sometimes more difficult to identify during the first inspection because the building has not yet experienced a full weather cycle or the kind of use that reveals weaknesses.
 
 The GCR warranty provides recourse. That is not the same as certainty.
 

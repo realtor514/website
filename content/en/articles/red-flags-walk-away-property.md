@@ -1,6 +1,7 @@
 ---
 title: "5 Property Red Flags That Mean Walk Away (No Matter How Much You Love It)"
 date: 2026-07-24
+lastmod: 2026-09-19
 category: "Buyer's Guide"
 description: "Falling in love with a property that has serious problems is one of the most expensive things that can happen to a buyer. Here are the five situations that warrant walking away, regardless of price."
 image: "images/articles/red-flags-walk-away-property/featured.jpg"
@@ -13,17 +14,17 @@ Here are the five that matter most.
 
 ## 1. A Seller Who Refuses Any Form of Inspection
 
-In a standard Quebec real estate transaction, you have the right to include an inspection condition in your offer. A seller who refuses any form of inspection - who won't allow a traditional inspection, won't permit a pre-offer inspection, and won't negotiate a reduction for waiving it - is communicating something important.
+In a standard Quebec real estate transaction, you have the right to include an inspection condition in your offer. A seller who refuses any form of inspection (no inspection condition in the offer, no pre-offer visit with an inspector, and no price reduction for waiving it) is communicating something important.
 
 They may know what an inspector will find.
 
-There are legitimate reasons for sellers to prefer offer conditions without inspection: estate sales where the executor genuinely doesn't know the property's condition, or highly competitive markets where the seller has multiple no-condition offers. These situations exist. But in those cases, a reasonable seller will usually permit a pre-offer inspection conducted by the buyer at their own expense.
+There are legitimate reasons for sellers to prefer offer conditions without inspection: estate sales where the executor genuinely doesn't know the property's condition, or highly competitive markets where the seller has multiple no-condition offers. These situations exist. In those cases, a seller acting in good faith will often agree to a pre-offer inspection at the buyer's expense, even though nothing obliges them to.
 
 A blanket refusal to allow any professional assessment of the property is a significant red flag that outweighs most attractive pricing.
 
 ## 2. Evidence of Water Infiltration That Has Been Concealed
 
-Water damage is the most expensive category of residential building repair. Foundation waterproofing, mold remediation, structural wood replacement - these costs can run into the tens of thousands, sometimes more.
+Water damage is the most expensive category of residential building repair. Foundation waterproofing, mold remediation, structural wood replacement: these costs can run into the tens of thousands, sometimes more.
 
 More concerning than current water damage is concealed water damage: fresh paint over a foundation wall that hides water staining, newly installed drywall in a basement that was recently flooded, strong odor masking products in a space that has a mold issue.
 
@@ -31,7 +32,7 @@ If an inspector identifies evidence of remediation work that wasn't disclosed, o
 
 ## 3. A Building With Active Legal Proceedings
 
-For condo purchases, review the last three years of board meeting minutes carefully. If the building has active litigation - whether against the developer, against a contractor for construction defects, between unit owners and the corporation, or other legal proceedings - that uncertainty is your problem the moment you take title.
+For condo purchases, review the last three years of board meeting minutes carefully. If the building has active litigation (against the developer, against a contractor for construction defects, between unit owners and the corporation, or any other legal proceeding), that uncertainty is your problem the moment you take title.
 
 Legal proceedings create financial uncertainty, potential assessment liability, and complications for future resale. A building involved in a major lawsuit is a building where your exit options are limited until the matter resolves.
 

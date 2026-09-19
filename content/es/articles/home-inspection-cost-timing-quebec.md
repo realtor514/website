@@ -1,6 +1,7 @@
 ---
 title: "Inspección previa a la compra en Quebec: cuánto cuesta y cuándo hacerla"
 date: 2026-07-15
+lastmod: 2026-09-19
 translationKey: "article-inspection-cout-moment"
 category: "Guía del Comprador"
 description: "¿Antes de la oferta o después? ¿Quién paga? ¿Cuánto? Aquí están las respuestas a las preguntas que más hacen los compradores en Quebec sobre la inspección, y el error que más caro cuesta."
@@ -61,7 +62,7 @@ Si debe presentar sin condición, hágalo solo si pudo inspeccionar antes de la 
 
 ## Cómo elegir a su inspector
 
-En Quebec, la profesión no está regulada por un colegio profesional como sucede con los arquitectos o los ingenieros. La calidad varía mucho.
+En Quebec, la profesión no tiene un colegio profesional como los arquitectos o los ingenieros. Desde el 1 de octubre de 2024, la Régie du bâtiment du Québec (RBQ) otorga un certificado a los inspectores de edificios residenciales de forma voluntaria; será obligatorio el 1 de octubre de 2027. Mientras tanto, la calidad varía mucho: prefiera un inspector certificado por la RBQ que siga la norma BNQ 3009-500.
 
 Lo que hay que verificar:
 

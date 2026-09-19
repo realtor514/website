@@ -1,8 +1,9 @@
 ---
 title: "Ce qu'il faut vraiment vérifier lors d'une inspection en bâtiment"
 date: 2026-06-25
+lastmod: 2026-09-19
 category: "Guide de l'acheteur"
-description: "La plupart des acheteurs suivent l'inspecteur et hochent la tête. Voici comment comprendre ce que vous voyez réellement - les problèmes qui comptent et les questions à poser."
+description: "La plupart des acheteurs suivent l'inspecteur et hochent la tête. Voici comment comprendre ce que vous voyez réellement : les problèmes qui comptent et les questions à poser."
 image: "images/articles/home-inspection-checklist-montreal/featured.jpg"
 ---
 
@@ -12,7 +13,7 @@ Rien de tout cela ne remplace un inspecteur certifié. Mais savoir quoi chercher
 
 ## Avant de commencer l'inspection
 
-Demandez les qualifications de votre inspecteur. Au Québec, il n'est pas obligatoire de détenir un titre professionnel, bien que beaucoup en aient un. Les membres de l'AIBQ suivent un code de pratique. Demandez s'ils détiennent une assurance erreurs et omissions.
+Demandez les qualifications de votre inspecteur. Au Québec, le certificat de la RBQ pour les inspecteurs préachat est volontaire depuis le 1er octobre 2024 et deviendra obligatoire le 1er octobre 2027 : demandez si le vôtre le détient. Les membres de l'AIBQ suivent un code de pratique. Demandez s'ils détiennent une assurance erreurs et omissions.
 
 Une inspection approfondie d'une maison unifamiliale standard prend 2,5 à 4 heures. Toute inspection nettement plus rapide doit soulever une question.
 

@@ -1,6 +1,7 @@
 ---
 title: "Gérer des propriétés locatives à Montréal et Laval : ce que les premiers propriétaires doivent savoir"
 date: 2026-06-27
+lastmod: 2026-09-19
 category: "Investissement"
 description: "Posséder un immeuble locatif et le gérer sont deux compétences différentes. Voici la réalité opérationnelle."
 image: "images/articles/rental-property-management/featured.jpg"
@@ -22,7 +23,7 @@ Un processus approfondi : vérification de crédit (avec consentement écrit), c
 
 ## Le bail québécois
 
-Tous les baux résidentiels utilisent le formulaire standard obligatoire du TAL. Points clés : les baux se renouvellent automatiquement sauf préavis dans les délais requis. Le propriétaire doit donner un préavis de 6 mois avant la fin d'un bail de 12 mois pour la non-reconduction.
+Tous les baux résidentiels utilisent le formulaire standard obligatoire du TAL. Points clés : le bail se reconduit automatiquement et le locataire a le droit de rester dans les lieux; le propriétaire ne peut pas simplement refuser de le renouveler. Pour modifier le bail, par exemple le loyer, il envoie un avis de 3 à 6 mois avant la fin d'un bail de 12 mois. Il ne peut y mettre fin que par une reprise de logement ou une éviction, selon des règles strictes, ou par une décision du TAL.
 
 ## Votre obligation d'entretien
 

@@ -1,6 +1,7 @@
 ---
 title: "Why a Triplex in Laval Is One of the Smartest Investments You Can Make Right Now"
 date: 2026-05-14
+lastmod: 2026-09-19
 translationKey: "article-triplex-laval"
 category: "Investment"
 description: "The numbers on a Laval triplex don't just work; they work better than most financial products available to the average investor. Here is how to analyze one correctly."
@@ -38,7 +39,7 @@ This is the calculation that the seller's listing sheet rarely shows you correct
 
 The triplex hits a sweet spot that few other property types can match.
 
-**Financing:** Up to 4 units qualifies for residential financing. You can put as little as 5% down if you occupy one of the units. That means the same financing terms as a personal home: better rates, better conditions, and access to CMHC insurance.
+**Financing:** Up to 4 units qualifies for residential financing. If you occupy one of the units, the minimum down payment is 10% for a triplex or fourplex (for a duplex: 5% on the first $500,000 and 10% on the rest), with mortgage loan insurance. Without owner occupancy, plan for 20%.
 
 **Living situation:** Many investors start by living in one unit, letting the other two pay the majority of the mortgage. In a typical Laval triplex, two tenants cover approximately 80% of total carrying costs. The owner-occupant lives almost for free while building equity.
 

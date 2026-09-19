@@ -1,9 +1,10 @@
 ---
 title: "Pourquoi un triplex à Laval est l'un des meilleurs investissements que vous puissiez faire"
 date: 2026-05-14
+lastmod: 2026-09-19
 translationKey: "article-triplex-laval"
 category: "Investissement"
-description: "Les chiffres d'un triplex à Laval ne fonctionnent pas juste - ils fonctionnent mieux que la plupart des produits financiers accessibles à l'investisseur moyen. Voici comment l'analyser correctement."
+description: "Les chiffres d'un triplex à Laval ne fonctionnent pas juste : ils fonctionnent mieux que la plupart des produits financiers accessibles à l'investisseur moyen. Voici comment l'analyser correctement."
 image: "images/articles/investir-triplex-laval-strategie/featured.jpg"
 ---
 
@@ -36,7 +37,7 @@ Dans la grande région de Montréal, un taux de capitalisation de 4% à 6% est r
 
 Le triplex atteint un équilibre que peu d'autres types de propriétés peuvent égaler.
 
-**Financement:** Jusqu'à 4 logements, vous avez accès au financement résidentiel. Vous pouvez mettre aussi peu que 5% si vous occupez une unité, ce qui signifie les mêmes conditions de financement qu'une résidence principale.
+**Financement:** Jusqu'à 4 logements, vous avez accès au financement résidentiel. Si vous occupez un des logements, la mise de fonds minimale est de 10 % pour un triplex ou un quadruplex (pour un duplex : 5 % sur les premiers 500 000 $ et 10 % sur le reste), avec assurance prêt hypothécaire. Sans occupation, prévoyez 20 %.
 
 **Situation d'habitation:** De nombreux investisseurs commencent par habiter une unité et laisser les deux autres payer la majorité de l'hypothèque. Dans un triplex lavallois typique, les deux locataires couvrent environ 80% des coûts totaux. Le propriétaire occupant se loge presque gratuitement tout en accumulant de l'équité.
 

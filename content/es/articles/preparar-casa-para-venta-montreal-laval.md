@@ -3,7 +3,7 @@ title: "Cómo preparar su casa para la venta en Montreal y Laval"
 date: 2026-05-10
 lastmod: 2026-08-31
 translationKey: "article-preparer-maison-vente"
-category: "Guía del vendedor"
+category: "Guía del Vendedor"
 description: "Los vendedores que preparan bien su propiedad venden más rápido y a mejor precio. Esto es exactamente qué hacer, y en qué no gastar inútilmente, antes de salir al mercado."
 image: "images/articles/preparer-maison-vente-montreal-laval/featured.jpg"
 ---
