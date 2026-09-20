@@ -1,62 +1,167 @@
 ---
-title: "What to Actually Look for During a Home Inspection"
+title: "The Home Inspection Checklist: What Gets Checked, Item by Item"
 date: 2026-06-25
-lastmod: 2026-09-19
+lastmod: 2026-09-20
 category: "Buyer's Guide"
-description: "Most buyers follow the inspector around and nod. Here's how to actually understand what you're seeing: the issues that matter, the ones that don't, and the questions to ask."
+description: "Roof, foundation, drain, plumbing, wiring, pyrite, vermiculite, lead, radon: what a Quebec inspector actually looks at, and what no inspection ever sees."
 image: "images/articles/home-inspection-checklist-montreal/featured.jpg"
 ---
 
-A trained eye reads a building differently than most buyers do. A plumbing configuration says a great deal about the era and budget of the builder. An electrical panel can be assessed in seconds. Foundation crack patterns that a hurried inspection would miss stand out.
+On inspection day, most buyers trail the inspector from room to room and nod.
+They leave with a report dozens of pages long and a single question: is this
+serious? Here is what a pre-purchase inspection covers in Greater Montreal, item
+by item, what it never covers, and the issues specific to our region. For price
+and timing, read [what an inspection costs and when to do
+it](/en/articles/home-inspection-cost-timing-quebec/).
 
-None of this replaces a qualified building inspector. But knowing what to look for alongside the inspector helps, and more importantly, it helps distinguish between the issues that are expensive problems and the ones that are just cosmetic noise.
+## What an inspection is, and what it is not
 
-## Before the Inspection Starts
+The law does not require you to hire an inspector, Educaloi notes. What you are
+buying is a visual, non destructive examination: the inspector does not open
+walls, lift floors or dismantle anything. Their role, Educaloi writes, is not to
+drill holes in a wall to check for mould.
 
-Ask your inspector for their qualifications upfront. In Quebec, the RBQ certificate for pre-purchase inspectors has been voluntary since October 1, 2024 and becomes mandatory on October 1, 2027: ask whether yours holds it. Members of AIBQ (Association des inspecteurs en bâtiments du Québec) follow a code of practice. Ask whether they carry errors and omissions insurance. A good inspector will answer these questions without hesitation.
+Anything buried is therefore out of reach: the foundation drain, the water and
+sewer lines, an old tank, the state of the soil. An inspection does not
+guarantee the absence of a defect, says nothing about zoning or value, and
+cannot see behind fresh finishes. That is why the Seller's Declarations matter,
+and why a [well prepared first
+visit](/en/articles/first-visit-property-checklist/) matters too.
 
-Expect a thorough inspection to take 2.5-4 hours for a standard single-family home. Anything significantly faster should raise a question.
+## The BNQ 3009-500 standard and the RBQ certificate
 
-## The Elements That Matter Most
+Since 2022, residential inspection in Quebec has had its own standard:
+BNQ 3009-500, Residential building, Inspection practices in a real estate
+transaction context. The Bureau de normalisation du Quebec wrote it at the
+request of the Regie du batiment du Quebec, the body the legislature put in
+charge of regulating building inspections. It sets out how to assess the
+condition of part or all of a residential building.
 
-**Foundation and basement**
+The regulation governing residential building inspectors came into force on
+October 1, 2024. Since then the RBQ has issued a certificate, but on a voluntary
+basis: a three year transition period is running, and the certificate becomes
+mandatory on October 1, 2027. New inspectors will need a college attestation in
+building inspection techniques; those already practising qualify by passing an
+upgrading course. Until then, ask the question plainly: do you hold the RBQ
+certificate, and do you work to BNQ 3009-500?
 
-Cracks in foundation walls are not all equal. Hairline cracks are common in poured concrete and often cosmetic. Step cracks in block foundations, horizontal cracks in any foundation material, or cracks wider than a few millimeters with signs of water infiltration or movement are serious.
+## The checklist, item by item
 
-Water in the basement is the issue that causes the most expensive repairs. Check for water staining, efflorescence (white mineral deposits on concrete), odors, and floor drains that haven't been used recently. Ask specifically: has water ever entered this basement?
+**Roof.** Curling, cracked or missing shingles, granule loss, moss, flashing
+around chimneys and dormers, attic ventilation. Ask for the year of the last
+reroofing and the invoice: the real age beats any average.
 
-**Electrical panel**
+**Structure and foundation.** Cracks are not all equal: the inspector records
+their shape, width and orientation, and above all any sign of movement or water
+entry. Beams, columns, slab and floors are checked too.
 
-Two panel brands have known issues that affect insurability in Quebec: Federal Pacific (Stab-Lok) and Zinsco. Both have documented failure rates in the breaker mechanisms. Homes with these panels often face difficulties obtaining insurance or require panel replacement as a condition of coverage.
+**Drainage and the foundation drain.** The ground should slope away from the
+house and downspouts should discharge well clear of the foundation. The drain
+itself is buried, so nobody sees it. Ask whether it has been camera inspected or
+replaced, and when. In Montreal, by-law 20-030 requires basement fixtures to be
+protected against sewer backflow: check for a backwater valve.
 
-Also look for: aluminum wiring in the main circuits (a fire risk issue in homes built in the 1960s-70s), fuses instead of breakers (original, should be updated), and capacity. A 100-amp service is typically sufficient for a modest home; larger homes or those with electric heat should have 200-amp service.
+**Plumbing and the water entry.** Pipe materials, pressure, drainage, leak marks
+under sinks and around the tub, water heater, main water entry and shutoff
+valve.
 
-**Plumbing**
+**Electrical.** Service entrance, panel, breakers or fuses, grounding, branch
+circuits, rust or heat marks, and the type of wiring.
 
-Identify what the pipes are made of. Lead pipes (dull gray, very soft) need replacement: they're a health issue and a condition of insurability in many municipalities. Galvanized steel pipes corrode from the inside over time and reduce water pressure. Copper and PVC are generally good. Polybutylene (PB) pipe, identifiable by its gray plastic appearance, has a known failure rate.
+**Heating and ventilation.** Energy source, the year stamped on the nameplate,
+documented servicing, ductwork, air exchanger, bathroom and kitchen ventilation.
 
-Also check: water heater age (typical lifespan 8-12 years for conventional tanks), signs of previous leaks around fixtures, and the condition of the water main entry point.
+**Insulation and attic.** Insulation type, apparent depth, vapour barrier, signs
+of condensation or mould under the roof deck.
 
-**Roof**
+**Windows.** Rotten frames, split caulking, fogging between the panes of a
+sealed unit, hardware that binds.
 
-Asphalt shingles have a typical lifespan of 20-25 years. Look for: curling or missing shingles, granule loss (shingles shed the protective granule coating as they age), moss growth, and flashing condition around chimneys and dormers. A roof approaching end of life isn't necessarily a dealbreaker (it's a negotiating point), but you need to know the cost and timeline.
+**Basement and moisture.** At the base of the walls: efflorescence, those powdery
+white deposits, staining, tide marks, smell. A cracked or heaved slab, a
+dehumidifier running non stop, a long dry floor drain: each deserves a question.
 
-**Heating system**
+**Exterior.** Cladding, balconies, stairs, guardrails, driveway, retaining
+walls, garage and the condition of the lot.
 
-Forced-air furnaces, hot water boilers, and electric baseboard systems all have different typical lifespans and maintenance requirements. Get the age of the system. A furnace more than 15-20 years old is approaching replacement. Ask for maintenance records.
+## The issues specific to Greater Montreal
 
-## The Issues That Sound Scary But Often Aren't
+**Pyrite and pyrrhotite.** Pyrite, found in some backfill stone under the slab,
+swells as it oxidizes, lifts the concrete and cracks foundations. The OACIQ
+lists 91 municipalities as risk zones where a known risk must be disclosed, and
+only an expert assessment under the CTQ-M200 protocol settles the matter.
+Pyrrhotite attacks the concrete itself, and documented cases cluster in the
+Mauricie region.
 
-- **Asbestos in floor tiles or vermiculite insulation:** Common in homes built before the mid-1980s. A problem only if disturbed. An environmental assessment can confirm the exact situation. Cost to address varies widely.
-- **Small cosmetic cracks in drywall:** Almost always settlement, not structural.
-- **Older windows:** Functional, just inefficient. The cost of replacement is real but not urgent.
+**Vermiculite.** The vermiculite mined at Libby, Montana, and sold largely under
+the Zonolite brand until 1990, can contain asbestos. Not all older vermiculite
+does, but Health Canada considers it reasonable to assume so. Left undisturbed
+it poses little risk: asbestos harms when its fibres get into the air you
+breathe. Never remove it yourself.
 
-## What Buyers Should Do in Competitive Markets
+**Lead paint.** Before 1960, paint could contain up to 50 per cent lead. From
+1960 to 1990, smaller amounts, mostly on exteriors. After 1990, virtually none.
+The danger is the dust: Health Canada advises against sanders, heat guns and
+blowtorches.
 
-If the market conditions require removing the inspection condition to compete, negotiate a pre-offer inspection instead, conducted before you submit your offer. This costs you the inspection fee ($500-$900) even if you don't buy the property, but it protects you from inheriting an expensive problem without warning.
+**A buried oil tank.** The Construction Code requires an out of service
+underground tank to be taken out of the ground, absent an attestation, and the
+owner must have the surrounding soil tested for contamination. An oil spill is
+also a common exclusion in home insurance policies.
 
-Never, under any circumstances, buy a property in Quebec without some form of professional inspection. The risk is not worth any deal.
+**Lead water service lines in Montreal.** Buildings of fewer than 8 units built
+before 1970 are the most likely to have one; the City publishes an address by
+address map. Replacing the private portion is now mandatory under by-law 20-030,
+within 24 months of the notice of non compliance, and financial help is
+available. Ask whether the work was done.
+
+**Radon.** The Canadian guideline is 200 becquerels per cubic metre. Health
+Canada recommends a long term detector placed for at least three months on the
+lowest lived-in level, through fall and winter: summer tests understate the
+annual level.
+
+**Iron ochre.** Iron, oxygen and certain soil bacteria form an orange gelatinous
+deposit that blocks the perforations of the drain. A clogged drain stops
+draining, and water builds up against the foundation. Its appearance cannot be
+prevented: only periodic maintenance limits the effects.
+
+**Aluminum wiring.** Installed mostly from the mid 1960s to the late 1970s. The
+problem is not the wire but the connections, which oxidize and loosen. An
+insurer may require a certificate of compliance from a master electrician.
+
+None of these eight subjects is part of a standard inspection. They are separate
+tests and assessments, and you have to ask for them.
+
+## What you do with the report
+
+The OACIQ promise to purchase is conditional on an inspection within a period,
+in days, written into the form. If the report reveals a factor likely to
+significantly reduce the value of the property or increase its expenses, you
+must notify the seller in writing and hand over a copy of the report, no later
+than the fourth day after that period expires, before 8 p.m. Outside that
+framework, the clause no longer protects you.
+
+Then comes the distinction that decides everything. The seller warrants latent
+defects, not apparent ones, meaning those a prudent and diligent buyer can spot
+without consulting an expert. A defect written in black and white in your report
+is no longer hidden: it is known. You negotiate it now, or you own it. If the
+findings are heavy, reread [the red flags that justify walking
+away](/en/articles/red-flags-walk-away-property/).
+
+## The questions to ask, and why you should be there
+
+Be there from start to finish: what the inspector says while pointing at
+something is often worth more than the written report.
+
+- Do you hold the RBQ certificate, and do you work to BNQ 3009-500?
+- Do you carry professional liability insurance, errors and omissions included?
+- What were you unable to see today, and why?
+- Of your findings, which are urgent and which are ordinary maintenance?
+- Which specialized test do you recommend here: pyrite, radon, asbestos, camera?
+- When will I get the written report, with photos?
 
 ---
 
-*Have questions about what you saw in an inspection report? [Get in touch](/en/form/) for help interpreting it.*
+*Holding an inspection report and unsure whether the problem is major or normal?
+[Send it to me](/en/form/) and I will tell you plainly what is worth
+renegotiating.*
