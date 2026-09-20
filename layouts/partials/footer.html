@@ -49,6 +49,10 @@
           <li><a href="{{ $base }}/about/" class="footer__link">{{ if $isFr }}À propos{{ else if $isAr }}من أنا{{ else if $isEs }}Sobre mí{{ else }}About{{ end }}</a></li>
           <li><a href="{{ site.Params.contactURL }}" class="footer__link">{{ if $isAr }}تواصل{{ else if $isEs }}Contacto{{ else }}Contact{{ end }}</a></li>
           <li><a href="{{ site.Params.privacyURL }}" class="footer__link">{{ if $isFr }}Confidentialité{{ else if $isAr }}الخصوصية{{ else if $isEs }}Privacidad{{ else }}Privacy{{ end }}</a></li>
+          {{/* Retirer son consentement doit etre aussi simple que de le donner. */}}
+          {{ if site.Params.ga4Id }}
+          <li><a href="{{ site.Params.privacyURL }}" class="footer__link" data-consent-manage>{{ if $isFr }}Gérer mes préférences{{ else if $isAr }}إدارة تفضيلاتي{{ else if $isEs }}Gestionar mis preferencias{{ else }}Manage my preferences{{ end }}</a></li>
+          {{ end }}
         </ul>
       </div>
 

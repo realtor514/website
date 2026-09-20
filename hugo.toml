@@ -748,6 +748,12 @@ disableKinds = ["taxonomy", "term"]
   address      = "2820, boul. Saint-Martin Est, bureau 201, Laval (Duvernay), Québec H7E 5A1"
   remaxProfile = "https://remaxducartier.com/fr/courtiers/georges-matar-140955"
 
+  # Identifiant de mesure Google Analytics 4, format G-XXXXXXXXXX.
+  # Tant qu il est vide, aucun script de mesure et aucune banniere de
+  # consentement ne sont emis. Ce n est pas un secret: il est visible dans la
+  # page chez tous les sites qui utilisent Analytics.
+  ga4Id        = ""
+
   # ── SEO / donnees structurees ──
   ogImage      = "images/georges-matar.png"
   phoneRaw     = "+14383720102"

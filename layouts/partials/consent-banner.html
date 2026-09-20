@@ -1,0 +1,70 @@
+{{/* Banniere de consentement, Loi 25.
+     Refuser est aussi facile qu accepter, les deux boutons ont le meme poids.
+     Le lien "Gerer mes preferences" du pied de page rouvre cette banniere,
+     ce qui permet de retirer son consentement aussi simplement. */}}
+{{ if .Site.Params.ga4Id }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $privacy := "/en/privacy/" }}
+{{ if $isFr }}{{ $privacy = "/confidentialite/" }}{{ else if $isAr }}{{ $privacy = "/ar/khsusiya/" }}{{ else if $isEs }}{{ $privacy = "/es/privacidad/" }}{{ end }}
+
+<div class="consent" id="gm-consent" role="dialog" aria-live="polite"
+     aria-label="{{ if $isFr }}Consentement aux témoins de mesure{{ else if $isAr }}الموافقة على ملفات تعريف الارتباط للقياس{{ else if $isEs }}Consentimiento de cookies de medición{{ else }}Measurement cookie consent{{ end }}" hidden>
+  <p class="consent__text">
+    {{ if $isFr }}
+      Ce site aimerait mesurer sa fréquentation avec Google Analytics, pour savoir quelles pages vous sont utiles. Aucune publicité, aucune revente de données. Vous pouvez refuser sans rien perdre du site.
+      <a href="{{ $privacy }}">Politique de confidentialité</a>
+    {{ else if $isAr }}
+      يودّ هذا الموقع قياس عدد زياراته عبر Google Analytics، لمعرفة الصفحات المفيدة لكم. لا إعلانات ولا بيع للبيانات. يمكنكم الرفض دون أن تفقدوا أي شيء من الموقع.
+      <a href="{{ $privacy }}">سياسة الخصوصية</a>
+    {{ else if $isEs }}
+      Este sitio desea medir sus visitas con Google Analytics, para saber qué páginas le resultan útiles. Sin publicidad y sin venta de datos. Puede rechazar sin perder nada del sitio.
+      <a href="{{ $privacy }}">Política de privacidad</a>
+    {{ else }}
+      This site would like to measure its traffic with Google Analytics, to learn which pages are useful to you. No advertising, no data resale. You can decline and lose nothing on the site.
+      <a href="{{ $privacy }}">Privacy policy</a>
+    {{ end }}
+  </p>
+  <div class="consent__actions">
+    <button type="button" class="consent__btn consent__btn--deny" id="gm-consent-deny">
+      {{ if $isFr }}Refuser{{ else if $isAr }}رفض{{ else if $isEs }}Rechazar{{ else }}Decline{{ end }}
+    </button>
+    <button type="button" class="consent__btn consent__btn--accept" id="gm-consent-accept">
+      {{ if $isFr }}Accepter{{ else if $isAr }}موافقة{{ else if $isEs }}Aceptar{{ else }}Accept{{ end }}
+    </button>
+  </div>
+</div>
+
+<script>
+(function () {
+  'use strict';
+  var box = document.getElementById('gm-consent');
+  if (!box || !window.gmConsent) return;
+
+  function open()  { box.hidden = false; }
+  function close() { box.hidden = true; }
+
+  if (!window.gmConsent.state()) open();
+
+  document.getElementById('gm-consent-accept').addEventListener('click', function () {
+    window.gmConsent.grant();
+    close();
+  });
+  document.getElementById('gm-consent-deny').addEventListener('click', function () {
+    window.gmConsent.deny();
+    close();
+  });
+
+  /* Le pied de page peut rouvrir la banniere pour changer d avis. */
+  var link = document.querySelector('[data-consent-manage]');
+  if (link) {
+    link.addEventListener('click', function (e) {
+      e.preventDefault();
+      window.gmConsent.reset();
+      open();
+    });
+  }
+})();
+</script>
+{{ end }}

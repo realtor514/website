@@ -27,6 +27,18 @@ Any question about the protection of your information can be sent to these coord
 
 **What the site does not do.** No user account, no payment, no advertising cookie placed by this site. No sensitive information is requested.
 
+## Cookies and audience measurement
+
+This site uses Google Analytics 4 to count its visits and learn which pages are actually read. That measurement is used to improve the content, never to target you with advertising.
+
+**Nothing is placed before you agree.** On your first visit, a bar asks whether you accept. Until you accept, no measurement cookie is placed and no data is sent to Google. Declining removes no feature from the site.
+
+**What the measurement sees.** The pages viewed, the length of the visit, the device type, the approximate city and the site that brought you here. Your IP address is processed by Google and is not kept as such in the reports. This measurement cannot identify you by name, and it is never matched with the information you write in a form.
+
+**Google Analytics is a service of Google LLC**, whose servers are located outside Quebec, notably in the United States.
+
+**Changing your mind.** The "Manage my preferences" link at the bottom of every page reopens the consent bar. You can accept, or decline, as often as you wish. Clearing your browser data also clears your choice.
+
 ## Why it is collected
 
 - To answer your request and follow up

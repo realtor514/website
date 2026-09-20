@@ -27,6 +27,18 @@ Toute question relative à la protection de vos renseignements peut être adress
 
 **Ce que le site ne fait pas.** Aucun compte utilisateur, aucun paiement, aucun cookie publicitaire déposé par ce site. Aucun renseignement sensible n'est demandé.
 
+## Témoins et mesure de fréquentation
+
+Ce site utilise Google Analytics 4 pour compter ses visites et savoir quelles pages sont réellement lues. Cette mesure sert à améliorer le contenu, jamais à vous cibler par de la publicité.
+
+**Rien n'est déposé avant votre accord.** À votre première visite, une bande vous demande si vous acceptez. Tant que vous n'avez pas accepté, aucun témoin de mesure n'est déposé et aucune donnée n'est transmise à Google. Refuser ne retire aucune fonction du site.
+
+**Ce que la mesure voit.** Les pages consultées, la durée de la visite, le type d'appareil, la ville approximative et le site qui vous a amené ici. Votre adresse IP est traitée par Google et n'est pas conservée telle quelle dans les rapports. Cette mesure ne permet pas de vous identifier nominativement, et elle n'est jamais rapprochée des renseignements que vous écrivez dans un formulaire.
+
+**Google Analytics est un service de Google LLC**, dont les serveurs sont situés à l'extérieur du Québec, notamment aux États-Unis.
+
+**Changer d'avis.** Le lien « Gérer mes préférences » au bas de chaque page rouvre la bande de consentement. Vous pouvez accepter, ou refuser, aussi souvent que vous le voulez. Effacer les données de votre navigateur efface aussi votre choix.
+
 ## Pourquoi ils sont recueillis
 
 - Répondre à votre demande et assurer le suivi

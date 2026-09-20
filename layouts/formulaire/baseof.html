@@ -63,6 +63,11 @@
 
 <script src="{{ "js/enhance.js" | relURL }}" defer></script>
 
+{{/* La page de formulaire est la page de conversion: elle doit etre mesuree
+     comme les autres, et porter la meme banniere de consentement. */}}
+{{ partial "analytics.html" . }}
+{{ partial "consent-banner.html" . }}
+
 {{ partial "ar-numerals.html" . }}
 </body>
 </html>

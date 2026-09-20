@@ -3091,6 +3091,49 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
   body { padding-bottom: 64px; }
 }
 
+/* ── Banniere de consentement, Loi 25 ── */
+.consent {
+  position: fixed;
+  left: 16px;
+  right: 16px;
+  bottom: 16px;
+  z-index: 1000;
+  max-width: 560px;
+  margin: 0 auto;
+  background: var(--navy);
+  color: rgba(255,255,255,.88);
+  border-radius: 14px;
+  padding: 20px 22px;
+  box-shadow: 0 14px 40px rgba(10,22,40,.4);
+  font-family: 'Inter', sans-serif;
+}
+.consent[hidden] { display: none; }
+.consent__text {
+  font-size: .9rem;
+  line-height: 1.6;
+  margin: 0 0 16px;
+}
+.consent__text a { color: var(--white); text-decoration: underline; text-underline-offset: 3px; }
+.consent__actions { display: flex; gap: 10px; }
+.consent__btn {
+  flex: 1 1 0;
+  padding: 11px 14px;
+  border-radius: 8px;
+  font-family: 'Inter', sans-serif;
+  font-size: .9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: filter .2s;
+}
+.consent__btn--accept { background: var(--blue); color: var(--white); border: 1px solid var(--blue); }
+.consent__btn--deny   { background: transparent; color: rgba(255,255,255,.88); border: 1px solid rgba(255,255,255,.4); }
+.consent__btn:hover { filter: brightness(1.12); }
+
+@media (max-width: 768px) {
+  /* Ne jamais recouvrir la barre d action collante. */
+  .consent { bottom: calc(72px + env(safe-area-inset-bottom, 0px)); }
+}
+
 /* ── Ajustements RTL ── */
 [dir="rtl"] .form-check { flex-direction: row-reverse; text-align: right; }
 [dir="rtl"] .intent-grid { direction: rtl; }

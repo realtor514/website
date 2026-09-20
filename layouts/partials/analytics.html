@@ -1,0 +1,40 @@
+{{/* Mesure d audience Google Analytics 4.
+     Rien n est charge tant que le visiteur n a pas accepte: la Loi 25 exige
+     un consentement prealable avant de deposer un temoin de suivi. Le choix
+     est garde dans le navigateur du visiteur, jamais sur le serveur.
+     Si `ga4Id` est vide dans hugo.toml, aucun script n est emis du tout. */}}
+{{ with .Site.Params.ga4Id }}
+<script>
+(function () {
+  'use strict';
+  var KEY = 'gm-consent-v1';
+  var ID  = {{ . | jsonify }};
+
+  function loadGA() {
+    if (window.__gmGaLoaded) return;
+    window.__gmGaLoaded = true;
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ID;
+    document.head.appendChild(s);
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { window.dataLayer.push(arguments); }
+    window.gtag = gtag;
+    gtag('js', new Date());
+    gtag('config', ID);
+  }
+
+  function read()   { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
+  function write(v) { try { localStorage.setItem(KEY, v); }    catch (e) {} }
+
+  window.gmConsent = {
+    state: read,
+    grant: function () { write('granted'); loadGA(); },
+    deny:  function () { write('denied'); },
+    reset: function () { try { localStorage.removeItem(KEY); } catch (e) {} }
+  };
+
+  if (read() === 'granted') loadGA();
+})();
+</script>
+{{ end }}

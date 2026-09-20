@@ -27,6 +27,18 @@ Cualquier pregunta relativa a la protección de sus datos puede dirigirse a esto
 
 **Lo que el sitio no hace.** Ninguna cuenta de usuario, ningún pago, ninguna cookie publicitaria colocada por este sitio. No se solicita ningún dato sensible.
 
+## Cookies y medición de audiencia
+
+Este sitio utiliza Google Analytics 4 para contar sus visitas y saber qué páginas se leen realmente. Esa medición sirve para mejorar el contenido, nunca para dirigirle publicidad.
+
+**Nada se coloca antes de su acuerdo.** En su primera visita, una franja le pregunta si acepta. Mientras no acepte, ninguna cookie de medición se coloca y ningún dato se envía a Google. Rechazar no le quita ninguna función del sitio.
+
+**Lo que la medición ve.** Las páginas consultadas, la duración de la visita, el tipo de dispositivo, la ciudad aproximada y el sitio que le trajo hasta aquí. Su dirección IP es tratada por Google y no se conserva como tal en los informes. Esta medición no permite identificarle por su nombre, y nunca se cruza con los datos que usted escribe en un formulario.
+
+**Google Analytics es un servicio de Google LLC**, cuyos servidores se encuentran fuera de Quebec, en particular en los Estados Unidos.
+
+**Cambiar de opinión.** El enlace «Gestionar mis preferencias» al pie de cada página reabre la franja de consentimiento. Puede aceptar, o rechazar, tantas veces como quiera. Borrar los datos de su navegador borra también su elección.
+
 ## Por qué se recogen
 
 - Responder a su solicitud y hacer el seguimiento
