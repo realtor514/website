@@ -1,53 +1,163 @@
 ---
 title: "How to Build a Real Estate Portfolio in Greater Montreal Starting From Zero"
 date: 2026-05-26
+lastmod: 2026-09-20
 category: "Investment"
-description: "Real estate wealth is not built through one brilliant transaction. It is built through a systematic approach to acquisition, financing, and management over time. Here is the framework that works."
+description: "Down payment by unit count, the stress test, refinancing at 80%, Quebec rent control and the tax rules: what it really takes to buy a second income property."
 image: "images/articles/build-real-estate-portfolio/featured.jpg"
 ---
 
-The question serious investors ask is not "which property to buy?" It is "how to build a portfolio that generates meaningful wealth over ten to twenty years?" Those are very different questions, and the second one is far more interesting.
+You buy the first building with your salary. You buy the second one with the
+rules. What makes a first plex accessible in Greater Montreal is exactly what
+disappears when you go looking for a second one.
 
-Here is the framework to use for long-term portfolio strategy.
+This article starts where [the first income property
+guide](/en/articles/income-property-beginners/) stops. General information
+only: check your case with a lender and an accountant.
 
-## Start With One Property Done Well
+## Why the first building is the easiest to finance
 
-The most common mistake new real estate investors make is trying to scale before they have mastered the fundamentals at the single-property level. Buying five mediocre properties generates five mediocre returns. Buying one excellent property, understanding it thoroughly, and learning from the experience of owning and managing it provides the foundation for every subsequent acquisition.
+CMHC insures the owner who lives in the building generously, and the absentee
+investor much less.
 
-For most buyers starting from zero, the first property is a principal residence with income potential: a duplex or triplex where you occupy one unit and rent the others. This structure combines primary residence financing terms (which are more favorable than investment property terms) with real income property experience. You learn tenant relations, maintenance management, rent collection, and local vacancy dynamics while living in the asset.
+| Situation | Minimum down payment | Insured loan up to |
+|---|---|---|
+| 1 or 2 units, you live there | 5% of the first $500,000, 10% on the rest | 95% |
+| 3 or 4 units, you live there | 10% | 90% |
+| 2 to 4 units, you do not live there | 20% | 80% |
 
-## The Financing Progression
+The first two rows require that you or a close relative occupy a unit, at a
+price under $1,500,000. The third is CMHC Income Property: price under
+$1,000,000, credit score of at least 600, and a 25-year amortization cap.
 
-As you build equity in your first property, you gain access to the tool that powers portfolio growth: leverage. The equity in your existing properties, accessed through refinancing or home equity lines, becomes the down payment source for subsequent acquisitions.
+So the same triplex asks 10% while you live in it and 20% the day you move out.
 
-This is the fundamental mechanism of real estate wealth building: one property's appreciation finances the next acquisition. Over a decade of disciplined execution, a single well-chosen property can generate enough equity to acquire additional assets without requiring proportional cash contributions.
+## The stress test and the lender you pick
 
-The key is maintaining adequate cash flow at each step. Negative cash flow properties can be justified in limited circumstances, but a portfolio built primarily on negative cash flow properties is a portfolio built on financial fragility.
+The rate you qualify at is not the rate you pay. The Office of the
+Superintendent of Financial Institutions (OSFI) requires federally regulated
+lenders to use a minimum qualifying rate: the greater of your contract rate
+plus 2%, or 5.25%. It still stands in 2026, and CMHC applies the same
+qualifying rate to Income Property. With insurance, you get tested either way.
 
-## Cash Flow vs. Appreciation: The Montreal Specific Answer
+Quebec's financial services cooperatives, on the other hand, answer to the
+Autorité des marchés financiers rather than OSFI. On an uninsured loan the
+federal rule does not bind them, and they apply their own underwriting
+standards. A refusal at a federal lender deserves a second reading elsewhere.
 
-In Greater Montreal, property values have historically appreciated meaningfully. This means investors face a genuine trade-off: some properties offer strong cash flow but modest appreciation prospects, while others offer excellent appreciation trajectories but thinner immediate returns.
+Add CMHC's ratios, 39% and 44% of gross income, and your [credit
+score](/en/articles/credit-score-home-buying-quebec/).
 
-The criterion to hold to is properties where the cash flow is at least neutral after all expenses (mortgage, taxes, insurance, maintenance reserve, vacancy allowance). A 5% vacancy rate should be modelled even in tight markets, because vacancy is certain to occur at some point, and models that assume full occupancy always are not models, they are optimism.
+## How a lender counts your rents
 
-If a property cash flows positively at a 5% vacancy rate, the appreciation is bonus. If it requires full occupancy to avoid negative cash flow, you are dependent on market conditions for basic financial sustainability.
+- **Owner-occupied duplex:** up to 100% of gross rents is added to your income.
+- **Owner-occupied triplex or fourplex:** 50% of gross rents, or the net rental
+  income method.
+- **Non-owner-occupied:** net rental income only, meaning gross rents minus
+  operating expenses.
 
-## The Sectors to Watch for Portfolio Building
+On the first building, owner-occupied, part of the rents makes you look richer.
+On the second, you start from net income and the first building's payment stays
+on your balance sheet. A plex with thin cash flow does not help you buy the
+next one, it blocks you. The [rental management
+guide](/en/articles/rental-property-management/) breaks those expenses down.
 
-In Greater Montreal, the property types and sectors that consistently meet these criteria:
+## Finding the down payment for the next one
 
-**Laval triplexes:** Strong rental demand, family-oriented neighborhoods with low vacancy, price points that still allow positive cash flow with reasonable financing terms.
+According to the Financial Consumer Agency of Canada, you may usually borrow up
+to 80% of your home's value, all mortgage debt combined, and no more than 65%
+through a home equity line of credit.
 
-**Montreal income plexes in established neighborhoods:** Plateau, Rosemont, Villeray, and adjacent areas have deep rental demand. The entry price is higher, but so is the quality of the tenant pool and the stability of the demand.
+- That ceiling holds no matter how much the property has appreciated. And since
+  a loan at 80% or less is not insured, you land back under OSFI's stress test.
+- Your equity is not your down payment: if a mortgage still sits at 60% of
+  value, you have 20 points left, not 40.
+- The line of credit costs you twice: in interest, and in a drawn balance that
+  counts in the next lender's ratios.
 
-**Rive-Nord income properties near transit:** Sainte-Therese and Blainville, for buyers with a longer horizon and more patience for thin initial cash flows that improve as rents normalize to market.
+Add the prepayment penalty, the appraisal, the notary and the [welcome
+tax](/en/tools/welcome-tax/). Test the whole thing with the [mortgage
+calculator](/en/tools/mortgage/) and the [affordability
+calculator](/en/tools/affordability/).
 
-## The Discipline That Separates Successful Portfolio Builders
+## Amortization, premium and real cost
 
-Every investor who builds meaningful real estate wealth over time shares one characteristic: they run the numbers before every decision, and they walk away from properties where the numbers don't work, regardless of how much they like the property.
+An insured loan is capped at 25 years of amortization. Since December 15, 2024,
+Ottawa allows 30 years for first-time buyers and for buyers of newly built
+homes. On a non-owner-occupied building, it is 25 years.
 
-Emotional attachment to a specific asset is the enemy of portfolio performance. The portfolio mindset treats each property as a financial instrument, not a personal project.
+On premiums, CMHC charges an owner-occupant 2.40% up to 80% of value, 2.80% to
+85%, 3.10% to 90% and 4.00% to 95%. More than 25 years of amortization adds
+0.20%. On a non-owner-occupied building: 1.45% up to 65%, 2.00% to 75%, 2.90%
+to 80%.
+
+The premium is added to the loan, but the 9% Quebec tax on it is paid in cash
+at the notary, and Revenu Québec has confirmed it rises to 9.975% for premiums
+paid after December 31, 2026. See [the 20% down payment
+myth](/en/articles/down-payment-myth-debunked/).
+
+## Rents are not an adjustment lever
+
+The most expensive mistake is buying on the assumption that you will raise
+rents to market. You are not the one who decides.
+
+Since January 1, 2026, the Tribunal administratif du logement applies a
+simplified rent-setting method to modification notices given from that date.
+The base is the three-year average of Quebec's consumer price index, 3.1%
+between April 2, 2026 and April 1, 2027. Added to it: the share of tax and
+insurance increases above that base, and major work, recovered at 5% a year.
+The TAL publishes its [calculation
+tool](https://www.tal.gouv.qc.ca/en/calculation-for-rent-increase).
+
+**The moratorium.** Until June 6, 2027, no tenant may be evicted for
+subdivision, substantial enlargement or a change of use.
+
+**Repossession.** It covers you, your parents, your children or a relative you
+support, with notice at least 6 months before the end of a 12-month lease. A
+tenant aged 65 or over, in place for 10 years and whose income does not exceed
+125% of the low-rental housing threshold, is protected, with exceptions. In
+undivided co-ownership with a third party, repossession is in principle
+impossible.
+
+A portfolio is built on the rents in place today, not on the ones you hope to
+charge tomorrow.
+
+## Taxes on the second building
+
+Rents are reported federally on form T776 and in Quebec on form TP-128.
+
+**Current or capital.** Repairing a step is deducted the same year. Replacing
+the staircase is a capital expense: it is added to the building's cost and
+deducted slowly. The CRA publishes the criteria.
+
+**Capital cost allowance.** A rental building is Class 1 property, depreciable
+at 4% a year. The deduction is optional, applies to the building and not the
+land, and cannot create or increase a rental loss. On resale, the CCA you
+claimed can be recaptured into your income.
+
+**Personally or through a corporation?** For the CRA, a business whose
+principal purpose is deriving income from property, rents for instance, is a
+specified investment business: its income does not qualify for the small
+business deduction unless the corporation employs more than five full-time
+employees all year. No automatic tax shortcut, then, but an accountant's call.
+
+## The risks a portfolio amplifies
+
+- **Vacancy.** In its 2025 Rental Market Report, CMHC measured a 2.9% vacancy
+  rate for purpose-built rental apartments in the Montreal area.
+- **A tenant who stops paying.** A TAL case takes time, and the mortgage
+  payment goes out anyway.
+- **Major work.** Roof, windows, plumbing: these arrive in blocks and are only
+  recovered at 5% a year.
+- **Municipal taxes.** A new assessment roll can push the bill up. See
+  [property taxes in Montreal and
+  Laval](/en/articles/property-tax-explained/).
+
+The more buildings you own, the more these events overlap. A cash reserve is
+what keeps you an owner.
 
 ---
 
-*Want to map out a portfolio strategy that fits your capital position and goals? [Let's start with a conversation](/en/form/).*
+*You own one building and want to know what the second would really take?
+[Write to me](/en/form/): we look at your leases, your equity and your ratios
+before you shop.*
