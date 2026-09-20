@@ -325,8 +325,12 @@ Etat verifie dans le depot le 2026-08-31.
       agent, cote de credit. Les quatre autres etaient deja solides, il leur
       manquait l espagnol, qui a ete ajoute. Mediane FR passee de 294 a
       environ 360 mots, articles FR de plus de 800 mots passes de 12 a 21.
-- [ ] Etoffer le reste des articles courts: il reste environ 30 articles FR
-      sous 400 mots et 32 articles AR sous 400 mots. Le francais et l arabe
+- [ ] Etoffer le reste des articles courts. Inventaire exact du 2026-09-20,
+      hors les 3 articles en cours de reecriture ce jour la: 19 articles FR
+      sous 400 mots, 32 AR, 6 EN, 0 ES. L arabe est donc le pire des quatre,
+      et c est la langue ou la concurrence est la plus faible. Verifie le
+      meme jour: les 63 groupes d articles sont apparies correctement entre
+      FR, EN et AR, aucun hreflang ne manque. Le francais et l arabe
       sont des resumes de la version anglaise, ce qui est a l envers pour le
       marche vise. Deux lots faits le 2026-09-19 dans les 4 langues, espagnol
       cree: heritage, divorce, aines, notaire, puis construction neuve,
@@ -335,9 +339,11 @@ Etat verifie dans le depot le 2026-08-31.
       chiffres sans source: triplex a Laval (taux de capitalisation, rendements,
       vacance), liste d inspection a Montreal (duree de vie des bardeaux,
       panneaux electriques), gestion locative.
-- [ ] Completer l espagnol: 34 articles manquants sur 63 groupes. Les sujets
-      les plus commerciaux sont maintenant couverts, il reste le contenu
-      secondaire.
+- [ ] Completer l espagnol: 34 groupes sur 63 n ont pas de version ES au
+      2026-09-20, dont 3 sont en cours (retournement de proprietes, liste de
+      demenagement, portefeuille immobilier), donc 31 apres ce lot. Les
+      sujets les plus commerciaux sont couverts, il reste le contenu
+      secondaire. Les 29 articles ES existants font tous plus de 400 mots.
 - [x] Programmes premiers acheteurs mis a jour le 2026-09-19, 4 langues: RAP
       a 60 000 $ (au lieu de 35 000 $) dans 11 fichiers; taxe sur la prime
       SCHL a 9 % en 2026, 9,975 % a partir du 1er janvier 2027 (et ce n est pas
