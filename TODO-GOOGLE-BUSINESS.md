@@ -325,8 +325,14 @@ Etat verifie dans le depot le 2026-08-31.
       agent, cote de credit. Les quatre autres etaient deja solides, il leur
       manquait l espagnol, qui a ete ajoute. Mediane FR passee de 294 a
       environ 360 mots, articles FR de plus de 800 mots passes de 12 a 21.
-- [ ] Etoffer le reste des articles courts. Inventaire corrige du 2026-09-20:
-      26 articles FR sous 400 mots, 33 AR, 9 EN, 0 ES. ATTENTION a la methode
+- [ ] DECISION: refaire `condo-fees-investment-killer`, 414 mots, titre "le
+      tueur silencieux des rendements immobiliers". Dernier article du meme
+      genre que le triplex: scenario d ouverture presente comme reel, hausse
+      de frais de 5 % par an sans source, seuils de fonds de prevoyance de
+      70 % et 50 % qui ne viennent d aucun texte. En attente de l accord.
+- [ ] Etoffer le reste des articles courts. Inventaire du 2026-09-20 apres le
+      lot du jour: 24 articles FR sous 400 mots, 31 AR, 9 EN, 0 ES.
+      ATTENTION a la methode
       de comptage: `wc -w` sous Git Bash compte mal l arabe, il a annonce 335
       mots pour un article qui en fait 1 131. Compter avec Python, en retirant
       le frontmatter et le balisage des liens, jamais avec `wc`. Verifie le
@@ -342,10 +348,32 @@ Etat verifie dans le depot le 2026-08-31.
       chiffres sans source: triplex a Laval (taux de capitalisation, rendements,
       vacance), liste d inspection a Montreal (duree de vie des bardeaux,
       panneaux electriques), gestion locative.
-- [ ] Completer l espagnol: 31 groupes sur 63 n ont pas de version ES apres le
-      lot du 2026-09-20. Les sujets les plus commerciaux sont couverts, il
-      reste le contenu secondaire. Les 32 articles ES existants font tous plus
-      de 400 mots, et un seul est sous 700.
+- [ ] Completer l espagnol: 28 groupes sur 63 n ont pas de version ES apres
+      les deux lots du 2026-09-20. Les sujets les plus commerciaux sont
+      couverts, il reste le contenu secondaire. Les 35 articles ES existants
+      font tous plus de 400 mots, et un seul est sous 700.
+- [x] Deuxieme lot du 2026-09-20, les 3 articles qui portaient des chiffres
+      sans source, dans les 4 langues avec l espagnol cree: triplex a Laval
+      (commit 420f9ab), liste d inspection (c2c48d3), gestion locative
+      (924f819). Les trois contenaient des erreurs exposant le courtier:
+      - triplex: 14 promesses de rendement retirees, dont un rendement total
+        de 8 a 12 % par an, un actif de 1 M$ a 65 ans, et un recit
+        d ouverture a la premiere personne affirmant qu un achat de 2022
+        avait ete "l une des meilleures decisions financieres possibles". Le
+        titre lui-meme etait une promesse et a ete change dans les 4 langues,
+        sans toucher a l adresse de la page.
+      - inspection: durees de vie de materiaux inventees, et deux marques de
+        panneaux electriques nommement accusees de bloquer l assurabilite au
+        Quebec, sans aucune source.
+      - gestion locative: la regle du revenu egal a 3 fois le loyer, contraire
+        aux interdits de la Commission des droits de la personne, et la
+        methode de fixation du TAL perimee depuis le 1er janvier 2026.
+      Verifie aussi le meme jour: les 61 autres articles FR ont ete passes au
+      crible pour les promesses de rendement, et seul
+      `condo-fees-investment-killer` ressort.
+      Correction de doctrine: la Loi sur le courtage immobilier, article 2,
+      DISPENSE de permis l intermediaire d un mandat de location remunere.
+      Ne pas reecrire l inverse.
 - [x] Lot du 2026-09-20, les 3 articles les plus minces, dans les 4 langues
       avec l espagnol cree: retournement de proprietes (commit 34088b7),
       portefeuille immobilier (cfd9f39), liste de demenagement (49475f2).
