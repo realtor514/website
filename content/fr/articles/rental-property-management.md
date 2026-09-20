@@ -1,34 +1,170 @@
 ---
 title: "Gérer des propriétés locatives à Montréal et Laval : ce que les premiers propriétaires doivent savoir"
 date: 2026-06-27
-lastmod: 2026-09-19
+lastmod: 2026-09-20
 category: "Investissement"
-description: "Posséder un immeuble locatif et le gérer sont deux compétences différentes. Voici la réalité opérationnelle."
+description: "Section G, sélection du locataire, dépôt interdit, avis d'augmentation, reprise, éviction, non-paiement et fiscalité : le droit exact du propriétaire."
 image: "images/articles/rental-property-management/featured.jpg"
 ---
 
-Acheter un immeuble à revenus est une décision. Le gérer est une pratique. Les deux nécessitent des compétences différentes.
+Acheter un immeuble à revenus est une décision. Le gérer est une pratique
+encadrée par la loi, article par article. Au Québec, la plupart des règles du
+bail résidentiel sont d’ordre public : ni votre bail ni une entente verbale ne
+peuvent y déroger au détriment du locataire.
 
-## Fixer le loyer : équilibrer le marché et la réalité légale
+Cet article suppose l’immeuble acheté. Le [guide du premier immeuble à
+revenus](/articles/income-property-beginners/) couvre l’achat, et [bâtir un
+portefeuille](/articles/build-real-estate-portfolio/) le financement du
+suivant. Information générale : validez votre cas avec un juriste et un
+comptable.
 
-Quand vous acquérez un immeuble occupé au Québec, vous héritez des baux et niveaux de loyers existants. Les lois québécoises limitent les augmentations permissibles lors du renouvellement du bail. Le TAL publie des lignes directrices annuelles.
+## Le bail du Tribunal et la fameuse section G
 
-Cela signifie que si vous achetez une propriété dont les unités sont significativement sous le loyer du marché, vous ne pouvez pas augmenter immédiatement au marché. La normalisation se fait graduellement sur plusieurs années.
+Tout bail de logement se conclut sur le formulaire obligatoire du Tribunal
+administratif du logement (TAL). Sa section G n’est pas une formalité : le
+locateur doit y déclarer le loyer le plus bas payé au cours des 12 mois
+précédant le début du bail, ou le loyer fixé par le Tribunal pendant cette
+période. Si aucun loyer n’a été payé, il indique le dernier et sa date.
 
-## Sélection des locataires : la décision la plus importante
+Les recours du nouveau locataire :
 
-Au Québec, vous pouvez demander des références de crédit, une vérification d'emploi et des références des propriétaires précédents. Vous ne pouvez pas discriminer.
+- **Avis absent ou incomplet :** fixation du loyer dans les 2 mois du début du
+  bail.
+- **Loyer supérieur au montant déclaré :** fixation dans les 10 jours de la
+  conclusion du bail.
+- **Fausse déclaration :** 2 mois à compter du moment où il en prend
+  connaissance.
 
-Un processus approfondi : vérification de crédit (avec consentement écrit), confirmation d'emploi et revenu (le revenu devrait être au moins 3 fois le loyer mensuel), et un appel de référence au propriétaire précédent.
+Le TAL peut aussi accorder des dommages-intérêts punitifs quand l’avis a été
+sciemment omis ou faussé. Donc : exigez les baux **et** les sections G avant votre
+promesse d’achat. Un loyer gonflé peut être ramené des mois plus tard.
 
-## Le bail québécois
+## Choisir un locataire sans enfreindre la Charte
 
-Tous les baux résidentiels utilisent le formulaire standard obligatoire du TAL. Points clés : le bail se reconduit automatiquement et le locataire a le droit de rester dans les lieux; le propriétaire ne peut pas simplement refuser de le renouveler. Pour modifier le bail, par exemple le loyer, il envoie un avis de 3 à 6 mois avant la fin d'un bail de 12 mois. Il ne peut y mettre fin que par une reprise de logement ou une éviction, selon des règles strictes, ou par une décision du TAL.
+La Charte des droits et libertés de la personne interdit de refuser un logement
+pour l’un de ces motifs : race, couleur, sexe, identité ou expression de genre,
+grossesse, orientation sexuelle, état civil, âge sauf dans la mesure prévue par
+la loi, religion, convictions politiques, langue, origine ethnique ou
+nationale, condition sociale, handicap ou utilisation d’un moyen pour pallier
+ce handicap.
 
-## Votre obligation d'entretien
+La Commission des droits de la personne et des droits de la jeunesse admet la
+vérification de la capacité de payer : preuve de paiement régulier d’un loyer
+antérieur, enquête de crédit avec consentement.
 
-Les propriétaires québécois sont légalement tenus de maintenir les unités locatives en bon état. Un locataire qui notifie par écrit une réparation requise sans réponse dans un délai raisonnable a des recours légaux.
+Vous ne pouvez pas exiger le numéro d’assurance sociale, d’assurance maladie,
+de passeport ou de permis de conduire, ni les relevés bancaires, les T4, les
+talons de paie ou les coordonnées de l’employeur. Ni le nombre d’occupants, ni
+l’âge et le sexe des enfants. La règle du revenu égal à trois fois le loyer ne
+repose sur aucun texte.
+
+## Le dépôt de garantie est interdit
+
+Le Code civil est sans ambiguïté : le locateur ne peut exiger d’avance que le
+premier terme de loyer, jamais plus d’un mois. Aucune autre somme, sous forme
+de dépôt ou autrement, ni chèques postdatés. Un « dépôt de dommages » ou un
+« dernier mois » réclamé à la signature est illégal. Votre protection, c’est la
+sélection, l’état des lieux écrit et photographié, et le Tribunal.
+
+## Modifier le bail et augmenter le loyer
+
+Pour changer une condition du bail, le loyer compris, l’avis écrit suit une
+fenêtre précise.
+
+| Type de bail | Délai de l’avis |
+|---|---|
+| 12 mois ou plus | entre 3 et 6 mois avant la fin du bail |
+| Moins de 12 mois | entre 1 et 2 mois avant la fin du bail |
+| Durée indéterminée | entre 1 et 2 mois avant la modification |
+| Chambre | entre 10 et 20 jours avant la fin du bail |
+
+Le locataire a **un mois** depuis la réception pour répondre. Son silence
+vaut acceptation. S’il refuse, c’est au locateur de saisir le TAL dans le mois
+suivant le refus, faute de quoi le bail se reconduit au loyer actuel.
+
+Depuis le 1er janvier 2026, une méthode de fixation simplifiée s’applique aux
+avis donnés à compter de cette date. La base est la moyenne de l’indice des
+prix à la consommation du Québec sur trois ans, soit 3,1 % pour les loyers
+débutant entre le 2 avril 2026 et le 1er avril 2027. S’y ajoutent la part des
+hausses de taxes et d’assurance qui dépasse cette base, et les travaux majeurs,
+récupérés à 5 % par année. Le TAL publie son [outil de
+calcul](https://www.tal.gouv.qc.ca/fr/calcul-pour-l-augmentation-de-loyer). Vos
+[taxes foncières](/articles/property-tax-explained/) comptent donc, mais pour
+leur excédent seulement.
+
+## Vous ne pouvez pas refuser de renouveler un bail
+
+Le locataire a droit au maintien dans les lieux et le bail se reconduit de
+plein droit, aux mêmes conditions, s’il n’y a pas d’avis de modification. Le
+locateur n’a pas de droit de non-reconduction. Il a trois portes de sortie.
+
+**La reprise de logement.** Pour vous, vos parents, vos enfants ou un proche
+que vous soutenez, avec un avis d’au moins 6 mois avant la fin d’un bail de 12
+mois. Le locataire répond dans le mois; son silence vaut refus et vous devez
+saisir le TAL dans le mois suivant. Le Tribunal peut imposer une indemnité
+couvrant les frais de déménagement. Un locataire de 65 ans ou plus, sur place
+depuis 10 ans et dont le revenu ne dépasse pas 125 % du seuil d’un logement à
+loyer modique, est protégé, sauf exceptions.
+
+**L’éviction.** Trois travaux seulement : subdivision, agrandissement
+substantiel, changement d’affectation. Avis de 6 mois avant la fin d’un bail de
+plus de 6 mois. L’indemnité a beaucoup augmenté : frais de déménagement
+raisonnables, plus un mois de loyer par année de bail ininterrompu, sans
+dépasser 24 mois ni descendre sous 3 mois.
+
+**Le moratoire.** Jusqu’au 6 juin 2027, aucun locataire ne peut être évincé
+pour ces trois motifs, sauf exceptions. La reprise demeure possible. Un plan
+fondé sur la transformation d’un [triplex](/articles/triplex-vs-condo-montreal/)
+en grandes unités est gelé.
+
+## Le non-paiement du loyer
+
+Un retard de plus de trois semaines ouvre la porte à une demande de résiliation
+du bail et d’expulsion devant le TAL, avec le loyer dû, les intérêts et les
+frais. Des retards fréquents peuvent aussi suffire, si vous démontrez un
+préjudice sérieux. Mais si le locataire paie le tout avant que la décision soit
+rendue, l’expulsion ne peut plus être exécutée.
+
+## Réparations, accès et travaux
+
+Vous devez maintenir le logement habitable. Pour une réparation urgente et
+nécessaire, fuite importante, panne de chauffage en hiver, escalier qui cède,
+serrure brisée, vous pouvez entrer sans préavis. Mais si le locataire ne vous
+joint pas malgré des tentatives documentées, il peut faire exécuter les travaux
+et en retenir le coût sur les loyers à venir, pièces à l’appui.
+
+Hors urgence : préavis de 24 heures pour vérifier l’état du logement ou le
+faire visiter, entre 9 h et 21 h. Pour des travaux majeurs, avis écrit d’au
+moins 10 jours, exécution entre 7 h et 19 h.
+
+Cession de bail et sous-location : vous avez 15 jours pour répondre, et votre
+silence vaut consentement. Une sous-location ne se refuse que pour un motif
+sérieux; une cession peut l’être sans motif, mais le bail est alors résilié à
+la date prévue dans l’avis.
+
+## Vos dossiers et vos déclarations
+
+Les loyers se déclarent au fédéral sur le T776 et au Québec sur le TP-128, un
+formulaire par immeuble. Distinguez les dépenses courantes, déductibles l’année
+même, des dépenses en capital, qui s’ajoutent au coût du bâtiment. Revenu
+Québec exige les pièces originales : sans elles, une déduction peut être
+refusée.
+
+## Confier la gestion à un tiers
+
+L’inverse se dit souvent, à tort. Le contrat par lequel un
+propriétaire charge quelqu’un d’être son intermédiaire pour louer son immeuble
+est bien un contrat de courtage au sens de la Loi sur le courtage immobilier,
+dès qu’il y a rétribution. Mais la loi ajoute que cet intermédiaire **n’est pas
+tenu** de détenir un permis de courtier ou d’agence, même si un permis peut lui
+être délivré à sa demande.
+
+Le gestionnaire qui vous trouve un locataire n’est donc pas forcément encadré.
+Un titulaire de permis, lui, relève de l’OACIQ, des formulaires obligatoires et
+du Fonds d’indemnisation.
 
 ---
 
-*Des questions sur la réalité opérationnelle de la propriété locative ? [Parlons de ce que vous devriez attendre avant d'acheter](/formulaire/).*
+*Vous héritez de baux, pas seulement de murs.
+[Écrivez-moi](/formulaire/) : on lit les baux, les sections G et les avis en
+cours avant votre offre.*

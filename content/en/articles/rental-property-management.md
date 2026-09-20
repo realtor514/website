@@ -1,56 +1,166 @@
 ---
 title: "Managing Rental Properties in Montreal and Laval: What First-Time Landlords Need to Know"
 date: 2026-06-27
-lastmod: 2026-09-19
+lastmod: 2026-09-20
 category: "Investment"
-description: "Owning a rental property and managing one are two different skills. Here is what the operational reality looks like, what Quebec's landlord-tenant laws require, and how to set up for success."
+description: "Section G, tenant screening, the banned security deposit, rent increases, repossession, eviction and taxes: what Quebec law actually lets a landlord do."
 image: "images/articles/rental-property-management/featured.jpg"
 ---
 
-Buying an income property is a decision. Managing it is a practice. The two require different skills, and buyers who prepare only for the purchase and not for the management phase often find themselves surprised by the operational demands of being a landlord.
+Buying an income property is a decision. Managing one is a practice governed by
+statute, article by article. In Quebec most residential lease rules are of
+public order: neither your lease nor a verbal side agreement can depart from
+them to the tenant's disadvantage.
 
-Here is a practical overview of what rental property management looks like in Quebec.
+This article assumes the building is bought. The [first income property
+guide](/en/articles/income-property-beginners/) covers the purchase, and
+[building a portfolio](/en/articles/build-real-estate-portfolio/) covers
+financing the next one. General information only: check your case with a legal
+adviser and an accountant.
 
-## Setting the Rent: Balancing Market Rate and Legal Reality
+## The Tribunal's lease and the famous Section G
 
-When you acquire an occupied income property in Quebec, you inherit the existing leases and rent levels. Quebec's rental laws limit what increases are permissible when a tenant renews their lease. The Tribunal administratif du logement (TAL) publishes annual guidelines that define reasonable rent increases based on factors including municipal tax changes, maintenance costs, and general cost indices.
+Every residential lease in Quebec is signed on the mandatory form of the
+Tribunal administratif du logement (TAL). Section G is not a formality. The
+landlord must declare the lowest rent paid during the 12 months preceding the
+start of the lease, or the rent fixed by the Tribunal during that period. If no
+rent was paid, the landlord states the last rent paid and its date.
 
-This means that if you purchase a property where units are significantly below market rent, you cannot immediately increase to market. The catch-up happens gradually, over multiple years, and is constrained by the TAL guidelines and the tenant's right to contest any increase they consider unreasonable.
+The new tenant's remedies:
 
-Before buying a rental property, calculate the current actual rents, the gap to market, and a realistic timeline for normalization. The income in year one is not the income in year five, and the difference matters for your investment analysis.
+- **Notice missing or incomplete:** application to fix the rent within 2 months
+  of the start of the lease.
+- **Rent higher than the amount declared:** application within 10 days of
+  entering into the lease.
+- **False statement:** 2 months from becoming aware of it.
 
-## Tenant Selection: The Most Important Decision You Make
+The TAL can also award punitive damages where the notice was knowingly omitted
+or falsified. So ask for the leases **and** the Section G entries before your
+promise to purchase. An inflated rent can be rolled back months later.
 
-The quality of your tenant relationship starts with the selection process. In Quebec, the rental application process allows you to ask for credit references, employment verification, and previous landlord references. You cannot discriminate based on grounds protected by the Quebec Charter of Human Rights and Freedoms.
+## Screening a tenant without breaching the Charter
 
-A thorough screening process: credit check (with the applicant's written consent), confirmation of employment and income (income should typically be at least three times the monthly rent), and a reference call to the previous landlord.
+The Charter of Human Rights and Freedoms forbids refusing housing on any of
+these grounds: race, colour, sex, gender identity or expression, pregnancy,
+sexual orientation, civil status, age except as provided by law, religion,
+political convictions, language, ethnic or national origin, social condition,
+and a handicap or the use of any means to palliate a handicap.
 
-That last step is underutilized. A two-minute call to a previous landlord asking "Would you rent to this tenant again?" tells you more than any document.
+The Commission des droits de la personne et des droits de la jeunesse accepts
+that you verify ability to pay: proof of regular payment of a previous rent,
+and a credit check with consent.
 
-## The Quebec Lease: What You Need to Know
+You may not require a social insurance number, health insurance number,
+passport number or driver's licence number, nor bank statements, T4 slips, pay
+stubs or the employer's contact details. Nor the number of occupants, nor the
+age and sex of the children. The rule that income must be three times the rent
+circulates widely but rests on no text.
 
-All residential leases in Quebec use the mandatory standard lease form provided by the TAL. The lease cannot deviate from the mandatory terms in ways that disadvantage the tenant. Key provisions:
+## The security deposit is illegal
 
-**Automatic renewal:** Leases renew automatically at the end of the term, and the tenant has the right to stay: a Quebec landlord cannot simply refuse to renew. To change the lease, for example the rent, the landlord sends a notice 3 to 6 months before the end of a 12-month lease. The landlord can end a lease only through a repossession or an eviction, under strict rules, or through a TAL decision.
+The Civil Code is unambiguous: a landlord may demand in advance only the first
+term of rent, and never more than one month. No other sum, whether as a deposit
+or otherwise, and no post-dated cheques. A "damage deposit" or a "last month"
+collected at signing is illegal. Your protection is your screening, a written
+and photographed condition report, and the Tribunal.
 
-**Subletting and assignment:** Tenants have limited rights to sublet or assign their lease with landlord consent. Landlords can refuse but cannot refuse without reason.
+## Changing the lease and raising the rent
 
-**Repossession:** A landlord can repossess a unit for personal occupancy or for an immediate family member, but only with proper notice and following specific procedures. The tenant has the right to contest a repossession.
+To change any lease condition, rent included, the written notice must fall in a
+precise window.
 
-## Maintenance: Your Obligation as Landlord
+| Type of lease | Notice window |
+|---|---|
+| 12 months or more | 3 to 6 months before the end of the lease |
+| Less than 12 months | 1 to 2 months before the end of the lease |
+| Indeterminate term | 1 to 2 months before the change |
+| Room | 10 to 20 days before the end of the lease |
 
-Quebec landlords are legally required to maintain rental units in good condition and carry out necessary repairs. A tenant who notifies you in writing of a required repair and does not receive attention within a reasonable time has legal remedies including rent withholding in specific circumstances.
+The tenant has **one month** from receipt to answer. Silence counts as
+acceptance. If the tenant refuses, it falls to the landlord to apply to the TAL
+within the month following the refusal, failing which the lease renews at the
+current rent.
 
-The practical approach: be responsive. A landlord who responds to maintenance requests quickly and professionally builds a good relationship with tenants, which pays dividends in lease renewals and property care.
+Since January 1, 2026, a simplified rent-setting method applies to notices
+given from that date. The base is the three-year average of Quebec's consumer
+price index, 3.1% for rents beginning between April 2, 2026 and April 1, 2027.
+Added to it: the share of tax and insurance increases above that base, and
+major work, recovered at 5% a year. The TAL publishes its [calculation
+tool](https://www.tal.gouv.qc.ca/en/calculation-for-rent-increase). Your
+[property taxes](/en/articles/property-tax-explained/) therefore count, but
+only for the excess.
 
-Budget 1% of the building's value per year for maintenance. Do not skip this reserve. The year the furnace fails, the roof needs patching, and a bathroom has a leak simultaneously is the year you will be grateful for it.
+## You cannot refuse to renew a lease
 
-## When to Use a Property Manager
+The tenant has the right to maintain occupancy, and the lease renews by
+operation of law on the same terms if no notice of modification is given. A
+landlord has no right of non-renewal. There are three ways out, and no fourth.
 
-Self-managing a single duplex or triplex is manageable for most landlords, particularly if you occupy a unit. Self-managing larger portfolios, or managing from a distance, becomes more difficult.
+**Repossession.** For you, your parents, your children or a relative you
+support, with notice at least 6 months before the end of a 12-month lease. The
+tenant answers within the month; silence counts as a refusal, and you must then
+apply to the TAL within the following month. The Tribunal may impose an
+indemnity covering moving expenses. A tenant aged 65 or over, in place for 10
+years and whose income does not exceed 125% of the low-rental housing
+threshold, is protected, with exceptions.
 
-Professional property management companies in Greater Montreal typically charge 5-10% of gross rents to handle tenant communication, maintenance coordination, rent collection, and legal compliance. The cost is real, but so is the time savings. For investors who buy income property as a passive investment rather than an active one, professional management is worth considering.
+**Eviction.** Three kinds of work only: subdivision, substantial enlargement,
+change of use. Notice 6 months before the end of a lease longer than 6 months.
+The indemnity rose sharply: reasonable moving expenses, plus one month's rent
+per year of uninterrupted lease, capped at 24 months and never under 3 months.
+
+**The moratorium.** Until June 6, 2027, no tenant may be evicted on those three
+grounds, with exceptions. Repossession remains possible. A plan built on
+carving a [triplex](/en/articles/triplex-vs-condo-montreal/) into larger units
+is therefore frozen.
+
+## Non-payment of rent
+
+Rent more than three weeks late opens the door to an application at the TAL to
+terminate the lease and evict, together with the rent owed, interest and costs.
+Frequent late payments can also suffice if you show serious prejudice. But if
+the tenant pays everything before the decision is rendered, the eviction can no
+longer be carried out.
+
+## Repairs, access and work
+
+You must keep the dwelling habitable. For an urgent and necessary repair, a
+serious leak, no heat in winter, a failing staircase, a broken lock, you may
+enter without notice. But if the tenant cannot reach you despite documented
+attempts, the tenant may have the work done and withhold the cost from upcoming
+rent, receipts in hand.
+
+Outside emergencies: 24 hours' notice to verify the condition of the dwelling
+or to show it, between 9 a.m. and 9 p.m. For major work, written notice at
+least 10 days ahead, carried out between 7 a.m. and 7 p.m.
+
+On assignment and subletting, you have 15 days to answer, and your silence
+counts as consent. A sublet may be refused only for a serious reason; an
+assignment may be refused without one, but the lease is then terminated on the
+date set out in the notice.
+
+## Your records and your returns
+
+Rents are reported federally on form T776 and in Quebec on form TP-128, one
+form per building. Separate current expenses, deductible in the same year, from
+capital expenses, which are added to the cost of the building. Revenu Québec
+requires the original supporting documents: without them a deduction can be
+denied.
+
+## Handing management to a third party
+
+The opposite is often said, wrongly. A contract by which an owner engages
+someone as intermediary to lease the building is indeed a real estate brokerage
+contract under the Real Estate Brokerage Act, as soon as there is remuneration.
+But the Act adds that this intermediary **is not required** to hold a broker or
+agency licence, even though one may be issued on request.
+
+So the manager who finds your tenant is not necessarily regulated. A licence
+holder, by contrast, answers to the OACIQ, the mandatory forms and the
+indemnity fund.
 
 ---
 
-*Questions about the operational realities of income property ownership? [Let's talk through what you should expect before you buy](/en/form/).*
+*You inherit leases, not just walls. [Write to me](/en/form/): we read the
+leases, the Section G entries and any pending notices before you make an
+offer.*
