@@ -325,12 +325,15 @@ Etat verifie dans le depot le 2026-08-31.
       agent, cote de credit. Les quatre autres etaient deja solides, il leur
       manquait l espagnol, qui a ete ajoute. Mediane FR passee de 294 a
       environ 360 mots, articles FR de plus de 800 mots passes de 12 a 21.
-- [ ] Etoffer le reste des articles courts. Inventaire exact du 2026-09-20,
-      hors les 3 articles en cours de reecriture ce jour la: 19 articles FR
-      sous 400 mots, 32 AR, 6 EN, 0 ES. L arabe est donc le pire des quatre,
-      et c est la langue ou la concurrence est la plus faible. Verifie le
+- [ ] Etoffer le reste des articles courts. Inventaire corrige du 2026-09-20:
+      26 articles FR sous 400 mots, 33 AR, 9 EN, 0 ES. ATTENTION a la methode
+      de comptage: `wc -w` sous Git Bash compte mal l arabe, il a annonce 335
+      mots pour un article qui en fait 1 131. Compter avec Python, en retirant
+      le frontmatter et le balisage des liens, jamais avec `wc`. Verifie le
       meme jour: les 63 groupes d articles sont apparies correctement entre
-      FR, EN et AR, aucun hreflang ne manque. Le francais et l arabe
+      FR, EN et AR, aucun hreflang ne manque.
+      L arabe est le pire des quatre, et c est la langue ou la concurrence est
+      la plus faible: c est donc la priorite. Le francais et l arabe
       sont des resumes de la version anglaise, ce qui est a l envers pour le
       marche vise. Deux lots faits le 2026-09-19 dans les 4 langues, espagnol
       cree: heritage, divorce, aines, notaire, puis construction neuve,
