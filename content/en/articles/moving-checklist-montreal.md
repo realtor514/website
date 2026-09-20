@@ -1,69 +1,157 @@
 ---
-title: "The Complete Moving Checklist for Montreal and Laval Buyers"
+title: "Moving in Montreal or Laval: The Complete Checklist, Deadline by Deadline"
 date: 2026-06-04
+lastmod: 2026-09-20
 category: "Practical Guide"
-description: "Between possession date and moving day, there are dozens of tasks that can get lost. This is the complete checklist to work through after an offer is accepted."
+description: "Lease notices, lease assignment, address changes, Hydro-Quebec, truck permits and ecocentres: the Greater Montreal moving checklist, deadline by deadline."
 image: "images/articles/moving-checklist-montreal/featured.jpg"
 ---
 
-Getting the keys is a milestone, not an endpoint. The period between offer acceptance and your first night in a new property involves more administrative and logistical steps than most buyers anticipate. Here is the complete list, organized by timeline.
+A move in Quebec is not just about boxes. It is a sequence of notices, legal
+deadlines and accounts to transfer, most of it planned months ahead. Here is the
+checklist I hand my clients, organized by deadline, with every rule verified
+against the Tribunal administratif du logement, the Quebec government,
+Hydro-Quebec, Montreal and Laval.
 
-## Immediately After Offer Acceptance
+## Why everything revolves around July 1
 
-**Notify your current landlord if renting.** Most Quebec leases require 3 months written notice to terminate. If your closing is 60 days away and you have not given notice, calculate immediately whether you will need to pay rent during any overlap period.
+Most residential leases in Quebec end on June 30. That is what makes July 1 the
+day thousands of households change address at the same time: movers, rental
+trucks and parking space are all scarce in the same week. Book your mover as
+soon as the possession date is confirmed, not when the boxes are packed. And if
+the date is negotiable, avoid the last week of June entirely.
 
-**Book your mortgage broker for final approval steps.** Your pre-approval becomes a full approval when tied to a specific property. Provide your broker with the signed accepted offer immediately. Do not make any major financial changes (new debt, job change, large purchases) between now and closing.
+## Eight weeks out: the legal notices
 
-**Book your building inspector.** If your offer includes an inspection condition, schedule immediately. Good inspectors are in demand. You typically have a short window to complete the inspection and decide whether to proceed.
+**If you are leaving a rented apartment**, this is where everything is decided.
+A tenant who does not renew a lease must send the landlord a written notice,
+within the delays set by law.
 
-**Engage your notary.** If you have chosen your notary, contact them immediately with the accepted offer. They need time to begin the title search.
+| Type of lease | Notice period |
+|---|---|
+| Fixed term of 12 months or more | 3 to 6 months before the lease ends |
+| Fixed term under 12 months | 1 to 2 months before the lease ends |
+| Indeterminate term | Same as the rent payment term, maximum 3 months |
+| Room | 10 to 20 days before the lease ends |
 
-## Four to Six Weeks Before Closing
+A July 1 to June 30 lease therefore has to be ended between January 1 and
+March 31. If you receive a rent increase notice, you have one month from
+receiving it to answer that you are leaving. Keep proof of delivery.
 
-**Arrange home insurance.** Your mortgage lender will require proof of insurance before releasing funds. Contact insurers early, especially if the property has any characteristics that affect insurability (older electrical, oil heating, heritage status).
+**If you are leaving mid lease**, assigning the lease is the cleanest route. You
+send the landlord a written notice with the assignee's name, address and the
+intended assignment date. The landlord has 15 days to answer; no answer means
+consent. A refusal for serious grounds keeps the lease alive; any other refusal
+terminates it on the assignment date you named. The assignment must be free: you
+cannot charge the assignee anything, though the landlord may ask to be
+reimbursed for reasonable costs such as a credit check.
 
-**Book a moving company.** Quality movers book out significantly in advance. July 1 (Quebec's traditional moving day) is essentially unavailable for booking if you wait until May. Book as early as your closing date is confirmed.
+Same month: book the mover and confirm your
+[notary](/en/articles/quebec-notary-process/).
 
-**Transfer or set up utilities.** Confirm the possession date and contact Hydro-Quebec and your internet provider to schedule service transfer or setup.
+## Four weeks out: addresses and accounts
 
-**Start the Canada Post mail forward.** The Canada Post address change service forwards mail from your old address. Allow two weeks minimum for it to take effect.
+**The Quebec change of address service** sends your new address in one step to
+seven departments and bodies: the CNESST, Elections Quebec, the ministere de
+l'Emploi et de la Solidarite sociale, the RAMQ, Retraite Quebec, Revenu Quebec
+and the SAAQ.
 
-## Two Weeks Before Closing
+What it does not cover: the Commission de la construction du Quebec, the
+Curateur public, Epargne Placements Quebec, student financial assistance, which
+must be told within 30 days, the Quebec Parental Insurance Plan, crime victim
+compensation, and hunting and trapping certificates. Ottawa is not covered
+either: the Canada Revenue Agency and Service Canada are separate, as are your
+bank, your employer and your insurers. The SAAQ gives you 30 days to report the
+new address, and failing to do so can bring a fine.
 
-**Update your address with CRA (Canada Revenue Agency).** Critical for tax documents, benefit payments, and government correspondence.
+**Hydro-Quebec.** The address change is free in your Customer Space; by phone it
+costs 25 $ plus taxes. Do it as soon as the date is known. You pick the
+switchover date yourself, and Hydro-Quebec can email you a reminder about a week
+before the move.
 
-**Update your address with Service Canada and Retraite Quebec.** If you receive any federal or provincial benefits or contributions.
+**Internet and TV.** The installation appointment is what fails, especially the
+week of July 1. Ask for the switch one or two days before possession, not on the
+day itself.
 
-**Notify your bank and all financial institutions.** Credit cards, investment accounts, pension plans.
+**Canada Post.** Mail forwarding redirects your mail to the new address for 4 or
+12 months, up to a maximum of 12 months. It is a safety net, not an address
+change.
 
-**Notify your employer's HR department.** Payroll records, T4s, benefits correspondence.
+**Home insurance.** Your lender requires proof of insurance before releasing
+funds, and the policy has to take effect the day the deed of sale is signed. The
+notary checks that the building is insured against fire and other risks, that
+the mortgage creditor is named on the policy and that it carries the standard
+mortgage clause. Get it the day before to avoid a postponed signing.
 
-**Update your Quebec driver's license and vehicle registration.** SAAQ requires address updates within 30 days of moving in Quebec.
+## Two weeks out: school, truck, bulky waste
 
-**Notify your insurance companies.** Auto insurance, life insurance, and any other policies.
+**School.** If your child changes schools, register at the school service centre
+covering the new address. Mid year, first confirm with that centre that a spot
+is available, then notify the old one. If the child stays at the same school, a
+change of address notice is enough. Kindergarten registration at 4 or 5 usually
+runs from January to March. The school sector also affects resale value:
+see [what it does to prices](/en/articles/school-districts-property-values/).
 
-**Contact your children's current and new schools.** If applicable, begin the transfer or enrollment process as early as possible.
+**Parking the truck in Montreal.** Each borough issues its own temporary public
+domain occupancy permit. It is free in some, Ville-Marie for instance, and
+chargeable in others: from 43 $ in Lachine, 51 $ before taxes in Cote-des-Neiges
+and Notre-Dame-de-Grace, 60 $ in Le Plateau-Mont-Royal. Issuing takes 24 hours
+to 5 business days. If the street has parking meters, bagging them and the lost
+revenue are billed separately, and no parking signs must be rented and installed
+12 to 14 hours ahead. **In Laval**, request a sticker if your new street is
+reserved for residents, and check the truck route map: several streets are
+closed to heavy vehicles.
 
-## The Week of Closing
+**Bulky waste.** In Montreal, ecocentres accept up to 12 m3 of construction
+debris and upholstered bulky items free each year, then 31 $ per cubic metre,
+with a maximum of 15 visits. Bring proof of residence: a tax bill, a home
+insurance certificate or a recent utility bill. Asbestos and household garbage
+are refused. In Laval, the ecocentre is free for residents on proof of
+residence, and some bulky items are picked up on your sector's collection
+calendar.
 
-**Confirm the final closing details with your notary.** Verify the exact closing time, the total amount you need to bring (bank draft or wire transfer), and what you need to bring for identification.
+## The week of the move
 
-**Do a pre-closing walk-through if possible.** Before signing at the notary, view the property one more time to confirm its condition matches what was agreed in the purchase contract. Verify inclusions are present, no damage has occurred, and the property is in the condition represented.
+Re read the contract and confirm the time with the mover. Unplug the fridge.
+Photograph your important furniture: if something is broken or lost, the proof
+is far easier to make. Confirm with the notary the signing time and the
+exact amount you have to bring.
 
-**Arrange the certified bank draft or wire transfer.** Your notary will tell you the exact amount required (down payment plus closing costs minus any deposits already paid). This typically needs to be in your notary's trust account the day of or before closing.
+## Possession day
 
-## Closing Day
+- Read the electricity and gas meters, and photograph them.
+- Count the keys, garage remotes, access cards and the mailbox key.
+- Check every inclusion in the promise to purchase: appliances, light fixtures,
+  blinds, heat pump.
+- Make sure nothing was left behind, in the basement or the garage, and report
+  any discrepancy to your broker and notary the same day.
+- Locate the main water shutoff, the electrical panel and the gas valve.
+- Never be alone: the Office de la protection du consommateur recommends a
+  witness.
+- Change the locks in the days that follow.
 
-Bring two pieces of government-issued identification to the notary. Expect to spend 60-90 minutes reviewing and signing documents. Ask the notary to explain anything you do not understand.
+## Budget and the mover's contract
 
-## After You Move In
+Moving rates are not regulated: they vary with volume, floor, elevator access
+and above all the date. What protects you is the contract. The Office de la
+protection du consommateur recommends a written estimate, two or three quotes to
+compare, and civil liability coverage of at least one million dollars on the
+mover's side. The contract has to name the
+pickup and delivery addresses, the planned date and time, the agreed price or
+hourly rate, and the total amount payable.
 
-**Change the locks.** The sellers handed over all keys they had, but you do not know who else may have had a copy over the years.
+For a deal made by phone or online, the written contract must be given to you
+within 15 days, and there is no 10 day cancellation window. Avoid large
+deposits, and be wary of a mover who demands cash with no contract: with no
+paperwork and no payment trail, an inflated price on arrival or a broken piece
+of furniture becomes almost impossible to contest. A mover cannot charge more
+than the price written in the contract.
 
-**Locate the main water shutoff valve, the electrical panel, and the gas shutoff.** Know where they are before you need them urgently.
-
-**Save all purchase documentation.** The deed of sale, the inspection report, any seller disclosures, and warranty documentation for appliances or systems. You will need these for future transactions and potentially for tax purposes.
+See also [the ownership costs people
+forget](/en/articles/hidden-homeownership-costs/) and the [closing cost
+calculator](/en/tools/closing-costs/).
 
 ---
 
-*Questions at any stage of your purchase? [Get in touch](/en/form/) at any point in the process, not just during the search.*
+*Planning a purchase in Montreal or Laval and want the possession date to fit
+the rest? [Write to me](/en/form/) and we will build the timeline together.*
