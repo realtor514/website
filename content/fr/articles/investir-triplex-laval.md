@@ -1,97 +1,171 @@
 ---
-title: "Pourquoi un triplex à Laval est l'un des meilleurs investissements que vous puissiez faire"
+title: "Acheter un triplex à Laval : ce qu'il faut vérifier avant de faire une offre"
 date: 2026-05-14
-lastmod: 2026-09-19
+lastmod: 2026-09-20
 translationKey: "article-triplex-laval"
 category: "Investissement"
-description: "Les chiffres d'un triplex à Laval ne fonctionnent pas juste : ils fonctionnent mieux que la plupart des produits financiers accessibles à l'investisseur moyen. Voici comment l'analyser correctement."
+description: "Mise de fonds, calcul des loyers par le prêteur, taxes et droits de mutation à Laval, encadrement du TAL, zonage : la liste de vérification avant l'offre."
 image: "images/articles/investir-triplex-laval-strategie/featured.jpg"
 ---
 
-Acheter un triplex à Laval en 2022 s'est révélé, deux ans plus tard, l'une des meilleures décisions financières possibles. Pas parce que le marché était parfait, pas parce que tout s'est passé exactement comme prévu, mais parce que les fondamentaux de l'investissement étaient solides.
+Un triplex ne s'achète pas comme une maison. Le prix affiché ne dit rien du
+revenu réel, les loyers en place ne se corrigent pas à volonté, et la Ville a
+son mot à dire sur le nombre de logements que vous croyez acheter.
 
-Cet article explique ces fondamentaux. Si vous envisagez votre premier immeuble à revenus, voici le cadre d'analyse à utiliser.
+Voici ce qu'il faut vérifier avant de faire une offre sur un trois logements à
+Laval. Information générale : validez votre dossier avec un prêteur et un
+notaire. Si c'est votre premier immeuble, commencez par le [guide de l'immeuble
+à revenus](/articles/income-property-beginners/).
 
-## Le calcul que la plupart des investisseurs sautent
+## La mise de fonds dépend d'une seule question : y habiterez-vous ?
 
-Avant tout, parlons du chiffre qui compte vraiment: le **revenu net opérationnel** (RNO).
+C'est le point de bascule du dossier, et il ne dépend ni du prix ni du secteur.
 
-La plupart des gens qui regardent un immeuble à revenus calculent le revenu brut, ce que toutes les unités produiraient si elles étaient entièrement occupées. Ce chiffre est presque sans signification sans contexte.
+| Situation | Mise de fonds minimale | Plafond de prix |
+|---|---|---|
+| 3 ou 4 logements, vous occupez un logement | 10 % | sous 1 500 000 $ |
+| 2 à 4 logements, vous n'occupez pas | 20 % | sous 1 000 000 $ |
 
-Le vrai calcul:
+La première ligne, c'est le produit Achat de la SCHL. La deuxième, son produit
+Immeuble de rapport : cote de crédit d'au moins 600 pour un emprunteur,
+amortissement maximal de 25 ans.
 
-**Revenu annuel brut**
-- moins les taxes municipales et scolaires
-- moins les assurances
-- moins l'entretien et les réparations (prévoyez toujours 10 à 15% de plus que votre estimation)
-- moins la gestion immobilière (même si vous gérez vous-même, incluez ce poste)
-- moins la provision pour vacance (3 à 5%)
+Le même triplex demande donc 10 % pendant que vous y habitez et 20 % le jour où
+vous déménagez. Sous 20 %, le prêt est assuré : la prime s'ajoute au montant
+emprunté, mais la taxe québécoise qui la frappe se paie comptant chez le
+notaire. Voyez [le mythe de la mise de fonds de 20
+%](/articles/down-payment-myth-debunked/).
 
-= **Revenu net opérationnel (RNO)**
+## Comment un prêteur compte les loyers d'un trois logements
 
-Ensuite: **RNO ÷ prix d'achat = taux de capitalisation (cap rate)**
+C'est la mauvaise surprise la plus fréquente. Sur un duplex occupé par son
+propriétaire, la SCHL permet d'ajouter à votre revenu jusqu'à 100 % des loyers
+bruts. Dès le troisième logement, deux méthodes seulement : jusqu'à 50 % des
+loyers bruts, ou le revenu net de location, soit les loyers moins les dépenses
+d'exploitation.
 
-Dans la grande région de Montréal, un taux de capitalisation de 4% à 6% est réaliste pour un plex bien évalué. En dessous de 3%, vous pariez entièrement sur l'appréciation. Au-dessus de 7%, quelque chose ne va pas: découvrez quoi avant d'aller plus loin.
+S'y ajoutent les ratios de la SCHL, 39 % des revenus bruts pour les frais de
+logement et 44 % pour l'ensemble des dettes, et un taux de qualification qui
+est le plus élevé du taux de votre contrat plus 2 % ou de 5,25 %. Testez votre
+scénario avec le [calculateur hypothécaire](/tools/mortgage/) et celui de
+[capacité d'emprunt](/tools/affordability/) avant de visiter.
 
-## Pourquoi un triplex spécifiquement
+## Les taxes : municipales, scolaires, et celle de l'acte de vente
 
-Le triplex atteint un équilibre que peu d'autres types de propriétés peuvent égaler.
+**Le compte de taxes municipales.** Exigez le vrai compte, pas une estimation
+de la fiche descriptive. Dans le régime d'impôt foncier à taux variés, un
+triplex reste dans la catégorie résiduelle, celle des immeubles résidentiels de
+cinq logements ou moins, et non dans celle des immeubles de six logements ou
+plus, souvent taxée plus cher. Vérifiez aussi la valeur portée au rôle
+d'évaluation en vigueur : c'est elle, et non le prix payé, qui sert à calculer
+la taxe. Rôle et compte de taxes se consultent sur le site de la Ville de
+Laval.
 
-**Financement:** Jusqu'à 4 logements, vous avez accès au financement résidentiel. Si vous occupez un des logements, la mise de fonds minimale est de 10 % pour un triplex ou un quadruplex (pour un duplex : 5 % sur les premiers 500 000 $ et 10 % sur le reste), avec assurance prêt hypothécaire. Sans occupation, prévoyez 20 %.
+**La taxe scolaire.** Taux unique provincial : 0,07899 $ par tranche de 100 $
+d'évaluation ajustée pour 2026-2027, avec exemption de base sur les premiers
+25 000 $. Facture distincte, modeste à côté de la municipale, mais elle existe.
 
-**Situation d'habitation:** De nombreux investisseurs commencent par habiter une unité et laisser les deux autres payer la majorité de l'hypothèque. Dans un triplex lavallois typique, les deux locataires couvrent environ 80% des coûts totaux. Le propriétaire occupant se loge presque gratuitement tout en accumulant de l'équité.
+**Les droits de mutation.** Depuis le budget 2026, Laval applique 3 % sur toute
+somme excédant 500 000 $, un pouvoir que la loi québécoise accorde aux
+municipalités au-delà de ce seuil. La grille lavalloise : 0,5 % jusqu'à
+62 900 $, 1 % jusqu'à 315 000 $, 1,5 % jusqu'à 500 000 $, puis 3 % sur
+l'excédent.
 
-**Simplicité:** Un triplex est gérable pour un propriétaire débutant. Ce ne sont pas 20 logements. Ce sont deux ou trois relations avec des locataires, ce qui est significatif mais pas accablant.
+Exemple purement illustratif, calculé avec ces seuls taux officiels : sur une
+base d'imposition de 600 000 $, les droits atteignent 8 610,50 $, contre
+environ 5 460 $ à 490 000 $. La facture arrive en un versement, quelques mois
+après la signature. Le [calculateur de taxe de bienvenue](/tools/welcome-tax/)
+et l'article sur [les taxes foncières](/articles/property-tax-explained/)
+détaillent le reste.
 
-## Pourquoi Laval
+## Les loyers que vous achetez sont ceux qui sont en place
 
-Laval reçoit moins d'attention qu'elle ne mérite dans la conversation sur l'investissement. Voici ce que les données montrent:
+L'erreur la plus coûteuse consiste à acheter en supposant que vous monterez les
+loyers au marché. Ce n'est pas vous qui décidez.
 
-- Troisième ville en importance au Québec avec plus de 450 000 habitants
-- Accès direct à Montréal via le métro, ligne orange
-- Prix encore inférieurs à l'île de Montréal pour des propriétés comparables
-- Taux d'inoccupance locatif constamment inférieur à 3%
-- Forte demande des familles exclues de l'île par les prix
-- Communauté arabophone, francophone et anglophone active, générant une demande locative diversifiée
+Depuis le 1er janvier 2026, le Tribunal administratif du logement applique une
+méthode de fixation simplifiée aux avis de modification donnés à compter de
+cette date. La base est la moyenne de l'indice des prix à la consommation du
+Québec sur trois ans, soit 3,1 % pour les baux reconduits entre le 2 avril 2026
+et le 1er avril 2027. S'y ajoutent la part des hausses de taxes et d'assurance
+qui dépasse cette base, et les travaux majeurs, récupérés à 5 % par année. Le
+TAL publie son [outil de
+calcul](https://www.tal.gouv.qc.ca/fr/calcul-pour-l-augmentation-de-loyer).
 
-## La réalité du flux de trésorerie dans la grande région de Montréal
+Deux règles à connaître avant l'offre :
 
-Voici ce que beaucoup de créateurs de contenu immobilier passent sous silence: **un flux de trésorerie positif immédiat est rare à Montréal et Laval.**
+- **Le moratoire.** Jusqu'au 6 juin 2027, aucun locataire ne peut être évincé
+  pour subdivision, agrandissement substantiel ou changement d'affectation.
+- **La reprise de logement.** Elle vise vous, vos parents, vos enfants ou un
+  proche que vous soutenez, avec un avis d'au moins 6 mois avant la fin d'un
+  bail de 12 mois. Un locataire de 65 ans ou plus, sur place depuis 10 ans et
+  dont le revenu ne dépasse pas 125 % du seuil d'admissibilité à un logement à
+  loyer modique, est protégé, sauf exceptions. En indivision avec un tiers,
+  la reprise est en principe impossible.
 
-Dans les marchés où les prix des propriétés sont élevés par rapport aux loyers, vous vous retrouvez souvent dans une position légèrement négative ou neutre, c'est-à-dire que vous contribuez de 200 à 500 dollars par mois de votre poche après toutes les dépenses.
+Si vous comptez habiter un des trois logements, vérifiez donc qu'un logement se
+libère ou qu'une reprise est possible. C'est une vérification, pas une
+hypothèse.
 
-Ce n'est pas un échec. Voici pourquoi:
+## Les documents à exiger avant de signer quoi que ce soit
 
-1. Vos locataires remboursent votre capital hypothécaire chaque mois
-2. La propriété prend de la valeur
-3. Vous construisez un actif qui génère des rendements croissants dans le temps
-4. Les déductions fiscales sur une propriété locative réduisent votre coût net
+- Tous les **baux** signés, avec les avis d'augmentation des trois dernières
+  années
+- Le **registre des loyers** : qui paie, quand, et qui accuse du retard
+- Les **comptes de taxes** municipale et scolaire de l'année en cours
+- Les **factures d'énergie**, en précisant qui paie le chauffage de chaque
+  logement
+- Les **déclarations du vendeur** sur l'immeuble, le formulaire de l'OACIQ
+- Le **certificat de localisation** à jour
+- Les **factures des travaux majeurs** : toiture, fenêtres, plomberie,
+  électricité, drain
+- L'existence de **dossiers ouverts au TAL**
 
-Le rendement total d'un triplex à Laval sur 10 ans, en tenant compte de l'appréciation, du remboursement du capital et du revenu locatif, tourne généralement entre 8% et 12% annuellement.
+Un vendeur qui ne peut fournir ni baux ni comptes de taxes ne vend pas un
+immeuble à revenus, il vend une intention.
 
-## Les 8 questions à poser avant de faire une offre
+## Ce qui se vérifie spécifiquement à Laval
 
-Avant de soumettre une offre sur un immeuble à revenus, exigez les réponses à ces huit questions:
+Le nombre de logements inscrit sur la fiche n'est pas une garantie. Confirmez
+auprès de la Ville que le zonage du secteur autorise trois logements à cette
+adresse, et que le lotissement du terrain est conforme.
 
-1. Quel est le revenu brut réel, vérifié par les baux signés?
-2. Quelles sont les dépenses réelles des deux dernières années (factures à l'appui)?
-3. Quand le toit a-t-il été remplacé et par quel entrepreneur?
-4. Y a-t-il eu des travaux majeurs récents sur les systèmes mécaniques?
-5. Quels sont les loyers actuels comparés au marché?
-6. Y a-t-il des dossiers ouverts au Tribunal administratif du logement?
-7. Pourquoi le vendeur vend-il maintenant?
-8. Y a-t-il des projets municipaux prévus dans le secteur?
+Le point sensible, c'est le sous-sol aménagé. Un logement créé sans permis
+n'est pas seulement « non conforme » : selon le gouvernement du Québec, aucun
+droit acquis ne découle d'une construction ou d'un usage réalisé illégalement,
+et la tolérance passée de la municipalité n'y change rien. Un usage devenu non
+conforme après un changement de règlement, lui, peut être protégé par droits
+acquis. Entre les deux, il y a parfois un tiers de vos revenus.
 
-## La vision à long terme
+Demandez le permis d'origine. S'il n'existe pas, vous achetez un deux
+logements. Le [portrait de Laval](/articles/laval-investment-city/) et ma
+[page secteur](/courtier-immobilier/laval/) situent le reste du contexte.
 
-Voici la façon la plus solide de concevoir un triplex à Laval comme stratégie de retraite.
+## L'inspection d'un trois logements n'est pas celle d'une maison
 
-Achetez un triplex à 40 ans. Hypothèque sur 25 ans. À 65 ans, l'hypothèque est remboursée par vos locataires.
+Trois cuisines, trois salles de bain, des entrées électriques multiples, des
+parties communes, un toit plus grand : l'inspection prend plus de temps et
+coûte plus cher que pour une unifamiliale. Prévoyez l'accès aux trois
+logements, ce qui demande un avis aux locataires. Voyez [le guide de
+l'inspection préachat](/articles/inspection-preachat-cout-moment-quebec/).
 
-À 65 ans, vous possédez un actif d'une valeur de 1 M$ et plus qui génère de 3 000 à 5 000 dollars par mois en revenus locatifs nets.
+## Les risques qui restent, même avec un bon dossier
 
-C'est une rente privée, construite avec l'effet de levier, financée par d'autres, ne nécessitant aucun programme gouvernemental.
+- **La vacance.** Dans son Rapport sur le marché locatif 2025, la SCHL mesure
+  un taux d'inoccupation de 2,9 % dans la région de Montréal. Une moyenne
+  régionale, pas une prévision pour votre triplex.
+- **Le mauvais payeur.** Un recours au TAL prend du temps, et le paiement
+  hypothécaire sort quand même.
+- **Les travaux majeurs.** Ils arrivent par blocs et ne se récupèrent qu'à 5 %
+  par année.
+- **Les taxes.** Un nouveau rôle d'évaluation ou un budget municipal peut faire
+  bondir la facture, comme l'a montré le changement de 2026 à Laval.
+
+La [gestion locative](/articles/rental-property-management/) couvre le
+quotidien, et [bâtir un portefeuille](/articles/build-real-estate-portfolio/)
+est une autre conversation.
 
 ---
 
-*Vous pensez à votre premier immeuble à revenus à Laval ou dans la grande région de Montréal? [Prenez contact](/formulaire/) pour faire analyser les chiffres.*
+*Vous regardez un triplex à Laval ? [Écrivez-moi](/formulaire/) : on lit les
+baux, les taxes et le zonage avant de rédiger l'offre, pas après.*

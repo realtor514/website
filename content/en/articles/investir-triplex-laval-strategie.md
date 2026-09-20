@@ -1,107 +1,166 @@
 ---
-title: "Why a Triplex in Laval Is One of the Smartest Investments You Can Make Right Now"
+title: "Buying a Triplex in Laval: What to Verify Before You Make an Offer"
 date: 2026-05-14
-lastmod: 2026-09-19
+lastmod: 2026-09-20
 translationKey: "article-triplex-laval"
 category: "Investment"
-description: "The numbers on a Laval triplex don't just work; they work better than most financial products available to the average investor. Here is how to analyze one correctly."
+description: "Down payment, how a lender counts the rents, Laval taxes and transfer duties, TAL rent control and zoning: the checklist to run before you sign an offer."
 image: "images/articles/investir-triplex-laval-strategie/featured.jpg"
 ---
 
-Buying a triplex in Laval in 2022 turned out, two years later, to be one of the best financial decisions available. Not because the market was perfect, not because everything went exactly as planned, but because the fundamentals of the investment were sound.
+A triplex is not bought the way a house is. The asking price says nothing about
+real income, the rents in place cannot be corrected at will, and the City has a
+say in how many units you think you are buying.
 
-This article explains those fundamentals. If you are considering your first income property, this is the framework to use.
+Here is what to verify before making an offer on a three-unit building in
+Laval. General information only: confirm your file with a lender and a notary.
+If this is your first building, start with the [income property
+guide](/en/articles/income-property-beginners/).
 
-## The Calculation Most Investors Skip
+## The down payment turns on one question: will you live there?
 
-Before anything else, let's talk about the number that actually matters: the **net operating income** (NOI), also called the revenu net opérationnel (RNO).
+That is the pivot of the whole file, and it depends on neither price nor
+neighbourhood.
 
-Most people who look at an income property calculate the gross rent, meaning what all units would produce if fully occupied. That number is almost meaningless without context.
+| Situation | Minimum down payment | Price cap |
+|---|---|---|
+| 3 or 4 units, you occupy one | 10% | under $1,500,000 |
+| 2 to 4 units, you do not occupy | 20% | under $1,000,000 |
 
-The real calculation is:
+The first row is CMHC Purchase. The second is CMHC Income Property: a credit
+score of at least 600 for one borrower, and a 25-year maximum amortization.
 
-**Gross annual income**
-- minus municipal and school taxes
-- minus insurance
-- minus maintenance and repairs (always budget 10-15% above your estimate)
-- minus property management (even if you self-manage, include this)
-- minus vacancy allowance (3-5%)
+So the same triplex asks 10% while you live in it and 20% the day you move out.
+Under 20% the loan is insured: the premium is added to the amount borrowed, but
+the Quebec tax on that premium is paid in cash at the notary. See [the 20% down
+payment myth](/en/articles/down-payment-myth-debunked/).
 
-= **Net Operating Income (NOI)**
+## How a lender counts the rents on a three-unit building
 
-Then: **NOI ÷ purchase price = capitalization rate (cap rate)**
+This is the most common unpleasant surprise. On an owner-occupied duplex, CMHC
+allows up to 100% of gross rents to be added to your income. From the third
+unit on, only two methods remain: up to 50% of gross rents, or net rental
+income, meaning rents minus operating expenses. In practice, half the rent roll
+disappears from the income a lender is willing to see, which is exactly why a
+triplex that looks affordable on paper can fail to qualify.
 
-In the greater Montreal area, a cap rate of 4% to 6% is realistic for a well-priced plex. Below 3%, you are betting entirely on appreciation. Above 7%, something is wrong; find out what before proceeding.
+Add CMHC's ratios, 39% of gross income for housing costs and 44% for total
+debt, and a qualifying rate that is the greater of your contract rate plus 2%
+or 5.25%. Test your scenario with the [mortgage calculator](/en/tools/mortgage/)
+and the [affordability calculator](/en/tools/affordability/) before you visit.
 
-This is the calculation that the seller's listing sheet rarely shows you correctly. Always rebuild it from scratch using actual leases and real expense figures from the past two years.
+## The taxes: municipal, school, and the one on the deed
 
-## Why a Triplex Specifically
+**The municipal tax bill.** Ask for the real account, not an estimate off the
+listing sheet. Good news: under Quebec's variable-rate property tax regime, a
+triplex stays in the residual category, the one covering residential buildings
+of five units or fewer, rather than the six-units-and-over category that is
+often taxed higher. Also check the value entered on the assessment roll in
+force: that value, not the price you pay, is what the tax is calculated on. The
+roll and the tax account are consulted on the City of Laval website.
 
-The triplex hits a sweet spot that few other property types can match.
+**The school tax.** A single provincial rate: $0.07899 per $100 of adjusted
+assessment for 2026-2027, with a basic exemption on the first $25,000. A
+separate bill, modest next to the municipal one, but it exists.
 
-**Financing:** Up to 4 units qualifies for residential financing. If you occupy one of the units, the minimum down payment is 10% for a triplex or fourplex (for a duplex: 5% on the first $500,000 and 10% on the rest), with mortgage loan insurance. Without owner occupancy, plan for 20%.
+**Transfer duties.** Since the 2026 budget, Laval applies 3% to any amount above
+$500,000, a power Quebec law grants municipalities beyond that threshold. The
+Laval grid: 0.5% up to $62,900, 1% up to $315,000, 1.5% up to $500,000, then 3%
+on the excess.
 
-**Living situation:** Many investors start by living in one unit, letting the other two pay the majority of the mortgage. In a typical Laval triplex, two tenants cover approximately 80% of total carrying costs. The owner-occupant lives almost for free while building equity.
+A purely illustrative example, computed with those official rates alone: on a
+taxable base of $600,000, the duties come to $8,610.50, against roughly $5,460
+at $490,000. The bill arrives in a single payment, a few months after signing.
+The [welcome tax calculator](/en/tools/welcome-tax/) and the article on
+[property taxes](/en/articles/property-tax-explained/) cover the rest.
 
-**Simplicity:** A triplex is manageable for a first-time landlord. You are not running a 20-unit building. You are managing two or three tenant relationships, which is meaningful but not overwhelming.
+## The rents you buy are the rents in place
 
-**Resale market:** Triplexes appeal to a wide range of buyers: other investors, families who want to live in one unit and rent the others, and multi-generational households. Demand is consistent.
+The most expensive mistake is buying on the assumption that you will raise
+rents to market. You are not the one who decides.
 
-## Why Laval
+Since January 1, 2026, the Tribunal administratif du logement applies a
+simplified rent-setting method to modification notices given from that date.
+The base is the three-year average of Quebec's consumer price index, 3.1% for
+leases renewed between April 2, 2026 and April 1, 2027. Added to it: the share
+of tax and insurance increases above that base, and major work, recovered at 5%
+a year. The TAL publishes its [calculation
+tool](https://www.tal.gouv.qc.ca/en/calculation-for-rent-increase).
 
-Laval gets less attention than it deserves in the investment conversation. Here is what the data shows:
+Two rules to know before the offer:
 
-- Third-largest city in Quebec with over 450,000 residents
-- Direct metro access via the orange line
-- Purchase prices still below the Montreal island for comparable properties
-- Rental vacancy rate consistently below 3%, a tight market that works in landlords' favour
-- Strong demand from families priced out of the island
-- Active Arabic-speaking, French, and English communities generating diverse tenant demand
+- **The moratorium.** Until June 6, 2027, no tenant may be evicted for
+  subdivision, substantial enlargement or a change of use.
+- **Repossession.** It covers you, your parents, your children or a relative
+  you support, with notice at least 6 months before the end of a 12-month
+  lease. A tenant aged 65 or over, in place for 10 years and whose income does
+  not exceed 125% of the low-rental housing eligibility threshold, is
+  protected, with exceptions. In undivided co-ownership with a third party,
+  repossession is in principle impossible.
 
-The price differential between Laval and Montreal island means your entry point is lower, your yield is often better, and your competition with other investors is somewhat reduced.
+If you plan to live in one of the three units, verify that a unit is coming
+free or that repossession is available. That is a verification, not an
+assumption.
 
-## The Cash Flow Reality in Greater Montreal
+## The documents to demand before signing anything
 
-Here is something many real estate content creators gloss over: **immediate positive cash flow is rare in Montreal and Laval.**
+- Every signed **lease**, with the rent increase notices from the past three
+  years
+- The **rent roll**: who pays, when, and who is behind
+- The **municipal and school tax accounts** for the current year
+- The **energy bills**, specifying who pays the heat in each unit
+- The **seller's declarations** on the immovable, the OACIQ form
+- An up-to-date **certificate of location**
+- **Invoices for major work**: roof, windows, plumbing, electrical, drain
+- Any **open files at the TAL**
 
-In markets where property prices are high relative to rents, you often end up in a slightly negative or cash-flow-neutral position, meaning you contribute $200 to $500 per month out of pocket after all expenses.
+A seller who can produce neither leases nor tax accounts is not selling an
+income property, he is selling an intention. Read the leases yourself rather
+than the summary: the rent, the term, the heating clause and any parking or
+storage included all change the real number.
 
-This is not a failure. Here is why:
+## What gets verified specifically in Laval
 
-1. Your tenants are paying down your mortgage principal every month
-2. The property is appreciating in value
-3. You are building an asset that generates increasing returns over time
-4. The tax deductions on a rental property reduce your net cost
+The unit count on the listing sheet is not a guarantee. Confirm with the City
+that the zoning for the sector allows three units at that address, and that the
+lot subdivision is compliant.
 
-The full return on a Laval triplex over 10 years (when you account for appreciation, principal paydown, and rental income) typically runs between 8% and 12% annually. That is competitive with most financial products, with the added advantage of leverage.
+The sensitive spot is the finished basement. A unit created without a permit is
+not merely "non-conforming": according to the Government of Quebec, no acquired
+right flows from a construction or a use carried out illegally, and past
+tolerance by the municipality changes nothing. A use that became non-conforming
+after a by-law change, by contrast, can be protected by acquired rights.
+Between the two, there is sometimes a third of your revenue.
 
-## The 8 Questions to Ask Before Making an Offer
+Ask for the original permit. If it does not exist, you are buying a duplex. The
+[Laval investment profile](/en/articles/laval-investment-city/) and my [Laval
+page](/en/real-estate-broker/laval/) set out the rest of the context.
 
-Before submitting an offer on any income property, require answers to these eight questions:
+## Inspecting three units is not inspecting a house
 
-1. What is the actual gross income, verified against signed leases?
-2. What are the real expenses from the past two years (receipts, not estimates)?
-3. When was the roof replaced and by which contractor?
-4. Have there been any major mechanical systems replaced recently?
-5. What are the current rents compared to the market rate?
-6. Are there any open files at the Tribunal administratif du logement (TAL)?
-7. Why is the seller selling now?
-8. Are there any planned municipal projects nearby (road work, transit, development)?
+Three kitchens, three bathrooms, multiple electrical entrances, common areas, a
+larger roof: the inspection takes longer and costs more than on a
+single-family home. Plan for access to all three units, which requires notice
+to the tenants. See [the pre-purchase inspection
+guide](/en/articles/home-inspection-cost-timing-quebec/).
 
-The answers to these questions determine whether an investment makes sense, or whether you are inheriting someone else's problem.
+## The risks that remain, even with a sound file
 
-## The Long Game
+- **Vacancy.** In its 2025 Rental Market Report, CMHC measured a 2.9% vacancy
+  rate in the Montreal region. A regional average, not a forecast for your
+  triplex.
+- **A tenant who stops paying.** A TAL case takes time, and the mortgage
+  payment goes out anyway.
+- **Major work.** It arrives in blocks and is recovered in the rent at only 5%
+  a year.
+- **Taxes.** A new assessment roll or a municipal budget can push the bill up,
+  as the 2026 change in Laval showed.
 
-Here is the soundest way to think about a Laval triplex as a retirement strategy.
-
-Buy a triplex at 40. Mortgage on 25 years. At 65, the mortgage is paid off, by your tenants.
-
-At 65, you own an asset worth $1M+ (based on historical appreciation rates) that generates $3,000 to $5,000 per month in net rental income.
-
-That is a private pension. Built with leverage, funded by others, requiring no government program.
-
-The math takes time, but it works. The discipline to hold through market fluctuations and tenant challenges is what separates the investors who build wealth from those who sell too soon.
+The [rental management guide](/en/articles/rental-property-management/) covers
+the day to day, and [building a
+portfolio](/en/articles/build-real-estate-portfolio/) is another conversation.
 
 ---
 
-*Thinking about your first income property in Laval or the greater Montreal area? [Get in touch](/en/form/) to have the numbers reviewed.*
+*Looking at a triplex in Laval? [Write to me](/en/form/): we read the leases,
+the taxes and the zoning before drafting the offer, not after.*
