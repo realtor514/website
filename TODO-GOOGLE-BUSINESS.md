@@ -342,11 +342,22 @@ Etat verifie dans le depot le 2026-08-31.
       chiffres sans source: triplex a Laval (taux de capitalisation, rendements,
       vacance), liste d inspection a Montreal (duree de vie des bardeaux,
       panneaux electriques), gestion locative.
-- [ ] Completer l espagnol: 34 groupes sur 63 n ont pas de version ES au
-      2026-09-20, dont 3 sont en cours (retournement de proprietes, liste de
-      demenagement, portefeuille immobilier), donc 31 apres ce lot. Les
-      sujets les plus commerciaux sont couverts, il reste le contenu
-      secondaire. Les 29 articles ES existants font tous plus de 400 mots.
+- [ ] Completer l espagnol: 31 groupes sur 63 n ont pas de version ES apres le
+      lot du 2026-09-20. Les sujets les plus commerciaux sont couverts, il
+      reste le contenu secondaire. Les 32 articles ES existants font tous plus
+      de 400 mots, et un seul est sous 700.
+- [x] Lot du 2026-09-20, les 3 articles les plus minces, dans les 4 langues
+      avec l espagnol cree: retournement de proprietes (commit 34088b7),
+      portefeuille immobilier (cfd9f39), liste de demenagement (49475f2).
+      Environ 1 300 mots par langue, 1 100 en arabe. Faits verifies aux
+      sources: regle federale des 365 jours et harmonisation de Revenu Quebec,
+      test de 90 % des renovations majeures qui rend une revente taxable,
+      mises de fonds SCHL selon le nombre de logements et l occupation, test
+      de resistance du BSIF et le fait que les cooperatives relevent de l AMF,
+      refinancement a 80 % et marge a 65 %, recuperation de l amortissement,
+      delais d avis de non reconduction, cession de bail depuis la loi 31,
+      Service quebecois de changement d adresse, permis de camion par
+      arrondissement, ecocentres, protections de l OPC.
 - [x] Programmes premiers acheteurs mis a jour le 2026-09-19, 4 langues: RAP
       a 60 000 $ (au lieu de 35 000 $) dans 11 fichiers; taxe sur la prime
       SCHL a 9 % en 2026, 9,975 % a partir du 1er janvier 2027 (et ce n est pas
