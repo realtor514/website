@@ -3,6 +3,11 @@ enableRobotsTXT = true
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 
+# Les taxonomies Hugo par defaut ne servent a rien ici: les articles portent
+# un champ `category` a eux, pas la taxonomie. Hugo publiait quand meme
+# /categories/ et /tags/ vides, titrees en anglais, dans les 4 sitemaps.
+disableKinds = ["taxonomy", "term"]
+
 [languages]
 
   [languages.en]
