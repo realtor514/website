@@ -48,6 +48,12 @@
 
         <p class="hero__role reveal reveal-delay-1">{{ .Site.Params.tagline | safeHTML }}</p>
 
+        {{/* Ligne lisible sous le titre: les villes sont dans le role ci-dessus,
+             l avantage de service est ici. Le H1 reste le nom. */}}
+        {{ with .Site.Params.heroPitch }}
+        <p class="hero__pitch reveal reveal-delay-1">{{ . | safeHTML }}</p>
+        {{ end }}
+
         <div class="hero__quicklinks reveal reveal-delay-2">
           <a href="{{ $homeEstimateURL }}" class="hero__quicklink">
             {{ if $isFr }}Estimation instantanée de la valeur de votre propriété{{ else if $isAr }}تقدير فوري لقيمة عقارك{{ else if $isEs }}Estimación instantánea del valor de su propiedad{{ else }}Instant Estimate of Your Property Value{{ end }}

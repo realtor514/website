@@ -379,6 +379,17 @@ p:last-child { margin-bottom: 0; }
   font-weight: 500;
   letter-spacing: .12em;
   text-transform: uppercase;
+  margin-bottom: 12px;
+  max-width: 620px;
+}
+/* Ligne de positionnement sous le titre, en casse normale pour rester lisible */
+.hero__pitch {
+  color: rgba(255,255,255,.72);
+  font-size: 1rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  max-width: 560px;
   margin-bottom: 28px;
 }
 .hero__quicklinks {
@@ -3040,6 +3051,44 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
   .lead-page { padding: 36px 0 52px; }
   .lead-page__card .contact-form { padding: 26px 20px; }
   .lead-nav__logo em { display: none; }
+}
+
+/* ── Barre d action collante, mobile seulement ── */
+.mobile-cta { display: none; }
+
+@media (max-width: 768px) {
+  .mobile-cta {
+    display: flex;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 900;
+    gap: 1px;
+    background: rgba(255,255,255,.12);
+    padding-bottom: env(safe-area-inset-bottom, 0);
+    box-shadow: 0 -6px 24px rgba(10,22,40,.28);
+  }
+  .mobile-cta__btn {
+    flex: 1 1 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+    padding: 15px 10px;
+    border: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: .95rem;
+    font-weight: 600;
+    letter-spacing: .02em;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .mobile-cta__btn--call { background: var(--navy); color: var(--white); }
+  .mobile-cta__btn--book { background: var(--blue); color: var(--white); }
+  .mobile-cta__btn:active { filter: brightness(.9); }
+  /* La barre ne doit jamais masquer la fin du contenu. */
+  body { padding-bottom: 64px; }
 }
 
 /* ── Ajustements RTL ── */
