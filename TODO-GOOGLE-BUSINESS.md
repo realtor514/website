@@ -280,10 +280,13 @@ manuelles. Les jours 2 a 8 sont probablement inutiles: avant d en faire un,
 verifier dans `Indexation > Pages > Afficher les donnees sur les pages
 indexees` que les URLs du jour n y sont pas deja.
 
-A faire: envoyer a Claude une capture du tableau "Pourquoi les pages ne sont
-pas indexees" (meme rapport) pour trier les 27 pages. Attendues et normales:
-les 4 pages Merci (noindex) et le 35, terrasse Jacques-Leonard retire du site
-(404 dans les 4 langues).
+Tri des 27 pages fait le 2026-09-20 a partir du rapport "Pourquoi des pages ne
+sont pas indexees": 24 "Detectee, actuellement non indexee", 3 "Exploree,
+actuellement non indexee", 0 erreur technique (aucun 404 signale, aucun
+doublon canonique). Les 24 avaient toutes la date d exploration 1969-12-31,
+c est a dire jamais explorees. Causes trouvees et corrigees le 2026-09-20,
+voir la section suivante. Reste a trier: la liste des 3 pages "Exploree,
+actuellement non indexee", pas encore recue.
 
 ---
 
@@ -291,6 +294,27 @@ les 4 pages Merci (noindex) et le 35, terrasse Jacques-Leonard retire du site
 
 Etat verifie dans le depot le 2026-08-31.
 
+- [x] Pages non indexees, causes techniques - FAIT le 2026-09-20, commit
+      f6e7f34. Trois causes derriere les 24 pages jamais explorees:
+      - selecteur de langue: les boutons EN, FR, ES et AR menaient a l accueil
+        de la langue, jamais a la traduction de la page ouverte. Les versions
+        ES et AR ne recevaient donc aucun lien interne depuis leur jumelle.
+        13 des 24 pages etaient des pages ES ou AR. Corrige dans
+        `layouts/partials/header.html`, avec repli sur l accueil quand la
+        traduction n existe pas.
+      - pagination du blogue: 9 articles par page, donc 8 pages et des
+        articles enterres en page 6. Passee a 24 par page, 3 pages au maximum.
+        Effet de bord assume: `/articles/page/4/` a `/articles/page/8/`
+        repondent 404 dans les 4 langues, Google les retirera seul.
+      - 35, terrasse Jacques-Leonard: fiche archivee mais ses 4 adresses
+        repondaient 404. Redirigees vers la liste des proprietes de leur
+        langue par des `aliases` dans les 4 `listings/_index.md`.
+      Les 4 dernieres (/listings/, /en/listings/, sainte-therese, /categories/)
+      n avaient aucun defaut: 164 a 259 liens internes, simple file d attente.
+- [ ] DECISION: supprimer les taxonomies Hugo inutilisees. `/categories/` et
+      `/tags/` sont vides, titrees en anglais, dans les 4 sitemaps, et les
+      articles n utilisent pas ces taxonomies mais un champ `category` a eux.
+      8 URLs vides. En attente de l accord avant suppression.
 - [x] Integrer les profils sociaux au `sameAs` du schema - FAIT le 2026-08-31
 - [ ] Integrer le lien de demande d avis sur le site (des reception)
 - [ ] Ajouter le schema `AggregateRating` une fois que la note et le nombre
