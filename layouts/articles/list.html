@@ -29,7 +29,9 @@
 
 <section class="section">
   <div class="container">
-    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "articles") 9 }}
+    {{/* 24 par page: avec 9, les articles les plus anciens tombaient en page 6
+         ou 7 et Google ne les explorait plus. */}}
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "articles") 24 }}
 
     {{ if $paginator.Pages }}
     <div class="articles-grid">
