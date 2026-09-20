@@ -562,6 +562,121 @@ https://georgesmatar.ca
 
 ---
 
+## PARTIE 5 - Audit marketing recu le 2026-09-20
+
+Points souleves par un audit externe, tries et verifies dans le depot. Trois
+corrections a l audit avant de commencer: le site a QUATRE langues, pas deux,
+l espagnol existe aussi; il n est pas sur WordPress ni sur un gabarit RE/MAX,
+c est un site Hugo sur mesure; et il n a pas de pages de quartier, il a 30
+pages de ville, ce qui n est pas la meme chose.
+
+### 5.1 - Mesure: rien n est mesure aujourd hui - PRIORITE 1
+
+Verifie le 2026-09-20: aucun outil de mesure n est installe, ni Google
+Analytics, ni Tag Manager, ni aucun autre. On ne sait donc pas combien de
+visiteurs arrivent, d ou ils viennent, quelles pages ils lisent, ni a quel
+endroit ils abandonnent le formulaire. Toute discussion sur "ameliorer la
+conversion" est aveugle tant que ca n est pas regle.
+
+- [ ] DECISION: installer Google Analytics 4, ou une solution respectueuse de
+      la vie privee (Plausible, Umami) qui evite la banniere de consentement.
+      A trancher avant l installation.
+- [ ] Marquer les conversions: envoi du formulaire, clic sur le telephone,
+      reservation d un rendez-vous, telechargement d un outil.
+- [ ] Relier Search Console a l outil choisi.
+
+### 5.2 - Conversion mobile - PRIORITE 1
+
+Verifie: il n y a aucune barre d action collante en bas d ecran sur mobile.
+Un visiteur qui lit un article doit remonter jusqu au menu pour te joindre.
+
+- [ ] Barre collante mobile avec deux actions: appeler, et reserver. Elle doit
+      respecter la charte (voir `CHARTE-COULEURS.md`) et ne pas masquer le
+      contenu.
+- [ ] Mesurer avec PageSpeed Insights avant et apres, sur mobile, pour trois
+      types de pages: accueil, page de ville, article.
+
+### 5.3 - Page de contact et fiche Google
+
+- [ ] Aucune carte Google n est integree a la page de contact. En ajouter une,
+      avec l adresse exacte du bureau, la meme que celle de la fiche Google
+      Business, au caractere pres.
+- [ ] Verifier que l adresse du site, de la fiche Google et des annuaires est
+      identique partout (voir PARTIE 2, section E, coherence NAP).
+
+### 5.4 - Titre de l accueil - DECISION EN ATTENTE
+
+Le H1 de l accueil est "Georges Matar", suivi de "Courtier Immobilier
+Residentiel" dans un paragraphe. Le titre le plus important du site ne
+contient donc ni ville, ni proposition de valeur. L audit propose d y mettre
+l avantage analytique et les protections.
+
+Cette page ne se touche pas sans ton accord (regle du projet). Deux options a
+trancher:
+- garder le nom en H1, et ajouter les villes et l avantage dans le
+  sous-titre, qui est deja un paragraphe;
+- passer a un H1 qui porte le positionnement, avec le nom juste au-dessus.
+
+- [ ] DECISION a prendre avant toute modification de l accueil.
+- [ ] Mettre en avant les protections (Tranquilli-T, Integri-T, Coproprie-T)
+      des l accueil. Elles existent en pages dediees mais ne sont pas un
+      argument visible en haut de l accueil.
+
+### 5.5 - Pages de quartier, apres les pages de ville
+
+Les 30 pages de ville couvrent la geographie large. L etage en dessous n est
+pas couvert: les quartiers de Laval (Chomedey, Duvernay, Sainte-Dorothee,
+Vimont, Fabreville, Sainte-Rose, Laval-des-Rapides, Pont-Viau, Auteuil,
+Saint-Francois, Saint-Vincent-de-Paul, Laval-Ouest) et les arrondissements de
+Montreal (Ahuntsic-Cartierville, Villeray, Rosemont, Saint-Leonard, Riviere
+des Prairies et d autres).
+
+- [ ] Choisir 6 a 10 quartiers ou tu fais reellement des transactions, et leur
+      faire une page dans les 4 langues, sur le modele des pages de ville.
+      Ne pas en creer 30 d un coup: une page de quartier sans contenu reel
+      (ecoles, transport, types de proprietes, prix) ne sert a rien.
+
+### 5.6 - Contenu arabe et espagnol propre a la communaute
+
+L audit a raison sur un point: la concurrence est plus faible en arabe et en
+espagnol. Mais les articles y sont aujourd hui des traductions des sujets
+francais, pas des sujets propres a ces publics.
+
+- [ ] Ecrire en arabe et en espagnol des sujets que personne ne traite:
+      l achat par un non resident et l impot supplementaire applicable,
+      l historique de credit quand on vient d arriver au pays, le financement
+      sans historique canadien, les vices caches expliques a quelqu un qui
+      vient d un autre systeme juridique, le role du notaire au Quebec compare
+      a celui d un avocat ailleurs.
+
+### 5.7 - Aimants a prospects
+
+Le site a deja 6 outils de calcul, ce qui est mieux qu un simple formulaire.
+Ce qui manque, c est la capture: les outils donnent un resultat sans jamais
+demander de courriel.
+
+- [ ] DECISION: ajouter une etape facultative "recevoir ce calcul par
+      courriel" a la fin des calculateurs, sans bloquer le resultat. Bloquer
+      le resultat ferait fuir plus de monde que ca n en capturerait.
+- [ ] Guide telechargeable pour les investisseurs, en PDF, avec les vraies
+      regles de financement d un immeuble a revenus. A ne faire qu apres les
+      articles, parce que le contenu sera le meme.
+
+### 5.8 - Autorite du domaine et liens entrants
+
+C est la vraie faiblesse, et l audit a raison. Le site est jeune et se bat
+contre Centris et REMAX Quebec. Rien ne se regle ici en une semaine.
+
+- [ ] Executer la PARTIE 2, section 0: les annuaires et citations. C est
+      deja planifie, ce n est pas fait.
+- [ ] Demander a ton bureau RE/MAX Du Cartier un lien vers ton site depuis la
+      page de l equipe.
+- [ ] Les avis Google, avec des mots precis (ville, type de transaction). Voir
+      PARTIE 2, section C. C est le levier le plus fort et il ne depend que de
+      toi.
+
+---
+
 ## Calendrier realiste des resultats
 
 | Delai | Ce qui se passe |
