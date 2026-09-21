@@ -1,65 +1,163 @@
 ---
-title: "5 Señales de Alerta en una Propiedad que Significan: Retírese (Sin Importar Cuánto la Ame)"
+title: "Retirarse de una propiedad: siete señales que se verifican en papel"
 date: 2026-07-24
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Guía del Comprador"
-description: "Enamorarse de una propiedad con problemas graves es una de las cosas más costosas que puede pasarle a un comprador. Aquí están las cinco situaciones en las que recomiendo retirarse, independientemente del precio."
+description: "Declaraciones del vendedor, venta a riesgo del comprador, certificado vencido, fondo de previsión, zonificación e inundación: cuándo conviene retirarse."
 image: "images/articles/red-flags-walk-away-property/featured.jpg"
 draft: false
 ---
 
-Creo en los datos y el análisis sobre el instinto en la mayoría de las áreas de bienes raíces. Pero también creo que hay situaciones específicas donde la conclusión analítica es clara: retírese de esta propiedad, independientemente de cuán atractivo sea el precio o cuánto le encante la cocina.
+Una verdadera señal de alarma no se siente, se verifica. Y casi nunca está en la
+cocina: está en un formulario, un plano de agrimensor, un acta de asamblea o un
+mapa del gobierno. Para el estado del edificio, vea [lo que se revisa punto por
+punto](/es/articles/home-inspection-checklist-montreal/). Aquí van siete
+señales, cada una apoyada en una regla escrita, y dónde comprobarlas.
 
-Aquí están las cinco que tomo en serio.
+## 1. Una Declaración del vendedor vacía, o ausente
 
-## 1. Un Vendedor que se Niega a Cualquier Forma de Inspección
+El formulario Declaraciones del vendedor sobre el inmueble, la DS, y su versión
+DSD para la copropiedad dividida, es obligatorio cuando un corredor participa en
+la venta de un inmueble de menos de cinco viviendas perteneciente a una persona
+física. Se anexa a la promesa de compra y se entrega al inspector.
 
-En una transacción estándar de bienes raíces en Quebec, usted tiene derecho a incluir una condición de inspección en su oferta. Un vendedor que se niega a cualquier forma de inspección, que no permite una inspección tradicional, no permite una inspección previa a la oferta y no negocia una reducción por renunciar a ella, está comunicando algo importante.
+La regla de fondo cabe en una línea: el vendedor declara lo que sabe, no
+garantiza lo que ignora. La OACIQ añade que debe divulgar los factores que los
+propietarios anteriores pusieron en su conocimiento, no solo los que constató él
+mismo. Una sucesión llena el formulario según su mejor conocimiento y explica en
+la cláusula D15 por qué no puede responder.
 
-Puede que sepa lo que un inspector encontrará.
+Dos situaciones lo cambian todo. Si el vendedor se niega a llenar y firmar la
+DS, el corredor sencillamente no puede celebrar un contrato de corretaje con él.
+Y si el vendedor es una persona jurídica, un banco que recupera un inmueble o un
+promotor, la DS no es obligatoria: su ausencia es, en sí misma, una
+información. Pregunte también si un formulario de Modificaciones la enmendó,
+porque el corredor debe actualizarla cuando una inspección revela un vicio.
 
-Existen razones legítimas para que los vendedores prefieran condiciones de oferta sin inspección: ventas de herencia donde el albacea genuinamente no conoce la condición de la propiedad, o mercados altamente competitivos donde el vendedor tiene múltiples ofertas sin condición. Estas situaciones existen. En esos casos, un vendedor de buena fe suele aceptar una inspección previa a la oferta a cargo del comprador, aunque nada lo obliga.
+## 2. La venta sin garantía legal, a riesgo del comprador
 
-Una negativa categórica a permitir cualquier evaluación profesional de la propiedad es una señal de alerta significativa que supera la mayoría de los precios atractivos.
+El artículo 1726 del Código Civil obliga al vendedor a garantizar que el
+inmueble está libre de vicios ocultos. No garantiza el vicio que el comprador
+conoce, ni el vicio aparente, que el texto define: aquel que un comprador
+prudente y diligente puede constatar sin recurrir a un experto.
 
-## 2. Evidencia de Infiltración de Agua que ha Sido Ocultada
+Las partes pueden reducir esa garantía o excluirla por completo, con la fórmula
+consagrada: sin garantía legal alguna, a riesgo del comprador. La OACIQ publicó
+una advertencia tras la sentencia Tremblay c. Immeubles Perron ltée, que
+confirma Blais c. Laforce, 2022 QCCA 858. El silencio del vendedor sobre un
+vicio que conoce ya no constituye dolo en esa venta: hay que probar una mentira,
+una media verdad o una maniobra destinada a engañarlo. La cláusula también le
+imputa el conocimiento presunto de los vicios y le cierra todo recurso contra
+los propietarios anteriores.
 
-El daño por agua es la categoría más costosa de reparación de edificios residenciales. Impermeabilización de cimientos, remediación de moho, reemplazo de madera estructural: estos costos pueden ascender a decenas de miles, a veces más.
+La OACIQ reserva la exclusión total para casos excepcionales: sucesión,
+recuperación bancaria, edificio por demoler, cambio de uso. En una casa común
+vendida por quien la habita, exija la explicación.
 
-Más preocupante que el daño actual por agua es el daño oculto: pintura fresca sobre una pared de cimientos que oculta manchas de agua, paneles de yeso recién instalados en un sótano que fue inundado recientemente, productos de enmascaramiento de olores fuertes en un espacio que tiene un problema de moho.
+## 3. Un certificado de localización que ya no dice la verdad
 
-Si un inspector identifica evidencia de trabajo de remediación que no fue divulgado, o nota intentos de ocultar en lugar de abordar los problemas de agua, la pregunta no es solo "¿cuánto costará esto arreglar?" Es "¿qué más no fue divulgado?"
+El vendedor debe entregar el certificado de localización que posee, y todavía
+hace falta que valga algo. Éducaloi fija la regla: deja de estar al día en el
+primero de dos hechos, un cambio en la propiedad, en los reglamentos municipales
+o en el número de lote del Cadastre du Québec, o diez años de antigüedad.
 
-## 3. Un Edificio con Procedimientos Legales Activos
+Responde preguntas que ninguna visita resuelve: si la propiedad respeta los
+reglamentos municipales, por dónde pasa la línea de lote, quién tiene un derecho
+de paso, si el terreno está en zona inundable o de deslizamiento. El Código
+Civil añade que el vendedor responde por toda invasión que él mismo haya
+cometido, y por la que un tercero hubiera, a su conocimiento, comenzado antes de
+la venta.
 
-Para compras de condominios, revise cuidadosamente las actas de las reuniones de la junta de los últimos tres años. Si el edificio tiene litigios activos, ya sea contra el desarrollador, contra un contratista por defectos de construcción, entre propietarios de unidades y la corporación, u otros procedimientos legales, esa incertidumbre es su problema en el momento en que toma el título.
+El seguro de títulos no es un sustituto: Éducaloi recuerda que los problemas de
+cercas, muretes y setos, como el incumplimiento de los reglamentos ambientales,
+quedan excluidos.
 
-Los procedimientos legales crean incertidumbre financiera, posible responsabilidad de evaluación y complicaciones para la reventa futura. Un edificio involucrado en una demanda importante es un edificio donde sus opciones de salida son limitadas hasta que el asunto se resuelva.
+## 4. El rechazo de la inspección, y lo que está permitido
 
-## 4. Un Precio Significativamente por Debajo de Propiedades Comparables Sin Explicación
+Nadie obliga a un vendedor a abrir su puerta a un inspector. Una sentencia del
+Tribunal Superior del 18 de diciembre de 2025, comentada por la OACIQ el 25 de
+febrero de 2026, va más lejos: el vendedor puede proponer, en una
+contrapropuesta, una cláusula que le permita rechazar al inspector elegido por
+el comprador. El Tribunal ve en ello la libertad contractual.
 
-Las propiedades a veces tienen precios por debajo del mercado por razones legítimas: ventas de herencia que se mueven rápidamente, vendedores que necesitan cerrar en una fecha específica, o circunstancias motivadas. Estas pueden ser oportunidades.
+El límite es nítido. Esa cláusula debe prever que el plazo de inspección vuelva
+a correr tras un rechazo, sin lo cual coloca al comprador en una situación
+precaria y contraviene las obligaciones de buena fe. Un vendedor que rechaza
+toda inspección y todo plazo adicional no pide un compromiso: le pide que compre
+a ciegas.
 
-Pero una propiedad con precio del 15-20% o más por debajo de ventas comparables recientes sin una explicación divulgada debería desencadenar una investigación profunda antes de cualquier oferta. Las gangas inexplicadas en el mercado residencial suelen ser situaciones donde el vendedor sabe algo que el comprador no, o condiciones que han sido divulgadas pero minimizadas.
+## 5. En copropiedad, los papeles van antes que las paredes
 
-Realice el análisis completo de comparables. Contrate a un inspector de edificios. Solicite todos los documentos de divulgación disponibles. Luego decida si el descuento refleja una oportunidad genuina o un riesgo genuino.
+El vendedor de una fracción debe entregar a tiempo una certificación del
+sindicato sobre el estado de la copropiedad, que el sindicato provee dentro de
+los 15 días de la solicitud. El reglamento que fija su forma y contenido está en
+vigor desde el 14 de agosto de 2025.
 
-## 5. Discrepancia Significativa Entre el Área Listada y el Área Real
+Verifique después tres cosas en el registro de la copropiedad, que contiene las
+actas, los estados financieros, el cuaderno de mantenimiento y el estudio del
+fondo de previsión. Primero, las cuotas especiales: el consejo debe consultar a
+la asamblea antes de decidir una, así que la que se prepara aparece en un acta
+antes de aparecer en su cuenta. Luego, la brecha entre lo que el estudio
+recomienda aportar y lo que la copropiedad aporta, porque la ley exige fijar las
+sumas sobre esas recomendaciones. Por último, las cargas impagas: el adquirente
+debe todos los gastos comunes vencidos al momento de la adquisición, con
+intereses, salvo que haya pedido el estado de cargas y lo haya recibido dentro
+de los 15 días.
 
-En Quebec, las propiedades residenciales se comercializan con un área habitable listada. Esta área no siempre es exacta. He revisado listados donde los metros cuadrados declarados estaban sobreestimados en un 15-20% en relación con lo que la propiedad realmente contenía.
+El cuaderno y el estudio son obligatorios, con conformidad exigida tres años y
+un día después del 14 de agosto de 2025. Una copropiedad que no emprendió nada
+ya le dijo algo.
 
-Esto importa porque a menudo está pagando un precio por metro cuadrado, y el financiamiento está vinculado al valor tasado, que depende en parte del área. Si una propiedad se valora por debajo del precio de compra porque el área real es menor de lo anunciado, su financiamiento puede caerse o requerir una renegociación de precio.
+## 6. Una vivienda que no cumple con la zonificación
 
-Antes de cualquier oferta, calculo el precio implícito por metro cuadrado y lo comparo con ventas comparables recientes. Una divergencia significativa es una señal para verificar el área de manera independiente.
+El vendedor garantiza al comprador contra toda violación de las limitaciones de
+derecho público, salvo que las haya denunciado, que un comprador prudente y
+diligente pudiera descubrirlas por la naturaleza, la situación y el uso del
+lugar, o que estén inscritas en el Bureau de la publicité foncière. La garantía
+cae pronto.
 
-## La Verdad Difícil Sobre las Señales de Alerta
+La guía gubernamental de toma de decisiones en urbanismo es categórica: un
+permiso otorgado ilegalmente no crea ningún derecho adquirido, y aun con
+tolerancia municipal, ningún derecho adquirido nace de una construcción o de un
+uso del suelo realizados ilegalmente. El derecho adquirido, cuando existe, se
+limita a la superficie realmente utilizada, y una municipalidad puede exigir que
+cese un uso derogatorio interrumpido durante un período que ella define, nunca
+inferior a seis meses.
 
-La parte más difícil de estas situaciones es que a menudo surgen cuando un comprador ya se ha apegado emocionalmente a una propiedad. Le encanta el diseño, el vecindario es perfecto y el vendedor presiona para un cierre rápido.
+Un sótano alquilado sin permiso no es un ingreso, es una deuda eventual. El
+certificado de zonificación y el historial de permisos lo resuelven.
 
-Ese es exactamente el momento en que la disciplina analítica más importa. Las propiedades vuelven al mercado. Existen mejores oportunidades. La propiedad específica de la que se ha enamorado no es irremplazable, incluso cuando se siente así.
+## 7. Los indicios ambientales, y dónde se verifica cada uno
 
-El valor de una lista como esta es que se sostiene cuando las emociones toman la decisión. En estas cinco situaciones la respuesta es la misma: dé un paso atrás y piense cuidadosamente antes de proceder.
+**Pirita y pirrotita.** La OACIQ enumera 91 ciudades del Gran Montreal
+afectadas e impone al corredor informar al comprador aunque el inmueble no
+parezca alcanzado. Solo una pericia decide, y el comprador no puede encargarla
+sin autorización del propietario. La OACIQ prohíbe la cláusula que fije un
+porcentaje de retiro: la condición pasa por el formulario Anexo Pericia.
+
+**Ocre ferroso.** Ningún registro lo señala: se busca en la DS, en las facturas
+de mantenimiento del drenaje y en una inspección con cámara.
+
+**Tanque de combustible enterrado.** El Repertorio de terrenos contaminados del
+Ministerio de Medio Ambiente y su herramienta cartográfica Repère GTC son
+gratuitos.
+
+**Zona inundable.** El mapa interactivo de zonas inundables y de movilidad de
+los cursos de agua se publica en zonesinondables.mrnf.gouv.qc.ca. El marco
+reglamentario modernizado reemplaza al régimen transitorio desde el 1 de marzo
+de 2026, y lo que usted podrá reconstruir tras un siniestro depende de la clase
+de intensidad del terreno.
+
+## Lo que estas siete señales tienen en común
+
+Ninguna pide intuición. Cada una se resuelve con un documento que se obtiene,
+una pregunta hecha por escrito o una casilla marcada en la promesa de compra.
+Cuando el vendedor rechaza las tres, el expediente respondió. Y si es un mito
+tenaz el que lo empuja a firmar rápido, relea [los que más
+cuestan](/es/articles/real-estate-myths-debunked/).
 
 ---
 
-*¿Preocupado por una propiedad específica que está considerando? [Revisémosla juntos](/es/formulario/) antes de que se comprometa.*
+*¿Duda sobre una propiedad concreta o un documento que no logra obtener?
+[Envíeme el expediente](/es/formulario/) y le diré con franqueza qué se
+negocia.*
