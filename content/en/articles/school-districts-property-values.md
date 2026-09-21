@@ -1,51 +1,158 @@
 ---
-title: "How School Catchment Zones Affect Property Values in Montreal and Laval"
+title: "Catchment School, School Choice and School Tax: What a Quebec Address Really Decides"
 date: 2026-06-02
-category: "Market Insights"
-description: "School zones are one of the least discussed and most impactful variables in residential real estate. Here is how they work in Quebec and what they mean for buyers and investors."
+lastmod: 2026-09-21
+category: "Buyer's Guide"
+description: "Catchment zones, school choice, selective programs and the 2026-2027 school tax: what your Montreal or Laval address decides, and what it never decides."
 image: "images/articles/school-districts-property-values/featured.jpg"
 ---
 
-In any market where families are a significant portion of buyers, school quality and access are among the most powerful drivers of property demand. Montreal and Laval are no exception. Understanding how the Quebec school system intersects with real estate can meaningfully improve the decisions buyers and investors make.
+Plenty of buyers arrive with a ready made sentence: this street is in a good
+school zone, so the value will follow. I will never say that sentence. No
+official source lets me put a number on what a school does to a house price in
+Montreal or Laval, and the regulation that governs my licence requires me to be
+able to prove the accuracy of anything I tell the public. What an address does
+decide, on the other hand, is precise and verifiable. Here is what, and how to
+check it yourself before you write an offer.
 
-## How School Assignment Works in Quebec
+## Two networks, and one word to remember: the catchment
 
-Quebec's school system has two primary networks: French public schools (run by school service centers) and English public schools. There are also private French and private English schools, which operate independently and are available to any student based on academic criteria and fees.
+The French public network is organized into school service centres. The English
+public network kept its school boards and its school elections, after the court
+challenges to Bill 40 were decided in favour of the English school boards.
 
-For public schools, enrollment is generally based on geographic catchment zones defined by the school service center. A property's location determines which public school a child is assigned to by default, though transfer requests exist and are sometimes granted.
+Each organization, the Quebec government writes, is responsible for managing its
+territory and assigning catchment schools. A catchment is the set of streets
+attached to a given school. Your address falls inside one elementary catchment
+and one secondary catchment, and that, essentially, is what an address decides
+automatically.
 
-The key practical point: the school a child attends in Quebec is not purely determined by owning property in a particular zone. The system has flexibility. But the catchment zone determines the default school, and the reputation of that school affects how families evaluate nearby properties.
+## The address gives you a default school, not a reserved seat
 
-## The Value Premium Around Desirable Schools
+The Education Act gives the student, or the parents of a minor, the right to
+choose each year, among the schools of the school service centre, the one that
+best suits their preference. That right is not absolute. It is subject to the
+registration criteria the organization sets when the number of requests exceeds
+a school's capacity, and it does not entitle anyone to transportation beyond
+what the organization already provides.
 
-In markets with well-regarded schools, properties in the catchment zone trade at a measurable premium to otherwise comparable properties just outside the zone. This premium reflects the demand from families willing to pay more to be in a specific catchment area.
+In practice, priority goes to students living in the catchment and to siblings
+already enrolled. An out of catchment request is handled according to available
+places. For a school outside your school service centre's territory, a schooling
+agreement is required, and Quebec states plainly that re-registration in that
+school from one year to the next is not guaranteed.
 
-The dynamic is clearly visible in certain Laval sectors. Properties in the Duvernay catchment for well-regarded schools consistently attract stronger family buyer demand than properties in adjacent sectors with weaker school reputations. The price gap is real, even for properties that are physically similar.
+Catchments are not carved in stone either. They get revised, capacities change,
+and a move during the year can force a change of school. A map you looked at in
+March is not a written confirmation for the school year you care about.
 
-For investors targeting family renters, school zone positioning matters directly. A family paying above-market rent to be in a specific school catchment is a more stable tenant than one who has no particular attachment to the location.
+## Public, private, and the selective programs
 
-## The Private School Variable
+Three different doors exist. The public catchment school, free, assigned by
+address. The private school, fee paying, with its own admission criteria. And
+the special pedagogical projects offered inside the public network: sport-études,
+arts-études, international education, various concentrations. Those programs
+take only part of the student body, charge fees and often select.
 
-A significant portion of Quebec families, particularly in the Lebanese-Canadian, Francophone, and Anglo communities, send their children to private schools. For these families, catchment zone positioning matters less because the child's schooling is not determined by the home address.
+On that last point, the rules are moving. In June 2026, the Minister of
+Education sent school service centres a directive, in a letter tabled in the
+National Assembly: starting with the 2027 school year, elementary schools will
+no longer be able to use academic results to select students for a special
+project, a profile or a concentration. At the secondary level, a joint review is
+to reduce or eliminate, where possible, criteria based on academic performance.
+If your purchase plan depends on getting into one specific program, note that an
+address does not freeze those admission conditions.
 
-This creates a secondary dynamic: areas near well-regarded private schools also see demand concentration, not from public school zone effects but from the convenience of proximity.
+## Eligibility for English school does not come with the house
 
-In Laval, the presence of several well-regarded private institutions affects property demand in ways that are not always obvious when looking at school catchment maps alone.
+Access to English public education is governed by the Charter of the French
+Language. The child must meet one of the listed conditions: having received the
+greater part of their elementary or secondary instruction in English in Canada,
+having a brother or sister in that situation, or having a Canadian citizen
+parent who attended an English elementary school in Canada. Temporary
+authorizations exist, notably for children of foreign workers or students. The
+Ministry of Education renders the decision, in writing, on a request forwarded
+by the school organization. No address creates that eligibility.
 
-## English vs. French Education and Property Choice
+## The school tax, and what it does not pay for
 
-Quebec's language laws govern access to English public education. To enroll in English public school, a child must generally qualify based on parental education history (having a parent who was educated in English in Canada). This creates a relatively fixed pool of eligible families for English public schools.
+Since the reform of the school taxation system, the rate is the same across all
+of Quebec. For 2026-2027 it is set at $0.07899 per $100 of assessment, and the
+exemption on the first $25,000 of taxable value is maintained. On the island of
+Montreal, the Comité de gestion de la taxe scolaire de l'île de Montréal
+collects the tax on taxable buildings located in the territory of the island's
+school organizations. For how tax bills work in general, see [how property taxes
+work](/en/articles/property-tax-explained/).
 
-For Anglophone or bilingual families seeking English public education, proximity to eligible English schools is an active consideration that affects neighborhood selection.
+What that tax funds, according to the school organizations themselves:
+maintenance and operation of equipment and buildings, heating and lighting,
+management of the schools, and part of school transportation. It is only a
+minority share of a school service centre's revenue; the rest comes from
+government grants.
 
-## How to Use School Zone Data
+The part that surprises buyers most: paying your school tax does not fund the
+school down the street, does not reserve a seat and gives you no right over any
+particular building. Better still, if no child in your household is enrolled,
+you may choose to receive your bill from the French school service centre or
+from the English school board. Absent a choice, it comes from the French school
+service centre whose territory covers the property. That choice has no effect
+whatsoever on which school a child attends.
 
-When analyzing a property for an investor or a family buyer, school zone data is one of the explicit variables. Specifically:
+## Checking a catchment yourself, in twenty minutes
 
-Which school service center governs the area, and what is the reputation of the assigned schools at the elementary and secondary levels? Is the area near private school options, and which communities are those schools associated with? Has there been any recent rezoning or discussion of catchment boundary changes?
+1. Find the school organization covering the address. The public school
+   registration page on quebec.ca leads to the right school service centre or
+   school board.
+2. Use that organization's tool. The Centre de services scolaire de Montréal
+   publishes a territory map and a directory of its schools; the Centre de
+   services scolaire de Laval offers a Trouver son école tool searched by home
+   address.
+3. For English, contact the English school board directly. It has its own
+   territories.
+4. Confirm in writing with the school office, for the school year you need. An
+   online tool gives an indication, the office gives an answer.
+5. Ask whether the catchment is full this year and whether students are being
+   redirected elsewhere.
 
-The last point is important and underappreciated. A catchment boundary change can meaningfully shift the demand profile for properties on either side of the new line. Staying aware of school service center planning discussions is worth the effort for serious investors.
+## What I will not do, and why
+
+The Regulation respecting brokerage requirements, professional conduct of
+brokers and advertising is explicit. Section 4 requires a broker to offer their
+services without distinction, exclusion or preference based on a ground of
+discrimination set out in section 10 of the Charter of Human Rights and
+Freedoms, including the number or age of children. Section 5 requires verifying
+the information given to the public and always being able to demonstrate its
+accuracy. Section 83 requires advising objectively, without exaggeration,
+concealment or misrepresentation.
+
+In plain terms: I do not rank schools, I do not turn a magazine ranking into a
+sales argument, and I never describe a neighbourhood by who lives in it.
+Steering a buyer by telling them who lives in an area, however well meant,
+directs them on grounds the Charter protects: ethnic or national origin,
+language, religion, social condition. What I can do is point you to the right
+school organization and the right questions. Judging the school is yours:
+visit it, meet the principal, read its educational project.
+
+To frame the rest of the decision: [Montreal
+neighbourhoods](/en/articles/best-neighborhoods-montreal/), [Laval and the North
+Shore](/en/articles/rive-nord-guide-laval/), and the [newcomers'
+guide](/en/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/), which
+puts school registration among the first steps.
+
+## The questions to ask before you write an offer
+
+- What is the catchment school, elementary and secondary, for this exact address
+  and for the school year in question?
+- Has the catchment been changed recently, or is a review under way?
+- Is the school at capacity? Are students being redirected?
+- Is school transportation offered from this address, and on what terms?
+- Is my child eligible for English instruction, and has the Ministry's decision
+  been issued in writing?
+- For a selective program: which admission criteria this year, what fees, what
+  deadline?
 
 ---
 
-*Have a specific area or property to analyze with school zone context? [Request the analysis](/en/form/).*
+*Torn between two addresses with school in the equation? [Write to
+me](/en/form/): I will get you the exact catchments and the right people to
+call, never a ranking.*

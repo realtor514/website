@@ -1,57 +1,167 @@
 ---
-title: "Buying a Heritage Property in Montreal: The Charm vs. The Reality"
+title: "Buying an Old or Heritage Building in Montreal: What Actually Changes"
 date: 2026-06-06
+lastmod: 2026-09-21
 category: "Buyer's Guide"
-description: "Montreal's heritage buildings are some of the most beautiful in North America. They are also some of the most complicated to buy, finance, and maintain. Here is what to know before falling in love with one."
+description: "Classified, cited or inside a heritage site: the permits needed before work, restoration grants, inspecting an old building, and insuring one properly."
 image: "images/articles/heritage-property-montreal/featured.jpg"
 ---
 
-Montreal's heritage residential stock is genuinely extraordinary. Victorian row houses in Outremont, Italianate duplexes in the Plateau, Second Empire mansions in Westmount, greystone triplexes that define the visual character of neighborhoods across the island. If you grew up in a city built mostly after 1970, walking through these neighborhoods produces a specific feeling that modern construction simply cannot replicate.
+The word heritage covers everything and says almost nothing. A 1910 house with
+no legal status, a building cited by a municipality and a building classified by
+the minister are three completely different files: different authorizations,
+different timelines, and very different consequences if work was done without
+permission. Here is what actually changes, and where to verify each point
+yourself before you write an offer.
 
-It is easy to understand why buyers fall in love with heritage properties. That love is worth a great deal more when it is well-informed.
+## Four situations that get confused
 
-## What "Heritage" Means Legally in Quebec
+The Cultural Heritage Act sets out several statuses, and they are not equivalent.
 
-In Quebec, "heritage" designation is not a single category. Properties can be:
+**A classified heritage immovable** is classified by the Minister of Culture and
+Communications. This is the most demanding regime. Around a classified
+immovable, the minister can also set a **protection area**, which binds the
+immediate neighbours even when they carry no status of their own.
 
-**Classified or recognized as cultural property** by the provincial government under the Cultural Heritage Act. These properties face the most significant restrictions on exterior modifications.
+**A cited heritage immovable** is cited by a local municipality, an RCM or an
+Indigenous community, through a citation by-law. Control over the work then
+belongs to that municipality, not to the ministry.
 
-**Listed in a municipal heritage inventory** by cities like Montreal. This provides some protection but less restrictive oversight than provincial classification.
+**A building inside a heritage site.** The site may be declared by the
+government, classified by the minister, or cited by a municipality. Old Montreal
+and Mount Royal are declared heritage sites. Your building may carry no status
+of its own and still be regulated simply because it sits inside the perimeter.
 
-**Located in a heritage sector or PIIA zone**, where the municipal planning process applies heritage-sensitive guidelines to any renovation or modification permit.
+**A building that is merely old, or inventoried.** This is the most common case.
+Since 2021, RCMs must produce and adopt an inventory of buildings built before
+1940 that have heritage value, with a deadline set at April 1, 2026. Being in
+the inventory, the government specifies, does not create obligations under the
+Cultural Heritage Act. Municipal regulation, on the other hand, may well apply.
 
-**Older than a certain date** without any formal designation, which is the most common case. Many buyers use "heritage" informally to describe any older building without understanding whether formal designations exist.
+## Who authorizes what, before the work
 
-Before purchasing, determine which category applies. It affects what you can do with the property, how long renovations take (heritage permits move slower), and what restrictions run with the title.
+For a classified property, a building in a protection area, or a building in a
+classified or declared heritage site, you need authorization from the Ministry
+of Culture and Communications before acting. The list of covered acts is broad:
+altering, restoring, repairing, modifying, demolishing, moving, excavating,
+building, and even changing a sign. For the total demolition of a main building,
+the opinion of the Conseil du patrimoine culturel du Québec is mandatory, which
+lengthens the response time.
 
-## The Financial Reality of Heritage Ownership
+For a cited immovable or a cited heritage site, the control measures belong to
+the municipality or Indigenous community that issued the citation. The question
+goes to the permit counter, not to Quebec City.
 
-**Renovation costs are higher.** Replacing windows in a heritage building may require specific materials, specific profiles, or approval from a heritage officer. Installing a new roof may require matching original materials. Insulating a 19th-century wall cavity while maintaining the character-defining facade requires specialized expertise. All of this costs more than equivalent work in a modern building.
+In Montreal, another layer applies: the site planning and architectural
+integration programme, known as PIIA. It covers facade changes, extensions, new
+construction and signage in the designated sectors. The urban planning advisory
+committee reviews the project and makes a recommendation; the borough council
+approves or refuses and may impose conditions. The City states that processing a
+permit application with PIIA takes roughly two to four months, after which you
+still have to obtain the permits themselves. That delay gets planned, not
+improvised.
 
-**Maintenance is ongoing and real.** Stone facades require periodic repointing. Wood windows require painting and maintenance. Original plaster, original floors, and original woodwork require preservation-minded tradespeople who cost more per hour than those who work exclusively with modern materials.
+## What happens when work was done without authorization
 
-**Financing can be more complex.** Some lenders are cautious about certain older building types, particularly if the foundation is stone rather than poured concrete, if there are known issues like knob-and-tube wiring or galvanized plumbing, or if the property has an unusual configuration. Your mortgage broker needs to know the details before you get emotionally committed.
+This is the first thing I check on a protected building. Carrying out work
+without the required authorization exposes the owner to a fine or to an order to
+restore the property, and the cost of that restoration is secured by a legal
+hypothec. Authorization after the fact exists, but the ministry describes it as
+exceptional.
 
-## What the Inspection Must Cover
+Translated for a buyer: a window replaced, a cornice removed or brick painted
+over without authorization by the previous owner does not leave with him. Ask
+for the authorizations and permits, in writing, for every visible intervention.
 
-Heritage properties require more thorough inspection than modern buildings, not less. Specific areas to address:
+## Checking the status before you offer
 
-**Foundation:** Stone foundations, common in pre-1920 construction, behave differently from poured concrete. They can be stable for a century or more, or they can have areas of deterioration that require expensive intervention. An inspector experienced with older building types is essential.
+The Répertoire du patrimoine culturel du Québec lists elements carrying a legal
+status and those appearing in inventories. Start there, then confirm with the
+municipality or the borough, because citation, PIIA and demolition by-laws are
+municipal. Three possible answers, three very different files: protected,
+inventoried, or simply old.
 
-**Electrical:** Knob-and-tube wiring (common before the 1940s) and aluminum wiring (common in the 1960s and 1970s) both create insurance complications. Some insurers decline to cover properties with these systems without updates.
+## The grant programs, and their calendar trap
 
-**Plumbing:** Lead pipes, galvanized steel pipes, and original clay or cast iron drain lines are all possibilities in older buildings. Understand what you have before you buy.
+The Ministry of Culture and Communications supports restoration through the
+Programme d'ententes en patrimoine. One of its components targets owners of
+classified property and of buildings located in a classified or declared
+heritage site. Eligible expenses cover professional fees, technical studies such
+as a building health record, restoration and preservation work, and related
+archaeological work. Excluded: renovation, extensions, building mechanical
+systems, energy insulation, and any work carried out without ministerial
+authorization.
 
-**Envelope:** Windows, doors, and the building's weather resistance generally. Original windows have character and can be restored, but they are not thermally efficient and may contribute to high heating costs.
+The City of Montreal runs its own assistance program for restoring and
+renovating heritage buildings, with a minimum job cost of $5,000 and a licensed
+contractor requirement. And one rule that costs people dearly: the work must not
+be carried out or even started before the subsidy is obtained. A buyer who
+starts the job the month he takes possession loses his eligibility.
 
-## Why They Remain a Good Choice in the Right Circumstances
+So the sequence is fixed: confirm the status, get the authorization, apply for
+the grant, and only then start. On the broader question of which work is worth
+doing at all before a resale, see [the renovations that do not add
+value](/en/articles/renovations-dont-add-value/).
 
-Despite all of the above, heritage properties are the right fit for the right buyers, and those buyers tend to be deeply satisfied. The character is irreplaceable. The locations are often exceptional. The appreciation history of well-maintained heritage properties in strong Montreal neighborhoods is excellent.
+## Inspecting an old building
 
-The key word is "right circumstances." A buyer with adequate reserves, patience for slower renovation permits, the right professional support network, and a genuine appreciation for preservation rather than a desire for a quick cosmetic flip can do very well with Montreal's heritage stock.
+It is not less useful than elsewhere, it is longer. The standard items are set
+out in [the pre-purchase inspection checklist, item by
+item](/en/articles/home-inspection-checklist-montreal/). For an older building,
+add these.
 
-The buyer who underestimates the complexity or overestimates their budget's flexibility is the one who ends up frustrated.
+**Asbestos.** Before 1990 it was used mainly for thermal insulation,
+soundproofing and fireproofing, and it also turns up in vinyl-asbestos tiles and
+asbestos-cement pipe. Left intact it releases no fibres; the risk appears when
+it is disturbed. Have it tested before any major renovation.
+
+**Vermiculite.** The vermiculite from the Libby mine, sold under the Zonolite
+brand until 1990, can contain asbestos, and Health Canada considers it
+reasonable to assume it does.
+
+**Lead paint.** Before 1960, paint could contain up to 50 per cent lead. The
+danger is the dust: no sanders, no heat guns, no blowtorches.
+
+**The lead water service line, in Montreal.** Buildings of fewer than 8 units
+built before 1970 are the most likely to have one. The City publishes an address
+by address map, and replacing the private portion is mandatory under by-law
+20-030, within 24 months of the notice of non compliance.
+
+**Stone foundation.** After a century, the stone is rarely the problem: it is
+the mortar that moves, and repointing calls for a compatible mortar, not modern
+cement. Have it looked at by someone who has seen one before.
+
+**Wood structure.** Original beams, joists and studs are read through water
+marks, old repairs, and openings widened without reinforcement.
+
+**Old wiring.** A period installation, or aluminum wiring, can lead the insurer
+to require a certificate of compliance from a master electrician.
+
+Finally, note that the Régie du bâtiment du Québec provides a procedure for
+equivalent or different measures for heritage buildings, with a dedicated form.
+That is the way out when compliance with the Code would collide with
+conservation.
+
+## Insurance, and the real question behind replacement cost
+
+Under the Cultural Heritage Act, an old house is a house built before 1940.
+Before shopping for a policy, assemble the file: legal status or inventory
+listing, citation by-law, notice of classification, then photos and invoices for
+the big items already redone, roof, heating, plumbing.
+
+Replacement cost is not an amount, it is a condition. Your policy generally
+provides compensation without depreciation being taken into account, but only if
+the item is actually replaced or the house rebuilt on the same piece of land.
+Otherwise, the compensation equals the value of the property at the time of
+loss, minus depreciation. And for an older building, rebuilding identically with
+traditional materials and methods does not cost the same as rebuilding with
+contemporary ones. That conversation belongs with the insurer before the
+purchase, not after the loss. The rest of the expenses nobody sees coming are in
+[the hidden costs of
+ownership](/en/articles/hidden-homeownership-costs/).
 
 ---
 
-*Considering a heritage property? [Let's talk through the specifics](/en/form/) before you make an offer.*
+*Have a specific address in mind and no idea whether it is classified, cited,
+inventoried or simply old? [Send it to me](/en/form/) and I will check the
+status and the applicable regulation before you make an offer.*
