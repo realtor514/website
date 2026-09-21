@@ -1,63 +1,167 @@
 ---
-title: "La vérité sur les guerres d'offres à Montréal (ce que le marché ne vous dit pas)"
+title: "Guerre d'offres à Montréal : comment fonctionne vraiment une surenchère au Québec"
 date: 2026-06-13
+lastmod: 2026-09-21
 category: "Guide de l'acheteur"
-description: "Les guerres d'offres semblent excitantes à la télévision. Dans la réalité, elles sont stressantes et pleines de pièges. Voici ce que la plupart des courtiers ne disent pas à voix haute."
+description: "Promesses d'achat multiples au Québec : ce que le courtier inscripteur doit faire, ce que le vendeur décide, la clause d'escalade et l'évaluation du prêteur."
 image: "images/articles/bidding-wars-truth-montreal/featured.jpg"
 ---
 
-Voici ce que la plupart des courtiers ne disent pas à voix haute : les guerres d'offres ne sont pas le signe d'un marché en santé. Ce sont le signe d'un marché où les acheteurs ont perdu leur levier, et où les émotions peuvent prendre le dessus sur la logique de façon dangereuse.
+Au Québec, ce qu'on appelle une guerre d'offres porte un nom plus précis dans
+les formulaires : une situation de promesses d'achat multiples. La nuance n'est
+pas cosmétique. Il n'y a pas d'encan, pas de prix à battre annoncé à voix
+haute. Il y a des règles écrites, un formulaire obligatoire, et un vendeur qui
+décide seul à la fin.
 
-Le premier réflexe, dans toute situation multi-offres, devrait être d'analyser les chiffres et non les émotions. Et ces chiffres, plus souvent qu'on ne le croit, racontent une histoire que l'excitation du moment tend à masquer. Le meilleur résultat est parfois celui où un acheteur **ne gagne pas** la guerre d'offres, parce que le prix a franchi un seuil où les chiffres n'ont plus de sens.
+## Le marché de 2026 n'est pas celui de 2021
 
-## Comment les guerres d'offres démarrent vraiment
+Selon l'APCIQ, 2 853 ventes résidentielles ont été conclues dans la RMR de
+Montréal en août 2026, une baisse de 13 % sur un an, avec 20 128 inscriptions
+en vigueur, en hausse de 18 % (communiqué du 4 septembre 2026). L'APCIQ précise
+tout de même que l'unifamiliale demeure à l'avantage des vendeurs dans la
+majorité des secteurs. Son prix médian dans la RMR était de 650 000 $, en
+hausse de 3 %, et son délai de vente moyen de 42 jours.
 
-La croyance commune, c'est que les guerres d'offres se produisent parce que trop de gens veulent la même maison. C'est en partie vrai. Mais voici ce qui se passe vraiment dans bien des cas : **certains vendeurs et leurs courtiers sous-cotent délibérément une propriété** pour générer une ruée d'offres et pousser le prix final au-dessus de la valeur marchande.
+La surenchère existe donc encore, mais elle n'est plus automatique.
 
-Certaines inscriptions sont cotées 10 à 15 % en dessous des ventes comparables, non pas parce que le vendeur est généreux, mais parce qu'il veut une frénésie d'enchères. La stratégie fonctionne. Les acheteurs voient un bon prix, se précipitent pour visiter, puis commencent à se concurrencer - parfois en payant plus qu'ils n'auraient payé si la propriété avait été listée à un prix réaliste dès le départ.
+## Ce que le courtier inscripteur doit faire
 
-Comprendre cette tactique change tout dans la façon d'aborder le processus.
+Le courtier du vendeur doit présenter à son client toute proposition de
+transaction dans les meilleurs délais suivant sa réception. C'est l'article 102
+du Règlement sur les conditions d'exercice d'une opération de courtage, sur la
+déontologie des courtiers et sur la publicité. L'article 101 lui interdit de
+retarder indûment la présentation d'une proposition obtenue par un autre
+courtier. L'OACIQ ajoute qu'elles sont présentées sans tenir compte de l'ordre
+chronologique de leur réception, de l'identité des acheteurs ou des courtiers,
+ni des circonstances entourant leur remise.
 
-## Les cinq erreurs les plus courantes chez les acheteurs
+Conséquence contre-intuitive : la stratégie qui consiste à recevoir toutes les
+promesses à une date et une heure données est, selon l'OACIQ, contraire à cette
+obligation. Si on vous impose une heure de tombée, demandez pourquoi.
 
-**1. Retirer la condition d'inspection pour "gagner"**
+## Ce qu'il peut dire, et ce qu'il ne peut pas dire
 
-C'est la plus coûteuse des cinq. Dans un marché chaud, les acheteurs commencent à retirer des conditions - notamment l'inspection - pour rendre leur offre plus attrayante. La logique se comprend. Elle tient beaucoup moins quand un acheteur découvre un problème de fondation à 40 000 $ deux semaines après la prise de possession.
+L'article 96 du même règlement est décisif : le courtier doit révéler au
+courtier collaborateur l'existence de toute proposition de transaction,
+acceptée ou non, mais il ne peut pas lui en dévoiler le contenu.
 
-La règle est simple : ne jamais retirer la condition d'inspection sans une inspection pré-offre, c'est-à-dire en engageant un inspecteur *avant* de soumettre l'offre. Si le vendeur ne permet pas une inspection pré-offre, c'est en soi un signal d'alarme qui mérite discussion.
+Vous saurez donc qu'il y a d'autres promesses, et combien. Vous ne saurez ni
+leur prix ni leurs conditions. Cette confidentialité vaut pour tout acheteur, y
+compris celui qui n'est pas représenté : le courtier du vendeur ne peut pas lui
+conseiller le montant à inscrire. Dans son mémoire déposé au ministère des
+Finances le 8 septembre 2021, l'OACIQ écrit que la confidentialité est un
+privilège de l'acheteur, et que lui seul peut en relever son courtier.
 
-**2. Ajouter une clause d'escalade sans plafond**
+## Le vendeur n'est jamais obligé de prendre la plus haute offre
 
-Les clauses d'escalade - "surenchérir toute offre de 5 000 $" - semblent astucieuses. Sans plafond clair, elles ne le sont pas. Un acheteur peut se retrouver à 68 000 $ au-dessus de son maximum prévu à cause d'une clause d'escalade mal encadrée. Fixez votre plafond avant de rédiger la clause.
+Le vendeur a le droit de refuser une promesse d'achat même si le prix et les
+conditions correspondent à ses attentes, comme le prévoit son contrat de
+courtage. Son courtier pourrait alors réclamer une rétribution, en vertu de la
+clause 7.1.2 de ce contrat. Il ne peut pas non plus réduire cette rétribution
+pour faciliter une offre : cela favoriserait un promettant acheteur par rapport
+aux autres.
 
-**3. Confondre gagner et réussir**
+Le vendeur peut accepter, refuser, ou contre-proposer. La clause 14.1 du
+formulaire Promesse d'achat est sans ambiguïté : toute contre-proposition du
+vendeur a le même effet qu'un refus, et l'absence de réponse dans le délai rend
+la promesse nulle. Le prix n'est donc qu'une variable parmi d'autres : la date
+de signature, l'acompte, les conditions conservées et les délais pèsent aussi.
 
-Gagner une guerre d'offres n'est pas la même chose qu'effectuer un bon achat. Le succès en immobilier signifie acheter une propriété qui répond à vos besoins à un prix soutenu par les données du marché. La phrase à se répéter avant toute offre multiple : "Il y a un maximum. Quand on l'atteint, on passe. Il y aura une autre propriété."
+## Bonifier son offre : le bon outil
 
-**4. Se laisser presser par les délais**
+Une fois signée, votre promesse ne se modifie pas. Pour l'améliorer avant
+qu'elle soit acceptée, refusée ou expirée, votre courtier remplit le formulaire
+obligatoire Bonifications avant acceptation. Ce n'est pas une
+contre-proposition. L'OACIQ déconseille d'en enchaîner plusieurs, parce qu'une
+nouvelle bonification n'annule pas les précédentes. Et surtout, ceci, écrit
+dans son guide des pratiques professionnelles : ne pas bonifier sa promesse
+d'achat doit toujours faire partie des options présentées à l'acheteur.
 
-Les vendeurs en situation multi-offres fixent souvent des délais très courts - parfois 24 à 48 heures. Cette pression est intentionnelle. Prenez le temps qu'il vous faut. Si une propriété vous convient au bon prix, soumettre une heure avant la limite est identique à soumettre en premier.
+## La clause de révision de prix, dite clause d'escalade
 
-**5. Négliger l'analyse des comparables**
+L'idée circule : une clause qui surpasserait automatiquement la meilleure offre
+de quelques milliers de dollars, jusqu'à un plafond.
 
-Dans un moment compétitif, il est facile de se convaincre que c'est cette maison-là et pas une autre. Encore faut-il savoir ce qu'elle vaut. Avant toute soumission d'offre, une analyse détaillée des comparables situe exactement la valeur marchande réelle.
+Vérification faite, l'OACIQ ne publie ni formulaire ni clause type de ce genre.
+Parmi sa cinquantaine de formulaires, deux seuls font bouger un prix : la
+Contre-proposition et les Bonifications avant acceptation. Une clause
+d'escalade devrait donc être rédigée à la main dans la clause 12.1, Autres
+déclarations et conditions.
 
-## Ce qu'un courtier doit faire concrètement en multi-offres
+C'est là que l'article 96 la vide de son sens. Son déclencheur serait le
+contenu d'une promesse concurrente, contenu que personne n'a le droit de vous
+montrer. Vous vous engageriez à payer un prix fixé par un document que vous ne
+verrez jamais. Ce n'est pas une astuce, c'est un chèque en blanc.
 
-Voici le processus à suivre quand un acheteur se trouve en situation compétitive :
+## Le prix demandé n'est pas la valeur marchande
 
-- Demander une divulgation complète sur l'existence et le nombre d'autres offres
-- Construire un modèle de comparables le jour même de la soumission
-- Appeler le courtier inscripteur pour comprendre les priorités du vendeur (parfois ce n'est pas que le prix: la date de clôture, la flexibilité sur les conditions, ou la connexion personnelle comptent)
-- Cibler les une ou deux conditions qui valent la peine d'être maintenues
-- Fixer un plafond absolu avant de commencer, et le respecter même quand les émotions montent
+Le prix demandé est une décision de mise en marché. La valeur marchande est une
+analyse. Selon l'article 76 du règlement, un courtier ne peut émettre une
+opinion sur la valeur d'un immeuble que si elle est fondée et motivée
+conformément aux usages et aux règles de l'art. En résidentiel, la méthode
+usuelle est l'analyse comparative.
 
-## Quand se retirer
+L'OACIQ est aussi explicite sur l'autre bout du problème : fixer un prix
+nettement inférieur à la valeur marchande et aux comparables utilisés, dans le
+but de créer une compétition, n'est pas permis. C'est écrit sur sa page
+destinée aux vendeurs, mise à jour le 17 décembre 2025.
 
-La règle générale : si gagner exige de payer plus de 8 à 10 % au-dessus de votre propre analyse des comparables, il vous faut une raison très précise pour continuer.
+## L'évaluation du prêteur peut casser la transaction
 
-Ne pas vouloir perdre n'est pas une raison. C'est la peur qui parle. Et la peur est l'émotion la plus coûteuse en immobilier.
+Votre prêteur ne finance pas un prix, il finance une valeur. La SCHL définit la
+valeur d'emprunt comme le moins élevé des montants suivants : la valeur
+marchande de la propriété, son prix d'achat ou son coût de construction. Si
+votre surenchère dépasse la valeur retenue, l'écart se comble en argent
+comptant, en plus de votre mise de fonds.
+
+L'OACIQ précise qu'un engagement de prêt assorti de conditions du prêteur,
+comme une évaluation préalable de l'immeuble pouvant affecter le prêt, n'est
+pas l'engagement inconditionnel exigé par la clause 6.2 de la promesse d'achat.
+Une [préautorisation
+hypothécaire](/articles/mortgage-preapproval-mistakes/) n'en est pas un non
+plus. Faute d'engagement dans le délai, la clause 6.3 permet au vendeur de vous
+désigner un prêteur ou de rendre la promesse nulle.
+
+## Les conditions qu'on est tenté de retirer
+
+La section 8 du formulaire Promesse d'achat porte un avertissement en
+majuscules : une promesse sans clause d'inspection n'est appropriée que dans
+des circonstances particulières, par exemple lorsqu'on prévoit remplacer
+l'immeuble ou y apporter des rénovations majeures. L'acheteur qui renonce
+paraphe une déclaration reconnaissant avoir été informé des risques par son
+courtier.
+
+L'article 81 oblige le courtier à recommander une inspection complète par un
+professionnel ou un inspecteur en bâtiment assuré, qui suit une norme de
+pratique reconnue et remet un rapport écrit. Dans son mémoire de septembre
+2021, l'OACIQ notait que les renonciations à l'inspection préachat avaient
+grandement augmenté en contexte de surchauffe, et proposait de la rendre
+obligatoire par une réforme du Code civil.
+
+Avant d'y renoncer, lisez [ce que coûte une inspection préachat et quand la
+faire](/articles/inspection-preachat-cout-moment-quebec/) et préparez votre
+visite avec [cette liste](/articles/first-visit-property-checklist/).
+
+## Ce que vous pouvez exiger de votre propre courtier
+
+Depuis le 10 juin 2022, la double représentation est interdite en résidentiel
+et les contrats de courtage verbaux ne valent plus rien : pour être représenté,
+vous signez un contrat de courtage achat. Il vous donne des droits précis.
+L'article 5 oblige votre courtier à vérifier les renseignements qu'il vous
+fournit et à toujours être en mesure d'en démontrer l'exactitude. L'article 84
+l'oblige à entreprendre les démarches pour découvrir les facteurs pouvant vous
+affecter défavorablement. Et l'OACIQ résume la commande : le courtier de
+l'acheteur doit l'aider à établir le prix à offrir en lui présentant une
+analyse des propriétés comparables.
+
+Demandez-la par écrit, avec les ventes retenues, les ajustements appliqués et
+la date des données. Un plafond construit ainsi tient, même à 23 h, même quand
+on vous dit qu'il y a six autres promesses. Et si la vôtre est refusée, la
+suite se joue dans les deux semaines qui suivent : [comment ne pas surpayer la
+prochaine fois](/articles/losing-bidding-war-lessons/).
 
 ---
 
-*Vous envisagez une propriété spécifique ? [Demandez les comparables](/formulaire/) et sachez exactement ce qu'elle vaut avant de soumettre le moindre dollar.*
+*Vous visez une propriété précise et vous voulez un plafond défendable ?
+[Écrivez-moi](/formulaire/), on bâtit l'analyse comparative avant d'écrire le
+premier chiffre.*

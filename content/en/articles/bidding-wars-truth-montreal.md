@@ -1,73 +1,160 @@
 ---
-title: "The Truth About Bidding Wars in Montreal (What the Market Won't Tell You)"
+title: "Bidding Wars in Montreal: How a Multiple-Offer Situation Really Works in Quebec"
 date: 2026-06-13
+lastmod: 2026-09-21
 category: "Buyer's Guide"
-description: "Bidding wars sound exciting on TV. In real life, they're stressful, expensive, and full of traps. Here's what most brokers won't say out loud."
+description: "Multiple promises to purchase in Quebec: what the listing broker must do, what the seller decides, escalation clauses, and the lender's appraisal risk."
 image: "images/articles/bidding-wars-truth-montreal/featured.jpg"
 ---
 
-Here is something most brokers won't say out loud: bidding wars are not a sign of a healthy market. They're a sign of a market where buyers have lost leverage, and where emotions can override logic in dangerous ways.
+In Quebec, what people call a bidding war has a more precise name on the
+forms: a multiple promise to purchase situation. The difference is not
+cosmetic. There is no auction, no leaderboard, no price to beat announced out
+loud. There are written rules, a mandatory form, and a seller who decides alone
+at the end.
 
-The first instinct in any multiple-offer situation should be to run the numbers, not the emotions. And those numbers, more often than people expect, tell a story the excitement of the moment tends to hide. Sometimes the best outcome is the one where a buyer does **not** win the bidding war, because the price had crossed a line where the math no longer made sense.
+## The 2026 market is not the 2021 market
 
-## How Bidding Wars Actually Start
+According to the QPAREB (APCIQ), 2,853 residential sales closed in the Montreal
+CMA in August 2026, down 13% year over year, with 20,128 active listings, up
+18% (press release of September 4, 2026). The association still notes that the
+single-family segment remains in sellers' favour in most sectors of the CMA.
+Its median price in the CMA was $650,000, up 3%, with an average selling time
+of 42 days.
 
-The common belief is that bidding wars happen because too many people want the same house. That's partially true. But here's what's really happening in many cases: **some sellers and their brokers deliberately underprice a property** to generate a rush of offers and push the final price above market value.
+So overbidding still happens. It just is not automatic any more.
 
-Some listings are priced 10-15% below comparable sales, not because the seller is generous, but because they want a bidding frenzy. The strategy works. Buyers see a great price, rush to visit, and then start competing against each other - sometimes paying more than they would have if the property had been listed at a realistic price from the start.
+## What the listing broker must do
 
-Understanding this tactic changes everything about how you should approach the process.
+The seller's broker must present his client with any transaction proposal as
+soon as possible after receiving it. That is section 102 of the Regulation
+respecting brokerage requirements, professional conduct of brokers and
+advertising. Section 101 forbids him from unduly delaying the presentation of a
+proposal obtained by another licensee. The OACIQ adds that promises are
+presented without regard to the chronological order in which they were
+received, the identity of the buyers or their brokers, or the circumstances
+surrounding their submission.
 
-## The Five Most Common Buyer Mistakes
+Here is the counter-intuitive part: the strategy of collecting every promise to
+purchase at one set date and time is, according to the OACIQ, contrary to that
+obligation. If you are handed a deadline, ask why it exists.
 
-**1. Removing the inspection condition to "win"**
+## What he may say, and what he may not
 
-This is the costliest of the five. In a hot market, buyers start removing conditions - particularly the inspection - to make their offer more attractive. The logic is understandable. It holds up far less well when a buyer discovers a $40,000 foundation problem two weeks after possession.
+Section 96 of the same regulation is the decisive one: the broker must disclose
+to a collaborating broker the existence of any transaction proposal, accepted
+or not, but he may not disclose its content.
 
-The rule is simple: never remove the inspection condition without a pre-offer inspection, meaning you hire an inspector *before* you submit your offer. If the seller won't allow a pre-offer inspection on an occupied home, that itself is a red flag worth discussing.
+So you will learn that other promises exist, and how many. You will not learn
+their price or their conditions. That confidentiality applies to every buyer,
+including one who is not represented: the seller's broker cannot advise him on
+the amount to write. In the brief it filed with the Ministère des Finances on
+September 8, 2021, the OACIQ states that confidentiality is a privilege that
+belongs to the buyer, and that only the buyer can release his broker from it.
 
-**2. Adding an escalation clause without a ceiling**
+## The seller never has to take the highest offer
 
-Escalation clauses - "beat any offer by $5,000" - seem clever. Without a clear ceiling, they're not. A buyer can end up $68,000 over their intended maximum because of an escalation clause with a high ceiling they hadn't truly thought through. Set your ceiling before you write the clause, and treat it as an absolute limit.
+The seller has the right to refuse a promise to purchase even when the price
+and conditions match his expectations, as his brokerage contract provides. His
+broker may then claim remuneration for his services under clause 7.1.2 of that
+contract. The broker also may not reduce that remuneration to help one offer
+along: it would favour one promising buyer over the others.
 
-**3. Confusing winning with success**
+The seller may accept, refuse, or counter. Clause 14.1 of the Promise to
+purchase form leaves no room: any counter-proposal by the seller has the same
+effect as a refusal, and no reply within the deadline makes the promise null.
+Price is therefore one variable among several. The closing date, the deposit,
+the conditions you keep and the deadlines all weigh in.
 
-Winning a bidding war is not the same as making a good purchase. Success in real estate means buying a property that meets your needs at a price supported by real market data. The line to repeat before going into multiple offers: "There is a maximum. When it is reached, we walk. There will be another property."
+## Improving your offer: the right tool
 
-**4. Letting the timeline pressure you**
+Once signed, your promise cannot be edited. To improve it before it is
+accepted, refused or expired, your broker fills out the mandatory Enhancements
+prior to acceptance form. It is not a counter-proposal. The OACIQ advises
+against stacking several of them, because a new enhancement does not cancel the
+previous ones. And above all, this line from its professional practices guide:
+not enhancing the promise to purchase must always be one of the options
+presented to the buyer.
 
-Sellers in multiple-offer situations often set very short offer review deadlines - sometimes 24 to 48 hours. This pressure is intentional. Take the time you need. If a property is right for you at the right price, submitting an hour before deadline is identical to submitting first.
+## The price revision clause, better known as the escalation clause
 
-**5. Skipping comparables analysis**
+The idea circulates: a clause that would automatically beat the best offer by a
+few thousand dollars, up to a ceiling.
 
-In a competitive moment, it's easy to become convinced that this is the house and no other. Knowing what it's worth still matters. Before any offer submission, a detailed comparables analysis shows exactly where fair market value sits. Going $10,000 over asking on a $600,000 property might be smart if asking was $40,000 below market. It might be terrible if asking was already $30,000 above.
+Having checked, the OACIQ publishes no form and no model clause of that kind.
+Among its roughly fifty forms, only two move a price: the Counter-proposal and
+the Enhancements prior to acceptance. An escalation clause would therefore have
+to be typed by hand into clause 12.1, Other declarations and conditions.
 
-## What a Broker Should Actually Do in Multiple Offers
+That is where section 96 empties it of meaning. The trigger would be the
+content of a competing promise, content nobody is allowed to show you. You
+would be committing to a price set by a document you will never see. It is not
+a clever tactic. It is a blank cheque.
 
-Here is the process to follow when a buyer is in a competitive situation:
+## The asking price is not the market value
 
-- Request full disclosure on whether other offers exist and how many
-- Build a comparables model the day of offer submission, not the day of the visit
-- Call the listing broker to understand seller priorities (sometimes it's not just price: closing date, flexibility on conditions, or personal connection matters)
-- Identify the one or two conditions worth keeping and how to frame them professionally
-- Set a hard ceiling before starting, and enforce it even when emotions run high
+The asking price is a marketing decision. Market value is an analysis. Under
+section 76 of the regulation, a broker may express an opinion on the value of
+an immovable only if it is based on and supported by generally accepted
+practice. In residential, the usual method is the comparative market analysis.
 
-That last point is uncomfortable in the moment. Buyers are often frustrated in the minutes after losing a bidding war. Three months later, many of those same buyers are grateful, because they ended up in a better property at a better price.
+The OACIQ is just as explicit about the other end of the problem: setting a
+price significantly below market value and below the comparables used, in order
+to create competition, is not allowed. It is written on its page for sellers,
+updated December 17, 2025.
 
-## When to Walk Away
+## The lender's appraisal can break the deal
 
-The rule of thumb: if winning requires paying more than 8-10% above your own comparables analysis, you need a very specific reason to proceed. Maybe the property has unique characteristics not captured in comparable sales. Maybe it's the last available lot in a school district. Maybe there's a personal reason that genuinely has value.
+Your lender does not finance a price, it finances a value. CMHC defines lending
+value as the lowest of the following: the property's market value, its purchase
+price, or its construction cost. If your overbid exceeds the value retained,
+you cover the gap in cash, on top of your down payment.
 
-But not wanting to lose is not a reason. That's fear talking. And fear is the most expensive emotion in real estate.
+The OACIQ also specifies that a loan undertaking subject to lender conditions,
+such as a prior appraisal of the property that could affect the loan, is not
+the unconditional undertaking required by clause 6.2 of the promise to
+purchase. A [mortgage pre-approval](/en/articles/mortgage-preapproval-mistakes/)
+is not one either. Without that undertaking on time, clause 6.3 lets the seller
+designate a lender to you, or render the promise null.
 
-## The Montreal Market in 2025
+## The conditions people are tempted to drop
 
-Montreal's market has moderated compared to the frenzy of 2021-2022, but well-priced properties in strong neighborhoods - NDG, Plateau, Laval's Duvernay and Sainte-Rose sectors, Laval-des-Rapides - still attract multiple offers regularly.
+Section 8 of the Promise to purchase form carries a warning in capitals: a
+promise without an inspection clause is appropriate only in particular
+circumstances, for instance when the building is to be replaced or heavily
+renovated. A buyer who waives it initials a statement acknowledging that his
+broker informed him of the risks.
 
-The difference now is that buyers have slightly more time and slightly more leverage. Use it. Get the inspection. Check the comparables. Set the ceiling.
+Section 81 requires the broker to recommend a complete inspection by an insured
+professional or building inspector who follows a recognized practice standard
+and delivers a written report. In its September 2021 brief, the OACIQ noted
+that waivers of the pre-purchase inspection had increased greatly during the
+overheating period, and proposed making the inspection mandatory through a
+Civil Code reform.
 
-The house you win by keeping your head will almost always be better than the one you overpay for in a panic.
+Before you waive it, read [what an inspection costs and when to do
+it](/en/articles/home-inspection-cost-timing-quebec/) and prepare your showing
+with [this checklist](/en/articles/first-visit-property-checklist/).
+
+## What you can require of your own broker
+
+Since June 10, 2022, double representation is prohibited in residential and
+verbal brokerage contracts are worthless: to be represented, you sign a
+brokerage contract to purchase. It gives you specific rights. Section 5 requires
+your broker to verify the information he gives you and to always be able to
+demonstrate its accuracy. Section 84 requires him to take steps to discover the
+factors that could adversely affect you. And the OACIQ sums up the assignment:
+the buyer's broker must help his client set the price to offer by presenting
+him with an analysis of comparable properties.
+
+Ask for it in writing, with the sales retained, the adjustments applied and the
+date of the data. A ceiling built that way holds, even at 11 p.m., even when
+you are told there are six other promises. And if yours is refused, the next
+two weeks decide the rest: [how not to overpay next
+time](/en/articles/losing-bidding-war-lessons/).
 
 ---
 
-*Have a specific property you're considering? [Request the comparables](/en/form/) and know exactly what it's worth before submitting a dollar.*
+*Have a specific property in mind and want a defensible ceiling? [Write
+me](/en/form/) and we build the comparative analysis before the first number
+goes on paper.*
