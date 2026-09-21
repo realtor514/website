@@ -8,7 +8,11 @@
 (function () {
   'use strict';
   var KEY = 'gm-consent-v1';
-  var ID  = {{ . | jsonify }};
+  {{/* Les guillemets sont ecrits ici, pas produits par le filtre: `jsonify`
+       ajoutait une deuxieme paire de guillemets a l interieur de la chaine,
+       ce qui rendait l adresse envoyee a Google invalide et empechait toute
+       mesure sans afficher la moindre erreur. */}}
+  var ID  = "{{ . }}";
 
   function loadGA() {
     if (window.__gmGaLoaded) return;
