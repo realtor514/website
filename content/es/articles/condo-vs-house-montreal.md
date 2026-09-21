@@ -124,7 +124,8 @@ La SCHL incluye el 50 % de las cuotas de condominio en el cálculo del servicio
 bruto y del servicio total de la deuda, razones que limita al 39 % y al 44 %.
 La aportación inicial mínima de un préstamo asegurado es del 5 % sobre los
 primeros 500 000 $ y del 10 % sobre el resto, para un valor inferior a
-1 500 000 $, con una amortización máxima de 25 años. Una casa al mismo precio no
+1 500 000 $, con una amortización máxima de 25 años, o de 30 años para un
+primer comprador o una construcción nueva. Una casa al mismo precio no
 tiene línea de cuotas, pero sus impuestos y su calefacción entran en las mismas
 razones. Haga correr los dos escenarios desde la
 [preaprobación](/es/articles/guide-hypotheque-premier-acheteur-quebec/).

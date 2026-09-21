@@ -95,8 +95,9 @@ Tres reglas públicas enmarcan el cálculo, y conocerlas evita malas sorpresas.
   podría pagarla.
 - **Crédito y cuota inicial.** Para un préstamo asegurado por la SCHL, al menos
   un prestatario o garante necesita un puntaje de crédito de 600 como mínimo. En
-  la cuota inicial, la ACFC fija el mínimo en 5 % hasta 500 000 $, luego 10 %
-  sobre la porción por encima, y 20 % a partir de 1,5 millones de dólares.
+  la cuota inicial, según las reglas federales, explicadas por la ACFC, el
+  mínimo es de 5 % hasta 500 000 $, luego 10 % sobre la porción por encima, y
+  20 % a partir de 1,5 millones de dólares.
 
 Pruebe sus propias cifras con la
 [calculadora de capacidad de compra](/es/tools/affordability/) antes de reunirse

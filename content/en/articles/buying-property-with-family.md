@@ -62,10 +62,12 @@ therefore demand the end of the arrangement, without justifying it.
 
 You can defer that right, not extinguish it. Co-owners may agree in writing to
 defer partition, for a maximum of 30 years, renewable (art. 1013). A court may
-also stay an immediate partition for no more than two years (art. 1032). In
-the other direction, three quarters of the co-owners representing 90 % of the
-shares may put an end to the undivided co-ownership of an immovable
-(art. 1031).
+also stay an immediate partition for no more than two years (art. 1032).
+Article 1031 also allows three quarters of the co-owners representing 90 % of
+the shares, despite any agreement to the contrary, to end the undivided
+co-ownership of an immovable used mainly for housing, but only to convert it
+into divided co-ownership (a condo): the others may then pay out in cash the
+share of those who object. It is not a general way to push out a co-owner.
 
 Article 1022 adds a safety net: if someone outside the indivision buys a
 co-owner's share, the others have 60 days from learning of it to remove that

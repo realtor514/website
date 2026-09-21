@@ -1,7 +1,7 @@
 ---
 title: "Inheriting Property in Quebec: What Heirs Need to Know Before Selling or Keeping"
 date: 2026-05-16
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Real Estate 101"
 description: "Liquidator, notary, declaration of transmission, tax at death, welcome tax and the empty house: the steps before you sell, buy out or keep an inherited home."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
@@ -17,7 +17,7 @@ The liquidator (liquidateur, the Quebec term for an executor) runs the estate: i
 
 Unless the will gives broader powers, the liquidator cannot sell the house alone. That takes the heirs' consent or, failing that, the court's authorization.
 
-The notary handles every step that touches the property: verifying the will, the declaration of transmission, the deed of sale or partition. If the deceased was married or in a civil union, the partition of the family patrimony, which normally includes the family residence, is settled as well.
+The notary handles every step that touches the property: verifying the will, the declaration of transmission, the deed of sale or partition. If the deceased was married or in a civil union, the partition of the family patrimony, which normally includes the family residence, is settled as well. Since June 30, 2025, the same applies to a couple in a parental union: the value of the parental union patrimony, which includes the family residences, is divided equally between the surviving partner and the heirs. The notary confirms which regime applies.
 
 ## Step one: find the right will
 
@@ -28,7 +28,7 @@ A single will search request then covers the registers of both the Chambre des n
 - **Notarial will**: no verification needed. The liquidator can act quickly.
 - **Holograph will or will made before witnesses**: it must be verified (probated) by the court or a notary. Expect several weeks with the estate essentially frozen.
 
-Without a will, the Civil Code determines the heirs, and a common-law partner is not always among them.
+Without a will, the Civil Code determines the heirs. A spouse by marriage, civil union or parental union is one of them: with children, the spouse receives one third of the estate and the children two thirds. A common-law partner therefore inherits only if they were in a parental union with the deceased at the time of death, which as a rule means a common child born or adopted on or after June 30, 2025. Otherwise, they inherit nothing without a will.
 
 ## The declaration of transmission: the step that unlocks the house
 

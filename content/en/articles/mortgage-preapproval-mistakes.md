@@ -89,9 +89,9 @@ surprises.
   mortgages: the greater of the contract rate plus 2% or 5.25%. You do not
   borrow at that rate, you have to show you could carry it.
 - **Credit and down payment.** For a CMHC insured loan, at least one borrower or
-  guarantor needs a credit score of at least 600. On the down payment, FCAC sets
-  the minimum at 5% up to $500,000, then 10% on the portion above that, and 20%
-  from $1.5 million.
+  guarantor needs a credit score of at least 600. On the down payment, under
+  federal rules, as explained by FCAC, the minimum is 5% up to $500,000, then
+  10% on the portion above that, and 20% from $1.5 million.
 
 Run your own figures through the
 [affordability calculator](/en/tools/affordability/) before you meet anyone.

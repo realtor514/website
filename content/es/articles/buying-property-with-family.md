@@ -62,9 +62,12 @@ tanto exigir el fin de la indivisión, sin justificarse.
 Ese derecho se puede aplazar, no extinguir. Los indivisarios pueden acordar
 por escrito diferir la partición, por un máximo de 30 años, renovable
 (art. 1013). El tribunal también puede suspender la partición inmediata, por
-un máximo de dos años (art. 1032). Y en sentido contrario, tres cuartas partes
-de los indivisarios que representen el 90 % de las cuotas pueden poner fin a
-la indivisión de un inmueble (art. 1031).
+un máximo de dos años (art. 1032). El artículo 1031 permite además a tres
+cuartas partes de los indivisarios que representen el 90 % de las cuotas, pese
+a cualquier convenio en contrario, poner fin a la indivisión de un inmueble
+destinado principalmente a vivienda, pero solo para convertirlo en copropiedad
+dividida (condominio): los demás pueden entonces pagar en dinero la cuota de
+quienes se opongan. No es una vía general para apartar a un copropietario.
 
 El artículo 1022 añade una red: si un extraño a la indivisión compra la cuota
 de un copropietario, los demás disponen de 60 días desde que lo saben para

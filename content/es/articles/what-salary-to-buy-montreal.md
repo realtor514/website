@@ -1,6 +1,7 @@
 ---
 title: "¿Qué salario se necesita para comprar en Montreal o Laval?"
 date: 2026-05-06
+lastmod: 2026-09-21
 translationKey: "article-quel-salaire-acheter"
 category: "Financiamiento"
 description: "La pregunta no es solo el salario. Así calculan realmente los prestamistas su capacidad de endeudamiento en Quebec, y por qué dos personas con el mismo ingreso no obtienen el mismo monto."
@@ -15,9 +16,9 @@ Dos personas que ganan exactamente el mismo salario pueden ser aprobadas por mon
 
 Las instituciones financieras canadienses usan dos razones de servicio de deuda.
 
-**El ABD, amortización bruta de la deuda.** Es la porción de su ingreso bruto mensual destinada a la vivienda: pago hipotecario, impuestos municipales y escolares, calefacción y la mitad de las cuotas de condominio si corresponde. El límite habitual ronda el 32 %, a veces algo más según el expediente.
+**El ABD, amortización bruta de la deuda.** Es la porción de su ingreso bruto mensual destinada a la vivienda: pago hipotecario, impuestos municipales y escolares, calefacción y la mitad de las cuotas de condominio si corresponde. Para un préstamo asegurado, la SCHL (CMHC) fija el límite en el 39 %.
 
-**El ATD, amortización total de la deuda.** Lo mismo, más todas sus otras deudas: préstamo de auto, línea de crédito, tarjetas de crédito, préstamo estudiantil, pensión alimenticia. El límite habitual ronda entre el 40 % y el 44 %.
+**El ATD, amortización total de la deuda.** Lo mismo, más todas sus otras deudas: préstamo de auto, línea de crédito, tarjetas de crédito, préstamo estudiantil, pensión alimenticia. Para un préstamo asegurado, el límite de la SCHL es del 44 %. Algunos prestamistas aplican límites más estrictos.
 
 Es el ATD el que bloquea la mayoría de los expedientes, no el salario.
 
@@ -43,7 +44,7 @@ Las reglas canadienses de pago inicial mínimo son progresivas:
 
 - 5 % sobre los primeros 500 000 dólares del precio
 - 10 % sobre la porción entre 500 000 y 1 500 000 dólares
-- 20 % por encima de 1 500 000 dólares
+- 20 % del precio completo a partir de 1 500 000 dólares
 
 Por debajo del 20 %, el seguro hipotecario es obligatorio. Esa prima se suma al monto prestado y por lo tanto aumenta su pago mensual, lo que a su vez reduce su capacidad de compra.
 
@@ -79,4 +80,4 @@ Para completar, lea [el costo real de comprar su primera vivienda en Quebec](/es
 
 ---
 
-*¿Quiere saber qué permite realmente su situación? [Escríbame](/es/formulario/). Puedo referirlo a corredores hipotecarios que hacen este cálculo correctamente, sin costo para usted.*
+*¿Quiere saber qué permite realmente su situación? [Escríbame](/es/formulario/). Puedo referirlo a corredores hipotecarios certificados por la AMF.*

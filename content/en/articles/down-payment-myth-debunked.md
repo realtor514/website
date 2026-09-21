@@ -1,7 +1,7 @@
 ---
 title: "The 20% Down Payment Myth: Why It's Holding Buyers Back"
 date: 2026-07-25
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Finance"
 description: "The real minimum down payment in Quebec, what CMHC insurance actually costs, the QST you have to pay in cash at closing, and how to tell whether waiting pays you or costs you."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"
@@ -44,6 +44,10 @@ percentage of the amount borrowed, and it depends on your down payment:
 - 10% to 14.99% down: 3.10% premium
 - 15% to 19.99% down: 2.80% premium
 
+A 30-year amortization, available when at least one borrower is a first-time
+buyer or the home is newly built, adds 0.20 point to the premium: 4.20% instead
+of 4.00%, for example.
+
 On a $500,000 property with 10% down, the loan is $450,000 and the premium is
 $13,950. It is not paid in cash: it is added to your mortgage principal.
 
@@ -77,6 +81,7 @@ assumptions, not forecasts: use the ones that seem realistic for your sector.
 
 | Annual appreciation | Price in 3 years | 20% to save | Gap versus $100,000 |
 |---|---|---|---|
+| 3% decline | $456,337 | $91,267 | $8,733 less |
 | 0% | $500,000 | $100,000 | none |
 | 3% | $546,364 | $109,273 | $9,273 more |
 | 5% | $578,813 | $115,763 | $15,763 more |
@@ -86,9 +91,12 @@ That is what creates the feeling of running without moving forward.
 
 And during those three years, had you bought, that same appreciation would have
 worked for you: $46,364 in equity at 3%, $78,813 at 5%. Compare that to the
-$13,950 premium you were trying to avoid.
+$13,950 premium you were trying to avoid. Conversely, with a 3% decline per year,
+the property would have lost $43,663 in value, on top of the premium paid. This
+comparison leaves out mortgage interest, municipal and school taxes, upkeep and
+closing costs.
 
-In a flat market the trade-off reverses completely: waiting costs nothing in
+In a flat or declining market the trade-off reverses: waiting costs nothing in
 lost appreciation, and avoiding the premium becomes a net gain. That is why the
 answer cannot be the same for everyone.
 
@@ -148,8 +156,8 @@ frames the other three.
 ## The bottom line
 
 For a first time buyer with stable income, a solid emergency fund and realistic
-expectations, buying with 5 to 10% down is often better than waiting three
-years. For a buyer stretching to the limit or with uncertain income, waiting and
+expectations, buying with 5 to 10% down rather than waiting three years can be
+worthwhile depending on your situation. For a buyer stretching to the limit or with uncertain income, waiting and
 consolidating is the right call.
 
 The inherited rule does not tell those two people apart. The calculation does.

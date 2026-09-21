@@ -1,7 +1,7 @@
 ---
 title: "Home Inspection in Quebec: What It Costs and When to Do It"
 date: 2026-07-15
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-inspection-cout-moment"
 category: "Buyer's Guide"
 description: "Before the offer or after? Who pays? How much? Here are the answers to the questions Quebec buyers ask most about inspections, and the mistake that costs the most."
@@ -28,7 +28,7 @@ It feels like a large expense at the exact moment you are draining your savings 
 
 The buyer, in almost every case. You hire the inspector, you pay the inspector, and the report belongs to you.
 
-That matters: the report is your document. You are not required to hand it to the seller, unless you use it to renegotiate or to withdraw, in which case you will generally have to provide the relevant portion.
+That matters: the report is your document. You are not required to hand it to the seller, unless you want to withdraw under the inspection condition: the promise to purchase then requires you to give the seller a copy of the report, not just an excerpt (see below).
 
 Be wary of an inspection paid for or supplied by the seller. It is not necessarily dishonest, but the inspector was chosen by the other party. If the seller presents you with an existing report, read it, then get your own anyway.
 
@@ -36,11 +36,13 @@ Be wary of an inspection paid for or supplied by the seller. It is not necessari
 
 That is the real question, and the answer is: after the offer, but with an inspection condition.
 
-Here is why. In Quebec the normal approach is to make a promise to purchase conditional on a satisfactory inspection. You then have a window, generally seven to ten days, to have the property inspected. If the report reveals a significant problem, you can renegotiate the price, require corrections, or withdraw without penalty.
+Here is why. In Quebec the normal approach is to make a promise to purchase conditional on an inspection. You then have a window, generally seven to ten days, to have the property inspected. If the inspection reveals a factor likely to significantly reduce the value or revenues of the property or increase its expenses, clause 8.1 of the OACIQ promise to purchase lets you withdraw without penalty, on one strict condition: notify the seller in writing and hand over a copy of the inspection report, no later than the fourth day after the inspection period expires, before 8 p.m. The promise becomes null and void as soon as the seller receives that notice with the report. If you do not notify the seller within that deadline and in that manner, you are deemed to have waived the condition.
+
+The form gives you no right to require repairs. A price reduction or repair work can only be obtained by agreement with the seller, recorded on the Amendments form, and that negotiation happens before the notice is sent, since the notice ends the promise. Watch the deadline while you negotiate: if it expires with neither an agreement nor a notice, the condition is lost.
 
 Inspecting before submitting an offer creates two problems. First, the seller has no obligation to let you in with an inspector while nothing is signed. Second, you pay $700 for a property you may well not get, especially if there are multiple offers.
 
-There is one exception. In a bidding situation where several buyers are competing for the same property, some sellers organize an inspection window before the offer deadline, precisely so everyone can submit without a condition. If you are offered that opportunity, take it.
+There is one exception. In a bidding situation where several buyers are competing for the same property, some sellers allow you to have the property inspected before you submit your offer, precisely so you can submit without an inspection condition. If you are offered that opportunity, take it.
 
 ## Can you bring an inspector to the first showing?
 
@@ -54,11 +56,11 @@ What you can do at the first showing is look carefully yourself: water marks in 
 
 Waiving the inspection to win a bidding war.
 
-When several buyers are competing for a property, the temptation to submit without an inspection condition to look more attractive is strong. It works. It is also the riskiest bet in the entire process.
+When several buyers are competing for a property, the temptation to submit without an inspection condition to look more attractive is strong. It is the riskiest bet in the entire process.
 
 A foundation needing rebuilding, a full roof, a non-compliant electrical system, soil contamination: those are five-figure amounts, sometimes six. You discover them after signing, and you have no recourse against the seller for a problem a normal inspection would have revealed.
 
-If you absolutely must submit without a condition, do it only if you were able to inspect before the offer deadline, or if you have the cash to absorb a major bad surprise.
+If you absolutely must submit without an inspection condition, do it only if you were able to have the property inspected before you submitted your offer. The broker is in fact required to recommend a full inspection to the buyer (section 81 of the Regulation respecting brokerage requirements, professional conduct of brokers and advertising). If you waive it anyway, you initial the waiver in section 8 of the promise to purchase: there you acknowledge that you were informed of your right to have the property inspected, that you waived it, and that the broker informed you of the risks of not having an inspection.
 
 ## How to choose your inspector
 

@@ -56,8 +56,12 @@ An accepted promise to purchase is not an intention. Under article 1712 of the
 Civil Code of Quebec, failure to sign the deed gives the other party the right
 to obtain a judgment that stands in its place. In plain terms, a seller can
 force you to buy. Article 1711 adds that any sum paid on the occasion of a
-promise of sale is presumed to be a down payment on the price, which means
-committed money, not a refundable good faith gesture.
+promise of sale is presumed to be a deposit on the price, not a forfeit you
+can pay to walk away: you cannot simply abandon it to withdraw, and a default
+exposes you to a forced sale or to damages that can exceed the deposit. If the
+promise becomes null, for example because you rely on a condition within the
+time and in the manner provided, the deposit is refunded to you (clause 4.3 of
+the promise to purchase).
 
 The financing condition is the door through which a buyer leaves without
 damage. Removing it is not boldness, it is giving up that door. It is done
@@ -98,7 +102,7 @@ according to FINTRAC:
 - a receipt of funds record is required whenever they receive funds, in any
   amount;
 - a large cash transaction of $10,000 or more must be reported, and the
-  24 hour rule groups amounts received within the same day;
+  24 hour rule groups amounts received within a consecutive 24 hour window;
 - a suspicious transaction is reported as soon as practicable;
 - records are kept for at least five years;
 - the beneficial owner holding 25% or more must be identified, and politically
@@ -109,10 +113,15 @@ requires the broker to verify the identity of every party to the transaction
 who is not represented by another licence holder, and section 30, their legal
 capacity. The OACIQ is categorical: if a party refuses to provide the
 identification documents, the broker cannot act for that party and must
-withdraw from the transaction. The OACIQ also notes that above a threshold of
-$100,000 received in cash, the licence holder must, among other things,
-establish the source of the cash and of the person's wealth, and have senior
-management review the transaction.
+withdraw from the transaction. On the federal side, FINTRAC specifies that
+when the licence holder receives $100,000 or more in cash, they must determine
+whether the person is a politically exposed person, the head of an
+international organization, or a family member or close associate of one.
+Only in that case must they establish the source of the cash and of the
+person's wealth, and have senior management review the transaction: always
+for a foreign politically exposed person or one of their family members or
+close associates, and only when they judge the risk to be high in the other
+cases.
 
 And the notary? The common belief is that the same regime applies. It does
 not, and the OACIQ says so itself in its guideline: certain professions,
@@ -121,12 +130,11 @@ that Act. This flows from the 2015 Supreme Court ruling on legal
 professionals, whom the federal statute defines in Quebec as lawyers and
 notaries.
 
-This absolutely does not mean cash sails through. The Regulation respecting
-the accounting and standards of professional practice of notaries is stricter
-than the federal threshold: its section 6 forbids a notary from receiving from
-anyone cash totalling $7,500 or more under a single service contract, and its
-section 32 forbids the notary from withdrawing cash from the trust account.
-Add that the Bank of Canada removed legal tender status from the $500 and
+This absolutely does not mean cash sails through. The notaries' trust
+accounting regulation (Règlement sur la comptabilité en fidéicommis des
+notaires, CQLR c N-3, r 5.2) is stricter than the federal threshold: its
+section 20 forbids a notary from receiving a sum of $7,500 or more in cash
+under a single service contract. Add that the Bank of Canada removed legal tender status from the $500 and
 $1,000 notes on January 1, 2021, which leaves the $100 note as the largest
 denomination. A cash transaction in Quebec is therefore, in practice, a
 transfer from a documented account, not a suitcase. If the word intrigues you,

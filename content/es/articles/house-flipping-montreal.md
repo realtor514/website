@@ -1,7 +1,7 @@
 ---
 title: "Comprar para revender en Montreal: las cifras reales que nadie le muestra"
 date: 2026-05-21
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Inversión"
 description: "Regla de los 365 días, TPS y TVQ en una renovación mayor, impuesto de bienvenida, permisos y licencia RBQ: el cálculo completo de un flip en Quebec 2026."
 image: "images/articles/house-flipping-montreal/featured.jpg"
@@ -67,7 +67,9 @@ impuestos. Usted recupera mediante créditos y reembolsos los impuestos pagados
 sobre materiales y mano de obra, pero la brecha sigue siendo enorme, y debe
 inscribirse en los ficheros de la TPS y la TVQ. Un comprador que compare su casa
 "más impuestos" con una reventa exenta al lado se quedará con la otra. Muchos
-proyectos se rompen ahí.
+proyectos se rompen ahí. Un primer comprador que cumpla los requisitos puede,
+sin embargo, recuperar la TPS, no la TVQ: hasta 50 000 $, en su totalidad hasta
+un precio de 1 000 000 $, y luego de forma decreciente hasta 1 500 000 $.
 
 ## El impuesto de bienvenida, se paga al comprar y no se recupera
 

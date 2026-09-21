@@ -1,6 +1,7 @@
 ---
 title: "El costo real de vender una casa en Quebec"
 date: 2026-08-07
+lastmod: 2026-09-21
 translationKey: "article-cout-reel-vendre"
 category: "Guía del Vendedor"
 description: "La retribución del corredor es solo una línea entre varias. Aquí está la lista completa de los gastos de venta en Quebec, incluidos los que los vendedores descubren la víspera de la firma."
@@ -15,7 +16,7 @@ Aquí está la lista completa, en el orden en que llegan los gastos.
 
 **El certificado de ubicación.** Es el rubro más olvidado y uno de los más costosos. El vendedor debe entregar un certificado de ubicación actualizado que refleje el estado actual del terreno y las construcciones. Si el suyo tiene más de una decena de años, o si se hicieron obras desde entonces, el comprador o su notario exigirá uno nuevo.
 
-Calcule generalmente entre 800 y 1 500 dólares, más para un terreno complejo o un inmueble de varias unidades. El plazo de un agrimensor puede superar varias semanas en temporada ocupada. Verifique el suyo desde el inicio, no la víspera de la firma.
+La tarifa sugerida por el Colegio de Agrimensores de Quebec (Ordre des arpenteurs-géomètres du Québec) para una unifamiliar en zona urbana es de 1 630 dólares, más impuestos y gastos (guía de enero de 2026), y cada agrimensor fija sus propios honorarios. Calcule más para un multifamiliar o un terreno complejo. El plazo de un agrimensor puede superar varias semanas en temporada ocupada. Verifique el suyo desde el inicio, no la víspera de la firma.
 
 **Las reparaciones y la preparación.** Pintura, reparaciones menores, limpieza profunda, almacenamiento temporal. No es obligatorio, pero es el presupuesto con mejor rendimiento de la lista.
 
@@ -23,7 +24,7 @@ Calcule generalmente entre 800 y 1 500 dólares, más para un terreno complejo o
 
 ## En la venta
 
-**La retribución del corredor.** Generalmente del 4 % al 5 % del precio de venta, más GST y QST. No es una tasa regulada en Quebec, se negocia. Sobre 500 000 dólares, hablamos de unos 20 000 a 25 000 dólares antes de impuestos.
+**La retribución del corredor.** A menudo del orden del 4 % al 5 % del precio de venta antes de impuestos, a lo que se suman el GST y el QST. Ninguna ley fija la tasa en Quebec, y siempre es negociable. Sobre 500 000 dólares, hablamos de unos 20 000 a 25 000 dólares antes de impuestos.
 
 Es el rubro más visible y a menudo el único que los vendedores anticipan.
 
@@ -47,6 +48,8 @@ Llame a su prestamista antes de salir al mercado y pida el monto exacto de la pe
 
 **La ganancia de capital.** Si la propiedad vendida fue su residencia principal durante todos los años en que la poseyó, la ganancia está generalmente exenta. Aun así debe declarar la disposición en su declaración de renta.
 
+Excepción importante: desde el 1 de enero de 2023, si vende una vivienda que poseyó menos de 365 días consecutivos, la ganancia se considera ingreso empresarial totalmente imponible y la exención por residencia principal no se aplica, salvo si la venta se debe a ciertos acontecimientos de la vida, como un fallecimiento, una separación o una mudanza por trabajo. Consulte a un contador.
+
 Si no era su residencia principal, por ejemplo una cabaña, un inmueble de renta o una propiedad en alquiler, una porción de la ganancia pasa a ser imponible. El cálculo depende de su situación y de las reglas aplicables el año de la venta. Hable con un contador antes de la venta, no después, porque algunas decisiones solo se toman antes.
 
 **El caso del multifamiliar.** Si vende un dúplex o tríplex del que ocupaba una unidad, la porción arrendada puede generar una ganancia imponible y a veces una recuperación de amortización si la reclamó. Es exactamente la situación en que una hora con un contador cuesta menos que la sorpresa.
@@ -60,7 +63,7 @@ A menudo olvidada en el cálculo: mudanza, almacenamiento temporal si hay desfas
 A título indicativo, para una unifamiliar vendida en 500 000 dólares con una hipoteca vigente:
 
 - Retribución del corredor: unos 22 500 dólares antes de impuestos
-- Certificado de ubicación: unos 1 200 dólares
+- Certificado de ubicación: unos 1 630 dólares más impuestos
 - Preparación y puesta en valor: 1 000 a 3 000 dólares
 - Cancelación hipotecaria: unos cientos de dólares
 - Penalidad hipotecaria: de cero a varios miles, según su plazo

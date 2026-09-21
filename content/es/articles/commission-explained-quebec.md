@@ -1,7 +1,7 @@
 ---
 title: "La comisión inmobiliaria en Quebec: qué está pagando realmente"
 date: 2026-06-16
-lastmod: 2026-08-31
+lastmod: 2026-09-21
 category: "Inmobiliaria 101"
 description: "Ninguna ley fija una tarifa en Quebec. Aquí está quién paga la comisión, cómo se reparte, los impuestos que casi nadie anticipa y las preguntas que debe hacer antes de firmar."
 image: "images/articles/commission-explained-quebec/featured.jpg"
@@ -22,8 +22,9 @@ reglamento y ningún colegio profesional impone un porcentaje. La comisión se
 negocia entre el vendedor y su corredor inscriptor, y luego se escribe en el
 contrato de corretaje antes de sacar la propiedad al mercado.
 
-En el Gran Montreal, las estructuras suelen situarse entre el 4 % y el 6 % del
-precio de venta. No es una regla, es una observación del mercado. El porcentaje
+En el Gran Montreal, la comisión es a menudo del orden del 4 % al 5 % del
+precio de venta antes de impuestos, sin tarifa fijada por ley y siempre
+negociable. No es una regla, es una observación del mercado. El porcentaje
 varía según el tipo de propiedad, el precio, el esfuerzo de comercialización
 previsto y lo que usted negocie.
 
@@ -75,20 +76,20 @@ contrato y puede variar.
 
 Después hay un segundo reparto, invisible para el cliente: cada corredor
 entrega una parte a su agencia. El corredor no conserva todo lo que su mitad
-deja suponer. Este detalle explica por qué una reducción de comisión afecta
-mucho más al ingreso del corredor que a su factura, y por qué algunas
-solicitudes de reducción encuentran una resistencia real.
+deja suponer.
 
-Ese reparto también explica un mecanismo importante para los vendedores: la
-parte ofrecida al corredor colaborador influye en la visibilidad de su
-propiedad ante los corredores de compradores. Recortar esa parte para ahorrar
-puede reducir el número de visitas, lo que suele costar más que el ahorro
-obtenido.
+Ese reparto también tiene una consecuencia para los vendedores. Un comprador
+representado firmó un contrato de corretaje de compra, que puede prever la
+retribución de su corredor. Si la parte ofrecida al corredor colaborador es
+inferior a lo que prevé ese contrato, el comprador puede tener que pagar la
+diferencia, lo que puede complicar su oferta. Es un punto que conviene hablar
+con su corredor al fijar esa parte.
 
 ## Qué paga realmente la comisión
 
 «Los servicios del corredor» es una fórmula vaga. Aquí está el detalle concreto
-de lo que se cubre cuando un vendedor me confía su propiedad.
+de lo que el servicio puede incluir, según la propiedad, cuando un vendedor me
+confía la suya.
 
 **La preparación.** Fotografía profesional, consulta de puesta en valor, plano,
 visita virtual. Entre una propiedad bien presentada y una fotografiada con el
@@ -143,16 +144,23 @@ el riesgo asumido».
 
 ## Cuándo se hace exigible la comisión
 
-La comisión suele ser exigible al firmarse la escritura de venta, y la retiene
-el notario del producto de la venta. Sin venta no hay comisión, en la
-estructura habitual.
+La comisión suele retenerla el notario del producto de la venta, al firmarse la
+escritura. Pero según el contrato de corretaje exclusivo obligatorio, también
+puede ser exigible en otros casos: si una promesa de compra aceptada durante el
+contrato cumple todas sus condiciones, aunque la escritura nunca se firme,
+salvo culpa del comprador; si usted rechaza una promesa de compra conforme a
+las condiciones del contrato; si vende por su cuenta durante el contrato; o si
+impide la venta.
 
 Dos cláusulas merecen su atención antes de firmar:
 
 La **cláusula de protección**, que prevé que la comisión sigue siendo exigible
 si la propiedad se vende, dentro de un plazo determinado tras el fin del
 contrato, a un comprador que le fue presentado durante el contrato. Es normal.
-Verifique solo su duración.
+La Ley sobre el corretaje inmobiliario (artículo 27) limita ese plazo a 180
+días, y la cláusula no se aplica si, durante ese periodo, usted firmó un
+contrato de corretaje exclusivo con otro titular de licencia. Verifique su
+duración.
 
 La **duración del contrato de corretaje** en sí. Se negocia. Un contrato corto
 le deja libertad para cambiar de corredor si la comercialización no da

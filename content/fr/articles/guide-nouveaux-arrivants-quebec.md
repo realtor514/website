@@ -1,7 +1,7 @@
 ---
 title: "Guide complet pour les nouveaux arrivants qui veulent acheter une propriété au Québec"
 date: 2026-07-16
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-guide-nouveaux-arrivants"
 category: "Guide de l'acheteur"
 description: "Acheter une propriété au Québec en tant que nouvel arrivant est tout à fait possible, mais le système fonctionne différemment de la plupart des pays. Ce guide explique tout ce que vous devez savoir, en langage simple."
@@ -17,11 +17,11 @@ C'est la raison d'être de ce guide. Si vous êtes un nouvel arrivant au Québec
 
 Les résidents permanents ont les mêmes droits que les citoyens canadiens pour acquérir des biens immobiliers au Québec. Vous n'avez pas besoin d'être citoyen.
 
-Il existe actuellement une restriction pour les acheteurs étrangers (ceux sans résidence permanente ou citoyenneté canadienne) pour l'immobilier résidentiel. Si vous détenez la résidence permanente, cette restriction ne s'applique pas à vous.
+Une loi fédérale interdit actuellement aux non-Canadiens, c'est-à-dire aux personnes qui ne sont ni citoyennes ni résidentes permanentes, d'acheter certaines propriétés résidentielles : les immeubles de 1 à 3 logements, y compris les maisons jumelées et les condos, situés dans une région métropolitaine ou une agglomération de recensement. Elle prévoit des exceptions, notamment pour certains titulaires de permis de travail, certains étudiants, les personnes protégées comme les réfugiés, et le conjoint qui achète avec un citoyen ou un résident permanent. Cette interdiction s'applique présentement jusqu'au 1er janvier 2027. Si vous détenez la résidence permanente, elle ne vous vise pas. Sinon, faites vérifier votre situation par un avocat ou un notaire avant de signer quoi que ce soit.
 
 ## Le système hypothécaire: comment ça fonctionne ici
 
-Dans de nombreux pays arabes et dans beaucoup d'autres, acheter une propriété signifie payer en espèces ou avec l'aide de la famille. Au Québec et au Canada, la grande majorité des acheteurs financent leur achat avec une hypothèque.
+Dans plusieurs pays, acheter une propriété signifie payer en espèces ou avec l'aide de la famille. Au Québec et au Canada, la grande majorité des acheteurs financent leur achat avec une hypothèque.
 
 Voici comment ça fonctionne:
 - Vous payez une **mise de fonds** de 5% à 20% du prix d'achat en espèces
@@ -49,8 +49,9 @@ Le CELIAPP est l'un des outils les plus puissants disponibles pour les premiers 
 - D'épargner jusqu'à **40 000 dollars à vie** dans ce compte
 - Des cotisations de **8 000 dollars par année** déductibles d'impôt
 - Des retraits pour un achat immobilier admissible **complètement non imposables**
+- Il est accessible aux résidents du Canada aux fins de l'impôt (la résidence permanente n'est pas une condition), de 18 à 71 ans, qui n'ont pas habité, dans l'année en cours ou les quatre années civiles précédentes, une propriété dont eux-mêmes ou leur conjoint étaient propriétaires, au Canada ou à l'étranger
 
-Ouvrez ce compte dès que vous y êtes admissible. Même si vous n'êtes pas prêt à acheter pendant deux ou trois ans, l'espace de cotisation que vous accumulez maintenant sera disponible quand vous le serez.
+Ouvrez ce compte dès que vous y êtes admissible. Les droits de cotisation ne commencent à s'accumuler qu'à l'ouverture du compte, et les droits inutilisés se reportent à l'année suivante, mais jamais plus de 8 000 dollars. Même si vous n'êtes pas prêt à acheter avant deux ou trois ans, ouvrir le compte maintenant fait démarrer ces droits.
 
 Combiné au Régime d'accession à la propriété (RAP), qui permet de retirer jusqu'à 60 000 dollars de votre REER, le CELIAPP peut financer jusqu'à 100 000 dollars de mise de fonds par personne, si l'épargne est là.
 
@@ -78,9 +79,9 @@ Pour un premier achat, Québec a annoncé en avril 2026 un crédit d'impôt remb
 
 ## L'inspection préachat
 
-Au Québec, les acheteurs ont le droit d'inclure une condition d'inspection dans leur offre d'achat. Cela signifie qu'un inspecteur agréé examine la propriété et fournit un rapport écrit détaillé.
+Au Québec, les acheteurs ont le droit d'inclure une condition d'inspection dans leur offre d'achat. Cela signifie qu'un inspecteur en bâtiment qualifié (vérifiez son certificat RBQ ou son association) examine la propriété et fournit un rapport écrit détaillé.
 
-**N'achetez jamais une propriété sans cette inspection.** Une inspection de bâtiment coûte de 500 à 900 dollars. Elle a sauvé des clients de la découverte de problèmes cachés de plus de 80 000 dollars après le closing.
+**N'achetez jamais une propriété sans cette inspection.** Une inspection de bâtiment coûte de 500 à 900 dollars. Elle peut révéler des défauts dont la correction coûte des dizaines de milliers de dollars.
 
 ## Un parcours étape par étape pour les nouveaux arrivants
 
@@ -99,7 +100,7 @@ Pour un nouvel arrivant qui veut devenir propriétaire au Québec, voici la feui
 
 **Année 2 à 3:**
 - Avec un historique d'emploi stable et un crédit établi: obtenir une préapprobation
-- Engager un courtier acheteur (sans frais pour vous: les honoraires sont payés par le vendeur)
+- Engager un courtier acheteur : quand le vendeur a un courtier, le vôtre est généralement payé à même la rétribution versée par le vendeur. Si ce partage est inférieur à ce que prévoit votre contrat de courtage, ou si le vendeur n'a pas de courtier, c'est ce contrat qui fixe ce que vous payez
 - Commencer votre recherche sérieuse de propriétés
 
 ## Travailler avec un courtier bilingue
@@ -108,7 +109,7 @@ Ce conseil est peut-être le plus pratique de ce guide: choisissez un courtier q
 
 Le processus immobilier québécois implique des dizaines de conversations, documents et décisions. Pouvoir poser des questions et recevoir des explications dans votre langue maternelle n'est pas un luxe. C'est une condition pour prendre des décisions pleinement éclairées.
 
-Le service est offert en français, en anglais, en espagnol et en arabe. Le contexte culturel de la prise de décision immobilière dans les familles arabes est pris en compte: le rôle de la famille élargie, l'importance de la vie privée, la préférence pour la stabilité à long terme plutôt que la spéculation à court terme, la signification de posséder quelque chose qui est vraiment à soi.
+Le service est offert en français, en anglais, en espagnol et en arabe. Les préférences de chaque famille sont prises en compte : certaines tiennent à associer la famille élargie à la décision, d'autres accordent une grande importance à la vie privée, préfèrent la stabilité à long terme à la spéculation à court terme, ou tiennent avant tout à posséder quelque chose qui soit vraiment à elles.
 
 Ces valeurs s'alignent bien avec ce que l'immobilier québécois, fait correctement, peut offrir.
 

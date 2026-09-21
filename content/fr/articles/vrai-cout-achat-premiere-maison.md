@@ -1,7 +1,7 @@
 ---
 title: "Le vrai coût d'achat de votre première maison au Québec"
 date: 2026-06-10
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-vrai-cout-premiere-maison"
 category: "Guide de l'acheteur"
 description: "Tout le monde parle du prix de la maison. Personne ne parle de ce qui vient après. Voici le budget complet que tout premier acheteur au Québec doit connaître."
@@ -11,7 +11,7 @@ draft: false
 
 Tout le monde vous dit combien coûte la maison. Personne ne vous dit combien coûte l'achat.
 
-Le scénario se répète constamment: des premiers acheteurs arrivent au closing avec leur mise de fonds prête, et découvrent qu'ils ont besoin de 15 000 à 20 000 dollars supplémentaires qu'ils n'avaient pas prévus. Ce moment de surprise est évitable, et cet article est écrit précisément pour que ça ne vous arrive pas.
+Le scénario se répète constamment: des premiers acheteurs arrivent au closing avec leur mise de fonds prête, et découvrent qu'ils ont besoin de 13 000 à 17 000 dollars supplémentaires qu'ils n'avaient pas prévus. Ce moment de surprise est évitable, et cet article est écrit précisément pour que ça ne vous arrive pas.
 
 ## Le prix d'achat n'est que le début
 
@@ -21,7 +21,7 @@ Lorsque vous achetez une propriété à 500 000 dollars au Québec, voici ce que
 Le minimum légal est de 5%, soit 25 000 dollars sur une propriété à 500 000 dollars. Mais 5% est rarement le choix financier optimal (nous y reviendrons).
 
 **2. L'assurance hypothécaire SCHL**
-Si votre mise de fonds est inférieure à 20%, vous êtes obligé par la loi de souscrire à une assurance SCHL. Cette assurance protège le prêteur, pas vous, et coûte entre 2,8% et 4% du montant de votre prêt. Sur une hypothèque de 475 000 dollars, cela représente jusqu'à 19 000 dollars ajoutés directement à votre prêt. Vous paierez des intérêts sur ce montant pendant toute la durée de votre amortissement. La taxe de 9 % sur cette prime (9,975 % à partir de 2027), elle, ne s'ajoute pas au prêt : elle se paie comptant chez le notaire.
+Si votre mise de fonds est inférieure à 20%, vous êtes obligé par la loi de souscrire à une assurance SCHL. Cette assurance protège le prêteur, pas vous, et coûte entre 2,8% et 4% du montant de votre prêt (+0,20 point avec un amortissement de 30 ans). Sur une hypothèque de 475 000 dollars, cela représente jusqu'à 19 000 dollars ajoutés directement à votre prêt. Vous paierez des intérêts sur ce montant pendant toute la durée de votre amortissement. La taxe de 9 % sur cette prime (9,975 % à partir de 2027), elle, ne s'ajoute pas au prêt : elle se paie comptant chez le notaire.
 
 **3. Les taxes de bienvenue**
 C'est la taxe de mutation immobilière du Québec, calculée selon un barème progressif. Sur une propriété de 500 000 dollars, prévoyez environ 5 600 dollars avec les seuils de 2026. La municipalité envoie le compte quelques mois après la signature chez le notaire, et il est payable dans les 30 jours suivant cet envoi. De nombreux acheteurs l'oublient complètement jusqu'à la réception de la facture.
@@ -30,10 +30,10 @@ C'est la taxe de mutation immobilière du Québec, calculée selon un barème pr
 Au Québec, l'acte de vente et l'acte d'hypothèque se signent devant notaire. Il n'existe pas de tarif fixe : les estimations publiées pour 2026 vont d'environ 1 500 à 3 500 dollars pour un achat financé, taxes et frais de publication compris. Demandez une soumission écrite.
 
 **5. L'inspection préachat**
-Ne sautez jamais cette étape. Un inspecteur qualifié coûte de 500 à 900 dollars et examine la toiture, les fondations, la plomberie, l'électricité et l'isolation. Des acheteurs sautent l'inspection pour gagner une guerre d'offres, puis découvrent 85 000 dollars de dommages liés à la pyrite dans les fondations six mois après le closing. L'inspection aurait coûté 600 dollars.
+Ne sautez jamais cette étape. Un inspecteur qualifié coûte de 500 à 900 dollars et examine la toiture, les fondations, la plomberie, l'électricité et l'isolation. L'inspection ne confirme pas la présence de pyrite, mais elle peut révéler des signes (fissures, soulèvement de la dalle) qui justifient un test de pyrite selon la norme CTQ-M200, une analyse en laboratoire du remblai sous la dalle.
 
 **6. Les ajustements et frais de fermeture**
-Le jour du closing, vous paierez une part proportionnelle des taxes municipales et scolaires que le vendeur a déjà acquittées pour le reste de l'année. Il y a aussi de petits frais administratifs. Prévoyez de 500 à 1 500 dollars.
+Le jour du closing, vous paierez une part proportionnelle des taxes municipales et scolaires que le vendeur a déjà acquittées pour le reste de l'année. Le montant dépend de la date du closing et de ce que le vendeur a déjà payé : de quelques centaines de dollars à plusieurs milliers. Un achat au début de mars, quand le vendeur a payé toute l'année, veut dire environ dix mois de taxes à lui rembourser. Voyez [le compte de taxes expliqué](/articles/property-tax-explained/). Il y a aussi de petits frais administratifs.
 
 **7. Les frais de déménagement**
 Souvent oubliés: de 1 500 à 5 000 dollars selon le volume et la distance.
@@ -50,11 +50,11 @@ Sur un achat de 500 000 dollars avec une mise de fonds de 5%, voici le budget co
 | Taxes de bienvenue | ~5 600 $ |
 | Frais de notaire | ~2 500 $ |
 | Inspection préachat | ~700 $ |
-| Ajustements et divers | ~1 000 $ |
+| Ajustements de taxes et divers | ~500 $ à 4 500 $ (selon la date du closing) |
 | Frais de déménagement | ~2 000 $ |
-| **Total en espèces requis** | **~38 500 $** |
+| **Total en espèces requis** | **~38 000 $ à 42 000 $** |
 
-Le point clé: les frais de fermeture, tout ce qui s'ajoute à la mise de fonds, représentent typiquement 3% à 5% du prix d'achat. Ce montant doit être disponible en espèces. Il ne peut pas être emprunté.
+Le point clé: dans cet exemple, les frais de fermeture, tout ce qui s'ajoute à la mise de fonds, représentent environ 2,6% à 3,4% du prix d'achat. Ce montant doit être disponible en espèces. Il ne peut pas être emprunté.
 
 ## Le piège de la mise de fonds à 5%
 

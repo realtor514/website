@@ -17,8 +17,8 @@ For a CMHC-insured loan, the home must be intended for homeowner occupancy, by
 the borrower or by a related person in the cases provided for. The minimum
 equity is then 5% of the first $500,000 of lending value and 10% of the
 remainder for a 1 or 2 unit property, but 10% as soon as the building has 3 or
-4 units. Property value must stay below $1,500,000, the maximum amortization is
-25 years, and gross and total debt service ratios are capped at 39% and 44%.
+4 units. Property value must stay below $1,500,000, and gross and total debt
+service ratios are capped at 39% and 44%.
 
 If you will not live in the building, the logic changes. CMHC Income Property
 covers 2 to 4 unit rental properties that are non-owner occupied, with a
@@ -35,8 +35,9 @@ CMHC also frames how rent enters your file. For an owner-occupied property that
 is the subject of the loan application, the gross rental income approach may go
 up to 100% in a 2 unit building, but only up to 50% of gross rental income, or
 the net rental income approach, in a 3 or 4 unit building. For a non-owner
-occupied property, the net rental income approach applies, meaning gross rents
-less operating expenses. Under the gross approach, the percentage of rents is
+occupied property that is the subject of the application, it is up to 50% of
+gross rents or the net rental income approach, meaning gross rents less
+operating expenses. Under the gross approach, the percentage of rents is
 added to gross annual income.
 
 A condo brings no rent into the calculation, but it adds a charge: 50% of the

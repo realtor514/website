@@ -1,7 +1,7 @@
 ---
 title: "Impuesto de bienvenida en Quebec: cuánto, cuándo y quién lo paga"
 date: 2026-06-05
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-taxe-bienvenue"
 category: "Guía del Comprador"
 description: "Los derechos de mutación sorprenden cada año a miles de compradores en Quebec, porque la factura llega meses después de la compra. Así se calcula el monto y así se puede prever."
@@ -58,7 +58,7 @@ No espere entonces ver esta suma aparecer en la cuenta del notario. Viene despu�
 
 ## Las exenciones que existen de verdad
 
-La ley prevé ciertas exenciones, principalmente para transferencias entre personas vinculadas: entre cónyuges, en línea directa ascendente o descendente, y ciertas transferencias que involucran sociedades estrechamente vinculadas.
+La ley prevé ciertas exenciones, principalmente para transferencias entre personas vinculadas: entre cónyuges, en línea directa ascendente o descendente, y ciertas transferencias que involucran sociedades estrechamente vinculadas. Incluso cuando la transferencia está exenta, el municipio puede exigir, por resolución, un derecho supletorio (droit supplétif) de 200 $ como máximo.
 
 Las condiciones son precisas y el notario las verifica en el momento de la transacción. Si su situación se parece a alguno de estos casos, menciónelo a su notario temprano, no después.
 

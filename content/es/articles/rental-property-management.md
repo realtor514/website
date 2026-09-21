@@ -1,7 +1,7 @@
 ---
 title: "Gestionar propiedades de alquiler en Montreal y Laval: lo que todo nuevo propietario debe saber"
 date: 2026-06-27
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Inversión"
 description: "Sección G, selección del inquilino, depósito prohibido, aviso de aumento, recuperación, desalojo e impuestos: lo que la ley de Quebec permite de verdad."
 image: "images/articles/rental-property-management/featured.jpg"
@@ -112,8 +112,8 @@ por año de contrato ininterrumpido, sin superar 24 meses ni bajar de 3 meses.
 
 **La moratoria.** Hasta el 6 de junio de 2027, ningún inquilino puede ser
 desalojado por esos tres motivos, salvo excepciones. La recuperación sigue
-siendo posible. Un plan basado en transformar un plex en unidades grandes, o en
-muchos proyectos de [reventa](/es/articles/house-flipping-montreal/), queda
+siendo posible. Un plan basado en transformar un
+[tríplex](/es/articles/triplex-vs-condo-montreal/) en unidades grandes queda
 congelado.
 
 ## El impago del alquiler

@@ -71,7 +71,8 @@ suelen ofrecer una tasa más alta para un plazo más largo, aunque no siempre.
 
 La amortización es el tiempo total previsto para pagar. Para un préstamo
 asegurado, la SCHL fija la amortización máxima en 25 años en su producto SCHL
-Achat. Su producto SCHL Premier chez-soi permite 30 años cuando al menos un
+Achat. Su producto SCHL Premier chez-soi permite 30 años, con una sobreprima de
+0,20 puntos, cuando al menos un
 prestatario es comprador primerizo o la vivienda es nueva y nunca fue ocupada,
 por un valor inferior a 1 500 000 $.
 
@@ -79,8 +80,8 @@ Alargar la amortización baja el pago mensual y aumenta el interés total pagado
 Una [calculadora hipotecaria](/es/tools/mortgage/) vuelve visibles ambos efectos
 en segundos.
 
-Sobre la cuota inicial, la ACFC fija el mínimo en 5 % hasta 500 000 $, luego
-10 % sobre la porción por encima de ese monto, y 20 % a partir de 1,5 millones
+Sobre la cuota inicial, según las reglas federales, explicadas por la ACFC, el
+mínimo es de 5 % hasta 500 000 $, luego 10 % sobre la porción por encima de ese monto, y 20 % a partir de 1,5 millones
 de dólares. Por debajo del 20 %, el seguro hipotecario es obligatorio. Vea
 también [el mito del 20 % de entrada](/es/articles/down-payment-myth-debunked/).
 

@@ -1,7 +1,7 @@
 ---
 title: "House Flipping in Montreal: The Honest Math Nobody Shows You"
 date: 2026-05-21
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Investment"
 description: "The 365-day rule, GST and QST on a major renovation, transfer duties, permits and the RBQ licence: the full 2026 math on a Quebec flip, checked at source."
 image: "images/articles/house-flipping-montreal/featured.jpg"
@@ -65,7 +65,10 @@ On a $720,000 resale, crossing that line adds close to $108,000 of tax to the
 deal. You recover the tax paid on materials and labour through input tax credits
 and refunds, but the gap stays enormous, and you have to register for the GST
 and QST files. A buyer comparing your house "plus taxes" with an exempt resale
-next door will take the other one. A lot of projects break exactly there.
+next door will take the other one. A lot of projects break exactly there. An
+eligible first-time buyer can, however, recover the GST, not the QST: up to
+$50,000, in full up to a $1,000,000 price, then on a sliding scale up to
+$1,500,000.
 
 ## Transfer duties, paid on purchase and never recovered
 

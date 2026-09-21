@@ -1,7 +1,7 @@
 ---
 title: "How to Build a Real Estate Portfolio in Greater Montreal Starting From Zero"
 date: 2026-05-26
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Investment"
 description: "Down payment by unit count, the stress test, refinancing at 80%, Quebec rent control and the tax rules: what it really takes to buy a second income property."
 image: "images/articles/build-real-estate-portfolio/featured.jpg"
@@ -26,8 +26,9 @@ investor much less.
 | 3 or 4 units, you live there | 10% | 90% |
 | 2 to 4 units, you do not live there | 20% | 80% |
 
-The first two rows require that you or a close relative occupy a unit, at a
-price under $1,500,000. The third is CMHC Income Property: price under
+The first two rows require a price under $1,500,000 and a unit occupied by you,
+or rent-free by your spouse or common-law partner, your parent or your child.
+The third is CMHC Income Property: price under
 $1,000,000, credit score of at least 600, and a 25-year amortization cap.
 
 So the same triplex asks 10% while you live in it and 20% the day you move out.
@@ -41,9 +42,11 @@ plus 2%, or 5.25%. It still stands in 2026, and CMHC applies the same
 qualifying rate to Income Property. With insurance, you get tested either way.
 
 Quebec's financial services cooperatives, on the other hand, answer to the
-Autorité des marchés financiers rather than OSFI. On an uninsured loan the
-federal rule does not bind them, and they apply their own underwriting
-standards. A refusal at a federal lender deserves a second reading elsewhere.
+Autorité des marchés financiers rather than OSFI. But since 2021 the AMF has
+required them to use the same qualifying rate on uninsured loans. Other
+criteria, such as ratios or how rents are counted, vary from one lender to
+another: your lender can walk you through them, and a mortgage broker can
+compare them.
 
 Add CMHC's ratios, 39% and 44% of gross income, and your [credit
 score](/en/articles/credit-score-home-buying-quebec/).
@@ -53,13 +56,14 @@ score](/en/articles/credit-score-home-buying-quebec/).
 - **Owner-occupied duplex:** up to 100% of gross rents is added to your income.
 - **Owner-occupied triplex or fourplex:** 50% of gross rents, or the net rental
   income method.
-- **Non-owner-occupied:** net rental income only, meaning gross rents minus
-  operating expenses.
+- **Non-owner-occupied building the loan is for:** up to 50% of gross rents, or
+  net rental income, meaning gross rents minus operating expenses.
+- **Buildings you already own:** according to the lender's policy.
 
 On the first building, owner-occupied, part of the rents makes you look richer.
-On the second, you start from net income and the first building's payment stays
-on your balance sheet. A plex with thin cash flow does not help you buy the
-next one, it blocks you. The [rental management
+On the second, the lender counts at most half of gross rents, or net income, and
+the first building's payment stays on your balance sheet. A plex with thin cash
+flow does not help you buy the next one, it blocks you. The [rental management
 guide](/en/articles/rental-property-management/) breaks those expenses down.
 
 ## Finding the down payment for the next one

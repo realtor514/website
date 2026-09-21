@@ -1,7 +1,7 @@
 ---
 title: "The Home Inspection Checklist: What Gets Checked, Item by Item"
 date: 2026-06-25
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Buyer's Guide"
 description: "Roof, foundation, drain, plumbing, wiring, pyrite, vermiculite, lead, radon: what a Quebec inspector actually looks at, and what no inspection ever sees."
 image: "images/articles/home-inspection-checklist-montreal/featured.jpg"
@@ -109,7 +109,7 @@ underground tank to be taken out of the ground, absent an attestation, and the
 owner must have the surrounding soil tested for contamination. An oil spill is
 also a common exclusion in home insurance policies.
 
-**Lead water service lines in Montreal.** Buildings of fewer than 8 units built
+**Lead water service lines in Montreal.** Buildings of 8 units or fewer built
 before 1970 are the most likely to have one; the City publishes an address by
 address map. Replacing the private portion is now mandatory under by-law 20-030,
 within 24 months of the notice of non compliance, and financial help is
@@ -129,8 +129,8 @@ prevented: only periodic maintenance limits the effects.
 problem is not the wire but the connections, which oxidize and loosen. An
 insurer may require a certificate of compliance from a master electrician.
 
-None of these eight subjects is part of a standard inspection. They are separate
-tests and assessments, and you have to ask for them.
+Most of these eight subjects call for a separate test or assessment, and you
+have to ask for it; the inspector can point out the warning signs.
 
 ## What you do with the report
 

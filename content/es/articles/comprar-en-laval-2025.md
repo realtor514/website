@@ -84,8 +84,9 @@ tasa municipal:
 
 Ejemplo puramente ilustrativo, calculado solo con esas tasas oficiales: sobre
 una base de 500 000 $, los derechos llegan a 5 610,50 $. Sobre una base de
-642 750 $, llegan a 9 893 $. El escalón que se cruza en el medio millón cuesta
-por lo tanto más que los tres primeros tramos juntos.
+642 750 $, llegan a 9 893 $. Los 142 750 $ situados por encima del medio
+millón cuestan por sí solos 4 282,50 $: cerca del 22 % de la base, pero más del
+43 % de la factura.
 
 Atención a la base de cálculo: no es el precio pagado, sino el mayor de tres
 importes, la contraprestación entregada, la contraprestación estipulada y el

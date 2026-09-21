@@ -1,7 +1,7 @@
 ---
 title: "Su primera visita a una propiedad: qué revisar antes de enamorarse"
 date: 2026-07-22
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Guía del Comprador"
 description: "Documentos que pedir, qué mirar afuera y adentro, pirita, tanque de mazout, cableado de aluminio, plomo: la primera visita en Quebec, con lista para imprimir."
 image: "images/articles/first-visit-property-checklist/featured.jpg"
@@ -77,8 +77,9 @@ de su placa con el que figura en las Déclarations du vendeur.
 
 **Un tanque de mazout.** Desde el 31 de diciembre de 2023, en los edificios
 existentes de 600 m² o menos y de tres pisos o menos, un aparato a mazout ya
-no puede reemplazarse por otro a combustible fósil. Si hace falta una
-reparación mayor, habrá que pasar a una energía renovable, como la
+no puede reemplazarse por otro a combustible fósil. Si una caldera o un horno
+a mazout de más de 20 años (un calentador de agua de más de 10 años) necesita
+una reparación mayor, habrá que pasar a una energía renovable, como la
 electricidad: prevea ese costo. En el seguro, el derrame de su propio tanque es
 una exclusión frecuente. La aseguradora puede cubrirlo si el tanque cumple sus
 criterios: llámela antes de ofertar.

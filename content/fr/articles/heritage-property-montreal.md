@@ -149,8 +149,8 @@ entrerait en conflit avec la conservation.
 
 ## L'assurance, et la vraie question de la valeur à neuf
 
-Au sens de la Loi sur le patrimoine culturel, une maison ancienne est une maison
-construite avant 1940. Avant de magasiner une police, réunissez le dossier :
+La Loi sur le patrimoine culturel retient 1940 comme seuil des inventaires du
+patrimoine des MRC. Avant de magasiner une police, réunissez le dossier :
 statut légal ou inscription à un inventaire, règlement de citation, avis de
 classement, puis les photos et les factures des gros postes déjà refaits,
 toiture, chauffage, plomberie.

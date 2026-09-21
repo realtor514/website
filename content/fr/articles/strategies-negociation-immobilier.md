@@ -1,76 +1,190 @@
 ---
-title: "5 stratégies de négociation qui fonctionnent vraiment dans le marché montréalais"
+title: "Négocier une propriété à Montréal : les vrais leviers, ceux que le formulaire autorise"
 date: 2026-07-02
+lastmod: 2026-09-21
 translationKey: "article-strategies-negociation"
-category: "Stratégie"
-description: "La négociation immobilière n'est pas une question d'agressivité. C'est une question de préparation. Voici cinq stratégies qui fonctionnent systématiquement."
+category: "Guide de l'acheteur"
+description: "Promesse d'achat, conditions, acompte, date d'occupation : les vrais leviers de négociation au Québec, et ce que le courtier du vendeur peut dire."
 image: "images/articles/strategies-negociation-immobilier-montreal/featured.jpg"
 ---
 
-La négociation immobilière n'a rien à voir avec le fait d'être la personne la plus dure dans la pièce. Elle a tout à voir avec le fait d'être la mieux préparée.
+Négocier, dans l'imaginaire populaire, c'est tenir plus longtemps que l'autre. Au
+Québec, c'est d'abord remplir correctement un formulaire obligatoire. La Promesse
+d'achat de l'OACIQ compte seize sections, et presque chacune contient un levier
+qu'on laisse facilement sur la table quand on ne regarde qu'une seule case : la
+clause 4.1, celle du prix.
 
-Voici cinq stratégies qui s'appliquent systématiquement, du côté acheteur comme du côté vendeur.
+Ce qui suit est le cadre général. Le cas particulier des promesses multiples est
+traité à part, dans [Guerre d'offres à
+Montréal](/articles/bidding-wars-truth-montreal/).
 
-## 1. Fixez votre maximum avant de tomber en amour
+## Une promesse acceptée n'est plus une offre, c'est un contrat
 
-Cela semble évident. Presque personne ne le fait correctement.
+L'article 1396 du Code civil du Québec pose la règle : lorsque le bénéficiaire de
+la promesse l'accepte, « il s'oblige alors, de même que le promettant, à conclure
+le contrat ». La clause 14.1 du formulaire le dit en langage de transaction : si
+le vendeur accepte dans le délai, la promesse constituera un contrat liant
+juridiquement l'acheteur et le vendeur jusqu'à sa parfaite exécution.
 
-La plupart des acheteurs visitent une propriété, ressentent l'espace, imaginent leur vie dans ces murs, et essaient ensuite d'assigner un chiffre rationnel à une expérience émotionnelle. À ce stade, leur jugement est compromis.
+Ce que coûte un retrait est écrit à la clause 7.6. Si aucun acte de vente ne se
+signe par la faute de l'acheteur, celui-ci pourrait devoir des dommages-intérêts
+au vendeur, mais aussi dédommager directement le courtier du vendeur, à hauteur
+de la rétribution que le vendeur aurait eu à lui payer. L'OACIQ précise qu'entre
+la signature par l'acheteur et la réception par le vendeur, le Code civil laisse
+un court laps de temps pour se désister. Une fois la promesse reçue, l'acheteur
+est lié par le contenu de son offre, sous réserve des conditions prévues.
 
-La bonne séquence est: analyser les ventes comparables, déterminer la valeur marchande juste, fixer votre offre maximale, et seulement ensuite visiter la propriété. Si vous la trouvez magnifique, c'est bien. Mais vous connaissez déjà votre plafond, et vous le respectez.
+Votre marge de manoeuvre se joue donc avant la signature, pas après.
 
-Dans une guerre d'offres, l'émotion s'intensifie. Le délai artificiel, le fait de savoir que d'autres veulent la même chose, la peur de perdre: tout cela pousse les acheteurs au-dessus de leur plafond.
+## Le délai de validité est un levier, pas une formalité
 
-**La règle: fixez le chiffre en premier. Avant la visite. Avant l'offre. Avant que la guerre d'offres commence.**
+La clause 14.1 exige une heure et une date : l'acheteur s'oblige irrévocablement
+jusqu'à ce moment précis. Passé ce délai sans acceptation, la promesse devient
+nulle et non avenue. Un refus produit le même effet, et toute contre-proposition
+du vendeur a le même effet qu'un refus.
 
-## 2. Utilisez les cinq leviers, pas seulement le prix
+Un délai court met de la pression, mais il retire au vendeur le temps de
+consulter ses proches, son notaire ou son comptable. Un délai long laisse la
+porte ouverte à d'autres promesses. C'est pourquoi l'OACIQ demande au courtier de
+l'acheteur de vérifier que ce délai répond aux besoins de son client.
 
-La plupart des gens pensent que la négociation immobilière porte sur le prix. Le prix n'est qu'un des cinq leviers, et c'est souvent le moins flexible.
+Une règle est souvent ignorée : toute nouvelle contre-proposition annule les
+précédentes. Le dernier document doit donc reprendre l'ensemble des conditions
+souhaitées, en plus de celles de la promesse initiale, parce que c'est lui qui
+constituera l'engagement entre les parties.
 
-**La date de closing:** Un vendeur qui doit déménager rapidement acceptera parfois un prix plus bas en échange d'un closing rapide.
+## Les conditions vous protègent et coûtent en force de frappe
 
-**Les conditions:** Une offre avec moins de conditions est plus attrayante qu'une offre avec plusieurs, même au même prix. Une inspection préachat (faite avant de soumettre l'offre) vous permet de retirer la condition d'inspection tout en ayant l'information.
+L'inspection, à la section 8, porte un avertissement en majuscules : une promesse
+sans clause d'inspection n'est appropriée que dans des circonstances
+particulières, par exemple lorsqu'on prévoit remplacer l'immeuble ou y apporter
+des rénovations majeures. La clause 8.1 vous donne un nombre de jours pour
+inspecter, puis jusqu'au quatrième jour suivant l'expiration de ce délai, avant
+20 h, pour aviser le vendeur par écrit et lui remettre une copie du rapport. Sans
+avis, vous êtes réputé avoir renoncé à la condition.
 
-**Les inclusions:** Négocier les électroménagers, les équipements extérieurs dans la vente réduit vos dépenses après le closing.
+Le financement, à la section 6, vous engage à entreprendre de bonne foi, dans les
+plus brefs délais et à vos frais, les démarches pour obtenir l'emprunt décrit à
+la clause 6.1. Vous remettez ensuite au vendeur, dans le délai de la clause 6.2,
+la copie de l'engagement d'un prêteur. À défaut, la clause 6.3 permet au vendeur
+d'exiger une nouvelle demande auprès d'un prêteur qu'il désigne, ou de rendre la
+promesse nulle.
 
-**Le dépôt:** Un dépôt plus élevé signale l'engagement et le sérieux au vendeur.
+La vente d'une autre propriété passe par l'Annexe R. La clause R2.1 rend la
+promesse conditionnelle à la vente de votre immeuble. En contrepartie, le vendeur
+ajoute souvent la clause R2.2, la clause dite de 72 heures, qui lui permet de
+continuer à offrir sa propriété en vente. S'il accepte une seconde promesse dont
+toutes les conditions sont remplies, il vous transmet un avis écrit : vous avez
+72 heures pour renoncer à votre condition ou annuler votre promesse. Une version
+révisée de l'Annexe R est en vigueur depuis le 24 août 2026.
 
-**La flexibilité:** Parfois ce qu'un vendeur valorise le plus, c'est quelqu'un qui travaillera avec ses contraintes spécifiques: où il va ensuite, combien de temps il a besoin pour emballer, s'il peut laisser certains objets. Comprendre ce qui compte vraiment pour le vendeur vous donne plus de marge de manoeuvre.
+Retirer une condition n'améliore pas votre dossier. Cela déplace un risque du
+vendeur vers vous. C'est un choix assumé, pas une astuce.
 
-## 3. Laissez les données parler
+## Ne donnez jamais votre maximum au courtier du vendeur
 
-La position de négociation la plus puissante est celle ancrée dans les faits.
+Le formulaire Avis du courtier du vendeur à l'acheteur non représenté est sans
+ambiguïté : le courtier lié au vendeur par contrat de courtage ne représente pas
+et ne défend pas les intérêts de l'acheteur, il protège et promeut les intérêts
+du vendeur. Il vous doit un traitement équitable, soit de l'information objective
+sur la transaction et sur les droits et obligations de toutes les parties.
 
-Une offre en dessous du prix demandé devrait toujours être accompagnée d'une analyse de comparables. "Voici les trois propriétés les plus similaires à la vôtre qui ont été vendues dans ce quartier au cours des 90 derniers jours. Voici leur prix au pied carré. Voici comment votre propriété se compare sur les variables clés. Sur la base de cette analyse, le prix offert reflète ce que le marché a récemment payé pour des propriétés équivalentes."
+L'OACIQ résume la différence dans son dépliant sur le sujet : le traitement
+équitable, c'est de l'information objective ; la représentation, c'est de
+l'information stratégique, un rôle conseil et la capacité de négocier dans votre
+intérêt. Un courtier collaborateur sans contrat de courtage achat travaille de
+facto pour le vendeur.
 
-Une opinion invite à l'argumentation. Les données invitent à la discussion.
+Votre budget maximal, votre échéancier, votre attachement à la propriété sont des
+renseignements stratégiques. Ils appartiennent à la conversation avec un courtier
+qui vous représente.
 
-## 4. Comprenez la situation réelle de l'autre partie
+## Prix demandé, valeur marchande, évaluation du prêteur
 
-Chaque négociation a une position déclarée et un intérêt sous-jacent. La position déclarée, c'est le prix. L'intérêt sous-jacent, c'est ce que le vendeur a vraiment besoin, et ces deux éléments sont souvent différents.
+Trois chiffres, trois fonctions. Le prix demandé est une décision de mise en
+marché. La valeur marchande est une analyse : l'article 76 du Règlement sur les
+conditions d'exercice d'une opération de courtage, sur la déontologie des
+courtiers et sur la publicité n'autorise un courtier à émettre une opinion sur la
+valeur que si elle est fondée et motivée conformément aux usages et aux règles de
+l'art.
 
-Un vendeur qui est à trois semaines du closing de sa nouvelle propriété a un ensemble d'intérêts très différent d'un vendeur qui a des mois de flexibilité. Un vendeur en situation de divorce a des priorités différentes d'un vendeur qui prend sa retraite et cherche à se désencombrer.
+L'évaluation du prêteur sert à autre chose. La SCHL définit la valeur d'emprunt
+comme le moins élevé des montants suivants : la valeur marchande de la propriété,
+son prix d'achat ou son coût de construction. Si le prix convenu dépasse la valeur
+retenue, l'écart se comble en argent comptant, en plus de la mise de fonds. C'est
+aussi pourquoi une préautorisation ne remplace pas l'engagement exigé à la clause
+6.2 : voyez [les erreurs de préautorisation
+hypothécaire](/articles/mortgage-preapproval-mistakes/).
 
-Plus vous comprenez ce dont l'autre partie a réellement besoin, plus vous pouvez structurer une offre qui lui convient, tout en protégeant vos propres intérêts.
+## Tout ce qui se négocie et qui n'est pas le prix
 
-En pratique, cela signifie poser des questions par l'intermédiaire de votre courtier avant de soumettre une offre. Pourquoi le vendeur vend-il? Où va-t-il? Quel est son calendrier?
+La date d'occupation, à la clause 11.2, avec l'obligation pour le vendeur de
+laisser les lieux libres de tout bien non inclus. Les inclusions et les
+exclusions, aux clauses 11.5 et 11.6 : ce qui fait partie intégrante de
+l'immeuble, comme le luminaire de la salle à manger, est déjà inclus par le Code
+civil, mais tout le reste doit être nommé, avec la couleur, la marque et le
+numéro de série, rappelle l'OACIQ. Les équipements loués ou achetés à crédit, à
+la clause 11.7 : chauffe-eau, système d'alarme, thermopompe. L'acompte, à la
+clause 4.3, facultatif, et qui une fois versé va en fidéicommis chez le courtier,
+pas dans les poches du vendeur. Les délais de chaque condition, plus souples que
+leur existence même. Les travaux à exécuter avant la vente, à écrire à la clause
+12.1.
 
-## 5. Maîtrisez le silence
+La clause 14.1 explique pourquoi tout cela doit être écrit : les parties
+déclarent que leur consentement ne résulte d'aucune représentation ou condition
+qui n'est pas inscrite à la promesse.
 
-L'outil de négociation le plus sous-utilisé, c'est de ne rien dire.
+## La déclaration du vendeur change la conversation
 
-Après avoir soumis une offre ou une contre-offre, l'instinct naturel est de remplir le silence: d'expliquer, de justifier, d'adoucir. Cela affaiblit presque toujours votre position.
+Le formulaire Déclarations du vendeur sur l'immeuble est obligatoire depuis
+juillet 2012 pour la vente, par une personne physique, d'un immeuble
+principalement résidentiel de moins de cinq logements. Le courtier le remplit
+avec le vendeur au moment du contrat de courtage, et si le vendeur refuse de le
+remplir et de le signer, le courtier ne peut tout simplement pas conclure de
+contrat de courtage avec lui.
 
-Soumettez l'offre. Exposez le raisonnement si approprié. Puis attendez.
+Une fois porté à votre connaissance, ce document est annexé à la clause 13.1 de
+votre promesse et en fait partie intégrante. Voici le point que l'OACIQ énonce
+sans détour : le prix offert doit tenir compte des déclarations du vendeur, car
+il ne sera pas possible d'invoquer par la suite des éléments qui y sont
+mentionnés pour obtenir une réduction. Ce qui est déclaré se négocie maintenant,
+ou ne se négocie plus.
 
-La partie qui ressent le plus l'urgence de briser le silence est généralement celle qui cède en premier. La patience communique la confiance. Elle suggère que vous êtes prêt à partir, même si vous ne l'êtes pas entièrement. Et un vendeur qui n'est pas certain que vous resterez dans la conversation se rapprochera souvent de vous pour la maintenir vivante.
+## Lisez votre segment, pas les manchettes
 
-## Le principe sous-jacent
+Selon l'APCIQ, la RMR de Montréal a enregistré 2 853 ventes résidentielles en
+août 2026, en baisse de 13 % sur un an, avec 20 128 inscriptions en vigueur, en
+hausse de 18 % (communiqué du 4 septembre 2026).
 
-Les meilleures négociations en immobilier ne se gagnent pas: elles se structurent. Les deux parties repartent avec le sentiment que le résultat était équitable. Ce sentiment mutuel d'équité est ce qui empêche les transactions de s'effondrer après que l'offre est acceptée.
+Le détail compte plus que le total. Le même mois, le délai de vente moyen
+atteignait 42 jours pour l'unifamiliale, 52 jours pour le plex et 62 jours pour
+la copropriété, cette dernière ayant gagné 12 jours en un an. Sur l'île de
+Montréal, la copropriété se vendait en moyenne en 72 jours, à un prix médian de
+475 000 $, stable sur un an, selon les statistiques mensuelles de l'APCIQ.
+L'APCIQ décrit un marché de l'unifamiliale encore à l'avantage des vendeurs dans
+la majorité des secteurs. La copropriété de l'île de Montréal, elle, se situe
+globalement à la limite d'un marché équilibré et d'un marché d'acheteurs.
 
-Le but n'est pas d'extraire le maximum d'avantages de l'autre partie. C'est d'obtenir le meilleur résultat possible pour son client, d'une manière qui fait aboutir la transaction.
+Trois indicateurs suffisent avant d'écrire un chiffre : les inscriptions en
+vigueur dans votre segment, le délai de vente moyen et la variation du prix
+médian. Avec la date de la donnée, toujours. Pour le contexte,
+[l'analyse du marché montréalais](/articles/marche-immobilier-montreal/).
+
+## Ce qui tient au moment de décider
+
+Une offre basse n'est ni interdite ni à justifier auprès du courtier d'en face.
+L'OACIQ rappelle que le courtier du vendeur doit présenter toute promesse écrite
+reçue, dans les meilleurs délais, même si le prix offert est très bas, et que le
+courtier de l'acheteur ne peut pas refuser de la rédiger pour la même raison.
+
+Ce qui tient, c'est l'analyse des propriétés comparables que votre courtier doit
+vous présenter pour vous aider à fixer le prix à offrir : les ventes retenues,
+les ajustements appliqués, la date des données. Et une inspection préparée
+d'avance, dont voici [le coût et le bon
+moment](/articles/inspection-preachat-cout-moment-quebec/).
 
 ---
 
-*Vous naviguez une négociation sur le marché de Montréal ou Laval? [Prenez contact](/formulaire/) pour valider votre stratégie avant de soumettre.*
+*Vous préparez une offre dans le Grand Montréal ou à Laval ? [Écrivez-moi](/formulaire/) :
+on remplit chaque case du formulaire avec une raison derrière, pas une
+impression.*

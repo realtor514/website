@@ -1,6 +1,7 @@
 ---
 title: "Vos rénovations n'ajouteront pas ce que vous pensez à la valeur de votre maison"
 date: 2026-07-20
+lastmod: 2026-09-21
 category: "Guide du vendeur"
 description: "Les vendeurs surestiment systématiquement les retours sur rénovation. Voici l'analyse honnête avant de toucher quoi que ce soit."
 image: "images/articles/renovations-dont-add-value/featured.jpg"
@@ -15,11 +16,11 @@ Quand vous rénovez puis vendez, vous demandez au marché de payer deux choses :
 
 ## Ce qui rapporte généralement bien
 
-**La peinture.** Le retour sur investissement le plus élevé que vous pouvez faire. Coût bas, effet sur la perception des acheteurs significatif. Neutres : gris, blancs, beiges.
+**La peinture.** Souvent parmi les dépenses les plus rentables avant une vente. Coût bas, effet sur la perception des acheteurs significatif. Neutres : gris, blancs, beiges.
 
 **Nettoyage et désencombrement professionnel.** Une maison propre et désencombrée se photographie et se montre dramatiquement mieux.
 
-**Réparations mineures.** Réparez ce qui est visiblement cassé. Les robinets qui gouttent, les prises fêlées, les poignées de porte cassées coûtent presque rien à réparer et signalent le soin.
+**Réparations mineures.** Réparez ce qui est visiblement cassé. Les robinets qui gouttent, les plaques de prise fêlées, les poignées de porte cassées coûtent presque rien à réparer et signalent le soin. Une fuite ou un dégât d'eau réparé doit tout de même être déclaré dans les Déclarations du vendeur : voyez [comment préparer votre maison pour la vente](/articles/preparer-maison-vente/).
 
 **Amélioration de l'attrait extérieur.** Les premières impressions se font avant que les acheteurs entrent. Aménagement soigné, porte d'entrée repeinte, fenêtres propres.
 
@@ -29,7 +30,7 @@ Rénovations complètes de cuisine, additions de salle de bain sans justificatio
 
 ## Valorisation vs rénovation
 
-La valorisation retourne presque toujours mieux que la rénovation avant une vente. Elle est temporaire, coûte nettement moins, et traite la réponse émotionnelle de l'acheteur.
+La valorisation retourne souvent mieux que la rénovation avant une vente. Elle est temporaire, coûte nettement moins, et traite la réponse émotionnelle de l'acheteur.
 
 ---
 

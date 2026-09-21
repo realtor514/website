@@ -1,7 +1,7 @@
 ---
 title: "Moving in Montreal or Laval: The Complete Checklist, Deadline by Deadline"
 date: 2026-06-04
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Practical Guide"
 description: "Lease notices, lease assignment, address changes, Hydro-Quebec, truck permits and ecocentres: the Greater Montreal moving checklist, deadline by deadline."
 image: "images/articles/moving-checklist-montreal/featured.jpg"
@@ -31,7 +31,7 @@ within the delays set by law.
 |---|---|
 | Fixed term of 12 months or more | 3 to 6 months before the lease ends |
 | Fixed term under 12 months | 1 to 2 months before the lease ends |
-| Indeterminate term | Same as the rent payment term, maximum 3 months |
+| Indeterminate term | 1 to 2 months before the desired end of the lease |
 | Room | 10 to 20 days before the lease ends |
 
 A July 1 to June 30 lease therefore has to be ended between January 1 and
@@ -141,7 +141,10 @@ pickup and delivery addresses, the planned date and time, the agreed price or
 hourly rate, and the total amount payable.
 
 For a deal made by phone or online, the written contract must be given to you
-within 15 days, and there is no 10 day cancellation window. Avoid large
+within 15 days. There is no 10 day cancellation window, except for the remedies
+provided for distance contracts, for example if the mover does not send you that
+contract in time or leaves out mandatory information: the Office de la
+protection du consommateur explains them. Avoid large
 deposits, and be wary of a mover who demands cash with no contract: with no
 paperwork and no payment trail, an inflated price on arrival or a broken piece
 of furniture becomes almost impossible to contest. A mover cannot charge more

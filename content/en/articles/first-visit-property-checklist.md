@@ -1,7 +1,7 @@
 ---
 title: "Your First Property Visit: What to Check Before You Fall in Love"
 date: 2026-07-22
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Buyer's Guide"
 description: "Documents to request, what to check outside and inside, pyrite, oil tanks, aluminum wiring, lead pipes: a first visit in Quebec, with a printable checklist."
 image: "images/articles/first-visit-property-checklist/featured.jpg"
@@ -78,9 +78,10 @@ with the one in the seller's declarations.
 
 **An oil tank.** Since December 31, 2023, in existing buildings of 600 m² or
 less and three storeys or fewer, an oil-fired appliance can no longer be
-replaced with one that burns a fossil fuel. If a major repair is needed, you
-will have to switch to a renewable source, such as electricity: budget for it.
-On the insurance side, a spill from your own oil tank is a common exclusion. An
+replaced with one that burns a fossil fuel. If an oil boiler or furnace more
+than 20 years old (a water heater more than 10 years old) needs a major repair,
+you will have to switch to a renewable source, such as electricity: budget for
+it. On the insurance side, a spill from your own oil tank is a common exclusion. An
 insurer may offer coverage if the tank meets its criteria: call yours before
 making an offer.
 

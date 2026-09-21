@@ -30,8 +30,9 @@ eligió no difundir, no porque exista una red paralela.
 
 En la práctica estas propiedades circulan por tres canales solamente: un
 contrato de corretaje sin difusión pública, una venta de un propietario sin
-corredor, y el boca a boca entre corredores antes de que se publique una
-ficha. No hay ninguna base de datos secreta.
+corredor, y el boca a boca entre corredores, solo cuando el vendedor eligió
+por escrito no difundir, o retrasar la inscripción por una razón excepcional
+escrita en el contrato. No hay ninguna base de datos secreta.
 
 ## Por qué no es un descuento garantizado
 
@@ -143,8 +144,8 @@ REALTOR](/es/articles/broker-agent-difference-quebec/) aclara el resto.
 
 ## Posicionarse sin comprar el mito
 
-Firme un contrato de corretaje de compra escrito: desde 2021 todo contrato
-verbal es nulo, y usted dispone de tres días para rescindirlo a su discreción
+Firme un contrato de corretaje de compra escrito: desde el 10 de junio de 2022
+todo contrato verbal es nulo, y usted dispone de tres días para rescindirlo a su discreción
 tras recibir una copia firmada. Dé criterios precisos, porque el artículo 46
 del reglamento obliga al corredor a presentarle únicamente inmuebles que
 correspondan a ellos y a explicarle los motivos de su selección. Exija las

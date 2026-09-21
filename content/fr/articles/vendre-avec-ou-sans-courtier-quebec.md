@@ -1,6 +1,7 @@
 ---
 title: "Vendre avec ou sans courtier au Québec: la comparaison honnête"
 date: 2026-05-09
+lastmod: 2026-09-21
 translationKey: "article-vendre-sans-courtier"
 category: "Guide du vendeur"
 description: "C'est la question numéro un des vendeurs québécois. Voici les vrais chiffres, ce que vous économisez réellement, ce que vous prenez comme risque, et dans quels cas la vente sans courtier a du sens."
@@ -13,13 +14,13 @@ Voici la comparaison complète, y compris les cas où vendre seul est le bon cho
 
 ## Ce que vous économisez vraiment
 
-Au Québec, la rétribution du courtier se situe généralement entre 4 % et 5 % du prix de vente, plus les taxes. Sur une propriété de 500 000 dollars, cela représente environ 20 000 à 25 000 dollars avant taxes.
+Au Québec, la rétribution du courtier est souvent de l'ordre de 4 % à 5 % du prix de vente avant taxes. Sur une propriété de 500 000 dollars, cela représente environ 20 000 à 25 000 dollars avant taxes.
 
 C'est un montant réel, et il faut le prendre au sérieux. Mais deux précisions changent le calcul.
 
 Premièrement, ce pourcentage n'est pas fixé par la loi. Rien au Québec n'encadre le taux de rétribution. Il se négocie, et il se négocie plus souvent que les vendeurs ne le croient, surtout sur les propriétés à valeur élevée ou dans les secteurs où la demande est forte.
 
-Deuxièmement, une partie de cette rétribution est généralement partagée avec le courtier qui amène l'acheteur. Si vous vendez sans courtier mais qu'un acheteur se présente accompagné du sien, ce courtier voudra être payé. Beaucoup de vendeurs privés finissent par offrir 2 % ou 2,5 % à la partie acheteuse. L'économie réelle est donc souvent la moitié de ce qu'ils avaient imaginé.
+Deuxièmement, une partie de cette rétribution est généralement partagée avec le courtier qui amène l'acheteur. Si vous vendez sans courtier mais qu'un acheteur se présente accompagné du sien, ce courtier voudra être payé. Un vendeur privé n'a aucune obligation de payer le courtier de l'acheteur. Mais, selon son contrat de courtage achat, l'acheteur peut alors avoir à le payer lui-même, ce qui peut peser sur son offre. Vous pourriez donc choisir d'offrir une part au courtier de l'acheteur, et votre économie réelle serait alors inférieure à ce que vous aviez imaginé.
 
 ## La vraie différence: Centris
 
@@ -37,7 +38,7 @@ Vendre sans courtier signifie assumer vous-même:
 
 **Le prix.** C'est la décision la plus lourde de conséquences. Trop haut, vous brûlez vos deux premières semaines de visibilité et vous vendez plus bas trois mois plus tard. Trop bas, vous laissez de l'argent sur la table sans jamais le savoir. Vous n'avez pas accès aux données de ventes comparables complètes, seulement aux prix affichés publiquement, qui ne sont pas les prix de vente réels.
 
-**Les déclarations du vendeur.** Au Québec, vous demeurez responsable des vices cachés que vous connaissiez et que vous n'avez pas déclarés, courtier ou pas. Un formulaire de déclarations du vendeur bien rempli est votre meilleure protection. Beaucoup de vendeurs privés le remplissent mal ou pas du tout, et se retrouvent en litige un an après la vente.
+**Les déclarations du vendeur.** Au Québec, courtier ou pas, le vendeur doit la garantie contre les vices cachés, même s'il les ignorait. S'il les connaissait, il s'expose en plus à des dommages-intérêts. Un formulaire de déclarations du vendeur bien rempli est votre meilleure protection. Consultez un notaire ou un avocat.
 
 **La vérification des acheteurs.** Une offre n'a de valeur que si l'acheteur peut réellement financer. Sans vérification de la préapprobation, vous pouvez retirer votre propriété du marché pendant six semaines pour un financement qui ne se matérialisera jamais.
 
@@ -54,11 +55,11 @@ Il existe des situations où c'est un choix parfaitement raisonnable:
 - Vous avez de l'expérience en transactions immobilières et du temps à y consacrer.
 - Vous êtes prêt à payer un notaire pour encadrer la partie juridique et à assumer le reste.
 
-Mais soyez conscient de ce que vous laissez de côté en même temps: en vendant seul, vous vous privez de plusieurs protections légales qui n'existent que dans une transaction encadrée par un courtier.
+Mais soyez conscient de ce que vous laissez de côté en même temps: en vendant seul, vous vous privez de plusieurs protections qui n'existent que lorsqu'un courtier intervient dans la transaction.
 
 Les formulaires obligatoires de l'OACIQ, la promesse d'achat et les déclarations du vendeur, ne sont pas de la paperasse. Ils ont été écrits pour répartir clairement les responsabilités entre les parties et fermer les portes aux litiges avant qu'ils ne s'ouvrent. Un courtier a par ailleurs un devoir légal de vérification et d'information, il détient une assurance responsabilité professionnelle, et les parties à une transaction encadrée par un courtier sont couvertes par le Fonds d'indemnisation du courtage immobilier en cas de fraude ou de détournement de fonds.
 
-Rien de tout cela ne s'applique à une vente entre particuliers. Si quelque chose tourne mal après la signature, vous n'avez ni organisme de surveillance à qui vous adresser, ni assurance derrière l'autre partie, ni fonds d'indemnisation. Votre seul recours est le tribunal civil, à vos frais et sur plusieurs années.
+Rien de tout cela ne s'applique à une vente entre particuliers. Précisons toutefois un point: avec ou sans courtier, un litige entre l'acheteur et le vendeur se règle devant les tribunaux. Ce que le courtier ajoute, ce sont des recours contre le courtier lui-même s'il commet une faute: son assurance responsabilité professionnelle, l'OACIQ, et le Fonds d'indemnisation du courtage immobilier en cas de fraude ou de détournement de fonds.
 
 Ce n'est pas un argument pour vous faire peur, c'est une ligne à mettre dans votre calcul au même titre que la rétribution. Si vous décidez quand même d'y aller seul, engagez au minimum un notaire tôt dans le processus, faites préparer un certificat de localisation à jour, et remplissez les déclarations du vendeur avec le même sérieux qu'un courtier le ferait.
 

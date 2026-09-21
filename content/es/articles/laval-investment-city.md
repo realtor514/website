@@ -103,7 +103,8 @@ Las tres primeras filas vienen de los productos SCHL Achat y SCHL Immeuble de
 rapport: relación préstamo-valor hasta el 95 % para 1 o 2 viviendas, 90 % para 3
 o 4, y 80 % para un inmueble de renta no ocupado. En todos los casos, una
 puntuación de crédito de al menos 600 para un prestatario, amortización máxima
-de 25 años, ratios del 39 % de los ingresos brutos para los gastos de vivienda y
+de 25 años (30 años para un primer comprador o una construcción nueva, si usted
+vive en el inmueble), ratios del 39 % de los ingresos brutos para los gastos de vivienda y
 del 44 % para el conjunto de las deudas, y una tasa de calificación igual a la
 mayor entre la tasa de su contrato más 2 % o el 5,25 %.
 

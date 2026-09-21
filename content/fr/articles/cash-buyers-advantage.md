@@ -57,7 +57,11 @@ Code civil du Québec, le défaut de passer titre donne à l'autre partie le
 droit d'obtenir un jugement qui tienne lieu d'acte de vente. Autrement dit, un
 vendeur peut vous forcer à acheter. Et l'article 1711 précise que toute somme
 versée à l'occasion d'une promesse de vente est présumée être un acompte sur
-le prix, donc un montant engagé, pas un dépôt de bonne foi récupérable.
+le prix, et non un dédit : vous ne pouvez pas simplement l'abandonner pour vous
+retirer, et un défaut vous expose à la vente forcée ou à des dommages-intérêts
+pouvant dépasser l'acompte. Si la promesse devient nulle, par exemple parce que
+vous vous prévalez d'une condition dans le délai et de la façon prévus,
+l'acompte vous est remboursé (clause 4.3 de la promesse d'achat).
 
 La condition de financement est la porte par laquelle un acheteur sort sans
 casse. La retirer, ce n'est pas être audacieux, c'est renoncer à cette porte.
@@ -100,7 +104,8 @@ activités terroristes. Concrètement, selon CANAFE :
 - un relevé de réception de fonds est requis dès qu'ils reçoivent des fonds,
   quel qu'en soit le montant;
 - une opération importante en espèces de 10 000 $ ou plus doit être déclarée,
-  et la règle des 24 heures regroupe les sommes reçues dans une même journée;
+  et la règle des 24 heures regroupe les sommes reçues sur une période de
+  24 heures consécutives;
 - une opération douteuse se déclare aussitôt que possible;
 - les documents se conservent au moins cinq ans;
 - le bénéficiaire effectif détenant 25 % ou plus doit être identifié, et le
@@ -111,10 +116,15 @@ courtage oblige le courtier à vérifier l'identité de toutes les parties à la
 transaction qui ne sont pas représentées par un autre titulaire de permis, et
 l'article 30, leur capacité juridique. L'OACIQ est catégorique : si une partie
 refuse de fournir les documents d'identification, le courtier ne peut pas agir
-pour elle et doit se retirer de la transaction. L'Organisme précise aussi
-qu'au-delà d'un seuil de 100 000 $ reçus en espèces, le titulaire de permis
-doit notamment établir l'origine des espèces et de la richesse de la personne,
-et faire examiner l'opération par la haute direction.
+pour elle et doit se retirer de la transaction. Côté fédéral, CANAFE précise
+que lorsque le titulaire de permis reçoit 100 000 $ ou plus en espèces, il
+doit déterminer si la personne est une personne politiquement vulnérable, un
+dirigeant d'une organisation internationale, un membre de leur famille ou une
+personne étroitement associée. Ce n'est que dans ce cas qu'il doit établir
+l'origine des espèces et de la richesse de la personne, et faire examiner
+l'opération par la haute direction : toujours s'il s'agit d'une personne
+politiquement vulnérable étrangère ou de l'un de ses proches, et seulement
+s'il juge le risque élevé dans les autres cas.
 
 Et le notaire ? La croyance répandue veut qu'il soit soumis au même régime.
 Ce n'est pas exact, et l'OACIQ l'écrit lui-même dans sa ligne directrice :
@@ -125,10 +135,8 @@ appelle au Québec avocats et notaires.
 
 Cela ne veut surtout pas dire que le liquide passe. Le Règlement sur la
 comptabilité en fidéicommis des notaires est plus strict que le seuil
-fédéral : son article 6 interdit au notaire de recevoir de quiconque de
-l'argent en espèces totalisant 7 500 $ ou plus dans le cadre d'un même contrat
-de service, et son article 32 lui interdit de retirer des espèces de son
-compte en fidéicommis. Ajoutez que la Banque du Canada a retiré le cours légal
+fédéral : son article 20 interdit au notaire de recevoir une somme en espèces
+de 7 500 $ ou plus dans le cadre d'un même contrat de service. Ajoutez que la Banque du Canada a retiré le cours légal
 des billets de 500 $ et de 1 000 $ le 1er janvier 2021, ce qui laisse le
 billet de 100 $ comme plus grosse coupure. Une transaction « comptant » au
 Québec est donc, dans les faits, un virement depuis un compte documenté, pas

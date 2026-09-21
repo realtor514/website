@@ -1,7 +1,7 @@
 ---
 title: "Première visite d'une propriété : quoi vérifier avant de tomber amoureux"
 date: 2026-07-22
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Guide de l'acheteur"
 description: "Documents à demander, quoi regarder dehors et dedans, pyrite, mazout, filage d'aluminium, plomb : la première visite au Québec, avec la liste à imprimer."
 image: "images/articles/first-visit-property-checklist/featured.jpg"
@@ -77,9 +77,10 @@ plaque avec celle des Déclarations du vendeur.
 **Un réservoir de mazout.** Depuis le 31 décembre 2023, dans les bâtiments
 existants de 600 m² ou moins et de trois étages ou moins, un appareil au
 mazout ne peut plus être remplacé par un appareil à combustible fossile. Si
-une réparation majeure s'impose, il faudra passer à une énergie renouvelable,
-comme l'électricité : prévoyez ce coût. Côté assurance, le déversement de
-mazout de votre propre réservoir est une exclusion courante. L'assureur peut
+une chaudière ou une fournaise au mazout de plus de 20 ans (un chauffe-eau de
+plus de 10 ans) a besoin d'une réparation majeure, il faudra passer à une
+énergie renouvelable, comme l'électricité : prévoyez ce coût. Côté assurance,
+le déversement de mazout de votre propre réservoir est une exclusion courante. L'assureur peut
 offrir une protection, si le réservoir respecte ses critères : appelez-le avant
 l'offre.
 

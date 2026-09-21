@@ -67,11 +67,12 @@ un programa concreto, una dirección no congela esas condiciones de admisión.
 ## La admisibilidad al inglés no viene con la casa
 
 El acceso a la enseñanza en inglés en la red pública está regido por la Carta de
-la lengua francesa. El niño debe cumplir una de las condiciones previstas: haber
-recibido la mayor parte de su enseñanza primaria o secundaria en inglés en
-Canadá, tener un hermano o hermana en esa situación, o tener un progenitor
-ciudadano canadiense que haya asistido a una escuela primaria anglófona en
-Canadá. Existen autorizaciones temporales, sobre todo para hijos de trabajadores
+la lengua francesa. Su artículo 73 prevé dos vías, y ambas exigen que el padre o
+la madre del niño sea ciudadano canadiense. Primera vía: ese progenitor recibió
+en inglés la mayor parte de la enseñanza primaria que cursó en Canadá. Segunda
+vía: el niño recibió o recibe en inglés la mayor parte de la enseñanza primaria
+o secundaria que cursó en Canadá, y en ese caso sus hermanos y hermanas también
+son admisibles. Existen autorizaciones temporales, sobre todo para hijos de trabajadores
 o estudiantes extranjeros. Decide el Ministerio de Educación, por escrito, sobre
 una solicitud presentada por el organismo escolar. Ninguna dirección crea esa
 admisibilidad.

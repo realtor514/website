@@ -1,7 +1,7 @@
 ---
 title: "A Complete Guide for Newcomers Buying Property in Quebec"
 date: 2026-07-16
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-guide-nouveaux-arrivants"
 category: "Buyer's Guide"
 description: "Buying real estate in Quebec as a newcomer is entirely possible, but the system works differently from most countries. This guide walks through everything you need to know, in plain language."
@@ -17,11 +17,11 @@ That is the reason for this guide. If you are a newcomer to Quebec (whether from
 
 Permanent residents have the same rights as Canadian citizens to purchase real estate in Quebec. You do not need to be a citizen.
 
-There is currently a restriction on foreign buyers (those without permanent residency or Canadian citizenship) for residential real estate. If you hold permanent residency, this restriction does not apply to you.
+A federal law currently prohibits non-Canadians, meaning people who are neither citizens nor permanent residents, from buying certain residential properties: buildings of 1 to 3 dwelling units, including semi-detached houses and condos, located in a census metropolitan area or census agglomeration. It provides exceptions, notably for some work permit holders, some students, protected persons such as refugees, and a spouse buying with a citizen or permanent resident. The prohibition currently applies until January 1, 2027. If you hold permanent residency, it does not apply to you. If you do not, have your situation checked by a lawyer or notary before you sign anything.
 
 ## The Mortgage System: How It Works Here
 
-In most Arab countries and many others, buying property means paying in cash or receiving family support. In Quebec and Canada, the vast majority of buyers (approximately 80% to 95%) finance their purchase with a mortgage (hypothèque).
+In many countries, buying property means paying in cash or receiving family support. In Quebec and Canada, the vast majority of buyers finance their purchase with a mortgage (hypothèque).
 
 Here is how it works:
 
@@ -55,9 +55,9 @@ Here is how it works:
 - You can save up to **$40,000 lifetime** in this account
 - Contributions of **$8,000 per year** are tax-deductible (like an RRSP)
 - Withdrawals for a qualifying home purchase are **completely tax-free** (like a TFSA)
-- It is available to Canadian permanent residents who have not owned a home in the past four years
+- It is available to residents of Canada for tax purposes (permanent residence is not a condition), aged 18 to 71, who have not lived, in the current year or the previous four calendar years, in a home that they or their spouse owned, in Canada or abroad
 
-Open this account as soon as you qualify. Even if you are not ready to buy for two or three years, the contribution room you accumulate now will be available to you when you are ready.
+Open this account as soon as you qualify. Contribution room only starts accumulating once the account is opened, and unused room carries forward to the next year, but never more than $8,000. Even if you are not ready to buy for two or three years, opening the account now starts that room.
 
 Combined with the Home Buyers' Plan (RAP, which allows you to withdraw up to $60,000 from your RRSP), the FHSA can fund up to $100,000 of down payment per person, if the savings are there.
 
@@ -90,11 +90,11 @@ For a first purchase, Quebec announced in April 2026 a refundable tax credit tha
 
 ## The Building Inspection
 
-In Quebec, buyers have the right to include an inspection condition in their offer to purchase. This means a licensed inspector examines the property (roof, foundation, plumbing, electrical, insulation, windows) and provides a detailed written report.
+In Quebec, buyers have the right to include an inspection condition in their offer to purchase. This means a qualified building inspector (check their RBQ certificate or professional association) examines the property (roof, foundation, plumbing, electrical, insulation, windows) and provides a detailed written report.
 
 **Never purchase a property without this inspection.** Even in competitive markets where some buyers waive conditions to win bidding wars, waiving the inspection is strongly discouraged.
 
-A building inspection costs $500 to $900. It has saved clients from discovering $80,000+ in hidden problems after closing. The cost-to-risk ratio is entirely in favour of always doing the inspection.
+A building inspection costs $500 to $900. It can reveal defects that cost tens of thousands of dollars to fix. The cost-to-risk ratio is entirely in favour of always doing the inspection.
 
 ## A Step-by-Step Path for Newcomers
 
@@ -114,7 +114,7 @@ For a newcomer who wants to own property in Quebec, here is the roadmap to follo
 
 **Year 2-3:**
 - With a stable employment history and established credit: seek pre-approval
-- Engage a buyer's broker (at no cost to you, as the broker's fees are paid by the seller)
+- Engage a buyer's broker: when the seller has a broker, yours is usually paid out of the remuneration the seller pays. If that share is lower than what your brokerage contract provides, or if the seller has no broker, that contract sets what you pay
 - Begin your serious property search
 - Proceed toward purchase
 
@@ -126,7 +126,7 @@ This may be the most practical piece of advice in this guide: choose a broker wh
 
 The Quebec real estate process involves dozens of conversations, documents, and decisions. Being able to ask questions and receive explanations in your native language is not a luxury. It is a condition for making fully informed decisions.
 
-Service is available in French, English, Spanish and Arabic, with attention to the cultural context of real estate decision-making in Arab families: the role of extended family, the importance of privacy, the preference for long-term stability over short-term speculation, the significance of owning something that is truly your own.
+Service is available in French, English, Spanish and Arabic, and each family's preferences are taken into account: some want the extended family involved in the decision, others place great weight on privacy, prefer long-term stability to short-term speculation, or care above all about owning something that is truly their own.
 
 Those values align well with what Quebec real estate, done right, can offer.
 

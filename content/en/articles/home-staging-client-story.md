@@ -1,37 +1,152 @@
 ---
-title: "Home Staging: What It Actually Changes About Your Sale Price"
+title: "Preparing a Property for Sale: The Method, and the Ethical Line"
 date: 2026-07-10
+lastmod: 2026-09-21
 category: "Seller's Guide"
-description: "Staging is often seen as an optional expense. The numbers tell a different story. Here is how it affects time on market and the price you get."
+description: "Decluttering, deferred maintenance, photos, order of steps: the method before listing, and why preparation never allows you to hide a defect."
 image: "images/articles/home-staging-client-story/featured.jpg"
 ---
 
-Home staging divides sellers. Some see it as a needless expense on a property that will sell anyway. Others treat it as mandatory. The answer depends on one specific factor: how personalized your property is.
+Preparing a property before listing it means two things at once. A
+presentation job, which everyone knows about. And a series of decisions
+governed by the Real Estate Brokerage Act and the Civil Code, which get far
+less attention. Yet it is the second part that exposes a seller. Here is the
+method, item by item, and the line that no amount of preparation allows you to
+cross.
 
-## The most common scenario
+## What the seller controls, and what they don't
 
-Take a situation that recurs constantly on the North Shore. A three-bedroom semi-detached in Laval. Sound structure, good location, priced in line with comparables. But occupied by the same family for more than fifteen years, and it shows: dated furniture, walls painted in colours that shrink the rooms, a cluttered kitchen.
+A seller does not control the location, interest rates, the neighbourhood
+comparables or how many buyers are looking this month. Apart from the asking
+price, the real list is short: the visible condition of the property, the
+quality of its paperwork, the quality of the photos, the timing of the listing
+and how easy it is to visit. Short, but that is where the effort counts.
 
-A property like that gets listed, and nothing happens. Three weeks, two showings, no offers. It is a pattern that repeats constantly, and it is almost always misread: the seller concludes the price is too high, when the problem is elsewhere.
+The context shows what is at stake. In the Montreal metropolitan area, in
+August 2026, the average selling time was 42 days for a single-family home, 52
+days for a plex and 62 days for a condominium, according to Centris data
+published by the APCIQ on September 4, 2026. These are averages, and every
+property departs from them depending on its price, its area and its condition.
+For the rest of the timeline, see [how long a sale
+takes](/en/articles/how-long-to-sell-house-montreal/).
 
-## What staging actually does
+## Decluttering, before anything else
 
-Buyers do not buy the house they walk through. They buy the house they imagine living in. Staging is not deception: it is translation, converting a lived-in family home into a visual language that lets buyers project themselves into the space.
+Decluttering costs time more than money. It acts on three things a buyer
+assesses during a visit: the perceived size of the rooms, how easily a person
+moves through without walking around things, and storage capacity, which
+people judge by opening doors. A half-empty closet reads as large. The same
+closet, full, reads as too small.
 
-In practice: remove personal items and excess furniture, bring in a professional stager for a few selected pieces, repaint two walls in a neutral tone, redo the photography with a professional.
+In its seller's guide, the OACIQ suggests reviewing the visual aspects of the
+property, outside and inside, and asks in particular whether any rooms are
+cluttered or overly personalized. It then suggests listing, on a preparation
+sheet, the work needed to showcase the home. The seller can do several of
+these jobs themselves, and more specialized renovations call for a
+professional. The OACIQ also notes that this work cannot guarantee a sale
+price that offsets its cost.
 
-## The effect on the numbers
+## Deferred maintenance: fix it, then document it
 
-In this kind of situation, the investment typically runs between $2,000 and $2,500. A property relisted with new photos routinely goes from two showings in three weeks to four showings in ten days, with competing offers as a result.
+Deferred maintenance shows. A door that sticks, cracked caulking, a handle that
+spins freely, a detached gutter: none of these is serious, and that is exactly
+why they weigh. The buyer adds them up and draws a conclusion about everything
+else, including what they cannot see.
 
-The gap does not come from staging itself. It comes from the property becoming comparable again, in the buyer's mind, to the other properties they visit that same weekend.
+The part that is easiest to neglect is the paperwork. The OACIQ guideline on
+verification, information and advice provides that the seller gives the broker
+the documents supporting the declarations: invoices, warranties, plans,
+estimates, permits, reports, notices and leases. Preparing a property
+therefore also means building that file. A roof redone, with its invoice, is
+no longer a doubt, it is a dated fact. Before taking on heavier work, read
+[why some renovations don't add the value you
+expect](/en/articles/renovations-dont-add-value/). For the overall budget, see
+[the real cost of selling](/en/articles/real-cost-selling-home-quebec/). In
+its seller's guide, the OACIQ even lists preparation costs (checking the
+systems, cleaning, painting, repairs and maintenance) as a separate line in
+its table of expenses to plan for.
 
-## When it is worth it, and when it is not
+## Photography, and the red line
 
-Staging has the most effect on heavily personalized properties or ones occupied for a long time. On a recent, neutral, well-maintained property, the effect is marginal and the expense debatable.
+Photos are the first contact, and they are regulated. Section 112 of the
+Regulation respecting brokerage requirements, professional conduct of brokers
+and advertising prohibits licence holders from making representations or
+engaging in advertising "that is false, misleading or incomplete or that
+leaves out a material fact". In its advertising guideline, the OACIQ specifies
+that all advertising must be compliant, truthful, verifiable, complete, clear
+and understandable.
 
-The test is simple: if a buyer walking into your home sees your life before they see the space, staging pays for itself.
+The same guideline deals with images generated by artificial intelligence.
+When such an image is used in an ad, the ad must carry a clear and visible
+statement, such as "Image generated by artificial intelligence". The OACIQ
+specifies that this statement applies in particular to virtual staging, adding
+furniture and artificially changing a seasonal atmosphere or the lighting. It
+adds that images that fundamentally alter the actual appearance of a property
+violate the regulations and laws in force, and that brokers must never use AI
+to hide defects, alter the structure or misrepresent a property.
+
+## The order of steps
+
+One mistake to avoid: going live too early. A property listed before the
+photos are ready and before the decluttering is done makes a poor impression
+at the very moment it is new on the market, and a first impression cannot be
+redone. The logical order is simple: documents, repairs, decluttering, photos,
+listing, showings. Not the other way around.
+
+## Preparing is not hiding: the Seller's Declarations
+
+Here is the line. The Declarations by the seller of the immovable form (DS,
+Déclarations du vendeur sur l'immeuble) has been mandatory since July 2012 for
+the sale, by a natural person, of a chiefly residential immovable with fewer
+than 5 dwellings, including one held in undivided co-ownership. For a divided
+co-ownership, the DSD version applies. The form is a mandatory schedule to the
+brokerage contract, it must accompany every promise to purchase, it is sent to
+the mortgage lender and it is given to any inspector who asks for it.
+
+The seller answers in good faith and to the best of their knowledge. They must
+also disclose what previous owners told them, not only what they noticed
+themselves, and notify their broker if new information comes up after
+signing. If the seller refuses to fill out and sign the form, the broker
+simply cannot enter into a brokerage contract with them.
+
+One point deserves emphasis: having fixed a problem does not exempt it from
+disclosure. The OACIQ names water infiltration, sewer backup, cannabis
+growing, flooding, fire and infestation: repaired or not, it gets declared.
+
+## The legal risk of concealment
+
+The Civil Code is precise. The seller warrants that the property is free of
+latent defects, and is not bound to warrant against an apparent defect, one
+that a prudent and diligent buyer can perceive without the need to resort to
+an expert, article 1726. If the seller was aware or could not have been
+unaware of the defect, they must, in addition to restoring the price, make
+reparation for the injury suffered by the buyer, article 1728. The seller may
+not exclude or limit their liability without disclosing the defects they were
+aware of or could not have been unaware of, article 1733, except where the
+buyer buys at their own risk from a seller who is not a professional seller.
+The parties may modify the legal warranty, but in no case may the seller
+exempt themselves from liability for their personal acts or omissions, article
+1732. And fraud, which vitiates consent, may result from silence or
+concealment, article 1401.
+
+The OACIQ gives a concrete example of a latent defect. Basement walls covered
+with Styrofoam, a seller who had declared never having had water infiltration,
+then, the spring after the purchase, water in the basement: behind the
+Styrofoam, a significant crack several years old. Repainting a wall is
+preparation. Covering a known crack without declaring it is something else.
+
+## The method, in three stages
+
+Fill out the Seller's Declarations with your broker and gather the supporting
+documents. Fix the deferred maintenance and declutter. Photograph, then go
+live. In that order, preparation improves what the buyer sees without ever
+touching what they have a right to know. For what comes next, see [the
+pre-purchase inspection checklist](/en/articles/home-inspection-checklist-montreal/)
+and [how to prepare your home for
+sale](/en/articles/preparer-maison-vente-montreal-laval/).
 
 ---
 
-*Thinking about selling? [Let's talk about preparation strategy](/en/form/) before listing.*
+*Preparing a sale and not sure what to fix, what to declare and in what order?
+[Write to me](/en/form/), and we will build the plan before listing, not
+after.*

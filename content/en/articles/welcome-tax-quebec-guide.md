@@ -1,7 +1,7 @@
 ---
 title: "Welcome Tax in Quebec: How Much, When, and Who Pays It"
 date: 2026-06-05
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-taxe-bienvenue"
 category: "Buyer's Guide"
 description: "Transfer duties catch thousands of Quebec buyers off guard every year, because the bill arrives months after the purchase. Here is how the amount is calculated and how to plan for it."
@@ -58,7 +58,7 @@ So do not expect this amount to show up in the notary's accounting. It comes aft
 
 ## The exemptions that genuinely exist
 
-The Act provides certain exemptions, mainly for transfers between related parties: between spouses, in the direct ascending or descending line, and certain transfers involving closely related corporations.
+The Act provides certain exemptions, mainly for transfers between related parties: between spouses, in the direct ascending or descending line, and certain transfers involving closely related corporations. Even when the transfer is exempt, the municipality may, by resolution, charge a compensatory duty (droit supplétif) of at most $200.
 
 The conditions are precise and the notary verifies them at the time of the transaction. If your situation resembles one of these cases, mention it to your notary early, not after.
 

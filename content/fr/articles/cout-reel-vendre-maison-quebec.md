@@ -1,6 +1,7 @@
 ---
 title: "Le coût réel de vendre une maison au Québec"
 date: 2026-08-07
+lastmod: 2026-09-21
 translationKey: "article-cout-reel-vendre"
 category: "Guide du vendeur"
 description: "La rétribution du courtier n'est qu'une ligne parmi plusieurs. Voici la liste complète des frais de vente au Québec, y compris ceux que les vendeurs découvrent la veille de la signature."
@@ -15,7 +16,7 @@ Voici la liste complète, dans l'ordre où les frais arrivent.
 
 **Le certificat de localisation.** C'est le poste le plus souvent oublié et l'un des plus coûteux. Le vendeur doit fournir un certificat de localisation à jour, qui reflète l'état actuel du terrain et des bâtiments. Si le vôtre date de plus d'une dizaine d'années, ou si des travaux ont été faits depuis, l'acheteur ou son notaire en exigera un nouveau.
 
-Comptez généralement de 800 à 1 500 dollars, davantage pour un terrain complexe ou un immeuble à plusieurs logements. Le délai d'un arpenteur-géomètre peut dépasser plusieurs semaines en période occupée. Vérifiez le vôtre dès le départ, pas à la veille de la signature.
+Le tarif suggéré par l'Ordre des arpenteurs-géomètres du Québec pour une unifamiliale en milieu urbain est de 1 630 dollars, plus taxes et déboursés (guide de janvier 2026), et chaque arpenteur fixe ses propres honoraires. Comptez davantage pour un plex ou un terrain complexe. Le délai d'un arpenteur-géomètre peut dépasser plusieurs semaines en période occupée. Vérifiez le vôtre dès le départ, pas à la veille de la signature.
 
 **Les réparations et la préparation.** Peinture, réparations mineures, nettoyage en profondeur, entreposage temporaire. Ce n'est pas obligatoire, mais c'est le budget qui rapporte le meilleur rendement de la liste.
 
@@ -23,7 +24,7 @@ Comptez généralement de 800 à 1 500 dollars, davantage pour un terrain comple
 
 ## À la vente
 
-**La rétribution du courtier.** Généralement de 4 % à 5 % du prix de vente, plus la TPS et la TVQ. Ce n'est pas un taux réglementé au Québec, il se négocie. Sur 500 000 dollars, on parle d'environ 20 000 à 25 000 dollars avant taxes.
+**La rétribution du courtier.** Souvent de l'ordre de 4 % à 5 % du prix de vente avant taxes, auxquels s'ajoutent la TPS et la TVQ. Aucun taux n'est fixé par la loi au Québec, et il est toujours négociable. Sur 500 000 dollars, on parle d'environ 20 000 à 25 000 dollars avant taxes.
 
 C'est le poste le plus visible, et souvent le seul que les vendeurs anticipent.
 
@@ -47,6 +48,8 @@ Appelez votre prêteur avant de mettre en vente et demandez le montant exact de 
 
 **Le gain en capital.** Si la propriété vendue était votre résidence principale pendant toutes les années où vous l'avez possédée, le gain est généralement exonéré. Vous devez tout de même déclarer la disposition dans votre déclaration de revenus.
 
+Exception importante: depuis le 1er janvier 2023, si vous vendez un logement que vous avez possédé moins de 365 jours consécutifs, le profit est considéré comme un revenu d'entreprise entièrement imposable, et l'exemption pour résidence principale ne s'applique pas, sauf si la vente découle de certains événements de la vie, comme un décès, une séparation ou un déménagement pour le travail. Voyez un comptable.
+
 Si ce n'était pas votre résidence principale, par exemple un chalet, un immeuble à revenus ou une propriété locative, une portion du gain devient imposable. Le calcul dépend de votre situation et des règles applicables l'année de la vente. Parlez à un comptable avant la vente, pas après, parce que certaines décisions se prennent uniquement avant.
 
 **Le cas du plex.** Si vous vendez un duplex ou un triplex dont vous occupiez un logement, la portion locative peut générer un gain imposable et parfois une récupération d'amortissement si vous en avez réclamé. C'est le genre de situation où une heure chez un comptable coûte moins cher que la surprise.
@@ -60,7 +63,7 @@ Souvent oublié dans le calcul: déménageurs, entreposage temporaire s'il y a u
 À titre indicatif, pour une unifamiliale vendue 500 000 dollars avec une hypothèque en cours:
 
 - Rétribution du courtier: environ 22 500 dollars avant taxes
-- Certificat de localisation: environ 1 200 dollars
+- Certificat de localisation: environ 1 630 dollars plus taxes
 - Préparation et mise en valeur: 1 000 à 3 000 dollars
 - Quittance hypothécaire: quelques centaines de dollars
 - Pénalité hypothécaire: de zéro à plusieurs milliers, selon votre terme

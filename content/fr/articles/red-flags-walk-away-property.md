@@ -48,7 +48,11 @@ l'acheteur. L'OACIQ a publié une mise en garde après l'arrêt Tremblay c.
 Immeubles Perron ltée, qui confirme Blais c. Laforce, 2022 QCCA 858. Le silence
 du vendeur sur un vice qu'il connaît ne constitue plus un dol dans une vente aux
 risques et périls : l'acheteur doit désormais prouver un mensonge, une
-demi-vérité ou une manoeuvre destinée à le tromper. La clause vous impute aussi
+demi-vérité ou une manoeuvre destinée à le tromper. Cela n'autorise pas à
+mentir : le vendeur doit répondre avec exactitude aux Déclarations du vendeur,
+et une fausse réponse est un mensonge, pas un silence. Le courtier inscripteur,
+lui, doit toujours informer les parties de tout facteur défavorable dont il a
+connaissance. La clause vous impute aussi
 la connaissance présumée des vices et vous ferme tout recours contre les anciens
 propriétaires.
 

@@ -144,8 +144,8 @@ conservation.
 
 ## Insurance, and the real question behind replacement cost
 
-Under the Cultural Heritage Act, an old house is a house built before 1940.
-Before shopping for a policy, assemble the file: legal status or inventory
+The Cultural Heritage Act uses 1940 as the threshold for the RCM heritage
+inventories. Before shopping for a policy, assemble the file: legal status or inventory
 listing, citation by-law, notice of classification, then photos and invoices for
 the big items already redone, roof, heating, plumbing.
 

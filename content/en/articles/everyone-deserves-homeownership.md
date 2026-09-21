@@ -61,7 +61,8 @@ project is impossible.
 ## The two credits in the year of purchase
 
 **Federal (line 31270):** $10,000 at the lowest tax rate, which is 14 % in
-2026, so $1,400.
+2026, so $1,400 (about $1,169 net in Quebec, because of the Quebec
+abatement).
 
 **Quebec (line 396):** $10,000 at 14 %, so $1,400 as well.
 
@@ -107,9 +108,9 @@ to resales, meaning the vast majority of Greater Montreal transactions.
 The minimum down payment is 5 % up to $500,000, then 5 % on the first $500,000
 and 10 % on the portion between $500,000 and $1.5 million. From $1.5 million
 up, it is 20 %. Below 20 %, mortgage loan insurance becomes mandatory: the
-CMHC premium runs from 0.60 % to 4.50 % of the loan amount depending on the
-loan-to-value ratio, and in Quebec provincial sales tax is added on top and
-cannot be rolled into the loan.
+CMHC premium runs from 2.80 % to 4.00 % of the loan amount depending on the
+loan-to-value ratio (4.50 % with a non-traditional down payment), and in
+Quebec provincial sales tax is added on top and cannot be rolled into the loan.
 
 Since December 15, 2024, 30-year amortization is available to all first-time
 buyers as well as to buyers of newly built homes, and the ceiling for insured

@@ -1,7 +1,7 @@
 ---
 title: "Hériter d'une propriété au Québec : ce que les héritiers doivent savoir avant de vendre ou de garder"
 date: 2026-05-16
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Immobilier 101"
 description: "Liquidateur, notaire, déclaration de transmission, impôt au décès, taxe de bienvenue et maison vide : les étapes avant de vendre, racheter ou garder la maison."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
@@ -17,7 +17,7 @@ Le liquidateur administre la succession : inventaire, paiement des dettes, décl
 
 Sauf si le testament lui donne des pouvoirs plus larges, le liquidateur ne peut pas vendre la maison seul. Il lui faut le consentement des héritiers ou, à défaut, l'autorisation du tribunal.
 
-Le notaire intervient à chaque étape qui touche l'immeuble : vérification du testament, déclaration de transmission, acte de vente ou de partage. Si le défunt était marié ou uni civilement, le partage du patrimoine familial, qui comprend normalement la résidence familiale, se règle aussi.
+Le notaire intervient à chaque étape qui touche l'immeuble : vérification du testament, déclaration de transmission, acte de vente ou de partage. Si le défunt était marié ou uni civilement, le partage du patrimoine familial, qui comprend normalement la résidence familiale, se règle aussi. Depuis le 30 juin 2025, il en va de même pour un couple en union parentale : la valeur du patrimoine d'union parentale, qui comprend les résidences de la famille, se partage à parts égales entre le conjoint survivant et les héritiers. Le notaire confirme quel régime s'applique.
 
 ## Première étape : trouver le bon testament
 
@@ -28,7 +28,7 @@ Une seule demande de recherche testamentaire couvre ensuite les registres de la 
 - **Testament notarié** : aucune vérification requise. Le liquidateur peut agir rapidement.
 - **Testament olographe ou devant témoins** : il doit être vérifié par le tribunal ou par un notaire. Comptez plusieurs semaines de succession pratiquement bloquée.
 
-Sans testament, le Code civil désigne les héritiers, et un conjoint de fait n'en fait pas toujours partie.
+Sans testament, le Code civil désigne les héritiers. Le conjoint marié, uni civilement ou en union parentale en fait partie : avec des enfants, il reçoit le tiers de la succession, et les enfants les deux tiers. Un conjoint de fait hérite donc seulement s'il formait une union parentale avec le défunt au moment du décès, ce qui suppose en règle générale un enfant commun né ou adopté depuis le 30 juin 2025. Sinon, il n'hérite pas sans testament.
 
 ## La déclaration de transmission : l'étape qui débloque la maison
 

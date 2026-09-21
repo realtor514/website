@@ -81,8 +81,9 @@ et le taux municipal :
 
 Exemple purement illustratif, calculé avec ces seuls taux officiels : sur une
 base de 500 000 $, les droits atteignent 5 610,50 $. Sur une base de
-642 750 $, ils atteignent 9 893 $. La marche franchie au demi-million coûte
-donc plus cher que les trois premières tranches réunies.
+642 750 $, ils atteignent 9 893 $. Les 142 750 $ situés au-delà du
+demi-million coûtent à eux seuls 4 282,50 $ : environ 22 % de la base, mais
+plus de 43 % de la facture.
 
 Attention à la base de calcul : ce n'est pas le prix payé, mais le plus élevé
 de trois montants, la contrepartie fournie, la contrepartie stipulée et la

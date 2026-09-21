@@ -1,7 +1,7 @@
 ---
 title: "5 preguntas que debe hacer antes de contratar a un corredor inmobiliario"
 date: 2026-06-15
-lastmod: 2026-08-31
+lastmod: 2026-09-21
 category: "Inmobiliaria 101"
 description: "La mayoría elige corredor por una recomendación o por un cartel. Aquí están las cinco preguntas que revelan cómo trabaja realmente, y las respuestas que deberían preocuparle."
 image: "images/articles/questions-hire-broker/featured.jpg"
@@ -79,9 +79,9 @@ en esta zona este año, y cuántas de sus ofertas fueron aceptadas?
 ## 4. ¿Cómo gestiona los conflictos de interés?
 
 Aquí es donde el marco quebequense cambió y mucha gente sigue con información
-caducada. **Desde junio de 2022, la doble representación está prohibida en
-Quebec.** Un corredor ya no puede representar al comprador y al vendedor en la
-misma transacción.
+caducada. **Desde junio de 2022, en el sector residencial, un mismo corredor ya
+no puede representar al comprador y al vendedor en la misma transacción, salvo
+raras excepciones previstas por reglamento.**
 
 Lo que sigue siendo posible: el corredor representa a una parte y «trata» a la
 otra sin representarla, con un deber de equidad y de información exacta hacia
@@ -105,7 +105,9 @@ consecuencias.
 
 **La cláusula de protección.** Prevé que la comisión sigue siendo exigible si
 usted vende, poco después del fin del contrato, a un comprador presentado
-durante este. Es normal. Verifique solo su duración.
+durante este. Es normal. La ley la limita a 180 días, y no se aplica si, durante
+ese periodo, usted firmó un contrato de corretaje exclusivo con otro titular de
+licencia. Verifique su duración.
 
 Un corredor que esquiva esta pregunta, o que le hace sentir que está de más
 hacerla, ya le está diciendo cómo reaccionará el día en que algo salga mal.

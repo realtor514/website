@@ -120,8 +120,8 @@ alone.
 CMHC includes 50% of condominium fees in the gross debt service and total debt
 service calculations, ratios it caps at 39% and 44%. The minimum down payment
 on an insured loan is 5% of the first $500,000 and 10% of the remainder, for a
-property value below $1,500,000, with a maximum amortization of 25 years. A
-house at the same price has no condo fee line, but its taxes and heating go
+property value below $1,500,000, with a maximum amortization of 25 years, or 30
+years for a first-time buyer or a new build. A house at the same price has no condo fee line, but its taxes and heating go
 into the same ratios. Run both scenarios from
 [pre-approval](/en/articles/guide-hypotheque-premier-acheteur-quebec/) onward.
 

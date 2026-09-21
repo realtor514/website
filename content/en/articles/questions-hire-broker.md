@@ -1,7 +1,7 @@
 ---
 title: "5 Questions You Must Ask Before Hiring a Real Estate Broker"
 date: 2026-06-15
-lastmod: 2026-08-31
+lastmod: 2026-09-21
 category: "Real Estate 101"
 description: "Most people choose a broker from a referral or a yard sign. Here are the five questions that reveal how a broker actually works, and the answers that should worry you."
 image: "images/articles/questions-hire-broker/featured.jpg"
@@ -78,9 +78,9 @@ this sector this year, and how many of their offers were accepted?
 ## 4. "How do you handle conflicts of interest?"
 
 This is where the Quebec framework changed and many people still carry outdated
-information. **Since June 2022, dual representation is prohibited in Quebec.** A
-broker can no longer represent both the buyer and the seller in the same
-transaction.
+information. **Since June 2022, in residential real estate, the same broker can
+no longer represent both the buyer and the seller in the same transaction,
+except in rare cases provided for by regulation.**
 
 What remains possible: the broker represents one party and "treats" the other
 without representing them, owing that party fairness and accurate information,
@@ -104,7 +104,9 @@ consequences.
 
 **The protection clause.** It provides that commission remains payable if you
 sell, shortly after the contract ends, to a buyer introduced during it. It is
-normal. Just check its duration.
+normal. The law caps it at 180 days, and it does not apply if, during that
+period, you signed an exclusive brokerage contract with another licence holder.
+Check its duration.
 
 A broker who dodges this question, or makes you feel it is rude to ask, is
 already telling you how they will react the day something goes wrong.

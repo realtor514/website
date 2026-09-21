@@ -127,7 +127,8 @@ La SCHL inclut 50 % des frais de copropriété dans le calcul de l'amortissement
 brut et de l'amortissement total de la dette, ratios qu'elle plafonne à 39 % et
 44 %. La mise de fonds minimale d'un prêt assuré est de 5 % sur les premiers
 500 000 $ et de 10 % sur le reste, pour une valeur inférieure à 1 500 000 $, avec
-un amortissement maximal de 25 ans. Une maison au même prix n'a pas de ligne de
+un amortissement maximal de 25 ans, ou de 30 ans pour un premier acheteur ou
+une construction neuve. Une maison au même prix n'a pas de ligne de
 frais de copropriété, mais ses taxes et son chauffage entrent dans les mêmes
 ratios. Faites tourner les deux scénarios dès la
 [préapprobation](/articles/guide-hypotheque-premier-acheteur/).

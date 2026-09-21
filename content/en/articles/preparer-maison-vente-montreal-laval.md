@@ -1,13 +1,14 @@
 ---
 title: "How to Prepare Your Home for Sale in Montreal and Laval"
 date: 2026-05-10
+lastmod: 2026-09-21
 translationKey: "article-preparer-maison-vente"
 category: "Seller's Guide"
-description: "The sellers who prepare well consistently sell faster and for more money. Here is exactly what to do (and what not to waste money on) before listing your property."
+description: "Careful preparation generally helps attract more visitors in the first weeks. Here is exactly what to do (and what not to waste money on) before listing your property."
 image: "images/articles/preparer-maison-vente-montreal-laval/featured.jpg"
 ---
 
-The sellers who prepare their properties well consistently sell faster and for more money than those who don't. This is not a theory; it is visible in the data every single month.
+Careful preparation generally helps attract more visitors in the first weeks on the market.
 
 But preparation doesn't mean spending $50,000 on renovations. It means being strategic about what buyers actually respond to. Here is what every seller should know before listing.
 
@@ -39,19 +40,15 @@ You don't need to renovate. You need to remove every reason a buyer might hesita
 
 Home staging is not about decorating to your own taste; it is about presenting a space so that the maximum number of buyers can project themselves into it.
 
-Statistically, well-staged homes sell 50% faster than un-staged equivalents, and they often sell closer to (or above) asking price. The investment is typically $1,500 to $3,000 for a professional staging consultation and rental of key pieces.
-
-The return is almost always positive.
+Careful staging can help buyers see the space more clearly, in photos as well as in person. The investment is typically $1,500 to $3,000 for a professional staging consultation and rental of key pieces.
 
 ## Professional Photography Is Not Optional
 
-More than 90% of buyers start their property search online. Your first showing is your photos.
+Most buyers discover properties online. Your first showing is your photos.
 
 Dark, blurry, or poorly composed photos send buyers scrolling to the next listing in two seconds. A professional real estate photographer costs $200 to $500. For a $600,000 property, that is less than 0.1% of the selling price.
 
 Insist on it. If your agent wants to use their phone, that is the wrong agent.
-
-For larger properties, drone photography adds significant value by showcasing the land, the surroundings, and the scale of the home.
 
 ## What NOT to Renovate Before Selling
 
@@ -72,28 +69,6 @@ The temptation is to minimize problems so buyers aren't scared away. This is a s
 If there was a past water infiltration (even one that was properly repaired), declare it with the supporting documentation. Transparency with documentation actually builds buyer confidence. It says: there was an issue, here is how it was resolved, here is the proof.
 
 Sellers who disclose proactively tend to sell faster and with fewer complications than those who hide and hope.
-
-## Timing the Market
-
-Spring (March to May) generates the highest volume of buyers and the most competitive conditions for sellers. But it also brings more properties to market, meaning more competition for your listing.
-
-Fall (September to October) brings serious, motivated buyers with less competition from other sellers.
-
-Winter is underrated: fewer properties compete for buyers, and the buyers who are active in December or January are highly motivated.
-
-The best time to list is when your property is ready and the market in your specific area is active. A well-prepared property sells well in any season.
-
-## The Bottom Line
-
-The sellers who succeed are those who:
-
-1. Price based on data, not hope
-2. Fix visible defects and clean thoroughly
-3. Invest in professional photography and basic staging
-4. Complete their seller's declaration honestly and completely
-5. Work with a broker who tells them the truth about the market
-
-The preparation is straightforward. The discipline to follow through is rarer than you'd think.
 
 ---
 

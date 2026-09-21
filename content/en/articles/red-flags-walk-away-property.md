@@ -48,6 +48,9 @@ warning after the Court of Appeal ruling in Tremblay v. Immeubles Perron ltee,
 which confirms Blais v. Laforce, 2022 QCCA 858. A seller's silence about a
 defect he knows of no longer amounts to fraud in an at your own risk sale: the
 buyer must now prove a lie, a half truth or a manoeuvre meant to deceive him.
+That is no licence to lie: the seller must answer the Seller's Declarations
+accurately, and a false answer is a lie, not silence. The listing broker, for
+his part, must still inform the parties of every adverse factor he knows of.
 The clause also imputes presumed knowledge of defects to you and closes off any
 recourse against previous owners.
 

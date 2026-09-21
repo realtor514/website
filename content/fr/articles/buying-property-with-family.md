@@ -62,9 +62,12 @@ de l'indivision, sans se justifier.
 Vous pouvez reporter ce droit, pas l'éteindre. Les indivisaires peuvent, par
 écrit, convenir de reporter le partage, pour une durée maximale de 30 ans,
 renouvelable (art. 1013). Le tribunal peut aussi surseoir au partage immédiat,
-pour au plus deux ans (art. 1032). Et dans l'autre sens, les trois quarts des
-indivisaires représentant 90 % des parts peuvent mettre fin à l'indivision
-d'un immeuble (art. 1031).
+pour au plus deux ans (art. 1032). L'article 1031 permet aussi aux trois quarts
+des indivisaires représentant 90 % des parts, malgré toute convention
+contraire, de mettre fin à l'indivision d'un immeuble principalement à usage
+d'habitation, mais seulement pour le convertir en copropriété divise (condo) :
+les autres peuvent alors payer en argent la part de ceux qui s'y opposent. Ce
+n'est pas un moyen général d'écarter un coindivisaire.
 
 L'article 1022 ajoute un filet : si un étranger à l'indivision achète la part
 d'un indivisaire, les autres ont 60 jours, à compter du moment où ils

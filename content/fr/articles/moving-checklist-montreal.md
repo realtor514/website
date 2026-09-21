@@ -1,7 +1,7 @@
 ---
 title: "Déménager à Montréal ou à Laval : la liste complète, échéance par échéance"
 date: 2026-06-04
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Guide pratique"
 description: "Avis de bail, cession, changement d'adresse, Hydro-Québec, permis de camion, écocentres : la liste de déménagement du Grand Montréal, échéance par échéance."
 image: "images/articles/moving-checklist-montreal/featured.jpg"
@@ -32,7 +32,7 @@ loi.
 |---|---|
 | Durée fixe de 12 mois ou plus | 3 à 6 mois avant la fin du bail |
 | Durée fixe de moins de 12 mois | 1 à 2 mois avant la fin du bail |
-| Durée indéterminée | Le terme de paiement du loyer, maximum 3 mois |
+| Durée indéterminée | 1 à 2 mois avant la fin souhaitée du bail |
 | Chambre | 10 à 20 jours avant la fin du bail |
 
 Un bail du 1er juillet au 30 juin se dénonce entre le 1er janvier et le 31 mars.
@@ -143,7 +143,10 @@ départ et d'arrivée, la date et l'heure, le prix convenu ou le taux
 horaire, et le montant total à payer.
 
 Pour une entente par téléphone ou par internet, le contrat écrit doit vous être
-remis dans les 15 jours, et il n'existe aucun délai de 10 jours pour annuler.
+remis dans les 15 jours. Il n'existe aucun délai de 10 jours pour annuler, sauf
+les recours prévus pour les contrats conclus à distance, par exemple si le
+déménageur ne vous remet pas ce contrat à temps ou omet des renseignements
+obligatoires : l'Office de la protection du consommateur les détaille.
 Évitez les gros acomptes et méfiez-vous du déménageur qui exige le comptant sans
 contrat : sans document ni trace de paiement, un prix gonflé à
 l'arrivée ou un meuble brisé devient presque impossible à contester. Un

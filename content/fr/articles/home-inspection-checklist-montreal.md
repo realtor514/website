@@ -1,7 +1,7 @@
 ---
 title: "Inspection préachat : la liste de ce qu'on vérifie, poste par poste"
 date: 2026-06-25
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Guide de l'acheteur"
 description: "Toiture, fondation, drain, plomberie, électricité, pyrite, vermiculite, plomb, radon : ce que l'inspecteur regarde vraiment, et ce qu'il ne verra jamais."
 image: "images/articles/home-inspection-checklist-montreal/featured.jpg"
@@ -114,7 +114,7 @@ souterrain hors d'usage soit retiré du sol, sauf attestation, et le propriétai
 doit faire vérifier si les sols ont été contaminés. Le déversement de mazout est
 une exclusion fréquente en assurance habitation.
 
-**L'entrée d'eau en plomb à Montréal.** Les bâtiments de moins de 8 logements
+**L'entrée d'eau en plomb à Montréal.** Les bâtiments de 8 logements ou moins
 construits avant 1970 sont les plus susceptibles d'en avoir une ; la Ville
 publie une carte adresse par adresse. Remplacer la portion privée est
 obligatoire en vertu du règlement 20-030, dans les 24 mois suivant l'avis de
@@ -122,7 +122,7 @@ non-conformité ; une aide financière existe. Demandez si c'est fait.
 
 **Le radon.** La ligne directrice canadienne est de 200 becquerels par mètre
 cube. Santé Canada recommande un détecteur à long terme placé au moins trois
-mois à l'étage le plus bas, l'automne et l'hiver : les tests d'été sous-estiment
+mois au plus bas niveau habité, l'automne et l'hiver : les tests d'été sous-estiment
 le niveau annuel.
 
 **L'ocre ferreuse.** Le fer, l'oxygène et certaines bactéries du sol forment un
@@ -135,8 +135,8 @@ années 1970, il pose problème non par le fil, mais par les raccords, qui
 s'oxydent et se desserrent. Un assureur peut exiger une lettre de conformité
 d'un maître électricien.
 
-Aucun de ces huit sujets n'entre dans l'inspection de base : ce sont des
-expertises à part, à demander.
+La plupart de ces huit sujets exigent un test ou une expertise à part, à
+demander ; l'inspecteur peut en signaler les indices.
 
 ## Ce que vous faites du rapport
 

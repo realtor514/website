@@ -1,7 +1,7 @@
 ---
 title: "La mise de fonds de 20 % : le mythe qui freine les acheteurs"
 date: 2026-07-25
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Financement"
 description: "La mise de fonds minimale au Québec, le vrai coût de l'assurance SCHL, la TVQ payable comptant que personne n'anticipe, et comment savoir si attendre vous rapporte ou vous coûte."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"
@@ -46,6 +46,10 @@ fonds :
 - Mise de fonds de 10 % à 14,99 % : prime de 3,10 %
 - Mise de fonds de 15 % à 19,99 % : prime de 2,80 %
 
+Un amortissement de 30 ans, possible si au moins un emprunteur est premier
+acheteur ou si l'habitation est neuve, ajoute 0,20 point à la prime : 4,20 % au
+lieu de 4,00 %, par exemple.
+
 Sur une propriété de 500 000 $ avec 10 % comptant, l'emprunt est de 450 000 $
 et la prime de 13 950 $. Elle n'est pas payée comptant : elle s'ajoute au
 capital de votre hypothèque.
@@ -81,6 +85,7 @@ vous semblent réalistes pour votre secteur.
 
 | Appréciation annuelle | Prix dans 3 ans | 20 % à épargner | Écart avec 100 000 $ |
 |---|---|---|---|
+| Baisse de 3 % | 456 337 $ | 91 267 $ | 8 733 $ de moins |
 | 0 % | 500 000 $ | 100 000 $ | aucun |
 | 3 % | 546 364 $ | 109 273 $ | 9 273 $ de plus |
 | 5 % | 578 813 $ | 115 763 $ | 15 763 $ de plus |
@@ -91,9 +96,12 @@ avancer.
 
 Et pendant ces trois ans, si vous aviez acheté, cette même appréciation aurait
 joué en votre faveur : 46 364 $ d'équité à 3 %, 78 813 $ à 5 %. À comparer à la
-prime de 13 950 $ que vous avez voulu éviter.
+prime de 13 950 $ que vous avez voulu éviter. À l'inverse, avec une baisse de
+3 % par année, la propriété aurait perdu 43 663 $ de valeur, en plus de la prime
+payée. Cette comparaison laisse de côté les intérêts hypothécaires, les taxes
+municipales et scolaires, l'entretien et les frais de clôture.
 
-Dans un marché stable, l'arbitrage s'inverse complètement : l'attente ne coûte
+Dans un marché stable ou en baisse, l'arbitrage s'inverse : l'attente ne coûte
 plus rien en appréciation perdue, et éviter la prime devient un gain net. C'est
 pourquoi la réponse ne peut pas être la même pour tout le monde.
 
@@ -157,8 +165,8 @@ le cadre des trois autres.
 ## L'essentiel
 
 Pour un premier acheteur avec un revenu stable, un fonds d'urgence solide et des
-attentes réalistes, acheter avec 5 à 10 % est souvent supérieur à attendre trois
-ans. Pour un acheteur qui s'étire au maximum ou dont le revenu est incertain,
+attentes réalistes, acheter avec 5 à 10 % plutôt que d'attendre trois ans peut
+être avantageux selon votre situation. Pour un acheteur qui s'étire au maximum ou dont le revenu est incertain,
 attendre et consolider est le bon choix.
 
 La règle héritée ne fait pas la différence entre ces deux personnes. Le calcul,

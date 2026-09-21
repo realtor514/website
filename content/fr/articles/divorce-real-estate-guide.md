@@ -1,7 +1,7 @@
 ---
 title: "Séparation, divorce et maison au Québec : ce que vous devez savoir"
 date: 2026-06-20
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Immobilier 101"
 description: "Patrimoine familial, union parentale, rachat, vente ou copropriété : ce qui arrive à la maison quand un couple se sépare au Québec, et les pièges hypothécaires."
 image: "images/articles/divorce-real-estate-guide/featured.jpg"
@@ -141,8 +141,10 @@ confirmera le calendrier.
   médiateur.
 
 Les couples qui ont des enfants à charge ont droit à 5 heures de médiation
-familiale gratuites avec un médiateur accrédité (2 h 30 pour une révision). La
-médiation peut porter sur le partage des biens, pas seulement sur la garde.
+familiale gratuites avec un médiateur accrédité (2 h 30 pour une révision). Les
+couples sans enfant commun à charge, qu'ils soient mariés, unis civilement ou
+conjoints de fait, ont droit à jusqu'à 3 heures gratuites. La médiation peut
+porter sur le partage des biens, pas seulement sur la garde.
 
 ## Une valeur neutre, avant toute négociation
 

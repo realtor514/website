@@ -83,8 +83,8 @@ municipal rate:
 
 A purely illustrative example, computed with those official rates alone: on a
 base of $500,000 the duties come to $5,610.50. On a base of $642,750 they come
-to $9,893. The step taken at the half million therefore costs more than the
-first three brackets combined.
+to $9,893. The $142,750 above the half million cost $4,282.50 on their own:
+about 22% of the base, but more than 43% of the bill.
 
 Watch the base of the calculation: it is not the price paid, but the greatest
 of three amounts, the consideration furnished, the consideration stipulated and

@@ -1,7 +1,7 @@
 ---
 title: "Tout ce que les premiers acheteurs doivent savoir sur les hypothèques au Québec"
 date: 2026-07-29
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-guide-hypotheque"
 category: "Financement"
 description: "Le processus hypothécaire est plus complexe que votre banque le laisse paraître, et plus simple que ce qu'internet vous fait croire. Voici le guide complet et honnête pour les premiers acheteurs au Québec."
@@ -33,11 +33,11 @@ Si votre taux hypothécaire est de 5%, vous devez vous qualifier à 7%. Cela sig
 
 ## Votre banque vs un courtier hypothécaire
 
-La plupart des premiers acheteurs vont directement à leur banque. Voici ce que ça signifie: vous voyez les produits d'un seul prêteur, un prêteur qui a tout intérêt à vous offrir le taux et les conditions qui maximisent sa marge.
+La plupart des premiers acheteurs vont directement à leur banque. Vous y voyez alors les produits d'un seul prêteur.
 
-Un courtier hypothécaire a accès à 20 à 30 prêteurs: banques, caisses populaires et prêteurs alternatifs. Il compare pour vous et trouve le taux et les conditions les plus compétitifs disponibles selon votre profil. Ses honoraires sont typiquement payés par le prêteur, pas par vous.
+Un courtier hypothécaire peut présenter votre dossier à plusieurs prêteurs. Au Québec, il doit être certifié par l'AMF, et vous pouvez vérifier son certificat dans le registre de l'AMF.
 
-La marche à suivre: commencez par un courtier hypothécaire. Obtenez la meilleure offre disponible. Puis retournez voir votre banque et demandez-lui de faire mieux. Vous obtiendrez presque toujours un meilleur résultat que si vous étiez resté exclusivement avec votre banque.
+La marche à suivre: comparez plusieurs sources (banque, caisse, courtier hypothécaire certifié AMF) et demandez comment chacun est rémunéré. Une offre obtenue ailleurs vous donne aussi un point de comparaison pour discuter avec votre banque.
 
 ## Taux fixe vs variable: la décision qui dépend de vous
 
@@ -45,7 +45,7 @@ C'est la question la plus fréquente, et la réponse est toujours la même: **il
 
 **Taux fixe:** Vous savez exactement ce que vous payez pour toute la durée du terme. Vous payez une prime pour cette certitude.
 
-**Taux variable:** Votre taux suit le taux directeur de la Banque du Canada. Historiquement, les taux variables ont battu les taux fixes sur de longues périodes, mais pas toujours, et pas de façon prévisible.
+**Taux variable:** Votre taux suit le taux préférentiel de votre prêteur, plus ou moins un écart. Il peut donc monter ou descendre pendant le terme.
 
 La vraie question est votre tolérance au risque. Si une hausse de 200 dollars par mois en paiements mettrait votre budget sous pression, choisissez le fixe.
 
@@ -54,7 +54,7 @@ La vraie question est votre tolérance au risque. Si une hausse de 200 dollars p
 **CELIAPP (Compte d'épargne libre d'impôt pour l'achat d'une première propriété):**
 Introduit en 2023, il vous permet d'épargner jusqu'à 40 000 dollars sur une vie dans un compte où les cotisations sont déductibles d'impôt comme un REER, et les retraits pour l'achat d'une maison sont complètement non imposables comme un CELI.
 
-L'espace de cotisation s'accumule à 8 000 dollars par année. **Ouvrez ce compte maintenant, même si vous n'achetez pas avant trois ans.** L'espace que vous accumulez maintenant sera disponible quand vous serez prêt.
+L'espace de cotisation s'accumule à 8 000 dollars par année, et l'espace inutilisé ne se reporte à l'année suivante que jusqu'à 8 000 dollars. **Ouvrez ce compte maintenant, même si vous n'achetez pas avant trois ans.** L'espace que vous accumulez maintenant sera disponible quand vous serez prêt.
 
 **Régime d'accession à la propriété (RAP):**
 Retirez jusqu'à 60 000 dollars de votre REER pour un premier achat immobilier (120 000 dollars pour un couple). Le montant est remboursable dans votre REER sur 15 ans.
@@ -71,11 +71,9 @@ C'est pourquoi négocier votre taux est important. Et c'est pourquoi utiliser le
 
 ## L'erreur à éviter au renouvellement
 
-Quand votre terme hypothécaire se termine, votre banque vous envoie une lettre de renouvellement avec "leur meilleur taux." Dans la plupart des cas, ce n'est pas leur meilleur taux. C'est le taux qui produit leur meilleure marge.
+Quand votre terme hypothécaire se termine, votre banque vous envoie une lettre de renouvellement avec "leur meilleur taux." Ce taux n'est pas toujours le plus bas offert: comparez.
 
 Commencez à comparer les taux 90 à 120 jours avant votre date de renouvellement. Apportez une offre concurrente à votre banque. Demandez-leur de l'égaler ou de faire mieux. Si elle refuse, changez de prêteur; le processus est plus simple que la plupart des gens le pensent.
-
-Un renouvellement bien négocié peut vous économiser de 5 000 à 15 000 dollars sur le prochain terme de 5 ans.
 
 ---
 

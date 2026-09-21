@@ -1,6 +1,7 @@
 ---
 title: "The Real Cost of Selling a House in Quebec"
 date: 2026-08-07
+lastmod: 2026-09-21
 translationKey: "article-cout-reel-vendre"
 category: "Seller's Guide"
 description: "Broker compensation is only one line among several. Here is the complete list of selling costs in Quebec, including the ones sellers discover the day before signing."
@@ -15,7 +16,7 @@ Here is the complete list, in the order the costs arrive.
 
 **The certificate of location.** This is the most frequently forgotten item and one of the most expensive. The seller must provide an up-to-date certificate of location reflecting the current state of the land and buildings. If yours is more than about ten years old, or if work has been done since, the buyer or their notary will require a new one.
 
-Budget roughly $800 to $1,500, more for a complex lot or a multi-unit building. Land surveyor turnaround can exceed several weeks in busy periods. Check yours at the start, not the night before signing.
+The suggested fee from the Ordre des arpenteurs-géomètres du Québec for a single-family home in an urban area is $1,630, plus taxes and disbursements (January 2026 guide), and each surveyor sets their own fees. Budget more for a plex or a complex lot. Land surveyor turnaround can exceed several weeks in busy periods. Check yours at the start, not the night before signing.
 
 **Repairs and preparation.** Paint, minor repairs, deep cleaning, temporary storage. It is not mandatory, but it is the budget line with the best return on the list.
 
@@ -23,7 +24,7 @@ Budget roughly $800 to $1,500, more for a complex lot or a multi-unit building. 
 
 ## At the sale
 
-**Broker compensation.** Generally 4% to 5% of the sale price, plus GST and QST. This is not a regulated rate in Quebec, it is negotiable. On $500,000, that is roughly $20,000 to $25,000 before tax.
+**Broker compensation.** Often in the range of 4% to 5% of the sale price before tax, with GST and QST added on top. No rate is set by law in Quebec, and it is always negotiable. On $500,000, that is roughly $20,000 to $25,000 before tax.
 
 It is the most visible item, and often the only one sellers anticipate.
 
@@ -47,6 +48,8 @@ Call your lender before you list and ask for the exact penalty amount as of your
 
 **Capital gains.** If the property sold was your principal residence for every year you owned it, the gain is generally exempt. You must still report the disposition on your tax return.
 
+One important exception: since January 1, 2023, if you sell a home you owned for less than 365 consecutive days, the profit is treated as business income and fully taxable, and the principal residence exemption does not apply, unless the sale results from certain life events, such as a death, a separation or a move for work. See an accountant.
+
 If it was not your principal residence, for example a cottage, an income property or a rental, a portion of the gain becomes taxable. The calculation depends on your situation and on the rules in force the year of the sale. Talk to an accountant before the sale, not after, because some decisions can only be made beforehand.
 
 **The plex case.** If you are selling a duplex or triplex where you occupied one unit, the rental portion can generate a taxable gain and sometimes recapture of capital cost allowance if you claimed it. This is exactly the situation where an hour with an accountant costs less than the surprise.
@@ -60,7 +63,7 @@ Often left out of the calculation: movers, temporary storage if there is a gap b
 As an indication, for a single-family home sold at $500,000 with a mortgage in place:
 
 - Broker compensation: roughly $22,500 before tax
-- Certificate of location: roughly $1,200
+- Certificate of location: roughly $1,630 plus taxes
 - Preparation and staging: $1,000 to $3,000
 - Mortgage discharge: a few hundred dollars
 - Mortgage penalty: from zero to several thousand, depending on your term

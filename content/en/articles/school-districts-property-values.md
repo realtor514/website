@@ -66,10 +66,12 @@ address does not freeze those admission conditions.
 ## Eligibility for English school does not come with the house
 
 Access to English public education is governed by the Charter of the French
-Language. The child must meet one of the listed conditions: having received the
-greater part of their elementary or secondary instruction in English in Canada,
-having a brother or sister in that situation, or having a Canadian citizen
-parent who attended an English elementary school in Canada. Temporary
+Language. Its section 73 provides two routes, and both require the child's
+father or mother to be a Canadian citizen. First route: that parent received in
+English the major part of the elementary instruction they received in Canada.
+Second route: the child has received or is receiving in English the major part
+of the elementary or secondary instruction received in Canada, in which case
+the child's brothers and sisters are eligible as well. Temporary
 authorizations exist, notably for children of foreign workers or students. The
 Ministry of Education renders the decision, in writing, on a request forwarded
 by the school organization. No address creates that eligibility.

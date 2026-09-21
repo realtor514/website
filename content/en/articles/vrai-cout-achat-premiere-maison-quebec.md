@@ -1,7 +1,7 @@
 ---
 title: "The Real Cost of Buying Your First Home in Quebec"
 date: 2026-06-10
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-vrai-cout-premiere-maison"
 category: "Buyer's Guide"
 description: "Everyone talks about the purchase price. Nobody tells you about what comes after. Here is the complete cost breakdown every first-time buyer in Quebec needs to know."
@@ -11,7 +11,7 @@ draft: false
 
 Everyone tells you what the house costs. Nobody tells you what buying it actually costs.
 
-The pattern repeats constantly: first-time buyers arrive at closing day with their down payment ready, and then discover they need an additional $15,000 to $20,000 they hadn't planned for. That moment of surprise is avoidable, and this article is written to make sure it doesn't happen to you.
+The pattern repeats constantly: first-time buyers arrive at closing day with their down payment ready, and then discover they need an additional $13,000 to $17,000 they hadn't planned for. That moment of surprise is avoidable, and this article is written to make sure it doesn't happen to you.
 
 ## The Purchase Price Is Just the Beginning
 
@@ -21,7 +21,7 @@ When you buy a $500,000 property in Quebec, here is what you actually need to ha
 The legal minimum is 5%, so $25,000 on a $500K property. But 5% is rarely the optimal financial choice (more on that below).
 
 **2. CMHC Mortgage Insurance**
-If your down payment is under 20%, you're required by law to purchase CMHC insurance. This insurance protects the lender (not you) and it costs between 2.8% and 4% of your loan amount. On a $475,000 mortgage, that's up to $19,000 added directly to your loan. You'll pay interest on that amount for the entire life of your mortgage. The 9% tax on that premium (9.975% from 2027), however, is not added to the loan: it is paid in cash at the notary.
+If your down payment is under 20%, you're required by law to purchase CMHC insurance. This insurance protects the lender (not you) and it costs between 2.8% and 4% of your loan amount (plus 0.20 percentage points with a 30-year amortization). On a $475,000 mortgage, that's up to $19,000 added directly to your loan. You'll pay interest on that amount for the entire life of your mortgage. The 9% tax on that premium (9.975% from 2027), however, is not added to the loan: it is paid in cash at the notary.
 
 **3. Welcome Tax (Taxe de Bienvenue)**
 This is Quebec's one-time property transfer tax, calculated on a sliding scale. On a $500,000 property, budget about $5,600 with the 2026 thresholds. The municipality sends the bill a few months after the notary signing, and it is payable within 30 days of that bill. Many buyers forget about it entirely until the invoice arrives.
@@ -30,10 +30,10 @@ This is Quebec's one-time property transfer tax, calculated on a sliding scale. 
 In Quebec, the deed of sale and the mortgage deed are signed before a notary. There is no fixed tariff: published 2026 estimates run from about $1,500 to $3,500 for a financed purchase, taxes and registry fees included. Ask for a written quote.
 
 **5. Building Inspection**
-Never skip this. A qualified inspector costs $500 to $900 and will examine the roof, foundation, plumbing, electrical, and insulation. Buyers do skip the inspection to win a bidding war, and then discover $85,000 in pyrite damage in the foundation six months after closing. The inspection would have cost $600.
+Never skip this. A qualified inspector costs $500 to $900 and will examine the roof, foundation, plumbing, electrical, and insulation. The inspection does not confirm pyrite, but it can reveal signs (cracks, a heaving slab) that justify a pyrite test under the CTQ-M200 standard, a laboratory analysis of the fill under the slab.
 
 **6. Adjustments and Closing Costs**
-On closing day, you'll pay a prorated share of property taxes the seller has already paid for the remainder of the year. There are also small administrative fees. Budget $500 to $1,500.
+On closing day, you'll pay a prorated share of the municipal and school taxes the seller has already paid for the remainder of the year. The amount depends on the closing date and on what the seller has already paid: anywhere from a few hundred dollars to several thousand. A purchase in early March, when the seller has paid the whole year, means reimbursing about ten months of taxes. See [property taxes explained](/en/articles/property-tax-explained/). There are also small administrative fees.
 
 **7. Moving Costs**
 Often forgotten: $1,500 to $5,000 depending on how much you're moving and how far.
@@ -50,17 +50,17 @@ On a $500,000 purchase with a 5% down payment, here is what the complete budget 
 | Welcome tax | ~$5,600 |
 | Notary fees | ~$2,500 |
 | Building inspection | ~$700 |
-| Adjustments and misc. | ~$1,000 |
+| Tax adjustments and misc. | ~$500 to $4,500 (depends on the closing date) |
 | Moving costs | ~$2,000 |
-| **Total cash needed at closing** | **~$38,500** |
+| **Total cash needed at closing** | **~$38,000 to $42,000** |
 
-The key takeaway: closing costs (everything beyond the down payment) typically run 3% to 5% of the purchase price. That amount must be in cash. You cannot borrow it.
+The key takeaway: in this example, closing costs (everything beyond the down payment) come to about 2.6% to 3.4% of the purchase price. That amount must be in cash. You cannot borrow it.
 
 ## The 5% Down Payment Trap
 
 Five percent is legal. It is also often the most expensive financial decision you can make.
 
-When you put down less than 20%, the mandatory CMHC insurance adds thousands to your mortgage. You'll pay interest on that insurance premium for the next 25 years. The math is stark: on a $475,000 loan at 5%, the CMHC premium of roughly $18,525 costs you an additional $1,400 to $1,600 in extra interest over the life of the loan.
+When you put down less than 20%, the mandatory CMHC insurance adds thousands to your mortgage. You'll pay interest on that insurance premium for the next 25 years.
 
 If you can reach 10% or 20%, the long-term savings are significant.
 

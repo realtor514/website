@@ -1,7 +1,7 @@
 ---
 title: "La inspección previa a la compra: la lista punto por punto"
 date: 2026-06-25
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Guía del Comprador"
 description: "Techo, cimientos, drenaje, plomería, electricidad, pirita, vermiculita, plomo, radón: lo que el inspector mira de verdad, y lo que nunca verá en Montreal."
 image: "images/articles/home-inspection-checklist-montreal/featured.jpg"
@@ -109,8 +109,8 @@ suelo un tanque subterráneo fuera de uso, salvo atestación, y el propietario
 debe hacer verificar si los suelos están contaminados. El derrame de mazut es
 además una exclusión frecuente en el seguro de vivienda.
 
-**La entrada de agua de plomo en Montreal.** Los edificios de menos de 8
-viviendas construidos antes de 1970 son los más propensos a tener una; la Ciudad
+**La entrada de agua de plomo en Montreal.** Los edificios de 8 viviendas o
+menos construidos antes de 1970 son los más propensos a tener una; la Ciudad
 publica un mapa dirección por dirección. Reemplazar la parte privada es ahora
 obligatorio según el reglamento 20-030, dentro de los 24 meses siguientes al
 aviso de no conformidad, y existe una ayuda económica. Pregunte si ya se hizo.
@@ -130,8 +130,8 @@ puede impedir, solo el mantenimiento periódico limita sus efectos.
 conexiones, que se oxidan y se aflojan. Una aseguradora puede exigir una carta
 de conformidad de un maestro electricista.
 
-Ninguno de estos ocho temas entra en la inspección básica: son peritajes aparte,
-que hay que pedir.
+La mayoría de estos ocho temas exige una prueba o un peritaje aparte, que hay
+que pedir; el inspector puede señalar sus indicios.
 
 ## Qué hacer con el informe
 

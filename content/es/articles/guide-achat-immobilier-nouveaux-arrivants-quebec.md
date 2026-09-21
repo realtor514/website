@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa para Recién Llegados que Compran Propiedad en Quebec"
 date: 2026-07-16
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-guide-nouveaux-arrivants"
 category: "Guía del Comprador"
 description: "Comprar bienes raíces en Quebec como recién llegado es completamente posible, pero el sistema funciona de manera diferente a la mayoría de los países. Esta guía explica todo lo que necesita saber, en lenguaje claro."
@@ -11,17 +11,17 @@ draft: false
 
 Para quien llega del extranjero, el sistema inmobiliario de Quebec resulta completamente opaco: la estructura hipotecaria, el marco legal, las implicaciones fiscales, las normas culturales alrededor de la negociación. Todo hay que aprenderlo desde cero.
 
-Esa experiencia es parte de por qué escribí esta guía. Si usted es un recién llegado a Quebec (ya sea del mundo árabe, del África francófona, de América del Sur o de cualquier otro lugar), esta es la información que desearía haber tenido cuando llegué.
+Esa es la razón de ser de esta guía. Si usted es un recién llegado a Quebec (ya sea del mundo árabe, del África francófona, de América del Sur o de cualquier otro lugar), esta es la información que conviene tener desde la llegada.
 
 ## ¿Quién Puede Comprar Propiedad en Quebec?
 
 Los residentes permanentes tienen los mismos derechos que los ciudadanos canadienses para comprar bienes raíces en Quebec. No necesita ser ciudadano.
 
-Actualmente existe una restricción para compradores extranjeros (aquellos sin residencia permanente o ciudadanía canadiense) para bienes raíces residenciales. Si tiene residencia permanente, esta restricción no le aplica.
+Una ley federal prohíbe actualmente a los no canadienses, es decir, a las personas que no son ciudadanas ni residentes permanentes, comprar ciertas propiedades residenciales: los edificios de 1 a 3 viviendas, incluidas las casas pareadas y los condominios, situados en un área metropolitana o una aglomeración censal. Prevé excepciones, en particular para algunos titulares de permiso de trabajo, algunos estudiantes, las personas protegidas como los refugiados y el cónyuge que compra con un ciudadano o un residente permanente. La prohibición se aplica actualmente hasta el 1 de enero de 2027. Si tiene residencia permanente, no le afecta. Si no la tiene, haga revisar su situación por un abogado o un notario antes de firmar cualquier cosa.
 
 ## El Sistema Hipotecario: Cómo Funciona Aquí
 
-En la mayoría de los países árabes y muchos otros, comprar propiedad significa pagar en efectivo o recibir apoyo familiar. En Quebec y Canadá, la gran mayoría de los compradores (aproximadamente del 80% al 95%) financian su compra con una hipoteca (hypothèque).
+En muchos países, comprar propiedad significa pagar en efectivo o recibir apoyo familiar. En Quebec y Canadá, la gran mayoría de los compradores financian su compra con una hipoteca (hypothèque).
 
 Así es como funciona:
 
@@ -55,9 +55,9 @@ Así es como funciona:
 - Puede ahorrar hasta **$40,000 de por vida** en esta cuenta
 - Las contribuciones de **$8,000 por año** son deducibles de impuestos (como un RRSP)
 - Los retiros para una compra de vivienda calificada son **completamente libres de impuestos** (como una TFSA)
-- Está disponible para residentes permanentes canadienses que no hayan sido propietarios de una vivienda en los últimos cuatro años
+- Está disponible para los residentes de Canadá a efectos fiscales (la residencia permanente no es una condición), de 18 a 71 años, que no hayan vivido, en el año en curso ni en los cuatro años civiles anteriores, en una vivienda de la que ellos o su cónyuge fueran propietarios, en Canadá o en el extranjero
 
-Abra esta cuenta tan pronto como califique. Incluso si no está listo para comprar durante dos o tres años, el espacio de contribución que acumule ahora estará disponible para usted cuando esté listo.
+Abra esta cuenta tan pronto como califique. El espacio de contribución solo empieza a acumularse a partir de la apertura de la cuenta, y el espacio no utilizado se traslada al año siguiente, pero nunca más de $8,000. Incluso si no está listo para comprar durante dos o tres años, abrir la cuenta ahora pone en marcha ese espacio.
 
 Combinado con el Plan de Compradores de Vivienda (RAP, que le permite retirar hasta $60,000 de su RRSP), la FHSA puede financiar hasta $100,000 de pago inicial por persona, si el ahorro está ahí.
 
@@ -88,11 +88,11 @@ Para una primera compra, Quebec anunció en abril de 2026 un crédito fiscal ree
 
 ## La Inspección del Edificio
 
-En Quebec, los compradores tienen derecho a incluir una condición de inspección en su oferta de compra. Esto significa que un inspector habilitado examina la propiedad (techo, cimientos, plomería, electricidad, aislamiento, ventanas) y proporciona un informe escrito detallado.
+En Quebec, los compradores tienen derecho a incluir una condición de inspección en su oferta de compra. Esto significa que un inspector de edificios calificado (verifique su certificado de la RBQ o su asociación) examina la propiedad (techo, cimientos, plomería, electricidad, aislamiento, ventanas) y proporciona un informe escrito detallado.
 
 **Nunca compre una propiedad sin esta inspección.** Incluso en mercados competitivos donde algunos compradores renuncian a las condiciones para ganar guerras de ofertas, le recomiendo firmemente no renunciar a la inspección.
 
-Una inspección de edificios cuesta de $500 a $900. Ha salvado a clientes de descubrir $80,000 o más en problemas ocultos después del cierre.
+Una inspección de edificios cuesta de $500 a $900. Puede revelar defectos cuya reparación cuesta decenas de miles de dólares.
 
 ## Una Hoja de Ruta Paso a Paso para Recién Llegados
 
@@ -110,7 +110,7 @@ Una inspección de edificios cuesta de $500 a $900. Ha salvado a clientes de des
 
 **Año 2-3:**
 - Con un historial de empleo estable y crédito establecido: busque preaprobación
-- Contrate a un corredor de compradores (sin costo para usted, ya que los honorarios del corredor los paga el vendedor)
+- Contrate a un corredor de compradores: cuando el vendedor tiene corredor, el suyo suele cobrar de la remuneración que paga el vendedor. Si esa parte es inferior a lo que prevé su contrato de corretaje, o si el vendedor no tiene corredor, ese contrato fija lo que usted paga
 - Comience su búsqueda seria de propiedad
 - Proceda hacia la compra
 
@@ -120,7 +120,7 @@ Este puede ser el consejo más práctico de esta guía: elija un corredor que ha
 
 El proceso inmobiliario de Quebec implica docenas de conversaciones, documentos y decisiones. Poder hacer preguntas y recibir explicaciones en su idioma nativo no es un lujo. Es una condición para tomar decisiones plenamente informadas.
 
-Trabajo en francés, inglés, español y árabe. Entiendo el contexto cultural de la toma de decisiones inmobiliarias en familias de diferentes orígenes: el papel de la familia extendida, la importancia de la privacidad, la preferencia por la estabilidad a largo plazo sobre la especulación a corto plazo, el significado de poseer algo que sea verdaderamente suyo.
+Trabajo en francés, inglés, español y árabe, y tengo en cuenta las preferencias de cada familia: algunas quieren asociar a la familia extendida a la decisión, otras dan gran importancia a la privacidad, prefieren la estabilidad a largo plazo a la especulación a corto plazo, o buscan ante todo poseer algo que sea verdaderamente suyo.
 
 Esos valores se alinean bien con lo que el sector inmobiliario de Quebec, bien ejecutado, puede ofrecer.
 

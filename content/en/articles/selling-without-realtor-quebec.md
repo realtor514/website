@@ -1,6 +1,7 @@
 ---
 title: "Selling With or Without a Realtor in Quebec: The Honest Comparison"
 date: 2026-05-09
+lastmod: 2026-09-21
 translationKey: "article-vendre-sans-courtier"
 category: "Seller's Guide"
 description: "It is the number one question Quebec sellers ask. Here are the real numbers, what you actually save, what risk you take on, and the cases where selling privately genuinely makes sense."
@@ -13,13 +14,13 @@ Here is the full comparison, including the cases where selling on your own is th
 
 ## What you actually save
 
-In Quebec, broker compensation generally falls between 4% and 5% of the sale price, plus taxes. On a $500,000 property, that is roughly $20,000 to $25,000 before tax.
+In Quebec, broker compensation is often in the range of 4% to 5% of the sale price before tax. On a $500,000 property, that is roughly $20,000 to $25,000 before tax.
 
 That is real money and it deserves to be taken seriously. But two details change the math.
 
 First, that percentage is not set by law. Nothing in Quebec regulates the rate. It is negotiable, and it gets negotiated more often than sellers assume, particularly on higher-value properties or in strong-demand areas.
 
-Second, part of that compensation is normally shared with the broker who brings the buyer. If you sell privately but a buyer shows up represented by their own broker, that broker expects to be paid. Many private sellers end up offering 2% or 2.5% to the buying side. The real saving is often half of what they pictured.
+Second, part of that compensation is normally shared with the broker who brings the buyer. If you sell privately but a buyer shows up represented by their own broker, that broker expects to be paid. A private seller has no obligation to pay the buyer's broker. But under their buyer brokerage contract, the buyer may then have to pay that broker themselves, which can weigh on their offer. You might therefore choose to offer a share to the buyer's broker, and your real saving would then be smaller than you pictured.
 
 ## The real difference: Centris
 
@@ -37,7 +38,7 @@ Selling without a broker means handling:
 
 **Pricing.** This is the highest-consequence decision. Too high and you burn your first two weeks of visibility, then sell for less three months later. Too low and you leave money on the table without ever knowing it. You do not have access to full comparable sales data, only publicly posted asking prices, which are not actual sale prices.
 
-**The seller's declarations.** In Quebec you remain liable for latent defects you knew about and failed to disclose, broker or no broker. A properly completed seller's declaration form is your best protection. Many private sellers fill it in poorly or skip it entirely, and end up in litigation a year after closing.
+**The seller's declarations.** In Quebec, broker or no broker, the seller owes the warranty against latent defects even if they did not know about them. If they did know, they are also exposed to damages. A properly completed seller's declaration form is your best protection. Consult a notary or a lawyer.
 
 **Vetting buyers.** An offer is only worth something if the buyer can actually finance it. Without verifying pre-approval, you can pull your property off the market for six weeks on financing that will never materialize.
 
@@ -54,11 +55,11 @@ There are situations where it is a perfectly reasonable choice:
 - You have real transaction experience and time to devote to it.
 - You are willing to hire a notary to handle the legal side and take on the rest yourself.
 
-But be clear about what you are setting aside at the same time: selling on your own means giving up several legal protections that exist only in a transaction handled by a broker.
+But be clear about what you are setting aside at the same time: selling on your own means giving up several protections that exist only when a broker is involved in the transaction.
 
 The OACIQ's mandatory forms, the promise to purchase and the seller's declarations, are not paperwork. They were written to allocate responsibility clearly between the parties and to close the doors on disputes before they open. A broker also carries a legal duty to verify and inform, holds professional liability insurance, and the parties to a broker-handled transaction are covered by the Real Estate Indemnity Fund in cases of fraud or misappropriation of funds.
 
-None of that applies to a private sale. If something goes wrong after signing, you have no regulator to turn to, no insurance standing behind the other party, and no indemnity fund. Your only recourse is civil court, at your own expense and over several years.
+None of that applies to a private sale. One point needs to be clear, though: with or without a broker, a dispute between the buyer and the seller is settled in the courts. What a broker adds is recourse against the broker themselves if they commit a fault: their professional liability insurance, the OACIQ, and the Real Estate Indemnity Fund in cases of fraud or misappropriation of funds.
 
 This is not meant to scare you, it is a line to put in your calculation alongside the compensation figure. If you decide to go it alone anyway, engage a notary early in the process, get an up-to-date certificate of location prepared, and complete the seller's declarations with the same seriousness a broker would.
 

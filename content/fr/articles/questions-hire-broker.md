@@ -1,7 +1,7 @@
 ---
 title: "5 questions à poser avant d'engager un courtier immobilier"
 date: 2026-06-15
-lastmod: 2026-08-31
+lastmod: 2026-09-21
 category: "Immobilier 101"
 description: "La plupart des gens choisissent un courtier sur une recommandation ou une pancarte. Voici les cinq questions qui révèlent comment il travaillera vraiment, et les réponses qui devraient vous alerter."
 image: "images/articles/questions-hire-broker/featured.jpg"
@@ -83,9 +83,9 @@ acceptées ?
 ## 4. Comment gérez-vous les conflits d'intérêts ?
 
 C'est ici que le cadre québécois a changé et que beaucoup de gens ont encore
-une information périmée. **Depuis juin 2022, la double représentation est
-interdite au Québec.** Un courtier ne peut plus représenter l'acheteur et le
-vendeur dans la même transaction.
+une information périmée. **Depuis juin 2022, en résidentiel, un même courtier
+ne peut plus représenter l'acheteur et le vendeur dans la même transaction,
+sauf rares exceptions prévues par règlement.**
 
 Ce qui reste possible : le courtier représente une partie et « traite » l'autre
 sans la représenter, avec un devoir d'équité et d'information exacte envers
@@ -110,7 +110,9 @@ quelles conséquences.
 
 **La clause de protection.** Elle prévoit qu'une commission reste due si vous
 vendez, peu après la fin du contrat, à un acheteur présenté pendant celui-ci.
-Elle est normale. Vérifiez seulement sa durée.
+Elle est normale. La loi la limite à 180 jours, et elle ne s'applique pas si,
+pendant cette période, vous avez signé un contrat de courtage exclusif avec un
+autre titulaire de permis. Vérifiez sa durée.
 
 Un courtier qui esquive cette question, ou qui vous fait sentir que la poser
 est déplacé, vous dit déjà comment il réagira le jour où quelque chose ira mal.

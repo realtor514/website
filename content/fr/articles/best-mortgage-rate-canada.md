@@ -74,7 +74,8 @@ souvent un taux plus élevé pour un terme plus long, sans que ce soit une règl
 
 L'amortissement est le temps total prévu pour rembourser. Pour un prêt assuré,
 la SCHL fixe l'amortissement maximal à 25 ans dans son produit SCHL Achat. Son
-produit SCHL Premier chez-soi permet 30 ans si au moins un emprunteur est
+produit SCHL Premier chez-soi permet 30 ans, moyennant une surprime de 0,20
+point, si au moins un emprunteur est
 premier acheteur ou si l'habitation est neuve et n'a jamais été occupée, pour
 une valeur sous 1 500 000 $.
 
@@ -82,8 +83,9 @@ Allonger l'amortissement réduit le paiement mensuel et augmente l'intérêt pay
 sur la durée totale. Un [calculateur hypothécaire](/tools/mortgage/) rend les
 deux effets visibles en quelques secondes.
 
-Côté mise de fonds, l'ACFC fixe le minimum à 5 % jusqu'à 500 000 $, puis 10 %
-sur la portion au-delà, et 20 % à partir de 1,5 million de dollars. Sous 20 %,
+Côté mise de fonds, selon les règles fédérales, expliquées par l'ACFC, le
+minimum est de 5 % jusqu'à 500 000 $, puis 10 % sur la portion au-delà, et 20 %
+à partir de 1,5 million de dollars. Sous 20 %,
 l'assurance prêt hypothécaire est requise. Voyez aussi
 [le mythe de la mise de fonds de 20 %](/articles/down-payment-myth-debunked/).
 

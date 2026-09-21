@@ -70,15 +70,16 @@ rate for a longer term, though not as a rule.
 
 Amortization is the total time planned to repay. For an insured loan, CMHC caps
 amortization at 25 years under its CMHC Purchase product. Its CMHC Home Start
-product allows 30 years when at least one borrower is a first-time buyer or the
+product allows 30 years, with a premium surcharge of 0.20 point, when at least
+one borrower is a first-time buyer or the
 home is newly built and never occupied, for a value under $1,500,000.
 
 Stretching the amortization lowers the monthly payment and raises the total
 interest paid. A [mortgage calculator](/en/tools/mortgage/) makes both effects
 visible in seconds.
 
-On the down payment, FCAC sets the minimum at 5% up to $500,000, then 10% on the
-portion above that, and 20% from $1.5 million. Below 20%, mortgage loan
+On the down payment, under federal rules, as explained by FCAC, the minimum is 5%
+up to $500,000, then 10% on the portion above that, and 20% from $1.5 million. Below 20%, mortgage loan
 insurance is required. See also
 [the 20% down payment myth](/en/articles/down-payment-myth-debunked/).
 

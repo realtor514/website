@@ -69,11 +69,13 @@ précis, sachez qu'une adresse ne fige pas ces conditions d'admission.
 ## L'admissibilité à l'anglais ne s'achète pas avec une maison
 
 L'accès à l'enseignement en anglais dans le réseau public est encadré par la
-Charte de la langue française. L'enfant doit remplir l'une des conditions
-prévues : avoir reçu la majeure partie de son enseignement primaire ou
-secondaire en anglais au Canada, avoir un frère ou une sœur dans cette
-situation, ou avoir un parent citoyen canadien ayant fréquenté une école
-primaire anglophone au Canada. Des autorisations temporaires existent, notamment
+Charte de la langue française. Son article 73 prévoit deux voies, et les deux
+exigent que le père ou la mère de l'enfant soit citoyen canadien. Première
+voie : ce parent a reçu en anglais la majeure partie de l'enseignement primaire
+qu'il a suivi au Canada. Seconde voie : l'enfant a reçu ou reçoit en anglais la
+majeure partie de l'enseignement primaire ou secondaire qu'il a suivi au Canada,
+et ses frères et sœurs sont alors admissibles eux aussi. Des autorisations
+temporaires existent, notamment
 pour les enfants de travailleurs ou d'étudiants étrangers. C'est le ministère de
 l'Éducation qui rend la décision, par écrit, sur une demande acheminée par
 l'organisme scolaire. Aucune adresse ne crée cette admissibilité.

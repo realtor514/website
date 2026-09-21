@@ -102,7 +102,8 @@ Two rules bear directly on the price you should be willing to pay:
 The first three rows come from the CMHC Purchase and CMHC Income Property
 products: loan-to-value up to 95% for 1 or 2 units, 90% for 3 or 4, and 80% for
 a non-owner-occupied income property. In every case, a credit score of at least
-600 for one borrower, a maximum 25-year amortization, ratios of 39% of gross
+600 for one borrower, a maximum 25-year amortization (30 years for a first-time
+buyer or a new build, if you live in the building), ratios of 39% of gross
 income for housing costs and 44% for total debt, and a qualifying rate equal to
 the greater of your contract rate plus 2% or 5.25%.
 

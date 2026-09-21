@@ -1,7 +1,7 @@
 ---
 title: "Separación, divorcio y vivienda en Quebec: lo que debe saber"
 date: 2026-06-20
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Inmobiliaria 101"
 description: "Patrimoine familial, union parentale, recompra, venta o copropiedad: qué pasa con la casa cuando una pareja se separa en Quebec, y las trampas hipotecarias."
 image: "images/articles/divorce-real-estate-guide/featured.jpg"
@@ -141,8 +141,10 @@ fijado en 200 $ en la mayoría de los casos. Su notario confirmará los plazos.
 - Si la comunicación directa es difícil, pasa por los abogados o el mediador.
 
 Las parejas con hijos a cargo tienen derecho a 5 horas gratuitas de mediación
-familiar con un mediador acreditado (2 horas y media para una revisión). La
-mediación puede abarcar el reparto de los bienes, no solo la custodia.
+familiar con un mediador acreditado (2 horas y media para una revisión). Las
+parejas sin hijos comunes a cargo, ya estén casadas, en unión civil o en unión
+de hecho, tienen derecho a hasta 3 horas gratuitas. La mediación puede abarcar
+el reparto de los bienes, no solo la custodia.
 
 ## Un valor neutral, antes de cualquier negociación
 

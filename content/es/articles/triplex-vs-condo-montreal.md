@@ -35,8 +35,9 @@ La SCHL también regula cómo entran los alquileres en su expediente. Para una
 propiedad ocupada por el propietario y objeto de la solicitud de préstamo, el
 enfoque del ingreso bruto por alquiler puede llegar al 100 % en un inmueble de
 2 viviendas, pero solo hasta el 50 %, o bien el enfoque del ingreso neto, en un
-inmueble de 3 o 4. Para una propiedad no ocupada se aplica el enfoque del
-ingreso neto, es decir los alquileres brutos menos los gastos de explotación.
+inmueble de 3 o 4. Para una propiedad no ocupada objeto de la solicitud, es
+hasta el 50 % de los alquileres brutos o el enfoque del ingreso neto, es decir
+los alquileres brutos menos los gastos de explotación.
 En el enfoque bruto, el porcentaje de los alquileres se suma al ingreso anual
 bruto.
 

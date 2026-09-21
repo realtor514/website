@@ -1,7 +1,7 @@
 ---
 title: "Heredar una propiedad en Quebec: lo que los herederos deben saber antes de vender o conservarla"
 date: 2026-05-16
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Inmobiliaria 101"
 description: "Liquidateur, notario, declaración de transmisión, impuestos al fallecer, impuesto de bienvenida y casa vacía: los pasos antes de vender, recomprar o conservar."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
@@ -17,7 +17,7 @@ El liquidateur (liquidador de la sucesión, equivalente al albacea) administra l
 
 Salvo que el testamento le dé poderes más amplios, el liquidateur no puede vender la casa solo. Necesita el consentimiento de los herederos o, a falta de él, la autorización del tribunal.
 
-El notario (notaire, que en Quebec formaliza los actos inmobiliarios) interviene en cada paso relativo al inmueble: verificación del testamento, declaración de transmisión, escritura de venta o de partición. Si el difunto estaba casado o en unión civil, también se liquida el patrimonio familiar, que normalmente incluye la residencia familiar.
+El notario (notaire, que en Quebec formaliza los actos inmobiliarios) interviene en cada paso relativo al inmueble: verificación del testamento, declaración de transmisión, escritura de venta o de partición. Si el difunto estaba casado o en unión civil, también se liquida el patrimonio familiar, que normalmente incluye la residencia familiar. Desde el 30 de junio de 2025, lo mismo ocurre con una pareja en unión parental (union parentale): el valor del patrimonio de unión parental, que incluye las residencias de la familia, se reparte a partes iguales entre el cónyuge sobreviviente y los herederos. El notario confirma qué régimen se aplica.
 
 ## Primer paso: encontrar el testamento correcto
 
@@ -28,7 +28,7 @@ Una sola solicitud de búsqueda testamentaria cubre los registros de la Chambre 
 - **Testamento notarial**: no necesita verificación. El liquidateur puede actuar pronto.
 - **Testamento ológrafo o ante testigos**: debe ser verificado por el tribunal o por un notario. Cuente varias semanas con la sucesión prácticamente bloqueada.
 
-Sin testamento, el Código Civil determina los herederos, y una pareja de hecho no siempre está entre ellos.
+Sin testamento, el Código Civil determina los herederos. El cónyuge casado, en unión civil o en unión parental es uno de ellos: con hijos, recibe un tercio de la sucesión, y los hijos los dos tercios. Una pareja de hecho solo hereda, por tanto, si estaba en unión parental con el difunto en el momento del fallecimiento, lo que por regla general supone un hijo común nacido o adoptado desde el 30 de junio de 2025. Si no, no hereda sin testamento.
 
 ## La declaración de transmisión: el paso que desbloquea la casa
 

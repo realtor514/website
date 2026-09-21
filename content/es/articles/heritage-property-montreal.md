@@ -148,8 +148,8 @@ conservación.
 
 ## El seguro, y la verdadera pregunta del valor a nuevo
 
-Según la Ley del patrimonio cultural, una casa antigua es la construida antes de
-1940. Antes de buscar una póliza, reúna el expediente: estatus legal o
+La Ley del patrimonio cultural fija 1940 como umbral de los inventarios del
+patrimonio de las MRC. Antes de buscar una póliza, reúna el expediente: estatus legal o
 inscripción en un inventario, reglamento de citación, aviso de clasificación, y
 las fotos y facturas de los capítulos ya rehechos, tejado, calefacción,
 plomería.

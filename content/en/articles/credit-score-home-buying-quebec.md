@@ -1,43 +1,32 @@
 ---
 title: "Your Credit Score Is Quietly Blocking Your Dream Home (and How to Fix It)"
 date: 2026-05-17
-lastmod: 2026-08-31
+lastmod: 2026-09-21
 category: "Buyer's Guide"
-description: "The thresholds lenders actually use, the five factors behind your score, what you can fix in 30 days and what takes years, and the thin file trap that is very common in Quebec."
+description: "The 600 minimum required for an insured mortgage, the five factors behind your score, what you can fix in 30 days and what takes years, and the thin file trap that is very common in Quebec."
 image: "images/articles/credit-score-home-buying-quebec/featured.jpg"
 ---
 
-Picture a typical buyer: software engineer, good job, solid savings, excited
-about his first condo in Laval. He finds the place. He makes an offer. It is
-accepted. Then, three days before the financing condition deadline, his mortgage
-broker calls.
+A fictional example, for illustration. Picture a typical buyer: software
+engineer, good job, solid savings, excited about his first condo in Laval with
+less than 20% down. He finds the place. He makes an offer. It is accepted. Then,
+three days before the financing condition deadline, his mortgage broker calls.
 
-Credit score: 618.
+Credit score: 585, below the 600 minimum CMHC requires for an insured loan.
 
 The deal collapses. Twelve months later, after real work on his credit, he buys,
 but not that property, and at a higher price because the market had moved.
 
-That story repeats more often than people think, and it is almost always
-avoidable. Here is how.
+That kind of situation can often be avoided. Here is how.
 
 ## What score do you actually need?
 
-Thresholds vary between lenders, but the orders of magnitude used in Canada are
-fairly stable:
+**For a CMHC insured mortgage**, meaning less than 20% down, at least one
+borrower, or a guarantor, needs a credit score of at least 600. Below that, the
+insurance is refused, so the loan is too.
 
-| Score | What it means in practice |
-|---|---|
-| 760 and up | Best available rates, maximum flexibility |
-| 700 to 759 | Good approval odds, competitive rates |
-| 680 to 699 | Generally approvable at a major bank |
-| 620 to 679 | Alternative lender likely, higher rate |
-| Under 620 | Conventional financing is difficult |
-
-Two details that matter:
-
-**For an insured mortgage**, meaning less than 20% down, the insurer requires a
-minimum score of roughly 600 for at least one borrower. Below that, the insurance
-is refused, so the loan is too.
+**Above that minimum, thresholds vary from one lender to another.** There is no
+single scale: ask each lender which threshold it applies to your file.
 
 **The score is not the only criterion.** The lender also looks at your debt
 ratios, the stability of your income and the nature of your employment. An
@@ -46,12 +35,12 @@ true as well.
 
 ## The five factors, by weight
 
-**1. Payment history, about 35%.** The dominant factor by far. A single payment
+**1. Payment history.** The most important factor. A single payment
 more than thirty days late can drop a good score by dozens of points, and the
 entry stays on file for about six years. Automate at least the minimum payment on
 every account: it is the highest return protection there is.
 
-**2. Utilization, about 30%.** The share of your limit that you use. Aim for
+**2. Utilization.** The share of your limit that you use. Aim for
 under 30%, and under 10% if you are actively trying to raise your score.
 
 A detail almost nobody knows: what counts is not your end of month balance, it is
@@ -60,21 +49,21 @@ card in full every month and still show 80% utilization if your purchases land
 before the statement date. Pay part of it before that date and the effect shows up
 the following month.
 
-**3. Age of the file, about 15%.** Never close your oldest card, even unused. Its
+**3. Age of the file.** Never close your oldest card, even unused. Its
 opening date supports the average age of your file, and closing an account also
 cuts your total limit, which pushes your utilization up. Two negative effects from
 one decision.
 
-**4. Credit mix, about 10%.** Having both revolving credit, like a card, and
+**4. Credit mix.** Having both revolving credit, like a card, and
 instalment credit, like a car loan, shows you can handle both.
 
-**5. New applications, about 10%.** Every hard inquiry leaves a mark. They stay
-visible for about three years but weigh most in the first twelve months. Avoid any
-new application in the year before your mortgage request.
+**5. New applications.** Every hard inquiry leaves a mark. According to the
+Financial Consumer Agency of Canada (FCAC), they stay on file for three years at Equifax and six years at TransUnion. Avoid
+any new application in the twelve months before your mortgage request.
 
-Worth noting: shopping your mortgage rate with several lenders over a short period
-is treated as a single search. It is the one case where multiple inquiries do not
-penalize you.
+Worth noting: according to FCAC, when you shop for a mortgage or a car loan,
+quotes from different lenders obtained within a two week period are treated by
+the credit bureaus as a single inquiry.
 
 ## The thin file trap, very common in Quebec
 
@@ -116,7 +105,7 @@ yourself, for free.
 2. Dispute any error in writing, and keep the proof.
 3. Bring every card under 30% of its limit, before the statement date.
 4. Do not close any account, even unused ones.
-5. No new credit application for at least six months.
+5. No new credit application in the twelve months before you apply.
 6. Automate all your minimum payments.
 7. Aim for twelve months of flawless payments before applying.
 
@@ -136,5 +125,6 @@ the picture: what your income actually supports.
 
 ---
 
-*Want to know whether your profile is mortgage ready? [Get in touch](/en/form/)
-and I will connect you with a mortgage broker I trust.*
+*Want to know whether your profile is mortgage ready? I am a real estate broker,
+not a lender or a mortgage broker. [Get in touch](/en/form/) and I will connect
+you with a mortgage broker I trust.*

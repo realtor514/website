@@ -1,7 +1,7 @@
 ---
 title: "La commission immobilière au Québec : ce que vous payez vraiment"
 date: 2026-06-16
-lastmod: 2026-08-31
+lastmod: 2026-09-21
 category: "Immobilier 101"
 description: "Aucun taux n'est fixé par la loi au Québec. Voici qui paie la commission, comment elle se partage, les taxes que presque personne n'anticipe, et les questions à poser avant de signer."
 image: "images/articles/commission-explained-quebec/featured.jpg"
@@ -22,8 +22,9 @@ règlement et aucun ordre professionnel n'impose de pourcentage. La commission
 est négociée entre le vendeur et son courtier inscripteur, puis inscrite au
 contrat de courtage avant la mise en marché.
 
-Dans le Grand Montréal, les structures se situent habituellement entre 4 % et
-6 % du prix de vente. Ce n'est pas une règle, c'est une observation du marché.
+Dans le Grand Montréal, la commission est souvent de l'ordre de 4 % à 5 % du
+prix de vente avant taxes, sans taux fixé par la loi, toujours négociable. Ce
+n'est pas une règle, c'est une observation du marché.
 Le pourcentage varie selon le type de propriété, le prix, l'effort de mise en
 marché anticipé et ce que vous négociez.
 
@@ -75,21 +76,20 @@ courtier de l'acheteur. Le partage est fréquemment moitié-moitié, mais il est
 
 Il y a ensuite un second partage, invisible pour le client : chaque courtier
 remet une part à son agence. Le courtier ne conserve donc pas la totalité de
-ce que sa moitié laisse croire. Ce détail explique pourquoi une réduction de
-commission a un effet beaucoup plus grand sur le revenu du courtier que sur
-votre facture, et pourquoi certaines demandes de réduction obtiennent une
-résistance réelle.
+ce que sa moitié laisse croire.
 
-Ce partage explique aussi une mécanique importante pour les vendeurs : la part
-offerte au courtier collaborateur influence la visibilité de votre propriété
-auprès des courtiers d'acheteurs. Couper cette part pour économiser peut
-réduire le nombre de visites, ce qui coûte généralement plus cher que
-l'économie réalisée.
+Ce partage a aussi une conséquence pour les vendeurs. Un acheteur représenté a
+signé un contrat de courtage achat, qui peut prévoir la rétribution de son
+courtier. Si la part offerte au courtier collaborateur est inférieure à ce que
+prévoit ce contrat, l'acheteur peut avoir à payer la différence, ce qui peut
+compliquer son offre. C'est un point à discuter avec votre courtier quand vous
+fixez cette part.
 
 ## Ce que la commission paie réellement
 
-« Les services du courtier », c'est vague. Voici le détail concret de ce qui
-est couvert quand un vendeur m'inscrit sa propriété.
+« Les services du courtier », c'est vague. Voici le détail concret de ce que
+le service peut comprendre, selon la propriété, quand un vendeur m'inscrit la
+sienne.
 
 **La préparation.** Photographie professionnelle, consultation en valorisation,
 plan d'étage, visite virtuelle. Entre une propriété bien présentée et une
@@ -145,16 +145,22 @@ temps investi et le risque assumé ».
 
 ## Quand la commission devient due
 
-La commission est généralement exigible à la signature de l'acte de vente, et
-elle est prélevée par le notaire sur le produit de la vente. Pas de vente, pas
-de commission, dans la structure habituelle.
+La commission est habituellement prélevée par le notaire sur le produit de la
+vente, à la signature de l'acte. Mais selon le contrat de courtage exclusif
+obligatoire, elle peut aussi être due dans d'autres cas : si une promesse
+d'achat acceptée pendant le contrat voit toutes ses conditions remplies, même
+si l'acte n'est jamais signé, sauf faute de l'acheteur ; si vous refusez une
+promesse d'achat conforme aux conditions du contrat ; si vous vendez vous-même
+pendant le contrat ; ou si vous empêchez la vente.
 
 Deux clauses méritent votre attention avant de signer :
 
 La **clause de protection**, qui prévoit qu'une commission reste due si la
 propriété est vendue, dans un délai déterminé après la fin du contrat, à un
-acheteur qui vous avait été présenté pendant le contrat. Elle est normale.
-Vérifiez seulement sa durée.
+acheteur qui vous avait été présenté pendant le contrat. Elle est normale. La
+Loi sur le courtage immobilier (article 27) limite ce délai à 180 jours, et la
+clause ne s'applique pas si, pendant cette période, vous avez signé un contrat
+de courtage exclusif avec un autre titulaire de permis. Vérifiez sa durée.
 
 La **durée du contrat de courtage** elle-même. Elle se négocie. Un contrat
 court vous laisse la liberté de changer de courtier si la mise en marché ne

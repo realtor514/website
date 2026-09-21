@@ -30,8 +30,10 @@ existerait.
 
 En pratique, ces propriétés circulent par trois canaux seulement : un contrat
 de courtage sans diffusion publique, une vente par un propriétaire qui n'a pas
-de courtier, et le bouche à oreille entre courtiers avant qu'une inscription
-soit publiée. Il n'y a pas de base de données secrète.
+de courtier, et le bouche à oreille entre courtiers, seulement lorsque le
+vendeur a choisi par écrit de ne pas diffuser, ou de retarder l'inscription
+pour une raison exceptionnelle écrite au contrat. Il n'y a pas de base de
+données secrète.
 
 ## Pourquoi ce n'est pas un rabais garanti
 
@@ -145,8 +147,8 @@ REALTOR](/articles/broker-agent-difference-quebec/) éclaire la suite.
 
 ## Se positionner sans acheter le mythe
 
-Signez un contrat de courtage achat écrit : depuis 2021, tout contrat verbal
-est nul, et vous disposez de trois jours pour le résilier à votre discrétion
+Signez un contrat de courtage achat écrit : depuis le 10 juin 2022, tout
+contrat verbal est nul, et vous disposez de trois jours pour le résilier à votre discrétion
 après en avoir reçu un double signé. Donnez des critères précis, car l'article
 46 du règlement oblige le courtier à ne vous présenter que des immeubles qui y
 correspondent et à vous expliquer les motifs de sa sélection. Exigez les

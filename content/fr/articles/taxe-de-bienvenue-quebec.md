@@ -1,7 +1,7 @@
 ---
 title: "Taxe de bienvenue au Québec: combien, quand, et qui la paie"
 date: 2026-06-05
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-taxe-bienvenue"
 category: "Guide de l'acheteur"
 description: "Les droits de mutation surprennent chaque année des milliers d'acheteurs québécois, parce que la facture arrive des mois après l'achat. Voici comment le montant se calcule et comment le prévoir."
@@ -58,7 +58,7 @@ Ne comptez donc pas voir cette somme apparaître dans le décompte du notaire. E
 
 ## Les exonérations qui existent vraiment
 
-La loi prévoit certaines exonérations, principalement pour des transferts entre personnes liées: entre conjoints, en ligne directe ascendante ou descendante, et certains transferts impliquant des sociétés étroitement liées.
+La loi prévoit certaines exonérations, principalement pour des transferts entre personnes liées: entre conjoints, en ligne directe ascendante ou descendante, et certains transferts impliquant des sociétés étroitement liées. Même lorsque le transfert est exonéré, la municipalité peut exiger, par résolution, un droit supplétif d'au plus 200 $.
 
 Les conditions sont précises et le notaire les vérifie au moment de la transaction. Si votre situation ressemble à l'un de ces cas, mentionnez-le à votre notaire tôt, pas après.
 

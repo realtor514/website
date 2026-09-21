@@ -29,8 +29,9 @@ exists.
 
 In practice these properties move through three channels only: a brokerage
 contract without public dissemination, a sale by an owner who has no broker,
-and word of mouth between brokers before a listing goes live. There is no
-secret database.
+and word of mouth between brokers, only where the seller has chosen in writing
+not to publish, or to delay the listing for an exceptional reason written into
+the contract. There is no secret database.
 
 ## Why it is not a guaranteed discount
 
@@ -140,8 +141,8 @@ REALTOR](/en/articles/broker-agent-difference-quebec/) sets out the rest.
 
 ## Positioning yourself without buying the myth
 
-Sign a written purchase brokerage contract: since 2021 any verbal contract is
-null, and you have three days to cancel at your discretion after receiving a
+Sign a written purchase brokerage contract: since June 10, 2022 any verbal
+contract is null, and you have three days to cancel at your discretion after receiving a
 signed copy. Give precise criteria, because section 46 of the regulation
 requires the broker to present only immovables that match them and to explain
 the reasons behind the selection. Insist on the seller's declarations, have

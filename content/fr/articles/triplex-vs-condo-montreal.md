@@ -35,8 +35,9 @@ une propriété occupée par le propriétaire et visée par la demande de prêt,
 utilise l'approche du revenu locatif brut jusqu'à 100 % dans un immeuble de 2
 logements, mais seulement jusqu'à 50 % du revenu locatif brut, ou l'approche du
 revenu locatif net, dans un immeuble de 3 ou 4 logements. Pour une propriété
-non occupée, c'est l'approche du revenu locatif net, soit les loyers bruts
-moins les dépenses d'exploitation. Dans l'approche brute, le pourcentage des
+non occupée visée par la demande, c'est jusqu'à 50 % des loyers bruts ou
+l'approche du revenu locatif net, soit les loyers bruts moins les dépenses
+d'exploitation. Dans l'approche brute, le pourcentage des
 loyers s'ajoute au revenu annuel brut.
 
 Une copropriété n'apporte aucun loyer au calcul, mais elle y ajoute une charge :

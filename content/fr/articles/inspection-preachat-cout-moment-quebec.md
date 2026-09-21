@@ -1,7 +1,7 @@
 ---
 title: "Inspection préachat au Québec: combien ça coûte et quand la faire"
 date: 2026-07-15
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-inspection-cout-moment"
 category: "Guide de l'acheteur"
 description: "Avant l'offre ou après? Qui paie? Combien? Voici les réponses aux questions que les acheteurs québécois posent le plus souvent au sujet de l'inspection, et l'erreur qui coûte le plus cher."
@@ -28,7 +28,7 @@ C'est une dépense qui paraît importante au moment où vous êtes déjà en tra
 
 L'acheteur, dans presque tous les cas. C'est vous qui engagez l'inspecteur, c'est vous qui le payez, et le rapport vous appartient.
 
-C'est important: le rapport est votre document. Vous n'êtes pas tenu de le remettre au vendeur, sauf si vous vous en servez pour renégocier ou pour vous retirer, auquel cas il faudra généralement en fournir la partie pertinente.
+C'est important: le rapport est votre document. Vous n'êtes pas tenu de le remettre au vendeur, sauf si vous voulez vous retirer grâce à la condition d'inspection: la promesse d'achat exige alors de lui en remettre une copie, pas seulement un extrait (voir plus bas).
 
 Méfiez-vous d'une inspection payée ou fournie par le vendeur. Ce n'est pas nécessairement malhonnête, mais l'inspecteur a été choisi par l'autre partie. Si le vendeur vous présente un rapport existant, lisez-le, puis faites la vôtre quand même.
 
@@ -36,11 +36,13 @@ Méfiez-vous d'une inspection payée ou fournie par le vendeur. Ce n'est pas né
 
 C'est la vraie question, et la réponse est: après l'offre, mais avec une condition d'inspection.
 
-Voici pourquoi. Au Québec, la façon normale de procéder est de faire une promesse d'achat conditionnelle à une inspection satisfaisante. Vous disposez alors d'un délai, généralement de sept à dix jours, pour faire inspecter la propriété. Si le rapport révèle un problème important, vous pouvez renégocier le prix, exiger des correctifs, ou vous retirer sans pénalité.
+Voici pourquoi. Au Québec, la façon normale de procéder est de faire une promesse d'achat conditionnelle à une inspection. Vous disposez alors d'un délai, généralement de sept à dix jours, pour faire inspecter la propriété. Si l'inspection révèle un facteur susceptible, de façon significative, de diminuer la valeur ou les revenus de l'immeuble ou d'en augmenter les dépenses, la clause 8.1 de la promesse d'achat de l'OACIQ vous permet de vous retirer sans pénalité, à une condition stricte: aviser le vendeur par écrit et lui remettre une copie du rapport d'inspection, au plus tard le quatrième jour suivant l'expiration du délai d'inspection, avant 20 h. La promesse devient nulle et non avenue dès que le vendeur reçoit cet avis accompagné du rapport. Si vous ne l'avisez pas dans ce délai et de cette façon, vous êtes réputé avoir renoncé à la condition.
+
+Le formulaire ne vous donne aucun droit d'exiger des correctifs. Une baisse de prix ou des travaux ne s'obtiennent que par entente avec le vendeur, consignée au formulaire Modifications, et cette négociation se fait avant l'envoi de l'avis, puisque celui-ci met fin à la promesse. Surveillez le délai pendant qu'on négocie: s'il expire sans entente ni avis, la condition est perdue.
 
 Faire inspecter avant de déposer une offre pose deux problèmes. D'abord, le vendeur n'a aucune obligation de vous laisser entrer avec un inspecteur alors que rien n'est signé. Ensuite, vous payez 700 dollars pour une propriété que vous risquez de ne pas obtenir, surtout s'il y a plusieurs offres.
 
-Il y a une exception. Dans un contexte de surenchère où plusieurs acheteurs se disputent la même propriété, certains vendeurs organisent une période d'inspection avant la date de réception des offres, précisément pour que tout le monde puisse déposer une offre sans condition. Si on vous offre cette possibilité, prenez-la.
+Il y a une exception. Dans un contexte de surenchère où plusieurs acheteurs se disputent la même propriété, certains vendeurs permettent de faire inspecter la propriété avant de déposer votre offre, précisément pour que vous puissiez déposer une offre sans condition d'inspection. Si on vous offre cette possibilité, prenez-la.
 
 ## Peut-on faire venir un inspecteur à la première visite?
 
@@ -54,11 +56,11 @@ Ce que vous pouvez faire à la première visite, c'est regarder attentivement pa
 
 Renoncer à l'inspection pour gagner une surenchère.
 
-Quand plusieurs acheteurs se disputent une propriété, la tentation est forte de déposer une offre sans condition d'inspection pour être plus attrayant. C'est efficace. C'est aussi le pari le plus risqué de tout le processus.
+Quand plusieurs acheteurs se disputent une propriété, la tentation est forte de déposer une offre sans condition d'inspection pour être plus attrayant. C'est le pari le plus risqué de tout le processus.
 
 Une fondation à reprendre, une toiture complète, un système électrique non conforme, une contamination du sol: ce sont des montants à cinq chiffres, parfois six. Vous les découvrez après la signature, et vous n'avez aucun recours contre le vendeur pour un problème qu'une inspection normale aurait révélé.
 
-Si vous devez absolument déposer sans condition, faites-le seulement si vous avez pu faire inspecter avant la date des offres, ou si vous avez les liquidités pour absorber une mauvaise surprise majeure.
+Si vous devez absolument déposer une offre sans condition d'inspection, faites-le seulement si vous avez pu faire inspecter la propriété avant de déposer votre offre. Le courtier est d'ailleurs tenu de recommander à l'acheteur une inspection complète (article 81 du Règlement sur les conditions d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur la publicité). Si vous y renoncez malgré tout, vous apposez vos paraphes à la section 8 de la promesse d'achat: vous y reconnaissez avoir été informé de votre droit de faire inspecter l'immeuble, y avoir renoncé, et avoir été informé par le courtier des risques de ne pas faire d'inspection.
 
 ## Comment choisir votre inspecteur
 

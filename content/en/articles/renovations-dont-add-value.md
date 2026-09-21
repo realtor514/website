@@ -1,6 +1,7 @@
 ---
 title: "Your Renovation Won't Add What You Think to Your Home's Value"
 date: 2026-07-20
+lastmod: 2026-09-21
 category: "Seller's Guide"
 description: "Sellers consistently overestimate renovation returns. Some improvements genuinely add value. Many add cost without proportional return. Here is the honest breakdown before you touch anything."
 image: "images/articles/renovations-dont-add-value/featured.jpg"
@@ -8,8 +9,6 @@ draft: false
 ---
 
 Before listing, many sellers make a decision that costs them money: they renovate. Not because the property requires it to be sellable, but because they believe the renovation will return more than it costs. This belief is frequently wrong.
-
-Here is a data-informed look at what actually moves the needle.
 
 ## The Fundamental Problem With Pre-Sale Renovation ROI
 
@@ -19,17 +18,17 @@ A buyer who tours a kitchen you just renovated with $45,000 of custom cabinetry,
 
 ## What Typically Returns Well
 
-**Paint.** Fresh, neutral paint is the highest ROI pre-sale investment you can make. The cost is low, the labor is manageable, and the effect on buyer perception is significant. Neutral grays, whites, and greiges make spaces feel larger and allow buyers to project their own vision.
+**Paint.** Fresh, neutral paint is often among the most cost-effective pre-sale expenses. The cost is low, the labor is manageable, and the effect on buyer perception is significant. Neutral grays, whites, and greiges make spaces feel larger and allow buyers to project their own vision.
 
 **Professional cleaning and decluttering.** Not a renovation, but it belongs in this conversation. A professionally cleaned, thoroughly decluttered home photographs and shows dramatically better than the same home with fifteen years of accumulated possessions.
 
-**Minor repairs.** Fix the things that are visibly broken, leaking, or damaged. These items communicate deferred maintenance to buyers, which signals that other issues may be hidden. A dripping faucet, a cracked outlet cover, or a broken door handle costs almost nothing to fix and signals care.
+**Minor repairs.** Fix the things that are visibly broken, leaking, or damaged. These items communicate deferred maintenance to buyers, which signals that other issues may be hidden. A dripping faucet, a cracked outlet cover, or a broken door handle costs almost nothing to fix and signals care. A repaired leak or water damage must still be disclosed in the seller's declarations (Déclarations du vendeur): see [how to prepare your home for sale](/en/articles/preparer-maison-vente-montreal-laval/).
 
 **Curb appeal improvements.** First impressions are made before buyers enter the building. Tidied landscaping, a freshly painted front door, clean windows, and repaired fencing return well because they affect every buyer's first moment of evaluation.
 
 ## What Typically Returns Poorly
 
-**Full kitchen renovations.** Unless the kitchen is genuinely dysfunctional for most buyers (not just outdated by your standards), a full renovation rarely returns its full cost. The return varies widely by market and by the quality of the renovation, but it is commonly cited at 60-80 cents on the dollar.
+**Full kitchen renovations.** Unless the kitchen is genuinely dysfunctional for most buyers (not just outdated by your standards), a full renovation rarely returns its full cost. The return varies widely by market and by the quality of the renovation.
 
 **Bathroom additions.** Adding a bathroom to a home that lacked one can add value. Upgrading an existing bathroom that functions well typically does not return fully.
 
@@ -39,7 +38,7 @@ A buyer who tours a kitchen you just renovated with $45,000 of custom cabinetry,
 
 ## The Staging vs. Renovation Decision
 
-If budget is limited before a sale, staging almost always returns better than renovation. Staging is temporary, costs significantly less, and addresses the buyer's emotional response rather than permanently altering the property's condition.
+If budget is limited before a sale, staging often returns better than renovation. Staging is temporary, costs significantly less, and addresses the buyer's emotional response rather than permanently altering the property's condition.
 
 The standard recommendation for sellers approaching a listing: invest in staging, photography, neutral paint where needed, and visible minor repairs. Defer or skip major renovations unless they are necessary to make the property lendable or are genuinely transformative in a market that rewards transformation.
 

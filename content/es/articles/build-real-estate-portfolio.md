@@ -1,7 +1,7 @@
 ---
 title: "Cómo construir una cartera inmobiliaria en el Gran Montreal desde cero"
 date: 2026-05-26
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Inversión"
 description: "Pago inicial según el número de viviendas, prueba de resistencia, refinanciación al 80 %, control de alquileres e impuestos: comprar un segundo edificio."
 image: "images/articles/build-real-estate-portfolio/featured.jpg"
@@ -26,8 +26,9 @@ mucho menos al inversionista ausente.
 | 3 o 4 viviendas, usted ocupa | 10 % | 90 % |
 | 2 a 4 viviendas, usted no ocupa | 20 % | 80 % |
 
-Las dos primeras líneas exigen que usted o un familiar ocupe una vivienda, con
-precio inferior a 1 500 000 $. La tercera es el producto Income Property de la
+Las dos primeras líneas exigen un precio inferior a 1 500 000 $ y una vivienda
+ocupada por usted, o sin pagar alquiler por su cónyuge o pareja de hecho, su
+padre, su madre o su hijo. La tercera es el producto Income Property de la
 CMHC: precio bajo 1 000 000 $ y puntaje de crédito mínimo de 600.
 
 El mismo tríplex pide 10 % mientras usted vive allí y 20 % el día que se muda.
@@ -41,9 +42,11 @@ a usar una tasa admisible mínima: la mayor entre la tasa de su contrato más
 Property. Con seguro, lo evalúan igual.
 
 Las cooperativas de servicios financieros de Quebec, en cambio, dependen de la
-Autorité des marchés financiers y no del BSIF: en un préstamo sin seguro la
-regla federal no las obliga y aplican sus propias normas. Un rechazo en un
-prestamista federal merece una segunda lectura en otra parte.
+Autorité des marchés financiers y no del BSIF. Pero desde 2021 la AMF les
+impone la misma tasa admisible en los préstamos sin seguro. Los demás
+criterios, como los coeficientes o la forma de contar los alquileres, varían de
+un prestamista a otro: su prestamista puede detallárselos, y un corredor
+hipotecario, compararlos.
 
 Sume los coeficientes de la CMHC, 39 % y 44 % del ingreso bruto, y su [puntaje
 de crédito](/es/articles/credit-score-home-buying-quebec/).
@@ -54,11 +57,14 @@ de crédito](/es/articles/credit-score-home-buying-quebec/).
   ingreso.
 - **Tríplex o cuádruplex ocupado:** 50 % de los alquileres brutos, o el método
   del ingreso neto de alquiler.
-- **Edificio no ocupado:** solo el ingreso neto, es decir los alquileres brutos
-  menos los gastos de operación.
+- **Edificio no ocupado objeto del préstamo:** hasta el 50 % de los alquileres
+  brutos, o el ingreso neto, es decir los alquileres brutos menos los gastos de
+  operación.
+- **Edificios que ya posee:** según la política del prestamista.
 
 En el primero, ocupado, parte de los alquileres lo hace parecer más rico. En el
-segundo se parte del neto y el pago del primero sigue en su balance: un plex
+segundo, el prestamista retiene como máximo la mitad de los alquileres brutos, o
+el neto, y el pago del primero sigue en su balance: un plex
 con flujo de caja delgado no lo ayuda a comprar el siguiente, lo bloquea.
 
 ## De dónde sale el pago inicial del próximo

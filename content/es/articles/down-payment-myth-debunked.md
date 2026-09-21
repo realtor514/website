@@ -1,7 +1,7 @@
 ---
 title: "El mito del 20 % de entrada: lo que frena a los compradores"
 date: 2026-07-25
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Financiamiento"
 description: "La entrada mínima real en Quebec, lo que cuesta de verdad el seguro CMHC, el QST que hay que pagar en efectivo al cierre, y cómo saber si esperar le conviene o le cuesta."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"
@@ -45,6 +45,10 @@ es un porcentaje del monto prestado y depende de su entrada:
 - Entrada del 10 % al 14,99 %: prima del 3,10 %
 - Entrada del 15 % al 19,99 %: prima del 2,80 %
 
+Una amortización de 30 años, posible cuando al menos un prestatario es comprador
+primerizo o la vivienda es nueva, añade 0,20 puntos a la prima: 4,20 % en lugar
+de 4,00 %, por ejemplo.
+
 En una propiedad de 500 000 $ con un 10 % de entrada, el préstamo es de
 450 000 $ y la prima de 13 950 $. No se paga en efectivo: se suma al capital de
 su hipoteca.
@@ -80,6 +84,7 @@ para su zona.
 
 | Apreciación anual | Precio en 3 años | 20 % a ahorrar | Diferencia con 100 000 $ |
 |---|---|---|---|
+| Caída del 3 % | 456 337 $ | 91 267 $ | 8 733 $ menos |
 | 0 % | 500 000 $ | 100 000 $ | ninguna |
 | 3 % | 546 364 $ | 109 273 $ | 9 273 $ más |
 | 5 % | 578 813 $ | 115 763 $ | 15 763 $ más |
@@ -89,9 +94,12 @@ usted ahorra. Eso es lo que da la sensación de correr sin avanzar.
 
 Y durante esos tres años, si hubiera comprado, esa misma apreciación habría
 jugado a su favor: 46 364 $ de plusvalía al 3 %, 78 813 $ al 5 %. Compárelo con
-la prima de 13 950 $ que quería evitar.
+la prima de 13 950 $ que quería evitar. A la inversa, con una caída del 3 % por
+año, la propiedad habría perdido 43 663 $ de valor, además de la prima pagada.
+Esta comparación deja de lado los intereses hipotecarios, los impuestos
+municipales y escolares, el mantenimiento y los gastos de cierre.
 
-En un mercado estable el razonamiento se invierte por completo: esperar ya no
+En un mercado estable o a la baja el razonamiento se invierte: esperar ya no
 cuesta apreciación perdida, y evitar la prima se vuelve una ganancia neta. Por
 eso la respuesta no puede ser la misma para todos.
 
@@ -152,8 +160,8 @@ cuarta y enmarca las otras tres.
 ## Lo esencial
 
 Para un primer comprador con ingreso estable, un fondo de emergencia sólido y
-expectativas realistas, comprar con un 5 a 10 % suele ser mejor que esperar tres
-años. Para un comprador que se estira al máximo o cuyo ingreso es incierto,
+expectativas realistas, comprar con un 5 a 10 % en lugar de esperar tres años
+puede ser ventajoso según su situación. Para un comprador que se estira al máximo o cuyo ingreso es incierto,
 esperar y consolidar es la decisión correcta.
 
 La regla heredada no distingue entre esas dos personas. El cálculo sí.

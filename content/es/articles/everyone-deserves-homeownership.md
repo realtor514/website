@@ -60,7 +60,8 @@ conviene saber dónde está antes de concluir que es imposible.
 ## Los dos créditos del año de la compra
 
 **Federal (línea 31270):** 10 000 $ a la tasa impositiva más baja, que en 2026
-es del 14 %, o sea 1 400 $.
+es del 14 %, o sea 1 400 $ (unos 1 169 $ netos en Quebec, por la reducción
+federal propia de Quebec, el abattement).
 
 **Quebec (línea 396):** 10 000 $ al 14 %, o sea 1 400 $ también.
 
@@ -107,9 +108,10 @@ gran mayoría de las transacciones.
 El pago inicial mínimo es del 5 % hasta 500 000 $, luego 5 % sobre los
 primeros 500 000 $ y 10 % sobre la porción entre 500 000 $ y 1,5 millones. A
 partir de 1,5 millones es del 20 %. Por debajo del 20 % el seguro hipotecario
-es obligatorio: la prima de la SCHL va del 0,60 % al 4,50 % del monto del
-préstamo según la relación préstamo-valor, y en Quebec se le suma el impuesto
-provincial a las ventas, que no puede incluirse en el préstamo.
+es obligatorio: la prima de la SCHL va del 2,80 % al 4,00 % del monto del
+préstamo según la relación préstamo-valor (4,50 % con un pago inicial no
+tradicional), y en Quebec se le suma el impuesto provincial a las ventas, que
+no puede incluirse en el préstamo.
 
 Desde el 15 de diciembre de 2024, la amortización a 30 años está disponible
 para todos los compradores primerizos y para quienes compran vivienda

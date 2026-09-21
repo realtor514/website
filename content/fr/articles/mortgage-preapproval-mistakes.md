@@ -96,8 +96,9 @@ surprises.
   n'empruntez pas à ce taux, vous devez démontrer que vous pourriez le payer.
 - **Le crédit et la mise de fonds.** Pour un prêt assuré par la SCHL, au moins
   un emprunteur ou une caution doit avoir une cote d'au moins 600. Côté mise de
-  fonds, l'ACFC fixe le minimum à 5 % jusqu'à 500 000 $, puis 10 % sur la portion
-  au-delà, et 20 % à partir de 1,5 million de dollars.
+  fonds, selon les règles fédérales, expliquées par l'ACFC, le minimum est de
+  5 % jusqu'à 500 000 $, puis 10 % sur la portion au-delà, et 20 % à partir de
+  1,5 million de dollars.
 
 Testez vos propres chiffres avec le
 [calculateur de capacité d'emprunt](/tools/affordability/) avant de rencontrer

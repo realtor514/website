@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Commission in Quebec: What You're Actually Paying For"
 date: 2026-06-16
-lastmod: 2026-08-31
+lastmod: 2026-09-21
 category: "Real Estate 101"
 description: "No rate is set by law in Quebec. Here is who pays the commission, how it gets split, the taxes almost nobody budgets for, and the questions to ask before you sign."
 image: "images/articles/commission-explained-quebec/featured.jpg"
@@ -21,8 +21,9 @@ regulation and no professional body imposes a percentage. Commission is
 negotiated between the seller and their listing broker, then written into the
 brokerage contract before the property goes to market.
 
-In Greater Montreal, structures usually fall between 4% and 6% of the sale
-price. That is not a rule, it is an observation of the market. The percentage
+In Greater Montreal, commission is often in the range of 4% to 5% of the sale
+price before tax, with no rate set by law, and always negotiable. That is not a
+rule, it is an observation of the market. The percentage
 varies with property type, price, the marketing effort involved, and what you
 negotiate.
 
@@ -71,19 +72,17 @@ split is frequently 50/50, but it is set in the contract and can vary.
 
 There is then a second split, invisible to the client: each broker gives a
 share to their agency. The broker does not keep everything their half suggests.
-This detail explains why a commission reduction affects the broker's income far
-more than it affects your bill, and why some reduction requests meet real
-resistance.
 
-This split also drives something important for sellers: the share offered to
-the collaborating broker influences how much attention your property gets from
-buyer brokers. Cutting that share to save money can reduce showings, which
-usually costs more than the saving.
+This split also has a consequence for sellers. A represented buyer has signed a
+buyer brokerage contract, which can set their broker's remuneration. If the
+share offered to the collaborating broker is lower than what that contract
+provides, the buyer may have to pay the difference, which can complicate their
+offer. It is a point to discuss with your broker when you set that share.
 
 ## What commission actually pays for
 
-"Broker services" is vague. Here is the concrete detail of what is covered when
-a seller lists with me.
+"Broker services" is vague. Here is the concrete detail of what the service can
+include, depending on the property, when a seller lists with me.
 
 **Preparation.** Professional photography, staging consultation, floor plan,
 virtual tour. The difference between a well presented property and one
@@ -134,16 +133,22 @@ carried".
 
 ## When commission becomes payable
 
-Commission is generally due when the deed of sale is signed, and it is withheld
-by the notary from the sale proceeds. No sale, no commission, in the usual
-structure.
+Commission is usually withheld by the notary from the sale proceeds when the
+deed is signed. But under the mandatory exclusive brokerage contract, it can
+also be owed in other cases: if a promise to purchase accepted during the
+contract has all its conditions fulfilled, even if the deed is never signed,
+unless the buyer is at fault; if you refuse a promise to purchase that conforms
+to the contract's conditions of sale; if you sell on your own during the
+contract; or if you prevent the sale.
 
 Two clauses deserve your attention before you sign:
 
 The **protection clause**, which provides that commission remains payable if
 the property is sold, within a set period after the contract ends, to a buyer
-who was introduced to you during the contract. It is normal. Just check its
-duration.
+who was introduced to you during the contract. It is normal. The Real Estate
+Brokerage Act (section 27) caps that period at 180 days, and the clause does
+not apply if, during that period, you signed an exclusive brokerage contract
+with another licence holder. Check its duration.
 
 The **length of the brokerage contract** itself. It is negotiable. A short
 contract leaves you free to change brokers if the marketing does not deliver,

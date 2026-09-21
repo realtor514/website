@@ -1,6 +1,7 @@
 ---
 title: "Les transactions qui dérapent: ce qu'elles révèlent sur les vérifications à faire"
 date: 2026-05-28
+lastmod: 2026-09-21
 category: "Immobilier 101"
 description: "Les transactions où tout va mal enseignent plus que celles qui se déroulent bien. Voici les vérifications qui évitent la majorité des mauvaises surprises."
 image: "images/articles/worst-real-estate-deal-lessons/featured.jpg"
@@ -12,9 +13,9 @@ Les cas qui dérapent se ressemblent, et ils enseignent toujours la même chose:
 
 ## Un cas typique en copropriété
 
-Un acheteur signe une promesse d'achat sur un condominium dans un immeuble qui paraît bien géré. Trois semaines avant la clôture, lors de la recherche de titre du notaire, un avis enregistré apparaît: la corporation de copropriété a inscrit une hypothèque légale sur l'unité, liée à une cotisation spéciale impayée par l'ancien propriétaire.
+Un acheteur signe une promesse d'achat sur un condominium dans un immeuble qui paraît bien géré. Dix jours ouvrables avant la clôture, lors de la recherche de titre du notaire, un avis enregistré apparaît: le syndicat de copropriété a inscrit une hypothèque légale sur l'unité, liée à une cotisation spéciale impayée par l'ancien propriétaire.
 
-Le montant n'est pas catastrophique, souvent quelques milliers de dollars. Mais la découverte dix jours ouvrables avant une clôture planifiée crée une cascade d'urgence: il faut coordonner le remboursement depuis le produit de vente, obtenir la mainlevée, et tenir la date.
+Le montant n'est pas catastrophique, souvent quelques milliers de dollars. Mais une découverte aussi tardive crée une cascade d'urgence: il faut coordonner le remboursement depuis le produit de vente, obtenir la mainlevée, et tenir la date.
 
 Ce type de dossier se règle presque toujours. Il coûte simplement plusieurs jours de stress qui étaient évitables.
 

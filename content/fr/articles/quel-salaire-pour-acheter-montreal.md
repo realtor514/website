@@ -1,6 +1,7 @@
 ---
 title: "Quel salaire faut-il pour acheter à Montréal ou à Laval?"
 date: 2026-05-06
+lastmod: 2026-09-21
 translationKey: "article-quel-salaire-acheter"
 category: "Financement"
 description: "La question n'est pas seulement le salaire. Voici comment les prêteurs calculent réellement votre capacité d'emprunt au Québec, et pourquoi deux personnes au même revenu n'obtiennent pas le même montant."
@@ -15,9 +16,9 @@ Deux personnes qui gagnent exactement le même salaire peuvent se faire approuve
 
 Les institutions financières canadiennes utilisent deux ratios d'endettement.
 
-**L'ABD, amortissement brut de la dette.** C'est la portion de votre revenu brut mensuel consacrée au logement: paiement hypothécaire, taxes municipales et scolaires, chauffage, et la moitié des frais de copropriété s'il y a lieu. La limite habituelle se situe autour de 32 %, parfois un peu plus selon le dossier.
+**L'ABD, amortissement brut de la dette.** C'est la portion de votre revenu brut mensuel consacrée au logement: paiement hypothécaire, taxes municipales et scolaires, chauffage, et la moitié des frais de copropriété s'il y a lieu. Pour un prêt assuré, la SCHL fixe la limite à 39 %.
 
-**L'ATD, amortissement total de la dette.** C'est la même chose, plus toutes vos autres dettes: prêt auto, marge de crédit, cartes de crédit, prêt étudiant, pension alimentaire. La limite habituelle tourne autour de 40 à 44 %.
+**L'ATD, amortissement total de la dette.** C'est la même chose, plus toutes vos autres dettes: prêt auto, marge de crédit, cartes de crédit, prêt étudiant, pension alimentaire. Pour un prêt assuré, la limite de la SCHL est de 44 %. Certains prêteurs appliquent des limites plus strictes.
 
 C'est l'ATD qui bloque la majorité des dossiers, pas le salaire.
 
@@ -43,7 +44,7 @@ Les règles canadiennes de mise de fonds minimale sont progressives:
 
 - 5 % sur la première tranche de 500 000 dollars du prix
 - 10 % sur la portion entre 500 000 et 1 500 000 dollars
-- 20 % au-delà de 1 500 000 dollars
+- 20 % du prix complet à partir de 1 500 000 dollars
 
 Sous 20 % de mise de fonds, l'assurance prêt hypothécaire est obligatoire. Cette prime s'ajoute au montant emprunté et augmente donc votre paiement mensuel, ce qui réduit à son tour votre capacité d'achat.
 
@@ -79,4 +80,4 @@ Pour compléter, lisez [le vrai coût d'achat d'une première maison au Québec]
 
 ---
 
-*Vous voulez savoir ce que votre situation permet réellement? [Écrivez-moi](/formulaire/). Je peux vous référer à des courtiers hypothécaires qui font ce calcul correctement, sans frais pour vous.*
+*Vous voulez savoir ce que votre situation permet réellement? [Écrivez-moi](/formulaire/). Je peux vous référer à des courtiers hypothécaires certifiés AMF.*

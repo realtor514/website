@@ -1,6 +1,7 @@
 ---
 title: "Vender con o sin corredor en Quebec: la comparación honesta"
 date: 2026-05-09
+lastmod: 2026-09-21
 translationKey: "article-vendre-sans-courtier"
 category: "Guía del Vendedor"
 description: "Es la pregunta número uno de los vendedores en Quebec. Aquí están las cifras reales, lo que usted ahorra de verdad, el riesgo que asume y los casos en que vender sin corredor tiene sentido."
@@ -13,13 +14,13 @@ Aquí está la comparación completa, incluidos los casos en que vender por cuen
 
 ## Lo que usted ahorra realmente
 
-En Quebec, la retribución del corredor se sitúa generalmente entre el 4 % y el 5 % del precio de venta, más impuestos. En una propiedad de 500 000 dólares, eso representa aproximadamente entre 20 000 y 25 000 dólares antes de impuestos.
+En Quebec, la retribución del corredor es a menudo del orden del 4 % al 5 % del precio de venta antes de impuestos. En una propiedad de 500 000 dólares, eso representa aproximadamente entre 20 000 y 25 000 dólares antes de impuestos.
 
 Es una cantidad real y merece tomarse en serio. Pero dos precisiones cambian el cálculo.
 
 Primero, ese porcentaje no está fijado por ley. Nada en Quebec regula la tasa de retribución. Se negocia, y se negocia más de lo que los vendedores suponen, sobre todo en propiedades de valor elevado o en sectores de fuerte demanda.
 
-Segundo, una parte de esa retribución normalmente se comparte con el corredor que trae al comprador. Si usted vende sin corredor pero aparece un comprador acompañado del suyo, ese corredor querrá cobrar. Muchos vendedores particulares terminan ofreciendo un 2 % o 2,5 % a la parte compradora. El ahorro real suele ser la mitad de lo que imaginaban.
+Segundo, una parte de esa retribución normalmente se comparte con el corredor que trae al comprador. Si usted vende sin corredor pero aparece un comprador acompañado del suyo, ese corredor querrá cobrar. Un vendedor particular no tiene ninguna obligación de pagar al corredor del comprador. Pero, según su contrato de corretaje de compra, el comprador puede tener entonces que pagarle él mismo, lo que puede pesar sobre su oferta. Usted podría por lo tanto decidir ofrecer una parte al corredor del comprador, y su ahorro real sería entonces menor de lo que imaginaba.
 
 ## La verdadera diferencia: Centris
 
@@ -37,7 +38,7 @@ Vender sin corredor significa hacerse cargo de:
 
 **El precio.** Es la decisión de mayor consecuencia. Demasiado alto y quema sus dos primeras semanas de visibilidad, para vender más barato tres meses después. Demasiado bajo y deja dinero sobre la mesa sin saberlo nunca. Usted no tiene acceso a los datos completos de ventas comparables, solo a los precios publicados, que no son los precios de venta reales.
 
-**Las declaraciones del vendedor.** En Quebec usted sigue siendo responsable de los vicios ocultos que conocía y no declaró, con corredor o sin él. Un formulario de declaraciones del vendedor bien completado es su mejor protección. Muchos vendedores particulares lo completan mal o no lo completan, y terminan en litigio un año después de la venta.
+**Las declaraciones del vendedor.** En Quebec, con corredor o sin él, el vendedor debe la garantía contra los vicios ocultos aunque los ignorara. Si los conocía, se expone además a daños y perjuicios. Un formulario de declaraciones del vendedor bien completado es su mejor protección. Consulte a un notario o a un abogado.
 
 **La verificación de los compradores.** Una oferta solo vale si el comprador puede financiar de verdad. Sin verificar la preaprobación, puede retirar su propiedad del mercado durante seis semanas por un financiamiento que nunca se concretará.
 
@@ -54,11 +55,11 @@ Hay situaciones en que es una decisión perfectamente razonable:
 - Tiene experiencia real en transacciones inmobiliarias y tiempo para dedicarle.
 - Está dispuesto a contratar un notario para encuadrar la parte jurídica y asumir el resto.
 
-Pero tenga claro lo que deja de lado al mismo tiempo: vendiendo solo, usted renuncia a varias protecciones legales que existen únicamente en una transacción encuadrada por un corredor.
+Pero tenga claro lo que deja de lado al mismo tiempo: vendiendo solo, usted renuncia a varias protecciones que existen únicamente cuando un corredor interviene en la transacción.
 
 Los formularios obligatorios de la OACIQ, la promesa de compra y las declaraciones del vendedor, no son papeleo. Fueron redactados para repartir con claridad las responsabilidades entre las partes y cerrar las puertas a los litigios antes de que se abran. Un corredor tiene además un deber legal de verificación e información, cuenta con un seguro de responsabilidad profesional, y las partes de una transacción encuadrada por un corredor están cubiertas por el Fondo de Indemnización del Corretaje Inmobiliario en casos de fraude o de desvío de fondos.
 
-Nada de eso se aplica a una venta entre particulares. Si algo sale mal después de la firma, no tiene organismo de supervisión al que dirigirse, ni seguro detrás de la otra parte, ni fondo de indemnización. Su único recurso es el tribunal civil, a su costa y durante varios años.
+Nada de eso se aplica a una venta entre particulares. Precisemos, sin embargo, un punto: con corredor o sin él, un litigio entre el comprador y el vendedor se resuelve ante los tribunales. Lo que el corredor añade son recursos contra el propio corredor si comete una falta: su seguro de responsabilidad profesional, la OACIQ y el Fondo de Indemnización del Corretaje Inmobiliario en casos de fraude o de desvío de fondos.
 
 No es un argumento para asustarlo, es una línea que debe entrar en su cálculo igual que la retribución. Si aun así decide ir solo, contrate un notario temprano en el proceso, haga preparar un certificado de ubicación actualizado y complete las declaraciones del vendedor con la misma seriedad con que lo haría un corredor.
 

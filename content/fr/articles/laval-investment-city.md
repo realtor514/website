@@ -103,8 +103,9 @@ Deux règles pèsent directement sur le prix que vous êtes prêt à payer :
 Les trois premières lignes viennent des produits SCHL Achat et SCHL Immeuble de
 rapport : rapport prêt-valeur jusqu'à 95 % pour 1 ou 2 logements, 90 % pour 3 ou
 4, et 80 % pour un immeuble de rapport non occupé. Dans tous les cas, cote de
-crédit d'au moins 600 pour un emprunteur, amortissement maximal de 25 ans,
-ratios de 39 % des revenus bruts pour les frais de logement et de 44 % pour
+crédit d'au moins 600 pour un emprunteur, amortissement maximal de 25 ans (30
+ans pour un premier acheteur ou une construction neuve, si vous habitez
+l'immeuble), ratios de 39 % des revenus bruts pour les frais de logement et de 44 % pour
 l'ensemble des dettes, et un taux de qualification égal au plus élevé du taux de
 votre contrat plus 2 % ou de 5,25 %.
 

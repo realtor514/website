@@ -1,6 +1,7 @@
 ---
 title: "What Salary Do You Need to Buy in Montreal or Laval?"
 date: 2026-05-06
+lastmod: 2026-09-21
 translationKey: "article-quel-salaire-acheter"
 category: "Financing"
 description: "The question is not only about salary. Here is how lenders actually calculate your borrowing capacity in Quebec, and why two people with the same income do not get approved for the same amount."
@@ -15,9 +16,9 @@ Two people earning exactly the same salary can be approved for amounts that diff
 
 Canadian financial institutions use two debt service ratios.
 
-**GDS, gross debt service.** The share of your gross monthly income going to housing: mortgage payment, municipal and school taxes, heating, and half the condo fees if applicable. The usual ceiling sits around 32%, sometimes slightly higher depending on the file.
+**GDS, gross debt service.** The share of your gross monthly income going to housing: mortgage payment, municipal and school taxes, heating, and half the condo fees if applicable. For an insured loan, CMHC sets the ceiling at 39%.
 
-**TDS, total debt service.** The same thing, plus all your other debts: car loan, line of credit, credit cards, student loan, support payments. The usual ceiling is around 40% to 44%.
+**TDS, total debt service.** The same thing, plus all your other debts: car loan, line of credit, credit cards, student loan, support payments. For an insured loan, the CMHC ceiling is 44%. Some lenders apply stricter limits.
 
 It is TDS that blocks most files, not salary.
 
@@ -43,7 +44,7 @@ Canadian minimum down payment rules are tiered:
 
 - 5% on the first $500,000 of the price
 - 10% on the portion between $500,000 and $1,500,000
-- 20% above $1,500,000
+- 20% of the full price from $1,500,000 up
 
 Below 20% down, mortgage loan insurance is mandatory. That premium is added to the amount borrowed and therefore raises your monthly payment, which in turn reduces your purchasing capacity.
 
@@ -79,4 +80,4 @@ To go further, read [the real cost of buying your first home in Quebec](/en/arti
 
 ---
 
-*Want to know what your situation actually supports? [Write to me](/en/form/). I can refer you to mortgage brokers who run this calculation properly, at no cost to you.*
+*Want to know what your situation actually supports? [Write to me](/en/form/). I can refer you to AMF-certified mortgage brokers.*

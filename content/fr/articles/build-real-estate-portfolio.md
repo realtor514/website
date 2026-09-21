@@ -1,7 +1,7 @@
 ---
 title: "Comment bâtir un portefeuille immobilier dans le Grand Montréal à partir de zéro"
 date: 2026-05-26
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Investissement"
 description: "Mise de fonds selon le nombre de logements, test de résistance, refinancement à 80 %, encadrement des loyers et fiscalité : passer d'un immeuble à plusieurs."
 image: "images/articles/build-real-estate-portfolio/featured.jpg"
@@ -26,8 +26,9 @@ l'investisseur absent.
 | 3 ou 4 logements, vous occupez | 10 % | 90 % |
 | 2 à 4 logements, vous n'occupez pas | 20 % | 80 % |
 
-Les deux premières lignes exigent que vous ou un proche occupiez un logement, à
-un prix sous 1 500 000 $. La troisième, c'est le produit Immeuble de rapport de
+Les deux premières lignes exigent un prix sous 1 500 000 $ et un logement occupé
+par vous, ou sans loyer par votre conjoint marié ou de fait, votre père, votre
+mère ou votre enfant. La troisième, c'est le produit Immeuble de rapport de
 la SCHL : prix sous 1 000 000 $, cote de crédit de 600.
 
 Le même triplex demande donc 10 % quand vous y habitez, 20 % dès que vous
@@ -43,9 +44,11 @@ aussi à son Immeuble de rapport : avec assurance, vous êtes testé de toute
 façon.
 
 Les coopératives de services financiers du Québec, elles, relèvent de
-l'Autorité des marchés financiers et non du BSIF : sur un prêt non assuré, la
-règle fédérale ne les lie pas et elles appliquent leurs propres normes. Un
-refus chez un prêteur fédéral mérite donc une deuxième lecture ailleurs.
+l'Autorité des marchés financiers et non du BSIF. Mais l'AMF leur impose depuis
+2021 le même taux admissible sur les prêts non assurés. Les autres critères,
+comme les ratios ou la prise en compte des loyers, varient d'un prêteur à
+l'autre : votre prêteur peut vous les détailler, et un courtier hypothécaire les
+comparer.
 
 S'y ajoutent les ratios de la SCHL, 39 % et 44 % du revenu brut, et votre
 [cote de crédit](/articles/credit-score-home-buying-quebec/).
@@ -55,13 +58,14 @@ S'y ajoutent les ratios de la SCHL, 39 % et 44 % du revenu brut, et votre
 - **Duplex occupé :** jusqu'à 100 % des loyers bruts s'ajoutent à votre revenu.
 - **Triplex ou quadruplex occupé :** 50 % des loyers bruts, ou la méthode du
   revenu net de location.
-- **Immeuble non occupé :** le revenu net seulement, soit les loyers bruts
-  moins les dépenses d'exploitation.
+- **Immeuble non occupé visé par le prêt :** jusqu'à 50 % des loyers bruts, ou
+  le revenu net, soit les loyers bruts moins les dépenses d'exploitation.
+- **Immeubles que vous détenez déjà :** selon la politique du prêteur.
 
 Sur le premier, occupé, une partie des loyers vous fait paraître plus riche.
-Sur le deuxième, on part du net et le paiement du premier reste dans votre
-bilan : un plex au flux de trésorerie mince ne vous aide pas à acheter le
-suivant, il vous bloque. Le [guide de la gestion
+Sur le deuxième, le prêteur retient au plus la moitié des loyers bruts, ou le
+net, et le paiement du premier reste dans votre bilan : un plex au flux de
+trésorerie mince ne vous aide pas à acheter le suivant, il vous bloque. Le [guide de la gestion
 locative](/articles/rental-property-management/) détaille ces dépenses.
 
 ## Sortir la mise de fonds du prochain immeuble

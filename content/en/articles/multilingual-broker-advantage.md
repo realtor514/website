@@ -1,6 +1,7 @@
 ---
 title: "Why Your Broker's Language Changes the Real Estate Experience"
 date: 2026-07-05
+lastmod: 2026-09-21
 category: "Real Estate 101"
 description: "Handling a transaction in your first language is not just a convenience. Here is why language carries more weight than most buyers realize."
 image: "images/articles/multilingual-broker-advantage/featured.jpg"
@@ -26,7 +27,7 @@ Quebec's notarial system, the OACIQ regulatory framework, mortgage insurance rul
 
 Service delivered in French, English, Spanish and Arabic with the same professional rigour changes three things:
 
-**Nobody signs a document they do not understand.** That is the baseline, and it is far from universal.
+**My goal: every document understood before it is signed.**
 
 **Multigenerational families can function.** When parents do not share a language with the children accompanying them, the transaction runs three ways. Being able to address each person directly prevents anyone deciding on someone else's behalf.
 

@@ -58,7 +58,11 @@ Código Civil de Quebec, el incumplimiento de otorgar el título da a la otra
 parte el derecho de obtener una sentencia que lo sustituya. Dicho claro: un
 vendedor puede obligarlo a comprar. El artículo 1711 añade que toda suma
 entregada con ocasión de una promesa de venta se presume un anticipo sobre el
-precio, es decir dinero comprometido y no un gesto de buena fe recuperable.
+precio, y no una suma de desistimiento: usted no puede simplemente abandonarla
+para retirarse, y un incumplimiento lo expone a la venta forzosa o a daños y
+perjuicios que pueden superar el anticipo. Si la promesa queda nula, por
+ejemplo porque usted se acoge a una condición en el plazo y la forma
+previstos, el anticipo se le reembolsa (cláusula 4.3 de la promesa de compra).
 
 La condición de financiamiento es la puerta por la que un comprador sale sin
 daños. Retirarla no es audacia, es renunciar a esa puerta. Solo se hace con un
@@ -102,7 +106,8 @@ financiamiento de actividades terroristas. En concreto, según CANAFE:
 - se exige un registro de recepción de fondos en cuanto reciben fondos,
   cualquiera sea el monto;
 - una operación importante en efectivo de 10 000 $ o más debe declararse, y la
-  regla de las 24 horas agrupa las sumas recibidas en un mismo día;
+  regla de las 24 horas agrupa las sumas recibidas en un periodo de 24 horas
+  consecutivas;
 - una operación sospechosa se declara tan pronto como sea posible;
 - los documentos se conservan al menos cinco años;
 - debe identificarse al beneficiario efectivo que posea 25 % o más, y
@@ -113,10 +118,15 @@ corretaje obliga al corredor a verificar la identidad de todas las partes de
 la transacción que no estén representadas por otro titular de licencia, y el
 artículo 30, su capacidad jurídica. El OACIQ es categórico: si una parte se
 niega a entregar los documentos de identificación, el corredor no puede actuar
-por ella y debe retirarse de la transacción. El OACIQ precisa además que por
-encima de un umbral de 100 000 $ recibidos en efectivo, el titular debe entre
-otras cosas establecer el origen del efectivo y de la riqueza de la persona, y
-someter la operación al examen de la alta dirección.
+por ella y debe retirarse de la transacción. En el plano federal, CANAFE
+precisa que cuando el titular recibe 100 000 $ o más en efectivo, debe
+determinar si la persona es una persona políticamente expuesta, un dirigente
+de una organización internacional, un familiar o un allegado cercano de
+alguno de ellos. Solo en ese caso debe establecer el origen del efectivo y de
+la riqueza de la persona, y someter la operación al examen de la alta
+dirección: siempre si se trata de una persona políticamente expuesta
+extranjera o de uno de sus familiares o allegados, y solo si juzga el riesgo elevado en los
+demás casos.
 
 ¿Y el notario? La creencia extendida es que se le aplica el mismo régimen. No
 es exacto, y el propio OACIQ lo escribe en su directriz: ciertas profesiones,
@@ -126,11 +136,10 @@ exigencias de esa ley. Es el efecto de la sentencia de la Corte Suprema de
 como abogados y notarios.
 
 Esto no significa en absoluto que el efectivo pase. El Reglamento sobre la
-contabilidad en fideicomiso de los notarios es más estricto que el umbral
-federal: su artículo 6 prohíbe al notario recibir de cualquiera dinero en
-efectivo por un total de 7 500 $ o más en el marco de un mismo contrato de
-servicio, y su artículo 32 le prohíbe retirar efectivo de su cuenta en
-fideicomiso. Añada que el Banco de Canadá retiró el curso legal de los
+contabilidad en fideicomiso de los notarios (Règlement sur la comptabilité en
+fidéicommis des notaires) es más estricto que el umbral federal: su artículo 20
+prohíbe al notario recibir una suma en efectivo de 7 500 $ o más en el marco de
+un mismo contrato de servicio. Añada que el Banco de Canadá retiró el curso legal de los
 billetes de 500 $ y de 1 000 $ el 1 de enero de 2021, lo que deja el billete
 de 100 $ como la mayor denominación. Una transacción «de contado» en Quebec
 es, en los hechos, una transferencia desde una cuenta documentada, no una

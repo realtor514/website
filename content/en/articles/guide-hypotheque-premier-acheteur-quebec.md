@@ -1,7 +1,7 @@
 ---
 title: "Everything First-Time Buyers Need to Know About Mortgages in Quebec"
 date: 2026-07-29
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-guide-hypotheque"
 category: "Financing"
 description: "The mortgage process is more complex than your bank makes it seem, and simpler than the internet makes it look. Here is the complete, honest guide for first-time buyers in Quebec."
@@ -31,15 +31,15 @@ The qualifying rate is the higher of:
 
 If your mortgage rate is 5%, you must qualify at 7%. This means you qualify for significantly less than your bank's calculator suggests when you use the current rate.
 
-The stress test exists to protect both borrowers and the financial system. The practical result: your actual buying power is lower than many people expect. A mortgage broker can help you optimize your qualification before you start searching.
+The stress test exists to protect both borrowers and the financial system. The practical result: your actual buying power is lower than many people expect.
 
 ## Your Bank vs. A Mortgage Broker
 
-Most first-time buyers go directly to their bank. Here is what that means: you are seeing one lender's products. That lender has strong incentive to offer you the rate and conditions that maximize their margin.
+Most first-time buyers go directly to their bank. There, you are seeing one lender's products.
 
-A mortgage broker has access to 20 to 30 lenders: banks, credit unions, and alternative lenders. They compare on your behalf and find the most competitive rate and conditions available to your profile. Their fees are typically paid by the lender, not by you.
+A mortgage broker can present your file to several lenders. In Quebec, a mortgage broker must be certified by the AMF, and you can check the certificate in the AMF register.
 
-The approach: start with a mortgage broker. Get the best offer available. Then bring that offer to your own bank and ask them to beat it. You will almost always get a better outcome than if you had stayed exclusively with your bank.
+The approach: compare several sources (your bank, a caisse, an AMF-certified mortgage broker) and ask each one how they are paid. An offer obtained elsewhere also gives you a point of comparison when you talk to your bank.
 
 ## Fixed vs. Variable: The Decision That Depends on You
 
@@ -47,11 +47,9 @@ This is the most common question, and the answer is always the same: **there is 
 
 **Fixed rate:** You know exactly what you pay for the full term. You pay a small premium for that certainty. If rates fall, you don't benefit. If rates rise, you're protected.
 
-**Variable rate:** Your rate moves with the Bank of Canada's policy rate. Historically, variable rates have beaten fixed rates over long periods, but not always, and not predictably.
+**Variable rate:** Your rate follows your lender's prime rate, plus or minus a spread, so it can rise or fall during the term.
 
-The real question is your risk tolerance. If a $200/month increase in payments would stress your budget significantly, choose fixed. If you have financial flexibility and a longer horizon, variable may serve you well over time.
-
-In 2025, with the Bank of Canada in a rate-cutting cycle, the calculus is different than it was in 2022 or 2023. What can be said with confidence: the answer depends on your specific financial situation, not on what a general article tells you.
+The real question is your risk tolerance. If a $200/month increase in payments would stress your budget significantly, choose fixed.
 
 ## The Down Payment Sources You May Not Know About
 
@@ -80,13 +78,11 @@ Put your tax refund against the principal. Put your annual bonus against the pri
 
 ## The One Mistake to Avoid at Renewal
 
-When your mortgage term ends, your bank sends a renewal letter with "our best rate." In most cases, this is not their best rate. It is the rate that produces their best margin.
+When your mortgage term ends, your bank sends a renewal letter with "our best rate." That rate is not always the lowest one available: compare.
 
 You are a proven, reliable client who has made payments for 5 years without missing one. You have significant negotiating leverage.
 
-Start comparing rates 90 to 120 days before your renewal date. Bring a competing offer to your bank. Ask them to match or beat it. If they won't, switch lenders; the process is simpler than most people think, and the new lender often covers transfer costs.
-
-A well-negotiated renewal can save you $5,000 to $15,000 over the next 5-year term.
+Start comparing rates 90 to 120 days before your renewal date. Bring a competing offer to your bank. Ask them to match or beat it. If they won't, switch lenders; the process is simpler than most people think.
 
 ## Questions to Ask Before Signing Any Mortgage
 

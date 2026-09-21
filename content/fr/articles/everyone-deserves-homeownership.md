@@ -62,7 +62,8 @@ réel, mais autant savoir où il est avant de conclure à l'impossible.
 ## Les deux crédits de l'année de l'achat
 
 **Fédéral (ligne 31270) :** 10 000 $ au taux d'imposition le plus bas, soit
-14 % en 2026, donc 1 400 $.
+14 % en 2026, donc 1 400 $ (environ 1 169 $ net au Québec, en raison de
+l'abattement du Québec).
 
 **Québec (ligne 396) :** 10 000 $ à 14 %, soit 1 400 $ également.
 
@@ -109,9 +110,10 @@ revente, c'est à dire à la grande majorité des transactions.
 La mise de fonds minimale est de 5 % jusqu'à 500 000 $, puis 5 % sur les
 premiers 500 000 $ et 10 % sur l'excédent entre 500 000 $ et 1,5 million. À
 partir de 1,5 million, c'est 20 %. Sous 20 %, l'assurance prêt hypothécaire
-devient obligatoire : la prime de la SCHL va de 0,60 % à 4,50 % du montant du
-prêt selon le rapport prêt-valeur, et au Québec la taxe de vente provinciale
-s'y ajoute sans pouvoir être incluse dans le prêt.
+devient obligatoire : la prime de la SCHL va de 2,80 % à 4,00 % du montant du
+prêt selon le rapport prêt-valeur (4,50 % avec une mise de fonds non
+traditionnelle), et au Québec la taxe de vente provinciale s'y ajoute sans
+pouvoir être incluse dans le prêt.
 
 Depuis le 15 décembre 2024, l'amortissement de 30 ans est offert à tous les
 premiers acheteurs ainsi qu'aux acheteurs de propriétés nouvellement

@@ -1,6 +1,7 @@
 ---
 title: "Su Renovación No Añadirá lo que Cree al Valor de su Vivienda"
 date: 2026-07-20
+lastmod: 2026-09-21
 category: "Guía del Vendedor"
 description: "Los vendedores consistentemente sobreestiman el retorno de las renovaciones. Algunas mejoras genuinamente añaden valor. Muchas añaden costo sin retorno proporcional. Aquí está el análisis honesto antes de que toque nada."
 image: "images/articles/renovations-dont-add-value/featured.jpg"
@@ -8,8 +9,6 @@ draft: false
 ---
 
 Antes de listar, muchos vendedores toman una decisión que les cuesta dinero: renuevan. No porque la propiedad lo requiera para ser vendible, sino porque creen que la renovación retornará más de lo que cuesta. Esta creencia frecuentemente es incorrecta.
-
-Aquí hay un análisis basado en datos de lo que realmente mueve la aguja.
 
 ## El Problema Fundamental con el ROI de Renovaciones Pre-Venta
 
@@ -19,17 +18,17 @@ Un comprador que recorre una cocina que usted acaba de renovar con $45,000 en ga
 
 ## Lo que Típicamente Retorna Bien
 
-**Pintura.** La pintura fresca y neutral es la inversión pre-venta con mayor ROI que puede hacer. El costo es bajo, la mano de obra es manejable, y el efecto en la percepción del comprador es significativo. Los grises neutros, blancos y beiges hacen que los espacios se sientan más grandes y permiten a los compradores proyectar su propia visión.
+**Pintura.** La pintura fresca y neutral suele estar entre los gastos previos a la venta más rentables. El costo es bajo, la mano de obra es manejable, y el efecto en la percepción del comprador es significativo. Los grises neutros, blancos y beiges hacen que los espacios se sientan más grandes y permiten a los compradores proyectar su propia visión.
 
 **Limpieza profesional y organización.** No es una renovación, pero pertenece a esta conversación. Un hogar limpiado profesionalmente y completamente organizado se fotografía y muestra dramáticamente mejor que el mismo hogar con quince años de posesiones acumuladas.
 
-**Reparaciones menores.** Arregle las cosas que están visiblemente rotas, con fugas o dañadas. Estos elementos comunican mantenimiento diferido a los compradores, lo que señala que pueden haber otros problemas ocultos. Un grifo que gotea, una cubierta de tomacorriente agrietada o un tirador de puerta roto cuesta casi nada arreglarlo y señala cuidado.
+**Reparaciones menores.** Arregle las cosas que están visiblemente rotas, con fugas o dañadas. Estos elementos comunican mantenimiento diferido a los compradores, lo que señala que pueden haber otros problemas ocultos. Un grifo que gotea, una cubierta de tomacorriente agrietada o un tirador de puerta roto cuesta casi nada arreglarlo y señala cuidado. Una fuga o un daño por agua ya reparado debe declararse de todos modos en las declaraciones del vendedor (Déclarations du vendeur): vea [cómo preparar su casa para la venta](/es/articles/preparar-casa-para-venta-montreal-laval/).
 
 **Mejoras de atractivo exterior.** Las primeras impresiones se hacen antes de que los compradores entren al edificio. Paisajismo ordenado, una puerta principal recién pintada, ventanas limpias y cercas reparadas retornan bien porque afectan el primer momento de evaluación de cada comprador.
 
 ## Lo que Típicamente Retorna Mal
 
-**Renovaciones completas de cocina.** A menos que la cocina sea genuinamente disfuncional para la mayoría de los compradores, una renovación completa raramente retorna su costo completo. El retorno varía ampliamente según el mercado y la calidad de la renovación, pero comúnmente se cita en 60-80 centavos por dólar.
+**Renovaciones completas de cocina.** A menos que la cocina sea genuinamente disfuncional para la mayoría de los compradores, una renovación completa raramente retorna su costo completo. El retorno varía ampliamente según el mercado y la calidad de la renovación.
 
 **Adiciones de baño.** Agregar un baño a una casa que no tenía uno puede añadir valor. Actualizar un baño existente que funciona bien típicamente no retorna completamente.
 
@@ -39,7 +38,7 @@ Un comprador que recorre una cocina que usted acaba de renovar con $45,000 en ga
 
 ## La Decisión de Staging vs. Renovación
 
-Si el presupuesto es limitado antes de una venta, el staging casi siempre retorna mejor que la renovación. El staging es temporal, cuesta significativamente menos y aborda la respuesta emocional del comprador en lugar de alterar permanentemente la condición de la propiedad.
+Si el presupuesto es limitado antes de una venta, el staging a menudo retorna mejor que la renovación. El staging es temporal, cuesta significativamente menos y aborda la respuesta emocional del comprador en lugar de alterar permanentemente la condición de la propiedad.
 
 La recomendación estándar para vendedores que se aproximan a un listado: invierta en staging, fotografía, pintura neutral donde se necesite y reparaciones menores visibles. Difiera o evite renovaciones mayores a menos que sean necesarias para que la propiedad sea prestable o sean genuinamente transformadoras en un mercado que recompensa la transformación.
 

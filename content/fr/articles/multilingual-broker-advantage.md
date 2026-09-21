@@ -1,6 +1,7 @@
 ---
 title: "Pourquoi la langue du courtier change l'expérience immobilière"
 date: 2026-07-05
+lastmod: 2026-09-21
 category: "Immobilier 101"
 description: "Traiter une transaction dans sa langue maternelle n'est pas qu'une commodité. Voici pourquoi la langue pèse plus lourd que la plupart des acheteurs ne le pensent."
 image: "images/articles/multilingual-broker-advantage/featured.jpg"
@@ -26,7 +27,7 @@ Le système notarial québécois, le cadre réglementaire de l'OACIQ, les règle
 
 Un service offert en français, en anglais, en espagnol et en arabe avec la même rigueur professionnelle change trois choses:
 
-**Personne ne signe un document qu'il ne comprend pas.** C'est la base, et c'est loin d'être universel.
+**Mon objectif : que chaque document soit compris avant la signature.**
 
 **Les familles multigénérationnelles fonctionnent.** Quand les parents ne parlent pas la même langue que les enfants qui les accompagnent, la transaction se joue à trois. Pouvoir s'adresser directement à chacun évite que quelqu'un décide pour un autre.
 

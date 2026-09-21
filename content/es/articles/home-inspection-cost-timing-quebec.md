@@ -1,7 +1,7 @@
 ---
 title: "Inspección previa a la compra en Quebec: cuánto cuesta y cuándo hacerla"
 date: 2026-07-15
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 translationKey: "article-inspection-cout-moment"
 category: "Guía del Comprador"
 description: "¿Antes de la oferta o después? ¿Quién paga? ¿Cuánto? Aquí están las respuestas a las preguntas que más hacen los compradores en Quebec sobre la inspección, y el error que más caro cuesta."
@@ -28,7 +28,7 @@ Es un gasto que parece grande en el momento en que ya está vaciando sus ahorros
 
 El comprador, en casi todos los casos. Usted contrata al inspector, usted le paga, y el informe le pertenece.
 
-Esto es importante: el informe es su documento. No está obligado a entregarlo al vendedor, salvo que lo use para renegociar o para retirarse, en cuyo caso generalmente habrá que aportar la parte pertinente.
+Esto es importante: el informe es su documento. No está obligado a entregarlo al vendedor, salvo que quiera retirarse gracias a la condición de inspección: la promesa de compra exige entonces entregarle una copia del informe, no solo un extracto (vea más abajo).
 
 Desconfíe de una inspección pagada o proporcionada por el vendedor. No es necesariamente deshonesta, pero el inspector fue elegido por la otra parte. Si el vendedor le presenta un informe existente, léalo y haga la suya de todos modos.
 
@@ -36,11 +36,13 @@ Desconfíe de una inspección pagada o proporcionada por el vendedor. No es nece
 
 Esa es la verdadera pregunta, y la respuesta es: después de la oferta, pero con una condición de inspección.
 
-He aquí por qué. En Quebec, la forma normal de proceder es hacer una promesa de compra condicionada a una inspección satisfactoria. Usted dispone entonces de un plazo, generalmente de siete a diez días, para hacer inspeccionar la propiedad. Si el informe revela un problema importante, puede renegociar el precio, exigir correcciones o retirarse sin penalidad.
+He aquí por qué. En Quebec, la forma normal de proceder es hacer una promesa de compra condicionada a una inspección. Usted dispone entonces de un plazo, generalmente de siete a diez días, para hacer inspeccionar la propiedad. Si la inspección revela un factor capaz de disminuir de forma significativa el valor o los ingresos del inmueble o de aumentar sus gastos, la cláusula 8.1 de la promesa de compra de la OACIQ le permite retirarse sin penalidad, con una condición estricta: avisar al vendedor por escrito y entregarle una copia del informe de inspección, a más tardar el cuarto día siguiente al vencimiento del plazo de inspección, antes de las 20 h. La promesa queda nula y sin efecto en cuanto el vendedor recibe ese aviso acompañado del informe. Si no avisa al vendedor dentro de ese plazo y de esa forma, se considera que renunció a la condición.
+
+El formulario no le da ningún derecho a exigir correcciones. Una rebaja de precio o unas obras solo se obtienen por acuerdo con el vendedor, consignado en el formulario de Modificaciones, y esa negociación se hace antes de enviar el aviso, ya que este pone fin a la promesa. Vigile el plazo mientras negocia: si vence sin acuerdo ni aviso, la condición se pierde.
 
 Inspeccionar antes de presentar una oferta plantea dos problemas. Primero, el vendedor no tiene ninguna obligación de dejarlo entrar con un inspector mientras nada esté firmado. Segundo, usted paga 700 dólares por una propiedad que quizá no obtenga, sobre todo si hay varias ofertas.
 
-Hay una excepción. En un contexto de sobrepuja donde varios compradores se disputan la misma propiedad, algunos vendedores organizan un período de inspección antes de la fecha de recepción de ofertas, precisamente para que todos puedan presentar sin condición. Si le ofrecen esa posibilidad, tómela.
+Hay una excepción. En un contexto de sobrepuja donde varios compradores se disputan la misma propiedad, algunos vendedores permiten hacer inspeccionar la propiedad antes de presentar su oferta, precisamente para que usted pueda presentarla sin condición de inspección. Si le ofrecen esa posibilidad, tómela.
 
 ## ¿Se puede llevar un inspector a la primera visita?
 
@@ -54,11 +56,11 @@ Lo que sí puede hacer en la primera visita es mirar con atención por su cuenta
 
 Renunciar a la inspección para ganar una sobrepuja.
 
-Cuando varios compradores se disputan una propiedad, la tentación de presentar una oferta sin condición de inspección para resultar más atractivo es fuerte. Es eficaz. También es la apuesta más arriesgada de todo el proceso.
+Cuando varios compradores se disputan una propiedad, la tentación de presentar una oferta sin condición de inspección para resultar más atractivo es fuerte. Es la apuesta más arriesgada de todo el proceso.
 
 Una cimentación por rehacer, un techo completo, un sistema eléctrico no conforme, una contaminación del suelo: son montos de cinco cifras, a veces seis. Los descubre después de la firma y no tiene recurso alguno contra el vendedor por un problema que una inspección normal habría revelado.
 
-Si debe presentar sin condición, hágalo solo si pudo inspeccionar antes de la fecha de ofertas, o si tiene la liquidez para absorber una mala sorpresa mayor.
+Si debe presentar una oferta sin condición de inspección, hágalo solo si pudo hacer inspeccionar la propiedad antes de presentar su oferta. El corredor está de hecho obligado a recomendar al comprador una inspección completa (artículo 81 del Reglamento sobre las condiciones de ejercicio de una operación de corretaje, la deontología de los corredores y la publicidad). Si aun así renuncia a ella, pone sus iniciales en la sección 8 de la promesa de compra: ahí reconoce que fue informado de su derecho a hacer inspeccionar el inmueble, que renunció a él y que el corredor le informó de los riesgos de no hacer una inspección.
 
 ## Cómo elegir a su inspector
 

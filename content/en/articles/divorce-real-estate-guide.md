@@ -1,7 +1,7 @@
 ---
 title: "Separation, Divorce and the Home in Quebec: What You Need to Know"
 date: 2026-06-20
-lastmod: 2026-09-19
+lastmod: 2026-09-21
 category: "Real Estate 101"
 description: "Family patrimony, parental union, buyout, sale or co-ownership: what happens to the home when a couple separates in Quebec, and the mortgage traps to avoid."
 image: "images/articles/divorce-real-estate-guide/featured.jpg"
@@ -141,8 +141,10 @@ in most cases. Your notary will confirm the timing.
 - If direct communication is hard, it goes through the lawyers or the mediator.
 
 Couples with dependent children are entitled to 5 hours of free family mediation
-with an accredited mediator (2.5 hours for a review). Mediation can cover the
-division of property, not just custody.
+with an accredited mediator (2.5 hours for a review). Couples with no common
+dependent children, whether married, in a civil union or de facto, are entitled
+to up to 3 free hours. Mediation can cover the division of property, not just
+custody.
 
 ## A neutral value, before any negotiation
 

@@ -1,6 +1,7 @@
 ---
 title: "When Deals Go Wrong: What They Reveal About the Checks You Skipped"
 date: 2026-05-28
+lastmod: 2026-09-21
 category: "Real Estate 101"
 description: "Transactions where everything goes wrong teach more than the ones that go smoothly. Here are the verifications that prevent most bad surprises."
 image: "images/articles/worst-real-estate-deal-lessons/featured.jpg"
@@ -12,9 +13,9 @@ The deals that go wrong tend to resemble each other, and they always teach the s
 
 ## A typical condominium case
 
-A buyer signs a promise to purchase on a condominium in a building that appears well managed. Three weeks before closing, during the notary's title search, a registered notice appears: the condominium corporation has registered a legal hypothec against the unit, tied to a special assessment left unpaid by the previous owner.
+A buyer signs a promise to purchase on a condominium in a building that appears well managed. Ten business days before closing, during the notary's title search, a registered notice appears: the syndicate of co-owners has registered a legal hypothec against the unit, tied to a special assessment left unpaid by the previous owner.
 
-The amount is rarely catastrophic, often a few thousand dollars. But discovering it ten business days before a scheduled closing creates a cascade of urgency: the payment has to be coordinated out of the sale proceeds, a release obtained, and the date held.
+The amount is rarely catastrophic, often a few thousand dollars. But discovering it this late creates a cascade of urgency: the payment has to be coordinated out of the sale proceeds, a release obtained, and the date held.
 
 This kind of file almost always gets resolved. It simply costs several days of avoidable stress.
 

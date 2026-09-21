@@ -57,8 +57,7 @@ annually, municipalities may add their own brackets above $500,000, and Montreal
 has extra latitude.
 
 The real catch is elsewhere: the municipality sends the bill several months
-after the transaction, and it is payable quickly. It is not rolled into your
-mortgage and no lender will advance it for you. Set the money aside on closing
+after the transaction, and it is payable quickly. Set the money aside on closing
 day, in a separate account, and leave it there. Estimate it with the [welcome tax calculator](/en/tools/welcome-tax/), and
 read [the welcome tax guide](/en/articles/welcome-tax-quebec-guide/) for the
 exemptions and the tax credit that refunds part of it.

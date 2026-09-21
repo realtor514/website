@@ -1,7 +1,7 @@
 ---
 title: "Mudarse en Montreal o Laval: la lista completa, plazo por plazo"
 date: 2026-06-04
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Guía práctica"
 description: "Avisos de arrendamiento, cesión, cambio de dirección, Hydro-Québec, permisos de camión y ecocentros: la lista de mudanza del Gran Montreal, plazo a plazo."
 image: "images/articles/moving-checklist-montreal/featured.jpg"
@@ -31,7 +31,7 @@ fija la ley.
 |---|---|
 | Plazo fijo de 12 meses o más | 3 a 6 meses antes del fin del contrato |
 | Plazo fijo de menos de 12 meses | 1 a 2 meses antes del fin del contrato |
-| Plazo indeterminado | El del pago del alquiler, máximo 3 meses |
+| Plazo indeterminado | 1 a 2 meses antes del fin deseado del contrato |
 | Habitación | 10 a 20 días antes del fin del contrato |
 
 Un contrato del 1 de julio al 30 de junio se denuncia entre el 1 de enero y el
@@ -141,7 +141,10 @@ salida y llegada, la fecha y hora, el precio acordado o la tarifa horaria, y el
 importe total a pagar.
 
 Para un acuerdo por teléfono o internet, el contrato escrito debe entregarse en
-15 días, y no existe plazo de 10 días para anular. Evite los anticipos grandes y
+15 días. No existe plazo de 10 días para anular, salvo los recursos previstos
+para los contratos celebrados a distancia, por ejemplo si la empresa no le
+entrega ese contrato a tiempo u omite información obligatoria: el Office de la
+protection du consommateur los detalla. Evite los anticipos grandes y
 desconfíe de quien exige efectivo sin contrato: sin documento ni rastro de pago,
 un precio inflado a la llegada o un mueble roto resulta casi imposible de
 reclamar. Nadie puede exigir más que el

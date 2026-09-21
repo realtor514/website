@@ -46,7 +46,11 @@ consagrada: sin garantía legal alguna, a riesgo del comprador. La OACIQ public�
 una advertencia tras la sentencia Tremblay c. Immeubles Perron ltée, que
 confirma Blais c. Laforce, 2022 QCCA 858. El silencio del vendedor sobre un
 vicio que conoce ya no constituye dolo en esa venta: hay que probar una mentira,
-una media verdad o una maniobra destinada a engañarlo. La cláusula también le
+una media verdad o una maniobra destinada a engañarlo. Eso no autoriza a
+mentir: el vendedor debe responder con exactitud a las Declaraciones del
+vendedor, y una respuesta falsa es una mentira, no un silencio. El corredor del
+vendedor, por su parte, sigue obligado a informar a las partes de todo factor
+desfavorable que conozca. La cláusula también le
 imputa el conocimiento presunto de los vicios y le cierra todo recurso contra
 los propietarios anteriores.
 

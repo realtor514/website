@@ -1,43 +1,35 @@
 ---
 title: "Su historial de crédito bloquea en silencio la casa que quiere (y cómo arreglarlo)"
 date: 2026-05-17
-lastmod: 2026-08-31
+lastmod: 2026-09-21
 category: "Guía del Comprador"
-description: "Los umbrales que usan de verdad los prestamistas, los cinco factores de su puntaje, lo que se corrige en 30 días y lo que toma años, y la trampa del expediente delgado, muy común en Quebec."
+description: "El mínimo de 600 exigido para una hipoteca asegurada, los cinco factores de su puntaje, lo que se corrige en 30 días y lo que toma años, y la trampa del expediente delgado, muy común en Quebec."
 image: "images/articles/credit-score-home-buying-quebec/featured.jpg"
 ---
 
-Imagine un comprador típico: ingeniero de software, buen empleo, ahorros
-sólidos, entusiasmado con su primer condominio en Laval. Encuentra el lugar.
-Hace una oferta. Se la aceptan. Y entonces, tres días antes del vencimiento de
-la condición de financiamiento, lo llama su corredor hipotecario.
+Un ejemplo ficticio, para ilustrar. Imagine un comprador típico: ingeniero de
+software, buen empleo, ahorros sólidos, entusiasmado con su primer condominio en
+Laval con menos del 20 % de entrada. Encuentra el lugar. Hace una oferta. Se la
+aceptan. Y entonces, tres días antes del vencimiento de la condición de
+financiamiento, lo llama su corredor hipotecario.
 
-Puntaje de crédito: 618.
+Puntaje de crédito: 585, por debajo del mínimo de 600 que exige la SCHL (CMHC)
+para un préstamo asegurado.
 
 La operación se cae. Doce meses después, tras un trabajo real sobre su crédito,
 compra, pero no esa propiedad, y a un precio más alto porque el mercado se movió.
 
-Esa historia se repite más de lo que se cree, y casi siempre es evitable. Así se
-evita.
+Este tipo de situación a menudo puede evitarse. Así se evita.
 
 ## ¿Qué puntaje hace falta realmente?
 
-Los umbrales varían entre prestamistas, pero los órdenes de magnitud que se usan
-en Canadá son bastante estables:
+**Para una hipoteca asegurada por la SCHL**, es decir con menos del 20 % de
+entrada, al menos uno de los prestatarios, o un garante, debe tener un puntaje
+de 600 como mínimo. Por debajo, se rechaza el seguro, y con él el préstamo.
 
-| Puntaje | Lo que significa en la práctica |
-|---|---|
-| 760 o más | Las mejores tasas disponibles, máxima flexibilidad |
-| 700 a 759 | Buenas probabilidades de aprobación, tasas competitivas |
-| 680 a 699 | Generalmente aprobable en un banco grande |
-| 620 a 679 | Prestamista alternativo probable, tasa más alta |
-| Menos de 620 | El financiamiento convencional se complica |
-
-Dos precisiones que cuentan:
-
-**Para una hipoteca asegurada**, es decir con menos del 20 % de entrada, el
-asegurador exige un puntaje mínimo de alrededor de 600 para al menos uno de los
-prestatarios. Por debajo, se rechaza el seguro, y con él el préstamo.
+**Por encima de ese mínimo, los umbrales varían de un prestamista a otro.** No
+existe una escala única: pregunte a cada prestamista cuál aplica a su
+expediente.
 
 **El puntaje no es el único criterio.** El prestamista mira también sus razones
 de endeudamiento, la estabilidad de su ingreso y la naturaleza de su empleo. Un
@@ -46,12 +38,12 @@ también es cierto.
 
 ## Los cinco factores, por peso
 
-**1. El historial de pagos, cerca del 35 %.** El factor dominante, y por mucho.
+**1. El historial de pagos.** El factor más importante.
 Un solo pago con más de treinta días de retraso puede bajar decenas de puntos un
 buen puntaje, y la anotación permanece unos seis años en el expediente. Automatice
 al menos el pago mínimo de cada cuenta: es la protección más rentable que existe.
 
-**2. La utilización, cerca del 30 %.** Es la proporción de su límite que usa.
+**2. La utilización.** Es la proporción de su límite que usa.
 Apunte a menos del 30 %, y a menos del 10 % si busca activamente subir su puntaje.
 
 Un detalle que casi nadie conoce: lo que cuenta no es su saldo a fin de mes, es
@@ -60,22 +52,23 @@ pagar su tarjeta completa cada mes y aun así mostrar una utilización del 80 % 
 sus compras caen antes de la fecha de corte. Pague una parte antes de esa fecha y
 el efecto aparece al mes siguiente.
 
-**3. La antigüedad del expediente, cerca del 15 %.** Nunca cierre su tarjeta más
+**3. La antigüedad del expediente.** Nunca cierre su tarjeta más
 antigua, aunque no la use. Su fecha de apertura sostiene la edad promedio de su
 expediente, y cerrar una cuenta también recorta su límite total, lo que sube su
 utilización. Dos efectos negativos por una sola decisión.
 
-**4. La diversidad de crédito, cerca del 10 %.** Tener crédito renovable, como una
+**4. La diversidad de crédito.** Tener crédito renovable, como una
 tarjeta, y crédito a plazos, como un préstamo de auto, demuestra que sabe manejar
 ambos.
 
-**5. Las solicitudes nuevas, cerca del 10 %.** Cada consulta dura deja huella.
-Permanecen visibles unos tres años, pero pesan sobre todo en los primeros doce
-meses. Evite cualquier solicitud nueva en el año anterior a su pedido hipotecario.
+**5. Las solicitudes nuevas.** Cada consulta dura deja huella. Según la Agencia
+de Consumo Financiero de Canadá (ACFC), permanecen en el expediente tres años en Equifax y seis años en TransUnion.
+Evite cualquier solicitud nueva en los doce meses anteriores a su pedido
+hipotecario.
 
-Vale anotar: comparar su tasa hipotecaria con varios prestamistas en un período
-corto se trata como una sola búsqueda. Es el único caso en que las consultas
-múltiples no lo penalizan.
+Vale anotar: según la ACFC, cuando compara una hipoteca o un préstamo de auto,
+las cotizaciones de varios prestamistas obtenidas dentro de un período de dos
+semanas se tratan como una sola consulta en las agencias de crédito.
 
 ## La trampa del expediente delgado, muy común en Quebec
 
@@ -119,7 +112,8 @@ puede hacerlo corregir usted mismo, gratis.
 2. Impugne por escrito cualquier error, y guarde las pruebas.
 3. Baje cada tarjeta por debajo del 30 % de su límite, antes de la fecha de corte.
 4. No cierre ninguna cuenta, ni siquiera las que no usa.
-5. Ninguna solicitud de crédito nueva durante al menos seis meses.
+5. Ninguna solicitud de crédito nueva en los doce meses anteriores a su
+   solicitud.
 6. Automatice todos sus pagos mínimos.
 7. Apunte a doce meses de pagos sin fallos antes de presentar la solicitud.
 
@@ -141,5 +135,6 @@ del panorama: lo que su ingreso realmente sostiene.
 
 ---
 
-*¿Quiere saber si su perfil está listo para una hipoteca? [Póngase en
+*¿Quiere saber si su perfil está listo para una hipoteca? Soy corredor
+inmobiliario, no prestamista ni corredor hipotecario. [Póngase en
 contacto](/es/formulario/) y lo conecto con un corredor hipotecario de confianza.*

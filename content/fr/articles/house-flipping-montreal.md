@@ -1,7 +1,7 @@
 ---
 title: "Le retournement de propriétés à Montréal : les vrais chiffres que personne ne vous montre"
 date: 2026-05-21
-lastmod: 2026-09-20
+lastmod: 2026-09-21
 category: "Investissement"
 description: "Règle des 365 jours, TPS et TVQ sur une rénovation majeure, droits de mutation, permis, licence RBQ : le calcul complet d'un retournement au Québec en 2026."
 image: "images/articles/house-flipping-montreal/featured.jpg"
@@ -70,7 +70,10 @@ Sur une revente à 720 000 $, franchir ce seuil ajoute près de 108 000 $ de tax
 payées sur les matériaux et la main-d'oeuvre, mais l'écart reste massif, et vous
 devez vous inscrire aux fichiers de la TPS et de la TVQ. Un acheteur qui
 compare votre maison « plus taxes » à une revente exonérée voisine choisira
-l'autre. Beaucoup de projets se cassent exactement là.
+l'autre. Beaucoup de projets se cassent exactement là. Un premier acheteur
+admissible peut toutefois récupérer la TPS, pas la TVQ : jusqu'à 50 000 $, en
+totalité jusqu'à un prix de 1 000 000 $, puis de façon dégressive jusqu'à
+1 500 000 $.
 
 ## Les droits de mutation, payés à l'achat et non récupérables
 
