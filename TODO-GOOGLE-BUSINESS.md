@@ -340,24 +340,46 @@ Etat verifie dans le depot le 2026-08-31.
       fractions.
       Les 4 articles a risque professionnel sont donc tous corriges: triplex,
       inspection, gestion locative, frais de condo.
-- [ ] REPRENDRE ICI le 2026-09-22. Le grand lot des 31 sujets est fait a 24
-      sur 31, la session a atteint sa limite. Il reste 7 sujets, chacun dans
-      les 4 langues, en creant l espagnol quand il manque:
-      - `best-time-sell-home-montreal` (fr 388, en 669, es 747, ar 173)
-      - `renovations-dont-add-value` (fr 268, en 646, es 690, ar 179)
-      - `home-staging-client-story` (fr REECRIT NON COMMITE, en 358, es
-        absent, ar 290)
-      - `worst-real-estate-deal-lessons` (fr 358, en 352, es absent, ar 270)
-      - `why-choose-remax` (fr commence non commite, en 345, es absent,
-        ar 277)
-      - `multilingual-broker-advantage` (fr 400, en 360, es absent, ar 292)
-      - negociation: `strategies-negociation-immobilier` en fr, et
-        `strategies-negociation-immobilier-montreal` en en, es et ar. Le fr
-        est REECRIT NON COMMITE et fait 1 684 mots, a resserrer vers 1 300.
-        Cle commune: `article-strategies-negociation`.
-      Trois fichiers francais sont modifies dans l arbre de travail et
-      volontairement NON COMMITES: les publier seuls violerait la regle des
-      4 langues. Les finir dans les autres langues, puis committer par sujet.
+- [x] Audit de securite de tous les articles - FAIT le 2026-09-21. Les 63
+      sujets relus dans les 4 langues par 8 agents en lecture seule: 13 HIGH,
+      60 MEDIUM, 80 LOW, 19 sujets propres. Rien de technique (pas de script,
+      iframe, HTML brut ni lien http). Tous les HIGH et MEDIUM et les LOW
+      factuels corriges dans les 4 langues, 172 fichiers. Exemples: "pas de
+      vente, pas de commission" contraire a la clause 7.1 du contrat
+      obligatoire, avis d inspection de la clause 8.1 (copie du rapport, 4e
+      jour avant 20 h), vices caches dus meme si le vendeur les ignorait,
+      20 % du prix complet a partir de 1,5 M$, ratios 39 % et 44 %, caisses
+      soumises au meme taux admissible (AMF, 2021), SCHL jusqu a 50 % des
+      loyers bruts, preavis de bail indetermine 1 a 2 mois, anecdotes a la
+      premiere personne retirees en ES et AR, statistiques sans source
+      retirees (art. 113, 4e du reglement C-73.2, r. 1), "plancher sous les
+      prix" retire du marche de Montreal.
+- [ ] DECISION: la page `content/<langue>/advantages/_index.md` annonce
+      "Aucun frais supplementaire" pour les 4 programmes, en fr, en et es.
+      C est faux pour Integri-T: environ 1 050 $ de base payes par le vendeur,
+      plus 150 $ par unite additionnelle en copropriete (remax-quebec.com).
+      La page `integri-t.md` ne dit pas le cout, et le `heroPitch` de
+      l accueil dans `hugo.toml` cite Integri-T sans le cout. L accueil
+      demande l accord de l utilisateur avant toute modification.
+- [ ] Divergences exactes laissees en place a l audit, a aligner un jour dans
+      les 4 langues (contenu juste, present dans une seule langue, surtout en
+      AR): condition de financement dans bidding-wars, art. 15 dans
+      losing-bidding, art. 43 dans cash-buyers, art. 98 et 99 dans
+      off-market, art. 1968 dans triplex-vs-condo, paragraphes de
+      red-flags, when-not-to-buy et real-estate-myths. Le formulaire
+      Declarations du vendeur est aussi transmis au preteur hypothecaire
+      (ligne directrice OACIQ): phrase retiree de l AR faute de source au
+      moment de l audit, a remettre dans les 4 langues si voulu.
+- [ ] REPRENDRE ICI. Le grand lot des 31 sujets est fait a 27 sur 31: les
+      trois brouillons FR (home-staging, why-choose-remax, negociation) sont
+      finis dans les 4 langues avec l espagnol cree, le 2026-09-21 pendant
+      l audit. Il reste 4 sujets, deja corriges pour la securite mais encore
+      courts, a etoffer dans les 4 langues en creant l espagnol quand il
+      manque:
+      - `best-time-sell-home-montreal`
+      - `renovations-dont-add-value`
+      - `worst-real-estate-deal-lessons` (es absent)
+      - `multilingual-broker-advantage` (es absent)
       Consignes qui ont fait leurs preuves: un agent par paire de sujets,
       interdiction d inventer un chiffre ou une anecdote de client,
       interdiction de promettre un rendement, interdiction de classer les
