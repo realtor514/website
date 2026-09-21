@@ -752,7 +752,7 @@ disableKinds = ["taxonomy", "term"]
   # Tant qu il est vide, aucun script de mesure et aucune banniere de
   # consentement ne sont emis. Ce n est pas un secret: il est visible dans la
   # page chez tous les sites qui utilisent Analytics.
-  ga4Id        = ""
+  ga4Id        = "G-75XEE6C7X8"
 
   # ── SEO / donnees structurees ──
   ogImage      = "images/georges-matar.png"
