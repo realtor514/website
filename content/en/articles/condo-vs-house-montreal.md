@@ -1,60 +1,157 @@
 ---
-title: "Condo vs. House in Montreal: How to Actually Decide"
+title: "Condo or House in Montreal: What You Are Actually Buying"
 date: 2026-05-20
+lastmod: 2026-09-21
 category: "Buyer's Guide"
-description: "Most buyers have a gut preference before they analyze anything. Here is the framework to verify whether that preference matches your actual situation, priorities, and financial position."
+description: "Fractions, common portions, the declaration of co-ownership, insurance, general meeting votes and borrowing power: the Quebec rules for deciding between them."
 image: "images/articles/condo-vs-house-montreal/featured.jpg"
 draft: false
 ---
 
-Buyers usually arrive with a preference already formed: a house, or a condo that makes more sense for their lifestyle. The point is not to argue with the preference. It is to make sure the preference survives contact with the actual numbers and trade-offs.
+Framing the question as a trade-off between price and square footage misses the
+point. A divided co-ownership and a freehold house do not give you the same
+ownership right, do not impose the same obligations, and do not look the same to
+your lender.
 
-Here is the honest comparison.
+## In a divided co-ownership, you buy a fraction
 
-## Space and Privacy
+Article 1038 of the Civil Code is the starting point: divided co-ownership of
+an immovable is established by the publication of a declaration under which
+ownership of the immovable is divided into fractions. Article 1047 says what
+the fraction contains: your private portion, the share of the common portions
+attached to it, and where applicable the right to use common portions for
+restricted use.
 
-A house typically offers more living space, outdoor space, and privacy than a comparably priced condo. In Greater Montreal, the differential is significant: at the same price point, a house will almost always provide more square footage, a yard, and the absence of shared walls and floors.
+What falls on the common side surprises most buyers. Article 1044 presumes it:
+the ground, the yards, the balconies, the access ways, the stairways and
+elevators, the parking and storage areas, the cellars, the main walls of the
+buildings, common equipment such as central heating and air conditioning
+systems, and the pipes, including those that run through private portions. The
+balcony outside your living room is not yours the way a lot would be yours.
 
-What the comparison misses: location. A condo in Plateau-Mont-Royal may provide a lifestyle and location quality that a house of twice the size in an outer suburb does not. The space comparison needs to account for where the space is located, not just how much of it exists.
+Article 1041 adds the keystone: the relative value of each fraction, set
+according to the nature, destination, dimensions and location of the private
+portion. That value fixes your share of the expenses and your weight at the
+general meeting.
 
-## Maintenance and Time
+In a house, the question does not arise. The land, the roof, the furnace and
+the pipes are entirely yours, along with the bill and with nobody to share it.
 
-The honest reality: a house gives you control over your property and saddles you with the responsibility of maintaining it. Every exterior repair, every mechanical failure, every landscaping decision is yours. This requires time, money, and a tolerance for the unpredictable nature of building maintenance.
+## The declaration of co-ownership is a contract you did not write
 
-A condo delegates much of that responsibility to the condo corporation. The exterior, common areas, and building systems are managed collectively. Your maintenance obligation is limited to the interior of your unit.
+Article 1052 splits it in three: the constituting act of co-ownership, the
+by-laws of the immovable and the description of the fractions. The constituting
+act defines the destination of the immovable and of its portions, determines
+the relative value of each fraction and the method used to establish it, the
+share of the common expenses and the number of votes (article 1053). The
+by-laws of the immovable contain the rules on the enjoyment, use and
+maintenance of the portions, the rules on the operation of the co-ownership,
+and the procedure for assessing and collecting contributions (article 1054).
 
-For a buyer who travels frequently, works long hours, or simply has no interest in property maintenance, the condo's low-maintenance profile is genuinely valuable. For a buyer who wants full control and is willing to manage a property, the house offers that.
+Article 1063 draws the consequence: you use and enjoy your private portion and
+the common portions freely, on condition that you observe the by-laws and do
+not impair the rights of the other co-owners or the destination of the
+immovable. Pets, flooring, short-term rental: the answer is in those documents,
+not in your preferences. And if you lease your unit, article 1065 requires you
+to notify the syndicate within 15 days, with the tenant's name, the term of the
+lease and the date you handed over a copy of the by-laws.
 
-## Financial Comparison: More Complex Than It Appears
+This is the subject matter of [Coproprié-T](/en/advantages/coproprie-t/),
+developed by RE/MAX Québec with CondoLegal.com.
 
-The condo fee changes the comparison significantly. A condo listed at $50,000 less than a comparable house may cost more per month once the condo fee is factored in. The relevant comparison is total monthly cost: mortgage plus property taxes plus insurance plus condo fee (for condo) or mortgage plus property taxes plus insurance plus maintenance reserve (for house).
+## Common expenses, and what they finance
 
-Run that comparison before deciding the condo is "cheaper."
+Article 1064 allocates them: each co-owner contributes to the common expenses
+in proportion to the relative value of his fraction, and co-owners who use
+common portions for restricted use bear alone the maintenance and ordinary
+repair costs of those portions. The declaration may provide a different
+allocation for major repairs and replacement of those same portions.
 
-Also relevant: appreciation patterns. In Greater Montreal, freehold houses have historically appreciated at a stronger rate than condos in many neighborhoods. Condos have larger supply due to continued new construction, which creates more competitive pressure on prices. This is not universal and varies by neighborhood and product type, but it is a factor worth considering for buyers with appreciation as a primary goal.
+The contingency fund, the self-insurance fund, the maintenance logbook, the
+fund study and the documents the seller and the syndicate owe you have [their
+own guide on this site](/en/articles/condo-fees-investment-killer/). Read it
+before you compare two monthly figures.
 
-## The Condo Fee Health Check
+A house has no common expenses. It has the same expense lines, with no schedule
+and nobody funding them ahead of time. That [cost of
+ownership](/en/articles/hidden-homeownership-costs/) exists in both cases: the
+co-ownership makes it visible, the house leaves it to your discipline.
 
-If you lean toward a condo, the financial health of the condo corporation is as important as the price of the unit. Before any condo purchase, review:
+## Two insurance policies that cover different things
 
-The reserve fund study and current reserve fund balance. An underfunded building is a financial liability.
+Article 1073 gives the syndicate an insurable interest in the whole immovable,
+including the private portions. It must insure the entire immovable against
+usual risks, excluding improvements made by a co-owner where those improvements
+can be identified against the description of his portion. The amount insured
+must allow reconstruction and must be appraised at least every five years, and
+the government regulation reserves that appraisal to a member of the Ordre des
+évaluateurs agréés du Québec.
 
-The last two years of board meeting minutes. Issues, disputes, and upcoming major repairs are typically discussed here.
+That same regulation sets the floor for your own policy: under article 1064.1,
+each co-owner must carry liability insurance of at least $1,000,000 where the
+immovable has fewer than 13 fractions used or usable as dwelling units or for
+operating an enterprise, and $2,000,000 where it has 13 or more.
 
-The current financial statements. Understand whether the corporation is operating at a surplus or deficit.
+Article 1074.2 completes the picture: amounts the syndicate spends on
+deductibles cannot be recovered from the co-owners otherwise than through their
+contribution to the common expenses. A high deductible is therefore a
+collective cost. The owner of a house has one policy, one deductible, and
+nobody to share a claim with.
 
-Outstanding special assessments or pending litigation.
+## Decisions are made at the general meeting
 
-A well-managed condo can be an excellent, low-maintenance investment. A poorly managed one can generate special assessments that erode any purchase price advantage.
+Each co-owner has a number of votes proportional to the relative value of his
+fraction (article 1090). Decisions are made by a majority of the votes of the
+co-owners present or represented, including decisions amending the by-laws of
+the immovable (article 1096). Three quarters of the votes are needed for work
+to alter, enlarge or improve the common portions and for the apportionment of
+its cost, and for an acquisition or alienation of immovables by the syndicate
+(article 1097). Three quarters of the co-owners representing 90% of the votes
+are needed to change the destination of the immovable (article 1098).
 
-## Who Should Buy a Condo vs. a House
+In other words, you can be outvoted on an expense you will pay anyway, and the
+remedy is narrow: article 1086.2 lets you ask the court to annul a board
+decision that is biased or made in contempt of the co-owners' rights, within 90
+days. The owner of a house never votes. He decides, and he carries the result
+alone.
 
-**Condo suits:** Urban lifestyle priorities, low-maintenance preference, early career buyers building equity before moving to a house, investors targeting urban rental demand, buyers whose price point does not access houses in their preferred locations.
+## What your lender does with the difference
 
-**House suits:** Families prioritizing space and outdoor access, buyers with pets or specific lifestyle needs, investors targeting the income plex model, buyers with a longer horizon who prioritize appreciation, anyone who wants full control over their property.
+CMHC includes 50% of condominium fees in the gross debt service and total debt
+service calculations, ratios it caps at 39% and 44%. The minimum down payment
+on an insured loan is 5% of the first $500,000 and 10% of the remainder, for a
+property value below $1,500,000, with a maximum amortization of 25 years. A
+house at the same price has no condo fee line, but its taxes and heating go
+into the same ratios. Run both scenarios from
+[pre-approval](/en/articles/guide-hypotheque-premier-acheteur-quebec/) onward.
 
-Neither is universally superior. The right choice is a function of your specific priorities, budget, and horizon.
+## What the market says, and what it does not
+
+In the Montreal CMA in August 2026, QPAREB reported an average selling time of
+42 days for single-family homes and 62 days for condominiums, and a median
+price up year over year by 3% for single-family homes and 4% for condominiums.
+
+Those are market conditions at one moment, across an entire region. They do not
+rank the two products and say nothing about your building or your horizon.
+
+## The decision framework
+
+There is no good property type in the abstract. There is a buyer, a situation
+and four honest questions.
+
+- **Could you live with being outvoted?** If a vote on a major expense is
+  intolerable to you, a condo will cost you dearly in peace of mind, whatever
+  the asking price.
+- **How many hours a year can you give a building?** A house will take them,
+  or you will pay contractors for them.
+- **Can you read a file?** A co-ownership is bought on documents, a house on an
+  inspection and a history. [Documents that never
+  arrive](/en/articles/red-flags-walk-away-property/) are a signal in both cases.
+- **Do you plan to earn income from the building?** The comparison then changes
+  in kind: see [plex or condo](/en/articles/triplex-vs-condo-montreal/).
 
 ---
 
-*Want to compare specific properties side by side? [Let's put together a list and run the numbers](/en/form/).*
+*Torn between a condo and a house in two specific areas? [Write to
+me](/en/form/): we read the declaration of co-ownership on one side, the
+inspection record on the other, and compare what is actually comparable.*
