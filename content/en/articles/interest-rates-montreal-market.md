@@ -1,49 +1,161 @@
 ---
-title: "How Interest Rates Are Reshaping the Montreal Real Estate Market"
+title: "Interest Rates and the Montreal Market: How the Transmission Actually Works"
 date: 2026-07-13
-category: "Market Insights"
-description: "Interest rates affect affordability, competition, and strategy in ways most buyers and sellers don't fully account for. Here is how to think about rate environments and what they mean for your decision."
+lastmod: 2026-09-21
+category: "Finance"
+description: "Policy rate, prime rate, bond yields, stress test and renewal shock: the real path between a Bank of Canada decision and a Montreal buyer's monthly payment."
 image: "images/articles/interest-rates-montreal-market/featured.jpg"
 ---
 
-Interest rates are the variable that most buyers track least carefully and that affects their purchase most directly. The connection between the Bank of Canada's policy rate and your monthly mortgage payment is well understood in theory. The strategic implications for buyers and sellers are less often discussed.
+Interest rates are the variable buyers follow most anxiously and understand
+least well. A headline announces a Bank of Canada decision, and the question
+that follows is always the same: does my payment change?
 
-## How Rates Move Purchasing Power
+Often it does not. Not right away, not automatically, and not in the same way
+depending on whether your rate is fixed or variable. Here is the real path,
+with official figures current as of 21 September 2026. You will find no
+forecast here. Nobody knows the next rate, and I am no exception.
 
-The math is direct: a 1% increase in mortgage rates on a $450,000 mortgage increases the monthly payment by approximately $225-$250. Over the course of a 25-year amortization, a 2% rate difference translates to roughly $60,000-$70,000 in additional total interest paid.
+## What the Bank of Canada Sets, and What It Does Not
 
-This is not a small number. It changes what properties are accessible, which neighborhoods become realistic, and what the true cost of ownership looks like over time.
+The Bank of Canada announces its policy rate on eight pre-set dates each year.
+On 2 September 2026 it held that rate at 2.25%, the level in place since
+29 October 2025. The two remaining 2026 announcements are scheduled for
+28 October and 9 December.
 
-## What Rate Environments Do to Competition
+That rate does not set your mortgage. It sets the cost of overnight funding
+between financial institutions. Everything else, the prime rate, variable
+mortgage rates and fixed mortgage rates, follows from it along different paths
+and at different speeds.
 
-Rising rate environments reduce the number of qualified buyers in the market. This reduces competition, which typically moderates price growth or creates downward pressure on prices in the short term. For buyers who remain qualified, this can represent opportunity: less competition, more negotiating leverage, longer time to make decisions.
+For context on what the Bank watches: the Consumer Price Index rose 3.0% year
+over year in August 2026, according to Statistics Canada in its release of
+14 September 2026.
 
-Falling rate environments do the opposite. More buyers qualify, competition increases, prices tend to respond upward. The buyer who waits for "rates to come down" before buying often discovers that by the time rates fall, prices have already absorbed the benefit.
+## Variable Rates Travel Through the Prime Rate
 
-The relationship is not perfectly predictable, but the general dynamic is consistent.
+The prime rate at the major chartered banks is the reference for variable
+mortgages, and it moves roughly in step with the policy rate. As of
+16 September 2026, the Bank of Canada reported a prime rate of 4.45%, which is
+2.20 points above the 2.25% policy rate.
 
-## The Fixed vs. Variable Decision
+A variable mortgage is therefore written in relation to that number, in the
+form of prime minus a discount. When the Bank moves and the banks follow, your
+rate moves within days, with no renegotiation.
 
-This question has no permanently correct answer. It depends on your situation, your risk tolerance, and the current relationship between fixed and variable rates.
+Two different mechanics hide behind the word variable, and you should ask which
+one applies to you. On an adjustable payment variable mortgage, the payment
+itself changes with the rate. On a fixed payment variable mortgage, the payment
+stays the same and the split between principal and interest shifts instead: a
+rate move is then paid in time rather than in monthly cash. Ask before you
+sign, not at renewal.
 
-Fixed rates offer certainty. Your payment does not change for the term of the mortgage regardless of what the Bank of Canada does. That predictability has real value if you have a tight budget or low tolerance for payment fluctuation.
+## Fixed Rates Travel Through the Bond Market
 
-Variable rates historically have been lower than fixed rates on average over long periods. But "on average over long periods" can include significant periods of pain if rates rise sharply after you lock in a variable mortgage. Variable makes more sense if your budget has meaningful flexibility and you have the discipline not to panic during rate cycles.
+Fixed rates do not follow the policy rate. They follow the cost of term
+funding, and the clearest public indicator of that is the yield on Government
+of Canada bonds. As of 17 September 2026, the Bank of Canada published
+benchmark yields of 3.27% at 2 years, 3.54% at 5 years and 3.83% at 10 years.
 
-## The Stress Test: Why Your Qualifying Rate Is Not Your Mortgage Rate
+The practical consequence is that a fixed rate can move on an ordinary Tuesday,
+with no Bank of Canada announcement, because the bond market moved. It can also
+sit still on decision day, because the decision was already priced in.
 
-In Canada, all insured mortgages and most conventional mortgages must pass a stress test. You qualify not at your actual contract rate, but at the higher of your contract rate plus 2% or the regulatory floor (currently 5.25%).
+Pay attention to which rate you are reading. On 16 September 2026, the posted
+5 year conventional mortgage rate compiled by the Bank of Canada stood at
+6.09%. That is a posted rate, not a negotiated one: it serves as a statistical
+reference, not as a street price. The comparison that matters is between real
+offers made on your file, which is what [the honest guide to getting the best
+mortgage rate](/en/articles/best-mortgage-rate-canada/) walks through.
 
-This means: if your actual mortgage rate is 5%, you qualify at 7%. If rates then rise to 7%, your renewal will be financially manageable because you already proved you could handle that payment. This is the protection the stress test provides, and it is genuinely valuable even if the qualifying process feels restrictive.
+## What One Percentage Point Does to Borrowing Capacity
 
-## Strategic Guidance for Current Conditions
+What follows is an amortization calculation, not a forecast. The two rates
+below are calculation assumptions, not quotes available today. Canadian
+convention applies: interest compounded semi annually, monthly payments,
+25 year amortization, principal of $500,000.
 
-Stop trying to time the rate cycle. Serious economists disagree regularly about rate direction, and buyers who make major life decisions based on rate predictions often regret it.
+- At 4.00%, the monthly payment works out to roughly $2,630.
+- At 5.00%, it works out to roughly $2,908.
 
-Instead: buy when the property is right, the price is supported by the data, and the numbers work at the current rate. Model your affordability at current rates plus 1-2% to ensure you have buffer if rates increase at renewal. Don't buy at the very edge of your qualification limit.
+One percentage point therefore adds about $278 per month. Turn the question
+around and the effect lands harder: at an identical payment of $2,630 a month,
+the principal that payment can carry falls from roughly $500,000 to roughly
+$452,000. Close to 10% less buying power, with nothing changed in your income
+or your credit file. Your own lender will apply its own rounding, insurance
+premium and payment frequency, so treat these as orders of magnitude rather
+than as a quote.
 
-If rates fall meaningfully after you purchase, you can refinance. You cannot recover from overpaying for a property that did not justify the price.
+Run the same calculation on your own numbers with the [mortgage
+calculator](/en/tools/mortgage/) and the [affordability
+calculator](/en/tools/affordability/).
+
+## The Stress Test: You Qualify Above Your Own Rate
+
+At a federally regulated lender, the minimum qualifying rate is the greater of
+your contract rate plus 2 percentage points, or 5.25%. The Office of the
+Superintendent of Financial Institutions maintains that rule and confirms it on
+its dedicated page, last updated 29 January 2026.
+
+A less familiar point sits on the same page: OSFI does not require lenders to
+apply the minimum qualifying rate when a borrower switches an uninsured
+mortgage from one federally regulated lender to another without extending the
+amortization period or increasing the loan amount. At renewal, that opens the
+door to shopping around rather than signing the offer that arrives in the mail.
+
+## Renewal Shock, With the Public Numbers
+
+The most concrete rate story right now is not purchasing. It is renewal. In its
+Housing Observer article of 5 February 2026, Canada Mortgage and Housing
+Corporation wrote that more than 1.5 million households had already renewed at
+higher interest rates, and that another million were set to sign new terms in
+the coming year.
+
+The same analysis notes that the national mortgage arrears rate rose by
+7 basis points between the third quarter of 2023 and the third quarter of 2025,
+and describes delinquency risk in Montreal as stable. A real, measurable
+increase, to be read for exactly what it is.
+
+What you can do: ask your lender for the projected renewal payment four to six
+months before maturity, then compare against another lender and a mortgage
+broker. A renewal is negotiable.
+
+## What the Montreal Market Is Showing Right Now
+
+In August 2026, across the Montreal CMA, APCIQ recorded 2,853 sales, down 13%
+year over year, and 20,128 active listings, up 18%. Median prices were still
+higher than a year earlier: $650,000 for single family homes, up 3%, $437,250
+for condominiums, up 4%, and $856,000 for plexes, up 2%. Average days on market
+were 42 for single family homes, 62 for condominiums and 52 for plexes. Those
+figures come from the APCIQ monthly statistics compiled through the Centris
+system and released on 4 September 2026.
+
+Fewer transactions, more choice, and median prices that are not falling. That
+is what the data says, and nothing more. I go deeper into that reading in [what
+the data actually says about the Montreal
+market](/en/articles/marche-immobilier-montreal-analyse-donnees/).
+
+## What You Control, Instead of Guessing
+
+Next month's rate is not within your reach. The rest is.
+
+- **Your down payment.** It changes the principal, the mortgage insurance
+  premium and the payment. See [the 20% down payment
+  myth](/en/articles/down-payment-myth-debunked/).
+- **Your term length.** A short term brings you back to the market sooner, a
+  long term locks you in longer. That is a trade off, not an answer.
+- **Your other debts.** They enter the ratios before the rate does.
+- **Your credit score.** It is built months in advance, not in a week.
+- **The gap between your approved maximum and a comfortable budget.** That gap
+  is the only buffer protecting you at a higher renewal rate. A pre approval
+  states a ceiling, not a target, as [the pre approval
+  trap](/en/articles/mortgage-preapproval-mistakes/) explains.
+
+None of those decisions depends on a forecast. All of them are made with
+today's numbers.
 
 ---
 
-*Want to understand how current rate conditions affect your specific buying or selling situation? [Let's talk through it](/en/form/).*
+*Want to know what current rates actually change for your buying power or your
+upcoming renewal? [Write to me](/en/form/) and we will run the numbers on your
+real file.*

@@ -1,67 +1,166 @@
 ---
-title: "The Mortgage Pre-Approval Trap: Why Most Buyers Do It Wrong"
+title: "Mortgage Pre-Approval: What It Guarantees and What It Does Not"
 date: 2026-07-06
+lastmod: 2026-09-21
 category: "Finance"
-description: "A mortgage pre-approval feels like a green light. It isn't. Most buyers misunderstand what it means, what it doesn't cover, and how to actually use it as a strategic tool."
+description: "Validity window, GDS and TDS ratios, the stress test, credit checks and the lender's appraisal: the mistakes that make a Quebec pre-approval collapse."
 image: "images/articles/mortgage-preapproval-mistakes/featured.jpg"
 ---
 
-Most buyers treat a mortgage pre-approval like a finish line. You get it, you have a number, and now you go shopping. That mindset causes expensive problems.
+Plenty of buyers treat a pre-approval as a finish line. You get a number, you
+start visiting, and you assume the financing is settled. It works the other way
+around: a pre-approval is the opening of the file, not its conclusion.
 
-A pre-approval is a starting point for your search - a data point about what a lender was willing to consider approving, under the conditions that existed at the moment you applied. It is not a guarantee. It is not a contract. And treating it as either will cost you.
+Here is what it actually is, what it does not cover, and what makes it fall
+apart. I am a real estate broker, not a lender. This is general information
+drawn from the public sources named in the text.
 
-## What a Pre-Approval Actually Is
+## What FCAC actually says
 
-A mortgage pre-approval is a conditional commitment from a lender stating that, based on the information you've provided, they're prepared to offer you a mortgage up to a certain amount at a specified interest rate, valid for a set period (usually 90-120 days).
+According to the Financial Consumer Agency of Canada, a pre-approval does two
+things: it tells you the maximum mortgage amount you could qualify for, and it
+lets you estimate your payments. It also lets you lock in an interest rate.
 
-The operative words: *based on the information you've provided* and *conditional.*
+And the agency adds a sentence that should be printed in bold on every
+pre-approval letter: this process does not guarantee your approval for a
+mortgage.
 
-The conditions matter enormously. A pre-approval is subject to the property you actually purchase being acceptable to the lender (yes, they can decline a specific property even if they approved you), your financial situation not changing between pre-approval and closing, and the property's appraised value meeting or exceeding the purchase price.
+In plain terms, it is a conditional commitment based on the information you
+provided, at one moment in time, before any property has even been identified.
 
-## The Five Most Common Pre-Approval Mistakes
+## The validity window, and why it matters
 
-**1. Applying with only one lender**
+FCAC states that a pre-approval lets you lock in an interest rate for 60 to 130
+days, depending on the lender. That is a window, not forever.
 
-Banks and credit unions have different risk tolerances, different products, and different interpretations of your financial profile. What one lender rates at 6.2% another might offer at 5.9%. A mortgage broker can shop your profile across multiple lenders simultaneously - that's their entire job, and it typically costs you nothing because lenders pay broker commissions.
+For a sense of market pace: in the Montreal census metropolitan area in August
+2026, the average selling time for a single-family home was 42 days, according
+to QPAREB. A serious search, a few rejected offers and a closing delay can
+easily run past your rate window.
 
-The advice: always work with a mortgage broker you trust, not just your personal bank.
+Two moves: put the expiry date in your calendar, and ask your lender whether you
+automatically get the lowest rate if rates drop while you are pre-approved. FCAC
+explicitly recommends asking that question.
 
-**2. Treating the pre-approved amount as your budget**
+If the search runs long, renew the pre-approval before it lapses rather than
+after. An expired file has to be rebuilt with fresh documents, and it is rebuilt
+against the rates and the rules of that day, not the ones you started with.
 
-If you're pre-approved for $650,000, that doesn't mean you should buy a $650,000 property. It means the bank thinks you *can* service that debt. Whether you *should* is a separate question entirely, one that requires a full budget analysis including property taxes, condo fees (if applicable), maintenance reserves, and your own life goals.
+## Pre-approval and final approval are two different steps
 
-Buyers who max out their pre-approval often end up feeling trapped in their home because they have no financial flexibility left. The pre-approval ceiling is a legal limit, not a target.
+A pre-approval is about you. A final approval is about you **and** one specific
+property.
 
-**3. Making major financial changes after pre-approval**
+That distinction is the expensive one to miss. FCAC is direct about it: the
+lender will verify that the property you want meets certain standards, and it
+can refuse the loan even after pre-approving you. It can also propose something
+else: a lower amount, a higher rate, a larger down payment, or a co-signer.
 
-This is where deals collapse. Between pre-approval and closing, some buyers buy a new car, switch jobs, open new credit cards, or make large cash withdrawals. Any of these can trigger a re-evaluation of your mortgage, sometimes resulting in a declined file at closing.
+A condo building with a thin contingency fund, a property with major work
+announced, an unusual zoning: the file can stall right there, with a perfect
+buyer attached to it.
 
-The rule: after pre-approval, make no major financial moves until you have the keys in your hand.
+## The appraisal that stops everything
 
-**4. Confusing rate holds with the lowest possible rate**
+A lender does not lend against the price you agreed to pay. It lends against the
+value it recognizes for the property.
 
-Most pre-approvals include a rate hold - the lender commits to that rate for 90-120 days even if rates rise. What many buyers don't understand: if rates *drop* during that period, you can usually take the lower rate. You're protected on the upside but not locked out of improvement. Always confirm this with your broker.
+If the appraisal comes in below the purchase price, the gap does not disappear.
+It becomes cash you have to find, on top of the down payment you already
+planned. In a bidding war market, that is the most underestimated risk in the
+transaction. Deal with the question before you write an offer, not after.
 
-**5. Not understanding the stress test**
+This is also why the financing condition in a promise to purchase deserves care.
+It gives you a delay to obtain a firm answer from the lender on that specific
+property. Dropping the condition to make an offer more attractive, while the
+financing is not confirmed, means carrying the risk of a refusal alone. Discuss
+it with your broker before signing, not during the delay.
 
-In Canada, even if your approved rate is 5.5%, the lender has qualified you at the higher of 5.5% + 2% = 7.5% or the regulatory floor (currently 5.25%). This stress test means your actual affordability ceiling is lower than the raw pre-approved number might suggest, which is actually useful information - it's a buffer that protects you if rates rise after you buy.
+## The numbers behind your number
 
-## What to Do Before Applying
+Three public rules frame the calculation, and knowing them prevents bad
+surprises.
 
-Before any pre-approval application:
+- **Debt service ratios.** CMHC caps an insured loan at 39% gross debt service,
+  meaning principal, interest, taxes and heat against gross income, and 44%
+  total debt service, which adds your other debts. FCAC uses the same
+  thresholds.
+- **The stress test.** OSFI sets a minimum qualifying rate for uninsured
+  mortgages: the greater of the contract rate plus 2% or 5.25%. You do not
+  borrow at that rate, you have to show you could carry it.
+- **Credit and down payment.** For a CMHC insured loan, at least one borrower or
+  guarantor needs a credit score of at least 600. On the down payment, FCAC sets
+  the minimum at 5% up to $500,000, then 10% on the portion above that, and 20%
+  from $1.5 million.
 
-- Pull your credit reports from both Equifax and TransUnion and fix any errors
-- Gather 2 years of Notice of Assessments (tax returns) from CRA
-- Compile 3 months of bank statements
-- Document all current debt obligations precisely
-- Have a clear picture of your down payment source - lenders will ask where the money came from
+Run your own figures through the
+[affordability calculator](/en/tools/affordability/) before you meet anyone.
 
-The more organized you are going in, the more accurate and powerful your pre-approval will be.
+## What makes a pre-approval collapse
 
-## One Last Thing
+The lender re-verifies your situation before the money moves. Anything that
+changed since you applied can reopen the file.
 
-A pre-approval is a useful tool. A mortgage broker who knows your full situation and has relationships with multiple lenders is a more useful tool. The combination of the two, combined with a broker who understands your actual purchase goals, gives you the clearest picture possible before you make one of the largest financial decisions of your life.
+- **Changing jobs.** Even for better pay. A probation period or a move to
+  self-employment changes how your income reads.
+- **Buying a car.** A new monthly payment lands straight in your total debt
+  service ratio.
+- **Adding debt.** Credit card, line of credit, financed furniture, personal
+  loan: same logic.
+- **A late payment.** Payment history sits at the centre of your credit file.
+- **Moving large sums around.** The lender has to trace where your down payment
+  came from.
+
+The rule is simple: between pre-approval and the keys, no major financial moves.
+
+## The credit check, without the myths
+
+FCAC puts it plainly: when you apply for a pre-approval, the lender likely runs
+a credit check. Hard inquiries appear on your credit report and they affect your
+credit score, unlike the soft inquiries you make yourself, which do not.
+
+The agency recommends applying for credit only when you need it and avoiding
+multiple applications at once or too close together, because too many inquiries
+close together may make lenders think you are urgently seeking credit. Shopping
+your mortgage is not a fault, but do it in a short, deliberate stretch rather
+than spread over months. For the rest, see
+[what your credit score actually changes](/en/articles/credit-score-home-buying-quebec/).
+
+## The pre-approved amount is not your budget
+
+It is a ceiling built from ratios, not a life goal. It ignores your plans, your
+emergency cushion and a good share of the real costs: municipal and school
+taxes, condo fees, insurance, maintenance, and the amounts due at the notary.
+
+Estimate them with the [closing costs calculator](/en/tools/closing-costs/) and
+the list of [hidden homeownership costs](/en/articles/hidden-homeownership-costs/).
+A buyer who uses 100% of the ceiling also buys permanent stress.
+
+## Build the file before you apply
+
+FCAC lists what the lender will ask for: identification, proof of employment,
+proof of your down payment and closing cost funds, information about your other
+assets, and information about your debts and financial obligations.
+
+Gather all of it before the first meeting. A clean file does not win you a
+better rate on its own, but it prevents the back and forth and the last minute
+surprises. On the rate itself, see
+[what gets decided before the rate](/en/articles/best-mortgage-rate-canada/), and
+for the wider view, the
+[first-time buyer mortgage guide](/en/articles/guide-hypotheque-premier-acheteur-quebec/).
+
+## Five questions for your lender
+
+1. Exactly what date do my pre-approval and my rate hold until?
+2. If rates drop before then, do I get the lower rate?
+3. Which conditions remain to be cleared for a final approval?
+4. What kind of property could be a problem in my case?
+5. What happens if the appraisal comes in below the purchase price?
+
+The answers in writing are worth more than an impressive number on a letter.
 
 ---
 
-*Want to be connected to a trusted mortgage professional? [Reach out](/en/form/) for an introduction.*
+*Planning a purchase in Greater Montreal and want your file checked before you
+write an offer? [Reach out](/en/form/) and we will look at your situation
+together.*
