@@ -39,6 +39,30 @@
   };
 
   if (read() === 'granted') loadGA();
+
+  /* ── Mesure des actions qui comptent ──
+     Le nombre de visites ne dit rien sur les clients. Ces trois evenements
+     disent d ou viennent les demandes. Ils ne partent que si le visiteur a
+     consenti: sans consentement, window.gtag n existe pas.
+     `generate_lead` se declenche sur la page de remerciement, ou Formspree
+     renvoie le visiteur apres l envoi du formulaire. */
+  function track(nom, params) {
+    if (typeof window.gtag === 'function') { window.gtag('event', nom, params || {}); }
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var merci = ['/merci/', '/en/thank-you/', '/es/gracias/', '/ar/shukran/'];
+    if (merci.indexOf(location.pathname) !== -1) {
+      track('generate_lead', { method: 'formulaire' });
+    }
+
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest ? e.target.closest('a[href^="tel:"]') : null;
+      if (a) { track('contact_telephone', { lien: a.getAttribute('href') }); return; }
+      var b = e.target.closest ? e.target.closest('[data-cal-link]') : null;
+      if (b) { track('reservation_ouverte', {}); }
+    }, true);
+  });
 })();
 </script>
 {{ end }}
