@@ -340,8 +340,32 @@ Etat verifie dans le depot le 2026-08-31.
       fractions.
       Les 4 articles a risque professionnel sont donc tous corriges: triplex,
       inspection, gestion locative, frais de condo.
-- [ ] Etoffer le reste des articles courts. Inventaire du 2026-09-20 apres le
-      lot du 2026-09-21: 24 articles FR sous 400 mots, 30 AR, 9 EN, 0 ES.
+- [ ] REPRENDRE ICI le 2026-09-22. Le grand lot des 31 sujets est fait a 24
+      sur 31, la session a atteint sa limite. Il reste 7 sujets, chacun dans
+      les 4 langues, en creant l espagnol quand il manque:
+      - `best-time-sell-home-montreal` (fr 388, en 669, es 747, ar 173)
+      - `renovations-dont-add-value` (fr 268, en 646, es 690, ar 179)
+      - `home-staging-client-story` (fr REECRIT NON COMMITE, en 358, es
+        absent, ar 290)
+      - `worst-real-estate-deal-lessons` (fr 358, en 352, es absent, ar 270)
+      - `why-choose-remax` (fr commence non commite, en 345, es absent,
+        ar 277)
+      - `multilingual-broker-advantage` (fr 400, en 360, es absent, ar 292)
+      - negociation: `strategies-negociation-immobilier` en fr, et
+        `strategies-negociation-immobilier-montreal` en en, es et ar. Le fr
+        est REECRIT NON COMMITE et fait 1 684 mots, a resserrer vers 1 300.
+        Cle commune: `article-strategies-negociation`.
+      Trois fichiers francais sont modifies dans l arbre de travail et
+      volontairement NON COMMITES: les publier seuls violerait la regle des
+      4 langues. Les finir dans les autres langues, puis committer par sujet.
+      Consignes qui ont fait leurs preuves: un agent par paire de sujets,
+      interdiction d inventer un chiffre ou une anecdote de client,
+      interdiction de promettre un rendement, interdiction de classer les
+      quartiers, et verification finale avec le script `verif.py` ecrit dans
+      le scratchpad de la session (mots, description, liens, tirets,
+      categorie).
+- [ ] Etoffer le reste des articles courts. Inventaire du 2026-09-21 apres le
+      lot du jour: 5 articles FR sous 400 mots, 6 AR, 4 EN, 0 ES.
       ATTENTION a la methode
       de comptage: `wc -w` sous Git Bash compte mal l arabe, il a annonce 335
       mots pour un article qui en fait 1 131. Compter avec Python, en retirant
