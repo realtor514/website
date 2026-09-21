@@ -1,61 +1,173 @@
 ---
-title: "Buying Real Estate With Family Members in Quebec: What to Get in Writing"
+title: "Buying Property Together in Quebec: Undivided Co-Ownership, the Agreement, and What the Law Decides for You"
 date: 2026-07-27
+lastmod: 2026-09-21
 category: "Buyer's Guide"
-description: "Co-purchasing with parents, siblings, or children is increasingly common as prices rise. It can work extremely well. It can also create serious conflict. Here is how to structure it properly."
+description: "Undivided co-ownership, the notarial agreement, solidary liability to the lender, parental gifts, breakup and death: the legal frame for co-buying in Quebec."
 image: "images/articles/buying-property-with-family/featured.jpg"
 ---
 
-Co-purchasing real estate with family members is one of the fastest-growing trends in Greater Montreal as housing costs have risen relative to individual buyer capacity. A parent contributing to their child's down payment, two siblings pooling resources for a duplex, adult children purchasing a home that their aging parents will occupy, a combination of generations on a single title.
+Buying with a partner, a parent, a sibling or a friend has become ordinary in
+Greater Montreal. What stays misunderstood is that this is not an
+understanding between relatives: it is a legal structure governed by the Civil
+Code of Quebec, and its rules apply whether you know them or not.
 
-These arrangements can be excellent financial strategies. They can also destroy family relationships if the terms are not clearly defined before the purchase. Here is what to think through before proceeding.
+I am a broker, not a notary: this is general information.
 
-## Why Written Agreements Matter Between Family Members
+## What you are actually buying: a share, not a room
 
-There is a deeply human instinct to resist formalizing relationships with family. It feels distrustful, transactional, and contrary to the warmth of the relationship. That instinct is understandable, and it creates problems consistently.
+When several people buy an immovable together, they become undivided
+co-owners, or *indivisaires*. Undivided co-ownership may result from a
+contract, a succession, a judgment or operation of law (art. 1012 C.C.Q.).
+Each person holds a share of the whole building, not a floor or a bedroom, and
+may use the property without interfering with its destination or with the
+rights of the others (art. 1016).
 
-Family members die. Circumstances change. Someone needs their money back. Someone gets divorced and their spouse has a claim on assets. Someone stops paying their share of the mortgage. Someone wants to sell when others do not.
+The trap is article 1015: the shares of undivided co-owners are presumed
+equal. Éducaloi puts it bluntly: the law presumes you own in equal shares even
+if your down payments and mortgage contributions were unequal, and rental
+income and resale profit are split the same way.
 
-All of these situations require resolution. A written agreement that was uncomfortable to draft in an atmosphere of goodwill is significantly easier to execute than an improvised resolution in an atmosphere of conflict.
+## The indivision agreement: what it settles, and why it gets published
 
-## What the Agreement Should Cover
+This is the document that replaces presumptions with your own decisions.
+According to the Chambre des notaires and Éducaloi, it covers:
 
-**Ownership percentage.** The deed of sale will show what percentage each party owns. This should match what each party contributed and what each party's ongoing obligations are.
+- each person's real share, the one that follows the money actually invested;
+- how expenses and income are split, where the law only provides for a
+  contribution to common charges in proportion to shares (art. 1019);
+- decisions. Article 1026 sets the default: ordinary administration is decided
+  by a majority of the co-owners, in number and in shares, but selling the
+  property, partitioning it, charging it with a real right or changing its
+  destination requires unanimity;
+- exclusive use of part of the building;
+- the right of first refusal, which forces anyone selling a share to offer it
+  to the others first;
+- what happens when a co-owner dies;
+- the exit: who buys out whom, at what price, on what valuation.
 
-**Decision-making authority.** Who can make decisions about the property? What decisions require unanimous agreement? If one party wants to sell and another does not, how is that resolved?
+One technical point worth real money: a conventional indivision bearing on an
+immovable must be published to be set up against third parties (art. 1014).
+Unpublished, it binds you to each other but not the buyer of someone else's
+share, nor that person's creditors. The notary publishes it in the land
+register.
 
-**Cost sharing.** How are mortgage payments, property taxes, maintenance costs, and unexpected expenses split? Is it proportional to ownership, or is there a different arrangement?
+## Nobody is forced to stay
 
-**Right of first refusal.** If one party wants to sell their share, do the other parties have the right to purchase it before it can be sold to a third party?
+This is the most important rule and the least known. Article 1030: no one is
+bound to remain in undivided co-ownership, and partition may always be
+provoked, unless it has been deferred by an agreement, a testamentary
+disposition, a judgment or by operation of law. One co-owner alone can
+therefore demand the end of the arrangement, without justifying it.
 
-**Exit triggers.** Under what circumstances can one party force a sale? What happens if a party cannot continue to pay their share?
+You can defer that right, not extinguish it. Co-owners may agree in writing to
+defer partition, for a maximum of 30 years, renewable (art. 1013). A court may
+also stay an immediate partition for no more than two years (art. 1032). In
+the other direction, three quarters of the co-owners representing 90 % of the
+shares may put an end to the undivided co-ownership of an immovable
+(art. 1031).
 
-**Death and succession.** If a co-owner dies, what happens to their share? Does it pass to their estate (potentially creating a co-ownership situation with someone's spouse or children), or is there a right of survivorship?
+Article 1022 adds a safety net: if someone outside the indivision buys a
+co-owner's share, the others have 60 days from learning of it to remove that
+person by reimbursing the price and costs paid. This right of withdrawal does
+not apply where the agreement provides for published rights of first refusal:
+the agreement replaces an emergency remedy with a planned one.
 
-In Quebec, these arrangements are typically formalized through a co-ownership agreement (convention de copropriété) drafted by a notary. The cost of having this done properly is trivial compared to the cost of resolving a dispute without one.
+## The lender does not care about your percentages
 
-## The Parental Down Payment Gift
+In Quebec law, solidarity is not presumed: it exists only where it is
+expressly stipulated by the parties or provided for by law (art. 1525).
+Mortgage loan contracts stipulate it.
 
-A very common arrangement is a parent providing all or part of a down payment as a gift rather than a co-ownership situation. The parent does not go on title. They simply transfer the funds.
+Each co-borrower is therefore liable for the whole loan, not for a share. If
+the other stops paying, the bank comes after you for everything and your
+[credit file](/en/articles/credit-score-home-buying-quebec/) absorbs the
+delinquency. The indivision agreement changes nothing here: it gives you a
+remedy against your co-owner, never against the lender.
 
-Mortgage lenders in Canada require a gift letter confirming that the funds are a gift, not a loan, because a loan obligation would affect the buyer's debt ratios. The letter needs to be signed by the donor and typically confirm the family relationship.
+## Co-owner or surety: two very different positions
 
-From a family harmony perspective, even when the intention is a gift, the understanding should be documented somewhere. What everyone agrees is a gift when relations are good can become contested when relations are not.
+Suretyship is the contract by which a person binds themselves toward the
+creditor to perform the debtor's obligation if the debtor fails to do so
+(art. 2333). A surety is not on title, holds no share and captures no capital
+gain. In principle the surety enjoys the benefit of discussion, which allows
+them to require that the creditor first seize the debtor's property, but they
+may expressly renounce it (art. 2347), and lenders commonly ask for that
+renunciation.
 
-## The Multiple Generations on Title Situation
+A parent who acts as surety takes the risk without the asset. A parent who
+becomes an undivided co-owner takes the risk and the share, with the tax and
+estate consequences that follow.
 
-When parents and adult children co-own a property together, there are additional considerations:
+## The parent who helps: gift or loan
 
-If the parent has a lower income and higher net worth, their inclusion on the title may assist or complicate financing depending on the lender's assessment.
+A gift and a loan only look alike in the bank account. The lender requires a
+signed gift letter confirming the money is not repayable, because a loan would
+be added to your debts and damage your ratios.
 
-If the property serves as the parent's principal residence, there may be capital gains implications different from those for the children if the property is eventually sold.
+The lender also wants to see where the money came from: bank statements, often
+over roughly 90 days, under anti money laundering obligations. Funds coming
+from abroad need more time and more documents.
 
-Estate planning considerations are significant. A notary with estate planning experience, not just real estate experience, should be consulted.
+A warning: declaring a gift to the lender and then treating the money as a
+loan between yourselves is not a grey area, it is a false declaration.
 
-## What to Keep in Mind
+## Breakup, death, bankruptcy
 
-Family co-ownership transactions are among the most relationship-sensitive situations in real estate. The standard advice: engage a notary to draft the co-ownership agreement before or simultaneously with the purchase, not after. The conversation about "what happens if" is much more productive before any money has moved.
+**Breakup.** Nothing divides automatically: article 1030 applies, with the
+delay and cost of a provoked partition. See also [real estate and
+separation](/en/articles/divorce-real-estate-guide/).
+
+**Death.** The deceased's share falls into their estate: you become co-owner
+with their heirs, who are not necessarily the people you pictured. See
+[inheriting a property in
+Quebec](/en/articles/inheritance-property-quebec/). A right of first refusal
+or a purchase option funded by life insurance is the usual answer.
+
+**Bankruptcy.** A co-owner's share is part of their patrimony, and therefore
+of the common pledge of their creditors. A published agreement with a right of
+first refusal at least leaves you the option to buy back.
+
+## Marriage, de facto union, parental union: the law in 2026
+
+Many co-buyers assume some legal regime protects them. It depends entirely on
+who you are to each other.
+
+**Married or civil union.** The family patrimony applies automatically from
+the marriage or civil union. According to quebec.ca it includes the family
+residences, the furniture that furnishes them, the motor vehicles used for
+family travel, rights accrued under a retirement plan and earnings registered
+under the Quebec Pension Plan. It is the value that is divided, not ownership.
+
+**De facto partners with no common child.** No legal patrimony. Title and the
+agreement are your only protection.
+
+**Parental union.** Since June 30, 2025, this regime applies by operation of
+law to de facto partners who become parents of a common child born on or after
+that date. It creates a parental union patrimony made up of the family
+residences or the rights conferring their use, the furniture that furnishes
+them and serves household use, and motor vehicles used for family travel.
+Property received by succession or gift is excluded. Parents of a common child
+born before that date may opt in voluntarily, by notarial act or private
+writing.
+
+Note what this patrimony does not include: neither rights accrued in a
+retirement plan nor earnings registered under the Quebec Pension Plan. It is
+narrower than the family patrimony.
+
+**Siblings, friends, a parent and an adult child.** No legal regime at all.
+Only title and the agreement.
+
+## The order of operations
+
+Talk numbers before you visit. Have [the
+notary](/en/articles/quebec-notary-process/) draft the agreement before or at
+the same time as the deed of sale, never after. And if the down payment feels
+like the real obstacle, read [the 20 %
+myth](/en/articles/down-payment-myth-debunked/) and [the help available to
+first-time buyers](/en/articles/first-time-buyer-tax-credits/).
 
 ---
 
-*Planning a family co-purchase? [Let's talk through the structure before you start the search](/en/form/).*
+*Planning a purchase with others? [Write to me](/en/form/): we sort out the
+structure before the search begins.*
