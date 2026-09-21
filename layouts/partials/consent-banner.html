@@ -1,7 +1,9 @@
-{{/* Banniere de consentement, Loi 25.
-     Refuser est aussi facile qu accepter, les deux boutons ont le meme poids.
-     Le lien "Gerer mes preferences" du pied de page rouvre cette banniere,
-     ce qui permet de retirer son consentement aussi simplement. */}}
+{{/* Fenetre de consentement, Loi 25.
+     Centree a l ecran, deux boutons: les parametres et tout accepter.
+     Le panneau de parametres porte un "Tout refuser" aussi visible que
+     l acceptation: la Loi 25 veut qu un refus soit aussi simple a exprimer
+     qu un consentement. Rien n est charge tant qu aucun choix n est fait.
+     Le lien "Gerer mes preferences" du pied de page rouvre cette fenetre. */}}
 {{ if .Site.Params.ga4Id }}
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
@@ -9,30 +11,86 @@
 {{ $privacy := "/en/privacy/" }}
 {{ if $isFr }}{{ $privacy = "/confidentialite/" }}{{ else if $isAr }}{{ $privacy = "/ar/khsusiya/" }}{{ else if $isEs }}{{ $privacy = "/es/privacidad/" }}{{ end }}
 
-<div class="consent" id="gm-consent" role="dialog" aria-live="polite"
-     aria-label="{{ if $isFr }}Consentement aux témoins de mesure{{ else if $isAr }}الموافقة على ملفات تعريف الارتباط للقياس{{ else if $isEs }}Consentimiento de cookies de medición{{ else }}Measurement cookie consent{{ end }}" hidden>
-  <p class="consent__text">
-    {{ if $isFr }}
-      Ce site aimerait mesurer sa fréquentation avec Google Analytics, pour savoir quelles pages vous sont utiles. Aucune publicité, aucune revente de données. Vous pouvez refuser sans rien perdre du site.
-      <a href="{{ $privacy }}">Politique de confidentialité</a>
-    {{ else if $isAr }}
-      يودّ هذا الموقع قياس عدد زياراته عبر Google Analytics، لمعرفة الصفحات المفيدة لكم. لا إعلانات ولا بيع للبيانات. يمكنكم الرفض دون أن تفقدوا أي شيء من الموقع.
-      <a href="{{ $privacy }}">سياسة الخصوصية</a>
-    {{ else if $isEs }}
-      Este sitio desea medir sus visitas con Google Analytics, para saber qué páginas le resultan útiles. Sin publicidad y sin venta de datos. Puede rechazar sin perder nada del sitio.
-      <a href="{{ $privacy }}">Política de privacidad</a>
-    {{ else }}
-      This site would like to measure its traffic with Google Analytics, to learn which pages are useful to you. No advertising, no data resale. You can decline and lose nothing on the site.
-      <a href="{{ $privacy }}">Privacy policy</a>
-    {{ end }}
-  </p>
-  <div class="consent__actions">
-    <button type="button" class="consent__btn consent__btn--deny" id="gm-consent-deny">
-      {{ if $isFr }}Refuser{{ else if $isAr }}رفض{{ else if $isEs }}Rechazar{{ else }}Decline{{ end }}
-    </button>
-    <button type="button" class="consent__btn consent__btn--accept" id="gm-consent-accept">
-      {{ if $isFr }}Accepter{{ else if $isAr }}موافقة{{ else if $isEs }}Aceptar{{ else }}Accept{{ end }}
-    </button>
+<div class="consent-overlay" id="gm-consent" hidden>
+  <div class="consent" role="dialog" aria-modal="true" aria-labelledby="gm-consent-title">
+
+    <div id="gm-consent-main">
+      <h2 class="consent__title" id="gm-consent-title">
+        {{ if $isFr }}Les témoins de ce site{{ else if $isAr }}ملفات تعريف الارتباط في هذا الموقع{{ else if $isEs }}Las cookies de este sitio{{ else }}Cookies on this site{{ end }}
+      </h2>
+      <p class="consent__text">
+        {{ if $isFr }}
+          Ce site aimerait mesurer sa fréquentation avec Google Analytics, pour savoir quelles pages vous sont utiles et améliorer le contenu. Aucune publicité, aucune revente de données, aucun profilage. Refuser ne retire aucune fonction du site.
+        {{ else if $isAr }}
+          يودّ هذا الموقع قياس عدد زياراته عبر Google Analytics، لمعرفة الصفحات المفيدة لكم وتحسين المحتوى. لا إعلانات، ولا بيع للبيانات، ولا تصنيف شخصي. والرفض لا يحرمكم من أي وظيفة في الموقع.
+        {{ else if $isEs }}
+          Este sitio desea medir sus visitas con Google Analytics, para saber qué páginas le resultan útiles y mejorar el contenido. Sin publicidad, sin venta de datos y sin perfilado. Rechazar no le quita ninguna función del sitio.
+        {{ else }}
+          This site would like to measure its traffic with Google Analytics, to learn which pages are useful to you and improve the content. No advertising, no data resale, no profiling. Declining removes no feature from the site.
+        {{ end }}
+      </p>
+      <p class="consent__link">
+        <a href="{{ $privacy }}">
+          {{ if $isFr }}Politique de confidentialité{{ else if $isAr }}سياسة الخصوصية{{ else if $isEs }}Política de privacidad{{ else }}Privacy policy{{ end }}
+        </a>
+      </p>
+      <div class="consent__actions">
+        <button type="button" class="consent__btn consent__btn--ghost" id="gm-consent-settings">
+          {{ if $isFr }}Paramètres{{ else if $isAr }}الإعدادات{{ else if $isEs }}Configuración{{ else }}Cookie Settings{{ end }}
+        </button>
+        <button type="button" class="consent__btn consent__btn--accept" id="gm-consent-accept">
+          {{ if $isFr }}Tout accepter{{ else if $isAr }}قبول الكل{{ else if $isEs }}Aceptar todo{{ else }}Accept All{{ end }}
+        </button>
+      </div>
+    </div>
+
+    <div id="gm-consent-panel" hidden>
+      <h2 class="consent__title">
+        {{ if $isFr }}Vos préférences{{ else if $isAr }}تفضيلاتكم{{ else if $isEs }}Sus preferencias{{ else }}Your preferences{{ end }}
+      </h2>
+
+      <div class="consent__row">
+        <div>
+          <p class="consent__row-title">
+            {{ if $isFr }}Témoins nécessaires{{ else if $isAr }}ملفات ضرورية{{ else if $isEs }}Cookies necesarias{{ else }}Necessary cookies{{ end }}
+          </p>
+          <p class="consent__row-desc">
+            {{ if $isFr }}Ce site n’en dépose aucun. Vos préférences sont gardées dans votre navigateur, jamais sur un serveur.{{ else if $isAr }}لا يضع هذا الموقع أياً منها. تُحفظ تفضيلاتكم في متصفحكم، لا على خادم.{{ else if $isEs }}Este sitio no coloca ninguna. Sus preferencias se guardan en su navegador, nunca en un servidor.{{ else }}This site places none. Your preferences stay in your browser, never on a server.{{ end }}
+          </p>
+        </div>
+        <span class="consent__always">
+          {{ if $isFr }}Toujours actifs{{ else if $isAr }}دائماً{{ else if $isEs }}Siempre{{ else }}Always on{{ end }}
+        </span>
+      </div>
+
+      <div class="consent__row">
+        <div>
+          <p class="consent__row-title">
+            {{ if $isFr }}Mesure de fréquentation{{ else if $isAr }}قياس الزيارات{{ else if $isEs }}Medición de audiencia{{ else }}Audience measurement{{ end }}
+          </p>
+          <p class="consent__row-desc">
+            {{ if $isFr }}Google Analytics : pages consultées, durée de la visite, type d’appareil, ville approximative. Jamais rapproché de ce que vous écrivez dans un formulaire.{{ else if $isAr }}Google Analytics: الصفحات المطّلع عليها، ومدة الزيارة، ونوع الجهاز، والمدينة التقريبية. ولا يُربط أبداً بما تكتبونه في الاستمارة.{{ else if $isEs }}Google Analytics: páginas consultadas, duración de la visita, tipo de dispositivo, ciudad aproximada. Nunca se cruza con lo que usted escribe en un formulario.{{ else }}Google Analytics: pages viewed, visit length, device type, approximate city. Never matched with what you write in a form.{{ end }}
+          </p>
+        </div>
+        <label class="consent__switch">
+          <input type="checkbox" id="gm-consent-toggle">
+          <span class="consent__slider"></span>
+          <span class="consent__sr">
+            {{ if $isFr }}Activer la mesure de fréquentation{{ else if $isAr }}تفعيل قياس الزيارات{{ else if $isEs }}Activar la medición de audiencia{{ else }}Enable audience measurement{{ end }}
+          </span>
+        </label>
+      </div>
+
+      <div class="consent__actions">
+        <button type="button" class="consent__btn consent__btn--ghost" id="gm-consent-deny">
+          {{ if $isFr }}Tout refuser{{ else if $isAr }}رفض الكل{{ else if $isEs }}Rechazar todo{{ else }}Reject All{{ end }}
+        </button>
+        <button type="button" class="consent__btn consent__btn--accept" id="gm-consent-save">
+          {{ if $isFr }}Enregistrer{{ else if $isAr }}حفظ{{ else if $isEs }}Guardar{{ else }}Save{{ end }}
+        </button>
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -42,11 +100,24 @@
   var box = document.getElementById('gm-consent');
   if (!box || !window.gmConsent) return;
 
-  function open()  { box.hidden = false; }
+  var main   = document.getElementById('gm-consent-main');
+  var panel  = document.getElementById('gm-consent-panel');
+  var toggle = document.getElementById('gm-consent-toggle');
+
+  function open() {
+    main.hidden = false;
+    panel.hidden = true;
+    toggle.checked = window.gmConsent.state() === 'granted';
+    box.hidden = false;
+  }
   function close() { box.hidden = true; }
 
   if (!window.gmConsent.state()) open();
 
+  document.getElementById('gm-consent-settings').addEventListener('click', function () {
+    main.hidden = true;
+    panel.hidden = false;
+  });
   document.getElementById('gm-consent-accept').addEventListener('click', function () {
     window.gmConsent.grant();
     close();
@@ -55,13 +126,15 @@
     window.gmConsent.deny();
     close();
   });
+  document.getElementById('gm-consent-save').addEventListener('click', function () {
+    if (toggle.checked) { window.gmConsent.grant(); } else { window.gmConsent.deny(); }
+    close();
+  });
 
-  /* Le pied de page peut rouvrir la banniere pour changer d avis. */
   var link = document.querySelector('[data-consent-manage]');
   if (link) {
     link.addEventListener('click', function (e) {
       e.preventDefault();
-      window.gmConsent.reset();
       open();
     });
   }
