@@ -325,13 +325,23 @@ Etat verifie dans le depot le 2026-08-31.
       agent, cote de credit. Les quatre autres etaient deja solides, il leur
       manquait l espagnol, qui a ete ajoute. Mediane FR passee de 294 a
       environ 360 mots, articles FR de plus de 800 mots passes de 12 a 21.
-- [ ] DECISION: refaire `condo-fees-investment-killer`, 414 mots, titre "le
-      tueur silencieux des rendements immobiliers". Dernier article du meme
-      genre que le triplex: scenario d ouverture presente comme reel, hausse
-      de frais de 5 % par an sans source, seuils de fonds de prevoyance de
-      70 % et 50 % qui ne viennent d aucun texte. En attente de l accord.
+- [x] `condo-fees-investment-killer` refait le 2026-09-21, commit def8f1f, 4
+      langues avec l espagnol cree. Retires: le titre "le tueur silencieux des
+      rendements immobiliers", un scenario d ouverture invente de toutes
+      pieces, une hausse de frais de 5 % par an sans source, et les seuils de
+      capitalisation de 70 % et 50 % qui ne viennent d aucun texte quebecois.
+      Remplaces par le droit en vigueur: reglement du 14 aout 2025, carnet
+      d entretien sur 25 ans, cycle de cinq ans de l etude du fonds, fonds
+      d autoassurance depuis le 15 avril 2022, attestation du syndicat en 15
+      jours, et 50 % des frais de condo comptes par le preteur.
+      Correction de numerotation a retenir: l information due a l acheteur
+      releve des articles 1068.1, 1068.2 et 1069 du Code civil, PAS de
+      l article 1068, qui porte sur la revision judiciaire de la valeur des
+      fractions.
+      Les 4 articles a risque professionnel sont donc tous corriges: triplex,
+      inspection, gestion locative, frais de condo.
 - [ ] Etoffer le reste des articles courts. Inventaire du 2026-09-20 apres le
-      lot du jour: 24 articles FR sous 400 mots, 31 AR, 9 EN, 0 ES.
+      lot du 2026-09-21: 24 articles FR sous 400 mots, 30 AR, 9 EN, 0 ES.
       ATTENTION a la methode
       de comptage: `wc -w` sous Git Bash compte mal l arabe, il a annonce 335
       mots pour un article qui en fait 1 131. Compter avec Python, en retirant
@@ -348,9 +358,9 @@ Etat verifie dans le depot le 2026-08-31.
       chiffres sans source: triplex a Laval (taux de capitalisation, rendements,
       vacance), liste d inspection a Montreal (duree de vie des bardeaux,
       panneaux electriques), gestion locative.
-- [ ] Completer l espagnol: 28 groupes sur 63 n ont pas de version ES apres
-      les deux lots du 2026-09-20. Les sujets les plus commerciaux sont
-      couverts, il reste le contenu secondaire. Les 35 articles ES existants
+- [ ] Completer l espagnol: 27 groupes sur 63 n ont pas de version ES apres
+      les lots des 20 et 21 septembre. Les sujets les plus commerciaux sont
+      couverts, il reste le contenu secondaire. Les 36 articles ES existants
       font tous plus de 400 mots, et un seul est sous 700.
 - [x] Deuxieme lot du 2026-09-20, les 3 articles qui portaient des chiffres
       sans source, dans les 4 langues avec l espagnol cree: triplex a Laval
