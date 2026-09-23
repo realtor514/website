@@ -1,12 +1,12 @@
 ---
 title: "Mi casa no se vende en Quebec: el diagnóstico honesto"
 date: 2026-09-20
-lastmod: 2026-09-20
+lastmod: 2026-09-23
 translationKey: "article-propriete-invendue"
 category: "Guía del Vendedor"
 description: "Pocas visitas, ninguna promesa de compra, u ofertas que se caen: el síntoma señala la causa. Diagnóstico honesto y cifras de la APCIQ de agosto de 2026."
 image: "images/articles/propriete-ne-se-vend-pas-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Su propiedad lleva ocho semanas publicada. El teléfono casi no suena, y la única sugerencia que recibe es bajar el precio. Antes de decidir cualquier cosa, hay que nombrar el problema. Lo que su publicación hizo durante el último mes ya le dice cuál de los tres problemas posibles tiene usted, y no se resuelven de la misma manera.

@@ -1,12 +1,12 @@
 ---
 title: "My House Is Not Selling in Quebec: The Honest Diagnosis"
 date: 2026-09-20
-lastmod: 2026-09-20
+lastmod: 2026-09-23
 translationKey: "article-propriete-invendue"
 category: "Seller's Guide"
 description: "Few showings, no promises to purchase, or offers that collapse: the symptom points to the cause. An honest diagnosis with APCIQ numbers from August 2026."
 image: "images/articles/propriete-ne-se-vend-pas-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Your property has been listed for eight weeks. The phone has gone quiet, and the only suggestion you keep hearing is to drop the price. Before you decide anything, name the problem. What your listing has done over the past month already tells you which of the three possible problems you have, and they do not get fixed the same way.

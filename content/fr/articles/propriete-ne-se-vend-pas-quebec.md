@@ -1,12 +1,12 @@
 ---
 title: "Ma maison ne se vend pas au Québec: le vrai diagnostic"
 date: 2026-09-20
-lastmod: 2026-09-20
+lastmod: 2026-09-23
 translationKey: "article-propriete-invendue"
 category: "Guide du vendeur"
 description: "Peu de visites, aucune promesse, ou des offres qui tombent: le symptôme désigne la cause. Diagnostic honnête et chiffres APCIQ d'août 2026."
 image: "images/articles/propriete-ne-se-vend-pas-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Votre propriété est en ligne depuis huit semaines. Le téléphone ne sonne presque plus, et la seule suggestion que vous recevez est de baisser le prix. Avant de décider quoi que ce soit, il faut nommer le problème. Ce que votre inscription a fait depuis un mois vous dit déjà lequel des trois problèmes possibles vous avez, et ils ne se règlent pas de la même façon.
