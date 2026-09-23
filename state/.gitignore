@@ -1,0 +1,4 @@
+# L index contient le texte integral des 252 articles du site: 2,8 Mo de
+# duplication inutile dans le depot. Il se reconstruit en deux secondes:
+#     python tools/dedupe.py index
+existing_blogue_index.json

@@ -1,0 +1,636 @@
+{
+ "source_of_topics": "https://rovenapistoli.com/fr/articles (titres et categories seulement, jamais le texte)",
+ "harvested_pages": [
+  "?page=1",
+  "?page=2",
+  "?page=4",
+  "?page=6",
+  "?page=8",
+  "?page=10",
+  "?page=12",
+  "?page=16",
+  "?page=20",
+  "?page=24"
+ ],
+ "note": "Les sujets ci-dessous sont inspires des THEMES de la reference, puis reancres sur le Quebec, Montreal et Laval, avec des sources primaires quebecoises. Aucun texte de la reference n est utilise.",
+ "topics": [
+  {
+   "id": "t01",
+   "topic": "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
+   "reference_theme": "Pourquoi certaines maisons sont difficiles a assurer?",
+   "category": "Guide de l'acheteur",
+   "target_keyword_fr": "maison difficile a assurer quebec",
+   "search_intent": "informationnel puis transactionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La liste exacte des elements qui font hesiter un assureur au Quebec: reservoir d huile, plomberie Poly-B, panneau a fusibles, toiture en fin de vie, historique de reclamations, zone inondable. Ce que l acheteur verifie AVANT de faire une offre, et le lien avec le financement.",
+   "planned_h2": [
+    "Un refus d assurance bloque le financement",
+    "Le reservoir d huile et le sol",
+    "L electricite: fusibles, aluminium, ampacite",
+    "La plomberie Poly-B et les raccords",
+    "La toiture et l age reel du revetement",
+    "L historique de reclamations suit l immeuble et la personne",
+    "Ce qui se verifie avant l offre"
+   ],
+   "slug": "maison-difficile-assurer-quebec",
+   "translationKey": "article-maison-difficile-assurer",
+   "status": "in_progress",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2713,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0767,
+     "match": "/articles/build-real-estate-portfolio/"
+    }
+   }
+  },
+  {
+   "id": "t02",
+   "topic": "Contester son evaluation municipale au Quebec",
+   "reference_theme": "Proprietaires : est-ce une bonne idee de contester votre evaluation municipale ?",
+   "category": "Immobilier 101",
+   "target_keyword_fr": "contester evaluation municipale quebec",
+   "search_intent": "informationnel et procedural",
+   "funnel_stage": "consideration",
+   "unique_angle": "La procedure exacte: demande de revision, delai du 30 avril suivant le depot du role, formulaire, frais, reponse de l evaluateur, recours au Tribunal administratif du Quebec. Et surtout: la date de reference du role, qui explique pourquoi une evaluation qui parait haute ne l est pas.",
+   "planned_h2": [
+    "Le role est un instantane, pas le prix d aujourd hui",
+    "Ce qui se conteste et ce qui ne se conteste pas",
+    "Le delai: rate, il ne revient pas avant trois ans",
+    "La demande de revision, etape par etape",
+    "Ce qui arrive apres le depot",
+    "Le recours au Tribunal administratif du Quebec",
+    "Le calcul qui dit si le jeu en vaut la chandelle"
+   ],
+   "slug": "contester-evaluation-municipale-quebec",
+   "translationKey": "article-contester-evaluation-municipale",
+   "status": "in_progress",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3056,
+     "match": "/articles/broker-agent-difference-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.125,
+     "match": "/articles/buying-property-with-family/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.107,
+     "match": "/articles/combien-de-temps-vendre-maison-montreal/"
+    }
+   }
+  },
+  {
+   "id": "t03",
+   "topic": "Se preparer a un refinancement hypothecaire au Quebec",
+   "reference_theme": "Comment se preparer a un refinancement hypothecaire",
+   "category": "Financement",
+   "target_keyword_fr": "refinancement hypothecaire quebec",
+   "search_intent": "transactionnel",
+   "funnel_stage": "decision",
+   "unique_angle": "Le plafond de 80 % de la valeur, la penalite de remboursement anticipe et son calcul IRD, la perte de l assurance pret transferable, les frais reels d un refinancement au Quebec, et les trois situations ou il se defend.",
+   "planned_h2": [
+    "Refinancer, renouveler, transferer: trois gestes differents",
+    "Le plafond: 80 % de la valeur, pas un dollar de plus",
+    "La penalite, le chiffre qui decide de tout",
+    "Ce que vous perdez en brisant un pret assure",
+    "Les frais a additionner avant de dire oui",
+    "Les situations ou le refinancement se defend",
+    "Le dossier a preparer"
+   ],
+   "slug": "refinancement-hypothecaire-quebec",
+   "translationKey": "article-refinancement-hypothecaire",
+   "status": "in_progress",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3247,
+     "match": "/articles/mortgage-preapproval-mistakes/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2,
+     "match": "/articles/mortgage-preapproval-mistakes/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1566,
+     "match": "/articles/best-mortgage-rate-canada/"
+    }
+   }
+  },
+  {
+   "id": "t04",
+   "topic": "Renover en copropriete: ce que la declaration permet",
+   "reference_theme": "Reno et condo : ce que vous pouvez (ou pas) modifier dans votre unite",
+   "category": "Immobilier 101",
+   "target_keyword_fr": "renovation condo copropriete quebec",
+   "search_intent": "informationnel et procedural",
+   "funnel_stage": "consideration",
+   "unique_angle": "La frontiere juridique entre partie privative et partie commune au Quebec, y compris les parties communes a usage restreint, et la procedure d autorisation du syndicat. Plus l effet de la loi 16 sur le fonds de prevoyance et l etude du carnet d entretien.",
+   "planned_h2": [
+    "Partie privative, partie commune, et la zone grise entre les deux",
+    "Le plancher, la fenetre et le balcon: les trois pieges classiques",
+    "Ce que la declaration de copropriete impose",
+    "Demander l autorisation du syndicat",
+    "Les murs porteurs et la structure",
+    "Le fonds de prevoyance et le carnet d entretien",
+    "Avant d acheter: les documents a demander"
+   ],
+   "slug": "renovation-condo-copropriete-quebec",
+   "translationKey": "article-renovation-condo",
+   "status": "in_progress",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3308,
+     "match": "/articles/condo-vs-house-montreal/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.125,
+     "match": "/articles/buying-property-with-family/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1255,
+     "match": "/articles/condo-fees-investment-killer/"
+    }
+   }
+  },
+  {
+   "id": "t05",
+   "topic": "Le budget d entretien annuel d une maison au Quebec",
+   "reference_theme": "Combien coute reellement l entretien d une maison?",
+   "category": "Guide pratique",
+   "target_keyword_fr": "cout entretien maison quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Un calendrier de remplacement plutot qu un pourcentage. Duree de vie et cout de remplacement de chaque composant au climat quebecois: toiture, thermopompe, chauffe-eau, drain francais, fenetres, et la reserve annuelle que cela implique vraiment.",
+   "planned_h2": [
+    "La regle du 1 a 3 % ne dit pas quand",
+    "Le calendrier de remplacement, composant par composant",
+    "Ce que le climat quebecois ajoute",
+    "Le chauffe-eau, le degat d eau le plus previsible",
+    "L entretien qui protege une garantie ou une assurance",
+    "Construire la reserve, en chiffres",
+    "Ce que cela change quand vous achetez"
+   ],
+   "slug": "cout-entretien-maison-quebec",
+   "translationKey": "article-cout-entretien-maison",
+   "status": "in_progress",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.4384,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.5,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0764,
+     "match": "/articles/house-flipping-montreal/"
+    }
+   }
+  },
+  {
+   "id": "t06",
+   "topic": "Proprietaire et impot au Quebec: ce qui se deduit vraiment",
+   "reference_theme": "Proprietaire et impot : ce que vous pouvez (ou pas) deduire",
+   "category": "Financement",
+   "target_keyword_fr": "impot proprietaire quebec deduction",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La ligne de partage entre residence principale et immeuble a revenus: exemption pour residence principale et sa declaration obligatoire, depenses courantes contre depenses en capital, changement d usage, et le cas du plex ou on habite un logement.",
+   "planned_h2": [
+    "La residence principale: exemptee, mais a declarer",
+    "Ce qui ne se deduit jamais sur sa propre maison",
+    "Le bureau a domicile, et ses conditions",
+    "Immeuble a revenus: courant contre capital",
+    "Le plex ou vous habitez: le partage des depenses",
+    "Le changement d usage, le piege le plus couteux",
+    "Les documents a garder"
+   ],
+   "slug": "impot-proprietaire-quebec",
+   "translationKey": "article-impot-proprietaire",
+   "needs_expert_review": true,
+   "status": "clear",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.4191,
+     "match": "/articles/commission-explained-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.125,
+     "match": "/articles/buying-property-with-family/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1033,
+     "match": "/articles/income-property-beginners/"
+    }
+   }
+  },
+  {
+   "id": "t07",
+   "topic": "Acheter en zone inondable au Quebec",
+   "reference_theme": "Acheter une propriete en zone a risque : ce qu il faut savoir",
+   "category": "Guide de l'acheteur",
+   "target_keyword_fr": "acheter zone inondable quebec",
+   "search_intent": "informationnel puis transactionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le nouveau cadre quebecois de gestion des zones inondables et sa cartographie, ce qu il autorise et interdit, l effet sur l assurance et sur le financement, et les verifications concretes a faire adresse par adresse avant l offre.",
+   "planned_h2": [
+    "Ce que dit la carte, et ce qu elle ne dit pas",
+    "Le nouveau regime quebecois des zones inondables",
+    "Assurer une propriete en zone inondable",
+    "Le prêteur regarde la meme carte",
+    "Les Declarations du vendeur et le sinistre passe",
+    "Les verifications, adresse par adresse",
+    "Acheter quand meme: a quelles conditions"
+   ],
+   "slug": "acheter-zone-inondable-quebec",
+   "translationKey": "article-zone-inondable",
+   "needs_expert_review": true,
+   "status": "clear",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.405,
+     "match": "/articles/new-construction-guide-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/buying-property-with-family/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1061,
+     "match": "/articles/quel-salaire-pour-acheter-montreal/"
+    }
+   }
+  },
+  {
+   "id": "t08",
+   "topic": "Reduire sa facture de chauffage au Quebec",
+   "reference_theme": "Conseils pour reduire sa facture de chauffage",
+   "category": "Guide pratique",
+   "target_keyword_fr": "reduire facture chauffage quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "notoriete",
+   "unique_angle": "La structure du tarif residentiel d Hydro-Quebec explique pourquoi certaines maisons coutent beaucoup plus cher a chauffer, puis les programmes d aide quebecois existants et ce qu ils exigent, dans l ordre de rentabilite.",
+   "planned_h2": [
+    "Pourquoi deux maisons voisines n ont pas la meme facture",
+    "Comment le tarif residentiel est construit",
+    "L enveloppe avant les appareils",
+    "La thermopompe, et ses limites par grand froid",
+    "Les programmes d aide, et leurs conditions",
+    "L ordre des travaux, du plus rentable au moins",
+    "Ce qu un acheteur devrait demander a voir"
+   ],
+   "slug": "reduire-facture-chauffage-quebec",
+   "translationKey": "article-facture-chauffage",
+   "status": "clear",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2883,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.125,
+     "match": "/articles/buying-property-with-family/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1295,
+     "match": "/articles/heritage-property-montreal/"
+    }
+   }
+  },
+  {
+   "id": "t09",
+   "topic": "Les arbres, la valeur d une propriete et le droit quebecois",
+   "reference_theme": "Les arbres contribuent-ils a la valeur percue d un bien immobilier?",
+   "category": "Guide pratique",
+   "target_keyword_fr": "abattage arbre reglement quebec propriete",
+   "search_intent": "informationnel et procedural",
+   "funnel_stage": "notoriete",
+   "unique_angle": "Ce que le Code civil dit vraiment des arbres, des branches et des racines entre voisins, ce que les reglements municipaux de Montreal et de Laval exigent avant un abattage, et comment un arbre entre dans une transaction: assurance, inspection, declarations du vendeur.",
+   "planned_h2": [
+    "L arbre appartient a celui dont le tronc sort du sol",
+    "Branches et racines: ce que le Code civil permet",
+    "L abattage exige un permis presque partout",
+    "Ce qu un arbre change pour l assurance",
+    "L inspection prealable regarde les arbres",
+    "Planter au bon endroit",
+    "Dans une transaction: ce qui se declare"
+   ],
+   "slug": "arbres-propriete-reglements-quebec",
+   "translationKey": "article-arbres-propriete",
+   "status": "clear",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2942,
+     "match": "/articles/red-flags-walk-away-property/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.25,
+     "match": "/articles/everyone-deserves-homeownership/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0798,
+     "match": "/articles/bidding-wars-truth-montreal/"
+    }
+   }
+  },
+  {
+   "id": "t10",
+   "topic": "Pourquoi votre maison ne se compare pas a celle du voisin",
+   "reference_theme": "Pourquoi votre maison ne se compare pas a celle du voisin",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "comparables immobiliers prix maison voisin",
+   "search_intent": "informationnel",
+   "funnel_stage": "decision",
+   "unique_angle": "Comment un comparable est reellement choisi et ajuste au Quebec: superficie habitable mesuree selon une norme, date de vente, conditions de vente, et pourquoi le prix affiche d une maison voisine n est pas une donnee. Le vendeur apprend a lire une analyse comparative plutot qu a la subir.",
+   "planned_h2": [
+    "Un prix affiche n est pas une donnee",
+    "Les quatre criteres d un vrai comparable",
+    "La superficie habitable ne se mesure pas a l oeil",
+    "Les ajustements, et leur sens",
+    "Ce que l evaluation municipale ne vous dit pas",
+    "Les conditions de vente changent le prix",
+    "Lire l analyse comparative qu on vous presente"
+   ],
+   "slug": "comparables-prix-maison-voisin-quebec",
+   "translationKey": "article-comparables-voisin",
+   "status": "clear",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3431,
+     "match": "/articles/condo-vs-house-montreal/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1111,
+     "match": "/articles/condo-vs-house-montreal/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0939,
+     "match": "/articles/property-tax-explained/"
+    }
+   }
+  },
+  {
+   "id": "t11",
+   "topic": "Ce qui rend une maison ou un condo bruyant",
+   "reference_theme": "5 choses qui rendent une maison plus bruyante",
+   "category": "Guide de l'acheteur",
+   "target_keyword_fr": "bruit condo insonorisation quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le bruit comme critere verifiable a la visite: ce que la construction explique, ce que la declaration de copropriete impose comme couvre-plancher, le recours reel contre un voisin bruyant au Quebec, et les cinq tests a faire sur place.",
+   "planned_h2": [
+    "Le bruit aerien et le bruit d impact ne se corrigent pas pareil",
+    "Ce que l annee de construction laisse deviner",
+    "Le couvre-plancher impose par la declaration de copropriete",
+    "Le bruit exterieur: rue, train, corridor aerien",
+    "Cinq tests a faire pendant la visite",
+    "Ce qui se corrige, et a quel prix",
+    "Le recours quand le bruit vient d un voisin"
+   ],
+   "slug": "bruit-maison-condo-quebec",
+   "translationKey": "article-bruit-maison-condo",
+   "status": "clear",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3089,
+     "match": "/articles/condo-vs-house-montreal/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.125,
+     "match": "/articles/buying-property-with-family/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1091,
+     "match": "/articles/inspection-preachat-cout-moment-quebec/"
+    }
+   }
+  },
+  {
+   "id": "t12",
+   "topic": "Les particularites des maisons quebecoises qui surprennent",
+   "reference_theme": "Les caracteristiques des maisons quebecoises qui surprennent les nouveaux arrivants",
+   "category": "Guide de l'acheteur",
+   "target_keyword_fr": "particularites maison quebecoise construction",
+   "search_intent": "informationnel",
+   "funnel_stage": "notoriete",
+   "unique_angle": "Une lecture technique, pas folklorique: escalier exterieur, sous-sol habitable, toit plat, plex, drain francais, thermopompe, fenetres a battant. Chaque particularite est expliquee par le climat ou par une regle, avec ce qu elle implique a l inspection.",
+   "planned_h2": [
+    "L escalier exterieur en colimacon",
+    "Le sous-sol qu on habite",
+    "Le toit plat, et pourquoi il domine en ville",
+    "Le plex, une forme d habitation autant qu un placement",
+    "Le drain francais et la pompe de puisard",
+    "Chauffage electrique, thermopompe et bi-energie",
+    "Ce que tout cela change a l inspection"
+   ],
+   "slug": "particularites-maison-quebecoise",
+   "translationKey": "article-particularites-maison-quebecoise",
+   "status": "clear",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2637,
+     "match": "/articles/divorce-real-estate-guide/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.125,
+     "match": "/articles/condo-vs-house-montreal/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0617,
+     "match": "/articles/rive-nord-guide-laval/"
+    }
+   }
+  },
+  {
+   "id": "t13",
+   "topic": "Quand garder une propriete devient plus risque que la vendre",
+   "reference_theme": "Quand garder une propriete devient plus risque que la vendre",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "garder ou vendre propriete quebec",
+   "search_intent": "informationnel et decisionnel",
+   "funnel_stage": "decision",
+   "unique_angle": "Les cinq situations ou l inaction coute plus cher que la vente au Quebec: renouvellement a un taux plus eleve, entretien differe qui devient un vice, immeuble vacant et clause d assurance, succession non reglee, et copropriete sous cotisation speciale.",
+   "planned_h2": [
+    "Garder est une decision, pas une absence de decision",
+    "Le renouvellement qui change le calcul",
+    "L entretien differe devient un probleme declarable",
+    "Le logement vacant et votre police d assurance",
+    "La succession qu on laisse dormir",
+    "La cotisation speciale en copropriete",
+    "Le test en quatre chiffres"
+   ],
+   "slug": "garder-ou-vendre-propriete-quebec",
+   "translationKey": "article-garder-ou-vendre",
+   "status": "clear",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3728,
+     "match": "/articles/inheritance-property-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0908,
+     "match": "/articles/guide-hypotheque-premier-acheteur/"
+    }
+   }
+  },
+  {
+   "id": "t14",
+   "topic": "Votre terrain vaut-il plus que votre maison",
+   "reference_theme": "Votre terrain travaille-t-il pour vous?",
+   "category": "Investissement",
+   "target_keyword_fr": "valeur terrain zonage quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le role d evaluation separe deja terrain et batiment: c est la donnee de depart. Ensuite, ce que le zonage municipal autorise reellement sur un terrain, la difference entre usage permis et droit acquis, et les cas ou la valeur du terrain depasse celle du bati.",
+   "planned_h2": [
+    "Le role d evaluation separe deja les deux valeurs",
+    "Quand le terrain depasse le batiment",
+    "Le zonage decide de ce qui est possible",
+    "Usage derogatoire et droit acquis",
+    "Subdiviser: les conditions reelles",
+    "Le certificat de localisation et les servitudes",
+    "Ce que cela change quand vous vendez"
+   ],
+   "slug": "valeur-terrain-zonage-quebec",
+   "translationKey": "article-valeur-terrain",
+   "status": "clear",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3134,
+     "match": "/articles/renovations-dont-add-value/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.125,
+     "match": "/articles/buying-property-with-family/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0799,
+     "match": "/articles/open-house-secrets/"
+    }
+   }
+  }
+ ]
+}

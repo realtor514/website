@@ -1,0 +1,55 @@
+{
+ "claims": [
+  {
+   "id": "t01",
+   "slug": "maison-difficile-assurer-quebec",
+   "keyword": "maison difficile a assurer quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t02",
+   "slug": "contester-evaluation-municipale-quebec",
+   "keyword": "contester evaluation municipale quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t03",
+   "slug": "refinancement-hypothecaire-quebec",
+   "keyword": "refinancement hypothecaire quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t04",
+   "slug": "renovation-condo-copropriete-quebec",
+   "keyword": "renovation condo copropriete quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t05",
+   "slug": "cout-entretien-maison-quebec",
+   "keyword": "cout entretien maison quebec",
+   "state": "in_progress"
+  }
+ ],
+ "slugs": [
+  "maison-difficile-assurer-quebec",
+  "contester-evaluation-municipale-quebec",
+  "refinancement-hypothecaire-quebec",
+  "renovation-condo-copropriete-quebec",
+  "cout-entretien-maison-quebec"
+ ],
+ "keywords": [
+  "maison difficile a assurer quebec",
+  "contester evaluation municipale quebec",
+  "refinancement hypothecaire quebec",
+  "renovation condo copropriete quebec",
+  "cout entretien maison quebec"
+ ],
+ "titles": [
+  "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
+  "Contester son evaluation municipale au Quebec",
+  "Se preparer a un refinancement hypothecaire au Quebec",
+  "Renover en copropriete: ce que la declaration permet",
+  "Le budget d entretien annuel d une maison au Quebec"
+ ]
+}

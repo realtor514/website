@@ -1,0 +1,6 @@
+# Ce dossier contient le texte integral d articles publies par un autre site.
+# Il sert uniquement au detecteur de plagiat de tools/dedupe.py, en local.
+# Rien ici ne doit partir sur GitHub: le depot est public et ce texte ne nous
+# appartient pas.
+*
+!.gitignore
