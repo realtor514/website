@@ -1,0 +1,85 @@
+{
+ "id": "t02",
+ "slug": "contester-evaluation-municipale-quebec",
+ "title": "Contester son évaluation municipale au Québec",
+ "target_keyword": "contester evaluation municipale quebec",
+ "word_count": 1795,
+ "category": "Immobilier 101",
+ "internal_links": [
+  "/articles/property-tax-explained/",
+  "/articles/hidden-homeownership-costs/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/articles/acheter-laval-2025/",
+  "/tools/home-estimate/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/information-fonciere/evaluation-fonciere/demander-revision",
+   "title": "Demander la révision du rôle d'évaluation foncière",
+   "publisher": "Gouvernement du Québec, ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-09-23",
+   "supports": "Qui peut demander une révision, les délais de dépôt, le fait que le montant des taxes à payer ne justifie pas une modification au rôle, les moyens de l'évaluateur (vérifier les paramètres de calcul, rencontrer le demandeur, visiter l'immeuble) et le délai de 60 jours ou 30 jours pour saisir le Tribunal administratif du Québec."
+  },
+  {
+   "url": "https://portail-m4s.s3.montreal.ca/pdf/for_demanderevisionroleeval_fr.pdf",
+   "title": "La révision administrative en matière d'évaluation foncière municipale, formulaire FDR-F-fr (2021-04) et aide-mémoire",
+   "publisher": "Gouvernement du Québec, ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-09-23",
+   "supports": "Les articles 124 à 138.4 de la Loi sur la fiscalité municipale, les quatre situations donnant droit au dépôt et leurs délais (1er mai suivant l'entrée en vigueur, 60 jours après l'avis d'évaluation, l'avis de modification ou l'avis de correction d'office), la force majeure, les cinq conditions de recevabilité, les délais de réponse de l'évaluateur (1er septembre reportable au 1er avril, ou quatre mois), les 30 jours pour accepter une modification proposée, et les conditions du recours devant la Section des affaires immobilières du TAQ."
+  },
+  {
+   "url": "https://montreal.ca/demarches/demander-une-revision-du-role-devaluation-fonciere",
+   "title": "Demander une révision du rôle d'évaluation foncière",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-23",
+   "supports": "La grille de frais non remboursables exigés à Montréal au dépôt d'une demande de révision : 90 $, 360 $, 605 $ et 1 215 $ selon la valeur inscrite au rôle, ainsi que les lieux de dépôt."
+  },
+  {
+   "url": "https://montreal.ca/sujets/valeur-fonciere-dune-propriete",
+   "title": "Valeur foncière d'une propriété",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-23",
+   "supports": "La citation « L'évaluateur de la Ville tient compte des conditions du marché immobilier 18 mois avant l'entrée en vigueur du rôle d'évaluation », la date de référence du 1er juillet 2024 pour les rôles 2026-2027-2028, et la définition de la valeur comme valeur d'échange sur un marché libre et ouvert à la concurrence."
+  },
+  {
+   "url": "https://montreal.ca/sujets/roles-devaluation-fonciere",
+   "title": "Rôles d'évaluation foncière",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-23",
+   "supports": "Le dépôt du rôle tous les 3 ans et le fait que le rôle en vigueur à Montréal est celui de 2026-2027-2028, donc entré en vigueur le 1er janvier 2026, ce qui fixe l'échéance du 1er mai 2026."
+  },
+  {
+   "url": "https://www.laval.ca/wp-content/uploads/2025/02/evaluation-fonciere-comprendre-formulaire-demande-revision.pdf",
+   "title": "Comprendre votre formulaire de demande de révision",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-23",
+   "supports": "La citation « la valeur réelle représente la valeur 18 mois avant l'entrée en vigueur du rôle d'évaluation, et non la valeur actuelle », et la consigne d'inscrire sur le formulaire la valeur réelle soutenue par le demandeur."
+  },
+  {
+   "url": "https://www.laval.ca/wp-content/uploads/2026/02/compte-taxe-comprendre-facture-2026.pdf",
+   "title": "Comprendre votre facture, compte de taxes 2026",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-23",
+   "supports": "Les taux lavallois 2026 appliqués sur la valeur (taxe foncière de base 0,004973, contribution ARTM 0,000825, taux de base pour l'eau 0,000111), utilisés pour le calcul des économies, ainsi que l'étalement sur 3 ans des variations entre les rôles 2022-2023-2024 et 2025-2026-2027 et l'identification du rôle lavallois courant."
+  },
+  {
+   "url": "https://www.taq.gouv.qc.ca/recours-au-tribunal/expropriation/frais-de-recours-frais-de-justice",
+   "title": "Frais de recours et frais de justice",
+   "publisher": "Tribunal administratif du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Les frais de recours 2026 en matière d'évaluation foncière municipale (93,20 $, 372,60 $, 621,10 $ et 1 242,50 $ selon la valeur inscrite au rôle) et la règle selon laquelle, sous 500 000 $ de valeur au rôle, les seuls frais de justice réclamables au requérant sont les frais de sténographie, de sténotypie ou d'enregistrement et les frais de transcription."
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/information-fonciere/evaluation-fonciere/soutien-municipalites/fixation-tarifs-demandes-revision",
+   "title": "Fixation des tarifs des demandes de révision du rôle d'évaluation foncière",
+   "publisher": "Gouvernement du Québec, ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-09-23",
+   "supports": "L'article 263.2 de la Loi sur la fiscalité municipale, le fait que la somme n'est exigible que si un règlement de l'organisme municipal la prévoit, et le plafond : le montant ne peut excéder celui qui devrait être versé avec une requête devant le Tribunal administratif du Québec."
+  }
+ ],
+ "claims_needing_review": [
+  "Date de référence du 1er juillet 2023 pour le rôle lavallois 2025-2026-2027 : déduite de la règle des 18 mois publiée par la Ville de Montréal et de la Ville de Laval, combinée aux années du rôle confirmées sur le compte de taxes 2026 de Laval. Les pages laval.ca décrivant le dépôt du rôle n'ont pas pu être ouvertes directement. À confirmer sur laval.ca avant publication.",
+  "Grille de frais de Montréal citée telle quelle au 23 septembre 2026 : les montants sont fixés par règlement municipal et suivent le plafond du TAQ, donc à revalider au prochain exercice financier."
+ ]
+}

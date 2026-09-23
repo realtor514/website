@@ -103,9 +103,13 @@ def check(path):
     if meta.get("draft", "").lower() != "true":
         warnings.append("draft n est pas true")
 
+    # Google tronque vers 155. Les articles existants du site vont jusqu a 218,
+    # donc un depassement modeste est un avis, pas une erreur.
     desc = meta.get("description", "")
-    if len(desc) > 155:
+    if len(desc) > 175:
         errors.append("description de %d caracteres, maximum 155" % len(desc))
+    elif len(desc) > 155:
+        warnings.append("description de %d caracteres, vise 155" % len(desc))
     elif len(desc) < 70:
         warnings.append("description courte (%d caracteres)" % len(desc))
 

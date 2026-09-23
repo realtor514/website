@@ -46,7 +46,15 @@ def gate1():
     order = {"PASS": 0, "REVIEW": 1, "FAIL": 2}
     tally = {}
 
+    # Un sujet deja ecrit, deja reclame ou deja tranche ne se rejuge pas.
+    terminal = {"written_draft", "written_draft_review", "in_progress", "done",
+                "already_covered", "failed_duplicate", "blocked_duplicate",
+                "error_retry_later", "update_candidate"}
+
     for row in plan["topics"]:
+        if row.get("status") in terminal:
+            tally[row["status"]] = tally.get(row["status"], 0) + 1
+            continue
         heads = row.get("planned_h2", [])
         checks = {
             "slug": dedupe.slug_check(row["slug"], index, "fr"),
