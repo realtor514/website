@@ -16,13 +16,13 @@ Rien n'empêche quelqu'un de s'annoncer inspecteur en bâtiment demain matin au 
 
 Un courtier immobilier détient un permis délivré par l'OACIQ. Un architecte et un ingénieur appartiennent à un ordre professionnel qui peut les radier. L'inspecteur en bâtiment, lui, n'a aujourd'hui ni ordre professionnel ni titre réservé. Deux personnes peuvent facturer le même montant pour la même maison avec des compétences qui n'ont rien à voir l'une avec l'autre.
 
-Ce n'est pas un détail théorique. C'est la raison pour laquelle deux acheteurs devant la même propriété peuvent recevoir deux rapports qui ne se ressemblent pas. Le prix ne vous dit rien à ce sujet: pour ce que coûte une inspection et à quel moment la faire, lisez [combien coûte une inspection préachat et quand la faire](/articles/inspection-preachat-cout-moment-quebec/). Cet article-ci ne parle que d'une chose: comment choisir la personne.
+C'est la raison pour laquelle deux acheteurs devant la même propriété peuvent recevoir deux rapports qui ne se ressemblent pas. Le prix ne vous dit rien à ce sujet: pour le coût et le moment, lisez [combien coûte une inspection préachat et quand la faire](/articles/inspection-preachat-cout-moment-quebec/). Ici, une seule question: comment choisir la personne.
 
 ## Le certificat de la RBQ est volontaire jusqu'au 30 septembre 2027
 
 Le Conseil des ministres a adopté le 14 février 2024 le règlement encadrant les inspecteurs en bâtiment d'habitation. Il est entré en vigueur le 1er octobre 2024, avec une période transitoire de trois ans. Pendant cette période, un inspecteur déjà en pratique peut continuer à travailler sans certificat. À partir du 1er octobre 2027, toute inspection faite dans le cadre d'une transaction immobilière exigera un certificat valide de la RBQ.
 
-Nous sommes donc dans la dernière année de l'ancien régime. Concrètement, en 2026, un inspecteur certifié existe déjà, et un inspecteur non certifié est parfaitement légal.
+Nous sommes donc dans la dernière année de l'ancien régime: en 2026, l'inspecteur certifié existe déjà, et l'inspecteur non certifié est parfaitement légal.
 
 Le certificat se décline en deux catégories. La catégorie 1 couvre les bâtiments de 1 à 6 logements et les parties privatives d'une copropriété. La catégorie 2 couvre tout type de bâtiment résidentiel. Pour l'obtenir, la RBQ exige une attestation d'études collégiales en inspection de bâtiment, le respect de la norme BNQ 3009-500, et une assurance de responsabilité professionnelle propre à l'activité d'inspecteur: un million de dollars en catégorie 1, deux millions en catégorie 2. Le certificat se renouvelle chaque année.
 
@@ -55,7 +55,7 @@ Deux couvertures sont en jeu: l'assurance de responsabilité civile générale e
 
 Ce que vous demandez, ce n'est pas une affirmation, c'est une attestation d'assurance émise par l'assureur, au nom de l'inspecteur ou de son entreprise, avec les dates de validité et le montant. Un contrat de service conforme au règlement indique d'ailleurs le nom de l'assureur.
 
-Une deuxième question, moins évidente, vaut la peine d'être posée: si une réclamation arrive dans deux ans pour une inspection faite aujourd'hui, la police en vigueur à ce moment-là répond-elle? La réponse dépend du type de contrat d'assurance, et c'est à l'inspecteur et à son assureur de vous l'expliquer clairement.
+Deuxième question, moins évidente: si une réclamation arrive dans deux ans pour une inspection faite aujourd'hui, la police en vigueur à ce moment-là répond-elle? Cela dépend du type de contrat d'assurance, et c'est à l'inspecteur de vous l'expliquer clairement.
 
 ## Le contrat de service et la norme de pratique
 
