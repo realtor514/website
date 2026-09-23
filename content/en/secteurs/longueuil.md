@@ -40,11 +40,11 @@ Longueuil is the gateway to the South Shore, and one of the few off-island citie
 
 ## Three boroughs, three markets
 
-**Vieux-Longueuil** holds most of the plex market and the older housing stock. Streets within walking distance of the Longueuil-Université-de-Sherbrooke station trade at prices that have little to do with the rest of the city: it is the only place on the South Shore where a buyer can genuinely go without a car.
+**[Vieux-Longueuil](/en/real-estate-broker/vieux-longueuil/)** holds most of the plex market and the older housing stock. Streets within walking distance of the Longueuil-Université-de-Sherbrooke station trade at prices that have little to do with the rest of the city: it is the only place on the South Shore where a buyer can genuinely go without a car.
 
-**Saint-Hubert** is the most affordable and the largest sector. Mostly single-family stock, larger lots, and an offering that attracts families priced out of Brossard or Boucherville. It is also where price gaps between two streets are widest.
+**[Saint-Hubert](/en/real-estate-broker/saint-hubert-longueuil/)** is the most affordable and the largest sector. Mostly single-family stock, larger lots, and an offering that attracts families priced out of Brossard or Boucherville. It is also where price gaps between two streets are widest.
 
-**Greenfield Park** keeps its own identity, with a historic anglophone community and housing stock from the 1950s through the 1970s. Mature lots and established trees are a real argument for part of the buyer pool.
+**Greenfield Park** keeps its own identity, inherited from its status as a separate municipality until the mergers, with housing stock from the 1950s through the 1970s. Mature lots and established trees are a real argument for part of the buyer pool.
 
 ## What to check first here
 

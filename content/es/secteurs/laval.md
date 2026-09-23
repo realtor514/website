@@ -37,7 +37,7 @@ faq:
   - q: "¿Cuánto cuesta una evaluación de mi propiedad en Laval?"
     a: "Nada. El análisis comparativo de mercado preparado para un vendedor es gratuito y sin compromiso. Usted se queda con los comparables reales de su calle, no con una estimación generada por un algoritmo."
   - q: "¿Es Laval un buen mercado para una primera compra?"
-    a: "Para muchos compradores, sí. Los sectores servidos por la línea naranja del metro, Pont-Viau, Laval-des-Rapides y Duvernay, suelen ofrecer una mejor relación superficie/precio que los barrios centrales de Montreal, con acceso directo al centro. Es un cálculo caso por caso, y lo hago con usted antes de que visite nada."
+    a: "Para muchos compradores, sí. Laval tiene tres estaciones de la línea naranja: Cartier en Pont-Viau, De la Concorde y Montmorency en Laval-des-Rapides. Los sectores que las rodean suelen ofrecer una mejor relación superficie/precio que los barrios centrales de Montreal, con acceso directo al centro. Desde el 17 de noviembre de 2025, Sainte-Dorothée tiene además su estación del REM. Es un cálculo caso por caso, y lo hago con usted antes de que visite nada."
   - q: "¿Trabaja con inversores en Laval?"
     a: "Sí. Los plex de Chomedey, Pont-Viau y Laval-des-Rapides representan una parte importante de mi trabajo. Analizo el rendimiento real antes de la visita: ingresos, impuestos, gastos, reserva para obras, y no la tasa anunciada en la ficha."
   - q: "¿En qué idiomas ofrece sus servicios?"
@@ -50,11 +50,11 @@ Laval es una de las seis zonas que cubro por igual, junto a Montreal, Terrebonne
 
 Laval no es un suburbio homogéneo. Es una ciudad de 450 000 habitantes que contiene al menos cuatro mercados distintos.
 
-**El corredor del metro** (Pont-Viau, Laval-des-Rapides, parte de Duvernay) se comporta como una prolongación de Montreal. Los compradores buscan allí el compromiso clásico: más espacio que en Villeray o Rosemont, sin perder el acceso al centro. Predominan los condominios y los plex, y la demanda se mantiene incluso cuando el resto del mercado se enfría.
+**El corredor del metro** (Pont-Viau, Laval-des-Rapides, y la franja de [Duvernay](/es/corredor-inmobiliario/duvernay-laval/) más cercana a la estación Cartier) se comporta como una prolongación de Montreal. Los compradores buscan allí el compromiso clásico: más espacio que en Villeray o Rosemont, sin perder el acceso al centro. Predominan los condominios y los plex, y la demanda se mantiene incluso cuando el resto del mercado se enfría.
 
-**El oeste y el norte** (Sainte-Dorothée, Fabreville, Sainte-Rose, Laval-Ouest) son mercados de casas unifamiliares, a menudo familiares, donde el factor determinante es la escuela y no el transporte público. Los plazos de venta son más sensibles a la estación que en el resto de Laval.
+**El oeste y el norte** ([Sainte-Dorothée](/es/corredor-inmobiliario/sainte-dorothee-laval/), Fabreville, Sainte-Rose, Laval-Ouest) son mercados de casas unifamiliares, a menudo familiares, donde la escuela pesa mucho en la decisión. Sainte-Dorothée es ahora la excepción en transporte: su estación del REM está en servicio desde el 17 de noviembre de 2025. Los plazos de venta son más sensibles a la estación que en el resto de Laval.
 
-**Chomedey** es un caso aparte: alta densidad, mezcla de condominios, plex y unifamiliares, y una clientela internacional importante. Es también el sector donde veo mayores diferencias entre el precio pedido y el valor real, en ambos sentidos.
+**[Chomedey](/es/corredor-inmobiliario/chomedey-laval/)** es un caso aparte: alta densidad, mezcla de condominios, plex y unifamiliares, y corredores comerciales en redesarrollo. Es también el sector donde veo mayores diferencias entre el precio pedido y el valor real, en ambos sentidos.
 
 **El noreste** (Saint-François, Saint-Vincent-de-Paul, Auteuil) sigue siendo más asequible, con terrenos más grandes. Es donde suelen encontrar los compradores que quedaron fuera de Duvernay o Vimont.
 

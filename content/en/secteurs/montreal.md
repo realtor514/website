@@ -54,7 +54,7 @@ On the island, the Montreal average means nothing. A triplex in Villeray and a t
 
 **Rosemont-La Petite-Patrie** remains one of the most liquid plex markets on the island. The price per square foot is high, but resale is rarely a problem.
 
-**Saint-Léonard, Anjou, Montréal-Nord and Rivière-des-Prairies** still offer single-family homes and duplexes at prices that no longer exist in central neighbourhoods. These are also sectors where parking, lot size and interior space matter more to local buyers than metro proximity.
+**[Saint-Léonard](/en/real-estate-broker/saint-leonard-montreal/), Anjou, Montréal-Nord and [Rivière-des-Prairies](/en/real-estate-broker/riviere-des-prairies-montreal/)** still offer single-family homes and duplexes at prices that no longer exist in central neighbourhoods. These are also sectors where parking, lot size and interior space matter more to local buyers than metro proximity.
 
 **Mercier-Hochelaga-Maisonneuve** has seen the fastest transformation in the east end. That creates opportunities, and also surprises: two streets apart can trade at very different prices.
 

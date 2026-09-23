@@ -37,7 +37,7 @@ faq:
   - q: "How much does a property evaluation in Laval cost?"
     a: "Nothing. The comparative market analysis prepared for a seller is free and carries no obligation. You leave with the real comparables from your street, not an algorithm-generated estimate."
   - q: "Is Laval a good market for a first purchase?"
-    a: "For many buyers, yes. The sectors served by the orange metro line, Pont-Viau, Laval-des-Rapides and Duvernay, often offer a better square-footage-to-price ratio than central Montreal neighbourhoods, with direct downtown access. It is a case-by-case calculation, and I do it with you before you visit anything."
+    a: "For many buyers, yes. Laval has three orange line stations: Cartier in Pont-Viau, De la Concorde and Montmorency in Laval-des-Rapides. The sectors around them often offer a better square-footage-to-price ratio than central Montreal neighbourhoods, with direct downtown access. Since November 17, 2025, Sainte-Dorothée also has its own REM station. It is a case-by-case calculation, and I do it with you before you visit anything."
   - q: "Do you work with investors in Laval?"
     a: "Yes. Plexes in Chomedey, Pont-Viau and Laval-des-Rapides make up a significant part of the Laval market. I analyze the real return before the visit: income, taxes, operating costs, capital reserve, not the cap rate printed in the listing."
   - q: "What languages do you work in?"
@@ -50,11 +50,11 @@ Laval is one of six areas I cover equally, alongside Montreal, Terrebonne, Blain
 
 Laval is not a uniform suburb. It is a city of 450,000 people containing at least four distinct markets.
 
-**The metro corridor** (Pont-Viau, Laval-des-Rapides, part of Duvernay) behaves like an extension of Montreal. Buyers there are looking for the classic trade-off: more space than Villeray or Rosemont without losing downtown access. Condos and plexes dominate, and demand holds up even when the rest of the market slows.
+**The metro corridor** (Pont-Viau, Laval-des-Rapides, and the edge of [Duvernay](/en/real-estate-broker/duvernay-laval/) closest to Cartier station) behaves like an extension of Montreal. Buyers there are looking for the classic trade-off: more space than Villeray or Rosemont without losing downtown access. Condos and plexes dominate, and demand holds up even when the rest of the market slows.
 
-**The west and north** (Sainte-Dorothée, Fabreville, Sainte-Rose, Laval-Ouest) are single-family markets, largely family-driven, where the deciding factor is the school rather than transit. Selling timelines here are more seasonally sensitive than elsewhere in Laval.
+**The west and north** ([Sainte-Dorothée](/en/real-estate-broker/sainte-dorothee-laval/), Fabreville, Sainte-Rose, Laval-Ouest) are single-family markets, largely family-driven, where the school weighs heavily in the decision. Sainte-Dorothée is now the exception on transit: its REM station has been in service since November 17, 2025. Selling timelines here are more seasonally sensitive than elsewhere in Laval.
 
-**Chomedey** is its own case: high density, a mix of condos, plexes and single-family homes, and a significant international clientele. It is also the sector where I see the widest gaps between asking price and real value, in both directions.
+**[Chomedey](/en/real-estate-broker/chomedey-laval/)** is its own case: high density, a mix of condos, plexes and single-family homes, and commercial corridors under redevelopment. It is also the sector where I see the widest gaps between asking price and real value, in both directions.
 
 **The northeast** (Saint-François, Saint-Vincent-de-Paul, Auteuil) remains more affordable, with larger lots. This is where buyers priced out of Duvernay or Vimont often end up finding what they want.
 

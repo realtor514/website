@@ -27,7 +27,7 @@ faq:
   - q: "¿Es Terrebonne una buena elección para una familia?"
     a: "Es una de las principales razones por las que los compradores llegan aquí. Los terrenos son más grandes que en Laval con el mismo presupuesto, la oferta escolar es buena y los sectores recientes como Urbanova se planificaron con parques y senderos en lugar de simples hileras de bungalós."
   - q: "¿Cuál es la diferencia entre el Viejo Terrebonne y Lachenaie?"
-    a: "El Viejo Terrebonne es un sector patrimonial, con propiedades más antiguas, carácter real y a veces restricciones de renovación ligadas a su condición protegida. Lachenaie está compuesto mayoritariamente por desarrollos de los últimos treinta años, con casas más grandes y estandarizadas. Los dos se negocian de forma distinta."
+    a: "El Viejo Terrebonne es un sitio patrimonial declarado: dentro del perímetro, modificar el exterior de un edificio, demolerlo o construir exige una autorización del ministère de la Culture et des Communications, además del permiso municipal. Las propiedades son más antiguas y el carácter es real, pero las obras se planifican antes de la oferta, no después. El detalle está en mi página [Vieux-Terrebonne](/es/corredor-inmobiliario/vieux-terrebonne/). Lachenaie está compuesto mayoritariamente por desarrollos de los últimos treinta años, con casas más grandes y estandarizadas. Los dos se negocian de forma distinta."
   - q: "¿El trayecto hacia Montreal es un obstáculo?"
     a: "Es el cálculo real que hay que hacer antes de comprar. La autopista 640 y el puente Charles-De Gaulle están congestionados en hora punta. El tren de cercanías y los estacionamientos disuasorios cambian la ecuación para algunos compradores, no para todos. Mi consejo: haga el trayecto real a la hora en que lo haría, antes de comprometerse."
   - q: "¿Ofrece evaluaciones gratuitas en Terrebonne?"
@@ -38,7 +38,7 @@ Terrebonne atrae a muchos compradores que empezaron su búsqueda más cerca de l
 
 ## Cuatro sectores, cuatro mercados
 
-**El Viejo Terrebonne** es el único sector de la región con un verdadero núcleo patrimonial. Las propiedades tienen un carácter que no se reproduce, pero también las realidades de un edificio antiguo: cimientos, aislamiento, sistemas eléctricos. No es un defecto, es un dato que hay que integrar en el precio y en la inspección.
+**[El Viejo Terrebonne](/es/corredor-inmobiliario/vieux-terrebonne/)** es el único sector de la región con un verdadero núcleo patrimonial, y es un sitio patrimonial declarado: toda modificación exterior pasa por una autorización ministerial antes del permiso. Las propiedades tienen un carácter que no se reproduce, pero también las realidades de un edificio antiguo: cimientos, aislamiento, sistemas eléctricos. No es un defecto, es un dato que hay que integrar en el precio, en la inspección y en el calendario de las obras.
 
 **Lachenaie** representa el volumen: casas construidas mayoritariamente entre 1990 y 2015, calles de barrio, compradores familiares. Es el sector donde los comparables son más fiables, porque las propiedades se parecen lo suficiente para que la comparación tenga sentido.
 

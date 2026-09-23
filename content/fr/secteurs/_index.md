@@ -15,6 +15,8 @@ C'est pour cette raison que je travaille par secteur plutôt que par grand terri
 
 **Rive-Sud et Montérégie:** Longueuil, Brossard, Boucherville, Saint-Bruno-de-Montarville, Chambly, La Prairie, Candiac, Delson, Sainte-Julie, Varennes, Saint-Basile-le-Grand, Beloeil, Mont-Saint-Hilaire, Carignan, Châteauguay, Saint-Constant, Sainte-Catherine.
 
+**Les pages de quartier.** Huit secteurs descendent d'un cran, plus précis que la page de leur ville: [Chomedey](/courtier-immobilier/chomedey-laval/), [Duvernay](/courtier-immobilier/duvernay-laval/) et [Sainte-Dorothée](/courtier-immobilier/sainte-dorothee-laval/) à Laval, [Rivière-des-Prairies](/courtier-immobilier/riviere-des-prairies-montreal/) et [Saint-Léonard](/courtier-immobilier/saint-leonard-montreal/) à Montréal, [le Vieux-Longueuil](/courtier-immobilier/vieux-longueuil/) et [Saint-Hubert](/courtier-immobilier/saint-hubert-longueuil/), et [le Vieux-Terrebonne](/courtier-immobilier/vieux-terrebonne/).
+
 Chaque page ci-dessous décrit ce qui caractérise réellement le secteur: les quartiers, les types de propriétés dominants, ce qui fait bouger les prix localement et les erreurs que je vois le plus souvent chez les acheteurs et les vendeurs.
 
 Je travaille en français, en anglais, en espagnol et en arabe. Si votre secteur n'apparaît pas dans la liste, écrivez-moi quand même: je dessers l'ensemble du Grand Montréal, des Laurentides et de Lanaudière.

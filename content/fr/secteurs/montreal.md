@@ -54,7 +54,7 @@ Sur l'île, la moyenne montréalaise ne signifie rien. Un triplex à Villeray et
 
 **Rosemont-La Petite-Patrie** reste l'un des marchés de plex les plus liquides de l'île. Le prix au pied carré y est élevé, mais la revente y est rarement un problème.
 
-**Saint-Léonard, Anjou, Montréal-Nord et Rivière-des-Prairies** offrent encore des unifamiliales et des duplex à des prix qui n'existent plus dans les quartiers centraux. Ce sont aussi des secteurs où le stationnement, le terrain et l'espace intérieur comptent davantage que la proximité du métro pour la clientèle locale.
+**[Saint-Léonard](/courtier-immobilier/saint-leonard-montreal/), Anjou, Montréal-Nord et [Rivière-des-Prairies](/courtier-immobilier/riviere-des-prairies-montreal/)** offrent encore des unifamiliales et des duplex à des prix qui n'existent plus dans les quartiers centraux. Ce sont aussi des secteurs où le stationnement, le terrain et l'espace intérieur comptent davantage que la proximité du métro pour la clientèle locale.
 
 **Mercier-Hochelaga-Maisonneuve** a connu la transformation la plus rapide de l'est. Cela crée des occasions, et aussi des surprises: deux rues peuvent se négocier à des prix très différents.
 

@@ -27,7 +27,7 @@ faq:
   - q: "Terrebonne est-elle un bon choix pour une famille?"
     a: "C'est l'une des principales raisons pour lesquelles les acheteurs y viennent. Les terrains sont plus grands qu'à Laval à budget égal, l'offre scolaire est bonne et les secteurs récents comme Urbanova ont été planifiés avec des parcs et des sentiers plutôt que comme de simples rangées de bungalows."
   - q: "Quelle est la différence entre le Vieux-Terrebonne et Lachenaie?"
-    a: "Le Vieux-Terrebonne est un secteur patrimonial, avec des propriétés plus anciennes, un cachet réel et parfois des contraintes de rénovation liées au caractère du secteur. Lachenaie est majoritairement composé de développements des trente dernières années, avec des maisons plus grandes et plus standardisées. Les deux se négocient différemment."
+    a: "Le Vieux-Terrebonne est un site patrimonial déclaré: à l'intérieur du périmètre, modifier l'extérieur d'un bâtiment, le démolir ou construire exige une autorisation du ministère de la Culture et des Communications, en plus du permis municipal. Les propriétés y sont plus anciennes et le cachet est réel, mais les travaux se planifient avant l'offre, pas après. Le détail est sur ma page [Vieux-Terrebonne](/courtier-immobilier/vieux-terrebonne/). Lachenaie est majoritairement composé de développements des trente dernières années, avec des maisons plus grandes et plus standardisées. Les deux se négocient différemment."
   - q: "Le trajet vers Montréal est-il un frein?"
     a: "C'est le vrai calcul à faire avant d'acheter. L'autoroute 640 et le pont Charles-De Gaulle sont congestionnés aux heures de pointe. Le train de banlieue et les stationnements incitatifs changent l'équation pour certains acheteurs, pas pour tous. Je vous conseille de faire le trajet réel à l'heure où vous le feriez, avant de vous engager."
   - q: "Faites-vous les évaluations gratuites à Terrebonne?"
@@ -38,7 +38,7 @@ Terrebonne attire beaucoup d'acheteurs qui ont d'abord cherché plus près de l'
 
 ## Quatre secteurs, quatre marchés
 
-**Le Vieux-Terrebonne** est le seul secteur de la région avec un véritable noyau patrimonial. Les propriétés y ont un cachet que l'on ne reproduit pas, mais aussi des réalités de bâtiment ancien: fondations, isolation, systèmes électriques. Ce n'est pas un défaut, c'est une donnée à intégrer dans le prix et dans l'inspection.
+**[Le Vieux-Terrebonne](/courtier-immobilier/vieux-terrebonne/)** est le seul secteur de la région avec un véritable noyau patrimonial, et c'est un site patrimonial déclaré: toute modification extérieure y passe par une autorisation ministérielle avant le permis. Les propriétés y ont un cachet que l'on ne reproduit pas, mais aussi des réalités de bâtiment ancien: fondations, isolation, systèmes électriques. Ce n'est pas un défaut, c'est une donnée à intégrer dans le prix, dans l'inspection et dans le calendrier des travaux.
 
 **Lachenaie** représente le volume: des maisons construites majoritairement entre 1990 et 2015, des rues de quartier, des acheteurs familiaux. C'est le secteur où les comparables sont les plus fiables, parce que les propriétés se ressemblent suffisamment pour que la comparaison ait un sens.
 

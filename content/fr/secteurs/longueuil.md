@@ -40,11 +40,11 @@ Longueuil est la porte d'entrée de la Rive-Sud, et l'une des rares villes de la
 
 ## Trois arrondissements, trois marchés
 
-**Le Vieux-Longueuil** concentre l'essentiel du marché de plex et des propriétés anciennes. Les rues situées à distance de marche de la station Longueuil-Université-de-Sherbrooke se négocient à des prix qui n'ont plus grand-chose à voir avec le reste de la ville: c'est le seul endroit de la Rive-Sud où un acheteur peut se passer d'une voiture.
+**[Le Vieux-Longueuil](/courtier-immobilier/vieux-longueuil/)** concentre l'essentiel du marché de plex et des propriétés anciennes. Les rues situées à distance de marche de la station Longueuil-Université-de-Sherbrooke se négocient à des prix qui n'ont plus grand-chose à voir avec le reste de la ville: c'est le seul endroit de la Rive-Sud où un acheteur peut se passer d'une voiture.
 
-**Saint-Hubert** est le secteur le plus abordable et le plus vaste. Parc immobilier majoritairement unifamilial, terrains plus grands, et une offre qui attire les familles écartées de Brossard ou de Boucherville. C'est aussi le secteur où les écarts de prix entre deux rues sont les plus marqués.
+**[Saint-Hubert](/courtier-immobilier/saint-hubert-longueuil/)** est le secteur le plus abordable et le plus vaste. Parc immobilier majoritairement unifamilial, terrains plus grands, et une offre qui attire les familles écartées de Brossard ou de Boucherville. C'est aussi le secteur où les écarts de prix entre deux rues sont les plus marqués.
 
-**Greenfield Park** garde une identité propre, avec une communauté anglophone historique et un parc immobilier des années 1950 à 1970. Les terrains matures et les arbres établis y sont un argument réel pour une partie des acheteurs.
+**Greenfield Park** garde une identité propre, héritée de son statut de municipalité distincte jusqu'aux fusions, avec un parc immobilier des années 1950 à 1970. Les terrains matures et les arbres établis y sont un argument réel pour une partie des acheteurs.
 
 ## Ce qu'il faut vérifier en priorité ici
 

@@ -54,7 +54,7 @@ En la isla, la media de Montreal no significa nada. Un tríplex en Villeray y un
 
 **Rosemont-La Petite-Patrie** sigue siendo uno de los mercados de plex más líquidos de la isla. El precio por pie cuadrado es alto, pero la reventa rara vez es un problema.
 
-**Saint-Léonard, Anjou, Montréal-Nord y Rivière-des-Prairies** ofrecen todavía unifamiliares y dúplex a precios que ya no existen en los barrios centrales. Son también sectores donde el estacionamiento, el terreno y el espacio interior cuentan más que la proximidad al metro para la clientela local.
+**[Saint-Léonard](/es/corredor-inmobiliario/saint-leonard-montreal/), Anjou, Montréal-Nord y [Rivière-des-Prairies](/es/corredor-inmobiliario/riviere-des-prairies-montreal/)** ofrecen todavía unifamiliares y dúplex a precios que ya no existen en los barrios centrales. Son también sectores donde el estacionamiento, el terreno y el espacio interior cuentan más que la proximidad al metro para la clientela local.
 
 **Mercier-Hochelaga-Maisonneuve** ha vivido la transformación más rápida del este. Eso crea oportunidades, y también sorpresas: dos calles pueden negociarse a precios muy distintos.
 

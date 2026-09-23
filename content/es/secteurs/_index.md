@@ -15,6 +15,8 @@ Por eso trabajo por sector y no por gran territorio. Cubro treinta ciudades por 
 
 **Rive-Sud y Montérégie:** Longueuil, Brossard, Boucherville, Saint-Bruno-de-Montarville, Chambly, La Prairie, Candiac, Delson, Sainte-Julie, Varennes, Saint-Basile-le-Grand, Beloeil, Mont-Saint-Hilaire, Carignan, Châteauguay, Saint-Constant, Sainte-Catherine.
 
+**Las páginas de barrio.** Ocho sectores bajan un nivel, más precisos que la página de su ciudad: [Chomedey](/es/corredor-inmobiliario/chomedey-laval/), [Duvernay](/es/corredor-inmobiliario/duvernay-laval/) y [Sainte-Dorothée](/es/corredor-inmobiliario/sainte-dorothee-laval/) en Laval, [Rivière-des-Prairies](/es/corredor-inmobiliario/riviere-des-prairies-montreal/) y [Saint-Léonard](/es/corredor-inmobiliario/saint-leonard-montreal/) en Montreal, [el Vieux-Longueuil](/es/corredor-inmobiliario/vieux-longueuil/) y [Saint-Hubert](/es/corredor-inmobiliario/saint-hubert-longueuil/), y [el Viejo Terrebonne](/es/corredor-inmobiliario/vieux-terrebonne/).
+
 Cada página describe lo que realmente conozco del sector: los barrios, los tipos de propiedad dominantes, lo que mueve los precios localmente y los errores que veo con más frecuencia en compradores y vendedores.
 
 Trabajo en francés, inglés, español y árabe. Si su sector no aparece en la lista, escríbame igualmente: atiendo todo el Gran Montreal, las Laurentides y Lanaudière.

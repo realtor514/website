@@ -27,7 +27,7 @@ faq:
   - q: "Is Terrebonne a good choice for a family?"
     a: "It is one of the main reasons buyers come here. Lots are larger than in Laval at equal budget, the school offering is solid, and newer sectors like Urbanova were planned with parks and trails rather than as simple rows of bungalows."
   - q: "What is the difference between Old Terrebonne and Lachenaie?"
-    a: "Old Terrebonne is a heritage sector, with older properties, genuine character and sometimes renovation constraints tied to the area's protected status. Lachenaie is mostly made up of developments from the last thirty years, with larger and more standardized homes. The two negotiate differently."
+    a: "Old Terrebonne is a declared heritage site: inside the perimeter, altering the exterior of a building, demolishing it or building requires authorization from the ministère de la Culture et des Communications, on top of the municipal permit. Properties are older and the character is real, but the work is planned before the offer, not after. The detail is on my [Vieux-Terrebonne](/en/real-estate-broker/vieux-terrebonne/) page. Lachenaie is mostly made up of developments from the last thirty years, with larger and more standardized homes. The two negotiate differently."
   - q: "Is the commute to Montreal a problem?"
     a: "That is the real calculation to run before buying. Highway 640 and the Charles-De Gaulle bridge are congested at rush hour. The commuter train and park-and-ride lots change the equation for some buyers, not all. My advice: drive the actual commute at the actual hour before you commit."
   - q: "Do you offer free evaluations in Terrebonne?"
@@ -38,7 +38,7 @@ Terrebonne draws many buyers who started their search closer to the island. The 
 
 ## Four sectors, four markets
 
-**Old Terrebonne** is the only sector in the region with a genuine heritage core. Properties here have character that cannot be reproduced, but also the realities of older buildings: foundations, insulation, electrical systems. That is not a flaw, it is a data point to build into the price and the inspection.
+**[Old Terrebonne](/en/real-estate-broker/vieux-terrebonne/)** is the only sector in the region with a genuine heritage core, and it is a declared heritage site: any exterior change goes through a ministerial authorization before the permit. Properties here have character that cannot be reproduced, but also the realities of older buildings: foundations, insulation, electrical systems. That is not a flaw, it is a data point to build into the price, the inspection and the work schedule.
 
 **Lachenaie** carries the volume: homes built mostly between 1990 and 2015, neighbourhood streets, family buyers. This is the sector where comparables are most reliable, because properties resemble each other enough for the comparison to mean something.
 

@@ -15,6 +15,8 @@ That is why I work by sector rather than by broad territory. I cover thirty citi
 
 **South Shore and Montérégie:** Longueuil, Brossard, Boucherville, Saint-Bruno-de-Montarville, Chambly, La Prairie, Candiac, Delson, Sainte-Julie, Varennes, Saint-Basile-le-Grand, Beloeil, Mont-Saint-Hilaire, Carignan, Châteauguay, Saint-Constant, Sainte-Catherine.
 
+**Neighbourhood pages.** Eight areas go one level deeper than their city page: [Chomedey](/en/real-estate-broker/chomedey-laval/), [Duvernay](/en/real-estate-broker/duvernay-laval/) and [Sainte-Dorothée](/en/real-estate-broker/sainte-dorothee-laval/) in Laval, [Rivière-des-Prairies](/en/real-estate-broker/riviere-des-prairies-montreal/) and [Saint-Léonard](/en/real-estate-broker/saint-leonard-montreal/) in Montreal, [Vieux-Longueuil](/en/real-estate-broker/vieux-longueuil/) and [Saint-Hubert](/en/real-estate-broker/saint-hubert-longueuil/), and [Old Terrebonne](/en/real-estate-broker/vieux-terrebonne/).
+
 Each page below describes what actually defines the area: the neighbourhoods, the dominant property types, what moves prices locally, and the mistakes I see most often from buyers and sellers.
 
 I work in French, English, Spanish and Arabic. If your area is not on the list, write to me anyway: I serve Greater Montreal, the Laurentians and Lanaudière.

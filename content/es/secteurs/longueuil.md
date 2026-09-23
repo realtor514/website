@@ -40,11 +40,11 @@ Longueuil es la puerta de entrada de la Rive-Sud y una de las pocas ciudades de 
 
 ## Tres distritos, tres mercados
 
-**El Vieux-Longueuil** concentra lo esencial del mercado de plex y de las propiedades antiguas. Las calles a distancia caminable de la estación Longueuil-Université-de-Sherbrooke se negocian a precios que poco tienen que ver con el resto de la ciudad: es el único lugar de la Rive-Sud donde un comprador puede prescindir del coche.
+**[El Vieux-Longueuil](/es/corredor-inmobiliario/vieux-longueuil/)** concentra lo esencial del mercado de plex y de las propiedades antiguas. Las calles a distancia caminable de la estación Longueuil-Université-de-Sherbrooke se negocian a precios que poco tienen que ver con el resto de la ciudad: es el único lugar de la Rive-Sud donde un comprador puede prescindir del coche.
 
-**Saint-Hubert** es el sector más asequible y el más extenso. Parque inmobiliario mayoritariamente unifamiliar, terrenos más grandes y una oferta que atrae a familias desplazadas de Brossard o Boucherville. Es también donde las diferencias de precio entre dos calles son más marcadas.
+**[Saint-Hubert](/es/corredor-inmobiliario/saint-hubert-longueuil/)** es el sector más asequible y el más extenso. Parque inmobiliario mayoritariamente unifamiliar, terrenos más grandes y una oferta que atrae a familias desplazadas de Brossard o Boucherville. Es también donde las diferencias de precio entre dos calles son más marcadas.
 
-**Greenfield Park** conserva una identidad propia, con una comunidad anglófona histórica y un parque inmobiliario de los años 1950 a 1970. Los terrenos maduros y los árboles establecidos son un argumento real para parte de los compradores.
+**Greenfield Park** conserva una identidad propia, heredada de su condición de municipio distinto hasta las fusiones, con un parque inmobiliario de los años 1950 a 1970. Los terrenos maduros y los árboles establecidos son un argumento real para parte de los compradores.
 
 ## Lo que hay que verificar primero aquí
 

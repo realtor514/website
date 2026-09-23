@@ -37,7 +37,7 @@ faq:
   - q: "Combien coûte une évaluation de ma propriété à Laval?"
     a: "Rien. L'analyse comparative de marché préparée pour un vendeur est gratuite et sans engagement. Vous repartez avec les comparables réels de votre rue, pas avec une estimation générée par un algorithme."
   - q: "Est-ce que Laval est un bon marché pour un premier achat?"
-    a: "Pour beaucoup d'acheteurs, oui. Les secteurs desservis par la ligne orange du métro, Pont-Viau, Laval-des-Rapides et Duvernay, offrent souvent un meilleur rapport superficie/prix que les quartiers centraux de Montréal, avec un accès direct au centre-ville. C'est un calcul à faire cas par cas: je le fais avec vous avant que vous visitiez quoi que ce soit."
+    a: "Pour beaucoup d'acheteurs, oui. Laval compte trois stations de la ligne orange: Cartier à Pont-Viau, De la Concorde et Montmorency à Laval-des-Rapides. Les secteurs qui les entourent offrent souvent un meilleur rapport superficie/prix que les quartiers centraux de Montréal, avec un accès direct au centre-ville. Depuis le 17 novembre 2025, Sainte-Dorothée a aussi sa station du REM. C'est un calcul à faire cas par cas: je le fais avec vous avant que vous visitiez quoi que ce soit."
   - q: "Travaillez-vous avec les investisseurs à Laval?"
     a: "Oui. Les plex de Chomedey, Pont-Viau et Laval-des-Rapides forment une part importante du marché lavallois. Le rendement réel s'analyse avant la visite: revenus, taxes, charges, réserve pour travaux, et non le taux affiché dans l'inscription."
   - q: "Dans quelles langues offrez-vous vos services?"
@@ -50,11 +50,11 @@ Laval fait partie des six secteurs que je couvre au même titre, avec Montréal,
 
 Laval n'est pas une banlieue homogène. C'est une ville de 450 000 habitants qui contient au moins quatre marchés distincts.
 
-**Le corridor du métro** (Pont-Viau, Laval-des-Rapides, une partie de Duvernay) se comporte comme un prolongement de Montréal. Les acheteurs y cherchent le compromis classique: plus d'espace qu'à Villeray ou Rosemont, sans perdre l'accès au centre-ville. Les condos et les plex y dominent, et la demande reste soutenue même quand le reste du marché ralentit.
+**Le corridor du métro** (Pont-Viau, Laval-des-Rapides, et la frange de [Duvernay](/courtier-immobilier/duvernay-laval/) la plus proche de la station Cartier) se comporte comme un prolongement de Montréal. Les acheteurs y cherchent le compromis classique: plus d'espace qu'à Villeray ou Rosemont, sans perdre l'accès au centre-ville. Les condos et les plex y dominent, et la demande reste soutenue même quand le reste du marché ralentit.
 
-**L'ouest et le nord** (Sainte-Dorothée, Fabreville, Sainte-Rose, Laval-Ouest) sont des marchés de maisons unifamiliales, souvent familiales, où le facteur déterminant est l'école et non le transport en commun. Les délais de vente y sont plus sensibles à la saison qu'ailleurs à Laval.
+**L'ouest et le nord** ([Sainte-Dorothée](/courtier-immobilier/sainte-dorothee-laval/), Fabreville, Sainte-Rose, Laval-Ouest) sont des marchés de maisons unifamiliales, souvent familiales, où l'école pèse lourd dans la décision. Sainte-Dorothée fait désormais exception côté transport: sa station du REM est en service depuis le 17 novembre 2025. Les délais de vente y sont plus sensibles à la saison qu'ailleurs à Laval.
 
-**Chomedey** est un cas à part: forte densité, mixité de condos, de plex et d'unifamiliales, et une clientèle internationale importante. C'est aussi l'un des secteurs où je vois le plus d'écarts entre le prix demandé et la valeur réelle, dans les deux sens.
+**[Chomedey](/courtier-immobilier/chomedey-laval/)** est un cas à part: forte densité, mixité de condos, de plex et d'unifamiliales, et des corridors commerciaux en redéveloppement. C'est aussi l'un des secteurs où je vois le plus d'écarts entre le prix demandé et la valeur réelle, dans les deux sens.
 
 **Le nord-est** (Saint-François, Saint-Vincent-de-Paul, Auteuil) reste plus abordable, avec des terrains plus grands. C'est là que les acheteurs qui ont été écartés de Duvernay ou de Vimont finissent souvent par trouver.
 
