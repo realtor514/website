@@ -165,8 +165,8 @@ s'entend à l'extérieur ou dans un autre local, le bruit d'appareils sonores,
 les cris et le tapage, et les instruments de musique entre 21 h et 8 h, en tout
 temps s'ils sont à percussion ou électriques. La plainte passe par le 311 ou le
 poste de quartier. À Laval, le règlement L-12084 encadre les nuisances : les
-travaux de construction et de rénovation sont tolérés la semaine de 7 h à 19 h
-et le samedi de 9 h à 17 h.
+travaux de rénovation sont tolérés la semaine de 7 h à 19 h et le samedi de
+9 h à 17 h.
 
 **Si vous êtes locataire.** L'article 1854 oblige le locateur à vous procurer la
 jouissance paisible du logement pendant toute la durée du bail, et l'article
@@ -212,5 +212,5 @@ Pour compléter, lisez [ce que vous achetez vraiment en copropriété](/articles
 ---
 
 *Vous hésitez entre deux immeubles et le bruit fait partie de l'équation ?
-[Écrivez-moi](/formulaire/), on organise les visites aux bonnes heures et on lit
-la déclaration de copropriété ensemble.*
+[Écrivez-moi](/formulaire/) : on organise les visites aux bonnes heures et on
+lit la déclaration ensemble.*

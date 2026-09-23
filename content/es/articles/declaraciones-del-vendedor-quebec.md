@@ -1,13 +1,13 @@
 ---
 title: "Las declaraciones del vendedor en Quebec: el formulario DV 00001"
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-09-23
 translationKey: "article-declaration-vendeur"
 category: "Guía del Vendedor"
 description: "El formulario DV 00001 es obligatorio y se anexa a la promesse d'achat. Lo que el vendedor declara realmente, y lo que arriesga si oculta un defecto."
 image: "images/articles/declaration-du-vendeur-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Muchos vendedores llenan las Déclarations du vendeur sur l'immeuble en quince

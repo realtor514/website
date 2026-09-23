@@ -1,0 +1,73 @@
+{
+ "id": "t123",
+ "slug": "declaration-du-vendeur-quebec",
+ "title": "Déclaration du vendeur au Québec : le formulaire DV 00001",
+ "target_keyword": "declaration du vendeur quebec",
+ "word_count": 1800,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/articles/home-inspection-checklist-montreal/",
+  "/articles/red-flags-walk-away-property/",
+  "/articles/renovations-dont-add-value/",
+  "/articles/worst-real-estate-deal-lessons/",
+  "/articles/vendre-avec-ou-sans-courtier-quebec/",
+  "/seller/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "title": "Déclarations du vendeur sur l'immeuble (formulaire obligatoire DV 00001)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Version en vigueur DV 00001, numéro V24 06/2022, treize pages, seize sections D1 à D16 et leurs intitulés exacts. Mention « À votre connaissance » en tête des sections D3 à D14. Questions citées : D2.6 f (dossier au Tribunal administratif du logement), D2.8 (hypothèques, servitudes, empiètements), D2.11 (nouveau certificat de localisation après ajout de piscine, cabanon, terrasse, clôture), D2.12 (avis de non-conformité), D3.3 et D3.4 (réservoir de mazout, déversement), D7.4 et D8.5 (amiante et vermiculite), D12.4 (réservoir à mazout au chauffage), D13.2 (tests et expertises : pyrite, pyrrhotite, radon, ocre, MIUF, amiante, drain de fondation), D14.4 (travaux importants, plans et devis, permis requis), D14.5 (question ouverte sur la valeur, les revenus, les dépenses, l'usage), D15 (Précisions, cases « ne sais pas », raisons des questions non répondues), D16 (engagement d'aviser le courtier de toute information obtenue après la signature), première page (liquidateur d'une succession) et rappel en majuscules de la page 11 sur les documents à fournir."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/articles/contexte-utilisation-du-formulaire-obligatoire-declarations-du-vendeur-immeuble",
+   "title": "Contexte d'utilisation du formulaire obligatoire Déclarations du vendeur sur l'immeuble",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Formulaire DV obligatoire depuis juillet 2012 pour la vente par une personne physique d'un immeuble principalement résidentiel de moins de 5 logements, y compris en copropriété par indivision ; formulaire DVD pour la copropriété divise. Remplissage conjoint avec le courtier au moment de la prise du contrat de courtage. Refus du vendeur : le courtier ne peut pas conclure de contrat de courtage. Formulaire annexé et identifié à la clause 13.1 de la Promesse d'achat, transmis au prêteur hypothécaire et remis à tout inspecteur qui le demande. Réponses au meilleur de la connaissance du vendeur et recours à la clause D-15 quand il ne peut pas répondre. Obligation du courtier de démontrer l'exactitude des renseignements."
+  },
+  {
+   "url": "https://www.oaciq.com/en/general-public/your-protections/the-interpretation-of-the-clause-of-sale-without-legal-warranty-has-evolved/",
+   "title": "The interpretation of the clause of sale without legal warranty has evolved",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Arrêt Tremblay c. Immeubles Perron ltée, 2024 QCCA 719, confirmant Blais c. Laforce (2022). Principes résumés : la clause d'exclusion totale impute à l'acheteur une connaissance présumée des vices ; l'acheteur ne peut plus poursuivre les propriétaires antérieurs ; dans une vente aux risques et périls, le seul silence du vendeur sur un vice connu ne constitue plus un dol, et l'acheteur doit prouver un mensonge, une demi-vérité ou une manoeuvre frauduleuse."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, RLRQ c. CCQ-1991",
+   "publisher": "Légis Québec",
+   "consulted": "2026-09-23",
+   "supports": "Texte intégral des articles cités : 1401 (dol, erreur provoquée, silence ou réticence), 1726 (garantie de qualité, vice caché connu de l'acheteur non garanti), 1728 (restitution du prix et réparation du préjudice si le vendeur connaissait le vice ou ne pouvait l'ignorer), 1732 (exclusion possible de la garantie, mais jamais des faits personnels), 1733 (interdiction d'exclure sa responsabilité pour un vice connu, exception de la vente aux risques et périls par un vendeur non professionnel), 1739 (dénonciation écrite dans un délai raisonnable et perte du moyen de la dénonciation tardive)."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-73.2,%20r.%201",
+   "title": "Règlement sur les conditions d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur la publicité, RLRQ c. C-73.2, r. 1",
+   "publisher": "Légis Québec",
+   "consulted": "2026-09-23",
+   "supports": "Article 5 (obligation du titulaire de permis de vérifier les renseignements fournis au public et de pouvoir en démontrer l'exactitude), article 84 (démarches pour découvrir les facteurs pouvant affecter défavorablement les parties) et article 85 (obligation d'informer de tout facteur connu)."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/immobilier-acheter-sans-garantie-legale/",
+   "title": "Immobilier : acheter sans garantie légale",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Mention obligatoire « sans aucune garantie légale, à vos risques et périls » dans la promesse d'achat et l'acte de vente ; la garantie ne couvre pas ce qui a été déclaré dans la déclaration du vendeur ; le recours qui subsiste repose sur la preuve d'une dissimulation déterminante."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/le-vice-cache-dans-un-immeuble/",
+   "title": "Le vice caché dans un immeuble",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Conditions du vice caché, examen sérieux, attentif et prudent attendu de l'acheteur, dénonciation écrite obligatoire au vendeur, distinction entre vendeur professionnel et non professionnel, et interdiction faite au vendeur de dissimuler un défaut connu."
+  }
+ ],
+ "claims_needing_review": [
+  "L'affirmation qu'une réponse sciemment inexacte au formulaire DV constitue un « fait personnel » au sens de l'article 1732 et un dol au sens de l'article 1401, et qu'elle survit donc à une clause de vente aux risques et périls, est une lecture combinée du Code civil et du résumé de l'OACIQ sur l'arrêt Tremblay. Elle demande une validation par un avocat avant publication.",
+  "La référence Tremblay c. Immeubles Perron ltée, 2024 QCCA 719 et la référence Blais c. Laforce (2022) proviennent de la page de l'OACIQ et d'une recherche web ; les jugements eux-mêmes n'ont pas été lus. À confirmer sur CanLII ou SOQUIJ.",
+  "Le formulaire DV ne pose aucune question générale sur un litige en cours : l'article le dit explicitement et renvoie à D2.6 f, D2.12 et D14.5. Vérifier qu'aucune version plus récente du formulaire que la V24 06/2022 n'ajoute une telle question."
+ ]
+}

@@ -22,9 +22,8 @@ la mécanique, puis les frais québécois qui s'ajoutent après.
 canadienne d'hypothèques et de logement décrit le prêt hypothécaire ouvert comme
 celui qu'il est possible de rembourser en tout ou en partie à n'importe quel moment
 sans pénalité, généralement contre un taux plus élevé. Le prêt fermé ne permet pas
-de rembourser la totalité avant l'échéance, et son taux est habituellement plus
-faible. Vous avez échangé de la souplesse contre du taux. La pénalité est le prix
-de reprise de cette souplesse.
+de rembourser la totalité avant l'échéance, et son taux est plus faible. Vous avez
+échangé de la souplesse contre du taux, et la pénalité est le prix de reprise.
 
 L'Agence de la consommation en matière financière du Canada donne l'ordre de
 grandeur : résilier une hypothèque fermée oblige habituellement à payer une
@@ -54,10 +53,8 @@ plus élevé que les taux en vigueur et que le contrat a moins de cinq ans. Rete
 la conséquence : si les taux courants sont égaux ou supérieurs au vôtre, le
 différentiel s'effondre vers zéro et il ne reste que les trois mois d'intérêts.
 
-Un mot sur ce qui ne déclenche rien. L'exemple d'encadré informatif publié par
-l'ACFC illustre des privilèges courants : une fois par année, augmenter le
-versement de 10 % ou verser 10 % du prêt initial, sans pénalité. C'est un exemple,
-pas une norme. Les vôtres sont dans votre contrat.
+Vos privilèges de remboursement anticipé, eux, ne déclenchent rien. Ils sont dans
+votre contrat, et ils ne s'appliquent pas à une résiliation complète.
 
 ## Le différentiel de taux d'intérêt, calculé étape par étape
 
@@ -214,10 +211,10 @@ vous renvoie à plus tard, demandez l'information annuelle : elle ne dépend
 d'aucune confirmation.
 
 **Mon voisin a payé 2 000 $ et moi 14 000 $. Comment est-ce possible ?**
-Deux raisons dominent. Sa pénalité était probablement les trois mois d'intérêts,
-parce que les taux courants n'étaient pas plus bas que le sien. Ou son contrat
-compare le taux du contrat au taux affiché courant, alors que le vôtre repart du
-taux affiché de départ diminué de votre rabais.
+Sa pénalité était probablement les trois mois d'intérêts, parce que les taux
+courants n'étaient pas plus bas que le sien. Ou son contrat compare le taux du
+contrat au taux affiché courant, alors que le vôtre repart du taux affiché de
+départ diminué de votre rabais.
 
 **Vaut-il mieux attendre l'échéance ?**
 Souvent, oui. À l'échéance, changer de prêteur ne déclenche aucune pénalité,
@@ -236,4 +233,4 @@ Pour compléter, lisez [ce qui se décide avant votre taux hypothécaire](/artic
 
 ---
 
-*Vous pesez une vente, un rachat ou un refinancement sur une propriété de Laval, de Montréal ou de la Rive-Nord ? [Écrivez-moi](/formulaire/). L'évaluation de la valeur marchande est gratuite et sans engagement, et elle vous donne le chiffre qui manque au calcul.*
+*Vous pesez une vente, un rachat ou un refinancement sur une propriété de Laval, de Montréal ou de la Rive-Nord ? [Écrivez-moi](/formulaire/). L'évaluation de la valeur marchande est gratuite et sans engagement.*

@@ -1,13 +1,13 @@
 ---
 title: "The Seller's Declaration in Quebec: The DV 00001 Form"
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-09-23
 translationKey: "article-declaration-vendeur"
 category: "Seller's Guide"
 description: "Form DV 00001 is mandatory and annexed to the promesse d'achat. What the seller actually declares, and what he risks by hiding a defect."
 image: "images/articles/declaration-du-vendeur-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Plenty of sellers fill out the Déclarations du vendeur sur l'immeuble in fifteen

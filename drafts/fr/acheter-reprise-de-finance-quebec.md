@@ -60,11 +60,10 @@ donc 60 jours, pas 30 et pas 90.
 
 Ce délai n'est pas un compte à rebours fatal. L'article 2761 permet au débiteur,
 ou à tout autre intéressé, de faire échec au droit du créancier en payant ce qui
-lui est dû ou en remédiant au défaut, et en payant les frais engagés. Ce droit
-s'exerce jusqu'à ce que le bien ait été pris en paiement ou vendu.
-
-Conséquence pratique pour vous: une propriété sous préavis n'est pas encore une
-reprise. Elle peut revenir à son propriétaire jusqu'au dernier moment.
+lui est dû ou en remédiant au défaut, et en payant les frais engagés, jusqu'à ce
+que le bien ait été pris en paiement ou vendu. Conséquence pratique: une
+propriété sous préavis n'est pas encore une reprise, et elle peut revenir à son
+propriétaire jusqu'au dernier moment.
 
 ## Prise en paiement ou vente sous contrôle de justice
 
@@ -85,9 +84,9 @@ qu'une prise en paiement, à des conditions précises.
 **La vente sous contrôle de justice.** Selon l'article 2791, c'est le tribunal
 qui désigne la personne chargée de vendre, détermine les conditions et les
 charges de la vente, indique si elle se fait de gré à gré, par appel d'offres ou
-aux enchères, et peut fixer une mise à prix après s'être enquis de la valeur du
-bien. Cette personne doit être indépendante des intéressés. L'article 2793
-l'oblige à agir au nom du propriétaire et à dénoncer sa qualité à l'acquéreur.
+aux enchères, et peut fixer une mise à prix. Cette personne doit être
+indépendante des intéressés et, selon l'article 2793, agir au nom du
+propriétaire en dénonçant sa qualité à l'acquéreur.
 
 | | Prise en paiement, puis revente | Vente sous contrôle de justice |
 |---|---|---|
@@ -168,34 +167,32 @@ faire rouvrir les services pour tester la plomberie et le chauffage. Les coûts
 et le bon moment sont dans [inspection préachat: combien ça coûte et quand la
 faire](/articles/inspection-preachat-cout-moment-quebec/).
 
-Ce que je ne peux pas affirmer: aucune source officielle ne me permet de dire
-qu'un prêteur ou un assureur refuse d'office une reprise de finance. Ce que je
-constate en dossier, c'est que la question se pose toujours et qu'elle se règle
-avant l'offre, jamais après. Posez-la à votre prêteur et à votre assureur en
-même temps, avec l'adresse et le type de vente. Et gardez une marge pour les
-travaux: votre plafond réel se calcule d'abord, avec le [calculateur de capacité
-d'emprunt](/tools/affordability/).
+Ce que je ne peux pas affirmer: aucune source officielle ne permet de dire qu'un
+prêteur ou un assureur refuse d'office une reprise de finance. La question se
+pose néanmoins chaque fois, et elle se règle avant l'offre. Posez-la au prêteur
+et à l'assureur en même temps, avec l'adresse et le type de vente, puis gardez
+une marge pour les travaux: le plafond réel se calcule d'abord, avec le
+[calculateur de capacité d'emprunt](/tools/affordability/).
 
-Du côté des titres, le travail du notaire prend ici toute sa valeur. Éducaloi
-décrit son examen des titres: vérifier les anciens actes, s'assurer que la
-propriété appartient bel et bien au vendeur, révéler une saisie pour impôts
-impayés ou un droit de passage. Le registre foncier donne l'historique légal:
-qui a acheté et vendu, quand, à quel prix, et les hypothèques inscrites. La
-suite des étapes est dans [le notaire au Québec, étape par
+Du côté des titres, Éducaloi décrit l'examen que fait le notaire: vérifier les
+anciens actes, s'assurer que la propriété appartient bel et bien au vendeur,
+révéler une saisie pour impôts impayés ou un droit de passage. Le registre
+foncier donne l'historique légal: qui a acheté et vendu, quand, à quel prix, et
+les hypothèques inscrites. La suite est dans [le notaire au Québec, étape par
 étape](/articles/quebec-notary-process/).
 
 ## Le rabais compense-t-il le risque?
 
 Aucune source officielle ne fixe un rabais moyen sur une reprise de finance au
-Québec, et je ne reproduirai pas un pourcentage vu ailleurs. Le calcul honnête
-est individuel et il tient en trois lignes: le prix d'une propriété comparable
-vendue avec garantie, moins le coût estimé par écrit des travaux que vous
-assumerez seul, moins la valeur du recours auquel vous renoncez.
+Québec, et un pourcentage lu ailleurs ne vaut rien ici. Le calcul honnête tient
+en trois lignes: le prix d'une propriété comparable vendue avec garantie, moins
+le coût estimé par écrit des travaux que vous assumerez seul, moins la valeur du
+recours auquel vous renoncez.
 
-Cette troisième ligne est la plus dure à chiffrer et la plus souvent oubliée.
-Elle vaut zéro si l'inspection est complète et le bâtiment simple. Elle vaut
-très cher si l'inspecteur signale une zone qu'il n'a pas pu examiner. Dans ce
-cas, le rabais ne se compare plus à des travaux connus, mais à un risque ouvert.
+La troisième ligne est la plus dure à chiffrer et la plus souvent oubliée. Elle
+vaut peu si l'inspection est complète et le bâtiment simple. Elle vaut très cher
+si l'inspecteur signale une zone qu'il n'a pas pu examiner: le rabais ne se
+compare alors plus à des travaux connus, mais à un risque ouvert.
 
 ## Questions fréquentes
 

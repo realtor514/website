@@ -1,13 +1,13 @@
 ---
 title: "Déclaration du vendeur au Québec : le formulaire DV 00001"
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-09-23
 translationKey: "article-declaration-vendeur"
 category: "Guide du vendeur"
 description: "Le formulaire DV 00001 est obligatoire et annexé à la promesse d'achat. Ce que le vendeur déclare vraiment, et ce qu'il risque en cachant un défaut."
 image: "images/articles/declaration-du-vendeur-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Beaucoup de vendeurs remplissent les Déclarations du vendeur sur l'immeuble en

@@ -60,13 +60,12 @@ signalé.
 
 L'OACIQ impose quatre exigences au professionnel que le courtier peut vous
 recommander : une assurance responsabilité professionnelle contre les fautes,
-erreurs ou omissions, une convention de service d'inspection reconnue, une
-norme de pratique reconnue, et un rapport écrit. Sur le certificat de la Régie
-du bâtiment du Québec, soyez précis : la RBQ le délivre depuis le 1er octobre
-2024, et il deviendra obligatoire pour tous les inspecteurs le 1er octobre
-2027. En 2026, un inspecteur non certifié exerce encore légalement. Le contrat
-de service, lui, est déjà obligatoire, et il ne peut pas limiter la
-responsabilité de l'inspecteur. Le reste est dans [l'inspection préachat au
+erreurs ou omissions, une convention de service reconnue, une norme de pratique
+reconnue, et un rapport écrit. Sur le certificat de la Régie du bâtiment du
+Québec, soyez précis : la RBQ le délivre depuis le 1er octobre 2024, et il
+deviendra obligatoire pour tous les inspecteurs le 1er octobre 2027. En 2026,
+un inspecteur non certifié exerce encore légalement. Le reste est dans
+[l'inspection préachat au
 Québec](/articles/inspection-preachat-cout-moment-quebec/).
 
 ## Ce que « grave » veut dire en pratique
@@ -102,17 +101,16 @@ Devant un vendeur particulier, donc, rien ne se présume. L'antériorité se
 démontre : l'âge d'une fissure, la nature d'un cerne, la date d'une
 installation. C'est le travail d'un expert en bâtiment, et son rapport est la
 pièce centrale du dossier. Aucune source officielle ne permet d'affirmer qu'un
-vice apparu trois ou six mois après la vente serait présumé antérieur devant un
-particulier.
+vice apparu trois ou six mois après la vente serait présumé antérieur.
 
 ## Dénoncer par écrit : l'étape qui fait perdre des dossiers solides
 
 L'article 1739 est court et il décide de tout. L'acheteur qui constate que le
 bien est atteint d'un vice doit, par écrit, le dénoncer au vendeur dans un
 délai raisonnable depuis sa découverte. Lorsque le vice apparaît graduellement,
-ce délai commence à courir du jour où l'acheteur a pu en soupçonner la gravité
-et l'étendue. Le deuxième alinéa réserve un cas : le vendeur ne peut invoquer
-une dénonciation tardive s'il connaissait ou ne pouvait ignorer le vice.
+ce délai court du jour où l'acheteur a pu en soupçonner la gravité et
+l'étendue. Un seul cas est réservé : le vendeur ne peut invoquer une
+dénonciation tardive s'il connaissait ou ne pouvait ignorer le vice.
 
 Combien de temps ? Éducaloi répond que le délai raisonnable s'évalue selon les
 circonstances, qu'il faut compter le temps nécessaire pour identifier et
@@ -133,9 +131,8 @@ Vous pouvez aussi transmettre directement une mise en demeure plutôt qu'un
 simple avis. Elle contient la description du vice, vos demandes, vos conditions
 et le délai pour répondre, et elle est le préalable à une poursuite. Notez ce
 que votre courtier ne peut pas faire ici : l'OACIQ lui interdit de donner une
-opinion juridique, par exemple sur les délais de recours, et de rédiger une
-mise en demeure. Il peut constater avec vous et vous diriger vers un juriste,
-un ingénieur ou votre inspecteur.
+opinion juridique, par exemple sur les délais, et de rédiger une mise en
+demeure.
 
 ## Vos recours : diminution du prix, annulation, dommages
 
@@ -157,8 +154,8 @@ donne le reste.
 Un dernier élément se vérifie au titre. L'OACIQ rappelle qu'une vente
 antérieure faite « aux risques et périls de l'acheteur » rompt la chaîne de
 transmission des garanties : à partir de là, elles sont réinitialisées. Votre
-recours contre les propriétaires antérieurs dépend donc des actes précédents.
-Le détail des clauses est dans [vente sans garantie légale au
+recours contre les propriétaires antérieurs dépend donc des actes précédents,
+et le détail des clauses est dans [vente sans garantie légale au
 Québec](/articles/vente-sans-garantie-legale-quebec/).
 
 ## Trois ans pour agir, et le tribunal qui vous entendra
@@ -197,12 +194,6 @@ moyen pour un recours en vice caché.
    devant le juge, pas votre souvenir.
 
 ## Questions fréquentes
-
-**Le vendeur jure qu'il ne savait rien. Est-ce que ça le libère ?** Non.
-L'OACIQ est clair : que le vendeur ignore le vice, ou qu'il ne se manifeste
-qu'après la vente, ne diminue en rien la garantie. Sa connaissance change
-l'étendue de ce qu'il doit payer, par l'article 1728, pas la garantie
-elle-même.
 
 **J'ai fait inspecter et l'inspecteur n'a rien vu. Ai-je encore un recours ?**
 Oui, en principe. Éducaloi rappelle qu'une inspection ne garantit pas l'absence
