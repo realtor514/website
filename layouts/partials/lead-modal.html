@@ -21,8 +21,15 @@
     </div>
 
     <form id="lead-modal-form" novalidate>
+      {{/* Remplis a l ouverture selon la calculatrice cliquee. Celui qui
+           estime sa maison est un vendeur, pas un acheteur curieux: l objet
+           du courriel doit le dire des la boite de reception, sinon les deux
+           arrivent pareils et le seul qui merite un rappel immediat se noie
+           dans les autres. */}}
       <input type="hidden" name="_source" value="calculateur">
-      <input type="hidden" name="_subject" value="Nouveau lead calculateur - georgesmatar.space">
+      <input type="hidden" name="_subject" id="lm-subject" value="Lead calculateur - georgesmatar.ca">
+      <input type="hidden" name="outil" id="lm-outil" value="calculateur">
+      <input type="hidden" name="intention" id="lm-intention" value="inconnue">
 
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px">
         <div>
@@ -107,8 +114,25 @@
   var submitBtn   = document.getElementById('lead-modal-submit');
   var errorDiv    = document.getElementById('lead-modal-error');
   var successDiv  = document.getElementById('lead-modal-success');
+  var fSubject    = document.getElementById('lm-subject');
+  var fOutil      = document.getElementById('lm-outil');
+  var fIntention  = document.getElementById('lm-intention');
   var pendingBtn  = null;
   var SESSION_KEY = 'gm_lead_ok';
+
+  /* Qui est derriere le clic. L estimation de propriete est la seule qui
+     trahit un vendeur: c est le lead a rappeler dans les minutes qui suivent.
+     Les autres calculatrices sont des acheteurs, souvent a des mois d agir.
+     Les cles sont les id des boutons .mc-btn-calc de layouts/partials/tools/. */
+  var OUTILS = {
+    'he-calculate':  { outil: 'estimation',       intention: 'vendeur'  },
+    'mc-calculate':  { outil: 'hypotheque',       intention: 'acheteur' },
+    'af-calculate':  { outil: 'capacite-emprunt', intention: 'acheteur' },
+    'cc-calculate':  { outil: 'frais-notaire',    intention: 'acheteur' },
+    'wt-calculate':  { outil: 'taxe-bienvenue',   intention: 'acheteur' },
+    'rvb-calculate': { outil: 'louer-ou-acheter', intention: 'acheteur' }
+  };
+  var OUTIL_DEFAUT = { outil: 'calculateur', intention: 'inconnue' };
 
   var ERRORS = {
     fr: 'Veuillez remplir tous les champs obligatoires (*) et cocher la case de consentement.',
@@ -121,6 +145,14 @@
 
   function openModal(btn) {
     pendingBtn = btn;
+
+    var info = OUTILS[btn.id] || OUTIL_DEFAUT;
+    fOutil.value = info.outil;
+    fIntention.value = info.intention;
+    fSubject.value = (info.intention === 'vendeur')
+      ? 'VENDEUR - estimation de propriete - georgesmatar.ca'
+      : 'Lead ' + info.outil + ' - georgesmatar.ca';
+
     form.style.display = '';
     successDiv.style.display = 'none';
     errorDiv.style.display = 'none';
@@ -197,11 +229,27 @@
 
     var data = new FormData(form);
 
+    /* Fige l outil ici. La reponse arrive plus tard, et lire les champs a ce
+       moment la renverrait ce que le formulaire contient alors, pas ce qui a
+       ete envoye. */
+    var outilEnvoye = fOutil.value;
+    var intentionEnvoyee = fIntention.value;
+
     fetch('https://formspree.io/f/mwvzkzvl', {
       method: 'POST',
       body: data,
       headers: { 'Accept': 'application/json' }
     }).finally(function () {
+      /* La meme separation dans Google Analytics, pour voir laquelle des
+         calculatrices amene des vendeurs. Ne part que si le visiteur a
+         consenti a la mesure: sans consentement, window.gtag n existe pas. */
+      if (typeof window.gtag === 'function') {
+        window.gtag('event', 'generate_lead', {
+          method: 'calculateur',
+          outil: outilEnvoye,
+          intention: intentionEnvoyee
+        });
+      }
       sessionStorage.setItem(SESSION_KEY, '1');
       form.style.display = 'none';
       successDiv.style.display = 'block';
