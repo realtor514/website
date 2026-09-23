@@ -19,8 +19,7 @@ disableKinds = ["taxonomy", "term"]
 
     [languages.en.params]
       role        = "Residential Real Estate Broker"
-      tagline     = "Residential Real Estate Broker in Laval, Montreal, North Shore and South Shore"
-      heroPitch   = "I work with you in French, English, Spanish and Arabic."
+      tagline     = "Residential Real Estate Broker"
       heroQuote   = "&ldquo;Your trusted guide to the Montreal, Laval, Laurentians &amp; Lanaudi&egrave;re real estate market.&rdquo;"
       ctaListings = "View Properties"
       ctaContact  = "Contact Me"
@@ -214,8 +213,7 @@ disableKinds = ["taxonomy", "term"]
 
     [languages.fr.params]
       role        = "Courtier Immobilier Résidentiel"
-      tagline     = "Courtier immobilier r&eacute;sidentiel &agrave; Laval, Montr&eacute;al, Rive-Nord et Rive-Sud"
-      heroPitch   = "Je vous accompagne en fran&ccedil;ais, en anglais, en espagnol et en arabe."
+      tagline     = "Courtier immobilier r&eacute;sidentiel"
       heroQuote   = "Analyse rigoureuse. N&eacute;gociation experte. R&eacute;sultats concrets."
       ctaListings = "Voir les propriétés"
       ctaContact  = "Me contacter"
@@ -409,8 +407,7 @@ disableKinds = ["taxonomy", "term"]
 
     [languages.es.params]
       role        = "Corredor Inmobiliario Residencial"
-      tagline     = "Corredor inmobiliario residencial en Laval, Montreal, Rive-Nord y Rive-Sud"
-      heroPitch   = "Le acompa&ntilde;o en franc&eacute;s, ingl&eacute;s, espa&ntilde;ol y &aacute;rabe."
+      tagline     = "Corredor inmobiliario residencial"
       heroQuote   = "&ldquo;Su guía de confianza en los mercados inmobiliarios de Montréal, Laval, los Laurentides y Lanaudière.&rdquo;"
       ctaListings = "Ver Propiedades"
       ctaContact  = "Contácteme"
@@ -576,8 +573,7 @@ disableKinds = ["taxonomy", "term"]
 
     [languages.ar.params]
       role        = "وسيط عقاري سكني"
-      tagline     = "وسيط عقاري سكني في لافال ومونتريال والضفة الشمالية والضفة الجنوبية"
-      heroPitch   = "أرافقكم بالفرنسية والإنجليزية والإسبانية والعربية."
+      tagline     = "وسيط عقاري سكني"
       ctaListings = "عرض العقارات"
       ctaContact  = "تواصل معي"
       description = "جورج مطر، وسيط عقاري سكني في RE/MAX DU CARTIER INC. نخدم المشترين والبائعين والمستثمرين في مونتريال، لافال، منطقة اللورانتيد ولانوديير."

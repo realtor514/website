@@ -48,11 +48,9 @@
 
         <p class="hero__role reveal reveal-delay-1">{{ .Site.Params.tagline | safeHTML }}</p>
 
-        {{/* Ligne lisible sous le titre: les villes sont dans le role ci-dessus,
-             l avantage de service est ici. Le H1 reste le nom. */}}
-        {{ with .Site.Params.heroPitch }}
-        <p class="hero__pitch reveal reveal-delay-1">{{ . | safeHTML }}</p>
-        {{ end }}
+        {{/* Pas de phrase sur les langues ici: la barre de reperes plus bas
+             annonce deja les 4 langues, et le bandeau gagne a ne porter que
+             le nom, le metier et l action. */}}
 
         <div class="hero__quicklinks reveal reveal-delay-2">
           <a href="{{ $homeEstimateURL }}" class="hero__quicklink">
