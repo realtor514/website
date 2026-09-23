@@ -15,13 +15,19 @@ Ajouter une page ou section "Alerte immobiliere" avec un formulaire permettant a
 
 ## Point 8 - Rappel immediat des leads vendeurs
 Faire en sorte qu'un lead vendeur declenche une alerte sur le telephone de Georges en moins de cinq minutes, pas seulement un courriel. Un vendeur rappele dans les minutes qui suivent sa demande se convertit plusieurs fois mieux qu'un vendeur rappele une heure plus tard. C'est le levier le plus rentable du site et il ne coute presque rien.
-Le tri est deja fait: depuis la separation des leads, le courriel Formspree d'une estimation arrive avec l'objet "VENDEUR - estimation de propriete", et les champs `outil` et `intention` accompagnent chaque envoi.
-Ce qui reste a faire:
-- Creer une regle dans Gmail qui repere l'objet commencant par "VENDEUR" et lui met une etiquette dediee
-- Activer la notification push du telephone pour cette etiquette seulement, pour que seuls les vendeurs sonnent
-- Verifier le delai reel avec un envoi de test depuis le site
+Fait cote site: les deux sources de leads vendeurs marquent maintenant leur objet du prefixe "VENDEUR".
+- Le modal des calculatrices: l'estimation de propriete envoie "VENDEUR - estimation de propriete - georgesmatar.ca"
+- Le formulaire principal: les intentions "vendre" et "faire evaluer" envoient "VENDEUR - vendre - ..." et "VENDEUR - evaluation - ..."
+- Tous les autres envois du site commencent par "Lead "
+- Le fichier `gmail-filtres-leads.xml` est pret a importer, il contient les deux filtres
+
+Ce qui reste a faire, et que Georges seul peut faire:
+- Importer `gmail-filtres-leads.xml`: Gmail, Parametres, Filtres et adresses bloquees, Importer des filtres, cocher les deux, Creer des filtres
+- Android: application Gmail, Parametres, son compte, Gerer les libelles, Leads/Vendeur, activer Notifications du libelle avec son
+- iPhone: application Gmail, Parametres, son compte, Notifications, choisir Prioritaires uniquement. Le filtre marque deja les vendeurs comme importants, donc eux seuls sonneront
+- Envoyer un lead de test depuis le site et chronometrer le delai reel jusqu'a la sonnerie
 - Option a evaluer plus tard: un envoi SMS automatique via un connecteur, si le courriel s'avere trop lent
-**Status:** pending
+**Status:** en cours, cote site termine, importation et telephone a faire
 
 ## Point 9 - Occuper le marche arabophone
 Devenir le courtier de reference des communautes arabophones de Laval et de Montreal. C'est le seul territoire ou Georges part avec un avantage que personne d'autre a l'agence ne possede, et le bouche a oreille dans une communaute soudee produit des vendeurs motives et reels, ceux qui appellent parce qu'on leur a dit d'appeler.

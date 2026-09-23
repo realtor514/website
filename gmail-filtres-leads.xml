@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+  <title>Filtres leads georgesmatar.ca</title>
+
+  <!--
+    A importer dans Gmail: Parametres, Filtres et adresses bloquees,
+    Importer des filtres, choisir ce fichier, Ouvrir le fichier,
+    cocher les deux filtres, Creer des filtres.
+
+    Tous les courriels envoyes par le site portent "georgesmatar.ca" dans
+    leur objet, et seuls les leads vendeurs commencent par "VENDEUR".
+    Les deux filtres se partagent donc les envois du site sans jamais
+    toucher au reste de la boite de reception.
+  -->
+
+  <!-- 1. Le vendeur. Etiquette dediee, suivi, et marque important pour que
+          le telephone sonne meme sur iPhone, ou Gmail ne sait notifier que
+          la priorite haute. -->
+  <entry>
+    <category term='filter'></category>
+    <title>Leads vendeur</title>
+    <id>tag:mail.google.com,2008:filter:leads-vendeur</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <content></content>
+    <apps:property name='hasTheWord' value='subject:VENDEUR subject:georgesmatar.ca'/>
+    <apps:property name='label' value='Leads/Vendeur'/>
+    <apps:property name='shouldStarIt' value='true'/>
+    <apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+    <apps:property name='shouldNeverSpam' value='true'/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+
+  <!-- 2. Tout le reste du site. Jamais marque important, pour que la
+          priorite haute du telephone ne serve qu aux vendeurs. -->
+  <entry>
+    <category term='filter'></category>
+    <title>Leads acheteur et autres</title>
+    <id>tag:mail.google.com,2008:filter:leads-acheteur</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <content></content>
+    <apps:property name='hasTheWord' value='subject:georgesmatar.ca -subject:VENDEUR'/>
+    <apps:property name='label' value='Leads/Acheteur'/>
+    <apps:property name='shouldNeverMarkAsImportant' value='true'/>
+    <apps:property name='shouldNeverSpam' value='true'/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+
+</feed>

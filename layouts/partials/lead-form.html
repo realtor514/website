@@ -14,7 +14,15 @@
 <form class="contact-form lead-form" action="https://formspree.io/f/mwvzkzvl" method="POST">
 
   {{/* ── Champs caches: provenance du lead ── */}}
-  <input type="hidden" name="_subject" value="Demande {{ $source }} ({{ $ctx.Lang }}) - georgesmatar.ca">
+  {{/* L objet dit l intention, pas seulement la provenance: un vendeur doit se
+       reconnaitre dans la boite de reception sans ouvrir le courriel. Le
+       prefixe VENDEUR est exactement celui du modal des calculatrices, pour
+       qu un seul filtre attrape les deux. Mis a jour par le script en bas de
+       ce fichier quand le visiteur change d intention, la valeur ci-dessous
+       etant celle du choix coche par defaut. */}}
+  <input type="hidden" name="_subject" data-lead-subject
+         data-source="{{ $source }}" data-lang="{{ $ctx.Lang }}"
+         value="Lead acheter - {{ $source }} ({{ $ctx.Lang }}) - georgesmatar.ca">
   <input type="hidden" name="_next" value="{{ $ctx.Site.Params.thanksURL | absURL }}">
   <input type="hidden" name="provenance" value="{{ $source }}">
   <input type="hidden" name="langue" value="{{ $ctx.Lang }}">
@@ -96,3 +104,30 @@
     <a href="{{ $ctx.Site.Params.privacyURL }}">{{ if $isFr }}Politique de confidentialité{{ else if $isAr }}سياسة الخصوصية{{ else if $isEs }}Política de privacidad{{ else }}Privacy policy{{ end }}</a>
   </p>
 </form>
+
+{{/* Le formulaire peut etre inclus plusieurs fois dans une meme page, le
+     garde empeche d installer l ecouteur autant de fois. L ecouteur est
+     delegue au document et retrouve son propre formulaire par `radio.form`,
+     donc deux formulaires sur la meme page ne se marchent pas dessus. */}}
+<script>
+(function () {
+  if (window.__gmLeadSubject) return;
+  window.__gmLeadSubject = true;
+
+  /* Les deux intentions qui trahissent un vendeur. `evaluation` en fait
+     partie: on ne fait pas evaluer une maison qu on ne songe pas a vendre. */
+  var VENDEUR = { vendre: 1, evaluation: 1 };
+
+  document.addEventListener('change', function (e) {
+    var radio = e.target;
+    if (radio.type !== 'radio' || radio.name !== 'intention') return;
+    var form = radio.form;
+    if (!form) return;
+    var champ = form.querySelector('[data-lead-subject]');
+    if (!champ) return;
+    champ.value = (VENDEUR[radio.value] ? 'VENDEUR - ' : 'Lead ') + radio.value +
+      ' - ' + champ.getAttribute('data-source') +
+      ' (' + champ.getAttribute('data-lang') + ') - georgesmatar.ca';
+  });
+})();
+</script>
