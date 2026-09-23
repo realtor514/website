@@ -1,7 +1,7 @@
 ---
 title: "Déclaration du vendeur au Québec : le formulaire DV 00001"
-date: 2026-09-23
-lastmod: 2026-09-23
+date: 2026-09-06
+lastmod: 2026-09-06
 translationKey: "article-declaration-vendeur"
 category: "Guide du vendeur"
 description: "Le formulaire DV 00001 est obligatoire et annexé à la promesse d'achat. Ce que le vendeur déclare vraiment, et ce qu'il risque en cachant un défaut."
@@ -11,19 +11,20 @@ draft: true
 ---
 
 Beaucoup de vendeurs remplissent les Déclarations du vendeur sur l'immeuble en
-quinze minutes, en cochant « non » partout. C'est pourtant le document le plus
-lourd de conséquences qu'ils signeront avant l'acte notarié : il s'annexe à la
-promesse d'achat et devient une pièce du contrat. Voici ce qu'il demande
-réellement, et pourquoi l'honnêteté protège d'abord le vendeur.
+quinze minutes, en cochant « non » partout pour aller vite. C'est pourtant le
+document le plus lourd de conséquences qu'ils signeront avant l'acte notarié :
+il s'annexe à la promesse d'achat et devient une pièce du contrat. Voici ce
+qu'il demande réellement, et pourquoi l'honnêteté protège le vendeur avant de
+protéger l'acheteur.
 
 ## Un formulaire obligatoire qui devient une pièce du contrat
 
 Le formulaire Déclarations du vendeur sur l'immeuble, dit DV, est obligatoire
 depuis juillet 2012. L'OACIQ l'impose pour la vente, par une personne physique,
 de tout immeuble principalement résidentiel de moins de 5 logements, y compris
-en copropriété par indivision. Pour une copropriété divise, c'est le formulaire
-DVD. La version en vigueur porte la mention DV 00001 et le numéro V24 06/2022 :
-treize pages, seize sections numérotées de D1 à D16.
+un immeuble détenu en copropriété par indivision. Pour une copropriété divise,
+c'est le formulaire DVD. La version en vigueur porte la mention DV 00001 et le
+numéro V24 06/2022 : treize pages, seize sections numérotées de D1 à D16.
 
 Le courtier doit le remplir conjointement avec le vendeur au moment de la prise
 du contrat de courtage et le lui faire signer. L'OACIQ est explicite sur le
@@ -59,9 +60,10 @@ courtier de toute information obtenue après la signature.
 | D15 Précisions | le numéro de la clause et l'explication |
 | D16 Signatures | vendeur, témoins, accusé de réception de l'acheteur |
 
-La section D2 est celle qu'on survole le plus vite, et c'est une erreur : D2.8
-couvre les hypothèques, les servitudes et les empiètements, D2.9 les limitations
-de droit public, D2.13 et D2.14 les refus d'un assureur.
+La section D2 est celle qu'on survole le plus vite, et c'est une erreur. D2.8
+porte sur les hypothèques, les servitudes et les empiètements, D2.9 sur les
+limitations de droit public, D2.13 et D2.14 sur les refus d'un assureur
+d'assurer l'immeuble ou de vous indemniser.
 
 ## Ce que vous savez, et ce que vous ne pouvez pas ignorer
 
@@ -73,16 +75,16 @@ Le Code civil fixe un second seuil. L'article 1728 rend le vendeur responsable
 de la restitution du prix et de la réparation du préjudice s'il connaissait le
 vice caché « ou ne pouvait l'ignorer », et l'article 1733 reprend la même
 formule. « Ne pouvait ignorer » n'est pas « savait ». Un sous-sol qui prend
-l'eau chaque printemps, une auréole au plafond repeinte trois fois : personne ne
-soutient sérieusement n'avoir rien remarqué.
+l'eau chaque printemps, une auréole au plafond repeinte trois fois : un
+propriétaire attentif ne peut pas soutenir qu'il n'avait rien remarqué.
 
 Un mot sur les litiges, parce que la croyance est répandue. Le DV ne pose aucune
 question générale du type « avez-vous un litige en cours ». Il demande si vous
 avez un dossier au Tribunal administratif du logement lié à l'immeuble (D2.6 f),
-si vous avez reçu un avis de non-conformité (D2.12), puis il se termine par une
+si vous avez reçu un avis de non-conformité (D2.12), et il se termine par une
 question ouverte, D14.5 : d'autres éléments pourraient-ils avoir un impact sur
 la valeur, les revenus, les dépenses ou l'usage de l'immeuble. Une poursuite
-contre un entrepreneur se déclare là, et se détaille en D15.
+contre un entrepreneur se déclare là, puis se détaille en D15.
 
 Le courtier n'est pas spectateur. L'article 84 du Règlement sur les conditions
 d'exercice d'une opération de courtage l'oblige à chercher les facteurs pouvant
@@ -92,15 +94,15 @@ affecter défavorablement les parties, et l'article 85 à les en informer.
 
 **Le réservoir de mazout.** Il apparaît trois fois. D3.3 demande s'il y a déjà eu
 un réservoir souterrain ou en surface de mazout ou d'huile, D3.4 s'il y a eu un
-déversement dans le sol, D12.4 si le chauffage comprend un réservoir à mazout.
-Un réservoir retiré il y a douze ans se déclare quand même.
+déversement ou une fuite dans le sol, D12.4 si le chauffage comprend un
+réservoir à mazout. Un réservoir retiré il y a douze ans se déclare quand même.
 
 **La vermiculite.** Elle est nommée deux fois. D7.4 demande si des matériaux
 pouvant contenir de l'amiante ont déjà été utilisés, et la vermiculite ouvre la
 liste. D8.5 demande le type d'isolant dans le comble, où elle figure aussi.
 
 **La pyrite et la pyrrhotite.** Le formulaire ne demande pas ce que la plupart
-des gens croient : il n'existe pas de question « votre dalle contient-elle de la
+des gens croient. Il n'existe pas de question « votre dalle contient-elle de la
 pyrite ». D13.2 demande si des tests ou des expertises ont été effectués, et
 nomme la pyrite, la pyrrhotite, le radon, le dépôt d'ocre, la mousse isolante
 d'urée-formaldéhyde, l'amiante et le drain de fondation. Si oui, pouvez-vous
@@ -111,11 +113,11 @@ scénario qui se plaide.
 **Les travaux sans permis.** D14.4 demande si des travaux importants ont été
 effectués, puis si des plans et devis ont été préparés et si les permis requis
 ont été émis pour chacun. Le formulaire prévient aussi qu'un nouveau certificat
-de localisation pourrait être requis après l'ajout d'une piscine, d'un cabanon
-ou d'une clôture (D2.11). C'est ce que l'inspecteur de l'acheteur vérifiera sur
-place, comme le détaille [la liste de l'inspection
+de localisation pourrait être requis après l'ajout d'une piscine, d'un cabanon,
+d'une terrasse ou d'une clôture (D2.11). C'est ce que l'inspecteur de l'acheteur
+vérifiera sur place, comme le détaille [la liste de l'inspection
 préachat](/articles/home-inspection-checklist-montreal/). Ce que je demande à un
-vendeur avant de m'asseoir avec lui est sur [la page vendeur](/seller/).
+vendeur avant de m'asseoir avec lui est résumé sur [la page vendeur](/seller/).
 
 ## Sans garantie légale, une fausse déclaration du vendeur reste attaquable
 
@@ -136,19 +138,19 @@ et périls : l'acheteur doit prouver un mensonge, une demi-vérité ou une manœ
 frauduleuse.
 
 Lu vite, cela semble récompenser le vendeur qui se tait. Sauf que le silence
-n'existe pas ici : le vendeur a treize pages de questions écrites devant lui, et
-chaque « non » est une réponse. Une réponse sciemment inexacte est un fait
-personnel, donc hors de portée de la clause d'exclusion, et elle tombe sous
-l'article 1401 : l'erreur provoquée par le dol de l'autre partie vicie le
-consentement chaque fois que, sans cela, la partie n'aurait pas contracté ou
-aurait contracté à des conditions différentes.
+n'existe pas ici. Le vendeur a treize pages de questions écrites devant lui, et
+chaque « non » est une réponse, pas un silence. Une réponse sciemment inexacte
+est un fait personnel, donc hors de portée de la clause d'exclusion, et elle
+entre dans l'article 1401 : l'erreur provoquée par le dol de l'autre partie
+vicie le consentement dans tous les cas où, sans cela, la partie n'aurait pas
+contracté ou aurait contracté à des conditions différentes.
 
 Deux conséquences suivent. L'article 1728 : le vendeur qui connaissait le vice
 ou ne pouvait l'ignorer doit la restitution du prix et la réparation du
-préjudice, pas seulement une réduction. L'article 1739 : il ne peut pas invoquer
-la dénonciation tardive de l'acheteur s'il connaissait ou ne pouvait ignorer le
-vice. Seul un tribunal décide, preuve à l'appui, si une réponse constitue un
-dol : faites valider toute situation ambiguë par votre notaire.
+préjudice, pas seulement une réduction. L'article 1739 : le vendeur ne peut pas
+invoquer la dénonciation tardive de l'acheteur s'il connaissait ou ne pouvait
+ignorer le vice. Seul un tribunal décide, preuve à l'appui, si une réponse
+constitue un dol : faites valider toute situation ambiguë par votre notaire.
 
 Le renversement est là. L'article 1726 précise que le vendeur n'est pas tenu de
 garantir le vice caché connu de l'acheteur : un défaut déclaré cesse d'être
