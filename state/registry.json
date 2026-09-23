@@ -113,6 +113,36 @@
    "slug": "propriete-ne-se-vend-pas-quebec",
    "keyword": "ma maison ne se vend pas quebec",
    "state": "in_progress"
+  },
+  {
+   "id": "t70",
+   "slug": "ventre-de-boeuf-drain-montreal",
+   "keyword": "ventre de boeuf drain montreal",
+   "state": "in_progress"
+  },
+  {
+   "id": "t87",
+   "slug": "copropriete-indivise-cooperative-montreal",
+   "keyword": "copropriete indivise financement montreal",
+   "state": "in_progress"
+  },
+  {
+   "id": "t95",
+   "slug": "acheter-reprise-de-finance-quebec",
+   "keyword": "acheter une reprise de finance quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t138",
+   "slug": "casser-hypotheque-penalite-quebec",
+   "keyword": "penalite pour casser une hypotheque",
+   "state": "in_progress"
+  },
+  {
+   "id": "t166",
+   "slug": "vice-cache-conditions-recours-quebec",
+   "keyword": "vice cache maison quebec recours",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -134,7 +164,12 @@
   "bruit-maison-condo-quebec",
   "declaration-du-vendeur-quebec",
   "conjoints-de-fait-maison-quebec",
-  "propriete-ne-se-vend-pas-quebec"
+  "propriete-ne-se-vend-pas-quebec",
+  "ventre-de-boeuf-drain-montreal",
+  "copropriete-indivise-cooperative-montreal",
+  "acheter-reprise-de-finance-quebec",
+  "casser-hypotheque-penalite-quebec",
+  "vice-cache-conditions-recours-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -155,7 +190,12 @@
   "bruit condo insonorisation quebec",
   "declaration du vendeur quebec",
   "conjoints de fait maison quebec",
-  "ma maison ne se vend pas quebec"
+  "ma maison ne se vend pas quebec",
+  "ventre de boeuf drain montreal",
+  "copropriete indivise financement montreal",
+  "acheter une reprise de finance quebec",
+  "penalite pour casser une hypotheque",
+  "vice cache maison quebec recours"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -176,6 +216,11 @@
   "Ce qui rend une maison ou un condo bruyant",
   "La declaration du vendeur au Quebec: ce qu'elle protege et ce qu'elle coute",
   "Conjoints de fait et maison au Quebec: proteger la propriete avant le probleme",
-  "Votre propriete ne se vend pas: les cinq decisions a prendre maintenant"
+  "Votre propriete ne se vend pas: les cinq decisions a prendre maintenant",
+  "Ventre de boeuf dans le drain: le defaut classique des plex montrealais",
+  "Copropriete indivise et cooperative a Montreal: ce que les preteurs exigent",
+  "Acheter une reprise de finance au Quebec: ce que vous acceptez vraiment",
+  "Casser son hypotheque au Quebec: penalite, differentiel de taux et cas ou ca vaut la peine",
+  "Vice cache au Quebec: les quatre conditions, la denonciation et le recours"
  ]
 }

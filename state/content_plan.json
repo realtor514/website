@@ -564,8 +564,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0623,
-     "match": "/articles/rive-nord-guide-laval/"
+     "s": 0.1093,
+     "match": "/articles/reduire-facture-chauffage-quebec/"
     }
    }
   },
@@ -650,12 +650,12 @@
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0808,
-     "match": "/articles/worst-real-estate-deal-lessons/"
+     "s": 0.0825,
+     "match": "/articles/open-house-secrets/"
     }
    }
   },
@@ -748,11 +748,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1016,
+     "s": 0.0992,
      "match": "/articles/laval-investment-city/"
     }
    }
@@ -796,12 +796,12 @@
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0694,
-     "match": "/articles/renovation-condo-copropriete-quebec/"
+     "s": 0.072,
+     "match": "/articles/cout-entretien-maison-quebec/"
     }
    }
   },
@@ -848,7 +848,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2377,
+     "s": 0.2385,
      "match": "/articles/house-flipping-montreal/"
     }
    }
@@ -896,7 +896,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1502,
+     "s": 0.1531,
      "match": "/articles/off-market-properties/"
     }
    }
@@ -934,18 +934,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3646,
-     "match": "/articles/condo-fees-investment-killer/"
+     "s": 0.3989,
+     "match": "/articles/location-court-terme-quebec-regles/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.1667,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0791,
-     "match": "/articles/renovation-condo-copropriete-quebec/"
+     "s": 0.0781,
+     "match": "/articles/reduire-facture-chauffage-quebec/"
     }
    }
   },
@@ -988,12 +988,12 @@
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0659,
-     "match": "/articles/renovations-dont-add-value/"
+     "s": 0.12,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
   },
@@ -1040,7 +1040,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.12,
+     "s": 0.1233,
      "match": "/articles/cout-entretien-maison-quebec/"
     }
    }
@@ -1088,7 +1088,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1258,
+     "s": 0.1202,
      "match": "/articles/contester-evaluation-municipale-quebec/"
     }
    }
@@ -1126,18 +1126,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.4157,
-     "match": "/articles/commission-explained-quebec/"
+     "s": 0.6014,
+     "match": "/articles/impot-proprietaire-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "s": 0.6,
+     "match": "/articles/impot-proprietaire-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1085,
-     "match": "/articles/income-property-beginners/"
+     "s": 0.4348,
+     "match": "/articles/impot-proprietaire-quebec/"
     }
    }
   },
@@ -1180,11 +1180,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.125,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1896,
+     "s": 0.1891,
      "match": "/articles/cout-entretien-maison-quebec/"
     }
    }
@@ -1228,11 +1228,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.125,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1337,
+     "s": 0.1286,
      "match": "/articles/inspection-preachat-cout-moment-quebec/"
     }
    }
@@ -1276,11 +1276,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1409,
+     "s": 0.1408,
      "match": "/articles/best-mortgage-rate-canada/"
     }
    }
@@ -1318,8 +1318,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3486,
-     "match": "/articles/cout-reel-vendre-maison-quebec/"
+     "s": 0.4363,
+     "match": "/articles/garder-ou-vendre-propriete-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -1328,8 +1328,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0984,
-     "match": "/articles/cout-reel-vendre-maison-quebec/"
+     "s": 0.2242,
+     "match": "/articles/garder-ou-vendre-propriete-quebec/"
     }
    }
   },
@@ -1366,8 +1366,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2793,
-     "match": "/articles/best-neighborhoods-montreal/"
+     "s": 0.3667,
+     "match": "/articles/comparables-prix-maison-voisin-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -1376,8 +1376,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1653,
-     "match": "/articles/home-inspection-checklist-montreal/"
+     "s": 0.2412,
+     "match": "/articles/comparables-prix-maison-voisin-quebec/"
     }
    }
   },
@@ -1424,7 +1424,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0605,
+     "s": 0.0616,
      "match": "/articles/cout-entretien-maison-quebec/"
     }
    }
@@ -1472,7 +1472,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.3556,
+     "s": 0.3577,
      "match": "/articles/renovation-condo-copropriete-quebec/"
     }
    }
@@ -1618,7 +1618,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0775,
+     "s": 0.0744,
      "match": "/articles/cout-entretien-maison-quebec/"
     }
    }
@@ -1666,7 +1666,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0642,
+     "s": 0.0646,
      "match": "/articles/strategies-negociation-immobilier/"
     }
    }
@@ -1704,18 +1704,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3468,
-     "match": "/articles/renting-vs-buying-calculation/"
+     "s": 0.3772,
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.2857,
-     "match": "/articles/buying-property-with-family/"
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0915,
-     "match": "/articles/acheter-laval-2025/"
+     "s": 0.0897,
+     "match": "/articles/acheter-zone-inondable-quebec/"
     }
    }
   },
@@ -1762,7 +1762,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1213,
+     "s": 0.1195,
      "match": "/articles/cout-reel-vendre-maison-quebec/"
     }
    }
@@ -1810,7 +1810,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.196,
+     "s": 0.1999,
      "match": "/articles/condo-fees-investment-killer/"
     }
    }
@@ -1908,8 +1908,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0661,
-     "match": "/articles/cout-entretien-maison-quebec/"
+     "s": 0.122,
+     "match": "/articles/vente-sans-garantie-legale-quebec/"
     }
    }
   },
@@ -1946,17 +1946,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3267,
-     "match": "/articles/renovation-condo-copropriete-quebec/"
+     "s": 0.3447,
+     "match": "/articles/impot-proprietaire-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1117,
+     "s": 0.1148,
      "match": "/articles/contester-evaluation-municipale-quebec/"
     }
    }
@@ -1994,18 +1994,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3533,
-     "match": "/articles/inheritance-property-quebec/"
+     "s": 0.3895,
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1137,
-     "match": "/articles/renovations-dont-add-value/"
+     "s": 0.1404,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     }
    }
   },
@@ -2052,7 +2052,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1335,
+     "s": 0.1359,
      "match": "/articles/refinancement-hypothecaire-quebec/"
     }
    }
@@ -2090,13 +2090,13 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2847,
-     "match": "/articles/refinancement-hypothecaire-quebec/"
+     "s": 0.2954,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "s": 0.2857,
+     "match": "/articles/contrat-courtage-vente-quebec/"
     },
     "topic": {
      "v": "PASS",
@@ -2138,18 +2138,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2846,
-     "match": "/articles/cout-entretien-maison-quebec/"
+     "s": 0.3114,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.125,
-     "match": "/articles/best-neighborhoods-montreal/"
+     "s": 0.2857,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0791,
-     "match": "/articles/cout-entretien-maison-quebec/"
+     "s": 0.1777,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
   },
@@ -2196,8 +2196,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0886,
-     "match": "/articles/maison-difficile-assurer-quebec/"
+     "s": 0.0919,
+     "match": "/articles/heritage-property-montreal/"
     }
    }
   },
@@ -2234,8 +2234,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.328,
-     "match": "/articles/new-construction-guide-quebec/"
+     "s": 0.4176,
+     "match": "/articles/location-court-terme-quebec-regles/"
     },
     "keyword": {
      "v": "PASS",
@@ -2244,7 +2244,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1168,
+     "s": 0.1187,
      "match": "/articles/rental-property-management/"
     }
    }
@@ -2292,7 +2292,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1297,
+     "s": 0.1333,
      "match": "/articles/contester-evaluation-municipale-quebec/"
     }
    }
@@ -2340,8 +2340,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1007,
-     "match": "/articles/condo-fees-investment-killer/"
+     "s": 0.1086,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
   },
@@ -2388,7 +2388,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1494,
+     "s": 0.1532,
      "match": "/articles/marche-immobilier-montreal/"
     }
    }
@@ -2426,8 +2426,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.4161,
-     "match": "/articles/vendre-avec-ou-sans-courtier-quebec/"
+     "s": 0.4306,
+     "match": "/articles/vente-sans-garantie-legale-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -2436,7 +2436,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1427,
+     "s": 0.1463,
      "match": "/articles/rental-property-management/"
     }
    }
@@ -2484,8 +2484,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0858,
-     "match": "/articles/renovation-condo-copropriete-quebec/"
+     "s": 0.0988,
+     "match": "/articles/impot-proprietaire-quebec/"
     }
    }
   },
@@ -2528,11 +2528,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.125,
-     "match": "/articles/best-neighborhoods-montreal/"
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0773,
+     "s": 0.0794,
      "match": "/articles/maison-difficile-assurer-quebec/"
     }
    }
@@ -2576,11 +2576,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.1667,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1212,
+     "s": 0.123,
      "match": "/articles/preparer-maison-vente/"
     }
    }
@@ -2628,7 +2628,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.094,
+     "s": 0.096,
      "match": "/articles/marche-immobilier-montreal/"
     }
    }
@@ -2726,7 +2726,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1181,
+     "s": 0.1184,
      "match": "/articles/investir-triplex-laval/"
     }
    }
@@ -2764,17 +2764,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3592,
-     "match": "/articles/everyone-deserves-homeownership/"
+     "s": 0.3879,
+     "match": "/articles/garder-ou-vendre-propriete-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.2857,
-     "match": "/articles/buying-property-with-family/"
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1289,
+     "s": 0.1302,
      "match": "/articles/build-real-estate-portfolio/"
     }
    }
@@ -2822,7 +2822,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1658,
+     "s": 0.1664,
      "match": "/articles/maison-difficile-assurer-quebec/"
     }
    }
@@ -2866,12 +2866,12 @@
     "keyword": {
      "v": "PASS",
      "s": 0.25,
-     "match": "/articles/multilingual-broker-advantage/"
+     "match": "/articles/contrat-courtage-vente-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1538,
-     "match": "/articles/open-house-secrets/"
+     "s": 0.2652,
+     "match": "/articles/contrat-courtage-vente-quebec/"
     }
    }
   },
@@ -2908,18 +2908,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3109,
-     "match": "/articles/commission-explained-quebec/"
+     "s": 0.3486,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.125,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1033,
-     "match": "/articles/inspection-preachat-cout-moment-quebec/"
+     "s": 0.1758,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
   },
@@ -2966,8 +2966,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0724,
-     "match": "/articles/inspection-preachat-cout-moment-quebec/"
+     "s": 0.0927,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     }
    }
   },
@@ -3004,17 +3004,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2891,
-     "match": "/articles/real-estate-myths-debunked/"
+     "s": 0.3084,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1687,
+     "s": 0.1715,
      "match": "/articles/rental-property-management/"
     }
    }
@@ -3062,7 +3062,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1164,
+     "s": 0.1193,
      "match": "/articles/refinancement-hypothecaire-quebec/"
     }
    }
@@ -3110,7 +3110,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0666,
+     "s": 0.0671,
      "match": "/articles/mortgage-preapproval-mistakes/"
     }
    }
@@ -3148,17 +3148,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2062,
-     "match": "/articles/maison-difficile-assurer-quebec/"
+     "s": 0.2219,
+     "match": "/articles/contrat-courtage-vente-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.125,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0824,
+     "s": 0.0809,
      "match": "/articles/inspection-preachat-cout-moment-quebec/"
     }
    }
@@ -3206,7 +3206,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1256,
+     "s": 0.1239,
      "match": "/articles/renovations-dont-add-value/"
     }
    }
@@ -3244,8 +3244,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3409,
-     "match": "/articles/inheritance-property-quebec/"
+     "s": 0.3421,
+     "match": "/articles/garder-ou-vendre-propriete-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -3254,8 +3254,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0795,
-     "match": "/articles/condo-vs-house-montreal/"
+     "s": 0.0917,
+     "match": "/articles/garder-ou-vendre-propriete-quebec/"
     }
    }
   },
@@ -3302,7 +3302,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0498,
+     "s": 0.0508,
      "match": "/articles/refinancement-hypothecaire-quebec/"
     }
    }
@@ -3330,7 +3330,7 @@
    "translationKey": "article-ventre-de-boeuf",
    "needs_expert_review": false,
    "id": "t70",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -3350,7 +3350,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0723,
+     "s": 0.0732,
      "match": "/articles/guide-nouveaux-arrivants-quebec/"
     }
    }
@@ -3394,11 +3394,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.125,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0876,
+     "s": 0.0852,
      "match": "/articles/cout-entretien-maison-quebec/"
     }
    }
@@ -3446,7 +3446,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2537,
+     "s": 0.26,
      "match": "/articles/rental-property-management/"
     }
    }
@@ -3490,12 +3490,12 @@
     "keyword": {
      "v": "PASS",
      "s": 0.125,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0658,
-     "match": "/articles/laval-investment-city/"
+     "s": 0.0829,
+     "match": "/articles/impot-proprietaire-quebec/"
     }
    }
   },
@@ -3538,11 +3538,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1042,
+     "s": 0.0942,
      "match": "/articles/inspection-preachat-cout-moment-quebec/"
     }
    }
@@ -3586,12 +3586,12 @@
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.082,
-     "match": "/articles/heritage-property-montreal/"
+     "s": 0.0905,
+     "match": "/articles/reduire-facture-chauffage-quebec/"
     }
    }
   },
@@ -3634,12 +3634,12 @@
     "keyword": {
      "v": "PASS",
      "s": 0.125,
-     "match": "/articles/best-neighborhoods-montreal/"
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0738,
-     "match": "/articles/laval-investment-city/"
+     "s": 0.0916,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
   },
@@ -3686,7 +3686,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1046,
+     "s": 0.0947,
      "match": "/articles/inspection-preachat-cout-moment-quebec/"
     }
    }
@@ -3734,7 +3734,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1225,
+     "s": 0.1158,
      "match": "/articles/renovation-condo-copropriete-quebec/"
     }
    }
@@ -3782,8 +3782,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0748,
-     "match": "/articles/red-flags-walk-away-property/"
+     "s": 0.0732,
+     "match": "/articles/location-court-terme-quebec-regles/"
     }
    }
   },
@@ -3830,7 +3830,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0774,
+     "s": 0.0755,
      "match": "/articles/senior-downsizing-guide/"
     }
    }
@@ -3878,7 +3878,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1106,
+     "s": 0.1119,
      "match": "/articles/buying-property-with-family/"
     }
    }
@@ -3916,8 +3916,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2444,
-     "match": "/articles/cout-entretien-maison-quebec/"
+     "s": 0.3614,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -3926,7 +3926,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0918,
+     "s": 0.0955,
      "match": "/articles/cout-entretien-maison-quebec/"
     }
    }
@@ -3964,18 +3964,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2753,
-     "match": "/articles/inspection-preachat-cout-moment-quebec/"
+     "s": 0.3524,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "s": 0.2857,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0793,
-     "match": "/articles/laval-investment-city/"
+     "s": 0.1132,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
   },
@@ -4022,8 +4022,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1142,
-     "match": "/articles/red-flags-walk-away-property/"
+     "s": 0.11,
+     "match": "/articles/laval-investment-city/"
     }
    }
   },
@@ -4060,17 +4060,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.312,
-     "match": "/articles/new-construction-guide-quebec/"
+     "s": 0.35,
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.25,
-     "match": "/articles/buying-property-with-family/"
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1246,
+     "s": 0.1261,
      "match": "/articles/renting-vs-buying-calculation/"
     }
    }
@@ -4108,18 +4108,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.1849,
-     "match": "/articles/cash-buyers-advantage/"
+     "s": 0.1942,
+     "match": "/articles/comparables-prix-maison-voisin-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.1111,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0691,
-     "match": "/articles/laval-investment-city/"
+     "s": 0.1918,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
   },
@@ -4146,7 +4146,7 @@
    "translationKey": "article-indivise-cooperative",
    "needs_expert_review": true,
    "id": "t87",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -4166,7 +4166,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1397,
+     "s": 0.1408,
      "match": "/articles/condo-vs-house-montreal/"
     }
    }
@@ -4204,17 +4204,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3102,
-     "match": "/articles/heritage-property-montreal/"
+     "s": 0.3436,
+     "match": "/articles/location-court-terme-quebec-regles/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.25,
-     "match": "/articles/buying-property-with-family/"
+     "s": 0.4286,
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0775,
+     "s": 0.0781,
      "match": "/articles/mortgage-preapproval-mistakes/"
     }
    }
@@ -4262,7 +4262,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1244,
+     "s": 0.1311,
      "match": "/articles/acheter-laval-2025/"
     }
    }
@@ -4300,8 +4300,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3646,
-     "match": "/articles/cout-reel-vendre-maison-quebec/"
+     "s": 0.4042,
+     "match": "/articles/garder-ou-vendre-propriete-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -4310,7 +4310,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1165,
+     "s": 0.1169,
      "match": "/articles/renovations-dont-add-value/"
     }
    }
@@ -4348,8 +4348,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3125,
-     "match": "/articles/condo-fees-investment-killer/"
+     "s": 0.3269,
+     "match": "/articles/location-court-terme-quebec-regles/"
     },
     "keyword": {
      "v": "PASS",
@@ -4358,8 +4358,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0942,
-     "match": "/articles/laval-investment-city/"
+     "s": 0.0897,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
   },
@@ -4406,7 +4406,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1124,
+     "s": 0.1158,
      "match": "/articles/marche-immobilier-montreal/"
     }
    }
@@ -4444,17 +4444,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2689,
-     "match": "/articles/vendre-avec-ou-sans-courtier-quebec/"
+     "s": 0.2985,
+     "match": "/articles/location-court-terme-quebec-regles/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.125,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0706,
+     "s": 0.0712,
      "match": "/articles/maison-difficile-assurer-quebec/"
     }
    }
@@ -4502,7 +4502,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2279,
+     "s": 0.2323,
      "match": "/articles/buying-property-with-family/"
     }
    }
@@ -4530,7 +4530,7 @@
    "translationKey": "article-reprise-de-finance",
    "needs_expert_review": true,
    "id": "t95",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -4540,18 +4540,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3742,
-     "match": "/articles/everyone-deserves-homeownership/"
+     "s": 0.3968,
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.2857,
-     "match": "/articles/buying-property-with-family/"
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1179,
-     "match": "/articles/heritage-property-montreal/"
+     "s": 0.1517,
+     "match": "/articles/vente-sans-garantie-legale-quebec/"
     }
    }
   },
@@ -4588,18 +4588,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2839,
-     "match": "/articles/inspection-preachat-cout-moment-quebec/"
+     "s": 0.3376,
+     "match": "/articles/contrat-courtage-vente-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1096,
-     "match": "/articles/new-construction-guide-quebec/"
+     "s": 0.1157,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     }
    }
   },
@@ -4646,7 +4646,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1009,
+     "s": 0.1013,
      "match": "/articles/rive-nord-guide-laval/"
     }
    }
@@ -4684,18 +4684,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.241,
-     "match": "/articles/everyone-deserves-homeownership/"
+     "s": 0.2838,
+     "match": "/articles/location-court-terme-quebec-regles/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "s": 0.2857,
+     "match": "/articles/location-court-terme-quebec-regles/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0881,
-     "match": "/articles/new-construction-guide-quebec/"
+     "s": 0.2628,
+     "match": "/articles/location-court-terme-quebec-regles/"
     }
    }
   },
@@ -4741,7 +4741,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1605,
+     "s": 0.1638,
      "match": "/articles/renovation-condo-copropriete-quebec/"
     }
    }
@@ -4779,18 +4779,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3313,
-     "match": "/articles/buying-property-with-family/"
+     "s": 0.3526,
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.3333,
-     "match": "/articles/buying-property-with-family/"
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0714,
-     "match": "/articles/house-flipping-montreal/"
+     "s": 0.0863,
+     "match": "/articles/acheter-zone-inondable-quebec/"
     }
    }
   },
@@ -4836,8 +4836,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0707,
-     "match": "/articles/real-estate-myths-debunked/"
+     "s": 0.0871,
+     "match": "/articles/reduire-facture-chauffage-quebec/"
     }
    }
   },
@@ -4883,7 +4883,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1844,
+     "s": 0.182,
      "match": "/articles/renovation-condo-copropriete-quebec/"
     }
    }
@@ -4931,7 +4931,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0918,
+     "s": 0.0947,
      "match": "/articles/contester-evaluation-municipale-quebec/"
     }
    }
@@ -4968,18 +4968,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2521,
-     "match": "/articles/first-visit-property-checklist/"
+     "s": 0.2876,
+     "match": "/articles/impot-proprietaire-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "s": 0.3333,
+     "match": "/articles/impot-proprietaire-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1072,
-     "match": "/articles/renovation-condo-copropriete-quebec/"
+     "s": 0.1136,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
   },
@@ -5021,12 +5021,12 @@
     "keyword": {
      "v": "PASS",
      "s": 0.125,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0801,
-     "match": "/articles/bidding-wars-truth-montreal/"
+     "s": 0.0773,
+     "match": "/articles/cout-entretien-maison-quebec/"
     }
    }
   },
@@ -5072,7 +5072,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1281,
+     "s": 0.1318,
      "match": "/articles/renovation-condo-copropriete-quebec/"
     }
    }
@@ -5109,8 +5109,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2852,
-     "match": "/articles/inheritance-property-quebec/"
+     "s": 0.293,
+     "match": "/articles/location-court-terme-quebec-regles/"
     },
     "keyword": {
      "v": "PASS",
@@ -5119,7 +5119,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1345,
+     "s": 0.1257,
      "match": "/articles/preparer-maison-vente/"
     }
    }
@@ -5166,7 +5166,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2581,
+     "s": 0.2647,
      "match": "/articles/rive-nord-guide-laval/"
     }
    }
@@ -5203,18 +5203,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3808,
-     "match": "/articles/commission-explained-quebec/"
+     "s": 0.5398,
+     "match": "/articles/contrat-courtage-vente-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "s": 0.5,
+     "match": "/articles/contrat-courtage-vente-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2036,
-     "match": "/articles/off-market-properties/"
+     "s": 0.2763,
+     "match": "/articles/contrat-courtage-vente-quebec/"
     }
    }
   },
@@ -5260,7 +5260,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0815,
+     "s": 0.0835,
      "match": "/articles/first-time-buyer-tax-credits/"
     }
    }
@@ -5297,18 +5297,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2472,
-     "match": "/articles/why-choose-remax/"
+     "s": 0.3148,
+     "match": "/articles/reduire-facture-chauffage-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.125,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "s": 0.4286,
+     "match": "/articles/reduire-facture-chauffage-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0994,
-     "match": "/articles/property-tax-explained/"
+     "s": 0.1434,
+     "match": "/articles/reduire-facture-chauffage-quebec/"
     }
    }
   },
@@ -5404,7 +5404,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0982,
+     "s": 0.0983,
      "match": "/articles/down-payment-myth-debunked/"
     }
    }
@@ -5442,17 +5442,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.266,
-     "match": "/articles/vendre-avec-ou-sans-courtier-quebec/"
+     "s": 0.2946,
+     "match": "/articles/contrat-courtage-vente-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "s": 0.3333,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1797,
+     "s": 0.1793,
      "match": "/articles/house-flipping-montreal/"
     }
    }
@@ -5490,17 +5490,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2581,
-     "match": "/articles/off-market-properties/"
+     "s": 0.3097,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.117,
+     "s": 0.1141,
      "match": "/articles/laval-investment-city/"
     }
    }
@@ -5543,11 +5543,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.2857,
-     "match": "/articles/buying-property-with-family/"
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1316,
+     "s": 0.134,
      "match": "/articles/open-house-secrets/"
     }
    }
@@ -5590,11 +5590,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.2857,
-     "match": "/articles/buying-property-with-family/"
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0801,
+     "s": 0.0773,
      "match": "/articles/cash-buyers-advantage/"
     }
    }
@@ -5638,12 +5638,12 @@
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0544,
-     "match": "/articles/quel-salaire-pour-acheter-montreal/"
+     "s": 0.1631,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
   },
@@ -5689,8 +5689,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0605,
-     "match": "/articles/preparer-maison-vente/"
+     "s": 0.0881,
+     "match": "/articles/location-court-terme-quebec-regles/"
     }
    }
   },
@@ -5736,7 +5736,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.121,
+     "s": 0.1215,
      "match": "/articles/first-time-buyer-tax-credits/"
     }
    }
@@ -5773,17 +5773,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3313,
-     "match": "/articles/new-construction-guide-quebec/"
+     "s": 0.397,
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.2857,
-     "match": "/articles/buying-property-with-family/"
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1452,
+     "s": 0.137,
      "match": "/articles/income-property-beginners/"
     }
    }
@@ -5830,7 +5830,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0635,
+     "s": 0.0603,
      "match": "/articles/hidden-homeownership-costs/"
     }
    }
@@ -5914,8 +5914,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.271,
-     "match": "/articles/cash-buyers-advantage/"
+     "s": 0.4051,
+     "match": "/articles/vente-sans-garantie-legale-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -5924,7 +5924,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2814,
+     "s": 0.2895,
      "match": "/articles/new-construction-guide-quebec/"
     }
    }
@@ -5967,12 +5967,12 @@
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0918,
-     "match": "/articles/everyone-deserves-homeownership/"
+     "s": 0.0905,
+     "match": "/articles/best-mortgage-rate-canada/"
     }
    }
   },
@@ -6009,8 +6009,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3455,
-     "match": "/articles/new-construction-guide-quebec/"
+     "s": 0.3991,
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -6019,7 +6019,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1532,
+     "s": 0.1573,
      "match": "/articles/maison-difficile-assurer-quebec/"
     }
    }
@@ -6063,12 +6063,12 @@
     "keyword": {
      "v": "PASS",
      "s": 0.3333,
-     "match": "/articles/buying-property-with-family/"
+     "match": "/articles/acheter-zone-inondable-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1107,
-     "match": "/articles/maison-difficile-assurer-quebec/"
+     "s": 0.1273,
+     "match": "/articles/acheter-zone-inondable-quebec/"
     }
    }
   },
@@ -6201,17 +6201,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2286,
-     "match": "/articles/broker-agent-difference-quebec/"
+     "s": 0.2403,
+     "match": "/articles/location-court-terme-quebec-regles/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/contester-evaluation-municipale-quebec/"
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1055,
+     "s": 0.1088,
      "match": "/articles/off-market-properties/"
     }
    }
@@ -6259,8 +6259,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1044,
-     "match": "/articles/red-flags-walk-away-property/"
+     "s": 0.0988,
+     "match": "/articles/acheter-laval-2025/"
     }
    }
   },
@@ -6306,7 +6306,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1174,
+     "s": 0.1194,
      "match": "/articles/open-house-secrets/"
     }
    }
@@ -6357,7 +6357,1880 @@
      "match": "/articles/combien-de-temps-vendre-maison-montreal/"
     }
    }
+  },
+  {
+   "ref_id": 995,
+   "reference_theme": "Étape par étape : le processus de mise en vente d'une maison par un courtier",
+   "topic": "Mettre sa propriete en vente au Quebec: les douze etapes, du premier appel a l acte notarie",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "processus de vente maison quebec",
+   "search_intent": "procedural",
+   "funnel_stage": "consideration",
+   "unique_angle": "Au Quebec, chaque etape de la mise en vente est attachee a un document obligatoire de l OACIQ: le contrat de courtage exclusif, les Declarations du vendeur sur l immeuble, la fiche descriptive versee a Centris, puis la promesse d achat avec ses delais de realisation des conditions. Le vendeur doit aussi produire un certificat de localisation refletant l etat actuel des lieux, sinon le notaire ou le preteur de l acheteur bloque la signature. La transaction se termine obligatoirement devant notaire, avec les repartitions de taxes municipales et scolaires et la quittance de l hypotheque existante.",
+   "planned_h2": [
+    "Avant de signer quoi que ce soit: evaluer et rassembler les documents",
+    "Le contrat de courtage vente: duree, prix, retribution",
+    "Les Declarations du vendeur, remplies avant la mise en marche",
+    "Preparation, photos et fiche descriptive sur Centris",
+    "Visites, retroaction et ajustement de prix",
+    "Recevoir une promesse d achat: delai de reponse, contre proposition",
+    "Inspection, financement et levee des conditions",
+    "Chez le notaire: quittance, repartitions et remise des cles"
+   ],
+   "slug": "processus-mise-en-vente-etapes-quebec",
+   "translationKey": "article-processus-mise-en-vente",
+   "needs_expert_review": false,
+   "id": "t134",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3901,
+     "match": "/articles/everyone-deserves-homeownership/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/contrat-courtage-vente-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1456,
+     "match": "/articles/contrat-courtage-vente-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 993,
+   "reference_theme": "Les particularités du marché immobilier au Québec",
+   "topic": "Ce qui rend une transaction immobiliere quebecoise unique au Canada",
+   "category": "Immobilier 101",
+   "target_keyword_fr": "particularites immobilier quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "notoriete",
+   "unique_angle": "Le Quebec est la seule province de droit civil, donc la vente d un immeuble repose sur le Code civil plutot que sur la common law: garantie legale de qualite de l article 1726, acte de vente recu par un notaire et publie au registre foncier, et non par un avocat. Le courtage est encadre par la Loi sur le courtage immobilier et l OACIQ, avec des formulaires obligatoires que les autres provinces n ont pas, et les inscriptions passent par Centris plutot que par un systeme MLS provincial. S ajoutent les droits de mutation percus par la municipalite, le bail obligatoire du Tribunal administratif du logement et un taux de proprietaires plus bas qu ailleurs au pays.",
+   "planned_h2": [
+    "Droit civil contre common law: pourquoi ca change tout",
+    "Le notaire obligatoire et le registre foncier",
+    "La garantie legale de qualite, absente ailleurs sous cette forme",
+    "OACIQ, formulaires obligatoires et Centris",
+    "Droits de mutation, taxes municipales et taxe scolaire",
+    "Le marche locatif encadre par le Tribunal administratif du logement",
+    "Le calendrier du 1er juillet et ses effets sur les transactions",
+    "Ce qu un acheteur venu d une autre province doit desapprendre"
+   ],
+   "slug": "particularites-transaction-immobiliere-quebec",
+   "translationKey": "article-particularites-quebec",
+   "needs_expert_review": false,
+   "id": "t135",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.47,
+     "match": "/articles/multilingual-broker-advantage/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1667,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1418,
+     "match": "/articles/multilingual-broker-advantage/"
+    }
+   }
+  },
+  {
+   "ref_id": 984,
+   "reference_theme": "Découvrez les côtés moins connus du métier de courtier immobilier",
+   "topic": "Le devoir de verification du courtier: ce qu il doit controler avant de vous faire signer",
+   "category": "Immobilier 101",
+   "target_keyword_fr": "devoir de verification courtier quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "notoriete",
+   "unique_angle": "La Loi sur le courtage immobilier impose au courtier un devoir de verification et un devoir d information qui vont bien au dela de la visite: titre au registre foncier, certificat de localisation, role d evaluation, matrice graphique, zonage, taxes, et coherence des renseignements fournis par le vendeur. Le courtier doit conserver un dossier et des registres pour chaque transaction et les rendre disponibles a l inspection de l OACIQ. Un manquement ouvre une plainte au syndic, et une fraude peut donner acces au Fonds d indemnisation du courtage immobilier, ce qui explique pourquoi certaines demandes du courtier semblent tatillonnes.",
+   "planned_h2": [
+    "Ce que la loi exige d un courtier, au dela de la vente",
+    "Les verifications faites avant de publier une inscription",
+    "Registre foncier, role d evaluation et certificat de localisation",
+    "Zonage, usages permis et logements non conformes",
+    "Le dossier et les registres conserves pour chaque transaction",
+    "Verification d identite et declaration a CANAFE",
+    "Plainte au syndic, discipline et Fonds d indemnisation",
+    "Les questions a poser pour verifier que le travail a ete fait"
+   ],
+   "slug": "devoir-verification-courtier-quebec",
+   "translationKey": "article-devoir-verification",
+   "needs_expert_review": true,
+   "id": "t136",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3175,
+     "match": "/articles/location-court-terme-quebec-regles/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/vendre-avec-ou-sans-courtier-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.124,
+     "match": "/articles/multilingual-broker-advantage/"
+    }
+   }
+  },
+  {
+   "ref_id": 983,
+   "reference_theme": "Vendre votre maison avant d'en acheter une autre : les avantages et les inconvénients",
+   "topic": "Vendre avant d acheter ou acheter avant de vendre: le calcul et les clauses au Quebec",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "vendre avant d acheter maison quebec",
+   "search_intent": "decisionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Les formulaires de l OACIQ prevoient une promesse d achat conditionnelle a la vente de la propriete de l acheteur, presque toujours accompagnee d une clause permettant au vendeur de demander a l acheteur de rendre sa promesse ferme dans un delai court, souvent 72 heures, ce qui affaiblit considerablement cette condition en marche serre. Du cote financement, un pret relais n est generalement consenti qu a partir d une promesse d achat acceptee et sans condition sur la propriete vendue, avec des interets calcules quotidiennement. Le double portage se chiffre precisement: hypotheque, taxes, assurance et chauffage sur deux proprietes, plus les frais de deux actes notaries.",
+   "planned_h2": [
+    "Les trois scenarios possibles, et le risque de chacun",
+    "La clause conditionnelle a la vente et la clause de 72 heures",
+    "Le pret relais: conditions reelles des preteurs quebecois",
+    "Calculer le cout d un double portage mois par mois",
+    "Dates d occupation, entreposage et logement temporaire",
+    "Ce que le marche local fait basculer d un scenario a l autre",
+    "Negocier une date de cloture plutot qu un prix",
+    "Le tableau de decision a remplir avec votre courtier"
+   ],
+   "slug": "vendre-avant-acheter-clauses-quebec",
+   "translationKey": "article-vendre-avant-acheter",
+   "needs_expert_review": true,
+   "id": "t137",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3262,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.4286,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0985,
+     "match": "/articles/contrat-courtage-vente-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 967,
+   "reference_theme": "Casser une hypothèque : avantages et inconvénients à considérer",
+   "topic": "Casser son hypotheque au Quebec: penalite, differentiel de taux et cas ou ca vaut la peine",
+   "category": "Financement",
+   "target_keyword_fr": "penalite pour casser une hypotheque",
+   "search_intent": "decisionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Sur un pret a taux fixe, la penalite correspond au plus eleve entre trois mois d interets et le differentiel de taux d interet, et le calcul change du tout au tout selon que le preteur compare avec son taux affiche ou avec le taux reellement consenti, ce qui explique des ecarts de plusieurs milliers de dollars entre deux institutions. Sur un taux variable, c est generalement trois mois d interets. Particularite quebecoise: changer de preteur impose un nouvel acte hypothecaire recu par notaire et publie au registre foncier, plus la radiation de l ancien, des frais absents des provinces de common law qui doivent entrer dans le calcul avant de conclure qu un rabais de taux est rentable.",
+   "planned_h2": [
+    "Les deux formules de penalite et ce qui les declenche",
+    "Trois mois d interets ou differentiel de taux: le calcul explique",
+    "Taux affiche ou taux consenti: l ecart qui coute le plus cher",
+    "Les frais notaries et de radiation propres au Quebec",
+    "Transferer son pret plutot que le casser: portabilite et cession",
+    "Les situations ou casser est rentable: vente, separation, refinancement",
+    "Ce que le preteur doit vous divulguer avant que vous signiez",
+    "La verification a faire avant de dire oui a une offre de rabais"
+   ],
+   "slug": "casser-hypotheque-penalite-quebec",
+   "translationKey": "article-casser-hypotheque",
+   "needs_expert_review": true,
+   "id": "t138",
+   "status": "in_progress",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2769,
+     "match": "/articles/garder-ou-vendre-propriete-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.2626,
+     "match": "/articles/refinancement-hypothecaire-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 965,
+   "reference_theme": "Comment vous préparer à la première rencontre avec votre courtier ?",
+   "topic": "Premiere rencontre avec un courtier: les documents a apporter selon que vous achetez ou vendez",
+   "category": "Guide pratique",
+   "target_keyword_fr": "premiere rencontre courtier immobilier",
+   "search_intent": "procedural",
+   "funnel_stage": "decision",
+   "unique_angle": "Des la signature d un contrat de courtage, le courtier doit verifier votre identite a partir d une piece officielle en vertu des obligations envers CANAFE, ce qui surprend ceux qui pensaient a une simple conversation. Un vendeur gagne du temps en apportant son acte de vente, son certificat de localisation, ses comptes de taxes municipales et scolaires, son releve hypothecaire, ses factures de travaux et, en copropriete, la declaration et les derniers proces verbaux. Un acheteur qui arrive avec une preapprobation datee et une preuve de mise de fonds obtient une strategie chiffree au lieu d une discussion generale.",
+   "planned_h2": [
+    "Ce qui se decide vraiment a cette premiere rencontre",
+    "La piece d identite exigee des le depart, et pourquoi",
+    "Vendeur: les huit documents a sortir de vos dossiers",
+    "Copropriete: declaration, proces verbaux et etat des charges",
+    "Acheteur: preapprobation, mise de fonds et criteres ecrits",
+    "Les questions a poser au courtier, et celles auxquelles il doit repondre",
+    "Le contrat de courtage: ce que vous signez ce jour la ou pas",
+    "Ce qui se passe dans les 48 heures suivantes"
+   ],
+   "slug": "preparer-rencontre-courtier-documents",
+   "translationKey": "article-rencontre-courtier",
+   "needs_expert_review": false,
+   "id": "t139",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2885,
+     "match": "/articles/open-house-secrets/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.125,
+     "match": "/articles/broker-agent-difference-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1277,
+     "match": "/articles/condo-vs-house-montreal/"
+    }
+   }
+  },
+  {
+   "ref_id": 953,
+   "reference_theme": "Quoi savoir avant d'acheter une maison à l'étranger",
+   "topic": "Acheter une propriete a l etranger quand on habite le Quebec: impot, declaration et succession",
+   "category": "Investissement",
+   "target_keyword_fr": "acheter propriete etranger quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Un resident du Quebec est impose sur son revenu mondial par Revenu Quebec et par l Agence du revenu du Canada, donc le loyer percu en Floride ou ailleurs se declare ici, avec credit pour impot etranger. Le formulaire T1135 devient obligatoire des que le cout des biens etrangers depasse 100 000 dollars, sauf pour un bien detenu strictement pour usage personnel, une nuance que beaucoup de proprietaires de condo de vacances decouvrent trop tard. Une seule propriete par famille peut etre designee residence principale pour une annee donnee, et les Etats Unis appliquent un impot successoral aux non residents au dela d un seuil, ce qui justifie une structure de detention reflechie avant l achat.",
+   "planned_h2": [
+    "Financer a l etranger: pourquoi votre banque canadienne dit non",
+    "Refinancer sa propriete quebecoise pour acheter ailleurs",
+    "Declarer les revenus de location au Canada et au Quebec",
+    "Le formulaire T1135 et le seuil de 100 000 dollars",
+    "Designation de residence principale et gain en capital a la revente",
+    "Impot successoral americain et detention par societe ou fiducie",
+    "Assurance, gestion a distance et absence prolongee",
+    "Les professionnels a consulter avant de signer, pas apres"
+   ],
+   "slug": "acheter-propriete-etranger-quebec",
+   "translationKey": "article-propriete-etranger",
+   "needs_expert_review": true,
+   "id": "t140",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.363,
+     "match": "/articles/acheter-zone-inondable-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/acheter-zone-inondable-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1289,
+     "match": "/articles/impot-proprietaire-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 952,
+   "reference_theme": "2024 sera-t-elle une année de vendeurs ou d'acheteurs ?",
+   "topic": "Marche d acheteurs ou de vendeurs: les trois indicateurs a lire sur Montreal et Laval",
+   "category": "Analyse de marche",
+   "target_keyword_fr": "marche acheteur ou vendeur montreal",
+   "search_intent": "informationnel",
+   "funnel_stage": "notoriete",
+   "unique_angle": "L APCIQ publie chaque mois, par region metropolitaine et par categorie de propriete, les trois seules mesures qui tranchent la question: le nombre de mois d inventaire, le delai de vente median et le rapport entre le prix de vente et le prix demande. Un marche se dit equilibre autour de 6 a 9 mois d inventaire, favorable au vendeur en dessous et a l acheteur au dessus, et ces valeurs different fortement entre l unifamiliale, la copropriete et le plex, et entre Montreal, Laval et la Rive Nord. Conclusion pratique: il n existe presque jamais un seul marche a un moment donne, il en existe plusieurs dans la meme ville.",
+   "planned_h2": [
+    "Ce que veut dire marche d acheteurs, en chiffres",
+    "Mois d inventaire: la mesure a retenir et ou la trouver",
+    "Delai de vente median et ce qu il revele du rapport de force",
+    "Prix de vente sur prix demande: l indicateur de surenchere",
+    "Pourquoi les trois categories de propriete ne bougent pas ensemble",
+    "Montreal, Laval et la Rive Nord: lire les ecarts entre secteurs",
+    "Les indicateurs a ignorer: predictions, moyennes nationales, titres",
+    "Traduire les donnees en strategie d offre ou de mise en marche"
+   ],
+   "slug": "marche-acheteurs-vendeurs-indicateurs",
+   "translationKey": "article-marche-acheteur-vendeur",
+   "needs_expert_review": false,
+   "id": "t141",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.4068,
+     "match": "/articles/marche-immobilier-montreal/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/interest-rates-montreal-market/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.2362,
+     "match": "/articles/marche-immobilier-montreal/"
+    }
+   }
+  },
+  {
+   "ref_id": 949,
+   "reference_theme": "Maximiser la valeur de votre plex : nos astuces pour un investissement lucratif",
+   "topic": "Augmenter la valeur d un plex a Montreal ou a Laval: ce qui compte vraiment",
+   "category": "Investissement",
+   "target_keyword_fr": "augmenter la valeur d un plex",
+   "search_intent": "decisionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Un plex de 2 a 5 logements se vend surtout par comparaison, mais le revenu net normalise decide de l offre des investisseurs et de l analyse du preteur, donc chaque dollar de loyer recurrent vaut plusieurs dollars de prix. Or les loyers ne se rattrapent pas d un coup: la fixation suit le Reglement sur les criteres de fixation de loyer, qui reconnait les travaux majeurs sur une base amortie et les hausses de taxes et d assurances, pas le rendement souhaite. La section G du bail suit le logement et non le proprietaire, et un logement au sous sol non conforme au zonage retranche de la valeur au lieu d en ajouter.",
+   "planned_h2": [
+    "Comment un plex quebecois est reellement evalue",
+    "Le revenu net normalise: les depenses que l acheteur va recalculer",
+    "Hausses de loyer: ce que les criteres du TAL permettent",
+    "Travaux majeurs amortis: les renovations qui se recuperent",
+    "Vacances, mauvaises creances et roulement des locataires",
+    "Le logement non conforme qui coute de la valeur",
+    "Documents a batir des maintenant pour vendre plus cher",
+    "Vendre a un investisseur ou a un futur occupant: deux prix"
+   ],
+   "slug": "maximiser-valeur-plex-montreal",
+   "translationKey": "article-valeur-plex",
+   "needs_expert_review": true,
+   "id": "t142",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3985,
+     "match": "/articles/income-property-beginners/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1429,
+     "match": "/articles/income-property-beginners/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.117,
+     "match": "/articles/renovations-dont-add-value/"
+    }
+   }
+  },
+  {
+   "ref_id": 921,
+   "reference_theme": "Animaux dans les immeubles à condos : comment assurer une bonne cohabitation ?",
+   "topic": "Animaux en copropriete: ce que la declaration peut interdire, et ce qui ne tient pas",
+   "category": "Immobilier 101",
+   "target_keyword_fr": "animaux interdits condo quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La declaration de copropriete publiee au registre foncier est opposable a tout acheteur et a tout locataire, et les tribunaux quebecois ont maintenu des interdictions d animaux inscrites dans cette declaration, alors qu une regle adoptee par simple resolution du conseil d administration a beaucoup moins de force. L article 1063 du Code civil garantit en retour l usage et la jouissance paisible des lieux, ce qui encadre les nuisances reelles plutot que la simple presence d un animal. Les chiens d assistance relevent d une analyse distincte fondee sur la Charte des droits et libertes de la personne, et le syndicat dispose de recours allant de l amende prevue a la declaration jusqu a l injonction.",
+   "planned_h2": [
+    "Ou se trouve la regle: declaration, reglement de l immeuble ou resolution",
+    "Ce qu une interdiction publiee peut vraiment imposer",
+    "Nuisance et jouissance paisible: l article 1063 du Code civil",
+    "Animaux d assistance et obligation d accommodement",
+    "Les recours du syndicat, etape par etape",
+    "Le locataire de l unite: qui repond de son chien",
+    "Faire modifier la regle: majorite requise en assemblee",
+    "La verification a faire avant de signer une promesse d achat"
+   ],
+   "slug": "animaux-copropriete-declaration-quebec",
+   "translationKey": "article-animaux-condo",
+   "needs_expert_review": true,
+   "id": "t143",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3312,
+     "match": "/articles/condo-vs-house-montreal/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/renovation-condo-copropriete-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1242,
+     "match": "/articles/location-court-terme-quebec-regles/"
+    }
+   }
+  },
+  {
+   "ref_id": 917,
+   "reference_theme": "Achat d'une maison en vue de sa démolition: tout ce qu'il faut savoir",
+   "topic": "Acheter pour demolir et reconstruire: le comite de demolition, le permis et les couts caches",
+   "category": "Investissement",
+   "target_keyword_fr": "acheter une maison pour demolir quebec",
+   "search_intent": "procedural",
+   "funnel_stage": "consideration",
+   "unique_angle": "La Loi sur l amenagement et l urbanisme oblige les municipalites a encadrer la demolition d immeubles par reglement et a soumettre les demandes a un comite, avec avis public, periode d opposition et pouvoir de refus, un regime resserre depuis la reforme du patrimoine de 2021 qui vise notamment les batiments construits avant 1940. A Montreal comme a Laval, un immeuble situe en secteur de valeur patrimoniale ou un logement locatif existant complique fortement l autorisation. S ajoutent le depot de garantie exige, le delai impose pour reconstruire, la caracterisation avant demolition pour l amiante et la deconnexion des services municipaux.",
+   "planned_h2": [
+    "La regle de depart: demolir n est pas un droit",
+    "Le comite de demolition, l avis public et l opposition",
+    "Patrimoine, batiments d avant 1940 et secteurs proteges",
+    "Demolir un immeuble qui contient des logements loues",
+    "Amiante, deconnexion des services et disposition des debris",
+    "Depot de garantie et delai de reconstruction imposes",
+    "Le budget complet: terrain, demolition, permis, construction",
+    "Les conditions a mettre dans la promesse d achat"
+   ],
+   "slug": "acheter-pour-demolir-permis-quebec",
+   "translationKey": "article-demolition-reconstruction",
+   "needs_expert_review": true,
+   "id": "t144",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2795,
+     "match": "/articles/new-construction-guide-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/acheter-zone-inondable-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0805,
+     "match": "/articles/real-estate-myths-debunked/"
+    }
+   }
+  },
+  {
+   "ref_id": 914,
+   "reference_theme": "Le Plan de garantie des bâtiments résidentiels neufs",
+   "topic": "La garantie GCR sur une maison neuve: ce qui est couvert, pendant combien de temps",
+   "category": "Guide de l'acheteur",
+   "target_keyword_fr": "garantie maison neuve gcr quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le Reglement sur le plan de garantie des batiments residentiels neufs, administre par Garantie de construction residentielle, couvre l acompte, le parachevement des travaux, les vices et malfaçons apparents denonces au moment de la reception, les malfaçons non apparentes pendant 1 an, les vices caches pendant 3 ans et les vices de conception, de construction ou de realisation pendant 5 ans. La denonciation ecrite dans un delai raisonnable de la decouverte est la condition qui fait perdre le plus de dossiers. La reception du batiment se fait avec un formulaire precis, et les differends passent par la mediation puis l arbitrage plutot que par les tribunaux, avec des exclusions notables.",
+   "planned_h2": [
+    "Qui est couvert et quels batiments sont exclus",
+    "L inspection prereception et le formulaire a remplir",
+    "Acompte, parachevement et retard de livraison",
+    "Malfaçons 1 an, vices caches 3 ans, vices majeurs 5 ans",
+    "Denoncer par ecrit: le delai qui fait perdre les droits",
+    "Mediation, arbitrage et frais",
+    "Limites monetaires et ce qui n est jamais couvert",
+    "Verifier l accreditation de l entrepreneur avant de signer"
+   ],
+   "slug": "garantie-gcr-maison-neuve-quebec",
+   "translationKey": "article-garantie-gcr",
+   "needs_expert_review": true,
+   "id": "t145",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2651,
+     "match": "/articles/cout-entretien-maison-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.25,
+     "match": "/articles/cout-entretien-maison-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1709,
+     "match": "/articles/new-construction-guide-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 912,
+   "reference_theme": "6 moyens d'acheter une propriété sans mise de fonds",
+   "topic": "Acheter sans mise de fonds au Quebec: ce qui est permis, ce qui est un mythe",
+   "category": "Financement",
+   "target_keyword_fr": "acheter maison sans mise de fonds",
+   "search_intent": "decisionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La mise de fonds minimale de 5 pour cent jusqu a 500 000 dollars et de 10 pour cent sur la tranche suivante n est pas negociable pour un pret assure, mais sa provenance l est: don d un proche appuye par une lettre de don confirmant qu aucun remboursement n est attendu, mise de fonds empruntee acceptee par un nombre limite de preteurs avec la dette incluse au ratio ATD, RAP, CELIAPP ou marge hypothecaire consentie sur la propriete d un parent. Le piege quebecois: la TVQ sur la prime d assurance pret hypothecaire se paie comptant a la signature, elle ne s ajoute pas au pret, ce qui ramene une mise de fonds nulle a une facture bien reelle.",
+   "planned_h2": [
+    "Le minimum reglementaire, et pourquoi il ne bouge pas",
+    "Don d un proche: la lettre de don et ce que le preteur verifie",
+    "Mise de fonds empruntee: quels preteurs, a quel cout",
+    "RAP et CELIAPP: montants, delais et cumul",
+    "Marge hypothecaire sur la propriete d un parent",
+    "Programmes municipaux et incitatifs encore offerts",
+    "La TVQ sur la prime SCHL et les autres sommes exigees comptant",
+    "Quand acheter sans epargne est une mauvaise idee, meme si c est possible"
+   ],
+   "slug": "acheter-sans-mise-de-fonds-quebec",
+   "translationKey": "article-sans-mise-de-fonds",
+   "needs_expert_review": true,
+   "id": "t146",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.4198,
+     "match": "/articles/acheter-zone-inondable-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/down-payment-myth-debunked/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1412,
+     "match": "/articles/down-payment-myth-debunked/"
+    }
+   }
+  },
+  {
+   "ref_id": 903,
+   "reference_theme": "Bruits dérangeants dans un immeuble à condos : quoi faire?",
+   "topic": "Bruit en copropriete a Montreal: les recours reels du proprietaire et du locataire",
+   "category": "Guide pratique",
+   "target_keyword_fr": "bruit voisin condo montreal recours",
+   "search_intent": "procedural",
+   "funnel_stage": "consideration",
+   "unique_angle": "L article 1063 du Code civil garantit a chaque coproprietaire l usage et la jouissance paisible de sa partie privative, et la plupart des declarations de copropriete imposent un pourcentage minimal de recouvrement de plancher souple ou un indice d insonorisation lors d un changement de revetement, ce qui est la premiere clause a verifier quand le bruit vient d en haut. Le syndicat a l obligation de faire respecter la declaration et peut demander une injonction, alors qu un locataire s adresse plutot au Tribunal administratif du logement contre son locateur. Les reglements de bruit de Montreal et de Laval visent surtout les sources exterieures, donc ils aident rarement entre deux unites.",
+   "planned_h2": [
+    "Identifier la source: bruit d impact, aerien ou mecanique",
+    "La clause de recouvrement de plancher dans la declaration",
+    "Ce que l article 1063 protege reellement",
+    "Documenter: registre, mesures, temoins, mise en demeure",
+    "Le role du syndicat et ses moyens d intervention",
+    "Locataire: la voie du Tribunal administratif du logement",
+    "Insonoriser: ce qui fonctionne et qui paie",
+    "Avant d acheter: proces verbaux, plaintes et visite en soiree"
+   ],
+   "slug": "bruit-copropriete-recours-montreal",
+   "translationKey": "article-bruit-condo",
+   "needs_expert_review": true,
+   "id": "t147",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3617,
+     "match": "/articles/condo-vs-house-montreal/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1111,
+     "match": "/articles/best-neighborhoods-montreal/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.114,
+     "match": "/articles/contester-evaluation-municipale-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 898,
+   "reference_theme": "Location de condo ou de maison : faites affaire avec un courtier!",
+   "topic": "Louer son condo au Quebec: ce que le syndicat, le bail et le TAL imposent au proprietaire",
+   "category": "Investissement",
+   "target_keyword_fr": "louer son condo quebec regles",
+   "search_intent": "procedural",
+   "funnel_stage": "consideration",
+   "unique_angle": "Louer sa partie privative n est pas une decision purement privee: le Code civil oblige le coproprietaire a aviser le syndicat de la location et a fournir les coordonnees du locataire, et le syndicat peut demander au tribunal la resiliation du bail lorsque le locataire enfreint de maniere serieuse le reglement de l immeuble. Plusieurs declarations exigent en plus la remise du reglement au locataire et limitent la duree minimale du bail pour bloquer la location touristique. Cote locatif, le bail doit etre redige sur le formulaire obligatoire du Tribunal administratif du logement, la section G doit indiquer le loyer le plus bas des douze derniers mois, le depot de garantie est interdit et le releve 31 doit etre remis chaque annee.",
+   "planned_h2": [
+    "Ce que la declaration de copropriete permet et interdit",
+    "Aviser le syndicat: l obligation du coproprietaire locateur",
+    "Le bail du TAL, la section G et l avis au nouveau locataire",
+    "Selectionner un locataire sans enfreindre la loi",
+    "Depot de garantie interdit et autres clauses nulles",
+    "Qui repond des dommages et du bruit causes par le locataire",
+    "Assurance du proprietaire bailleur et avenant exige",
+    "Impot, releve 31 et depenses deductibles"
+   ],
+   "slug": "louer-son-condo-syndicat-tal",
+   "translationKey": "article-louer-condo",
+   "needs_expert_review": true,
+   "id": "t148",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3066,
+     "match": "/articles/renovation-condo-copropriete-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/location-court-terme-quebec-regles/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.2031,
+     "match": "/articles/rental-property-management/"
+    }
+   }
+  },
+  {
+   "ref_id": 897,
+   "reference_theme": "Maison mobile : 7 raisons pour en faire l'achat",
+   "topic": "Maison mobile au Quebec: bail de terrain, financement et ce que protege le Code civil",
+   "category": "Guide de l'acheteur",
+   "target_keyword_fr": "acheter une maison mobile quebec",
+   "search_intent": "decisionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Quand la maison repose sur un terrain loue dans un parc, l acheteur signe deux ententes: il devient proprietaire du batiment et locataire du terrain, et ce bail de terrain est regi par le Code civil et le Tribunal administratif du logement avec des regles propres aux maisons mobiles, dont l encadrement du loyer et le droit de vendre sa maison sur place. Les preteurs financent rarement par hypotheque un batiment sans terrain, donc le pret ressemble a un pret personnel, a taux plus eleve et a amortissement plus court. Le batiment se deprecie pendant que le loyer de terrain suit les hausses autorisees, un profil financier a l oppose de celui d une maison sur terrain detenu.",
+   "planned_h2": [
+    "Maison mobile sur terrain loue ou sur terrain detenu: deux achats",
+    "Le bail de terrain et les protections du TAL",
+    "Hausses de loyer de terrain et frais du parc",
+    "Financer une maison mobile: preteurs, taux, amortissement",
+    "Assurance, ancrage, chauffage et conformite",
+    "Taxes municipales et evaluation d une maison mobile",
+    "Revendre: qui achete, a quel prix, en combien de temps",
+    "Les verifications a faire avant l offre"
+   ],
+   "slug": "maison-mobile-terrain-loue-quebec",
+   "translationKey": "article-maison-mobile",
+   "needs_expert_review": true,
+   "id": "t149",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.307,
+     "match": "/articles/commission-explained-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/acheter-zone-inondable-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0943,
+     "match": "/articles/combien-de-temps-vendre-maison-montreal/"
+    }
+   }
+  },
+  {
+   "ref_id": 894,
+   "reference_theme": "Être propriétaire occupant d'un plex: peser le pour et le contre",
+   "topic": "Habiter son plex au Quebec: reprise de logement, financement et fiscalite",
+   "category": "Investissement",
+   "target_keyword_fr": "proprietaire occupant plex quebec",
+   "search_intent": "decisionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Acheter un plex pour y habiter suppose presque toujours de reprendre un logement occupe, une demarche encadree par les articles 1957 et suivants du Code civil: avis ecrit dans un delai prevu avant la fin du bail, motifs limites, indemnite et possibilite pour le locataire de s opposer devant le Tribunal administratif du logement, avec des protections renforcees pour certains locataires aines. Cote financement, occuper un des logements ouvre la porte a une mise de fonds de 5 a 10 pour cent sur un immeuble de 2 a 4 logements, alors qu un immeuble entierement loue exige 20 pour cent. Fiscalement, la portion occupee demeure exemptee comme residence principale et la portion louee est imposable, avec les depenses reparties au prorata.",
+   "planned_h2": [
+    "Ce que change le fait d occuper un logement, cote financement",
+    "Acheter avec des locataires en place: les baux vous suivent",
+    "La reprise de logement: motifs, avis, delais et indemnite",
+    "Opposition devant le TAL et protections des locataires aines",
+    "Vivre a cote de ses locataires: les regles a ecrire d avance",
+    "Fiscalite: prorata, depenses, amortissement et piege a la revente",
+    "Assurance, taxes et entretien d un immeuble a logements",
+    "Le calcul honnete du flux de tresorerie quand on occupe"
+   ],
+   "slug": "proprietaire-occupant-plex-reprise",
+   "translationKey": "article-occupant-plex",
+   "needs_expert_review": true,
+   "id": "t150",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3182,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.3333,
+     "match": "/articles/impot-proprietaire-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.2017,
+     "match": "/articles/income-property-beginners/"
+    }
+   }
+  },
+  {
+   "ref_id": 891,
+   "reference_theme": "Comment affronter la hausse des taux hypothécaires",
+   "topic": "Renouveler son hypotheque au Quebec: preparer le choc de paiement six mois avant",
+   "category": "Financement",
+   "target_keyword_fr": "renouvellement hypothecaire choc de paiement",
+   "search_intent": "procedural",
+   "funnel_stage": "consideration",
+   "unique_angle": "L avis de renouvellement arrive quelques semaines avant l echeance et le premier taux propose par une institution n est presque jamais son meilleur, parce que le silence de l emprunteur vaut acceptation. Magasiner ailleurs suppose de requalifier, avec le test de resistance applicable selon le type de pret, alors que renouveler au meme endroit ne l exige pas. Particularite quebecoise: changer de preteur passe par un nouvel acte hypothecaire notarie et la radiation de l ancien, donc des frais a comparer au rabais obtenu. Les leviers reels sont le paiement forfaitaire avant l echeance, l allongement de l amortissement et le choix du terme, pas la negociation de derniere minute.",
+   "planned_h2": [
+    "Le calendrier: ce qui se prepare six mois avant l echeance",
+    "Pourquoi le taux de renouvellement offert est rarement le bon",
+    "Requalification et test de resistance selon votre situation",
+    "Frais notaries et de radiation si vous changez de preteur",
+    "Paiements forfaitaires et privileges de remboursement anticipe",
+    "Allonger l amortissement: effet reel sur le paiement et le cout total",
+    "Terme court ou long quand les taux sont incertains",
+    "Le scenario a calculer si le paiement grimpe trop"
+   ],
+   "slug": "renouvellement-hypotheque-choc-paiement",
+   "translationKey": "article-renouvellement-hypotheque",
+   "needs_expert_review": true,
+   "id": "t151",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3069,
+     "match": "/articles/inheritance-property-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1667,
+     "match": "/articles/mortgage-preapproval-mistakes/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1068,
+     "match": "/articles/interest-rates-montreal-market/"
+    }
+   }
+  },
+  {
+   "ref_id": 888,
+   "reference_theme": "Vendre une maison vide: avantages et inconvénients",
+   "topic": "Vendre une maison inoccupee au Quebec: assurance, chauffage et succession",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "vendre une maison inoccupee quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La plupart des polices habitation au Quebec cessent de couvrir une residence inoccupee au dela d une periode prevue au contrat, souvent 30 jours, sauf avis a l assureur et ajout d un avenant, une situation frequente lors d une vente en succession ou apres un demenagement. Pendant la saison de chauffage, les obligations d absence prolongee continuent de s appliquer: chauffer, fermer l entree d eau ou faire visiter. Sur le plan commercial, une maison vide se vend souvent avec un rabais percu, et le home staging virtuel doit respecter les regles de l OACIQ sur la representation fidele de l immeuble, donc toute image modifiee doit etre identifiee.",
+   "planned_h2": [
+    "Ce que votre police prevoit apres 30 jours d inoccupation",
+    "Aviser l assureur et obtenir l avenant vacance",
+    "Chauffage, eau et visites pendant la saison froide",
+    "Les frais de possession pendant que la maison attend preneur",
+    "Vide ou meublee: effet reel sur le prix et le delai de vente",
+    "Home staging reel ou virtuel: les regles de representation",
+    "Vendre une maison de succession: liquidateur et autorisations",
+    "Securite, entretien minimal et apparence de la propriete"
+   ],
+   "slug": "vendre-maison-inoccupee-assurance",
+   "translationKey": "article-maison-inoccupee",
+   "needs_expert_review": true,
+   "id": "t152",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3864,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.5,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1476,
+     "match": "/articles/garder-ou-vendre-propriete-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 887,
+   "reference_theme": "Quand devez-vous remplacer le chauffe-eau de votre maison?",
+   "topic": "Chauffe eau au Quebec: la duree de vie que votre assureur surveille",
+   "category": "Guide pratique",
+   "target_keyword_fr": "remplacer chauffe eau quebec assurance",
+   "search_intent": "informationnel",
+   "funnel_stage": "notoriete",
+   "unique_angle": "Le degat d eau est le sinistre le plus frequent dans les habitations quebecoises et le chauffe eau en est une cause recurrente, ce qui explique que plusieurs assureurs exigent le remplacement apres une dizaine d annees, imposent une franchise majoree ou demandent un bac de retention et un detecteur de fuite relie. L installation releve d un entrepreneur detenant la licence appropriee de la Regie du batiment, et le raccordement electrique d un maitre electricien. En copropriete, la declaration determine si le chauffe eau est une partie privative et qui assume la franchise de l assurance du syndicat, une question qui se verifie avant d acheter.",
+   "planned_h2": [
+    "Duree de vie reelle et signes de fin de vie",
+    "Ce que votre assureur demande selon l age de l appareil",
+    "Bac de retention, detecteur de fuite et valve d arret",
+    "Louer ou acheter son chauffe eau: le calcul",
+    "Qui a le droit d installer: licence RBQ et maitre electricien",
+    "Copropriete: partie privative, franchise et responsabilite",
+    "Ce que l inspecteur prehachat note sur un chauffe eau",
+    "Le remplacer avant de vendre: pourquoi ca vaut la peine"
+   ],
+   "slug": "chauffe-eau-duree-vie-assurance-quebec",
+   "translationKey": "article-chauffe-eau",
+   "needs_expert_review": true,
+   "id": "t153",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2621,
+     "match": "/articles/cash-buyers-advantage/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.125,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0988,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 883,
+   "reference_theme": "Bien comprendre l'hypothèque légale",
+   "topic": "L hypotheque legale au Quebec: construction, copropriete et ce qu elle bloque a la vente",
+   "category": "Immobilier 101",
+   "target_keyword_fr": "hypotheque legale construction quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "L hypotheque legale de la construction, prevue aux articles 2724 et 2726 du Code civil, garantit la plus value apportee par les travaux et profite aussi aux sous traitants et aux fournisseurs de materiaux qui n ont jamais eu de contrat avec le proprietaire. Elle subsiste de plein droit 30 jours apres la fin des travaux, puis doit etre publiee au registre foncier et suivie d une action ou d un prealable dans les six mois, sinon elle s eteint. Le syndicat de copropriete dispose par ailleurs de sa propre hypotheque legale pour les charges impayees. Le notaire la decouvre a l examen des titres, retient les fonds et la vente s arrete la.",
+   "planned_h2": [
+    "Ce qu est une hypotheque legale et qui peut la prendre",
+    "Construction: articles 2724 et 2726, delais de 30 jours et de 6 mois",
+    "Pourquoi un sous traitant impaye peut viser votre maison",
+    "Le syndicat de copropriete et les charges impayees",
+    "Ce que fait le notaire quand il en trouve une aux titres",
+    "Faire radier une hypotheque legale: les voies possibles",
+    "Se proteger: retenue, quittances et denonciation de contrat",
+    "Acheter une propriete recemment renovee: la verification a exiger"
+   ],
+   "slug": "hypotheque-legale-quebec-vente",
+   "translationKey": "article-hypotheque-legale",
+   "needs_expert_review": true,
+   "id": "t154",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3832,
+     "match": "/articles/vente-sans-garantie-legale-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/new-construction-guide-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1214,
+     "match": "/articles/vente-sans-garantie-legale-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 843,
+   "reference_theme": "Maison préfabriquée modulaire ou mobile: qu'est-ce qui les différencie?",
+   "topic": "Maison usinee ou modulaire au Quebec: garantie, financement et evaluation",
+   "category": "Guide de l'acheteur",
+   "target_keyword_fr": "maison usinee modulaire quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Une maison usinee posee sur une fondation permanente et vendue par un entrepreneur accredite peut etre couverte par le plan de garantie administre par Garantie de construction residentielle, alors qu une maison mobile installee sur un terrain loue ne l est pas, une distinction qui change tout le risque de l acheteur. Les usines quebecoises fabriquent selon la norme CSA A277 et le montage sur place doit respecter le Code de construction, avec permis municipal et implantation verifiee par un arpenteur geometre. Le financement se fait en deboursements progressifs avec inspections du preteur, et l acheteur paie la TPS et la TVQ sur un batiment neuf, avec remboursement partiel selon le prix.",
+   "planned_h2": [
+    "Usinee, modulaire, prefabriquee, mobile: les definitions qui comptent",
+    "Certification en usine et conformite au Code de construction",
+    "Quand le plan de garantie s applique, et quand il ne s applique pas",
+    "Financer une construction: deboursements progressifs et inspections",
+    "Terrain, services, fondation et implantation",
+    "TPS, TVQ et remboursement pour habitation neuve",
+    "Evaluation municipale, assurance et revente",
+    "Les questions a poser au fabricant avant le depot"
+   ],
+   "slug": "maison-usinee-modulaire-garantie-quebec",
+   "translationKey": "article-maison-usinee",
+   "needs_expert_review": true,
+   "id": "t155",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.32,
+     "match": "/articles/maison-difficile-assurer-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/cout-entretien-maison-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1217,
+     "match": "/articles/new-construction-guide-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 827,
+   "reference_theme": "Tous les avantages d'une maison à étages (cottage)",
+   "topic": "Cottage, plain pied, paliers multiples ou jumele: ce que chaque type change au Quebec",
+   "category": "Immobilier 101",
+   "target_keyword_fr": "types de maisons quebec differences",
+   "search_intent": "informationnel",
+   "funnel_stage": "notoriete",
+   "unique_angle": "Les categories utilisees sur Centris et au role d evaluation ne sont pas des etiquettes de style: unifamiliale isolee, jumelee, en rangee, a paliers multiples ou a etages determinent l entretien, l assurance et le bassin d acheteurs a la revente. Un mur mitoyen fait entrer les regles de mitoyennete du Code civil, donc le partage des couts de toiture et de fondation avec le voisin. La superficie amenagee sous le niveau du sol n entre generalement pas dans la superficie habitable retenue par un evaluateur agree, ce qui explique des ecarts de prix apparemment illogiques entre un cottage et un plain pied de meme surface totale.",
+   "planned_h2": [
+    "Les categories officielles utilisees au Quebec, et leur sens",
+    "Plain pied: terrain, potentiel et clientele de revente",
+    "Cottage a etages: cout de chauffage, escaliers, superficie comptee",
+    "Paliers multiples: le type mal aime qui se negocie",
+    "Jumele et maison en rangee: mitoyennete et couts partages",
+    "Ce que l evaluateur compte reellement comme superficie habitable",
+    "Assurance et entretien selon le type de batiment",
+    "Choisir selon l horizon de detention plutot que selon le gout"
+   ],
+   "slug": "types-de-maisons-quebec-comparaison",
+   "translationKey": "article-types-maisons",
+   "needs_expert_review": false,
+   "id": "t156",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2888,
+     "match": "/articles/why-choose-remax/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1429,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0706,
+     "match": "/articles/renting-vs-buying-calculation/"
+    }
+   }
+  },
+  {
+   "ref_id": 825,
+   "reference_theme": "4 erreurs de rénovations que vous pourriez regretter au sous-sol",
+   "topic": "Amenager un sous sol au Quebec: hauteur libre, fenetre d issue et humidite",
+   "category": "Guide pratique",
+   "target_keyword_fr": "amenager sous sol normes quebec",
+   "search_intent": "procedural",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le Code de construction et les reglements municipaux imposent une hauteur libre minimale et une ouverture de secours dans toute chambre amenagee au sous sol, deux exigences qui font refuser des permis a Montreal comme a Laval apres que les travaux ont commence. Isoler avant d avoir corrige le drain, la pente du terrain et l etancheite du solage emprisonne l humidite dans les murs et cree la moisissure que l INSPQ associe a la source d eau plutot qu au revetement. Enfin, la superficie amenagee sous le niveau du sol n entre pas dans la superficie habitable retenue a l evaluation, ce qui explique le faible retour a la revente.",
+   "planned_h2": [
+    "Verifier l humidite et le drainage avant toute chose",
+    "Hauteur libre minimale: ce que la regle exige reellement",
+    "Fenetre ou issue de secours dans une chambre au sous sol",
+    "Isolation, pare vapeur et point de rosee dans un mur de fondation",
+    "Ventilation, echangeur d air et qualite de l air",
+    "Quand le permis municipal devient obligatoire",
+    "Ce que l amenagement ajoute, ou non, a la valeur",
+    "Preparer le sous sol pour une location future sans tout refaire"
+   ],
+   "slug": "amenager-sous-sol-normes-quebec",
+   "translationKey": "article-amenager-sous-sol",
+   "needs_expert_review": false,
+   "id": "t157",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2942,
+     "match": "/articles/cash-buyers-advantage/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1429,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0964,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 792,
+   "reference_theme": "Assurance habitation : peut-elle être annulée par votre assureur ?",
+   "topic": "Resiliation ou non renouvellement de votre assurance habitation: ce que la loi permet",
+   "category": "Guide pratique",
+   "target_keyword_fr": "assureur annule assurance habitation quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le Code civil encadre la fin d un contrat d assurance de dommages: l assureur doit transmettre un avis ecrit et la garantie ne cesse qu a l expiration du delai prevu, alors que l assure peut resilier en tout temps et recevoir la portion de prime non gagnee. Une fausse declaration au moment de la souscription ou une aggravation du risque non declaree, comme un poele a bois ajoute ou des travaux majeurs, peut priver l assure de son indemnite. Les sinistres declares sont consignes dans un fichier consulte par les assureurs et suivent le proprietaire. Comme le preteur exige une assurance en vigueur, une resiliation peut placer l emprunteur en defaut selon son acte hypothecaire.",
+   "planned_h2": [
+    "Resiliation, non renouvellement et nullite: trois choses differentes",
+    "L avis ecrit et le delai avant la fin de la couverture",
+    "Fausse declaration et aggravation du risque",
+    "Les motifs frequents: sinistres repetes, vetuste, chauffage, vacance",
+    "Le fichier des sinistres et son effet sur vos primes",
+    "Ce que votre acte hypothecaire prevoit si l assurance tombe",
+    "Retrouver une couverture: courtier, marches specialises, correctifs",
+    "Contester: recours a l Autorite des marches financiers et mediation"
+   ],
+   "slug": "resiliation-assurance-habitation-quebec",
+   "translationKey": "article-resiliation-assurance",
+   "needs_expert_review": true,
+   "id": "t158",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2435,
+     "match": "/articles/multilingual-broker-advantage/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.125,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.097,
+     "match": "/articles/contester-evaluation-municipale-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 772,
+   "reference_theme": "Frein à l'étalement urbain : phare sur les projets résidentiels du futur",
+   "topic": "Ou se construira le neuf dans le Grand Montreal: PMAD, TOD et densification",
+   "category": "Analyse de marche",
+   "target_keyword_fr": "densification grand montreal tod",
+   "search_intent": "informationnel",
+   "funnel_stage": "notoriete",
+   "unique_angle": "Le Plan metropolitain d amenagement et de developpement de la Communaute metropolitaine de Montreal oriente la croissance vers les aires TOD situees autour des stations de metro, des gares et des antennes du REM, avec des seuils minimaux de densite que les municipalites doivent inscrire dans leur plan d urbanisme. Laval a concentre ses projets autour de ses trois stations de metro et du futur systeme rapide par bus, pendant que la Loi sur l amenagement et l urbanisme et les orientations gouvernementales limitent l ouverture de nouvelles zones a la peripherie. Pour un acheteur, cela decide du type de produit disponible dans dix ans et du prix du terrain aujourd hui.",
+   "planned_h2": [
+    "Ce qu est le PMAD et qui il oblige",
+    "Les aires TOD et les seuils de densite imposes",
+    "Laval: metro, SRB et secteurs designes pour la croissance",
+    "Montreal: densification douce et transformation des arteres commerciales",
+    "Pourquoi les nouveaux quartiers de banlieue se font plus rares",
+    "Effet sur le prix des terrains et sur le type de logements offerts",
+    "Lire le plan d urbanisme de sa ville avant d acheter",
+    "Ce que ca change pour un acheteur a horizon de dix ans"
+   ],
+   "slug": "densification-tod-grand-montreal",
+   "translationKey": "article-densification-tod",
+   "needs_expert_review": false,
+   "id": "t159",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3248,
+     "match": "/articles/build-real-estate-portfolio/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/renting-vs-buying-calculation/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1009,
+     "match": "/articles/acheter-laval-2025/"
+    }
+   }
+  },
+  {
+   "ref_id": 767,
+   "reference_theme": "Comment bien choisir son assurance habitation ?",
+   "topic": "Choisir son assurance habitation au Quebec: les avenants qui manquent presque toujours",
+   "category": "Guide pratique",
+   "target_keyword_fr": "choisir assurance habitation quebec",
+   "search_intent": "decisionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Une police de base au Quebec couvre des risques designes ou tous risques selon la formule, mais quatre protections cruciales sont des avenants qui s achetent separement: le refoulement d egout, l infiltration d eau par le sol ou par les ouvertures, le tremblement de terre et l indemnisation de la toiture a neuf plutot qu a la valeur depreciee. La clause hypothecaire exigee par le preteur, le montant de reconstruction plutot que la valeur marchande, et la garantie responsabilite civile completent le portrait. Declarer la piscine, le foyer au bois, les travaux majeurs ou la presence d un locataire evite le refus d indemnite au pire moment.",
+   "planned_h2": [
+    "Formule de base, etendue ou tous risques: la difference reelle",
+    "Montant d assurance: cout de reconstruction, pas valeur marchande",
+    "Refoulement d egout et infiltration par le sol: deux avenants distincts",
+    "Toiture a neuf ou depreciee: la clause qui coute cher",
+    "Responsabilite civile, piscine, trampoline et chien",
+    "Ce que vous devez declarer sous peine de refus",
+    "Franchise, rabais et regroupement: ou se trouvent les vraies economies",
+    "Reviser sa police apres des travaux, une location ou un achat"
+   ],
+   "slug": "choisir-assurance-habitation-avenants",
+   "translationKey": "article-choisir-assurance",
+   "needs_expert_review": true,
+   "id": "t160",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3308,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.3333,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1074,
+     "match": "/articles/inspection-preachat-cout-moment-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 755,
+   "reference_theme": "Tout sur les nouvelles lois de la copropriété",
+   "topic": "Loi 16 en copropriete: etude du fonds de prevoyance, carnet d entretien et ce que l acheteur doit exiger",
+   "category": "Guide de l'acheteur",
+   "target_keyword_fr": "loi 16 copropriete quebec obligations",
+   "search_intent": "informationnel",
+   "funnel_stage": "decision",
+   "unique_angle": "La loi adoptee en 2019, connue comme la loi 16, oblige les syndicats de copropriete a faire realiser par un professionnel une etude du fonds de prevoyance et a la mettre a jour periodiquement, a tenir un carnet d entretien de l immeuble, a constituer un fonds d autoassurance destine a couvrir la franchise et a faire evaluer le cout de reconstruction. Elle impose aussi au syndicat de remettre a un acheteur potentiel, a la demande du vendeur, une attestation sur l etat financier et juridique de l immeuble. Un syndicat sans etude a jour ou sans fonds suffisant annonce des cotisations speciales, ce qui se negocie avant l offre, pas apres.",
+   "planned_h2": [
+    "Ce que la loi 16 a change pour les syndicats",
+    "L etude du fonds de prevoyance: qui la fait, ce qu elle contient",
+    "Le carnet d entretien et ce qu il revele sur l immeuble",
+    "Fonds d autoassurance et franchise de l assurance du syndicat",
+    "Evaluation du cout de reconstruction et montant assure",
+    "L attestation du syndicat remise a l acheteur",
+    "Lire les etats financiers et les proces verbaux en 30 minutes",
+    "Quand une cotisation speciale doit faire baisser votre offre"
+   ],
+   "slug": "loi-16-copropriete-acheteur-quebec",
+   "translationKey": "article-loi-16-copropriete",
+   "needs_expert_review": true,
+   "id": "t161",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3428,
+     "match": "/articles/condo-fees-investment-killer/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/multilingual-broker-advantage/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1979,
+     "match": "/articles/condo-fees-investment-killer/"
+    }
+   }
+  },
+  {
+   "ref_id": 754,
+   "reference_theme": "Panneaux solaires sur une maison résidentielle: ce qu'il faut savoir",
+   "topic": "Panneaux solaires au Quebec: pourquoi le calcul ne donne pas le meme resultat qu ailleurs",
+   "category": "Guide pratique",
+   "target_keyword_fr": "panneaux solaires rentabilite quebec",
+   "search_intent": "decisionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "L option de mesurage net d Hydro Quebec credite en kilowattheures l energie injectee au reseau, mais le tarif residentiel D est parmi les plus bas en Amerique du Nord, ce qui allonge la periode de recuperation bien au dela de ce qu annoncent les calculateurs conçus pour l Ontario ou les Etats Unis. Les credits d energie accumules expirent apres une periode determinee et ne sont pas rachetes en argent. L installation exige un raccordement approuve par Hydro Quebec, un permis municipal, un maitre electricien, une declaration a l assureur, et elle peut modifier l evaluation fonciere. L effet sur la valeur de revente reste faible dans le Grand Montreal.",
+   "planned_h2": [
+    "Le mesurage net d Hydro Quebec explique simplement",
+    "Pourquoi le tarif D change completement le calcul",
+    "Credits d energie, expiration et absence de rachat",
+    "Cout installe, duree de vie des panneaux et de l onduleur",
+    "Permis, raccordement, maitre electricien et toiture",
+    "Assurance, garanties et impact sur l evaluation fonciere",
+    "Ce que ca vaut a la revente dans le Grand Montreal",
+    "Les cas ou ca se defend: hors reseau, chalet, autoconsommation"
+   ],
+   "slug": "panneaux-solaires-rentabilite-quebec",
+   "translationKey": "article-panneaux-solaires",
+   "needs_expert_review": false,
+   "id": "t162",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2482,
+     "match": "/articles/quebec-notary-process/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1429,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0672,
+     "match": "/articles/garder-ou-vendre-propriete-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 746,
+   "reference_theme": "Tout savoir sur la taxe anti-flip",
+   "topic": "Revendre moins de 12 mois apres l achat: la regle anti flip et ses exceptions",
+   "category": "Investissement",
+   "target_keyword_fr": "regle anti flip immobilier quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Depuis le 1er janvier 2023, un bien immobilier residentiel detenu moins de 365 jours consecutifs est repute detenu dans le cadre d un projet comportant un risque de caractere commercial, donc le profit est impose comme revenu d entreprise a 100 pour cent, sans taux avantageux du gain en capital et sans exemption pour residence principale. Le Quebec a harmonise sa legislation avec la mesure federale. Des exceptions existent pour des evenements de vie precis: deces, separation, naissance, nouvel emploi eloigne, invalidite, perte d emploi, insolvabilite ou menace a la securite personnelle. Une renovation majeure ajoute en plus la TPS et la TVQ sur l autofourniture.",
+   "planned_h2": [
+    "Ce que la regle des 365 jours change exactement",
+    "Revenu d entreprise plutot que gain en capital: l ecart d impot",
+    "La perte de l exemption pour residence principale",
+    "Les exceptions prevues et la preuve a conserver",
+    "Harmonisation quebecoise et declaration a Revenu Quebec",
+    "Renovation majeure, autofourniture, TPS et TVQ",
+    "Ce que la regle ne vise pas: succession, changement d usage",
+    "Planifier une revente rapide sans mauvaise surprise"
+   ],
+   "slug": "regle-anti-flip-365-jours-quebec",
+   "translationKey": "article-regle-anti-flip",
+   "needs_expert_review": true,
+   "id": "t163",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2385,
+     "match": "/articles/vrai-cout-achat-premiere-maison/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.125,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1752,
+     "match": "/articles/house-flipping-montreal/"
+    }
+   }
+  },
+  {
+   "ref_id": 743,
+   "reference_theme": "Fonte des neiges: comment prévenir les dégâts d'eau",
+   "topic": "Degats d eau au printemps: l exclusion que la plupart des polices quebecoises contiennent",
+   "category": "Guide pratique",
+   "target_keyword_fr": "degat d eau fonte des neiges",
+   "search_intent": "procedural",
+   "funnel_stage": "notoriete",
+   "unique_angle": "L infiltration d eau par le sol, par les fondations ou par une fenetre de sous sol est exclue de la garantie de base de la majorite des polices habitation au Quebec et ne revient que par un avenant, distinct de celui qui couvre le refoulement d egout. La difference entre les deux decide qui paie apres une fonte rapide suivie de pluie. Cote prevention, la pente du terrain, le degagement des drains de toit et des margelles, le deneigement du pourtour du solage et l installation d un clapet antiretour, subventionne par plusieurs municipalites dont Montreal, valent plus que tout le reste. Le programme d indemnisation du ministere de la Securite publique ne vise que les sinistres declares.",
+   "planned_h2": [
+    "Les trois chemins que l eau emprunte au printemps",
+    "Refoulement, infiltration et debordement: trois garanties distinctes",
+    "Verifier son contrat avant la fonte, pas apres",
+    "Clapet antiretour et programmes de subvention municipaux",
+    "Pente du terrain, gouttieres, margelles et drain francais",
+    "Deneiger le pourtour de la maison et le toit plat",
+    "Que faire dans les 24 heures qui suivent un degat",
+    "Ce qu un acheteur doit demander sur l historique de degats d eau"
+   ],
+   "slug": "degats-eau-printemps-exclusions-quebec",
+   "translationKey": "article-degats-eau-printemps",
+   "needs_expert_review": true,
+   "id": "t164",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2222,
+     "match": "/articles/contester-evaluation-municipale-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0971,
+     "match": "/articles/cout-entretien-maison-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 739,
+   "reference_theme": "Hausse de la valeur immobilière : 6 façons d'aider votre enfant à acquérir une propriété",
+   "topic": "Aider son enfant a acheter au Quebec: don, pret, cosignature ou copropriete",
+   "category": "Financement",
+   "target_keyword_fr": "aider son enfant a acheter",
+   "search_intent": "decisionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Chaque formule a une consequence juridique differente: un don de mise de fonds exige une lettre signee confirmant qu aucun remboursement n est attendu, sinon le preteur l inscrit comme une dette dans les ratios. Cosigner rend le parent solidairement responsable de la totalite du pret et ampute sa propre capacite d emprunt, alors qu etre caution produit un effet distinct. Vendre a son enfant sous la valeur marchande entraine une disposition reputee a la juste valeur marchande pour le parent, donc un gain en capital si ce n est pas sa residence principale, et les droits de mutation se calculent sur la plus elevee des trois valeurs, avec exoneration possible entre ascendant et descendant directs.",
+   "planned_h2": [
+    "Les cinq formules possibles, et ce que chacune engage",
+    "Le don de mise de fonds et la lettre exigee par le preteur",
+    "Cosigner ou cautionner: deux responsabilites differentes",
+    "Preter de l argent a son enfant: reconnaissance de dette et hypotheque",
+    "Vendre sous la valeur marchande: gain en capital et droits de mutation",
+    "Acheter en copropriete avec son enfant: indivision et convention",
+    "Proteger le patrimoine familial en cas de separation ou de deces",
+    "Le choix qui protege les deux generations, selon la situation"
+   ],
+   "slug": "aider-son-enfant-acheter-quebec",
+   "translationKey": "article-aider-enfant-achat",
+   "needs_expert_review": true,
+   "id": "t165",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3003,
+     "match": "/articles/new-construction-guide-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1429,
+     "match": "/articles/acheter-laval-2025/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1742,
+     "match": "/articles/buying-property-with-family/"
+    }
+   }
+  },
+  {
+   "ref_id": 738,
+   "reference_theme": "Phare sur 6 vices cachés qui peuvent vous surprendre",
+   "topic": "Vice cache au Quebec: les quatre conditions, la denonciation et le recours",
+   "category": "Immobilier 101",
+   "target_keyword_fr": "vice cache maison quebec recours",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "L article 1726 du Code civil exige quatre conditions cumulatives: un vice grave qui rend le bien impropre a son usage ou en diminue l utilite, anterieur a la vente, inconnu de l acheteur et non apparent pour un acheteur prudent et diligent qui procede a un examen attentif. L article 1739 impose ensuite de denoncer le vice par ecrit au vendeur dans un delai raisonnable de sa decouverte, une mise en demeure oubliee qui fait perdre des dossiers autrement solides, parce qu elle prive le vendeur de la possibilite de constater et de reparer. La garantie remonte aussi aux vendeurs anterieurs et le recours se prescrit par trois ans.",
+   "planned_h2": [
+    "Les quatre conditions du vice cache, une par une",
+    "Vice cache, vice apparent et defaut d entretien: la ligne",
+    "Le role de l inspection prehachat dans la preuve",
+    "Denoncer par ecrit: le delai, la forme, l erreur fatale",
+    "Laisser le vendeur constater avant de faire les travaux",
+    "Poursuivre les vendeurs anterieurs et le role du notaire",
+    "Prescription de trois ans et cout reel d un recours",
+    "Vente sans garantie legale: ce qui subsiste malgre la clause"
+   ],
+   "slug": "vice-cache-conditions-recours-quebec",
+   "translationKey": "article-vice-cache-recours",
+   "needs_expert_review": true,
+   "id": "t166",
+   "status": "in_progress",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.263,
+     "match": "/articles/off-market-properties/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.25,
+     "match": "/articles/cout-entretien-maison-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1163,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 694,
+   "reference_theme": "7 raisons de vouloir acheter une maison en hiver",
+   "topic": "Acheter en hiver au Quebec: moins de concurrence, mais ce que la neige cache",
+   "category": "Guide de l'acheteur",
+   "target_keyword_fr": "acheter une maison en hiver quebec",
+   "search_intent": "decisionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Les statistiques mensuelles de l APCIQ montrent que le volume de ventes et le nombre de nouvelles inscriptions atteignent leur creux de decembre a fevrier dans la region metropolitaine de Montreal: moins de concurrence, mais aussi beaucoup moins de choix. L inspecteur en batiment inscrit au rapport les elements qu il n a pas pu verifier sous la neige, soit la toiture, le drainage, le terrain, la piscine et le revetement, ce qui justifie une clause de verification complementaire au printemps dans la promesse d achat. Et comme le calendrier quebecois concentre les occupations au 1er juillet, acheter en hiver impose de negocier la date de prise de possession autrement.",
+   "planned_h2": [
+    "Ce que disent les donnees mensuelles sur le marche d hiver",
+    "Moins de concurrence, mais moins d inscriptions: le vrai arbitrage",
+    "Ce que l inspecteur ne peut pas voir sous la neige",
+    "La clause de verification au printemps a inserer dans l offre",
+    "Ce que l hiver revele: chauffage, courants d air, glace, deneigement",
+    "Demenager en hiver: cout, disponibilite, risques",
+    "Dates d occupation hors du cycle du 1er juillet",
+    "Le calendrier realiste d un achat entame en janvier"
+   ],
+   "slug": "acheter-maison-hiver-quebec",
+   "translationKey": "article-acheter-en-hiver",
+   "needs_expert_review": false,
+   "id": "t167",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.3541,
+     "match": "/articles/new-construction-guide-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.2857,
+     "match": "/articles/acheter-zone-inondable-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1414,
+     "match": "/articles/marche-immobilier-montreal/"
+    }
+   }
+  },
+  {
+   "ref_id": 688,
+   "reference_theme": "Relation entre voisins : 4 situations qui peuvent survenir et leur solution",
+   "topic": "Empietement, servitude et droit de passage: ce que le certificat de localisation revele",
+   "category": "Immobilier 101",
+   "target_keyword_fr": "empietement servitude terrain quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le certificat de localisation prepare par un arpenteur geometre est le seul document qui situe le batiment, la cloture, le cabanon et la piscine par rapport aux limites reelles, et qui signale les empietements, les servitudes et les derogations aux reglements municipaux. L article 992 du Code civil traite de l empietement fait de bonne foi et prevoit selon son importance l acquisition de la parcelle, une indemnite ou la demolition. Une servitude publiee au registre foncier suit l immeuble et lie l acheteur sans egard a ce que le vendeur lui a dit. Le bornage, judiciaire ou a l amiable, reste la seule facon de fixer definitivement une limite contestee.",
+   "planned_h2": [
+    "Lire un certificat de localisation ligne par ligne",
+    "Empietement de bonne foi: les issues prevues a l article 992",
+    "Servitude de passage, de vue, d egout: ce qui suit l immeuble",
+    "Droits acquis et derogations inscrites au certificat",
+    "Le bornage: quand il devient necessaire et ce qu il coute",
+    "Cloture, cabanon ou piscine mal implantes: qui paie la correction",
+    "Regler a l amiable avant que le litige coute plus que le terrain",
+    "Ce qu un acheteur doit exiger avant de lever sa condition"
+   ],
+   "slug": "empietement-servitude-certificat-localisation",
+   "translationKey": "article-empietement-servitude",
+   "needs_expert_review": true,
+   "id": "t168",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2131,
+     "match": "/articles/acheter-laval-2025/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1429,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1157,
+     "match": "/articles/worst-real-estate-deal-lessons/"
+    }
+   }
+  },
+  {
+   "ref_id": 654,
+   "reference_theme": "Comment transformer votre chalet d'été en chalet 4 saisons ?",
+   "topic": "Chalet quatre saisons au Quebec: fosse septique, puits, acces et financement",
+   "category": "Guide pratique",
+   "target_keyword_fr": "chalet 4 saisons normes quebec",
+   "search_intent": "procedural",
+   "funnel_stage": "consideration",
+   "unique_angle": "Une residence isolee non raccordee a un reseau municipal est regie par le Reglement sur l evacuation et le traitement des eaux usees des residences isolees, le Q-2 r.22, qui impose une etude de caracterisation du site et du terrain naturel par un professionnel et un permis municipal avant toute installation ou modification, et le cout grimpe fortement si le sol ou la superficie ne permettent pas un systeme conventionnel. Ajouter des chambres augmente le debit theorique et peut donc forcer le remplacement du systeme. L eau de puits doit etre analysee en laboratoire accredite, et les preteurs distinguent une residence accessible et chauffable a l annee d une residence saisonniere, ce qui change la mise de fonds, le taux et l assurance.",
+   "planned_h2": [
+    "Ce que veut dire quatre saisons pour un preteur et pour un assureur",
+    "Le Q-2 r.22: etude de caracterisation, permis et couts reels",
+    "Ajouter une chambre: l effet direct sur l installation septique",
+    "Puits, analyse d eau et distances a respecter",
+    "Acces a l annee: chemin prive, deneigement, entente de voisinage",
+    "Isolation, chauffage et protection contre le gel",
+    "Assurance d un chalet occupe par intermittence",
+    "Ce que la conversion change a la valeur et a la revente"
+   ],
+   "slug": "chalet-quatre-saisons-septique-puits",
+   "translationKey": "article-chalet-4-saisons",
+   "needs_expert_review": true,
+   "id": "t169",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2664,
+     "match": "/articles/worst-real-estate-deal-lessons/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1429,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0596,
+     "match": "/articles/everyone-deserves-homeownership/"
+    }
+   }
+  },
+  {
+   "ref_id": 905,
+   "reference_theme": "L'impact de l'hiver sur la structure de votre maison",
+   "topic": "Neige, glace et gel degel: les dommages d hiver et qui en repond",
+   "category": "Guide pratique",
+   "target_keyword_fr": "barrage de glace toiture quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "notoriete",
+   "unique_angle": "Les toitures plates des plex montrealais sont conçues pour une charge de neige prevue au Code de construction, mais une accumulation suivie de pluie hivernale peut depasser cette charge et justifier un deneigement fait dans les regles, sans endommager la membrane. Le barrage de glace ne vient pas du froid mais d une chaleur qui s echappe de l entretoit, donc il se corrige par l isolation et la ventilation plutot que par un cable chauffant. Cote assurance, les dommages causes par le poids de la neige et de la glace sont generalement couverts, mais l infiltration qui suit peut etre refusee si l entretien a ete neglige, et une glace qui tombe sur le trottoir engage la responsabilite du proprietaire.",
+   "planned_h2": [
+    "Charge de neige: ce que la toiture est censee supporter",
+    "Toit plat montrealais: quand et comment le deneiger",
+    "Barrage de glace: la cause reelle, et la vraie solution",
+    "Gel degel, fissures de fondation et soulevement du terrain",
+    "Tuyaux geles: prevention et geste d urgence",
+    "Ce que la police couvre, et l exclusion pour defaut d entretien",
+    "Glace, trottoir et responsabilite civile du proprietaire",
+    "L inspection a faire chaque annee des la fonte"
+   ],
+   "slug": "dommages-hiver-toiture-glace-quebec",
+   "translationKey": "article-dommages-hiver",
+   "needs_expert_review": false,
+   "id": "t170",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.202,
+     "match": "/articles/acheter-laval-2025/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1429,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0782,
+     "match": "/articles/inspection-preachat-cout-moment-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 681,
+   "reference_theme": "Asphalte, béton ou pavé uni : quoi choisir pour l'entrée de sa maison",
+   "topic": "Refaire son entree au Quebec: permis, verdissement et resistance au gel",
+   "category": "Guide pratique",
+   "target_keyword_fr": "refaire entree asphalte pave quebec",
+   "search_intent": "decisionnel",
+   "funnel_stage": "notoriete",
+   "unique_angle": "Creer ou elargir une entree charretiere exige une autorisation municipale a Montreal comme a Laval, parce que le lien entre le terrain prive et la rue appartient a la ville, et plusieurs arrondissements limitent en plus la proportion de la cour avant qui peut etre mineralisee, avec une exigence minimale de verdissement. Des projets deja payes se font refuser a cette etape. Sur le plan technique, la fondation granulaire, le drainage et la profondeur de l excavation comptent davantage que le materiau de surface dans un climat de gel degel, et les sels de deglaçage attaquent le beton non traite plus vite que l asphalte.",
+   "planned_h2": [
+    "Permis d entree charretiere: qui autorise quoi",
+    "Reglements de verdissement et surfaces mineralisees en cour avant",
+    "Ce qui se passe sous la surface: fondation, drainage, gel",
+    "Asphalte: cout, duree de vie, entretien reel au Quebec",
+    "Beton: fissuration, sels de deglaçage et scellant",
+    "Pave uni: mouvement au gel, entretien, remise a niveau",
+    "Chauffer son entree: cout et contraintes",
+    "Effet sur l apparence, sur l evaluation et sur la vente"
+   ],
+   "slug": "refaire-entree-permis-verdissement-quebec",
+   "translationKey": "article-entree-stationnement",
+   "needs_expert_review": false,
+   "id": "t171",
+   "status": "clear",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2929,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.125,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.0767,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
+    }
+   }
+  },
+  {
+   "ref_id": 942,
+   "reference_theme": "Collaboration gagnante : comment aider votre courtier immobilier à vendre votre maison",
+   "topic": "Remplir les Declarations du vendeur sans se creer un proces",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "declarations du vendeur formulaire quebec",
+   "search_intent": "procedural",
+   "funnel_stage": "decision",
+   "unique_angle": "Le formulaire Declarations du vendeur sur l immeuble de l OACIQ est signe par le vendeur, remis a tout acheteur interesse et annexe a la promesse d achat: c est la piece la plus souvent deposee devant les tribunaux quand une vente tourne mal. Une reponse fausse ou une omission volontaire sur un degat d eau, une infiltration, une infestation, un sinistre, un logement non conforme au zonage ou des travaux faits sans permis constitue un dol, et le dol n est jamais couvert par une vente sans garantie legale aux risques et perils de l acheteur. La regle de redaction est simple: declarer ce que l on sait, pas ce que l on croit, et joindre factures et rapports.",
+   "planned_h2": [
+    "A quoi sert ce formulaire et qui le lit vraiment",
+    "Les sections ou les vendeurs se trompent le plus",
+    "Declarer un probleme regle: pourquoi ca protege plutot que ca nuit",
+    "Je ne sais pas: quand cette reponse est legitime",
+    "Travaux sans permis, logement non conforme, assurance refusee",
+    "Le dol et la clause sans garantie legale: ce qui ne se contourne pas",
+    "Joindre les preuves: factures, rapports, permis, garanties",
+    "Relire le formulaire avant chaque promesse d achat"
+   ],
+   "slug": "declarations-vendeur-formulaire-quebec",
+   "translationKey": "article-declarations-vendeur",
+   "needs_expert_review": true,
+   "id": "t172",
+   "status": "already_covered",
+   "source_lot": "plan-2",
+   "gate1": {
+    "slug": {
+     "v": "PASS",
+     "s": 0.0,
+     "match": null
+    },
+    "title": {
+     "v": "PASS",
+     "s": 0.2477,
+     "match": "/articles/open-house-secrets/"
+    },
+    "keyword": {
+     "v": "PASS",
+     "s": 0.1429,
+     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+    },
+    "topic": {
+     "v": "PASS",
+     "s": 0.1129,
+     "match": "/articles/red-flags-walk-away-property/"
+    }
+   },
+   "note": "meme sujet que t123 declaration-du-vendeur-quebec, en cours de redaction dans cette session"
   }
  ],
- "lots_restants": "chunk-2.txt (155 titres) reste a planifier"
+ "lots": "les 4 lots de sujets de reference sont planifies"
 }
