@@ -1,0 +1,94 @@
+{
+ "id": "t138",
+ "slug": "casser-hypotheque-penalite-quebec",
+ "title": "Pénalité pour casser une hypothèque : le calcul au Québec",
+ "target_keyword": "penalite pour casser une hypotheque",
+ "word_count": 1790,
+ "category": "Financement",
+ "internal_links": [
+  "/tools/mortgage/",
+  "/articles/best-mortgage-rate-canada/",
+  "/articles/quebec-notary-process/",
+  "/articles/cout-reel-vendre-maison-quebec/",
+  "/articles/divorce-real-estate-guide/",
+  "/articles/refinancement-hypothecaire-quebec/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.canada.ca/fr/agence-consommation-matiere-financiere/services/hypotheques/reduire-penalite-paiement-anticipes.html",
+   "title": "Frais hypothécaires : pénalités pour remboursement anticipé",
+   "publisher": "Agence de la consommation en matière financière du Canada",
+   "consulted": "2026-09-23",
+   "supports": "La pénalité correspond au plus élevé de deux montants, trois mois d'intérêts ou différentiel de taux d'intérêt. Le différentiel s'applique quand votre taux dépasse les taux en vigueur et que le contrat a moins de cinq ans. Les quatre combinaisons de taux comparés (taux affiché à la signature ou taux escompté, taux affiché courant ou taux affiché moins le rabais). Exemple chiffré : solde de 200 000 $, taux de 6 %, 36 mois restants, taux affiché courant de 4 %, soit 3 000 $ de trois mois d'intérêts contre 12 000 $ de différentiel, et 12 000 $ payables."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-consommation-matiere-financiere/services/hypotheques/resilier-hypotheque.html",
+   "title": "Résilier votre hypothèque",
+   "publisher": "Agence de la consommation en matière financière du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Résilier une hypothèque fermée oblige habituellement à payer une pénalité pour remboursement anticipé, qui peut coûter des milliers de dollars. Liste des frais à vérifier : pénalité, administration, évaluation, réinvestissement, quittance et enregistrement. Option de fusion et prolongation, avec l'exemple d'un solde de 200 000 $ à 5,5 % et 24 mois restants, nouveau taux de 4 % sur cinq ans, taux fusionné de 4,6 % sur 60 mois."
+  },
+  {
+   "url": "https://www.canada.ca/en/financial-consumer-agency/services/industry/laws-regulations/mortgage-prepayment-information-code.html",
+   "title": "Code of Conduct for Federally Regulated Financial Institutions: Mortgage prepayment information",
+   "publisher": "Agence de la consommation en matière financière du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Les renseignements annuels sur les privilèges, la méthode de calcul et les facteurs qui influent sur les frais. L'état écrit remis une fois l'intention de rembourser confirmée : montant des frais, méthode de calcul, période de validité, facteurs de changement, autres sommes dues. Quand le calcul repose sur le différentiel, l'état précise le solde impayé, le taux annuel, le taux de comparaison et la durée restante du terme."
+  },
+  {
+   "url": "https://www.canada.ca/en/financial-consumer-agency/services/industry/bulletins/information-box-examples/credit-variable-fixed-mortgage.html",
+   "title": "Credit agreement for a variable interest loan for a fixed amount (Mortgage), information box example",
+   "publisher": "Agence de la consommation en matière financière du Canada",
+   "consulted": "2026-09-23",
+   "supports": "L'exemple d'encadré informatif pour un prêt à taux variable reprend la même formulation que celui du taux fixe, soit le plus élevé des trois mois d'intérêts ou du différentiel. Appuie l'affirmation qu'aucun barème distinct n'est publié pour le taux variable et que c'est le contrat qui tranche."
+  },
+  {
+   "url": "https://assets.cmhc-schl.gc.ca/sf/project/cmhc/pdfs/content/fr/b7.pdf",
+   "title": "Choisir le prêt hypothécaire qui vous convient",
+   "publisher": "Société canadienne d'hypothèques et de logement",
+   "consulted": "2026-09-23",
+   "supports": "Définitions du prêt hypothécaire ouvert (remboursable en tout ou en partie à n'importe quel moment sans pénalité, taux généralement plus élevé), du prêt fermé (ne permet pas de rembourser la totalité avant l'échéance, taux habituellement plus faible), du prêt à taux fixe (taux inchangé pendant le terme), du prêt à taux variable (taux fluctuant selon la conjoncture du marché financier) et du prêt pris en charge par l'acheteur."
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/achat-vente/fin-hypotheque",
+   "title": "Fin d'une hypothèque sur une propriété",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Seuls les notaires et les avocats sont habilités à préparer la quittance. La radiation au Registre foncier n'est pas automatique et doit être demandée. Les frais d'inscription de la quittance sont normalement à la charge de l'emprunteur."
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/information-fonciere/registre-foncier/inscrire-transaction",
+   "title": "Transaction au registre foncier",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Les inscriptions au Registre foncier sont généralement effectuées par un notaire ou un avocat. La vente, l'hypothèque et la radiation d'hypothèque figurent parmi les actes courants publiés."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/information-fonciere/Documents/GR_tarif_registre_foncier_cadastre_MRNF.pdf",
+   "title": "Sommaire, tarification des produits et services du registre foncier et du cadastre",
+   "publisher": "Ministère des Ressources naturelles et des Forêts du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Tarifs en vigueur à compter du 1er avril 2026 : inscription de droit 145 $ par réquisition, radiation (quittance, mainlevée) 165 $ par réquisition, 101 $ par inscription additionnelle à radier, état certifié des droits 17 $, consultation d'un document 1,50 $."
+  },
+  {
+   "url": "https://laws-lois.justice.gc.ca/fra/lois/i-15/page-1.html",
+   "title": "Loi sur l'intérêt, LRC (1985), ch. I-15, article 10",
+   "publisher": "Ministère de la Justice du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Lorsqu'une hypothèque sur immeuble n'est pas remboursable avant plus de cinq ans, le débiteur peut, passé ce délai, rembourser le capital et les intérêts courus en y ajoutant trois mois d'intérêt pour tenir lieu d'avis."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+   "title": "Taux directeur",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Taux cible du financement à un jour maintenu à 2,25 % le 2 septembre 2026, prochaine annonce prévue le 28 octobre 2026."
+  }
+ ],
+ "claims_needing_review": [
+  "Illustration arithmétique de la section sur le taux affiché contre le taux consenti : les chiffres (solde de 300 000 $, 30 mois restants, taux au contrat de 5 %, taux affiché à la signature de 6,5 %, taux affiché courant de 4 %) sont inventés pour démontrer la mécanique et sont présentés comme tels dans le texte. Les trois résultats (3 750 $, 7 500 $, 30 000 $) sont arithmétiquement exacts selon la méthode décrite par l'ACFC, mais ne proviennent d'aucune source et ne reflètent aucun taux du marché. À faire valider par un courtier hypothécaire avant publication.",
+  "Affirmation selon laquelle beaucoup de contrats à taux variable prévoient les trois mois d'intérêts : aucune source officielle ne le chiffre. Le texte le présente comme une pratique courante et non comme une règle, et renvoie au contrat. À faire valider.",
+  "Le lien interne vers /articles/refinancement-hypothecaire-quebec/ pointe vers un article publié le 2026-09-15 mais absent de state/internal_links_fr.md à la date de rédaction. Vérifier que l'URL est bien en ligne avant publication."
+ ]
+}

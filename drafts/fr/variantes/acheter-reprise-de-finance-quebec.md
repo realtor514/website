@@ -20,18 +20,17 @@ une promesse d'achat.
 
 L'article 2748 du Code civil énumère les quatre droits hypothécaires d'un
 créancier dont le débiteur est en défaut et dont la créance est liquide et
-exigible: prendre possession du bien pour l'administrer, le prendre en paiement
-de sa créance, le faire vendre sous contrôle de justice, ou le vendre lui-même.
-Ce dernier droit est réservé, par l'article 2784, au créancier qui détient une
-hypothèque sur les biens d'une entreprise.
+exigible: prendre possession du bien pour l'administrer, le prendre en paiement,
+le faire vendre sous contrôle de justice, ou le vendre lui-même. Ce dernier
+droit est réservé, par l'article 2784, au créancier titulaire d'une hypothèque
+sur les biens d'une entreprise.
 
-Pour une maison, un condo ou un petit plex, il reste donc deux scénarios
-réalistes: la prise en paiement, puis la revente par l'institution devenue
-propriétaire, ou la vente sous contrôle de justice. Les deux produisent une
-inscription sur Centris. Elles ne produisent pas le même contrat. Éducaloi
-rappelle au passage que le défaut n'est pas seulement le paiement manqué: le
-contrat de prêt peut en prévoir d'autres, comme l'obligation de garder la maison
-assurée.
+Pour une maison, un condo ou un petit plex, il reste donc deux scénarios: la
+prise en paiement, puis la revente par l'institution devenue propriétaire, ou la
+vente sous contrôle de justice. Les deux produisent une inscription sur Centris.
+Elles ne produisent pas le même contrat. Éducaloi rappelle au passage que le
+défaut n'est pas que le paiement manqué: le contrat de prêt peut en prévoir
+d'autres, comme l'obligation de garder la maison assurée.
 
 ## Le préavis d'exercice et le délai de 60 jours
 
@@ -42,9 +41,8 @@ foncier.
 
 L'article 2758 dicte le contenu du préavis: dénoncer tout défaut, rappeler le
 droit d'y remédier, indiquer le montant de la créance en capital et intérêts,
-nommer le droit hypothécaire que le créancier entend exercer, décrire le bien,
-et sommer la personne visée de délaisser le bien avant l'expiration du délai
-imparti.
+nommer le droit hypothécaire exercé, décrire le bien, et sommer la personne
+visée de le délaisser avant l'expiration du délai imparti.
 
 | Bien visé par le préavis | Délai pour délaisser |
 |---|---|
@@ -59,10 +57,10 @@ donc 60 jours, pas 30 et pas 90.
 
 Ce délai n'est pas un compte à rebours fatal. L'article 2761 permet au débiteur,
 ou à tout autre intéressé, de faire échec au droit du créancier en payant ce qui
-lui est dû ou en remédiant au défaut, et en payant les frais engagés, jusqu'à ce
-que le bien ait été pris en paiement ou vendu. Conséquence pratique: une
-propriété sous préavis n'est pas encore une reprise, et elle peut revenir à son
-propriétaire jusqu'au dernier moment.
+lui est dû ou en remédiant au défaut, frais engagés compris, jusqu'à ce que le
+bien ait été pris en paiement ou vendu. Une propriété sous préavis n'est donc
+pas encore une reprise: elle peut revenir à son propriétaire jusqu'au dernier
+moment.
 
 ## Prise en paiement ou vente sous contrôle de justice
 
@@ -77,7 +75,7 @@ Deux garde-fous existent. L'article 2778 oblige le créancier à obtenir
 l'autorisation du tribunal si le débiteur avait déjà acquitté la moitié ou plus
 de l'obligation garantie au moment de l'inscription du préavis. L'article 2779
 permet au débiteur ou aux créanciers subséquents d'exiger une vente plutôt
-qu'une prise en paiement, à des conditions précises.
+qu'une prise en paiement.
 
 **La vente sous contrôle de justice.** Selon l'article 2791, c'est le tribunal
 qui désigne la personne chargée de vendre, détermine les conditions et les
@@ -114,10 +112,9 @@ S'ajoute l'exclusion de garantie. Quand elle passe par une clause, l'article
 1732 permet aux parties d'en diminuer les effets ou de l'exclure entièrement, et
 l'article 1733 prive le vendeur de cette protection s'il n'a pas révélé les
 vices qu'il connaissait, sauf lorsque l'acheteur achète à ses risques et périls
-d'un vendeur non professionnel. La portée exacte de cette exception face à une
-institution financière dépend du statut du vendeur et du texte signé: c'est une
-question pour un avocat ou un notaire avant la promesse, pas après. Le mécanisme
-complet est dans [la vente sans garantie légale au
+d'un vendeur non professionnel. Face à une institution financière, la portée de
+cette exception dépend du texte signé: question pour un avocat ou un notaire
+avant la promesse, pas après. Le mécanisme complet est dans [la vente sans garantie légale au
 Québec](/articles/vente-sans-garantie-legale-quebec/).
 
 L'OACIQ tire des arrêts Blais c. Laforce et Tremblay c. Immeubles Perron ltée
@@ -154,25 +151,24 @@ question de l'occupation avant de signer.
 
 L'inspection cesse d'être une formalité. Sans déclaration du vendeur et sans
 garantie, tout ce qui n'est pas découvert avant la signature sera le vôtre.
-L'OACIQ invite l'acheteur à ne pas hésiter à faire appel à des experts pour
-inspecter la propriété avant l'achat dans ce type de transaction. Sur un
-immeuble vide et sans électricité, prévoyez un délai plus long: il faut souvent
-faire rouvrir les services pour tester la plomberie et le chauffage. Les coûts
-et le bon moment sont dans [inspection préachat: combien ça coûte et quand la
+L'OACIQ invite l'acheteur à ne pas hésiter à faire appel à des experts dans ce
+type de transaction. Sur un immeuble vide et sans électricité, prévoyez un délai
+plus long: il faut souvent faire rouvrir les services pour tester la plomberie
+et le chauffage. Les coûts et le bon moment sont dans [inspection préachat: combien ça coûte et quand la
 faire](/articles/inspection-preachat-cout-moment-quebec/).
 
 Ce que je ne peux pas affirmer: aucune source officielle ne permet de dire qu'un
 prêteur ou un assureur refuse d'office une reprise de finance. La question se
-pose néanmoins chaque fois, et elle se règle avant l'offre. Posez-la au prêteur
-et à l'assureur en même temps, avec l'adresse et le type de vente, puis gardez
-une marge pour les travaux: le plafond réel se calcule d'abord, avec le
-[calculateur de capacité d'emprunt](/tools/affordability/).
+pose néanmoins chaque fois, et elle se règle avant l'offre. Posez-la aux deux en
+même temps, avec l'adresse et le type de vente, puis gardez une marge pour les
+travaux: le plafond réel se calcule d'abord, avec le [calculateur de capacité
+d'emprunt](/tools/affordability/).
 
 Du côté des titres, Éducaloi décrit l'examen que fait le notaire: vérifier les
 anciens actes, s'assurer que la propriété appartient bel et bien au vendeur,
 révéler une saisie pour impôts impayés ou un droit de passage. Le registre
-foncier donne l'historique légal: qui a acheté et vendu, quand, à quel prix, et
-les hypothèques inscrites. La suite est dans [le notaire au Québec, étape par
+foncier, lui, donne l'historique légal des transactions et des hypothèques
+inscrites. La suite est dans [le notaire au Québec, étape par
 étape](/articles/quebec-notary-process/).
 
 ## Le rabais compense-t-il le risque?
@@ -184,9 +180,9 @@ le coût estimé par écrit des travaux que vous assumerez seul, moins la valeur
 recours auquel vous renoncez.
 
 La troisième ligne est la plus dure à chiffrer et la plus souvent oubliée. Elle
-vaut peu si l'inspection est complète et le bâtiment simple. Elle vaut très cher
-si l'inspecteur signale une zone qu'il n'a pas pu examiner: le rabais ne se
-compare alors plus à des travaux connus, mais à un risque ouvert.
+vaut peu si l'inspection est complète et le bâtiment simple, très cher si
+l'inspecteur signale une zone qu'il n'a pas pu examiner: le rabais ne se compare
+alors plus à des travaux connus, mais à un risque ouvert.
 
 ## Questions fréquentes
 
@@ -199,13 +195,12 @@ votre offre vise une vente ordinaire, pas une reprise.
 obligatoirement. L'OACIQ précise que pour un vendeur personne morale, le
 formulaire est fortement recommandé, et il vise expressément les institutions
 financières lors de la reprise d'un immeuble. Demandez au moins les sections sur
-l'alimentation en eau et les services d'égouts.
+l'eau et les égouts.
 
 **Une vente sous contrôle de justice efface-t-elle les hypothèques?** L'article
 2794 prévoit qu'elle purge les droits réels dans la mesure prévue au Code de
-procédure civile. Ce n'est pas une garantie générale de titre propre: c'est
-exactement ce que l'examen des titres par le notaire doit confirmer avant la
-signature.
+procédure civile. Ce n'est pas une garantie de titre propre: c'est ce que
+l'examen des titres doit confirmer avant la signature.
 
 **Puis-je mettre une condition d'inspection dans mon offre?** Rien ne l'interdit,
 mais les conditions de vente sont fixées par le vendeur, et par le tribunal dans
@@ -219,5 +214,5 @@ légale au Québec](/articles/vente-sans-garantie-legale-quebec/).
 ---
 
 *Une reprise de finance vous intéresse à Laval ou à Montréal?
-[Écrivez-moi](/formulaire/). On vérifie d'abord le type de vente, les documents
+[Écrivez-moi](/formulaire/). On vérifie le type de vente, les documents
 disponibles et les conditions imposées avant de parler de prix.*

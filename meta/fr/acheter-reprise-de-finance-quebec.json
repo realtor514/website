@@ -1,0 +1,80 @@
+{
+ "id": "t95",
+ "slug": "acheter-reprise-de-finance-quebec",
+ "title": "Acheter une reprise de finance au Québec: les règles",
+ "target_keyword": "acheter une reprise de finance quebec",
+ "word_count": 1800,
+ "category": "Guide de l'acheteur",
+ "internal_links": [
+  "/articles/vente-sans-garantie-legale-quebec/",
+  "/articles/condo-fees-investment-killer/",
+  "/articles/inspection-preachat-cout-moment-quebec/",
+  "/articles/quebec-notary-process/",
+  "/articles/red-flags-walk-away-property/",
+  "/tools/affordability/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, RLRQ c CCQ-1991",
+   "publisher": "Légis Québec, Éditeur officiel du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Texte intégral des articles cités: 1069 (charges communes dues au moment de l'acquisition, y compris par suite de l'exercice d'un droit hypothécaire, et état des charges fourni dans les 15 jours), 1731 (la vente sous contrôle de justice ne donne lieu à aucune obligation de garantie de qualité), 1732 et 1733 (garantie conventionnelle, exclusion, risques et périls d'un vendeur non professionnel), 2748 (quatre droits hypothécaires), 2749 (interdiction d'exercer avant l'expiration du délai), 2757 (production du préavis au bureau de la publicité des droits avec preuve de signification), 2758 (contenu du préavis et délais de 60, 30, 20 et 10 jours), 2761 (droit de faire échec au recours), 2765 (délaissement forcé ordonné par le tribunal), 2778 (autorisation du tribunal si la moitié de l'obligation est acquittée), 2779 (exiger la vente plutôt que la prise en paiement), 2781, 2782 et 2783 (titre de propriété, extinction de l'obligation, propriété à compter de l'inscription du préavis et état du bien), 2784 (vente par le créancier réservée aux biens d'une entreprise), 2791, 2793 et 2794 (vente sous contrôle de justice, personne désignée, purge des droits réels)"
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/les-hypotheques/",
+   "title": "Les hypothèques",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Le défaut ne se limite pas au paiement manqué (exemple du contrat exigeant de garder la maison assurée); le préavis doit être publié au bureau de la publicité des droits; tableau des délais pour délaisser, dont 60 jours pour un terrain ou un immeuble"
+  },
+  {
+   "url": "https://www.oaciq.com/fr/articles/contexte-utilisation-du-formulaire-obligatoire-declarations-du-vendeur-immeuble",
+   "title": "Contexte d'utilisation du formulaire obligatoire Déclarations du vendeur sur l'immeuble",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Formulaire DV obligatoire depuis juillet 2012 pour la vente par une personne physique d'un immeuble principalement résidentiel de moins de 5 logements; pour un vendeur personne morale il est seulement fortement recommandé, l'OACIQ citant en exemple les institutions financières lors de la reprise d'un immeuble"
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vos-protections/evolution-de-l-interpretation-de-la-clause-de-vente-sans-garantie-legale/",
+   "title": "Évolution de l'interprétation de la clause de vente sans garantie légale « aux risques et périls de l'acheteur »",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Arrêts Blais c. Laforce et Tremblay c. Immeubles Perron ltée: l'acheteur qui achète avec exclusion complète ne pourra pas se retourner contre les précédents propriétaires; recommandation de ne pas hésiter à faire appel à des experts pour inspecter la propriété avant l'achat dans ce type de transaction"
+  },
+  {
+   "url": "https://bac.ibc.ca/actualites-et-perspectives/au-point/mon-assurance-couvre-t-elle-les-dommages-attribuables-au-froid-extreme-",
+   "title": "Mon assurance couvre-t-elle les dommages attribuables au froid extrême?",
+   "publisher": "Bureau d'assurance du Canada",
+   "consulted": "2026-09-23",
+   "supports": "La plupart des contrats excluent le gel des canalisations et les dégâts d'eau si le logement est vacant, même si cette vacance est autorisée; la couverture du gel et de l'éclatement suppose des canalisations dans la partie chauffée et des mesures raisonnables pour y maintenir la chaleur"
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/immobilier-role-notaire/",
+   "title": "Immobilier : le rôle du notaire",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Contenu de l'examen des titres: vérifier les anciens actes, confirmer que la propriété appartient bien au vendeur, révéler une saisie pour impôts impayés ou un droit de passage"
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/registre-foncier/",
+   "title": "Le registre foncier : pourquoi, comment, combien?",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Le registre foncier donne l'historique légal de la propriété: acheteurs, vendeurs, dates, prix de vente et hypothèques inscrites"
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/immobilier-acheter-sans-garantie-legale/",
+   "title": "Immobilier : acheter sans garantie légale",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Effet pratique de l'exclusion: impossible de poursuivre le vendeur pour un vice caché, le seul recours restant étant de démontrer que le vendeur a volontairement caché la vérité sur un aspect déterminant"
+  }
+ ],
+ "claims_needing_review": [
+  "Portée de l'exception du deuxième alinéa de l'article 1733 lorsque le vendeur est une institution financière: la qualification de vendeur non professionnel n'est pas tranchée par une source primaire consultée, l'article renvoie donc au notaire ou à l'avocat",
+  "Affirmation selon laquelle une vente par le créancier lui-même (article 2784) ne vise pas un immeuble résidentiel ordinaire: déduite du texte de l'article, à faire confirmer par un juriste",
+  "Aucune source officielle consultée ne quantifie le rabais moyen d'une reprise de finance au Québec, ni ne confirme un refus systématique de financement ou d'assurance"
+ ]
+}

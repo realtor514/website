@@ -12,9 +12,9 @@ draft: true
 
 Un prêteur vous offre un point de pourcentage de moins que votre taux actuel. Avant
 de dire oui, il reste un chiffre à obtenir, celui que personne ne met dans la
-publicité : la pénalité. Elle ne se devine pas, elle se calcule, et deux
-institutions peuvent arriver à des montants très éloignés sur le même prêt. Voici
-la mécanique, puis les frais québécois qui s'ajoutent après.
+publicité : la pénalité. Elle ne se devine pas, et deux institutions peuvent
+arriver à des montants très éloignés sur le même prêt. Voici la mécanique, puis
+les frais québécois qui s'ajoutent.
 
 ## Prêt ouvert, prêt fermé : d'où vient la pénalité pour casser une hypothèque
 
@@ -29,17 +29,17 @@ L'Agence de la consommation en matière financière du Canada donne l'ordre de
 grandeur : résilier une hypothèque fermée oblige habituellement à payer une
 pénalité pour remboursement anticipé, qui peut coûter des milliers de dollars.
 
-Une précision sur les termes longs. L'article 10 de la Loi sur l'intérêt prévoit
-que lorsqu'une hypothèque sur immeuble n'est pas remboursable avant plus de cinq
-ans, le débiteur peut, passé ce délai, rembourser le capital et les intérêts
-courus en y ajoutant trois mois d'intérêt pour tenir lieu d'avis. Avec un terme de
-cinq ans ou moins, ce plafond ne vous protège pas pendant le terme.
+Une précision sur les termes longs. L'article 10 de la Loi sur l'intérêt permet,
+lorsqu'une hypothèque sur immeuble n'est pas remboursable avant plus de cinq ans,
+de rembourser passé ce délai le capital et les intérêts courus en y ajoutant trois
+mois d'intérêt pour tenir lieu d'avis. Avec un terme de cinq ans ou moins, ce
+plafond ne vous protège pas.
 
 ## Les deux formules de pénalité pour casser une hypothèque
 
 **L'ACFC énonce la règle en une phrase : c'est le plus élevé des deux montants.**
 Soit trois mois d'intérêts sur le solde impayé, soit le différentiel de taux
-d'intérêt. Pas la moyenne, pas celui que vous préférez. Le plus élevé.
+d'intérêt. Pas la moyenne, pas celui que vous préférez.
 
 Les trois mois d'intérêts ne dépendent que de votre solde et de votre taux. Le
 différentiel, lui, dépend de l'écart entre deux taux et du nombre de mois qui
@@ -74,16 +74,16 @@ qui restent ne couvre pas la pénalité et les frais, la décision est déjà pr
 **Voici la partie qui surprend même les emprunteurs avertis.** L'ACFC explique que
 le prêteur compare deux taux, et que chacun peut être choisi de deux façons. Le
 premier est soit le taux affiché au moment où vous avez signé, soit votre taux
-réel ou escompté selon ce que prévoit le contrat. Le second est soit le taux
-affiché courant pour un terme de durée semblable, soit ce taux affiché moins le
-rabais qui vous avait été consenti au départ. Quatre combinaisons, quatre
-résultats. Et plus le rabais négocié à la signature était généreux, plus l'écart
-entre le taux affiché de départ et le taux de comparaison réduit devient large.
+réel ou escompté. Le second est soit le taux affiché courant pour un terme de
+durée semblable, soit ce taux affiché moins le rabais qui vous avait été consenti
+au départ. Quatre combinaisons, quatre résultats. Et plus le rabais négocié était
+généreux, plus l'écart entre le taux affiché de départ et le taux de comparaison
+réduit devient large.
 
-Illustration arithmétique, avec des chiffres inventés pour montrer la mécanique.
-Ce ne sont pas des taux du marché. Solde de 300 000 $, 30 mois restants, taux au
-contrat de 5 %, taux affiché à la signature de 6,5 %, donc un rabais de 1,5 point.
-Taux affiché courant pour un terme comparable : 4 %.
+Illustration arithmétique, avec des chiffres inventés. Ce ne sont pas des taux du
+marché. Solde de 300 000 $, 30 mois restants, taux au contrat de 5 %, taux affiché
+à la signature de 6,5 %, donc un rabais de 1,5 point. Taux affiché courant pour un
+terme comparable : 4 %.
 
 | Méthode de comparaison | Écart retenu | Calcul | Résultat |
 |---|---|---|---|
@@ -140,14 +140,13 @@ vigueur depuis le 1er avril 2026.
 | Consultation d'un document | 1,50 $ |
 
 Le reste n'est pas tarifé. Les honoraires du notaire ne sont fixés par aucun
-barème public : demandez-les par écrit avant de mandater qui que ce soit. Sur le
-déroulement complet, voyez
+barème public : demandez-les par écrit. Sur le déroulement complet, voyez
 [le rôle du notaire au Québec](/articles/quebec-notary-process/).
 
-Additionnez maintenant. Pénalité, frais d'administration, d'évaluation, de
+Additionnez ensuite la pénalité, les frais d'administration, d'évaluation, de
 réinvestissement, de quittance et d'enregistrement : c'est la liste que l'ACFC
-demande de faire chiffrer avant de résilier. Si vous aviez reçu une remise en
-argent à la signature, une portion peut aussi devoir être remboursée.
+demande de faire chiffrer avant de résilier. Une remise en argent reçue à la
+signature peut aussi devoir être remboursée en partie.
 
 ## Trois questions à poser par écrit, et les cas où casser paie
 
@@ -156,29 +155,28 @@ argent à la signature, une portion peut aussi devoir être remboursée.
 **1. Quel est le montant exact aujourd'hui, et jusqu'à quelle date est-il valide ?**
 Le code de conduite applicable aux institutions sous réglementation fédérale
 prévoit qu'une fois votre intention de rembourser confirmée, le prêteur remet un
-état écrit indiquant les frais applicables, la méthode de calcul, la période de
-validité du montant, les facteurs qui pourraient le faire changer et toute autre
-somme due. Un montant donné au téléphone ne vaut rien.
+état écrit indiquant les frais, la méthode de calcul, la période de validité du
+montant, les facteurs qui pourraient le faire changer et toute autre somme due. Un
+montant donné au téléphone ne vaut rien.
 
 **2. Quels deux taux avez-vous utilisés, et pourquoi ceux-là ?** Le même code
 prévoit que si le calcul repose sur le différentiel, l'état écrit précise le solde
-impayé, le taux d'intérêt annuel, le taux de comparaison utilisé et la durée
-restante du terme. Exigez ces quatre nombres avant de comparer deux offres.
+impayé, le taux annuel, le taux de comparaison utilisé et la durée restante du
+terme. Exigez ces quatre nombres avant de comparer deux offres.
 
-**3. Quels frais s'ajoutent à la pénalité, poste par poste ?** Administration,
-évaluation, réinvestissement, quittance et enregistrement, dans le même document.
+**3. Quels frais s'ajoutent, poste par poste ?** Administration, évaluation,
+réinvestissement, quittance et enregistrement, dans le même document.
 
 ### Quand l'opération se défend quand même
 
 **Vous vendez.** La SCHL décrit le prêt hypothécaire pris en charge comme un prêt
 existant dont l'acheteur assume la responsabilité, ce qui peut éviter des frais
-d'évaluation et des honoraires. La transférabilité vers votre prochaine propriété
-mérite la même question. Les autres postes sont dans
+d'évaluation et des honoraires. La transférabilité mérite la même question. Les
+autres postes sont dans
 [le coût réel de vendre une maison au Québec](/articles/cout-reel-vendre-maison-quebec/).
 
 **Le couple se sépare.** Le rachat de la part de l'autre impose souvent un nouveau
-prêt : la pénalité devient un coût de sortie à budgéter, pas une décision. Le cadre
-est expliqué dans
+prêt : la pénalité devient un coût de sortie à budgéter, pas une décision. Voyez
 [séparation, divorce et maison au Québec](/articles/divorce-real-estate-guide/).
 
 **Vous avez besoin de la valeur nette.** Le calcul change, parce que vous n'achetez
@@ -193,12 +191,11 @@ fusionnant l'ancien taux et celui du nouveau terme. Son exemple : 200 000 $ à
 
 ## Questions fréquentes
 
-**Est-ce que ma banque peut refuser de me donner le calcul avant que je m'engage ?**
-Pour une institution sous réglementation fédérale, le code de conduite prévoit un
-état écrit une fois votre intention confirmée, et des renseignements annuels
-expliquant la méthode de calcul et les facteurs qui influent sur les frais. Si on
-vous renvoie à plus tard, demandez l'information annuelle : elle ne dépend
-d'aucune confirmation.
+**Ma banque peut-elle refuser de me donner le calcul avant que je m'engage ?**
+Le code de conduite prévoit un état écrit une fois votre intention confirmée, et
+des renseignements annuels expliquant la méthode de calcul et les facteurs qui
+influent sur les frais. Si on vous renvoie à plus tard, demandez l'information
+annuelle : elle ne dépend d'aucune confirmation.
 
 **Mon voisin a payé 2 000 $ et moi 14 000 $. Comment est-ce possible ?**
 Sa pénalité était probablement les trois mois d'intérêts, parce que les taux
@@ -210,7 +207,7 @@ départ diminué de votre rabais.
 Souvent, oui. À l'échéance, changer de prêteur ne déclenche aucune pénalité,
 puisqu'il n'y a plus de promesse à rompre. Restent les frais d'ouverture et, au
 Québec, l'acte et la radiation. Comparez l'économie mensuelle multipliée par les
-mois restants avec le total pénalité plus frais.
+mois restants avec le total de la pénalité et des frais.
 
 **Le taux directeur baisse. Est-ce que ma pénalité baisse aussi ?**
 Pas mécaniquement. La Banque du Canada a maintenu son taux cible du financement à
