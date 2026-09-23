@@ -143,6 +143,36 @@
    "slug": "vice-cache-conditions-recours-quebec",
    "keyword": "vice cache maison quebec recours",
    "state": "in_progress"
+  },
+  {
+   "id": "t83",
+   "slug": "reglement-piscine-securite-quebec",
+   "keyword": "reglement piscine residentielle quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t94",
+   "slug": "deces-conjoint-proteger-propriete-quebec",
+   "keyword": "deces conjoint de fait maison quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t145",
+   "slug": "garantie-gcr-maison-neuve-quebec",
+   "keyword": "garantie maison neuve gcr quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t150",
+   "slug": "proprietaire-occupant-plex-reprise",
+   "keyword": "proprietaire occupant plex quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t161",
+   "slug": "loi-16-copropriete-acheteur-quebec",
+   "keyword": "loi 16 copropriete quebec obligations",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -169,7 +199,12 @@
   "copropriete-indivise-cooperative-montreal",
   "acheter-reprise-de-finance-quebec",
   "casser-hypotheque-penalite-quebec",
-  "vice-cache-conditions-recours-quebec"
+  "vice-cache-conditions-recours-quebec",
+  "reglement-piscine-securite-quebec",
+  "deces-conjoint-proteger-propriete-quebec",
+  "garantie-gcr-maison-neuve-quebec",
+  "proprietaire-occupant-plex-reprise",
+  "loi-16-copropriete-acheteur-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -195,7 +230,12 @@
   "copropriete indivise financement montreal",
   "acheter une reprise de finance quebec",
   "penalite pour casser une hypotheque",
-  "vice cache maison quebec recours"
+  "vice cache maison quebec recours",
+  "reglement piscine residentielle quebec",
+  "deces conjoint de fait maison quebec",
+  "garantie maison neuve gcr quebec",
+  "proprietaire occupant plex quebec",
+  "loi 16 copropriete quebec obligations"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -221,6 +261,11 @@
   "Copropriete indivise et cooperative a Montreal: ce que les preteurs exigent",
   "Acheter une reprise de finance au Quebec: ce que vous acceptez vraiment",
   "Casser son hypotheque au Quebec: penalite, differentiel de taux et cas ou ca vaut la peine",
-  "Vice cache au Quebec: les quatre conditions, la denonciation et le recours"
+  "Vice cache au Quebec: les quatre conditions, la denonciation et le recours",
+  "Piscine residentielle au Quebec: le reglement de securite, le permis et la revente",
+  "Proteger sa propriete en cas de deces: conjoints de fait, indivision et testament",
+  "La garantie GCR sur une maison neuve: ce qui est couvert, pendant combien de temps",
+  "Habiter son plex au Quebec: reprise de logement, financement et fiscalite",
+  "Loi 16 en copropriete: etude du fonds de prevoyance, carnet d entretien et ce que l acheteur doit exiger"
  ]
 }
