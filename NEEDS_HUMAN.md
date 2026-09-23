@@ -81,12 +81,29 @@ Ces articles portent `needs_expert_review: true` dans leur front matter. Ils
 restent en brouillon. Le contenu est sourcé, mais la matiere est fiscale,
 juridique ou assurantielle et merite une relecture avant mise en ligne.
 
-La liste se remplit au fil des sessions.
+Ces articles sont sources et verifies, mais la matiere est fiscale, juridique
+ou assurantielle. Ils restent en `draft: true` jusqu a votre feu vert, meme
+quand leurs traductions sont pretes.
 
-| Slug | Sujet | Qui devrait relire |
-|---|---|---|
-| impot-proprietaire-quebec | Deductions fiscales du proprietaire | comptable ou fiscaliste |
-| acheter-zone-inondable-quebec | Zones inondables, assurance et financement | assureur ou courtier hypothecaire |
+| Slug | Sujet | Qui devrait relire | Etat |
+|---|---|---|---|
+| impot-proprietaire-quebec | Residence principale, depenses deductibles, changement d usage | comptable ou fiscaliste | dans content/, brouillon |
+| acheter-zone-inondable-quebec | Nouveau cadre des zones inondables, assurance, financement | assureur ou courtier hypothecaire | dans content/, brouillon |
+| vente-sans-garantie-legale-quebec | Garantie legale de qualite et son exclusion | notaire | brouillon |
+| contrat-courtage-vente-quebec | Clauses du contrat de courtage, dont la remuneration apres expiration | vous, puis l agence | brouillon |
+| choisir-inspecteur-batiment-quebec | Certification RBQ des inspecteurs, clauses de limitation de responsabilite | vous | brouillon |
+| conjoints-de-fait-maison-quebec | Union parentale depuis le 30 juin 2025, indivision, succession | notaire | en redaction |
+
+**Deux points de vigilance signales par les redacteurs eux-memes:**
+
+- `acheter-zone-inondable-quebec`: les interdictions de construction par classe
+  n ont pas ete detaillees, parce que LegisQuebec bloquait la lecture du
+  reglement et que l agent a refuse de le paraphraser de memoire. C est la
+  bonne decision. Si vous voulez ce detail, il faut lire le reglement.
+- `choisir-inspecteur-batiment-quebec`: l affirmation qu aucun ordre
+  professionnel n encadre les inspecteurs repose sur l absence d ordre plus le
+  caractere encore volontaire du certificat, pas sur une page qui l affirme
+  noir sur blanc.
 
 ---
 
