@@ -161,8 +161,10 @@ def check(path):
             except ValueError:
                 errors.append("%s illisible: %s" % (field, value))
 
+    # Une traduction partage le dossier d images de la version francaise, donc
+    # son chemin d image porte le slug francais. On ne verifie qu en francais.
     slug = path.stem
-    if meta.get("image") and slug not in meta["image"]:
+    if lang == "fr" and meta.get("image") and slug not in meta["image"]:
         warnings.append("le chemin d image ne contient pas le slug")
 
     if re.search(r"^#\s+", body, flags=re.M):

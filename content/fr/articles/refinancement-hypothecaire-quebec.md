@@ -1,12 +1,12 @@
 ---
 title: "Refinancement hypothécaire au Québec : est-ce rentable ?"
 date: 2026-09-15
-lastmod: 2026-09-15
+lastmod: 2026-09-23
 translationKey: "article-refinancement-hypothecaire"
 category: "Financement"
 description: "Renouvellement, transfert ou refinancement hypothécaire au Québec : le plafond de 80 %, la pénalité, l'assurance perdue et les frais réels."
 image: "images/articles/refinancement-hypothecaire-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Trois demandes arrivent au même bureau sous trois noms différents : renouveler,

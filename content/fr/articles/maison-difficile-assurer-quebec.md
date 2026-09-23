@@ -1,12 +1,12 @@
 ---
 title: "Maison difficile à assurer au Québec: ce qui bloque"
 date: 2026-09-08
-lastmod: 2026-09-08
+lastmod: 2026-09-23
 translationKey: "article-maison-difficile-assurer"
 category: "Guide de l'acheteur"
 description: "Refus d'assurance, mazout, aluminium, toiture, sinistres passés: pourquoi une maison devient difficile à assurer au Québec et quoi vérifier avant l'offre."
 image: "images/articles/maison-difficile-assurer-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Aucune loi québécoise n'oblige un propriétaire à s'assurer. Le prêteur, lui,

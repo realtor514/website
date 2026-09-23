@@ -1,12 +1,12 @@
 ---
 title: "Contester son évaluation municipale au Québec"
 date: 2026-08-24
-lastmod: 2026-08-24
+lastmod: 2026-09-23
 translationKey: "article-contester-evaluation-municipale"
 category: "Immobilier 101"
 description: "Date de référence, délai du 1er mai, frais, réponse de l'évaluateur et recours au TAQ : contester son évaluation municipale au Québec, étape par étape."
 image: "images/articles/contester-evaluation-municipale-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Votre compte de taxes a monté et la valeur inscrite au rôle vous paraît

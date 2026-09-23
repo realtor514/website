@@ -6,7 +6,7 @@ translationKey: "article-renovation-condo"
 category: "Immobilier 101"
 description: "Plancher, fenêtre, balcon, mur porteur: ce qu’un copropriétaire peut rénover dans son condo au Québec, et ce que la déclaration de copropriété interdit."
 image: "images/articles/renovation-condo-copropriete-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Vous voulez remplacer le tapis par du bois franc, changer la fenêtre du salon,
