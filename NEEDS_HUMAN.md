@@ -94,6 +94,18 @@ quand leurs traductions sont pretes.
 | choisir-inspecteur-batiment-quebec | Certification RBQ des inspecteurs, clauses de limitation de responsabilite | vous | brouillon |
 | conjoints-de-fait-maison-quebec | Union parentale depuis le 30 juin 2025, indivision, succession | notaire | en redaction |
 
+**Une contradiction entre un nouvel article et un ancien:**
+
+Sur la voie transitoire des inspecteurs en batiment, le nouvel article
+`choisir-inspecteur-batiment-quebec` parle de trois ans d experience dans les
+cinq dernieres annees plus une preuve d assurance. L article deja en ligne
+`content/en/articles/home-inspection-checklist-montreal.md` parle, lui, d un
+cours de mise a niveau. Les deux ne peuvent pas etre exacts en meme temps.
+
+Le nouvel article est source et recent, l ancien ne l est pas forcement. Je n ai
+pas touche a l ancien: la regle du projet est de ne jamais modifier l existant.
+C est a trancher, puis a corriger dans les 4 langues de l article concerne.
+
 **Deux points de vigilance signales par les redacteurs eux-memes:**
 
 - `acheter-zone-inondable-quebec`: les interdictions de construction par classe
