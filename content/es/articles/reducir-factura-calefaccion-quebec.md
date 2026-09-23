@@ -1,12 +1,12 @@
 ---
 title: "Cómo reducir su factura de calefacción en Quebec: por dónde empezar"
 date: 2026-09-22
-lastmod: 2026-09-22
+lastmod: 2026-09-23
 translationKey: "article-facture-chauffage"
 category: "Guía práctica"
 description: "Tarifa D, tramo de 40 kWh, aislamiento, bomba de calor y ayudas 2026: cómo reducir su factura de calefacción en Quebec, en el orden que de verdad rinde."
 image: "images/articles/reduire-facture-chauffage-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Dos casas de la misma edad, en la misma calle de Laval, pueden mostrar una

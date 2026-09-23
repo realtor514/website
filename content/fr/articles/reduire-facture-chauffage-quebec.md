@@ -1,12 +1,12 @@
 ---
 title: "Réduire sa facture de chauffage au Québec: par où commencer"
 date: 2026-09-22
-lastmod: 2026-09-22
+lastmod: 2026-09-23
 translationKey: "article-facture-chauffage"
 category: "Guide pratique"
 description: "Tarif D, tranche de 40 kWh, isolation, thermopompe et aides 2026: comment réduire sa facture de chauffage au Québec, dans l'ordre qui rapporte."
 image: "images/articles/reduire-facture-chauffage-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Deux maisons du même âge, sur la même rue à Laval, peuvent afficher un écart de

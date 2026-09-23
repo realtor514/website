@@ -1,0 +1,88 @@
+{
+ "id": "t09",
+ "slug": "arbres-propriete-reglements-quebec",
+ "title": "Abattage d'arbre au Québec : le règlement et la propriété",
+ "target_keyword": "abattage arbre reglement quebec propriete",
+ "word_count": 1803,
+ "category": "Guide pratique",
+ "internal_links": [
+  "/articles/home-inspection-checklist-montreal/",
+  "/tools/home-estimate/",
+  "/articles/renovations-dont-add-value/",
+  "/articles/red-flags-walk-away-property/",
+  "/articles/school-districts-property-values/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, RLRQ c CCQ-1991",
+   "publisher": "Légis Québec, ministère de la Justice du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Texte intégral vérifié des articles cités : 900 (les végétaux sont immeubles tant qu'ils ne sont pas séparés du fonds), 951 (la propriété du sol emporte celle du dessus et du dessous), 976 (inconvénients normaux du voisinage), 978 (bornage), 984 (les fruits tombés appartiennent au propriétaire de l'arbre), 985 (branches et racines qui nuisent sérieusement, arbre qui menace de tomber), 986 (fonds agricole, cinq mètres), 1003 (clôture sur la ligne séparative présumée mitoyenne), 1026 (unanimité pour les modifications substantielles d'un bien indivis), 1726 (vices cachés) et 1733 (impossibilité d'exclure sa responsabilité pour un vice connu)."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/les-arbres-et-les-clotures/",
+   "title": "Les arbres et les clôtures",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Citation exacte reprise dans l'article : « Vous ne pouvez pas vous faire justice vous-même, et ce, même si les branches (ou racines) de l'arbre de votre voisin que vous voulez couper sont sur votre terrain. » Appuie aussi la marche à suivre (entente, mise en demeure, médiation, tribunal), le risque d'être condamné à indemniser le voisin, et la règle du partage à parts égales pour une clôture érigée sur la ligne séparatrice."
+  },
+  {
+   "url": "https://montreal.ca/demarches/demander-un-permis-dabattage-darbre-sur-un-terrain-prive",
+   "title": "Demander un permis d'abattage d'arbre sur un terrain privé",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-23",
+   "supports": "Page mise à jour le 22 septembre 2026. Appuie : l'exigence d'un certificat d'autorisation d'abattage ; les seuils d'Ahuntsic-Cartierville (tronc de 10 cm à 1,3 m du sol ou 15 cm à 15 cm du sol, rehaussement du sol de plus de 20 cm sous la ramure, coupe de 40 % ou plus des branches, coupe de 40 % ou plus des racines) et les frais d'étude de 136 $ par demande et par lot ; les seuils de Côte-des-Neiges et Notre-Dame-de-Grâce (10 cm à 1,3 m, sauf cèdre, genévrier et nerprun) et l'avertissement « Si vous faites abattre un ou plusieurs arbres sans permis, l'amende s'élève à 600 $ et peut aller jusqu'à 15 000 $ selon le nombre d'arbres abattus et la superficie déboisée » ; la liste des motifs acceptés et des motifs refusés (feuilles, sève, brindilles, pollen, animaux, ombre, racines visibles) ; l'obligation de remplacement et la gratuité de la demande visant un frêne."
+  },
+  {
+   "url": "https://www.laval.ca/reglements-permis/trouver-mon-permis/abattage-arbre/",
+   "title": "Abattage d'arbres sur un terrain",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-23",
+   "supports": "Citation exacte : « Avant d'abattre un arbre sur votre propriété, et ce, même si la demande provient d'une recommandation d'Hydro-Québec, il est obligatoire d'obtenir un certificat d'autorisation. » Appuie aussi le seuil de 30 mm de diamètre pour un feuillu et de 150 cm de hauteur pour un conifère, « quel que soit l'emplacement de l'arbre sur votre terrain », les frais de 84 $ par arbre, la gratuité pour le frêne, la liste des motifs acceptés dont l'abattage requis pour construire ou aménager un ouvrage autorisé par l'urbanisme, et l'obligation de remplacement."
+  },
+  {
+   "url": "https://bac.ibc.ca/stay-protected/severe-weather-centre/severe-weather-insurance-faqs",
+   "title": "FAQ sur l'assurance habitation, automobile et entreprise (Centre d'information sur les phénomènes météorologiques extrêmes)",
+   "publisher": "Bureau d'assurance du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Citations exactes reprises dans l'article : « Même si l'arbre vous appartient, vous n'êtes pas responsable des dommages qu'il peut avoir causés lors d'une tempête de vent » ; l'exception de négligence (« s'il n'avait pas coupé un arbre pourri depuis un certain temps ») ; « Si un arbre tombe sur la maison, la police d'assurance du propriétaire couvre l'enlèvement de l'arbre et les réparations de la maison. Si l'arbre n'a endommagé aucun bien assuré, le propriétaire sera responsable des frais de nettoyage. »"
+  },
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "title": "Déclarations du vendeur sur l'immeuble (formulaire DV 00001, V24 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Formulaire ouvert et lu en entier. Appuie l'absence de toute question portant sur les arbres, et l'identification exacte des rubriques où un dossier d'arbre doit être déclaré : D2.8 (hypothèques, servitudes, empiétements ou autres charges), D3.5 (travaux de terrassement), D9.4 (drain français), D14.1 (dommages subis à la suite d'événements comme du verglas, du vent, une inondation ou un incendie), D14.5 (autres éléments pouvant avoir un impact sur la valeur, les revenus, les dépenses ou l'usage de l'immeuble) et D15 (précisions)."
+  },
+  {
+   "url": "https://www.oaciq.com/en/broker/brokerage-forms-clauses/in-which-situations-the-declarations-by-the-seller-of-the-immovable-ds-or-dsd-form-must-be-used-and/",
+   "title": "In which situations the Declarations by the seller of the immovable (DS or DSD) form must be used",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Appuie le caractère obligatoire du formulaire Déclarations du vendeur pour un immeuble résidentiel de moins de cinq logements et le fait qu'il doit être rempli et signé au moment de la conclusion du contrat de courtage."
+  },
+  {
+   "url": "https://www.hydroquebec.com/safety/vegetation/hazards-nuisances-plant-to-close-medium-voltage-line.html",
+   "title": "Before planting a tree, check if there are power lines",
+   "publisher": "Hydro-Québec",
+   "consulted": "2026-09-23",
+   "supports": "Appuie l'existence d'une distance de plantation sécuritaire propre à chaque espèce près d'une ligne moyenne tension, et le fait qu'Hydro-Québec élague périodiquement les branches dangereuses, ce qui déforme l'arbre."
+  }
+ ],
+ "claims_needing_review": [
+  "Aucun pourcentage de valeur ajoutée ou retranchée par un arbre n'est avancé dans l'article : aucune source québécoise publique ne permet de le chiffrer, et le texte le dit explicitement.",
+  "L'arbre à cheval sur la ligne séparative est présenté comme détenu en indivision. Aucun article du Code civil ne traite expressément de ce cas : la conclusion est déduite des articles 900, 951 et 1026, qui sont cités tels quels. À faire valider par un notaire avant toute réutilisation dans un avis destiné à un client."
+ ],
+ "verifications_manuelles": [
+  {
+   "point": "Seuil de 30 mm (3 cm) de diametre a Laval pour un feuillu",
+   "signale_par": "agent de traduction, qui y voyait une incoherence d unites",
+   "verdict": "EXACT, aucune correction a faire",
+   "preuve": "La Ville de Laval ecrit elle-meme le seuil ainsi: un feuillu d au moins 30 mm (3 cm) de diametre, mesure a 1,30 m du sol, et un conifere d au moins 150 cm de haut. Frais d inspection de 84 $ par arbre.",
+   "source": "https://www.laval.ca/reglements-permis/trouver-mon-permis/abattage-arbre/",
+   "verifie_le": "2026-09-23"
+  }
+ ]
+}

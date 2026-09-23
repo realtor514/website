@@ -1,12 +1,12 @@
 ---
 title: "Comparables inmobiliarios: cómo auditar el precio del vecino"
 date: 2026-09-07
-lastmod: 2026-09-07
+lastmod: 2026-09-23
 translationKey: "article-comparables-voisin"
 category: "Guía del Vendedor"
 description: "Cuatro criterios, superficie medida, ajustes y condiciones de venta: cómo auditar los comparables inmobiliarios que le presentan."
 image: "images/articles/comparables-prix-maison-voisin-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 La casa de enfrente se anuncia en 749 000 $, así que usted concluye que la suya

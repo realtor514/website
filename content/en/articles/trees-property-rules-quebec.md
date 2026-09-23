@@ -1,12 +1,12 @@
 ---
 title: "Cutting Down a Tree in Quebec: The By-law and Who Owns the Tree"
 date: 2026-08-31
-lastmod: 2026-08-31
+lastmod: 2026-09-23
 translationKey: "article-arbres-propriete"
 category: "Practical Guide"
 description: "Who owns the tree, what the Code civil allows between neighbours, the felling permit in Montreal and Laval, and what has to be declared when you sell."
 image: "images/articles/arbres-propriete-reglements-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 A forty year old maple in the back yard sells a photograph. It does not push a

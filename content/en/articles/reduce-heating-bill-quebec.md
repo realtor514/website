@@ -1,12 +1,12 @@
 ---
 title: "How to Cut Your Heating Bill in Quebec: Where to Start"
 date: 2026-09-22
-lastmod: 2026-09-22
+lastmod: 2026-09-23
 translationKey: "article-facture-chauffage"
 category: "Practical Guide"
 description: "Rate D, the 40 kWh tier, insulation, heat pumps and 2026 grants: how to reduce your heating bill in Quebec, in the order that actually pays."
 image: "images/articles/reduire-facture-chauffage-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Two houses of the same age, on the same street in Laval, can show a gap of

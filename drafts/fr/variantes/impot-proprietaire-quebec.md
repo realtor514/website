@@ -88,10 +88,10 @@ revenus de location, les secondes s'ajoutent au coût en capital.
 | Dépense | Traitement | Pourquoi |
 |---|---|---|
 | Remplacer toutes les fenêtres | Courante | Rétablit l'état initial |
-| Refaire au complet le toit ou les balcons | Courante | Remise en état, pas amélioration |
+| Refaire au complet le toit ou les balcons | Courante | Remise en état |
 | Ajouter un foyer ou un garage | Capital | Accroît la valeur normale |
-| Réparer un vieil immeuble avant de le louer | Capital | Travaux liés à l'acquisition |
-| Droits de mutation et frais juridiques d'achat | Capital | S'ajoutent au coût du bien |
+| Réparer un vieil immeuble avant de le louer | Capital | Lié à l'acquisition |
+| Droits de mutation et frais juridiques d'achat | Capital | S'ajoutent au coût |
 | Électroménager neuf | Capital | Bien distinct, pas une pièce |
 
 Deux détails que les nouveaux propriétaires découvrent tard. Si vous faites les

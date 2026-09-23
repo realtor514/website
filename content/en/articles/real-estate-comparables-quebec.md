@@ -1,12 +1,12 @@
 ---
 title: "Real Estate Comparables: Auditing Your Neighbour's Price"
 date: 2026-09-07
-lastmod: 2026-09-07
+lastmod: 2026-09-23
 translationKey: "article-comparables-voisin"
 category: "Seller's Guide"
 description: "Four criteria, measured living area, adjustments, conditions of sale: how to audit the real estate comparables someone puts in front of you."
 image: "images/articles/comparables-prix-maison-voisin-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 The house across the street is listed at $749,000, so you conclude yours is

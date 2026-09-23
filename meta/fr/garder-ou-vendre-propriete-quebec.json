@@ -1,0 +1,86 @@
+{
+ "id": "t13",
+ "slug": "garder-ou-vendre-propriete-quebec",
+ "title": "Garder ou vendre une propriété au Québec: cinq cas",
+ "target_keyword": "garder ou vendre propriete quebec",
+ "word_count": 1797,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/articles/best-time-sell-home-montreal/",
+  "/articles/best-mortgage-rate-canada/",
+  "/articles/condo-fees-investment-killer/",
+  "/articles/inheritance-property-quebec/",
+  "/articles/cout-reel-vendre-maison-quebec/",
+  "/tools/mortgage/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.banqueducanada.ca/2025/07/note-analytique-personnel-2025-21/",
+   "title": "Impact des renouvellements hypothécaires sur les versements: une analyse actualisée",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Environ 60 % des emprunteurs renouvelant en 2025 ou 2026 voient leurs versements augmenter; hausse moyenne d'environ 20 % pour le taux fixe de cinq ans renouvelé en 2026; baisse de 5 % à 7 % pour le taux variable à versements variables; ratio médian du service de la dette passant de 15,3 % à 18,0 %, soit 2,7 points. Note signée Claudia Godbout, Adam Su et Yang Xu, juillet 2025."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/05/declaration-preliminaire-20260528/",
+   "title": "Publication du Rapport sur la stabilité financière, déclaration préliminaire du 28 mai 2026",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Citation « la dernière vague de ces renouvellements aura lieu au cours des 12 prochains mois » et contexte sur l'endettement des ménages."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/09/annonce-banque-canada-concernant-taux-directeur-2026-09-2/",
+   "title": "Annonce de la Banque du Canada concernant le taux directeur, 2 septembre 2026",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Taux directeur maintenu à 2,25 %, confirmé le 2 septembre 2026, niveau en place depuis octobre 2025."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/ccq-1991",
+   "title": "Code civil du Québec, RLRQ c CCQ-1991, articles 1726, 1739, 2411, 2466, 2467, 2468, 777, 1030, 1068.1, 1070.2, 1071, 1072.1",
+   "publisher": "Légis Québec",
+   "consulted": "2026-09-23",
+   "supports": "Texte exact de la garantie contre les vices cachés (1726), de la dénonciation par l'acheteur (1739), de l'obligation de déclarer l'aggravation du risque (2466), de la règle de l'inoccupation de 30 jours consécutifs (2468), des droits de l'assureur informé (2467), de la réduction proportionnelle de l'indemnité (2411), de la saisine et de la publication de la désignation du liquidateur (777), de l'indivision (1030), de l'attestation du syndicat dans les 15 jours (1068.1), du carnet d'entretien (1070.2), du fonds de prévoyance et de son étude (1071) et de la consultation de l'assemblée avant une contribution spéciale (1072.1)."
+  },
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "title": "Formulaire obligatoire Déclarations du vendeur sur l'immeuble (DV 00001, V24 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Caractère obligatoire du formulaire; questions D4.1 sur les infiltrations d'eau, D7.3 sur la moisissure, D13.1 sur les rapports d'inspection, D2.13 et D2.14 sur le refus d'assurer ou d'indemniser; engagement du vendeur à aviser son courtier de toute information additionnelle; mention du liquidateur qui remplit les déclarations au meilleur de sa connaissance."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/lassurance-de-biens-et-dhabitation/",
+   "title": "Assurer vos biens et votre habitation",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Obligation d'informer rapidement l'assureur d'une aggravation du risque, situations qui n'en constituent pas une (absence de 30 jours consécutifs ou moins), et conséquences d'un défaut d'information sur l'indemnisation."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/liquider-une-succession-questions-frequentes/",
+   "title": "Liquider une succession: questions fréquentes",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Pouvoir de vendre du liquidateur selon que le testament le prévoit ou non, autorisation des héritiers ou du tribunal à défaut, et attente des certificats de décharge fiscale pouvant prendre « plusieurs semaines, voire plusieurs mois »."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/les-principales-etapes-dune-liquidation-de-succession/",
+   "title": "Les principales étapes d'une liquidation de succession",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Inscription de l'avis de désignation du liquidateur au RDPRM et au Registre foncier lorsqu'il y a un immeuble; inventaire; certificats de décharge avant distribution."
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/achat-vente/condos-coproprietes/mesures-coproprietes",
+   "title": "Mesures applicables aux copropriétés divises pour les propriétaires et les constructeurs",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Entrée en vigueur du règlement le 14 août 2025, attestation du syndicat exigible lors d'une vente, échéance du 14 août 2028 pour le carnet d'entretien et l'étude du fonds de prévoyance, révision de l'étude tous les cinq ans par un professionnel habilité."
+  }
+ ],
+ "claims_needing_review": [
+  "Le tableau des versements hypothécaires est une illustration arithmétique calculée par le rédacteur (capitalisation semestrielle, amortissement résiduel indiqué, taux de 2,25 % et 4,25 % choisis comme points de comparaison). Ce ne sont pas des taux offerts ni une prévision; l'article le dit explicitement.",
+  "La durée exacte d'inoccupation tolérée et les exclusions applicables varient d'une police à l'autre. L'article ne donne aucun chiffre contractuel et renvoie le lecteur à sa propre police et à son assureur."
+ ]
+}

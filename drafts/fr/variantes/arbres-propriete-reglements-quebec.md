@@ -11,10 +11,9 @@ draft: true
 
 Un érable de quarante ans dans la cour arrière fait vendre une photo. Il ne fait
 pas monter un prix d'un pourcentage que je pourrais vous nommer : aucune source
-québécoise ne me permet de chiffrer ce que vaut un arbre sur une propriété, et
-je ne l'inventerai pas. Ce qui se vérifie, par contre, tient en trois choses :
-à qui appartient l'arbre, ce qu'il faut demander à la Ville avant d'y toucher,
-et qui paie quand il tombe.
+québécoise ne me permet de chiffrer ce que vaut un arbre sur une propriété. Ce
+qui se vérifie, par contre, tient en trois choses : à qui appartient l'arbre, ce
+qu'il faut demander à la Ville avant d'y toucher, et qui paie quand il tombe.
 
 ## L'arbre appartient à celui dont le tronc sort du sol
 
@@ -22,8 +21,8 @@ Le Code civil ne consacre aucun article à la question « à qui est cet arbre �
 Il y répond autrement. L'article 900 classe les végétaux parmi les immeubles
 « tant qu'ils ne sont pas séparés ou extraits du fonds », et l'article 951
 ajoute que « la propriété du sol emporte celle du dessus et du dessous ».
-L'arbre suit donc le terrain d'où son tronc émerge. Des branches qui débordent
-et des racines qui traversent la ligne n'y changent rien.
+L'arbre suit donc le terrain d'où son tronc émerge. Les branches qui débordent
+et les racines qui traversent la ligne n'y changent rien.
 
 **Le cas des fruits surprend tout le monde.** L'article 984 est court et net :
 « Les fruits qui tombent d'un arbre sur un fonds voisin appartiennent au
@@ -61,13 +60,12 @@ est catégorique : « Vous ne pouvez pas vous faire justice vous-même, et ce, m
 si les branches (ou racines) de l'arbre de votre voisin que vous voulez couper
 sont sur votre terrain. » Vous demandez, vous mettez en demeure, vous tentez la
 médiation, puis vous allez au tribunal. Si vous coupez quand même, la Cour
-pourrait vous condamner à indemniser le voisin pour avoir endommagé ou tué son
-arbre.
+pourrait vous condamner à indemniser le voisin.
 
 ## L'abattage d'un arbre exige un permis presque partout au Québec
 
 Le Code civil dit que l'arbre est à vous. Le règlement municipal dit ce que vous
-avez le droit de lui faire, et c'est l'étape que les propriétaires sautent.
+avez le droit de lui faire.
 
 À Montréal, le permis d'abattage, aussi appelé certificat d'autorisation, est
 nécessaire, et les seuils varient d'un arrondissement à l'autre. Dans
@@ -93,8 +91,8 @@ conifère, « quel que soit l'emplacement de l'arbre sur votre terrain ».
 refusées, et elles couvrent à peu près tout ce qu'on entend en visite : on ne
 peut pas faire abattre un arbre parce qu'il perd des feuilles, de la sève ou des
 brindilles, parce qu'il produit du pollen, abrite des animaux, fait de l'ombre,
-ou parce que ses racines sont visibles à la surface du sol. Les motifs acceptés, à Montréal comme à Laval, tiennent à l'arbre mort
-ou dépérissant, au danger, à la propagation d'une maladie et aux travaux
+ou parce que ses racines sont visibles à la surface du sol. Les motifs acceptés
+tiennent à l'arbre mort ou dépérissant, au danger, à la maladie et aux travaux
 autorisés par un permis. Dans les deux villes, l'arbre abattu doit être
 remplacé, et la demande visant un frêne est gratuite en raison de l'agrile.
 
@@ -111,13 +109,13 @@ l'enlèvement de l'arbre et les réparations de la maison ». Et voici la phrase
 que personne n'a lue avant d'appeler son assureur : « Si l'arbre n'a endommagé
 aucun bien assuré, le propriétaire sera responsable des frais de nettoyage. » Un
 arbre mature couché en travers de la cour, sans rien avoir abîmé, est donc une
-facture à vous. Votre contrat peut prévoir mieux ; c'est votre assureur qui vous
-le confirmera.
+facture à vous. Votre contrat peut prévoir mieux ; votre assureur vous le
+confirmera.
 
 ## Un arbre près de la fondation, du drain ou d'une ligne
 
 Pour un acheteur, un gros arbre à trois mètres du mur n'est pas un défaut, mais
-un poste à documenter, parce qu'il touche des travaux encadrés.
+un poste à documenter.
 
 Les racines d'abord. Si votre projet suppose d'excaver pour refaire le drain
 français, de couler une dalle ou d'agrandir l'entrée, vous êtes déjà dans le
@@ -133,8 +131,7 @@ périodiquement les branches dangereuses, ce qui déforme l'arbre.
 Enfin, l'inspection. Un inspecteur en bâtiment n'est pas un arboriculteur : il
 constate une fissure, un drain qui refoule, un sol qui bouge, sans se prononcer
 sur la santé d'un arbre. Si l'arbre vous inquiète, il faut le rapport d'expert
-distinct que la Ville exige de toute façon pour délivrer le permis. Le reste se
-vérifie à l'[inspection
+distinct que la Ville exige de toute façon. Le reste se vérifie à l'[inspection
 préachat](/articles/home-inspection-checklist-montreal/).
 
 ## Vendre ou acheter une propriété avec un gros arbre : ce qui se déclare
@@ -142,12 +139,11 @@ préachat](/articles/home-inspection-checklist-montreal/).
 Le formulaire Déclarations du vendeur sur l'immeuble est obligatoire pour un
 immeuble résidentiel de moins de cinq logements, et il se signe en même temps
 que le contrat de courtage. Or il ne contient aucune question sur les arbres. Un
-dossier d'arbre se déclare donc ailleurs, et c'est là que les oublis se
-produisent : à D2.8 pour les servitudes et les empiétements, à D3.5 pour les
-travaux de terrassement, à D9.4 pour le drain français, à D14.1 pour les
-dommages subis à la suite du verglas ou du vent, à D14.5 pour tout autre élément
-pouvant avoir un impact sur la valeur ou l'usage de l'immeuble, et à D15 pour
-les précisions.
+dossier d'arbre se déclare donc ailleurs : à D2.8 pour les servitudes et les
+empiétements, à D3.5 pour les travaux de terrassement, à D9.4 pour le drain
+français, à D14.1 pour les dommages subis à la suite du verglas ou du vent, à
+D14.5 pour tout autre élément pouvant avoir un impact sur la valeur ou l'usage
+de l'immeuble, et à D15 pour les précisions.
 
 Derrière le formulaire, il y a l'article 1726, qui oblige le vendeur à garantir
 l'immeuble contre les vices cachés, et l'article 1733, qui l'empêche d'exclure
@@ -156,13 +152,12 @@ litige de voisinage en cours, une mise en demeure reçue, un abattage fait sans
 permis : ça se dit, et par écrit.
 
 **Sur la valeur, je m'arrête ici.** Je peux vous dire ce qu'un arbre impose
-comme permis et ce qu'il change au contrat. Je ne peux pas vous dire ce qu'il
-ajoute au prix : aucune donnée québécoise publique ne le mesure, et mon
-règlement professionnel m'oblige à pouvoir démontrer ce que j'avance. Partez
-plutôt de l'[estimation de valeur de votre
-propriété](/tools/home-estimate/), ancrée sur des ventes comparables, puis
-faites-la valider. C'est le même raisonnement que pour [ce que les rénovations
-ajoutent vraiment](/articles/renovations-dont-add-value/).
+comme permis et ce qu'il change au contrat. Pas ce qu'il ajoute au prix : aucune
+donnée québécoise publique ne le mesure, et mon règlement professionnel m'oblige
+à pouvoir démontrer ce que j'avance. Partez plutôt de l'[estimation de valeur de
+votre propriété](/tools/home-estimate/), ancrée sur des ventes comparables.
+Même raisonnement que pour [ce que les rénovations ajoutent
+vraiment](/articles/renovations-dont-add-value/).
 
 ## Questions fréquentes
 

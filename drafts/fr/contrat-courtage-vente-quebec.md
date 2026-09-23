@@ -20,16 +20,14 @@ les questions à poser avant de signer.
 
 Votre courtier ne rédige pas ce contrat. L'article 24 de la Loi sur le courtage
 immobilier est net: « Le contrat doit être constaté par écrit sur le formulaire
-obligatoire élaboré par l'Organisme. Il n'est formé que lorsque les parties ont
-signé le formulaire. » Pour une maison unifamiliale ou un plex de moins de cinq
-logements appartenant à un particulier, c'est le formulaire *Contrat de courtage
-exclusif, Vente*, identifié CCVE.
+obligatoire élaboré par l'Organisme. » Pour une maison ou un plex de moins de
+cinq logements appartenant à un particulier, c'est le formulaire *Contrat de
+courtage exclusif, Vente*, identifié CCVE.
 
 Trois conséquences pratiques. Un contrat de courtage verbal est nul, selon
-l'article 26 de la même loi. Vous n'êtes tenu d'exécuter vos obligations qu'à
-partir du moment où vous détenez un double du contrat, selon l'article 25. Et
-l'article 30 interdit de renoncer par entente particulière aux droits que ce
-chapitre vous donne.
+l'article 26. Vous n'êtes tenu d'exécuter vos obligations qu'à partir du moment
+où vous détenez un double du contrat, selon l'article 25. Et l'article 30
+interdit de renoncer par entente particulière aux droits de ce chapitre.
 
 Le règlement encadre aussi la façon de le remplir: le courtier doit vous laisser
 prendre connaissance des termes et fournir toutes les explications avant la
@@ -65,7 +63,7 @@ contretemps.
 La clause 4.1 contient le prix de vente demandé. Ce n'est pas une évaluation,
 c'est votre décision. Baisser ce prix plus tard n'annule rien: cela se fait par
 le formulaire *Modifications*, signé par les deux parties, et le reste du
-contrat continue de s'appliquer.
+contrat continue de courir.
 
 Lisez attentivement la suite de la clause 4. Le point 4.3 met à votre charge les
 frais de remboursement et de radiation de toute hypothèque, y compris toute
@@ -95,20 +93,19 @@ exigible.
 
 | Cas prévu à la clause 7.1 | Ce qui déclenche la rétribution |
 |---|---|
-| 1 | Une entente visant à vendre est conclue pendant la durée du contrat, avec ou sans le courtier, et toutes ses conditions sont remplies |
+| 1 | Une entente visant à vendre est conclue pendant le contrat, avec ou sans le courtier, et toutes ses conditions sont remplies |
 | 2 | Une promesse d'achat conforme aux conditions du contrat vous est présentée et vous la refusez |
-| 3 | Une vente survient dans les 180 jours suivant la fin ou la résiliation, avec une personne intéressée pendant la durée du contrat |
+| 3 | Une vente survient dans les 180 jours suivant la fin du contrat, avec une personne intéressée pendant sa durée |
 | 4 | Un acte volontaire de votre part empêche l'exécution du contrat |
 
-La clause 7.2 confirme le droit du courtier de partager sa rétribution avec un
-courtier collaborateur, et la clause 7.3 fixe la part offerte à ce dernier. Le
-formulaire vous avertit qu'un partage déraisonnable envers les autres courtiers
-peut diminuer leur intérêt à proposer votre immeuble à leurs clients. C'est un
-chiffre à discuter, pas une case à remplir vite.
+La clause 7.3 fixe la part offerte au courtier collaborateur. Le formulaire vous
+avertit qu'un partage déraisonnable envers les autres courtiers peut diminuer
+leur intérêt à proposer votre immeuble à leurs clients. C'est un chiffre à
+discuter, pas une case à remplir vite.
 
 La clause 7.4 prévoit l'inverse: aucune rétribution n'est due si le courtier ou
 son conjoint acquiert un intérêt dans l'immeuble, ni si, par la faute de
-l'acheteur, l'acte de vente ne se signe pas ou le prix n'est pas payé.
+l'acheteur, l'acte ne se signe pas ou le prix n'est pas payé.
 
 ## Les 180 jours après la fin du contrat de courtage vente
 
@@ -127,9 +124,8 @@ le nouveau contrat exclusif doit avoir été conclu « de bonne foi ».
 Autrement dit: si vous changez de courtier et signez un nouveau contrat
 exclusif, l'ancienne réclamation tombe. Si vous laissez le contrat expirer et
 vendez vous-même, quatre mois plus tard, à quelqu'un qui avait visité pendant
-l'inscription, elle ne tombe pas. La question à poser avant de signer est
-simple: à la fin du contrat, me remettrez-vous la liste des personnes qui se
-sont montrées intéressées?
+l'inscription, elle ne tombe pas. La question à poser avant de signer: à la fin
+du contrat, me remettrez-vous la liste des personnes intéressées?
 
 ## Clause 8: vos déclarations sur l'immeuble, et leur poids juridique
 
@@ -145,15 +141,14 @@ S'y ajoute l'annexe visée à la clause 12.1: le formulaire obligatoire
 votre connaissance et en toute bonne foi sur le sol, la toiture, l'eau, les
 infiltrations, les limitations de droit public, un décès violent survenu sur
 l'immeuble. Le courtier doit le remplir avec vous et vous le faire signer; si
-vous refusez de le remplir, il ne peut tout simplement pas conclure le contrat
-de courtage.
+vous refusez, il ne peut pas conclure le contrat de courtage.
 
 Pourquoi cette rigueur. L'article 1726 du Code civil oblige le vendeur à
 garantir l'acheteur contre les vices cachés, et l'article 1728 ajoute que si le
 vendeur connaissait le vice ou ne pouvait l'ignorer, il devra en plus réparer le
 préjudice subi. Une déclaration complète est votre meilleure protection. Pour
 une question qui vous laisse hésitant, faites valider la formulation par un
-notaire ou un avocat avant de signer.
+notaire avant de signer.
 
 ## Double représentation et clause 9: ce que le courtier vous doit en retour
 
@@ -165,8 +160,8 @@ réclamer aucune rétribution de cet acheteur.
 
 Si l'acheteur n'a aucun contrat, ce n'est pas de la double représentation, mais
 le courtier doit l'informer qu'il représente uniquement vos intérêts et lui
-accorder un traitement équitable: de l'information objective et exacte, sans
-divulguer votre information confidentielle ou stratégique.
+accorder un traitement équitable: de l'information objective, sans divulguer
+votre information confidentielle ou stratégique.
 
 En retour, la clause 9.1 énumère quatorze engagements du courtier. Les plus
 utiles à retenir: agir avec loyauté, diligence et compétence; vous présenter
@@ -188,8 +183,7 @@ de cette date de fin, peu importe la durée choisie.
 **Si je résilie, est-ce que je paie quelque chose?**
 Hors du délai de trois jours de l'article 28, la clause 2.1 prévoit que vous
 pouvez devoir rembourser les frais et dépenses déjà engagés, ou dédommager le
-courtier du préjudice subi. Demandez d'avance quelles dépenses sont prévues:
-photos, plan, publicité payée.
+courtier du préjudice subi. Demandez d'avance quelles dépenses sont prévues.
 
 **Mon voisin a visité pendant l'inscription et achète six mois plus tard. Est-ce
 que je dois la rétribution?**

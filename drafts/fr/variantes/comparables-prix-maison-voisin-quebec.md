@@ -173,8 +173,8 @@ paie pas comme une propriété vendue avec.
 
 **Le délai imposé.** L'OACIQ demande au courtier de tenir compte de la
 situation du vendeur pour établir un juste prix, en citant la succession et la
-séparation. Une vente bouclée en dix jours parce qu'un jugement l'exigeait ne
-décrit pas le marché. Le calendrier fait partie du prix, comme l'explique
+séparation. Une vente bouclée en dix jours parce qu'un jugement l'exigeait
+ne décrit pas le marché. Le calendrier fait partie du prix, comme l'explique
 l'article sur [le temps réel d'une
 vente](/articles/combien-de-temps-vendre-maison-montreal/).
 

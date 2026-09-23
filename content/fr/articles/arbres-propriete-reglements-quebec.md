@@ -1,12 +1,12 @@
 ---
 title: "Abattage d'arbre au Québec : le règlement et la propriété"
 date: 2026-08-31
-lastmod: 2026-08-31
+lastmod: 2026-09-23
 translationKey: "article-arbres-propriete"
 category: "Guide pratique"
 description: "À qui appartient l'arbre, ce que le Code civil permet entre voisins, le permis d'abattage à Montréal et à Laval, et ce qui se déclare à la vente."
 image: "images/articles/arbres-propriete-reglements-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Un érable de quarante ans dans la cour arrière fait vendre une photo. Il ne fait

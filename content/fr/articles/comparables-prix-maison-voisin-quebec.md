@@ -1,12 +1,12 @@
 ---
 title: "Comparables immobiliers: auditer le prix du voisin"
 date: 2026-09-07
-lastmod: 2026-09-07
+lastmod: 2026-09-23
 translationKey: "article-comparables-voisin"
 category: "Guide du vendeur"
 description: "Quatre critères, superficie mesurée, ajustements, conditions de vente: comment auditer les comparables immobiliers qu'on vous présente."
 image: "images/articles/comparables-prix-maison-voisin-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 La maison d'en face s'affiche à 749 000 $, alors vous concluez que la vôtre
