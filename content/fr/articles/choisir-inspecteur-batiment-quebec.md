@@ -1,13 +1,13 @@
 ---
 title: "Choisir un inspecteur en bâtiment au Québec"
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: 2026-09-23
 translationKey: "article-choisir-inspecteur"
 category: "Guide de l'acheteur"
 description: "Aucun permis n'est encore obligatoire au Québec. Comment choisir un inspecteur en bâtiment: certificat RBQ, assurance, contrat, questions à poser."
 image: "images/articles/choisir-inspecteur-batiment-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Rien n'empêche quelqu'un de s'annoncer inspecteur en bâtiment demain matin au Québec. Le métier a commencé à être encadré, mais le certificat de la Régie du bâtiment ne devient obligatoire que le 1er octobre 2027. D'ici là, la vérification qu'aucun ordre professionnel ne fait à votre place, c'est vous qui la faites. Voici quoi demander, et quelle réponse accepter.

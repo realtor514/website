@@ -1,13 +1,13 @@
 ---
 title: "Location court terme au Québec: les règles avant d'acheter"
 date: 2026-09-16
-lastmod: 2026-09-16
+lastmod: 2026-09-23
 translationKey: "article-short-term-rental-rules"
 category: "Investissement"
 description: "Numéro d'enregistrement, zonage de Montréal et de Laval, déclaration de copropriété: les règles de la location court terme au Québec avant d'acheter."
 image: "images/articles/location-court-terme-quebec-regles/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Acheter une propriété pour la louer à la nuitée, le calcul de rentabilité vient

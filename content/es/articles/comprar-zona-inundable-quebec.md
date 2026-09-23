@@ -1,13 +1,13 @@
 ---
 title: "Comprar en zona inundable en Quebec: las verificaciones"
 date: 2026-08-25
-lastmod: 2026-08-25
+lastmod: 2026-09-23
 translationKey: "article-zone-inondable"
 category: "Guía del Comprador"
 description: "Comprar en zona inundable en Quebec: el nuevo marco, lo que decide el mapa, el seguro, el prestamista y las verificaciones antes de la oferta."
 image: "images/articles/acheter-zone-inondable-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Quebec reemplazó la división en zonas de 0 a 20 años y de 20 a 100 años por un

@@ -1,13 +1,13 @@
 ---
 title: "Impuestos y propiedad en Quebec: qué se deduce de verdad"
 date: 2026-09-14
-lastmod: 2026-09-14
+lastmod: 2026-09-23
 translationKey: "article-impot-proprietaire"
 category: "Financiamiento"
 description: "Impuestos del propietario en Quebec: deducciones, exención de residencia principal, oficina en casa, plex y cambio de uso, en el federal y en Quebec."
 image: "images/articles/impot-proprietaire-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Vender su casa sin impuestos, deducir los intereses hipotecarios, pasar una

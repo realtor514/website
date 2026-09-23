@@ -1,13 +1,13 @@
 ---
 title: "الشراء في منطقة معرّضة للفيضان في كيبيك: ما يجب التحقق منه"
 date: 2026-08-25
-lastmod: 2026-08-25
+lastmod: 2026-09-23
 translationKey: "article-zone-inondable"
 category: "دليل المشتري"
 description: "الشراء في منطقة معرّضة للفيضان في كيبيك: الإطار الجديد، وما تقرره الخريطة، والتأمين، والمقرض، وما يجب التحقق منه قبل تقديم العرض."
 image: "images/articles/acheter-zone-inondable-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 استبدلت كيبيك التقسيم إلى مناطق من 0 إلى 20 سنة ومن 20 إلى 100 سنة بإطار مبني

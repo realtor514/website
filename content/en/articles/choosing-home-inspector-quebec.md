@@ -1,13 +1,13 @@
 ---
 title: "Choosing a Home Inspector in Quebec: What to Verify Before You Hire"
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: 2026-09-23
 translationKey: "article-choisir-inspecteur"
 category: "Buyer's Guide"
 description: "No licence is required yet in Quebec. How to choose a home inspector: RBQ certificate, insurance, service contract, and the questions to ask."
 image: "images/articles/choisir-inspecteur-batiment-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Nothing stops someone from calling themselves a home inspector tomorrow morning in Quebec. The trade has started to be regulated, but the certificate issued by the Regie du batiment du Quebec (Quebec's building authority, the RBQ) does not become mandatory until October 1, 2027. Until then, the vetting that no professional order does on your behalf is vetting you do yourself. Here is what to ask, and which answer to accept.

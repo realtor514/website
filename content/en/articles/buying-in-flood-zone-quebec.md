@@ -1,13 +1,13 @@
 ---
 title: "Buying in a Flood Zone in Quebec: The Checks to Make First"
 date: 2026-08-25
-lastmod: 2026-08-25
+lastmod: 2026-09-23
 translationKey: "article-zone-inondable"
 category: "Buyer's Guide"
 description: "Buying in a flood zone in Quebec: the new framework, what the map decides, insurance, the lender, and the checks to make before you write an offer."
 image: "images/articles/acheter-zone-inondable-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Quebec has replaced the old split between 0 to 20 year and 20 to 100 year zones

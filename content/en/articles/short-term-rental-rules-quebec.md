@@ -1,13 +1,13 @@
 ---
 title: "Short Term Rentals in Quebec: The Rules to Check Before You Buy"
 date: 2026-09-16
-lastmod: 2026-09-16
+lastmod: 2026-09-23
 translationKey: "article-short-term-rental-rules"
 category: "Investment"
 description: "Registration number, Montreal and Laval zoning, declaration of co-ownership: the short term rental rules in Quebec you need to verify before you buy."
 image: "images/articles/location-court-terme-quebec-regles/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 When you buy a property to rent out by the night, the profitability math comes

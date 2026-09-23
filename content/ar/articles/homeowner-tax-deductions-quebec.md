@@ -1,13 +1,13 @@
 ---
 title: "الضريبة ومالك العقار في كيبيك: ما الذي يُخصم فعلاً"
 date: 2026-09-14
-lastmod: 2026-09-14
+lastmod: 2026-09-23
 translationKey: "article-impot-proprietaire"
 category: "تمويل"
 description: "ضريبة مالك العقار في كيبيك: الخصومات، وإعفاء المسكن الرئيسي، والمكتب المنزلي، والمباني المدرّة للدخل، وتغيير الاستعمال، فيدرالياً وفي كيبيك."
 image: "images/articles/impot-proprietaire-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 بيع منزلك من دون دفع أي ضريبة، وخصم فوائد الرهن العقاري من دخلك، وتمرير تجديد

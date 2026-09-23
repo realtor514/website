@@ -1,13 +1,13 @@
 ---
 title: "Elegir un inspector de edificios en Quebec: qué verificar antes de contratar"
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: 2026-09-23
 translationKey: "article-choisir-inspecteur"
 category: "Guía del Comprador"
 description: "Todavía no hace falta ninguna licencia en Quebec. Cómo elegir a un inspector de edificios: certificado de la RBQ, seguro, contrato y preguntas que hacer."
 image: "images/articles/choisir-inspecteur-batiment-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Nada impide que alguien se anuncie mañana mismo como inspector de edificios en Quebec. La profesión empezó a regularse, pero el certificado de la Régie du bâtiment du Québec (la autoridad quebequense de la construcción, la RBQ) no será obligatorio hasta el 1 de octubre de 2027. Hasta entonces, la verificación que ningún colegio profesional hace en su lugar la hace usted. Esto es lo que debe preguntar, y qué respuesta aceptar.

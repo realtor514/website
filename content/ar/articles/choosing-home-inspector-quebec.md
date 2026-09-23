@@ -1,13 +1,13 @@
 ---
 title: "كيف تختار مفتش مبانٍ في كيبيك: ما تتحقق منه قبل التوكيل"
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: 2026-09-23
 translationKey: "article-choisir-inspecteur"
 category: "دليل المشتري"
 description: "لا رخصة إلزامية بعد في كيبيك. كيف تختار مفتش مبانٍ: شهادة RBQ، والتأمين، وعقد الخدمة، والأسئلة التي تطرحها قبل أن توكّل أحداً."
 image: "images/articles/choisir-inspecteur-batiment-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 لا شيء يمنع أحداً من أن يعلن عن نفسه مفتش مبانٍ غداً صباحاً في كيبيك. بدأ

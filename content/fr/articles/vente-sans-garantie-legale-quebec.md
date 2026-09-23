@@ -1,13 +1,13 @@
 ---
 title: "Vente sans garantie légale au Québec : ce que ça change"
 date: 2026-09-21
-lastmod: 2026-09-21
+lastmod: 2026-09-23
 translationKey: "article-as-is-sale-quebec"
 category: "Guide de l'acheteur"
 description: "Vente sans garantie légale au Québec : ce que la clause enlève, ce qu'elle ne peut pas effacer, et ce qu'un acheteur doit exiger en échange."
 image: "images/articles/vente-sans-garantie-legale-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Sur une fiche Centris, la mention tient en une ligne : vendu sans garantie

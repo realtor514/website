@@ -1,13 +1,13 @@
 ---
 title: "Venta sin garantía legal en Quebec: qué cambia realmente"
 date: 2026-09-21
-lastmod: 2026-09-21
+lastmod: 2026-09-23
 translationKey: "article-as-is-sale-quebec"
 category: "Guía del Comprador"
 description: "Venta sin garantía legal en Quebec: qué le quita la cláusula, qué no puede borrar y qué debe exigir un comprador a cambio."
 image: "images/articles/vente-sans-garantie-legale-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 En una ficha de Centris la mención cabe en una línea: vendido sin garantía legal

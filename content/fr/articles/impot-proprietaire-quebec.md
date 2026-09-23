@@ -1,13 +1,13 @@
 ---
 title: "Impôt et propriétaire au Québec : ce qui se déduit"
 date: 2026-09-14
-lastmod: 2026-09-14
+lastmod: 2026-09-23
 translationKey: "article-impot-proprietaire"
 category: "Financement"
 description: "Impôt du propriétaire au Québec : déduction, exemption de résidence principale, bureau à domicile, plex et changement d'usage, au fédéral et au Québec."
 image: "images/articles/impot-proprietaire-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Vendre sa maison sans impôt, déduire ses intérêts hypothécaires, passer une

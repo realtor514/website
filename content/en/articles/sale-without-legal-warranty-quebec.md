@@ -1,13 +1,13 @@
 ---
 title: "Sale Without Legal Warranty in Quebec: What It Actually Changes"
 date: 2026-09-21
-lastmod: 2026-09-21
+lastmod: 2026-09-23
 translationKey: "article-as-is-sale-quebec"
 category: "Buyer's Guide"
 description: "Sale without legal warranty in Quebec: what the clause takes away, what it cannot erase, and what a buyer should demand in exchange."
 image: "images/articles/vente-sans-garantie-legale-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 On a Centris listing, the mention fits on one line: sold without legal warranty

@@ -1,13 +1,13 @@
 ---
 title: "Alquiler de corto plazo en Quebec: las reglas antes de comprar"
 date: 2026-09-16
-lastmod: 2026-09-16
+lastmod: 2026-09-23
 translationKey: "article-short-term-rental-rules"
 category: "Inversión"
 description: "Número de registro, zonificación de Montreal y Laval, declaración de copropiedad: las reglas del alquiler de corto plazo en Quebec antes de comprar."
 image: "images/articles/location-court-terme-quebec-regles/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Cuando se compra una propiedad para alquilarla por noche, el cálculo de

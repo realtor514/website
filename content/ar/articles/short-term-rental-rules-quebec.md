@@ -1,13 +1,13 @@
 ---
 title: "التأجير قصير الأمد في كيبيك: القواعد التي تتحقق منها قبل الشراء"
 date: 2026-09-16
-lastmod: 2026-09-16
+lastmod: 2026-09-23
 translationKey: "article-short-term-rental-rules"
 category: "استثمار"
 description: "رقم التسجيل، وتقسيم المناطق في مونتريال ولافال، وإعلان الملكية المشتركة: قواعد التأجير قصير الأمد في كيبيك قبل أن تشتري."
 image: "images/articles/location-court-terme-quebec-regles/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 حين تشتري عقاراً لتؤجّره بالليلة، يأتي حساب الربحية في المرتبة الأخيرة. الذي

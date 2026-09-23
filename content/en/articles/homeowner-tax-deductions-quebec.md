@@ -1,13 +1,13 @@
 ---
 title: "Homeowner Tax in Quebec: What Actually Gets Deducted"
 date: 2026-09-14
-lastmod: 2026-09-14
+lastmod: 2026-09-23
 translationKey: "article-impot-proprietaire"
 category: "Finance"
 description: "Homeowner tax in Quebec: deductions, the principal residence exemption, the home office, plexes and change of use, federally and in Quebec."
 image: "images/articles/impot-proprietaire-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Selling your house tax free, deducting your mortgage interest, running a

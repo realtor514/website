@@ -1,13 +1,13 @@
 ---
 title: "Acheter en zone inondable au Québec : les vérifications"
 date: 2026-08-25
-lastmod: 2026-08-25
+lastmod: 2026-09-23
 translationKey: "article-zone-inondable"
 category: "Guide de l'acheteur"
 description: "Acheter en zone inondable au Québec : le nouveau cadre, ce que la carte décide, l'assurance, le prêteur et les vérifications avant l'offre."
 image: "images/articles/acheter-zone-inondable-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Le Québec a remplacé le découpage en zones 0 à 20 ans et 20 à 100 ans par un
