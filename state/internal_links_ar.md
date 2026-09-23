@@ -1,0 +1,83 @@
+# Arabic articles: allowed internal link targets
+
+Copy these paths exactly. A link to a file that does not exist fails the build check.
+
+- [أفضل سعر رهن عقاري في كندا: ما الذي يُحسم قبل السعر](/ar/articles/best-mortgage-rate-canada/)
+- [كيف تقارن بين حيّين في مونتريال: منهج لا ترتيب](/ar/articles/best-neighborhoods-montreal/)
+- [متى تعرض عقارك للبيع في مونتريال: ما تقوله الأرقام الشهرية](/ar/articles/best-time-sell-home-montreal/)
+- [حرب العروض في مونتريال: كيف تعمل المزايدة فعلياً في كيبيك](/ar/articles/bidding-wars-truth-montreal/)
+- [وسيط، وكيل، REALTOR: ما الفرق الحقيقي في كيبيك؟](/ar/articles/broker-agent-difference-quebec/)
+- [كيف تبني محفظة عقارية في المنطقة الكبرى لمونتريال بدءاً من الصفر](/ar/articles/build-real-estate-portfolio/)
+- [الشراء في لافال: القطاعات الستة، والنقل، والضرائب، وما يجب التحقق منه](/ar/articles/buying-in-laval-2025/)
+- [الشراء بين عدة أشخاص في كيبيك: الملكية على الشيوع، الاتفاقية، وما يقرّره القانون نيابةً عنك](/ar/articles/buying-property-with-family/)
+- [الشراء نقداً في كيبيك: الميزة الحقيقية، والمخاطرة الحقيقية، وما يفرضه القانون](/ar/articles/cash-buyers-advantage/)
+- [عمولة الوسيط العقاري في كيبيك: ما الذي تدفعه فعلاً؟](/ar/articles/commission-explained-quebec/)
+- [رسوم الكوندو والصندوق الاحتياطي: ما يجب التحقق منه قبل الشراء](/ar/articles/condo-fees-investment-killer/)
+- [كوندو أم منزل في مونتريال: ما الذي تشتريه فعلاً](/ar/articles/condo-vs-house-montreal/)
+- [تقييمك الائتماني يعرقل منزل أحلامك بصمت (وكيف تعالج ذلك)](/ar/articles/credit-score-home-buying-quebec/)
+- [الانفصال والطلاق والمنزل في كيبيك: ما تحتاج معرفته](/ar/articles/divorce-real-estate-guide/)
+- [خرافة الدفعة الأولى بنسبة 20%: ما الذي يعطّل المشترين](/ar/articles/down-payment-myth-debunked/)
+- [الوصول إلى التملّك في كيبيك في 2026: ما الموجود فعلاً للمشتري لأول مرة](/ar/articles/everyone-deserves-homeownership/)
+- [المزايا الضريبية للمشترين لأول مرة في كيبيك في 2026: ما الذي يحق لك](/ar/articles/first-time-buyer-tax-credits/)
+- [زيارتك الأولى لعقار: ما تتحقق منه قبل أن تقع في حبه](/ar/articles/first-visit-property-checklist/)
+- [دليل شامل للمقيمين الجدد لشراء العقارات في كيبيك](/ar/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/)
+- [كل ما يحتاج المشتري الأول معرفته عن الرهن العقاري في كيبيك](/ar/articles/guide-hypotheque-premier-acheteur-quebec/)
+- [شراء عقار قديم أو تراثي في مونتريال: ما الذي يتغير فعلاً](/ar/articles/heritage-property-montreal/)
+- [التكاليف الخفية لامتلاك المنزل التي لا يضعها أحد في الكتيّب](/ar/articles/hidden-homeownership-costs/)
+- [فحص ما قبل الشراء: قائمة ما يُفحص، بنداً بنداً](/ar/articles/home-inspection-checklist-montreal/)
+- [فحص ما قبل الشراء في كيبيك: كم يكلف ومتى تجريه](/ar/articles/home-inspection-cost-timing-quebec/)
+- [تحضير العقار قبل البيع: المنهجية، والحدّ الأخلاقي](/ar/articles/home-staging-client-story/)
+- [تقليب المنازل في مونتريال: الحسابات الحقيقية التي لا يريك إياها أحد](/ar/articles/house-flipping-montreal/)
+- [كم يستغرق بيع منزل في مونتريال فعلياً؟](/ar/articles/how-long-to-sell-house-montreal/)
+- [المباني المدرّة للدخل في مونتريال ولافال: دليل صادق للمبتدئين](/ar/articles/income-property-beginners/)
+- [وراثة عقار في كيبيك: ما يحتاج الورثة معرفته قبل البيع أو الاحتفاظ به](/ar/articles/inheritance-property-quebec/)
+- [أسعار الفائدة وسوق مونتريال العقاري: كيف تنتقل فعلياً إلى دفعتك الشهرية](/ar/articles/interest-rates-montreal-market/)
+- [شراء مبنى ثلاثي في لافال: ما يجب التحقق منه قبل تقديم العرض](/ar/articles/investir-triplex-laval-strategie/)
+- [الاستثمار في لافال: ما يجب التحقق منه قبل الالتزام](/ar/articles/laval-investment-city/)
+- [رُفض وعد الشراء الخاص بك: الطريقة الصحيحة كي لا تدفع أكثر من اللازم في المرة المقبلة](/ar/articles/losing-bidding-war-lessons/)
+- [سوق العقارات في مونتريال ولافال: قراءة البيانات لا التوقعات](/ar/articles/marche-immobilier-montreal-analyse-donnees/)
+- [الحديث عن انهيار عقاري في مونتريال: ما الذي تسمح البيانات بقوله](/ar/articles/montreal-market-crash-analysis/)
+- [الموافقة المسبقة على الرهن العقاري: ما تضمنه وما لا تضمنه](/ar/articles/mortgage-preapproval-mistakes/)
+- [الانتقال في مونتريال أو لافال: القائمة الكاملة، مهلة بمهلة](/ar/articles/moving-checklist-montreal/)
+- [اللغة والمعاملة العقارية في كيبيك: ما الذي يفرضه القانون](/ar/articles/multilingual-broker-advantage/)
+- [شراء عقار جديد البناء في كيبيك: ما لا تخبرك به الكتيّبات](/ar/articles/new-construction-guide-quebec/)
+- [العقارات خارج السوق في كيبيك: ما هي، وما تكلّفك، وما يجب على الوسيط أن يفصح عنه](/ar/articles/off-market-properties/)
+- [في الزيارة الحرة، الوسيط الواقف عند الباب يعمل لحساب البائع](/ar/articles/open-house-secrets/)
+- [كيف تحضّر منزلك للبيع في مونتريال ولافال](/ar/articles/preparer-maison-vente-montreal-laval/)
+- [الضرائب العقارية في مونتريال ولافال: شرح كامل](/ar/articles/property-tax-explained/)
+- [كاتب العدل في كيبيك: ما يحتاج كل مشترٍ معرفته، خطوة بخطوة](/ar/articles/quebec-notary-process/)
+- [خمسة أسئلة اطرحها قبل توكيل وسيط عقاري](/ar/articles/questions-hire-broker/)
+- [التكلفة الحقيقية لبيع منزل في كيبيك](/ar/articles/real-cost-selling-home-quebec/)
+- [ثماني أساطير عقارية، والقاعدة التي تدحض كل واحدة منها](/ar/articles/real-estate-myths-debunked/)
+- [الانسحاب من عقار: سبع إشارات تُتحقَّق على الورق](/ar/articles/red-flags-walk-away-property/)
+- [تجديداتك لن تضيف ما تظنه لقيمة منزلك](/ar/articles/renovations-dont-add-value/)
+- [إدارة العقارات الإيجارية في مونتريال ولافال: ما يحتاج أصحاب العقارات الجدد معرفته](/ar/articles/rental-property-management/)
+- [الإيجار أم الشراء في منطقة مونتريال الكبرى: الحساب الذي يخطئ فيه الجميع تقريباً](/ar/articles/renting-vs-buying-calculation/)
+- [كيف تقارن بين قطاعات الضفة الشمالية: المنهج والمصادر الرسمية](/ar/articles/rive-nord-guide-laval/)
+- [مدرسة الحي ونطاق التسجيل والضريبة المدرسية: ما يحدده العنوان فعلاً](/ar/articles/school-districts-property-values/)
+- [البيع مع وسيط أو بدونه في كيبيك: مقارنة صادقة](/ar/articles/selling-without-realtor-quebec/)
+- [بيع منزل العائلة والانتقال إلى مسكن أصغر: دليل لكبار السن في منطقة مونتريال الكبرى](/ar/articles/senior-downsizing-guide/)
+- [التفاوض على عقار في مونتريال: الروافع الحقيقية، تلك التي يسمح بها النموذج](/ar/articles/strategies-negociation-immobilier-montreal/)
+- [مبنى متعدد الشقق أم شقة مشتركة في مونتريال: التزامان لا ترتيب](/ar/articles/triplex-vs-condo-montreal/)
+- [التكلفة الحقيقية لشراء أول منزل في كيبيك](/ar/articles/vrai-cout-achat-premiere-maison-quebec/)
+- [ضريبة الترحيب في كيبيك: كم، ومتى، ومن يدفعها](/ar/articles/welcome-tax-quebec-guide/)
+- [ما الراتب اللازم للشراء في مونتريال أو لافال؟](/ar/articles/what-salary-to-buy-montreal/)
+- [ثماني حالات لا ينبغي فيها الشراء، حتى لو قال البنك نعم](/ar/articles/when-not-to-buy-real-estate/)
+- [العلامة العقارية في كيبيك: ما تغيّره في ملفك، وما لا تغيّره](/ar/articles/why-choose-remax/)
+- [حين تنحرف صفقة في كيبيك: سبع إخفاقات تتكرر، والقاعدة التي تمنع كلاً منها](/ar/articles/worst-real-estate-deal-lessons/)
+
+## Tools and conversion pages
+
+- /ar/formulaire/
+- /ar/contact/
+- /ar/about/
+- /ar/buyer/
+- /ar/seller/
+- /ar/tools/affordability/
+- /ar/tools/mortgage/
+- /ar/tools/closing-costs/
+- /ar/tools/home-estimate/
+- /ar/tools/rent-vs-buy/
+- /ar/tools/welcome-tax/
+- /ar/secteurs/laval/
+- /ar/secteurs/montreal/

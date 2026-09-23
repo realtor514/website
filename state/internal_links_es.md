@@ -1,0 +1,83 @@
+# Espanol articles: allowed internal link targets
+
+Copy these paths exactly. A link to a file that does not exist fails the build check.
+
+- [La mejor tasa hipotecaria en Canadá: lo que se decide antes de la tasa](/es/articles/best-mortgage-rate-canada/)
+- [Cómo comparar dos barrios de Montreal: un método, no un ranking](/es/articles/best-neighborhoods-montreal/)
+- [Cuándo poner su propiedad a la venta en Montréal: lo que dicen las cifras mensuales](/es/articles/best-time-sell-home-montreal/)
+- [Guerra de ofertas en Montreal: cómo funciona de verdad una sobrepuja en Quebec](/es/articles/bidding-wars-truth-montreal/)
+- [Corredor, agente, REALTOR: ¿cuál es la diferencia real en Quebec?](/es/articles/broker-agent-difference-quebec/)
+- [Cómo construir una cartera inmobiliaria en el Gran Montreal desde cero](/es/articles/build-real-estate-portfolio/)
+- [Comprar entre varios en Quebec: la indivisión, el convenio y lo que la ley decide por usted](/es/articles/buying-property-with-family/)
+- [Comprar de contado en Quebec: la ventaja real, el riesgo real y lo que exige la ley](/es/articles/cash-buyers-advantage/)
+- [La comisión inmobiliaria en Quebec: qué está pagando realmente](/es/articles/commission-explained-quebec/)
+- [Comprar en Laval: los seis sectores, el transporte, los impuestos y las verificaciones](/es/articles/comprar-en-laval-2025/)
+- [Cuotas de condominio y fondo de previsión: qué verificar antes de comprar](/es/articles/condo-fees-investment-killer/)
+- [Condominio o casa en Montréal: qué compra usted realmente](/es/articles/condo-vs-house-montreal/)
+- [Su historial de crédito bloquea en silencio la casa que quiere (y cómo arreglarlo)](/es/articles/credit-score-home-buying-quebec/)
+- [Separación, divorcio y vivienda en Quebec: lo que debe saber](/es/articles/divorce-real-estate-guide/)
+- [El mito del 20 % de entrada: lo que frena a los compradores](/es/articles/down-payment-myth-debunked/)
+- [Acceder a la propiedad en Quebec en 2026: lo que realmente existe para un comprador primerizo](/es/articles/everyone-deserves-homeownership/)
+- [Ventajas fiscales para compradores primerizos en Quebec en 2026: a qué tiene derecho](/es/articles/first-time-buyer-tax-credits/)
+- [Su primera visita a una propiedad: qué revisar antes de enamorarse](/es/articles/first-visit-property-checklist/)
+- [Guía Completa para Recién Llegados que Compran Propiedad en Quebec](/es/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/)
+- [Todo lo que los Compradores Primerizos Necesitan Saber Sobre las Hipotecas en Quebec](/es/articles/guide-hypotheque-premier-acheteur-quebec/)
+- [Comprar un inmueble antiguo o patrimonial en Montreal: lo que cambia de verdad](/es/articles/heritage-property-montreal/)
+- [Los costos ocultos de ser propietario que nadie pone en el folleto](/es/articles/hidden-homeownership-costs/)
+- [La inspección previa a la compra: la lista punto por punto](/es/articles/home-inspection-checklist-montreal/)
+- [Inspección previa a la compra en Quebec: cuánto cuesta y cuándo hacerla](/es/articles/home-inspection-cost-timing-quebec/)
+- [Preparar una propiedad antes de la venta: el método y el límite deontológico](/es/articles/home-staging-client-story/)
+- [Comprar para revender en Montreal: las cifras reales que nadie le muestra](/es/articles/house-flipping-montreal/)
+- [¿Cuánto tiempo toma realmente vender una casa en Montreal?](/es/articles/how-long-to-sell-house-montreal/)
+- [Plex de ingresos en Montreal y Laval: la guía honesta para principiantes](/es/articles/income-property-beginners/)
+- [Heredar una propiedad en Quebec: lo que los herederos deben saber antes de vender o conservarla](/es/articles/inheritance-property-quebec/)
+- [Tasas de interés y mercado inmobiliario de Montreal: cómo se transmite de verdad](/es/articles/interest-rates-montreal-market/)
+- [Comprar un tríplex en Laval: lo que hay que verificar antes de la oferta](/es/articles/investir-triplex-laval-strategie/)
+- [Invertir en Laval: lo que hay que verificar antes de comprometerse](/es/articles/laval-investment-city/)
+- [Su promesa de compra fue rechazada: el método para no pagar de más la próxima vez](/es/articles/losing-bidding-war-lessons/)
+- [Mercado Inmobiliario de Montréal y Laval: Leer los Datos, no las Predicciones](/es/articles/marche-immobilier-montreal-analyse-donnees/)
+- [Hablar de un desplome inmobiliario en Montreal: lo que los datos permiten decir](/es/articles/montreal-market-crash-analysis/)
+- [Preaprobación hipotecaria: lo que garantiza y lo que no](/es/articles/mortgage-preapproval-mistakes/)
+- [Mudarse en Montreal o Laval: la lista completa, plazo por plazo](/es/articles/moving-checklist-montreal/)
+- [Idioma y transacción inmobiliaria en Quebec: lo que exige la ley](/es/articles/multilingual-broker-advantage/)
+- [Comprar una construcción nueva en Quebec: lo que el folleto no le dice](/es/articles/new-construction-guide-quebec/)
+- [Propiedades fuera del mercado en Quebec: qué son, qué le cuestan y qué debe revelar el corredor](/es/articles/off-market-properties/)
+- [En una visita libre, el corredor de la puerta trabaja para el vendedor](/es/articles/open-house-secrets/)
+- [Cómo preparar su casa para la venta en Montreal y Laval](/es/articles/preparar-casa-para-venta-montreal-laval/)
+- [Los impuestos municipales en Montreal y Laval: explicación completa](/es/articles/property-tax-explained/)
+- [El notario en Quebec: lo que todo comprador debe saber, paso a paso](/es/articles/quebec-notary-process/)
+- [5 preguntas que debe hacer antes de contratar a un corredor inmobiliario](/es/articles/questions-hire-broker/)
+- [El costo real de vender una casa en Quebec](/es/articles/real-cost-selling-home-quebec/)
+- [Ocho mitos inmobiliarios, y la regla que contradice a cada uno](/es/articles/real-estate-myths-debunked/)
+- [Retirarse de una propiedad: siete señales que se verifican en papel](/es/articles/red-flags-walk-away-property/)
+- [Su Renovación No Añadirá lo que Cree al Valor de su Vivienda](/es/articles/renovations-dont-add-value/)
+- [Gestionar propiedades de alquiler en Montreal y Laval: lo que todo nuevo propietario debe saber](/es/articles/rental-property-management/)
+- [Alquilar o comprar en el Gran Montreal: el cálculo que casi todos hacen mal](/es/articles/renting-vs-buying-calculation/)
+- [Cómo comparar sectores de la Rive-Nord: el método y las fuentes](/es/articles/rive-nord-guide-laval/)
+- [Escuela de barrio, zona escolar e impuesto escolar: lo que una dirección decide de verdad](/es/articles/school-districts-property-values/)
+- [Vender con o sin corredor en Quebec: la comparación honesta](/es/articles/selling-without-realtor-quebec/)
+- [Vender la casa familiar y mudarse a algo más pequeño: guía para personas mayores en el Gran Mon](/es/articles/senior-downsizing-guide/)
+- [Negociar una propiedad en Montreal: las verdaderas palancas, las que el formulario permite](/es/articles/strategies-negociation-immobilier-montreal/)
+- [Plex o condominio en Montréal: dos compromisos, no una clasificación](/es/articles/triplex-vs-condo-montreal/)
+- [El Costo Real de Comprar su Primera Casa en Quebec](/es/articles/vrai-cout-achat-premiere-maison-quebec/)
+- [Impuesto de bienvenida en Quebec: cuánto, cuándo y quién lo paga](/es/articles/welcome-tax-quebec-guide/)
+- [¿Qué salario se necesita para comprar en Montreal o Laval?](/es/articles/what-salary-to-buy-montreal/)
+- [Ocho situaciones en las que no hay que comprar, aunque el banco diga que sí](/es/articles/when-not-to-buy-real-estate/)
+- [La marca inmobiliaria en Quebec: lo que cambia en su expediente, y lo que no cambia](/es/articles/why-choose-remax/)
+- [Cuando una transacción se descarrila en Quebec: siete fallas que se repiten, y la regla que las](/es/articles/worst-real-estate-deal-lessons/)
+
+## Tools and conversion pages
+
+- /es/formulaire/
+- /es/contact/
+- /es/about/
+- /es/buyer/
+- /es/seller/
+- /es/tools/affordability/
+- /es/tools/mortgage/
+- /es/tools/closing-costs/
+- /es/tools/home-estimate/
+- /es/tools/rent-vs-buy/
+- /es/tools/welcome-tax/
+- /es/secteurs/laval/
+- /es/secteurs/montreal/

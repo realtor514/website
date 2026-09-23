@@ -29,6 +29,36 @@
    "slug": "cout-entretien-maison-quebec",
    "keyword": "cout entretien maison quebec",
    "state": "done"
+  },
+  {
+   "id": "t06",
+   "slug": "impot-proprietaire-quebec",
+   "keyword": "impot proprietaire quebec deduction",
+   "state": "in_progress"
+  },
+  {
+   "id": "t07",
+   "slug": "acheter-zone-inondable-quebec",
+   "keyword": "acheter zone inondable quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t08",
+   "slug": "reduire-facture-chauffage-quebec",
+   "keyword": "reduire facture chauffage quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t09",
+   "slug": "arbres-propriete-reglements-quebec",
+   "keyword": "abattage arbre reglement quebec propriete",
+   "state": "in_progress"
+  },
+  {
+   "id": "t10",
+   "slug": "comparables-prix-maison-voisin-quebec",
+   "keyword": "comparables immobiliers prix maison voisin",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -36,20 +66,35 @@
   "contester-evaluation-municipale-quebec",
   "refinancement-hypothecaire-quebec",
   "renovation-condo-copropriete-quebec",
-  "cout-entretien-maison-quebec"
+  "cout-entretien-maison-quebec",
+  "impot-proprietaire-quebec",
+  "acheter-zone-inondable-quebec",
+  "reduire-facture-chauffage-quebec",
+  "arbres-propriete-reglements-quebec",
+  "comparables-prix-maison-voisin-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
   "contester evaluation municipale quebec",
   "refinancement hypothecaire quebec",
   "renovation condo copropriete quebec",
-  "cout entretien maison quebec"
+  "cout entretien maison quebec",
+  "impot proprietaire quebec deduction",
+  "acheter zone inondable quebec",
+  "reduire facture chauffage quebec",
+  "abattage arbre reglement quebec propriete",
+  "comparables immobiliers prix maison voisin"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
   "Contester son evaluation municipale au Quebec",
   "Se preparer a un refinancement hypothecaire au Quebec",
   "Renover en copropriete: ce que la declaration permet",
-  "Le budget d entretien annuel d une maison au Quebec"
+  "Le budget d entretien annuel d une maison au Quebec",
+  "Proprietaire et impot au Quebec: ce qui se deduit vraiment",
+  "Acheter en zone inondable au Quebec",
+  "Reduire sa facture de chauffage au Quebec",
+  "Les arbres, la valeur d une propriete et le droit quebecois",
+  "Pourquoi votre maison ne se compare pas a celle du voisin"
  ]
 }

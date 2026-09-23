@@ -265,7 +265,7 @@
    "slug": "impot-proprietaire-quebec",
    "translationKey": "article-impot-proprietaire",
    "needs_expert_review": true,
-   "status": "error_retry_later",
+   "status": "in_progress",
    "gate1": {
     "slug": {
      "v": "PASS",
@@ -311,7 +311,7 @@
    "slug": "acheter-zone-inondable-quebec",
    "translationKey": "article-zone-inondable",
    "needs_expert_review": true,
-   "status": "error_retry_later",
+   "status": "in_progress",
    "gate1": {
     "slug": {
      "v": "PASS",
@@ -356,7 +356,7 @@
    ],
    "slug": "reduire-facture-chauffage-quebec",
    "translationKey": "article-facture-chauffage",
-   "status": "error_retry_later",
+   "status": "in_progress",
    "gate1": {
     "slug": {
      "v": "PASS",
@@ -401,7 +401,7 @@
    ],
    "slug": "arbres-propriete-reglements-quebec",
    "translationKey": "article-arbres-propriete",
-   "status": "error_retry_later",
+   "status": "in_progress",
    "gate1": {
     "slug": {
      "v": "PASS",
@@ -446,7 +446,7 @@
    ],
    "slug": "comparables-prix-maison-voisin-quebec",
    "translationKey": "article-comparables-voisin",
-   "status": "error_retry_later",
+   "status": "in_progress",
    "gate1": {
     "slug": {
      "v": "PASS",

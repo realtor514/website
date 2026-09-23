@@ -1,0 +1,83 @@
+# English articles: allowed internal link targets
+
+Copy these paths exactly. A link to a file that does not exist fails the build check.
+
+- [The Best Mortgage Rate in Canada: What Gets Decided Before the Rate](/en/articles/best-mortgage-rate-canada/)
+- [How to Compare Two Montreal Neighbourhoods: A Method, Not a Ranking](/en/articles/best-neighborhoods-montreal/)
+- [When to List Your Property in Montreal: What the Monthly Numbers Say](/en/articles/best-time-sell-home-montreal/)
+- [Bidding Wars in Montreal: How a Multiple-Offer Situation Really Works in Quebec](/en/articles/bidding-wars-truth-montreal/)
+- [Realtor, Broker, Agent: What's the Actual Difference in Quebec?](/en/articles/broker-agent-difference-quebec/)
+- [How to Build a Real Estate Portfolio in Greater Montreal Starting From Zero](/en/articles/build-real-estate-portfolio/)
+- [Buying in Laval: The Six Sectors, the Transit, the Taxes and the Checks](/en/articles/buying-in-laval-2025/)
+- [Buying Property Together in Quebec: Undivided Co-Ownership, the Agreement, and What the Law Dec](/en/articles/buying-property-with-family/)
+- [Buying with Cash in Quebec: The Real Advantage, the Real Risk, and What the Law Requires](/en/articles/cash-buyers-advantage/)
+- [Real Estate Commission in Quebec: What You're Actually Paying For](/en/articles/commission-explained-quebec/)
+- [Condo Fees and the Contingency Fund: What to Verify Before You Buy](/en/articles/condo-fees-investment-killer/)
+- [Condo or House in Montreal: What You Are Actually Buying](/en/articles/condo-vs-house-montreal/)
+- [Your Credit Score Is Quietly Blocking Your Dream Home (and How to Fix It)](/en/articles/credit-score-home-buying-quebec/)
+- [Separation, Divorce and the Home in Quebec: What You Need to Know](/en/articles/divorce-real-estate-guide/)
+- [The 20% Down Payment Myth: Why It's Holding Buyers Back](/en/articles/down-payment-myth-debunked/)
+- [Getting Into Homeownership in Quebec in 2026: What Actually Exists for a First-Time Buyer](/en/articles/everyone-deserves-homeownership/)
+- [Quebec First-Time Buyer Tax Benefits in 2026: What You Are Entitled To](/en/articles/first-time-buyer-tax-credits/)
+- [Your First Property Visit: What to Check Before You Fall in Love](/en/articles/first-visit-property-checklist/)
+- [A Complete Guide for Newcomers Buying Property in Quebec](/en/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/)
+- [Everything First-Time Buyers Need to Know About Mortgages in Quebec](/en/articles/guide-hypotheque-premier-acheteur-quebec/)
+- [Buying an Old or Heritage Building in Montreal: What Actually Changes](/en/articles/heritage-property-montreal/)
+- [The Hidden Costs of Homeownership Nobody Puts in the Brochure](/en/articles/hidden-homeownership-costs/)
+- [The Home Inspection Checklist: What Gets Checked, Item by Item](/en/articles/home-inspection-checklist-montreal/)
+- [Home Inspection in Quebec: What It Costs and When to Do It](/en/articles/home-inspection-cost-timing-quebec/)
+- [Preparing a Property for Sale: The Method, and the Ethical Line](/en/articles/home-staging-client-story/)
+- [House Flipping in Montreal: The Honest Math Nobody Shows You](/en/articles/house-flipping-montreal/)
+- [How Long Does It Actually Take to Sell a House in Montreal?](/en/articles/how-long-to-sell-house-montreal/)
+- [Income Plexes in Montreal and Laval: An Honest Beginner's Guide](/en/articles/income-property-beginners/)
+- [Inheriting Property in Quebec: What Heirs Need to Know Before Selling or Keeping](/en/articles/inheritance-property-quebec/)
+- [Interest Rates and the Montreal Market: How the Transmission Actually Works](/en/articles/interest-rates-montreal-market/)
+- [Buying a Triplex in Laval: What to Verify Before You Make an Offer](/en/articles/investir-triplex-laval-strategie/)
+- [Investing in Laval: What to Verify Before You Commit](/en/articles/laval-investment-city/)
+- [Your Promise to Purchase Was Refused: The Method for Not Overpaying Next Time](/en/articles/losing-bidding-war-lessons/)
+- [Montreal and Laval Real Estate Market: Reading the Data, Not the Predictions](/en/articles/marche-immobilier-montreal-analyse-donnees/)
+- [Talking About a Montreal Housing Crash: What the Data Lets You Say](/en/articles/montreal-market-crash-analysis/)
+- [Mortgage Pre-Approval: What It Guarantees and What It Does Not](/en/articles/mortgage-preapproval-mistakes/)
+- [Moving in Montreal or Laval: The Complete Checklist, Deadline by Deadline](/en/articles/moving-checklist-montreal/)
+- [Language and Your Real Estate Transaction in Quebec: What the Law Requires](/en/articles/multilingual-broker-advantage/)
+- [Buying New Construction in Quebec: What the Brochure Doesn't Tell You](/en/articles/new-construction-guide-quebec/)
+- [Off-Market Properties in Quebec: What They Are, What They Cost You, What Your Broker Must Discl](/en/articles/off-market-properties/)
+- [At an Open House, the Broker at the Door Works for the Seller](/en/articles/open-house-secrets/)
+- [How to Prepare Your Home for Sale in Montreal and Laval](/en/articles/preparer-maison-vente-montreal-laval/)
+- [Property Taxes in Montreal and Laval: A Complete Explanation](/en/articles/property-tax-explained/)
+- [The Notary in Quebec: What Every Buyer Needs to Know, Step by Step](/en/articles/quebec-notary-process/)
+- [5 Questions You Must Ask Before Hiring a Real Estate Broker](/en/articles/questions-hire-broker/)
+- [The Real Cost of Selling a House in Quebec](/en/articles/real-cost-selling-home-quebec/)
+- [Eight Real Estate Myths, and the Rule That Contradicts Each One](/en/articles/real-estate-myths-debunked/)
+- [Walking Away: Seven Red Flags You Can Verify on Paper](/en/articles/red-flags-walk-away-property/)
+- [Your Renovation Won't Add What You Think to Your Home's Value](/en/articles/renovations-dont-add-value/)
+- [Managing Rental Properties in Montreal and Laval: What First-Time Landlords Need to Know](/en/articles/rental-property-management/)
+- [Renting or Buying in Greater Montreal: The Calculation Almost Everyone Gets Wrong](/en/articles/renting-vs-buying-calculation/)
+- [How to Compare North Shore Sectors: The Method and the Sources](/en/articles/rive-nord-guide-laval/)
+- [Catchment School, School Choice and School Tax: What a Quebec Address Really Decides](/en/articles/school-districts-property-values/)
+- [Selling With or Without a Realtor in Quebec: The Honest Comparison](/en/articles/selling-without-realtor-quebec/)
+- [Selling the Family Home and Downsizing: A Guide for Seniors in Greater Montreal](/en/articles/senior-downsizing-guide/)
+- [Negotiating a Property in Montreal: The Real Levers, the Ones the Form Allows](/en/articles/strategies-negociation-immobilier-montreal/)
+- [Plex or Condo in Montreal: Two Commitments, Not a Ranking](/en/articles/triplex-vs-condo-montreal/)
+- [The Real Cost of Buying Your First Home in Quebec](/en/articles/vrai-cout-achat-premiere-maison-quebec/)
+- [Welcome Tax in Quebec: How Much, When, and Who Pays It](/en/articles/welcome-tax-quebec-guide/)
+- [What Salary Do You Need to Buy in Montreal or Laval?](/en/articles/what-salary-to-buy-montreal/)
+- [Eight Situations Where You Should Not Buy, Even If the Bank Says Yes](/en/articles/when-not-to-buy-real-estate/)
+- [Real Estate Banners in Quebec: What One Changes in Your File, and What It Doesn't](/en/articles/why-choose-remax/)
+- [When a Quebec Deal Goes Wrong: Seven Recurring Failures, and the Rule That Prevents Each](/en/articles/worst-real-estate-deal-lessons/)
+
+## Tools and conversion pages
+
+- /en/formulaire/
+- /en/contact/
+- /en/about/
+- /en/buyer/
+- /en/seller/
+- /en/tools/affordability/
+- /en/tools/mortgage/
+- /en/tools/closing-costs/
+- /en/tools/home-estimate/
+- /en/tools/rent-vs-buy/
+- /en/tools/welcome-tax/
+- /en/secteurs/laval/
+- /en/secteurs/montreal/

@@ -16,12 +16,43 @@ un lecteur de cette langue qui vit au Quebec et qui cherche dans sa langue.
 - `translationKey`: **identique** a la version francaise. C est ce champ qui relie
   les 4 versions et qui alimente les balises hreflang de `layouts/partials/seo.html`.
 - `date` et `lastmod`: identiques a la version francaise.
-- `category`: identique a la version francaise, en francais dans le texte, parce
-  que c est la valeur que le site utilise partout.
 - `image`: meme chemin que la version francaise.
 - `draft: true`.
 
 ## Ce qui change
+
+### La categorie est traduite
+
+C est une erreur facile: le site **localise** la categorie. Tableau de conversion,
+valeurs relevees dans `content/`, a copier exactement:
+
+| francais | en | es | ar |
+|---|---|---|---|
+| Guide de l'acheteur | Buyer's Guide | Guía del Comprador | دليل المشتري |
+| Guide du vendeur | Seller's Guide | Guía del Vendedor | دليل البائع |
+| Financement | Finance | Financiamiento | تمويل |
+| Investissement | Investment | Inversión | استثمار |
+| Immobilier 101 | Real Estate 101 | Inmobiliaria 101 | عقارات 101 |
+| Guide pratique | Practical Guide | Guía práctica | دليل عملي |
+| Analyse de marche | Market Analysis | Análisis de Mercado | تحليل السوق |
+
+### Le formulaire n a pas le meme chemin dans les 4 langues
+
+Deuxieme piege. Le formulaire et la page contact ont un slug propre a chaque
+langue, parce que leur front matter declare son propre `url:`:
+
+| | formulaire | contact |
+|---|---|---|
+| fr | `/formulaire/` | `/contact/` |
+| en | `/en/form/` | `/en/contact/` |
+| es | `/es/formulario/` | `/es/contacto/` |
+| ar | `/ar/istimara/` | `/ar/tawasul/` |
+
+Les pages d outils, elles, gardent leur slug anglais avec un prefixe de langue:
+`/en/tools/mortgage/`, `/es/tools/mortgage/`, `/ar/tools/mortgage/`. Idem pour
+`affordability`, `closing-costs`, `home-estimate`, `rent-vs-buy`, `welcome-tax`.
+
+### Le reste
 
 - `title` et `description`: rediges dans la langue cible, pas traduits mot a mot.
   Ils doivent contenir la formulation que le lecteur taperait vraiment.
@@ -37,7 +68,8 @@ un lecteur de cette langue qui vit au Quebec et qui cherche dans sa langue.
   - arabe: `/ar/articles/slug/`
   Verifiez que le fichier cible existe vraiment dans cette langue. S il n existe
   pas, pointez vers la version francaise, ou retirez le lien. Jamais de lien mort.
-- Les liens vers les outils et le formulaire suivent la meme logique de prefixe.
+- Les liens vers les outils suivent la logique de prefixe. Le formulaire et la
+  page contact ont leur propre slug par langue: voir les deux tableaux ci-dessus.
 
 ## Noms officiels: ne les traduisez pas
 

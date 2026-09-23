@@ -21,9 +21,27 @@ LANGS = ["fr", "en", "es", "ar"]
 TODAY = datetime.date.today()
 
 REQUIRED = ["title", "date", "lastmod", "translationKey", "category", "description", "image", "draft"]
-CATEGORIES = {"Guide de l'acheteur", "Guide du vendeur", "Financement", "Investissement",
-              "Immobilier 101", "Analyse de marché", "Analyse de marche", "Guide pratique",
-              "Conseils honnêtes"}
+
+# Les categories sont LOCALISEES sur ce site: un article anglais porte
+# "Buyer's Guide", pas "Guide de l'acheteur". Valeurs relevees dans content/.
+CATEGORIES = {
+    "fr": {"Guide de l'acheteur", "Guide du vendeur", "Financement", "Investissement",
+           "Immobilier 101", "Analyse de marché", "Analyse de marche", "Guide pratique",
+           "Conseils honnêtes"},
+    "en": {"Buyer's Guide", "Seller's Guide", "Finance", "Financing", "Investment",
+           "Real Estate 101", "Immobilier 101", "Practical Guide", "Market Analysis",
+           "Market Insights", "Honest Advice"},
+    "es": {"Guía del Comprador", "Guía del Vendedor", "Financiamiento", "Inversión",
+           "Inmobiliaria 101", "Guía práctica", "Análisis de Mercado"},
+    "ar": {"دليل المشتري", "دليل البائع", "تمويل", "التمويل", "استثمار",
+           "عقارات 101", "دليل عملي", "تحليل السوق", "نصيحة صادقة"},
+}
+
+# Le formulaire et la page contact ont un slug propre a chaque langue.
+FORM_PATH = {"fr": "/formulaire/", "en": "/en/form/",
+             "es": "/es/formulario/", "ar": "/ar/istimara/"}
+CONTACT_PATH = {"fr": "/contact/", "en": "/en/contact/",
+                "es": "/es/contacto/", "ar": "/ar/tawasul/"}
 
 # Chemins hors /articles/ que le site expose vraiment.
 STATIC_PATHS = {"/formulaire/", "/contact/", "/about/", "/buyer/", "/seller/", "/listings/",
@@ -58,18 +76,30 @@ def known_slugs(lang):
 
 
 def section_paths(lang):
-    """Toutes les URLs de pages reellement presentes pour cette langue."""
-    out = set(STATIC_PATHS)
+    """Toutes les URLs de pages reellement presentes pour cette langue.
+
+    Le francais vit a la racine, les autres langues sous /{lang}/. Une page qui
+    declare son propre `url:` dans le front matter, comme le formulaire, fait foi.
+    """
+    prefix = "" if lang == "fr" else "/" + lang
+    out = {prefix + p for p in STATIC_PATHS}
+    out.add(FORM_PATH[lang])
+    out.add(CONTACT_PATH[lang])
     base = CONTENT / lang
     if not base.is_dir():
         return out
     for path in base.rglob("*.md"):
+        meta, _, _ = parse(path)
+        if meta and meta.get("url"):
+            url = meta["url"]
+            out.add(url if url.endswith("/") else url + "/")
+            continue
         rel = path.relative_to(base).as_posix()
         if rel.endswith("_index.md"):
             rel = rel[:-len("_index.md")]
         else:
             rel = rel[:-3] + "/"
-        out.add("/" + rel if not rel.startswith("/") else rel)
+        out.add("%s/%s" % (prefix, rel.lstrip("/")))
     return out
 
 
@@ -118,8 +148,8 @@ def check(path):
         warnings.append("titre de %d caracteres, vise moins de 60" % len(title))
 
     cat = meta.get("category", "")
-    if cat and cat not in CATEGORIES:
-        errors.append("categorie inconnue: %s" % cat)
+    if cat and cat not in CATEGORIES.get(lang, set()):
+        errors.append("categorie inconnue en %s: %s" % (lang, cat))
 
     for field in ("date", "lastmod"):
         value = meta.get(field, "")
@@ -160,10 +190,10 @@ def check(path):
         elif target not in valid and target.rstrip("/") + "/" not in valid:
             warnings.append("lien non verifie: %s" % target)
 
-    if "/formulaire/" not in body:
-        errors.append("aucun appel a l action vers /formulaire/")
+    if FORM_PATH[lang] not in body:
+        errors.append("aucun appel a l action vers %s" % FORM_PATH[lang])
 
-    internal = len(re.findall(r"\]\(/articles/", body))
+    internal = len(re.findall(r"\]\(" + re.escape(prefix), body))
     if internal < 3:
         warnings.append("%d liens vers des articles, vise 3 a 5" % internal)
 
