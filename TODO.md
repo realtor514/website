@@ -23,8 +23,8 @@ Fait cote site: les deux sources de leads vendeurs marquent maintenant leur obje
 
 Ce qui reste a faire, et que Georges seul peut faire:
 - Importer `gmail-filtres-leads.xml`: Gmail, Parametres, Filtres et adresses bloquees, Importer des filtres, cocher les deux, Creer des filtres
-- Android: application Gmail, Parametres, son compte, Gerer les libelles, Leads/Vendeur, activer Notifications du libelle avec son
-- iPhone: application Gmail, Parametres, son compte, Notifications, choisir Prioritaires uniquement. Le filtre marque deja les vendeurs comme importants, donc eux seuls sonneront
+- Android, application Gmail: Parametres, son compte, Gerer les libelles, Leads/Vendeur, activer Notifications du libelle avec son. Suffit a lui seul.
+- iPhone: l'application Gmail ne sait pas notifier par libelle, et les filtres ne touchent pas a la marque important de Gmail, par choix de Georges. Une autre voie reste donc a trouver pour l'iPhone, a decider quand le modele de telephone sera connu.
 - Envoyer un lead de test depuis le site et chronometrer le delai reel jusqu'a la sonnerie
 - Option a evaluer plus tard: un envoi SMS automatique via un connecteur, si le courriel s'avere trop lent
 **Status:** en cours, cote site termine, importation et telephone a faire

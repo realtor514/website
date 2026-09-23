@@ -13,9 +13,17 @@
     toucher au reste de la boite de reception.
   -->
 
-  <!-- 1. Le vendeur. Etiquette dediee, suivi, et marque important pour que
-          le telephone sonne meme sur iPhone, ou Gmail ne sait notifier que
-          la priorite haute. -->
+  <!--
+    Ces filtres ne touchent pas a la marque "important" de Gmail, ni dans un
+    sens ni dans l autre. Le classement par importance sert a toute la boite
+    de reception, pas seulement aux leads, et le detourner pour faire sonner
+    un telephone reviendrait a changer le comportement de Gmail partout.
+    Ces filtres se contentent donc d etiqueter, et la sonnerie se regle sur
+    le telephone a partir de l etiquette.
+  -->
+
+  <!-- 1. Le vendeur. Etiquette dediee et etoile, pour le reperer d un coup
+          d oeil dans la liste. -->
   <entry>
     <category term='filter'></category>
     <title>Leads vendeur</title>
@@ -25,14 +33,12 @@
     <apps:property name='hasTheWord' value='subject:VENDEUR subject:georgesmatar.ca'/>
     <apps:property name='label' value='Leads/Vendeur'/>
     <apps:property name='shouldStarIt' value='true'/>
-    <apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
     <apps:property name='shouldNeverSpam' value='true'/>
     <apps:property name='sizeOperator' value='s_sl'/>
     <apps:property name='sizeUnit' value='s_smb'/>
   </entry>
 
-  <!-- 2. Tout le reste du site. Jamais marque important, pour que la
-          priorite haute du telephone ne serve qu aux vendeurs. -->
+  <!-- 2. Tout le reste du site, range sous sa propre etiquette. -->
   <entry>
     <category term='filter'></category>
     <title>Leads acheteur et autres</title>
@@ -41,7 +47,6 @@
     <content></content>
     <apps:property name='hasTheWord' value='subject:georgesmatar.ca -subject:VENDEUR'/>
     <apps:property name='label' value='Leads/Acheteur'/>
-    <apps:property name='shouldNeverMarkAsImportant' value='true'/>
     <apps:property name='shouldNeverSpam' value='true'/>
     <apps:property name='sizeOperator' value='s_sl'/>
     <apps:property name='sizeUnit' value='s_smb'/>
