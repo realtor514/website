@@ -1,9 +1,11 @@
-{{/* Fenetre de consentement, Loi 25.
-     Centree a l ecran, deux boutons: les parametres et tout accepter.
-     Le panneau de parametres porte un "Tout refuser" aussi visible que
-     l acceptation: la Loi 25 veut qu un refus soit aussi simple a exprimer
-     qu un consentement. Rien n est charge tant qu aucun choix n est fait.
-     Le lien "Gerer mes preferences" du pied de page rouvre cette fenetre. */}}
+{{/* Carte de consentement, Loi 25.
+     Ancree en bas a gauche, sans voile sur la page: bandeau, titre, les deux
+     categories, puis deux boutons, "Personnaliser" et "Accepter".
+     "Personnaliser" fait apparaitre les interrupteurs et remplace les boutons
+     par "Tout refuser" et "Enregistrer": la Loi 25 veut qu un refus soit aussi
+     simple a exprimer qu un consentement. Rien n est charge tant qu aucun
+     choix n est fait.
+     Le lien "Gerer mes preferences" du pied de page rouvre cette carte. */}}
 {{ if .Site.Params.ga4Id }}
 {{ $isFr := eq .Lang "fr" }}
 {{ $isAr := eq .Lang "ar" }}
@@ -11,44 +13,38 @@
 {{ $privacy := "/en/privacy/" }}
 {{ if $isFr }}{{ $privacy = "/confidentialite/" }}{{ else if $isAr }}{{ $privacy = "/ar/khsusiya/" }}{{ else if $isEs }}{{ $privacy = "/es/privacidad/" }}{{ end }}
 
-<div class="consent-overlay" id="gm-consent" hidden>
-  <div class="consent" role="dialog" aria-modal="true" aria-labelledby="gm-consent-title">
+<div class="consent" id="gm-consent" role="dialog" aria-labelledby="gm-consent-title" hidden>
 
-    <div id="gm-consent-main">
-      <h2 class="consent__title" id="gm-consent-title">
-        {{ if $isFr }}Les témoins de ce site{{ else if $isAr }}ملفات تعريف الارتباط في هذا الموقع{{ else if $isEs }}Las cookies de este sitio{{ else }}Cookies on this site{{ end }}
-      </h2>
-      <p class="consent__text">
-        {{ if $isFr }}
-          Ce site aimerait mesurer sa fréquentation avec Google Analytics, pour savoir quelles pages vous sont utiles et améliorer le contenu. Aucune publicité, aucune revente de données, aucun profilage. Refuser ne retire aucune fonction du site.
-        {{ else if $isAr }}
-          يودّ هذا الموقع قياس عدد زياراته عبر Google Analytics، لمعرفة الصفحات المفيدة لكم وتحسين المحتوى. لا إعلانات، ولا بيع للبيانات، ولا تصنيف شخصي. والرفض لا يحرمكم من أي وظيفة في الموقع.
-        {{ else if $isEs }}
-          Este sitio desea medir sus visitas con Google Analytics, para saber qué páginas le resultan útiles y mejorar el contenido. Sin publicidad, sin venta de datos y sin perfilado. Rechazar no le quita ninguna función del sitio.
-        {{ else }}
-          This site would like to measure its traffic with Google Analytics, to learn which pages are useful to you and improve the content. No advertising, no data resale, no profiling. Declining removes no feature from the site.
-        {{ end }}
-      </p>
-      <p class="consent__link">
-        <a href="{{ $privacy }}">
-          {{ if $isFr }}Politique de confidentialité{{ else if $isAr }}سياسة الخصوصية{{ else if $isEs }}Política de privacidad{{ else }}Privacy policy{{ end }}
-        </a>
-      </p>
-      <div class="consent__actions">
-        <button type="button" class="consent__btn consent__btn--ghost" id="gm-consent-settings">
-          {{ if $isFr }}Paramètres{{ else if $isAr }}الإعدادات{{ else if $isEs }}Configuración{{ else }}Cookie Settings{{ end }}
-        </button>
-        <button type="button" class="consent__btn consent__btn--accept" id="gm-consent-accept">
-          {{ if $isFr }}Tout accepter{{ else if $isAr }}قبول الكل{{ else if $isEs }}Aceptar todo{{ else }}Accept All{{ end }}
-        </button>
-      </div>
-    </div>
+  <div class="consent__band">
+    <span class="consent__brand">RE/MAX DU CARTIER</span>
+    <svg class="consent__curve" viewBox="0 0 100 20" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path d="M0 6C35 -2 65 10 100 20V20H0Z"/></svg>
+  </div>
 
-    <div id="gm-consent-panel" hidden>
-      <h2 class="consent__title">
-        {{ if $isFr }}Vos préférences{{ else if $isAr }}تفضيلاتكم{{ else if $isEs }}Sus preferencias{{ else }}Your preferences{{ end }}
-      </h2>
+  <div class="consent__body" id="gm-consent-body">
+    <h2 class="consent__title" id="gm-consent-title">
+      {{ if $isFr }}Confidentialité{{ else if $isAr }}الخصوصية{{ else if $isEs }}Privacidad{{ else }}Privacy{{ end }}
+    </h2>
+    <p class="consent__sub">
+      {{ if $isFr }}On respecte vos choix{{ else if $isAr }}نحترم خياراتكم{{ else if $isEs }}Respetamos sus decisiones{{ else }}We respect your choices{{ end }}
+    </p>
+    <p class="consent__text">
+      {{ if $isFr }}
+        Ce site aimerait mesurer sa fréquentation avec Google Analytics, pour savoir quelles pages vous sont utiles et améliorer le contenu. Aucune publicité, aucune revente de données, aucun profilage. Refuser ne retire aucune fonction du site.
+      {{ else if $isAr }}
+        يودّ هذا الموقع قياس عدد زياراته عبر Google Analytics، لمعرفة الصفحات المفيدة لكم وتحسين المحتوى. لا إعلانات، ولا بيع للبيانات، ولا تصنيف شخصي. والرفض لا يحرمكم من أي وظيفة في الموقع.
+      {{ else if $isEs }}
+        Este sitio desea medir sus visitas con Google Analytics, para saber qué páginas le resultan útiles y mejorar el contenido. Sin publicidad, sin venta de datos y sin perfilado. Rechazar no le quita ninguna función del sitio.
+      {{ else }}
+        This site would like to measure its traffic with Google Analytics, to learn which pages are useful to you and improve the content. No advertising, no data resale, no profiling. Declining removes no feature from the site.
+      {{ end }}
+    </p>
+    <p class="consent__link">
+      <a href="{{ $privacy }}">
+        {{ if $isFr }}Politique de confidentialité{{ else if $isAr }}سياسة الخصوصية{{ else if $isEs }}Política de privacidad{{ else }}Privacy policy{{ end }}
+      </a>
+    </p>
 
+    <div class="consent__rows" id="gm-consent-rows">
       <div class="consent__row">
         <div>
           <p class="consent__row-title">
@@ -80,18 +76,27 @@
           </span>
         </label>
       </div>
-
-      <div class="consent__actions">
-        <button type="button" class="consent__btn consent__btn--ghost" id="gm-consent-deny">
-          {{ if $isFr }}Tout refuser{{ else if $isAr }}رفض الكل{{ else if $isEs }}Rechazar todo{{ else }}Reject All{{ end }}
-        </button>
-        <button type="button" class="consent__btn consent__btn--accept" id="gm-consent-save">
-          {{ if $isFr }}Enregistrer{{ else if $isAr }}حفظ{{ else if $isEs }}Guardar{{ else }}Save{{ end }}
-        </button>
-      </div>
     </div>
-
   </div>
+
+  <div class="consent__actions" id="gm-consent-main">
+    <button type="button" class="consent__btn consent__btn--ghost" id="gm-consent-settings">
+      {{ if $isFr }}Personnaliser{{ else if $isAr }}تخصيص{{ else if $isEs }}Personalizar{{ else }}Customize{{ end }}
+    </button>
+    <button type="button" class="consent__btn consent__btn--accept" id="gm-consent-accept">
+      {{ if $isFr }}Accepter{{ else if $isAr }}قبول{{ else if $isEs }}Aceptar{{ else }}Accept{{ end }}
+    </button>
+  </div>
+
+  <div class="consent__actions" id="gm-consent-panel" hidden>
+    <button type="button" class="consent__btn consent__btn--ghost" id="gm-consent-deny">
+      {{ if $isFr }}Tout refuser{{ else if $isAr }}رفض الكل{{ else if $isEs }}Rechazar todo{{ else }}Reject All{{ end }}
+    </button>
+    <button type="button" class="consent__btn consent__btn--accept" id="gm-consent-save">
+      {{ if $isFr }}Enregistrer{{ else if $isAr }}حفظ{{ else if $isEs }}Guardar{{ else }}Save{{ end }}
+    </button>
+  </div>
+
 </div>
 
 <script>
@@ -102,9 +107,11 @@
 
   var main   = document.getElementById('gm-consent-main');
   var panel  = document.getElementById('gm-consent-panel');
+  var rows   = document.getElementById('gm-consent-rows');
   var toggle = document.getElementById('gm-consent-toggle');
 
   function open() {
+    box.classList.remove('is-custom');
     main.hidden = false;
     panel.hidden = true;
     toggle.checked = window.gmConsent.state() === 'granted';
@@ -115,8 +122,11 @@
   if (!window.gmConsent.state()) open();
 
   document.getElementById('gm-consent-settings').addEventListener('click', function () {
+    box.classList.add('is-custom');
     main.hidden = true;
     panel.hidden = false;
+    rows.scrollIntoView({ block: 'nearest' });
+    toggle.focus();
   });
   document.getElementById('gm-consent-accept').addEventListener('click', function () {
     window.gmConsent.grant();
