@@ -1,0 +1,121 @@
+{
+ "id": "t10",
+ "slug": "comparables-prix-maison-voisin-quebec",
+ "title": "Comparables immobiliers: auditer le prix du voisin",
+ "target_keyword": "comparables immobiliers prix maison voisin",
+ "word_count": 1796,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/articles/bidding-wars-truth-montreal/",
+  "/articles/renovations-dont-add-value/",
+  "/articles/property-tax-explained/",
+  "/articles/combien-de-temps-vendre-maison-montreal/",
+  "/tools/home-estimate/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/etablissement-du-juste-prix-vente-0/",
+   "title": "L'evaluation du prix de vente : une responsabilite cle du courtier immobilier",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Definition de l'analyse comparative (proprietes semblables recemment vendues dans le meme secteur), article 76 du RCE exigeant une opinion fondee et motivee, liste des elements agissant sur le prix (emplacement, dimensions, annee de construction, etat de conservation, nombre de pieces, materiaux, amenagement du terrain), et obligation de tenir compte de la situation du vendeur, par exemple une succession ou une separation. Page mise a jour le 17 decembre 2025."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-protection-des-renseignements-personnels/communication-des-renseignements-personnels/",
+   "title": "Ligne directrice Protection des renseignements personnels, section 7.2.4 Confidentialite du prix vendu et utilisation des comparables",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Tant que l'acte de vente n'est pas publie au Registre foncier le prix est confidentiel; la formule officielle 'le prix de vente obtenu, qu'il corresponde ou non au prix initial d'inscription'; obligation de masquer sur les fiches de comparables remises au client les elements identifiant le vendeur (photos, adresse, nom du proprietaire)."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/guides-pratiques-professionnelles/courtage-immobilier-locatif/location-commerciale/obligations-du-locataire/determination-de-la-surface-locative-les-normes-de-mesurage/",
+   "title": "Guide des pratiques professionnelles, Courtage immobilier locatif, 2.5.3 Determination de la surface locative : les normes de mesurage",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Principe qu'une superficie depend d'une methode reconnue de mesurage; norme BOMA; les methodes de calcul varient selon la norme et le type d'immeuble; recommandation d'exiger un mesurage selon une norme precise confirme par un certificat de mesurage."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/guides-pratiques-professionnelles/copropriete-divise/superficie/",
+   "title": "Guide des pratiques professionnelles, Copropriete divise, 4. Superficie",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Distinction superficie nette (mesurage reel de l'interieur de la partie privative, a partir des divisions interieures ou des revetements de finition, exclusion des colonnes et des puits de ventilation) et superficie brute (plans d'architecture); en revente c'est la superficie nette du plan cadastral ou du certificat de localisation qui doit etre inscrite."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/determiner-superficie-immeuble-certificat-localisation-plan-cadastral-ou-titre-acquisition-0/",
+   "title": "Determiner la superficie d'un immeuble: certificat de localisation, plan cadastral ou titre d'acquisition?",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Ligne du tableau sur la superficie du terrain: le document de reference est le titre d'acquisition, le certificat de localisation ou le plan cadastral selon que le lot a fait l'objet ou non d'une renovation cadastrale."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-verification-information-et-conseil/4-roles-et-responsabilites-des-courtiers-immobiliers/",
+   "title": "Ligne directrice Verification, information et conseil, 4. Roles et responsabilites des courtiers immobiliers",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Obligation d'appuyer la juste valeur marchande sur des elements objectifs, les comparables disponibles, les caracteristiques de l'immeuble, son etat et son contexte de marche, avec renvoi a l'article 76 du RCE. Page mise a jour le 23 septembre 2026."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/garantie-legale-propriete-et-qualite/",
+   "title": "La garantie legale de propriete et de qualite",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "L'exclusion complete de la garantie legale de qualite, la vente aux risques et perils de l'acheteur, est notamment envisagee lors d'une succession ou d'une reprise de finance en raison de la connaissance limitee du vendeur."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/evaluation_fonciere/documentation/role_evaluation_contenu.pdf",
+   "title": "Le role d'evaluation fonciere et son contenu",
+   "publisher": "Ministere des Affaires municipales et de l'Habitation",
+   "consulted": "2026-09-23",
+   "supports": "Definition de l'aire des etages: surface brute correspondant a la somme des aires de chacun des etages entiers du batiment principal et, le cas echeant, de l'attique, du garage integre et de la verriere integree; le garage attache en est exclu; l'attique n'est pas un etage entier; le sous-sol ne figure pas dans cette definition. Aussi: genres de construction (de plain-pied, a niveaux decales, unimodulaire, a etage mansarde, a etage entier) et definition de la date de reference au marche."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/evaluation_fonciere/documentation/FAQ_evaluation_fonciere.pdf",
+   "title": "Evaluation fonciere, foire aux questions",
+   "publisher": "Ministere des Affaires municipales et de l'Habitation",
+   "consulted": "2026-09-23",
+   "supports": "Notion distincte d'aire finie totale de l'ensemble du batiment, qui comprend le sous-sol, les etages, les mezzanines et l'attique, utilisee pour apprecier un pourcentage de renovation. Sert a montrer que le sous-sol se compte dans une autre ligne que l'aire des etages."
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/information-fonciere/evaluation-fonciere/a-propos",
+   "title": "A propos de l'evaluation fonciere municipale",
+   "publisher": "Gouvernement du Quebec",
+   "consulted": "2026-09-23",
+   "supports": "La valeur reelle est la valeur d'echange sur un marche libre et ouvert a la concurrence; l'evaluateur considere les conditions du marche au 1er juillet du deuxieme exercice precedant l'entree en vigueur du role, soit 18 mois avant; le role est triennal."
+  },
+  {
+   "url": "https://www.laval.ca/taxes-evaluation-fonciere/evaluation-fonciere/role-evaluation-fonciere/",
+   "title": "Role d'evaluation fonciere",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-23",
+   "supports": "Role en vigueur 2025-2026-2027, entree en vigueur le 1er janvier 2025, date de reference au marche le 1er juillet 2023; mention que l'evaluation ne reflete pas forcement la valeur marchande actuelle; valeur moyenne d'une residence unifamiliale de 622 000 $ et hausse moyenne de 39,5 % pour cette categorie; definition de la valeur reelle comme prix le plus probable entre deux parties libres de vendre et d'acheter et bien informees."
+  },
+  {
+   "url": "https://montreal.ca/sujets/valeur-fonciere-dune-propriete",
+   "title": "Valeur fonciere d'une propriete",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-23",
+   "supports": "Pour les roles 2026-2027-2028, les conditions du marche retenues sont celles du 1er juillet 2024, soit 18 mois avant l'entree en vigueur; description de la methode de comparaison."
+  },
+  {
+   "url": "https://montreal.ca/demarches/consulter-les-ventes-de-propriete-de-son-secteur",
+   "title": "Consulter les ventes de propriete de son secteur",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-23",
+   "supports": "Service gratuit pour le proprietaire d'un immeuble residentiel de cinq logements ou moins; annee de reference 2024 pour les roles 2026-2027-2028; avertissement de la Ville selon lequel ces ventes peuvent, ou non, etre comparables a votre propriete."
+  },
+  {
+   "url": "https://apciq.ca/rmr-de-montreal-le-reequilibrage-du-marche-gagne-desormais-les-couronnes/",
+   "title": "RMR de Montreal : le reequilibrage du marche gagne desormais les couronnes, communique du 4 septembre 2026",
+   "publisher": "APCIQ",
+   "consulted": "2026-09-23",
+   "supports": "Aout 2026 dans la RMR de Montreal: 2 853 ventes residentielles (baisse de 13 % sur un an), 20 128 inscriptions en vigueur (hausse de 18 %), delai de vente moyen de 42 jours pour l'unifamiliale et de 62 jours pour la copropriete."
+  }
+ ],
+ "claims_needing_review": [
+  "Aucune norme de mesurage residentielle imposee au Quebec pour une maison unifamiliale n'a pu etre confirmee dans une source primaire. L'article enonce le principe (la methode doit etre declaree par qui a mesure) et s'appuie sur les regles verifiables: norme reconnue exigee en location commerciale, superficie nette exigee en copropriete divise, et definition de l'aire des etages au role d'evaluation. Aucune norme n'est nommee ni inventee pour l'unifamiliale.",
+  "L'exclusion du sous-sol de l'aire des etages est deduite de la definition ministerielle, qui enumere limitativement les etages entiers, l'attique, le garage integre et la verriere integree. Le texte dit que le sous-sol n'apparait pas dans cette liste, sans affirmer qu'un evaluateur ignore le sous-sol.",
+  "Les montants 749 000 $, 80 000 $, 2 400 pieds carres, 1 900 pieds carres et 60 000 $ sont des exemples illustratifs presentes comme tels, pas des donnees de marche."
+ ]
+}

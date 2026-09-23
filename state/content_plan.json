@@ -501,7 +501,7 @@
    ],
    "slug": "bruit-maison-condo-quebec",
    "translationKey": "article-bruit-maison-condo",
-   "status": "clear",
+   "status": "in_progress",
    "gate1": {
     "slug": {
      "v": "PASS",
@@ -5849,7 +5849,7 @@
    "translationKey": "article-declaration-vendeur",
    "needs_expert_review": true,
    "id": "t123",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -6134,7 +6134,7 @@
    "translationKey": "article-conjoints-de-fait",
    "needs_expert_review": true,
    "id": "t129",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -6323,7 +6323,7 @@
    "translationKey": "article-propriete-invendue",
    "needs_expert_review": false,
    "id": "t133",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {

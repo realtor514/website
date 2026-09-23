@@ -38,11 +38,10 @@ après qu'une partie a signé.
 
 ## Clause 2: l'exclusivité, la durée, et comment sortir du contrat
 
-L'encadré de la première page l'annonce sans détour: si l'immeuble est vendu ou
-si une entente visant à le vendre est conclue pendant la durée du contrat, que
-ce soit par ou sans l'intermédiaire du courtier, le vendeur devra verser une
-rétribution. Vous conservez le droit de mettre l'immeuble en marché vous-même,
-mais vous ne conservez pas le droit de vendre sans payer.
+L'encadré de la première page l'annonce sans détour: si l'immeuble est vendu
+pendant la durée du contrat, que ce soit par ou sans l'intermédiaire du
+courtier, le vendeur devra verser une rétribution. Vous conservez le droit de
+mettre l'immeuble en marché vous-même, mais pas celui de vendre sans payer.
 
 La clause 2.1 fixe l'heure et la date de fin, à 23 h 59. Si aucune date n'est
 inscrite, le contrat prend fin 30 jours après sa conclusion. La durée n'est pas
@@ -74,9 +73,8 @@ pénalité exigible en cas de remboursement par anticipation. Le point 4.4 préc
 que les biens inclus sont vendus sans garantie légale de qualité et aux risques
 et périls de l'acheteur, mais qu'ils devront être en état de fonctionnement à la
 livraison. Le point 4.6 vous demande d'identifier les contrats de location que
-l'acheteur devra prendre en charge: chauffe-eau, système d'alarme, réservoir de
-propane. Un réservoir loué oublié à cette ligne devient une discussion chez le
-notaire.
+l'acheteur devra reprendre: chauffe-eau, système d'alarme, réservoir de propane.
+Un réservoir loué oublié à cette ligne devient une discussion chez le notaire.
 
 La clause 5 fixe la date ou le délai de signature de l'acte de vente et la date
 d'occupation. La clause 6 autorise la diffusion des informations et des
@@ -139,9 +137,8 @@ La clause 8.1 n'est pas une formalité. Vous y déclarez être seul propriétair
 dûment autorisé à signer, que l'immeuble ne fait l'objet d'aucun autre contrat
 de courtage, qu'aucun bail n'empêche la vente, et que vous êtes résident canadien
 au sens des lois fiscales. La clause 8.5 vous engage à fournir un certificat de
-localisation reflétant l'état physique actuel des lieux et toute modification
-cadastrale. La clause 8.6 exige le consentement du conjoint lorsque l'immeuble
-constitue la résidence familiale.
+localisation reflétant l'état physique actuel des lieux. La clause 8.6 exige le
+consentement du conjoint lorsque l'immeuble est la résidence familiale.
 
 S'y ajoute l'annexe visée à la clause 12.1: le formulaire obligatoire
 *Déclarations du vendeur sur l'immeuble*, le DV. Vous y répondez au meilleur de
@@ -178,9 +175,8 @@ vérifications d'usage sur les données servant à décrire l'immeuble; ne place
 mention « vendu » que lorsque toutes les conditions de l'entente sont remplies,
 sauf la signature de l'acte et le paiement; vous divulguer par écrit tout intérêt
 personnel et tout partage de rétribution autre que celui prévu; et vous remettre
-un double du contrat. La clause 14.1 rappelle enfin qu'en cas de différend,
-l'OACIQ peut agir comme conciliateur, médiateur ou arbitre si les deux parties
-le demandent.
+un double du contrat. La clause 14.1 ajoute qu'en cas de différend, l'OACIQ peut
+agir comme conciliateur, médiateur ou arbitre si les deux parties le demandent.
 
 ## Questions fréquentes
 
@@ -200,10 +196,6 @@ que je dois la rétribution?**
 Si plus de 180 jours se sont écoulés depuis la fin du contrat, non. À
 l'intérieur des 180 jours, oui, sauf si vous aviez conclu de bonne foi un
 nouveau contrat exclusif avec un autre courtier.
-
-**Le taux inscrit à la clause 7.1 est-il négociable?**
-Oui, entièrement, et c'est avant la signature que la discussion a lieu. Le
-partage offert au courtier collaborateur à la clause 7.3 se discute aussi.
 
 **Que se passe-t-il si mon courtier change d'agence?**
 La clause 10 vous donne le choix: suivre le courtier chez sa nouvelle agence en

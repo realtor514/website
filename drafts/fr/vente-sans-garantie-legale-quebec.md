@@ -33,10 +33,9 @@ avoir besoin de recourir à un expert.
 
 Si le vendeur connaissait le vice ou ne pouvait l'ignorer, l'article 1728
 l'oblige, en plus de la restitution du prix, à réparer le préjudice subi.
-L'acheteur, lui, doit dénoncer le vice par écrit dans un délai raisonnable
-depuis sa découverte, article 1739. Et l'OACIQ ajoute le point que les vendeurs
-oublient : le fait que le vendeur ignore le vice, ou qu'il ne se manifeste
-qu'après la vente, ne diminue en rien la garantie.
+L'OACIQ ajoute le point que les vendeurs oublient : le fait que le vendeur
+ignore le vice, ou qu'il ne se manifeste qu'après la vente, ne diminue en rien
+la garantie.
 
 ## Sans garantie légale de qualité ou aux risques et périls : deux clauses différentes
 
@@ -66,10 +65,8 @@ connu ne constitue plus automatiquement un dol dans une vente « aux risques et
 périls ».
 
 Cette clause complète casse aussi la chaîne. Selon l'OACIQ, l'acheteur renonce
-alors non seulement à la garantie de son vendeur immédiat, mais à toutes celles
-offertes par les vendeurs antérieurs de l'immeuble. Les garanties sont
-réinitialisées à partir de cette vente, et un acheteur subséquent n'y aura pas
-accès non plus.
+alors à la garantie de son vendeur immédiat et à toutes celles des vendeurs
+antérieurs. Les garanties sont réinitialisées à partir de cette vente.
 
 | Formulation au contrat | Ce qui tombe | Ce qui reste |
 |---|---|---|
@@ -114,21 +111,20 @@ d'un changement d'affectation projeté par l'acheteur, et la personne âgée qui
 veut éviter qu'un recours en vice caché inquiète sa succession.
 
 Dans une succession, le liquidateur n'a souvent jamais habité l'immeuble. Le
-formulaire Déclarations du vendeur demeure obligatoire : l'OACIQ précise que
-dans le cas d'une succession, ce formulaire est toujours obligatoire, et qu'un
-liquidateur incapable de répondre à certaines questions doit inscrire à la
-clause D15 qui il est et pourquoi. Un formulaire aux blancs justifiés n'est pas
-un formulaire absent. Le reste du dossier est dans [hériter d'une propriété au
-Québec](/articles/inheritance-property-quebec/).
+formulaire Déclarations du vendeur demeure pourtant toujours obligatoire, précise
+l'OACIQ, et un liquidateur incapable de répondre à certaines questions doit
+inscrire à la clause D15 qui il est et pourquoi. Un formulaire aux blancs
+justifiés n'est pas un formulaire absent. Le reste du dossier est dans [hériter
+d'une propriété au Québec](/articles/inheritance-property-quebec/).
 
-Une institution financière n'est pas une personne physique. Le formulaire est
-obligatoire pour la vente, par une personne physique, d'un immeuble
+Une institution financière, elle, n'est pas une personne physique. Le formulaire
+est obligatoire pour la vente, par une personne physique, d'un immeuble
 principalement résidentiel de moins de cinq logements. Pour un vendeur personne
 morale, il est seulement fortement recommandé, l'OACIQ citant le cas des
 institutions financières lors de la reprise d'un immeuble. Vous n'aurez donc pas
 toujours de déclarations à lire. Et si la vente se fait sous contrôle de
-justice, l'article 1731 tranche : une telle vente ne donne lieu à aucune
-obligation de garantie de qualité.
+justice, l'article 1731 tranche : elle ne donne lieu à aucune obligation de
+garantie de qualité.
 
 ## Ce que la vente sans garantie légale au Québec change pour l'inspection et le financement
 
@@ -150,10 +146,9 @@ faire](/articles/inspection-preachat-cout-moment-quebec/).
 formulaire Déclarations du vendeur et les documents qui s'y rattachent font
 partie intégrante de la promesse d'achat et doivent être transmis au prêteur
 hypothécaire, qui détermine ensuite en toute connaissance les modalités du prêt.
-Un rapport d'inspection lourd voyage donc jusqu'à votre dossier. Ce que je ne
-peux pas affirmer : aucune source officielle ne me permet de dire qu'un prêteur
-ou un assureur hypothécaire refuse d'office une propriété vendue sans garantie
-légale. Posez la question avant de déposer l'offre, pas après.
+Ce que je ne peux pas affirmer : aucune source officielle ne me permet de dire
+qu'un prêteur ou un assureur hypothécaire refuse d'office une propriété vendue
+sans garantie légale. Posez la question avant de déposer l'offre, pas après.
 
 ## Ce qu'il faut exiger en échange
 
@@ -211,11 +206,11 @@ vendeur connaissait le vice et ne l'a pas révélé. Avec la mention « aux risq
 et périls » devant un vendeur non professionnel, il faut prouver le dol. Dans
 les deux cas, dénoncez par écrit dans un délai raisonnable, article 1739.
 
-**Puis-je acheter sans garantie et revendre avec la garantie plus tard ?** Vous
-pouvez vendre avec la garantie légale, mais elle n'engagera que vous. Une
-exclusion complète rompt la chaîne de transmission : votre acheteur ne pourra
-pas se retourner contre les propriétaires antérieurs. Le courtier doit d'ailleurs
-vérifier les ventes antérieures, que la recherche des titres révèle.
+**Puis-je revendre avec la garantie légale plus tard ?** Oui, mais elle
+n'engagera que vous. Une exclusion complète rompt la chaîne de transmission, et
+votre acheteur ne pourra pas se retourner contre les propriétaires antérieurs.
+Le courtier doit d'ailleurs vérifier les ventes antérieures, que la recherche
+des titres révèle.
 
 Pour compléter, lisez [le travail du notaire, étape par
 étape](/articles/quebec-notary-process/) et [sept échecs qui font dérailler une

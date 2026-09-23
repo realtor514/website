@@ -19,13 +19,11 @@ Le mois de mise en marché est une autre question, traitée dans [ce que disent 
 
 ## Le renouvellement qui change le calcul
 
-La Banque du Canada a publié en juillet 2025 une note analytique du personnel signée Claudia Godbout, Adam Su et Yang Xu sur l'effet des renouvellements. Ses constats, par rapport à décembre 2024: environ 60 % des emprunteurs qui renouvellent en 2025 ou en 2026 devraient voir leurs versements augmenter; les prêts à taux fixe de cinq ans renouvelés en 2026 verraient une hausse moyenne d'environ 20 %; les prêts à taux variable et à versements variables continueraient de baisser d'environ 5 % à 7 %.
+La Banque du Canada a publié en juillet 2025 une note analytique du personnel, signée Claudia Godbout, Adam Su et Yang Xu, sur l'effet des renouvellements. Ses constats, par rapport à décembre 2024: environ 60 % des emprunteurs qui renouvellent en 2025 ou en 2026 devraient voir leurs versements augmenter; les prêts à taux fixe de cinq ans renouvelés en 2026 verraient une hausse moyenne d'environ 20 %; les prêts à taux variable et à versements variables continueraient de baisser d'environ 5 % à 7 %. Chez les emprunteurs dont le versement augmente, le ratio médian du service de la dette passerait de 15,3 % à 18,0 %, soit 2,7 points de pourcentage.
 
-La même note chiffre l'effet sur le budget. Chez les emprunteurs dont le versement augmente, le ratio médian du service de la dette passerait de 15,3 % à 18,0 %, soit 2,7 points de pourcentage.
+Ce cycle a une fin annoncée. Dans sa déclaration préliminaire du 28 mai 2026 accompagnant le Rapport sur la stabilité financière, la Banque écrit que « la dernière vague de ces renouvellements aura lieu au cours des 12 prochains mois » et que le risque « devrait s'être entièrement dissipé d'ici la seconde moitié de 2027 ». Le taux directeur est maintenu à 2,25 % depuis octobre 2025, confirmé de nouveau le 2 septembre 2026.
 
-Ce cycle a une fin annoncée. Dans sa déclaration préliminaire du 28 mai 2026 accompagnant le Rapport sur la stabilité financière, la Banque écrit que « la dernière vague de ces renouvellements aura lieu au cours des 12 prochains mois » et que le risque « devrait s'être entièrement dissipé d'ici la seconde moitié de 2027 ». Le taux directeur, lui, est maintenu à 2,25 % depuis octobre 2025, confirmé de nouveau le 2 septembre 2026.
-
-Pour voir ce qu'un écart de taux fait à un versement, voici une illustration arithmétique. Les taux ci-dessous ne sont pas des taux offerts, ce sont deux points de comparaison; l'amortissement est celui qu'il vous reste, pas 25 ans à neuf.
+Voici une illustration arithmétique de ce qu'un écart de taux fait à un versement. Les taux ci-dessous ne sont pas des taux offerts, ce sont deux points de comparaison, et l'amortissement retenu est celui qu'il vous reste.
 
 | Solde restant | Amortissement restant | Versement à 2,25 % | Versement à 4,25 % | Écart par mois |
 | - | - | - | - | - |
@@ -41,9 +39,9 @@ L'article 1726 du Code civil est clair: le vendeur garantit à l'acheteur que le
 
 Le formulaire obligatoire Déclarations du vendeur sur l'immeuble de l'OACIQ transforme cette règle en questions précises. Il demande notamment s'il y a déjà eu des infiltrations d'eau et à quel endroit, s'il y a déjà eu des traces de moisissure, de pourriture ou des champignons, si l'immeuble a déjà été inspecté et si vous pouvez fournir les rapports, et si une compagnie d'assurance a déjà refusé d'assurer l'immeuble ou de vous indemniser.
 
-**Voilà le vrai coût de l'attente.** Une infiltration réparée cette année est une facture et une ligne de déclaration réglée. La même infiltration laissée trois ans devient un historique, parfois de la moisissure, parfois un refus d'assurance, et tout cela se déclare. Le formulaire prévoit d'ailleurs que le vendeur « s'engage à aviser son courtier s'il obtient de l'information additionnelle sur l'immeuble après avoir signé le formulaire ». Et du côté de l'acheteur, l'article 1739 lui impose de dénoncer le vice par écrit dans un délai raisonnable après sa découverte, ce qui ramène le dossier vers vous.
+**Voilà le coût de l'attente.** Une infiltration réparée cette année est une facture et une ligne de déclaration réglée. La même infiltration laissée trois ans devient un historique, parfois de la moisissure, parfois un refus d'assurance, et tout cela se déclare. Le formulaire prévoit d'ailleurs que le vendeur « s'engage à aviser son courtier s'il obtient de l'information additionnelle sur l'immeuble après avoir signé le formulaire ». Du côté de l'acheteur, l'article 1739 impose de dénoncer le vice par écrit dans un délai raisonnable après sa découverte, ce qui ramène le dossier vers vous.
 
-Rien ici ne dit qu'il faut vendre. Ça dit que reporter un travail connu ne fait pas disparaître l'obligation de le dire, et qu'entre-temps le problème grossit.
+Reporter un travail connu ne fait donc pas disparaître l'obligation de le dire, et le problème grossit entre-temps.
 
 ## Le logement vacant et votre police d'assurance
 
@@ -59,13 +57,13 @@ Une maison vide qu'on garde « le temps de réfléchir » n'est donc pas neutre.
 
 ## La succession qu'on laisse dormir
 
-Le décès n'arrête pas les taxes, l'assurance et le chauffage. La liquidation, elle, prend du temps, et c'est normal.
+Le décès n'arrête ni les taxes, ni l'assurance, ni le chauffage. La liquidation, elle, prend du temps.
 
-Le liquidateur exerce la saisine des héritiers pendant le temps nécessaire à la liquidation, et sa désignation est publiée au registre des droits personnels et réels mobiliers ainsi qu'au registre foncier lorsqu'il y a un immeuble, comme le prévoit l'article 777 du Code civil. Il est tenu de faire inventaire, et agit à titre d'administrateur du bien d'autrui chargé de la simple administration.
+Le liquidateur exerce la saisine des héritiers pendant le temps nécessaire à la liquidation, et sa désignation est publiée au registre des droits personnels et réels mobiliers ainsi qu'au registre foncier lorsqu'il y a un immeuble: c'est l'article 777 du Code civil. Il est tenu de faire inventaire et agit à titre d'administrateur du bien d'autrui chargé de la simple administration.
 
 Vendre la maison n'est pas automatique. Éducaloi le résume ainsi: si le testament donne au liquidateur le pouvoir de vendre, il peut vendre les biens de la succession; sinon, il doit obtenir l'autorisation des héritiers ou, à défaut, celle du tribunal. Éducaloi note aussi que l'attente des certificats de décharge fiscale peut prendre « plusieurs semaines, voire plusieurs mois ».
 
-**Le blocage typique n'est pas juridique, il est humain.** Deux héritiers veulent garder, un veut vendre, et personne ne décide. L'article 1030 tranche: « Nul n'est tenu de demeurer dans l'indivision. » Le partage peut toujours être provoqué, sauf exceptions prévues. Pendant ce temps, la maison est souvent vide, ce qui ramène la section précédente. Et le formulaire de l'OACIQ prévoit expressément que, dans le cadre d'une succession, le liquidateur remplit les déclarations au meilleur de sa connaissance et indique pourquoi il ne peut pas répondre à une question.
+**Le blocage typique n'est pas juridique, il est humain.** Deux héritiers veulent garder, un veut vendre, et personne ne décide. L'article 1030 tranche: « Nul n'est tenu de demeurer dans l'indivision. » Pendant ce temps, la maison est souvent vide, ce qui ramène la section précédente.
 
 ## La cotisation spéciale en copropriété: vendre avant ou après
 
@@ -73,9 +71,9 @@ L'article 1071 oblige le syndicat à constituer un fonds de prévoyance et à ob
 
 Le règlement d'application est entré en vigueur le 14 août 2025. Selon Québec.ca, l'attestation du syndicat est exigible lors d'une vente depuis cette date, le carnet d'entretien et l'étude du fonds doivent être en place au plus tard le 14 août 2028, et l'étude doit ensuite être refaite tous les cinq ans par un professionnel habilité. L'article 1068.1 prévoit que le syndicat remet l'attestation dans un délai de 15 jours au copropriétaire qui en fait la demande.
 
-Concrètement, l'idée de vendre « avant que ça se sache » ne tient pas. L'attestation, les procès-verbaux, les états financiers, le carnet d'entretien et l'étude du fonds sont au registre de la copropriété que le syndicat tient à la disposition des copropriétaires, et un acheteur bien conseillé les demande. L'article 1072.1 ajoute que le conseil d'administration doit consulter l'assemblée avant de décider d'une contribution spéciale: vous verrez venir la décision si vous lisez vos avis de convocation. Les détails de vérification sont dans [ce qu'il faut vérifier sur le fonds de prévoyance](/articles/condo-fees-investment-killer/).
+Vendre « avant que ça se sache » ne tient donc pas. L'attestation, les procès-verbaux, les états financiers, le carnet d'entretien et l'étude du fonds sont au registre de la copropriété que le syndicat tient à la disposition des copropriétaires, et un acheteur bien conseillé les demande. L'article 1072.1 ajoute que le conseil d'administration doit consulter l'assemblée avant de décider d'une contribution spéciale: vous verrez venir la décision si vous lisez vos avis de convocation. Les vérifications sont détaillées dans [ce qu'il faut vérifier sur le fonds de prévoyance](/articles/condo-fees-investment-killer/).
 
-La vraie question n'est pas de fuir la cotisation. C'est de savoir si vous voulez financer des travaux majeurs dans un immeuble que vous comptez quitter dans trois ans.
+La vraie question n'est pas de fuir la cotisation, mais de savoir si vous voulez financer des travaux majeurs dans un immeuble que vous comptez quitter dans trois ans.
 
 ## Garder ou vendre: le test en quatre chiffres
 
@@ -101,9 +99,6 @@ Vous pouvez mettre en vente, mais vous ne pouvez pas la cacher. L'attestation du
 
 **Nous sommes trois héritiers et nous ne nous entendons pas. Que se passe-t-il?**
 L'article 1030 du Code civil prévoit que nul n'est tenu de demeurer dans l'indivision et que le partage peut toujours être provoqué, sauf les exceptions qu'il énumère. Avant d'en arriver là, faites établir une valeur et le coût réel de détention: beaucoup de désaccords tombent quand les chiffres sont sur la table.
-
-**Dois-je déclarer une infiltration réparée il y a six ans?**
-Le formulaire Déclarations du vendeur vous demande s'il y a déjà eu des infiltrations d'eau, sans limite de temps, et vous permet de préciser comment la situation a été réglée. Déclarer avec les factures à l'appui vous protège mieux que le silence.
 
 Pour compléter, lisez [ce que les héritiers doivent savoir avant de vendre ou de garder](/articles/inheritance-property-quebec/) et [le coût réel de vendre une maison au Québec](/articles/cout-reel-vendre-maison-quebec/).
 

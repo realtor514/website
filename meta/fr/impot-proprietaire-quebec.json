@@ -1,0 +1,122 @@
+{
+ "id": "t06",
+ "slug": "impot-proprietaire-quebec",
+ "title": "Impôt et propriétaire au Québec : ce qui se déduit",
+ "target_keyword": "impot proprietaire quebec deduction",
+ "word_count": 1758,
+ "category": "Financement",
+ "internal_links": [
+  "/articles/rental-property-management/",
+  "/articles/first-time-buyer-tax-credits/",
+  "/articles/income-property-beginners/",
+  "/tools/welcome-tax/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-12700-capital-gains/principal-residence-other-real-estate.html",
+   "title": "Principal residence",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Les quatre conditions pour qu'un bien soit une résidence principale, la limite du terrain à un demi hectare (1,24 acre), une seule résidence principale par unité familiale par année, et l'obligation de déclarer la disposition et la désignation depuis l'année d'imposition 2016."
+  },
+  {
+   "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/federal-government-budgets/budget-2016-growing-middle-class/reporting-sale-your-principal-residence-individuals.html",
+   "title": "Reporting the sale of your principal residence for individuals (other than trusts)",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-23",
+   "supports": "L'annexe 3 et le formulaire T2091(IND), et la pénalité de désignation tardive égale au moindre de 8 000 $ ou de 100 $ par mois complet de retard."
+  },
+  {
+   "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-3-family-unit-issues/income-tax-folio-s1-f3-c2-principal-residence.html",
+   "title": "Income Tax Folio S1-F3-C2, Principal Residence",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Les trois conditions cumulatives du changement d'usage partiel au paragraphe 2.59 (usage productif de revenu accessoire, aucun changement structurel, aucune DPA), le maximum de quatre années de désignation sous un choix 45(2) ou 45(3) au paragraphe 2.50, l'obligation de résider au Canada pendant ces années, et la règle d'une seule résidence principale par unité familiale depuis 1982."
+  },
+  {
+   "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4036/rental-income.html",
+   "title": "Rental Income (guide T4036)",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Les critères fédéraux distinguant dépense courante et dépense en capital (avantage durable, remise en état contre amélioration, bien distinct, valeur relative), la répartition des dépenses entre la partie personnelle et la partie louée selon la superficie ou le nombre de pièces, la non déductibilité de la valeur de son propre travail, les droits de mutation et les frais juridiques d'achat ajoutés au coût, et la DPA qui ne peut créer ni augmenter une perte locative."
+  },
+  {
+   "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-22900-other-employment-expenses/work-space-home-expenses/who-claim/detailed-method.html",
+   "title": "Eligibility criteria, Detailed method, Home office expenses for employees",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Les conditions du bureau à domicile pour un employé: travail à domicile exigé par l'employeur, plus de 50 % du temps pendant au moins quatre semaines consécutives, ou usage exclusif avec rencontres régulières et continues, plus le formulaire T2200 signé."
+  },
+  {
+   "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-22900-other-employment-expenses/work-space-home-expenses/expenses-can-claim.html",
+   "title": "Expenses you can claim, Home office expenses for employees",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-23",
+   "supports": "La liste des dépenses admissibles pour un salarié (électricité, chauffage, eau, frais d'accès Internet, entretien et menues réparations, loyer), les postes supplémentaires d'un employé à commission (assurance habitation, impôts fonciers), et les postes jamais admissibles (intérêts hypothécaires, capital remboursé, dépenses en capital comme le remplacement des fenêtres ou de la fournaise)."
+  },
+  {
+   "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-22900-other-employment-expenses/work-space-home-expenses.html",
+   "title": "Home office expenses for employees",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-23",
+   "supports": "La méthode à taux fixe temporaire ne s'applique pas aux années d'imposition 2023 et suivantes, donc la méthode détaillée est la seule disponible."
+  },
+  {
+   "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037/capital-gains.html",
+   "title": "Capital Gains 2025 (guide T4037)",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-23",
+   "supports": "Le taux d'inclusion des gains en capital demeure de 1/2, et l'obligation de déclarer la vente de la résidence sur l'annexe 3 avec le T2091(IND)."
+  },
+  {
+   "url": "https://www.revenuquebec.ca/documents/fr/publications/in/IN-100(2023-02).pdf",
+   "title": "Le particulier et les revenus locatifs (IN-100)",
+   "publisher": "Revenu Québec",
+   "consulted": "2026-09-23",
+   "supports": "La définition québécoise des dépenses courantes et des dépenses en capital et leurs exemples (remplacement de toutes les fenêtres, remise en état du toit ou des balcons, ajout d'un foyer ou d'un garage, travaux préalables à la location d'un vieil immeuble, droits de mutation et frais juridiques d'achat), la déduction du coût du matériel mais non de la valeur de son propre travail, les frais d'obtention d'un prêt hypothécaire déductibles en fractions égales sur cinq ans, la répartition des frais de tout l'immeuble selon la superficie ou le nombre de pièces, l'interdiction de la DPA sur la partie louée d'une résidence habitée, la location occasionnelle de chambres non imposable jusqu'à 20 jours, la présomption d'aliénation à la juste valeur marchande lors d'un changement d'usage, le TP-274 à joindre à la déclaration de l'année du changement, le formulaire TP-128, et l'obligation de conserver les pièces justificatives."
+  },
+  {
+   "url": "https://www.revenuquebec.ca/fr/citoyens/votre-situation/achat-vente-revente-precipitee-location-ou-renovation-dune-propriete/vente-de-votre-propriete/designation-dune-residence-principale/",
+   "title": "Désignation d'une résidence principale",
+   "publisher": "Revenu Québec",
+   "consulted": "2026-09-23",
+   "supports": "La case 109 de la partie A de l'annexe G, le formulaire TP-274 à joindre à la déclaration de l'année de la vente, et la pénalité de 100 $ par mois jusqu'à un maximum de 5 000 $ en cas de défaut de transmettre le TP-274."
+  },
+  {
+   "url": "https://www.revenuquebec.ca/fr/citoyens/votre-situation/achat-vente-revente-precipitee-location-ou-renovation-dune-propriete/location-de-votre-propriete/changement-dusage/",
+   "title": "Changement d'usage (transformation d'une résidence principale en bien servant à gagner un revenu, ou l'inverse)",
+   "publisher": "Revenu Québec",
+   "consulted": "2026-09-23",
+   "supports": "La disposition réputée à la juste valeur marchande au Québec, et surtout le fait que le choix fait au fédéral en vertu du paragraphe 45(3) de la Loi de l'impôt sur le revenu s'applique automatiquement aux fins de l'impôt du Québec en vertu de l'article 286.1 de la Loi sur les impôts, sans choix fédéral aucun choix québécois n'étant possible."
+  },
+  {
+   "url": "https://www.revenuquebec.ca/fr/services-en-ligne/formulaires-et-publications/details-courant/tp-64-3/",
+   "title": "Conditions générales d'emploi (TP-64.3)",
+   "publisher": "Revenu Québec",
+   "consulted": "2026-09-23",
+   "supports": "Le TP-64.3 rempli par l'employeur et joint au TP-59, et le test québécois du bureau à domicile: exercer principalement ses fonctions à cet endroit, soit plus de 50 % du temps, ou l'utiliser exclusivement pour gagner un revenu d'emploi et y rencontrer des personnes de façon régulière et continue."
+  },
+  {
+   "url": "https://www.irs.gov/taxtopics/tc505",
+   "title": "Topic no. 505, Interest expense",
+   "publisher": "Internal Revenue Service",
+   "consulted": "2026-09-23",
+   "supports": "La déductibilité des intérêts hypothécaires aux États-Unis et la limite d'endettement de 750 000 $ pour une habitation acquise après le 15 décembre 2017, qui sert de point de comparaison avec le Canada."
+  },
+  {
+   "url": "https://www.irs.gov/taxtopics/tc701",
+   "title": "Topic no. 701, Sale of your home",
+   "publisher": "Internal Revenue Service",
+   "consulted": "2026-09-23",
+   "supports": "L'exclusion américaine du gain sur la résidence principale plafonnée à 250 000 $, ou 500 000 $ pour un couple produisant conjointement, contrairement à l'exemption canadienne sans plafond."
+  }
+ ],
+ "claims_needing_review": [
+  "Les trois pages de revenuquebec.ca citées (désignation d'une résidence principale, changement d'usage, TP-64.3) sont protégées par un pare-feu qui bloque la récupération directe; leur contenu a été obtenu par recherche indexée sur le domaine revenuquebec.ca le 2026-09-23. Le guide IN-100, lui, a été téléchargé et lu intégralement. À revalider sur écran par le comptable réviseur.",
+  "Le guide IN-100 consulté porte la version 2023-02; vérifier qu'aucune édition plus récente ne modifie les exemples de dépenses courantes et en capital.",
+  "Taux d'inclusion des gains en capital de 1/2: confirmé dans le guide T4037 de l'ARC, mais ce paramètre a fait l'objet de propositions législatives changeantes. À reconfirmer avant publication.",
+  "Le nom exact du formulaire fédéral T2200 et l'année d'application de la méthode détaillée seulement (2023 et suivantes) sont à revalider pour l'année d'imposition visée par le lecteur.",
+  "Article 286.1 de la Loi sur les impôts du Québec: le renvoi provient de la page de Revenu Québec sur le changement d'usage et vise le choix du paragraphe 45(3); vérifier le traitement québécois équivalent pour le choix du paragraphe 45(2)."
+ ]
+}

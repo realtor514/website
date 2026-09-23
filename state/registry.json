@@ -89,6 +89,30 @@
    "slug": "contrat-courtage-vente-quebec",
    "keyword": "contrat de courtage vente quebec",
    "state": "in_progress"
+  },
+  {
+   "id": "t11",
+   "slug": "bruit-maison-condo-quebec",
+   "keyword": "bruit condo insonorisation quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t123",
+   "slug": "declaration-du-vendeur-quebec",
+   "keyword": "declaration du vendeur quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t129",
+   "slug": "conjoints-de-fait-maison-quebec",
+   "keyword": "conjoints de fait maison quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t133",
+   "slug": "propriete-ne-se-vend-pas-quebec",
+   "keyword": "ma maison ne se vend pas quebec",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -106,7 +130,11 @@
   "vente-sans-garantie-legale-quebec",
   "location-court-terme-quebec-regles",
   "choisir-inspecteur-batiment-quebec",
-  "contrat-courtage-vente-quebec"
+  "contrat-courtage-vente-quebec",
+  "bruit-maison-condo-quebec",
+  "declaration-du-vendeur-quebec",
+  "conjoints-de-fait-maison-quebec",
+  "propriete-ne-se-vend-pas-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -123,7 +151,11 @@
   "vente sans garantie legale quebec",
   "location court terme airbnb quebec",
   "choisir inspecteur en batiment quebec",
-  "contrat de courtage vente quebec"
+  "contrat de courtage vente quebec",
+  "bruit condo insonorisation quebec",
+  "declaration du vendeur quebec",
+  "conjoints de fait maison quebec",
+  "ma maison ne se vend pas quebec"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -140,6 +172,10 @@
   "Acheter une maison vendue sans garantie legale au Quebec",
   "Acheter pour louer a court terme au Quebec: le cadre legal avant le calcul",
   "Choisir un inspecteur en batiment au Quebec: aucun permis n'est obligatoire",
-  "Le contrat de courtage vente au Quebec: duree, retribution et clause de protection"
+  "Le contrat de courtage vente au Quebec: duree, retribution et clause de protection",
+  "Ce qui rend une maison ou un condo bruyant",
+  "La declaration du vendeur au Quebec: ce qu'elle protege et ce qu'elle coute",
+  "Conjoints de fait et maison au Quebec: proteger la propriete avant le probleme",
+  "Votre propriete ne se vend pas: les cinq decisions a prendre maintenant"
  ]
 }
