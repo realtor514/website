@@ -1,13 +1,17 @@
 {
- "run_state": "RUNNING",
+ "run_state": "INTERRUPTED_RATE_LIMIT",
  "current_phase": "PHASE 2: production francaise",
  "session_count": 1,
  "started": "2026-09-23",
  "branch": "auto/blogue-content",
  "repo": "realtor514/website",
-
  "multilingual_mode": "by_dir",
- "languages": ["fr", "en", "es", "ar"],
+ "languages": [
+  "fr",
+  "en",
+  "es",
+  "ar"
+ ],
  "default_language": "fr",
  "default_language_in_subdir": false,
  "blogue_paths": {
@@ -20,44 +24,64 @@
   "fr": "/articles/{slug}/",
   "autres": "/{lang}/articles/{slug}/"
  },
-
- "front_matter_schema": ["title", "date", "lastmod", "translationKey", "category",
-                         "description", "image", "draft"],
+ "front_matter_schema": [
+  "title",
+  "date",
+  "lastmod",
+  "translationKey",
+  "category",
+  "description",
+  "image",
+  "draft"
+ ],
  "internal_link_style": "chemin markdown simple, [texte](/articles/slug/), pas de shortcode relref",
-
  "phase0": {
   "inventory": "fait",
-  "posts_existants": {"fr": 63, "en": 63, "es": 63, "ar": 63, "total": 252},
+  "posts_existants": {
+   "fr": 63,
+   "en": 63,
+   "es": 63,
+   "ar": 63,
+   "total": 252
+  },
   "comptage_croise": "ls des dossiers et parsing du front matter donnent le meme total, ecart 0 %",
   "hugo_list_all": "impossible, hugo n est pas installe sur ce poste. Voir NEEDS_HUMAN.md",
   "dedupe_selftest": "PASS",
   "topic_map": "fait, 619 sujets de reference recoltes sur 124 pages d index"
  },
-
  "date_policy": {
   "regle": "les dates de publication sont reparties sur le dernier mois, jamais dans le futur",
   "fenetre_jours": 30,
   "demande_par": "Georges, 2026-09-23"
  },
-
  "counters": {
-  "topics_planifies": 14,
-  "clear": 14,
-  "already_covered": 0,
+  "topics_planifies": 133,
+  "clear": 121,
+  "already_covered": 2,
   "update_candidate": 0,
   "parked": 0,
-  "written_draft": 0,
+  "written_draft": 5,
   "failed_duplicate": 0,
   "blocked_duplicate": 0,
-  "error_retry_later": 0,
-  "traduits": {"en": 0, "es": 0, "ar": 0}
+  "error_retry_later": 5,
+  "traduits": {
+   "en": 0,
+   "es": 0,
+   "ar": 0
+  }
  },
-
  "reference": {
   "site": "https://rovenapistoli.com/fr/articles",
   "usage": "sujets, categories et mots-cles seulement. Le cache texte sert uniquement au detecteur de plagiat.",
   "articles_indexes": 619,
   "pages_parcourues": 124,
   "cache_local": "state/reference_cache/, 14 articles, jamais transmis a un agent redacteur"
- }
+ },
+ "interrupted": {
+  "quand": "2026-09-23 vers 17h00 America/Toronto",
+  "cause": "limite d usage de session, 11 agents coupes en meme temps",
+  "reprise": "la limite se libere a 17h, rien a reparer avant"
+ },
+ "last_commit": "3489c47",
+ "pushed": true
 }
