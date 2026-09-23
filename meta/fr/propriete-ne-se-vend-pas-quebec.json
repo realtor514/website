@@ -1,0 +1,69 @@
+{
+ "id": "t133",
+ "slug": "propriete-ne-se-vend-pas-quebec",
+ "title": "Ma maison ne se vend pas au Québec: le vrai diagnostic",
+ "target_keyword": "ma maison ne se vend pas quebec",
+ "word_count": 1777,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/tools/home-estimate/",
+  "/articles/combien-de-temps-vendre-maison-montreal/",
+  "/articles/preparer-maison-vente/",
+  "/articles/marche-immobilier-montreal/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://apciq.ca/en/montreal-cma-adjustment-period-continues-condominium-market-in-balance-2/",
+   "title": "Montreal CMA: Adjustment Period Continues, Condominium Market in Balance",
+   "publisher": "APCIQ",
+   "consulted": "2026-09-23",
+   "supports": "Communiqué d'août 2026 pour la RMR de Montréal: 2 853 ventes résidentielles en baisse de 13 % sur un an, 20 128 inscriptions en vigueur en hausse de 18 %, moyennes de jours sur le marché de 42 jours pour l'unifamiliale, 62 pour la copropriété et 52 pour le plex."
+  },
+  {
+   "url": "https://comapciqca-152af.kxcdn.com/fsmi-stats/mensuelles/2026/stats-202608-fr.pdf",
+   "title": "Statistiques mensuelles, août 2026, Province de Québec, RMR de Montréal, RMR de Québec",
+   "publisher": "APCIQ (données du système Centris)",
+   "consulted": "2026-09-23",
+   "supports": "Prix médians d'août 2026 pour la RMR de Montréal: unifamiliale 650 000 $ à 42 jours, copropriété 437 250 $ à 62 jours (50 jours en août 2025), plex de 2 à 5 logements 856 000 $ à 52 jours. Laval, août 2026: unifamiliale 642 750 $ à 40 jours, copropriété 449 000 $ à 63 jours, 1 514 inscriptions en vigueur en hausse de 10 %. Confirme aussi que l'indicateur publié est la moyenne de jours sur le marché des propriétés vendues."
+  },
+  {
+   "url": "https://www.oaciq.com/en/general-public/residential-sale/cancellation-of-brokerage-contract/",
+   "title": "Termination of a brokerage contract",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Résiliation en tout temps par le vendeur selon l'article 2125 du Code civil et la clause 2.1 du contrat de courtage obligatoire; obligation de payer les frais engagés et la valeur du travail accompli selon l'article 2129; rétribution possible si l'immeuble est vendu dans les 180 jours suivant l'expiration du contrat exclusif à une personne intéressée pendant sa durée."
+  },
+  {
+   "url": "https://www.oaciq.com/en/broker/professional-practices-guides/main-residential-real-estate-brokerage-forms/context-of-use-of-the-form-bcs/price-and-terms-of-sale-bcs/",
+   "title": "Price and terms of sale (plus taxes, if applicable), Context of use of the form (BCS)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Le courtier doit estimer la valeur marchande par une méthode appuyée; la méthode de parité (analyse de comparables) est généralement la mieux adaptée au résidentiel et tient compte du temps écoulé depuis la vente comparable. Le prix inscrit à la clause 4.1 du contrat de courtage est le seul prix qui peut être annoncé."
+  },
+  {
+   "url": "https://www.oaciq.com/en/general-public/residential-sale/sellers-guide/seller-before-making-sure-you-are-well-prepared/seller-the-exclusive-brokerage-contract-sale/",
+   "title": "The Brokerage contract, Sale (Seller's guide)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Une modification du prix de vente ou de la durée du contrat se fait au moyen du formulaire Modifications, signé par les deux parties. Le vendeur est invité à discuter avec son courtier des moyens de promotion prévus avant la signature du contrat."
+  },
+  {
+   "url": "https://www.oaciq.com/en/broker/professional-practices-guides/main-residential-real-estate-brokerage-forms/context-of-use-of-the-form-bcs/information-listing-service-for-agencies-and-brokers-bcs/",
+   "title": "Information listing service for agencies and brokers, Context of use of the form (BCS)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Le service de diffusion d'informations entre agences et courtiers est un service auquel les courtiers s'abonnent et il exclut la publicité destinée au grand public, ce qui appuie la distinction entre la fiche vue par les courtiers et l'annonce publique, indiquée à la clause 6.1."
+  },
+  {
+   "url": "https://www.oaciq.com/en/general-public/my-broker/brokers-ethical-obligations/duties-and-ethical-obligations-of-my-broker/",
+   "title": "Duties and ethical obligations of my broker",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Obligation de vérification et d'information: le courtier doit démontrer par des documents pertinents l'exactitude de l'information qu'il transmet et est responsable de l'information qu'il diffuse. Appuie la liste de ce que le vendeur peut exiger de son courtier."
+  }
+ ],
+ "claims_needing_review": [
+  "L'article indique explicitement qu'aucune source officielle ne fixe un pourcentage minimal de baisse de prix ni ne détaille champ par champ ce qu'un courtier d'acheteur voit dans le service de diffusion interagences. Ces deux limites sont assumées dans le texte plutôt que chiffrées."
+ ]
+}

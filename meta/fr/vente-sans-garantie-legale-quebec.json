@@ -1,0 +1,74 @@
+{
+ "id": "t32",
+ "slug": "vente-sans-garantie-legale-quebec",
+ "title": "Vente sans garantie légale au Québec : ce que ça change",
+ "target_keyword": "vente sans garantie legale quebec",
+ "word_count": 1799,
+ "category": "Guide de l'acheteur",
+ "internal_links": [
+  "/articles/inheritance-property-quebec/",
+  "/articles/inspection-preachat-cout-moment-quebec/",
+  "/tools/home-estimate/",
+  "/articles/red-flags-walk-away-property/",
+  "/articles/quebec-notary-process/",
+  "/articles/worst-real-estate-deal-lessons/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, RLRQ c CCQ-1991, articles 1716, 1726, 1728, 1729, 1731, 1732, 1733 et 1739",
+   "publisher": "Légis Québec, Éditeur officiel du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Texte exact des articles cités : 1716 (les garanties de propriété et de qualité existent de plein droit), 1726 (garantie de qualité, vice caché connu de l'acheteur et vice apparent constatable sans recourir à un expert), 1728 (réparation du préjudice si le vendeur connaissait le vice), 1729 (présomption contre le vendeur professionnel en cas de détérioration prématurée), 1731 (la vente sous contrôle de justice ne donne lieu à aucune garantie de qualité), 1732 (ajout, diminution ou exclusion de la garantie, sans jamais se dégager de ses faits personnels), 1733 (interdiction d'exclure sa responsabilité pour les vices connus, et exception lorsque l'acheteur achète à ses risques et périls d'un vendeur non professionnel), 1739 (dénonciation écrite dans un délai raisonnable)."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/garantie-legale-propriete-et-qualite/",
+   "title": "La garantie légale de propriété et de qualité",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Les deux volets de la garantie légale; le fait que l'ignorance du vice par le vendeur ne diminue en rien la garantie; l'exclusion complète « aux risques et périls » qui rompt la chaîne de transmission des garanties des vendeurs antérieurs; les quatre situations où une exclusion complète peut se justifier (reprise de finance ou succession, immeuble de piètre qualité ou à démolir, changement d'affectation, personne âgée); la recommandation de ne plus utiliser la mention générale; les clauses types 3.5; l'effet possible sur le prix de vente; la recommandation d'une inspection plus poussée avec avis à l'inspecteur; le fait de ne pas recommander l'exclusion de la garantie du droit de propriété; l'obligation de recommander un conseiller juridique; la vérification des ventes antérieures par le courtier."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vos-protections/evolution-de-l-interpretation-de-la-clause-de-vente-sans-garantie-legale/",
+   "title": "Évolution de l'interprétation de la clause de vente sans garantie légale « aux risques et périls de l'acheteur »",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Blais c. Laforce, 2022 QCCA 858, confirmé par Tremblay c. Immeubles Perron ltée, 2024 QCCA 719; l'avertissement sérieux et la connaissance présumée des vices imputée à l'acheteur; le fait que le silence du vendeur sur un vice connu ne constitue plus automatiquement un dol dans une vente « aux risques et périls »; la preuve requise d'un silence intentionnel et déterminant; l'exclusion qui ne couvre pas les préjudices corporels ou moraux causés à autrui; la documentation des déclarations du vendeur et les questions à lui poser."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/formulaires-de-courtage/contexte-utilisation-du-formulaire-obligatoire-declarations-du-vendeur-immeuble/",
+   "title": "Contexte d'utilisation du formulaire obligatoire Déclarations du vendeur sur l'immeuble",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Le formulaire est obligatoire pour la vente, par une personne physique, d'un immeuble principalement résidentiel de moins de cinq logements; il est seulement fortement recommandé pour un vendeur personne morale, l'OACIQ citant les institutions financières lors de la reprise d'un immeuble; il est toujours obligatoire dans le cas d'une succession; la clause D15 pour les éléments sur lesquels le déclarant ne peut répondre; l'impossibilité pour un courtier de signer un contrat de courtage si le vendeur refuse de remplir et de signer le formulaire; la transmission du formulaire et des documents au prêteur hypothécaire, qui détermine les modalités du prêt."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/utilisation-formulaires-obligatoires-cadre-succession/",
+   "title": "L'utilisation des formulaires lors d'une succession",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "L'obligation d'utiliser le contrat de courtage obligatoire et le formulaire Déclarations du vendeur lorsque l'immeuble appartient à une succession; les héritiers ont les mêmes droits et obligations que la personne défunte; les documents à obtenir (testament, déclaration de transmission, certificat de recherche testamentaire) et la distinction entre pleine et simple administration du liquidateur."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/linspection-en-batiment-et-les-responsabilites-du-courtier-immobilier/",
+   "title": "L'inspection en bâtiment et les responsabilités du courtier immobilier",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Les quatre exigences réglementaires que doit satisfaire l'inspecteur recommandé : assurance responsabilité professionnelle contre les fautes, erreurs ou omissions, convention de service d'inspection reconnue, norme de pratique reconnue, rapport écrit remis à la partie qui utilise ses services. Également : lorsque l'acheteur achète en excluant la garantie légale de qualité, le courtier doit insister sur l'importance accrue d'une inspection préachat détaillée et l'inspecteur doit être avisé de l'exclusion."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/immobilier-acheter-sans-garantie-legale/",
+   "title": "Immobilier : acheter sans garantie légale",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "La garantie légale est automatique et n'a pas à être demandée; le vendeur peut l'exclure, mais la promesse d'achat et l'acte de vente doivent l'indiquer et l'acheteur doit en être informé avant de signer; la clause se négocie; si la garantie est exclue, le seul recours consiste à démontrer que le vendeur a volontairement caché la vérité sur un aspect déterminant de la vente."
+  }
+ ],
+ "claims_needing_review": [
+  "Distinction entre une exclusion de la seule garantie légale de qualité (article 1733, premier alinéa, toujours applicable) et l'ajout de la mention « aux risques et périls de l'acheteur » devant un vendeur non professionnel (article 1733, deuxième alinéa) : la formulation de l'article est reproduite fidèlement, mais l'interprétation de sa portée pratique devrait être validée par un juriste.",
+  "Affirmation selon laquelle l'exception de l'article 1733 ne joue qu'avec un vendeur non professionnel et que le vendeur professionnel demeure sous le premier alinéa : tirée du texte de l'article, à confirmer par un juriste quant aux cas limites (constructeur, flippeur, personne morale).",
+  "Portée de la notion de dol après Tremblay c. Immeubles Perron ltée, 2024 QCCA 719, résumée d'après la page de l'OACIQ et non d'après le texte intégral du jugement.",
+  "Mention selon laquelle aucune source officielle ne permet d'affirmer qu'un prêteur refuse d'office une propriété vendue sans garantie légale : formulée comme une limite de vérification, à réévaluer si une source de la SCHL ou d'un prêteur devient disponible."
+ ]
+}

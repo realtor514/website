@@ -589,7 +589,7 @@
    ],
    "slug": "garder-ou-vendre-propriete-quebec",
    "translationKey": "article-garder-ou-vendre",
-   "status": "in_progress",
+   "status": "written_draft",
    "gate1": {
     "slug": {
      "v": "PASS",
@@ -611,7 +611,9 @@
      "s": 0.0923,
      "match": "/articles/guide-hypotheque-premier-acheteur/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/garder-ou-vendre-propriete-quebec.md",
+   "date": "2026-09-09"
   },
   {
    "id": "t14",
@@ -1498,7 +1500,7 @@
    "translationKey": "article-as-is-sale-quebec",
    "needs_expert_review": true,
    "id": "t32",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1521,7 +1523,9 @@
      "s": 0.1148,
      "match": "/articles/bidding-wars-truth-montreal/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/vente-sans-garantie-legale-quebec.md",
+   "date": "2026-09-21"
   },
   {
    "ref_id": 1140,
@@ -2652,7 +2656,7 @@
    "translationKey": "article-short-term-rental-rules",
    "needs_expert_review": true,
    "id": "t56",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -2675,7 +2679,9 @@
      "s": 0.1146,
      "match": "/articles/income-property-beginners/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/location-court-terme-quebec-regles.md",
+   "date": "2026-09-16"
   },
   {
    "ref_id": 644,
@@ -5329,7 +5335,7 @@
    "translationKey": "article-choisir-inspecteur",
    "needs_expert_review": true,
    "id": "t112",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5352,7 +5358,9 @@
      "s": 0.1963,
      "match": "/articles/inspection-preachat-cout-moment-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/choisir-inspecteur-batiment-quebec.md",
+   "date": "2026-08-26"
   },
   {
    "ref_id": 134,
@@ -6086,7 +6094,7 @@
    "translationKey": "article-contrat-courtage-vente",
    "needs_expert_review": true,
    "id": "t128",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -6109,7 +6117,9 @@
      "s": 0.1235,
      "match": "/articles/bidding-wars-truth-montreal/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/contrat-courtage-vente-quebec.md",
+   "date": "2026-09-02"
   },
   {
    "ref_id": 28,

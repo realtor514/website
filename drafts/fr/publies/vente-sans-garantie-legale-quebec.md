@@ -39,8 +39,8 @@ la garantie.
 ## Sans garantie légale de qualité ou aux risques et périls : deux clauses différentes
 
 L'article 1732 permet aux parties d'ajouter aux obligations de la garantie
-légale, d'en diminuer les effets ou de l'exclure entièrement. Une seule limite,
-absolue : le vendeur ne peut, en aucun cas, se dégager de ses faits personnels.
+légale, d'en diminuer les effets ou de l'exclure entièrement. Une seule limite :
+le vendeur ne peut, en aucun cas, se dégager de ses faits personnels.
 
 L'article 1733 se lit deux fois. Premier alinéa : le vendeur ne peut exclure ni
 limiter sa responsabilité s'il n'a pas révélé les vices qu'il connaissait ou ne
