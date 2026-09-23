@@ -6,7 +6,7 @@ translationKey: "article-cout-entretien-maison"
 category: "Practical Guide"
 description: "Service life by component, what the climate adds, how to size the annual reserve: what home maintenance really costs in Quebec, and above all when the bill lands."
 image: "images/articles/cout-entretien-maison-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 The rule is everywhere: set aside 1 to 3 % of your home's value every year for

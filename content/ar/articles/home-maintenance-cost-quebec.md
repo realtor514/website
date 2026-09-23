@@ -6,7 +6,7 @@ translationKey: "article-cout-entretien-maison"
 category: "دليل عملي"
 description: "العمر الافتراضي لكل عنصر، وأثر المناخ، والاحتياطي السنوي: ما تكلّفه صيانة منزل في كيبيك فعلاً، وقبل كل شيء متى تصل الفاتورة."
 image: "images/articles/cout-entretien-maison-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 القاعدة متداولة في كل مكان: خصّص كل سنة ما بين 1% و3% من قيمة منزلك للصيانة.
