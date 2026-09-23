@@ -13,8 +13,10 @@ Ne jamais executer plusieurs points d'un coup sans confirmation.
 Ajouter une page ou section "Alerte immobiliere" avec un formulaire permettant aux acheteurs d'etre avises par courriel des nouvelles inscriptions selon leurs criteres. Service gratuit et confidentiel. Inspirer du texte suivant: "Soyez informes des nouvelles inscriptions de residences a vendre. Notre alerte immobiliere offre la possibilite aux acheteurs d'etre avises rapidement des nouvelles inscriptions sur le marche selon vos criteres prealablement etablis. Les resultats vous seront achemines par courriel."
 **Status:** pending
 
-## Point 8 - Rappel immediat des leads vendeurs
-Faire en sorte qu'un lead vendeur declenche une alerte sur le telephone de Georges en moins de cinq minutes, pas seulement un courriel. Un vendeur rappele dans les minutes qui suivent sa demande se convertit plusieurs fois mieux qu'un vendeur rappele une heure plus tard. C'est le levier le plus rentable du site et il ne coute presque rien.
+## Point 8 - Separer et etiqueter les leads vendeurs
+Faire en sorte qu'un lead vendeur se distingue d'un lead acheteur des la boite de reception, sans avoir a ouvrir le courriel.
+
+Decision de Georges, 23 septembre 2026: pas de sonnerie dediee sur le telephone, et les filtres ne doivent pas piloter la marque important de Gmail. Le but retenu est donc le tri visuel, pas l'alerte. Ne pas reproposer de notification par telephone sans qu'il le demande.
 Fait cote site: les deux sources de leads vendeurs marquent maintenant leur objet du prefixe "VENDEUR".
 - Le modal des calculatrices: l'estimation de propriete envoie "VENDEUR - estimation de propriete - georgesmatar.ca"
 - Le formulaire principal: les intentions "vendre" et "faire evaluer" envoient "VENDEUR - vendre - ..." et "VENDEUR - evaluation - ..."
