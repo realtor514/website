@@ -1,12 +1,12 @@
 ---
 title: "Conservar o vender una propiedad en Quebec: cinco casos"
 date: 2026-09-09
-lastmod: 2026-09-09
+lastmod: 2026-09-23
 translationKey: "article-garder-ou-vendre"
 category: "Guía del Vendedor"
-description: "Renovación hipotecaria, mantenimiento aplazado, vivienda desocupada, sucesión, cuota especial: cinco casos en los que conservar una propiedad en Quebec cuesta más que venderla."
+description: "Renovación hipotecaria, mantenimiento aplazado, vivienda desocupada, sucesión, cuota especial: cuando conservar cuesta más que vender en Quebec."
 image: "images/articles/garder-ou-vendre-propriete-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Un propietario que duda se dice que conserva "mientras tanto, a ver qué pasa". El problema es que ciertos relojes siguen corriendo durante esa espera. Aquí van cinco situaciones quebequenses en las que la inacción tiene un costo que se puede cifrar, y después la prueba que debe hacer con sus propias cifras.

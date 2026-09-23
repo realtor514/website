@@ -1,12 +1,12 @@
 ---
 title: "Keep or Sell a Property in Quebec: Five Cases"
 date: 2026-09-09
-lastmod: 2026-09-09
+lastmod: 2026-09-23
 translationKey: "article-garder-ou-vendre"
 category: "Seller's Guide"
 description: "Renewal, deferred maintenance, a vacant dwelling, an estate, a special assessment: five cases where keeping a property in Quebec costs more than selling it."
 image: "images/articles/garder-ou-vendre-propriete-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 An owner who is hesitating tells themselves they are holding on "until things become clearer". The trouble is that certain clocks keep running in the meantime. Here are five Quebec situations where doing nothing carries a cost you can put a number on, and then the test to run on your own figures.

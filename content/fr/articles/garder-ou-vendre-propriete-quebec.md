@@ -1,12 +1,12 @@
 ---
 title: "Garder ou vendre une propriété au Québec: cinq cas"
 date: 2026-09-09
-lastmod: 2026-09-09
+lastmod: 2026-09-23
 translationKey: "article-garder-ou-vendre"
 category: "Guide du vendeur"
 description: "Renouvellement, entretien différé, logement vacant, succession, cotisation spéciale: cinq cas où garder une propriété au Québec coûte plus que vendre."
 image: "images/articles/garder-ou-vendre-propriete-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Un propriétaire hésitant se dit qu'il garde « en attendant de voir ». Le problème, c'est que certaines horloges continuent de tourner pendant ce temps-là. Voici cinq situations québécoises où l'inaction a un coût chiffrable, puis le test à faire sur vos propres chiffres.
