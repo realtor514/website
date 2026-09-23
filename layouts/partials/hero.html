@@ -76,8 +76,11 @@
             <span class="hero__trust-num" style="font-size:.85rem">{{ if $isFr }}Ingénieur (PhD){{ else if $isAr }}مهندس (دكتوراه){{ else if $isEs }}Ingeniero (PhD){{ else }}Engineer (PhD){{ end }}</span>
           </div>
           <div class="hero__trust-divider"></div>
+          {{/* Quatre, pas trois: le site et le service existent en francais,
+               anglais, espagnol et arabe. Le chiffre contredisait la phrase
+               juste au-dessus, sur le meme ecran. */}}
           <div class="hero__trust-item">
-            <span class="hero__trust-num">3</span>
+            <span class="hero__trust-num">4</span>
             <span class="hero__trust-label">{{ if $isFr }}Langues{{ else if $isAr }}لغات{{ else if $isEs }}Idiomas{{ else }}Languages{{ end }}</span>
           </div>
           <div class="hero__trust-divider"></div>
@@ -91,15 +94,15 @@
       <div class="hero__visual reveal reveal-delay-1">
         <div class="hero__photo-frame">
           <div class="hero__photo-bg"></div>
+          {{/* Pas de carte sur la photo: elle repetait le nom du titre et le
+               metier de la ligne juste en dessous, deux fois la meme chose
+               sur un seul ecran. Le titre porte le nom, la ligne porte le
+               metier, la photo porte le visage. */}}
           <img
             src="{{ "images/georges-matar.png" | relURL }}"
             alt="Georges Matar"
             class="hero__photo"
           >
-          <div class="hero__photo-card">
-            <span class="hero__photo-card-name">Georges Matar</span>
-            <span class="hero__photo-card-role">{{ .Site.Params.role }}</span>
-          </div>
         </div>
       </div>
 
