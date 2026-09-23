@@ -1,0 +1,72 @@
+{
+ "id": "t112",
+ "slug": "choisir-inspecteur-batiment-quebec",
+ "title": "Choisir un inspecteur en bâtiment au Québec",
+ "target_keyword": "choisir inspecteur en bâtiment quebec",
+ "word_count": 1750,
+ "category": "Guide de l'acheteur",
+ "internal_links": [
+  "/articles/inspection-preachat-cout-moment-quebec/",
+  "/articles/questions-hire-broker/",
+  "/tools/closing-costs/",
+  "/articles/home-inspection-checklist-montreal/",
+  "/articles/red-flags-walk-away-property/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.rbq.gouv.qc.ca/en/you-are/inspector-pre-purchase/obtaining-a-residential-building-inspector-certificate/",
+   "title": "Obtaining a residential building inspector certificate",
+   "publisher": "Régie du bâtiment du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Certificat obligatoire le 1er octobre 2027; catégories 1 et 2 (1 à 6 logements et partie privative, ou tout bâtiment résidentiel); attestation d'études collégiales; conformité à la norme BNQ 3009-500; assurance responsabilité professionnelle de 1 000 000 $ en catégorie 1 et 2 000 000 $ en catégorie 2; renouvellement annuel; voie transitoire du 1er octobre 2024 au 2 août 2027 avec 3 ans d'expérience sur 5 pour la catégorie 1."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/salle-de-presse/les-nouvelles/nouvelles-detail/item/2024-02-28-communique-transaction-immobiliere-le-role-de-linspecteur-en-batiment-bientot-encadre/",
+   "title": "Transaction immobilière: le rôle de l'inspecteur en bâtiment bientôt encadré",
+   "publisher": "Régie du bâtiment du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Règlement adopté par le Conseil des ministres le 14 février 2024, entré en vigueur le 1er octobre 2024, période transitoire de trois ans pendant laquelle un inspecteur déjà en pratique peut continuer sans certificat; norme BNQ 3009-500 élaborée par le BNQ à la demande de la RBQ."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/inspection-preachat/",
+   "title": "L'inspection préachat",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Contenu obligatoire du contrat de service (coordonnées, numéro de certificat, renseignements sur l'assureur, adresse complète du bâtiment, éléments évalués au rapport); le contrat ne peut pas contenir de clause permettant à l'inspecteur de limiter sa responsabilité; montants minimaux d'assurance de 1 000 000 $ et 2 000 000 $; catégories 1 et 2."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/les-clauses-de-limitation-et-dexclusion-de-responsabilite/",
+   "title": "Les clauses de limitation et d'exclusion de responsabilité",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Entre un consommateur et un commerçant, la loi interdit au commerçant de limiter ou d'exclure sa responsabilité; entre particuliers, la clause ne vaut que pour un dommage matériel, à condition d'être connue, claire et acceptée, et ne joue jamais en cas de faute intentionnelle ou de négligence grossière ni pour une blessure physique ou psychologique."
+  },
+  {
+   "url": "https://www.newswire.ca/fr/news-releases/l-oaciq-reagit-a-un-reportage-sur-la-relation-entre-des-inspecteurs-en-batiment-et-certains-courtiers-immobiliers-875092290.html",
+   "title": "L'OACIQ réagit à un reportage sur la relation entre des inspecteurs en bâtiment et certains courtiers immobiliers",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "L'article 81 du Règlement sur les conditions d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur la publicité oblige le courtier qui fournit des références à donner plus d'un nom d'inspecteur; aucune forme de conflit d'intérêts n'est tolérée; les manquements sont passibles de révocation de permis et d'amendes sévères."
+  },
+  {
+   "url": "https://bnq.qc.ca/fr/normalisation/construction/inspection-d-un-batiment-d-habitation.html",
+   "title": "Inspection d'un bâtiment d'habitation, norme BNQ 3009-500",
+   "publisher": "Bureau de normalisation du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Titre exact de la norme, Bâtiment d'habitation, Pratiques pour l'inspection en vue d'une transaction immobilière; élaborée à la demande de la RBQ; elle encadre l'examen attentif des systèmes et composants observables du bâtiment."
+  },
+  {
+   "url": "https://aibq.qc.ca/devenir-membre/",
+   "title": "Devenir membre",
+   "publisher": "Association des inspecteurs en bâtiments du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Conditions du membre régulier de l'AIBQ: attestation d'études collégiales en inspection de bâtiment, assurance responsabilité et erreurs et omissions souscrite par l'entremise du courtier de l'association, minimum de dix heures de formation reconnue par année. Sert à distinguer l'adhésion associative d'un encadrement public."
+  }
+ ],
+ "claims_needing_review": [
+  "Affirmation selon laquelle l'inspecteur en bâtiment n'a aujourd'hui ni ordre professionnel ni titre réservé au Québec: appuyée sur l'absence de tout ordre à l'Office des professions et sur le caractère encore volontaire du certificat RBQ jusqu'au 30 septembre 2027, mais non confirmée par une page officielle citée directement.",
+  "Portée exacte de l'interdiction des clauses de limitation de responsabilité pour un inspecteur NON certifié par la RBQ: le texte s'appuie sur Éducaloi (contrat de service de l'inspecteur certifié) et sur la règle consommateur contre commerçant. Validation juridique recommandée avant publication.",
+  "Le texte indique que le choix final de l'inspecteur appartient à l'acheteur. Formulation à faire valider par la conformité OACIQ."
+ ]
+}
