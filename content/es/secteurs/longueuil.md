@@ -59,3 +59,5 @@ Longueuil es la puerta de entrada de la Rive-Sud y una de las pocas ciudades de 
 La cuenca de compradores viene tanto de la isla como de la Rive-Sud, lo que amplía la comparación. Un comprador que deja Hochelaga compara su propiedad con lo que habría obtenido quedándose en la isla, y esa comparación decide a menudo la oferta.
 
 El análisis comparativo se prepara sin costo. Para comprar, establezca su horquilla real con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) y prevea los [costos de cierre](/es/tools/closing-costs/).
+
+También se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor: hasta 50 000 $ contra los vicios ocultos durante tres años.
