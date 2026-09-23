@@ -59,6 +59,36 @@
    "slug": "comparables-prix-maison-voisin-quebec",
    "keyword": "comparables immobiliers prix maison voisin",
    "state": "in_progress"
+  },
+  {
+   "id": "t13",
+   "slug": "garder-ou-vendre-propriete-quebec",
+   "keyword": "garder ou vendre propriete quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t32",
+   "slug": "vente-sans-garantie-legale-quebec",
+   "keyword": "vente sans garantie legale quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t56",
+   "slug": "location-court-terme-quebec-regles",
+   "keyword": "location court terme airbnb quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t112",
+   "slug": "choisir-inspecteur-batiment-quebec",
+   "keyword": "choisir inspecteur en batiment quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t128",
+   "slug": "contrat-courtage-vente-quebec",
+   "keyword": "contrat de courtage vente quebec",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -71,7 +101,12 @@
   "acheter-zone-inondable-quebec",
   "reduire-facture-chauffage-quebec",
   "arbres-propriete-reglements-quebec",
-  "comparables-prix-maison-voisin-quebec"
+  "comparables-prix-maison-voisin-quebec",
+  "garder-ou-vendre-propriete-quebec",
+  "vente-sans-garantie-legale-quebec",
+  "location-court-terme-quebec-regles",
+  "choisir-inspecteur-batiment-quebec",
+  "contrat-courtage-vente-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -83,7 +118,12 @@
   "acheter zone inondable quebec",
   "reduire facture chauffage quebec",
   "abattage arbre reglement quebec propriete",
-  "comparables immobiliers prix maison voisin"
+  "comparables immobiliers prix maison voisin",
+  "garder ou vendre propriete quebec",
+  "vente sans garantie legale quebec",
+  "location court terme airbnb quebec",
+  "choisir inspecteur en batiment quebec",
+  "contrat de courtage vente quebec"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -95,6 +135,11 @@
   "Acheter en zone inondable au Quebec",
   "Reduire sa facture de chauffage au Quebec",
   "Les arbres, la valeur d une propriete et le droit quebecois",
-  "Pourquoi votre maison ne se compare pas a celle du voisin"
+  "Pourquoi votre maison ne se compare pas a celle du voisin",
+  "Quand garder une propriete devient plus risque que la vendre",
+  "Acheter une maison vendue sans garantie legale au Quebec",
+  "Acheter pour louer a court terme au Quebec: le cadre legal avant le calcul",
+  "Choisir un inspecteur en batiment au Quebec: aucun permis n'est obligatoire",
+  "Le contrat de courtage vente au Quebec: duree, retribution et clause de protection"
  ]
 }

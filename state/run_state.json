@@ -1,6 +1,6 @@
 {
- "run_state": "INTERRUPTED_RATE_LIMIT",
- "current_phase": "PHASE 2: production francaise",
+ "run_state": "RUNNING",
+ "current_phase": "PHASE 2 et 3 en parallele: redaction fr, traduction, publication",
  "session_count": 1,
  "started": "2026-09-23",
  "branch": "auto/blogue-content",
@@ -65,10 +65,11 @@
   "blocked_duplicate": 0,
   "error_retry_later": 5,
   "traduits": {
-   "en": 0,
-   "es": 0,
-   "ar": 0
-  }
+   "en": 5,
+   "es": 5,
+   "ar": 5
+  },
+  "publies": 5
  },
  "reference": {
   "site": "https://rovenapistoli.com/fr/articles",
@@ -77,11 +78,15 @@
   "pages_parcourues": 124,
   "cache_local": "state/reference_cache/, 14 articles, jamais transmis a un agent redacteur"
  },
- "interrupted": {
-  "quand": "2026-09-23 vers 17h00 America/Toronto",
-  "cause": "limite d usage de session, 11 agents coupes en meme temps",
-  "reprise": "la limite se libere a 17h, rien a reparer avant"
- },
  "last_commit": "3489c47",
- "pushed": true
+ "pushed": true,
+ "publication": {
+  "en_ligne": 5,
+  "langues": 4,
+  "fichiers": 20,
+  "verifie_en_direct": true,
+  "url_temoin": "https://georgesmatar.ca/articles/maison-difficile-assurer-quebec/",
+  "hreflang": "verifie, les 4 versions sont reliees"
+ },
+ "posts_par_langue_maintenant": 68
 }

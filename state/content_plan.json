@@ -579,7 +579,7 @@
    ],
    "slug": "garder-ou-vendre-propriete-quebec",
    "translationKey": "article-garder-ou-vendre",
-   "status": "clear",
+   "status": "in_progress",
    "gate1": {
     "slug": {
      "v": "PASS",
@@ -1488,7 +1488,7 @@
    "translationKey": "article-as-is-sale-quebec",
    "needs_expert_review": true,
    "id": "t32",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -2642,7 +2642,7 @@
    "translationKey": "article-short-term-rental-rules",
    "needs_expert_review": true,
    "id": "t56",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -5319,7 +5319,7 @@
    "translationKey": "article-choisir-inspecteur",
    "needs_expert_review": true,
    "id": "t112",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -6076,7 +6076,7 @@
    "translationKey": "article-contrat-courtage-vente",
    "needs_expert_review": true,
    "id": "t128",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
