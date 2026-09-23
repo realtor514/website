@@ -143,19 +143,18 @@ circonstances, ou l'annulation de la vente avec remise de l'immeuble et
 remboursement du prix payé.
 
 Les dommages ont leur propre article. Le 1728 prévoit que si le vendeur
-connaissait le vice caché ou ne pouvait l'ignorer, il est tenu, outre la
-restitution du prix, de réparer le préjudice subi par l'acheteur. Sa
-connaissance ne crée donc pas la garantie, elle en élargit la facture. Pour
-chiffrer une diminution de prix, il faut un repère de valeur avant de
-retrancher le coût des travaux : [l'estimateur de valeur de
-propriété](/tools/home-estimate/) donne le point de départ, l'entrepreneur
-donne le reste.
+connaissait le vice ou ne pouvait l'ignorer, il est tenu, outre la restitution
+du prix, de réparer le préjudice subi. Sa connaissance ne crée donc pas la
+garantie, elle en élargit la facture. Pour chiffrer une diminution de prix, il
+faut un repère de valeur avant de retrancher le coût des travaux :
+[l'estimateur de valeur de propriété](/tools/home-estimate/) donne le point de
+départ, l'entrepreneur donne le reste.
 
 Un dernier élément se vérifie au titre. L'OACIQ rappelle qu'une vente
 antérieure faite « aux risques et périls de l'acheteur » rompt la chaîne de
 transmission des garanties : à partir de là, elles sont réinitialisées. Votre
 recours contre les propriétaires antérieurs dépend donc des actes précédents,
-et le détail des clauses est dans [vente sans garantie légale au
+détaillés dans [vente sans garantie légale au
 Québec](/articles/vente-sans-garantie-legale-quebec/).
 
 ## Trois ans pour agir, et le tribunal qui vous entendra
@@ -170,12 +169,11 @@ première fois. Ces trois ans ne remplacent pas la dénonciation de l'article
 dossiers.
 
 La Cour des petites créances entend les demandes de 15 000 $ ou moins, intérêts
-non compris, et Éducaloi donne justement comme exemple la réclamation du coût
-des travaux au vendeur pour un vice caché. Vous y agissez seul, sans avocat, et
-vous pouvez réduire votre réclamation à 15 000 $ pour y accéder, par exemple si
-les travaux coûtent 21 000 $. Une médiation gratuite y est offerte. Au-delà, il
-faut un avocat, et aucune source officielle ne me permet d'avancer un coût
-moyen pour un recours en vice caché.
+non compris, et Éducaloi donne comme exemple la réclamation du coût des travaux
+au vendeur pour un vice caché. Vous y agissez seul, sans avocat, et vous pouvez
+réduire votre réclamation à 15 000 $ pour y accéder même si les travaux coûtent
+21 000 $. Une médiation gratuite y est offerte. Au-delà, il faut un avocat, et
+aucune source officielle ne me permet d'avancer un coût moyen.
 
 ## La première semaine après la découverte
 
@@ -184,8 +182,8 @@ moyen pour un recours en vice caché.
    non.
 3. **Ressortir vos documents** : rapport d'inspection préachat, Déclarations du
    vendeur sur l'immeuble, acte de vente et sa clause de garantie.
-4. **Écrire au vendeur**, avec preuve de réception, en décrivant le vice, la
-   date de la découverte et votre demande qu'il vienne constater.
+4. **Écrire au vendeur**, avec preuve de réception : le vice, la date de la
+   découverte, votre demande qu'il vienne constater.
 5. **Faire expertiser** par un expert en bâtiment, sur l'antériorité et sur le
    coût des travaux.
 6. **Consulter un avocat ou un notaire** sur la mise en demeure et sur le texte

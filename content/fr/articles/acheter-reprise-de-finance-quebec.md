@@ -1,7 +1,7 @@
 ---
 title: "Acheter une reprise de finance au Québec: les règles"
-date: 2026-09-23
-lastmod: 2026-09-23
+date: 2026-08-24
+lastmod: 2026-08-24
 translationKey: "article-reprise-de-finance"
 category: "Guide de l'acheteur"
 description: "Préavis d'exercice, délai de 60 jours, prise en paiement ou vente sous contrôle de justice: ce que vous acceptez en achetant une reprise de finance."
@@ -96,7 +96,9 @@ propriétaire en dénonçant sa qualité à l'acquéreur.
 La troisième ligne est le point le plus mal compris. Dans une vente sous
 contrôle de justice, l'absence de garantie ne vient pas d'une clause négociable:
 l'article 1731 énonce que cette vente ne donne lieu à aucune obligation de
-garantie de qualité du bien vendu. Il n'y a rien à négocier.
+garantie de qualité du bien vendu. Il n'y a rien à négocier. L'article 2794
+précise par ailleurs qu'elle purge les droits réels dans la mesure prévue au
+Code de procédure civile.
 
 ## Acheter une reprise de finance sans Déclarations du vendeur
 
@@ -107,8 +109,9 @@ un vendeur personne morale, il est seulement fortement recommandé, et cite en
 exemple les institutions financières lors de la reprise d'un immeuble.
 
 Traduisez: le vendeur n'a jamais habité l'immeuble, ne connaît ni l'âge de la
-toiture, ni l'année du drain français, ni l'historique des infiltrations, et rien
-ne l'oblige à remplir le formulaire qui poserait ces questions.
+toiture, ni l'année du drain français, ni l'historique des infiltrations, et la
+loi ne l'oblige pas à remplir le formulaire qui poserait ces questions. Vous
+achetez sans historique.
 
 S'ajoute l'exclusion de garantie. Quand elle passe par une clause, l'article
 1732 permet aux parties d'en diminuer les effets ou de l'exclure entièrement, et
@@ -121,9 +124,9 @@ complet est dans [la vente sans garantie légale au
 Québec](/articles/vente-sans-garantie-legale-quebec/).
 
 L'OACIQ tire des arrêts Blais c. Laforce et Tremblay c. Immeubles Perron ltée
-une conséquence nette: l'acheteur qui achète avec exclusion complète ne pourra
+une conséquence claire: l'acheteur qui achète avec exclusion complète ne pourra
 pas se retourner contre les précédents propriétaires, même si ceux-ci avaient
-vendu avec la garantie légale.
+vendu avec la garantie légale. La chaîne est coupée.
 
 ## État du bâtiment, charges de copropriété et occupants
 
@@ -147,8 +150,8 @@ prévoyance](/articles/condo-fees-investment-killer/).
 **L'ancien propriétaire peut encore être là.** L'article 2765 prévoit que le
 tribunal ordonne le délaissement forcé après avoir constaté la créance, le
 défaut, le refus de délaisser volontairement et l'absence de cause valable
-d'opposition, et que le jugement en fixe le délai et la manière. Posez la
-question de l'occupation avant de signer.
+d'opposition, et que le jugement fixe le délai et la manière. Posez la question
+de l'occupation avant de signer, et faites inscrire la réponse dans la promesse.
 
 ## Inspection, assurance et financement d'une reprise de finance
 
@@ -192,8 +195,9 @@ compare alors plus à des travaux connus, mais à un risque ouvert.
 
 **Est-ce que je peux acheter pendant le délai de 60 jours?** Le propriétaire
 reste propriétaire tant que le bien n'a pas été pris en paiement ou vendu, et
-l'article 2761 lui permet de faire échec au recours. Tant que rien n'est conclu,
-votre offre vise une vente ordinaire, pas une reprise.
+l'article 2761 lui permet de faire échec au recours en payant ce qui est dû et
+les frais. Tant que rien n'est conclu, votre offre vise une vente ordinaire, pas
+une reprise.
 
 **La banque doit-elle me remettre une déclaration du vendeur?** Pas
 obligatoirement. L'OACIQ précise que pour un vendeur personne morale, le
@@ -207,10 +211,10 @@ procédure civile. Ce n'est pas une garantie générale de titre propre: c'est
 exactement ce que l'examen des titres par le notaire doit confirmer avant la
 signature.
 
-**Puis-je mettre une condition d'inspection dans mon offre?** Rien ne l'interdit,
-mais les conditions de vente sont fixées par le vendeur, et par le tribunal dans
-une vente sous contrôle de justice, selon l'article 2791. Demandez-les avant de
-rédiger.
+**Puis-je mettre une condition d'inspection dans mon offre?** Rien dans le Code
+civil ne l'interdit, mais les conditions de vente sont fixées par le vendeur, et
+par le tribunal dans une vente sous contrôle de justice, selon l'article 2791.
+Demandez ces conditions avant de rédiger.
 
 Pour compléter, lisez [se retirer d'une propriété: sept signaux qui se vérifient
 sur papier](/articles/red-flags-walk-away-property/) et [la vente sans garantie

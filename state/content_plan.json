@@ -501,7 +501,7 @@
    ],
    "slug": "bruit-maison-condo-quebec",
    "translationKey": "article-bruit-maison-condo",
-   "status": "in_progress",
+   "status": "written_draft",
    "gate1": {
     "slug": {
      "v": "PASS",
@@ -523,7 +523,9 @@
      "s": 0.1117,
      "match": "/articles/renovation-condo-copropriete-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/bruit-maison-condo-quebec.md",
+   "date": "2026-08-30"
   },
   {
    "id": "t12",
@@ -3330,7 +3332,7 @@
    "translationKey": "article-ventre-de-boeuf",
    "needs_expert_review": false,
    "id": "t70",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -3353,7 +3355,9 @@
      "s": 0.0732,
      "match": "/articles/guide-nouveaux-arrivants-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/ventre-de-boeuf-drain-montreal.md",
+   "date": "2026-09-17"
   },
   {
    "ref_id": 521,
@@ -4146,7 +4150,7 @@
    "translationKey": "article-indivise-cooperative",
    "needs_expert_review": true,
    "id": "t87",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -4169,7 +4173,9 @@
      "s": 0.1408,
      "match": "/articles/condo-vs-house-montreal/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/copropriete-indivise-cooperative-montreal.md",
+   "date": "2026-09-11"
   },
   {
    "ref_id": 374,
@@ -4530,7 +4536,7 @@
    "translationKey": "article-reprise-de-finance",
    "needs_expert_review": true,
    "id": "t95",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -4553,7 +4559,9 @@
      "s": 0.1517,
      "match": "/articles/vente-sans-garantie-legale-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/acheter-reprise-de-finance-quebec.md",
+   "date": "2026-08-24"
   },
   {
    "ref_id": 308,
@@ -6579,7 +6587,7 @@
    "translationKey": "article-casser-hypotheque",
    "needs_expert_review": true,
    "id": "t138",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -6602,7 +6610,9 @@
      "s": 0.2626,
      "match": "/articles/refinancement-hypothecaire-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/casser-hypotheque-penalite-quebec.md",
+   "date": "2026-09-05"
   },
   {
    "ref_id": 965,
@@ -7923,7 +7933,7 @@
    "translationKey": "article-vice-cache-recours",
    "needs_expert_review": true,
    "id": "t166",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -7946,7 +7956,9 @@
      "s": 0.1163,
      "match": "/articles/cout-reel-vendre-maison-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/vice-cache-conditions-recours-quebec.md",
+   "date": "2026-09-23"
   },
   {
    "ref_id": 694,

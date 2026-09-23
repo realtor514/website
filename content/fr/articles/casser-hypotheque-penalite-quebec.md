@@ -1,7 +1,7 @@
 ---
 title: "Pénalité pour casser une hypothèque : le calcul au Québec"
-date: 2026-09-23
-lastmod: 2026-09-23
+date: 2026-09-05
+lastmod: 2026-09-05
 translationKey: "article-casser-hypotheque"
 category: "Financement"
 description: "Trois mois d'intérêts ou différentiel de taux, taux affiché contre taux consenti, quittance et Registre foncier : le calcul réel au Québec."
@@ -110,27 +110,26 @@ dans [ce qui se décide avant votre taux hypothécaire](/articles/best-mortgage-
 **Les deux produits ne sont pas pénalisés de la même façon, mais pas pour la
 raison qu'on répète.** La SCHL définit le prêt à taux fixe comme celui dont le
 taux ne change pas pendant le terme, et le prêt à taux variable comme celui dont
-le taux fluctue selon la conjoncture du marché financier.
-
-Or le différentiel compare les intérêts restants à deux taux fixés pour la durée
-qui reste. Sur un prêt à taux variable, votre taux n'est justement pas fixé pour
-cette durée, ce qui prive la formule de son terme de comparaison. Beaucoup de
-contrats à taux variable prévoient donc les trois mois d'intérêts.
+le taux fluctue selon la conjoncture du marché financier. Or le différentiel
+compare les intérêts restants à deux taux fixés pour la durée qui reste. Sur un
+taux variable, votre taux n'est justement pas fixé, ce qui prive la formule de son
+terme de comparaison. Beaucoup de contrats à taux variable prévoient donc les
+trois mois d'intérêts.
 
 Ce que je ne peux pas faire, c'est vous le présenter comme une règle générale.
 L'ACFC ne publie aucun barème distinct pour le taux variable, et son exemple
-d'encadré informatif pour un prêt à taux variable reprend la même formulation que
-celui du taux fixe : le plus élevé des deux montants. C'est donc votre contrat qui
-tranche, pas la réputation du produit.
+d'encadré informatif pour ce produit reprend la même formulation que celui du taux
+fixe : le plus élevé des deux montants. C'est votre contrat qui tranche, pas la
+réputation du produit.
 
 ## Les frais québécois : acte notarié, quittance et radiation
 
-**Changer de prêteur au Québec passe obligatoirement par un officier public.** Le
-gouvernement du Québec indique que les inscriptions au Registre foncier sont
-généralement effectuées par un notaire ou un avocat, et que la vente, l'hypothèque
-et la radiation d'hypothèque figurent parmi les actes courants qui y sont publiés.
-Votre nouveau prêteur veut une garantie publiée : un acte reçu devant notaire,
-puis inscrit.
+**Changer de prêteur au Québec passe par un officier public.** Le gouvernement du
+Québec indique que les inscriptions au Registre foncier sont généralement
+effectuées par un notaire ou un avocat, et que la vente, l'hypothèque et la
+radiation d'hypothèque figurent parmi les actes courants qui y sont publiés. Votre
+nouveau prêteur veut une garantie publiée : un acte reçu devant notaire, puis
+inscrit.
 
 **Et l'ancienne hypothèque ne disparaît pas toute seule.** Toujours selon le
 gouvernement du Québec, la radiation n'est pas automatique, elle se demande, et
@@ -151,7 +150,7 @@ vigueur depuis le 1er avril 2026.
 
 Le reste n'est pas tarifé. Les honoraires du notaire ne sont fixés par aucun
 barème public : demandez-les par écrit avant de mandater qui que ce soit. Sur le
-déroulement complet chez l'officier public, voyez
+déroulement complet, voyez
 [le rôle du notaire au Québec](/articles/quebec-notary-process/).
 
 Additionnez maintenant. Pénalité, frais d'administration, d'évaluation, de

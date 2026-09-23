@@ -1,0 +1,107 @@
+{
+ "id": "t11",
+ "slug": "bruit-maison-condo-quebec",
+ "title": "Bruit et insonorisation en condo au Québec : quoi vérifier",
+ "target_keyword": "bruit condo insonorisation quebec",
+ "word_count": 1798,
+ "category": "Guide de l'acheteur",
+ "internal_links": [
+  "/articles/condo-fees-investment-killer/",
+  "/courtier-immobilier/laval/",
+  "/articles/first-visit-property-checklist/",
+  "/articles/condo-vs-house-montreal/",
+  "/articles/home-inspection-checklist-montreal/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, RLRQ c CCQ-1991, articles 976, 1053, 1057, 1063, 1080, 1854, 1860 et 1861",
+   "publisher": "Légis Québec",
+   "consulted": "2026-09-23",
+   "supports": "Texte exact de l'article 976 sur les inconvénients normaux du voisinage, cité entre guillemets. Articles 1053, 1057 et 1063 sur la déclaration de copropriété, le règlement de l'immeuble et son opposabilité à l'occupant, qui encadrent la clause de couvre-plancher. Article 1080 sur l'injonction et la vente de la fraction. Articles 1854, 1860 et 1861 sur la jouissance paisible, le trouble causé par un autre locataire, la diminution de loyer et la résiliation."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/domaines-dintervention/batiment/la-reglementation/chapitre-batiment-du-code-de-construction/chapitre-batiment-du-code-de-construction-du-quebec-incluant-le-cnb-2020/",
+   "title": "Chapitre Bâtiment du Code de construction du Québec incluant le CNB 2020",
+   "publisher": "Régie du bâtiment du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Entrée en vigueur du chapitre I, Bâtiment, fondé sur le CNB 2020 modifié Québec le 17 avril 2025, et existence d'une période transitoire. La page d'accueil du même site annonce la prolongation de cette période transitoire."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/domaines-dintervention/batiment/la-reglementation/chapitre-batiment-du-code-de-construction/chapitre-batiment-du-code-de-construction-du-quebec-en-vigueur-de-2021-a-2025/",
+   "title": "Chapitre Bâtiment du Code de construction du Québec en vigueur de 2021 à 2025",
+   "publisher": "Régie du bâtiment du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Édition fondée sur le CNB 2015 modifié Québec en vigueur depuis le 8 janvier 2022, et objectif annoncé d'améliorer l'insonorité dans les logements par l'introduction de l'indice de transmission du son apparent (ITSA)."
+  },
+  {
+   "url": "https://www.garantiegcr.com/app/uploads/2022/02/ft-9-11--01-220222.pdf",
+   "title": "Fiche technique GCR FT-9.11.-01, Isolement acoustique : indice de transmission du son (ITS) et indice de transmission du son apparent (ITSA)",
+   "publisher": "Garantie de construction résidentielle, partie réglementaire approuvée par la Régie du bâtiment du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Deux options de conformité au Code : ITS sous réserve de constructions contiguës conformes à 9.11.1.4, ou ITSA. L'ITS ne tient compte que des parcours directs, l'ITSA des parcours directs et indirects. Exigences aux sections 9.11 et 5.8 du Code. La fiche précise qu'elle vise uniquement les sons aériens."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/gouvernement/MCE/dossiers-soumis-conseil-ministres/code_construction_batiment_ode_securite_batiment_memoire.PDF",
+   "title": "Mémoire au Conseil des ministres, projets de règlement modifiant le Code de construction et le Code de sécurité",
+   "publisher": "Gouvernement du Québec, ministère du Conseil exécutif",
+   "consulted": "2026-09-23",
+   "supports": "L'édition 2015 du CNB introduit l'indice de transmission du son apparent (ITSA), qui permet d'évaluer la conformité des bâtiments avec les exigences minimales de protection contre le bruit entre les logements."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/transports/ministere-des-transports/publications-amd/Politiques_ministerielles/PO_politique_bruit.pdf",
+   "title": "Politique de gestion du bruit routier, mars 2025",
+   "publisher": "Ministère des Transports et de la Mobilité durable du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Adoption de l'indicateur Lden, seuil d'intervention de 65 dBA Lden au rez-de-chaussée ou au premier étage pour les infrastructures routières existantes, niveau reconnu acceptable de 55 dBA Lden, et conditions de l'approche corrective : permis délivré avant mars 1998 et zone d'au moins 10 unités d'habitation."
+  },
+  {
+   "url": "https://tc.canada.ca/fr/aviation/exploitation-aeroports-aerodromes/gestion-bruit-aeronefs/prevision-ambiance-sonore-nef",
+   "title": "Prévision de l'ambiance sonore (NEF)",
+   "publisher": "Transports Canada",
+   "consulted": "2026-09-23",
+   "supports": "Seuils des courbes NEF : tout niveau supérieur à 25 dérangera fort probablement, Transports Canada déconseille les nouveaux aménagements résidentiels au delà de 30, et au dessus de 35 les plaintes sont vraisemblablement nombreuses."
+  },
+  {
+   "url": "https://ocpm.qc.ca/sites/default/files/pdf/P132/5-12_COD%20PMR%20RRVM-%20B-3%202024-10-08.pdf",
+   "title": "Règlement sur le bruit, R.R.V.M. c. B-3, codification administrative à l'égard du territoire du Plateau-Mont-Royal, 8 octobre 2024",
+   "publisher": "Ville de Montréal, arrondissement du Plateau-Mont-Royal",
+   "consulted": "2026-09-23",
+   "supports": "Article 2 : le bruit dépassant le maximum fixé par ordonnance ou spécifiquement prohibé constitue une nuisance. Article 9 : bruits spécifiquement prohibés lorsqu'ils s'entendent à l'extérieur ou dans un autre local, dont les appareils sonores, les cris et le tapage, et les instruments de musique entre 21 h et 8 h, en tout temps pour les instruments à percussion ou électriques."
+  },
+  {
+   "url": "https://montreal.ca/demarches/porter-plainte-pour-du-bruit-de-voisinage",
+   "title": "Porter plainte pour du bruit de voisinage",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-23",
+   "supports": "La plainte de bruit de voisinage passe par le 311 ou le poste de quartier selon l'arrondissement, et les règles varient d'un arrondissement à l'autre."
+  },
+  {
+   "url": "https://www.laval.ca/wp-content/uploads/2025/05/nuisances.pdf",
+   "title": "Guide du bon voisinage, réglementation municipale relative aux nuisances environnementales, règlement L-12084",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-23",
+   "supports": "Numéro du règlement lavallois sur les nuisances et heures tolérées pour les travaux de construction et de rénovation : la semaine de 7 h à 19 h, le samedi de 9 h à 17 h."
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/fr/le-logement/bruit",
+   "title": "Bruit",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-09-23",
+   "supports": "Droit à la jouissance paisible des lieux, démarche attendue du locataire dérangé : noter les dates et les heures, parler au voisin, envoyer une mise en demeure par courrier recommandé avec un délai, puis présenter une preuve et des témoins à l'audience. Recours possibles : résiliation du bail, diminution de loyer, dommages."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/les-troubles-de-voisinage/",
+   "title": "Les troubles de voisinage",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Le trouble de voisinage doit être continu ou répétitif et sérieux, et s'apprécie selon le milieu. Démarche progressive : discussion, mise en demeure, puis recours judiciaire."
+  }
+ ],
+ "claims_needing_review": [
+  "La valeur chiffrée minimale de l'ITS et de l'ITSA exigée par le chapitre I, Bâtiment, n'a pas pu être confirmée dans une source primaire ouverte pendant la rédaction. L'article décrit donc le principe (deux options de conformité, parcours directs contre parcours directs et indirects, portée limitée aux sons aériens) et renvoie explicitement le lecteur à la RBQ ou à un acousticien plutôt que d'avancer un nombre.",
+  "La codification du Règlement sur le bruit R.R.V.M. c. B-3 consultée est celle de l'arrondissement du Plateau-Mont-Royal. L'article le dit explicitement, car les arrondissements montréalais appliquent des versions différentes.",
+  "Le lien interne vers la page de secteur de Laval utilise /courtier-immobilier/laval/, soit l'URL réellement publiée par le front matter de content/fr/secteurs/laval.md, et non /secteurs/laval/ tel qu'écrit dans state/internal_links_fr.md."
+ ]
+}
