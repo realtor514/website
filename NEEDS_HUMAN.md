@@ -34,12 +34,19 @@ build en local: `winget install Hugo.Hugo.Extended`, puis
 4 langues. La production commence par le francais, les traductions suivent en
 phase 3.
 
-**Le risque est neutralise.** Tous les nouveaux articles sont en `draft: true`,
-donc invisibles sur le site. De plus, `tools/approve.py` **refuse** de publier un
-article francais tant que les versions en, es et ar n existent pas. Il faut
-`--fr-seulement` pour passer outre, volontairement.
+**La regle est tenue.** Aucun article n est passe en ligne avant que ses quatre
+versions existent. `tools/approve.py` **refuse** de publier un article francais
+tant que les versions en, es et ar manquent, et il faut `--fr-seulement` pour
+passer outre, volontairement. Rien n a eu besoin de cette option.
 
-Aucune action requise tant que vous publiez avec `tools/approve.py`.
+Verifiable a tout moment:
+
+```
+python tools/status.py --nouveaux
+```
+
+La colonne `langues` affiche `frenesar` quand les quatre versions sont la, et
+un point a la place d une langue manquante.
 
 ---
 
@@ -116,9 +123,43 @@ python tools/approve.py approve conjoints-de-fait-maison-quebec
 Pour retirer un article publie, l inverse n existe pas dans approve.py: mettez
 `draft: true` dans les 4 fichiers, puis commit et push.
 
-## 6. Sujets parques ou deja couverts
+### Une contradiction entre un nouvel article et un ancien
 
-Aucun pour l instant. La porte 1 a classe les 14 premiers sujets en `clear`.
+Sur la voie transitoire des inspecteurs en batiment, le nouvel article
+`choisir-inspecteur-batiment-quebec` parle de trois ans d experience dans les
+cinq dernieres annees plus une preuve d assurance. L article deja en ligne
+`content/en/articles/home-inspection-checklist-montreal.md` parle, lui, d un
+cours de mise a niveau. Les deux ne peuvent pas etre exacts en meme temps.
 
-Cette section listera: le sujet, l article existant le plus proche, et le score
-de similarite qui a motive la decision.
+Le nouvel article est source et recent, l ancien ne l est pas forcement. Je n ai
+pas touche a l ancien: la regle du projet est de ne jamais modifier l existant.
+C est a trancher, puis a corriger dans les 4 langues de l article concerne.
+
+### Deux limites assumees par les redacteurs
+
+- `acheter-zone-inondable-quebec`: les interdictions de construction par classe
+  n ont pas ete detaillees, parce que LegisQuebec bloquait la lecture du
+  reglement et que l agent a refuse de le paraphraser de memoire. C est la
+  bonne decision. Si vous voulez ce detail, il faut lire le reglement.
+- `choisir-inspecteur-batiment-quebec`: l affirmation qu aucun ordre
+  professionnel n encadre les inspecteurs repose sur l absence d ordre plus le
+  caractere encore volontaire du certificat, pas sur une page qui l affirme
+  noir sur blanc.
+
+---
+
+## 6. Sujets bloques par la porte anti-doublon
+
+La porte 1 a refuse trois sujets proposes par les planificateurs, chacun parce
+qu un article couvrait deja le terrain. C est le comportement attendu, rien a
+corriger. La liste est dans `state/content_plan.json`, statut `already_covered`.
+
+| Sujet propose | Bloque parce que |
+|---|---|
+| `maison-difficile-a-assurer-quebec` | doublon de l article ecrit le meme jour |
+| `preparer-refinancement-hypothecaire-quebec` | doublon de l article ecrit le meme jour |
+| `declarations-vendeur-formulaire-quebec` | doublon de `declaration-du-vendeur-quebec` |
+
+Deux planificateurs differents ont propose les memes sujets sans le savoir,
+puisqu ils travaillaient sur des tranches separees du catalogue de reference.
+La porte les a rattrapes au moment de la reclamation.
