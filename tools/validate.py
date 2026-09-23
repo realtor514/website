@@ -190,7 +190,11 @@ def check(path):
             if target[len(prefix):].rstrip("/") not in slugs:
                 errors.append("lien mort: %s" % target)
         elif target not in valid and target.rstrip("/") + "/" not in valid:
-            warnings.append("lien non verifie: %s" % target)
+            # section_paths enumere toutes les pages reelles, y compris les url:
+            # declarees en front matter. Une cible absente est donc un lien mort,
+            # pas un doute. Cas vecu: /secteurs/laval/ n existe pas, la page
+            # s appelle /courtier-immobilier/laval/.
+            errors.append("lien mort: %s" % target)
 
     if FORM_PATH[lang] not in body:
         errors.append("aucun appel a l action vers %s" % FORM_PATH[lang])

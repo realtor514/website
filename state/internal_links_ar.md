@@ -79,5 +79,5 @@ Copy these paths exactly. A link to a file that does not exist fails the build c
 - /ar/tools/home-estimate/
 - /ar/tools/rent-vs-buy/
 - /ar/tools/welcome-tax/
-- /ar/secteurs/laval/
-- /ar/secteurs/montreal/
+- /ar/wasit-aqari/laval/
+- /ar/wasit-aqari/montreal/

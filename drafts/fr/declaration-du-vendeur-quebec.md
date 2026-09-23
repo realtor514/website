@@ -11,10 +11,10 @@ draft: true
 ---
 
 Beaucoup de vendeurs remplissent les Déclarations du vendeur sur l'immeuble en
-quinze minutes, en cochant « non » partout. C'est pourtant le document le plus
-lourd de conséquences qu'ils signeront avant l'acte notarié : il s'annexe à la
-promesse d'achat et devient une pièce du contrat. Voici ce qu'il demande
-réellement, et pourquoi l'honnêteté protège d'abord le vendeur.
+quinze minutes, en cochant « non » partout. C'est le document le plus lourd de
+conséquences qu'ils signeront avant l'acte notarié : il s'annexe à la promesse
+d'achat et devient une pièce du contrat. Voici ce qu'il demande vraiment, et
+pourquoi l'honnêteté protège d'abord le vendeur.
 
 ## Un formulaire obligatoire qui devient une pièce du contrat
 
@@ -23,20 +23,20 @@ depuis juillet 2012. L'OACIQ l'impose pour la vente, par une personne physique,
 de tout immeuble principalement résidentiel de moins de 5 logements, y compris
 en copropriété par indivision. Pour une copropriété divise, c'est le formulaire
 DVD. La version en vigueur porte la mention DV 00001 et le numéro V24 06/2022 :
-treize pages, seize sections numérotées de D1 à D16.
+treize pages, seize sections, D1 à D16.
 
-Le courtier doit le remplir conjointement avec le vendeur au moment de la prise
-du contrat de courtage et le lui faire signer. L'OACIQ est explicite sur le
-refus : si le vendeur refuse de le remplir et de le signer, ou s'il inscrit « Je
-refuse de remplir le formulaire » tout en le signant, le courtier ne peut tout
-simplement pas conclure de contrat de courtage avec lui.
+Le courtier doit le remplir conjointement avec le vendeur à la prise du contrat
+de courtage et le lui faire signer. L'OACIQ est explicite sur le refus : si le
+vendeur refuse de le remplir et de le signer, ou s'il inscrit « Je refuse de
+remplir le formulaire » tout en le signant, le courtier ne peut tout simplement
+pas conclure de contrat de courtage avec lui.
 
 Vient ensuite la partie que peu de vendeurs anticipent. Porté à la connaissance
 de l'acheteur, le formulaire est annexé et identifié à la clause 13.1 de la
-Promesse d'achat. Il en fait donc partie intégrante, au même titre que le prix.
-Il est transmis au prêteur hypothécaire et remis à tout inspecteur qui le
-demande. En signant la section D16, le vendeur s'engage en plus à aviser son
-courtier de toute information obtenue après la signature.
+Promesse d'achat : il en fait partie intégrante, au même titre que le prix. Il
+est transmis au prêteur hypothécaire et remis à tout inspecteur qui le demande.
+En signant la section D16, le vendeur s'engage en plus à aviser son courtier de
+toute information obtenue après la signature.
 
 ## Les seize sections de la déclaration du vendeur
 
@@ -57,11 +57,7 @@ courtier de toute information obtenue après la signature.
 | D13 Inspections et expertises | pyrite, pyrrhotite, radon, MIUF, amiante, eau |
 | D14 Autres informations | sinistres, mort violente, travaux importants et permis |
 | D15 Précisions | le numéro de la clause et l'explication |
-| D16 Signatures | vendeur, témoins, accusé de réception de l'acheteur |
-
-La section D2 est celle qu'on survole le plus vite, et c'est une erreur : D2.8
-couvre les hypothèques, les servitudes et les empiètements, D2.9 les limitations
-de droit public, D2.13 et D2.14 les refus d'un assureur.
+| D16 Signatures | vendeur, témoins, accusé de réception |
 
 ## Ce que vous savez, et ce que vous ne pouvez pas ignorer
 
@@ -77,16 +73,16 @@ l'eau chaque printemps, une auréole au plafond repeinte trois fois : personne n
 soutient sérieusement n'avoir rien remarqué.
 
 Un mot sur les litiges, parce que la croyance est répandue. Le DV ne pose aucune
-question générale du type « avez-vous un litige en cours ». Il demande si vous
-avez un dossier au Tribunal administratif du logement lié à l'immeuble (D2.6 f),
-si vous avez reçu un avis de non-conformité (D2.12), puis il se termine par une
-question ouverte, D14.5 : d'autres éléments pourraient-ils avoir un impact sur
-la valeur, les revenus, les dépenses ou l'usage de l'immeuble. Une poursuite
-contre un entrepreneur se déclare là, et se détaille en D15.
+question générale du type « avez-vous un litige en cours ». Il demande un
+dossier ouvert au Tribunal administratif du logement (D2.6 f), un avis de
+non-conformité reçu (D2.12), puis se termine par une question ouverte, D14.5 :
+d'autres éléments pourraient-ils avoir un impact sur la valeur, les revenus, les
+dépenses ou l'usage de l'immeuble. Une poursuite contre un entrepreneur ou une
+servitude (D2.8) se traitent là.
 
 Le courtier n'est pas spectateur. L'article 84 du Règlement sur les conditions
 d'exercice d'une opération de courtage l'oblige à chercher les facteurs pouvant
-affecter défavorablement les parties, et l'article 85 à les en informer.
+affecter défavorablement les parties, et l'article 85 à les divulguer.
 
 ## Réservoir de mazout, pyrite, vermiculite : où les réponses dérapent
 
@@ -97,14 +93,14 @@ Un réservoir retiré il y a douze ans se déclare quand même.
 
 **La vermiculite.** Elle est nommée deux fois. D7.4 demande si des matériaux
 pouvant contenir de l'amiante ont déjà été utilisés, et la vermiculite ouvre la
-liste. D8.5 demande le type d'isolant dans le comble, où elle figure aussi.
+liste. Elle revient en D8.5, parmi les isolants du comble.
 
 **La pyrite et la pyrrhotite.** Le formulaire ne demande pas ce que la plupart
 des gens croient : il n'existe pas de question « votre dalle contient-elle de la
 pyrite ». D13.2 demande si des tests ou des expertises ont été effectués, et
 nomme la pyrite, la pyrrhotite, le radon, le dépôt d'ocre, la mousse isolante
 d'urée-formaldéhyde, l'amiante et le drain de fondation. Si oui, pouvez-vous
-fournir les documents, et sinon, pourquoi, et quelle problématique l'expertise a
+fournir les documents, et sinon, pourquoi, et quelle problématique ils ont
 révélée. Cocher « non » alors qu'un rapport dort dans un classeur, c'est le
 scénario qui se plaide.
 
@@ -112,10 +108,9 @@ scénario qui se plaide.
 effectués, puis si des plans et devis ont été préparés et si les permis requis
 ont été émis pour chacun. Le formulaire prévient aussi qu'un nouveau certificat
 de localisation pourrait être requis après l'ajout d'une piscine, d'un cabanon
-ou d'une clôture (D2.11). C'est ce que l'inspecteur de l'acheteur vérifiera sur
-place, comme le détaille [la liste de l'inspection
-préachat](/articles/home-inspection-checklist-montreal/). Ce que je demande à un
-vendeur avant de m'asseoir avec lui est sur [la page vendeur](/seller/).
+ou d'une clôture (D2.11). C'est ce que vérifiera [l'inspecteur de
+l'acheteur](/articles/home-inspection-checklist-montreal/). Ce que je demande à
+un vendeur avant de m'asseoir avec lui est sur [la page vendeur](/seller/).
 
 ## Sans garantie légale, une fausse déclaration du vendeur reste attaquable
 
@@ -123,87 +118,83 @@ L'article 1726 oblige le vendeur à garantir que le bien est exempt de vices
 cachés. L'article 1732 permet d'exclure cette garantie, mais ajoute que le
 vendeur ne peut, en aucun cas, se dégager de ses faits personnels. L'article
 1733 lui interdit d'exclure sa responsabilité s'il n'a pas révélé les vices
-qu'il connaissait ou ne pouvait ignorer, sauf lorsque l'acheteur achète à ses
-risques et périls d'un vendeur non professionnel.
+qu'il connaissait ou ne pouvait ignorer, sauf si l'acheteur achète à ses risques
+et périls d'un vendeur non professionnel.
 
 Cette exception a pris du poids. Dans Tremblay c. Immeubles Perron ltée, 2024
 QCCA 719, la Cour d'appel a confirmé l'orientation de Blais c. Laforce, rendue
 en 2022. L'OACIQ en résume les principes : la clause d'exclusion totale impute à
 l'acheteur une connaissance présumée des vices, et celui qui l'accepte ne pourra
 pas non plus poursuivre les propriétaires antérieurs. Surtout, le seul silence
-du vendeur sur un vice connu ne constitue plus un dol dans une vente aux risques
-et périls : l'acheteur doit prouver un mensonge, une demi-vérité ou une manœuvre
-frauduleuse.
+du vendeur sur un vice connu ne constitue plus un dol : l'acheteur doit prouver
+un mensonge, une demi-vérité ou une manœuvre frauduleuse.
 
 Lu vite, cela semble récompenser le vendeur qui se tait. Sauf que le silence
 n'existe pas ici : le vendeur a treize pages de questions écrites devant lui, et
 chaque « non » est une réponse. Une réponse sciemment inexacte est un fait
 personnel, donc hors de portée de la clause d'exclusion, et elle tombe sous
-l'article 1401 : l'erreur provoquée par le dol de l'autre partie vicie le
-consentement chaque fois que, sans cela, la partie n'aurait pas contracté ou
-aurait contracté à des conditions différentes.
+l'article 1401 : l'erreur provoquée par le dol vicie le consentement chaque fois
+que, sans cela, la partie aurait contracté à des conditions différentes.
 
 Deux conséquences suivent. L'article 1728 : le vendeur qui connaissait le vice
 ou ne pouvait l'ignorer doit la restitution du prix et la réparation du
 préjudice, pas seulement une réduction. L'article 1739 : il ne peut pas invoquer
 la dénonciation tardive de l'acheteur s'il connaissait ou ne pouvait ignorer le
-vice. Seul un tribunal décide, preuve à l'appui, si une réponse constitue un
-dol : faites valider toute situation ambiguë par votre notaire.
+vice. Seul un tribunal décide si une réponse constitue un dol : faites valider
+toute situation ambiguë par votre notaire.
 
 Le renversement est là. L'article 1726 précise que le vendeur n'est pas tenu de
 garantir le vice caché connu de l'acheteur : un défaut déclaré cesse d'être
 caché. Déclarer une infiltration réglée en 2019, facture à l'appui, transforme
-une poursuite possible dans trois ans en une discussion de prix aujourd'hui. Les
-autres [signaux qui se lisent sur
+une poursuite possible dans trois ans en une négociation de prix aujourd'hui.
+Voyez aussi les [signaux qui se lisent sur
 papier](/articles/red-flags-walk-away-property/) et l'effet réel des [travaux
-sur la valeur](/articles/renovations-dont-add-value/) sont traités ailleurs.
+sur la valeur](/articles/renovations-dont-add-value/).
 
 ## Remplir la déclaration du vendeur : les documents d'abord, la D15 ensuite
 
-Le bas de la page 11 porte un rappel en majuscules : fournissez tous les
-documents disponibles qui appuient les déclarations. Rassemblez-les avant.
+La page 11 porte un rappel en majuscules : fournissez tous les documents
+disponibles qui appuient les déclarations. Rassemblez-les avant.
 
 - L'acte de vente et le certificat de localisation, avec sa date.
 - Les factures, garanties, plans et permis municipaux des travaux.
-- Les expertises déjà payées : pyrite, pyrrhotite, radon, ocre, amiante, eau.
-- Vos documents d'assurance, dont tout refus d'assurer ou d'indemniser.
-- Les preuves d'entretien : ramonage, vidange de fosse septique, thermopompe.
+- Les expertises payées : pyrite, pyrrhotite, radon, ocre, amiante, eau.
+- L'assurance, dont tout refus d'assurer ou d'indemniser.
+- L'entretien : ramonage, vidange de fosse septique, thermopompe.
 - Pour un immeuble loué, les baux et tout avis reçu d'un locataire.
 
 Quand vous ne savez vraiment pas, le formulaire prévoit le geste. Certaines
 questions ont une case « ne sais pas » : année de construction, type de
 fondation, année du revêtement de toiture. Ailleurs, la réponse va en D15, avec
-le numéro de la clause, et le formulaire demande d'y détailler les raisons pour
-lesquelles une question n'a pas été répondue.
+le numéro de la clause et la raison pour laquelle la question est restée sans
+réponse.
 
-Ne devinez jamais une année et ne laissez jamais une case vide : le vide est
-ambigu, et l'ambiguïté se retourne contre celui qui l'a créée. « Je l'ignore, je
-suis propriétaire depuis 2021 et l'immeuble date de 1958 » est une réponse
-précise et défendable.
+Ne devinez jamais une année et ne laissez jamais une case vide : l'ambiguïté se
+retourne contre celui qui l'a créée. « Je l'ignore, je suis propriétaire depuis
+2021 et l'immeuble date de 1958 » est une réponse précise et défendable.
 
 ## Questions fréquentes
 
 **Puis-je vendre sans remplir la déclaration du vendeur ?**
-Sans courtier, aucune règle de l'OACIQ ne vous y oblige, mais les articles 1401,
-1728 et 1733 du Code civil s'appliquent quand même. Dès qu'un courtier prend
+Sans courtier, l'OACIQ ne vous y oblige pas, mais les articles 1401, 1728 et
+1733 du Code civil s'appliquent quand même. Dès qu'un courtier prend
 l'inscription, le formulaire devient une annexe obligatoire du contrat.
 
 **Si je vends sans garantie légale, dois-je quand même tout déclarer ?**
 Oui. La clause d'exclusion ne vous dispense ni de remplir le formulaire ni de
-répondre avec exactitude. Elle vous protège contre les vices que vous ignoriez,
-pas contre une réponse fausse, qui reste un fait personnel au sens de l'article
-1732.
+répondre avec exactitude. Elle couvre les vices que vous ignoriez, pas une
+réponse fausse : c'est un fait personnel, article 1732.
 
 **J'ai réparé le problème. Dois-je le déclarer ?**
-Oui, et c'est à votre avantage. La section D15 demande de préciser la nature de
-l'événement, l'endroit et comment la situation a été réglée. Une infiltration
-documentée et corrigée est un argument de vente ; la même, découverte par
-l'acheteur, est un litige.
+Oui, et c'est à votre avantage. La section D15 demande la nature de l'événement,
+l'endroit et comment la situation a été réglée. Une infiltration documentée et
+corrigée est un argument de vente ; la même, découverte par l'acheteur, est un
+litige.
 
 **Je suis liquidateur d'une succession et je n'ai jamais habité la maison.**
 Le formulaire reste obligatoire. Le liquidateur répond au meilleur de sa
-connaissance et, s'il ne peut pas répondre, l'indique en D15 avec son statut et
-la raison. C'est écrit en première page.
+connaissance et, sinon, l'indique en D15 avec son statut et la raison. C'est
+écrit en première page.
 
 Pour compléter, lisez [sept échecs qui reviennent dans une
 transaction](/articles/worst-real-estate-deal-lessons/) et [vendre avec ou sans
@@ -211,6 +202,6 @@ courtier au Québec](/articles/vendre-avec-ou-sans-courtier-quebec/).
 
 ---
 
-*Une déclaration à remplir et un doute sur une case à cocher ?
+*Une déclaration à remplir et un doute sur une case ?
 [Écrivez-moi](/formulaire/) et on la remplit ligne par ligne avant la mise en
 marché, documents à l'appui.*

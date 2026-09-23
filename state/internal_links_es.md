@@ -79,5 +79,5 @@ Copy these paths exactly. A link to a file that does not exist fails the build c
 - /es/tools/home-estimate/
 - /es/tools/rent-vs-buy/
 - /es/tools/welcome-tax/
-- /es/secteurs/laval/
-- /es/secteurs/montreal/
+- /es/corredor-inmobiliario/laval/
+- /es/corredor-inmobiliario/montreal/

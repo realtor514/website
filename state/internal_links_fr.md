@@ -92,5 +92,5 @@ Utilisez EXACTEMENT ces chemins. Ne jamais inventer une URL. Style de lien du si
 - /tools/home-estimate/ : estimateur de valeur de propriete
 - /tools/rent-vs-buy/ : calculateur location vs achat
 - /tools/welcome-tax/ : calculateur des droits de mutation
-- /secteurs/laval/ , /secteurs/montreal/ et 28 autres villes sous /secteurs/
+- /courtier-immobilier/laval/ , /courtier-immobilier/montreal/ et 28 autres villes sur le meme modele
 - /buyer/ , /seller/ , /about/
