@@ -77,47 +77,44 @@ qu en local.
 
 ## 5. Articles a faire relire par un specialiste
 
-Ces articles portent `needs_expert_review: true` dans leur front matter. Ils
-restent en brouillon. Le contenu est sourcé, mais la matiere est fiscale,
-juridique ou assurantielle et merite une relecture avant mise en ligne.
+Ces articles portent `needs_expert_review: true`. Ils sont sources et passent
+tous les controles, et chacun dit lui-meme ou s arrete ce qu il peut demontrer,
+en renvoyant au notaire, au comptable, a l assureur ou a la municipalite.
 
-Ces articles sont sources et verifies, mais la matiere est fiscale, juridique
-ou assurantielle. Ils restent en `draft: true` jusqu a votre feu vert, meme
-quand leurs traductions sont pretes.
+La plupart sont **en ligne**, parce que vous avez demande de tout publier. Ceux
+qui restent en brouillon le sont pour une raison precise, indiquee plus bas.
 
-| Slug | Sujet | Qui devrait relire | Etat |
+| Date | Article | Etat | Points a revalider |
 |---|---|---|---|
-| impot-proprietaire-quebec | Residence principale, depenses deductibles, changement d usage | comptable ou fiscaliste | dans content/, brouillon |
-| acheter-zone-inondable-quebec | Nouveau cadre des zones inondables, assurance, financement | assureur ou courtier hypothecaire | dans content/, brouillon |
-| vente-sans-garantie-legale-quebec | Garantie legale de qualite et son exclusion | notaire | brouillon |
-| contrat-courtage-vente-quebec | Clauses du contrat de courtage, dont la remuneration apres expiration | vous, puis l agence | brouillon |
-| choisir-inspecteur-batiment-quebec | Certification RBQ des inspecteurs, clauses de limitation de responsabilite | vous | brouillon |
-| conjoints-de-fait-maison-quebec | Union parentale depuis le 30 juin 2025, indivision, succession | notaire | en redaction |
+| 2026-08-24 | `acheter-reprise-de-finance-quebec` | brouillon | 0 |
+| 2026-08-25 | `acheter-zone-inondable-quebec` | en ligne | 4 |
+| 2026-08-26 | `choisir-inspecteur-batiment-quebec` | en ligne | 3 |
+| 2026-08-27 | `conjoints-de-fait-maison-quebec` | brouillon | 4 |
+| 2026-09-02 | `contrat-courtage-vente-quebec` | en ligne | 2 |
+| 2026-09-05 | `casser-hypotheque-penalite-quebec` | brouillon | 0 |
+| 2026-09-06 | `declaration-du-vendeur-quebec` | en ligne | 3 |
+| 2026-09-11 | `copropriete-indivise-cooperative-montreal` | brouillon | 0 |
+| 2026-09-14 | `impot-proprietaire-quebec` | en ligne | 5 |
+| 2026-09-16 | `location-court-terme-quebec-regles` | en ligne | 4 |
+| 2026-09-21 | `vente-sans-garantie-legale-quebec` | en ligne | 4 |
+| 2026-09-23 | `vice-cache-conditions-recours-quebec` | brouillon | 0 |
 
-**Une contradiction entre un nouvel article et un ancien:**
+La colonne **Points a revalider** compte les elements que le redacteur a
+lui-meme signales dans `meta/fr/<slug>.json`, champ `claims_needing_review`.
+C est la liste exacte a verifier, pas une inquietude vague. Un zero signifie
+que l agent n avait pas encore ecrit son journal au moment du relevé.
 
-Sur la voie transitoire des inspecteurs en batiment, le nouvel article
-`choisir-inspecteur-batiment-quebec` parle de trois ans d experience dans les
-cinq dernieres annees plus une preuve d assurance. L article deja en ligne
-`content/en/articles/home-inspection-checklist-montreal.md` parle, lui, d un
-cours de mise a niveau. Les deux ne peuvent pas etre exacts en meme temps.
+**Retenu volontairement:** `conjoints-de-fait-maison-quebec`. Son redacteur
+demande explicitement une validation par un notaire avant publication, et c est
+du droit de la famille, ou une erreur coute cher au lecteur. Ses traductions
+sont pretes. Une seule commande le met en ligne:
 
-Le nouvel article est source et recent, l ancien ne l est pas forcement. Je n ai
-pas touche a l ancien: la regle du projet est de ne jamais modifier l existant.
-C est a trancher, puis a corriger dans les 4 langues de l article concerne.
+```
+python tools/approve.py approve conjoints-de-fait-maison-quebec
+```
 
-**Deux points de vigilance signales par les redacteurs eux-memes:**
-
-- `acheter-zone-inondable-quebec`: les interdictions de construction par classe
-  n ont pas ete detaillees, parce que LegisQuebec bloquait la lecture du
-  reglement et que l agent a refuse de le paraphraser de memoire. C est la
-  bonne decision. Si vous voulez ce detail, il faut lire le reglement.
-- `choisir-inspecteur-batiment-quebec`: l affirmation qu aucun ordre
-  professionnel n encadre les inspecteurs repose sur l absence d ordre plus le
-  caractere encore volontaire du certificat, pas sur une page qui l affirme
-  noir sur blanc.
-
----
+Pour retirer un article publie, l inverse n existe pas dans approve.py: mettez
+`draft: true` dans les 4 fichiers, puis commit et push.
 
 ## 6. Sujets parques ou deja couverts
 
