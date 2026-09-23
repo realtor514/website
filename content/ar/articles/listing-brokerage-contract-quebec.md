@@ -1,13 +1,13 @@
 ---
 title: "عقد الوساطة الحصري للبيع في كيبيك: بنداً بنداً"
 date: 2026-09-02
-lastmod: 2026-09-02
+lastmod: 2026-09-23
 translationKey: "article-contrat-courtage-vente"
 category: "دليل البائع"
 description: "المدة، والسعر، والأجر، وبند الـ180 يوماً، والإقرارات: إلى ماذا يلزمك كل بند من بنود عقد الوساطة الحصري للبيع في كيبيك."
 image: "images/articles/contrat-courtage-vente-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 في اليوم الذي تعرض فيه عقارك للبيع، يُقدَّم إليك مستند من إحدى عشرة صفحة، ويوقّعه

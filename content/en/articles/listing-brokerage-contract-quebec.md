@@ -1,13 +1,13 @@
 ---
 title: "The Listing Brokerage Contract in Quebec: Clause by Clause"
 date: 2026-09-02
-lastmod: 2026-09-02
+lastmod: 2026-09-23
 translationKey: "article-contrat-courtage-vente"
 category: "Seller's Guide"
 description: "Term, price, remuneration, the 180 day clause, declarations: what each clause of the Quebec listing brokerage contract actually commits you to."
 image: "images/articles/contrat-courtage-vente-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 The day you list your property, someone hands you an eleven page document, and

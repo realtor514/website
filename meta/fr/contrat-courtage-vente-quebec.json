@@ -14,49 +14,79 @@
   "/formulaire/"
  ],
  "sources": [
-  {"url": "https://www.oaciq.com/media/yr3lojn4/contrat-courtage-residentiel.pdf",
+  {
+   "url": "https://www.oaciq.com/media/yr3lojn4/contrat-courtage-residentiel.pdf",
    "title": "Formulaire obligatoire, Contrat de courtage exclusif, Vente, Immeuble principalement résidentiel de moins de 5 logements excluant la copropriété (CCVE, version 06/2022)",
    "publisher": "OACIQ",
    "consulted": "2026-09-23",
-   "supports": "Numérotation et libellé de toutes les clauses citées: encadré de la page 1 sur l'exclusivité, clause 2.1 (fin à 23 h 59, 30 jours à défaut de stipulation, résiliation sans motif contre frais et dépenses, renvoi à l'article 28, motif sérieux exigé du courtier), clauses 4.1 à 4.6 (prix demandé, taxes, radiation des hypothèques et pénalité, inclusions sans garantie légale de qualité mais en état de fonctionnement, contrats de location), clause 5 (acte de vente et occupation), clause 6 (diffusion), clause 7.1 (pourcentage ou forfait plus taxes, les quatre cas rendant la rétribution due dont les 180 jours), 7.3 (partage au courtier collaborateur et effet d'un partage déraisonnable), 7.4 (cas sans rétribution), clause 8.1 à 8.6 (déclarations et obligations du vendeur, certificat de localisation, résidence familiale), clause 9.1 (quatorze engagements du courtier), clause 10 (changement d'agence), clause 12.1 (annexes dont le DV), clause 14.1 (conciliation, médiation, arbitrage de l'OACIQ)."},
-  {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-73.2",
+   "supports": "Numérotation et libellé de toutes les clauses citées: encadré de la page 1 sur l'exclusivité, clause 2.1 (fin à 23 h 59, 30 jours à défaut de stipulation, résiliation sans motif contre frais et dépenses, renvoi à l'article 28, motif sérieux exigé du courtier), clauses 4.1 à 4.6 (prix demandé, taxes, radiation des hypothèques et pénalité, inclusions sans garantie légale de qualité mais en état de fonctionnement, contrats de location), clause 5 (acte de vente et occupation), clause 6 (diffusion), clause 7.1 (pourcentage ou forfait plus taxes, les quatre cas rendant la rétribution due dont les 180 jours), 7.3 (partage au courtier collaborateur et effet d'un partage déraisonnable), 7.4 (cas sans rétribution), clause 8.1 à 8.6 (déclarations et obligations du vendeur, certificat de localisation, résidence familiale), clause 9.1 (quatorze engagements du courtier), clause 10 (changement d'agence), clause 12.1 (annexes dont le DV), clause 14.1 (conciliation, médiation, arbitrage de l'OACIQ)."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-73.2",
    "title": "Loi sur le courtage immobilier, chapitre C-73.2, à jour au 10 juin 2026",
    "publisher": "Légis Québec, Éditeur officiel du Québec",
    "consulted": "2026-09-23",
-   "supports": "Article 24 cité mot à mot sur le formulaire obligatoire; article 25 (double du contrat remis au client); article 26 (nullité du contrat verbal); article 27 et ses trois conditions cumulatives pour la rétribution après l'expiration, dont le maximum de 180 jours et l'exception du nouveau contrat stipulé exclusif; article 28 (résiliation discrétionnaire dans les trois jours suivant la réception du double signé, malgré toute stipulation contraire); article 29 (aucune rétribution après une résiliation faite selon l'article 28, sauf cas de l'article 27); article 29.1 (obligation de résilier le contrat de courtage achat et de recommander un autre courtier, sans rétribution); article 30 (impossibilité de renoncer à ces droits)."},
-  {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-73.2,%20r.%201",
+   "supports": "Article 24 cité mot à mot sur le formulaire obligatoire; article 25 (double du contrat remis au client); article 26 (nullité du contrat verbal); article 27 et ses trois conditions cumulatives pour la rétribution après l'expiration, dont le maximum de 180 jours et l'exception du nouveau contrat stipulé exclusif; article 28 (résiliation discrétionnaire dans les trois jours suivant la réception du double signé, malgré toute stipulation contraire); article 29 (aucune rétribution après une résiliation faite selon l'article 28, sauf cas de l'article 27); article 29.1 (obligation de résilier le contrat de courtage achat et de recommander un autre courtier, sans rétribution); article 30 (impossibilité de renoncer à ces droits)."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-73.2,%20r.%201",
    "title": "Règlement sur les conditions d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur la publicité, chapitre C-73.2, r. 1",
    "publisher": "Légis Québec, Éditeur officiel du Québec",
    "consulted": "2026-09-23",
-   "supports": "Article 14 (le titulaire de permis représente la partie à laquelle il est lié par un contrat de courtage), article 15 (protéger et promouvoir les intérêts de la partie représentée tout en accordant un traitement équitable, sans divulguer l'information confidentielle ou stratégique) et article 16 (obligation d'informer sans délai la partie non représentée). Appuie la section sur la double représentation et le traitement équitable."},
-  {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-73.2,%20r.%202.1",
+   "supports": "Article 14 (le titulaire de permis représente la partie à laquelle il est lié par un contrat de courtage), article 15 (protéger et promouvoir les intérêts de la partie représentée tout en accordant un traitement équitable, sans divulguer l'information confidentielle ou stratégique) et article 16 (obligation d'informer sans délai la partie non représentée). Appuie la section sur la double représentation et le traitement équitable."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-73.2,%20r.%202.1",
    "title": "Règlement sur les contrats et formulaires, chapitre C-73.2, r. 2.1",
    "publisher": "Légis Québec, Éditeur officiel du Québec",
    "consulted": "2026-09-23",
-   "supports": "Articles 5, 7 et 8 sur la façon de remplir le formulaire: rature apparente et consentement des parties avant signature, obligation de laisser les parties prendre connaissance des termes et de fournir toutes les explications avant la signature, interdiction de tout ajout, modification ou rature après qu'une partie a signé. Article 17 sur l'expiration à 30 jours à défaut de stipulation."},
-  {"url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "supports": "Articles 5, 7 et 8 sur la façon de remplir le formulaire: rature apparente et consentement des parties avant signature, obligation de laisser les parties prendre connaissance des termes et de fournir toutes les explications avant la signature, interdiction de tout ajout, modification ou rature après qu'une partie a signé. Article 17 sur l'expiration à 30 jours à défaut de stipulation."
+  },
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
    "title": "Formulaire obligatoire, Déclarations du vendeur sur l'immeuble (DV, version 06/2022)",
    "publisher": "OACIQ",
    "consulted": "2026-09-23",
-   "supports": "Nature et contenu de l'annexe DV: réponses au meilleur de la connaissance du vendeur et en toute bonne foi, sections D2 à D14 couvrant notamment les limitations de droit public, le sol, la toiture, l'eau et un décès violent survenu sur l'immeuble, section D16 sur la signature et l'engagement d'aviser le courtier de toute information additionnelle."},
-  {"url": "https://www.oaciq.com/media/thrhyzuq/schema-double-representation.pdf",
+   "supports": "Nature et contenu de l'annexe DV: réponses au meilleur de la connaissance du vendeur et en toute bonne foi, sections D2 à D14 couvrant notamment les limitations de droit public, le sol, la toiture, l'eau et un décès violent survenu sur l'immeuble, section D16 sur la signature et l'engagement d'aviser le courtier de toute information additionnelle."
+  },
+  {
+   "url": "https://www.oaciq.com/media/thrhyzuq/schema-double-representation.pdf",
    "title": "Comment faire la différence entre de la double représentation et l'obligation de traitement équitable? (schéma, mis à jour le 20230531)",
    "publisher": "OACIQ",
    "consulted": "2026-09-23",
-   "supports": "Ce que le courtier inscripteur doit faire quand un acheteur s'intéresse à sa propre inscription: si l'acheteur a un contrat de courtage achat avec lui, c'est une double représentation interdite, il doit informer les parties, recommander un autre courtier, résilier le contrat et ne peut réclamer aucune rétribution; si l'acheteur n'est pas représenté, il doit l'aviser qu'il représente uniquement le vendeur et lui accorder un traitement équitable."},
-  {"url": "https://www.oaciq.com/uploads/ckeditor/attachments/3144/depliant-traitement-equitable-et-avis-du-courtier-sans-cca.pdf",
+   "supports": "Ce que le courtier inscripteur doit faire quand un acheteur s'intéresse à sa propre inscription: si l'acheteur a un contrat de courtage achat avec lui, c'est une double représentation interdite, il doit informer les parties, recommander un autre courtier, résilier le contrat et ne peut réclamer aucune rétribution; si l'acheteur n'est pas représenté, il doit l'aviser qu'il représente uniquement le vendeur et lui accorder un traitement équitable."
+  },
+  {
+   "url": "https://www.oaciq.com/uploads/ckeditor/attachments/3144/depliant-traitement-equitable-et-avis-du-courtier-sans-cca.pdf",
    "title": "Qu'est-ce que le traitement équitable? (dépliant)",
    "publisher": "OACIQ",
    "consulted": "2026-09-23",
-   "supports": "Définition du traitement équitable: agir en transparence et communiquer de manière objective l'information pertinente sur une propriété, par opposition à la représentation qui comprend l'information stratégique et le rôle conseil. Appuie la distinction faite dans la section sur la double représentation."},
-  {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "supports": "Définition du traitement équitable: agir en transparence et communiquer de manière objective l'information pertinente sur une propriété, par opposition à la représentation qui comprend l'information stratégique et le rôle conseil. Appuie la distinction faite dans la section sur la double représentation."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
    "title": "Code civil du Québec, articles 1726 et 1728",
    "publisher": "Légis Québec, Éditeur officiel du Québec",
    "consulted": "2026-09-23",
-   "supports": "Article 1726 sur la garantie du vendeur contre les vices cachés et article 1728 sur l'obligation de réparer le préjudice lorsque le vendeur connaissait le vice ou ne pouvait l'ignorer. Appuie le poids juridique attribué aux déclarations de la clause 8 et de l'annexe DV."}
+   "supports": "Article 1726 sur la garantie du vendeur contre les vices cachés et article 1728 sur l'obligation de réparer le préjudice lorsque le vendeur connaissait le vice ou ne pouvait l'ignorer. Appuie le poids juridique attribué aux déclarations de la clause 8 et de l'annexe DV."
+  }
  ],
  "claims_needing_review": [
   "Le règlement C-73.2, r. 2.1 est affiché comme abrogé par le D. 173-2023 sur Légis Québec, et le C-73.2, r. 2 comme remplacé. Les exigences de rédaction des formulaires citées dans l'article proviennent du texte de r. 2.1 tel que publié; à faire confirmer par l'OACIQ quant au règlement actuellement en vigueur avant publication.",
   "Le formulaire CCVE consulté porte la mention de version 06/2022. Vérifier auprès de l'OACIQ qu'aucune version plus récente n'a modifié la numérotation des clauses citées avant la mise en ligne."
+ ],
+ "verifications_manuelles": [
+  {
+   "point": "Version du formulaire CCVE et numerotation de la clause 7.1",
+   "signale_par": "le redacteur, qui demandait de revalider avant publication",
+   "verdict": "RESOLU, la version 06/2022 est bien la version courante",
+   "preuve": "Le PDF publie par l OACIQ porte la mention CCVE 00001 (v29 06/2022). La clause 7.1, paragraphe 3, est bien celle des 180 jours: retribution due si la vente a lieu dans les 180 jours suivant la fin du contrat avec une personne interessee pendant sa duree, sauf contrat exclusif conclu de bonne foi avec un autre courtier.",
+   "sources": [
+    "https://www.oaciq.com/media/yr3lojn4/contrat-courtage-residentiel.pdf",
+    "https://www.oaciq.com/en/broker/brokerage-forms-clauses/the-180-day-clause-questions-and-answers/"
+   ],
+   "verifie_le": "2026-09-23",
+   "reste_a_valider": "Le renvoi reglementaire C-73.2, r. 2.1, affiche comme abroge par le D. 173-2023 sur LegisQuebec. Ne touche pas la numerotation des clauses."
+  }
  ]
 }

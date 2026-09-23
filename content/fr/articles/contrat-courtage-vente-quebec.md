@@ -1,13 +1,13 @@
 ---
 title: "Contrat de courtage vente au Québec: clause par clause"
 date: 2026-09-02
-lastmod: 2026-09-02
+lastmod: 2026-09-23
 translationKey: "article-contrat-courtage-vente"
 category: "Guide du vendeur"
 description: "Durée, prix, rétribution, clause des 180 jours, déclarations: ce que chaque clause du contrat de courtage vente au Québec vous engage à faire."
 image: "images/articles/contrat-courtage-vente-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Le jour où vous inscrivez votre propriété, on vous présente un document de onze

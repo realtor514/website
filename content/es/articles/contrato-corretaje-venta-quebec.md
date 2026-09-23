@@ -1,13 +1,13 @@
 ---
 title: "Contrato de corretaje de venta en Quebec: cláusula por cláusula"
 date: 2026-09-02
-lastmod: 2026-09-02
+lastmod: 2026-09-23
 translationKey: "article-contrat-courtage-vente"
 category: "Guía del Vendedor"
 description: "Duración, precio, retribución, la cláusula de los 180 días, declaraciones: a qué lo compromete cada cláusula del contrato de corretaje de venta en Quebec."
 image: "images/articles/contrat-courtage-vente-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 El día en que pone su propiedad a la venta, le presentan un documento de once
