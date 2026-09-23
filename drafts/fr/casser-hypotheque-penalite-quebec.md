@@ -11,11 +11,10 @@ draft: true
 ---
 
 Un prêteur vous offre un point de pourcentage de moins que votre taux actuel. Avant
-de dire oui, il reste un seul chiffre à obtenir, et c'est celui que personne ne met
-dans la publicité : la pénalité. Elle ne se devine pas, elle se calcule, et deux
-institutions peuvent arriver à des montants très éloignés sur exactement le même
-prêt. Voici la mécanique, ligne par ligne, puis les frais québécois qui s'ajoutent
-après.
+de dire oui, il reste un chiffre à obtenir, celui que personne ne met dans la
+publicité : la pénalité. Elle ne se devine pas, elle se calcule, et deux
+institutions peuvent arriver à des montants très éloignés sur le même prêt. Voici
+la mécanique, puis les frais québécois qui s'ajoutent après.
 
 ## Prêt ouvert, prêt fermé : d'où vient la pénalité pour casser une hypothèque
 
@@ -75,14 +74,12 @@ La méthode que décrit l'ACFC compte cinq gestes.
 courant de 4 % pour un terme de 36 mois. Trois mois d'intérêts donnent 3 000 $,
 soit 200 000 $ multipliés par 6 %, divisés par quatre. Le différentiel donne
 12 000 $, soit 200 000 $ multipliés par l'écart de 2 points, multipliés par les
-trois années qui restent. La pénalité payable est de 12 000 $, plus des frais
-d'administration possibles. Quatre fois le montant que la plupart des gens avaient
-en tête.
+trois années restantes. La pénalité payable est de 12 000 $, plus des frais
+d'administration possibles. Quatre fois le montant attendu.
 
 Avant de comparer quoi que ce soit, chiffrez l'écart de versement réel avec le
 [calculateur hypothécaire](/tools/mortgage/). Si l'économie cumulée sur les mois
-qui restent au terme ne couvre pas la pénalité et les frais, la décision est déjà
-prise.
+qui restent ne couvre pas la pénalité et les frais, la décision est déjà prise.
 
 ## Taux affiché ou taux consenti : le rabais qui gonfle la pénalité
 
@@ -107,10 +104,9 @@ Taux affiché courant pour un terme comparable : 4 %.
 | Taux affiché de départ contre taux affiché courant moins le rabais | 4,00 points | 300 000 $ x 4 % x 2,5 ans | 30 000 $ |
 
 Même prêt, même jour, même solde. La méthode retenue change le chiffre d'un
-facteur de quatre. C'est pour cette raison que la question à poser n'est jamais
-« combien », mais « quels deux taux avez-vous utilisés ». Le sujet du taux affiché
-contre le taux obtenu est développé dans
-[ce qui se décide avant votre taux hypothécaire](/articles/best-mortgage-rate-canada/).
+facteur de quatre. La question à poser n'est donc jamais « combien », mais « quels
+deux taux avez-vous utilisés ». Le taux affiché contre le taux obtenu est développé
+dans [ce qui se décide avant votre taux hypothécaire](/articles/best-mortgage-rate-canada/).
 
 ## Taux fixe ou taux variable : ce que votre contrat décide
 
@@ -161,10 +157,10 @@ barème public : demandez-les par écrit avant de mandater qui que ce soit. Sur 
 déroulement complet chez l'officier public, voyez
 [le rôle du notaire au Québec](/articles/quebec-notary-process/).
 
-Additionnez maintenant. Pénalité, frais d'administration, frais d'évaluation,
-frais de réinvestissement, frais de quittance et d'enregistrement : c'est la liste
-que l'ACFC vous demande de faire chiffrer avant de résilier. Si vous aviez reçu
-une remise en argent à la signature, une portion peut aussi devoir être remboursée.
+Additionnez maintenant. Pénalité, frais d'administration, d'évaluation, de
+réinvestissement, de quittance et d'enregistrement : c'est la liste que l'ACFC
+demande de faire chiffrer avant de résilier. Si vous aviez reçu une remise en
+argent à la signature, une portion peut aussi devoir être remboursée.
 
 ## Trois questions à poser par écrit, et les cas où casser paie
 
@@ -203,11 +199,10 @@ plus seulement un taux. Plafonds, assurance perdue et frais sont détaillés dan
 [le refinancement hypothécaire au Québec](/articles/refinancement-hypothecaire-quebec/).
 
 **Vous n'avez pas à casser pour bouger.** L'ACFC décrit l'option de fusion et
-prolongation, qui permet de prolonger le prêt avant la fin du terme sans pénalité,
-le prêteur fusionnant l'ancien taux et le taux du nouveau terme. Son exemple :
-solde de 200 000 $, taux actuel de 5,5 % avec 24 mois restants, nouveau taux de
-4 % pour cinq ans, ce qui donne un taux fusionné de 4,6 % sur 60 mois. Des frais
-administratifs peuvent s'appliquer.
+prolongation, qui prolonge le prêt avant la fin du terme sans pénalité, le prêteur
+fusionnant l'ancien taux et celui du nouveau terme. Son exemple : 200 000 $ à
+5,5 % avec 24 mois restants, nouveau taux de 4 % sur cinq ans, taux fusionné de
+4,6 % sur 60 mois. Des frais administratifs peuvent s'appliquer.
 
 ## Questions fréquentes
 
@@ -225,18 +220,17 @@ compare le taux du contrat au taux affiché courant, alors que le vôtre repart 
 taux affiché de départ diminué de votre rabais.
 
 **Vaut-il mieux attendre l'échéance ?**
-Souvent, oui. À l'échéance du terme, changer de prêteur ne déclenche aucune
-pénalité, puisqu'il n'y a plus de promesse à rompre. Reste les frais d'ouverture
-et, au Québec, l'acte et la radiation. Comparez l'économie mensuelle multipliée
-par les mois restants avec le total pénalité plus frais.
+Souvent, oui. À l'échéance, changer de prêteur ne déclenche aucune pénalité,
+puisqu'il n'y a plus de promesse à rompre. Restent les frais d'ouverture et, au
+Québec, l'acte et la radiation. Comparez l'économie mensuelle multipliée par les
+mois restants avec le total pénalité plus frais.
 
 **Le taux directeur baisse. Est-ce que ma pénalité baisse aussi ?**
 Pas mécaniquement. La Banque du Canada a maintenu son taux cible du financement à
-un jour à 2,25 % le 2 septembre 2026, et sa prochaine annonce est prévue le
-28 octobre 2026. Mais le différentiel se calcule sur les taux hypothécaires
-affichés pour un terme comparable, pas sur le taux directeur. Une baisse des taux
-courants a même l'effet inverse : elle creuse l'écart avec votre taux et grossit le
-différentiel.
+un jour à 2,25 % le 2 septembre 2026, prochaine annonce le 28 octobre 2026. Mais
+le différentiel se calcule sur les taux hypothécaires affichés pour un terme
+comparable, pas sur le taux directeur. Une baisse des taux courants a même l'effet
+inverse : elle creuse l'écart avec votre taux et grossit le différentiel.
 
 Pour compléter, lisez [ce qui se décide avant votre taux hypothécaire](/articles/best-mortgage-rate-canada/) et [le rôle du notaire au Québec](/articles/quebec-notary-process/).
 

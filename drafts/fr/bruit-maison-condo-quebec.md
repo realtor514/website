@@ -12,9 +12,9 @@ draft: true
 Le bruit est le seul défaut qu'un acheteur accepte de ne pas vérifier. On note
 l'année de la toiture, on demande le fonds de prévoyance, et on repart d'une
 visite de vingt minutes un mardi après-midi sans savoir ce qu'on entendra un
-jeudi à 23 h. Pourtant, le bruit se vérifie : il a une cause physique, une
-règle de construction, une clause dans la déclaration de copropriété et un
-recours précis au Code civil.
+jeudi à 23 h. Pourtant le bruit se vérifie : il a une cause physique, une règle
+de construction, une clause dans la déclaration de copropriété et un recours
+précis au Code civil.
 
 ## Le bruit aérien et le bruit d'impact ne se corrigent pas pareil
 
@@ -26,9 +26,9 @@ ventilation.
 
 **Le bruit d'impact**, ce sont les pas, la chaise qu'on tire, l'objet qu'on
 échappe. L'énergie entre directement dans la structure, qui vibre et rayonne le
-son plus loin. C'est pour ça qu'ajouter du gypse au plafond de celui qui subit
-donne souvent un résultat décevant : la source n'est pas dans l'air, elle est
-dans le plancher du voisin du dessus.
+son plus loin. C'est pour ça qu'ajouter du gypse au plafond donne souvent un
+résultat décevant : la source n'est pas dans l'air, elle est dans le plancher
+du voisin du dessus.
 
 La distinction décide de qui fait les travaux. Le bruit aérien se corrige
 surtout chez vous, le bruit d'impact surtout chez l'autre.
@@ -58,7 +58,6 @@ tête.
 **Le Code s'applique aux travaux, pas au bâtiment existant.** Un triplex de
 1925 converti en copropriété divise n'a jamais été construit pour séparer
 acoustiquement deux ménages, et sa conversion ne l'a rendu conforme à rien.
-C'est le cas le plus fréquent de déception à Montréal.
 
 Je ne vous donne pas ici la valeur chiffrée exigée : elle dépend de l'édition
 du Code applicable au bâtiment. Demandez-la à la Régie du bâtiment ou à un
@@ -93,7 +92,7 @@ avec la même attention que
 
 ## Le bruit extérieur : rue, train, corridor aérien
 
-Trois sources se vérifient sur une carte, avant même de visiter.
+Trois sources se vérifient sur une carte, avant la visite.
 
 **La route.** La Politique de gestion du bruit routier du ministère des
 Transports et de la Mobilité durable, publiée en mars 2025, fixe le seuil
@@ -112,8 +111,8 @@ les courbes NEF, autour des aéroports. Tout niveau supérieur à 25 dérangera
 fort probablement, le ministère déconseille les nouveaux aménagements
 résidentiels au delà de 30, et au dessus de 35 les plaintes sont nombreuses.
 
-Ces vérifications font partie du portrait d'un secteur : la [page de secteur de
-Laval](/courtier-immobilier/laval/) réunit ces repères au même endroit.
+Ces repères font partie du portrait d'un secteur, comme sur la [page consacrée
+à Laval](/courtier-immobilier/laval/).
 
 ## Cinq tests de bruit à faire pendant la visite d'un condo
 
@@ -182,16 +181,16 @@ avec un délai, des témoins.
 **Si vous êtes copropriétaire.** Le Tribunal administratif du logement n'a rien
 à voir avec votre dossier. Vous passez par le syndicat, qui fait respecter la
 déclaration, et au besoin par l'injonction de l'article 1080. Contre un voisin
-qui n'est pas lié par votre déclaration, c'est le tribunal de droit commun et
-l'article 976. La décision d'intenter un recours appartient à votre avocat.
+que votre déclaration ne lie pas, c'est le tribunal de droit commun et
+l'article 976. La décision appartient à votre avocat.
 
 ## Questions fréquentes
 
 **Le vendeur doit-il me dire que le voisin est bruyant ?**
 Les Déclarations du vendeur portent sur ce qu'il connaît de l'immeuble. Posez
 la question par écrit, par l'entremise de votre courtier : plaintes, mise en
-demeure, dossier au syndicat ? La qualification juridique d'un problème
-découvert après la vente appartient à un avocat.
+demeure, dossier au syndicat ? La qualification d'un problème découvert après
+la vente appartient à un avocat.
 
 **Puis-je installer du bois franc dans mon condo ?**
 Cela dépend de la déclaration de copropriété, pas de votre goût. Lisez la

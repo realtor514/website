@@ -163,11 +163,10 @@ garantie des dommages par l'eau du sol et des égouts. Selon le site
 d'information du Bureau d'assurance du Canada, le coût moyen d'une réclamation
 pour refoulement d'égout au Québec dépassait 18 000 $ en 2023.
 
-Deux gestes concrets avant l'achat. Demandez à votre assureur, avant la fin de
-la période d'inspection, si l'avenant est offert pour cette adresse et à quelles
-conditions. Et demandez au vendeur, par écrit, s'il y a déjà eu un refoulement
-et une réclamation : la réponse a sa place dans les Déclarations du vendeur, pas
-dans une conversation.
+Deux gestes avant l'achat. Demandez à votre assureur, avant la fin de la période
+d'inspection, si l'avenant est offert pour cette adresse et à quelles
+conditions. Puis demandez au vendeur, par écrit, s'il y a déjà eu un refoulement
+et une réclamation : la réponse a sa place dans les Déclarations du vendeur.
 
 ## Ce qu'un acheteur exige avant de faire une offre sur un plex ancien
 

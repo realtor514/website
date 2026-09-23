@@ -108,9 +108,8 @@ Code de procédure civile.
 Le formulaire Déclarations du vendeur sur l'immeuble est obligatoire depuis
 juillet 2012 pour la vente, par une personne physique, de tout immeuble
 principalement résidentiel de moins de cinq logements. L'OACIQ précise que pour
-un vendeur personne morale, le formulaire est seulement fortement recommandé, et
-cite en exemple les institutions financières lors de la reprise d'un immeuble.
-Dans une succession, il reste toujours obligatoire.
+un vendeur personne morale, il est seulement fortement recommandé, et cite en
+exemple les institutions financières lors de la reprise d'un immeuble.
 
 Traduisez: le vendeur n'a jamais habité l'immeuble, ne connaît ni l'âge de la
 toiture, ni l'année du drain français, ni l'historique des infiltrations, et la
@@ -118,13 +117,13 @@ loi ne l'oblige pas à remplir le formulaire qui poserait ces questions. Vous
 achetez sans historique.
 
 S'ajoute l'exclusion de garantie. Quand elle passe par une clause, l'article
-1732 permet aux parties de diminuer les effets de la garantie ou de l'exclure
-entièrement, et l'article 1733 prive le vendeur de cette protection s'il n'a pas
-révélé les vices qu'il connaissait, sauf lorsque l'acheteur achète à ses risques
-et périls d'un vendeur non professionnel. Dans une reprise, la portée exacte de
-cette exception dépend du statut du vendeur et du texte signé: c'est une
-question à poser à un avocat ou à un notaire avant la promesse, pas après. Le
-mécanisme complet est détaillé dans [la vente sans garantie légale au
+1732 permet aux parties d'en diminuer les effets ou de l'exclure entièrement, et
+l'article 1733 prive le vendeur de cette protection s'il n'a pas révélé les
+vices qu'il connaissait, sauf lorsque l'acheteur achète à ses risques et périls
+d'un vendeur non professionnel. La portée exacte de cette exception face à une
+institution financière dépend du statut du vendeur et du texte signé: c'est une
+question pour un avocat ou un notaire avant la promesse, pas après. Le mécanisme
+complet est dans [la vente sans garantie légale au
 Québec](/articles/vente-sans-garantie-legale-quebec/).
 
 L'OACIQ tire des arrêts Blais c. Laforce et Tremblay c. Immeubles Perron ltée
@@ -135,32 +134,28 @@ vendu avec la garantie légale. La chaîne est coupée.
 ## État du bâtiment, charges de copropriété et occupants
 
 **L'immeuble est souvent vide depuis des mois.** Le Bureau d'assurance du Canada
-est net sur ce point: la plupart des contrats excluent le gel des canalisations
-et les dégâts d'eau si le logement est vacant, même si cette vacance est
-autorisée. Les contrats standards couvrent le gel et l'éclatement des
-canalisations à condition que celles-ci se trouvent dans la partie chauffée de
-l'habitation et que des mesures raisonnables aient été prises pour y maintenir
-la chaleur. Un immeuble non chauffé un hiver complet, personne n'assure le
-passé.
+est net: la plupart des contrats excluent le gel des canalisations et les dégâts
+d'eau si le logement est vacant, même si cette vacance est autorisée. Les
+contrats standards couvrent le gel et l'éclatement des canalisations à condition
+qu'elles se trouvent dans la partie chauffée de l'habitation et que des mesures
+raisonnables aient été prises pour y maintenir la chaleur. Un immeuble non
+chauffé un hiver complet, personne n'assure le passé.
 
 **En copropriété, les arrérages vous suivent.** L'article 1069 est explicite:
 celui qui acquiert une fraction de copropriété divise, y compris par suite de
 l'exercice d'un droit hypothécaire, est tenu au paiement, avec les intérêts, de
-toutes les charges communes dues relativement à cette fraction au moment de
-l'acquisition. La sortie existe, et elle est dans le même article: le proposant
-acquéreur peut demander au syndicat un état des charges communes dues, et il
-n'est alors tenu au paiement que si l'état lui est fourni dans les 15 jours de
-la demande. Demandez-le par écrit, tôt. L'article 2729 ajoute que le syndicat
-acquiert une hypothèque légale sur la fraction du copropriétaire en défaut
-depuis plus de 30 jours. La méthode de lecture des documents est dans [frais de
-condo et fonds de prévoyance](/articles/condo-fees-investment-killer/).
+toutes les charges communes dues au moment de l'acquisition. La sortie est dans
+le même article: le proposant acquéreur peut demander au syndicat un état des
+charges communes dues, et il n'est alors tenu au paiement que si l'état lui est
+fourni dans les 15 jours de la demande. Demandez-le par écrit, tôt. La lecture
+des autres documents est dans [frais de condo et fonds de
+prévoyance](/articles/condo-fees-investment-killer/).
 
-**L'ancien propriétaire peut encore être là.** Le délaissement est volontaire ou
-forcé. L'article 2765 prévoit que le tribunal ordonne le délaissement forcé
-après avoir constaté la créance, le défaut, le refus de délaisser volontairement
-et l'absence de cause valable d'opposition, et que le jugement fixe le délai et
-la manière. Avant de signer, posez la question de l'occupation et faites inscrire
-la réponse dans la promesse.
+**L'ancien propriétaire peut encore être là.** L'article 2765 prévoit que le
+tribunal ordonne le délaissement forcé après avoir constaté la créance, le
+défaut, le refus de délaisser volontairement et l'absence de cause valable
+d'opposition, et que le jugement fixe le délai et la manière. Posez la question
+de l'occupation avant de signer, et faites inscrire la réponse dans la promesse.
 
 ## Inspection, assurance et financement d'une reprise de finance
 
@@ -184,9 +179,9 @@ d'emprunt](/tools/affordability/).
 Du côté des titres, le travail du notaire prend ici toute sa valeur. Éducaloi
 décrit son examen des titres: vérifier les anciens actes, s'assurer que la
 propriété appartient bel et bien au vendeur, révéler une saisie pour impôts
-impayés ou un droit de passage. Le registre foncier, lui, donne l'historique
-légal: qui a acheté et vendu, quand, à quel prix, et les hypothèques inscrites.
-La suite des étapes est dans [le notaire au Québec, étape par
+impayés ou un droit de passage. Le registre foncier donne l'historique légal:
+qui a acheté et vendu, quand, à quel prix, et les hypothèques inscrites. La
+suite des étapes est dans [le notaire au Québec, étape par
 étape](/articles/quebec-notary-process/).
 
 ## Le rabais compense-t-il le risque?
@@ -205,10 +200,10 @@ cas, le rabais ne se compare plus à des travaux connus, mais à un risque ouver
 ## Questions fréquentes
 
 **Est-ce que je peux acheter pendant le délai de 60 jours?** Le propriétaire
-reste propriétaire tant que le bien n'a pas été pris en paiement ou vendu, et il
-peut vendre lui-même. L'article 2761 lui permet aussi de faire échec au recours
-en payant ce qui est dû et les frais. Tant que rien n'est conclu, votre offre
-vise une vente ordinaire, pas une reprise.
+reste propriétaire tant que le bien n'a pas été pris en paiement ou vendu, et
+l'article 2761 lui permet de faire échec au recours en payant ce qui est dû et
+les frais. Tant que rien n'est conclu, votre offre vise une vente ordinaire, pas
+une reprise.
 
 **La banque doit-elle me remettre une déclaration du vendeur?** Pas
 obligatoirement. L'OACIQ précise que pour un vendeur personne morale, le
@@ -219,14 +214,13 @@ l'alimentation en eau et les services d'égouts.
 **Une vente sous contrôle de justice efface-t-elle les hypothèques?** L'article
 2794 prévoit qu'elle purge les droits réels dans la mesure prévue au Code de
 procédure civile. Ce n'est pas une garantie générale de titre propre: c'est
-exactement le genre de vérification que l'examen des titres par le notaire doit
-confirmer avant la signature.
+exactement ce que l'examen des titres par le notaire doit confirmer avant la
+signature.
 
 **Puis-je mettre une condition d'inspection dans mon offre?** Rien dans le Code
 civil ne l'interdit, mais les conditions de vente sont fixées par le vendeur, et
-dans une vente sous contrôle de justice par le tribunal selon l'article 2791.
-Demandez les conditions avant de rédiger, plutôt que de découvrir qu'elles sont
-non négociables.
+par le tribunal dans une vente sous contrôle de justice, selon l'article 2791.
+Demandez ces conditions avant de rédiger.
 
 Pour compléter, lisez [se retirer d'une propriété: sept signaux qui se vérifient
 sur papier](/articles/red-flags-walk-away-property/) et [la vente sans garantie

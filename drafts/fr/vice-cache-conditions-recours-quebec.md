@@ -17,12 +17,12 @@ conditions à vérifier et une lettre à envoyer.
 
 ## Les quatre conditions du vice caché, une par une
 
-L'article 1726 du Code civil pose la règle. Le vendeur garantit à l'acheteur
-que le bien et ses accessoires sont, lors de la vente, exempts de vices cachés
-qui le rendent impropre à l'usage auquel on le destine, ou qui diminuent
-tellement son utilité que l'acheteur ne l'aurait pas acheté, ou n'aurait pas
-donné si haut prix, s'il les avait connus. Le deuxième alinéa ajoute deux
-exclusions : le vice caché déjà connu de l'acheteur, et le vice apparent.
+L'article 1726 du Code civil pose la règle. Le vendeur garantit que le bien et
+ses accessoires sont, lors de la vente, exempts de vices cachés qui le rendent
+impropre à l'usage auquel on le destine, ou qui diminuent tellement son utilité
+que l'acheteur ne l'aurait pas acheté, ou n'aurait pas donné si haut prix, s'il
+les avait connus. Le deuxième alinéa exclut deux choses : le vice caché déjà
+connu de l'acheteur, et le vice apparent.
 
 L'OACIQ en tire quatre caractéristiques, et elles sont cumulatives. Le vice
 existait au moment de l'achat. Il était inconnu de l'acheteur. Il n'était pas
@@ -88,8 +88,8 @@ sur vous. Une seule présomption existe dans le Code, et elle est étroite.
 L'article 1729 vise la vente par un vendeur professionnel : l'existence du vice
 au moment de la vente est présumée lorsque le mauvais fonctionnement du bien ou
 sa détérioration survient prématurément par rapport à des biens identiques ou
-de même espèce. La présomption est repoussée si le défaut vient d'une mauvaise
-utilisation par l'acheteur.
+de même espèce, à moins que le défaut vienne d'une mauvaise utilisation par
+l'acheteur.
 
 Encore faut-il que votre vendeur le soit. Éducaloi range dans cette catégorie
 l'individu qui tire ses revenus d'activités de vente d'immeubles sur une base
@@ -118,16 +118,16 @@ Combien de temps ? Éducaloi répond que le délai raisonnable s'évalue selon l
 circonstances, qu'il faut compter le temps nécessaire pour identifier et
 mesurer la gravité du vice, et que de façon générale un délai de 6 mois à un an
 sera considéré comme raisonnable, exceptionnellement plus long si le vice se
-manifeste de façon saisonnière. Ce n'est pas une permission d'attendre. C'est
-une marge pour faire expertiser, pas pour hésiter.
+manifeste de façon saisonnière. C'est une marge pour faire expertiser, pas pour
+hésiter.
 
 Et voici l'erreur qui revient. Éducaloi est explicite : si vous ne voulez pas
 assumer le coût des travaux, ne commencez pas les réparations à vos frais. Le
 vendeur doit avoir l'occasion de vérifier l'existence et la gravité du vice, de
 constater les dommages, et de réparer ou de remplacer. Un sous-sol refait avant
-d'avoir écrit au vendeur, c'est une preuve détruite et un vendeur privé de son
-droit. Seule exception : les réparations urgentes, si le vice est dangereux ou
-risque d'endommager gravement l'immeuble ou de mener à sa perte.
+d'avoir écrit au vendeur, c'est une preuve détruite. Seule exception : les
+réparations urgentes, si le vice est dangereux ou risque d'endommager gravement
+l'immeuble ou de mener à sa perte.
 
 Vous pouvez aussi transmettre directement une mise en demeure plutôt qu'un
 simple avis. Elle contient la description du vice, vos demandes, vos conditions
@@ -140,10 +140,10 @@ un ingénieur ou votre inspecteur.
 ## Vos recours : diminution du prix, annulation, dommages
 
 Éducaloi énumère ce que la garantie permet d'obtenir selon la situation : une
-diminution du prix de l'immeuble, le remboursement des travaux faits ou
-nécessaires pour remédier au vice, un remboursement pour les dommages subis
-dans certaines circonstances, ou l'annulation de la vente avec remise de
-l'immeuble au vendeur et remboursement du prix payé.
+diminution du prix, le remboursement des travaux faits ou nécessaires pour
+remédier au vice, un remboursement pour les dommages subis dans certaines
+circonstances, ou l'annulation de la vente avec remise de l'immeuble et
+remboursement du prix payé.
 
 Les dommages ont leur propre article. Le 1728 prévoit que si le vendeur
 connaissait le vice caché ou ne pouvait l'ignorer, il est tenu, outre la
@@ -163,23 +163,22 @@ Québec](/articles/vente-sans-garantie-legale-quebec/).
 
 ## Trois ans pour agir, et le tribunal qui vous entendra
 
-L'article 2925 du Code civil fixe à trois ans la prescription d'une action
-personnelle dont le délai n'est pas autrement fixé. Éducaloi précise le point
-de départ pour un vice caché : vous avez trois ans à partir de la découverte du
-vice, et non pas à partir de la date d'achat. L'article 2926 ajoute que lorsque
-le préjudice se manifeste graduellement ou tardivement, le délai court du jour
-où il se manifeste pour la première fois.
+L'article 2925 fixe à trois ans la prescription d'une action personnelle dont
+le délai n'est pas autrement fixé, et Éducaloi précise le point de départ pour
+un vice caché : trois ans à partir de la découverte du vice, et non pas de la
+date d'achat. L'article 2926 ajoute que lorsque le préjudice se manifeste
+graduellement ou tardivement, le délai court du jour où il se manifeste pour la
+première fois. Ces trois ans ne remplacent pas la dénonciation de l'article
+1739 : ce sont deux horloges, et la courte est celle qui fait perdre les
+dossiers.
 
-Ces trois ans ne remplacent pas la dénonciation de l'article 1739. Ce sont deux
-horloges distinctes, et la courte est celle qui fait perdre les dossiers.
-
-Pour la suite, la Cour des petites créances entend les demandes de 15 000 $ ou
-moins, intérêts non compris, et Éducaloi donne justement comme exemple la
-réclamation du coût des travaux au vendeur pour un vice caché. Vous y agissez
-seul, sans avocat, et vous pouvez réduire votre réclamation à 15 000 $ pour y
-accéder, par exemple si les travaux coûtent 21 000 $. Une médiation gratuite y
-est offerte. Au-delà, il faut un avocat, et aucune source officielle ne me
-permet d'avancer un coût moyen pour un recours en vice caché.
+La Cour des petites créances entend les demandes de 15 000 $ ou moins, intérêts
+non compris, et Éducaloi donne justement comme exemple la réclamation du coût
+des travaux au vendeur pour un vice caché. Vous y agissez seul, sans avocat, et
+vous pouvez réduire votre réclamation à 15 000 $ pour y accéder, par exemple si
+les travaux coûtent 21 000 $. Une médiation gratuite y est offerte. Au-delà, il
+faut un avocat, et aucune source officielle ne me permet d'avancer un coût
+moyen pour un recours en vice caché.
 
 ## La première semaine après la découverte
 

@@ -61,15 +61,16 @@ toute information obtenue après la signature.
 
 ## Ce que vous savez, et ce que vous ne pouvez pas ignorer
 
-Les sections D3 à D14 s'ouvrent toutes par la même mention : « À votre
-connaissance ». L'OACIQ le confirme, le formulaire n'exige pas du vendeur qu'il
-déclare ce qu'il ne connaît pas.
+Les sections D3 à D14 s'ouvrent par la même mention : « À votre connaissance ».
+L'OACIQ le confirme, le formulaire n'exige pas du vendeur qu'il déclare ce qu'il
+ne connaît pas.
 
 Le Code civil fixe un second seuil. L'article 1728 rend le vendeur responsable
 de la restitution du prix et du préjudice s'il connaissait le vice caché « ou ne
-pouvait l'ignorer », et l'article 1733 reprend la formule. « Ne pouvait ignorer » n'est pas « savait ». Un sous-sol qui prend
-l'eau chaque printemps, une auréole au plafond repeinte trois fois : personne ne
-soutient sérieusement n'avoir rien remarqué.
+pouvait l'ignorer », et l'article 1733 reprend la formule. « Ne pouvait
+ignorer » n'est pas « savait ». Un sous-sol qui prend l'eau chaque printemps,
+une auréole au plafond repeinte trois fois : personne ne soutient sérieusement
+n'avoir rien remarqué.
 
 Un mot sur les litiges, parce que la croyance est répandue. Le DV ne pose aucune
 question générale du type « avez-vous un litige en cours ». Il demande si vous
