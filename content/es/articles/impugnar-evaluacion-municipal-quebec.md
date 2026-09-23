@@ -1,7 +1,7 @@
 ---
 title: "Cómo impugnar su evaluación municipal en Quebec"
 date: 2026-08-24
-lastmod: 2026-09-23
+lastmod: 2026-08-24
 translationKey: "article-contester-evaluation-municipale"
 category: "Inmobiliaria 101"
 description: "Fecha de referencia, plazo del 1 de mayo, costos, respuesta del evaluador y recurso ante el TAQ: cómo impugnar su evaluación municipal en Quebec, paso a paso."

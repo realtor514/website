@@ -68,8 +68,8 @@ Copy these paths exactly. A link to a file that does not exist fails the build c
 
 ## Tools and conversion pages
 
-- /ar/formulaire/
-- /ar/contact/
+- /ar/istimara/
+- /ar/tawasul/
 - /ar/about/
 - /ar/buyer/
 - /ar/seller/

@@ -1,7 +1,7 @@
 ---
 title: "Contesting Your Municipal Assessment in Quebec"
 date: 2026-08-24
-lastmod: 2026-09-23
+lastmod: 2026-08-24
 translationKey: "article-contester-evaluation-municipale"
 category: "Real Estate 101"
 description: "Reference date, the May 1 deadline, fees, the assessor's written reply and the appeal to the TAQ: how to contest your municipal assessment in Quebec, step by step."

@@ -1,7 +1,7 @@
 ---
 title: "Hard to Insure Home in Quebec: What Actually Blocks the Deal"
 date: 2026-09-08
-lastmod: 2026-09-23
+lastmod: 2026-09-08
 translationKey: "article-maison-difficile-assurer"
 category: "Buyer's Guide"
 description: "Insurance refusal, oil tank, aluminum wiring, roof, past claims: why a Quebec home becomes hard to insure, and what to verify before you make an offer."

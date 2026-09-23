@@ -6,7 +6,7 @@ translationKey: "article-renovation-condo"
 category: "Real Estate 101"
 description: "Flooring, windows, balcony, load-bearing walls: what a co-owner may actually renovate in a Quebec condo, and what the déclaration de copropriété forbids."
 image: "images/articles/renovation-condo-copropriete-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 You want to pull up the carpet and lay hardwood, replace the living room window,
@@ -70,6 +70,7 @@ sets foot on it.
 | Structural framework, slab, frame | Partie commune (art. 1044) |
 | Pipes, even inside your unit | Partie commune (art. 1044) |
 | Partition between two units | Presumed common wall (art. 1045) |
+| Window | No mention: the declaration decides |
 | Finished floor covering | Private, subject to the by-laws |
 
 ## What the déclaration de copropriété requires before the work

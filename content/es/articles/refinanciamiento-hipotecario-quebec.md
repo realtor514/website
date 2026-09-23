@@ -6,7 +6,7 @@ translationKey: "article-refinancement-hypothecaire"
 category: "Financiamiento"
 description: "Renovación, transferencia o refinanciamiento hipotecario en Quebec: el tope del 80 %, la penalidad, el seguro que se pierde y los costos reales."
 image: "images/articles/refinancement-hypothecaire-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Tres pedidos llegan al mismo escritorio con tres nombres distintos: renovar,

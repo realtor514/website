@@ -68,7 +68,7 @@ Copy these paths exactly. A link to a file that does not exist fails the build c
 
 ## Tools and conversion pages
 
-- /en/formulaire/
+- /en/form/
 - /en/contact/
 - /en/about/
 - /en/buyer/

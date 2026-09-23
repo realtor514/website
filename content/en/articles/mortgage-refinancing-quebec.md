@@ -6,7 +6,7 @@ translationKey: "article-refinancement-hypothecaire"
 category: "Finance"
 description: "Renewal, transfer or mortgage refinancing in Quebec: the 80% ceiling, the penalty, the insurance you lose and the fees you actually pay."
 image: "images/articles/refinancement-hypothecaire-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Three requests land on the same desk under three different names: renew,

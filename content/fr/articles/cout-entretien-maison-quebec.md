@@ -1,7 +1,7 @@
 ---
 title: "Coût d'entretien d'une maison au Québec : le calendrier"
 date: 2026-09-01
-lastmod: 2026-09-23
+lastmod: 2026-09-01
 translationKey: "article-cout-entretien-maison"
 category: "Guide pratique"
 description: "Durées de vie par composant, effet du climat, réserve annuelle : le coût d'entretien d'une maison au Québec, et surtout quand la facture arrive."

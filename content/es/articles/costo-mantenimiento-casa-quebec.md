@@ -1,12 +1,12 @@
 ---
 title: "Costo de mantenimiento de una casa en Quebec: el calendario de reemplazo"
 date: 2026-09-01
-lastmod: 2026-09-23
+lastmod: 2026-09-01
 translationKey: "article-cout-entretien-maison"
 category: "Guía práctica"
 description: "Vida útil por componente, efecto del clima, reserva anual: cuánto cuesta mantener una casa en Quebec y, sobre todo, en qué año llega la factura."
 image: "images/articles/cout-entretien-maison-quebec/featured.jpg"
-draft: false
+draft: true
 ---
 
 La regla circula en todas partes: aparte cada año entre el 1 y el 3 % del valor

@@ -1,7 +1,7 @@
 ---
 title: "Casa difícil de asegurar en Quebec: lo que bloquea la compra"
 date: 2026-09-08
-lastmod: 2026-09-23
+lastmod: 2026-09-08
 translationKey: "article-maison-difficile-assurer"
 category: "Guía del Comprador"
 description: "Negativa del seguro, tanque de mazut, aluminio, techo, siniestros anteriores: por qué una casa se vuelve difícil de asegurar en Quebec y qué verificar antes de la oferta."

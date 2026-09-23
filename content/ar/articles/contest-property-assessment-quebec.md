@@ -1,7 +1,7 @@
 ---
 title: "الاعتراض على التقييم البلدي في كيبيك"
 date: 2026-08-24
-lastmod: 2026-09-23
+lastmod: 2026-08-24
 translationKey: "article-contester-evaluation-municipale"
 category: "عقارات 101"
 description: "تاريخ المرجع، ومهلة الأول من أيار، والرسوم، وردّ المقيّم، والطعن أمام TAQ: كيف تعترض على تقييمك البلدي في كيبيك، خطوة بخطوة."

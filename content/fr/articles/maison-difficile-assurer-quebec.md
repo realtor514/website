@@ -1,7 +1,7 @@
 ---
 title: "Maison difficile à assurer au Québec: ce qui bloque"
 date: 2026-09-08
-lastmod: 2026-09-23
+lastmod: 2026-09-08
 translationKey: "article-maison-difficile-assurer"
 category: "Guide de l'acheteur"
 description: "Refus d'assurance, mazout, aluminium, toiture, sinistres passés: pourquoi une maison devient difficile à assurer au Québec et quoi vérifier avant l'offre."

@@ -6,7 +6,7 @@ translationKey: "article-renovation-condo"
 category: "Inmobiliaria 101"
 description: "Piso, ventana, balcón, muro de carga: lo que un copropietario puede renovar en su condominio en Quebec, y lo que la déclaration de copropriété prohíbe."
 image: "images/articles/renovation-condo-copropriete-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Usted quiere cambiar la alfombra por madera maciza, reemplazar la ventana de la
@@ -71,6 +71,7 @@ estructura de vidrio son actos que tocan una partie commune, aunque usted sea el
 | Estructura, losa, armazón | Partie commune (art. 1044) |
 | Canalizaciones, incluso en su unidad | Partie commune (art. 1044) |
 | Tabique entre dos unidades | Presumido medianero (art. 1045) |
+| Ventana | Ninguna mención: decide la declaración |
 | Revestimiento de suelo terminado | Privativo, sujeto al reglamento |
 
 ## Lo que la déclaration de copropriété exige antes de las obras
