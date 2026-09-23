@@ -380,44 +380,56 @@ Etat verifie dans le depot le 2026-08-31.
       Declarations du vendeur est aussi transmis au preteur hypothecaire
       (ligne directrice OACIQ): phrase retiree de l AR faute de source au
       moment de l audit, a remettre dans les 4 langues si voulu.
-- [ ] REPRENDRE ICI. Le grand lot des 31 sujets est fait a 27 sur 31: les
-      trois brouillons FR (home-staging, why-choose-remax, negociation) sont
-      finis dans les 4 langues avec l espagnol cree, le 2026-09-21 pendant
-      l audit. Il reste 4 sujets, deja corriges pour la securite mais encore
-      courts, a etoffer dans les 4 langues en creant l espagnol quand il
-      manque:
-      - `best-time-sell-home-montreal`
-      - `renovations-dont-add-value`
-      - `worst-real-estate-deal-lessons` (es absent)
-      - `multilingual-broker-advantage` (es absent)
-      Consignes qui ont fait leurs preuves: un agent par paire de sujets,
-      interdiction d inventer un chiffre ou une anecdote de client,
+- [x] Le grand lot des 31 sujets est FINI, 31 sur 31, le 2026-09-23. Les
+      trois brouillons FR (home-staging, why-choose-remax, negociation) ont
+      ete finis le 2026-09-21 pendant l audit. Les 4 derniers sujets courts
+      ont ete etoffes le 2026-09-23 dans les 4 langues, avec l espagnol cree
+      pour les deux qui en manquaient:
+      - `best-time-sell-home-montreal`: table de 14 mois de donnees APCIQ,
+        chaque ligne tiree de la publication mensuelle de son propre mois
+        (l APCIQ revise ses series, donc ne jamais melanger les millesimes).
+        Le classement des mois, sans source, reste supprime.
+      - `renovations-dont-add-value`: aucun pourcentage de rendement, aucune
+        source officielle quebecoise n en publie. Explique le plafond des
+        comparables, le formulaire DV, les permis de Montreal et Laval, la
+        licence RBQ, les articles 2118 et 2120 du Code civil, la regle des
+        365 jours et la TPS sur renovation majeure.
+      - `worst-real-estate-deal-lessons` (es cree): sept echecs de
+        transaction et la regle qui les evite. La clause 10.5 de la promesse
+        d achat (21 jours au vendeur puis 5 a l acheteur) est ce qui decale
+        vraiment la date de cloture. Le cas d illustration est etiquete comme
+        cas de figure et ne porte aucun chiffre.
+      - `multilingual-broker-advantage` (es cree): bati sur le droit
+        linguistique, article 55.1 de la Charte ajoute en 2022 pour les
+        contrats de vente residentielle, article 55 pour les contrats d
+        adhesion, articles 3006 et 140 du Code civil pour les traductions au
+        registre foncier. L article 9 de la Charte est ecarte: son entree en
+        vigueur est suspendue par un jugement de la Cour superieure.
+      Les 63 sujets existent maintenant dans les 4 langues, aucun trou.
+      Verifie le 2026-09-23: plus aucun article sous 400 mots dans aucune
+      langue.
+- [x] Pages de secteur longueuil ES et AR: la phrase sur Integri-T y est
+      maintenant, comme en FR et EN. FAIT le 2026-09-23.
+      Consignes qui ont fait leurs preuves: un agent par sujet ou par paire de
+      sujets, interdiction d inventer un chiffre ou une anecdote de client,
       interdiction de promettre un rendement, interdiction de classer les
-      quartiers, et verification finale avec le script `verif.py` ecrit dans
-      le scratchpad de la session (mots, description, liens, tirets,
-      categorie).
-- [ ] Etoffer le reste des articles courts. Inventaire du 2026-09-21 apres le
-      lot du jour: 5 articles FR sous 400 mots, 6 AR, 4 EN, 0 ES.
-      ATTENTION a la methode
-      de comptage: `wc -w` sous Git Bash compte mal l arabe, il a annonce 335
-      mots pour un article qui en fait 1 131. Compter avec Python, en retirant
-      le frontmatter et le balisage des liens, jamais avec `wc`. Verifie le
-      meme jour: les 63 groupes d articles sont apparies correctement entre
-      FR, EN et AR, aucun hreflang ne manque.
-      L arabe est le pire des quatre, et c est la langue ou la concurrence est
-      la plus faible: c est donc la priorite. Le francais et l arabe
-      sont des resumes de la version anglaise, ce qui est a l envers pour le
-      marche vise. Deux lots faits le 2026-09-19 dans les 4 langues, espagnol
-      cree: heritage, divorce, aines, notaire, puis construction neuve,
-      avantages fiscaux des premiers acheteurs 2026, immeubles a revenus,
-      premiere visite. A refaire en priorite parce qu ils contiennent des
-      chiffres sans source: triplex a Laval (taux de capitalisation, rendements,
-      vacance), liste d inspection a Montreal (duree de vie des bardeaux,
-      panneaux electriques), gestion locative.
-- [ ] Completer l espagnol: 27 groupes sur 63 n ont pas de version ES apres
-      les lots des 20 et 21 septembre. Les sujets les plus commerciaux sont
-      couverts, il reste le contenu secondaire. Les 36 articles ES existants
-      font tous plus de 400 mots, et un seul est sous 700.
+      quartiers, interdiction d une statistique sans sa source (article 113,
+      4e du reglement C-73.2, r. 1), et verification finale par script Python
+      dans le scratchpad de la session (mots, frontmatter, liens, tirets).
+- [x] Etoffer les articles courts - FINI le 2026-09-23. Aucun article ne
+      passe plus sous 400 mots, dans aucune des 4 langues. Etat verifie ce
+      jour: 63 sujets, 252 articles, les 4 langues partout.
+      ATTENTION a la methode de comptage: `wc -w` sous Git Bash compte mal l
+      arabe, il a annonce 335 mots pour un article qui en fait 1 131. Compter
+      avec Python, en retirant le frontmatter et le balisage des liens,
+      jamais avec `wc`.
+      Reste a faire sur le fond, pas sur la longueur: l arabe demeure la
+      langue la plus faible et c est celle ou la concurrence est la moindre,
+      donc la priorite pour la qualite d ecriture.
+- [x] Completer l espagnol - FINI le 2026-09-23. Les 63 sujets ont leur
+      version ES. Les 5 derniers fichiers ont ete crees les 21 et 23
+      septembre: home-staging, why-choose-remax, strategies de negociation,
+      worst-real-estate-deal-lessons et multilingual-broker-advantage.
 - [x] Deuxieme lot du 2026-09-20, les 3 articles qui portaient des chiffres
       sans source, dans les 4 langues avec l espagnol cree: triplex a Laval
       (commit 420f9ab), liste d inspection (c2c48d3), gestion locative
