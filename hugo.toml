@@ -20,7 +20,7 @@ disableKinds = ["taxonomy", "term"]
     [languages.en.params]
       role        = "Residential Real Estate Broker"
       tagline     = "Residential Real Estate Broker in Laval, Montreal, North Shore and South Shore"
-      heroPitch   = "I work with you in French, English, Spanish and Arabic, with free Tranquilli-T legal assistance and 3 years of hidden defect coverage through Int&eacute;gri-T."
+      heroPitch   = "I work with you in French, English, Spanish and Arabic, with free Tranquilli-T legal assistance and the Int&eacute;gri-T warranty, paid by the seller, covering hidden defects for 3 years."
       heroQuote   = "&ldquo;Your trusted guide to the Montreal, Laval, Laurentians &amp; Lanaudi&egrave;re real estate market.&rdquo;"
       ctaListings = "View Properties"
       ctaContact  = "Contact Me"
@@ -215,7 +215,7 @@ disableKinds = ["taxonomy", "term"]
     [languages.fr.params]
       role        = "Courtier Immobilier Résidentiel"
       tagline     = "Courtier immobilier r&eacute;sidentiel &agrave; Laval, Montr&eacute;al, Rive-Nord et Rive-Sud"
-      heroPitch   = "Je vous accompagne en fran&ccedil;ais, en anglais, en espagnol et en arabe, avec l&rsquo;assistance juridique gratuite Tranquilli-T et les vices cach&eacute;s couverts 3 ans par Int&eacute;gri-T."
+      heroPitch   = "Je vous accompagne en fran&ccedil;ais, en anglais, en espagnol et en arabe, avec l&rsquo;assistance juridique gratuite Tranquilli-T et la garantie Int&eacute;gri-T, pay&eacute;e par le vendeur, qui couvre les vices cach&eacute;s 3 ans."
       heroQuote   = "Analyse rigoureuse. N&eacute;gociation experte. R&eacute;sultats concrets."
       ctaListings = "Voir les propriétés"
       ctaContact  = "Me contacter"
@@ -410,7 +410,7 @@ disableKinds = ["taxonomy", "term"]
     [languages.es.params]
       role        = "Corredor Inmobiliario Residencial"
       tagline     = "Corredor inmobiliario residencial en Laval, Montreal, Rive-Nord y Rive-Sud"
-      heroPitch   = "Le acompa&ntilde;o en franc&eacute;s, ingl&eacute;s, espa&ntilde;ol y &aacute;rabe, con la asistencia jur&iacute;dica gratuita Tranquilli-T y 3 a&ntilde;os de cobertura de vicios ocultos con Int&eacute;gri-T."
+      heroPitch   = "Le acompa&ntilde;o en franc&eacute;s, ingl&eacute;s, espa&ntilde;ol y &aacute;rabe, con la asistencia jur&iacute;dica gratuita Tranquilli-T y la garant&iacute;a Int&eacute;gri-T, pagada por el vendedor, que cubre los vicios ocultos 3 a&ntilde;os."
       heroQuote   = "&ldquo;Su guía de confianza en los mercados inmobiliarios de Montréal, Laval, los Laurentides y Lanaudière.&rdquo;"
       ctaListings = "Ver Propiedades"
       ctaContact  = "Contácteme"
@@ -577,7 +577,7 @@ disableKinds = ["taxonomy", "term"]
     [languages.ar.params]
       role        = "وسيط عقاري سكني"
       tagline     = "وسيط عقاري سكني في لافال ومونتريال والضفة الشمالية والضفة الجنوبية"
-      heroPitch   = "أرافقكم بالفرنسية والإنجليزية والإسبانية والعربية، مع المساعدة القانونية المجانية Tranquilli-T وتغطية العيوب الخفية لمدة 3 سنوات عبر Intégri-T."
+      heroPitch   = "أرافقكم بالفرنسية والإنجليزية والإسبانية والعربية، مع المساعدة القانونية المجانية Tranquilli-T وضمان Intégri-T الذي يدفعه البائع ويغطي العيوب الخفية لمدة 3 سنوات."
       ctaListings = "عرض العقارات"
       ctaContact  = "تواصل معي"
       description = "جورج مطر، وسيط عقاري سكني في RE/MAX DU CARTIER INC. نخدم المشترين والبائعين والمستثمرين في مونتريال، لافال، منطقة اللورانتيد ولانوديير."

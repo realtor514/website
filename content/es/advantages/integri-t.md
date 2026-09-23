@@ -19,6 +19,9 @@ facts:
     label: "Plazo hábil de aprobación"
   - value: "5 000 $"
     label: "Responsabilidad limitada del vendedor"
+  - value: "1 050 $"
+    label: "Monto base, pagado por el vendedor"
+paid: true
 ---
 
 El vicio oculto es la pesadilla mejor documentada del mercado inmobiliario quebequés. Una infiltración detrás de un muro terminado. Una cimentación que se mueve. Una instalación eléctrica no conforme disimulada por una renovación cosmética.
@@ -71,6 +74,12 @@ Esta es la parte que muchos vendedores no perciben.
 - Reduce sus obligaciones financieras respecto de defectos que usted mismo desconocía.
 
 Vender una casa de 45 años sin red significa aceptar años de exposición a un recurso cuyo momento y magnitud usted no controla. Integri-T cierra esa puerta.
+
+## Lo que cuesta
+
+A diferencia de Tranquilli-T, esta garantía no es gratuita. RE/MAX Québec la ofrece a los propietarios vendedores por un **monto base de 1 050 $**, pagadero al emitirse el certificado de garantía, ante el notario o antes con el servicio al cliente. En copropiedad el monto es más alto: **150 $ más por cada unidad adicional**.
+
+Las tarifas pueden cambiar sin previo aviso. Pídame la tabla vigente antes de decidir, y compare ese monto con lo que costaría una sola reclamación por vicio oculto.
 
 ## Las condiciones de elegibilidad
 

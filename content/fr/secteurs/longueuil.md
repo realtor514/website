@@ -64,4 +64,4 @@ L'analyse comparative est préparée sans frais, avec les ventes récentes de vo
 
 Établissez votre fourchette réelle avant les visites avec le [calculateur de capacité d'emprunt](/tools/affordability/), et prévoyez le [coût de clôture](/tools/closing-costs/) au-delà de la mise de fonds.
 
-Vous bénéficiez aussi de la protection [Intégri-T](/advantages/integri-t/), incluse dans mon accompagnement: jusqu'à 50 000 $ contre les vices cachés pendant trois ans.
+Vous bénéficiez aussi de la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur: jusqu'à 50 000 $ contre les vices cachés pendant trois ans.

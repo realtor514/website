@@ -19,6 +19,9 @@ facts:
     label: "Business days to approval"
   - value: "$5,000"
     label: "Seller's limited liability"
+  - value: "$1,050"
+    label: "Base amount, paid by the seller"
+paid: true
 ---
 
 The hidden defect is the best-documented nightmare in the Quebec real estate market. Water infiltration behind a finished wall. A foundation that is shifting. A non-compliant electrical system covered up by a cosmetic renovation.
@@ -71,6 +74,12 @@ This is the part many sellers do not realize.
 - It reduces your financial obligations regarding defects you did not know about yourself.
 
 Selling a 45-year-old house without a safety net means accepting years of exposure to a claim whose timing and size you do not control. Integri-T closes that door.
+
+## What it costs
+
+Unlike Tranquilli-T, this warranty is not free. RE/MAX Québec offers it to owner-sellers for a **base amount of $1,050**, payable when the warranty certificate is issued, at the notary's office or before that through customer service. For a condominium the amount is higher: **$150 more per additional unit**.
+
+Rates can change without notice. Ask me for the current schedule before you decide, and weigh that amount against what a single hidden defect claim would cost.
 
 ## Eligibility conditions
 

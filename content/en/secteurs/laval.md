@@ -72,7 +72,7 @@ Before you visit a single property, we establish three things: your real borrowi
 
 The order matters. Most buyers who lose heart have spent months visiting in sectors where their budget only gave them access to the weakest inventory.
 
-You also benefit from RE/MAX Québec's exclusive programs, included at no additional cost: [Tranquilli-T](/en/advantages/tranquilli-t/) for legal assistance and [Intégri-T](/en/advantages/integri-t/), which covers up to $50,000 in latent defects for three years after the notarial deed.
+You also benefit from RE/MAX Québec's exclusive programs: [Tranquilli-T](/en/advantages/tranquilli-t/) for legal assistance, at no additional cost, and the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller, which covers up to $50,000 in latent defects for three years after the notarial deed.
 
 ## Investing in Laval
 

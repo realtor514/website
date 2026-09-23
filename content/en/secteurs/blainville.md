@@ -66,6 +66,6 @@ The main risk here is the emotional purchase. Blainville shows well, and a sprin
 
 What I check systematically: the real age of the roof and windows, the state of the French drain for 1980s properties, and the history of the in-ground pool when there is one, because its refurbishment cost is what surprises buyers most.
 
-You also benefit from [Intégri-T](/en/advantages/integri-t/) protection, covering up to $50,000 in latent defects for three years after the notarial deed, included in my service.
+You also benefit from the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller, covering up to $50,000 in latent defects for three years after the notarial deed.
 
 Before starting visits, establish your real range with the [affordability calculator](/en/tools/affordability/).

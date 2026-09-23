@@ -17,5 +17,5 @@ faq:
   - q: "¿Cuánto tarda la venta de una propiedad?"
     a: "Varía según el sector, el tipo de propiedad y el precio de salida. Una propiedad bien preparada y correctamente publicada recibe generalmente sus mejores ofertas en las tres primeras semanas. Una propiedad sobrevalorada que debe bajar su precio después casi siempre se vende por menos y más lentamente."
   - q: "¿Ofrece garantías adicionales?"
-    a: "Sí, los programas exclusivos de RE/MAX Québec están incluidos sin costo adicional: [Tranquilli-T](/es/advantages/tranquilli-t/) para la asistencia jurídica, [Intégri-T](/es/advantages/integri-t/) que cubre hasta 50 000 $ en vicios ocultos durante tres años, y [Coproprié-T](/es/advantages/coproprie-t/) para las transacciones en copropiedad."
+    a: "Sí. [Tranquilli-T](/es/advantages/tranquilli-t/) para la asistencia jurídica y [Coproprié-T](/es/advantages/coproprie-t/) para las transacciones en copropiedad están incluidos sin costo adicional. [Intégri-T](/es/advantages/integri-t/), que cubre hasta 50 000 $ en vicios ocultos durante tres años, es una garantía de pago: un monto base de 1 050 $ que paga el vendedor al emitirse el certificado."
 ---

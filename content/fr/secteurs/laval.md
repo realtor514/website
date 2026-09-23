@@ -72,7 +72,7 @@ Avant que vous visitiez une seule propriété, on établit trois choses: votre c
 
 Cet ordre compte. La majorité des acheteurs qui se découragent ont visité pendant des mois dans des secteurs où leur budget ne leur donnait accès qu'aux propriétés les plus faibles de l'inventaire.
 
-Vous bénéficiez aussi des programmes exclusifs de RE/MAX Québec, inclus sans frais supplémentaires: [Tranquilli-T](/advantages/tranquilli-t/) pour l'assistance juridique et [Intégri-T](/advantages/integri-t/), qui couvre jusqu'à 50 000 $ de vices cachés pendant trois ans après l'acte notarié.
+Vous bénéficiez aussi des programmes exclusifs de RE/MAX Québec: [Tranquilli-T](/advantages/tranquilli-t/) pour l'assistance juridique, sans frais supplémentaires, et la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur, qui couvre jusqu'à 50 000 $ de vices cachés pendant trois ans après l'acte notarié.
 
 ## Investir à Laval
 

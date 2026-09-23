@@ -64,4 +64,4 @@ The comparative analysis is prepared at no charge, with recent sales from your s
 
 Establish your real range before visiting with the [affordability calculator](/en/tools/affordability/), and plan for [closing costs](/en/tools/closing-costs/) beyond the down payment.
 
-You also benefit from [Intégri-T](/en/advantages/integri-t/) protection, included in my service: up to $50,000 against latent defects for three years.
+You also benefit from the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller: up to $50,000 against latent defects for three years.

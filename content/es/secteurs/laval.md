@@ -72,7 +72,7 @@ Antes de que visite una sola propiedad, establecemos tres cosas: su capacidad re
 
 Este orden importa. La mayoría de los compradores que se desaniman han visitado durante meses en sectores donde su presupuesto solo les daba acceso a las propiedades más débiles del inventario.
 
-También se beneficia de los programas exclusivos de RE/MAX Québec, incluidos sin costo adicional: [Tranquilli-T](/es/advantages/tranquilli-t/) para la asistencia jurídica e [Intégri-T](/es/advantages/integri-t/), que cubre hasta 50 000 $ en vicios ocultos durante tres años después de la escritura notarial.
+También se beneficia de los programas exclusivos de RE/MAX Québec: [Tranquilli-T](/es/advantages/tranquilli-t/) para la asistencia jurídica, sin costo adicional, y la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor, que cubre hasta 50 000 $ en vicios ocultos durante tres años después de la escritura notarial.
 
 ## Invertir en Laval
 

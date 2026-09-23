@@ -19,6 +19,9 @@ facts:
     label: "Délai d'approbation ouvrable"
   - value: "5 000 $"
     label: "Responsabilité limitée du vendeur"
+  - value: "1 050 $"
+    label: "Montant de base, payé par le vendeur"
+paid: true
 ---
 
 Le vice caché est le cauchemar le mieux documenté du marché immobilier québécois. Une infiltration derrière un mur fini. Une fondation qui travaille. Un système électrique non conforme dissimulé par une rénovation cosmétique.
@@ -71,6 +74,12 @@ C'est la partie que beaucoup de vendeurs ne réalisent pas.
 - Elle réduit vos obligations financières à l'égard de défauts que vous ignoriez vous-même.
 
 Vendre une maison de 45 ans sans filet, c'est accepter de rester exposé pendant des années à un recours dont vous ne contrôlez ni le moment ni l'ampleur. Intégri-T ferme cette porte.
+
+## Ce que ça coûte
+
+Contrairement à Tranquilli-T, cette garantie n'est pas gratuite. RE/MAX Québec l'offre aux propriétaires-vendeurs moyennant un **montant de base de 1 050 $**, payable à l'émission du certificat de garantie, chez le notaire ou avant auprès du service à la clientèle. En copropriété, le montant est plus élevé : **150 $ de plus par unité additionnelle**.
+
+Les tarifs peuvent changer sans préavis. Demandez-moi la grille en vigueur avant de décider, et comparez ce montant à ce que coûterait une seule réclamation pour vice caché.
 
 ## Les conditions d'admissibilité
 

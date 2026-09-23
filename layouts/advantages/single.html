@@ -57,14 +57,26 @@
       {{ if $isFr }}Ce programme vous intéresse ?{{ else if $isAr }}هل يهمك هذا البرنامج؟{{ else if $isEs }}¿Le interesa este programa?{{ else }}Interested in this program?{{ end }}
     </h3>
     <p>
-      {{ if $isFr }}
-        Il est inclus dans mon accompagnement, sans frais supplémentaires. Écrivez-moi et je vous explique exactement ce qui s'applique à votre situation.
-      {{ else if $isAr }}
-        إنه مشمول ضمن خدماتي، بدون رسوم إضافية. راسلني وسأشرح لك بالضبط ما ينطبق على وضعك.
-      {{ else if $isEs }}
-        Está incluido en mi acompañamiento, sin costo adicional. Escríbame y le explico exactamente qué aplica a su situación.
+      {{ if .Params.paid }}
+        {{ if $isFr }}
+          Cette garantie est payante: un montant de base de 1 050 $ payé par le vendeur. Écrivez-moi et je vous explique exactement ce qui s'applique à votre situation.
+        {{ else if $isAr }}
+          هذا الضمان مدفوع: مبلغ أساسي قدره 1 050 دولاراً يدفعه البائع. راسلني وسأشرح لك بالضبط ما ينطبق على وضعك.
+        {{ else if $isEs }}
+          Esta garantía no es gratuita: un monto base de 1 050 $ que paga el vendedor. Escríbame y le explico exactamente qué aplica a su situación.
+        {{ else }}
+          This guarantee is not free: a base amount of $1,050 paid by the seller. Write to me and I will explain exactly what applies to your situation.
+        {{ end }}
       {{ else }}
-        It is included in my service, at no extra cost. Write to me and I will explain exactly what applies to your situation.
+        {{ if $isFr }}
+          Il est inclus dans mon accompagnement, sans frais supplémentaires. Écrivez-moi et je vous explique exactement ce qui s'applique à votre situation.
+        {{ else if $isAr }}
+          إنه مشمول ضمن خدماتي، بدون رسوم إضافية. راسلني وسأشرح لك بالضبط ما ينطبق على وضعك.
+        {{ else if $isEs }}
+          Está incluido en mi acompañamiento, sin costo adicional. Escríbame y le explico exactamente qué aplica a su situación.
+        {{ else }}
+          It is included in my service, at no extra cost. Write to me and I will explain exactly what applies to your situation.
+        {{ end }}
       {{ end }}
     </p>
     <div class="adv-cta__actions">

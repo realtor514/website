@@ -66,6 +66,6 @@ El principal riesgo aquí es la compra emocional. Blainville se presenta bien, y
 
 Lo que hay que verificar sistemáticamente: la edad real del techo y de las ventanas, el estado del drenaje francés en las propiedades de los años 1980, y el historial de la piscina enterrada cuando la hay, porque su costo de puesta a punto es lo que más sorprende a los compradores.
 
-También se beneficia de la protección [Intégri-T](/es/advantages/integri-t/), que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial, incluida en mi acompañamiento.
+También se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor, que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial.
 
 Antes de empezar las visitas, establezca su horquilla real con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/).

@@ -354,13 +354,23 @@ Etat verifie dans le depot le 2026-08-31.
       premiere personne retirees en ES et AR, statistiques sans source
       retirees (art. 113, 4e du reglement C-73.2, r. 1), "plancher sous les
       prix" retire du marche de Montreal.
-- [ ] DECISION: la page `content/<langue>/advantages/_index.md` annonce
-      "Aucun frais supplementaire" pour les 4 programmes, en fr, en et es.
-      C est faux pour Integri-T: environ 1 050 $ de base payes par le vendeur,
-      plus 150 $ par unite additionnelle en copropriete (remax-quebec.com).
-      La page `integri-t.md` ne dit pas le cout, et le `heroPitch` de
-      l accueil dans `hugo.toml` cite Integri-T sans le cout. L accueil
-      demande l accord de l utilisateur avant toute modification.
+- [x] Cout d Integri-T annonce partout - FAIT le 2026-09-23 avec l accord de
+      l utilisateur. Le site entier disait "Aucun frais supplementaire" pour
+      les 4 programmes. Faux: Integri-T est une garantie payante, montant de
+      base de 1 050 $ paye par le vendeur a l emission du certificat, plus
+      150 $ par unite additionnelle en copropriete, tarifs modifiables sans
+      preavis (remax-quebec.com/fr/integri-t/vendeur-ajout et acheteur-ajout).
+      Corrige dans les 4 langues: `advantages/_index.md` (description, tableau
+      et paragraphe de cout), `advantages/integri-t.md` (nouvelle section "Ce
+      que ca coute" et 5e fait dans la bande), la FAQ de l accueil
+      `content/<langue>/_index.md`, les pages de secteur laval, blainville et
+      longueuil, le partial `layouts/partials/protections-remax.html`, et le
+      `heroPitch` des 4 langues dans `hugo.toml`. Le gabarit
+      `layouts/advantages/single.html` affiche desormais un texte different
+      quand la page porte `paid: true` dans son frontmatter: seul
+      `integri-t.md` le porte. A REVOIR si RE/MAX change sa grille.
+      Divergence connue laissee en place: les pages de secteur longueuil ES
+      et AR ne parlent pas d Integri-T, contrairement aux versions FR et EN.
 - [ ] Divergences exactes laissees en place a l audit, a aligner un jour dans
       les 4 langues (contenu juste, present dans une seule langue, surtout en
       AR): condition de financement dans bidding-wars, art. 15 dans

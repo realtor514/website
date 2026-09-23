@@ -66,6 +66,6 @@ Le principal risque ici est l'achat émotif. Blainville se présente bien, et un
 
 À vérifier systématiquement: l'âge réel de la toiture et des fenêtres, l'état du drain français pour les propriétés des années 1980, et l'historique de la piscine creusée lorsqu'il y en a une, parce que c'est l'élément dont le coût de remise à niveau surprend le plus d'acheteurs.
 
-Vous bénéficiez également de la protection [Intégri-T](/advantages/integri-t/), qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans après l'acte notarié, incluse dans mon accompagnement.
+Vous bénéficiez également de la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur, qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans après l'acte notarié.
 
 Avant de commencer les visites, établissez votre fourchette réelle avec le [calculateur de capacité d'emprunt](/tools/affordability/).
