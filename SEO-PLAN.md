@@ -631,10 +631,26 @@ Saint-Francois, Saint-Vincent-de-Paul, Laval-Ouest) et les arrondissements de
 Montreal (Ahuntsic-Cartierville, Villeray, Rosemont, Saint-Leonard, Riviere
 des Prairies et d autres).
 
-- [ ] Choisir 6 a 10 quartiers ou tu fais reellement des transactions, et leur
-      faire une page dans les 4 langues, sur le modele des pages de ville.
-      Ne pas en creer 30 d un coup: une page de quartier sans contenu reel
-      (ecoles, transport, types de proprietes, prix) ne sert a rien.
+- [x] FAIT le 2026-09-23, commits 95e855d et 688358c. Huit quartiers dans les
+      4 langues, 32 fichiers, environ 1 000 mots en fr, en et es et 800 en ar:
+      Chomedey, Duvernay et Sainte-Dorothee a Laval, Riviere-des-Prairies et
+      Saint-Leonard a Montreal, Vieux-Longueuil et Saint-Hubert, et
+      Vieux-Terrebonne.
+      Modele retenu, a reprendre pour les prochains: meme section `secteurs`
+      et meme gabarit que les pages de ville, `weight` a partir de 101 pour
+      qu ils se classent apres les villes, `translationKey: quartier-<nom>`,
+      et une URL par langue, `/courtier-immobilier/<slug>/`,
+      `/en/real-estate-broker/`, `/es/corredor-inmobiliario/`,
+      `/ar/wasit-aqari/`. Le slug porte la ville quand le nom seul est
+      ambigu: `chomedey-laval`, mais `vieux-longueuil`.
+      Regle non negociable verifiee par script sur les 32 fichiers: jamais
+      decrire un secteur par l origine, la religion, la langue ou la classe
+      sociale de ses residents. Seulement le bati, le transport, les ecoles,
+      les services et les prix avec leur source.
+      Prochains candidats si tu veux continuer: Vimont, Sainte-Rose,
+      Laval-des-Rapides et Pont-Viau a Laval, Anjou et Montreal-Nord a
+      Montreal, Greenfield Park a Longueuil, Lachenaie a Terrebonne. A ne
+      faire que la ou tu transiges vraiment.
 
 ### 5.6 - Contenu arabe et espagnol propre a la communaute
 
