@@ -20,12 +20,11 @@ et qui paie quand il tombe.
 
 Le Code civil ne consacre aucun article à la question « à qui est cet arbre ».
 Il y répond autrement. L'article 900 classe les végétaux parmi les immeubles
-« tant qu'ils ne sont pas séparés ou extraits du fonds ». L'article 951 ajoute
-que « la propriété du sol emporte celle du dessus et du dessous ». Et l'article
-948 nomme ce mécanisme : la propriété d'un bien donne droit à ce qui s'y unit,
-naturellement ou artificiellement. Résultat pratique : l'arbre suit le terrain
-d'où son tronc émerge. Des branches qui débordent chez le voisin et des racines
-qui traversent la ligne n'y changent rien.
+« tant qu'ils ne sont pas séparés ou extraits du fonds », et l'article 951
+ajoute que « la propriété du sol emporte celle du dessus et du dessous ».
+Résultat pratique : l'arbre suit le terrain d'où son tronc émerge. Des branches
+qui débordent chez le voisin et des racines qui traversent la ligne n'y changent
+rien.
 
 **Le cas des fruits surprend tout le monde.** L'article 984 est court et net :
 « Les fruits qui tombent d'un arbre sur un fonds voisin appartiennent au
@@ -34,17 +33,14 @@ les vôtres.
 
 **L'arbre à cheval sur la ligne appartient aux deux.** Si le tronc pousse de
 part et d'autre de la ligne séparative, chacun est propriétaire du sol qui le
-porte. L'arbre est alors détenu en indivision, et l'article 1026 devient la
+porte, et l'arbre est détenu en indivision. L'article 1026 devient alors la
 règle du jeu : les décisions d'administration se prennent à la majorité, mais
 celles qui visent à aliéner le bien ou à y apporter des modifications
-substantielles se prennent à l'unanimité. Personne n'abat seul un arbre
-mitoyen. La logique rejoint celle de l'article 1003 pour la clôture : « Toute
-clôture qui se trouve sur la ligne séparative est présumée mitoyenne », et
-l'article 1002 permet justement de clore son terrain avec des haies.
-
-Une précision qui évite des chicanes : la ligne séparative, ce n'est pas la
-clôture. C'est ce que montre le certificat de localisation, et à défaut
-d'entente, le bornage prévu à l'article 978.
+substantielles se prennent à l'unanimité. Personne n'abat seul un arbre mitoyen.
+La logique rejoint celle de l'article 1003 : « Toute clôture qui se trouve sur
+la ligne séparative est présumée mitoyenne. » Et attention, la ligne séparative
+n'est pas la clôture : c'est ce que montre le certificat de localisation, ou à
+défaut le bornage de l'article 978.
 
 ## Branches et racines : ce que le Code civil permet
 
@@ -56,43 +52,36 @@ voisin de les couper ; en cas de refus, il peut le contraindre à les couper. Il
 peut aussi, si un arbre du fonds voisin menace de tomber sur son fonds,
 contraindre son voisin à abattre l'arbre ou à le redresser. »
 
-Trois choses s'y trouvent, et une quatrième ne s'y trouve pas.
-
-Il faut un envahissement physique. Il faut que cet envahissement nuise
+Il faut donc un envahissement physique, et il faut que cet envahissement nuise
 **sérieusement** à l'usage de votre terrain, ce qui est plus exigeant que
 « m'agace ». L'article 976 pose l'autre moitié de l'équation : les voisins
 doivent accepter les inconvénients normaux du voisinage. De l'ombre sur un coin
 de pelouse, des feuilles à ramasser, du pollen : ce sont des inconvénients
 normaux.
 
-Ce qui n'y est pas : le droit de couper vous-même. Éducaloi est catégorique.
-« Vous ne pouvez pas vous faire justice vous-même, et ce, même si les branches
-(ou racines) de l'arbre de votre voisin que vous voulez couper sont sur votre
-terrain. » Vous demandez, puis vous mettez en demeure, puis vous tentez la
-médiation, puis vous vous adressez au tribunal. Si vous coupez quand même,
-Éducaloi rappelle que la Cour pourrait vous condamner à indemniser le voisin
-pour avoir endommagé ou tué son arbre.
-
-Un seul cas échappe à cette logique de démonstration : l'article 986, réservé
-au propriétaire d'un fonds exploité à des fins agricoles, qui peut faire abattre
-les arbres nuisibles le long de la ligne séparative, sur une largeur maximale de
-cinq mètres.
+Ce qui n'est pas dans l'article, c'est le droit de couper vous-même. Éducaloi
+est catégorique : « Vous ne pouvez pas vous faire justice vous-même, et ce, même
+si les branches (ou racines) de l'arbre de votre voisin que vous voulez couper
+sont sur votre terrain. » Vous demandez, vous mettez en demeure, vous tentez la
+médiation, puis vous vous adressez au tribunal. Si vous coupez quand même, la
+Cour pourrait vous condamner à indemniser le voisin pour avoir endommagé ou tué
+son arbre. Seul le propriétaire d'un fonds agricole échappe à cette démarche,
+par l'article 986, et sur une largeur maximale de cinq mètres.
 
 ## L'abattage d'un arbre exige un permis presque partout au Québec
 
-C'est l'étape que les propriétaires sautent le plus souvent. Le Code civil dit
-que l'arbre est à vous ; le règlement municipal dit ce que vous avez le droit de
-lui faire.
+Le Code civil dit que l'arbre est à vous. Le règlement municipal dit ce que vous
+avez le droit de lui faire, et c'est l'étape que les propriétaires sautent.
 
-À Montréal, la Ville écrit qu'un permis d'abattage, aussi appelé certificat
-d'autorisation, est nécessaire, et les seuils varient d'un arrondissement à
-l'autre. Dans Ahuntsic-Cartierville, le certificat est exigé non seulement pour
-abattre un arbre dont le tronc atteint 10 cm de diamètre mesuré à 1,3 m du sol,
-mais aussi pour rehausser de plus de 20 cm le sol sous sa ramure, pour couper
-40 % ou plus de ses branches, et pour couper 40 % ou plus de ses racines. Cette
-dernière ligne est celle qui attrape les gens qui creusent.
+À Montréal, le permis d'abattage, aussi appelé certificat d'autorisation, est
+nécessaire, et les seuils varient d'un arrondissement à l'autre. Dans
+Ahuntsic-Cartierville, il est exigé non seulement pour abattre un arbre dont le
+tronc atteint 10 cm de diamètre mesuré à 1,3 m du sol, mais aussi pour rehausser
+de plus de 20 cm le sol sous sa ramure, pour couper 40 % ou plus de ses
+branches, et pour couper 40 % ou plus de ses racines. Cette dernière ligne est
+celle qui attrape les gens qui creusent.
 
-À Laval, la Ville est encore plus large : « Avant d'abattre un arbre sur votre
+À Laval, la règle est encore plus large : « Avant d'abattre un arbre sur votre
 propriété, et ce, même si la demande provient d'une recommandation
 d'Hydro-Québec, il est obligatoire d'obtenir un certificat d'autorisation. » Le
 seuil est de 30 mm de diamètre pour un feuillu et de 150 cm de hauteur pour un
@@ -109,17 +98,12 @@ refusées, et elles couvrent à peu près tout ce qu'on entend en visite : on ne
 peut pas faire abattre un arbre parce qu'il perd des fleurs, des feuilles, de la
 sève ou des brindilles, parce qu'il produit du pollen, abrite des animaux ou des
 insectes, fait de l'ombre, ou parce que ses racines sont visibles à la surface
-du sol. Les motifs acceptés sont l'arbre mort, le dépérissement irréversible,
-les dommages sérieux aux biens, le danger pour la sécurité publique, la
-propagation d'une maladie, et les travaux autorisés par un permis de
-construction. Laval publie une liste équivalente. Dans les deux villes, l'arbre
-abattu doit être remplacé, et la demande visant un frêne est gratuite en raison
-de l'agrile.
+du sol. Les motifs acceptés, à Montréal comme à Laval, tiennent à l'arbre mort
+ou dépérissant, au danger, à la propagation d'une maladie et aux travaux
+autorisés par un permis. Dans les deux villes, l'arbre abattu doit être
+remplacé, et la demande visant un frêne est gratuite en raison de l'agrile.
 
 ## Ce que l'assurance couvre quand un arbre tombe
-
-Le Bureau d'assurance du Canada répond à trois questions que les propriétaires
-se posent après chaque tempête.
 
 Si votre arbre tombe sur la maison du voisin : « Même si l'arbre vous
 appartient, vous n'êtes pas responsable des dommages qu'il peut avoir causés
@@ -138,28 +122,27 @@ moi, qui vous le confirmera.
 
 ## Un arbre près de la fondation, du drain ou d'une ligne
 
-Pour un acheteur, un gros arbre à trois mètres du mur n'est pas un défaut. C'est
+Pour un acheteur, un gros arbre à trois mètres du mur n'est pas un défaut, mais
 un poste à documenter, parce qu'il touche des travaux encadrés.
 
 Les racines d'abord. Si votre projet suppose d'excaver pour refaire le drain
 français, de couler une dalle ou d'agrandir l'entrée, vous êtes déjà dans le
 règlement : à Montréal, couper 40 % ou plus des racines d'un arbre protégé
-demande une autorisation au même titre que l'abattage. À Laval, l'abattage
+demande une autorisation au même titre que l'abattage, et à Laval, l'abattage
 requis « afin de construire ou d'aménager un ouvrage » doit être couvert par un
-certificat d'autorisation de l'urbanisme. Le bon réflexe est de vérifier avant
-de faire chiffrer les travaux, pas après.
+certificat d'autorisation de l'urbanisme. Vérifiez avant de faire chiffrer les
+travaux, pas après.
 
 Les fils ensuite. Hydro-Québec associe à chaque espèce une distance de
 plantation sécuritaire à respecter près d'une ligne moyenne tension, et élague
-périodiquement les branches dangereuses, ce qui déforme l'arbre. Son répertoire
-d'arbres et d'arbustes permet de vérifier l'espèce avant de planter.
+périodiquement les branches dangereuses, ce qui déforme l'arbre.
 
 Enfin, l'inspection. Un inspecteur en bâtiment n'est pas un arboriculteur : il
-constate des fissures, un drain qui refoule, un sol qui bouge, sans se prononcer
-sur la santé d'un arbre. Si l'arbre vous inquiète, c'est un rapport d'expert
-distinct qu'il faut, souvent le même que la Ville exige pour délivrer le permis.
-La liste complète des postes examinés se trouve dans le guide de l'[inspection
-préachat, poste par poste](/articles/home-inspection-checklist-montreal/).
+constate une fissure, un drain qui refoule, un sol qui bouge, sans se prononcer
+sur la santé d'un arbre. Si l'arbre vous inquiète, il faut le rapport d'expert
+distinct que la Ville exige de toute façon pour délivrer le permis. Le reste se
+vérifie à l'[inspection
+préachat](/articles/home-inspection-checklist-montreal/).
 
 ## Vendre ou acheter une propriété avec un gros arbre : ce qui se déclare
 
@@ -180,16 +163,14 @@ pouvait ignorer. Un litige de voisinage en cours au sujet d'un arbre, une mise
 en demeure reçue, un abattage fait sans permis : ça se dit, et ça se dit par
 écrit.
 
-**Sur la valeur, je m'arrête ici.** Je peux vous dire ce qu'un arbre coûte à
-enlever, ce qu'il impose comme permis et ce qu'il change au contrat. Je ne peux
-pas vous dire ce qu'il ajoute au prix, parce qu'aucune donnée québécoise
-publique ne le mesure, et parce que mon règlement professionnel m'oblige à
-pouvoir démontrer l'exactitude de ce que j'avance. Pour une estimation ancrée
-sur des ventes comparables plutôt que sur une impression, partez de
-l'[estimation de valeur de votre propriété](/tools/home-estimate/) et faites-la
-valider. La même prudence s'applique aux travaux : c'est exactement le
-raisonnement du texte sur [ce que les rénovations ajoutent
-vraiment](/articles/renovations-dont-add-value/).
+**Sur la valeur, je m'arrête ici.** Je peux vous dire ce qu'un arbre impose
+comme permis et ce qu'il change au contrat. Je ne peux pas vous dire ce qu'il
+ajoute au prix : aucune donnée québécoise publique ne le mesure, et mon
+règlement professionnel m'oblige à pouvoir démontrer ce que j'avance. Partez
+plutôt de l'[estimation de valeur de votre
+propriété](/tools/home-estimate/), ancrée sur des ventes comparables, puis
+faites-la valider. C'est le même raisonnement que pour [ce que les rénovations
+ajoutent vraiment](/articles/renovations-dont-add-value/).
 
 ## Questions fréquentes
 
@@ -197,8 +178,8 @@ vraiment](/articles/renovations-dont-add-value/).
 couper moi-même ?**
 Non. L'article 985 vous donne le droit de le contraindre, pas de le faire à sa
 place. Vous démontrez que la branche nuit sérieusement à l'usage de votre
-propriété, vous envoyez une mise en demeure, puis vous passez par la médiation
-ou le tribunal. Couper vous-même vous expose à devoir indemniser le voisin.
+propriété, vous mettez en demeure, puis vous passez par la médiation ou le
+tribunal. Couper vous-même vous expose à indemniser le voisin.
 
 **L'arbre est sur mon terrain et il est en santé. J'ai quand même besoin d'un
 permis pour l'abattre ?**
@@ -207,15 +188,15 @@ sera délivré que si votre motif figure dans la liste des motifs acceptés. Un
 arbre en santé qui fait de l'ombre n'en fait pas partie.
 
 **Un arbre penche sur ma maison. Qu'est-ce que je fais en premier ?**
-Vous écrivez au voisin, même brièvement, parce que l'article 985 vous permet de
-le contraindre à abattre ou à redresser un arbre qui menace de tomber. Cet écrit
-devient aussi votre preuve si l'arbre tombe et que la question de la négligence
-se pose devant l'assureur.
+Vous écrivez au voisin, même brièvement : l'article 985 vous permet de le
+contraindre à abattre ou à redresser un arbre qui menace de tomber. Cet écrit
+devient votre preuve si la question de la négligence se pose ensuite devant
+l'assureur.
 
 **Le vendeur a fait abattre trois arbres avant l'inscription. Ça me regarde ?**
 Oui. Demandez les certificats d'autorisation et vérifiez l'obligation de
 remplacement, qui suit la propriété. Un abattage non conforme laisse une
-exigence ouverte auprès de la Ville, et c'est vous qui l'héritez.
+exigence ouverte auprès de la Ville, et vous en héritez.
 
 Pour compléter, lisez [les signaux qui justifient de se
 retirer](/articles/red-flags-walk-away-property/) et [ce qu'une adresse

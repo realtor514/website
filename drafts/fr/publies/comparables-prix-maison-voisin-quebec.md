@@ -41,37 +41,36 @@ comptent.
 
 L'OACIQ décrit l'exercice en une phrase: pour déterminer la juste valeur
 marchande, le courtier doit notamment procéder à une analyse comparative avec
-d'autres propriétés semblables récemment vendues dans le même secteur (page
-mise à jour le 17 décembre 2025). Quatre conditions se cachent dans cette
-phrase.
+d'autres propriétés semblables récemment vendues dans le même secteur (page mise
+à jour le 17 décembre 2025). Quatre conditions se cachent dans cette phrase.
 
 **La proximité.** Même secteur veut dire même marché: mêmes taxes, même
-desserte, même école de quartier. Une vente à quinze minutes d'auto n'est pas
-une vente « dans le même secteur ».
+desserte, même école de quartier. Une vente à quinze minutes d'auto n'en est pas
+une.
 
 **Le type et l'époque.** Le rôle d'évaluation distingue le genre de
 construction: de plain-pied, à niveaux décalés, unimodulaire, à étage mansardé,
 à étage entier. Un cottage de 2008 et un bungalow de 1962 ne se comparent pas,
-même côte à côte. L'OACIQ range d'ailleurs l'année de construction et l'état de
+même côte à côte. L'OACIQ range l'année de construction et l'état de
 conservation parmi les éléments qui agissent sur le prix.
 
-**La récence.** Une vente conclue aujourd'hui a été négociée plusieurs semaines
-plus tôt. En août 2026, l'APCIQ mesurait un délai de vente moyen de 42 jours
-pour l'unifamiliale dans la RMR de Montréal, et de 62 jours pour la
-copropriété. Ajoutez le délai jusqu'à l'acte notarié. Une vente « du mois
-dernier » décrit un marché d'il y a un trimestre.
+**La récence.** Une vente conclue aujourd'hui a été négociée des semaines plus
+tôt. En août 2026, l'APCIQ mesurait un délai de vente moyen de 42 jours pour
+l'unifamiliale dans la RMR de Montréal, et de 62 jours pour la copropriété.
+Ajoutez le délai jusqu'à l'acte notarié: une vente « du mois dernier » décrit un
+marché d'il y a un trimestre.
 
 **La superficie habitable comparable.** C'est le critère que presque personne
 ne vérifie, et c'est celui qui fait le plus de dégâts.
 
 ## La superficie habitable ne se mesure pas à l'oeil
 
-Un pied carré n'est pas une notion évidente: c'est le résultat d'une méthode.
-L'OACIQ l'écrit noir sur blanc pour la location commerciale. Les parties doivent
+Un pied carré n'est pas une évidence: c'est le résultat d'une méthode. L'OACIQ
+l'écrit noir sur blanc pour la location commerciale. Les parties doivent
 utiliser une méthode reconnue de mesurage, la norme BOMA étant la plus répandue,
-et les méthodes de calcul varient selon la norme retenue, le type d'immeuble et
-l'année de publication. D'où le conseil du guide: exiger un mesurage « selon une
-norme précise, et confirmé par un certificat de mesurage ».
+et les calculs varient selon la norme retenue et le type d'immeuble. D'où le
+conseil du guide: exiger un mesurage « selon une norme précise, et confirmé par
+un certificat de mesurage ».
 
 En copropriété divise, la règle est déjà tranchée. La superficie nette est
 établie par le mesurage réel de l'intérieur de la partie privative, à partir des
@@ -114,13 +113,12 @@ vendue pour la rapprocher de la vôtre, jamais l'inverse. La maison vendue avait
 un garage et vous n'en avez pas? On retranche de son prix. Elle avait une salle
 de bain de moins? On ajoute.
 
-L'OACIQ énumère les éléments à considérer: l'emplacement, les dimensions de
-l'immeuble, l'année de construction, l'état de conservation, le nombre de pièces
-et leur disposition, les matériaux, l'aménagement du terrain et les
-caractéristiques du marché. Sa ligne directrice sur la vérification,
-l'information et le conseil, mise à jour le 23 septembre 2026, exige que la
-valeur marchande soit appuyée par des éléments objectifs et par les comparables
-disponibles.
+L'OACIQ énumère les éléments à considérer: l'emplacement, les dimensions,
+l'année de construction, l'état de conservation, le nombre de pièces et leur
+disposition, les matériaux, l'aménagement du terrain. Sa ligne directrice sur la
+vérification, l'information et le conseil, mise à jour le 23 septembre 2026,
+exige que la valeur marchande soit appuyée par des éléments objectifs et par les
+comparables disponibles.
 
 Un ajustement se défend donc en trois temps: le sens, le montant, la
 justification. Méfiez-vous du pourcentage rond appliqué à une rénovation: aucune
@@ -136,32 +134,29 @@ de courtage, sur la déontologie des courtiers et sur la publicité.
 
 ## Pourquoi l'évaluation municipale n'est pas le prix de votre maison
 
-Le rôle ne se trompe pas, il répond simplement à une autre question. La valeur
-réelle inscrite au rôle est la valeur d'échange sur un marché libre et ouvert à
-la concurrence, établie selon les conditions du marché au 1er juillet du
-deuxième exercice précédant l'entrée en vigueur du rôle, soit 18 mois avant. Le
-rôle est triennal.
-
-Traduction pour deux villes du secteur:
+Le rôle ne se trompe pas, il répond à une autre question. La valeur réelle
+inscrite au rôle est la valeur d'échange sur un marché libre et ouvert à la
+concurrence, établie selon les conditions du marché au 1er juillet du deuxième
+exercice précédant l'entrée en vigueur, soit 18 mois avant. Et le rôle est
+triennal.
 
 | Ville | Rôle en vigueur | Date de référence au marché |
 |---|---|---|
 | Montréal | 2026-2027-2028 | 1er juillet 2024 |
 | Laval | 2025-2026-2027 | 1er juillet 2023 |
 
-La Ville de Laval l'écrit elle-même sur sa page: l'évaluation de votre
-propriété « ne reflète donc pas forcément sa valeur marchande actuelle ». À
-titre indicatif, la valeur moyenne d'une résidence unifamiliale y atteignait
-622 000 $ au dépôt du rôle actuel, après une hausse moyenne de 39,5 % pour
-cette catégorie par rapport au rôle précédent. Pour ce que le rôle sert vraiment
-à calculer, lisez [l'explication des taxes
+La Ville de Laval l'écrit elle-même: l'évaluation de votre propriété « ne
+reflète donc pas forcément sa valeur marchande actuelle ». La valeur moyenne
+d'une résidence unifamiliale y atteignait 622 000 $ au dépôt du rôle actuel,
+après une hausse moyenne de 39,5 % pour cette catégorie. Pour ce que le rôle
+sert vraiment à calculer, lisez [l'explication des taxes
 foncières](/articles/property-tax-explained/).
 
-Le rôle reste utile autrement. À Montréal, un propriétaire d'un immeuble
-résidentiel de cinq logements ou moins peut consulter gratuitement les ventes
-survenues dans son secteur pendant l'année de référence. La Ville accompagne le
-service d'un avertissement honnête: ces ventes « peuvent, ou non, être
-comparables à votre propriété ».
+Le rôle reste utile autrement. À Montréal, le propriétaire d'un immeuble
+résidentiel de cinq logements ou moins peut consulter gratuitement les ventes de
+son secteur survenues pendant l'année de référence. La Ville y joint un
+avertissement honnête: ces ventes « peuvent, ou non, être comparables à votre
+propriété ».
 
 ## Les conditions de vente déforment un comparable
 
@@ -174,63 +169,56 @@ vente publiée au Registre foncier, mais le prix n'a pas été fixé par la
 concurrence. Le chiffre existe; il ne prouve rien sur le marché.
 
 **La succession.** L'OACIQ note que l'exclusion complète de la garantie légale
-de qualité, la fameuse vente « aux risques et périls de l'acheteur », est
-notamment envisagée lors d'une succession ou d'une reprise de finance, en
-raison de la connaissance limitée du vendeur. Une propriété vendue sans
-garantie légale ne se paie pas comme une propriété vendue avec. Retenir un tel
-comparable sans le signaler fausse l'analyse.
+de qualité, la vente « aux risques et périls de l'acheteur », est notamment
+envisagée lors d'une succession ou d'une reprise de finance, en raison de la
+connaissance limitée du vendeur. Une propriété vendue sans garantie légale ne se
+paie pas comme une propriété vendue avec.
 
-**Le délai imposé.** L'OACIQ demande au courtier de prendre en considération
-les besoins et la situation du vendeur pour établir un juste prix, en citant
-lui-même la succession et la séparation. Une vente bouclée en dix jours parce
-qu'un jugement l'exigeait ne décrit pas le marché. Le calendrier fait partie du
-prix, comme l'explique l'article sur [le temps réel d'une
+**Le délai imposé.** L'OACIQ demande au courtier de tenir compte des besoins et
+de la situation du vendeur pour établir un juste prix, en citant la succession
+et la séparation. Une vente bouclée en dix jours parce qu'un jugement l'exigeait
+ne décrit pas le marché. Le calendrier fait partie du prix, comme l'explique
+l'article sur [le temps réel d'une
 vente](/articles/combien-de-temps-vendre-maison-montreal/).
 
 ## Lire l'analyse comparative qu'on vous présente
 
 Les questions à poser, dans l'ordre, à la table de cuisine:
 
-1. Combien de ces comparables sont des ventes conclues, et combien sont des
+1. Combien de ces comparables sont des ventes conclues, combien sont des
    inscriptions en cours?
 2. À quelle date chaque vente a-t-elle été conclue, et à quelle distance?
-3. D'où vient la superficie de chaque propriété, et selon quelle méthode a-t-elle
-   été mesurée?
-4. Le sous-sol est-il compté dans ces superficies, pour la mienne comme pour
-   les autres?
-5. Quels ajustements ont été appliqués, dans quel sens, pour quel montant, et
-   sur quelle base?
+3. D'où vient chaque superficie, et selon quelle méthode a-t-elle été mesurée?
+4. Le sous-sol est-il compté, pour la mienne comme pour les autres?
+5. Quels ajustements, dans quel sens, pour quel montant, sur quelle base?
 6. Une de ces ventes avait-elle une condition particulière: lien entre les
    parties, succession, vente sans garantie légale, délai imposé?
 7. Quelle est la date des données, et depuis, le marché a bougé dans quel sens?
 
-Une réserve à connaître avant de crier à la cachotterie: le courtier ne peut
-pas vous remettre les fiches des comparables sans masquer ce qui identifie le
-vendeur, directement ou indirectement, soit les photos, l'adresse et le nom du
-propriétaire. C'est une obligation de l'OACIQ, pas une esquive.
+Une réserve avant de crier à la cachotterie: le courtier ne peut pas vous
+remettre les fiches des comparables sans masquer ce qui identifie le vendeur,
+soit les photos, l'adresse et le nom du propriétaire. C'est une obligation de
+l'OACIQ, pas une esquive.
 
 ## Questions fréquentes
 
 **Mon voisin demande 60 000 $ de plus que le prix qu'on me propose. Pourquoi?**
 Parce qu'il demande, et que vous cherchez à obtenir. Tant que sa vente n'est pas
-conclue et publiée, son chiffre n'entre dans aucune analyse sérieuse. S'il se
-vend, revenez voir le prix réel.
+conclue et publiée, son chiffre n'entre dans aucune analyse. S'il se vend,
+revenez voir le prix réel.
 
 **Pourquoi mon courtier refuse de me donner l'adresse des comparables?**
-Il ne refuse pas, il applique une règle. Les fiches remises au client doivent
-être caviardées de tout ce qui identifie le vendeur tant que la vente n'est pas
-publiée au Registre foncier. Vous avez droit aux données: le prix, la date, la
-superficie, les ajustements.
+Il applique une règle. Les fiches remises au client doivent être caviardées de
+ce qui identifie le vendeur tant que la vente n'est pas publiée au Registre
+foncier. Vous avez droit aux données: prix, date, superficie, ajustements.
 
 **L'évaluation municipale dit 540 000 $. Je peux demander ce prix?**
-Vous pouvez demander ce que vous voulez, mais ce chiffre décrit le marché à une
-date de référence passée, 18 mois avant l'entrée en vigueur du rôle. Il ne dit
-rien de septembre 2026.
+Ce chiffre décrit le marché à une date de référence passée, 18 mois avant
+l'entrée en vigueur du rôle. Il ne dit rien de septembre 2026.
 
 **Mon sous-sol est entièrement fini. Il ne compte pas?**
-Il compte, mais pas à la même valeur qu'une surface hors sol, et pas dans la
-même ligne de chiffres. Exigez que la superficie hors sol et la superficie
-aménagée au sous-sol soient présentées séparément, pour votre propriété comme
+Il compte, mais pas dans la même ligne de chiffres qu'une surface hors sol.
+Exigez que les deux soient présentées séparément, pour votre propriété comme
 pour chaque comparable.
 
 Pour compléter, lisez [ce que le prix demandé signifie vraiment en situation de

@@ -1,0 +1,93 @@
+{
+ "id": "t07",
+ "slug": "acheter-zone-inondable-quebec",
+ "title": "Acheter en zone inondable au Québec : les vérifications",
+ "target_keyword": "acheter zone inondable quebec",
+ "word_count": 1767,
+ "category": "Guide de l'acheteur",
+ "internal_links": [
+  "/articles/home-inspection-checklist-montreal/",
+  "/tools/mortgage/",
+  "/articles/acheter-laval-2025/",
+  "/articles/red-flags-walk-away-property/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cadre-reglementaire",
+   "title": "Cadre réglementaire pour la gestion des milieux hydriques et des ouvrages de protection contre les inondations",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Le cadre modernisé remplace le régime transitoire depuis le 1er mars 2026, repose sur trois règlements dont un consacré aux règles transitoires applicables en cas de changement à la délimitation des zones inondables et des zones de mobilité, et s'appuie sur les cartographies d'ancienne comme de nouvelle génération."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur/interpretation",
+   "title": "Interprétation des cartographies de nouvelle génération des zones inondables et des zones de mobilité des cours d'eau",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Les quatre classes d'intensité (faible, modérée, élevée, très élevée), la fréquence exprimée en probabilité sur 25 ans (plus de 70 pour cent, 20 à 70 pour cent, 7 à 20 pour cent), les trois paliers de profondeur (0 à 30 cm, plus de 30 à 60 cm, plus de 60 cm), les zones d'embâcle classées très élevée, les zones protégées à risque résiduel, les zones de mobilité à court et à long terme, et l'ancien découpage grand courant 0 à 20 ans et faible courant 20 à 100 ans."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur",
+   "title": "Cartographies des zones inondables et des zones de mobilité d'un cours d'eau en vigueur",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "La carte interactive à zonesinondables.mrnf.gouv.qc.ca, la coexistence des deux générations de cartographies, la mention que les données d'ancienne génération sont fournies à titre indicatif et n'ont pas de valeur légale, et le renvoi à la municipalité ou à la MRC pour la délimitation applicable à un terrain."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/travaux-echeanciers",
+   "title": "Travaux de cartographie des zones inondables et de mobilité des cours d'eau en cours et échéanciers",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "La plus grande révision des cartographies de l'histoire du Québec, plusieurs centaines de municipalités du Québec méridional, le projet INFO-Crue du ministère de l'Environnement et huit communautés municipales, l'absence de date ferme, l'intégration progressive à la carte interactive, et la date de mise à jour de la page au 31 juillet 2026."
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/amenagement-developpement-territoires/amenagement-territoire/amenagement-protection-rives-littoral-zones-inondables/realiser-travaux",
+   "title": "Réaliser des travaux dans les zones inondables, les zones de mobilité des cours d'eau, les rives et le littoral",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "La réparation et l'entretien d'un bâtiment permis dans l'ensemble des milieux hydriques (toiture, fenêtres, rénovations intérieures), l'obligation d'adapter le bâtiment au risque et d'obtenir l'avis d'un professionnel compétent pour des travaux majeurs comme le remplacement d'une fondation, la reconstruction résidentielle permise seulement sous certaines conditions variables selon les milieux, et le rôle de la municipalité qui délivre les permis et peut être plus sévère."
+  },
+  {
+   "url": "https://bac-quebec.qc.ca/fr/enjeux-en-assurance-de-dommages/inondations/",
+   "title": "Inondations",
+   "publisher": "Bureau d'assurance du Canada",
+   "consulted": "2026-09-23",
+   "supports": "La définition de l'inondation en assurance comme débordement d'un plan d'eau naturel atteignant la propriété, la protection offerte en avenant par certains assureurs seulement, l'évaluation du risque propre à la situation de l'assuré, et l'existence d'un programme d'aide financière du ministère de la Sécurité publique."
+  },
+  {
+   "url": "https://www.quebec.ca/securite-situations-urgence/urgences-sinistres-risques-naturels/obtenir-aide-sinistre/aide-financiere-proprietaires-locataires/faire-demande-proprietaires-locataires/montants-accordes-proprietaires-locataires",
+   "title": "Montants accordés pour les sinistrés",
+   "publisher": "Gouvernement du Québec, ministère de la Sécurité publique",
+   "consulted": "2026-09-23",
+   "supports": "Le programme d'aide financière verse des montants fixés par catégorie de dépense, pièce par pièce, et modulés selon la hauteur d'eau atteinte, et non une indemnité d'assurance à la valeur à neuf."
+  },
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "title": "Formulaire obligatoire Déclarations du vendeur sur l'immeuble, DV 00001 (V24 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-23",
+   "supports": "Le champ d'application du formulaire (immeuble principalement résidentiel de moins de 5 logements, hors copropriété divise, contrat de courtage conclu avec un particulier) et le libellé des lignes D2.9 (zone inondable comme limitation de droit public), D2.12, D2.13, D2.14, D3.6, D4.1, D4.2, D9.12, D9.13 et D14.1, ainsi que la note sur le nouveau certificat de localisation."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/le-vice-cache-dans-un-immeuble/",
+   "title": "Le vice caché dans un immeuble",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "Les conditions du vice caché (non apparent, inconnu de l'acheteur, existant au moment de l'achat) et la règle voulant que les défauts qu'un acheteur prudent et diligent aurait pu déceler ne soient pas garantis."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/immobilier-acheter-sans-garantie-legale/",
+   "title": "Immobilier : acheter sans garantie légale",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-23",
+   "supports": "La vente aux risques et périls de l'acheteur, la perte du recours pour vice caché, l'exception lorsque le vendeur a sciemment caché la vérité, et l'obligation que la mention figure dans la promesse d'achat et dans l'acte de vente."
+  }
+ ],
+ "claims_needing_review": [
+  "La section sur le prêteur ne repose sur aucune source gouvernementale : elle décrit un mécanisme (le créancier hypothécaire fixe les protections d'assurance qu'il juge suffisantes) sans nommer d'institution ni citer de politique de souscription. À faire valider par un courtier hypothécaire avant publication.",
+  "Le détail des interdictions et des autorisations par classe d'intensité (nouvelle construction, bâtiment accessoire, agrandissement) n'a pas été repris dans l'article, faute d'avoir pu ouvrir le texte réglementaire lui-même sur LégisQuébec. À compléter ou à faire valider par un urbaniste avant publication.",
+  "Les montants du programme d'aide financière du ministère de la Sécurité publique ne sont pas chiffrés dans l'article, volontairement : la page gouvernementale présente des montants par poste et par hauteur d'eau, susceptibles d'être révisés.",
+  "L'exemple des rivières des Mille-Îles et des Prairies est présenté comme un repère géographique, sans classement d'intensité rattaché à un secteur précis."
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "id": "t08",
+ "slug": "reduire-facture-chauffage-quebec",
+ "title": "Réduire sa facture de chauffage au Québec: par où commencer",
+ "target_keyword": "reduire facture chauffage quebec",
+ "word_count": 1583,
+ "category": "Guide pratique",
+ "internal_links": [
+  "/articles/home-inspection-checklist-montreal/",
+  "/tools/rent-vs-buy/",
+  "/articles/renovations-dont-add-value/",
+  "/articles/first-visit-property-checklist/",
+  "/articles/hidden-homeownership-costs/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.hydroquebec.com/data/documents-donnees/pdf/tarifs-electricite.pdf",
+   "title": "Tarifs d'électricité, en vigueur le 1er avril 2026, articles 2.5 et 2.34",
+   "publisher": "Hydro-Québec",
+   "consulted": "2026-09-23",
+   "supports": "Structure du tarif D: 46,154 ¢ de frais d'accès au réseau par jour, 7,065 ¢ le kWh jusqu'à 40 kWh par jour, 11,142 ¢ le kWh pour le reste. Structure du tarif DT: 5,131 ¢ le kWh au-dessus du seuil de -12 °C ou -15 °C selon la zone, 30,001 ¢ en dessous, système biénergie conforme à l'article 2.31."
+  },
+  {
+   "url": "https://www.hydroquebec.com/residential/customer-space/electricity-use/electricity-consumption-by-use.html",
+   "title": "Répartition de la consommation d'électricité d'un ménage",
+   "publisher": "Hydro-Québec",
+   "consulted": "2026-09-23",
+   "supports": "54 % de la consommation pour le chauffage et la climatisation, 20 % pour l'eau chaude, 18 % pour les appareils et l'électronique, 5 % pour l'éclairage, 3 % pour le reste."
+  },
+  {
+   "url": "https://www.hydroquebec.com/residential/customer-space/electricity-use/electricity-consumption-factors.html",
+   "title": "Ce qui fait varier votre facture d'électricité",
+   "publisher": "Hydro-Québec",
+   "consulted": "2026-09-23",
+   "supports": "Jusqu'à 40 % de la chaleur perdue par des murs, combles et fondations mal isolés, jusqu'à 25 % par les fuites d'air, jusqu'à 25 % par les portes et fenêtres, et effet limité du nombre d'occupants sur le chauffage."
+  },
+  {
+   "url": "https://www.hydroquebec.com/residential/customer-space/electricity-use/tools/electricity-use.html",
+   "title": "Consommation selon les caractéristiques d'une habitation",
+   "publisher": "Hydro-Québec",
+   "consulted": "2026-09-23",
+   "supports": "Consommation annuelle moyenne de 22 000 kWh pour une maison unifamiliale détachée sans climatisation ni piscine."
+  },
+  {
+   "url": "https://www.hydroquebec.com/residential/energy-wise/tips/using-heat-pumps-winter.html",
+   "title": "Utiliser sa thermopompe en hiver pour économiser",
+   "publisher": "Hydro-Québec",
+   "consulted": "2026-09-23",
+   "supports": "Réduction d'environ 25 % de la consommation liée au chauffage par rapport aux plinthes, modèles haute efficacité performants jusqu'à -25 °C et -30 °C, réglage de la thermopompe à environ 21 °C et des plinthes 2 à 3 degrés plus bas, à 18 ou 19 °C."
+  },
+  {
+   "url": "https://www.hydroquebec.com/data/logisvert/logisvert-guide-participation-residentiel-fr.pdf",
+   "title": "Programme LogisVert, Guide de participation à l'intention de la clientèle résidentielle, version 1.10 du 15 septembre 2026",
+   "publisher": "Hydro-Québec",
+   "consulted": "2026-09-23",
+   "supports": "Subvention thermopompe de 50 $ par 1 000 BTU/h à -8 °C, 120 $ pour un appareil ENERGY STAR climat froid, 1 500 $ pour l'isolation de toit avec calfeutrage réalisée ensemble, cible RSI 8,8 ou R-50 sur 100 % de la surface du toit, bonification de 5 % pour mesures multiples, délai de neuf mois pour transmettre la demande, licence RBQ exigée, absence des thermostats dans la liste des mesures admissibles, engagement de non-cumul avec une autre subvention gouvernementale pour les mêmes travaux."
+  },
+  {
+   "url": "https://www.hydroquebec.com/residential/energy-wise/tips/smart-thermostats-winter-saving.html",
+   "title": "Avec les thermostats intelligents, c'est facile d'économiser en hiver",
+   "publisher": "Hydro-Québec",
+   "consulted": "2026-09-23",
+   "supports": "Remplacer de vieux thermostats à cadran par des thermostats électroniques peut réduire la facture annuelle d'électricité de 10 %, et les thermostats intelligents offerts sans frais avec le tarif Flex D et Hilo."
+  },
+  {
+   "url": "https://www.hydroquebec.com/residential/energy-wise/tips/hot-water/tips.html",
+   "title": "Conseils en matière de chauffage de l'eau",
+   "publisher": "Hydro-Québec",
+   "consulted": "2026-09-23",
+   "supports": "Maintenir le chauffe-eau à 60 °C sans aller plus haut, isoler le chauffe-eau et les tuyaux d'eau chaude dans les espaces frais ou non chauffés, réparer les robinets qui fuient."
+  },
+  {
+   "url": "https://www.hydroquebec.com/residential/customer-space/moving/estimate-electricity-costs.html",
+   "title": "Estimation des coûts d'électricité lors d'un déménagement",
+   "publisher": "Hydro-Québec",
+   "consulted": "2026-09-23",
+   "supports": "Outil permettant d'obtenir instantanément une estimation à partir du numéro d'immeuble et du code postal d'une adresse."
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/chauffage-consommation-energie/aide-financiere-renovation-ecoenergetique/renoclimat",
+   "title": "Aide financière Rénoclimat pour améliorer la performance énergétique de votre habitation",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Programme actif sans date de fin annoncée, évaluation énergétique obligatoire avant le début des travaux, frais de 150 $ plus taxes remboursés si l'aide est accordée, première évaluation après travaux gratuite."
+  },
+  {
+   "url": "https://www.quebec.ca/en/housing-territory/heating-energy-consumption/financial-assistance-retrofits/renoclimat/financial-assistance/insulation-grant",
+   "title": "Aide financière Rénoclimat pour améliorer l'isolation d'une habitation",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Maximums de 1 500 $ pour le toit, comble ou toit plat, 3 750 $ pour les murs extérieurs, 2 500 $ pour le mur de fondation du sous-sol, 2 000 $ pour le mur de vide sanitaire, et exigence d'isoler au moins 20 % de la surface de l'ensemble visé."
+  },
+  {
+   "url": "https://www.quebec.ca/en/housing-territory/heating-energy-consumption/financial-assistance-retrofits/renoclimat/financial-assistance/airtightness-grant",
+   "title": "Aide financière Rénoclimat pour améliorer l'étanchéité d'une habitation",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "400 $ si la cible de changements d'air à l'heure est atteinte, 600 $ si elle est dépassée de 10 %, 800 $ si elle est dépassée de 20 %, mesure prise au test d'infiltrométrie."
+  },
+  {
+   "url": "https://www.quebec.ca/en/housing-territory/heating-energy-consumption/financial-assistance-retrofits/chauffez-vert-oil-propane",
+   "title": "Aide financière pour le retrait d'un système au mazout ou au propane, programme Chauffez vert",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Programme terminé: l'aide n'est plus offerte depuis le 31 mars 2026 et aucune demande reçue après cette date n'est acceptée."
+  },
+  {
+   "url": "https://www.quebec.ca/en/housing-territory/heating-energy-consumption/financial-assistance-retrofits/free-services-econologis",
+   "title": "Services gratuits en efficacité énergétique pour votre habitation avec Éconologis",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-23",
+   "supports": "Service gratuit offert aux ménages à revenu modeste, propriétaires comme locataires, du 1er octobre au 31 mars, inscriptions terminées pour la saison 2026-2027, nombre maximal de visites atteint."
+  }
+ ],
+ "claims_needing_review": [
+  "L'écart de près de 58 % entre la deuxième et la première tranche du tarif D est un calcul fait à partir des prix publiés par Hydro-Québec (11,142 ¢ contre 7,065 ¢), et non un chiffre publié tel quel.",
+  "L'ordre de rentabilité des travaux présenté dans le tableau reflète la hiérarchie des pertes de chaleur publiée par Hydro-Québec, pas une étude de rendement financier par poste."
+ ]
+}

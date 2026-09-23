@@ -1,7 +1,7 @@
 ---
 title: "Réduire sa facture de chauffage au Québec: par où commencer"
-date: 2026-09-23
-lastmod: 2026-09-23
+date: 2026-09-22
+lastmod: 2026-09-22
 translationKey: "article-facture-chauffage"
 category: "Guide pratique"
 description: "Tarif D, tranche de 40 kWh, isolation, thermopompe et aides 2026: comment réduire sa facture de chauffage au Québec, dans l'ordre qui rapporte."
@@ -197,8 +197,7 @@ porte à une seconde aide pour les mêmes travaux. Ajoutez ces pièces à
 **Une thermopompe va-t-elle éliminer mes plinthes?**
 Non. La capacité de chauffage d'une thermopompe à air diminue par grand froid, et
 Hydro-Québec recommande de conserver un appoint, réglé 2 à 3 degrés sous la
-thermopompe. Une soumission qui promet le retrait complet des plinthes mérite une
-seconde opinion.
+thermopompe.
 
 **Puis-je cumuler Rénoclimat et LogisVert?**
 Pas pour les mêmes travaux. En acceptant une subvention LogisVert, vous vous

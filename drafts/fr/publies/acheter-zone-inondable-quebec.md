@@ -21,9 +21,9 @@ et les vérifications à faire avant de déposer une promesse d'achat.
 
 Le cadre réglementaire modernisé pour la gestion des milieux hydriques remplace
 le régime transitoire de gestion des zones inondables, des rives et du littoral
-depuis le 1er mars 2026. Il repose sur trois règlements. Le troisième porte un
-titre qui dit tout de la période que nous traversons : Règlement concernant les
-règles transitoires applicables en cas de changement à la délimitation des zones
+depuis le 1er mars 2026. Il repose sur trois règlements, dont un porte un titre
+qui dit tout de la période que nous traversons : Règlement concernant les règles
+transitoires applicables en cas de changement à la délimitation des zones
 inondables et des zones de mobilité. Le gouvernement a écrit un règlement entier
 pour encadrer ce qui arrive aux projets en cours quand la carte change sous vos
 pieds.
@@ -59,11 +59,11 @@ d'embâcle, classées d'office. Les zones protégées à risque résiduel désig
 les terrains derrière un ouvrage de protection : protégés, pas hors risque.
 
 **Ce que la carte ne fait pas.** Elle ne trace pas la limite précise sur votre
-lot. Les données d'ancienne génération sont d'ailleurs fournies à titre
-indicatif et n'ont pas de valeur légale. La carte interactive du gouvernement,
-à zonesinondables.mrnf.gouv.qc.ca, sert à repérer un secteur. La délimitation
-qui s'applique à un terrain se confirme auprès de la municipalité ou de la MRC,
-et nulle part ailleurs. Elle ne dit rien non plus de l'état du drain, de la
+lot, et les données d'ancienne génération sont fournies à titre indicatif, sans
+valeur légale. La carte interactive du gouvernement, à
+zonesinondables.mrnf.gouv.qc.ca, sert à repérer un secteur : la délimitation qui
+s'applique à un terrain se confirme auprès de la municipalité ou de la MRC, et
+nulle part ailleurs. Elle ne dit rien non plus de l'état du drain, de la
 fondation ou du clapet antiretour : ça, c'est l'affaire de
 [l'inspection préachat](/articles/home-inspection-checklist-montreal/).
 
@@ -110,11 +110,10 @@ d'assurance, ni la valeur à neuf.
 
 ## Le prêteur regarde la même carte que vous
 
-Soyons précis sur ce que je peux démontrer et sur ce que je ne peux pas. Aucune
-loi québécoise n'oblige une institution financière à refuser un prêt dans une
-zone exposée, et aucune source gouvernementale publique ne permet de dire quel
-prêteur refuse quel secteur : chaque institution fixe sa propre politique de
-souscription et la change sans préavis.
+Soyons précis sur ce que je peux démontrer. Aucune loi québécoise n'oblige une
+institution financière à refuser un prêt dans une zone exposée, et aucune source
+gouvernementale publique ne permet de dire quel prêteur refuse quel secteur :
+chaque institution fixe sa politique de souscription et la change sans préavis.
 
 Ce qui est vérifiable, c'est le mécanisme. Le créancier hypothécaire décide des
 protections d'assurance qu'il juge suffisantes pour sa garantie. Si l'avenant
@@ -126,10 +125,10 @@ marge pour une prime plus élevée.
 
 ## Les Déclarations du vendeur : les cases qui parlent d'eau
 
-Le formulaire obligatoire Déclarations du vendeur sur l'immeuble (DV) s'utilise
-quand un contrat de courtage portant sur un immeuble principalement résidentiel
-de moins de 5 logements, hors copropriété divise, est conclu avec un
-particulier. Huit lignes y parlent directement d'eau.
+Le formulaire obligatoire Déclarations du vendeur sur l'immeuble s'utilise quand
+un contrat de courtage portant sur un immeuble principalement résidentiel de
+moins de 5 logements, hors copropriété divise, est conclu avec un particulier.
+Huit lignes y parlent directement d'eau.
 
 | Ligne | Ce que le vendeur déclare |
 |---|---|
@@ -161,13 +160,12 @@ l'acte de vente.
 
 Sept gestes, dans cet ordre, avant l'offre.
 
-1. Repérez le secteur sur la carte interactive du gouvernement, puis oubliez-la
-   comme preuve.
+1. Repérez le secteur sur la carte interactive du gouvernement, puis cessez de
+   la traiter comme une preuve.
 2. Écrivez à la municipalité en donnant le numéro de lot : quelle cartographie
    s'applique, quelle classe, quelle cote de crue.
-3. Demandez si la nouvelle cartographie est attendue pour ce territoire et dans
-   quel horizon.
-4. Exigez un certificat de localisation à jour et faites-le lire par votre
+3. Demandez si la nouvelle cartographie est attendue pour ce territoire.
+4. Exigez un certificat de localisation à jour, et faites-le lire par votre
    notaire.
 5. Faites confirmer par écrit, par un assureur, la disponibilité de l'avenant
    inondation à cette adresse précise.
@@ -176,9 +174,9 @@ Sept gestes, dans cet ordre, avant l'offre.
 7. Conservez tout : le dossier écrit est ce qui vous reste si le classement
    change après la vente.
 
-Sur la Rive-Nord et à Laval, où les rivières des Mille-Îles et des Prairies
-dessinent des secteurs entiers, ces sept gestes changent souvent la valeur d'une
-offre plus que la négociation du prix.
+À Laval et sur la Rive-Nord, où les rivières des Mille-Îles et des Prairies
+dessinent des secteurs entiers, ces sept gestes pèsent souvent plus lourd que la
+négociation du prix.
 
 ## Questions fréquentes
 

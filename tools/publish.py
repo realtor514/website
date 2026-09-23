@@ -31,16 +31,43 @@ STATE = ROOT / "state"
 TODAY = datetime.date.today()
 
 
-def spread_dates(count, window=30, end=None):
-    """Repartit `count` dates sur les `window` derniers jours, bornees a aujourd hui."""
+def taken_dates(lang="fr"):
+    """Dates deja occupees par un article de cette langue."""
+    folder = ROOT / "content" / lang / "articles"
+    used = set()
+    if not folder.is_dir():
+        return used
+    for path in folder.glob("*.md"):
+        m = re.search(r"^date:\s*(\d{4}-\d{2}-\d{2})", path.read_text(encoding="utf-8"), re.M)
+        if m:
+            used.add(m.group(1))
+    return used
+
+
+def spread_dates(count, window=30, end=None, avoid=()):
+    """Repartit `count` dates sur les `window` derniers jours, bornees a aujourd hui.
+
+    `avoid` liste les dates deja prises: en cas de collision on glisse d un jour,
+    puis de deux, sans jamais sortir de la fenetre ni depasser aujourd hui. Deux
+    articles le meme jour restent possibles si la fenetre est pleine.
+    """
     end = end or TODAY
     if count <= 0:
         return []
-    if count == 1:
-        return [end]
     start = end - datetime.timedelta(days=window)
-    step = window / (count - 1)
-    return [start + datetime.timedelta(days=round(i * step)) for i in range(count)]
+    step = window / (count - 1) if count > 1 else 0
+    avoid = set(avoid)
+    out = []
+    for i in range(count):
+        d = start + datetime.timedelta(days=round(i * step)) if count > 1 else end
+        for shift in (0, -1, 1, -2, 2, -3, 3):
+            c = d + datetime.timedelta(days=shift)
+            if start <= c <= end and c.isoformat() not in avoid:
+                d = c
+                break
+        avoid.add(d.isoformat())
+        out.append(d)
+    return sorted(out)
 
 
 def set_date(raw, date):
@@ -119,7 +146,7 @@ def main():
         print("Rien a copier.")
         return
 
-    dates = spread_dates(len(movable), window=args.fenetre)
+    dates = spread_dates(len(movable), window=args.fenetre, avoid=taken_dates(lang))
     plan = load_plan()
     by_slug = {t["slug"]: t for t in plan["topics"]}
 

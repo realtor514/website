@@ -1,7 +1,7 @@
 ---
 title: "Impôt et propriétaire au Québec : ce qui se déduit"
-date: 2026-09-23
-lastmod: 2026-09-23
+date: 2026-09-14
+lastmod: 2026-09-14
 translationKey: "article-impot-proprietaire"
 category: "Financement"
 description: "Impôt du propriétaire au Québec : déduction, exemption de résidence principale, bureau à domicile, plex et changement d'usage, au fédéral et au Québec."
@@ -53,11 +53,10 @@ même pour un employé qui travaille de la maison.
 **La comparaison américaine revient tout le temps.** Elle est réelle : l'IRS
 permet de déduire les intérêts d'un prêt garanti par la résidence principale,
 dans une limite d'endettement de 750 000 $ pour une maison acquise après le
-15 décembre 2017. Mais le contrepoids se paie à la vente. Aux États-Unis,
-l'exclusion du gain sur la résidence principale plafonne à 250 000 $, ou
-500 000 $ pour un couple qui produit conjointement, après un test de propriété
-et d'occupation de 24 mois sur les 5 années précédentes. Ici, l'exemption n'a
-pas de plafond. Les deux régimes ne se découpent pas à la carte.
+15 décembre 2017. Mais le contrepoids se paie à la vente : là-bas, l'exclusion
+du gain plafonne à 250 000 $, ou 500 000 $ pour un couple qui produit
+conjointement. Ici, l'exemption n'a pas de plafond. Les deux régimes ne se
+découpent pas à la carte.
 
 ## Le bureau à domicile : la déduction existe, les conditions aussi
 
@@ -79,20 +78,18 @@ et à l'entretien, au prorata de la surface utilisée.
 Au Québec, la mécanique est la même mais les formulaires changent : le TP-59
 pour les dépenses d'emploi, accompagné du TP-64.3, les conditions générales
 d'emploi, que l'employeur doit remplir. Le test québécois reprend le même
-seuil : avoir principalement exercé ses fonctions à cet endroit, soit plus de
-50 % du temps, ou l'utiliser exclusivement pour gagner le revenu d'emploi et
-y rencontrer des personnes de façon régulière et continue.
+seuil de plus de 50 % du temps, ou l'usage exclusif avec rencontres régulières
+et continues.
 
 ## Immeuble à revenus : dépense courante ou dépense en capital
 
 C'est la distinction qui décide si votre facture réduit votre impôt cette année
 ou dans vingt ans. Revenu Québec la formule ainsi : les dépenses courantes
-servent à réparer ou à entretenir un bien complet en soi, se renouvellent après
-un certain temps et ne procurent pas d'avantages durables. Les dépenses en
-capital servent à acquérir un bien, à y faire un ajout ou à l'améliorer, et
-procurent un avantage durable. Les premières se déduisent des revenus de
-location, les secondes s'ajoutent au coût en capital et ouvrent droit à
-l'amortissement.
+servent à réparer ou à entretenir un bien complet en soi et ne procurent pas
+d'avantages durables, alors que les dépenses en capital servent à acquérir un
+bien, à y faire un ajout ou à l'améliorer. Les premières se déduisent des
+revenus de location, les secondes s'ajoutent au coût en capital et ouvrent
+droit à l'amortissement.
 
 | Dépense | Traitement | Pourquoi |
 |---|---|---|
@@ -108,10 +105,10 @@ travaux vous-même, vous déduisez le coût du matériel, jamais la valeur de vo
 travail. Et les frais engagés pour obtenir le prêt hypothécaire se déduisent en
 fractions égales sur cinq ans, pas d'un coup.
 
-Les droits de mutation, eux, ne disparaissent pas : ils grossissent le coût
-fiscal de l'immeuble et réduiront le gain à la revente. Avant l'offre, chiffrez
-la facture avec le [calculateur de taxe de bienvenue](/tools/welcome-tax/), puis
-gardez le reçu de la municipalité avec l'acte notarié.
+Les droits de mutation ne disparaissent pas pour autant : ils grossissent le
+coût fiscal de l'immeuble et réduiront le gain à la revente. Chiffrez la facture
+avant l'offre avec le [calculateur de taxe de
+bienvenue](/tools/welcome-tax/), puis gardez le reçu avec l'acte notarié.
 
 ## Le plex où vous habitez : partager les dépenses au prorata
 
