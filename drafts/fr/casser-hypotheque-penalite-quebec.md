@@ -22,15 +22,14 @@ après.
 **La pénalité ne punit pas un retard, elle paie une promesse rompue.** La Société
 canadienne d'hypothèques et de logement décrit le prêt hypothécaire ouvert comme
 celui qu'il est possible de rembourser en tout ou en partie à n'importe quel moment
-sans pénalité, généralement contre un taux d'intérêt plus élevé. Le prêt fermé est
-l'inverse : il ne permet pas de rembourser la totalité du prêt avant l'échéance,
-et son taux est habituellement plus faible. Vous avez échangé de la souplesse
-contre du taux. La pénalité est le prix de reprise de cette souplesse.
+sans pénalité, généralement contre un taux plus élevé. Le prêt fermé ne permet pas
+de rembourser la totalité avant l'échéance, et son taux est habituellement plus
+faible. Vous avez échangé de la souplesse contre du taux. La pénalité est le prix
+de reprise de cette souplesse.
 
-L'Agence de la consommation en matière financière du Canada est directe sur
-l'ordre de grandeur : si vous résiliez une hypothèque fermée, vous devez
-habituellement payer une pénalité pour remboursement anticipé, et cette pénalité
-peut coûter des milliers de dollars.
+L'Agence de la consommation en matière financière du Canada donne l'ordre de
+grandeur : résilier une hypothèque fermée oblige habituellement à payer une
+pénalité pour remboursement anticipé, qui peut coûter des milliers de dollars.
 
 Une précision sur les termes longs. L'article 10 de la Loi sur l'intérêt prévoit
 que lorsqu'une hypothèque sur immeuble n'est pas remboursable avant plus de cinq
@@ -58,8 +57,8 @@ différentiel s'effondre vers zéro et il ne reste que les trois mois d'intérê
 
 Un mot sur ce qui ne déclenche rien. L'exemple d'encadré informatif publié par
 l'ACFC illustre des privilèges courants : une fois par année, augmenter le
-versement de 10 % ou verser une somme forfaitaire de 10 % du prêt initial, sans
-pénalité. C'est un exemple, pas une norme. Les vôtres sont dans votre contrat.
+versement de 10 % ou verser 10 % du prêt initial, sans pénalité. C'est un exemple,
+pas une norme. Les vôtres sont dans votre contrat.
 
 ## Le différentiel de taux d'intérêt, calculé étape par étape
 
@@ -88,22 +87,18 @@ prise.
 ## Taux affiché ou taux consenti : le rabais qui gonfle la pénalité
 
 **Voici la partie qui surprend même les emprunteurs avertis.** L'ACFC explique que
-le prêteur compare deux taux, et que chacun des deux peut être choisi de deux
-façons. Le premier est soit le taux affiché au moment où vous avez signé, soit
-votre taux réel ou escompté selon ce que prévoit le contrat. Le second est soit le
-taux affiché courant pour un terme de durée semblable, soit ce taux affiché moins
-le rabais qui vous avait été consenti au départ. Quatre combinaisons possibles,
-quatre résultats possibles.
-
-Le piège est là. Plus le rabais que vous avez négocié à la signature était
-généreux, plus l'écart entre le taux affiché de départ et le taux de comparaison
-réduit peut devenir large.
+le prêteur compare deux taux, et que chacun peut être choisi de deux façons. Le
+premier est soit le taux affiché au moment où vous avez signé, soit votre taux
+réel ou escompté selon ce que prévoit le contrat. Le second est soit le taux
+affiché courant pour un terme de durée semblable, soit ce taux affiché moins le
+rabais qui vous avait été consenti au départ. Quatre combinaisons, quatre
+résultats. Et plus le rabais négocié à la signature était généreux, plus l'écart
+entre le taux affiché de départ et le taux de comparaison réduit devient large.
 
 Illustration arithmétique, avec des chiffres inventés pour montrer la mécanique.
-Ce ne sont pas des taux du marché et aucun prêteur n'est visé. Solde de 300 000 $,
-30 mois restants au terme, taux au contrat de 5 %, taux affiché à la signature de
-6,5 %, donc un rabais de 1,5 point. Taux affiché courant pour un terme comparable :
-4 %.
+Ce ne sont pas des taux du marché. Solde de 300 000 $, 30 mois restants, taux au
+contrat de 5 %, taux affiché à la signature de 6,5 %, donc un rabais de 1,5 point.
+Taux affiché courant pour un terme comparable : 4 %.
 
 | Méthode de comparaison | Écart retenu | Calcul | Résultat |
 |---|---|---|---|
@@ -141,14 +136,14 @@ tranche, pas la réputation du produit.
 gouvernement du Québec indique que les inscriptions au Registre foncier sont
 généralement effectuées par un notaire ou un avocat, et que la vente, l'hypothèque
 et la radiation d'hypothèque figurent parmi les actes courants qui y sont publiés.
-Votre nouveau prêteur veut une garantie valide et publiée : cela veut dire un acte
-reçu devant notaire, puis inscrit.
+Votre nouveau prêteur veut une garantie publiée : un acte reçu devant notaire,
+puis inscrit.
 
 **Et l'ancienne hypothèque ne disparaît pas toute seule.** Toujours selon le
 gouvernement du Québec, la radiation n'est pas automatique, elle se demande, et
 seuls les notaires et les avocats sont habilités à préparer la quittance qui
-permet de radier l'inscription. Les frais afférents à l'inscription de cette
-quittance sont normalement à votre charge.
+permet de radier l'inscription. Les frais d'inscription de cette quittance sont
+normalement à votre charge.
 
 Deux postes ont un prix public. Voici la tarification du Registre foncier en
 vigueur depuis le 1er avril 2026.
@@ -176,21 +171,19 @@ une remise en argent à la signature, une portion peut aussi devoir être rembou
 ### Les trois questions
 
 **1. Quel est le montant exact aujourd'hui, et jusqu'à quelle date est-il valide ?**
-Le code de conduite applicable aux institutions financières sous réglementation
-fédérale prévoit qu'une fois votre intention de rembourser confirmée, le prêteur
-vous remet un état écrit indiquant les frais applicables, la méthode de calcul, la
-période de validité du montant s'il y a lieu, les facteurs qui pourraient le faire
-changer et toute autre somme due. Un montant donné au téléphone ne vaut rien.
+Le code de conduite applicable aux institutions sous réglementation fédérale
+prévoit qu'une fois votre intention de rembourser confirmée, le prêteur remet un
+état écrit indiquant les frais applicables, la méthode de calcul, la période de
+validité du montant, les facteurs qui pourraient le faire changer et toute autre
+somme due. Un montant donné au téléphone ne vaut rien.
 
 **2. Quels deux taux avez-vous utilisés, et pourquoi ceux-là ?** Le même code
 prévoit que si le calcul repose sur le différentiel, l'état écrit précise le solde
 impayé, le taux d'intérêt annuel, le taux de comparaison utilisé et la durée
-restante du terme. Vous avez droit à ces quatre nombres. Exigez-les avant de
-comparer deux offres.
+restante du terme. Exigez ces quatre nombres avant de comparer deux offres.
 
 **3. Quels frais s'ajoutent à la pénalité, poste par poste ?** Administration,
-évaluation, réinvestissement, quittance et enregistrement. Demandez la liste
-complète dans le même document, pas dans trois courriels séparés.
+évaluation, réinvestissement, quittance et enregistrement, dans le même document.
 
 ### Quand l'opération se défend quand même
 

@@ -50,10 +50,10 @@ donc des jonctions et des surfaces contiguës. Un mur excellent en laboratoire
 peut donner un résultat médiocre si les jonctions sont mal faites.
 
 **Le Code vise les sons aériens.** La fiche technique de Garantie de
-construction résidentielle sur l'article 9.11, dont la partie réglementaire est
-approuvée par la Régie du bâtiment, le dit clairement : l'ITS et l'ITSA
-caractérisent l'atténuation du son dans l'air. Aucune exigence équivalente ne
-vous protège des pas au-dessus de votre tête.
+construction résidentielle sur l'article 9.11, approuvée par la Régie du
+bâtiment, le dit clairement : l'ITS et l'ITSA caractérisent l'atténuation du
+son dans l'air. Rien d'équivalent ne vous protège des pas au-dessus de votre
+tête.
 
 **Le Code s'applique aux travaux, pas au bâtiment existant.** Un triplex de
 1925 converti en copropriété divise n'a jamais été construit pour séparer
@@ -86,9 +86,9 @@ vérifie si le plancher du logement du dessus a été approuvé.
 
 Le levier du syndicat est sérieux. Selon l'article 1080, lorsque le refus d'un
 copropriétaire de se conformer à la déclaration cause un préjudice sérieux et
-irréparable, le tribunal peut lui enjoindre de s'y conformer, et s'il
-transgresse l'injonction, ordonner la vente de sa fraction. Ces documents se
-lisent avec la même attention que
+irréparable, le tribunal peut lui enjoindre de s'y conformer, et ordonner la
+vente de sa fraction s'il transgresse l'injonction. Ces documents se lisent
+avec la même attention que
 [les frais de condo et le fonds de prévoyance](/articles/condo-fees-investment-killer/).
 
 ## Le bruit extérieur : rue, train, corridor aérien
@@ -96,13 +96,12 @@ lisent avec la même attention que
 Trois sources se vérifient sur une carte, avant même de visiter.
 
 **La route.** La Politique de gestion du bruit routier du ministère des
-Transports et de la Mobilité durable, publiée en mars 2025, adopte l'indicateur
-Lden et fixe le seuil d'intervention à 65 dBA Lden au rez-de-chaussée ou au
-premier étage pour les infrastructures routières existantes. Elle reconnaît
-55 dBA Lden comme niveau acceptable. L'approche corrective ne vise que les
-zones sensibles dont le permis de construction a été délivré avant mars 1998 et
-qui comptent au moins 10 unités d'habitation. Traduction : un mur antibruit
-n'est ni automatique ni rapide.
+Transports et de la Mobilité durable, publiée en mars 2025, fixe le seuil
+d'intervention à 65 dBA Lden au rez-de-chaussée ou au premier étage pour les
+infrastructures routières existantes, et reconnaît 55 dBA Lden comme niveau
+acceptable. L'approche corrective ne vise que les zones sensibles dont le
+permis a été délivré avant mars 1998 et qui comptent au moins 10 unités
+d'habitation. Traduction : un mur antibruit n'est ni automatique ni rapide.
 
 **Le train.** Le corridor ferroviaire est visible sur n'importe quelle carte, et
 c'est la nuit que le fret circule. La politique ci-dessus vise le réseau
@@ -121,19 +120,18 @@ Laval](/courtier-immobilier/laval/) réunit ces repères au même endroit.
 1. **Deux visites, deux moments.** Une en journée, une en soirée ou un vendredi
    soir. Une autoroute et un bar de quartier ne s'entendent pas un mardi à 14 h.
 2. **Soixante secondes de silence.** Dans la chambre, porte fermée, personne ne
-   parle et personne ne bouge. Écoutez fenêtre fermée, puis ouverte, et notez ce
-   que vous entendez.
+   parle et personne ne bouge. Écoutez fenêtre fermée, puis ouverte.
 3. **Le test d'impact.** Demandez à votre courtier d'organiser le passage d'une
    personne à l'étage au dessus, en chaussures, à pas normaux. Rien d'autre ne
    révèle un plancher rigide posé sans membrane.
 4. **Les points faibles.** Approchez l'oreille des prises du mur mitoyen, des
    luminaires encastrés, de la grille de ventilation et de la colonne de
-   plomberie. Ce sont les trous par lesquels passe le bruit aérien.
+   plomberie : ce sont les trous par lesquels passe le bruit aérien.
 5. **Le corridor.** Ouvrez la porte d'entrée, écoutez, refermez. Vérifiez le
    coupe-froid et si la porte est pleine ou creuse.
 
 Ces cinq gestes s'ajoutent à la [liste de la première
-visite](/articles/first-visit-property-checklist/). Ils prennent dix minutes.
+visite](/articles/first-visit-property-checklist/) et prennent dix minutes.
 
 ## Ce qui se corrige, et ce que ça implique
 
@@ -146,11 +144,10 @@ visite](/articles/first-visit-property-checklist/). Ils prennent dix minutes.
 | Impact, plafond | Plafond désolidarisé de la structure | Perte de hauteur, résultat partiel |
 | Corridor | Porte pleine, coupe-froid | Souvent une partie commune |
 
-Deux avertissements. Aucune source officielle ne me permet de vous donner un
-prix pour ces travaux : faites chiffrer par deux entrepreneurs licenciés. Et en
-copropriété, dès que les travaux touchent une partie commune ou la structure,
-l'article 1063 vous renvoie au règlement de l'immeuble, donc au conseil
-d'administration.
+Aucune source officielle ne me permet de chiffrer ces travaux : faites les
+estimer par deux entrepreneurs licenciés. Et en copropriété, dès qu'ils
+touchent une partie commune ou la structure, l'article 1063 vous renvoie au
+règlement de l'immeuble.
 
 ## Le recours quand le bruit vient d'un voisin
 

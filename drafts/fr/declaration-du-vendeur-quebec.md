@@ -50,7 +50,7 @@ toute information obtenue après la signature.
 | D6 Animaux indésirables | fourmis charpentières, souris, punaises de lit |
 | D7 Qualité de l'air intérieur | condensation, odeurs, moisissure, amiante, vermiculite |
 | D8 Toiture | revêtement, année, entretien, isolant du comble |
-| D9 Plomberie et drainage | drain français, clapet antiretour, puits, fosse septique |
+| D9 Plomberie et drainage | drain français, clapet antiretour, fosse septique |
 | D10 Énergie | panneau électrique, gaz naturel, borne de recharge |
 | D11 Télécommunication | services disponibles et raccordement |
 | D12 Chauffage et ventilation | réservoir à mazout, thermopompe, cheminée |
@@ -66,23 +66,22 @@ connaissance ». L'OACIQ le confirme, le formulaire n'exige pas du vendeur qu'il
 déclare ce qu'il ne connaît pas.
 
 Le Code civil fixe un second seuil. L'article 1728 rend le vendeur responsable
-de la restitution du prix et de la réparation du préjudice s'il connaissait le
-vice caché « ou ne pouvait l'ignorer », et l'article 1733 reprend la même
-formule. « Ne pouvait ignorer » n'est pas « savait ». Un sous-sol qui prend
+de la restitution du prix et du préjudice s'il connaissait le vice caché « ou ne
+pouvait l'ignorer », et l'article 1733 reprend la formule. « Ne pouvait ignorer » n'est pas « savait ». Un sous-sol qui prend
 l'eau chaque printemps, une auréole au plafond repeinte trois fois : personne ne
 soutient sérieusement n'avoir rien remarqué.
 
 Un mot sur les litiges, parce que la croyance est répandue. Le DV ne pose aucune
-question générale du type « avez-vous un litige en cours ». Il demande un
-dossier ouvert au Tribunal administratif du logement (D2.6 f), un avis de
-non-conformité reçu (D2.12), puis se termine par une question ouverte, D14.5 :
+question générale du type « avez-vous un litige en cours ». Il demande si vous
+avez un dossier au Tribunal administratif du logement (D2.6 f) ou reçu un avis
+de non-conformité (D2.12), puis se termine par une question ouverte, D14.5 :
 d'autres éléments pourraient-ils avoir un impact sur la valeur, les revenus, les
-dépenses ou l'usage de l'immeuble. Une poursuite contre un entrepreneur ou une
-servitude (D2.8) se traitent là.
+dépenses ou l'usage de l'immeuble. Une servitude (D2.8) ou une poursuite contre
+un entrepreneur se traitent là.
 
 Le courtier n'est pas spectateur. L'article 84 du Règlement sur les conditions
 d'exercice d'une opération de courtage l'oblige à chercher les facteurs pouvant
-affecter défavorablement les parties, et l'article 85 à les divulguer.
+affecter défavorablement les parties, l'article 85 à les divulguer.
 
 ## Réservoir de mazout, pyrite, vermiculite : où les réponses dérapent
 
@@ -96,7 +95,7 @@ pouvant contenir de l'amiante ont déjà été utilisés, et la vermiculite ouvr
 liste. Elle revient en D8.5, parmi les isolants du comble.
 
 **La pyrite et la pyrrhotite.** Le formulaire ne demande pas ce que la plupart
-des gens croient : il n'existe pas de question « votre dalle contient-elle de la
+croient : il n'existe pas de question « votre dalle contient-elle de la
 pyrite ». D13.2 demande si des tests ou des expertises ont été effectués, et
 nomme la pyrite, la pyrrhotite, le radon, le dépôt d'ocre, la mousse isolante
 d'urée-formaldéhyde, l'amiante et le drain de fondation. Si oui, pouvez-vous
@@ -125,9 +124,9 @@ Cette exception a pris du poids. Dans Tremblay c. Immeubles Perron ltée, 2024
 QCCA 719, la Cour d'appel a confirmé l'orientation de Blais c. Laforce, rendue
 en 2022. L'OACIQ en résume les principes : la clause d'exclusion totale impute à
 l'acheteur une connaissance présumée des vices, et celui qui l'accepte ne pourra
-pas non plus poursuivre les propriétaires antérieurs. Surtout, le seul silence
-du vendeur sur un vice connu ne constitue plus un dol : l'acheteur doit prouver
-un mensonge, une demi-vérité ou une manœuvre frauduleuse.
+pas non plus poursuivre les propriétaires antérieurs. Surtout, dans ce type de
+vente, le seul silence sur un vice connu ne constitue plus un dol : il faut
+prouver un mensonge, une demi-vérité ou une manœuvre frauduleuse.
 
 Lu vite, cela semble récompenser le vendeur qui se tait. Sauf que le silence
 n'existe pas ici : le vendeur a treize pages de questions écrites devant lui, et
@@ -153,8 +152,8 @@ sur la valeur](/articles/renovations-dont-add-value/).
 
 ## Remplir la déclaration du vendeur : les documents d'abord, la D15 ensuite
 
-La page 11 porte un rappel en majuscules : fournissez tous les documents
-disponibles qui appuient les déclarations. Rassemblez-les avant.
+La page 11 porte un rappel en majuscules : fournissez tous les documents qui
+appuient les déclarations. Rassemblez-les avant.
 
 - L'acte de vente et le certificat de localisation, avec sa date.
 - Les factures, garanties, plans et permis municipaux des travaux.

@@ -22,32 +22,30 @@ L'article 2748 du Code civil énumère les quatre droits hypothécaires d'un
 créancier dont le débiteur est en défaut et dont la créance est liquide et
 exigible: prendre possession du bien pour l'administrer, le prendre en paiement
 de sa créance, le faire vendre sous contrôle de justice, ou le vendre lui-même.
-Ce dernier droit est réservé au créancier qui détient une hypothèque sur les
-biens d'une entreprise, en vertu de l'article 2784.
+Ce dernier droit est réservé, par l'article 2784, au créancier qui détient une
+hypothèque sur les biens d'une entreprise.
 
 Pour une maison, un condo ou un petit plex, il reste donc deux scénarios
 réalistes: la prise en paiement, puis la revente par l'institution devenue
 propriétaire, ou la vente sous contrôle de justice. Les deux produisent une
 inscription sur Centris. Elles ne produisent pas le même contrat.
 
-Éducaloi rappelle aussi une condition souvent oubliée: le débiteur doit être en
-défaut, et le défaut n'est pas seulement le paiement manqué. Le contrat de prêt
-peut prévoir d'autres manquements, comme l'obligation de garder la maison
-assurée.
+Éducaloi rappelle une condition souvent oubliée: le défaut n'est pas seulement
+le paiement manqué. Le contrat de prêt peut prévoir d'autres manquements, comme
+l'obligation de garder la maison assurée.
 
 ## Le préavis d'exercice et le délai de 60 jours
 
 **Rien ne commence sans publication.** L'article 2757 oblige le créancier à
 produire au bureau de la publicité des droits un préavis accompagné de la preuve
-de sa signification au débiteur. L'inscription de ce préavis est ensuite
-dénoncée selon les règles du livre De la publicité des droits. Autrement dit,
-l'étape est publique et datée au registre foncier.
+de sa signification au débiteur. L'étape est donc publique et datée au registre
+foncier.
 
 L'article 2758 dicte le contenu du préavis: dénoncer tout défaut, rappeler le
-droit de remédier à ce défaut, indiquer le montant de la créance en capital et
-intérêts, nommer le droit hypothécaire que le créancier entend exercer, décrire
-le bien, et sommer la personne visée de délaisser le bien avant l'expiration du
-délai imparti.
+droit d'y remédier, indiquer le montant de la créance en capital et intérêts,
+nommer le droit hypothécaire que le créancier entend exercer, décrire le bien,
+et sommer la personne visée de délaisser le bien avant l'expiration du délai
+imparti.
 
 | Bien visé par le préavis | Délai pour délaisser |
 |---|---|
@@ -62,11 +60,8 @@ donc 60 jours, pas 30 et pas 90.
 
 Ce délai n'est pas un compte à rebours fatal. L'article 2761 permet au débiteur,
 ou à tout autre intéressé, de faire échec au droit du créancier en payant ce qui
-lui est dû ou en remédiant au défaut mentionné au préavis et à tout défaut
-subséquent, en payant en plus les frais engagés. Ce droit s'exerce jusqu'à ce
-que le bien ait été pris en paiement ou vendu. L'article 2762 limite d'ailleurs
-ce que le créancier peut réclamer: les intérêts échus et les frais engagés,
-excluant ses honoraires professionnels de recouvrement.
+lui est dû ou en remédiant au défaut, et en payant les frais engagés. Ce droit
+s'exerce jusqu'à ce que le bien ait été pris en paiement ou vendu.
 
 Conséquence pratique pour vous: une propriété sous préavis n'est pas encore une
 reprise. Elle peut revenir à son propriétaire jusqu'au dernier moment.
@@ -83,8 +78,8 @@ trouvait alors. L'article 2782 éteint l'obligation du débiteur.
 
 Deux garde-fous existent. L'article 2778 oblige le créancier à obtenir
 l'autorisation du tribunal si le débiteur avait déjà acquitté la moitié ou plus
-de l'obligation garantie au moment de l'inscription du préavis. Et l'article
-2779 permet au débiteur ou aux créanciers subséquents d'exiger une vente plutôt
+de l'obligation garantie au moment de l'inscription du préavis. L'article 2779
+permet au débiteur ou aux créanciers subséquents d'exiger une vente plutôt
 qu'une prise en paiement, à des conditions précises.
 
 **La vente sous contrôle de justice.** Selon l'article 2791, c'est le tribunal
@@ -93,8 +88,6 @@ charges de la vente, indique si elle se fait de gré à gré, par appel d'offres
 aux enchères, et peut fixer une mise à prix après s'être enquis de la valeur du
 bien. Cette personne doit être indépendante des intéressés. L'article 2793
 l'oblige à agir au nom du propriétaire et à dénoncer sa qualité à l'acquéreur.
-L'article 2794 précise que cette vente purge les droits réels dans la mesure
-prévue au Code de procédure civile.
 
 | | Prise en paiement, puis revente | Vente sous contrôle de justice |
 |---|---|---|
@@ -103,11 +96,12 @@ prévue au Code de procédure civile.
 | Garantie légale de qualité | Exclue par une clause au contrat | Écartée par l'article 1731 |
 | Hypothèques postérieures | Éteintes selon l'article 2783 | Purgées selon l'article 2794 |
 
-Cette dernière ligne est le point le plus mal compris. Dans une vente sous
+La troisième ligne est le point le plus mal compris. Dans une vente sous
 contrôle de justice, l'absence de garantie ne vient pas d'une clause négociable:
-l'article 1731 énonce que la vente faite sous contrôle de justice ne donne lieu
-à aucune obligation de garantie de qualité du bien vendu. Il n'y a rien à
-négocier.
+l'article 1731 énonce que cette vente ne donne lieu à aucune obligation de
+garantie de qualité du bien vendu. Il n'y a rien à négocier. L'article 2794
+précise par ailleurs qu'elle purge les droits réels dans la mesure prévue au
+Code de procédure civile.
 
 ## Acheter une reprise de finance sans Déclarations du vendeur
 

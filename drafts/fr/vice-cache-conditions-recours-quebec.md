@@ -37,28 +37,26 @@ manque, et le dossier tombe.
 | Antérieur | Il existait déjà à la signature | Un bris survenu après la vente |
 | Inconnu | L'acheteur l'ignorait | Un défaut inscrit aux Déclarations du vendeur |
 
-Un point rassure les acheteurs et surprend les vendeurs : l'OACIQ écrit que le
-fait que le vendeur ignore le vice, ou que le vice ne se manifeste qu'après la
-vente, ne diminue en rien la garantie. Éducaloi le dit aussi simplement : le
-vendeur est responsable du vice caché même s'il ignorait son existence. Une
-exception franche subsiste, l'article 1731 : la vente faite sous contrôle de
-justice ne donne lieu à aucune obligation de garantie de qualité.
+Un point surprend les vendeurs : l'OACIQ écrit que le fait que le vendeur
+ignore le vice, ou que le vice ne se manifeste qu'après la vente, ne diminue en
+rien la garantie. Une exception franche subsiste, l'article 1731 : la vente
+faite sous contrôle de justice ne donne lieu à aucune obligation de garantie de
+qualité.
 
 ## Acheteur prudent et diligent : ce que l'inspection prouve vraiment
 
 Le vice apparent, selon l'article 1726, est celui qui peut être constaté par un
-acheteur prudent et diligent sans avoir besoin de recourir à un expert. Ce
-standard n'est pas théorique. Éducaloi le résume ainsi : la loi ne vous oblige
-pas à retenir les services d'un inspecteur, elle vous oblige à agir avec
-prudence, et ne pas faire d'inspection, ou ne pas la faire de façon prudente et
-diligente, revient à accepter d'acheter l'immeuble avec tous les vices qui
-auraient pu être décelés.
+acheteur prudent et diligent sans avoir besoin de recourir à un expert.
+Éducaloi en tire la conséquence : la loi ne vous oblige pas à retenir un
+inspecteur, elle vous oblige à agir avec prudence, et ne pas faire
+d'inspection, ou ne pas la faire de façon prudente et diligente, revient à
+accepter l'immeuble avec tous les vices qui auraient pu être décelés.
 
-L'inspection est visuelle. L'inspecteur ne perce pas les murs pour chercher la
-moisissure. Mais il doit attirer votre attention sur les éléments qui posent
-question et qui pourraient justifier une inspection plus poussée. Cette phrase
-du rapport est celle qui décide du dossier plus tard : si elle est là et que
-vous n'y avez pas donné suite, le vice a été signalé.
+L'inspection est visuelle. L'inspecteur ne perce pas les murs. Mais il doit
+attirer votre attention sur les éléments qui pourraient justifier une
+inspection plus poussée, et c'est cette phrase du rapport qui décide du dossier
+plus tard : si elle est là et que vous n'y avez pas donné suite, le vice a été
+signalé.
 
 L'OACIQ impose quatre exigences au professionnel que le courtier peut vous
 recommander : une assurance responsabilité professionnelle contre les fautes,
@@ -77,13 +75,11 @@ Québec](/articles/inspection-preachat-cout-moment-quebec/).
 l'immeuble et qui empêche le propriétaire de l'utiliser ou d'en profiter
 normalement. Puis il pose le test réel : vous avez un recours si le défaut est
 grave à un point tel que vous auriez exigé un prix moins élevé si vous aviez
-été au courant.
-
-C'est un test sur votre décision, pas sur le montant de la facture. Un problème
-de 6 000 $ qui rend le sous-sol inhabitable passe le test. Une fenêtre en fin
-de vie sur une maison de 1975 ne le passe pas, parce qu'une usure prévisible
-n'est pas un vice. Aucune source officielle ne fixe de montant plancher, et
-méfiez-vous de quiconque vous en cite un.
+été au courant. C'est un test sur votre décision, pas sur le montant de la
+facture. Un défaut qui rend le sous-sol inhabitable le passe. Une fenêtre en
+fin de vie sur une maison de 1975 ne le passe pas, parce qu'une usure
+prévisible n'est pas un vice. Aucune source officielle ne fixe de montant
+plancher, et méfiez-vous de quiconque vous en cite un.
 
 ## Prouver que le vice existait avant la vente
 
@@ -204,27 +200,25 @@ permet d'avancer un coût moyen pour un recours en vice caché.
 ## Questions fréquentes
 
 **Le vendeur jure qu'il ne savait rien. Est-ce que ça le libère ?** Non.
-L'OACIQ est clair : le fait que le vendeur ignore le vice, ou que le vice ne se
-manifeste qu'après la vente, ne diminue en rien la garantie. Sa connaissance
-change autre chose, l'étendue de ce qu'il doit payer, par l'article 1728.
+L'OACIQ est clair : que le vendeur ignore le vice, ou qu'il ne se manifeste
+qu'après la vente, ne diminue en rien la garantie. Sa connaissance change
+l'étendue de ce qu'il doit payer, par l'article 1728, pas la garantie
+elle-même.
 
 **J'ai fait inspecter et l'inspecteur n'a rien vu. Ai-je encore un recours ?**
 Oui, en principe. Éducaloi rappelle qu'une inspection ne garantit pas l'absence
-de vice et qu'un inspecteur ne détectera pas nécessairement les vices cachés.
-Relisez toutefois le rapport : s'il recommandait une vérification plus poussée
-que vous n'avez pas faite, cette phrase sera opposée à votre diligence.
+de vice. Relisez toutefois le rapport : s'il recommandait une vérification plus
+poussée que vous n'avez pas faite, cette phrase sera opposée à votre diligence.
 
 **Puis-je faire les travaux et envoyer la facture au vendeur ?** C'est le
 scénario le plus risqué. Éducaloi demande de ne pas commencer les réparations à
 vos frais, parce que le vendeur doit pouvoir vérifier le vice, constater les
-dommages et réparer lui-même. Les réparations urgentes font exception quand le
-vice est dangereux.
+dommages et réparer lui-même. Seules les réparations urgentes font exception.
 
-**Le vice vient d'un problème que l'ancien propriétaire d'avant avait créé.**
-La garantie se transmet le long de la chaîne des ventes, mais une vente
-antérieure faite aux risques et périls de l'acheteur la rompt, note l'OACIQ.
-Demandez au notaire de vérifier les actes antérieurs avant de choisir contre
-qui vous agissez.
+**Le vice vient de l'avant-dernier propriétaire.** La garantie se transmet le
+long de la chaîne des ventes, mais une vente antérieure faite aux risques et
+périls de l'acheteur la rompt, note l'OACIQ. Demandez au notaire de vérifier
+les actes antérieurs avant de choisir contre qui vous agissez.
 
 Pour compléter, lisez [sept échecs qui font dérailler une
 transaction](/articles/worst-real-estate-deal-lessons/) et [se retirer d'une

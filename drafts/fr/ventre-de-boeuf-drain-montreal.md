@@ -10,11 +10,11 @@ draft: true
 ---
 
 Le sous-sol sent l'égout quand il pleut fort. La toilette du bas gargouille
-pendant que la laveuse se vide. Sur un duplex ou un triplex montréalais dont la
-conduite d'origine n'a jamais été touchée, ces deux détails pointent souvent
-vers la même chose : une section affaissée du drain principal, ce que les
-plombiers appellent un ventre de bœuf. Voici comment on le confirme, qui paie
-quoi, et ce qu'un acheteur doit exiger avant de déposer une promesse d'achat.
+pendant que la laveuse se vide. Sur un plex montréalais dont la conduite
+d'origine n'a jamais été touchée, ces deux détails pointent souvent vers la même
+chose : une section affaissée du drain principal, ce que les plombiers appellent
+un ventre de bœuf. Voici comment on le confirme, qui paie quoi, et ce qu'un
+acheteur doit exiger avant de déposer une promesse d'achat.
 
 ## Ce qu'est un ventre de bœuf, et ce que la Ville reconnaît
 
@@ -89,17 +89,17 @@ Je ne vous donnerai pas de fourchette de prix. Aucune source officielle n'en
 publie, et un chiffre inventé ne vous aiderait pas à négocier. Ce qui est
 documenté, ce sont les postes qui commandent le montant.
 
-**Le permis.** Un permis est obligatoire pour des travaux aux branchements
-d'eau et d'égout, que le travail se fasse sur le domaine public ou sur le
-terrain privé. Le coût varie d'un arrondissement à l'autre.
+**Le permis.** Il est obligatoire pour des travaux aux branchements d'eau et
+d'égout, sur le domaine public comme sur le terrain privé, et son coût varie
+d'un arrondissement à l'autre.
 
 **Le domaine public.** L'entrepreneur qui excave dans la rue doit détenir une
 licence valide de la RBQ et fournir un avenant d'assurance qui coassure la
 Ville de Montréal. Le montant du permis se paie en dépôt, sur la base d'une
 estimation, puis se rajuste selon la superficie réelle de domaine public
 réparée et selon la saison. L'écart est remboursé ou facturé dans les 60 jours
-suivant la fin des travaux. Deux devis pour la même conduite peuvent donc
-différer surtout par la longueur à ouvrir dans la rue.
+suivant la fin des travaux. Deux devis diffèrent donc surtout par la longueur à
+ouvrir dans la rue.
 
 **La méthode.** Posez la question par écrit au plombier : la solution proposée
 corrige-t-elle la pente de la conduite, ou seulement son étanchéité ? Les deux
@@ -188,8 +188,8 @@ avant de vous attacher au bâtiment.
 
 **Un ventre de bœuf, ça se répare pour de bon ?**
 Cela dépend de la cause et de la longueur touchée. Faites préciser par écrit si
-la méthode proposée corrige la pente ou seulement l'étanchéité, et exigez une
-caméra de contrôle après les travaux.
+la méthode corrige la pente ou seulement l'étanchéité, et exigez une caméra de
+contrôle après les travaux.
 
 **Le vendeur me dit que le drain a été débouché l'an dernier, est-ce rassurant ?**
 Un débouchage règle un symptôme. S'il revient chaque année au même endroit, la
