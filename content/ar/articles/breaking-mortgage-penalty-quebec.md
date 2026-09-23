@@ -1,13 +1,13 @@
 ---
 title: "غرامة كسر الرهن العقاري في كيبيك: كيف تُحسب فعلاً"
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-09-23
 translationKey: "article-casser-hypotheque"
 category: "تمويل"
 description: "فوائد ثلاثة أشهر أو فارق سعر الفائدة، السعر المعلن أم السعر المخفَّض، الإبراء والسجل العقاري: الحساب الحقيقي في كيبيك."
 image: "images/articles/casser-hypotheque-penalite-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 يعرض عليك مقرض سعراً أقل بنقطة مئوية كاملة من سعرك الحالي. وقبل أن تقول نعم، يبقى

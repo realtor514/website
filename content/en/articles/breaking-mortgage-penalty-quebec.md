@@ -1,13 +1,13 @@
 ---
 title: "Mortgage Penalty in Quebec: How Breaking Your Mortgage Is Calculated"
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-09-23
 translationKey: "article-casser-hypotheque"
 category: "Finance"
 description: "Three months' interest or the interest rate differential, posted rate versus discounted rate, discharge and the Registre foncier: the real math in Quebec."
 image: "images/articles/casser-hypotheque-penalite-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 A lender offers you a full percentage point below your current rate. Before you

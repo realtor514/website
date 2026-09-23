@@ -1,13 +1,13 @@
 ---
 title: "Undivided Co-Ownership in Montreal: How It Gets Financed"
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-09-23
 translationKey: "article-indivise-cooperative"
 category: "Finance"
 description: "Why indivision exists in Montreal, the down payment lenders require, the convention d'indivision, and the documents to get before you sign an offer."
 image: "images/articles/copropriete-indivise-cooperative-montreal/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 You visit a 4 1/2 in the Plateau, listed $80,000 below a comparable condo two

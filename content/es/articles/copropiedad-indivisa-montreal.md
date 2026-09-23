@@ -1,13 +1,13 @@
 ---
 title: "Copropiedad indivisa en Montréal: cómo se financia"
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-09-23
 translationKey: "article-indivise-cooperative"
 category: "Financiamiento"
 description: "Por qué existe la indivisión en Montréal, la aportación inicial exigida, la convention d'indivision y los documentos que debe obtener antes de firmar una oferta."
 image: "images/articles/copropriete-indivise-cooperative-montreal/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Usted visita un 4 1/2 en el Plateau, anunciado 80 000 $ por debajo de un

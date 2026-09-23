@@ -1,12 +1,12 @@
 ---
 title: "الضجيج والعزل الصوتي في الكوندو في كيبيك: ما الذي تتحقق منه"
 date: 2026-08-30
-lastmod: 2026-08-30
+lastmod: 2026-09-23
 translationKey: "article-bruit-maison-condo"
 category: "دليل المشتري"
 description: "ضجيج هوائي أم ضجيج ارتطام، سنة البناء، تغطية الأرضية التي يفرضها إعلان الملكية المشتركة، خمسة اختبارات أثناء الزيارة، والرجوع القانوني الفعلي في كيبيك."
 image: "images/articles/bruit-maison-condo-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 الضجيج هو العيب الوحيد الذي يقبل المشتري ألا يتحقق منه. يدوّن سنة السطح،

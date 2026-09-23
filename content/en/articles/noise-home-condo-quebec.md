@@ -1,12 +1,12 @@
 ---
 title: "Noise and Soundproofing in a Quebec Condo: What to Check"
 date: 2026-08-30
-lastmod: 2026-08-30
+lastmod: 2026-09-23
 translationKey: "article-bruit-maison-condo"
 category: "Buyer's Guide"
 description: "Airborne or impact noise, year of construction, the floor covering clause in the declaration of co-ownership, five tests during the visit, and the real recourse in Quebec."
 image: "images/articles/bruit-maison-condo-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Noise is the one defect a buyer agrees not to check. You note the year of the

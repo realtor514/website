@@ -15,14 +15,14 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Financement
 - [Accéder à la propriété au Québec en 2026 : ce qui existe vraiment pour un premier acheteur](/articles/everyone-deserves-homeownership/) : CELIAPP, RAP, crédits d'impôt, TPS sur le neuf, mise de fonds minimale et amortissement de 30 ans : à qui
 - [Avantages fiscaux des premiers acheteurs au Québec en 2026 : ce à quoi vous avez droit](/articles/first-time-buyer-tax-credits/) : CELIAPP, RAP, crédits d'impôt, remboursement de la taxe de bienvenue et de la TPS sur le neuf : les aides
-- [Copropriété indivise à Montréal : comment ça se finance](/articles/copropriete-indivise-cooperative-montreal/) (brouillon) : Pourquoi l'indivision existe à Montréal, la mise de fonds exigée, la convention d'indivision et les docum
+- [Copropriété indivise à Montréal : comment ça se finance](/articles/copropriete-indivise-cooperative-montreal/) : Pourquoi l'indivision existe à Montréal, la mise de fonds exigée, la convention d'indivision et les docum
 - [Impôt et propriétaire au Québec : ce qui se déduit](/articles/impot-proprietaire-quebec/) : Impôt du propriétaire au Québec : déduction, exemption de résidence principale, bureau à domicile, plex e
 - [La mise de fonds de 20 % : le mythe qui freine les acheteurs](/articles/down-payment-myth-debunked/) : La mise de fonds minimale au Québec, le vrai coût de l'assurance SCHL, la TVQ payable comptant que person
 - [Le meilleur taux hypothécaire au Canada : ce qui se décide avant le taux](/articles/best-mortgage-rate-canada/) : Taux affiché ou taux obtenu, fixe ou variable, terme, pénalité et différentiel de taux : ce qui décide vr
 - [Les taxes foncières à Montréal et Laval : une explication complète](/articles/property-tax-explained/) : Évaluation municipale, taux, taxe scolaire, taxe de bienvenue et répartition chez le notaire. Ce que vous
 - [Louer ou acheter dans le Grand Montréal : le calcul que presque tout le monde fait mal](/articles/renting-vs-buying-calculation/) : Comparer son loyer à un versement hypothécaire ne veut rien dire. Voici les postes à mettre côte à côte a
 - [Préapprobation hypothécaire : ce qu'elle garantit, ce qu'elle ne garantit pas](/articles/mortgage-preapproval-mistakes/) : Validité, ratios ABD et ATD, test de résistance, vérification de crédit et évaluation du prêteur : les er
-- [Pénalité pour casser une hypothèque : le calcul au Québec](/articles/casser-hypotheque-penalite-quebec/) (brouillon) : Trois mois d'intérêts ou différentiel de taux, taux affiché contre taux consenti, quittance et Registre f
+- [Pénalité pour casser une hypothèque : le calcul au Québec](/articles/casser-hypotheque-penalite-quebec/) : Trois mois d'intérêts ou différentiel de taux, taux affiché contre taux consenti, quittance et Registre f
 - [Quel salaire faut-il pour acheter à Montréal ou à Laval?](/articles/quel-salaire-pour-acheter-montreal/) : La question n'est pas seulement le salaire. Voici comment les prêteurs calculent réellement votre capacit
 - [Refinancement hypothécaire au Québec : est-ce rentable ?](/articles/refinancement-hypothecaire-quebec/) : Renouvellement, transfert ou refinancement hypothécaire au Québec : le plafond de 80 %, la pénalité, l'as
 - [Taux d'intérêt et marché immobilier de Montréal : comment ça se transmet vraiment](/articles/interest-rates-montreal-market/) : Taux directeur, taux préférentiel, marché obligataire, test de résistance, renouvellement : le chemin rée
@@ -33,10 +33,10 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Acheter en zone inondable au Québec : les vérifications](/articles/acheter-zone-inondable-quebec/) : Acheter en zone inondable au Québec : le nouveau cadre, ce que la carte décide, l'assurance, le prêteur e
 - [Acheter un immeuble ancien ou patrimonial : ce qui change vraiment](/articles/heritage-property-montreal/) : Immeuble classé, cité ou situé dans un site patrimonial : autorisations avant travaux, aide à la restaura
 - [Acheter une construction neuve au Québec : ce que la brochure ne vous dit pas](/articles/new-construction-guide-quebec/) : Garantie GCR, dédit de 10 jours, inspection préréception, retards, TPS et TVQ, frais de condo : ce qu'il 
-- [Acheter une reprise de finance au Québec: les règles](/articles/acheter-reprise-de-finance-quebec/) (brouillon) : Préavis d'exercice, délai de 60 jours, prise en paiement ou vente sous contrôle de justice: ce que vous a
+- [Acheter une reprise de finance au Québec: les règles](/articles/acheter-reprise-de-finance-quebec/) : Préavis d'exercice, délai de 60 jours, prise en paiement ou vente sous contrôle de justice: ce que vous a
 - [Acheter à Laval : les six secteurs, le transport, les taxes et les vérifications](/articles/acheter-laval-2025/) : Six secteurs, métro, REM et SRB, droits de mutation à 3 % au-delà de 500 000 $, rôle d'évaluation, zones 
 - [Acheter à plusieurs au Québec : l'indivision, la convention, et ce que la loi décide à votre place](/articles/buying-property-with-family/) : Indivision, convention notariée, solidarité envers le prêteur, don parental, rupture ou décès : le cadre 
-- [Bruit et insonorisation en condo au Québec : quoi vérifier](/articles/bruit-maison-condo-quebec/) (brouillon) : Bruit aérien ou d'impact, année de construction, couvre-plancher imposé en copropriété, cinq tests à la v
+- [Bruit et insonorisation en condo au Québec : quoi vérifier](/articles/bruit-maison-condo-quebec/) : Bruit aérien ou d'impact, année de construction, couvre-plancher imposé en copropriété, cinq tests à la v
 - [Choisir un inspecteur en bâtiment au Québec](/articles/choisir-inspecteur-batiment-quebec/) : Aucun permis n'est encore obligatoire au Québec. Comment choisir un inspecteur en bâtiment: certificat RB
 - [Comparer les secteurs de la Rive-Nord : la méthode et les sources](/articles/rive-nord-guide-laval/) : Transport, taxes, zonage, écoles, zones inondables : les critères vérifiables pour comparer deux secteurs
 - [Copropriété ou maison à Montréal : ce que vous achetez vraiment](/articles/condo-vs-house-montreal/) : Fraction, parties communes, déclaration de copropriété, assurances, votes en assemblée et capacité d'empr
@@ -55,7 +55,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Se retirer d'une propriété : sept signaux qui se vérifient sur papier](/articles/red-flags-walk-away-property/) : Déclaration du vendeur, vente aux risques et périls, certificat périmé, fonds de prévoyance, zonage, zone
 - [Taxe de bienvenue au Québec: combien, quand, et qui la paie](/articles/taxe-de-bienvenue-quebec/) : Les droits de mutation surprennent chaque année des milliers d'acheteurs québécois, parce que la facture 
 - [Vente sans garantie légale au Québec : ce que ça change](/articles/vente-sans-garantie-legale-quebec/) : Vente sans garantie légale au Québec : ce que la clause enlève, ce qu'elle ne peut pas effacer, et ce qu'
-- [Ventre de bœuf dans un drain à Montréal : quoi vérifier](/articles/ventre-de-boeuf-drain-montreal/) (brouillon) : Ventre de bœuf dans le drain à Montréal : inspection par caméra, responsabilité de la Ville, subvention p
+- [Ventre de bœuf dans un drain à Montréal : quoi vérifier](/articles/ventre-de-boeuf-drain-montreal/) : Ventre de bœuf dans le drain à Montréal : inspection par caméra, responsabilité de la Ville, subvention p
 - [Visite libre : le courtier à la porte travaille pour le vendeur](/articles/open-house-secrets/) : À une visite libre, le courtier présent représente le vendeur. Traitement équitable, double représentatio
 - [Votre cote de crédit bloque silencieusement votre maison de rêve (et comment y remédier)](/articles/credit-score-home-buying-quebec/) : Le minimum de 600 exigé pour un prêt assuré, les cinq facteurs qui font votre cote, ce qui se corrige en 
 - [École de quartier, bassin scolaire et taxe scolaire : ce qu'une adresse détermine vraiment](/articles/school-districts-property-values/) : Bassin scolaire, choix d'école, programmes à sélection, taxe scolaire 2026-2027 : ce qu'une adresse décid
@@ -96,7 +96,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Quand une transaction déraille au Québec : sept échecs qui reviennent, et la règle qui les évite](/articles/worst-real-estate-deal-lessons/) : Hypothèque légale, dossier de copropriété, certificat de localisation, inspection, financement, vices cac
 - [Rénover son condo en copropriété au Québec: la vraie limite](/articles/renovation-condo-copropriete-quebec/) : Plancher, fenêtre, balcon, mur porteur: ce qu’un copropriétaire peut rénover dans son condo au Québec, et
 - [Séparation, divorce et maison au Québec : ce que vous devez savoir](/articles/divorce-real-estate-guide/) : Patrimoine familial, union parentale, rachat, vente ou copropriété : ce qui arrive à la maison quand un c
-- [Vice caché au Québec : les conditions et vos recours](/articles/vice-cache-conditions-recours-quebec/) (brouillon) : Vice caché maison Québec : les quatre conditions de l'article 1726, la dénonciation écrite obligatoire, v
+- [Vice caché au Québec : les conditions et vos recours](/articles/vice-cache-conditions-recours-quebec/) : Vice caché maison Québec : les quatre conditions de l'article 1726, la dénonciation écrite obligatoire, v
 
 ## Investissement
 - [Acheter un triplex à Laval : ce qu'il faut vérifier avant de faire une offre](/articles/investir-triplex-laval/) : Mise de fonds, calcul des loyers par le prêteur, taxes et droits de mutation à Laval, encadrement du TAL,

@@ -1,13 +1,13 @@
 ---
 title: "Pénalité pour casser une hypothèque : le calcul au Québec"
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-09-23
 translationKey: "article-casser-hypotheque"
 category: "Financement"
 description: "Trois mois d'intérêts ou différentiel de taux, taux affiché contre taux consenti, quittance et Registre foncier : le calcul réel au Québec."
 image: "images/articles/casser-hypotheque-penalite-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un prêteur vous offre un point de pourcentage de moins que votre taux actuel. Avant

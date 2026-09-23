@@ -1,12 +1,12 @@
 ---
 title: "Bruit et insonorisation en condo au Québec : quoi vérifier"
 date: 2026-08-30
-lastmod: 2026-08-30
+lastmod: 2026-09-23
 translationKey: "article-bruit-maison-condo"
 category: "Guide de l'acheteur"
 description: "Bruit aérien ou d'impact, année de construction, couvre-plancher imposé en copropriété, cinq tests à la visite et le recours réel au Québec."
 image: "images/articles/bruit-maison-condo-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Le bruit est le seul défaut qu'un acheteur accepte de ne pas vérifier. On note

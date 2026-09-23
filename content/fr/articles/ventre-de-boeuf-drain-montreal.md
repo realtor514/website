@@ -1,12 +1,12 @@
 ---
 title: "Ventre de bœuf dans un drain à Montréal : quoi vérifier"
 date: 2026-09-17
-lastmod: 2026-09-17
+lastmod: 2026-09-23
 translationKey: "article-ventre-de-boeuf"
 category: "Guide de l'acheteur"
 description: "Ventre de bœuf dans le drain à Montréal : inspection par caméra, responsabilité de la Ville, subvention pour le clapet antiretour et avenant d'assurance."
 image: "images/articles/ventre-de-boeuf-drain-montreal/featured.jpg"
-draft: true
+draft: false
 ---
 
 Le sous-sol sent l'égout quand il pleut fort. La toilette du bas gargouille

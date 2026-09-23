@@ -7,7 +7,7 @@ category: "Real Estate 101"
 description: "Latent defect in a Quebec home: the four conditions of article 1726, the mandatory written notice, your recourses and the three year deadline."
 image: "images/articles/vice-cache-conditions-recours-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 The water arrives in the spring, in a finished basement bought the previous

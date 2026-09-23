@@ -1,12 +1,12 @@
 ---
 title: "Sagging Sewer Drain in Montreal: What to Check Before You Offer"
 date: 2026-09-17
-lastmod: 2026-09-17
+lastmod: 2026-09-23
 translationKey: "article-ventre-de-boeuf"
 category: "Buyer's Guide"
 description: "A ventre de boeuf in a Montreal drain: camera inspection, who is responsible up to the street, the RenoPlex backwater valve grant and the insurance endorsement."
 image: "images/articles/ventre-de-boeuf-drain-montreal/featured.jpg"
-draft: true
+draft: false
 ---
 
 The basement smells of sewer when it rains hard. The downstairs toilet gurgles

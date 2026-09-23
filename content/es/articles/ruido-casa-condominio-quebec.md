@@ -1,12 +1,12 @@
 ---
 title: "Ruido y aislamiento acústico en condominio en Quebec: qué verificar"
 date: 2026-08-30
-lastmod: 2026-08-30
+lastmod: 2026-09-23
 translationKey: "article-bruit-maison-condo"
 category: "Guía del Comprador"
 description: "Ruido aéreo o de impacto, año de construcción, el revestimiento de piso impuesto en copropiedad, cinco pruebas durante la visita y el recurso real en Quebec."
 image: "images/articles/bruit-maison-condo-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 El ruido es el único defecto que un comprador acepta no verificar. Anota el año

@@ -7,7 +7,7 @@ category: "Inmobiliaria 101"
 description: "Vicio oculto en una casa de Quebec: las cuatro condiciones del artículo 1726, la denuncia escrita obligatoria, sus recursos y el plazo de tres años."
 image: "images/articles/vice-cache-conditions-recours-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 El agua llega en primavera, en un sótano terminado comprado el otoño anterior.

@@ -7,7 +7,7 @@ category: "Immobilier 101"
 description: "Vice caché maison Québec : les quatre conditions de l'article 1726, la dénonciation écrite obligatoire, vos recours et le délai de trois ans."
 image: "images/articles/vice-cache-conditions-recours-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 L'eau arrive au printemps, dans un sous-sol fini acheté l'automne précédent.

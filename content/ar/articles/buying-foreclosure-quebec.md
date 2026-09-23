@@ -1,13 +1,13 @@
 ---
 title: "شراء عقار مستردّ من المصرف في كيبيك: القواعد"
 date: 2026-08-24
-lastmod: 2026-08-24
+lastmod: 2026-09-23
 translationKey: "article-reprise-de-finance"
 category: "دليل المشتري"
 description: "الإشعار المسبق بالتنفيذ، ومهلة 60 يوماً، والأخذ وفاءً أو البيع تحت إشراف القضاء: ما الذي تقبله فعلاً حين تشتري عقاراً مستردّاً في كيبيك."
 image: "images/articles/acheter-reprise-de-finance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 عبارة «reprise de finance»، وهي التسمية الدارجة في كيبيك للعقار الذي يستردّه

@@ -11,7 +11,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Bidding Wars in Montreal: How a Multiple-Offer Situation Really Works in Quebec](/en/articles/bidding-wars-truth-montreal/) : Multiple promises to purchase in Quebec: what the listing broker must do, what the seller decides, escala
 - [Buying New Construction in Quebec: What the Brochure Doesn't Tell You](/en/articles/new-construction-guide-quebec/) : The GCR warranty, your 10-day withdrawal right, the pre-acceptance inspection, delays, GST and QST, condo
 - [Buying Property Together in Quebec: Undivided Co-Ownership, the Agreement, and What the Law Decides for You](/en/articles/buying-property-with-family/) : Undivided co-ownership, the notarial agreement, solidary liability to the lender, parental gifts, breakup
-- [Buying a Foreclosure in Quebec: The Rules That Apply](/en/articles/buying-foreclosure-quebec/) (brouillon) : Prior notice of exercise, the 60 day period, taking in payment or sale under judicial authority: what you
+- [Buying a Foreclosure in Quebec: The Rules That Apply](/en/articles/buying-foreclosure-quebec/) : Prior notice of exercise, the 60 day period, taking in payment or sale under judicial authority: what you
 - [Buying an Old or Heritage Building in Montreal: What Actually Changes](/en/articles/heritage-property-montreal/) : Classified, cited or inside a heritage site: the permits needed before work, restoration grants, inspecti
 - [Buying in Laval: The Six Sectors, the Transit, the Taxes and the Checks](/en/articles/buying-in-laval-2025/) : The six sectors, the metro, REM and BRT, transfer duties at 3% above $500,000, the assessment roll and th
 - [Buying in a Flood Zone in Quebec: The Checks to Make First](/en/articles/buying-in-flood-zone-quebec/) : Buying in a flood zone in Quebec: the new framework, what the map decides, insurance, the lender, and the
@@ -24,9 +24,9 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Home Inspection in Quebec: What It Costs and When to Do It](/en/articles/home-inspection-cost-timing-quebec/) : Before the offer or after? Who pays? How much? Here are the answers to the questions Quebec buyers ask mo
 - [How to Compare North Shore Sectors: The Method and the Sources](/en/articles/rive-nord-guide-laval/) : Transit, municipal taxes, zoning, schools, flood maps: the verifiable criteria for comparing two North Sh
 - [Negotiating a Property in Montreal: The Real Levers, the Ones the Form Allows](/en/articles/strategies-negociation-immobilier-montreal/) : Promise to purchase, conditions, deposit, occupancy date: the real negotiation levers in Quebec, and what
-- [Noise and Soundproofing in a Quebec Condo: What to Check](/en/articles/noise-home-condo-quebec/) (brouillon) : Airborne or impact noise, year of construction, the floor covering clause in the declaration of co-owners
+- [Noise and Soundproofing in a Quebec Condo: What to Check](/en/articles/noise-home-condo-quebec/) : Airborne or impact noise, year of construction, the floor covering clause in the declaration of co-owners
 - [Off-Market Properties in Quebec: What They Are, What They Cost You, What Your Broker Must Disclose](/en/articles/off-market-properties/) : Off Centris is not a discount. Disclosure of interest, the duty to verify, double representation: the rea
-- [Sagging Sewer Drain in Montreal: What to Check Before You Offer](/en/articles/sagging-sewer-drain-montreal/) (brouillon) : A ventre de boeuf in a Montreal drain: camera inspection, who is responsible up to the street, the RenoPl
+- [Sagging Sewer Drain in Montreal: What to Check Before You Offer](/en/articles/sagging-sewer-drain-montreal/) : A ventre de boeuf in a Montreal drain: camera inspection, who is responsible up to the street, the RenoPl
 - [Sale Without Legal Warranty in Quebec: What It Actually Changes](/en/articles/sale-without-legal-warranty-quebec/) : Sale without legal warranty in Quebec: what the clause takes away, what it cannot erase, and what a buyer
 - [The Hidden Costs of Homeownership Nobody Puts in the Brochure](/en/articles/hidden-homeownership-costs/) : Taxes, notary, condo fees, insurance, maintenance: what owning a property in Quebec really costs, using t
 - [The Home Inspection Checklist: What Gets Checked, Item by Item](/en/articles/home-inspection-checklist-montreal/) : Roof, foundation, drain, plumbing, wiring, pyrite, vermiculite, lead, radon: what a Quebec inspector actu
@@ -41,7 +41,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Getting Into Homeownership in Quebec in 2026: What Actually Exists for a First-Time Buyer](/en/articles/everyone-deserves-homeownership/) : FHSA, HBP, tax credits, the GST rebate on new homes, minimum down payments and 30-year amortization: who 
 - [Homeowner Tax in Quebec: What Actually Gets Deducted](/en/articles/homeowner-tax-deductions-quebec/) : Homeowner tax in Quebec: deductions, the principal residence exemption, the home office, plexes and chang
 - [Interest Rates and the Montreal Market: How the Transmission Actually Works](/en/articles/interest-rates-montreal-market/) : Policy rate, prime rate, bond yields, stress test and renewal shock: the real path between a Bank of Cana
-- [Mortgage Penalty in Quebec: How Breaking Your Mortgage Is Calculated](/en/articles/breaking-mortgage-penalty-quebec/) (brouillon) : Three months' interest or the interest rate differential, posted rate versus discounted rate, discharge a
+- [Mortgage Penalty in Quebec: How Breaking Your Mortgage Is Calculated](/en/articles/breaking-mortgage-penalty-quebec/) : Three months' interest or the interest rate differential, posted rate versus discounted rate, discharge a
 - [Mortgage Pre-Approval: What It Guarantees and What It Does Not](/en/articles/mortgage-preapproval-mistakes/) : Validity window, GDS and TDS ratios, the stress test, credit checks and the lender's appraisal: the mista
 - [Mortgage Refinancing in Quebec: Is It Worth It?](/en/articles/mortgage-refinancing-quebec/) : Renewal, transfer or mortgage refinancing in Quebec: the 80% ceiling, the penalty, the insurance you lose
 - [Property Taxes in Montreal and Laval: A Complete Explanation](/en/articles/property-tax-explained/) : Municipal evaluation, tax rate, school tax, welcome tax and the adjustment at the notary. What you will a
@@ -49,7 +49,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Renting or Buying in Greater Montreal: The Calculation Almost Everyone Gets Wrong](/en/articles/renting-vs-buying-calculation/) : Comparing your rent to a mortgage payment proves nothing. Here are the items that actually belong side by
 - [The 20% Down Payment Myth: Why It's Holding Buyers Back](/en/articles/down-payment-myth-debunked/) : The real minimum down payment in Quebec, what CMHC insurance actually costs, the QST you have to pay in c
 - [The Best Mortgage Rate in Canada: What Gets Decided Before the Rate](/en/articles/best-mortgage-rate-canada/) : Posted rate versus your rate, fixed versus variable, term, penalty and the interest rate differential: wh
-- [Undivided Co-Ownership in Montreal: How It Gets Financed](/en/articles/undivided-co-ownership-montreal/) (brouillon) : Why indivision exists in Montreal, the down payment lenders require, the convention d'indivision, and the
+- [Undivided Co-Ownership in Montreal: How It Gets Financed](/en/articles/undivided-co-ownership-montreal/) : Why indivision exists in Montreal, the down payment lenders require, the convention d'indivision, and the
 
 ## Financing
 - [Everything First-Time Buyers Need to Know About Mortgages in Quebec](/en/articles/guide-hypotheque-premier-acheteur-quebec/) : The mortgage process is more complex than your bank makes it seem, and simpler than the internet makes it
@@ -94,7 +94,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Renovating a Condo in Quebec: The Limit Nobody Reads Until Too Late](/en/articles/condo-renovation-rules-quebec/) : Flooring, windows, balcony, load-bearing walls: what a co-owner may actually renovate in a Quebec condo, 
 - [Separation, Divorce and the Home in Quebec: What You Need to Know](/en/articles/divorce-real-estate-guide/) : Family patrimony, parental union, buyout, sale or co-ownership: what happens to the home when a couple se
 - [The Notary in Quebec: What Every Buyer Needs to Know, Step by Step](/en/articles/quebec-notary-process/) : Why a notary is mandatory in Quebec, who chooses and pays, every step from accepted offer to keys, the ad
-- [Vice caché in Quebec: The Four Conditions and Your Recourses](/en/articles/latent-defect-recourse-quebec/) (brouillon) : Latent defect in a Quebec home: the four conditions of article 1726, the mandatory written notice, your r
+- [Vice caché in Quebec: The Four Conditions and Your Recourses](/en/articles/latent-defect-recourse-quebec/) : Latent defect in a Quebec home: the four conditions of article 1726, the mandatory written notice, your r
 - [When a Quebec Deal Goes Wrong: Seven Recurring Failures, and the Rule That Prevents Each](/en/articles/worst-real-estate-deal-lessons/) : Legal hypothec, co-ownership file, certificate of location, inspection, financing, latent defects, deposi
 
 ## Seller's Guide

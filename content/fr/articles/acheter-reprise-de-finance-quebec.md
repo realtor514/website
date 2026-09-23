@@ -1,13 +1,13 @@
 ---
 title: "Acheter une reprise de finance au Québec: les règles"
 date: 2026-08-24
-lastmod: 2026-08-24
+lastmod: 2026-09-23
 translationKey: "article-reprise-de-finance"
 category: "Guide de l'acheteur"
 description: "Préavis d'exercice, délai de 60 jours, prise en paiement ou vente sous contrôle de justice: ce que vous acceptez en achetant une reprise de finance."
 image: "images/articles/acheter-reprise-de-finance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 « Reprise de finance » n'est pas un terme du Code civil. C'est le mot courant

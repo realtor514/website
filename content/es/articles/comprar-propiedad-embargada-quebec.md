@@ -1,13 +1,13 @@
 ---
 title: "Comprar una propiedad embargada en Quebec: las reglas"
 date: 2026-08-24
-lastmod: 2026-08-24
+lastmod: 2026-09-23
 translationKey: "article-reprise-de-finance"
 category: "Guía del Comprador"
 description: "Preaviso de ejercicio, plazo de 60 días, toma en pago o venta bajo control judicial: lo que usted acepta al comprar una propiedad embargada en Quebec."
 image: "images/articles/acheter-reprise-de-finance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 «Reprise de finance», el término corriente en Quebec para una propiedad
