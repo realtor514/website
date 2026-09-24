@@ -1,0 +1,101 @@
+{
+ "id": "t100",
+ "slug": "acheter-un-terrain-quebec-verifications",
+ "title": "Acheter un terrain au Québec : les vérifications",
+ "target_keyword": "acheter un terrain au quebec",
+ "word_count": 1804,
+ "category": "Guide de l'acheteur",
+ "internal_links": [
+  "/articles/acheter-zone-inondable-quebec/",
+  "/articles/new-construction-guide-quebec/",
+  "/tools/mortgage/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/articles/strategies-negociation-immobilier/",
+  "/articles/acheter-laval-2025/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/A-19.1",
+   "title": "Loi sur l'aménagement et l'urbanisme, chapitre A-19.1, article 116",
+   "publisher": "Légis Québec",
+   "consulted": "2026-09-24",
+   "supports": "Les cinq conditions qu'une municipalité peut imposer avant de délivrer un permis de construction : lot distinct conforme au règlement de lotissement, aqueduc et égouts établis sur la rue ou décrétés, projets d'eau potable et d'épuration conformes à la Loi sur la qualité de l'environnement, terrain adjacent à une rue publique ou à une rue privée conforme."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/Q-2,%20r.%2022",
+   "title": "Règlement sur l'évacuation et le traitement des eaux usées des résidences isolées, chapitre Q-2, r. 22",
+   "publisher": "Légis Québec",
+   "consulted": "2026-09-24",
+   "supports": "Article 4 : permis de la municipalité obligatoire avant les travaux. Article 4.1, paragraphe 4 : contenu de l'étude de caractérisation du site et du terrain naturel (topographie, pente du terrain récepteur, perméabilité du sol avec méthode et résultats, niveau du roc et des eaux souterraines). Article 4.3 : étude et plan de localisation signés par un professionnel membre d'un ordre, ou par un ingénieur ou un géologue pour un filtre à sable hors sol ou un champ de polissage en sol imperméable."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/q-2,%20r.%2035.2",
+   "title": "Règlement sur le prélèvement des eaux et leur protection, chapitre Q-2, r. 35.2",
+   "publisher": "Légis Québec",
+   "consulted": "2026-09-24",
+   "supports": "Article 17 : distances minimales du puits, 15 m d'un système étanche de traitement des eaux usées, 30 m d'un système non étanche ou 15 m si le puits est scellé selon l'article 19, 30 m d'une aire de compostage ou d'un ouvrage de stockage de déjections animales. Article 16 : en zone inondable, puits scellé et aménagé sous la supervision d'un professionnel."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, articles 997, 999, 1177, 1181, 1182 et 1719",
+   "publisher": "Légis Québec",
+   "consulted": "2026-09-24",
+   "supports": "Définition de la servitude (1177), impossibilité de l'établir sans titre malgré une possession immémoriale (1181), maintien de la servitude malgré les mutations de propriété (1182), droit de passage du fonds enclavé contre indemnité (997) et sans indemnité lorsque l'enclave résulte de la division du fonds (999), obligation du vendeur de remettre la copie du certificat de localisation qu'il possède (1719)."
+  },
+  {
+   "url": "https://www.cptaq.gouv.qc.ca/autorisation/demandes-dautorisation-en-vertu-de-la-lptaa/pourquoi-demander-une-autorisation",
+   "title": "Pourquoi demander une autorisation",
+   "publisher": "Commission de protection du territoire agricole du Québec",
+   "consulted": "2026-09-24",
+   "supports": "Gestes interdits en zone agricole sans autorisation de la CPTAQ : utilisation d'un lot à une fin autre que l'agriculture, y compris résidentielle (article 26 LPTAA), lotissement (article 28), aliénation avec conservation d'un droit sur un fonds adjacent (article 29), enlèvement de sol arable (article 70), et passage de la demande par la municipalité locale."
+  },
+  {
+   "url": "https://www.environnement.gouv.qc.ca/eau/milieux-humides/reglement-activites-mhhs.htm",
+   "title": "Règlement sur les activités dans des milieux humides, hydriques et sensibles",
+   "publisher": "Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs",
+   "consulted": "2026-09-24",
+   "supports": "Numéro du règlement (chapitre Q-2, r. 0.2), entrée en vigueur du cadre modernisé le 1er mars 2026, distinction entre activités exemptées, déclaration de conformité et autorisation ministérielle en vertu de l'article 22 de la Loi sur la qualité de l'environnement, et existence d'un règlement distinct sur la compensation pour l'atteinte aux milieux humides et hydriques."
+  },
+  {
+   "url": "https://www.laval.ca/reglements-permis/trouver-mon-permis/nouvelle-construction-unifamiliale/",
+   "title": "Permis pour la construction d'une habitation unifamiliale",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-24",
+   "supports": "Frais de permis de 732 $, une seule demande couvrant la construction et les raccordements à l'aqueduc et aux égouts, plan d'implantation préparé obligatoirement par un arpenteur-géomètre montrant les servitudes existantes et projetées et la limite de la zone agricole, exigences additionnelles en plaine inondable (ligne des hautes eaux déterminée par un biologiste, zones de grand et de faible courant, zone d'intervention spéciale, cotes géodésiques), état de la demande dans les 5 jours ouvrables et 30 jours pour compléter un dossier incomplet."
+  },
+  {
+   "url": "https://montreal.ca/demarches/demander-un-permis-de-lotissement",
+   "title": "Demander un permis de lotissement",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-24",
+   "supports": "Permis de lotissement exigé avant une opération cadastrale, opération réalisable uniquement par un arpenteur-géomètre, et possibilité pour l'arrondissement d'exiger la cession de 10 % du terrain ou une contribution financière équivalant à 10 % de sa valeur réelle pour fins de parcs."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/mortgage-loan-insurance-homeownership-programs/improvement",
+   "title": "CMHC Improvement (SCHL Améliorations)",
+   "publisher": "Société canadienne d'hypothèques et de logement",
+   "consulted": "2026-09-24",
+   "supports": "Financement assuré jusqu'à 95 % de la valeur une fois les travaux faits pour 1 ou 2 logements occupés par le propriétaire et 90 % pour 3 ou 4 logements, approbation exigée avant le début de la construction ou très tôt, contrôle du bâtiment par le prêteur pendant le chantier, retrait d'équité interdit, financement de construction de copropriétés non permis, mention explicite que les avances sur un terrain vacant ne sont pas permises, et obligation pour l'autoconstructeur de détenir le titre du terrain à la première avance."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/19-5/fonds-terre-immeubles-connexes-1.html",
+   "title": "Mémorandum sur la TPS/TVH 19.5, Fonds de terre et immeubles connexes",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-24",
+   "supports": "Exonération générale de la vente d'un fonds de terre par un particulier en vertu de l'annexe V, partie I, article 9 de la Loi sur la taxe d'accise, et exceptions rendant la vente taxable : terrain loti en plus de deux parties, terrain utilisé principalement dans le cadre d'une entreprise, vente effectuée dans le cadre d'une entreprise."
+  },
+  {
+   "url": "https://oagq.qc.ca/services/certificat-de-localisation/",
+   "title": "Certificat de localisation",
+   "publisher": "Ordre des arpenteurs-géomètres du Québec",
+   "consulted": "2026-09-24",
+   "supports": "Nature du certificat de localisation comme opinion de l'arpenteur-géomètre sur l'état de la propriété par rapport aux titres, au cadastre, à l'occupation et aux lois et règlements, éléments vérifiés (servitudes, empiètements, zone agricole, zone inondable, aires de protection), et exclusivité de l'acte à l'arpenteur-géomètre."
+  }
+ ],
+ "claims_needing_review": [
+  "Affirmation que je n'ai trouvé aucune règle provinciale imposant une étude géotechnique pour une maison unifamiliale : à faire confirmer par un ingénieur ou par la RBQ avant publication.",
+  "Le frais de permis de 732 $ à Laval est daté du 24 septembre 2026 et doit être revalidé à chaque révision de l'article.",
+  "Le traitement TPS et TVQ d'une vente de terrain dépend des faits propres au vendeur : la formulation renvoie au comptable et au notaire, mais un fiscaliste devrait valider le paragraphe."
+ ]
+}

@@ -35,10 +35,10 @@ l'arrondissement peut exiger la cession de 10 % du terrain ou une contribution
 ## Zonage, usage autorisé et le détour par la CPTAQ
 
 La grille de zonage dit quels usages sont permis, quelles marges, quelle
-superficie minimale de lot. Demandez-la à la municipalité avant l'offre. À
-Laval, l'outil Info-règlements donne la zone par adresse ou par numéro de lot
-et signale les dispositions particulières, comme un plan d'implantation et
-d'intégration architecturale.
+superficie minimale de lot. Demandez-la avant l'offre. À Laval, l'outil
+Info-règlements donne la zone par adresse ou par numéro de lot et signale les
+dispositions particulières, comme un plan d'implantation et d'intégration
+architecturale.
 
 **La zone agricole change tout.** La Loi sur la protection du territoire et des
 activités agricoles interdit plusieurs gestes sans l'autorisation de la
@@ -54,10 +54,10 @@ emplacement de maison.
 L'article 22 de la Loi sur la qualité de l'environnement soumet à autorisation
 ministérielle les travaux et constructions en milieux humides et hydriques. Le
 Règlement sur les activités dans des milieux humides, hydriques et sensibles
-(chapitre Q-2, r. 0.2), entré en vigueur le 1er mars 2026 avec le cadre
-modernisé, précise les activités exemptées, celles qui passent par une
-déclaration de conformité et celles qui exigent l'autorisation. Un règlement
-distinct encadre la compensation financière pour l'atteinte à ces milieux.
+(chapitre Q-2, r. 0.2), en vigueur depuis le 1er mars 2026, précise les
+activités exemptées, celles qui passent par une déclaration de conformité et
+celles qui exigent l'autorisation. Un règlement distinct encadre la
+compensation financière pour l'atteinte à ces milieux.
 
 Un marécage ne se voit pas toujours en août. Le ministère de l'Environnement
 publie une cartographie des milieux humides : c'est le premier écran à ouvrir.
@@ -86,9 +86,9 @@ un géologue (article 4.3).
 (chapitre Q-2, r. 35.2) impose des distances minimales : 15 m ou plus d'un
 système étanche de traitement des eaux usées, 30 m ou plus d'un système non
 étanche, ou 15 m si le puits est scellé selon l'article 19, et 30 m ou plus
-d'une aire de compostage ou d'un ouvrage de stockage de déjections animales
-(article 17). En zone inondable, le puits doit être scellé et aménagé sous la
-supervision d'un professionnel (article 16).
+d'une aire de compostage ou d'un stockage de déjections animales (article 17).
+En zone inondable, le puits doit être scellé et aménagé sous la supervision
+d'un professionnel (article 16).
 
 Ces deux règles se contredisent vite sur un petit lot. C'est là que beaucoup de
 terrains isolés cessent d'être constructibles : la fosse, le champ d'épuration,
@@ -128,8 +128,8 @@ Sur un terrain isolé, vous payez l'opération cadastrale, l'accès, les études
 les raccordements. À Laval, une seule demande couvre la construction et les
 raccordements à l'aqueduc et aux égouts ; le permis pour une habitation
 unifamiliale coûte 732 $, le plan d'implantation doit obligatoirement être
-préparé par un arpenteur-géomètre, et vous recevez un état de la demande dans
-les cinq jours ouvrables, avec 30 jours pour compléter un dossier.
+préparé par un arpenteur-géomètre, et l'état de la demande arrive dans les cinq
+jours ouvrables, avec 30 jours pour compléter un dossier.
 
 **La capacité portante.** L'étude exigée par le règlement Q-2, r. 22 mesure la
 perméabilité, le roc et la nappe, pas la capacité du sol à porter des
@@ -204,8 +204,8 @@ Il montre l'état des lieux à cette date. Une servitude publiée depuis, une
 nouvelle carte d'inondation ou une opération cadastrale n'y figurent pas.
 
 Pour compléter, lisez [les vérifications pour acheter à
-Laval](/articles/acheter-laval-2025/) et [ce que la brochure d'une construction
-neuve ne dit pas](/articles/new-construction-guide-quebec/).
+Laval](/articles/acheter-laval-2025/) et [ce que la brochure du neuf ne dit
+pas](/articles/new-construction-guide-quebec/).
 
 ---
 
