@@ -832,7 +832,7 @@
    "translationKey": "article-turnkey-vs-fixer",
    "needs_expert_review": true,
    "id": "t18",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -855,7 +855,9 @@
      "s": 0.2385,
      "match": "/articles/house-flipping-montreal/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/cle-en-main-ou-a-renover-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 1251,

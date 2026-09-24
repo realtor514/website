@@ -241,12 +241,6 @@
    "state": "in_progress"
   },
   {
-   "id": "t102",
-   "slug": "renover-hiver-permis-montreal-laval",
-   "keyword": "permis de renovation montreal laval",
-   "state": "in_progress"
-  },
-  {
    "id": "t113",
    "slug": "maison-ecoenergetique-novoclimat-quebec",
    "keyword": "maison novoclimat certification quebec",
@@ -389,6 +383,12 @@
    "slug": "duree-de-vie-composantes-maison-quebec",
    "keyword": "duree de vie toiture fenetres quebec",
    "state": "in_progress"
+  },
+  {
+   "id": "t102",
+   "slug": "renover-hiver-permis-montreal-laval",
+   "keyword": "permis de renovation montreal laval",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -432,7 +432,6 @@
   "acheter-maison-hiver-montreal",
   "maison-neuve-ou-existante-quebec",
   "rembourser-hypotheque-plus-vite-quebec",
-  "renover-hiver-permis-montreal-laval",
   "maison-ecoenergetique-novoclimat-quebec",
   "acheter-maison-centenaire-quebec",
   "maison-intergenerationnelle-laval-montreal",
@@ -456,7 +455,8 @@
   "rentabiliser-terrain-zonage-quebec",
   "acheter-fin-ete-montreal-donnees",
   "troubles-de-voisinage-quebec",
-  "duree-de-vie-composantes-maison-quebec"
+  "duree-de-vie-composantes-maison-quebec",
+  "renover-hiver-permis-montreal-laval"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -499,7 +499,6 @@
   "acheter une maison en hiver quebec",
   "maison neuve ou usagee quebec",
   "rembourser hypotheque plus vite quebec",
-  "permis de renovation montreal laval",
   "maison novoclimat certification quebec",
   "acheter maison centenaire montreal",
   "maison intergenerationnelle laval reglement",
@@ -523,7 +522,8 @@
   "ajouter un logement accessoire quebec",
   "meilleur moment pour acheter montreal",
   "troubles de voisinage quebec recours",
-  "duree de vie toiture fenetres quebec"
+  "duree de vie toiture fenetres quebec",
+  "permis de renovation montreal laval"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -566,7 +566,6 @@
   "Acheter en hiver a Montreal et a Laval: moins de concurrence, plus d'angles morts",
   "Neuf ou existant au Quebec: garantie GCR, taxes et garantie legale de qualite",
   "Rembourser son hypotheque plus vite: privileges, frequence et penalites",
-  "Renover l'hiver a Montreal et a Laval: permis, autorisations et delais",
   "Maison ecoenergetique au Quebec: Novoclimat, LEED et le remboursement de la SCHL",
   "Acheter une maison centenaire au Quebec: assurance, electricite et fondation",
   "Maison intergenerationnelle a Laval et a Montreal: zonage, permis et financement",
@@ -590,6 +589,7 @@
   "Faire travailler son terrain au Quebec: zonage, subdivision, logement accessoire",
   "Acheter a la fin de l'ete a Montreal et Laval: ce que disent les statistiques",
   "Troubles de voisinage au Quebec: ce que la loi permet vraiment",
-  "Duree de vie des composantes d'une maison au Quebec"
+  "Duree de vie des composantes d'une maison au Quebec",
+  "Renover l'hiver a Montreal et a Laval: permis, autorisations et delais"
  ]
 }
