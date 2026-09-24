@@ -18,7 +18,7 @@ franchirez la porte pour de vrai.
 
 ## Ce qu'une visite virtuelle montre, et ce qu'elle ne montrera jamais
 
-Une visite par vidéo fait bien trois choses : la disposition des pièces, la
+Une visite par vidéo montre bien trois choses : la disposition des pièces, la
 circulation entre elles, l'état général des finis. C'est déjà assez pour
 éliminer une propriété.
 
@@ -26,7 +26,7 @@ Ses limites tiennent à la nature d'une caméra. Elle n'a pas d'odorat : le
 mazout, la moisissure et l'humidité de garde-robe ne traversent pas l'écran.
 Elle n'a pas d'oreille fiable : le micro compresse le son, et l'autoroute à
 300 mètres disparaît. Elle ne sent ni un plancher qui penche, ni un courant
-d'air sous une fenêtre, ni la température d'un sous-sol en février. Un objectif
+d'air sous une fenêtre, ni la température d'un sous-sol en février. Le
 grand-angle agrandit les pièces, et l'heure du tournage décide de la lumière.
 
 Retenez aussi qui filme. Si la vidéo vient du courtier inscripteur, elle vient
@@ -73,10 +73,10 @@ la liste écrite de ce que vous voulez voir filmer.
 | À faire filmer | Pourquoi |
 |----|-----------|
 | Le panneau électrique ouvert | Type de protection, traces de chaleur, raccords |
-| Le bas des murs du sous-sol | Efflorescence, cernes, fissures de la dalle |
+| Le bas des murs du sous-sol | Efflorescence, cernes, fissures |
 | L'entretoit et l'isolant | Vermiculite possible, ventilation, auréoles |
 | La pente du terrain, tout le tour | L'eau qui revient vers les fondations |
-| L'appareil de chauffage et sa plaque | Année réelle, source d'énergie, réservoir |
+| La plaque de l'appareil de chauffage | Année réelle, source, réservoir |
 | La rue, un soir de semaine | Bruit, stationnement, circulation |
 
 Demandez que l'inspecteur commente à voix haute pendant qu'il filme. Ses
@@ -98,12 +98,12 @@ avant la signature chez le notaire, la vôtre ou celle de votre mandataire.
 
 **Les documents.** Déclarations du vendeur sur l'immeuble, certificat de
 localisation, comptes de taxes, et pour une copropriété les procès-verbaux, les
-états financiers et l'état du fonds de prévoyance.
+états financiers et le fonds de prévoyance.
 
 Une mise en garde : les tribunaux ont établi que tout défaut révélé par
 l'inspection ne donne pas automatiquement le droit d'annuler la promesse
 d'achat. Le facteur doit être significatif. Pendant que vous fixez vos délais,
-chiffrez ce qui vous attend à la clôture avec le
+chiffrez la clôture avec le
 [calculateur des frais de clôture](/tools/closing-costs/).
 
 ## Procuration : ce que votre mandataire peut faire à votre place
@@ -112,24 +112,25 @@ L'article 2130 du Code civil est la base : le mandat est le contrat par lequel
 une personne donne à une autre le pouvoir de la représenter dans un acte
 juridique, et l'écrit qui constate ce pouvoir s'appelle la procuration.
 
-Trois choses comptent. D'abord la portée : une procuration utile nomme
-l'immeuble, le prix maximal, et dit si le mandataire peut emprunter et consentir
-une hypothèque en votre nom. Ensuite la personne : l'article 2138 oblige le
-mandataire à agir avec prudence et diligence, honnêteté et loyauté, et à éviter
-le conflit d'intérêts, mais cette obligation ne vous rembourse rien si le choix
-était mauvais au départ. Enfin la révocation : l'article 2176 permet de révoquer
-le mandat et d'exiger la remise de la procuration pour qu'y soit mentionnée la
-fin du mandat.
+Trois choses comptent. La portée : une procuration utile nomme l'immeuble, le
+prix maximal, et dit si le mandataire peut emprunter et consentir une hypothèque
+en votre nom. La personne : l'article 2138 oblige le mandataire à agir avec
+prudence et diligence, honnêteté et loyauté, et à éviter le conflit d'intérêts,
+mais cette obligation ne vous rembourse rien si le choix était mauvais. La
+révocation : l'article 2176 permet de révoquer le mandat et d'exiger la remise
+de la procuration pour qu'y soit mentionnée la fin du mandat.
 
 Si vous signez la procuration à l'étranger, l'article 2823 est celui qui
 compte : une procuration sous seing privé faite hors du Québec fait preuve à
 l'égard de tous lorsqu'elle est certifiée par un officier public compétent qui a
 vérifié l'identité et la signature du mandant. Si elle est contestée, l'article
-2825 met sur celui qui l'invoque le fardeau de prouver son authenticité. Le
-notaire instrumentant vous dira la forme qu'il accepte : demandez-le lui des
-semaines avant la clôture, pas la veille.
+2825 met le fardeau de la preuve sur celui qui l'invoque. Le notaire
+instrumentant vous dira la forme qu'il accepte : demandez-le lui des semaines
+avant la clôture, pas la veille.
 
 ## Signer à distance chez le notaire
+
+### L'exception, et non la règle
 
 La règle est l'inverse de ce que beaucoup croient. L'article 46 de la Loi sur le
 notariat prévoit que l'acte notarié est clos par la signature des parties en
@@ -181,11 +182,11 @@ Ce qui rend l'achat défendable, c'est une séquence, pas une clause.
 
 | Ordre | Étape |
 |---|---|
-| 1 | Préapprobation et vérification d'identité réglées avant la première offre |
-| 2 | Documents lus avant l'offre : Déclarations du vendeur, certificat, taxes |
-| 3 | Visite en direct par une personne indépendante, avec votre liste écrite |
+| 1 | Préapprobation et vérification d'identité réglées avant l'offre |
+| 2 | Documents lus : Déclarations du vendeur, certificat, taxes |
+| 3 | Visite en direct par une personne indépendante, liste écrite en main |
 | 4 | Promesse d'achat avec délais rallongés et visite avant signature |
-| 5 | Inspection filmée en direct, rapport écrit, expertises recommandées faites |
+| 5 | Inspection filmée en direct, rapport écrit, expertises faites |
 | 6 | Notaire choisi tôt, forme de la procuration confirmée par écrit |
 
 ## Questions fréquentes
@@ -201,10 +202,9 @@ peut autoriser, et l'autorisation peut être révoquée en tout temps. Réglez l
 question avant de fixer la date de clôture.
 
 **Une procuration faite dans mon pays sera-t-elle acceptée ?**
-L'article 2823 du Code civil reconnaît la procuration sous seing privé faite
-hors du Québec certifiée par un officier public compétent qui a vérifié
-l'identité et la signature du mandant. C'est toutefois le notaire instrumentant
-qui confirmera la forme exacte qu'il exige.
+L'article 2823 du Code civil la reconnaît si un officier public compétent a
+certifié l'identité et la signature du mandant. C'est toutefois le notaire
+instrumentant qui confirmera la forme exacte qu'il exige.
 
 **Puis-je annuler si l'inspection révèle un problème ?**
 Pas automatiquement. Les tribunaux ont jugé que tout défaut révélé par

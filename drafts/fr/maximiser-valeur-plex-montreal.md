@@ -20,7 +20,7 @@ générale : votre cas se valide avec un juriste et un comptable.
 
 **Deux acheteurs regardent le même duplex et ne calculent pas la même chose.** Le
 futur occupant compare avec les plex vendus autour et pense en versement mensuel.
-L'investisseur part du revenu net et le convertit en prix. Chaque dollar de loyer
+L'investisseur part du revenu net et le convertit en prix. Un dollar de loyer
 récurrent pèse donc plus lourd qu'un dollar de rénovation cosmétique.
 
 Aucune source officielle ne publie de taux de capitalisation pour les plex de
@@ -50,22 +50,19 @@ s'applique aux demandes dont l'avis de modification de bail a été donné à co
 **Votre grille de dépenses n'est plus lue ligne par ligne.** Chauffage, électricité,
 entretien, déneigement, gestion : ces postes ne sont plus des critères distincts. Ils
 sont absorbés dans le pourcentage de base, calculé à l'article 3.1 sur la moyenne des
-variations de l'indice des prix à la consommation du Québec sur trois ans. Si la
-formule donne un résultat négatif, le montant attribuable est réputé nul.
+variations de l'indice des prix à la consommation du Québec sur trois ans.
 
 **Une hausse de taxes ne passe pas en entier.** L'article 4 oblige le tribunal à
 soustraire la valeur absolue du pourcentage de base de la variation observée. Une
 hausse de taxes de 3 % dans une année où la base est de 3,1 % n'ajoute donc rien. Le
-pourcentage de 6,7 % diffusé en janvier 2026, lui, ne vous concerne pas : il vise la
-partie du loyer liée aux services rattachés à la personne même du locataire, dans une
-résidence pour aînés.
+pourcentage de 6,7 % diffusé en janvier 2026, lui, ne vise que la partie du loyer
+liée aux services rattachés à la personne même du locataire, en résidence pour aînés.
 
 Ces pourcentages servent quand le tribunal fixe le loyer. Entre vous et votre
 locataire, c'est l'entente qui compte : l'article 1942 du Code civil impose un avis de
 3 à 6 mois avant le terme pour un bail de 12 mois ou plus, l'article 1945 fait du
 silence du locataire une acceptation, et l'article 1947 vous laisse un mois après un
-refus pour saisir le tribunal, faute de quoi le bail se reconduit aux conditions
-antérieures.
+refus pour saisir le tribunal.
 
 ## Les travaux qui se récupèrent dans le loyer, et ceux qui ne se récupèrent pas
 
@@ -116,8 +113,8 @@ problème de l'acheteur, possiblement le vôtre.
 L'exception existe. L'article 1955 écarte la fixation pendant les cinq années qui
 suivent la date où l'immeuble est prêt pour son usage, dans un immeuble nouvellement
 bâti ou dont l'usage locatif résulte d'un changement d'affectation récent. Encore
-faut-il que le bail le prévoie et, dans ce second cas, qu'il indique le loyer maximal
-exigible pendant ces cinq ans. C'est la section F.
+faut-il que le bail le prévoie et qu'il indique le loyer maximal exigible pendant ces
+cinq ans. C'est la section F.
 
 ## Les dépenses que l'acheteur et le prêteur vont recalculer
 
@@ -125,18 +122,18 @@ L'acheteur ne reprend pas vos chiffres. Il normalise : taxes municipales et scol
 assurance, chauffage réellement payé par le locateur, location de chauffe-eau,
 déneigement, gestion, mauvaises créances, inoccupation et réserve d'entretien. Un bail
 chauffé se lit comme un loyer plus faible, et retirer le chauffage du bail est une
-modification de condition soumise au même régime d'avis, que le locataire peut refuser.
+modification soumise au même régime d'avis, que le locataire peut refuser.
 
 Le prêteur, lui, change de logique selon le nombre de logements. Pour un immeuble de
 2 à 4 logements non occupé par le propriétaire, la SCHL permet d'ajouter jusqu'à 50 %
-du revenu locatif brut dans les ratios, avec un rapport prêt valeur maximal de 80 %,
-un amortissement de 25 ans et une cote de crédit d'au moins 600 chez un emprunteur. À
-partir de 5 logements, c'est un autre produit : la SCHL finance jusqu'à 85 % de la
-valeur en achat comme en refinancement, autorise un amortissement allant jusqu'à
-40 ans pour un immeuble existant, et exige cinq ans d'expérience en gestion
-multilogement ou un gestionnaire qui les a. Là, c'est le revenu de l'immeuble qui
-qualifie le prêt. Le [calculateur hypothécaire](/tools/mortgage/) donne le versement ;
-le reste du tableau décide de l'offre.
+du revenu locatif brut dans les ratios, avec un rapport prêt valeur maximal de 80 %
+et un amortissement de 25 ans. À partir de 5 logements, c'est un autre produit : la
+SCHL finance jusqu'à 85 % de la valeur en achat comme en refinancement, autorise un
+amortissement allant jusqu'à 40 ans pour un immeuble existant, et exige cinq ans
+d'expérience en gestion multilogement ou un gestionnaire qui les a. Là, c'est le
+revenu de l'immeuble qui qualifie le prêt. Le [calculateur
+hypothécaire](/tools/mortgage/) donne le versement ; le reste du tableau décide de
+l'offre.
 
 ## Ce qui détruit la valeur d'un plex au lieu de l'augmenter
 
@@ -152,15 +149,13 @@ logements comparables. Louer au frère à 700 $ ne crée pas une preuve de march
 **Couper un service pour économiser.** L'article 8 oblige le tribunal à réduire le
 loyer dans la mesure où le locateur a fait défaut, durant les 12 mois précédents, de
 maintenir la qualité des services ou de procurer l'usage d'un accessoire ou d'une
-dépendance. Retirer le stationnement ou le casier peut coûter plus que la dépense
-évitée.
+dépendance. Retirer le stationnement ou le casier peut coûter plus que l'économie.
 
 **Rater le délai, ou vider l'immeuble.** Un avis refusé et non porté devant le
 tribunal dans le mois du refus, et le bail se reconduit aux conditions antérieures :
 une année perdue pour une date au calendrier. Quant à libérer les logements, la
-reprise et l'éviction obéissent à un régime strict, avec une charge de preuve qui
-repose sur le locateur. Le détail est dans [la reprise par un propriétaire
-occupant](/articles/proprietaire-occupant-plex-reprise/).
+reprise et l'éviction obéissent à un régime strict, dont le détail est dans [la
+reprise par un propriétaire occupant](/articles/proprietaire-occupant-plex-reprise/).
 
 ## Les documents qui prouvent le revenu à un acheteur et à un prêteur
 
@@ -172,8 +167,8 @@ même chose.
 - Les avis de modification transmis, la réponse écrite du locataire et les dates.
 - Un registre des loyers : loyer au bail, dates de début et de fin, services inclus,
   ancienneté d'occupation.
-- Les comptes de taxes des trois dernières années et les avis de renouvellement
-  d'assurance incendie et responsabilité.
+- Les comptes de taxes des trois dernières années et les avis d'assurance incendie et
+  responsabilité.
 - Les factures et preuves de paiement des dépenses d'immobilisation avec leur date,
   plus les lettres de subvention et les règlements d'assureur, puisque l'article 13
   les déduit de toute façon.
@@ -203,7 +198,7 @@ mois si l'avis manque ou s'il est faux.
 **Un acheteur m'offre moins parce que mes loyers sont bas. Devrais-je attendre ?**
 Cela dépend de votre calendrier de baux, pas d'une intuition de marché. Sous cette
 méthode, les loyers remontent lentement et personne ne peut vous garantir un prix dans
-18 mois. Ce que vous contrôlez, ce sont les avis et les preuves.
+18 mois.
 
 Pour compléter, lisez [Gérer des propriétés locatives à Montréal et
 Laval](/articles/rental-property-management/) et [Plex à revenus à Montréal et Laval,

@@ -1312,7 +1312,7 @@
    "translationKey": "article-keep-or-sell-signals",
    "needs_expert_review": true,
    "id": "t28",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1335,7 +1335,9 @@
      "s": 0.2242,
      "match": "/articles/garder-ou-vendre-propriete-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/garder-ou-vendre-signaux-quebec.md",
+   "date": "2026-08-25"
   },
   {
    "ref_id": 1161,
@@ -5754,7 +5756,7 @@
    "translationKey": "article-profil-acheteurs",
    "needs_expert_review": false,
    "id": "t120",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5777,7 +5779,9 @@
      "s": 0.1215,
      "match": "/articles/first-time-buyer-tax-credits/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/profil-acheteurs-montreal-laval-vendeur.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 69,
@@ -6243,7 +6247,7 @@
    "translationKey": "article-diffusion-inscription",
    "needs_expert_review": false,
    "id": "t130",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -6266,7 +6270,9 @@
      "s": 0.1088,
      "match": "/articles/off-market-properties/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/diffusion-inscription-centris-publicite.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 22,
@@ -6871,7 +6877,7 @@
    "translationKey": "article-animaux-condo",
    "needs_expert_review": true,
    "id": "t143",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -6894,7 +6900,9 @@
      "s": 0.1242,
      "match": "/articles/location-court-terme-quebec-regles/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/animaux-copropriete-declaration-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 917,

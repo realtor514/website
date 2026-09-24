@@ -1,0 +1,76 @@
+{
+ "id": "t120",
+ "slug": "profil-acheteurs-montreal-laval-vendeur",
+ "title": "Profil des acheteurs à Montréal et à Laval: les données",
+ "target_keyword": "profil des acheteurs montreal laval",
+ "word_count": 1730,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/articles/marche-immobilier-montreal/",
+  "/tools/affordability/",
+  "/articles/income-property-beginners/",
+  "/articles/preparer-maison-vente/",
+  "/articles/condo-fees-investment-killer/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://comapciqca-152af.kxcdn.com/fsmi-stats/mensuelles/2026/stats-202608-fr.pdf",
+   "title": "Statistiques détaillées par catégorie de propriétés, août 2026, Province de Québec, RMR de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-09-24",
+   "supports": "Ventes, prix médians et délais de vente d'août 2026 par catégorie et par territoire: île de Montréal (copropriété 562 ventes, 475 000 $, 72 jours; unifamiliale 306 ventes, 820 000 $, 57 jours; plex 179 ventes, 870 000 $, 54 jours), Laval (unifamiliale 160 ventes, 642 750 $, 40 jours; copropriété 74 ventes, 449 000 $, 63 jours; plex 21 ventes, prix médian non diffusé, 209 ventes et 890 000 $ en cumul annuel), RMR de Montréal (2 853 ventes, 20 128 inscriptions, plex 307 ventes à 856 000 $), et le délai de 55 jours de la copropriété montréalaise en août 2025."
+  },
+  {
+   "url": "https://apciq.ca/rmr-de-montreal-le-reequilibrage-du-marche-gagne-desormais-les-couronnes/",
+   "title": "RMR de Montréal: le rééquilibrage du marché gagne désormais les couronnes",
+   "publisher": "APCIQ",
+   "consulted": "2026-09-24",
+   "supports": "Date de diffusion des statistiques d'août 2026, le 4 septembre 2026, et les variations annuelles: 2 853 ventes en baisse de 13 %, 20 128 inscriptions en vigueur en hausse de 18 %."
+  },
+  {
+   "url": "https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=F&GENDERlist=1,2,3&STATISTIClist=1,4&HEADERlist=0&DGUIDlist=2021A00052466023&SearchText=montreal",
+   "title": "Profil du recensement, Recensement de la population de 2021, Montréal, Ville (V), Québec",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-09-24",
+   "supports": "Montréal en 2021: 816 340 logements privés occupés, 36,4 % de ménages propriétaires et 63,6 % de locataires, 41,8 % de ménages d'une personne, taille moyenne des ménages de 2,1, maison individuelle non attenante à 7,1 % et appartement dans un immeuble de moins de cinq étages à 56,9 %."
+  },
+  {
+   "url": "https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=F&GENDERlist=1,2,3&STATISTIClist=1,4&HEADERlist=0&DGUIDlist=2021A00052465005&SearchText=laval",
+   "title": "Profil du recensement, Recensement de la population de 2021, Laval, Ville (V), Québec",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-09-24",
+   "supports": "Laval en 2021: 169 785 logements privés occupés, 66,6 % de ménages propriétaires, 27,9 % de ménages d'une personne, 16,2 % de ménages de quatre personnes et 9,5 % de cinq personnes ou plus, taille moyenne de 2,5, logements à trois chambres à 36,8 % et à quatre chambres ou plus à 20,5 %."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres",
+   "title": "Rapport sur le marché locatif, enquête d'octobre 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-09-24",
+   "supports": "Taux d'inoccupation des appartements d'initiative privée de 2,9 % à Montréal contre 3,1 % au Canada, loyer moyen d'un logement de deux chambres à 1 346 $ et hausse des loyers de 7,2 %, données d'octobre 2025."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/observer/2026/2026-mid-year-rental-market-update",
+   "title": "Mise à jour sur le marché locatif de mi-année 2026",
+   "publisher": "SCHL",
+   "consulted": "2026-09-24",
+   "supports": "Stabilité relative des loyers demandés à Montréal et détente du marché locatif concentrée dans les segments les plus chers, publication du 9 juin 2026."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/consumers/home-buying/mortgage-loan-insurance-for-consumers/what-are-the-general-requirements-to-qualify-for-homeowner-mortgage-loan-insurance",
+   "title": "Modalités générales de l'assurance prêt hypothécaire pour propriétaires-occupants",
+   "publisher": "SCHL",
+   "consulted": "2026-09-24",
+   "supports": "Mise de fonds minimale de 5 % sur la première tranche de 500 000 $ et de 10 % au-delà, prix d'achat maximal sous 1 500 000 $, ratios ABD de 39 % et ATD de 44 %. Base des mises de fonds minimales calculées dans le tableau de l'article."
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/231018/dq231018b-fra.htm",
+   "title": "Programme de la statistique du logement canadien: investisseurs en immobilier résidentiel, 2021",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-09-24",
+   "supports": "La diffusion du 18 octobre 2023 sur les investisseurs en immobilier résidentiel couvre six provinces et n'inclut pas le Québec, ce qui justifie le refus de chiffrer la part des acheteurs investisseurs."
+  }
+ ],
+ "claims_needing_review": []
+}

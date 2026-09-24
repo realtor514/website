@@ -32,13 +32,11 @@ Les exceptions prévues par la loi et le règlement:
 - **Le conjoint** non-Canadien qui achète avec un époux ou conjoint de fait citoyen, résident permanent ou personne inscrite à titre d'Indien.
 - **Certains diplomates et représentants consulaires.**
 
-Le règlement écarte aussi ce qui ne compte pas comme un achat: l'acquisition résultant d'un décès, d'un divorce, d'une séparation ou d'un don, la location d'un logement à un locataire, la réalisation d'une garantie par un créancier, et l'acquisition à des fins de développement.
+Le règlement écarte aussi ce qui ne compte pas comme un achat: l'acquisition résultant d'un décès, d'un divorce, d'une séparation ou d'un don, la location à un locataire, la réalisation d'une garantie par un créancier, et l'acquisition à des fins de développement.
 
 ## Mise de fonds et prêt hypothécaire pour un acheteur étranger au Québec
 
-C'est ici que beaucoup de dossiers bloquent, et pas à cause de l'interdiction.
-
-Le programme SCHL Nouveaux arrivants s'adresse aux résidents permanents et non permanents. Le critère est clair: la personne doit avoir le statut de résident permanent ou être légalement autorisée à travailler au Canada, par exemple avec un permis de travail. Aucune durée minimale de résidence n'est exigée. La SCHL précise aussi que seuls les emprunteurs exemptés de l'interdiction peuvent être admissibles à l'assurance prêt hypothécaire.
+C'est ici que beaucoup de dossiers bloquent, et pas à cause de l'interdiction. Le programme SCHL Nouveaux arrivants s'adresse aux résidents permanents et non permanents. Le critère est clair: la personne doit avoir le statut de résident permanent ou être légalement autorisée à travailler au Canada, par exemple avec un permis de travail. Aucune durée minimale de résidence n'est exigée. La SCHL ajoute que seuls les emprunteurs exemptés de l'interdiction peuvent être admissibles à l'assurance prêt hypothécaire.
 
 La conséquence est directe: une personne qui vit à l'étranger, sans statut ni autorisation de travail ici, n'entre pas dans ce programme. Son financement sera conventionnel, et c'est le prêteur qui fixe la mise de fonds. Aucune source officielle ne permet d'avancer un pourcentage valable chez tous les prêteurs. Faites confirmer le vôtre par écrit avant de faire une offre.
 
@@ -49,21 +47,21 @@ Pour un acheteur admissible, la SCHL publie ses paramètres:
 - Pointage de crédit d'au moins 600 pour au moins un emprunteur ou une caution.
 - Rapports maximaux de 39 % (ABD) et 44 % (ATD), calculés au plus élevé du taux contractuel majoré de 2 % ou d'un plancher de 5,25 %.
 
-Faites tourner vos chiffres dans le [calculateur de capacité d'emprunt](/tools/affordability/) avant de visiter quoi que ce soit. Si vous arrivez au pays, le [guide pour les nouveaux arrivants qui veulent acheter au Québec](/articles/guide-nouveaux-arrivants-quebec/) couvre le dossier de crédit et le CELIAPP, que cet article ne reprend pas.
+Faites tourner vos chiffres dans le [calculateur de capacité d'emprunt](/tools/affordability/) avant de visiter quoi que ce soit.
 
 ## À la revente: le certificat de conformité et la retenue que le notaire garde
 
-Ce volet surprend presque tout le monde, parce qu'il se déclenche non pas à l'achat, mais à la vente, parfois dix ans plus tard. Quand un vendeur non-résident du Canada aliène un bien canadien imposable, l'article 116 de la *Loi de l'impôt sur le revenu* l'oblige à en informer l'Agence du revenu du Canada avant la disposition, ou dans les 10 jours qui suivent, au moyen du formulaire T2062. Pour que l'ARC délivre un certificat de conformité, il faut un paiement ou une garantie acceptable, calculé « selon un taux uniforme de 25 % de l'excédent du produit de disposition du bien sur le prix de base rajusté ».
+Ce volet surprend presque tout le monde, parce qu'il se déclenche non pas à l'achat, mais à la vente, parfois dix ans plus tard. Quand un vendeur non-résident du Canada aliène un bien canadien imposable, l'article 116 de la *Loi de l'impôt sur le revenu* l'oblige à en informer l'Agence du revenu du Canada avant la disposition, ou dans les 10 jours qui suivent, au moyen du formulaire T2062. Pour que l'ARC délivre un certificat de conformité, il faut un paiement ou une garantie acceptable, calculé « selon un taux uniforme de 25 % de l'excédent du produit de disposition sur le prix de base rajusté ».
 
 **Sans certificat, c'est l'acheteur qui paie.** L'ARC le dit sans détour: l'acheteur est alors tenu de verser 25 % du coût du bien qu'il a acquis, et il est autorisé à retrancher ce montant du prix d'achat. Le taux monte à 50 % pour certains biens, dont un bien immeuble qui n'est pas une immobilisation. Le versement est dû dans les 30 jours suivant la fin du mois de l'acquisition, et le retard entraîne une pénalité de 3 % à 10 % selon le nombre de jours. L'acheteur y échappe seulement si, après une enquête sérieuse, il n'avait aucune raison de croire que le vendeur était un non-résident.
 
-C'est exactement pour cela que le notaire retient une somme dans son compte en fidéicommis jusqu'à la délivrance du certificat. Ce n'est pas de la prudence excessive: sa responsabilité est en jeu, et la vôtre aussi.
+C'est pour cela que le notaire retient une somme dans son compte en fidéicommis jusqu'à la délivrance du certificat. Ce n'est pas de la prudence excessive: sa responsabilité est en jeu, et la vôtre aussi.
 
 ## Le volet Revenu Québec: l'avis TP-1097 et l'acompte de 12,875 %
 
-Le Québec a son propre mécanisme, en parallèle du fédéral. Il faut faire les deux.
+Le Québec a son propre mécanisme. Il faut faire les deux.
 
-Revenu Québec l'écrit ainsi: un particulier qui ne réside pas au Canada et qui aliène un bien québécois imposable, par exemple un immeuble situé au Québec, doit en aviser le ministre « dans les dix jours suivant l'aliénation réelle ». Le formulaire est le TP-1097, et l'acompte d'impôt à verser pour obtenir le certificat est de 12,875 % du gain en capital. Le certificat délivré, le TPF-1098, libère l'acquéreur de toute responsabilité liée à l'impôt découlant de la transaction.
+Revenu Québec l'écrit ainsi: un particulier qui ne réside pas au Canada et qui aliène un bien québécois imposable, par exemple un immeuble situé au Québec, doit en aviser le ministre « dans les dix jours suivant l'aliénation réelle ». Le formulaire est le TP-1097, et l'acompte à verser pour obtenir le certificat est de 12,875 % du gain en capital. Le certificat, le TPF-1098, libère l'acquéreur de toute responsabilité liée à l'impôt découlant de la transaction.
 
 | | Fédéral (ARC) | Québec (Revenu Québec) |
 |:-|:-|:-|
@@ -74,9 +72,9 @@ Revenu Québec l'écrit ainsi: un particulier qui ne réside pas au Canada et qu
 | Avis tardif | 100 $, ou 25 $ par jour, max 2 500 $ | 25 $ par jour, max 2 500 $ |
 | Versement de l'acquéreur | 30 jours après la fin du mois | 30 jours après la fin du mois |
 
-Au Québec, si le vendeur non résident n'a pas avisé le ministre, n'a pas payé l'acompte ou n'a pas fourni de sûreté, l'acquéreur doit verser une somme correspondant à l'excédent du coût d'acquisition sur le montant indiqué au certificat, dans les 30 jours suivant la fin du mois de l'acquisition.
+Si le vendeur non résident n'a pas avisé le ministre, n'a pas payé l'acompte ou n'a pas fourni de sûreté, l'acquéreur doit verser une somme correspondant à l'excédent du coût d'acquisition sur le montant indiqué au certificat, dans les 30 jours suivant la fin du mois de l'acquisition.
 
-**Le comptable n'est pas un luxe ici.** Le prix de base rajusté se calcule avec le contrat d'acquisition d'origine, les honoraires de notaire, les commissions et les factures des améliorations. Revenu Québec exige ces pièces en annexe. Personne ne reconstitue cela la veille de la signature.
+**Le comptable n'est pas un luxe ici.** Le prix de base rajusté se calcule avec le contrat d'acquisition d'origine, les honoraires de notaire, les commissions et les factures des améliorations, que Revenu Québec exige en annexe. Personne ne reconstitue cela la veille de la signature.
 
 ## Vous vendez à un acheteur non-résident: ce qui change pour vous
 
@@ -87,9 +85,9 @@ Deuxième point, financier. Un acheteur sans statut ni autorisation de travail n
 ## Ce qu'un acheteur étranger doit rassembler, tôt
 
 - Le document qui établit le statut: passeport, permis de travail ou d'études avec sa date d'expiration, carte de résident permanent, attestation de personne protégée.
-- Un numéro d'identification fiscale canadien. Le TP-1097 exige un NAS ou un numéro d'identification.
+- Un numéro d'identification fiscale canadien: le TP-1097 exige un NAS ou un numéro d'identification.
 - Les déclarations de revenus des cinq dernières années, si vous invoquez l'exception étudiante.
-- Le contrat d'acquisition original et les factures des améliorations, conservés dès le premier jour, pour le prix de base rajusté.
+- Le contrat d'acquisition original et les factures des améliorations, conservés dès le premier jour.
 - Une préapprobation écrite du prêteur, avec la mise de fonds exigée dans votre cas.
 
 Au Québec, le notaire est obligatoire pour le transfert de propriété, et c'est lui qui gère la retenue: son rôle est détaillé dans [le guide du processus notarial](/articles/quebec-notary-process/). Le comptable, lui, n'est imposé par aucune loi, mais aucun courtier et aucun texte de blogue ne peut faire à sa place le calcul du gain. Pour ce qui se déduit une fois propriétaire, voyez [l'impôt du propriétaire au Québec](/articles/impot-proprietaire-quebec/).
@@ -97,10 +95,10 @@ Au Québec, le notaire est obligatoire pour le transfert de propriété, et c'es
 ## Questions fréquentes
 
 **J'ai un permis de travail qui expire dans huit mois. Puis-je acheter?**
-Le règlement exige que le permis soit encore valide pendant au moins 183 jours à la date de l'achat, et que vous n'ayez acheté qu'un seul immeuble résidentiel. Huit mois dépassent ce seuil, mais la date qui compte est celle de l'achat, pas celle de l'offre. Faites valider votre cas par un avocat ou un notaire.
+Le règlement exige que le permis soit encore valide pendant au moins 183 jours à la date de l'achat, et que vous n'ayez acheté qu'un seul immeuble résidentiel. La date qui compte est celle de l'achat, pas celle de l'offre. Faites valider votre cas par un avocat ou un notaire.
 
 **Mon conjoint est citoyen canadien. Est-ce que ça règle tout?**
-Pour l'interdiction, oui: l'article 4(2) écarte le non-Canadien qui achète avec un époux ou conjoint de fait citoyen, résident permanent ou personne inscrite à titre d'Indien. Pour le prêt, non. L'admissibilité à l'assurance de la SCHL se regarde séparément.
+Pour l'interdiction, oui: l'article 4(2) écarte le non-Canadien qui achète avec un époux ou conjoint de fait citoyen, résident permanent ou personne inscrite à titre d'Indien. Pour le prêt, non: l'admissibilité à l'assurance de la SCHL se regarde séparément.
 
 **Un quadruplex est-il visé?**
 Non. La SCHL confirme que l'achat d'un bâtiment de quatre logements et plus n'est pas interdit. Les règles de financement d'un immeuble à revenus, elles, ne changent pas pour autant.
@@ -112,4 +110,4 @@ Pour compléter, lisez [le guide pour les nouveaux arrivants](/articles/guide-no
 
 ---
 
-*Une question sur le statut d'un acheteur ou d'un vendeur dans votre transaction? [Écrivez-moi](/formulaire/). La vérification se fait avant la promesse d'achat, pas chez le notaire.*
+*Une question sur le statut d'un acheteur ou d'un vendeur dans votre dossier? [Écrivez-moi](/formulaire/). La vérification se fait avant la promesse d'achat, pas chez le notaire.*

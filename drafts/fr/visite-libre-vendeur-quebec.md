@@ -24,26 +24,26 @@ cette règle aux articles 14 et suivants du Règlement sur les conditions
 d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur
 la publicité.
 
-Ce règlement dit deux choses qui vous concernent. L'article 15 lui interdit de
-divulguer une information confidentielle ou stratégique vous concernant sans
-votre autorisation écrite, tout en l'obligeant à accorder un traitement
-équitable à toutes les parties. L'article 16 l'oblige à informer, dans les
-meilleurs délais, toute partie non représentée du fait qu'il défend les intérêts
-de son client. C'est le même cadre, vu de l'autre côté, que celui décrit dans
+Ce règlement dit deux choses qui vous concernent. L'article 15 interdit au
+courtier de divulguer une information confidentielle ou stratégique vous
+concernant sans votre autorisation écrite, tout en l'obligeant à accorder un
+traitement équitable à toutes les parties. L'article 16 l'oblige à informer,
+dans les meilleurs délais, toute partie non représentée du fait qu'il défend
+les intérêts de son client. C'est le même cadre, vu de l'autre côté, que celui décrit dans
 l'article sur [le courtier à la porte d'une visite
 libre](/articles/open-house-secrets/).
 
 **Ce qui est exigé, et ce qui est recommandé.** La distinction vous dit où vous
 devez insister vous-même.
 
-| Geste | Statut | Qui le pose |
+| Geste | Statut | Qui |
 |---|---|---|
-| Courtier du vendeur présent, ou remplacé par un autre courtier | Exigé pour annoncer la visite | Courtier |
-| Informer le visiteur non représenté qu'il représente le vendeur | Exigé par le règlement | Courtier |
-| Vérifier l'identité des visiteurs et tenir un registre des visites | Recommandé par l'OACIQ | Courtier |
-| Ne jamais laisser un visiteur seul dans une pièce | Recommandé par l'OACIQ | Courtier |
-| Ranger bijoux, médicaments, documents, clés, télécommandes | Recommandé par l'OACIQ | Vendeur |
-| Quitter la maison pendant la visite | Aucune règle, à vous de décider | Vendeur |
+| Courtier du vendeur présent, ou remplacé par un autre courtier | Exigé | Courtier |
+| Dire au visiteur non représenté qu'il représente le vendeur | Exigé | Courtier |
+| Vérifier l'identité et tenir un registre des visites | Recommandé | Courtier |
+| Ne jamais laisser un visiteur seul dans une pièce | Recommandé | Courtier |
+| Ranger bijoux, médicaments, documents, clés, télécommandes | Recommandé | Vendeur |
+| Quitter la maison pendant la visite | Aucune règle | Vendeur |
 
 L'OACIQ écrit que le courtier « devrait » vérifier l'identité des visiteurs et
 inscrire leurs noms dans un registre des visites, pour des raisons de sécurité
@@ -63,8 +63,8 @@ celle du garage.
 
 Chaque élément répond à un risque distinct. Une plaquette de médicaments
 manquante ne se remarque pas avant plusieurs jours. Le chéquier et le passeport
-ouvrent la porte à la fraude d'identité. La télécommande de garage, elle, donne
-un accès physique à votre maison après la fin de la visite.
+ouvrent la porte à la fraude d'identité. La télécommande de garage donne un
+accès physique à votre maison après la visite.
 
 L'OACIQ recommande aussi de faire le tour des pièces avec votre courtier avant
 l'ouverture des portes, puis d'inspecter à nouveau les lieux avec lui après
@@ -88,11 +88,10 @@ libre. Aucun document du BAC ne porte sur ce cas. Le résultat dépendra de votr
 contrat, des limites applicables et de la preuve que vous pourrez fournir.
 L'appel à votre assureur se fait avant la visite, pas après.
 
-Notez au passage une précision du BAC: le vandalisme est couvert lorsque le
-bâtiment est habituellement occupé. Si vous avez déjà déménagé, cet appel
-devient nécessaire plutôt qu'utile, surtout pour une propriété qui figure déjà
-parmi [les maisons difficiles à
-assurer](/articles/maison-difficile-assurer-quebec/).
+Autre précision du BAC: le vandalisme est couvert lorsque le bâtiment est
+habituellement occupé. Si vous avez déjà déménagé, cet appel devient
+nécessaire, surtout pour une propriété qui figure parmi [les maisons difficiles
+à assurer](/articles/maison-difficile-assurer-quebec/).
 
 ## Responsabilité civile: ce que le Code civil met sur vos épaules
 
@@ -121,7 +120,7 @@ Pour une visite libre de novembre à Laval ou à Montréal, la traduction est
 simple: l'allée et les marches se déglacent une heure avant l'ouverture, pas la
 veille, et la rampe branlante se répare avant.
 
-## Animaux, enfants et la maison qui reste habitée
+## Animaux et enfants: qui doit sortir pendant la visite
 
 L'OACIQ demande de garder les animaux de compagnie à l'écart. Ce n'est pas une
 question d'odeur. L'article 1466 du Code civil est sans nuance: le propriétaire

@@ -64,7 +64,8 @@ le texte qui gouverne n'est pas celui qu'on vous remet.
 
 ## Animaux interdits en condo: interdiction totale, limite de poids ou approbation
 
-Trois familles de clauses circulent au Québec, et elles ne se gèrent pas pareil.
+Trois familles de clauses circulent au Québec, et elles ne se gèrent pas de la
+même façon.
 
 **L'interdiction totale.** Aucun chien, aucun chat, parfois une exception pour
 un poisson ou un oiseau en cage. C'est la plus facile à appliquer pour le
@@ -159,7 +160,7 @@ pas une conversation de corridor.
 
 ## Avant l'offre: les documents à exiger
 
-Un acheteur avec un animal obtient cinq pièces avant l'offre.
+Un acheteur avec un animal obtient cinq pièces.
 
 1. **La déclaration de copropriété complète**, acte constitutif, règlement de
    l'immeuble et état descriptif, avec les actes de modification publiés.

@@ -1,0 +1,73 @@
+{
+ "id": "t143",
+ "slug": "animaux-copropriete-declaration-quebec",
+ "title": "Animaux interdits en condo au Québec: où est la règle",
+ "target_keyword": "animaux interdits condo quebec",
+ "word_count": 1798,
+ "category": "Immobilier 101",
+ "internal_links": [
+  "/articles/renovation-condo-copropriete-quebec/",
+  "/articles/loi-16-copropriete-acheteur-quebec/",
+  "/articles/bruit-maison-condo-quebec/",
+  "/articles/condo-vs-house-montreal/",
+  "/buyer/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, articles 1052 à 1103 (de la copropriété divise)",
+   "publisher": "Publications Québec, LégisQuébec",
+   "consulted": "2026-09-24",
+   "supports": "Composition de la déclaration de copropriété (art. 1052), destination de l'immeuble et clause pénale dans l'acte constitutif (art. 1053), contenu du règlement de l'immeuble (art. 1054), limite aux restrictions justifiées par la destination, les caractères ou la situation (art. 1056), opposabilité du règlement au locataire dès sa remise (art. 1057), inscription au registre foncier et dépôt des modifications au règlement au registre du syndicat (art. 1060 et 1070), effet de la déclaration envers les ayants cause (art. 1062), usage et jouissance conditionnels au respect du règlement (art. 1063), avis au syndicat dans les 15 jours en cas de location (art. 1065), attestation du syndicat et documents au promettant acheteur (art. 1068.1 et 1068.2), résiliation du bail demandée par le syndicat (art. 1079), annulation d'une décision du conseil dans les 90 jours (art. 1086.2), majorités de modification (art. 1096, 1097, 1098) et annulation d'une décision d'assemblée dans les 90 jours (art. 1103)"
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-12",
+   "title": "Charte des droits et libertés de la personne, articles 10 et 13",
+   "publisher": "Publications Québec, LégisQuébec",
+   "consulted": "2026-09-24",
+   "supports": "Motif interdit de discrimination fondé sur le handicap ou sur l'utilisation d'un moyen pour pallier ce handicap (art. 10) et nullité de toute clause discriminatoire stipulée dans un acte juridique (art. 13)"
+  },
+  {
+   "url": "https://www.cdpdj.qc.ca/fr/vos-obligations/motifs-interdits/handicap-animaux",
+   "title": "Les animaux utilisés pour pallier un handicap",
+   "publisher": "Commission des droits de la personne et des droits de la jeunesse",
+   "consulted": "2026-09-24",
+   "supports": "Reconnaissance par les tribunaux québécois du chien guide et du chien d'assistance entraînés comme moyen de pallier un handicap, obligation d'accommodement raisonnable sauf contrainte excessive, absence de certification gouvernementale officielle au Québec et recours à la documentation de l'organisme d'entraînement, possibilité de reconnaissance d'un animal non entraîné sur démonstration des besoins et des bienfaits"
+  },
+  {
+   "url": "https://www.cdpdj.qc.ca/fr/nos-positions/enjeux/chien-dassistance-chien-guide",
+   "title": "Chien d'assistance / Chien guide",
+   "publisher": "Commission des droits de la personne et des droits de la jeunesse",
+   "consulted": "2026-09-24",
+   "supports": "Décision de 2020 dans CDPDJ (D.R. et autres) c. Ducharme: refus d'un bail en raison du chien d'assistance d'un enfant, condamnation à verser plus de 13 940 $ à trois victimes"
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/fr/resumes-decisions-animaux-compagnie",
+   "title": "Animaux de compagnie, résumés de décisions",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-09-24",
+   "supports": "Validité d'une clause de bail interdisant les animaux, caractère inapproprié d'une distinction selon le type d'animal ou son tempérament (petit chien ou molosse), Placement NR inc. c. Chartrand-Boyer du 24 mai 2024 sur le critère plus élevé que les bienfaits de la simple compagnie d'un animal, et Leclerc c. Cantin Lévesque immobilier inc. du 4 juillet 2024 sur la clause déclarée inopposable en raison du rôle thérapeutique attesté et d'une tolérance de 7 ans"
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/lanimal-et-le-logement/",
+   "title": "L'animal et le logement",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-24",
+   "supports": "Lecture littérale de la clause du bail ou du règlement de l'immeuble: si l'interdiction ne vise que les chiens, le locataire peut en principe conclure qu'il a le droit d'avoir un chat; obligations d'usage paisible du locataire propriétaire d'un animal"
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/quel-type-habitation-acheter-quebec/",
+   "title": "Quel type d'habitation acheter au Québec?",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-24",
+   "supports": "La déclaration de copropriété et le règlement de l'immeuble suivent l'unité et s'imposent au nouvel acheteur, qui doit les consulter avant d'acheter"
+  }
+ ],
+ "claims_needing_review": [
+  "Renvoi à la condition d'examen des documents de la copropriété du formulaire de Promesse d'achat de copropriété divise de l'OACIQ: la formulation est volontairement sans numéro de clause, à confirmer sur la version en vigueur du formulaire.",
+  "Affirmation selon laquelle une interdiction d'animaux se trouve, dans la plupart des immeubles québécois, au règlement de l'immeuble plutôt qu'à l'acte constitutif: déduction fondée sur les articles 1053 et 1054, sans statistique disponible.",
+  "Traitement de l'animal d'assistance en copropriété divise: les décisions citées proviennent du logement locatif et du Tribunal des droits de la personne, aucune décision de copropriété n'a été vérifiée pendant la rédaction. À faire valider par un avocat en droit de la copropriété.",
+  "Absence de droit acquis automatique pour l'animal déjà présent lors d'une modification du règlement: aucune disposition du Code civil ne le prévoit, mais l'analyse d'un cas concret relève d'un avocat."
+ ]
+}
