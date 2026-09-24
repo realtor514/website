@@ -173,6 +173,36 @@
    "slug": "loi-16-copropriete-acheteur-quebec",
    "keyword": "loi 16 copropriete quebec obligations",
    "state": "in_progress"
+  },
+  {
+   "id": "t101",
+   "slug": "radon-maison-quebec-depistage",
+   "keyword": "test de radon maison quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t107",
+   "slug": "amiante-vermiculite-maison-quebec",
+   "keyword": "vermiculite amiante maison quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t109",
+   "slug": "contrat-courtage-achat-quebec",
+   "keyword": "contrat de courtage achat quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t114",
+   "slug": "choisir-entrepreneur-renovation-rbq-quebec",
+   "keyword": "choisir entrepreneur renovation quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t121",
+   "slug": "acheter-seul-un-revenu-quebec",
+   "keyword": "acheter une maison seul quebec",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -204,7 +234,12 @@
   "reglement-piscine-securite-quebec",
   "deces-conjoint-proteger-propriete-quebec",
   "proprietaire-occupant-plex-reprise",
-  "loi-16-copropriete-acheteur-quebec"
+  "loi-16-copropriete-acheteur-quebec",
+  "radon-maison-quebec-depistage",
+  "amiante-vermiculite-maison-quebec",
+  "contrat-courtage-achat-quebec",
+  "choisir-entrepreneur-renovation-rbq-quebec",
+  "acheter-seul-un-revenu-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -235,7 +270,12 @@
   "reglement piscine residentielle quebec",
   "deces conjoint de fait maison quebec",
   "proprietaire occupant plex quebec",
-  "loi 16 copropriete quebec obligations"
+  "loi 16 copropriete quebec obligations",
+  "test de radon maison quebec",
+  "vermiculite amiante maison quebec",
+  "contrat de courtage achat quebec",
+  "choisir entrepreneur renovation quebec",
+  "acheter une maison seul quebec"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -266,6 +306,11 @@
   "Piscine residentielle au Quebec: le reglement de securite, le permis et la revente",
   "Proteger sa propriete en cas de deces: conjoints de fait, indivision et testament",
   "Habiter son plex au Quebec: reprise de logement, financement et fiscalite",
-  "Loi 16 en copropriete: etude du fonds de prevoyance, carnet d entretien et ce que l acheteur doit exiger"
+  "Loi 16 en copropriete: etude du fonds de prevoyance, carnet d entretien et ce que l acheteur doit exiger",
+  "Radon dans les maisons du Quebec: depister, corriger et divulguer",
+  "Amiante et vermiculite dans les maisons quebecoises: depister avant de renover",
+  "Le contrat de courtage achat au Quebec: ce que vous signez vraiment",
+  "Choisir un entrepreneur au Quebec: licence RBQ, contrat et hypotheque legale",
+  "Acheter seul au Quebec: un seul revenu, les memes regles de qualification"
  ]
 }

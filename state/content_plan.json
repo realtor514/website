@@ -4826,7 +4826,7 @@
    "translationKey": "article-radon-quebec",
    "needs_expert_review": false,
    "id": "t101",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5109,7 +5109,7 @@
    "translationKey": "article-amiante-vermiculite",
    "needs_expert_review": true,
    "id": "t107",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5203,7 +5203,7 @@
    "translationKey": "article-contrat-courtage-achat",
    "needs_expert_review": true,
    "id": "t109",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5442,7 +5442,7 @@
    "translationKey": "article-entrepreneur-rbq",
    "needs_expert_review": true,
    "id": "t114",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5773,7 +5773,7 @@
    "translationKey": "article-acheter-seul",
    "needs_expert_review": true,
    "id": "t121",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {

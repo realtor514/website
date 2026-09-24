@@ -1,13 +1,13 @@
 ---
 title: "Garantie GCR maison neuve au Québec : 1 an, 3 ans, 5 ans"
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-09-24
 translationKey: "article-garantie-gcr"
 category: "Guide de l'acheteur"
 description: "Bâtiments couverts et exclus, inspection préréception, 1, 3 et 5 ans, délais de dénonciation, arbitrage : la garantie GCR d’une maison neuve au Québec."
 image: "images/articles/garantie-gcr-maison-neuve-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Derrière chaque maison neuve vendue par un entrepreneur accrédité au Québec, il
