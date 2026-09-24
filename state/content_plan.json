@@ -5565,7 +5565,7 @@
    "translationKey": "article-visite-virtuelle",
    "needs_expert_review": true,
    "id": "t116",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5588,7 +5588,9 @@
      "s": 0.134,
      "match": "/articles/open-house-secrets/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/acheter-sans-visiter-visite-virtuelle-quebec.md",
+   "date": "2026-08-25"
   },
   {
    "ref_id": 81,
@@ -6346,7 +6348,7 @@
    "translationKey": "article-visite-libre-vendeur",
    "needs_expert_review": false,
    "id": "t132",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -6369,7 +6371,9 @@
      "s": 0.1194,
      "match": "/articles/open-house-secrets/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/visite-libre-vendeur-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 10,

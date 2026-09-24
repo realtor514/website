@@ -131,7 +131,8 @@ arrondissements ne peuvent pas fournir le plan d'un bâtiment construit avant
 
 En copropriété divise, l'OACIQ précise que la déclaration de copropriété, les
 états financiers, les procès-verbaux des dernières réunions et les
-informations sur le fonds de prévoyance sont requis.
+informations sur le fonds de prévoyance sont requis. Rien de cela ne se
+trouve chez vous: tout appartient au syndicat.
 
 Le Code civil vous donne l'outil pour les obtenir. L'article 1070 énumère ce
 que le syndicat doit tenir dans le registre de la copropriété: procès-verbaux
@@ -150,8 +151,8 @@ l'étude du fonds de prévoyance relèvent d'obligations que résume
 [l'article sur la loi 16](/articles/loi-16-copropriete-acheteur-quebec/).
 
 Une précision utile: le certificat de localisation fourni doit toujours
-décrire la partie privative, et l'OACIQ rappelle que le syndicat ne conserve
-les certificats que « s'ils sont disponibles ».
+décrire la partie privative, et le syndicat ne conserve les certificats que
+« s'ils sont disponibles ».
 
 ## Hypothèque, baux et vos notes pour les Déclarations du vendeur
 
@@ -209,6 +210,6 @@ courtage vente clause par clause](/articles/contrat-courtage-vente-quebec/).
 
 ---
 
-*Vous ne savez pas si votre certificat de localisation tient toujours la
-route? [Écrivez-moi](/formulaire/) et on passe vos documents en revue avant de
-fixer quoi que ce soit.*
+*Un doute sur votre certificat de localisation?
+[Écrivez-moi](/formulaire/) et on passe vos documents en revue avant de fixer
+quoi que ce soit.*

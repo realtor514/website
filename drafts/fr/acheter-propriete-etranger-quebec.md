@@ -22,7 +22,7 @@ Les sanctions ne sont pas théoriques. L'article 6 prévoit une amende maximale 
 
 ## Qui est visé, qui est excepté, et ce qui n'est même pas un achat
 
-La loi ne vise pas toutes les propriétés. Elle définit l'immeuble résidentiel comme un bâtiment « comprenant au plus trois locaux d'habitation », ce qui inclut la maison jumelée et l'unité de copropriété. Un immeuble de quatre logements et plus n'est pas visé. Le règlement ajoute une condition géographique: seuls les immeubles situés dans une région métropolitaine de recensement ou une agglomération de recensement sont touchés. La SCHL met en ligne une carte où vous entrez l'adresse.
+La loi ne vise pas toutes les propriétés. Elle définit l'immeuble résidentiel comme un bâtiment « comprenant au plus trois locaux d'habitation », ce qui inclut la maison jumelée et l'unité de copropriété. Un immeuble de quatre logements et plus n'est pas visé. Le règlement ajoute une condition géographique: seuls les immeubles situés dans une région métropolitaine de recensement ou une agglomération de recensement sont touchés. La SCHL met en ligne une carte pour vérifier l'adresse.
 
 Les exceptions prévues par la loi et le règlement:
 
@@ -53,7 +53,7 @@ Faites tourner vos chiffres dans le [calculateur de capacité d'emprunt](/tools/
 
 Ce volet surprend presque tout le monde, parce qu'il se déclenche non pas à l'achat, mais à la vente, parfois dix ans plus tard. Quand un vendeur non-résident du Canada aliène un bien canadien imposable, l'article 116 de la *Loi de l'impôt sur le revenu* l'oblige à en informer l'Agence du revenu du Canada avant la disposition, ou dans les 10 jours qui suivent, au moyen du formulaire T2062. Pour que l'ARC délivre un certificat de conformité, il faut un paiement ou une garantie acceptable, calculé « selon un taux uniforme de 25 % de l'excédent du produit de disposition sur le prix de base rajusté ».
 
-**Sans certificat, c'est l'acheteur qui paie.** L'ARC le dit sans détour: l'acheteur est alors tenu de verser 25 % du coût du bien qu'il a acquis, et il est autorisé à retrancher ce montant du prix d'achat. Le taux monte à 50 % pour certains biens, dont un bien immeuble qui n'est pas une immobilisation. Le versement est dû dans les 30 jours suivant la fin du mois de l'acquisition, et le retard entraîne une pénalité de 3 % à 10 % selon le nombre de jours. L'acheteur y échappe seulement si, après une enquête sérieuse, il n'avait aucune raison de croire que le vendeur était un non-résident.
+**Sans certificat, c'est l'acheteur qui paie.** L'ARC le dit sans détour: l'acheteur est tenu de verser 25 % du coût du bien acquis, et il peut retrancher ce montant du prix d'achat. Le taux monte à 50 % pour certains biens, dont un bien immeuble qui n'est pas une immobilisation. Le versement est dû dans les 30 jours suivant la fin du mois de l'acquisition, et le retard entraîne une pénalité de 3 % à 10 % selon le nombre de jours. L'acheteur y échappe seulement si, après une enquête sérieuse, il n'avait aucune raison de croire que le vendeur était un non-résident.
 
 C'est pour cela que le notaire retient une somme dans son compte en fidéicommis jusqu'à la délivrance du certificat. Ce n'est pas de la prudence excessive: sa responsabilité est en jeu, et la vôtre aussi.
 

@@ -1,0 +1,91 @@
+{
+ "id": "t139",
+ "slug": "preparer-rencontre-courtier-documents",
+ "title": "Première rencontre courtier immobilier: les documents",
+ "target_keyword": "premiere rencontre courtier immobilier",
+ "word_count": 1789,
+ "category": "Guide pratique",
+ "internal_links": [
+  "/articles/questions-hire-broker/",
+  "/articles/loi-16-copropriete-acheteur-quebec/",
+  "/articles/declaration-du-vendeur-quebec/",
+  "/articles/casser-hypotheque-penalite-quebec/",
+  "/articles/contrat-courtage-vente-quebec/",
+  "/seller/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {"url": "https://www.oaciq.com/fr/grand-public/vendre/guide-vendeur/vendeur-avant-comment-bien-vous-preparer/vendeur-votre-contrat-de-courtage-exclusif-vente/",
+   "title": "Votre Contrat de courtage, Vente (Guide du vendeur)", "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "La liste des documents que le vendeur doit fournir lors de la signature du contrat de courtage ou dans les meilleurs délais suivant celle-ci: certificat de localisation décrivant l'état actuel, acte de vente, factures de travaux, comptes d'électricité et de gaz, comptes de taxes scolaires et municipales, documents de copropriété, copies des baux."},
+
+  {"url": "https://www.oaciq.com/fr/grand-public/vendre/guide-vendeur/vendeur-avant-comment-bien-vous-preparer/vendeur-bien-preparer-la-vente-de-votre-propriete/",
+   "title": "Bien préparer la vente de votre propriété (Guide du vendeur)", "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Le remboursement du prêt et la radiation de l'hypothèque aux frais du vendeur, la pénalité possible de remboursement anticipé, et le certificat de localisation présenté comme une dépense de vente à budgéter."},
+
+  {"url": "https://www.oaciq.com/fr/titulaires-de-permis/guides-pratiques-professionnelles/avant-propos-droit-pratique/informations-generales-droits-de-propriete/certificat-de-localisation-gpp/",
+   "title": "3.2 Le certificat de localisation (Guide des pratiques professionnelles)", "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Le certificat ne comporte pas de date d'expiration mais doit représenter l'état actuel; la rénovation cadastrale, l'ajout d'un cabanon et les travaux l'affectent; au-delà de dix ans le notaire en exige un nouveau en raison de la prescription de l'article 2917 du Code civil du Québec."},
+
+  {"url": "https://www.oaciq.com/fr/titulaires-de-permis/guides-pratiques-professionnelles/copropriete-divise/documents-de-copropriete/certificat-de-localisation/",
+   "title": "2.2 Certificat de localisation, Copropriété divise", "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Le certificat fourni doit toujours décrire la partie privative, et le syndicat conserve les certificats de localisation de l'immeuble « s'ils sont disponibles »."},
+
+  {"url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-verification-information-et-conseil/3-les-principales-verifications-du-courtier-immobilier/",
+   "title": "3. Les principales vérifications du courtier immobilier", "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Le registre foncier, l'index des immeubles et les actes de vente figurent parmi les sources de vérification principales pour les titres, les charges, les servitudes et les hypothèques."},
+
+  {"url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-verification-information-et-conseil/7-contextes-particuliers-coproprietes-constructions-neuves-et-zones-inondables/",
+   "title": "7. Contextes particuliers: copropriétés, constructions neuves et zones inondables", "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "La liste des documents de copropriété à vérifier: déclaration et modifications, règlements, procès-verbaux, états financiers, cotisations spéciales, étude du fonds de prévoyance, carnet d'entretien, assurances."},
+
+  {"url": "https://cdn-contenu.quebec.ca/cdn-contenu/information-fonciere/Documents/GR_tarif_registre_foncier_cadastre_MRNF.pdf",
+   "title": "Sommaire, tarification des produits et services du Registre foncier et du cadastre", "publisher": "Ministère des Ressources naturelles et des Forêts",
+   "consulted": "2026-09-24",
+   "supports": "En vigueur à compter du 1er avril 2026: consultation d'un document (index des immeubles, acte, plan cadastral) à 1,50 $ par document, copie non certifiée à 27 $, copie certifiée à 44 $."},
+
+  {"url": "https://www.quebec.ca/habitation-territoire/information-fonciere/registre-foncier/obtenir-copie-signaler-erreur",
+   "title": "Copie papier ou erreur au registre foncier", "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-24",
+   "supports": "La copie certifiée d'un acte se commande en ligne avec un compte client du registre foncier et est envoyée par la poste; consulter et imprimer coûte moins cher qu'une copie certifiée."},
+
+  {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991?&cible=se:1070",
+   "title": "Code civil du Québec, articles 1069, 1070 et 1070.1", "publisher": "LégisQuébec",
+   "consulted": "2026-09-24",
+   "supports": "L'état des charges communes fourni par le syndicat dans les 15 jours de la demande (art. 1069); le contenu du registre de la copropriété (art. 1070); le droit d'obtenir copie du registre moyennant des frais raisonnables (art. 1070.1)."},
+
+  {"url": "https://montreal.ca/demarches/demander-le-plan-dun-batiment",
+   "title": "Demander le plan d'un bâtiment", "publisher": "Ville de Montréal",
+   "consulted": "2026-09-24",
+   "supports": "Les délais et tarifs varient selon l'arrondissement: traitement de 15 à 30 jours avec 77 $ de frais de recherche dans un cas, une semaine avec recherche gratuite et 3,90 $ de reproduction dans un autre, 60 jours ailleurs; aucun plan pour un bâtiment construit avant 1922, ou avant 1956 selon l'arrondissement."},
+
+  {"url": "https://montreal.ca/sujets/role-devaluation-fonciere",
+   "title": "Rôles d'évaluation foncière", "publisher": "Ville de Montréal",
+   "consulted": "2026-09-24",
+   "supports": "Le rôle d'évaluation foncière est déposé tous les 3 ans; le rôle en vigueur est celui de 2026-2027-2028; seuls 2 noms de propriétaires apparaissent sur l'avis d'évaluation."},
+
+  {"url": "https://www.laval.ca/taxes-evaluation-fonciere/taxes-municipales/",
+   "title": "Taxes municipales", "publisher": "Ville de Laval",
+   "consulted": "2026-09-24",
+   "supports": "Le compte de taxes municipales se consulte en ligne et l'outil Évaluation et taxes par adresse donne l'évaluation foncière et le montant des taxes des propriétés à Laval."},
+
+  {"url": "https://www.revenuquebec.ca/documents/fr/formulaires/rl/RL-31.G%282025-10%29.pdf",
+   "title": "Guide du relevé 31, renseignements sur l'occupation d'un logement (RL-31.G)", "publisher": "Revenu Québec",
+   "consulted": "2026-09-24",
+   "supports": "Le relevé 31 doit être produit par tout propriétaire ayant loué un logement pour lequel un loyer a été payé ou était payable le 31 décembre de l'année visée; transmission au plus tard le dernier jour de février de l'année suivante; au-delà de 5 relevés, la transmission par Internet est obligatoire."},
+
+  {"url": "https://www.hydroquebec.com/residentiel/espace-clients/consommation/portrait-consommation.html",
+   "title": "Portrait de ma consommation", "publisher": "Hydro-Québec",
+   "consulted": "2026-09-24",
+   "supports": "L'Espace client présente les données de consommation horaires, quotidiennes, mensuelles et annuelles et permet de comparer une période à la même période de l'année précédente."}
+ ],
+ "claims_needing_review": [
+  "Les frais et délais de copie des plans de bâtiment cités pour Montréal varient d'un arrondissement à l'autre et sont tirés de la page Demander le plan d'un bâtiment, mise à jour le 4 août 2025. À revalider avant toute republication."
+ ]
+}

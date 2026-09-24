@@ -128,13 +128,12 @@ la valeur ou les revenus de l'immeuble ou d'en augmenter les dépenses,
 l'acheteur doit vous en aviser par écrit et vous remettre une copie du rapport
 au plus tard la quatrième journée suivant l'expiration de ce délai, avant 20 h.
 La promesse devient alors nulle dès que vous recevez cet avis accompagné du
-rapport. S'il n'avise pas dans le délai et de la façon prévus, il est réputé
-avoir renoncé à la condition.
+rapport. S'il n'avise pas dans le délai prévu, il est réputé avoir renoncé à la
+condition.
 
 Retenez ce que le formulaire fait et ce qu'il ne fait pas: un rapport négatif
-ouvre une porte de sortie, pas une baisse de prix automatique. Si vous vous
-entendez plutôt sur un ajustement, cela passe par un nouveau document écrit et
-signé par les deux parties.
+ouvre une porte de sortie, pas une baisse de prix automatique. Un ajustement
+passe par un nouveau document écrit et signé par les deux parties.
 
 **Le financement.** L'acheteur s'engage à entreprendre de bonne foi toutes les
 démarches pour obtenir son emprunt, et doit vous fournir dans le délai convenu
@@ -148,10 +147,10 @@ façon.
 
 **Les documents.** À la clause 9.1, vous remettez les documents énumérés dans le
 délai convenu. L'acheteur insatisfait, ou qui ne les a pas reçus, doit vous
-aviser par écrit dans les sept jours suivant l'expiration de ce délai. Toutes
-ces réalisations et tous ces avis se consignent sur le formulaire *Avis et suivi
-de réalisation de conditions*, qui existe précisément pour qu'aucune des deux
-parties ne puisse prétendre plus tard qu'elle n'a rien reçu.
+aviser par écrit dans les sept jours suivant l'expiration de ce délai. Ces
+réalisations et ces avis se consignent sur le formulaire *Avis et suivi de
+réalisation de conditions*, qui existe pour qu'aucune des deux parties ne puisse
+prétendre plus tard qu'elle n'a rien reçu.
 
 ## La dernière étape du processus de vente: chez le notaire
 
@@ -159,11 +158,11 @@ Les conditions réalisées, l'acte de vente se signe devant le notaire identifi�
 la clause 11.1, à la date ou avant la date inscrite. Le notaire examine d'abord
 les titres. Il vérifie que le titre de propriété est incontestable, que vous
 êtes le véritable propriétaire, que vous avez le droit et la capacité de vendre,
-si votre conjoint ou d'autres personnes doivent consentir à la vente, et quelles
-charges hypothécaires grèvent l'immeuble. Avec le certificat de localisation, il
-vérifie les dimensions du terrain, que le bâtiment est bien érigé sur le lot
-vendu, la conformité au zonage, les empiétements, les droits de passage et la
-présence en zone inondable ou agricole.
+si votre conjoint ou d'autres personnes doivent consentir, et quelles charges
+hypothécaires grèvent l'immeuble. Avec le certificat de localisation, il vérifie
+les dimensions du terrain, que le bâtiment est bien érigé sur le lot vendu, la
+conformité au zonage, les empiétements, les droits de passage et la présence en
+zone inondable ou agricole.
 
 Deux articles du Code civil commandent cette étape. L'article 1719 vous oblige à
 remettre les titres que vous possédez, une copie de votre acte d'acquisition,
@@ -176,10 +175,10 @@ hypothèque au registre foncier.
 Le notaire calcule ensuite les répartitions prévues à la clause 11.3: taxes
 foncières générales et spéciales, réserves de combustibles, revenus et dépenses,
 soit à la date de la signature, soit à la date d'occupation, selon la case
-cochée. La clause 11.4 lui donne l'instruction irrévocable de payer directement
-la rétribution du courtier à même les sommes qui vous reviennent, après le
-paiement des créances prioritaires et hypothécaires. Et il retient les fonds
-tant que l'acte n'est pas inscrit au Bureau de la publicité des droits.
+cochée. La clause 11.4 lui donne l'instruction irrévocable de payer la
+rétribution du courtier à même les sommes qui vous reviennent, après les
+créances prioritaires et hypothécaires. Et il retient les fonds tant que l'acte
+n'est pas inscrit au Bureau de la publicité des droits.
 
 **Ce que le vendeur apporte.** Pièces d'identité, acte d'acquisition,
 certificat de localisation, dernier compte de taxes municipales et scolaires,
@@ -201,23 +200,22 @@ exigible. Faites vérifier la conformité avant de répondre.
 
 **L'inspection a révélé un problème. L'acheteur peut-il exiger une baisse de
 prix?**
-Non, pas sur la base de la clause 8.1. Cette clause lui permet de rendre la
+Non, pas sur la base de la clause 8.1, qui lui permet seulement de rendre la
 promesse nulle en vous avisant par écrit avec une copie du rapport dans le délai
 prévu. Un ajustement de prix est une entente distincte, que vous êtes libre de
 refuser.
 
 **Dois-je payer un nouveau certificat de localisation?**
 La clause 10.3 met à votre charge la fourniture d'un certificat reflétant l'état
-physique actuel des lieux. Si le vôtre ne le reflète plus, ou s'il est périmé,
-c'est à vous de le faire produire. L'acheteur qui veut en plus son propre
-certificat en assume les frais.
+physique actuel des lieux. S'il ne le reflète plus, c'est à vous de le faire
+produire. L'acheteur qui veut en plus son propre certificat en assume les frais.
 
 **Un vice découvert après la levée des conditions annule-t-il la vente?**
 Pas automatiquement. La clause 10.5 vous accorde 21 jours à compter de la
 dénonciation écrite pour remédier à vos frais ou aviser que vous n'y remédierez
 pas. L'acheteur a ensuite cinq jours pour acheter quand même, avec les
-déclarations diminuées d'autant, ou rendre la promesse nulle. Pour une
-dénonciation sérieuse, faites lire la lettre par un notaire avant de répondre.
+déclarations diminuées d'autant, ou rendre la promesse nulle. Faites lire la
+dénonciation par un notaire avant de répondre.
 
 Pour compléter, lisez [comment préparer votre maison avant la mise en marché](/articles/preparer-maison-vente/)
 et [le contrat de courtage vente clause par clause](/articles/contrat-courtage-vente-quebec/).

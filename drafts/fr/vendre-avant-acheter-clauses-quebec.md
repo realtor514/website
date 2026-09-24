@@ -28,7 +28,7 @@ Aucun de ces chemins n'élimine le risque. Chacun décide seulement qui le porte
 
 ## Vendre avant d'acheter: ce que permet la clause R2.1
 
-Quand vous achetez sans avoir vendu, le formulaire obligatoire Annexe R, Immeuble résidentiel (AR 00001) prévoit la condition R2.1.
+Quand vous achetez sans avoir vendu, le formulaire obligatoire Annexe R, Immeuble résidentiel (AR 00001) prévoit la condition R2.1. Son texte est précis.
 
 **Ce que la clause dit.** La promesse devient conditionnelle à la vente de l'immeuble appartenant à l'acheteur, à une adresse nommée dans le formulaire. L'acheteur s'engage à aviser le vendeur par écrit, avant une date et une heure inscrites, soit que la condition est réalisée, soit qu'il y renonce. S'il renonce, il doit démontrer en même temps qu'il a les fonds nécessaires pour couvrir le prix d'achat. Sans avis dans le délai, la promesse devient nulle et non avenue.
 
@@ -42,7 +42,7 @@ Une condition R2.1 ne circule presque jamais seule. Elle vient avec la clause R2
 
 **Ce que le vendeur garde.** Il peut continuer d'offrir l'immeuble en vente malgré l'acceptation de la promesse. S'il accepte une nouvelle promesse, dès que toutes les conditions de celle-ci sont réalisées, hors la signature de l'acte de vente, le paiement du prix et l'annulation de la première promesse, il doit transmettre au premier acheteur un avis écrit.
 
-**Ce que le premier acheteur obtient.** Soixante-douze heures à compter de la réception de cet avis, pour remettre un avis écrit disant soit qu'il renonce à la condition R2.1 et à toutes les autres conditions non encore réalisées, sauf la signature chez le notaire, soit qu'il rend sa promesse nulle et non avenue. Il ne peut renoncer qu'en démontrant en même temps avoir les fonds. S'il ne se prévaut d'aucune des deux options, la promesse tombe.
+**Ce que le premier acheteur obtient.** Soixante-douze heures à compter de la réception de cet avis, pour remettre un avis écrit disant soit qu'il renonce à la condition R2.1 et à toutes les autres conditions non encore réalisées, sauf la signature chez le notaire, soit qu'il rend sa promesse nulle et non avenue. Il ne peut renoncer qu'en démontrant en même temps avoir les fonds. Sans réponse, la promesse tombe.
 
 La version courante du formulaire encadre la preuve: le vendeur coche le moyen qui établira le moment où l'acheteur a reçu l'avis, courriel, poste recommandée ou autre, et l'acheteur coche celui qui établira le moment où sa réponse a été expédiée. Ce détail règle la plupart des disputes sur le décompte.
 
@@ -52,7 +52,7 @@ En marché serré, cette mécanique affaiblit sérieusement la condition R2.1. E
 
 ## Acheter avant de vendre: le prêt relais et ce que le prêteur vérifie
 
-**Ce que je ne peux pas vous dire.** Aucun organisme public ne publie de barème pour le prêt relais. Montants, durée maximale, frais d'ouverture et taux varient d'un prêteur à l'autre, et la seule version fiable est celle que votre prêteur ou votre courtier hypothécaire vous met par écrit.
+**Ce que je ne peux pas vous dire.** Aucun organisme public ne publie de barème pour le prêt relais. Montants, durée, frais et taux varient d'un prêteur à l'autre, et la seule version fiable est celle que votre prêteur ou votre courtier hypothécaire vous met par écrit.
 
 **Ce qui revient partout.** Un prêt relais avance la valeur nette déjà verrouillée par la vente de votre propriété actuelle. Tant que votre vente reste conditionnelle, rien n'est verrouillé: le prêteur regarde une promesse qui peut encore devenir nulle et non avenue. La demande se présente donc avec une promesse acceptée dont les conditions sont réalisées, et les intérêts se paient pour la durée réelle du chevauchement, pas pour celle que vous aviez prévue.
 
@@ -66,17 +66,18 @@ Le coût du double portage n'est pas un chiffre, c'est une liste. Remplissez-la 
 
 | Poste mensuel | Propriété à vendre | Propriété achetée |
 |-|-|-|
-| Versement hypothécaire | oui | oui |
-| Taxes foncières et scolaires | oui | oui |
-| Assurance habitation | oui | oui |
-| Chauffage et électricité | oui | oui |
-| Frais de copropriété | si applicable | si applicable |
-| Entretien et déneigement | oui | oui |
-| Intérêts du financement temporaire | selon l'entente | selon l'entente |
+| Versement hypothécaire | $ | $ |
+| Taxes foncières et scolaires | $ | $ |
+| Assurance habitation | $ | $ |
+| Chauffage et électricité | $ | $ |
+| Frais de copropriété | $ | $ |
+| Entretien et déneigement | $ | $ |
+| Intérêts du financement temporaire | $ | $ |
+| Total par mois | $ | $ |
 
 S'y ajoutent deux dossiers notariés au lieu d'un, chacun avec ses honoraires, ses frais de publication et ses répartitions: voir [le coût réel de vendre une maison au Québec](/articles/cout-reel-vendre-maison-quebec/).
 
-Un point souvent oublié: appelez votre assureur avant de laisser une propriété vide. C'est à lui de vous dire ce que votre contrat prévoit quand le logement n'est plus occupé.
+Un point souvent oublié: appelez votre assureur avant de laisser une propriété vide. Lui seul peut vous dire ce que votre contrat prévoit quand le logement n'est plus occupé.
 
 ## Dates de signature, occupation, et ce que le notaire impose
 
@@ -103,13 +104,13 @@ Quand un client m'arrive avec cette question, on remplit ces quatre lignes avant
 Oui. Il n'a aucune obligation d'accepter une condition R2.1 ni la clause R2.2 qui l'accompagne. C'est une négociation, et elle se joue souvent contre le prix, la date d'occupation ou l'acompte. Voyez [les vrais leviers de négociation](/articles/strategies-negociation-immobilier/).
 
 **Si je reçois l'avis de 72 heures, puis-je demander plus de temps?**
-Le formulaire ne le prévoit pas. Le délai court à compter de la réception de l'avis, et l'absence de réponse rend la promesse nulle et non avenue. Une prolongation suppose un accord écrit des deux parties, que le vendeur n'a aucun intérêt à donner s'il détient déjà une deuxième promesse ferme.
+Le formulaire ne le prévoit pas. Le délai court dès la réception de l'avis, et l'absence de réponse rend la promesse nulle et non avenue. Une prolongation suppose un accord écrit des deux parties, que le vendeur n'a aucun intérêt à donner s'il détient déjà une deuxième promesse ferme.
 
 **Puis-je renoncer à la condition sans avoir vendu?**
 Oui, mais seulement en démontrant en même temps que vous avez les fonds pour couvrir le prix d'achat: un engagement de prêteur sans condition, ou une preuve de disponibilité des fonds. Une intention d'emprunter ne suffit pas.
 
 **Combien de temps dure un prêt relais?**
-Aucune source publique ne fixe de durée standard. Demandez par écrit la durée maximale, le taux, les frais d'ouverture et ce qui arrive si votre vente est reportée.
+Aucune source publique ne fixe de durée standard. Demandez par écrit la durée maximale, le taux, les frais et ce qui arrive si votre vente est reportée.
 
 Pour compléter, lisez [le coût réel de vendre une maison au Québec](/articles/cout-reel-vendre-maison-quebec/) et [combien de temps il faut vraiment pour vendre à Montréal](/articles/combien-de-temps-vendre-maison-montreal/).
 

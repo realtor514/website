@@ -1,7 +1,7 @@
 ---
 title: "Acheter une maison sans visiter au Québec"
-date: 2026-09-24
-lastmod: 2026-09-24
+date: 2026-08-25
+lastmod: 2026-08-25
 translationKey: "article-visite-virtuelle"
 category: "Guide de l'acheteur"
 description: "Visite virtuelle, inspection filmée, conditions de la promesse d'achat, procuration et signature à distance : acheter sans visiter au Québec."
@@ -72,10 +72,10 @@ la liste écrite de ce que vous voulez voir filmer.
 
 | À faire filmer | Pourquoi |
 |----|-----------|
-| Le panneau électrique ouvert | Type de protection, traces de chaleur, raccords |
+| Le panneau électrique ouvert | Protection, traces de chaleur, raccords |
 | Le bas des murs du sous-sol | Efflorescence, cernes, fissures |
 | L'entretoit et l'isolant | Vermiculite possible, ventilation, auréoles |
-| La pente du terrain, tout le tour | L'eau qui revient vers les fondations |
+| La pente du terrain, tout le tour | L'eau qui revient aux fondations |
 | La plaque de l'appareil de chauffage | Année réelle, source, réservoir |
 | La rue, un soir de semaine | Bruit, stationnement, circulation |
 
@@ -85,7 +85,7 @@ observations doivent de toute façon se retrouver dans le rapport écrit.
 ## Les conditions à écrire dans la promesse d'achat
 
 Une promesse d'achat n'est pas une vente. Vos protections sont les conditions
-que vous y inscrivez, et leurs délais.
+que vous y inscrivez et leurs délais.
 
 **Le délai d'inspection.** La clause 8.1 du formulaire Promesse d'achat fixe le
 délai pour réaliser la condition d'inspection. L'OACIQ rappelle de prévoir un

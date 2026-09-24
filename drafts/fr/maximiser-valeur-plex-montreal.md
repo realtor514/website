@@ -25,10 +25,10 @@ récurrent pèse donc plus lourd qu'un dollar de rénovation cosmétique.
 
 Aucune source officielle ne publie de taux de capitalisation pour les plex de
 Montréal ou de Laval. Méfiez-vous de celui qu'on vous cite sans référence. L'APCIQ,
-elle, publie les mouvements du marché. En août 2026, dans la RMR de Montréal, les
-inscriptions de plex ont grimpé de 15 % sur un an pendant que les ventes reculaient
-de 13 %. Le prix médian des plex a tout de même progressé de 2 %, et leur délai de
-vente moyen est le seul à avoir reculé, à 52 jours.
+elle, publie les mouvements du marché : en août 2026, dans la RMR de Montréal, les
+inscriptions de plex ont grimpé de 15 % sur un an et les ventes reculé de 13 %, mais
+le prix médian des plex a progressé de 2 % et leur délai de vente moyen est le seul à
+avoir reculé, à 52 jours.
 
 ## Augmenter la valeur d'un plex : ce que la fixation de loyer permet depuis 2026
 
@@ -41,11 +41,11 @@ s'applique aux demandes dont l'avis de modification de bail a été donné à co
 | Critère de l'article 3 | Ce qu'il apporte |
 |---|---|
 | Pourcentage de base | 3,1 % pour une période débutant entre le 2 avril 2026 et le 1er avril 2027 |
-| Taxes municipales et de services | la part de la variation qui dépasse le pourcentage de base |
-| Taxes scolaires | la part de la variation qui dépasse le pourcentage de base |
-| Assurances incendie et responsabilité | la part de la variation qui dépasse le pourcentage de base |
-| Dépenses d'immobilisation | 5 % du montant, pour les dépenses de la période de référence |
-| Nouveau service ou accessoire ajouté | la dépense annualisée, hors immobilisation |
+| Taxes municipales et de services | l'excédent sur le pourcentage de base |
+| Taxes scolaires | l'excédent sur le pourcentage de base |
+| Assurances incendie et responsabilité | l'excédent sur le pourcentage de base |
+| Dépenses d'immobilisation | 5 % du montant, pour la période de référence |
+| Nouveau service ou accessoire | la dépense annualisée, hors immobilisation |
 
 **Votre grille de dépenses n'est plus lue ligne par ligne.** Chauffage, électricité,
 entretien, déneigement, gestion : ces postes ne sont plus des critères distincts. Ils
@@ -88,12 +88,12 @@ Ce qui ne se récupère pas est tout aussi précis.
   décembre, l'année civile précédant le terme. Une toiture payée en 2024 ne remonte
   pas dans un avis visant un bail qui finit le 30 juin 2027.
 
-Retenez l'ordre de grandeur. Cinq pour cent d'une dépense n'est pas cinq pour cent du
-loyer. Dans un triplex où un logement représente le tiers des revenus, une facture de
-40 000 $ visant tout l'immeuble donne une part attribuable d'environ 13 300 $, dont
-5 % font environ 667 $ par année, soit près de 56 $ par mois. C'est une application de
-la formule, pas une promesse. Le réflexe vaut ailleurs aussi, comme l'explique [ce que
-les rénovations rapportent vraiment](/articles/renovations-dont-add-value/).
+Retenez l'ordre de grandeur : cinq pour cent d'une dépense n'est pas cinq pour cent
+du loyer. Dans un triplex où un logement représente le tiers des revenus, une facture
+de 40 000 $ donne une part attribuable d'environ 13 300 $, dont 5 % font quelque 667 $
+par année, près de 56 $ par mois. C'est une application de la formule, pas une
+promesse, et le réflexe vaut ailleurs aussi, comme l'explique [ce que les rénovations
+rapportent vraiment](/articles/renovations-dont-add-value/).
 
 ## Le départ d'un locataire, le seul moment où le loyer se replace
 
@@ -105,16 +105,15 @@ par le tribunal pendant cette période. C'est la section G.
 L'article 1950 donne au nouveau locataire un recours en fixation dans les 10 jours de
 la conclusion du bail s'il paie plus que ce loyer le moins élevé, dans les deux mois
 du début du bail s'il n'a pas reçu l'avis, et dans les deux mois de la connaissance du
-fait si l'avis comportait une fausse déclaration, qui ouvre en prime des
-dommages-intérêts punitifs. Un bond de loyer au roulement est donc un pari sur le
-silence du locataire, et un loyer ramené en arrière six mois après la vente devient le
-problème de l'acheteur, possiblement le vôtre.
+fait si l'avis était faux, ce qui ouvre en prime des dommages-intérêts punitifs. Un
+bond de loyer au roulement est donc un pari sur le silence du locataire, et un loyer
+ramené en arrière six mois après la vente devient le problème de l'acheteur.
 
-L'exception existe. L'article 1955 écarte la fixation pendant les cinq années qui
-suivent la date où l'immeuble est prêt pour son usage, dans un immeuble nouvellement
-bâti ou dont l'usage locatif résulte d'un changement d'affectation récent. Encore
-faut-il que le bail le prévoie et qu'il indique le loyer maximal exigible pendant ces
-cinq ans. C'est la section F.
+L'exception existe. L'article 1955 écarte la fixation pendant les cinq ans qui suivent
+la date où l'immeuble est prêt pour son usage, dans un immeuble nouvellement bâti ou
+dont l'usage locatif résulte d'un changement d'affectation récent. Encore faut-il que
+le bail le prévoie et qu'il indique le loyer maximal exigible pendant ces cinq ans.
+C'est la section F.
 
 ## Les dépenses que l'acheteur et le prêteur vont recalculer
 
@@ -130,10 +129,9 @@ du revenu locatif brut dans les ratios, avec un rapport prêt valeur maximal de 
 et un amortissement de 25 ans. À partir de 5 logements, c'est un autre produit : la
 SCHL finance jusqu'à 85 % de la valeur en achat comme en refinancement, autorise un
 amortissement allant jusqu'à 40 ans pour un immeuble existant, et exige cinq ans
-d'expérience en gestion multilogement ou un gestionnaire qui les a. Là, c'est le
-revenu de l'immeuble qui qualifie le prêt. Le [calculateur
-hypothécaire](/tools/mortgage/) donne le versement ; le reste du tableau décide de
-l'offre.
+d'expérience en gestion multilogement. Là, c'est le revenu de l'immeuble qui qualifie
+le prêt. Le [calculateur hypothécaire](/tools/mortgage/) donne le versement ; le reste
+du tableau décide de l'offre.
 
 ## Ce qui détruit la valeur d'un plex au lieu de l'augmenter
 
@@ -167,11 +165,10 @@ même chose.
 - Les avis de modification transmis, la réponse écrite du locataire et les dates.
 - Un registre des loyers : loyer au bail, dates de début et de fin, services inclus,
   ancienneté d'occupation.
-- Les comptes de taxes des trois dernières années et les avis d'assurance incendie et
-  responsabilité.
+- Les comptes de taxes des trois dernières années et les avis d'assurance.
 - Les factures et preuves de paiement des dépenses d'immobilisation avec leur date,
-  plus les lettres de subvention et les règlements d'assureur, puisque l'article 13
-  les déduit de toute façon.
+  plus les lettres de subvention et les règlements d'assureur, que l'article 13 déduit
+  de toute façon.
 - Les états de revenus et dépenses, et vos déclarations T776 et TP-128.
 
 Un plex documenté se finance plus vite. Un plex dont les loyers sont annoncés sans
