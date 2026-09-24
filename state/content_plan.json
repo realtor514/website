@@ -6447,7 +6447,7 @@
    "translationKey": "article-processus-mise-en-vente",
    "needs_expert_review": false,
    "id": "t134",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -6470,7 +6470,9 @@
      "s": 0.1456,
      "match": "/articles/contrat-courtage-vente-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/processus-mise-en-vente-etapes-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 993,

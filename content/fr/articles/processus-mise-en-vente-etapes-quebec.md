@@ -12,9 +12,9 @@ draft: true
 
 Entre le premier rendez-vous avec un courtier et la signature chez le notaire,
 une vente résidentielle traverse une dizaine d'étapes. Chacune est attachée à un
-document précis, et c'est ce document, pas l'habitude ni la bonne volonté des
-parties, qui décide de ce que vous devez faire et dans quel délai. Voici la
-séquence réelle, formulaire par formulaire.
+document précis, et c'est ce document, pas l'habitude des parties, qui décide de
+ce que vous devez faire et dans quel délai. Voici la séquence réelle, formulaire
+par formulaire.
 
 ## Le processus de vente d'une maison au Québec commence par deux formulaires
 
@@ -74,8 +74,8 @@ formulaire *Modifications*.
 Viennent ensuite la diffusion aux services entre courtiers, les visites et la
 rétroaction. Le nombre de visites et le temps avant une première promesse
 varient d'un secteur à l'autre et d'un mois à l'autre; aucune moyenne ne
-s'applique à votre propriété en particulier. Avant de fixer le prix demandé,
-situez votre point de départ avec une
+s'applique à votre propriété. Avant de fixer le prix demandé, situez votre point
+de départ avec une
 [estimation de la valeur de votre propriété](/tools/home-estimate/). Sur le
 délai, lisez [ce qui fait varier le temps de vente](/articles/combien-de-temps-vendre-maison-montreal/).
 
@@ -99,9 +99,9 @@ refuser. Le courtier, lui, doit vous les présenter toutes.
 ## Les conditions de l'acheteur, et le délai écrit derrière chacune
 
 Une promesse acceptée n'est pas une vente. Elle ouvre une période où l'acheteur
-réalise ses conditions, chacune avec son propre compteur. Les délais laissés en
-blanc dans le formulaire se négocient et varient d'une transaction à l'autre;
-ceux qui sont imprimés ne se négocient pas.
+réalise ses conditions, chacune avec son compteur. Les délais laissés en blanc
+se négocient et varient d'une transaction à l'autre; ceux qui sont imprimés au
+formulaire ne se négocient pas.
 
 | Étape | Document | Ce qui fixe le délai |
 |---|---|---|
@@ -160,11 +160,11 @@ quittance: votre prêteur doit consentir à la radiation de son hypothèque.
 
 Il calcule ensuite les répartitions prévues à la clause 11.3: taxes foncières
 générales et spéciales, réserves de combustibles, revenus et dépenses, à la date
-de la signature ou à celle de l'occupation, selon la case cochée. La clause 11.4
-lui donne l'instruction irrévocable de payer la rétribution du courtier à même
-les sommes qui vous reviennent, après les créances prioritaires et
-hypothécaires. Et il retient les fonds tant que l'acte n'est pas inscrit au
-Bureau de la publicité des droits.
+de la signature ou à celle de l'occupation. La clause 11.4 lui donne
+l'instruction irrévocable de payer la rétribution du courtier à même les sommes
+qui vous reviennent, après les créances prioritaires et hypothécaires. Et il
+retient les fonds tant que l'acte n'est pas inscrit au Bureau de la publicité
+des droits.
 
 **Ce que le vendeur apporte.** Pièces d'identité, acte d'acquisition,
 certificat de localisation, dernier compte de taxes municipales et scolaires,
@@ -172,8 +172,8 @@ relevé de solde hypothécaire, contrats de location repris par l'acheteur selon
 la clause 11.7, factures des inclusions, coordonnées bancaires, et le
 consentement du conjoint si l'immeuble est la résidence familiale. Jusqu'à
 l'occupation, vous demeurez responsable de maintenir les lieux dans l'état où
-ils se trouvaient lors des visites. Le déroulement de cette séance est décrit
-dans [le guide du processus notarial](/articles/quebec-notary-process/).
+ils se trouvaient lors des visites:
+[le déroulement chez le notaire](/articles/quebec-notary-process/).
 
 ## Questions fréquentes
 

@@ -1,0 +1,73 @@
+{
+ "id": "t134",
+ "slug": "processus-mise-en-vente-etapes-quebec",
+ "title": "Processus de vente d'une maison au Québec: les étapes",
+ "target_keyword": "processus de vente maison quebec",
+ "word_count": 1798,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/articles/contrat-courtage-vente-quebec/",
+  "/articles/declaration-du-vendeur-quebec/",
+  "/articles/combien-de-temps-vendre-maison-montreal/",
+  "/articles/quebec-notary-process/",
+  "/articles/preparer-maison-vente/",
+  "/tools/home-estimate/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.oaciq.com/media/qqlnugz4/promesse-achat-residentiel.pdf",
+   "title": "Promesse d'achat, immeuble principalement résidentiel de moins de 5 logements excluant la copropriété (PA 00001, v29 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Clause 4.3 sur l'acompte en fidéicommis et le délai de 72 heures, clauses 6.1 à 6.3 sur le nouvel emprunt hypothécaire et les cinq jours du vendeur, clause 8.1 sur l'inspection et l'avis au plus tard la 4e journée avant 20 h, clause 9.1 sur l'examen de documents et l'avis dans les sept jours, clause 10.3 sur le certificat de localisation reflétant l'état physique actuel et les opérations cadastrales, clause 10.5 sur les 21 jours pour remédier à un vice dénoncé, clauses 11.1 à 11.4 sur l'acte de vente, l'occupation, les répartitions et les instructions au notaire, clause 11.7 sur les contrats de location repris, clause 14.1 sur le caractère irrévocable, le refus et l'effet d'une contre-proposition."
+  },
+  {
+   "url": "https://www.oaciq.com/media/qpnpdbdm/avis-suivi-realisation-conditions.pdf",
+   "title": "Avis et suivi de réalisation de conditions, immeuble (AS 00001, v3 05/2024)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Existence et rôle du formulaire recommandé servant à consigner la réalisation ou la non réalisation des conditions: cases AV4.3 pour l'inspection de la clause 8.1, AV4.4 pour l'examen de documents de la clause 9.1, AV4.5 pour la dénonciation d'un vice et les 21 jours, AV4.6 pour la condition de financement."
+  },
+  {
+   "url": "https://espacecourtiers.oaciq.com/uploads/ckeditor/attachments/400/guide-vendeur.pdf",
+   "title": "Courtage immobilier résidentiel: Guide du vendeur (édition novembre 2017)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Réception des promesses d'achat et recommandation d'y donner suite même pour les refuser; obligation du courtier de présenter toutes les promesses; effet d'annulation des contre-propositions successives et contenu obligatoire de la dernière; examen des titres par le notaire (titre incontestable, véritable propriétaire, droit et capacité de vendre, consentement du conjoint, charges hypothécaires); vérifications faites à l'aide du certificat de localisation; inscription de l'acte au Bureau de la publicité des droits et rétention des fonds par le notaire jusque là."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-verification-information-et-conseil/4-roles-et-responsabilites-des-courtiers-immobiliers/",
+   "title": "Ligne directrice Vérification, information et conseil, section 4: Rôles et responsabilités des courtiers immobiliers",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Dès la signature du contrat de courtage vente, le courtier vérifie si le vendeur possède un certificat de localisation, son âge, les ajouts ou modifications depuis son émission, et recommande d'en faire produire un nouveau au besoin (article 2 du Règlement sur la norme de pratique relative au certificat de localisation). Remplir le formulaire DV avec le vendeur et obtenir les documents à l'appui. Accompagner le vendeur dans l'établissement de la juste valeur marchande à partir d'éléments objectifs et de comparables (article 76 du Règlement sur les conditions d'exercice)."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-verification-information-et-conseil/6-renseignements-sur-l-immeuble-principales-verifications-et-facteurs-defavorables/",
+   "title": "Ligne directrice Vérification, information et conseil, section 6: Renseignements sur l'immeuble, principales vérifications et facteurs défavorables",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Les renseignements de la fiche descriptive doivent être exacts, vérifiés et à jour, et le courtier doit pouvoir en démontrer l'exactitude, avant la diffusion. Le formulaire DV est rempli lors de la prise du contrat de courtage puis annexé à la fiche descriptive et à toute promesse d'achat reçue. Mise à jour de la fiche et du DV par formulaire Modifications dès qu'un élément nouveau est connu, notamment après une inspection."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, articles 1719, 1723 et 2917",
+   "publisher": "Légis Québec, Publications du Québec",
+   "consulted": "2026-09-24",
+   "supports": "Article 1719: obligation du vendeur de remettre les titres qu'il possède, une copie de l'acte d'acquisition, des titres antérieurs et du certificat de localisation. Article 1723: garantie que le bien est libre de tous droits sauf ceux déclarés et obligation de purger les hypothèques. Article 2917: le délai de prescription acquisitive est de 10 ans, ce qui explique l'attention portée au certificat de localisation de plus de dix ans."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/immobilier-role-notaire/",
+   "title": "Immobilier: le rôle du notaire",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-24",
+   "supports": "Vérification par le notaire des anciens actes de transfert de propriété, rédaction de l'acte de vente et de l'acte d'hypothèque, publication au registre foncier et gestion des fonds en fidéicommis avec paiement des créanciers du vendeur avant la remise du produit de la vente."
+  }
+ ],
+ "claims_needing_review": [
+  "Affirmation selon laquelle l'OACIQ range le certificat de localisation de plus de dix ans parmi les situations à soulever dès la prise du contrat de courtage: cette position est reprise dans le coffre à outils de la ligne directrice (fiche Certificat de localisation datant de plus de 10 ans), mais la page dédiée n'était pas accessible publiquement au moment de la rédaction. À faire valider par le courtier ou par l'OACIQ.",
+  "Liste des documents que le vendeur apporte chez le notaire: elle est construite à partir des clauses 10.3, 10.6, 11.3 et 11.7 de la Promesse d'achat et de l'examen des titres décrit par l'OACIQ. Elle n'est pas une liste officielle publiée par la Chambre des notaires, dont le site était inaccessible par pare-feu au moment de la rédaction. À faire confirmer par un notaire.",
+  "Mention que l'engagement du prêteur dépend souvent de sa propre évaluation de la propriété: formulation prudente, non chiffrée, à faire valider par un courtier hypothécaire."
+ ]
+}
