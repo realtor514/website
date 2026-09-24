@@ -6,7 +6,7 @@ translationKey: "article-rencontre-courtier"
 category: "Guide pratique"
 description: "Certificat de localisation, acte de vente, comptes de taxes, baux: les documents à réunir avant la première rencontre avec un courtier."
 image: "images/articles/preparer-rencontre-courtier-documents/featured.jpg"
-draft: true
+draft: false
 ---
 
 La plupart des vendeurs arrivent à ce rendez-vous les mains vides, en pensant

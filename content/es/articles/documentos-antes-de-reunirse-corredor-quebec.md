@@ -6,7 +6,7 @@ translationKey: "article-rencontre-courtier"
 category: "Guía práctica"
 description: "Certificat de localisation, escritura de compra, cuentas de impuestos, contratos de alquiler: los documentos que debe reunir antes de la primera reunión con un corredor."
 image: "images/articles/preparer-rencontre-courtier-documents/featured.jpg"
-draft: true
+draft: false
 ---
 
 La mayoría de los vendedores llega a esa cita con las manos vacías, pensando que se hablará sobre todo de precio. Tres semanas después, la salida al mercado sigue esperando un documento que había que pedir el primer día. Estos son los papeles que debe sacar de sus carpetas, dónde se obtiene cada uno y qué anuncian los organismos públicos como plazo o como tarifa.

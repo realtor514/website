@@ -7,7 +7,7 @@ category: "Investissement"
 description: "Acheter une propriété au Québec en tant qu'étranger: l'interdiction fédérale, les exceptions, la mise de fonds, le certificat de conformité à la revente."
 image: "images/articles/acheteur-etranger-achat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 La question revient chaque mois: une personne qui n'est ni citoyenne canadienne ni résidente permanente peut-elle acheter à Laval ou à Montréal? La réponse dépend d'une loi fédérale encore en vigueur aujourd'hui, et d'une liste d'exceptions très précises. Voici ce qu'elle interdit, ce qu'elle ne touche pas, et ce qui attend un acheteur étranger au financement puis à la revente.

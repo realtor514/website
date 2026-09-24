@@ -7,7 +7,7 @@ category: "استثمار"
 description: "زيادة قيمة مبنى متعدد الشقق: ما تسمح به fixation de loyer لدى TAL منذ 2026، والأشغال التي تُسترد في الإيجار، والمستندات التي تُثبت الدخل."
 image: "images/articles/maximiser-valeur-plex-montreal/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 نادراً ما يُباع المبنى المتعدد الشقق (plex) بفضل ديكوره. المشتري يجمع الإيجارات

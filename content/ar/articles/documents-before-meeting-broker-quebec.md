@@ -6,7 +6,7 @@ translationKey: "article-rencontre-courtier"
 category: "دليل عملي"
 description: "certificat de localisation، وعقد الشراء، وفواتير الضرائب، وعقود الإيجار: المستندات التي تجمعها قبل أول لقاء مع وسيط عقاري."
 image: "images/articles/preparer-rencontre-courtier-documents/featured.jpg"
-draft: true
+draft: false
 ---
 
 يصل معظم البائعين إلى هذا الموعد بأيدٍ فارغة، ظناً منهم أن الحديث سيدور على السعر

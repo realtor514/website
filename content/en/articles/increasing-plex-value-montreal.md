@@ -7,7 +7,7 @@ category: "Investment"
 description: "Increasing a plex's value: what fixation de loyer at the TAL has allowed since 2026, the work you can recover in the rent, and the documents that prove the income."
 image: "images/articles/maximiser-valeur-plex-montreal/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 A plex rarely sells on its decor. The buyer adds up the rents, subtracts the

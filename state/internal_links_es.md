@@ -97,6 +97,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Deshielo e infiltración de agua en el sótano en Montreal](/es/articles/deshielo-infiltracion-agua-montreal/) : Deshielo e infiltración de agua en el sótano en Montreal: pendiente del terreno, tragaluz, techo, canalet
 - [Elegir un contratista de renovación en Quebec](/es/articles/elegir-contratista-renovacion-quebec/) : Licencia RBQ y sous-catégories, contrato, retención, hipoteca legal: cómo elegir un contratista de renova
 - [Mudarse en Montreal o Laval: la lista completa, plazo por plazo](/es/articles/moving-checklist-montreal/) : Avisos de arrendamiento, cesión, cambio de dirección, Hydro-Québec, permisos de camión y ecocentros: la l
+- [Primera reunión con un corredor inmobiliario: los documentos](/es/articles/documentos-antes-de-reunirse-corredor-quebec/) : Certificat de localisation, escritura de compra, cuentas de impuestos, contratos de alquiler: los documen
 - [Prueba de radón en una vivienda en Quebec: el calendario real](/es/articles/radon-vivienda-quebec/) : Directriz de 200 Bq/m³, prueba de tres meses en temporada de calefacción, cláusula 3.21 y declaraciones d
 - [Reglamento de piscinas residenciales en Quebec: el plazo del 30 de septiembre de 2027](/es/articles/reglamento-piscinas-quebec/) : Reglamento de piscinas residenciales en Quebec: cercado, puerta, escalera, permiso, multa y el 30 de sept
 - [Talar un árbol en Quebec: el reglamento y de quién es el árbol](/es/articles/arboles-propiedad-reglamentos-quebec/) : De quién es el árbol, qué permite el Code civil entre vecinos, el permiso de tala en Montreal y en Laval,
@@ -123,10 +124,12 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 ## Inversión
 - [Alquiler de corto plazo en Quebec: las reglas antes de comprar](/es/articles/alquiler-corto-plazo-quebec/) : Número de registro, zonificación de Montreal y Laval, declaración de copropiedad: las reglas del alquiler
+- [Aumentar el valor de un plex en Montreal o en Laval](/es/articles/aumentar-valor-plex-montreal/) : Aumentar el valor de un plex: lo que permite la fixation de loyer del TAL desde 2026, las obras que se re
 - [Comprar para revender en Montreal: las cifras reales que nadie le muestra](/es/articles/house-flipping-montreal/) : Regla de los 365 días, TPS y TVQ en una renovación mayor, impuesto de bienvenida, permisos y licencia RBQ
 - [Comprar un inmueble comercial en Quebec: las verificaciones](/es/articles/verificaciones-inmueble-comercial-quebec/) : Licencia del corredor, contratos de arrendamiento, estudio fase I, zonificación, tasa no residencial, TPS
 - [Comprar un tríplex en Laval: lo que hay que verificar antes de la oferta](/es/articles/investir-triplex-laval-strategie/) : Pago inicial, cómo cuenta los alquileres el prestamista, impuestos y derechos de mutación en Laval, regla
 - [Comprar una cabaña en Quebec: pozo, fosa séptica y acceso](/es/articles/comprar-una-cabana-quebec/) : Rive, fosse septique, pozo, chemin privé, seguro y financiamiento: las verificaciones antes de comprar un
+- [Comprar una propiedad en Quebec siendo extranjero](/es/articles/comprador-extranjero-propiedad-quebec/) : Comprar una propiedad en Quebec siendo extranjero: la prohibición federal, las excepciones, el pago inici
 - [Cómo construir una cartera inmobiliaria en el Gran Montreal desde cero](/es/articles/build-real-estate-portfolio/) : Pago inicial según el número de viviendas, prueba de resistencia, refinanciación al 80 %, control de alqu
 - [Gestionar propiedades de alquiler en Montreal y Laval: lo que todo nuevo propietario debe saber](/es/articles/rental-property-management/) : Sección G, selección del inquilino, depósito prohibido, aviso de aumento, recuperación, desalojo e impues
 - [Invertir en Laval: lo que hay que verificar antes de comprometerse](/es/articles/laval-investment-city/) : Zonificación y código de urbanismo, viviendas no conformes, reglas del TAL, pago inicial según el número 

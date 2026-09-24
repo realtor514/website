@@ -7,7 +7,7 @@ category: "Inversión"
 description: "Comprar una propiedad en Quebec siendo extranjero: la prohibición federal, las excepciones, el pago inicial y el certificado de conformidad al revender."
 image: "images/articles/acheteur-etranger-achat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 La pregunta vuelve cada mes: ¿puede comprar en Laval o en Montreal una persona que no es ciudadana canadiense ni residente permanente? La respuesta depende de una ley federal que sigue vigente hoy y de una lista de excepciones muy precisas. Esto es lo que prohíbe, lo que no toca y lo que espera a un comprador extranjero en el financiamiento y luego en la reventa.

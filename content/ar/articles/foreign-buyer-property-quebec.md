@@ -7,7 +7,7 @@ category: "استثمار"
 description: "شراء عقار في كيبيك بصفتك أجنبياً: الحظر الفيدرالي، والاستثناءات، والدفعة الأولى، وشهادة المطابقة عند إعادة البيع."
 image: "images/articles/acheteur-etranger-achat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 يتكرر السؤال كل شهر: هل يستطيع شخص ليس مواطناً كندياً ولا مقيماً دائماً أن يشتري

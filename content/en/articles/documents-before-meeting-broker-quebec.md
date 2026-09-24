@@ -6,7 +6,7 @@ translationKey: "article-rencontre-courtier"
 category: "Practical Guide"
 description: "Certificat de localisation, deed of sale, tax bills, leases: the documents to gather before your first meeting with a real estate broker."
 image: "images/articles/preparer-rencontre-courtier-documents/featured.jpg"
-draft: true
+draft: false
 ---
 
 Most sellers show up to that appointment empty-handed, assuming the conversation will be mostly about price. Three weeks later, the listing is still waiting on a document that should have been ordered on day one. Here are the papers to pull out of your files, where each one is obtained, and what the public bodies themselves publish as a delay or a fee.

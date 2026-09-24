@@ -72,12 +72,14 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Eight Situations Where You Should Not Buy, Even If the Bank Says Yes](/en/articles/when-not-to-buy-real-estate/) : New income, high interest debt, a borrowed down payment, a short horizon: the cases where waiting costs l
 
 ## Investment
+- [Buying Property in Quebec as a Foreign Buyer](/en/articles/foreign-buyer-property-quebec/) : Buying property in Quebec as a foreign buyer: the federal prohibition, the exceptions, the down payment, 
 - [Buying a Commercial Building in Quebec: The Due Diligence](/en/articles/commercial-building-due-diligence-quebec/) : Broker licence, leases, phase I study, zoning, the non-residential tax rate, GST and QST: the checks to m
 - [Buying a Cottage in Quebec: Well, Septic and Access](/en/articles/buying-a-cottage-quebec/) : Rive, fosse septique, well, chemin privé, insurance and financing: the checks to make before you buy a co
 - [Buying a Triplex in Laval: What to Verify Before You Make an Offer](/en/articles/investir-triplex-laval-strategie/) : Down payment, how a lender counts the rents, Laval taxes and transfer duties, TAL rent control and zoning
 - [House Flipping in Montreal: The Honest Math Nobody Shows You](/en/articles/house-flipping-montreal/) : The 365-day rule, GST and QST on a major renovation, transfer duties, permits and the RBQ licence: the fu
 - [How to Build a Real Estate Portfolio in Greater Montreal Starting From Zero](/en/articles/build-real-estate-portfolio/) : Down payment by unit count, the stress test, refinancing at 80%, Quebec rent control and the tax rules: w
 - [Income Plexes in Montreal and Laval: An Honest Beginner's Guide](/en/articles/income-property-beginners/) : Live in it or rent it all out, down payment, real cash flow math, the 2026 TAL rules, buying with tenants
+- [Increasing the Value of a Plex in Montreal or Laval](/en/articles/increasing-plex-value-montreal/) : Increasing a plex's value: what fixation de loyer at the TAL has allowed since 2026, the work you can rec
 - [Investing in Laval: What to Verify Before You Commit](/en/articles/laval-investment-city/) : Zoning and the new planning code, non-conforming units, TAL rent control, down payment by unit count and 
 - [Land Value and Zoning in Quebec: How to Read the Roll](/en/articles/land-value-zoning-quebec/) : The rôle d'évaluation already splits land from building. What that ratio tells you, what zoning actually 
 - [Managing Rental Properties in Montreal and Laval: What First-Time Landlords Need to Know](/en/articles/rental-property-management/) : Section G, tenant screening, the banned security deposit, rent increases, repossession, eviction and taxe
@@ -95,6 +97,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Practical Guide
 - [Choosing a Renovation Contractor in Quebec](/en/articles/choosing-renovation-contractor-quebec/) : RBQ licence and sous-catégories, the contract, the holdback, the legal hypothec: how to choose a renovati
 - [Cutting Down a Tree in Quebec: The By-law and Who Owns the Tree](/en/articles/trees-property-rules-quebec/) : Who owns the tree, what the Code civil allows between neighbours, the felling permit in Montreal and Lava
+- [First Meeting With a Real Estate Broker: The Documents](/en/articles/documents-before-meeting-broker-quebec/) : Certificat de localisation, deed of sale, tax bills, leases: the documents to gather before your first me
 - [Home Maintenance Costs in Quebec: The Replacement Calendar](/en/articles/home-maintenance-cost-quebec/) : Service life by component, what the climate adds, how to size the annual reserve: what home maintenance r
 - [How to Cut Your Heating Bill in Quebec: Where to Start](/en/articles/reduce-heating-bill-quebec/) : Rate D, the 40 kWh tier, insulation, heat pumps and 2026 grants: how to reduce your heating bill in Quebe
 - [Moving in Montreal or Laval: The Complete Checklist, Deadline by Deadline](/en/articles/moving-checklist-montreal/) : Lease notices, lease assignment, address changes, Hydro-Quebec, truck permits and ecocentres: the Greater
@@ -132,6 +135,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Preparing a Property for Sale: The Method, and the Ethical Line](/en/articles/home-staging-client-story/) : Decluttering, deferred maintenance, photos, order of steps: the method before listing, and why preparatio
 - [Real Estate Comparables: Auditing Your Neighbour's Price](/en/articles/real-estate-comparables-quebec/) : Four criteria, measured living area, adjustments, conditions of sale: how to audit the real estate compar
 - [Sell or Keep Your Home in Quebec: Your Own Six Signals](/en/articles/signs-it-is-time-to-sell-quebec/) : Household size, a job elsewhere, renewal, maintenance, mobility, attachment: the six personal signals tha
+- [Selling Before Buying in Quebec: The Clauses That Decide](/en/articles/sell-before-buying-clauses-quebec/) (brouillon) : Selling before buying in Quebec: clause R2.1, the 72 hour clause, the bridge loan, carrying two propertie
 - [Selling With or Without a Realtor in Quebec: The Honest Comparison](/en/articles/selling-without-realtor-quebec/) : It is the number one question Quebec sellers ask. Here are the real numbers, what you actually save, what
 - [Selling the Family Home and Downsizing: A Guide for Seniors in Greater Montreal](/en/articles/senior-downsizing-guide/) : Condo, apartment, seniors' residence or staying put: what selling the family home really frees up, plus t
 - [The Listing Brokerage Contract in Quebec: Clause by Clause](/en/articles/listing-brokerage-contract-quebec/) : Term, price, remuneration, the 180 day clause, declarations: what each clause of the Quebec listing broke

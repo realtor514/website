@@ -7,7 +7,7 @@ category: "Investment"
 description: "Buying property in Quebec as a foreign buyer: the federal prohibition, the exceptions, the down payment, and the compliance certificate at resale."
 image: "images/articles/acheteur-etranger-achat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 The question comes up every month: can someone who is neither a Canadian citizen nor a permanent resident buy in Laval or Montreal? The answer depends on a federal statute that is still in force today, and on a very precise list of exceptions. Here is what it prohibits, what it leaves untouched, and what a foreign buyer runs into at financing and then at resale.

@@ -7,7 +7,7 @@ category: "Investissement"
 description: "Augmenter la valeur d'un plex : ce que la fixation de loyer du TAL permet depuis 2026, les travaux récupérables et les documents qui prouvent le revenu."
 image: "images/articles/maximiser-valeur-plex-montreal/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un plex se vend rarement sur son décor. L'acheteur additionne les loyers, retranche
