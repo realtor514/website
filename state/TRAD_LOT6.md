@@ -17,7 +17,8 @@ francais, sauf l arabe ou 80 % suffit. Chiffres en caracteres latins en arabe.
 Section Questions frequentes gardee, titre dans la langue cible. Noms
 d organismes, formulaires et termes juridiques gardes en francais, glose a la
 premiere occurrence. CTA du formulaire: `/en/form/`, `/es/formulario/`,
-`/ar/istimara/`. Chaque article garde `needs_expert_review: true`.
+`/ar/istimara/`. `needs_expert_review` se recopie du francais: present si le francais l a, absent
+s il ne l a pas. Ne l ajoutez jamais de votre propre chef.
 
 ---
 
