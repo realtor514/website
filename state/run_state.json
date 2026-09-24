@@ -1,6 +1,6 @@
 {
- "run_state": "RUNNING",
- "current_phase": "PHASE 2 et 3 en parallele: redaction fr, traduction, publication",
+ "run_state": "INTERRUPTED_RATE_LIMIT",
+ "current_phase": "PHASE 2 et 3, a reprendre apres 22h heure de Toronto",
  "session_count": 1,
  "started": "2026-09-23",
  "branch": "auto/blogue-content",
@@ -56,20 +56,20 @@
  },
  "counters": {
   "topics_planifies": 133,
-  "clear": 121,
-  "already_covered": 2,
+  "clear": 140,
+  "already_covered": 3,
   "update_candidate": 0,
   "parked": 0,
-  "written_draft": 5,
+  "written_draft": 23,
   "failed_duplicate": 0,
   "blocked_duplicate": 0,
-  "error_retry_later": 5,
+  "error_retry_later": 4,
   "traduits": {
-   "en": 5,
-   "es": 5,
-   "ar": 5
+   "en": 23,
+   "es": 23,
+   "ar": 23
   },
-  "publies": 5
+  "publies": 22
  },
  "reference": {
   "site": "https://rovenapistoli.com/fr/articles",
@@ -81,12 +81,24 @@
  "last_commit": "3489c47",
  "pushed": true,
  "publication": {
-  "en_ligne": 5,
+  "en_ligne": 22,
   "langues": 4,
-  "fichiers": 20,
+  "fichiers": 88,
   "verifie_en_direct": true,
-  "url_temoin": "https://georgesmatar.ca/articles/maison-difficile-assurer-quebec/",
+  "urls_temoins": [
+   "https://georgesmatar.ca/articles/vice-cache-conditions-recours-quebec/",
+   "https://georgesmatar.ca/articles/ventre-de-boeuf-drain-montreal/",
+   "https://georgesmatar.ca/ar/articles/sale-without-legal-warranty-quebec/"
+  ],
   "hreflang": "verifie, les 4 versions sont reliees"
  },
- "posts_par_langue_maintenant": 68
+ "posts_par_langue_maintenant": 87,
+ "interrupted": {
+  "quand": "2026-09-23, deux fois: vers 17h et vers 22h",
+  "cause": "limite d usage du compte, 18 agents coupes au total",
+  "reprise": "la limite se libere a 22h, rien a reparer avant"
+ },
+ "en_attente": [
+  "garantie-gcr-maison-neuve-quebec: termine, en draft, attend ses 3 traductions"
+ ]
 }
