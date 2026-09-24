@@ -111,6 +111,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Vice caché au Québec : les conditions et vos recours](/articles/vice-cache-conditions-recours-quebec/) : Vice caché maison Québec : les quatre conditions de l'article 1726, la dénonciation écrite obligatoire, v
 
 ## Investissement
+- [Acheter un immeuble commercial au Québec : vérifications](/articles/verifications-immeuble-commercial-quebec/) : Permis du courtier, baux, étude phase I, zonage, taxe non résidentielle, TPS et TVQ : les vérifications a
 - [Acheter un triplex à Laval : ce qu'il faut vérifier avant de faire une offre](/articles/investir-triplex-laval/) : Mise de fonds, calcul des loyers par le prêteur, taxes et droits de mutation à Laval, encadrement du TAL,
 - [Comment bâtir un portefeuille immobilier dans le Grand Montréal à partir de zéro](/articles/build-real-estate-portfolio/) : Mise de fonds selon le nombre de logements, test de résistance, refinancement à 80 %, encadrement des loy
 - [Gérer des propriétés locatives à Montréal et Laval : ce que les premiers propriétaires doivent savoir](/articles/rental-property-management/) : Section G, sélection du locataire, dépôt interdit, avis d'augmentation, reprise, éviction, non-paiement e

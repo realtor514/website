@@ -7,7 +7,7 @@ category: "Investissement"
 description: "Permis du courtier, baux, étude phase I, zonage, taxe non résidentielle, TPS et TVQ : les vérifications avant d'acheter un immeuble commercial."
 image: "images/articles/verifications-immeuble-commercial-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un local au rez-de-chaussée, deux logements à l'étage, un revenu affiché qui

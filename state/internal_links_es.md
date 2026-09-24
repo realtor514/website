@@ -111,6 +111,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Inversión
 - [Alquiler de corto plazo en Quebec: las reglas antes de comprar](/es/articles/alquiler-corto-plazo-quebec/) : Número de registro, zonificación de Montreal y Laval, declaración de copropiedad: las reglas del alquiler
 - [Comprar para revender en Montreal: las cifras reales que nadie le muestra](/es/articles/house-flipping-montreal/) : Regla de los 365 días, TPS y TVQ en una renovación mayor, impuesto de bienvenida, permisos y licencia RBQ
+- [Comprar un inmueble comercial en Quebec: las verificaciones](/es/articles/verificaciones-inmueble-comercial-quebec/) : Licencia del corredor, contratos de arrendamiento, estudio fase I, zonificación, tasa no residencial, TPS
 - [Comprar un tríplex en Laval: lo que hay que verificar antes de la oferta](/es/articles/investir-triplex-laval-strategie/) : Pago inicial, cómo cuenta los alquileres el prestamista, impuestos y derechos de mutación en Laval, regla
 - [Cómo construir una cartera inmobiliaria en el Gran Montreal desde cero](/es/articles/build-real-estate-portfolio/) : Pago inicial según el número de viviendas, prueba de resistencia, refinanciación al 80 %, control de alqu
 - [Gestionar propiedades de alquiler en Montreal y Laval: lo que todo nuevo propietario debe saber](/es/articles/rental-property-management/) : Sección G, selección del inquilino, depósito prohibido, aviso de aumento, recuperación, desalojo e impues
