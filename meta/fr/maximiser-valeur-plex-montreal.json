@@ -1,0 +1,80 @@
+{
+ "id": "t142",
+ "slug": "maximiser-valeur-plex-montreal",
+ "title": "Augmenter la valeur d'un plex à Montréal ou à Laval",
+ "target_keyword": "augmenter la valeur d'un plex",
+ "word_count": 1799,
+ "category": "Investissement",
+ "internal_links": [
+  "/articles/renovations-dont-add-value/",
+  "/articles/laval-investment-city/",
+  "/articles/proprietaire-occupant-plex-reprise/",
+  "/articles/rental-property-management/",
+  "/articles/income-property-beginners/",
+  "/tools/mortgage/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/T-15.01,%20r.%202",
+   "title": "Règlement sur les critères de fixation de loyer, chapitre T-15.01, r. 2",
+   "publisher": "Publications Québec, LégisQuébec",
+   "consulted": "2026-09-24",
+   "supports": "Les six critères de l'article 3, la formule du pourcentage de base de l'article 3.1 sur trois ans d'IPC, la soustraction du pourcentage de base pour les taxes et les assurances à l'article 4, la part attribuable au logement à l'article 5, le loyer de faveur à l'article 6, la réduction pour défaut de maintenir un service à l'article 8, la règle de l'article 13 sur les aides et les indemnités de tiers, la définition de période de référence et la liste des travaux de l'annexe I. Confirme aussi que la modification vient du décret 1455-2025 et s'applique aux avis donnés à compter du 1er janvier 2026."
+  },
+  {
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/pourcentages-applicables-2026-quelques-precisions-importantes-68210",
+   "title": "Pourcentages applicables 2026 : quelques précisions importantes",
+   "publisher": "Tribunal administratif du logement, via Québec.ca",
+   "consulted": "2026-09-24",
+   "supports": "Le pourcentage de base de 3,1 % pour les loyers à déterminer pour une période débutant entre le 2 avril 2026 et le 1er avril 2027, le fait que le 6,7 % ne vise que la partie du loyer liée aux services rattachés à la personne même du locataire, et l'application de la nouvelle méthode aux seuls avis donnés à compter du 1er janvier 2026."
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/fr/reconduction-du-bail-et-fixation-de-loyer/augmentation-de-loyer",
+   "title": "Augmentation de loyer",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-09-24",
+   "supports": "La coexistence des deux méthodes selon la date de l'avis, le traitement des taxes et des assurances par excédent sur le pourcentage de base, et le taux fixe de 5 % applicable aux dépenses d'immobilisation, qui ne profite qu'aux logements visés par les travaux."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/ccq-1991",
+   "title": "Code civil du Québec, articles 1896, 1942, 1945, 1947, 1950 et 1955",
+   "publisher": "Publications Québec, LégisQuébec",
+   "consulted": "2026-09-24",
+   "supports": "L'avis de section G au nouveau locataire et les dommages-intérêts punitifs (art. 1896), les délais de l'avis de modification de 3 à 6 mois (art. 1942), le silence du locataire valant acceptation (art. 1945), le mois pour saisir le tribunal après un refus et la reconduction aux conditions antérieures (art. 1947), les recours en fixation de 10 jours et de 2 mois du nouveau locataire (art. 1950), et l'exclusion de la fixation pendant cinq ans pour un immeuble neuf ou un changement d'affectation récent avec mention au bail du loyer maximal (art. 1955)."
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/fr/signature-d-un-bail/avis-au-nouveau-locataire",
+   "title": "Avis au nouveau locataire",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-09-24",
+   "supports": "Le contenu exact de l'avis de section G, les délais de 10 jours et de 2 mois du nouveau locataire, et la mention en section F de la restriction de cinq ans pour un immeuble neuf ou converti."
+  },
+  {
+   "url": "https://apciq.ca/en/montreal-cma-adjustment-period-continues-condominium-market-in-balance-2/",
+   "title": "Montreal CMA : Adjustment Period Continues, Condominium Market in Balance (statistiques d'août 2026)",
+   "publisher": "APCIQ",
+   "consulted": "2026-09-24",
+   "supports": "Les données d'août 2026 pour la RMR de Montréal : ventes en baisse de 13 %, inscriptions de plex en hausse de 15 %, prix médian des plex en hausse de 2 % sur un an, délai de vente moyen des plex de 52 jours, seule catégorie en baisse."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/mortgage-loan-insurance-homeownership-programs/income-property",
+   "title": "Assurance prêt hypothécaire : immeubles locatifs (2 à 4 logements)",
+   "publisher": "SCHL",
+   "consulted": "2026-09-24",
+   "supports": "Pour un immeuble de 2 à 4 logements non occupé par le propriétaire : rapport prêt valeur maximal de 80 %, jusqu'à 50 % du revenu locatif brut ajouté aux ratios, amortissement maximal de 25 ans."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/multi-unit-insurance/standard-rental-housing",
+   "title": "Assurance prêt hypothécaire : logements locatifs ordinaires",
+   "publisher": "SCHL",
+   "consulted": "2026-09-24",
+   "supports": "Le produit multilogement exige au moins 5 logements, finance jusqu'à 85 % de la valeur en achat comme en refinancement, autorise un amortissement allant jusqu'à 40 ans pour un immeuble existant, et demande au moins cinq ans d'expérience en gestion multilogement."
+  }
+ ],
+ "claims_needing_review": [
+  "Exemple chiffré de la section sur les travaux : une facture de 40 000 $ dans un triplex où un logement représente le tiers des revenus donne une part attribuable d'environ 13 300 $, dont 5 % font quelque 667 $ par année. C'est une application directe des articles 3 et 5 du Règlement sur les critères de fixation de loyer, mais la part attribuable réelle dépend des revenus déclarés et de l'appréciation du Tribunal. À faire valider par un juriste avant publication.",
+  "Formulation « la part de la variation qui dépasse le pourcentage de base » pour les taxes et les assurances : l'article 4 procède par soustraction de la valeur absolue du pourcentage de base, puis application du résultat au montant mensuel de la période visée. La vulgarisation est fidèle mais mérite une relecture.",
+  "La liste des dépenses normalisées par un acheteur (inoccupation, mauvaises créances, gestion, réserve d'entretien) relève de la pratique d'évaluation et non d'un texte réglementaire, puisque la méthode de 2026 ne lit plus la grille de dépenses poste par poste."
+ ]
+}
