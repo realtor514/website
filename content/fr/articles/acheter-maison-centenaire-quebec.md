@@ -7,7 +7,7 @@ category: "Guide de l'acheteur"
 description: "Fondation, charpente, bouton et tube, plomberie galvanisée, pare-vapeur, fenêtres: ce qui diffère vraiment quand on achète une maison centenaire."
 image: "images/articles/acheter-maison-centenaire-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Une maison de 1915 se visite comme les autres et s'achète autrement. Ce qui change
