@@ -49,8 +49,8 @@ corriger. Le gouvernement du Québec recommande de le faire d'ici un an.
 aménagé où dort un adolescent, oui.
 
 Le gouvernement du Québec indique que la concentration moyenne dans les sous-sols
-québécois tourne autour de 37 Bq/m³, mais qu'elle peut atteindre plus de
-1 000 Bq/m³. La moyenne rassure. Elle ne dit rien de votre adresse.
+québécois tourne autour de 37 Bq/m³, mais qu'elle peut dépasser 1 000 Bq/m³. La
+moyenne rassure. Elle ne dit rien de votre adresse.
 
 ## Le radon au Québec, région par région : ce que les tests publics montrent
 
@@ -138,13 +138,12 @@ sous-sol. Si la concentration est très élevée, ils ne suffiront pas.
 La vraie solution porte un nom : la dépressurisation active sous la dalle. Un
 tuyau traverse la fondation, un ventilateur aspire le gaz sous la maison et le
 rejette dehors avant qu'il entre. Santé Canada écrit qu'un tel système diminuera
-les concentrations de plus de 80 pour cent, qu'il peut être installé en une
-journée seulement, et pour le même prix que d'autres réparations résidentielles
-courantes. Le travail se confie à un professionnel en atténuation du radon
-certifié par le PNCR-C.
+les concentrations de plus de 80 pour cent, qu'il s'installe en une journée
+seulement, et pour le même prix que d'autres réparations résidentielles courantes.
+Le travail se confie à un professionnel en atténuation certifié par le PNCR-C.
 
-Ce que je ne peux pas vous donner, c'est une facture : aucune des sources
-gouvernementales consultées ne publie de fourchette de prix québécoise. Traitez ce
+Ce que je ne peux pas vous donner, c'est une facture : aucune source
+gouvernementale consultée ne publie de fourchette de prix québécoise. Traitez ce
 poste comme une réserve à prévoir, au même titre que les autres montants de la
 [liste des frais de clôture](/tools/closing-costs/), et exigez deux soumissions
 écrites.
@@ -187,23 +186,21 @@ demande 91 jours en saison de chauffage. L'inspecteur peut recommander le test,
 c'est tout.
 
 **Le vendeur refuse un délai de trois mois. Que faire ?**
-C'est le cas normal, pas un signe de mauvaise foi. La voie prévue est la retenue
-d'une somme chez le notaire selon la clause type 3.21, avec un montant et un délai
-que vous négociez. Faites relire le libellé par votre notaire avant de signer.
+C'est le cas normal, pas de la mauvaise foi. La voie prévue est la retenue d'une
+somme chez le notaire selon la clause type 3.21, avec un montant et un délai que
+vous négociez. Faites relire le libellé avant de signer.
 
 **Est-ce que des rénovations peuvent augmenter le radon ?**
 Selon l'OACIQ, des recherches menées à l'étranger montrent que les rénovations
-énergétiques, remplacement des fenêtres et des portes, ajout d'isolation, peuvent
-réduire le renouvellement de l'air et augmenter les concentrations intérieures. Un
-résultat n'est donc pas un permis permanent : après des travaux majeurs ou après
-l'installation d'un système, on remesure.
+énergétiques, fenêtres, portes, isolation, peuvent réduire le renouvellement de
+l'air et augmenter les concentrations intérieures. Un résultat n'est donc pas un
+permis permanent : après des travaux majeurs, on remesure.
 
 Pour compléter, lisez [ce qu'une inspection préachat vérifie](/articles/home-inspection-checklist-montreal/)
 et [les signaux qui justifient de se retirer](/articles/red-flags-walk-away-property/).
 
 ---
 
-*Un dosimètre installé chez vous affiche un chiffre au-dessus de 200 Bq/m³, ou
-vous voulez savoir comment le formuler dans votre promesse d'achat ?
-[Écrivez-moi](/formulaire/). Je vous dirai ce qui se négocie et ce qui se règle
-chez le notaire.*
+*Un dosimètre affiche un chiffre au-dessus de 200 Bq/m³, ou vous cherchez comment
+formuler la clause dans votre promesse d'achat ? [Écrivez-moi](/formulaire/). Je
+vous dirai ce qui se négocie et ce qui se règle chez le notaire.*

@@ -4830,7 +4830,7 @@
    "translationKey": "article-radon-quebec",
    "needs_expert_review": false,
    "id": "t101",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -4853,7 +4853,9 @@
      "s": 0.0871,
      "match": "/articles/reduire-facture-chauffage-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/radon-maison-quebec-depistage.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 219,
