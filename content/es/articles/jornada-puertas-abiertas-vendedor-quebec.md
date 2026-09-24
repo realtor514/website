@@ -6,7 +6,7 @@ translationKey: "article-visite-libre-vendeur"
 category: "Guía del Vendedor"
 description: "Visita libre en Quebec: lo que la OACIQ exige al corredor, lo que el vendedor guarda, lo que cubre el seguro de hogar y lo que nunca hay que decir a un visitante."
 image: "images/articles/visite-libre-vendeur-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Un domingo por la tarde, desconocidos circulan por su casa, abren las puertas

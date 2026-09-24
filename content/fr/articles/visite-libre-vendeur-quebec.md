@@ -6,7 +6,7 @@ translationKey: "article-visite-libre-vendeur"
 category: "Guide du vendeur"
 description: "Visite libre au Québec: ce que l'OACIQ exige du courtier, ce que le vendeur range, ce que l'assurance couvre et ce qu'il ne faut jamais dire."
 image: "images/articles/visite-libre-vendeur-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Un dimanche après-midi, des inconnus circulent dans votre maison, ouvrent vos

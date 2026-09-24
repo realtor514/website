@@ -40,7 +40,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Acheter une construction neuve au Québec : ce que la brochure ne vous dit pas](/articles/new-construction-guide-quebec/) : Garantie GCR, dédit de 10 jours, inspection préréception, retards, TPS et TVQ, frais de condo : ce qu'il 
 - [Acheter une maison centenaire à Montréal: ce qui change](/articles/acheter-maison-centenaire-quebec/) : Fondation, charpente, bouton et tube, plomberie galvanisée, pare-vapeur, fenêtres: ce qui diffère vraimen
 - [Acheter une maison en hiver au Québec: les angles morts](/articles/acheter-maison-hiver-montreal/) : Moins d'acheteurs en janvier, mais moins de choix aussi. Ce que l'hiver révèle d'une maison, ce que la ne
-- [Acheter une maison sans visiter au Québec](/articles/acheter-sans-visiter-visite-virtuelle-quebec/) (brouillon) : Visite virtuelle, inspection filmée, conditions de la promesse d'achat, procuration et signature à distan
+- [Acheter une maison sans visiter au Québec](/articles/acheter-sans-visiter-visite-virtuelle-quebec/) : Visite virtuelle, inspection filmée, conditions de la promesse d'achat, procuration et signature à distan
 - [Acheter une maison seul au Québec: les vrais leviers](/articles/acheter-seul-un-revenu-quebec/) : Acheter une maison seul au Québec: ABD, ATD, test de résistance, mise de fonds par paliers, CELIAPP, RAP 
 - [Acheter une reprise de finance au Québec: les règles](/articles/acheter-reprise-de-finance-quebec/) : Préavis d'exercice, délai de 60 jours, prise en paiement ou vente sous contrôle de justice: ce que vous a
 - [Acheter à Laval : les six secteurs, le transport, les taxes et les vérifications](/articles/acheter-laval-2025/) : Six secteurs, métro, REM et SRB, droits de mutation à 3 % au-delà de 500 000 $, rôle d'évaluation, zones 
@@ -91,7 +91,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Vendre avec ou sans courtier au Québec: la comparaison honnête](/articles/vendre-avec-ou-sans-courtier-quebec/) : C'est la question numéro un des vendeurs québécois. Voici les vrais chiffres, ce que vous économisez réel
 - [Vendre la maison familiale et passer à plus petit : guide pour les aînés du Grand Montréal](/articles/senior-downsizing-guide/) : Condo, logement, RPA ou rester chez soi : ce que la vente de la maison familiale libère vraiment, l'impôt
 - [Vendre ou garder sa maison au Québec: vos signaux](/articles/garder-ou-vendre-signaux-quebec/) : Taille du ménage, mutation, renouvellement, entretien, mobilité, attachement: les six signaux personnels 
-- [Visite libre: ce que le vendeur doit contrôler](/articles/visite-libre-vendeur-quebec/) (brouillon) : Visite libre au Québec: ce que l'OACIQ exige du courtier, ce que le vendeur range, ce que l'assurance cou
+- [Visite libre: ce que le vendeur doit contrôler](/articles/visite-libre-vendeur-quebec/) : Visite libre au Québec: ce que l'OACIQ exige du courtier, ce que le vendeur range, ce que l'assurance cou
 - [Vos rénovations n'ajouteront pas ce que vous pensez à la valeur de votre maison](/articles/renovations-dont-add-value/) : Ce qui se récupère avant une vente et ce qui ne se récupère pas, puis les règles québécoises : Déclaratio
 
 ## Guide pratique

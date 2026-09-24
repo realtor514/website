@@ -6,7 +6,7 @@ translationKey: "article-visite-libre-vendeur"
 category: "Seller's Guide"
 description: "Open house in Quebec: what the OACIQ requires of the broker, what the seller puts away, what home insurance covers, and what you should never say to a visitor."
 image: "images/articles/visite-libre-vendeur-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 On a Sunday afternoon, strangers walk through your house, open your cupboard

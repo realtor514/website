@@ -7,7 +7,7 @@ category: "Guide de l'acheteur"
 description: "Visite virtuelle, inspection filmée, conditions de la promesse d'achat, procuration et signature à distance : acheter sans visiter au Québec."
 image: "images/articles/acheter-sans-visiter-visite-virtuelle-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Vous êtes à Beyrouth, à Bogota ou à Calgary, et la propriété qui vous intéresse

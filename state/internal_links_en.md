@@ -16,7 +16,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Buying a Century Old Home in Montreal: What Changes](/en/articles/buying-century-old-home-quebec/) : Foundation, period framing, knob and tube, galvanized plumbing, vapour barrier, windows: what actually di
 - [Buying a Foreclosure in Quebec: The Rules That Apply](/en/articles/buying-foreclosure-quebec/) : Prior notice of exercise, the 60 day period, taking in payment or sale under judicial authority: what you
 - [Buying a Home Alone in Quebec: The Real Levers](/en/articles/buying-alone-one-income-quebec/) : Buying a home alone in Quebec: GDS, TDS, the stress test, tiered down payments, CELIAPP, RAP and APCIQ's 
-- [Buying a Home in Quebec Without Visiting It](/en/articles/buying-without-visiting-quebec/) (brouillon) : Virtual tour, filmed inspection, promesse d'achat conditions, procuration and signing at a distance: buyi
+- [Buying a Home in Quebec Without Visiting It](/en/articles/buying-without-visiting-quebec/) : Virtual tour, filmed inspection, promesse d'achat conditions, procuration and signing at a distance: buyi
 - [Buying a Home in Winter in Quebec: The Blind Spots](/en/articles/buying-home-winter-montreal/) : Fewer buyers in January, but fewer choices too. What winter reveals about a house, what the snow hides, a
 - [Buying an Old or Heritage Building in Montreal: What Actually Changes](/en/articles/heritage-property-montreal/) : Classified, cited or inside a heritage site: the permits needed before work, restoration grants, inspecti
 - [Buying in Laval: The Six Sectors, the Transit, the Taxes and the Checks](/en/articles/buying-in-laval-2025/) : The six sectors, the metro, REM and BRT, transfer duties at 3% above $500,000, the assessment roll and th
@@ -128,7 +128,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Keep or Sell a Property in Quebec: Five Cases](/en/articles/keep-or-sell-property-quebec/) : Renewal, deferred maintenance, a vacant dwelling, an estate, a special assessment: five cases where keepi
 - [Listing Exposure on Centris in Quebec: The Rules](/en/articles/listing-exposure-centris-advertising-quebec/) : Centris, fiche descriptive, photos, a price change, a withdrawal: what the exposure of a Quebec listing a
 - [My House Is Not Selling in Quebec: The Honest Diagnosis](/en/articles/home-not-selling-quebec/) : Few showings, no promises to purchase, or offers that collapse: the symptom points to the cause. An hones
-- [Open House in Quebec: What the Seller Has to Control](/en/articles/open-house-seller-risks-quebec/) (brouillon) : Open house in Quebec: what the OACIQ requires of the broker, what the seller puts away, what home insuran
+- [Open House in Quebec: What the Seller Has to Control](/en/articles/open-house-seller-risks-quebec/) : Open house in Quebec: what the OACIQ requires of the broker, what the seller puts away, what home insuran
 - [Preparing a Property for Sale: The Method, and the Ethical Line](/en/articles/home-staging-client-story/) : Decluttering, deferred maintenance, photos, order of steps: the method before listing, and why preparatio
 - [Real Estate Comparables: Auditing Your Neighbour's Price](/en/articles/real-estate-comparables-quebec/) : Four criteria, measured living area, adjustments, conditions of sale: how to audit the real estate compar
 - [Sell or Keep Your Home in Quebec: Your Own Six Signals](/en/articles/signs-it-is-time-to-sell-quebec/) : Household size, a job elsewhere, renewal, maintenance, mobility, attachment: the six personal signals tha

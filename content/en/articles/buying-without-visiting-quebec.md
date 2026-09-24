@@ -7,7 +7,7 @@ category: "Buyer's Guide"
 description: "Virtual tour, filmed inspection, promesse d'achat conditions, procuration and signing at a distance: buying a home in Quebec without visiting it."
 image: "images/articles/acheter-sans-visiter-visite-virtuelle-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 You are in Beirut, in Bogota or in Calgary, and the property you want is in
