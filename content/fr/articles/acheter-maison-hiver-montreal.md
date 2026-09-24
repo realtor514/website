@@ -6,7 +6,7 @@ translationKey: "article-acheter-hiver"
 category: "Guide de l'acheteur"
 description: "Moins d'acheteurs en janvier, mais moins de choix aussi. Ce que l'hiver révèle d'une maison, ce que la neige cache, et les clauses qui compensent."
 image: "images/articles/acheter-maison-hiver-montreal/featured.jpg"
-draft: true
+draft: false
 ---
 
 En janvier 2026, dans la région métropolitaine de Montréal, l'APCIQ a compté 2 364 ventes résidentielles, le mois le plus creux de son année. Il y avait donc moins d'acheteurs en face de vous. Il y avait aussi moins de maisons affichées, et une bonne partie de chacune était sous la neige. Voici ce que l'hiver vous donne, ce qu'il vous cache, et comment compenser les deux.

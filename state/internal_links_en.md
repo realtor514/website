@@ -15,7 +15,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Buying Vacant Land in Quebec: The Checks to Make First](/en/articles/buying-vacant-land-quebec/) : Zoning, CPTAQ, wetlands, well and septic system, servitudes, financing: the checks to make before buying 
 - [Buying a Foreclosure in Quebec: The Rules That Apply](/en/articles/buying-foreclosure-quebec/) : Prior notice of exercise, the 60 day period, taking in payment or sale under judicial authority: what you
 - [Buying a Home Alone in Quebec: The Real Levers](/en/articles/buying-alone-one-income-quebec/) : Buying a home alone in Quebec: GDS, TDS, the stress test, tiered down payments, CELIAPP, RAP and APCIQ's 
-- [Buying a Home in Winter in Quebec: The Blind Spots](/en/articles/buying-home-winter-montreal/) (brouillon) : Fewer buyers in January, but fewer choices too. What winter reveals about a house, what the snow hides, a
+- [Buying a Home in Winter in Quebec: The Blind Spots](/en/articles/buying-home-winter-montreal/) : Fewer buyers in January, but fewer choices too. What winter reveals about a house, what the snow hides, a
 - [Buying an Old or Heritage Building in Montreal: What Actually Changes](/en/articles/heritage-property-montreal/) : Classified, cited or inside a heritage site: the permits needed before work, restoration grants, inspecti
 - [Buying in Laval: The Six Sectors, the Transit, the Taxes and the Checks](/en/articles/buying-in-laval-2025/) : The six sectors, the metro, REM and BRT, transfer duties at 3% above $500,000, the assessment roll and th
 - [Buying in a Flood Zone in Quebec: The Checks to Make First](/en/articles/buying-in-flood-zone-quebec/) : Buying in a flood zone in Quebec: the new framework, what the map decides, insurance, the lender, and the

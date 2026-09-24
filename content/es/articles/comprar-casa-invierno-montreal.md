@@ -6,7 +6,7 @@ translationKey: "article-acheter-hiver"
 category: "Guía del Comprador"
 description: "Menos compradores en enero, pero también menos opciones. Lo que el invierno revela de una casa, lo que la nieve esconde y las cláusulas que compensan."
 image: "images/articles/acheter-maison-hiver-montreal/featured.jpg"
-draft: true
+draft: false
 ---
 
 En enero de 2026, en la región metropolitana de Montréal, la APCIQ contó 2 364 ventas residenciales, el mes más bajo de su año. Había, pues, menos compradores frente a usted. También había menos casas a la venta, y buena parte de cada una estaba bajo la nieve. Esto es lo que el invierno le da, lo que le esconde y cómo compensar ambas cosas.

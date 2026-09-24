@@ -6,7 +6,7 @@ translationKey: "article-acheter-hiver"
 category: "Buyer's Guide"
 description: "Fewer buyers in January, but fewer choices too. What winter reveals about a house, what the snow hides, and the clauses that make up the difference."
 image: "images/articles/acheter-maison-hiver-montreal/featured.jpg"
-draft: true
+draft: false
 ---
 
 In January 2026, in the Montreal metropolitan area, APCIQ counted 2,364 residential sales, the thinnest month of its year. So there were fewer buyers standing beside you. There were also fewer houses listed, and a good part of each one was under snow. Here is what winter gives you, what it hides from you, and how to compensate for both.
