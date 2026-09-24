@@ -7,7 +7,7 @@ category: "Guía práctica"
 description: "Licencia RBQ y sous-catégories, contrato, retención, hipoteca legal: cómo elegir un contratista de renovación en Quebec sin pagar dos veces la misma obra."
 image: "images/articles/choisir-entrepreneur-renovation-rbq-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un número de licencia pintado en una camioneta no prueba nada mientras usted mismo

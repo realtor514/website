@@ -32,7 +32,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Comprar en zona inundable en Quebec: las verificaciones](/es/articles/comprar-zona-inundable-quebec/) : Comprar en zona inundable en Quebec: el nuevo marco, lo que decide el mapa, el seguro, el prestamista y l
 - [Comprar entre varios en Quebec: la indivisión, el convenio y lo que la ley decide por usted](/es/articles/buying-property-with-family/) : Indivisión, convenio notarial, solidaridad ante el prestamista, donación de los padres, ruptura o falleci
 - [Comprar un inmueble antiguo o patrimonial en Montreal: lo que cambia de verdad](/es/articles/heritage-property-montreal/) : Clasificado, citado o dentro de un sitio patrimonial: autorizaciones antes de obrar, ayudas a la restaura
-- [Comprar una casa solo en Quebec: las verdaderas palancas](/es/articles/comprar-solo-un-ingreso-quebec/) (brouillon) : Comprar una casa solo en Quebec: ABD, ATD, prueba de resistencia, pago inicial por tramos, CELIAPP, RAP y
+- [Comprar una casa solo en Quebec: las verdaderas palancas](/es/articles/comprar-solo-un-ingreso-quebec/) : Comprar una casa solo en Quebec: ABD, ATD, prueba de resistencia, pago inicial por tramos, CELIAPP, RAP y
 - [Comprar una construcción nueva en Quebec: lo que el folleto no le dice](/es/articles/new-construction-guide-quebec/) : Garantía GCR, derecho a retractarse en 10 días, inspección préréception, retrasos, GST y QST, cuotas de c
 - [Comprar una propiedad embargada en Quebec: las reglas](/es/articles/comprar-propiedad-embargada-quebec/) : Preaviso de ejercicio, plazo de 60 días, toma en pago o venta bajo control judicial: lo que usted acepta 
 - [Condominio o casa en Montréal: qué compra usted realmente](/es/articles/condo-vs-house-montreal/) : Fracción, partes comunes, declaración de copropiedad, seguros, votos en asamblea y capacidad de endeudami
@@ -60,6 +60,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Su primera visita a una propiedad: qué revisar antes de enamorarse](/es/articles/first-visit-property-checklist/) : Documentos que pedir, qué mirar afuera y adentro, pirita, tanque de mazout, cableado de aluminio, plomo: 
 - [Su promesa de compra fue rechazada: el método para no pagar de más la próxima vez](/es/articles/losing-bidding-war-lessons/) : Qué ocurre jurídicamente cuando rechazan su oferta en Quebec, el análisis posterior en cuatro preguntas y
 - [Venta sin garantía legal en Quebec: qué cambia realmente](/es/articles/venta-sin-garantia-legal-quebec/) : Venta sin garantía legal en Quebec: qué le quita la cláusula, qué no puede borrar y qué debe exigir un co
+- [Vermiculite y amianto en una vivienda en Quebec](/es/articles/vermiculita-amianto-vivienda-quebec/) : Vermiculite y amiante en una vivienda en Quebec: por qué solo el análisis de una muestra decide, qué exig
 
 ## Guía del Vendedor
 - [Comparables inmobiliarios: cómo auditar el precio del vecino](/es/articles/comparables-precio-casa-quebec/) : Cuatro criterios, superficie medida, ajustes y condiciones de venta: cómo auditar los comparables inmobil
@@ -79,7 +80,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Guía práctica
 - [Costo de mantenimiento de una casa en Quebec: el calendario de reemplazo](/es/articles/costo-mantenimiento-casa-quebec/) : Vida útil por componente, efecto del clima, reserva anual: cuánto cuesta mantener una casa en Quebec y, s
 - [Cómo reducir su factura de calefacción en Quebec: por dónde empezar](/es/articles/reducir-factura-calefaccion-quebec/) : Tarifa D, tramo de 40 kWh, aislamiento, bomba de calor y ayudas 2026: cómo reducir su factura de calefacc
-- [Elegir un contratista de renovación en Quebec](/es/articles/elegir-contratista-renovacion-quebec/) (brouillon) : Licencia RBQ y sous-catégories, contrato, retención, hipoteca legal: cómo elegir un contratista de renova
+- [Elegir un contratista de renovación en Quebec](/es/articles/elegir-contratista-renovacion-quebec/) : Licencia RBQ y sous-catégories, contrato, retención, hipoteca legal: cómo elegir un contratista de renova
 - [Mudarse en Montreal o Laval: la lista completa, plazo por plazo](/es/articles/moving-checklist-montreal/) : Avisos de arrendamiento, cesión, cambio de dirección, Hydro-Québec, permisos de camión y ecocentros: la l
 - [Reglamento de piscinas residenciales en Quebec: el plazo del 30 de septiembre de 2027](/es/articles/reglamento-piscinas-quebec/) : Reglamento de piscinas residenciales en Quebec: cercado, puerta, escalera, permiso, multa y el 30 de sept
 - [Talar un árbol en Quebec: el reglamento y de quién es el árbol](/es/articles/arboles-propiedad-reglamentos-quebec/) : De quién es el árbol, qué permite el Code civil entre vecinos, el permiso de tala en Montreal y en Laval,
@@ -112,7 +113,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Invertir en Laval: lo que hay que verificar antes de comprometerse](/es/articles/laval-investment-city/) : Zonificación y código de urbanismo, viviendas no conformes, reglas del TAL, pago inicial según el número 
 - [Plex de ingresos en Montreal y Laval: la guía honesta para principiantes](/es/articles/income-property-beginners/) : Vivir en él o alquilarlo todo, pago inicial, cálculo real del flujo de caja, reglas del TAL en 2026, comp
 - [Plex o condominio en Montréal: dos compromisos, no una clasificación](/es/articles/triplex-vs-condo-montreal/) : Aportación inicial, tratamiento de los alquileres, reglas del TAL y fiscalidad del alquiler: lo que cada 
-- [Propietario ocupante de un plex en Quebec: la recuperación de la vivienda](/es/articles/plex-ocupado-propietario-quebec/) (brouillon) : Propietario ocupante de un plex en Quebec: quién puede recuperar una vivienda, los plazos del aviso, la i
+- [Propietario ocupante de un plex en Quebec: la recuperación de la vivienda](/es/articles/plex-ocupado-propietario-quebec/) : Propietario ocupante de un plex en Quebec: quién puede recuperar una vivienda, los plazos del aviso, la i
 
 ## Pages outils et conversion
 

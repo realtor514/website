@@ -33,7 +33,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Acheter en zone inondable au Québec : les vérifications](/articles/acheter-zone-inondable-quebec/) : Acheter en zone inondable au Québec : le nouveau cadre, ce que la carte décide, l'assurance, le prêteur e
 - [Acheter un immeuble ancien ou patrimonial : ce qui change vraiment](/articles/heritage-property-montreal/) : Immeuble classé, cité ou situé dans un site patrimonial : autorisations avant travaux, aide à la restaura
 - [Acheter une construction neuve au Québec : ce que la brochure ne vous dit pas](/articles/new-construction-guide-quebec/) : Garantie GCR, dédit de 10 jours, inspection préréception, retards, TPS et TVQ, frais de condo : ce qu'il 
-- [Acheter une maison seul au Québec: les vrais leviers](/articles/acheter-seul-un-revenu-quebec/) (brouillon) : Acheter une maison seul au Québec: ABD, ATD, test de résistance, mise de fonds par paliers, CELIAPP, RAP 
+- [Acheter une maison seul au Québec: les vrais leviers](/articles/acheter-seul-un-revenu-quebec/) : Acheter une maison seul au Québec: ABD, ATD, test de résistance, mise de fonds par paliers, CELIAPP, RAP 
 - [Acheter une reprise de finance au Québec: les règles](/articles/acheter-reprise-de-finance-quebec/) : Préavis d'exercice, délai de 60 jours, prise en paiement ou vente sous contrôle de justice: ce que vous a
 - [Acheter à Laval : les six secteurs, le transport, les taxes et les vérifications](/articles/acheter-laval-2025/) : Six secteurs, métro, REM et SRB, droits de mutation à 3 % au-delà de 500 000 $, rôle d'évaluation, zones 
 - [Acheter à plusieurs au Québec : l'indivision, la convention, et ce que la loi décide à votre place](/articles/buying-property-with-family/) : Indivision, convention notariée, solidarité envers le prêteur, don parental, rupture ou décès : le cadre 
@@ -59,7 +59,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Taxe de bienvenue au Québec: combien, quand, et qui la paie](/articles/taxe-de-bienvenue-quebec/) : Les droits de mutation surprennent chaque année des milliers d'acheteurs québécois, parce que la facture 
 - [Vente sans garantie légale au Québec : ce que ça change](/articles/vente-sans-garantie-legale-quebec/) : Vente sans garantie légale au Québec : ce que la clause enlève, ce qu'elle ne peut pas effacer, et ce qu'
 - [Ventre de bœuf dans un drain à Montréal : quoi vérifier](/articles/ventre-de-boeuf-drain-montreal/) : Ventre de bœuf dans le drain à Montréal : inspection par caméra, responsabilité de la Ville, subvention p
-- [Vermiculite et amiante dans une maison au Québec](/articles/amiante-vermiculite-maison-quebec/) (brouillon) : Vermiculite et amiante dans une maison au Québec: pourquoi seule l'analyse d'un échantillon tranche, ce q
+- [Vermiculite et amiante dans une maison au Québec](/articles/amiante-vermiculite-maison-quebec/) : Vermiculite et amiante dans une maison au Québec: pourquoi seule l'analyse d'un échantillon tranche, ce q
 - [Visite libre : le courtier à la porte travaille pour le vendeur](/articles/open-house-secrets/) : À une visite libre, le courtier présent représente le vendeur. Traitement équitable, double représentatio
 - [Votre cote de crédit bloque silencieusement votre maison de rêve (et comment y remédier)](/articles/credit-score-home-buying-quebec/) : Le minimum de 600 exigé pour un prêt assuré, les cinq facteurs qui font votre cote, ce qui se corrige en 
 - [École de quartier, bassin scolaire et taxe scolaire : ce qu'une adresse détermine vraiment](/articles/school-districts-property-values/) : Bassin scolaire, choix d'école, programmes à sélection, taxe scolaire 2026-2027 : ce qu'une adresse décid
@@ -81,11 +81,12 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 ## Guide pratique
 - [Abattage d'arbre au Québec : le règlement et la propriété](/articles/arbres-propriete-reglements-quebec/) : À qui appartient l'arbre, ce que le Code civil permet entre voisins, le permis d'abattage à Montréal et à
-- [Choisir un entrepreneur en rénovation au Québec](/articles/choisir-entrepreneur-renovation-rbq-quebec/) (brouillon) : Licence RBQ et sous-catégories, contrat, retenue, hypothèque légale: choisir un entrepreneur en rénovatio
+- [Choisir un entrepreneur en rénovation au Québec](/articles/choisir-entrepreneur-renovation-rbq-quebec/) : Licence RBQ et sous-catégories, contrat, retenue, hypothèque légale: choisir un entrepreneur en rénovatio
 - [Coût d'entretien d'une maison au Québec : le calendrier](/articles/cout-entretien-maison-quebec/) : Durées de vie par composant, effet du climat, réserve annuelle : le coût d'entretien d'une maison au Québ
 - [Déménager à Montréal ou à Laval : la liste complète, échéance par échéance](/articles/moving-checklist-montreal/) : Avis de bail, cession, changement d'adresse, Hydro-Québec, permis de camion, écocentres : la liste de dém
 - [Règlement piscine résidentielle Québec: l'échéance 2027](/articles/reglement-piscine-securite-quebec/) : Règlement piscine résidentielle au Québec: enceinte, porte, échelle, permis, amende, et le 30 septembre 2
 - [Réduire sa facture de chauffage au Québec: par où commencer](/articles/reduire-facture-chauffage-quebec/) : Tarif D, tranche de 40 kWh, isolation, thermopompe et aides 2026: comment réduire sa facture de chauffage
+- [Test de radon dans une maison au Québec : le calendrier](/articles/radon-maison-quebec-depistage/) (brouillon) : Ligne directrice de 200 Bq/m³, test de trois mois en saison de chauffage, clause 3.21 et déclaration du v
 
 ## Immobilier 101
 - [5 questions à poser avant d'engager un courtier immobilier](/articles/questions-hire-broker/) : La plupart des gens choisissent un courtier sur une recommandation ou une pancarte. Voici les cinq questi
@@ -115,7 +116,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Location court terme au Québec: les règles avant d'acheter](/articles/location-court-terme-quebec-regles/) : Numéro d'enregistrement, zonage de Montréal et de Laval, déclaration de copropriété: les règles de la loc
 - [Plex ou copropriété à Montréal : deux engagements, pas un classement](/articles/triplex-vs-condo-montreal/) : Mise de fonds, prise en compte des loyers, encadrement du TAL, fiscalité de la location : ce que chacun d
 - [Plex à revenus à Montréal et Laval : le guide honnête pour débutants](/articles/income-property-beginners/) : Occuper ou louer, mise de fonds, vrai calcul du flux de trésorerie, règles du TAL en 2026, achat avec loc
-- [Propriétaire occupant d'un plex au Québec : la reprise](/articles/proprietaire-occupant-plex-reprise/) (brouillon) : Propriétaire occupant d'un plex au Québec : qui peut reprendre un logement, les délais d'avis, l'indemnit
+- [Propriétaire occupant d'un plex au Québec : la reprise](/articles/proprietaire-occupant-plex-reprise/) : Propriétaire occupant d'un plex au Québec : qui peut reprendre un logement, les délais d'avis, l'indemnit
 
 ## Pages outils et conversion
 

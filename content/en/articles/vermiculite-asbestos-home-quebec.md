@@ -7,7 +7,7 @@ category: "Buyer's Guide"
 description: "Vermiculite and amiante in a Quebec home: why only the analysis of a sample settles it, what the law requires before work starts, and what gets declared."
 image: "images/articles/amiante-vermiculite-maison-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Grey-brown granules with a faint sheen, poured loose between the attic joists:

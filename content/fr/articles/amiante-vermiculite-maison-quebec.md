@@ -7,7 +7,7 @@ category: "Guide de l'acheteur"
 description: "Vermiculite et amiante dans une maison au Québec: pourquoi seule l'analyse d'un échantillon tranche, ce que la loi exige avant travaux, ce qui se déclare."
 image: "images/articles/amiante-vermiculite-maison-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Des granules gris-brun qui brillent un peu, versées en vrac entre les solives du

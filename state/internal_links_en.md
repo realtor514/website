@@ -13,7 +13,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Buying New Construction in Quebec: What the Brochure Doesn't Tell You](/en/articles/new-construction-guide-quebec/) : The GCR warranty, your 10-day withdrawal right, the pre-acceptance inspection, delays, GST and QST, condo
 - [Buying Property Together in Quebec: Undivided Co-Ownership, the Agreement, and What the Law Decides for You](/en/articles/buying-property-with-family/) : Undivided co-ownership, the notarial agreement, solidary liability to the lender, parental gifts, breakup
 - [Buying a Foreclosure in Quebec: The Rules That Apply](/en/articles/buying-foreclosure-quebec/) : Prior notice of exercise, the 60 day period, taking in payment or sale under judicial authority: what you
-- [Buying a Home Alone in Quebec: The Real Levers](/en/articles/buying-alone-one-income-quebec/) (brouillon) : Buying a home alone in Quebec: GDS, TDS, the stress test, tiered down payments, CELIAPP, RAP and APCIQ's 
+- [Buying a Home Alone in Quebec: The Real Levers](/en/articles/buying-alone-one-income-quebec/) : Buying a home alone in Quebec: GDS, TDS, the stress test, tiered down payments, CELIAPP, RAP and APCIQ's 
 - [Buying an Old or Heritage Building in Montreal: What Actually Changes](/en/articles/heritage-property-montreal/) : Classified, cited or inside a heritage site: the permits needed before work, restoration grants, inspecti
 - [Buying in Laval: The Six Sectors, the Transit, the Taxes and the Checks](/en/articles/buying-in-laval-2025/) : The six sectors, the metro, REM and BRT, transfer duties at 3% above $500,000, the assessment roll and th
 - [Buying in a Flood Zone in Quebec: The Checks to Make First](/en/articles/buying-in-flood-zone-quebec/) : Buying in a flood zone in Quebec: the new framework, what the map decides, insurance, the lender, and the
@@ -34,7 +34,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [The Hidden Costs of Homeownership Nobody Puts in the Brochure](/en/articles/hidden-homeownership-costs/) : Taxes, notary, condo fees, insurance, maintenance: what owning a property in Quebec really costs, using t
 - [The Home Inspection Checklist: What Gets Checked, Item by Item](/en/articles/home-inspection-checklist-montreal/) : Roof, foundation, drain, plumbing, wiring, pyrite, vermiculite, lead, radon: what a Quebec inspector actu
 - [The Real Cost of Buying Your First Home in Quebec](/en/articles/vrai-cout-achat-premiere-maison-quebec/) : Everyone talks about the purchase price. Nobody tells you about what comes after. Here is the complete co
-- [Vermiculite and Asbestos in a Quebec Home](/en/articles/vermiculite-asbestos-home-quebec/) (brouillon) : Vermiculite and amiante in a Quebec home: why only the analysis of a sample settles it, what the law requ
+- [Vermiculite and Asbestos in a Quebec Home](/en/articles/vermiculite-asbestos-home-quebec/) : Vermiculite and amiante in a Quebec home: why only the analysis of a sample settles it, what the law requ
 - [Walking Away: Seven Red Flags You Can Verify on Paper](/en/articles/red-flags-walk-away-property/) : Seller's declarations, sale at your own risk, a stale certificate of location, contingency fund, zoning, 
 - [Welcome Tax in Quebec: How Much, When, and Who Pays It](/en/articles/welcome-tax-quebec-guide/) : Transfer duties catch thousands of Quebec buyers off guard every year, because the bill arrives months af
 - [Your Credit Score Is Quietly Blocking Your Dream Home (and How to Fix It)](/en/articles/credit-score-home-buying-quebec/) : The 600 minimum required for an insured mortgage, the five factors behind your score, what you can fix in
@@ -69,7 +69,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Income Plexes in Montreal and Laval: An Honest Beginner's Guide](/en/articles/income-property-beginners/) : Live in it or rent it all out, down payment, real cash flow math, the 2026 TAL rules, buying with tenants
 - [Investing in Laval: What to Verify Before You Commit](/en/articles/laval-investment-city/) : Zoning and the new planning code, non-conforming units, TAL rent control, down payment by unit count and 
 - [Managing Rental Properties in Montreal and Laval: What First-Time Landlords Need to Know](/en/articles/rental-property-management/) : Section G, tenant screening, the banned security deposit, rent increases, repossession, eviction and taxe
-- [Owner Occupied Plex in Quebec: Repossessing a Dwelling](/en/articles/owner-occupied-plex-repossession-quebec/) (brouillon) : Owner occupied plex in Quebec: who may repossess a dwelling, the notice deadlines, the indemnity and the 
+- [Owner Occupied Plex in Quebec: Repossessing a Dwelling](/en/articles/owner-occupied-plex-repossession-quebec/) : Owner occupied plex in Quebec: who may repossess a dwelling, the notice deadlines, the indemnity and the 
 - [Plex or Condo in Montreal: Two Commitments, Not a Ranking](/en/articles/triplex-vs-condo-montreal/) : Down payment, how lenders treat rent, the Tribunal's rent-setting rules and rental taxation: what each of
 - [Short Term Rentals in Quebec: The Rules to Check Before You Buy](/en/articles/short-term-rental-rules-quebec/) : Registration number, Montreal and Laval zoning, declaration of co-ownership: the short term rental rules 
 
@@ -80,7 +80,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Talking About a Montreal Housing Crash: What the Data Lets You Say](/en/articles/montreal-market-crash-analysis/) : Sales, active listings, median prices and days on market: what public APCIQ, ISQ and Statistics Canada da
 
 ## Practical Guide
-- [Choosing a Renovation Contractor in Quebec](/en/articles/choosing-renovation-contractor-quebec/) (brouillon) : RBQ licence and sous-catégories, the contract, the holdback, the legal hypothec: how to choose a renovati
+- [Choosing a Renovation Contractor in Quebec](/en/articles/choosing-renovation-contractor-quebec/) : RBQ licence and sous-catégories, the contract, the holdback, the legal hypothec: how to choose a renovati
 - [Cutting Down a Tree in Quebec: The By-law and Who Owns the Tree](/en/articles/trees-property-rules-quebec/) : Who owns the tree, what the Code civil allows between neighbours, the felling permit in Montreal and Lava
 - [Home Maintenance Costs in Quebec: The Replacement Calendar](/en/articles/home-maintenance-cost-quebec/) : Service life by component, what the climate adds, how to size the annual reserve: what home maintenance r
 - [How to Cut Your Heating Bill in Quebec: Where to Start](/en/articles/reduce-heating-bill-quebec/) : Rate D, the 40 kWh tier, insulation, heat pumps and 2026 grants: how to reduce your heating bill in Quebe

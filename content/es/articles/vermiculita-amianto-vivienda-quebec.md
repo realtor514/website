@@ -7,7 +7,7 @@ category: "Guía del Comprador"
 description: "Vermiculite y amiante en una vivienda en Quebec: por qué solo el análisis de una muestra decide, qué exige la ley antes de las obras y qué se declara."
 image: "images/articles/amiante-vermiculite-maison-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Gránulos gris pardo que brillan un poco, vertidos a granel entre las vigas del

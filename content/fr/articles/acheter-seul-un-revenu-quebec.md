@@ -7,7 +7,7 @@ category: "Guide de l'acheteur"
 description: "Acheter une maison seul au Québec: ABD, ATD, test de résistance, mise de fonds par paliers, CELIAPP, RAP et médianes APCIQ d'août 2026."
 image: "images/articles/acheter-seul-un-revenu-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un prêteur ne demande jamais si vous achetez seul. Il demande deux ratios, applique un taux de qualification plus élevé que celui de votre contrat, et calcule avec les revenus inscrits au dossier. Quand il n'y en a qu'un, aucun de ces tests ne s'assouplit. Ce sont les leviers autour du calcul qui changent.

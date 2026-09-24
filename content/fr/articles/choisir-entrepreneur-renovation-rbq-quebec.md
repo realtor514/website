@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Licence RBQ et sous-catégories, contrat, retenue, hypothèque légale: choisir un entrepreneur en rénovation au Québec sans payer deux fois."
 image: "images/articles/choisir-entrepreneur-renovation-rbq-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un numéro de licence sur un camion ne prouve rien tant que vous ne l'avez pas

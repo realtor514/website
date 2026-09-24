@@ -7,7 +7,7 @@ category: "Practical Guide"
 description: "RBQ licence and sous-catégories, the contract, the holdback, the legal hypothec: how to choose a renovation contractor in Quebec without paying for the same work twice."
 image: "images/articles/choisir-entrepreneur-renovation-rbq-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 A licence number painted on a truck proves nothing until you have looked it up

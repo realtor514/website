@@ -7,7 +7,7 @@ category: "Buyer's Guide"
 description: "Buying a home alone in Quebec: GDS, TDS, the stress test, tiered down payments, CELIAPP, RAP and APCIQ's August 2026 medians."
 image: "images/articles/acheter-seul-un-revenu-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 A lender never asks whether you are buying alone. It asks for two ratios, applies a qualifying rate higher than the one in your contract, and calculates with the income on file. When there is only one income, none of those tests loosens. What changes are the levers around the calculation.

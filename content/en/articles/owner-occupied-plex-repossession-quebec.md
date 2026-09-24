@@ -7,7 +7,7 @@ category: "Investment"
 description: "Owner occupied plex in Quebec: who may repossess a dwelling, the notice deadlines, the indemnity and the tenants the law protects."
 image: "images/articles/proprietaire-occupant-plex-reprise/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 You are buying a duplex or a triplex in Montreal or Laval to live in it. The

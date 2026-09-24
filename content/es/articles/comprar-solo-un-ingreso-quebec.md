@@ -7,7 +7,7 @@ category: "Guía del Comprador"
 description: "Comprar una casa solo en Quebec: ABD, ATD, prueba de resistencia, pago inicial por tramos, CELIAPP, RAP y las medianas de la APCIQ de agosto de 2026."
 image: "images/articles/acheter-seul-un-revenu-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un prestamista nunca pregunta si usted compra solo. Pide dos razones, aplica una tasa de calificación más alta que la de su contrato y calcula con los ingresos que constan en el expediente. Cuando solo hay uno, ninguna de esas pruebas se relaja. Lo que cambia son las palancas alrededor del cálculo.

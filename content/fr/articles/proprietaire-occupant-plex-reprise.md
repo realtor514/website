@@ -7,7 +7,7 @@ category: "Investissement"
 description: "Propriétaire occupant d'un plex au Québec : qui peut reprendre un logement, les délais d'avis, l'indemnité et les locataires protégés."
 image: "images/articles/proprietaire-occupant-plex-reprise/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Vous achetez un duplex ou un triplex à Montréal ou à Laval pour y habiter. Les

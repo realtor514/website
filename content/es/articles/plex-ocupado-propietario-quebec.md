@@ -7,7 +7,7 @@ category: "Inversión"
 description: "Propietario ocupante de un plex en Quebec: quién puede recuperar una vivienda, los plazos del aviso, la indemnización y los inquilinos protegidos."
 image: "images/articles/proprietaire-occupant-plex-reprise/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Usted compra un dúplex o un tríplex en Montreal o en Laval para vivir en él. Las

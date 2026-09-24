@@ -7,7 +7,7 @@ category: "دليل عملي"
 description: "رخصة RBQ والفئات الفرعية، والعقد، والاحتجاز، والرهن القانوني: كيف تختار مقاول تجديد في كيبيك دون أن تدفع ثمن العمل مرتين."
 image: "images/articles/choisir-entrepreneur-renovation-rbq-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 رقم رخصة مرسوم على شاحنة لا يثبت شيئاً ما لم تبحث عنه بنفسك في سجل Régie du
