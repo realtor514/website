@@ -7,7 +7,7 @@ category: "Guide de l'acheteur"
 description: "Permis, logement additionnel, résidence principale, financement : le règlement de la maison intergénérationnelle à Laval et à Montréal."
 image: "images/articles/maison-intergenerationnelle-laval-montreal/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Vos parents vendent leur maison et veulent emménager chez vous. Vous imaginez

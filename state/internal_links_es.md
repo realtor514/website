@@ -13,6 +13,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Financiamiento
 - [Acceder a la propiedad en Quebec en 2026: lo que realmente existe para un comprador primerizo](/es/articles/everyone-deserves-homeownership/) : CELIAPP, RAP, créditos fiscales, reembolso de TPS en vivienda nueva, pago inicial mínimo y amortización a
 - [Alquilar o comprar en el Gran Montreal: el cálculo que casi todos hacen mal](/es/articles/renting-vs-buying-calculation/) : Comparar su alquiler con una cuota hipotecaria no prueba nada. Estos son los rubros que sí van lado a lad
+- [Casa Novoclimat en Quebec: qué compra realmente la certificación](/es/articles/casa-eficiente-novoclimat-quebec/) (brouillon) : Novoclimat: qué garantiza la certificación, la ayuda de 2 000 $ o 4 000 $, el reembolso Éco Plus del 25 %
 - [Copropiedad indivisa en Montréal: cómo se financia](/es/articles/copropiedad-indivisa-montreal/) : Por qué existe la indivisión en Montréal, la aportación inicial exigida, la convention d'indivision y los
 - [Cómo pagar su hipoteca más rápido en Quebec](/es/articles/pagar-hipoteca-mas-rapido-quebec/) : Pago acelerado, pago global, aumento de la cuota y renovación: las cuatro palancas para pagar su hipoteca
 - [El mito del 20 % de entrada: lo que frena a los compradores](/es/articles/down-payment-myth-debunked/) : La entrada mínima real en Quebec, lo que cuesta de verdad el seguro CMHC, el QST que hay que pagar en efe
@@ -67,6 +68,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Su promesa de compra fue rechazada: el método para no pagar de más la próxima vez](/es/articles/losing-bidding-war-lessons/) : Qué ocurre jurídicamente cuando rechazan su oferta en Quebec, el análisis posterior en cuatro preguntas y
 - [Venta sin garantía legal en Quebec: qué cambia realmente](/es/articles/venta-sin-garantia-legal-quebec/) : Venta sin garantía legal en Quebec: qué le quita la cláusula, qué no puede borrar y qué debe exigir un co
 - [Vermiculite y amianto en una vivienda en Quebec](/es/articles/vermiculita-amianto-vivienda-quebec/) : Vermiculite y amiante en una vivienda en Quebec: por qué solo el análisis de una muestra decide, qué exig
+- [Vivienda intergeneracional en Laval y Montreal: lo que dice el reglamento](/es/articles/vivienda-intergeneracional-montreal-laval/) : Permiso, logement additionnel, residencia principal y financiamiento: el reglamento de la vivienda interg
 
 ## Guía del Vendedor
 - [Comparables inmobiliarios: cómo auditar el precio del vecino](/es/articles/comparables-precio-casa-quebec/) : Cuatro criterios, superficie medida, ajustes y condiciones de venta: cómo auditar los comparables inmobil

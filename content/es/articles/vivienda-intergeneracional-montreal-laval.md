@@ -7,7 +7,7 @@ category: "Guía del Comprador"
 description: "Permiso, logement additionnel, residencia principal y financiamiento: el reglamento de la vivienda intergeneracional en Laval y en Montreal."
 image: "images/articles/maison-intergenerationnelle-laval-montreal/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Sus padres venden su casa y quieren mudarse con usted. Usted imagina una
