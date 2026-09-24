@@ -7,7 +7,7 @@ category: "Guía del Vendedor"
 description: "Centris, fiche descriptive, fotos, precio modificado, retiro: lo que implica la difusión de un anuncio inmobiliario en Quebec y las reglas que la enmarcan."
 image: "images/articles/diffusion-inscription-centris-publicite/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Usted firma el contrato de corretaje un martes por la noche. El jueves su propiedad está en línea, y descubre al mismo tiempo que todo el mundo lo que está escrito ahí. Sin embargo, casi cada línea de ese anuncio está enmarcada por un reglamento preciso. Aquí está el recorrido real de un anuncio inmobiliario, lo que el corredor debe poner en él, lo que no tiene derecho a poner, y lo que sigue visible cuando usted baja el precio o retira la propiedad.

@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Fonte des neiges et infiltration d'eau au sous-sol à Montréal: pente, margelle, toit, gouttières, avenants d'assurance et déclaration du vendeur."
 image: "images/articles/fonte-neiges-infiltration-clapet-montreal/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 En mars, la neige entassée contre une fondation fond plus vite que le sol gelé ne

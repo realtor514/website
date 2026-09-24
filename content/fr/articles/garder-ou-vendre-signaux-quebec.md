@@ -7,7 +7,7 @@ category: "Guide du vendeur"
 description: "Taille du ménage, mutation, renouvellement, entretien, mobilité, attachement: les six signaux personnels qui disent s'il faut vendre ou garder sa maison."
 image: "images/articles/garder-ou-vendre-signaux-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Personne ne vend une maison parce qu’un indice a bougé. On vend parce que quelque chose a changé chez soi: une chambre de plus ou de moins, un emploi ailleurs, une lettre du prêteur, un escalier devenu long. Voici les six signaux qui reviennent le plus souvent chez les vendeurs de Laval et de Montréal, et le document qui permet de les vérifier au lieu de les ressentir.

@@ -7,7 +7,7 @@ category: "Seller's Guide"
 description: "Household size, a job elsewhere, renewal, maintenance, mobility, attachment: the six personal signals that tell you whether to sell or keep your home in Quebec."
 image: "images/articles/garder-ou-vendre-signaux-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Nobody sells a house because an index moved. You sell because something changed at home: one bedroom more or one bedroom fewer, a job somewhere else, a letter from the lender, a staircase that has become long. Here are the six signals that come up most often with sellers in Laval and Montreal, and the document that lets you verify each one instead of just feeling it.

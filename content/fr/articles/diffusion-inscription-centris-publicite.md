@@ -7,7 +7,7 @@ category: "Guide du vendeur"
 description: "Centris, fiche descriptive, photos, prix modifié, retrait: ce que la diffusion d'une inscription au Québec implique, et les règles qui l'encadrent."
 image: "images/articles/diffusion-inscription-centris-publicite/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Vous signez le contrat de courtage un mardi soir. Le jeudi, votre propriété est en ligne, et vous découvrez en même temps que tout le monde ce qui y est écrit. Presque chaque ligne de cette annonce est pourtant encadrée par un règlement précis. Voici le circuit réel d'une inscription, ce que le courtier doit y mettre, ce qu'il n'a pas le droit d'y mettre, et ce qui reste visible quand vous baissez le prix ou retirez la propriété.

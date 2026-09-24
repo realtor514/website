@@ -6,7 +6,7 @@ translationKey: "article-profil-acheteurs"
 category: "دليل البائع"
 description: "ملامح المشترين في مونتريال وفي لافال بحسب APCIQ وStatistique Canada وSCHL، وما الذي يغيّره ذلك في تحضيرك للبيع."
 image: "images/articles/profil-acheteurs-montreal-laval-vendeur/featured.jpg"
-draft: true
+draft: false
 ---
 
 أنت تحضّر عقارك من أجل «المشتري». وهذا المشتري العام لا وجود له. فالأسرة التي اشترت

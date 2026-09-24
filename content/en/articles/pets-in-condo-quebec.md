@@ -7,7 +7,7 @@ category: "Real Estate 101"
 description: "Pets banned in a Quebec condo: where the clause lives, what makes it valid, the case of the animal d'assistance, and the documents to demand before your offer."
 image: "images/articles/animaux-copropriete-declaration-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 You have visited the condo twice. You like the courtyard, the light, the parking

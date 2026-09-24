@@ -7,7 +7,7 @@ category: "Immobilier 101"
 description: "Animaux interdits en condo au Québec: où vit la clause, ce qui la rend valide, le cas de l'animal d'assistance et les documents à exiger avant l'offre."
 image: "images/articles/animaux-copropriete-declaration-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Vous avez visité le condo deux fois. Vous aimez la cour, la lumière, le

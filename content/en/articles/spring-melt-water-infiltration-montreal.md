@@ -7,7 +7,7 @@ category: "Practical Guide"
 description: "Spring melt and basement water infiltration in Montreal: grading, window wells, roof, gutters, insurance avenants and the seller's declaration."
 image: "images/articles/fonte-neiges-infiltration-clapet-montreal/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 In March, snow piled against a foundation melts faster than frozen ground can

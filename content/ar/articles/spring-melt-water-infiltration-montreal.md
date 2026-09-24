@@ -7,7 +7,7 @@ category: "دليل عملي"
 description: "ذوبان الثلوج وتسرّب المياه إلى القبو في مونتريال: ميل الأرض، وبئر النافذة، والسقف، والمزاريب، وملحقات التأمين، وإقرارات البائع."
 image: "images/articles/fonte-neiges-infiltration-clapet-montreal/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 في شهر مارس، يذوب الثلج المتراكم على الأساسات أسرع مما تستطيع الأرض المتجمدة

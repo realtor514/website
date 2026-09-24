@@ -7,7 +7,7 @@ category: "Guía práctica"
 description: "Deshielo e infiltración de agua en el sótano en Montreal: pendiente del terreno, tragaluz, techo, canaletas, avenants del seguro y declaraciones del vendedor."
 image: "images/articles/fonte-neiges-infiltration-clapet-montreal/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 En marzo, la nieve amontonada contra los cimientos se derrite más rápido de lo

@@ -7,7 +7,7 @@ category: "Seller's Guide"
 description: "Centris, fiche descriptive, photos, a price change, a withdrawal: what the exposure of a Quebec listing actually involves, and the rules that govern it."
 image: "images/articles/diffusion-inscription-centris-publicite/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 You sign the brokerage contract on a Tuesday evening. By Thursday your property is online, and you find out what it says at the same time as everyone else. Yet almost every line of that ad is governed by a precise regulation. Here is the real path of a listing, what the broker must put in it, what they have no right to put in it, and what stays visible when you drop the price or pull the property off the market.

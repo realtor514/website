@@ -6,7 +6,7 @@ translationKey: "article-profil-acheteurs"
 category: "Guide du vendeur"
 description: "Le profil des acheteurs à Montréal et à Laval selon l'APCIQ, Statistique Canada et la SCHL, et ce que ça change dans votre préparation de vente."
 image: "images/articles/profil-acheteurs-montreal-laval-vendeur/featured.jpg"
-draft: true
+draft: false
 ---
 
 Vous préparez votre propriété pour « l'acheteur ». Cet acheteur générique n'existe pas.

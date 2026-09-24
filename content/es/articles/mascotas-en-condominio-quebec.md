@@ -7,7 +7,7 @@ category: "Inmobiliaria 101"
 description: "Mascotas prohibidas en condominio en Quebec: dónde vive la cláusula, qué la hace válida, el caso del animal d'assistance y los documentos que debe exigir antes de la oferta."
 image: "images/articles/animaux-copropriete-declaration-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Usted visitó el condominio dos veces. Le gustan el patio, la luz, el

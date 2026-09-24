@@ -4,10 +4,10 @@ date: 2026-08-25
 lastmod: 2026-08-25
 translationKey: "article-keep-or-sell-signals"
 category: "Guía del Vendedor"
-description: "Tamaño del hogar, traslado laboral, renovación hipotecaria, mantenimiento, movilidad y apego: las seis señales personales que dicen si conviene vender o conservar su casa en Quebec."
+description: "Renovación, tamaño del hogar, trayecto, mantenimiento: seis señales personales que dicen si conservar o vender su propiedad en Quebec."
 image: "images/articles/garder-ou-vendre-signaux-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Nadie vende una casa porque un índice se movió. Se vende porque algo cambió en casa: una habitación de más o de menos, un empleo en otra parte, una carta del prestamista, una escalera que se volvió larga. Estas son las seis señales que más se repiten entre los vendedores de Laval y de Montreal, y el documento que permite verificarlas en lugar de solo sentirlas.
