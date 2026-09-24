@@ -6087,7 +6087,7 @@
    "translationKey": "article-acheter-chalet",
    "needs_expert_review": true,
    "id": "t127",
-   "status": "clear",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -6110,7 +6110,9 @@
      "s": 0.1273,
      "match": "/articles/acheter-zone-inondable-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/acheter-un-chalet-quebec-verifications.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 30,
