@@ -1,13 +1,53 @@
 # Blogue, rapport de session
 
-**2026-09-23. 22 articles ecrits, traduits et EN LIGNE dans les 4 langues.**
+**23 articles ecrits, traduits et EN LIGNE dans les 4 langues.**
 
-Le site est passe de **63 a 87 articles par langue**: 348 fichiers publies au
+Le site est passe de **63 a 88 articles par langue**: 352 fichiers publies au
 lieu de 252. Verifie en direct sur georgesmatar.ca, pas seulement en local.
 
-La session s est arretee sur la limite d usage du compte, qui se libere a 22 h
-heure de Toronto. Elle a frappe deux fois, a 17 h et a 22 h, et a tue 18 agents
-au total. Tout ce qui avait ete produit avant chaque coupure est intact.
+---
+
+## 24 septembre, au matin
+
+**Les 25 images a la une manquaient toutes.** Trouve en verifiant le rendu reel,
+pas le code. Chaque article que j ai ecrit declarait
+`image: images/articles/<slug>/featured.jpg`, et aucun de ces fichiers
+n existait. Le gabarit fait `{{ with .Params.image }}`: le champ etant rempli,
+la balise `img` est emise et pointe vers un fichier absent, donc le placeholder
+de `article-card.html` ne prend jamais le relais, et il n y avait pas non plus
+de fichier placeholder. Confirme en direct: l image renvoyait 404 sur les
+22 articles publies, y compris sur la page du blogue ou les cartes etaient
+cassees. Les 64 articles plus anciens avaient tous la leur.
+
+Corrige: 25 images telechargees depuis Unsplash, JPEG paysage de 1200 px,
+60 a 280 ko, au format des images deja en place. Verifie apres deploiement:
+**25 sur 25 repondent 200**, et la page du blogue affiche bien les vignettes.
+Credits photo dans `static/images/articles/CREDITS.json`.
+
+**Deux trous d outillage bouches**, tous les deux de mon fait:
+
+- `fetch_images.py` se fiait a une liste ecrite a la main. Il lit maintenant le
+  champ `image` de chaque article francais et signale ceux dont le fichier
+  manque. Sans ca, le prochain lot repetait l erreur.
+- `plan_gate.py release` ne retirait que le claim et le slug du registre, en
+  laissant le mot-cle et le titre. Consequence: un sujet libere se bloquait
+  contre lui-meme, la porte 2 repondant `keyword=FAIL titre=FAIL` alors que
+  plus personne ne s en occupait. Quatre sujets etaient coinces ainsi.
+
+**23e article publie:** `garantie-gcr-maison-neuve-quebec`, qui attendait ses
+traductions depuis la coupure de la veille.
+
+**A signaler:** la cle `PEXELS_API_KEY` de `.env` renvoie une erreur HTTP a
+chaque appel, elle semble expiree. Unsplash a tout fourni, donc rien n est
+bloque, mais la solution de secours ne fonctionne plus.
+
+---
+
+## 23 septembre
+
+La session s est arretee deux fois sur la limite d usage du compte, a 17 h et a
+22 h, ce qui a tue 18 agents au total. Tout ce qui avait ete produit avant
+chaque coupure est intact.
 
 ---
 
@@ -39,6 +79,7 @@ au total. Tout ce qui avait ete produit avant chaque coupure est intact.
 | 22 sept | Reduire sa facture de chauffage au Quebec | Guide pratique |
 | 23 sept | Renover son condo en copropriete: la vraie limite | Immobilier 101 |
 | 23 sept | Vice cache: les conditions et vos recours | Immobilier 101 |
+| 23 sept | Garantie GCR d une maison neuve au Quebec | Guide de l acheteur |
 
 Chacun existe en francais, anglais, espagnol et arabe, avec la meme
 `translationKey`, donc les balises hreflang relient les 4 versions et Google
@@ -47,9 +88,10 @@ l article d assurance.
 
 Dates reparties sur le dernier mois, comme demande, sans collision de date.
 
-**Un seul article reste en brouillon:** `garantie-gcr-maison-neuve-quebec`.
-Il est termine et passe toutes les portes, mais ses traductions n ont pas pu
-etre faites avant la coupure. Il partira en ligne quand elles existeront.
+**Le seul article encore en brouillon** est
+`conjoints-de-fait-maison-quebec`, retenu volontairement: son redacteur demande
+une validation par un notaire avant publication, et c est du droit de la
+famille. Ses quatre versions sont pretes. Voir `NEEDS_HUMAN.md`.
 
 ---
 
