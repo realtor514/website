@@ -18,7 +18,7 @@ La *Loi sur l'interdiction d'achat d'immeubles résidentiels par des non-Canadie
 
 **Elle s'applique toujours.** Le 4 février 2024, Ottawa a annoncé une prolongation de deux ans, jusqu'au 1er janvier 2027. Sur le site de la législation fédérale, l'abrogation figure encore sous la rubrique « Modifications non en vigueur »: c'est l'article 236 de la *Loi no 1 d'exécution du budget de 2022* qui l'abrogera. Tant que cet article n'est pas en vigueur, l'interdiction court.
 
-Les sanctions ne sont pas théoriques. L'article 6 prévoit une amende maximale de 10 000 $, et elle frappe aussi « toute personne ou entité qui conseille, incite, aide ou encourage » un non-Canadien à acheter en sachant que l'achat lui est interdit. L'article 7 permet au tribunal, sur demande du ministre, d'ordonner la vente de l'immeuble après une condamnation.
+Les sanctions ne sont pas théoriques. L'article 6 prévoit une amende maximale de 10 000 $, et elle frappe aussi « toute personne ou entité qui conseille, incite, aide ou encourage » un non-Canadien à acheter en le sachant interdit. L'article 7 permet au tribunal, sur demande du ministre, d'ordonner la vente de l'immeuble après une condamnation.
 
 ## Qui est visé, qui est excepté, et ce qui n'est même pas un achat
 
@@ -40,9 +40,9 @@ C'est ici que beaucoup de dossiers bloquent, et pas à cause de l'interdiction.
 
 Le programme SCHL Nouveaux arrivants s'adresse aux résidents permanents et non permanents. Le critère est clair: la personne doit avoir le statut de résident permanent ou être légalement autorisée à travailler au Canada, par exemple avec un permis de travail. Aucune durée minimale de résidence n'est exigée. La SCHL précise aussi que seuls les emprunteurs exemptés de l'interdiction peuvent être admissibles à l'assurance prêt hypothécaire.
 
-La conséquence est directe: une personne qui vit à l'étranger, sans statut ni autorisation de travail ici, n'entre pas dans ce programme. Son financement sera conventionnel, et c'est le prêteur qui fixe alors la mise de fonds. Aucune source officielle ne permet d'avancer un pourcentage unique valable chez tous les prêteurs. Faites confirmer le vôtre par écrit avant de faire une offre.
+La conséquence est directe: une personne qui vit à l'étranger, sans statut ni autorisation de travail ici, n'entre pas dans ce programme. Son financement sera conventionnel, et c'est le prêteur qui fixe la mise de fonds. Aucune source officielle ne permet d'avancer un pourcentage valable chez tous les prêteurs. Faites confirmer le vôtre par écrit avant de faire une offre.
 
-Pour un acheteur admissible, les paramètres de la SCHL sont publiés:
+Pour un acheteur admissible, la SCHL publie ses paramètres:
 
 - Mise de fonds minimale pour un propriétaire-occupant de 1 ou 2 logements: 5 % de la première tranche de 500 000 $ de la valeur d'emprunt, plus 10 % du reste. Pour 3 ou 4 logements: 10 %.
 - Prix d'achat sous 1 500 000 $ pour un prêt de propriétaire-occupant, amortissement maximal de 25 ans.
@@ -71,8 +71,8 @@ Revenu Québec l'écrit ainsi: un particulier qui ne réside pas au Canada et qu
 | Formulaire | T2062 | TP-1097 |
 | Acompte pour le certificat | 25 % du gain | 12,875 % du gain |
 | Certificat | Certificat de conformité | TPF-1098 |
-| Avis tardif du vendeur | 100 $, ou 25 $ par jour, max 2 500 $ | 25 $ par jour, max 2 500 $ |
-| Délai de versement de l'acquéreur | 30 jours après la fin du mois | 30 jours après la fin du mois |
+| Avis tardif | 100 $, ou 25 $ par jour, max 2 500 $ | 25 $ par jour, max 2 500 $ |
+| Versement de l'acquéreur | 30 jours après la fin du mois | 30 jours après la fin du mois |
 
 Au Québec, si le vendeur non résident n'a pas avisé le ministre, n'a pas payé l'acompte ou n'a pas fourni de sûreté, l'acquéreur doit verser une somme correspondant à l'excédent du coût d'acquisition sur le montant indiqué au certificat, dans les 30 jours suivant la fin du mois de l'acquisition.
 
@@ -80,9 +80,9 @@ Au Québec, si le vendeur non résident n'a pas avisé le ministre, n'a pas pay�
 
 ## Vous vendez à un acheteur non-résident: ce qui change pour vous
 
-Rassurez-vous sur un point: l'article 5 de la loi fédérale précise que la contravention n'affecte pas la validité de la vente. Votre acte ne devient pas nul. Mais l'article 6 vise aussi celui qui aide ou conseille en sachant que l'achat est interdit. Le statut de l'acheteur se vérifie donc avant la promesse d'achat, pas dans le bureau du notaire la semaine de la signature. Demandez le document, pas une affirmation verbale.
+Rassurez-vous sur un point: l'article 5 précise que la contravention n'affecte pas la validité de la vente. Votre acte ne devient pas nul. Mais l'article 6 vise aussi celui qui aide ou conseille en le sachant interdit. Le statut de l'acheteur se vérifie donc avant la promesse d'achat, pas chez le notaire la semaine de la signature. Demandez le document, pas une affirmation verbale.
 
-Deuxième point, financier. Un acheteur sans statut ni autorisation de travail n'a pas accès à l'assurance prêt hypothécaire, donc son dossier passe par un financement conventionnel. Exigez une préapprobation écrite avant de retirer votre propriété du marché. Le reste de l'addition figure dans [le coût réel de vendre une maison au Québec](/articles/cout-reel-vendre-maison-quebec/).
+Deuxième point, financier. Un acheteur sans statut ni autorisation de travail n'a pas accès à l'assurance prêt hypothécaire: son dossier passe par un financement conventionnel. Exigez une préapprobation écrite avant de retirer votre propriété du marché. Le reste de l'addition figure dans [le coût réel de vendre une maison au Québec](/articles/cout-reel-vendre-maison-quebec/).
 
 ## Ce qu'un acheteur étranger doit rassembler, tôt
 
@@ -103,12 +103,12 @@ Le règlement exige que le permis soit encore valide pendant au moins 183 jours 
 Pour l'interdiction, oui: l'article 4(2) écarte le non-Canadien qui achète avec un époux ou conjoint de fait citoyen, résident permanent ou personne inscrite à titre d'Indien. Pour le prêt, non. L'admissibilité à l'assurance de la SCHL se regarde séparément.
 
 **Un quadruplex est-il visé?**
-Non. La loi définit l'immeuble résidentiel comme un bâtiment d'au plus trois locaux d'habitation, et la SCHL confirme que l'achat d'un bâtiment de quatre logements et plus n'est pas interdit. Les règles de financement d'un immeuble à revenus, elles, ne changent pas pour autant.
+Non. La SCHL confirme que l'achat d'un bâtiment de quatre logements et plus n'est pas interdit. Les règles de financement d'un immeuble à revenus, elles, ne changent pas pour autant.
 
 **Faut-il attendre le 1er janvier 2027?**
 L'interdiction doit cesser à l'entrée en vigueur de l'article 236 de la loi d'exécution du budget de 2022, et aucune prolongation n'a été annoncée à ce jour. Une date annoncée n'est pas une garantie. Et rien de ce qui précède au sujet de l'impôt à la revente ne dépend de cette échéance.
 
-Pour compléter, lisez [le guide complet pour les nouveaux arrivants](/articles/guide-nouveaux-arrivants-quebec/) et [le notaire au Québec, étape par étape](/articles/quebec-notary-process/).
+Pour compléter, lisez [le guide pour les nouveaux arrivants](/articles/guide-nouveaux-arrivants-quebec/) et [le notaire au Québec, étape par étape](/articles/quebec-notary-process/).
 
 ---
 

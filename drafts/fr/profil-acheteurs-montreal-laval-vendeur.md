@@ -42,8 +42,8 @@ Un chiffre mensuel absent est une information, pas un oubli.
 
 Le contexte général compte aussi. Dans la région métropolitaine, 20 128 inscriptions étaient
 en vigueur en août, soit 18 % de plus qu'un an plus tôt, pour 2 853 ventes conclues, en recul
-de 13 %. L'acheteur de votre segment a plus de choix qu'en août 2025. La méthode pour suivre
-ces séries mois après mois est détaillée dans l'article sur
+de 13 %. L'acheteur de votre segment a plus de choix qu'en août 2025. Pour suivre ces séries
+mois après mois, voyez
 [la lecture des données du marché de Montréal et de Laval](/articles/marche-immobilier-montreal/).
 
 ## Le profil des acheteurs commence par la composition du ménage
@@ -91,10 +91,9 @@ vend déjà une propriété arrive avec un avoir net accumulé; le premier achet
 qu'il a épargné. Le [calculateur de capacité d'emprunt](/tools/affordability/) permet de voir
 quel revenu correspond à votre tranche de prix, avant de fixer ce prix.
 
-Un détail que beaucoup de vendeurs manquent: le palier de 500 000 $ n'est pas cosmétique.
-Passer de 499 000 $ à 520 000 $ fait grimper la mise de fonds exigée de 24 950 $ à 27 000 $. Ce n'est pas énorme,
-mais cela s'additionne aux droits de mutation et aux frais de notaire, et cela se soustrait
-d'une épargne déjà comptée au dollar près.
+Le palier de 500 000 $ n'est pas cosmétique non plus. Passer de 499 000 $ à 520 000 $ fait
+grimper la mise de fonds exigée de 24 950 $ à 27 000 $, une somme qui s'additionne aux droits
+de mutation et aux frais de notaire.
 
 ## Où les investisseurs sont actifs, selon les données disponibles
 
@@ -110,10 +109,11 @@ taux d'inoccupation des appartements d'initiative privée atteignait 2,9 % à Mo
 note que les loyers demandés sont demeurés relativement stables à Montréal et que la détente
 observée se concentre dans les segments les plus chers.
 
-Statistique Canada ne publie pas encore, pour le Québec, les données de son Programme de la
-statistique du logement canadien sur la part des propriétés détenues par des investisseurs.
-Aucune source officielle ne me permet donc de chiffrer la proportion d'acheteurs investisseurs
-dans votre secteur. Ce qui se vérifie, c'est le volume de ventes de plex et les conditions du
+Attention toutefois à ce que les données ne couvrent pas. La diffusion de Statistique Canada
+sur les investisseurs en immobilier résidentiel, parue le 18 octobre 2023 à partir du
+Programme de la statistique du logement canadien, porte sur six provinces, et le Québec n'en
+fait pas partie. Aucune source officielle ne me permet donc de chiffrer la proportion
+d'acheteurs investisseurs dans votre secteur. Ce qui se vérifie, c'est le volume de ventes de plex et les conditions du
 marché locatif. Les règles de financement propres à ce segment sont détaillées dans le
 [guide des plex à revenus à Montréal et à Laval](/articles/income-property-beginners/).
 

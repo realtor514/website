@@ -68,7 +68,7 @@ Trois familles de clauses circulent au Québec, et elles ne se gèrent pas parei
 
 **L'interdiction totale.** Aucun chien, aucun chat, parfois une exception pour
 un poisson ou un oiseau en cage. C'est la plus facile à appliquer pour le
-syndicat, parce qu'elle ne demande aucune évaluation.
+syndicat: elle ne demande aucune évaluation.
 
 **La limite de poids, de taille ou de nombre.** Elle a l'air souple et elle crée
 le plus de litiges: personne ne s'entend sur le moment où le poids se mesure, et
@@ -113,8 +113,8 @@ victimes.
 
 ## Le locataire d'un condo où les animaux sont interdits
 
-Si vous achetez pour louer, deux régimes se superposent, et ils ne se jugent pas
-au même endroit.
+Si vous achetez pour louer, deux régimes se superposent et ne se jugent pas au
+même endroit.
 
 **Côté copropriété.** L'article 1057 est précis: le règlement de l'immeuble est
 opposable au locataire ou à l'occupant dès qu'un exemplaire lui est remis par le
@@ -142,12 +142,12 @@ locataire une obligation déraisonnable compte tenu des circonstances.
 ## Quand la règle change et que votre chien est déjà là
 
 Modifier le règlement de l'immeuble se fait à la majorité des voix des
-copropriétaires présents ou représentés à l'assemblée (article 1096). Une
-assemblée peu courue un mardi soir de novembre peut donc interdire les animaux
-dans un immeuble qui les acceptait.
+copropriétaires présents ou représentés (article 1096). Une assemblée peu courue
+un mardi soir de novembre peut donc interdire les animaux dans un immeuble qui
+les acceptait.
 
-Elle doit être apportée de manière expresse, dans un procès-verbal ou une
-résolution écrite, puis déposée au registre du syndicat (article 1060): une
+La modification doit être expresse, dans un procès-verbal ou une résolution
+écrite, puis déposée au registre du syndicat (article 1060): une
 discussion sans vote consigné ne change rien. Tout copropriétaire peut ensuite
 demander au tribunal d'annuler la décision partiale ou prise au mépris de ses
 droits, dans les 90 jours, sous peine de déchéance (article 1103).
@@ -164,8 +164,8 @@ Un acheteur avec un animal obtient cinq pièces avant l'offre.
 1. **La déclaration de copropriété complète**, acte constitutif, règlement de
    l'immeuble et état descriptif, avec les actes de modification publiés.
 2. **Le règlement de l'immeuble en vigueur**, tel qu'il figure au registre tenu
-   par le syndicat en vertu de l'article 1070, et non la version annexée à
-   l'acte d'achat du vendeur.
+   par le syndicat (article 1070), et non la version annexée à l'acte d'achat du
+   vendeur.
 3. **Les procès-verbaux des assemblées et du conseil** des deux ou trois
    dernières années. Une interdiction en préparation s'y voit avant d'exister.
 4. **L'attestation du syndicat sur l'état de la copropriété**, que le vendeur

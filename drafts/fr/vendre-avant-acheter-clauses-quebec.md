@@ -22,7 +22,7 @@ Voici ce que chaque clause permet, ce que le prêteur vérifie, ce que le notair
 
 **Les deux en même temps.** Le scénario que tout le monde vise. Il suppose que deux chaînes de transactions, chacune avec ses conditions, ses prêteurs et ses notaires, arrivent au même point à la même date.
 
-L'article 1396 du Code civil du Québec explique pourquoi cette troisième voie est fragile: la promesse, à elle seule, n'équivaut pas au contrat envisagé. Une promesse acceptée sur votre propriété n'est pas une vente. Tant que l'acte notarié n'est pas signé, l'argent n'existe pas.
+L'article 1396 du Code civil du Québec dit pourquoi cette troisième voie est fragile: la promesse, à elle seule, n'équivaut pas au contrat envisagé. Tant que l'acte notarié n'est pas signé, l'argent n'existe pas.
 
 Aucun de ces chemins n'élimine le risque. Chacun décide seulement qui le porte.
 
@@ -30,7 +30,7 @@ Aucun de ces chemins n'élimine le risque. Chacun décide seulement qui le porte
 
 Quand vous achetez sans avoir vendu, le formulaire obligatoire Annexe R, Immeuble résidentiel (AR 00001) prévoit la condition R2.1.
 
-**Ce que la clause dit.** La promesse d'achat devient conditionnelle à la vente de l'immeuble appartenant à l'acheteur, à une adresse nommée dans le formulaire. L'acheteur s'engage à aviser le vendeur par écrit, avant une date et une heure inscrites, soit que la condition est réalisée, soit qu'il y renonce. S'il renonce, il doit démontrer en même temps qu'il a les fonds nécessaires pour couvrir le prix d'achat. S'il ne fait ni l'un ni l'autre dans le délai, la promesse devient nulle et non avenue.
+**Ce que la clause dit.** La promesse devient conditionnelle à la vente de l'immeuble appartenant à l'acheteur, à une adresse nommée dans le formulaire. L'acheteur s'engage à aviser le vendeur par écrit, avant une date et une heure inscrites, soit que la condition est réalisée, soit qu'il y renonce. S'il renonce, il doit démontrer en même temps qu'il a les fonds nécessaires pour couvrir le prix d'achat. Sans avis dans le délai, la promesse devient nulle et non avenue.
 
 **L'articulation avec le financement.** Si la promesse est aussi conditionnelle à l'obtention d'un prêt hypothécaire, l'Annexe R précise qu'un engagement de prêteur lui-même conditionnel à la vente de votre propriété satisfait la condition de financement. Mais dès que la condition R2.1 se réalise, vous devez fournir un engagement ne comportant aucune condition. Votre banque vous suit donc en deux temps, et le deuxième dépend de votre propre acheteur.
 
@@ -40,13 +40,13 @@ C'est une obligation conditionnelle au sens de l'article 1497 du Code civil: une
 
 Une condition R2.1 ne circule presque jamais seule. Elle vient avec la clause R2.2, que l'OACIQ appelle lui-même la « clause de 72 heures » dans son feuillet explicatif de l'Annexe R.
 
-**Ce que le vendeur garde.** Il peut continuer d'offrir l'immeuble en vente malgré l'acceptation de la promesse. S'il accepte une nouvelle promesse d'achat, dès que toutes les conditions de celle-ci sont réalisées, à l'exclusion de la signature de l'acte de vente, du paiement du prix et de l'annulation de la première promesse, il doit transmettre au premier acheteur un avis écrit.
+**Ce que le vendeur garde.** Il peut continuer d'offrir l'immeuble en vente malgré l'acceptation de la promesse. S'il accepte une nouvelle promesse, dès que toutes les conditions de celle-ci sont réalisées, hors la signature de l'acte de vente, le paiement du prix et l'annulation de la première promesse, il doit transmettre au premier acheteur un avis écrit.
 
-**Ce que le premier acheteur obtient.** Soixante-douze heures à compter de la réception de cet avis. Dans ce délai, il remet un avis écrit disant soit qu'il renonce à la condition R2.1 et à toutes les autres conditions non encore réalisées, sauf la signature chez le notaire, soit qu'il rend sa promesse nulle et non avenue. Il ne peut renoncer qu'en démontrant en même temps avoir les fonds. S'il ne se prévaut d'aucune des deux options, la promesse tombe.
+**Ce que le premier acheteur obtient.** Soixante-douze heures à compter de la réception de cet avis, pour remettre un avis écrit disant soit qu'il renonce à la condition R2.1 et à toutes les autres conditions non encore réalisées, sauf la signature chez le notaire, soit qu'il rend sa promesse nulle et non avenue. Il ne peut renoncer qu'en démontrant en même temps avoir les fonds. S'il ne se prévaut d'aucune des deux options, la promesse tombe.
 
 La version courante du formulaire encadre la preuve: le vendeur coche le moyen qui établira le moment où l'acheteur a reçu l'avis, courriel, poste recommandée ou autre, et l'acheteur coche celui qui établira le moment où sa réponse a été expédiée. Ce détail règle la plupart des disputes sur le décompte des 72 heures.
 
-**Ce que le vendeur donne en échange.** Il ne vend pas. Il accorde un droit de préférence. Le deuxième acheteur signe une promesse conditionnelle à l'annulation de la première, la clause R2.3, par laquelle le vendeur s'engage à entreprendre de bonne foi et à ses frais les démarches raisonnables pour obtenir cette annulation. L'OACIQ recommande que le délai inscrit à R2.3 dépasse d'au moins cinq jours le plus long délai de réalisation des conditions de la nouvelle promesse, et avertit que si la réponse du premier acheteur est ambiguë, le courtier ne doit jamais conseiller d'aviser le deuxième acheteur de l'annulation. Une promesse mal annulée, c'est deux acheteurs qui se croient liés sur le même immeuble.
+**Ce que le vendeur donne en échange.** Il ne vend pas, il accorde un droit de préférence. Le deuxième acheteur signe une promesse conditionnelle à l'annulation de la première, la clause R2.3, par laquelle le vendeur s'engage à entreprendre de bonne foi et à ses frais les démarches raisonnables pour obtenir cette annulation. L'OACIQ recommande que le délai inscrit à R2.3 dépasse d'au moins cinq jours le plus long délai de réalisation des conditions de la nouvelle promesse, et avertit que si la réponse du premier acheteur est ambiguë, le courtier ne doit jamais conseiller d'aviser le deuxième acheteur de l'annulation.
 
 En marché serré, cette mécanique affaiblit sérieusement la condition R2.1. En marché lent, elle est souvent la seule façon de faire accepter l'offre.
 
@@ -82,7 +82,7 @@ Un point souvent oublié: appelez votre assureur avant de laisser une propriét�
 
 **Deux dates distinctes.** La clause 11.1 de la promesse d'achat fixe la signature de l'acte de vente devant notaire, le ou avant une date donnée, et précise que l'acheteur devient propriétaire à compter de cette signature. La clause 11.2 fixe séparément la date et l'heure à partir desquelles les lieux sont disponibles pour occupation. Les deux peuvent différer.
 
-**Le mécanisme qui règle le décalage.** La clause 11.3 prévoit que si l'occupation est postérieure à la signature de l'acte de vente, une répartition est effectuée au moment de la signature: le vendeur verse un montant mensuel inscrit au formulaire, calculé de la date de signature jusqu'à la date d'occupation, en compensation de son occupation des lieux, et il assume pendant cette période le chauffage, l'électricité et l'entretien général. C'est l'outil prévu pour rester quelques jours ou quelques semaines chez vous après avoir vendu. Il se négocie au moment de l'offre, pas après.
+**Le mécanisme qui règle le décalage.** Si l'occupation est postérieure à la signature de l'acte de vente, la clause 11.3 prévoit une répartition au moment de la signature: le vendeur verse un montant mensuel inscrit au formulaire, calculé de la date de signature jusqu'à la date d'occupation, et il assume pendant cette période le chauffage, l'électricité et l'entretien général. C'est l'outil prévu pour rester quelques jours ou quelques semaines chez vous après avoir vendu. Il se négocie au moment de l'offre, pas après.
 
 **Ce que le notaire ne peut pas compresser.** Éducaloi rappelle que le notaire doit avoir reçu votre mise de fonds et les sommes du prêteur avant la signature de l'acte de vente, et qu'un délai de compensation pouvant atteindre dix jours ouvrables s'applique après la réception de la mise de fonds. Après la signature de l'acte d'hypothèque, puis après celle de l'acte de vente, il faut compter environ deux à trois jours pour la publication au registre foncier. Le guide d'achat de la SCHL situe la date de clôture généralement de 30 à 60 jours après la signature de l'offre pour une maison existante. Pour les étapes, lisez [le rôle du notaire, étape par étape](/articles/quebec-notary-process/).
 

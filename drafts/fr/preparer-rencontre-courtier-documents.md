@@ -106,10 +106,10 @@ en a davantage, et qu'il faut consulter les rôles en ligne pour tous les voir.
 **Les factures d'énergie.** L'OACIQ demande les comptes d'électricité et de
 gaz. Un acheteur veut savoir ce que coûte le chauffage, et une réponse
 approximative ne vaut rien. Dans l'Espace client d'Hydro-Québec, l'outil
-Portrait de ma consommation présente les données horaires, quotidiennes,
-mensuelles et annuelles, et permet de comparer une période à la même période
-de l'année précédente. Imprimez les douze derniers mois. Si vous chauffez au
-gaz ou au mazout, ajoutez les factures du fournisseur.
+Portrait de ma consommation présente les données quotidiennes, mensuelles et
+annuelles et permet de comparer une période à la même période de l'année
+précédente. Imprimez les douze derniers mois. Si vous chauffez au gaz ou au
+mazout, ajoutez les factures du fournisseur.
 
 ## Travaux, permis et garanties: les preuves que le courtier immobilier demandera
 
@@ -124,12 +124,11 @@ thermopompe, fenêtres, drain, imperméabilisation.
 **Les plans et les permis perdus.** Ils se demandent à l'arrondissement ou au
 service d'urbanisme. À Montréal, la démarche, le délai et le tarif varient
 d'un arrondissement à l'autre, et la Ville les publie. Un arrondissement
-annonce un traitement en 15 à 30 jours avec des frais de recherche de 77 $; un
-autre, une semaine avec une recherche gratuite et 3,90 $ de reproduction; un
-troisième, 60 jours pour le plan d'un bâtiment. Les mêmes pages précisent que
-certains arrondissements ne peuvent pas fournir le plan d'un bâtiment
-construit avant 1922, ou avant 1956 ailleurs. Vérifiez la page de votre
-arrondissement et commandez tôt.
+annonce 15 à 30 jours et des frais de recherche de 77 $; un autre, une semaine
+avec une recherche gratuite et 3,90 $ de reproduction; un troisième, 60 jours
+pour le plan d'un bâtiment. Les mêmes pages précisent que certains
+arrondissements ne peuvent pas fournir le plan d'un bâtiment construit avant
+1922, ou avant 1956 ailleurs. Vérifiez la page de votre arrondissement.
 
 ## Copropriété: déclaration, registre du syndicat et état des charges
 
@@ -139,12 +138,12 @@ informations sur le fonds de prévoyance sont requis.
 
 Le Code civil vous donne l'outil pour les obtenir. L'article 1070 énumère ce
 que le syndicat doit tenir dans le registre de la copropriété: procès-verbaux
-des assemblées et du conseil d'administration, résolutions écrites, règlement
-de l'immeuble et ses modifications, états financiers, déclaration de
-copropriété, copies de contrats, plan cadastral, plans et devis, certificats
-de localisation s'ils sont disponibles, carnet d'entretien et étude du fonds
-de prévoyance. L'article 1070.1 ajoute que tout copropriétaire a le droit,
-moyennant des frais raisonnables, d'obtenir copie du contenu du registre.
+des assemblées et du conseil, résolutions écrites, règlement de l'immeuble,
+états financiers, déclaration de copropriété, contrats, plan cadastral, plans
+et devis, certificats de localisation s'ils sont disponibles, carnet
+d'entretien et étude du fonds de prévoyance. L'article 1070.1 ajoute que tout
+copropriétaire a le droit, moyennant des frais raisonnables, d'obtenir copie
+du contenu du registre.
 
 **L'état des charges communes.** L'article 1069 prévoit que l'acheteur
 pressenti peut le demander au syndicat, et que celui-ci doit le lui fournir
@@ -153,10 +152,9 @@ cette liste. Demandez-le vous-même dès maintenant. Le carnet d'entretien et
 l'étude du fonds de prévoyance relèvent d'obligations que résume
 [l'article sur la loi 16](/articles/loi-16-copropriete-acheteur-quebec/).
 
-Une précision utile: en copropriété divise, le certificat de localisation
-fourni doit toujours décrire la partie privative, et l'OACIQ rappelle que le
-syndicat conserve les certificats « s'ils sont disponibles ». Tous n'en
-possèdent donc pas.
+Une précision utile: le certificat de localisation fourni doit toujours
+décrire la partie privative, et l'OACIQ rappelle que le syndicat ne conserve
+les certificats que « s'ils sont disponibles ».
 
 ## Hypothèque, baux et vos notes pour les Déclarations du vendeur
 
@@ -207,9 +205,8 @@ négociation; déclaré au départ, il devient une information que l'acheteur
 
 **Je suis liquidateur d'une succession et je n'ai jamais habité l'immeuble.**
 Rassemblez quand même les titres, les comptes de taxes et les factures
-retrouvées. Vous répondrez au meilleur de votre connaissance et vous
-l'indiquerez sur le formulaire. Ajoutez la déclaration de transmission, que
-votre courtier devra conserver au dossier avec les pièces d'identité.
+retrouvées, et ajoutez la déclaration de transmission. Vous répondrez au
+meilleur de votre connaissance et vous l'indiquerez sur le formulaire.
 
 Pour compléter, lisez [la pénalité pour casser une
 hypothèque](/articles/casser-hypotheque-penalite-quebec/) et [le contrat de

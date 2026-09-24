@@ -17,21 +17,20 @@ si quelqu'un tombe dans l'escalier.
 
 ## Visite libre à Montréal et à Laval: ce que l'OACIQ exige du courtier
 
-L'OACIQ est net sur un point: un courtier ou une agence peut annoncer une visite
-libre seulement si le courtier du vendeur est présent lors de cette visite, ou
-si ce dernier est en mesure de se faire remplacer par un autre courtier.
-L'Organisme rattache cette règle aux articles 14 et suivants du Règlement sur
-les conditions d'exercice d'une opération de courtage, sur la déontologie des
-courtiers et sur la publicité.
+L'OACIQ est net: un courtier ou une agence peut annoncer une visite libre
+seulement si le courtier du vendeur est présent lors de cette visite, ou s'il
+est en mesure de se faire remplacer par un autre courtier. L'Organisme rattache
+cette règle aux articles 14 et suivants du Règlement sur les conditions
+d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur
+la publicité.
 
-Ce règlement dit deux choses qui vous concernent directement. L'article 15
-oblige le titulaire de permis à protéger et à promouvoir les intérêts de la
-partie qu'il représente tout en accordant un traitement équitable à toutes les
-parties, et lui interdit de divulguer une information confidentielle ou
-stratégique vous concernant sans votre autorisation écrite. L'article 16
-l'oblige à informer, dans les meilleurs délais, toute partie non représentée du
-fait qu'il défend les intérêts de son client. C'est le même cadre, vu de l'autre
-côté, que celui décrit dans l'article sur [le courtier à la porte d'une visite
+Ce règlement dit deux choses qui vous concernent. L'article 15 lui interdit de
+divulguer une information confidentielle ou stratégique vous concernant sans
+votre autorisation écrite, tout en l'obligeant à accorder un traitement
+équitable à toutes les parties. L'article 16 l'oblige à informer, dans les
+meilleurs délais, toute partie non représentée du fait qu'il défend les intérêts
+de son client. C'est le même cadre, vu de l'autre côté, que celui décrit dans
+l'article sur [le courtier à la porte d'une visite
 libre](/articles/open-house-secrets/).
 
 **Ce qui est exigé, et ce qui est recommandé.** La distinction vous dit où vous
@@ -50,11 +49,10 @@ L'OACIQ écrit que le courtier « devrait » vérifier l'identité des visiteurs
 inscrire leurs noms dans un registre des visites, pour des raisons de sécurité
 et de protection de la propriété à vendre, et qu'il veillera à ne jamais laisser
 un visiteur seul dans une pièce. Ce sont des attentes de bonne pratique, pas une
-interdiction réglementaire de faire autrement. La conséquence est pratique: un
-seul courtier ne surveille pas en même temps un rez-de-chaussée, un étage et un
-sous-sol aménagé. Si votre propriété a plusieurs niveaux, demandez avant de
-fixer la date combien de titulaires de permis seront sur place et comment les
-entrées seront échelonnées.
+interdiction réglementaire de faire autrement. Or un seul courtier ne surveille
+pas en même temps un rez-de-chaussée, un étage et un sous-sol aménagé. Si votre
+propriété a plusieurs niveaux, demandez combien de titulaires de permis seront
+sur place et comment les entrées seront échelonnées.
 
 ## Ce que le vendeur range avant une visite libre
 
@@ -79,10 +77,10 @@ vente](/articles/preparer-maison-vente/).
 ## Assurance habitation: le vol, la blessure et les limites du contrat
 
 Le Bureau d'assurance du Canada décrit l'assurance habitation en deux volets:
-l'assurance des biens meubles et l'assurance de la responsabilité civile des
-particuliers. Le vol figure dans la liste des risques assurés publiée par le
-BAC, au même titre que l'incendie ou le vandalisme. Le BAC précise toutefois que
-la couverture du contenu s'applique sous réserve de certaines limites.
+les biens meubles et la responsabilité civile des particuliers. Le vol figure
+dans sa liste des risques assurés, au même titre que l'incendie. Le BAC précise
+toutefois que la couverture du contenu s'applique sous réserve de certaines
+limites.
 
 Voilà ce qu'aucune source publique ne peut dire à votre place: comment votre
 assureur traitera une réclamation pour un objet disparu pendant une visite
@@ -116,8 +114,8 @@ Le BAC donne l'exemple exact: si un visiteur se blesse en glissant sur une allé
 enneigée chez vous, la responsabilité légale de ses blessures peut vous être
 attribuée, et si votre négligence est établie, le volet responsabilité civile de
 votre assurance habitation prend en charge les dommages-intérêts, à concurrence
-du montant de garantie, habituellement sans franchise. Cette garantie ne couvre
-ni vos propres dommages corporels ni ceux des membres de votre ménage.
+du montant de garantie, habituellement sans franchise. Elle ne couvre par contre
+ni vos propres blessures ni celles des membres de votre ménage.
 
 Pour une visite libre de novembre à Laval ou à Montréal, la traduction est
 simple: l'allée et les marches se déglacent une heure avant l'ouverture, pas la
@@ -137,9 +135,9 @@ l'absence du vendeur est la condition d'une visite utile.
 ## Ce qu'un vendeur ne doit jamais dire à un visiteur
 
 L'article 15 du règlement interdit à votre courtier de divulguer une information
-confidentielle ou stratégique vous concernant sans votre autorisation écrite.
-Cette protection ne vous vise pas vous. Rien n'encadre ce que vous dites
-vous-même dans votre cuisine, et trois catégories de phrases y coûtent cher.
+confidentielle ou stratégique vous concernant. Cette protection ne vous vise pas
+vous: rien n'encadre ce que vous dites vous-même dans votre cuisine, et trois
+catégories de phrases y coûtent cher.
 
 **Les phrases stratégiques.** La date à laquelle vous devez absolument avoir
 vendu, la raison de la vente, le montant en dessous duquel vous êtes prêt à

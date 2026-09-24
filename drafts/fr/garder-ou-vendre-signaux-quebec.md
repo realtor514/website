@@ -16,7 +16,7 @@ Personne ne vend une maison parce qu’un indice a bougé. On vend parce que que
 
 Certaines échéances viennent de l’extérieur et imposent leur calendrier. Cinq d’entre elles sont traitées dans [cinq cas où garder coûte plus cher que vendre](/articles/garder-ou-vendre-propriete-quebec/). Les signaux qui suivent sont l’inverse: rien ne vous force, personne ne vous relance, et c’est pour cela qu’on les reporte pendant des années.
 
-Le piège est le même dans les six cas. Le signal arrive sous forme d’impression: la maison est « trop grande », le trajet est « devenu long », l’entretien est « lourd ». Une impression ne se compare pas à un produit de vente. Un chiffre, oui.
+Dans les six cas, le signal arrive sous forme d’impression: la maison est « trop grande », le trajet est « devenu long », l’entretien est « lourd ». Une impression ne se compare pas à un produit de vente. Un chiffre, oui.
 
 | Signal | Ce qui le confirme sur papier |
 | - | - |
@@ -63,11 +63,11 @@ Le document qui la rend visible, vous l’avez déjà: les factures des douze de
 
 ## Vendre ou garder quand la maison ne suit plus vos besoins de mobilité
 
-La SCHL consacre une section au fait de vieillir chez soi, qu’elle définit comme la capacité de demeurer dans son logement de façon sécuritaire et autonome. Elle y traite des options de logement pour aînés, de l’adaptation du domicile et du financement pour les 55 ans et plus, dont le refinancement, la marge de crédit et l’hypothèque inversée. Sa page destinée aux consommateurs ne donne pas de statistique québécoise, et je n’en avancerai donc aucune.
+La SCHL consacre une section au fait de vieillir chez soi, qu’elle définit comme la capacité de demeurer dans son logement de façon sécuritaire et autonome. Elle y traite des options de logement pour aînés, de l’adaptation du domicile et du financement pour les 55 ans et plus. Sa page destinée aux consommateurs ne donne pas de statistique québécoise, et je n’en avancerai donc aucune.
 
 L’inventaire, lui, se fait en dix minutes: la liste des pièces que vous ne pouvez pas atteindre sans monter ou descendre un escalier. Un bungalow dont la seule salle de bain complète est au sous-sol ne pose pas le même problème qu’un condo au troisième sans ascenseur. L’un se règle par des travaux, l’autre par un déménagement.
 
-Le coût d’une adaptation dépend des travaux et de l’état du bâtiment, et aucun barème public ne vaut pour toutes les maisons. Faites évaluer la chose par un ergothérapeute et par un entrepreneur détenteur d’une licence de la Régie du bâtiment du Québec, puis comparez ce devis au coût de vendre et de racheter. C’est une comparaison de deux factures, pas un jugement sur votre autonomie.
+Le coût d’une adaptation dépend des travaux et de l’état du bâtiment, et aucun barème public ne vaut pour toutes les maisons. Faites évaluer la chose par un ergothérapeute et par un entrepreneur détenteur d’une licence de la Régie du bâtiment du Québec, puis comparez ce devis au coût de vendre et de racheter. Deux factures, pas un jugement sur votre autonomie.
 
 ## L’attachement qui fausse le prix demandé
 

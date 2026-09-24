@@ -34,7 +34,7 @@ de la partie qui vend. Cela ne la rend pas malhonnête : l'OACIQ impose à tout
 titulaire de permis une obligation de vérification, soit d'entreprendre des
 démarches pour découvrir les facteurs qui pourraient affecter défavorablement
 les parties, et de divulguer ceux qui sont portés à sa connaissance. Mais une
-obligation de divulgation n'est pas un regard indépendant sur vos intérêts.
+obligation de divulgation n'est pas un regard indépendant.
 
 ## Acheter sans visiter ne réduit pas votre obligation de vérifier
 
@@ -58,11 +58,10 @@ votre point de départ : remettez-la à la personne qui ira sur place.
 Le courtier a l'obligation déontologique de recommander une inspection complète
 par un professionnel qui détient une assurance responsabilité contre les fautes,
 erreurs ou omissions, utilise une convention de service reconnue, travaille
-selon une norme de pratique reconnue par l'OACIQ et remet un rapport écrit. Les
-normes reconnues incluent celles de l'AIBQ, de l'ATIB, de l'APCHQ et la norme
-BNQ 3009-500. S'il vous fournit une liste, elle doit contenir plus d'un nom, et
-il ne doit pas offrir de payer l'inspecteur à votre place, par apparence de
-conflit d'intérêts. Pour les critères de sélection, voyez
+selon une norme reconnue par l'OACIQ (AIBQ, ATIB, APCHQ ou BNQ 3009-500) et
+remet un rapport écrit. S'il vous fournit une liste, elle doit contenir plus
+d'un nom, et il ne doit pas offrir de payer l'inspecteur à votre place, par
+apparence de conflit d'intérêts. Pour les critères de sélection, voyez
 [comment choisir un inspecteur en bâtiment](/articles/choisir-inspecteur-batiment-quebec/).
 
 L'OACIQ écrit qu'il est important que l'acheteur soit présent lors de
@@ -95,8 +94,7 @@ inspecteurs. À distance, ajoutez le décalage horaire et le délai d'une expert
 complémentaire si l'inspecteur en recommande une.
 
 **Une visite avant la signature.** Prévoyez expressément une visite des lieux
-avant la signature chez le notaire, la vôtre ou celle de votre mandataire, et
-dites ce qui arrive si l'état diffère de ce qui a été présenté.
+avant la signature chez le notaire, la vôtre ou celle de votre mandataire.
 
 **Les documents.** Déclarations du vendeur sur l'immeuble, certificat de
 localisation, comptes de taxes, et pour une copropriété les procès-verbaux, les
@@ -112,7 +110,7 @@ chiffrez ce qui vous attend à la clôture avec le
 
 L'article 2130 du Code civil est la base : le mandat est le contrat par lequel
 une personne donne à une autre le pouvoir de la représenter dans un acte
-juridique, et l'écrit qui constate ce pouvoir s'appelle aussi procuration.
+juridique, et l'écrit qui constate ce pouvoir s'appelle la procuration.
 
 Trois choses comptent. D'abord la portée : une procuration utile nomme
 l'immeuble, le prix maximal, et dit si le mandataire peut emprunter et consentir
@@ -167,9 +165,8 @@ précise : le courtier doit obtenir une version numérisée de votre pièce
 d'identité gouvernementale avec photo et en examiner les caractéristiques et les
 éléments de sécurité. Vous voir tenir votre passeport dans une visioconférence
 ne suffit pas. Une séance vidéo en direct sert ensuite à comparer votre visage
-et votre nom à ceux du document. La vérification peut aussi être confiée à un
-mandataire, par entente écrite, en privilégiant un membre d'un ordre
-professionnel.
+et votre nom à ceux du document. La vérification peut aussi être confiée par
+entente écrite à un mandataire, de préférence membre d'un ordre professionnel.
 
 ## Acheter sans visiter : ce qu'aucune clause ne compense
 
@@ -220,6 +217,6 @@ vice caché et vos recours](/articles/vice-cache-conditions-recours-quebec/).
 
 ---
 
-*Vous achetez depuis l'étranger ou depuis une autre province et vous voulez que
-quelqu'un aille voir pour vous, avec une liste écrite ? [Écrivez-moi](/formulaire/).
+*Vous achetez depuis l'étranger ou d'une autre province et vous voulez que
+quelqu'un aille voir pour vous, liste en main ? [Écrivez-moi](/formulaire/).
 Je travaille en français, en anglais, en espagnol et en arabe.*

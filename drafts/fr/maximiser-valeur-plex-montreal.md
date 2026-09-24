@@ -18,19 +18,17 @@ générale : votre cas se valide avec un juriste et un comptable.
 
 ## Pourquoi le revenu décide du prix d'un plex
 
-**Deux acheteurs regardent le même duplex et ne calculent pas la même chose.**
-Le futur occupant compare avec les plex vendus autour et pense en versement mensuel.
-L'investisseur part du revenu net de l'immeuble et le convertit en prix. Chaque
-dollar de loyer récurrent pèse donc plus lourd qu'un dollar de rénovation cosmétique.
+**Deux acheteurs regardent le même duplex et ne calculent pas la même chose.** Le
+futur occupant compare avec les plex vendus autour et pense en versement mensuel.
+L'investisseur part du revenu net et le convertit en prix. Chaque dollar de loyer
+récurrent pèse donc plus lourd qu'un dollar de rénovation cosmétique.
 
 Aucune source officielle ne publie de taux de capitalisation pour les plex de
-Montréal ou de Laval. Méfiez-vous de celui qu'on vous cite sans référence. Ce que
-l'APCIQ publie, ce sont les mouvements du marché. En août 2026, dans la RMR de
-Montréal, 2 853 ventes résidentielles ont été conclues, en baisse de 13 % sur un an,
-avec 20 128 inscriptions actives, en hausse de 18 %. Les inscriptions de plex ont
-augmenté de 15 % et leur prix médian de 2 %. Le délai de vente moyen des plex est le
-seul à avoir reculé, à 52 jours. L'offre grossit, mais les immeubles à revenus
-trouvent encore preneur vite.
+Montréal ou de Laval. Méfiez-vous de celui qu'on vous cite sans référence. L'APCIQ,
+elle, publie les mouvements du marché. En août 2026, dans la RMR de Montréal, les
+inscriptions de plex ont grimpé de 15 % sur un an pendant que les ventes reculaient
+de 13 %. Le prix médian des plex a tout de même progressé de 2 %, et leur délai de
+vente moyen est le seul à avoir reculé, à 52 jours.
 
 ## Augmenter la valeur d'un plex : ce que la fixation de loyer permet depuis 2026
 
@@ -57,14 +55,13 @@ formule donne un résultat négatif, le montant attribuable est réputé nul.
 
 **Une hausse de taxes ne passe pas en entier.** L'article 4 oblige le tribunal à
 soustraire la valeur absolue du pourcentage de base de la variation observée. Une
-hausse de taxes de 3 % dans une année où la base est de 3,1 % n'ajoute donc rien.
-
-Le pourcentage de 6,7 % diffusé en janvier 2026 ne vous concerne pas : le Tribunal a
-dû préciser qu'il vise uniquement la partie du loyer liée aux services rattachés à la
-personne même du locataire, dans une résidence pour aînés.
+hausse de taxes de 3 % dans une année où la base est de 3,1 % n'ajoute donc rien. Le
+pourcentage de 6,7 % diffusé en janvier 2026, lui, ne vous concerne pas : il vise la
+partie du loyer liée aux services rattachés à la personne même du locataire, dans une
+résidence pour aînés.
 
 Ces pourcentages servent quand le tribunal fixe le loyer. Entre vous et votre
-locataire, c'est l'entente qui compte : l'article 1942 du Code civil impose l'avis de
+locataire, c'est l'entente qui compte : l'article 1942 du Code civil impose un avis de
 3 à 6 mois avant le terme pour un bail de 12 mois ou plus, l'article 1945 fait du
 silence du locataire une acceptation, et l'article 1947 vous laisse un mois après un
 refus pour saisir le tribunal, faute de quoi le bail se reconduit aux conditions
@@ -73,36 +70,33 @@ antérieures.
 ## Les travaux qui se récupèrent dans le loyer, et ceux qui ne se récupèrent pas
 
 L'annexe I du règlement liste les dépenses d'immobilisation : fondations, charpente,
-toiture, revêtement extérieur, balcons et escaliers, rejointement de la brique,
-portes et fenêtres détériorées, drain français, systèmes de sécurité. S'y ajoutent la
-rénovation majeure d'une cuisine ou d'une salle de bain, les planchers, le panneau
-électrique, l'insonorisation entre unités, puis les travaux à impact énergétique :
-isolation, chauffage, panneaux solaires, bornes de recharge, clapets antiretour.
+toiture, revêtement extérieur, balcons, brique, fenêtres détériorées, drain français,
+systèmes de sécurité, rénovation majeure d'une cuisine ou d'une salle de bain,
+planchers, panneau électrique, insonorisation, isolation, chauffage, panneaux
+solaires, bornes de recharge, clapets antiretour.
 
 Ce qui ne se récupère pas est tout aussi précis.
 
 - **Ce qu'un tiers a payé.** L'article 13 réduit la dépense du montant d'une aide
-  gouvernementale, municipale ou d'une entreprise d'utilité publique, et du montant
-  d'une indemnité versée par un tiers. Une toiture refaite par l'assureur après un
-  sinistre ne vaut pas 5 % pour vous.
+  gouvernementale, municipale ou d'une entreprise d'utilité publique, et de toute
+  indemnité versée par un tiers. Une toiture refaite par l'assureur après un sinistre
+  ne vaut pas 5 % pour vous.
 - **Ce qui profite à un seul logement.** L'article 5 établit la part attribuable
   selon la proportion que le loyer représente par rapport aux revenus de l'immeuble,
-  et restreint cette proportion aux seuls logements bénéficiaires quand la dépense ne
-  les concerne pas tous. Refaire la salle de bain du troisième ne touche pas le loyer
-  du rez-de-chaussée.
+  et la restreint aux seuls logements bénéficiaires quand la dépense ne les concerne
+  pas tous. Refaire la salle de bain du troisième ne touche pas le loyer du
+  rez-de-chaussée.
 - **Ce qui a été payé au mauvais moment.** Seules les dépenses de la période de
   référence comptent : pour un bail se terminant entre le 1er avril et le 31
   décembre, l'année civile précédant le terme. Une toiture payée en 2024 ne remonte
-  pas dans un avis visant un bail qui se termine le 30 juin 2027.
+  pas dans un avis visant un bail qui finit le 30 juin 2027.
 
 Retenez l'ordre de grandeur. Cinq pour cent d'une dépense n'est pas cinq pour cent du
 loyer. Dans un triplex où un logement représente le tiers des revenus, une facture de
 40 000 $ visant tout l'immeuble donne une part attribuable d'environ 13 300 $, dont
-5 % font environ 667 $ par année, soit près de 56 $ par mois avant tout autre critère.
-C'est une application de la formule, pas une promesse : le tribunal apprécie les
-pièces et les revenus réellement déclarés. Le même réflexe vaut ailleurs, comme
-l'explique [ce que les rénovations rapportent
-vraiment](/articles/renovations-dont-add-value/).
+5 % font environ 667 $ par année, soit près de 56 $ par mois. C'est une application de
+la formule, pas une promesse. Le réflexe vaut ailleurs aussi, comme l'explique [ce que
+les rénovations rapportent vraiment](/articles/renovations-dont-add-value/).
 
 ## Le départ d'un locataire, le seul moment où le loyer se replace
 
@@ -113,13 +107,11 @@ par le tribunal pendant cette période. C'est la section G.
 
 L'article 1950 donne au nouveau locataire un recours en fixation dans les 10 jours de
 la conclusion du bail s'il paie plus que ce loyer le moins élevé, dans les deux mois
-du début du bail s'il n'a pas reçu l'avis, et dans les deux mois de la connaissance
-du fait si l'avis comportait une fausse déclaration. L'article 1896 ajoute des
-dommages-intérêts punitifs en cas de fausse déclaration ou d'omission délibérée.
-
-Un bond de loyer au roulement est donc un pari sur le silence du locataire. Un loyer
-ramené en arrière six mois après la vente devient un problème pour l'acheteur, et
-possiblement pour vous.
+du début du bail s'il n'a pas reçu l'avis, et dans les deux mois de la connaissance du
+fait si l'avis comportait une fausse déclaration, qui ouvre en prime des
+dommages-intérêts punitifs. Un bond de loyer au roulement est donc un pari sur le
+silence du locataire, et un loyer ramené en arrière six mois après la vente devient le
+problème de l'acheteur, possiblement le vôtre.
 
 L'exception existe. L'article 1955 écarte la fixation pendant les cinq années qui
 suivent la date où l'immeuble est prêt pour son usage, dans un immeuble nouvellement
@@ -129,26 +121,22 @@ exigible pendant ces cinq ans. C'est la section F.
 
 ## Les dépenses que l'acheteur et le prêteur vont recalculer
 
-L'acheteur ne reprend pas vos chiffres. Il normalise : taxes municipales et
-scolaires, assurance, chauffage réellement payé par le locateur, location de
-chauffe-eau, déneigement, gestion, mauvaises créances, inoccupation et réserve
-d'entretien. Un bail chauffé se lit comme un loyer plus faible, et retirer le
-chauffage du bail est une modification de condition soumise au même régime d'avis,
-que le locataire peut refuser.
+L'acheteur ne reprend pas vos chiffres. Il normalise : taxes municipales et scolaires,
+assurance, chauffage réellement payé par le locateur, location de chauffe-eau,
+déneigement, gestion, mauvaises créances, inoccupation et réserve d'entretien. Un bail
+chauffé se lit comme un loyer plus faible, et retirer le chauffage du bail est une
+modification de condition soumise au même régime d'avis, que le locataire peut refuser.
 
-Le prêteur change de logique selon le nombre de logements. Pour un immeuble de 2 à 4
-logements non occupé par le propriétaire, la SCHL permet d'ajouter jusqu'à 50 % du
-revenu locatif brut dans les ratios, avec un rapport prêt valeur maximal de 80 %, un
-amortissement de 25 ans et une cote de crédit d'au moins 600 chez un emprunteur. Si
-vous occupez l'immeuble, la mise de fonds minimale est de 5 % sur les premiers
-500 000 $ de la valeur de prêt et de 10 % sur le reste pour 1 ou 2 logements, et de
-10 % dès 3 logements, jusqu'à une valeur de prêt de 1 500 000 $. À partir de 5
-logements, c'est un autre produit : la SCHL exige au moins cinq logements, finance
-jusqu'à 85 % de la valeur en achat comme en refinancement, autorise un amortissement
-allant jusqu'à 40 ans pour un immeuble existant, et demande cinq ans d'expérience en
-gestion multilogement ou un gestionnaire qui les a. Là, c'est le revenu de l'immeuble
-qui qualifie le prêt. Le [calculateur hypothécaire](/tools/mortgage/) vous donne le
-versement ; le reste du tableau décide de l'offre.
+Le prêteur, lui, change de logique selon le nombre de logements. Pour un immeuble de
+2 à 4 logements non occupé par le propriétaire, la SCHL permet d'ajouter jusqu'à 50 %
+du revenu locatif brut dans les ratios, avec un rapport prêt valeur maximal de 80 %,
+un amortissement de 25 ans et une cote de crédit d'au moins 600 chez un emprunteur. À
+partir de 5 logements, c'est un autre produit : la SCHL finance jusqu'à 85 % de la
+valeur en achat comme en refinancement, autorise un amortissement allant jusqu'à
+40 ans pour un immeuble existant, et exige cinq ans d'expérience en gestion
+multilogement ou un gestionnaire qui les a. Là, c'est le revenu de l'immeuble qui
+qualifie le prêt. Le [calculateur hypothécaire](/tools/mortgage/) donne le versement ;
+le reste du tableau décide de l'offre.
 
 ## Ce qui détruit la valeur d'un plex au lieu de l'augmenter
 
@@ -167,13 +155,11 @@ maintenir la qualité des services ou de procurer l'usage d'un accessoire ou d'u
 dépendance. Retirer le stationnement ou le casier peut coûter plus que la dépense
 évitée.
 
-**Rater le délai.** Un avis refusé et non porté devant le tribunal dans le mois du
-refus, et le bail se reconduit aux conditions antérieures. Une année perdue pour une
-date au calendrier.
-
-**Vider l'immeuble comme stratégie.** La reprise et l'éviction obéissent à un régime
-strict, avec une charge de preuve qui repose sur le locateur. Le détail est dans [la
-reprise par un propriétaire
+**Rater le délai, ou vider l'immeuble.** Un avis refusé et non porté devant le
+tribunal dans le mois du refus, et le bail se reconduit aux conditions antérieures :
+une année perdue pour une date au calendrier. Quant à libérer les logements, la
+reprise et l'éviction obéissent à un régime strict, avec une charge de preuve qui
+repose sur le locateur. Le détail est dans [la reprise par un propriétaire
 occupant](/articles/proprietaire-occupant-plex-reprise/).
 
 ## Les documents qui prouvent le revenu à un acheteur et à un prêteur
@@ -181,46 +167,43 @@ occupant](/articles/proprietaire-occupant-plex-reprise/).
 Je demande toujours cette pile avant de parler de prix, et le prêteur demandera la
 même chose.
 
-- Tous les baux signés, avec la section G de chacun.
+- Tous les baux signés, avec la section G de chacun, et les décisions du Tribunal
+  administratif du logement s'il y en a.
 - Les avis de modification transmis, la réponse écrite du locataire et les dates.
-- Les décisions du Tribunal administratif du logement, s'il y en a.
 - Un registre des loyers : loyer au bail, dates de début et de fin, services inclus,
   ancienneté d'occupation.
 - Les comptes de taxes des trois dernières années et les avis de renouvellement
   d'assurance incendie et responsabilité.
-- Les factures et preuves de paiement des dépenses d'immobilisation, avec leur date,
+- Les factures et preuves de paiement des dépenses d'immobilisation avec leur date,
   plus les lettres de subvention et les règlements d'assureur, puisque l'article 13
   les déduit de toute façon.
 - Les états de revenus et dépenses, et vos déclarations T776 et TP-128.
 
 Un plex documenté se finance plus vite. Un plex dont les loyers sont annoncés sans
-bail se fait escompter, et c'est normal.
+bail se fait escompter.
 
 ## Questions fréquentes
 
 **Je refais la toiture cet été. De combien puis-je augmenter le loyer ?**
-Personne ne peut vous le dire d'avance, et un courtier ne devrait pas s'y risquer. Le
-règlement prévoit 5 % de la dépense d'immobilisation, appliqué à la part attribuable
-à chaque logement selon l'article 5, et seulement pour les dépenses de la période de
-référence. L'augmentation n'existe que si le locataire l'accepte ou si le tribunal
-l'accorde.
+Personne ne peut vous le dire d'avance. Le règlement prévoit 5 % de la dépense
+d'immobilisation, appliqué à la part attribuable à chaque logement selon l'article 5,
+et seulement pour les dépenses de la période de référence. L'augmentation n'existe que
+si le locataire l'accepte ou si le tribunal l'accorde.
 
 **Mes taxes municipales ont monté de 6 %. Est-ce que ça passe dans le loyer ?**
 Pas en entier. L'article 4 soustrait le pourcentage de base de cette variation, puis
 applique le reste au montant mensuel des taxes de la période de référence, selon la
-part attribuable au logement. Avec une base de 3,1 %, il ne reste pas grand-chose
-d'une hausse de 6 %.
+part attribuable au logement.
 
 **Mon locataire part. Puis-je fixer le loyer que je veux ?**
 Vous devez déclarer à la section G le loyer le plus bas payé dans les 12 mois
-précédents. Le nouveau locataire dispose ensuite de 10 jours pour demander la
-fixation, ou de deux mois si l'avis manque ou s'il est faux.
+précédents. Le nouveau locataire a ensuite 10 jours pour demander la fixation, ou deux
+mois si l'avis manque ou s'il est faux.
 
 **Un acheteur m'offre moins parce que mes loyers sont bas. Devrais-je attendre ?**
 Cela dépend de votre calendrier de baux, pas d'une intuition de marché. Sous cette
-méthode, les loyers remontent lentement et personne ne peut vous garantir un prix
-dans 18 mois. Ce que vous contrôlez, ce sont les avis, les preuves de travaux et la
-qualité de votre dossier.
+méthode, les loyers remontent lentement et personne ne peut vous garantir un prix dans
+18 mois. Ce que vous contrôlez, ce sont les avis et les preuves.
 
 Pour compléter, lisez [Gérer des propriétés locatives à Montréal et
 Laval](/articles/rental-property-management/) et [Plex à revenus à Montréal et Laval,

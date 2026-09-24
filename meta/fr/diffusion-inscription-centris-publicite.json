@@ -1,0 +1,80 @@
+{
+ "id": "t130",
+ "slug": "diffusion-inscription-centris-publicite",
+ "title": "Diffusion d'une inscription sur Centris: les règles",
+ "target_keyword": "diffusion inscription centris quebec",
+ "word_count": 1778,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/tools/home-estimate/",
+  "/articles/propriete-ne-se-vend-pas-quebec/",
+  "/articles/home-staging-client-story/",
+  "/articles/off-market-properties/",
+  "/articles/contrat-courtage-vente-quebec/",
+  "/articles/vendre-avec-ou-sans-courtier-quebec/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/pdf/rc/C-73.2,%20R.%201%20.pdf",
+   "title": "Règlement sur les conditions d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur la publicité, C-73.2, r. 1, à jour au 1er mai 2026",
+   "publisher": "Éditeur officiel du Québec, Légis Québec",
+   "consulted": "2026-09-24",
+   "supports": "Article 5 (vérifier les renseignements fournis au public et démontrer leur exactitude), article 44 (inscrire l'immeuble au service de diffusion au moment de débuter la mise en marché), article 45 (remettre au client un exemplaire de tout document contenant les données décrivant l'immeuble), article 111 (autorisation écrite expresse avant toute diffusion d'information sur un immeuble), article 112 (publicité fausse, trompeuse ou incomplète, prix qui doit être celui du contrat ou de la proposition), article 113 (statistique sans source, photographie du courtier de plus de 5 ans), article 114 (nom du courtier, permis, nom et permis de l'agence), article 118 (mentions obligatoires de la fiche descriptive)"
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-representation-sollicitation-promotion-et-publicite/publicite/",
+   "title": "Publicité, Ligne directrice Représentation, sollicitation, promotion et publicité",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Contrat signé et en vigueur avant toute publicité; interdiction des publications « bientôt sur le marché » ou « en évaluation »; obligations du courtier selon que le vendeur accepte ou refuse le service de diffusion d'information; formulaire Modifications en cas de changement; mentions obligatoires de la fiche descriptive; publicité véridique, vérifiable, complète; mention obligatoire lorsqu'une image est générée par intelligence artificielle; images qui modifient fondamentalement l'apparence de l'immeuble"
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-representation-sollicitation-promotion-et-publicite/publicite-des-transactions-completees/",
+   "title": "Publicité des transactions conclues, Ligne directrice Représentation, sollicitation, promotion et publicité",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Mention « vendu » seulement à la réalisation de toutes les conditions; retrait de l'écriteau et de toute publicité à la première des éventualités entre la signature de l'acte de vente et l'expiration du contrat de courtage; interdiction de publiciser le prix de vente, le prix initialement demandé ou un pourcentage permettant de le déduire; calcul du « vendu en X jours »; risque de vulnérabilité du vendeur en cas de divulgation hâtive"
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-verification-information-et-conseil/6-renseignements-sur-l-immeuble-principales-verifications-et-facteurs-defavorables/",
+   "title": "Renseignements sur l'immeuble: principales vérifications et facteurs défavorables, Ligne directrice Vérification, information et conseil",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "La fiche descriptive est souvent la première source consultée et doit être exacte, vérifiée et à jour; interdiction de continuer à diffuser une information devenue incomplète ou inexacte; mise à jour de la fiche et des Déclarations du vendeur par formulaire Modifications après la découverte d'un élément pertinent, par exemple à la suite d'une inspection"
+  },
+  {
+   "url": "https://www.oaciq.com/media/koxltg1f/dossier-contrat-courtage-vente.pdf",
+   "title": "Dossier de contrat de courtage vente, Service de l'inspection",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Section 6 du contrat de courtage vente consacrée au service de diffusion d'information, avec le nom du service et la case de renonciation; obligation de conserver une fiche descriptive au dossier même si le vendeur renonce à l'affichage; règle selon laquelle une information que le courtier n'est pas en mesure de vérifier ne peut pas être reproduite dans la fiche"
+  },
+  {
+   "url": "https://www.centris.ca/fr/a-propos",
+   "title": "Découvrez Centris",
+   "publisher": "Centris",
+   "consulted": "2026-09-24",
+   "supports": "Centris consolide et distribue les données immobilières au nom des courtiers membres d'une association ou d'une chambre immobilière et gère les données d'un système de gestion des transactions immobilières accessible 24 heures par jour; Centris.ca est le site grand public"
+  },
+  {
+   "url": "https://apciq.ca/pour-profiter-de-ressources-exclusives-lors-dun-achat/",
+   "title": "Pour profiter de ressources exclusives lors d'un achat",
+   "publisher": "APCIQ",
+   "consulted": "2026-09-24",
+   "supports": "La base Centris réservée aux courtiers contient environ cinq fois plus d'information que le site public, dont le prix demandé, le prix de vente et l'historique de vente sur plusieurs années; dès qu'une propriété y est inscrite, elle est visible par l'ensemble des courtiers membres d'une chambre immobilière, soit environ 13 000 professionnels"
+  },
+  {
+   "url": "https://apciq.ca/en/unified-centris-database-provides-comparable-province-wide-statistics/",
+   "title": "Unified Centris Database Provides Comparable Province-Wide Statistics",
+   "publisher": "APCIQ",
+   "consulted": "2026-09-24",
+   "supports": "Fusion des systèmes des chambres immobilières et base de données provinciale complétée en juin 2008; indicateurs publiés à partir de cette base, dont les ventes, les nouvelles inscriptions, les prix médians et le nombre de jours sur le marché"
+  }
+ ],
+ "claims_needing_review": [
+  "Le nombre d'environ 13 000 courtiers cité par l'APCIQ n'est pas daté sur la page source; à revalider avant publication.",
+  "L'article ne nomme aucun site tiers alimenté par Centris (par exemple REALTOR.ca): aucun document officiel consulté ne décrit ce mécanisme de rediffusion. Le texte renvoie plutôt le vendeur à la liste de sites convenue avec son courtier.",
+  "Les numéros d'articles du règlement sont ceux de la version à jour au 1er mai 2026; à revérifier si le règlement est modifié."
+ ]
+}
