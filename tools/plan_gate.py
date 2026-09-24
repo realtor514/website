@@ -110,11 +110,41 @@ def claim(ids):
     save_registry(reg)
 
 
+def release(ids):
+    """Libere completement une reclamation: claim, slug, mot-cle ET titre.
+
+    Oublier les deux derniers laisse le sujet se bloquer contre lui-meme a la
+    prochaine tentative, ce qui est arrive une fois: la porte 2 repondait
+    keyword=FAIL titre=FAIL sur un sujet dont plus personne ne s occupait.
+    """
+    plan = load_plan()
+    reg = load_registry()
+    rows = [r for r in plan["topics"] if r["id"] in ids]
+    slugs = {r["slug"] for r in rows}
+    keywords = {r["target_keyword_fr"] for r in rows}
+    titles = {r["topic"] for r in rows}
+
+    reg["claims"] = [c for c in reg["claims"] if c["id"] not in ids]
+    reg["slugs"] = [s for s in reg["slugs"] if s not in slugs]
+    reg["keywords"] = [k for k in reg["keywords"] if k not in keywords]
+    reg["titles"] = [t for t in reg["titles"] if t not in titles]
+    for r in rows:
+        if r.get("status") == "in_progress":
+            r["status"] = "clear"
+
+    save_registry(reg)
+    save_plan(plan)
+    for r in rows:
+        print("%s libere: %s" % (r["id"], r["slug"]))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "gate1"
     if cmd == "gate1":
         gate1()
     elif cmd == "claim":
         claim(set(sys.argv[2:]))
+    elif cmd == "release":
+        release(set(sys.argv[2:]))
     else:
         print(__doc__)

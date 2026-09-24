@@ -3958,7 +3958,7 @@
    "translationKey": "article-piscine-reglement",
    "needs_expert_review": true,
    "id": "t83",
-   "status": "error_retry_later",
+   "status": "in_progress",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -4489,7 +4489,7 @@
    "translationKey": "article-deces-conjoint",
    "needs_expert_review": true,
    "id": "t94",
-   "status": "error_retry_later",
+   "status": "in_progress",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -7170,7 +7170,7 @@
    "translationKey": "article-occupant-plex",
    "needs_expert_review": true,
    "id": "t150",
-   "status": "error_retry_later",
+   "status": "in_progress",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -7699,7 +7699,7 @@
    "translationKey": "article-loi-16-copropriete",
    "needs_expert_review": true,
    "id": "t161",
-   "status": "error_retry_later",
+   "status": "in_progress",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {

@@ -98,17 +98,54 @@ def from_unsplash(query, key):
     return None, None, None
 
 
+FALLBACK = {
+    "Guide de l'acheteur": "house exterior buyer keys",
+    "Guide du vendeur": "house for sale sign",
+    "Financement": "mortgage documents calculator",
+    "Investissement": "apartment building investment",
+    "Immobilier 101": "real estate documents desk",
+    "Analyse de marche": "city skyline housing",
+    "Guide pratique": "house maintenance tools",
+}
+
+
+def derive_query(slug):
+    """Requete de secours pour un article sans requete curee.
+
+    On part de la categorie, qui donne une image credible a coup sur, plutot que
+    de traduire un slug francais mot a mot et d obtenir n importe quoi.
+    """
+    path = ROOT / "content" / "fr" / "articles" / (slug + ".md")
+    cat = ""
+    if path.is_file():
+        m = re.search(r'^category:\s*"?([^"\n]+)', path.read_text(encoding="utf-8"), re.M)
+        cat = m.group(1).strip() if m else ""
+    return FALLBACK.get(cat, "quebec residential house exterior")
+
+
 def missing():
+    """Tout article francais dont le champ image pointe vers un fichier absent.
+
+    On ne se fie pas a une liste ecrite a la main: c est exactement ainsi que
+    25 articles sont partis en ligne avec une image cassee. On lit le contenu.
+    """
     out = []
-    for slug in QUERIES:
-        if not (IMG / slug / "featured.jpg").is_file():
-            out.append(slug)
+    folder = ROOT / "content" / "fr" / "articles"
+    for path in sorted(folder.glob("*.md")):
+        if path.stem == "_index":
+            continue
+        m = re.search(r'^image:\s*"?([^"\n]+)', path.read_text(encoding="utf-8"), re.M)
+        if not m:
+            continue
+        if not (ROOT / "static" / m.group(1).strip()).is_file():
+            out.append(path.stem)
+            QUERIES.setdefault(path.stem, derive_query(path.stem))
     return out
 
 
 def main():
     todo = missing()
-    print("%d image(s) manquante(s) sur %d articles suivis" % (len(todo), len(QUERIES)))
+    print("%d article(s) francais sans image a la une" % len(todo))
     if "--check" in sys.argv:
         for s in todo:
             print("  manque:", s)
@@ -123,11 +160,14 @@ def main():
 
     credits = {}
     ok = fail = 0
+    # Une cle qui echoue une fois echoue pour toutes: on l abandonne au lieu de
+    # relancer 25 appels perdus. Vecu avec une cle Pexels expiree.
+    dead = set()
     for slug in todo:
         q = QUERIES[slug]
         blob = who = where = None
         for name, fn, key in (("pexels", from_pexels, pexels), ("unsplash", from_unsplash, unsplash)):
-            if not key:
+            if not key or name in dead:
                 continue
             try:
                 blob, who, where = fn(q, key)
@@ -136,7 +176,8 @@ def main():
                     break
                 blob = None
             except Exception as e:
-                print("  %-46s %s a echoue: %s" % (slug[:46], name, type(e).__name__))
+                print("  cle %s abandonnee apres un echec: %s" % (name, type(e).__name__))
+                dead.add(name)
                 blob = None
         if not blob:
             print("  ECHEC %s" % slug)
