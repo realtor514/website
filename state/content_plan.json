@@ -4203,7 +4203,7 @@
    "translationKey": "article-immeuble-commercial",
    "needs_expert_review": true,
    "id": "t88",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -4226,7 +4226,9 @@
      "s": 0.0781,
      "match": "/articles/mortgage-preapproval-mistakes/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/verifications-immeuble-commercial-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 366,
