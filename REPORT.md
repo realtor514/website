@@ -51,7 +51,7 @@ chaque coupure est intact.
 
 ---
 
-## Les 22 articles en ligne
+## Les 23 articles en ligne
 
 | Date | Article | Categorie |
 |---|---|---|
@@ -99,7 +99,7 @@ famille. Ses quatre versions sont pretes. Voir `NEEDS_HUMAN.md`.
 
 **Les six portes anti-doublon passent sur les 23 articles.** Slug, titre,
 mot-cle, sujet en cosinus TF-IDF, contenu en segments de 5 mots et cosinus
-contre les 348 articles du site, et comparaison au site de reference.
+contre les 352 articles du site, et comparaison au site de reference.
 
 **Recoupement avec les articles de rovenapistoli.com: 0,000.** Leur texte
 integral a ete telecharge dans un cache local, hors depot, qui ne sert qu au
