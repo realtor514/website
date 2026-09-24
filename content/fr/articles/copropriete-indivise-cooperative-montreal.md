@@ -1,7 +1,7 @@
 ---
 title: "Copropriété indivise à Montréal : comment ça se finance"
 date: 2026-09-11
-lastmod: 2026-09-23
+lastmod: 2026-09-11
 translationKey: "article-indivise-cooperative"
 category: "Financement"
 description: "Pourquoi l'indivision existe à Montréal, la mise de fonds exigée, la convention d'indivision et les documents à obtenir avant de signer une offre."

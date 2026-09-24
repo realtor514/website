@@ -1,7 +1,7 @@
 ---
 title: "Noise and Soundproofing in a Quebec Condo: What to Check"
 date: 2026-08-30
-lastmod: 2026-09-23
+lastmod: 2026-08-30
 translationKey: "article-bruit-maison-condo"
 category: "Buyer's Guide"
 description: "Airborne or impact noise, year of construction, the floor covering clause in the declaration of co-ownership, five tests during the visit, and the real recourse in Quebec."

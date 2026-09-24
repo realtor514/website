@@ -145,33 +145,9 @@
    "state": "in_progress"
   },
   {
-   "id": "t83",
-   "slug": "reglement-piscine-securite-quebec",
-   "keyword": "reglement piscine residentielle quebec",
-   "state": "in_progress"
-  },
-  {
-   "id": "t94",
-   "slug": "deces-conjoint-proteger-propriete-quebec",
-   "keyword": "deces conjoint de fait maison quebec",
-   "state": "in_progress"
-  },
-  {
    "id": "t145",
    "slug": "garantie-gcr-maison-neuve-quebec",
    "keyword": "garantie maison neuve gcr quebec",
-   "state": "in_progress"
-  },
-  {
-   "id": "t150",
-   "slug": "proprietaire-occupant-plex-reprise",
-   "keyword": "proprietaire occupant plex quebec",
-   "state": "in_progress"
-  },
-  {
-   "id": "t161",
-   "slug": "loi-16-copropriete-acheteur-quebec",
-   "keyword": "loi 16 copropriete quebec obligations",
    "state": "in_progress"
   }
  ],
@@ -200,11 +176,7 @@
   "acheter-reprise-de-finance-quebec",
   "casser-hypotheque-penalite-quebec",
   "vice-cache-conditions-recours-quebec",
-  "reglement-piscine-securite-quebec",
-  "deces-conjoint-proteger-propriete-quebec",
-  "garantie-gcr-maison-neuve-quebec",
-  "proprietaire-occupant-plex-reprise",
-  "loi-16-copropriete-acheteur-quebec"
+  "garantie-gcr-maison-neuve-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",

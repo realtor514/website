@@ -1,7 +1,7 @@
 ---
 title: "Desagüe hundido en Montreal: qué verificar antes de hacer una oferta"
 date: 2026-09-17
-lastmod: 2026-09-23
+lastmod: 2026-09-17
 translationKey: "article-ventre-de-boeuf"
 category: "Guía del Comprador"
 description: "Ventre de bœuf en el desagüe en Montreal: inspección con cámara, responsabilidad hasta la calle, subvención RénoPlex para la válvula antirretorno y cláusula de seguro."

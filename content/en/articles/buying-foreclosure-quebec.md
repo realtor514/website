@@ -1,7 +1,7 @@
 ---
 title: "Buying a Foreclosure in Quebec: The Rules That Apply"
 date: 2026-08-24
-lastmod: 2026-09-23
+lastmod: 2026-08-24
 translationKey: "article-reprise-de-finance"
 category: "Buyer's Guide"
 description: "Prior notice of exercise, the 60 day period, taking in payment or sale under judicial authority: what you accept when you buy a foreclosure in Quebec."

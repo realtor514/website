@@ -1,7 +1,7 @@
 ---
 title: "Penalidad por romper una hipoteca: el cálculo real en Quebec"
 date: 2026-09-05
-lastmod: 2026-09-23
+lastmod: 2026-09-05
 translationKey: "article-casser-hypotheque"
 category: "Financiamiento"
 description: "Tres meses de intereses o diferencial de tasas, tasa anunciada o tasa con descuento, carta de pago y Registre foncier: el cálculo real en Quebec."
