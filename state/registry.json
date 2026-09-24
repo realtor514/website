@@ -233,6 +233,12 @@
    "slug": "maison-neuve-ou-existante-quebec",
    "keyword": "maison neuve ou usagee quebec",
    "state": "in_progress"
+  },
+  {
+   "id": "t125",
+   "slug": "rembourser-hypotheque-plus-vite-quebec",
+   "keyword": "rembourser hypotheque plus vite quebec",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -274,7 +280,8 @@
   "acheter-un-terrain-quebec-verifications",
   "banlieue-ou-ville-cout-reel-montreal",
   "acheter-maison-hiver-montreal",
-  "maison-neuve-ou-existante-quebec"
+  "maison-neuve-ou-existante-quebec",
+  "rembourser-hypotheque-plus-vite-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -315,7 +322,8 @@
   "acheter un terrain au quebec",
   "cout de la vie banlieue montreal",
   "acheter une maison en hiver quebec",
-  "maison neuve ou usagee quebec"
+  "maison neuve ou usagee quebec",
+  "rembourser hypotheque plus vite quebec"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -356,6 +364,7 @@
   "Acheter un terrain au Quebec: zonage, services, tests et conditions a inscrire",
   "Banlieue ou ville: le calcul complet pour Montreal, Laval et la couronne nord",
   "Acheter en hiver a Montreal et a Laval: moins de concurrence, plus d'angles morts",
-  "Neuf ou existant au Quebec: garantie GCR, taxes et garantie legale de qualite"
+  "Neuf ou existant au Quebec: garantie GCR, taxes et garantie legale de qualite",
+  "Rembourser son hypotheque plus vite: privileges, frequence et penalites"
  ]
 }

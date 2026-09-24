@@ -5168,7 +5168,7 @@
    "translationKey": "article-banlieue-vs-ville",
    "needs_expert_review": false,
    "id": "t108",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5191,7 +5191,9 @@
      "s": 0.2647,
      "match": "/articles/rive-nord-guide-laval/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/banlieue-ou-ville-cout-reel-montreal.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 199,
@@ -5985,7 +5987,7 @@
    "translationKey": "article-remboursement-accelere",
    "needs_expert_review": true,
    "id": "t125",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
