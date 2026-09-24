@@ -832,7 +832,7 @@
    "translationKey": "article-turnkey-vs-fixer",
    "needs_expert_review": true,
    "id": "t18",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1024,7 +1024,7 @@
    "translationKey": "article-pool-true-cost",
    "needs_expert_review": true,
    "id": "t22",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1072,7 +1072,7 @@
    "translationKey": "article-list-vs-sold-price",
    "needs_expert_review": false,
    "id": "t23",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -6938,7 +6938,7 @@
    "translationKey": "article-demolition-reconstruction",
    "needs_expert_review": true,
    "id": "t144",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {

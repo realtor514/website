@@ -341,6 +341,30 @@
    "slug": "maximiser-valeur-plex-montreal",
    "keyword": "augmenter la valeur d un plex",
    "state": "in_progress"
+  },
+  {
+   "id": "t18",
+   "slug": "cle-en-main-ou-a-renover-quebec",
+   "keyword": "maison a renover ou cle en main quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t22",
+   "slug": "vrai-cout-piscine-residentielle-quebec",
+   "keyword": "cout piscine creusee quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t23",
+   "slug": "prix-demande-prix-vendu-montreal",
+   "keyword": "prix vendu vs prix demande montreal",
+   "state": "in_progress"
+  },
+  {
+   "id": "t144",
+   "slug": "acheter-pour-demolir-permis-quebec",
+   "keyword": "acheter une maison pour demolir quebec",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -400,7 +424,11 @@
   "visite-libre-vendeur-quebec",
   "processus-mise-en-vente-etapes-quebec",
   "preparer-rencontre-courtier-documents",
-  "maximiser-valeur-plex-montreal"
+  "maximiser-valeur-plex-montreal",
+  "cle-en-main-ou-a-renover-quebec",
+  "vrai-cout-piscine-residentielle-quebec",
+  "prix-demande-prix-vendu-montreal",
+  "acheter-pour-demolir-permis-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -459,7 +487,11 @@
   "visite libre vendeur montreal",
   "processus de vente maison quebec",
   "premiere rencontre courtier immobilier",
-  "augmenter la valeur d un plex"
+  "augmenter la valeur d un plex",
+  "maison a renover ou cle en main quebec",
+  "cout piscine creusee quebec",
+  "prix vendu vs prix demande montreal",
+  "acheter une maison pour demolir quebec"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -518,6 +550,10 @@
   "La visite libre vaut-elle encore la peine pour un vendeur au Quebec",
   "Mettre sa propriete en vente au Quebec: les douze etapes, du premier appel a l acte notarie",
   "Premiere rencontre avec un courtier: les documents a apporter selon que vous achetez ou vendez",
-  "Augmenter la valeur d un plex a Montreal ou a Laval: ce qui compte vraiment"
+  "Augmenter la valeur d un plex a Montreal ou a Laval: ce qui compte vraiment",
+  "Maison cle en main ou maison a renover: le vrai calcul en 2026",
+  "Le vrai cout d'une piscine residentielle au Quebec",
+  "Prix demande et prix vendu a Montreal: comprendre l'ecart",
+  "Acheter pour demolir et reconstruire: le comite de demolition, le permis et les couts caches"
  ]
 }
