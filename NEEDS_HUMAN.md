@@ -1,6 +1,6 @@
 # Ce qui demande une decision de Georges
 
-Mis a jour le 2026-09-23, session 1, branche `auto/blogue-content`.
+Mis a jour le 2026-09-24. Branche de travail `auto/blogue-content`, fusionnee dans `main`.
 
 Rien dans ce fichier ne bloque la production. Tout ce qui est liste ici a ete
 contourne proprement et la production a continue.
@@ -93,18 +93,19 @@ qui restent en brouillon le sont pour une raison precise, indiquee plus bas.
 
 | Date | Article | Etat | Points a revalider |
 |---|---|---|---|
-| 2026-08-24 | `acheter-reprise-de-finance-quebec` | brouillon | 0 |
+| 2026-08-24 | `acheter-reprise-de-finance-quebec` | en ligne | 3 |
 | 2026-08-25 | `acheter-zone-inondable-quebec` | en ligne | 4 |
 | 2026-08-26 | `choisir-inspecteur-batiment-quebec` | en ligne | 3 |
 | 2026-08-27 | `conjoints-de-fait-maison-quebec` | brouillon | 4 |
 | 2026-09-02 | `contrat-courtage-vente-quebec` | en ligne | 2 |
-| 2026-09-05 | `casser-hypotheque-penalite-quebec` | brouillon | 0 |
+| 2026-09-05 | `casser-hypotheque-penalite-quebec` | en ligne | 3 |
 | 2026-09-06 | `declaration-du-vendeur-quebec` | en ligne | 3 |
-| 2026-09-11 | `copropriete-indivise-cooperative-montreal` | brouillon | 0 |
+| 2026-09-11 | `copropriete-indivise-cooperative-montreal` | en ligne | 4 |
 | 2026-09-14 | `impot-proprietaire-quebec` | en ligne | 5 |
 | 2026-09-16 | `location-court-terme-quebec-regles` | en ligne | 4 |
 | 2026-09-21 | `vente-sans-garantie-legale-quebec` | en ligne | 4 |
-| 2026-09-23 | `vice-cache-conditions-recours-quebec` | brouillon | 0 |
+| 2026-09-23 | `garantie-gcr-maison-neuve-quebec` | en ligne | 0 |
+| 2026-09-23 | `vice-cache-conditions-recours-quebec` | en ligne | 3 |
 
 La colonne **Points a revalider** compte les elements que le redacteur a
 lui-meme signales dans `meta/fr/<slug>.json`, champ `claims_needing_review`.
