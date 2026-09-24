@@ -7,7 +7,7 @@ category: "Practical Guide"
 description: "Quebec residential pool rules: enclosure, gate, ladder, permit, fine, and the 30 September 2027 deadline that follows the pool, not the owner."
 image: "images/articles/reglement-piscine-securite-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Plenty of owners believe the deadline went by in the fall of 2025. It did not.

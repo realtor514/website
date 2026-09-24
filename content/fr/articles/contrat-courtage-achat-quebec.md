@@ -7,7 +7,7 @@ category: "Immobilier 101"
 description: "Formulaire CCA, exclusivité, clause 6.2, double représentation: ce que le contrat de courtage achat au Québec vous engage à faire, avant de signer."
 image: "images/articles/contrat-courtage-achat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Le document tient sur huit pages et se signe souvent dans une cuisine, entre

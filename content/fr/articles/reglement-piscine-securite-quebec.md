@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Règlement piscine résidentielle au Québec: enceinte, porte, échelle, permis, amende, et le 30 septembre 2027 qui suit la piscine."
 image: "images/articles/reglement-piscine-securite-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Beaucoup de propriétaires croient que la date limite est passée depuis l'automne

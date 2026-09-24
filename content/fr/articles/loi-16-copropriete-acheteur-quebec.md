@@ -7,7 +7,7 @@ category: "Guide de l'acheteur"
 description: "Carnet d'entretien, étude du fonds de prévoyance, attestation du syndicat: les obligations de la loi 16 en vigueur en 2026, et celles qui attendent."
 image: "images/articles/loi-16-copropriete-acheteur-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un vendeur vous annonce que sa copropriété n'a ni carnet d'entretien ni étude du

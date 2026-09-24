@@ -7,7 +7,7 @@ category: "Immobilier 101"
 description: "Testament, titre, assurance, liquidateur, déclaration de transmission : ce qui protège la maison au décès d'un conjoint de fait au Québec."
 image: "images/articles/deces-conjoint-proteger-propriete-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un testament écrit à la main gèle une succession pendant des semaines. Une assurance

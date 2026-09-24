@@ -7,7 +7,7 @@ category: "Buyer's Guide"
 description: "Maintenance logbook, contingency fund study, syndicate attestation: the Bill 16 obligations in force in 2026, and the ones still on the clock."
 image: "images/articles/loi-16-copropriete-acheteur-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 A seller tells you his co-ownership has neither a maintenance logbook nor a

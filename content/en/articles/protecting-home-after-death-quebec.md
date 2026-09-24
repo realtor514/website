@@ -7,7 +7,7 @@ category: "Real Estate 101"
 description: "Will, title, insurance, liquidator, declaration of transmission: what actually protects the home when a common-law partner dies in Quebec."
 image: "images/articles/deces-conjoint-proteger-propriete-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 A will written by hand can freeze an estate for weeks. Insurance sold by the lender

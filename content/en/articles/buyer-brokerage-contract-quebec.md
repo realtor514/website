@@ -7,7 +7,7 @@ category: "Real Estate 101"
 description: "Form CCA, exclusivity, clause 6.2, double representation: what a buyer brokerage contract in Quebec actually commits you to, before you sign it."
 image: "images/articles/contrat-courtage-achat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 The document runs eight pages and often gets signed in a kitchen, between two

@@ -7,7 +7,7 @@ category: "Inmobiliaria 101"
 description: "Testamento, título, seguro, liquidateur y declaración de transmisión: lo que protege la vivienda cuando fallece una pareja de hecho en Quebec."
 image: "images/articles/deces-conjoint-proteger-propriete-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un testamento escrito a mano congela una sucesión durante semanas. Un seguro vendido
@@ -190,7 +190,7 @@ separación, una nueva unión o una compra.
 **Mi pareja de hecho es beneficiaria de mi seguro de vida. ¿Alcanza para que se quede
 con la casa?** No. La suma se le pagará fuera de la sucesión (art. 2455), pero no le da
 ningún derecho sobre el inmueble: tendrá que comprar la parte de los herederos y
-calificar sola ante un prestamista.
+calificar por su cuenta ante un prestamista.
 
 **Estamos separados desde hace dos años y no cambié nada. ¿Quién recibe el dinero?** Si
 eran pareja de hecho, su ex sigue siendo beneficiario. La caducidad del artículo 2459
