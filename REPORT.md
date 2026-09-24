@@ -1,8 +1,8 @@
 # Blogue, rapport de session
 
-**23 articles ecrits, traduits et EN LIGNE dans les 4 langues.**
+**31 articles ecrits, traduits et EN LIGNE dans les 4 langues.**
 
-Le site est passe de **63 a 88 articles par langue**: 352 fichiers publies au
+Le site est passe de **63 a 96 articles par langue**: 384 fichiers publies au
 lieu de 252. Verifie en direct sur georgesmatar.ca, pas seulement en local.
 
 ---
@@ -40,6 +40,24 @@ traductions depuis la coupure de la veille.
 **A signaler:** la cle `PEXELS_API_KEY` de `.env` renvoie une erreur HTTP a
 chaque appel, elle semble expiree. Unsplash a tout fourni, donc rien n est
 bloque, mais la solution de secours ne fonctionne plus.
+
+**Huit articles de plus publies dans l apres-midi**, chacun dans les 4 langues,
+avec leur image telechargee dans le meme geste:
+
+| Date | Article |
+|---|---|
+| 25 aout | Acheter seul, sur un seul revenu |
+| 28 aout | Contrat de courtage achat: le formulaire de l acheteur |
+| 3 sept | Proteger la propriete apres un deces |
+| 10 sept | Copropriete: les documents a exiger avant d offrir |
+| 12 sept | Vermiculite et amiante dans une maison |
+| 18 sept | Acheter un plex pour y vivre: la reprise de logement |
+| 24 sept | Choisir un entrepreneur en renovation |
+| 24 sept | Reglement sur la securite des piscines |
+
+Deux articles ne sont pas en ligne: `radon-maison-quebec-depistage`, dont les
+traductions finissent, et `conjoints-de-fait-maison-quebec`, retenu en
+attendant votre decision.
 
 ---
 
