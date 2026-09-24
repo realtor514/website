@@ -7,7 +7,7 @@ category: "Financement"
 description: "Paiement accéléré, versement forfaitaire, hausse du paiement, renouvellement : les quatre leviers pour rembourser son hypothèque plus vite."
 image: "images/articles/rembourser-hypotheque-plus-vite-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Votre prêteur vous propose de passer « aux deux semaines ». Deux options portent

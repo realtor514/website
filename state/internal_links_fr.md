@@ -26,6 +26,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Pénalité pour casser une hypothèque : le calcul au Québec](/articles/casser-hypotheque-penalite-quebec/) : Trois mois d'intérêts ou différentiel de taux, taux affiché contre taux consenti, quittance et Registre f
 - [Quel salaire faut-il pour acheter à Montréal ou à Laval?](/articles/quel-salaire-pour-acheter-montreal/) : La question n'est pas seulement le salaire. Voici comment les prêteurs calculent réellement votre capacit
 - [Refinancement hypothécaire au Québec : est-ce rentable ?](/articles/refinancement-hypothecaire-quebec/) : Renouvellement, transfert ou refinancement hypothécaire au Québec : le plafond de 80 %, la pénalité, l'as
+- [Rembourser son hypothèque plus vite au Québec](/articles/rembourser-hypotheque-plus-vite-quebec/) : Paiement accéléré, versement forfaitaire, hausse du paiement, renouvellement : les quatre leviers pour re
 - [Taux d'intérêt et marché immobilier de Montréal : comment ça se transmet vraiment](/articles/interest-rates-montreal-market/) : Taux directeur, taux préférentiel, marché obligataire, test de résistance, renouvellement : le chemin rée
 - [Tout ce que les premiers acheteurs doivent savoir sur les hypothèques au Québec](/articles/guide-hypotheque-premier-acheteur/) : Le processus hypothécaire est plus complexe que votre banque le laisse paraître, et plus simple que ce qu
 

@@ -47,6 +47,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Finance
 - [Getting Into Homeownership in Quebec in 2026: What Actually Exists for a First-Time Buyer](/en/articles/everyone-deserves-homeownership/) : FHSA, HBP, tax credits, the GST rebate on new homes, minimum down payments and 30-year amortization: who 
 - [Homeowner Tax in Quebec: What Actually Gets Deducted](/en/articles/homeowner-tax-deductions-quebec/) : Homeowner tax in Quebec: deductions, the principal residence exemption, the home office, plexes and chang
+- [How to Pay Off Your Mortgage Faster in Quebec](/en/articles/pay-off-mortgage-faster-quebec/) : Accelerated payments, lump sums, higher payments, renewal: the four levers that shorten a mortgage in Que
 - [Interest Rates and the Montreal Market: How the Transmission Actually Works](/en/articles/interest-rates-montreal-market/) : Policy rate, prime rate, bond yields, stress test and renewal shock: the real path between a Bank of Cana
 - [Mortgage Penalty in Quebec: How Breaking Your Mortgage Is Calculated](/en/articles/breaking-mortgage-penalty-quebec/) : Three months' interest or the interest rate differential, posted rate versus discounted rate, discharge a
 - [Mortgage Pre-Approval: What It Guarantees and What It Does Not](/en/articles/mortgage-preapproval-mistakes/) : Validity window, GDS and TDS ratios, the stress test, credit checks and the lender's appraisal: the mista
