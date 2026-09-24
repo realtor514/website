@@ -69,6 +69,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 ## Investment
 - [Buying a Commercial Building in Quebec: The Due Diligence](/en/articles/commercial-building-due-diligence-quebec/) : Broker licence, leases, phase I study, zoning, the non-residential tax rate, GST and QST: the checks to m
+- [Buying a Cottage in Quebec: Well, Septic and Access](/en/articles/buying-a-cottage-quebec/) : Rive, fosse septique, well, chemin privé, insurance and financing: the checks to make before you buy a co
 - [Buying a Triplex in Laval: What to Verify Before You Make an Offer](/en/articles/investir-triplex-laval-strategie/) : Down payment, how a lender counts the rents, Laval taxes and transfer duties, TAL rent control and zoning
 - [House Flipping in Montreal: The Honest Math Nobody Shows You](/en/articles/house-flipping-montreal/) : The 365-day rule, GST and QST on a major renovation, transfer duties, permits and the RBQ licence: the fu
 - [How to Build a Real Estate Portfolio in Greater Montreal Starting From Zero](/en/articles/build-real-estate-portfolio/) : Down payment by unit count, the stress test, refinancing at 80%, Quebec rent control and the tax rules: w

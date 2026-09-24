@@ -9,6 +9,17 @@ article ne vit pas dans une langue seule.
 Pas une traduction litterale. Une **localisation**: le meme article, ecrit pour
 un lecteur de cette langue qui vit au Quebec et qui cherche dans sa langue.
 
+## La seule source de verite est l article francais
+
+Si votre consigne vous demande de preserver un element qui ne se trouve pas
+dans le fichier francais, **ne l inventez pas**. Signalez-le et traduisez ce qui
+est reellement ecrit.
+
+C est arrive trois fois: une consigne mentionnait un decret, une enquete datee
+et un alinea de loi qui n existaient que dans le resume du redacteur, pas dans
+son texte. Les trois traducteurs ont refuse d ajouter la donnee et l ont
+signale. C etait la bonne reaction, et la regle est desormais ecrite ici.
+
 ## Ce qui ne change jamais
 
 - Les faits, les chiffres, les articles de loi, les delais, les noms d organismes.

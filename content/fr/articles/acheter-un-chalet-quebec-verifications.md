@@ -7,7 +7,7 @@ category: "Investissement"
 description: "Bande riveraine, fosse septique, puits, chemin privé, assurance et financement : les vérifications avant d'acheter un chalet au Québec."
 image: "images/articles/acheter-un-chalet-quebec-verifications/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un chalet se vend avec une photo du lac. Ce qui décide du dossier ne s'y voit
