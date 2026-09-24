@@ -42,7 +42,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [غرامة كسر الرهن العقاري في كيبيك: كيف تُحسب فعلاً](/ar/articles/breaking-mortgage-penalty-quebec/) : فوائد ثلاثة أشهر أو فارق سعر الفائدة، السعر المعلن أم السعر المخفَّض، الإبراء والسجل العقاري: الحساب الحق
 - [ما الراتب اللازم للشراء في مونتريال أو لافال؟](/ar/articles/what-salary-to-buy-montreal/) : السؤال ليس عن الراتب وحده. إليك كيف يحسب المُقرضون قدرتك على الاقتراض فعلياً في كيبيك، ولماذا لا يحصل شخص
 - [مصاريف الانتقال في كيبيك: قاعدة 40 كم وما الذي يُخصم فعلاً](/ar/articles/moving-expenses-deduction-quebec/) : خصم مصاريف الانتقال وقاعدة 40 كم: من يحق له الخصم، وما الذي يُخصم، ونموذجا T1-M وTP-348، وسقف الدخل المكت
-- [منزل Novoclimat في كيبيك: ما الذي تشتريه هذه الشهادة فعلاً](/ar/articles/energy-efficient-home-novoclimat-quebec/) (brouillon) : Novoclimat: ما تضمنه الشهادة، ومساعدة 2 000 $ أو 4 000 $، واسترداد 25% من قسط SCHL عبر Éco Plus، وما يبقى
+- [منزل Novoclimat في كيبيك: ما الذي تشتريه هذه الشهادة فعلاً](/ar/articles/energy-efficient-home-novoclimat-quebec/) : Novoclimat: ما تضمنه الشهادة، ومساعدة 2 000 $ أو 4 000 $، واسترداد 25% من قسط SCHL عبر Éco Plus، وما يبقى
 
 ## دليل البائع
 - [إقرارات البائع في كيبيك: نموذج DV 00001](/ar/articles/seller-declaration-form-quebec/) : نموذج DV 00001 إلزامي ويُرفَق بـ promesse d'achat. ما الذي يعلنه البائع فعلاً، وما الذي يخاطر به إن أخفى 

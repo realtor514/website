@@ -7,7 +7,7 @@ category: "Finance"
 description: "Novoclimat: what the certification guarantees, the $2,000 or $4,000 grant, the 25% SCHL premium refund under Éco Plus, and what nobody can verify."
 image: "images/articles/maison-ecoenergetique-novoclimat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 "Energy efficient home" is not a legal category. Anyone can write those words in a

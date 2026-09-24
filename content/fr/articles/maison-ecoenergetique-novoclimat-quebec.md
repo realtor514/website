@@ -7,7 +7,7 @@ category: "Financement"
 description: "Novoclimat: ce que la certification garantit, l'aide de 2 000 $ ou 4 000 $, le remboursement Éco Plus de 25 % de la SCHL, et ce qui reste invérifiable."
 image: "images/articles/maison-ecoenergetique-novoclimat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 « Maison écoénergétique » n'est pas une catégorie légale. N'importe qui peut écrire ces mots

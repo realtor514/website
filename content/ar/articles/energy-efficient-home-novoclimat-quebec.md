@@ -7,7 +7,7 @@ category: "تمويل"
 description: "Novoclimat: ما تضمنه الشهادة، ومساعدة 2 000 $ أو 4 000 $، واسترداد 25% من قسط SCHL عبر Éco Plus، وما يبقى غير قابل للتحقق."
 image: "images/articles/maison-ecoenergetique-novoclimat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 عبارة «منزل موفّر للطاقة» ليست فئة قانونية. أي شخص يستطيع كتابتها في وصف عقار، ولا
