@@ -24,6 +24,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 ## تحليل السوق
 - [الحديث عن انهيار عقاري في مونتريال: ما الذي تسمح البيانات بقوله](/ar/articles/montreal-market-crash-analysis/) : المبيعات والعروض السارية والأسعار الوسيطة ومدة البيع: ما تقوله بيانات APCIQ وISQ وStatistique Canada عن س
+- [تكلفة العيش في ضواحي مونتريال: الحساب الحقيقي](/ar/articles/suburb-or-city-real-cost-montreal/) : الأسعار الوسيطة لشهر أغسطس 2026، والضرائب، والبطاقة الشهرية في مقابل سيارة ثانية، وزمن التنقّل: التكلفة ا
 - [سوق العقارات في مونتريال ولافال: قراءة البيانات لا التوقعات](/ar/articles/marche-immobilier-montreal-analyse-donnees/) : المبيعات والعروض والأسعار الوسيطة ونسبة الشغور والسكان: كيف تقرأ بيانات APCIQ وSCHL وISQ المؤرَّخة عن سوق
 
 ## تمويل

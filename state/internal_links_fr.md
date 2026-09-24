@@ -6,6 +6,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 
 ## Analyse de marché
+- [Coût de la vie en banlieue de Montréal: le vrai calcul](/articles/banlieue-ou-ville-cout-reel-montreal/) : Prix médians d'août 2026, taxes, passe mensuelle contre deuxième voiture, temps de trajet: le coût réel d
 - [Marché immobilier de Montréal et Laval: lire les données, pas les prédictions](/articles/marche-immobilier-montreal/) : Ventes, inscriptions, prix médians, inoccupation, population: comment lire les données datées de l'APCIQ,
 - [Parler d'un krach immobilier à Montréal : ce que les données permettent de dire](/articles/montreal-market-crash-analysis/) : Ventes, inscriptions, prix médians, délais de vente : ce que les données publiques de l'APCIQ, de l'ISQ e
 

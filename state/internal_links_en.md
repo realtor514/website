@@ -79,6 +79,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 ## Market Analysis
 - [Montreal and Laval Real Estate Market: Reading the Data, Not the Predictions](/en/articles/marche-immobilier-montreal-analyse-donnees/) : Sales, listings, median prices, vacancy and population: how to read dated APCIQ, CMHC and ISQ data on the
+- [The Real Cost of Living in the Montreal Suburbs: The Honest Math](/en/articles/suburb-or-city-real-cost-montreal/) : August 2026 median prices, taxes, a monthly pass against a second car, commuting time: what the Montreal 
 
 ## Market Insights
 - [Talking About a Montreal Housing Crash: What the Data Lets You Say](/en/articles/montreal-market-crash-analysis/) : Sales, active listings, median prices and days on market: what public APCIQ, ISQ and Statistics Canada da

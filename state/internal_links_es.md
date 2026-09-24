@@ -6,6 +6,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 
 ## Análisis de Mercado
+- [El costo de vivir en los suburbios de Montreal: el cálculo real](/es/articles/suburbio-o-ciudad-costo-real-montreal/) : Precios medianos de agosto de 2026, impuestos, abono mensual contra un segundo auto, tiempos de trayecto:
 - [Hablar de un desplome inmobiliario en Montreal: lo que los datos permiten decir](/es/articles/montreal-market-crash-analysis/) : Ventas, inscripciones, precios medianos y plazos de venta: lo que dicen los datos públicos de APCIQ, ISQ 
 - [Mercado Inmobiliario de Montréal y Laval: Leer los Datos, no las Predicciones](/es/articles/marche-immobilier-montreal-analyse-donnees/) : Ventas, inscripciones, precios medianos, desocupación y población: cómo leer los datos fechados de la APC
 
