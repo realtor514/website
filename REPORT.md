@@ -1,8 +1,8 @@
 # Blogue, rapport de session
 
-**40 articles ecrits, traduits et EN LIGNE dans les 4 langues.**
+**45 articles ecrits, traduits et EN LIGNE dans les 4 langues.**
 
-Le site est passe de **63 a 104 articles par langue**: 416 fichiers publies au
+Le site est passe de **63 a 108 articles par langue**: 432 fichiers publies au
 lieu de 252. Verifie en direct sur georgesmatar.ca, pas seulement en local.
 
 ---
@@ -69,7 +69,7 @@ chaque coupure est intact.
 
 ---
 
-## Les 41 articles produits
+## Les 45 articles produits
 
 | Date | Article | Categorie |
 |---|---|---|
@@ -79,7 +79,7 @@ chaque coupure est intact.
 | 25 aout | Acheter une maison en hiver au Québec: les angles morts | Guide de l'acheteur |
 | 25 aout | Acheter une maison seul au Québec: les vrais leviers | Guide de l'acheteur |
 | 26 aout | Choisir un inspecteur en bâtiment au Québec | Guide de l'acheteur |
-| 27 aout | Conjoints de fait et maison au Québec : ce qui vous protège (brouillon) | Immobilier 101 |
+| 27 aout | Conjoints de fait et maison au Québec : ce qui vous protège | Immobilier 101 |
 | 28 aout | Contrat de courtage achat au Québec: ce que vous signez | Immobilier 101 |
 | 30 aout | Bruit et insonorisation en condo au Québec : quoi vérifier | Guide de l'acheteur |
 | 31 aout | Abattage d'arbre au Québec : le règlement et la propriété | Guide pratique |
@@ -105,11 +105,15 @@ chaque coupure est intact.
 | 23 sept | Garantie GCR maison neuve au Québec : 1 an, 3 ans, 5 ans | Guide de l'acheteur |
 | 23 sept | Rénover son condo en copropriété au Québec: la vraie limite | Immobilier 101 |
 | 23 sept | Vice caché au Québec : les conditions et vos recours | Immobilier 101 |
+| 24 sept | Acheter un chalet au Québec : puits, septique et accès | Investissement |
 | 24 sept | Acheter un immeuble commercial au Québec : vérifications | Investissement |
 | 24 sept | Acheter un terrain au Québec : les vérifications | Guide de l'acheteur |
+| 24 sept | Acheter une maison centenaire à Montréal: ce qui change | Guide de l'acheteur |
 | 24 sept | Choisir un entrepreneur en rénovation au Québec | Guide pratique |
 | 24 sept | Coût de la vie en banlieue de Montréal: le vrai calcul | Analyse de marché |
 | 24 sept | Déduction des frais de déménagement : la règle des 40 km | Financement |
+| 24 sept | Maison Novoclimat au Québec: ce que la certification achète | Financement |
+| 24 sept | Maison intergénérationnelle à Laval et Montréal : le règlement | Guide de l'acheteur |
 | 24 sept | Maison neuve ou usagée au Québec : ce qui diffère vraiment | Guide de l'acheteur |
 | 24 sept | Rembourser son hypothèque plus vite au Québec | Financement |
 | 24 sept | Règlement piscine résidentielle Québec: l'échéance 2027 | Guide pratique |
@@ -130,9 +134,9 @@ famille. Ses quatre versions sont pretes. Voir `NEEDS_HUMAN.md`.
 
 ## Qualite: mesuree, pas supposee
 
-**Les six portes anti-doublon passent sur les 23 articles.** Slug, titre,
+**Les six portes anti-doublon passent sur les 45 articles.** Slug, titre,
 mot-cle, sujet en cosinus TF-IDF, contenu en segments de 5 mots et cosinus
-contre les 352 articles du site, et comparaison au site de reference.
+contre les 432 articles du site, et comparaison au site de reference.
 
 **Recoupement avec les articles de rovenapistoli.com: 0,000.** Leur texte
 integral a ete telecharge dans un cache local, hors depot, qui ne sert qu au
