@@ -239,6 +239,30 @@
    "slug": "rembourser-hypotheque-plus-vite-quebec",
    "keyword": "rembourser hypotheque plus vite quebec",
    "state": "in_progress"
+  },
+  {
+   "id": "t102",
+   "slug": "renover-hiver-permis-montreal-laval",
+   "keyword": "permis de renovation montreal laval",
+   "state": "in_progress"
+  },
+  {
+   "id": "t113",
+   "slug": "maison-ecoenergetique-novoclimat-quebec",
+   "keyword": "maison novoclimat certification quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t126",
+   "slug": "acheter-maison-centenaire-quebec",
+   "keyword": "acheter maison centenaire montreal",
+   "state": "in_progress"
+  },
+  {
+   "id": "t131",
+   "slug": "maison-intergenerationnelle-laval-montreal",
+   "keyword": "maison intergenerationnelle laval reglement",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -281,7 +305,11 @@
   "banlieue-ou-ville-cout-reel-montreal",
   "acheter-maison-hiver-montreal",
   "maison-neuve-ou-existante-quebec",
-  "rembourser-hypotheque-plus-vite-quebec"
+  "rembourser-hypotheque-plus-vite-quebec",
+  "renover-hiver-permis-montreal-laval",
+  "maison-ecoenergetique-novoclimat-quebec",
+  "acheter-maison-centenaire-quebec",
+  "maison-intergenerationnelle-laval-montreal"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -323,7 +351,11 @@
   "cout de la vie banlieue montreal",
   "acheter une maison en hiver quebec",
   "maison neuve ou usagee quebec",
-  "rembourser hypotheque plus vite quebec"
+  "rembourser hypotheque plus vite quebec",
+  "permis de renovation montreal laval",
+  "maison novoclimat certification quebec",
+  "acheter maison centenaire montreal",
+  "maison intergenerationnelle laval reglement"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -365,6 +397,10 @@
   "Banlieue ou ville: le calcul complet pour Montreal, Laval et la couronne nord",
   "Acheter en hiver a Montreal et a Laval: moins de concurrence, plus d'angles morts",
   "Neuf ou existant au Quebec: garantie GCR, taxes et garantie legale de qualite",
-  "Rembourser son hypotheque plus vite: privileges, frequence et penalites"
+  "Rembourser son hypotheque plus vite: privileges, frequence et penalites",
+  "Renover l'hiver a Montreal et a Laval: permis, autorisations et delais",
+  "Maison ecoenergetique au Quebec: Novoclimat, LEED et le remboursement de la SCHL",
+  "Acheter une maison centenaire au Quebec: assurance, electricite et fondation",
+  "Maison intergenerationnelle a Laval et a Montreal: zonage, permis et financement"
  ]
 }
