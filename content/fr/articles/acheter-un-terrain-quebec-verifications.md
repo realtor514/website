@@ -7,7 +7,7 @@ category: "Guide de l'acheteur"
 description: "Zonage, CPTAQ, milieux humides, puits et fosse septique, servitudes, financement : les vérifications avant d'acheter un terrain au Québec."
 image: "images/articles/acheter-un-terrain-quebec-verifications/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un terrain vacant se visite en cinq minutes. Ni toiture à inspecter, ni

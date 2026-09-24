@@ -7,7 +7,7 @@ category: "Buyer's Guide"
 description: "Zoning, CPTAQ, wetlands, well and septic system, servitudes, financing: the checks to make before buying vacant land in Quebec."
 image: "images/articles/acheter-un-terrain-quebec-verifications/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 A vacant lot takes five minutes to visit. No roof to inspect, no foundation to

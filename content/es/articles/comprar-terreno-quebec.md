@@ -7,7 +7,7 @@ category: "Guía del Comprador"
 description: "Zonificación, CPTAQ, humedales, pozo y fosa séptica, servidumbres y financiamiento: las verificaciones antes de comprar un terreno en Quebec."
 image: "images/articles/acheter-un-terrain-quebec-verifications/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un terreno vacante se visita en cinco minutos. No hay techo que inspeccionar ni
