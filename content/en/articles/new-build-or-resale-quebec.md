@@ -7,7 +7,7 @@ category: "Buyer's Guide"
 description: "TPS and TVQ, the GCR warranty, the contrat préliminaire, droits de mutation: what actually separates a new home from a resale in Quebec."
 image: "images/articles/maison-neuve-ou-existante-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 A buyer compares two listings: a project home at $500,000 in a neighbourhood

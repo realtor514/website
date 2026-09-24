@@ -27,11 +27,14 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 ## Guía del Comprador
 - [Casa difícil de asegurar en Quebec: lo que bloquea la compra](/es/articles/casa-dificil-de-asegurar-quebec/) : Negativa del seguro, tanque de mazut, aluminio, techo, siniestros anteriores: por qué una casa se vuelve 
+- [Casa nueva o usada en Quebec: lo que de verdad cambia](/es/articles/casa-nueva-o-existente-quebec/) : TPS y TVQ, garantía GCR, contrat préliminaire, droits de mutation: lo que separa realmente una casa nueva
 - [Comprar de contado en Quebec: la ventaja real, el riesgo real y lo que exige la ley](/es/articles/cash-buyers-advantage/) : Oferta sin condición de financiamiento, inspección, preaprobación, obligaciones ante CANAFE y el tope de 
 - [Comprar en Laval: los seis sectores, el transporte, los impuestos y las verificaciones](/es/articles/comprar-en-laval-2025/) : Los seis sectores, el metro, REM y SRB, derechos de mutación al 3 % sobre 500 000 $, el rol de evaluación
 - [Comprar en zona inundable en Quebec: las verificaciones](/es/articles/comprar-zona-inundable-quebec/) : Comprar en zona inundable en Quebec: el nuevo marco, lo que decide el mapa, el seguro, el prestamista y l
 - [Comprar entre varios en Quebec: la indivisión, el convenio y lo que la ley decide por usted](/es/articles/buying-property-with-family/) : Indivisión, convenio notarial, solidaridad ante el prestamista, donación de los padres, ruptura o falleci
 - [Comprar un inmueble antiguo o patrimonial en Montreal: lo que cambia de verdad](/es/articles/heritage-property-montreal/) : Clasificado, citado o dentro de un sitio patrimonial: autorizaciones antes de obrar, ayudas a la restaura
+- [Comprar un terreno en Quebec: las verificaciones](/es/articles/comprar-terreno-quebec/) (brouillon) : Zonificación, CPTAQ, humedales, pozo y fosa séptica, servidumbres y financiamiento: las verificaciones an
+- [Comprar una casa en invierno en Quebec: los puntos ciegos](/es/articles/comprar-casa-invierno-montreal/) (brouillon) : Menos compradores en enero, pero también menos opciones. Lo que el invierno revela de una casa, lo que la
 - [Comprar una casa solo en Quebec: las verdaderas palancas](/es/articles/comprar-solo-un-ingreso-quebec/) : Comprar una casa solo en Quebec: ABD, ATD, prueba de resistencia, pago inicial por tramos, CELIAPP, RAP y
 - [Comprar una construcción nueva en Quebec: lo que el folleto no le dice](/es/articles/new-construction-guide-quebec/) : Garantía GCR, derecho a retractarse en 10 días, inspección préréception, retrasos, GST y QST, cuotas de c
 - [Comprar una propiedad embargada en Quebec: las reglas](/es/articles/comprar-propiedad-embargada-quebec/) : Preaviso de ejercicio, plazo de 60 días, toma en pago o venta bajo control judicial: lo que usted acepta 

@@ -7,7 +7,7 @@ category: "Guide de l'acheteur"
 description: "TPS et TVQ, garantie GCR, contrat préliminaire, droits de mutation : ce qui sépare réellement une maison neuve d'une maison usagée au Québec."
 image: "images/articles/maison-neuve-ou-existante-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un acheteur compare deux fiches : une maison de projet à 500 000 $ dans un

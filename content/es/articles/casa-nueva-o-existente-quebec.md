@@ -7,7 +7,7 @@ category: "Guía del Comprador"
 description: "TPS y TVQ, garantía GCR, contrat préliminaire, droits de mutation: lo que separa realmente una casa nueva de una casa usada en Quebec."
 image: "images/articles/maison-neuve-ou-existante-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un comprador compara dos fichas: una casa de proyecto a 500 000 $ en un barrio
