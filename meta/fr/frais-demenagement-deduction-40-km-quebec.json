@@ -1,0 +1,75 @@
+{
+ "id": "t110",
+ "slug": "frais-demenagement-deduction-40-km-quebec",
+ "title": "Déduction des frais de déménagement : la règle des 40 km",
+ "target_keyword": "deduction frais demenagement 40 km",
+ "word_count": 1797,
+ "category": "Financement",
+ "internal_links": [
+  "/tools/welcome-tax/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/articles/casser-hypotheque-penalite-quebec/",
+  "/articles/impot-proprietaire-quebec/",
+  "/articles/moving-checklist-montreal/",
+  "/articles/cout-reel-vendre-maison-quebec/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.revenuquebec.ca/documents/fr/formulaires/tp/TP-348(2018-10).pdf",
+   "title": "TP-348, Frais de déménagement (formulaire, version 2018-10)",
+   "publisher": "Revenu Québec",
+   "consulted": "2026-09-24",
+   "supports": "Le calcul des lignes A, B et C du test des 40 km; la note sur le chemin public le plus court, traversier compris; la liste des frais déductibles (transport et entreposage, voyage, subsistance de 15 jours, résiliation du bail, frais accessoires, maison vacante à un maximum de 5 000 $, commission de l'agent immobilier, honoraires du notaire, publicité, arpentage, frais juridiques, droits de mutation, inscription des droits); la partie 3 signée par l'employeur même sans allocation ni remboursement; les lignes 18, 20, 23 et 24, le renvoi à la ligne 228 et le report du surplus aux années suivantes; la consigne de ne pas joindre les reçus mais de les conserver."
+  },
+  {
+   "url": "https://www.canada.ca/content/dam/cra-arc/formspubs/pbg/t1-m/t1-m-24f.pdf",
+   "title": "T1-M, Déduction pour frais de déménagement, avec les Renseignements sur les frais de déménagement",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-24",
+   "supports": "La règle des 40 kilomètres par le plus court chemin du réseau routier public; l'admissibilité de l'employé, du travailleur indépendant, de l'étudiant à temps plein et de l'étudiant d'un programme coopératif; l'impossibilité de déduire d'un revenu de placement ou de prestations d'assurance emploi; le maximum de 15 jours de subsistance temporaire; le plafond de 5 000 $ pour l'ancienne résidence vacante et son exclusion en période de location ou d'occupation; les frais de vente et d'acquisition; la liste des frais non admissibles; le traitement de l'allocation ou du remboursement de l'employeur; la ligne 21900; le report aux années futures et l'interdiction de reporter à une année précédente; les méthodes détaillée et simplifiée pour les repas et le véhicule."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/formulaires/t1-m.html",
+   "title": "T1-M Déduction pour frais de déménagement",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-24",
+   "supports": "L'existence et l'identification officielle du formulaire fédéral T1-M cité dans l'article."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/declaration-revenus/remplir-declaration-revenus/deductions-credits-depenses/ligne-21900-frais-demenagement.html",
+   "title": "Ligne 21900 : Frais de déménagement",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-24",
+   "supports": "Les motifs admissibles (emploi, entreprise, études postsecondaires à temps plein), la limitation de la déduction au revenu gagné au nouvel endroit, le report aux années suivantes sans report rétroactif, et la condition propre à l'étudiant."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/declaration-revenus/remplir-declaration-revenus/deductions-credits-depenses/ligne-21900-frais-demenagement/pouvez-vous-demander-frais-demenagement-7.html",
+   "title": "Ligne 21900 : Pouvez-vous demander des frais de déménagement?",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-24",
+   "supports": "La formulation du critère de distance de 40 kilomètres mesuré par le plus court chemin du réseau routier public."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-revenu/services/impot/renseignements-techniques/impot-revenu/folios-impot-revenu/serie-1-particuliers/folio-3-questions-liees-a-unite-familiale/folio-impot-revenu-s1-f3-c4-frais-demenagement.html",
+   "title": "Folio de l'impôt sur le revenu S1-F3-C4, Frais de déménagement",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-24",
+   "supports": "La mesure de la distance par la route normale la plus courte offerte aux gens qui voyagent; le détail des frais admissibles du paragraphe 62(3); la condition de vente de l'ancienne résidence pour les frais d'acquisition; le plafond de 5 000 $; la limitation au revenu tiré du nouveau lieu de travail et le report."
+  },
+  {
+   "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-21900-moving-expenses.html",
+   "title": "Line 21900 : Moving expenses",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-09-24",
+   "supports": "Confirmation de la liste des frais admissibles et de la liste fermée des frais non admissibles reprise dans l'article, dont le réacheminement du courrier, les adaptateurs, l'assurance prêt hypothécaire et la mise en vente retardée pour raisons d'investissement."
+  }
+ ],
+ "claims_needing_review": [
+  "La version du TP-348 consultée est la 2018-10, seule version publiée sur revenuquebec.ca au moment de la rédaction. Confirmer qu'aucune version plus récente ne modifie les lignes 18, 20, 23 et 24 ni la liste des frais.",
+  "Le volet étudiant de la ligne 23 du TP-348 renvoie au montant net des subventions de recherche, alors que le T1-M vise aussi les bourses d'études, de perfectionnement et d'entretien et certaines récompenses. Faire valider cette différence Québec et fédéral par un fiscaliste avant publication.",
+  "Le PDF du T1-M consulté porte la mention T1-M F (24). Vérifier que l'édition de l'année d'imposition visée conserve le plafond de 5 000 $, le maximum de 15 jours et la même liste de frais non admissibles.",
+  "Les taux fixes des méthodes simplifiées pour les repas et le véhicule ne sont volontairement pas chiffrés dans l'article. Les ajouter seulement après vérification des tables de l'année visée chez l'ARC et chez Revenu Québec.",
+  "Article fiscal: revue par un comptable recommandée avant mise en ligne (needs_expert_review)."
+ ]
+}

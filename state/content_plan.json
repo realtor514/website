@@ -5266,7 +5266,7 @@
    "translationKey": "article-deduction-demenagement",
    "needs_expert_review": true,
    "id": "t110",
-   "status": "clear",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5289,7 +5289,9 @@
      "s": 0.0835,
      "match": "/articles/first-time-buyer-tax-credits/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/frais-demenagement-deduction-40-km-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 190,
