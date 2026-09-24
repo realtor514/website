@@ -7,7 +7,7 @@ category: "Guía del Vendedor"
 description: "Contrat de courtage, declaraciones del vendedor, certificat de localisation, promesse d'achat, notaire: el proceso de venta de una casa en Quebec, etapa por etapa."
 image: "images/articles/processus-mise-en-vente-etapes-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Entre la primera cita con un corredor y la firma ante el notaire, una venta

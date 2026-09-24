@@ -7,7 +7,7 @@ category: "Seller's Guide"
 description: "Contrat de courtage, seller's declarations, certificat de localisation, promesse d'achat, notaire: the process of selling a house in Quebec, step by step."
 image: "images/articles/processus-mise-en-vente-etapes-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Between the first meeting with a broker and the signing at the notaire, a

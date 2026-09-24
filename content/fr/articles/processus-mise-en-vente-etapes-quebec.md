@@ -7,7 +7,7 @@ category: "Guide du vendeur"
 description: "Contrat de courtage, Déclarations du vendeur, certificat, promesse d'achat, notaire: le processus de vente d'une maison au Québec, étape par étape."
 image: "images/articles/processus-mise-en-vente-etapes-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Entre le premier rendez-vous avec un courtier et la signature chez le notaire,
