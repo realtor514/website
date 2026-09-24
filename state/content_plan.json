@@ -4203,7 +4203,7 @@
    "translationKey": "article-immeuble-commercial",
    "needs_expert_review": true,
    "id": "t88",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -4783,7 +4783,7 @@
    "translationKey": "article-achat-terrain-quebec",
    "needs_expert_review": true,
    "id": "t100",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5164,7 +5164,7 @@
    "translationKey": "article-banlieue-vs-ville",
    "needs_expert_review": false,
    "id": "t108",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5596,7 +5596,7 @@
    "translationKey": "article-acheter-hiver",
    "needs_expert_review": false,
    "id": "t117",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5930,7 +5930,7 @@
    "translationKey": "article-neuf-ou-usage",
    "needs_expert_review": true,
    "id": "t124",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {

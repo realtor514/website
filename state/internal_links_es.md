@@ -82,6 +82,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Cómo reducir su factura de calefacción en Quebec: por dónde empezar](/es/articles/reducir-factura-calefaccion-quebec/) : Tarifa D, tramo de 40 kWh, aislamiento, bomba de calor y ayudas 2026: cómo reducir su factura de calefacc
 - [Elegir un contratista de renovación en Quebec](/es/articles/elegir-contratista-renovacion-quebec/) : Licencia RBQ y sous-catégories, contrato, retención, hipoteca legal: cómo elegir un contratista de renova
 - [Mudarse en Montreal o Laval: la lista completa, plazo por plazo](/es/articles/moving-checklist-montreal/) : Avisos de arrendamiento, cesión, cambio de dirección, Hydro-Québec, permisos de camión y ecocentros: la l
+- [Prueba de radón en una vivienda en Quebec: el calendario real](/es/articles/radon-vivienda-quebec/) : Directriz de 200 Bq/m³, prueba de tres meses en temporada de calefacción, cláusula 3.21 y declaraciones d
 - [Reglamento de piscinas residenciales en Quebec: el plazo del 30 de septiembre de 2027](/es/articles/reglamento-piscinas-quebec/) : Reglamento de piscinas residenciales en Quebec: cercado, puerta, escalera, permiso, multa y el 30 de sept
 - [Talar un árbol en Quebec: el reglamento y de quién es el árbol](/es/articles/arboles-propiedad-reglamentos-quebec/) : De quién es el árbol, qué permite el Code civil entre vecinos, el permiso de tala en Montreal y en Laval,
 

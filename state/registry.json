@@ -203,6 +203,36 @@
    "slug": "acheter-seul-un-revenu-quebec",
    "keyword": "acheter une maison seul quebec",
    "state": "in_progress"
+  },
+  {
+   "id": "t88",
+   "slug": "verifications-immeuble-commercial-quebec",
+   "keyword": "acheter immeuble commercial quebec verifications",
+   "state": "in_progress"
+  },
+  {
+   "id": "t100",
+   "slug": "acheter-un-terrain-quebec-verifications",
+   "keyword": "acheter un terrain au quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t108",
+   "slug": "banlieue-ou-ville-cout-reel-montreal",
+   "keyword": "cout de la vie banlieue montreal",
+   "state": "in_progress"
+  },
+  {
+   "id": "t117",
+   "slug": "acheter-maison-hiver-montreal",
+   "keyword": "acheter une maison en hiver quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t124",
+   "slug": "maison-neuve-ou-existante-quebec",
+   "keyword": "maison neuve ou usagee quebec",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -239,7 +269,12 @@
   "amiante-vermiculite-maison-quebec",
   "contrat-courtage-achat-quebec",
   "choisir-entrepreneur-renovation-rbq-quebec",
-  "acheter-seul-un-revenu-quebec"
+  "acheter-seul-un-revenu-quebec",
+  "verifications-immeuble-commercial-quebec",
+  "acheter-un-terrain-quebec-verifications",
+  "banlieue-ou-ville-cout-reel-montreal",
+  "acheter-maison-hiver-montreal",
+  "maison-neuve-ou-existante-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -275,7 +310,12 @@
   "vermiculite amiante maison quebec",
   "contrat de courtage achat quebec",
   "choisir entrepreneur renovation quebec",
-  "acheter une maison seul quebec"
+  "acheter une maison seul quebec",
+  "acheter immeuble commercial quebec verifications",
+  "acheter un terrain au quebec",
+  "cout de la vie banlieue montreal",
+  "acheter une maison en hiver quebec",
+  "maison neuve ou usagee quebec"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -311,6 +351,11 @@
   "Amiante et vermiculite dans les maisons quebecoises: depister avant de renover",
   "Le contrat de courtage achat au Quebec: ce que vous signez vraiment",
   "Choisir un entrepreneur au Quebec: licence RBQ, contrat et hypotheque legale",
-  "Acheter seul au Quebec: un seul revenu, les memes regles de qualification"
+  "Acheter seul au Quebec: un seul revenu, les memes regles de qualification",
+  "Verification diligente avant d acheter un immeuble commercial au Quebec",
+  "Acheter un terrain au Quebec: zonage, services, tests et conditions a inscrire",
+  "Banlieue ou ville: le calcul complet pour Montreal, Laval et la couronne nord",
+  "Acheter en hiver a Montreal et a Laval: moins de concurrence, plus d'angles morts",
+  "Neuf ou existant au Quebec: garantie GCR, taxes et garantie legale de qualite"
  ]
 }

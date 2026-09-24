@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Ligne directrice de 200 Bq/m³, test de trois mois en saison de chauffage, clause 3.21 et déclaration du vendeur : le radon avant d'acheter."
 image: "images/articles/radon-maison-quebec-depistage/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Votre inspecteur préachat ne mesurera pas le radon. Ce n'est pas un oubli : la

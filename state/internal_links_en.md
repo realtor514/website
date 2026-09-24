@@ -86,6 +86,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [How to Cut Your Heating Bill in Quebec: Where to Start](/en/articles/reduce-heating-bill-quebec/) : Rate D, the 40 kWh tier, insulation, heat pumps and 2026 grants: how to reduce your heating bill in Quebe
 - [Moving in Montreal or Laval: The Complete Checklist, Deadline by Deadline](/en/articles/moving-checklist-montreal/) : Lease notices, lease assignment, address changes, Hydro-Quebec, truck permits and ecocentres: the Greater
 - [Quebec Residential Pool Rules: The 30 September 2027 Deadline](/en/articles/pool-safety-rules-quebec/) : Quebec residential pool rules: enclosure, gate, ladder, permit, fine, and the 30 September 2027 deadline 
+- [Radon Testing a Home in Quebec: The Timeline Nobody Plans For](/en/articles/radon-testing-home-quebec/) : The 200 Bq/m³ guideline, a three month test through the heating season, clause 3.21 and the seller's decl
 
 ## Real Estate 101
 - [5 Questions You Must Ask Before Hiring a Real Estate Broker](/en/articles/questions-hire-broker/) : Most people choose a broker from a referral or a yard sign. Here are the five questions that reveal how a

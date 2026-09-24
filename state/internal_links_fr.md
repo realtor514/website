@@ -86,7 +86,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Déménager à Montréal ou à Laval : la liste complète, échéance par échéance](/articles/moving-checklist-montreal/) : Avis de bail, cession, changement d'adresse, Hydro-Québec, permis de camion, écocentres : la liste de dém
 - [Règlement piscine résidentielle Québec: l'échéance 2027](/articles/reglement-piscine-securite-quebec/) : Règlement piscine résidentielle au Québec: enceinte, porte, échelle, permis, amende, et le 30 septembre 2
 - [Réduire sa facture de chauffage au Québec: par où commencer](/articles/reduire-facture-chauffage-quebec/) : Tarif D, tranche de 40 kWh, isolation, thermopompe et aides 2026: comment réduire sa facture de chauffage
-- [Test de radon dans une maison au Québec : le calendrier](/articles/radon-maison-quebec-depistage/) (brouillon) : Ligne directrice de 200 Bq/m³, test de trois mois en saison de chauffage, clause 3.21 et déclaration du v
+- [Test de radon dans une maison au Québec : le calendrier](/articles/radon-maison-quebec-depistage/) : Ligne directrice de 200 Bq/m³, test de trois mois en saison de chauffage, clause 3.21 et déclaration du v
 
 ## Immobilier 101
 - [5 questions à poser avant d'engager un courtier immobilier](/articles/questions-hire-broker/) : La plupart des gens choisissent un courtier sur une recommandation ou une pancarte. Voici les cinq questi
