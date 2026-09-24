@@ -1,8 +1,8 @@
 # Blogue, rapport de session
 
-**36 articles ecrits, traduits et EN LIGNE dans les 4 langues.**
+**40 articles ecrits, traduits et EN LIGNE dans les 4 langues.**
 
-Le site est passe de **63 a 100 articles par langue**: 400 fichiers publies au
+Le site est passe de **63 a 104 articles par langue**: 416 fichiers publies au
 lieu de 252. Verifie en direct sur georgesmatar.ca, pas seulement en local.
 
 ---
@@ -69,7 +69,7 @@ chaque coupure est intact.
 
 ---
 
-## Les 37 articles produits
+## Les 41 articles produits
 
 | Date | Article | Categorie |
 |---|---|---|
@@ -105,9 +105,13 @@ chaque coupure est intact.
 | 23 sept | Garantie GCR maison neuve au Québec : 1 an, 3 ans, 5 ans | Guide de l'acheteur |
 | 23 sept | Rénover son condo en copropriété au Québec: la vraie limite | Immobilier 101 |
 | 23 sept | Vice caché au Québec : les conditions et vos recours | Immobilier 101 |
+| 24 sept | Acheter un immeuble commercial au Québec : vérifications | Investissement |
 | 24 sept | Acheter un terrain au Québec : les vérifications | Guide de l'acheteur |
 | 24 sept | Choisir un entrepreneur en rénovation au Québec | Guide pratique |
+| 24 sept | Coût de la vie en banlieue de Montréal: le vrai calcul | Analyse de marché |
+| 24 sept | Déduction des frais de déménagement : la règle des 40 km | Financement |
 | 24 sept | Maison neuve ou usagée au Québec : ce qui diffère vraiment | Guide de l'acheteur |
+| 24 sept | Rembourser son hypothèque plus vite au Québec | Financement |
 | 24 sept | Règlement piscine résidentielle Québec: l'échéance 2027 | Guide pratique |
 | 24 sept | Test de radon dans une maison au Québec : le calendrier | Guide pratique |
 Chacun existe en francais, anglais, espagnol et arabe, avec la meme
