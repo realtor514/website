@@ -26,7 +26,7 @@ Estamos, por lo tanto, en el último año del régimen antiguo: en 2026 el inspe
 
 El certificado se divide en dos categorías. La categoría 1 cubre los edificios de 1 a 6 viviendas y las partes privativas de un condominio. La categoría 2 cubre todo tipo de edificio residencial. Para obtenerlo, la RBQ exige una certificación colegial en inspección de edificios, el cumplimiento de la norma BNQ 3009-500 y un seguro de responsabilidad profesional propio de la actividad de inspector: un millón de dólares en la categoría 1, dos millones en la categoría 2. El certificado se renueva cada año.
 
-Existe una vía transitoria para los inspectores con experiencia y sin certificación colegial: tres años de experiencia en los últimos cinco en la categoría 1, con prueba de seguro. Las solicitudes se presentan hasta el 2 de agosto de 2027.
+Existe una vía transitoria hasta el 2 de agosto de 2027, y en todos los casos pasa por una formación de actualización. El inspector que posee una certificación colegial iniciada en 2020 o después solo debe aprobar esa formación. Quien no la tiene, o cuya certificación es anterior a 2020, debe además demostrar su experiencia: tres años en los últimos cinco en la categoría 1, cinco años en los últimos ocho en la categoría 2, respaldados por un seguro propio de la actividad de inspector. La experiencia por sí sola nunca basta.
 
 **La pregunta que hay que hacer es sencilla.** ¿Tiene usted ya el certificado de la RBQ, y en qué categoría? Una respuesta negativa no es una descalificación en 2026, pero le deja encima todas las verificaciones que siguen.
 

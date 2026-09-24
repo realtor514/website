@@ -135,17 +135,27 @@ verifier que le fichier existait sur le disque.
 Pour retirer un article publie, l inverse n existe pas dans approve.py: mettez
 `draft: true` dans les 4 fichiers, puis commit et push.
 
-### Une contradiction entre un nouvel article et un ancien
+### Une contradiction tranchee: c est mon article qui avait tort
 
-Sur la voie transitoire des inspecteurs en batiment, le nouvel article
-`choisir-inspecteur-batiment-quebec` parle de trois ans d experience dans les
-cinq dernieres annees plus une preuve d assurance. L article deja en ligne
-`content/en/articles/home-inspection-checklist-montreal.md` parle, lui, d un
-cours de mise a niveau. Les deux ne peuvent pas etre exacts en meme temps.
+Sur la voie transitoire du certificat RBQ d inspecteur, mon article
+`choisir-inspecteur-batiment-quebec` affirmait que trois ans d experience plus
+une preuve d assurance suffisaient. Votre article deja en ligne
+`home-inspection-checklist-montreal` parlait, lui, d une formation de mise a
+niveau. J avais signale la contradiction en supposant que le vieux texte etait
+le fautif.
 
-Le nouvel article est source et recent, l ancien ne l est pas forcement. Je n ai
-pas touche a l ancien: la regle du projet est de ne jamais modifier l existant.
-C est a trancher, puis a corriger dans les 4 langues de l article concerne.
+**Verification faite a la source, c est l inverse.** La RBQ decrit deux voies
+transitoires, ouvertes jusqu au 2 aout 2027, et **les deux passent par la
+formation de mise a niveau**. L experience s ajoute seulement pour qui n a pas
+d attestation collegiale commencee en 2020 ou apres: trois ans sur cinq en
+categorie 1, cinq ans sur huit en categorie 2, avec une assurance propre a
+l activite d inspecteur. L experience seule ne suffit jamais.
+
+Le passage a ete reecrit dans les 4 langues le 2026-09-24. Votre ancien article
+n a pas ete touche: il etait substantiellement exact, il ne mentionne
+simplement pas la condition d experience. Rien a corriger de votre cote.
+
+Source: https://www.rbq.gouv.qc.ca/en/you-are/inspector-pre-purchase/obtaining-a-residential-building-inspector-certificate/
 
 ### Deux limites assumees par les redacteurs
 

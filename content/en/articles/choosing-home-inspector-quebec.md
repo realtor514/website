@@ -26,7 +26,7 @@ So we are in the last year of the old regime: in 2026, the certified inspector a
 
 The certificate comes in two categories. Category 1 covers buildings of one to six dwellings and the private portions of a co ownership. Category 2 covers every type of residential building. To obtain it, the RBQ requires a college attestation in building inspection, compliance with the BNQ 3009-500 standard, and professional liability insurance specific to inspection work: one million dollars in category 1, two million in category 2. The certificate is renewed every year.
 
-A transitional route exists for experienced inspectors without the college attestation: three years of experience within the last five in category 1, with proof of insurance. Applications are accepted until August 2, 2027.
+A transitional route runs until August 2, 2027, and every version of it goes through refresher training. An inspector holding a college attestation begun in 2020 or later only has to pass that training. One without an attestation, or whose attestation predates 2020, must also document experience: three years within the last five for category 1, five years within the last eight for category 2, supported by insurance specific to the work of an inspector. Experience alone is never enough.
 
 **So the question to ask is a simple one.** Do you already hold the RBQ certificate, and in which category? A no is not a disqualification in 2026, but it leaves you with every check that follows.
 

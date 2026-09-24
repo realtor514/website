@@ -26,7 +26,7 @@ Nous sommes donc dans la dernière année de l'ancien régime: en 2026, l'inspec
 
 Le certificat se décline en deux catégories. La catégorie 1 couvre les bâtiments de 1 à 6 logements et les parties privatives d'une copropriété. La catégorie 2 couvre tout type de bâtiment résidentiel. Pour l'obtenir, la RBQ exige une attestation d'études collégiales en inspection de bâtiment, le respect de la norme BNQ 3009-500, et une assurance de responsabilité professionnelle propre à l'activité d'inspecteur: un million de dollars en catégorie 1, deux millions en catégorie 2. Le certificat se renouvelle chaque année.
 
-Une voie transitoire existe pour les inspecteurs d'expérience sans attestation collégiale: trois ans d'expérience sur les cinq dernières années en catégorie 1, avec preuve d'assurance. Les demandes se déposent jusqu'au 2 août 2027.
+Une voie transitoire existe jusqu'au 2 août 2027, et elle passe dans tous les cas par une formation de mise à niveau. L'inspecteur qui détient une attestation collégiale commencée en 2020 ou après n'a que cette formation à réussir. Celui qui n'en a pas, ou dont l'attestation est antérieure à 2020, doit en plus démontrer son expérience: trois ans sur les cinq dernières années en catégorie 1, cinq ans sur les huit dernières en catégorie 2, appuyés par une assurance propre à l'activité d'inspecteur. L'expérience seule ne suffit donc jamais.
 
 **La question à poser est donc simple.** Détenez-vous déjà le certificat de la RBQ, et dans quelle catégorie? Une réponse négative n'est pas une disqualification en 2026, mais elle vous laisse toutes les vérifications qui suivent.
 

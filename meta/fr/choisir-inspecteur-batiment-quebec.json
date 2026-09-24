@@ -68,5 +68,15 @@
   "Affirmation selon laquelle l'inspecteur en bâtiment n'a aujourd'hui ni ordre professionnel ni titre réservé au Québec: appuyée sur l'absence de tout ordre à l'Office des professions et sur le caractère encore volontaire du certificat RBQ jusqu'au 30 septembre 2027, mais non confirmée par une page officielle citée directement.",
   "Portée exacte de l'interdiction des clauses de limitation de responsabilité pour un inspecteur NON certifié par la RBQ: le texte s'appuie sur Éducaloi (contrat de service de l'inspecteur certifié) et sur la règle consommateur contre commerçant. Validation juridique recommandée avant publication.",
   "Le texte indique que le choix final de l'inspecteur appartient à l'acheteur. Formulation à faire valider par la conformité OACIQ."
+ ],
+ "verifications_manuelles": [
+  {
+   "point": "Voie transitoire du certificat RBQ d inspecteur en batiment",
+   "contexte": "Mon article affirmait que la voie transitoire tenait a trois ans d experience plus une preuve d assurance. L article deja en ligne home-inspection-checklist-montreal parlait, lui, d une formation de mise a niveau. J avais signale la contradiction en supposant que l ancien article avait tort.",
+   "verdict": "C est mon article qui etait incomplet. La RBQ decrit deux voies, et les DEUX exigent la formation de mise a niveau. L experience de trois ans sur cinq en categorie 1, ou cinq ans sur huit en categorie 2, avec assurance propre a l activite, s ajoute seulement pour qui n a pas d attestation collegiale commencee en 2020 ou apres. L experience seule ne suffit jamais.",
+   "correction": "Passage reecrit dans les 4 langues le 2026-09-24.",
+   "source": "https://www.rbq.gouv.qc.ca/en/you-are/inspector-pre-purchase/obtaining-a-residential-building-inspector-certificate/",
+   "verifie_le": "2026-09-24"
+  }
  ]
 }
