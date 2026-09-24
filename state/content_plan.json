@@ -5930,7 +5930,7 @@
    "translationKey": "article-neuf-ou-usage",
    "needs_expert_review": true,
    "id": "t124",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5953,7 +5953,9 @@
      "s": 0.2895,
      "match": "/articles/new-construction-guide-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/maison-neuve-ou-existante-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 38,
