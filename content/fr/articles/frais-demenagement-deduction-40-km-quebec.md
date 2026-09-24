@@ -7,7 +7,7 @@ category: "Financement"
 description: "Déduction des frais de déménagement et règle des 40 km : qui y a droit, ce qui se déduit, les formulaires T1-M et TP-348, la limite de revenu."
 image: "images/articles/frais-demenagement-deduction-40-km-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Chaque printemps, des contribuables québécois inscrivent leurs frais de
