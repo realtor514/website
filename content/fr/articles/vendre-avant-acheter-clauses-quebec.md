@@ -7,7 +7,7 @@ category: "Guide du vendeur"
 description: "Vendre avant d'acheter au Québec: la clause R2.1, la clause de 72 heures, le prêt relais, le double portage et les dates chez le notaire."
 image: "images/articles/vendre-avant-acheter-clauses-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Vous êtes propriétaire et vous voulez déménager. La vraie question n'est pas si vous allez vendre et acheter, mais dans quel ordre. Cet ordre se joue dans trois clauses de formulaires obligatoires, et c'est là que le risque financier change de camp.

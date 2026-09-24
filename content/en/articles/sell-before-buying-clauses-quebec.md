@@ -7,7 +7,7 @@ category: "Seller's Guide"
 description: "Selling before buying in Quebec: clause R2.1, the 72 hour clause, the bridge loan, carrying two properties and the dates at the notary."
 image: "images/articles/vendre-avant-acheter-clauses-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 You own your home and you want to move. The real question is not whether you will sell and buy, but in which order. That order plays out in three clauses of mandatory forms, and that is where the financial risk switches sides.

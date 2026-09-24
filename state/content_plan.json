@@ -736,7 +736,7 @@
    "translationKey": "article-land-potential-zoning",
    "needs_expert_review": false,
    "id": "t16",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -880,7 +880,7 @@
    "translationKey": "article-fall-buying-window",
    "needs_expert_review": false,
    "id": "t19",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -976,7 +976,7 @@
    "translationKey": "article-neighbour-disputes",
    "needs_expert_review": true,
    "id": "t21",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1168,7 +1168,7 @@
    "translationKey": "article-component-lifespan",
    "needs_expert_review": false,
    "id": "t25",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {

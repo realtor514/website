@@ -365,6 +365,30 @@
    "slug": "acheter-pour-demolir-permis-quebec",
    "keyword": "acheter une maison pour demolir quebec",
    "state": "in_progress"
+  },
+  {
+   "id": "t16",
+   "slug": "rentabiliser-terrain-zonage-quebec",
+   "keyword": "ajouter un logement accessoire quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t19",
+   "slug": "acheter-fin-ete-montreal-donnees",
+   "keyword": "meilleur moment pour acheter montreal",
+   "state": "in_progress"
+  },
+  {
+   "id": "t21",
+   "slug": "troubles-de-voisinage-quebec",
+   "keyword": "troubles de voisinage quebec recours",
+   "state": "in_progress"
+  },
+  {
+   "id": "t25",
+   "slug": "duree-de-vie-composantes-maison-quebec",
+   "keyword": "duree de vie toiture fenetres quebec",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -428,7 +452,11 @@
   "cle-en-main-ou-a-renover-quebec",
   "vrai-cout-piscine-residentielle-quebec",
   "prix-demande-prix-vendu-montreal",
-  "acheter-pour-demolir-permis-quebec"
+  "acheter-pour-demolir-permis-quebec",
+  "rentabiliser-terrain-zonage-quebec",
+  "acheter-fin-ete-montreal-donnees",
+  "troubles-de-voisinage-quebec",
+  "duree-de-vie-composantes-maison-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -491,7 +519,11 @@
   "maison a renover ou cle en main quebec",
   "cout piscine creusee quebec",
   "prix vendu vs prix demande montreal",
-  "acheter une maison pour demolir quebec"
+  "acheter une maison pour demolir quebec",
+  "ajouter un logement accessoire quebec",
+  "meilleur moment pour acheter montreal",
+  "troubles de voisinage quebec recours",
+  "duree de vie toiture fenetres quebec"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -554,6 +586,10 @@
   "Maison cle en main ou maison a renover: le vrai calcul en 2026",
   "Le vrai cout d'une piscine residentielle au Quebec",
   "Prix demande et prix vendu a Montreal: comprendre l'ecart",
-  "Acheter pour demolir et reconstruire: le comite de demolition, le permis et les couts caches"
+  "Acheter pour demolir et reconstruire: le comite de demolition, le permis et les couts caches",
+  "Faire travailler son terrain au Quebec: zonage, subdivision, logement accessoire",
+  "Acheter a la fin de l'ete a Montreal et Laval: ce que disent les statistiques",
+  "Troubles de voisinage au Quebec: ce que la loi permet vraiment",
+  "Duree de vie des composantes d'une maison au Quebec"
  ]
 }
