@@ -1,8 +1,8 @@
 # Blogue, rapport de session
 
-**31 articles ecrits, traduits et EN LIGNE dans les 4 langues.**
+**36 articles ecrits, traduits et EN LIGNE dans les 4 langues.**
 
-Le site est passe de **63 a 96 articles par langue**: 384 fichiers publies au
+Le site est passe de **63 a 100 articles par langue**: 400 fichiers publies au
 lieu de 252. Verifie en direct sur georgesmatar.ca, pas seulement en local.
 
 ---
@@ -69,36 +69,47 @@ chaque coupure est intact.
 
 ---
 
-## Les 23 articles en ligne
+## Les 37 articles produits
 
 | Date | Article | Categorie |
 |---|---|---|
-| 24 aout | Contester son evaluation municipale au Quebec | Immobilier 101 |
-| 24 aout | Acheter une reprise de finance au Quebec | Guide de l acheteur |
-| 25 aout | Acheter en zone inondable au Quebec | Guide de l acheteur |
-| 26 aout | Choisir un inspecteur en batiment au Quebec | Guide de l acheteur |
-| 27 aout | Conjoints de fait et la maison au Quebec | Immobilier 101 |
-| 30 aout | Bruit dans une maison ou un condo au Quebec | Guide de l acheteur |
-| 31 aout | Abattage d arbre: le reglement et la propriete | Guide pratique |
-| 1 sept | Cout d entretien d une maison: le calendrier | Guide pratique |
-| 2 sept | Contrat de courtage vente: clause par clause | Guide du vendeur |
-| 5 sept | Casser son hypotheque: la penalite | Financement |
-| 6 sept | Declaration du vendeur: le formulaire DV 00001 | Guide du vendeur |
-| 7 sept | Comparables: auditer le prix du voisin | Guide du vendeur |
-| 8 sept | Maison difficile a assurer: ce qui bloque | Guide de l acheteur |
-| 9 sept | Garder ou vendre une propriete: cinq cas | Guide du vendeur |
-| 11 sept | Copropriete indivise a Montreal | Financement |
-| 14 sept | Impot et proprietaire: ce qui se deduit | Financement |
-| 15 sept | Refinancement hypothecaire: est-ce rentable ? | Financement |
-| 16 sept | Location court terme: les regles avant d acheter | Investissement |
-| 17 sept | Ventre de boeuf dans un drain a Montreal | Guide de l acheteur |
-| 20 sept | Ma propriete ne se vend pas: le diagnostic | Guide du vendeur |
-| 21 sept | Vente sans garantie legale: ce que ca change | Guide de l acheteur |
-| 22 sept | Reduire sa facture de chauffage au Quebec | Guide pratique |
-| 23 sept | Renover son condo en copropriete: la vraie limite | Immobilier 101 |
-| 23 sept | Vice cache: les conditions et vos recours | Immobilier 101 |
-| 23 sept | Garantie GCR d une maison neuve au Quebec | Guide de l acheteur |
-
+| 24 aout | Acheter une reprise de finance au Québec: les règles | Guide de l'acheteur |
+| 24 aout | Contester son évaluation municipale au Québec | Immobilier 101 |
+| 25 aout | Acheter en zone inondable au Québec : les vérifications | Guide de l'acheteur |
+| 25 aout | Acheter une maison en hiver au Québec: les angles morts | Guide de l'acheteur |
+| 25 aout | Acheter une maison seul au Québec: les vrais leviers | Guide de l'acheteur |
+| 26 aout | Choisir un inspecteur en bâtiment au Québec | Guide de l'acheteur |
+| 27 aout | Conjoints de fait et maison au Québec : ce qui vous protège (brouillon) | Immobilier 101 |
+| 28 aout | Contrat de courtage achat au Québec: ce que vous signez | Immobilier 101 |
+| 30 aout | Bruit et insonorisation en condo au Québec : quoi vérifier | Guide de l'acheteur |
+| 31 aout | Abattage d'arbre au Québec : le règlement et la propriété | Guide pratique |
+| 1 sept | Coût d'entretien d'une maison au Québec : le calendrier | Guide pratique |
+| 2 sept | Contrat de courtage vente au Québec: clause par clause | Guide du vendeur |
+| 3 sept | Décès du conjoint et maison au Québec : préparer avant | Immobilier 101 |
+| 5 sept | Pénalité pour casser une hypothèque : le calcul au Québec | Financement |
+| 6 sept | Déclaration du vendeur au Québec : le formulaire DV 00001 | Guide du vendeur |
+| 7 sept | Comparables immobiliers: auditer le prix du voisin | Guide du vendeur |
+| 8 sept | Maison difficile à assurer au Québec: ce qui bloque | Guide de l'acheteur |
+| 9 sept | Garder ou vendre une propriété au Québec: cinq cas | Guide du vendeur |
+| 10 sept | Loi 16 copropriété au Québec: les obligations à vérifier | Guide de l'acheteur |
+| 11 sept | Copropriété indivise à Montréal : comment ça se finance | Financement |
+| 12 sept | Vermiculite et amiante dans une maison au Québec | Guide de l'acheteur |
+| 14 sept | Impôt et propriétaire au Québec : ce qui se déduit | Financement |
+| 15 sept | Refinancement hypothécaire au Québec : est-ce rentable ? | Financement |
+| 16 sept | Location court terme au Québec: les règles avant d'acheter | Investissement |
+| 17 sept | Ventre de bœuf dans un drain à Montréal : quoi vérifier | Guide de l'acheteur |
+| 18 sept | Propriétaire occupant d'un plex au Québec : la reprise | Investissement |
+| 20 sept | Ma maison ne se vend pas au Québec: le vrai diagnostic | Guide du vendeur |
+| 21 sept | Vente sans garantie légale au Québec : ce que ça change | Guide de l'acheteur |
+| 22 sept | Réduire sa facture de chauffage au Québec: par où commencer | Guide pratique |
+| 23 sept | Garantie GCR maison neuve au Québec : 1 an, 3 ans, 5 ans | Guide de l'acheteur |
+| 23 sept | Rénover son condo en copropriété au Québec: la vraie limite | Immobilier 101 |
+| 23 sept | Vice caché au Québec : les conditions et vos recours | Immobilier 101 |
+| 24 sept | Acheter un terrain au Québec : les vérifications | Guide de l'acheteur |
+| 24 sept | Choisir un entrepreneur en rénovation au Québec | Guide pratique |
+| 24 sept | Maison neuve ou usagée au Québec : ce qui diffère vraiment | Guide de l'acheteur |
+| 24 sept | Règlement piscine résidentielle Québec: l'échéance 2027 | Guide pratique |
+| 24 sept | Test de radon dans une maison au Québec : le calendrier | Guide pratique |
 Chacun existe en francais, anglais, espagnol et arabe, avec la meme
 `translationKey`, donc les balises hreflang relient les 4 versions et Google
 les traite comme un seul article en quatre langues. Verifie en direct sur
