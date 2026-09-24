@@ -47,11 +47,11 @@ de mise en contact n'offrent souvent aucune protection supplémentaire.
 
 La CNESST offre trois services: la validation de conformité avant le contrat, le
 suivi de l'état de conformité pendant, et l'attestation de conformité à la fin, qui
-sert à libérer l'employeur donneur d'ouvrage d'une éventuelle responsabilité de
-payer la cotisation due par l'entrepreneur. Attention à la formulation: le mécanisme
-vise l'employeur donneur d'ouvrage. Aucune source officielle ne me permet
-d'affirmer que cette libération s'étend au propriétaire occupant qui n'est pas
-employeur. Demandez l'attestation quand même: elle dit si l'entrepreneur est à jour.
+sert à libérer l'employeur donneur d'ouvrage d'une éventuelle responsabilité de payer
+la cotisation due par l'entrepreneur. Attention à la formulation: aucune source
+officielle ne me permet d'affirmer que cette libération s'étend au propriétaire
+occupant qui n'est pas employeur. Demandez l'attestation quand même: elle dit si
+l'entrepreneur est à jour.
 
 Le risque réel pour un propriétaire est ailleurs. Dans sa publication sur la
 délimitation d'un chantier, la CNESST écrit qu'à défaut de pouvoir identifier la
@@ -110,9 +110,9 @@ fidéicommis » si on vous réclame un paiement plus de 2 mois d'avance.
 | Paiement final | Retenir jusqu'aux quittances | Art. 2123 C.c.Q. |
 
 L'article 2122 est le plus ignoré des six. Si la convention prévoit des acomptes,
-l'entrepreneur est tenu, préalablement, de vous fournir un état des sommes payées
-aux sous-entrepreneurs et aux fournisseurs de matériaux, et des sommes qu'il leur
-doit encore. Exigez cet état par écrit avant chaque versement.
+l'entrepreneur est tenu, préalablement, de vous fournir un état des sommes payées aux
+sous-entrepreneurs et aux fournisseurs, et des sommes qu'il leur doit encore. Exigez
+cet état par écrit avant chaque versement.
 
 Si ces travaux préparent une vente, fixez le budget après avoir regardé la valeur
 probable de la propriété avec [l'estimateur de valeur](/tools/home-estimate/): le
@@ -185,10 +185,9 @@ documentation de chantier devient un chiffre dans une offre.
 
 ## Questions fréquentes
 
-**Sa licence est « en traitement ». Je peux signer?** Le cautionnement se réclame
-si la licence était valide à la signature ou à l'exécution. Une demande en
-traitement n'est pas une licence. Attendez qu'elle paraisse au registre, avec les
-bonnes sous-catégories.
+**Sa licence est « en traitement ». Je peux signer?** Le cautionnement se réclame si
+la licence était valide à la signature ou à l'exécution. Une demande en traitement
+n'est pas une licence. Attendez le registre, avec les bonnes sous-catégories.
 
 **Il m'offre un rabais si je paie comptant, sans facture.** Vous perdez la preuve du
 prix, de la date et des travaux, donc la capacité d'obtenir le jugement qui précède

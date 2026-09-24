@@ -5113,7 +5113,7 @@
    "translationKey": "article-amiante-vermiculite",
    "needs_expert_review": true,
    "id": "t107",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5136,7 +5136,9 @@
      "s": 0.1257,
      "match": "/articles/preparer-maison-vente/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/amiante-vermiculite-maison-quebec.md",
+   "date": "2026-09-12"
   },
   {
    "ref_id": 207,
@@ -5448,7 +5450,7 @@
    "translationKey": "article-entrepreneur-rbq",
    "needs_expert_review": true,
    "id": "t114",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5471,7 +5473,9 @@
      "s": 0.1793,
      "match": "/articles/house-flipping-montreal/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/choisir-entrepreneur-renovation-rbq-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 109,
@@ -5779,7 +5783,7 @@
    "translationKey": "article-acheter-seul",
    "needs_expert_review": true,
    "id": "t121",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5802,7 +5806,9 @@
      "s": 0.137,
      "match": "/articles/income-property-beginners/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/acheter-seul-un-revenu-quebec.md",
+   "date": "2026-08-25"
   },
   {
    "ref_id": 60,
