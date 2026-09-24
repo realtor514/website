@@ -1,0 +1,103 @@
+{
+ "id": "t126",
+ "slug": "acheter-maison-centenaire-quebec",
+ "title": "Acheter une maison centenaire à Montréal: ce qui change",
+ "target_keyword": "acheter maison centenaire montreal",
+ "word_count": 1798,
+ "category": "Guide de l'acheteur",
+ "internal_links": [
+  "/articles/heritage-property-montreal/",
+  "/articles/amiante-vermiculite-maison-quebec/",
+  "/articles/maison-difficile-assurer-quebec/",
+  "/articles/choisir-inspecteur-batiment-quebec/",
+  "/articles/cout-entretien-maison-quebec/",
+  "/tools/closing-costs/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://infoassurance.ca/comprendre-l-assurance-habitation/assurer-votre-habitation/assurer-une-maison-ancienne/",
+   "title": "Assurer une maison ancienne",
+   "publisher": "Bureau d'assurance du Canada",
+   "consulted": "2026-09-24",
+   "supports": "Definition d'une maison ancienne comme construite avant 1940 en vertu de la Loi sur le patrimoine culturel; liste des statuts; le statut inventorie est le plus communement attribue et n'a pas d'exigence de conservation; une maison ancienne sans statut peut etre assujettie a une reglementation municipale; il arrive qu'un assureur n'offre pas de produits d'assurance pour des maisons anciennes si des exigences de protection specifiques s'appliquent; conseil d'obtenir du proprietaire precedent les coordonnees de l'assureur."
+  },
+  {
+   "url": "https://infoassurance.ca/comprendre-l-assurance-habitation/assurer-votre-habitation/facteurs-qui-influencent-la-prime/",
+   "title": "Facteurs qui influencent la prime, assurance habitation",
+   "publisher": "Bureau d'assurance du Canada",
+   "consulted": "2026-09-24",
+   "supports": "L'age et les dimensions de l'habitation, les materiaux, le systeme de chauffage et la localisation entrent dans le calcul de la prime."
+  },
+  {
+   "url": "https://aibq.qc.ca/media/2220/aibq_normepreachat_maj-23-mars-2023-art1210.pdf",
+   "title": "Norme de pratique professionnelle pour l'inspection visuelle de batiments principalement residentiels",
+   "publisher": "Association des inspecteurs en batiments du Quebec",
+   "consulted": "2026-09-24",
+   "supports": "Introduction: l'inspection visuelle n'est pas une expertise. Art. 7 inspection non techniquement exhaustive; art. 8 composantes installees et facilement accessibles; art. 10 recommander un examen techniquement exhaustif par un specialiste; art. 11.1 ne pas penetrer si risque de dommages; art. 12.1 et 12.2 duree de vie residuelle et couts exclus; art. 12.6 elements enfouis dont les drains de fondation exclus; art. 12.10 conformite aux reglements municipaux exclue; art. 17.1 fondations; art. 18 piquer les composantes deteriorees; art. 22.2 aucun avis sur la capacite du systeme structural; art. 30.1 et 30.3 materiaux des tuyauteries; art. 36.4 qualite de l'eau exclue; art. 55 isolation et pare-vapeur vus dans les espaces non finis; art. 56 aucune opinion sur la suffisance de l'isolation."
+  },
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "title": "Formulaire obligatoire Declarations du vendeur sur l'immeuble, DV 00001",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Libelles exacts des questions citees: D2.9 immeuble vise par une loi ou un reglement en matiere de protection du patrimoine; D2.11 remplacement ou modification de fenetres; D3.1 glissement, affaissement, mouvement de terrain, instabilite du sol; D3.2 travaux de stabilisation aux fondations, pieutage, travaux en sous-oeuvre; D5.1 type de fondation, pierre, bois, bloc de beton, beton, ne sais pas; D5.2 fissures dans la fondation et pourriture; D7.1 condensation reguliere et importante en hiver; D9.1 rouille dans l'eau, pression ou debit qui varie, tuyau qui gele; D9.8 b) entree d'eau changee, reparee ou deplacee; D10.2 fusible ou disjoncteur qui saute a repetition."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/domaines-dintervention/electricite/vos-obligations-envers-la-rbq/declaration-de-travaux/",
+   "title": "Declaration de travaux, electricite",
+   "publisher": "Regie du batiment du Quebec",
+   "consulted": "2026-09-24",
+   "supports": "L'entrepreneur ou le constructeur-proprietaire en electricite doit declarer a la RBQ les travaux vises par le chapitre V du Code de construction, sauf notamment ceux impliquant une puissance d'au plus 10 kW qui ne necessitent pas un remplacement ou un ajout de cablage."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/domaines-dintervention/batiment/les-batiments-patrimoniaux/",
+   "title": "Les batiments patrimoniaux",
+   "publisher": "Regie du batiment du Quebec",
+   "consulted": "2026-09-24",
+   "supports": "Existence d'une procedure de mesures equivalentes ou de mesures differentes propre aux batiments patrimoniaux, avec un formulaire reserve; renvoi a la municipalite pour un immeuble cite."
+  },
+  {
+   "url": "https://montreal.ca/demarches/remplacer-des-portes-et-des-fenetres-par-des-modeles-de-memes-dimensions",
+   "title": "Remplacer des portes et des fenetres par des modeles de memes dimensions",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-24",
+   "supports": "Permis exige dans plusieurs arrondissements; les elements remplaces doivent avoir la forme et l'apparence de ceux du batiment d'origine et respecter la typologie du batiment, type d'ouverture, subdivisions, couleur; exigences supplementaires dans un secteur ou un site patrimonial; fenetres coulissantes non permises dans les secteurs dits significatifs; frais de 9,80 $ par tranche de 1000 $ de travaux, minimum 167,40 $ pour un immeuble residentiel, non remboursables; frais supplementaires si valeur patrimoniale; PIIA, frais et delais supplementaires."
+  },
+  {
+   "url": "https://montreal.ca/articles/remplacer-son-entree-deau-en-plomb-votre-responsabilite-53006",
+   "title": "Remplacer son entree d'eau en plomb: votre responsabilite",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-24",
+   "supports": "Reglement 20-030, obligation de remplacer la section privee dans les 24 mois apres la reception de l'avis de non-conformite; montant moyen estime de 1200 a 1400 $ du metre lineaire selon les donnees 2022 a 2025; facture envoyee l'annee suivante, etalable sur 15 ans au compte de taxes; le montant est associe au batiment et transmis au prochain proprietaire; amendes de 500 a 2000 $ pour une personne physique."
+  },
+  {
+   "url": "https://montreal.ca/articles/comment-reconnaitre-une-entree-deau-en-plomb-19804",
+   "title": "Comment reconnaitre une entree d'eau en plomb",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-24",
+   "supports": "Le tuyau de plomb est gris, ne produit aucune resonance si on le frappe, se raye et n'attire pas l'aimant; batiments les plus susceptibles: huit logements ou moins construits avant 1970; carte de depistage par adresse."
+  },
+  {
+   "url": "https://www.laval.ca/reglements-permis/index-reglements/occupation-entretien-batiments/",
+   "title": "Occupation et entretien des batiments patrimoniaux",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-24",
+   "supports": "Environ 2 600 immeubles identifies dans les preinventaires et inventaires realises entre 2015 et 2022; reglement L-12950; les composants du batiment, enveloppe exterieure, toiture, fondation, portes, fenetres, doivent etre en bon etat et remplir leur fonction; avis de travaux ecrit; avis de deterioration inscrit au registre foncier en vertu de l'article 145.41.4 de la Loi sur l'amenagement et l'urbanisme."
+  },
+  {
+   "url": "https://ressources-naturelles.canada.ca/efficacite-energetique/efficacite-energetique-maison/emprisonnons-chaleur-section-7-l-isolation-murs-l-ajout-isolation-renovation-construction",
+   "title": "Emprisonnons la chaleur, section 7: l'isolation des murs",
+   "publisher": "Ressources naturelles Canada",
+   "consulted": "2026-09-24",
+   "supports": "L'isolation doit comprendre l'etancheisation a l'air; le pare-vapeur doit etre pose sur le tiers chaud du mur fini; tenir compte de l'emplacement et de l'etat des vieux pare-vapeur qui peuvent n'etre que des murs de platre recouverts de plusieurs couches de peinture; attaquez-vous aux problemes d'humidite ou de structure avant d'effectuer l'isolation."
+  }
+ ],
+ "claims_needing_review": [
+  "Le repere de 1940 pour une maison ancienne est celui que le Bureau d'assurance du Canada rattache a la Loi sur le patrimoine culturel. A faire confirmer par un juriste ou par le ministere de la Culture et des Communications avant publication.",
+  "Le filage en bouton et tube et le panneau a fusibles sont nommes sans source officielle quebecoise decrivant leur risque ou la position des assureurs. L'article dit explicitement qu'aucune source officielle consultee ne permet d'affirmer un refus automatique. Un courtier en assurance de dommages devrait valider ce passage.",
+  "Le site d'Hydro-Quebec a ete inaccessible pendant la redaction, toutes les pages redirigeant vers acces-restreint.solutions.hydroquebec.com. Aucune affirmation de l'article ne repose donc sur Hydro-Quebec, notamment sur la puissance minimale d'un branchement residentiel.",
+  "Les frais de permis de Montreal, 9,80 $ par tranche de 1000 $ et minimum 167,40 $, varient selon l'arrondissement; la page consultee affiche les contenus par arrondissement. A revalider a la date de publication.",
+  "Les amendes du reglement L-12950 de Laval ne sont pas citees dans l'article; seules l'obligation d'entretien et l'avis de deterioration le sont."
+ ]
+}

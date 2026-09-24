@@ -6041,7 +6041,7 @@
    "translationKey": "article-maison-centenaire",
    "needs_expert_review": true,
    "id": "t126",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -6064,7 +6064,9 @@
      "s": 0.1573,
      "match": "/articles/maison-difficile-assurer-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/acheter-maison-centenaire-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 35,
