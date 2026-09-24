@@ -192,9 +192,9 @@ Oui, par deux chemins. Avec une cote ÉnerGuide démontrant une consommation d'a
 inférieure à celle d'une habitation neuve typique, ou avec Éco Amélioration, après 20 000 $ de
 rénovations admissibles réalisées à la suite de l'achat.
 
-**Les subventions fédérales de rénovation existent-elles encore?**
-Non pour les principales. La Subvention canadienne pour des maisons plus vertes est fermée et le
-prêt qui l'accompagnait n'accepte plus de demandes. Rénoclimat et LogisVert restent ouverts.
+**La Subvention canadienne pour des maisons plus vertes existe-t-elle encore?**
+Non. Ressources naturelles Canada affiche le programme comme fermé. Du côté québécois,
+Rénoclimat et LogisVert, eux, restent ouverts en 2026.
 
 **Le rapport ÉnerGuide remplace-t-il l'inspection préachat?**
 Non. Le conseiller évalue la performance énergétique, pas l'état du bâtiment. Toiture, fondation
