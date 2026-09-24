@@ -1,0 +1,79 @@
+{
+ "id": "t150",
+ "slug": "proprietaire-occupant-plex-reprise",
+ "title": "Propriétaire occupant d'un plex au Québec : la reprise",
+ "target_keyword": "proprietaire occupant plex quebec",
+ "word_count": 1798,
+ "category": "Investissement",
+ "internal_links": [
+  "/tools/affordability/",
+  "/articles/income-property-beginners/",
+  "/articles/investir-triplex-laval/",
+  "/articles/triplex-vs-condo-montreal/",
+  "/articles/rental-property-management/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, articles 1936, 1937, 1957, 1958, 1959, 1959.1, 1960, 1961, 1962, 1963, 1964, 1965, 1967, 1968, 1969, 1970",
+   "publisher": "Publications Québec, LégisQuébec",
+   "consulted": "2026-09-24",
+   "supports": "Texte exact de toutes les règles citées : droit au maintien dans les lieux (1936), continuation du bail à l'aliénation (1937), bénéficiaires permis de la reprise (1957), interdiction en indivision sauf conjoint (1958), interdiction fondée sur l'âge, l'ancienneté et le revenu (1959.1 et ses trois exceptions), délais d'avis (1960), contenu de l'avis (1961), réponse du locataire dans le mois et refus présumé (1962), demande au tribunal dans le mois et fardeau de preuve du locateur (1963), autre logement vacant du même genre (1964), indemnité d'éviction de 3 à 24 mois (1965), indemnité de reprise équivalente aux frais de déménagement (1967), dommages et dommages punitifs en cas de mauvaise foi (1968), reconduction du bail (1969), interdiction d'un autre usage du logement repris (1970)"
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/fr/droit-du-locateur-de-mettre-fin-au-bail/reprise-de-logement",
+   "title": "Droit du locateur de mettre fin au bail, Reprise de logement",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-09-24",
+   "supports": "Tableau des délais d'avis selon la durée du bail, délai de réponse d'un mois du locataire, délai d'un mois pour saisir le tribunal, fardeau de démontrer l'intention réelle, indemnité possible équivalente aux frais de déménagement, protection de l'article 1959.1 et seuil de 65 ans depuis le 6 juin 2024"
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/fr/droit-du-locateur-de-mettre-fin-au-bail/eviction-pour-subdivision-agrandissement-substantiel-ou-changement-d-affection-d-un-logement",
+   "title": "Avis d'éviction, éviction pour subdivision, agrandissement substantiel ou changement d'affectation d'un logement",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-09-24",
+   "supports": "Interdiction de l'éviction pour subdivision, agrandissement ou changement d'affectation pour une période de trois ans à compter du 6 juin 2024, distinction avec la reprise qui demeure possible, et indemnité d'éviction de un mois de loyer par année avec plancher de 3 mois et plafond de 24 mois"
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/la-reprise-du-logement/",
+   "title": "La reprise du logement",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-24",
+   "supports": "Contenu obligatoire de l'avis de reprise, cas où la reprise est impossible dont l'existence d'un autre logement comparable vacant dans les environs, absence d'indemnité automatique en cas de reprise, notion de mauvaise foi et dommages punitifs"
+  },
+  {
+   "url": "https://educaloi.qc.ca/actualites-juridiques/coacheter-un-duplex-et-reprendre-les-logements-est-ce-possible/",
+   "title": "Coacheter un duplex et reprendre les logements, est-ce possible?",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-24",
+   "supports": "Application concrète de l'article 1958 à l'achat d'un plex à plusieurs : la reprise n'est permise en indivision que si l'unique autre propriétaire est le conjoint, un troisième copropriétaire même minoritaire éteint le droit, et une société par actions au titre l'écarte aussi"
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/fr/modeles-d-avis/trouver-un-modele-d-avis",
+   "title": "Modèles d'avis, trouver un modèle d'avis",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-09-24",
+   "supports": "Existence d'un modèle d'avis de reprise de logement et d'un modèle de réponse du locataire, présentés comme des modèles suggérés et non comme des formulaires obligatoires"
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/espace-partenaires-informations-habitation/guides-references-partenaires-habitation/prbi-lmm-partenaires-habitation",
+   "title": "Plafonds de revenu, loyers médians et grilles de pondération (PRBI / LMM)",
+   "publisher": "Société d'habitation du Québec, Gouvernement du Québec",
+   "consulted": "2026-09-24",
+   "supports": "Les plafonds de revenu déterminant l'admissibilité à un logement à loyer modique, référence du seuil de 125 % de l'article 1959.1, sont publiés par la Société d'habitation du Québec, qui a diffusé les valeurs de 2026"
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/mortgage-loan-insurance-homeownership-programs/purchase",
+   "title": "Mortgage Loan Insurance Homeownership Programs, Purchase",
+   "publisher": "Société canadienne d'hypothèques et de logement",
+   "consulted": "2026-09-24",
+   "supports": "Exigence d'occupation par l'emprunteur ou un proche, avoir propre de 5 % sur les premiers 500 000 $ et 10 % sur le reste pour 1 ou 2 logements, et 10 % pour 3 ou 4 logements"
+  }
+ ],
+ "claims_needing_review": [
+  "Le calendrier illustré, avis au plus tard le 31 décembre pour une reprise au 30 juin, découle de l'article 1960 appliqué au cycle de bail du 1er juillet. À faire valider par un juriste pour une date de prise de possession donnée.",
+  "L'affirmation qu'un acheteur ne peut transmettre l'avis de reprise avant l'acte de vente découle du texte de l'article 1957, qui exige que le locateur soit propriétaire. Aucune décision du Tribunal n'est citée à l'appui.",
+  "L'affirmation qu'un avis de reprise transmis par le vendeur à son propre bénéfice ne profite pas à l'acheteur découle de l'exigence de nommer le bénéficiaire à l'article 1961. À faire confirmer par un juriste."
+ ]
+}
