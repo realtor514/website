@@ -119,7 +119,7 @@ plutot que de paraphraser de memoire.
 
 ## Ce que les redacteurs ont corrige chez moi
 
-Trois de mes consignes etaient fausses. Les agents les ont verifiees et
+Quatre de mes consignes etaient fausses. Les agents les ont verifiees et
 corrigees, ce qui est exactement ce qu on leur demandait.
 
 1. **Conjoints de fait.** J avais ecrit qu un conjoint de fait n herite jamais
@@ -131,19 +131,26 @@ corrigees, ce qui est exactement ce qu on leur demandait.
 3. **Contrat de courtage.** Ma fiche parlait d un nombre de jours convenu pour
    la retribution apres expiration. Le formulaire fixe 180 jours et la loi
    plafonne la.
+4. **Reglement sur les piscines.** J avais ecrit dans la consigne que l echeance
+   de mise aux normes etait passee, et j ai demande a l agent de batir son
+   article la-dessus. Faux: le texte sur LegisQuebec fixe le
+   **30 septembre 2027** pour les installations anterieures au 1er novembre
+   2010, apres une troisieme prolongation par le decret 120-2026. L agent l a
+   verifie et a refuse ma premisse. Publier ma version aurait mis une faussete
+   datee sur le site.
 
-Trois de mes outils etaient faux aussi, et c est plus grave parce qu ils
+Mes outils avaient aussi leurs trous, et c est plus grave parce qu ils
 touchaient tous les articles:
 
-4. **Categories et formulaire.** Mon brief de traduction disait de garder la
+5. **Categories et formulaire.** Mon brief de traduction disait de garder la
    categorie en francais et d utiliser `/en/formulaire/`. Les deux etaient
    faux: la categorie est traduite, et le formulaire a un slug par langue.
    Corrige aupres des agents en cours de travail, puis dans le validateur.
-5. **Un lien mort.** Mes cartes de liens annoncaient `/secteurs/laval/`, qui
+6. **Un lien mort.** Mes cartes de liens annoncaient `/secteurs/laval/`, qui
    n existe pas: la page vit sous `/courtier-immobilier/laval/`. Un seul
    brouillon avait suivi la mauvaise carte, corrige avant publication. Le
    validateur bloque maintenant sur un lien non resolu.
-6. **Cartes de liens jamais rafraichies.** Trois agents ont signale que les
+7. **Cartes de liens jamais rafraichies.** Trois agents ont signale que les
    articles publies plus tot dans la journee n y figuraient pas, donc personne
    ne pouvait pointer vers eux. `tools/linkmap.py` les reconstruit desormais a
    partir du contenu reel.
