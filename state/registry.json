@@ -263,6 +263,84 @@
    "slug": "maison-intergenerationnelle-laval-montreal",
    "keyword": "maison intergenerationnelle laval reglement",
    "state": "in_progress"
+  },
+  {
+   "id": "t14",
+   "slug": "valeur-terrain-zonage-quebec",
+   "keyword": "valeur terrain zonage quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t106",
+   "slug": "fonte-neiges-infiltration-clapet-montreal",
+   "keyword": "infiltration eau sous-sol montreal",
+   "state": "in_progress"
+  },
+  {
+   "id": "t137",
+   "slug": "vendre-avant-acheter-clauses-quebec",
+   "keyword": "vendre avant d acheter maison quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t140",
+   "slug": "acheter-propriete-etranger-quebec",
+   "keyword": "acheter propriete etranger quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t143",
+   "slug": "animaux-copropriete-declaration-quebec",
+   "keyword": "animaux interdits condo quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t28",
+   "slug": "garder-ou-vendre-signaux-quebec",
+   "keyword": "vendre ou garder sa maison quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t116",
+   "slug": "acheter-sans-visiter-visite-virtuelle-quebec",
+   "keyword": "acheter maison sans visiter quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t120",
+   "slug": "profil-acheteurs-montreal-laval-vendeur",
+   "keyword": "profil des acheteurs montreal laval",
+   "state": "in_progress"
+  },
+  {
+   "id": "t130",
+   "slug": "diffusion-inscription-centris-publicite",
+   "keyword": "diffusion inscription centris quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t132",
+   "slug": "visite-libre-vendeur-quebec",
+   "keyword": "visite libre vendeur montreal",
+   "state": "in_progress"
+  },
+  {
+   "id": "t134",
+   "slug": "processus-mise-en-vente-etapes-quebec",
+   "keyword": "processus de vente maison quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t139",
+   "slug": "preparer-rencontre-courtier-documents",
+   "keyword": "premiere rencontre courtier immobilier",
+   "state": "in_progress"
+  },
+  {
+   "id": "t142",
+   "slug": "maximiser-valeur-plex-montreal",
+   "keyword": "augmenter la valeur d un plex",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -309,7 +387,20 @@
   "renover-hiver-permis-montreal-laval",
   "maison-ecoenergetique-novoclimat-quebec",
   "acheter-maison-centenaire-quebec",
-  "maison-intergenerationnelle-laval-montreal"
+  "maison-intergenerationnelle-laval-montreal",
+  "valeur-terrain-zonage-quebec",
+  "fonte-neiges-infiltration-clapet-montreal",
+  "vendre-avant-acheter-clauses-quebec",
+  "acheter-propriete-etranger-quebec",
+  "animaux-copropriete-declaration-quebec",
+  "garder-ou-vendre-signaux-quebec",
+  "acheter-sans-visiter-visite-virtuelle-quebec",
+  "profil-acheteurs-montreal-laval-vendeur",
+  "diffusion-inscription-centris-publicite",
+  "visite-libre-vendeur-quebec",
+  "processus-mise-en-vente-etapes-quebec",
+  "preparer-rencontre-courtier-documents",
+  "maximiser-valeur-plex-montreal"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -355,7 +446,20 @@
   "permis de renovation montreal laval",
   "maison novoclimat certification quebec",
   "acheter maison centenaire montreal",
-  "maison intergenerationnelle laval reglement"
+  "maison intergenerationnelle laval reglement",
+  "valeur terrain zonage quebec",
+  "infiltration eau sous-sol montreal",
+  "vendre avant d acheter maison quebec",
+  "acheter propriete etranger quebec",
+  "animaux interdits condo quebec",
+  "vendre ou garder sa maison quebec",
+  "acheter maison sans visiter quebec",
+  "profil des acheteurs montreal laval",
+  "diffusion inscription centris quebec",
+  "visite libre vendeur montreal",
+  "processus de vente maison quebec",
+  "premiere rencontre courtier immobilier",
+  "augmenter la valeur d un plex"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -401,6 +505,19 @@
   "Renover l'hiver a Montreal et a Laval: permis, autorisations et delais",
   "Maison ecoenergetique au Quebec: Novoclimat, LEED et le remboursement de la SCHL",
   "Acheter une maison centenaire au Quebec: assurance, electricite et fondation",
-  "Maison intergenerationnelle a Laval et a Montreal: zonage, permis et financement"
+  "Maison intergenerationnelle a Laval et a Montreal: zonage, permis et financement",
+  "Votre terrain vaut-il plus que votre maison",
+  "Fonte des neiges et infiltrations: drain francais, clapet antiretour et assurance",
+  "Vendre avant d acheter ou acheter avant de vendre: le calcul et les clauses au Quebec",
+  "Acheter une propriete a l etranger quand on habite le Quebec: impot, declaration et succession",
+  "Animaux en copropriete: ce que la declaration peut interdire, et ce qui ne tient pas",
+  "Garder ou vendre: les signaux financiers a surveiller au Quebec",
+  "Acheter sans visiter au Quebec: visite virtuelle, divulgation et risques reels",
+  "A qui vendez-vous vraiment: le profil des acheteurs a Montreal et a Laval",
+  "Ou passe reellement votre inscription: Centris, realtor.ca et les regles de publicite",
+  "La visite libre vaut-elle encore la peine pour un vendeur au Quebec",
+  "Mettre sa propriete en vente au Quebec: les douze etapes, du premier appel a l acte notarie",
+  "Premiere rencontre avec un courtier: les documents a apporter selon que vous achetez ou vendez",
+  "Augmenter la valeur d un plex a Montreal ou a Laval: ce qui compte vraiment"
  ]
 }

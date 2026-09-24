@@ -637,7 +637,7 @@
    ],
    "slug": "valeur-terrain-zonage-quebec",
    "translationKey": "article-valeur-terrain",
-   "status": "clear",
+   "status": "written_draft",
    "gate1": {
     "slug": {
      "v": "PASS",
@@ -659,7 +659,9 @@
      "s": 0.0825,
      "match": "/articles/open-house-secrets/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/valeur-terrain-zonage-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 1278,
@@ -1310,7 +1312,7 @@
    "translationKey": "article-keep-or-sell-signals",
    "needs_expert_review": true,
    "id": "t28",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -5072,7 +5074,7 @@
    "translationKey": "article-infiltration-printemps",
    "needs_expert_review": true,
    "id": "t106",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5559,7 +5561,7 @@
    "translationKey": "article-visite-virtuelle",
    "needs_expert_review": true,
    "id": "t116",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5750,7 +5752,7 @@
    "translationKey": "article-profil-acheteurs",
    "needs_expert_review": false,
    "id": "t120",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -6239,7 +6241,7 @@
    "translationKey": "article-diffusion-inscription",
    "needs_expert_review": false,
    "id": "t130",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -6336,7 +6338,7 @@
    "translationKey": "article-visite-libre-vendeur",
    "needs_expert_review": false,
    "id": "t132",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -6433,7 +6435,7 @@
    "translationKey": "article-processus-mise-en-vente",
    "needs_expert_review": false,
    "id": "t134",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -6577,7 +6579,7 @@
    "translationKey": "article-vendre-avant-acheter",
    "needs_expert_review": true,
    "id": "t137",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -6675,7 +6677,7 @@
    "translationKey": "article-rencontre-courtier",
    "needs_expert_review": false,
    "id": "t139",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -6723,7 +6725,7 @@
    "translationKey": "article-propriete-etranger",
    "needs_expert_review": true,
    "id": "t140",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -6819,7 +6821,7 @@
    "translationKey": "article-valeur-plex",
    "needs_expert_review": true,
    "id": "t142",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -6867,7 +6869,7 @@
    "translationKey": "article-animaux-condo",
    "needs_expert_review": true,
    "id": "t143",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {

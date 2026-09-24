@@ -1,0 +1,91 @@
+{
+ "id": "t14",
+ "slug": "valeur-terrain-zonage-quebec",
+ "title": "Valeur du terrain et zonage au Québec : lire le rôle",
+ "target_keyword": "valeur terrain zonage quebec",
+ "word_count": 1746,
+ "category": "Investissement",
+ "internal_links": [
+  "/tools/home-estimate/",
+  "/articles/contester-evaluation-municipale-quebec/",
+  "/articles/laval-investment-city/",
+  "/articles/declaration-du-vendeur-quebec/",
+  "/articles/acheter-un-terrain-quebec-verifications/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/F-2.1",
+   "title": "Loi sur la fiscalité municipale, chapitre F-2.1",
+   "publisher": "Légis Québec, Éditeur officiel du Québec",
+   "consulted": "2026-09-24",
+   "supports": "Article 42 (le rôle indique la valeur de chaque unité d'évaluation sur la base de sa valeur réelle), article 43 (valeur réelle = valeur d'échange sur un marché libre et ouvert à la concurrence, vente de gré à gré entre parties informées et non obligées), article 46 (état de l'unité et conditions du marché au 1er juillet du deuxième exercice financier qui précède le premier de ceux pour lesquels le rôle est fait, et utilisation la plus probable à cette date), article 174 paragraphe 12 (l'évaluateur modifie le rôle à la suite d'une division, subdivision ou redivision)."},
+
+  {"url": "https://montreal.ca/sujets/valeur-fonciere-dune-propriete",
+   "title": "Valeur foncière d'une propriété",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-24",
+   "supports": "La ventilation en trois valeurs : valeur de l'immeuble évaluée selon le prix de vente de propriétés aux caractéristiques similaires, valeur du terrain selon le prix de vente de terrains vacants comparables, valeur du bâtiment égale à la valeur de l'immeuble moins la valeur du terrain."},
+
+  {"url": "https://montreal.ca/demarches/consulter-les-roles-devaluation-fonciere",
+   "title": "Consulter les rôles d'évaluation foncière",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-24",
+   "supports": "Le service en ligne contient le nom et l'adresse postale du propriétaire, la superficie du terrain, la valeur de l'immeuble, du bâtiment et du terrain, et s'interroge par adresse, numéro de lot ou numéro de matricule."},
+
+  {"url": "https://www.laval.ca/taxes-evaluation-fonciere/evaluation-fonciere/role-evaluation-fonciere/",
+   "title": "Rôle d'évaluation foncière",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-24",
+   "supports": "Rôle 2025-2026-2027, date de référence au marché du 1er juillet 2023 ; la distinction terrain et bâtiment n'est pas importante pour le calcul des taxes, la valeur du bâtiment étant indiquée pour répondre à une obligation légale ; exemple chiffré immeuble 569 000 $, terrain 250 000 $, bâtiment 319 000 $."},
+
+  {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/A-19.1",
+   "title": "Loi sur l'aménagement et l'urbanisme, chapitre A-19.1",
+   "publisher": "Légis Québec, Éditeur officiel du Québec",
+   "consulted": "2026-09-24",
+   "supports": "Article 113 (classifier les constructions et les usages, diviser le territoire en zones, spécifier les usages autorisés et prohibés ; paragraphe 18 sur les usages dérogatoires protégés par droits acquis, cessation après une période qui ne peut être inférieure à six mois, interdiction de remplacement, d'extension ou de modification), article 115 (superficie et dimensions minimales des lots, prohibition d'opérations cadastrales selon la topographie, les milieux humides et hydriques ou les dangers d'inondation ; paragraphe 1.1 sur l'agrandissement d'un lot dérogatoire ; paragraphe 9 sur les servitudes de transport d'énergie au plan annexé), articles 117.1 et 117.2 (contribution pour fins de parcs), article 145.1 (la dérogation mineure ne peut porter sur l'usage et la densité d'occupation du sol)."},
+
+  {"url": "https://montreal.ca/demarches/demander-un-permis-de-lotissement",
+   "title": "Demander un permis de lotissement",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-24",
+   "supports": "Permis de lotissement obligatoire avant toute opération cadastrale sauf trois exceptions ; l'opération cadastrale doit permettre la construction d'un bâtiment conforme aux règlements de construction et d'urbanisme ; certificat de localisation ou projet de certificat exigé si le terrain est bâti."},
+
+  {"url": "https://oagq.qc.ca/services/operation-cadastrale/",
+   "title": "Opération cadastrale",
+   "publisher": "Ordre des arpenteurs-géomètres du Québec",
+   "consulted": "2026-09-24",
+   "supports": "Définition de l'opération cadastrale et acte réservé à l'arpenteur-géomètre en vertu de l'article 34 de la Loi sur les arpenteurs-géomètres."},
+
+  {"url": "https://oagq.qc.ca/services/certificat-de-localisation/",
+   "title": "Certificat de localisation",
+   "publisher": "Ordre des arpenteurs-géomètres du Québec",
+   "consulted": "2026-09-24",
+   "supports": "Le certificat comprend un rapport et un plan, exprime l'opinion professionnelle de l'arpenteur-géomètre sur la situation et la condition actuelles du bien-fonds, et couvre la description actualisée du terrain, les servitudes, les contraintes (zone agricole, zone inondable), les empiètements et la conformité réglementaire."},
+
+  {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/ccq-1991",
+   "title": "Code civil du Québec, chapitre CCQ-1991",
+   "publisher": "Légis Québec, Éditeur officiel du Québec",
+   "consulted": "2026-09-24",
+   "supports": "Article 1177 (la servitude est une charge imposée sur un immeuble en faveur d'un autre) et article 1182 (les mutations de propriété ne portent pas atteinte à la servitude, qui suit les immeubles en quelques mains qu'ils passent)."},
+
+  {"url": "https://montreal.ca/demarches/demander-une-derogation-mineure",
+   "title": "Demander une dérogation mineure",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-24",
+   "supports": "La demande ne peut concerner l'usage et la densité d'occupation du sol ni les droits acquis, et le traitement prend de trois à quatre mois à partir d'une demande complète."},
+
+  {"url": "https://www.laval.ca/amenagement-territoire/code-urbanisme-outils-discretionnaires/info-reglements/",
+   "title": "Info-règlements",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-24",
+   "supports": "L'outil Info-règlements permet de chercher dans le Code de l'urbanisme par mot-clé, numéro de lot ou adresse."},
+
+  {"url": "https://montreal.ca/sujets/zonage",
+   "title": "Zonage",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-24",
+   "supports": "Chaque arrondissement définit ses propres règlements d'urbanisme, qui encadrent l'utilisation des terrains et des bâtiments et l'implantation des nouvelles constructions."}
+ ],
+ "claims_needing_review": []
+}

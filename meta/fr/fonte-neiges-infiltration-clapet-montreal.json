@@ -1,0 +1,93 @@
+{
+ "id": "t106",
+ "slug": "fonte-neiges-infiltration-clapet-montreal",
+ "title": "Fonte des neiges et infiltration d'eau au sous-sol",
+ "target_keyword": "infiltration eau sous-sol montreal",
+ "word_count": 1782,
+ "category": "Guide pratique",
+ "internal_links": [
+  "/articles/ventre-de-boeuf-drain-montreal/",
+  "/articles/maison-difficile-assurer-quebec/",
+  "/articles/acheter-maison-hiver-montreal/",
+  "/articles/home-inspection-checklist-montreal/",
+  "/articles/declaration-du-vendeur-quebec/",
+  "/tools/closing-costs/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.laval.ca/environnement/eau/accumulation-eau-infiltration-refoulement-egout/",
+   "title": "Accumulation d'eau, infiltration et refoulement d'egout",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-24",
+   "supports": "Definition de l'infiltration d'eau (eau de l'exterieur qui entre dans un batiment), les trois causes principales (etancheite de la fondation, des fenetres ou d'une porte de garage, mauvais drainage du terrain, nappe phreatique pres du sol), le partage des responsabilites entre le proprietaire et la Ville, l'exigence d'un bombement quand l'allee descend vers la maison (article 4.01.03 du reglement L-11870) et le rejet des eaux de gouttiere a au moins 1 metre du batiment."
+  },
+  {
+   "url": "https://www.laval.ca/reglements-permis/index-reglements/gouttiere/",
+   "title": "Gouttieres",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-24",
+   "supports": "Le reglement L-11870 sur l'evacuation des eaux pluviales: deversement obligatoire sur une surface permeable a au moins 1 metre du batiment, les trois branchements non conformes (raccordement au drain de fondation, evacuation directe a la rue, deversement sur une surface impermeable inclinee vers la rue) et le renvoi aux articles 976, 979 et 983 du Code civil du Quebec pour ne pas diriger l'eau vers le voisin."
+  },
+  {
+   "url": "https://montreal.ca/articles/comment-proteger-son-batiment-face-aux-fortes-pluies-68382",
+   "title": "Comment proteger son batiment face aux fortes pluies",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-24",
+   "supports": "Les quatre mesures pour une residence a entree de garage en contre-pente (dos d'ane en arriere-trottoir, porte de garage etanche, comblement de l'entree, batardeau) et l'exigence, pour un toit en pente, que les gouttieres envoient l'eau vers une surface permeable et ne soient pas raccordees au drain de fondation."
+  },
+  {
+   "url": "https://montreal.ca/articles/quoi-faire-en-prevention-dune-inondation-4317",
+   "title": "Quoi faire en prevention d'une inondation",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-24",
+   "supports": "La liste de verification de la Ville: gouttieres exterieures raccordees adequatement et sans obstruction, drain de l'entree de garage en contre-pente propre et fonctionnel."
+  },
+  {
+   "url": "https://infoassurance.ca/blogue/habitation/7-conseils-pour-proteger-votre-maison-lors-du-degel-printanier/",
+   "title": "7 conseils pour proteger votre maison lors du degel printanier",
+   "publisher": "Bureau d'assurance du Canada (Infoassurance)",
+   "consulted": "2026-09-24",
+   "supports": "Diriger l'eau des gouttieres et des descentes pluviales a 2 metres de la fondation, utiliser des rallonges, retirer la neige des puits de fenetre et pelleter la neige loin des fondations, degager les drains de sous-sol. Aussi: l'infiltration creee par un barrage de glace sur le toit ou dans les gouttieres releve de l'avenant Eau au-dessus du sol, et la garantie contre le debordement d'un cours d'eau peut etre limitee ou indisponible en zone inondable connue."
+  },
+  {
+   "url": "https://infoassurance.ca/blogue/habitation/infiltration-d-eau-et-assurance-c-est-couvert-ou-pas/",
+   "title": "Infiltration d'eau et assurance: c'est couvert ou pas?",
+   "publisher": "Bureau d'assurance du Canada (Infoassurance)",
+   "consulted": "2026-09-24",
+   "supports": "La distinction entre les deux avenants: l'avenant eau au-dessus du sol vise la pluie, la neige et la glace fondante qui s'infiltre a travers le toit, les murs ou les portes et fenetres, ainsi que la fuite, le debordement ou le refoulement des gouttieres et descentes pluviales; l'infiltration par les fondations ou par les portes et fenetres du sous-sol exige plutot l'avenant Eau du sol et egouts."
+  },
+  {
+   "url": "https://infoassurance.ca/comprendre-l-assurance-habitation/reclamer-pour-votre-habitation/degat-deau/",
+   "title": "Degat d'eau",
+   "publisher": "Bureau d'assurance du Canada (Infoassurance)",
+   "consulted": "2026-09-24",
+   "supports": "Ce que le contrat de base couvre automatiquement (installation sanitaire comme la baignoire, la laveuse ou le chauffe-eau, bris d'une conduite d'eau potable) et le fait qu'une infiltration, un refoulement d'egouts ou le debordement d'un cours d'eau exigent un avenant, assorti d'un montant de garantie distinct de celui de la police."
+  },
+  {
+   "url": "https://infoassurance.ca/blogue/habitation/de-plus-en-plus-de-degats-d-eau/",
+   "title": "De plus en plus de degats d'eau",
+   "publisher": "Bureau d'assurance du Canada (Infoassurance)",
+   "consulted": "2026-09-24",
+   "supports": "En 2024, 68 % des sinistres payes en assurance habitation au Quebec se rapportaient a des dommages causes par l'eau, pour un cout moyen de 23 550 $ par sinistre. Source citee par la page: Bureau d'assurance du Canada, Assurance habitation au Quebec, 2025."
+  },
+  {
+   "url": "https://assets.cmhc-schl.gc.ca/sf/project/cmhc/pdfs/content/fr/mould-information-for-occupants-fr.pdf",
+   "title": "La moisissure dans les maisons: information pour les occupants (liste de verification)",
+   "publisher": "SCHL",
+   "consulted": "2026-09-24",
+   "supports": "La pente du terrain entourant la maison doit permettre aux eaux de ruissellement de s'ecouler loin de la maison, et la pente du sol, de la pelouse et de l'allee d'auto doit eloigner l'eau de la maison. Installer des rallonges aux descentes pluviales afin que l'eau de pluie et de neige fondue soit evacuee loin de la maison. L'eau s'infiltre dans la maison lorsqu'il y a une fissure ou une fuite dans sa fondation, ses planchers, ses murs ou son toit."
+  },
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "title": "Declarations du vendeur sur l'immeuble, formulaire DV 00001 (V24 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Le libelle exact des questions D3.6 (accumulation periodique d'eau sur le terrain), D4.1 (infiltrations d'eau, avec la liste des endroits a cocher: sous-sol ou vide sanitaire, toiture, terrasse, balcon, verriere, puits de lumiere, porte, fenetre, cheminee) et D5.2 (problemes ayant affecte le sous-sol ou le vide sanitaire, dont les fissures dans la fondation)."
+  }
+ ],
+ "claims_needing_review": [
+  "Le nom commercial des avenants (Eau au-dessus du sol, Eau du sol et egouts) est celui employe par le Bureau d'assurance du Canada. Les appellations et le decoupage exact des garanties varient d'un assureur a l'autre: l'article le dit, mais un assureur devrait relire le tableau.",
+  "La description du mecanisme du barrage de glace et de la trace laissee en haut du mur interieur est une explication technique generale, appuyee sur la formulation de la SCHL sur les points d'infiltration, et non sur une source qui decrit ce symptome precis."
+ ]
+}
