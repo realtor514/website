@@ -101,12 +101,22 @@ def main():
     ap.add_argument("cmd", choices=["check", "run"])
     ap.add_argument("--lang", default="fr")
     ap.add_argument("--fenetre", type=int, default=30)
+    ap.add_argument("--slugs", nargs="*", default=None,
+                    help="ne traiter que ces slugs. Sans ca, tous les brouillons du "
+                         "dossier, ce qui ramasse aussi ceux qu un agent est encore "
+                         "en train d ecrire.")
     args = ap.parse_args()
 
     lang = args.lang
     drafts_dir = ROOT / "drafts" / lang
     target_dir = ROOT / "content" / lang / "articles"
     files = sorted(p for p in drafts_dir.glob("*.md"))
+    if args.slugs:
+        wanted = set(args.slugs)
+        files = [p for p in files if p.stem in wanted]
+        absents = wanted - {p.stem for p in files}
+        if absents:
+            print("introuvable dans drafts/%s: %s" % (lang, ", ".join(sorted(absents))))
     if not files:
         print("Aucun brouillon dans %s" % drafts_dir)
         return

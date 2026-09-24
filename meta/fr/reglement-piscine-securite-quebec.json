@@ -1,0 +1,96 @@
+{
+ "id": "t83",
+ "slug": "reglement-piscine-securite-quebec",
+ "title": "Règlement piscine résidentielle Québec: l'échéance 2027",
+ "target_keyword": "reglement piscine residentielle quebec",
+ "word_count": 1781,
+ "category": "Guide pratique",
+ "internal_links": [
+  "/articles/arbres-propriete-reglements-quebec/",
+  "/courtier-immobilier/laval/",
+  "/articles/declaration-du-vendeur-quebec/",
+  "/articles/maison-difficile-assurer-quebec/",
+  "/articles/red-flags-walk-away-property/",
+  "/articles/home-inspection-checklist-montreal/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/S-3.1.02,%20r.%201",
+   "title": "Règlement sur la sécurité des piscines résidentielles, chapitre S-3.1.02, r. 1, texte complet à jour au 1er mai 2026",
+   "publisher": "Légis Québec, Éditeur officiel du Québec",
+   "consulted": "2026-09-24",
+   "supports": "Toutes les normes citées: définition de piscine et profondeur de 60 cm et exclusion du bain à remous de 2 000 litres (art. 1), échelle ou escalier (art. 2), obligation d'enceinte (art. 3), enceinte de 1,2 m, objet sphérique de 10 cm, mailles de 30 mm, haie exclue (art. 4), dispositif passif de fermeture et de verrouillage et loquet extérieur à 1,5 m (art. 5), dispense pour hors terre de 1,2 m et démontable de 1,4 m et les trois modes d'accès (art. 6), règle du mètre pour les appareils et structures grimpables et fenêtre sous 3 m (art. 7), maintien en bon état (art. 8), norme BNQ 9461-100 pour le plongeoir (art. 8.1), permis municipal (art. 9), application et échéance du 30 septembre 2027 pour une installation existant avant le 1er novembre 2010 (art. 10), amende de 500 $ à 700 $ et 700 $ à 1 000 $ en récidive (art. 11), et la liste des décrets modificateurs 662-2021, 1372-2022 et 120-2026"
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/piscines-et-spas/securite-piscines-residentielles/securisez-piscine",
+   "title": "Sécurisez votre piscine extérieure pour prévenir tout risque de noyade",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-24",
+   "supports": "Confirme que le règlement vise les piscines hors terre, creusées et démontables de 60 cm d'eau ou plus, que l'échéance des installations d'avant le 1er novembre 2010 est le 30 septembre 2027, et l'existence de formulaires d'autoévaluation distincts par type de piscine"
+  },
+  {
+   "url": "https://montreal.ca/demarches/obtenir-un-permis-pour-installer-une-piscine",
+   "title": "Obtenir un permis pour installer une piscine, mis à jour le 5 février 2026",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-24",
+   "supports": "Permis obligatoire pour toute piscine creusée, semi-creusée, hors terre ou démontable; tarifs par arrondissement: 9,80 $ par tranche de 1 000 $ de travaux avec minimum de 167,40 $ à Ahuntsic-Cartierville, 150 $ plus taxes à Anjou, 465 $ non remboursables à Côte-des-Neiges-Notre-Dame-de-Grâce; documents exigés (certificat de localisation, plan d'aménagement de la cour, soumission de l'entrepreneur, fiche technique); permis distincts pour une plateforme d'accès, la modification d'un balcon ouvrant sur la piscine et l'abattage d'un arbre dans l'aire d'implantation"
+  },
+  {
+   "url": "https://montreal.ca/articles/piscines-residentielles-ibsg-jusquau-30-septembre-2027-pour-se-conformer-73498",
+   "title": "Piscines résidentielles à IBSG: jusqu'au 30 septembre 2027 pour se conformer, mis à jour le 14 mai 2026",
+   "publisher": "Ville de Montréal, arrondissement de L'Île-Bizard-Sainte-Geneviève",
+   "consulted": "2026-09-24",
+   "supports": "Échéance du 30 septembre 2027 pour une piscine installée avant le 1er novembre 2010, service gratuit d'inspection et de conseils de l'arrondissement, et délivrance d'un certificat de mise aux normes sur remise du certificat de localisation, d'un plan à l'échelle et de la soumission des travaux"
+  },
+  {
+   "url": "https://www.laval.ca/reglements-permis/trouver-mon-permis/mise-norme-cloture-piscine/",
+   "title": "Permis pour la mise aux normes d'une piscine (enceinte)",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-24",
+   "supports": "Coût de 84 $ et délai de 20 jours pour le permis de mise aux normes de l'enceinte; échéance du 30 septembre 2027; abrogation des règlements L-280 et L-11807 remplacés par le règlement transitoire L-12907; mécanique du ressort et du loquet automatique et loquet extérieur à 1,5 m et plus; obligation de porter à 1,2 m le garde-corps d'un balcon existant adjacent à une nouvelle piscine; modes d'accès sécurisés d'une piscine hors terre ou démontable"
+  },
+  {
+   "url": "https://www.laval.ca/reglements-permis/trouver-mon-permis/piscine-spa/",
+   "title": "Piscine et spa, permis et certificat d'autorisation",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-24",
+   "supports": "Certificat d'autorisation obligatoire avant d'installer ou de déplacer une piscine, 84 $ et 20 jours, types visés dont l'installation initiale d'une démontable et les spas de plus de 2 000 litres, certificat de localisation obligatoirement préparé par un arpenteur géomètre, photos exigées de la cour arrière, du balcon et du mur arrière, et visite de l'inspecteur comme dernière étape"
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/piscines-residentielles-nouvelles-regles-en-vigueur/",
+   "title": "Sécurité des piscines résidentielles: encadrement réglementaire, dernière mise à jour le 24 février 2026",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-24",
+   "supports": "Confirmation de l'échéance du 30 septembre 2027, pratique inchangée de déclarer dans le formulaire de déclarations du vendeur tout avis de non-conformité pouvant engendrer des dépenses, et rappel que chaque municipalité peut adopter des règles et des sanctions plus sévères que le règlement provincial"
+  },
+  {
+   "url": "https://societedesauvetage.org/bilan-des-noyades-2025/",
+   "title": "Bilan des noyades de 2025",
+   "publisher": "Société de sauvetage",
+   "consulted": "2026-09-24",
+   "supports": "61 décès par noyade au Québec en 2025, dont 5 chez les enfants de 0 à 5 ans contre 7 en 2024, et demande de la Société de sauvetage de ramener l'échéance réglementaire au 1er juin 2026"
+  },
+  {
+   "url": "https://bac.ibc.ca/principes-de-base-de-l-assurance/assurance-habitation/la-souscription-d-une-assurance-habitation",
+   "title": "La souscription d'une assurance habitation",
+   "publisher": "Bureau d'assurance du Canada",
+   "consulted": "2026-09-24",
+   "supports": "Obligation de communiquer avec son représentant en assurance avant d'installer une piscine ou un spa, et couverture de la responsabilité civile du titulaire de police, étendue au conjoint et aux enfants"
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, article 1457",
+   "publisher": "Légis Québec, Éditeur officiel du Québec",
+   "consulted": "2026-09-24",
+   "supports": "Devoir de respecter les règles de conduite qui s'imposent de manière à ne pas causer de préjudice à autrui, et obligation de réparer en certains cas le préjudice causé par le fait des biens que l'on a sous sa garde"
+  }
+ ],
+ "claims_needing_review": [
+  "L'angle fourni dans la consigne affirmait que l'échéance provinciale était échue. Vérification faite, elle ne l'est pas: le texte officiel à jour au 1er mai 2026 fixe le 30 septembre 2027 pour une installation existant avant le 1er novembre 2010, après modification de l'article 10 par le décret 120-2026. L'article a été réécrit en conséquence. À revérifier avant publication au cas où un nouveau décret reporterait encore cette date.",
+  "L'affirmation « remplacer la piscine rend applicables à l'installation existante les trois dispositions exceptées » reformule le troisième alinéa de l'article 10. À valider par un juriste ou par la municipalité avant publication.",
+  "L'article 10.1 du règlement, qui exempte certaines installations existant avant le 17 juillet 2025 tant qu'elles ne sont pas remplacées, a été volontairement omis pour ne pas induire en erreur: sa portée exacte devrait être confirmée auprès du ministère avant d'en parler dans un article destiné au grand public.",
+  "Aucune source officielle consultée ne chiffre le coût moyen d'une mise aux normes au Québec, ni l'effet d'une piscine non conforme sur le prix de vente. Aucun chiffre de ce genre n'est avancé dans l'article.",
+  "Les tarifs de permis de Montréal varient par arrondissement et ceux de Laval sont susceptibles de changer au prochain budget: à revalider à la date de publication."
+ ]
+}

@@ -120,6 +120,17 @@ sont pretes. Une seule commande le met en ligne:
 python tools/approve.py approve conjoints-de-fait-maison-quebec
 ```
 
+**Si vous le publiez, un lien est a remettre.** L article
+`deces-conjoint-proteger-propriete-quebec` renvoyait naturellement vers lui a
+deux endroits. J ai retire les deux liens, parce qu un lien vers un article en
+draft renvoie 404 en production: Hugo ne rend pas les brouillons. Une fois
+`conjoints-de-fait-maison-quebec` en ligne, ces deux renvois valent la peine
+d etre remis, dans les 4 langues.
+
+Le validateur bloque desormais ce cas de lui-meme: `tools/validate.py` refuse un
+lien vers un article encore en draft, alors qu avant il se contentait de
+verifier que le fichier existait sur le disque.
+
 Pour retirer un article publie, l inverse n existe pas dans approve.py: mettez
 `draft: true` dans les 4 fichiers, puis commit et push.
 

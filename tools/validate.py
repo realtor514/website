@@ -75,6 +75,24 @@ def known_slugs(lang):
     return {p.stem for p in folder.glob("*.md")} if folder.is_dir() else set()
 
 
+def draft_slugs(lang):
+    """Articles presents sur le disque mais encore en draft: true.
+
+    Hugo ne les rend pas sans -D, donc un lien vers l un d eux est mort en
+    production meme si le fichier existe. Le fichier sur le disque ne suffit
+    donc pas a valider un lien.
+    """
+    folder = CONTENT / lang / "articles"
+    if not folder.is_dir():
+        return set()
+    out = set()
+    for p in folder.glob("*.md"):
+        meta, _, _ = parse(p)
+        if meta and meta.get("draft", "false").lower() == "true":
+            out.add(p.stem)
+    return out
+
+
 def section_paths(lang):
     """Toutes les URLs de pages reellement presentes pour cette langue.
 
@@ -183,12 +201,18 @@ def check(path):
     # Liens internes: chaque cible doit exister.
     valid = section_paths(lang)
     slugs = known_slugs(lang)
+    drafts = draft_slugs(lang)
     prefix = "/articles/" if lang == "fr" else "/%s/articles/" % lang
     for target in re.findall(r"\]\((/[^)#\s]*)\)", body):
         target = target if target.endswith("/") else target + "/"
         if target.startswith(prefix):
-            if target[len(prefix):].rstrip("/") not in slugs:
+            stem = target[len(prefix):].rstrip("/")
+            if stem not in slugs:
                 errors.append("lien mort: %s" % target)
+            elif stem in drafts and stem != path.stem:
+                # Le fichier existe, mais il est en draft: Hugo ne le publie pas,
+                # donc le lien renverra 404 en production.
+                errors.append("lien vers un article encore en draft: %s" % target)
         elif target not in valid and target.rstrip("/") + "/" not in valid:
             # section_paths enumere toutes les pages reelles, y compris les url:
             # declarees en front matter. Une cible absente est donc un lien mort,
