@@ -5,7 +5,7 @@ lastmod: 2026-09-24
 translationKey: "article-propriete-etranger"
 category: "Investissement"
 description: "Acheter une propriété au Québec en tant qu'étranger: l'interdiction fédérale, les exceptions, la mise de fonds, le certificat de conformité à la revente."
-image: "images/articles/acheter-propriete-etranger-quebec/featured.jpg"
+image: "images/articles/acheteur-etranger-achat-quebec/featured.jpg"
 needs_expert_review: true
 draft: true
 ---

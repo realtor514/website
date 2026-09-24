@@ -6,7 +6,7 @@ translationKey: "article-valeur-terrain"
 category: "Inversión"
 description: "El rôle d'évaluation ya separa el terreno del edificio. Qué dice ese ratio, qué permite realmente la zonificación, droits acquis, subdivisión y servidumbres en Quebec."
 image: "images/articles/valeur-terrain-zonage-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Su aviso de evaluación no muestra un monto, muestra tres: el valor del

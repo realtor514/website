@@ -77,18 +77,22 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Contrato de corretaje de venta en Quebec: cláusula por cláusula](/es/articles/contrato-corretaje-venta-quebec/) : Duración, precio, retribución, la cláusula de los 180 días, declaraciones: a qué lo compromete cada cláus
 - [Cuándo poner su propiedad a la venta en Montréal: lo que dicen las cifras mensuales](/es/articles/best-time-sell-home-montreal/) : El mes de salida al mercado cambia el volumen, la competencia y el plazo de venta. Esto es lo que muestra
 - [Cómo preparar su casa para la venta en Montreal y Laval](/es/articles/preparar-casa-para-venta-montreal-laval/) : Una preparación cuidadosa suele ayudar a atraer más visitas desde las primeras semanas. Esto es exactamen
+- [Difusión de un anuncio en Centris: las reglas en Quebec](/es/articles/difusion-anuncio-centris-quebec/) (brouillon) : Centris, fiche descriptive, fotos, precio modificado, retiro: lo que implica la difusión de un anuncio in
 - [El costo real de vender una casa en Quebec](/es/articles/real-cost-selling-home-quebec/) : La retribución del corredor es solo una línea entre varias. Aquí está la lista completa de los gastos de 
 - [Las declaraciones del vendedor en Quebec: el formulario DV 00001](/es/articles/declaraciones-del-vendedor-quebec/) : El formulario DV 00001 es obligatorio y se anexa a la promesse d'achat. Lo que el vendedor declara realme
 - [Mi casa no se vende en Quebec: el diagnóstico honesto](/es/articles/casa-no-se-vende-quebec/) : Pocas visitas, ninguna promesa de compra, u ofertas que se caen: el síntoma señala la causa. Diagnóstico 
+- [Perfil de los compradores en Montreal y Laval: lo que dicen los datos](/es/articles/perfil-compradores-montreal-laval/) (brouillon) : El perfil de los compradores en Montreal y en Laval según la APCIQ, Statistique Canada y la SCHL, y lo qu
 - [Preparar una propiedad antes de la venta: el método y el límite deontológico](/es/articles/home-staging-client-story/) : Despeje, mantenimiento postergado, fotos, orden de las etapas: el método antes de la inscripción, y por q
 - [Su Renovación No Añadirá lo que Cree al Valor de su Vivienda](/es/articles/renovations-dont-add-value/) : Lo que se recupera antes de una venta y lo que no, y luego las reglas de Quebec: declaraciones del vended
 - [Vender con o sin corredor en Quebec: la comparación honesta](/es/articles/selling-without-realtor-quebec/) : Es la pregunta número uno de los vendedores en Quebec. Aquí están las cifras reales, lo que usted ahorra 
 - [Vender la casa familiar y mudarse a algo más pequeño: guía para personas mayores en el Gran Montreal](/es/articles/senior-downsizing-guide/) : Condominio, alquiler, residencia para mayores o quedarse en casa: lo que realmente libera vender la casa 
+- [Vender o conservar su casa en Quebec: sus propias señales](/es/articles/senales-para-vender-quebec/) (brouillon) : Tamaño del hogar, traslado laboral, renovación hipotecaria, mantenimiento, movilidad y apego: las seis se
 - [¿Cuánto tiempo toma realmente vender una casa en Montreal?](/es/articles/how-long-to-sell-house-montreal/) : El plazo de venta depende mucho menos del mercado que de tres decisiones que usted controla. Aquí está el
 
 ## Guía práctica
 - [Costo de mantenimiento de una casa en Quebec: el calendario de reemplazo](/es/articles/costo-mantenimiento-casa-quebec/) : Vida útil por componente, efecto del clima, reserva anual: cuánto cuesta mantener una casa en Quebec y, s
 - [Cómo reducir su factura de calefacción en Quebec: por dónde empezar](/es/articles/reducir-factura-calefaccion-quebec/) : Tarifa D, tramo de 40 kWh, aislamiento, bomba de calor y ayudas 2026: cómo reducir su factura de calefacc
+- [Deshielo e infiltración de agua en el sótano en Montreal](/es/articles/deshielo-infiltracion-agua-montreal/) (brouillon) : Deshielo e infiltración de agua en el sótano en Montreal: pendiente del terreno, tragaluz, techo, canalet
 - [Elegir un contratista de renovación en Quebec](/es/articles/elegir-contratista-renovacion-quebec/) : Licencia RBQ y sous-catégories, contrato, retención, hipoteca legal: cómo elegir un contratista de renova
 - [Mudarse en Montreal o Laval: la lista completa, plazo por plazo](/es/articles/moving-checklist-montreal/) : Avisos de arrendamiento, cesión, cambio de dirección, Hydro-Québec, permisos de camión y ecocentros: la l
 - [Prueba de radón en una vivienda en Quebec: el calendario real](/es/articles/radon-vivienda-quebec/) : Directriz de 200 Bq/m³, prueba de tres meses en temporada de calefacción, cláusula 3.21 y declaraciones d
@@ -108,6 +112,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Idioma y transacción inmobiliaria en Quebec: lo que exige la ley](/es/articles/multilingual-broker-advantage/) : Formularios de la OACIQ, artículo 55.1 de la Carta, acta notarial, registro de la propiedad, documentos d
 - [La comisión inmobiliaria en Quebec: qué está pagando realmente](/es/articles/commission-explained-quebec/) : Ninguna ley fija una tarifa en Quebec. Aquí está quién paga la comisión, cómo se reparte, los impuestos q
 - [La marca inmobiliaria en Quebec: lo que cambia en su expediente, y lo que no cambia](/es/articles/why-choose-remax/) : Licencia, fondo de indemnización, formularios obligatorios: lo que es idéntico con todos los corredores d
+- [Mascotas prohibidas en un condominio de Quebec: dónde vive la regla](/es/articles/mascotas-en-condominio-quebec/) (brouillon) : Mascotas prohibidas en condominio en Quebec: dónde vive la cláusula, qué la hace válida, el caso del anim
 - [Ocho mitos inmobiliarios, y la regla que contradice a cada uno](/es/articles/real-estate-myths-debunked/) : Entrada, retribución del corredor, garantía GCR, preaprobación, precio pedido y promesa de compra: ocho c
 - [Parejas de hecho y vivienda en Quebec: qué lo protege realmente](/es/articles/parejas-de-hecho-propiedad-quebec/) : Patrimoine familial, union parentale desde el 30 de junio de 2025, título, indivisión y fallecimiento: qu
 - [Renovar su condominio en Quebec: el verdadero límite de lo que puede tocar](/es/articles/renovacion-condominio-quebec/) : Piso, ventana, balcón, muro de carga: lo que un copropietario puede renovar en su condominio en Quebec, y
@@ -126,6 +131,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Plex de ingresos en Montreal y Laval: la guía honesta para principiantes](/es/articles/income-property-beginners/) : Vivir en él o alquilarlo todo, pago inicial, cálculo real del flujo de caja, reglas del TAL en 2026, comp
 - [Plex o condominio en Montréal: dos compromisos, no una clasificación](/es/articles/triplex-vs-condo-montreal/) : Aportación inicial, tratamiento de los alquileres, reglas del TAL y fiscalidad del alquiler: lo que cada 
 - [Propietario ocupante de un plex en Quebec: la recuperación de la vivienda](/es/articles/plex-ocupado-propietario-quebec/) : Propietario ocupante de un plex en Quebec: quién puede recuperar una vivienda, los plazos del aviso, la i
+- [Valor del terreno y zonificación en Quebec: cómo leer el rol](/es/articles/valor-del-terreno-zonificacion-quebec/) : El rôle d'évaluation ya separa el terreno del edificio. Qué dice ese ratio, qué permite realmente la zoni
 
 ## Pages outils et conversion
 

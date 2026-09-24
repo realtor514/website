@@ -6,7 +6,7 @@ translationKey: "article-valeur-terrain"
 category: "Investissement"
 description: "Le rôle sépare déjà terrain et bâtiment. Ce que ce ratio dit, ce que le zonage autorise, droits acquis, subdivision et servitudes au Québec."
 image: "images/articles/valeur-terrain-zonage-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Votre avis d'évaluation n'affiche pas un montant, il en affiche trois : la

@@ -14,8 +14,7 @@ Entre le premier rendez-vous avec un courtier et la signature chez le notaire,
 une vente résidentielle traverse une dizaine d'étapes. Chacune est attachée à un
 document précis, et c'est ce document, pas l'habitude ni la bonne volonté des
 parties, qui décide de ce que vous devez faire et dans quel délai. Voici la
-séquence réelle, formulaire par formulaire, avec ce qui fait déraper chaque
-étape.
+séquence réelle, formulaire par formulaire.
 
 ## Le processus de vente d'une maison au Québec commence par deux formulaires
 
@@ -49,11 +48,10 @@ actuel des lieux, il doit vous recommander d'en faire produire un nouveau.
 Pourquoi si tôt. Parce que la clause 10.3 du formulaire *Promesse d'achat* vous
 oblige à fournir à l'acheteur une copie authentique de votre acte d'acquisition
 et de votre certificat de localisation, et ce certificat doit refléter toute
-opération ou rénovation cadastrale ainsi que l'état physique actuel des lieux.
-Le formulaire donne les exemples: thermopompe, terrasse, clôture, cabanon,
-piscine. Il doit aussi refléter les limitations de droit privé, comme une
-servitude, et celles de droit public. L'acheteur qui souhaite un autre
-certificat, lui, en assume les frais.
+opération ou rénovation cadastrale, l'état physique actuel des lieux, les
+limitations de droit privé comme une servitude, et celles de droit public. Le
+formulaire donne les exemples: thermopompe, terrasse, clôture, cabanon, piscine.
+L'acheteur qui souhaite un autre certificat en assume les frais.
 
 Un certificat de plus de dix ans pose un problème distinct: le délai de
 prescription acquisitive de l'article 2917 du Code civil est de 10 ans, et
@@ -80,9 +78,8 @@ rétroaction. Le nombre de visites et le temps avant une première promesse
 varient d'un secteur à l'autre et d'un mois à l'autre; aucune moyenne ne
 s'applique à votre propriété en particulier. Avant de fixer le prix demandé,
 situez votre point de départ avec une
-[estimation de la valeur de votre propriété](/tools/home-estimate/), puis
-demandez au courtier sur quelles ventes il l'appuie. Sur le délai lui-même,
-lisez [ce qui fait varier le temps de vente](/articles/combien-de-temps-vendre-maison-montreal/).
+[estimation de la valeur de votre propriété](/tools/home-estimate/). Sur le
+délai, lisez [ce qui fait varier le temps de vente](/articles/combien-de-temps-vendre-maison-montreal/).
 
 ## La promesse d'achat: accepter, refuser, ou contre-proposer
 
@@ -106,9 +103,9 @@ rétribution du courtier exigible.
 ## Les conditions de l'acheteur, et le délai écrit derrière chacune
 
 Une promesse acceptée n'est pas une vente. Elle ouvre une période où l'acheteur
-réalise ses conditions, chacune avec son propre compteur. Les délais en blanc
-dans le formulaire se négocient et varient d'une transaction à l'autre; ceux qui
-sont imprimés, eux, ne se négocient pas.
+réalise ses conditions, chacune avec son propre compteur. Les délais laissés en
+blanc dans le formulaire se négocient et varient d'une transaction à l'autre;
+ceux qui sont imprimés ne se négocient pas.
 
 | Étape | Document | Ce qui fixe le délai |
 |---|---|---|
@@ -135,22 +132,21 @@ Retenez ce que le formulaire fait et ce qu'il ne fait pas: un rapport négatif
 ouvre une porte de sortie, pas une baisse de prix automatique. Un ajustement
 passe par un nouveau document écrit et signé par les deux parties.
 
-**Le financement.** L'acheteur s'engage à entreprendre de bonne foi toutes les
+**Le financement.** L'acheteur s'engage à entreprendre de bonne foi les
 démarches pour obtenir son emprunt, et doit vous fournir dans le délai convenu
-une copie de l'engagement d'un prêteur hypothécaire. Cet engagement dépend
-souvent de l'évaluation que le prêteur fait faire de la propriété, qui est la
-sienne et pas celle du marché. En l'absence d'engagement, vous avez cinq jours
-après l'expiration du délai pour réagir par écrit: soit exiger une nouvelle
-demande auprès d'un prêteur que vous désignez, soit rendre la promesse nulle. Si
-vous ne faites rien dans ces cinq jours, la promesse devient nulle de toute
-façon.
+une copie de l'engagement d'un prêteur. Cet engagement dépend souvent de
+l'évaluation que le prêteur fait faire de la propriété, qui est la sienne et pas
+celle du marché. En l'absence d'engagement, vous avez cinq jours après
+l'expiration du délai pour réagir par écrit: soit exiger une nouvelle demande
+auprès d'un prêteur que vous désignez, soit rendre la promesse nulle. Si vous ne
+faites rien dans ces cinq jours, elle devient nulle de toute façon.
 
 **Les documents.** À la clause 9.1, vous remettez les documents énumérés dans le
 délai convenu. L'acheteur insatisfait, ou qui ne les a pas reçus, doit vous
-aviser par écrit dans les sept jours suivant l'expiration de ce délai. Ces
-réalisations et ces avis se consignent sur le formulaire *Avis et suivi de
-réalisation de conditions*, qui existe pour qu'aucune des deux parties ne puisse
-prétendre plus tard qu'elle n'a rien reçu.
+aviser par écrit dans les sept jours suivant l'expiration de ce délai. Ces avis
+se consignent sur le formulaire *Avis et suivi de réalisation de conditions*,
+qui existe pour qu'aucune des parties ne puisse prétendre plus tard qu'elle n'a
+rien reçu.
 
 ## La dernière étape du processus de vente: chez le notaire
 
@@ -182,12 +178,12 @@ n'est pas inscrit au Bureau de la publicité des droits.
 
 **Ce que le vendeur apporte.** Pièces d'identité, acte d'acquisition,
 certificat de localisation, dernier compte de taxes municipales et scolaires,
-relevé de solde hypothécaire, contrats de location que l'acheteur reprend selon
-la clause 11.7, chauffe-eau, système d'alarme, réservoir de propane, factures
-des inclusions, coordonnées bancaires, et le consentement du conjoint si
-l'immeuble est la résidence familiale. Jusqu'à l'occupation, vous demeurez
-responsable de maintenir les lieux dans l'état où ils se trouvaient lors des
-visites. Le déroulement détaillé de cette séance est décrit dans
+relevé de solde hypothécaire, contrats de location repris par l'acheteur selon
+la clause 11.7, chauffe-eau, alarme, réservoir de propane, factures des
+inclusions, coordonnées bancaires, et le consentement du conjoint si l'immeuble
+est la résidence familiale. Jusqu'à l'occupation, vous demeurez responsable de
+maintenir les lieux dans l'état où ils se trouvaient lors des visites. Le
+déroulement de cette séance est décrit dans
 [le guide du processus notarial](/articles/quebec-notary-process/).
 
 ## Questions fréquentes
@@ -204,11 +200,6 @@ Non, pas sur la base de la clause 8.1, qui lui permet seulement de rendre la
 promesse nulle en vous avisant par écrit avec une copie du rapport dans le délai
 prévu. Un ajustement de prix est une entente distincte, que vous êtes libre de
 refuser.
-
-**Dois-je payer un nouveau certificat de localisation?**
-La clause 10.3 met à votre charge la fourniture d'un certificat reflétant l'état
-physique actuel des lieux. S'il ne le reflète plus, c'est à vous de le faire
-produire. L'acheteur qui veut en plus son propre certificat en assume les frais.
 
 **Un vice découvert après la levée des conditions annule-t-il la vente?**
 Pas automatiquement. La clause 10.5 vous accorde 21 jours à compter de la

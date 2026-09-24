@@ -6,7 +6,7 @@ translationKey: "article-valeur-terrain"
 category: "Investment"
 description: "The rôle d'évaluation already splits land from building. What that ratio tells you, what zoning actually allows, droits acquis, subdivision and servitudes in Quebec."
 image: "images/articles/valeur-terrain-zonage-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Your assessment notice does not show one amount, it shows three: the value of

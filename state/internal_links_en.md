@@ -16,6 +16,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Buying a Century Old Home in Montreal: What Changes](/en/articles/buying-century-old-home-quebec/) : Foundation, period framing, knob and tube, galvanized plumbing, vapour barrier, windows: what actually di
 - [Buying a Foreclosure in Quebec: The Rules That Apply](/en/articles/buying-foreclosure-quebec/) : Prior notice of exercise, the 60 day period, taking in payment or sale under judicial authority: what you
 - [Buying a Home Alone in Quebec: The Real Levers](/en/articles/buying-alone-one-income-quebec/) : Buying a home alone in Quebec: GDS, TDS, the stress test, tiered down payments, CELIAPP, RAP and APCIQ's 
+- [Buying a Home in Quebec Without Visiting It](/en/articles/buying-without-visiting-quebec/) (brouillon) : Virtual tour, filmed inspection, promesse d'achat conditions, procuration and signing at a distance: buyi
 - [Buying a Home in Winter in Quebec: The Blind Spots](/en/articles/buying-home-winter-montreal/) : Fewer buyers in January, but fewer choices too. What winter reveals about a house, what the snow hides, a
 - [Buying an Old or Heritage Building in Montreal: What Actually Changes](/en/articles/heritage-property-montreal/) : Classified, cited or inside a heritage site: the permits needed before work, restoration grants, inspecti
 - [Buying in Laval: The Six Sectors, the Transit, the Taxes and the Checks](/en/articles/buying-in-laval-2025/) : The six sectors, the metro, REM and BRT, transfer duties at 3% above $500,000, the assessment roll and th
@@ -78,6 +79,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [How to Build a Real Estate Portfolio in Greater Montreal Starting From Zero](/en/articles/build-real-estate-portfolio/) : Down payment by unit count, the stress test, refinancing at 80%, Quebec rent control and the tax rules: w
 - [Income Plexes in Montreal and Laval: An Honest Beginner's Guide](/en/articles/income-property-beginners/) : Live in it or rent it all out, down payment, real cash flow math, the 2026 TAL rules, buying with tenants
 - [Investing in Laval: What to Verify Before You Commit](/en/articles/laval-investment-city/) : Zoning and the new planning code, non-conforming units, TAL rent control, down payment by unit count and 
+- [Land Value and Zoning in Quebec: How to Read the Roll](/en/articles/land-value-zoning-quebec/) : The rôle d'évaluation already splits land from building. What that ratio tells you, what zoning actually 
 - [Managing Rental Properties in Montreal and Laval: What First-Time Landlords Need to Know](/en/articles/rental-property-management/) : Section G, tenant screening, the banned security deposit, rent increases, repossession, eviction and taxe
 - [Owner Occupied Plex in Quebec: Repossessing a Dwelling](/en/articles/owner-occupied-plex-repossession-quebec/) : Owner occupied plex in Quebec: who may repossess a dwelling, the notice deadlines, the indemnity and the 
 - [Plex or Condo in Montreal: Two Commitments, Not a Ranking](/en/articles/triplex-vs-condo-montreal/) : Down payment, how lenders treat rent, the Tribunal's rent-setting rules and rental taxation: what each of
@@ -98,6 +100,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Moving in Montreal or Laval: The Complete Checklist, Deadline by Deadline](/en/articles/moving-checklist-montreal/) : Lease notices, lease assignment, address changes, Hydro-Quebec, truck permits and ecocentres: the Greater
 - [Quebec Residential Pool Rules: The 30 September 2027 Deadline](/en/articles/pool-safety-rules-quebec/) : Quebec residential pool rules: enclosure, gate, ladder, permit, fine, and the 30 September 2027 deadline 
 - [Radon Testing a Home in Quebec: The Timeline Nobody Plans For](/en/articles/radon-testing-home-quebec/) : The 200 Bq/m³ guideline, a three month test through the heating season, clause 3.21 and the seller's decl
+- [Spring Melt and Water Infiltration in a Montreal Basement](/en/articles/spring-melt-water-infiltration-montreal/) (brouillon) : Spring melt and basement water infiltration in Montreal: grading, window wells, roof, gutters, insurance 
 
 ## Real Estate 101
 - [5 Questions You Must Ask Before Hiring a Real Estate Broker](/en/articles/questions-hire-broker/) : Most people choose a broker from a referral or a yard sign. Here are the five questions that reveal how a
@@ -109,6 +112,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [How to Compare Two Montreal Neighbourhoods: A Method, Not a Ranking](/en/articles/best-neighborhoods-montreal/) : Borough tax rates, transfer duties, zoning, schools, lead pipes, soil: the verifiable criteria for compar
 - [Inheriting Property in Quebec: What Heirs Need to Know Before Selling or Keeping](/en/articles/inheritance-property-quebec/) : Liquidator, notary, declaration of transmission, tax at death, welcome tax and the empty house: the steps
 - [Language and Your Real Estate Transaction in Quebec: What the Law Requires](/en/articles/multilingual-broker-advantage/) : OACIQ forms, section 55.1 of the Charter, the notarial deed, the land register, the lender's documents: w
+- [Pets Banned in a Quebec Condo: Where the Rule Actually Lives](/en/articles/pets-in-condo-quebec/) (brouillon) : Pets banned in a Quebec condo: where the clause lives, what makes it valid, the case of the animal d'assi
 - [Real Estate Banners in Quebec: What One Changes in Your File, and What It Doesn't](/en/articles/why-choose-remax/) : Licence, indemnity fund, mandatory forms: what is identical with every broker in Quebec, and what the RE/
 - [Real Estate Commission in Quebec: What You're Actually Paying For](/en/articles/commission-explained-quebec/) : No rate is set by law in Quebec. Here is who pays the commission, how it gets split, the taxes almost nob
 - [Realtor, Broker, Agent: What's the Actual Difference in Quebec?](/en/articles/broker-agent-difference-quebec/) : In Quebec only one of those three words corresponds to a licence. Here is what each term actually means, 
@@ -122,15 +126,19 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [How Long Does It Actually Take to Sell a House in Montreal?](/en/articles/how-long-to-sell-house-montreal/) : Time on market depends far less on the market than on three decisions you control. Here is the realistic 
 - [How to Prepare Your Home for Sale in Montreal and Laval](/en/articles/preparer-maison-vente-montreal-laval/) : Careful preparation generally helps attract more visitors in the first weeks. Here is exactly what to do 
 - [Keep or Sell a Property in Quebec: Five Cases](/en/articles/keep-or-sell-property-quebec/) : Renewal, deferred maintenance, a vacant dwelling, an estate, a special assessment: five cases where keepi
+- [Listing Exposure on Centris in Quebec: The Rules](/en/articles/listing-exposure-centris-advertising-quebec/) (brouillon) : Centris, fiche descriptive, photos, a price change, a withdrawal: what the exposure of a Quebec listing a
 - [My House Is Not Selling in Quebec: The Honest Diagnosis](/en/articles/home-not-selling-quebec/) : Few showings, no promises to purchase, or offers that collapse: the symptom points to the cause. An hones
+- [Open House in Quebec: What the Seller Has to Control](/en/articles/open-house-seller-risks-quebec/) (brouillon) : Open house in Quebec: what the OACIQ requires of the broker, what the seller puts away, what home insuran
 - [Preparing a Property for Sale: The Method, and the Ethical Line](/en/articles/home-staging-client-story/) : Decluttering, deferred maintenance, photos, order of steps: the method before listing, and why preparatio
 - [Real Estate Comparables: Auditing Your Neighbour's Price](/en/articles/real-estate-comparables-quebec/) : Four criteria, measured living area, adjustments, conditions of sale: how to audit the real estate compar
+- [Sell or Keep Your Home in Quebec: Your Own Six Signals](/en/articles/signs-it-is-time-to-sell-quebec/) (brouillon) : Household size, a job elsewhere, renewal, maintenance, mobility, attachment: the six personal signals tha
 - [Selling With or Without a Realtor in Quebec: The Honest Comparison](/en/articles/selling-without-realtor-quebec/) : It is the number one question Quebec sellers ask. Here are the real numbers, what you actually save, what
 - [Selling the Family Home and Downsizing: A Guide for Seniors in Greater Montreal](/en/articles/senior-downsizing-guide/) : Condo, apartment, seniors' residence or staying put: what selling the family home really frees up, plus t
 - [The Listing Brokerage Contract in Quebec: Clause by Clause](/en/articles/listing-brokerage-contract-quebec/) : Term, price, remuneration, the 180 day clause, declarations: what each clause of the Quebec listing broke
 - [The Real Cost of Selling a House in Quebec](/en/articles/real-cost-selling-home-quebec/) : Broker compensation is only one line among several. Here is the complete list of selling costs in Quebec,
 - [The Seller's Declaration in Quebec: The DV 00001 Form](/en/articles/seller-declaration-form-quebec/) : Form DV 00001 is mandatory and annexed to the promesse d'achat. What the seller actually declares, and wh
 - [When to List Your Property in Montreal: What the Monthly Numbers Say](/en/articles/best-time-sell-home-montreal/) : The month you list changes volume, competition and time on market. Here is what APCIQ's monthly statistic
+- [Who Buys in Montreal and Laval: What the Data Actually Shows](/en/articles/who-buys-montreal-laval-sellers/) (brouillon) : Who buys a condo, a single-family home or a plex in Montreal and Laval, according to APCIQ, Statistics Ca
 - [Your Renovation Won't Add What You Think to Your Home's Value](/en/articles/renovations-dont-add-value/) : What pays for itself before a sale and what does not, then the Quebec rules: seller's declarations, munic
 
 ## Pages outils et conversion

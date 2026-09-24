@@ -6591,7 +6591,7 @@
    "translationKey": "article-vendre-avant-acheter",
    "needs_expert_review": true,
    "id": "t137",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -6614,7 +6614,9 @@
      "s": 0.0985,
      "match": "/articles/contrat-courtage-vente-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/vendre-avant-acheter-clauses-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 967,
@@ -6689,7 +6691,7 @@
    "translationKey": "article-rencontre-courtier",
    "needs_expert_review": false,
    "id": "t139",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -6712,14 +6714,16 @@
      "s": 0.1277,
      "match": "/articles/condo-vs-house-montreal/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/preparer-rencontre-courtier-documents.md",
+   "date": "2026-09-09"
   },
   {
    "ref_id": 953,
    "reference_theme": "Quoi savoir avant d'acheter une maison à l'étranger",
-   "topic": "Acheter une propriete a l etranger quand on habite le Quebec: impot, declaration et succession",
+   "topic": "Acheter une propriete au Quebec en tant qu etranger",
    "category": "Investissement",
-   "target_keyword_fr": "acheter propriete etranger quebec",
+   "target_keyword_fr": "acheteur etranger propriete quebec",
    "search_intent": "informationnel",
    "funnel_stage": "consideration",
    "unique_angle": "Un resident du Quebec est impose sur son revenu mondial par Revenu Quebec et par l Agence du revenu du Canada, donc le loyer percu en Floride ou ailleurs se declare ici, avec credit pour impot etranger. Le formulaire T1135 devient obligatoire des que le cout des biens etrangers depasse 100 000 dollars, sauf pour un bien detenu strictement pour usage personnel, une nuance que beaucoup de proprietaires de condo de vacances decouvrent trop tard. Une seule propriete par famille peut etre designee residence principale pour une annee donnee, et les Etats Unis appliquent un impot successoral aux non residents au dela d un seuil, ce qui justifie une structure de detention reflechie avant l achat.",
@@ -6733,11 +6737,11 @@
     "Assurance, gestion a distance et absence prolongee",
     "Les professionnels a consulter avant de signer, pas apres"
    ],
-   "slug": "acheter-propriete-etranger-quebec",
+   "slug": "acheteur-etranger-achat-quebec",
    "translationKey": "article-propriete-etranger",
    "needs_expert_review": true,
    "id": "t140",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -6760,7 +6764,10 @@
      "s": 0.1289,
      "match": "/articles/impot-proprietaire-quebec/"
     }
-   }
+   },
+   "note": "Ma consigne decrivait un non-resident qui achete AU Quebec, alors que la fiche visait un resident du Quebec qui achete A L ETRANGER. Le redacteur a suivi la consigne et signale l ecart. La fiche est recalee sur l article livre, et le sujet d origine est remis au reservoir sous t173.",
+   "published_path": "content/fr/articles/acheteur-etranger-achat-quebec.md",
+   "date": "2026-08-25"
   },
   {
    "ref_id": 952,
@@ -8311,6 +8318,32 @@
     }
    },
    "note": "meme sujet que t123 declaration-du-vendeur-quebec, en cours de redaction dans cette session"
+  },
+  {
+   "ref_id": 953,
+   "reference_theme": "Quoi savoir avant d'acheter une maison à l'étranger",
+   "topic": "Acheter une propriete a l etranger quand on habite le Quebec: impot, declaration et succession",
+   "category": "Investissement",
+   "target_keyword_fr": "acheter propriete etranger quebec",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Un resident du Quebec est impose sur son revenu mondial par Revenu Quebec et par l Agence du revenu du Canada, donc le loyer percu en Floride ou ailleurs se declare ici, avec credit pour impot etranger. Le formulaire T1135 devient obligatoire des que le cout des biens etrangers depasse 100 000 dollars, sauf pour un bien detenu strictement pour usage personnel, une nuance que beaucoup de proprietaires de condo de vacances decouvrent trop tard. Une seule propriete par famille peut etre designee residence principale pour une annee donnee, et les Etats Unis appliquent un impot successoral aux non residents au dela d un seuil, ce qui justifie une structure de detention reflechie avant l achat.",
+   "planned_h2": [
+    "Financer a l etranger: pourquoi votre banque canadienne dit non",
+    "Refinancer sa propriete quebecoise pour acheter ailleurs",
+    "Declarer les revenus de location au Canada et au Quebec",
+    "Le formulaire T1135 et le seuil de 100 000 dollars",
+    "Designation de residence principale et gain en capital a la revente",
+    "Impot successoral americain et detention par societe ou fiducie",
+    "Assurance, gestion a distance et absence prolongee",
+    "Les professionnels a consulter avant de signer, pas apres"
+   ],
+   "slug": "acheter-propriete-a-etranger-depuis-quebec",
+   "translationKey": "article-propriete-a-etranger",
+   "needs_expert_review": true,
+   "id": "t173",
+   "status": "clear",
+   "source_lot": "plan-2"
   }
  ],
  "lots": "les 4 lots de sujets de reference sont planifies"

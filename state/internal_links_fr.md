@@ -40,6 +40,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Acheter une construction neuve au Québec : ce que la brochure ne vous dit pas](/articles/new-construction-guide-quebec/) : Garantie GCR, dédit de 10 jours, inspection préréception, retards, TPS et TVQ, frais de condo : ce qu'il 
 - [Acheter une maison centenaire à Montréal: ce qui change](/articles/acheter-maison-centenaire-quebec/) : Fondation, charpente, bouton et tube, plomberie galvanisée, pare-vapeur, fenêtres: ce qui diffère vraimen
 - [Acheter une maison en hiver au Québec: les angles morts](/articles/acheter-maison-hiver-montreal/) : Moins d'acheteurs en janvier, mais moins de choix aussi. Ce que l'hiver révèle d'une maison, ce que la ne
+- [Acheter une maison sans visiter au Québec](/articles/acheter-sans-visiter-visite-virtuelle-quebec/) (brouillon) : Visite virtuelle, inspection filmée, conditions de la promesse d'achat, procuration et signature à distan
 - [Acheter une maison seul au Québec: les vrais leviers](/articles/acheter-seul-un-revenu-quebec/) : Acheter une maison seul au Québec: ABD, ATD, test de résistance, mise de fonds par paliers, CELIAPP, RAP 
 - [Acheter une reprise de finance au Québec: les règles](/articles/acheter-reprise-de-finance-quebec/) : Préavis d'exercice, délai de 60 jours, prise en paiement ou vente sous contrôle de justice: ce que vous a
 - [Acheter à Laval : les six secteurs, le transport, les taxes et les vérifications](/articles/acheter-laval-2025/) : Six secteurs, métro, REM et SRB, droits de mutation à 3 % au-delà de 500 000 $, rôle d'évaluation, zones 
@@ -78,14 +79,19 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Comment préparer votre maison pour la vente à Montréal et Laval](/articles/preparer-maison-vente/) : Une préparation soignée aide généralement à attirer plus de visiteurs dès les premières semaines. Voici e
 - [Comparables immobiliers: auditer le prix du voisin](/articles/comparables-prix-maison-voisin-quebec/) : Quatre critères, superficie mesurée, ajustements, conditions de vente: comment auditer les comparables im
 - [Contrat de courtage vente au Québec: clause par clause](/articles/contrat-courtage-vente-quebec/) : Durée, prix, rétribution, clause des 180 jours, déclarations: ce que chaque clause du contrat de courtage
+- [Diffusion d'une inscription sur Centris: les règles](/articles/diffusion-inscription-centris-publicite/) (brouillon) : Centris, fiche descriptive, photos, prix modifié, retrait: ce que la diffusion d'une inscription au Québe
 - [Déclaration du vendeur au Québec : le formulaire DV 00001](/articles/declaration-du-vendeur-quebec/) : Le formulaire DV 00001 est obligatoire et annexé à la promesse d'achat. Ce que le vendeur déclare vraimen
 - [Garder ou vendre une propriété au Québec: cinq cas](/articles/garder-ou-vendre-propriete-quebec/) : Renouvellement, entretien différé, logement vacant, succession, cotisation spéciale: cinq cas où garder u
 - [Le coût réel de vendre une maison au Québec](/articles/cout-reel-vendre-maison-quebec/) : La rétribution du courtier n'est qu'une ligne parmi plusieurs. Voici la liste complète des frais de vente
 - [Ma maison ne se vend pas au Québec: le vrai diagnostic](/articles/propriete-ne-se-vend-pas-quebec/) : Peu de visites, aucune promesse, ou des offres qui tombent: le symptôme désigne la cause. Diagnostic honn
+- [Profil des acheteurs à Montréal et à Laval: les données](/articles/profil-acheteurs-montreal-laval-vendeur/) (brouillon) : Le profil des acheteurs à Montréal et à Laval selon l'APCIQ, Statistique Canada et la SCHL, et ce que ça 
 - [Préparer une propriété avant la vente: la méthode, et la limite déontologique](/articles/home-staging-client-story/) : Désencombrement, entretien reporté, photos, ordre des étapes: la méthode avant l'inscription, et pourquoi
 - [Quand mettre sa propriété en vente à Montréal: ce que disent les chiffres mensuels](/articles/best-time-sell-home-montreal/) : Le mois de mise en marché change le volume, la concurrence et le délai de vente. Voici ce que montrent le
+- [Vendre avant d'acheter au Québec: les clauses qui décident](/articles/vendre-avant-acheter-clauses-quebec/) (brouillon) : Vendre avant d'acheter au Québec: la clause R2.1, la clause de 72 heures, le prêt relais, le double porta
 - [Vendre avec ou sans courtier au Québec: la comparaison honnête](/articles/vendre-avec-ou-sans-courtier-quebec/) : C'est la question numéro un des vendeurs québécois. Voici les vrais chiffres, ce que vous économisez réel
 - [Vendre la maison familiale et passer à plus petit : guide pour les aînés du Grand Montréal](/articles/senior-downsizing-guide/) : Condo, logement, RPA ou rester chez soi : ce que la vente de la maison familiale libère vraiment, l'impôt
+- [Vendre ou garder sa maison au Québec: vos signaux](/articles/garder-ou-vendre-signaux-quebec/) (brouillon) : Taille du ménage, mutation, renouvellement, entretien, mobilité, attachement: les six signaux personnels 
+- [Visite libre: ce que le vendeur doit contrôler](/articles/visite-libre-vendeur-quebec/) (brouillon) : Visite libre au Québec: ce que l'OACIQ exige du courtier, ce que le vendeur range, ce que l'assurance cou
 - [Vos rénovations n'ajouteront pas ce que vous pensez à la valeur de votre maison](/articles/renovations-dont-add-value/) : Ce qui se récupère avant une vente et ce qui ne se récupère pas, puis les règles québécoises : Déclaratio
 
 ## Guide pratique
@@ -93,12 +99,15 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Choisir un entrepreneur en rénovation au Québec](/articles/choisir-entrepreneur-renovation-rbq-quebec/) : Licence RBQ et sous-catégories, contrat, retenue, hypothèque légale: choisir un entrepreneur en rénovatio
 - [Coût d'entretien d'une maison au Québec : le calendrier](/articles/cout-entretien-maison-quebec/) : Durées de vie par composant, effet du climat, réserve annuelle : le coût d'entretien d'une maison au Québ
 - [Déménager à Montréal ou à Laval : la liste complète, échéance par échéance](/articles/moving-checklist-montreal/) : Avis de bail, cession, changement d'adresse, Hydro-Québec, permis de camion, écocentres : la liste de dém
+- [Fonte des neiges et infiltration d'eau au sous-sol](/articles/fonte-neiges-infiltration-clapet-montreal/) (brouillon) : Fonte des neiges et infiltration d'eau au sous-sol à Montréal: pente, margelle, toit, gouttières, avenant
+- [Première rencontre courtier immobilier: les documents](/articles/preparer-rencontre-courtier-documents/) (brouillon) : Certificat de localisation, acte de vente, comptes de taxes, baux: les documents à réunir avant la premiè
 - [Règlement piscine résidentielle Québec: l'échéance 2027](/articles/reglement-piscine-securite-quebec/) : Règlement piscine résidentielle au Québec: enceinte, porte, échelle, permis, amende, et le 30 septembre 2
 - [Réduire sa facture de chauffage au Québec: par où commencer](/articles/reduire-facture-chauffage-quebec/) : Tarif D, tranche de 40 kWh, isolation, thermopompe et aides 2026: comment réduire sa facture de chauffage
 - [Test de radon dans une maison au Québec : le calendrier](/articles/radon-maison-quebec-depistage/) : Ligne directrice de 200 Bq/m³, test de trois mois en saison de chauffage, clause 3.21 et déclaration du v
 
 ## Immobilier 101
 - [5 questions à poser avant d'engager un courtier immobilier](/articles/questions-hire-broker/) : La plupart des gens choisissent un courtier sur une recommandation ou une pancarte. Voici les cinq questi
+- [Animaux interdits en condo au Québec: où est la règle](/articles/animaux-copropriete-declaration-quebec/) (brouillon) : Animaux interdits en condo au Québec: où vit la clause, ce qui la rend valide, le cas de l'animal d'assis
 - [Bannière immobilière au Québec : ce qu'elle change dans votre dossier, et ce qu'elle ne change pas](/articles/why-choose-remax/) : Permis, fonds d'indemnisation, formulaires obligatoires : ce qui est identique chez tous les courtiers du
 - [Comparer deux quartiers de Montréal : la méthode, pas le palmarès](/articles/best-neighborhoods-montreal/) : Taxes par arrondissement, droits de mutation, zonage, écoles, plomb, sols : les critères vérifiables pour
 - [Conjoints de fait et maison au Québec : ce qui vous protège](/articles/conjoints-de-fait-maison-quebec/) : Patrimoine familial, union parentale depuis le 30 juin 2025, titre, indivision, décès : ce qui protège vr
@@ -120,6 +129,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Acheter un chalet au Québec : puits, septique et accès](/articles/acheter-un-chalet-quebec-verifications/) : Bande riveraine, fosse septique, puits, chemin privé, assurance et financement : les vérifications avant 
 - [Acheter un immeuble commercial au Québec : vérifications](/articles/verifications-immeuble-commercial-quebec/) : Permis du courtier, baux, étude phase I, zonage, taxe non résidentielle, TPS et TVQ : les vérifications a
 - [Acheter un triplex à Laval : ce qu'il faut vérifier avant de faire une offre](/articles/investir-triplex-laval/) : Mise de fonds, calcul des loyers par le prêteur, taxes et droits de mutation à Laval, encadrement du TAL,
+- [Acheter une propriété au Québec en tant qu'étranger](/articles/acheteur-etranger-achat-quebec/) (brouillon) : Acheter une propriété au Québec en tant qu'étranger: l'interdiction fédérale, les exceptions, la mise de 
 - [Comment bâtir un portefeuille immobilier dans le Grand Montréal à partir de zéro](/articles/build-real-estate-portfolio/) : Mise de fonds selon le nombre de logements, test de résistance, refinancement à 80 %, encadrement des loy
 - [Gérer des propriétés locatives à Montréal et Laval : ce que les premiers propriétaires doivent savoir](/articles/rental-property-management/) : Section G, sélection du locataire, dépôt interdit, avis d'augmentation, reprise, éviction, non-paiement e
 - [Investir à Laval : ce qu'il faut vérifier avant de s'engager](/articles/laval-investment-city/) : Zonage et Code de l'urbanisme, logements non conformes, encadrement du TAL, mise de fonds selon le nombre
@@ -128,6 +138,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Plex ou copropriété à Montréal : deux engagements, pas un classement](/articles/triplex-vs-condo-montreal/) : Mise de fonds, prise en compte des loyers, encadrement du TAL, fiscalité de la location : ce que chacun d
 - [Plex à revenus à Montréal et Laval : le guide honnête pour débutants](/articles/income-property-beginners/) : Occuper ou louer, mise de fonds, vrai calcul du flux de trésorerie, règles du TAL en 2026, achat avec loc
 - [Propriétaire occupant d'un plex au Québec : la reprise](/articles/proprietaire-occupant-plex-reprise/) : Propriétaire occupant d'un plex au Québec : qui peut reprendre un logement, les délais d'avis, l'indemnit
+- [Valeur du terrain et zonage au Québec : lire le rôle](/articles/valeur-terrain-zonage-quebec/) : Le rôle sépare déjà terrain et bâtiment. Ce que ce ratio dit, ce que le zonage autorise, droits acquis, s
 
 ## Pages outils et conversion
 

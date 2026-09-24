@@ -28,9 +28,9 @@ Aucun de ces chemins n'élimine le risque. Chacun décide seulement qui le porte
 
 ## Vendre avant d'acheter: ce que permet la clause R2.1
 
-Quand vous achetez sans avoir vendu, le formulaire obligatoire Annexe R, Immeuble résidentiel (AR 00001) prévoit la condition R2.1. Son texte est précis.
+Quand vous achetez sans avoir vendu, le formulaire obligatoire Annexe R, Immeuble résidentiel (AR 00001) prévoit la condition R2.1.
 
-**Ce que la clause dit.** La promesse devient conditionnelle à la vente de l'immeuble appartenant à l'acheteur, à une adresse nommée dans le formulaire. L'acheteur s'engage à aviser le vendeur par écrit, avant une date et une heure inscrites, soit que la condition est réalisée, soit qu'il y renonce. S'il renonce, il doit démontrer en même temps qu'il a les fonds nécessaires pour couvrir le prix d'achat. Sans avis dans le délai, la promesse devient nulle et non avenue.
+**Ce que la clause dit.** La promesse devient conditionnelle à la vente de l'immeuble appartenant à l'acheteur, à une adresse nommée dans le formulaire. L'acheteur doit aviser le vendeur par écrit, avant une date et une heure inscrites, soit que la condition est réalisée, soit qu'il y renonce. S'il renonce, il doit démontrer en même temps qu'il a les fonds nécessaires pour couvrir le prix d'achat. Sans avis dans le délai, la promesse devient nulle et non avenue.
 
 **L'articulation avec le financement.** Si la promesse est aussi conditionnelle à l'obtention d'un prêt hypothécaire, l'Annexe R précise qu'un engagement de prêteur lui-même conditionnel à la vente de votre propriété satisfait la condition de financement. Mais dès que la condition R2.1 se réalise, vous devez fournir un engagement ne comportant aucune condition. Votre banque vous suit donc en deux temps, et le deuxième dépend de votre propre acheteur.
 
@@ -38,7 +38,7 @@ C'est une obligation conditionnelle au sens de l'article 1497 du Code civil: une
 
 ## La clause de 72 heures, vue du vendeur qui l'accepte
 
-Une condition R2.1 ne circule presque jamais seule. Elle vient avec la clause R2.2, que l'OACIQ appelle lui-même la « clause de 72 heures » dans son feuillet explicatif de l'Annexe R.
+Une condition R2.1 ne circule presque jamais seule. Elle vient avec la clause R2.2, que l'OACIQ appelle lui-même la « clause de 72 heures ».
 
 **Ce que le vendeur garde.** Il peut continuer d'offrir l'immeuble en vente malgré l'acceptation de la promesse. S'il accepte une nouvelle promesse, dès que toutes les conditions de celle-ci sont réalisées, hors la signature de l'acte de vente, le paiement du prix et l'annulation de la première promesse, il doit transmettre au premier acheteur un avis écrit.
 
@@ -62,7 +62,7 @@ En marché serré, cette mécanique affaiblit sérieusement la condition R2.1. E
 
 ## Le double portage, ligne par ligne
 
-Le coût du double portage n'est pas un chiffre, c'est une liste. Remplissez-la avec vos montants, par mois.
+Le coût du double portage n'est pas un chiffre, c'est une liste. Remplissez-la par mois.
 
 | Poste mensuel | Propriété à vendre | Propriété achetée |
 |-|-|-|
@@ -85,7 +85,7 @@ Un point souvent oublié: appelez votre assureur avant de laisser une propriét�
 
 **Le mécanisme qui règle le décalage.** Si l'occupation est postérieure à la signature de l'acte de vente, la clause 11.3 prévoit une répartition au moment de la signature: le vendeur verse un montant mensuel inscrit au formulaire, calculé de la date de signature jusqu'à la date d'occupation, et il assume pendant cette période le chauffage, l'électricité et l'entretien général. C'est l'outil prévu pour rester quelques jours ou quelques semaines chez vous après avoir vendu. Il se négocie au moment de l'offre, pas après.
 
-**Ce que le notaire ne peut pas compresser.** Éducaloi rappelle que le notaire doit avoir reçu votre mise de fonds et les sommes du prêteur avant la signature de l'acte de vente, et qu'un délai de compensation pouvant atteindre dix jours ouvrables s'applique après la réception de la mise de fonds. Après la signature de l'acte d'hypothèque, puis de l'acte de vente, il faut compter environ deux à trois jours pour la publication au registre foncier. Le guide d'achat de la SCHL situe la date de clôture généralement de 30 à 60 jours après la signature de l'offre pour une maison existante. Pour les étapes, lisez [le rôle du notaire](/articles/quebec-notary-process/).
+**Ce que le notaire ne peut pas compresser.** Éducaloi rappelle que le notaire doit avoir reçu votre mise de fonds et les sommes du prêteur avant la signature de l'acte de vente, et qu'un délai de compensation pouvant atteindre dix jours ouvrables s'applique ensuite. Après la signature de l'acte d'hypothèque, puis de l'acte de vente, comptez environ deux à trois jours pour la publication au registre foncier. Le guide d'achat de la SCHL situe la date de clôture généralement de 30 à 60 jours après la signature de l'offre pour une maison existante. Voir [le rôle du notaire](/articles/quebec-notary-process/).
 
 ## Vendre avant d'acheter ou l'inverse: ce qui tranche pour votre ménage
 
