@@ -24,7 +24,7 @@ Le taux directeur de la Banque du Canada est à 2,25 % depuis l'annonce du 28 ja
 
 ## La mise de fonds par paliers, et où l'assurance commence
 
-Les seuils de la SCHL ne dépendent pas du nombre d'acheteurs, seulement du prix: 5 % sur la première tranche de 500 000 $ de la valeur retenue, 10 % sur la portion au delà, et aucun prêt assuré au delà de 1 500 000 $.
+Les seuils de la SCHL ne dépendent pas du nombre d'acheteurs, seulement du prix: 5 % sur la première tranche de 500 000 $ de la valeur retenue, 10 % sur la portion au-delà, et aucun prêt assuré au-delà de 1 500 000 $.
 
 Sous 20 % de mise de fonds, l'assurance prêt hypothécaire est obligatoire. La prime de la SCHL est de 2,80 % du prêt de 80,01 % à 85 % de la valeur, de 3,10 % de 85,01 % à 90 %, et de 4,00 % de 90,01 % à 95 %. Un amortissement de plus de 25 ans ajoute 0,20 point.
 

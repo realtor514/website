@@ -35,8 +35,7 @@ ces matériaux « surtout entre les années 1930 et 1990 », de sorte qu'on peut
 trouver dans les bâtiments résidentiels « construits ou rénovés à cette époque ».
 Et l'interdiction fédérale de vendre, d'importer et d'utiliser de l'amiante ne
 date que du 30 décembre 2018. Une maison de 1962 et une maison de 1988 posent
-donc la même question. La CNESST ajoute le détail qui ruine tout
-diagnostic à distance: « La présence d'amiante est rarement indiquée sur un
+donc la même question. La CNESST ajoute le détail qui ruine tout diagnostic: « La présence d'amiante est rarement indiquée sur un
 matériau qui en contient. »
 
 ## Seule l'analyse d'un échantillon tranche, jamais un coup d'oeil au grenier
@@ -54,8 +53,7 @@ d'échantillonnage des contaminants de l'air en milieu de travail de l'IRSST, et
 laboratoire « doit participer à un programme de contrôle de qualité
 interlaboratoire » (article 69.5). Le rapport doit nommer la personne responsable et
 sa qualification, situer chaque échantillon, indiquer la méthode et identifier le
-laboratoire (article 69.7). Un courriel disant « ça a été testé » n'est pas un
-rapport.
+laboratoire (article 69.7). Un courriel disant « ça a été testé » n'est pas un rapport.
 
 Qui prélève? Le gouvernement du Québec demande que la vérification soit faite par un
 entrepreneur qualifié, « qui confirmera la présence d'amiante et déterminera si
@@ -65,7 +63,7 @@ traitez le matériau comme s'il en contenait.
 
 ## Intact, ou dérangé: deux situations que la loi ne traite pas pareil
 
-Ce sont les fibres présentes dans l'air qui constituent le risque. Le gouvernement
+Ce sont les fibres dans l'air qui constituent le risque. Le gouvernement
 du Québec écrit que « les matériaux qui contiennent de l'amiante et qui sont en
 bon état ne libèrent pas de fibres dans l'air et sont donc généralement sans
 danger ». Santé Canada ajoute que « la meilleure façon d'atténuer le risque
@@ -82,7 +80,7 @@ les fissures entre le plafond et l'entretoit, calfeutrer la trappe et le pourtou
 des luminaires, et « ne jamais tenter d'enlever l'isolant vous-même ». Pour votre
 situation, ce sont la santé publique et un professionnel qualifié qui répondent.
 
-## Ce que la loi exige d'un entrepreneur avant de toucher à la vermiculite
+## Ce que la loi exige d'un entrepreneur avant les travaux
 
 Avant un travail susceptible d'émettre de la poussière, l'employeur « doit vérifier
 la présence d'amiante dans les matériaux et les produits susceptibles d'en
@@ -116,9 +114,8 @@ Quand un matériau est
 susceptible d'émettre de la poussière d'amiante, les options prévues sont de
 l'enlever, de l'enfermer entièrement dans un ouvrage permanent et étanche aux fibres,
 de l'enduire ou de l'imprégner d'un liant, ou de le recouvrir d'un matériau étanche
-(article 69.9). Une règle ne se négocie pas: avant une démolition, les matériaux
-susceptibles d'émettre de la poussière d'amiante doivent être enlevés (article
-3.23.3.2).
+(article 69.9). Une règle ne se négocie pas: avant une démolition, ces
+matériaux doivent être enlevés (article 3.23.3.2).
 
 Traduisez cela en projet. Ajouter de l'isolant par-dessus, aménager une pièce dans
 les combles, installer des luminaires encastrés, passer des fils: chacune de ces interventions touche l'entretoit. Un projet
@@ -137,8 +134,8 @@ Registre des détenteurs de licence de la Régie du bâtiment. Ce budget s'ajout
 ## Ce que le vendeur doit déclarer sur la vermiculite
 
 Le formulaire obligatoire Déclarations du vendeur sur l'immeuble nomme la
-vermiculite deux fois, en D7.4 et en D8.5, et une expertise sur l'amiante se
-déclare en D13.2. Le formulaire est décortiqué dans
+vermiculite deux fois, en D7.4 et en D8.5, et une expertise sur l'amiante se déclare
+en D13.2. Le formulaire est décortiqué dans
 [la déclaration du vendeur au Québec](/articles/declaration-du-vendeur-quebec/).
 
 Un détail passe inaperçu. D8.5, sur le type d'isolant dans le comble, offre une case
@@ -182,8 +179,8 @@ propriétaire.
 **Toute la vermiculite contient-elle de l'amiante?**
 Non. Le gouvernement du Québec écrit que « certains » isolants commercialisés entre
 1920 et 1990 peuvent en contenir. Mais la réglementation présume la présence
-d'amiante tant qu'une fiche technique vérifiable ou un rapport d'analyse ne démontre
-pas le contraire, avec un seuil de 0,1 %.
+d'amiante tant qu'une fiche technique ou un rapport d'analyse ne démontre pas le
+contraire, avec un seuil de 0,1 %.
 
 **Le vendeur a coché « non » en D7.4. Est-ce réglé?**
 Cela vous dit ce que le vendeur croit savoir, pas ce que contient l'isolant.

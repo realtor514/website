@@ -27,22 +27,21 @@ Registre des détenteurs de licence.
 **La sous-catégorie, pas seulement le numéro.** La RBQ ajoute qu'en plus d'une
 licence valide, votre entrepreneur doit avoir les sous-catégories requises pour
 effectuer les travaux prévus au contrat. Une entreprise inscrite en couverture
-n'est pas autorisée à refaire votre cuisine. C'est la ligne que presque personne
-ne lit, et c'est elle qui décide si le cautionnement vous servira.
+n'est pas autorisée à refaire votre cuisine. Personne ne lit cette ligne, et c'est
+elle qui décide si le cautionnement vous servira.
 
-**Ce que la fiche affiche.** Le nom exact et les coordonnées de l'entreprise, son
-NEQ, les catégories et sous-catégories, la caution, une éventuelle restriction
-pour les travaux publics, les répondants et leurs domaines de qualification. Et
-surtout les réclamations au cautionnement et les indemnités versées à d'anciens
-clients au cours des 5 dernières années. La RBQ explique ce que cela veut dire:
-l'entrepreneur n'a pas respecté son contrat et n'a pas remboursé son client.
+**Ce que la fiche affiche.** Le nom exact de l'entreprise, son NEQ, les catégories
+et sous-catégories, la caution, une éventuelle restriction pour les travaux publics,
+les répondants et leurs domaines de qualification. Et surtout les réclamations au
+cautionnement et les indemnités versées à d'anciens clients au cours des 5 dernières
+années. La RBQ explique ce que cela veut dire: l'entrepreneur n'a pas respecté son
+contrat et n'a pas remboursé son client.
 
-Deux autres vérifications sont gratuites. Le registre des entreprises du Québec
-confirme l'immatriculation, les dirigeants et les déclarations à jour. L'outil
-« Se renseigner sur un commerçant » de l'Office de la protection du consommateur
-révèle les mises en demeure reçues et les interventions de l'Office. La RBQ
-suggère aussi 3 soumissions, et prévient que les agences de mise en contact
-n'offrent souvent aucune protection supplémentaire.
+Deux autres vérifications sont gratuites: le registre des entreprises du Québec pour
+l'immatriculation et les dirigeants, et l'outil « Se renseigner sur un commerçant »
+de l'Office de la protection du consommateur pour les mises en demeure reçues et les
+interventions de l'Office. La RBQ suggère 3 soumissions, et prévient que les agences
+de mise en contact n'offrent souvent aucune protection supplémentaire.
 
 ## CNESST: l'attestation de conformité et le piège du maître d'oeuvre
 
@@ -67,11 +66,10 @@ général déplace cette responsabilité.
 
 ## Ce qu'un contrat de rénovation doit contenir
 
-La RBQ demande de vérifier la validité de la licence au moment de la signature et
-de s'assurer que le nom inscrit au contrat correspond au nom exact de l'entreprise
-qui détient la licence, avec le numéro de licence au contrat. Attention aux inc.
-et aux ltée. Elle ajoute une question que les gens oublient: qui, entre vous et
-l'entrepreneur, obtient le permis municipal?
+La RBQ demande de revérifier la licence au moment de la signature et de s'assurer
+que le nom inscrit au contrat correspond au nom exact de l'entreprise qui la détient,
+avec le numéro de licence au contrat. Attention aux inc. et aux ltée. Elle ajoute la
+question que tout le monde oublie: qui obtient le permis municipal?
 
 Le contrat identifie les parties: vos coordonnées, l'adresse des travaux, le nom
 juridique de l'entrepreneur, ses coordonnées complètes et pas seulement un
@@ -79,11 +77,10 @@ téléphone, sa licence RBQ, son NEQ, ses numéros de TPS et de TVQ, et la perso
 qui gère le projet. Le prix total est détaillé: main-d'oeuvre, matériaux, produits,
 transport, assurances, sous-traitants, location d'équipement.
 
-L'OPC ajoute trois mentions utiles: le numéro de police de l'assurance
-responsabilité civile et le nom de l'assureur, l'engagement de l'entrepreneur à
-respecter la réglementation municipale et le Code national du bâtiment, et la
-phrase « Les travaux seront exécutés avant ou au plus tard le (date), sinon le
-commerçant s'engage à remettre l'acompte ».
+L'OPC ajoute trois mentions: le numéro de police de l'assurance responsabilité
+civile et son assureur, l'engagement à respecter la réglementation municipale et le
+Code national du bâtiment, et la phrase « Les travaux seront exécutés avant ou au
+plus tard le (date), sinon le commerçant s'engage à remettre l'acompte ».
 
 **Le contrat signé chez vous.** Dès qu'un contrat signé à votre domicile, même à
 votre demande expresse, porte sur la vente, l'installation ou la réparation de
@@ -99,9 +96,9 @@ la protection du consommateur.
 
 L'OPC le dit sans détour: la loi ne précise pas comment les travaux doivent être
 payés. La RBQ conseille le plus petit acompte possible. L'OPC recommande de payer
-par tranches selon l'avancement, avec un dernier paiement de 10 à 15 % du coût
-total une fois les travaux terminés. Si on vous réclame un paiement plus de 2 mois
-d'avance, libellez le chèque à l'ordre de « [nom de l'entreprise] en fidéicommis ».
+par tranches selon l'avancement, avec un dernier paiement de 10 à 15 % du coût total
+une fois les travaux terminés, et un chèque libellé « [nom de l'entreprise] en
+fidéicommis » si on vous réclame un paiement plus de 2 mois d'avance.
 
 | Moment | Ce que vous pouvez faire | Fondement |
 |--------|--------------------------|-----------|
@@ -117,35 +114,31 @@ l'entrepreneur est tenu, préalablement, de vous fournir un état des sommes pay
 aux sous-entrepreneurs et aux fournisseurs de matériaux, et des sommes qu'il leur
 doit encore. Exigez cet état par écrit avant chaque versement.
 
-Si ces travaux préparent une vente, fixez le budget après avoir regardé la
-valeur probable de la propriété avec [l'estimateur de
-valeur](/tools/home-estimate/), parce que le plafond du secteur décide de ce qui
-se récupère, comme l'explique [vos rénovations n'ajouteront pas ce que vous
-pensez](/articles/renovations-dont-add-value/).
+Si ces travaux préparent une vente, fixez le budget après avoir regardé la valeur
+probable de la propriété avec [l'estimateur de valeur](/tools/home-estimate/): le
+plafond du secteur décide de ce qui se récupère, comme l'explique [vos rénovations
+n'ajouteront pas ce que vous pensez](/articles/renovations-dont-add-value/).
 
 ## L'hypothèque légale de la construction: payer l'entrepreneur ne suffit pas
 
-L'article 2726 du Code civil crée une hypothèque légale en faveur des personnes
-qui ont participé à la construction ou à la rénovation d'un immeuble: architecte,
-ingénieur, fournisseur de matériaux, ouvrier, entrepreneur, sous-entrepreneur, à
-raison des travaux demandés par le propriétaire. Elle ne peut grever que cet
-immeuble, et elle existe sans qu'il soit nécessaire de la publier. Autrement dit:
-vous pouvez avoir payé votre entrepreneur général au complet et voir votre maison
-grevée parce qu'il n'a pas payé son plombier.
+L'article 2726 du Code civil crée une hypothèque légale en faveur des personnes qui
+ont participé à la construction ou à la rénovation d'un immeuble: architecte,
+ingénieur, fournisseur de matériaux, ouvrier, entrepreneur, sous-entrepreneur. Elle
+ne grève que cet immeuble, et elle existe sans qu'il soit nécessaire de la publier.
+Autrement dit: vous pouvez avoir payé votre entrepreneur général au complet et voir
+votre maison grevée parce qu'il n'a pas payé son plombier.
 
 L'article 2728 pose la limite qui vous protège. Pour ceux qui n'ont pas contracté
-directement avec vous, l'hypothèque est limitée aux travaux, matériaux ou services
-qui suivent la dénonciation écrite du contrat au propriétaire, et l'ouvrier n'est
-pas tenu de dénoncer son contrat. La lettre recommandée d'un fournisseur que vous
-ne connaissez pas n'est donc pas de la paperasse: c'est l'avis qui déclenche votre
-droit de retenir.
+avec vous, l'hypothèque est limitée aux travaux, matériaux ou services qui suivent
+la dénonciation écrite du contrat au propriétaire, et l'ouvrier n'est pas tenu de
+dénoncer son contrat. La lettre d'un fournisseur inconnu n'est donc pas de la
+paperasse: c'est l'avis qui déclenche votre droit de retenir.
 
-L'article 2727 donne le calendrier. L'hypothèque subsiste 30 jours après la fin
-des travaux sans être publiée, et elle est conservée si un avis désignant
-l'immeuble et indiquant le montant de la créance est inscrit avant l'expiration de
-ce délai puis signifié au propriétaire. Elle s'éteint six mois après la fin des
-travaux, sauf si le créancier publie une action ou inscrit un préavis d'exercice
-d'un droit hypothécaire.
+L'article 2727 donne le calendrier: elle subsiste 30 jours après la fin des travaux
+sans être publiée, elle est conservée si un avis désignant l'immeuble et le montant
+de la créance est inscrit dans ce délai puis signifié au propriétaire, et elle
+s'éteint six mois après la fin des travaux sauf si le créancier publie une action ou
+inscrit un préavis d'exercice.
 
 C'est l'article 2123 qui ferme la boucle. Au moment du paiement, vous pouvez
 retenir sur le prix du contrat une somme suffisante pour acquitter les créances des
@@ -158,23 +151,20 @@ reviennent](/articles/worst-real-estate-deal-lessons/) en donne d'autres.
 ## Payer comptant: ce que le rabais enlève
 
 Le cautionnement de licence n'est réclamable que si l'entrepreneur détenait une
-licence valide à la signature ou à l'exécution des travaux. La RBQ décrit ensuite
-le chemin: entente, mise en demeure, jugement, puis réclamation au cautionnement,
-et elle avertit que vos chances d'être indemnisé diminuent grandement sans
-jugement de la cour. Sous 15 000 $, c'est la Division des petites créances. Le
-jugement doit viser l'entreprise dont le nom et le numéro de licence apparaissent
-au contrat, pas la personne physique qui la possède. Sans contrat écrit, vous
-n'avez même pas ce nom.
+licence valide à la signature ou à l'exécution. La RBQ décrit le chemin: entente,
+mise en demeure, jugement, puis réclamation au cautionnement, et elle avertit que
+vos chances d'être indemnisé diminuent grandement sans jugement de la cour. Sous
+15 000 $, c'est la Division des petites créances. Le jugement doit viser l'entreprise
+dont le nom et le numéro de licence apparaissent au contrat, pas la personne physique
+qui la possède. Sans contrat écrit, vous n'avez même pas ce nom.
 
 Les garanties du Code civil ne disparaissent pas: l'article 2120 tient
 l'entrepreneur et le sous-entrepreneur conjointement responsables pendant un an des
 malfaçons existantes à la réception ou découvertes dans l'année. Mais une garantie
 s'exerce contre quelqu'un, avec un prix convenu, une date et une description des
 travaux. Payé comptant sans facture, vous n'avez rien de cela à déposer devant un
-juge. N'espérez pas non plus le plan de garantie obligatoire: GCR couvre
-exclusivement des bâtiments résidentiels entièrement neufs, et ses exclusions
-nomment la rénovation, par exemple un agrandissement ou une construction sur des
-fondations existantes.
+juge. Et n'espérez pas le plan de garantie obligatoire: GCR couvre exclusivement des
+bâtiments résidentiels entièrement neufs, et ses exclusions nomment la rénovation.
 
 ## Travaux non documentés: la facture arrive à la revente
 
@@ -185,11 +175,11 @@ les décrire, dire si des plans et devis ont été préparés, et répondre à l
 sous-question b): les permis requis ont-ils été émis pour chacun de ces travaux?
 
 Trois ou huit ans plus tard, c'est là que le rabais comptant se paie. Un « non » à
-la sous-question b) devient un objet de négociation, une inspection élargie,
-parfois une demande de régularisation auprès de la municipalité avant la signature
-chez le notaire. Un « je ne sais pas » n'est pas mieux: il envoie l'acheteur
-chercher, et il trouve. À l'inverse, une chemise contenant le contrat, les
-factures, le permis et les quittances se remet en dix secondes. Le [formulaire DV
+la sous-question b) devient un objet de négociation, une inspection élargie, parfois
+une régularisation à obtenir de la municipalité avant la signature chez le notaire.
+Un « je ne sais pas » n'est pas mieux: il envoie l'acheteur chercher, et il trouve.
+Une chemise contenant le contrat, les factures, le permis et les quittances, elle,
+se remet en dix secondes. Le [formulaire DV
 00001](/articles/declaration-du-vendeur-quebec/) est le moment où votre
 documentation de chantier devient un chiffre dans une offre.
 
@@ -200,20 +190,20 @@ si la licence était valide à la signature ou à l'exécution. Une demande en
 traitement n'est pas une licence. Attendez qu'elle paraisse au registre, avec les
 bonnes sous-catégories.
 
-**Il m'offre un rabais si je paie comptant, sans facture.** Vous perdez la preuve
-du prix, de la date et de la description des travaux, donc la capacité d'obtenir le
-jugement qui précède une réclamation au cautionnement. Et vous perdez le document
-qui répondra à la question D14.4 à la revente.
+**Il m'offre un rabais si je paie comptant, sans facture.** Vous perdez la preuve du
+prix, de la date et des travaux, donc la capacité d'obtenir le jugement qui précède
+une réclamation au cautionnement. Et vous perdez le document qui répondra à la
+question D14.4 à la revente.
 
-**J'ai payé l'entrepreneur en entier et un fournisseur dit ne pas avoir été
-payé.** S'il vous avait dénoncé son contrat par écrit, il peut publier une
-hypothèque légale dans les 30 jours de la fin des travaux. Parlez à un avocat ou à
-un notaire vite: le délai est court et c'est l'immeuble qui est visé.
+**J'ai payé l'entrepreneur et un fournisseur dit ne pas avoir été payé.** S'il vous
+avait dénoncé son contrat par écrit, il peut publier une hypothèque légale dans les
+30 jours de la fin des travaux. Parlez à un avocat ou à un notaire vite: c'est
+l'immeuble qui est visé.
 
 **Je rénove un condo, est-ce pareil?** Les mêmes règles de licence et de contrat
 s'appliquent, mais la déclaration de copropriété ajoute une limite: [rénover son
 condo en copropriété](/articles/renovation-condo-copropriete-quebec/) dit ce qu'un
-copropriétaire peut réellement toucher.
+copropriétaire peut toucher.
 
 Pour compléter, lisez [vos rénovations n'ajouteront pas ce que vous
 pensez](/articles/renovations-dont-add-value/) et [le formulaire Déclarations du
@@ -221,6 +211,5 @@ vendeur](/articles/declaration-du-vendeur-quebec/).
 
 ---
 
-*Des travaux en vue avant une mise en vente? [Écrivez-moi](/formulaire/): on
-regarde ensemble ce qui se récupère dans votre secteur, et ce que l'acheteur
-demandera comme documents.*
+*Des travaux en vue avant une mise en vente? [Écrivez-moi](/formulaire/): on regarde
+ce qui se récupère dans votre secteur, et les documents que l'acheteur demandera.*

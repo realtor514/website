@@ -3958,7 +3958,7 @@
    "translationKey": "article-piscine-reglement",
    "needs_expert_review": true,
    "id": "t83",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -3982,7 +3982,9 @@
      "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    },
-   "note": "agent interrompu par la limite de session du 2026-09-23 vers 22h, pendant la recherche"
+   "note": "agent interrompu par la limite de session du 2026-09-23 vers 22h, pendant la recherche",
+   "published_path": "content/fr/articles/reglement-piscine-securite-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 456,
@@ -4489,7 +4491,7 @@
    "translationKey": "article-deces-conjoint",
    "needs_expert_review": true,
    "id": "t94",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -4513,7 +4515,9 @@
      "match": "/articles/buying-property-with-family/"
     }
    },
-   "note": "agent interrompu par la limite de session du 2026-09-23 vers 22h, pendant la recherche"
+   "note": "agent interrompu par la limite de session du 2026-09-23 vers 22h, pendant la recherche",
+   "published_path": "content/fr/articles/deces-conjoint-proteger-propriete-quebec.md",
+   "date": "2026-09-03"
   },
   {
    "ref_id": 326,
@@ -5203,7 +5207,7 @@
    "translationKey": "article-contrat-courtage-achat",
    "needs_expert_review": true,
    "id": "t109",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5226,7 +5230,9 @@
      "s": 0.2763,
      "match": "/articles/contrat-courtage-vente-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/contrat-courtage-achat-quebec.md",
+   "date": "2026-08-28"
   },
   {
    "ref_id": 198,
@@ -7170,7 +7176,7 @@
    "translationKey": "article-occupant-plex",
    "needs_expert_review": true,
    "id": "t150",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -7194,7 +7200,9 @@
      "match": "/articles/income-property-beginners/"
     }
    },
-   "note": "agent interrompu par la limite de session du 2026-09-23 vers 22h, pendant la recherche"
+   "note": "agent interrompu par la limite de session du 2026-09-23 vers 22h, pendant la recherche",
+   "published_path": "content/fr/articles/proprietaire-occupant-plex-reprise.md",
+   "date": "2026-09-18"
   },
   {
    "ref_id": 891,
@@ -7699,7 +7707,7 @@
    "translationKey": "article-loi-16-copropriete",
    "needs_expert_review": true,
    "id": "t161",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -7723,7 +7731,9 @@
      "match": "/articles/condo-fees-investment-killer/"
     }
    },
-   "note": "agent interrompu par la limite de session du 2026-09-23 vers 22h, pendant la recherche"
+   "note": "agent interrompu par la limite de session du 2026-09-23 vers 22h, pendant la recherche",
+   "published_path": "content/fr/articles/loi-16-copropriete-acheteur-quebec.md",
+   "date": "2026-09-10"
   },
   {
    "ref_id": 754,
