@@ -99,7 +99,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Real Estate 101
 - [5 Questions You Must Ask Before Hiring a Real Estate Broker](/en/articles/questions-hire-broker/) : Most people choose a broker from a referral or a yard sign. Here are the five questions that reveal how a
 - [Buyer Brokerage Contract in Quebec: What You Are Signing](/en/articles/buyer-brokerage-contract-quebec/) : Form CCA, exclusivity, clause 6.2, double representation: what a buyer brokerage contract in Quebec actua
-- [Common Law Partners and the Home in Quebec: What Actually Protects You](/en/articles/common-law-partners-property-quebec/) (brouillon) : Patrimoine familial, union parentale since June 30, 2025, title, undivided co-ownership, death: what real
+- [Common Law Partners and the Home in Quebec: What Actually Protects You](/en/articles/common-law-partners-property-quebec/) : Patrimoine familial, union parentale since June 30, 2025, title, undivided co-ownership, death: what real
 - [Contesting Your Municipal Assessment in Quebec](/en/articles/contest-property-assessment-quebec/) : Reference date, the May 1 deadline, fees, the assessor's written reply and the appeal to the TAQ: how to 
 - [Death of a Partner and the Home in Quebec: What to Put in Place First](/en/articles/protecting-home-after-death-quebec/) : Will, title, insurance, liquidator, declaration of transmission: what actually protects the home when a c
 - [Eight Real Estate Myths, and the Rule That Contradicts Each One](/en/articles/real-estate-myths-debunked/) : Down payment, broker remuneration, the GCR warranty, preapproval, asking price, promise to purchase: eigh

@@ -1,13 +1,13 @@
 ---
 title: "Parejas de hecho y vivienda en Quebec: qué lo protege realmente"
 date: 2026-08-27
-lastmod: 2026-08-27
+lastmod: 2026-09-24
 translationKey: "article-conjoints-de-fait"
 category: "Inmobiliaria 101"
 description: "Patrimoine familial, union parentale desde el 30 de junio de 2025, título, indivisión y fallecimiento: qué protege de verdad la casa de las parejas de hecho en Quebec."
 image: "images/articles/conjoints-de-fait-maison-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Llevan doce años viviendo juntos, la casa está a nombre de él y usted ha pagado

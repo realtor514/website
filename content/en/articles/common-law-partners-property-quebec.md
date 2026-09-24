@@ -1,13 +1,13 @@
 ---
 title: "Common Law Partners and the Home in Quebec: What Actually Protects You"
 date: 2026-08-27
-lastmod: 2026-08-27
+lastmod: 2026-09-24
 translationKey: "article-conjoints-de-fait"
 category: "Real Estate 101"
 description: "Patrimoine familial, union parentale since June 30, 2025, title, undivided co-ownership, death: what really protects the home of common law partners in Quebec."
 image: "images/articles/conjoints-de-fait-maison-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 You have lived together for twelve years, the house is in his name, and you have

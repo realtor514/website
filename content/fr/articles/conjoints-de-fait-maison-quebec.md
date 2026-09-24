@@ -1,13 +1,13 @@
 ---
 title: "Conjoints de fait et maison au Québec : ce qui vous protège"
 date: 2026-08-27
-lastmod: 2026-08-27
+lastmod: 2026-09-24
 translationKey: "article-conjoints-de-fait"
 category: "Immobilier 101"
 description: "Patrimoine familial, union parentale depuis le 30 juin 2025, titre, indivision, décès : ce qui protège vraiment la maison des conjoints de fait au Québec."
 image: "images/articles/conjoints-de-fait-maison-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Vous vivez ensemble depuis douze ans, la maison est à son nom, et vous avez payé

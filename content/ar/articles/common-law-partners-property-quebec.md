@@ -1,13 +1,13 @@
 ---
 title: "الشريكان بحكم الواقع والمنزل في كيبيك: ما الذي يحميك فعلاً"
 date: 2026-08-27
-lastmod: 2026-08-27
+lastmod: 2026-09-24
 translationKey: "article-conjoints-de-fait"
 category: "عقارات 101"
 description: "الذمة المالية الأسرية، والاتحاد الأبوي منذ 30 حزيران 2025، وسند الملكية، والملكية الشائعة، والوفاة: ما الذي يحمي فعلاً منزل الشريكين بحكم الواقع في كيبيك."
 image: "images/articles/conjoints-de-fait-maison-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 تعيشان معاً منذ اثنتي عشرة سنة، والمنزل باسمه، وأنت دفعت نصف كل قسط من أقساط
