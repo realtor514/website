@@ -5987,7 +5987,7 @@
    "translationKey": "article-remboursement-accelere",
    "needs_expert_review": true,
    "id": "t125",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -6010,7 +6010,9 @@
      "s": 0.0905,
      "match": "/articles/best-mortgage-rate-canada/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/rembourser-hypotheque-plus-vite-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 37,
