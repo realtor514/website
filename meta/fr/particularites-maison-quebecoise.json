@@ -3,7 +3,7 @@
  "slug": "particularites-maison-quebecoise",
  "title": "Maison québécoise: les particularités de construction",
  "target_keyword": "particularites maison quebecoise construction",
- "word_count": 1818,
+ "word_count": 1898,
  "category": "Guide de l'acheteur",
  "internal_links": [
   "/articles/acheter-maison-centenaire-quebec/",
@@ -112,15 +112,37 @@
    "publisher": "Regie du batiment du Quebec",
    "consulted": "2026-09-25",
    "supports": "L'article 8.05.01 du Code de construction adopte par renvoi la norme CSA B139, Code d'installation des appareils de combustion au mazout."
+  },
+  {
+   "url": "https://www.hydroquebec.com/data/documents-donnees/pdf/tarifs-electricite.pdf",
+   "title": "Tarifs d'électricité, en vigueur le 1er avril 2026",
+   "publisher": "Hydro-Quebec",
+   "consulted": "2026-09-25",
+   "supports": "Article 2.5, structure du tarif D: 46,154 ¢ de frais d'acces au reseau par jour compris dans la periode de consommation, 7,065 ¢ le kilowattheure jusqu'a concurrence de 40 kilowattheures par jour de la periode, et 11,142 ¢ le kilowattheure pour le reste. Articles 2.30, 2.31 et 2.34, tarif DT: systeme bienergie central ou l'electricite est la source principale et un combustible la source d'appoint, permutation automatique par sonde de temperature, mode combustible utilise sous -12 °C ou -15 °C selon les zones climatiques definies par Hydro-Quebec, 46,154 ¢ de frais d'acces par jour, 5,131 ¢ le kilowattheure au-dessus du seuil de temperature et 30,001 ¢ en dessous. Page couverture: en vigueur le 1er avril 2026. Le site hydroquebec.com refuse les acces hors Quebec et redirige vers acces-restreint.solutions.hydroquebec.com: le PDF officiel a ete lu le 2026-09-25 par la capture web.archive.org du 2026-06-10."
+  },
+  {
+   "url": "https://www.hydroquebec.com/residentiel/mieux-consommer/aides-financieres/logisvert/residentiel.html",
+   "title": "Programme LogisVert, subvention pour la clientèle résidentielle",
+   "publisher": "Hydro-Quebec",
+   "consulted": "2026-09-25",
+   "supports": "Mesure Thermopompe: subvention de 50 $ par 1 000 BTU/h a -8 °C pour l'achat et l'installation d'une thermopompe certifiee ENERGY STAR, ou de 120 $ par 1 000 BTU/h a -8 °C lorsqu'elle est de type climat froid. Mesure Thermopompe a tres haute efficacite: 140 $ par 1 000 BTU/h a -8 °C, travaux de calfeutrage compris. Lu le 2026-09-25 par la capture web.archive.org du 2026-09-06, le site refusant les acces hors Quebec."
+  },
+  {
+   "url": "https://www.hydroquebec.com/residentiel/espace-clients/tarifs/prix-electricite.html",
+   "title": "Prix de l'électricité",
+   "publisher": "Hydro-Quebec",
+   "consulted": "2026-09-25",
+   "supports": "Les nouveaux tarifs entrent en vigueur le 1er avril de chaque annee, apres la decision de la Regie de l'energie rendue en mars; hausse de 3 % pour les clienteles residentielle et agricole au 1er avril 2026. Lu le 2026-09-25 par la capture web.archive.org du 2026-08-19."
   }
  ],
  "claims_needing_review": [
   "Les normes de toiture reflechissante de Montreal varient par arrondissement: la page consultee affiche un indice de reflectance solaire minimal allant de 56 a 82 selon le territoire, et les frais de permis de 9,80 $ par tranche de 1 000 $ avec minimum residentiel de 167,40 $ peuvent differer. A revalider a la date de publication.",
   "Les dimensions de la cour anglaise, 1,5 m par 1,5 m, le garde-corps ajoure a 80 % et le drainage vers une fosse de retenue interieure proviennent d'une page propre a l'arrondissement de Villeray Saint-Michel Parc-Extension. L'article ne les presente pas comme une regle montrealaise generale, mais un lecteur pourrait le comprendre ainsi.",
   "La hauteur de garde-corps de 36 pouces et les regles d'autorisation citees proviennent du guide patrimonial de l'arrondissement de Mercier Hochelaga Maisonneuve. Elles ne s'appliquent pas telles quelles ailleurs a Montreal ni a Laval.",
-  "Le site d'Hydro-Quebec a repondu par une page d'indisponibilite pendant toute la redaction. Aucune affirmation de l'article ne repose donc sur Hydro-Quebec: ni tarif, ni aide financiere, ni part du chauffage electrique. Les chiffres de chauffage viennent uniquement de Statistique Canada.",
-  "Les pages de quebec.ca sur Chauffez vert et l'aide a la thermopompe ont renvoye une verification humaine ou une erreur 405. Aucun montant d'aide financiere n'est donc cite dans l'article.",
-  "LegisQuebec a renvoye une erreur 502 pendant toute la redaction. Le Reglement sur les appareils de chauffage au mazout (Q-2, r. 1.1) n'est donc pas cite, et l'article n'affirme aucune interdiction ni aucune date d'interdiction du chauffage au mazout.",
+  "Passe d'enrichissement du 2026-09-25: le volet Hydro-Quebec a ete ajoute. Les prix du tarif D et du tarif DT viennent du recueil officiel Tarifs d'electricite en vigueur le 1er avril 2026, et les montants LogisVert de la page du programme. Le site hydroquebec.com refuse toujours les acces depuis l'exterieur du Quebec et redirige vers une page d'indisponibilite: les deux documents officiels ont donc ete lus par des captures web.archive.org, datees respectivement du 2026-06-10 et du 2026-09-06. Les prix du tarif changent chaque 1er avril et l'article date sa consultation. Les montants LogisVert peuvent avoir change entre le 2026-09-06 et la publication: a revalider.",
+  "Les parts du chauffage electrique, 58 % et 7 %, viennent toujours de Statistique Canada seulement. Hydro-Quebec n'appuie aucune affirmation de l'article sur la repartition des modes de chauffage.",
+  "Les pages de quebec.ca sur Chauffez vert et l'aide a la thermopompe renvoient encore une erreur 405 le 2026-09-25, et transitionenergetique.gouv.qc.ca ne repond pas du tout. Aucun montant du programme Chauffez vert n'est donc cite dans l'article.",
+  "LegisQuebec renvoie encore une erreur 502 le 2026-09-25, sur la page d'accueil comme sur le document. Le Reglement sur les appareils de chauffage au mazout (Q-2, r. 1.1) n'est donc pas cite, et l'article n'affirme aucune interdiction ni aucune date d'interdiction du chauffage au mazout.",
   "Le site de la Ville de Laval a renvoye un 403 et une verification Cloudflare. Les regles de clapet antiretour citees sont donc celles de Montreal seulement. Les reglements lavallois L-9618 et L-5057 apparaissent dans des documents de la Ville mais n'ont pas pu etre ouverts, et ne sont pas cites dans l'article.",
   "Aucune source officielle consultee ne permet d'etablir une regle unique sur l'inclusion d'un sous-sol fini dans la superficie habitable annoncee. L'article le dit explicitement dans la section Questions frequentes plutot que de trancher.",
   "L'origine historique de l'escalier exterieur montrealais n'est attribuee a aucune cause dans l'article: aucune source municipale consultee ne l'explique. Seules les regles actuelles de permis et de normes sont citees."

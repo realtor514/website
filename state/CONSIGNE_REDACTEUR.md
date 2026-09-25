@@ -63,12 +63,16 @@ Etat observe le 25 septembre 2026, a reverifier vous-meme:
 | Site | Comportement | Ce qui marche |
 |---|---|---|
 | legisquebec.gouv.qc.ca | 502 du serveur d origine | rien; utilisez Educaloi et l OACIQ, et dites d ou vient la regle |
-| hydroquebec.com | etait en panne, repondait 200 en fin de journee | reessayez, ca marche |
+| hydroquebec.com | **geo-bloque**. Repond 200, mais tout acces hors Quebec est redirige vers une page « Indisponibilite du site Web d Hydro-Quebec a partir de l etranger ». Un code 200 ne veut donc pas dire que vous lisez la bonne page: verifiez le titre. | les captures web.archive.org des pages officielles |
 | revenuquebec.ca | 403 a WebFetch et a curl | le recueil des depenses fiscales sur budget.finances.gouv.qc.ca |
-| quebec.ca | verification humaine puis 405 | les sites des ministeres directement |
-| laval.ca | 403 et mur Cloudflare sur le HTML | les PDF de reglements par curl, quand ils ont une couche texte |
+| quebec.ca | verification humaine puis 405 | les PDF sur cdn-contenu.quebec.ca, et les sites des ministeres directement |
+| laval.ca | bloque WebFetch, mais **repond 200 en curl avec un agent de navigateur** | curl, le HTML suffit, pas besoin des PDF |
+| montreal.ca | 404 sur beaucoup d URL de sujet | le contenu vit souvent sur un sous-domaine, par exemple sim.montreal.ca pour la securite incendie, dont les pages francaises sont a la racine sans prefixe /fr |
+| rbq.gouv.qc.ca | 404 sur les URL francaises devinees | passez par le lien « Fr » depuis la page anglaise |
+| lautorite.qc.ca | 403 a WebFetch et a curl | capture web.archive.org |
+| securitepublique.gouv.qc.ca | 405 | les PDF sur cdn-contenu.quebec.ca |
 | justice.gouv.qc.ca | defi Cloudflare | Educaloi pour les paliers des tribunaux |
-| canlii.org | 403 | rien |
+| canlii.org et ccq.lexum.com | 403, et Lexum est une coquille JavaScript sans texte | rien, aucune route connue vers le Code civil |
 
 **Essayez plusieurs routes avant d abandonner une affirmation:** le PDF plutot
 que la page HTML, le site du ministere plutot que quebec.ca, une capture de

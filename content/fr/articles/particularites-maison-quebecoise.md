@@ -122,7 +122,7 @@ bâtiments, en vertu du Règlement sur la protection des bâtiments contre les
 refoulements d'égout (11-010). Ils se posent sur la tuyauterie d'évacuation de chaque
 appareil ou groupe d'appareils au sous-sol, drains de plancher compris. La Ville
 recommande de vérifier deux fois par année qu'ils fonctionnent et ne sont pas
-obstrués. Le programme Rénoplex accorde 80 $ pour un clapet normalement fermé, 560 $
+obstrués. Le programme RénoPlex accorde 80 $ pour un clapet normalement fermé, 560 $
 par clapet installé sous une dalle existante et 1 500 $ pour une fosse de retenue
 avec système de pompe, pour les immeubles admissibles de un à cinq logements.
 

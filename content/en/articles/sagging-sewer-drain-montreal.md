@@ -4,7 +4,7 @@ date: 2026-09-17
 lastmod: 2026-09-17
 translationKey: "article-ventre-de-boeuf"
 category: "Buyer's Guide"
-description: "A ventre de boeuf in a Montreal drain: camera inspection, who is responsible up to the street, the RenoPlex backwater valve grant and the insurance endorsement."
+description: "A ventre de boeuf in a Montreal drain: camera inspection, who is responsible up to the street, the RénoPlex backwater valve grant and the insurance endorsement."
 image: "images/articles/ventre-de-boeuf-drain-montreal/featured.jpg"
 draft: false
 ---
@@ -131,7 +131,7 @@ or maintain their valves. A floor drain with a built in valve does not excuse
 installing a separate valve on the connection.
 
 **The Montreal grant.** It still exists, under a different name: the flood
-protection component of the RenoPlex program, for buildings of 1 to 5 units
+protection component of the RénoPlex program, for buildings of 1 to 5 units
 whose assessed value is at or below $3,860 per square metre.
 
 | Work | Amount granted |

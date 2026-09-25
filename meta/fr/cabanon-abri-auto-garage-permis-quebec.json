@@ -1,0 +1,103 @@
+{
+ "id": "t206",
+ "slug": "cabanon-abri-auto-garage-permis-quebec",
+ "title": "Permis cabanon, abri d'auto et garage au Québec",
+ "target_keyword": "permis cabanon quebec",
+ "word_count": 1794,
+ "category": "Guide pratique",
+ "internal_links": [
+  "/articles/valeur-terrain-zonage-quebec/",
+  "/articles/contester-evaluation-municipale-quebec/",
+  "/articles/maison-difficile-assurer-quebec/",
+  "/articles/declaration-du-vendeur-quebec/",
+  "/articles/arbres-propriete-reglements-quebec/",
+  "/tools/home-estimate/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.laval.ca/reglements-permis/trouver-mon-permis/remise/",
+   "title": "Permis pour un cabanon",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-25",
+   "supports": "Seuil de 18 m2 (193 pi2) d'emprise au sol au-dela duquel un permis est obligatoire a Laval pour une construction accessoire, absence de permis sous le seuil, exception du PIIA. Page lue par une capture web.archive.org du 2025-05-14, laval.ca opposant un mur Cloudflare a curl et a WebFetch."
+  },
+  {
+   "url": "https://www.laval.ca/reglements-permis/trouver-mon-permis/garage-abri-auto-permanent-detache/",
+   "title": "Garage et abri d'auto permanent detache",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-25",
+   "supports": "Permis obligatoire sans seuil pour un garage ou un abri d'auto permanent detache a Laval, tarif de 92 $ pour la premiere tranche de 20 000 $ plus 2,50 $ par tranche de 1 000 $, delai de 30 jours, certificat de localisation recent d'arpenteur-geometre exige au depot, verification du PIIA par Info-reglements. Page lue par une capture web.archive.org du 2026-04-13."
+  },
+  {
+   "url": "https://www.laval.ca/reglements-permis/index-reglements/abri-hiver-vehicules/",
+   "title": "Abri d'hiver pour les vehicules",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-25",
+   "supports": "Periode autorisee du 15 octobre au 30 avril a Laval, aucun permis requis, conditions d'installation sur allee ou case de stationnement et non sur surface gazonnee, distances de la voie publique publiees en schemas, amendes de 400 $ et 800 $ pour une personne physique. Page lue par une capture web.archive.org du 2026-01-14."
+  },
+  {
+   "url": "https://info-reglements.laval.ca/consultation/cdu/remise_cabanon/",
+   "title": "Extrait de reglementation, Remise (cabanon), Code de l'urbanisme",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-25",
+   "supports": "Les normes lavalloises de marge, de superficie et de hauteur ne se publient que zone par zone, par recherche de lot ou d'adresse. Outil inaccessible hors navigateur (403 en curl et en WebFetch, contenu charge en JavaScript dans la capture d'archive): aucun chiffre n'a donc ete attribue a Laval sur ces trois points."
+  },
+  {
+   "url": "https://montreal.ca/demarches/installer-une-remise-ou-une-dependance",
+   "title": "Installer une remise ou une dependance",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-25",
+   "supports": "Seuil courant de 15 m2, frais d'analyse de 9,80 $ par tranche de 1 000 $ de travaux, interdiction en cour avant, usage non residentiel de la dependance, variation des regles par arrondissement. Fiches par arrondissement: Saint-Leonard (certificat d'autorisation toujours requis, une seule remise, 15 m2, 3,05 m de hauteur, 4,6 m de longueur ou de largeur, 0,45 m des limites, 133 $), Ahuntsic-Cartierville (permis au-dela de 15 m2, 4 m, 1,5 m, minimum 167,40 $), Riviere-des-Prairies et Pointe-aux-Trembles (permis au-dela de 15 m2 ou 25 m2 au total, 4 m, 0,6 m, minimums 259,90 $ et 517,70 $)."
+  },
+  {
+   "url": "https://portail-m4s.s3.montreal.ca/pdf/rdppat_fiche_info-permis_batiments_complementaires-residentiel_2.pdf",
+   "title": "Info-permis, Les batiments complementaires: cabanon, remise, garage detache, etc.",
+   "publisher": "Ville de Montreal, arrondissement de Riviere-des-Prairies et Pointe-aux-Trembles",
+   "consulted": "2026-09-25",
+   "supports": "Definition du batiment complementaire, obligation d'un batiment principal detache, interdiction en cour avant, 0,6 m de toutes les limites sauf parement de maconnerie, egouttement sur son propre terrain, hauteur limitee a celle du batiment principal jusqu'a 4 m, superficie de chaque batiment complementaire limitee a 50 % de celle du batiment principal, interdiction d'utiliser une remorque, un abri temporaire ou un conteneur comme batiment complementaire. Fiche revisee le 2015-12-18: seules les regles qualitatives en sont tirees, les montants proviennent des pages montreal.ca a jour."
+  },
+  {
+   "url": "https://montreal.ca/demarches/installer-un-abri-temporaire-pour-automobile",
+   "title": "Installer un abri temporaire pour automobile",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-25",
+   "supports": "Aucun permis requis, periode du 15 octobre au 15 avril dans la plupart des arrondissements et du 1er octobre au 30 avril a Mercier et Hochelaga-Maisonneuve, demantelement complet de la structure metallique hors periode, toile synthetique blanche et translucide sur structure metallique demontable, fenetre de 0,5 m2 par cote a moins de 3 m du trottoir, interdiction en secteur patrimonial."
+  },
+  {
+   "url": "https://montreal.ca/sujets/valeur-fonciere-dune-propriete",
+   "title": "Valeur fonciere d'une propriete",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-25",
+   "supports": "Tenue a jour du role exigee par la Loi sur la fiscalite municipale, modification retroactive a la date de fin des travaux sans depasser l'exercice financier precedant l'annee courante, avis de modification, date de reference du 1er juillet 2024 pour les roles 2026-2027-2028, liste des travaux susceptibles d'augmenter la valeur, qui ne comprend pas le batiment accessoire."
+  },
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "title": "Declarations du vendeur sur l'immeuble, DV 00001 (V24 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-25",
+   "supports": "Libelle exact de la question D2.11 sur l'ajout ou la modification d'un cabanon, note du formulaire selon laquelle une reponse positive a D2.8, D2.9, D2.10 ou D2.11 peut exiger un nouveau certificat de localisation, question D2.12 sur l'avis de non-conformite de la municipalite et question D2.13 sur le refus d'assurer."
+  },
+  {
+   "url": "https://oagq.qc.ca/wp-content/uploads/2026/01/guide-des-tarifs-suggeres-2026.pdf",
+   "title": "Guide des tarifs suggeres 2026",
+   "publisher": "Ordre des arpenteurs-geometres du Quebec",
+   "consulted": "2026-09-25",
+   "supports": "Tarif suggere de 1 630,00 $ pour un certificat de localisation d'unifamilial en milieu urbain, deboursees et taxes en sus, et liberte de l'arpenteur de facturer plus ou moins selon le mandat."
+  },
+  {
+   "url": "https://infoassurance.ca/media/t4qdqar4/tout-connaitre-habitation.pdf",
+   "title": "Tout connaitre sur l'assurance habitation",
+   "publisher": "Info Assurance, Bureau d'assurance du Canada",
+   "consulted": "2026-09-25",
+   "supports": "L'assurance habitation du proprietaire couvre la maison et ses dependances, cabanon et garage detache compris, et le montant requis pour le batiment correspond au cout de reconstruction, distinct de la valeur marchande et de l'evaluation municipale."
+  }
+ ],
+ "claims_needing_review": [
+  "Aucune valeur de marge, de superficie maximale ni de hauteur maximale n'a pu etre attribuee a Laval: l'outil Info-reglements, seul endroit ou ces normes sont publiees, repond 403 a curl et a WebFetch et charge ses extraits en JavaScript, illisibles dans la capture d'archive. L'article le dit au lecteur et l'envoie faire la recherche par adresse plutot que d'extrapoler depuis Montreal.",
+  "Les distances minimales entre un abri d'hiver lavallois et la voie publique sont publiees en quatre schemas illustres, sans texte: aucun chiffre n'a donc ete repris.",
+  "Aucune source officielle consultee ne fixe un pourcentage de couverture des dependances par rapport au montant assure sur le batiment principal. L'article dit que cette limite appartient au contrat et renvoie a l'assureur.",
+  "Aucune source officielle consultee ne chiffre l'effet d'un cabanon ou d'un garage detache sur une valeur inscrite au role d'evaluation. L'article affirme seulement l'obligation de tenue a jour et la retroactivite, pas un montant.",
+  "Le tarif de permis lavallois pour une remise (90 $ plus 2,40 $ par tranche de 1 000 $ dans la capture de mai 2025) n'a pas ete repris dans l'article, la capture etant plus ancienne que celle du garage detache. Seul le tarif du garage, lu dans la capture d'avril 2026, est cite."
+ ]
+}
