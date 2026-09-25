@@ -1,0 +1,86 @@
+{
+  "id": "t231",
+  "slug": "budget-grosse-renovation-financement-quebec",
+  "title": "Financer une grosse rénovation au Québec",
+  "target_keyword": "financer une grosse renovation quebec",
+  "word_count": 1680,
+  "category": "Financement",
+  "internal_links": [
+    "/articles/refinancement-hypothecaire-quebec/",
+    "/articles/cle-en-main-ou-a-renover-quebec/",
+    "/articles/choisir-entrepreneur-renovation-rbq-quebec/",
+    "/articles/house-flipping-montreal/",
+    "/articles/renovations-dont-add-value/",
+    "/tools/mortgage/",
+    "/formulaire/"
+  ],
+  "sources": [
+    {
+      "url": "https://www.canada.ca/fr/agence-consommation-matiere-financiere/services/hypotheques/emprunt-valeur-net-maison.html",
+      "title": "Les façons d'emprunter sur la valeur nette de votre maison",
+      "publisher": "Agence de la consommation en matière financière du Canada",
+      "consulted": "2026-09-25",
+      "supports": "Définition de la valeur nette, plafonds de 80 % pour la deuxième hypothèque et le prêt sur valeur nette, 65 % pour la marge de crédit hypothécaire à taux variable, 55 % pour l'hypothèque inversée, frais d'évaluation, de recherche de titre, d'assurance titre et juridiques, et l'avertissement sur la saisie de la maison."
+    },
+    {
+      "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/mortgage-loan-insurance-homeownership-programs/improvement",
+      "title": "CMHC Improvement",
+      "publisher": "SCHL",
+      "consulted": "2026-09-25",
+      "supports": "Valeur d'emprunt égale au moindre de la valeur après améliorations ou de la valeur actuelle plus le coût des améliorations, documents exigés (listes et estimations de coûts, plans pour rénovations majeures, permis), avance unique sous le seuil de 10 % de la valeur après améliorations, jusqu'à quatre avances échelonnées au delà, et obligation faite au prêteur de tenir compte de la capacité financière de l'emprunteur à couvrir les dépassements de coûts."
+    },
+    {
+      "url": "https://www.rbq.gouv.qc.ca/vous-etes/citoyen/problemes-avec-un-entrepreneur/effectuer-une-reclamation/",
+      "title": "Effectuer une réclamation au cautionnement",
+      "publisher": "Régie du bâtiment du Québec",
+      "consulted": "2026-09-25",
+      "supports": "Cautionnement de 40 000 $ pour un entrepreneur général et de 20 000 $ pour un entrepreneur spécialisé, utilisable pour indemniser l'ensemble des clients ayant présenté des réclamations conformes pour la période, dossier ouvert 6 mois, partage au prorata, absence d'indemnisation si le cautionnement est épuisé, dommages couverts (acomptes, non parachèvement, vices et malfaçons constatés dans les 12 mois, droits de greffe, frais d'huissier, intérêts au jugement) et dommages exclus (créances des sous traitants impayés, retard, préjudice moral, dommages punitifs, honoraires d'avocats)."
+    },
+    {
+      "url": "https://www.rbq.gouv.qc.ca/vous-etes/citoyen/problemes-avec-un-entrepreneur/connaitre-vos-recours/",
+      "title": "Connaître vos recours",
+      "publisher": "Régie du bâtiment du Québec",
+      "consulted": "2026-09-25",
+      "supports": "Avertissement de la RBQ selon lequel les chances d'être indemnisé diminuent grandement sans jugement favorable, et paliers de tribunaux selon le montant réclamé: 15 000 $ et moins aux petites créances, 15 000,01 $ à 74 999,99 $ à la Chambre civile de la Cour du Québec, 75 000 $ à 99 999,99 $ au choix, 100 000 $ et plus en Cour supérieure. Lu dans la version anglaise Find out how to take action, le contenu français étant au même chemin sans prefixe /en/."
+    },
+    {
+      "url": "https://www.rbq.gouv.qc.ca/vous-etes/citoyen/travaux-de-renovation/signer-un-contrat-de-renovation/",
+      "title": "Signer un contrat de rénovation",
+      "publisher": "Régie du bâtiment du Québec",
+      "consulted": "2026-09-25",
+      "supports": "Recommandation de verser le plus petit acompte possible avant le début des travaux, et droit de vérifier à tout moment l'avancement du projet et les dépenses effectuées par l'entrepreneur."
+    },
+    {
+      "url": "https://www.opc.gouv.qc.ca/consommateur/bien-service/habitation-renovation/renovation/conseils/entrepreneur",
+      "title": "Avant d'engager un entrepreneur en rénovation",
+      "publisher": "Office de la protection du consommateur",
+      "consulted": "2026-09-25",
+      "supports": "Recommandation de ne verser aucun acompte ou une très petite somme, de payer par tranches selon l'avancement, de garder un dernier paiement de 10 à 15 % du coût total à la fin des travaux, et d'exiger un chèque libellé au nom de l'entreprise en fidéicommis pour un paiement réclamé plus de deux mois d'avance."
+    },
+    {
+      "url": "https://www.opc.gouv.qc.ca/consommateur/bien-service/habitation-renovation/renovation/travaux/frais-non-prevus",
+      "title": "Facturation de frais non prévus, rénovation résidentielle",
+      "publisher": "Office de la protection du consommateur",
+      "consulted": "2026-09-25",
+      "supports": "L'entrepreneur ne peut pas facturer un montant plus élevé que celui indiqué au départ et doit obtenir l'autorisation du client avant d'exécuter des travaux non prévus; recours du client: paiement sous protêt, mise en demeure, petites créances, plainte à l'Office."
+    },
+    {
+      "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+      "title": "Code civil du Québec",
+      "publisher": "Publications du Québec, LégisQuébec",
+      "consulted": "2026-09-25",
+      "supports": "Articles 2107 (justification d'une augmentation sur estimation et imprévisibilité), 2108 (reddition de compte de l'avancement et des dépenses), 2109 (prix forfaitaire inchangé sauf convention contraire), 2111 (aucun paiement avant la réception et retenue pour malfaçons apparentes), 2114 (réception par parties et présomption de réception par le paiement), 2122 (état des sommes versées aux sous entrepreneurs avant tout acompte), 2125 et 2129 (résiliation unilatérale par le client et sommes dues), 2724, 2726, 2727 et 2728 (hypothèque légale de la construction, titulaires, absence de publication requise, délais de 30 jours et de six mois, limite à la plus-value et dénonciation écrite) et 2952 (rang avant toute autre hypothèque publiée pour la plus-value). Texte lu par capture web.archive.org de la page officielle de LégisQuébec, capture du 2026-03-10, LégisQuébec répondant 502 le 2026-09-25."
+    },
+    {
+      "url": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/b-092/renovations-majeures-remboursement-tps-tvh-habitations-neuves.html",
+      "title": "B-092, Rénovations majeures et remboursement de la TPS/TVH pour habitations neuves",
+      "publisher": "Agence du revenu du Canada",
+      "consulted": "2026-09-25",
+      "supports": "Définition des rénovations majeures (totalité ou presque du bâtiment existant enlevée ou remplacée, exception faite des fondations, murs extérieurs, murs intérieurs de soutien, planchers, toit et escaliers), interprétation de la totalité ou presque comme 90 % ou plus, et prise en compte de la seule surface habitable."
+    }
+  ],
+  "claims_needing_review": [
+    "L'article 2728 limite l'hypothèque légale de la construction à la plus-value donnée à l'immeuble par les travaux. Aucune source primaire ouverte ne dit comment cette plus-value se quantifie en pratique ni ce qu'un prêteur ou un notaire exige comme garantie quand un avis est inscrit en cours de chantier: l'article renvoie au notaire et à l'avocat sans chiffrer.",
+    "Le fait que le cautionnement de licence exclut les créances des sous traitants impayés et que l'hypothèque légale prend rang avant l'hypothèque du prêteur est tiré de deux sources séparées, la RBQ et le Code civil. La conclusion que les deux protections laissent un trou est une lecture combinée, à valider par un juriste avant publication."
+  ]
+}
