@@ -1,0 +1,128 @@
+{
+ "id": "t12",
+ "slug": "particularites-maison-quebecoise",
+ "title": "Maison québécoise: les particularités de construction",
+ "target_keyword": "particularites maison quebecoise construction",
+ "word_count": 1818,
+ "category": "Guide de l'acheteur",
+ "internal_links": [
+  "/articles/acheter-maison-centenaire-quebec/",
+  "/articles/investir-triplex-laval/",
+  "/articles/fonte-neiges-infiltration-clapet-montreal/",
+  "/articles/declaration-du-vendeur-quebec/",
+  "/articles/reduire-facture-chauffage-quebec/",
+  "/tools/affordability/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://montreal.ca/demarches/construire-ou-remplacer-un-escalier-exterieur",
+   "title": "Construire ou remplacer un escalier extérieur",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-25",
+   "supports": "Permis obligatoire pour construire, transformer ou remplacer un escalier exterieur ou une de ses composantes; aucun permis pour l'entretien comme le remplacement d'une marche, sauf dans certains secteurs patrimoniaux; escalier a au moins 1,2 m de la limite de propriete; marches et contremarches selon les dimensions prevues au Code de construction du Quebec; materiaux non combustibles pouvant etre requis dans un batiment de plus de 2 logements; une transformation ne doit pas diminuer la securite; frais de 9,80 $ par tranche de 1 000 $ de travaux, minimum residentiel 167,40 $."
+  },
+  {
+   "url": "https://portail-m4s.s3.montreal.ca/pdf/26677_guide_patrimonial_vfinal.pdf",
+   "title": "Guide patrimonial, arrondissement de Mercier Hochelaga Maisonneuve",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-25",
+   "supports": "Tous les travaux de construction, d'agrandissement, de transformation ou de remplacement d'une caracteristique architecturale visible depuis la voie publique doivent faire l'objet d'une autorisation, dont le remplacement des balcons, des escaliers et des garde-corps; note generale du guide: les garde-corps doivent avoir une hauteur de 36 pouces; lexique: fenetre verticale a battants dite a cremone, vantaux pivotant lateralement pouvant s'ouvrir vers l'interieur a la francaise ou vers l'exterieur a l'anglaise, et fenetre a guillotine a chassis superposes glissant dans des rainures verticales; revision architecturale des travaux en secteur significatif."
+  },
+  {
+   "url": "https://montreal.ca/articles/amenager-une-cour-anglaise-dans-vsp-21563",
+   "title": "Aménager une cour anglaise dans VSP",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-25",
+   "supports": "Definition de la cour anglaise comme espace en contrebas donnant acces a un batiment; dimensions minimales de 1,5 m de longueur et 1,5 m de largeur et 1 m de la limite avant sauf pour les escaliers; garde-corps ajoure a au moins 80 % exige pour toute denivellation verticale d'un seul tenant de plus de 0,6 m; la surface basse doit etre drainee par un tuyau d'evacuation acheminant les eaux pluviales vers une fosse de retenue situee a l'interieur du batiment; un logement additionnel au sous-sol desservi par la cour anglaise doit etre conforme aux normes de construction et de zonage; permis exige."
+  },
+  {
+   "url": "https://montreal.ca/demarches/renover-linterieur-dun-batiment",
+   "title": "Rénover l'intérieur d'un bâtiment",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-25",
+   "supports": "Permis obligatoire si les travaux touchent les fondations, modifient la structure ou les murs, augmentent la surface de plancher, ou modifient les dimensions, la division ou l'usage des pieces; aucun permis pour les travaux esthetiques mineurs comme la peinture, le revetement de sol, les armoires, les comptoirs, l'evier ou la baignoire."
+  },
+  {
+   "url": "https://montreal.ca/demarches/renover-un-toit-plat-ou-faible-pente",
+   "title": "Rénover un toit plat ou à faible pente",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-25",
+   "supports": "Permis exige pour remplacer le revetement d'un toit plat ou a faible pente; materiaux autorises dans plusieurs arrondissements limites a un materiau blanc, peint blanc, recouvert d'un enduit reflechissant ou de gravier blanc, ou dont l'indice de reflectance solaire atteint un seuil minimal variant de 56 a 82 selon l'arrondissement; exigences non applicables aux portions du toit occupees par des equipements mecaniques ou par une terrasse."
+  },
+  {
+   "url": "https://montreal.ca/articles/clapet-antiretour-la-cle-pour-prevenir-refoulement-degout-et-inondation-27249",
+   "title": "Clapet antiretour: la clé pour prévenir refoulement d'égout et inondation",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-25",
+   "supports": "Depuis 2011, les clapets doivent etre installes dans tous les nouveaux batiments a Montreal, en vertu du Reglement sur la protection des batiments contre les refoulements d'egout (11-010); installation sur la tuyauterie d'evacuation de chaque appareil ou groupe d'appareils au sous-sol, toilettes, lavabos, douches, laveuse et drains de plancher; verification recommandee deux fois par annee et acces facile a conserver; montants Renoplex de 80 $ pour un clapet normalement ferme, 560 $ par clapet sous une dalle existante et 1 500 $ pour une fosse de retenue avec systeme de pompe, pour les immeubles de 1 a 5 logements admissibles."
+  },
+  {
+   "url": "https://montreal.ca/articles/comment-proteger-son-batiment-face-aux-fortes-pluies-68382",
+   "title": "Comment protéger son bâtiment face aux fortes pluies",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-09-25",
+   "supports": "Les gouttieres exterieures doivent envoyer l'eau de pluie vers une surface permeable et ne pas etre raccordees au drain de fondation; verifier la presence et le bon fonctionnement des clapets antirefoulement sur les appareils de plomberie situes sous le niveau de la rue."
+  },
+  {
+   "url": "https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/download-telecharger/current-actuelle.cfm?Lang=F&DGUIDlist=2021A00052466023&FILETYPE=CSV",
+   "title": "Profil du recensement, Recensement de la population de 2021, Montréal, Ville (V)",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-09-25",
+   "supports": "816 340 logements prives occupes a Montreal en 2021; 58 065 maisons individuelles non attenantes; 107 565 appartements ou plain-pieds dans un duplex; 464 420 appartements dans un immeuble de moins de cinq etages; 293 880 logements construits en 1960 ou avant."
+  },
+  {
+   "url": "https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/download-telecharger/current-actuelle.cfm?Lang=F&DGUIDlist=2021A00052465005&FILETYPE=CSV",
+   "title": "Profil du recensement, Recensement de la population de 2021, Laval, Ville (V)",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-09-25",
+   "supports": "169 785 logements prives occupes a Laval en 2021; 76 010 maisons individuelles non attenantes; 51 730 appartements dans un immeuble de moins de cinq etages; 4 895 appartements ou plain-pieds dans un duplex; periode de construction la plus nombreuse: 55 530 logements de 1961 a 1980."
+  },
+  {
+   "url": "https://www.statcan.gc.ca/o1/en/plus/2717-heat-how-canadians-heat-their-home-during-winter",
+   "title": "The heat is on: How Canadians heat their home during the winter",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-09-25",
+   "supports": "Au Quebec, 58 % des menages declarent utiliser des plinthes electriques et 7 % un chauffage electrique rayonnant."
+  },
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "title": "Formulaire obligatoire Déclarations du vendeur sur l'immeuble, DV 00001",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-25",
+   "supports": "Le formulaire porte sur un immeuble principalement residentiel de moins de 5 logements excluant la copropriete divise. Libelles cites: D2.6 a) a g) loyers, location court terme de moins de 30 jours, avis de residence familiale, avis avec impact sur un bail, avantages non ecrits au bail, dossier au Tribunal administratif du logement, locataire de 70 ans et plus habitant son logement depuis 10 ans ou plus; D2.11 ajout ou modification de fenetres, piscine, cabanon, entree pavee, clotures, galerie, terrasse, avec certificat de localisation possiblement requis; D4.1 infiltrations d'eau et endroits dont sous-sol ou vide sanitaire et toiture; D5.1 type de fondation; D5.2 problemes au sous-sol ou au vide sanitaire; D5.3 deversement de mazout ou d'huile; D7.1 condensation reguliere et importante en hiver, fenetres en premier; D8.1 type de revetement de toiture dont bitume et gravier et membrane elastomere; D8.2 annee d'installation; D8.3 documents attestant le remplacement; D8.6 accumulation reguliere de glace ou de glacons en bordure du toit; D9.2 puisard ou fosse de retention; D9.3 pompe d'evacuation, frequence et annee; D9.4 drain francais et systeme permettant d'y acceder pour l'inspecter et le nettoyer; D9.5 renvois ou drain de fondation modifies; D12.1 source d'energie du chauffage principal; D12.4 reservoir a mazout et annee; D12.12 thermopompe murale ou centrale et annee; D13.1 immeuble deja inspecte et rapports; D13.2 expertises dont pyrite, pyrrhotite, radon, depot d'ocre, amiante, drain de fondation; D14.4 travaux importants, plans et devis, permis emis; D15 precisions."
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/sites/default/files/Acquerir.pdf",
+   "title": "Acquérir un immeuble à logements locatifs",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-09-25",
+   "supports": "Droit au maintien dans les lieux: le locataire a le droit de demeurer dans son logement aussi longtemps qu'il le desire s'il respecte ses obligations; obligation d'indiquer le dernier loyer paye, realisable en completant la section G du formulaire de bail obligatoire; un nouveau locataire peut demander au Tribunal de fixer le loyer s'il verse un montant superieur au loyer le plus bas paye au cours des 12 mois precedant le debut de son bail, et le Tribunal peut ajuster le loyer retroactivement; un proprietaire qui met son immeuble en vente peut faire visiter les logements a un acquereur eventuel avec un avis de 24 heures avant chaque visite, pouvant etre verbal, entre 9 h et 21 h, le locataire pouvant exiger d'etre accompagne."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/en/areas-of-intervention/building/technical-information/building-chapter-from-the-safety-code/residential-occupancies/",
+   "title": "Residential occupancies, Building Chapter of the Safety Code",
+   "publisher": "Regie du batiment du Quebec",
+   "consulted": "2026-09-25",
+   "supports": "L'avertisseur de monoxyde de carbone est obligatoire lorsque le logement comporte un appareil a combustion ou un acces direct a un garage de stationnement interieur."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/domaines-dintervention/equipements-petroliers/",
+   "title": "Équipements pétroliers",
+   "publisher": "Regie du batiment du Quebec",
+   "consulted": "2026-09-25",
+   "supports": "L'article 8.05.01 du Code de construction adopte par renvoi la norme CSA B139, Code d'installation des appareils de combustion au mazout."
+  }
+ ],
+ "claims_needing_review": [
+  "Les normes de toiture reflechissante de Montreal varient par arrondissement: la page consultee affiche un indice de reflectance solaire minimal allant de 56 a 82 selon le territoire, et les frais de permis de 9,80 $ par tranche de 1 000 $ avec minimum residentiel de 167,40 $ peuvent differer. A revalider a la date de publication.",
+  "Les dimensions de la cour anglaise, 1,5 m par 1,5 m, le garde-corps ajoure a 80 % et le drainage vers une fosse de retenue interieure proviennent d'une page propre a l'arrondissement de Villeray Saint-Michel Parc-Extension. L'article ne les presente pas comme une regle montrealaise generale, mais un lecteur pourrait le comprendre ainsi.",
+  "La hauteur de garde-corps de 36 pouces et les regles d'autorisation citees proviennent du guide patrimonial de l'arrondissement de Mercier Hochelaga Maisonneuve. Elles ne s'appliquent pas telles quelles ailleurs a Montreal ni a Laval.",
+  "Le site d'Hydro-Quebec a repondu par une page d'indisponibilite pendant toute la redaction. Aucune affirmation de l'article ne repose donc sur Hydro-Quebec: ni tarif, ni aide financiere, ni part du chauffage electrique. Les chiffres de chauffage viennent uniquement de Statistique Canada.",
+  "Les pages de quebec.ca sur Chauffez vert et l'aide a la thermopompe ont renvoye une verification humaine ou une erreur 405. Aucun montant d'aide financiere n'est donc cite dans l'article.",
+  "LegisQuebec a renvoye une erreur 502 pendant toute la redaction. Le Reglement sur les appareils de chauffage au mazout (Q-2, r. 1.1) n'est donc pas cite, et l'article n'affirme aucune interdiction ni aucune date d'interdiction du chauffage au mazout.",
+  "Le site de la Ville de Laval a renvoye un 403 et une verification Cloudflare. Les regles de clapet antiretour citees sont donc celles de Montreal seulement. Les reglements lavallois L-9618 et L-5057 apparaissent dans des documents de la Ville mais n'ont pas pu etre ouverts, et ne sont pas cites dans l'article.",
+  "Aucune source officielle consultee ne permet d'etablir une regle unique sur l'inclusion d'un sous-sol fini dans la superficie habitable annoncee. L'article le dit explicitement dans la section Questions frequentes plutot que de trancher.",
+  "L'origine historique de l'escalier exterieur montrealais n'est attribuee a aucune cause dans l'article: aucune source municipale consultee ne l'explique. Seules les regles actuelles de permis et de normes sont citees."
+ ]
+}

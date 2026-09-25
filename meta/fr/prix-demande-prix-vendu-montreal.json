@@ -1,0 +1,90 @@
+{
+ "id": "t23",
+ "slug": "prix-demande-prix-vendu-montreal",
+ "title": "Prix demandé et prix vendu à Montréal: lire l'écart",
+ "target_keyword": "prix vendu vs prix demande montreal",
+ "word_count": 1778,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/bidding-wars-truth-montreal/",
+  "/articles/propriete-ne-se-vend-pas-quebec/",
+  "/articles/contester-evaluation-municipale-quebec/",
+  "/articles/marche-immobilier-montreal/",
+  "/tools/home-estimate/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-protection-des-renseignements-personnels/communication-des-renseignements-personnels/",
+   "title": "Ligne directrice Protection des renseignements personnels, section 7 Communication des renseignements personnels, sous-section 7.2.4 Confidentialite du prix vendu et utilisation des comparables",
+   "publisher": "OACIQ",
+   "consulted": "2026-08-21",
+   "supports": "Tant que l acte de vente n a pas ete publie au Registre foncier, le prix qui y est inscrit constitue un renseignement confidentiel concernant l acheteur et le vendeur. Formule exacte du regulateur: le prix de vente obtenu, qu il corresponde ou non au prix initial d inscription. Avec l autorisation de la clause 6.1 du contrat de courtage vente, ce prix peut etre communique au service de diffusion d information entre agences et courtiers, pour etablir des comparables fiables. La banque des proprietes vendues ne peut pas etre diffusee au grand public, et les fiches de comparables remises a un client doivent etre masquees des elements identifiant le vendeur: photos, adresse, nom du proprietaire."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-representation-sollicitation-promotion-et-publicite/publicite-des-transactions-completees/",
+   "title": "Ligne directrice Representation, sollicitation, promotion et publicite, section 7 Publicite des transactions conclues",
+   "publisher": "OACIQ",
+   "consulted": "2026-08-21",
+   "supports": "Pratique interdite: publiciser le prix de vente d un immeuble ou tout pourcentage permettant d en deduire le montant. Le courtier ne peut pas non plus indiquer le prix initialement demande par le vendeur inscrit au contrat de courtage, ni le prix accepte par le vendeur. Articles 111 et 112 du Reglement sur les conditions d exercice d une operation de courtage, sur la deontologie des courtiers et sur la publicite. Risque enonce: si la transaction ne se concretise pas, le vendeur se retrouve en position de vulnerabilite parce que le prix accepte serait deja public. Mention vendu obligatoire des la realisation de toutes les conditions de la promesse acceptee. Le calcul du vendu en x jours se fait de la date de signature du contrat de courtage jusqu a la date de realisation de toutes les conditions, et non de la date d acceptation de la promesse d achat. Page mise a jour le 17 juin 2026, numero de reference 264698."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/etablissement-du-juste-prix-vente-0/",
+   "title": "L evaluation du prix de vente: une responsabilite cle du courtier immobilier",
+   "publisher": "OACIQ",
+   "consulted": "2026-08-21",
+   "supports": "Opinion sur la valeur qui doit etre fondee et motivee conformement aux usages et aux regles de l art, article 76 du RCE. Le prix publicise doit etre celui prevu au contrat de courtage, article 112 du RCE. Phrase centrale de l article: un prix nettement inferieur a la valeur marchande et aux comparables utilises, et ce, dans le but de creer une surenchere, n est pas permis. Analyse comparative avec d autres proprietes semblables recemment vendues dans le meme secteur. Obligation, pendant la duree du contrat de courtage, de conseiller et d informer le vendeur afin qu il puisse ajuster le prix en fonction de l evolution du marche. Page mise a jour le 17 decembre 2025."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/quoi-faire-en-situation-de-promesses-dachat-multiples/",
+   "title": "Quoi faire en situation de promesses d achat multiples?",
+   "publisher": "OACIQ",
+   "consulted": "2026-08-21",
+   "supports": "Obligation d informer sans delai les autres courtiers ou acheteurs potentiels de l existence de toute promesse d achat, sans toutefois en devoiler le contenu. Obligation de presenter toutes les propositions dans les meilleurs delais suivant leur reception, sans tenir compte de l ordre chronologique, de l identite des acheteurs ou des courtiers qui les representent, ni des circonstances entourant la remise. Avertissement explicite au vendeur: la strategie de recevoir toutes les promesses a une date et heure donnees est contraire a l obligation du courtier. Droit du vendeur de refuser une promesse d achat meme si le prix et les conditions correspondent a ses attentes, avec reserve de la clause 7.1.2 du contrat de courtage."
+  },
+  {
+   "url": "https://apciqca-152af.kxcdn.com/wp-content/uploads/sites/4/2026/08/2026-08-06_communique_apciq_montreal_fr.pdf",
+   "title": "Communique de presse, Statistiques de ventes residentielles Centris, juillet 2026, RMR de Montreal, 6 aout 2026",
+   "publisher": "APCIQ",
+   "consulted": "2026-08-21",
+   "supports": "Juillet 2026 dans la RMR de Montreal: 3 338 ventes residentielles par l entremise du systeme Centris, 19 790 inscriptions en vigueur soit une hausse de 17 % sur un an, delai de vente moyen de 38 jours pour l unifamiliale (3 jours de plus qu un an avant), de 55 jours pour la copropriete (9 jours de plus) et de 46 jours pour le plex. Sert aussi a etablir que les communiques mensuels de l APCIQ ne publient ni ratio du prix vendu sur le prix demande, ni proportion de ventes conclues au-dessus du prix affiche."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/information-fonciere/Documents/GR_tarif_registre_foncier_cadastre_MRNF.pdf",
+   "title": "Sommaire, tarification des produits et services du registre foncier et du cadastre, en vigueur a compter du 1er avril 2026",
+   "publisher": "Ministere des Ressources naturelles et des Forets",
+   "consulted": "2026-08-21",
+   "supports": "Consultation d un document du registre foncier, index des immeubles, acte ou plan cadastral: 1,50 $ par document, en vigueur a compter du 1er avril 2026. Appuie l affirmation que le prix de vente n est pas secret mais differe: une fois l acte publie, le document se consulte pour ce tarif."
+  },
+  {
+   "url": "https://montreal.ca/sujets/valeur-fonciere-dune-propriete",
+   "title": "Valeur fonciere d une propriete",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-08-21",
+   "supports": "Pour les roles 2026-2027-2028, les conditions du marche retenues sont celles du 1er juillet 2024, soit 18 mois avant l entree en vigueur du role. Definition de la valeur inscrite comme la valeur d echange sur un marche libre et ouvert a la concurrence."
+  },
+  {
+   "url": "https://montreal.ca/demarches/consulter-les-ventes-de-propriete-de-son-secteur",
+   "title": "Consulter les ventes de propriete de son secteur",
+   "publisher": "Ville de Montreal",
+   "consulted": "2026-08-21",
+   "supports": "Service offert au proprietaire d un immeuble residentiel de cinq logements ou moins, qui affiche des prix de vente reels de son secteur; l annee 2024 est l annee de reference utilisee pour la confection des roles 2026-2027-2028. Avertissement de la Ville: ces ventes peuvent, ou non, etre comparables a votre propriete, elles sont presentees a titre indicatif et ne remplacent pas le travail d analyse d un evaluateur agree."
+  },
+  {
+   "url": "https://www.laval.ca/taxes-evaluation-fonciere/evaluation-fonciere/role-evaluation-fonciere/",
+   "title": "Role d evaluation fonciere",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-08-21",
+   "supports": "Role d evaluation actuel 2025-2026-2027, entree en vigueur le 1er janvier 2025, date de reference au marche le 1er juillet 2023, soit 18 mois avant l entree en vigueur. Phrase citee: l evaluation de votre propriete ne reflete donc pas forcement sa valeur marchande actuelle. Explication citee: pour le role triennal 2025-2026-2027, l evaluateur a determine la valeur de votre propriete en fonction de cette derniere visite et du prix probable que vous auriez pu obtenir si vous aviez vendu votre propriete le 1er juillet 2023."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/evaluation_fonciere/documentation/role_evaluation_contenu.pdf",
+   "title": "Le role d evaluation fonciere et son contenu",
+   "publisher": "Ministere des Affaires municipales et de l Habitation",
+   "consulted": "2026-08-21",
+   "supports": "Le role d evaluation est un inventaire des immeubles situes sur le territoire d une municipalite, evalues sur une meme base et a une meme date, en vigueur pour trois ans. Definition de la date de reference au marche: date a laquelle les conditions du marche immobilier ont ete considerees pour etablir les valeurs inscrites au role."
+  }
+ ],
+ "claims_needing_review": []
+}

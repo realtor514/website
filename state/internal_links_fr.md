@@ -8,7 +8,9 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Analyse de marché
 - [Coût de la vie en banlieue de Montréal: le vrai calcul](/articles/banlieue-ou-ville-cout-reel-montreal/) : Prix médians d'août 2026, taxes, passe mensuelle contre deuxième voiture, temps de trajet: le coût réel d
 - [Marché immobilier de Montréal et Laval: lire les données, pas les prédictions](/articles/marche-immobilier-montreal/) : Ventes, inscriptions, prix médians, inoccupation, population: comment lire les données datées de l'APCIQ,
+- [Meilleur moment pour acheter à Montréal: les données d'août](/articles/acheter-fin-ete-montreal-donnees/) (brouillon) : Le meilleur moment pour acheter à Montréal se lit dans le stock, le délai de vente et les mois d'inventai
 - [Parler d'un krach immobilier à Montréal : ce que les données permettent de dire](/articles/montreal-market-crash-analysis/) : Ventes, inscriptions, prix médians, délais de vente : ce que les données publiques de l'APCIQ, de l'ISQ e
+- [Prix demandé et prix vendu à Montréal: lire l'écart](/articles/prix-demande-prix-vendu-montreal/) (brouillon) : Prix demandé et prix vendu à Montréal: qui voit le prix de vente, quand il devient public au Registre fon
 
 ## Conseils honnêtes
 - [Huit situations où il ne faut pas acheter, même si la banque dit oui](/articles/when-not-to-buy-real-estate/) : Emploi récent, dette à taux élevé, mise de fonds empruntée, horizon trop court : les cas où attendre coût
@@ -27,6 +29,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Préapprobation hypothécaire : ce qu'elle garantit, ce qu'elle ne garantit pas](/articles/mortgage-preapproval-mistakes/) : Validité, ratios ABD et ATD, test de résistance, vérification de crédit et évaluation du prêteur : les er
 - [Pénalité pour casser une hypothèque : le calcul au Québec](/articles/casser-hypotheque-penalite-quebec/) : Trois mois d'intérêts ou différentiel de taux, taux affiché contre taux consenti, quittance et Registre f
 - [Quel salaire faut-il pour acheter à Montréal ou à Laval?](/articles/quel-salaire-pour-acheter-montreal/) : La question n'est pas seulement le salaire. Voici comment les prêteurs calculent réellement votre capacit
+- [Quelles déductions un propriétaire peut réclamer au Québec](/articles/impots-proprietaire-quebec-deductions/) (brouillon) : Déductions du propriétaire au Québec: rien sur la résidence principale, tout sur l'immeuble loué, et deux
 - [Refinancement hypothécaire au Québec : est-ce rentable ?](/articles/refinancement-hypothecaire-quebec/) : Renouvellement, transfert ou refinancement hypothécaire au Québec : le plafond de 80 %, la pénalité, l'as
 - [Rembourser son hypothèque plus vite au Québec](/articles/rembourser-hypotheque-plus-vite-quebec/) : Paiement accéléré, versement forfaitaire, hausse du paiement, renouvellement : les quatre leviers pour re
 - [Taux d'intérêt et marché immobilier de Montréal : comment ça se transmet vraiment](/articles/interest-rates-montreal-market/) : Taux directeur, taux préférentiel, marché obligataire, test de résistance, renouvellement : le chemin rée
@@ -49,6 +52,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Choisir un inspecteur en bâtiment au Québec](/articles/choisir-inspecteur-batiment-quebec/) : Aucun permis n'est encore obligatoire au Québec. Comment choisir un inspecteur en bâtiment: certificat RB
 - [Comparer les secteurs de la Rive-Nord : la méthode et les sources](/articles/rive-nord-guide-laval/) : Transport, taxes, zonage, écoles, zones inondables : les critères vérifiables pour comparer deux secteurs
 - [Copropriété ou maison à Montréal : ce que vous achetez vraiment](/articles/condo-vs-house-montreal/) : Fraction, parties communes, déclaration de copropriété, assurances, votes en assemblée et capacité d'empr
+- [Durée de vie d’une toiture et des fenêtres au Québec](/articles/duree-de-vie-composantes-maison-quebec/) (brouillon) : Durée de vie prévue d’une toiture, de fenêtres, d’une thermopompe : les chiffres officiels, la vie utile 
 - [Frais de condo et fonds de prévoyance : ce qu'il faut vérifier avant d'acheter](/articles/condo-fees-investment-killer/) : Fonds de prévoyance, carnet d'entretien, attestation du syndicat, cotisation spéciale : les règles québéc
 - [Garantie GCR maison neuve au Québec : 1 an, 3 ans, 5 ans](/articles/garantie-gcr-maison-neuve-quebec/) : Bâtiments couverts et exclus, inspection préréception, 1, 3 et 5 ans, délais de dénonciation, arbitrage :
 - [Guerre d'offres à Montréal : comment fonctionne vraiment une surenchère au Québec](/articles/bidding-wars-truth-montreal/) : Promesses d'achat multiples au Québec : ce que le courtier inscripteur doit faire, ce que le vendeur déci
@@ -61,6 +65,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Maison difficile à assurer au Québec: ce qui bloque](/articles/maison-difficile-assurer-quebec/) : Refus d'assurance, mazout, aluminium, toiture, sinistres passés: pourquoi une maison devient difficile à 
 - [Maison intergénérationnelle à Laval et Montréal : le règlement](/articles/maison-intergenerationnelle-laval-montreal/) : Permis, logement additionnel, résidence principale, financement : le règlement de la maison intergénérati
 - [Maison neuve ou usagée au Québec : ce qui diffère vraiment](/articles/maison-neuve-ou-existante-quebec/) : TPS et TVQ, garantie GCR, contrat préliminaire, droits de mutation : ce qui sépare réellement une maison 
+- [Maison québécoise: les particularités de construction](/articles/particularites-maison-quebecoise/) (brouillon) : Escalier extérieur, sous-sol habité, toit plat, plex, drain français, chauffage électrique: les particula
 - [Maison à rénover ou clé en main au Québec: qui finance](/articles/cle-en-main-ou-a-renover-quebec/) : Maison à rénover ou clé en main au Québec: le prêt SCHL Améliorations, la valeur après travaux, les avanc
 - [Négocier une propriété à Montréal : les vrais leviers, ceux que le formulaire autorise](/articles/strategies-negociation-immobilier/) : Promesse d'achat, conditions, acompte, date d'occupation : les vrais leviers de négociation au Québec, et
 - [Première visite d'une propriété : quoi vérifier avant de tomber amoureux](/articles/first-visit-property-checklist/) : Documents à demander, quoi regarder dehors et dedans, pyrite, mazout, filage d'aluminium, plomb : la prem
@@ -107,8 +112,10 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Première rencontre courtier immobilier: les documents](/articles/preparer-rencontre-courtier-documents/) : Certificat de localisation, acte de vente, comptes de taxes, baux: les documents à réunir avant la premiè
 - [Règlement piscine résidentielle Québec: l'échéance 2027](/articles/reglement-piscine-securite-quebec/) : Règlement piscine résidentielle au Québec: enceinte, porte, échelle, permis, amende, et le 30 septembre 2
 - [Réduire sa facture de chauffage au Québec: par où commencer](/articles/reduire-facture-chauffage-quebec/) : Tarif D, tranche de 40 kWh, isolation, thermopompe et aides 2026: comment réduire sa facture de chauffage
+- [Rénovations et résilience au climat: la règle au Québec](/articles/renovations-resilience-climat-quebec/) (brouillon) : Clapet antiretour, membrane blanche, gouttières à un mètre: les rénovations de résilience au climat exigé
 - [Test de radon dans une maison au Québec : le calendrier](/articles/radon-maison-quebec-depistage/) : Ligne directrice de 200 Bq/m³, test de trois mois en saison de chauffage, clause 3.21 et déclaration du v
 - [Troubles de voisinage au Québec : les recours](/articles/troubles-de-voisinage-quebec/) : Article 976, vues à 1,5 m, clôture mitoyenne, médiation et petites créances : les recours en troubles de 
+- [Vice caché découvert pendant une rénovation au Québec](/articles/vice-cache-pendant-renovation-quebec/) (brouillon) : Vice caché découvert pendant une rénovation: arrêter, documenter, dénoncer par écrit. La séquence exacte,
 
 ## Immobilier 101
 - [5 questions à poser avant d'engager un courtier immobilier](/articles/questions-hire-broker/) : La plupart des gens choisissent un courtier sur une recommandation ou une pancarte. Voici les cinq questi
@@ -136,6 +143,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Acheter un triplex à Laval : ce qu'il faut vérifier avant de faire une offre](/articles/investir-triplex-laval/) : Mise de fonds, calcul des loyers par le prêteur, taxes et droits de mutation à Laval, encadrement du TAL,
 - [Acheter une maison pour démolir au Québec: le permis](/articles/acheter-pour-demolir-permis-quebec/) : Comité de démolition, avis public, 10 jours d'opposition, projet de remplacement, amiante: ce qu'exige un
 - [Acheter une propriété au Québec en tant qu'étranger](/articles/acheteur-etranger-achat-quebec/) : Acheter une propriété au Québec en tant qu'étranger: l'interdiction fédérale, les exceptions, la mise de 
+- [Ajouter un logement accessoire au Québec : le cadre](/articles/rentabiliser-terrain-zonage-quebec/) (brouillon) : Ajouter un logement accessoire au Québec : le permis à Laval et à Montréal, les coûts publiés, le revenu 
 - [Augmenter la valeur d'un plex à Montréal ou à Laval](/articles/maximiser-valeur-plex-montreal/) : Augmenter la valeur d'un plex : ce que la fixation de loyer du TAL permet depuis 2026, les travaux récupé
 - [Comment bâtir un portefeuille immobilier dans le Grand Montréal à partir de zéro](/articles/build-real-estate-portfolio/) : Mise de fonds selon le nombre de logements, test de résistance, refinancement à 80 %, encadrement des loy
 - [Gérer des propriétés locatives à Montréal et Laval : ce que les premiers propriétaires doivent savoir](/articles/rental-property-management/) : Section G, sélection du locataire, dépôt interdit, avis d'augmentation, reprise, éviction, non-paiement e

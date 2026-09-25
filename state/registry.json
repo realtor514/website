@@ -413,6 +413,42 @@
    "slug": "vice-cache-pendant-renovation-quebec",
    "keyword": "vice cache decouvert renovation quebec",
    "state": "in_progress"
+  },
+  {
+   "id": "t206",
+   "slug": "cabanon-abri-auto-garage-permis-quebec",
+   "keyword": "permis cabanon quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t213",
+   "slug": "poele-foyer-bois-reglement-assurance-quebec",
+   "keyword": "reglement poele a bois montreal",
+   "state": "in_progress"
+  },
+  {
+   "id": "t220",
+   "slug": "prevention-incendie-assurance-habitation-quebec",
+   "keyword": "avertisseur de fumee obligation quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t221",
+   "slug": "systeme-alarme-domotique-assurance-quebec",
+   "keyword": "rabais assurance systeme d'alarme quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t229",
+   "slug": "solarium-veranda-permis-evaluation-quebec",
+   "keyword": "permis solarium agrandissement quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t233",
+   "slug": "sinistres-frequents-couverture-habitation-quebec",
+   "keyword": "sinistres frequents assurance habitation quebec",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -484,7 +520,13 @@
   "prix-demande-prix-vendu-montreal",
   "impots-proprietaire-quebec-deductions",
   "duree-de-vie-composantes-maison-quebec",
-  "vice-cache-pendant-renovation-quebec"
+  "vice-cache-pendant-renovation-quebec",
+  "cabanon-abri-auto-garage-permis-quebec",
+  "poele-foyer-bois-reglement-assurance-quebec",
+  "prevention-incendie-assurance-habitation-quebec",
+  "systeme-alarme-domotique-assurance-quebec",
+  "solarium-veranda-permis-evaluation-quebec",
+  "sinistres-frequents-couverture-habitation-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -555,7 +597,13 @@
   "prix vendu vs prix demande montreal",
   "deductions impot proprietaire quebec",
   "duree de vie toiture fenetres quebec",
-  "vice cache decouvert renovation quebec"
+  "vice cache decouvert renovation quebec",
+  "permis cabanon quebec",
+  "reglement poele a bois montreal",
+  "avertisseur de fumee obligation quebec",
+  "rabais assurance systeme d'alarme quebec",
+  "permis solarium agrandissement quebec",
+  "sinistres frequents assurance habitation quebec"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -626,6 +674,12 @@
   "Prix demande et prix vendu a Montreal: comprendre l'ecart",
   "Proprietaire et impots au Quebec: ce qui se deduit vraiment",
   "Duree de vie des composantes d'une maison au Quebec",
-  "Un vice cache decouvert pendant les travaux: la marche a suivre au Quebec"
+  "Un vice cache decouvert pendant les travaux: la marche a suivre au Quebec",
+  "Cabanon, abri d'auto et garage detache au Quebec: permis, marges et evaluation",
+  "Poele et foyer au bois au Quebec: reglement, ramonage, assurance et vente",
+  "Prevention incendie et assurance habitation au Quebec: les obligations",
+  "Systeme d'alarme et domotique au Quebec: le rabais d'assurance reel",
+  "Solarium, veranda et agrandissement au Quebec: permis, structure et evaluation",
+  "Les sinistres les plus frequents au Quebec et ce que la police couvre"
  ]
 }

@@ -1,0 +1,69 @@
+{
+ "id": "t25",
+ "slug": "duree-de-vie-composantes-maison-quebec",
+ "title": "Durée de vie d’une toiture et des fenêtres au Québec",
+ "target_keyword": "duree de vie toiture fenetres quebec",
+ "word_count": 1833,
+ "category": "Guide de l'acheteur",
+ "internal_links": [
+  "/articles/loi-16-copropriete-acheteur-quebec/",
+  "/articles/maison-difficile-assurer-quebec/",
+  "/articles/home-inspection-checklist-montreal/",
+  "/articles/declaration-du-vendeur-quebec/",
+  "/articles/cout-entretien-maison-quebec/",
+  "/buyer/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://assets.cmhc-schl.gc.ca/sites/housing%20catalog/resources/housing-hesign-catalogue-materials-guide-fr.pdf",
+   "title": "Catalogue de conception de logements: Guide sur les matériaux, août 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-09-25",
+   "supports": "Tableau des durées de vie prévues, section 2 Couverture: bardeaux d'asphalte 20 ans, bardeaux de cèdre 20 ans, couverture multicouche à 4 feuilles 20 ans, bitume modifié à 2 feuilles SBS 30 ans, TPO monocouche 30 ans, EPDM monocouche 30 ans, tôle d'acier ondulée 40 ans, préfini à joints debout 60 ans, ardoise naturelle et de fibrociment 60 ans. Section 7 Fenêtres: ossature de vinyle isolée 20 ans, ossatures de bois, de bois gainé d'aluminium, de composite bois-plastique, de fibre de verre isolée et d'aluminium anodisé 30 ans, la donnée couvrant la fenêtre complète (cadre, vitrage, quincaillerie, matériaux d'étanchéité et joints). Section 8: portes extérieures 40 ans. Mises en garde du guide: les chiffres sont des moyennes de fournisseurs de partout au Canada, la durée de vie prévue reflète la durée de vie normale dans des conditions normales d'utilisation et d'entretien, elle dépend fortement des conditions d'exposition et de l'entretien et peut donc varier considérablement."
+  },
+  {
+   "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/lois_reglements/2025F/86184.pdf",
+   "title": "Règlement établissant diverses règles en matière de copropriété divise, décret 991-2025, Gazette officielle du Québec, 30 juillet 2025",
+   "publisher": "Éditeur officiel du Québec",
+   "consulted": "2026-09-25",
+   "supports": "Article 3: le carnet d'entretien contient, dans une section consacrée exclusivement à cette fin, une estimation de l'état et de la durée de vie utile restante des matériaux, des appareils et des équipements, puis une description des réparations majeures et des remplacements à effectuer durant minimalement les 25 prochaines années, avec une année de réalisation estimée pour chacun. Article 2: inventaire des parties communes, date d'installation si connue, travaux d'entretien requis et leur fréquence, réparations courantes, contrats de garantie, rapports d'inspection, manuels d'entretien du fabricant. Article 6: déclaration signée attestant que les parties communes ont été examinées sur place par la personne ou sous sa supervision. Article 8: étude du fonds de prévoyance obtenue minimalement tous les 5 ans, basée sur la description de l'article 3. Article 15: entrée en vigueur le quinzième jour suivant la publication."
+  },
+  {
+   "url": "https://infoassurance.ca/media/mzfllwrq/tout-connaitre-assurance-et-dommages-causes-par-l-eau.pdf",
+   "title": "Tout connaître sur l'assurance et les dommages causés par l'eau",
+   "publisher": "Bureau d'assurance du Canada",
+   "consulted": "2026-09-25",
+   "supports": "Tableau des sinistres, page 5: l'exemple « Votre toiture a atteint sa durée de vie utile et vous tardez à la changer. Il en résulte une infiltration d'eau qui cause de l'humidité et des moisissures sur le plafond et les murs intérieurs de l'habitation » est classé « Non couvert », sous la catégorie « Dommages causés par l'humidité, la condensation, la pourriture, les moisissures et la détérioration graduelle ». Page 3: les dommages graduels et répétés causés par l'eau ne sont jamais couverts. Conseils de prévention, page 5 et 6: « Si votre toit a plus de 20 ans, faites-le inspecter par un professionnel »; calfeutrage des portes et des fenêtres, « Vérifiez l'état une fois l'an »; « Chauffe-eau: pensez à le changer après 10 ans, sinon, inspectez-le régulièrement »."
+  },
+  {
+   "url": "https://infoassurance.ca/media/t4qdqar4/tout-connaitre-habitation.pdf",
+   "title": "Tout connaître sur l'assurance habitation",
+   "publisher": "Bureau d'assurance du Canada",
+   "consulted": "2026-09-25",
+   "supports": "Indemnisation: à défaut d'une indemnisation en valeur à neuf, l'assuré est indemnisé selon la valeur au jour du sinistre, « c'est-à-dire en tenant compte de leur usure et de leur dépréciation ». Obligation de l'assureur: remettre les biens dans le même état qu'avant le sinistre, « si le vent a endommagé votre toiture, votre assureur doit faire réparer la partie endommagée, et non la refaire complètement ». Au renouvellement, l'assuré doit signaler notamment une toiture refaite, une conversion du système de chauffage, un changement de plomberie et le remplacement des portes et fenêtres."
+  },
+  {
+   "url": "https://www.laval.ca/reglements-permis/trouver-mon-permis/renovation-residentielle-exterieure/",
+   "title": "Permis de rénovation ou de réparation résidentielle extérieure",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-25",
+   "supports": "Tableau des travaux: aucun permis pour le remplacement du revêtement de la toiture avec le même matériau et ajout d'isolation, permis requis pour un remplacement avec un nouveau matériau; aucun permis pour le remplacement des portes et fenêtres en gardant les mêmes dimensions, permis requis si les dimensions sont modifiées, s'il y a ajout, ou pour le remplacement de celles situées à moins de 1,5 m de la ligne de terrain; aucun permis pour installer une thermopompe ou un appareil de climatisation, ni pour remplacer un drain français, permis requis pour l'ajout d'un drain français. Frais du permis de construction: 92 $ pour le premier 20 000 $ plus 2,50 $ par tranche ou partie de tranche de 1 000 $. Délai annoncé: 30 jours."
+  },
+  {
+   "url": "https://montreal.ca/articles/entretenir-les-chaussees-toute-lannee-20383",
+   "title": "Entretenir les chaussées toute l'année",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-25",
+   "supports": "Mécanisme du gel-dégel: les nids-de-poule se forment « à la suite d'une alternance entre périodes de gel et de dégel, pendant l'hiver et au début du printemps »; lors d'un dégel l'eau s'infiltre sous la chaussée, et si un gel survient « l'eau se transforme en glace et la soulève ». Volume: « Chaque année, la Ville répare entre 120 000 et 200 000 nids-de-poule uniquement sur le réseau artériel. »"
+  },
+  {
+   "url": "https://ressources-naturelles.canada.ca/efficacite-energetique/energy-star/chauffage-refroidissement-aide-thermopompe",
+   "title": "Le chauffage et le refroidissement à l'aide d'une thermopompe",
+   "publisher": "Ressources naturelles Canada",
+   "consulted": "2026-09-25",
+   "supports": "Section Durée de service et garanties: « La durée utile des thermopompes à air varie de 15 à 20 ans. »"
+  }
+ ],
+ "claims_needing_review": []
+}

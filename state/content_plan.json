@@ -547,7 +547,7 @@
    ],
    "slug": "particularites-maison-quebecoise",
    "translationKey": "article-particularites-maison-quebecoise",
-   "status": "in_progress",
+   "status": "written_draft",
    "gate1": {
     "slug": {
      "v": "PASS",
@@ -569,7 +569,9 @@
      "s": 0.1084,
      "match": "/articles/reduire-facture-chauffage-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/particularites-maison-quebecoise.md",
+   "date": "2026-09-08"
   },
   {
    "id": "t13",
@@ -736,7 +738,7 @@
    "translationKey": "article-land-potential-zoning",
    "needs_expert_review": false,
    "id": "t16",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -759,7 +761,9 @@
      "s": 0.1971,
      "match": "/articles/valeur-terrain-zonage-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/rentabiliser-terrain-zonage-quebec.md",
+   "date": "2026-09-21"
   },
   {
    "ref_id": 1271,
@@ -784,7 +788,7 @@
    "translationKey": "article-climate-resilient-renos",
    "needs_expert_review": false,
    "id": "t17",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -807,7 +811,9 @@
      "s": 0.1216,
      "match": "/articles/ventre-de-boeuf-drain-montreal/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/renovations-resilience-climat-quebec.md",
+   "date": "2026-09-19"
   },
   {
    "ref_id": 1252,
@@ -882,7 +888,7 @@
    "translationKey": "article-fall-buying-window",
    "needs_expert_review": false,
    "id": "t19",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -905,7 +911,9 @@
      "s": 0.1587,
      "match": "/articles/off-market-properties/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/acheter-fin-ete-montreal-donnees.md",
+   "date": "2026-08-26"
   },
   {
    "ref_id": 1235,
@@ -1078,7 +1086,7 @@
    "translationKey": "article-list-vs-sold-price",
    "needs_expert_review": false,
    "id": "t23",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1101,7 +1109,9 @@
      "s": 0.1091,
      "match": "/articles/strategies-negociation-immobilier/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/prix-demande-prix-vendu-montreal.md",
+   "date": "2026-09-12"
   },
   {
    "ref_id": 1182,
@@ -1126,7 +1136,7 @@
    "translationKey": "article-homeowner-tax-quebec",
    "needs_expert_review": true,
    "id": "t24",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1149,7 +1159,9 @@
      "s": 0.4425,
      "match": "/articles/impot-proprietaire-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/impots-proprietaire-quebec-deductions.md",
+   "date": "2026-09-04"
   },
   {
    "ref_id": 1180,
@@ -1174,7 +1186,7 @@
    "translationKey": "article-component-lifespan",
    "needs_expert_review": false,
    "id": "t25",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1197,7 +1209,9 @@
      "s": 0.1877,
      "match": "/articles/cout-entretien-maison-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/duree-de-vie-composantes-maison-quebec.md",
+   "date": "2026-08-30"
   },
   {
    "ref_id": 1179,
@@ -1222,7 +1236,7 @@
    "translationKey": "article-hidden-defect-renovation",
    "needs_expert_review": true,
    "id": "t26",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1245,7 +1259,9 @@
      "s": 0.1542,
      "match": "/articles/vice-cache-conditions-recours-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/vice-cache-pendant-renovation-quebec.md",
+   "date": "2026-09-25"
   },
   {
    "ref_id": 1170,
@@ -8512,7 +8528,7 @@
     "Questions frequentes du vendeur et de l'acheteur"
    ],
    "slug": "cabanon-abri-auto-garage-permis-quebec",
-   "status": "clear",
+   "status": "in_progress",
    "distinct_de": "/articles/renovations-dont-add-value/"
   },
   {
@@ -8663,7 +8679,7 @@
     "Questions frequentes"
    ],
    "slug": "poele-foyer-bois-reglement-assurance-quebec",
-   "status": "clear",
+   "status": "in_progress",
    "distinct_de": "/articles/maison-difficile-assurer-quebec/"
   },
   {
@@ -8818,7 +8834,7 @@
     "Questions frequentes"
    ],
    "slug": "prevention-incendie-assurance-habitation-quebec",
-   "status": "clear",
+   "status": "in_progress",
    "distinct_de": "/articles/maison-difficile-assurer-quebec/"
   },
   {
@@ -8841,7 +8857,7 @@
     "Questions frequentes"
    ],
    "slug": "systeme-alarme-domotique-assurance-quebec",
-   "status": "clear"
+   "status": "in_progress"
   },
   {
    "id": "t222",
@@ -9018,7 +9034,7 @@
     "Questions frequentes"
    ],
    "slug": "solarium-veranda-permis-evaluation-quebec",
-   "status": "clear",
+   "status": "in_progress",
    "distinct_de": "/articles/renovations-dont-add-value/"
   },
   {
@@ -9106,7 +9122,7 @@
     "L'effet d'une reclamation sur la prime et sur la revente"
    ],
    "slug": "sinistres-frequents-couverture-habitation-quebec",
-   "status": "clear",
+   "status": "in_progress",
    "distinct_de": "/articles/maison-difficile-assurer-quebec/"
   },
   {
