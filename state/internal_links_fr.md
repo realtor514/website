@@ -61,6 +61,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Maison difficile à assurer au Québec: ce qui bloque](/articles/maison-difficile-assurer-quebec/) : Refus d'assurance, mazout, aluminium, toiture, sinistres passés: pourquoi une maison devient difficile à 
 - [Maison intergénérationnelle à Laval et Montréal : le règlement](/articles/maison-intergenerationnelle-laval-montreal/) : Permis, logement additionnel, résidence principale, financement : le règlement de la maison intergénérati
 - [Maison neuve ou usagée au Québec : ce qui diffère vraiment](/articles/maison-neuve-ou-existante-quebec/) : TPS et TVQ, garantie GCR, contrat préliminaire, droits de mutation : ce qui sépare réellement une maison 
+- [Maison à rénover ou clé en main au Québec: qui finance](/articles/cle-en-main-ou-a-renover-quebec/) : Maison à rénover ou clé en main au Québec: le prêt SCHL Améliorations, la valeur après travaux, les avanc
 - [Négocier une propriété à Montréal : les vrais leviers, ceux que le formulaire autorise](/articles/strategies-negociation-immobilier/) : Promesse d'achat, conditions, acompte, date d'occupation : les vrais leviers de négociation au Québec, et
 - [Première visite d'une propriété : quoi vérifier avant de tomber amoureux](/articles/first-visit-property-checklist/) : Documents à demander, quoi regarder dehors et dedans, pyrite, mazout, filage d'aluminium, plomb : la prem
 - [Promesse d'achat refusée : la méthode pour ne pas surpayer la fois suivante](/articles/losing-bidding-war-lessons/) : Votre promesse d'achat a été refusée. Ce qui se passe juridiquement, le post-mortem en quatre questions, 
@@ -99,12 +100,15 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Abattage d'arbre au Québec : le règlement et la propriété](/articles/arbres-propriete-reglements-quebec/) : À qui appartient l'arbre, ce que le Code civil permet entre voisins, le permis d'abattage à Montréal et à
 - [Choisir un entrepreneur en rénovation au Québec](/articles/choisir-entrepreneur-renovation-rbq-quebec/) : Licence RBQ et sous-catégories, contrat, retenue, hypothèque légale: choisir un entrepreneur en rénovatio
 - [Coût d'entretien d'une maison au Québec : le calendrier](/articles/cout-entretien-maison-quebec/) : Durées de vie par composant, effet du climat, réserve annuelle : le coût d'entretien d'une maison au Québ
+- [Coût d'une piscine creusée au Québec: le calcul annuel](/articles/vrai-cout-piscine-residentielle-quebec/) : Coût d'une piscine creusée au Québec: électricité selon Hydro-Québec, eau, assurance, permis, et ce que l
 - [Déménager à Montréal ou à Laval : la liste complète, échéance par échéance](/articles/moving-checklist-montreal/) : Avis de bail, cession, changement d'adresse, Hydro-Québec, permis de camion, écocentres : la liste de dém
 - [Fonte des neiges et infiltration d'eau au sous-sol](/articles/fonte-neiges-infiltration-clapet-montreal/) : Fonte des neiges et infiltration d'eau au sous-sol à Montréal: pente, margelle, toit, gouttières, avenant
+- [Permis de rénovation à Montréal et Laval: l'hiver](/articles/renover-hiver-permis-montreal-laval/) : Béton, toiture, intérieur: ce que le froid bloque vraiment, et pourquoi un permis de rénovation à Montréa
 - [Première rencontre courtier immobilier: les documents](/articles/preparer-rencontre-courtier-documents/) : Certificat de localisation, acte de vente, comptes de taxes, baux: les documents à réunir avant la premiè
 - [Règlement piscine résidentielle Québec: l'échéance 2027](/articles/reglement-piscine-securite-quebec/) : Règlement piscine résidentielle au Québec: enceinte, porte, échelle, permis, amende, et le 30 septembre 2
 - [Réduire sa facture de chauffage au Québec: par où commencer](/articles/reduire-facture-chauffage-quebec/) : Tarif D, tranche de 40 kWh, isolation, thermopompe et aides 2026: comment réduire sa facture de chauffage
 - [Test de radon dans une maison au Québec : le calendrier](/articles/radon-maison-quebec-depistage/) : Ligne directrice de 200 Bq/m³, test de trois mois en saison de chauffage, clause 3.21 et déclaration du v
+- [Troubles de voisinage au Québec : les recours](/articles/troubles-de-voisinage-quebec/) : Article 976, vues à 1,5 m, clôture mitoyenne, médiation et petites créances : les recours en troubles de 
 
 ## Immobilier 101
 - [5 questions à poser avant d'engager un courtier immobilier](/articles/questions-hire-broker/) : La plupart des gens choisissent un courtier sur une recommandation ou une pancarte. Voici les cinq questi
@@ -130,6 +134,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Acheter un chalet au Québec : puits, septique et accès](/articles/acheter-un-chalet-quebec-verifications/) : Bande riveraine, fosse septique, puits, chemin privé, assurance et financement : les vérifications avant 
 - [Acheter un immeuble commercial au Québec : vérifications](/articles/verifications-immeuble-commercial-quebec/) : Permis du courtier, baux, étude phase I, zonage, taxe non résidentielle, TPS et TVQ : les vérifications a
 - [Acheter un triplex à Laval : ce qu'il faut vérifier avant de faire une offre](/articles/investir-triplex-laval/) : Mise de fonds, calcul des loyers par le prêteur, taxes et droits de mutation à Laval, encadrement du TAL,
+- [Acheter une maison pour démolir au Québec: le permis](/articles/acheter-pour-demolir-permis-quebec/) : Comité de démolition, avis public, 10 jours d'opposition, projet de remplacement, amiante: ce qu'exige un
 - [Acheter une propriété au Québec en tant qu'étranger](/articles/acheteur-etranger-achat-quebec/) : Acheter une propriété au Québec en tant qu'étranger: l'interdiction fédérale, les exceptions, la mise de 
 - [Augmenter la valeur d'un plex à Montréal ou à Laval](/articles/maximiser-valeur-plex-montreal/) : Augmenter la valeur d'un plex : ce que la fixation de loyer du TAL permet depuis 2026, les travaux récupé
 - [Comment bâtir un portefeuille immobilier dans le Grand Montréal à partir de zéro](/articles/build-real-estate-portfolio/) : Mise de fonds selon le nombre de logements, test de résistance, refinancement à 80 %, encadrement des loy

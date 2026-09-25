@@ -7,7 +7,7 @@ category: "Investissement"
 description: "Comité de démolition, avis public, 10 jours d'opposition, projet de remplacement, amiante: ce qu'exige une autorisation de démolition au Québec."
 image: "images/articles/acheter-pour-demolir-permis-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Le calcul a l'air simple: un terrain bien situé, un bâtiment en fin de vie, une

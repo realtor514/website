@@ -26,6 +26,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Choosing a Home Inspector in Quebec: What to Verify Before You Hire](/en/articles/choosing-home-inspector-quebec/) : No licence is required yet in Quebec. How to choose a home inspector: RBQ certificate, insurance, service
 - [Condo Fees and the Contingency Fund: What to Verify Before You Buy](/en/articles/condo-fees-investment-killer/) : Contingency fund, maintenance logbook, syndicate attestation, special assessment: the Quebec rules now in
 - [Condo or House in Montreal: What You Are Actually Buying](/en/articles/condo-vs-house-montreal/) : Fractions, common portions, the declaration of co-ownership, insurance, general meeting votes and borrowi
+- [Fixer Upper or Turnkey Home in Quebec: Who Funds the Work](/en/articles/turnkey-or-fixer-upper-quebec/) : Fixer upper or turnkey in Quebec: the SCHL Améliorations loan, the value after improvements, the advances
 - [Hard to Insure Home in Quebec: What Actually Blocks the Deal](/en/articles/hard-to-insure-home-quebec/) : Insurance refusal, oil tank, aluminum wiring, roof, past claims: why a Quebec home becomes hard to insure
 - [Home Inspection in Quebec: What It Costs and When to Do It](/en/articles/home-inspection-cost-timing-quebec/) : Before the offer or after? Who pays? How much? Here are the answers to the questions Quebec buyers ask mo
 - [How to Compare North Shore Sectors: The Method and the Sources](/en/articles/rive-nord-guide-laval/) : Transit, municipal taxes, zoning, schools, flood maps: the verifiable criteria for comparing two North Sh
@@ -75,6 +76,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Buying Property in Quebec as a Foreign Buyer](/en/articles/foreign-buyer-property-quebec/) : Buying property in Quebec as a foreign buyer: the federal prohibition, the exceptions, the down payment, 
 - [Buying a Commercial Building in Quebec: The Due Diligence](/en/articles/commercial-building-due-diligence-quebec/) : Broker licence, leases, phase I study, zoning, the non-residential tax rate, GST and QST: the checks to m
 - [Buying a Cottage in Quebec: Well, Septic and Access](/en/articles/buying-a-cottage-quebec/) : Rive, fosse septique, well, chemin privé, insurance and financing: the checks to make before you buy a co
+- [Buying a House to Demolish in Quebec: The Permit](/en/articles/buying-to-demolish-permit-quebec/) : Demolition committee, public notice, ten days to object, replacement project, asbestos: what a demolition
 - [Buying a Triplex in Laval: What to Verify Before You Make an Offer](/en/articles/investir-triplex-laval-strategie/) : Down payment, how a lender counts the rents, Laval taxes and transfer duties, TAL rent control and zoning
 - [House Flipping in Montreal: The Honest Math Nobody Shows You](/en/articles/house-flipping-montreal/) : The 365-day rule, GST and QST on a major renovation, transfer duties, permits and the RBQ licence: the fu
 - [How to Build a Real Estate Portfolio in Greater Montreal Starting From Zero](/en/articles/build-real-estate-portfolio/) : Down payment by unit count, the stress test, refinancing at 80%, Quebec rent control and the tax rules: w
@@ -101,9 +103,12 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Home Maintenance Costs in Quebec: The Replacement Calendar](/en/articles/home-maintenance-cost-quebec/) : Service life by component, what the climate adds, how to size the annual reserve: what home maintenance r
 - [How to Cut Your Heating Bill in Quebec: Where to Start](/en/articles/reduce-heating-bill-quebec/) : Rate D, the 40 kWh tier, insulation, heat pumps and 2026 grants: how to reduce your heating bill in Quebe
 - [Moving in Montreal or Laval: The Complete Checklist, Deadline by Deadline](/en/articles/moving-checklist-montreal/) : Lease notices, lease assignment, address changes, Hydro-Quebec, truck permits and ecocentres: the Greater
+- [Neighbour Disputes in Quebec: The Recourses](/en/articles/neighbour-disputes-quebec/) : Article 976, views at one metre fifty, a common fence, mediation and small claims: the recourses in a nei
 - [Quebec Residential Pool Rules: The 30 September 2027 Deadline](/en/articles/pool-safety-rules-quebec/) : Quebec residential pool rules: enclosure, gate, ladder, permit, fine, and the 30 September 2027 deadline 
 - [Radon Testing a Home in Quebec: The Timeline Nobody Plans For](/en/articles/radon-testing-home-quebec/) : The 200 Bq/m³ guideline, a three month test through the heating season, clause 3.21 and the seller's decl
+- [Renovation Permits in Montreal and Laval: Winter](/en/articles/winter-renovation-permits-montreal-laval/) : Concrete, roofing, interiors: what the cold actually blocks, and why a renovation permit in Montreal or L
 - [Spring Melt and Water Infiltration in a Montreal Basement](/en/articles/spring-melt-water-infiltration-montreal/) : Spring melt and basement water infiltration in Montreal: grading, window wells, roof, gutters, insurance 
+- [The True Cost of an In-Ground Pool in Quebec](/en/articles/true-cost-of-a-pool-quebec/) : The true cost of an in-ground pool in Quebec: electricity per Hydro-Québec, water, insurance, permits, an
 
 ## Real Estate 101
 - [5 Questions You Must Ask Before Hiring a Real Estate Broker](/en/articles/questions-hire-broker/) : Most people choose a broker from a referral or a yard sign. Here are the five questions that reveal how a

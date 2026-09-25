@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Article 976, vues à 1,5 m, clôture mitoyenne, médiation et petites créances : les recours en troubles de voisinage et ce qui se déclare à la vente."
 image: "images/articles/troubles-de-voisinage-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Une chicane de clôture ne reste jamais entre deux voisins. Elle finit dans le

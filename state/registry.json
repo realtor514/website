@@ -365,6 +365,54 @@
    "slug": "renover-hiver-permis-montreal-laval",
    "keyword": "permis de renovation montreal laval",
    "state": "in_progress"
+  },
+  {
+   "id": "t12",
+   "slug": "particularites-maison-quebecoise",
+   "keyword": "particularites maison quebecoise construction",
+   "state": "in_progress"
+  },
+  {
+   "id": "t16",
+   "slug": "rentabiliser-terrain-zonage-quebec",
+   "keyword": "ajouter un logement accessoire quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t17",
+   "slug": "renovations-resilience-climat-quebec",
+   "keyword": "renovations resilience climat quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t19",
+   "slug": "acheter-fin-ete-montreal-donnees",
+   "keyword": "meilleur moment pour acheter montreal",
+   "state": "in_progress"
+  },
+  {
+   "id": "t23",
+   "slug": "prix-demande-prix-vendu-montreal",
+   "keyword": "prix vendu vs prix demande montreal",
+   "state": "in_progress"
+  },
+  {
+   "id": "t24",
+   "slug": "impots-proprietaire-quebec-deductions",
+   "keyword": "deductions impot proprietaire quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t25",
+   "slug": "duree-de-vie-composantes-maison-quebec",
+   "keyword": "duree de vie toiture fenetres quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t26",
+   "slug": "vice-cache-pendant-renovation-quebec",
+   "keyword": "vice cache decouvert renovation quebec",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -428,7 +476,15 @@
   "vrai-cout-piscine-residentielle-quebec",
   "acheter-pour-demolir-permis-quebec",
   "troubles-de-voisinage-quebec",
-  "renover-hiver-permis-montreal-laval"
+  "renover-hiver-permis-montreal-laval",
+  "particularites-maison-quebecoise",
+  "rentabiliser-terrain-zonage-quebec",
+  "renovations-resilience-climat-quebec",
+  "acheter-fin-ete-montreal-donnees",
+  "prix-demande-prix-vendu-montreal",
+  "impots-proprietaire-quebec-deductions",
+  "duree-de-vie-composantes-maison-quebec",
+  "vice-cache-pendant-renovation-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -491,7 +547,15 @@
   "cout piscine creusee quebec",
   "acheter une maison pour demolir quebec",
   "troubles de voisinage quebec recours",
-  "permis de renovation montreal laval"
+  "permis de renovation montreal laval",
+  "particularites maison quebecoise construction",
+  "ajouter un logement accessoire quebec",
+  "renovations resilience climat quebec",
+  "meilleur moment pour acheter montreal",
+  "prix vendu vs prix demande montreal",
+  "deductions impot proprietaire quebec",
+  "duree de vie toiture fenetres quebec",
+  "vice cache decouvert renovation quebec"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -554,6 +618,14 @@
   "Le vrai cout d'une piscine residentielle au Quebec",
   "Acheter pour demolir et reconstruire: le comite de demolition, le permis et les couts caches",
   "Troubles de voisinage au Quebec: ce que la loi permet vraiment",
-  "Renover l'hiver a Montreal et a Laval: permis, autorisations et delais"
+  "Renover l'hiver a Montreal et a Laval: permis, autorisations et delais",
+  "Les particularites des maisons quebecoises qui surprennent",
+  "Faire travailler son terrain au Quebec: zonage, subdivision, logement accessoire",
+  "Renover pour le climat quebecois: les travaux qui deviennent necessaires",
+  "Acheter a la fin de l'ete a Montreal et Laval: ce que disent les statistiques",
+  "Prix demande et prix vendu a Montreal: comprendre l'ecart",
+  "Proprietaire et impots au Quebec: ce qui se deduit vraiment",
+  "Duree de vie des composantes d'une maison au Quebec",
+  "Un vice cache decouvert pendant les travaux: la marche a suivre au Quebec"
  ]
 }

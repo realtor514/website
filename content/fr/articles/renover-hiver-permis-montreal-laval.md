@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Béton, toiture, intérieur: ce que le froid bloque vraiment, et pourquoi un permis de rénovation à Montréal ou à Laval se demande en hiver, pas en avril."
 image: "images/articles/renover-hiver-permis-montreal-laval/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Janvier n'empêche pas de rénover. Il impose des conditions à ce qui touche le

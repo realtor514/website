@@ -31,6 +31,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 ## Guía del Comprador
 - [Casa difícil de asegurar en Quebec: lo que bloquea la compra](/es/articles/casa-dificil-de-asegurar-quebec/) : Negativa del seguro, tanque de mazut, aluminio, techo, siniestros anteriores: por qué una casa se vuelve 
+- [Casa lista o para renovar en Quebec: quién financia](/es/articles/casa-lista-o-para-renovar-quebec/) : Casa para renovar o lista para habitar en Quebec: el préstamo SCHL Améliorations, el valor después de las
 - [Casa nueva o usada en Quebec: lo que de verdad cambia](/es/articles/casa-nueva-o-existente-quebec/) : TPS y TVQ, garantía GCR, contrat préliminaire, droits de mutation: lo que separa realmente una casa nueva
 - [Comprar de contado en Quebec: la ventaja real, el riesgo real y lo que exige la ley](/es/articles/cash-buyers-advantage/) : Oferta sin condición de financiamiento, inspección, preaprobación, obligaciones ante CANAFE y el tope de 
 - [Comprar en Laval: los seis sectores, el transporte, los impuestos y las verificaciones](/es/articles/comprar-en-laval-2025/) : Los seis sectores, el metro, REM y SRB, derechos de mutación al 3 % sobre 500 000 $, el rol de evaluación
@@ -94,11 +95,14 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [¿Cuánto tiempo toma realmente vender una casa en Montreal?](/es/articles/how-long-to-sell-house-montreal/) : El plazo de venta depende mucho menos del mercado que de tres decisiones que usted controla. Aquí está el
 
 ## Guía práctica
+- [Conflictos vecinales en Quebec: los recursos](/es/articles/conflictos-vecinales-quebec/) : Artículo 976, vistas a 1,5 m, cerca medianera, mediación y pequeñas causas: los recursos por conflictos v
 - [Costo de mantenimiento de una casa en Quebec: el calendario de reemplazo](/es/articles/costo-mantenimiento-casa-quebec/) : Vida útil por componente, efecto del clima, reserva anual: cuánto cuesta mantener una casa en Quebec y, s
+- [Costo de una piscina enterrada en Quebec: el cálculo anual](/es/articles/costo-real-piscina-quebec/) : Costo de una piscina enterrada en Quebec: electricidad según Hydro-Québec, agua, seguro, permiso, y lo qu
 - [Cómo reducir su factura de calefacción en Quebec: por dónde empezar](/es/articles/reducir-factura-calefaccion-quebec/) : Tarifa D, tramo de 40 kWh, aislamiento, bomba de calor y ayudas 2026: cómo reducir su factura de calefacc
 - [Deshielo e infiltración de agua en el sótano en Montreal](/es/articles/deshielo-infiltracion-agua-montreal/) : Deshielo e infiltración de agua en el sótano en Montreal: pendiente del terreno, tragaluz, techo, canalet
 - [Elegir un contratista de renovación en Quebec](/es/articles/elegir-contratista-renovacion-quebec/) : Licencia RBQ y sous-catégories, contrato, retención, hipoteca legal: cómo elegir un contratista de renova
 - [Mudarse en Montreal o Laval: la lista completa, plazo por plazo](/es/articles/moving-checklist-montreal/) : Avisos de arrendamiento, cesión, cambio de dirección, Hydro-Québec, permisos de camión y ecocentros: la l
+- [Permiso de renovación en Montreal y Laval: el invierno](/es/articles/renovar-en-invierno-permisos-montreal-laval/) : Hormigón, techo, interior: lo que el frío bloquea de verdad, y por qué un permiso de renovación en Montre
 - [Primera reunión con un corredor inmobiliario: los documentos](/es/articles/documentos-antes-de-reunirse-corredor-quebec/) : Certificat de localisation, escritura de compra, cuentas de impuestos, contratos de alquiler: los documen
 - [Prueba de radón en una vivienda en Quebec: el calendario real](/es/articles/radon-vivienda-quebec/) : Directriz de 200 Bq/m³, prueba de tres meses en temporada de calefacción, cláusula 3.21 y declaraciones d
 - [Reglamento de piscinas residenciales en Quebec: el plazo del 30 de septiembre de 2027](/es/articles/reglamento-piscinas-quebec/) : Reglamento de piscinas residenciales en Quebec: cercado, puerta, escalera, permiso, multa y el 30 de sept
@@ -131,6 +135,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Comprar un inmueble comercial en Quebec: las verificaciones](/es/articles/verificaciones-inmueble-comercial-quebec/) : Licencia del corredor, contratos de arrendamiento, estudio fase I, zonificación, tasa no residencial, TPS
 - [Comprar un tríplex en Laval: lo que hay que verificar antes de la oferta](/es/articles/investir-triplex-laval-strategie/) : Pago inicial, cómo cuenta los alquileres el prestamista, impuestos y derechos de mutación en Laval, regla
 - [Comprar una cabaña en Quebec: pozo, fosa séptica y acceso](/es/articles/comprar-una-cabana-quebec/) : Rive, fosse septique, pozo, chemin privé, seguro y financiamiento: las verificaciones antes de comprar un
+- [Comprar una casa para demoler en Quebec: el permiso](/es/articles/comprar-para-demoler-permiso-quebec/) : Comité de demolición, aviso público, 10 días para oponerse, proyecto de reemplazo y amianto: lo que exige
 - [Comprar una propiedad en Quebec siendo extranjero](/es/articles/comprador-extranjero-propiedad-quebec/) : Comprar una propiedad en Quebec siendo extranjero: la prohibición federal, las excepciones, el pago inici
 - [Cómo construir una cartera inmobiliaria en el Gran Montreal desde cero](/es/articles/build-real-estate-portfolio/) : Pago inicial según el número de viviendas, prueba de resistencia, refinanciación al 80 %, control de alqu
 - [Gestionar propiedades de alquiler en Montreal y Laval: lo que todo nuevo propietario debe saber](/es/articles/rental-property-management/) : Sección G, selección del inquilino, depósito prohibido, aviso de aumento, recuperación, desalojo e impues

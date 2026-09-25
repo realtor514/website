@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Coût d'une piscine creusée au Québec: électricité selon Hydro-Québec, eau, assurance, permis, et ce que la revente permet vraiment de dire."
 image: "images/articles/vrai-cout-piscine-residentielle-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Le prix d'installation d'une piscine se négocie une fois. Le reste se paie chaque

@@ -7,7 +7,7 @@ category: "Guide de l'acheteur"
 description: "Maison à rénover ou clé en main au Québec: le prêt SCHL Améliorations, la valeur après travaux, les avances et le calendrier qui tranchent."
 image: "images/articles/cle-en-main-ou-a-renover-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Deux fiches, un même budget. L'une est prête à habiter. L'autre demande une
