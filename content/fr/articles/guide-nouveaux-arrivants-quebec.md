@@ -109,7 +109,7 @@ Ce conseil est peut-être le plus pratique de ce guide: choisissez un courtier q
 
 Le processus immobilier québécois implique des dizaines de conversations, documents et décisions. Pouvoir poser des questions et recevoir des explications dans votre langue maternelle n'est pas un luxe. C'est une condition pour prendre des décisions pleinement éclairées.
 
-Le service est offert en français, en anglais, en espagnol et en arabe. Les préférences de chaque famille sont prises en compte : certaines tiennent à associer la famille élargie à la décision, d'autres accordent une grande importance à la vie privée, préfèrent la stabilité à long terme à la spéculation à court terme, ou tiennent avant tout à posséder quelque chose qui soit vraiment à elles.
+Le service est offert en français, en anglais et en arabe. Les préférences de chaque famille sont prises en compte : certaines tiennent à associer la famille élargie à la décision, d'autres accordent une grande importance à la vie privée, préfèrent la stabilité à long terme à la spéculation à court terme, ou tiennent avant tout à posséder quelque chose qui soit vraiment à elles.
 
 Ces valeurs s'alignent bien avec ce que l'immobilier québécois, fait correctement, peut offrir.
 

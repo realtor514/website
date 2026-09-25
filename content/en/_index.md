@@ -1,6 +1,6 @@
 ---
 title: "Georges Matar | Residential Real Estate Broker, Laval, Montréal, Laurentians & Lanaudière"
-description: "Residential real estate broker in Laval, Montreal, Terrebonne and the North Shore. Buying, selling, investing. Free evaluation. Service in 4 languages. (438) 372-0102."
+description: "Residential real estate broker in Laval, Montreal, Terrebonne and the North Shore. Buying, selling, investing. Free evaluation. Service in 3 languages. (438) 372-0102."
 faq:
   - q: "How much does a real estate broker cost in Quebec?"
     a: "For a buyer, generally nothing: the commission is paid by the seller out of the sale proceeds. For a seller, the commission is negotiated and usually falls between 4% and 6% of the sale price in Greater Montreal. There is no legally fixed rate. I explain in detail what the commission actually covers in [this article](/en/articles/commission-explained-quebec/)."
@@ -11,7 +11,7 @@ faq:
   - q: "Which cities do you work in?"
     a: "Laval, Montreal, Terrebonne, Blainville, Repentigny, Saint-Jérôme and the entire North Shore, Laurentians and Lanaudière. My RE/MAX Du Cartier office is at 2820 boul. St-Martin Est in Laval (Duvernay). See [all areas served](/en/real-estate-broker/)."
   - q: "What languages do you work in?"
-    a: "French, English, Spanish and Arabic. This matters concretely when a transaction involves a family whose members do not all share a language: nobody signs a document they do not understand."
+    a: "French, English and Arabic. This matters concretely when a transaction involves a family whose members do not all share a language: nobody signs a document they do not understand."
   - q: "What is the welcome tax and how much will I pay?"
     a: "It is the property transfer duty, payable to the municipality in the months following your purchase. The amount depends on the price and the city: Montreal applies additional brackets that make it considerably higher than in most north shore cities. Use the [welcome tax calculator](/en/tools/welcome-tax/) for your exact amount."
   - q: "How long does it take to sell a property?"

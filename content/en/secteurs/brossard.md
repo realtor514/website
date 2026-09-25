@@ -32,7 +32,7 @@ faq:
   - q: "Is buying a new condo near the REM a good idea?"
     a: "It depends entirely on the price paid and the condo fees. Many recent projects post deliberately low fees in year one that rise afterwards. I check the contingency fund and the projected budget systematically before any promise to purchase."
   - q: "Do you offer multilingual service in Brossard?"
-    a: "Yes: French, English, Spanish and Arabic. Brossard is one of the most multicultural cities in Greater Montreal, and a transaction where everyone understands what they are signing goes better."
+    a: "Yes: French, English and Arabic. Brossard is one of the most multicultural cities in Greater Montreal, and a transaction where everyone understands what they are signing goes better."
 ---
 
 Brossard has changed faster than any other South Shore city since the REM opened. It is an area I cover on the same footing as the others, and it demands a finer reading than average.

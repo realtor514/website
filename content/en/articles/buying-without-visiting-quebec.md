@@ -225,4 +225,4 @@ recourses](/en/articles/latent-defect-recourse-quebec/).
 
 *Are you buying from abroad or from another province, and you want someone to
 go and look for you, checklist in hand? [Write to me](/en/form/). I work in
-French, English, Spanish and Arabic.*
+French, English and Arabic.*

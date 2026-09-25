@@ -120,7 +120,7 @@ Este puede ser el consejo más práctico de esta guía: elija un corredor que ha
 
 El proceso inmobiliario de Quebec implica docenas de conversaciones, documentos y decisiones. Poder hacer preguntas y recibir explicaciones en su idioma nativo no es un lujo. Es una condición para tomar decisiones plenamente informadas.
 
-Trabajo en francés, inglés, español y árabe, y tengo en cuenta las preferencias de cada familia: algunas quieren asociar a la familia extendida a la decisión, otras dan gran importancia a la privacidad, prefieren la estabilidad a largo plazo a la especulación a corto plazo, o buscan ante todo poseer algo que sea verdaderamente suyo.
+Trabajo en francés, inglés y árabe, y tengo en cuenta las preferencias de cada familia: algunas quieren asociar a la familia extendida a la decisión, otras dan gran importancia a la privacidad, prefieren la estabilidad a largo plazo a la especulación a corto plazo, o buscan ante todo poseer algo que sea verdaderamente suyo.
 
 Esos valores se alinean bien con lo que el sector inmobiliario de Quebec, bien ejecutado, puede ofrecer.
 

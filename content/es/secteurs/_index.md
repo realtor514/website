@@ -19,4 +19,4 @@ Por eso trabajo por sector y no por gran territorio. Cubro treinta ciudades por 
 
 Cada página describe lo que realmente conozco del sector: los barrios, los tipos de propiedad dominantes, lo que mueve los precios localmente y los errores que veo con más frecuencia en compradores y vendedores.
 
-Trabajo en francés, inglés, español y árabe. Si su sector no aparece en la lista, escríbame igualmente: atiendo todo el Gran Montreal, las Laurentides y Lanaudière.
+Trabajo en francés, inglés y árabe. Si su sector no aparece en la lista, escríbame igualmente: atiendo todo el Gran Montreal, las Laurentides y Lanaudière.

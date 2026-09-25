@@ -29,7 +29,7 @@ faq:
   - q: "¿El puente Mercier es un obstáculo real?"
     a: "Es el factor decisivo para muchos compradores. Mi consejo: haga el trayecto real, a la hora en que lo haría, antes de comprometerse."
   - q: "¿Ofrece servicio en inglés en Châteauguay?"
-    a: "Sí. Châteauguay tiene una comunidad anglófona importante y trabajo en inglés igual que en francés, además de español y árabe."
+    a: "Sí. Châteauguay tiene una comunidad anglófona importante y trabajo en inglés igual que en francés, además de árabe."
   - q: "¿Hay propiedades ribereñas?"
     a: "Sí, junto al río Châteauguay y al lago Saint-Louis. Forman un mercado distinto con restricciones que verificar caso por caso."
 ---

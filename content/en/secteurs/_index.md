@@ -19,4 +19,4 @@ That is why I work by sector rather than by broad territory. I cover thirty citi
 
 Each page below describes what actually defines the area: the neighbourhoods, the dominant property types, what moves prices locally, and the mistakes I see most often from buyers and sellers.
 
-I work in French, English, Spanish and Arabic. If your area is not on the list, write to me anyway: I serve Greater Montreal, the Laurentians and Lanaudière.
+I work in French, English and Arabic. If your area is not on the list, write to me anyway: I serve Greater Montreal, the Laurentians and Lanaudière.

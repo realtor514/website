@@ -78,4 +78,4 @@ Puede empezar por una [estimación en línea](/es/tools/home-estimate/) y luego 
 
 ## Comprar como recién llegado
 
-Una parte importante de mi clientela en Montreal llega del extranjero. Trabajo en francés, inglés, español y árabe, y puedo explicarle en detalle el aporte inicial, el expediente de crédito sin historial canadiense, el papel del notario y las etapas reales de la transacción.
+Una parte importante de mi clientela en Montreal llega del extranjero. Trabajo en francés, inglés y árabe, y puedo explicarle en detalle el aporte inicial, el expediente de crédito sin historial canadiense, el papel del notario y las etapas reales de la transacción.

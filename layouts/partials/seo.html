@@ -108,7 +108,7 @@
         "latitude" $p.latitude
         "longitude" $p.longitude)
       "areaServed" $areas
-      "knowsLanguage" (slice "fr-CA" "en-CA" "es" "ar")
+      "knowsLanguage" (slice "fr-CA" "en-CA" "ar")
       "openingHoursSpecification" (slice (dict
         "@type" "OpeningHoursSpecification"
         "dayOfWeek" (slice "Monday" "Tuesday" "Wednesday" "Thursday" "Friday" "Saturday" "Sunday")
@@ -131,7 +131,7 @@
       "url" $baseURL
       "telephone" $p.phoneRaw
       "email" $p.email
-      "knowsLanguage" (slice "fr-CA" "en-CA" "es" "ar")
+      "knowsLanguage" (slice "fr-CA" "en-CA" "ar")
       "worksFor" (dict "@type" "Organization" "name" $p.brokerage)
       "workLocation" (dict "@id" $agentID)
 -}}

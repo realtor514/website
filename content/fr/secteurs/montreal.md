@@ -78,4 +78,4 @@ Vous pouvez commencer par une [estimation en ligne](/tools/home-estimate/), puis
 
 ## Acheter en tant que nouvel arrivant
 
-Une part importante des acheteurs montréalais arrive de l'étranger. Le service est offert en français, en anglais, en espagnol et en arabe, et le site propose un [guide complet pour les nouveaux arrivants qui achètent au Québec](/articles/guide-nouveaux-arrivants-quebec/): mise de fonds, dossier de crédit sans historique canadien, rôle du notaire et étapes réelles de la transaction.
+Une part importante des acheteurs montréalais arrive de l'étranger. Le service est offert en français, en anglais et en arabe, et le site propose un [guide complet pour les nouveaux arrivants qui achètent au Québec](/articles/guide-nouveaux-arrivants-quebec/): mise de fonds, dossier de crédit sans historique canadien, rôle du notaire et étapes réelles de la transaction.

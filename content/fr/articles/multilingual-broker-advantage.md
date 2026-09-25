@@ -139,8 +139,7 @@ et demander aux professionnels de travailler dans une langue que vous lisez.
 
 ## Ce que change un courtier qui parle votre langue
 
-Le Grand Montréal est multilingue, et le service ici se donne en français, en
-anglais, en espagnol et en arabe. Cela ne change ni la loi ni la langue des
+Le Grand Montréal est multilingue, et le service ici se donne en français, en anglais et en arabe. Cela ne change ni la loi ni la langue des
 formulaires. Cela change trois choses.
 
 **Les questions se posent.** L'article 46.7 vous donne le droit de lire le
@@ -180,6 +179,6 @@ ou une agglomération de recensement, avec des exceptions, jusqu'au 1er janvier
 
 ---
 
-*Vous préférez travailler en français, en anglais, en espagnol ou en arabe ?
+*Vous préférez travailler en français, en anglais ou en arabe ?
 [Prenez contact dans la langue de votre choix](/formulaire/) : on lit ensemble le
 contrat de courtage et la promesse d'achat avant que vous signiez.*

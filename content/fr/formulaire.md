@@ -13,4 +13,4 @@ Je lis chaque demande personnellement. Vous recevez une réponse en moins de 24 
 
 La première conversation sert à comprendre où vous en êtes. Aucun frais, aucun engagement.
 
-Service en français, anglais, espagnol et arabe, à Montréal, Laval, sur la Rive-Nord et la Rive-Sud.
+Service en français, anglais et arabe, à Montréal, Laval, sur la Rive-Nord et la Rive-Sud.

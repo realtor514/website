@@ -13,4 +13,4 @@ I read every request personally. You get an answer within 24 hours, through whic
 
 The first conversation is about understanding where you stand. No fee, no obligation.
 
-Service in French, English, Spanish and Arabic, across Montreal, Laval, the North Shore and the South Shore.
+Service in French, English and Arabic, across Montreal, Laval, the North Shore and the South Shore.

@@ -41,7 +41,7 @@ faq:
   - q: "¿Trabaja con inversores en Laval?"
     a: "Sí. Los plex de Chomedey, Pont-Viau y Laval-des-Rapides representan una parte importante de mi trabajo. Analizo el rendimiento real antes de la visita: ingresos, impuestos, gastos, reserva para obras, y no la tasa anunciada en la ficha."
   - q: "¿En qué idiomas ofrece sus servicios?"
-    a: "Francés, inglés, español y árabe. Es una ventaja concreta cuando una transacción involucra a una familia cuyos miembros no hablan todos el mismo idioma: nadie firma un documento que no entiende."
+    a: "Francés, inglés y árabe. Es una ventaja concreta cuando una transacción involucra a una familia cuyos miembros no hablan todos el mismo idioma: nadie firma un documento que no entiende."
 ---
 
 Laval es una de las seis zonas que cubro por igual, junto a Montreal, Terrebonne, Blainville, Repentigny y Saint-Jérôme. No tengo territorio secundario: cada zona tiene su propia dinámica y la analizo con el mismo rigor.

@@ -142,8 +142,7 @@ profesionales que trabajen en un idioma que usted lea.
 
 ## Qué cambia un corredor que habla su idioma
 
-El Gran Montreal es multilingüe, y aquí el servicio se da en francés, inglés,
-español y árabe. Eso no cambia ni la ley ni el idioma de los formularios. Cambia
+El Gran Montreal es multilingüe, y aquí el servicio se da en francés, inglés y árabe. Eso no cambia ni la ley ni el idioma de los formularios. Cambia
 tres cosas.
 
 **Las preguntas se hacen.** El artículo 46.7 le da derecho a leer el formulario
@@ -182,6 +181,6 @@ de 2027. Haga verificar su situación por un abogado o un notario.
 
 ---
 
-*¿Prefiere trabajar en francés, inglés, español o árabe?
+*¿Prefiere trabajar en francés, inglés o árabe?
 [Escríbame en el idioma que elija](/es/formulario/): leemos juntos el contrato
 de corretaje y la promesa de compra antes de que usted firme.*

@@ -49,8 +49,8 @@
         <p class="hero__role reveal reveal-delay-1">{{ .Site.Params.tagline | safeHTML }}</p>
 
         {{/* Pas de phrase sur les langues ici: la barre de reperes plus bas
-             annonce deja les 4 langues, et le bandeau gagne a ne porter que
-             le nom, le metier et l action. */}}
+             les annonce deja, et le bandeau gagne a ne porter que le nom,
+             le metier et l action. */}}
 
         <div class="hero__quicklinks reveal reveal-delay-2">
           <a href="{{ $homeEstimateURL }}" class="hero__quicklink">
@@ -74,11 +74,12 @@
             <span class="hero__trust-num" style="font-size:.85rem">{{ if $isFr }}Ingénieur (PhD){{ else if $isAr }}مهندس (دكتوراه){{ else if $isEs }}Ingeniero (PhD){{ else }}Engineer (PhD){{ end }}</span>
           </div>
           <div class="hero__trust-divider"></div>
-          {{/* Quatre, pas trois: le site et le service existent en francais,
-               anglais, espagnol et arabe. Le chiffre contredisait la phrase
-               juste au-dessus, sur le meme ecran. */}}
+          {{/* Trois: le service est offert en francais, en anglais et en
+               arabe. Le site existe aussi en espagnol, mais une page traduite
+               n est pas une promesse de servir un client dans cette langue,
+               et un courtier ne promet que ce qu il peut tenir. */}}
           <div class="hero__trust-item">
-            <span class="hero__trust-num">4</span>
+            <span class="hero__trust-num">3</span>
             <span class="hero__trust-label">{{ if $isFr }}Langues{{ else if $isAr }}لغات{{ else if $isEs }}Idiomas{{ else }}Languages{{ end }}</span>
           </div>
           <div class="hero__trust-divider"></div>

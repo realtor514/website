@@ -227,4 +227,4 @@ recursos](/es/articles/vicio-oculto-recurso-quebec/).
 
 *¿Compra usted desde el extranjero o desde otra provincia y quiere que alguien
 vaya a ver por usted, con la lista en mano?
-[Escríbame](/es/formulario/). Trabajo en francés, inglés, español y árabe.*
+[Escríbame](/es/formulario/). Trabajo en francés, inglés y árabe.*

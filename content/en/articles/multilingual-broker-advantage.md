@@ -139,8 +139,7 @@ the professionals to work in a language you read.
 
 ## What a broker who speaks your language actually changes
 
-Greater Montreal is multilingual, and service here is given in French, English,
-Spanish and Arabic. That changes neither the law nor the language of the forms.
+Greater Montreal is multilingual, and service here is given in French, English and Arabic. That changes neither the law nor the language of the forms.
 It changes three things.
 
 **Questions get asked.** Section 46.7 gives you the right to read the form and
@@ -179,6 +178,6 @@ or a notary.
 
 ---
 
-*Would you rather work in French, English, Spanish or Arabic?
+*Would you rather work in French, English or Arabic?
 [Get in touch in the language of your choice](/en/form/): we read the brokerage
 contract and the promise to purchase together before you sign.*

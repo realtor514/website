@@ -219,4 +219,4 @@ vice caché et vos recours](/articles/vice-cache-conditions-recours-quebec/).
 
 *Vous achetez depuis l'étranger ou d'une autre province et vous voulez que
 quelqu'un aille voir pour vous, liste en main ? [Écrivez-moi](/formulaire/).
-Je travaille en français, en anglais, en espagnol et en arabe.*
+Je travaille en français, en anglais et en arabe.*

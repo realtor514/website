@@ -1,6 +1,6 @@
 ---
 title: "Georges Matar | Courtier Immobilier Résidentiel - Laval & Montréal"
-description: "Courtier immobilier résidentiel à Laval, Montréal, Terrebonne et sur la Rive-Nord. Achat, vente, investissement. Évaluation gratuite. Service en 4 langues. (438) 372-0102."
+description: "Courtier immobilier résidentiel à Laval, Montréal, Terrebonne et sur la Rive-Nord. Achat, vente, investissement. Évaluation gratuite. Service en 3 langues. (438) 372-0102."
 faq:
   - q: "Combien coûte un courtier immobilier au Québec?"
     a: "Pour un acheteur, généralement rien: la commission est payée par le vendeur sur le produit de la vente. Pour un vendeur, la commission est négociée et se situe habituellement entre 4 % et 6 % du prix de vente dans le Grand Montréal. Il n'existe aucun taux fixe imposé par la loi. J'explique en détail ce que la commission couvre réellement dans [cet article](/articles/commission-explained-quebec/)."
@@ -11,7 +11,7 @@ faq:
   - q: "Dans quelles villes travaillez-vous?"
     a: "Laval, Montréal, Terrebonne, Blainville, Repentigny, Saint-Jérôme et l'ensemble de la Rive-Nord, des Laurentides et de Lanaudière. Mon bureau RE/MAX Du Cartier est situé au 2820, boul. St-Martin Est à Laval (Duvernay). Voir [tous les secteurs desservis](/courtier-immobilier/)."
   - q: "Dans quelles langues offrez-vous vos services?"
-    a: "Français, anglais, espagnol et arabe. C'est un avantage concret quand une transaction implique une famille dont les membres ne parlent pas tous la même langue: personne ne signe un document qu'il ne comprend pas."
+    a: "Français, anglais et arabe. C'est un avantage concret quand une transaction implique une famille dont les membres ne parlent pas tous la même langue: personne ne signe un document qu'il ne comprend pas."
   - q: "Qu'est-ce que la taxe de bienvenue et combien vais-je payer?"
     a: "C'est le droit de mutation immobilière, payable à la municipalité dans les mois suivant l'achat. Le montant dépend du prix et de la ville: Montréal applique des tranches supplémentaires qui la rendent nettement plus élevée que dans la plupart des villes de la couronne nord. Utilisez le [calculateur de taxe de bienvenue](/tools/welcome-tax/) pour obtenir votre montant exact."
   - q: "Combien de temps prend la vente d'une propriété?"

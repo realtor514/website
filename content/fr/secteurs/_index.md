@@ -19,4 +19,4 @@ C'est pour cette raison que je travaille par secteur plutôt que par grand terri
 
 Chaque page ci-dessous décrit ce qui caractérise réellement le secteur: les quartiers, les types de propriétés dominants, ce qui fait bouger les prix localement et les erreurs que je vois le plus souvent chez les acheteurs et les vendeurs.
 
-Je travaille en français, en anglais, en espagnol et en arabe. Si votre secteur n'apparaît pas dans la liste, écrivez-moi quand même: je dessers l'ensemble du Grand Montréal, des Laurentides et de Lanaudière.
+Je travaille en français, en anglais et en arabe. Si votre secteur n'apparaît pas dans la liste, écrivez-moi quand même: je dessers l'ensemble du Grand Montréal, des Laurentides et de Lanaudière.

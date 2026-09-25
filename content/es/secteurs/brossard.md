@@ -32,7 +32,7 @@ faq:
   - q: "¿Comprar un condominio nuevo cerca del REM es buena idea?"
     a: "Depende enteramente del precio pagado y de los gastos de copropiedad. Muchos proyectos recientes anuncian cuotas deliberadamente bajas el primer año, que luego suben. Verifico sistemáticamente el fondo de previsión y el presupuesto previsto antes de cualquier promesa de compra."
   - q: "¿Ofrece servicio multilingüe en Brossard?"
-    a: "Sí: francés, inglés, español y árabe. Brossard es una de las ciudades más multiculturales del Gran Montreal, y una transacción donde cada uno entiende lo que firma sale mejor."
+    a: "Sí: francés, inglés y árabe. Brossard es una de las ciudades más multiculturales del Gran Montreal, y una transacción donde cada uno entiende lo que firma sale mejor."
 ---
 
 Brossard ha cambiado más rápido que ninguna otra ciudad de la Rive-Sud desde la llegada del REM. Es una zona que cubro por igual que las demás, y exige una lectura más fina que la media.

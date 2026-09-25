@@ -29,7 +29,7 @@ faq:
   - q: "Is the Mercier bridge a real obstacle?"
     a: "It is the deciding factor for many buyers. My advice is simple: drive the actual commute, at the hour you would drive it, before committing. Some find it well worth the saving on purchase price, others do not."
   - q: "Do you offer service in English in Châteauguay?"
-    a: "Yes. Châteauguay has a significant anglophone community and I work in English as well as French, plus Spanish and Arabic."
+    a: "Yes. Châteauguay has a significant anglophone community and I work in English as well as French, plus Arabic."
   - q: "Are there waterfront properties?"
     a: "Yes, along the Châteauguay river and Lac Saint-Louis. They form a distinct market with shoreline buffer and sometimes flood zone constraints to verify case by case."
 ---

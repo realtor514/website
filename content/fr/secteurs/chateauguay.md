@@ -29,7 +29,7 @@ faq:
   - q: "Le pont Mercier est-il un frein réel?"
     a: "C'est le facteur décisif pour beaucoup d'acheteurs. Mon conseil est simple: faites le trajet réel, à l'heure où vous le feriez, avant de vous engager. Certains trouvent que ça vaut largement l'économie sur le prix d'achat, d'autres non."
   - q: "Offrez-vous un service en anglais à Châteauguay?"
-    a: "Oui. Châteauguay a une communauté anglophone importante et je travaille en anglais comme en français, ainsi qu'en espagnol et en arabe."
+    a: "Oui. Châteauguay a une communauté anglophone importante et je travaille en anglais comme en français, ainsi qu'en arabe."
   - q: "Y a-t-il des propriétés riveraines?"
     a: "Oui, le long de la rivière Châteauguay et du lac Saint-Louis. Elles forment un marché distinct avec des contraintes de bande riveraine et parfois de zone inondable à vérifier au cas par cas."
 ---

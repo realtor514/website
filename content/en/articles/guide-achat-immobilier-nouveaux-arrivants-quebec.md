@@ -126,7 +126,7 @@ This may be the most practical piece of advice in this guide: choose a broker wh
 
 The Quebec real estate process involves dozens of conversations, documents, and decisions. Being able to ask questions and receive explanations in your native language is not a luxury. It is a condition for making fully informed decisions.
 
-Service is available in French, English, Spanish and Arabic, and each family's preferences are taken into account: some want the extended family involved in the decision, others place great weight on privacy, prefer long-term stability to short-term speculation, or care above all about owning something that is truly their own.
+Service is available in French, English and Arabic, and each family's preferences are taken into account: some want the extended family involved in the decision, others place great weight on privacy, prefer long-term stability to short-term speculation, or care above all about owning something that is truly their own.
 
 Those values align well with what Quebec real estate, done right, can offer.
 

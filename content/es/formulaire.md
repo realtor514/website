@@ -13,4 +13,4 @@ Leo cada solicitud personalmente. Usted recibe una respuesta en menos de 24 hora
 
 La primera conversación sirve para entender dónde se encuentra usted. Sin costo, sin compromiso.
 
-Servicio en francés, inglés, español y árabe, en Montreal, Laval, la Rive-Nord y la Rive-Sud.
+Servicio en francés, inglés y árabe, en Montreal, Laval, la Rive-Nord y la Rive-Sud.

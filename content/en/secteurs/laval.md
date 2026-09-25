@@ -41,7 +41,7 @@ faq:
   - q: "Do you work with investors in Laval?"
     a: "Yes. Plexes in Chomedey, Pont-Viau and Laval-des-Rapides make up a significant part of the Laval market. I analyze the real return before the visit: income, taxes, operating costs, capital reserve, not the cap rate printed in the listing."
   - q: "What languages do you work in?"
-    a: "French, English, Spanish and Arabic. This matters concretely when a transaction involves a family whose members do not all share a language: nobody signs a document they do not understand."
+    a: "French, English and Arabic. This matters concretely when a transaction involves a family whose members do not all share a language: nobody signs a document they do not understand."
 ---
 
 Laval is one of six areas I cover equally, alongside Montreal, Terrebonne, Blainville, Repentigny and Saint-Jérôme. I have no secondary territory: each area has its own dynamic and I analyze each one with the same rigour.

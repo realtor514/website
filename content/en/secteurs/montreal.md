@@ -78,4 +78,4 @@ You can start with an [online estimate](/en/tools/home-estimate/), then we refin
 
 ## Buying as a newcomer
 
-A significant share of my Montreal clientele arrives from abroad. I work in French, English, Spanish and Arabic, and I wrote a [complete guide for newcomers buying in Quebec](/en/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/): down payment, credit file without Canadian history, the notary's role and the real steps of the transaction.
+A significant share of my Montreal clientele arrives from abroad. I work in French, English and Arabic, and I wrote a [complete guide for newcomers buying in Quebec](/en/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/): down payment, credit file without Canadian history, the notary's role and the real steps of the transaction.
