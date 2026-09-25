@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Sinistres fréquents en assurance habitation au Québec: ce que la police de base couvre, ce qui exige un avenant, la franchise et la valeur à neuf."
 image: "images/articles/sinistres-frequents-couverture-habitation-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Presque tout le monde croit avoir « une assurance habitation ». Presque personne

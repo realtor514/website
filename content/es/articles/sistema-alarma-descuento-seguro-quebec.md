@@ -7,7 +7,7 @@ category: "Guía práctica"
 description: "Descuento de seguro y sistema de alarma en Quebec: por qué no se publica ningún porcentaje, lo que mira la aseguradora, la factura de las falsas alarmas."
 image: "images/articles/systeme-alarme-domotique-assurance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 El representante le anuncia un descuento de seguro, a veces un porcentaje preciso.

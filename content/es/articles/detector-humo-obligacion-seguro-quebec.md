@@ -6,7 +6,7 @@ translationKey: "article-prevention-incendie-assurance"
 category: "Guía práctica"
 description: "Detector de humo, obligación en Quebec: el reglamento de Montreal y de Laval, el detector de monóxido de carbono, y lo que la aseguradora exige además."
 image: "images/articles/prevention-incendie-assurance-habitation-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Su detector de humo cumple el reglamento de su ciudad. Eso no dice nada de lo que

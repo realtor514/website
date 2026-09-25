@@ -7,7 +7,7 @@ category: "Practical Guide"
 description: "Sunroom or veranda in Quebec: why it counts as an extension, the permit in Laval and Montreal, and the notice of alteration to the roll that follows."
 image: "images/articles/solarium-veranda-permis-evaluation-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 A sunroom gets shopped for like a piece of furniture: a model, a frame colour, an

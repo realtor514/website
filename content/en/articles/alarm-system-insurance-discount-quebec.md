@@ -7,7 +7,7 @@ category: "Practical Guide"
 description: "Alarm system insurance discount in Quebec: why no percentage is published, what the insurer actually looks at, and the false alarm bill."
 image: "images/articles/systeme-alarme-domotique-assurance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 The sales representative announces an insurance discount, sometimes a precise

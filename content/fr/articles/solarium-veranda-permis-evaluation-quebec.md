@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Solarium ou véranda au Québec: pourquoi c'est un agrandissement, le permis à Laval et à Montréal, et l'avis de modification du rôle qui suit."
 image: "images/articles/solarium-veranda-permis-evaluation-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un solarium se magasine comme un meuble: un modèle, une couleur de cadrage, une

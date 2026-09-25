@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Règlement du poêle à bois à Montréal et à Laval: seuil de 2,5 g/h, déclaration, smog, panne, amendes, ramonage, assurance et formulaire du vendeur."
 image: "images/articles/poele-foyer-bois-reglement-assurance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un foyer au bois n'est pas un simple agrément. C'est un appareil qui se déclare

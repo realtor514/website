@@ -7,7 +7,7 @@ category: "دليل عملي"
 description: "رخصة المستودع في كيبيك: حدّ 18 م² في لافال و15 م² في مونتريال، والمسافات، ومظلة الشتاء، وسجل التقييم، والتأمين."
 image: "images/articles/cabanon-abri-auto-garage-permis-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 المستودع الذي تشتريه من متجر العدد يأتي في صندوق واحد، ولا أحد عند الصندوق

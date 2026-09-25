@@ -6,7 +6,7 @@ translationKey: "article-prevention-incendie-assurance"
 category: "Guide pratique"
 description: "Avertisseur de fumée, obligation au Québec: le règlement de Montréal et de Laval, l'avertisseur de CO, et ce que l'assureur exige en plus."
 image: "images/articles/prevention-incendie-assurance-habitation-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Votre avertisseur de fumée respecte le règlement de votre ville. Cela ne dit rien

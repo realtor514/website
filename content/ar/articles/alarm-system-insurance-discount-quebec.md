@@ -7,7 +7,7 @@ category: "دليل عملي"
 description: "خصم التأمين ونظام الإنذار في كيبيك: لماذا لا تُنشر أي نسبة، وما ينظر إليه المؤمِّن، وفاتورة الإنذارات الكاذبة."
 image: "images/articles/systeme-alarme-domotique-assurance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 الممثّل يُعلن لك خصماً على التأمين، وأحياناً نسبةً محدّدة. ولا أحد يعرض عليك

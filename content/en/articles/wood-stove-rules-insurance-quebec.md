@@ -7,7 +7,7 @@ category: "Practical Guide"
 description: "Wood stove rules in Montreal and Laval: the 2.5 g/h threshold, the declaration, smog, outages, fines, sweeping, insurance and the seller's form."
 image: "images/articles/poele-foyer-bois-reglement-assurance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 A wood fireplace is not a simple amenity. It is an appliance that gets declared

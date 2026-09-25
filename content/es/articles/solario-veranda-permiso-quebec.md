@@ -7,7 +7,7 @@ category: "Guía práctica"
 description: "Solario o veranda en Quebec: por qué es una ampliación, el permiso en Laval y en Montreal, y el aviso de modificación del rol de evaluación que sigue."
 image: "images/articles/solarium-veranda-permis-evaluation-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un solario se compra como un mueble: un modelo, un color de marco, una fecha de

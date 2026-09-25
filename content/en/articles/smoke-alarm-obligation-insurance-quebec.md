@@ -6,7 +6,7 @@ translationKey: "article-prevention-incendie-assurance"
 category: "Practical Guide"
 description: "Smoke alarm obligation in Quebec: the Montreal and Laval by-laws, the carbon monoxide alarm, and what your insurer asks for on top of them."
 image: "images/articles/prevention-incendie-assurance-habitation-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Your smoke alarm complies with your city's by-law. That says nothing about what

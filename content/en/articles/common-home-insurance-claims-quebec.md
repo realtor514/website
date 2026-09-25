@@ -7,7 +7,7 @@ category: "Practical Guide"
 description: "Common home insurance claims in Quebec: what the base policy covers, what needs an endorsement, the deductible and replacement cost value."
 image: "images/articles/sinistres-frequents-couverture-habitation-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Almost everybody believes they have "home insurance." Almost nobody knows whether

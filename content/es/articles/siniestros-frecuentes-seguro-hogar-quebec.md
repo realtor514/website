@@ -7,7 +7,7 @@ category: "Guía práctica"
 description: "Siniestros frecuentes en seguro de vivienda en Quebec: lo que cubre la póliza de base, lo que exige un avenant, la franquicia y el valor a nuevo."
 image: "images/articles/sinistres-frequents-couverture-habitation-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Casi todo el mundo cree tener «un seguro de vivienda». Casi nadie sabe si el

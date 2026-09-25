@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Rabais d'assurance et système d'alarme au Québec: pourquoi aucun pourcentage n'est publié, ce que l'assureur regarde, la facture des fausses alarmes."
 image: "images/articles/systeme-alarme-domotique-assurance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Le représentant vous annonce un rabais d'assurance, parfois un pourcentage

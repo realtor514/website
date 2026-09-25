@@ -7,7 +7,7 @@ category: "Guía práctica"
 description: "Permiso de cobertizo en Quebec: el umbral de 18 m² en Laval y de 15 m² en Montreal, los márgenes, el abrigo de invierno, el rol de evaluación y el seguro."
 image: "images/articles/cabanon-abri-auto-garage-permis-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 El cobertizo que se compra en la ferretería cabe en una caja, y nadie en la caja

@@ -7,7 +7,7 @@ category: "دليل عملي"
 description: "نظام موقد الحطب في مونتريال ولافال: حدّ 2.5 غ/س، والتصريح، والضباب الدخاني، والانقطاع، والغرامات، والتنظيف، والتأمين، ونموذج البائع."
 image: "images/articles/poele-foyer-bois-reglement-assurance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 الموقد العامل بالحطب ليس ترفاً بسيطاً. إنه جهاز يُصرَّح به للمدينة، ومعدّل انبعاث

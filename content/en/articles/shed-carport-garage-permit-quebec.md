@@ -7,7 +7,7 @@ category: "Practical Guide"
 description: "Shed permit in Quebec: the 18 m² threshold in Laval, 15 m² in Montreal, setbacks, the winter carport, the assessment roll and insurance."
 image: "images/articles/cabanon-abri-auto-garage-permis-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 The shed you buy at the hardware store fits in a box, and nobody at the cash

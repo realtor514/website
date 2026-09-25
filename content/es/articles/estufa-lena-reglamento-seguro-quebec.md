@@ -7,7 +7,7 @@ category: "Guía práctica"
 description: "Estufa de leña en Montreal y en Laval: umbral de 2,5 g/h, declaración, smog, apagón, multas, deshollinado, seguro y formulario del vendedor."
 image: "images/articles/poele-foyer-bois-reglement-assurance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Una chimenea de leña no es un simple agrado. Es un aparato que se declara a la
