@@ -6,6 +6,7 @@ translationKey: "article-comparables-voisin"
 category: "Guide du vendeur"
 description: "Quatre critères, superficie mesurée, ajustements, conditions de vente: comment auditer les comparables immobiliers qu'on vous présente."
 image: "images/articles/comparables-prix-maison-voisin-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

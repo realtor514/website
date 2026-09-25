@@ -6,6 +6,7 @@ translationKey: "article-garder-ou-vendre"
 category: "دليل البائع"
 description: "تجديد الرهن، والصيانة المؤجَّلة، والسكن الشاغر، والتركة، والمساهمة الخاصة: خمس حالات يكلّف فيها الاحتفاظ بعقار في كيبيك أكثر من بيعه."
 image: "images/articles/garder-ou-vendre-propriete-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

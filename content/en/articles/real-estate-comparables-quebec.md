@@ -6,6 +6,7 @@ translationKey: "article-comparables-voisin"
 category: "Seller's Guide"
 description: "Four criteria, measured living area, adjustments, conditions of sale: how to audit the real estate comparables someone puts in front of you."
 image: "images/articles/comparables-prix-maison-voisin-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

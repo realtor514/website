@@ -6,6 +6,7 @@ translationKey: "article-contester-evaluation-municipale"
 category: "عقارات 101"
 description: "تاريخ المرجع، ومهلة الأول من أيار، والرسوم، وردّ المقيّم، والطعن أمام TAQ: كيف تعترض على تقييمك البلدي في كيبيك، خطوة بخطوة."
 image: "images/articles/contester-evaluation-municipale-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

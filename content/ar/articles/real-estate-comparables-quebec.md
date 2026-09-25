@@ -6,6 +6,7 @@ translationKey: "article-comparables-voisin"
 category: "دليل البائع"
 description: "أربعة معايير، ومساحة مقيسة بطريقة معلنة، وتعديلات، وظروف البيع: كيف تدقّق في العقارات المقارنة التي تُعرض عليك قبل أن تسمع رقماً."
 image: "images/articles/comparables-prix-maison-voisin-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

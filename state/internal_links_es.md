@@ -36,6 +36,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Casa difícil de asegurar en Quebec: lo que bloquea la compra](/es/articles/casa-dificil-de-asegurar-quebec/) : Negativa del seguro, tanque de mazut, aluminio, techo, siniestros anteriores: por qué una casa se vuelve 
 - [Casa lista o para renovar en Quebec: quién financia](/es/articles/casa-lista-o-para-renovar-quebec/) : Casa para renovar o lista para habitar en Quebec: el préstamo SCHL Améliorations, el valor después de las
 - [Casa nueva o usada en Quebec: lo que de verdad cambia](/es/articles/casa-nueva-o-existente-quebec/) : TPS y TVQ, garantía GCR, contrat préliminaire, droits de mutation: lo que separa realmente una casa nueva
+- [Casa quebequense: las particularidades de construcción](/es/articles/caracteristicas-casa-quebequense/) (brouillon) : Escalera exterior, sótano habitado, techo plano, plex, drenaje francés y calefacción eléctrica: qué parti
 - [Comprar de contado en Quebec: la ventaja real, el riesgo real y lo que exige la ley](/es/articles/cash-buyers-advantage/) : Oferta sin condición de financiamiento, inspección, preaprobación, obligaciones ante CANAFE y el tope de 
 - [Comprar en Laval: los seis sectores, el transporte, los impuestos y las verificaciones](/es/articles/comprar-en-laval-2025/) : Los seis sectores, el metro, REM y SRB, derechos de mutación al 3 % sobre 500 000 $, el rol de evaluación
 - [Comprar en zona inundable en Quebec: las verificaciones](/es/articles/comprar-zona-inundable-quebec/) : Comprar en zona inundable en Quebec: el nuevo marco, lo que decide el mapa, el seguro, el prestamista y l
@@ -110,6 +111,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Primera reunión con un corredor inmobiliario: los documentos](/es/articles/documentos-antes-de-reunirse-corredor-quebec/) : Certificat de localisation, escritura de compra, cuentas de impuestos, contratos de alquiler: los documen
 - [Prueba de radón en una vivienda en Quebec: el calendario real](/es/articles/radon-vivienda-quebec/) : Directriz de 200 Bq/m³, prueba de tres meses en temporada de calefacción, cláusula 3.21 y declaraciones d
 - [Reglamento de piscinas residenciales en Quebec: el plazo del 30 de septiembre de 2027](/es/articles/reglamento-piscinas-quebec/) : Reglamento de piscinas residenciales en Quebec: cercado, puerta, escalera, permiso, multa y el 30 de sept
+- [Renovaciones y resiliencia climática: la regla en Quebec](/es/articles/renovaciones-resiliencia-climatica-quebec/) (brouillon) : Válvula antirretorno, membrana blanca, canaletas a un metro: las renovaciones de resiliencia climática ex
 - [Talar un árbol en Quebec: el reglamento y de quién es el árbol](/es/articles/arboles-propiedad-reglamentos-quebec/) : De quién es el árbol, qué permite el Code civil entre vecinos, el permiso de tala en Montreal y en Laval,
 - [Vicio oculto descubierto durante una renovación en Quebec](/es/articles/vicio-oculto-durante-renovacion-quebec/) : Vicio oculto descubierto durante una renovación: parar, documentar, denunciar por escrito. La secuencia e
 

@@ -1,7 +1,7 @@
 ---
 title: "Rabais d'assurance et système d'alarme au Québec"
-date: 2026-09-15
-lastmod: 2026-09-15
+date: 2026-09-25
+lastmod: 2026-09-25
 translationKey: "article-systeme-alarme-domotique-assurance"
 category: "Guide pratique"
 description: "Rabais d'assurance et système d'alarme au Québec: pourquoi aucun pourcentage n'est publié, ce que l'assureur regarde, la facture des fausses alarmes."

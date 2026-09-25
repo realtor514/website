@@ -6,6 +6,7 @@ translationKey: "article-propriete-invendue"
 category: "Guide du vendeur"
 description: "Peu de visites, aucune promesse, ou des offres qui tombent: le symptôme désigne la cause. Diagnostic honnête et chiffres APCIQ d'août 2026."
 image: "images/articles/propriete-ne-se-vend-pas-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

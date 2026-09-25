@@ -1,7 +1,7 @@
 ---
 title: "Sinistres fréquents et assurance habitation au Québec"
-date: 2026-09-23
-lastmod: 2026-09-23
+date: 2026-09-13
+lastmod: 2026-09-13
 translationKey: "article-sinistres-frequents-couverture"
 category: "Guide pratique"
 description: "Sinistres fréquents en assurance habitation au Québec: ce que la police de base couvre, ce qui exige un avenant, la franchise et la valeur à neuf."

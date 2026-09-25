@@ -6,6 +6,7 @@ translationKey: "article-arbres-propriete"
 category: "Practical Guide"
 description: "Who owns the tree, what the Code civil allows between neighbours, the felling permit in Montreal and Laval, and what has to be declared when you sell."
 image: "images/articles/arbres-propriete-reglements-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

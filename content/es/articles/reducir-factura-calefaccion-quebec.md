@@ -6,6 +6,7 @@ translationKey: "article-facture-chauffage"
 category: "Guía práctica"
 description: "Tarifa D, tramo de 40 kWh, aislamiento, bomba de calor y ayudas 2026: cómo reducir su factura de calefacción en Quebec, en el orden que de verdad rinde."
 image: "images/articles/reduire-facture-chauffage-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

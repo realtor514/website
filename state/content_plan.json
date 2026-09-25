@@ -8528,8 +8528,10 @@
     "Questions frequentes du vendeur et de l'acheteur"
    ],
    "slug": "cabanon-abri-auto-garage-permis-quebec",
-   "status": "in_progress",
-   "distinct_de": "/articles/renovations-dont-add-value/"
+   "status": "written_draft",
+   "distinct_de": "/articles/renovations-dont-add-value/",
+   "published_path": "content/fr/articles/cabanon-abri-auto-garage-permis-quebec.md",
+   "date": "2026-08-26"
   },
   {
    "id": "t207",
@@ -8679,8 +8681,10 @@
     "Questions frequentes"
    ],
    "slug": "poele-foyer-bois-reglement-assurance-quebec",
-   "status": "in_progress",
-   "distinct_de": "/articles/maison-difficile-assurer-quebec/"
+   "status": "written_draft",
+   "distinct_de": "/articles/maison-difficile-assurer-quebec/",
+   "published_path": "content/fr/articles/poele-foyer-bois-reglement-assurance-quebec.md",
+   "date": "2026-09-01"
   },
   {
    "id": "t214",
@@ -8834,8 +8838,10 @@
     "Questions frequentes"
    ],
    "slug": "prevention-incendie-assurance-habitation-quebec",
-   "status": "in_progress",
-   "distinct_de": "/articles/maison-difficile-assurer-quebec/"
+   "status": "written_draft",
+   "distinct_de": "/articles/maison-difficile-assurer-quebec/",
+   "published_path": "content/fr/articles/prevention-incendie-assurance-habitation-quebec.md",
+   "date": "2026-09-07"
   },
   {
    "id": "t221",
@@ -8857,7 +8863,9 @@
     "Questions frequentes"
    ],
    "slug": "systeme-alarme-domotique-assurance-quebec",
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/systeme-alarme-domotique-assurance-quebec.md",
+   "date": "2026-09-25"
   },
   {
    "id": "t222",
@@ -9034,8 +9042,10 @@
     "Questions frequentes"
    ],
    "slug": "solarium-veranda-permis-evaluation-quebec",
-   "status": "in_progress",
-   "distinct_de": "/articles/renovations-dont-add-value/"
+   "status": "written_draft",
+   "distinct_de": "/articles/renovations-dont-add-value/",
+   "published_path": "content/fr/articles/solarium-veranda-permis-evaluation-quebec.md",
+   "date": "2026-09-19"
   },
   {
    "id": "t230",
@@ -9122,8 +9132,10 @@
     "L'effet d'une reclamation sur la prime et sur la revente"
    ],
    "slug": "sinistres-frequents-couverture-habitation-quebec",
-   "status": "in_progress",
-   "distinct_de": "/articles/maison-difficile-assurer-quebec/"
+   "status": "written_draft",
+   "distinct_de": "/articles/maison-difficile-assurer-quebec/",
+   "published_path": "content/fr/articles/sinistres-frequents-couverture-habitation-quebec.md",
+   "date": "2026-09-13"
   },
   {
    "id": "t234",

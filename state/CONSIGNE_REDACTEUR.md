@@ -72,7 +72,31 @@ Etat observe le 25 septembre 2026, a reverifier vous-meme:
 | lautorite.qc.ca | 403 a WebFetch et a curl | capture web.archive.org |
 | securitepublique.gouv.qc.ca | 405 | les PDF sur cdn-contenu.quebec.ca |
 | justice.gouv.qc.ca | defi Cloudflare | Educaloi pour les paliers des tribunaux |
-| canlii.org et ccq.lexum.com | 403, et Lexum est une coquille JavaScript sans texte | rien, aucune route connue vers le Code civil |
+| canlii.org et ccq.lexum.com | 403, et Lexum est une coquille JavaScript sans texte | inutile, voir `tools/ccq.py` ci-dessous |
+
+### Le Code civil du Quebec: utilisez `tools/ccq.py`
+
+LegisQuebec est hors service, mais le Code civil reste lisible par une capture
+datee de web.archive.org de la page officielle. L outil fait le travail:
+
+```
+python tools/ccq.py 1726 1739 2925          affiche ces articles en entier
+python tools/ccq.py --chercher "vice cache" cherche dans les 3 523 articles
+```
+
+Les 3 523 articles sont en cache local apres le premier appel. Vous pouvez donc
+citer un numero d article du Code civil **en ayant reellement lu son texte**.
+
+Dans le JSON de meta, citez l URL canonique de LegisQuebec
+(`https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991`) et dites dans
+`supports` que vous l avez lue par capture d archive, avec la date. Une archive
+de la page officielle reste la page officielle, mais le lecteur a le droit de
+savoir que le texte date de cette capture.
+
+**Cet outil ne couvre que le Code civil.** Les reglements (Q-2 r. 1.1, la Loi
+sur la fiscalite municipale, le Code de securite) vivent ailleurs sur
+LegisQuebec et restent inaccessibles. Pour eux, la regle ne change pas: pas de
+source, pas d affirmation.
 
 **Essayez plusieurs routes avant d abandonner une affirmation:** le PDF plutot
 que la page HTML, le site du ministere plutot que quebec.ca, une capture de

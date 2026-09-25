@@ -6,6 +6,7 @@ translationKey: "article-rencontre-courtier"
 category: "دليل عملي"
 description: "certificat de localisation، وعقد الشراء، وفواتير الضرائب، وعقود الإيجار: المستندات التي تجمعها قبل أول لقاء مع وسيط عقاري."
 image: "images/articles/preparer-rencontre-courtier-documents/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

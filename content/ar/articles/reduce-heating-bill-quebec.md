@@ -6,6 +6,7 @@ translationKey: "article-facture-chauffage"
 category: "دليل عملي"
 description: "تعرفة D، وشريحة 40 كيلوواط ساعة، والعزل، والمضخة الحرارية، ومساعدات 2026: كيف تخفض فاتورة التدفئة في كيبيك، بالترتيب الذي يعود عليك فعلاً."
 image: "images/articles/reduire-facture-chauffage-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

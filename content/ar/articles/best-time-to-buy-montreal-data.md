@@ -6,6 +6,7 @@ translationKey: "article-fall-buying-window"
 category: "تحليل السوق"
 description: "أفضل وقت للشراء في مونتريال يُقرأ في المخزون ومدة البيع وأشهر المخزون في قطاعك أنت، لا في السعر الوسيط المنشور للمدينة كلها."
 image: "images/articles/acheter-fin-ete-montreal-donnees/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

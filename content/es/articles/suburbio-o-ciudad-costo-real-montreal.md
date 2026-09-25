@@ -6,6 +6,7 @@ translationKey: "article-banlieue-vs-ville"
 category: "Análisis de Mercado"
 description: "Precios medianos de agosto de 2026, impuestos, abono mensual contra un segundo auto, tiempos de trayecto: el costo real del suburbio de Montreal, con sus fuentes."
 image: "images/articles/banlieue-ou-ville-cout-reel-montreal/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

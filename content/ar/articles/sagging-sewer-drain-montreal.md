@@ -6,6 +6,7 @@ translationKey: "article-ventre-de-boeuf"
 category: "دليل المشتري"
 description: "ventre de bœuf في مصرف بمونتريال: الفحص بالكاميرا، ومسؤولية المالك حتى المجرور تحت الشارع، ومنحة RénoPlex لصمام الارتجاع، وملحق التأمين."
 image: "images/articles/ventre-de-boeuf-drain-montreal/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

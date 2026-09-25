@@ -6,6 +6,7 @@ translationKey: "article-banlieue-vs-ville"
 category: "Market Analysis"
 description: "August 2026 median prices, taxes, a monthly pass against a second car, commuting time: what the Montreal suburbs really cost, with the sources."
 image: "images/articles/banlieue-ou-ville-cout-reel-montreal/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

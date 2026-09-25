@@ -6,6 +6,7 @@ translationKey: "article-bruit-maison-condo"
 category: "دليل المشتري"
 description: "ضجيج هوائي أم ضجيج ارتطام، سنة البناء، تغطية الأرضية التي يفرضها إعلان الملكية المشتركة، خمسة اختبارات أثناء الزيارة، والرجوع القانوني الفعلي في كيبيك."
 image: "images/articles/bruit-maison-condo-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

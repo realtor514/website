@@ -6,6 +6,7 @@ translationKey: "article-fall-buying-window"
 category: "Market Analysis"
 description: "The best time to buy in Montreal is read in your sector's supply, time on market and months of inventory, not in the median price."
 image: "images/articles/acheter-fin-ete-montreal-donnees/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

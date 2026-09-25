@@ -6,6 +6,7 @@ translationKey: "article-banlieue-vs-ville"
 category: "Analyse de marché"
 description: "Prix médians d'août 2026, taxes, passe mensuelle contre deuxième voiture, temps de trajet: le coût réel de la banlieue de Montréal, avec ses sources."
 image: "images/articles/banlieue-ou-ville-cout-reel-montreal/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

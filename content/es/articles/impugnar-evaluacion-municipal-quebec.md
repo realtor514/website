@@ -6,6 +6,7 @@ translationKey: "article-contester-evaluation-municipale"
 category: "Inmobiliaria 101"
 description: "Fecha de referencia, plazo del 1 de mayo, costos, respuesta del evaluador y recurso ante el TAQ: cómo impugnar su evaluación municipal en Quebec, paso a paso."
 image: "images/articles/contester-evaluation-municipale-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

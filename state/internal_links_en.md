@@ -36,8 +36,9 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [New Home Warranty in Quebec: The GCR Plan at 1, 3 and 5 Years](/en/articles/new-home-warranty-quebec/) : Buildings covered and excluded, the inspection préréception, 1, 3 and 5 years, notice deadlines, arbitrat
 - [Noise and Soundproofing in a Quebec Condo: What to Check](/en/articles/noise-home-condo-quebec/) : Airborne or impact noise, year of construction, the floor covering clause in the declaration of co-owners
 - [Off-Market Properties in Quebec: What They Are, What They Cost You, What Your Broker Must Disclose](/en/articles/off-market-properties/) : Off Centris is not a discount. Disclosure of interest, the duty to verify, double representation: the rea
+- [Quebec House Construction Features: What a Buyer Should Check](/en/articles/quebec-house-construction-features/) (brouillon) : Outside staircase, lived-in basement, flat roof, plex, foundation drain, electric heating: the constructi
 - [Roof and Window Lifespan in Quebec](/en/articles/roof-and-window-lifespan-quebec/) : Expected service life of a roof, of windows, of a heat pump: the official figures, the remaining useful l
-- [Sagging Sewer Drain in Montreal: What to Check Before You Offer](/en/articles/sagging-sewer-drain-montreal/) : A ventre de boeuf in a Montreal drain: camera inspection, who is responsible up to the street, the RenoPl
+- [Sagging Sewer Drain in Montreal: What to Check Before You Offer](/en/articles/sagging-sewer-drain-montreal/) : A ventre de boeuf in a Montreal drain: camera inspection, who is responsible up to the street, the RénoPl
 - [Sale Without Legal Warranty in Quebec: What It Actually Changes](/en/articles/sale-without-legal-warranty-quebec/) : Sale without legal warranty in Quebec: what the clause takes away, what it cannot erase, and what a buyer
 - [The Hidden Costs of Homeownership Nobody Puts in the Brochure](/en/articles/hidden-homeownership-costs/) : Taxes, notary, condo fees, insurance, maintenance: what owning a property in Quebec really costs, using t
 - [The Home Inspection Checklist: What Gets Checked, Item by Item](/en/articles/home-inspection-checklist-montreal/) : Roof, foundation, drain, plumbing, wiring, pyrite, vermiculite, lead, radon: what a Quebec inspector actu
@@ -103,6 +104,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 ## Practical Guide
 - [Choosing a Renovation Contractor in Quebec](/en/articles/choosing-renovation-contractor-quebec/) : RBQ licence and sous-catégories, the contract, the holdback, the legal hypothec: how to choose a renovati
+- [Climate Resilient Renovations in Quebec: What the By-law Requires](/en/articles/climate-resilient-renovations-quebec/) (brouillon) : Backwater valve, white membrane, gutters at one metre: the climate resilient renovations Quebec requires,
 - [Cutting Down a Tree in Quebec: The By-law and Who Owns the Tree](/en/articles/trees-property-rules-quebec/) : Who owns the tree, what the Code civil allows between neighbours, the felling permit in Montreal and Lava
 - [First Meeting With a Real Estate Broker: The Documents](/en/articles/documents-before-meeting-broker-quebec/) : Certificat de localisation, deed of sale, tax bills, leases: the documents to gather before your first me
 - [Hidden Defect Found During a Renovation in Quebec](/en/articles/hidden-defect-found-during-renovation-quebec/) : A vice caché found during a renovation: stop, document, give written notice. The exact sequence, and the 

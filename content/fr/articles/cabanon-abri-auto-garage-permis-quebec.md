@@ -1,7 +1,7 @@
 ---
 title: "Permis cabanon, abri d'auto et garage au Québec"
-date: 2026-09-02
-lastmod: 2026-09-02
+date: 2026-08-26
+lastmod: 2026-08-26
 translationKey: "article-cabanon-abri-garage-permis"
 category: "Guide pratique"
 description: "Permis cabanon au Québec : le seuil de 18 m² à Laval, de 15 m² à Montréal, les marges, l'abri d'hiver, le rôle d'évaluation et l'assurance."

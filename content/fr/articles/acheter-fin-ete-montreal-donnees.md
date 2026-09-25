@@ -6,6 +6,7 @@ translationKey: "article-fall-buying-window"
 category: "Analyse de marché"
 description: "Le meilleur moment pour acheter à Montréal se lit dans le stock, le délai de vente et les mois d'inventaire de votre secteur, pas dans le prix médian."
 image: "images/articles/acheter-fin-ete-montreal-donnees/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

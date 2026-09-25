@@ -6,6 +6,7 @@ translationKey: "article-climate-resilient-renos"
 category: "Practical Guide"
 description: "Backwater valve, white membrane, gutters at one metre: the climate resilient renovations Quebec requires, and what Montreal subsidizes."
 image: "images/articles/renovations-resilience-climat-quebec/featured.jpg"
+needs_expert_review: true
 draft: true
 ---
 

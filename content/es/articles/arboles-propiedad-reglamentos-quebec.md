@@ -6,6 +6,7 @@ translationKey: "article-arbres-propriete"
 category: "Guía práctica"
 description: "De quién es el árbol, qué permite el Code civil entre vecinos, el permiso de tala en Montreal y en Laval, y lo que hay que declarar al vender."
 image: "images/articles/arbres-propriete-reglements-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

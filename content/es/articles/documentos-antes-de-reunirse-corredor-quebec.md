@@ -6,6 +6,7 @@ translationKey: "article-rencontre-courtier"
 category: "Guía práctica"
 description: "Certificat de localisation, escritura de compra, cuentas de impuestos, contratos de alquiler: los documentos que debe reunir antes de la primera reunión con un corredor."
 image: "images/articles/preparer-rencontre-courtier-documents/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

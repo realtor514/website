@@ -1,7 +1,7 @@
 ---
 title: "Solarium et véranda: le permis d'agrandissement au Québec"
-date: 2026-09-17
-lastmod: 2026-09-17
+date: 2026-09-19
+lastmod: 2026-09-19
 translationKey: "article-solarium-veranda-permis-evaluation"
 category: "Guide pratique"
 description: "Solarium ou véranda au Québec: pourquoi c'est un agrandissement, le permis à Laval et à Montréal, et l'avis de modification du rôle qui suit."

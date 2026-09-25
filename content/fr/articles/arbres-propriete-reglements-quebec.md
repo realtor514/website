@@ -6,6 +6,7 @@ translationKey: "article-arbres-propriete"
 category: "Guide pratique"
 description: "À qui appartient l'arbre, ce que le Code civil permet entre voisins, le permis d'abattage à Montréal et à Laval, et ce qui se déclare à la vente."
 image: "images/articles/arbres-propriete-reglements-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

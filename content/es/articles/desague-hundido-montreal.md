@@ -6,6 +6,7 @@ translationKey: "article-ventre-de-boeuf"
 category: "Guía del Comprador"
 description: "Ventre de bœuf en el desagüe en Montreal: inspección con cámara, responsabilidad hasta la calle, subvención RénoPlex para la válvula antirretorno y cláusula de seguro."
 image: "images/articles/ventre-de-boeuf-drain-montreal/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

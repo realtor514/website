@@ -6,6 +6,7 @@ translationKey: "article-propriete-invendue"
 category: "Seller's Guide"
 description: "Few showings, no promises to purchase, or offers that collapse: the symptom points to the cause. An honest diagnosis with APCIQ numbers from August 2026."
 image: "images/articles/propriete-ne-se-vend-pas-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

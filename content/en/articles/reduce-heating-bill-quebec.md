@@ -6,6 +6,7 @@ translationKey: "article-facture-chauffage"
 category: "Practical Guide"
 description: "Rate D, the 40 kWh tier, insulation, heat pumps and 2026 grants: how to reduce your heating bill in Quebec, in the order that actually pays."
 image: "images/articles/reduire-facture-chauffage-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

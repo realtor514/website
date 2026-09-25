@@ -1,7 +1,7 @@
 ---
 title: "Règlement du poêle à bois à Montréal: ce qui s'applique"
-date: 2026-09-06
-lastmod: 2026-09-06
+date: 2026-09-01
+lastmod: 2026-09-01
 translationKey: "article-poele-foyer-bois-reglement"
 category: "Guide pratique"
 description: "Règlement du poêle à bois à Montréal et à Laval: seuil de 2,5 g/h, déclaration, smog, panne, amendes, ramonage, assurance et formulaire du vendeur."

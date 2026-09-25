@@ -11,6 +11,7 @@ Sortie: une ligne par fichier, puis le total. Code de sortie 1 s il y a une erre
 """
 
 import datetime
+import json
 import re
 import sys
 from pathlib import Path
@@ -150,6 +151,22 @@ def check(path):
 
     if meta.get("draft", "").lower() != "true":
         warnings.append("draft n est pas true")
+
+    # Une reserve consignee sans drapeau, c est une reserve que personne ne
+    # verra. Cinq articles sur six de la vague du 25 septembre listaient des
+    # claims_needing_review sans porter needs_expert_review: true.
+    meta_json = ROOT / "meta" / "fr" / (path.stem + ".json")
+    if meta_json.is_file():
+        try:
+            claims = json.loads(meta_json.read_text(encoding="utf-8")).get(
+                "claims_needing_review") or []
+        except ValueError:
+            claims = []
+            errors.append("meta/fr/%s.json illisible" % path.stem)
+        if claims and meta.get("needs_expert_review", "").lower() != "true":
+            errors.append(
+                "%d reserve(s) dans claims_needing_review mais pas de "
+                "needs_expert_review: true" % len(claims))
 
     # Google tronque vers 155. Les articles existants du site vont jusqu a 218,
     # donc un depassement modeste est un avis, pas une erreur.

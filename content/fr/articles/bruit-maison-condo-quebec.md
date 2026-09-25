@@ -6,6 +6,7 @@ translationKey: "article-bruit-maison-condo"
 category: "Guide de l'acheteur"
 description: "Bruit aérien ou d'impact, année de construction, couvre-plancher imposé en copropriété, cinq tests à la visite et le recours réel au Québec."
 image: "images/articles/bruit-maison-condo-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

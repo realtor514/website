@@ -6,6 +6,7 @@ translationKey: "article-garder-ou-vendre"
 category: "Guía del Vendedor"
 description: "Renovación hipotecaria, mantenimiento aplazado, vivienda desocupada, sucesión, cuota especial: cuando conservar cuesta más que vender en Quebec."
 image: "images/articles/garder-ou-vendre-propriete-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

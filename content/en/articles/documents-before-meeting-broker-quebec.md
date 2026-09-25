@@ -6,6 +6,7 @@ translationKey: "article-rencontre-courtier"
 category: "Practical Guide"
 description: "Certificat de localisation, deed of sale, tax bills, leases: the documents to gather before your first meeting with a real estate broker."
 image: "images/articles/preparer-rencontre-courtier-documents/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

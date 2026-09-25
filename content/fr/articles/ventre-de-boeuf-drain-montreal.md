@@ -6,6 +6,7 @@ translationKey: "article-ventre-de-boeuf"
 category: "Guide de l'acheteur"
 description: "Ventre de bœuf dans le drain à Montréal : inspection par caméra, responsabilité de la Ville, subvention pour le clapet antiretour et avenant d'assurance."
 image: "images/articles/ventre-de-boeuf-drain-montreal/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

@@ -6,6 +6,7 @@ translationKey: "article-bruit-maison-condo"
 category: "Guía del Comprador"
 description: "Ruido aéreo o de impacto, año de construcción, el revestimiento de piso impuesto en copropiedad, cinco pruebas durante la visita y el recurso real en Quebec."
 image: "images/articles/bruit-maison-condo-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

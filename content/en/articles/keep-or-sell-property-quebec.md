@@ -6,6 +6,7 @@ translationKey: "article-garder-ou-vendre"
 category: "Seller's Guide"
 description: "Renewal, deferred maintenance, a vacant dwelling, an estate, a special assessment: five cases where keeping a property in Quebec costs more than selling it."
 image: "images/articles/garder-ou-vendre-propriete-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

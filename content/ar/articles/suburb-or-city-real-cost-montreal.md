@@ -6,6 +6,7 @@ translationKey: "article-banlieue-vs-ville"
 category: "تحليل السوق"
 description: "الأسعار الوسيطة لشهر أغسطس 2026، والضرائب، والبطاقة الشهرية في مقابل سيارة ثانية، وزمن التنقّل: التكلفة الحقيقية لضواحي مونتريال، بمصادرها."
 image: "images/articles/banlieue-ou-ville-cout-reel-montreal/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

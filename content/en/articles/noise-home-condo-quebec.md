@@ -6,6 +6,7 @@ translationKey: "article-bruit-maison-condo"
 category: "Buyer's Guide"
 description: "Airborne or impact noise, year of construction, the floor covering clause in the declaration of co-ownership, five tests during the visit, and the real recourse in Quebec."
 image: "images/articles/bruit-maison-condo-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

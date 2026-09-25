@@ -6,6 +6,7 @@ translationKey: "article-ventre-de-boeuf"
 category: "Buyer's Guide"
 description: "A ventre de boeuf in a Montreal drain: camera inspection, who is responsible up to the street, the RénoPlex backwater valve grant and the insurance endorsement."
 image: "images/articles/ventre-de-boeuf-drain-montreal/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 

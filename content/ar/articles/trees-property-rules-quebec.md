@@ -6,6 +6,7 @@ translationKey: "article-arbres-propriete"
 category: "دليل عملي"
 description: "لمن تعود ملكية الشجرة، وما يسمح به Code civil بين الجيران، ورخصة القطع في مونتريال ولافال، وما يجب التصريح به عند البيع."
 image: "images/articles/arbres-propriete-reglements-quebec/featured.jpg"
+needs_expert_review: true
 draft: false
 ---
 
