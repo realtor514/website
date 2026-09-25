@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Articles 1457 et 1467, règles de Montréal et de Laval, amendes, assurance responsabilité civile et plex loué : qui répond du déneigement."
 image: "images/articles/deneigement-chute-glace-responsabilite-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un livreur glisse dans votre entrée. Une plaque de glace se détache de votre

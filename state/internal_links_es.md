@@ -19,6 +19,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Copropiedad indivisa en Montréal: cómo se financia](/es/articles/copropiedad-indivisa-montreal/) : Por qué existe la indivisión en Montréal, la aportación inicial exigida, la convention d'indivision y los
 - [Cómo pagar su hipoteca más rápido en Quebec](/es/articles/pagar-hipoteca-mas-rapido-quebec/) : Pago acelerado, pago global, aumento de la cuota y renovación: las cuatro palancas para pagar su hipoteca
 - [El mito del 20 % de entrada: lo que frena a los compradores](/es/articles/down-payment-myth-debunked/) : La entrada mínima real en Quebec, lo que cuesta de verdad el seguro CMHC, el QST que hay que pagar en efe
+- [Financiar una renovación mayor en Quebec](/es/articles/financiar-renovacion-mayor-quebec/) : Financiar una renovación mayor en Quebec: las cuatro fuentes de fondos, el desembolso, la fianza comparti
 - [Gastos de mudanza en Quebec: la regla de los 40 km y qué se deduce](/es/articles/deduccion-gastos-mudanza-quebec/) : Deducción de gastos de mudanza y regla de los 40 km: quién tiene derecho, qué se deduce, los formularios 
 - [Impuestos y propiedad en Quebec: qué se deduce de verdad](/es/articles/impuestos-propietario-quebec/) : Impuestos del propietario en Quebec: deducciones, exención de residencia principal, oficina en casa, plex
 - [La mejor tasa hipotecaria en Canadá: lo que se decide antes de la tasa](/es/articles/best-mortgage-rate-canada/) : Tasa anunciada o tasa real, fija o variable, plazo, penalidad y diferencial: lo que de verdad define el c
@@ -97,9 +98,11 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Vender con o sin corredor en Quebec: la comparación honesta](/es/articles/selling-without-realtor-quebec/) : Es la pregunta número uno de los vendedores en Quebec. Aquí están las cifras reales, lo que usted ahorra 
 - [Vender la casa familiar y mudarse a algo más pequeño: guía para personas mayores en el Gran Montreal](/es/articles/senior-downsizing-guide/) : Condominio, alquiler, residencia para mayores o quedarse en casa: lo que realmente libera vender la casa 
 - [Vender o conservar su casa en Quebec: sus propias señales](/es/articles/senales-para-vender-quebec/) : Renovación, tamaño del hogar, trayecto, mantenimiento: seis señales personales que dicen si conservar o v
+- [Vender una casa que vale menos que la hipoteca](/es/articles/vender-casa-vale-menos-hipoteca-quebec/) : Vender en Quebec una casa cuyo valor es inferior a la hipoteca: saldo, penalidad, carta de pago, retribuc
 - [¿Cuánto tiempo toma realmente vender una casa en Montreal?](/es/articles/how-long-to-sell-house-montreal/) : El plazo de venta depende mucho menos del mercado que de tres decisiones que usted controla. Aquí está el
 
 ## Guía práctica
+- [Adaptar la vivienda para envejecer en casa en Quebec](/es/articles/adaptar-vivienda-envejecer-quebec/) : Créditos fiscales y adaptación de la vivienda de adultos mayores en Quebec: quién tiene derecho, cuánto, 
 - [Conflictos vecinales en Quebec: los recursos](/es/articles/conflictos-vecinales-quebec/) : Artículo 976, vistas a 1,5 m, cerca medianera, mediación y pequeñas causas: los recursos por conflictos v
 - [Costo de mantenimiento de una casa en Quebec: el calendario de reemplazo](/es/articles/costo-mantenimiento-casa-quebec/) : Vida útil por componente, efecto del clima, reserva anual: cuánto cuesta mantener una casa en Quebec y, s
 - [Costo de una piscina enterrada en Quebec: el cálculo anual](/es/articles/costo-real-piscina-quebec/) : Costo de una piscina enterrada en Quebec: electricidad según Hydro-Québec, agua, seguro, permiso, y lo qu
@@ -108,6 +111,8 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Deshielo e infiltración de agua en el sótano en Montreal](/es/articles/deshielo-infiltracion-agua-montreal/) : Deshielo e infiltración de agua en el sótano en Montreal: pendiente del terreno, tragaluz, techo, canalet
 - [Detector de humo en Quebec: obligación y seguro](/es/articles/detector-humo-obligacion-seguro-quebec/) : Detector de humo, obligación en Quebec: el reglamento de Montreal y de Laval, el detector de monóxido de 
 - [Elegir un contratista de renovación en Quebec](/es/articles/elegir-contratista-renovacion-quebec/) : Licencia RBQ y sous-catégories, contrato, retención, hipoteca legal: cómo elegir un contratista de renova
+- [Grieta en los cimientos en Quebec: diagnóstico y recursos](/es/articles/grietas-cimientos-diagnostico-quebec/) : Grieta en los cimientos en Quebec: arcilla, drenaje, pirita o pirrotina, quién establece la causa, y qué 
+- [Moho en una vivienda en Quebec: detectar, declarar, actuar](/es/articles/moho-vivienda-quebec/) : Moho en una vivienda en Quebec: por qué no existe ningún umbral, la escala de la SCHL, la casilla D7.3 de
 - [Mudarse en Montreal o Laval: la lista completa, plazo por plazo](/es/articles/moving-checklist-montreal/) : Avisos de arrendamiento, cesión, cambio de dirección, Hydro-Québec, permisos de camión y ecocentros: la l
 - [Permiso de cobertizo, marquesina y garaje en Quebec](/es/articles/permiso-cobertizo-garaje-quebec/) : Permiso de cobertizo en Quebec: el umbral de 18 m² en Laval y de 15 m² en Montreal, los márgenes, el abri
 - [Permiso de renovación en Montreal y Laval: el invierno](/es/articles/renovar-en-invierno-permisos-montreal-laval/) : Hormigón, techo, interior: lo que el frío bloquea de verdad, y por qué un permiso de renovación en Montre
@@ -115,6 +120,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Prueba de radón en una vivienda en Quebec: el calendario real](/es/articles/radon-vivienda-quebec/) : Directriz de 200 Bq/m³, prueba de tres meses en temporada de calefacción, cláusula 3.21 y declaraciones d
 - [Reglamento de la estufa de leña en Montreal: lo que aplica](/es/articles/estufa-lena-reglamento-seguro-quebec/) : Estufa de leña en Montreal y en Laval: umbral de 2,5 g/h, declaración, smog, apagón, multas, deshollinado
 - [Reglamento de piscinas residenciales en Quebec: el plazo del 30 de septiembre de 2027](/es/articles/reglamento-piscinas-quebec/) : Reglamento de piscinas residenciales en Quebec: cercado, puerta, escalera, permiso, multa y el 30 de sept
+- [Remoción de nieve y responsabilidad del propietario en Quebec](/es/articles/remocion-nieve-responsabilidad-quebec/) : Artículos 1457 y 1467, reglas de Montreal y de Laval, multas, seguro de responsabilidad civil y plex alqu
 - [Renovaciones y resiliencia climática: la regla en Quebec](/es/articles/renovaciones-resiliencia-climatica-quebec/) : Válvula antirretorno, membrana blanca, canaletas a un metro: las renovaciones de resiliencia climática ex
 - [Siniestros frecuentes y seguro de vivienda en Quebec](/es/articles/siniestros-frecuentes-seguro-hogar-quebec/) : Siniestros frecuentes en seguro de vivienda en Quebec: lo que cubre la póliza de base, lo que exige un av
 - [Solario y veranda: el permiso de ampliación en Quebec](/es/articles/solario-veranda-permiso-quebec/) : Solario o veranda en Quebec: por qué es una ampliación, el permiso en Laval y en Montreal, y el aviso de 

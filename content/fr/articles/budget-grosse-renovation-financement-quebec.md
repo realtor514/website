@@ -7,7 +7,7 @@ category: "Financement"
 description: "Financer une grosse rénovation au Québec: les quatre sources de fonds, le décaissement, le cautionnement partagé et l'hypothèque légale."
 image: "images/articles/budget-grosse-renovation-financement-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Une grosse rénovation ne se planifie pas sur le prix des armoires. Elle se

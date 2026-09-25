@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Crédit d'impôt et adaptation du domicile des aînés au Québec: qui y a droit, combien, et le programme de la SHQ qui paie vraiment les travaux."
 image: "images/articles/adapter-maison-vieillir-chez-soi-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Votre mère veut rester dans sa maison. Les trois marches du perron sont devenues

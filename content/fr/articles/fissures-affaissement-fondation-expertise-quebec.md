@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Fissure de fondation au Québec: argile, drainage, pyrite ou pyrrhotite, qui établit la cause, et quel recours selon l'âge du bâtiment."
 image: "images/articles/fissures-affaissement-fondation-expertise-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Une fissure ne dit pas ce qui l'a causée. C'est pourtant la cause, et elle seule,

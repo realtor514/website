@@ -8821,7 +8821,7 @@
     "Ce que ces donnees ne permettent pas de dire"
    ],
    "slug": "marche-haut-de-gamme-montreal-laval-donnees",
-   "status": "clear",
+   "status": "in_progress",
    "distinct_de": "/articles/marche-immobilier-montreal/"
   },
   {
@@ -8914,7 +8914,7 @@
     "Questions frequentes"
    ],
    "slug": "insectes-rongeurs-infestation-recours-quebec",
-   "status": "clear",
+   "status": "in_progress",
    "distinct_de": "/articles/home-inspection-checklist-montreal/"
   },
   {
@@ -8983,7 +8983,7 @@
     "Questions frequentes"
    ],
    "slug": "vendre-automne-hiver-presentation-quebec",
-   "status": "clear",
+   "status": "in_progress",
    "distinct_de": "/articles/best-time-sell-home-montreal/"
   },
   {
@@ -9027,7 +9027,7 @@
     "Revente et valeur a long terme"
    ],
    "slug": "minimaison-microhabitation-zonage-quebec",
-   "status": "clear",
+   "status": "in_progress",
    "distinct_de": "/articles/acheter-un-terrain-quebec-verifications/"
   },
   {
@@ -9209,7 +9209,7 @@
     "Questions frequentes"
    ],
    "slug": "generatrice-panne-courant-assurance-quebec",
-   "status": "clear"
+   "status": "in_progress"
   },
   {
    "id": "t237",
@@ -9256,7 +9256,7 @@
     "Questions frequentes"
    ],
    "slug": "toit-vert-toit-reflechissant-montreal-reglement",
-   "status": "clear"
+   "status": "in_progress"
   }
  ],
  "lots": "les 4 lots de sujets de reference sont planifies"

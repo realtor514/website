@@ -7,7 +7,7 @@ category: "Guide du vendeur"
 description: "Vendre une maison dont la valeur est inférieure à l'hypothèque au Québec: solde, pénalité, quittance, rétribution, et l'écart à combler comptant."
 image: "images/articles/vendre-valeur-inferieure-solde-hypothecaire-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 L'offre sur la table ne couvre pas le solde de votre prêt. La vente reste

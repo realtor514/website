@@ -51,6 +51,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Your Promise to Purchase Was Refused: The Method for Not Overpaying Next Time](/en/articles/losing-bidding-war-lessons/) : What legally happens when your offer is refused in Quebec, a four-question post-mortem, and how to rebuil
 
 ## Finance
+- [Financing a Major Renovation in Quebec](/en/articles/financing-major-renovation-quebec/) : Financing a major renovation in Quebec: the four sources of funds, when each dollar leaves, the shared li
 - [Getting Into Homeownership in Quebec in 2026: What Actually Exists for a First-Time Buyer](/en/articles/everyone-deserves-homeownership/) : FHSA, HBP, tax credits, the GST rebate on new homes, minimum down payments and 30-year amortization: who 
 - [Homeowner Tax in Quebec: What Actually Gets Deducted](/en/articles/homeowner-tax-deductions-quebec/) : Homeowner tax in Quebec: deductions, the principal residence exemption, the home office, plexes and chang
 - [How to Pay Off Your Mortgage Faster in Quebec](/en/articles/pay-off-mortgage-faster-quebec/) : Accelerated payments, lump sums, higher payments, renewal: the four levers that shorten a mortgage in Que
@@ -103,15 +104,18 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Talking About a Montreal Housing Crash: What the Data Lets You Say](/en/articles/montreal-market-crash-analysis/) : Sales, active listings, median prices and days on market: what public APCIQ, ISQ and Statistics Canada da
 
 ## Practical Guide
+- [Adapting a Home for Aging in Place in Quebec](/en/articles/aging-in-place-home-adaptation-quebec/) : Home adaptation for seniors in Quebec: who qualifies for each tax credit, how much it is worth, and the o
 - [Alarm Systems and Insurance Discounts in Quebec](/en/articles/alarm-system-insurance-discount-quebec/) : Alarm system insurance discount in Quebec: why no percentage is published, what the insurer actually look
 - [Choosing a Renovation Contractor in Quebec](/en/articles/choosing-renovation-contractor-quebec/) : RBQ licence and sous-catégories, the contract, the holdback, the legal hypothec: how to choose a renovati
 - [Climate Resilient Renovations in Quebec: What the By-law Requires](/en/articles/climate-resilient-renovations-quebec/) : Backwater valve, white membrane, gutters at one metre: the climate resilient renovations Quebec requires,
 - [Common Home Insurance Claims in Quebec](/en/articles/common-home-insurance-claims-quebec/) : Common home insurance claims in Quebec: what the base policy covers, what needs an endorsement, the deduc
 - [Cutting Down a Tree in Quebec: The By-law and Who Owns the Tree](/en/articles/trees-property-rules-quebec/) : Who owns the tree, what the Code civil allows between neighbours, the felling permit in Montreal and Lava
 - [First Meeting With a Real Estate Broker: The Documents](/en/articles/documents-before-meeting-broker-quebec/) : Certificat de localisation, deed of sale, tax bills, leases: the documents to gather before your first me
+- [Foundation Cracks in Quebec: Diagnosis and Recourses](/en/articles/foundation-cracks-diagnosis-quebec/) : Foundation cracks in Quebec: clay, drainage, pyrite or pyrrhotite, who establishes the cause, and which r
 - [Hidden Defect Found During a Renovation in Quebec](/en/articles/hidden-defect-found-during-renovation-quebec/) : A vice caché found during a renovation: stop, document, give written notice. The exact sequence, and the 
 - [Home Maintenance Costs in Quebec: The Replacement Calendar](/en/articles/home-maintenance-cost-quebec/) : Service life by component, what the climate adds, how to size the annual reserve: what home maintenance r
 - [How to Cut Your Heating Bill in Quebec: Where to Start](/en/articles/reduce-heating-bill-quebec/) : Rate D, the 40 kWh tier, insulation, heat pumps and 2026 grants: how to reduce your heating bill in Quebe
+- [Mould in a Quebec Home: Detect, Declare, Act](/en/articles/mould-in-the-home-quebec/) : Mould in a Quebec home: why no threshold exists, the SCHL scale, box D7.3 of the seller's declaration, th
 - [Moving in Montreal or Laval: The Complete Checklist, Deadline by Deadline](/en/articles/moving-checklist-montreal/) : Lease notices, lease assignment, address changes, Hydro-Quebec, truck permits and ecocentres: the Greater
 - [Neighbour Disputes in Quebec: The Recourses](/en/articles/neighbour-disputes-quebec/) : Article 976, views at one metre fifty, a common fence, mediation and small claims: the recourses in a nei
 - [Quebec Residential Pool Rules: The 30 September 2027 Deadline](/en/articles/pool-safety-rules-quebec/) : Quebec residential pool rules: enclosure, gate, ladder, permit, fine, and the 30 September 2027 deadline 
@@ -119,6 +123,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Renovation Permits in Montreal and Laval: Winter](/en/articles/winter-renovation-permits-montreal-laval/) : Concrete, roofing, interiors: what the cold actually blocks, and why a renovation permit in Montreal or L
 - [Shed, Carport and Garage Permits in Quebec](/en/articles/shed-carport-garage-permit-quebec/) : Shed permit in Quebec: the 18 m² threshold in Laval, 15 m² in Montreal, setbacks, the winter carport, the
 - [Smoke Alarms in Quebec: The Obligation and the Insurer](/en/articles/smoke-alarm-obligation-insurance-quebec/) : Smoke alarm obligation in Quebec: the Montreal and Laval by-laws, the carbon monoxide alarm, and what you
+- [Snow Removal and Owner Liability in Quebec](/en/articles/snow-removal-liability-quebec/) : Articles 1457 and 1467, the Montreal and Laval rules, fines, civil liability coverage and a rented plex: 
 - [Spring Melt and Water Infiltration in a Montreal Basement](/en/articles/spring-melt-water-infiltration-montreal/) : Spring melt and basement water infiltration in Montreal: grading, window wells, roof, gutters, insurance 
 - [Sunroom and Veranda: The Extension Permit in Quebec](/en/articles/sunroom-veranda-permit-quebec/) : Sunroom or veranda in Quebec: why it counts as an extension, the permit in Laval and Montreal, and the no
 - [The True Cost of an In-Ground Pool in Quebec](/en/articles/true-cost-of-a-pool-quebec/) : The true cost of an in-ground pool in Quebec: electricity per Hydro-Québec, water, insurance, permits, an
@@ -156,6 +161,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Sell or Keep Your Home in Quebec: Your Own Six Signals](/en/articles/signs-it-is-time-to-sell-quebec/) : Household size, a job elsewhere, renewal, maintenance, mobility, attachment: the six personal signals tha
 - [Selling Before Buying in Quebec: The Clauses That Decide](/en/articles/sell-before-buying-clauses-quebec/) : Selling before buying in Quebec: clause R2.1, the 72 hour clause, the bridge loan, carrying two propertie
 - [Selling With or Without a Realtor in Quebec: The Honest Comparison](/en/articles/selling-without-realtor-quebec/) : It is the number one question Quebec sellers ask. Here are the real numbers, what you actually save, what
+- [Selling a Home Worth Less Than the Mortgage](/en/articles/selling-underwater-mortgage-quebec/) : Selling a Quebec home worth less than the mortgage: the balance, the penalty, the quittance, the broker's
 - [Selling the Family Home and Downsizing: A Guide for Seniors in Greater Montreal](/en/articles/senior-downsizing-guide/) : Condo, apartment, seniors' residence or staying put: what selling the family home really frees up, plus t
 - [The Listing Brokerage Contract in Quebec: Clause by Clause](/en/articles/listing-brokerage-contract-quebec/) : Term, price, remuneration, the 180 day clause, declarations: what each clause of the Quebec listing broke
 - [The Process of Selling a House in Quebec: The Steps](/en/articles/selling-process-steps-quebec/) : Contrat de courtage, seller's declarations, certificat de localisation, promesse d'achat, notaire: the pr

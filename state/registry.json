@@ -485,6 +485,42 @@
    "slug": "deneigement-chute-glace-responsabilite-quebec",
    "keyword": "responsabilite deneigement proprietaire quebec",
    "state": "in_progress"
+  },
+  {
+   "id": "t219",
+   "slug": "marche-haut-de-gamme-montreal-laval-donnees",
+   "keyword": "marche immobilier haut de gamme montreal",
+   "state": "in_progress"
+  },
+  {
+   "id": "t223",
+   "slug": "insectes-rongeurs-infestation-recours-quebec",
+   "keyword": "infestation maison quebec recours",
+   "state": "in_progress"
+  },
+  {
+   "id": "t226",
+   "slug": "vendre-automne-hiver-presentation-quebec",
+   "keyword": "vendre sa maison en hiver quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t228",
+   "slug": "minimaison-microhabitation-zonage-quebec",
+   "keyword": "minimaison quebec zonage",
+   "state": "in_progress"
+  },
+  {
+   "id": "t236",
+   "slug": "generatrice-panne-courant-assurance-quebec",
+   "keyword": "generatrice maison quebec regles",
+   "state": "in_progress"
+  },
+  {
+   "id": "t238",
+   "slug": "toit-vert-toit-reflechissant-montreal-reglement",
+   "keyword": "toit vert montreal reglement",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -568,7 +604,13 @@
   "moisissure-maison-detection-recours-quebec",
   "adapter-maison-vieillir-chez-soi-quebec",
   "budget-grosse-renovation-financement-quebec",
-  "deneigement-chute-glace-responsabilite-quebec"
+  "deneigement-chute-glace-responsabilite-quebec",
+  "marche-haut-de-gamme-montreal-laval-donnees",
+  "insectes-rongeurs-infestation-recours-quebec",
+  "vendre-automne-hiver-presentation-quebec",
+  "minimaison-microhabitation-zonage-quebec",
+  "generatrice-panne-courant-assurance-quebec",
+  "toit-vert-toit-reflechissant-montreal-reglement"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -651,7 +693,13 @@
   "moisissure maison quebec",
   "credit impot adaptation domicile aines quebec",
   "financer une grosse renovation quebec",
-  "responsabilite deneigement proprietaire quebec"
+  "responsabilite deneigement proprietaire quebec",
+  "marche immobilier haut de gamme montreal",
+  "infestation maison quebec recours",
+  "vendre sa maison en hiver quebec",
+  "minimaison quebec zonage",
+  "generatrice maison quebec regles",
+  "toit vert montreal reglement"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -734,6 +782,12 @@
   "Moisissure dans une maison quebecoise: detection, declaration et recours",
   "Adapter sa maison pour vieillir chez soi au Quebec: credits et programmes",
   "Budget d'une grosse renovation au Quebec: financement, contrat et depassements",
-  "Deneigement, chute de glace et responsabilite du proprietaire au Quebec"
+  "Deneigement, chute de glace et responsabilite du proprietaire au Quebec",
+  "Le haut de gamme a Montreal et a Laval: donnees, delais et methode d'evaluation",
+  "Insectes, rongeurs et vermine au Quebec: inspection, declaration et recours",
+  "Vendre en automne et en hiver au Quebec: presenter la propriete hors saison",
+  "Minimaison et microhabitation au Quebec: zonage, financement et assurance",
+  "Generatrice, panne de courant prolongee et assurance au Quebec",
+  "Toit vegetalise et toit reflechissant a Montreal: reglement, structure et cout"
  ]
 }

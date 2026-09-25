@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Moisissure dans une maison au Québec: pourquoi aucun seuil n'existe, l'échelle de la SCHL, la case D7.3 du vendeur, le TAL et l'assurance."
 image: "images/articles/moisissure-maison-detection-recours-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Une tache noire au bas d'un mur de sous-sol déclenche presque toujours la même réaction: faire tester l'air, obtenir un chiffre, savoir si c'est grave. Ce réflexe mène à une impasse, parce qu'au Québec aucun chiffre ne donne ce verdict. Voici ce qui décide vraiment, et trois situations où les recours et les horloges ne sont pas les mêmes: le propriétaire chez lui, l'acheteur après la vente, le locataire devant son propriétaire.
