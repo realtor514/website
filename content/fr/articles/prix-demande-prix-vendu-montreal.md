@@ -6,7 +6,7 @@ translationKey: "article-list-vs-sold-price"
 category: "Analyse de marché"
 description: "Prix demandé et prix vendu à Montréal: qui voit le prix de vente, quand il devient public au Registre foncier, et ce que l'écart révèle vraiment."
 image: "images/articles/prix-demande-prix-vendu-montreal/featured.jpg"
-draft: true
+draft: false
 ---
 
 Une pancarte VENDU ne dit jamais à combien. Au Québec, le prix de vente ne

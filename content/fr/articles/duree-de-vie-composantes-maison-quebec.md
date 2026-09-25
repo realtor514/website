@@ -6,7 +6,7 @@ translationKey: "article-component-lifespan"
 category: "Guide de l'acheteur"
 description: "Durée de vie prévue d’une toiture, de fenêtres, d’une thermopompe : les chiffres officiels, la vie utile résiduelle, et ce que l’assureur en fait."
 image: "images/articles/duree-de-vie-composantes-maison-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Deux maisons de 1998 sur la même rue de Laval. L’une a un toit refait en 2019 et

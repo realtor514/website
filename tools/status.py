@@ -53,7 +53,9 @@ def main():
     if plan_path.is_file():
         plan = json.loads(plan_path.read_text(encoding="utf-8"))
         session = {t["translationKey"] for t in plan["topics"]
-                   if t.get("status", "").startswith("written_draft") or t.get("status") == "in_progress"}
+                   if t.get("translationKey")
+                   and (t.get("status", "").startswith("written_draft")
+                        or t.get("status") == "in_progress")}
 
     rows = []
     for key, langs in groups.items():

@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Vice caché découvert pendant une rénovation: arrêter, documenter, dénoncer par écrit. La séquence exacte, et l'erreur de refermer le mur."
 image: "images/articles/vice-cache-pendant-renovation-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Le mur est ouvert, l’équipe est sur place, et derrière le gypse il y a une

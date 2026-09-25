@@ -19,6 +19,23 @@ introduit une affirmation non verifiee dans quatre langues a la fois.
 ensuite les fichiers en `draft: false`. Ne le remettez jamais a true, et ne
 retouchez pas `lastmod` apres l avoir ecrit.
 
+**Deux erreurs de cette consigne, corrigees le 25 septembre apres coup.**
+
+1. Les slugs anglais et arabe de D6 pointaient sur `homeowner-tax-deductions-quebec`,
+   qui est **deja un article publie**: la traduction de `impot-proprietaire-quebec.md`,
+   translationKey `article-impot-proprietaire`. Le slug de D6 est desormais
+   `what-homeowners-can-deduct-quebec` en anglais et en arabe. En espagnol il n y
+   avait pas de collision, l article existant vivant sous
+   `impuestos-propietario-quebec.md`.
+2. Les comptes de tableaux annonces etaient faux: ils comptaient les lignes de
+   separation, pas les tableaux. Ils sont corriges ci-dessous.
+
+**Regle generale qui en decoule: avant d ecrire un fichier, verifiez qu il
+n existe pas deja avec un autre `translationKey`.** S il existe, changez votre
+slug et signalez-le. N ecrasez jamais un fichier publie. Et reproduisez toujours
+ce qui est reellement dans le fichier francais, jamais le compte de cette
+consigne.
+
 **Aucun lien entre les huit articles de ce lot.** Ils sont tous en brouillon,
 donc un lien entre eux renvoie 404. Les huit fichiers francais n en contiennent
 aucun: ne les rajoutez pas.
@@ -44,12 +61,20 @@ francais l a, absent s il ne l a pas. Ne l ajoutez jamais de votre propre chef.
 - voix: `content/{lang}/articles/home-inspection-checklist-montreal.md`
 - a preserver exactement: le renvoi 8.05.01 tel qu ecrit; les montants 167,40 $,
   80 $, 560 $, 1 000 $, 1 500 $ et 9,80 $; les pourcentages 7 %, 36 %, 45 %,
-  57 %, 58 % et 80 % avec la source a laquelle le francais les rattache; les
-  trois tableaux.
-- **le volet Hydro-Quebec est volontairement absent.** N ajoutez ni tarif D, ni
-  tarif bi-energie DT, ni LogisVert, ni Chauffez vert, ni interdiction du
-  chauffage au mazout. Les chiffres de chauffage viennent de Statistique Canada,
-  et le francais le dit: gardez cette attribution.
+  57 %, 58 % et 80 % avec la source a laquelle le francais les rattache; le
+  tableau.
+- **le volet Hydro-Quebec a ete ajoute le 25 septembre, apres la redaction.**
+  A preserver au chiffre pres: le tarif D avec 46,154 ¢/jour de frais d acces au
+  reseau, 7,065 ¢/kWh jusqu a 40 kWh par jour et 11,142 ¢/kWh au-dela; le tarif
+  bienergie DT avec la bascule a -12 °C ou -15 °C selon la zone, 5,131 ¢/kWh
+  au-dessus du seuil et 30,001 ¢/kWh en dessous; les montants LogisVert de 50 $,
+  120 $ et 140 $ par 1 000 BTU/h a -8 °C. Gardez la date de consultation et la
+  mention de la revision annuelle au 1er avril: ces tarifs changent.
+- **en revanche, rien sur Chauffez vert ni sur l interdiction du chauffage au
+  mazout.** Ces deux sujets restent absents parce que quebec.ca et LegisQuebec
+  etaient inaccessibles. N en ajoutez pas une ligne.
+- les chiffres de repartition du chauffage viennent de Statistique Canada, et le
+  francais le dit: gardez cette attribution.
 - trois precisions de portee geographique sont ecrites dans le texte (cour
   anglaise a Villeray Saint Michel Parc Extension, garde-corps de
   Mercier Hochelaga Maisonneuve, indice de reflectance variable par
@@ -65,7 +90,7 @@ francais l a, absent s il ne l a pas. Ne l ajoutez jamais de votre propre chef.
 - voix: `content/{lang}/articles/rental-property-management.md`
 - a preserver exactement: les montants 90 $, 92 $, 300 $, 450 $, 732 $,
   20 000 $, 500 000 $, 2,50 $, 9,80 $, 167,40 $, 20 $ et 1 000 $; les dates
-  1er septembre 1996 et 21 fevrier 2024; les trois tableaux.
+  1er septembre 1996 et 21 fevrier 2024; le tableau.
 - **l article ne donne aucune marge de recul, aucune superficie maximale et
   aucun coefficient d emprise au sol**, parce qu aucun reglement consultable ne
   les publie. Il explique a la place comment obtenir la fiche de zonage.
@@ -87,7 +112,7 @@ francais l a, absent s il ne l a pas. Ne l ajoutez jamais de votre propre chef.
 - a preserver exactement: les renvois 3.03.02, 5.05.01, 5.05.02 et 5.05.03 du
   reglement de Laval, dont l intitule « Exoneration de responsabilite »; les
   dates 6 octobre 2014, 29 aout 2024, 15 juillet 2025, 2 fevrier 2026,
-  18 aout 2026 et 25 septembre 2026; les sept tableaux.
+  18 aout 2026 et 25 septembre 2026; les trois tableaux.
 - **le point le plus delicat du lot.** L article expose une contradiction reelle
   entre deux pages de la Ville de Montreal sur le programme de clapet
   antiretour: 90 $, 600 $, 1 600 $ et un seuil de 3 860 $/m2 sur la page mise a
@@ -101,6 +126,14 @@ francais l a, absent s il ne l a pas. Ne l ajoutez jamais de votre propre chef.
 - le francais dit qu aucune source officielle ne chiffre la duree de vie d un
   drain francais, et qu aucune source ne permet de chiffrer le gain a la
   revente de ces travaux. Gardez les deux aveux.
+- **le volet Hydro-Quebec a ete ajoute le 25 septembre, apres la redaction**, dans
+  la section sur la surchauffe estivale. A preserver au chiffre pres: les
+  montants LogisVert de 50 $, 120 $ et 140 $ par 1 000 BTU/h a -8 °C, le maximum
+  de 6 700 $, la majoration de 5 % pour mesures multiples, et la bonification
+  Multilogements de 100 $ qui porte le montant a 220 $ pour les installations a
+  compter du 15 juin 2026. Gardez la datation « septembre 2026 ».
+- rien sur Chauffez vert: le programme reste absent, quebec.ca etait
+  inaccessible. N en ajoutez pas une ligne.
 
 ## D4. acheter-fin-ete-montreal-donnees
 
@@ -142,7 +175,7 @@ francais l a, absent s il ne l a pas. Ne l ajoutez jamais de votre propre chef.
   le 1,50 $ du Registre foncier depuis le 1er avril 2026; les dates de reference
   des roles (Montreal 2026-2027-2028 au 1er juillet 2024, Laval 2025-2026-2027
   au 1er juillet 2023), les 18 mois et les trois ans; les dates 17 decembre 2025,
-  17 juin 2026 et 6 aout 2026; le 17 %; les trois tableaux.
+  17 juin 2026 et 6 aout 2026; le 17 %; le tableau.
 - **la distinction centrale, a ne pas aplatir:** le prix vendu n est pas
   *affiche*, mais il n est pas secret non plus. Il cesse d etre confidentiel des
   la publication de l acte au Registre foncier. Ce qui est encadre par l OACIQ,
@@ -158,15 +191,17 @@ francais l a, absent s il ne l a pas. Ne l ajoutez jamais de votre propre chef.
 - translationKey `article-homeowner-tax-quebec`, date et lastmod **2026-09-04**
 - categorie: en `Finance`, es `Financiamiento`, ar `تمويل`
 - `needs_expert_review: true` present
-- fichiers: `content/en/articles/homeowner-tax-deductions-quebec.md`,
+- fichiers: `content/en/articles/what-homeowners-can-deduct-quebec.md`,
   `content/es/articles/deducciones-fiscales-propietario-quebec.md`,
-  `content/ar/articles/homeowner-tax-deductions-quebec.md`
+  `content/ar/articles/what-homeowners-can-deduct-quebec.md`
 - voix: `content/{lang}/articles/first-time-buyer-tax-credits.md`
 - a preserver exactement: les renvois 271, 210.7 et 1029.8.61.5 tels qu ecrits;
   les montants 500 $, 8 000 $, 19 500 $, 25 500 $, 64 200 $, 72 465 $,
   117 395 $ et 622 300 $; les pourcentages, dont le 7,5 % du test de la
   subvention aux aines et le 37 % de la hausse du role de Laval; les dates
-  2 octobre 2016, 1er juillet 2023 et 1er janvier 2025; les trois tableaux.
+  2 octobre 2016, 1er juillet 2023 et 1er janvier 2025; le tableau. Le francais
+  ajoute une penalite de 100 $ par mois que cette consigne ne listait pas:
+  gardez-la, le francais fait foi.
 - **les noms de formulaires de Revenu Quebec ont ete retires** parce que le site
   etait inaccessible. Le francais dit seulement que Revenu Quebec a son propre
   formulaire de revenus de location. N ajoutez aucun numero de formulaire, ni
@@ -188,7 +223,7 @@ francais l a, absent s il ne l a pas. Ne l ajoutez jamais de votre propre chef.
 - a preserver exactement: les durees de vie telles qu ecrites, chacune avec la
   source a laquelle le francais la rattache; le decret du 30 juillet 2025 et son
   exigence de vie utile residuelle par ecrit; les montants 92 $, 1 000 $,
-  2,50 $ et 20 000 $; les deux tableaux.
+  2,50 $ et 20 000 $; le tableau.
 - **le coeur du texte est un aveu, et c est le passage le plus facile a trahir:**
   les durees publiees sont des **moyennes canadiennes**, pas des durees
   quebecoises, et **aucun organisme officiel ne chiffre l effet du gel et du
@@ -212,7 +247,7 @@ francais l a, absent s il ne l a pas. Ne l ajoutez jamais de votre propre chef.
 - a preserver exactement: les paliers de competence des tribunaux avec leurs
   bornes au cent pres (15 000 $, 15 000,01 $, 74 999,99 $, 75 000 $,
   99 999,99 $, 100 000 $), les montants 21 000 $, 40 000 $, 20 000 $, 1 500 $,
-  1 000 $, 92 $ et 2,50 $, et les trois tableaux.
+  1 000 $, 92 $ et 2,50 $, et le tableau.
 - **interdiction absolue, la plus importante de ce lot: n ajoutez aucun numero
   d article du Code civil du Quebec.** LegisQuebec a repondu 502 pendant les
   25 tentatives du redacteur, donc aucun numero n a pu etre verifie et aucun

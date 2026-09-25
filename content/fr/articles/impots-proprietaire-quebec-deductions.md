@@ -7,7 +7,7 @@ category: "Financement"
 description: "Déductions du propriétaire au Québec: rien sur la résidence principale, tout sur l'immeuble loué, et deux mesures québécoises oubliées."
 image: "images/articles/impots-proprietaire-quebec-deductions/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 La maison que vous habitez ne donne droit à aucune déduction, et ce n'est pas un

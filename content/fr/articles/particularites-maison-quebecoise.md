@@ -138,23 +138,28 @@ neiges et infiltration d'eau](/articles/fonte-neiges-infiltration-clapet-montrea
 
 Statistique Canada résume la situation québécoise en deux chiffres: 58 % des ménages
 du Québec déclarent chauffer avec des plinthes électriques et 7 % avec un chauffage
-électrique rayonnant. D'où des maisons sans conduits et sans fournaise, donc sans
-climatisation centrale d'origine. La thermopompe murale est un ajout, pas un
-équipement de série.
+électrique rayonnant. D'où des maisons sans conduits, donc sans climatisation
+centrale d'origine. La thermopompe murale est un ajout, pas un équipement de série.
+
+**Le tarif résidentiel a deux tranches.** Au tarif D, en vigueur depuis le 1er avril
+2026, Hydro-Québec facture 46,154 ¢ par jour de frais d'accès au réseau, puis
+7,065 ¢ le kilowattheure jusqu'à 40 kWh par jour et 11,142 ¢ pour le reste. Le tarif
+biénergie DT exige un système central qui bascule sur un combustible sous -12 °C ou
+-15 °C selon la zone: 5,131 ¢ au-dessus du seuil, 30,001 ¢ en dessous. Le programme
+LogisVert verse 50 $ par 1 000 BTU/h à -8 °C pour une thermopompe certifiée ENERGY
+STAR, 120 $ pour un modèle climat froid et 140 $ pour un modèle à très haute
+efficacité. Tarifs consultés le 25 septembre 2026, révisés chaque 1er avril.
 
 Trois questions du formulaire du vendeur cadrent le sujet: la source d'énergie du
-système de chauffage principal, la présence d'un réservoir à mazout avec son année
-d'installation, et la présence d'une thermopompe, murale ou centrale, avec son
-année. Le mazout n'est pas un détail: la Régie du bâtiment précise que l'article
-8.05.01 du Code de construction adopte par renvoi la norme CSA B139, le code
-d'installation des appareils de combustion au mazout.
+chauffage principal, le réservoir à mazout et son année, la thermopompe murale ou
+centrale et son année. Sur le mazout, la Régie du bâtiment précise que l'article
+8.05.01 du Code de construction adopte par renvoi la norme CSA B139.
 
 **Les fenêtres suivent la même logique.** Le lexique patrimonial de la Ville
-distingue la fenêtre verticale à battants, dite à crémone, dont les vantaux pivotent
-latéralement vers l'intérieur, à la française, ou vers l'extérieur, à l'anglaise, de
-la fenêtre à guillotine à châssis superposés. Ce n'est pas un débat de style: le
-formulaire du vendeur demande si de la condensation régulière et importante s'est
-déjà formée en hiver, les fenêtres étant la première case.
+distingue la fenêtre à battants, dite à crémone, de la fenêtre à guillotine. Ce n'est
+pas un débat de style: le formulaire du vendeur demande si de la condensation
+régulière et importante s'est déjà formée en hiver, les fenêtres étant la première
+case.
 
 ## Ce que ces particularités changent à l'inspection
 

@@ -8,7 +8,9 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Análisis de Mercado
 - [El costo de vivir en los suburbios de Montreal: el cálculo real](/es/articles/suburbio-o-ciudad-costo-real-montreal/) : Precios medianos de agosto de 2026, impuestos, abono mensual contra un segundo auto, tiempos de trayecto:
 - [Hablar de un desplome inmobiliario en Montreal: lo que los datos permiten decir](/es/articles/montreal-market-crash-analysis/) : Ventas, inscripciones, precios medianos y plazos de venta: lo que dicen los datos públicos de APCIQ, ISQ 
+- [Mejor momento para comprar en Montreal: los datos de agosto](/es/articles/mejor-momento-comprar-montreal-datos/) : El mejor momento para comprar en Montreal se lee en el inventario, el plazo de venta y los meses de inven
 - [Mercado Inmobiliario de Montréal y Laval: Leer los Datos, no las Predicciones](/es/articles/marche-immobilier-montreal-analyse-donnees/) : Ventas, inscripciones, precios medianos, desocupación y población: cómo leer los datos fechados de la APC
+- [Precio pedido y precio vendido en Montreal: leer la brecha](/es/articles/precio-pedido-vs-precio-vendido-montreal/) : Precio pedido y precio vendido en Montreal: quién ve el precio de venta, cuándo se vuelve consultable en 
 
 ## Financiamiento
 - [Acceder a la propiedad en Quebec en 2026: lo que realmente existe para un comprador primerizo](/es/articles/everyone-deserves-homeownership/) : CELIAPP, RAP, créditos fiscales, reembolso de TPS en vivienda nueva, pago inicial mínimo y amortización a
@@ -23,6 +25,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Los impuestos municipales en Montreal y Laval: explicación completa](/es/articles/property-tax-explained/) : Evaluación municipal, tasa, impuesto escolar, impuesto de bienvenida y el prorrateo ante el notario. Lo q
 - [Penalidad por romper una hipoteca: el cálculo real en Quebec](/es/articles/romper-hipoteca-penalidad-quebec/) : Tres meses de intereses o diferencial de tasas, tasa anunciada o tasa con descuento, carta de pago y Regi
 - [Preaprobación hipotecaria: lo que garantiza y lo que no](/es/articles/mortgage-preapproval-mistakes/) : Vigencia, ratios ABD y ATD, prueba de resistencia, verificación de crédito y tasación del prestamista: lo
+- [Qué deducciones puede reclamar un propietario en Quebec](/es/articles/deducciones-fiscales-propietario-quebec/) : Deducciones del propietario en Quebec: nada sobre la residencia principal, todo sobre el inmueble alquila
 - [Refinanciamiento hipotecario en Quebec: ¿vale la pena?](/es/articles/refinanciamiento-hipotecario-quebec/) : Renovación, transferencia o refinanciamiento hipotecario en Quebec: el tope del 80 %, la penalidad, el se
 - [Tasas de interés y mercado inmobiliario de Montreal: cómo se transmite de verdad](/es/articles/interest-rates-montreal-market/) : Tasa directriz, tasa preferencial, bonos, prueba de resistencia y renovación: el camino real entre el Ban
 - [Todo lo que los Compradores Primerizos Necesitan Saber Sobre las Hipotecas en Quebec](/es/articles/guide-hypotheque-premier-acheteur-quebec/) : El proceso hipotecario es más complejo de lo que su banco le hace creer, y más simple de lo que parece en
@@ -71,6 +74,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Su promesa de compra fue rechazada: el método para no pagar de más la próxima vez](/es/articles/losing-bidding-war-lessons/) : Qué ocurre jurídicamente cuando rechazan su oferta en Quebec, el análisis posterior en cuatro preguntas y
 - [Venta sin garantía legal en Quebec: qué cambia realmente](/es/articles/venta-sin-garantia-legal-quebec/) : Venta sin garantía legal en Quebec: qué le quita la cláusula, qué no puede borrar y qué debe exigir un co
 - [Vermiculite y amianto en una vivienda en Quebec](/es/articles/vermiculita-amianto-vivienda-quebec/) : Vermiculite y amiante en una vivienda en Quebec: por qué solo el análisis de una muestra decide, qué exig
+- [Vida útil de un techo y de las ventanas en Quebec](/es/articles/vida-util-techo-ventanas-quebec/) : Vida útil prevista de un techo, de ventanas y de una bomba de calor: las cifras oficiales, la vida útil r
 - [Vivienda intergeneracional en Laval y Montreal: lo que dice el reglamento](/es/articles/vivienda-intergeneracional-montreal-laval/) : Permiso, logement additionnel, residencia principal y financiamiento: el reglamento de la vivienda interg
 
 ## Guía del Vendedor
@@ -107,6 +111,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Prueba de radón en una vivienda en Quebec: el calendario real](/es/articles/radon-vivienda-quebec/) : Directriz de 200 Bq/m³, prueba de tres meses en temporada de calefacción, cláusula 3.21 y declaraciones d
 - [Reglamento de piscinas residenciales en Quebec: el plazo del 30 de septiembre de 2027](/es/articles/reglamento-piscinas-quebec/) : Reglamento de piscinas residenciales en Quebec: cercado, puerta, escalera, permiso, multa y el 30 de sept
 - [Talar un árbol en Quebec: el reglamento y de quién es el árbol](/es/articles/arboles-propiedad-reglamentos-quebec/) : De quién es el árbol, qué permite el Code civil entre vecinos, el permiso de tala en Montreal y en Laval,
+- [Vicio oculto descubierto durante una renovación en Quebec](/es/articles/vicio-oculto-durante-renovacion-quebec/) : Vicio oculto descubierto durante una renovación: parar, documentar, denunciar por escrito. La secuencia e
 
 ## Inmobiliaria 101
 - [5 preguntas que debe hacer antes de contratar a un corredor inmobiliario](/es/articles/questions-hire-broker/) : La mayoría elige corredor por una recomendación o por un cartel. Aquí están las cinco preguntas que revel
@@ -129,6 +134,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Vicio oculto en Quebec: las cuatro condiciones y sus recursos](/es/articles/vicio-oculto-recurso-quebec/) : Vicio oculto en una casa de Quebec: las cuatro condiciones del artículo 1726, la denuncia escrita obligat
 
 ## Inversión
+- [Agregar una vivienda accesoria en Quebec: el marco](/es/articles/vivienda-accesoria-quebec/) : Vivienda accesoria en Quebec: el permiso en Laval y en Montreal, los costos publicados, el ingreso que re
 - [Alquiler de corto plazo en Quebec: las reglas antes de comprar](/es/articles/alquiler-corto-plazo-quebec/) : Número de registro, zonificación de Montreal y Laval, declaración de copropiedad: las reglas del alquiler
 - [Aumentar el valor de un plex en Montreal o en Laval](/es/articles/aumentar-valor-plex-montreal/) : Aumentar el valor de un plex: lo que permite la fixation de loyer del TAL desde 2026, las obras que se re
 - [Comprar para revender en Montreal: las cifras reales que nadie le muestra](/es/articles/house-flipping-montreal/) : Regla de los 365 días, TPS y TVQ en una renovación mayor, impuesto de bienvenida, permisos y licencia RBQ

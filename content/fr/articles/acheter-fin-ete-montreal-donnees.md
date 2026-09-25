@@ -6,7 +6,7 @@ translationKey: "article-fall-buying-window"
 category: "Analyse de marché"
 description: "Le meilleur moment pour acheter à Montréal se lit dans le stock, le délai de vente et les mois d'inventaire de votre secteur, pas dans le prix médian."
 image: "images/articles/acheter-fin-ete-montreal-donnees/featured.jpg"
-draft: true
+draft: false
 ---
 
 Fin août, un acheteur entend deux choses contradictoires: que les vendeurs pressés cèdent avant l'automne, et qu'il ne reste plus rien de bon à visiter. Les statistiques mensuelles de l'APCIQ tranchent, à condition de regarder trois chiffres précis plutôt que le prix médian. Voici lesquels, pour Laval et pour la région métropolitaine de recensement (RMR) de Montréal.

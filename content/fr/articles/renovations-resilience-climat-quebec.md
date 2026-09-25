@@ -162,6 +162,16 @@ chauffage au mazout ou au gaz naturel par une thermopompe centrale, et 1 000 $
 par logement pour un chauffage central électrique. Ces montants relèvent du
 bloc 1, pas du volet inondations.
 
+**Hydro-Québec paie par capacité.** Le programme LogisVert verse 50 $ par
+1 000 BTU/h à -8 °C pour une thermopompe certifiée ENERGY STAR, 120 $ pour un
+modèle de type climat froid et 140 $ pour une thermopompe à très haute
+efficacité, travaux de calfeutrage compris. Le maximum annoncé est de 6 700 $,
+majoré de 5 % si la demande combine plusieurs mesures. Dans un multilogement
+admissible situé dans une zone visée par les critères de défavorisation du
+programme, une bonification de 100 $ par 1 000 BTU/h porte le montant à 220 $,
+pour les installations faites à compter du 15 juin 2026. Montants affichés par
+Hydro-Québec en septembre 2026.
+
 ## Rénovations de résilience au climat: ce qui se déclare à la revente
 
 Le formulaire obligatoire Déclarations du vendeur sur l'immeuble, DV 00001

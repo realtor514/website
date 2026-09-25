@@ -6,7 +6,7 @@ translationKey: "article-land-potential-zoning"
 category: "Investissement"
 description: "Ajouter un logement accessoire au Québec : le permis à Laval et à Montréal, les coûts publiés, le revenu que le prêteur retient, l'assurance et le bail."
 image: "images/articles/rentabiliser-terrain-zonage-quebec/featured.jpg"
-draft: true
+draft: false
 ---
 
 Un sous-sol vide, un garage attaché qui sert de remise, un terrain plus profond

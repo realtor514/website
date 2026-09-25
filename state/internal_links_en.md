@@ -36,6 +36,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [New Home Warranty in Quebec: The GCR Plan at 1, 3 and 5 Years](/en/articles/new-home-warranty-quebec/) : Buildings covered and excluded, the inspection préréception, 1, 3 and 5 years, notice deadlines, arbitrat
 - [Noise and Soundproofing in a Quebec Condo: What to Check](/en/articles/noise-home-condo-quebec/) : Airborne or impact noise, year of construction, the floor covering clause in the declaration of co-owners
 - [Off-Market Properties in Quebec: What They Are, What They Cost You, What Your Broker Must Disclose](/en/articles/off-market-properties/) : Off Centris is not a discount. Disclosure of interest, the duty to verify, double representation: the rea
+- [Roof and Window Lifespan in Quebec](/en/articles/roof-and-window-lifespan-quebec/) : Expected service life of a roof, of windows, of a heat pump: the official figures, the remaining useful l
 - [Sagging Sewer Drain in Montreal: What to Check Before You Offer](/en/articles/sagging-sewer-drain-montreal/) : A ventre de boeuf in a Montreal drain: camera inspection, who is responsible up to the street, the RenoPl
 - [Sale Without Legal Warranty in Quebec: What It Actually Changes](/en/articles/sale-without-legal-warranty-quebec/) : Sale without legal warranty in Quebec: what the clause takes away, what it cannot erase, and what a buyer
 - [The Hidden Costs of Homeownership Nobody Puts in the Brochure](/en/articles/hidden-homeownership-costs/) : Taxes, notary, condo fees, insurance, maintenance: what owning a property in Quebec really costs, using t
@@ -64,6 +65,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [The 20% Down Payment Myth: Why It's Holding Buyers Back](/en/articles/down-payment-myth-debunked/) : The real minimum down payment in Quebec, what CMHC insurance actually costs, the QST you have to pay in c
 - [The Best Mortgage Rate in Canada: What Gets Decided Before the Rate](/en/articles/best-mortgage-rate-canada/) : Posted rate versus your rate, fixed versus variable, term, penalty and the interest rate differential: wh
 - [Undivided Co-Ownership in Montreal: How It Gets Financed](/en/articles/undivided-co-ownership-montreal/) : Why indivision exists in Montreal, the down payment lenders require, the convention d'indivision, and the
+- [What Deductions a Homeowner Can Claim in Quebec](/en/articles/what-homeowners-can-deduct-quebec/) : Homeowner deductions in Quebec: nothing on the principal residence, everything on the rented building, an
 
 ## Financing
 - [Everything First-Time Buyers Need to Know About Mortgages in Quebec](/en/articles/guide-hypotheque-premier-acheteur-quebec/) : The mortgage process is more complex than your bank makes it seem, and simpler than the internet makes it
@@ -73,6 +75,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Eight Situations Where You Should Not Buy, Even If the Bank Says Yes](/en/articles/when-not-to-buy-real-estate/) : New income, high interest debt, a borrowed down payment, a short horizon: the cases where waiting costs l
 
 ## Investment
+- [Adding an Accessory Dwelling Unit in Quebec: The Framework](/en/articles/accessory-dwelling-unit-quebec/) : Adding an accessory dwelling unit in Quebec: the permit in Laval and Montreal, the published fees, the in
 - [Buying Property in Quebec as a Foreign Buyer](/en/articles/foreign-buyer-property-quebec/) : Buying property in Quebec as a foreign buyer: the federal prohibition, the exceptions, the down payment, 
 - [Buying a Commercial Building in Quebec: The Due Diligence](/en/articles/commercial-building-due-diligence-quebec/) : Broker licence, leases, phase I study, zoning, the non-residential tax rate, GST and QST: the checks to m
 - [Buying a Cottage in Quebec: Well, Septic and Access](/en/articles/buying-a-cottage-quebec/) : Rive, fosse septique, well, chemin privé, insurance and financing: the checks to make before you buy a co
@@ -90,6 +93,8 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Short Term Rentals in Quebec: The Rules to Check Before You Buy](/en/articles/short-term-rental-rules-quebec/) : Registration number, Montreal and Laval zoning, declaration of co-ownership: the short term rental rules 
 
 ## Market Analysis
+- [Best Time to Buy in Montreal: What the August Data Says](/en/articles/best-time-to-buy-montreal-data/) : The best time to buy in Montreal is read in your sector's supply, time on market and months of inventory,
+- [List Price and Sold Price in Montreal: Reading the Gap](/en/articles/list-price-vs-sold-price-montreal/) : List price and sold price in Montreal: who sees the sale price, when it becomes consultable at the Regist
 - [Montreal and Laval Real Estate Market: Reading the Data, Not the Predictions](/en/articles/marche-immobilier-montreal-analyse-donnees/) : Sales, listings, median prices, vacancy and population: how to read dated APCIQ, CMHC and ISQ data on the
 - [The Real Cost of Living in the Montreal Suburbs: The Honest Math](/en/articles/suburb-or-city-real-cost-montreal/) : August 2026 median prices, taxes, a monthly pass against a second car, commuting time: what the Montreal 
 
@@ -100,6 +105,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Choosing a Renovation Contractor in Quebec](/en/articles/choosing-renovation-contractor-quebec/) : RBQ licence and sous-catégories, the contract, the holdback, the legal hypothec: how to choose a renovati
 - [Cutting Down a Tree in Quebec: The By-law and Who Owns the Tree](/en/articles/trees-property-rules-quebec/) : Who owns the tree, what the Code civil allows between neighbours, the felling permit in Montreal and Lava
 - [First Meeting With a Real Estate Broker: The Documents](/en/articles/documents-before-meeting-broker-quebec/) : Certificat de localisation, deed of sale, tax bills, leases: the documents to gather before your first me
+- [Hidden Defect Found During a Renovation in Quebec](/en/articles/hidden-defect-found-during-renovation-quebec/) : A vice caché found during a renovation: stop, document, give written notice. The exact sequence, and the 
 - [Home Maintenance Costs in Quebec: The Replacement Calendar](/en/articles/home-maintenance-cost-quebec/) : Service life by component, what the climate adds, how to size the annual reserve: what home maintenance r
 - [How to Cut Your Heating Bill in Quebec: Where to Start](/en/articles/reduce-heating-bill-quebec/) : Rate D, the 40 kWh tier, insulation, heat pumps and 2026 grants: how to reduce your heating bill in Quebe
 - [Moving in Montreal or Laval: The Complete Checklist, Deadline by Deadline](/en/articles/moving-checklist-montreal/) : Lease notices, lease assignment, address changes, Hydro-Quebec, truck permits and ecocentres: the Greater
