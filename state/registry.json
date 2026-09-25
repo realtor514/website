@@ -449,6 +449,42 @@
    "slug": "sinistres-frequents-couverture-habitation-quebec",
    "keyword": "sinistres frequents assurance habitation quebec",
    "state": "in_progress"
+  },
+  {
+   "id": "t211",
+   "slug": "vendre-valeur-inferieure-solde-hypothecaire-quebec",
+   "keyword": "vendre maison valeur inferieure hypotheque quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t214",
+   "slug": "fissures-affaissement-fondation-expertise-quebec",
+   "keyword": "fissure fondation quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t215",
+   "slug": "moisissure-maison-detection-recours-quebec",
+   "keyword": "moisissure maison quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t224",
+   "slug": "adapter-maison-vieillir-chez-soi-quebec",
+   "keyword": "credit impot adaptation domicile aines quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t231",
+   "slug": "budget-grosse-renovation-financement-quebec",
+   "keyword": "financer une grosse renovation quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t237",
+   "slug": "deneigement-chute-glace-responsabilite-quebec",
+   "keyword": "responsabilite deneigement proprietaire quebec",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -526,7 +562,13 @@
   "prevention-incendie-assurance-habitation-quebec",
   "systeme-alarme-domotique-assurance-quebec",
   "solarium-veranda-permis-evaluation-quebec",
-  "sinistres-frequents-couverture-habitation-quebec"
+  "sinistres-frequents-couverture-habitation-quebec",
+  "vendre-valeur-inferieure-solde-hypothecaire-quebec",
+  "fissures-affaissement-fondation-expertise-quebec",
+  "moisissure-maison-detection-recours-quebec",
+  "adapter-maison-vieillir-chez-soi-quebec",
+  "budget-grosse-renovation-financement-quebec",
+  "deneigement-chute-glace-responsabilite-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -603,7 +645,13 @@
   "avertisseur de fumee obligation quebec",
   "rabais assurance systeme d'alarme quebec",
   "permis solarium agrandissement quebec",
-  "sinistres frequents assurance habitation quebec"
+  "sinistres frequents assurance habitation quebec",
+  "vendre maison valeur inferieure hypotheque quebec",
+  "fissure fondation quebec",
+  "moisissure maison quebec",
+  "credit impot adaptation domicile aines quebec",
+  "financer une grosse renovation quebec",
+  "responsabilite deneigement proprietaire quebec"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -680,6 +728,12 @@
   "Prevention incendie et assurance habitation au Quebec: les obligations",
   "Systeme d'alarme et domotique au Quebec: le rabais d'assurance reel",
   "Solarium, veranda et agrandissement au Quebec: permis, structure et evaluation",
-  "Les sinistres les plus frequents au Quebec et ce que la police couvre"
+  "Les sinistres les plus frequents au Quebec et ce que la police couvre",
+  "Vendre au Quebec quand la propriete vaut moins que le solde hypothecaire",
+  "Fissures, affaissement et fondation au Quebec: signes, expertise et recours",
+  "Moisissure dans une maison quebecoise: detection, declaration et recours",
+  "Adapter sa maison pour vieillir chez soi au Quebec: credits et programmes",
+  "Budget d'une grosse renovation au Quebec: financement, contrat et depassements",
+  "Deneigement, chute de glace et responsabilite du proprietaire au Quebec"
  ]
 }
