@@ -736,7 +736,7 @@
    "translationKey": "article-land-potential-zoning",
    "needs_expert_review": false,
    "id": "t16",
-   "status": "in_progress",
+   "status": "clear",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -882,7 +882,7 @@
    "translationKey": "article-fall-buying-window",
    "needs_expert_review": false,
    "id": "t19",
-   "status": "in_progress",
+   "status": "clear",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -978,7 +978,7 @@
    "translationKey": "article-neighbour-disputes",
    "needs_expert_review": true,
    "id": "t21",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1001,7 +1001,9 @@
      "s": 0.12,
      "match": "/articles/arbres-propriete-reglements-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/troubles-de-voisinage-quebec.md",
+   "date": "2026-09-25"
   },
   {
    "ref_id": 1217,
@@ -1026,7 +1028,7 @@
    "translationKey": "article-pool-true-cost",
    "needs_expert_review": true,
    "id": "t22",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1049,7 +1051,9 @@
      "s": 0.1233,
      "match": "/articles/cout-entretien-maison-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/vrai-cout-piscine-residentielle-quebec.md",
+   "date": "2026-09-24"
   },
   {
    "ref_id": 1212,
@@ -1074,7 +1078,7 @@
    "translationKey": "article-list-vs-sold-price",
    "needs_expert_review": false,
    "id": "t23",
-   "status": "in_progress",
+   "status": "clear",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1170,7 +1174,7 @@
    "translationKey": "article-component-lifespan",
    "needs_expert_review": false,
    "id": "t25",
-   "status": "in_progress",
+   "status": "clear",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -4889,7 +4893,7 @@
    "translationKey": "article-renovation-hiver-permis",
    "needs_expert_review": true,
    "id": "t102",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -4912,7 +4916,9 @@
      "s": 0.182,
      "match": "/articles/renovation-condo-copropriete-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/renover-hiver-permis-montreal-laval.md",
+   "date": "2026-09-13"
   },
   {
    "ref_id": 216,
@@ -6944,7 +6950,7 @@
    "translationKey": "article-demolition-reconstruction",
    "needs_expert_review": true,
    "id": "t144",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-2",
    "gate1": {
     "slug": {
@@ -6967,7 +6973,9 @@
      "s": 0.0805,
      "match": "/articles/real-estate-myths-debunked/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/acheter-pour-demolir-permis-quebec.md",
+   "date": "2026-08-29"
   },
   {
    "ref_id": 914,

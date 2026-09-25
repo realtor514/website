@@ -1,7 +1,7 @@
 ---
 title: "Acheter une maison pour démolir au Québec: le permis"
-date: 2026-09-24
-lastmod: 2026-09-24
+date: 2026-08-29
+lastmod: 2026-08-29
 translationKey: "article-demolition-reconstruction"
 category: "Investissement"
 description: "Comité de démolition, avis public, 10 jours d'opposition, projet de remplacement, amiante: ce qu'exige une autorisation de démolition au Québec."
@@ -11,11 +11,10 @@ draft: true
 ---
 
 Le calcul a l'air simple: un terrain bien situé, un bâtiment en fin de vie, une
-maison neuve à la place. Ce que ce calcul oublie, c'est que la démolition est la
-seule étape du projet qui ne dépend ni de votre budget ni de votre entrepreneur.
-Elle dépend de trois élus réunis en comité, d'un avis affiché sur la façade et
-d'un projet de remplacement déposé avant même que vous sachiez si vous aurez le
-droit de démolir.
+maison neuve à la place. Sauf que la démolition est la seule étape du projet qui
+ne dépend ni de votre budget ni de votre entrepreneur. Elle dépend de trois élus
+réunis en comité, d'un avis affiché sur la façade et d'un projet de remplacement
+déposé avant que vous sachiez si vous aurez le droit de démolir.
 
 ## Acheter une maison pour démolir au Québec: la démolition n'est pas un droit
 
@@ -25,10 +24,10 @@ doit « interdire la démolition d'un immeuble, sauf lorsque le propriétaire a 
 autorisé à procéder à sa démolition par un comité ». Le point de départ légal est
 une interdiction. L'autorisation est l'exception, et elle se demande.
 
-Cette obligation municipale vient de la réforme de 2021 sur le patrimoine. Laval
-l'écrit elle-même: son règlement a été adopté en mars 2019 par choix, et
-« depuis 2021, ce règlement est devenu une obligation en vertu de la Loi sur
-l'aménagement et l'urbanisme ».
+Cette obligation vient de la réforme de 2021 sur le patrimoine. Laval l'écrit
+elle-même: son règlement a été adopté en mars 2019 par choix, et « depuis 2021,
+ce règlement est devenu une obligation en vertu de la Loi sur l'aménagement et
+l'urbanisme ».
 
 **La notion d'immeuble patrimonial est plus large qu'on le croit.** L'article
 148.0.1 vise l'immeuble cité, celui situé dans un site patrimonial cité, et
@@ -85,11 +84,8 @@ architectural et sa contribution à un ensemble à préserver.
 
 **Le mauvais état du bâtiment n'est pas l'argument gagnant qu'on imagine.** Le
 coût de restauration est un critère parmi d'autres, et il se pèse contre la
-valeur patrimoniale. Laisser un bâtiment se dégrader ne prépare pas le terrain:
-l'article 145.41.7 fait du fait que la détérioration soit telle que « le seul
-remède utile consiste en sa démolition » un facteur aggravant dans la
-détermination d'une peine. Ce qu'une maison ancienne révèle vraiment à
-l'inspection est détaillé dans [ce qui change quand on achète une maison
+valeur patrimoniale. Ce qu'une maison ancienne révèle vraiment à l'inspection est
+détaillé dans [ce qui change quand on achète une maison
 centenaire](/articles/acheter-maison-centenaire-quebec/).
 
 Les logements loués compliquent tout. Selon l'article 148.0.13, un locataire ne
@@ -98,21 +94,21 @@ du bail, ou trois mois à compter de la délivrance du certificat. Le locateur d
 payer les frais de déménagement et l'indemnité de l'article 1965 du Code civil
 (art. 148.0.14).
 
-Si l'immeuble est classé, ou situé dans un site patrimonial déclaré ou classé, la
-municipalité n'est plus le bon interlocuteur: les articles 48 et 64 de la Loi sur
-le patrimoine culturel exigent l'autorisation du ministre. Les différences entre
-classé, cité et inventorié sont expliquées dans [acheter un immeuble ancien ou
+Si l'immeuble est classé, ou situé dans un site patrimonial déclaré ou classé,
+les articles 48 et 64 de la Loi sur le patrimoine culturel exigent en plus
+l'autorisation du ministre. Les différences entre classé, cité et inventorié sont
+expliquées dans [acheter un immeuble ancien ou
 patrimonial](/articles/heritage-property-montreal/).
 
 ## Le projet de remplacement, la garantie et le délai imposé
 
 Vous ne demandez pas une démolition. Vous demandez une démolition et ce qui vient
-après. L'article 148.0.2.1 permet au règlement d'exiger, avant même l'étude de la
+après. L'article 148.0.2.1 permet au règlement d'exiger, avant l'étude de la
 demande, une expertise comme une étude patrimoniale ou un programme préliminaire
 de réutilisation du sol dégagé, puis une garantie financière avant la délivrance
-du certificat. À Montréal, la Ville indique que ce programme préliminaire doit
-généralement être soumis au comité avant l'étude de la demande, le règlement
-applicable et les frais variant d'un arrondissement à l'autre.
+du certificat. À Montréal, ce programme préliminaire doit généralement être
+soumis au comité avant l'étude de la demande, le règlement applicable et les
+frais variant d'un arrondissement à l'autre.
 
 À Laval, la séquence publiée place la demande de permis du projet de remplacement
 et le dépôt de la garantie monétaire avant la délivrance du certificat de
@@ -145,27 +141,25 @@ Le Règlement sur la santé et la sécurité du travail précise l'enquête. Tou
 bâtiment construit avant le 15 février 1990 doit être inspecté pour localiser les
 flocages contenant de l'amiante, et tout bâtiment construit avant le 20 mai 1999
 pour localiser les calorifuges (art. 69.3). Le seuil est de 0,1 % (art. 69.2).
-Flocages et calorifuges sont présumés contenir de l'amiante, sauf démonstration
-contraire par une information documentaire vérifiable ou un rapport
-d'échantillonnage (art. 69.4). L'article 69.11 impose de vérifier la présence
-d'amiante avant tout travail susceptible d'en émettre la poussière, et l'article
-69.16 impose un registre.
+Les deux sont présumés contenir de l'amiante, sauf démonstration contraire par
+une information documentaire vérifiable ou un rapport d'échantillonnage
+(art. 69.4). L'article 69.11 impose de vérifier la présence d'amiante avant tout
+travail susceptible d'en émettre la poussière.
 
 L'obligation vise l'employeur, donc l'entrepreneur et, pour un bâtiment sous son
 autorité, le propriétaire employeur. En pratique, c'est l'acheteur qui paie:
-aucun entrepreneur sérieux ne soumissionne sans caractérisation, et une
-présomption d'amiante fait travailler tout le chantier sous protocole. Le même
-réflexe vaut pour l'isolant du grenier, comme l'explique [la fiche sur la
-vermiculite et l'amiante](/articles/amiante-vermiculite-maison-quebec/).
+aucun entrepreneur sérieux ne soumissionne sans caractérisation. Le même réflexe
+vaut pour l'isolant du grenier, comme l'explique [la fiche sur la vermiculite et
+l'amiante](/articles/amiante-vermiculite-maison-quebec/).
 
 ### Les débris et la facture d'élimination
 
 Ce qui n'est pas trié finit enfoui, et l'enfouissement est taxé. Le ministère de
 l'Environnement fixe les redevances à l'élimination à 36 $ la tonne métrique
-depuis le 1er janvier 2026, en plus du prix demandé par le lieu d'élimination. Le
-Règlement sur l'enfouissement et l'incinération de matières résiduelles encadre
-par ailleurs les lieux autorisés à recevoir ces débris. Une maison démolie pèse
-des dizaines de tonnes: ce poste se chiffre avant l'offre.
+depuis le 1er janvier 2026, en plus du prix demandé par le lieu d'élimination,
+que le Règlement sur l'enfouissement et l'incinération de matières résiduelles
+encadre. Une maison démolie pèse des dizaines de tonnes: ce poste se chiffre
+avant l'offre.
 
 ## Évaluation municipale, taxes et droits de mutation
 
@@ -178,14 +172,14 @@ facteur du rôle (art. 1.1). Vous payez donc des droits sur le bâtiment que vou
 comptez faire disparaître. L'ordre de grandeur se vérifie avec le [calculateur
 des droits de mutation](/tools/welcome-tax/) avant de déposer une promesse.
 
-Du côté du rôle, la correction n'est ni automatique ni rétroactive à votre guise.
-L'article 174 de la Loi sur la fiscalité municipale oblige l'évaluateur à
-modifier le rôle pour refléter la diminution de valeur d'une unité à la suite de
-la démolition. L'article 177 fixe la prise d'effet à la date inscrite au
-certificat de l'évaluateur, sans remonter plus loin que l'événement ni que le
-premier jour de l'exercice financier précédent. Entretemps, le terrain reste
-taxé, et la lecture du ratio terrain sur bâtiment est expliquée dans [valeur du
-terrain et zonage au Québec](/articles/valeur-terrain-zonage-quebec/).
+Du côté du rôle, la correction n'est pas rétroactive à votre guise. L'article 174
+de la Loi sur la fiscalité municipale oblige l'évaluateur à modifier le rôle pour
+refléter la diminution de valeur d'une unité à la suite de la démolition, et
+l'article 177 fixe la prise d'effet à la date inscrite au certificat de
+l'évaluateur, sans remonter plus loin que l'événement ni que le premier jour de
+l'exercice financier précédent. Entretemps, le terrain reste taxé, et la lecture
+du ratio terrain sur bâtiment est expliquée dans [valeur du terrain et zonage au
+Québec](/articles/valeur-terrain-zonage-quebec/).
 
 ## Acheter pour démolir: les conditions à mettre dans la promesse d'achat
 
@@ -227,8 +221,7 @@ vérifie règlement en main, adresse par adresse.
 **Un voisin peut-il faire échouer mon projet?**
 Il peut déposer une opposition motivée dans les dix jours, et le comité doit la
 considérer. Il peut aussi demander la révision de la décision dans les trente
-jours. L'opposition ne décide pas, mais elle entre au dossier et allonge le
-calendrier.
+jours. L'opposition ne décide pas, mais elle entre au dossier.
 
 **Le vendeur peut-il obtenir l'autorisation avant la vente?**
 C'est possible, et c'est souvent le meilleur scénario pour l'acheteur. Surveillez
