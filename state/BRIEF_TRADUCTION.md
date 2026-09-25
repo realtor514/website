@@ -9,6 +9,18 @@ article ne vit pas dans une langue seule.
 Pas une traduction litterale. Une **localisation**: le meme article, ecrit pour
 un lecteur de cette langue qui vit au Quebec et qui cherche dans sa langue.
 
+## Les fiches de faits sont generees, et elles restent secondaires
+
+Depuis le lot 11, la partie mecanique des consignes de traduction vient de
+`python tools/trad_spec.py <slug>`. Ce script montre chaque chiffre, chaque
+article de loi et chaque numero de reglement **dans sa phrase**, parce que les
+listes plates des lots 7 a 10 perdaient le rattachement: un article du reglement
+de Laval se retrouvait attribue a Montreal, un montant passait d une ville a
+l autre. Les traducteurs l ont trouve a chaque lot.
+
+Une fiche generee reste une aide a la lecture. **Le fichier francais tranche.**
+Si la fiche et le fichier divergent, suivez le fichier et signalez-le.
+
 ## La seule source de verite est l article francais
 
 Si votre consigne vous demande de preserver un element qui ne se trouve pas
