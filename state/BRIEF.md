@@ -9,7 +9,10 @@ Bureau: 2820, boul. Saint-Martin Est, bureau 201, Laval (Duvernay), Quebec.
 Territoire: Laval, Montreal, Rive-Nord, Rive-Sud, Laurentides, Lanaudiere, Monteregie.
 Services: achat, vente, evaluation gratuite, investissement (plex, immeubles a revenus),
 accompagnement des nouveaux arrivants.
-Particularite reelle: service en francais, anglais, espagnol et arabe.
+Langues de service: francais, anglais et arabe. **Ne promettez jamais un
+service en espagnol.** Le site existe en espagnol, mais la fiche Centris de
+Georges ne declare que trois langues, et il a retire cette promesse du site le
+2026-09-25. Un courtier ne promet que ce qu il peut tenir.
 Site: https://georgesmatar.ca
 
 ## 2. Ce que vous ecrivez
@@ -107,8 +110,13 @@ Pour completer, lisez [texte](/articles/slug-existant/) et [texte](/articles/aut
 
 Cibles autorisees: `/formulaire/`, `/contact/`, `/tools/affordability/`,
 `/tools/mortgage/`, `/tools/closing-costs/`, `/tools/home-estimate/`,
-`/tools/rent-vs-buy/`, `/tools/welcome-tax/`, `/secteurs/laval/`,
-`/secteurs/montreal/`, `/buyer/`, `/seller/`, `/about/`.
+`/tools/rent-vs-buy/`, `/tools/welcome-tax/`, `/buyer/`, `/seller/`, `/about/`.
+
+Les pages de ville vivent sous `/courtier-immobilier/laval/`,
+`/courtier-immobilier/montreal/` et ainsi de suite. **`/secteurs/...` n existe
+pas**, meme si l arborescence du depot le suggere: ces pages declarent leur
+propre `url:` en front matter. La liste complete et verifiee est dans
+`state/internal_links_fr.md`, refaite par `python tools/linkmap.py`.
 
 ## 8. Liens internes
 
