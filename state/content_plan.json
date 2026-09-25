@@ -8637,8 +8637,10 @@
     "Questions frequentes"
    ],
    "slug": "vendre-valeur-inferieure-solde-hypothecaire-quebec",
-   "status": "in_progress",
-   "distinct_de": "/articles/acheter-reprise-de-finance-quebec/"
+   "status": "written_draft",
+   "distinct_de": "/articles/acheter-reprise-de-finance-quebec/",
+   "published_path": "content/fr/articles/vendre-valeur-inferieure-solde-hypothecaire-quebec.md",
+   "date": "2026-09-25"
   },
   {
    "id": "t212",
@@ -8706,8 +8708,10 @@
     "Questions frequentes"
    ],
    "slug": "fissures-affaissement-fondation-expertise-quebec",
-   "status": "in_progress",
-   "distinct_de": "/articles/home-inspection-checklist-montreal/"
+   "status": "written_draft",
+   "distinct_de": "/articles/home-inspection-checklist-montreal/",
+   "published_path": "content/fr/articles/fissures-affaissement-fondation-expertise-quebec.md",
+   "date": "2026-09-13"
   },
   {
    "id": "t215",
@@ -8729,8 +8733,10 @@
     "Questions frequentes"
    ],
    "slug": "moisissure-maison-detection-recours-quebec",
-   "status": "in_progress",
-   "distinct_de": "/articles/fonte-neiges-infiltration-clapet-montreal/"
+   "status": "written_draft",
+   "distinct_de": "/articles/fonte-neiges-infiltration-clapet-montreal/",
+   "published_path": "content/fr/articles/moisissure-maison-detection-recours-quebec.md",
+   "date": "2026-09-19"
   },
   {
    "id": "t216",
@@ -8931,8 +8937,10 @@
     "Questions frequentes"
    ],
    "slug": "adapter-maison-vieillir-chez-soi-quebec",
-   "status": "in_progress",
-   "distinct_de": "/articles/senior-downsizing-guide/"
+   "status": "written_draft",
+   "distinct_de": "/articles/senior-downsizing-guide/",
+   "published_path": "content/fr/articles/adapter-maison-vieillir-chez-soi-quebec.md",
+   "date": "2026-08-26"
   },
   {
    "id": "t225",
@@ -9088,8 +9096,10 @@
     "Questions frequentes"
    ],
    "slug": "budget-grosse-renovation-financement-quebec",
-   "status": "in_progress",
-   "distinct_de": "/articles/choisir-entrepreneur-renovation-rbq-quebec/"
+   "status": "written_draft",
+   "distinct_de": "/articles/choisir-entrepreneur-renovation-rbq-quebec/",
+   "published_path": "content/fr/articles/budget-grosse-renovation-financement-quebec.md",
+   "date": "2026-09-01"
   },
   {
    "id": "t232",
@@ -9221,8 +9231,10 @@
     "Questions frequentes"
    ],
    "slug": "deneigement-chute-glace-responsabilite-quebec",
-   "status": "in_progress",
-   "distinct_de": "/articles/cout-entretien-maison-quebec/"
+   "status": "written_draft",
+   "distinct_de": "/articles/cout-entretien-maison-quebec/",
+   "published_path": "content/fr/articles/deneigement-chute-glace-responsabilite-quebec.md",
+   "date": "2026-09-07"
   },
   {
    "id": "t238",

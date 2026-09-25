@@ -1,0 +1,134 @@
+{
+ "id": "t214",
+ "slug": "fissures-affaissement-fondation-expertise-quebec",
+ "title": "Fissure de fondation au Québec: diagnostic et recours",
+ "target_keyword": "fissure fondation quebec",
+ "word_count": 1974,
+ "category": "Guide pratique",
+ "internal_links": [
+  "/articles/fonte-neiges-infiltration-clapet-montreal/",
+  "/articles/home-inspection-checklist-montreal/",
+  "/articles/garantie-gcr-maison-neuve-quebec/",
+  "/articles/vice-cache-conditions-recours-quebec/",
+  "/articles/declaration-du-vendeur-quebec/",
+  "/buyer/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, articles 1726, 1739, 2118, 2925 et 2926",
+   "publisher": "Légis Québec, Publications du Québec",
+   "consulted": "2026-09-25",
+   "supports": "Texte intégral des articles 1726 (vice caché et vice apparent constatable sans recourir à un expert), 1739 (dénonciation écrite dans un délai raisonnable, point de départ quand le vice apparaît graduellement), 2118 (responsabilité solidaire sur cinq ans pour la perte de l'ouvrage, y compris pour un vice du sol), 2925 (prescription de trois ans) et 2926 (délai qui court de la première manifestation du préjudice). Lus par capture web.archive.org de la page officielle datée du 2026-03-10, au moyen de tools/ccq.py, LegisQuebec étant hors service."
+  },
+  {
+   "url": "https://www.oiq.qc.ca/wp-content/uploads/2023/02/20230503_Guide_retenir_services_ingenieur_vf.pdf",
+   "title": "Retenir les services d'une ingénieure ou d'un ingénieur, juin 2025",
+   "publisher": "Ordre des ingénieurs du Québec",
+   "consulted": "2026-09-25",
+   "supports": "Donner un avis sur les conséquences d'une fissure dans un mur de fondation ou sur la cause de l'affaissement d'un plancher est un mandat d'ingénierie. Le rapport d'inspection préachat ne relève pas de l'ingénierie, ne consiste qu'en des constats et ne permet généralement pas de déterminer la cause d'une détérioration ni la méthode pour la réparer; préparer un avis sur les causes est une activité réservée quand elle porte sur un ouvrage visé par la Loi sur les ingénieurs, dont les bâtiments. L'Ordre ne délivre pas de certificat de spécialiste et recommande un contrat écrit décrivant le mandat, ses exclusions et les honoraires."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/zones-a-risque-concernant-la-pyrite-les-responsabilites-des-courtiers/",
+   "title": "Zones à risque concernant la pyrite: les responsabilités des courtiers",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-25",
+   "supports": "Description de la pyrite (sulfure de fer dans la pierre de remblai, autour des drains de fondation et sous la dalle de la cave ou du garage), de son oxydation en poudre blanche qui gonfle, des soulèvements de dalle et des fissures au solage et aux cloisons apparaissant parfois plusieurs années après la construction. Zones les plus à risque: Rive-Sud de Châteauguay à Varennes, est et ouest de l'île de Montréal. Analyse des remblais par un laboratoire reconnu appliquant la méthodologie CTQ M-200, volontaire mais seule reconnue par les autorités compétentes. « La seule inspection d'un immeuble est insuffisante pour détecter avec certitude des problèmes causés par la pyrite » et « un courtier ne peut se prononcer sur l'origine de fissures ». Recommandation de rendre la promesse d'achat conditionnelle à l'expertise au moyen du formulaire Annexe Expertise, interdiction de fixer un seuil de pourcentage de pyrite, et décision laissée à l'acheteur."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/acheter/pyrite-ou-pyrrhotite-de-la-roche-dans-lengrenage-dune-transaction/",
+   "title": "Pyrite ou pyrrhotite: de la roche dans l'engrenage d'une transaction",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-25",
+   "supports": "La pyrrhotite se trouve dans l'agrégat provenant de carrières de la Mauricie et a pu être ajoutée au béton des fondations; son oxydation est beaucoup plus rapide que celle de la pyrite. Analyse pétrographique par un laboratoire reconnu fortement recommandée pour tous les immeubles construits entre 1996 et 2008 en Mauricie. Clause E2.1 « Expertise à la demande de l'acheteur » de l'Annexe Expertise pour une expertise sur le béton des fondations, clause D13.2 des Déclarations du vendeur, et exigence des institutions financières d'obtenir le test avant d'octroyer le prêt malgré une inspection rassurante."
+  },
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "title": "Déclarations du vendeur sur l'immeuble, formulaire obligatoire DV 00001 (V24 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-25",
+   "supports": "Libellé exact des sections D3.1 (problèmes de sol: glissement de terrain, affaissement de terrain, mouvement de terrain, instabilité du sol), D3.2 (travaux de stabilisation aux fondations: pieutage, travaux en sous-oeuvre), D5.2 (problèmes ayant déjà affecté le sous-sol ou le vide sanitaire: fissures dans la fondation), D13.2 (tests ou expertises: pyrite, pyrrhotite, drain de fondation), D2.13 et D2.14 (refus d'un assureur d'assurer ou d'indemniser) et D15 (précisions: endroit, année, comment la situation a été réglée). Préambule exigeant de répondre au meilleur de sa connaissance et de fournir les documents qui appuient les déclarations."
+  },
+  {
+   "url": "https://www.garantiegcr.com/fr/acheteur/conseils-gcr/une-problematique-avec-votre-habitation-neuve-le-delai-de-denonciation/",
+   "title": "Une problématique avec votre habitation neuve: le délai de dénonciation",
+   "publisher": "Garantie de construction résidentielle",
+   "consulted": "2026-09-25",
+   "supports": "Couverture du plan de garantie obligatoire: 1 an pour les malfaçons non apparentes suivant la réception, 3 ans pour les vices cachés suivant la réception, 5 ans pour les vices de conception, de construction ou de réalisation et les vices du sol suivant la fin des travaux. Dénonciation écrite à l'entrepreneur avec GCR en copie au moyen du formulaire de dénonciation, délai raisonnable que la jurisprudence situe à six mois pour une problématique non urgente sans en faire un maximum applicable à tout, et ouverture d'un dossier de réclamation si la réponse de l'entrepreneur ne convient pas dans les quinze jours."
+  },
+  {
+   "url": "https://www.garantiegcr.com/fr/acheteur/conseils-gcr/ma-problematique-est-elle-couverte-1-an-3-ans-ou-5-ans-par-gcr/",
+   "title": "Ma problématique est-elle couverte 1 an, 3 ans ou 5 ans par GCR?",
+   "publisher": "Garantie de construction résidentielle",
+   "consulted": "2026-09-25",
+   "supports": "Exemple de vice majeur donné par GCR: « un affaissement de la propriété causé par un tassement du sol, faisant en sorte que la fondation devient instable », et définitions de la malfaçon, du vice caché et du vice majeur."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/vous-etes/citoyen/problemes-particuliers-en-batiment/pyrite-et-pyrrhotite/",
+   "title": "Pyrite et pyrrhotite",
+   "publisher": "Régie du bâtiment du Québec",
+   "consulted": "2026-09-25",
+   "supports": "Mécanisme de la pyrite (acide sulfurique produit en s'oxydant au contact de l'humidité et de l'oxygène, soulèvement et fissuration de la dalle) et de la pyrrhotite (cristallisation en lamelles qui fissure le béton). Fin de la garantie du plan cinq ans après la fin des travaux, contestation possible en arbitrage et recours devant les tribunaux civils au-delà."
+  },
+  {
+   "url": "https://portail-m4s.s3.montreal.ca/pdf/plan_adaptation_changements_climatiques_stynthese_2015-2020.pdf",
+   "title": "Plan d'adaptation aux changements climatiques de l'agglomération de Montréal 2015-2020, version synthèse",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-25",
+   "supports": "Ce sont les sols argileux qui se contractent lorsqu'ils sont secs; « des affaissements des fondations peuvent survenir quand les sols argileux s'assèchent, causant ainsi une rétraction du sol », avec des fissures dites fondations lézardées qui peuvent progresser vers les murs. « Les assurances d'habitation ne couvrent généralement pas les dommages causés sur les maisons par l'affaissement de sols argileux » et les propriétaires assument la totalité de la facture."
+  },
+  {
+   "url": "https://donnees.montreal.ca/dataset/geologie-des-depots-meubles",
+   "title": "Géologie et épaisseur des dépôts meubles",
+   "publisher": "Ville de Montréal, données ouvertes",
+   "consulted": "2026-09-25",
+   "supports": "La carte renseigne tout citoyen qui possède ou veut acquérir une propriété sur la nature des sols généralement présents sous les fondations dans un secteur du territoire montréalais, avec la limite que l'information en un point donné est une interprétation tirée d'un nombre limité de relevés."
+  },
+  {
+   "url": "https://www.laval.ca/organisation-municipale/salle-presse/communiques-presse/maisons-lezardees-appui-financier-2024/",
+   "title": "Maisons lézardées: soutien financier renouvelé",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-25",
+   "supports": "Volet maisons lézardées du programme Rénovation Québec de la Société d'habitation du Québec: aide maximale de 35 000 $ par résidence, participation du propriétaire au moins égale au tiers du coût des travaux, résidence de 1 à 8 logements conservée jusqu'au paiement, certificat d'admissibilité et permis de construction-amélioration obtenus avant d'entamer les travaux, au moins 5 000 $ de travaux, installation d'au moins un pieu, et exigence que les causes de l'affaissement soient liées à la condition du sol et non à un défaut ou à un vice de construction. Échéance de dépôt du 21 mars 2025 et plus de 66 propriétaires aidés depuis 2019."
+  },
+  {
+   "url": "https://www.laval.ca/conseils/racines-darbres-mythes-realites/",
+   "title": "Les racines d'arbres: mythes, réalités et conseils pratiques",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-25",
+   "supports": "Les racines ne percent pas le béton sain et profitent des fissures existantes; les vrais coupables des dommages aux fondations sont le type de sol, les variations climatiques ou l'âge du bâtiment. Conseil d'observer et de documenter (photos, dates d'apparition, évolution) puis de consulter une personne experte qui déterminera la cause réelle."
+  },
+  {
+   "url": "https://infoassurance.ca/blogue/habitation/votre-residence-et-les-glissements-de-terrain/",
+   "title": "Votre résidence et les glissements de terrain",
+   "publisher": "Bureau d'assurance du Canada (Infoassurance)",
+   "consulted": "2026-09-25",
+   "supports": "« Le glissement de terrain n'est pas un risque assuré dans les polices d'assurance habitation et il n'existe actuellement aucune protection », et l'avenant de dispositions légales ne s'applique pas à un dommage causé par un glissement de terrain."
+  },
+  {
+   "url": "https://infoassurance.ca/comprendre-l-assurance-habitation/reclamer-pour-votre-habitation/couverture-a-la-suite-d-un-sinistre/",
+   "title": "Couverture à la suite d'un sinistre",
+   "publisher": "Bureau d'assurance du Canada (Infoassurance)",
+   "consulted": "2026-09-25",
+   "supports": "Une infiltration d'eau par la toiture, la fondation, les portes ou les fenêtres n'est couverte que si la protection supplémentaire a été ajoutée au contrat; le mouvement de sol ne figure pas parmi les sinistres couverts énumérés."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/etapes-a-suivre-en-cas-de-vice-cache-dans-un-immeuble/",
+   "title": "Étapes à suivre en cas de vice caché dans un immeuble",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-25",
+   "supports": "Avis écrit obligatoire au vendeur dans un délai raisonnable, généralement de six mois à un an; interdiction de commencer les réparations à ses frais parce que le vendeur doit pouvoir vérifier l'existence et la gravité du vice, constater les dommages et le réparer; exception des réparations urgentes si le vice est dangereux ou risque d'endommager gravement l'immeuble ou de mener à sa perte; trois ans à partir de la découverte du vice pour poursuivre."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/le-vice-cache-dans-un-immeuble/",
+   "title": "Le vice caché dans un immeuble",
+   "publisher": "Éducaloi",
+   "consulted": "2026-09-25",
+   "supports": "Conditions du vice caché, recours de l'acheteur, et effet d'un achat à ses risques et périls qui peut priver l'acheteur de protection contre un vice caché."
+  }
+ ],
+ "claims_needing_review": [
+  "Le volet maisons lezardees du programme Renovation Quebec a Laval: la derniere edition verifiable fermait le 21 mars 2025 et la page dediee redirige vers la page generale des aides. Si une edition 2026 a ouvert, le paragraphe est a mettre a jour. A verifier aupres de la Ville de Laval."
+ ]
+}
