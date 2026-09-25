@@ -112,6 +112,30 @@ courte sur une institution quebecoise aide le plus.
 en chiffres latins comme dans les articles arabes existants, ne les convertissez
 pas a la main. Regardez un article arabe existant avant de commencer.
 
+**Le separateur decimal en arabe: le point, jamais la virgule.** C est
+contre-intuitif et ca corrompt silencieusement les chiffres. Le script de
+`ar-numerals.html` applique cette regle:
+
+```js
+s.replace(/([0-9])[espace ou virgule]([0-9]{3})(?![0-9])/g, '$1' + MILLE + '$2')
+```
+
+Une virgule suivie de trois chiffres est donc lue comme un separateur de
+MILLIERS. En arabe, `46,154 ¢` s affiche `46٬154`, soit quarante-six mille cent
+cinquante-quatre centimes au lieu de quarante-six centimes. Le point, lui, est
+converti en separateur decimal arabe `٫`.
+
+Donc en arabe: `46.154`, `7.065`, `11.142`, `167.40 $`, `9.80 $`. Le chiffre est
+intact, seule sa notation change. Les articles arabes existants, dont
+`content/ar/articles/reduce-heating-bill-quebec.md`, suivent deja cette
+convention. Ce n est pas une entorse a la regle « recopiez le chiffre du
+francais »: c est ce qu il faut ecrire pour que le lecteur voie le bon chiffre.
+
+**Les nombres negatifs en arabe:** ecrivez le mot, pas le signe.
+`ناقص 12 درجة مئوية` plutot que `-12 °C`, parce qu un signe colle a un chiffre
+se deplace en lecture de droite a gauche. La valeur reste la meme. Un nombre
+positif garde son symbole normalement.
+
 ## Regles absolues
 
 1. **Zero tiret long**, dans toutes les langues, front matter compris.

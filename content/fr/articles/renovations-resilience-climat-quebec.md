@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Clapet antiretour, membrane blanche, gouttières à un mètre: les rénovations de résilience au climat exigées au Québec et ce que Montréal subventionne."
 image: "images/articles/renovations-resilience-climat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Deux orages violents en un été suffisent à transformer un sous-sol fini en

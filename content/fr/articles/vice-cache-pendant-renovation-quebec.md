@@ -66,12 +66,12 @@ relever de trois régimes différents.
 | Un entrepreneur passé | Des travaux mal faits, un contrat, une licence valide | Le constat dans les 12 mois suivant la fin des travaux |
 | Usure ou vice apparent | Rien : il n’y a pas de recours | Aucune |
 
-Sur la première piste, l’OACIQ résume la garantie légale de qualité : le vendeur
-garantit que l’immeuble est exempt de vices, existants au moment de la vente, qui
-le rendent impropre à l’usage auquel on le destine ou en diminuent l’utilité au
-point que l’acheteur n’aurait pas payé le même prix. Elle ne couvre pas un vice
-connu de l’acheteur, ni celui qu’un acheteur prudent et diligent aurait pu
-constater.
+Sur la première piste, l’article 1726 du Code civil du Québec est net, et l’OACIQ
+le résume : le vendeur garantit que l’immeuble est exempt de vices, existants au
+moment de la vente, qui le rendent impropre à l’usage auquel on le destine ou en
+diminuent l’utilité au point que l’acheteur n’aurait pas payé le même prix. Elle
+ne couvre pas un vice connu de l’acheteur, ni celui qu’un acheteur prudent et
+diligent aurait pu constater sans recourir à un expert.
 
 La troisième piste est celle qu’on oublie. Éducaloi précise que ne pas faire
 d’inspection, ou ne pas la faire de façon prudente et diligente, revient à
@@ -80,10 +80,11 @@ calorifère de 1978 en fin de vie n’est pas un vice caché.
 
 ## Dénoncer le vice caché par écrit, et seulement ensuite réparer
 
-L’avis au vendeur est obligatoire et il doit être écrit. Le délai « raisonnable »
-s’évalue selon les circonstances, en tenant compte du temps nécessaire pour
-mesurer la gravité du vice : Éducaloi indique qu’un délai de 6 mois à un an sera
-généralement considéré comme raisonnable, exceptionnellement plus long si le vice
+L’article 1739 du Code civil est explicite : l’avis au vendeur doit être écrit, et
+le délai raisonnable part, quand le vice apparaît graduellement, du jour où
+l’acheteur a pu en soupçonner la gravité et l’étendue. Ce délai « raisonnable »
+s’évalue selon les circonstances : Éducaloi indique qu’un délai de 6 mois à un an
+sera généralement considéré comme raisonnable, exceptionnellement plus long si le vice
 se manifeste de façon saisonnière. Un chantier arrêté ne vous laisse pas ce
 confort : la lettre part cette semaine.
 
@@ -105,8 +106,10 @@ courtier, pas avocat : la lettre, elle, se prépare avec un avocat ou un notaire
 ## Ce qui arrive à votre chantier pendant ce temps
 
 **Arrêter les travaux n’est pas arrêter de payer.** Si l’entrepreneur n’est pas
-payé, il pourrait faire inscrire une hypothèque sur votre immeuble, et les
-ouvriers, les sous-entrepreneurs et les fournisseurs peuvent faire la même chose.
+payé, l’article 2726 du Code civil lui ouvre une hypothèque légale sur votre
+immeuble, et la même hypothèque existe pour l’architecte, l’ingénieur, le
+fournisseur de matériaux, l’ouvrier et le sous-entrepreneur, sans qu’il soit
+nécessaire de la publier.
 La protection existe en amont, dans la façon de payer : le plus petit acompte
 possible, des versements au fur et à mesure, et une somme retenue jusqu’à ce que
 tous les travaux prévus soient complétés.
@@ -169,8 +172,10 @@ avant le procès, sinon le juge pourrait refuser d’en prendre connaissance.
 
 Deux horloges tournent donc, et ce n’est pas la longue qui fait perdre les
 dossiers. Trois ans courent depuis la découverte du vice pour poursuivre le
-vendeur. Le délai raisonnable pour dénoncer par écrit court, lui, depuis le
-moment où l’entrepreneur a ouvert le mur.
+vendeur : c’est la prescription de l’article 2925 du Code civil, et l’article 2926
+fait partir ce délai, pour un préjudice qui se manifeste graduellement, du jour où
+il se manifeste pour la première fois. Le délai raisonnable pour dénoncer par
+écrit court, lui, depuis le moment où l’entrepreneur a ouvert le mur.
 
 ## Questions fréquentes
 
@@ -188,13 +193,16 @@ réparer. Seules les réparations urgentes échappent à cette règle.
 **Le vendeur jure qu’il ne savait pas. Ça change quoi ?** Peu de choses dans un
 sens, beaucoup dans l’autre. Selon l’OACIQ, le fait que le vendeur ignore le
 vice, ou que le vice ne se manifeste qu’après la vente, ne diminue en rien la
-garantie. S’il le connaissait, sa responsabilité est augmentée pour couvrir,
-outre la diminution de valeur, les autres dommages subis.
+garantie. S’il le connaissait ou ne pouvait l’ignorer, l’article 1728 du Code
+civil le tient de réparer le préjudice subi par l’acheteur, en plus de la
+restitution du prix.
 
 **J’ai acheté « à mes risques et périls ».** Vous avez alors acheté l’immeuble
 dans l’état où il se trouve, avec ou sans vice, et en principe vous n’avez pas de
-protection contre un vice caché. Un vendeur professionnel, lui, ne peut pas
-vendre ainsi. Faites lire la clause exacte de votre acte par un notaire avant
+protection contre un vice caché. L’article 1733 du Code civil trace la limite : un
+vendeur ne peut pas se dégager des vices qu’il connaissait ou ne pouvait ignorer,
+et l’achat à ses risques et périls ne fait exception que devant un vendeur non
+professionnel. Faites lire la clause exacte de votre acte par un notaire avant
 d’écrire à qui que ce soit.
 
 Pour compléter, lisez [les conditions du vice caché et vos recours au

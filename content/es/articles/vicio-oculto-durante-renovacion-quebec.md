@@ -65,13 +65,14 @@ caer bajo tres regímenes diferentes.
 | Un contratista anterior | Trabajos mal hechos, un contrato, una licencia válida | La constatación dentro de los 12 meses siguientes al fin de los trabajos |
 | Desgaste o vicio aparente | Nada: no hay recurso | Ninguno |
 
-Sobre la primera vía, la OACIQ, el organismo que regula a los corredores
-inmobiliarios de Quebec, resume la garantía legal de calidad: el vendedor
-garantiza que el inmueble está exento de vicios, existentes al momento de la
-venta, que lo vuelven impropio para el uso al que se lo destina o que disminuyen
-su utilidad al punto de que el comprador no habría pagado el mismo precio. No
-cubre un vicio conocido por el comprador, ni el que un comprador prudente y
-diligente habría podido constatar.
+Sobre la primera vía, el artículo 1726 del Code civil du Québec, el código civil
+quebequense, es claro, y la OACIQ, el organismo que regula a los corredores
+inmobiliarios de Quebec, lo resume: el vendedor garantiza que el inmueble está
+exento de vicios, existentes al momento de la venta, que lo vuelven impropio para
+el uso al que se lo destina o que disminuyen su utilidad al punto de que el
+comprador no habría pagado el mismo precio. No cubre un vicio conocido por el
+comprador, ni el que un comprador prudente y diligente habría podido constatar sin
+necesidad de recurrir a un perito.
 
 La tercera vía es la que se olvida. Éducaloi precisa que no hacer inspección, o
 no hacerla de manera prudente y diligente, equivale a aceptar el inmueble con
@@ -80,9 +81,11 @@ vida no es un vicio oculto.
 
 ## Denunciar el vicio oculto por escrito, y solo después reparar
 
-El aviso al vendedor es obligatorio y debe ser escrito. El plazo « razonable » se
-evalúa según las circunstancias, teniendo en cuenta el tiempo necesario para
-medir la gravedad del vicio: Éducaloi indica que un plazo de 6 meses a un año
+El artículo 1739 del Code civil es explícito: el aviso al vendedor debe ser
+escrito, y el plazo razonable corre, cuando el vicio aparece gradualmente, desde
+el día en que el comprador pudo sospechar su gravedad y su extensión. Ese plazo
+« razonable » se evalúa según las circunstancias: Éducaloi indica que un plazo de
+6 meses a un año
 será generalmente considerado razonable, y excepcionalmente más largo si el vicio
 se manifiesta de forma estacional. Una obra detenida no le deja esa comodidad: la
 carta sale esta semana.
@@ -104,10 +107,11 @@ prepara con un abogado o un notario.
 
 ## Lo que le pasa a su obra mientras tanto
 
-**Detener los trabajos no es dejar de pagar.** Si el contratista no cobra, podría
-hacer inscribir una hipoteca sobre su inmueble, y los obreros, los subcontratistas
-y los proveedores pueden hacer lo mismo. La protección existe antes, en la forma
-de pagar: el anticipo más pequeño posible, pagos a medida que se avanza, y una
+**Detener los trabajos no es dejar de pagar.** Si el contratista no cobra, el
+artículo 2726 del Code civil le abre una hipoteca legal sobre su inmueble, y
+también al arquitecto, al ingeniero, al proveedor de materiales, al obrero y al
+subcontratista, sin necesidad de publicarla. La protección existe antes, en la
+forma de pagar: el anticipo más pequeño posible, pagos a medida que se avanza, y una
 suma retenida hasta que todos los trabajos previstos estén terminados.
 
 **La corrección puede cambiar el alcance de la obra, y por lo tanto el permiso.**
@@ -168,9 +172,11 @@ menos 30 días antes del juicio; si no, el juez podría negarse a tomarlos en
 cuenta.
 
 Dos relojes corren entonces, y no es el largo el que hace perder los expedientes.
-Tres años corren desde el descubrimiento del vicio para demandar al vendedor. El
-plazo razonable para denunciar por escrito corre, en cambio, desde el momento en
-que el contratista abrió el muro.
+Tres años corren desde el descubrimiento del vicio para demandar al vendedor: es
+la prescripción del artículo 2925 del Code civil, y el artículo 2926 hace correr
+ese plazo, para un perjuicio gradual, desde el día en que se manifiesta por
+primera vez. El plazo razonable para denunciar por escrito corre, en cambio, desde
+el momento en que el contratista abrió el muro.
 
 ## Preguntas frecuentes
 
@@ -188,12 +194,14 @@ reparaciones urgentes escapan a esa regla.
 **El vendedor jura que no sabía. ¿Eso cambia algo?** Poco en un sentido, mucho en
 el otro. Según la OACIQ, el hecho de que el vendedor ignore el vicio, o de que el
 vicio solo se manifieste después de la venta, no disminuye en nada la garantía.
-Si lo conocía, su responsabilidad aumenta para cubrir, además de la disminución
-de valor, los otros daños sufridos.
+Si lo conocía o no podía ignorarlo, el artículo 1728 del Code civil lo obliga a
+reparar el perjuicio sufrido por el comprador, además de la restitución del precio.
 
 **Compré « a mi riesgo y ventura ».** Usted compró entonces el inmueble en el
 estado en que se encuentra, con o sin vicio, y en principio no tiene protección
-contra un vicio oculto. Un vendedor profesional, en cambio, no puede vender así.
+contra un vicio oculto. El artículo 1733 del Code civil traza el límite: un
+vendedor no puede liberarse de los vicios que conocía o no podía ignorar, y la
+compra a riesgo y ventura solo hace excepción frente a un vendedor no profesional.
 Haga leer la cláusula exacta de su acta por un notario antes de escribirle a
 nadie.
 

@@ -63,12 +63,13 @@ three different regimes.
 | A past contractor | Work badly done, a contract, a valid licence | The finding within 12 months after the end of the work |
 | Wear or apparent defect | Nothing: there is no recourse | None |
 
-On the first avenue, the OACIQ sums up the legal warranty of quality: the seller
-warrants that the immovable is free of defects, existing at the time of the sale,
-that render it unfit for the use for which it is intended or that so diminish its
-usefulness that the buyer would not have paid the same price. It does not cover a
-defect known to the buyer, nor one that a prudent and diligent buyer could have
-discovered.
+On the first avenue, article 1726 of the Code civil du Québec (Quebec's civil
+code) is clear, and the OACIQ sums it up: the seller warrants that the immovable
+is free of defects, existing at the time of the sale, that render it unfit for the
+use for which it is intended or that so diminish its usefulness that the buyer
+would not have paid the same price. It does not cover a defect known to the buyer,
+nor one that a prudent and diligent buyer could have discovered without needing to
+resort to an expert.
 
 The third avenue is the one people forget. Educaloi specifies that not having an
 inspection done, or not having it done in a prudent and diligent manner, amounts
@@ -77,9 +78,10 @@ to accepting the immovable with all the defects that could have been detected. A
 
 ## Give written notice of the hidden defect, and only then repair
 
-The notice to the seller is mandatory and it must be in writing. The "reasonable"
-delay is assessed according to the circumstances, taking into account the time
-needed to measure the seriousness of the defect: Educaloi indicates that a delay
+Article 1739 of the Code civil is explicit: the notice to the seller must be in
+writing, and when the defect appears gradually the reasonable delay runs from the
+day the buyer could suspect its seriousness and extent. That "reasonable"
+delay is assessed according to the circumstances: Educaloi indicates that a delay
 of 6 months to a year will generally be considered reasonable, exceptionally
 longer if the defect appears seasonally. A stopped work site does not leave you
 that comfort: the letter goes out this week.
@@ -101,9 +103,11 @@ the letter itself gets prepared with a lawyer or a notary.
 ## What happens to your work site in the meantime
 
 **Stopping the work is not stopping the payments.** If the contractor is not paid,
-he could have a hypothec registered against your immovable, and the workers,
-subcontractors and suppliers can do the same. The protection exists upstream, in
-how you pay: the smallest possible deposit, payments as the work progresses, and
+article 2726 of the Code civil gives him a legal hypothec on your immovable, and
+the same hypothec exists for the architect, the engineer, the supplier of
+materials, the worker and the subcontractor, without any need to publish it. The
+protection exists upstream, in how you pay: the smallest possible deposit,
+payments as the work progresses, and
 an amount held back until all the planned work is completed.
 
 **The correction can change the scope of the work, and therefore the permit.** In
@@ -161,7 +165,9 @@ at least 30 days before the trial, failing which the judge could refuse to take
 note of them.
 
 Two clocks are therefore running, and it is not the long one that loses files.
-Three years run from the discovery of the defect to sue the seller. The reasonable
+Three years run from the discovery of the defect to sue the seller: that is the
+prescription of article 2925 of the Code civil, and article 2926 starts that clock,
+for a prejudice that appears gradually, on the day it first appears. The reasonable
 delay to give written notice runs, for its part, from the moment the contractor
 opened the wall.
 
@@ -181,13 +187,17 @@ Only urgent repairs escape that rule.
 **The seller swears he did not know. Does that change anything?** Little in one
 direction, a lot in the other. According to the OACIQ, the fact that the seller
 was unaware of the defect, or that the defect only appears after the sale, does
-not diminish the warranty in any way. If he knew about it, his liability is
-increased to cover, beyond the loss in value, the other damage suffered.
+not diminish the warranty in any way. If he knew about it or could not have been
+unaware of it, article 1728 of the Code civil requires him to repair the prejudice
+suffered by the buyer, on top of returning the price.
 
 **I bought "at my own risk".** You then bought the immovable in the state it was
 in, with or without defects, and in principle you have no protection against a
-hidden defect. A professional seller, however, may not sell that way. Have the
-exact clause of your deed read by a notary before writing to anyone.
+hidden defect. Article 1733 of the Code civil draws the line: a seller cannot free
+himself from defects he knew of or could not have been unaware of, and a purchase
+at your own risk is an exception to that only when the seller is not a professional
+seller. Have the exact clause of your deed read by a notary before writing to
+anyone.
 
 To go further, read [the conditions of a vice caché and your recourses in
 Quebec](/en/articles/latent-defect-recourse-quebec/) and [what a sale without

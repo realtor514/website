@@ -7,7 +7,7 @@ category: "Guía práctica"
 description: "Válvula antirretorno, membrana blanca, canaletas a un metro: las renovaciones de resiliencia climática exigidas en Quebec y lo que Montreal subvenciona."
 image: "images/articles/renovations-resilience-climat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Dos tormentas violentas en un solo verano bastan para convertir un sótano

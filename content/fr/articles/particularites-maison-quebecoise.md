@@ -7,7 +7,7 @@ category: "Guide de l'acheteur"
 description: "Escalier extérieur, sous-sol habité, toit plat, plex, drain français, chauffage électrique: les particularités de construction d'une maison québécoise."
 image: "images/articles/particularites-maison-quebecoise/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un acheteur qui visite sa première propriété à Montréal ou à Laval remarque toujours

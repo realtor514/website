@@ -7,7 +7,7 @@ category: "Guía del Comprador"
 description: "Escalera exterior, sótano habitado, techo plano, plex, drenaje francés y calefacción eléctrica: qué particulariza la construcción de una casa quebequense."
 image: "images/articles/particularites-maison-quebecoise/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un comprador que visita su primera propiedad en Montreal o en Laval nota siempre

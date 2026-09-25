@@ -7,7 +7,7 @@ category: "Practical Guide"
 description: "Backwater valve, white membrane, gutters at one metre: the climate resilient renovations Quebec requires, and what Montreal subsidizes."
 image: "images/articles/renovations-resilience-climat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Two violent storms in one summer are enough to turn a finished basement into a

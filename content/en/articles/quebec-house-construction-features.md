@@ -7,7 +7,7 @@ category: "Buyer's Guide"
 description: "Outside staircase, lived-in basement, flat roof, plex, foundation drain, electric heating: the construction features of a Quebec house."
 image: "images/articles/particularites-maison-quebecoise/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 A buyer touring their first property in Montreal or Laval always notices the
