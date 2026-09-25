@@ -185,3 +185,73 @@ corriger. La liste est dans `state/content_plan.json`, statut `already_covered`.
 Deux planificateurs differents ont propose les memes sujets sans le savoir,
 puisqu ils travaillaient sur des tranches separees du catalogue de reference.
 La porte les a rattrapes au moment de la reclamation.
+
+---
+
+## 7. Panne des sources officielles le 25 septembre 2026
+
+Huit redacteurs ont travaille en parallele ce jour-la. Six ont rapporte la meme
+chose, chacun de son cote: les sources primaires quebecoises etaient en panne
+ou inaccessibles.
+
+| Site | Ce qui se passait | Constate par |
+|---|---|---|
+| legisquebec.gouv.qc.ca | 502 du serveur d origine, pas un blocage: avec un agent de navigateur le WAF laisse passer et l origine repond 502. Un redacteur a essaye 22 fois sur 20 minutes. | 4 redacteurs |
+| hydroquebec.com | page « temporairement indisponible » a chaque appel | 2 redacteurs |
+| revenuquebec.ca | 403 a WebFetch ET a curl, y compris sur les PDF de formulaires, plusieurs entetes essayes | 1 redacteur |
+| quebec.ca | verification humaine, puis 405 | 2 redacteurs |
+| laval.ca | 403 et mur Cloudflare sur le HTML; les PDF accessibles sont des numerisations sans couche texte | 2 redacteurs |
+| justice.gouv.qc.ca | defi Cloudflare | 1 redacteur |
+
+**Aucun redacteur n a paraphrase de memoire.** Tous ont retire l affirmation ou
+l ont attribuee a une source de repli acceptee. C etait la bonne decision, mais
+elle laisse des trous identifiables.
+
+### Ce qu il faudra completer quand ces sites repondront
+
+- `vice-cache-pendant-renovation-quebec`: **aucun numero d article du Code civil
+  n est cite.** Les regles viennent d Educaloi et de l OACIQ. A completer avec
+  1726, 1728, 1739, 2925 et 2926. C est le trou le plus visible de la vague,
+  parce qu un article sur le vice cache sans numero d article est plus faible
+  que la voix du site.
+- `particularites-maison-quebecoise`: tout le volet Hydro-Quebec est absent,
+  soit le tarif D, le tarif bi-energie DT, l aide LogisVert, Chauffez vert et
+  l interdiction du chauffage au mazout du reglement Q-2, r. 1.1. Les chiffres
+  de chauffage qui restent viennent de Statistique Canada seulement.
+- `renovations-resilience-climat-quebec`: les montants de subvention
+  d Hydro-Quebec pour thermopompe ont ete remplaces par les montants RenoPlex
+  de Montreal, verifiables. Le volet Hydro-Quebec reste a ajouter.
+- `impots-proprietaire-quebec-deductions`: les numeros de formulaires de Revenu
+  Quebec ont ete retires. Le texte dit seulement que Revenu Quebec a son propre
+  formulaire de revenus de location.
+- `rentabiliser-terrain-zonage-quebec`: le volet fiscal renvoie a l article
+  existant et au comptable, parce que LegisQuebec et Revenu Quebec etaient tous
+  les deux inaccessibles.
+
+### Une contradiction a trancher, dans les sources elles-memes
+
+`renovations-resilience-climat-quebec` expose deux pages de la Ville de Montreal
+qui se contredisent sur le programme de clapet antiretour:
+
+| Page | Mise a jour | Montants | Seuil |
+|---|---|---|---|
+| RenoPlex, montants | 18 aout 2026 | 90 $, 600 $, 1 600 $ | 3 860 $/m2 |
+| Article clapet antiretour | 15 juillet 2025 | 80 $, 560 $, 1 500 $ | 3 476 $/m2 |
+
+L article donne les deux avec leurs dates et dit au lecteur de faire confirmer
+au moment de la demande. Ce n est pas une erreur de redaction, c est la Ville
+qui n a pas mis ses deux pages a jour ensemble.
+
+### Deux erreurs de mes propres consignes, corrigees par les redacteurs
+
+- **Prix de vente au Quebec.** Ma ligne de plan disait que les prix de vente
+  reels « ne sont pas publics ». C est faux. Le prix cesse d etre confidentiel
+  des la publication de l acte au Registre foncier, et consulter un document
+  coute 1,50 $ depuis le 1er avril 2026. Ce qui est encadre par l OACIQ, c est
+  la publicite qu un courtier peut en faire, pas l existence de l information.
+  Corrige dans `prix-demande-prix-vendu-montreal`.
+- **Gel et degel.** Ma ligne de plan posait comme un fait que le cycle de gel et
+  degel quebecois raccourcit les durees de vie publiees par les fabricants.
+  Aucun organisme officiel ne publie de duree de vie propre au Quebec ni de
+  pourcentage a retrancher des moyennes canadiennes. `duree-de-vie-composantes-maison-quebec`
+  le dit franchement au lieu de chiffrer.
