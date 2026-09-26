@@ -34,7 +34,7 @@ tranche, pas cette fiche.
 - Le Bureau d'assurance du Canada l'a redit dans son communiqué du 11 mars 2026: la plupart des contrats d'assurance habitation couvrent la perte de denrées dans le réfrigérateur ou le congélateur, ainsi que le gel des installations sanitaires.
   -> 11 mars 2026
 - Pour savoir quand jeter, le gouvernement du Québec donne deux repères: 4 à 6 heures pour le réfrigérateur, jusqu'à 48 heures pour un congélateur rempli au maximum.
-  -> 6 heures | 48 heures
+  -> 4 à 6 heures | 48 heures
 - Elle rembourse le supplément par rapport à ce que vous payez normalement, jusqu'à un maximum: vous loger et vous nourrir coûte 100 $ par jour, l'hôtel et le restaurant 200 $, l'assureur verse 100 $.
   -> 100 $ | 200 $
 - Le formulaire obligatoire Déclarations du vendeur sur l'immeuble, DV 00001, version V2406/2022, pose la question à la section D10, Énergie.
@@ -173,13 +173,13 @@ tranche, pas cette fiche.
 - L'APCIQ fixe elle-même les seuils d'interprétation: sous 8 mois d'inventaire le marché favorise les vendeurs, entre 8 et 10 il est équilibré, au-delà de 10 il favorise les acheteurs.
   -> 8 mois
 - À Sainte-Dorothée, elle la franchit: 10,3 mois, marché d'acheteur, alors que les trois autres tranches où des ventes ont été enregistrées restent classées marché de vendeur.
-  -> 3 mois
+  -> 10,3 mois
 - Au deuxième trimestre de 2026, pour l'unifamiliale: 32 jours dans la région métropolitaine de Montréal, 30 jours à Laval, 41 jours sur l'île de Montréal, 48 jours à Sainte-Dorothée où le prix médian était de 775 500 $, et 64 jours dans le secteur 9 où il était de 1 980 000 $.
   -> 775 500 $ | 1 980 000 $ | 32 jours | 30 jours | 41 jours | 48 jours | 64 jours
 - La ligne directrice de l'OACIQ sur la publicité, section 7.2, mise à jour le 17 juin 2026, qualifie de pratique interdite le fait de publiciser le prix de vente d'un immeuble ou tout pourcentage permettant d'en déduire le montant.
   -> 17 juin 2026
 - Ce qui est publié par gamme de prix, c'est le nombre de mois d'inventaire: 7,6 mois dans la tranche supérieure de Laval contre 2,2 dans celle de 310 000 $ à 470 000 $.
-  -> 6 mois
+  -> 7,6 mois
 
 ### Aveux d ignorance, volontaires, a garder tels quels
 
@@ -230,6 +230,8 @@ tranche, pas cette fiche.
   -> article 327
 - L'article 328 : la façade principale doit avoir une largeur minimale de six mètres au rez-de-chaussée.
   -> article 328
+- TABLEAU | Projection au sol minimale | 50 m², article 327 |
+  -> 50 m²
 - TABLEAU | Exceptions à la superficie minimale | Utilité publique, sécurité, salubrité, article 326 |
   -> article 326
 - TABLEAU | Modulation par zone | Grille de spécifications, article 329 |
@@ -297,7 +299,7 @@ tranche, pas cette fiche.
 - Les règlements en cause sont le Règlement d'urbanisme 01-274 et le Règlement sur la construction et la transformation de bâtiments 11-018.
   -> 01-274 | 11-018
 - Selon le Guide de gestion des eaux pluviales du ministère de l'Environnement, les études recensées donnent un taux de rétention moyen de 60 %, dans une fourchette de 39 à 72 %, un décalage de la pointe de débit de 20 à 40 minutes, et une réduction du volume de ruissellement de 45 à 60 %.
-  -> 60 % | 72 %
+  -> 60 % | 72 % | 20 à 40 minutes
 - Ses conditions de base éliminent déjà beaucoup d'immeubles: construction incombustible, toit à au plus 46 m du sol, pente d'au plus 17 %, et couverture qui n'est pas de type multicouche, asphalte et gravier.
   -> 17 %
 - Le substrat doit faire au moins 100 mm.

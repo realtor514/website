@@ -84,7 +84,7 @@ de vendeur. Même secteur, même trimestre, deux marchés.
 
 Attention à une confusion courante. L'APCIQ écrit, à propos du nombre de mois
 d'inventaire, que « cette mesure est différente du délai de vente moyen ». Le
-premier chiffre l'écoulement du stock au rythme des ventes; la moyenne de jours
+premier chiffre décrit l'écoulement du stock au rythme des ventes; la moyenne de jours
 sur le marché compte les jours entre la signature du contrat de courtage et la
 vente.
 

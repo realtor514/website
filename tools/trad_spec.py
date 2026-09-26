@@ -55,8 +55,14 @@ MOTIFS = [
     ("pourcentage", r"\d+(?:,\d+)?\s*%"),
     ("date", r"(?:1er|\d{1,2})\s+(?:janvier|f[ée]vrier|mars|avril|mai|juin|juillet"
               r"|ao[uû]t|septembre|octobre|novembre|d[ée]cembre)\s+\d{4}"),
-    ("delai", r"\b\d{1,4}\s+(?:jours?|mois|ans?|semaines?|heures?)\b"),
-    ("unite", r"\d+(?:[,.]\d+)?\s*(?:¢/kWh|¢/jour|g/h|\$/m2|m2|kWh|mm|cm|BTU)"),
+    # Les decimales et les fourchettes doivent etre captees ENTIERES. Une
+    # premiere version cadrait sur `\b\d{1,4}`, donc « 10,3 mois » ressortait
+    # « 3 mois » et « 4 a 6 heures » ressortait « 6 heures ». Un traducteur
+    # lisant la fiche seule aurait recopie le mauvais chiffre.
+    ("delai", r"\d{1,4}(?:[,.]\d+)?(?:\s*(?:a|à|ou|et)\s*\d{1,4}(?:[,.]\d+)?)?"
+              r"\s+(?:jours?|mois|ans?|annees?|années?|semaines?|heures?|minutes?)\b"),
+    ("unite", r"\d+(?:[,.]\d+)?(?:\s*(?:a|à)\s*\d+(?:[,.]\d+)?)?"
+              r"\s*(?:¢/kWh|¢/jour|¢|g/h|\$/m2|m2|m²|kWh|mm|cm|BTU|°C)"),
 ]
 
 # Un aveu d ignorance est un choix editorial, pas un oubli: il doit survivre.
