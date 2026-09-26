@@ -1,7 +1,7 @@
 ---
 title: "Acheter une maison de campagne au Québec: ce qui change"
-date: 2026-09-16
-lastmod: 2026-09-16
+date: 2026-08-27
+lastmod: 2026-08-27
 translationKey: "article-country-home-checks"
 category: "Guide de l'acheteur"
 description: "Zone agricole et CPTAQ, chemin privé, assurance, services: les vérifications avant d'acheter une maison de campagne au Québec pour y vivre à l'année."

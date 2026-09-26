@@ -1,7 +1,7 @@
 ---
 title: "Vente pour taxes municipales au Québec: la procédure"
-date: 2026-09-01
-lastmod: 2026-09-01
+date: 2026-09-11
+lastmod: 2026-09-11
 translationKey: "article-tax-sale-properties"
 category: "Investissement"
 description: "Vente pour taxes municipales au Québec: qui vend, ce qui se paie sur place, le droit de retrait d’un an et les charges qui survivent à l’encan."

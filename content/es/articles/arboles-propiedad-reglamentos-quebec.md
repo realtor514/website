@@ -91,7 +91,15 @@ conífera, "cualquiera que sea la ubicación del árbol en su terreno".
 |---|---|---|
 | Laval | Frondosa de 3 cm de diámetro, conífera de 150 cm de alto | 84 $ por árbol |
 | Montreal, Ahuntsic-Cartierville | Tronco de 10 cm a 1,3 m del suelo, o 15 cm a 15 cm del suelo | 136 $ por solicitud y por lote |
-| Montreal, Côte-des-Neiges y Notre-Dame-de-Grâce | Tronco de 10 cm a 1,3 m del suelo, salvo cedro, enebro y espino cerval | Multa de 600 $ a 15 000 $ sin permiso |
+| Montreal, Côte-des-Neiges y Notre-Dame-de-Grâce | Tronco de 10 cm a 1,3 m del suelo, salvo cedro, enebro y espino cerval | 175 $ por solicitud, sea cual sea el número de árboles |
+
+**La multa no pertenece a ningún distrito en particular.** La página de trámite
+de la ciudad muestra la misma advertencia en todas partes: talar sin permiso
+cuesta 600 $, y hasta 15 000 $ según el número de árboles y la superficie
+desmontada. Una advertencia al leer esas páginas: los valores por distrito los
+carga su navegador, así que dos distritos distintos muestran el mismo texto a
+un lector automatizado. Haga confirmar el suyo en el mostrador de permisos de
+su distrito antes de contratar a un podador.
 
 **El motivo cuenta tanto como el permiso.** Montreal enumera las razones que
 rechaza, y cubren más o menos todo lo que uno oye en una visita: no se puede

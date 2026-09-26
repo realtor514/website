@@ -90,7 +90,14 @@ tree sits on your land".
 |---|---|---|
 | Laval | Deciduous tree 3 cm in diameter, conifer 150 cm tall | $84 per tree |
 | Montreal, Ahuntsic-Cartierville | Trunk of 10 cm at 1.3 m from the ground, or 15 cm at 15 cm from the ground | $136 per application and per lot |
-| Montreal, Côte-des-Neiges and Notre-Dame-de-Grâce | Trunk of 10 cm at 1.3 m from the ground, except cedar, juniper and buckthorn | Fine of $600 to $15,000 without a permit |
+| Montreal, Côte-des-Neiges and Notre-Dame-de-Grâce | Trunk of 10 cm at 1.3 m from the ground, except cedar, juniper and buckthorn | $175 per application, whatever the number of trees |
+
+**The fine belongs to no borough in particular.** The city's procedure page
+shows the same warning everywhere: felling without a permit costs $600, and up
+to $15,000 depending on the number of trees and the area cleared. One caution
+when reading those pages: the borough values are loaded by your browser, so two
+different boroughs show identical text to an automated reader. Have yours
+confirmed at your borough's permit counter before you hire an arborist.
 
 **The reason matters as much as the permit.** Montreal lists the grounds it
 refuses, and they cover just about everything I hear during a showing: you

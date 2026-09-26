@@ -93,7 +93,15 @@ conifère, « quel que soit l'emplacement de l'arbre sur votre terrain ».
 |---|---|---|
 | Laval | Feuillu de 3 cm de diamètre, conifère de 150 cm de haut | 84 $ par arbre |
 | Montréal, Ahuntsic-Cartierville | Tronc de 10 cm à 1,3 m du sol, ou 15 cm à 15 cm du sol | 136 $ par demande et par lot |
-| Montréal, Côte-des-Neiges et Notre-Dame-de-Grâce | Tronc de 10 cm à 1,3 m du sol, sauf cèdre, genévrier et nerprun | Amende de 600 $ à 15 000 $ sans permis |
+| Montréal, Côte-des-Neiges et Notre-Dame-de-Grâce | Tronc de 10 cm à 1,3 m du sol, sauf cèdre, genévrier et nerprun | 175 $ par demande, quel que soit le nombre d'arbres |
+
+**L'amende n'appartient à aucun arrondissement en particulier.** La démarche
+de la Ville affiche la même mise en garde partout: abattre sans permis coûte
+600 $, et jusqu'à 15 000 $ selon le nombre d'arbres et la superficie déboisée.
+Un avertissement en lisant ces pages: les valeurs par arrondissement sont
+chargées par votre navigateur, si bien que deux arrondissements différents
+affichent le même texte à un lecteur automatisé. Faites confirmer la vôtre au
+comptoir des permis de votre arrondissement avant d'engager un émondeur.
 
 **Le motif compte autant que le permis.** Montréal énumère les raisons
 refusées, et elles couvrent à peu près tout ce qu'on entend en visite : on ne

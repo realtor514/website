@@ -1,7 +1,7 @@
 ---
 title: "Permis d'abattage d'arbre à Montréal : la démarche"
-date: 2026-09-04
-lastmod: 2026-09-04
+date: 2026-09-26
+lastmod: 2026-09-26
 translationKey: "article-tree-cutting-permits"
 category: "Guide pratique"
 description: "Permis d'abattage d'arbre à Montréal et à Laval : motifs acceptés, documents, délais, tarifs par arrondissement, frêne, amende et revente."

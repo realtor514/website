@@ -1737,7 +1737,7 @@
    "translationKey": "article-country-home-checks",
    "needs_expert_review": true,
    "id": "t36",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1760,7 +1760,9 @@
      "s": 0.1809,
      "match": "/articles/acheter-un-chalet-quebec-verifications/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/acheter-maison-campagne-quebec.md",
+   "date": "2026-08-27"
   },
   {
    "ref_id": 1130,
@@ -2128,7 +2130,7 @@
    "translationKey": "article-tax-sale-properties",
    "needs_expert_review": true,
    "id": "t44",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -2151,7 +2153,9 @@
      "s": 0.0942,
      "match": "/articles/preparer-rencontre-courtier-documents/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/maisons-abandonnees-ventes-pour-taxes.md",
+   "date": "2026-09-11"
   },
   {
    "ref_id": 1072,
@@ -2176,7 +2180,7 @@
    "translationKey": "article-tree-cutting-permits",
    "needs_expert_review": true,
    "id": "t45",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -2199,7 +2203,9 @@
      "s": 0.1707,
      "match": "/articles/arbres-propriete-reglements-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/permis-abattage-arbres-quebec.md",
+   "date": "2026-09-26"
   },
   {
    "ref_id": 1062,

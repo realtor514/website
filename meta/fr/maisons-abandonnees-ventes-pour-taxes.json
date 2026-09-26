@@ -3,7 +3,7 @@
  "slug": "maisons-abandonnees-ventes-pour-taxes",
  "title": "Vente pour taxes municipales au Québec: la procédure",
  "target_keyword": "vente pour taxes municipales quebec",
- "word_count": 1620,
+ "word_count": 1838,
  "category": "Investissement",
  "internal_links": [
   "/tools/welcome-tax/",
@@ -46,7 +46,7 @@
    "supports": "Succession recueillie par l’État, saisine six mois après le décès ou dès la renonciation de tous les successibles connus (696, 697), saisine exercée par le ministre du Revenu (698), rôle de liquidateur, inventaire et avis à la Gazette officielle (699), récupération par un héritier dans les 10 ans (701). Créances prioritaires des municipalités et des centres de services scolaires pour les impôts fonciers (2651, paragraphe 5). Radiation du préavis de vente et de l’adjudication (3070). Lu par capture web.archive.org du 10 mars 2026 au moyen de l’outil tools/ccq.py du projet."},
   {"url": "https://portail-info.foncier.gouv.qc.ca/media/4nkiweti/vente_pour_defaut_paiement_impot_foncier_2024_11_01.pdf",
    "title": "Vente pour défaut de paiement de l’impôt foncier, fiche juridique",
-   "publisher": "Direction générale du registre foncier, ministère des Ressources naturelles et des Forêts",
+   "publisher": "Registre foncier du Québec, Direction générale du registre foncier",
    "consulted": "2026-09-01",
    "supports": "Les trois lois applicables, le délai d’un an avant l’acte de vente définitive, la liste exacte des inscriptions visées par la radiation légale (hypothèques immobilières, préavis de vente, adjudication, hypothèque de loyers, droits accessoires) et la règle centrale de l’article: tout autre droit réel ou personnel n’est pas éteint par la vente. Confirme aussi que la vente est un transfert au sens de la Loi concernant les droits sur les mutations immobilières."},
   {"url": "https://montreal.ca/demarches/acheter-un-immeuble-la-vente-pour-taxes",
@@ -68,7 +68,7 @@
    "title": "Vente de propriétés pour taxes impayées",
    "publisher": "Ville de Laval",
    "consulted": "2026-09-01",
-   "supports": "Lieu de la vente à la salle du conseil municipal, 3131, boulevard Saint-Martin Ouest; inscription sur place le jour de la vente entre 8 h 30 et 9 h 45 sans exception; modes de paiement acceptés et remboursement de l’excédent dans les 10 jours; liste publiée quelques jours avant la vente. Page lue par sa version anglaise, dont le corps demeure en français."},
+   "supports": "Encan de 2026 fixé au 19 novembre à 10 h, à la salle du conseil municipal du 3131, boulevard Saint-Martin Ouest; inscription sur place le jour de la vente entre 8 h 30 et 9 h 45 sans exception; modes de paiement acceptés et remboursement de l’excédent dans les 10 jours; liste des propriétés encore à venir."},
   {"url": "https://www.laval.ca/Pages/Fr/Citoyens/occupation-entretien-batiments.aspx",
    "title": "Occupation et entretien des bâtiments patrimoniaux, règlement L-12950",
    "publisher": "Ville de Laval",
@@ -86,7 +86,7 @@
    "supports": "Formulation municipale de l’absence de garantie: l’adjudicataire accepte l’immeuble sans garantie et à ses seuls risques et périls, dans l’état où il se trouve, avec toute servitude active ou passive, apparente ou occulte. Confirme aussi le paiement du solde des taxes si le prix d’adjudication est insuffisant, et la recommandation de s’en tenir aux réparations indispensables à la conservation pendant l’année du retrait."}
  ],
  "claims_needing_review": [
-  "Les modalités locales citées (date et lieu de l’encan de Montréal en 2026, plages d’inscription à Laval, périodicité de Blainville) changent d’une année à l’autre et devraient être revalidées avant toute nouvelle publication.",
+  "Les modalités locales citées (dates et lieux des encans de Montréal et de Laval en 2026, plages d’inscription, périodicité de Blainville) changent d’une année à l’autre et devraient être revalidées avant toute nouvelle publication.",
   "Le régime de la TPS et de la TVQ applicable à une vente pour taxes est présenté d’après la foire aux questions de la Ville de Blainville seulement. Aucune interprétation de Revenu Québec ou de l’Agence du revenu du Canada propre à la vente pour défaut de paiement de l’impôt foncier n’a pu être ouverte pendant la rédaction, revenuquebec.ca refusant l’accès.",
   "L’assujettissement aux droits de mutation est appuyé sur la fiche du Registre foncier, qui traite du contenu de l’acte et non du calcul ni des exonérations possibles. La base d’imposition exacte reste à faire confirmer par un notaire.",
   "Aucune source de l’OACIQ traitant spécifiquement du rôle d’un courtier immobilier lors d’une vente pour taxes n’a été trouvée. L’article n’avance donc rien sur ce point.",

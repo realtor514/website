@@ -3,7 +3,7 @@
  "slug": "permis-abattage-arbres-quebec",
  "title": "Permis d'abattage d'arbre à Montréal : la démarche",
  "target_keyword": "permis abattage arbre montreal",
- "word_count": 1907,
+ "word_count": 1913,
  "category": "Guide pratique",
  "internal_links": [
   "/articles/arbres-propriete-reglements-quebec/",
@@ -15,50 +15,83 @@
   "/formulaire/"
  ],
  "sources": [
-  {"url": "https://montreal.ca/demarches/demander-un-permis-dabattage-darbre-sur-un-terrain-prive",
+  {
+   "url": "https://montreal.ca/demarches/demander-un-permis-dabattage-darbre-sur-un-terrain-prive",
    "title": "Demander un permis d'abattage d'arbre sur un terrain privé (page mise à jour le 24 septembre 2026, contenus des 19 arrondissements)",
-   "publisher": "Ville de Montréal", "consulted": "2026-09-26",
-   "supports": "L'obligation du permis d'abattage, le seuil de 10 cm de diamètre à 1,3 m du sol et les seuils de 20 cm de rehaussement, de 40 % des branches et de 40 % des racines dans Ahuntsic-Cartierville, l'exception du cèdre, du genévrier et du nerprun à Lachine, la liste des motifs acceptés et la liste des motifs refusés dont celui de nuire à la croissance d'arbres de plus grande valeur, l'avertissement de ne pas sélectionner ce motif dans le formulaire en ligne, les documents exigés dont le plan à l'échelle, les photos et le rapport d'un expert reconnu par l'arrondissement, l'inspection sur place, les frais publiés de 58 $ à 268 $ par arrondissement, les délais publiés de 10 jours ouvrables à 6 à 8 semaines, le caractère non remboursable des frais en cas de refus, la réduction de 50 % pour le propriétaire occupant de 65 ans et plus dans Le Sud-Ouest, la gratuité dans Saint-Laurent pour un arbre mort, l'amende de 600 $ à 15 000 $ à Lachine, le remplacement dans les 12 mois et les caractéristiques de l'arbre de remplacement"},
-  {"url": "https://montreal.ca/demarches/demander-un-permis-dabattage-de-frene-sur-un-terrain-prive",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-26",
+   "supports": "L'obligation du permis d'abattage, le seuil de 10 cm de diamètre à 1,3 m du sol et les seuils de 20 cm de rehaussement, de 40 % des branches et de 40 % des racines dans Ahuntsic-Cartierville, l'exception du cèdre, du genévrier et du nerprun à Lachine, la liste des motifs acceptés et la liste des motifs refusés dont celui de nuire à la croissance d'arbres de plus grande valeur, l'avertissement de ne pas sélectionner ce motif dans le formulaire en ligne, les documents exigés dont le plan à l'échelle, les photos et le rapport d'un expert reconnu par l'arrondissement, l'inspection sur place, les frais publiés de 58 $ à 268 $ par arrondissement, les délais publiés de 10 jours ouvrables à 6 à 8 semaines, le caractère non remboursable des frais en cas de refus, la réduction de 50 % pour le propriétaire occupant de 65 ans et plus dans Le Sud-Ouest, la gratuité dans Saint-Laurent pour un arbre mort, l'amende de 600 $ à 15 000 $ à Lachine, le remplacement dans les 12 mois et les caractéristiques de l'arbre de remplacement"
+  },
+  {
+   "url": "https://montreal.ca/demarches/demander-un-permis-dabattage-de-frene-sur-un-terrain-prive",
    "title": "Demander un permis d'abattage de frêne sur un terrain privé (page mise à jour le 14 août 2026)",
-   "publisher": "Ville de Montréal", "consulted": "2026-09-26",
-   "supports": "La gratuité de la demande pour un frêne, le retour des frais d'analyse si l'arbre n'est pas un frêne, les 30 jours pour déposer une demande après un avis d'abattage sous peine d'amende, les 365 jours pour abattre sous peine d'amende, l'obligation de remplacer sous peine d'amende, et le renvoi au Règlement relatif à la lutte contre l'agrile du frêne"},
-  {"url": "https://montreal.ca/sujets/quoi-faire-avec-son-frene",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-26",
+   "supports": "La gratuité de la demande pour un frêne, le retour des frais d'analyse si l'arbre n'est pas un frêne, les 30 jours pour déposer une demande après un avis d'abattage sous peine d'amende, les 365 jours pour abattre sous peine d'amende, l'obligation de remplacer sous peine d'amende, et le renvoi au Règlement relatif à la lutte contre l'agrile du frêne"
+  },
+  {
+   "url": "https://montreal.ca/sujets/quoi-faire-avec-son-frene",
    "title": "Quoi faire avec son frêne",
-   "publisher": "Ville de Montréal", "consulted": "2026-09-26",
-   "supports": "L'obligation de faire traiter un frêne sain tous les 2 ans, la gratuité du traitement, la fenêtre de demande du 1er mai au 31 juillet, l'obligation d'abattre un frêne mort aux frais du propriétaire, et l'interdiction de conserver du bois de frêne non transformé comme bois de chauffage"},
-  {"url": "https://montreal.ca/demarches/demander-une-subvention-pour-labattage-de-frenes",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-26",
+   "supports": "L'obligation de faire traiter un frêne sain tous les 2 ans, la gratuité du traitement, la fenêtre de demande du 1er mai au 31 juillet, l'obligation d'abattre un frêne mort aux frais du propriétaire, et l'interdiction de conserver du bois de frêne non transformé comme bois de chauffage"
+  },
+  {
+   "url": "https://montreal.ca/demarches/demander-une-subvention-pour-labattage-de-frenes",
    "title": "Demander une subvention pour l'abattage de frênes (page mise à jour le 11 mai 2026)",
-   "publisher": "Ville de Montréal", "consulted": "2026-09-26",
-   "supports": "La subvention de 10 $ par centimètre de diamètre par frêne abattu, la nécessité d'avoir obtenu le permis avant l'abattage, le délai de 365 jours après l'abattage pour la demander, et la condition de laisser la Ville planter l'arbre de remplacement"},
-  {"url": "https://www.laval.ca/reglements-permis/trouver-mon-permis/abattage-arbre/",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-26",
+   "supports": "La subvention de 10 $ par centimètre de diamètre par frêne abattu, la nécessité d'avoir obtenu le permis avant l'abattage, le délai de 365 jours après l'abattage pour la demander, et la condition de laisser la Ville planter l'arbre de remplacement"
+  },
+  {
+   "url": "https://www.laval.ca/reglements-permis/trouver-mon-permis/abattage-arbre/",
    "title": "Abattage d'arbres sur un terrain",
-   "publisher": "Ville de Laval", "consulted": "2026-09-26",
-   "supports": "L'obligation du certificat d'autorisation même sur recommandation d'Hydro-Québec, le seuil de 30 mm de diamètre pour un feuillu et de 150 cm de hauteur pour un conifère quel que soit l'emplacement, les frais de 84 $ par arbre, les quatre étapes de la demande par la poste ou au comptoir, la visite d'un technicien, et la gratuité de la demande pour un frêne"},
-  {"url": "https://www.laval.ca/wp-content/uploads/2025/02/formulaire-permis-abattage-standard-2026.pdf",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-26",
+   "supports": "L'obligation du certificat d'autorisation même sur recommandation d'Hydro-Québec, le seuil de 30 mm de diamètre pour un feuillu et de 150 cm de hauteur pour un conifère quel que soit l'emplacement, les frais de 84 $ par arbre, les quatre étapes de la demande par la poste ou au comptoir, la visite d'un technicien, et la gratuité de la demande pour un frêne"
+  },
+  {
+   "url": "https://www.laval.ca/wp-content/uploads/2025/02/formulaire-permis-abattage-standard-2026.pdf",
    "title": "Abattage, demande de certificat d'autorisation (formulaire standard 2026)",
-   "publisher": "Ville de Laval", "consulted": "2026-09-26",
-   "supports": "L'exigence du nom du voisin et de son autorisation écrite lorsque le tronc est en partie ou en totalité sur la propriété voisine, la liste des motifs cochables, la mise en garde sur les inconvénients normaux, et les frais non remboursables de 84 $ par arbre"},
-  {"url": "https://info-reglements.laval.ca/consultation/cdu/titre-5-am%C3%A9nagement-sur-l-ensemble-du-territoire/chapitre-4-am%C3%A9nagement-d-un-terrain/",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-26",
+   "supports": "L'exigence du nom du voisin et de son autorisation écrite lorsque le tronc est en partie ou en totalité sur la propriété voisine, la liste des motifs cochables, la mise en garde sur les inconvénients normaux, et les frais non remboursables de 84 $ par arbre"
+  },
+  {
+   "url": "https://info-reglements.laval.ca/consultation/cdu/titre-5-am%C3%A9nagement-sur-l-ensemble-du-territoire/chapitre-4-am%C3%A9nagement-d-un-terrain/",
    "title": "Code de l'urbanisme, titre 5, chapitre 4, sous-sections 9 et 10 (articles 410 à 415)",
-   "publisher": "Ville de Laval", "consulted": "2026-09-26",
-   "supports": "Les conditions d'abattage de l'article 410 et l'exigence d'un rapport d'un professionnel en arboriculture de la Ville, la présomption d'abattage illégal quand la souche mesure au moins 4 cm de diamètre à 15 cm du sol, les opérations assimilables à un abattage de l'article 412 dont 50 % de la ramure vivante et 40 % des racines d'ancrage, et le remplacement des articles 413 à 415 avec le ratio d'un arbre par 100 m2, le délai de 6 mois hors décembre à mars et les cas d'abattage en contravention ou de travaux non réalisés"},
-  {"url": "https://info-reglements.laval.ca/consultation/cdu/titre-10-administration-et-proc%C3%A9dures/chapitre-1-dispositions-administratives/",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-26",
+   "supports": "Les conditions d'abattage de l'article 410 et l'exigence d'un rapport d'un professionnel en arboriculture de la Ville, la présomption d'abattage illégal quand la souche mesure au moins 4 cm de diamètre à 15 cm du sol, les opérations assimilables à un abattage de l'article 412 dont 50 % de la ramure vivante et 40 % des racines d'ancrage, et le remplacement des articles 413 à 415 avec le ratio d'un arbre par 100 m2, le délai de 6 mois hors décembre à mars et les cas d'abattage en contravention ou de travaux non réalisés"
+  },
+  {
+   "url": "https://info-reglements.laval.ca/consultation/cdu/titre-10-administration-et-proc%C3%A9dures/chapitre-1-dispositions-administratives/",
    "title": "Code de l'urbanisme, titre 10, chapitre 1, article 2081 et tableau des amendes",
-   "publisher": "Ville de Laval", "consulted": "2026-09-26",
-   "supports": "Le fait que le tableau des amendes ne fixe aucun montant pour abattre illégalement un arbre et renvoie à la Loi sur l'aménagement et l'urbanisme"},
-  {"url": "https://www.quebec.ca/habitation-territoire/amenagement-developpement-territoires/amenagement-territoire/guide-prise-decision-urbanisme/reglementation/plantation-abattage-arbres",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-09-26",
+   "supports": "Le fait que le tableau des amendes ne fixe aucun montant pour abattre illégalement un arbre et renvoie à la Loi sur l'aménagement et l'urbanisme"
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/amenagement-developpement-territoires/amenagement-territoire/guide-prise-decision-urbanisme/reglementation/plantation-abattage-arbres",
    "title": "Plantation et abattage des arbres, Guide La prise de décision en urbanisme",
-   "publisher": "Ministère des Affaires municipales et de l'Habitation", "consulted": "2026-09-26",
-   "supports": "L'amende minimale de 500 $ prévue par la Loi sur l'aménagement et l'urbanisme, le montant de 100 $ à 200 $ par arbre abattu illégalement jusqu'à 5 000 $ pour une superficie de moins d'un hectare, le montant de 5 000 $ à 15 000 $ par hectare complet déboisé, et le doublement en cas de récidive"},
-  {"url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "publisher": "Ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-09-26",
+   "supports": "L'amende minimale de 500 $ prévue par la Loi sur l'aménagement et l'urbanisme, le montant de 100 $ à 200 $ par arbre abattu illégalement jusqu'à 5 000 $ pour une superficie de moins d'un hectare, le montant de 5 000 $ à 15 000 $ par hectare complet déboisé, et le doublement en cas de récidive"
+  },
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
    "title": "Déclarations du vendeur sur l'immeuble (formulaire obligatoire DV 00001, V24 06/2022)",
-   "publisher": "OACIQ", "consulted": "2026-09-26",
-   "supports": "L'absence de toute question sur les arbres dans le formulaire, le libellé exact de D2.12 sur l'avis de non-conformité de la municipalité, celui de D14.4 b) sur les permis requis, et l'existence de D14.5 et de D15"},
-  {"url": "https://bac.ibc.ca/stay-protected/severe-weather-centre/severe-weather-insurance-faqs",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-26",
+   "supports": "L'absence de toute question sur les arbres dans le formulaire, le libellé exact de D2.12 sur l'avis de non-conformité de la municipalité, celui de D14.4 b) sur les permis requis, et l'existence de D14.5 et de D15"
+  },
+  {
+   "url": "https://bac.ibc.ca/stay-protected/severe-weather-centre/severe-weather-insurance-faqs",
    "title": "FAQ sur l'assurance habitation, automobile et entreprise (Centre d'information sur les phénomènes météorologiques extrêmes)",
-   "publisher": "Bureau d'assurance du Canada", "consulted": "2026-09-26",
-   "supports": "L'absence de responsabilité du propriétaire d'un arbre pour les dommages causés par une tempête de vent, et l'exception de la négligence illustrée par l'arbre pourri qu'on n'a pas coupé"}
+   "publisher": "Bureau d'assurance du Canada",
+   "consulted": "2026-09-26",
+   "supports": "L'absence de responsabilité du propriétaire d'un arbre pour les dommages causés par une tempête de vent, et l'exception de la négligence illustrée par l'arbre pourri qu'on n'a pas coupé"
+  }
  ],
  "claims_needing_review": [
   "Le numéro du Règlement relatif à la lutte contre l'agrile du frêne de la Ville de Montréal n'a pas pu être lu: la page de règlement de montreal.ca est une coquille JavaScript sans texte. Le règlement est cité par son titre exact tel que publié sur la page de la démarche, sans numéro.",

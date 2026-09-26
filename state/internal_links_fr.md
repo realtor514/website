@@ -44,6 +44,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Acheter un terrain au Québec : les vérifications](/articles/acheter-un-terrain-quebec-verifications/) : Zonage, CPTAQ, milieux humides, puits et fosse septique, servitudes, financement : les vérifications avan
 - [Acheter une construction neuve au Québec : ce que la brochure ne vous dit pas](/articles/new-construction-guide-quebec/) : Garantie GCR, dédit de 10 jours, inspection préréception, retards, TPS et TVQ, frais de condo : ce qu'il 
 - [Acheter une maison centenaire à Montréal: ce qui change](/articles/acheter-maison-centenaire-quebec/) : Fondation, charpente, bouton et tube, plomberie galvanisée, pare-vapeur, fenêtres: ce qui diffère vraimen
+- [Acheter une maison de campagne au Québec: ce qui change](/articles/acheter-maison-campagne-quebec/) (brouillon) : Zone agricole et CPTAQ, chemin privé, assurance, services: les vérifications avant d'acheter une maison d
 - [Acheter une maison en hiver au Québec: les angles morts](/articles/acheter-maison-hiver-montreal/) : Moins d'acheteurs en janvier, mais moins de choix aussi. Ce que l'hiver révèle d'une maison, ce que la ne
 - [Acheter une maison sans visiter au Québec](/articles/acheter-sans-visiter-visite-virtuelle-quebec/) : Visite virtuelle, inspection filmée, conditions de la promesse d'achat, procuration et signature à distan
 - [Acheter une maison seul au Québec: les vrais leviers](/articles/acheter-seul-un-revenu-quebec/) : Acheter une maison seul au Québec: ABD, ATD, test de résistance, mise de fonds par paliers, CELIAPP, RAP 
@@ -115,12 +116,14 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Crédit d'impôt et adaptation du domicile des aînés](/articles/adapter-maison-vieillir-chez-soi-quebec/) : Crédit d'impôt et adaptation du domicile des aînés au Québec: qui y a droit, combien, et le programme de 
 - [Déménager à Montréal ou à Laval : la liste complète, échéance par échéance](/articles/moving-checklist-montreal/) : Avis de bail, cession, changement d'adresse, Hydro-Québec, permis de camion, écocentres : la liste de dém
 - [Déneigement et responsabilité du propriétaire au Québec](/articles/deneigement-chute-glace-responsabilite-quebec/) : Articles 1457 et 1467, règles de Montréal et de Laval, amendes, assurance responsabilité civile et plex l
+- [Entretien maison hiver au Québec: ce que l'assureur exige](/articles/entretien-hivernal-maison-quebec/) (brouillon) : Entretien maison hiver au Québec: les sept jours d'absence, le chauffage minimal de 21 °C et de 22 °C, et
 - [Fissure de fondation au Québec: diagnostic et recours](/articles/fissures-affaissement-fondation-expertise-quebec/) : Fissure de fondation au Québec: argile, drainage, pyrite ou pyrrhotite, qui établit la cause, et quel rec
 - [Fonte des neiges et infiltration d'eau au sous-sol](/articles/fonte-neiges-infiltration-clapet-montreal/) : Fonte des neiges et infiltration d'eau au sous-sol à Montréal: pente, margelle, toit, gouttières, avenant
 - [Génératrice de maison au Québec: les règles](/articles/generatrice-panne-courant-assurance-quebec/) : Génératrice de maison au Québec: l'accord d'Hydro-Québec, l'interrupteur de transfert, la licence 16, le 
 - [Infestation maison Québec: vos recours réels](/articles/insectes-rongeurs-infestation-recours-quebec/) : Infestation d'une maison au Québec et recours: ce que la norme d'inspection exclut, le permis C5, la case
 - [Moisissure maison Québec: détecter, déclarer, agir](/articles/moisissure-maison-detection-recours-quebec/) : Moisissure dans une maison au Québec: pourquoi aucun seuil n'existe, l'échelle de la SCHL, la case D7.3 d
 - [Permis cabanon, abri d'auto et garage au Québec](/articles/cabanon-abri-auto-garage-permis-quebec/) : Permis cabanon au Québec : le seuil de 18 m² à Laval, de 15 m² à Montréal, les marges, l'abri d'hiver, le
+- [Permis d'abattage d'arbre à Montréal : la démarche](/articles/permis-abattage-arbres-quebec/) (brouillon) : Permis d'abattage d'arbre à Montréal et à Laval : motifs acceptés, documents, délais, tarifs par arrondis
 - [Permis de rénovation à Montréal et Laval: l'hiver](/articles/renover-hiver-permis-montreal-laval/) : Béton, toiture, intérieur: ce que le froid bloque vraiment, et pourquoi un permis de rénovation à Montréa
 - [Première rencontre courtier immobilier: les documents](/articles/preparer-rencontre-courtier-documents/) : Certificat de localisation, acte de vente, comptes de taxes, baux: les documents à réunir avant la premiè
 - [Rabais d'assurance et système d'alarme au Québec](/articles/systeme-alarme-domotique-assurance-quebec/) : Rabais d'assurance et système d'alarme au Québec: pourquoi aucun pourcentage n'est publié, ce que l'assur
@@ -138,6 +141,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Immobilier 101
 - [5 questions à poser avant d'engager un courtier immobilier](/articles/questions-hire-broker/) : La plupart des gens choisissent un courtier sur une recommandation ou une pancarte. Voici les cinq questi
 - [Animaux interdits en condo au Québec: où est la règle](/articles/animaux-copropriete-declaration-quebec/) : Animaux interdits en condo au Québec: où vit la clause, ce qui la rend valide, le cas de l'animal d'assis
+- [Augmentation des frais de condo au Québec: qui décide](/articles/hausse-frais-de-condo-quebec/) (brouillon) : Augmentation des frais de condo au Québec: pourquoi la loi 16 la programme, qui la décide vraiment, et le
 - [Bannière immobilière au Québec : ce qu'elle change dans votre dossier, et ce qu'elle ne change pas](/articles/why-choose-remax/) : Permis, fonds d'indemnisation, formulaires obligatoires : ce qui est identique chez tous les courtiers du
 - [Comparer deux quartiers de Montréal : la méthode, pas le palmarès](/articles/best-neighborhoods-montreal/) : Taxes par arrondissement, droits de mutation, zonage, écoles, plomb, sols : les critères vérifiables pour
 - [Conjoints de fait et maison au Québec : ce qui vous protège](/articles/conjoints-de-fait-maison-quebec/) : Patrimoine familial, union parentale depuis le 30 juin 2025, titre, indivision, décès : ce qui protège vr
@@ -150,6 +154,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [La commission immobilière au Québec : ce que vous payez vraiment](/articles/commission-explained-quebec/) : Aucun taux n'est fixé par la loi au Québec. Voici qui paie la commission, comment elle se partage, les ta
 - [Langue et transaction immobilière au Québec : ce que la loi exige](/articles/multilingual-broker-advantage/) : Formulaires de l'OACIQ, article 55.1 de la Charte, acte notarié, registre foncier, documents du prêteur :
 - [Le notaire au Québec : ce que tout acheteur doit savoir, étape par étape](/articles/quebec-notary-process/) : Pourquoi le notaire est obligatoire, qui le choisit et le paie, chaque étape jusqu'aux clés, les répartit
+- [Maison passive au Québec: le coût et la norme exacte](/articles/maison-passive-novoclimat-quebec/) (brouillon) : Maison passive au Québec: la norme à 15 kWh/m², l'étanchéité à 0,6, le seul surcoût chiffré par Québec, e
 - [Quand une transaction déraille au Québec : sept échecs qui reviennent, et la règle qui les évite](/articles/worst-real-estate-deal-lessons/) : Hypothèque légale, dossier de copropriété, certificat de localisation, inspection, financement, vices cac
 - [Rénover son condo en copropriété au Québec: la vraie limite](/articles/renovation-condo-copropriete-quebec/) : Plancher, fenêtre, balcon, mur porteur: ce qu’un copropriétaire peut rénover dans son condo au Québec, et
 - [Séparation, divorce et maison au Québec : ce que vous devez savoir](/articles/divorce-real-estate-guide/) : Patrimoine familial, union parentale, rachat, vente ou copropriété : ce qui arrive à la maison quand un c
@@ -172,6 +177,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Plex à revenus à Montréal et Laval : le guide honnête pour débutants](/articles/income-property-beginners/) : Occuper ou louer, mise de fonds, vrai calcul du flux de trésorerie, règles du TAL en 2026, achat avec loc
 - [Propriétaire occupant d'un plex au Québec : la reprise](/articles/proprietaire-occupant-plex-reprise/) : Propriétaire occupant d'un plex au Québec : qui peut reprendre un logement, les délais d'avis, l'indemnit
 - [Valeur du terrain et zonage au Québec : lire le rôle](/articles/valeur-terrain-zonage-quebec/) : Le rôle sépare déjà terrain et bâtiment. Ce que ce ratio dit, ce que le zonage autorise, droits acquis, s
+- [Vente pour taxes municipales au Québec: la procédure](/articles/maisons-abandonnees-ventes-pour-taxes/) (brouillon) : Vente pour taxes municipales au Québec: qui vend, ce qui se paie sur place, le droit de retrait d’un an e
 
 ## Pages outils et conversion
 
