@@ -152,9 +152,13 @@ redacteurs eux-memes. Les deux points a retenir:
 ## 6. Les regles inviolables du projet
 
 1. **Zero tiret long**, em dash, en dash ou double tiret, dans tout ce qui est
-   produit, front matter et tableaux compris. `CLAUDE.md` regle 1. Seule
-   exception constatee: une URL officielle qui en contient un, gardee telle
-   quelle dans le JSON de meta et jamais dans le texte de l article.
+   produit, front matter et tableaux compris. `CLAUDE.md` regle 1. La regle vise
+   la typographie: un tiret long qui remplace une virgule, un deux-points ou un
+   point. Deux litteraux y echappent, parce qu ils ne s ecrivent pas autrement:
+   une URL officielle qui contient un double tiret, gardee telle quelle dans le
+   JSON de meta et jamais dans le texte de l article, et une option de ligne de
+   commande comme `--check` ou `--slugs` dans la documentation interne. Aucun des
+   deux n apparait dans un article publie.
 2. **Les 4 langues, toujours.** `CLAUDE.md` regle 2. Un article ne vit pas dans
    une langue seule, et une correction se fait dans les quatre.
 3. **Georges sert en francais, anglais et arabe.** Jamais de promesse de service
