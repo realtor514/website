@@ -7238,7 +7238,9 @@
      "s": 0.107,
      "match": "/articles/banlieue-ou-ville-cout-reel-montreal/"
     }
-   }
+   },
+   "distinct_de": "/articles/minimaison-microhabitation-zonage-quebec/",
+   "note_recentrage": "L article sur la minimaison, publie le 2026-09-14, couvre deja le statut juridique du batiment sur roues contre sur fondation (CcQ 900, 903, 2663, 2969, 2970), le RDPRM contre le registre foncier, la charnière de financement SCHL Prefab Plus, et le bail obligatoire du TAL propre au terrain de maison mobile (CcQ 1892, 1996, 1998, 2000). Recentrez t149 sur ce qui reste: les hausses de loyer de terrain et leur fixation au TAL, l evaluation municipale d une maison mobile, l ancrage et la conformite, et la revente dans un parc."
   },
   {
    "ref_id": 894,
@@ -9027,8 +9029,10 @@
     "Revente et valeur a long terme"
    ],
    "slug": "minimaison-microhabitation-zonage-quebec",
-   "status": "in_progress",
-   "distinct_de": "/articles/acheter-un-terrain-quebec-verifications/"
+   "status": "written_draft",
+   "distinct_de": "/articles/acheter-un-terrain-quebec-verifications/",
+   "published_path": "content/fr/articles/minimaison-microhabitation-zonage-quebec.md",
+   "date": "2026-09-26"
   },
   {
    "id": "t229",
