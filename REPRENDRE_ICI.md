@@ -1,286 +1,214 @@
-# REPRENDRE ICI
+# Reprendre ici
 
-Fiche de reprise du moteur de contenu du blogue. Ecrite le 2026-09-25 pour
-qu une session neuve puisse continuer sans rien redecouvrir. Lire ce fichier en
-entier avant d agir.
+Etat au **2026-09-26**. Ce fichier existe pour qu une session puisse continuer le
+moteur de contenu du blogue sans rien redecouvrir. Il remplace la version du
+2026-09-25, ecrite quand le site comptait 121 articles par langue.
 
----
+Repertoire du projet:
+`C:\Users\georg\OneDrive\A_personal\career\ciq25\ciqq\remax du cartier\website`
 
-## 1. Ou en est le travail
-
-**58 articles ecrits, traduits en 4 langues et EN LIGNE.** Le site est passe de
-**63 a 121 articles par langue**, soit 484 fichiers publies au lieu de 252.
-
-- Depot: `realtor514/website`, branche de travail `auto/blogue-content`, fusionnee
-  et poussee dans `main`. Le site se deploie par GitHub Actions a chaque push sur
-  `main`, en environ 30 secondes.
-- Repertoire du projet:
-  `C:\Users\georg\OneDrive\A_personal\career\ciq25\ciqq\remax du cartier\website`
-- `hugo` n est PAS installe sur ce poste. `tools/validate.py` remplace le build.
-
-Etat chiffre a tout moment:
-
-```
-python tools/status.py --nouveaux
-```
+`hugo` n est PAS installe sur ce poste. `tools/validate.py` remplace le build.
 
 ---
 
-## 2. La chose a faire en premier
-
-**Cinq articles francais sont ecrits, passent les six portes, ont leur image, et
-attendent uniquement leurs traductions en, es et ar.** Leurs traducteurs ont ete
-coupes par la limite de session du 2026-09-24.
-
-| slug francais | translationKey | date | categorie | needs_expert_review |
-|---|---|---|---|---|
-| `acheter-pour-demolir-permis-quebec` | `article-demolition-reconstruction` | 2026-08-29 | Investissement | oui |
-| `renover-hiver-permis-montreal-laval` | `article-renovation-hiver-permis` | 2026-09-13 | Guide pratique | oui |
-| `cle-en-main-ou-a-renover-quebec` | `article-turnkey-vs-fixer` | 2026-09-24 | Guide de l'acheteur | oui |
-| `vrai-cout-piscine-residentielle-quebec` | `article-pool-true-cost` | 2026-09-24 | Guide pratique | oui |
-| `troubles-de-voisinage-quebec` | `article-neighbour-disputes` | 2026-09-25 | Guide pratique | oui |
-
-Pour chacun, lancer UN agent de traduction (voir la consigne type en section 5),
-puis:
+## 1. Ou en est le site
 
 ```
-python tools/release.py --check     # montre ce qui est publiable
-python tools/release.py             # valide, aligne lastmod, publie, refait les cartes
-git add -A content/ state/ && git commit && git push origin main
+En ligne dans les 4 langues    146 par langue    584 fichiers
+Brouillon francais en attente    1  (minimaison, a traduire)
+Articles marques a revoir       72 sur 147
 ```
 
-Trois de ces cinq ont perdu leur journal de sources a la coupure. Leurs fichiers
-`meta/fr/*.json` le disent explicitement au lieu de faire semblant. Ne pas
-inventer de journal.
+Branche de travail: `main`. Le deploiement part de `main` par GitHub Actions
+(Hugo 0.155.0), environ 30 secondes. Depot `realtor514/website`.
 
----
+Etat chiffre a tout moment: `python tools/status.py`
 
-## 3. La boucle de production, une fois par article
-
-1. **Choisir un sujet** dans `state/content_plan.json` avec `status: clear`.
-   Les plus utiles d abord, voir section 7.
-2. **Reclamer** le sujet, ce qui fait passer la porte 2:
-   `python tools/plan_gate.py claim t123`
-3. **Lancer un agent redacteur.** Consigne type en section 4.
-4. **Attendre que l agent signale sa fin.** Ne jamais publier avant: un agent
-   qui peaufine encore reecrit son fichier, et on publie alors un instantane.
-   Le signe fiable est la presence de `meta/fr/<slug>.json`.
-5. **Passer les portes puis copier dans `content/`:**
-   ```
-   python tools/publish.py check --slugs <slug>
-   python tools/publish.py run --slugs <slug>
-   mv drafts/fr/<slug>.md drafts/fr/publies/<slug>.md
-   ```
-6. **Telecharger l image:** `python tools/fetch_images.py`
-7. **Lancer un agent de traduction.** Consigne type en section 5.
-8. **Publier:** `python tools/release.py`, puis commit et push.
-
-Un agent bloque ou tue se nettoie avec
-`python tools/plan_gate.py release t123`, qui libere le claim, le slug, le
-mot-cle ET le titre. Oublier les deux derniers fait que le sujet se bloque
-contre lui-meme a la tentative suivante.
-
----
-
-## 4. Consigne type pour un agent redacteur
-
-Un agent, un article. Garder la consigne courte: le detail vit dans les fichiers.
+Le plan de contenu, `state/content_plan.json`, compte 211 lignes:
 
 ```
-Write ONE original French article for a Quebec real estate broker's Hugo blog.
-
-Working directory: C:\Users\georg\OneDrive\A_personal\career\ciq25\ciqq\remax du cartier\website
-
-READ FIRST: state\BRIEF.md, state\internal_links_fr.md (use ONLY those paths,
-never link an article marked (brouillon); city pages are
-/courtier-immobilier/<ville>/), and the object with "id":"tXX" in
-state\content_plan.json (its unique_angle, planned_h2, slug, translationKey,
-category and target_keyword_fr are the assignment). Read <1 or 2 published
-articles that are adjacent> and link to them rather than repeating them.
-
-date and lastmod: <aujourd hui>. Add needs_expert_review: true just before
-draft: true  [seulement si juridique, fiscal, assurance ou hypothecaire]
-
-FORBIDDEN: rovenapistoli.com or any competing broker blog. Sources: <lister les
-sources primaires attendues>. Verify with WebSearch/WebFetch, curl via Bash if a
-site blocks.
-
-<3 a 6 lignes sur l angle exact, ce qu il faut couvrir, et ce qu il ne faut pas
-repeter d un article voisin>
-
-Never state a figure you have not sourced. Never promise a price or a delay.
-
-DELIVERABLES per BRIEF.md section 10: drafts\fr\<slug>.md and
-meta\fr\<slug>.json (5+ sources, each really opened).
-1200 to 1800 words. ZERO em dashes, en dashes or double hyphens.
-
-Return only: the two paths, the word count, 3 lines on your angle.
+clear            93   a ecrire
+written_draft    84   ecrits et publies
+already_covered  24   refuses par la porte 1, avec covered_by
+parked            5   a trancher par Georges
+in_progress       5   reclames dans le registre, en cours
 ```
 
----
+## 2. La boucle de production, en huit etapes
 
-## 5. Consigne type pour un agent de traduction
+1. `python tools/plan_gate.py gate1` reannote le plan contre le contenu reel.
+   A refaire apres chaque vague: un sujet `clear` peut devenir `already_covered`
+   parce qu on vient d ecrire son voisin.
+2. `python tools/plan_gate.py claim t01 t02 ...` reclame les sujets de la vague.
+3. Lancer un agent redacteur par sujet. Le prompt tient en dix lignes: il pointe
+   vers `state/CONSIGNE_REDACTEUR.md`, donne l `id`, le slug et la date, puis
+   ajoute les notes propres au sujet. **Ne repetez pas la consigne commune dans
+   le prompt**, elle est dans le fichier.
+4. Quand un redacteur a rendu son rapport, et seulement alors,
+   `python tools/publish.py run --slugs <slug> ...` copie de `drafts/fr/` vers
+   `content/fr/articles/`, en `draft: true`.
+5. `python tools/trad_spec.py <slug> ...` genere la fiche de faits. La coller
+   dans `state/TRAD_LOT<n>.md`, puis **ajouter a la main ce que le script ne sait
+   pas**: le coeur de l article, ce qu il ne faut pas aplatir, les slugs cibles
+   par langue, et les references de voix.
+6. Verifier que chaque slug cible est libre, avec un script, avant de lancer:
+   `os.path.exists('content/<lang>/articles/<slug>.md')`. Voir le piege 3.
+7. Lancer trois traducteurs, un par langue.
+8. `python tools/release.py --check` puis sans `--check`. Il ne publie qu un
+   groupe complet dans les 4 langues et valide les 4 fichiers avant de basculer
+   `draft: false`. Puis `python tools/fetch_images.py`, `git commit`, `git push`.
 
-```
-Localize ONE French article into English, Spanish and Arabic.
-
-Working directory: C:\Users\georg\OneDrive\A_personal\career\ciq25\ciqq\remax du cartier\website
-
-Read in full: state\BRIEF_TRADUCTION.md (the French article is the ONLY source of
-truth: if anything I name below is absent from it, flag it and do not add it),
-then the general rules at the top of state\TRAD_LOT6.md.
-
-Source: content\fr\articles\<slug>.md
-Link maps: state\internal_links_en.md, state\internal_links_es.md, state\internal_links_ar.md
-Voice: content\en\articles\<un article proche>.md and its es and ar counterparts.
-
-WRITE EXACTLY THREE FILES:
-- content\en\articles\<slug-en>.md
-- content\es\articles\<slug-es>.md
-- content\ar\articles\<slug-ar, reprend le slug anglais>.md
-
-FRONT MATTER, copying the French schema and field order:
-- translationKey: "<cle>" identical in all three
-- date and lastmod: <date du francais> in all three
-- category: en "<...>", es "<...>", ar "<...>"     [table de conversion dans BRIEF_TRADUCTION.md]
-- image: unchanged from the French
-- needs_expert_review copie du francais, jamais ajoute
-- draft: true
-
-PRESERVE EXACTLY: <lister les numeros d articles de loi, les chiffres, les dates,
-les refus de chiffrer, et tout ce qui porte l article>
-
-Return only: the three paths and each word count.
-```
-
-Verifier d abord que les slugs cibles sont libres:
-`ls content/*/articles/<slug>.md`
-
----
-
-## 6. Les outils, et ce que chacun fait
+## 3. Les outils, et ce que chacun resout
 
 | Outil | Role |
 |---|---|
-| `tools/dedupe.py` | index des articles et six controles de doublon. `selftest` doit passer. |
-| `tools/validate.py` | remplace le build Hugo. Front matter, dates, categories par langue, longueur, liens resolus, CTA par langue, et refus d un lien vers un article en draft. |
-| `tools/plan_gate.py` | `gate1` classe les sujets, `claim` reserve, `release` libere completement. |
-| `tools/publish.py` | porte 4 puis copie vers `content/`, avec repartition des dates sur le dernier mois. `--slugs` cible des articles nommes. |
-| `tools/fetch_images.py` | telecharge l image a la une manquante depuis Unsplash. Lit le champ `image` de chaque article, ne se fie a aucune liste. |
-| `tools/linkmap.py` | refait les 4 cartes de liens depuis le contenu reel. A relancer apres chaque lot. |
-| `tools/release.py` | publie d un coup tout article complet dans les 4 langues, apres validation. |
-| `tools/status.py` | l etat du blogue en une commande. |
-| `tools/approve.py` | **pour Georges seulement.** Ne jamais le lancer soi-meme sauf pour publier un lot verifie. |
+| `tools/dedupe.py check <fichier>` | six portes anti-doublon. **Sous-commande `check`, pas `--check`**: avec `--check` il affiche l aide et sort en 0, ce qui ressemble a un succes |
+| `tools/validate.py <fichiers>` | remplace `hugo build`, qui n est pas installe ici |
+| `tools/publish.py run --slugs ...` | copie vers `content/`, repartit les dates |
+| `tools/release.py` | publie tout groupe complet dans les 4 langues |
+| `tools/linkmap.py` | refait les 4 cartes de liens depuis le contenu reel |
+| `tools/trad_spec.py <slug>` | fiche de faits, chaque fait dans sa phrase |
+| `tools/ccq.py <numeros>` | lit le Code civil quand LegisQuebec est hors service |
+| `tools/fetch_images.py` | telecharge les images a la une manquantes |
+| `tools/status.py` | etat du corpus |
+| `tools/approve.py` | **pour Georges seulement**, bascule draft a false a la main |
 
----
+## 4. Les pieges, tous rencontres pour de vrai
 
-## 7. Le reservoir de sujets
+**1. Ne publiez jamais depuis un instantane en vol.** Attendez le rapport de
+l agent. Sept articles ont ete publies un jour depuis des fichiers que les
+redacteurs etaient encore en train de resserrer.
 
-`state/content_plan.json`: **107 sujets en `status: clear`**, chacun avec son
-angle quebecois et son plan de sections. Ils viennent des 619 articles releves
-sur rovenapistoli.com, tries et reancres sur le Quebec.
+**2. Un lien vers un article encore en draft est un 404 en production.** Hugo ne
+rend pas les brouillons. Le validateur refuse ce cas depuis.
 
-Les plus utiles en tete de file:
+**3. Un slug cible peut deja etre pris par un AUTRE article.** Au lot 8, le slug
+que j avais donne pour l article sur les deductions pointait sur la traduction
+anglaise et arabe d un article publie. Les trois traducteurs l ont vu et ont
+change de slug d eux-memes. Verifiez avant, et dites aux traducteurs de verifier
+aussi: c est la derniere barriere.
 
-```
-t146  acheter-sans-mise-de-fonds-quebec          Financement
-t147  bruit-copropriete-recours-montreal         Guide pratique
-t148  louer-son-condo-syndicat-tal               Investissement
-t151  renouvellement-hypotheque-choc-paiement    Financement
-t154  hypotheque-legale-quebec-vente             Immobilier 101
-t163  regle-anti-flip-365-jours-quebec           Investissement
-t165  aider-son-enfant-acheter-quebec            Financement
-t168  empietement-servitude-certificat-localisation  Immobilier 101
-```
+**4. Mes listes de faits a preserver se trompent, systematiquement.** Sur les
+lots 7 a 10, les traducteurs ont trouve une quinzaine d erreurs, toujours la meme
+classe: **une liste plate perd le rattachement.** Un article du reglement de
+Laval attribue a Montreal, un montant qui passe d une ville a l autre, un numero
+venu d un autre article. C est pour ca que `tools/trad_spec.py` existe: il montre
+chaque fait dans sa phrase. **Utilisez-le, n ecrivez plus de listes plates.**
 
-Liste complete, triee par etape d entonnoir:
+**5. Dites aux traducteurs que le fichier francais tranche.** A chaque lot, au
+moins un traducteur a eu raison contre ma consigne. Cette phrase doit rester dans
+chaque prompt.
 
-```
-python -c "import json;p=json.load(open('state/content_plan.json',encoding='utf-8'));rows=[r for r in p['topics'] if r['status']=='clear'];print(len(rows));[print(r['id'],r['slug'],r['category']) for r in rows]"
-```
+**6. Les agents calent.** Le watchdog tue un agent apres 600 secondes sans
+progres, et c est arrive quatre fois hier, trois fois aujourd hui. **Le travail
+n est pas perdu:** verifiez `drafts/fr/` et `meta/fr/` sur le disque, puis lancez
+un agent finisseur en lui decrivant l etat exact. Un cas merite attention: si le
+`.md` existe mais pas le `.json`, le releve de sources est perdu et **ne se
+reconstruit pas depuis le texte**. Le finisseur doit rouvrir chaque source et
+retirer de l article ce qu il ne retrouve pas.
 
----
+**7. Entre 8 et 13 agents en parallele.** Au-dela, les calages se multiplient.
 
-## 8. Ce qui a deja mordu, a ne pas refaire
+**8. Une reserve consignee sans drapeau est invisible.** `validate.py` refuse
+desormais un article dont le JSON a des `claims_needing_review` sans
+`needs_expert_review: true` dans le front matter. Le controle a trouve 12
+articles dans ce cas, dont 11 deja publies.
 
-Ces erreurs ont toutes ete commises une fois. Elles sont corrigees dans les
-outils, mais le piege reste comprehensible.
+**9. Mes fiches de plan contiennent des erreurs de fait.** Les redacteurs en ont
+corrige une trentaine: une section de formulaire qui n existe pas, un programme
+ferme presente comme ouvert, une norme niee qui existe, une ville creditee d un
+reglement qui appartient a une autre, un article a lier qui n avait jamais ete
+ecrit. **Laissez-leur le droit d ecrire l inverse de la fiche**, et demandez-leur
+de le signaler dans leur rapport.
 
-1. **Les 25 images manquaient.** Chaque article declare
-   `image: images/articles/<slug>/featured.jpg`, et le gabarit fait
-   `{{ with .Params.image }}`: un champ rempli pointant vers un fichier absent
-   emet une balise `img` cassee, et le placeholder ne prend jamais le relais.
-   Toujours lancer `fetch_images.py` avant de publier.
-2. **`/secteurs/laval/` n existe pas.** Les pages de ville declarent leur propre
-   `url:` et vivent sous `/courtier-immobilier/laval/`. Ne jamais deviner un
-   chemin: prendre `state/internal_links_fr.md`, refait par `linkmap.py`.
-3. **Le site localise plus qu on ne croit.** La categorie est traduite, et le
-   formulaire a un slug par langue: `/formulaire/`, `/en/form/`,
-   `/es/formulario/`, `/ar/istimara/`. Tables de conversion dans
-   `BRIEF_TRADUCTION.md`.
-4. **Un lien vers un article en draft est un lien mort.** Hugo ne rend pas les
-   brouillons. Le validateur le refuse desormais.
-5. **Ne pas publier un brouillon avant que son agent ait signale sa fin.** Sept
-   articles ont ete publies depuis un instantane. A chaque fois j ai compare les
-   deux versions terme a terme avant de trancher; les versions courtes sont dans
-   `drafts/fr/variantes/`.
-6. **Ne jamais mettre dans une consigne de traduction un detail pris dans le
-   resume d un redacteur.** C est arrive quatre fois: un decret, une enquete
-   datee, un alinea, un terme. Les traducteurs ont refuse d inventer et l ont
-   signale. La seule source de verite est l article francais.
-7. **`release` doit liberer le mot-cle et le titre**, pas seulement le claim et
-   le slug, sinon le sujet se bloque contre lui-meme.
-8. **Georges a retire la promesse de service en espagnol le 2026-09-25.** Le site
-   existe en espagnol, mais on ne promet que francais, anglais et arabe. Le brief
-   est corrige.
+**10. Un outil peut halluciner une source.** Un redacteur a recu le resume
+fabrique d une decision du Tribunal administratif du logement, montants
+attribues a la mauvaise affaire. Il a relu la page brute, constate la
+fabrication, et l a remplacee par deux decisions verifiees mot a mot. C est
+pourquoi la consigne exige d ouvrir la source, pas de la resumer de seconde main.
 
-Et quatre fois, un redacteur a corrige une de mes consignes fausses: l echeance
-des piscines n est pas passee (30 septembre 2027), la responsabilite de l egout
-a Montreal va jusqu a l egout sous la rue, la retribution apres expiration est
-de 180 jours, et un conjoint en union parentale EST heritier legal.
+**11. `publish.py` repartit les dates et ecrase celle du redacteur.** Un article
+qui cite des statistiques diffusees le 4 septembre s est retrouve date du
+26 aout. Verifiez apres publication qu aucun article ne cite une donnee
+posterieure a sa propre date.
 
----
+## 5. L etat des sites officiels
 
-## 9. Limites rencontrees
+Tout est dans `state/CONSIGNE_REDACTEUR.md`, section 4, tenu a jour par les
+redacteurs eux-memes. Les deux points a retenir:
 
-- **Limite d usage de session**, trois fois: 17 h, 22 h, puis en soiree, avec
-  reset annonce a 16 h heure de Toronto. Elle tue tous les agents en cours d un
-  coup. Les fichiers deja ecrits survivent.
-- **Watchdog**: quatre agents se sont bloques sans rien produire. Meme reponse,
-  `plan_gate.py release` puis relancer.
-- **Concurrence**: 8 a 13 agents en parallele fonctionne. Au-dela, les blocages
-  augmentent.
-- **Sites qui bloquent la lecture**: LegisQuebec, OACIQ, Revenu Quebec, la
-  Chambre des notaires et Hydro-Quebec renvoient souvent 403 a WebFetch. Les
-  agents doivent passer par `curl` via Bash. C est dit dans les consignes.
-- **La cle `PEXELS_API_KEY` de `.env` est expiree.** Unsplash fournit tout.
+- **LegisQuebec repond 502 depuis le 25 septembre**, et ce n est pas un blocage
+  anti-robot: avec un agent de navigateur le WAF laisse passer et l origine
+  tombe. CanLII repond 403, `ccq.lexum.com` est une coquille JavaScript.
+  **La route qui marche est `tools/ccq.py`**, une capture datee de
+  web.archive.org. Deux pieges dedans, documentes dans le fichier: le suffixe
+  `id_` apres l horodatage, et `curl --compressed`, sans quoi on recupere du
+  binaire gzippe qui ressemble a une page vide.
+- **hydroquebec.com est geo-bloque hors Quebec** derriere une page qui repond
+  **200**. Un code 200 ne prouve donc rien: verifiez le titre de la page.
+  J ai annonce a Georges que le site etait revenu sur la foi de ce 200, et
+  c etait faux. Un agent l a corrige.
 
----
-
-## 10. Ce qui attend une decision de Georges
-
-`NEEDS_HUMAN.md` tient la liste a jour. Les deux points ouverts:
-
-1. **45 articles portent `needs_expert_review: true`** et sont en ligne, parce
-   que Georges a demande de tout publier. Chacun dit lui-meme ou s arrete ce
-   qu il peut demontrer. Les points precis a revalider sont dans chaque
-   `meta/fr/<slug>.json`, champ `claims_needing_review`.
-2. **Un lien a remettre** si l article sur les conjoints de fait sert de
-   reference: voir `NEEDS_HUMAN.md` section 5.
-
-Rien d autre ne bloque la production.
-
----
-
-## 11. Regles du projet a ne jamais enfreindre
-
-Elles viennent de `CLAUDE.md` a la racine, qui prime sur tout le reste.
+## 6. Les regles inviolables du projet
 
 1. **Zero tiret long**, em dash, en dash ou double tiret, dans tout ce qui est
-   produit, front matter compris.
-2. **Les 4 langues.** Aucun article ne passe en ligne avant que ses versions fr,
-   en, es et ar existent. `approve.py` refuse de publier un article francais seul.
-3. **Ne jamais modifier ni supprimer un fichier existant du site.** Uniquement
-   des ajouts. Une exception a ete faite une fois, sur accord explicite de
-   Georges, pour corriger une faute factuelle dans un de MES articles.
-4. Jamais de commit sur `main` sans que le contenu soit valide, ni de push force.
+   produit, front matter et tableaux compris. `CLAUDE.md` regle 1. Seule
+   exception constatee: une URL officielle qui en contient un, gardee telle
+   quelle dans le JSON de meta et jamais dans le texte de l article.
+2. **Les 4 langues, toujours.** `CLAUDE.md` regle 2. Un article ne vit pas dans
+   une langue seule, et une correction se fait dans les quatre.
+3. **Georges sert en francais, anglais et arabe.** Jamais de promesse de service
+   en espagnol, meme si le site existe en espagnol.
+4. **Rien d invente.** Pas de source, pas d affirmation. Un article qui dit
+   « aucune source officielle ne chiffre ceci » est meilleur qu un article qui
+   invente le chiffre: c est la voix du site.
+5. **Ne touchez jamais aux articles que Georges a ecrits lui-meme.** Le moteur
+   n ecrit que dans `drafts/`, `meta/`, et les fichiers qu il a crees.
+6. `/secteurs/...` n existe pas. Les pages de ville vivent sous
+   `/courtier-immobilier/laval/` et declarent leur propre `url:`.
+
+## 7. Ce qui attend Georges
+
+**72 articles sur 147 portent au moins une affirmation a faire confirmer.** La
+liste exacte est dans `meta/fr/<slug>.json`, champ `claims_needing_review`. Ce
+n est pas de la prudence decorative: c est la trace de ce que les redacteurs
+n ont pas pu verifier a la source.
+
+Deux verifications que lui seul peut faire vite, parce qu il est au Quebec:
+
+- les tarifs et les montants LogisVert d Hydro-Quebec, dans
+  `particularites-maison-quebecoise` et `renovations-resilience-climat-quebec`.
+  Ils viennent de captures d archive, le site etant geo-bloque. Les tarifs sont
+  bons jusqu au 1er avril 2027, les montants LogisVert datent du
+  6 septembre 2026.
+- le volet maisons lezardees du programme Renovation Quebec a Laval, dans
+  `fissures-affaissement-fondation-expertise-quebec`. La derniere edition
+  verifiable fermait le 21 mars 2025 et pourrait avoir rouvert.
+
+Les decisions parkees sont dans `NEEDS_HUMAN.md`, avec les 5 lignes `parked` du
+plan.
+
+## 8. La question de fond, deja repondue une fois
+
+Georges a demande pourquoi il avait 121 articles quand le site de reference en
+comptait 619. Le compte honnete, verifie:
+
+```
+Catalogue de reference recolte    619
+Retenus par les planificateurs    158
+Repeches au second tri             18  (sur 461 ecartes: 38 candidats, 20 deja couverts)
+Ecartes comme remplissage         443  (deco, jardinage, voyage, idees-cadeaux)
+------------------------------------------------------
+Plafond reel de ce catalogue      environ 245 articles francais
+```
+
+J ai surestime ce plafond deux fois de suite avant de faire le tri reel: d abord
+« 100 a 150 repechables », puis « 330 a 380 au total ». Le tri a tranche a 18 et
+245. Si la question revient, donnez ces chiffres-la.
+
+Pour depasser 245, il faut une autre source de sujets que le site de reference:
+les questions reellement tapees par ses clients, la Search Console du site, ou
+les echeances reglementaires de 2027 et 2028 que personne n a encore ecrites
+(carnet d entretien et etude du fonds de prevoyance au 15 aout 2028, certificat
+RBQ d inspecteur au 1er octobre 2027, conformite des piscines au
+30 septembre 2027).
