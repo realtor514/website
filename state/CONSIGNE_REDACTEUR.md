@@ -58,11 +58,13 @@ avec un agent de navigateur:
 curl -sL --max-time 30 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36" "<url>" | head -c 6000
 ```
 
-Etat observe le 25 septembre 2026, a reverifier vous-meme:
+Etat observe les 25 et 26 septembre 2026, **a reverifier vous-meme**: ces
+sites changent d un jour a l autre, et deux entrees de ce tableau ont deja ete
+inversees par une reverification.
 
 | Site | Comportement | Ce qui marche |
 |---|---|---|
-| legisquebec.gouv.qc.ca | 502 du serveur d origine | rien; utilisez Educaloi et l OACIQ, et dites d ou vient la regle |
+| legisquebec.gouv.qc.ca | **revenu le 26 septembre**, repond 200 et sert le texte integral. Etait en 502 le 25. | lisez-le en direct; `tools/ccq.py` bascule tout seul sur l archive s il retombe |
 | hydroquebec.com | **geo-bloque**. Repond 200, mais tout acces hors Quebec est redirige vers une page « Indisponibilite du site Web d Hydro-Quebec a partir de l etranger ». Un code 200 ne veut donc pas dire que vous lisez la bonne page: verifiez le titre. | les captures web.archive.org des pages officielles |
 | revenuquebec.ca | 403 a WebFetch et a curl | le recueil des depenses fiscales sur budget.finances.gouv.qc.ca |
 | quebec.ca | verification humaine puis 405 | les PDF sur cdn-contenu.quebec.ca, et les sites des ministeres directement |
@@ -76,8 +78,9 @@ Etat observe le 25 septembre 2026, a reverifier vous-meme:
 
 ### Le Code civil du Quebec: utilisez `tools/ccq.py`
 
-LegisQuebec est hors service, mais le Code civil reste lisible par une capture
-datee de web.archive.org de la page officielle. L outil fait le travail:
+L outil lit `legisquebec.gouv.qc.ca` en direct quand il repond, et bascule tout
+seul sur une capture datee de web.archive.org quand il tombe. Il annonce a
+chaque appel laquelle des deux routes il a prise:
 
 ```
 python tools/ccq.py 1726 1739 2925          affiche ces articles en entier
@@ -87,16 +90,26 @@ python tools/ccq.py --chercher "vice cache" cherche dans les 3 523 articles
 Les 3 523 articles sont en cache local apres le premier appel. Vous pouvez donc
 citer un numero d article du Code civil **en ayant reellement lu son texte**.
 
-Dans le JSON de meta, citez l URL canonique de LegisQuebec
-(`https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991`) et dites dans
-`supports` que vous l avez lue par capture d archive, avec la date. Une archive
-de la page officielle reste la page officielle, mais le lecteur a le droit de
-savoir que le texte date de cette capture.
+Dans le JSON de meta, citez toujours l URL canonique de LegisQuebec
+(`https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991`). Si l outil a
+annonce une lecture par archive, dites-le dans `supports` avec la date de la
+capture: une archive de la page officielle reste la page officielle, mais le
+lecteur a le droit de savoir que le texte date de ce jour-la. S il a lu en
+direct, rien de special a declarer.
 
-**Cet outil ne couvre que le Code civil.** Les reglements (Q-2 r. 1.1, la Loi
-sur la fiscalite municipale, le Code de securite) vivent ailleurs sur
-LegisQuebec et restent inaccessibles. Pour eux, la regle ne change pas: pas de
-source, pas d affirmation.
+**Les autres lois sont lisibles aussi, maintenant que le site repond.** Un
+redacteur a lu en entier la Loi sur les cites et villes, le Code municipal,
+l annexe C de la Charte de Montreal, la Loi sur l amenagement et l urbanisme et
+la Loi sur les biens non reclames. Ne vous rabattez plus sur un resume quand le
+texte est accessible.
+
+**Un piege de lecture qui vaut pour tout montreal.ca.** Les pages de demarche
+appliquent leur parametre `?arrondissement=` **cote navigateur**. Deux
+arrondissements differents servent donc un texte identique a curl et a WebFetch.
+Un chiffre lu ainsi ne peut pas etre attribue a un arrondissement precis: dites
+qu il vient de la demarche generale, et renvoyez le lecteur au comptoir des
+permis. Une amende avait ete attribuee a tort a un arrondissement pour cette
+raison, dans les 4 langues.
 
 **Essayez plusieurs routes avant d abandonner une affirmation:** le PDF plutot
 que la page HTML, le site du ministere plutot que quebec.ca, une capture de

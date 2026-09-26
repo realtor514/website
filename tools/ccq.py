@@ -1,20 +1,27 @@
 #!/usr/bin/env python3
-"""Lit le Code civil du Quebec quand legisquebec.gouv.qc.ca est hors service.
+"""Lit le Code civil du Quebec, en direct ou par archive si le site tombe.
 
     python tools/ccq.py 1726 1739 2925      affiche ces articles
     python tools/ccq.py --chercher "vice cache"   cherche dans tout le code
     python tools/ccq.py --maj                 force le retelechargement
 
-Pourquoi ce fichier existe. Le 25 septembre 2026, legisquebec.gouv.qc.ca a
-repondu 502 pendant toute une journee de redaction. Quatre redacteurs ont
-retire des citations du Code civil plutot que de les ecrire de memoire, ce qui
-etait la bonne decision mais a laisse des articles plus faibles que la voix du
-site. CanLII repond 403, et ccq.lexum.com est une coquille JavaScript.
+L outil essaie d abord `legisquebec.gouv.qc.ca` et le dit. S il ne repond pas,
+il bascule sur une capture datee de web.archive.org de la meme page, le dit
+aussi, et vous rappelle de le declarer dans le `supports` du JSON de meta.
+Une archive de la page officielle reste la page officielle, mais le lecteur a
+le droit de savoir que le texte date de cette capture.
 
-La route qui marche est une capture datee de web.archive.org de la page
-officielle. Une archive de la page officielle reste la page officielle: citez
-l URL canonique de LegisQuebec, et dites dans le JOSN de meta que vous l avez
-lue par archive, avec la date de la capture.
+Pourquoi ce fichier existe. Le 25 septembre 2026, legisquebec.gouv.qc.ca a
+repondu 502 pendant toute une journee de redaction, et pas par blocage
+anti-robot: avec un agent de navigateur le WAF laisse passer et l origine
+tombe. Quatre redacteurs ont retire des citations du Code civil plutot que de
+les ecrire de memoire, ce qui etait la bonne decision mais a laisse des
+articles plus faibles que la voix du site. CanLII repond 403, et
+ccq.lexum.com est une coquille JavaScript sans texte.
+
+Le site est revenu le 26 septembre, et le texte lu en direct est identique a
+celui de la capture du 10 mars, ce qui valide la route de repli. L outil reste
+utile: la panne a dure une journee entiere et peut revenir.
 
 Deux pieges qui ont coute du temps:
   - l URL doit porter le suffixe `id_` apres l horodatage, sinon Wayback
@@ -44,14 +51,33 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/131.0 Safari/537.36")
 
 
-def telecharger():
-    req = urllib.request.Request(SOURCE, headers={
+def _lire(url):
+    req = urllib.request.Request(url, headers={
         "User-Agent": UA, "Accept-Encoding": "gzip"})
     with urllib.request.urlopen(req, timeout=180) as r:
         brut = r.read()
         if r.headers.get("Content-Encoding") == "gzip":
             brut = gzip.decompress(brut)
     return brut.decode("utf-8", errors="replace")
+
+
+def telecharger():
+    """Le site officiel d abord, l archive en repli.
+
+    LegisQuebec est tombe le 25 septembre 2026 et est revenu le 26. Tant qu il
+    repond, il faut le lire directement: le texte est a jour, alors qu une
+    capture est datee. On garde l archive parce que la panne a dure une journee
+    entiere et peut revenir.
+    """
+    try:
+        page = _lire(CANONIQUE)
+        if "vices cach" in page:
+            print("lu en direct sur legisquebec.gouv.qc.ca")
+            return page, CANONIQUE, None
+        print("legisquebec a repondu mais sans le texte attendu, repli sur l archive")
+    except Exception as e:
+        print("legisquebec injoignable (%s), repli sur l archive" % type(e).__name__)
+    return _lire(SOURCE), CANONIQUE, CAPTURE
 
 
 def decouper(page):
@@ -87,11 +113,14 @@ def decouper(page):
 
 def charger(maj=False):
     if CACHE.is_file() and not maj:
-        return json.loads(CACHE.read_text(encoding="utf-8"))
-    arts = decouper(telecharger())
+        d = json.loads(CACHE.read_text(encoding="utf-8"))
+        return d.get("articles", d), d.get("capture")
+    page, _, capture = telecharger()
+    arts = decouper(page)
     CACHE.parent.mkdir(parents=True, exist_ok=True)
-    CACHE.write_text(json.dumps(arts, ensure_ascii=False), encoding="utf-8")
-    return arts
+    CACHE.write_text(json.dumps({"articles": arts, "capture": capture},
+                                ensure_ascii=False), encoding="utf-8")
+    return arts, capture
 
 
 def main():
@@ -101,7 +130,7 @@ def main():
     maj = "--maj" in args
     args = [a for a in args if a != "--maj"]
 
-    arts = charger(maj)
+    arts, capture = charger(maj)
 
     if maj and not args:
         print("%d articles en cache." % len(arts))
@@ -134,8 +163,12 @@ def main():
         print("\n=== Code civil du Quebec, article %s ===" % num)
         print(txt if txt else "NON TROUVE. Verifiez le numero.")
     print("\nSource a citer: %s" % CANONIQUE)
-    print("Lu par capture web.archive.org du %s-%s-%s."
-          % (CAPTURE[:4], CAPTURE[4:6], CAPTURE[6:]))
+    if capture:
+        print("Lu par capture web.archive.org du %s-%s-%s, le site d origine ne"
+              % (capture[:4], capture[4:6], capture[6:]))
+        print("repondant pas. Declarez-le dans le `supports` du JSON de meta.")
+    else:
+        print("Lu en direct sur le site officiel. Rien de special a declarer.")
 
 
 if __name__ == "__main__":
