@@ -7,7 +7,7 @@ category: "Guía práctica"
 description: "Infestación de una vivienda en Quebec: lo que excluye la norma de inspección, el permiso C5, la casilla D6.1 del vendedor, el TAL y el seguro."
 image: "images/articles/insectes-rongeurs-infestation-recours-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 En mayo salen hormigas negras del marco de la puerta del sótano. La verdadera

@@ -7,7 +7,7 @@ category: "Guide de l'acheteur"
 description: "Minimaison au Québec : sur fondation ou sur roues, ce que le zonage autorise, pourquoi le prêteur hésite, et ce que change un terrain loué."
 image: "images/articles/minimaison-microhabitation-zonage-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Le mot minimaison ne désigne aucun type de propriété reconnu au Québec. Il

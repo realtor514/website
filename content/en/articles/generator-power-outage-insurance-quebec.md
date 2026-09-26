@@ -7,7 +7,7 @@ category: "Practical Guide"
 description: "Home generator in Quebec: Hydro-Quebec's written authorization, the transfer switch, subcategory 16, carbon monoxide and what insurance pays."
 image: "images/articles/generatrice-panne-courant-assurance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 After a two day outage, the questions always come in the same order: how much

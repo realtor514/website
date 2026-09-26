@@ -7,7 +7,7 @@ category: "Guía del Comprador"
 description: "Casa mínima en Quebec: sobre cimientos o sobre ruedas, lo que autoriza la zonificación, por qué duda el prestamista y qué cambia un terreno alquilado."
 image: "images/articles/minimaison-microhabitation-zonage-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 La palabra minicasa no designa ningún tipo de propiedad reconocido en Quebec.

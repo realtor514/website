@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Génératrice de maison au Québec: l'accord d'Hydro-Québec, l'interrupteur de transfert, la licence 16, le monoxyde de carbone et ce que l'assurance paie."
 image: "images/articles/generatrice-panne-courant-assurance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Après une panne de deux jours, les questions arrivent dans le même ordre: combien

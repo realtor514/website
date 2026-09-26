@@ -7,7 +7,7 @@ category: "دليل عملي"
 description: "الإصابة بالحشرات في منزل بكيبيك: ما يستبعده معيار الفحص، ورخصة C5، وخانة D6.1 لدى البائع، ومهل لافال، ومحكمة السكن، والتأمين."
 image: "images/articles/insectes-rongeurs-infestation-recours-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 يخرج نمل أسود من إطار باب القبو في مايو. والسؤال الحقيقي ليس أي منتج تشتري: بل

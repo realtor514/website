@@ -7,7 +7,7 @@ category: "Guía práctica"
 description: "Techo verde en Montreal: el índice de reflectancia por distrito, la carga sobre la estructura, el plano de ingeniero y el mantenimiento obligatorio."
 image: "images/articles/toit-vert-toit-reflechissant-montreal-reglement/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Rehacer un techo plano en Montreal ya no es una elección de color. La lista de

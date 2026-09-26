@@ -7,7 +7,7 @@ category: "دليل البائع"
 description: "بيع منزلك في الشتاء في كيبيك: صور الصيف المنشورة في يناير، وإزالة الثلج أثناء الزيارات، والإقرارات التي لا يعفيك منها الثلج."
 image: "images/articles/vendre-automne-hiver-presentation-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 اختيار شهر الطرح في السوق أمر محسوم في مكان آخر. أما ما لا يُحسم أبداً فهو أن

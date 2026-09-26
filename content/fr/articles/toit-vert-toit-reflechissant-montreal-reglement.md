@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Toit vert à Montréal: l'indice de réflectance exigé par arrondissement, la charge sur la charpente, le plan d'ingénieur et l'entretien obligatoire."
 image: "images/articles/toit-vert-toit-reflechissant-montreal-reglement/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Refaire un toit plat à Montréal n'est plus un choix de couleur. La liste des

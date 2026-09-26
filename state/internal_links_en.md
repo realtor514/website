@@ -43,6 +43,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [The Hidden Costs of Homeownership Nobody Puts in the Brochure](/en/articles/hidden-homeownership-costs/) : Taxes, notary, condo fees, insurance, maintenance: what owning a property in Quebec really costs, using t
 - [The Home Inspection Checklist: What Gets Checked, Item by Item](/en/articles/home-inspection-checklist-montreal/) : Roof, foundation, drain, plumbing, wiring, pyrite, vermiculite, lead, radon: what a Quebec inspector actu
 - [The Real Cost of Buying Your First Home in Quebec](/en/articles/vrai-cout-achat-premiere-maison-quebec/) : Everyone talks about the purchase price. Nobody tells you about what comes after. Here is the complete co
+- [Tiny House in Quebec: Zoning, Financing, Insurance](/en/articles/tiny-house-zoning-financing-quebec/) : Tiny house in Quebec: on a foundation or on wheels, what zoning allows, why the lender hesitates, and wha
 - [Vermiculite and Asbestos in a Quebec Home](/en/articles/vermiculite-asbestos-home-quebec/) : Vermiculite and amiante in a Quebec home: why only the analysis of a sample settles it, what the law requ
 - [Walking Away: Seven Red Flags You Can Verify on Paper](/en/articles/red-flags-walk-away-property/) : Seller's declarations, sale at your own risk, a stale certificate of location, contingency fund, zoning, 
 - [Welcome Tax in Quebec: How Much, When, and Who Pays It](/en/articles/welcome-tax-quebec-guide/) : Transfer duties catch thousands of Quebec buyers off guard every year, because the bill arrives months af
@@ -97,6 +98,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Market Analysis
 - [Best Time to Buy in Montreal: What the August Data Says](/en/articles/best-time-to-buy-montreal-data/) : The best time to buy in Montreal is read in your sector's supply, time on market and months of inventory,
 - [List Price and Sold Price in Montreal: Reading the Gap](/en/articles/list-price-vs-sold-price-montreal/) : List price and sold price in Montreal: who sees the sale price, when it becomes consultable at the Regist
+- [Luxury Real Estate Market in Montreal: The Data](/en/articles/luxury-market-montreal-laval-data/) : Luxury real estate market in Montreal and Laval: the real threshold, the number of sales, months of inven
 - [Montreal and Laval Real Estate Market: Reading the Data, Not the Predictions](/en/articles/marche-immobilier-montreal-analyse-donnees/) : Sales, listings, median prices, vacancy and population: how to read dated APCIQ, CMHC and ISQ data on the
 - [The Real Cost of Living in the Montreal Suburbs: The Honest Math](/en/articles/suburb-or-city-real-cost-montreal/) : August 2026 median prices, taxes, a monthly pass against a second car, commuting time: what the Montreal 
 
@@ -112,7 +114,10 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Cutting Down a Tree in Quebec: The By-law and Who Owns the Tree](/en/articles/trees-property-rules-quebec/) : Who owns the tree, what the Code civil allows between neighbours, the felling permit in Montreal and Lava
 - [First Meeting With a Real Estate Broker: The Documents](/en/articles/documents-before-meeting-broker-quebec/) : Certificat de localisation, deed of sale, tax bills, leases: the documents to gather before your first me
 - [Foundation Cracks in Quebec: Diagnosis and Recourses](/en/articles/foundation-cracks-diagnosis-quebec/) : Foundation cracks in Quebec: clay, drainage, pyrite or pyrrhotite, who establishes the cause, and which r
+- [Green and White Roofs in Montreal: The By-law](/en/articles/green-and-reflective-roofs-montreal/) : Green roof in Montreal: the solar reflectance index required by borough, the load on the frame, the engin
 - [Hidden Defect Found During a Renovation in Quebec](/en/articles/hidden-defect-found-during-renovation-quebec/) : A vice caché found during a renovation: stop, document, give written notice. The exact sequence, and the 
+- [Home Generator in Quebec: The Rules](/en/articles/generator-power-outage-insurance-quebec/) : Home generator in Quebec: Hydro-Quebec's written authorization, the transfer switch, subcategory 16, carb
+- [Home Infestation in Quebec: Your Real Recourses](/en/articles/pests-vermin-infestation-recourse-quebec/) : Home infestation in Quebec: what the inspection standard excludes, the C5 permit, box D6.1 of the seller'
 - [Home Maintenance Costs in Quebec: The Replacement Calendar](/en/articles/home-maintenance-cost-quebec/) : Service life by component, what the climate adds, how to size the annual reserve: what home maintenance r
 - [How to Cut Your Heating Bill in Quebec: Where to Start](/en/articles/reduce-heating-bill-quebec/) : Rate D, the 40 kWh tier, insulation, heat pumps and 2026 grants: how to reduce your heating bill in Quebe
 - [Mould in a Quebec Home: Detect, Declare, Act](/en/articles/mould-in-the-home-quebec/) : Mould in a Quebec home: why no threshold exists, the SCHL scale, box D7.3 of the seller's declaration, th
@@ -161,6 +166,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Sell or Keep Your Home in Quebec: Your Own Six Signals](/en/articles/signs-it-is-time-to-sell-quebec/) : Household size, a job elsewhere, renewal, maintenance, mobility, attachment: the six personal signals tha
 - [Selling Before Buying in Quebec: The Clauses That Decide](/en/articles/sell-before-buying-clauses-quebec/) : Selling before buying in Quebec: clause R2.1, the 72 hour clause, the bridge loan, carrying two propertie
 - [Selling With or Without a Realtor in Quebec: The Honest Comparison](/en/articles/selling-without-realtor-quebec/) : It is the number one question Quebec sellers ask. Here are the real numbers, what you actually save, what
+- [Selling Your Home in Winter in Quebec: The Obligations](/en/articles/selling-in-fall-and-winter-quebec/) : Selling a home in winter in Quebec: summer photos posted in January, snow clearing for showings, and the 
 - [Selling a Home Worth Less Than the Mortgage](/en/articles/selling-underwater-mortgage-quebec/) : Selling a Quebec home worth less than the mortgage: the balance, the penalty, the quittance, the broker's
 - [Selling the Family Home and Downsizing: A Guide for Seniors in Greater Montreal](/en/articles/senior-downsizing-guide/) : Condo, apartment, seniors' residence or staying put: what selling the family home really frees up, plus t
 - [The Listing Brokerage Contract in Quebec: Clause by Clause](/en/articles/listing-brokerage-contract-quebec/) : Term, price, remuneration, the 180 day clause, declarations: what each clause of the Quebec listing broke

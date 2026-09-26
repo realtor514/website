@@ -7,7 +7,7 @@ category: "Guía práctica"
 description: "Generador de casa en Quebec: el permiso de Hydro-Québec, el interruptor de transferencia, la licencia 16, el monóxido de carbono y lo que paga el seguro."
 image: "images/articles/generatrice-panne-courant-assurance-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Después de un apagón de dos días, las preguntas llegan en el mismo orden: cuánto

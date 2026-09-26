@@ -7,7 +7,7 @@ category: "Practical Guide"
 description: "Green roof in Montreal: the solar reflectance index required by borough, the load on the frame, the engineer's plans and the mandatory maintenance."
 image: "images/articles/toit-vert-toit-reflechissant-montreal-reglement/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Redoing a flat roof in Montreal is no longer a colour choice. The list of

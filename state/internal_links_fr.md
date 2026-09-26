@@ -8,6 +8,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Analyse de marché
 - [Coût de la vie en banlieue de Montréal: le vrai calcul](/articles/banlieue-ou-ville-cout-reel-montreal/) : Prix médians d'août 2026, taxes, passe mensuelle contre deuxième voiture, temps de trajet: le coût réel d
 - [Marché immobilier de Montréal et Laval: lire les données, pas les prédictions](/articles/marche-immobilier-montreal/) : Ventes, inscriptions, prix médians, inoccupation, population: comment lire les données datées de l'APCIQ,
+- [Marché immobilier haut de gamme à Montréal: les données](/articles/marche-haut-de-gamme-montreal-laval-donnees/) : Marché immobilier haut de gamme à Montréal et à Laval: le seuil réel, le nombre de ventes, les mois d'inv
 - [Meilleur moment pour acheter à Montréal: les données d'août](/articles/acheter-fin-ete-montreal-donnees/) : Le meilleur moment pour acheter à Montréal se lit dans le stock, le délai de vente et les mois d'inventai
 - [Parler d'un krach immobilier à Montréal : ce que les données permettent de dire](/articles/montreal-market-crash-analysis/) : Ventes, inscriptions, prix médians, délais de vente : ce que les données publiques de l'APCIQ, de l'ISQ e
 - [Prix demandé et prix vendu à Montréal: lire l'écart](/articles/prix-demande-prix-vendu-montreal/) : Prix demandé et prix vendu à Montréal: qui voit le prix de vente, quand il devient public au Registre fon
@@ -68,7 +69,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Maison neuve ou usagée au Québec : ce qui diffère vraiment](/articles/maison-neuve-ou-existante-quebec/) : TPS et TVQ, garantie GCR, contrat préliminaire, droits de mutation : ce qui sépare réellement une maison 
 - [Maison québécoise: les particularités de construction](/articles/particularites-maison-quebecoise/) : Escalier extérieur, sous-sol habité, toit plat, plex, drain français, chauffage électrique: les particula
 - [Maison à rénover ou clé en main au Québec: qui finance](/articles/cle-en-main-ou-a-renover-quebec/) : Maison à rénover ou clé en main au Québec: le prêt SCHL Améliorations, la valeur après travaux, les avanc
-- [Minimaison au Québec : zonage, financement, assurance](/articles/minimaison-microhabitation-zonage-quebec/) (brouillon) : Minimaison au Québec : sur fondation ou sur roues, ce que le zonage autorise, pourquoi le prêteur hésite,
+- [Minimaison au Québec : zonage, financement, assurance](/articles/minimaison-microhabitation-zonage-quebec/) : Minimaison au Québec : sur fondation ou sur roues, ce que le zonage autorise, pourquoi le prêteur hésite,
 - [Négocier une propriété à Montréal : les vrais leviers, ceux que le formulaire autorise](/articles/strategies-negociation-immobilier/) : Promesse d'achat, conditions, acompte, date d'occupation : les vrais leviers de négociation au Québec, et
 - [Première visite d'une propriété : quoi vérifier avant de tomber amoureux](/articles/first-visit-property-checklist/) : Documents à demander, quoi regarder dehors et dedans, pyrite, mazout, filage d'aluminium, plomb : la prem
 - [Promesse d'achat refusée : la méthode pour ne pas surpayer la fois suivante](/articles/losing-bidding-war-lessons/) : Votre promesse d'achat a été refusée. Ce qui se passe juridiquement, le post-mortem en quatre questions, 
@@ -100,7 +101,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Vendre avec ou sans courtier au Québec: la comparaison honnête](/articles/vendre-avec-ou-sans-courtier-quebec/) : C'est la question numéro un des vendeurs québécois. Voici les vrais chiffres, ce que vous économisez réel
 - [Vendre la maison familiale et passer à plus petit : guide pour les aînés du Grand Montréal](/articles/senior-downsizing-guide/) : Condo, logement, RPA ou rester chez soi : ce que la vente de la maison familiale libère vraiment, l'impôt
 - [Vendre ou garder sa maison au Québec: vos signaux](/articles/garder-ou-vendre-signaux-quebec/) : Taille du ménage, mutation, renouvellement, entretien, mobilité, attachement: les six signaux personnels 
-- [Vendre sa maison en hiver au Québec: les obligations](/articles/vendre-automne-hiver-presentation-quebec/) (brouillon) : Vendre sa maison en hiver au Québec: photos d'été diffusées en janvier, déneigement des visites, et les d
+- [Vendre sa maison en hiver au Québec: les obligations](/articles/vendre-automne-hiver-presentation-quebec/) : Vendre sa maison en hiver au Québec: photos d'été diffusées en janvier, déneigement des visites, et les d
 - [Vendre une maison qui vaut moins que l'hypothèque](/articles/vendre-valeur-inferieure-solde-hypothecaire-quebec/) : Vendre une maison dont la valeur est inférieure à l'hypothèque au Québec: solde, pénalité, quittance, rét
 - [Visite libre: ce que le vendeur doit contrôler](/articles/visite-libre-vendeur-quebec/) : Visite libre au Québec: ce que l'OACIQ exige du courtier, ce que le vendeur range, ce que l'assurance cou
 - [Vos rénovations n'ajouteront pas ce que vous pensez à la valeur de votre maison](/articles/renovations-dont-add-value/) : Ce qui se récupère avant une vente et ce qui ne se récupère pas, puis les règles québécoises : Déclaratio
@@ -116,8 +117,8 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Déneigement et responsabilité du propriétaire au Québec](/articles/deneigement-chute-glace-responsabilite-quebec/) : Articles 1457 et 1467, règles de Montréal et de Laval, amendes, assurance responsabilité civile et plex l
 - [Fissure de fondation au Québec: diagnostic et recours](/articles/fissures-affaissement-fondation-expertise-quebec/) : Fissure de fondation au Québec: argile, drainage, pyrite ou pyrrhotite, qui établit la cause, et quel rec
 - [Fonte des neiges et infiltration d'eau au sous-sol](/articles/fonte-neiges-infiltration-clapet-montreal/) : Fonte des neiges et infiltration d'eau au sous-sol à Montréal: pente, margelle, toit, gouttières, avenant
-- [Génératrice de maison au Québec: les règles](/articles/generatrice-panne-courant-assurance-quebec/) (brouillon) : Génératrice de maison au Québec: l'accord d'Hydro-Québec, l'interrupteur de transfert, la licence 16, le 
-- [Infestation maison Québec: vos recours réels](/articles/insectes-rongeurs-infestation-recours-quebec/) (brouillon) : Infestation d'une maison au Québec et recours: ce que la norme d'inspection exclut, le permis C5, la case
+- [Génératrice de maison au Québec: les règles](/articles/generatrice-panne-courant-assurance-quebec/) : Génératrice de maison au Québec: l'accord d'Hydro-Québec, l'interrupteur de transfert, la licence 16, le 
+- [Infestation maison Québec: vos recours réels](/articles/insectes-rongeurs-infestation-recours-quebec/) : Infestation d'une maison au Québec et recours: ce que la norme d'inspection exclut, le permis C5, la case
 - [Moisissure maison Québec: détecter, déclarer, agir](/articles/moisissure-maison-detection-recours-quebec/) : Moisissure dans une maison au Québec: pourquoi aucun seuil n'existe, l'échelle de la SCHL, la case D7.3 d
 - [Permis cabanon, abri d'auto et garage au Québec](/articles/cabanon-abri-auto-garage-permis-quebec/) : Permis cabanon au Québec : le seuil de 18 m² à Laval, de 15 m² à Montréal, les marges, l'abri d'hiver, le
 - [Permis de rénovation à Montréal et Laval: l'hiver](/articles/renover-hiver-permis-montreal-laval/) : Béton, toiture, intérieur: ce que le froid bloque vraiment, et pourquoi un permis de rénovation à Montréa
@@ -130,7 +131,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Sinistres fréquents et assurance habitation au Québec](/articles/sinistres-frequents-couverture-habitation-quebec/) : Sinistres fréquents en assurance habitation au Québec: ce que la police de base couvre, ce qui exige un a
 - [Solarium et véranda: le permis d'agrandissement au Québec](/articles/solarium-veranda-permis-evaluation-quebec/) : Solarium ou véranda au Québec: pourquoi c'est un agrandissement, le permis à Laval et à Montréal, et l'av
 - [Test de radon dans une maison au Québec : le calendrier](/articles/radon-maison-quebec-depistage/) : Ligne directrice de 200 Bq/m³, test de trois mois en saison de chauffage, clause 3.21 et déclaration du v
-- [Toit vert et toit blanc à Montréal: le règlement](/articles/toit-vert-toit-reflechissant-montreal-reglement/) (brouillon) : Toit vert à Montréal: l'indice de réflectance exigé par arrondissement, la charge sur la charpente, le pl
+- [Toit vert et toit blanc à Montréal: le règlement](/articles/toit-vert-toit-reflechissant-montreal-reglement/) : Toit vert à Montréal: l'indice de réflectance exigé par arrondissement, la charge sur la charpente, le pl
 - [Troubles de voisinage au Québec : les recours](/articles/troubles-de-voisinage-quebec/) : Article 976, vues à 1,5 m, clôture mitoyenne, médiation et petites créances : les recours en troubles de 
 - [Vice caché découvert pendant une rénovation au Québec](/articles/vice-cache-pendant-renovation-quebec/) : Vice caché découvert pendant une rénovation: arrêter, documenter, dénoncer par écrit. La séquence exacte,
 

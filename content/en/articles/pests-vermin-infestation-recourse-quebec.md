@@ -7,7 +7,7 @@ category: "Practical Guide"
 description: "Home infestation in Quebec: what the inspection standard excludes, the C5 permit, box D6.1 of the seller's declaration, the TAL and insurance."
 image: "images/articles/insectes-rongeurs-infestation-recours-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Black ants coming out of the basement door frame in May. The real question is not which product to buy: it is who pays, and within what time you can claim it. Three situations, three clocks: the owner in their own home, the buyer who finds the infestation after the sale, the tenant facing the landlord.

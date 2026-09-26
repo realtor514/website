@@ -7,7 +7,7 @@ category: "Buyer's Guide"
 description: "Tiny house in Quebec: on a foundation or on wheels, what zoning allows, why the lender hesitates, and what a leased lot changes for you."
 image: "images/articles/minimaison-microhabitation-zonage-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 The word tiny house names no recognized type of property in Quebec. It covers

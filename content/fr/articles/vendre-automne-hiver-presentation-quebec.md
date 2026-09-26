@@ -7,7 +7,7 @@ category: "Guide du vendeur"
 description: "Vendre sa maison en hiver au Québec: photos d'été diffusées en janvier, déneigement des visites, et les déclarations que la neige ne dispense pas."
 image: "images/articles/vendre-automne-hiver-presentation-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Le choix du mois de mise en marché est réglé ailleurs. Ce qui ne l'est jamais: une fois la décision prise, l'automne et l'hiver ajoutent des obligations qui n'existent pas en juin. Elles touchent vos photos, l'accès à votre porte pendant les visites, et ce que vous devez déclarer d'une propriété dont la moitié est sous la neige.

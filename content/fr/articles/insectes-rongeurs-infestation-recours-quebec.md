@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Infestation d'une maison au Québec et recours: ce que la norme d'inspection exclut, le permis C5, la case D6.1 du vendeur, le TAL et l'assurance."
 image: "images/articles/insectes-rongeurs-infestation-recours-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Des fourmis noires sortent du cadre de porte du sous-sol en mai. La vraie question n'est pas quel produit acheter: c'est qui paie, et dans quel délai vous pouvez le réclamer. Trois situations, trois horloges: le propriétaire chez lui, l'acheteur qui découvre l'infestation après la vente, le locataire devant son locateur.

@@ -6,7 +6,7 @@ translationKey: "article-marche-haut-de-gamme-montreal-laval"
 category: "Análisis de Mercado"
 description: "Mercado inmobiliario de alta gama en Montreal y Laval: el umbral real, el número de ventas, los meses de inventario y el límite de los comparables."
 image: "images/articles/marche-haut-de-gamme-montreal-laval-donnees/featured.jpg"
-draft: true
+draft: false
 ---
 
 Su propiedad vale 900 000 $ y usted se pregunta si pertenece a otro mercado que

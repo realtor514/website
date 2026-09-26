@@ -7,7 +7,7 @@ category: "Seller's Guide"
 description: "Selling a home in winter in Quebec: summer photos posted in January, snow clearing for showings, and the declarations the snow does not excuse."
 image: "images/articles/vendre-automne-hiver-presentation-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Choosing the month you list is settled elsewhere. What never is: once the decision is made, fall and winter add obligations that do not exist in June. They touch your photos, the access to your door during showings, and what you have to declare about a property that is half buried in snow.

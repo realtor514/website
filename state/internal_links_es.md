@@ -10,6 +10,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Hablar de un desplome inmobiliario en Montreal: lo que los datos permiten decir](/es/articles/montreal-market-crash-analysis/) : Ventas, inscripciones, precios medianos y plazos de venta: lo que dicen los datos públicos de APCIQ, ISQ 
 - [Mejor momento para comprar en Montreal: los datos de agosto](/es/articles/mejor-momento-comprar-montreal-datos/) : El mejor momento para comprar en Montreal se lee en el inventario, el plazo de venta y los meses de inven
 - [Mercado Inmobiliario de Montréal y Laval: Leer los Datos, no las Predicciones](/es/articles/marche-immobilier-montreal-analyse-donnees/) : Ventas, inscripciones, precios medianos, desocupación y población: cómo leer los datos fechados de la APC
+- [Mercado inmobiliario de alta gama en Montreal: los datos](/es/articles/mercado-alta-gama-montreal-laval/) : Mercado inmobiliario de alta gama en Montreal y Laval: el umbral real, el número de ventas, los meses de 
 - [Precio pedido y precio vendido en Montreal: leer la brecha](/es/articles/precio-pedido-vs-precio-vendido-montreal/) : Precio pedido y precio vendido en Montreal: quién ve el precio de venta, cuándo se vuelve consultable en 
 
 ## Financiamiento
@@ -36,6 +37,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Guía del Comprador
 - [Casa difícil de asegurar en Quebec: lo que bloquea la compra](/es/articles/casa-dificil-de-asegurar-quebec/) : Negativa del seguro, tanque de mazut, aluminio, techo, siniestros anteriores: por qué una casa se vuelve 
 - [Casa lista o para renovar en Quebec: quién financia](/es/articles/casa-lista-o-para-renovar-quebec/) : Casa para renovar o lista para habitar en Quebec: el préstamo SCHL Améliorations, el valor después de las
+- [Casa mínima en Quebec: zonificación, financiamiento, seguro](/es/articles/casa-minima-zonificacion-quebec/) : Casa mínima en Quebec: sobre cimientos o sobre ruedas, lo que autoriza la zonificación, por qué duda el p
 - [Casa nueva o usada en Quebec: lo que de verdad cambia](/es/articles/casa-nueva-o-existente-quebec/) : TPS y TVQ, garantía GCR, contrat préliminaire, droits de mutation: lo que separa realmente una casa nueva
 - [Casa quebequense: las particularidades de construcción](/es/articles/caracteristicas-casa-quebequense/) : Escalera exterior, sótano habitado, techo plano, plex, drenaje francés y calefacción eléctrica: qué parti
 - [Comprar de contado en Quebec: la ventaja real, el riesgo real y lo que exige la ley](/es/articles/cash-buyers-advantage/) : Oferta sin condición de financiamiento, inspección, preaprobación, obligaciones ante CANAFE y el tope de 
@@ -98,6 +100,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Vender con o sin corredor en Quebec: la comparación honesta](/es/articles/selling-without-realtor-quebec/) : Es la pregunta número uno de los vendedores en Quebec. Aquí están las cifras reales, lo que usted ahorra 
 - [Vender la casa familiar y mudarse a algo más pequeño: guía para personas mayores en el Gran Montreal](/es/articles/senior-downsizing-guide/) : Condominio, alquiler, residencia para mayores o quedarse en casa: lo que realmente libera vender la casa 
 - [Vender o conservar su casa en Quebec: sus propias señales](/es/articles/senales-para-vender-quebec/) : Renovación, tamaño del hogar, trayecto, mantenimiento: seis señales personales que dicen si conservar o v
+- [Vender su casa en invierno en Quebec: las obligaciones](/es/articles/vender-en-otono-e-invierno-quebec/) : Vender su casa en invierno en Quebec: fotos de verano difundidas en enero, la nieve en las visitas y las 
 - [Vender una casa que vale menos que la hipoteca](/es/articles/vender-casa-vale-menos-hipoteca-quebec/) : Vender en Quebec una casa cuyo valor es inferior a la hipoteca: saldo, penalidad, carta de pago, retribuc
 - [¿Cuánto tiempo toma realmente vender una casa en Montreal?](/es/articles/how-long-to-sell-house-montreal/) : El plazo de venta depende mucho menos del mercado que de tres decisiones que usted controla. Aquí está el
 
@@ -111,7 +114,9 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Deshielo e infiltración de agua en el sótano en Montreal](/es/articles/deshielo-infiltracion-agua-montreal/) : Deshielo e infiltración de agua en el sótano en Montreal: pendiente del terreno, tragaluz, techo, canalet
 - [Detector de humo en Quebec: obligación y seguro](/es/articles/detector-humo-obligacion-seguro-quebec/) : Detector de humo, obligación en Quebec: el reglamento de Montreal y de Laval, el detector de monóxido de 
 - [Elegir un contratista de renovación en Quebec](/es/articles/elegir-contratista-renovacion-quebec/) : Licencia RBQ y sous-catégories, contrato, retención, hipoteca legal: cómo elegir un contratista de renova
+- [Generador de casa en Quebec: las reglas](/es/articles/generador-apagon-seguro-quebec/) : Generador de casa en Quebec: el permiso de Hydro-Québec, el interruptor de transferencia, la licencia 16,
 - [Grieta en los cimientos en Quebec: diagnóstico y recursos](/es/articles/grietas-cimientos-diagnostico-quebec/) : Grieta en los cimientos en Quebec: arcilla, drenaje, pirita o pirrotina, quién establece la causa, y qué 
+- [Infestación de plagas en Quebec: sus recursos reales](/es/articles/plagas-infestacion-recursos-quebec/) : Infestación de una vivienda en Quebec: lo que excluye la norma de inspección, el permiso C5, la casilla D
 - [Moho en una vivienda en Quebec: detectar, declarar, actuar](/es/articles/moho-vivienda-quebec/) : Moho en una vivienda en Quebec: por qué no existe ningún umbral, la escala de la SCHL, la casilla D7.3 de
 - [Mudarse en Montreal o Laval: la lista completa, plazo por plazo](/es/articles/moving-checklist-montreal/) : Avisos de arrendamiento, cesión, cambio de dirección, Hydro-Québec, permisos de camión y ecocentros: la l
 - [Permiso de cobertizo, marquesina y garaje en Quebec](/es/articles/permiso-cobertizo-garaje-quebec/) : Permiso de cobertizo en Quebec: el umbral de 18 m² en Laval y de 15 m² en Montreal, los márgenes, el abri
@@ -125,6 +130,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Siniestros frecuentes y seguro de vivienda en Quebec](/es/articles/siniestros-frecuentes-seguro-hogar-quebec/) : Siniestros frecuentes en seguro de vivienda en Quebec: lo que cubre la póliza de base, lo que exige un av
 - [Solario y veranda: el permiso de ampliación en Quebec](/es/articles/solario-veranda-permiso-quebec/) : Solario o veranda en Quebec: por qué es una ampliación, el permiso en Laval y en Montreal, y el aviso de 
 - [Talar un árbol en Quebec: el reglamento y de quién es el árbol](/es/articles/arboles-propiedad-reglamentos-quebec/) : De quién es el árbol, qué permite el Code civil entre vecinos, el permiso de tala en Montreal y en Laval,
+- [Techo verde y techo blanco en Montreal: el reglamento](/es/articles/techos-verdes-reflectantes-montreal/) : Techo verde en Montreal: el índice de reflectancia por distrito, la carga sobre la estructura, el plano d
 - [Vicio oculto descubierto durante una renovación en Quebec](/es/articles/vicio-oculto-durante-renovacion-quebec/) : Vicio oculto descubierto durante una renovación: parar, documentar, denunciar por escrito. La secuencia e
 
 ## Inmobiliaria 101

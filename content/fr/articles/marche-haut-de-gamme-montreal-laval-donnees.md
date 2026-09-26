@@ -6,7 +6,7 @@ translationKey: "article-marche-haut-de-gamme-montreal-laval"
 category: "Analyse de marché"
 description: "Marché immobilier haut de gamme à Montréal et à Laval: le seuil réel, le nombre de ventes, les mois d'inventaire et la limite des comparables."
 image: "images/articles/marche-haut-de-gamme-montreal-laval-donnees/featured.jpg"
-draft: true
+draft: false
 ---
 
 Votre propriété vaut 900 000 $ et vous vous demandez si elle appartient à un

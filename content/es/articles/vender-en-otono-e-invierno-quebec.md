@@ -7,7 +7,7 @@ category: "Guía del Vendedor"
 description: "Vender su casa en invierno en Quebec: fotos de verano difundidas en enero, la nieve en las visitas y las declaraciones que el invierno no dispensa."
 image: "images/articles/vendre-automne-hiver-presentation-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 La elección del mes de salida al mercado se resuelve en otra parte. Lo que nunca

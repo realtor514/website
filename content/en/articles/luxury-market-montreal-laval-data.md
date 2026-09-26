@@ -6,7 +6,7 @@ translationKey: "article-marche-haut-de-gamme-montreal-laval"
 category: "Market Analysis"
 description: "Luxury real estate market in Montreal and Laval: the real threshold, the number of sales, months of inventory and the limits of comparables."
 image: "images/articles/marche-haut-de-gamme-montreal-laval-donnees/featured.jpg"
-draft: true
+draft: false
 ---
 
 Your property is worth $900,000 and you are wondering whether it belongs to a

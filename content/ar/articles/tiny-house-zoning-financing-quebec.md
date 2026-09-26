@@ -7,7 +7,7 @@ category: "دليل المشتري"
 description: "المنزل الصغير في كيبيك: على أساس أم على عجلات، وما يسمح به التقسيم العمراني، ولماذا يتردد المُقرض، وما الذي يغيّره الأرض المستأجرة."
 image: "images/articles/minimaison-microhabitation-zonage-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 كلمة «منزل صغير» لا تشير إلى أي نوع ملكية معترف به في كيبيك. فهي تغطي شيئين
