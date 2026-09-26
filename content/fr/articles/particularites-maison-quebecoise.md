@@ -1,7 +1,7 @@
 ---
 title: "Maison québécoise: les particularités de construction"
-date: 2026-09-08
-lastmod: 2026-09-08
+date: 2026-09-25
+lastmod: 2026-09-25
 translationKey: "article-particularites-maison-quebecoise"
 category: "Guide de l'acheteur"
 description: "Escalier extérieur, sous-sol habité, toit plat, plex, drain français, chauffage électrique: les particularités de construction d'une maison québécoise."

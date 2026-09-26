@@ -205,6 +205,50 @@ def check(path):
     if re.search(r"^#\s+", body, flags=re.M):
         errors.append("titre H1 dans le corps, il doit rester dans le front matter")
 
+    # Un article ne peut pas citer une page consultee apres sa propre date.
+    # publish.py repartit les dates sur les 30 derniers jours et ecrase celle du
+    # redacteur: un article citant des statistiques diffusees le 4 septembre
+    # s est retrouve date du 26 aout, et un autre citant une page lue le
+    # 25 septembre s est retrouve date du 22 aout.
+    MOIS = {"janvier": 1, "fevrier": 2, "février": 2, "mars": 3, "avril": 4,
+            "mai": 5, "juin": 6, "juillet": 7, "aout": 8, "août": 8,
+            "septembre": 9, "octobre": 10, "novembre": 11,
+            "decembre": 12, "décembre": 12}
+    # Attention: une ECHEANCE future est parfaitement legitime (« conformite au
+    # 30 septembre 2027 », « carnet d entretien au 15 aout 2028 »). Seule une
+    # date de LECTURE ou de DIFFUSION ne peut pas etre posterieure a l article.
+    # On ne declenche donc que sur les formules qui annoncent une consultation
+    # ou une publication.
+    # Le marqueur doit etre COLLE a la date. Avec une fenetre large, un
+    # « publie » attrapait une echeance situee trente mots plus loin, ce qui
+    # donnait quatre faux positifs sur cinq.
+    LECTURE = (r"(?:consult[ée]e?s?|relev[ée]e?s?|"
+               r"mise?s?\s+[àa]\s+jour|publi[ée]e?s?|diffus[ée]e?s?|"
+               r"affichait|affiche)\s+(?:le\s+|en\s+)?")
+    bornes = []
+    for field in ("date", "lastmod"):
+        v = meta.get(field, "")
+        if re.match(r"^\d{4}-\d{2}-\d{2}$", v):
+            bornes.append(datetime.date(*map(int, v.split("-"))))
+    if bornes:
+        borne = max(bornes)
+        motif = LECTURE + r"(1er|\d{1,2})\s+([a-zA-Zéèûà]+)\s+(\d{4})"
+        for m in re.finditer(motif, body, re.I):
+            mois = MOIS.get(m.group(2).lower())
+            if not mois:
+                continue
+            jour = 1 if m.group(1) == "1er" else int(m.group(1))
+            try:
+                citee = datetime.date(int(m.group(3)), mois, jour)
+            except ValueError:
+                continue
+            if citee > borne:
+                errors.append(
+                    "dit avoir lu une source le %s %s %s, posterieur a la date "
+                    "de l article (%s)"
+                    % (m.group(1), m.group(2), m.group(3), borne))
+                break
+
     h2 = re.findall(r"^##\s+(.+)$", body, flags=re.M)
     if not 5 <= len(h2) <= 10:
         warnings.append("%d sections H2, vise 6 a 8" % len(h2))

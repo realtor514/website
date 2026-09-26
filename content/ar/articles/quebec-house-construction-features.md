@@ -1,7 +1,7 @@
 ---
 title: "المنزل الكيبيكي: خصائص البناء التي تُتحقَّق قبل العرض"
-date: 2026-09-08
-lastmod: 2026-09-08
+date: 2026-09-25
+lastmod: 2026-09-25
 translationKey: "article-particularites-maison-quebecoise"
 category: "دليل المشتري"
 description: "الدرج الخارجي، والقبو المسكون، والسقف المسطح، والمبنى المتعدد الشقق، وdrain français، والتدفئة الكهربائية: خصائص بناء المنزل الكيبيكي."

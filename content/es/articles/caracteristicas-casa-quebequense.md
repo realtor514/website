@@ -1,7 +1,7 @@
 ---
 title: "Casa quebequense: las particularidades de construcción"
-date: 2026-09-08
-lastmod: 2026-09-08
+date: 2026-09-25
+lastmod: 2026-09-25
 translationKey: "article-particularites-maison-quebecoise"
 category: "Guía del Comprador"
 description: "Escalera exterior, sótano habitado, techo plano, plex, drenaje francés y calefacción eléctrica: qué particulariza la construcción de una casa quebequense."

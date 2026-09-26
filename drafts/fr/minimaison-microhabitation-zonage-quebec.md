@@ -1,7 +1,7 @@
 ---
 title: "Minimaison au Québec : zonage, financement, assurance"
-date: 2026-09-14
-lastmod: 2026-09-14
+date: 2026-08-23
+lastmod: 2026-08-23
 translationKey: "article-minimaison-zonage"
 category: "Guide de l'acheteur"
 description: "Minimaison au Québec : sur fondation ou sur roues, ce que le zonage autorise, pourquoi le prêteur hésite, et ce que change un terrain loué."

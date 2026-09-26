@@ -1,7 +1,7 @@
 ---
 title: "Quebec House Construction Features: What a Buyer Should Check"
-date: 2026-09-08
-lastmod: 2026-09-08
+date: 2026-09-25
+lastmod: 2026-09-25
 translationKey: "article-particularites-maison-quebecoise"
 category: "Buyer's Guide"
 description: "Outside staircase, lived-in basement, flat roof, plex, foundation drain, electric heating: the construction features of a Quebec house."
