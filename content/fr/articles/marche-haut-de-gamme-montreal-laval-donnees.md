@@ -1,6 +1,6 @@
 ---
 title: "Marché immobilier haut de gamme à Montréal: les données"
-date: 2026-09-11
+date: 2026-09-26
 lastmod: 2026-09-26
 translationKey: "article-marche-haut-de-gamme-montreal-laval"
 category: "Analyse de marché"

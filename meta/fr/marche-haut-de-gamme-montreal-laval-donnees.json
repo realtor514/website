@@ -1,0 +1,69 @@
+{
+ "id": "t219",
+ "slug": "marche-haut-de-gamme-montreal-laval-donnees",
+ "title": "Marché immobilier haut de gamme à Montréal: les données",
+ "target_keyword": "marche immobilier haut de gamme montreal",
+ "word_count": 1691,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/combien-de-temps-vendre-maison-montreal/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/contester-evaluation-municipale-quebec/",
+  "/articles/prix-demande-prix-vendu-montreal/",
+  "/articles/marche-immobilier-montreal/",
+  "/tools/home-estimate/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202602-bar-mtl.pdf",
+   "title": "Baromètre résidentiel, 2e trimestre 2026, Région métropolitaine de Montréal, Fenêtre sur le marché immobilier",
+   "publisher": "APCIQ",
+   "consulted": "2026-09-26",
+   "supports": "Tableau 3 « Conditions du marché par gammes de prix », unifamiliale, 12 mois se terminant au T2 2026. Bornes de la tranche superieure: 950 000 $ RMR de Montreal (p. 7), 1 220 000 $ ile de Montreal (p. 8), 930 000 $ Laval (p. 27), 2 930 000 $ secteur 9 Centre (p. 17), 1 120 000 $ secteur 20 Sainte-Dorothee (p. 29). Inventaire, ventes et mois d inventaire du premier tableau de l article: RMR 2 378 / 321 / 7,4; ile 860 / 95 / 9,0; Laval 182 / 24 / 7,6; secteur 9 120 / 7 / 17,9; secteur 20 41 / 4 / 10,3. Les cinq gammes de Laval du second tableau: 9 / 5 / 1,9; 43 / 20 / 2,2; 364 / 141 / 2,6; 102 / 25 / 4,1; 182 / 24 / 7,6, les cinq classees « Vendeur ». Les trois gammes chiffrees de Sainte-Dorothee sous 1 120 000 $ classees « Vendeur » et la tranche superieure classee « Acheteur ». Moyenne de jours sur le marche T2 2026, unifamiliale: 32 RMR, 30 Laval, 41 ile de Montreal, 48 secteur 20, 64 secteur 9; prix medians T2 2026 de l unifamiliale cites dans l article: 775 500 $ a Sainte-Dorothee et 1 980 000 $ dans le secteur 9. Page 65, « Definitions et notes explicatives »: definition de l inventaire (moyenne des inscriptions en vigueur des 12 derniers mois), du nombre de mois d inventaire et la phrase « cette mesure est differente du delai de vente moyen »; definition de la moyenne de jours sur le marche comme « nombre moyen de jours entre la date de signature du contrat de courtage et la date de vente »; seuils des conditions de marche: entre 8 et 10 mois le marche est equilibre, sous 8 il est favorable aux vendeurs, au-dela de 10 il est favorable aux acheteurs. La meme page 65 ne decrit aucune methode de construction des gammes de prix, ce qui appuie la phrase disant que l APCIQ ne publie pas cette methode dans ce document, et le tableau 3 ne comporte aucune colonne de delai de vente."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202601-bar-mtl.pdf",
+   "title": "Baromètre résidentiel, 1er trimestre 2026, Région métropolitaine de Montréal, Fenêtre sur le marché immobilier",
+   "publisher": "APCIQ",
+   "consulted": "2026-09-26",
+   "supports": "Appuie l affirmation que la borne de la tranche superieure est recalculee a chaque trimestre: au T1 2026, pour l unifamiliale, la tranche superieure commencait a 920 000 $ a Laval (p. 27) et a 1 200 000 $ sur l ile de Montreal (p. 8), contre 930 000 $ et 1 220 000 $ au T2 2026. Appuie aussi la reponse de la section Questions frequentes sur le deplacement de la borne de Laval de 920 000 $ a 930 000 $."
+  },
+  {
+   "url": "https://apciqca-152af.kxcdn.com/wp-content/uploads/sites/4/2026/09/2026-09-04_communique_apciq_montreal_fr.pdf",
+   "title": "Communiqué de presse, Statistiques de ventes résidentielles Centris, août 2026, RMR de Montréal, 4 septembre 2026",
+   "publisher": "APCIQ",
+   "consulted": "2026-09-26",
+   "supports": "Appuie l affirmation que le communique mensuel ne publie pas le delai de vente par gamme de prix: le communique ne contient ni le mot « gamme » ni le mot « tranche », et ne donne les delais que par categorie de propriete (42 jours pour l unifamiliale, 62 pour la copropriete, 52 pour les plex)."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/evaluation_fonciere/manuel_evaluation_fonciere/2026/MEFQ_partie_3_2026.pdf",
+   "title": "Manuel d'évaluation foncière du Québec 2026, Partie 3",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-26",
+   "supports": "Toutes les citations du Manuel dans l article, lues dans la partie 3C (Evaluation par la methode de comparaison) et 3E (methode du cout): la methode de comparaison « produit d excellents resultats lorsqu elle est utilisee pour evaluer des immeubles situes dans un environnement homogene, ou les ventes sont en nombre suffisant pour permettre des analyses statistiquement concluantes »; « La principale difficulte eprouvee dans la mise en application de cette methode est l insuffisance, sinon l absence, de transactions visant des immeubles pouvant etre compares »; « ses limites sont tributaires du nombre de ventes et de leur representativite » (cite dans les Questions frequentes); « le recours a la modelisation statistique requiert un echantillon d au moins 50 a 60 observations »; la methode de comparaison est a privilegier la ou « les ventes comparables sont en nombre suffisant. Une autre methode doit etre envisagee pour les unites d evaluation restantes, notamment celles a caractere unique ou peu repandu »; « certaines constructions presentent des caracteristiques physiques exceptionnelles qui les rendent difficilement comparables a d autres, telles les residences de grand luxe hautement individualisees. La methode du cout peut etre la seule qui soit suffisamment detaillee pour evaluer ces constructions particulieres de facon appropriee »; l analyse des residus standardises « reflete une realite assez systematique en evaluation immobiliere, a savoir que les proprietes bas de gamme sont en general surestimees par l equation de regression (residus negatifs), alors que les residences haut de gamme sont, au contraire, sous-estimees (residus positifs) »; et la consigne de stratification selon laquelle « l inclusion simultanee des proprietes haut de gamme et des proprietes bas de gamme est evitee »."
+  },
+  {
+   "url": "https://oeaq.qc.ca/profession/pourquoi-un-evaluateur-agree/",
+   "title": "Pourquoi faire appel à un évaluateur agréé ?",
+   "publisher": "Ordre des évaluateurs agréés du Québec",
+   "consulted": "2026-09-26",
+   "supports": "Appuie le paragraphe sur l ecart entre deux opinions de valeur: « l evaluateur agree devra comparer les resultats obtenus grace a chacune des trois methodes » et « Il retiendra alors la valeur marchande obtenue au moyen de la (ou des) methodes offrant le plus haut degre d exactitude en regard du genre de propriete et du but vise par l evaluation », les trois methodes etant le cout, la comparaison et le revenu."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-representation-sollicitation-promotion-et-publicite/publicite-des-transactions-completees/",
+   "title": "Publicité des transactions conclues, ligne directrice Représentation, sollicitation, promotion et publicité, section 7",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-26",
+   "supports": "Section 7.2 « Interdiction de la publicite du prix de vente », portant la mention « Derniere mise a jour 17 juin 2026 »: la pratique interdite « Il est interdit de publiciser le prix de vente d un immeuble ou tout pourcentage permettant d en deduire le montant »; l interdiction d indiquer « Le prix initialement demande par le vendeur inscrit au contrat de courtage »; et le point de vigilance « Meme avec l accord des deux parties, la publication du prix de vente avant la signature de l acte de vente doit demeurer exceptionnelle »."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-protection-des-renseignements-personnels/communication-des-renseignements-personnels/",
+   "title": "Communication des renseignements personnels, ligne directrice Protection des renseignements personnels, section 7",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-26",
+   "supports": "Sous-section 7.2.4 « Confidentialite du prix vendu et utilisation des comparables », page portant la mention « Derniere mise a jour 26 aout 2026 »: « Tant que l acte de vente n a pas ete publie au Registre foncier, le prix qui y est inscrit constitue un renseignement confidentiel concernant l acheteur et le vendeur », et l obligation de masquer sur les fiches de comparables remises aux clients « les informations permettant d identifier directement ou indirectement le vendeur »."
+  }
+ ],
+ "claims_needing_review": []
+}

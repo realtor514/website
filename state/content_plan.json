@@ -8823,8 +8823,10 @@
     "Ce que ces donnees ne permettent pas de dire"
    ],
    "slug": "marche-haut-de-gamme-montreal-laval-donnees",
-   "status": "in_progress",
-   "distinct_de": "/articles/marche-immobilier-montreal/"
+   "status": "written_draft",
+   "distinct_de": "/articles/marche-immobilier-montreal/",
+   "published_path": "content/fr/articles/marche-haut-de-gamme-montreal-laval-donnees.md",
+   "date": "2026-09-26"
   },
   {
    "id": "t220",
