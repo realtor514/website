@@ -1,0 +1,102 @@
+{
+ "id": "t33",
+ "slug": "maison-passive-novoclimat-quebec",
+ "title": "Maison passive au Québec: le coût et la norme exacte",
+ "target_keyword": "maison passive quebec cout",
+ "word_count": 1777,
+ "category": "Immobilier 101",
+ "internal_links": [
+  "/articles/maison-ecoenergetique-novoclimat-quebec/",
+  "/articles/reduire-facture-chauffage-quebec/",
+  "/articles/budget-grosse-renovation-financement-quebec/",
+  "/articles/declaration-du-vendeur-quebec/",
+  "/articles/choisir-entrepreneur-renovation-rbq-quebec/",
+  "/tools/mortgage/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://passivehouse.com/en/home/building-certification/",
+   "title": "Building Certification",
+   "publisher": "Passive House Institute",
+   "consulted": "2026-09-18",
+   "supports": "Deux normes de batiment publiees par l institut, Passive House pour le neuf et EnerPHit pour la renovation, batis sur cinq principes: isolation thermique, fenetres a haut rendement, ventilation mecanique controlee avec recuperation de chaleur, absence de ponts thermiques, etancheite a l air. Le certificateur n a pas necessairement a visiter le batiment. Le dossier de certification se complete par un test d etancheite, le protocole d ajustement de la ventilation et la declaration du responsable de chantier. Page ou l institut ecrit que la certification augmente la valeur de la propriete, sans avancer aucun chiffre ni nommer de marche."
+  },
+  {
+   "url": "https://univention.passiv.de/nextcloud/s/version10c-2023",
+   "title": "Criteria for Buildings: Passive House, EnerPHit, PHI Low Energy Building, Version 10c, SI units",
+   "publisher": "Passive House Institute",
+   "consulted": "2026-09-18",
+   "supports": "Document de criteres version 10c date du 20 janvier 2023, valide avec PHPP version 10, lie depuis la page officielle de certification de l institut. Norme Passive House: besoin de chauffage 15 kWh par metre carre par annee, critere de remplacement charge de chauffage 10 W par metre carre, resultat du test de pressurisation n50 de 0,6 renouvellement d air a l heure, energie primaire renouvelable PER de 60 kWh par metre carre par annee en classe Classic, 45 en Plus, 30 en Premium avec production d energie renouvelable exigee. EnerPHit: etancheite assouplie a 1,0. Surface de reference calculee dans le PHPP, pas la superficie habitable annoncee."
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/chauffage-consommation-energie/aide-financiere-novoclimat/description",
+   "title": "Description du programme Novoclimat",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-18",
+   "supports": "Novoclimat definit les exigences techniques a respecter lors de la construction pour obtenir une performance energetique superieure a celle qu offre le Code de construction du Quebec, forme et certifie les entrepreneurs, inspecte les habitations pendant la construction et homologue celles qui sont conformes. Page consultee en direct par curl le 2026-09-18, derniere mise a jour affichee le 19 novembre 2025. Cette page porte aussi le lien vers le tableau d estimation du surcout."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/environnement/transition-energetique/residentiel-novoclimat/tableau-surcout-novoclimat.pdf",
+   "title": "Choisir une habitation Novoclimat: un investissement rentable",
+   "publisher": "Ministère de l'Énergie et des Ressources naturelles",
+   "consulted": "2026-09-18",
+   "supports": "Seul ecart de cout publie par le Quebec. Deux cottages de deux etages de 28 pi sur 30 pi, famille de deux adultes et deux enfants. Cout de la maison 394 350 $ en standard et 400 208 $ en Novoclimat, ecart de 5 858 $. Aide financiere de 2 000 $ appliquee, surcouts reels 3 858 $. Frais d interets sur l emprunt du surcout 297 $ par annee, a 6,5 % sur 25 ans avec mise de fonds de 5 %. Cout annuel d energie annee 1: 2 771 $ contre 2 230 $, soit 541 $ de moins. Annee 5: 2 904 $ contre 2 337 $, soit 567 $ de moins, avec hausse annuelle du cout de l energie de 1,17 %. Le PDF ne porte aucune date de publication et ses metadonnees indiquent une creation le 10 juillet 2024. Incoherence relevee dans le document: la note 1 parle d une aide de 4 000 $ pour un premier acheteur alors que la ligne du tableau applique 2 000 $."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/environnement/transition-energetique/residentiel-novoclimat/documents-techniques/exigences-techniques-novoclimat-maison-petit-multilogement.pdf",
+   "title": "Exigences techniques Novoclimat, Maison et petit bâtiment multilogement",
+   "publisher": "Ministère de l'Énergie et des Ressources naturelles",
+   "consulted": "2026-09-18",
+   "supports": "Version revisee le 1er decembre 2023, en vigueur le 1er janvier 2024. Article 2.2.2.1 et tableau 2.2.2.1, fuites d air maximales admissibles: 1,5 CAH a 50 Pa pour un batiment detache, 2,0 CAH a 50 Pa pour un batiment attenant, jumele ou en rangee. Etancheite mesuree par test d infiltrometrie execute selon la norme CAN/CGSB-149.10-M86. Article 2.2.3.2: les planchers en contact avec le sol doivent etre munis d un dispositif permettant le raccordement eventuel d un systeme d evacuation du radon. Articles 3.4.7 sur le local chauffe du ventilateur recuperateur de chaleur. Nature prescriptive des exigences, par opposition au plafond de resultat de la norme passive."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/environnement/transition-energetique/residentiel-novoclimat/documents-techniques/comparatif-exigences-code-construction-novoclimat-maison-petit-multilogement-2021.pdf",
+   "title": "Tableau comparatif des exigences du Code de construction et de Novoclimat, Maison et petit bâtiment multilogement",
+   "publisher": "Ministère de l'Énergie et des Ressources naturelles",
+   "consulted": "2026-09-18",
+   "supports": "Comparaison ligne par ligne entre la reglementation actuelle, partie 11 du Code de construction du Quebec, et les exigences Novoclimat. Ligne Etancheite de l enveloppe: test d infiltrometrie non obligatoire sous la partie 11 du CCQ, test d infiltrometrie obligatoire avec cible de 1,5 CAH 50 sous Novoclimat. Appuie l affirmation que le Code fixe un plancher sans exiger de mesure d etancheite."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/fr/consumers/home-buying/mortgage-loan-insurance-for-consumers/cmhc-eco-products/cmhc-eco-plus",
+   "title": "SCHL Eco Plus: remboursement pour les logements écoénergétiques",
+   "publisher": "SCHL",
+   "consulted": "2026-09-18",
+   "supports": "Remboursement partiel de prime de 25 % pour une habitation ecoenergetique nouvellement construite, donc neuve et jamais occupee, dont le pret est assure par la SCHL. Demande directement a la SCHL dans les deux ans suivant la cloture, delai de traitement annonce de huit a dix semaines. Tableau des certifications admissibles: Homologue Novoclimat Maison, Petit batiment multilogement et Grand batiment multilogement du ministere de l Energie et des Ressources naturelles du Quebec, ainsi que Maison passive certifiee et Renovation certifiee EnerPHit de Maison passive Canada, version 9, niveaux Classique, Plus et Prime. Confirme que la maison passive n ouvre droit a aucune aide quebecoise mais est admissible au remboursement federal, et que la liste de la SCHL nomme la version 9 alors que l institut publie la version 10c."
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/chauffage-consommation-energie/aide-financiere-renovation-ecoenergetique/renoclimat/evaluation-energetique",
+   "title": "Évaluations énergétiques Rénoclimat avant et après travaux",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-18",
+   "supports": "La premiere evaluation avant travaux coute 150 $ plus taxes, montant remboursable lors du versement de l aide financiere Renoclimat. La visite comprend un test d infiltrometrie, un rapport d evaluation, des conseils personnalises et une cote EnerGuide. L evaluation apres travaux est gratuite. Subvention pour des travaux d isolation et d etancheite et le remplacement de portes et de fenetres. Derniere mise a jour affichee le 29 mai 2025."
+  },
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "title": "Déclarations du vendeur sur l'immeuble, formulaire obligatoire DV 00001",
+   "publisher": "OACIQ",
+   "consulted": "2026-09-18",
+   "supports": "Version 24 de juin 2022, formulaire obligatoire pour un immeuble principalement residentiel de moins de 5 logements hors copropriete divise. Question D10.7: l immeuble est-il equipe d un systeme ameliorant l efficacite energetique. Question D10.8: l immeuble a-t-il recu une certification d efficacite energetique, avec les cases imprimees Novoclimat, cote energetique, maison verte, LEED et autre, puis la date de la certification en D10.8 b. Maison passive n a pas de case dediee. Les precisions vont a la section D15. Le formulaire recueille des reponses du vendeur au meilleur de sa connaissance, appuyees par les documents disponibles, ce qui fonde la distinction entre une case cochee et un certificat."
+  },
+  {
+   "url": "https://montreal.ca/programmes/programme-dappui-lacquisition-residentielle",
+   "title": "Programme d'appui à l'acquisition résidentielle",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-09-18",
+   "supports": "Page marquee Termine, mise a jour le 7 juillet 2026. Depuis avril 2026, un credit d impot remboursable pour l acces a la propriete remplace l aide municipale equivalente. A compter du 7 juillet 2026, le programme n accepte plus de nouvelles demandes, sans exception. Les demandes recues avant cette date restent admissibles et seront traitees d ici la fin de 2026. Appuie l affirmation qu il n existe plus de remboursement municipal de droits de mutation a Montreal, et l a fait verifier plutot que devine."
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/chauffage-consommation-energie/aide-financiere-novoclimat/formation-certification/liste-entrepreneurs-certifies",
+   "title": "Listes des entrepreneurs certifiés Novoclimat",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-09-18",
+   "supports": "L homologation Novoclimat garantit la construction des maisons par des entrepreneurs certifies Novoclimat, et Quebec publie le repertoire. Les entrepreneurs Novoclimat Select vendent et certifient annuellement plus de 90 % de leurs constructions neuves Novoclimat. Derniere mise a jour affichee le 11 fevrier 2026."
+  }
+ ],
+ "claims_needing_review": [
+  "Aucune source publique quebecoise ne chiffre le surcout de construction d une maison certifiee passive. L article le dit explicitement et ne propose que le tableau Novoclimat, qui porte sur un autre standard. Toute mise a jour future devrait chercher un devis comparatif publie par un organisme, pas par un constructeur.",
+  "Aucune source publique ne compare le prix de revente de maisons certifiees, Novoclimat ou passives, a celui de maisons equivalentes non certifiees au Quebec. Aucun pourcentage de plus-value n est avance dans l article.",
+  "Le tableau de surcout Novoclimat ne porte pas de date de publication et ses chiffres de construction datent au mieux de juillet 2024. Ils sont presentes comme une estimation de programme et devraient etre reverifies a chaque mise a jour du PDF.",
+  "Incoherence dans le document officiel de Quebec: la note 1 du tableau de surcout mentionne une aide de 4 000 $ pour un premier acheteur alors que la ligne du tableau applique 2 000 $. L article signale l ecart au lieu de choisir un montant."
+ ]
+}

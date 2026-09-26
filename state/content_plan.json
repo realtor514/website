@@ -1435,7 +1435,7 @@
    "translationKey": "article-winter-home-upkeep",
    "needs_expert_review": false,
    "id": "t30",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1458,7 +1458,10 @@
      "s": 0.0964,
      "match": "/articles/particularites-maison-quebecoise/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/entretien-hivernal-maison-quebec.md",
+   "date": "2026-08-27",
+   "note_correction": "L unique_angle de cette ligne etait faux en droit: il disait qu un assureur peut reduire ou refuser l indemnite quand le dommage resulte d un entretien neglige. L article 2464 du Code civil oblige au contraire l assureur a reparer le prejudice cause par la faute de l assure, SAUF exclusion expressement et limitativement stipulee. L article publie corrige cette croyance des sa premiere section. Les planned_h2 de cette ligne etaient aussi une liste de conseils sans chiffres, proscrite par la section 5 du brief, dont cinq des huit dupliquaient des articles publies."
   },
   {
    "ref_id": 1145,
@@ -1583,7 +1586,7 @@
    "translationKey": "article-passive-house-quebec",
    "needs_expert_review": false,
    "id": "t33",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1606,7 +1609,10 @@
      "s": 0.1439,
      "match": "/articles/maison-ecoenergetique-novoclimat-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/maison-passive-novoclimat-quebec.md",
+   "date": "2026-09-26",
+   "distinct_de": "/articles/maison-ecoenergetique-novoclimat-quebec/"
   },
   {
    "ref_id": 1139,
@@ -1828,7 +1834,7 @@
    "translationKey": "article-condo-fee-increase",
    "needs_expert_review": true,
    "id": "t38",
-   "status": "in_progress",
+   "status": "written_draft",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1851,7 +1857,9 @@
      "s": 0.2537,
      "match": "/articles/loi-16-copropriete-acheteur-quebec/"
     }
-   }
+   },
+   "published_path": "content/fr/articles/hausse-frais-de-condo-quebec.md",
+   "date": "2026-09-26"
   },
   {
    "ref_id": 1114,
