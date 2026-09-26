@@ -1,7 +1,7 @@
 ---
 title: "Toit vert et toit blanc à Montréal: le règlement"
-date: 2026-09-08
-lastmod: 2026-09-08
+date: 2026-09-26
+lastmod: 2026-09-26
 translationKey: "article-toit-vert-reflechissant-montreal"
 category: "Guide pratique"
 description: "Toit vert à Montréal: l'indice de réflectance exigé par arrondissement, la charge sur la charpente, le plan d'ingénieur et l'entretien obligatoire."

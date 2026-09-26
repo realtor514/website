@@ -3,15 +3,13 @@
  "slug": "vendre-automne-hiver-presentation-quebec",
  "title": "Vendre sa maison en hiver au Québec: les obligations",
  "target_keyword": "vendre sa maison en hiver quebec",
- "word_count": 1720,
+ "word_count": 1797,
  "category": "Guide du vendeur",
  "internal_links": [
   "/articles/best-time-sell-home-montreal/",
-  "/articles/diffusion-inscription-centris-publicite/",
-  "/articles/visite-libre-vendeur-quebec/",
+  "/articles/deneigement-chute-glace-responsabilite-quebec/",
   "/articles/declaration-du-vendeur-quebec/",
   "/articles/acheter-maison-hiver-montreal/",
-  "/articles/home-staging-client-story/",
   "/articles/cabanon-abri-auto-garage-permis-quebec/",
   "/seller/",
   "/formulaire/"
@@ -36,7 +34,7 @@
   {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
    "title": "Code civil du Quebec, articles 1457, 1465 et 1467",
    "publisher": "Editeur officiel du Quebec", "consulted": "2026-09-24",
-   "supports": "Texte integral des trois articles cite dans la section sur le deneigement de l acces: devoir de conduite et responsabilite du fait des biens sous garde (1457), obligation du gardien de reparer le prejudice cause par le fait autonome du bien a moins qu il prouve n avoir commis aucune faute (1465), responsabilite du proprietaire pour la ruine meme partielle de son immeuble par defaut d entretien ou vice de construction (1467). LegisQuebec repond 502: lu par capture web.archive.org de la page officielle datee du 2026-03-10, via tools/ccq.py."},
+   "supports": "Section sur le deneigement de l acces. L article est desormais cite en abrege pour ne pas refaire /articles/deneigement-chute-glace-responsabilite-quebec/, qui traite ces trois articles au long: seule la formule de 1465, le gardien du bien est tenu de reparer a moins qu il prouve n avoir commis aucune faute, est citee mot pour mot. Les articles 1457 (devoir de conduite et responsabilite du fait des biens sous garde) et 1467 (ruine meme partielle de l immeuble par defaut d entretien ou vice de construction) sont nommes par leur numero. LegisQuebec repond 502: lu par capture web.archive.org de la page officielle datee du 2026-03-10, via tools/ccq.py."},
   {"url": "https://com.apciq.ca/fsmi-stats/mensuelles/2025/stats-202510-fr.pdf",
    "title": "Statistiques mensuelles APCIQ, octobre 2025, page Laval",
    "publisher": "APCIQ", "consulted": "2026-09-24",
@@ -48,7 +46,7 @@
   {"url": "https://apciqca-152af.kxcdn.com/wp-content/uploads/sites/4/2026/02/stats-202601-fr-1.pdf",
    "title": "Statistiques mensuelles APCIQ, janvier 2026, page Laval",
    "publisher": "APCIQ", "consulted": "2026-09-24",
-   "supports": "Laval, janvier 2026: 110 ventes d unifamiliales, 604 inscriptions en vigueur, prix median de 618 000 $, moyenne de 59 jours sur le marche, 486 nouvelles inscriptions toutes categories. Pour le plex de 2 a 5 logements, le prix median et la moyenne de jours portent la mention Nombre de transactions insuffisant pour produire une statistique fiable."},
+   "supports": "Laval, janvier 2026: 110 ventes d unifamiliales, 604 inscriptions en vigueur, prix median de 618 000 $, moyenne de 59 jours sur le marche, 486 nouvelles inscriptions toutes categories."},
   {"url": "https://comapciqca-152af.kxcdn.com/fsmi-stats/mensuelles/2026/stats-202605-fr.pdf",
    "title": "Statistiques mensuelles APCIQ, mai 2026, page Laval",
    "publisher": "APCIQ", "consulted": "2026-09-24",
@@ -56,7 +54,7 @@
   {"url": "https://www.hydroquebec.com/residentiel/espace-clients/consommation/portrait-consommation.html",
    "title": "Portrait de ma consommation",
    "publisher": "Hydro-Quebec", "consulted": "2026-09-24",
-   "supports": "L Espace client offre l outil Portrait de ma consommation: consommation horaire, quotidienne, mensuelle et annuelle, affichee en kilowattheures ou en dollars, comparaison avec la meme periode de l an dernier, et graphique de deux annees consecutives mis en regard de la temperature exterieure moyenne des memes periodes. Le menu de l Espace client donne aussi acces a l Historique de factures et de paiements. Le site d Hydro-Quebec est geo-bloque hors Quebec et renvoie la page Indisponibilite du site Web a partir de l etranger: page officielle lue par capture web.archive.org du 2026-06-08."}
+   "supports": "L Espace client offre l outil Portrait de ma consommation: consommation horaire, quotidienne, mensuelle et annuelle, affichee en kilowattheures ou en dollars, comparaison avec la meme periode de l an dernier, et graphique de deux annees consecutives mis en regard de la temperature exterieure moyenne. Le menu de l Espace client donne aussi acces a l Historique de factures et de paiements. Le site d Hydro-Quebec est geo-bloque hors Quebec et renvoie la page Indisponibilite du site Web a partir de l etranger: page officielle lue par capture web.archive.org du 2026-06-08."}
  ],
  "claims_needing_review": [
   "Recommandation d indiquer le mois de la prise de vue d une photo d ete authentique diffusee en hiver. Aucune regle publiee par l OACIQ ne l exige: la seule exigence explicite de mention porte sur l image generee ou transformee par intelligence artificielle. L article presente donc cette pratique comme une recommandation de jugement et non comme une obligation, mais la formulation merite une relecture par le service de conformite de l agence."

@@ -1,6 +1,6 @@
 ---
 title: "Vendre sa maison en hiver au Québec: les obligations"
-date: 2026-09-24
+date: 2026-09-26
 lastmod: 2026-09-26
 translationKey: "article-vendre-automne-hiver-presentation"
 category: "Guide du vendeur"

@@ -1,7 +1,7 @@
 ---
 title: "Infestation maison Québec: vos recours réels"
-date: 2026-09-02
-lastmod: 2026-09-02
+date: 2026-08-27
+lastmod: 2026-08-27
 translationKey: "article-insectes-rongeurs-infestation-quebec"
 category: "Guide pratique"
 description: "Infestation d'une maison au Québec et recours: ce que la norme d'inspection exclut, le permis C5, la case D6.1 du vendeur, le TAL et l'assurance."
