@@ -521,6 +521,42 @@
    "slug": "toit-vert-toit-reflechissant-montreal-reglement",
    "keyword": "toit vert montreal reglement",
    "state": "in_progress"
+  },
+  {
+   "id": "t30",
+   "slug": "entretien-hivernal-maison-quebec",
+   "keyword": "entretien maison hiver quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t33",
+   "slug": "maison-passive-novoclimat-quebec",
+   "keyword": "maison passive quebec cout",
+   "state": "in_progress"
+  },
+  {
+   "id": "t36",
+   "slug": "acheter-maison-campagne-quebec",
+   "keyword": "acheter maison campagne quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t38",
+   "slug": "hausse-frais-de-condo-quebec",
+   "keyword": "augmentation frais de condo quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t44",
+   "slug": "maisons-abandonnees-ventes-pour-taxes",
+   "keyword": "vente pour taxes municipales quebec",
+   "state": "in_progress"
+  },
+  {
+   "id": "t45",
+   "slug": "permis-abattage-arbres-quebec",
+   "keyword": "permis abattage arbre montreal",
+   "state": "in_progress"
   }
  ],
  "slugs": [
@@ -610,7 +646,13 @@
   "vendre-automne-hiver-presentation-quebec",
   "minimaison-microhabitation-zonage-quebec",
   "generatrice-panne-courant-assurance-quebec",
-  "toit-vert-toit-reflechissant-montreal-reglement"
+  "toit-vert-toit-reflechissant-montreal-reglement",
+  "entretien-hivernal-maison-quebec",
+  "maison-passive-novoclimat-quebec",
+  "acheter-maison-campagne-quebec",
+  "hausse-frais-de-condo-quebec",
+  "maisons-abandonnees-ventes-pour-taxes",
+  "permis-abattage-arbres-quebec"
  ],
  "keywords": [
   "maison difficile a assurer quebec",
@@ -699,7 +741,13 @@
   "vendre sa maison en hiver quebec",
   "minimaison quebec zonage",
   "generatrice maison quebec regles",
-  "toit vert montreal reglement"
+  "toit vert montreal reglement",
+  "entretien maison hiver quebec",
+  "maison passive quebec cout",
+  "acheter maison campagne quebec",
+  "augmentation frais de condo quebec",
+  "vente pour taxes municipales quebec",
+  "permis abattage arbre montreal"
  ],
  "titles": [
   "Pourquoi certaines maisons deviennent difficiles a assurer au Quebec",
@@ -788,6 +836,12 @@
   "Vendre en automne et en hiver au Quebec: presenter la propriete hors saison",
   "Minimaison et microhabitation au Quebec: zonage, financement et assurance",
   "Generatrice, panne de courant prolongee et assurance au Quebec",
-  "Toit vegetalise et toit reflechissant a Montreal: reglement, structure et cout"
+  "Toit vegetalise et toit reflechissant a Montreal: reglement, structure et cout",
+  "Entretien hivernal d'une maison quebecoise: la liste qui evite les sinistres",
+  "Maison passive et Novoclimat au Quebec: cout reel et rendement",
+  "Acheter a la campagne pres de Montreal: les verifications qui changent tout",
+  "Hausse des frais de condo au Quebec: ce que le syndicat peut imposer",
+  "Maisons abandonnees et ventes pour taxes au Quebec",
+  "Abattre des arbres ou deboiser un terrain au Quebec: permis et amendes"
  ]
 }

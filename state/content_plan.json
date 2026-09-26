@@ -958,8 +958,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1128,
-     "match": "/articles/copropriete-indivise-cooperative-montreal/"
+     "s": 0.2486,
+     "match": "/articles/particularites-maison-quebecoise/"
     }
    }
   },
@@ -1306,7 +1306,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1972,
+     "s": 0.1955,
      "match": "/articles/casser-hypotheque-penalite-quebec/"
     }
    },
@@ -1385,7 +1385,7 @@
    "translationKey": "article-comparables-method",
    "needs_expert_review": false,
    "id": "t29",
-   "status": "clear",
+   "status": "already_covered",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1405,10 +1405,12 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.238,
+     "s": 0.235,
      "match": "/articles/comparables-prix-maison-voisin-quebec/"
     }
-   }
+   },
+   "covered_by": "/articles/comparables-prix-maison-voisin-quebec/",
+   "pourquoi_couvert": "meme sujet, meme structure: les criteres du comparable, les ajustements, et pourquoi l evaluation municipale ne sert pas"
   },
   {
    "ref_id": 1151,
@@ -1433,7 +1435,7 @@
    "translationKey": "article-winter-home-upkeep",
    "needs_expert_review": false,
    "id": "t30",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1443,8 +1445,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.368,
-     "match": "/articles/cout-entretien-maison-quebec/"
+     "s": 0.3732,
+     "match": "/articles/particularites-maison-quebecoise/"
     },
     "keyword": {
      "v": "PASS",
@@ -1453,8 +1455,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0919,
-     "match": "/articles/amiante-vermiculite-maison-quebec/"
+     "s": 0.0964,
+     "match": "/articles/particularites-maison-quebecoise/"
     }
    }
   },
@@ -1481,7 +1483,7 @@
    "translationKey": "article-condo-renovation-rules",
    "needs_expert_review": true,
    "id": "t31",
-   "status": "clear",
+   "status": "already_covered",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1497,14 +1499,16 @@
     "keyword": {
      "v": "PASS",
      "s": 0.3333,
-     "match": "/articles/choisir-entrepreneur-renovation-rbq-quebec/"
+     "match": "/articles/budget-grosse-renovation-financement-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.3587,
+     "s": 0.3699,
      "match": "/articles/renovation-condo-copropriete-quebec/"
     }
-   }
+   },
+   "covered_by": "/articles/renovation-condo-copropriete-quebec/",
+   "pourquoi_couvert": "meme sujet: partie privative contre partie commune, autorisation ecrite du syndicat, permis municipal"
   },
   {
    "ref_id": 1143,
@@ -1579,7 +1583,7 @@
    "translationKey": "article-passive-house-quebec",
    "needs_expert_review": false,
    "id": "t33",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1599,7 +1603,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1443,
+     "s": 0.1439,
      "match": "/articles/maison-ecoenergetique-novoclimat-quebec/"
     }
    }
@@ -1627,7 +1631,7 @@
    "translationKey": "article-backwater-valve-flood",
    "needs_expert_review": true,
    "id": "t34",
-   "status": "clear",
+   "status": "already_covered",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1643,14 +1647,16 @@
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/ventre-de-boeuf-drain-montreal/"
+     "match": "/articles/prix-demande-prix-vendu-montreal/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1627,
+     "s": 0.1645,
      "match": "/articles/fonte-neiges-infiltration-clapet-montreal/"
     }
-   }
+   },
+   "covered_by": "/articles/fonte-neiges-infiltration-clapet-montreal/",
+   "pourquoi_couvert": "le volet infiltration et refoulement y est traite avec ses deux avenants; le volet subvention du clapet est dans /articles/renovations-resilience-climat-quebec/ avec les montants RenoPlex et la contradiction entre les deux pages de la Ville"
   },
   {
    "ref_id": 1133,
@@ -1675,7 +1681,7 @@
    "translationKey": "article-foundation-cracks-quebec",
    "needs_expert_review": true,
    "id": "t35",
-   "status": "clear",
+   "status": "already_covered",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1685,20 +1691,22 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2899,
-     "match": "/articles/animaux-copropriete-declaration-quebec/"
+     "s": 0.3754,
+     "match": "/articles/fissures-affaissement-fondation-expertise-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.3333,
-     "match": "/articles/acheter-sans-visiter-visite-virtuelle-quebec/"
+     "s": 0.5,
+     "match": "/articles/fissures-affaissement-fondation-expertise-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0665,
-     "match": "/articles/strategies-negociation-immobilier/"
+     "s": 0.1651,
+     "match": "/articles/fissures-affaissement-fondation-expertise-quebec/"
     }
-   }
+   },
+   "covered_by": "/articles/fissures-affaissement-fondation-expertise-quebec/",
+   "pourquoi_couvert": "meme sujet, jusqu aux quatre memes causes: argile, drainage, pyrite, pyrrhotite"
   },
   {
    "ref_id": 1131,
@@ -1723,7 +1731,7 @@
    "translationKey": "article-country-home-checks",
    "needs_expert_review": true,
    "id": "t36",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1743,7 +1751,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1773,
+     "s": 0.1809,
      "match": "/articles/acheter-un-chalet-quebec-verifications/"
     }
    }
@@ -1791,7 +1799,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.3688,
+     "s": 0.3699,
      "match": "/articles/radon-maison-quebec-depistage/"
     }
    },
@@ -1820,7 +1828,7 @@
    "translationKey": "article-condo-fee-increase",
    "needs_expert_review": true,
    "id": "t38",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -1840,7 +1848,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2491,
+     "s": 0.2537,
      "match": "/articles/loi-16-copropriete-acheteur-quebec/"
     }
    }
@@ -1928,8 +1936,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3983,
-     "match": "/articles/new-construction-guide-quebec/"
+     "s": 0.4009,
+     "match": "/articles/particularites-maison-quebecoise/"
     },
     "keyword": {
      "v": "PASS",
@@ -1938,8 +1946,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1219,
-     "match": "/articles/vente-sans-garantie-legale-quebec/"
+     "s": 0.1501,
+     "match": "/articles/minimaison-microhabitation-zonage-quebec/"
     }
    }
   },
@@ -1986,7 +1994,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1052,
+     "s": 0.1043,
      "match": "/articles/contester-evaluation-municipale-quebec/"
     }
    }
@@ -2014,7 +2022,7 @@
    "translationKey": "article-hiring-contractor-rbq",
    "needs_expert_review": true,
    "id": "t42",
-   "status": "clear",
+   "status": "already_covered",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -2037,7 +2045,9 @@
      "s": 0.2639,
      "match": "/articles/choisir-entrepreneur-renovation-rbq-quebec/"
     }
-   }
+   },
+   "covered_by": "/articles/choisir-entrepreneur-renovation-rbq-quebec/",
+   "pourquoi_couvert": "meme sujet: registre, CNESST, contenu du contrat, acomptes et retenues, hypotheque legale"
   },
   {
    "ref_id": 1093,
@@ -2082,7 +2092,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1312,
+     "s": 0.1268,
      "match": "/articles/casser-hypotheque-penalite-quebec/"
     }
    }
@@ -2110,7 +2120,7 @@
    "translationKey": "article-tax-sale-properties",
    "needs_expert_review": true,
    "id": "t44",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -2120,8 +2130,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3125,
-     "match": "/articles/acheter-sans-visiter-visite-virtuelle-quebec/"
+     "s": 0.3283,
+     "match": "/articles/systeme-alarme-domotique-assurance-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -2130,7 +2140,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0917,
+     "s": 0.0942,
      "match": "/articles/preparer-rencontre-courtier-documents/"
     }
    }
@@ -2158,7 +2168,7 @@
    "translationKey": "article-tree-cutting-permits",
    "needs_expert_review": true,
    "id": "t45",
-   "status": "clear",
+   "status": "in_progress",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -2178,7 +2188,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1722,
+     "s": 0.1707,
      "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
@@ -2216,8 +2226,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.4167,
-     "match": "/articles/cle-en-main-ou-a-renover-quebec/"
+     "s": 0.4199,
+     "match": "/articles/generatrice-panne-courant-assurance-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -2226,8 +2236,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0932,
-     "match": "/articles/acheter-maison-centenaire-quebec/"
+     "s": 0.0947,
+     "match": "/articles/heritage-property-montreal/"
     }
    }
   },
@@ -2270,12 +2280,12 @@
     "keyword": {
      "v": "PASS",
      "s": 0.2857,
-     "match": "/articles/acheter-maison-centenaire-quebec/"
+     "match": "/articles/acheter-fin-ete-montreal-donnees/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1475,
-     "match": "/articles/verifications-immeuble-commercial-quebec/"
+     "s": 0.191,
+     "match": "/articles/rentabiliser-terrain-zonage-quebec/"
     }
    }
   },
@@ -2322,7 +2332,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1279,
+     "s": 0.1221,
      "match": "/articles/contester-evaluation-municipale-quebec/"
     }
    }
@@ -2360,8 +2370,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3812,
-     "match": "/articles/maison-ecoenergetique-novoclimat-quebec/"
+     "s": 0.4125,
+     "match": "/articles/prevention-incendie-assurance-habitation-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -2370,8 +2380,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1003,
-     "match": "/articles/condo-fees-investment-killer/"
+     "s": 0.0969,
+     "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
   },
@@ -2408,8 +2418,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.4396,
-     "match": "/articles/build-real-estate-portfolio/"
+     "s": 0.4482,
+     "match": "/articles/marche-haut-de-gamme-montreal-laval-donnees/"
     },
     "keyword": {
      "v": "PASS",
@@ -2418,7 +2428,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1608,
+     "s": 0.1629,
      "match": "/articles/marche-immobilier-montreal/"
     }
    }
@@ -2456,17 +2466,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.4306,
-     "match": "/articles/vente-sans-garantie-legale-quebec/"
+     "s": 0.5016,
+     "match": "/articles/rentabiliser-terrain-zonage-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.2857,
-     "match": "/articles/vendre-avec-ou-sans-courtier-quebec/"
+     "match": "/articles/rentabiliser-terrain-zonage-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1539,
+     "s": 0.15,
      "match": "/articles/rental-property-management/"
     }
    }
@@ -2509,13 +2519,13 @@
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.3333,
-     "match": "/articles/acheter-sans-visiter-visite-virtuelle-quebec/"
+     "s": 0.6,
+     "match": "/articles/generatrice-panne-courant-assurance-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0936,
-     "match": "/articles/impot-proprietaire-quebec/"
+     "s": 0.1038,
+     "match": "/articles/rentabiliser-terrain-zonage-quebec/"
     }
    }
   },
@@ -2542,7 +2552,7 @@
    "translationKey": "article-wood-stove-rules",
    "needs_expert_review": true,
    "id": "t53",
-   "status": "clear",
+   "status": "parked",
    "source_lot": "plan-1",
    "gate1": {
     "slug": {
@@ -2552,20 +2562,21 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3308,
-     "match": "/articles/maison-intergenerationnelle-laval-montreal/"
+     "s": 0.5,
+     "match": "/articles/poele-foyer-bois-reglement-assurance-quebec/"
     },
     "keyword": {
-     "v": "PASS",
-     "s": 0.2857,
-     "match": "/articles/maison-intergenerationnelle-laval-montreal/"
+     "v": "REVIEW",
+     "s": 0.8,
+     "match": "/articles/poele-foyer-bois-reglement-assurance-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0875,
-     "match": "/articles/vrai-cout-piscine-residentielle-quebec/"
+     "s": 0.3221,
+     "match": "/articles/poele-foyer-bois-reglement-assurance-quebec/"
     }
-   }
+   },
+   "closest_existing": "/articles/poele-foyer-bois-reglement-assurance-quebec/"
   },
   {
    "ref_id": 1013,
@@ -2610,7 +2621,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1257,
+     "s": 0.1265,
      "match": "/articles/preparer-maison-vente/"
     }
    }
@@ -2658,7 +2669,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0918,
+     "s": 0.0851,
      "match": "/articles/marche-immobilier-montreal/"
     }
    }
@@ -2756,8 +2767,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1705,
-     "match": "/articles/valeur-terrain-zonage-quebec/"
+     "s": 0.1562,
+     "match": "/articles/rentabiliser-terrain-zonage-quebec/"
     }
    }
   },
@@ -2804,7 +2815,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.3125,
+     "s": 0.3172,
      "match": "/articles/acheter-un-chalet-quebec-verifications/"
     }
    }
@@ -2852,7 +2863,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2104,
+     "s": 0.2033,
      "match": "/articles/acheter-maison-centenaire-quebec/"
     }
    }
@@ -2900,7 +2911,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2559,
+     "s": 0.2582,
      "match": "/articles/contrat-courtage-vente-quebec/"
     }
    }
@@ -2943,13 +2954,13 @@
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.125,
-     "match": "/articles/acheter-sans-visiter-visite-virtuelle-quebec/"
+     "s": 0.4286,
+     "match": "/articles/sinistres-frequents-couverture-habitation-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1831,
-     "match": "/articles/arbres-propriete-reglements-quebec/"
+     "s": 0.2251,
+     "match": "/articles/sinistres-frequents-couverture-habitation-quebec/"
     }
    }
   },
@@ -2992,11 +3003,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/ventre-de-boeuf-drain-montreal/"
+     "match": "/articles/prix-demande-prix-vendu-montreal/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1075,
+     "s": 0.1102,
      "match": "/articles/ventre-de-boeuf-drain-montreal/"
     }
    }
@@ -3044,7 +3055,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1687,
+     "s": 0.1636,
      "match": "/articles/rental-property-management/"
     }
    }
@@ -3092,7 +3103,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.12,
+     "s": 0.1243,
      "match": "/articles/refinancement-hypothecaire-quebec/"
     }
    }
@@ -3140,7 +3151,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1307,
+     "s": 0.133,
      "match": "/articles/acheteur-etranger-achat-quebec/"
     }
    }
@@ -3178,17 +3189,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2437,
-     "match": "/articles/acheter-maison-hiver-montreal/"
+     "s": 0.2516,
+     "match": "/articles/vendre-automne-hiver-presentation-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.125,
-     "match": "/articles/acheter-sans-visiter-visite-virtuelle-quebec/"
+     "s": 0.4286,
+     "match": "/articles/sinistres-frequents-couverture-habitation-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1066,
+     "s": 0.1111,
      "match": "/articles/acheter-sans-visiter-visite-virtuelle-quebec/"
     }
    }
@@ -3236,7 +3247,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1638,
+     "s": 0.1594,
      "match": "/articles/choisir-entrepreneur-renovation-rbq-quebec/"
     }
    }
@@ -3280,11 +3291,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.4286,
-     "match": "/articles/vice-cache-conditions-recours-quebec/"
+     "match": "/articles/moisissure-maison-detection-recours-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1368,
+     "s": 0.1196,
      "match": "/articles/vice-cache-conditions-recours-quebec/"
     }
    }
@@ -3332,8 +3343,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0664,
-     "match": "/articles/amiante-vermiculite-maison-quebec/"
+     "s": 0.0639,
+     "match": "/articles/adapter-maison-vieillir-chez-soi-quebec/"
     }
    }
   },
@@ -3430,8 +3441,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1441,
-     "match": "/articles/vice-cache-conditions-recours-quebec/"
+     "s": 0.1334,
+     "match": "/articles/vice-cache-pendant-renovation-quebec/"
     }
    }
   },
@@ -3478,7 +3489,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2643,
+     "s": 0.2549,
      "match": "/articles/rental-property-management/"
     }
    }
@@ -3516,18 +3527,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2195,
-     "match": "/articles/senior-downsizing-guide/"
+     "s": 0.383,
+     "match": "/articles/minimaison-microhabitation-zonage-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.25,
-     "match": "/articles/valeur-terrain-zonage-quebec/"
+     "match": "/articles/minimaison-microhabitation-zonage-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1184,
-     "match": "/articles/valeur-terrain-zonage-quebec/"
+     "s": 0.1172,
+     "match": "/articles/verifications-immeuble-commercial-quebec/"
     }
    }
   },
@@ -3574,7 +3585,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1884,
+     "s": 0.1875,
      "match": "/articles/radon-maison-quebec-depistage/"
     }
    }
@@ -3612,18 +3623,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3603,
-     "match": "/articles/choisir-entrepreneur-renovation-rbq-quebec/"
+     "s": 0.3875,
+     "match": "/articles/budget-grosse-renovation-financement-quebec/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.3333,
-     "match": "/articles/choisir-entrepreneur-renovation-rbq-quebec/"
+     "match": "/articles/budget-grosse-renovation-financement-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1179,
-     "match": "/articles/maison-ecoenergetique-novoclimat-quebec/"
+     "s": 0.1184,
+     "match": "/articles/adapter-maison-vieillir-chez-soi-quebec/"
     }
    }
   },
@@ -3660,18 +3671,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3432,
-     "match": "/articles/maison-intergenerationnelle-laval-montreal/"
+     "s": 0.3653,
+     "match": "/articles/toit-vert-toit-reflechissant-montreal-reglement/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.2857,
-     "match": "/articles/maison-intergenerationnelle-laval-montreal/"
+     "s": 0.5,
+     "match": "/articles/poele-foyer-bois-reglement-assurance-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0828,
-     "match": "/articles/arbres-propriete-reglements-quebec/"
+     "s": 0.2735,
+     "match": "/articles/poele-foyer-bois-reglement-assurance-quebec/"
     }
    }
   },
@@ -3763,11 +3774,11 @@
     "keyword": {
      "v": "PASS",
      "s": 0.2857,
-     "match": "/articles/choisir-entrepreneur-renovation-rbq-quebec/"
+     "match": "/articles/budget-grosse-renovation-financement-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1243,
+     "s": 0.1212,
      "match": "/articles/maison-neuve-ou-existante-quebec/"
     }
    }
@@ -3815,7 +3826,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1713,
+     "s": 0.1733,
      "match": "/articles/valeur-terrain-zonage-quebec/"
     }
    }
@@ -3863,8 +3874,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0804,
-     "match": "/articles/senior-downsizing-guide/"
+     "s": 0.4292,
+     "match": "/articles/adapter-maison-vieillir-chez-soi-quebec/"
     }
    }
   },
@@ -3906,13 +3917,13 @@
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.3333,
-     "match": "/articles/acheter-sans-visiter-visite-virtuelle-quebec/"
+     "s": 0.6,
+     "match": "/articles/generatrice-panne-courant-assurance-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1109,
-     "match": "/articles/vrai-cout-piscine-residentielle-quebec/"
+     "s": 0.2172,
+     "match": "/articles/rentabiliser-terrain-zonage-quebec/"
     }
    }
   },
@@ -3959,8 +3970,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0998,
-     "match": "/articles/cout-entretien-maison-quebec/"
+     "s": 0.1227,
+     "match": "/articles/duree-de-vie-composantes-maison-quebec/"
     }
    }
   },
@@ -4058,7 +4069,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1134,
+     "s": 0.119,
      "match": "/articles/loi-16-copropriete-acheteur-quebec/"
     }
    }
@@ -4106,7 +4117,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.154,
+     "s": 0.1556,
      "match": "/articles/verifications-immeuble-commercial-quebec/"
     }
    }
@@ -4154,7 +4165,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2034,
+     "s": 0.213,
      "match": "/articles/arbres-propriete-reglements-quebec/"
     }
    }
@@ -4302,8 +4313,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.135,
-     "match": "/articles/acheter-laval-2025/"
+     "s": 0.3289,
+     "match": "/articles/marche-haut-de-gamme-montreal-laval-donnees/"
     }
    }
   },
@@ -4350,7 +4361,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1773,
+     "s": 0.176,
      "match": "/articles/preparer-rencontre-courtier-documents/"
     }
    }
@@ -4398,7 +4409,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0862,
+     "s": 0.0889,
      "match": "/articles/acheter-zone-inondable-quebec/"
     }
    }
@@ -4436,17 +4447,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3695,
-     "match": "/articles/profil-acheteurs-montreal-laval-vendeur/"
+     "s": 0.3947,
+     "match": "/articles/acheter-fin-ete-montreal-donnees/"
     },
     "keyword": {
      "v": "PASS",
      "s": 0.1429,
-     "match": "/articles/ventre-de-boeuf-drain-montreal/"
+     "match": "/articles/prix-demande-prix-vendu-montreal/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1117,
+     "s": 0.1091,
      "match": "/articles/marche-immobilier-montreal/"
     }
    }
@@ -4474,7 +4485,7 @@
    "translationKey": "article-toiture-duree-vie",
    "needs_expert_review": true,
    "id": "t93",
-   "status": "clear",
+   "status": "parked",
    "source_lot": "plan-3",
    "gate1": {
     "slug": {
@@ -4484,20 +4495,21 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2985,
-     "match": "/articles/location-court-terme-quebec-regles/"
+     "s": 0.5,
+     "match": "/articles/duree-de-vie-composantes-maison-quebec/"
     },
     "keyword": {
-     "v": "PASS",
-     "s": 0.125,
-     "match": "/articles/acheter-sans-visiter-visite-virtuelle-quebec/"
+     "v": "REVIEW",
+     "s": 0.6667,
+     "match": "/articles/duree-de-vie-composantes-maison-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0787,
-     "match": "/articles/banlieue-ou-ville-cout-reel-montreal/"
+     "s": 0.241,
+     "match": "/articles/duree-de-vie-composantes-maison-quebec/"
     }
-   }
+   },
+   "closest_existing": "/articles/duree-de-vie-composantes-maison-quebec/"
   },
   {
    "ref_id": 327,
@@ -4643,7 +4655,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1498,
+     "s": 0.1441,
      "match": "/articles/choisir-entrepreneur-renovation-rbq-quebec/"
     }
    }
@@ -4691,8 +4703,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1388,
-     "match": "/articles/amiante-vermiculite-maison-quebec/"
+     "s": 0.1467,
+     "match": "/articles/radon-maison-quebec-depistage/"
     }
    },
    "closest_existing": "/articles/radon-maison-quebec-depistage/"
@@ -4740,7 +4752,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2676,
+     "s": 0.2799,
      "match": "/articles/location-court-terme-quebec-regles/"
     }
    }
@@ -4787,7 +4799,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2404,
+     "s": 0.2376,
      "match": "/articles/bruit-maison-condo-quebec/"
     }
    }
@@ -4973,8 +4985,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3086,
-     "match": "/articles/radon-maison-quebec-depistage/"
+     "s": 0.3525,
+     "match": "/articles/insectes-rongeurs-infestation-recours-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -4983,7 +4995,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1481,
+     "s": 0.1332,
      "match": "/articles/vice-cache-conditions-recours-quebec/"
     }
    }
@@ -5010,7 +5022,7 @@
    "translationKey": "article-neige-responsabilite",
    "needs_expert_review": true,
    "id": "t104",
-   "status": "clear",
+   "status": "already_covered",
    "source_lot": "plan-4",
    "gate1": {
     "slug": {
@@ -5020,20 +5032,21 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2876,
-     "match": "/articles/impot-proprietaire-quebec/"
+     "s": 0.467,
+     "match": "/articles/deneigement-chute-glace-responsabilite-quebec/"
     },
     "keyword": {
-     "v": "PASS",
-     "s": 0.3333,
-     "match": "/articles/impot-proprietaire-quebec/"
+     "v": "FAIL",
+     "s": 1.0,
+     "match": "/articles/deneigement-chute-glace-responsabilite-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1165,
-     "match": "/articles/visite-libre-vendeur-quebec/"
+     "s": 0.3838,
+     "match": "/articles/deneigement-chute-glace-responsabilite-quebec/"
     }
-   }
+   },
+   "closest_existing": "/articles/deneigement-chute-glace-responsabilite-quebec/"
   },
   {
    "ref_id": 214,
@@ -5067,17 +5080,17 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2366,
-     "match": "/articles/hidden-homeownership-costs/"
+     "s": 0.3753,
+     "match": "/articles/sinistres-frequents-couverture-habitation-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.125,
-     "match": "/articles/acheter-sans-visiter-visite-virtuelle-quebec/"
+     "s": 0.4286,
+     "match": "/articles/sinistres-frequents-couverture-habitation-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1011,
+     "s": 0.1003,
      "match": "/articles/renover-hiver-permis-montreal-laval/"
     }
    }
@@ -5369,7 +5382,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1372,
+     "s": 0.1308,
      "match": "/articles/reduire-facture-chauffage-quebec/"
     }
    }
@@ -5566,7 +5579,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.3037,
+     "s": 0.303,
      "match": "/articles/troubles-de-voisinage-quebec/"
     }
    }
@@ -5712,7 +5725,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2225,
+     "s": 0.2219,
      "match": "/articles/troubles-de-voisinage-quebec/"
     }
    }
@@ -5759,7 +5772,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1097,
+     "s": 0.1095,
      "match": "/articles/maison-neuve-ou-existante-quebec/"
     }
    }
@@ -5904,8 +5917,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0835,
-     "match": "/articles/processus-mise-en-vente-etapes-quebec/"
+     "s": 0.1097,
+     "match": "/articles/cabanon-abri-auto-garage-permis-quebec/"
     }
    }
   },
@@ -6545,7 +6558,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1332,
+     "s": 0.1373,
      "match": "/articles/multilingual-broker-advantage/"
     }
    }
@@ -6593,7 +6606,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1432,
+     "s": 0.1438,
      "match": "/articles/preparer-rencontre-courtier-documents/"
     }
    }
@@ -6842,7 +6855,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2311,
+     "s": 0.2253,
      "match": "/articles/marche-immobilier-montreal/"
     }
    }
@@ -7091,7 +7104,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1354,
+     "s": 0.1364,
      "match": "/articles/down-payment-myth-debunked/"
     }
    }
@@ -7139,7 +7152,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2221,
+     "s": 0.2262,
      "match": "/articles/bruit-maison-condo-quebec/"
     }
    }
@@ -7182,12 +7195,12 @@
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.2857,
-     "match": "/articles/acheter-reprise-de-finance-quebec/"
+     "s": 0.3333,
+     "match": "/articles/generatrice-panne-courant-assurance-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2151,
+     "s": 0.2024,
      "match": "/articles/rental-property-management/"
     }
    }
@@ -7225,8 +7238,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3464,
-     "match": "/articles/conjoints-de-fait-maison-quebec/"
+     "s": 0.3652,
+     "match": "/articles/minimaison-microhabitation-zonage-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -7235,8 +7248,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.107,
-     "match": "/articles/banlieue-ou-ville-cout-reel-montreal/"
+     "s": 0.1607,
+     "match": "/articles/minimaison-microhabitation-zonage-quebec/"
     }
    },
    "distinct_de": "/articles/minimaison-microhabitation-zonage-quebec/",
@@ -7336,7 +7349,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1071,
+     "s": 0.1103,
      "match": "/articles/interest-rates-montreal-market/"
     }
    }
@@ -7374,8 +7387,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.4271,
-     "match": "/articles/garder-ou-vendre-signaux-quebec/"
+     "s": 0.4495,
+     "match": "/articles/vendre-automne-hiver-presentation-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -7384,7 +7397,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1478,
+     "s": 0.1412,
      "match": "/articles/garder-ou-vendre-propriete-quebec/"
     }
    }
@@ -7422,18 +7435,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2689,
-     "match": "/articles/vrai-cout-piscine-residentielle-quebec/"
+     "s": 0.3667,
+     "match": "/articles/duree-de-vie-composantes-maison-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.125,
-     "match": "/articles/acheter-sans-visiter-visite-virtuelle-quebec/"
+     "s": 0.25,
+     "match": "/articles/minimaison-microhabitation-zonage-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0916,
-     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+     "s": 0.1692,
+     "match": "/articles/duree-de-vie-composantes-maison-quebec/"
     }
    }
   },
@@ -7480,8 +7493,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.129,
-     "match": "/articles/preparer-rencontre-courtier-documents/"
+     "s": 0.1308,
+     "match": "/articles/vendre-valeur-inferieure-solde-hypothecaire-quebec/"
     }
    }
   },
@@ -7528,7 +7541,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1765,
+     "s": 0.1737,
      "match": "/articles/maison-neuve-ou-existante-quebec/"
     }
    }
@@ -7576,8 +7589,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0784,
-     "match": "/articles/valeur-terrain-zonage-quebec/"
+     "s": 0.1161,
+     "match": "/articles/rentabiliser-terrain-zonage-quebec/"
     }
    }
   },
@@ -7624,7 +7637,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1044,
+     "s": 0.1015,
      "match": "/articles/acheter-maison-centenaire-quebec/"
     }
    }
@@ -7662,18 +7675,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2435,
-     "match": "/articles/multilingual-broker-advantage/"
+     "s": 0.4119,
+     "match": "/articles/sinistres-frequents-couverture-habitation-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.125,
-     "match": "/articles/acheter-sans-visiter-visite-virtuelle-quebec/"
+     "s": 0.4286,
+     "match": "/articles/sinistres-frequents-couverture-habitation-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1024,
-     "match": "/articles/diffusion-inscription-centris-publicite/"
+     "s": 0.1514,
+     "match": "/articles/sinistres-frequents-couverture-habitation-quebec/"
     }
    }
   },
@@ -7720,7 +7733,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1005,
+     "s": 0.0983,
      "match": "/articles/acheter-laval-2025/"
     }
    }
@@ -7758,18 +7771,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.3308,
-     "match": "/articles/choisir-inspecteur-batiment-quebec/"
+     "s": 0.415,
+     "match": "/articles/sinistres-frequents-couverture-habitation-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.3333,
-     "match": "/articles/choisir-entrepreneur-renovation-rbq-quebec/"
+     "s": 0.5,
+     "match": "/articles/sinistres-frequents-couverture-habitation-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1107,
-     "match": "/articles/ventre-de-boeuf-drain-montreal/"
+     "s": 0.149,
+     "match": "/articles/sinistres-frequents-couverture-habitation-quebec/"
     }
    }
   },
@@ -7867,7 +7880,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1025,
+     "s": 0.0945,
      "match": "/articles/vrai-cout-piscine-residentielle-quebec/"
     }
    }
@@ -7905,8 +7918,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2385,
-     "match": "/articles/vrai-cout-achat-premiere-maison/"
+     "s": 0.2757,
+     "match": "/articles/renovations-resilience-climat-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -7915,7 +7928,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1654,
+     "s": 0.1642,
      "match": "/articles/house-flipping-montreal/"
     }
    }
@@ -7963,7 +7976,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2105,
+     "s": 0.2076,
      "match": "/articles/fonte-neiges-infiltration-clapet-montreal/"
     }
    }
@@ -8011,7 +8024,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1741,
+     "s": 0.1787,
      "match": "/articles/conjoints-de-fait-maison-quebec/"
     }
    }
@@ -8109,7 +8122,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.2377,
+     "s": 0.2227,
      "match": "/articles/acheter-maison-hiver-montreal/"
     }
    },
@@ -8158,7 +8171,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1646,
+     "s": 0.1622,
      "match": "/articles/valeur-terrain-zonage-quebec/"
     }
    }
@@ -8206,7 +8219,7 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.321,
+     "s": 0.3225,
      "match": "/articles/acheter-un-chalet-quebec-verifications/"
     }
    }
@@ -8244,18 +8257,18 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2224,
-     "match": "/articles/acheter-maison-hiver-montreal/"
+     "s": 0.243,
+     "match": "/articles/vendre-automne-hiver-presentation-quebec/"
     },
     "keyword": {
      "v": "PASS",
-     "s": 0.1429,
-     "match": "/articles/acheter-sans-visiter-visite-virtuelle-quebec/"
+     "s": 0.2857,
+     "match": "/articles/duree-de-vie-composantes-maison-quebec/"
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1269,
-     "match": "/articles/fonte-neiges-infiltration-clapet-montreal/"
+     "s": 0.1634,
+     "match": "/articles/deneigement-chute-glace-responsabilite-quebec/"
     }
    }
   },
@@ -8292,8 +8305,8 @@
     },
     "title": {
      "v": "PASS",
-     "s": 0.2957,
-     "match": "/articles/acheter-pour-demolir-permis-quebec/"
+     "s": 0.3475,
+     "match": "/articles/solarium-veranda-permis-evaluation-quebec/"
     },
     "keyword": {
      "v": "PASS",
@@ -8302,8 +8315,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.0739,
-     "match": "/articles/cout-reel-vendre-maison-quebec/"
+     "s": 0.1144,
+     "match": "/articles/duree-de-vie-composantes-maison-quebec/"
     }
    }
   },
@@ -8399,8 +8412,8 @@
     },
     "topic": {
      "v": "PASS",
-     "s": 0.1417,
-     "match": "/articles/impot-proprietaire-quebec/"
+     "s": 0.1395,
+     "match": "/articles/cout-reel-vendre-maison-quebec/"
     }
    },
    "closest_existing": "/articles/acheteur-etranger-achat-quebec/"
