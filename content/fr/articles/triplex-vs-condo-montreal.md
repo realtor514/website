@@ -1,5 +1,5 @@
 ---
-title: "Plex ou copropriété à Montréal : deux engagements, pas un classement"
+title: "Plex ou copropriété à Montréal"
 date: 2026-08-03
 lastmod: 2026-09-21
 category: "Investissement"

@@ -1,5 +1,5 @@
 ---
-title: "Plex à revenus à Montréal et Laval : le guide honnête pour débutants"
+title: "Plex à revenus à Montréal et Laval"
 date: 2026-06-22
 lastmod: 2026-09-19
 category: "Investissement"

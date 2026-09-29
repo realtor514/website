@@ -1,5 +1,5 @@
 ---
-title: "Votre cote de crédit bloque silencieusement votre maison de rêve (et comment y remédier)"
+title: "Cote de crédit et achat d'une propriété"
 date: 2026-05-17
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

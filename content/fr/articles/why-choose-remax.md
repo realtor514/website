@@ -1,5 +1,5 @@
 ---
-title: "Bannière immobilière au Québec : ce qu'elle change dans votre dossier, et ce qu'elle ne change pas"
+title: "Bannière immobilière au Québec : le rôle"
 date: 2026-05-03
 lastmod: 2026-09-21
 category: "Immobilier 101"

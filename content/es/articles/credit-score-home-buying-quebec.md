@@ -1,5 +1,5 @@
 ---
-title: "Su historial de crédito bloquea en silencio la casa que quiere (y cómo arreglarlo)"
+title: "Historial de crédito y compra de vivienda"
 date: 2026-05-17
 lastmod: 2026-09-21
 category: "Guía del Comprador"

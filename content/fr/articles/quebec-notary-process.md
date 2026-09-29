@@ -1,5 +1,5 @@
 ---
-title: "Le notaire au Québec : ce que tout acheteur doit savoir, étape par étape"
+title: "Le notaire au Québec, étape par étape"
 date: 2026-08-04
 lastmod: 2026-09-19
 category: "Immobilier 101"

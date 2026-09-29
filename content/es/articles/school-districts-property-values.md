@@ -1,5 +1,5 @@
 ---
-title: "Escuela de barrio, zona escolar e impuesto escolar: lo que una dirección decide de verdad"
+title: "Zona escolar e impuesto escolar en Quebec"
 date: 2026-06-02
 lastmod: 2026-09-21
 category: "Guía del Comprador"

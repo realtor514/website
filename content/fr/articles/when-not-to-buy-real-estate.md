@@ -1,5 +1,5 @@
 ---
-title: "Huit situations où il ne faut pas acheter, même si la banque dit oui"
+title: "Huit situations où il ne faut pas acheter"
 date: 2026-06-08
 lastmod: 2026-09-21
 category: "Conseils honnêtes"

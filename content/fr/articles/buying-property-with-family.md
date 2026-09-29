@@ -1,5 +1,5 @@
 ---
-title: "Acheter à plusieurs au Québec : l'indivision, la convention, et ce que la loi décide à votre place"
+title: "Acheter à plusieurs au Québec : indivision"
 date: 2026-07-27
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

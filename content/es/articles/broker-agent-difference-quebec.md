@@ -1,5 +1,5 @@
 ---
-title: "Corredor, agente, REALTOR: ¿cuál es la diferencia real en Quebec?"
+title: "Corredor, agente, REALTOR en Quebec"
 date: 2026-07-21
 lastmod: 2026-08-31
 category: "Inmobiliaria 101"

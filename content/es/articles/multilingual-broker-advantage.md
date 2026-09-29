@@ -1,5 +1,5 @@
 ---
-title: "Idioma y transacción inmobiliaria en Quebec: lo que exige la ley"
+title: "Idioma y transacción inmobiliaria, Quebec"
 date: 2026-07-05
 lastmod: 2026-09-23
 category: "Inmobiliaria 101"

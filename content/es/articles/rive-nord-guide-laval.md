@@ -1,5 +1,5 @@
 ---
-title: "Cómo comparar sectores de la Rive-Nord: el método y las fuentes"
+title: "Comparar sectores de la Rive-Nord"
 date: 2026-07-12
 lastmod: 2026-09-21
 category: "Guía del Comprador"

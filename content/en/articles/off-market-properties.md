@@ -1,5 +1,5 @@
 ---
-title: "Off-Market Properties in Quebec: What They Are, What They Cost You, What Your Broker Must Disclose"
+title: "Off-Market Properties in Quebec"
 date: 2026-07-04
 lastmod: 2026-09-21
 category: "Buyer's Guide"

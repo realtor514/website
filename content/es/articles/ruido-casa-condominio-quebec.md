@@ -1,5 +1,5 @@
 ---
-title: "Ruido y aislamiento acústico en condominio en Quebec: qué verificar"
+title: "Ruido y aislamiento en condominio, Quebec"
 date: 2026-08-30
 lastmod: 2026-08-30
 translationKey: "article-bruit-maison-condo"

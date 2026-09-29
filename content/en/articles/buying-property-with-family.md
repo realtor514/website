@@ -1,5 +1,5 @@
 ---
-title: "Buying Property Together in Quebec: Undivided Co-Ownership, the Agreement, and What the Law Decides for You"
+title: "Buying Property Together in Quebec"
 date: 2026-07-27
 lastmod: 2026-09-21
 category: "Buyer's Guide"

@@ -1,5 +1,5 @@
 ---
-title: "Realtor, Broker, Agent: What's the Actual Difference in Quebec?"
+title: "Realtor, Broker, Agent in Quebec"
 date: 2026-07-21
 lastmod: 2026-08-31
 category: "Real Estate 101"

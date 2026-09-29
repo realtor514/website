@@ -1,5 +1,5 @@
 ---
-title: "Retirarse de una propiedad: siete señales que se verifican en papel"
+title: "Retirarse de una propiedad: siete señales"
 date: 2026-07-24
 lastmod: 2026-09-21
 category: "Guía del Comprador"

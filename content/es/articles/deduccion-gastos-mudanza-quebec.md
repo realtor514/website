@@ -1,5 +1,5 @@
 ---
-title: "Gastos de mudanza en Quebec: la regla de los 40 km y qué se deduce"
+title: "Gastos de mudanza en Quebec: regla 40 km"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-deduction-demenagement"

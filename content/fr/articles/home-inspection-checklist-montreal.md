@@ -1,5 +1,5 @@
 ---
-title: "Inspection préachat : la liste de ce qu'on vérifie, poste par poste"
+title: "Inspection préachat : la liste complète"
 date: 2026-06-25
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

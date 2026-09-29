@@ -1,5 +1,5 @@
 ---
-title: "Copropriété ou maison à Montréal : ce que vous achetez vraiment"
+title: "Copropriété ou maison à Montréal"
 date: 2026-05-20
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

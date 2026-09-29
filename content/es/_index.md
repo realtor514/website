@@ -1,5 +1,5 @@
 ---
-title: "Georges Matar | Corredor Inmobiliario Residencial, Laval & Montréal"
+title: "Corredor inmobiliario Laval y Montreal"
 description: "Corredor inmobiliario residencial en Laval, Montreal, Terrebonne y la Rive-Nord. Compra, venta, inversión. Evaluación gratuita. Servicio en 3 idiomas. (438) 372-0102."
 faq:
   - q: "¿Cuánto cuesta un corredor inmobiliario en Quebec?"

@@ -1,5 +1,5 @@
 ---
-title: "Talking About a Montreal Housing Crash: What the Data Lets You Say"
+title: "A Montreal Housing Crash: The Data"
 date: 2026-06-17
 lastmod: 2026-09-21
 category: "Market Insights"

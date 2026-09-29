@@ -1,5 +1,5 @@
 ---
-title: "Promesse d'achat refusée : la méthode pour ne pas surpayer la fois suivante"
+title: "Promesse d'achat refusée : la suite"
 date: 2026-06-11
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

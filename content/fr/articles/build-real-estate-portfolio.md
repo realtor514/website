@@ -1,5 +1,5 @@
 ---
-title: "Comment bâtir un portefeuille immobilier dans le Grand Montréal à partir de zéro"
+title: "Portefeuille immobilier : Grand Montréal"
 date: 2026-05-26
 lastmod: 2026-09-21
 category: "Investissement"

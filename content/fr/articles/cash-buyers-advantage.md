@@ -1,5 +1,5 @@
 ---
-title: "Acheter comptant au Québec : l'avantage réel, le risque réel et ce que la loi exige"
+title: "Acheter comptant au Québec : le vrai risque"
 date: 2026-08-05
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

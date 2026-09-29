@@ -1,5 +1,5 @@
 ---
-title: "Combien de temps faut-il vraiment pour vendre une maison à Montréal?"
+title: "Combien de temps pour vendre à Montréal"
 date: 2026-06-21
 translationKey: "article-combien-temps-vendre"
 category: "Guide du vendeur"

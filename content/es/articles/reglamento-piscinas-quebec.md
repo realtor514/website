@@ -1,5 +1,5 @@
 ---
-title: "Reglamento de piscinas residenciales en Quebec: el plazo del 30 de septiembre de 2027"
+title: "Reglamento de piscinas en Quebec y plazo"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-piscine-reglement"

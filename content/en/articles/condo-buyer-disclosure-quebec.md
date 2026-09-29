@@ -1,5 +1,5 @@
 ---
-title: "Bill 16 and Condo Documents in Quebec: What a Buyer Can Demand Today"
+title: "Bill 16 and Condo Documents in Quebec"
 date: 2026-09-10
 lastmod: 2026-09-10
 translationKey: "article-loi-16-copropriete"

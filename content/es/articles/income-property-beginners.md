@@ -1,5 +1,5 @@
 ---
-title: "Plex de ingresos en Montreal y Laval: la guía honesta para principiantes"
+title: "Plex de ingresos en Montreal y Laval"
 date: 2026-06-22
 lastmod: 2026-09-19
 category: "Inversión"

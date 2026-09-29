@@ -1,5 +1,5 @@
 ---
-title: "Getting Into Homeownership in Quebec in 2026: What Actually Exists for a First-Time Buyer"
+title: "Homeownership in Quebec in 2026"
 date: 2026-07-30
 lastmod: 2026-09-21
 category: "Finance"

@@ -1,5 +1,5 @@
 ---
-title: "Impuesto de bienvenida en Quebec: cuánto, cuándo y quién lo paga"
+title: "Impuesto de bienvenida en Quebec"
 date: 2026-06-05
 lastmod: 2026-09-21
 translationKey: "article-taxe-bienvenue"

@@ -1,5 +1,5 @@
 ---
-title: "Invertir en Laval: lo que hay que verificar antes de comprometerse"
+title: "Invertir en Laval: qué verificar"
 date: 2026-05-01
 lastmod: 2026-09-21
 translationKey: "article-laval-investment"

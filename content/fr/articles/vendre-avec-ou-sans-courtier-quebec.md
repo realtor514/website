@@ -1,5 +1,5 @@
 ---
-title: "Vendre avec ou sans courtier au Québec: la comparaison honnête"
+title: "Vendre avec ou sans courtier au Québec"
 date: 2026-05-09
 lastmod: 2026-09-21
 translationKey: "article-vendre-sans-courtier"

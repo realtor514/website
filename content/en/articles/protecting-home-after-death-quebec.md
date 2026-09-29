@@ -1,5 +1,5 @@
 ---
-title: "Death of a Partner and the Home in Quebec: What to Put in Place First"
+title: "Death of a Partner and the Home, Quebec"
 date: 2026-09-03
 lastmod: 2026-09-03
 translationKey: "article-deces-conjoint"

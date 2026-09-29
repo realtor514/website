@@ -1,5 +1,5 @@
 ---
-title: "Quebec House Construction Features: What a Buyer Should Check"
+title: "Quebec House Construction Features"
 date: 2026-09-25
 lastmod: 2026-09-25
 translationKey: "article-particularites-maison-quebecoise"

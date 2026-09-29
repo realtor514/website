@@ -1,5 +1,5 @@
 ---
-title: "Négocier une propriété à Montréal : les vrais leviers, ceux que le formulaire autorise"
+title: "Négocier une propriété à Montréal"
 date: 2026-07-02
 lastmod: 2026-09-21
 translationKey: "article-strategies-negociation"

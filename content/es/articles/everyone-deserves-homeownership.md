@@ -1,5 +1,5 @@
 ---
-title: "Acceder a la propiedad en Quebec en 2026: lo que realmente existe para un comprador primerizo"
+title: "Acceder a la propiedad en Quebec en 2026"
 date: 2026-07-30
 lastmod: 2026-09-21
 category: "Financiamiento"

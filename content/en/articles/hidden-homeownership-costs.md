@@ -1,5 +1,5 @@
 ---
-title: "The Hidden Costs of Homeownership Nobody Puts in the Brochure"
+title: "The Hidden Costs of Homeownership"
 date: 2026-06-29
 lastmod: 2026-09-21
 category: "Buyer's Guide"

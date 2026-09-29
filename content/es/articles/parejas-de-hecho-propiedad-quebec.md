@@ -1,5 +1,5 @@
 ---
-title: "Parejas de hecho y vivienda en Quebec: qué lo protege realmente"
+title: "Parejas de hecho y vivienda en Quebec"
 date: 2026-08-27
 lastmod: 2026-09-24
 translationKey: "article-conjoints-de-fait"

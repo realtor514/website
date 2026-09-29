@@ -1,5 +1,5 @@
 ---
-title: "Comprar una construcción nueva en Quebec: lo que el folleto no le dice"
+title: "Comprar una construcción nueva en Quebec"
 date: 2026-06-23
 lastmod: 2026-09-19
 category: "Guía del Comprador"

@@ -1,5 +1,5 @@
 ---
-title: "Buying an Old or Heritage Building in Montreal: What Actually Changes"
+title: "Buying a Heritage Building in Montreal"
 date: 2026-06-06
 lastmod: 2026-09-21
 category: "Buyer's Guide"

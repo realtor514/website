@@ -1,5 +1,5 @@
 ---
-title: "Heredar una propiedad en Quebec: lo que los herederos deben saber antes de vender o conservarla"
+title: "Heredar una propiedad en Quebec"
 date: 2026-05-16
 lastmod: 2026-09-21
 category: "Inmobiliaria 101"

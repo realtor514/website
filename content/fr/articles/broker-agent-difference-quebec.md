@@ -1,5 +1,5 @@
 ---
-title: "Courtier, agent, REALTOR : quelle est la vraie différence au Québec ?"
+title: "Courtier, agent, REALTOR au Québec"
 date: 2026-07-21
 lastmod: 2026-08-31
 category: "Immobilier 101"

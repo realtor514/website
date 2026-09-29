@@ -1,5 +1,5 @@
 ---
-title: "Alquiler de corto plazo en Quebec: las reglas antes de comprar"
+title: "Alquiler de corto plazo en Quebec"
 date: 2026-09-16
 lastmod: 2026-09-23
 translationKey: "article-short-term-rental-rules"

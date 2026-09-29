@@ -1,5 +1,5 @@
 ---
-title: "Everything First-Time Buyers Need to Know About Mortgages in Quebec"
+title: "First-Time Buyer Mortgages in Quebec"
 date: 2026-07-29
 lastmod: 2026-09-21
 translationKey: "article-guide-hypotheque"

@@ -1,5 +1,5 @@
 ---
-title: "Quand mettre sa propriété en vente à Montréal: ce que disent les chiffres mensuels"
+title: "Quand vendre sa propriété à Montréal"
 date: 2026-05-12
 lastmod: 2026-09-23
 category: "Guide du vendeur"

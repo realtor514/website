@@ -1,5 +1,5 @@
 ---
-title: "Buying New Construction in Quebec: What the Brochure Doesn't Tell You"
+title: "Buying New Construction in Quebec"
 date: 2026-06-23
 lastmod: 2026-09-19
 category: "Buyer's Guide"

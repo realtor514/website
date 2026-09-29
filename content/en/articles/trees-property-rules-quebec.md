@@ -1,5 +1,5 @@
 ---
-title: "Cutting Down a Tree in Quebec: The By-law and Who Owns the Tree"
+title: "Cutting Down a Tree in Quebec"
 date: 2026-08-31
 lastmod: 2026-09-23
 translationKey: "article-arbres-propriete"

@@ -1,5 +1,5 @@
 ---
-title: "Maison intergénérationnelle à Laval et Montréal : le règlement"
+title: "Maison intergénérationnelle à Laval"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-intergenerationnelle"

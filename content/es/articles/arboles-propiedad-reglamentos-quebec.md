@@ -1,5 +1,5 @@
 ---
-title: "Talar un árbol en Quebec: el reglamento y de quién es el árbol"
+title: "Talar un árbol en Quebec: el reglamento"
 date: 2026-08-31
 lastmod: 2026-09-23
 translationKey: "article-arbres-propriete"

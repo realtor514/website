@@ -1,5 +1,5 @@
 ---
-title: "Choosing a Home Inspector in Quebec: What to Verify Before You Hire"
+title: "Choosing a Home Inspector in Quebec"
 date: 2026-08-26
 lastmod: 2026-09-23
 translationKey: "article-choisir-inspecteur"

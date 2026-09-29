@@ -1,5 +1,5 @@
 ---
-title: "École de quartier, bassin scolaire et taxe scolaire : ce qu'une adresse détermine vraiment"
+title: "Bassin scolaire et taxe scolaire au Québec"
 date: 2026-06-02
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

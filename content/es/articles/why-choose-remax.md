@@ -1,5 +1,5 @@
 ---
-title: "La marca inmobiliaria en Quebec: lo que cambia en su expediente, y lo que no cambia"
+title: "La marca inmobiliaria en Quebec"
 date: 2026-05-03
 lastmod: 2026-09-21
 category: "Inmobiliaria 101"

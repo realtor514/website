@@ -1,5 +1,5 @@
 ---
-title: "Moving in Montreal or Laval: The Complete Checklist, Deadline by Deadline"
+title: "Moving in Montreal or Laval: Checklist"
 date: 2026-06-04
 lastmod: 2026-09-21
 category: "Practical Guide"

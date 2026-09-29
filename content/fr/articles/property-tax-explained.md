@@ -1,5 +1,5 @@
 ---
-title: "Les taxes foncières à Montréal et Laval : une explication complète"
+title: "Taxes foncières à Montréal et Laval"
 date: 2026-05-25
 lastmod: 2026-09-19
 category: "Financement"

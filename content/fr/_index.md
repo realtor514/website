@@ -1,5 +1,5 @@
 ---
-title: "Georges Matar | Courtier Immobilier Résidentiel - Laval & Montréal"
+title: "Courtier immobilier Laval et Montréal"
 description: "Courtier immobilier résidentiel à Laval, Montréal, Terrebonne et sur la Rive-Nord. Achat, vente, investissement. Évaluation gratuite. Service en 3 langues. (438) 372-0102."
 faq:
   - q: "Combien coûte un courtier immobilier au Québec?"

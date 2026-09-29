@@ -1,5 +1,5 @@
 ---
-title: "Su primera visita a una propiedad: qué revisar antes de enamorarse"
+title: "Su primera visita a una propiedad"
 date: 2026-07-22
 lastmod: 2026-09-21
 category: "Guía del Comprador"

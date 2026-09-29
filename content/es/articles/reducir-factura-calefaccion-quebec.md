@@ -1,5 +1,5 @@
 ---
-title: "Cómo reducir su factura de calefacción en Quebec: por dónde empezar"
+title: "Reducir su factura de calefacción, Quebec"
 date: 2026-09-22
 lastmod: 2026-09-23
 translationKey: "article-facture-chauffage"

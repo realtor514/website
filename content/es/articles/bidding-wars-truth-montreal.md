@@ -1,5 +1,5 @@
 ---
-title: "Guerra de ofertas en Montreal: cómo funciona de verdad una sobrepuja en Quebec"
+title: "Guerra de ofertas en Montreal: sobrepuja"
 date: 2026-06-13
 lastmod: 2026-09-21
 category: "Guía del Comprador"

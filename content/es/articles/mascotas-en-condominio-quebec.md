@@ -1,5 +1,5 @@
 ---
-title: "Mascotas prohibidas en un condominio de Quebec: dónde vive la regla"
+title: "Mascotas en un condominio de Quebec"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-animaux-condo"

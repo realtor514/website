@@ -1,5 +1,5 @@
 ---
-title: "Your Promise to Purchase Was Refused: The Method for Not Overpaying Next Time"
+title: "Your Promise to Purchase Was Refused"
 date: 2026-06-11
 lastmod: 2026-09-21
 category: "Buyer's Guide"

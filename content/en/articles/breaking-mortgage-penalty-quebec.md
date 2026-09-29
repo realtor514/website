@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Penalty in Quebec: How Breaking Your Mortgage Is Calculated"
+title: "Mortgage Penalty in Quebec: The Math"
 date: 2026-09-05
 lastmod: 2026-09-05
 translationKey: "article-casser-hypotheque"

@@ -1,5 +1,5 @@
 ---
-title: "Contrato de corretaje de venta en Quebec: cláusula por cláusula"
+title: "Contrato de corretaje de venta en Quebec"
 date: 2026-09-02
 lastmod: 2026-09-23
 translationKey: "article-contrat-courtage-vente"

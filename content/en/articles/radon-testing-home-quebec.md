@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing a Home in Quebec: The Timeline Nobody Plans For"
+title: "Radon Testing a Home in Quebec"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-radon-quebec"

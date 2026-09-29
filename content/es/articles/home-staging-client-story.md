@@ -1,5 +1,5 @@
 ---
-title: "Preparar una propiedad antes de la venta: el método y el límite deontológico"
+title: "Preparar una propiedad antes de la venta"
 date: 2026-07-10
 lastmod: 2026-09-21
 category: "Guía del Vendedor"

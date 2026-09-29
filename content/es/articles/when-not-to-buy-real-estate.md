@@ -1,5 +1,5 @@
 ---
-title: "Ocho situaciones en las que no hay que comprar, aunque el banco diga que sí"
+title: "Ocho situaciones para no comprar"
 date: 2026-06-08
 lastmod: 2026-09-21
 category: "Guía del Comprador"

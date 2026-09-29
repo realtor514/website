@@ -1,5 +1,5 @@
 ---
-title: "Comprar un inmueble antiguo o patrimonial en Montreal: lo que cambia de verdad"
+title: "Comprar un inmueble patrimonial"
 date: 2026-06-06
 lastmod: 2026-09-21
 category: "Guía del Comprador"

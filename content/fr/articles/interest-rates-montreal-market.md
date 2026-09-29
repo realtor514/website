@@ -1,5 +1,5 @@
 ---
-title: "Taux d'intérêt et marché immobilier de Montréal : comment ça se transmet vraiment"
+title: "Taux d'intérêt et marché de Montréal"
 date: 2026-07-13
 lastmod: 2026-09-21
 category: "Financement"

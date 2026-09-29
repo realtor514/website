@@ -1,5 +1,5 @@
 ---
-title: "Los costos ocultos de ser propietario que nadie pone en el folleto"
+title: "Los costos ocultos de ser propietario"
 date: 2026-06-29
 lastmod: 2026-09-21
 category: "Guía del Comprador"

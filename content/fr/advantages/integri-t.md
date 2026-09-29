@@ -1,5 +1,5 @@
 ---
-title: "Intégri-T : jusqu'à 50 000 $ de protection contre les vices cachés"
+title: "Intégri-T : protection des vices cachés"
 description: "La garantie exclusive de RE/MAX Québec, en partenariat avec ACQ Résidentiel, qui protège acheteurs et vendeurs contre les vices cachés pendant 3 ans après l'acte notarié."
 program: "Intégri-T"
 eyebrow: "Garantie exclusive RE/MAX Québec"

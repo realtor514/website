@@ -1,5 +1,5 @@
 ---
-title: "Catchment School, School Choice and School Tax: What a Quebec Address Really Decides"
+title: "Catchment School and School Tax in Quebec"
 date: 2026-06-02
 lastmod: 2026-09-21
 category: "Buyer's Guide"

@@ -1,5 +1,5 @@
 ---
-title: "Cómo construir una cartera inmobiliaria en el Gran Montreal desde cero"
+title: "Cartera inmobiliaria en el Gran Montreal"
 date: 2026-05-26
 lastmod: 2026-09-21
 category: "Inversión"

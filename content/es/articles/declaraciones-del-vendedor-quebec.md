@@ -1,5 +1,5 @@
 ---
-title: "Las declaraciones del vendedor en Quebec: el formulario DV 00001"
+title: "Declaraciones del vendedor: DV 00001"
 date: 2026-09-06
 lastmod: 2026-09-23
 translationKey: "article-declaration-vendeur"

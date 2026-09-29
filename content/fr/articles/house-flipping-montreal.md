@@ -1,5 +1,5 @@
 ---
-title: "Le retournement de propriétés à Montréal : les vrais chiffres que personne ne vous montre"
+title: "Retournement de propriétés à Montréal"
 date: 2026-05-21
 lastmod: 2026-09-21
 category: "Investissement"

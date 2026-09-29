@@ -1,5 +1,5 @@
 ---
-title: "Tout ce que les premiers acheteurs doivent savoir sur les hypothèques au Québec"
+title: "Hypothèque du premier acheteur au Québec"
 date: 2026-07-29
 lastmod: 2026-09-21
 translationKey: "article-guide-hypotheque"

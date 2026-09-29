@@ -1,5 +1,5 @@
 ---
-title: "Income Plexes in Montreal and Laval: An Honest Beginner's Guide"
+title: "Income Plexes in Montreal and Laval"
 date: 2026-06-22
 lastmod: 2026-09-19
 category: "Investment"

@@ -1,5 +1,5 @@
 ---
-title: "Negotiating a Property in Montreal: The Real Levers, the Ones the Form Allows"
+title: "Negotiating a Property in Montreal"
 date: 2026-07-02
 lastmod: 2026-09-21
 translationKey: "article-strategies-negociation"

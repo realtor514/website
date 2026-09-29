@@ -1,5 +1,5 @@
 ---
-title: "Tasas de interés y mercado inmobiliario de Montreal: cómo se transmite de verdad"
+title: "Tasas de interés y mercado de Montreal"
 date: 2026-07-13
 lastmod: 2026-09-21
 category: "Financiamiento"

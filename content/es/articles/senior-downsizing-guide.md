@@ -1,5 +1,5 @@
 ---
-title: "Vender la casa familiar y mudarse a algo más pequeño: guía para personas mayores en el Gran Montreal"
+title: "Vender la casa familiar: guía para mayores"
 date: 2026-07-17
 lastmod: 2026-09-19
 category: "Guía del Vendedor"

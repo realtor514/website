@@ -1,5 +1,5 @@
 ---
-title: "Mudarse en Montreal o Laval: la lista completa, plazo por plazo"
+title: "Mudarse en Montreal o Laval: la lista"
 date: 2026-06-04
 lastmod: 2026-09-21
 category: "Guía práctica"

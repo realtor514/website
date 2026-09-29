@@ -1,5 +1,5 @@
 ---
-title: "Renting or Buying in Greater Montreal: The Calculation Almost Everyone Gets Wrong"
+title: "Renting or Buying in Greater Montreal"
 date: 2026-05-23
 lastmod: 2026-09-21
 category: "Finance"

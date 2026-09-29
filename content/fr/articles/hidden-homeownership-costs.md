@@ -1,5 +1,5 @@
 ---
-title: "Les coûts cachés de la propriété que personne ne met dans la brochure"
+title: "Les coûts cachés de la propriété"
 date: 2026-06-29
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

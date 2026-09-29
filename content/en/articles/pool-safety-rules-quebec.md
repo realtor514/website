@@ -1,5 +1,5 @@
 ---
-title: "Quebec Residential Pool Rules: The 30 September 2027 Deadline"
+title: "Quebec Residential Pool Rules and Deadline"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-piscine-reglement"

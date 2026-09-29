@@ -1,5 +1,5 @@
 ---
-title: "Avantages fiscaux des premiers acheteurs au Québec en 2026 : ce à quoi vous avez droit"
+title: "Avantages fiscaux du premier acheteur 2026"
 date: 2026-05-05
 lastmod: 2026-09-19
 category: "Financement"

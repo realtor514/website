@@ -1,5 +1,5 @@
 ---
-title: "Comment préparer votre maison pour la vente à Montréal et Laval"
+title: "Préparer sa maison pour la vente à Laval"
 date: 2026-05-10
 lastmod: 2026-09-21
 translationKey: "article-preparer-maison-vente"

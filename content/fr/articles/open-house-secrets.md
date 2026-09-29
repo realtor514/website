@@ -1,5 +1,5 @@
 ---
-title: "Visite libre : le courtier à la porte travaille pour le vendeur"
+title: "Visite libre : le courtier et le vendeur"
 date: 2026-06-30
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

@@ -1,5 +1,5 @@
 ---
-title: "Jornada de puertas abiertas en Quebec: lo que el vendedor debe controlar"
+title: "Jornada de puertas abiertas en Quebec"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-visite-libre-vendeur"

@@ -1,5 +1,5 @@
 ---
-title: "Cuando una transacción se descarrila en Quebec: siete fallas que se repiten, y la regla que las evita"
+title: "Cuando una transacción se descarrila"
 date: 2026-05-28
 lastmod: 2026-09-23
 category: "Inmobiliaria 101"

@@ -1,5 +1,5 @@
 ---
-title: "Casa Novoclimat en Quebec: qué compra realmente la certificación"
+title: "Casa Novoclimat en Quebec: qué compra"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-novoclimat-leed"

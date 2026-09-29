@@ -1,5 +1,5 @@
 ---
-title: "Intergenerational Home in Laval and Montreal: What the By-law Actually Says"
+title: "Intergenerational Home in Laval"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-intergenerationnelle"

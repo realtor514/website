@@ -1,5 +1,5 @@
 ---
-title: "Moving Expenses in Quebec: The 40 km Rule and What Is Deductible"
+title: "Moving Expenses in Quebec: The 40 km Rule"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-deduction-demenagement"

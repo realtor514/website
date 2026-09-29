@@ -1,5 +1,5 @@
 ---
-title: "El notario en Quebec: lo que todo comprador debe saber, paso a paso"
+title: "El notario en Quebec, paso a paso"
 date: 2026-08-04
 lastmod: 2026-09-19
 category: "Inmobiliaria 101"

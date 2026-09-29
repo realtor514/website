@@ -1,5 +1,5 @@
 ---
-title: "The Notary in Quebec: What Every Buyer Needs to Know, Step by Step"
+title: "The Notary in Quebec, Step by Step"
 date: 2026-08-04
 lastmod: 2026-09-19
 category: "Real Estate 101"

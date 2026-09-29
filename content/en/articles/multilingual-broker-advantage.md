@@ -1,5 +1,5 @@
 ---
-title: "Language and Your Real Estate Transaction in Quebec: What the Law Requires"
+title: "Language and Your Transaction in Quebec"
 date: 2026-07-05
 lastmod: 2026-09-23
 category: "Real Estate 101"

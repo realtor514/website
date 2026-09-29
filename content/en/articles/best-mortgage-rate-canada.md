@@ -1,5 +1,5 @@
 ---
-title: "The Best Mortgage Rate in Canada: What Gets Decided Before the Rate"
+title: "The Best Mortgage Rate in Canada"
 date: 2026-07-07
 lastmod: 2026-09-21
 category: "Finance"

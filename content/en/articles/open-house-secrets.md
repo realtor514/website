@@ -1,5 +1,5 @@
 ---
-title: "At an Open House, the Broker at the Door Works for the Seller"
+title: "Open House: The Broker and the Seller"
 date: 2026-06-30
 lastmod: 2026-09-21
 category: "Buyer's Guide"

@@ -1,5 +1,5 @@
 ---
-title: "5 preguntas que debe hacer antes de contratar a un corredor inmobiliario"
+title: "5 preguntas antes de elegir un corredor"
 date: 2026-06-15
 lastmod: 2026-09-21
 category: "Inmobiliaria 101"

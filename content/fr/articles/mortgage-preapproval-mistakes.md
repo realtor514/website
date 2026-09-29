@@ -1,5 +1,5 @@
 ---
-title: "Préapprobation hypothécaire : ce qu'elle garantit, ce qu'elle ne garantit pas"
+title: "Préapprobation hypothécaire : les limites"
 date: 2026-07-06
 lastmod: 2026-09-21
 category: "Financement"

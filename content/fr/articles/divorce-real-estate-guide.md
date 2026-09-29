@@ -1,5 +1,5 @@
 ---
-title: "Séparation, divorce et maison au Québec : ce que vous devez savoir"
+title: "Séparation, divorce et maison au Québec"
 date: 2026-06-20
 lastmod: 2026-09-21
 category: "Immobilier 101"

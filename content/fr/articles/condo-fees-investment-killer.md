@@ -1,5 +1,5 @@
 ---
-title: "Frais de condo et fonds de prévoyance : ce qu'il faut vérifier avant d'acheter"
+title: "Frais de condo et fonds de prévoyance"
 date: 2026-08-01
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

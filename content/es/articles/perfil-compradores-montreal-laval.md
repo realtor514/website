@@ -1,5 +1,5 @@
 ---
-title: "Perfil de los compradores en Montreal y Laval: lo que dicen los datos"
+title: "Perfil de los compradores en Montreal"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-profil-acheteurs"

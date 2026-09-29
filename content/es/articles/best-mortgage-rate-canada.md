@@ -1,5 +1,5 @@
 ---
-title: "La mejor tasa hipotecaria en Canadá: lo que se decide antes de la tasa"
+title: "La mejor tasa hipotecaria en Canadá"
 date: 2026-07-07
 lastmod: 2026-09-21
 category: "Financiamiento"

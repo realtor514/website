@@ -1,5 +1,5 @@
 ---
-title: "Acheter une construction neuve au Québec : ce que la brochure ne vous dit pas"
+title: "Acheter une construction neuve au Québec"
 date: 2026-06-23
 lastmod: 2026-09-19
 category: "Guide de l'acheteur"

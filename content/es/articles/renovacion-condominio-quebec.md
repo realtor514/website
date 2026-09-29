@@ -1,5 +1,5 @@
 ---
-title: "Renovar su condominio en Quebec: el verdadero límite de lo que puede tocar"
+title: "Renovar su condominio en Quebec: el límite"
 date: 2026-09-23
 lastmod: 2026-09-23
 translationKey: "article-renovation-condo"

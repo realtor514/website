@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Pre-Approval: What It Guarantees and What It Does Not"
+title: "Mortgage Pre-Approval: The Limits"
 date: 2026-07-06
 lastmod: 2026-09-21
 category: "Finance"

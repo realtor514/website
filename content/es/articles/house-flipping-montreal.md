@@ -1,5 +1,5 @@
 ---
-title: "Comprar para revender en Montreal: las cifras reales que nadie le muestra"
+title: "Comprar para revender en Montreal"
 date: 2026-05-21
 lastmod: 2026-09-21
 category: "Inversión"

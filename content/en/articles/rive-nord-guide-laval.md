@@ -1,5 +1,5 @@
 ---
-title: "How to Compare North Shore Sectors: The Method and the Sources"
+title: "Comparing North Shore Sectors in Laval"
 date: 2026-07-12
 lastmod: 2026-09-21
 category: "Buyer's Guide"

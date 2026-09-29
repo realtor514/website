@@ -1,5 +1,5 @@
 ---
-title: "The Real Cost of Living in the Montreal Suburbs: The Honest Math"
+title: "The Real Cost of the Montreal Suburbs"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-banlieue-vs-ville"

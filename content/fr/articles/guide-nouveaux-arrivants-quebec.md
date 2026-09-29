@@ -1,5 +1,5 @@
 ---
-title: "Guide complet pour les nouveaux arrivants qui veulent acheter une propriété au Québec"
+title: "Nouveaux arrivants : acheter au Québec"
 date: 2026-07-16
 lastmod: 2026-09-21
 translationKey: "article-guide-nouveaux-arrivants"

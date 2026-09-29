@@ -1,5 +1,5 @@
 ---
-title: "Langue et transaction immobilière au Québec : ce que la loi exige"
+title: "Langue et transaction immobilière, Québec"
 date: 2026-07-05
 lastmod: 2026-09-23
 category: "Immobilier 101"

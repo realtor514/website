@@ -1,5 +1,5 @@
 ---
-title: "New Home Warranty in Quebec: The GCR Plan at 1, 3 and 5 Years"
+title: "New Home Warranty in Quebec: The GCR Plan"
 date: 2026-09-23
 lastmod: 2026-09-24
 translationKey: "article-garantie-gcr"

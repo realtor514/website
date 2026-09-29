@@ -1,5 +1,5 @@
 ---
-title: "Première visite d'une propriété : quoi vérifier avant de tomber amoureux"
+title: "Première visite : la liste de vérification"
 date: 2026-07-22
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

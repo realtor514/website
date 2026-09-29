@@ -1,5 +1,5 @@
 ---
-title: "Sale Without Legal Warranty in Quebec: What It Actually Changes"
+title: "Sale Without Legal Warranty in Quebec"
 date: 2026-09-21
 lastmod: 2026-09-23
 translationKey: "article-as-is-sale-quebec"

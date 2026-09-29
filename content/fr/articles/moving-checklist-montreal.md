@@ -1,5 +1,5 @@
 ---
-title: "Déménager à Montréal ou à Laval : la liste complète, échéance par échéance"
+title: "Déménager à Montréal ou Laval : la liste"
 date: 2026-06-04
 lastmod: 2026-09-21
 category: "Guide pratique"

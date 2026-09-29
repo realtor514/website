@@ -1,5 +1,5 @@
 ---
-title: "Plex o condominio en Montréal: dos compromisos, no una clasificación"
+title: "Plex o condominio en Montreal"
 date: 2026-08-03
 lastmod: 2026-09-21
 category: "Inversión"

@@ -1,5 +1,5 @@
 ---
-title: "Comprar entre varios en Quebec: la indivisión, el convenio y lo que la ley decide por usted"
+title: "Comprar entre varios en Quebec"
 date: 2026-07-27
 lastmod: 2026-09-21
 category: "Guía del Comprador"

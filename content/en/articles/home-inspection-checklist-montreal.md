@@ -1,5 +1,5 @@
 ---
-title: "The Home Inspection Checklist: What Gets Checked, Item by Item"
+title: "The Home Inspection Checklist, Item by Item"
 date: 2026-06-25
 lastmod: 2026-09-21
 category: "Buyer's Guide"

@@ -1,5 +1,5 @@
 ---
-title: "Your First Property Visit: What to Check Before You Fall in Love"
+title: "Your First Property Visit: What to Check"
 date: 2026-07-22
 lastmod: 2026-09-21
 category: "Buyer's Guide"

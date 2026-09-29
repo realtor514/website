@@ -1,5 +1,5 @@
 ---
-title: "Louer ou acheter dans le Grand Montréal : le calcul que presque tout le monde fait mal"
+title: "Louer ou acheter dans le Grand Montréal"
 date: 2026-05-23
 lastmod: 2026-09-21
 category: "Financement"

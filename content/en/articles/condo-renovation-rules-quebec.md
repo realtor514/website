@@ -1,5 +1,5 @@
 ---
-title: "Renovating a Condo in Quebec: The Limit Nobody Reads Until Too Late"
+title: "Renovating a Condo in Quebec: The Limit"
 date: 2026-09-23
 lastmod: 2026-09-23
 translationKey: "article-renovation-condo"

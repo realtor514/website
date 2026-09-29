@@ -1,5 +1,5 @@
 ---
-title: "Comprar en Laval: los seis sectores, el transporte, los impuestos y las verificaciones"
+title: "Comprar en Laval: los seis sectores"
 date: 2026-05-19
 lastmod: 2026-09-21
 translationKey: "article-buying-in-laval"

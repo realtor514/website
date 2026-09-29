@@ -1,5 +1,5 @@
 ---
-title: "Todo lo que los Compradores Primerizos Necesitan Saber Sobre las Hipotecas en Quebec"
+title: "Hipotecas en Quebec para primerizos"
 date: 2026-07-29
 lastmod: 2026-09-21
 translationKey: "article-guide-hypotheque"

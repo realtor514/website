@@ -1,5 +1,5 @@
 ---
-title: "Interest Rates and the Montreal Market: How the Transmission Actually Works"
+title: "Interest Rates and the Montreal Market"
 date: 2026-07-13
 lastmod: 2026-09-21
 category: "Finance"

@@ -1,5 +1,5 @@
 ---
-title: "Marché immobilier de Montréal et Laval: lire les données, pas les prédictions"
+title: "Marché immobilier de Montréal et Laval"
 date: 2026-05-29
 lastmod: 2026-09-21
 translationKey: "article-marche-immobilier-montreal"

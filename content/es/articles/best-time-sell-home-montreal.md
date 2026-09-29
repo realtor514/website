@@ -1,5 +1,5 @@
 ---
-title: "Cuándo poner su propiedad a la venta en Montréal: lo que dicen las cifras mensuales"
+title: "Cuándo vender su propiedad en Montreal"
 date: 2026-05-12
 lastmod: 2026-09-23
 category: "Guía del Vendedor"

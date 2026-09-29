@@ -1,5 +1,5 @@
 ---
-title: "Ocho mitos inmobiliarios, y la regla que contradice a cada uno"
+title: "Ocho mitos inmobiliarios, y las reglas"
 date: 2026-05-31
 lastmod: 2026-09-21
 category: "Inmobiliaria 101"

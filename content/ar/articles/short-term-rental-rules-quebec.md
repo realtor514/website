@@ -1,5 +1,5 @@
 ---
-title: "التأجير قصير الأمد في كيبيك: القواعد التي تتحقق منها قبل الشراء"
+title: "التأجير قصير الأمد في كيبيك: القواعد  [bytes=66]"
 date: 2026-09-16
 lastmod: 2026-09-23
 translationKey: "article-short-term-rental-rules"

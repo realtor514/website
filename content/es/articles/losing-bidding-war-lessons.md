@@ -1,5 +1,5 @@
 ---
-title: "Su promesa de compra fue rechazada: el método para no pagar de más la próxima vez"
+title: "Su promesa de compra fue rechazada"
 date: 2026-06-11
 lastmod: 2026-09-21
 category: "Guía del Comprador"

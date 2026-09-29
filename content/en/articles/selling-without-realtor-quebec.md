@@ -1,5 +1,5 @@
 ---
-title: "Selling With or Without a Realtor in Quebec: The Honest Comparison"
+title: "Selling With or Without a Realtor, Quebec"
 date: 2026-05-09
 lastmod: 2026-09-21
 translationKey: "article-vendre-sans-courtier"

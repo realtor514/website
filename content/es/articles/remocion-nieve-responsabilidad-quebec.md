@@ -1,5 +1,5 @@
 ---
-title: "Remoción de nieve y responsabilidad del propietario en Quebec"
+title: "Remoción de nieve y responsabilidad"
 date: 2026-09-07
 lastmod: 2026-09-07
 translationKey: "article-deneigement-responsabilite"

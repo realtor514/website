@@ -1,5 +1,5 @@
 ---
-title: "Negociar una propiedad en Montreal: las verdaderas palancas, las que el formulario permite"
+title: "Negociar una propiedad en Montreal"
 date: 2026-07-02
 lastmod: 2026-09-21
 translationKey: "article-strategies-negociation"

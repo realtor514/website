@@ -1,5 +1,5 @@
 ---
-title: "Vos rénovations n'ajouteront pas ce que vous pensez à la valeur de votre maison"
+title: "Rénovations et valeur de votre maison"
 date: 2026-07-20
 lastmod: 2026-09-23
 category: "Guide du vendeur"

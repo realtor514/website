@@ -1,5 +1,5 @@
 ---
-title: "Propiedades fuera del mercado en Quebec: qué son, qué le cuestan y qué debe revelar el corredor"
+title: "Propiedades fuera del mercado en Quebec"
 date: 2026-07-04
 lastmod: 2026-09-21
 category: "Guía del Comprador"

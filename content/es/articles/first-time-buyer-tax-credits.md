@@ -1,5 +1,5 @@
 ---
-title: "Ventajas fiscales para compradores primerizos en Quebec en 2026: a qué tiene derecho"
+title: "Ventajas fiscales del comprador primerizo"
 date: 2026-05-05
 lastmod: 2026-09-19
 category: "Financiamiento"

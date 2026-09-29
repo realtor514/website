@@ -1,5 +1,5 @@
 ---
-title: "Climate Resilient Renovations in Quebec: What the By-law Requires"
+title: "Climate Resilient Renovations in Quebec"
 date: 2026-09-19
 lastmod: 2026-09-19
 translationKey: "article-climate-resilient-renos"

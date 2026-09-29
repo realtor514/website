@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Commission in Quebec: What You're Actually Paying For"
+title: "Real Estate Commission in Quebec"
 date: 2026-06-16
 lastmod: 2026-09-21
 category: "Real Estate 101"

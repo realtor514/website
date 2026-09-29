@@ -1,5 +1,5 @@
 ---
-title: "المسكن بين الأجيال في لافال ومونتريال: ما يقوله النظام البلدي فعلاً"
+title: "المسكن بين الأجيال في لافال ومونتريال  [bytes=69]"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-intergenerationnelle"

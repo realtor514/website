@@ -1,5 +1,5 @@
 ---
-title: "Parler d'un krach immobilier à Montréal : ce que les données permettent de dire"
+title: "Krach immobilier à Montréal : les données"
 date: 2026-06-17
 lastmod: 2026-09-21
 category: "Analyse de marché"

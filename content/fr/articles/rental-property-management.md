@@ -1,5 +1,5 @@
 ---
-title: "Gérer des propriétés locatives à Montréal et Laval : ce que les premiers propriétaires doivent savoir"
+title: "Propriétés locatives à Montréal et Laval"
 date: 2026-06-27
 lastmod: 2026-09-20
 category: "Investissement"

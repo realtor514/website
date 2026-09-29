@@ -1,5 +1,5 @@
 ---
-title: "Condo Fees and the Contingency Fund: What to Verify Before You Buy"
+title: "Condo Fees and the Contingency Fund"
 date: 2026-08-01
 lastmod: 2026-09-21
 category: "Buyer's Guide"

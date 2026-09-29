@@ -1,5 +1,5 @@
 ---
-title: "Quand une transaction déraille au Québec : sept échecs qui reviennent, et la règle qui les évite"
+title: "Transaction qui déraille : sept échecs"
 date: 2026-05-28
 lastmod: 2026-09-23
 category: "Immobilier 101"

@@ -1,5 +1,5 @@
 ---
-title: "Managing Rental Properties in Montreal and Laval: What First-Time Landlords Need to Know"
+title: "Rental Properties in Montreal and Laval"
 date: 2026-06-27
 lastmod: 2026-09-20
 category: "Investment"

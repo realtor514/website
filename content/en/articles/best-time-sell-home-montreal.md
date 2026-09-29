@@ -1,5 +1,5 @@
 ---
-title: "When to List Your Property in Montreal: What the Monthly Numbers Say"
+title: "When to List Your Property in Montreal"
 date: 2026-05-12
 lastmod: 2026-09-23
 category: "Seller's Guide"

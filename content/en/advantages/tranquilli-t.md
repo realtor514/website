@@ -1,5 +1,5 @@
 ---
-title: "Tranquilli-T: Free Legal Assistance Throughout Your Transaction"
+title: "Tranquilli-T: Free Legal Assistance"
 description: "An exclusive RE/MAX Québec program that protects you between the accepted offer and the notarial deed, with unlimited legal consultations at no cost."
 program: "Tranquilli-T"
 eyebrow: "Exclusive RE/MAX Québec Protection"

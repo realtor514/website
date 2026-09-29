@@ -1,5 +1,5 @@
 ---
-title: "How to Build a Real Estate Portfolio in Greater Montreal Starting From Zero"
+title: "Building a Real Estate Portfolio, Montreal"
 date: 2026-05-26
 lastmod: 2026-09-21
 category: "Investment"

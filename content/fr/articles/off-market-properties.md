@@ -1,5 +1,5 @@
 ---
-title: "Propriétés hors marché au Québec : ce que c'est, ce que ça coûte, ce que le courtier doit vous dire"
+title: "Propriétés hors marché au Québec"
 date: 2026-07-04
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

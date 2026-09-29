@@ -1,5 +1,5 @@
 ---
-title: "Cómo comparar dos barrios de Montreal: un método, no un ranking"
+title: "Comparar dos barrios de Montreal"
 date: 2026-05-07
 lastmod: 2026-09-21
 category: "Inmobiliaria 101"

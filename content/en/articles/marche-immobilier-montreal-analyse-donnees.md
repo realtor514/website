@@ -1,5 +1,5 @@
 ---
-title: "Montreal and Laval Real Estate Market: Reading the Data, Not the Predictions"
+title: "Montreal and Laval Real Estate Market"
 date: 2026-05-29
 lastmod: 2026-09-21
 translationKey: "article-marche-immobilier-montreal"

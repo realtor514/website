@@ -1,5 +1,5 @@
 ---
-title: "Fallecimiento de la pareja y la vivienda en Quebec: qué preparar antes"
+title: "Fallecimiento de la pareja y la vivienda"
 date: 2026-09-03
 lastmod: 2026-09-03
 translationKey: "article-deces-conjoint"

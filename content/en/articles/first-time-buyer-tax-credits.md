@@ -1,5 +1,5 @@
 ---
-title: "Quebec First-Time Buyer Tax Benefits in 2026: What You Are Entitled To"
+title: "Quebec First-Time Buyer Tax Benefits 2026"
 date: 2026-05-05
 lastmod: 2026-09-19
 category: "Finance"

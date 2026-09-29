@@ -1,5 +1,5 @@
 ---
-title: "Your Credit Score Is Quietly Blocking Your Dream Home (and How to Fix It)"
+title: "Your Credit Score and Buying a Home"
 date: 2026-05-17
 lastmod: 2026-09-21
 category: "Buyer's Guide"

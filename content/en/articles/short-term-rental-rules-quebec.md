@@ -1,5 +1,5 @@
 ---
-title: "Short Term Rentals in Quebec: The Rules to Check Before You Buy"
+title: "Short Term Rentals in Quebec: The Rules"
 date: 2026-09-16
 lastmod: 2026-09-23
 translationKey: "article-short-term-rental-rules"

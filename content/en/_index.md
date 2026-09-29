@@ -1,5 +1,5 @@
 ---
-title: "Georges Matar | Residential Real Estate Broker, Laval, Montréal, Laurentians & Lanaudière"
+title: "Residential Real Estate Broker in Laval"
 description: "Residential real estate broker in Laval, Montreal, Terrebonne and the North Shore. Buying, selling, investing. Free evaluation. Service in 3 languages. (438) 372-0102."
 faq:
   - q: "How much does a real estate broker cost in Quebec?"

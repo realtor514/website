@@ -1,5 +1,5 @@
 ---
-title: "Preparing a Property for Sale: The Method, and the Ethical Line"
+title: "Preparing a Property for Sale in Quebec"
 date: 2026-07-10
 lastmod: 2026-09-21
 category: "Seller's Guide"

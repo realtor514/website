@@ -1,5 +1,5 @@
 ---
-title: "Costo de mantenimiento de una casa en Quebec: el calendario de reemplazo"
+title: "Costo de mantenimiento de una casa, Quebec"
 date: 2026-09-01
 lastmod: 2026-09-01
 translationKey: "article-cout-entretien-maison"

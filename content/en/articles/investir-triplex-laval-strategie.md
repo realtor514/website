@@ -1,5 +1,5 @@
 ---
-title: "Buying a Triplex in Laval: What to Verify Before You Make an Offer"
+title: "Buying a Triplex in Laval: The Checks"
 date: 2026-05-14
 lastmod: 2026-09-20
 translationKey: "article-triplex-laval"

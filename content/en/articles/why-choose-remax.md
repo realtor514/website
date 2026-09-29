@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Banners in Quebec: What One Changes in Your File, and What It Doesn't"
+title: "Real Estate Banners in Quebec: The Role"
 date: 2026-05-03
 lastmod: 2026-09-21
 category: "Real Estate 101"

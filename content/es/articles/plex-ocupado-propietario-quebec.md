@@ -1,5 +1,5 @@
 ---
-title: "Propietario ocupante de un plex en Quebec: la recuperación de la vivienda"
+title: "Propietario ocupante de un plex, Quebec"
 date: 2026-09-18
 lastmod: 2026-09-18
 translationKey: "article-occupant-plex"

@@ -1,5 +1,5 @@
 ---
-title: "El costo de vivir en los suburbios de Montreal: el cálculo real"
+title: "El costo real de los suburbios, Montreal"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-banlieue-vs-ville"

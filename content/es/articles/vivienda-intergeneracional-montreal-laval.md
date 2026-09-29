@@ -1,5 +1,5 @@
 ---
-title: "Vivienda intergeneracional en Laval y Montreal: lo que dice el reglamento"
+title: "Vivienda intergeneracional en Laval"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-intergenerationnelle"

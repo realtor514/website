@@ -1,5 +1,5 @@
 ---
-title: "Hériter d'une propriété au Québec : ce que les héritiers doivent savoir avant de vendre ou de garder"
+title: "Hériter d'une propriété au Québec"
 date: 2026-05-16
 lastmod: 2026-09-21
 category: "Immobilier 101"

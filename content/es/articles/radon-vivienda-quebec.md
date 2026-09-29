@@ -1,5 +1,5 @@
 ---
-title: "Prueba de radón en una vivienda en Quebec: el calendario real"
+title: "Prueba de radón en una vivienda, Quebec"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-radon-quebec"

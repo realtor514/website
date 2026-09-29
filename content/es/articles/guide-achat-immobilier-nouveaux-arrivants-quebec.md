@@ -1,5 +1,5 @@
 ---
-title: "Guía Completa para Recién Llegados que Compran Propiedad en Quebec"
+title: "Recién llegados: comprar en Quebec"
 date: 2026-07-16
 lastmod: 2026-09-21
 translationKey: "article-guide-nouveaux-arrivants"

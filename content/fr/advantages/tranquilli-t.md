@@ -1,5 +1,5 @@
 ---
-title: "Tranquilli-T : l'assistance juridique gratuite pendant votre transaction"
+title: "Tranquilli-T : assistance juridique gratuite"
 description: "Un programme exclusif de RE/MAX Québec qui vous protège entre la promesse d'achat et l'acte notarié, avec des consultations juridiques illimitées, sans frais."
 program: "Tranquilli-T"
 eyebrow: "Protection exclusive RE/MAX Québec"

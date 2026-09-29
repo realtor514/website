@@ -1,5 +1,5 @@
 ---
-title: "Integri-T: hasta 50 000 $ de protección contra vicios ocultos"
+title: "Integri-T: protección de vicios ocultos"
 description: "La garantía exclusiva de RE/MAX Québec, en asociación con ACQ Résidentiel, que protege a compradores y vendedores contra vicios ocultos durante 3 años tras la escritura notarial."
 program: "Integri-T"
 eyebrow: "Garantía exclusiva RE/MAX Québec"

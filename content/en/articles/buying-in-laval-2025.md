@@ -1,5 +1,5 @@
 ---
-title: "Buying in Laval: The Six Sectors, the Transit, the Taxes and the Checks"
+title: "Buying in Laval: The Six Sectors"
 date: 2026-05-19
 lastmod: 2026-09-21
 translationKey: "article-buying-in-laval"

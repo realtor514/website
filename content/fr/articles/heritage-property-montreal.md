@@ -1,5 +1,5 @@
 ---
-title: "Acheter un immeuble ancien ou patrimonial : ce qui change vraiment"
+title: "Acheter un immeuble patrimonial"
 date: 2026-06-06
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

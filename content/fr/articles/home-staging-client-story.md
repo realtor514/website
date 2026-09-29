@@ -1,5 +1,5 @@
 ---
-title: "Préparer une propriété avant la vente: la méthode, et la limite déontologique"
+title: "Préparer une propriété avant la vente"
 date: 2026-07-10
 lastmod: 2026-09-21
 category: "Guide du vendeur"

@@ -1,5 +1,5 @@
 ---
-title: "Inspección previa a la compra en Quebec: cuánto cuesta y cuándo hacerla"
+title: "Inspección previa: costo y cuándo hacerla"
 date: 2026-07-15
 lastmod: 2026-09-21
 translationKey: "article-inspection-cout-moment"

@@ -1,5 +1,5 @@
 ---
-title: "Cuotas de condominio y fondo de previsión: qué verificar antes de comprar"
+title: "Cuotas de condominio y fondo de previsión"
 date: 2026-08-01
 lastmod: 2026-09-21
 category: "Guía del Comprador"

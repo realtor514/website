@@ -1,5 +1,5 @@
 ---
-title: "Buying with Cash in Quebec: The Real Advantage, the Real Risk, and What the Law Requires"
+title: "Buying with Cash in Quebec: Risk and Rules"
 date: 2026-08-05
 lastmod: 2026-09-21
 category: "Buyer's Guide"

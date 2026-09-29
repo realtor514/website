@@ -1,5 +1,5 @@
 ---
-title: "Bidding Wars in Montreal: How a Multiple-Offer Situation Really Works in Quebec"
+title: "Bidding Wars in Montreal: How They Work"
 date: 2026-06-13
 lastmod: 2026-09-21
 category: "Buyer's Guide"

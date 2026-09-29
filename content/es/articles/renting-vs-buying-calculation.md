@@ -1,5 +1,5 @@
 ---
-title: "Alquilar o comprar en el Gran Montreal: el cálculo que casi todos hacen mal"
+title: "Alquilar o comprar en el Gran Montreal"
 date: 2026-05-23
 lastmod: 2026-09-21
 category: "Financiamiento"

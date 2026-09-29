@@ -1,5 +1,5 @@
 ---
-title: "Separation, Divorce and the Home in Quebec: What You Need to Know"
+title: "Separation, Divorce and the Home, Quebec"
 date: 2026-06-20
 lastmod: 2026-09-21
 category: "Real Estate 101"

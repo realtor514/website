@@ -1,5 +1,5 @@
 ---
-title: "Your Renovation Won't Add What You Think to Your Home's Value"
+title: "Renovations and Your Home's Value"
 date: 2026-07-20
 lastmod: 2026-09-23
 category: "Seller's Guide"

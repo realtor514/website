@@ -1,5 +1,5 @@
 ---
-title: "Gestionar propiedades de alquiler en Montreal y Laval: lo que todo nuevo propietario debe saber"
+title: "Propiedades de alquiler en Montreal, Laval"
 date: 2026-06-27
 lastmod: 2026-09-21
 category: "Inversión"

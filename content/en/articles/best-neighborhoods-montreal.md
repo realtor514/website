@@ -1,5 +1,5 @@
 ---
-title: "How to Compare Two Montreal Neighbourhoods: A Method, Not a Ranking"
+title: "Comparing Two Montreal Neighbourhoods"
 date: 2026-05-07
 lastmod: 2026-09-21
 category: "Real Estate 101"

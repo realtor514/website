@@ -1,5 +1,5 @@
 ---
-title: "Le meilleur taux hypothécaire au Canada : ce qui se décide avant le taux"
+title: "Meilleur taux hypothécaire au Canada"
 date: 2026-07-07
 lastmod: 2026-09-21
 category: "Financement"

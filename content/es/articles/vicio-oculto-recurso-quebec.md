@@ -1,5 +1,5 @@
 ---
-title: "Vicio oculto en Quebec: las cuatro condiciones y sus recursos"
+title: "Vicio oculto en Quebec: los recursos"
 date: 2026-09-23
 lastmod: 2026-09-23
 translationKey: "article-vice-cache-recours"

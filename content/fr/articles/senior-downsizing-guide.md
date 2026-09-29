@@ -1,5 +1,5 @@
 ---
-title: "Vendre la maison familiale et passer à plus petit : guide pour les aînés du Grand Montréal"
+title: "Vendre la maison familiale : guide aînés"
 date: 2026-07-17
 lastmod: 2026-09-19
 category: "Guide du vendeur"

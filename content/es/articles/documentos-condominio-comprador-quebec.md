@@ -1,5 +1,5 @@
 ---
-title: "Ley 16 y copropiedad en Quebec: los documentos que puede exigir"
+title: "Ley 16 y copropiedad en Quebec"
 date: 2026-09-10
 lastmod: 2026-09-10
 translationKey: "article-loi-16-copropriete"

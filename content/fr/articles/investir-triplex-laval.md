@@ -1,5 +1,5 @@
 ---
-title: "Acheter un triplex à Laval : ce qu'il faut vérifier avant de faire une offre"
+title: "Acheter un triplex à Laval : vérifications"
 date: 2026-05-14
 lastmod: 2026-09-20
 translationKey: "article-triplex-laval"

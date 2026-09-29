@@ -1,5 +1,5 @@
 ---
-title: "La commission immobilière au Québec : ce que vous payez vraiment"
+title: "La commission immobilière au Québec"
 date: 2026-06-16
 lastmod: 2026-09-21
 category: "Immobilier 101"

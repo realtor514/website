@@ -1,5 +1,5 @@
 ---
-title: "Novoclimat Home in Quebec: What the Certification Actually Buys"
+title: "Novoclimat Home in Quebec: What It Buys"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-novoclimat-leed"

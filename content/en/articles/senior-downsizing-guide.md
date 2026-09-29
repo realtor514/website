@@ -1,5 +1,5 @@
 ---
-title: "Selling the Family Home and Downsizing: A Guide for Seniors in Greater Montreal"
+title: "Downsizing in Greater Montreal: A Guide"
 date: 2026-07-17
 lastmod: 2026-09-19
 category: "Seller's Guide"

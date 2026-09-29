@@ -1,5 +1,5 @@
 ---
-title: "Comparer les secteurs de la Rive-Nord : la méthode et les sources"
+title: "Comparer les secteurs de la Rive-Nord"
 date: 2026-07-12
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

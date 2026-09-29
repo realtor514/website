@@ -1,5 +1,5 @@
 ---
-title: "La comisión inmobiliaria en Quebec: qué está pagando realmente"
+title: "La comisión inmobiliaria en Quebec"
 date: 2026-06-16
 lastmod: 2026-09-21
 category: "Inmobiliaria 101"

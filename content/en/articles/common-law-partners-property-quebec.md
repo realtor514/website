@@ -1,5 +1,5 @@
 ---
-title: "Common Law Partners and the Home in Quebec: What Actually Protects You"
+title: "Common Law Partners and the Home, Quebec"
 date: 2026-08-27
 lastmod: 2026-09-24
 translationKey: "article-conjoints-de-fait"

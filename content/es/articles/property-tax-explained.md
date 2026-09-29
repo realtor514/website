@@ -1,5 +1,5 @@
 ---
-title: "Los impuestos municipales en Montreal y Laval: explicación completa"
+title: "Impuestos municipales en Montreal y Laval"
 date: 2026-05-25
 lastmod: 2026-09-19
 category: "Financiamiento"

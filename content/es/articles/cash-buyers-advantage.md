@@ -1,5 +1,5 @@
 ---
-title: "Comprar de contado en Quebec: la ventaja real, el riesgo real y lo que exige la ley"
+title: "Comprar de contado en Quebec: la ley"
 date: 2026-08-05
 lastmod: 2026-09-21
 category: "Guía del Comprador"

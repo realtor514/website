@@ -1,5 +1,5 @@
 ---
-title: "Guerre d'offres à Montréal : comment fonctionne vraiment une surenchère au Québec"
+title: "Guerre d'offres à Montréal : surenchère"
 date: 2026-06-13
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"

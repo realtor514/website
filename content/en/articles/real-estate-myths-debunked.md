@@ -1,5 +1,5 @@
 ---
-title: "Eight Real Estate Myths, and the Rule That Contradicts Each One"
+title: "Eight Real Estate Myths, and the Rules"
 date: 2026-05-31
 lastmod: 2026-09-21
 category: "Real Estate 101"

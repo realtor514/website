@@ -1,5 +1,5 @@
 ---
-title: "Hablar de un desplome inmobiliario en Montreal: lo que los datos permiten decir"
+title: "Desplome inmobiliario en Montreal: datos"
 date: 2026-06-17
 lastmod: 2026-09-21
 category: "Análisis de Mercado"

@@ -1,5 +1,5 @@
 ---
-title: "En una visita libre, el corredor de la puerta trabaja para el vendedor"
+title: "Visita libre: el corredor y el vendedor"
 date: 2026-06-30
 lastmod: 2026-09-21
 category: "Guía del Comprador"
