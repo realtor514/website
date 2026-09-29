@@ -7,7 +7,7 @@
        Google, environ 60 caracteres. Ajoute sans condition, il poussait 347
        titres au-dela: Google les tronquait, et le nom de marque, place en
        fin, disparaissait justement des resultats. */}}
-  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ if le (add (len .Title) 16) 60 }} | Georges Matar{{ end }}{{ end }}</title>
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ if le (add (strings.RuneCount .Title) 16) 60 }} | Georges Matar{{ end }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta property="og:title"       content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">

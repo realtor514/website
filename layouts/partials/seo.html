@@ -25,7 +25,7 @@
 {{- $title := .Title -}}
 {{- if .IsHome -}}
   {{- $title = $site.Title -}}
-{{- else if le (add (len .Title) (len $suffixe)) 60 -}}
+{{- else if le (add (strings.RuneCount .Title) (strings.RuneCount $suffixe)) 60 -}}
   {{- $title = printf "%s%s" .Title $suffixe -}}
 {{- end -}}
 
