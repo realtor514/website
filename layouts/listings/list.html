@@ -29,7 +29,10 @@
 
 <section class="section">
   <div class="container">
-    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "listings") 9 }}
+    {{/* `.Paginator` et non `.Paginate`: la taille vient de `pagerSize` dans
+         hugo.toml, et l en-tete peut lire le meme paginateur pour ecrire le
+         canonical des pages suivantes. */}}
+    {{ $paginator := .Paginator }}
 
     {{ if $paginator.Pages }}
     <div class="listings-grid">

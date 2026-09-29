@@ -15,18 +15,23 @@
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
         {{ if $isFr }}Guide du Vendeur{{ else if $isEs }}Guía del Vendedor{{ else if $isAr }}دليل البائع{{ else }}Seller's Guide{{ end }}
       </div>
+      {{/* Le titre et le sous-titre promettaient un resultat, "au meilleur
+           prix", et l absence de stress. Un courtier ne peut promettre ni
+           l un ni l autre: le prix depend du marche et des acheteurs. Ils
+           decrivent maintenant la methode, ce qui se tient et ce que
+           l article why-choose-remax du site dit deja. */}}
       <h1 class="journey-hero__title">
-        {{ if $isFr }}Vendre au meilleur prix, sans stress{{ else if $isEs }}Venda al mejor precio, sin estrés{{ else if $isAr }}بيع بأفضل سعر، بدون توتر{{ else }}Sell for Maximum Value, Stress-Free{{ end }}
+        {{ if $isFr }}Vendre avec une méthode, pas au hasard{{ else if $isEs }}Vender con un método, no al azar{{ else if $isAr }}البيع بمنهجية، لا بالصدفة{{ else }}Sell With a Method, Not by Chance{{ end }}
       </h1>
       <p class="journey-hero__subtitle">
         {{ if $isFr }}
-          Stratégie de prix rigoureuse, mise en marché professionnelle et négociation experte pour maximiser votre résultat de vente.
+          Un prix établi à partir des ventes comparables récentes, une mise en marché professionnelle, et chaque offre analysée avec vous, chiffres à l&rsquo;appui, avant de répondre.
         {{ else if $isEs }}
-          Estrategia de precios rigurosa, marketing profesional y negociación experta para maximizar el resultado de su venta.
+          Un precio establecido a partir de las ventas comparables recientes, un marketing profesional, y cada oferta analizada con usted, con cifras, antes de responder.
         {{ else if $isAr }}
-          استراتيجية تسعير صارمة، تسويق احترافي وتفاوض خبير لتعظيم نتيجة بيعك.
+          سعر يُحدَّد انطلاقاً من المبيعات المشابهة الحديثة، وتسويق احترافي، وكل عرض يُحلَّل معك بالأرقام قبل الرد عليه.
         {{ else }}
-          Rigorous pricing strategy, professional marketing, and expert negotiation to maximize your sale outcome.
+          A price set from recent comparable sales, professional marketing, and every offer reviewed with you, figures in hand, before you answer.
         {{ end }}
       </p>
       <div class="journey-hero__actions">
@@ -86,7 +91,9 @@
       <span class="eyebrow">{{ if $isFr }}Processus de vente{{ else if $isEs }}Proceso de venta{{ else if $isAr }}عملية البيع{{ else }}Selling Process{{ end }}</span>
       <h2>{{ if $isFr }}Votre vente, étape par étape{{ else if $isEs }}Su venta, paso a paso{{ else if $isAr }}بيعك، خطوة بخطوة{{ else }}Your Sale, Step by Step{{ end }}</h2>
       <p class="subtitle">
-        {{ if $isFr }}Un processus éprouvé pour vendre rapidement et au meilleur prix.{{ else if $isAr }}عملية مجربة للبيع بسرعة وبأفضل سعر.{{ else if $isEs }}Un proceso probado para vender rápidamente y al mejor precio.{{ else }}A proven process to sell quickly and at the best price.{{ end }}
+        {{/* Meme raison qu au titre: "eprouve", "rapidement" et "au meilleur
+             prix" promettaient a la fois un delai et un resultat. */}}
+        {{ if $isFr }}Chaque étape, de la mise en marché à la signature chez le notaire.{{ else if $isAr }}كل مرحلة، من طرح العقار حتى التوقيع لدى الموثّق.{{ else if $isEs }}Cada etapa, desde la puesta en venta hasta la firma ante el notario.{{ else }}Every step, from listing to signing at the notary.{{ end }}
       </p>
     </div>
     <div class="steps-grid reveal">

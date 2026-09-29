@@ -221,5 +221,5 @@ and [how the mortgage penalty is calculated](/en/articles/breaking-mortgage-pena
 ---
 
 *Want to know, figures in hand, what the sale of your property would leave after
-the mortgage? [Write to me](/en/form/). The market value assessment is free, and
+the mortgage? [Write to me](/en/form/). The opinion of value is free, and
 the tally is built line by line.*

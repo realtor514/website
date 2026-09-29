@@ -808,7 +808,13 @@ disableKinds = ["taxonomy", "term"]
       unsafe = true
 
 [pagination]
-  pagerSize = 9
+  # 24 par page pour toutes les listes. Avec 9, les articles les plus anciens
+  # tombaient en page 6 ou 7 et Google ne les explorait plus. La valeur doit
+  # etre unique: l en-tete lit le meme paginateur que les gabarits pour ecrire
+  # le canonical des pages /page/2/ et suivantes, et Hugo refuse qu il soit
+  # initialise deux fois avec des tailles differentes. Les proprietes n ont
+  # que deux fiches, le passage de 9 a 24 ne change rien pour elles.
+  pagerSize = 24
 
     [[languages.ar.menus.main]]
       parent     = "buyer"

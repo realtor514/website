@@ -199,4 +199,4 @@ Para completar, lea [la penalidad por romper una hipoteca en Quebec](/es/article
 
 ---
 
-*¿Evalúa un reembolso acelerado, una renovación o una venta sobre una propiedad de Laval, Montreal o la Rive-Nord? [Escríbame](/es/formulario/). La evaluación del valor de mercado es gratuita y sin compromiso.*
+*¿Evalúa un reembolso acelerado, una renovación o una venta sobre una propiedad de Laval, Montreal o la Rive-Nord? [Escríbame](/es/formulario/). La opinión de valor es gratuita y sin compromiso.*

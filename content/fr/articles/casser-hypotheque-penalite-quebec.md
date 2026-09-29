@@ -232,4 +232,4 @@ Pour compléter, lisez [ce qui se décide avant votre taux hypothécaire](/artic
 
 ---
 
-*Vous pesez une vente, un rachat ou un refinancement sur une propriété de Laval, de Montréal ou de la Rive-Nord ? [Écrivez-moi](/formulaire/). L'évaluation de la valeur marchande est gratuite et sans engagement.*
+*Vous pesez une vente, un rachat ou un refinancement sur une propriété de Laval, de Montréal ou de la Rive-Nord ? [Écrivez-moi](/formulaire/). L'avis de valeur est gratuit et sans engagement.*

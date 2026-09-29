@@ -233,5 +233,4 @@ hipotecaria](/es/articles/romper-hipoteca-penalidad-quebec/).
 ---
 
 *¿Quiere saber, con cifras en la mano, qué dejaría la venta de su propiedad después
-de la hipoteca? [Escríbame](/es/formulario/). La evaluación del valor de mercado es
-gratuita, y la cuenta se arma línea por línea.*
+de la hipoteca? [Escríbame](/es/formulario/). La opinión de valor es gratuita, y la cuenta se arma línea por línea.*

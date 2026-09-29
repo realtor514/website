@@ -13,7 +13,16 @@
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta property="og:type"        content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url"         content="{{ .Permalink }}">
-  <link rel="canonical" href="{{ .Permalink }}">
+  {{/* Sur /articles/page/2/ et suivantes, `.Permalink` renvoie l adresse de
+       la liste: toutes les pages de pagination se declaraient donc canoniques
+       vers la page 1, avec le meme titre, et sortaient de l index. Le
+       paginateur donne l adresse reelle de la page courante. Il n est lu que
+       pour les listes paginees, `.Paginator` etant une erreur ailleurs. */}}
+  {{ $canonical := .Permalink }}
+  {{ if and .IsNode (in (slice "articles" "listings") .Section) }}
+    {{ with .Paginator }}{{ $canonical = .URL | absURL }}{{ end }}
+  {{ end }}
+  <link rel="canonical" href="{{ $canonical }}">
   {{ partial "seo.html" . }}
   <link rel="icon" type="image/png" href="{{ "images/remax-logo.png" | relURL }}">
   <link rel="apple-touch-icon" href="{{ "images/remax-logo.png" | relURL }}">

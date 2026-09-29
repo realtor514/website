@@ -199,4 +199,4 @@ Pour compléter, lisez [la pénalité pour casser une hypothèque au Québec](/a
 
 ---
 
-*Vous pesez un remboursement accéléré, un renouvellement ou une vente sur une propriété de Laval, de Montréal ou de la Rive-Nord ? [Écrivez-moi](/formulaire/). L'évaluation de la valeur marchande est gratuite et sans engagement.*
+*Vous pesez un remboursement accéléré, un renouvellement ou une vente sur une propriété de Laval, de Montréal ou de la Rive-Nord ? [Écrivez-moi](/formulaire/). L'avis de valeur est gratuit et sans engagement.*

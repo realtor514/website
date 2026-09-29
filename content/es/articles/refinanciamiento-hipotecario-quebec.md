@@ -230,4 +230,4 @@ Para completar, lea [lo que se decide antes de su tasa hipotecaria](/es/articles
 
 ---
 
-*¿Está sopesando un refinanciamiento sobre una propiedad de Laval, Montreal o la Rive-Nord y quiere saber primero cuánto vale? [Escríbame](/es/formulario/). La evaluación del valor de mercado es gratuita y sin compromiso.*
+*¿Está sopesando un refinanciamiento sobre una propiedad de Laval, Montreal o la Rive-Nord y quiere saber primero cuánto vale? [Escríbame](/es/formulario/). La opinión de valor es gratuita y sin compromiso.*

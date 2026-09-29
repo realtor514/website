@@ -185,7 +185,12 @@
       </div>
       <div class="stat-item">
         <span class="stat-item__number">RE/MAX</span>
-        <span class="stat-item__label">{{ if $isFr }}Réseau #1 mondial{{ else if $isAr }}الشبكة الأولى عالمياً{{ else if $isEs }}Red #1 mundial{{ else }}World's #1 network{{ end }}</span>
+        {{/* "Reseau #1 mondial" etait un superlatif comparatif sans source ni
+             qualificatif. Le classement est reel mais il se mesure: RE/MAX le
+             formule par nombre de courtiers. Dire sur quoi porte le premier
+             rang, c est la difference entre un fait verifiable et une
+             representation incomplete au sens de l article 112. */}}
+        <span class="stat-item__label">{{ if $isFr }}Plus grand réseau par nombre de courtiers{{ else if $isAr }}أكبر شبكة من حيث عدد الوسطاء{{ else if $isEs }}Mayor red por número de corredores{{ else }}Largest network by number of agents{{ end }}</span>
       </div>
       <div class="stat-item">
         <span class="stat-item__number" style="font-size:1.4rem">Laval, Montréal,<br>Rive-Nord</span>

@@ -195,4 +195,4 @@ To go further, read [the penalty for breaking a mortgage in Quebec](/en/articles
 
 ---
 
-*Weighing accelerated repayment, a renewal or a sale on a property in Laval, Montreal or the North Shore? [Reach out](/en/form/). The market value assessment is free and with no obligation.*
+*Weighing accelerated repayment, a renewal or a sale on a property in Laval, Montreal or the North Shore? [Reach out](/en/form/). The opinion of value is free and with no obligation.*

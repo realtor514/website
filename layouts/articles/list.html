@@ -29,9 +29,10 @@
 
 <section class="section">
   <div class="container">
-    {{/* 24 par page: avec 9, les articles les plus anciens tombaient en page 6
-         ou 7 et Google ne les explorait plus. */}}
-    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "articles") 24 }}
+    {{/* `.Paginator` et non `.Paginate`: la taille vient de `pagerSize` dans
+         hugo.toml, et l en-tete peut lire le meme paginateur pour ecrire le
+         canonical des pages suivantes. */}}
+    {{ $paginator := .Paginator }}
 
     {{ if $paginator.Pages }}
     <div class="articles-grid">

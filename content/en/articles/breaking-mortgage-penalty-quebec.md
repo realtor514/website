@@ -232,4 +232,4 @@ and [the notary's role in Quebec](/en/articles/quebec-notary-process/).
 
 ---
 
-*Weighing a sale, a buyout or a refinancing on a property in Laval, Montreal or the North Shore? [Reach out](/en/form/). The market value assessment is free and comes with no obligation.*
+*Weighing a sale, a buyout or a refinancing on a property in Laval, Montreal or the North Shore? [Reach out](/en/form/). The opinion of value is free and comes with no obligation.*

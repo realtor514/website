@@ -223,4 +223,4 @@ To go further, read [what gets decided before your mortgage rate](/en/articles/b
 
 ---
 
-*Weighing a refinancing on a property in Laval, Montreal or the North Shore and want to know what it is worth first? [Write to me](/en/form/). The market value assessment is free and comes with no obligation.*
+*Weighing a refinancing on a property in Laval, Montreal or the North Shore and want to know what it is worth first? [Write to me](/en/form/). The opinion of value is free and comes with no obligation.*

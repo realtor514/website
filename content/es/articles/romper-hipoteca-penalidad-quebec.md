@@ -238,4 +238,4 @@ y [el papel del notario en Quebec](/es/articles/quebec-notary-process/).
 
 ---
 
-*¿Está sopesando una venta, una compra de parte o un refinanciamiento sobre una propiedad de Laval, Montreal o la Rive-Nord? [Escríbame](/es/formulario/). La evaluación del valor de mercado es gratuita y sin compromiso.*
+*¿Está sopesando una venta, una compra de parte o un refinanciamiento sobre una propiedad de Laval, Montreal o la Rive-Nord? [Escríbame](/es/formulario/). La opinión de valor es gratuita y sin compromiso.*
