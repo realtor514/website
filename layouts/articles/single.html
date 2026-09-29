@@ -31,6 +31,29 @@
 
   {{ .Content }}
 
+  {{/* Mention affichee sur les seuls articles marques `needs_expert_review`
+       dans leur frontmatter. Le drapeau existait deja mais n etait rendu
+       nulle part: 76 articles publies traitaient de vice cache, de fiscalite,
+       d assurance ou de la Loi 16 sans que le lecteur sache que le texte
+       attend une verification. Un courtier titulaire d un permis repond de ce
+       qu il publie, et le lecteur merite de savoir a quoi s en tenir.
+       Retirer le drapeau d un article fait disparaitre la mention. */}}
+  {{ if .Params.needs_expert_review }}
+  <aside style="margin:40px 0 0;padding:16px 18px;border-left:3px solid #B00000;background:#faf9f6;border-radius:0 8px 8px 0">
+    <p style="margin:0;font-size:.85rem;line-height:1.6;color:#4b5563">
+      {{ if $isFr }}
+        Information générale, à jour à la date de publication. Chaque situation a ses particularités : validez la vôtre auprès d&rsquo;un notaire, d&rsquo;un comptable ou d&rsquo;un avocat avant de décider.
+      {{ else if $isAr }}
+        معلومات عامة، محدَّثة بتاريخ النشر. لكل حالة خصوصياتها: تحقّقوا من حالتكم لدى موثّق أو محاسب أو محامٍ قبل اتخاذ القرار.
+      {{ else if $isEs }}
+        Información general, vigente en la fecha de publicación. Cada situación tiene sus particularidades: valide la suya con un notario, un contador o un abogado antes de decidir.
+      {{ else }}
+        General information, current as of the publication date. Every situation has its particulars: check yours with a notary, an accountant or a lawyer before deciding.
+      {{ end }}
+    </p>
+  </aside>
+  {{ end }}
+
   <hr style="border:none;border-top:1px solid #e5e7eb;margin:48px 0">
 
   <div style="display:flex;align-items:center;gap:24px;background:#f8f7f4;border-radius:12px;padding:24px">
