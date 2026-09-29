@@ -3,7 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ .Title }} | Georges Matar</title>
+  {{/* Meme regle que le gabarit principal: le suffixe seulement s il tient
+       dans la limite d affichage de Google. */}}
+  <title>{{ .Title }}{{ if le (add (len .Title) 16) 60 }} | Georges Matar{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta property="og:title"       content="{{ .Title }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">

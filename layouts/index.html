@@ -202,9 +202,13 @@
       <div class="about-split__media reveal">
         <div class="about-split__img-main about-slideshow">
           <div class="about-slideshow__track">
-            <img src="{{ "images/georges-matar.png" | relURL }}"   alt="{{ .Site.Params.name }}" class="about-slideshow__slide">
-            <img src="{{ "images/georges-matar-2.png" | relURL }}" alt="{{ .Site.Params.name }}" class="about-slideshow__slide">
-            <img src="{{ "images/georges-matar-3.png" | relURL }}" alt="{{ .Site.Params.name }}" class="about-slideshow__slide">
+            {{/* Ce diaporama est sous la ligne de flottaison: les trois
+                 portraits se chargeaient d emblee et pesaient 7,6 Mo a eux
+                 seuls. `loading=lazy` les repousse apres le premier rendu, et
+                 les dimensions evitent que la page saute a leur arrivee. */}}
+            <img src="{{ "images/georges-matar.webp" | relURL }}"   alt="{{ .Site.Params.name }}" class="about-slideshow__slide" loading="lazy" width="1600" height="1527">
+            <img src="{{ "images/georges-matar-2.webp" | relURL }}" alt="{{ .Site.Params.name }}" class="about-slideshow__slide" loading="lazy" width="1080" height="1398">
+            <img src="{{ "images/georges-matar-3.webp" | relURL }}" alt="{{ .Site.Params.name }}" class="about-slideshow__slide" loading="lazy" width="1600" height="1423">
           </div>
           <div class="about-slideshow__dots">
             <button class="about-slideshow__dot active" data-idx="0" aria-label="Photo 1"></button>

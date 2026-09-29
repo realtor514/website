@@ -92,7 +92,7 @@
           <hr class="listing-sidebar__rule">
 
           <div style="display:flex;align-items:center;gap:12px">
-            <img src="{{ "images/georges-matar.png" | relURL }}" alt="Georges Matar"
+            <img src="{{ "images/georges-matar.webp" | relURL }}" alt="Georges Matar"
                  style="width:46px;height:46px;border-radius:50%;object-fit:cover;object-position:top center;flex-shrink:0"
                  width="46" height="46" loading="lazy">
             <div>
@@ -101,7 +101,13 @@
             </div>
           </div>
 
+          {{/* Centris et RE/MAX retirent la fiche des qu elle est vendue: le
+               bouton menait alors a "inscription introuvable", ce qui detruit
+               justement la preuve sociale qu il devait apporter. On ne
+               l affiche donc que tant que la propriete est a vendre. */}}
+          {{ $vendu := in (slice "Vendu" "Sold" "Vendido" "مباع") .Params.status }}
           {{ with .Params.sourceURL }}
+          {{ if not $vendu }}
           {{ $isCentris := in . "centris.ca" }}
           <a href="{{ . }}" target="_blank" rel="noopener" class="listing-sidebar__source">
             {{ if $isCentris }}
@@ -110,6 +116,7 @@
               {{ if $isFr }}Voir la fiche officielle RE/MAX{{ else if $isAr }}عرض البطاقة الرسمية RE/MAX{{ else if $isEs }}Ver la ficha oficial RE/MAX{{ else }}View the official RE/MAX listing{{ end }}
             {{ end }} &rsaquo;
           </a>
+          {{ end }}
           {{ end }}
         </div>
       </div>

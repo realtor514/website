@@ -1,0 +1,79 @@
+{{/* Page d erreur 404.
+     GitHub Pages sert ce seul fichier pour toutes les adresses introuvables,
+     quelle que soit la langue du visiteur: il n y a donc pas de `.Lang` fiable
+     ici. Les quatre langues sont ecrites cote a cote, et un court script ne
+     garde que celle du chemin demande. Sans JavaScript, les quatre restent
+     visibles: c est moins elegant, mais personne ne se retrouve devant une
+     page vide. Auparavant le visiteur tombait sur la page grise de GitHub,
+     en anglais, sans en-tete ni moyen de revenir. */}}
+{{ define "main" }}
+<section class="content-hero">
+  <div class="container">
+    <p class="content-hero__eyebrow" style="letter-spacing:.14em;text-transform:uppercase;font-size:.78rem;opacity:.7">Erreur 404</p>
+    <h1 class="content-hero__title" data-e404="fr">Cette page n&rsquo;existe pas</h1>
+    <h1 class="content-hero__title" data-e404="en" hidden>This page does not exist</h1>
+    <h1 class="content-hero__title" data-e404="es" hidden>Esta p&aacute;gina no existe</h1>
+    <h1 class="content-hero__title" data-e404="ar" hidden dir="rtl">هذه الصفحة غير موجودة</h1>
+  </div>
+</section>
+
+<div class="content-body">
+  <div class="container" style="max-width:720px">
+
+    <p data-e404="fr" style="font-size:1.05rem;line-height:1.7">
+      L&rsquo;adresse demand&eacute;e a peut-&ecirc;tre chang&eacute;, ou la propri&eacute;t&eacute; que vous cherchiez a &eacute;t&eacute; retir&eacute;e du march&eacute;. Voici par o&ugrave; reprendre.
+    </p>
+    <p data-e404="en" hidden style="font-size:1.05rem;line-height:1.7">
+      The address may have changed, or the property you were looking for has been taken off the market. Here is where to pick up again.
+    </p>
+    <p data-e404="es" hidden style="font-size:1.05rem;line-height:1.7">
+      Puede que la direcci&oacute;n haya cambiado, o que la propiedad que buscaba se haya retirado del mercado. Aqu&iacute; puede retomar.
+    </p>
+    <p data-e404="ar" hidden dir="rtl" style="font-size:1.05rem;line-height:1.7">
+      ربما تغيّر العنوان المطلوب، أو أن العقار الذي تبحثون عنه سُحب من السوق. من هنا يمكنكم المتابعة.
+    </p>
+
+    {{/* Une liste par langue: les adresses different d une langue a l autre. */}}
+    {{ range $l := slice "fr" "en" "es" "ar" }}
+      {{ $base := "" }}{{ if ne $l "fr" }}{{ $base = printf "/%s" $l }}{{ end }}
+      {{ $lib := dict
+          "fr" (slice "Accueil" "Propri&eacute;t&eacute;s" "Conseils immobiliers" "Estimer ma propri&eacute;t&eacute;" "Me joindre")
+          "en" (slice "Home" "Properties" "Real estate insights" "Estimate my property" "Contact me")
+          "es" (slice "Inicio" "Propiedades" "Consejos inmobiliarios" "Estimar mi propiedad" "Contactarme")
+          "ar" (slice "الرئيسية" "العقارات" "نصائح عقارية" "تقدير قيمة عقاري" "تواصل معي")
+      }}
+      {{ $urls := dict
+          "fr" (slice "/" "/listings/" "/articles/" "/tools/home-estimate/" "/contact/")
+          "en" (slice "/en/" "/en/listings/" "/en/articles/" "/en/tools/home-estimate/" "/en/contact/")
+          "es" (slice "/es/" "/es/listings/" "/es/articles/" "/es/tools/home-estimate/" "/es/contact/")
+          "ar" (slice "/ar/" "/ar/listings/" "/ar/articles/" "/ar/tools/home-estimate/" "/ar/contact/")
+      }}
+      <ul data-e404="{{ $l }}"{{ if ne $l "fr" }} hidden{{ end }}{{ if eq $l "ar" }} dir="rtl"{{ end }}
+          style="list-style:none;padding:0;margin:26px 0 0;display:flex;flex-wrap:wrap;gap:12px">
+        {{ range $i, $t := (index $lib $l) }}
+        <li>
+          <a href="{{ index (index $urls $l) $i }}" class="btn {{ if eq $i 0 }}btn-primary{{ else }}btn-outline-dark{{ end }}">{{ $t | safeHTML }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
+  </div>
+</div>
+
+<script>
+(function () {
+  'use strict';
+  /* La langue vient du chemin demande, pas de la page: /en/..., /es/...,
+     /ar/..., et le francais partout ailleurs. */
+  var m = location.pathname.match(/^\/(en|es|ar)(\/|$)/);
+  var lang = m ? m[1] : 'fr';
+  var blocs = document.querySelectorAll('[data-e404]');
+  for (var i = 0; i < blocs.length; i++) {
+    blocs[i].hidden = blocs[i].getAttribute('data-e404') !== lang;
+  }
+  document.documentElement.lang = lang;
+  document.documentElement.dir = (lang === 'ar') ? 'rtl' : 'ltr';
+})();
+</script>
+{{ end }}

@@ -459,7 +459,7 @@ disableKinds = ["taxonomy", "term"]
       identifier = "buyer-costs"
       name       = "Costos de cierre"
       url        = "/es/tools/closing-costs/"
-      weight     = 4
+      weight     = 5
 
     # ── VENDEDOR menu ──
     [[languages.es.menus.main]]
@@ -493,7 +493,7 @@ disableKinds = ["taxonomy", "term"]
       identifier = "seller-market"
       name       = "Noticias del mercado"
       url        = "/es/articles/"
-      weight     = 4
+      weight     = 5
 
     # ── MIS VENTAJAS menu ──
     [[languages.es.menus.main]]
@@ -561,6 +561,34 @@ disableKinds = ["taxonomy", "term"]
       identifier = "about-contact"
       name       = "Contacto"
       url        = "/es/contacto/"
+      weight     = 4
+
+    [[languages.es.menus.main]]
+      parent     = "buyer"
+      identifier = "buyer-afford"
+      name       = "Capacidad de endeudamiento"
+      url        = "/es/tools/affordability/"
+      weight     = 4
+
+    [[languages.es.menus.main]]
+      parent     = "buyer"
+      identifier = "buyer-welcome-tax"
+      name       = "Impuesto de bienvenida"
+      url        = "/es/tools/welcome-tax/"
+      weight     = 6
+
+    [[languages.es.menus.main]]
+      parent     = "seller"
+      identifier = "seller-rvb"
+      name       = "Alquilar o comprar"
+      url        = "/es/tools/rent-vs-buy/"
+      weight     = 4
+
+    [[languages.es.menus.main]]
+      parent     = "about"
+      identifier = "about-network"
+      name       = "Mi red"
+      url        = "/es/#network"
       weight     = 3
 
 
@@ -624,7 +652,7 @@ disableKinds = ["taxonomy", "term"]
       identifier = "buyer-costs"
       name       = "تكاليف الإغلاق"
       url        = "/ar/tools/closing-costs/"
-      weight     = 4
+      weight     = 5
 
     # ── البائع menu ──
     [[languages.ar.menus.main]]
@@ -658,7 +686,7 @@ disableKinds = ["taxonomy", "term"]
       identifier = "seller-market"
       name       = "أخبار السوق"
       url        = "/ar/articles/"
-      weight     = 4
+      weight     = 5
 
     # ── مزاياي menu ──
     [[languages.ar.menus.main]]
@@ -751,7 +779,7 @@ disableKinds = ["taxonomy", "term"]
   ga4Id        = "G-75XEE6C7X8"
 
   # ── SEO / donnees structurees ──
-  ogImage      = "images/georges-matar.png"
+  ogImage      = "images/og-georges-matar.jpg"
   phoneRaw     = "+14383720102"
   streetAddress   = "2820, boul. Saint-Martin Est, bureau 201"
   addressLocality = "Laval"
@@ -781,3 +809,24 @@ disableKinds = ["taxonomy", "term"]
 
 [pagination]
   pagerSize = 9
+
+    [[languages.ar.menus.main]]
+      parent     = "buyer"
+      identifier = "buyer-afford"
+      name       = "القدرة على الاقتراض"
+      url        = "/ar/tools/affordability/"
+      weight     = 4
+
+    [[languages.ar.menus.main]]
+      parent     = "buyer"
+      identifier = "buyer-welcome-tax"
+      name       = "ضريبة الترحيب"
+      url        = "/ar/tools/welcome-tax/"
+      weight     = 6
+
+    [[languages.ar.menus.main]]
+      parent     = "seller"
+      identifier = "seller-rvb"
+      name       = "الإيجار أم الشراء"
+      url        = "/ar/tools/rent-vs-buy/"
+      weight     = 4

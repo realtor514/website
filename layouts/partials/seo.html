@@ -6,13 +6,28 @@
 {{- $p := $site.Params -}}
 {{- $baseURL := $site.BaseURL | strings.TrimSuffix "/" -}}
 {{- $desc := cond (ne .Description "") .Description $p.description -}}
+{{- /* Les fiches de proprietes n ont pas de champ `image` mais une liste
+       `images`: sans ce repli, partager une maison affichait le portrait du
+       courtier au lieu de la propriete. On prend donc la premiere photo. */ -}}
 {{- $ogImage := "" -}}
 {{- with .Params.image -}}
   {{- $ogImage = . | absURL -}}
 {{- else -}}
-  {{- $ogImage = $p.ogImage | absURL -}}
+  {{- with .Params.images -}}
+    {{- $ogImage = (index . 0) | absURL -}}
+  {{- else -}}
+    {{- $ogImage = $p.ogImage | absURL -}}
+  {{- end -}}
 {{- end -}}
-{{- $title := cond .IsHome $site.Title (printf "%s | %s" .Title $p.name) -}}
+{{- /* Meme regle que la balise <title> du gabarit: le suffixe seulement s il
+       tient dans la limite d affichage. */ -}}
+{{- $suffixe := printf " | %s" $p.name -}}
+{{- $title := .Title -}}
+{{- if .IsHome -}}
+  {{- $title = $site.Title -}}
+{{- else if le (add (len .Title) (len $suffixe)) 60 -}}
+  {{- $title = printf "%s%s" .Title $suffixe -}}
+{{- end -}}
 
 {{- /* ── Alternates : une URL par langue + x-default ── */ -}}
 <link rel="alternate" hreflang="{{ .Language.LanguageCode | default .Lang }}" href="{{ .Permalink }}">
@@ -43,11 +58,12 @@
 {{- /* ── Open Graph complementaire ── */ -}}
 <meta property="og:image" content="{{ $ogImage }}">
 <meta property="og:image:alt" content="{{ $p.name }}, {{ $p.founderTitle }}">
-<meta property="og:site_name" content="{{ $site.Title }}">
-<meta property="og:locale" content="{{ replace (.Language.LanguageCode | default .Lang) "-" "_" }}">
+{{- /* Le nom de marque, pas le titre SEO complet de la page d accueil. */}}
+<meta property="og:site_name" content="{{ $p.name }}">
+<meta property="og:locale" content="{{ partial "oglocale" (.Language.LanguageCode | default .Lang) }}">
 {{- range .AllTranslations }}
   {{- if ne .Lang $.Lang }}
-<meta property="og:locale:alternate" content="{{ replace (.Language.LanguageCode | default .Lang) "-" "_" }}">
+<meta property="og:locale:alternate" content="{{ partial "oglocale" (.Language.LanguageCode | default .Lang) }}">
   {{- end }}
 {{- end }}
 {{- if and .IsPage .Date }}
@@ -113,7 +129,7 @@
         "@type" "OpeningHoursSpecification"
         "dayOfWeek" (slice "Monday" "Tuesday" "Wednesday" "Thursday" "Friday" "Saturday" "Sunday")
         "opens" "08:00"
-        "closes" "20:00"))
+        "closes" "21:00"))
       "founder" (dict "@id" $personID)
       "employee" (dict "@id" $personID)
 -}}
@@ -262,14 +278,19 @@
   {{- $graph = $graph | append $listing -}}
 {{- end -}}
 
-{{- /* ── FAQ declaree en frontmatter ── */ -}}
+{{- /* ── FAQ declaree en frontmatter ──
+       La reponse passe par `markdownify` comme a l affichage: sans lui, le
+       schema envoyait le markdown brut, du type [texte](/lien/), alors que la
+       page montre un lien, et Google refuse que le texte du schema differe du
+       texte visible. `plainify` retire ensuite les balises produites, le
+       schema attendant du texte et non du HTML. */ -}}
 {{- with .Params.faq -}}
   {{- $qa := slice -}}
   {{- range . -}}
     {{- $qa = $qa | append (dict
         "@type" "Question"
         "name" .q
-        "acceptedAnswer" (dict "@type" "Answer" "text" .a)) -}}
+        "acceptedAnswer" (dict "@type" "Answer" "text" (.a | markdownify | plainify))) -}}
   {{- end -}}
   {{- $graph = $graph | append (dict
       "@type" "FAQPage"

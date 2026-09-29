@@ -1,0 +1,11 @@
+{{- /* Met la region d un code de langue en majuscules pour Open Graph.
+       Facebook attend fr_CA, pas fr_ca: le simple remplacement du tiret par
+       un souligne laissait la region en minuscules, valeur que Facebook peut
+       ignorer. Les codes sans region, comme `ar`, ressortent inchanges.
+       Appel: {{ partial "oglocale" "fr-ca" }} donne fr_CA. */ -}}
+{{- $parts := split . "-" -}}
+{{- if gt (len $parts) 1 -}}
+  {{- printf "%s_%s" (index $parts 0) (upper (index $parts 1)) -}}
+{{- else -}}
+  {{- . -}}
+{{- end -}}
