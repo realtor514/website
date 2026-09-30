@@ -53,6 +53,12 @@ QUERIES = {
     "ventre-de-boeuf-drain-montreal": "basement plumbing pipes drain",
     "vice-cache-conditions-recours-quebec": "water damage wall ceiling stain",
     "garantie-gcr-maison-neuve-quebec": "new house construction framing",
+    "acheter-maison-campagne-quebec": "rural farmhouse countryside quebec",
+    "entretien-hivernal-maison-quebec": "house roof snow winter",
+    "hausse-frais-de-condo-quebec": "brick condo building balconies canada",
+    "maison-passive-novoclimat-quebec": "house insulation wall construction",
+    "maisons-abandonnees-ventes-pour-taxes": "abandoned house boarded windows",
+    "permis-abattage-arbres-quebec": "arborist cutting tree chainsaw",
 }
 
 

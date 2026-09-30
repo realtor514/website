@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Permis d'abattage d'arbre à Montréal et à Laval : motifs acceptés, documents, délais, tarifs par arrondissement, frêne, amende et revente."
 image: "images/articles/permis-abattage-arbres-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Un érable qui dépérit dans la cour, un devis d’émondeur pour jeudi, et la

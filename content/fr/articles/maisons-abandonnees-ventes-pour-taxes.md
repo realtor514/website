@@ -7,7 +7,7 @@ category: "Investissement"
 description: "Vente pour taxes municipales au Québec: qui vend, ce qui se paie sur place, le droit de retrait d’un an et les charges qui survivent à l’encan."
 image: "images/articles/maisons-abandonnees-ventes-pour-taxes/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Une maison à l’abandon, un encan municipal, un prix qui paraît dérisoire: la vente

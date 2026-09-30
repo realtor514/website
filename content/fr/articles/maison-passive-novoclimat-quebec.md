@@ -7,7 +7,7 @@ category: "Immobilier 101"
 description: "Maison passive au Québec: la norme à 15 kWh/m², l'étanchéité à 0,6, le seul surcoût chiffré par Québec, et ce qu'aucune source ne dit."
 image: "images/articles/maison-passive-novoclimat-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Une fiche qui annonce « maison passive » ne prouve rien au Québec. Trois choses très différentes circulent sous des noms voisins, et elles n'ont ni le même organisme, ni les mêmes critères, ni la même valeur en argent. Voici les chiffres exacts de chacune, le seul surcoût que le gouvernement du Québec publie, et les questions auxquelles aucune source officielle ne répond.

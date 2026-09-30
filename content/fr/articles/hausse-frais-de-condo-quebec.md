@@ -7,7 +7,7 @@ category: "Immobilier 101"
 description: "Augmentation des frais de condo au Québec: pourquoi la loi 16 la programme, qui la décide vraiment, et le recours de 90 jours pour la contester."
 image: "images/articles/hausse-frais-de-condo-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 L’avis de convocation annonce une hausse des charges communes et personne ne vous a

@@ -7,7 +7,7 @@ category: "Guide pratique"
 description: "Entretien maison hiver au Québec: les sept jours d'absence, le chauffage minimal de 21 °C et de 22 °C, et ce qui fait refuser une réclamation."
 image: "images/articles/entretien-hivernal-maison-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Une liste de bons gestes d'hiver ne résiste pas à un expert en sinistre. Ce qui

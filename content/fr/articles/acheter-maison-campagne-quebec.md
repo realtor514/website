@@ -7,7 +7,7 @@ category: "Guide de l'acheteur"
 description: "Zone agricole et CPTAQ, chemin privé, assurance, services: les vérifications avant d'acheter une maison de campagne au Québec pour y vivre à l'année."
 image: "images/articles/acheter-maison-campagne-quebec/featured.jpg"
 needs_expert_review: true
-draft: true
+draft: false
 ---
 
 Une résidence principale à la campagne n'est pas un chalet avec le chauffage en

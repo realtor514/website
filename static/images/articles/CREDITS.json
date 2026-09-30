@@ -532,5 +532,41 @@
   "photographe": "Richard Bell",
   "page": "https://unsplash.com/photos/a-green-and-white-for-sale-sign-with-a-bird-perched-on-it-z1EIv3nsHJQ",
   "recherche": "house for sale sign"
+ },
+ "acheter-maison-campagne-quebec": {
+  "source": "unsplash",
+  "photographe": "Mathias Reding",
+  "page": "https://unsplash.com/photos/wooden-covered-bridge-on-snowy-road-C7QWdNRLUq0",
+  "recherche": "rural farmhouse countryside quebec"
+ },
+ "entretien-hivernal-maison-quebec": {
+  "source": "unsplash",
+  "photographe": "Tracy Adams",
+  "page": "https://unsplash.com/photos/houses-covered-with-snow-during-daytime-ljrQbQoOqhk",
+  "recherche": "house roof snow winter"
+ },
+ "hausse-frais-de-condo-quebec": {
+  "source": "unsplash",
+  "photographe": "Lucas George Wendt",
+  "page": "https://unsplash.com/photos/a-very-tall-building-with-a-clock-on-the-side-of-it-9RHvOw3GMuw",
+  "recherche": "brick condo building balconies canada"
+ },
+ "maison-passive-novoclimat-quebec": {
+  "source": "unsplash",
+  "photographe": "Erik Mclean",
+  "page": "https://unsplash.com/photos/person-installing-wiring-in-wall-insulation-aCshJn3y93s",
+  "recherche": "house insulation wall construction"
+ },
+ "maisons-abandonnees-ventes-pour-taxes": {
+  "source": "unsplash",
+  "photographe": "Sebastian Herrmann",
+  "page": "https://unsplash.com/photos/empty-ruin-house-ysqlsEnWpLg",
+  "recherche": "abandoned house boarded windows"
+ },
+ "permis-abattage-arbres-quebec": {
+  "source": "unsplash",
+  "photographe": "kasia",
+  "page": "https://unsplash.com/photos/a-man-cutting-a-tree-with-a-chainsaw-9wZCTO4SiMU",
+  "recherche": "arborist cutting tree chainsaw"
  }
 }
