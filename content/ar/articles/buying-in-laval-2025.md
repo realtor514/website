@@ -1,5 +1,5 @@
 ---
-title: "الشراء في لافال: القطاعات الستة  [bytes=57]"
+title: "الشراء في لافال: القطاعات الستة"
 date: 2026-05-19
 lastmod: 2026-09-21
 translationKey: "article-buying-in-laval"

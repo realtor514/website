@@ -1,5 +1,5 @@
 ---
-title: "القانون 16 والملكية المشتركة في كيبيك  [bytes=67]"
+title: "القانون 16 والملكية المشتركة في كيبيك"
 date: 2026-09-10
 lastmod: 2026-09-10
 translationKey: "article-loi-16-copropriete"

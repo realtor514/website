@@ -1,5 +1,5 @@
 ---
-title: "المسكن بين الأجيال في لافال ومونتريال  [bytes=69]"
+title: "المسكن بين الأجيال في لافال ومونتريال"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-intergenerationnelle"

@@ -1,5 +1,5 @@
 ---
-title: "التفاوض على عقار في مونتريال  [bytes=52]"
+title: "التفاوض على عقار في مونتريال"
 date: 2026-07-02
 lastmod: 2026-09-21
 translationKey: "article-strategies-negociation"
