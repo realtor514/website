@@ -88,6 +88,6 @@ The comparative analysis is prepared at no charge, with closed sales from your s
 
 ## Where to start
 
-Establish your range with the [affordability calculator](/en/tools/affordability/), then add the [transfer duties](/en/tools/welcome-tax/) to your closing costs. The overall picture is on the [Longueuil](/en/real-estate-broker/longueuil/) page. You also benefit from the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller, covering up to $50,000 in latent defects for three years.
+Establish your range with the [affordability calculator](/en/tools/affordability/), then add the [transfer duties](/en/tools/welcome-tax/) to your closing costs. The overall picture is on the [Longueuil](/en/real-estate-broker/longueuil/) page. You also benefit from the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller or by the buyer, covering up to $50,000 in latent defects for three years.
 
 For an evaluation at no charge and with no obligation, write to me through the [contact form](/en/form/).

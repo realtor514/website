@@ -59,13 +59,13 @@
     <p>
       {{ if .Params.paid }}
         {{ if $isFr }}
-          Cette garantie est payante: un montant de base de 1 050 $ payé par le vendeur. Écrivez-moi et je vous explique exactement ce qui s'applique à votre situation.
+          Cette garantie est payante: à partir de 975 $ plus taxes si le vendeur la paie, à partir de 675 $ plus taxes si c'est l'acheteur. Écrivez-moi et je vous explique exactement ce qui s'applique à votre situation.
         {{ else if $isAr }}
-          هذا الضمان مدفوع: مبلغ أساسي قدره 1 050 دولاراً يدفعه البائع. راسلني وسأشرح لك بالضبط ما ينطبق على وضعك.
+          هذا الضمان مدفوع: ابتداءً من 975 دولاراً زائد الضرائب إذا دفعه البائع، ومن 675 دولاراً زائد الضرائب إذا دفعه المشتري. راسلني وسأشرح لك بالضبط ما ينطبق على وضعك.
         {{ else if $isEs }}
-          Esta garantía no es gratuita: un monto base de 1 050 $ que paga el vendedor. Escríbame y le explico exactamente qué aplica a su situación.
+          Esta garantía no es gratuita: desde 975 $ más impuestos si la paga el vendedor, desde 675 $ más impuestos si la paga el comprador. Escríbame y le explico exactamente qué aplica a su situación.
         {{ else }}
-          This guarantee is not free: a base amount of $1,050 paid by the seller. Write to me and I will explain exactly what applies to your situation.
+          This guarantee is not free: from $975 plus taxes if the seller pays for it, from $675 plus taxes if the buyer does. Write to me and I will explain exactly what applies to your situation.
         {{ end }}
       {{ else }}
         {{ if $isFr }}

@@ -95,6 +95,6 @@ Selon les statistiques de l'APCIQ pour août 2026, Laval a enregistré 255 vente
 
 À vérifier en plus de la zone inondable et du zonage: l'âge réel de la toiture et des fenêtres, l'état du drain français pour les propriétés des années 1980, et la présence d'un ancien réservoir d'huile sur les terrains plus anciens. Rien de cela ne remplace une [inspection préachat](/articles/inspection-preachat-cout-moment-quebec/) par un professionnel.
 
-Vous bénéficiez de la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur, qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans après l'acte notarié.
+Vous bénéficiez de la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur ou par l'acheteur, qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans après l'acte notarié.
 
 Établissez votre fourchette réelle avec le [calculateur de capacité d'emprunt](/tools/affordability/), puis [écrivez-moi](/formulaire/): on regarde le zonage, la cote de crue et le compte de taxes de l'adresse avant de rédiger l'offre.

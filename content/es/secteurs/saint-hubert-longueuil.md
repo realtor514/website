@@ -78,6 +78,6 @@ El análisis comparativo se prepara sin costo, a partir de las ventas del micros
 
 **El edificio.** Sobre un parque mayoritariamente posterior a 1960: el cableado de aluminio, corriente en casas de mediados de los 1960 a finales de los 1970, que las aseguradoras suelen exigir certificar por un maestro electricista; el antiguo tanque de mazut, cuya descontaminación sigue al inmueble; el drenaje francés de origen. Certificado de localización al día e inspección de precompra: las pruebas especializadas se facturan aparte, como explica la [guía de inspección de precompra](/es/articles/home-inspection-cost-timing-quebec/).
 
-También se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor, que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial.
+También se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor o por el comprador, que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial.
 
 Para el resto de la ciudad, vea mi página [Longueuil](/es/corredor-inmobiliario/longueuil/) y el artículo [sectores escolares y valor de las propiedades](/es/articles/school-districts-property-values/). Antes de las visitas, establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) y sus derechos de mutación con la [calculadora de impuesto de bienvenida](/es/tools/welcome-tax/), luego [escríbame](/es/formulario/): miramos las curvas isofónicas y la zonificación antes de la oferta.

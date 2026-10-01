@@ -88,6 +88,6 @@ L'analyse comparative est préparée sans frais, avec les ventes conclues de vot
 
 ## Pour commencer
 
-Établissez votre fourchette avec le [calculateur de capacité d'emprunt](/tools/affordability/), puis ajoutez les [droits de mutation](/tools/welcome-tax/) à vos frais de clôture. Le portrait d'ensemble est sur la page [Longueuil](/courtier-immobilier/longueuil/). Vous bénéficiez aussi de la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur, qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans.
+Établissez votre fourchette avec le [calculateur de capacité d'emprunt](/tools/affordability/), puis ajoutez les [droits de mutation](/tools/welcome-tax/) à vos frais de clôture. Le portrait d'ensemble est sur la page [Longueuil](/courtier-immobilier/longueuil/). Vous bénéficiez aussi de la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur ou par l'acheteur, qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans.
 
 Pour une évaluation sans frais et sans engagement, écrivez-moi par le [formulaire](/formulaire/).

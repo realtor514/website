@@ -17,5 +17,5 @@ faq:
   - q: "Combien de temps prend la vente d'une propriété?"
     a: "Cela varie selon le secteur, le type de propriété et le prix d'affichage. Une propriété bien préparée et correctement affichée reçoit généralement ses meilleures offres dans les trois premières semaines. Une propriété surévaluée qui doit baisser son prix par la suite se vend presque toujours moins cher et plus lentement."
   - q: "Offrez-vous des garanties supplémentaires?"
-    a: "Oui. [Tranquilli-T](/advantages/tranquilli-t/) pour l'assistance juridique et [Coproprié-T](/advantages/coproprie-t/) pour les transactions en copropriété sont inclus sans frais additionnels. [Intégri-T](/advantages/integri-t/), qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans, est une garantie payante: un montant de base de 1 050 $ payé par le vendeur à l'émission du certificat."
+    a: "Oui. [Tranquilli-T](/advantages/tranquilli-t/) pour l'assistance juridique et [Coproprié-T](/advantages/coproprie-t/) pour les transactions en copropriété sont inclus sans frais additionnels. [Intégri-T](/advantages/integri-t/), qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans, est une garantie payante: à partir de 975 $ plus taxes si le vendeur la paie, à partir de 675 $ plus taxes si c'est l'acheteur."
 ---

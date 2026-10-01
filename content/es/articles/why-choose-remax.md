@@ -1,7 +1,7 @@
 ---
 title: "La marca inmobiliaria en Quebec"
 date: 2026-05-03
-lastmod: 2026-09-21
+lastmod: 2026-10-01
 category: "Inmobiliaria 101"
 description: "Licencia, fondo de indemnización, formularios obligatorios: lo que es idéntico con todos los corredores de Quebec, y lo que los programas de RE/MAX añaden de verdad."
 image: "images/articles/why-choose-remax/featured.jpg"
@@ -122,25 +122,32 @@ en la póliza.
 ### Integri-T: la garantía, su costo y lo que excluye
 
 [Integri-T](/es/advantages/integri-t/) protege al comprador hasta 50 000 $
-contra los vicios ocultos durante 3 años tras la escritura de compra, en
-asociación con ACQ Résidentiel. Cuando el comprador también se adhiere a la
-garantía, la responsabilidad del vendedor se limita a los primeros 5 000 $.
+contra los vicios ocultos durante 3 años tras la escritura de venta. Cuando el
+comprador también se adhiere a la garantía, la responsabilidad del vendedor se
+limita a los primeros 5 000 $.
 
-A diferencia de Tranquilli-T, no es gratuita. RE/MAX Québec la ofrece a los
-propietarios vendedores mediante un monto base de 1 050 $, pagadero al emitirse
-el certificado de garantía, ante el notario o antes. El monto puede ser más alto
-para un condominio, con 150 $ adicionales por unidad adicional, y las tarifas
-pueden cambiar sin previo aviso: la tabla de tarifas se obtiene con su corredor
-o con el servicio al cliente.
+El programa cambió de socio el 1 de octubre de 2026: ahora se ofrece en
+colaboración con GBQ, Garantie des bâtiments, una empresa independiente de
+caución, y ya no con ACQ Résidentiel. Los formularios, el texto de garantía y los
+datos de contacto fueron reemplazados en esa fecha. Un documento Integri-T
+anterior ya no es el que se aplica.
 
-Varias exclusiones importan tanto como el tope. Los edificios comerciales, los
-edificios de menos de 5 años, las ejecuciones hipotecarias y las propiedades
-vendidas sin garantía legal no son elegibles, y en copropiedad solo se cubren
-las partes privativas. Sobre todo, los elementos que un inspector detectó y
-consignó en su informe quedan fuera de la cobertura: la garantía se refiere a lo
-que estaba oculto, no a lo que estaba escrito. Por último, debe establecerse
-antes de la firma de la escritura notarial, y el análisis del expediente toma
-unos cinco días hábiles. Después del notario, no hay recuperación posible.
+A diferencia de Tranquilli-T, no es gratuita, pero su precio bajó con el cambio
+de socio: desde 975 $ más impuestos cuando la paga el vendedor, desde 675 $ más
+impuestos cuando la paga el comprador. Son precios de partida, y las tarifas
+pueden cambiar sin previo aviso: la tabla se obtiene con su corredor o con el
+servicio al cliente.
+
+Las condiciones importan tanto como el tope. Hace falta un informe de inspección
+previa a la compra reciente, elaborado por un inspector miembro de una asociación
+reconocida, para que el edificio sea evaluado y la garantía se active: sin
+inspección, no hay garantía. Un inmueble vacante, descuidado o en ejecución
+hipotecaria no es elegible, y en copropiedad la unidad se trata como el edificio
+principal. Sobre todo, los elementos que un inspector detectó y consignó en su
+informe quedan fuera de la cobertura: la garantía se refiere a lo que estaba
+oculto, no a lo que estaba escrito. Por último, debe establecerse antes de la
+firma de la escritura notarial, y la cláusula debe figurar en la promesa de
+compra. Después del notario, no hay recuperación posible.
 
 ### Coproprie-T: competencia, no un cheque
 

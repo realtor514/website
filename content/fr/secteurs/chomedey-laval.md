@@ -85,6 +85,6 @@ Ensuite l'eau. La Ville de Laval indique qu'une maison construite avant 1967 peu
 
 Le reste ne change pas: toiture, fenêtres, drain français, panneau électrique, inspection préachat par un inspecteur en bâtiment. Pour une copropriété: déclaration, procès-verbaux, fonds de prévoyance. Pour un plex: baux, loyers réellement perçus, rendement une fois la réserve pour travaux provisionnée.
 
-Vous bénéficiez aussi d'[Intégri-T](/advantages/integri-t/), payée par le vendeur, qui couvre jusqu'à 50 000 $ de vices cachés pendant trois ans après l'acte notarié, et de [Tranquilli-T](/advantages/tranquilli-t/).
+Vous bénéficiez aussi d'[Intégri-T](/advantages/integri-t/), payée par le vendeur ou par l'acheteur, qui couvre jusqu'à 50 000 $ de vices cachés pendant trois ans après l'acte notarié, et de [Tranquilli-T](/advantages/tranquilli-t/).
 
 Avant de visiter, établissez votre fourchette avec le [calculateur de capacité d'emprunt](/tools/affordability/) et chiffrez la [taxe de bienvenue](/tools/welcome-tax/). Pour le portrait plus large: [courtier immobilier à Laval](/courtier-immobilier/laval/), [acheter à Laval](/articles/acheter-laval-2025/) et [investir dans un triplex à Laval](/articles/investir-triplex-laval/). Pour une propriété précise, écrivez-moi par le [formulaire de contact](/formulaire/).

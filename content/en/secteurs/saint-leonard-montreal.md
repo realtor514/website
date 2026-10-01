@@ -78,6 +78,6 @@ A plex sells on its numbers: signed leases and section G, tax bills, an insuranc
 
 **State of repair.** From the same municipal source, 1,815 occupied dwellings in the borough needed major repairs in 2021, that is 5.8% of the stock.
 
-You also benefit from the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller, covering up to $50,000 in latent defects for three years after the notarial deed.
+You also benefit from the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller or by the buyer, covering up to $50,000 in latent defects for three years after the notarial deed.
 
 For the rest of the island, see my [Montreal](/en/real-estate-broker/montreal/) page. Before starting visits, set your real range with the [affordability calculator](/en/tools/affordability/), then [write to me](/en/form/): we look at the leases, the tax bill and the permit history before drafting the offer.

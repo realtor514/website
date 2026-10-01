@@ -85,6 +85,6 @@ Después, el agua. La Ville de Laval indica que una casa construida antes de 196
 
 El resto no cambia: techo, ventanas, drenaje francés, panel eléctrico, inspección previa a la compra por un inspector de edificios. Para una copropiedad: declaración, actas, fondo de previsión. Para un plex: contratos de alquiler, alquileres realmente cobrados, rendimiento una vez provisionada la reserva para obras.
 
-También se beneficia de [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor, que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial, y de [Tranquilli-T](/es/advantages/tranquilli-t/).
+También se beneficia de [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor o por el comprador, que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial, y de [Tranquilli-T](/es/advantages/tranquilli-t/).
 
 Antes de visitar, establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) y calcule el [impuesto de bienvenida](/es/tools/welcome-tax/). Para el panorama más amplio: [corredor inmobiliario en Laval](/es/corredor-inmobiliario/laval/), [comprar en Laval](/es/articles/comprar-en-laval-2025/) e [invertir en un triplex en Laval](/es/articles/investir-triplex-laval-strategie/). Para una propiedad concreta, escríbame por el [formulario de contacto](/es/formulario/).

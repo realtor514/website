@@ -78,6 +78,6 @@ Un plex se vend sur ses chiffres: baux signés et section G, comptes de taxes, s
 
 **L'état d'entretien.** Selon la même source municipale, 1 815 logements occupés de l'arrondissement nécessitaient des réparations majeures en 2021, soit 5,8 % du parc.
 
-Vous bénéficiez aussi de la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur, qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans après l'acte notarié.
+Vous bénéficiez aussi de la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur ou par l'acheteur, qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans après l'acte notarié.
 
 Pour le reste de l'île, voyez ma page [Montréal](/courtier-immobilier/montreal/). Avant les visites, établissez votre fourchette avec le [calculateur de capacité d'emprunt](/tools/affordability/), puis [écrivez-moi](/formulaire/): on regarde les baux, le compte de taxes et l'historique des permis avant de rédiger l'offre.

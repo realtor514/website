@@ -95,6 +95,6 @@ Según las estadísticas de la APCIQ para agosto de 2026, Laval registró 255 ve
 
 Qué verificar además de la zona inundable y de la zonificación: la edad real del techo y de las ventanas, el estado del drenaje francés en las propiedades de los años 1980, y un antiguo tanque de aceite en los terrenos más antiguos. Nada de eso reemplaza una [inspección previa a la compra](/es/articles/home-inspection-cost-timing-quebec/) por un profesional.
 
-Usted se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor, que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial.
+Usted se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor o por el comprador, que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial.
 
 Establezca su horquilla real con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) y [escríbame](/es/formulario/): miramos la zonificación, la cota de crecida y la cuenta de impuestos de la dirección antes de redactar la oferta.

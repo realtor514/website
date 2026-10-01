@@ -17,5 +17,5 @@ faq:
   - q: "How long does it take to sell a property?"
     a: "It varies by sector, property type and list price. A well-prepared, correctly priced property generally receives its best offers within the first three weeks. An overpriced property that has to cut its price later almost always sells for less and takes longer."
   - q: "Do you offer additional guarantees?"
-    a: "Yes. [Tranquilli-T](/en/advantages/tranquilli-t/) for legal assistance and [Coproprié-T](/en/advantages/coproprie-t/) for condominium transactions are included at no additional cost. [Intégri-T](/en/advantages/integri-t/), which covers up to $50,000 in latent defects for three years, is a paid guarantee: a base amount of $1,050 paid by the seller when the certificate is issued."
+    a: "Yes. [Tranquilli-T](/en/advantages/tranquilli-t/) for legal assistance and [Coproprié-T](/en/advantages/coproprie-t/) for condominium transactions are included at no additional cost. [Intégri-T](/en/advantages/integri-t/), which covers up to $50,000 in latent defects for three years, is a paid guarantee: from $975 plus taxes if the seller pays for it, from $675 plus taxes if the buyer does."
 ---

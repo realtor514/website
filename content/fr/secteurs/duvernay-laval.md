@@ -78,6 +78,6 @@ L'analyse comparative est préparée sans frais, avec un avis franc sur ce qui d
 
 **Les chantiers.** Le prolongement de l'autoroute 19 entre le boulevard Saint-Martin Est, à Laval, et le boulevard Industriel, à Bois-des-Filion, porte sur 11,8 km à trois voies par direction, avec des voies réservées aux autobus, aux taxis et au covoiturage, pour 899,4 M$. Le gouvernement du Québec indique que l'échéancier de la mise en service complète est en réévaluation. À la limite ouest de Duvernay, cela change le trajet et la circulation de chantier.
 
-Vous bénéficiez aussi de la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur, qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans après l'acte notarié.
+Vous bénéficiez aussi de la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur ou par l'acheteur, qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans après l'acte notarié.
 
 Pour le reste de la ville, voyez ma page [Laval](/courtier-immobilier/laval/) et l'article [acheter à Laval](/articles/acheter-laval-2025/). Avant les visites, établissez votre fourchette avec le [calculateur de capacité d'emprunt](/tools/affordability/), puis [écrivez-moi](/formulaire/): on regarde le zonage, les cotes de crue et le compte de taxes de l'adresse avant de rédiger l'offre.

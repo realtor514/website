@@ -78,6 +78,6 @@ The comparative analysis is prepared at no charge, from the sales of your micro 
 
 **The building.** On a stock largely built after 1960: aluminum wiring, common in houses from the mid 1960s to the late 1970s, which insurers often ask to have certified by a master electrician; the old fuel oil tank, whose eventual decontamination follows the property; and the original French drain. An up to date certificate of location and a pre-purchase inspection: specialized tests are billed separately, as the [pre-purchase inspection guide](/en/articles/home-inspection-cost-timing-quebec/) explains.
 
-You also benefit from the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller, covering up to $50,000 in latent defects for three years after the notarial deed.
+You also benefit from the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller or by the buyer, covering up to $50,000 in latent defects for three years after the notarial deed.
 
 For the rest of the city, see my [Longueuil](/en/real-estate-broker/longueuil/) page and the article on [school districts and property values](/en/articles/school-districts-property-values/). Before visits, set your range with the [affordability calculator](/en/tools/affordability/) and your transfer duties with the [welcome tax calculator](/en/tools/welcome-tax/), then [write to me](/en/form/): we look at the isophonic curves and the zoning of the address before the offer.

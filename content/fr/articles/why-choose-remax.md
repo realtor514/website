@@ -1,7 +1,7 @@
 ---
 title: "Bannière immobilière au Québec : le rôle"
 date: 2026-05-03
-lastmod: 2026-09-21
+lastmod: 2026-10-01
 category: "Immobilier 101"
 description: "Permis, fonds d'indemnisation, formulaires obligatoires : ce qui est identique chez tous les courtiers du Québec, et ce que les programmes RE/MAX ajoutent vraiment."
 image: "images/articles/why-choose-remax/featured.jpg"
@@ -116,26 +116,31 @@ contrat et que les modalités, limitations et exclusions se trouvent dans la pol
 ### Intégri-T : la garantie, son coût et ce qu'elle exclut
 
 [Intégri-T](/advantages/integri-t/) protège l'acheteur jusqu'à 50 000 $ contre les
-vices cachés pendant 3 ans suivant l'acte d'achat, en partenariat avec ACQ
-Résidentiel. Lorsque l'acheteur adhère aussi à la garantie, la responsabilité du
-vendeur est limitée au premier 5 000 $.
+vices cachés pendant 3 ans suivant l'acte de vente. Lorsque l'acheteur adhère
+aussi à la garantie, la responsabilité du vendeur est limitée au premier 5 000 $.
 
-Contrairement à Tranquilli-T, elle n'est pas gratuite. RE/MAX Québec l'offre aux
-propriétaires-vendeurs moyennant un montant de base de 1 050 $, payable à
-l'émission du certificat de garantie, chez le notaire ou avant. Le montant peut
-être plus élevé pour une copropriété, avec 150 $ de plus par unité additionnelle,
-et les tarifs peuvent changer sans préavis : la grille de frais s'obtient auprès
-de votre courtier ou du service à la clientèle.
+Le programme a changé de partenaire le 1er octobre 2026 : il est désormais offert
+en collaboration avec GBQ, Garantie des bâtiments, une entreprise de cautionnement
+indépendante, et non plus avec ACQ Résidentiel. Les formulaires, le texte de
+garantie et les coordonnées ont tous été remplacés à cette date. Un document
+Intégri-T antérieur n'est plus celui qui s'applique.
 
-Plusieurs exclusions comptent autant que le plafond. Les bâtiments commerciaux, les
-bâtiments de moins de 5 ans, les reprises hypothécaires et les propriétés vendues
-sans garantie légale ne sont pas admissibles, et en copropriété, seules les
-parties privatives sont couvertes. Surtout, les éléments qu'un inspecteur a
-détectés et consignés dans son rapport sont retirés de la couverture : la garantie
-porte sur ce qui était caché, pas sur ce qui était écrit. Enfin, elle doit être
-mise en place avant la signature de l'acte notarié, et l'analyse du dossier
-demande environ cinq jours ouvrables. Après le notaire, il n'y a pas de
-rattrapage.
+Contrairement à Tranquilli-T, elle n'est pas gratuite, mais son prix a baissé avec
+le changement de partenaire : à partir de 975 $ plus taxes lorsque le vendeur la
+paie, à partir de 675 $ plus taxes lorsque c'est l'acheteur. Ce sont des prix de
+départ, et les tarifs peuvent changer sans préavis : la grille s'obtient auprès de
+votre courtier ou du service à la clientèle.
+
+Les conditions comptent autant que le plafond. Il faut un rapport d'inspection
+préachat récent, produit par un inspecteur membre d'une association reconnue, pour
+que le bâtiment soit évalué et la garantie activée : pas d'inspection, pas de
+garantie. Un immeuble vacant, négligé ou en reprise de finance n'est pas
+admissible, et en copropriété, l'unité est traitée comme le bâtiment principal.
+Surtout, les éléments qu'un inspecteur a détectés et consignés dans son rapport
+sont retirés de la couverture : la garantie porte sur ce qui était caché, pas sur
+ce qui était écrit. Enfin, elle doit être mise en place avant la signature de
+l'acte notarié, et la clause doit apparaître dans la promesse d'achat. Après le
+notaire, il n'y a pas de rattrapage.
 
 ### Coproprié-T : de la compétence, pas un chèque
 

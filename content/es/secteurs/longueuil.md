@@ -60,4 +60,4 @@ La cuenca de compradores viene tanto de la isla como de la Rive-Sud, lo que ampl
 
 El análisis comparativo se prepara sin costo. Para comprar, establezca su horquilla real con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/) y prevea los [costos de cierre](/es/tools/closing-costs/).
 
-También se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor: hasta 50 000 $ contra los vicios ocultos durante tres años.
+También se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor o por el comprador: hasta 50 000 $ contra los vicios ocultos durante tres años.

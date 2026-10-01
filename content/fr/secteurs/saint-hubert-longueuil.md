@@ -78,6 +78,6 @@ L'analyse comparative est préparée sans frais, à partir des ventes du micro-s
 
 **Le bâtiment.** Sur un parc largement postérieur à 1960: le câblage en aluminium, courant du milieu des années 1960 à la fin des années 1970, que les assureurs font souvent certifier par un maître électricien; l'ancien réservoir de mazout, dont la décontamination éventuelle suit l'immeuble; le drain français d'origine. Certificat de localisation à jour et inspection préachat: les tests spécialisés se facturent à part, comme l'explique le [guide de l'inspection préachat](/articles/inspection-preachat-cout-moment-quebec/).
 
-Vous bénéficiez aussi de la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur, qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans après l'acte notarié.
+Vous bénéficiez aussi de la garantie [Intégri-T](/advantages/integri-t/), payée par le vendeur ou par l'acheteur, qui couvre jusqu'à 50 000 $ en vices cachés pendant trois ans après l'acte notarié.
 
 Pour le reste de la ville, voyez ma page [Longueuil](/courtier-immobilier/longueuil/) et l'article [secteurs scolaires et valeur des propriétés](/articles/school-districts-property-values/). Avant les visites, établissez votre fourchette avec le [calculateur de capacité d'emprunt](/tools/affordability/) et vos droits de mutation avec le [calculateur de taxe de bienvenue](/tools/welcome-tax/), puis [écrivez-moi](/formulaire/): on regarde les courbes isophoniques et le zonage de l'adresse avant l'offre.

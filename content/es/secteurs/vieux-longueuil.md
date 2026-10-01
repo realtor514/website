@@ -88,6 +88,6 @@ El análisis comparativo se prepara sin costo, con las ventas cerradas de su sec
 
 ## Para empezar
 
-Establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/), y añada los [derechos de mutación](/es/tools/welcome-tax/) a sus costos de cierre. El retrato de conjunto, en la página [Longueuil](/es/corredor-inmobiliario/longueuil/). También se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor, que cubre hasta 50 000 $ en vicios ocultos durante tres años.
+Establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/), y añada los [derechos de mutación](/es/tools/welcome-tax/) a sus costos de cierre. El retrato de conjunto, en la página [Longueuil](/es/corredor-inmobiliario/longueuil/). También se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor o por el comprador, que cubre hasta 50 000 $ en vicios ocultos durante tres años.
 
 Para una evaluación sin costo y sin compromiso, escríbame por el [formulario](/es/formulario/).

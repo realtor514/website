@@ -78,6 +78,6 @@ El análisis comparativo se prepara sin costo, con una opinión franca sobre lo 
 
 **Las obras.** La prolongación de la autopista 19 entre el boulevard Saint-Martin Est, en Laval, y el boulevard Industriel, en Bois-des-Filion, abarca 11,8 km con tres carriles por sentido, más carriles reservados a autobuses, taxis y transporte compartido, por 899,4 M$. El gobierno de Quebec indica que el calendario de la puesta en servicio completa está en reevaluación. En el límite oeste de Duvernay, eso cambia el trayecto y la circulación de obra.
 
-También se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor, que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial.
+También se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor o por el comprador, que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial.
 
 Para el resto de la ciudad, vea mi página [Laval](/es/corredor-inmobiliario/laval/) y el artículo [comprar en Laval](/es/articles/comprar-en-laval-2025/). Antes de las visitas, establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/), luego [escríbame](/es/formulario/): miramos el zoning, las cotas de crecida y la cuenta de impuestos de la dirección antes de redactar la oferta.

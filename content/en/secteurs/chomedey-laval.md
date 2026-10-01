@@ -85,6 +85,6 @@ Then water. Ville de Laval states that a house built before 1967 may have a lead
 
 The rest does not change: roof, windows, French drain, electrical panel, pre-purchase inspection by a building inspector. For a condominium: declaration of co-ownership, minutes, contingency fund. For a plex: leases, rents actually collected, and the return once a reserve for work is provisioned.
 
-You also benefit from [Intégri-T](/en/advantages/integri-t/), paid by the seller, covering up to $50,000 in latent defects for three years after the notarial deed, and from [Tranquilli-T](/en/advantages/tranquilli-t/).
+You also benefit from [Intégri-T](/en/advantages/integri-t/), paid by the seller or by the buyer, covering up to $50,000 in latent defects for three years after the notarial deed, and from [Tranquilli-T](/en/advantages/tranquilli-t/).
 
 Before visiting, set your range with the [affordability calculator](/en/tools/affordability/) and price the [welcome tax](/en/tools/welcome-tax/). For the wider picture: [real estate broker in Laval](/en/real-estate-broker/laval/), [buying in Laval](/en/articles/buying-in-laval-2025/) and [investing in a Laval triplex](/en/articles/investir-triplex-laval-strategie/). For a specific property, write to me through the [contact form](/en/form/).

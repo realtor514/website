@@ -95,6 +95,6 @@ According to APCIQ statistics for August 2026, Laval recorded 255 sales, down 20
 
 What to check beyond the flood zone and the zoning: the real age of the roof and windows, the state of the French drain for 1980s properties, and the presence of an old oil tank on older lots. None of this replaces a [pre-purchase inspection](/en/articles/home-inspection-cost-timing-quebec/) by a professional.
 
-You benefit from the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller, covering up to $50,000 in latent defects for three years after the notarial deed.
+You benefit from the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller or by the buyer, covering up to $50,000 in latent defects for three years after the notarial deed.
 
 Establish your real range with the [affordability calculator](/en/tools/affordability/), then [write to me](/en/form/): we look at the zoning, the flood level and the tax bill for the address before drafting the offer.

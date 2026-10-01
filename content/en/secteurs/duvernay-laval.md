@@ -78,6 +78,6 @@ The comparative analysis is prepared at no charge, with a frank read on what nee
 
 **The construction sites.** The Autoroute 19 extension between boulevard Saint-Martin Est in Laval and boulevard Industriel in Bois-des-Filion covers 11.8 km with three lanes per direction, plus lanes reserved for buses, taxis and carpooling, for $899.4 million. The Government of Quebec states that the schedule for full opening is under reassessment. On Duvernay's western edge, that changes both the commute and construction traffic.
 
-You also benefit from the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller, covering up to $50,000 in latent defects for three years after the notarial deed.
+You also benefit from the [Intégri-T](/en/advantages/integri-t/) guarantee, paid by the seller or by the buyer, covering up to $50,000 in latent defects for three years after the notarial deed.
 
 For the rest of the city, see my [Laval](/en/real-estate-broker/laval/) page and the article on [buying in Laval](/en/articles/buying-in-laval-2025/). Before visits, set your range with the [affordability calculator](/en/tools/affordability/), then [write to me](/en/form/): we look at the zoning, the flood levels and the tax bill for the address before drafting the offer.

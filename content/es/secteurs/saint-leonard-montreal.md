@@ -78,6 +78,6 @@ Un plex se vende con sus cifras: contratos firmados y sección G, cuentas de imp
 
 **El estado de conservación.** Según la misma fuente municipal, 1 815 viviendas ocupadas del distrito necesitaban reparaciones mayores en 2021, es decir el 5,8 % del parque.
 
-También se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor, que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial.
+También se beneficia de la garantía [Intégri-T](/es/advantages/integri-t/), pagada por el vendedor o por el comprador, que cubre hasta 50 000 $ en vicios ocultos durante tres años tras la escritura notarial.
 
 Para el resto de la isla, vea mi página [Montreal](/es/corredor-inmobiliario/montreal/). Antes de las visitas, establezca su horquilla con la [calculadora de capacidad de endeudamiento](/es/tools/affordability/), y luego [escríbame](/es/formulario/): miramos los contratos, la cuenta de impuestos y el historial de permisos antes de redactar la oferta.

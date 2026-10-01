@@ -371,6 +371,28 @@ Etat verifie dans le depot le 2026-08-31.
       `integri-t.md` le porte. A REVOIR si RE/MAX change sa grille.
       Divergence connue laissee en place: les pages de secteur longueuil ES
       et AR ne parlent pas d Integri-T, contrairement aux versions FR et EN.
+- [x] Integri-T change de partenaire - FAIT le 2026-10-01, sur courriel de
+      RE/MAX Quebec et les documents GBQ de septembre 2026. Le programme passe
+      d ACQ Residentiel a GBQ (Garantie des batiments GBQ inc., 255 boul.
+      Cure-Labelle bureau 6, Laval). Les chiffres de l entree precedente sont
+      perimes: le prix devient 975 $ + taxes cote vendeur et 675 $ + taxes
+      cote acheteur, le 150 $ par unite additionnelle et le delai de cinq
+      jours ouvrables disparaissent faute de source. Coordonnees:
+      remax-quebec.com/integri-t, info@integri-t.ca, 1 844 321-6611 ou
+      450 628-6611. L ancien site garantie-integri-t.com et l ancien numero
+      1-844-787-3450 ne valent plus. Le logo de l ACQ n est plus autorise
+      depuis le 1er octobre 2026: aucun n etait publie sur le site, verifie.
+      Corrige dans les 4 langues: `advantages/integri-t.md` (reecrite, avec
+      section sur le changement, liste officielle des elements couverts,
+      condition du rapport d inspection prealable, types de batiments elargis
+      au commercial et au mixte, etapes de reclamation), `advantages/_index.md`,
+      la FAQ de l accueil, `articles/why-choose-remax.md`, les 10 pages de
+      secteur qui disaient "payee par le vendeur", `layouts/advantages/single.html`
+      et `layouts/partials/protections-remax.html`. Documents sources dans
+      `inbox material/documents integrite/`. Le texte de garantie GBQ est
+      confidentiel (art. 35): la liste detaillee des exclusions n est pas
+      publiee sur le site, la page renvoie au texte remis au client.
+      A REVOIR si GBQ change sa grille.
 - [ ] Divergences exactes laissees en place a l audit, a aligner un jour dans
       les 4 langues (contenu juste, present dans une seule langue, surtout en
       AR): condition de financement dans bidding-wars, art. 15 dans

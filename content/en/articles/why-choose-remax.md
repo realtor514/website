@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Banners in Quebec: The Role"
 date: 2026-05-03
-lastmod: 2026-09-21
+lastmod: 2026-10-01
 category: "Real Estate 101"
 description: "Licence, indemnity fund, mandatory forms: what is identical with every broker in Quebec, and what the RE/MAX programs actually add."
 image: "images/articles/why-choose-remax/featured.jpg"
@@ -113,24 +113,30 @@ exclusions are set out in the policy.
 ### Integri-T: the warranty, its cost and what it excludes
 
 [Integri-T](/en/advantages/integri-t/) protects the buyer up to $50,000 against
-hidden defects for 3 years following the deed of purchase, in partnership with
-ACQ Résidentiel. When the buyer also joins the warranty, the seller's liability
-is limited to the first $5,000.
+hidden defects for 3 years following the deed of sale. When the buyer also joins
+the warranty, the seller's liability is limited to the first $5,000.
 
-Unlike Tranquilli-T, it is not free. RE/MAX Québec offers it to owner-sellers
-for a base amount of $1,050, payable when the warranty certificate is issued,
-at the notary's office or beforehand. The amount can be higher for a condo,
-with $150 more per additional unit, and rates can change without notice: the
-fee schedule is available from your broker or from customer service.
+The program changed partners on October 1, 2026: it is now offered in
+collaboration with GBQ, Garantie des bâtiments, an independent surety company,
+and no longer with ACQ Résidentiel. The forms, the warranty text and the contact
+information were all replaced on that date. An older Integri-T document is no
+longer the one that applies.
 
-Several exclusions matter as much as the ceiling. Commercial buildings,
-buildings less than 5 years old, mortgage repossessions and properties sold
-without legal warranty are not eligible, and in a condo, only the private
-portions are covered. Above all, items that an inspector detected and recorded
-in the report are removed from coverage: the warranty applies to what was
-hidden, not to what was written down. Finally, it must be put in place before
-the notarial deed is signed, and reviewing the file takes about five business
-days. After the notary, there is no catching up.
+Unlike Tranquilli-T, it is not free, but its price came down with the change of
+partner: from $975 plus taxes when the seller pays for it, from $675 plus taxes
+when the buyer does. These are starting prices, and rates can change without
+notice: the fee schedule is available from your broker or from customer service.
+
+The conditions matter as much as the ceiling. A recent pre-purchase inspection
+report, produced by an inspector who belongs to a recognized association, is
+required for the building to be assessed and the warranty to take effect: no
+inspection, no warranty. A vacant, neglected or repossessed building is not
+eligible, and in a co-ownership the unit is treated as the main building. Above
+all, items that an inspector detected and recorded in the report are removed
+from coverage: the warranty applies to what was hidden, not to what was written
+down. Finally, it must be put in place before the notarial deed is signed, and
+the clause must appear in the promise to purchase. After the notary, there is no
+catching up.
 
 ### Coproprie-T: competence, not a cheque
 
