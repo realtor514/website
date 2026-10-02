@@ -411,10 +411,14 @@
      l unifamiliale sur un prix au pied carre etabli pour le condo, alors que
      l unifamiliale se vend au pied carre moins cher que le condo dans ces
      marches. L erreur se compose ensuite avec la superficie.
-     En attendant une recalibration sur des donnees reelles, l intervalle
-     affiche est elargi et l avertissement dit ce que le chiffre vaut. Ne pas
-     inventer de nouveaux coefficients: les tirer de ventes Centris reelles,
-     par secteur et par type, et consigner la source dans meta/. */
+     DECISION du 2026-10-02: on garde l outil tel quel. L ecart est assume,
+     l intervalle affiche est elargi a +/- 15 % et l avertissement dit au
+     lecteur que le chiffre est un ordre de grandeur sans source publiee, pas
+     une valeur. Ce n est donc plus une representation incomplete au sens de
+     l article 112, mais le chiffre reste trop haut pour une unifamiliale.
+     Si on recalibre un jour: ne pas inventer de nouveaux coefficients, les
+     tirer de ventes Centris reelles par secteur et par type, et consigner la
+     source dans meta/ comme pour les articles. */
   var BASE = {
     'mtl-prestige':  700,
     'mtl-centre':    490,
