@@ -1,0 +1,39 @@
+{
+    "slug":  "best-mortgage-rate-canada",
+    "title":  "Meilleur taux hypothécaire au Canada",
+    "category":  "Financement",
+    "sources_recorded":  true,
+    "note":  "Journal de sources etabli le 2026-10-02 lors du rattrapage de l audit de responsabilite professionnelle. Cet article etait publie depuis des mois sans journal: ses chiffres etaient dates et attribues dans le corps du texte, mais rien sur le disque ne permettait de produire la source. Chaque chiffre ci-dessous a ete reverifie a la source ce jour-la.",
+    "review_status":  {
+                          "published":  true,
+                          "triage":  "2026-10-02",
+                          "open_professional_review":  0,
+                          "convention":  "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes."
+                      },
+    "sources":  [
+                    {
+                        "publisher":  "Banque du Canada",
+                        "title":  "Taux directeur",
+                        "url":  "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+                        "supports":  "Taux directeur maintenu a 2,25 pour cent a l annonce du 2 septembre 2026, septieme decision consecutive de maintien. Le taux est a ce niveau depuis le 29 octobre 2025.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "Banque du Canada",
+                        "title":  "Annonce concernant le taux directeur, 2 septembre 2026",
+                        "url":  "https://www.banqueducanada.ca/2026/09/annonce-banque-canada-concernant-taux-directeur-2026-09-2/",
+                        "supports":  "Les huit dates d annonce de 2026 sont confirmees: 28 janvier, 18 mars, 29 avril, 10 juin, 15 juillet, 2 septembre, 28 octobre et 9 decembre. Chaque annonce a lieu un mercredi a 9 h 45.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "Banque du Canada",
+                        "title":  "Taux d interet affiches par les grandes banques a charte",
+                        "url":  "https://www.banqueducanada.ca/taux/statistiques-bancaires-et-financieres/taux-dinteret-affiches-pour-certains-produits-par-les-grandes-banques-a-charte/",
+                        "supports":  "Taux preferentiel de 4,45 pour cent, inchange depuis l annonce du 2 septembre 2026 et commun aux six grandes banques.",
+                        "consulted":  "2026-10-02"
+                    }
+                ],
+    "claims_needing_review":  [
+                                  "RESOLU le 2026-10-02. Le maintien du taux directeur a 2,25 pour cent le 2 septembre 2026 est confirme."
+                              ]
+}

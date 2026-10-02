@@ -1,0 +1,25 @@
+{
+    "slug":  "losing-bidding-war-lessons",
+    "title":  "Promesse d\u0027achat refusée : la suite",
+    "category":  "Guide de l\u0027acheteur",
+    "sources_recorded":  true,
+    "note":  "Journal de sources etabli le 2026-10-02 lors du rattrapage de l audit de responsabilite professionnelle. Cet article etait publie depuis des mois sans journal: ses chiffres etaient dates et attribues dans le corps du texte, mais rien sur le disque ne permettait de produire la source. Chaque chiffre ci-dessous a ete reverifie a la source ce jour-la.",
+    "review_status":  {
+                          "published":  true,
+                          "triage":  "2026-10-02",
+                          "open_professional_review":  0,
+                          "convention":  "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes."
+                      },
+    "sources":  [
+                    {
+                        "publisher":  "La Presse, reprise du Quotidien du 11 septembre 2026",
+                        "title":  "Le ratio dette-revenu a baisse, selon Statistique Canada",
+                        "url":  "https://www.lapresse.ca/affaires/economie/2026-09-11/deuxieme-trimestre/le-ratio-dette-revenu-a-baisse-selon-statistique-canada.php",
+                        "supports":  "Ratio de la dette des menages sur le marche du credit a 176,4 pour cent du revenu disponible au deuxieme trimestre de 2026, en baisse par rapport a 178,6 pour cent au premier trimestre. Ratio du service de la dette a 14,52 pour cent, en baisse par rapport a 14,68 pour cent.",
+                        "consulted":  "2026-10-02"
+                    }
+                ],
+    "claims_needing_review":  [
+                                  "RESOLU le 2026-10-02. Le ratio de la dette des menages a 176,4 pour cent du revenu disponible et le ratio du service de la dette a 14,52 pour cent au deuxieme trimestre de 2026 sont confirmes, ainsi que la date du Quotidien, le 11 septembre 2026. Les deux ratios etaient en baisse par rapport au premier trimestre, ou ils etaient de 178,6 et de 14,68 pour cent: l article enonce des niveaux et non une direction, donc rien a corriger."
+                              ]
+}

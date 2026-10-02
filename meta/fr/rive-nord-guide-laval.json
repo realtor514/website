@@ -1,0 +1,32 @@
+{
+    "slug":  "rive-nord-guide-laval",
+    "title":  "Comparer les secteurs de la Rive-Nord",
+    "category":  "Guide de l\u0027acheteur",
+    "sources_recorded":  true,
+    "note":  "Journal de sources etabli le 2026-10-02 lors du rattrapage de l audit de responsabilite professionnelle. Cet article etait publie depuis des mois sans journal: ses chiffres etaient dates et attribues dans le corps du texte, mais rien sur le disque ne permettait de produire la source. Chaque chiffre ci-dessous a ete reverifie a la source ce jour-la.",
+    "review_status":  {
+                          "published":  true,
+                          "triage":  "2026-10-02",
+                          "open_professional_review":  0,
+                          "convention":  "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes."
+                      },
+    "sources":  [
+                    {
+                        "publisher":  "Statistique Canada",
+                        "title":  "Serie Perspective geographique, recensement de 2021, Laval",
+                        "url":  "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/page.cfm?lang=F\u0026topic=1\u0026dguid=2021A00052465005",
+                        "supports":  "Population recensee de 438 366 a Laval en 2021, en hausse de 3,6 pour cent sur 2016, et 169 785 logements privés occupés, en hausse de 5,9 pour cent.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "APCIQ, donnees Centris",
+                        "title":  "Statistiques du marche immobilier, aout 2026",
+                        "url":  "https://comapciqca-152af.kxcdn.com/fsmi-stats/mensuelles/2026/stats-202608-fr.pdf",
+                        "supports":  "Donnees d aout 2026 pour la RMR de Montreal: 2 853 ventes, baisse de 13 pour cent sur un an, 20 128 inscriptions en vigueur en hausse de 18 pour cent, delais de vente moyens de 42 jours pour l unifamiliale, 52 pour le plex et 62 pour la copropriete, prix medians de 650 000 $ pour l unifamiliale, 437 250 $ pour la copropriete et 856 000 $ pour le plex. Diffusion du 4 septembre 2026.",
+                        "consulted":  "2026-10-02"
+                    }
+                ],
+    "claims_needing_review":  [
+                                  "RESOLU le 2026-10-02. Le renvoi au Profil du recensement de 2021 et la mention de la diffusion mensuelle de l APCIQ par region sont exacts. L article ne chiffre pas de mediane, ce qui le rend durable."
+                              ]
+}

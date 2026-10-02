@@ -71,10 +71,27 @@ du régime d'un commun accord, par acte notarié en minute (art. 521.33).
 
 | Situation du couple | Maison dans un patrimoine partagé | Consentement requis pour vendre |
 |---|---|---|
-| Mariés ou unis civilement | Oui, patrimoine familial (art. 414) | Oui (art. 404) |
+| Mariés ou unis civilement | Oui, patrimoine familial (art. 414) | Oui (art. 404 ou 405) |
 | Union parentale, enfant depuis le 30 juin 2025 | Oui (art. 521.29) | Oui (art. 521.24) |
 | Enfants nés avant le 30 juin 2025, sans adhésion | Non | Non |
 | Conjoints de fait sans enfant commun | Non | Non |
+
+**Pourquoi deux articles pour le consentement, et pourquoi ça compte sur un
+plex.** Le Code distingue selon la taille de l'immeuble. L'article 404 vise
+l'immeuble de moins de cinq logements qui sert en tout ou en partie de résidence
+familiale: le conjoint propriétaire ne peut ni l'aliéner, ni le grever d'un droit
+réel, ni louer la partie réservée à l'usage de la famille sans le consentement
+écrit de l'autre. L'article 405 vise l'immeuble de cinq logements ou plus, et il
+ne porte que sur l'aliénation et sur la location de cette partie, pas sur le fait
+de le grever d'un droit réel.
+
+La sanction diffère aussi, et c'est la vraie différence pratique. Sous l'article
+404, si une déclaration de résidence familiale a été inscrite contre l'immeuble,
+le conjoint qui n'a pas consenti peut demander la nullité de l'acte. Sous
+l'article 405, dans la même situation, il ne fait pas tomber la vente: il peut
+exiger de l'acquéreur un bail aux conditions du bail d'habitation sur les lieux
+qu'il occupe déjà. Un cinq-plex qui sert de résidence familiale ne se traite donc
+pas comme un duplex, et c'est au notaire de vérifier l'inscription avant l'acte.
 
 ## Conjoints de fait et maison au Québec : le titre décide presque tout
 

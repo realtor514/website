@@ -1,0 +1,32 @@
+{
+    "slug":  "laval-investment-city",
+    "title":  "Investir à Laval : ce qu\u0027il faut vérifier avant de s\u0027engager",
+    "category":  "Investissement",
+    "sources_recorded":  true,
+    "note":  "Journal de sources etabli le 2026-10-02 lors du rattrapage de l audit de responsabilite professionnelle. Cet article etait publie depuis des mois sans journal: ses chiffres etaient dates et attribues dans le corps du texte, mais rien sur le disque ne permettait de produire la source. Chaque chiffre ci-dessous a ete reverifie a la source ce jour-la.",
+    "review_status":  {
+                          "published":  true,
+                          "triage":  "2026-10-02",
+                          "open_professional_review":  0,
+                          "convention":  "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes."
+                      },
+    "sources":  [
+                    {
+                        "publisher":  "Statistique Canada",
+                        "title":  "Serie Perspective geographique, recensement de 2021, Laval",
+                        "url":  "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/page.cfm?lang=F\u0026topic=1\u0026dguid=2021A00052465005",
+                        "supports":  "Population recensee de 438 366 a Laval en 2021, en hausse de 3,6 pour cent sur 2016, et 169 785 logements privés occupés, en hausse de 5,9 pour cent.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "Journal Metro, reprise des statistiques APCIQ",
+                        "title":  "Marche immobilier Laval, aout 2026",
+                        "url":  "https://journalmetro.com/inspiration/habitation-et-immobilier/3226663/marche-immobilier-laval-aout-2026/",
+                        "supports":  "Laval en aout 2026: 255 ventes, baisse de 20 pour cent sur un an, 1 514 inscriptions en vigueur en hausse de 10 pour cent, prix median de 642 750 $ pour l unifamiliale en hausse de 7 pour cent et de 449 000 $ pour la copropriete en hausse de 8 pour cent. Les statistiques lavalloises ont ete diffusees le 8 septembre 2026, soit apres celles de la RMR: ne pas attribuer les chiffres de Laval a la diffusion du 4 septembre.",
+                        "consulted":  "2026-10-02"
+                    }
+                ],
+    "claims_needing_review":  [
+                                  "RESOLU le 2026-10-02. La population de 438 366 au recensement de 2021 est confirmee."
+                              ]
+}

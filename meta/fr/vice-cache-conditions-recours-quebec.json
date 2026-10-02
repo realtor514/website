@@ -72,7 +72,7 @@
   "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
  },
  "claims_needing_review": [
-  "Phrase « En 2026, un inspecteur non certifié exerce encore légalement » : déduction tirée de la date d'entrée en vigueur du 1er octobre 2027 annoncée par la RBQ, à faire confirmer avant publication.",
+  "RÉSOLU le 2026-10-02. Phrase « En 2026, un inspecteur non certifié exerce encore légalement »: confirmée à la source. La page de la RBQ sur l'inspection préachat, lue le 2026-10-02, énonce deux dates: la RBQ délivre le certificat d'inspecteur en bâtiment résidentiel depuis le 1er octobre 2024, et « le 1er octobre 2027, ce certificat deviendra obligatoire pour tous les inspecteurs souhaitant exercer au Québec ». Le certificat est donc volontaire jusqu'au 30 septembre 2027 inclusivement, et la phrase de l'article est exacte. À rouvrir si la RBQ reporte l'échéance.",
   "Le seuil de gravité illustré par la fenêtre en fin de vie d'une maison de 1975 est une illustration pédagogique, pas un cas jurisprudentiel cité.",
   "Le renvoi interne vers /articles/vente-sans-garantie-legale-quebec/ pointe vers un article encore en draft, à vérifier avant la mise en ligne."
  ]

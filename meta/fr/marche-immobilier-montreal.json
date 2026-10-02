@@ -1,0 +1,61 @@
+{
+    "slug":  "marche-immobilier-montreal",
+    "title":  "Marché immobilier de Montréal et Laval",
+    "category":  "Analyse de marché",
+    "sources_recorded":  true,
+    "note":  "Journal de sources etabli le 2026-10-02 lors du rattrapage de l audit de responsabilite professionnelle. Cet article etait publie depuis des mois sans journal: ses chiffres etaient dates et attribues dans le corps du texte, mais rien sur le disque ne permettait de produire la source. Chaque chiffre ci-dessous a ete reverifie a la source ce jour-la.",
+    "review_status":  {
+                          "published":  true,
+                          "triage":  "2026-10-02",
+                          "open_professional_review":  0,
+                          "convention":  "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes."
+                      },
+    "sources":  [
+                    {
+                        "publisher":  "APCIQ, donnees Centris",
+                        "title":  "Statistiques du marche immobilier, aout 2026",
+                        "url":  "https://comapciqca-152af.kxcdn.com/fsmi-stats/mensuelles/2026/stats-202608-fr.pdf",
+                        "supports":  "Donnees d aout 2026 pour la RMR de Montreal: 2 853 ventes, baisse de 13 pour cent sur un an, 20 128 inscriptions en vigueur en hausse de 18 pour cent, delais de vente moyens de 42 jours pour l unifamiliale, 52 pour le plex et 62 pour la copropriete, prix medians de 650 000 $ pour l unifamiliale, 437 250 $ pour la copropriete et 856 000 $ pour le plex. Diffusion du 4 septembre 2026.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "Journal Metro, reprise des statistiques APCIQ",
+                        "title":  "Marche immobilier Laval, aout 2026",
+                        "url":  "https://journalmetro.com/inspiration/habitation-et-immobilier/3226663/marche-immobilier-laval-aout-2026/",
+                        "supports":  "Laval en aout 2026: 255 ventes, baisse de 20 pour cent sur un an, 1 514 inscriptions en vigueur en hausse de 10 pour cent, prix median de 642 750 $ pour l unifamiliale en hausse de 7 pour cent et de 449 000 $ pour la copropriete en hausse de 8 pour cent. Les statistiques lavalloises ont ete diffusees le 8 septembre 2026, soit apres celles de la RMR: ne pas attribuer les chiffres de Laval a la diffusion du 4 septembre.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "Journal Metro, reprise des statistiques APCIQ",
+                        "title":  "Marche immobilier Ile de Montreal, aout 2026",
+                        "url":  "https://journalmetro.com/inspiration/habitation-et-immobilier/3226660/marche-immobilier-ile-de-montreal-aout-2026/",
+                        "supports":  "Ile de Montreal en aout 2026: prix median de 820 000 $ pour l unifamiliale en hausse de 2 pour cent, et de 475 000 $ pour la copropriete, stable sur un an.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "Banque du Canada",
+                        "title":  "Taux directeur",
+                        "url":  "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+                        "supports":  "Taux directeur maintenu a 2,25 pour cent a l annonce du 2 septembre 2026, septieme decision consecutive de maintien. Le taux est a ce niveau depuis le 29 octobre 2025.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "Banque du Canada",
+                        "title":  "Annonce concernant le taux directeur, 2 septembre 2026",
+                        "url":  "https://www.banqueducanada.ca/2026/09/annonce-banque-canada-concernant-taux-directeur-2026-09-2/",
+                        "supports":  "Les huit dates d annonce de 2026 sont confirmees: 28 janvier, 18 mars, 29 avril, 10 juin, 15 juillet, 2 septembre, 28 octobre et 9 decembre. Chaque annonce a lieu un mercredi a 9 h 45.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "Statistique Canada, Le Quotidien",
+                        "title":  "Indices des prix de la construction de batiments, deuxieme trimestre de 2026",
+                        "url":  "https://www150.statcan.gc.ca/n1/daily-quotidien/260724/dq260724b-fra.htm",
+                        "supports":  "Hausse de 2,5 pour cent des couts de construction de batiments residentiels a Montreal au deuxieme trimestre de 2026 par rapport au trimestre precedent, deuxieme hausse en importance au pays apres Quebec a 2,6 pour cent. Diffusion du 24 juillet 2026.",
+                        "consulted":  "2026-10-02"
+                    }
+                ],
+    "claims_needing_review":  [
+                                  "RESOLU le 2026-10-02. Tous les chiffres de marche de l article ont ete reverifies un par un et concordent: 2 853 ventes dans la RMR en aout 2026, baisse de 13 pour cent, inscriptions en hausse de 18 pour cent, Laval a 255 ventes et 1 514 inscriptions avec des medianes de 642 750 $ et 449 000 $, ile de Montreal a 820 000 $ et 475 000 $, taux directeur a 2,25 pour cent maintenu le 2 septembre 2026, prochaine annonce le 28 octobre 2026, indice des prix de la construction residentielle a Montreal en hausse de 2,5 pour cent au deuxieme trimestre.",
+                                  "Les hausses d offre de 28 pour cent sur la Rive-Sud et de 26 pour cent sur la Rive-Nord, ainsi que les formulations qualitatives attribuees au communique de l APCIQ, proviennent du communique du 4 septembre 2026 cite dans le texte. Elles n ont pas ete relues mot pour mot dans le communique lui-meme: a verifier si une citation exacte est contestee."
+                              ]
+}

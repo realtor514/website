@@ -13,6 +13,15 @@ Aucune nouvelle prolongation n etait annoncee au 2026-10-02. L abrogation se fer
 par l entree en vigueur de l article 236 de la Loi no 1 d execution du budget de
 2022, encore sous la rubrique Modifications non en vigueur.
 
+**A surveiller, verifie le 2026-10-02.** Le gouvernement a confirme a la fin de
+2025 qu il menait une revision formelle de la loi, et il etudierait un modele
+inspire de l Australie: l acheteur etranger pourrait acquerir du neuf et des
+terrains vacants, mais resterait exclu de la revente. Si ce modele est retenu,
+l echeance du 1er janvier 2027 n est pas une levee de l interdiction mais son
+remplacement par un regime different, et l article devra decrire le nouveau
+regime plutot que d annoncer la fin de l ancien. Ne pas ecrire d avance que
+l interdiction tombe: verifier ce qui la remplace.
+
 Fichiers a reecrire ce jour-la, dans les 4 langues:
 
 - `content/fr/articles/acheteur-etranger-achat-quebec.md`

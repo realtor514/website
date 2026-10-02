@@ -1,0 +1,32 @@
+{
+    "slug":  "renting-vs-buying-calculation",
+    "title":  "Louer ou acheter dans le Grand Montréal",
+    "category":  "Financement",
+    "sources_recorded":  true,
+    "note":  "Journal de sources etabli le 2026-10-02 lors du rattrapage de l audit de responsabilite professionnelle. Cet article etait publie depuis des mois sans journal: ses chiffres etaient dates et attribues dans le corps du texte, mais rien sur le disque ne permettait de produire la source. Chaque chiffre ci-dessous a ete reverifie a la source ce jour-la.",
+    "review_status":  {
+                          "published":  true,
+                          "triage":  "2026-10-02",
+                          "open_professional_review":  0,
+                          "convention":  "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes."
+                      },
+    "sources":  [
+                    {
+                        "publisher":  "APCIQ, donnees Centris",
+                        "title":  "Statistiques du marche immobilier, aout 2026",
+                        "url":  "https://comapciqca-152af.kxcdn.com/fsmi-stats/mensuelles/2026/stats-202608-fr.pdf",
+                        "supports":  "Donnees d aout 2026 pour la RMR de Montreal: 2 853 ventes, baisse de 13 pour cent sur un an, 20 128 inscriptions en vigueur en hausse de 18 pour cent, delais de vente moyens de 42 jours pour l unifamiliale, 52 pour le plex et 62 pour la copropriete, prix medians de 650 000 $ pour l unifamiliale, 437 250 $ pour la copropriete et 856 000 $ pour le plex. Diffusion du 4 septembre 2026.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "Statistique Canada, Le Quotidien",
+                        "title":  "Acheter ou louer: le marche du logement continue d etre transforme par plusieurs facteurs",
+                        "url":  "https://www150.statcan.gc.ca/n1/daily-quotidien/220921/dq220921b-fra.htm",
+                        "supports":  "Taux de propriete du Quebec de 59,9 pour cent en 2021 contre 61,2 pour cent en 2016, la plus faible baisse au pays. Le taux canadien est de 66,5 pour cent en 2021.",
+                        "consulted":  "2026-10-02"
+                    }
+                ],
+    "claims_needing_review":  [
+                                  "RESOLU le 2026-10-02. La mediane de 650 000 $ pour l unifamiliale de la RMR en aout 2026 est confirmee. Le taux de propriete du Quebec, 59,9 pour cent en 2021 contre 61,2 pour cent en 2016, est confirme au Quotidien de Statistique Canada, soit la source que l article nomme. A savoir: l Institut de la statistique du Quebec publie 61,3 pour cent pour 2016 dans sa propre serie, d ou une baisse de 1,4 point au lieu de 1,3. Les deux chiffres circulent; celui de l article est celui de la source qu il cite."
+                              ]
+}

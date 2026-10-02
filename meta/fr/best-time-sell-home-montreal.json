@@ -1,0 +1,40 @@
+{
+    "slug":  "best-time-sell-home-montreal",
+    "title":  "Quand vendre sa propriété à Montréal",
+    "category":  "Guide du vendeur",
+    "sources_recorded":  true,
+    "note":  "Journal de sources etabli le 2026-10-02 lors du rattrapage de l audit de responsabilite professionnelle. Cet article etait publie depuis des mois sans journal: ses chiffres etaient dates et attribues dans le corps du texte, mais rien sur le disque ne permettait de produire la source. Chaque chiffre ci-dessous a ete reverifie a la source ce jour-la.",
+    "review_status":  {
+                          "published":  true,
+                          "triage":  "2026-10-02",
+                          "open_professional_review":  0,
+                          "convention":  "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes."
+                      },
+    "sources":  [
+                    {
+                        "publisher":  "APCIQ, donnees Centris",
+                        "title":  "Statistiques du marche immobilier, aout 2026",
+                        "url":  "https://comapciqca-152af.kxcdn.com/fsmi-stats/mensuelles/2026/stats-202608-fr.pdf",
+                        "supports":  "Donnees d aout 2026 pour la RMR de Montreal: 2 853 ventes, baisse de 13 pour cent sur un an, 20 128 inscriptions en vigueur en hausse de 18 pour cent, delais de vente moyens de 42 jours pour l unifamiliale, 52 pour le plex et 62 pour la copropriete, prix medians de 650 000 $ pour l unifamiliale, 437 250 $ pour la copropriete et 856 000 $ pour le plex. Diffusion du 4 septembre 2026.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "Banque du Canada",
+                        "title":  "Taux directeur",
+                        "url":  "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+                        "supports":  "Taux directeur maintenu a 2,25 pour cent a l annonce du 2 septembre 2026, septieme decision consecutive de maintien. Le taux est a ce niveau depuis le 29 octobre 2025.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "Banque du Canada",
+                        "title":  "Annonce concernant le taux directeur, 2 septembre 2026",
+                        "url":  "https://www.banqueducanada.ca/2026/09/annonce-banque-canada-concernant-taux-directeur-2026-09-2/",
+                        "supports":  "Les huit dates d annonce de 2026 sont confirmees: 28 janvier, 18 mars, 29 avril, 10 juin, 15 juillet, 2 septembre, 28 octobre et 9 decembre. Chaque annonce a lieu un mercredi a 9 h 45.",
+                        "consulted":  "2026-10-02"
+                    }
+                ],
+    "claims_needing_review":  [
+                                  "RESOLU le 2026-10-02. La serie mensuelle citee et les chiffres d aout 2026 concordent avec la diffusion de l APCIQ: 2 853 ventes, baisse de 13 pour cent, repli desaisonnalise de 2 pour cent sur juillet, 9 957 coproprietes en inscription pour 1 046 ventes contre 7 753 unifamiliales pour 1 498 ventes, delais de 62 et 42 jours. Les huit dates d annonce de la Banque du Canada pour 2026 sont exactes.",
+                                  "Le renvoi au Regime pedagogique, article 16, pour le calendrier de 200 jours dont 180 consacres aux services educatifs n a pas ete reverifie le 2026-10-02 sur LegisQuebec, qui refuse encore l acces automatise. Le texte etait cite entre guillemets a la redaction."
+                              ]
+}

@@ -71,10 +71,27 @@ regime by mutual agreement, by notarial act en minute (art. 521.33).
 
 | Situation of the couple | Home in a shared patrimony | Consent required to sell |
 |---|---|---|
-| Married or in a civil union | Yes, patrimoine familial (art. 414) | Yes (art. 404) |
+| Married or in a civil union | Yes, patrimoine familial (art. 414) | Yes (art. 404 or 405) |
 | Union parentale, child since June 30, 2025 | Yes (art. 521.29) | Yes (art. 521.24) |
 | Children born before June 30, 2025, no adhesion | No | No |
 | Conjoints de fait with no common child | No | No |
+
+**Why two articles govern consent, and why it matters on a plex.** The Code
+draws a line at the size of the building. Article 404 covers an immovable with
+fewer than five dwellings serving in whole or in part as the family residence:
+the owning spouse may neither alienate it, nor charge it with a real right, nor
+lease the part reserved for family use without the other's written consent.
+Article 405 covers an immovable with five dwellings or more, and it reaches only
+alienation and the leasing of that part, not charging it with a real right.
+
+The remedy differs too, and that is the real practical difference. Under article
+404, if a declaration of family residence was registered against the immovable,
+the spouse who did not consent may demand that the act be annulled. Under article
+405, in the same situation, they do not undo the sale: they may require the
+acquirer to grant them a lease, on the terms governing residential leases, of the
+premises they already occupy. A five-plex serving as the family residence
+therefore is not handled like a duplex, and it falls to the notary to check the
+registration before the deed.
 
 ## Common law partners and the home in Quebec: title decides almost everything
 

@@ -74,10 +74,28 @@ puede retirarse del régimen de común acuerdo, por acta notarial *en minute*
 
 | Situación de la pareja | Casa en un patrimonio compartido | Consentimiento para vender |
 |---|---|---|
-| Casados o en unión civil | Sí, patrimoine familial (art. 414) | Sí (art. 404) |
+| Casados o en unión civil | Sí, patrimoine familial (art. 414) | Sí (art. 404 o 405) |
 | Union parentale, hijo desde el 30 de junio de 2025 | Sí (art. 521.29) | Sí (art. 521.24) |
 | Hijos nacidos antes del 30 de junio de 2025, sin adhesión | No | No |
 | Conjoints de fait sin hijo en común | No | No |
+
+**Por qué el consentimiento se rige por dos artículos, y por qué importa en un
+plex.** El Código distingue según el tamaño del inmueble. El artículo 404 cubre
+el inmueble de menos de cinco viviendas que sirve en todo o en parte de
+residencia familiar: el cónyuge propietario no puede enajenarlo, ni gravarlo con
+un derecho real, ni arrendar la parte reservada al uso de la familia sin el
+consentimiento escrito del otro. El artículo 405 cubre el inmueble de cinco
+viviendas o más, y solo alcanza la enajenación y el arrendamiento de esa parte,
+no el hecho de gravarlo con un derecho real.
+
+La sanción también difiere, y esa es la verdadera diferencia práctica. Bajo el
+artículo 404, si se inscribió una declaración de residencia familiar contra el
+inmueble, el cónyuge que no consintió puede pedir la nulidad del acto. Bajo el
+artículo 405, en la misma situación, no deshace la venta: puede exigir al
+adquirente un arrendamiento, en las condiciones del arrendamiento de vivienda,
+sobre los locales que ya ocupa. Un cinco-plex que sirve de residencia familiar no
+se trata entonces como un dúplex, y corresponde al notario verificar la
+inscripción antes del acto.
 
 ## Parejas de hecho y vivienda en Quebec: el título lo decide casi todo
 

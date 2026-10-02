@@ -1,0 +1,32 @@
+{
+    "slug":  "montreal-market-crash-analysis",
+    "title":  "Krach immobilier à Montréal : les données",
+    "category":  "Analyse de marché",
+    "sources_recorded":  true,
+    "note":  "Journal de sources etabli le 2026-10-02 lors du rattrapage de l audit de responsabilite professionnelle. Cet article etait publie depuis des mois sans journal: ses chiffres etaient dates et attribues dans le corps du texte, mais rien sur le disque ne permettait de produire la source. Chaque chiffre ci-dessous a ete reverifie a la source ce jour-la.",
+    "review_status":  {
+                          "published":  true,
+                          "triage":  "2026-10-02",
+                          "open_professional_review":  0,
+                          "convention":  "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes."
+                      },
+    "sources":  [
+                    {
+                        "publisher":  "APCIQ, donnees Centris",
+                        "title":  "Statistiques du marche immobilier, aout 2026",
+                        "url":  "https://comapciqca-152af.kxcdn.com/fsmi-stats/mensuelles/2026/stats-202608-fr.pdf",
+                        "supports":  "Donnees d aout 2026 pour la RMR de Montreal: 2 853 ventes, baisse de 13 pour cent sur un an, 20 128 inscriptions en vigueur en hausse de 18 pour cent, delais de vente moyens de 42 jours pour l unifamiliale, 52 pour le plex et 62 pour la copropriete, prix medians de 650 000 $ pour l unifamiliale, 437 250 $ pour la copropriete et 856 000 $ pour le plex. Diffusion du 4 septembre 2026.",
+                        "consulted":  "2026-10-02"
+                    },
+                    {
+                        "publisher":  "Statistique Canada, Le Quotidien",
+                        "title":  "Enquete sur la population active, aout 2026",
+                        "url":  "https://www150.statcan.gc.ca/n1/daily-quotidien/260904/dq260904a-fra.htm",
+                        "supports":  "Taux de chomage de 6,5 pour cent dans la RMR de Montreal en aout 2026, presque inchange par rapport au mois precedent comme a un an plus tot. Taux quebecois de 5,6 pour cent, taux canadien de 6,4 pour cent. La baisse de l emploi au Quebec s est concentree dans la RMR de Montreal, avec 21 000 postes en moins. Diffusion du 4 septembre 2026.",
+                        "consulted":  "2026-10-02"
+                    }
+                ],
+    "claims_needing_review":  [
+                                  "RESOLU le 2026-10-02. Le taux de chomage de 6,5 pour cent pour la RMR de Montreal en aout 2026 est confirme mot pour mot dans Le Quotidien du 4 septembre 2026, y compris la caracterisation presque inchange par rapport au mois precedent comme a un an plus tot, le taux quebecois de 5,6 pour cent, le taux canadien de 6,4 pour cent et la concentration des pertes d emploi dans la RMR de Montreal. Verification faite directement sur la page de Statistique Canada et non sur un resume."
+                              ]
+}
