@@ -1,0 +1,69 @@
+{{/* Carrefour des calculateurs.
+     Cette page tombait auparavant sur le gabarit par defaut de Hugo: un titre
+     et six liens nus, une quarantaine de mots. Le pied de page y envoie
+     pourtant depuis les 4 langues. Elle presente maintenant chaque
+     calculateur avec ce qu il repond, et porte assez de texte pour exister
+     dans une recherche. */}}
+{{ define "main" }}
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+
+<section class="content-hero">
+  <div class="container">
+    {{ partial "breadcrumb.html" (dict "ctx" .) }}
+    <p class="content-hero__category">
+      {{ if $isFr }}Outils exclusifs Georges Matar{{ else if $isAr }}أدوات حصرية جورج مطر{{ else if $isEs }}Herramientas exclusivas Georges Matar{{ else }}Exclusive Georges Matar tools{{ end }}
+    </p>
+    <h1 class="content-hero__title">{{ .Title }}</h1>
+    {{ with .Description }}<p class="adv-hero__lede">{{ . }}</p>{{ end }}
+  </div>
+</section>
+
+<div class="content-body adv-body">
+  {{ .Content }}
+</div>
+
+<section class="section section--light">
+  <div class="container">
+    <div class="adv-grid">
+      {{ range sort .RegularPages "Title" }}
+      <a href="{{ .RelPermalink }}" class="service-card" style="display:block;text-decoration:none">
+        <h3 style="font-family:'Playfair Display',serif;font-size:1.12rem;margin:0 0 10px;color:var(--navy)">{{ .Title }}</h3>
+        <p style="margin:0 0 14px;font-size:.9rem;line-height:1.6;color:#4b5563">{{ .Description }}</p>
+        <span style="font-size:.84rem;font-weight:600;color:var(--blue)">
+          {{ if $isFr }}Ouvrir le calculateur{{ else if $isAr }}افتح الحاسبة{{ else if $isEs }}Abrir la calculadora{{ else }}Open the calculator{{ end }} &rsaquo;
+        </span>
+      </a>
+      {{ end }}
+    </div>
+
+    <div class="adv-cta adv-cta--red" style="margin-top:48px">
+      <h3>
+        {{ if $isFr }}Un chiffre n est pas une decision{{ else if $isAr }}الرقم ليس قراراً{{ else if $isEs }}Una cifra no es una decisi&oacute;n{{ else }}A number is not a decision{{ end }}
+      </h3>
+      <p>
+        {{ if $isFr }}
+          Ces calculateurs donnent un ordre de grandeur fiable, pas une promesse de pr&ecirc;t ni une &eacute;valuation marchande. Le chiffre qui compte vraiment d&eacute;pend de votre dossier, du quartier et du march&eacute; du moment. Envoyez-moi le v&ocirc;tre, je le regarde avec vous.
+        {{ else if $isAr }}
+          تعطيكم هذه الحاسبات ترتيباً موثوقاً للمقادير، لا وعداً بقرض ولا تقييماً سوقياً. الرقم الذي يهم فعلاً يتوقف على ملفكم وعلى الحي وعلى السوق في لحظته. أرسلوا لي ملفكم وأنظر فيه معكم.
+        {{ else if $isEs }}
+          Estas calculadoras dan un orden de magnitud fiable, no una promesa de pr&eacute;stamo ni una tasaci&oacute;n de mercado. La cifra que de verdad cuenta depende de su expediente, del barrio y del mercado del momento. Env&iacute;eme el suyo y lo revisamos juntos.
+        {{ else }}
+          These calculators give a reliable order of magnitude, not a loan promise or a market appraisal. The figure that actually counts depends on your file, the neighbourhood and the market at that moment. Send me yours and we go through it together.
+        {{ end }}
+      </p>
+      <div class="adv-cta__actions">
+        <a href="{{ site.Params.formURL }}" class="btn btn-primary">
+          {{ if $isFr }}Consultation gratuite{{ else if $isAr }}استشارة مجانية{{ else if $isEs }}Consulta gratuita{{ else }}Free consultation{{ end }}
+        </a>
+        <a href="{{ site.Params.contactURL }}" class="btn btn-outline-dark">
+          {{ if $isFr }}Me joindre{{ else if $isAr }}تواصلوا معي{{ else if $isEs }}Contactarme{{ else }}Contact me{{ end }}
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "lead-modal.html" . }}
+{{ end }}

@@ -31,6 +31,9 @@ disableKinds = ["taxonomy", "term"]
       formURL     = "/en/form/"
       privacyURL  = "/en/privacy/"
       thanksURL   = "/en/thank-you/"
+      termsURL    = "/en/terms-of-use/"
+      servicesURL = "/en/my-services/"
+      warrantyURL = "/en/advantages/tranquilli-t/"
 
     # -- PROPRIETES --
     [[languages.en.menus.main]]
@@ -225,6 +228,9 @@ disableKinds = ["taxonomy", "term"]
       formURL     = "/formulaire/"
       privacyURL  = "/confidentialite/"
       thanksURL   = "/merci/"
+      termsURL    = "/conditions-utilisation/"
+      servicesURL = "/mes-services/"
+      warrantyURL = "/advantages/tranquilli-t/"
 
     # -- PROPRIETES --
     [[languages.fr.menus.main]]
@@ -418,6 +424,9 @@ disableKinds = ["taxonomy", "term"]
       contactURL  = "/es/contacto/"
       formURL     = "/es/formulario/"
       privacyURL  = "/es/privacidad/"
+      termsURL    = "/es/condiciones-de-uso/"
+      servicesURL = "/es/mis-servicios/"
+      warrantyURL = "/es/advantages/tranquilli-t/"
       thanksURL   = "/es/gracias/"
 
     # -- PROPRIETES --
@@ -611,6 +620,9 @@ disableKinds = ["taxonomy", "term"]
       contactURL  = "/ar/tawasul/"
       formURL     = "/ar/istimara/"
       privacyURL  = "/ar/khsusiya/"
+      termsURL    = "/ar/shurut-alistikhdam/"
+      servicesURL = "/ar/khadamati/"
+      warrantyURL = "/ar/advantages/tranquilli-t/"
       thanksURL   = "/ar/shukran/"
 
     # -- PROPRIETES --
@@ -790,12 +802,24 @@ disableKinds = ["taxonomy", "term"]
   longitude    = -73.6815269
   priceRange   = "$$"
   founderTitle = "Courtier immobilier residentiel"
+  # Permis de courtier immobilier residentiel, registre de l OACIQ. Affiche au
+  # pied de page: c est la seule mention qui permet a un visiteur de verifier
+  # lui-meme que le permis est valide, et Google y lit une entite reelle.
+  oaciqPermit     = "J7941"
+  # Le registre public, pas le site institutionnel: c est la page ou un
+  # visiteur tape le numero et voit le dossier. Verifie, elle repond 200.
+  oaciqRegisterURL = "https://registre.oaciq.com/"
   # Fiche Google Business. Alimente sameAs et hasMap dans le JSON-LD.
   googleBusinessURL = "https://maps.google.com/?cid=7533992484077488450"
 
   # Profils sociaux (laisser vide si inexistant, ils alimentent le sameAs du schema
   # et la rangee d icones dans le pied de page et la section contact)
-  facebook  = "https://www.facebook.com/share/197exME6zc/"
+  # Adresse stable de la page professionnelle. L ancien lien etait de la forme
+  # facebook.com/share/XXXX, une adresse de partage qui redirige: elle n est pas
+  # faite pour etre publiee, et Google suit mal une redirection dans un sameAs.
+  # A remplacer par facebook.com/<nom> le jour ou la page recoit un nom
+  # d utilisateur.
+  facebook  = "https://www.facebook.com/profile.php?id=61593154731365"
   instagram = "https://www.instagram.com/georgesmatar.ca"
   linkedin  = ""
   youtube   = "https://www.youtube.com/channel/UCeypcVDGZVlJkEK8FHLP5ag"

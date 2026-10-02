@@ -24,8 +24,15 @@
   {{ end }}
   <link rel="canonical" href="{{ $canonical }}">
   {{ partial "seo.html" . }}
-  <link rel="icon" type="image/png" href="{{ "images/remax-logo.png" | relURL }}">
-  <link rel="apple-touch-icon" href="{{ "images/remax-logo.png" | relURL }}">
+  {{/* Icones. L ancienne declaration pointait vers le logo complet, 1996 x 2008
+       pixels pour 134 ko, ni carre ni dimensionne: Google demande une icone
+       carree dont le cote est un multiple de 48, et /favicon.ico, que beaucoup
+       de robots demandent en premier, repondait 404. */}}
+  <link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="any">
+  <link rel="icon" type="image/png" sizes="48x48" href="{{ "favicon-48.png" | relURL }}">
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ "favicon-96.png" | relURL }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ "favicon-192.png" | relURL }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Noto+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">

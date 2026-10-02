@@ -11,6 +11,7 @@
   <div class="journey-hero__overlay"></div>
   <div class="container">
     <div class="journey-hero__inner reveal">
+      {{ partial "breadcrumb.html" (dict "ctx" .) }}
       <div class="journey-hero__badge">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
         {{ if $isFr }}Guide de l'Acheteur{{ else if $isEs }}Guía del Comprador{{ else if $isAr }}دليل المشتري{{ else }}Buyer's Guide{{ end }}

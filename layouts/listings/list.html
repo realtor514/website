@@ -27,6 +27,16 @@
   </div>
 </section>
 
+{{/* Le texte du _index.md n etait rendu nulle part: la page ne comptait que
+     70 mots, titre et pastilles compris, pour une des adresses les plus
+     visitees du site. Il n apparait que sur la premiere page de la
+     pagination, les suivantes etant des pages de liste. */}}
+{{ if and .Content (eq .Paginator.PageNumber 1) }}
+<div class="content-body">
+  {{ .Content }}
+</div>
+{{ end }}
+
 <section class="section">
   <div class="container">
     {{/* `.Paginator` et non `.Paginate`: la taille vient de `pagerSize` dans

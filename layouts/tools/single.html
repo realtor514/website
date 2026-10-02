@@ -8,6 +8,9 @@
 
 <section class="content-hero">
   <div class="container">
+    {{/* Le niveau intermediaire vient de la section elle-meme, donc le libelle
+         suit la langue sans etre reecrit ici. */}}
+    {{ partial "breadcrumb.html" (dict "ctx" . "parentName" .CurrentSection.Title "parentURL" .CurrentSection.RelPermalink) }}
     <span class="content-hero__category">
       {{ if $isFr }}Outil exclusif Georges Matar{{ else if $isAr }}أداة حصرية جورج مطر{{ else if $isEs }}Herramienta exclusiva Georges Matar{{ else }}Exclusive Georges Matar Tool{{ end }}
     </span>
@@ -84,6 +87,56 @@
 
   </div>
 </section>
+
+{{/* Le texte sous le calculateur. Ces pages ne portaient que les libelles de
+     leurs champs: entre 172 et 199 mots sur les versions les plus courtes,
+     sous le seuil ou Google considere qu une page a quelque chose a dire. Ce
+     bloc dit d ou viennent les chiffres et ou s arrete leur portee, ce qui
+     est de toute facon une obligation de prudence pour un courtier. Il s
+     affiche aussi le texte propre a la page quand le fichier en contient. */}}
+<div class="content-body">
+  {{ with .Content }}{{ . }}{{ end }}
+
+  <h2>
+    {{ if $isFr }}D&rsquo;o&ugrave; viennent ces chiffres{{ else if $isAr }}من أين تأتي هذه الأرقام{{ else if $isEs }}De d&oacute;nde vienen estas cifras{{ else }}Where these figures come from{{ end }}
+  </h2>
+  <p>
+    {{ if $isFr }}
+      Les calculateurs de ce site appliquent les r&egrave;gles qu&eacute;b&eacute;coises en vigueur: tranches des droits de mutation par municipalit&eacute;, primes d&rsquo;assurance SCHL selon la mise de fonds, mise de fonds minimale l&eacute;gale, ratios ABD et ATD utilis&eacute;s par les pr&ecirc;teurs canadiens et taux du test de r&eacute;sistance. Le calcul se fait enti&egrave;rement dans votre navigateur: aucun montant saisi n&rsquo;est envoy&eacute; ni conserv&eacute;.
+    {{ else if $isAr }}
+      تطبّق حاسبات هذا الموقع القواعد السارية في كيبيك: شرائح رسوم النقل بحسب البلدية، وأقساط تأمين CMHC بحسب الدفعة الأولى، والحد الأدنى القانوني للدفعة الأولى، ونسبتا ABD وATD المعتمدتان لدى المقرضين في كندا، ومعدل اختبار التحمّل. ويجري الحساب كله داخل متصفحكم: فلا يُرسل أي مبلغ تُدخلونه ولا يُحفظ.
+    {{ else if $isEs }}
+      Las calculadoras de este sitio aplican las reglas quebequenses vigentes: tramos de los derechos de mutaci&oacute;n por municipio, primas del seguro CMHC seg&uacute;n el pago inicial, pago inicial m&iacute;nimo legal, razones ABD y ATD que usan los prestamistas canadienses y tasa de la prueba de resistencia. El c&aacute;lculo se hace enteramente en su navegador: ning&uacute;n monto introducido se env&iacute;a ni se conserva.
+    {{ else }}
+      The calculators on this site apply the Quebec rules in force: transfer duty brackets by municipality, CMHC insurance premiums based on the down payment, the legal minimum down payment, the GDS and TDS ratios Canadian lenders use, and the stress test rate. The calculation runs entirely in your browser: no amount you enter is sent anywhere or stored.
+    {{ end }}
+  </p>
+
+  <h2>
+    {{ if $isFr }}Ce qu&rsquo;un calculateur ne peut pas faire{{ else if $isAr }}ما لا تستطيع الحاسبة فعله{{ else if $isEs }}Lo que una calculadora no puede hacer{{ else }}What a calculator cannot do{{ end }}
+  </h2>
+  <p>
+    {{ if $isFr }}
+      Le r&eacute;sultat est une estimation, pas une pr&eacute;autorisation hypoth&eacute;caire, pas une &eacute;valuation agr&eacute;&eacute;e et pas un avis fiscal. Un pr&ecirc;teur d&eacute;cide sur votre dossier de cr&eacute;dit complet, vos preuves de revenu et la nature de la propri&eacute;t&eacute;. Les bar&egrave;mes et les taux changent en cours d&rsquo;ann&eacute;e. V&eacute;rifiez tout montant d&eacute;terminant aupr&egrave;s de votre pr&ecirc;teur, de votre notaire ou de votre comptable avant de vous engager. Les limites de ces outils sont d&eacute;taill&eacute;es dans les <a href="{{ site.Params.termsURL }}">conditions d&rsquo;utilisation</a>.
+    {{ else if $isAr }}
+      النتيجة تقدير، لا موافقة مسبقة على قرض عقاري، ولا تقييم معتمد، ولا استشارة ضريبية. فالمقرض يقرّر بناءً على ملفكم الائتماني كاملاً، وإثباتات دخلكم، وطبيعة العقار. والجداول والمعدلات تتغيّر خلال السنة. تحقّقوا من كل مبلغ حاسم لدى المقرض أو الموثّق أو المحاسب قبل الالتزام. وحدود هذه الأدوات مفصّلة في <a href="{{ site.Params.termsURL }}">شروط الاستخدام</a>.
+    {{ else if $isEs }}
+      El resultado es una estimaci&oacute;n, no una preaprobaci&oacute;n hipotecaria, ni una tasaci&oacute;n certificada, ni un dictamen fiscal. Un prestamista decide sobre su expediente de cr&eacute;dito completo, sus comprobantes de ingreso y la naturaleza de la propiedad. Los baremos y las tasas cambian durante el a&ntilde;o. Verifique todo monto determinante con su prestamista, su notario o su contador antes de comprometerse. Los l&iacute;mites de estas herramientas se detallan en las <a href="{{ site.Params.termsURL }}">condiciones de uso</a>.
+    {{ else }}
+      The result is an estimate, not a mortgage pre-approval, not a certified appraisal and not tax advice. A lender decides on your full credit file, your proof of income and the nature of the property. Scales and rates change during the year. Check any figure that matters with your lender, your notary or your accountant before committing. The limits of these tools are set out in the <a href="{{ site.Params.termsURL }}">terms of use</a>.
+    {{ end }}
+  </p>
+
+  <p>
+    <a href="{{ .CurrentSection.RelPermalink }}">
+      {{ if $isFr }}Voir les six calculateurs{{ else if $isAr }}عرض الحاسبات الست{{ else if $isEs }}Ver las seis calculadoras{{ else }}See all six calculators{{ end }}
+    </a>
+    &middot;
+    <a href="{{ site.Params.servicesURL }}">
+      {{ if $isFr }}Mes services{{ else if $isAr }}خدماتي{{ else if $isEs }}Mis servicios{{ else }}My services{{ end }}
+    </a>
+  </p>
+</div>
 
 {{ partial "lead-modal.html" . }}
 {{ end }}

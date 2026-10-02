@@ -5,6 +5,15 @@ description: "Request form. Buying, selling, free evaluation or investment in Mo
 type: "formulaire"
 url: "/en/form/"
 translationKey: "formulaire"
+# Page de conversion, pas une page de recherche. Elle reprend le gabarit sans
+# en-tete ni pied de page, et son texte double celui de la page de contact:
+# indexee, elle ne pouvait que concurrencer /contact/ avec 160 mots. En
+# noindex elle reste liee depuis tous les appels a l action du site, et
+# `follow` laisse Google suivre ses liens. Retirer ces deux lignes suffit a la
+# remettre dans l index.
+noindex: true
+sitemap:
+  disable: true
 ---
 
 ## What happens after you send

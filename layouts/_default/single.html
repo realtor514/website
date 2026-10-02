@@ -1,7 +1,9 @@
 {{ define "main" }}
 <section class="content-hero">
   <div class="container">
+    {{ partial "breadcrumb.html" (dict "ctx" .) }}
     <h1 class="content-hero__title">{{ .Title }}</h1>
+    {{ with .Description }}<p class="content-hero__meta" style="max-width:620px">{{ . }}</p>{{ end }}
   </div>
 </section>
 <div class="content-body">

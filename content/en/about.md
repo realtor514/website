@@ -1,35 +1,71 @@
 ---
 title: "About Georges Matar"
-description: "Residential real estate broker at RE/MAX DU CARTIER INC., serving Laval and Greater Montréal."
+description: "Residential real estate broker holding OACIQ licence J7941, at RE/MAX DU CARTIER INC., serving Laval and Greater Montréal."
 ---
 
-## My Approach
+Residential real estate broker at RE/MAX DU CARTIER INC., holding licence
+**J7941** issued by the Organisme d'autoréglementation du courtage immobilier
+du Québec. The office is at 2820, boul. Saint-Martin Est, suite 201, in Laval
+(Duvernay).
 
-I believe that buying or selling a home is one of the most significant decisions in a person's life. That's why I take the time to truly understand my clients' needs, goals, and circumstances before crafting a personalized strategy.
+## Verify before you trust
 
-My priority is always to protect my clients' interests, whether that means negotiating the best price, identifying hidden issues in a property, or simply guiding first-time buyers through a process that can feel overwhelming.
+Nothing below needs to be taken on faith. All of it can be checked with third
+parties:
 
-## Areas of Expertise
+- The [OACIQ register of licence holders](https://registre.oaciq.com/) shows
+  whether a licence is valid, suspended or subject to conditions, and lists
+  the training completed. It can be searched by licence number or by name, and
+  it is updated daily.
+- The [official profile at RE/MAX DU CARTIER](https://remaxducartier.com/fr/courtiers/georges-matar-140955)
+  confirms the affiliation with the agency.
+- Active listings appear on [Centris](https://www.centris.ca/), the platform
+  used by Quebec brokers.
+- The [Google Business profile](https://maps.google.com/?cid=7533992484077488450)
+  holds the office contact details and public reviews.
 
-- **Residential Properties:** Single-family homes, condos, plexes
-- **Investment Properties:** Multi-unit buildings, income properties
-- **First-Time Buyers:** Step-by-step guidance through every stage
-- **Sellers:** Strategic marketing and maximum value
+## An engineering background
 
-## Service Area
+An engineer by training, with a doctorate. That background explains the method
+more than the trade: a real estate transaction is handled like a technical
+file, with figures that have to hold up, assumptions written down, and risks
+named before they are met.
 
-I specialize in properties throughout the Greater Montréal area, including:
-- Laval (Duvernay, Vimont, Sainte-Rose, Chomedey)
-- Montréal (Ahuntsic-Cartierville, Villeray, Rosemont)
-- North Shore and South Shore communities
-- Laurentians and Lanaudière
+In practice that means verified comparables rather than a range given by feel,
+closing costs calculated before the offer instead of after acceptance, and
+close reading of the seller's declaration, the co-ownership minutes and the
+certificate of location.
 
-## Contact Me
+## The RE/MAX protections
 
-Ready to start your real estate journey? I'd love to hear from you.
+Being attached to RE/MAX DU CARTIER gives access to programs that carry no
+extra charge: Tranquilli-T, Integri-T, Coproprie-T. Each one has its own page
+on this site.
+
+## Areas of work
+
+- Residential properties: single-family homes, condos, plexes
+- Investment properties: income buildings, rental plexes
+- First-time buyers: step-by-step guidance
+- Sellers: marketing, file preparation, negotiation
+
+## Territory served
+
+Laval, including Duvernay, Chomedey, Vimont and Sainte-Rose. Montreal,
+including Ahuntsic-Cartierville, Villeray, Rosemont, Rivière-des-Prairies and
+Saint-Léonard. The North Shore and the South Shore, the Laurentians and
+Lanaudière. The site covers 38 cities, each with its own page.
+
+## Working languages
+
+French, English and Arabic. This site is published in those three languages
+and in Spanish.
+
+## Contact
 
 **Phone:** (438) 372-0102
 
 **Email:** georges.matar@remax-quebec.com
 
-**Office:** RE/MAX DU CARTIER INC., 2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), Québec H7E 5A1
+**Office:** RE/MAX DU CARTIER INC., 2820, boul. Saint-Martin Est, suite 201,
+Laval (Duvernay), Québec H7E 5A1

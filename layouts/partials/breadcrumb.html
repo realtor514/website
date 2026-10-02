@@ -1,0 +1,29 @@
+{{/* Fil d Ariane visible.
+     Le balisage BreadcrumbList est emis pour toutes les pages par seo.html,
+     mais le fil visible n existait que dans cinq gabarits: les articles, les
+     proprietes, les secteurs, les avantages et le contact. Il manquait sur 52
+     pages, dont la page a propos, les guides acheteur et vendeur, les six
+     calculateurs et les pages legales. Google demande que le balisage
+     corresponde a ce que le visiteur voit.
+
+     Appel minimal:
+       {{ partial "breadcrumb.html" (dict "ctx" .) }}
+     Avec un niveau intermediaire:
+       {{ partial "breadcrumb.html" (dict "ctx" . "parentName" "Outils" "parentURL" "/tools/") }}
+     Le dernier element n est pas un lien: c est la page courante. */}}
+{{ $ctx := .ctx }}
+{{ $isFr := eq $ctx.Lang "fr" }}
+{{ $isAr := eq $ctx.Lang "ar" }}
+{{ $isEs := eq $ctx.Lang "es" }}
+{{ $base := "/en" }}
+{{ if $isFr }}{{ $base = "" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
+{{ $label := .label | default $ctx.Title }}
+<div class="breadcrumb">
+  <a href="{{ $base }}/">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a>
+  <span class="breadcrumb__sep">&rsaquo;</span>
+  {{ with .parentName }}
+  <a href="{{ $.parentURL }}">{{ . }}</a>
+  <span class="breadcrumb__sep">&rsaquo;</span>
+  {{ end }}
+  <span>{{ $label | truncate 40 }}</span>
+</div>

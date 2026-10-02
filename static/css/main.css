@@ -886,11 +886,17 @@ p:last-child { margin-bottom: 0; }
 .footer__links { display: flex; flex-direction: column; gap: 10px; }
 .footer__link { font-size: .88rem; transition: var(--transition); }
 .footer__link:hover { color: var(--red); }
+.footer__address { line-height: 1.55; display: inline-block; }
+/* Permis, conditions, garanties: une bande au-dessus de la ligne de droit
+   d auteur, plus discrete que la navigation mais lisible. */
+.footer__legal { border-top: 1px solid rgba(255,255,255,.07); padding-top: 20px; margin-bottom: 18px; display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; font-size: .78rem; }
+.footer__legal-links { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .footer__bottom { border-top: 1px solid rgba(255,255,255,.07); padding-top: 24px; display: flex; align-items: center; justify-content: space-between; font-size: .8rem; }
 .footer__remax { color: var(--red); font-weight: 600; }
 @media (max-width: 768px) {
   .footer__inner { grid-template-columns: 1fr; gap: 36px; }
   .footer__bottom { flex-direction: column; gap: 10px; text-align: center; }
+  .footer__legal { flex-direction: column; align-items: flex-start; gap: 12px; }
 }
 
 /* ── Interior pages ── */

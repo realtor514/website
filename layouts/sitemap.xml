@@ -1,0 +1,55 @@
+{{- /* Sitemap par langue, avec les images.
+     Deux ajouts par rapport au gabarit interne de Hugo.
+
+     1. Les images. Le sitemap ne declarait aucune image. Google Images les
+        decouvrait seulement en explorant les pages, plus lentement et moins
+        completement, alors que les photos de proprietes et de quartiers sont
+        un canal reel pour un courtier. Chaque fiche declare desormais ses
+        photos, chaque article son image en vedette.
+
+     2. Les pages en noindex sont ecartees. Les quatre pages de remerciement
+        sont deja retirees par `sitemap.disable` dans leur frontmatter; la
+        condition sur `noindex` evite qu une page future passe entre les deux,
+        parce que soumettre a Google une adresse qu on lui demande de ne pas
+        indexer ne produit qu un avertissement dans Search Console.
+
+     Le reste reprend le gabarit interne: une entree par page, et un
+     `xhtml:link` par langue, y compris la langue courante, comme le demande
+     la documentation de Google pour les sites multilingues.
+
+     La declaration XML passe par `safeHTML`: Hugo traite ce gabarit comme du
+     HTML et echappait les chevrons, ce qui donnait un `&lt;?xml` litteral en
+     tete de fichier et un sitemap invalide. Meme raison pour l heure, ramenee
+     en UTC pour qu elle se termine par Z et non par un `+` echappe. */ -}}
+{{ `<?xml version="1.0" encoding="utf-8" standalone="yes"?>` | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+{{- range .Pages }}
+  {{- $page := . }}
+  {{- if not .Params.noindex }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- if not .Lastmod.IsZero }}
+    <lastmod>{{ .Lastmod.UTC.Format "2006-01-02T15:04:05Z" }}</lastmod>
+    {{- end }}
+    {{- /* Photos de la page: la liste `images` des fiches de proprietes, sinon
+           l image en vedette d un article ou d une page. */}}
+    {{- with $page.Params.images }}
+      {{- range . }}
+    <image:image><image:loc>{{ . | absURL }}</image:loc></image:image>
+      {{- end }}
+    {{- else }}
+      {{- with $page.Params.image }}
+    <image:image><image:loc>{{ . | absURL }}</image:loc></image:image>
+      {{- end }}
+    {{- end }}
+    {{- if .IsTranslated }}
+      {{- range .AllTranslations }}
+    <xhtml:link rel="alternate" hreflang="{{ .Language.LanguageCode | default .Lang }}" href="{{ .Permalink }}" />
+      {{- end }}
+    {{- end }}
+  </url>
+  {{- end }}
+{{- end }}
+</urlset>
