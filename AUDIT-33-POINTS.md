@@ -7,48 +7,54 @@ Methode: analyse du site construit page par page (titres, descriptions,
 canoniques, balisage, nombre de mots, liens internes et externes), requetes
 HTTP reelles sur le site en ligne, lecture des gabarits et de hugo.toml.
 
-**Resultat: 18 points conformes, 9 partiels, 4 absents, 2 sans objet.**
-Un defaut a ete corrige pendant l audit, il est deja en ligne.
+**Resultat de l audit initial: 18 points conformes, 9 partiels, 4 absents, 2
+sans objet.**
+
+**Etat apres les corrections du 2026-10-02: 28 conformes, 3 partiels, 0 absent,
+2 sans objet.** Les points 1 a 8 de l ordre de travail ont ete executes et
+pousses en ligne. Ce qui reste depend de vous: Bing, LinkedIn, la fiche Google
+Business et la campagne de lisibilite. Le detail est a la fin, section
+**Ce qui a ete fait**.
 
 ---
 
 ## Tableau de bord
 
-| # | Point | Etat |
-|---|-------|------|
-| 1 | Page "a propos" unique | Partiel |
-| 2 | Bing Webmaster Tools | A verifier, probablement absent |
-| 3 | Google Search Console | Conforme |
-| 4 | Aucune erreur 404 | Corrige aujourd hui |
-| 5 | Sitemap XML | Conforme |
-| 6 | Sitemap des images | **Absent** |
-| 7 | Favicon | Partiel |
-| 8 | Aucune erreur 5xx | Conforme |
-| 9 | Liens brises repares | Conforme apres correction |
-| 10 | Aucune page orpheline | Conforme |
-| 11 | Pages choisies en noindex | Conforme |
-| 12 | Fil d Ariane | Partiel |
-| 13 | Balises canoniques | Conforme |
-| 14 | Avis sur les temoins | Conforme |
-| 15 | Section auteur sur les articles | Conforme |
-| 16 | Page contact | Conforme, mais mince |
-| 17 | Politique de confidentialite | Conforme |
-| 18 | Liens externes sur la page "a propos" | **Absent** |
-| 19 | Fiche Google Business | Partiel |
-| 20 | Reseaux sociaux au pied de page | Partiel |
-| 21 | Toutes les pages au-dessus de 200 mots | Partiel, 22 pages en dessous |
-| 22 | Page "nos services" | **Absent** |
-| 23 | Mention de droit d auteur | Conforme |
-| 24 | Coordonnees au pied de page | Partiel, adresse manquante |
-| 25 | Certificat SSL | Conforme |
-| 26 | Compte LinkedIn | **Absent** |
-| 27 | Compte Facebook professionnel | A verifier |
-| 28 | Conditions d utilisation au pied de page | **Absent** |
-| 29 | Politique de retour | Sans objet |
-| 30 | Politique de garantie | Sans objet au sens strict |
-| 31 | Date de publication sur les articles | Conforme |
-| 32 | Controle de lisibilite | Partiel |
-| 33 | Contenu duplique retire | Conforme a une exception pres |
+| # | Point | Etat initial | Etat au 2026-10-02 |
+|---|-------|--------------|--------------------|
+| 1 | Page "a propos" unique | Partiel | **Conforme** |
+| 2 | Bing Webmaster Tools | A verifier, probablement absent | A verifier avec vous |
+| 3 | Google Search Console | Conforme | Conforme |
+| 4 | Aucune erreur 404 | Corrige aujourd hui | **Conforme** |
+| 5 | Sitemap XML | Conforme | Conforme |
+| 6 | Sitemap des images | **Absent** | **Conforme** |
+| 7 | Favicon | Partiel | **Conforme** |
+| 8 | Aucune erreur 5xx | Conforme | Conforme |
+| 9 | Liens brises repares | Conforme apres correction | **Conforme** |
+| 10 | Aucune page orpheline | Conforme | Conforme |
+| 11 | Pages choisies en noindex | Conforme | **Conforme** |
+| 12 | Fil d Ariane | Partiel | **Conforme** |
+| 13 | Balises canoniques | Conforme | Conforme |
+| 14 | Avis sur les temoins | Conforme | Conforme |
+| 15 | Section auteur sur les articles | Conforme | Conforme |
+| 16 | Page contact | Conforme, mais mince | **Conforme** |
+| 17 | Politique de confidentialite | Conforme | Conforme |
+| 18 | Liens externes sur la page "a propos" | **Absent** | **Conforme** |
+| 19 | Fiche Google Business | Partiel | Partiel, action de votre cote |
+| 20 | Reseaux sociaux au pied de page | Partiel | Partiel, LinkedIn a creer |
+| 21 | Toutes les pages au-dessus de 200 mots | Partiel, 22 pages en dessous | **Conforme** |
+| 22 | Page "nos services" | **Absent** | **Conforme** |
+| 23 | Mention de droit d auteur | Conforme | Conforme |
+| 24 | Coordonnees au pied de page | Partiel, adresse manquante | **Conforme** |
+| 25 | Certificat SSL | Conforme | Conforme |
+| 26 | Compte LinkedIn | **Absent** | **Absent, a creer** |
+| 27 | Compte Facebook professionnel | A verifier | **Conforme** |
+| 28 | Conditions d utilisation au pied de page | **Absent** | **Conforme** |
+| 29 | Politique de retour | Sans objet | Sans objet |
+| 30 | Politique de garantie | Sans objet au sens strict | **Conforme** |
+| 31 | Date de publication sur les articles | Conforme | Conforme |
+| 32 | Controle de lisibilite | Partiel | Partiel, reecriture a faire |
+| 33 | Contenu duplique retire | Conforme a une exception pres | **Conforme** |
 
 ---
 
@@ -357,51 +363,112 @@ pied de page coche ce point dans son esprit.
 
 ---
 
-## Ordre de travail propose
+## Ce qui a ete fait, le 2026-10-02
 
-Du plus rentable au moins rentable, par rapport a l effort.
+Les points 1 a 8 de l ordre de travail sont executes, construits, verifies et
+pousses en ligne. Tout a ete fait dans les 4 langues.
 
-1. **Adresse du bureau dans le pied de page**, 4 langues. Le plus court chemin
-   vers un gain de referencement local reel. Points 24 et 19.
-2. **Page "a propos" refaite**, 4 langues: permis OACIQ, parcours, langues,
-   liens externes vers OACIQ, RE/MAX, Centris, Google Business. Points 1, 18, 21.
-3. **Conditions d utilisation**, 4 langues, liees au pied de page. Point 28.
-4. **Page "Mes services"**, 4 langues, qui alimente aussi la section Services
-   de la fiche Google Business. Point 22.
-5. **Carrefour `/tools/` refait** avec un gabarit dedie et une description par
-   calculateur. Point 21.
-6. **Jeu de favicons propre**. Point 7.
-7. **Fil d Ariane visible** sur les 52 pages qui en manquent. Point 12.
-8. **Sitemap des images**. Point 6.
-9. **Fiche Google Business**: reprendre `TODO-GOOGLE-BUSINESS.md` dans l ordre,
-   en commencant par la decision sur le nom. Point 19.
-10. **LinkedIn**, puis verification du statut de la page Facebook. Points 26, 27.
-11. **Lisibilite**: campagne de reecriture, les 6 articles les plus durs
-    d abord. Point 32.
-12. **Relecture des pages de secteur** les plus semblables. Point 33.
+**1. Adresse et permis au pied de page.** L adresse du bureau est maintenant
+ecrite en texte visible sur chaque page, composee a partir des memes champs que
+le JSON-LD pour que les deux ne puissent pas diverger, et liee a la fiche
+Google Business. Une bande legale a ete ajoutee au-dessus du droit d auteur:
+numero de permis **J7941**, lien vers le [registre public de l OACIQ](https://registre.oaciq.com/),
+puis confidentialite, conditions d utilisation et garanties RE/MAX.
+Points 24, 30 et une partie de 19.
 
-Les points 1 a 8 sont du travail que je fais seul. Les points 9 a 12 demandent
-soit vos identifiants, soit vos decisions, soit les deux.
+**2. Page "a propos" refaite.** Permis, parcours d ingenieur, domaines,
+territoire, langues, coordonnees, et surtout quatre liens externes
+verifiables: registre de l OACIQ, profil RE/MAX DU CARTIER, Centris, fiche
+Google Business. Elle est passee de 154-195 mots a plus de 400.
+Points 1, 18 et 21.
+
+**3. Conditions d utilisation.** Page creee dans les 4 langues et liee au pied
+de page: portee des calculateurs, absence de relation de courtage avant contrat
+signe, limites des articles, fiches de proprietes, propriete du contenu,
+plainte et encadrement OACIQ, droit applicable au Quebec. Point 28, et le
+point 29 y est traite sous sa forme utile pour un courtier.
+
+**4. Page "Mes services".** Creee dans les 4 langues, avec une FAQ balisee en
+`FAQPage` qui peut sortir en resultat enrichi. Elle sert aussi de cible a la
+section Services de la fiche Google Business, qui reste a remplir. Point 22.
+
+**5. Carrefour des calculateurs.** Gabarit dedie, texte d introduction, une
+carte par calculateur avec sa description. La page est passee de 38-52 mots a
+plus de 450. Un bloc explicatif commun a aussi ete ajoute sous chaque
+calculateur: d ou viennent les chiffres, et ou s arrete leur portee.
+Point 21.
+
+**6. Favicons.** Jeu complet genere depuis le logo, cadre et detoure: ico
+multi-taille 16, 32 et 48, PNG en 48, 96, 192 et 512, icone Apple 180 sur fond
+creme de la charte. `/favicon.ico` ne repond plus 404. Point 7.
+
+**7. Fil d Ariane visible.** Ajoute sur les 52 pages qui en manquaient, par un
+partiel commun reutilisable. Il reste volontairement absent des pages d accueil
+et des 4 pages de formulaire, qui sont des pages de conversion sans
+navigation. Point 12.
+
+**8. Sitemap des images.** Gabarit de sitemap personnalise: 212 images
+declarees par langue, plus `lastmod` sur chaque page et exclusion des pages en
+noindex. Les 5 sitemaps ont ete valides au parseur XML. Point 6.
+
+**Travaux complementaires.**
+
+- Pages minces traitees: listes de proprietes, pages de contact et pages de
+  calculateurs. Les 4 pages de formulaire passent en noindex, ce sont des pages
+  de conversion qui doublaient la page de contact. Deux lignes a retirer de
+  leur frontmatter suffisent a revenir en arriere.
+- Lien Facebook remplace par l adresse stable de la page, au lieu du lien de
+  partage qui redirigeait. Point 27.
+- Titre de la page de contact francaise differencie de l anglaise. Point 33.
+- Page 404: les boutons espagnol et arabe menaient a une 404. Points 4 et 9.
+
+**Verification apres coup, sur les 942 pages construites:** zero lien interne
+brise, zero page orpheline, zero page indexable sous 200 mots, zero description
+meta dupliquee, zero image sans attribut `alt`, 5 sitemaps valides.
 
 ---
 
-## Ce dont j ai besoin de vous
+## Ce qui reste
 
-1. **Bing Webmaster Tools**: le compte existe-t-il? Si non, je prepare le
-   fichier de validation et vous n avez qu a creer le compte.
-2. **Search Console**: une capture ou une exportation du rapport "Pages"
-   (Indexation). C est le seul endroit ou apparaissent les 404 vues par Google
-   depuis l exterieur, que mon analyse du site ne peut pas voir.
-3. **Numero de permis OACIQ** et **date de debut de pratique**, pour la page "a
-   propos" et le pied de page.
-4. **Facebook**: est-ce une page professionnelle ou un profil personnel? Si
-   c est une page, son adresse courte.
-5. **LinkedIn**: voulez-vous que je prepare le texte du profil, ou le compte
-   existe-t-il deja quelque part?
-6. **Conditions d utilisation**: je rediges un texte standard pour un courtier
-   au Quebec, que vous faites relire. Confirmez que cela vous va, ou donnez-moi
-   un modele de RE/MAX DU CARTIER s il en existe un.
-7. **Adresse exacte a afficher au pied de page**: je reprends celle de
-   `hugo.toml`, `2820, boul. Saint-Martin Est, bureau 201, Laval (Duvernay),
-   Quebec H7E 5A1`, sauf avis contraire. Elle doit etre ecrite exactement comme
-   sur la fiche Google Business.
+Trois points, tous dependants de vous.
+
+**19. Fiche Google Business.** Le fichier `TODO-GOOGLE-BUSINESS.md` reste la
+reference. Dans l ordre: trancher sur le nom de la fiche, qui contient des
+mots-cles descriptifs interdits par Google; remplir la section Services, qui a
+maintenant une page du site vers laquelle pointer; poser le bouton Cal.com;
+monter a 20 photos; lancer les demandes d avis. L adresse du site est
+maintenant coherente avec la fiche, ce qui etait le prerequis.
+
+**20 et 26. LinkedIn.** Le parametre est vide dans `hugo.toml`. Des que le
+compte existe, une seule ligne a changer et l icone apparait au pied de page
+dans les 4 langues, et le profil entre dans le `sameAs` du balisage.
+
+**32. Lisibilite.** Flesch median de 52,7 en anglais pour une cible de 60, et
+une phrase sur cinq au-dessus de 30 mots en francais. C est une campagne de
+reecriture, pas une correction technique. Les six articles les plus durs sont
+nommes plus haut.
+
+**2. Bing Webmaster Tools.** Des que vous confirmez si le compte existe. S il
+n existe pas, l import depuis Search Console prend deux clics et ne demande
+aucun fichier.
+
+---
+
+## Ce dont j ai encore besoin de vous
+
+1. **Bing Webmaster Tools**: le compte existe-t-il?
+2. **Search Console**: le rapport "Pages", a
+   `https://search.google.com/search-console/index?resource_id=sc-domain:georgesmatar.ca`
+   ou, si la propriete est de l autre type,
+   `https://search.google.com/search-console/index?resource_id=https://georgesmatar.ca/`.
+   C est le seul endroit ou apparaissent les 404 vues par Google depuis
+   l exterieur.
+3. **Adresse du pied de page**: elle doit etre identique, mot pour mot, a celle
+   de la fiche Google Business. Elle affiche aujourd hui
+   `2820, boul. Saint-Martin Est, bureau 201 / Laval, QC H7E 5A1`. Si la fiche
+   ecrit autre chose, par exemple avec la mention Duvernay, dites-le moi.
+4. **Conditions d utilisation**: le texte est complet et prudent, mais il n a
+   pas ete relu par un juriste. A faire relire avant de vous y fier.
+5. **LinkedIn**: le compte existe-t-il quelque part, ou faut-il le creer?
+6. **Date de debut de pratique**, si vous voulez l afficher sur la page "a
+   propos". Elle n y figure pas pour l instant.
