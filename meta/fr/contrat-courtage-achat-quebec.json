@@ -93,6 +93,12 @@
    "supports": "Vérification que le CCA est le formulaire obligatoire en vigueur pour l'immeuble résidentiel de moins de 5 logements excluant la copropriété, que le CCADI existe pour la copropriété, et que l'Annexe DR, Déboursés et rétribution, est le formulaire prévu pour compléter la section Rétribution d'un contrat de courtage."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "La clause 6.1 par. 2 du formulaire parle d'un immeuble auquel l'acheteur aura été intéressé pendant la durée du contrat, alors que l'article 27 par. 2 de la Loi parle, pour un contrat d'achat, d'un immeuble auquel le titulaire de permis a intéressé le client. L'article compte cette nuance comme une question à poser au courtier et ne tranche pas sa portée juridique. À faire valider.",
   "Les deux conditions de la SCHL pour le financement de la rétribution dans le prix offert sont rapportées telles que le Guide des pratiques professionnelles de l'OACIQ les énonce, et non depuis une publication de la SCHL elle-même. À confirmer auprès de la SCHL ou d'un courtier hypothécaire avant publication.",

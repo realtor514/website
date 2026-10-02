@@ -96,7 +96,7 @@ Il n'y a pas de bonne réponse générale. Il y a quatre variables, et elles se 
 3. **Le type de propriété que vous vendez.** Un produit que beaucoup d'acheteurs financent rapidement ne se comporte pas comme une propriété atypique, un plex ou une copropriété au dossier incomplet. Le [délai de vente réaliste à Montréal](/articles/combien-de-temps-vendre-maison-montreal/) fait partie du calcul, pas de l'espoir.
 4. **Votre tolérance au provisoire.** Entreposage, logement temporaire, deuxième déménagement: des coûts et de la fatigue, à comparer au coût du double portage.
 
-Quand un client m'arrive avec cette question, on remplit ces quatre lignes avant de parler de stratégie. Le tableau décide souvent tout seul.
+Ces quatre lignes se remplissent avant de parler de stratégie. Le tableau décide souvent tout seul.
 
 ## Questions fréquentes
 

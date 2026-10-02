@@ -81,6 +81,12 @@
    "consulted": "2026-09-25",
    "supports": "Mesure Thermopompe: 50 $ par 1 000 BTU/h a -8 °C pour l'achat et l'installation d'une thermopompe certifiee ENERGY STAR, 120 $ par 1 000 BTU/h a -8 °C lorsqu'elle est de type climat froid; mesure Thermopompe a tres haute efficacite: 140 $ par 1 000 BTU/h a -8 °C, travaux de calfeutrage compris; maximum annonce de 6 700 $ pour la mesure Thermopompe; majoration de 5 % du montant total lorsque plusieurs mesures sont soumises dans une meme demande; bonification Multilogements de 100 $ par 1 000 BTU/h a -8 °C, portant le montant a 220 $, pour un immeuble situe dans une zone repondant a des criteres bases sur des indicateurs de defavorisation, offerte pour les installations faites a compter du 15 juin 2026. Le site hydroquebec.com refuse les acces hors Quebec et redirige vers une page d'indisponibilite: la page officielle a ete lue le 2026-09-25 par la capture web.archive.org du 2026-09-06."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Les montants LogisVert ont ete lus le 2026-09-25 sur une capture web.archive.org du 2026-09-06 de la page officielle d'Hydro-Quebec, parce que hydroquebec.com redirige tout acces venant de l'exterieur du Quebec vers une page d'indisponibilite. L'article date donc ces montants a septembre 2026. A revalider a la date de publication, comme les montants RenoPlex.",
   "Aucun montant du programme Chauffez vert n'est cite: quebec.ca renvoie encore une erreur 405 le 2026-09-25 et transitionenergetique.gouv.qc.ca ne repond pas. Aucune interdiction du chauffage au mazout n'est affirmee non plus: LegisQuebec renvoie encore une erreur 502 et le reglement Q-2, r. 1.1 n'a pas pu etre ouvert."

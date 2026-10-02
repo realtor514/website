@@ -96,7 +96,7 @@ There is no good general answer. There are four variables, and they get verified
 3. **The type of property you are selling.** A product that many buyers finance quickly does not behave like an atypical property, a plex or a condo with an incomplete file. The [realistic selling timeline in Montreal](/en/articles/how-long-to-sell-house-montreal/) belongs in the calculation, not in the hoping.
 4. **Your tolerance for the temporary.** Storage, temporary housing, a second move: costs and fatigue, to be compared with the cost of carrying two properties.
 
-When a client comes to me with this question, we fill in those four lines before talking strategy. The table often decides on its own.
+Those four lines get filled in before any talk of strategy. The table often decides on its own.
 
 ## Frequently asked questions
 

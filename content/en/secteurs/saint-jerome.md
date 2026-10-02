@@ -53,7 +53,7 @@ These two markets do not respond to the same signals. A single-family seller and
 
 **Downtown and the CEGEP sector** concentrate most of the rental market and the income properties.
 
-One detail that matters: these former municipalities each have their own price dynamic. Comparing a Bellefeuille property to a recent Lafontaine sale produces a false estimate. It is a mistake I see often in automated valuations.
+One detail that matters: these former municipalities each have their own price dynamic. Comparing a Bellefeuille property to a recent Lafontaine sale produces a false estimate. It is a common failing of automated valuations, which reason by postal code.
 
 ## Investing in Saint-Jérôme
 

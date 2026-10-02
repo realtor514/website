@@ -86,6 +86,12 @@
    "supports": "Taux cible du financement à un jour maintenu à 2,25 % le 2 septembre 2026, prochaine annonce prévue le 28 octobre 2026."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Illustration arithmétique de la section sur le taux affiché contre le taux consenti : les chiffres (solde de 300 000 $, 30 mois restants, taux au contrat de 5 %, taux affiché à la signature de 6,5 %, taux affiché courant de 4 %) sont inventés pour démontrer la mécanique et sont présentés comme tels dans le texte. Les trois résultats (3 750 $, 7 500 $, 30 000 $) sont arithmétiquement exacts selon la méthode décrite par l'ACFC, mais ne proviennent d'aucune source et ne reflètent aucun taux du marché. À faire valider par un courtier hypothécaire avant publication.",
   "Affirmation selon laquelle beaucoup de contrats à taux variable prévoient les trois mois d'intérêts : aucune source officielle ne le chiffre. Le texte le présente comme une pratique courante et non comme une règle, et renvoie au contrat. À faire valider.",

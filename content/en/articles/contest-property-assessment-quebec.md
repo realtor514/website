@@ -181,7 +181,7 @@ charged in Montréal. The same reduction obtained in the first year of a three
 year roll brings in about $177. Add the school tax, also calculated on the
 assessment, and the gap widens a little.
 
-When a client asks me whether it is worth it, I start with two numbers: how many
+To work out whether it is worth it, start with two numbers: how many
 years are left on the roll, and what gap comparable sales at the reference date
 actually let you demonstrate. Without those two numbers, the rest is a hunch.
 

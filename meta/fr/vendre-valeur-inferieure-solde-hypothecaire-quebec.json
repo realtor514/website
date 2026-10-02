@@ -76,6 +76,12 @@
    "consulted": "2026-09-25",
    "supports": "Donnees de juillet 2026 pour la region metropolitaine de Montreal, publiees le 6 aout 2026: prix median des unifamiliales en hausse de 4 % sur un an, inscriptions en vigueur en hausse de 17 %, copropriete a plus 20 %, delai de vente moyen de 38 jours pour l unifamiliale. Sert de contexte de marche."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le mecanisme par lequel un assureur hypothecaire, apres avoir indemnise le preteur, reclame la difference a l emprunteur. La SCHL confirme que l emprunteur peut etre oblige de payer la difference, mais aucun document officiel ouvert pendant la redaction ne decrit la subrogation de l assureur ni la procedure de reclamation. L article se limite donc a la phrase de la SCHL et renvoie a un avocat.",
   "La portabilite du pret hypothecaire lui-meme, par opposition a la transferabilite de l assurance SCHL. Aucune source officielle ouverte ne decrit les conditions auxquelles un preteur transfere un pret vers une nouvelle propriete: l article dit que cela depend du contrat et de la decision du preteur, sans chiffre ni delai.",

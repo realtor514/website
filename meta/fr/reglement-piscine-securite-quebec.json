@@ -86,6 +86,12 @@
    "supports": "Devoir de respecter les règles de conduite qui s'imposent de manière à ne pas causer de préjudice à autrui, et obligation de réparer en certains cas le préjudice causé par le fait des biens que l'on a sous sa garde"
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "L'angle fourni dans la consigne affirmait que l'échéance provinciale était échue. Vérification faite, elle ne l'est pas: le texte officiel à jour au 1er mai 2026 fixe le 30 septembre 2027 pour une installation existant avant le 1er novembre 2010, après modification de l'article 10 par le décret 120-2026. L'article a été réécrit en conséquence. À revérifier avant publication au cas où un nouveau décret reporterait encore cette date.",
   "L'affirmation « remplacer la piscine rend applicables à l'installation existante les trois dispositions exceptées » reformule le troisième alinéa de l'article 10. À valider par un juriste ou par la municipalité avant publication.",

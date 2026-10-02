@@ -63,6 +63,12 @@
    "supports": "Obligation de vérification et d'information: le courtier doit démontrer par des documents pertinents l'exactitude de l'information qu'il transmet et est responsable de l'information qu'il diffuse. Appuie la liste de ce que le vendeur peut exiger de son courtier."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "L'article indique explicitement qu'aucune source officielle ne fixe un pourcentage minimal de baisse de prix ni ne détaille champ par champ ce qu'un courtier d'acheteur voit dans le service de diffusion interagences. Ces deux limites sont assumées dans le texte plutôt que chiffrées."
  ]

@@ -51,6 +51,12 @@
    "consulted": "2026-09-24",
    "supports": "La procuration est un contrat par lequel on confie à un mandataire la gestion de ses biens ou d'une tâche précise, et un écrit est nécessaire dans certains cas, dont la vente d'un immeuble."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Portée exacte de la mention « Non en vigueur » sur les alinéas 3 et suivants de l'article 46 de la Loi sur le notariat: l'article est formulé dans le texte comme non en vigueur à partir de l'alinéa sur le lieu de clôture de l'acte à distance. À faire confirmer par un notaire avant publication.",
   "Forme de procuration exigée en pratique par un notaire québécois pour un acheteur signant à l'étranger: l'article 2823 du Code civil est cité, mais aucune source officielle ne fixe une exigence uniforme. L'article renvoie donc au notaire instrumentant."

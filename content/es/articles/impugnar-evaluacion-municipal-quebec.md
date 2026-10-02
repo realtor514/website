@@ -190,7 +190,7 @@ reducción de 10 000 $ obtenida en el último año rinde unos 59 $, menos que lo
 año de un rol trienal rinde unos 177 $. Añada el impuesto escolar, calculado
 también sobre la evaluación, y la diferencia se agranda un poco.
 
-Cuando un cliente me pregunta si vale la pena, empiezo por dos cifras: cuántos
+Para saber si vale la pena, empiece por dos cifras: cuántos
 años le quedan al rol, y qué diferencia permiten demostrar realmente las ventas
 comparables a la fecha de referencia. Sin esos dos números, el resto es una
 intuición.

@@ -105,6 +105,12 @@
    "consulted": "2026-09-25",
    "supports": "Amende possible pour des travaux entrepris sans les permis requis de la municipalité, et obligation pour l'entrepreneur de détenir une licence de la Régie du bâtiment du Québec, faute de quoi il exerce illégalement."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le taux de conversion du crédit fédéral pour l'accessibilité domiciliaire n'est pas énoncé dans l'article. La page de l'Agence du revenu du Canada confirme le plafond de 20 000 $ et le caractère non remboursable, mais ne publie pas le pourcentage appliqué, et le taux de conversion des crédits personnels fédéraux a été modifié en 2025. Un comptable doit confirmer la valeur réelle du crédit pour l'année d'imposition visée.",
   "Le développé d'environ 11 m avancé pour une rampe à pente 1:12 franchissant un perron de 90 cm est un calcul arithmétique tiré de la pente publiée par la SHQ, pas un chiffre publié par une source officielle.",

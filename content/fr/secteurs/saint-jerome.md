@@ -53,7 +53,7 @@ Ces deux marchés ne répondent pas aux mêmes signaux. Un vendeur d'unifamilial
 
 **Le centre-ville et le secteur du cégep** concentrent l'essentiel du marché locatif et des immeubles à revenus.
 
-Une précision qui compte: ces anciennes municipalités ont chacune leur propre dynamique de prix. Comparer une propriété de Bellefeuille à une vente récente de Lafontaine produit une estimation fausse. C'est une erreur que je vois souvent dans les évaluations automatisées.
+Une précision qui compte: ces anciennes municipalités ont chacune leur propre dynamique de prix. Comparer une propriété de Bellefeuille à une vente récente de Lafontaine produit une estimation fausse. C'est une erreur fréquente des évaluations automatisées, qui raisonnent par code postal.
 
 ## Investir à Saint-Jérôme
 

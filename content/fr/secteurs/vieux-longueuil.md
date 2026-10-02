@@ -72,7 +72,7 @@ Le bassin d'acheteurs est double: la Rive-Sud, et ceux qui quittent l'île et co
 
 Trois documents pèsent sur le prix obtenu ici: un certificat de localisation à jour, les factures des travaux majeurs avec leurs années et, dans le site patrimonial, les résolutions municipales des travaux extérieurs déjà approuvés. Un acheteur qui les voit n'escompte pas le risque.
 
-L'analyse comparative est préparée sans frais, avec les ventes conclues de votre secteur. Un exemple vendu ici: la [maison à deux étages du 28, rue St-Hilaire](/listings/28-rue-st-hilaire-longueuil/), de 1949, dont la fiche indique 499 000 $ et une toiture, une plomberie et une électricité refaites en 2014.
+L'analyse comparative est préparée sans frais, avec les ventes conclues de votre secteur. Un exemple vendu ici: la [maison à deux étages du 28, rue St-Hilaire](/listings/28-rue-st-hilaire-longueuil/), de 1949, dont la fiche indique une toiture, une plomberie et une électricité refaites en 2014.
 
 ## Acheter dans le Vieux-Longueuil
 

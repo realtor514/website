@@ -79,6 +79,12 @@
    "supports": "Date de clôture, c'est-à-dire la date de prise de possession, généralement 30 à 60 jours après la signature de l'offre d'achat pour une maison existante."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Prêt relais: aucune source publique consultée ne fixe de durée, de taux, de frais ni de critères d'octroi. L'article se limite volontairement à la logique structurelle (avance sur une valeur nette déjà verrouillée par une promesse dont les conditions sont réalisées) et renvoie à l'écrit du prêteur ou du courtier hypothécaire. À faire valider par un courtier hypothécaire avant publication.",
   "Assurance habitation d'un logement inoccupé: l'article ne formule aucune règle et renvoie le lecteur à son assureur. Vérifier si une formulation appuyée sur le Bureau d'assurance du Canada serait préférable.",

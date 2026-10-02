@@ -37,7 +37,7 @@ images:
   - "images/listings/28-rue-st-hilaire-longueuil/23.jpg"
   - "images/listings/28-rue-st-hilaire-longueuil/24.jpg"
   - "images/listings/28-rue-st-hilaire-longueuil/25.jpg"
-description: "Two-storey home sold in Old Longueuil. $499,000, fenced lot of nearly 4,000 sq ft, pool, EV charger. Centris 26368231."
+description: "Two-storey home sold in Old Longueuil. Fenced lot of nearly 4,000 sq ft, pool, EV charger. Centris 26368231."
 status: "Sold"
 price: "$499,000"
 lot: "371 m² (approx. 4,000 sq ft)"

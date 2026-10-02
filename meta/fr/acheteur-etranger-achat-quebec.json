@@ -71,6 +71,12 @@
    "supports": "Confirme la version courante du formulaire TP-1097 et son objet, pour un particulier ou une société résidant hors du Canada qui aliène un bien québécois imposable."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Volet québécois, somme que l'acquéreur doit verser: le formulaire TP-1097 décrit cette somme comme « l'excédent du coût d'acquisition du bien sur, le cas échéant, le montant indiqué sur le certificat », sans énoncer de pourcentage. L'article reproduit cette formulation telle quelle. À faire confirmer par un comptable ou un fiscaliste avant publication, car la pratique notariale applique parfois un taux de retenue distinct de l'acompte de 12,875 %.",
   "Statut de l'interdiction fédérale: vérifié le 2026-09-24 sur le site de la législation fédérale (abrogation par l'article 236 encore sous MODIFICATIONS NON EN VIGUEUR) et sur la page de la SCHL (fin annoncée au 1er janvier 2027). Aucune prolongation ni abrogation anticipée n'était annoncée à cette date. À revalider avant toute publication ultérieure et impérativement avant janvier 2027.",

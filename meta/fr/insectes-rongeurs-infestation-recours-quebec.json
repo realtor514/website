@@ -81,6 +81,12 @@
    "consulted": "2026-09-25",
    "supports": "Les exemples d'exclusions énumérés sont les inondations, les glissements de terrain, les tremblements de terre et éboulements, le déversement de mazout du réservoir appartenant à l'assuré, les biens illégalement acquis, les conséquences des actes criminels de l'assuré, les sinistres imputables à la guerre, au terrorisme et au risque nucléaire, et les dommages graduels. La vermine n'y est pas nommée: c'est le constat que l'article tire de ce guide."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Volet assurance: aucune source primaire ouverte pendant la rédaction ne nomme la vermine, les insectes ou les rongeurs dans une exclusion type de police habitation au Québec. Le guide du Bureau d'assurance du Canada nomme les dommages graduels sans nommer la vermine. L'article s'en tient donc à cette exclusion et renvoie au libellé de la police. À confirmer auprès d'un assureur ou d'un courtier en assurance de dommages avant publication.",
   "Aucun jugement n'est cité pour les fourmis charpentières reconnues comme vice caché: canlii.org et ccq.lexum.com répondaient 403 et la recherche de décisions du TAL ne donnait pas de texte intégral. L'article se limite au texte de l'article 1726 et dit explicitement qu'aucun jugement n'est cité. À faire valider par un avocat si une référence jurisprudentielle est souhaitée."

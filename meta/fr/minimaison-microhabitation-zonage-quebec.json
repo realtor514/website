@@ -82,6 +82,12 @@
    "consulted": "2026-09-25",
    "supports": "Existence, dans le Code de l'urbanisme de Laval, d'un type de milieu distinct consacré aux maisons mobiles. Le serveur de la Ville répond 403 à un accès automatisé: seul le titre du chapitre a pu être confirmé, par une capture web.archive.org du 2024-02-12."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Laval: l'article affirme que le Code de l'urbanisme consacre un type de milieu ZM Maisons mobiles et que l'usage y est donc cantonné à des zones précises. Le titre du chapitre est confirmé par une capture d'archive, mais le texte du chapitre n'a pas pu être lu, le portail info-reglements.laval.ca refusant tout accès automatisé. À confirmer auprès du service de l'urbanisme de Laval avant publication.",
   "Financement mobilier: aucun taux, aucune mise de fonds et aucun amortissement n'est avancé, faute de source publique. Si un courtier hypothécaire fournit des paramètres vérifiables, ils pourront être ajoutés avec leur source."

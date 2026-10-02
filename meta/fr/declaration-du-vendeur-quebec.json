@@ -65,6 +65,12 @@
    "supports": "Conditions du vice caché, examen sérieux, attentif et prudent attendu de l'acheteur, dénonciation écrite obligatoire au vendeur, distinction entre vendeur professionnel et non professionnel, et interdiction faite au vendeur de dissimuler un défaut connu."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "L'affirmation qu'une réponse sciemment inexacte au formulaire DV constitue un « fait personnel » au sens de l'article 1732 et un dol au sens de l'article 1401, et qu'elle survit donc à une clause de vente aux risques et périls, est une lecture combinée du Code civil et du résumé de l'OACIQ sur l'arrêt Tremblay. Elle demande une validation par un avocat avant publication.",
   "La référence Tremblay c. Immeubles Perron ltée, 2024 QCCA 719 et la référence Blais c. Laforce (2022) proviennent de la page de l'OACIQ et d'une recherche web ; les jugements eux-mêmes n'ont pas été lus. À confirmer sur CanLII ou SOQUIJ.",

@@ -75,6 +75,12 @@
    "consulted": "2026-09-24",
    "supports": "Les conditions de reconnaissance du conjoint survivant: mariage ou union civile, ou trois années de vie commune, réduites à une seule année si un enfant est né de l'union ou a été adopté"}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Affirmation que l'assurance vendue par le prêteur rembourse le solde du prêt sans verser de somme au survivant: deduite du mecanisme des articles 2455, 2456 et 2462 du Code civil, mais aucune page de l'Autorite des marches financiers n'a pu etre ouverte pendant la redaction, le site bloquant la consultation automatisee. A faire confirmer par un conseiller en securite financiere.",
   "Affirmation qu'aucun mecanisme de survie automatique entre coproprietaires ne joue pour un immeuble au Quebec: deduite des articles 625 et 1015, a faire confirmer par le notaire.",

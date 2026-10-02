@@ -170,7 +170,7 @@ them on request. The T1-M specifies that the Agence du revenu du Canada can ask
 for a letter from your employer confirming that you were not reimbursed. The
 document is requested after the fact, and that is where a file is won or lost.
 
-What I keep for clients who move for work: the notary's statements on both the
+The documents to keep when you move for work: the notary's statements on both the
 sale and the purchase, the account statement showing the broker's compensation,
 the lender's penalty calculation, the mover's contract, the temporary
 accommodation invoices with their dates, and a screenshot of the route used for

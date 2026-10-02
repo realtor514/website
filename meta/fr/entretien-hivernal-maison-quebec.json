@@ -61,6 +61,12 @@
    "consulted": "2026-09-22",
    "supports": "Confirme la séparation des avenants Eau du sol et égouts, Eau du sol égouts et débordement de cours d'eau, et Eau au-dessus du sol, ce dernier visant la pluie, la neige ou la glace fondante qui pénètrent à travers les toits, les murs, les portes et les fenêtres."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le seuil de sept jours d'absence et l'obligation de couper l'eau ou de faire surveiller la propriété quotidiennement viennent d'une brochure du Bureau d'assurance du Canada datée de 12/2017. C'est une description du secteur, pas le libellé d'un contrat particulier: le nombre de jours et la nature de la condition peuvent différer d'un assureur à l'autre. À faire confirmer par un représentant en assurance de dommages avant publication.",
   "Le règlement 03-096 de Montréal a été lu dans un document officiel de la Ville daté d'octobre 2006 qui reproduit la réglementation alors en vigueur. Les seuils de 21 °C, de 15 °C et de -23 °C sont confirmés par la page montreal.ca mise à jour le 19 décembre 2025, mais la numérotation des articles 37 et 38 n'a pas pu être revérifiée dans une codification récente, reglements.montreal.ca répondant 520."

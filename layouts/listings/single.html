@@ -5,6 +5,14 @@
 {{ $base  := "/en" }}
 {{ if $isFr }}{{ $base = "" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
 
+{{/* Le prix ne s affiche que tant que la propriete est a vendre. La ligne
+     directrice de l OACIQ sur la publicite des transactions conclues interdit
+     d annoncer le prix auquel une propriete s est vendue, ou tout chiffre qui
+     permet de le deduire; le seul prix annoncable est celui du contrat de
+     courtage, pendant que l inscription est active. La fiche vendue reste en
+     ligne avec sa pastille VENDU (REGLE 4), elle perd seulement son prix. */}}
+{{ $isSold := in (slice "Vendu" "Sold" "Vendido" "مباع") .Params.status }}
+
 <section class="content-hero">
   <div class="container">
     <div class="breadcrumb">
@@ -47,7 +55,7 @@
         <h2 style="margin-bottom:20px">{{ if $isFr }}Détails de la propriété{{ else if $isAr }}تفاصيل العقار{{ else if $isEs }}Detalles de la propiedad{{ else }}Property Details{{ end }}</h2>
 
         <div class="listing-features-grid">
-          {{ with .Params.price      }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Prix{{ else if $isAr }}السعر{{ else if $isEs }}Precio{{ else }}Price{{ end }}</span></div>{{ end }}
+          {{ if not $isSold }}{{ with .Params.price }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Prix{{ else if $isAr }}السعر{{ else if $isEs }}Precio{{ else }}Price{{ end }}</span></div>{{ end }}{{ end }}
           {{ with .Params.bedrooms   }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Chambres{{ else if $isAr }}غرف نوم{{ else if $isEs }}Dormitorios{{ else }}Bedrooms{{ end }}</span></div>{{ end }}
           {{ with .Params.bathrooms  }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Salle de bain / eau{{ else if $isAr }}حمّام / حمّام صغير{{ else if $isEs }}Baño / aseo{{ else }}Bath / powder{{ end }}</span></div>{{ end }}
           {{ with .Params.lot        }}<div class="listing-feature-item"><span class="listing-feature-item__value">{{ . }}</span><span class="listing-feature-item__label">{{ if $isFr }}Terrain{{ else if $isAr }}الأرض{{ else if $isEs }}Terreno{{ else }}Lot{{ end }}</span></div>{{ end }}
@@ -60,7 +68,7 @@
 
       <div>
         <div class="listing-sidebar">
-          {{ with .Params.price }}<div class="listing-sidebar__price">{{ . }}</div>{{ end }}
+          {{ if not $isSold }}{{ with .Params.price }}<div class="listing-sidebar__price">{{ . }}</div>{{ end }}{{ end }}
           <div class="listing-sidebar__address"><bdi dir="ltr">{{ .Params.address }}</bdi></div>
 
           {{ with .Params.mls }}

@@ -90,7 +90,7 @@ Le programme est assuré par la Compagnie d'assurance de l'Île-du-Prince-Édoua
 
 ## Ce que ça veut dire pour vous
 
-Un client m'a déjà demandé pourquoi je mettais tant d'insistance sur un programme qui, dans le meilleur des cas, ne servira jamais.
+On peut se demander pourquoi insister autant sur un programme qui, dans le meilleur des cas, ne servira jamais.
 
 C'est exactement le point. Vous n'achetez pas une assurance en espérant l'utiliser. Vous l'obtenez pour que le scénario improbable ne devienne pas le scénario catastrophique.
 

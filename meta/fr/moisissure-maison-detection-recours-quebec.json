@@ -66,6 +66,12 @@
    "consulted": "2026-09-25",
    "supports": "Ligne « Non couvert » du tableau des sinistres visant les dommages causés par l'humidité, la condensation, la pourriture, les moisissures et la détérioration graduelle, avec l'exemple de la toiture arrivée en fin de vie utile; libellé des avenants Eau du sol et égouts et Eau au-dessus du sol, tous deux limités à l'infiltration soudaine et accidentelle; conseils de prévention (descentes pluviales prolongées d'au moins 1,8 m du mur de fondation, inspection professionnelle d'un toit de plus de 20 ans)."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le document de la SCHL qui fixe les trois paliers de surface est publié dans la série destinée aux occupants des Premières Nations. Les seuils y sont généraux et ne visent aucune particularité de ces logements, mais l'article les présente comme l'échelle de la SCHL: si une version générale équivalente devient disponible, elle devrait remplacer cette référence.",
   "La norme BNQ 3009-600 n'a pas été lue dans son texte intégral, qui est payant chez le Bureau de normalisation du Québec. Son existence, sa date, son objet et son caractère volontaire proviennent de la nouvelle publiée par l'INSPQ."

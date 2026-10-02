@@ -65,5 +65,11 @@
    "supports": "Sous-section 7.2.4 « Confidentialite du prix vendu et utilisation des comparables », page portant la mention « Derniere mise a jour 26 aout 2026 »: « Tant que l acte de vente n a pas ete publie au Registre foncier, le prix qui y est inscrit constitue un renseignement confidentiel concernant l acheteur et le vendeur », et l obligation de masquer sur les fiches de comparables remises aux clients « les informations permettant d identifier directement ou indirectement le vendeur »."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": []
 }

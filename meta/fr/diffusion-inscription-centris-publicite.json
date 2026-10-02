@@ -72,6 +72,12 @@
    "supports": "Fusion des systèmes des chambres immobilières et base de données provinciale complétée en juin 2008; indicateurs publiés à partir de cette base, dont les ventes, les nouvelles inscriptions, les prix médians et le nombre de jours sur le marché"
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le nombre d'environ 13 000 courtiers cité par l'APCIQ n'est pas daté sur la page source; à revalider avant publication.",
   "L'article ne nomme aucun site tiers alimenté par Centris (par exemple REALTOR.ca): aucun document officiel consulté ne décrit ce mécanisme de rediffusion. Le texte renvoie plutôt le vendeur à la liste de sites convenue avec son courtier.",

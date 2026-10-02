@@ -4,7 +4,7 @@
 
 <div class="mc-card">
   <p class="mc-tool-desc">
-    {{ if $isFr }}Obtenez une estimation preliminaire de la valeur marchande de votre propriete selon son secteur, type, superficie et caracteristiques - basee sur les donnees du marche immobilier quebecois 2025.{{ else if $isAr }}احصل على تقدير اولي للقيمة السوقية لعقارك بناء على موقعه ونوعه ومساحته وخصائصه، استنادا الى بيانات سوق كيبيك 2025.{{ else if $isEs }}Obtenga una estimacion preliminar del valor de mercado de su propiedad segun su sector, tipo, superficie y caracteristicas, basada en datos del mercado de Quebec 2025.{{ else }}Get a preliminary estimate of your property's market value based on its sector, type, area, and features - based on 2025 Quebec real estate market data.{{ end }}
+    {{ if $isFr }}Situez un ordre de grandeur pour votre propriete selon son secteur, son type, sa superficie et ses caracteristiques. C'est un point de depart de conversation: le chiffre utilisable vient de l'analyse comparative de marche, que je prepare sans frais.{{ else if $isAr }}حدّد رتبة مقدار لعقارك بحسب قطاعه ونوعه ومساحته وخصائصه. إنها نقطة بداية للنقاش: أما الرقم القابل للاستعمال فيأتي من التحليل المقارن للسوق، وأنا أعدّه دون رسوم.{{ else if $isEs }}Situe un orden de magnitud para su propiedad segun su sector, tipo, superficie y caracteristicas. Es un punto de partida de conversacion: la cifra utilizable viene del analisis comparativo de mercado, que preparo sin costo.{{ else }}Place an order of magnitude for your property based on its sector, type, area and features. It is a starting point for a conversation: the usable figure comes from the comparative market analysis, which I prepare at no charge.{{ end }}
   </p>
 
   <!-- Sector -->
@@ -382,13 +382,13 @@
 
     <p class="mc-results__disclaimer">
       {{ if $isFr }}
-        * Estimation preliminaire basee sur les donnees du marche immobilier quebecois 2024-2025. Cette estimation n'est pas une evaluation officielle et ne remplace pas une analyse comparative de marche (ACM). Les valeurs reelles peuvent varier selon les caracteristiques specifiques de la propriete, les comparables recents et les conditions du marche. Contactez Georges Matar pour une evaluation precise et gratuite. Pour les plex, entrer la superficie totale du batiment.
+        * Ordre de grandeur, pas une valeur. Le calcul applique un prix au pied carre par secteur et une serie d'ajustements qui ne proviennent d'aucune source publiee: traitez le resultat comme un point de depart de conversation, jamais comme un prix d'affichage. Ce n'est ni une evaluation au sens de l'Ordre des evaluateurs agrees, ni une analyse comparative de marche. Seule une ACM, faite a partir des ventes reelles de votre rue, situe une valeur marchande utilisable, et je la prepare sans frais. Pour les plex, entrer la superficie totale du batiment.
       {{ else if $isAr }}
-        * تقدير اولي استنادا الى بيانات سوق العقارات في كيبيك 2024-2025. هذا التقدير ليس تقييما رسميا ولا يحل محل تحليل السوق المقارن. قد تختلف القيم الفعلية وفقا للخصائص المحددة للعقار والمقارنات الحديثة وظروف السوق. تواصل مع جورج ماتار للحصول على تقييم دقيق ومجاني. بالنسبة للبلكس، ادخل المساحة الاجمالية للمبنى.
+        * رتبة مقدار، لا قيمة. يطبّق الحساب سعراً للقدم المربع حسب القطاع وسلسلة تعديلات لا تستند إلى أي مصدر منشور: تعامل مع النتيجة كنقطة بداية للنقاش، لا كسعر عرض. وهي ليست تقييماً بالمعنى المعتمد لدى هيئة المقيّمين المعتمدين، ولا تحليلاً مقارناً للسوق. وحده التحليل المقارن، المبني على المبيعات الفعلية في شارعك، يحدّد قيمة سوقية قابلة للاستعمال، وأنا أعدّه دون رسوم. بالنسبة للبلكس، أدخل المساحة الإجمالية للمبنى.
       {{ else if $isEs }}
-        * Estimacion preliminar basada en datos del mercado inmobiliario de Quebec 2024-2025. Esta estimacion no es una tasacion oficial y no reemplaza un analisis comparativo de mercado. Los valores reales pueden variar segun las caracteristicas especificas de la propiedad, comparables recientes y condiciones del mercado. Contacte a Georges Matar para una evaluacion precisa y gratuita. Para plex, ingrese la superficie total del edificio.
+        * Orden de magnitud, no un valor. El calculo aplica un precio por pie cuadrado por sector y una serie de ajustes que no provienen de ninguna fuente publicada: trate el resultado como un punto de partida de conversacion, nunca como un precio de venta. No es una tasacion en el sentido de la Orden de evaluadores acreditados, ni un analisis comparativo de mercado. Solo un ACM, hecho a partir de las ventas reales de su calle, situa un valor de mercado utilizable, y lo preparo sin costo. Para plex, ingrese la superficie total del edificio.
       {{ else }}
-        * Preliminary estimate based on 2024-2025 Quebec real estate market data. This estimate is not an official appraisal and does not replace a comparative market analysis (CMA). Actual values may vary based on the property's specific features, recent comparables, and market conditions. Contact Georges Matar for a precise, free evaluation. For plex properties, enter the total building area.
+        * An order of magnitude, not a value. The calculation applies a price per square foot by sector and a series of adjustments that come from no published source: treat the result as a starting point for a conversation, never as a listing price. It is not an appraisal in the sense of the Ordre des evaluateurs agrees, and it is not a comparative market analysis. Only a CMA, built from the real sales on your street, places a usable market value, and I prepare one at no charge. For plex properties, enter the total building area.
       {{ end }}
     </p>
   </div>
@@ -400,7 +400,21 @@
   var u    = window._toolsUtils;
   var lang = document.documentElement.lang || 'en';
 
-  /* Base price per sq ft by sector (CAD, 2025, condo baseline) */
+  /* Prix de base au pied carre par secteur, base condo.
+     ATTENTION, A RECALIBRER. Ces coefficients ne proviennent d aucune source
+     publiee et n ont pas de date de releve. Confrontes aux medianes APCIQ
+     d aout 2026, ils derivent fortement et dans deux directions opposees:
+       Laval, condo 900 pi2    -> 346 800 $  contre une mediane de 449 000 $
+       Laval, unifam 1600 pi2  -> 918 800 $  contre une mediane de 642 750 $
+       Mtl, unifam 1500 pi2    -> 1 082 200 $ contre une mediane de 820 000 $
+     La cause est structurelle: TYPE_MULT applique un facteur superieur a 1 a
+     l unifamiliale sur un prix au pied carre etabli pour le condo, alors que
+     l unifamiliale se vend au pied carre moins cher que le condo dans ces
+     marches. L erreur se compose ensuite avec la superficie.
+     En attendant une recalibration sur des donnees reelles, l intervalle
+     affiche est elargi et l avertissement dit ce que le chiffre vaut. Ne pas
+     inventer de nouveaux coefficients: les tirer de ventes Centris reelles,
+     par secteur et par type, et consigner la source dans meta/. */
   var BASE = {
     'mtl-prestige':  700,
     'mtl-centre':    490,
@@ -515,8 +529,10 @@
 
     var baseValue = basePpSqft * area;
     var median    = baseValue * typeMult * roomsMult * ageMult * extrasMult;
-    var low       = Math.round(median * 0.92 / 1000) * 1000;
-    var high      = Math.round(median * 1.08 / 1000) * 1000;
+    /* Intervalle elargi de +/- 8 % a +/- 15 %: une fourchette etroite donne
+       une impression de precision que ces coefficients ne soutiennent pas. */
+    var low       = Math.round(median * 0.85 / 1000) * 1000;
+    var high      = Math.round(median * 1.15 / 1000) * 1000;
     median        = Math.round(median / 1000) * 1000;
 
     var sqft = sqftUnit();

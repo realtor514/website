@@ -90,7 +90,7 @@ The program is insured by Prince Edward Island Insurance Company and administere
 
 ## What it means for you
 
-A client once asked me why I insisted so much on a program that, in the best case, will never be used.
+It is fair to ask why anyone would insist so much on a program that, in the best case, will never be used.
 
 That is exactly the point. You do not obtain insurance hoping to use it. You obtain it so that the unlikely scenario does not become the catastrophic one.
 

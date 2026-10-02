@@ -84,6 +84,12 @@
    "supports": "La vente aux risques et périls de l'acheteur, la perte du recours pour vice caché, l'exception lorsque le vendeur a sciemment caché la vérité, et l'obligation que la mention figure dans la promesse d'achat et dans l'acte de vente."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "La section sur le prêteur ne repose sur aucune source gouvernementale : elle décrit un mécanisme (le créancier hypothécaire fixe les protections d'assurance qu'il juge suffisantes) sans nommer d'institution ni citer de politique de souscription. À faire valider par un courtier hypothécaire avant publication.",
   "Le détail des interdictions et des autorisations par classe d'intensité (nouvelle construction, bâtiment accessoire, agrandissement) n'a pas été repris dans l'article, faute d'avoir pu ouvrir le texte réglementaire lui-même sur LégisQuébec. À compléter ou à faire valider par un urbaniste avant publication.",

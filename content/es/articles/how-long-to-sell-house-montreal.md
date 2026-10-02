@@ -1,6 +1,7 @@
 ---
 title: "¿Cuánto tiempo toma realmente vender una casa en Montreal?"
 date: 2026-06-21
+lastmod: 2026-10-02
 translationKey: "article-combien-temps-vendre"
 category: "Guía del Vendedor"
 description: "El plazo de venta depende mucho menos del mercado que de tres decisiones que usted controla. Aquí está el calendario realista, desde la primera llamada hasta la firma ante el notario."
@@ -40,7 +41,7 @@ El mercado explica una parte del plazo. Sus decisiones explican el resto, y esa 
 
 Con diferencia, el factor número uno.
 
-Una propiedad obtiene su máxima visibilidad en sus primeros 7 a 14 días en Centris. Es el momento en que aparece en las alertas automáticas de todos los compradores cuyos criterios coinciden. Si el precio es demasiado alto, esos compradores miran, comparan y siguen de largo.
+Una propiedad atrae la mayor atención en sus primeros días en Centris, porque es el momento en que aparece en las alertas automáticas de todos los compradores cuyos criterios coinciden. Si el precio es demasiado alto, esos compradores miran, comparan y siguen de largo.
 
 Después de 30 días la pregunta cambia. Los compradores dejan de preguntarse si su propiedad les conviene y empiezan a preguntarse por qué nadie la quiso. Después de 60 días, el valor percibido bajó y las ofertas recibidas suelen ser inferiores a lo que habría obtenido la primera semana con un precio justo.
 

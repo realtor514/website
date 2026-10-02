@@ -108,7 +108,9 @@ Unlike Tranquilli-T, this warranty is not free. Since October 1, 2026, prices ha
 | The seller | From **$975** plus taxes |
 | The buyer | From **$675** plus taxes |
 
-Both cases exist. The seller can offer it to the buyer to make the property more attractive and cap their own liability. The buyer can also offer it to the seller and pay for it, including on a RE/MAX property listed without legal warranty, provided the seller agrees to add it to the promise to purchase.
+Both cases exist. The seller can offer it to the buyer to make the property more attractive and cap their own liability. The buyer can also pay for it, provided the seller agrees to add it to the promise to purchase.
+
+One exclusion to know before you start visiting: **a property sold without legal warranty is not eligible for Intégri-T**, and no amount paid by either side changes that. The reason is structural. GBQ stands surety for the seller's legal warranty obligations; a sale at the buyer's own risk removes precisely those obligations. Nothing is left to stand surety for. If a property you want is listed without legal warranty, the risk has to be handled another way: through the inspection and through the price. That is the subject of [sale without legal warranty](/en/articles/sale-without-legal-warranty-quebec/).
 
 These are starting prices: the exact amount depends on the file, and rates can change without notice. Ask me for the current schedule before you decide, and weigh that amount against what a single hidden defect claim would cost.
 
@@ -122,7 +124,7 @@ These are starting prices: the exact amount depends on the file, and rates can c
 
 **The timing.** The warranty must be put in place **before the notarial deed is signed**, and the clause must appear in the promise to purchase or the counter-proposal. Once the deed is signed, there is no catching up.
 
-A building left vacant, neglected or under repossession proceedings is not eligible.
+A building left vacant, neglected or under repossession proceedings is not eligible. Neither is a property sold without legal warranty.
 
 ## If a hidden defect is found
 

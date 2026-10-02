@@ -249,17 +249,24 @@
 
   {{- /* Une fiche vendue reste en ligne (REGLE 4): l offre doit le dire, sinon
        Google presente comme disponible une maison deja vendue. */ -}}
-  {{- $availability := "https://schema.org/InStock" -}}
-  {{- if in (slice "Vendu" "Sold" "Vendido" "مباع") .Params.status -}}
-    {{- $availability = "https://schema.org/SoldOut" -}}
-  {{- end -}}
+  {{- $isSold := in (slice "Vendu" "Sold" "Vendido" "مباع") .Params.status -}}
+  {{- $availability := cond $isSold "https://schema.org/SoldOut" "https://schema.org/InStock" -}}
   {{- $offer := dict
         "@type" "Offer"
         "availability" $availability
         "priceCurrency" "CAD"
         "seller" (dict "@id" $agentID)
   -}}
-  {{- with .Params.priceValue }}{{ $offer = merge $offer (dict "price" .) }}{{ end -}}
+  {{- /* Le prix ne sort que tant que la propriete est a vendre. La ligne
+       directrice de l OACIQ sur la publicite des transactions conclues
+       interdit d annoncer le prix auquel une propriete s est vendue, ou tout
+       chiffre qui permet de le deduire. Le seul prix annoncable est celui du
+       contrat de courtage, pendant que l inscription est active. Un prix
+       laisse dans le balisage d une fiche vendue est publie a Google comme
+       prix de l offre: c est exactement ce que la ligne directrice vise. */ -}}
+  {{- if not $isSold -}}
+    {{- with .Params.priceValue }}{{ $offer = merge $offer (dict "price" .) }}{{ end -}}
+  {{- end -}}
 
   {{- $listing := dict
         "@type" "RealEstateListing"

@@ -74,6 +74,12 @@
    "consulted": "2026-09-23",
    "supports": "La protection de base exclut généralement le refoulement d'égout; il faut l'avenant des dommages par l'eau du sol et des égouts; coût moyen d'une réclamation pour refoulement d'égout au Québec de plus de 18 000 $ en 2023."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Aucune source officielle ne publie de fourchette de coût pour la réparation d'un ventre de bœuf ni pour une inspection par caméra: l'article le dit explicitement et ne donne aucun chiffre.",
   "Les montants RénoPlex et le seuil de 3 860 $ le mètre carré changent sans préavis: revalider avant republication ou mise à jour du lastmod."

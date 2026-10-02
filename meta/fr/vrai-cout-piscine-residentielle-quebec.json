@@ -93,6 +93,12 @@
    "consulted": "2026-09-24",
    "supports": "La contribution au prix de vente peut être nulle ou négative pour des éléments procurant peu ou pas d'utilité; exemple donné d'une piscine excavée sur l'emplacement d'une résidence bas de gamme, situation de déséquilibre par rapport aux aspirations de ce marché."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le calcul de 5 004 kWh et d'environ 445 $ par saison est une multiplication faite à partir des hypothèses publiées par Hydro-Québec (1 390 W, 150 jours, 24 h/jour, 8,89 ¢/kWh). Hydro-Québec ne publie pas ce total tel quel.",
   "L'affirmation qu'aucune source officielle ne publie la durée de vie d'une toile de piscine repose sur une recherche infructueuse dans les sources gouvernementales québécoises, non sur une déclaration officielle."

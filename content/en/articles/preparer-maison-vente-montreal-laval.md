@@ -16,9 +16,9 @@ But preparation doesn't mean spending $50,000 on renovations. It means being str
 
 Before any preparation, we need to talk about price, because it affects everything else.
 
-A property priced correctly attracts buyers in the first 7 to 14 days on market. That initial window is when interest is highest. Buyers receive automatic alerts for new listings matching their criteria; your property gets maximum visibility precisely when you first appear on Centris.
+A property priced correctly attracts buyers in its first days on market, and that initial window is when interest is highest. The reason is mechanical: buyers receive automatic alerts for new listings matching their criteria, and your property triggers those alerts at the precise moment it first appears on Centris.
 
-If you price too high, you miss that window. After 30 days without an offer, buyers start wondering why nobody wants it. After 60 days, you've lost significant perceived value and often end up accepting a lower price than you would have received from the start.
+If you price too high, you miss that window. The longer a listing sits without an offer, the more buyers wonder why nobody wants it, and the lower the offers that eventually arrive. That is a reading of buyer behaviour, not a statistic: no public source fixes the number of days at which the shift happens.
 
 The right price is not the highest price you can imagine. It is the highest price the market will actually pay today, for your specific property, based on what comparable homes have sold for in the past 90 days.
 

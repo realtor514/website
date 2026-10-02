@@ -65,6 +65,12 @@
    "supports": "À partir du 1er octobre 2027, les inspecteurs en bâtiments d'habitation qui font des inspections préachat devront détenir un certificat de la RBQ. Fenêtre de qualification du 1er octobre 2024 au 2 août 2027, donc certificat non exigé en 2026."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le plancher de 5 % des contributions aux charges communes versées au fonds de prévoyance est présenté d'après Éducaloi. Il correspond à la règle transitoire de l'article 153 de la Loi de 2019, chapitre 28, applicable jusqu'à ce que les sommes soient fixées d'après la première étude. Le texte de la loi annuelle n'a pas pu être consulté en ligne sur Légis Québec pendant la rédaction: à faire valider par un juriste.",
   "L'échéance du 15 août 2028 est calculée à partir du délai de trois ans et un jour énoncé par le gouvernement du Québec et par l'OACIQ, le règlement étant en vigueur depuis le 14 août 2025. À confirmer par un juriste avant publication.",

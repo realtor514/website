@@ -72,6 +72,12 @@
    "supports": "En copropriété indivise, sans convention d'indivision ce sont les règles générales de la loi qui s'appliquent: la loi présume que les copropriétaires sont propriétaires en parts égales même si les mises de fonds et les contributions aux paiements hypothécaires sont inégales, et le profit de revente se partage de la même façon."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 3,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Aucune page officielle consultée de Laval ou de Montréal n'impose de retirer la deuxième cuisine ou de réintégrer le logement additionnel à la résidence principale quand le lien familial prend fin. L'article le dit explicitement comme une limite de la recherche. À faire confirmer par un urbaniste ou par le comptoir des permis concerné.",
   "L'exemple montréalais s'appuie sur le règlement d'urbanisme 01-280 de l'arrondissement du Sud-Ouest (codification août 2025). Les 19 arrondissements ont chacun leur règlement: l'article ne généralise pas, mais un réviseur devrait confirmer que la codification citée est toujours à jour.",

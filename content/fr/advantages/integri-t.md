@@ -108,7 +108,9 @@ Contrairement à Tranquilli-T, cette garantie n'est pas gratuite. Depuis le 1er 
 | Le vendeur | À partir de **975 $** plus taxes |
 | L'acheteur | À partir de **675 $** plus taxes |
 
-Les deux cas existent. Le vendeur peut l'offrir à son acheteur pour rendre sa propriété plus attrayante et plafonner sa propre responsabilité. L'acheteur peut aussi l'offrir au vendeur et la payer lui-même, y compris sur une propriété RE/MAX mise en vente sans garantie légale, à condition que le vendeur accepte de l'ajouter à la promesse d'achat.
+Les deux cas existent. Le vendeur peut l'offrir à son acheteur pour rendre sa propriété plus attrayante et plafonner sa propre responsabilité. L'acheteur peut aussi la payer lui-même, à condition que le vendeur accepte de l'ajouter à la promesse d'achat.
+
+Une exclusion à connaître avant de visiter: **une propriété vendue sans garantie légale n'est pas admissible à Intégri-T**, et aucune somme payée d'un côté ou de l'autre n'y change quoi que ce soit. La raison est structurelle. GBQ se porte caution des obligations de garantie légale du vendeur; une vente aux risques et périls de l'acheteur écarte précisément ces obligations. Il ne reste alors rien à cautionner. Si une propriété qui vous intéresse est affichée sans garantie légale, le risque se traite autrement: par l'inspection et par le prix. C'est le sujet de [vente sans garantie légale: ce que ça change](/articles/vente-sans-garantie-legale-quebec/).
 
 Ce sont des prix de départ : le montant exact dépend du dossier et les tarifs peuvent changer sans préavis. Demandez-moi la grille en vigueur avant de décider, et comparez ce montant à ce que coûterait une seule réclamation pour vice caché.
 
@@ -122,7 +124,7 @@ Ce sont des prix de départ : le montant exact dépend du dossier et les tarifs 
 
 **Le calendrier.** La garantie doit être mise en place **avant la signature de l'acte notarié**, et la clause doit apparaître dans la promesse d'achat ou la contre-proposition. Une fois l'acte signé, il n'y a pas de rattrapage possible.
 
-Un bâtiment laissé vacant, négligé ou faisant l'objet d'une reprise de finance n'est pas admissible.
+Un bâtiment laissé vacant, négligé ou faisant l'objet d'une reprise de finance n'est pas admissible. Une propriété vendue sans garantie légale ne l'est pas non plus.
 
 ## Si un vice caché est découvert
 

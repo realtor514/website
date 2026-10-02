@@ -37,7 +37,7 @@ images:
   - "images/listings/28-rue-st-hilaire-longueuil/23.jpg"
   - "images/listings/28-rue-st-hilaire-longueuil/24.jpg"
   - "images/listings/28-rue-st-hilaire-longueuil/25.jpg"
-description: "منزل من طابقين مباع في لونغوي القديمة. 499 000 دولار، أرض مسوّرة تقارب 4 000 قدم مربعة، مسبح، وشاحن للسيارات الكهربائية. Centris 26368231."
+description: "منزل من طابقين مباع في لونغوي القديمة. أرض مسوّرة تقارب 4 000 قدم مربعة، مسبح، وشاحن للسيارات الكهربائية. Centris 26368231."
 status: "مباع"
 price: "499 000 $"
 lot: "371 م² (نحو 4 000 قدم²)"

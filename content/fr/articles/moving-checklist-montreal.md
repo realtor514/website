@@ -9,7 +9,7 @@ image: "images/articles/moving-checklist-montreal/featured.jpg"
 
 Un déménagement au Québec n'est pas qu'une affaire de boîtes : c'est une suite
 d'avis, de délais légaux et de comptes à transférer, qui se planifient des mois
-d'avance. Voici la liste que je remets à mes clients, par échéance, avec les
+d'avance. Voici la liste à suivre, par échéance, avec les
 règles vérifiées auprès du Tribunal administratif du logement, de Québec,
 d'Hydro-Québec, de Montréal et de Laval.
 

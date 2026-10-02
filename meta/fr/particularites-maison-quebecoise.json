@@ -135,6 +135,12 @@
    "supports": "Les nouveaux tarifs entrent en vigueur le 1er avril de chaque annee, apres la decision de la Regie de l'energie rendue en mars; hausse de 3 % pour les clienteles residentielle et agricole au 1er avril 2026. Lu le 2026-09-25 par la capture web.archive.org du 2026-08-19."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Les normes de toiture reflechissante de Montreal varient par arrondissement: la page consultee affiche un indice de reflectance solaire minimal allant de 56 a 82 selon le territoire, et les frais de permis de 9,80 $ par tranche de 1 000 $ avec minimum residentiel de 167,40 $ peuvent differer. A revalider a la date de publication.",
   "Les dimensions de la cour anglaise, 1,5 m par 1,5 m, le garde-corps ajoure a 80 % et le drainage vers une fosse de retenue interieure proviennent d'une page propre a l'arrondissement de Villeray Saint-Michel Parc-Extension. L'article ne les presente pas comme une regle montrealaise generale, mais un lecteur pourrait le comprendre ainsi.",

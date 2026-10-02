@@ -2,7 +2,7 @@
 title: "Country Home with Barn, Saint-Hermas, Mirabel"
 date: 2026-08-17
 address: "4071, rang Saint-Hyacinthe, Mirabel (Saint-Hermas), QC"
-description: "1935 country home sold in Saint-Hermas, Mirabel. $449,000, 4 bedrooms, 2 kitchens, barn, 22,152 sq ft lot bordering farm fields. Centris 26269222."
+description: "1935 country home sold in Saint-Hermas, Mirabel. 4 bedrooms, 2 kitchens, barn, 22,152 sq ft lot bordering farm fields. Centris 26269222."
 status: "Sold"
 price: "$449,000"
 priceValue: 449000
@@ -52,8 +52,6 @@ images:
 ---
 
 Country home built in 1935, on a 22,152 sq ft lot in the farming heart of Saint-Hermas, Mirabel. Nine rooms over two floors, a wooden barn on the property, and open views over the fields with no facing neighbour.
-
-The asking price of $449,000 sits below the 2026 municipal assessment of $507,400.
 
 ## What has been done
 

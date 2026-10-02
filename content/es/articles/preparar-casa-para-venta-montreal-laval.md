@@ -20,16 +20,17 @@ verdad. Esto es lo que hay que saber antes de salir al mercado.
 Antes de cualquier preparación hay que hablar del precio, porque condiciona todo
 lo demás.
 
-Una propiedad bien posicionada atrae compradores en los primeros 7 a 14 días en
-el mercado. Esa ventana inicial es cuando el interés es más fuerte. Los
-compradores reciben alertas automáticas de las fichas nuevas que coinciden con
-sus criterios, así que su propiedad obtiene su visibilidad máxima justo cuando
-aparece por primera vez en Centris.
+Una propiedad bien posicionada atrae compradores desde sus primeros días en
+el mercado, y esa ventana inicial es cuando el interés es más fuerte. La razón
+es mecánica: los compradores reciben alertas automáticas de las fichas nuevas
+que coinciden con sus criterios, y su propiedad dispara esas alertas justo
+cuando aparece por primera vez en Centris.
 
-Si sale con un precio demasiado alto, pierde esa ventana. Tras 30 días sin
-ofertas, los compradores empiezan a preguntarse por qué nadie la quiere. Tras 60
-días, el valor percibido ha caído y suele terminar aceptando un precio inferior
-al que habría obtenido desde el principio.
+Si sale con un precio demasiado alto, pierde esa ventana. Cuanto más envejece la
+ficha sin ofertas, más se preguntan los compradores por qué nadie la quiere, y
+más bajas son las ofertas que acaban llegando. Es una lectura del comportamiento
+de compra, no una estadística: ninguna fuente pública fija el número de días en
+que se produce ese cambio.
 
 El precio correcto no es el más alto que usted pueda imaginar. Es el precio más
 alto que el mercado pagará realmente hoy, por su propiedad concreta, basado en

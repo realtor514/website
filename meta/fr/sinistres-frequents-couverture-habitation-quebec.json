@@ -91,6 +91,12 @@
    "consulted": "2026-09-25",
    "supports": "Article 3.03.02 du règlement L-5057: des clapets antiretour doivent être installés sur tous les branchements d'évacuation recevant les eaux usées ou d'infiltration provenant d'appareils situés en contrebas de la couronne de rue. En cas de défaut du propriétaire de les installer ou de les entretenir adéquatement, la Ville n'est pas responsable des dommages causés au bâtiment et à son contenu par suite d'inondation ou de refoulement d'égout."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "La ligne de plan demandait de traiter la franchise propre a chaque avenant qui s additionne. Aucune source primaire ouverte du BAC ou de l AMF n enonce qu une franchise distincte s applique par avenant ni que plusieurs franchises se cumulent lors d un meme sinistre. L affirmation a ete retiree. Le texte ne conserve que ce qui est source: la franchise habituelle de 300 $ a 1 000 $ et le montant de garantie distinct rattache a l avenant.",
   "La ligne de plan affirmait qu une reclamation suit l adresse autant que la personne. Aucune source officielle ouverte ne decrit un registre quebecois des reclamations tenu par adresse. Le texte dit explicitement que cette source n existe pas et s en tient a ce qui est verifiable: l article 2408 du Code civil, l exemple d Educaloi sur un sous-sol ayant deja subi un degat d eau, et le facteur sectoriel de l experience de sinistres decrit par le BAC."

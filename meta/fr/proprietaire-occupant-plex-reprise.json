@@ -71,6 +71,12 @@
    "supports": "Exigence d'occupation par l'emprunteur ou un proche, avoir propre de 5 % sur les premiers 500 000 $ et 10 % sur le reste pour 1 ou 2 logements, et 10 % pour 3 ou 4 logements"
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le calendrier illustré, avis au plus tard le 31 décembre pour une reprise au 30 juin, découle de l'article 1960 appliqué au cycle de bail du 1er juillet. À faire valider par un juriste pour une date de prise de possession donnée.",
   "L'affirmation qu'un acheteur ne peut transmettre l'avis de reprise avant l'acte de vente découle du texte de l'article 1957, qui exige que le locateur soit propriétaire. Aucune décision du Tribunal n'est citée à l'appui.",

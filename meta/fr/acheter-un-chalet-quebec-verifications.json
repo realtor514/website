@@ -93,6 +93,12 @@
    "supports": "Preuve que les dispositions applicables aux interventions sur les rives et à proximité des lacs et des cours d'eau sont modifiées au niveau régional, ce qui justifie de vérifier le règlement en vigueur à la date de l'achat plutôt que de se fier au seul cadre provincial."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Affirmation que je n'ai trouvé aucune norme provinciale imposant un essai de rendement pour un puits résidentiel existant : à faire confirmer par un hydrogéologue ou par le ministère de l'Environnement avant publication.",
   "La phrase sur la désignation québécoise de résidence principale a été retirée du texte faute d'accès direct aux pages de Revenu Québec, bloquées pendant la rédaction. Le paragraphe s'appuie uniquement sur le folio S1-F3-C2 de l'Agence du revenu du Canada : un comptable devrait valider l'effet au Québec et le formulaire TP-274 avant publication.",

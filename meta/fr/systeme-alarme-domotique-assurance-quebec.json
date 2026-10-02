@@ -113,6 +113,12 @@
    "supports": "Clause 4.6, mêmes intitulé et cases que la clause 11.7 de la promesse d'achat, ce qui montre que le système d'alarme loué se déclare dès la mise en vente."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Retiré faute de source primaire: l'idée, répandue dans le matériel de vente, qu'un vol sans effraction serait exclu d'une police d'assurance habitation résidentielle au Québec. Aucune source primaire consultée ne l'énonce, et le Bureau d'assurance du Canada place au contraire le vol et la tentative de vol parmi les risques couverts par la plupart des polices. L'article dit explicitement qu'aucune source ne le confirme plutôt que d'affirmer la règle.",
   "Retiré faute de source primaire: tout pourcentage de rabais d'assurance lié à un système d'alarme. Ni l'Autorité des marchés financiers, ni le Bureau d'assurance du Canada, ni Infoassurance ne chiffrent ce rabais. L'article le dit ainsi et renvoie le lecteur à son assureur.",

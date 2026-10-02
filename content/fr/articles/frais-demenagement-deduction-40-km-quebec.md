@@ -179,7 +179,7 @@ Canada peut exiger une lettre de votre employeur confirmant que vous n'avez pas
 été remboursé. La pièce est demandée après coup, et c'est là qu'un dossier se
 gagne ou se perd.
 
-Ce que je conserve pour mes clients qui déménagent pour le travail : les
+Les pièces à conserver quand on déménage pour le travail : les
 relevés du notaire à la vente et à l'achat, l'état de compte montrant la
 rétribution du courtier, le calcul de la pénalité du prêteur, le contrat du
 déménageur, les factures de logement temporaire avec les dates, et une capture

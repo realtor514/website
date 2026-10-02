@@ -93,6 +93,12 @@
    "supports": "L'isolation doit comprendre l'etancheisation a l'air; le pare-vapeur doit etre pose sur le tiers chaud du mur fini; tenir compte de l'emplacement et de l'etat des vieux pare-vapeur qui peuvent n'etre que des murs de platre recouverts de plusieurs couches de peinture; attaquez-vous aux problemes d'humidite ou de structure avant d'effectuer l'isolation."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le repere de 1940 pour une maison ancienne est celui que le Bureau d'assurance du Canada rattache a la Loi sur le patrimoine culturel. A faire confirmer par un juriste ou par le ministere de la Culture et des Communications avant publication.",
   "Le filage en bouton et tube et le panneau a fusibles sont nommes sans source officielle quebecoise decrivant leur risque ou la position des assureurs. L'article dit explicitement qu'aucune source officielle consultee ne permet d'affirmer un refus automatique. Un courtier en assurance de dommages devrait valider ce passage.",

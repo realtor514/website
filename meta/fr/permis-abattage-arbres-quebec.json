@@ -93,6 +93,12 @@
    "supports": "L'absence de responsabilité du propriétaire d'un arbre pour les dommages causés par une tempête de vent, et l'exception de la négligence illustrée par l'arbre pourri qu'on n'a pas coupé"
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le numéro du Règlement relatif à la lutte contre l'agrile du frêne de la Ville de Montréal n'a pas pu être lu: la page de règlement de montreal.ca est une coquille JavaScript sans texte. Le règlement est cité par son titre exact tel que publié sur la page de la démarche, sans numéro.",
   "Les délais de délivrance ne sont publiés que par quelques arrondissements (Outremont, Pierrefonds-Roxboro, Rosemont La Petite-Patrie, Le Plateau-Mont-Royal). Le tableau indique donc « non publié » ailleurs, y compris pour Laval, plutôt qu'un délai estimé.",

@@ -106,6 +106,12 @@
    "consulted": "2026-09-20",
    "supports": "Exemple d'une municipalité qui publie une démarche de permis propre à la génératrice, avec certificat requis sauf pour les bâtiments de 8 logements et moins: preuve que l'exigence municipale existe et varie."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le rattachement du scénario « pompe d'évacuation arrêtée par une panne, sous-sol inondé » à l'avenant Dommages d'eau, eau du sol et égouts est une lecture des définitions publiées par Infoassurance, non une confirmation écrite du BAC sur ce cas précis. L'article demande donc au lecteur de faire confirmer la cause et la couverture par écrit par son assureur.",
   "Aucune source officielle ne publie de montant maximal d'indemnité pour les aliments avariés ni de durée minimale d'interruption exigée par les polices: l'article le dit explicitement au lieu d'avancer un chiffre.",

@@ -1,0 +1,28 @@
+{
+ "slug": "combien-de-temps-vendre-maison-montreal",
+ "title": "Combien de temps pour vendre à Montréal",
+ "target_keyword": "combien de temps vendre maison montreal",
+ "category": "Guide du vendeur",
+ "sources_recorded": true,
+ "note": "Seul article des 158 qui n avait ni journal de sources ni lastmod: il n etait jamais passe par la revision de septembre 2026. Relu le 2026-10-02 dans le cadre de l audit de responsabilite professionnelle.",
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
+ "sources": [
+  {"url": "https://www.apciq.ca/",
+   "title": "Statistiques du marche immobilier, diffusion mensuelle",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-02",
+   "supports": "L article ne cite volontairement aucun delai de vente chiffre. Il renvoie le lecteur a la diffusion mensuelle de l APCIQ pour son secteur et sa categorie, en disant que c est la reference a consulter au moment de la question. C est le choix editorial qui le rend durable: aucun chiffre a perimer."}
+ ],
+ "claims_needing_review": [
+  "RESOLU le 2026-10-02. La fenetre de visibilite initiale sur Centris etait chiffree a 7 a 14 jours, sans source. Le mecanisme, lui, se verifie: une inscription declenche les alertes automatiques des acheteurs au moment ou elle parait. Le texte garde le mecanisme et abandonne le chiffre.",
+  "RESOLU le 2026-10-02. Les seuils de 30 et de 60 jours decrivaient une bascule du comportement d achat comme un fait mesure, et chiffraient une perte de valeur percue. Aucune source publique ne les etablit. Le texte dit maintenant la dynamique et annonce qu elle n est pas une statistique.",
+  "Le delai de 45 a 60 jours entre l offre acceptee et la signature, et la mention de 90 jours en cas de prolongation, decrivent la pratique courante et ne sont appuyes sur aucune source publiee. A faire valider par un notaire, ou a reformuler comme une fourchette observee.",
+  "La hierarchie des delais par categorie (unifamiliale plus rapide que la copropriete, elle-meme plus rapide que le plex, le prestige en dernier) est coherente avec les delais moyens publies par l APCIQ pour aout 2026, soit 42, 62 et 52 jours. L article ne la chiffre pas et renvoie a la diffusion du mois, ce qui est la formulation prudente.",
+  "Le delai d un arpenteur-geometre en haute saison, dit pouvoir depasser plusieurs semaines, n est appuye sur aucune source. A confirmer aupres de l Ordre des arpenteurs-geometres du Quebec ou a retirer le qualificatif de duree."
+ ]
+}

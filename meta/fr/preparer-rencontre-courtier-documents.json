@@ -85,6 +85,12 @@
    "consulted": "2026-09-24",
    "supports": "L'Espace client présente les données de consommation horaires, quotidiennes, mensuelles et annuelles et permet de comparer une période à la même période de l'année précédente."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Les frais et délais de copie des plans de bâtiment cités pour Montréal varient d'un arrondissement à l'autre et sont tirés de la page Demander le plan d'un bâtiment, mise à jour le 4 août 2025. À revalider avant toute republication."
  ]

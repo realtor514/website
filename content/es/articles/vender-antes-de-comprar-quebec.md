@@ -96,7 +96,7 @@ No hay una buena respuesta general. Hay cuatro variables, y se verifican en pape
 3. **El tipo de propiedad que vende.** Un producto que muchos compradores financian rápido no se comporta como una propiedad atípica, un plex o un condominio con el expediente incompleto. El [plazo de venta realista en Montreal](/es/articles/how-long-to-sell-house-montreal/) forma parte del cálculo, no de la esperanza.
 4. **Su tolerancia a lo provisorio.** Depósito, vivienda temporal, una segunda mudanza: costos y cansancio, a comparar con el costo de cargar dos propiedades.
 
-Cuando un cliente llega con esta pregunta, completamos esas cuatro líneas antes de hablar de estrategia. La tabla suele decidir sola.
+Esas cuatro líneas se completan antes de hablar de estrategia. La tabla suele decidir sola.
 
 ## Preguntas frecuentes
 

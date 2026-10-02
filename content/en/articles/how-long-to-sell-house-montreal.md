@@ -1,6 +1,7 @@
 ---
 title: "How Long Does It Actually Take to Sell a House in Montreal?"
 date: 2026-06-21
+lastmod: 2026-10-02
 translationKey: "article-combien-temps-vendre"
 category: "Seller's Guide"
 description: "Time on market depends far less on the market than on three decisions you control. Here is the realistic timeline, from the first call to signing at the notary."
@@ -40,7 +41,7 @@ The market explains part of your timeline. Your decisions explain the rest, and 
 
 By far the number one factor.
 
-A property gets maximum visibility in its first 7 to 14 days on Centris. That is when it appears in the automatic alerts of every buyer whose criteria match. If the price is too high, those buyers look, compare, and move on.
+A property draws the most attention in its first days on Centris, because that is when it appears in the automatic alerts of every buyer whose criteria match. If the price is too high, those buyers look, compare, and move on.
 
 After 30 days the question changes. Buyers stop asking whether your property suits them and start asking why nobody else wanted it. After 60 days, perceived value has dropped and the offers you receive are often below what you would have gotten in week one at a fair price.
 

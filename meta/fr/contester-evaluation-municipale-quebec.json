@@ -78,6 +78,12 @@
    "supports": "L'article 263.2 de la Loi sur la fiscalité municipale, le fait que la somme n'est exigible que si un règlement de l'organisme municipal la prévoit, et le plafond : le montant ne peut excéder celui qui devrait être versé avec une requête devant le Tribunal administratif du Québec."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Date de référence du 1er juillet 2023 pour le rôle lavallois 2025-2026-2027 : déduite de la règle des 18 mois publiée par la Ville de Montréal et de la Ville de Laval, combinée aux années du rôle confirmées sur le compte de taxes 2026 de Laval. Les pages laval.ca décrivant le dépôt du rôle n'ont pas pu être ouvertes directement. À confirmer sur laval.ca avant publication.",
   "Grille de frais de Montréal citée telle quelle au 23 septembre 2026 : les montants sont fixés par règlement municipal et suivent le plafond du TAQ, donc à revalider au prochain exercice financier."

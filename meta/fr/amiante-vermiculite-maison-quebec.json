@@ -79,6 +79,12 @@
    "supports": "Conditions du vice caché: non apparent et non décelable par un simple examen, inconnu de l'acheteur, existant au moment de l'achat; l'examen de l'acheteur doit être « sérieux, attentif et prudent »"
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le tableau des trois régimes selon le volume de débris friables (0,03 m3 et 0,3 m3) résume les articles 3.23.2, 3.23.15, 3.23.16 et 3.23.16.1 du CSTC. La classification exacte d'un chantier résidentiel donné relève de l'entrepreneur et de la CNESST, pas du courtier.",
   "L'affirmation que les obligations du RSST et du CSTC visent l'employeur et le maître d'oeuvre et non le propriétaire qui travaille seul chez lui découle du texte réglementaire. À faire valider par un conseiller juridique avant publication.",

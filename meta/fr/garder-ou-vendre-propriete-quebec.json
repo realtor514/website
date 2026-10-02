@@ -79,6 +79,12 @@
    "supports": "Entrée en vigueur du règlement le 14 août 2025, attestation du syndicat exigible lors d'une vente, échéance du 14 août 2028 pour le carnet d'entretien et l'étude du fonds de prévoyance, révision de l'étude tous les cinq ans par un professionnel habilité."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le tableau des versements hypothécaires est une illustration arithmétique calculée par le rédacteur (capitalisation semestrielle, amortissement résiduel indiqué, taux de 2,25 % et 4,25 % choisis comme points de comparaison). Ce ne sont pas des taux offerts ni une prévision; l'article le dit explicitement.",
   "La durée exacte d'inoccupation tolérée et les exclusions applicables varient d'une police à l'autre. L'article ne donne aucun chiffre contractuel et renvoie le lecteur à sa propre police et à son assureur."

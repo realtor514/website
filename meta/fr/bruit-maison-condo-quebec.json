@@ -99,6 +99,12 @@
    "supports": "Le trouble de voisinage doit être continu ou répétitif et sérieux, et s'apprécie selon le milieu. Démarche progressive : discussion, mise en demeure, puis recours judiciaire."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "La valeur chiffrée minimale de l'ITS et de l'ITSA exigée par le chapitre I, Bâtiment, n'a pas pu être confirmée dans une source primaire ouverte pendant la rédaction. L'article décrit donc le principe (deux options de conformité, parcours directs contre parcours directs et indirects, portée limitée aux sons aériens) et renvoie explicitement le lecteur à la RBQ ou à un acousticien plutôt que d'avancer un nombre.",
   "La codification du Règlement sur le bruit R.R.V.M. c. B-3 consultée est celle de l'arrondissement du Plateau-Mont-Royal. L'article le dit explicitement, car les arrondissements montréalais appliquent des versions différentes.",

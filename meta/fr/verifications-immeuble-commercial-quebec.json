@@ -76,6 +76,12 @@
    "consulted": "2026-09-24",
    "supports": "Exception à la perception par le fournisseur lorsque l'acquéreur est inscrit aux fins de la TPS/TVH, à l'exclusion d'un particulier qui achète un immeuble d'habitation ; l'inscrit qui acquiert l'immeuble principalement pour utilisation commerciale déclare la taxe dans sa déclaration habituelle ; les autres personnes utilisent le formulaire GST60 et doivent le produire au plus tard le dernier jour du mois civil suivant celui où la taxe est devenue payable."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Application de l'article 1892, troisième alinéa, paragraphe 2, du Code civil à un logement situé dans un immeuble mixte : la qualification dépend de la superficie réellement affectée à un usage autre que l'habitation et doit être validée par un avocat ou un notaire dans chaque dossier.",
   "Lecture du tableau des coefficients de couverture de la dette de la SCHL : les seuils cités valent pour le produit Logements locatifs ordinaires et peuvent être assouplis ou resserrés par le prêteur agréé et par les programmes d'abordabilité.",

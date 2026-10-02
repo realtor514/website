@@ -79,6 +79,12 @@
       "supports": "Définition des rénovations majeures (totalité ou presque du bâtiment existant enlevée ou remplacée, exception faite des fondations, murs extérieurs, murs intérieurs de soutien, planchers, toit et escaliers), interprétation de la totalité ou presque comme 90 % ou plus, et prise en compte de la seule surface habitable."
     }
   ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
   "claims_needing_review": [
     "L'article 2728 limite l'hypothèque légale de la construction à la plus-value donnée à l'immeuble par les travaux. Aucune source primaire ouverte ne dit comment cette plus-value se quantifie en pratique ni ce qu'un prêteur ou un notaire exige comme garantie quand un avis est inscrit en cours de chantier: l'article renvoie au notaire et à l'avocat sans chiffrer.",
     "Le fait que le cautionnement de licence exclut les créances des sous traitants impayés et que l'hypothèque légale prend rang avant l'hypothèque du prêteur est tiré de deux sources séparées, la RBQ et le Code civil. La conclusion que les deux protections laissent un trou est une lecture combinée, à valider par un juriste avant publication."

@@ -178,7 +178,7 @@ puede exigir una carta de su empleador que confirme que usted no fue
 reembolsado. El documento se pide después, y ahí es donde un expediente se gana
 o se pierde.
 
-Lo que yo conservo para mis clientes que se mudan por trabajo: los estados del
+Los documentos que conviene conservar cuando uno se muda por trabajo: los estados del
 notario en la venta y en la compra, el estado de cuenta que muestra la
 retribución del corredor, el cálculo de la penalidad del prestamista, el
 contrato de la empresa de mudanzas, las facturas de alojamiento temporal con sus

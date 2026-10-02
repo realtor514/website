@@ -113,6 +113,12 @@
    "supports": "Aout 2026 dans la RMR de Montreal: 2 853 ventes residentielles (baisse de 13 % sur un an), 20 128 inscriptions en vigueur (hausse de 18 %), delai de vente moyen de 42 jours pour l'unifamiliale et de 62 jours pour la copropriete."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Aucune norme de mesurage residentielle imposee au Quebec pour une maison unifamiliale n'a pu etre confirmee dans une source primaire. L'article enonce le principe (la methode doit etre declaree par qui a mesure) et s'appuie sur les regles verifiables: norme reconnue exigee en location commerciale, superficie nette exigee en copropriete divise, et definition de l'aire des etages au role d'evaluation. Aucune norme n'est nommee ni inventee pour l'unifamiliale.",
   "L'exclusion du sous-sol de l'aire des etages est deduite de la definition ministerielle, qui enumere limitativement les etages entiers, l'attique, le garage integre et la verriere integree. Le texte dit que le sous-sol n'apparait pas dans cette liste, sans affirmer qu'un evaluateur ignore le sous-sol.",

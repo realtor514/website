@@ -113,6 +113,12 @@
    "supports": "Service gratuit offert aux ménages à revenu modeste, propriétaires comme locataires, du 1er octobre au 31 mars, inscriptions terminées pour la saison 2026-2027, nombre maximal de visites atteint."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "L'écart de près de 58 % entre la deuxième et la première tranche du tarif D est un calcul fait à partir des prix publiés par Hydro-Québec (11,142 ¢ contre 7,065 ¢), et non un chiffre publié tel quel.",
   "L'ordre de rentabilité des travaux présenté dans le tableau reflète la hiérarchie des pertes de chaleur publiée par Hydro-Québec, pas une étude de rendement financier par poste."

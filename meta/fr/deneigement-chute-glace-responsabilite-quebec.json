@@ -96,6 +96,12 @@
    "consulted": "2026-09-25",
    "supports": "Signes de surcharge d'une toiture: fissures sur les murs intérieurs, portes intérieures qui se coincent ou frottent, craquements inhabituels, plafonds qui se déforment. Recommandation de déneiger peu importe la quantité de neige si ces signes apparaissent, de retirer la glace et les glaçons visibles sur le rebord parce qu'ils sont un danger pour les piétons et les voitures, de confier le déneigement d'un toit à une entreprise spécialisée pour ne pas endommager la membrane d'étanchéité, et de dégager sorties de secours, balcons, remises et garages."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "La qualification juridique d'un bloc de glace qui se détache d'une corniche: ruine partielle de l'immeuble au sens de l'article 1467 ou fait autonome d'un bien sous garde au sens de l'article 1465. Aucune source primaire accessible pendant la rédaction ne tranche, et l'article le dit au lecteur. CanLII et ccq.lexum.com répondent 403, LégisQuébec répond 502, et aucune capsule d'Éducaloi consultée ne traite de la ruine d'immeuble. À faire valider par un avocat avant publication.",
   "Le montant de l'amende à Montréal est celui publié par l'arrondissement de Saint-Léonard, soit 100 $ à 4 000 $. La page centrale de la Ville n'annonce aucun montant et les règlements sont d'arrondissement: le tableau de l'article attribue donc explicitement le montant à Saint-Léonard plutôt qu'à Montréal en général."

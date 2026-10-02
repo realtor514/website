@@ -120,6 +120,12 @@
    "supports": "Pour les appareils à combustible solide, la RBQ renvoie à la norme CAN/CSA-B365, Code d'installation des appareils à combustibles solides et du matériel connexe."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "La fréquence d'inspection ou de ramonage exigée par le Code national de prévention des incendies 2010, rendu applicable à Montréal par le règlement 12-005, n'a pas pu être lue à la source: le texte du Code n'est pas diffusé librement. Aucune fréquence chiffrée n'est présentée comme une obligation dans l'article; seule la règle publiée par le Service de sécurité incendie de Montréal, deux cordes de bois ou 3 mm de créosote, est citée.",
   "L'article n'affirme pas qu'aucune municipalité autre que Montréal et Laval ne réglemente le chauffage au bois. Le portrait de la Communauté métropolitaine de Montréal sur la réglementation municipale encadrant la combustion a renvoyé un code 403 à toutes les tentatives, et aucune autre ville du territoire n'a été vérifiée.",

@@ -66,6 +66,12 @@
    "consulted": "2026-09-25",
    "supports": "Recommandation d'aviser l'assureur avant le début des travaux pour qu'il ajuste les protections pendant la durée du projet; nécessité d'un montant d'assurance reflétant la valeur réelle de la maison et de son contenu; avenant possible pour couvrir les matériaux, à condition qu'aucun entrepreneur ne dirige le chantier."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "La fiche Info-permis sur les abris permanents de l'arrondissement de Rivière-des-Prairies et Pointe-aux-Trembles porte la mention « Révisé le 2015-12-18 ». Elle reste diffusée sur le portail actuel de la Ville de Montréal, mais les normes du règlement de zonage RCA09-Z01 qu'elle résume (1,5 mètre d'une limite de terrain, 12 mètres carrés, 80 % de fenestration, hauteurs de 3 et 5 mètres, amendes) devraient être revalidées au comptoir des permis de l'arrondissement avant publication.",
   "Le minimum de 167,40 $ pour un immeuble résidentiel n'apparaît pas dans le bloc de tarification commun de montreal.ca, mais dans les blocs propres à certains arrondissements de la même page. L'article le présente comme un minimum affiché par plusieurs arrondissements, pas comme un tarif unique de la Ville.",

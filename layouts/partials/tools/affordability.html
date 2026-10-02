@@ -176,6 +176,12 @@
       </div>
     </div>
 
+    {{/* Dit au lecteur laquelle des deux contraintes fixe son plafond, le
+         revenu ou la mise de fonds. Un maximum limite par la mise de fonds
+         n appelle pas la meme suite qu un maximum limite par le revenu. */}}
+    <p id="af-down-note" hidden
+       style="margin:14px 0 0;padding:12px 14px;border-left:3px solid var(--red);background:#faf9f6;font-size:.88rem;line-height:1.6;color:#4b5563;border-radius:0 6px 6px 0"></p>
+
     <h3 class="mc-results__title">
       {{ if $isFr }}Indicateurs de qualification{{ else if $isAr }}مؤشرات التأهيل{{ else if $isEs }}Métricas de calificación{{ else }}Qualification Metrics{{ end }}
     </h3>
@@ -254,13 +260,13 @@
 
     <p class="mc-results__disclaimer">
       {{ if $isFr }}
-        * Calcul basé sur les règles SCHL 2024. Le test de résistance = max(taux contractuel + 2 %, 5,25 %). ABD ≤ 39 % et ATD ≤ 44 % du revenu brut. Chauffage estimé à 150 $/mois. Taxes foncières estimées à environ 1 % de la valeur de la propriété par année, puisque le prix d'achat exact n'est pas encore connu. Consultez un courtier hypothécaire pour une pré-approbation officielle.
+        * Calcul basé sur les règles de la SCHL en vigueur. Le test de résistance = max(taux contractuel + 2 %, 5,25 %). ABD ≤ 39 % et ATD ≤ 44 % du revenu brut. Mise de fonds minimale de 5 % jusqu'à 500 000 $, 10 % sur la portion au-delà, 20 % dès 1 500 000 $. Chauffage estimé à 150 $/mois. Taxes foncières estimées à environ 1 % de la valeur de la propriété par année, puisque le prix d'achat exact n'est pas encore connu. Consultez un courtier hypothécaire pour une pré-approbation officielle.
       {{ else if $isAr }}
-        * الحساب مبني على قواعد CMHC 2024. اختبار الإجهاد = max(المعدل التعاقدي + 2%، 5.25%). GDS ≤ 39% وTDS ≤ 44% من الدخل الإجمالي. التدفئة مقدرة بـ 150$/شهر. الضرائب العقارية مقدرة بنحو 1% من قيمة العقار سنوياً، لأن سعر الشراء الدقيق غير معروف بعد. استشر وسيطاً للرهن العقاري للحصول على موافقة مبدئية رسمية.
+        * الحساب مبني على قواعد SCHL المعمول بها. اختبار الإجهاد = max(المعدل التعاقدي + 2%، 5.25%). GDS ≤ 39% وTDS ≤ 44% من الدخل الإجمالي. الدفعة الأولى الدنيا 5% حتى 500 000 دولار، و10% على الجزء الذي يتجاوزها، و20% اعتباراً من 1 500 000 دولار. التدفئة مقدرة بـ 150$/شهر. الضرائب العقارية مقدرة بنحو 1% من قيمة العقار سنوياً، لأن سعر الشراء الدقيق غير معروف بعد. استشر وسيطاً للرهن العقاري للحصول على موافقة مبدئية رسمية.
       {{ else if $isEs }}
-        * Cálculo basado en las reglas CMHC 2024. Tasa de prueba de estrés = max(tasa contractual + 2%, 5.25%). GDS &le; 39% y TDS &le; 44% del ingreso bruto. Calefacción estimada en $150/mes. Impuesto predial estimado en aproximadamente 1% del valor de la propiedad por año, ya que el precio de compra exacto aún no se conoce. Consulte a un corredor hipotecario para una aprobación previa oficial.
+        * Cálculo basado en las reglas vigentes de la CMHC. Tasa de prueba de estrés = max(tasa contractual + 2%, 5.25%). GDS &le; 39% y TDS &le; 44% del ingreso bruto. Pago inicial mínimo del 5% hasta 500 000 $, 10% sobre la porción superior, 20% a partir de 1 500 000 $. Calefacción estimada en $150/mes. Impuesto predial estimado en aproximadamente 1% del valor de la propiedad por año, ya que el precio de compra exacto aún no se conoce. Consulte a un corredor hipotecario para una aprobación previa oficial.
       {{ else }}
-        * Calculation based on 2024 CMHC rules. Stress test rate = max(contract rate + 2%, 5.25%). GDS &le; 39% and TDS &le; 44% of gross income. Heating estimated at $150/month. Property tax estimated at roughly 1% of the property's value per year, since the exact purchase price is not yet known. Consult a mortgage broker for an official pre-approval.
+        * Calculation based on the CMHC rules in force. Stress test rate = max(contract rate + 2%, 5.25%). GDS &le; 39% and TDS &le; 44% of gross income. Minimum down payment of 5% up to $500,000, 10% on the portion above, 20% from $1,500,000. Heating estimated at $150/month. Property tax estimated at roughly 1% of the property's value per year, since the exact purchase price is not yet known. Consult a mortgage broker for an official pre-approval.
       {{ end }}
     </p>
   </div>
@@ -300,7 +306,32 @@
       };
     }
 
-    var lo = downPayment + 5000, hi = 5000000;
+    /* Prix le plus eleve que la mise de fonds elle-meme autorise, en inversant
+       la regle des paliers. Sans ce plafond, la recherche binaire montait
+       jusqu a 5 000 000 $ sur les seuls ratios ABD et ATD et annoncait un prix
+       dont la mise de fonds etait sous le minimum legal, avec en prime une
+       prime d assurance de zero puisque calcCMHC ne couvre pas ce cas. Le
+       resultat etait trop optimiste, c est-a-dire faux du mauvais cote. */
+    function maxPriceForDown(down) {
+      if (down <= 0) return 0;
+      if (down >= 300000) return down * 5;                               /* 20 % a 1 500 000 $ et plus */
+      if (down <  25000)  return down * 20;                              /* 5 % jusqu a 500 000 $ */
+      return Math.min(500000 + (down - 25000) * 10, 1499999);            /* 10 % sur la tranche au-dela */
+    }
+
+    var downCap = maxPriceForDown(downPayment);
+    var lo = downPayment + 5000, hi = Math.min(5000000, downCap);
+
+    /* La mise de fonds ne suffit meme pas pour le plancher de la recherche. */
+    if (hi <= lo) {
+      return {
+        price: 0, gds: 0, tds: 0, payment: 0, pith: 0, tax: 0,
+        stressRate: stressRate,
+        downShortfall: true,
+        downCap: downCap
+      };
+    }
+
     for (var i = 0; i < 60; i++) {
       var mid    = (lo + hi) / 2;
       var ratios = computeRatios(mid);
@@ -315,7 +346,12 @@
       payment:    finalRatios.payment,
       pith:       finalRatios.pith,
       tax:        finalRatios.tax,
-      stressRate: stressRate
+      stressRate: stressRate,
+      downShortfall: false,
+      /* Vrai quand c est la mise de fonds, et non le revenu, qui fixe le
+         plafond: le lecteur doit savoir laquelle des deux contraintes mord. */
+      downIsBinding: maxPrice >= Math.floor(downCap / 1000) * 1000 - 1000,
+      minDownAtMax:  u.minDownPayment(maxPrice)
     };
   }
 
@@ -335,6 +371,38 @@
     var condo  = u.parseMoney(document.getElementById('af-condo').value);
 
     var result = findMaxAffordable(income, debts, down, rate, amort, condo);
+
+    /* Message sur la mise de fonds, dans la langue de la page. */
+    var note = document.getElementById('af-down-note');
+    var T = {
+      fr: {
+        short: 'Avec une mise de fonds de {D}, aucun prix d’achat ne respecte le minimum legal. Au Quebec, il faut au moins 5 % sur la tranche jusqu’a 500 000 $, 10 % sur la portion au-dela, et 20 % des 1 500 000 $. Pour un prix de 500 000 $, le minimum est de 25 000 $.',
+        bound: 'Ce plafond vient de votre mise de fonds, pas de votre revenu. A {P}, le minimum legal exige {M}. Avec une mise de fonds plus elevee, votre revenu permettrait d’aller plus haut.'
+      },
+      en: {
+        short: 'With a down payment of {D}, no purchase price meets the legal minimum. In Quebec you need at least 5 % on the portion up to $500,000, 10 % on the portion above, and 20 % from $1,500,000. At a price of $500,000, the minimum is $25,000.',
+        bound: 'This ceiling comes from your down payment, not your income. At {P}, the legal minimum is {M}. With a larger down payment, your income would support a higher price.'
+      },
+      es: {
+        short: 'Con un pago inicial de {D}, ningun precio de compra cumple el minimo legal. En Quebec se exige al menos 5 % sobre el tramo hasta 500 000 $, 10 % sobre la porcion superior y 20 % a partir de 1 500 000 $. Para un precio de 500 000 $, el minimo es de 25 000 $.',
+        bound: 'Este tope viene de su pago inicial, no de su ingreso. A {P}, el minimo legal exige {M}. Con un pago inicial mayor, su ingreso permitiria llegar mas alto.'
+      },
+      ar: {
+        short: 'بدفعة أولى قدرها {D}، لا يوجد سعر شراء يستوفي الحد الأدنى القانوني. في كيبيك يلزم 5 % على الشريحة حتى 500 000 دولار، و10 % على الجزء الذي يتجاوزها، و20 % اعتباراً من 1 500 000 دولار. وعند سعر 500 000 دولار يكون الحد الأدنى 25 000 دولار.',
+        bound: 'هذا السقف ناتج عن دفعتك الأولى لا عن دخلك. فعند {P} يفرض الحد الأدنى القانوني {M}. وبدفعة أولى أعلى، كان دخلك يسمح بسعر أعلى.'
+      }
+    };
+    var t = T[lang] || T.en;
+
+    if (result.downShortfall) {
+      note.textContent = t.short.replace('{D}', u.fmt(down));
+      note.hidden = false;
+    } else if (result.downIsBinding) {
+      note.textContent = t.bound.replace('{P}', u.fmt(result.price)).replace('{M}', u.fmt(result.minDownAtMax));
+      note.hidden = false;
+    } else {
+      note.hidden = true;
+    }
 
     function set(id, val) { document.getElementById(id).textContent = val; }
     set('af-max-price',     u.fmt(result.price));

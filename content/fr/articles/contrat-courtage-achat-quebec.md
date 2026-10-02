@@ -195,8 +195,8 @@ de la date de signature.
 
 **Mon courtier a en inscription la propriété qui me convient. On fait quoi?**
 Sauf exception prévue au règlement, il doit résilier votre contrat, vous
-recommander un autre courtier, et il ne peut rien vous réclamer. J'ai vu des
-acheteurs vivre ce moment comme un abandon: c'est l'inverse, c'est la règle qui
+recommander un autre courtier, et il ne peut rien vous réclamer. Beaucoup
+d'acheteurs vivent ce moment comme un abandon: c'est l'inverse, c'est la règle qui
 vous évite d'être conseillé par celui qui défend l'autre côté.
 
 Pour compléter, lisez [ce que vous payez vraiment en commission au

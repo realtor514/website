@@ -1,6 +1,7 @@
 ---
 title: "Combien de temps pour vendre à Montréal"
 date: 2026-06-21
+lastmod: 2026-10-02
 translationKey: "article-combien-temps-vendre"
 category: "Guide du vendeur"
 description: "Le délai de vente dépend beaucoup moins du marché que de trois décisions que vous contrôlez. Voici le calendrier réaliste, du premier appel jusqu'à la signature chez le notaire."
@@ -40,9 +41,9 @@ Le marché explique une partie du délai. Vos décisions expliquent le reste, et
 
 C'est de loin le facteur numéro un.
 
-Une propriété obtient sa visibilité maximale dans ses 7 à 14 premiers jours sur Centris. C'est le moment où elle apparaît dans les alertes automatiques de tous les acheteurs dont les critères correspondent. Si le prix est trop élevé, ces acheteurs regardent, comparent, et passent.
+Une propriété attire le plus d'attention dans ses premiers jours sur Centris, parce que c'est le moment où elle apparaît dans les alertes automatiques de tous les acheteurs dont les critères correspondent. Si le prix est trop élevé, ces acheteurs regardent, comparent, et passent.
 
-Après 30 jours, la question change. Les acheteurs ne se demandent plus si votre propriété leur convient, ils se demandent pourquoi personne n'en a voulu. Après 60 jours, la valeur perçue a baissé et les offres reçues sont souvent inférieures à ce que vous auriez obtenu dès la première semaine avec un prix juste.
+Plus l'inscription reste affichée, plus la question de l'acheteur change: il ne se demande plus si la propriété lui convient, il se demande pourquoi personne n'en a voulu. C'est une lecture du comportement d'achat, pas une statistique: aucune source publique ne chiffre le seuil où la bascule se produit, ni l'écart de prix qui en découle.
 
 Baisser le prix trois fois de suite prend plus de temps et rapporte moins que de bien le fixer une fois.
 

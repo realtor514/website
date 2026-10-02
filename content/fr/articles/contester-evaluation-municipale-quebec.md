@@ -186,7 +186,7 @@ que les 90 $ de frais exigés à Montréal. La même réduction obtenue dès la
 première année d'un rôle triennal rapporte environ 177 $. Ajoutez la taxe
 scolaire, calculée elle aussi sur l'évaluation, et l'écart se creuse un peu.
 
-Quand un client me demande si ça vaut la peine, je commence par deux chiffres :
+Pour savoir si ça vaut la peine, commencez par deux chiffres :
 combien d'années restent au rôle, et quel écart les ventes comparables à la date
 de référence permettent réellement de démontrer. Sans ces deux nombres, le reste
 est une intuition.

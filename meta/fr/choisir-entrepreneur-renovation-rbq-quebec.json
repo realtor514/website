@@ -92,6 +92,12 @@
    "supports": "Question D14.4 du formulaire: des travaux importants ont-ils été effectués sur l'immeuble (ex.: modification de la division des pièces, changement du recouvrement du plancher)? Si oui, les décrire à la section D15, indiquer si des plans et devis ont été préparés, et répondre à la sous-question b) sur l'émission des permis requis pour chacun de ces travaux."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "La portée exacte de l'attestation de conformité de la CNESST pour un particulier propriétaire occupant qui n'est pas employeur. La page de la CNESST parle de l'employeur donneur d'ouvrage; l'article le dit explicitement et ne va pas plus loin. À faire valider par un conseiller juridique.",
   "Le risque de devenir maître d'oeuvre pour un propriétaire qui coordonne lui-même plusieurs entrepreneurs spécialisés sur une rénovation résidentielle: la publication de la CNESST vise les chantiers de construction au sens de la loi, et la qualification dépend des faits de chaque chantier.",

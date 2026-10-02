@@ -9,7 +9,7 @@ image: "images/articles/moving-checklist-montreal/featured.jpg"
 
 Una mudanza en Quebec no es solo cuestión de cajas: es una serie de avisos,
 plazos legales y cuentas que transferir, casi todo planificado con meses de
-antelación. Esta es la lista que entrego a mis clientes, por plazo, con
+antelación. Esta es la lista a seguir, por plazo, con
 las reglas verificadas ante el Tribunal administratif du logement, el gobierno
 de Quebec, Hydro-Québec, Montreal y Laval.
 

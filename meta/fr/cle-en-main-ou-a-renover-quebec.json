@@ -59,6 +59,12 @@
    "supports": "La RBQ élabore le chapitre Bâtiment du Code de construction, mais la réglementation applicable aux bâtiments résidentiels relève des municipalités, chacune pouvant adopter l'édition du chapitre Bâtiment qu'elle juge nécessaire, d'où le renvoi à la municipalité pour connaître le code exact applicable; recommandation de toujours vérifier la validité de la licence dans le Registre des détenteurs de licence; avis affiché le 24 septembre 2026 indiquant que les demandes régulières de licence traitées étaient celles reçues le 24 août 2026."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Qui détient précisément les fonds destinés aux travaux entre la signature et la validation de l'avance (prêteur ou notaire en fidéicommis): la documentation publique de la SCHL décrit un système d'avances validées mais ne nomme pas le dépositaire. L'article le dit explicitement et renvoie à l'engagement du prêteur. À faire valider par un courtier hypothécaire ou un notaire.",
   "Le seuil de 10 % illustré sur une valeur après travaux de 600 000 $ est une arithmétique appliquée à la règle de la SCHL, pas un coût de rénovation publié.",

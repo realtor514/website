@@ -121,6 +121,12 @@
    "supports": "La Subvention canadienne pour des maisons plus vertes est fermée, page portant la mention de statut « This program is closed » et une date de modification du 31 août 2026. Appuie l'affirmation de la section Questions fréquentes selon laquelle les principales aides fédérales de rénovation n'acceptent plus de demandes."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Statut des programmes à revalider le jour de la publication: Novoclimat (volet Maison), SCHL Éco Plus et SCHL Éco Amélioration étaient tous ouverts au 24 septembre 2026. Les montants et les délais doivent être reconfirmés sur les pages sources avant la mise en ligne.",
   "Rénoclimat et LogisVert sont dits ouverts en 2026 sur la foi de l'article publié « Réduire sa facture de chauffage au Québec », qui les documente avec ses propres sources primaires. À reconfirmer si les deux programmes changent.",

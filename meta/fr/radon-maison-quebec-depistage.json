@@ -67,6 +67,12 @@
    "consulted": "2026-09-24",
    "supports": "Existence du Programme national de compétence sur le radon au Canada et de son répertoire de professionnels certifiés en mesure et en atténuation, cités comme option de rechange au dosimètre acheté par le propriétaire."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Les pourcentages par région sociosanitaire proviennent de l'Enquête pancanadienne de Santé Canada dont le rapport final date de 2012, sur de petits échantillons volontaires (62 à 174 habitations par région). L'article le dit, mais un réviseur devrait confirmer qu'aucune mise à jour régionale québécoise plus récente n'a été publiée. La page de Santé Canada signale une enquête pancanadienne de 2024 donnant 17,8 pour cent des habitations au Canada à 200 Bq/m³ ou plus, sans découpage québécois consulté ici.",
   "Le coût de l'atténuation n'est volontairement pas chiffré : Santé Canada ne publie qu'une comparaison qualitative. À valider si le client veut une fourchette, laquelle devrait alors venir de soumissions réelles d'entrepreneurs certifiés PNCR-C, pas d'une source publique.",

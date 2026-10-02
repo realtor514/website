@@ -56,6 +56,12 @@
    "consulted": "2026-09-24",
    "supports": "En août 2026 dans la RMR de Montréal: 2 853 ventes résidentielles, en baisse de 13 % sur un an; 20 128 inscriptions actives, en hausse de 18 %; délais de vente médians de 42 jours pour l'unifamiliale, 62 jours pour la copropriété (12 de plus qu'un an plus tôt) et 52 jours pour le plex."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "L'article ne chiffre pas la fatigue liée à l'entretien ni le coût d'adaptation d'une maison pour des besoins de mobilité: ces deux limites sont annoncées explicitement dans le texte, aucune source publique ne permettant de les quantifier.",
   "Le seuil de durée de trajet à partir duquel un déménagement devient justifié n'est appuyé par aucune source: l'article le dit explicitement.",

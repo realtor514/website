@@ -64,6 +64,12 @@
    "supports": "Conditions du membre régulier de l'AIBQ: attestation d'études collégiales en inspection de bâtiment, assurance responsabilité et erreurs et omissions souscrite par l'entremise du courtier de l'association, minimum de dix heures de formation reconnue par année. Sert à distinguer l'adhésion associative d'un encadrement public."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Affirmation selon laquelle l'inspecteur en bâtiment n'a aujourd'hui ni ordre professionnel ni titre réservé au Québec: appuyée sur l'absence de tout ordre à l'Office des professions et sur le caractère encore volontaire du certificat RBQ jusqu'au 30 septembre 2027, mais non confirmée par une page officielle citée directement.",
   "Portée exacte de l'interdiction des clauses de limitation de responsabilité pour un inspecteur NON certifié par la RBQ: le texte s'appuie sur Éducaloi (contrat de service de l'inspecteur certifié) et sur la règle consommateur contre commerçant. Validation juridique recommandée avant publication.",

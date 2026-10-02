@@ -40,6 +40,18 @@
         if (downPct >=  5) return 0.0400;
         return 0;
       }
+      /* Meme mise de fonds minimale legale que dans layouts/tools/single.html:
+         5 % jusqu a 500 000 $, 10 % au-dela, 20 % des 1 500 000 $. Les deux
+         copies doivent rester identiques. */
+      function minDownPayment(price) {
+        if (price <= 0) return 0;
+        if (price >= 1500000) return price * 0.20;
+        if (price <= 500000)  return price * 0.05;
+        return 25000 + (price - 500000) * 0.10;
+      }
+      function meetsMinDown(price, downPayment) {
+        return downPayment >= minDownPayment(price) - 0.01;
+      }
       function calcCMHC(propertyPrice, loanAmt, downPct) {
         if (propertyPrice >= 1500000 || downPct >= 20 || downPct < 5) return 0;
         return Math.round(loanAmt * cmhcRate(downPct));
@@ -48,7 +60,7 @@
         var semi = annualPct / 100 / 2;
         return Math.pow(1 + semi, 2 / ppy) - 1;
       }
-      return { parseMoney: parseMoney, fmt: fmt, formatMoney: formatMoney, cmhcRate: cmhcRate, calcCMHC: calcCMHC, effectiveRate: effectiveRate };
+      return { parseMoney: parseMoney, fmt: fmt, formatMoney: formatMoney, cmhcRate: cmhcRate, calcCMHC: calcCMHC, effectiveRate: effectiveRate, minDownPayment: minDownPayment, meetsMinDown: meetsMinDown };
     })();
     </script>
 

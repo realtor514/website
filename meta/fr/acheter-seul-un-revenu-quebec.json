@@ -87,6 +87,12 @@
    "consulted": "2026-09-24",
    "supports": "Un proche peut mettre sa propre propriété en garantie, et en cas de défaut de paiement, l'institution financière peut lui demander de payer ou saisir cette propriété."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le taux admissible minimal cité par le BSIF vise explicitement les prêts non assurés. L'article dit seulement que la logique du taux majoré s'applique aussi à un prêt assuré et renvoie au prêteur pour le taux exact: à faire valider par un courtier hypothécaire.",
   "Les lignes « mise de fonds minimale » du tableau sont un calcul appliqué par nous aux médianes de l'APCIQ selon les paliers de la SCHL, pas des chiffres publiés par l'APCIQ ni par la SCHL.",

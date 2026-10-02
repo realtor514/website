@@ -64,6 +64,12 @@
    "supports": "La déclaration de copropriété et le règlement de l'immeuble suivent l'unité et s'imposent au nouvel acheteur, qui doit les consulter avant d'acheter"
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Renvoi à la condition d'examen des documents de la copropriété du formulaire de Promesse d'achat de copropriété divise de l'OACIQ: la formulation est volontairement sans numéro de clause, à confirmer sur la version en vigueur du formulaire.",
   "Affirmation selon laquelle une interdiction d'animaux se trouve, dans la plupart des immeubles québécois, au règlement de l'immeuble plutôt qu'à l'acte constitutif: déduction fondée sur les articles 1053 et 1054, sans statistique disponible.",

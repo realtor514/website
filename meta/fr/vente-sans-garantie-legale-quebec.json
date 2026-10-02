@@ -65,6 +65,12 @@
    "supports": "La garantie légale est automatique et n'a pas à être demandée; le vendeur peut l'exclure, mais la promesse d'achat et l'acte de vente doivent l'indiquer et l'acheteur doit en être informé avant de signer; la clause se négocie; si la garantie est exclue, le seul recours consiste à démontrer que le vendeur a volontairement caché la vérité sur un aspect déterminant de la vente."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Distinction entre une exclusion de la seule garantie légale de qualité (article 1733, premier alinéa, toujours applicable) et l'ajout de la mention « aux risques et périls de l'acheteur » devant un vendeur non professionnel (article 1733, deuxième alinéa) : la formulation de l'article est reproduite fidèlement, mais l'interprétation de sa portée pratique devrait être validée par un juriste.",
   "Affirmation selon laquelle l'exception de l'article 1733 ne joue qu'avec un vendeur non professionnel et que le vendeur professionnel demeure sous le premier alinéa : tirée du texte de l'article, à confirmer par un juriste quant aux cas limites (constructeur, flippeur, personne morale).",

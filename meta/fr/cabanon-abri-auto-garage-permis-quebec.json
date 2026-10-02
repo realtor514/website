@@ -93,6 +93,12 @@
    "supports": "L'assurance habitation du proprietaire couvre la maison et ses dependances, cabanon et garage detache compris, et le montant requis pour le batiment correspond au cout de reconstruction, distinct de la valeur marchande et de l'evaluation municipale."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Aucune valeur de marge, de superficie maximale ni de hauteur maximale n'a pu etre attribuee a Laval: l'outil Info-reglements, seul endroit ou ces normes sont publiees, repond 403 a curl et a WebFetch et charge ses extraits en JavaScript, illisibles dans la capture d'archive. L'article le dit au lecteur et l'envoie faire la recherche par adresse plutot que d'extrapoler depuis Montreal.",
   "Les distances minimales entre un abri d'hiver lavallois et la voie publique sont publiees en quatre schemas illustres, sans texte: aucun chiffre n'a donc ete repris.",

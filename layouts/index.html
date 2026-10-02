@@ -61,19 +61,19 @@
           {{ if $isFr }}
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Évaluation gratuite</div>
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Photos professionnelles incluses</div>
-          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Diffusion sur tous les portails MLS</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Inscription sur Centris et reseau RE/MAX</div>
           {{ else if $isAr }}
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>تقييم مجاني</div>
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>صور احترافية مشمولة</div>
-          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>النشر على جميع بوابات MLS</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>الإدراج في Centris وشبكة RE/MAX</div>
           {{ else if $isEs }}
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Evaluación gratuita</div>
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Fotos profesionales incluidas</div>
-          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Publicación en todos los portales MLS</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Inscripción en Centris y red RE/MAX</div>
           {{ else }}
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Free evaluation</div>
           <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Professional photos included</div>
-          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Listed on all MLS portals</div>
+          <div class="journey-split__feature"><span class="journey-split__feature-dot"></span>Listed on Centris and the RE/MAX network</div>
           {{ end }}
         </div>
         <a href="{{ $base }}/seller/" class="btn btn-white" style="align-self:flex-start;margin-top:8px;">
@@ -194,7 +194,10 @@
       </div>
       <div class="stat-item">
         <span class="stat-item__number" style="font-size:1.4rem">Laval, Montréal,<br>Rive-Nord</span>
-        <span class="stat-item__label">{{ if $isFr }}Spécialiste local{{ else if $isAr }}متخصص محلي{{ else if $isEs }}Especialista local{{ else }}Local specialist{{ end }}</span>
+        {{/* "Specialiste local" est une affirmation de competence que l article
+             112 oblige a demontrer sur demande. La liste de villes, elle, se
+             verifie: elle est publiee page par page. */}}
+        <span class="stat-item__label">{{ if $isFr }}Secteurs desservis{{ else if $isAr }}المناطق المخدومة{{ else if $isEs }}Zonas atendidas{{ else }}Areas served{{ end }}</span>
       </div>
     </div>
   </div>
@@ -228,28 +231,28 @@
         <p class="about-split__text">{{ .Site.Params.bio }}</p>
         <div class="about-highlights">
           {{ if $isFr }}
-          <div class="highlight-item">Spécialiste Montréal, Laval, Laurentides &amp; Lanaudière</div>
+          <div class="highlight-item">Montréal, Laval, Laurentides &amp; Lanaudière</div>
           <div class="highlight-item">Résidentiel</div>
           <div class="highlight-item">Premiers acheteurs</div>
           <div class="highlight-item">Propriétés d'investissement</div>
           <div class="highlight-item">Service trilingue (FR/EN/AR)</div>
           <div class="highlight-item">Analyse basée sur les données</div>
           {{ else if $isAr }}
-          <div class="highlight-item">متخصص في مونتريال، لافال، اللورانتيد ولانوديير</div>
+          <div class="highlight-item">مونتريال، لافال، اللورانتيد ولانوديير</div>
           <div class="highlight-item">سكني</div>
           <div class="highlight-item">المشترون الأوائل</div>
           <div class="highlight-item">عقارات استثمارية</div>
           <div class="highlight-item">خدمة ثلاثية اللغات (ف/إ/ع)</div>
           <div class="highlight-item">تحليل قائم على البيانات</div>
           {{ else if $isEs }}
-          <div class="highlight-item">Especialista Montréal, Laval, Laurentides y Lanaudière</div>
+          <div class="highlight-item">Montréal, Laval, Laurentides y Lanaudière</div>
           <div class="highlight-item">Residencial</div>
           <div class="highlight-item">Compradores primerizos</div>
           <div class="highlight-item">Propiedades de inversión</div>
           <div class="highlight-item">Trilingüe (FR/EN/AR)</div>
           <div class="highlight-item">Análisis basado en datos</div>
           {{ else }}
-          <div class="highlight-item">Montréal, Laval, Laurentians &amp; Lanaudière Specialist</div>
+          <div class="highlight-item">Montréal, Laval, Laurentians &amp; Lanaudière</div>
           <div class="highlight-item">Residential</div>
           <div class="highlight-item">First-Time Buyers</div>
           <div class="highlight-item">Investment Properties</div>
@@ -278,15 +281,19 @@
       <h2>
         {{ if $isFr }}16 bureaux dans le Grand Montréal{{ else if $isAr }}16 مكتباً في منطقة مونتريال الكبرى{{ else if $isEs }}16 oficinas en el Gran Montreal{{ else }}16 Offices Across Greater Montreal{{ end }}
       </h2>
+      {{/* "Nos 16 bureaux" comptait deux agences comme une seule. Six bureaux
+           appartiennent a RE/MAX DU CARTIER, le permis sous lequel j exerce;
+           les dix autres sont ceux de RE/MAX du Cartier Bonjour. La phrase
+           nomme maintenant les deux, ce qui reste exact dans les deux cas. */}}
       <p class="subtitle">
         {{ if $isFr }}
-          En tant que courtier RE/MAX DU CARTIER, je peux vous recevoir dans l'un de nos 16 bureaux répartis à Montréal, Laval, la Rive-Nord, la Rive-Sud, les Laurentides et Lanaudière.
+          Je suis courtier chez RE/MAX DU CARTIER et ses 6 bureaux de Montréal et Laval. Le réseau RE/MAX du Cartier Bonjour en ajoute 10 dans les Laurentides, où une rencontre reste possible.
         {{ else if $isAr }}
-          بوصفي وسيطاً في RE/MAX DU CARTIER، يمكنني استقبالك في أي من مكاتبنا الـ16 المنتشرة في مونتريال، لافال، الضفة الشمالية، الضفة الجنوبية، منطقة اللورانتيد ولانوديير.
+          أعمل وسيطاً لدى RE/MAX DU CARTIER وبمكاتبها الستة في مونتريال ولافال. وتضيف شبكة RE/MAX du Cartier Bonjour عشرة مكاتب في منطقة اللورانتيد، حيث يبقى اللقاء ممكناً.
         {{ else if $isEs }}
-          Como corredor de RE/MAX DU CARTIER, puedo recibirle en cualquiera de nuestras 16 oficinas en Montréal, Laval, la Costa Norte, la Costa Sur, los Laurentides y Lanaudière.
+          Soy corredor de RE/MAX DU CARTIER y de sus 6 oficinas de Montréal y Laval. La red RE/MAX du Cartier Bonjour añade 10 en los Laurentides, donde un encuentro sigue siendo posible.
         {{ else }}
-          As a RE/MAX DU CARTIER broker, I can welcome you in any of our 16 offices across Montreal, Laval, the North Shore, the South Shore, the Laurentians and Lanaudière.
+          I am a broker with RE/MAX DU CARTIER and its 6 offices in Montreal and Laval. The RE/MAX du Cartier Bonjour network adds 10 more in the Laurentians, where a meeting is also possible.
         {{ end }}
       </p>
     </div>

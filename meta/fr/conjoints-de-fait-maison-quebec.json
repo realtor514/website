@@ -70,6 +70,12 @@
    "consulted": "2026-09-23",
    "supports": "Définition fiscale du conjoint de fait: vie commune d'au moins 12 mois sans interruption, ou partenaire parent de votre enfant par la naissance ou l'adoption"}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Sujet à haut risque juridique: l'article entier est à faire valider par un notaire avant publication, conformément à needs_expert_review: true.",
   "La date charnière du 30 juin 2025 provient des dispositions transitoires de la Loi portant sur la réforme du droit de la famille et instituant le régime d'union parentale (LQ 2024, c. 22), lue ici à travers Éducaloi et JuridiQC. Le texte transitoire lui-même n'a pas pu être ouvert directement et devrait être vérifié par le notaire réviseur.",

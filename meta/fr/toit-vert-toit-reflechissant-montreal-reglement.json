@@ -56,6 +56,12 @@
    "consulted": "2026-09-25",
    "supports": "Article 2466: obligation de l'assuré de déclarer promptement les circonstances qui aggravent les risques et résultent de ses faits et gestes. Article 2467: l'assureur informé peut résilier ou proposer par écrit un nouveau taux de prime, à accepter et acquitter dans les 30 jours, sinon la police cesse d'être en vigueur. Texte lu par capture web.archive.org de la page officielle de LegisQuébec datée du 2026-03-10, LegisQuébec répondant 502 au moment de la rédaction."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Portée du guide de la RBQ sur un immeuble résidentiel privé: le guide encadre les bâtiments assujettis au Code de construction et sa condition 1.1 exige une construction incombustible. Je n'ai pas trouvé sur le site de la RBQ la page énonçant les seuils exacts d'assujettissement (nombre de logements, étages, superficie). L'article renvoie donc le lecteur à la RBQ et à un ingénieur au lieu d'affirmer qu'un duplex à ossature de bois est ou n'est pas visé.",
   "Charge de 200 kg/m² pour 100 mm de substrat: ce n'est pas un chiffre publié, c'est l'arithmétique de deux valeurs du guide de la RBQ, soit le substrat minimal de 100 mm et la densité saturée non pondérée de 2 000 kg/m³. L'article le présente comme un calcul à faire soi-même et renvoie au calcul de l'ingénieur selon ASTM E2397-11."

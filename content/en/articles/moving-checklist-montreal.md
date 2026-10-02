@@ -9,7 +9,7 @@ image: "images/articles/moving-checklist-montreal/featured.jpg"
 
 A move in Quebec is not just about boxes. It is a sequence of notices, legal
 deadlines and accounts to transfer, most of it planned months ahead. Here is the
-checklist I hand my clients, organized by deadline, with every rule verified
+checklist to work through, organized by deadline, with every rule verified
 against the Tribunal administratif du logement, the Quebec government,
 Hydro-Quebec, Montreal and Laval.
 

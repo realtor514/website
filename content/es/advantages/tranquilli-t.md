@@ -90,7 +90,7 @@ El programa está asegurado por Prince Edward Island Insurance Company y adminis
 
 ## Lo que significa para usted
 
-Un cliente me preguntó una vez por qué insistía tanto en un programa que, en el mejor de los casos, nunca se usará.
+Cabe preguntarse por qué insistir tanto en un programa que, en el mejor de los casos, nunca se usará.
 
 Ese es exactamente el punto. Uno no obtiene un seguro esperando usarlo. Lo obtiene para que el escenario improbable no se convierta en el escenario catastrófico.
 

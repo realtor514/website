@@ -7,7 +7,13 @@
         <img src="{{ "images/property-placeholder.jpg" | relURL }}" alt="{{ .Title }}" loading="lazy">
       {{ end }}
       {{ with .Params.status }}<span class="listing-card__badge">{{ . }}</span>{{ end }}
-      {{ with .Params.price  }}<span class="listing-card__price">{{ . }}</span>{{ end }}
+      {{/* Pas de prix sur une fiche vendue: la ligne directrice de l OACIQ sur
+           la publicite des transactions conclues interdit d annoncer le prix
+           d une propriete vendue ou tout chiffre qui permet de le deduire. La
+           pastille VENDU reste, le prix part. */}}
+      {{ if not (in (slice "Vendu" "Sold" "Vendido" "مباع") .Params.status) }}
+      {{ with .Params.price }}<span class="listing-card__price">{{ . }}</span>{{ end }}
+      {{ end }}
     </div>
     <div class="listing-card__body">
       <h3 class="listing-card__title">{{ .Title }}</h3>

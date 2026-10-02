@@ -196,8 +196,8 @@ from the date of signature.
 
 **My broker holds the listing on the property that suits me. What now?**
 Except for the cases set out in the regulation, they must terminate your
-contract, recommend another broker, and they cannot claim anything from you. I
-have seen buyers experience that moment as abandonment: it is the opposite, it
+contract, recommend another broker, and they cannot claim anything from you. Many
+buyers experience that moment as abandonment: it is the opposite, it
 is the rule that spares you from being advised by the person defending the other
 side.
 

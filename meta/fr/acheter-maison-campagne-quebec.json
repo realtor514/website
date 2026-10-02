@@ -86,6 +86,12 @@
    "consulted": "2026-09-26",
    "supports": "Le transport des eleves est organise par le centre de services scolaire, qui determine les modalites d'organisation. Le transport scolaire ne peut etre exige si l'eleve reside a l'exterieur de la zone servie par l'ecole, telle que definie par le centre de services scolaire. Aucun seuil provincial de distance n'est etabli."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le texte integral de la Loi sur la protection du territoire et des activites agricoles (P-41.1) n'a pas pu etre lu: LegisQuebec repond 502 et web.archive.org a retourne 429 apres plusieurs tentatives. Les articles 31, 31.1, 40, 101, 101.1, 101.2, 102, 103, 104, 105 et 15 sont cites d'apres les pages officielles de la CPTAQ, qui les resume mais n'en reproduit pas le texte. A confirmer sur LegisQuebec avant publication.",
   "L'affirmation que la nature des fonds et les usages locaux sont agricoles en zone agricole, aux fins de l'article 976 du Code civil, est une lecture du texte et non une citation d'une source officielle ni d'une decision judiciaire. A faire valider par un juriste ou a retirer.",

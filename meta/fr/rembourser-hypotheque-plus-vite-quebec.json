@@ -72,6 +72,12 @@
    "supports": "La quittance est le document dans lequel le créancier reconnaît que les sommes dues ont été remboursées en totalité et consent à la radiation de l'hypothèque inscrite au Registre foncier. Distinction avec la mainlevée."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le pourcentage de 10 % utilisé dans les deux illustrations arithmétiques (versement forfaitaire et hausse du paiement) est un chiffre de démonstration. Aucune source officielle consultée ne publie de fourchette standard de privilèges, l'ACFC indiquant seulement qu'ils varient d'un prêteur à l'autre. À valider par un courtier hypothécaire avant publication.",
   "L'affirmation selon laquelle le treizième paiement annuel s'impute en grande partie sur le capital découle de la mécanique d'amortissement et n'est pas citée telle quelle par l'ACFC, qui parle d'économies d'intérêts. À faire valider.",

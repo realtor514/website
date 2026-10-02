@@ -48,5 +48,11 @@
   {"url": "https://apciq.ca/en/montreal-cma-adjustment-period-continues-condominium-market-in-balance-2/", "title": "Montreal CMA: Adjustment Period Continues, Condominium Market in Balance (Centris Residential Sales Statistics, August 2026)", "publisher": "APCIQ",
    "consulted": "2026-09-24", "supports": "Région métropolitaine de Montréal, août 2026: délai de vente moyen de 42 jours pour les unifamiliales, 62 jours pour les copropriétés et 52 jours pour les plex; 20 128 inscriptions en vigueur, en hausse de 18 % sur un an."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": []
 }

@@ -199,8 +199,8 @@ resolución, nunca desde la fecha de firma.
 
 **Mi corredor tiene inscrita la propiedad que me conviene. ¿Qué hacemos?**
 Salvo la excepción prevista en el reglamento, debe resolver su contrato,
-recomendarle otro corredor, y no puede reclamarle nada. He visto a compradores
-vivir ese momento como un abandono: es lo contrario, es la regla que le evita
+recomendarle otro corredor, y no puede reclamarle nada. Muchos compradores
+viven ese momento como un abandono: es lo contrario, es la regla que le evita
 ser asesorado por quien defiende al otro lado.
 
 Para completar, lea [qué está pagando realmente en comisión en

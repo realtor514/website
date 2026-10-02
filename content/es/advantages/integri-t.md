@@ -108,7 +108,9 @@ A diferencia de Tranquilli-T, esta garantía no es gratuita. Desde el 1 de octub
 | El vendedor | Desde **975 $** más impuestos |
 | El comprador | Desde **675 $** más impuestos |
 
-Los dos casos existen. El vendedor puede ofrecerla a su comprador para hacer su propiedad más atractiva y limitar su propia responsabilidad. El comprador también puede ofrecerla al vendedor y pagarla él mismo, incluso sobre una propiedad RE/MAX puesta a la venta sin garantía legal, siempre que el vendedor acepte añadirla a la promesa de compra.
+Los dos casos existen. El vendedor puede ofrecerla a su comprador para hacer su propiedad más atractiva y limitar su propia responsabilidad. El comprador también puede pagarla él mismo, siempre que el vendedor acepte añadirla a la promesa de compra.
+
+Una exclusión que conviene conocer antes de visitar: **una propiedad vendida sin garantía legal no es admisible a Intégri-T**, y ninguna suma pagada por una parte o por la otra cambia eso. La razón es estructural. GBQ se constituye en fiadora de las obligaciones de garantía legal del vendedor; una venta a riesgo y peligro del comprador elimina precisamente esas obligaciones. No queda nada que afianzar. Si una propiedad que le interesa se anuncia sin garantía legal, el riesgo se trata de otro modo: con la inspección y con el precio. Es el tema de [venta sin garantía legal: qué cambia realmente](/es/articles/venta-sin-garantia-legal-quebec/).
 
 Son precios de partida: el monto exacto depende del expediente y las tarifas pueden cambiar sin previo aviso. Pídame la tabla vigente antes de decidir, y compare ese monto con lo que costaría una sola reclamación por vicio oculto.
 
@@ -122,7 +124,7 @@ Son precios de partida: el monto exacto depende del expediente y las tarifas pue
 
 **El calendario.** La garantía debe establecerse **antes de la firma de la escritura notarial**, y la cláusula debe figurar en la promesa de compra o en la contrapropuesta. Una vez firmada la escritura, no hay forma de recuperarla.
 
-Un edificio dejado vacante, descuidado o sujeto a una ejecución hipotecaria no es admisible.
+Un edificio dejado vacante, descuidado o sujeto a una ejecución hipotecaria no es admisible. Tampoco lo es una propiedad vendida sin garantía legal.
 
 ## Si se descubre un vicio oculto
 

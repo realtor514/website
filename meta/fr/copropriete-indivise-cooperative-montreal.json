@@ -86,6 +86,12 @@
    "supports": "Critères du produit Achat: 1 à 4 logements, rapport prêt valeur jusqu'à 95 pour cent pour 1 à 2 logements, occupation par le propriétaire, valeur sous 1 500 000 dollars. Aucun type de propriété indivise n'y figure, ce qui appuie la formulation prudente de l'article."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   {
    "claim": "L'assurance prêt hypothécaire n'est généralement pas offerte sur une part indivise, d'où une mise de fonds d'environ 20 pour cent et un nombre restreint de prêteurs.",

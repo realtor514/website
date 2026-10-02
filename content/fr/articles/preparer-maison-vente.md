@@ -16,9 +16,9 @@ Mais bien se préparer ne signifie pas dépenser 50 000 dollars en rénovations.
 
 Avant toute préparation, il faut parler du prix, car il influence tout le reste.
 
-Une propriété bien positionnée attire des acheteurs dans les 7 à 14 premiers jours sur le marché. Cette fenêtre initiale est celle où l'intérêt est le plus fort. Les acheteurs reçoivent des alertes automatiques pour les nouvelles inscriptions correspondant à leurs critères; votre propriété obtient sa visibilité maximale précisément quand elle apparaît pour la première fois sur Centris.
+Une propriété bien positionnée attire des acheteurs dès ses premiers jours sur le marché, et c'est la fenêtre où l'intérêt est le plus fort. La raison est mécanique: les acheteurs reçoivent des alertes automatiques pour les nouvelles inscriptions correspondant à leurs critères, et votre propriété déclenche ces alertes au moment précis où elle apparaît pour la première fois sur Centris.
 
-Si vous affichez trop haut, vous ratez cette fenêtre. Après 30 jours sans offre, les acheteurs commencent à se demander pourquoi personne n'en veut. Après 60 jours, la valeur perçue a chuté et vous finissez souvent par accepter un prix inférieur à ce que vous auriez obtenu dès le départ.
+Si vous affichez trop haut, vous ratez cette fenêtre. Plus l'inscription vieillit sans offre, plus les acheteurs se demandent pourquoi personne n'en veut, et plus les offres qui finissent par arriver sont basses. C'est une lecture du comportement d'achat, pas une statistique: aucune source publique ne fixe le nombre de jours où la bascule se produit.
 
 Le bon prix n'est pas le prix le plus élevé que vous pouvez imaginer. C'est le prix le plus élevé que le marché paiera réellement aujourd'hui, pour votre propriété spécifique, basé sur les ventes comparables des 90 derniers jours.
 

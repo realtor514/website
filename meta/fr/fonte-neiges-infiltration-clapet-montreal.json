@@ -86,6 +86,12 @@
    "supports": "Le libelle exact des questions D3.6 (accumulation periodique d'eau sur le terrain), D4.1 (infiltrations d'eau, avec la liste des endroits a cocher: sous-sol ou vide sanitaire, toiture, terrasse, balcon, verriere, puits de lumiere, porte, fenetre, cheminee) et D5.2 (problemes ayant affecte le sous-sol ou le vide sanitaire, dont les fissures dans la fondation)."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Le nom commercial des avenants (Eau au-dessus du sol, Eau du sol et egouts) est celui employe par le Bureau d'assurance du Canada. Les appellations et le decoupage exact des garanties varient d'un assureur a l'autre: l'article le dit, mais un assureur devrait relire le tableau.",
   "La description du mecanisme du barrage de glace et de la trace laissee en haut du mur interieur est une explication technique generale, appuyee sur la formulation de la SCHL sur les points d'infiltration, et non sur une source qui decrit ce symptome precis."

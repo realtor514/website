@@ -72,7 +72,7 @@ La base de compradores es doble: la Rive-Sud, y quienes dejan la isla y comparan
 
 Tres documentos pesan sobre el precio aquí: un certificado de localización actualizado, las facturas de los trabajos mayores con sus años y, en el sitio patrimonial, las resoluciones municipales de trabajos exteriores ya aprobados. Un comprador que los ve no descuenta el riesgo.
 
-El análisis comparativo se prepara sin costo, con las ventas cerradas de su sector. Un ejemplo vendido aquí: la [casa de dos pisos del 28, rue St-Hilaire](/es/listings/28-rue-st-hilaire-longueuil/), de 1949, cuya ficha indica 499 000 $ y techo, plomería y electricidad rehechos en 2014.
+El análisis comparativo se prepara sin costo, con las ventas cerradas de su sector. Un ejemplo vendido aquí: la [casa de dos pisos del 28, rue St-Hilaire](/es/listings/28-rue-st-hilaire-longueuil/), de 1949, cuya ficha indica techo, plomería y electricidad rehechos en 2014.
 
 ## Comprar en el Viejo Longueuil
 

@@ -68,6 +68,12 @@
    "consulted": "2026-09-25",
    "supports": "Le texte des articles cités dans l'article a été lu mot à mot par une capture web.archive.org du 10 mars 2026 de la page officielle de LegisQuébec, parce que legisquebec.gouv.qc.ca répondait 502 du serveur d'origine sur toutes les voies essayées. Articles lus et cités: 1726 (garantie de qualité, vice connu de l'acheteur, vice apparent constatable sans recourir à un expert), 1728 (le vendeur qui connaissait le vice ou ne pouvait l'ignorer doit réparer le préjudice en plus de restituer le prix), 1733 (impossibilité d'exclure sa responsabilité pour les vices connus, sauf achat à ses risques et périls d'un vendeur non professionnel), 1739 (dénonciation écrite dans un délai raisonnable, point de départ du délai quand le vice apparaît graduellement), 2726 (hypothèque légale de la construction en faveur de l'architecte, de l'ingénieur, du fournisseur de matériaux, de l'ouvrier, de l'entrepreneur et du sous-entrepreneur, sans publication), 2925 (prescription de trois ans) et 2926 (délai qui court du jour où un préjudice qui se manifeste graduellement ou tardivement se manifeste pour la première fois)."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "« Faites écrire l'entrepreneur avant qu'il quitte le chantier »: recommandation pratique de preuve, aucune obligation légale trouvée en ce sens.",
   "« Un chantier arrêté ne vous laisse pas ce confort: la lettre part cette semaine »: aucune source officielle ne dit que le délai raisonnable de dénonciation est plus court parce que des travaux sont en cours. C'est une prudence de rédaction, pas une règle.",

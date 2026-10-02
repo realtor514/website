@@ -72,6 +72,12 @@
    "supports": "Le produit multilogement exige au moins 5 logements, finance jusqu'à 85 % de la valeur en achat comme en refinancement, autorise un amortissement allant jusqu'à 40 ans pour un immeuble existant, et demande au moins cinq ans d'expérience en gestion multilogement."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Exemple chiffré de la section sur les travaux : une facture de 40 000 $ dans un triplex où un logement représente le tiers des revenus donne une part attribuable d'environ 13 300 $, dont 5 % font quelque 667 $ par année. C'est une application directe des articles 3 et 5 du Règlement sur les critères de fixation de loyer, mais la part attribuable réelle dépend des revenus déclarés et de l'appréciation du Tribunal. À faire valider par un juriste avant publication.",
   "Formulation « la part de la variation qui dépasse le pourcentage de base » pour les taxes et les assurances : l'article 4 procède par soustraction de la valeur absolue du pourcentage de base, puis application du résultat au montant mensuel de la période visée. La vulgarisation est fidèle mais mérite une relecture.",

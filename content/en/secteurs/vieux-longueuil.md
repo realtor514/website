@@ -72,7 +72,7 @@ The buyer pool is double: the South Shore, and those leaving the island who comp
 
 Three documents weigh on the price obtained here: an up to date certificate of location, the invoices for major work with their years, and, inside the heritage site, the municipal resolutions for exterior work already approved. A buyer who sees them does not discount for risk.
 
-The comparative analysis is prepared at no charge, with closed sales from your sector. One example sold here: the [two-storey home at 28, rue St-Hilaire](/en/listings/28-rue-st-hilaire-longueuil/), from 1949, whose listing states $499,000 and a roof, plumbing and electrical redone in 2014.
+The comparative analysis is prepared at no charge, with closed sales from your sector. One example sold here: the [two-storey home at 28, rue St-Hilaire](/en/listings/28-rue-st-hilaire-longueuil/), from 1949, whose listing states a roof, plumbing and electrical redone in 2014.
 
 ## Buying in Old Longueuil
 

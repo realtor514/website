@@ -65,6 +65,12 @@
    "supports": "Vérification par le notaire des anciens actes de transfert de propriété, rédaction de l'acte de vente et de l'acte d'hypothèque, publication au registre foncier et gestion des fonds en fidéicommis avec paiement des créanciers du vendeur avant la remise du produit de la vente."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Affirmation selon laquelle l'OACIQ range le certificat de localisation de plus de dix ans parmi les situations à soulever dès la prise du contrat de courtage: cette position est reprise dans le coffre à outils de la ligne directrice (fiche Certificat de localisation datant de plus de 10 ans), mais la page dédiée n'était pas accessible publiquement au moment de la rédaction. À faire valider par le courtier ou par l'OACIQ.",
   "Liste des documents que le vendeur apporte chez le notaire: elle est construite à partir des clauses 10.3, 10.6, 11.3 et 11.7 de la Promesse d'achat et de l'examen des titres décrit par l'OACIQ. Elle n'est pas une liste officielle publiée par la Chambre des notaires, dont le site était inaccessible par pare-feu au moment de la rédaction. À faire confirmer par un notaire.",

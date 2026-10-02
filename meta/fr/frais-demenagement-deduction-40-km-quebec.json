@@ -65,6 +65,12 @@
    "supports": "Confirmation de la liste des frais admissibles et de la liste fermée des frais non admissibles reprise dans l'article, dont le réacheminement du courrier, les adaptateurs, l'assurance prêt hypothécaire et la mise en vente retardée pour raisons d'investissement."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "La version du TP-348 consultée est la 2018-10, seule version publiée sur revenuquebec.ca au moment de la rédaction. Confirmer qu'aucune version plus récente ne modifie les lignes 18, 20, 23 et 24 ni la liste des frais.",
   "Le volet étudiant de la ligne 23 du TP-348 renvoie au montant net des subventions de recherche, alors que le T1-M vise aussi les bourses d'études, de perfectionnement et d'entretien et certaines récompenses. Faire valider cette différence Québec et fédéral par un fiscaliste avant publication.",

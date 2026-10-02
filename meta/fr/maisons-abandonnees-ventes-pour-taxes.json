@@ -85,6 +85,12 @@
    "consulted": "2026-09-01",
    "supports": "Formulation municipale de l’absence de garantie: l’adjudicataire accepte l’immeuble sans garantie et à ses seuls risques et périls, dans l’état où il se trouve, avec toute servitude active ou passive, apparente ou occulte. Confirme aussi le paiement du solde des taxes si le prix d’adjudication est insuffisant, et la recommandation de s’en tenir aux réparations indispensables à la conservation pendant l’année du retrait."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Les modalités locales citées (dates et lieux des encans de Montréal et de Laval en 2026, plages d’inscription, périodicité de Blainville) changent d’une année à l’autre et devraient être revalidées avant toute nouvelle publication.",
   "Le régime de la TPS et de la TVQ applicable à une vente pour taxes est présenté d’après la foire aux questions de la Ville de Blainville seulement. Aucune interprétation de Revenu Québec ou de l’Agence du revenu du Canada propre à la vente pour défaut de paiement de l’impôt foncier n’a pu être ouverte pendant la rédaction, revenuquebec.ca refusant l’accès.",

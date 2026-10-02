@@ -39,6 +39,20 @@
         if (downPct >=  5) return 0.0400;
         return 0;
       }
+      /* Mise de fonds minimale legale: 5 % sur la tranche jusqu a 500 000 $,
+         10 % sur la portion au-dela, et 20 % des que le prix atteint
+         1 500 000 $, plafond de l assurance pret hypothecaire. Les
+         calculateurs doivent la connaitre, sinon ils annoncent un prix qui ne
+         peut pas se financer. */
+      function minDownPayment(price) {
+        if (price <= 0) return 0;
+        if (price >= 1500000) return price * 0.20;
+        if (price <= 500000)  return price * 0.05;
+        return 25000 + (price - 500000) * 0.10;
+      }
+      function meetsMinDown(price, downPayment) {
+        return downPayment >= minDownPayment(price) - 0.01;
+      }
       function calcCMHC(propertyPrice, loanAmt, downPct) {
         if (propertyPrice >= 1500000 || downPct >= 20 || downPct < 5) return 0;
         return Math.round(loanAmt * cmhcRate(downPct));
@@ -47,7 +61,7 @@
         var semi = annualPct / 100 / 2;
         return Math.pow(1 + semi, 2 / ppy) - 1;
       }
-      return { parseMoney: parseMoney, fmt: fmt, formatMoney: formatMoney, cmhcRate: cmhcRate, calcCMHC: calcCMHC, effectiveRate: effectiveRate };
+      return { parseMoney: parseMoney, fmt: fmt, formatMoney: formatMoney, cmhcRate: cmhcRate, calcCMHC: calcCMHC, effectiveRate: effectiveRate, minDownPayment: minDownPayment, meetsMinDown: meetsMinDown };
     })();
     </script>
 

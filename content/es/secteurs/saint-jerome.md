@@ -53,7 +53,7 @@ Estos dos mercados no responden a las mismas señales. Un vendedor de unifamilia
 
 **El centro y el sector del cégep** concentran lo esencial del mercado de alquiler y de los inmuebles de renta.
 
-Una precisión que importa: estos antiguos municipios tienen cada uno su propia dinámica de precios. Comparar una propiedad de Bellefeuille con una venta reciente de Lafontaine produce una estimación falsa. Es un error que veo con frecuencia en las valoraciones automatizadas.
+Una precisión que importa: estos antiguos municipios tienen cada uno su propia dinámica de precios. Comparar una propiedad de Bellefeuille con una venta reciente de Lafontaine produce una estimación falsa. Es un fallo frecuente de las valoraciones automatizadas, que razonan por código postal.
 
 ## Invertir en Saint-Jérôme
 

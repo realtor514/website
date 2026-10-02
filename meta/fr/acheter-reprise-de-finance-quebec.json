@@ -72,6 +72,12 @@
    "supports": "Effet pratique de l'exclusion: impossible de poursuivre le vendeur pour un vice caché, le seul recours restant étant de démontrer que le vendeur a volontairement caché la vérité sur un aspect déterminant"
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 2,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Portée de l'exception du deuxième alinéa de l'article 1733 lorsque le vendeur est une institution financière: la qualification de vendeur non professionnel n'est pas tranchée par une source primaire consultée, l'article renvoie donc au notaire ou à l'avocat",
   "Affirmation selon laquelle une vente par le créancier lui-même (article 2784) ne vise pas un immeuble résidentiel ordinaire: déduite du texte de l'article, à faire confirmer par un juriste",

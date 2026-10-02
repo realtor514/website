@@ -106,6 +106,12 @@
    "consulted": "2026-09-25",
    "supports": "Communiqué du 6 août 2025 fixant les huit dates d'annonce du taux directeur de 2026: 28 janvier, 18 mars, 29 avril, 10 juin, 15 juillet, 2 septembre, 28 octobre et 9 décembre."}
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "La colonne « Ventes / nouvelles inscriptions » du tableau de Laval, ainsi que les pourcentages de 51 %, 73 %, 39 % et 49 % cités dans le texte, sont mes propres calculs faits à partir des deux chiffres publiés chaque mois par l'APCIQ. L'APCIQ ne publie pas ce ratio, et l'article le dit. La mesure officielle des conditions de marché de l'APCIQ est le nombre de mois d'inventaire, lissé sur 12 mois, présenté séparément dans l'article.",
   "Front matter daté du 2026-08-22 selon la consigne, alors que les statistiques d'août 2026 de l'APCIQ ont été diffusées le 4 septembre 2026 et que le calendrier de la Banque du Canada mentionne des dates de septembre à décembre 2026. Aucune date de diffusion postérieure au 22 août n'apparaît dans le corps du texte, mais il faudrait sans doute avancer `date` et `lastmod` avant publication.",

@@ -94,6 +94,12 @@
    "supports": "La déductibilité, aux États-Unis, de l'intérêt d'un prêt garanti par une habitation principale ou secondaire, et l'existence d'un plafond d'endettement (750 000 $ pour une habitation acquise après le 15 décembre 2017, 1 million de dollars pour les prêts antérieurs), qui sert de point de contraste avec le régime canadien."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 0,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "revenuquebec.ca renvoie 403 a WebFetch et a curl (verifie le 2026-09-25 sur plusieurs entetes et sur les PDF des formulaires). Aucun nom de formulaire quebecois n'est donc affirme dans l'article: le TP-128 (revenus de location), le TP-274 (designation de residence principale) et les formulaires de depenses d'emploi ont ete volontairement retires du texte, qui dit seulement que Revenu Quebec a son propre formulaire. A completer sur ecran par le reviseur.",
   "Les parametres 2026 du credit d'impot pour maintien a domicile des aines (taux de 40 %, plafonds de 19 500 $ et 25 500 $, seuils de 72 465 $ et 117 395 $) proviennent du recueil des depenses fiscales 2025 du ministere des Finances du Quebec, qui tient compte des mesures annoncees au 31 decembre 2025. A reconfirmer sur les parametres publies par Revenu Quebec pour l'annee d'imposition 2026 avant publication.",

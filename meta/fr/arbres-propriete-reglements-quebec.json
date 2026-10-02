@@ -71,6 +71,12 @@
    "supports": "Appuie l'existence d'une distance de plantation sécuritaire propre à chaque espèce près d'une ligne moyenne tension, et le fait qu'Hydro-Québec élague périodiquement les branches dangereuses, ce qui déforme l'arbre."
   }
  ],
+ "review_status": {
+  "published": true,
+  "triage": "2026-10-02",
+  "open_professional_review": 1,
+  "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
+ },
  "claims_needing_review": [
   "Aucun pourcentage de valeur ajoutée ou retranchée par un arbre n'est avancé dans l'article : aucune source québécoise publique ne permet de le chiffrer, et le texte le dit explicitement.",
   "L'arbre à cheval sur la ligne séparative est présenté comme détenu en indivision. Aucun article du Code civil ne traite expressément de ce cas : la conclusion est déduite des articles 900, 951 et 1026, qui sont cités tels quels. À faire valider par un notaire avant toute réutilisation dans un avis destiné à un client.",
