@@ -72,11 +72,23 @@ durable et intégrée au logement, et l'entretien courant en est exclu.
 
 Le mot important est **non remboursable**. Ce crédit réduit l'impôt fédéral à
 payer: un aîné qui ne paie pas d'impôt n'en retire rien, même avec 20 000 $ de
-factures. C'est l'inverse du crédit québécois de maintien à domicile. Par contre,
-selon l'Agence du revenu du Canada, une même dépense peut être réclamée à la fois
-comme frais médicaux et comme dépense pour l'accessibilité domiciliaire. Le
-calcul se reporte à la ligne 31285. Je suis courtier, pas fiscaliste: faites
-valider votre cas par un comptable avant de dépenser.
+factures. C'est l'inverse du crédit québécois de maintien à domicile.
+
+**Un changement prend effet cette année, et il va dans le mauvais sens pour vous.**
+Jusqu'à l'année d'imposition 2025, une même dépense pouvait être réclamée deux
+fois, comme frais médicaux et comme dépense pour l'accessibilité domiciliaire.
+C'était l'une des rares exceptions à l'interdiction du double usage. Le budget
+fédéral de 2025 y met fin à compter de l'année d'imposition 2026: il faut
+désormais choisir l'un ou l'autre. Méfiez-vous si vous vérifiez vous-même, parce
+que la page de l'Agence du revenu du Canada sur la ligne 31285 affichait encore
+l'ancienne règle à l'automne 2026. Elle n'avait pas tort, elle portait sur
+l'année d'imposition 2025.
+
+Le calcul se reporte à la ligne 31285. Pour l'année d'imposition 2026, le taux
+appliqué est de 14 %, soit un crédit maximal de 2 800 $ sur un plafond de
+20 000 $ de dépenses. Ce taux est révisé d'une année à l'autre: vérifiez-le pour
+l'année qui vous concerne. Je suis courtier, pas fiscaliste: faites valider votre
+cas par un comptable avant de dépenser.
 
 ## Le Programme d'adaptation de domicile et l'ordre des gestes
 

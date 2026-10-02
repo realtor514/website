@@ -73,10 +73,21 @@ dwelling, and routine maintenance is excluded.
 The important word is **non-refundable**. This credit reduces federal tax
 payable: a senior who pays no tax gets nothing from it, even with $20,000 of
 invoices. That is the opposite of the Quebec home-support credit. On the other
-hand, according to the Canada Revenue Agency, the same expense may be claimed
-both as a medical expense and as a home accessibility expense. The calculation
-carries to line 31285. I am a broker, not a tax specialist: have an accountant
-validate your case before you spend.
+hand, that is the opposite of the Quebec home-support credit.
+
+**One change takes effect this year, and it cuts against you.** Through the 2025
+tax year, the same expense could be claimed twice, as a medical expense and as a
+home accessibility expense. It was one of the rare exceptions to the rule against
+double claiming. The 2025 federal budget ends that as of the 2026 tax year: you
+now have to choose one or the other. Be careful if you check this yourself,
+because the Canada Revenue Agency page for line 31285 still showed the old rule
+in the autumn of 2026. It was not wrong, it covered the 2025 tax year.
+
+The calculation carries to line 31285. For the 2026 tax year the rate applied is
+14 percent, so a maximum credit of $2,800 on the $20,000 expense ceiling. That
+rate is revised from year to year: check it for the year that concerns you. I am
+a broker, not a tax specialist: have an accountant validate your case before you
+spend.
 
 ## The Programme d'adaptation de domicile and the order of the steps
 

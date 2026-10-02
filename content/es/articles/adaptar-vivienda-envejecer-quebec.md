@@ -75,10 +75,21 @@ integrada a la vivienda, y el mantenimiento corriente queda excluido.
 La palabra importante es **no reembolsable**. Este crédito reduce el impuesto
 federal a pagar: una persona mayor que no paga impuesto no obtiene nada, incluso
 con 20 000 $ de facturas. Es lo contrario del crédito quebequense de
-mantenimiento en el domicilio. En cambio, según la Agence du revenu du Canada (la
-agencia tributaria federal), un mismo gasto puede reclamarse a la vez como gasto
-médico y como gasto de accesibilidad en el hogar. El cálculo se traslada a la
-línea 31285. Soy corredor, no asesor fiscal: haga validar su caso por un contador.
+mantenimiento en el domicilio.
+
+**Un cambio entra en vigor este año, y va en su contra.** Hasta el año fiscal
+2025, un mismo gasto podía reclamarse dos veces, como gasto médico y como gasto
+de accesibilidad en el hogar. Era una de las raras excepciones a la prohibición
+del doble uso. El presupuesto federal de 2025 le pone fin a partir del año fiscal
+2026: ahora hay que elegir uno u otro. Tenga cuidado si lo verifica usted mismo,
+porque la página de la Agence du revenu du Canada sobre la línea 31285 seguía
+mostrando la regla anterior en el otoño de 2026. No se equivocaba: se refería al
+año fiscal 2025.
+
+El cálculo se traslada a la línea 31285. Para el año fiscal 2026 la tasa aplicada
+es del 14 %, es decir un crédito máximo de 2 800 $ sobre un tope de 20 000 $ de
+gastos. Esa tasa se revisa de un año a otro: verifíquela para el año que le
+concierne. Soy corredor, no asesor fiscal: haga validar su caso por un contador.
 
 ## El Programme d'adaptation de domicile y el orden de los pasos
 
