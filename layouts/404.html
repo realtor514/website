@@ -42,11 +42,15 @@
           "es" (slice "Inicio" "Propiedades" "Consejos inmobiliarios" "Estimar mi propiedad" "Contactarme")
           "ar" (slice "الرئيسية" "العقارات" "نصائح عقارية" "تقدير قيمة عقاري" "تواصل معي")
       }}
+      {{/* Les adresses de contact sont traduites: /es/contacto/ et
+           /ar/tawasul/. Ecrites en /es/contact/ et /ar/contact/, les deux
+           derniers boutons de la page 404 renvoyaient eux-memes vers une 404,
+           en espagnol comme en arabe. */}}
       {{ $urls := dict
           "fr" (slice "/" "/listings/" "/articles/" "/tools/home-estimate/" "/contact/")
           "en" (slice "/en/" "/en/listings/" "/en/articles/" "/en/tools/home-estimate/" "/en/contact/")
-          "es" (slice "/es/" "/es/listings/" "/es/articles/" "/es/tools/home-estimate/" "/es/contact/")
-          "ar" (slice "/ar/" "/ar/listings/" "/ar/articles/" "/ar/tools/home-estimate/" "/ar/contact/")
+          "es" (slice "/es/" "/es/listings/" "/es/articles/" "/es/tools/home-estimate/" "/es/contacto/")
+          "ar" (slice "/ar/" "/ar/listings/" "/ar/articles/" "/ar/tools/home-estimate/" "/ar/tawasul/")
       }}
       <ul data-e404="{{ $l }}"{{ if ne $l "fr" }} hidden{{ end }}{{ if eq $l "ar" }} dir="rtl"{{ end }}
           style="list-style:none;padding:0;margin:26px 0 0;display:flex;flex-wrap:wrap;gap:12px">
