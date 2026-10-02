@@ -19,16 +19,17 @@
         </div>
         <div class="footer__brand-title">{{ .Site.Params.role }}</div>
         <p class="footer__brand-text">
-          {{/* Voir le commentaire de layouts/index.html: les 16 bureaux se
-               repartissent entre deux agences, pas une. */}}
+          {{/* Voir le commentaire de layouts/index.html: les 16 bureaux sont
+               ceux d une seule agence depuis la fusion de Du Cartier, du
+               Cartier Bonjour et du Cartier Actif. */}}
           {{ if $isFr }}
-            Achat, vente et investissement immobilier à Montréal, Laval, la Rive-Nord, la Rive-Sud, les Laurentides et Lanaudière. Rencontres dans les bureaux RE/MAX du Cartier et du Cartier Bonjour, ou chez vous.
+            Votre partenaire de confiance pour l'achat, la vente et l'investissement immobilier. Disponible dans 16 bureaux à Montréal, Laval, la Rive-Nord, la Rive-Sud, les Laurentides et Lanaudière.
           {{ else if $isAr }}
-            شراء وبيع واستثمار عقاري في مونتريال، لافال، الضفة الشمالية، الضفة الجنوبية، منطقة اللورانتيد ولانوديير. اللقاءات في مكاتب RE/MAX du Cartier و du Cartier Bonjour، أو في منزلك.
+            شريكك الموثوق للشراء والبيع والاستثمار العقاري. متواجد في 16 مكتباً في مونتريال، لافال، الضفة الشمالية، الضفة الجنوبية، منطقة اللورانتيد ولانوديير.
           {{ else if $isEs }}
-            Compra, venta e inversión inmobiliaria en Montréal, Laval, la Costa Norte, la Costa Sur, los Laurentides y Lanaudière. Encuentros en las oficinas RE/MAX du Cartier y du Cartier Bonjour, o en su domicilio.
+            Su socio de confianza para comprar, vender e invertir en bienes raíces. Disponible en 16 oficinas en Montréal, Laval, la Costa Norte, la Costa Sur, los Laurentides y Lanaudière.
           {{ else }}
-            Buying, selling and investing in real estate across Montreal, Laval, the North Shore, the South Shore, the Laurentians and Lanaudière. Meetings at the RE/MAX du Cartier and du Cartier Bonjour offices, or at your home.
+            Your trusted partner for buying, selling, and investing in real estate. Available across 16 offices in Montreal, Laval, the North Shore, the South Shore, the Laurentians and Lanaudière.
           {{ end }}
         </p>
         <button class="footer__book-btn" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>

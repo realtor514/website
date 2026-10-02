@@ -281,19 +281,20 @@
       <h2>
         {{ if $isFr }}16 bureaux dans le Grand Montréal{{ else if $isAr }}16 مكتباً في منطقة مونتريال الكبرى{{ else if $isEs }}16 oficinas en el Gran Montreal{{ else }}16 Offices Across Greater Montreal{{ end }}
       </h2>
-      {{/* "Nos 16 bureaux" comptait deux agences comme une seule. Six bureaux
-           appartiennent a RE/MAX DU CARTIER, le permis sous lequel j exerce;
-           les dix autres sont ceux de RE/MAX du Cartier Bonjour. La phrase
-           nomme maintenant les deux, ce qui reste exact dans les deux cas. */}}
+      {{/* Les 16 bureaux sont bien ceux d une seule agence: RE/MAX DU CARTIER,
+           RE/MAX du Cartier Bonjour et RE/MAX du Cartier Actif ont fusionne.
+           Le possessif est donc exact et la phrase se demontre: les 16 adresses
+           sont listees plus bas sur cette page. Ne pas le "corriger" a nouveau
+           sans verifier le permis d agence. */}}
       <p class="subtitle">
         {{ if $isFr }}
-          Je suis courtier chez RE/MAX DU CARTIER et ses 6 bureaux de Montréal et Laval. Le réseau RE/MAX du Cartier Bonjour en ajoute 10 dans les Laurentides, où une rencontre reste possible.
+          En tant que courtier RE/MAX DU CARTIER, je peux vous recevoir dans l'un de nos 16 bureaux répartis à Montréal, Laval, la Rive-Nord, la Rive-Sud, les Laurentides et Lanaudière.
         {{ else if $isAr }}
-          أعمل وسيطاً لدى RE/MAX DU CARTIER وبمكاتبها الستة في مونتريال ولافال. وتضيف شبكة RE/MAX du Cartier Bonjour عشرة مكاتب في منطقة اللورانتيد، حيث يبقى اللقاء ممكناً.
+          بوصفي وسيطاً في RE/MAX DU CARTIER، يمكنني استقبالك في أي من مكاتبنا الـ16 المنتشرة في مونتريال، لافال، الضفة الشمالية، الضفة الجنوبية، منطقة اللورانتيد ولانوديير.
         {{ else if $isEs }}
-          Soy corredor de RE/MAX DU CARTIER y de sus 6 oficinas de Montréal y Laval. La red RE/MAX du Cartier Bonjour añade 10 en los Laurentides, donde un encuentro sigue siendo posible.
+          Como corredor de RE/MAX DU CARTIER, puedo recibirle en cualquiera de nuestras 16 oficinas en Montréal, Laval, la Costa Norte, la Costa Sur, los Laurentides y Lanaudière.
         {{ else }}
-          I am a broker with RE/MAX DU CARTIER and its 6 offices in Montreal and Laval. The RE/MAX du Cartier Bonjour network adds 10 more in the Laurentians, where a meeting is also possible.
+          As a RE/MAX DU CARTIER broker, I can welcome you in any of our 16 offices across Montreal, Laval, the North Shore, the South Shore, the Laurentians and Lanaudière.
         {{ end }}
       </p>
     </div>
