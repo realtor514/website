@@ -3,7 +3,7 @@ title: "Impuestos municipales en Montreal y Laval"
 date: 2026-05-25
 lastmod: 2026-09-19
 category: "Financiamiento"
-description: "Evaluación municipal, tasa, impuesto escolar, impuesto de bienvenida y el prorrateo ante el notario. Lo que pagará realmente cada año y los dos errores de presupuesto más frecuentes."
+description: "Impuestos municipales en Montreal y Laval: evaluación municipal, tasa, impuesto escolar y prorrateo ante el notario. Lo que pagará realmente cada año."
 image: "images/articles/property-tax-explained/featured.jpg"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Guía del Comprador | Georges Matar - Corredor Inmobiliario"
-description: "Guía completa para comprar una propiedad en el Gran Montréal. Proceso paso a paso, calculadoras y acompañamiento de Georges Matar, corredor inmobiliario residencial, RE/MAX DU CARTIER."
+description: "Guía del comprador en el Gran Montréal: proceso paso a paso, calculadoras y acompañamiento de Georges Matar, corredor inmobiliario residencial en RE/MAX."
 type: buyer
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "El mito del 20 % de entrada: lo que frena a los compradores"
 date: 2026-07-25
 lastmod: 2026-09-21
 category: "Financiamiento"
-description: "La entrada mínima real en Quebec, lo que cuesta de verdad el seguro CMHC, el QST que hay que pagar en efectivo al cierre, y cómo saber si esperar le conviene o le cuesta."
+description: "El mito del 20 % de entrada: el mínimo real en Quebec, el costo del seguro CMHC, el QST pagado en efectivo al cierre y si esperar le conviene."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"
 ---
 

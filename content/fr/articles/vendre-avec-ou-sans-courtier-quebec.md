@@ -4,7 +4,7 @@ date: 2026-05-09
 lastmod: 2026-09-21
 translationKey: "article-vendre-sans-courtier"
 category: "Guide du vendeur"
-description: "C'est la question numéro un des vendeurs québécois. Voici les vrais chiffres, ce que vous économisez réellement, ce que vous prenez comme risque, et dans quels cas la vente sans courtier a du sens."
+description: "Vendre avec ou sans courtier au Québec: les vrais chiffres, ce que vous économisez, le risque que vous prenez et les cas où vendre sans courtier a du sens."
 image: "images/articles/selling-without-realtor-quebec/featured.jpg"
 ---
 

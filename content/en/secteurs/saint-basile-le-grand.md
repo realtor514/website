@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Broker in Saint-Basile-le-Grand"
 h1: "Real Estate Broker in Saint-Basile-le-Grand"
-description: "Residential real estate broker in Saint-Basile-le-Grand: central district, station district, Domaine du Lac. Buying, selling and free evaluation. (438) 372-0102."
+description: "Real estate broker in Saint-Basile-le-Grand: central district, station district, Domaine du Lac. Buying, selling and a free evaluation of your property."
 city: "Saint-Basile-le-Grand"
 url: "/en/real-estate-broker/saint-basile-le-grand/"
 translationKey: "secteur-saint-basile-le-grand"

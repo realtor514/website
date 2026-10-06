@@ -3,7 +3,7 @@ title: "Su Renovación No Añadirá lo que Cree al Valor de su Vivienda"
 date: 2026-07-20
 lastmod: 2026-09-23
 category: "Guía del Vendedor"
-description: "Lo que se recupera antes de una venta y lo que no, y luego las reglas de Quebec: declaraciones del vendedor, permiso municipal, licencia RBQ, garantías del Código Civil, regla de los 365 días y TPS."
+description: "Renovación y valor de su vivienda: lo que se recupera antes de una venta y lo que no, y las reglas de Quebec, del permiso municipal a la licencia RBQ."
 image: "images/articles/renovations-dont-add-value/featured.jpg"
 draft: false
 ---

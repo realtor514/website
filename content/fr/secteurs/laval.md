@@ -1,7 +1,7 @@
 ---
 title: "Courtier immobilier à Laval"
 h1: "Courtier immobilier à Laval"
-description: "Courtier immobilier résidentiel à Laval: Duvernay, Chomedey, Sainte-Rose, Vimont, Fabreville. Achat, vente, investissement. Bureau RE/MAX Du Cartier à Duvernay. (438) 372-0102."
+description: "Courtier immobilier à Laval: Duvernay, Chomedey, Sainte-Rose, Vimont, Fabreville. Achat, vente et investissement, avec bureau RE/MAX Du Cartier à Duvernay."
 city: "Laval"
 url: "/courtier-immobilier/laval/"
 translationKey: "secteur-laval"

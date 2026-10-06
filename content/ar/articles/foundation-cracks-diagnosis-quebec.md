@@ -4,7 +4,7 @@ date: 2026-09-13
 lastmod: 2026-09-13
 translationKey: "article-foundation-cracks-expertise"
 category: "دليل عملي"
-description: "تشقق الأساس في كيبيك: الطين، والصرف، والبيريت، والبيروتيت، ومن يحدد السبب، وأي رجوع بحسب عمر المبنى."
+description: "تشقق الأساس في كيبيك: الطين، والصرف، والبيريت، والبيروتيت، ومن يحدد السبب وبأي مستند، وأي رجوع ممكن بحسب عمر المبنى، ومتى يجب إخطار البائع."
 image: "images/articles/fissures-affaissement-fondation-expertise-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

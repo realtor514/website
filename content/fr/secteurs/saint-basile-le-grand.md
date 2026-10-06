@@ -1,7 +1,7 @@
 ---
 title: "Courtier immobilier à Saint-Basile-le-Grand"
 h1: "Courtier immobilier à Saint-Basile-le-Grand"
-description: "Courtier immobilier résidentiel à Saint-Basile-le-Grand: quartier central, quartier de la Gare, Domaine du Lac. Achat, vente et évaluation gratuite. (438) 372-0102."
+description: "Courtier immobilier à Saint-Basile-le-Grand: quartier central, quartier de la Gare, Domaine du Lac. Achat, vente et évaluation gratuite de votre propriété."
 city: "Saint-Basile-le-Grand"
 url: "/courtier-immobilier/saint-basile-le-grand/"
 translationKey: "secteur-saint-basile-le-grand"

@@ -1,7 +1,7 @@
 ---
 title: "Corredor inmobiliario en Laval"
 h1: "Corredor inmobiliario en Laval"
-description: "Corredor inmobiliario residencial en Laval: Duvernay, Chomedey, Sainte-Rose, Vimont, Fabreville. Compra, venta, inversión. Oficina RE/MAX Du Cartier en Duvernay. (438) 372-0102."
+description: "Corredor inmobiliario en Laval: Duvernay, Chomedey, Sainte-Rose, Vimont, Fabreville. Compra, venta e inversión, con oficina RE/MAX Du Cartier en Duvernay."
 city: "Laval"
 url: "/es/corredor-inmobiliario/laval/"
 translationKey: "secteur-laval"

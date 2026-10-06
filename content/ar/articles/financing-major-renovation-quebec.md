@@ -4,7 +4,7 @@ date: 2026-09-01
 lastmod: 2026-09-01
 translationKey: "article-budget-grosse-renovation"
 category: "تمويل"
-description: "تمويل تجديد كبير في كيبيك: مصادر الأموال الأربعة، وجدول الصرف، والكفالة المشتركة، والرهن القانوني للبناء."
+description: "تمويل تجديد كبير في كيبيك: مصادر الأموال الأربعة وسقوفها، وجدول الصرف، والكفالة المشتركة، والرهن القانوني للبناء، وما يتركه لك القانون يوم ينقص المال."
 image: "images/articles/budget-grosse-renovation-financement-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

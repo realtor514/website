@@ -4,7 +4,7 @@ date: 2026-05-09
 lastmod: 2026-09-21
 translationKey: "article-vendre-sans-courtier"
 category: "Guía del Vendedor"
-description: "Es la pregunta número uno de los vendedores en Quebec. Aquí están las cifras reales, lo que usted ahorra de verdad, el riesgo que asume y los casos en que vender sin corredor tiene sentido."
+description: "Vender con o sin corredor en Quebec: las cifras reales, lo que usted ahorra, el riesgo que asume y los casos en que vender sin corredor tiene sentido."
 image: "images/articles/selling-without-realtor-quebec/featured.jpg"
 ---
 

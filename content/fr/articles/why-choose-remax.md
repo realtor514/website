@@ -3,7 +3,7 @@ title: "Bannière immobilière au Québec : le rôle"
 date: 2026-05-03
 lastmod: 2026-10-01
 category: "Immobilier 101"
-description: "Permis, fonds d'indemnisation, formulaires obligatoires : ce qui est identique chez tous les courtiers du Québec, et ce que les programmes RE/MAX ajoutent vraiment."
+description: "Bannière immobilière au Québec: permis, fonds d'indemnisation, formulaires, ce qui est identique partout, et ce que les programmes RE/MAX ajoutent."
 image: "images/articles/why-choose-remax/featured.jpg"
 ---
 

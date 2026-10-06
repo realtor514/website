@@ -1,0 +1,21 @@
+{{- /* Numero de la page courante d une liste paginee, et nombre total.
+       Les pages /articles/page/2/ a /7/ portaient le titre et la description
+       de la page 1, dans les 4 langues: 24 doublons que Search Console
+       signale et que Google departage mal. Le gabarit et seo.html lisent
+       tous les deux ce partiel, pour que le <title> et le balisage ne puissent
+       pas diverger. `.Paginator` n est lu que la ou le gabarit l appelle deja,
+       c est une erreur ailleurs. */ -}}
+{{- $n := 1 -}}
+{{- $total := 1 -}}
+{{- if and .IsNode (in (slice "articles" "listings") .Section) -}}
+  {{- with .Paginator -}}{{- $n = .PageNumber -}}{{- $total = .TotalPages -}}{{- end -}}
+{{- end -}}
+{{- $mot := dict "fr" "page" "en" "page" "es" "página" "ar" "صفحة" -}}
+{{- $sur := dict "fr" "sur" "en" "of" "es" "de" "ar" "من" -}}
+{{- $titre := "" -}}
+{{- $desc := "" -}}
+{{- if gt $n 1 -}}
+  {{- $titre = printf ", %s %d" (index $mot .Lang) $n -}}
+  {{- $desc = printf "%s %d %s %d. " (index $mot .Lang | strings.FirstUpper) $n (index $sur .Lang) $total -}}
+{{- end -}}
+{{- return (dict "n" $n "total" $total "titre" $titre "desc" $desc) -}}

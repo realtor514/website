@@ -1,5 +1,5 @@
 ---
-title: "Vue d'ensemble"
+title: "Mes avantages RE/MAX pour acheteurs et vendeurs"
 description: "Quatre programmes exclusifs RE/MAX Québec : Tranquilli-T, Intégri-T, Coproprié-T et Mes rabais RE/MAX. Trois sont sans frais, la garantie Intégri-T est payante."
 draft: false
 ---

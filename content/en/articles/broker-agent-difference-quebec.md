@@ -3,7 +3,7 @@ title: "Realtor, Broker, Agent in Quebec"
 date: 2026-07-21
 lastmod: 2026-08-31
 category: "Real Estate 101"
-description: "In Quebec only one of those three words corresponds to a licence. Here is what each term actually means, what protections come with the licence, and how to verify one in thirty seconds."
+description: "Realtor, broker, agent in Quebec: only one of these words corresponds to a licence. What each term means, what the licence protects, and how to check it."
 image: "images/articles/broker-agent-difference-quebec/featured.jpg"
 ---
 

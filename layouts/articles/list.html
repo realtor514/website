@@ -36,7 +36,7 @@
 
     {{ if $paginator.Pages }}
     <div class="articles-grid">
-      {{ range $paginator.Pages }}{{ partial "article-card.html" . }}{{ end }}
+      {{ range $paginator.Pages }}{{ partial "article-card.html" (dict "page" . "h" 2) }}{{ end }}
     </div>
     {{ else }}
     <p class="text-center" style="padding:60px 0;color:#6b7280">

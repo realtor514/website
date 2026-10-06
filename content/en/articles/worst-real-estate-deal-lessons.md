@@ -3,7 +3,7 @@ title: "When a Quebec Deal Goes Wrong: Seven Cases"
 date: 2026-05-28
 lastmod: 2026-09-23
 category: "Real Estate 101"
-description: "Legal hypothec, co-ownership file, certificate of location, inspection, financing, latent defects, deposit: the seven places a Quebec transaction breaks, and the written rule that protects it."
+description: "When a Quebec deal goes wrong: legal hypothec, co-ownership file, inspection, financing, latent defects, deposit, and the written rule that protects it."
 image: "images/articles/worst-real-estate-deal-lessons/featured.jpg"
 ---
 

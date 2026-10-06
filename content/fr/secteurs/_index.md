@@ -1,6 +1,6 @@
 ---
 title: "Courtier immobilier à Laval, Montréal, Rive-Nord et Rive-Sud"
-description: "Courtier immobilier résidentiel dans 30 villes: Laval, Montréal, Longueuil, Brossard, Terrebonne, Boucherville, Mascouche, Châteauguay et plus. Achat, vente, investissement."
+description: "Courtier immobilier à Laval, Montréal, Rive-Nord et Rive-Sud: 30 villes, dont Longueuil, Brossard et Terrebonne. Achat, vente, investissement."
 url: "/courtier-immobilier/"
 translationKey: "secteurs-hub"
 ---

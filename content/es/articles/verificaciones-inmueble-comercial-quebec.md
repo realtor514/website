@@ -4,7 +4,7 @@ date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-immeuble-commercial"
 category: "Inversión"
-description: "Licencia del corredor, contratos de arrendamiento, estudio fase I, zonificación, tasa no residencial, TPS y TVQ: las verificaciones antes de comprar un inmueble comercial."
+description: "Comprar un inmueble comercial en Quebec: licencia del corredor, arrendamientos, estudio fase I, zonificación, tasa no residencial, TPS y TVQ."
 image: "images/articles/verifications-immeuble-commercial-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

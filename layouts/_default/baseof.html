@@ -7,10 +7,17 @@
        Google, environ 60 caracteres. Ajoute sans condition, il poussait 347
        titres au-dela: Google les tronquait, et le nom de marque, place en
        fin, disparaissait justement des resultats. */}}
-  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ if le (add (strings.RuneCount .Title) 16) 60 }} | Georges Matar{{ end }}{{ end }}</title>
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-  <meta property="og:title"       content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
-  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  {{ $pn := partial "page-num.html" . }}
+  {{/* `seo_title` en frontmatter remplace le titre dans Google et les
+       partages sans toucher au h1 de la page: "Contact" disait peu a un
+       moteur, "Parlons de votre projet" reste un bon titre visible. */}}
+  {{ $titre := printf "%s%s" (.Params.seo_title | default .Title) $pn.titre }}
+  {{ $desc := printf "%s%s" $pn.desc (.Description | default .Site.Params.description) }}
+  {{ if gt $pn.n 1 }}{{ $desc = $desc | truncate 158 }}{{ end }}
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ $titre }}{{ if le (add (strings.RuneCount $titre) 16) 60 }} | Georges Matar{{ end }}{{ end }}</title>
+  <meta name="description" content="{{ $desc }}">
+  <meta property="og:title"       content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ $titre }}{{ end }}">
+  <meta property="og:description" content="{{ $desc }}">
   <meta property="og:type"        content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url"         content="{{ .Permalink }}">
   {{/* Sur /articles/page/2/ et suivantes, `.Permalink` renvoie l adresse de
@@ -33,11 +40,8 @@
   <link rel="icon" type="image/png" sizes="96x96" href="{{ "favicon-96.png" | relURL }}">
   <link rel="icon" type="image/png" sizes="192x192" href="{{ "favicon-192.png" | relURL }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Noto+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
-  <link rel="stylesheet" href="{{ "css/enhance.css" | relURL }}">
+  {{ partial "fonts.html" . }}
+  {{ partial "styles.html" . }}
 </head>
 <body>
 
@@ -208,8 +212,29 @@
 
 <script>
   (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, [L, namespace, ...Array.prototype.slice.call(ar, 2)]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
-  Cal("init", {origin:"https://cal.com"});
-  Cal("ui", {"styles":{"branding":{"brandColor":"#FF1200"}},"hideEventTypeDetails":false,"layout":"month_view"});
+  // Cal.com ne se charge qu au premier clic sur un bouton de reservation.
+  // Appele ici sans condition, Cal("init") telechargeait embed.js sur chaque
+  // page, au chargement, pour un bouton que la plupart des visiteurs ne
+  // touchent pas: du JavaScript tiers qui pese sur les Core Web Vitals.
+  // Le premier clic est intercepte et rejoue en Cal("modal"), que la file
+  // d attente du stub garde jusqu a l arrivee du script. Les clics suivants
+  // sont geres par embed.js lui-meme. Pas de stopPropagation: le suivi
+  // Analytics de analytics.html voit toujours le clic.
+  (function () {
+    var demarre = false;
+    document.addEventListener('click', function (e) {
+      if (demarre) return;
+      var b = e.target.closest ? e.target.closest('[data-cal-link]') : null;
+      if (!b) return;
+      e.preventDefault();
+      demarre = true;
+      Cal("init", {origin:"https://cal.com"});
+      Cal("ui", {"styles":{"branding":{"brandColor":"#FF1200"}},"hideEventTypeDetails":false,"layout":"month_view"});
+      var config = {};
+      try { config = JSON.parse(b.getAttribute('data-cal-config') || '{}'); } catch (err) {}
+      Cal("modal", { calLink: b.getAttribute('data-cal-link'), config: config });
+    });
+  })();
 </script>
 
 </body>

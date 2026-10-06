@@ -1,5 +1,6 @@
 ---
 title: "Mis servicios"
+seo_title: "Servicios de corredor inmobiliario en Laval y Montreal"
 description: "Venta, compra, estimación del valor de mercado, primeros compradores e inmuebles de renta, en Laval, Montreal y 38 ciudades de la Costa Norte y la Costa Sur."
 url: "/es/mis-servicios/"
 translationKey: "services"

@@ -4,7 +4,7 @@ date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-processus-mise-en-vente"
 category: "Guía del Vendedor"
-description: "Contrat de courtage, declaraciones del vendedor, certificat de localisation, promesse d'achat, notaire: el proceso de venta de una casa en Quebec, etapa por etapa."
+description: "Proceso de venta de una casa en Quebec: contrat de courtage, declaraciones del vendedor, certificat de localisation, promesse d'achat y notaire."
 image: "images/articles/processus-mise-en-vente-etapes-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

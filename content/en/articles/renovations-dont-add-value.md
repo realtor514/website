@@ -3,7 +3,7 @@ title: "Renovations and Your Home's Value"
 date: 2026-07-20
 lastmod: 2026-09-23
 category: "Seller's Guide"
-description: "What pays for itself before a sale and what does not, then the Quebec rules: seller's declarations, municipal permit, RBQ licence, Civil Code warranties, the 365-day rule and GST."
+description: "Renovations and your home's value: what pays for itself before a sale and what does not, then the Quebec rules, from municipal permit to RBQ licence."
 image: "images/articles/renovations-dont-add-value/featured.jpg"
 draft: false
 ---

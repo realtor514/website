@@ -737,6 +737,7 @@ input:focus, select:focus, textarea:focus {
 }
 .about-slideshow__dot {
   width: 7px; height: 7px;
+  box-sizing: content-box; padding: 9px; background-clip: content-box;
   transition: transform .35s var(--ease-spring), background .3s;
 }
 .about-slideshow__dot.active { transform: scale(1.45); }

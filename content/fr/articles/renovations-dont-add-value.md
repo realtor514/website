@@ -3,7 +3,7 @@ title: "Rénovations et valeur de votre maison"
 date: 2026-07-20
 lastmod: 2026-09-23
 category: "Guide du vendeur"
-description: "Ce qui se récupère avant une vente et ce qui ne se récupère pas, puis les règles québécoises : Déclarations du vendeur, permis municipal, licence RBQ, garanties du Code civil, règle des 365 jours et TPS."
+description: "Rénovations et valeur de votre maison: ce qui se récupère avant une vente et ce qui ne se récupère pas, puis les règles du Québec, permis et licence RBQ."
 image: "images/articles/renovations-dont-add-value/featured.jpg"
 draft: false
 ---

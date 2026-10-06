@@ -4,7 +4,7 @@ date: 2026-08-30
 lastmod: 2026-08-30
 translationKey: "article-bruit-maison-condo"
 category: "Buyer's Guide"
-description: "Airborne or impact noise, year of construction, the floor covering clause in the declaration of co-ownership, five tests during the visit, and the real recourse in Quebec."
+description: "Noise and soundproofing in a Quebec condo: airborne or impact noise, year built, the floor covering clause, five visit tests and your real recourse."
 image: "images/articles/bruit-maison-condo-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

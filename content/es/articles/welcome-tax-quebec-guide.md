@@ -4,7 +4,7 @@ date: 2026-06-05
 lastmod: 2026-09-21
 translationKey: "article-taxe-bienvenue"
 category: "Guía del Comprador"
-description: "Los derechos de mutación sorprenden cada año a miles de compradores en Quebec, porque la factura llega meses después de la compra. Así se calcula el monto y así se puede prever."
+description: "Impuesto de bienvenida en Quebec: cómo se calculan los derechos de mutación, quién los paga y cómo prever una factura que llega meses después de la compra."
 image: "images/articles/welcome-tax-quebec-guide/featured.jpg"
 ---
 

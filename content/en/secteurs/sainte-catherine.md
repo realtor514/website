@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Broker in Sainte-Catherine"
 h1: "Real Estate Broker in Sainte-Catherine"
-description: "Residential real estate broker in Sainte-Catherine: Kateri sector, boulevard Marie-Victorin, the riverfront. Buying, selling and free evaluation. (438) 372-0102."
+description: "Real estate broker in Sainte-Catherine: Kateri sector, boulevard Marie-Victorin, the riverfront. Buying, selling and a free evaluation of your property."
 city: "Sainte-Catherine"
 url: "/en/real-estate-broker/sainte-catherine/"
 translationKey: "secteur-sainte-catherine"

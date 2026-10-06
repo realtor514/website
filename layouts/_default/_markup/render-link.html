@@ -1,0 +1,32 @@
+{{- /* Copie du gabarit de liens interne de Hugo 0.155, plus un cas.
+       Hugo active ce gabarit par defaut sur les sites multilingues, et Go le
+       passe au filtre d URL de html/template, qui n accepte que http, https et
+       mailto. Un lien Markdown vers tel: sortait donc en href="#ZgotmplZ": le
+       numero affiche sur les quatre pages de remerciement ne composait rien.
+       Les schemas tel: et sms: sont marques surs, le reste est inchange. */ -}}
+{{- $u := urls.Parse .Destination -}}
+{{- $href := $u.String -}}
+{{- if in (slice "tel" "sms") $u.Scheme -}}
+<a href="{{ $href | safeURL }}" {{- with .Title }} title="{{ . }}" {{- end }}>{{ .Text }}</a>
+{{- else -}}
+{{- if strings.HasPrefix $u.String "#" -}}
+  {{- $href = printf "%s#%s" .PageInner.RelPermalink $u.Fragment -}}
+{{- else if and $href (not $u.IsAbs) -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path -}}
+  {{- with or
+    ($.PageInner.GetPage $path)
+    ($.PageInner.Resources.Get $path)
+    (resources.Get $path)
+  -}}
+    {{- $href = .RelPermalink -}}
+    {{- with $u.RawQuery -}}
+      {{- $href = printf "%s?%s" $href . -}}
+    {{- end -}}
+    {{- with $u.Fragment -}}
+      {{- $href = printf "%s#%s" $href . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $href }}" {{- with .Title }} title="{{ . }}" {{- end }}>{{ .Text }}</a>
+{{- end -}}
+{{- /**/ -}}

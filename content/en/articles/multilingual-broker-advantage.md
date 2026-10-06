@@ -3,7 +3,7 @@ title: "Language and Your Transaction in Quebec"
 date: 2026-07-05
 lastmod: 2026-09-23
 category: "Real Estate 101"
-description: "OACIQ forms, section 55.1 of the Charter, the notarial deed, the land register, the lender's documents: which language each document is drawn up in, and what changes when your broker speaks yours."
+description: "Language and your transaction in Quebec: OACIQ forms, section 55.1 of the Charter, the notarial deed, and what changes when your broker speaks yours."
 image: "images/articles/multilingual-broker-advantage/featured.jpg"
 ---
 

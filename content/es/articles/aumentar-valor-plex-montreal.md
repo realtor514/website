@@ -4,7 +4,7 @@ date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-valeur-plex"
 category: "Inversión"
-description: "Aumentar el valor de un plex: lo que permite la fixation de loyer del TAL desde 2026, las obras que se recuperan en el alquiler y los documentos que prueban el ingreso."
+description: "Aumentar el valor de un plex en Montreal o Laval: fixation de loyer del TAL desde 2026, obras recuperables en el alquiler y pruebas del ingreso."
 image: "images/articles/maximiser-valeur-plex-montreal/featured.jpg"
 needs_expert_review: true
 draft: false

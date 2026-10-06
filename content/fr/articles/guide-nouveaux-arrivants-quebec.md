@@ -4,7 +4,7 @@ date: 2026-07-16
 lastmod: 2026-09-21
 translationKey: "article-guide-nouveaux-arrivants"
 category: "Guide de l'acheteur"
-description: "Acheter une propriété au Québec en tant que nouvel arrivant est tout à fait possible, mais le système fonctionne différemment de la plupart des pays. Ce guide explique tout ce que vous devez savoir, en langage simple."
+description: "Nouveaux arrivants: acheter au Québec est tout à fait possible, mais le système diffère de la plupart des pays. Ce guide explique tout, en langage simple."
 image: "images/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/featured.jpg"
 draft: false
 ---

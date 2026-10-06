@@ -4,7 +4,7 @@ date: 2026-07-29
 lastmod: 2026-09-21
 translationKey: "article-guide-hypotheque"
 category: "Financement"
-description: "Le processus hypothécaire est plus complexe que votre banque le laisse paraître, et plus simple que ce qu'internet vous fait croire. Voici le guide complet et honnête pour les premiers acheteurs au Québec."
+description: "Hypothèque du premier acheteur au Québec: plus complexe que ne le laisse paraître votre banque, plus simple qu'on le croit. Le guide complet et honnête."
 image: "images/articles/guide-hypotheque-premier-acheteur-quebec/featured.jpg"
 draft: false
 ---

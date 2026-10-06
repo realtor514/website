@@ -4,7 +4,7 @@ date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-valeur-terrain"
 category: "Inversión"
-description: "El rôle d'évaluation ya separa el terreno del edificio. Qué dice ese ratio, qué permite realmente la zonificación, droits acquis, subdivisión y servidumbres en Quebec."
+description: "Valor del terreno y zonificación en Quebec: el rôle d'évaluation separa terreno y edificio. Qué dice ese ratio, droits acquis, subdivisión y servidumbres."
 image: "images/articles/valeur-terrain-zonage-quebec/featured.jpg"
 draft: false
 ---

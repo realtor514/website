@@ -1,7 +1,7 @@
 ---
 title: "Courtier immobilier à Montréal"
 h1: "Courtier immobilier à Montréal"
-description: "Courtier immobilier résidentiel à Montréal: Ahuntsic, Villeray, Rosemont, Saint-Léonard, Rivière-des-Prairies, Anjou. Achat, vente, plex et investissement. (438) 372-0102."
+description: "Courtier immobilier à Montréal: Ahuntsic, Villeray, Rosemont, Saint-Léonard, Rivière-des-Prairies, Anjou. Achat, vente, plex et immeubles d'investissement."
 city: "Montréal"
 url: "/courtier-immobilier/montreal/"
 translationKey: "secteur-montreal"

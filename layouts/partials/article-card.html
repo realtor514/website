@@ -1,19 +1,27 @@
+{{/* Recoit la page de l article, ou un dict {page, h}. Le niveau du titre
+     suit la page hote: h3 sous le h2 d une section (accueil, "Plus
+     d articles"), h2 sur la liste des articles, ou les cartes viennent
+     directement sous le h1. En h3 partout, la liste sautait un niveau sur 28
+     pages, et Google lit la hierarchie des titres pour comprendre la page. */}}
+{{ $p := . }}
+{{ $h := 3 }}
+{{ if reflect.IsMap . }}{{ $p = .page }}{{ $h = .h | default 3 }}{{ end }}
 <article class="article-card">
-  <a href="{{ .RelPermalink }}">
+  <a href="{{ $p.RelPermalink }}">
     <div class="article-card__image">
-      {{ with .Params.image }}
-        <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+      {{ with $p.Params.image }}
+        {{ partial "img.html" (dict "src" . "alt" $p.Title "sizes" "(max-width: 768px) 92vw, 380px" "widths" (slice 480 800)) }}
       {{ else }}
-        <img src="{{ "images/article-placeholder.jpg" | relURL }}" alt="{{ .Title }}" loading="lazy">
+        <img src="{{ "images/article-placeholder.jpg" | relURL }}" alt="{{ $p.Title }}" loading="lazy" decoding="async">
       {{ end }}
     </div>
     <div class="article-card__body">
-      {{ with .Params.category }}<span class="article-card__category">{{ . }}</span>{{ end }}
-      <h3 class="article-card__title">{{ .Title }}</h3>
-      <p class="article-card__excerpt">{{ .Summary | plainify | truncate 115 }}</p>
+      {{ with $p.Params.category }}<span class="article-card__category">{{ . }}</span>{{ end }}
+      {{ printf "<h%d class=\"article-card__title\">%s</h%d>" $h ($p.Title | htmlEscape) $h | safeHTML }}
+      <p class="article-card__excerpt">{{ $p.Summary | plainify | truncate 115 }}</p>
       <div class="article-card__meta">
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ partial "localized-date.html" . }}</time>
-        <span class="article-card__read-more">{{ if eq .Lang "fr" }}Lire la suite &rarr;{{ else if eq .Lang "ar" }}اقرأ المزيد &larr;{{ else if eq .Lang "es" }}Leer más &rarr;{{ else }}Read more &rarr;{{ end }}</span>
+        <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ partial "localized-date.html" $p }}</time>
+        <span class="article-card__read-more">{{ if eq $p.Lang "fr" }}Lire la suite &rarr;{{ else if eq $p.Lang "ar" }}اقرأ المزيد &larr;{{ else if eq $p.Lang "es" }}Leer más &rarr;{{ else }}Read more &rarr;{{ end }}</span>
       </div>
     </div>
   </a>

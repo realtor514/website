@@ -3,7 +3,7 @@ title: "La marca inmobiliaria en Quebec"
 date: 2026-05-03
 lastmod: 2026-10-01
 category: "Inmobiliaria 101"
-description: "Licencia, fondo de indemnización, formularios obligatorios: lo que es idéntico con todos los corredores de Quebec, y lo que los programas de RE/MAX añaden de verdad."
+description: "La marca inmobiliaria en Quebec: licencia, fondo de indemnización y formularios son idénticos con todo corredor. Lo que añaden los programas RE/MAX."
 image: "images/articles/why-choose-remax/featured.jpg"
 ---
 

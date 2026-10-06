@@ -1,7 +1,7 @@
 ---
 title: "Corredor inmobiliario en Sainte-Catherine"
 h1: "Corredor inmobiliario en Sainte-Catherine"
-description: "Corredor inmobiliario residencial en Sainte-Catherine: sector Kateri, boulevard Marie-Victorin, orilla del río. Compra, venta y evaluación gratuita. (438) 372-0102."
+description: "Corredor inmobiliario en Sainte-Catherine: sector Kateri, boulevard Marie-Victorin, orilla del río. Compra, venta y evaluación gratuita de su propiedad."
 city: "Sainte-Catherine"
 url: "/es/corredor-inmobiliario/sainte-catherine/"
 translationKey: "secteur-sainte-catherine"

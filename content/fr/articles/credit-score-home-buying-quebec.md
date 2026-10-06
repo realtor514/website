@@ -3,7 +3,7 @@ title: "Cote de crédit et achat d'une propriété"
 date: 2026-05-17
 lastmod: 2026-09-21
 category: "Guide de l'acheteur"
-description: "Le minimum de 600 exigé pour un prêt assuré, les cinq facteurs qui font votre cote, ce qui se corrige en 30 jours et ce qui prend des années, et le piège du dossier mince très répandu au Québec."
+description: "Cote de crédit et achat d'une propriété: le minimum de 600 pour un prêt assuré, les cinq facteurs de la cote et ce qui se corrige en 30 jours."
 image: "images/articles/credit-score-home-buying-quebec/featured.jpg"
 ---
 

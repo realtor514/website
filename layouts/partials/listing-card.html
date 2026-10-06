@@ -2,7 +2,7 @@
   <a href="{{ .RelPermalink }}">
     <div class="listing-card__image">
       {{ with .Params.images }}
-        <img src="{{ index . 0 | relURL }}" alt="{{ $.Title }}" loading="lazy">
+        {{ partial "img.html" (dict "src" (index . 0) "alt" $.Title "sizes" "(max-width: 768px) 92vw, 380px" "widths" (slice 480 800)) }}
       {{ else }}
         <img src="{{ "images/property-placeholder.jpg" | relURL }}" alt="{{ .Title }}" loading="lazy">
       {{ end }}

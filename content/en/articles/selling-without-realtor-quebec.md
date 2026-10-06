@@ -4,7 +4,7 @@ date: 2026-05-09
 lastmod: 2026-09-21
 translationKey: "article-vendre-sans-courtier"
 category: "Seller's Guide"
-description: "It is the number one question Quebec sellers ask. Here are the real numbers, what you actually save, what risk you take on, and the cases where selling privately genuinely makes sense."
+description: "Selling with or without a realtor in Quebec: the real numbers, what you actually save, the risk you take on, and when selling privately makes sense."
 image: "images/articles/selling-without-realtor-quebec/featured.jpg"
 ---
 

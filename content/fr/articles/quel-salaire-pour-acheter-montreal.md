@@ -4,7 +4,7 @@ date: 2026-05-06
 lastmod: 2026-09-21
 translationKey: "article-quel-salaire-acheter"
 category: "Financement"
-description: "La question n'est pas seulement le salaire. Voici comment les prêteurs calculent réellement votre capacité d'emprunt au Québec, et pourquoi deux personnes au même revenu n'obtiennent pas le même montant."
+description: "Quel salaire pour acheter à Montréal ou à Laval: comment les prêteurs calculent votre capacité d'emprunt, et pourquoi le salaire seul ne suffit pas."
 image: "images/articles/what-salary-to-buy-montreal/featured.jpg"
 ---
 

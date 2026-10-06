@@ -4,7 +4,7 @@ date: 2026-05-06
 lastmod: 2026-09-21
 translationKey: "article-quel-salaire-acheter"
 category: "Financiamiento"
-description: "La pregunta no es solo el salario. Así calculan realmente los prestamistas su capacidad de endeudamiento en Quebec, y por qué dos personas con el mismo ingreso no obtienen el mismo monto."
+description: "Qué salario para comprar en Montreal o Laval: cómo calculan los prestamistas su capacidad de endeudamiento, y por qué el salario solo no basta."
 image: "images/articles/what-salary-to-buy-montreal/featured.jpg"
 ---
 

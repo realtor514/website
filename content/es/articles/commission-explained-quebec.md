@@ -3,7 +3,7 @@ title: "La comisión inmobiliaria en Quebec"
 date: 2026-06-16
 lastmod: 2026-09-21
 category: "Inmobiliaria 101"
-description: "Ninguna ley fija una tarifa en Quebec. Aquí está quién paga la comisión, cómo se reparte, los impuestos que casi nadie anticipa y las preguntas que debe hacer antes de firmar."
+description: "La comisión inmobiliaria en Quebec: ninguna ley fija la tarifa. Quién la paga, cómo se reparte, los impuestos que casi nadie anticipa y qué preguntar."
 image: "images/articles/commission-explained-quebec/featured.jpg"
 ---
 

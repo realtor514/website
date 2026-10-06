@@ -1,7 +1,7 @@
 ---
 title: "Corredor inmobiliario en Saint-Basile-le-Grand"
 h1: "Corredor inmobiliario en Saint-Basile-le-Grand"
-description: "Corredor inmobiliario residencial en Saint-Basile-le-Grand: barrio central, barrio de la Estación, Domaine du Lac. Compra, venta y evaluación gratuita. (438) 372-0102."
+description: "Corredor inmobiliario en Saint-Basile-le-Grand: barrio central, barrio de la Estación, Domaine du Lac. Compra, venta y evaluación gratuita de su propiedad."
 city: "Saint-Basile-le-Grand"
 url: "/es/corredor-inmobiliario/saint-basile-le-grand/"
 translationKey: "secteur-saint-basile-le-grand"

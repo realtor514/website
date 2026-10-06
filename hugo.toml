@@ -826,6 +826,25 @@ disableKinds = ["taxonomy", "term"]
 
   areasServed = ["Laval", "Montréal", "Longueuil", "Brossard", "Terrebonne", "Blainville", "Repentigny", "Boucherville", "Saint-Bruno-de-Montarville", "Chambly", "La Prairie", "Candiac", "Delson", "Saint-Jérôme", "Boisbriand", "Sainte-Thérèse", "Rosemère", "Mascouche", "Saint-Eustache", "Mirabel", "Sainte-Julie", "Varennes", "Châteauguay", "Saint-Constant", "Rive-Nord", "Rive-Sud", "Laurentides", "Lanaudière", "Montérégie", "Saint-Hubert", "Greenfield Park", "Sainte-Catherine", "Lorraine", "Carignan", "Saint-Basile-le-Grand", "Beloeil", "Mont-Saint-Hilaire"]
 
+# static/images est monte une deuxieme fois en assets/images: Hugo ne
+# traite que les images des assets, et c est ce qui permet au partiel
+# img.html d en produire des versions WebP reduites. Les fichiers restent
+# a leur place et sont toujours servis a leur adresse d origine. Declarer un
+# montage remplace celui de Hugo par defaut pour la meme cible: d ou la
+# premiere ligne, qui garde static/ publie tel quel.
+[module]
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "static/images"
+    target = "assets/images"
+  # Meme principe pour les feuilles de style: le partiel styles.html les
+  # fusionne et les minifie en un seul fichier.
+  [[module.mounts]]
+    source = "static/css"
+    target = "assets/css"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

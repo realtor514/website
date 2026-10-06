@@ -1,6 +1,6 @@
 ---
 title: "Affordability Calculator"
-description: "Find out how much home you can afford based on your income and debts."
+description: "Affordability calculator: the maximum home price you can afford based on your income, debts and down payment, with the Canadian mortgage stress test."
 tool: affordability
 draft: false
 ---

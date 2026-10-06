@@ -25,8 +25,13 @@
 </section>
 
 <div class="content-body">
+  {{/* Largeur et hauteur lues dans le fichier lui-meme. Sans elles, le
+       navigateur ne reservait aucune place a l image: le texte s affichait,
+       puis descendait d un bloc quand la photo arrivait. C est le decalage de
+       mise en page (CLS) que Google mesure dans les Core Web Vitals, sur les
+       632 articles. */}}
   {{ with .Params.image }}
-  <img src="{{ . | relURL }}" alt="{{ $.Title }}" style="width:100%;border-radius:12px;margin-bottom:32px">
+  {{ partial "img.html" (dict "src" . "alt" $.Title "sizes" "(max-width: 864px) calc(100vw - 64px), 736px" "loading" "eager" "fetchpriority" "high" "style" "width:100%;height:auto;border-radius:12px;margin-bottom:32px") }}
   {{ end }}
 
   {{ .Content }}
@@ -57,7 +62,7 @@
   <hr style="border:none;border-top:1px solid #e5e7eb;margin:48px 0">
 
   <div style="display:flex;align-items:center;gap:24px;background:#f8f7f4;border-radius:12px;padding:24px">
-    <img src="{{ "images/georges-matar.webp" | relURL }}" alt="Georges Matar"
+    <img src="{{ "images/georges-matar-160.webp" | relURL }}" alt="Georges Matar" width="68" height="68" loading="lazy" decoding="async"
          style="width:68px;height:68px;border-radius:50%;object-fit:cover;object-position:top center;flex-shrink:0">
     <div>
       <strong style="font-family:'Playfair Display',serif;font-size:1.05rem;color:#0d1b2a">{{ if $isAr }}جورج مطر{{ else }}Georges Matar{{ end }}</strong>

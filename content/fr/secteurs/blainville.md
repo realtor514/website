@@ -1,7 +1,7 @@
 ---
 title: "Courtier immobilier à Blainville"
 h1: "Courtier immobilier à Blainville"
-description: "Courtier immobilier résidentiel à Blainville et dans les Basses-Laurentides: Fontainebleau, Chante-Bois, Notre-Dame. Achat, vente, évaluation gratuite. (438) 372-0102."
+description: "Courtier immobilier à Blainville et dans les Basses-Laurentides: Fontainebleau, Chante-Bois, Notre-Dame. Achat, vente et évaluation gratuite."
 city: "Blainville"
 url: "/courtier-immobilier/blainville/"
 translationKey: "secteur-blainville"

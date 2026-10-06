@@ -3,7 +3,7 @@ title: "The 20% Down Payment Myth: Why It's Holding Buyers Back"
 date: 2026-07-25
 lastmod: 2026-09-21
 category: "Finance"
-description: "The real minimum down payment in Quebec, what CMHC insurance actually costs, the QST you have to pay in cash at closing, and how to tell whether waiting pays you or costs you."
+description: "The 20% down payment myth: the real minimum in Quebec, what CMHC insurance costs, the QST paid in cash at closing, and whether waiting pays or costs you."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-entrepreneur-rbq"
 category: "Practical Guide"
-description: "RBQ licence and sous-catégories, the contract, the holdback, the legal hypothec: how to choose a renovation contractor in Quebec without paying for the same work twice."
+description: "Choosing a renovation contractor in Quebec: RBQ licence and sous-catégories, the contract, the holdback and the legal hypothec, so you never pay twice."
 image: "images/articles/choisir-entrepreneur-renovation-rbq-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

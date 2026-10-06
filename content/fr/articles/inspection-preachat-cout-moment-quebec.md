@@ -4,7 +4,7 @@ date: 2026-07-15
 lastmod: 2026-09-21
 translationKey: "article-inspection-cout-moment"
 category: "Guide de l'acheteur"
-description: "Avant l'offre ou après? Qui paie? Combien? Voici les réponses aux questions que les acheteurs québécois posent le plus souvent au sujet de l'inspection, et l'erreur qui coûte le plus cher."
+description: "Inspection préachat au Québec: avant l'offre ou après, qui paie, combien. Les réponses aux questions fréquentes, et l'erreur qui coûte le plus cher."
 image: "images/articles/home-inspection-cost-timing-quebec/featured.jpg"
 ---
 

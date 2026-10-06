@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Broker in Laval"
 h1: "Real Estate Broker in Laval"
-description: "Residential real estate broker in Laval: Duvernay, Chomedey, Sainte-Rose, Vimont, Fabreville. Buying, selling, investing. RE/MAX Du Cartier office in Duvernay. (438) 372-0102."
+description: "Real estate broker in Laval: Duvernay, Chomedey, Sainte-Rose, Vimont, Fabreville. Buying, selling and investing, from the RE/MAX office in Duvernay."
 city: "Laval"
 url: "/en/real-estate-broker/laval/"
 translationKey: "secteur-laval"

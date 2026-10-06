@@ -144,8 +144,8 @@
 
         <!-- Consent -->
         <div class="network-consent">
-          <input type="checkbox" id="nf-consent" name="consent" required value="yes">
-          <p>
+          <input type="checkbox" id="nf-consent" name="consent" required value="yes" aria-labelledby="nf-consent-texte">
+          <p id="nf-consent-texte">
             {{ if $isFr }}
               En cochant cette case, vous acceptez de communiquer vos informations à Georges Matar, courtier immobilier agréé RE/MAX DU CARTIER. En soumettant, vous consentez également à recevoir des communications par courriel ou par téléphone concernant l'immobilier.
             {{ else if $isAr }}

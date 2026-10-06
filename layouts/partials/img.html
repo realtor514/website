@@ -1,0 +1,55 @@
+{{- /* Image responsive. Recoit un dict:
+       src      chemin sous static/, ex. "images/articles/x/featured.jpg"
+       alt      texte alternatif
+       sizes    largeur affichee, ex. "(max-width: 768px) 92vw, 400px"
+       widths   largeurs a produire, defaut 480, 800, 1200
+       class, style, loading (defaut lazy), fetchpriority: repris tels quels
+
+     Hugo produit une version WebP par largeur, et le navigateur prend la
+     plus petite qui couvre l ecran. Avant, chaque vignette chargeait la photo
+     en pleine taille: une page de 24 articles telechargeait des megaoctets
+     pour des cartes de 220 px de haut, et le portrait de l accueil, element
+     LCP, faisait 1600 px pour 372 px affiches sur un telephone.
+
+     L original n est ni deplace ni modifie: hugo.toml monte static/images
+     aussi comme assets/images, ce qui le rend lisible par Hugo, et les
+     versions reduites sont des fichiers de plus dans public/. Les photos de
+     proprietes restent donc a leur chemin exact (REGLE 4). Si le fichier est
+     introuvable ou n est pas une image traitable, la balise d origine sort
+     sans srcset. */ -}}
+{{- $src := strings.TrimPrefix "/" .src -}}
+{{- $img := resources.Get $src -}}
+{{- $widths := .widths | default (slice 480 800 1200) -}}
+{{- $loading := .loading | default "lazy" -}}
+{{- $set := slice -}}
+{{- $fallback := "" -}}
+{{- $w := 0 -}}
+{{- $h := 0 -}}
+{{- if and $img (in (slice "jpeg" "png" "webp") $img.MediaType.SubType) -}}
+  {{- $w = $img.Width -}}
+  {{- $h = $img.Height -}}
+  {{- range $widths -}}
+    {{- if le . $img.Width -}}
+      {{- $r := $img.Resize (printf "%dx webp q75" .) -}}
+      {{- $set = $set | append (printf "%s %dw" $r.RelPermalink .) -}}
+      {{- $fallback = $r.RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+  {{- /* Image plus etroite que la plus petite largeur demandee: une seule
+         version WebP a sa taille d origine. */ -}}
+  {{- if not $set -}}
+    {{- $r := $img.Resize (printf "%dx webp q75" $img.Width) -}}
+    {{- $fallback = $r.RelPermalink -}}
+  {{- end -}}
+{{- else -}}
+  {{- $fallback = $src | relURL -}}
+{{- end -}}
+<img src="{{ $fallback }}"
+  {{- with $set }} srcset="{{ delimit . ", " }}"{{ end }}
+  {{- with and $set $.sizes }} sizes="{{ . }}"{{ end }}
+  {{- if $w }} width="{{ $w }}" height="{{ $h }}"{{ end }} alt="{{ .alt }}"
+  {{- with .class }} class="{{ . }}"{{ end }}
+  {{- with .style }} style="{{ . | safeCSS }}"{{ end }}
+  {{- if ne $loading "eager" }} loading="{{ $loading }}"{{ end }}
+  {{- with .fetchpriority }} fetchpriority="{{ . }}"{{ end }} decoding="async">
+{{- /**/ -}}

@@ -4,7 +4,7 @@ date: 2026-06-21
 lastmod: 2026-10-02
 translationKey: "article-combien-temps-vendre"
 category: "Guía del Vendedor"
-description: "El plazo de venta depende mucho menos del mercado que de tres decisiones que usted controla. Aquí está el calendario realista, desde la primera llamada hasta la firma ante el notario."
+description: "Cuánto tiempo toma vender una casa en Montreal: depende menos del mercado que de tres decisiones suyas. El calendario realista, de la llamada al notario."
 image: "images/articles/how-long-to-sell-house-montreal/featured.jpg"
 ---
 

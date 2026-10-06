@@ -1,6 +1,6 @@
 ---
 title: "Courtier immobilier Laval et Montréal"
-description: "Courtier immobilier résidentiel à Laval, Montréal, Terrebonne et sur la Rive-Nord. Achat, vente, investissement. Évaluation gratuite. Service en 3 langues. (438) 372-0102."
+description: "Courtier immobilier à Laval, Montréal, Terrebonne et sur la Rive-Nord. Achat, vente, investissement, évaluation gratuite et service en 3 langues."
 faq:
   - q: "Combien coûte un courtier immobilier au Québec?"
     a: "Pour un acheteur, généralement rien: la commission est payée par le vendeur sur le produit de la vente. Pour un vendeur, la commission est négociée et se situe habituellement entre 4 % et 6 % du prix de vente dans le Grand Montréal. Il n'existe aucun taux fixe imposé par la loi. J'explique en détail ce que la commission couvre réellement dans [cet article](/articles/commission-explained-quebec/)."

@@ -1,6 +1,6 @@
 ---
 title: "Corredor inmobiliario Laval y Montreal"
-description: "Corredor inmobiliario residencial en Laval, Montreal, Terrebonne y la Rive-Nord. Compra, venta, inversión. Evaluación gratuita. Servicio en 3 idiomas. (438) 372-0102."
+description: "Corredor inmobiliario residencial en Laval, Montreal, Terrebonne y la Rive-Nord. Compra, venta, inversión, evaluación gratuita y servicio en 3 idiomas."
 faq:
   - q: "¿Cuánto cuesta un corredor inmobiliario en Quebec?"
     a: "Para un comprador, generalmente nada: la comisión la paga el vendedor con el producto de la venta. Para un vendedor, la comisión se negocia y suele situarse entre el 4 % y el 6 % del precio de venta en el Gran Montreal. No existe ninguna tarifa fija impuesta por la ley."

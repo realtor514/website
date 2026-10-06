@@ -4,7 +4,7 @@ date: 2026-07-29
 lastmod: 2026-09-21
 translationKey: "article-guide-hypotheque"
 category: "Financing"
-description: "The mortgage process is more complex than your bank makes it seem, and simpler than the internet makes it look. Here is the complete, honest guide for first-time buyers in Quebec."
+description: "First-time buyer mortgages in Quebec: more complex than your bank makes it seem, simpler than the internet makes it look. The complete, honest guide."
 image: "images/articles/guide-hypotheque-premier-acheteur-quebec/featured.jpg"
 draft: false
 ---

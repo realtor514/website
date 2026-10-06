@@ -1,6 +1,6 @@
 ---
 title: "Calculateur de capacité d'emprunt"
-description: "Découvrez le budget immobilier que vous pouvez vous permettre selon vos revenus et vos dettes."
+description: "Calculateur de capacité d'emprunt: le prix maximum à votre portée selon vos revenus, vos dettes et votre mise de fonds, avec le test de résistance."
 tool: affordability
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2026-07-29
 lastmod: 2026-09-21
 translationKey: "article-guide-hypotheque"
 category: "Financiamiento"
-description: "El proceso hipotecario es más complejo de lo que su banco le hace creer, y más simple de lo que parece en internet. Aquí está la guía completa y honesta para compradores primerizos en Quebec."
+description: "Hipotecas en Quebec para primerizos: más complejas de lo que su banco deja ver y más simples de lo que parece en internet. La guía completa y honesta."
 image: "images/articles/guide-hypotheque-premier-acheteur-quebec/featured.jpg"
 draft: false
 ---

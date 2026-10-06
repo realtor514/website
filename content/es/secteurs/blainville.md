@@ -1,7 +1,7 @@
 ---
 title: "Corredor inmobiliario en Blainville"
 h1: "Corredor inmobiliario en Blainville"
-description: "Corredor inmobiliario residencial en Blainville y las Basses-Laurentides: Fontainebleau, Chante-Bois, Notre-Dame. Compra, venta, evaluación gratuita. (438) 372-0102."
+description: "Corredor inmobiliario en Blainville y las Basses-Laurentides: Fontainebleau, Chante-Bois, Notre-Dame. Compra, venta y evaluación gratuita."
 city: "Blainville"
 url: "/es/corredor-inmobiliario/blainville/"
 translationKey: "secteur-blainville"

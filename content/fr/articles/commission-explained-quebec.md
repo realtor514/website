@@ -3,7 +3,7 @@ title: "La commission immobilière au Québec"
 date: 2026-06-16
 lastmod: 2026-09-21
 category: "Immobilier 101"
-description: "Aucun taux n'est fixé par la loi au Québec. Voici qui paie la commission, comment elle se partage, les taxes que presque personne n'anticipe, et les questions à poser avant de signer."
+description: "La commission immobilière au Québec: aucun taux fixé par la loi. Qui la paie, comment elle se partage et les taxes que presque personne n'anticipe."
 image: "images/articles/commission-explained-quebec/featured.jpg"
 ---
 

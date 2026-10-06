@@ -3,7 +3,7 @@ title: "Transaction qui déraille : sept échecs"
 date: 2026-05-28
 lastmod: 2026-09-23
 category: "Immobilier 101"
-description: "Hypothèque légale, dossier de copropriété, certificat de localisation, inspection, financement, vices cachés, acompte : les sept endroits où une transaction québécoise casse, et la règle écrite qui la protège."
+description: "Transaction qui déraille au Québec: hypothèque légale, copropriété, inspection, financement, vices cachés, acompte, et la règle écrite qui la protège."
 image: "images/articles/worst-real-estate-deal-lessons/featured.jpg"
 ---
 

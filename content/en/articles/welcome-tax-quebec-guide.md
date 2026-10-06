@@ -4,7 +4,7 @@ date: 2026-06-05
 lastmod: 2026-09-21
 translationKey: "article-taxe-bienvenue"
 category: "Buyer's Guide"
-description: "Transfer duties catch thousands of Quebec buyers off guard every year, because the bill arrives months after the purchase. Here is how the amount is calculated and how to plan for it."
+description: "Welcome tax in Quebec: how the transfer duties are calculated, who pays them, and how to plan for a bill that arrives months after the purchase."
 image: "images/articles/welcome-tax-quebec-guide/featured.jpg"
 ---
 

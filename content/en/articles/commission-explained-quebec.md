@@ -3,7 +3,7 @@ title: "Real Estate Commission in Quebec"
 date: 2026-06-16
 lastmod: 2026-09-21
 category: "Real Estate 101"
-description: "No rate is set by law in Quebec. Here is who pays the commission, how it gets split, the taxes almost nobody budgets for, and the questions to ask before you sign."
+description: "Real estate commission in Quebec: no rate is set by law. Who pays it, how it is split, the taxes almost nobody budgets for, and what to ask first."
 image: "images/articles/commission-explained-quebec/featured.jpg"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-profil-acheteurs"
 category: "Seller's Guide"
-description: "Who buys a condo, a single-family home or a plex in Montreal and Laval, according to APCIQ, Statistics Canada and CMHC, and what it changes in how you prepare your sale."
+description: "Who buys in Montreal and Laval: condo, house or plex buyers according to APCIQ, Statistics Canada and CMHC, and what it changes when preparing your sale."
 image: "images/articles/profil-acheteurs-montreal-laval-vendeur/featured.jpg"
 draft: false
 ---

@@ -34,10 +34,7 @@
     <div class="listing-photos__grid">
       {{ range $i, $img := . }}
       <a href="{{ $img | relURL }}" class="listing-photos__item{{ if eq $i 0 }} listing-photos__item--lead{{ end }}" target="_blank" rel="noopener">
-        <img src="{{ $img | relURL }}"
-             alt="{{ $.Params.address }} - photo {{ add $i 1 }}"
-             loading="{{ if lt $i 3 }}eager{{ else }}lazy{{ end }}"
-             width="1600" height="1062">
+        {{ partial "img.html" (dict "src" $img "alt" (printf "%s, photo %d" $.Params.address (add $i 1)) "sizes" (cond (eq $i 0) "(max-width: 768px) 100vw, 760px" "(max-width: 768px) 50vw, 380px") "loading" (cond (lt $i 3) "eager" "lazy") "fetchpriority" (cond (eq $i 0) "high" "")) }}
       </a>
       {{ end }}
     </div>
@@ -100,7 +97,7 @@
           <hr class="listing-sidebar__rule">
 
           <div style="display:flex;align-items:center;gap:12px">
-            <img src="{{ "images/georges-matar.webp" | relURL }}" alt="Georges Matar"
+            <img src="{{ "images/georges-matar-160.webp" | relURL }}" alt="Georges Matar" decoding="async"
                  style="width:46px;height:46px;border-radius:50%;object-fit:cover;object-position:top center;flex-shrink:0"
                  width="46" height="46" loading="lazy">
             <div>

@@ -3,7 +3,7 @@ title: "When to List Your Property in Montreal"
 date: 2026-05-12
 lastmod: 2026-09-23
 category: "Seller's Guide"
-description: "The month you list changes volume, competition and time on market. Here is what APCIQ's monthly statistics show for the Montreal CMA, and the calendar constraints specific to Quebec."
+description: "When to list your property in Montreal: what APCIQ monthly statistics show on volume, competition and time on market, and Quebec's calendar constraints."
 image: "images/articles/best-time-sell-home-montreal/featured.jpg"
 draft: false
 ---

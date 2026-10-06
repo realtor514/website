@@ -27,6 +27,16 @@ jobs:
           hugo-version: "0.155.0"
           extended: true
 
+      # Les versions WebP reduites des images (partiel img.html) prennent
+      # environ une minute et demie a produire la premiere fois. Hugo les
+      # retrouve ici d un deploiement a l autre et ne refait que les nouvelles.
+      - name: Cache des images traitees
+        uses: actions/cache@v4
+        with:
+          path: resources/_gen
+          key: hugo-gen-${{ hashFiles('static/images/**') }}
+          restore-keys: hugo-gen-
+
       - name: Build site
         run: hugo --minify
 

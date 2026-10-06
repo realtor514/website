@@ -1,7 +1,7 @@
 ---
 title: "Courtier immobilier à Sainte-Catherine"
 h1: "Courtier immobilier à Sainte-Catherine"
-description: "Courtier immobilier résidentiel à Sainte-Catherine: secteur Kateri, boulevard Marie-Victorin, bord du fleuve. Achat, vente et évaluation gratuite. (438) 372-0102."
+description: "Courtier immobilier à Sainte-Catherine: secteur Kateri, boulevard Marie-Victorin, bord du fleuve. Achat, vente et évaluation gratuite de votre propriété."
 city: "Sainte-Catherine"
 url: "/courtier-immobilier/sainte-catherine/"
 translationKey: "secteur-sainte-catherine"

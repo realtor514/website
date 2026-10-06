@@ -1,7 +1,7 @@
 ---
 title: "Corredor inmobiliario en Montreal"
 h1: "Corredor inmobiliario en Montreal"
-description: "Corredor inmobiliario residencial en Montreal: Ahuntsic, Villeray, Rosemont, Saint-Léonard, Rivière-des-Prairies, Anjou. Compra, venta, plex e inversión. (438) 372-0102."
+description: "Corredor inmobiliario en Montreal: Ahuntsic, Villeray, Rosemont, Saint-Léonard, Rivière-des-Prairies, Anjou. Compra, venta, plex e inversión inmobiliaria."
 city: "Montreal"
 url: "/es/corredor-inmobiliario/montreal/"
 translationKey: "secteur-montreal"

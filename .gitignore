@@ -7,3 +7,6 @@ public/
 reels/*/reel.mp4
 carrousel-instagram/vendu/*/reel-vendu.mp4
 __pycache__/
+
+# versions reduites des images, produites par Hugo (partiel img.html)
+resources/_gen/

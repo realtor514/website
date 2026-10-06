@@ -3,7 +3,7 @@ title: "Quand vendre sa propriété à Montréal"
 date: 2026-05-12
 lastmod: 2026-09-23
 category: "Guide du vendeur"
-description: "Le mois de mise en marché change le volume, la concurrence et le délai de vente. Voici ce que montrent les statistiques mensuelles de l'APCIQ pour la RMR de Montréal, et les contraintes de calendrier propres au Québec."
+description: "Quand vendre sa propriété à Montréal: ce que montrent les statistiques mensuelles de l'APCIQ sur le volume, la concurrence et le délai de vente."
 image: "images/articles/best-time-sell-home-montreal/featured.jpg"
 draft: false
 ---

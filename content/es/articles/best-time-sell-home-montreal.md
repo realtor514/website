@@ -3,7 +3,7 @@ title: "Cuándo vender su propiedad en Montreal"
 date: 2026-05-12
 lastmod: 2026-09-23
 category: "Guía del Vendedor"
-description: "El mes de salida al mercado cambia el volumen, la competencia y el plazo de venta. Esto es lo que muestran las estadísticas mensuales de la APCIQ para la RMR de Montréal, y las restricciones de calendario propias de Quebec."
+description: "Cuándo vender su propiedad en Montreal: lo que muestran las estadísticas mensuales de la APCIQ sobre volumen, competencia y plazo de venta en la RMR."
 image: "images/articles/best-time-sell-home-montreal/featured.jpg"
 draft: false
 ---

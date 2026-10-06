@@ -4,7 +4,7 @@ date: 2026-07-15
 lastmod: 2026-09-21
 translationKey: "article-inspection-cout-moment"
 category: "Guía del Comprador"
-description: "¿Antes de la oferta o después? ¿Quién paga? ¿Cuánto? Aquí están las respuestas a las preguntas que más hacen los compradores en Quebec sobre la inspección, y el error que más caro cuesta."
+description: "Inspección previa en Quebec: antes o después de la oferta, quién paga, cuánto. Respuestas a las preguntas más frecuentes y el error que más caro cuesta."
 image: "images/articles/home-inspection-cost-timing-quebec/featured.jpg"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-09-19
 lastmod: 2026-09-19
 translationKey: "article-moisissure-maison-quebec"
 category: "دليل عملي"
-description: "العفن في منزل بكيبيك: لماذا لا يوجد أي حدّ رقمي، ومقياس SCHL، وخانة D7.3 عند البائع، ومحكمة السكن، والتأمين."
+description: "العفن في منزل بكيبيك: لماذا لا يوجد أي حدّ رقمي، والمعيار BNQ 3009-600، ومقياس SCHL، وخانة D7.3 عند البائع، ومحكمة السكن، والتأمين."
 image: "images/articles/moisissure-maison-detection-recours-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

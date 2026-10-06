@@ -1,6 +1,7 @@
 ---
 title: "Mes services"
-description: "Vente, achat, évaluation de valeur marchande, premiers acheteurs et immeubles à revenus, à Laval, à Montréal et dans 38 villes de la Rive-Nord et de la Rive-Sud."
+seo_title: "Mes services de courtier immobilier à Laval et Montréal"
+description: "Mes services: vente, achat, évaluation de valeur marchande, premiers acheteurs et immeubles à revenus, à Laval, Montréal et dans 38 villes des deux rives."
 url: "/mes-services/"
 translationKey: "services"
 faq:

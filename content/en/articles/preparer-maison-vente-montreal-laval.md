@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-09-21
 translationKey: "article-preparer-maison-vente"
 category: "Seller's Guide"
-description: "Careful preparation generally helps attract more visitors in the first weeks. Here is exactly what to do (and what not to waste money on) before listing your property."
+description: "How to prepare your home for sale in Montreal and Laval: exactly what to do, and what not to waste money on, before listing to attract more visitors."
 image: "images/articles/preparer-maison-vente-montreal-laval/featured.jpg"
 ---
 

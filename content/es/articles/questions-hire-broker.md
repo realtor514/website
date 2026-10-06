@@ -3,7 +3,7 @@ title: "5 preguntas antes de elegir un corredor"
 date: 2026-06-15
 lastmod: 2026-09-21
 category: "Inmobiliaria 101"
-description: "La mayoría elige corredor por una recomendación o por un cartel. Aquí están las cinco preguntas que revelan cómo trabaja realmente, y las respuestas que deberían preocuparle."
+description: "5 preguntas antes de elegir un corredor inmobiliario: las que revelan cómo trabaja realmente, y las respuestas que deberían preocuparle."
 image: "images/articles/questions-hire-broker/featured.jpg"
 ---
 

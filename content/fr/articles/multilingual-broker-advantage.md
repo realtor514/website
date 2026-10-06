@@ -3,7 +3,7 @@ title: "Langue et transaction immobilière, Québec"
 date: 2026-07-05
 lastmod: 2026-09-23
 category: "Immobilier 101"
-description: "Formulaires de l'OACIQ, article 55.1 de la Charte, acte notarié, registre foncier, documents du prêteur : dans quelle langue chaque document est rédigé, et ce que change un courtier qui parle la vôtre."
+description: "Langue et transaction immobilière au Québec: formulaires OACIQ, Charte, acte notarié, prêteur, et ce que change un courtier qui parle votre langue."
 image: "images/articles/multilingual-broker-advantage/featured.jpg"
 ---
 

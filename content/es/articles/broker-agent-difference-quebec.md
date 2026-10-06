@@ -3,7 +3,7 @@ title: "Corredor, agente, REALTOR en Quebec"
 date: 2026-07-21
 lastmod: 2026-08-31
 category: "Inmobiliaria 101"
-description: "En Quebec solo una de esas tres palabras corresponde a una licencia. Esto es lo que significa cada término, qué protecciones trae la licencia y cómo verificarla en treinta segundos."
+description: "Corredor, agente, REALTOR en Quebec: solo una de estas palabras corresponde a una licencia. Qué significa cada término, qué protege y cómo verificarla."
 image: "images/articles/broker-agent-difference-quebec/featured.jpg"
 ---
 

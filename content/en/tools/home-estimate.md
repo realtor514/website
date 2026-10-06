@@ -1,6 +1,6 @@
 ---
 title: "Home Value Estimator"
-description: "Get a quick estimate of your property's market value."
+description: "Home value estimator: an order of magnitude based on sector, property type, living area and condition, before a comparative market analysis at no charge."
 tool: home-estimate
 draft: false
 ---

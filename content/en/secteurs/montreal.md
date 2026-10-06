@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Broker in Montreal"
 h1: "Real Estate Broker in Montreal"
-description: "Residential real estate broker in Montreal: Ahuntsic, Villeray, Rosemont, Saint-Léonard, Rivière-des-Prairies, Anjou. Buying, selling, plexes and investment. (438) 372-0102."
+description: "Real estate broker in Montreal: Ahuntsic, Villeray, Rosemont, Saint-Léonard, Rivière-des-Prairies, Anjou. Buying, selling, plexes and investment."
 city: "Montreal"
 url: "/en/real-estate-broker/montreal/"
 translationKey: "secteur-montreal"

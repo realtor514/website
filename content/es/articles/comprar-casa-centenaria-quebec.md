@@ -4,7 +4,7 @@ date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-maison-centenaire"
 category: "Guía del Comprador"
-description: "Cimientos, estructura de época, cableado bouton et tube, plomería galvanizada, barrera de vapor, ventanas: lo que de verdad cambia al comprar una casa centenaria en Montreal."
+description: "Comprar una casa centenaria en Montreal: cimientos, estructura de época, cableado bouton et tube, plomería galvanizada, barrera de vapor y ventanas."
 image: "images/articles/acheter-maison-centenaire-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

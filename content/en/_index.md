@@ -1,6 +1,6 @@
 ---
 title: "Residential Real Estate Broker in Laval"
-description: "Residential real estate broker in Laval, Montreal, Terrebonne and the North Shore. Buying, selling, investing. Free evaluation. Service in 3 languages. (438) 372-0102."
+description: "Residential real estate broker in Laval, Montreal, Terrebonne and the North Shore. Buying, selling, investing, free evaluation and service in 3 languages."
 faq:
   - q: "How much does a real estate broker cost in Quebec?"
     a: "For a buyer, generally nothing: the commission is paid by the seller out of the sale proceeds. For a seller, the commission is negotiated and usually falls between 4% and 6% of the sale price in Greater Montreal. There is no legally fixed rate. I explain in detail what the commission actually covers in [this article](/en/articles/commission-explained-quebec/)."

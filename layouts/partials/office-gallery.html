@@ -22,23 +22,23 @@
 
     <div class="gallery-masonry reveal">
       <div class="gallery-item">
-        <img src="{{ "images/office/reception.webp" | relURL }}" alt="Reception RE/MAX DU CARTIER" loading="lazy">
+        {{ partial "img.html" (dict "src" "images/office/reception.webp" "alt" (printf "RE/MAX DU CARTIER, Laval: %s" (cond $isFr "Réception" (cond $isAr "الاستقبال" (cond $isEs "Recepción" "Reception")))) "sizes" "(max-width: 768px) 50vw, 300px" "widths" (slice 480 800)) }}
         <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Réception{{ else if $isAr }}الاستقبال{{ else if $isEs }}Recepción{{ else }}Reception{{ end }}</span></div>
       </div>
       <div class="gallery-item">
-        <img src="{{ "images/office/conference-room.webp" | relURL }}" alt="Salle de conférence" loading="lazy">
+        {{ partial "img.html" (dict "src" "images/office/conference-room.webp" "alt" (printf "RE/MAX DU CARTIER, Laval: %s" (cond $isFr "Salle de conférence" (cond $isAr "قاعة الاجتماعات" (cond $isEs "Sala de conferencias" "Conference Room")))) "sizes" "(max-width: 768px) 50vw, 300px" "widths" (slice 480 800)) }}
         <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Salle de conférence{{ else if $isAr }}قاعة الاجتماعات{{ else if $isEs }}Sala de conferencias{{ else }}Conference Room{{ end }}</span></div>
       </div>
       <div class="gallery-item">
-        <img src="{{ "images/office/corridor.webp" | relURL }}" alt="Corridor bureau" loading="lazy">
+        {{ partial "img.html" (dict "src" "images/office/corridor.webp" "alt" (printf "RE/MAX DU CARTIER, Laval: %s" (cond $isFr "Couloir" (cond $isAr "الممر" (cond $isEs "Pasillo" "Hallway")))) "sizes" "(max-width: 768px) 50vw, 300px" "widths" (slice 480 800)) }}
         <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Couloir{{ else if $isAr }}الممر{{ else if $isEs }}Pasillo{{ else }}Hallway{{ end }}</span></div>
       </div>
       <div class="gallery-item">
-        <img src="{{ "images/office/client-office.webp" | relURL }}" alt="Bureau client" loading="lazy">
+        {{ partial "img.html" (dict "src" "images/office/client-office.webp" "alt" (printf "RE/MAX DU CARTIER, Laval: %s" (cond $isFr "Bureau privé" (cond $isAr "مكتب خاص" (cond $isEs "Oficina privada" "Private Office")))) "sizes" "(max-width: 768px) 50vw, 300px" "widths" (slice 480 800)) }}
         <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Bureau privé{{ else if $isAr }}مكتب خاص{{ else if $isEs }}Oficina privada{{ else }}Private Office{{ end }}</span></div>
       </div>
       <div class="gallery-item">
-        <img src="{{ "images/office/office.webp" | relURL }}" alt="Bureau principal" loading="lazy">
+        {{ partial "img.html" (dict "src" "images/office/office.webp" "alt" (printf "RE/MAX DU CARTIER, Laval: %s" (cond $isFr "Bureau principal" (cond $isAr "المكتب الرئيسي" (cond $isEs "Oficina principal" "Main Office")))) "sizes" "(max-width: 768px) 50vw, 300px" "widths" (slice 480 800)) }}
         <div class="gallery-item__overlay"><span class="gallery-item__label">{{ if $isFr }}Bureau principal{{ else if $isAr }}المكتب الرئيسي{{ else if $isEs }}Oficina principal{{ else }}Main Office{{ end }}</span></div>
       </div>
     </div>

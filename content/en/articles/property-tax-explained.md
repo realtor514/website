@@ -3,7 +3,7 @@ title: "Property Taxes in Montreal and Laval: A Complete Explanation"
 date: 2026-05-25
 lastmod: 2026-09-19
 category: "Finance"
-description: "Municipal evaluation, tax rate, school tax, welcome tax and the adjustment at the notary. What you will actually pay each year, and the two budgeting mistakes buyers make most often."
+description: "Property taxes in Montreal and Laval: municipal evaluation, tax rate, school tax and the notary adjustment. What you will actually pay each year."
 image: "images/articles/property-tax-explained/featured.jpg"
 ---
 

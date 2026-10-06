@@ -4,7 +4,7 @@ date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-acheter-chalet"
 category: "استثمار"
-description: "rive وfosse septique والبئر وchemin privé والتأمين والتمويل: ما يجب التحقق منه قبل شراء شاليه في كيبيك."
+description: "شراء شاليه في كيبيك: الـrive والحفرة الصحية fosse septique والبئر والطريق الخاص chemin privé والتأمين والتمويل، وما يجب التحقق منه قبل العرض."
 image: "images/articles/acheter-un-chalet-quebec-verifications/featured.jpg"
 needs_expert_review: true
 draft: false

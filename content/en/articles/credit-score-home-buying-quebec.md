@@ -3,7 +3,7 @@ title: "Your Credit Score and Buying a Home"
 date: 2026-05-17
 lastmod: 2026-09-21
 category: "Buyer's Guide"
-description: "The 600 minimum required for an insured mortgage, the five factors behind your score, what you can fix in 30 days and what takes years, and the thin file trap that is very common in Quebec."
+description: "Your credit score and buying a home: the 600 minimum for an insured mortgage, the five factors behind your score, and what you can fix in 30 days."
 image: "images/articles/credit-score-home-buying-quebec/featured.jpg"
 ---
 

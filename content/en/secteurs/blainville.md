@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Broker in Blainville"
 h1: "Real Estate Broker in Blainville"
-description: "Residential real estate broker in Blainville and the Lower Laurentians: Fontainebleau, Chante-Bois, Notre-Dame. Buying, selling, free evaluation. (438) 372-0102."
+description: "Real estate broker in Blainville and the Lower Laurentians: Fontainebleau, Chante-Bois, Notre-Dame. Buying, selling and free evaluation."
 city: "Blainville"
 url: "/en/real-estate-broker/blainville/"
 translationKey: "secteur-blainville"

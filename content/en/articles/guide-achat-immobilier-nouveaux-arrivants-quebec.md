@@ -4,7 +4,7 @@ date: 2026-07-16
 lastmod: 2026-09-21
 translationKey: "article-guide-nouveaux-arrivants"
 category: "Buyer's Guide"
-description: "Buying real estate in Quebec as a newcomer is entirely possible, but the system works differently from most countries. This guide walks through everything you need to know, in plain language."
+description: "Newcomers buying property in Quebec: entirely possible, but the system works differently from most countries. What you need to know, in plain language."
 image: "images/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/featured.jpg"
 draft: false
 ---

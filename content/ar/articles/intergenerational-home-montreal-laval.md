@@ -4,7 +4,7 @@ date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-intergenerationnelle"
 category: "دليل المشتري"
-description: "الرخصة، وlogement additionnel، والإقامة الرئيسية، والتمويل: قواعد المسكن بين الأجيال في لافال وفي مونتريال."
+description: "المسكن بين الأجيال في لافال ومونتريال: الرخصة، وlogement additionnel، والإقامة الرئيسية، والتمويل، ولماذا لا تقول المدينتان الشيء نفسه."
 image: "images/articles/maison-intergenerationnelle-laval-montreal/featured.jpg"
 needs_expert_review: true
 draft: false

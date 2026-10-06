@@ -4,7 +4,7 @@ date: 2026-06-21
 lastmod: 2026-10-02
 translationKey: "article-combien-temps-vendre"
 category: "Guide du vendeur"
-description: "Le délai de vente dépend beaucoup moins du marché que de trois décisions que vous contrôlez. Voici le calendrier réaliste, du premier appel jusqu'à la signature chez le notaire."
+description: "Combien de temps pour vendre à Montréal: le délai dépend surtout de trois décisions que vous contrôlez. Le calendrier réaliste, de l'appel au notaire."
 image: "images/articles/how-long-to-sell-house-montreal/featured.jpg"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Rent vs. Buy Calculator"
-description: "Compare the real cost of renting versus buying a property over several years."
+description: "Rent vs. buy calculator: compare the net wealth you build by renting or buying, accounting for property appreciation, investment returns and rent growth."
 tool: rent-vs-buy
 draft: false
 ---

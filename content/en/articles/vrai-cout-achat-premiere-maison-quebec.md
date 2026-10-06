@@ -4,7 +4,7 @@ date: 2026-06-10
 lastmod: 2026-09-21
 translationKey: "article-vrai-cout-premiere-maison"
 category: "Buyer's Guide"
-description: "Everyone talks about the purchase price. Nobody tells you about what comes after. Here is the complete cost breakdown every first-time buyer in Quebec needs to know."
+description: "The real cost of buying your first home in Quebec: beyond the purchase price, the complete cost breakdown every first-time buyer needs to know."
 image: "images/articles/vrai-cout-achat-premiere-maison-quebec/featured.jpg"
 draft: false
 ---

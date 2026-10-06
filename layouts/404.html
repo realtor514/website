@@ -10,10 +10,14 @@
 <section class="content-hero">
   <div class="container">
     <p class="content-hero__eyebrow" style="letter-spacing:.14em;text-transform:uppercase;font-size:.78rem;opacity:.7">Erreur 404</p>
-    <h1 class="content-hero__title" data-e404="fr">Cette page n&rsquo;existe pas</h1>
-    <h1 class="content-hero__title" data-e404="en" hidden>This page does not exist</h1>
-    <h1 class="content-hero__title" data-e404="es" hidden>Esta p&aacute;gina no existe</h1>
-    <h1 class="content-hero__title" data-e404="ar" hidden dir="rtl">هذه الصفحة غير موجودة</h1>
+    {{/* Un seul h1, les quatre langues en span: quatre h1 dans la meme page
+         brouillaient la hierarchie des titres, meme caches. */}}
+    <h1 class="content-hero__title">
+      <span data-e404="fr">Cette page n&rsquo;existe pas</span>
+      <span data-e404="en" hidden>This page does not exist</span>
+      <span data-e404="es" hidden>Esta p&aacute;gina no existe</span>
+      <span data-e404="ar" hidden dir="rtl">هذه الصفحة غير موجودة</span>
+    </h1>
   </div>
 </section>
 

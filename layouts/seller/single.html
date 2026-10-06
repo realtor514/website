@@ -7,7 +7,7 @@
 
 <!-- ── HERO ── -->
 <section class="journey-hero">
-  <img src="{{ "images/office/exterieur_par-proprietaire.webp" | relURL }}" alt="" class="journey-hero__bg">
+  <img src="{{ "images/office/exterieur_par-proprietaire.webp" | relURL }}" alt="{{ if $isFr }}Bureau RE/MAX DU CARTIER, boulevard Saint-Martin Est à Laval{{ else if $isAr }}مكتب RE/MAX DU CARTIER في لافال{{ else if $isEs }}Oficina RE/MAX DU CARTIER en Laval{{ else }}RE/MAX DU CARTIER office in Laval{{ end }}" class="journey-hero__bg" width="680" height="453" fetchpriority="high">
   <div class="journey-hero__overlay"></div>
   <div class="container">
     <div class="journey-hero__inner reveal">

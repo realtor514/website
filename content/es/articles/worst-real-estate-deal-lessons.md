@@ -3,7 +3,7 @@ title: "Cuando una transacción se descarrila"
 date: 2026-05-28
 lastmod: 2026-09-23
 category: "Inmobiliaria 101"
-description: "Hipoteca legal, expediente de copropiedad, certificado de localización, inspección, financiamiento, vicios ocultos, depósito: los siete puntos donde se rompe una transacción quebequense, y la regla escrita que la protege."
+description: "Transacción descarrilada en Quebec: hipoteca legal, copropiedad, inspección, financiamiento, vicios ocultos, depósito y la regla escrita que la protege."
 image: "images/articles/worst-real-estate-deal-lessons/featured.jpg"
 ---
 

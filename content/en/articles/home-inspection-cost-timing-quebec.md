@@ -4,7 +4,7 @@ date: 2026-07-15
 lastmod: 2026-09-21
 translationKey: "article-inspection-cout-moment"
 category: "Buyer's Guide"
-description: "Before the offer or after? Who pays? How much? Here are the answers to the questions Quebec buyers ask most about inspections, and the mistake that costs the most."
+description: "Home inspection in Quebec: before or after the offer, who pays and how much. Answers to the questions buyers ask most, and the mistake that costs the most."
 image: "images/articles/home-inspection-cost-timing-quebec/featured.jpg"
 ---
 

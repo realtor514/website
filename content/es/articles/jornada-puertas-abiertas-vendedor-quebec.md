@@ -4,7 +4,7 @@ date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-visite-libre-vendeur"
 category: "Guía del Vendedor"
-description: "Visita libre en Quebec: lo que la OACIQ exige al corredor, lo que el vendedor guarda, lo que cubre el seguro de hogar y lo que nunca hay que decir a un visitante."
+description: "Jornada de puertas abiertas en Quebec: lo que la OACIQ exige al corredor, lo que cubre el seguro de hogar y lo que nunca hay que decir a un visitante."
 image: "images/articles/visite-libre-vendeur-quebec/featured.jpg"
 draft: false
 ---

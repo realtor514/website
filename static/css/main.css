@@ -597,7 +597,7 @@ p:last-child { margin-bottom: 0; }
   content: '';
   position: absolute;
   inset: 0;
-  background: url('../images/about-bg.jpg') center/cover no-repeat;
+  background: url('../images/about-bg.webp') center/cover no-repeat;
   opacity: .07;
   pointer-events: none;
 }
@@ -633,11 +633,15 @@ p:last-child { margin-bottom: 0; }
   object-fit: cover;
   object-position: top center;
 }
+/* Chaque point garde son dessin de 7 px, mais le bouton fait 25 px: le
+   remplissage transparent agrandit la zone de toucher au minimum de 24 px
+   que Google demande sur mobile. L ecart passe a 0, le remplissage le
+   remplace. */
 .about-slideshow__dots {
   position: absolute;
-  bottom: 14px; left: 50%;
+  bottom: 5px; left: 50%;
   transform: translateX(-50%);
-  display: flex; gap: 8px;
+  display: flex; gap: 0;
   z-index: 10;
 }
 .about-slideshow__dot {
@@ -837,11 +841,15 @@ p:last-child { margin-bottom: 0; }
 .article-card__read-more { color: var(--blue); font-weight: 600; transition: var(--transition); }
 
 /* ── Contact ── */
+/* Fonds a 5-7 % d opacite: office.png pesait 3,7 Mo et about-bg.jpg 179 Ko,
+   charges sur chaque page qui affiche la section contact. A cette opacite,
+   un WebP de 44 Ko et de 69 Ko donne le meme rendu. */
+
 .contact-section { background: var(--navy); position: relative; overflow: hidden; }
 .contact-section::before {
   content: '';
   position: absolute; inset: 0;
-  background: url('../images/office/office.png') center/cover no-repeat;
+  background: url('../images/office/office-bg.webp') center/cover no-repeat;
   opacity: .06;
 }
 .contact-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 72px; align-items: start; position: relative; }
@@ -2996,7 +3004,7 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
 .lead-page { padding: 56px 0 72px; position: relative; }
 .lead-page::before {
   content: ''; position: absolute; inset: 0;
-  background: url('../images/office/office.png') center/cover no-repeat;
+  background: url('../images/office/office-bg.webp') center/cover no-repeat;
   opacity: .05; pointer-events: none;
 }
 .lead-page .container { position: relative; max-width: 720px; }

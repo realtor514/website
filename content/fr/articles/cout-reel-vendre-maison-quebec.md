@@ -4,7 +4,7 @@ date: 2026-08-07
 lastmod: 2026-09-21
 translationKey: "article-cout-reel-vendre"
 category: "Guide du vendeur"
-description: "La rétribution du courtier n'est qu'une ligne parmi plusieurs. Voici la liste complète des frais de vente au Québec, y compris ceux que les vendeurs découvrent la veille de la signature."
+description: "Le coût réel de vendre une maison au Québec: la liste complète des frais de vente, y compris ceux que les vendeurs découvrent la veille de la signature."
 image: "images/articles/real-cost-selling-home-quebec/featured.jpg"
 ---
 

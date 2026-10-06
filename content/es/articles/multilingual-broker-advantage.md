@@ -3,7 +3,7 @@ title: "Idioma y transacción inmobiliaria, Quebec"
 date: 2026-07-05
 lastmod: 2026-09-23
 category: "Inmobiliaria 101"
-description: "Formularios de la OACIQ, artículo 55.1 de la Carta, acta notarial, registro de la propiedad, documentos del prestamista: en qué idioma se redacta cada documento, y qué cambia con un corredor que habla el suyo."
+description: "Idioma y transacción inmobiliaria en Quebec: formularios OACIQ, artículo 55.1 de la Carta, acta notarial, y qué cambia con un corredor que habla el suyo."
 image: "images/articles/multilingual-broker-advantage/featured.jpg"
 ---
 

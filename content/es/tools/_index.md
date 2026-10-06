@@ -1,6 +1,6 @@
 ---
 title: "Calculadoras inmobiliarias"
-description: "Las 6 calculadoras profesionales de Georges Matar: hipoteca, impuesto de bienvenida, costos de cierre, capacidad de compra, alquilar vs. comprar y estimación de propiedad."
+description: "Las 6 calculadoras inmobiliarias: hipoteca, impuesto de bienvenida, costos de cierre, capacidad de compra, alquilar o comprar y valor de propiedad."
 translationKey: "tools"
 draft: false
 ---

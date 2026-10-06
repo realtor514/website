@@ -9,7 +9,7 @@
       <div>
         <div class="footer__logo-wrap">
           <div class="footer__logo-badge">
-            <img src="{{ "images/remax-logo.png" | relURL }}"
+            <img src="{{ "images/remax-logo-96.png" | relURL }}"
                  alt="RE/MAX DU CARTIER"
                  class="footer__logo-img"
                  width="36" height="36"
@@ -44,7 +44,7 @@
       </div>
 
       <div>
-        <h4 class="footer__heading">{{ if $isAr }}التنقل{{ else if $isEs }}Navegación{{ else }}Navigation{{ end }}</h4>
+        <h2 class="footer__heading">{{ if $isAr }}التنقل{{ else if $isEs }}Navegación{{ else }}Navigation{{ end }}</h2>
         <ul class="footer__links">
           <li><a href="{{ $base }}/" class="footer__link">{{ if $isFr }}Accueil{{ else if $isAr }}الرئيسية{{ else if $isEs }}Inicio{{ else }}Home{{ end }}</a></li>
           <li><a href="{{ site.Params.servicesURL }}" class="footer__link">{{ if $isFr }}Mes services{{ else if $isAr }}خدماتي{{ else if $isEs }}Mis servicios{{ else }}My services{{ end }}</a></li>
@@ -66,7 +66,7 @@
       </div>
 
       <div>
-        <h4 class="footer__heading">{{ if $isAr }}تواصل{{ else if $isEs }}Contacto{{ else }}Contact{{ end }}</h4>
+        <h2 class="footer__heading">{{ if $isAr }}تواصل{{ else if $isEs }}Contacto{{ else }}Contact{{ end }}</h2>
         <ul class="footer__links">
           {{/* L adresse du bureau vivait dans hugo.toml et dans le balisage
                JSON-LD, mais n etait ecrite en texte visible sur aucune page.
@@ -95,9 +95,9 @@
     {{ $hub := "/en/real-estate-broker/" }}
     {{ if $isFr }}{{ $hub = "/courtier-immobilier/" }}{{ else if $isAr }}{{ $hub = "/ar/wasit-aqari/" }}{{ else if $isEs }}{{ $hub = "/es/corredor-inmobiliario/" }}{{ end }}
     <div class="footer__sectors">
-      <h4 class="footer__heading">
+      <h2 class="footer__heading">
         {{ if $isFr }}Secteurs desservis{{ else if $isAr }}المناطق المخدومة{{ else if $isEs }}Zonas atendidas{{ else }}Areas served{{ end }}
-      </h4>
+      </h2>
       <p class="footer__sectors-list">
         {{ range $i, $p := sort . "Weight" }}{{ if $i }}<span class="footer__sectors-sep">&middot;</span>{{ end }}<a href="{{ $p.Permalink }}" class="footer__link">{{ $p.Params.city }}</a>{{ end }}
         <span class="footer__sectors-sep">&middot;</span>

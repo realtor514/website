@@ -4,7 +4,7 @@ date: 2026-08-26
 lastmod: 2026-08-26
 translationKey: "article-adaptation-domicile-aines"
 category: "دليل عملي"
-description: "تكييف مسكن كبار السن في كيبيك: أربعة تدابير، من يحق له، وكم، وبرنامج SHQ الوحيد الذي يدفع ثمن الأشغال فعلاً."
+description: "الرصيد الضريبي وتكييف مسكن كبار السن في كيبيك: أربعة تدابير، من يحق له، وكم، وبأي ترتيب تُقدَّم الطلبات، وبرنامج SHQ الوحيد الذي يدفع ثمن الأشغال فعلاً."
 image: "images/articles/adapter-maison-vieillir-chez-soi-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

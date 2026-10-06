@@ -3,7 +3,7 @@ title: "Taxes foncières à Montréal et Laval"
 date: 2026-05-25
 lastmod: 2026-09-19
 category: "Financement"
-description: "Évaluation municipale, taux, taxe scolaire, taxe de bienvenue et répartition chez le notaire. Ce que vous paierez vraiment chaque année, et les deux erreurs de budget les plus fréquentes."
+description: "Taxes foncières à Montréal et Laval: évaluation municipale, taux, taxe scolaire et répartition chez le notaire. Ce que vous paierez vraiment chaque année."
 image: "images/articles/property-tax-explained/featured.jpg"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-09-11
 lastmod: 2026-09-11
 translationKey: "article-indivise-cooperative"
 category: "Financiamiento"
-description: "Por qué existe la indivisión en Montréal, la aportación inicial exigida, la convention d'indivision y los documentos que debe obtener antes de firmar una oferta."
+description: "Copropiedad indivisa en Montréal: por qué existe, la aportación inicial exigida, la convention d'indivision y los documentos a obtener antes de la oferta."
 image: "images/articles/copropriete-indivise-cooperative-montreal/featured.jpg"
 needs_expert_review: true
 draft: false

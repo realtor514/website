@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+seo_title: "Contact Georges Matar, Real Estate Broker in Laval"
 h1: "Let's talk about your real estate project"
 description: "Reach Georges Matar, residential real estate broker at RE/MAX DU CARTIER INC. Phone, email, Laval office and online booking."
 type: "contact"

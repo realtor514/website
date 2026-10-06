@@ -1,6 +1,6 @@
 ---
 title: "Calculateurs immobiliers"
-description: "Les 6 calculateurs professionnels de Georges Matar: hypothèque, droits de mutation, frais de clôture, capacité d'emprunt, location vs achat et estimation de propriété."
+description: "Les 6 calculateurs immobiliers: hypothèque, droits de mutation, frais de clôture, capacité d'emprunt, location ou achat et estimation de propriété."
 translationKey: "tools"
 draft: false
 ---

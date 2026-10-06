@@ -4,7 +4,7 @@ date: 2026-09-20
 lastmod: 2026-09-23
 translationKey: "article-propriete-invendue"
 category: "دليل البائع"
-description: "زيارات قليلة، أو لا وعود شراء، أو عروض تنهار: العرَض يدلّ على السبب. تشخيص صادق وأرقام APCIQ لشهر أغسطس 2026."
+description: "منزلي لا يُباع في كيبيك: زيارات قليلة، أو لا وعود شراء، أو عروض تنهار. العرَض يدلّ على السبب. تشخيص صادق وأرقام APCIQ لشهر أغسطس 2026."
 image: "images/articles/propriete-ne-se-vend-pas-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Corredor inmobiliario en Laval y Montreal"
-description: "Corredor inmobiliario residencial en 30 ciudades: Laval, Montreal, Longueuil, Brossard, Terrebonne, Boucherville, Mascouche, Châteauguay y más. Compra, venta, inversión."
+description: "Corredor inmobiliario en Laval y Montreal y en 30 ciudades, entre ellas Longueuil, Brossard, Terrebonne y Boucherville. Compra, venta e inversión."
 url: "/es/corredor-inmobiliario/"
 translationKey: "secteurs-hub"
 ---

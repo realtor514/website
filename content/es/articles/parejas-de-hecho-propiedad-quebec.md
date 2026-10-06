@@ -4,7 +4,7 @@ date: 2026-08-27
 lastmod: 2026-09-24
 translationKey: "article-conjoints-de-fait"
 category: "Inmobiliaria 101"
-description: "Patrimoine familial, union parentale desde el 30 de junio de 2025, título, indivisión y fallecimiento: qué protege de verdad la casa de las parejas de hecho en Quebec."
+description: "Parejas de hecho y vivienda en Quebec: patrimoine familial, union parentale desde el 30 de junio de 2025, título, indivisión y fallecimiento."
 image: "images/articles/conjoints-de-fait-maison-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

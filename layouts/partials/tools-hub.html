@@ -65,7 +65,10 @@
     </script>
 
     <!-- Tab navigation: each tab links to the tool's own dedicated page -->
-    <div class="tools-tabs reveal" role="tablist">
+    {{/* Une navigation, pas un role="tablist": les six entrees sont des
+         liens vers six pages, et un tablist exige des enfants role="tab"
+         que les lecteurs d ecran annoncaient manquants. */}}
+    <nav class="tools-tabs reveal" aria-label="{{ if $isFr }}Calculateurs{{ else if $isAr }}الحاسبات{{ else if $isEs }}Calculadoras{{ else }}Calculators{{ end }}">
       <a href="{{ $base }}/tools/mortgage/" class="tools-tab tools-tab--active">
         {{ if $isFr }}Hypothèque{{ else if $isAr }}الرهن العقاري{{ else if $isEs }}Hipoteca{{ else }}Mortgage{{ end }}
       </a>
@@ -84,7 +87,7 @@
       <a href="{{ $base }}/tools/home-estimate/" class="tools-tab">
         {{ if $isFr }}Estimation{{ else if $isAr }}تقدير العقار{{ else if $isEs }}Estimacion{{ else }}Home Estimate{{ end }}
       </a>
-    </div>
+    </nav>
 
     <!-- Preview panel: mortgage calculator (the other 5 live on their own pages) -->
     <div class="tools-panel tools-panel--active" id="tool-mortgage">

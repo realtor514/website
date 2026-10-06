@@ -4,7 +4,7 @@ date: 2026-06-05
 lastmod: 2026-09-21
 translationKey: "article-taxe-bienvenue"
 category: "Guide de l'acheteur"
-description: "Les droits de mutation surprennent chaque année des milliers d'acheteurs québécois, parce que la facture arrive des mois après l'achat. Voici comment le montant se calcule et comment le prévoir."
+description: "Taxe de bienvenue au Québec: comment se calculent les droits de mutation, qui les paie, et comment prévoir la facture qui arrive des mois après l'achat."
 image: "images/articles/welcome-tax-quebec-guide/featured.jpg"
 ---
 

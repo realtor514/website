@@ -1,6 +1,6 @@
 ---
 title: "Calculadora de capacidad de compra"
-description: "Descubra el presupuesto inmobiliario que puede permitirse según sus ingresos y deudas."
+description: "Calculadora de capacidad de compra: el precio máximo que puede pagar según sus ingresos, deudas y pago inicial, con la prueba de estrés hipotecario."
 tool: affordability
 draft: false
 ---

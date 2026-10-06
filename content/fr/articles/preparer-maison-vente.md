@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-09-21
 translationKey: "article-preparer-maison-vente"
 category: "Guide du vendeur"
-description: "Une préparation soignée aide généralement à attirer plus de visiteurs dès les premières semaines. Voici exactement quoi faire, et quoi ne pas dépenser inutilement, avant de mettre en marché."
+description: "Préparer sa maison pour la vente à Laval: quoi faire, et où ne pas dépenser inutilement, avant la mise en marché pour attirer plus de visiteurs."
 image: "images/articles/preparer-maison-vente-montreal-laval/featured.jpg"
 ---
 

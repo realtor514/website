@@ -4,7 +4,7 @@ date: 2026-08-07
 lastmod: 2026-09-21
 translationKey: "article-cout-reel-vendre"
 category: "Seller's Guide"
-description: "Broker compensation is only one line among several. Here is the complete list of selling costs in Quebec, including the ones sellers discover the day before signing."
+description: "The real cost of selling a house in Quebec: the complete list of selling costs, including the ones sellers discover the day before signing."
 image: "images/articles/real-cost-selling-home-quebec/featured.jpg"
 ---
 

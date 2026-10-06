@@ -1,6 +1,6 @@
 ---
-title: "Visión general"
-description: "Cuatro programas exclusivos de RE/MAX Québec: Tranquilli-T, Integri-T, Coproprie-T y Mis descuentos RE/MAX. Tres son sin costo, la garantía Integri-T es de pago."
+title: "Mis ventajas RE/MAX para compradores y vendedores"
+description: "Cuatro programas exclusivos de RE/MAX Québec: Tranquilli-T, Integri-T, Coproprie-T y Mis descuentos RE/MAX. Tres sin costo, Integri-T es de pago."
 draft: false
 ---
 

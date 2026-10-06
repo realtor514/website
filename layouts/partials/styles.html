@@ -1,0 +1,8 @@
+{{/* main.css et enhance.css, fusionnes et minifies en un seul fichier.
+     Servis tels quels depuis static/, ils faisaient deux requetes bloquantes
+     et 146 Ko non minifies: `hugo --minify` ne touche pas aux fichiers de
+     static/. L empreinte dans le nom force le navigateur a reprendre la
+     nouvelle version des qu elle change. Les url('../images/...') de
+     main.css restent justes: le fichier publie vit toujours sous /css/. */}}
+{{ $css := slice (resources.Get "css/main.css") (resources.Get "css/enhance.css") | resources.Concat "css/site.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">

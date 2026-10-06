@@ -1,6 +1,6 @@
 ---
-title: "Overview"
-description: "Four exclusive RE/MAX Québec programs: Tranquilli-T, Integri-T, Coproprie-T and My RE/MAX Discounts. Three come at no cost, the Integri-T guarantee is a paid one."
+title: "My RE/MAX Advantages for Buyers and Sellers"
+description: "Four exclusive RE/MAX Québec programs: Tranquilli-T, Integri-T, Coproprie-T and My RE/MAX Discounts. Three are free, the Integri-T guarantee is paid."
 draft: false
 ---
 

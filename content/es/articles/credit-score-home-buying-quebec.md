@@ -3,7 +3,7 @@ title: "Historial de crédito y compra de vivienda"
 date: 2026-05-17
 lastmod: 2026-09-21
 category: "Guía del Comprador"
-description: "El mínimo de 600 exigido para una hipoteca asegurada, los cinco factores de su puntaje, lo que se corrige en 30 días y lo que toma años, y la trampa del expediente delgado, muy común en Quebec."
+description: "Historial de crédito y compra de vivienda: el mínimo de 600 para una hipoteca asegurada, los cinco factores del puntaje y lo que se corrige en 30 días."
 image: "images/articles/credit-score-home-buying-quebec/featured.jpg"
 ---
 

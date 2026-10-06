@@ -4,7 +4,7 @@ date: 2026-09-25
 lastmod: 2026-09-25
 translationKey: "article-valeur-inferieure-solde-hypothecaire"
 category: "دليل البائع"
-description: "بيع منزل قيمته أقل من الرهن في كيبيك: الرصيد، والغرامة، والإبراء، وأجر الوسيط، والفارق الذي يُسدَّد نقداً."
+description: "بيع منزل تقلّ قيمته عن الرهن العقاري في كيبيك: الرصيد، والغرامة، والإبراء، وأجر الوسيط، والفارق الذي يُسدَّد نقداً، وما يشترطه القانون قبل التوقيع."
 image: "images/articles/vendre-valeur-inferieure-solde-hypothecaire-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "My Services"
+seo_title: "Real Estate Broker Services in Laval and Montreal"
 description: "Selling, buying, market value assessment, first-time buyers and income properties, in Laval, Montreal and 38 cities across the North and South Shores."
 url: "/en/my-services/"
 translationKey: "services"

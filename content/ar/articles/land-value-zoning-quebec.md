@@ -4,7 +4,7 @@ date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-valeur-terrain"
 category: "استثمار"
-description: "rôle d'évaluation يفصل أصلاً بين الأرض والمبنى. ما الذي تقوله هذه النسبة، وما الذي يسمح به التقسيم العمراني فعلاً، وdroits acquis، والتجزئة، والحقوق العينية في كيبيك."
+description: "قيمة الأرض والتقسيم العمراني في كيبيك: سجل التقييم يفصل بين الأرض والمبنى. ماذا تقول هذه النسبة، وما يسمح به التقسيم، وdroits acquis، والتجزئة."
 image: "images/articles/valeur-terrain-zonage-quebec/featured.jpg"
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "La mise de fonds de 20 % : le mythe qui freine les acheteurs"
 date: 2026-07-25
 lastmod: 2026-09-21
 category: "Financement"
-description: "La mise de fonds minimale au Québec, le vrai coût de l'assurance SCHL, la TVQ payable comptant que personne n'anticipe, et comment savoir si attendre vous rapporte ou vous coûte."
+description: "La mise de fonds de 20 %, le mythe qui freine les acheteurs: le vrai minimum au Québec, l'assurance SCHL, la TVQ payable comptant et le coût d'attendre."
 image: "images/articles/down-payment-myth-debunked/featured.jpg"
 ---
 

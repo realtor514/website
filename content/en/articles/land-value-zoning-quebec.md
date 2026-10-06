@@ -4,7 +4,7 @@ date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-valeur-terrain"
 category: "Investment"
-description: "The rôle d'évaluation already splits land from building. What that ratio tells you, what zoning actually allows, droits acquis, subdivision and servitudes in Quebec."
+description: "Land value and zoning in Quebec: the rôle d'évaluation splits land from building. What that ratio says, what zoning allows, droits acquis and servitudes."
 image: "images/articles/valeur-terrain-zonage-quebec/featured.jpg"
 draft: false
 ---

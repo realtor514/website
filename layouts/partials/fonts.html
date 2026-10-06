@@ -1,0 +1,24 @@
+{{/* Polices hebergees sur le site, au lieu de Google Fonts.
+     La feuille de fonts.googleapis.com bloquait l affichage de chaque page,
+     et les fichiers venaient d un troisieme domaine, fonts.gstatic.com:
+     deux connexions de plus avant le premier texte, environ 0,9 seconde sur
+     un telephone selon Lighthouse. Memes polices (licence OFL), memes poids,
+     memes sous-ensembles: le rendu ne change pas.
+
+     Les regles @font-face sont ecrites dans la page, pour n ajouter aucune
+     requete. Les deux fichiers dont le premier ecran a besoin sont
+     precharges: Inter pour le texte, Playfair Display pour les titres, ou
+     Noto Sans Arabic en arabe. Les autres (italique, latin etendu pour oe)
+     ne se telechargent que si la page en contient.
+
+     Pour regenerer les fichiers: telecharger la feuille css2 de Google avec
+     un agent Chrome, garder les sous-ensembles latin et latin-ext (et arabic
+     pour Noto), et ecrire static/fonts/ et static/css/fonts*.css. */}}
+{{ $ar := or (eq .Lang "ar") (eq .Kind "404") }}
+{{ if eq .Lang "ar" }}
+  <link rel="preload" href="/fonts/noto-sans-arabic-normal-arabic.woff2" as="font" type="font/woff2" crossorigin>
+{{ else }}
+  <link rel="preload" href="/fonts/inter-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/playfair-display-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
+{{ end }}
+  <style>{{ readFile "static/css/fonts.css" | safeCSS }}{{ if $ar }}{{ readFile "static/css/fonts-ar.css" | safeCSS }}{{ end }}</style>

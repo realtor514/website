@@ -1,6 +1,6 @@
 ---
 title: "Mes rabais RE/MAX : des économies après la transaction"
-description: "Un programme gratuit qui donne accès à des rabais exclusifs chez des partenaires sélectionnés, au moment où vous en avez le plus besoin : après l'achat ou la vente."
+description: "Mes rabais RE/MAX: un programme gratuit qui donne des rabais exclusifs chez des partenaires sélectionnés, après l'achat ou la vente de votre propriété."
 program: "Mes rabais RE/MAX"
 eyebrow: "Programme avantages RE/MAX Québec"
 logo: "images/protections/mes-rabais-remax.svg"

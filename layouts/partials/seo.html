@@ -5,7 +5,9 @@
 {{- $site := .Site -}}
 {{- $p := $site.Params -}}
 {{- $baseURL := $site.BaseURL | strings.TrimSuffix "/" -}}
-{{- $desc := cond (ne .Description "") .Description $p.description -}}
+{{- $pn := partial "page-num.html" . -}}
+{{- $desc := printf "%s%s" $pn.desc (cond (ne .Description "") .Description $p.description) -}}
+{{- if gt $pn.n 1 }}{{ $desc = $desc | truncate 158 }}{{ end -}}
 {{- /* Les fiches de proprietes n ont pas de champ `image` mais une liste
        `images`: sans ce repli, partager une maison affichait le portrait du
        courtier au lieu de la propriete. On prend donc la premiere photo. */ -}}
@@ -22,11 +24,11 @@
 {{- /* Meme regle que la balise <title> du gabarit: le suffixe seulement s il
        tient dans la limite d affichage. */ -}}
 {{- $suffixe := printf " | %s" $p.name -}}
-{{- $title := .Title -}}
+{{- $title := printf "%s%s" (.Params.seo_title | default .Title) $pn.titre -}}
 {{- if .IsHome -}}
   {{- $title = $site.Title -}}
-{{- else if le (add (strings.RuneCount .Title) (strings.RuneCount $suffixe)) 60 -}}
-  {{- $title = printf "%s%s" .Title $suffixe -}}
+{{- else if le (add (strings.RuneCount $title) (strings.RuneCount $suffixe)) 60 -}}
+  {{- $title = printf "%s%s" $title $suffixe -}}
 {{- end -}}
 
 {{- /* ── Alternates : une URL par langue + x-default ── */ -}}
@@ -44,7 +46,11 @@
 {{- end }}
 
 {{- /* ── Indexation ── */ -}}
-{{- if .Params.noindex }}
+{{- /* La page 404 aussi: Hugo en produit une copie par langue,
+       /en/404.html, /es/404.html, /ar/404.html, que GitHub Pages sert en 200
+       si on les demande directement. Sans noindex, Google pouvait indexer
+       trois pages titrees "404 Page not found". */ -}}
+{{- if or .Params.noindex (eq .Kind "404") }}
 <meta name="robots" content="noindex, follow">
 {{- else }}
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">

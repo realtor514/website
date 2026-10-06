@@ -3,7 +3,7 @@ title: "Courtier, agent, REALTOR au Québec"
 date: 2026-07-21
 lastmod: 2026-08-31
 category: "Immobilier 101"
-description: "Au Québec, un seul de ces trois mots correspond à un permis. Voici ce que chaque terme signifie vraiment, quelles protections vient avec le permis, et comment vérifier en trente secondes."
+description: "Courtier, agent, REALTOR au Québec: un seul de ces mots désigne un permis. Ce que chaque terme signifie, les protections du permis et comment le vérifier."
 image: "images/articles/broker-agent-difference-quebec/featured.jpg"
 ---
 

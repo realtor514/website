@@ -1,5 +1,5 @@
 ---
-title: "نظرة عامة"
+title: "مزايا RE/MAX للمشترين والبائعين"
 description: "أربعة برامج حصرية من RE/MAX Québec: Tranquilli-T و Integri-T و Coproprie-T وخصومات RE/MAX. ثلاثة منها بدون رسوم، أما ضمان Integri-T فهو مدفوع."
 draft: false
 ---

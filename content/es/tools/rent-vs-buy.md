@@ -1,6 +1,6 @@
 ---
 title: "Calculadora Alquilar vs. Comprar"
-description: "Compare el costo real de alquilar frente a comprar una propiedad a lo largo de varios años."
+description: "Calculadora alquilar vs. comprar: compare la riqueza neta acumulada al alquilar o comprar, según la apreciación, el rendimiento y el alza del alquiler."
 tool: rent-vs-buy
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2026-08-07
 lastmod: 2026-09-21
 translationKey: "article-cout-reel-vendre"
 category: "Guía del Vendedor"
-description: "La retribución del corredor es solo una línea entre varias. Aquí está la lista completa de los gastos de venta en Quebec, incluidos los que los vendedores descubren la víspera de la firma."
+description: "El costo real de vender una casa en Quebec: la lista completa de los gastos de venta, incluidos los que los vendedores descubren la víspera de la firma."
 image: "images/articles/real-cost-selling-home-quebec/featured.jpg"
 ---
 

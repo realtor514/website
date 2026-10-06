@@ -4,7 +4,7 @@ date: 2026-09-01
 lastmod: 2026-09-01
 translationKey: "article-cout-entretien-maison"
 category: "Practical Guide"
-description: "Service life by component, what the climate adds, how to size the annual reserve: what home maintenance really costs in Quebec, and above all when the bill lands."
+description: "Home maintenance costs in Quebec: service life by component, what the climate adds, how to size the annual reserve, and above all when the bill lands."
 image: "images/articles/cout-entretien-maison-quebec/featured.jpg"
 draft: false
 ---

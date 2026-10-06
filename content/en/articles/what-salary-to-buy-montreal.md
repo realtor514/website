@@ -4,7 +4,7 @@ date: 2026-05-06
 lastmod: 2026-09-21
 translationKey: "article-quel-salaire-acheter"
 category: "Financing"
-description: "The question is not only about salary. Here is how lenders actually calculate your borrowing capacity in Quebec, and why two people with the same income do not get approved for the same amount."
+description: "What salary to buy in Montreal or Laval: how lenders calculate your borrowing capacity in Quebec, and why two equal incomes do not get the same amount."
 image: "images/articles/what-salary-to-buy-montreal/featured.jpg"
 ---
 

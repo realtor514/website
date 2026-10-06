@@ -1,6 +1,6 @@
 ---
 title: "Real Estate Broker in Laval and Montreal"
-description: "Residential real estate broker across 30 cities: Laval, Montreal, Longueuil, Brossard, Terrebonne, Boucherville, Mascouche, Châteauguay and more. Buying, selling, investing."
+description: "Real estate broker in Laval and Montreal, serving 30 cities including Longueuil, Brossard, Terrebonne and Boucherville. Buying, selling, investing."
 url: "/en/real-estate-broker/"
 translationKey: "secteurs-hub"
 ---
