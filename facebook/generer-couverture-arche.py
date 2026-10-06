@@ -1,34 +1,30 @@
 # -*- coding: utf-8 -*-
-"""Photo de couverture Facebook, bandeau navy et colonne de texte.
+"""Photo de couverture Facebook, portrait et texte dans la zone mobile.
 
 Sortie 2556 x 946 px, soit trois fois le format d affichage Facebook
 (852 x 315). Le triple garde le texte net sur les ecrans Retina.
 
-Composition, de gauche a droite:
-  - bandeau navy a fond perdu, le portrait detoure devant,
-    qui deborde sur le creme
-  - colonne de texte: nom sur deux lignes, titre, coordonnees
-  - photo d interieur a droite, fondue dans le creme par un degrade
-  - logo de l agence en bas a droite
-
-Zones mortes, mesurees sur une capture reelle de l application:
+Zones mortes, mesurees sur deux captures reelles de l application:
 
   Mobile. Facebook met l image a la hauteur de la bande et rogne les
-  cotes: seule la tranche x 555 a 2025 reste visible, 57 pour cent de
-  la largeur. La photo de profil pose un disque de rayon 329 centre en
-  (1287, 791), donc tout le bas du centre disparait. Le texte vit en
-  consequence au dessus de y = 455, et le logo passe a droite du
-  disque, apres x = 1650.
+  cotes: seule la tranche x 567 a 1991 reste visible, 56 pour cent de
+  la largeur. La photo de profil pose un disque de rayon 319 centre en
+  (1277, 768), qui mange tout le bas du centre.
 
   Bureau. La photo de profil se pose en bas a gauche, elle couvre
   environ x 50 a 580 et y > 616, c est a dire le bas du bandeau navy.
 
-La fonction apercu_mobile() redessine ces deux contraintes par dessus
-l image, pour verifier d un coup d oeil apres chaque retouche.
+Toute la composition tient donc dans la tranche mobile, en deux
+colonnes de part et d autre du disque: le portrait a gauche, assez
+grand pour que le visage se lise, le texte a droite, le logo dans
+l angle bas droit. La photo d interieur et le bord gauche du bandeau
+ne sont visibles que sur ordinateur, ils ne portent aucune
+information.
+
+verifier() controle apres coup que chaque bloc tient dans la tranche
+et evite le disque. apercu_mobile() redessine le rognage.
 
 Couleurs: charte RE/MAX DU CARTIER uniquement (voir CHARTE-COULEURS.md).
-Le dore du modele de depart est remplace par du navy dilue, l or ne
-figure pas dans la charte.
 """
 import os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -52,11 +48,15 @@ TITRE = "COURTIER IMMOBILIER RÉSIDENTIEL"
 TEL = "(438) 372-0102"
 COURRIEL = "georges.matar@remax-quebec.com"
 
-CX = 1290                                    # axe de la colonne de texte
+MOBILE = (567, 1991)                         # tranche visible sur telephone
+DISQUE = (1277, 768, 319)                    # photo de profil, mobile
+MARGE = 24                                   # garde autour des zones mortes
 
-MOBILE = (555, 2025)                         # tranche visible sur telephone
-DISQUE = (1287, 791, 329)                    # photo de profil, mobile
-PLANCHER = 455                               # rien d essentiel plus bas au centre
+BANDE = 1210                                 # largeur du bandeau navy
+TETE_X = 840                                 # axe du visage
+CX = 1660                                    # axe de la colonne de texte
+
+boites = []                                  # tout ce qui doit rester visible
 
 
 # ---------------------------------------------------------------- polices
@@ -77,29 +77,30 @@ def largeur(draw, s, font, track=0):
     return w + track * (len(s) - 1) if track else draw.textlength(s, font=font)
 
 
-def centre(draw, y, s, font, fill, track=0, cx=CX, anchor="mt"):
+def centre(draw, y, s, font, fill, track=0, cx=CX, anchor="mt", nom=""):
     """Ecrit la chaine centree sur cx, interlettrage optionnel.
 
     y est lu selon anchor: mt pour le haut de la boite, ms pour la
-    ligne de base.
+    ligne de base. La boite tracee est ajoutee a la liste de controle.
     """
+    lg = largeur(draw, s, font, track)
+    mt, ds = font.getmetrics()
+    haut = y if anchor[1] == "t" else y - mt
+    boites.append((nom or s[:18], cx - lg / 2, haut, cx + lg / 2, haut + mt + ds))
     if not track:
         draw.text((cx, y), s, font=font, fill=fill, anchor=anchor)
         return
     # lettre a lettre, toujours cale sur la ligne de base: un ancrage
     # par le haut ferait descendre les capitales accentuees, le É
     # debordant du jambage superieur
-    base = y + font.getmetrics()[0] if anchor[1] == "t" else y
-    x = cx - largeur(draw, s, font, track) / 2
+    base = y + mt if anchor[1] == "t" else y
+    x = cx - lg / 2
     for c in s:
         draw.text((x, base), c, font=font, fill=fill, anchor="ls")
         x += draw.textlength(c, font=font) + track
 
 
 # ---------------------------------------------------------------- bandeau
-BANDE = 706                                  # largeur du bandeau navy
-
-
 def bandeau(canvas):
     lay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     ImageDraw.Draw(lay).rectangle([0, 0, BANDE, H], fill=NAVY + (255,))
@@ -108,22 +109,32 @@ def bandeau(canvas):
 
 # ---------------------------------------------------------------- portrait
 def portrait(canvas):
+    """Portrait detoure, cale pour que le visage tombe dans la tranche
+    mobile, a gauche du disque de la photo de profil."""
     im = Image.open(os.path.join(ASSETS, "georges-matar-3.png")).convert("RGBA")
     im = im.crop(im.getchannel("A").getbbox())
-    h = 874
-    w = int(im.width * h / im.height)
+    w = 912
+    h = int(im.height * w / im.width)
     im = im.resize((w, h), Image.LANCZOS)
-    x0, y0 = 350 - w // 2, H - h
+    x0, y0 = TETE_X - w // 2, H - h
 
     sh = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     sh.paste((0, 4, 18, 150), (x0 + 18, y0 + 16), im)
     canvas.alpha_composite(sh.filter(ImageFilter.GaussianBlur(30)))
     canvas.alpha_composite(im, (x0, y0))
 
+    # le visage occupe le quart haut du detourage, c est lui qui doit
+    # rester visible sur telephone
+    boites.append(("visage", TETE_X - w * 0.19, y0 + h * 0.03,
+                   TETE_X + w * 0.19, y0 + h * 0.30))
+
 
 # ---------------------------------------------------------------- interieur
 def interieur(canvas):
-    """Photo d interieur a droite, fondue dans le creme vers la gauche."""
+    """Photo d interieur a droite, fondue dans le creme vers la gauche.
+
+    Hors tranche mobile: decor pour l affichage sur ordinateur.
+    """
     x0 = 2010
     pw, ph = W - x0, H
     im = Image.open(os.path.join(SOURCES, "interieur-salon.jpg")).convert("RGB")
@@ -132,11 +143,9 @@ def interieur(canvas):
     gx = int((im.width - pw) * 0.35)
     im = im.crop((gx, (im.height - ph) // 2, gx + pw, (im.height - ph) // 2 + ph))
 
-    # voile creme, pour que la photo reste en retrait du texte
     im = im.convert("RGBA")
     im.alpha_composite(Image.new("RGBA", (pw, ph), CREME + (46,)))
 
-    # degrade d entree: invisible a gauche, pleine opacite a droite
     fondu = 300
     m = Image.new("L", (pw, 1), 255)
     mp = m.load()
@@ -162,43 +171,57 @@ def logo(canvas, hauteur, xy):
             r, g, b, a = px[i, j]
             if a and max(r, g, b) < 110 and max(r, g, b) - min(r, g, b) < 42:
                 px[i, j] = NAVY + (a,)
-    canvas.alpha_composite(im, (int(xy[0] - w / 2), int(xy[1])))
+    x, y = int(xy[0] - w / 2), int(xy[1])
+    canvas.alpha_composite(im, (x, y))
+    boites.append(("logo", x, y, x + w, y + hauteur))
 
 
 # ---------------------------------------------------------------- montage
 def couverture():
+    del boites[:]
     c = Image.new("RGBA", (W, H), CREME + (255,))
     interieur(c)
     bandeau(c)
     portrait(c)
     d = ImageDraw.Draw(c)
 
-    centre(d, 78, NOM, playfair(116, 500), NAVY + (255,), track=8)
-    centre(d, 218, PRENOM_NOM, playfair(96, 450), NAVY + (255,), track=26)
+    centre(d, 56, NOM, playfair(92, 500), NAVY + (255,), track=6)
+    centre(d, 176, PRENOM_NOM, playfair(78, 450), NAVY + (255,), track=20)
 
-    # filets de part et d autre du titre
-    ft = inter(40, 450)
-    y = 334
-    lt = largeur(d, TITRE, ft, 7)
-    centre(d, y, TITRE, ft, NAVY_DOUX + (255,), track=7)
-    for s in (-1, 1):
-        x = CX + s * (lt / 2 + 36)
-        d.line([(x, y + 27), (x + s * 64, y + 27)], fill=NAVY_DOUX + (150,),
-               width=2)
+    # pas de filets de part et d autre: la ligne de titre occupe deja
+    # toute la largeur disponible dans la tranche mobile
+    centre(d, 296, TITRE, inter(29, 450), NAVY_DOUX + (255,), track=4)
 
-    # telephone et courriel sur une seule ligne, pour tenir au dessus
-    # du disque de la photo de profil
-    fc = inter(34, 400)
-    ligne = TEL + "    ·    " + COURRIEL
-    centre(d, 396, ligne, fc, NAVY + (245,))
+    centre(d, 350, TEL, inter(34, 400), NAVY + (255,))
+    centre(d, 400, COURRIEL, inter(27, 400), NAVY + (235,))
 
-    # logo a droite du disque, seul endroit du bas visible sur telephone
-    logo(c, 158, (1776, 686))
+    logo(c, 150, (1782, 648))
     return c
 
 
+# ---------------------------------------------------------------- controles
+def verifier():
+    """Chaque bloc doit tenir dans la tranche mobile et eviter le disque."""
+    x0, x1 = MOBILE
+    cx, cy, r = DISQUE
+    ok = True
+    for nom, a, b, e, f in boites:
+        if a < x0 + MARGE or e > x1 - MARGE:
+            print(f"   HORS TRANCHE  {nom}: x {a:.0f} a {e:.0f}")
+            ok = False
+        # point de la boite le plus proche du centre du disque
+        px = min(max(cx, a), e)
+        py = min(max(cy, b), f)
+        if ((px - cx) ** 2 + (py - cy) ** 2) ** 0.5 < r + MARGE:
+            print(f"   SOUS LE DISQUE  {nom}: x {a:.0f} a {e:.0f}, "
+                  f"y {b:.0f} a {f:.0f}")
+            ok = False
+    print("   zones mobiles: OK" if ok else "   zones mobiles: a corriger")
+    return ok
+
+
 def apercu_mobile(im, chemin):
-    """Rejoue le rognage de Facebook sur telephone, zones mortes en rouge."""
+    """Rejoue le rognage de Facebook sur telephone, disque en rouge."""
     x0, x1 = MOBILE
     vue = im.convert("RGBA").crop((x0, 0, x1, H))
     cx, cy, r = DISQUE
@@ -218,4 +241,5 @@ if __name__ == "__main__":
     apercu_mobile(im, os.path.join(HERE, "apercu-mobile.jpg"))
     for p in (png, jpg):
         print("  ", os.path.basename(p), f"{os.path.getsize(p)/1024:.0f} Ko")
+    verifier()
     print("OK", W, "x", H)
