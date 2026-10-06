@@ -36,7 +36,6 @@ W, H = 2556, 946
 NAVY = (0, 14, 53)
 CREME = (247, 245, 238)
 NAVY_DOUX = (108, 120, 148)
-CREME_FILET = (247, 245, 238, 150)
 
 NOM = "Georges"
 PRENOM_NOM = "MATAR"
@@ -44,7 +43,7 @@ TITRE = "COURTIER IMMOBILIER RÉSIDENTIEL"
 TEL = "(438) 372-0102"
 COURRIEL = "georges.matar@remax-quebec.com"
 
-CX = 1300                                    # axe de la colonne de texte
+CX = 1270                                    # axe de la colonne de texte
 
 
 # ---------------------------------------------------------------- polices
@@ -99,21 +98,6 @@ def bandeau(canvas):
     canvas.alpha_composite(lay)
 
 
-def arche(canvas):
-    """Arche a l interieur du bandeau, un filet creme tres fin."""
-    ss = 3
-    x0, x1, haut = 96, 566, 74
-    lay = Image.new("RGBA", (W * ss, H * ss), (0, 0, 0, 0))
-    d = ImageDraw.Draw(lay)
-    r = (x1 - x0) / 2
-    d.arc([x0 * ss, haut * ss, x1 * ss, (haut + 2 * r) * ss], 180, 360,
-          fill=CREME_FILET, width=4 * ss)
-    for x in (x0, x1):
-        d.line([(x * ss, (haut + r) * ss), (x * ss, H * ss)],
-               fill=CREME_FILET, width=4 * ss)
-    canvas.alpha_composite(lay.resize((W, H), Image.LANCZOS))
-
-
 # ---------------------------------------------------------------- portrait
 def portrait(canvas):
     im = Image.open(os.path.join(ASSETS, "georges-matar-3.png")).convert("RGBA")
@@ -132,7 +116,7 @@ def portrait(canvas):
 # ---------------------------------------------------------------- interieur
 def interieur(canvas):
     """Photo d interieur a droite, fondue dans le creme vers la gauche."""
-    x0 = 1636
+    x0 = 1760
     pw, ph = W - x0, H
     im = Image.open(os.path.join(SOURCES, "interieur-salon.jpg")).convert("RGB")
     e = max(pw / im.width, ph / im.height)
@@ -146,7 +130,7 @@ def interieur(canvas):
     im.alpha_composite(voile)
 
     # degrade d entree: invisible a gauche, pleine opacite a droite
-    fondu = 420
+    fondu = 360
     m = Image.new("L", (pw, 1), 255)
     mp = m.load()
     for x in range(fondu):
@@ -179,27 +163,26 @@ def couverture():
     c = Image.new("RGBA", (W, H), CREME + (255,))
     interieur(c)
     bandeau(c)
-    arche(c)
     portrait(c)
     d = ImageDraw.Draw(c)
 
-    centre(d, 216, NOM, allura(296), NAVY + (255,), anchor="ms")
-    centre(d, 334, PRENOM_NOM, playfair(60, 450), NAVY + (255,), track=24)
+    centre(d, 152, NOM, playfair(126, 500), NAVY + (255,), track=8)
+    centre(d, 308, PRENOM_NOM, playfair(106, 450), NAVY + (255,), track=28)
 
     # filets de part et d autre du titre
-    ft = inter(25, 500)
-    y = 452
+    ft = inter(42, 450)
+    y = 478
     lt = largeur(d, TITRE, ft, 7)
     centre(d, y, TITRE, ft, NAVY_DOUX + (255,), track=7)
     for s in (-1, 1):
-        x = CX + s * (lt / 2 + 32)
-        d.line([(x, y + 15), (x + s * 60, y + 15)], fill=NAVY_DOUX + (150,),
+        x = CX + s * (lt / 2 + 36)
+        d.line([(x, y + 28), (x + s * 64, y + 28)], fill=NAVY_DOUX + (150,),
                width=2)
 
-    centre(d, 522, TEL, inter(78, 300), NAVY + (255,))
-    centre(d, 644, COURRIEL, inter(34, 400), NAVY + (235,))
+    centre(d, 562, TEL, inter(38, 400), NAVY + (255,))
+    centre(d, 632, COURRIEL, inter(32, 400), NAVY + (235,))
 
-    logo(c, 150, 732)
+    logo(c, 150, 722)
     return c
 
 
