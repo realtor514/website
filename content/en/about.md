@@ -48,6 +48,7 @@ on this site.
 - Investment properties: income buildings, rental plexes
 - First-time buyers: step-by-step guidance
 - Sellers: marketing, file preparation, negotiation
+- Rentals: owners and tenants, furnished homes included
 
 ## Territory served
 

@@ -1,13 +1,13 @@
 ---
 title: "My Services"
 seo_title: "Real Estate Broker Services in Laval and Montreal"
-description: "Selling, buying, market value assessment, first-time buyers and income properties, in Laval, Montreal and 38 cities across the North and South Shores."
+description: "Selling, buying, renting, market value assessment and income properties, in Laval, Montreal and 38 cities across the North and South Shores."
 url: "/en/my-services/"
 translationKey: "services"
 faq:
   - q: "What does a market value assessment cost?"
     a: "Nothing. Assessing the market value of a property is free and carries no obligation. It creates no brokerage contract: that arises only from a signature on the mandatory OACIQ form."
-  - q: "When is the brokerage fee due?"
+  - q: "When is the brokerage fee due on a sale?"
     a: "On the sale, and only on the sale. The percentage and the conditions are written into the brokerage contract before the property goes to market. A buyer usually pays nothing: the compensation comes out of the sale proceeds."
   - q: "Do you work outside Laval?"
     a: "Yes. Laval, Montreal, the North Shore, the South Shore, the Laurentians and Lanaudière, which is 38 cities covered by this site, each with its own page."
@@ -41,6 +41,18 @@ the inspection and financing conditions, then negotiation. Coordination with
 the inspector, the mortgage broker and the notary.
 
 The steps are set out on the [buyer's page](/en/buyer/).
+
+## Renting a property
+
+For owners: putting the unit up for rent, the listing, showings and screening
+of applicants in keeping with the Quebec Charter of human rights and freedoms,
+then signing the lease on the mandatory form of the Tribunal administratif du
+logement. For tenants: searching for a home that fits your criteria and
+budget, showings and support until the lease is signed.
+
+Furnished properties can be rented or sold as well. The list of furniture and
+appliances included is written into the lease or the promise to purchase, to
+avoid any dispute when the keys are handed over.
 
 ## Assessing market value
 

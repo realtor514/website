@@ -1,13 +1,13 @@
 ---
 title: "Mis servicios"
 seo_title: "Servicios de corredor inmobiliario en Laval y Montreal"
-description: "Venta, compra, estimación del valor de mercado, primeros compradores e inmuebles de renta, en Laval, Montreal y 38 ciudades de la Costa Norte y la Costa Sur."
+description: "Venta, compra, alquiler, estimación del valor de mercado e inmuebles de renta, en Laval, Montreal y 38 ciudades de la Costa Norte y la Costa Sur."
 url: "/es/mis-servicios/"
 translationKey: "services"
 faq:
   - q: "¿Cuánto cuesta una estimación del valor de mercado?"
     a: "Nada. La estimación del valor de mercado de una propiedad es gratuita y sin compromiso. No crea ningún contrato de corretaje: este nace únicamente de una firma en el formulario obligatorio de la OACIQ."
-  - q: "¿Cuándo se deben los honorarios de corretaje?"
+  - q: "¿Cuándo se deben los honorarios de corretaje en una venta?"
     a: "En la venta, y solo en la venta. El porcentaje y las condiciones se escriben en el contrato de corretaje antes de la puesta en mercado. Un comprador normalmente no paga nada: la retribución sale del producto de la venta."
   - q: "¿Trabaja fuera de Laval?"
     a: "Sí. Laval, Montreal, la Costa Norte, la Costa Sur, los Laurentides y Lanaudière, es decir 38 ciudades cubiertas por el sitio, cada una con su página."
@@ -43,6 +43,19 @@ inspección y de financiamiento, y luego negociación. Coordinación con el
 inspector, el corredor hipotecario y el notario.
 
 Las etapas se detallan en la [página del comprador](/es/buyer/).
+
+## Alquilar una propiedad
+
+Para los propietarios: puesta en alquiler de la vivienda, anuncio, visitas y
+verificación de los candidatos respetando la Carta de derechos y libertades de
+la persona de Quebec, y firma del contrato en el formulario obligatorio del
+Tribunal administratif du logement. Para los inquilinos: búsqueda de una
+vivienda según sus criterios y su presupuesto, visitas y acompañamiento hasta
+la firma del contrato.
+
+Las propiedades amuebladas también se alquilan y se venden. La lista de los
+muebles y equipos incluidos se escribe en el contrato de alquiler o en la
+promesa de compra, para evitar cualquier litigio en la entrega de las llaves.
 
 ## Estimar el valor de mercado
 

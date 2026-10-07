@@ -1,13 +1,13 @@
 ---
 title: "Mes services"
 seo_title: "Mes services de courtier immobilier à Laval et Montréal"
-description: "Mes services: vente, achat, évaluation de valeur marchande, premiers acheteurs et immeubles à revenus, à Laval, Montréal et dans 38 villes des deux rives."
+description: "Mes services: vente, achat, location, évaluation de la valeur marchande et immeubles à revenus, à Laval, Montréal et dans 38 villes des deux rives."
 url: "/mes-services/"
 translationKey: "services"
 faq:
   - q: "Combien coûte une évaluation de la valeur marchande?"
     a: "Rien. L'évaluation de la valeur marchande d'une propriété est gratuite et sans engagement. Elle ne crée aucun contrat de courtage: celui-ci naît uniquement d'une signature sur le formulaire obligatoire de l'OACIQ."
-  - q: "Quand les honoraires de courtage sont-ils dus?"
+  - q: "Quand les honoraires de courtage sont-ils dus pour une vente?"
     a: "À la vente, et uniquement à la vente. Le pourcentage et les conditions sont écrits dans le contrat de courtage avant la mise en marché. Un acheteur ne verse habituellement rien: la rétribution vient du produit de la vente."
   - q: "Travaillez-vous en dehors de Laval?"
     a: "Oui. Laval, Montréal, la Rive-Nord, la Rive-Sud, les Laurentides et Lanaudière, soit 38 villes couvertes par le site, chacune avec sa page."
@@ -43,6 +43,19 @@ financement, puis négociation. Coordination avec l'inspecteur, le courtier
 hypothécaire et le notaire.
 
 Les étapes sont détaillées sur la [page de l'acheteur](/buyer/).
+
+## Louer une propriété
+
+Pour les propriétaires: mise en location du logement, annonce, visites et
+vérification des candidats dans le respect de la Charte des droits et libertés
+de la personne, puis signature du bail sur le formulaire obligatoire du
+Tribunal administratif du logement. Pour les locataires: recherche d'un
+logement selon vos critères et votre budget, visites et accompagnement
+jusqu'à la signature du bail.
+
+Les propriétés meublées se louent et se vendent aussi. La liste des meubles et
+des équipements inclus est écrite dans le bail ou dans la promesse d'achat,
+pour éviter tout litige à la remise des clés.
 
 ## Évaluer la valeur marchande
 

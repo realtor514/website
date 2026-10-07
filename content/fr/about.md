@@ -48,6 +48,7 @@ détaillés sur ce site, chacun sur sa page.
 - Propriétés d'investissement: immeubles à revenus, plex locatifs
 - Premiers acheteurs: accompagnement étape par étape
 - Vendeurs: mise en marché, préparation du dossier, négociation
+- Location: propriétaires et locataires, logements meublés compris
 
 ## Secteurs desservis
 

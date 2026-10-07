@@ -48,6 +48,7 @@ sitio.
 - Propiedades de inversión: edificios de renta, plex de alquiler
 - Primeros compradores: acompañamiento paso a paso
 - Vendedores: puesta en mercado, preparación del expediente, negociación
+- Alquiler: propietarios e inquilinos, viviendas amuebladas incluidas
 
 ## Zonas atendidas
 
