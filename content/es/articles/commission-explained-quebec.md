@@ -1,5 +1,6 @@
 ---
 title: "La comisión inmobiliaria en Quebec"
+seo_title: "Comisión y honorarios del corredor inmobiliario en Quebec"
 date: 2026-06-16
 lastmod: 2026-09-21
 category: "Inmobiliaria 101"

@@ -1,5 +1,6 @@
 ---
 title: "La commission immobilière au Québec"
+seo_title: "Commission et frais du courtier immobilier au Québec"
 date: 2026-06-16
 lastmod: 2026-09-21
 category: "Immobilier 101"

@@ -1,5 +1,6 @@
 ---
 title: "Real Estate Commission in Quebec"
+seo_title: "Real Estate Commission in Quebec: Fees and Who Pays"
 date: 2026-06-16
 lastmod: 2026-09-21
 category: "Real Estate 101"
