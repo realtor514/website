@@ -55,3 +55,46 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # IndexNow: une fois le site en ligne, Bing (et Yandex, Seznam, Naver) est
+  # prevenu des pages modifiees dans les 3 derniers jours, au lieu d attendre
+  # son prochain passage. Bing alimente aussi ChatGPT et Copilot. La cle est
+  # publique par conception: Bing la verifie a l adresse keyLocation, le
+  # fichier static/<cle>.txt. Google n utilise pas IndexNow, il lit les
+  # sitemaps. Un echec ici ne fait jamais echouer le deploiement.
+  indexnow:
+    runs-on: ubuntu-latest
+    needs: deploy
+    continue-on-error: true
+    steps:
+      - name: Signaler les pages modifiees
+        env:
+          INDEXNOW_KEY: 5e611d5c11b4472b961fe1ae82b702b9
+        run: |
+          sleep 60
+          python3 - <<'PY'
+          import datetime, json, os, urllib.request, xml.etree.ElementTree as ET
+          site = "https://georgesmatar.ca"
+          key = os.environ["INDEXNOW_KEY"]
+          ns = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+          def lire(url):
+              with urllib.request.urlopen(url, timeout=30) as r:
+                  return ET.fromstring(r.read())
+          depuis = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=3)).strftime("%Y-%m-%d")
+          urls = []
+          for sm in lire(site + "/sitemap.xml").findall("s:sitemap/s:loc", ns):
+              for u in lire(sm.text).findall("s:url", ns):
+                  lm = u.find("s:lastmod", ns)
+                  if lm is not None and lm.text[:10] >= depuis:
+                      urls.append(u.find("s:loc", ns).text)
+          urls = sorted(set(urls))[:10000]
+          print(len(urls), "page(s) modifiee(s) depuis", depuis)
+          if not urls:
+              raise SystemExit(0)
+          corps = json.dumps({"host": "georgesmatar.ca", "key": key,
+                              "keyLocation": f"{site}/{key}.txt", "urlList": urls}).encode()
+          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=corps,
+                                       headers={"Content-Type": "application/json; charset=utf-8"})
+          with urllib.request.urlopen(req, timeout=30) as r:
+              print("IndexNow a repondu", r.status)
+          PY
