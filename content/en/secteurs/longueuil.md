@@ -34,6 +34,8 @@ faq:
     a: "It affects Brossard directly, but the effect reaches Saint-Hubert through spillover demand. The deciding factor in Longueuil remains the yellow metro line and the Jacques-Cartier bridge."
   - q: "Do you offer free evaluations in Longueuil?"
     a: "Yes, free and with no obligation, using real comparables from your borough rather than an automated estimate."
+  - q: "Real estate agent or real estate broker in Longueuil: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Longueuil, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Longueuil is the gateway to the South Shore, and one of the few off-island cities where the metro connects directly to downtown Montreal. It is an area I cover on the same footing as Laval, Montreal or the north shore.

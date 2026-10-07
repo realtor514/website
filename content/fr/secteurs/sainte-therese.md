@@ -32,6 +32,8 @@ faq:
     a: "Sur un rayon réduit, oui. Les propriétés à distance de marche de la gare intéressent un segment d'acheteurs qui n'existerait pas autrement. L'effet ne se propage pas à toute la ville."
   - q: "Faites-vous les évaluations gratuites à Sainte-Thérèse?"
     a: "Oui, sans frais ni engagement."
+  - q: "Agent immobilier ou courtier immobilier à Sainte-Thérèse: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Sainte-Thérèse, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Sainte-Thérèse est l'une des rares villes des Basses-Laurentides où le marché locatif compte vraiment. C'est ce qui la distingue de Blainville ou de Rosemère, qui sont dominées par la propriété occupée par son propriétaire.

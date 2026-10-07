@@ -42,6 +42,8 @@ faq:
     a: "Oui. Montréal applique des tranches supplémentaires au-delà du barème provincial, ce qui rend le droit de mutation nettement plus élevé que dans la plupart des villes de la couronne nord. Utilisez le [calculateur de taxe de bienvenue](/tools/welcome-tax/) pour obtenir le montant exact selon votre prix d'achat."
   - q: "Est-ce que vous représentez aussi les vendeurs à Montréal?"
     a: "Oui, acheteurs comme vendeurs. Pour un vendeur montréalais, la préparation compte souvent davantage que dans les banlieues: l'inventaire est plus grand et les acheteurs comparent plus vite."
+  - q: "Agent immobilier ou courtier immobilier à Montréal: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Montréal, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Montréal et Laval forment un seul marché pour la plupart des acheteurs. Rares sont ceux qui cherchent uniquement d'un côté de la rivière des Prairies: ils cherchent un type de propriété, un budget et un temps de déplacement.

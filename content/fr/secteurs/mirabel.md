@@ -32,6 +32,8 @@ faq:
     a: "Une bonne partie du territoire est en zone agricole protégée, ce qui encadre strictement l'usage, la construction et le morcellement. Il faut vérifier le zonage avant toute offre, parce que les possibilités réelles diffèrent souvent de ce que l'acheteur imagine."
   - q: "Faites-vous les évaluations gratuites à Mirabel?"
     a: "Oui, et c'est particulièrement utile ici vu la fragmentation des secteurs."
+  - q: "Agent immobilier ou courtier immobilier à Mirabel: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Mirabel, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Mirabel est le territoire le plus vaste et le plus fragmenté de la région. C'est aussi l'une des villes où une estimation automatisée a le plus de chances d'être fausse.

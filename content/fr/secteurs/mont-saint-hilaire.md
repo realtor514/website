@@ -31,6 +31,8 @@ faq:
     a: "Environ 30 %. Le reste se partage entre la zone agricole, 48 %, et l'aire de conservation de la montagne, 22 %. L'offre de terrains résidentiels est donc limitée par le territoire lui-même."
   - q: "Couvrez-vous aussi Beloeil et Otterburn Park?"
     a: "Oui. Beloeil a sa propre page, et Otterburn Park fait partie du même marché."
+  - q: "Agent immobilier ou courtier immobilier à Mont-Saint-Hilaire: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Mont-Saint-Hilaire, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Mont-Saint-Hilaire se définit par sa montagne. La réserve naturelle Gault, léguée à l'Université McGill en 1958, couvre plus de 1 000 hectares et forme le cœur de la première réserve de la biosphère de l'UNESCO au Canada, reconnue en 1978. Autour: des vergers, 9,5 km de rive sur le Richelieu et le terminus de la ligne de train exo. C'est un secteur que je couvre au même titre que les autres.

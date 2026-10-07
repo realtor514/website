@@ -32,6 +32,8 @@ faq:
     a: "Less so than Laval or Montreal. Blainville is dominated by owner-occupied single-family homes; income properties are rare and returns are generally lower than in the immediate north shore. If your goal is rental yield, I will probably steer you elsewhere, and I will tell you so directly."
   - q: "Do you cover the other Lower Laurentian cities?"
     a: "Yes: Boisbriand, Sainte-Thérèse, Rosemère, Lorraine, Mirabel and Saint-Eustache are part of the same functional market. Buyers who visit Blainville almost always visit at least two of these cities."
+  - q: "Real estate agent or real estate broker in Blainville: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Blainville, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Blainville holds a particular position in the Lower Laurentians: it is often the reference point buyers compare other cities in the region against, even when they end up buying elsewhere.

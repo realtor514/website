@@ -42,6 +42,8 @@ faq:
     a: "Yes. Montreal applies additional brackets above the provincial scale, which makes the transfer duty considerably higher than in most north shore cities. Use the [welcome tax calculator](/en/tools/welcome-tax/) to get the exact amount for your purchase price."
   - q: "Do you also represent sellers in Montreal?"
     a: "Yes, buyers and sellers both. For a Montreal seller, preparation often matters more than in the suburbs: inventory is deeper and buyers compare faster."
+  - q: "Real estate agent or real estate broker in Montreal: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Montreal, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Montreal and Laval form a single market for most buyers. Few people search on only one side of the Rivière des Prairies: they search for a property type, a budget and a commute.

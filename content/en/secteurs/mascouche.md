@@ -32,6 +32,8 @@ faq:
     a: "Yes, Mascouche is one of the fastest-growing cities in Lanaudière. For a reseller in a recent sector, the direct competition is often the developer, with its warranties and incentives."
   - q: "Do you offer free evaluations in Mascouche?"
     a: "Yes, free and with no obligation."
+  - q: "Real estate agent or real estate broker in Mascouche: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Mascouche, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Mascouche belongs to the same pool as Terrebonne, but with its own dynamic: faster growth, more recent construction and a station that changed the calculation for part of the buyer pool.

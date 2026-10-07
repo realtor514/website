@@ -32,6 +32,8 @@ faq:
     a: "Rarement, sauf en copropriété ou en jumelé. Le prix d'entrée pour une unifamiliale est élevé. Si votre budget est serré, Chambly ou Saint-Hubert offrent souvent un meilleur point d'entrée pour un profil comparable."
   - q: "Couvrez-vous aussi Sainte-Julie et Varennes?"
     a: "Oui. Elles font partie du même marché fonctionnel et les acheteurs qui visitent Saint-Bruno visitent presque toujours au moins l'une des deux."
+  - q: "Agent immobilier ou courtier immobilier à Saint-Bruno-de-Montarville: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Saint-Bruno-de-Montarville, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Saint-Bruno-de-Montarville est un marché étroit et recherché. C'est une combinaison qui produit des comportements particuliers: peu d'inventaire, des acheteurs prêts, et des écarts importants entre une propriété bien présentée et une autre.

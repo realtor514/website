@@ -33,6 +33,8 @@ faq:
     a: "Ça dépend entièrement du prix payé et des frais de copropriété. Beaucoup de projets récents affichent des frais volontairement bas la première année, qui montent ensuite. Je vérifie systématiquement l'état du fonds de prévoyance et le budget prévisionnel avant toute promesse d'achat."
   - q: "Offrez-vous un service multilingue à Brossard?"
     a: "Oui: français, anglais et arabe. Brossard est l'une des villes les plus multiculturelles du Grand Montréal, et une transaction où chacun comprend ce qu'il signe se déroule mieux."
+  - q: "Agent immobilier ou courtier immobilier à Brossard: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Brossard, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Brossard a changé plus vite que n'importe quelle autre ville de la Rive-Sud depuis l'arrivée du REM. C'est un secteur que je couvre au même titre que les autres, et il demande une lecture plus fine que la moyenne.

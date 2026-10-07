@@ -32,6 +32,8 @@ faq:
     a: "Oui, Mascouche est l'une des villes en croissance les plus rapides de Lanaudière. Pour un revendeur dans un secteur récent, la concurrence directe est souvent le promoteur, avec ses garanties et ses incitatifs."
   - q: "Faites-vous les évaluations gratuites à Mascouche?"
     a: "Oui, sans frais ni engagement."
+  - q: "Agent immobilier ou courtier immobilier à Mascouche: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Mascouche, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Mascouche fait partie du même bassin que Terrebonne, mais avec sa propre dynamique: une croissance plus rapide, davantage de construction récente et une gare qui a modifié le calcul pour une partie des acheteurs.

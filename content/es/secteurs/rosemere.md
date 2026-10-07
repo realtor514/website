@@ -32,6 +32,8 @@ faq:
     a: "Sí, junto a la rivière des Mille Îles. Es un mercado distinto, con restricciones de franja ribereña y a veces zona inundable que hay que verificar propiedad por propiedad."
   - q: "¿Ofrece evaluaciones gratuitas en Rosemère?"
     a: "Sí, y aquí es especialmente útil: en un mercado de bajo volumen, un análisis manual vale mucho más que un algoritmo."
+  - q: "Agente inmobiliario o corredor inmobiliario en Rosemère: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Rosemère, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Rosemère es un mercado estrecho, caro y poco líquido. Son tres características que van juntas y que cambian por completo la forma de comprar o vender aquí.

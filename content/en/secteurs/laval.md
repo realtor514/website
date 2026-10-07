@@ -42,6 +42,8 @@ faq:
     a: "Yes. Plexes in Chomedey, Pont-Viau and Laval-des-Rapides make up a significant part of the Laval market. I analyze the real return before the visit: income, taxes, operating costs, capital reserve, not the cap rate printed in the listing."
   - q: "What languages do you work in?"
     a: "French, English and Arabic. This matters concretely when a transaction involves a family whose members do not all share a language: nobody signs a document they do not understand."
+  - q: "Real estate agent or real estate broker in Laval: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Laval, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Laval is one of six areas I cover equally, alongside Montreal, Terrebonne, Blainville, Repentigny and Saint-Jérôme. I have no secondary territory: each area has its own dynamic and I analyze each one with the same rigour.

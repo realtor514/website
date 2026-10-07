@@ -32,6 +32,8 @@ faq:
     a: "Moins que Laval ou Montréal. Blainville est dominée par la maison unifamiliale occupée par son propriétaire; les immeubles à revenus y sont rares et les rendements sont généralement inférieurs à ceux de la couronne nord immédiate. Si votre objectif est le rendement locatif, je vous orienterai probablement ailleurs, et je vous le dirai franchement."
   - q: "Couvrez-vous les autres villes des Basses-Laurentides?"
     a: "Oui: Boisbriand, Sainte-Thérèse, Rosemère, Lorraine, Mirabel et Saint-Eustache font partie du même marché fonctionnel. Les acheteurs qui visitent Blainville visitent presque toujours au moins deux de ces villes."
+  - q: "Agent immobilier ou courtier immobilier à Blainville: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Blainville, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Blainville occupe une position particulière dans les Basses-Laurentides: c'est souvent le point de référence auquel les acheteurs comparent les autres villes du secteur, même quand ils finissent par acheter ailleurs.

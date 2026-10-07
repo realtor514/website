@@ -31,6 +31,8 @@ faq:
     a: "Highway 15 and the Champlain bridge are the main routes, with the rush-hour constraints that implies. Bus service to the Panama terminus gives access to the REM, which has changed the calculation for part of the buyer pool."
   - q: "Do you offer free evaluations in La Prairie?"
     a: "Yes, free and with no obligation."
+  - q: "Real estate agent or real estate broker in La Prairie: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in La Prairie, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 La Prairie is one of Quebec's oldest municipalities, and it shows in the structure of its real estate market: a protected heritage core on one side, recently planned neighbourhoods on the other.

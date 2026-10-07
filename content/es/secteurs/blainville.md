@@ -32,6 +32,8 @@ faq:
     a: "Menos que Laval o Montreal. Blainville está dominada por la casa unifamiliar ocupada por su propietario; los inmuebles de renta son escasos y los rendimientos suelen ser inferiores a los de la corona norte inmediata. Si su objetivo es el rendimiento del alquiler, probablemente le orientaré a otro lugar, y se lo diré con franqueza."
   - q: "¿Cubre las otras ciudades de las Basses-Laurentides?"
     a: "Sí: Boisbriand, Sainte-Thérèse, Rosemère, Lorraine, Mirabel y Saint-Eustache forman parte del mismo mercado funcional. Los compradores que visitan Blainville visitan casi siempre al menos dos de estas ciudades."
+  - q: "Agente inmobiliario o corredor inmobiliario en Blainville: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Blainville, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Blainville ocupa una posición particular en las Basses-Laurentides: suele ser el punto de referencia con el que los compradores comparan las demás ciudades del sector, incluso cuando acaban comprando en otro lugar.

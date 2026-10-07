@@ -31,6 +31,8 @@ faq:
     a: "L'autoroute 15 et le pont Champlain sont les axes principaux, avec les contraintes de circulation que cela suppose aux heures de pointe. Le service d'autobus vers le terminus Panama donne accès au REM, ce qui a modifié le calcul pour une partie des acheteurs."
   - q: "Faites-vous les évaluations gratuites à La Prairie?"
     a: "Oui, sans frais ni engagement."
+  - q: "Agent immobilier ou courtier immobilier à La Prairie: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à La Prairie, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 La Prairie est l'une des plus anciennes municipalités du Québec, et c'est visible dans la structure de son marché immobilier: un noyau patrimonial protégé d'un côté, des quartiers planifiés récents de l'autre.

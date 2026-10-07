@@ -30,6 +30,8 @@ faq:
     a: "Una parte importante: el 29% de las viviendas son apartamentos en edificios de menos de cinco pisos, según el censo de 2021, frente a un 59% de casas unifamiliares."
   - q: "¿Cubre también Mont-Saint-Hilaire y Saint-Basile-le-Grand?"
     a: "Sí, cubro las dos por igual. Mont-Saint-Hilaire está justo al otro lado del Richelieu."
+  - q: "Agente inmobiliario o corredor inmobiliario en Beloeil: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Beloeil, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Beloeil ocupa la orilla oeste del Richelieu, frente a Mont-Saint-Hilaire, y la autopista 20 la atraviesa. La ciudad tenía 24 104 habitantes en el censo de 2021. Es una zona que cubro por igual que las demás.

@@ -34,6 +34,8 @@ faq:
     a: "Afecta sobre todo a Brossard de forma directa, pero el efecto llega a Saint-Hubert por desplazamiento de la demanda. El factor determinante en Longueuil sigue siendo la línea amarilla del metro y el puente Jacques-Cartier."
   - q: "¿Ofrece evaluaciones gratuitas en Longueuil?"
     a: "Sí, sin costo ni compromiso, con los comparables reales de su distrito y no una estimación automatizada."
+  - q: "Agente inmobiliario o corredor inmobiliario en Longueuil: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Longueuil, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Longueuil es la puerta de entrada de la Rive-Sud y una de las pocas ciudades de la corona donde el metro conecta directamente con el centro de Montreal. Es una zona que cubro por igual que Laval, Montreal o la corona norte.

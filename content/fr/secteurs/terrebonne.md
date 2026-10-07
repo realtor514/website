@@ -32,6 +32,8 @@ faq:
     a: "C'est le vrai calcul à faire avant d'acheter. L'autoroute 640 et le pont Charles-De Gaulle sont congestionnés aux heures de pointe. Le train de banlieue et les stationnements incitatifs changent l'équation pour certains acheteurs, pas pour tous. Je vous conseille de faire le trajet réel à l'heure où vous le feriez, avant de vous engager."
   - q: "Faites-vous les évaluations gratuites à Terrebonne?"
     a: "Oui. Analyse comparative de marché complète, sans frais ni engagement, avec les ventes récentes et les propriétés retirées du marché dans votre secteur précis."
+  - q: "Agent immobilier ou courtier immobilier à Terrebonne: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Terrebonne, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Terrebonne attire beaucoup d'acheteurs qui ont d'abord cherché plus près de l'île. La logique est presque toujours la même: à budget identique, ils obtiennent plus de terrain et une maison plus récente, en échange d'un trajet plus long.

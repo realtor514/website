@@ -32,6 +32,8 @@ faq:
     a: "Hay que conocerlo. El plan urbanístico de la ciudad registra dos terrenos contaminados, entre ellos un antiguo sitio industrial en el límite con McMasterville. Para una propiedad vecina de un antiguo sitio industrial, una verificación ambiental es una precaución razonable."
   - q: "¿Cubre también Sainte-Julie, Saint-Bruno y Beloeil?"
     a: "Sí, las tres forman parte de las ciudades que cubro por igual."
+  - q: "Agente inmobiliario o corredor inmobiliario en Saint-Basile-le-Grand: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Saint-Basile-le-Grand, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Saint-Basile-le-Grand es una ciudad de casas familiares entre el monte Saint-Bruno y el Richelieu. Según el censo de 2021, el 69% de las viviendas son casas unifamiliares y el 87% de los hogares son propietarios. Es una zona que cubro por igual que las demás.

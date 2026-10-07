@@ -32,6 +32,8 @@ faq:
     a: "El Square Candiac es el principal polo de desarrollo reciente, con una mezcla de casas adosadas y condominios. Para quien revende en ese sector, la competencia directa suele ser el inventario del promotor."
   - q: "¿Cubre también Saint-Constant y Sainte-Catherine?"
     a: "Sí, forman parte del mismo mercado funcional que Candiac, Delson y La Prairie."
+  - q: "Agente inmobiliario o corredor inmobiliario en Candiac: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Candiac, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Candiac es una ciudad planificada desde su fundación en 1957, y se nota en la estructura de su mercado: poco desarrollo desordenado, parque inmobiliario homogéneo por sector, comparables más fiables que en la mayoría de las ciudades vecinas.

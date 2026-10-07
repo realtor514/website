@@ -32,6 +32,8 @@ faq:
     a: "Para las propiedades cercanas al Richelieu y al río L'Acadie, sí. En marzo de 2025, desbordamientos y atascos de hielo cerca del puente de la isla Goyer obligaron a cerrar el chemin Salaberry. La cartografía se verifica dirección por dirección."
   - q: "¿Cubre también Chambly y Saint-Bruno?"
     a: "Sí, cubro Chambly, Saint-Bruno-de-Montarville y Saint-Basile-le-Grand por igual. De hecho, Chambly divide el territorio de Carignan en dos partes."
+  - q: "Agente inmobiliario o corredor inmobiliario en Carignan: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Carignan, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Carignan es una ciudad en rápido crecimiento. Más de la mitad de sus viviendas se construyeron desde 2001, según el censo de 2021, y el 80% son casas unifamiliares. El territorio está dividido en dos por Chambly y bordeado por el Richelieu, el río L'Acadie y grandes espacios agrícolas. Es una zona que cubro por igual que las demás.

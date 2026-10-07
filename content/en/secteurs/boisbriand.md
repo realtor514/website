@@ -32,6 +32,8 @@ faq:
     a: "The nearest station is in Sainte-Thérèse, on the Saint-Jérôme line. It matters to part of the buyer pool, but the main axis remains Highway 15 and the interchange with the 640."
   - q: "Do you offer free evaluations in Boisbriand?"
     a: "Yes, free and with no obligation, using real comparables from your sector."
+  - q: "Real estate agent or real estate broker in Boisbriand: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Boisbriand, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Boisbriand changed profile with the development of the Faubourg, built on the former industrial site. The city now holds two market logics side by side.

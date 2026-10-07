@@ -31,6 +31,8 @@ faq:
     a: "Le Gardeur, merged into Repentigny in 2002, retains a distinct housing stock and price dynamic, often more affordable. Old Repentigny is closer to the river and to services, with older properties and mature lots."
   - q: "Do you offer free evaluations in Repentigny?"
     a: "Yes, free and with no obligation, using real comparables from your sector rather than an automated estimate."
+  - q: "Real estate agent or real estate broker in Repentigny: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Repentigny, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Repentigny is the gateway to Lanaudière for most buyers coming from the east end of the island. It is a market I cover on the same footing as Laval, Montreal, Terrebonne, Blainville and Saint-Jérôme.

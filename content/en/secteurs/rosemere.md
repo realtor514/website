@@ -32,6 +32,8 @@ faq:
     a: "Yes, along the Rivière des Mille Îles. It is a distinct market, with shoreline buffer constraints and sometimes flood zone status that must be verified property by property."
   - q: "Do you offer free evaluations in Rosemère?"
     a: "Yes, and it is particularly useful here: in a low-volume market, a manual analysis beats an algorithm by a wide margin."
+  - q: "Real estate agent or real estate broker in Rosemère: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Rosemère, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Rosemère is a thin, expensive and illiquid market. Those three characteristics go together, and they completely change how you buy or sell here.

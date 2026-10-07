@@ -32,6 +32,8 @@ faq:
     a: "Yes. Châteauguay has a significant anglophone community and I work in English as well as French, plus Arabic."
   - q: "Are there waterfront properties?"
     a: "Yes, along the Châteauguay river and Lac Saint-Louis. They form a distinct market with shoreline buffer and sometimes flood zone constraints to verify case by case."
+  - q: "Real estate agent or real estate broker in Châteauguay: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Châteauguay, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Châteauguay offers one of the best floor-area-to-price ratios on the South Shore. It is also the city where the commute calculation matters most, because of the Mercier bridge.

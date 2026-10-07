@@ -32,6 +32,8 @@ faq:
     a: "Varennes hosts significant industrial and research facilities, concentrated in zones separated from the residential sectors. The effect on value depends entirely on the precise location, and that is verified before the offer."
   - q: "Do you offer free evaluations in Varennes?"
     a: "Yes, free and with no obligation."
+  - q: "Real estate agent or real estate broker in Varennes: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Varennes, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Varennes is one of the few South Shore cities that kept both genuine accessible river frontage and a heritage village core. That is what structures its market.

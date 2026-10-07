@@ -32,6 +32,8 @@ faq:
     a: "Varennes accueille des installations industrielles et de recherche importantes, concentrées dans des zones séparées des secteurs résidentiels. L'effet sur la valeur dépend entièrement de la localisation précise, et ça se vérifie avant l'offre."
   - q: "Faites-vous les évaluations gratuites à Varennes?"
     a: "Oui, sans frais ni engagement."
+  - q: "Agent immobilier ou courtier immobilier à Varennes: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Varennes, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Varennes est l'une des rares villes de la Rive-Sud à avoir conservé un vrai front riverain accessible et un noyau villageois patrimonial. C'est ce qui structure son marché.

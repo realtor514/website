@@ -32,6 +32,8 @@ faq:
     a: "Via Highway 20 or 30, with bus service to the Longueuil terminus. It is the main limiting factor for part of the buyer pool, and it is a calculation to run concretely before buying."
   - q: "Do you offer free evaluations in Sainte-Julie?"
     a: "Yes, free and with no obligation."
+  - q: "Real estate agent or real estate broker in Sainte-Julie: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Sainte-Julie, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Sainte-Julie is a stable family market with homogeneous housing stock and reliable comparables. It is one of the areas where the analysis is easiest to do correctly, provided you respect the logic of the neighbourhoods.

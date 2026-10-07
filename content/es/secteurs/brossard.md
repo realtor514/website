@@ -33,6 +33,8 @@ faq:
     a: "Depende enteramente del precio pagado y de los gastos de copropiedad. Muchos proyectos recientes anuncian cuotas deliberadamente bajas el primer año, que luego suben. Verifico sistemáticamente el fondo de previsión y el presupuesto previsto antes de cualquier promesa de compra."
   - q: "¿Ofrece servicio multilingüe en Brossard?"
     a: "Sí: francés, inglés y árabe. Brossard es una de las ciudades más multiculturales del Gran Montreal, y una transacción donde cada uno entiende lo que firma sale mejor."
+  - q: "Agente inmobiliario o corredor inmobiliario en Brossard: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Brossard, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Brossard ha cambiado más rápido que ninguna otra ciudad de la Rive-Sud desde la llegada del REM. Es una zona que cubro por igual que las demás, y exige una lectura más fina que la media.

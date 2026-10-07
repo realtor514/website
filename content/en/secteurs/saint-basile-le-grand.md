@@ -32,6 +32,8 @@ faq:
     a: "They should know about it. The city's urban plan lists two contaminated sites, including a former industrial site on the McMasterville boundary. For a property next to a former industrial site, an environmental check is a reasonable precaution."
   - q: "Do you also cover Sainte-Julie, Saint-Bruno and Beloeil?"
     a: "Yes, all three are among the cities I cover equally."
+  - q: "Real estate agent or real estate broker in Saint-Basile-le-Grand: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Saint-Basile-le-Grand, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Saint-Basile-le-Grand is a city of family homes between Mont Saint-Bruno and the Richelieu. According to the 2021 census, 69% of dwellings are single-detached houses and 87% of households own their home. It is an area I cover on the same footing as the others.

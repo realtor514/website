@@ -33,6 +33,8 @@ faq:
     a: "It depends entirely on the price paid and the condo fees. Many recent projects post deliberately low fees in year one that rise afterwards. I check the contingency fund and the projected budget systematically before any promise to purchase."
   - q: "Do you offer multilingual service in Brossard?"
     a: "Yes: French, English and Arabic. Brossard is one of the most multicultural cities in Greater Montreal, and a transaction where everyone understands what they are signing goes better."
+  - q: "Real estate agent or real estate broker in Brossard: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Brossard, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Brossard has changed faster than any other South Shore city since the REM opened. It is an area I cover on the same footing as the others, and it demands a finer reading than average.

@@ -32,6 +32,8 @@ faq:
     a: "Within a short radius, yes. Properties within walking distance of the station appeal to a buyer segment that would not otherwise exist. The effect does not spread across the whole city."
   - q: "Do you offer free evaluations in Sainte-Thérèse?"
     a: "Yes, free and with no obligation."
+  - q: "Real estate agent or real estate broker in Sainte-Thérèse: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Sainte-Thérèse, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Sainte-Thérèse is one of the few Lower Laurentian cities where the rental market genuinely matters. That is what sets it apart from Blainville or Rosemère, which are dominated by owner-occupied property.

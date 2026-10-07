@@ -32,6 +32,8 @@ faq:
     a: "Oui, le long du Richelieu. La cartographie doit être vérifiée propriété par propriété parce que ça affecte l'assurabilité, le financement et la revente. Ce n'est pas une raison de ne pas acheter, c'est une raison de savoir exactement ce que vous achetez."
   - q: "Faites-vous les évaluations gratuites à Chambly?"
     a: "Oui, sans frais ni engagement, avec les comparables réels de votre secteur."
+  - q: "Agent immobilier ou courtier immobilier à Chambly: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Chambly, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Chambly combine un noyau patrimonial réel, un plan d'eau qui structure la ville et des secteurs résidentiels récents plus abordables que la moyenne de la Rive-Sud immédiate. C'est un secteur que je couvre au même titre que les autres.

@@ -31,6 +31,8 @@ faq:
     a: "Para una minoría de propiedades, sí. El mapa preliminar de la Comunidad Metropolitana de Montreal, publicado en 2024, contaba 64 edificios en zona inundable en la ciudad, sobre todo cerca del río Saint-Régis. La verificación se hace dirección por dirección, porque afecta al seguro, a la financiación y a la reventa."
   - q: "¿Cubre también Delson, Candiac y Saint-Constant?"
     a: "Sí. Estas cuatro ciudades forman el mismo mercado funcional y las cubro todas por igual."
+  - q: "Agente inmobiliario o corredor inmobiliario en Sainte-Catherine: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Sainte-Catherine, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Sainte-Catherine ocupa la orilla del San Lorenzo frente a LaSalle, entre Kahnawake y Delson. La ciudad se construyó sobre todo entre 1981 y 2000: más de la mitad de las viviendas datan de ese período, según el censo de 2021. Es una zona que cubro por igual que las demás.

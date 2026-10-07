@@ -31,6 +31,8 @@ faq:
     a: "Yes, and it is more active than in most Laurentian cities. The CEGEP, the regional hospital and a stable tenant base support rental demand. Entry prices are lower than in Laval, but remote management is a factor to weigh seriously if you do not live in the area."
   - q: "What is the difference between Bellefeuille, Lafontaine and Saint-Antoine?"
     a: "These are former municipalities merged into Saint-Jérôme, and each kept its own housing stock. Bellefeuille offers larger lots and a more rural character, Lafontaine is denser and closer to services, Saint-Antoine sits between the two. Comparables do not cross from one sector to another."
+  - q: "Real estate agent or real estate broker in Saint-Jérôme: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Saint-Jérôme, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Saint-Jérôme is the regional hub of the Laurentians: hospital, CEGEP, courthouse, administrative services. That creates a local economy and a real estate market more diversified than in the purely residential cities nearby.

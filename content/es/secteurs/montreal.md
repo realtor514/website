@@ -42,6 +42,8 @@ faq:
     a: "Sí. Montreal aplica tramos adicionales por encima de la escala provincial, lo que hace que el derecho de mutación sea claramente más alto que en la mayoría de las ciudades de la corona norte. Utilice la [calculadora del impuesto de bienvenida](/es/tools/welcome-tax/) para obtener el importe exacto según su precio de compra."
   - q: "¿También representa a vendedores en Montreal?"
     a: "Sí, compradores y vendedores. Para un vendedor de Montreal, la preparación importa a menudo más que en los suburbios: el inventario es mayor y los compradores comparan más rápido."
+  - q: "Agente inmobiliario o corredor inmobiliario en Montreal: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Montreal, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Montreal y Laval forman un solo mercado para la mayoría de los compradores. Pocos buscan únicamente de un lado de la rivière des Prairies: buscan un tipo de propiedad, un presupuesto y un tiempo de desplazamiento.

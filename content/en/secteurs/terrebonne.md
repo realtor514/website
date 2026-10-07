@@ -32,6 +32,8 @@ faq:
     a: "That is the real calculation to run before buying. Highway 640 and the Charles-De Gaulle bridge are congested at rush hour. The commuter train and park-and-ride lots change the equation for some buyers, not all. My advice: drive the actual commute at the actual hour before you commit."
   - q: "Do you offer free evaluations in Terrebonne?"
     a: "Yes. A complete comparative market analysis, free and with no obligation, including recent sales and properties withdrawn from the market in your specific sector."
+  - q: "Real estate agent or real estate broker in Terrebonne: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Terrebonne, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Terrebonne draws many buyers who started their search closer to the island. The logic is almost always the same: at an identical budget, they get more land and a newer home in exchange for a longer commute.

@@ -32,6 +32,8 @@ faq:
     a: "Il faut le connaître. Le plan d'urbanisme de la ville répertorie deux terrains contaminés, dont un ancien site industriel à la limite de McMasterville. Pour une propriété voisine d'un ancien site industriel, une vérification environnementale est une précaution raisonnable."
   - q: "Couvrez-vous aussi Sainte-Julie, Saint-Bruno et Beloeil?"
     a: "Oui, les trois font partie des villes que je couvre au même titre."
+  - q: "Agent immobilier ou courtier immobilier à Saint-Basile-le-Grand: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Saint-Basile-le-Grand, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Saint-Basile-le-Grand est une ville de maisons familiales entre le mont Saint-Bruno et le Richelieu. Selon le recensement de 2021, 69 % des logements sont des maisons individuelles et 87 % des ménages sont propriétaires. C'est un secteur que je couvre au même titre que les autres.

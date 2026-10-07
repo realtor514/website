@@ -32,6 +32,8 @@ faq:
     a: "Oui. Châteauguay a une communauté anglophone importante et je travaille en anglais comme en français, ainsi qu'en arabe."
   - q: "Y a-t-il des propriétés riveraines?"
     a: "Oui, le long de la rivière Châteauguay et du lac Saint-Louis. Elles forment un marché distinct avec des contraintes de bande riveraine et parfois de zone inondable à vérifier au cas par cas."
+  - q: "Agent immobilier ou courtier immobilier à Châteauguay: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Châteauguay, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Châteauguay offre l'un des meilleurs rapports superficie/prix de la Rive-Sud. C'est aussi la ville où le calcul du trajet compte le plus, à cause du pont Mercier.

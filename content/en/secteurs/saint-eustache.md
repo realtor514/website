@@ -32,6 +32,8 @@ faq:
     a: "Highways 640 and 13 are the main routes, with the traffic constraints that implies. There is no train station on the territory, which weighs on some buyers' calculations."
   - q: "Do you offer free evaluations in Saint-Eustache?"
     a: "Yes, free and with no obligation."
+  - q: "Real estate agent or real estate broker in Saint-Eustache: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Saint-Eustache, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Saint-Eustache combines one of the most significant heritage cores in the Laurentians, an extensive waterfront and family residential sectors more affordable than Blainville or Rosemère.

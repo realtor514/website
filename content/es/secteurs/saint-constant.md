@@ -32,6 +32,8 @@ faq:
     a: "Sí, varios sectores se desarrollaron en los últimos veinte años. Para esas propiedades, la garantía de construcción y el estado del drenaje son los dos puntos prioritarios."
   - q: "¿Ofrece evaluaciones gratuitas en Saint-Constant?"
     a: "Sí, sin costo ni compromiso, con los comparables reales de su calle."
+  - q: "Agente inmobiliario o corredor inmobiliario en Saint-Constant: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Saint-Constant, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Saint-Constant forma parte de la misma cuenca que Candiac, Delson y [Sainte-Catherine](/es/corredor-inmobiliario/sainte-catherine/), pero con precios generalmente inferiores a Candiac a superficie comparable. Eso lo convierte en un punto de entrada interesante en el Roussillon.

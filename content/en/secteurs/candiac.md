@@ -32,6 +32,8 @@ faq:
     a: "Square Candiac is the main recent development hub, with a mix of townhouses and condos. For a reseller in that sector, the direct competition is often the developer's inventory, which must be reflected in the list price."
   - q: "Do you also cover Saint-Constant and Sainte-Catherine?"
     a: "Yes, they are part of the same functional market as Candiac, Delson and La Prairie."
+  - q: "Real estate agent or real estate broker in Candiac: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Candiac, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Candiac has been a planned city since its founding in 1957, and it shows in the structure of its market: little disorderly development, homogeneous housing stock by sector, more reliable comparables than in most neighbouring cities.

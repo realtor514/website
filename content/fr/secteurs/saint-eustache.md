@@ -32,6 +32,8 @@ faq:
     a: "Les autoroutes 640 et 13 sont les axes principaux, avec les contraintes de circulation que cela suppose. Il n'y a pas de gare de train sur le territoire, ce qui pèse dans le calcul de certains acheteurs."
   - q: "Faites-vous les évaluations gratuites à Saint-Eustache?"
     a: "Oui, sans frais ni engagement."
+  - q: "Agent immobilier ou courtier immobilier à Saint-Eustache: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Saint-Eustache, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Saint-Eustache combine un noyau patrimonial parmi les plus significatifs des Laurentides, un front riverain étendu et des secteurs résidentiels familiaux plus abordables que Blainville ou Rosemère.

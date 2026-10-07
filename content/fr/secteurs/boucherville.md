@@ -32,6 +32,8 @@ faq:
     a: "Limité. La ville est dominée par la propriété occupée par son propriétaire et les immeubles à revenus y sont rares. Si votre objectif est le rendement locatif, je vous orienterai probablement vers Longueuil ou Laval, et je vous le dirai franchement."
   - q: "Faites-vous les évaluations gratuites à Boucherville?"
     a: "Oui, sans frais et sans engagement, avec les comparables réels de votre secteur."
+  - q: "Agent immobilier ou courtier immobilier à Boucherville: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Boucherville, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Boucherville est l'une des villes les plus stables du Grand Montréal sur le plan immobilier. Les corrections y sont généralement moins brutales qu'ailleurs, mais le prix d'entrée exclut une partie des acheteurs.

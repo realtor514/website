@@ -32,6 +32,8 @@ faq:
     a: "Pour les propriétés proches du Richelieu et de la rivière L'Acadie, oui. En mars 2025, des débordements et des embâcles près du pont de l'île Goyer ont forcé la fermeture du chemin Salaberry. La cartographie se vérifie adresse par adresse."
   - q: "Couvrez-vous aussi Chambly et Saint-Bruno?"
     a: "Oui, je couvre Chambly, Saint-Bruno-de-Montarville et Saint-Basile-le-Grand au même titre. Chambly sépare d'ailleurs le territoire de Carignan en deux parties."
+  - q: "Agent immobilier ou courtier immobilier à Carignan: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Carignan, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Carignan est une ville en croissance rapide. Plus de la moitié de ses logements ont été construits depuis 2001, selon le recensement de 2021, et 80 % sont des maisons individuelles. Le territoire est séparé en deux par Chambly et bordé par le Richelieu, la rivière L'Acadie et de grands espaces agricoles. C'est un secteur que je couvre au même titre que les autres.

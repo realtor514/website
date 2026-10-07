@@ -31,6 +31,8 @@ faq:
     a: "No. La estación más cercana es la de Rosemère, en la línea exo Saint-Jérôme, y una línea de autobús exo une Terrebonne, Lorraine y la estación de Rosemère."
   - q: "¿Cubre también Rosemère, Blainville y Bois-des-Filion?"
     a: "Sí. Rosemère y Blainville tienen cada una su página, y Bois-des-Filion forma parte del mismo mercado. Los compradores que visitan Lorraine suelen compararla con esas tres ciudades."
+  - q: "Agente inmobiliario o corredor inmobiliario en Lorraine: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Lorraine, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Lorraine es una ciudad planificada. Fundada en 1960 por un grupo de empresarios, se pensó desde el principio como ciudad residencial: sin industria, sin vivienda de alta densidad, con servicios públicos soterrados y sin un solo semáforo. Más de sesenta años después, eso sigue definiendo su mercado. Es una zona que cubro por igual que las demás.

@@ -32,6 +32,8 @@ faq:
     a: "A large share of the territory is protected agricultural land, which strictly governs use, construction and subdivision. Zoning has to be verified before any offer, because the real possibilities often differ from what the buyer imagines."
   - q: "Do you offer free evaluations in Mirabel?"
     a: "Yes, and it is particularly useful here given how fragmented the sectors are."
+  - q: "Real estate agent or real estate broker in Mirabel: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Mirabel, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Mirabel is the largest and most fragmented territory in the region. It is also one of the cities where an automated estimate is most likely to be wrong.

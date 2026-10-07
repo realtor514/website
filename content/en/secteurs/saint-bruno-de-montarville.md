@@ -32,6 +32,8 @@ faq:
     a: "Rarely, except in a condo or semi-detached. The entry price for a single-family home is high. If your budget is tight, Chambly or Saint-Hubert often offer a better entry point for a comparable profile."
   - q: "Do you also cover Sainte-Julie and Varennes?"
     a: "Yes. They are part of the same functional market and buyers who visit Saint-Bruno almost always visit at least one of the two."
+  - q: "Real estate agent or real estate broker in Saint-Bruno-de-Montarville: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Saint-Bruno-de-Montarville, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Saint-Bruno-de-Montarville is a thin, sought-after market. That combination produces particular behaviour: little inventory, ready buyers, and wide gaps between a well-presented property and another.

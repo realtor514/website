@@ -32,6 +32,8 @@ faq:
     a: "Rara vez, salvo en copropiedad o adosado. El precio de entrada para una unifamiliar es alto. Si su presupuesto es ajustado, Chambly o Saint-Hubert ofrecen a menudo un mejor punto de entrada."
   - q: "¿Cubre también Sainte-Julie y Varennes?"
     a: "Sí. Forman parte del mismo mercado funcional y los compradores que visitan Saint-Bruno visitan casi siempre al menos una de las dos."
+  - q: "Agente inmobiliario o corredor inmobiliario en Saint-Bruno-de-Montarville: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Saint-Bruno-de-Montarville, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Saint-Bruno-de-Montarville es un mercado estrecho y buscado. Esa combinación produce comportamientos particulares: poco inventario, compradores preparados y diferencias importantes entre una propiedad bien presentada y otra que no lo está.

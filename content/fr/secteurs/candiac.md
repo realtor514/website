@@ -32,6 +32,8 @@ faq:
     a: "Le Square Candiac est le principal pôle de développement récent, avec un mix de maisons de ville et de condos. Pour un revendeur dans ce secteur, la concurrence directe est souvent l'inventaire du promoteur, ce qui doit se refléter dans le prix d'affichage."
   - q: "Couvrez-vous aussi Saint-Constant et Sainte-Catherine?"
     a: "Oui, elles font partie du même marché fonctionnel que Candiac, Delson et La Prairie."
+  - q: "Agent immobilier ou courtier immobilier à Candiac: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Candiac, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Candiac est une ville planifiée depuis sa fondation en 1957, et ça se voit dans la structure de son marché: peu de développement désordonné, un parc immobilier homogène par secteur, des comparables plus fiables que dans la plupart des villes voisines.

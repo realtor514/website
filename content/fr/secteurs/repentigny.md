@@ -31,6 +31,8 @@ faq:
     a: "Le Gardeur, fusionné à Repentigny en 2002, conserve un parc immobilier et une dynamique de prix distincts, souvent plus abordables. Le Vieux-Repentigny est plus près du fleuve et des services, avec des propriétés plus anciennes et des terrains matures."
   - q: "Faites-vous les évaluations gratuites à Repentigny?"
     a: "Oui, sans frais et sans engagement, avec les comparables réels de votre secteur et non une estimation automatisée."
+  - q: "Agent immobilier ou courtier immobilier à Repentigny: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Repentigny, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Repentigny est la porte d'entrée de Lanaudière pour la majorité des acheteurs qui viennent de l'est de l'île. C'est un marché que je couvre au même titre que Laval, Montréal, Terrebonne, Blainville et Saint-Jérôme.

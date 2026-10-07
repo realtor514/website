@@ -32,6 +32,8 @@ faq:
     a: "Es el cálculo real que hay que hacer antes de comprar. La autopista 640 y el puente Charles-De Gaulle están congestionados en hora punta. El tren de cercanías y los estacionamientos disuasorios cambian la ecuación para algunos compradores, no para todos. Mi consejo: haga el trayecto real a la hora en que lo haría, antes de comprometerse."
   - q: "¿Ofrece evaluaciones gratuitas en Terrebonne?"
     a: "Sí. Análisis comparativo de mercado completo, sin costo ni compromiso, con las ventas recientes y las propiedades retiradas del mercado en su sector preciso."
+  - q: "Agente inmobiliario o corredor inmobiliario en Terrebonne: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Terrebonne, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Terrebonne atrae a muchos compradores que empezaron su búsqueda más cerca de la isla. La lógica es casi siempre la misma: con el mismo presupuesto obtienen más terreno y una casa más reciente, a cambio de un trayecto más largo.

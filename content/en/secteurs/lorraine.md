@@ -31,6 +31,8 @@ faq:
     a: "No. The closest station is Rosemère, on the exo Saint-Jérôme line, and an exo bus route links Terrebonne, Lorraine and the Rosemère station."
   - q: "Do you also cover Rosemère, Blainville and Bois-des-Filion?"
     a: "Yes. Rosemère and Blainville each have their own page, and Bois-des-Filion is part of the same market. Buyers who visit Lorraine often compare it with those three cities."
+  - q: "Real estate agent or real estate broker in Lorraine: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Lorraine, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Lorraine is a planned town. Founded in 1960 by a group of businessmen, it was designed from the start as a residential town: no industry, no high-density housing, buried utilities and not a single traffic light. More than sixty years later, that is still what defines its market. It is an area I cover on the same footing as the others.

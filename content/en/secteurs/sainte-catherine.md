@@ -31,6 +31,8 @@ faq:
     a: "For a minority of properties, yes. The preliminary map from the Montreal Metropolitan Community, published in 2024, counted 64 buildings in flood zones in the city, mostly near the Saint-Régis River. It has to be checked address by address, because it affects insurance, financing and resale."
   - q: "Do you also cover Delson, Candiac and Saint-Constant?"
     a: "Yes. These four cities form a single functional market and I cover all of them equally."
+  - q: "Real estate agent or real estate broker in Sainte-Catherine: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Sainte-Catherine, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Sainte-Catherine sits on the St. Lawrence shore facing LaSalle, between Kahnawake and Delson. The city was built mostly between 1981 and 2000: more than half of its dwellings date from that period, according to the 2021 census. It is an area I cover on the same footing as the others.

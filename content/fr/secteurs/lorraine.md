@@ -31,6 +31,8 @@ faq:
     a: "Non. La gare la plus proche est celle de Rosemère, sur la ligne exo Saint-Jérôme, et un circuit d'autobus exo relie Terrebonne, Lorraine et la gare de Rosemère."
   - q: "Couvrez-vous aussi Rosemère, Blainville et Bois-des-Filion?"
     a: "Oui. Rosemère et Blainville ont chacune leur page, et Bois-des-Filion fait partie du même marché. Les acheteurs qui visitent Lorraine comparent souvent avec ces trois villes."
+  - q: "Agent immobilier ou courtier immobilier à Lorraine: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Lorraine, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Lorraine est une ville planifiée. Fondée en 1960 par un groupe de gens d'affaires, elle a été pensée dès le départ comme une ville résidentielle: pas d'industrie, pas d'habitation à haute densité, des services publics enfouis et aucun feu de circulation. Plus de soixante ans plus tard, c'est encore ce qui définit son marché. C'est un secteur que je couvre au même titre que les autres.

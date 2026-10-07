@@ -31,6 +31,8 @@ faq:
     a: "Sí, y es más activo que en la mayoría de las ciudades de las Laurentides. La presencia del cégep, del hospital regional y de una base estable de inquilinos sostiene la demanda de alquiler. Los precios de entrada son inferiores a los de Laval, pero la gestión a distancia es un factor a considerar seriamente si no vive en la región."
   - q: "¿Cuál es la diferencia entre Bellefeuille, Lafontaine y Saint-Antoine?"
     a: "Son antiguos municipios fusionados con Saint-Jérôme, y cada uno conservó su propio parque inmobiliario. Bellefeuille ofrece terrenos más grandes y un carácter más rural, Lafontaine es más denso y está más cerca de los servicios, Saint-Antoine se sitúa entre ambos. Los comparables no se mezclan de un sector a otro."
+  - q: "Agente inmobiliario o corredor inmobiliario en Saint-Jérôme: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Saint-Jérôme, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Saint-Jérôme es el polo regional de las Laurentides: hospital, cégep, palacio de justicia, servicios administrativos. Eso genera una economía local y un mercado inmobiliario más diversificados que en las ciudades puramente residenciales del sector.

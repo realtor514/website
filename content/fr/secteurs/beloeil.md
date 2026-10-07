@@ -30,6 +30,8 @@ faq:
     a: "Une part importante: 29 % des logements sont des appartements dans des immeubles de moins de cinq étages, selon le recensement de 2021, contre 59 % de maisons individuelles."
   - q: "Couvrez-vous aussi Mont-Saint-Hilaire et Saint-Basile-le-Grand?"
     a: "Oui, je couvre les deux au même titre. Mont-Saint-Hilaire est juste de l'autre côté du Richelieu."
+  - q: "Agent immobilier ou courtier immobilier à Beloeil: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Beloeil, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Beloeil occupe la rive ouest du Richelieu, face à Mont-Saint-Hilaire, et l'autoroute 20 la traverse. La ville comptait 24 104 habitants au recensement de 2021. C'est un secteur que je couvre au même titre que les autres.

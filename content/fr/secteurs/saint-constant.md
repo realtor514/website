@@ -32,6 +32,8 @@ faq:
     a: "Oui, plusieurs secteurs se sont développés dans les vingt dernières années. Pour ces propriétés, la garantie de construction et l'état du drainage sont les deux points à vérifier en priorité."
   - q: "Faites-vous les évaluations gratuites à Saint-Constant?"
     a: "Oui, sans frais ni engagement, avec les comparables réels de votre rue."
+  - q: "Agent immobilier ou courtier immobilier à Saint-Constant: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Saint-Constant, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Saint-Constant fait partie du même bassin que Candiac, Delson et [Sainte-Catherine](/courtier-immobilier/sainte-catherine/), mais avec des prix généralement inférieurs à Candiac à superficie comparable. C'est ce qui en fait un point d'entrée intéressant dans le Roussillon.

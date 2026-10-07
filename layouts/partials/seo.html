@@ -296,14 +296,17 @@
        schema envoyait le markdown brut, du type [texte](/lien/), alors que la
        page montre un lien, et Google refuse que le texte du schema differe du
        texte visible. `plainify` retire ensuite les balises produites, le
-       schema attendant du texte et non du HTML. */ -}}
+       schema attendant du texte et non du HTML. `htmlUnescape` enfin: la
+       typographie de markdownify change l apostrophe en `&rsquo;`, que
+       `plainify` laissait telle quelle, et 62 pages envoyaient a Google
+       "l&rsquo;OACIQ" au lieu de "l'OACIQ". */ -}}
 {{- with .Params.faq -}}
   {{- $qa := slice -}}
   {{- range . -}}
     {{- $qa = $qa | append (dict
         "@type" "Question"
         "name" .q
-        "acceptedAnswer" (dict "@type" "Answer" "text" (.a | markdownify | plainify))) -}}
+        "acceptedAnswer" (dict "@type" "Answer" "text" (.a | markdownify | plainify | htmlUnescape))) -}}
   {{- end -}}
   {{- $graph = $graph | append (dict
       "@type" "FAQPage"

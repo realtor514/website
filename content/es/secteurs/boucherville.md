@@ -32,6 +32,8 @@ faq:
     a: "Limitado. La ciudad está dominada por la propiedad ocupada por su dueño y los inmuebles de renta son escasos. Si su objetivo es el rendimiento del alquiler, probablemente le orientaré hacia Longueuil o Laval."
   - q: "¿Ofrece evaluaciones gratuitas en Boucherville?"
     a: "Sí, sin costo ni compromiso, con los comparables reales de su sector."
+  - q: "Agente inmobiliario o corredor inmobiliario en Boucherville: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Boucherville, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Boucherville es uno de los mercados más estables del Gran Montreal. Las correcciones son en general menos bruscas que en otros lugares, pero el precio de entrada excluye a una parte de los compradores.

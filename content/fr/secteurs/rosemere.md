@@ -32,6 +32,8 @@ faq:
     a: "Oui, en bordure de la rivière des Mille Îles. C'est un marché distinct, avec des contraintes réglementaires de bande riveraine et parfois de zone inondable qu'il faut vérifier propriété par propriété."
   - q: "Faites-vous les évaluations gratuites à Rosemère?"
     a: "Oui, et c'est particulièrement utile ici: dans un marché à faible volume, une analyse manuelle vaut nettement mieux qu'un algorithme."
+  - q: "Agent immobilier ou courtier immobilier à Rosemère: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Rosemère, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Rosemère est un marché étroit, cher et peu liquide. Ce sont trois caractéristiques qui vont ensemble, et qui changent complètement la façon d'y acheter ou d'y vendre.

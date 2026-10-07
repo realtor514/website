@@ -32,6 +32,8 @@ faq:
     a: "Par l'autoroute 20 ou la 30, avec un service d'autobus vers le terminus Longueuil. C'est le principal facteur limitant pour une partie des acheteurs, et c'est un calcul à faire concrètement avant d'acheter."
   - q: "Faites-vous les évaluations gratuites à Sainte-Julie?"
     a: "Oui, sans frais ni engagement."
+  - q: "Agent immobilier ou courtier immobilier à Sainte-Julie: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Sainte-Julie, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Sainte-Julie est un marché familial stable, avec un parc immobilier homogène et des comparables fiables. C'est l'un des secteurs où l'analyse est la plus simple à faire correctement, à condition de respecter la logique des quartiers.

@@ -32,6 +32,8 @@ faq:
     a: "La gare la plus proche est à Sainte-Thérèse, sur la ligne Saint-Jérôme. C'est un facteur pour une partie des acheteurs, mais l'axe principal reste l'autoroute 15 et l'échangeur avec la 640."
   - q: "Faites-vous les évaluations gratuites à Boisbriand?"
     a: "Oui, sans frais ni engagement, avec les comparables réels de votre secteur."
+  - q: "Agent immobilier ou courtier immobilier à Boisbriand: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Boisbriand, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Boisbriand a changé de profil avec le développement du Faubourg, construit sur l'ancien site industriel. La ville comporte aujourd'hui deux logiques de marché qui coexistent.

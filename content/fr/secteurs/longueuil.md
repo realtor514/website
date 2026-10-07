@@ -34,6 +34,8 @@ faq:
     a: "Il touche surtout Brossard directement, mais l'effet se ressent à Saint-Hubert par report de demande. Le facteur déterminant à Longueuil reste la ligne jaune du métro et le pont Jacques-Cartier."
   - q: "Faites-vous les évaluations gratuites à Longueuil?"
     a: "Oui, sans frais et sans engagement, avec les comparables réels de votre arrondissement et non une estimation automatisée."
+  - q: "Agent immobilier ou courtier immobilier à Longueuil: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Longueuil, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Longueuil est la porte d'entrée de la Rive-Sud, et l'une des rares villes de la couronne où le métro relie directement le centre-ville de Montréal. C'est un secteur que je couvre au même titre que Laval, Montréal ou la couronne nord.

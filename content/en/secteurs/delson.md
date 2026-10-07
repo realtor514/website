@@ -31,6 +31,8 @@ faq:
     a: "For buyers who work downtown, yes. The Candiac line serves Delson and avoids the bridges. The price effect is concentrated on properties a short distance from the station."
   - q: "Do you offer free evaluations in Delson?"
     a: "Yes, free and with no obligation, using real comparables from your street."
+  - q: "Real estate agent or real estate broker in Delson: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Delson, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Delson is a small city in the Roussillon area, wedged between Candiac, Saint-Constant and [Sainte-Catherine](/en/real-estate-broker/sainte-catherine/). It is often the best entry point in the area for a buyer whose budget does not stretch to Candiac.

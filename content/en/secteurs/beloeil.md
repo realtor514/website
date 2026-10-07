@@ -30,6 +30,8 @@ faq:
     a: "A significant share: 29% of dwellings are apartments in buildings under five storeys, according to the 2021 census, compared with 59% single-detached houses."
   - q: "Do you also cover Mont-Saint-Hilaire and Saint-Basile-le-Grand?"
     a: "Yes, I cover both equally. Mont-Saint-Hilaire is just across the Richelieu."
+  - q: "Real estate agent or real estate broker in Beloeil: what is the difference?"
+    a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Beloeil, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
 Beloeil sits on the west bank of the Richelieu, facing Mont-Saint-Hilaire, and Highway 20 runs through it. The city had 24,104 residents at the 2021 census. It is an area I cover on the same footing as the others.

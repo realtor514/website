@@ -42,6 +42,8 @@ faq:
     a: "Sí. Los plex de Chomedey, Pont-Viau y Laval-des-Rapides representan una parte importante de mi trabajo. Analizo el rendimiento real antes de la visita: ingresos, impuestos, gastos, reserva para obras, y no la tasa anunciada en la ficha."
   - q: "¿En qué idiomas ofrece sus servicios?"
     a: "Francés, inglés y árabe. Es una ventaja concreta cuando una transacción involucra a una familia cuyos miembros no hablan todos el mismo idioma: nadie firma un documento que no entiende."
+  - q: "Agente inmobiliario o corredor inmobiliario en Laval: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Laval, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Laval es una de las seis zonas que cubro por igual, junto a Montreal, Terrebonne, Blainville, Repentigny y Saint-Jérôme. No tengo territorio secundario: cada zona tiene su propia dinámica y la analizo con el mismo rigor.

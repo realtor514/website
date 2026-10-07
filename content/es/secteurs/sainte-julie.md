@@ -32,6 +32,8 @@ faq:
     a: "Por la autopista 20 o la 30, con servicio de autobús hacia la terminal Longueuil. Es el principal factor limitante para parte de los compradores."
   - q: "¿Ofrece evaluaciones gratuitas en Sainte-Julie?"
     a: "Sí, sin costo ni compromiso."
+  - q: "Agente inmobiliario o corredor inmobiliario en Sainte-Julie: ¿cuál es la diferencia?"
+    a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Sainte-Julie, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
 Sainte-Julie es un mercado familiar estable, con un parque homogéneo y comparables fiables. Es una de las zonas donde el análisis es más sencillo de hacer bien, siempre que se respete la lógica de los barrios.

@@ -31,6 +31,8 @@ faq:
     a: "Pour une minorité de propriétés, oui. La carte préliminaire de la Communauté métropolitaine de Montréal, publiée en 2024, recensait 64 bâtiments en zone inondable dans la ville, surtout près de la rivière Saint-Régis. La vérification se fait adresse par adresse, parce qu'elle touche l'assurance, le financement et la revente."
   - q: "Couvrez-vous aussi Delson, Candiac et Saint-Constant?"
     a: "Oui. Ces quatre villes forment le même marché fonctionnel et je les couvre toutes au même titre."
+  - q: "Agent immobilier ou courtier immobilier à Sainte-Catherine: quelle différence?"
+    a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Sainte-Catherine, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
 Sainte-Catherine occupe la rive du Saint-Laurent face à LaSalle, entre Kahnawake et Delson. La ville s'est surtout construite entre 1981 et 2000: plus de la moitié des logements datent de cette période, selon le recensement de 2021. C'est un secteur que je couvre au même titre que les autres.
