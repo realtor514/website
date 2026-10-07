@@ -74,9 +74,11 @@ liquidación.
 
 ## Lo que viene con la agencia
 
-Tres protecciones RE/MAX Québec, sin costo adicional: Tranquilli-T para la
-asistencia jurídica, Integri-T para los vicios ocultos y Coproprie-T para la
-copropiedad. El detalle está en la [página de ventajas](/es/advantages/).
+Tres protecciones RE/MAX Québec: Tranquilli-T para la asistencia jurídica y
+Coproprie-T para la copropiedad, sin costo, e Integri-T para los vicios ocultos,
+una garantía de pago: desde 975 $ más impuestos cuando la paga el vendedor,
+675 $ más impuestos cuando la paga el comprador, tarifas sujetas a cambio sin
+previo aviso. El detalle está en la [página de ventajas](/es/advantages/).
 
 ## Territorio
 

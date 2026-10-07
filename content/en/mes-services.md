@@ -70,9 +70,11 @@ the settlement.
 
 ## What comes with the agency
 
-Three RE/MAX Québec protections, at no extra charge: Tranquilli-T for legal
-assistance, Integri-T for latent defects and Coproprie-T for co-ownership. The
-detail is on the [advantages page](/en/advantages/).
+Three RE/MAX Québec protections: Tranquilli-T for legal assistance and
+Coproprie-T for co-ownership, at no charge, and Integri-T for latent defects, a
+paid guarantee: from $975 plus taxes when the seller pays for it, $675 plus
+taxes when the buyer does, rates subject to change without notice. The detail
+is on the [advantages page](/en/advantages/).
 
 ## Territory
 

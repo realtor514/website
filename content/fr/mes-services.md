@@ -74,9 +74,11 @@ du règlement.
 
 ## Ce qui vient avec l'agence
 
-Trois protections RE/MAX Québec, sans frais supplémentaires: Tranquilli-T pour
-l'assistance juridique, Intégri-T pour les vices cachés et Coproprié-T pour la
-copropriété. Le détail est sur la [page des avantages](/advantages/).
+Trois protections RE/MAX Québec: Tranquilli-T pour l'assistance juridique et
+Coproprié-T pour la copropriété, sans frais, et Intégri-T pour les vices cachés,
+une garantie payante: à partir de 975 $ plus taxes lorsque le vendeur la paie,
+675 $ plus taxes lorsque c'est l'acheteur, tarifs modifiables sans préavis. Le
+détail est sur la [page des avantages](/advantages/).
 
 ## Territoire
 
