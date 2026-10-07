@@ -482,6 +482,100 @@ couvrent l'ensemble. Continuer a soumettre manuellement n'accelere plus rien.
 - Toute erreur signalee dans `Indexation > Pages > Pourquoi des pages ne
   sont pas indexees`: envoie-moi une capture, je corrige
 
+#### VAGUE DU 2026-10-07 - Pages modifiees ce jour et pages en attente
+
+Deux sources: les pages changees le 2026-10-07 (nouvelle page La Plaine, chiffres
+Centris sur 4 villes, titre de l'article commission, dans les 4 langues), et
+les 30 adresses que Search Console montrait en "Detectee, actuellement non
+indexee". Toutes verifiees en ligne le 2026-10-07: elles repondent.
+
+#### Vague 2026-10-07, jour 1 - Francais: La Plaine, les 4 villes avec chiffres, la commission, et les pages en attente les plus utiles
+
+```
+https://georgesmatar.ca/courtier-immobilier/la-plaine-terrebonne/
+https://georgesmatar.ca/courtier-immobilier/terrebonne/
+https://georgesmatar.ca/courtier-immobilier/blainville/
+https://georgesmatar.ca/courtier-immobilier/saint-bruno-de-montarville/
+https://georgesmatar.ca/courtier-immobilier/rosemere/
+https://georgesmatar.ca/articles/commission-explained-quebec/
+https://georgesmatar.ca/listings/
+https://georgesmatar.ca/courtier-immobilier/sainte-therese/
+https://georgesmatar.ca/articles/banlieue-ou-ville-cout-reel-montreal/
+https://georgesmatar.ca/articles/vendre-avant-acheter-clauses-quebec/
+```
+
+#### Vague 2026-10-07, jour 2 - Francais, suite, puis anglais: pages modifiees
+
+```
+https://georgesmatar.ca/articles/vendre-automne-hiver-presentation-quebec/
+https://georgesmatar.ca/articles/toit-vert-toit-reflechissant-montreal-reglement/
+https://georgesmatar.ca/articles/home-inspection-checklist-montreal/
+https://georgesmatar.ca/en/real-estate-broker/la-plaine-terrebonne/
+https://georgesmatar.ca/en/real-estate-broker/terrebonne/
+https://georgesmatar.ca/en/real-estate-broker/blainville/
+https://georgesmatar.ca/en/real-estate-broker/saint-bruno-de-montarville/
+https://georgesmatar.ca/en/real-estate-broker/rosemere/
+https://georgesmatar.ca/en/articles/commission-explained-quebec/
+https://georgesmatar.ca/en/listings/
+```
+
+#### Vague 2026-10-07, jour 3 - Anglais, articles en attente, puis espagnol: pages modifiees
+
+```
+https://georgesmatar.ca/en/articles/breaking-mortgage-penalty-quebec/
+https://georgesmatar.ca/en/articles/buying-in-flood-zone-quebec/
+https://georgesmatar.ca/en/articles/down-payment-myth-debunked/
+https://georgesmatar.ca/es/corredor-inmobiliario/la-plaine-terrebonne/
+https://georgesmatar.ca/es/corredor-inmobiliario/terrebonne/
+https://georgesmatar.ca/es/corredor-inmobiliario/blainville/
+https://georgesmatar.ca/es/corredor-inmobiliario/saint-bruno-de-montarville/
+https://georgesmatar.ca/es/corredor-inmobiliario/rosemere/
+https://georgesmatar.ca/es/articles/commission-explained-quebec/
+https://georgesmatar.ca/es/listings/
+```
+
+#### Vague 2026-10-07, jour 4 - Espagnol: articles en attente
+
+```
+https://georgesmatar.ca/es/articles/arboles-propiedad-reglamentos-quebec/
+https://georgesmatar.ca/es/articles/best-time-sell-home-montreal/
+https://georgesmatar.ca/es/articles/home-staging-client-story/
+https://georgesmatar.ca/es/articles/jornada-puertas-abiertas-vendedor-quebec/
+https://georgesmatar.ca/es/articles/radon-vivienda-quebec/
+https://georgesmatar.ca/es/articles/suburbio-o-ciudad-costo-real-montreal/
+https://georgesmatar.ca/es/articles/when-not-to-buy-real-estate/
+https://georgesmatar.ca/es/articles/worst-real-estate-deal-lessons/
+```
+
+#### Vague 2026-10-07, jour 5 - Arabe: pages modifiees et pages en attente
+
+```
+https://georgesmatar.ca/ar/wasit-aqari/la-plaine-terrebonne/
+https://georgesmatar.ca/ar/wasit-aqari/terrebonne/
+https://georgesmatar.ca/ar/wasit-aqari/blainville/
+https://georgesmatar.ca/ar/wasit-aqari/saint-bruno-de-montarville/
+https://georgesmatar.ca/ar/wasit-aqari/rosemere/
+https://georgesmatar.ca/ar/articles/commission-explained-quebec/
+https://georgesmatar.ca/ar/listings/
+https://georgesmatar.ca/ar/listings/4071-rang-saint-hyacinthe-mirabel/
+https://georgesmatar.ca/ar/wasit-aqari/chomedey-laval/
+```
+
+#### Vague 2026-10-07, jour 6 - Arabe: articles en attente
+
+```
+https://georgesmatar.ca/ar/articles/buying-century-old-home-quebec/
+https://georgesmatar.ca/ar/articles/documents-before-meeting-broker-quebec/
+https://georgesmatar.ca/ar/articles/hard-to-insure-home-quebec/
+https://georgesmatar.ca/ar/articles/house-flipping-montreal/
+https://georgesmatar.ca/ar/articles/increasing-plex-value-montreal/
+https://georgesmatar.ca/ar/articles/neighbour-disputes-quebec/
+https://georgesmatar.ca/ar/articles/spring-melt-water-infiltration-montreal/
+```
+
+Quand les 6 jours sont faits, retourne sur la ligne "Detectee, actuellement
+non indexee" et clique "Valider la correction".
+
 ### B. Google Business Profile (30 min) - PRIORITE 1
 
 C'est ce qui genere le plus de leads pour un courtier. La majorite des gens qui
