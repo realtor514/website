@@ -137,14 +137,23 @@ def banniere(chemin, W=2400, H=1600):
     # Portrait detoure, pied en bas, tete dans la bande que Plans conserve.
     p = Image.open(os.path.join(HERE, "draft", "Georges Matar sans mains_sans arriere plan.png")).convert("RGBA")
     p = p.crop(p.getchannel("A").getbbox())
-    ph = H - 420
-    # Descendu de 100 px (demande de Georges, 2026-10-07): dans le recadrage
-    # d Apple, le haut de la tete touchait le bord. Le bas du complet sort du
-    # cadre, ce qui ne se voit pas.
-    py = H - ph + 100
+    # Portrait entier, de la tete a la taille, dans la bande que Plans garde
+    # (y de 320 a 1280), demande de Georges le 2026-10-07: il voulait se voir
+    # le plus possible dans le recadrage d Apple, pas seulement le visage.
+    # Le bas se fond dans le navy, pour que la coupe a la taille ne se voie
+    # pas dans l image complete que montre Wallet.
+    ph = 930
+    py = haut + 15
     pw = round(p.width * ph / p.height)
     p = p.resize((pw, ph), Image.LANCZOS)
-    x0 = px + 110 - pw  # le visage dans le panneau, l epaule droite deborde a peine
+    fondu_bas = 170
+    a = p.getchannel("A")
+    masque = Image.new("L", (1, ph), 255)
+    for y in range(ph - fondu_bas, ph):
+        masque.putpixel((0, y), int(255 * ((ph - y) / fondu_bas) ** 1.3))
+    from PIL import ImageChops
+    p.putalpha(ImageChops.multiply(a, masque.resize((pw, ph))))
+    x0 = round(px / 2 - pw / 2 + 40)  # centre dans le panneau navy
     ombre = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     ombre.paste((0, 4, 18, 150), (x0 + 22, py + 18), p)
     from PIL import ImageFilter
