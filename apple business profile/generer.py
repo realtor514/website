@@ -102,6 +102,88 @@ def couverture(source, chemin, centre_x=0.5, largeur=1600, ratio=1.5):
     return im
 
 
+def banniere(chemin, W=2400, H=1600):
+    """Couverture dans l esprit de draft/aa1.jpg, demandee par Georges:
+    panneau navy avec le portrait, colonne creme avec le nom, le titre et
+    les coordonnees, logo de l agence, salon en fondu a droite.
+
+    ATTENTION: Apple demande une couverture sans texte ni montage. Celle-ci
+    risque d etre refusee; couverture-1-reception.jpg reste le plan B.
+
+    Format 1,5:1 (Wallet). Plans recadre en 2,5:1 au centre: tout le
+    contenu utile tient entre y = 320 et y = 1280."""
+    c = Image.new("RGBA", (W, H), CREME + (255,))
+    haut, bas = 320, 1280
+
+    # Salon a droite, en fondu vers le creme.
+    salon = Image.open(os.path.join(ROOT, "facebook", "sources", "interieur-salon.jpg")).convert("RGB")
+    sw = 560
+    sh = H
+    sx = round(salon.width * 0.58)  # cadrage sur la baie vitree et le canape
+    ratio = sh / salon.height
+    salon = salon.resize((round(salon.width * ratio), sh), Image.LANCZOS)
+    sx = min(max(0, round(sx * ratio) - sw // 2), salon.width - sw)
+    salon = salon.crop((sx, 0, sx + sw, sh)).convert("RGBA")
+    fondu = Image.new("L", (sw, 1))
+    for x in range(sw):
+        fondu.putpixel((x, 0), int(255 * min(1.0, max(0.0, (x - 40) / 360)) ** 1.4))
+    salon.putalpha(fondu.resize((sw, sh)))
+    c.alpha_composite(salon, (W - sw, 0))
+
+    # Panneau navy a gauche.
+    px = 900
+    ImageDraw.Draw(c).rectangle((0, 0, px, H), fill=NAVY + (255,))
+
+    # Portrait detoure, pied en bas, tete dans la bande que Plans conserve.
+    p = Image.open(os.path.join(HERE, "draft", "Georges Matar sans mains_sans arriere plan.png")).convert("RGBA")
+    p = p.crop(p.getchannel("A").getbbox())
+    ph = H - 420
+    pw = round(p.width * ph / p.height)
+    p = p.resize((pw, ph), Image.LANCZOS)
+    x0 = px + 110 - pw  # le visage dans le panneau, l epaule droite deborde a peine
+    ombre = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ombre.paste((0, 4, 18, 150), (x0 + 22, H - ph + 18), p)
+    from PIL import ImageFilter
+    c.alpha_composite(ombre.filter(ImageFilter.GaussianBlur(30)))
+    c.alpha_composite(p, (x0, H - ph))
+
+    d = ImageDraw.Draw(c)
+    colonne = (px + 110 + (W - sw + 40)) / 2  # centre de la colonne creme
+
+    def centre(y, s, f, track=0, fill=NAVY):
+        larg = [d.textlength(ch, font=f) for ch in s]
+        tot = sum(larg) + track * (len(s) - 1)
+        x = colonne - tot / 2
+        for ch, w in zip(s, larg):
+            d.text((x, y), ch, font=f, fill=fill)
+            x += w + track
+
+    centre(haut + 50, "Georges", playfair(150, 600))
+    centre(haut + 235, "MATAR", playfair(128, 500), track=34)
+    centre(haut + 420, "COURTIER IMMOBILIER RÉSIDENTIEL", inter(33, 500), track=6)
+    centre(haut + 495, "(438) 372-0102", inter(58, 500))
+    centre(haut + 580, "georges.matar@remax-quebec.com", inter(42, 400))
+
+    # Logo de l agence, en navy comme dans aa1: le noir du fichier officiel
+    # devient navy, le ballon garde ses couleurs.
+    lg = Image.open(os.path.join(ROOT, "marketing tools by Daniella et Yassine",
+                                 "logos", "logo-ducartier-noir2.png")).convert("RGBA")
+    lg = lg.crop(lg.getchannel("A").getbbox())
+    px_ = lg.load()
+    for y in range(lg.height):
+        for x in range(lg.width):
+            r, g, b, a = px_[x, y]
+            if a and max(r, g, b) < 90:
+                px_[x, y] = NAVY + (a,)
+    lh = 170
+    lg = lg.resize((round(lg.width * lh / lg.height), lh), Image.LANCZOS)
+    c.alpha_composite(lg, (round(colonne - lg.width / 2), bas - lh - 20))
+
+    c = c.convert("RGB")
+    c.save(chemin, quality=92, optimize=True, progressive=True)
+    return c
+
+
 def apercu(cov, lg, chemin):
     """Montre la couverture comme Apple la recadre: 2,5:1 dans Plans,
     1,5:1 dans Wallet, avec le logo en rond par-dessus."""
@@ -127,4 +209,6 @@ if __name__ == "__main__":
     # reconnaissable. La reception, avec son comptoir rouge et le tapis RE/MAX,
     # dit tout de suite de quel bureau il s agit.
     apercu(c1, lg, os.path.join(APERCUS, "apercu-couverture-1.jpg"))
+    b = banniere(os.path.join(HERE, "couverture-banniere.jpg"))
+    apercu(b, lg, os.path.join(APERCUS, "apercu-couverture-banniere.jpg"))
     print("ok")
