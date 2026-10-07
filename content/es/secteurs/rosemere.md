@@ -5,6 +5,7 @@ description: "Corredor inmobiliario residencial en Rosemère: Vieux-Rosemère, s
 city: "Rosemère"
 url: "/es/corredor-inmobiliario/rosemere/"
 translationKey: "secteur-rosemere"
+lastmod: 2026-10-07
 weight: 17
 cardText: "Basses-Laurentides: grandes terrenos arbolados, golf y ribera del río."
 facts:
@@ -37,6 +38,17 @@ faq:
 ---
 
 Rosemère es un mercado estrecho, caro y poco líquido. Son tres características que van juntas y que cambian por completo la forma de comprar o vender aquí.
+
+## Rosemère en cifras
+
+| Unifamiliar | Ventas | Precio mediano | Días en el mercado, en promedio |
+|---|---|---|---|
+| 3.er trimestre de 2026 | 26 | no publicado | no publicado |
+| Últimos 4 trimestres | 141 (-17 %) | 877 722 $ (+10 %) | 40 |
+
+Fuente: [estadísticas inmobiliarias de Centris para Rosemère](https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/rosemere), tercer trimestre de 2026 y acumulado de los últimos cuatro trimestres. Centris no publica una estadística cuando el número de transacciones es insuficiente para que sea fiable, como ocurre con Rosemère en un solo trimestre.
+
+Esa es la medida de este mercado: 141 ventas de casas en un año, un 17 % menos que el año anterior. Con tan pocas transacciones, una sola venta mueve la mediana. Por eso una evaluación seria se hace venta por venta y calle por calle, no sobre un promedio.
 
 ## Una oferta estructuralmente limitada
 

@@ -5,6 +5,7 @@ description: "Courtier immobilier résidentiel à Terrebonne: Vieux-Terrebonne, 
 city: "Terrebonne"
 url: "/courtier-immobilier/terrebonne/"
 translationKey: "secteur-terrebonne"
+lastmod: 2026-10-07
 weight: 3
 cardText: "Vieux-Terrebonne, Lachenaie, La Plaine et le développement Urbanova."
 facts:
@@ -38,13 +39,27 @@ faq:
 
 Terrebonne attire beaucoup d'acheteurs qui ont d'abord cherché plus près de l'île. La logique est presque toujours la même: à budget identique, ils obtiennent plus de terrain et une maison plus récente, en échange d'un trajet plus long.
 
+## Le marché de Terrebonne en chiffres
+
+Centris ne publie pas de statistique pour Terrebonne dans son ensemble. Il découpe la ville en trois sous-secteurs, et ce découpage est le bon: ce sont trois marchés.
+
+| Unifamiliale, 3e trimestre 2026 | Ventes | Prix médian | Jours sur le marché, en moyenne |
+|---|---|---|---|
+| Lachenaie | 63 (-20 %) | 695 000 $ (+4 %) | 34 |
+| Secteur Terrebonne | 107 (-25 %) | 632 500 $ (+5 %) | 37 |
+| [La Plaine](/courtier-immobilier/la-plaine-terrebonne/) | 56 (+21 %) | 520 000 $ (+3 %) | 31 |
+
+Source: statistiques immobilières de Centris pour [Terrebonne](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne), [Lachenaie](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie) et [La Plaine](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine), 3e trimestre 2026, soit de juillet à septembre. Les variations comparent au même trimestre de 2025.
+
+Deux lectures. D'abord l'écart: 175 000 $ de prix médian entre Lachenaie et La Plaine, dans la même ville. Un prix « à Terrebonne » ne veut rien dire tant qu'on ne précise pas le secteur. Ensuite le volume: les ventes ont reculé de 20 à 25 % dans les deux secteurs les plus chers et progressé de 21 % à La Plaine, le seul des trois en hausse. En copropriété, le secteur Terrebonne compte 42 ventes au même trimestre, à un prix médian de 442 000 $; Lachenaie et La Plaine n'en ont pas assez pour que Centris publie une médiane.
+
 ## Quatre secteurs, quatre marchés
 
 **[Le Vieux-Terrebonne](/courtier-immobilier/vieux-terrebonne/)** est le seul secteur de la région avec un véritable noyau patrimonial, et c'est un site patrimonial déclaré: toute modification extérieure y passe par une autorisation ministérielle avant le permis. Les propriétés y ont un cachet que l'on ne reproduit pas, mais aussi des réalités de bâtiment ancien: fondations, isolation, systèmes électriques. Ce n'est pas un défaut, c'est une donnée à intégrer dans le prix, dans l'inspection et dans le calendrier des travaux.
 
 **Lachenaie** représente le volume: des maisons construites majoritairement entre 1990 et 2015, des rues de quartier, des acheteurs familiaux. C'est le secteur où les comparables sont les plus fiables, parce que les propriétés se ressemblent suffisamment pour que la comparaison ait un sens.
 
-**La Plaine** reste la porte d'entrée la plus abordable de la ville. Les terrains y sont souvent plus grands, les services plus éloignés.
+**[La Plaine](/courtier-immobilier/la-plaine-terrebonne/)** reste la porte d'entrée la plus abordable de la ville. Les terrains y sont souvent plus grands, les services plus éloignés.
 
 **Urbanova** est un projet de développement durable planifié à long terme, avec des exigences architecturales et environnementales plus strictes que dans les développements traditionnels. Cela protège la valeur à long terme, mais impose aussi des contraintes qu'un acheteur doit connaître avant de signer, notamment sur les aménagements extérieurs.
 

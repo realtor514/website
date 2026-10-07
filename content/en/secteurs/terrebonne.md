@@ -5,6 +5,7 @@ description: "Residential real estate broker in Terrebonne: Old Terrebonne, Lach
 city: "Terrebonne"
 url: "/en/real-estate-broker/terrebonne/"
 translationKey: "secteur-terrebonne"
+lastmod: 2026-10-07
 weight: 3
 cardText: "Old Terrebonne, Lachenaie, La Plaine and the Urbanova development."
 facts:
@@ -38,13 +39,27 @@ faq:
 
 Terrebonne draws many buyers who started their search closer to the island. The logic is almost always the same: at an identical budget, they get more land and a newer home in exchange for a longer commute.
 
+## Terrebonne by the numbers
+
+Centris does not publish statistics for Terrebonne as a whole. It splits the city into three sub-sectors, and that split is the right one: they are three markets.
+
+| Single-family, Q3 2026 | Sales | Median price | Average days on market |
+|---|---|---|---|
+| Lachenaie | 63 (-20%) | $695,000 (+4%) | 34 |
+| Terrebonne sector | 107 (-25%) | $632,500 (+5%) | 37 |
+| [La Plaine](/en/real-estate-broker/la-plaine-terrebonne/) | 56 (+21%) | $520,000 (+3%) | 31 |
+
+Source: Centris real estate statistics for [Terrebonne](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne), [Lachenaie](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie) and [La Plaine](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine), third quarter of 2026, July to September. Changes compare with the same quarter of 2025.
+
+Two readings. First, the gap: $175,000 in median price between Lachenaie and La Plaine, in the same city. A price "in Terrebonne" means nothing until you name the sector. Second, volume: sales fell 20 to 25% in the two most expensive sectors and rose 21% in La Plaine, the only one of the three to grow. In condominiums, the Terrebonne sector had 42 sales in the same quarter at a median price of $442,000; Lachenaie and La Plaine had too few for Centris to publish a median.
+
 ## Four sectors, four markets
 
 **[Old Terrebonne](/en/real-estate-broker/vieux-terrebonne/)** is the only sector in the region with a genuine heritage core, and it is a declared heritage site: any exterior change goes through a ministerial authorization before the permit. Properties here have character that cannot be reproduced, but also the realities of older buildings: foundations, insulation, electrical systems. That is not a flaw, it is a data point to build into the price, the inspection and the work schedule.
 
 **Lachenaie** carries the volume: homes built mostly between 1990 and 2015, neighbourhood streets, family buyers. This is the sector where comparables are most reliable, because properties resemble each other enough for the comparison to mean something.
 
-**La Plaine** remains the most affordable entry point in the city. Lots are often larger, services further away.
+**[La Plaine](/en/real-estate-broker/la-plaine-terrebonne/)** remains the most affordable entry point in the city. Lots are often larger, services further away.
 
 **Urbanova** is a long-term sustainable development project with stricter architectural and environmental requirements than traditional developments. That protects long-term value, but also imposes constraints a buyer needs to understand before signing, particularly around landscaping.
 

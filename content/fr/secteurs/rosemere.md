@@ -5,6 +5,7 @@ description: "Courtier immobilier résidentiel à Rosemère: Vieux-Rosemère, se
 city: "Rosemère"
 url: "/courtier-immobilier/rosemere/"
 translationKey: "secteur-rosemere"
+lastmod: 2026-10-07
 weight: 17
 cardText: "Basses-Laurentides: grands terrains boisés, golf et bordure de la rivière."
 facts:
@@ -37,6 +38,17 @@ faq:
 ---
 
 Rosemère est un marché étroit, cher et peu liquide. Ce sont trois caractéristiques qui vont ensemble, et qui changent complètement la façon d'y acheter ou d'y vendre.
+
+## Le marché de Rosemère en chiffres
+
+| Unifamiliale | Ventes | Prix médian | Jours sur le marché, en moyenne |
+|---|---|---|---|
+| 3e trimestre 2026 | 26 | non publié | non publié |
+| 4 derniers trimestres | 141 (-17 %) | 877 722 $ (+10 %) | 40 |
+
+Source: [statistiques immobilières de Centris pour Rosemère](https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/rosemere), 3e trimestre 2026 et cumul des quatre derniers trimestres. Centris ne publie pas de statistique quand le nombre de transactions est insuffisant pour qu'elle soit fiable, ce qui est le cas de Rosemère sur un seul trimestre.
+
+C'est la mesure de ce marché: 141 ventes de maisons en un an, 17 % de moins que l'année précédente. Avec si peu de transactions, une seule vente déplace la médiane. L'évaluation sérieuse se fait donc vente par vente et rue par rue, pas sur une moyenne.
 
 ## Une offre structurellement limitée
 

@@ -5,6 +5,7 @@ description: "Corredor inmobiliario residencial en Saint-Bruno-de-Montarville: V
 city: "Saint-Bruno-de-Montarville"
 url: "/es/corredor-inmobiliario/saint-bruno-de-montarville/"
 translationKey: "secteur-saint-bruno-de-montarville"
+lastmod: 2026-10-07
 weight: 10
 cardText: "Rive-Sud: el monte Saint-Bruno, el Vieux-Saint-Bruno y los sectores familiares."
 facts:
@@ -37,6 +38,16 @@ faq:
 ---
 
 Saint-Bruno-de-Montarville es un mercado estrecho y buscado. Esa combinación produce comportamientos particulares: poco inventario, compradores preparados y diferencias importantes entre una propiedad bien presentada y otra que no lo está.
+
+## Saint-Bruno-de-Montarville en cifras
+
+| Unifamiliar | Ventas | Precio mediano | Días en el mercado, en promedio |
+|---|---|---|---|
+| 3.er trimestre de 2026 | 58 (-7 %) | 882 500 $ (+3 %) | 36 |
+
+Fuente: [estadísticas inmobiliarias de Centris para Saint-Bruno-de-Montarville](https://www.centris.ca/fr/outils/statistiques-immobilieres/monteregie/saint-bruno-de-montarville), tercer trimestre de 2026, de julio a septiembre. Las variaciones se comparan con el mismo trimestre de 2025.
+
+Un precio mediano de 882 500 $ con 58 ventas en tres meses: es un mercado caro y estrecho, donde cada venta comparable pesa. En los últimos cuatro trimestres, Centris registra 268 ventas de viviendas unifamiliares, un volumen casi estable (-1 %). El condominio sigue siendo marginal: 10 ventas en el tercer trimestre, muy pocas para publicar una mediana.
 
 ## Lo que distingue a este mercado
 

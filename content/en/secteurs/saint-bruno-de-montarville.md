@@ -5,6 +5,7 @@ description: "Residential real estate broker in Saint-Bruno-de-Montarville: Vieu
 city: "Saint-Bruno-de-Montarville"
 url: "/en/real-estate-broker/saint-bruno-de-montarville/"
 translationKey: "secteur-saint-bruno-de-montarville"
+lastmod: 2026-10-07
 weight: 10
 cardText: "South Shore: Mont Saint-Bruno, Vieux-Saint-Bruno and the family sectors."
 facts:
@@ -37,6 +38,16 @@ faq:
 ---
 
 Saint-Bruno-de-Montarville is a thin, sought-after market. That combination produces particular behaviour: little inventory, ready buyers, and wide gaps between a well-presented property and another.
+
+## Saint-Bruno-de-Montarville by the numbers
+
+| Single-family | Sales | Median price | Average days on market |
+|---|---|---|---|
+| Q3 2026 | 58 (-7%) | $882,500 (+3%) | 36 |
+
+Source: [Centris real estate statistics for Saint-Bruno-de-Montarville](https://www.centris.ca/fr/outils/statistiques-immobilieres/monteregie/saint-bruno-de-montarville), third quarter of 2026, July to September. Changes compare with the same quarter of 2025.
+
+A median price of $882,500 on 58 sales in three months: this is an expensive, narrow market where every comparable sale carries weight. Over the last four quarters, Centris counts 268 single-family sales, a nearly stable volume (-1%). Condominiums remain marginal: 10 sales in the third quarter, too few for a published median.
 
 ## What sets this market apart
 

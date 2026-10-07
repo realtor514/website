@@ -5,6 +5,7 @@ description: "Courtier immobilier résidentiel à Saint-Bruno-de-Montarville: Vi
 city: "Saint-Bruno-de-Montarville"
 url: "/courtier-immobilier/saint-bruno-de-montarville/"
 translationKey: "secteur-saint-bruno-de-montarville"
+lastmod: 2026-10-07
 weight: 10
 cardText: "Rive-Sud: le mont Saint-Bruno, le Vieux-Saint-Bruno et les secteurs familiaux."
 facts:
@@ -37,6 +38,16 @@ faq:
 ---
 
 Saint-Bruno-de-Montarville est un marché étroit et recherché. C'est une combinaison qui produit des comportements particuliers: peu d'inventaire, des acheteurs prêts, et des écarts importants entre une propriété bien présentée et une autre.
+
+## Le marché de Saint-Bruno-de-Montarville en chiffres
+
+| Unifamiliale | Ventes | Prix médian | Jours sur le marché, en moyenne |
+|---|---|---|---|
+| 3e trimestre 2026 | 58 (-7 %) | 882 500 $ (+3 %) | 36 |
+
+Source: [statistiques immobilières de Centris pour Saint-Bruno-de-Montarville](https://www.centris.ca/fr/outils/statistiques-immobilieres/monteregie/saint-bruno-de-montarville), 3e trimestre 2026, soit de juillet à septembre. Les variations comparent au même trimestre de 2025.
+
+Un prix médian de 882 500 $ pour 58 ventes en trois mois: c'est un marché cher et étroit, où chaque vente comparable pèse. Sur les quatre derniers trimestres, Centris recense 268 ventes d'unifamiliales, un volume presque stable (-1 %). La copropriété reste marginale: 10 ventes au 3e trimestre, trop peu pour une médiane publiée.
 
 ## Ce qui distingue ce marché
 
