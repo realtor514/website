@@ -66,6 +66,98 @@ apparaitre directement dans les resultats Google.
 
 Ces etapes demandent tes identifiants. Je ne peux pas les faire a ta place.
 
+### Par ou commencer, d'apres Search Console (mis a jour le 2026-10-07)
+
+**Pourquoi c'est maintenant la priorite.** Sur 3 mois, Google a montre tes
+pages de secteurs 5 500 fois, sur 4 200 recherches du type "courtier immobilier
++ ville". Elles sont donc jugees pertinentes. Mais leur position moyenne est 38,
+soit la page 4: personne ne clique. Ce qui manque n'est pas dans le code, c'est
+la confiance que Google accorde au site et a la fiche, et elle vient de trois
+choses: les avis, les mentions dans les annuaires, les liens d'autres sites.
+
+**Ce mois-ci, dans cet ordre:**
+
+1. **10 avis Google en 30 jours.** Messages prets ci-dessous, dans les 4 langues.
+2. **Les 8 annuaires de l'etape 1**, plus bas. Descriptions pretes ci-dessous.
+3. **Centris**: verifier que ta fiche courtier pointe vers `https://georgesmatar.ca`.
+4. **Une chambre de commerce locale.** L'adhesion est payante, mais la fiche
+   membre donne un lien local que Google respecte, dans les villes ou tes pages
+   sont les plus vues. Par ordre d'impressions: Terrebonne et Mascouche
+   (Chambre de commerce et d'industrie Les Moulins), Blainville, Rosemere,
+   Boisbriand, Sainte-Therese et Lorraine (Chambre de commerce et d'industrie
+   Therese-De Blainville), puis Laval (Chambre de commerce et d'industrie de
+   Laval). Verifie le cout et ce que comprend la fiche avant de payer.
+
+#### Demander un avis: messages a copier
+
+Le lien: dans Google Business Profile, "Demander des avis", copie le lien court
+`g.page/r/...` et remplace `[lien]`. Envoie a tous tes anciens clients, puis
+systematiquement le jour de la signature chez le notaire.
+
+Demander au client de mentionner la ville et le type de transaction est permis:
+c'est une suggestion, pas un texte impose. Ne jamais offrir de contrepartie,
+Google retire les avis obtenus contre un avantage.
+
+**Francais, courriel**
+> Bonjour [Prénom], j'espère que tout va bien dans la maison. J'ai une petite
+> demande: un avis Google de votre part aiderait d'autres familles à me trouver.
+> Ça prend 30 secondes: [lien]. Si vous le souhaitez, mentionnez la ville et ce
+> que nous avons fait ensemble, achat ou vente. Merci beaucoup! Georges
+
+**Francais, texto**
+> Bonjour [Prénom], c'est Georges. Un avis Google de votre part m'aiderait
+> beaucoup, 30 secondes: [lien]. Merci!
+
+**English, email**
+> Hi [First name], I hope you are enjoying the house. A small favour: a Google
+> review from you would help other families find me. It takes 30 seconds:
+> [lien]. If you like, mention the city and what we did together, buying or
+> selling. Thank you so much! Georges
+
+**English, text**
+> Hi [First name], it's Georges. A Google review would help me a lot, it takes
+> 30 seconds: [lien]. Thank you!
+
+**Español, correo**
+> Hola [Nombre], espero que estén disfrutando de la casa. Un pequeño favor: una
+> reseña en Google ayudaría a otras familias a encontrarme. Toma 30 segundos:
+> [lien]. Si lo desea, mencione la ciudad y lo que hicimos juntos, compra o
+> venta. ¡Muchas gracias! Georges
+
+**العربية، رسالة**
+> مرحباً [الاسم]، أتمنى أن تكونوا مرتاحين في منزلكم الجديد. لدي طلب صغير: تقييمكم
+> على Google يساعد عائلات أخرى على إيجادي. يستغرق 30 ثانية فقط: [lien]. وإن
+> رغبتم، اذكروا المدينة ونوع المعاملة، شراء أو بيع. شكراً جزيلاً! جورج
+
+#### Descriptions pretes pour les annuaires
+
+Coordonnees: toujours le bloc de la section E, au caractere pres.
+
+**Courte, francais (moins de 250 caracteres)**
+> Georges Matar, courtier immobilier résidentiel chez RE/MAX Du Cartier à
+> Laval. Achat, vente et évaluation gratuite à Laval, Montréal, sur la
+> Rive-Nord et la Rive-Sud. Services en français, anglais, espagnol et arabe.
+
+**Short, English (under 250 characters)**
+> Georges Matar, residential real estate broker with RE/MAX Du Cartier in
+> Laval. Buying, selling and free home evaluations in Laval, Montreal, the
+> North Shore and the South Shore. Service in French, English, Spanish and
+> Arabic.
+
+**Longue, francais:** la description Google de la section B, telle quelle.
+
+**Long, English**
+> Georges Matar, residential real estate broker with RE/MAX Du Cartier. I
+> serve Laval, Montreal, Longueuil, Brossard, Terrebonne, Boucherville and
+> Repentigny, as well as the North Shore, the South Shore, the Laurentians,
+> Lanaudière and Montérégie. Buying, selling and investing: a free comparative
+> market analysis, pricing based on real data for your area, negotiation and
+> guidance through to the notary signing. Service in French, English, Spanish
+> and Arabic. RE/MAX Québec's exclusive programs are included at no cost:
+> Tranquilli-T (legal assistance), Intégri-T (up to $50,000 against latent
+> defects for 3 years) and Coproprie-T (condominiums). First consultation free,
+> with no obligation.
+
 ### 0. Citations et annuaires d'entreprises - PRIORITE 1
 
 Objectif: que `georgesmatar.ca`, le nom de courtage et la fiche Google Business
@@ -414,7 +506,10 @@ Categories secondaires a ajouter:
 Ne mets pas de mots-cles supplementaires (Google peut suspendre la fiche).
 
 **3. Adresse et zone de service**
-- Adresse: 2820, boul. St-Martin Est, Bureau 201, Laval (Duvernay), QC H7E 5A1
+- Adresse: celle du bloc de la section E, `2820 Boul Saint-Martin Est, Laval,
+  QC H7E 5A1`. L'ancienne forme "2820, boul. St-Martin Est, Bureau 201" ne doit
+  plus etre utilisee nulle part: deux ecritures de la meme adresse divisent la
+  confiance de Google entre deux fiches.
 - Active "Je sers aussi mes clients en dehors de cette adresse"
 - Zones de service: Google en accepte 20 au maximum. Le site couvre 30
   villes, il faut donc choisir. Proposition, les plus grands marches autour
