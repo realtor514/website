@@ -79,29 +79,80 @@ tout, parce que Google mesure le taux et le delai de reponse.
 
 ## ETAPE 11 - Les services
 
-Section tres negligee. Google s en sert pour faire correspondre la fiche a
-des requetes precises.
+**FAIT le 2026-10-07.** Version finale telle que saisie par Georges dans la
+fiche, avec deux retouches signalees le meme jour:
 
-- [ ] Depuis le panneau de la fiche, cliquer sur **"Editer les services"**
-- [ ] Ajouter les services suivants, un par un:
+- [ ] Service en arabe: retirer la derniere phrase de la description ("Peu de
+      courtiers l offrent a Laval: c est votre meilleur differenciateur").
+      C etait un conseil adresse a Georges, pas un texte pour les clients, et
+      une affirmation comparative invérifiable. Version correcte ci-dessous.
+- [ ] Coller les 3 descriptions de la categorie Investissement immobilier.
 
-```
-Évaluation gratuite de propriété
-Accompagnement à l'achat résidentiel
-Accompagnement à la vente résidentielle
-Investissement immobilier et plex
-Accompagnement des premiers acheteurs
-Accompagnement des nouveaux arrivants
-Analyse comparative de marché
-Vente de copropriété
-Service en anglais
-Service en espagnol
-Service en arabe
-```
+Categories: **Agent immobilier** (principale), **Investissement immobilier**
+(supplementaire). Evaluateur immobilier et Agence immobiliere ont ete
+retirees: le titre d evaluateur agree est reserve a l OEAQ, et l agence a sa
+propre fiche a la meme adresse (risque que Google cache l une des deux).
 
-- [ ] Enregistrer
+Choix de Georges: services en francais seulement (les cases proposees par
+Google se traduisent seules, pas les services personnalises). Il fait de la
+location, cote proprietaires et cote locataires, et loue et vend des
+proprietes meublees; le site le dit depuis le commit 75b8372. Terrains et
+constructions neuves sont sur la fiche mais pas encore sur la page Mes
+services du site.
 
-**Status:** pending
+### Agent immobilier
+
+- **Achat et vente de propriétés de luxe**: Propriétés haut de gamme à Laval, à Montréal et sur les deux rives : prix établi sur des ventes comparables vérifiées, mise en marché soignée, visites privées sur rendez-vous et analyse de la solidité du financement de chaque acheteur.
+- **Estimations**: Premier ordre de grandeur en quelques secondes avec l'estimateur en ligne de georgesmatar.ca, puis estimation précise à partir des ventes comparables du secteur et d'une visite. Gratuite et sans engagement.
+- **Locations de propriétés**: Location résidentielle à Laval, à Montréal et sur les deux rives. Pour le propriétaire : un locataire vérifié et un bail en règle. Pour le locataire : un logement qui correspond à ses critères et à son budget.
+- **Services pour le premier achat d'un logement**: Premier achat pas à pas : capacité d'emprunt, mise de fonds, programmes gouvernementaux, droits de mutation et frais de clôture, avec les six calculateurs gratuits de georgesmatar.ca pour préparer chaque décision.
+- **Évaluations immobilières**: Évaluation de la valeur marchande d'une maison, d'un condo ou d'un plex, fondée sur les ventes comparables vérifiées du secteur, l'état de la propriété et une visite. Gratuite, sans engagement, expliquée à partir des comparables retenus.
+- **Services pour premiers acheteurs**: Pour un premier achat : budget réel avant la première visite, RAP et crédits d'impôt applicables, choix du secteur, puis lecture du rapport d'inspection et de chaque document avant de signer.
+- **Location et vente de terrains**: Terrains à vocation résidentielle : vérification du zonage, des services municipaux et des contraintes de la municipalité avant l'offre, puis négociation et coordination avec l'arpenteur et le notaire.
+- **Vente et location de propriétés neuves**: Construction neuve : lecture du contrat préliminaire du constructeur, vérification de la garantie de construction résidentielle (GCR) applicable, accompagnement à l'inspection de réception. Location de logements neufs pour les propriétaires.
+- **Location de propriétés**: Pour les propriétaires : mise en location du logement, annonce, visites, vérification des candidats dans le respect de la Charte des droits et libertés, et signature du bail obligatoire du TAL. Pour les locataires : recherche d'un logement selon vos critères et votre budget.
+- **Aide à la relocalisation**: Vous arrivez dans la région pour un emploi ou de l'étranger : choix du secteur selon vos trajets et vos écoles, location le temps de vous installer, puis achat au bon moment. Service en français, en anglais et en arabe.
+- **Vente de propriétés résidentielles**: Prix établi à partir de ventes comparables récentes et vérifiées, préparation du dossier (certificat de localisation, déclarations du vendeur), photographie professionnelle, inscription Centris, diffusion RE/MAX, visites, puis analyse et négociation de chaque offre jusqu'à la signature.
+- **Accompagnement à l'achat d'une propriété**: Budget réel établi avant la première visite, mise de fonds et frais de clôture compris. Visites, lecture critique de la déclaration du vendeur et des documents de copropriété, négociation, puis coordination avec l'inspecteur, le courtier hypothécaire et le notaire.
+- **Accompagnement à la vente d'une propriété**: Un seul interlocuteur du premier appel à la signature chez le notaire : stratégie de prix, préparation des documents, visites, négociation, puis suivi des conditions de l'acheteur jusqu'à la vente ferme.
+- **Évaluation gratuite de la valeur marchande**: Gratuite et sans engagement, à partir des ventes comparables du secteur et d'une visite de la propriété. Utile pour préparer une vente, un refinancement ou un partage successoral. Elle ne crée aucun contrat de courtage.
+- **Analyse comparative de marché**: Comparaison de votre propriété avec les ventes récentes et vérifiées de votre secteur, à Laval, à Montréal ou sur les deux rives, pour fixer un prix de mise en marché que l'on peut défendre devant un acheteur. Gratuite et sans engagement.
+- **Mise en marché et inscription Centris**: Photographie professionnelle, inscription sur Centris, diffusion sur le réseau RE/MAX et sur les réseaux sociaux, organisation des visites.
+- **Services de marketing immobilier**: Photographie professionnelle, description rédigée pour Centris, diffusion sur le réseau RE/MAX et sur Instagram et Facebook, puis suivi de chaque demande de visite.
+- **Coordination de visites libres**: Organisation des visites libres : annonce de la date sur Centris et sur les réseaux sociaux, accueil des visiteurs sur place, puis suivi de chaque acheteur intéressé.
+- **Visites privées et visites libres**: Organisation et accompagnement des visites, sur rendez-vous ou en visite libre.
+- **Représentation des acheteurs**: Avec un contrat de courtage achat écrit, je représente vos intérêts d'acheteur : recherche, visites, avis franc sur chaque propriété, promesse d'achat et négociation. Le plus souvent, l'acheteur ne paie rien : la rétribution vient du produit de la vente.
+- **Représentation des vendeurs**: Contrat de courtage vente sur le formulaire obligatoire de l'OACIQ : vos intérêts de vendeur passent en premier, du prix de mise en marché jusqu'à la levée des conditions. Honoraires payables à la vente seulement, écrits au contrat.
+- **Achat et vente de copropriétés (condos)**: Lecture des documents de la copropriété avant l'offre, fonds de prévoyance compris. Protection Coproprié-T de RE/MAX Québec, sans frais.
+- **Services de vente de condos**: Vente de condos à Laval et à Montréal : demande de l'attestation au syndicat, documents de copropriété prêts pour l'acheteur, réponses claires sur les charges et le fonds de prévoyance.
+- **Vente de maisons unifamiliales**: Vente de maisons unifamiliales à Laval, à Montréal, sur la Rive-Nord et sur la Rive-Sud : prix fondé sur les ventes comparables du quartier, préparation du certificat de localisation et des déclarations du vendeur, mise en marché Centris et RE/MAX.
+- **Vente de maisons de ville**: Vente de maisons de ville et de jumelés : comparaison avec les ventes récentes du même type de propriété dans le secteur, lecture du certificat de localisation pour les murs mitoyens et, en copropriété, des documents du syndicat.
+- **Vente de propriétés de luxe**: Vente de propriétés haut de gamme : photographie professionnelle, diffusion sur le réseau RE/MAX, visites privées sur rendez-vous seulement, et analyse serrée du financement de chaque acheteur avant d'accepter une offre.
+- **Achat et vente de plex et d'immeubles à revenus**: Analyse de rentabilité d'un duplex, d'un triplex ou d'un immeuble à revenus : revenus bruts, dépenses réelles, multiplicateur, rendement sur la mise de fonds, baux, registre des loyers et zonage.
+- **Vente de propriétés d'investissement**: Vente d'un plex ou d'un immeuble à revenus : dossier complet pour l'acheteur investisseur (baux, registre des loyers, revenus, dépenses réelles), prix fondé sur le rendement et les comparables, dans le respect des droits des locataires en place.
+- **Services de négociation immobilière**: Analyse de chaque offre, de ses conditions et de la solidité du financement de l'acheteur, puis négociation du prix, des délais et des conditions. Côté acheteur, négociation de la promesse d'achat et des suites de l'inspection.
+- **Accompagnement pour les promesses d'achat**: Rédaction de la promesse d'achat sur le formulaire obligatoire de l'OACIQ, avec des conditions d'inspection et de financement adaptées à votre dossier, puis négociation et suivi de chaque condition jusqu'à sa levée.
+- **Consultation avant inscription**: Rencontre avant la mise en vente : prix réaliste selon les ventes comparables, liste des documents à réunir, travaux qui valent la peine ou non, et calendrier de mise en marché. Gratuite et sans engagement.
+- **Conseils en mise en valeur de propriété**: Recommandations concrètes avant les photos et les visites : quoi réparer, quoi ranger, quoi laisser tel quel. Le but : présenter la propriété sous son meilleur jour, sans engager de dépenses qui ne se récupèrent pas à la vente.
+- **Consultation immobilière**: Une question avant de décider : vendre ou garder, acheter maintenant ou attendre, louer ou acheter. Une réponse fondée sur vos chiffres et sur les données du marché, avec les calculateurs de georgesmatar.ca.
+- **Conseils sur le marché local et les quartiers**: Lecture du marché de chaque secteur : Laval, Montréal, Rive-Nord, Rive-Sud, Laurentides et Lanaudière. Prix récents, délais de vente et profil des acheteurs, avec une page détaillée par ville sur georgesmatar.ca.
+- **Assistance à la recherche de propriétés**: Recherche et alertes sur les inscriptions qui correspondent à votre projet, y compris celles qui ne sont pas encore largement diffusées. Visites organisées selon vos critères, avec un avis franc sur chaque propriété.
+- **Coordination de transactions immobilières**: Coordination de tous les intervenants : inspecteur, courtier hypothécaire, prêteur, notaire et courtier de l'autre partie, avec le suivi de chaque échéance pour qu'aucune condition ne tombe.
+- **Accompagnement jusqu'à la signature chez le notaire**: Suivi de chaque condition, coordination avec l'inspecteur, le courtier hypothécaire et le notaire, jusqu'à la signature de l'acte.
+- **Consultation stratégique**: Plan pour un projet en plusieurs étapes : vendre et acheter en même temps, passer d'un condo à un plex, préparer une succession. Ordre des transactions, délais et financement, la fiscalité étant à valider avec votre comptable.
+- **Vente en contexte de succession**: Vente d'une propriété dans une succession, avec les délais et les pièces que ces dossiers demandent, en coordination avec le notaire chargé du règlement.
+- **Vente en contexte de séparation**: Vente d'une propriété lors d'une séparation ou d'un partage, avec la coordination nécessaire entre les deux parties et le notaire.
+- **Accompagnement des nouveaux arrivants**: Les étapes d'un achat au Québec expliquées depuis le début : financement, droits de mutation, rôle du notaire, choix du quartier. Service en français, en anglais et en arabe.
+- **Service en anglais**: Accompagnement complet en anglais, de la première rencontre à la signature chez le notaire.
+- **Service en arabe**: Accompagnement complet en arabe, de la première rencontre à la signature chez le notaire.
+
+### Investissement immobilier
+
+- **Vente et location de nouvelles construction**: Investisseurs dans le neuf : comparaison du prix demandé avec les reventes du secteur, loyers attendus et garantie GCR applicable, avant de signer le contrat préliminaire du constructeur.
+- **Analyse comparative du marché**: Pour un immeuble à revenus : comparaison avec les plex vendus récemment dans le secteur, multiplicateur des revenus bruts et prix par logement, pour savoir si le prix demandé tient la route.
+- **Mise en marché**: Mise en marché d'un plex : dossier détaillé des revenus, des dépenses et des baux pour les acheteurs investisseurs, inscription Centris et diffusion sur le réseau RE/MAX.
+
+**Status:** fait, deux retouches a appliquer dans la fiche
 
 ---
 
