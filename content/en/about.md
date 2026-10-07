@@ -5,7 +5,7 @@ description: "Residential real estate broker holding OACIQ licence J7941, at RE/
 
 Residential real estate broker at RE/MAX DU CARTIER INC., holding licence
 **J7941** issued by the Organisme d'autoréglementation du courtage immobilier
-du Québec. The office is at 2820, boul. Saint-Martin Est, suite 201, in Laval
+du Québec. The office is at 2820 Boul Saint-Martin Est, suite 201, in Laval
 (Duvernay).
 
 ## Verify before you trust
@@ -67,5 +67,5 @@ and in Spanish.
 
 **Email:** georges.matar@remax-quebec.com
 
-**Office:** RE/MAX DU CARTIER INC., 2820, boul. Saint-Martin Est, suite 201,
-Laval (Duvernay), Québec H7E 5A1
+**Office:** RE/MAX DU CARTIER INC., 2820 Boul Saint-Martin Est, suite 201,
+Laval, QC H7E 5A1

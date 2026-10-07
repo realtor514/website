@@ -4,7 +4,12 @@ date: 2026-08-03
 lastmod: 2026-09-21
 category: "Inversión"
 description: "Aportación inicial, tratamiento de los alquileres, reglas del TAL y fiscalidad del alquiler: lo que cada una de estas dos compras exige de su comprador."
-image: "images/articles/triplex-vs-condo-montreal/featured.jpg"
+image: "images/articles/triplex-vs-condo-montreal/featured.jpg"
+image_credit:
+  auteur: "Dllu"
+  page: "https://commons.wikimedia.org/wiki/File:Habitat_67_2019_dllu_02.jpg"
+  licence: "CC BY-SA 4.0"
+  licence_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
 ---
 
 Un plex es una empresa. Un condominio es una vivienda cuya gestión del edificio

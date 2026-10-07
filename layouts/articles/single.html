@@ -31,7 +31,23 @@
        mise en page (CLS) que Google mesure dans les Core Web Vitals, sur les
        632 articles. */}}
   {{ with .Params.image }}
-  {{ partial "img.html" (dict "src" . "alt" $.Title "sizes" "(max-width: 864px) calc(100vw - 64px), 736px" "loading" "eager" "fetchpriority" "high" "style" "width:100%;height:auto;border-radius:12px;margin-bottom:32px") }}
+  {{ partial "img.html" (dict "src" . "alt" $.Title "sizes" "(max-width: 864px) calc(100vw - 64px), 736px" "loading" "eager" "fetchpriority" "high" "style" (cond (isset $.Params "image_credit") "width:100%;height:auto;border-radius:12px;margin-bottom:8px" "width:100%;height:auto;border-radius:12px;margin-bottom:32px")) }}
+  {{ end }}
+  {{/* Credit de la photo, pour les licences qui l exigent (CC BY, CC BY-SA
+       de Wikimedia Commons). Les photos Unsplash n en demandent pas et n ont
+       pas ce champ. Frontmatter attendu:
+         image_credit:
+           auteur: "Dllu"
+           page: "https://commons.wikimedia.org/wiki/File:..."
+           licence: "CC BY-SA 4.0"
+           licence_url: "https://creativecommons.org/licenses/by-sa/4.0/" */}}
+  {{ with .Params.image_credit }}
+  <p style="margin:0 0 32px;font-size:.75rem;color:#6b7280;text-align:end">
+    {{ if eq $.Lang "es" }}Foto{{ else if eq $.Lang "ar" }}الصورة{{ else }}Photo{{ end }}{{ if eq $.Lang "fr" }}&nbsp;:{{ else }}:{{ end }}
+    <a href="{{ .page }}" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline">{{ .auteur }}</a>,
+    {{ .source | default "Wikimedia Commons" }},
+    <a href="{{ .licence_url }}" target="_blank" rel="noopener license" style="color:inherit;text-decoration:underline">{{ .licence }}</a>
+  </p>
   {{ end }}
 
   {{ .Content }}

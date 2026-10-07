@@ -781,7 +781,7 @@ disableKinds = ["taxonomy", "term"]
   brokerage    = "RE/MAX DU CARTIER INC."
   phone        = "(438) 372-0102"
   email        = "georges.matar@remax-quebec.com"
-  address      = "2820, boul. Saint-Martin Est, bureau 201, Laval (Duvernay), Québec H7E 5A1"
+  address      = "2820 Boul Saint-Martin Est, bureau 201, Laval, QC H7E 5A1"
   remaxProfile = "https://remaxducartier.com/fr/courtiers/georges-matar-140955"
 
   # Identifiant de mesure Google Analytics 4, format G-XXXXXXXXXX.
@@ -793,7 +793,12 @@ disableKinds = ["taxonomy", "term"]
   # ── SEO / donnees structurees ──
   ogImage      = "images/og-georges-matar.jpg"
   phoneRaw     = "+14383720102"
-  streetAddress   = "2820, boul. Saint-Martin Est, bureau 201"
+  # Ecrite exactement comme sur la fiche Google Business (2026-10-06), au
+  # caractere pres: Google compare le nom, l adresse et le telephone du site,
+  # de la fiche et des annuaires. Elle alimente le pied de page et le JSON-LD.
+  # La fiche n indique pas le bureau 201: `address`, plus haut, le garde pour
+  # les pages de contact, ou le visiteur en a besoin pour trouver la porte.
+  streetAddress   = "2820 Boul Saint-Martin Est"
   addressLocality = "Laval"
   addressRegion   = "QC"
   postalCode      = "H7E 5A1"

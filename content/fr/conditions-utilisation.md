@@ -17,7 +17,7 @@ Georges Matar, courtier immobilier résidentiel chez RE/MAX DU CARTIER INC.,
 titulaire du permis J7941 délivré par l'Organisme d'autoréglementation du
 courtage immobilier du Québec.
 
-- Bureau: 2820, boul. Saint-Martin Est, bureau 201, Laval (Duvernay), Québec H7E 5A1
+- Bureau: 2820 Boul Saint-Martin Est, bureau 201, Laval, QC H7E 5A1
 - Téléphone: (438) 372-0102
 - Courriel: georges.matar@remax-quebec.com
 

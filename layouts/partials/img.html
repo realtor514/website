@@ -4,6 +4,10 @@
        sizes    largeur affichee, ex. "(max-width: 768px) 92vw, 400px"
        widths   largeurs a produire, defaut 480, 800, 1200
        class, style, loading (defaut lazy), fetchpriority: repris tels quels
+       differe  true: src, srcset et sizes sortent en data-src, data-srcset
+                et data-sizes, et un script les pose plus tard. Sert aux
+                diapositives cachees, qui ne doivent pas disputer la bande
+                passante a l image principale de la page.
 
      Hugo produit une version WebP par largeur, et le navigateur prend la
      plus petite qui couvre l ecran. Avant, chaque vignette chargeait la photo
@@ -44,9 +48,15 @@
 {{- else -}}
   {{- $fallback = $src | relURL -}}
 {{- end -}}
+{{- if .differe -}}
+<img data-src="{{ $fallback }}"
+  {{- with $set }} data-srcset="{{ delimit . ", " }}"{{ end }}
+  {{- with and $set $.sizes }} data-sizes="{{ . }}"{{ end }}
+{{- else -}}
 <img src="{{ $fallback }}"
   {{- with $set }} srcset="{{ delimit . ", " }}"{{ end }}
   {{- with and $set $.sizes }} sizes="{{ . }}"{{ end }}
+{{- end }}
   {{- if $w }} width="{{ $w }}" height="{{ $h }}"{{ end }} alt="{{ .alt }}"
   {{- with .class }} class="{{ . }}"{{ end }}
   {{- with .style }} style="{{ . | safeCSS }}"{{ end }}

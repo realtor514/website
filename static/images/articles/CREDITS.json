@@ -568,5 +568,12 @@
   "photographe": "kasia",
   "page": "https://unsplash.com/photos/a-man-cutting-a-tree-with-a-chainsaw-9wZCTO4SiMU",
   "recherche": "arborist cutting tree chainsaw"
+ },
+ "triplex-vs-condo-montreal": {
+  "source": "wikimedia",
+  "photographe": "Dllu",
+  "page": "https://commons.wikimedia.org/wiki/File:Habitat_67_2019_dllu_02.jpg",
+  "recherche": "Category:Habitat 67",
+  "licence": "CC BY-SA 4.0"
  }
 }

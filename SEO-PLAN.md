@@ -521,11 +521,12 @@ Verifie et corrige sur:
 - Pages Jaunes / YellowPages
 - Yelp
 
-Format de reference a utiliser partout:
+Format de reference a utiliser partout (mis a jour le 2026-10-06: c est
+l adresse exacte de la fiche Google, voir TODO-GOOGLE-BUSINESS.md, etape 16):
 ```
-Georges Matar - Courtier immobilier | RE/MAX Du Cartier
-2820, boul. St-Martin Est, Bureau 201
-Laval (Duvernay), QC H7E 5A1
+Georges Matar, RE/MAX Du Cartier
+2820 Boul Saint-Martin Est
+Laval, QC H7E 5A1
 (438) 372-0102
 https://georgesmatar.ca
 ```

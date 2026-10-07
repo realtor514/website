@@ -64,11 +64,15 @@
   // ── Nav scroll effect ──
   const nav = document.querySelector('.nav');
 
+  // Lectures d abord (position, hauteur), ecritures ensuite: lire la
+  // hauteur juste apres avoir change une classe forcait une mise en page
+  // complete a chaque evenement de defilement.
   window.addEventListener('scroll', () => {
-    nav.classList.toggle('nav--scrolled', window.scrollY > 40);
+    const y = window.scrollY;
     const max = document.documentElement.scrollHeight - window.innerHeight;
-    if (max > 0) progressBar.style.transform = `scaleX(${window.scrollY / max})`;
-    scrollBtn.classList.toggle('visible', window.scrollY > 500);
+    nav.classList.toggle('nav--scrolled', y > 40);
+    if (max > 0) progressBar.style.transform = `scaleX(${y / max})`;
+    scrollBtn.classList.toggle('visible', y > 500);
   }, { passive: true });
 
   // ── Scroll to top ──
@@ -81,24 +85,24 @@
   }, { threshold: 0.12 });
   document.querySelectorAll('.reveal, .reveal-left, .reveal-right').forEach(el => observer.observe(el));
 
-  // ── Hero animated blobs ──
-  (function () {
+  // ── Halos et particules du hero ──
+  // Crees apres l evenement load, plus pendant l analyse de la page: les
+  // deux halos flous de 420 px et les particules animees passaient avant
+  // l affichage du portrait. Absents sur telephone, ou ils coutaient de la
+  // batterie pour un effet a peine visible, et sans mouvement si le
+  // visiteur a demande moins d animations. 10 particules au lieu de 20.
+  function decorHero() {
     const hero = document.querySelector('.hero');
     if (!hero) return;
+    if (window.matchMedia('(max-width: 768px), (prefers-reduced-motion: reduce)').matches) return;
     [1, 2].forEach(n => {
       const b = document.createElement('div');
       b.className = `hero__blob hero__blob--${n}`;
       hero.appendChild(b);
     });
-  })();
-
-  // ── Hero floating particles ──
-  (function () {
-    const hero = document.querySelector('.hero');
-    if (!hero) return;
     const colors = ['rgba(255,18,0,.55)', 'rgba(0,67,255,.45)', 'rgba(255,255,255,.25)'];
     const sizes  = [3, 4, 5, 6];
-    for (let i = 0; i < 20; i++) {
+    for (let i = 0; i < 10; i++) {
       const p = document.createElement('div');
       p.className = 'hero__particle';
       const s = sizes[i % sizes.length];
@@ -112,7 +116,9 @@
       ].join(';');
       hero.appendChild(p);
     }
-  })();
+  }
+  if (document.readyState === 'complete') decorHero();
+  else window.addEventListener('load', decorHero);
 
   // ── Stats counter animation ──
   (function () {

@@ -5,7 +5,7 @@ description: "Corredor inmobiliario residencial con licencia OACIQ J7941, en RE/
 
 Corredor inmobiliario residencial en RE/MAX DU CARTIER INC., titular de la
 licencia **J7941** emitida por el Organisme d'autoréglementation du courtage
-immobilier du Québec. La oficina está en 2820, boul. Saint-Martin Est, oficina
+immobilier du Québec. La oficina está en 2820 Boul Saint-Martin Est, oficina
 201, en Laval (Duvernay).
 
 ## Verificar antes de confiar
@@ -67,5 +67,5 @@ español.
 
 **Correo:** georges.matar@remax-quebec.com
 
-**Oficina:** RE/MAX DU CARTIER INC., 2820, boul. Saint-Martin Est, oficina
-201, Laval (Duvernay), Québec H7E 5A1
+**Oficina:** RE/MAX DU CARTIER INC., 2820 Boul Saint-Martin Est, oficina
+201, Laval, QC H7E 5A1

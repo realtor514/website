@@ -4,7 +4,12 @@ date: 2026-08-03
 lastmod: 2026-09-21
 category: "Investissement"
 description: "Mise de fonds, prise en compte des loyers, encadrement du TAL, fiscalité de la location : ce que chacun de ces deux achats exige réellement de l'acheteur."
-image: "images/articles/triplex-vs-condo-montreal/featured.jpg"
+image: "images/articles/triplex-vs-condo-montreal/featured.jpg"
+image_credit:
+  auteur: "Dllu"
+  page: "https://commons.wikimedia.org/wiki/File:Habitat_67_2019_dllu_02.jpg"
+  licence: "CC BY-SA 4.0"
+  licence_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.fr"
 ---
 
 Un plex est une entreprise. Une copropriété est un logement dont la gestion de

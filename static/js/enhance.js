@@ -147,10 +147,12 @@
     targets.forEach(function (t) { t.el.setAttribute('data-parallax', ''); });
 
     var ticking = false;
+    // Meme regle que sweep(): toutes les lectures, puis toutes les ecritures.
     function update() {
       var vh = window.innerHeight;
-      targets.forEach(function (t) {
-        var r = t.el.getBoundingClientRect();
+      var rects = targets.map(function (t) { return t.el.getBoundingClientRect(); });
+      targets.forEach(function (t, i) {
+        var r = rects[i];
         if (r.bottom < -200 || r.top > vh + 200) return;
         var progress = (r.top + r.height / 2 - vh / 2) / vh;
         t.el.style.transform = 'translate3d(0,' + (progress * t.speed * 100).toFixed(1) + 'px,0)';
@@ -272,16 +274,20 @@
     /* Filet de securite: rien ne doit jamais rester invisible.
        A chaque defilement, tout ce qui a deja atteint le viewport est
        revele, meme si un observateur a manque son declenchement. */
+    /* Toutes les positions sont lues d abord, les classes ajoutees ensuite.
+       Lire une position juste apres avoir ajoute une classe force le
+       navigateur a refaire la mise en page de toute la page, et ce a chaque
+       element: sur l accueil, 27 000 px de haut, cette boucle bloquait le
+       telephone 611 ms au chargement, avant meme l affichage du portrait. */
     function sweep() {
       var limit = window.innerHeight * 0.95;
-      document.querySelectorAll('[data-stagger]:not(.is-in), [data-wipe]:not(.is-in), .section-header .eyebrow:not(.is-in)')
-        .forEach(function (el) {
-          if (el.getBoundingClientRect().top < limit) el.classList.add('is-in');
-        });
-      document.querySelectorAll('.section-header h2[data-split]:not(.split-ready)')
-        .forEach(function (el) {
-          if (el.getBoundingClientRect().top < limit) el.classList.add('split-ready');
-        });
+      var a = document.querySelectorAll('[data-stagger]:not(.is-in), [data-wipe]:not(.is-in), .section-header .eyebrow:not(.is-in)');
+      var b = document.querySelectorAll('.section-header h2[data-split]:not(.split-ready)');
+      var aIn = [], bIn = [];
+      a.forEach(function (el) { if (el.getBoundingClientRect().top < limit) aIn.push(el); });
+      b.forEach(function (el) { if (el.getBoundingClientRect().top < limit) bIn.push(el); });
+      aIn.forEach(function (el) { el.classList.add('is-in'); });
+      bIn.forEach(function (el) { el.classList.add('split-ready'); });
     }
     var sweeping = false;
     window.addEventListener('scroll', function () {
@@ -289,8 +295,21 @@
       sweeping = true;
       requestAnimationFrame(function () { sweep(); sweeping = false; });
     }, { passive: true });
-    requestAnimationFrame(sweep);
-    setTimeout(sweep, 600);
+
+    /* Au chargement, le meme filet passe par un observateur au seuil 0,
+       plus par sweep(): getBoundingClientRect() forcait la toute premiere
+       mise en page de l accueil, la plus couteuse (tout le texte d une page
+       de 27 000 px), en plein dans la fenetre ou Google mesure le temps de
+       blocage. L observateur obtient la meme reponse sans rien forcer. */
+    var filet = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (!e.isIntersecting) return;
+        e.target.classList.add(e.target.hasAttribute('data-split') ? 'split-ready' : 'is-in');
+        filet.unobserve(e.target);
+      });
+    }, { threshold: 0 });
+    document.querySelectorAll('[data-stagger]:not(.is-in), [data-wipe]:not(.is-in), .section-header .eyebrow:not(.is-in), .section-header h2[data-split]:not(.split-ready)')
+      .forEach(function (el) { filet.observe(el); });
   });
 })();
 

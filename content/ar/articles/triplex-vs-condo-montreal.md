@@ -5,6 +5,11 @@ lastmod: 2026-09-21
 category: "استثمار"
 description: "الدفعة الأولى، وكيف يحتسب المُقرض الإيجارات، وقواعد محكمة السكن الإدارية، وضريبة دخل الإيجار: ما يطلبه كل من هذين الشراءين منك فعلاً قبل أي حساب للعائد."
 image: "images/articles/triplex-vs-condo-montreal/featured.jpg"
+image_credit:
+  auteur: "Dllu"
+  page: "https://commons.wikimedia.org/wiki/File:Habitat_67_2019_dllu_02.jpg"
+  licence: "CC BY-SA 4.0"
+  licence_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.ar"
 ---
 
 المبنى متعدد الشقق مشروع تجاري. والشقة المشتركة سكن أُسندت إدارة مبناه إلى

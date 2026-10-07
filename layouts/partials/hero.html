@@ -7,12 +7,22 @@
 {{ if $isFr }}{{ $homeEstimateURL = "/tools/home-estimate/" }}{{ else if $isAr }}{{ $homeEstimateURL = "/ar/tools/home-estimate/" }}{{ else if $isEs }}{{ $homeEstimateURL = "/es/tools/home-estimate/" }}{{ end }}
 
 <section class="hero">
+  {{/* Diaporama de fond. Seule la premiere photo se charge avec la page:
+       les quatre autres partaient en meme temps que le portrait, element
+       LCP de l accueil, et lui prenaient la bande passante pour des images
+       encore invisibles. Elles arrivent apres l evenement load, a la taille
+       de l ecran, bien avant leur tour (6 s chacune). */}}
+  {{ $diapos := slice
+      (dict "src" "images/office/exterieur_par-proprietaire.webp" "fr" "Extérieur du bureau" "en" "Office exterior" "es" "Exterior de la oficina" "ar" "واجهة المكتب")
+      (dict "src" "images/office/hero-reception.webp" "fr" "Réception" "en" "Reception" "es" "Recepción" "ar" "الاستقبال")
+      (dict "src" "images/office/hero-conference.webp" "fr" "Salle de conférence" "en" "Conference room" "es" "Sala de conferencias" "ar" "قاعة الاجتماعات")
+      (dict "src" "images/office/hero-entrance.webp" "fr" "Entrée" "en" "Entrance" "es" "Entrada" "ar" "المدخل")
+      (dict "src" "images/office/hero-client-office.webp" "fr" "Bureau privé" "en" "Private office" "es" "Oficina privada" "ar" "مكتب خاص")
+  }}
   <div class="hero__bg-slideshow">
-    <img src="{{ "images/office/exterieur_par-proprietaire.webp" | relURL }}" alt="RE/MAX DU CARTIER - Laval" class="hero__bg-slide">
-    <img src="{{ "images/office/hero-reception.webp" | relURL }}" alt="RE/MAX DU CARTIER - Reception" class="hero__bg-slide">
-    <img src="{{ "images/office/hero-conference.webp" | relURL }}" alt="RE/MAX DU CARTIER - Salle de conference" class="hero__bg-slide">
-    <img src="{{ "images/office/hero-entrance.webp" | relURL }}" alt="RE/MAX DU CARTIER - Entree" class="hero__bg-slide">
-    <img src="{{ "images/office/hero-client-office.webp" | relURL }}" alt="RE/MAX DU CARTIER - Bureau" class="hero__bg-slide">
+    {{ range $i, $d := $diapos }}
+    {{ partial "img.html" (dict "src" $d.src "alt" (printf "RE/MAX DU CARTIER, Laval: %s" (index $d $.Lang)) "class" "hero__bg-slide" "sizes" "100vw" "widths" (slice 800 1200 1920) "loading" "eager" "fetchpriority" (cond (eq $i 0) "low" "") "differe" (gt $i 0)) }}
+    {{ end }}
   </div>
   <div class="hero__overlay"></div>
 
@@ -22,6 +32,15 @@
       if (slides.length < 2) return;
       var current = 0;
       slides[0].classList.add('is-active');
+      // Les diapositives 2 a 5 recoivent leur image apres le chargement.
+      window.addEventListener('load', function () {
+        for (var i = 1; i < slides.length; i++) {
+          var s = slides[i];
+          if (s.dataset.sizes) s.sizes = s.dataset.sizes;
+          if (s.dataset.srcset) s.srcset = s.dataset.srcset;
+          if (s.dataset.src) s.src = s.dataset.src;
+        }
+      });
       setInterval(function () {
         var next = (current + 1) % slides.length;
         slides[next].classList.add('is-active');

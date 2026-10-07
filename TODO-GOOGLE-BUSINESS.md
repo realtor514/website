@@ -17,7 +17,9 @@ cliquant sur **"Editer la fiche"**.
   Les regles de Google interdisent les mots-cles descriptifs dans le nom. Le
   nom actuel peut etre signale par un concurrent et entrainer une modification
   d office ou une suspension.
-  **Status:** pending
+  **Decision du 2026-10-06:** `Georges Matar, RE/MAX Du Cartier`. Reste a le
+  changer dans la fiche (Modifier le profil, Nom de l entreprise).
+  **Status:** decide, a appliquer dans la fiche
 
 - [x] **Envoyer a Claude les liens de profils sociaux**
   Recus et integres le 2026-08-31: Instagram, Facebook, YouTube. Ils sont dans
@@ -238,15 +240,20 @@ positions par rapport a une fiche equivalente qui repond.
 Google verifie que tes coordonnees sont identiques partout sur le web. Le
 moindre ecart dilue ton autorite locale.
 
-Format de reference a utiliser partout, au caractere pres:
+Format de reference a utiliser partout, au caractere pres. L adresse est
+celle de la fiche Google, confirmee le 2026-10-06; le pied de page et le
+balisage du site l affichent a l identique depuis cette date.
 
 ```
-Georges Matar - RE/MAX Du Cartier
-2820, boul. Saint-Martin Est, bureau 201
-Laval (Duvernay), QC H7E 5A1
+Georges Matar, RE/MAX Du Cartier
+2820 Boul Saint-Martin Est
+Laval, QC H7E 5A1
 (438) 372-0102
 https://georgesmatar.ca
 ```
+
+La fiche n indique pas le bureau 201. Si tu l ajoutes (Modifier le profil,
+Adresse, ligne 2), dis-le moi: je l ajoute aussi au pied de page.
 
 - [ ] Verifier et corriger la fiche RE/MAX Quebec
 - [ ] Verifier et corriger le profil Centris

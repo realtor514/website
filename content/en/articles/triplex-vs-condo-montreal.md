@@ -5,6 +5,11 @@ lastmod: 2026-09-21
 category: "Investment"
 description: "Down payment, how lenders treat rent, the Tribunal's rent-setting rules and rental taxation: what each of these two purchases actually demands of you."
 image: "images/articles/triplex-vs-condo-montreal/featured.jpg"
+image_credit:
+  auteur: "Dllu"
+  page: "https://commons.wikimedia.org/wiki/File:Habitat_67_2019_dllu_02.jpg"
+  licence: "CC BY-SA 4.0"
+  licence_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
 ---
 
 A plex is a business. A condo is a home whose building management is delegated.
