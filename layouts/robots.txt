@@ -17,9 +17,12 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
+{{/* L index, puis chaque sitemap de langue. Hugo range celui du francais
+     sous /fr/sitemap.xml, alors que les pages francaises vivent a la racine.
+     Google limite un sitemap aux adresses de son propre dossier, sauf s il
+     est soumis dans Search Console ou declare ici: sans cette ligne, les
+     221 adresses francaises dependaient du seul index. */ -}}
 Sitemap: {{ "sitemap.xml" | absURL }}
 {{ range .Site.Home.AllTranslations -}}
-{{ $sm := printf "%ssitemap.xml" .Permalink -}}
-{{ if ne $sm ("sitemap.xml" | absURL) }}Sitemap: {{ $sm }}
-{{ end -}}
+Sitemap: {{ printf "%s/sitemap.xml" .Lang | absURL }}
 {{ end -}}

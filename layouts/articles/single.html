@@ -94,9 +94,27 @@
   <div class="container">
     <h2 style="margin-bottom:32px">{{ if $isFr }}Plus d'articles{{ else if $isAr }}مزيد من المقالات{{ else if $isEs }}Más artículos{{ else }}More Articles{{ end }}</h2>
     <div class="articles-grid">
-      {{ $others := where .Site.RegularPages "Section" "articles" }}
-      {{ $others  = where $others "Permalink" "ne" .Permalink }}
-      {{ range first 3 $others }}{{ partial "article-card.html" . }}{{ end }}
+      {{/* Avant, ce bloc montrait partout les 3 articles les plus recents: ils
+           recevaient chacun pres de 160 liens, et 39 articles par langue n en
+           recevaient aucun d un autre article. Seule la liste paginee y menait,
+           et Google les laissait en "Detectee, actuellement non indexee".
+           Desormais: les deux voisins de la meme categorie, par date, puis le
+           voisin dans l ensemble des articles. Chaque article est ainsi lie par
+           ses voisins de categorie et par son voisin chronologique: aucun ne
+           reste sans lien. Les plus recents servent de complement. */}}
+      {{ $all  := where .Site.RegularPages "Section" "articles" }}
+      {{ $same := where $all "Params.category" .Params.category }}
+      {{ $cands := slice ($same.Next .) ($same.Prev .) ($all.Prev .) ($all.Next .) }}
+      {{ range $all }}{{ $cands = $cands | append . }}{{ end }}
+      {{ $seen := slice .Permalink }}
+      {{ $picks := slice }}
+      {{ range $cands }}
+        {{ if and . (lt (len $picks) 3) (not (in $seen .Permalink)) }}
+          {{ $seen  = $seen | append .Permalink }}
+          {{ $picks = $picks | append . }}
+        {{ end }}
+      {{ end }}
+      {{ range $picks }}{{ partial "article-card.html" . }}{{ end }}
     </div>
   </div>
 </section>
