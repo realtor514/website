@@ -150,13 +150,13 @@ Coordonnees: toujours le bloc de la section E, au caractere pres.
 > Georges Matar, residential real estate broker with RE/MAX Du Cartier. I
 > serve Laval, Montreal, Longueuil, Brossard, Terrebonne, Boucherville and
 > Repentigny, as well as the North Shore, the South Shore, the Laurentians,
-> Lanaudière and Montérégie. Buying, selling and investing: a free comparative
+> Lanaudière and Montérégie. Buying, selling and investing: a comparative
 > market analysis, pricing based on real data for your area, negotiation and
 > guidance through to the notary signing. Service in French, English, Spanish
-> and Arabic. RE/MAX Québec's exclusive programs are included at no cost:
-> Tranquilli-T (legal assistance), Intégri-T (up to $50,000 against latent
-> defects for 3 years) and Coproprie-T (condominiums). First consultation free,
-> with no obligation.
+> and Arabic. Included at no cost: Tranquilli-T, RE/MAX Québec's exclusive
+> legal assistance. Optional, paid: the Intégri-T guarantee, up to $50,000
+> against latent defects for 3 years. Coproprié-T certified (condominiums).
+> Contact me for a free consultation.
 
 ### 0. Citations et annuaires d'entreprises - PRIORITE 1
 
@@ -533,15 +533,22 @@ Copie-colle ceci:
 > dessers Laval, Montréal, Longueuil, Brossard, Terrebonne, Boucherville,
 > Repentigny, ainsi que la Rive-Nord, la Rive-Sud, les Laurentides, Lanaudière
 > et la Montérégie. Achat, vente et investissement: analyse comparative de
-> marché gratuite, stratégie de prix basée sur les données réelles du secteur,
+> marché, stratégie de prix basée sur les données réelles du secteur,
 > négociation et accompagnement jusqu'à la signature chez le notaire. Services
-> en français, anglais, espagnol et arabe. Les programmes exclusifs RE/MAX
-> Québec sont inclus sans frais: Tranquilli-T (assistance juridique), Intégri-T
-> (jusqu'à 50 000 $ contre les vices cachés pendant 3 ans) et Coproprie-T
-> (copropriété). Première consultation gratuite et sans engagement.
+> en français, anglais, espagnol et arabe. Inclus sans frais: Tranquilli-T,
+> l'assistance juridique exclusive de RE/MAX Québec. En option, payante: la
+> garantie Intégri-T, jusqu'à 50 000 $ contre les vices cachés pendant 3 ans.
+> Certifié Coproprié-T (copropriété). Contactez-moi pour une consultation
+> gratuite.
 
-(738 caractères, la limite de Google est 750. Colle le texte d'un seul bloc,
+(746 caractères, la limite de Google est 750. Colle le texte d'un seul bloc,
 sans les chevrons.)
+
+Corrige le 2026-10-07: l'ancienne version disait Intégri-T "inclus sans
+frais". C'est faux: la garantie coute a partir de 975 $ plus taxes payee par le
+vendeur, 675 $ plus taxes payee par l'acheteur (page Intégri-T du site). Seul
+Tranquilli-T est gratuit. Coproprié-T est une formation du courtier, pas une
+protection du client.
 
 **6. Photos - minimum 20** (c'est le point le plus neglige)
 - 1 logo (RE/MAX Du Cartier)
