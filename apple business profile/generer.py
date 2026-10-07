@@ -138,14 +138,18 @@ def banniere(chemin, W=2400, H=1600):
     p = Image.open(os.path.join(HERE, "draft", "Georges Matar sans mains_sans arriere plan.png")).convert("RGBA")
     p = p.crop(p.getchannel("A").getbbox())
     ph = H - 420
+    # Descendu de 100 px (demande de Georges, 2026-10-07): dans le recadrage
+    # d Apple, le haut de la tete touchait le bord. Le bas du complet sort du
+    # cadre, ce qui ne se voit pas.
+    py = H - ph + 100
     pw = round(p.width * ph / p.height)
     p = p.resize((pw, ph), Image.LANCZOS)
     x0 = px + 110 - pw  # le visage dans le panneau, l epaule droite deborde a peine
     ombre = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ombre.paste((0, 4, 18, 150), (x0 + 22, H - ph + 18), p)
+    ombre.paste((0, 4, 18, 150), (x0 + 22, py + 18), p)
     from PIL import ImageFilter
     c.alpha_composite(ombre.filter(ImageFilter.GaussianBlur(30)))
-    c.alpha_composite(p, (x0, H - ph))
+    c.alpha_composite(p, (x0, py))
 
     d = ImageDraw.Draw(c)
     colonne = (px + 110 + (W - sw + 40)) / 2  # centre de la colonne creme
