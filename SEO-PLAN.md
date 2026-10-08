@@ -77,10 +77,36 @@ choses: les avis, les mentions dans les annuaires, les liens d'autres sites.
 
 **Ce mois-ci, dans cet ordre:**
 
-1. **10 avis Google en 30 jours.** Messages prets ci-dessous, dans les 4 langues.
-2. **Les 8 annuaires de l'etape 1**, plus bas. Descriptions pretes ci-dessous.
-3. **Centris**: verifier que ta fiche courtier pointe vers `https://georgesmatar.ca`.
-4. **Une chambre de commerce locale.** L'adhesion est payante, mais la fiche
+1. **Le bouton "source preferee" de Google** (ajoute le 2026-10-08). Depuis
+   aout 2026, un visiteur peut ajouter ton site a ses sources preferees Google
+   depuis un bouton place sur ton propre site, sans quitter la page. Ensuite,
+   il voit tes pages avec un badge "preferee" dans A la une (Top Stories), les
+   apercus IA et le mode IA, la ou les clics disparaissent aujourd'hui. Selon
+   la video, Google annonce deux fois plus de clics sur une source preferee
+   (chiffre non verifie). Ce n'est pas un truc de classement: ce sont tes
+   lecteurs fideles qui te choisissent, a chaque recherche.
+   - **A verifier d'abord, par toi.** Ouvre, connecte a ton compte Google,
+     `https://www.google.com/preferences/source?q=georgesmatar.ca`. Si le site
+     n'apparait pas dans l'outil, le bouton ne fera rien. Seul un domaine entier
+     est admissible, pas un sous-dossier: georgesmatar.ca l'est. Il faut aussi
+     publier du contenu frais, ce que font les 3 articles par semaine. Pour les
+     apercus IA et le mode IA, le site doit en plus etre admissible aux
+     fonctions d'IA de la recherche, a verifier dans Search Console.
+   - **Version code, je m'en occupe.** Deux lignes. Dans le `<head>`:
+     `<script async src="https://news.google.com/swg/js/v1/publisher.js"></script>`.
+     La ou le bouton doit apparaitre: `<div google-add-preferred-source-btn></div>`,
+     avec `data-theme="dark"` sur fond navy et `data-lang` pour forcer fr, en,
+     es ou ar. Google dessine le bouton, le traduit et gere le mode sombre.
+     **Ta decision, c'est un choix de design:** ou le placer (fin de chaque
+     article, pied de page, ou les deux).
+   - **Version sans code, pour toi.** Le meme lien, a coller dans la bio
+     Instagram et Facebook, la signature courriel, l'infolettre et les messages
+     aux clients.
+   - Source: [Google Search Central, Preferred Sources](https://developers.google.com/search/docs/appearance/preferred-sources)
+2. **10 avis Google en 30 jours.** Messages prets ci-dessous, dans les 4 langues.
+3. **Les 8 annuaires de l'etape 1**, plus bas. Descriptions pretes ci-dessous.
+4. **Centris**: verifier que ta fiche courtier pointe vers `https://georgesmatar.ca`.
+5. **Une chambre de commerce locale.** L'adhesion est payante, mais la fiche
    membre donne un lien local que Google respecte, dans les villes ou tes pages
    sont les plus vues. Par ordre d'impressions: Terrebonne et Mascouche
    (Chambre de commerce et d'industrie Les Moulins), Blainville, Rosemere,
