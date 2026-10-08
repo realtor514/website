@@ -781,7 +781,7 @@ disableKinds = ["taxonomy", "term"]
   brokerage    = "RE/MAX DU CARTIER INC."
   phone        = "(438) 372-0102"
   email        = "georges.matar@remax-quebec.com"
-  address      = "2820, boul. St-Martin Est, Bureau 201, Duvernay (Laval), QC H7E 5A1"
+  address      = "2820, boul. St-Martin Est, Bureau 201, Laval, QC H7E 5A1"
   remaxProfile = "https://remaxducartier.com/fr/courtiers/georges-matar-140955"
 
   # Identifiant de mesure Google Analytics 4, format G-XXXXXXXXXX.
@@ -793,15 +793,12 @@ disableKinds = ["taxonomy", "term"]
   # ── SEO / donnees structurees ──
   ogImage      = "images/og-georges-matar.jpg"
   phoneRaw     = "+14383720102"
-  # L adresse confirmee par Georges le 2026-10-08, avec le bureau 201, une
-  # seule ecriture partout: Google compare le nom, l adresse et le telephone
-  # du site, de la fiche et des annuaires. Elle alimente le pied de page et le
-  # JSON-LD. Duvernay est un quartier, pas une ville postale: le JSON-LD garde
-  # Laval comme ville, et seul le texte visible du pied de page ecrit
-  # "Duvernay (Laval)", comme `address` plus haut.
+  # L adresse confirmee par Georges le 2026-10-08, avec le bureau 201 et
+  # Laval comme ville, jamais Duvernay. Une seule ecriture partout: Google
+  # compare le nom, l adresse et le telephone du site, de la fiche et des
+  # annuaires. Elle alimente le pied de page et le JSON-LD.
   streetAddress   = "2820, boul. St-Martin Est, Bureau 201"
   addressLocality = "Laval"
-  addressLocalityDisplay = "Duvernay (Laval)"
   addressRegion   = "QC"
   postalCode      = "H7E 5A1"
   addressCountry  = "CA"

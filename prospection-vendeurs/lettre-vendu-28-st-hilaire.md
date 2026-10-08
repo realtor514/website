@@ -51,7 +51,7 @@ Et si quelqu'un de votre entourage pense à vendre, cette lettre peut lui
 Georges Matar
 Courtier immobilier résidentiel
 **RE/MAX DU CARTIER INC., agence immobilière** (obligatoire)
-2820, boul. St-Martin Est, Bureau 201, Duvernay (Laval), QC H7E 5A1
+2820, boul. St-Martin Est, Bureau 201, Laval, QC H7E 5A1
 (438) 372-0102 · georges.matar@remax-quebec.com · georgesmatar.ca
 **Permis OACIQ J7941** (obligatoire)
 
@@ -86,7 +86,7 @@ them.
 Georges Matar
 Residential real estate broker
 **RE/MAX DU CARTIER INC., real estate agency** (mandatory)
-2820, boul. St-Martin Est, Bureau 201, Duvernay (Laval), QC H7E 5A1
+2820, boul. St-Martin Est, Bureau 201, Laval, QC H7E 5A1
 (438) 372-0102 · georges.matar@remax-quebec.com · georgesmatar.ca
 **OACIQ licence J7941** (mandatory)
 

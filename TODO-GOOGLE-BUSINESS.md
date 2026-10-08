@@ -298,14 +298,13 @@ a l identique depuis cette date, dans les 4 langues.
 ```
 Georges Matar, RE/MAX Du Cartier
 2820, boul. St-Martin Est, Bureau 201
-Duvernay (Laval), QC H7E 5A1
+Laval, QC H7E 5A1
 (438) 372-0102
 https://georgesmatar.ca
 ```
 
-Dans un formulaire a champs separes (Google, Apple, Bing, Foursquare), la
-ville est **Laval**: Duvernay est un quartier, pas une ville postale, et un
-champ ville a "Duvernay" peut faire refuser ou deplacer la fiche.
+La ville est **Laval** partout, jamais Duvernay, y compris dans les
+formulaires a champs separes (Google, Apple, Bing, Foursquare).
 
 - [ ] **D abord la fiche Google**, c est elle qui fait foi: Modifier le
       profil, Adresse, ajouter la ligne d adresse `Bureau 201`. Ne rien

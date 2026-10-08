@@ -9,7 +9,7 @@ faq:
   - q: "What down payment do I need to buy a property in Quebec?"
     a: "The legal minimum is 5% on the portion up to $500,000, then 10% on the portion above that. Below 20%, mortgage loan insurance becomes mandatory and is added to your loan. For a building with more than four units or a cottage, requirements are higher. The [closing costs calculator](/en/tools/closing-costs/) gives you the full picture."
   - q: "Which cities do you work in?"
-    a: "Laval, Montreal, Terrebonne, Blainville, Repentigny, Saint-Jérôme and the entire North Shore, Laurentians and Lanaudière. My RE/MAX Du Cartier office is at 2820 boul. St-Martin Est in Laval (Duvernay). See [all areas served](/en/real-estate-broker/)."
+    a: "Laval, Montreal, Terrebonne, Blainville, Repentigny, Saint-Jérôme and the entire North Shore, Laurentians and Lanaudière. My RE/MAX Du Cartier office is at 2820 boul. St-Martin Est in Laval. See [all areas served](/en/real-estate-broker/)."
   - q: "What languages do you work in?"
     a: "French, English and Arabic. This matters concretely when a transaction involves a family whose members do not all share a language: nobody signs a document they do not understand."
   - q: "What is the welcome tax and how much will I pay?"

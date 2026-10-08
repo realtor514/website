@@ -9,7 +9,7 @@ faq:
   - q: "Quelle mise de fonds faut-il pour acheter une propriété au Québec?"
     a: "Le minimum légal est de 5 % sur la tranche jusqu'à 500 000 $, puis 10 % sur la portion au-delà. Sous 20 %, l'assurance prêt hypothécaire devient obligatoire et s'ajoute à votre prêt. Pour un immeuble de plus de quatre logements ou un chalet, les exigences sont plus élevées. Le [calculateur de coûts de clôture](/tools/closing-costs/) vous donne le portrait complet."
   - q: "Dans quelles villes travaillez-vous?"
-    a: "Laval, Montréal, Terrebonne, Blainville, Repentigny, Saint-Jérôme et l'ensemble de la Rive-Nord, des Laurentides et de Lanaudière. Mon bureau RE/MAX Du Cartier est situé au 2820, boul. St-Martin Est à Laval (Duvernay). Voir [tous les secteurs desservis](/courtier-immobilier/)."
+    a: "Laval, Montréal, Terrebonne, Blainville, Repentigny, Saint-Jérôme et l'ensemble de la Rive-Nord, des Laurentides et de Lanaudière. Mon bureau RE/MAX Du Cartier est situé au 2820, boul. St-Martin Est à Laval. Voir [tous les secteurs desservis](/courtier-immobilier/)."
   - q: "Dans quelles langues offrez-vous vos services?"
     a: "Français, anglais et arabe. C'est un avantage concret quand une transaction implique une famille dont les membres ne parlent pas tous la même langue: personne ne signe un document qu'il ne comprend pas."
   - q: "Qu'est-ce que la taxe de bienvenue et combien vais-je payer?"

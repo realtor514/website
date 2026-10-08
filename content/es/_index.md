@@ -9,7 +9,7 @@ faq:
   - q: "¿Qué aporte inicial se necesita para comprar en Quebec?"
     a: "El mínimo legal es del 5 % sobre el tramo hasta 500 000 $, y del 10 % sobre la porción superior. Por debajo del 20 %, el seguro hipotecario es obligatorio y se añade a su préstamo. Para un inmueble de más de cuatro viviendas o una casa de campo, las exigencias son mayores. La [calculadora de costos de cierre](/es/tools/closing-costs/) le da el panorama completo."
   - q: "¿En qué ciudades trabaja?"
-    a: "Laval, Montreal, Terrebonne, Blainville, Repentigny, Saint-Jérôme y toda la Rive-Nord, las Laurentides y Lanaudière. Mi oficina RE/MAX Du Cartier está en el 2820, boul. St-Martin Est, en Laval (Duvernay). Ver [todas las zonas atendidas](/es/corredor-inmobiliario/)."
+    a: "Laval, Montreal, Terrebonne, Blainville, Repentigny, Saint-Jérôme y toda la Rive-Nord, las Laurentides y Lanaudière. Mi oficina RE/MAX Du Cartier está en el 2820, boul. St-Martin Est, en Laval. Ver [todas las zonas atendidas](/es/corredor-inmobiliario/)."
   - q: "¿En qué idiomas ofrece sus servicios?"
     a: "Francés, inglés y árabe. Es una ventaja concreta cuando una transacción involucra a una familia cuyos miembros no hablan todos el mismo idioma: nadie firma un documento que no entiende."
   - q: "¿Qué es el impuesto de bienvenida y cuánto pagaré?"

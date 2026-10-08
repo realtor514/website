@@ -351,8 +351,7 @@ trouves, 21 ecartes (liste en bas).
 
 **Deux regles.**
 1. Sur chaque fiche, copier exactement le bloc de la section E, tel quel,
-   avec le Bureau 201. Dans un formulaire a champs separes, la ville est
-   Laval.
+   avec le Bureau 201 et Laval comme ville, jamais Duvernay.
 2. Aucun site qui preleve une commission de reference: un courtier ne partage
    sa retribution qu'avec un autre titulaire de permis.
 
@@ -1083,13 +1082,12 @@ Verifie et corrige sur:
 - Yelp
 
 Format de reference a utiliser partout (mis a jour le 2026-10-08: adresse
-confirmee par Georges, avec le bureau 201. Dans un formulaire a champs
-separes, la ville est Laval: Duvernay est un quartier, pas une ville postale.
-Voir TODO-GOOGLE-BUSINESS.md, etape 16):
+confirmee par Georges, avec le bureau 201 et Laval comme ville, jamais
+Duvernay. Voir TODO-GOOGLE-BUSINESS.md, etape 16):
 ```
 Georges Matar, RE/MAX Du Cartier
 2820, boul. St-Martin Est, Bureau 201
-Duvernay (Laval), QC H7E 5A1
+Laval, QC H7E 5A1
 (438) 372-0102
 https://georgesmatar.ca
 ```

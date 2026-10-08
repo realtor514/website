@@ -73,16 +73,14 @@
                Google verifie la coherence du nom, de l adresse et du telephone
                entre la fiche Google Business, le site et les annuaires, et il
                lit le texte visible: une adresse presente seulement dans le
-               balisage ne compte pas. Seule la ville differe: le texte
-               visible ecrit "Duvernay (Laval)", le JSON-LD garde Laval, la
-               ville postale. Le reste est compose a partir des memes
+               balisage ne compte pas. Elle est composee a partir des memes
                champs que le JSON-LD, pour que les deux ne puissent pas
                diverger. Elle reste en caracteres latins en arabe: c est une
                adresse postale canadienne, elle doit pouvoir etre recopiee
                telle quelle sur une enveloppe ou dans un GPS. */}}
           <li>
             <a href="{{ .Site.Params.googleBusinessURL }}" target="_blank" rel="noopener" class="footer__link footer__address">
-              <bdi dir="ltr">{{ .Site.Params.streetAddress }}<br>{{ .Site.Params.addressLocalityDisplay | default .Site.Params.addressLocality }}, {{ .Site.Params.addressRegion }} {{ .Site.Params.postalCode }}</bdi>
+              <bdi dir="ltr">{{ .Site.Params.streetAddress }}<br>{{ .Site.Params.addressLocality }}, {{ .Site.Params.addressRegion }} {{ .Site.Params.postalCode }}</bdi>
             </a>
           </li>
           <li><a href="tel:+14383720102" class="footer__link"><bdi dir="ltr">{{ .Site.Params.phone }}</bdi></a></li>

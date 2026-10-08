@@ -5,7 +5,7 @@ description: "نبذة عن جورج مطر: وسيط عقاري سكني يحم
 
 وسيط عقاري سكني في RE/MAX DU CARTIER INC.، حامل الرخصة **J7941** الصادرة عن
 هيئة التنظيم الذاتي للوساطة العقارية في كيبيك (OACIQ). المكتب في 2820, boul.
-St-Martin Est, Bureau 201, Duvernay (Laval).
+St-Martin Est, Bureau 201, Laval.
 
 ## التحقّق قبل الثقة
 
@@ -63,4 +63,4 @@ Ahuntsic-Cartierville وVilleray وRosemont وRivière-des-Prairies
 **البريد:** georges.matar@remax-quebec.com
 
 **المكتب:** RE/MAX DU CARTIER INC., 2820, boul. St-Martin Est, Bureau 201,
-Duvernay (Laval), QC H7E 5A1
+Laval, QC H7E 5A1
