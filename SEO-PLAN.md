@@ -206,7 +206,9 @@ tu n'en fais que huit, fais celles-la.
 - [ ] Pages Jaunes, `pagesjaunes.ca` (la plus forte autorite francophone)
 - [ ] Yelp.ca (celui de ta liste, il est legitime et bien classe au Canada)
 - [ ] Foursquare, `foursquare.com` (alimente Uber, Apple, Samsung)
-- [ ] MapQuest, `mapquest.ca`
+- [ ] MapQuest, `mapquest.ca`. Verifie le 2026-10-08: pas de formulaire
+      gratuit. "Claim it" renvoie vers Yext, un service payant. Trafic tres
+      faible au Quebec: a faire en dernier, seulement si c'est gratuit.
 
 **Etape 2 - Annuaires canadiens generiques.** Gratuits, 5 a 10 minutes chacun.
 Fais-en 3 ou 4 par semaine, pas tout d'un coup: une salve de vingt inscriptions
