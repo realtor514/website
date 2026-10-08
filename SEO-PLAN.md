@@ -325,6 +325,334 @@ etapes 1 a 3 sont faites.
 
 ---
 
+### 0 bis. 100 liens de plus pour l'autorite (recherche du 2026-10-08)
+
+Cent endroits de plus ou georgesmatar.ca peut etre cite ou lie, aucun deja
+dans la section 0. Chaque site a ete ouvert le 2026-10-08 pour verifier qu'il
+est actif et qu'il accepte un courtier residentiel du Quebec: 121 candidats
+trouves, 21 ecartes (liste en bas).
+
+**Tous ces liens ne pesent pas pareil.**
+- **Groupes 1 a 4, medias, experts, journalistes, balados:** ce sont eux qui
+  font monter l'autorite. Un texte publie dans un journal local vaut plus que
+  vingt annuaires. Il faut un texte a proposer: dis-moi quel media, j'ecris la
+  proposition et l'article a partir de tes articles existants.
+- **Groupes 5 et 6, communautes et chambres de commerce:** liens locaux, et
+  des clients en prime.
+- **Groupes 7 a 11, immobilier, avis, profils, annuaires, cartes:** souvent
+  sans lien suivi, mais chaque mention identique de ton nom, ton adresse et
+  ton telephone renforce la fiche Google.
+- **Groupe 12, payant:** de la visibilite et des clients, pas d'autorite.
+  Google exige qu'un lien paye porte rel="sponsored", et acheter un lien pour
+  le classement va contre ses regles. Paie pour etre vu, jamais pour le lien.
+
+**Deux regles.**
+1. Sur chaque fiche, copier exactement le bloc de la section E, tel quel,
+   sans "bureau 201".
+2. Aucun site qui preleve une commission de reference: un courtier ne partage
+   sa retribution qu'avec un autre titulaire de permis.
+
+#### 1. Medias locaux qui publient des textes d'experts, gratuits
+
+- [ ] **1. Media Laval (MCL)**, `mclmedialaval.com`. Envoyer un texte a
+      `redaction@mclmedia.ca`.
+- [ ] **2. Laval Weekly**, `lavalweekly.com`. Meme editeur: la version
+      anglaise du meme texte, a la meme adresse.
+- [ ] **3. Courrier Laval**, `courrierlaval.com/contactez-nous/`. Devenir la
+      source locale sur le marche lavallois: `lavalredaction@2m.media`.
+- [ ] **4. The Laval News**, `lavalnews.ca/contact-us/`. Chronique ou
+      commentaires sur l'immobilier a Laval: `info@newsfirst.ca`.
+- [ ] **5. La Revue, Terrebonne et Mascouche**,
+      `larevue.qc.ca/contact/collaboration-speciale/`. Collaboration
+      speciale: `redaction@medialo.ca`. Terrebonne est ta page de secteur la
+      plus vue sur Google.
+- [ ] **6. Hebdo Rive Nord, Repentigny**,
+      `hebdorivenord.com/contact/collaboration-speciale/`. Meme editeur et
+      meme adresse que La Revue.
+- [ ] **7. L'Oeil Regional, Beloeil**, `oeilregional.com/nous-joindre/`.
+      Chronique: `redaction@oeilregional.com`.
+
+#### 2. Sites et grands medias qui publient des experts
+
+- [ ] **8. REM, Real Estate Magazine**,
+      `realestatemagazine.ca/frequestly-asked-questions/`. Texte inedit pour
+      courtiers, par exemple la declaration du vendeur au Quebec. Eviter
+      "Voices by REM", qui est payant.
+- [ ] **9. Moving2Canada**,
+      `moving2canada.com/about-us/become-our-partner/share-your-experience/`.
+      Resume de 2 phrases sur l'achat au Quebec par un nouvel arrivant; 1 ou 2
+      liens dans la bio.
+- [ ] **10. New Canadian Media**, `newcanadianmedia.ca/ecrire-pour-ncm/`.
+      Chronique pour nouveaux arrivants, par exemple acheter sans historique
+      de credit.
+- [ ] **11. Canadian Immigrant**, `canadianimmigrant.ca/contact-us`. Une
+      "Guest column" sur l'achat au Quebec.
+- [ ] **12. Immigrant Quebec, Conseils d'experts et balado "Ca jase"**,
+      `immigrantquebec.com/fr/conseils-d-experts/`. Proposer par
+      `immigrantquebec.com/fr/contact/`. Partenariats payants possibles:
+      demander.
+- [ ] **13. Immigrant Quebec, page "Acheter une maison"**,
+      `immigrantquebec.com/fr/reussir-votre-installation/logement/acheter-maison-appartement/`.
+      La page lie deja des sites commerciaux: y suggerer ton article sur la
+      taxe de bienvenue.
+- [ ] **14. Condoliaison, magazine du RGCQ**,
+      `rgcq.org/decouvrez-le-condoliaison`. Article d'expert sur l'achat ou
+      la vente d'un condo: `info@rgcq.org`. Tu es certifie Coproprie-T.
+- [ ] **15. Universite McGill, page Housing du personnel**,
+      `mcgill.ca/apo/staff-guides/life-quebec/housing`. Proposer ton guide
+      anglais d'achat au Quebec au conseiller en relocalisation. Un lien
+      universitaire est parmi les plus forts.
+- [ ] **16. Montreal Gazette, Op-Ed**,
+      `montrealgazette.com/opinion/sending-an-opinion-column-or-letter-to-the-montreal-gazette/`.
+      650 a 800 mots inedits, lies a l'actualite, a
+      `opinion@montrealgazette.com`. Souvent une mention sans lien, mais une
+      autorite enorme.
+- [ ] **17. La Presse, Dialogue**, `lapresse.ca/dialogue/`. Texte d'opinion
+      lie a l'actualite immobiliere. Adresse d'envoi a confirmer sur la page.
+
+#### 3. Plateformes de sources pour journalistes
+
+Un journaliste pose une question, tu reponds, il te cite avec un lien.
+Repondre seulement sur l'immobilier canadien, sinon on se fait exclure.
+
+- [ ] **18. Qwoted**, `app.qwoted.com/users/sign_up`. Gratuit, 2 propositions
+      par mois.
+- [ ] **19. HARO**, `helpareporter.com`. Gratuit, 3 courriels de demandes par
+      jour.
+- [ ] **20. Connectively**, `connectively.us`. Filtrer sur l'immobilier, le
+      Canada et l'immigration.
+- [ ] **21. Featured.com**, `featured.com`. Les reponses retenues sont
+      publiees avec ton nom. Gratuit limite.
+- [ ] **22. Source of Sources**, `sourceofsources.com`. Gratuit.
+- [ ] **23. SourceExpert, de Laval**, `sourceexpert.com`. Francais et
+      anglais, credits a quelques sous. Activite en 2026 a confirmer.
+
+#### 4. Balados qui recoivent des invites
+
+- [ ] **24. L'immobilier en mouvement, de l'APCIQ**,
+      `apciq.ca/balado-limmobilier-en-mouvement/`. Proposer un sujet, ventes
+      sans garantie legale ou successions, par `apciq.ca/nous-joindre/`.
+- [ ] **25. REAL TIME, de l'ACI**, `crea.ca/media-hub/real-time-podcast/`.
+      Formulaire "Apply now". Il demande si tu es REALTOR, ce qui depend de
+      ton adhesion a l'APCIQ.
+- [ ] **26. The Canadian Real Estate Investor**, `realist.ca`. Un angle
+      quebecois qu'ils couvrent peu: plex, notaire, taxe de bienvenue.
+      `tcreipodcast@gmail.com`.
+- [ ] **27. Bienvenue au Canada**, `bienvenueaucanada.ca/en/welcome`.
+      Episode sur l'achat au Quebec apres l'arrivee:
+      `contact@bienvenueaucanada.ca`.
+- [ ] **28. More Money Podcast**, `jessicamoorhouse.com/podcast-submissions`.
+      Seulement par ce formulaire, pas par courriel.
+
+#### 5. Communautes arabophone, maghrebine et latino
+
+Le terrain ou tu pars avec un avantage, voir `TODO.md`, point 9.
+
+- [ ] **29. Arabz**, `arabz.ca/arabz-for-business/ads/`. Gratuit, categorie
+      agent immobilier en arabe, champ site web.
+- [ ] **30. Maghrebins du Canada**, `maghrebins.ca/ajouter/`. Gratuit, champ
+      site web, categorie immobilier.
+- [ ] **31. Hala Canada**, `halacanada.ca/contact`. Article ou entrevue en
+      arabe sur l'achat au Quebec.
+- [ ] **32. Arab Canada News**, `arabcanadanews.ca`, page de contact.
+      Devenir leur commentateur des nouvelles immobilieres:
+      `info@arabcanadanews.ca`.
+- [ ] **33. Maghreb Canada Express**, `maghreb-canada.ca`. Chronique
+      "acheter au Quebec": `info@maghreb-canada.ca`.
+- [ ] **34. Atlas.Mtl**, `atlasmedias.com/contactez-nous/`. Article ou
+      publicite, par le formulaire.
+- [ ] **35. CCICL, Chambre de commerce Canada-Liban**,
+      `ccicl.com/devenir-membre/`. 100 $ par an, fiche au repertoire.
+- [ ] **36. Montreal Hispano, annuaire**,
+      `montrealhispano.com/negocios-directorio/registra-tu-negocio-gratis`.
+      Gratuit, fiche en espagnol, categorie "Agentes de Bienes Raices".
+- [ ] **37. Latinos Quebec**, `latinosquebec.com/en/registration`. Gratuit,
+      categorie "Real estate services".
+- [ ] **38. Latinos en Montreal, annuaire**, `latinosenmontreal.ca/directorio/`.
+      Bouton "Agregar negocio", categorie "Inmobiliaria".
+- [ ] **39. Latinos en Montreal, collaboration**,
+      `latinosenmontreal.ca/contacto/`. Guide ou entrevue pour la rubrique
+      "Recien llegados".
+- [ ] **40. Pulso**, `pulso.ca/impliquez-vous/`. Gratuit, article en espagnol.
+- [ ] **41. QUEtAL, chambre de commerce latino-americaine**,
+      `quetal.cc/fr/devenir-membre/adhesion/`. 79 $. Pas de repertoire
+      public: demander une mention avec lien.
+
+#### 6. Chambres de commerce et reseaux d'affaires
+
+Payants, mais une fiche de membre donne un lien local que Google respecte.
+S'ajoutent aux trois chambres de la partie 2. Avant de payer, verifier sur une
+fiche existante que le lien vers le site y apparait.
+
+- [ ] **42. CCIRS, Rive-Sud**, `ccirs.qc.ca/devenir-membre/`. 225 $ par an.
+      Longueuil, Brossard, Boucherville, Saint-Bruno, Sainte-Julie. Cocher
+      "Afficher la page web dans le repertoire".
+- [ ] **43. CCEM, Est de Montreal**, `ccemontreal.ca/devenir-membre-de-la-ccem/`.
+      Prix sur demande. Saint-Leonard, Riviere-des-Prairies.
+- [ ] **44. CCI de Mirabel**, `ccimirabel.com/reseau/devenir-membre/`. 176 $
+      plus taxes.
+- [ ] **45. CCIVRR, Vallee-du-Richelieu**, `ccivrr.com/etre-membre/devenir-membre/`.
+      150 $ plus taxes. Beloeil, Mont-Saint-Hilaire, Chambly.
+- [ ] **46. CCMLA, MRC de L'Assomption**, `ccmla.ca/devenir-membre/`. 185 $.
+      Repentigny.
+- [ ] **47. CCI2M, Deux-Montagnes**,
+      `acces.chambrecommerce.com/fr/devenir-membre/adhesion/`. 195 $.
+      Saint-Eustache.
+- [ ] **48. CCIGR, Grand Roussillon**, `ccigr.ca/devenir-membre-ccigr/`.
+      194,75 $. Saint-Constant, Delson, Sainte-Catherine; Candiac et
+      La Prairie a confirmer.
+- [ ] **49. CCMM, Montreal metropolitain**, `ccmm.ca/fr/devenir-membre/`.
+      Prix sur demande.
+- [ ] **50. Bizzz.ca**, `bizzz.ca`. Annuaire national des membres des
+      chambres: une fiche gratuite de plus des que tu adheres a une chambre
+      du reseau.
+- [ ] **51. BNI Laval Laurentides Lanaudiere**, `bnilll.com/fr-CA/findachapter`.
+      Un seul courtier par chapitre. Y aller en invite d'abord. Apporte
+      surtout des references.
+
+#### 7. Proprietaires, copropriete et immobilier
+
+- [ ] **52. CORPIQ, repertoire des partenaires**,
+      `corpiq.com/en/partners/become-a-partner`. Prix sur demande, 2 ans
+      d'activite exiges. Categorie "Courtier immobilier", public de
+      proprietaires de plex.
+- [ ] **53. APQ, Bottin**,
+      `apq.org/services-apq/rabais-et-economies/visibilite-apq/`. Categorie
+      "Courtiers immobiliers".
+- [ ] **54. RPHL, bottin des fournisseurs**,
+      `rphl.org/services-rphl/rabais-et-economies/bottin-des-fournisseurs/`.
+      Meme modele que l'APQ.
+- [ ] **55. RGCQ, membre corporatif**, `rgcq.org/devenir-membre-corporatif`.
+      650 $ plus taxes. Les syndicats de copropriete y choisissent leurs
+      fournisseurs, et Coproprie-T y parle.
+- [ ] **56. RankMyAgent**, `rankmyagent.com/register`. Gratuit, avis
+      verifies par transaction. La page Laval compte tres peu de courtiers.
+      Pas de lien en version gratuite.
+- [ ] **57. Nobul**, `nobul.com/agent-profile/`. Plateforme canadienne.
+      Frais et presence au Quebec non confirmes: verifier l'absence de
+      commission de reference avant de t'inscrire.
+- [ ] **58. ActiveRain**, `activerain.com`. Profil et blogue de courtiers,
+      base gratuite.
+- [ ] **59. BiggerPockets**, `biggerpockets.com`. Profil gratuit, lu par des
+      investisseurs canadiens qui cherchent des plex.
+
+#### 8. Avis
+
+- [ ] **60. Trustpilot**, `signup.business.trustpilot.com/create-account`.
+      Gratuit. Seulement 54 entreprises dans "Real Estate Agents" au Canada.
+- [ ] **61. ThreeBestRated.ca**, `threebestrated.ca/submit-business?reason=new`.
+      Gratuit, selection sur les avis. A faire apres les 10 premiers avis
+      Google. Lien non suivi, mais la page Laval est consultee.
+- [ ] **62. ProvenExpert**, `provenexpert.com/fr-fr/`. Plan gratuit apres
+      l'essai.
+
+#### 9. Profils et plateformes
+
+Rapides et gratuits, souvent sans lien suivi, mais ils confirment a Google
+qui tu es. Envoie-moi chaque adresse de profil: je l'ajoute a la fiche
+d'identite du site (section 0, "Suivi").
+
+- [ ] **63. YouTube**, `youtube.com/create_channel`. Le site dans "A propos"
+      et dans chaque description. Tes reels y vont tels quels en Shorts.
+- [ ] **64. Pinterest Business**, `pinterest.com/business/create/`.
+      Revendiquer georgesmatar.ca, epingler articles et fiches.
+- [ ] **65. Medium**, `medium.com`. Republier avec l'outil d'importation, qui
+      pointe la version originale vers ton site.
+- [ ] **66. Substack**, `substack.com/signup`. Infolettre mensuelle sur le
+      marche, avec liens vers les articles.
+- [ ] **67. Gravatar**, `gravatar.com`.
+- [ ] **68. About.me**, `about.me/signup`.
+- [ ] **69. Flipboard**, `flipboard.com/signup`. Un magazine "Immobilier
+      Quebec" de tes articles.
+- [ ] **70. Quora**, `quora.com`. Repondre aux questions sur l'achat au
+      Quebec.
+- [ ] **71. Reddit**, `reddit.com/register/`. r/montreal et
+      r/PersonalFinanceCanada, en respectant leurs regles contre
+      l'autopromotion.
+- [ ] **72. Crunchbase, profil de personne**, `crunchbase.com/register`.
+- [ ] **73. Bluesky**, `bsky.app`. Ton domaine comme identifiant,
+      @georgesmatar.ca: je prepare la verification sur le site.
+- [ ] **74. Mastodon**, `joinmastodon.org/servers`. Lien verifie par un
+      rel="me" sur le site, que j'ajoute.
+- [ ] **75. Issuu**, `issuu.com/signup`. Guides PDF avec l'adresse du site
+      en derniere page.
+- [ ] **76. Linktree**, `linktr.ee/register`. Lien de bio Instagram, le site
+      en premier, puis le lien "source preferee" de la tache 1.
+- [ ] **77. Nextdoor**, `nextdoor.com/create-business/`. Page gratuite prevue
+      pour les courtiers, en francais au Canada.
+- [ ] **78. Alignable**, `alignable.com/biz_users/sign_up`. Plus de 5 000
+      membres a Laval.
+
+#### 10. Annuaires gratuits
+
+- [ ] **79. MaCommunaute.ca**, `macommunaute.ca/inscription/`. Lien inclus
+      meme au forfait gratuit. Le meilleur de ce groupe.
+- [ ] **80. Expat.com**, `expat.com/fr/business/add`. Fiche gratuite, mais le
+      lien est reserve au Premium.
+- [ ] **81. Le Petit Journal Montreal**, `lepetitjournal.com/ajout-adresse`.
+      Le media des Francais a l'etranger.
+- [ ] **82. ZipLeaf.ca**, `zipleaf.ca/Add-Your-Business`.
+- [ ] **83. MisterWhat**, `ca.misterwhat.com`. Valeur faible.
+- [ ] **84. Infoisinfo**, `infoisinfo-ca.com/account/register-business`.
+      Valeur faible.
+
+#### 11. Cartes et donnees d'entreprises
+
+Aucun lien, mais ces bases alimentent les GPS, les voitures et d'autres
+annuaires.
+
+- [ ] **85. OpenStreetMap**, `openstreetmap.org/user/new`.
+- [ ] **86. Waze**, `waze.com/editor`.
+- [ ] **87. TomTom MapShare**, `tomtom.com/mapshare/tools/`.
+- [ ] **88. Dun & Bradstreet, numero D-U-N-S**, `dnb.com/en-ca/smb/duns.html`.
+      Gratuit.
+- [ ] **89. Data Axle, Local Listings**, `local-listings.data-axle.com/search`.
+      Gratuit; adresse canadienne a confirmer.
+
+#### 12. Payant: visibilite et clients, pas autorite
+
+Le lien d'un contenu commandite porte presque toujours rel="sponsored" et
+n'aide pas le classement. Demander l'attribut avant de payer.
+
+- [ ] **90. Le Courrier du Sud, Longueuil**, `lecourrierdusud.ca/nous-joindre/`.
+      Contenu partenaire.
+- [ ] **91. Le Reflet, Candiac et La Prairie**, `lereflet.qc.ca/nous-joindre/`.
+- [ ] **92. La Releve, Boucherville et Sainte-Julie**,
+      `lareleve.qc.ca/nous-joindre/`.
+- [ ] **93. Le Journal de Chambly**, `journaldechambly.com/nous-joindre/`.
+      Publireportage.
+- [ ] **94. Les Versants, Saint-Bruno**, `versants.com/nous-joindre/`.
+      Publireportage, dans la ville ou le site ressort deja sur "vente de
+      succession".
+- [ ] **95. Nord Info, Blainville, Sainte-Therese, Boisbriand, Rosemere**,
+      `nordinfo.com/nous-joindre`. Les communiques sont gratuits:
+      `infojournaux@groupejcl.com`.
+- [ ] **96. Journal Metro, Saint-Leonard et RDP**,
+      `journalmetro.com/annoncez-avec-nous/`.
+- [ ] **97. Festival libanais de Laval**, `festivallibanais.org/commandite`.
+      Demander un lien texte: la page actuelle des commanditaires est une
+      image.
+- [ ] **98. Festival du Monde Arabe de Montreal**, `festivalarabe.com`.
+- [ ] **99. Festival LatinArte**, `latinarte.ca/contactez-nous/`. La page
+      partenaires affiche les logos avec liens.
+- [ ] **100. Soccer Laval**, `soccer-laval.qc.ca/commanditaires-et-partenaires/`.
+      Les logos des partenaires renvoient vers leurs sites.
+
+**Ecartes apres verification, pour ne pas les reverifier.** Agent Pronto
+(commission de reference sur la vente). LuxuryEstate, JamesEdition, CLHMS et
+FIABCI (luxe ou international, passent par l'agence). Expatica (299 euros par
+an), RealSatisfied et Testimonial Tree (payants, peu utiles au Quebec).
+ProfNet (tarif d'agence). Zhaboom (Toronto). ChamberofCommerce.com (prive,
+pousse des forfaits). iGlobal (vend du "backlinking"). Journal Le Nord et
+L'Eveil (payants, villes peu vues). Montreal Hispano, blogue (payant;
+l'annuaire gratuit est garde). PodcastGuests (profil payant). Snapchat,
+Tupalo, Cybo, iBegin, Nexdu et HERE (valeur faible ou non verifiable). Morts
+ou hors sujet: Media Spot Me, Laval Families Magazine, Help a B2B Writer,
+SourceBottle. Muck Rack (journalistes seulement). Wikidata: pas avant d'avoir
+ete cite par des medias independants, sinon la fiche est supprimee.
+
+---
+
 ### A. Google Search Console - FAIT
 
 1. Propriete `georgesmatar.ca` ajoutee en "Prefixe d'URL"
