@@ -291,20 +291,26 @@ positions par rapport a une fiche equivalente qui repond.
 Google verifie que tes coordonnees sont identiques partout sur le web. Le
 moindre ecart dilue ton autorite locale.
 
-Format de reference a utiliser partout, au caractere pres. L adresse est
-celle de la fiche Google, confirmee le 2026-10-06; le pied de page et le
-balisage du site l affichent a l identique depuis cette date.
+Format de reference a utiliser partout, au caractere pres. Adresse
+confirmee par Georges le 2026-10-08, avec le bureau 201; le site l affiche
+a l identique depuis cette date, dans les 4 langues.
 
 ```
 Georges Matar, RE/MAX Du Cartier
-2820 Boul Saint-Martin Est
-Laval, QC H7E 5A1
+2820, boul. St-Martin Est, Bureau 201
+Duvernay (Laval), QC H7E 5A1
 (438) 372-0102
 https://georgesmatar.ca
 ```
 
-La fiche n indique pas le bureau 201. Si tu l ajoutes (Modifier le profil,
-Adresse, ligne 2), dis-le moi: je l ajoute aussi au pied de page.
+Dans un formulaire a champs separes (Google, Apple, Bing, Foursquare), la
+ville est **Laval**: Duvernay est un quartier, pas une ville postale, et un
+champ ville a "Duvernay" peut faire refuser ou deplacer la fiche.
+
+- [ ] **D abord la fiche Google**, c est elle qui fait foi: Modifier le
+      profil, Adresse, ajouter la ligne d adresse `Bureau 201`. Ne rien
+      changer d autre le meme jour: Google peut redemander une validation.
+- [ ] Corriger Foursquare, fiche creee le 2026-10-08 avant cette correction
 
 - [ ] Verifier et corriger la fiche RE/MAX Quebec
 - [ ] Verifier et corriger le profil Centris

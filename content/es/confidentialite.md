@@ -13,7 +13,7 @@ Esta política explica qué datos personales se recogen en georgesmatar.ca, por 
 
 Georges Matar, corredor inmobiliario residencial en RE/MAX DU CARTIER INC.
 
-- Oficina: 2820 Boul Saint-Martin Est, oficina 201, Laval, QC H7E 5A1
+- Oficina: 2820, boul. St-Martin Est, Bureau 201, Duvernay (Laval), QC H7E 5A1
 - Teléfono: (438) 372-0102
 - Correo: georges.matar@remax-quebec.com
 

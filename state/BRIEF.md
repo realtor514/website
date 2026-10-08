@@ -5,7 +5,7 @@ Ce fichier est la seule reference de style. Lisez-le en entier avant d ecrire.
 ## 1. Le client
 
 Georges Matar, courtier immobilier residentiel, RE/MAX du Cartier.
-Bureau: 2820, boul. Saint-Martin Est, bureau 201, Laval (Duvernay), Quebec.
+Bureau: 2820, boul. St-Martin Est, Bureau 201, Duvernay (Laval), QC H7E 5A1.
 Territoire: Laval, Montreal, Rive-Nord, Rive-Sud, Laurentides, Lanaudiere, Monteregie.
 Services: achat, vente, evaluation gratuite, investissement (plex, immeubles a revenus),
 accompagnement des nouveaux arrivants.

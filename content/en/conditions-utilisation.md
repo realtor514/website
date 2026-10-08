@@ -17,7 +17,7 @@ Georges Matar, residential real estate broker at RE/MAX DU CARTIER INC.,
 holder of licence J7941 issued by the Organisme d'autoréglementation du
 courtage immobilier du Québec.
 
-- Office: 2820 Boul Saint-Martin Est, suite 201, Laval, QC H7E 5A1
+- Office: 2820, boul. St-Martin Est, Bureau 201, Duvernay (Laval), QC H7E 5A1
 - Phone: (438) 372-0102
 - Email: georges.matar@remax-quebec.com
 

@@ -348,7 +348,8 @@ trouves, 21 ecartes (liste en bas).
 
 **Deux regles.**
 1. Sur chaque fiche, copier exactement le bloc de la section E, tel quel,
-   sans "bureau 201".
+   avec le Bureau 201. Dans un formulaire a champs separes, la ville est
+   Laval.
 2. Aucun site qui preleve une commission de reference: un courtier ne partage
    sa retribution qu'avec un autre titulaire de permis.
 
@@ -960,10 +961,11 @@ Categories secondaires a ajouter:
 Ne mets pas de mots-cles supplementaires (Google peut suspendre la fiche).
 
 **3. Adresse et zone de service**
-- Adresse: celle du bloc de la section E, `2820 Boul Saint-Martin Est, Laval,
-  QC H7E 5A1`. L'ancienne forme "2820, boul. St-Martin Est, Bureau 201" ne doit
-  plus etre utilisee nulle part: deux ecritures de la meme adresse divisent la
-  confiance de Google entre deux fiches.
+- Adresse: celle du bloc de la section E. Dans la fiche: ligne 1
+  `2820, boul. St-Martin Est`, ligne 2 `Bureau 201`, ville `Laval`, code
+  postal `H7E 5A1`. Corrige le 2026-10-08: la fiche n'avait pas le bureau
+  201. Une seule ecriture partout, sinon Google divise sa confiance entre
+  deux adresses.
 - Active "Je sers aussi mes clients en dehors de cette adresse"
 - Zones de service: Google en accepte 20 au maximum. Le site couvre 30
   villes, il faut donc choisir. Proposition, les plus grands marches autour
@@ -1077,12 +1079,14 @@ Verifie et corrige sur:
 - Pages Jaunes / YellowPages
 - Yelp
 
-Format de reference a utiliser partout (mis a jour le 2026-10-06: c est
-l adresse exacte de la fiche Google, voir TODO-GOOGLE-BUSINESS.md, etape 16):
+Format de reference a utiliser partout (mis a jour le 2026-10-08: adresse
+confirmee par Georges, avec le bureau 201. Dans un formulaire a champs
+separes, la ville est Laval: Duvernay est un quartier, pas une ville postale.
+Voir TODO-GOOGLE-BUSINESS.md, etape 16):
 ```
 Georges Matar, RE/MAX Du Cartier
-2820 Boul Saint-Martin Est
-Laval, QC H7E 5A1
+2820, boul. St-Martin Est, Bureau 201
+Duvernay (Laval), QC H7E 5A1
 (438) 372-0102
 https://georgesmatar.ca
 ```

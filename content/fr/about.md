@@ -5,8 +5,8 @@ description: "Courtier immobilier résidentiel titulaire du permis OACIQ J7941, 
 
 Courtier immobilier résidentiel chez RE/MAX DU CARTIER INC., titulaire du
 permis **J7941** délivré par l'Organisme d'autoréglementation du courtage
-immobilier du Québec. Le bureau est au 2820 Boul Saint-Martin Est, bureau
-201, à Laval (Duvernay).
+immobilier du Québec. Le bureau est au 2820, boul. St-Martin Est, Bureau
+201, à Duvernay (Laval).
 
 ## Vérifier avant de faire confiance
 
@@ -68,5 +68,5 @@ qu'en espagnol.
 
 **Courriel:** georges.matar@remax-quebec.com
 
-**Bureau:** RE/MAX DU CARTIER INC., 2820 Boul Saint-Martin Est, bureau 201,
-Laval, QC H7E 5A1
+**Bureau:** RE/MAX DU CARTIER INC., 2820, boul. St-Martin Est, Bureau 201,
+Duvernay (Laval), QC H7E 5A1
