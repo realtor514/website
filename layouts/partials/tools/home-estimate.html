@@ -391,6 +391,15 @@
         * An order of magnitude, not a value. The calculation applies a price per square foot by sector and a series of adjustments that come from no published source: treat the result as a starting point for a conversation, never as a listing price. It is not an appraisal in the sense of the Ordre des evaluateurs agrees, and it is not a comparative market analysis. Only a CMA, built from the real sales on your street, places a usable market value, and I prepare one at no charge. For plex properties, enter the total building area.
       {{ end }}
     </p>
+
+    {{/* Le moment ou le vendeur est le plus chaud: il vient de voir un chiffre
+         et l avertissement lui dit que le vrai vient de l ACM. Sans bouton ici,
+         la page s arretait sur ce constat. */}}
+    <div class="mc-actions" style="margin-top:24px">
+      <a href="{{ site.Params.formURL }}?intention=evaluation" class="btn btn-primary">
+        {{ if $isFr }}Obtenir mon analyse comparative gratuite{{ else if $isAr }}احصل على تحليلي المقارن المجاني{{ else if $isEs }}Obtener mi análisis comparativo gratuito{{ else }}Get my free market analysis{{ end }}
+      </a>
+    </div>
   </div>
 
 </div>

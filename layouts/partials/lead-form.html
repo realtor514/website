@@ -3,10 +3,16 @@
   la page /contact/ et la page d atterrissage /formulaire/.
 
   Appel:  {{ partial "lead-form.html" (dict "ctx" . "source" "accueil") }}
-  source  identifie la provenance du lead dans le courriel recu.
+  source     identifie la provenance du lead dans le courriel recu.
+  intention  optionnel, le choix coche a l ouverture: acheter (defaut),
+             vendre, evaluation ou investir. Un lien peut aussi le choisir
+             par l adresse, /formulaire/?intention=evaluation, ce que font
+             les boutons "Evaluation gratuite", les lettres et les publicites.
 */}}
 {{ $ctx    := .ctx }}
 {{ $source := .source | default "site" }}
+{{ $intention := .intention | default "acheter" }}
+{{ $vendeur := in (slice "vendre" "evaluation") $intention }}
 {{ $isFr   := eq $ctx.Lang "fr" }}
 {{ $isAr   := eq $ctx.Lang "ar" }}
 {{ $isEs   := eq $ctx.Lang "es" }}
@@ -22,7 +28,7 @@
        etant celle du choix coche par defaut. */}}
   <input type="hidden" name="_subject" data-lead-subject
          data-source="{{ $source }}" data-lang="{{ $ctx.Lang }}"
-         value="Lead acheter - {{ $source }} ({{ $ctx.Lang }}) - georgesmatar.ca">
+         value="{{ if $vendeur }}VENDEUR - {{ else }}Lead {{ end }}{{ $intention }} - {{ $source }} ({{ $ctx.Lang }}) - georgesmatar.ca">
   <input type="hidden" name="_next" value="{{ $ctx.Site.Params.thanksURL | absURL }}">
   <input type="hidden" name="provenance" value="{{ $source }}">
   <input type="hidden" name="langue" value="{{ $ctx.Lang }}">
@@ -45,10 +51,43 @@
       }}
       {{ range $i, $it := $intents }}
       <label class="intent-option">
-        <input type="radio" name="intention" value="{{ $it.v }}" {{ if eq $i 0 }}checked{{ end }}>
+        <input type="radio" name="intention" value="{{ $it.v }}" {{ if eq $it.v $intention }}checked{{ end }}>
         <span class="intent-option__box">{{ if $isFr }}{{ $it.fr }}{{ else if $isAr }}{{ $it.ar }}{{ else if $isEs }}{{ $it.es }}{{ else }}{{ $it.en }}{{ end }}</span>
       </label>
       {{ end }}
+    </div>
+  </div>
+
+  {{/* ── Questions au vendeur ──
+       Affichees seulement pour vendre ou faire evaluer, et desactivees sinon
+       pour qu un acheteur n envoie pas deux champs vides. Le delai est ce qui
+       separe le vendeur a rappeler dans l heure de celui qui s informe pour
+       l an prochain: il entre dans l objet du courriel, juste apres VENDEUR.
+       Les valeurs restent en francais dans les 4 langues, c est Georges qui
+       les lit. Aucun des deux champs n est obligatoire, un vendeur sans
+       adresse reste un vendeur. */}}
+  <div class="lead-form__vendeur" data-lead-vendeur {{ if not $vendeur }}hidden{{ end }}>
+    <div class="form-group">
+      <label class="form-label" for="lf-addr-{{ $source }}">{{ if $isFr }}Adresse de la propriété{{ else if $isAr }}عنوان العقار{{ else if $isEs }}Dirección de la propiedad{{ else }}Property address{{ end }}</label>
+      <input class="form-input" type="text" id="lf-addr-{{ $source }}" name="adresse_propriete" autocomplete="street-address"
+             placeholder="{{ if $isFr }}Numéro, rue, ville{{ else if $isAr }}الرقم، الشارع، المدينة{{ else if $isEs }}Número, calle, ciudad{{ else }}Number, street, city{{ end }}" {{ if not $vendeur }}disabled{{ end }}>
+    </div>
+    <div class="form-group">
+      <span class="form-label">{{ if $isFr }}Quand pensez-vous vendre?{{ else if $isAr }}متى تفكر في البيع؟{{ else if $isEs }}¿Cuándo piensa vender?{{ else }}When are you thinking of selling?{{ end }}</span>
+      <div class="intent-grid">
+        {{ $delais := slice
+          (dict "v" "moins de 3 mois" "fr" "D'ici 3 mois"     "en" "Within 3 months"   "es" "En menos de 3 meses" "ar" "خلال 3 أشهر")
+          (dict "v" "3 a 6 mois"      "fr" "Dans 3 à 6 mois"  "en" "In 3 to 6 months"  "es" "En 3 a 6 meses"      "ar" "بعد 3 إلى 6 أشهر")
+          (dict "v" "6 a 12 mois"     "fr" "Dans 6 à 12 mois" "en" "In 6 to 12 months" "es" "En 6 a 12 meses"     "ar" "بعد 6 إلى 12 شهراً")
+          (dict "v" "je m informe"    "fr" "Je m'informe"     "en" "Just exploring"    "es" "Solo me informo"     "ar" "أستكشف فقط")
+        }}
+        {{ range $delais }}
+        <label class="intent-option">
+          <input type="radio" name="delai_vente" value="{{ .v }}" {{ if not $vendeur }}disabled{{ end }}>
+          <span class="intent-option__box">{{ if $isFr }}{{ .fr }}{{ else if $isAr }}{{ .ar }}{{ else if $isEs }}{{ .es }}{{ else }}{{ .en }}{{ end }}</span>
+        </label>
+        {{ end }}
+      </div>
     </div>
   </div>
 
@@ -117,17 +156,57 @@
   /* Les deux intentions qui trahissent un vendeur. `evaluation` en fait
      partie: on ne fait pas evaluer une maison qu on ne songe pas a vendre. */
   var VENDEUR = { vendre: 1, evaluation: 1 };
+  var INTENTIONS = { acheter: 1, vendre: 1, evaluation: 1, investir: 1 };
+
+  /* Recalcule l objet et montre ou cache les questions au vendeur. Le delai
+     passe devant l intention: dans la liste de la boite de reception, sur un
+     telephone, seul le debut de l objet se lit.
+     VENDEUR - moins de 3 mois - evaluation - formulaire (fr) - georgesmatar.ca */
+  function maj(form) {
+    var champ = form.querySelector('[data-lead-subject]');
+    if (!champ) return;
+    var choix = form.querySelector('input[name="intention"]:checked');
+    var intention = choix ? choix.value : 'acheter';
+    var vendeur = !!VENDEUR[intention];
+    var bloc = form.querySelector('[data-lead-vendeur]');
+    if (bloc) {
+      bloc.hidden = !vendeur;
+      bloc.querySelectorAll('input').forEach(function (el) { el.disabled = !vendeur; });
+    }
+    var delai = vendeur ? form.querySelector('input[name="delai_vente"]:checked') : null;
+    champ.value = (vendeur ? 'VENDEUR - ' : 'Lead ') +
+      (delai ? delai.value + ' - ' : '') + intention +
+      ' - ' + champ.getAttribute('data-source') +
+      ' (' + champ.getAttribute('data-lang') + ') - georgesmatar.ca';
+  }
 
   document.addEventListener('change', function (e) {
     var radio = e.target;
-    if (radio.type !== 'radio' || radio.name !== 'intention') return;
-    var form = radio.form;
-    if (!form) return;
-    var champ = form.querySelector('[data-lead-subject]');
-    if (!champ) return;
-    champ.value = (VENDEUR[radio.value] ? 'VENDEUR - ' : 'Lead ') + radio.value +
-      ' - ' + champ.getAttribute('data-source') +
-      ' (' + champ.getAttribute('data-lang') + ') - georgesmatar.ca';
+    if (radio.type !== 'radio') return;
+    if (radio.name !== 'intention' && radio.name !== 'delai_vente') return;
+    if (radio.form) maj(radio.form);
+  });
+
+  /* Un lien choisit l intention par l adresse. Sans cela, le vendeur qui
+     clique "Evaluation gratuite" tombait sur "Acheter" deja coche, et son
+     courriel arrivait classe acheteur s il ne changeait rien. */
+  function init() {
+    var voulu = new URLSearchParams(window.location.search).get('intention');
+    document.querySelectorAll('form.lead-form').forEach(function (form) {
+      if (voulu && INTENTIONS[voulu]) {
+        var radio = form.querySelector('input[name="intention"][value="' + voulu + '"]');
+        if (radio) radio.checked = true;
+      }
+      maj(form);
+    });
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+  else init();
+
+  /* Retour arriere: le navigateur peut restaurer d anciens choix coches. */
+  window.addEventListener('pageshow', function (e) {
+    if (!e.persisted) return;
+    document.querySelectorAll('form.lead-form').forEach(maj);
   });
 })();
 </script>

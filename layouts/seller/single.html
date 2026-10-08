@@ -36,7 +36,7 @@
         {{ end }}
       </p>
       <div class="journey-hero__actions">
-        <a href="{{ site.Params.formURL }}" class="btn btn-primary">
+        <a href="{{ site.Params.formURL }}?intention=evaluation" class="btn btn-primary">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
           {{ if $isFr }}Évaluation gratuite{{ else if $isEs }}Evaluación gratuita{{ else if $isAr }}تقييم مجاني{{ else }}Get a Free Evaluation{{ end }}
         </a>
@@ -178,8 +178,8 @@
       <div class="step-card" style="border-color: rgba(176,0,0,.3); background: linear-gradient(135deg, #fff 80%, rgba(176,0,0,.04) 100%);">
         <span class="step-card__num">8</span>
         <div class="step-card__icon" style="background: rgba(176,0,0,.15);"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div>
-        <div class="step-card__title" style="color: var(--red);">{{ if $isFr }}Passage de titre et argent!{{ else if $isAr }}نقل الملكية والمال!{{ else }}Title Transfer & Funds!{{ end }}</div>
-        <p class="step-card__text">{{ if $isFr }}Signature chez le notaire et reception de votre produit de vente net. Transaction completee avec succes.{{ else if $isAr }}التوقيع عند كاتب العدل واستلام صافي عائد البيع. اكتملت المعاملة بنجاح.{{ else }}Notary signing and receipt of your net sale proceeds. Transaction completed successfully.{{ end }}</p>
+        <div class="step-card__title" style="color: var(--red);">{{ if $isFr }}Passage de titre et argent!{{ else if $isAr }}نقل الملكية والمال!{{ else if $isEs }}¡Escritura y fondos!{{ else }}Title Transfer & Funds!{{ end }}</div>
+        <p class="step-card__text">{{ if $isFr }}Signature chez le notaire et reception de votre produit de vente net. Transaction completee avec succes.{{ else if $isAr }}التوقيع عند كاتب العدل واستلام صافي عائد البيع. اكتملت المعاملة بنجاح.{{ else if $isEs }}Firma ante el notario y recepción del producto neto de su venta. Transacción completada con éxito.{{ else }}Notary signing and receipt of your net sale proceeds. Transaction completed successfully.{{ end }}</p>
       </div>
 
     </div>
@@ -231,11 +231,11 @@
   <div class="container">
     <div style="display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center;" class="reveal">
       <div>
-        <span class="eyebrow">{{ if $isFr }}Outil pour vendeurs{{ else if $isAr }}أداة للبائعين{{ else }}Tool for Sellers{{ end }}</span>
-        <h2>{{ if $isFr }}Louer vs Acheter{{ else if $isAr }}الإيجار مقابل الشراء{{ else }}Rent vs Buy Analysis{{ end }}</h2>
-        <p>{{ if $isFr }}Vous hesitez entre louer et acheter votre prochain chez-vous apres la vente? Notre calculateur vous donne une comparaison claire basee sur votre situation.{{ else if $isAr }}هل تتردد بين الإيجار والشراء لمنزلك التالي بعد البيع؟ حاسبتنا تعطيك مقارنة واضحة بناءً على وضعك.{{ else }}Unsure whether to rent or buy your next home after the sale? Our calculator gives you a clear comparison based on your situation.{{ end }}</p>
+        <span class="eyebrow">{{ if $isFr }}Outil pour vendeurs{{ else if $isAr }}أداة للبائعين{{ else if $isEs }}Herramienta para vendedores{{ else }}Tool for Sellers{{ end }}</span>
+        <h2>{{ if $isFr }}Louer vs Acheter{{ else if $isAr }}الإيجار مقابل الشراء{{ else if $isEs }}Alquilar o comprar{{ else }}Rent vs Buy Analysis{{ end }}</h2>
+        <p>{{ if $isFr }}Vous hesitez entre louer et acheter votre prochain chez-vous apres la vente? Notre calculateur vous donne une comparaison claire basee sur votre situation.{{ else if $isAr }}هل تتردد بين الإيجار والشراء لمنزلك التالي بعد البيع؟ حاسبتنا تعطيك مقارنة واضحة بناءً على وضعك.{{ else if $isEs }}¿Duda entre alquilar y comprar su próximo hogar después de la venta? Nuestra calculadora le ofrece una comparación clara basada en su situación.{{ else }}Unsure whether to rent or buy your next home after the sale? Our calculator gives you a clear comparison based on your situation.{{ end }}</p>
         <a href="{{ $base }}/#tools" class="btn btn-outline-dark" style="margin-top:8px;">
-          {{ if $isFr }}Utiliser le calculateur{{ else if $isAr }}استخدم الحاسبة{{ else }}Use the Calculator{{ end }}
+          {{ if $isFr }}Utiliser le calculateur{{ else if $isAr }}استخدم الحاسبة{{ else if $isEs }}Usar la calculadora{{ else }}Use the Calculator{{ end }}
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
         </a>
       </div>
@@ -270,17 +270,17 @@
   <div class="container">
     <div style="max-width:640px;margin:0 auto;text-align:center;" class="reveal">
       <h2 style="color:#fff;margin-bottom:16px;">
-        {{ if $isFr }}Quelle est la valeur de votre propriété?{{ else if $isAr }}ما هي قيمة عقارك؟{{ else }}What Is Your Property Worth?{{ end }}
+        {{ if $isFr }}Quelle est la valeur de votre propriété?{{ else if $isAr }}ما هي قيمة عقارك؟{{ else if $isEs }}¿Cuánto vale su propiedad?{{ else }}What Is Your Property Worth?{{ end }}
       </h2>
       <p style="color:rgba(255,255,255,.88);margin-bottom:32px;font-size:1.05rem;">
-        {{ if $isFr }}Obtenez une évaluation gratuite et sans engagement de la valeur marchande de votre propriété.{{ else if $isAr }}احصل على تقييم مجاني وبدون التزام للقيمة السوقية لعقارك.{{ else }}Get a free, no-obligation evaluation of your property's market value.{{ end }}
+        {{ if $isFr }}Obtenez une évaluation gratuite et sans engagement de la valeur marchande de votre propriété.{{ else if $isAr }}احصل على تقييم مجاني وبدون التزام للقيمة السوقية لعقارك.{{ else if $isEs }}Obtenga una evaluación gratuita y sin compromiso del valor de mercado de su propiedad.{{ else }}Get a free, no-obligation evaluation of your property's market value.{{ end }}
       </p>
       <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;">
-        <a href="{{ site.Params.formURL }}" class="btn btn-white">
-          {{ if $isFr }}Évaluation gratuite{{ else if $isAr }}تقييم مجاني{{ else }}Free Evaluation{{ end }}
+        <a href="{{ site.Params.formURL }}?intention=evaluation" class="btn btn-white">
+          {{ if $isFr }}Évaluation gratuite{{ else if $isAr }}تقييم مجاني{{ else if $isEs }}Evaluación gratuita{{ else }}Free Evaluation{{ end }}
         </a>
         <button class="btn btn-outline" data-cal-link="georgesmatar" data-cal-config='{"layout":"month_view"}'>
-          {{ if $isFr }}Prendre rendez-vous{{ else if $isAr }}احجز موعداً{{ else }}Book a Meeting{{ end }}
+          {{ if $isFr }}Prendre rendez-vous{{ else if $isAr }}احجز موعداً{{ else if $isEs }}Reservar una cita{{ else }}Book a Meeting{{ end }}
         </button>
       </div>
     </div>

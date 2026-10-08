@@ -7,8 +7,25 @@
   <div class="container">
 
     <div class="lead-page__head">
-      <h1>{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
-      <p class="lead-page__sub">{{ if $isFr }}Remplissez le formulaire. Je vous réponds en moins de 24 heures.{{ else if $isAr }}املأ الاستمارة. أرد عليك خلال أقل من 24 ساعة.{{ else if $isEs }}Complete el formulario. Le respondo en menos de 24 horas.{{ else }}Fill out the form. I answer within 24 hours.{{ end }}</p>
+      {{/* Le vendeur qui arrive par /formulaire/?intention=evaluation, depuis un
+           bouton "Evaluation gratuite", une lettre ou une publicite, doit lire
+           ce qu il est venu chercher. Le titre change donc pour lui, le reste
+           de la page ne bouge pas. Page en noindex: Google ne voit que le
+           titre de base. */}}
+      <h1 id="lead-page-titre"
+          data-vendeur="{{ if $isFr }}Évaluation gratuite de votre propriété{{ else if $isAr }}تقييم مجاني لعقارك{{ else if $isEs }}Evaluación gratuita de su propiedad{{ else }}Free evaluation of your property{{ end }}">{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
+      <p class="lead-page__sub" id="lead-page-sous-titre"
+         data-vendeur="{{ if $isFr }}Une analyse comparative à partir des ventes récentes de votre secteur. Sans frais, sans engagement. Je vous réponds en moins de 24 heures.{{ else if $isAr }}تحليل مقارن انطلاقاً من المبيعات الحديثة في قطاعك. دون رسوم ودون التزام. أرد عليك خلال أقل من 24 ساعة.{{ else if $isEs }}Un análisis comparativo a partir de las ventas recientes de su sector. Sin costo, sin compromiso. Le respondo en menos de 24 horas.{{ else }}A comparative market analysis built from recent sales in your area. No fee, no obligation. I answer within 24 hours.{{ end }}">{{ if $isFr }}Remplissez le formulaire. Je vous réponds en moins de 24 heures.{{ else if $isAr }}املأ الاستمارة. أرد عليك خلال أقل من 24 ساعة.{{ else if $isEs }}Complete el formulario. Le respondo en menos de 24 horas.{{ else }}Fill out the form. I answer within 24 hours.{{ end }}</p>
+      <script>
+      (function () {
+        var i = new URLSearchParams(window.location.search).get('intention');
+        if (i !== 'evaluation' && i !== 'vendre') return;
+        ['lead-page-titre', 'lead-page-sous-titre'].forEach(function (id) {
+          var el = document.getElementById(id);
+          if (el) el.textContent = el.getAttribute('data-vendeur');
+        });
+      })();
+      </script>
 
       <ul class="lead-page__proof">
         <li>
