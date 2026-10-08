@@ -276,6 +276,9 @@ un courtier.
 - [ ] MeilleurCourtier.ca (celui de ta liste). Attention: ils n'acceptent que
       les courtiers notes 5 etoiles sur Google. A faire APRES avoir obtenu tes
       premiers avis, sinon la candidature est refusee. Voir section C.
+- [ ] Vendre.ca, profil de courtier, `user.vendre.ca/broker-profile`.
+      Commence le 2026-10-08. Une fois enregistre, m'envoyer l'adresse
+      publique du profil: je l'ajoute a la fiche d'identite du site.
 
 **Etape 4 - Acheteurs etrangers.** Pour les gens qui achetent au Quebec depuis
 l'exterieur. Ton avantage a quatre langues joue a plein ici.
