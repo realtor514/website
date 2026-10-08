@@ -38,9 +38,11 @@ procès-verbaux de copropriété et du certificat de localisation.
 
 ## Les protections RE/MAX
 
-Le rattachement à RE/MAX DU CARTIER donne accès à des programmes qui ne se
-facturent pas en supplément: Tranquilli-T, Intégri-T, Coproprié-T. Ils sont
-détaillés sur ce site, chacun sur sa page.
+Le rattachement à RE/MAX DU CARTIER donne accès à trois programmes:
+Tranquilli-T et Coproprié-T, sans frais, et Intégri-T, une garantie payante
+contre les vices cachés: à partir de 975 $ plus taxes lorsque le vendeur la
+paie, 675 $ plus taxes lorsque c'est l'acheteur, tarifs modifiables sans
+préavis. Ils sont détaillés sur ce site, chacun sur sa page.
 
 ## Domaines d'intervention
 

@@ -38,9 +38,11 @@ del certificado de localización.
 
 ## Las protecciones RE/MAX
 
-La vinculación con RE/MAX DU CARTIER da acceso a programas que no se facturan
-aparte: Tranquilli-T, Integri-T, Coproprie-T. Cada uno tiene su página en este
-sitio.
+La vinculación con RE/MAX DU CARTIER da acceso a tres programas:
+Tranquilli-T y Coproprie-T, sin costo, e Integri-T, una garantía de pago
+contra los vicios ocultos: desde 975 $ más impuestos cuando la paga el
+vendedor, 675 $ más impuestos cuando la paga el comprador, tarifas sujetas a
+cambio sin previo aviso. Cada uno tiene su página en este sitio.
 
 ## Ámbitos de trabajo
 
