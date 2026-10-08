@@ -205,7 +205,11 @@ tu n'en fais que huit, fais celles-la.
 - [ ] Facebook, page professionnelle avec adresse et telephone
 - [ ] Pages Jaunes, `pagesjaunes.ca` (la plus forte autorite francophone)
 - [ ] Yelp.ca (celui de ta liste, il est legitime et bien classe au Canada)
-- [ ] Foursquare, `foursquare.com` (alimente Uber, Apple, Samsung)
+- [x] Foursquare, `foursquare.com` (alimente Uber, Apple, Samsung). Fait le
+      2026-10-08: `app.foursquare.com/v/georges-matar-remax-du-cartier/6ac7b5dc2f76fc6486731565`.
+      Compte ouvert avec l'adresse remax-quebec.com. La page de la fiche exige
+      une connexion: elle n'est pas ajoutee au sameAs du site, Google ne la
+      verrait pas.
 - [ ] MapQuest, `mapquest.ca`. Verifie le 2026-10-08: pas de formulaire
       gratuit. "Claim it" renvoie vers Yext, un service payant. Trafic tres
       faible au Quebec: a faire en dernier, seulement si c'est gratuit.
