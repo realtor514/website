@@ -827,6 +827,13 @@ disableKinds = ["taxonomy", "term"]
   instagram = "https://www.instagram.com/georgesmatar.ca"
   linkedin  = ""
   youtube   = "https://www.youtube.com/channel/UCeypcVDGZVlJkEK8FHLP5ag"
+  # Fiche courtier Centris, verifiee le 2026-10-09: elle porte deja le lien vers
+  # georgesmatar.ca, et son adresse contient le numero de permis J7941. C est la
+  # mention de plus forte autorite du secteur, elle rattache le site au permis.
+  centris   = "https://www.centris.ca/en/real-estate-broker~georges-matar~re-max-du-cartier-inc.-duvernay/j7941"
+  # Profil universitaire de l ETS, confirme par Georges le 2026-10-09. Il corrobore
+  # l ingenierie et le doctorat, qui ouvrent desormais les descriptions d annuaire.
+  academia  = "https://etsmtl.academia.edu/georgesmatar"
 
   areasServed = ["Laval", "Montréal", "Longueuil", "Brossard", "Terrebonne", "Blainville", "Repentigny", "Boucherville", "Saint-Bruno-de-Montarville", "Chambly", "La Prairie", "Candiac", "Delson", "Saint-Jérôme", "Boisbriand", "Sainte-Thérèse", "Rosemère", "Mascouche", "Saint-Eustache", "Mirabel", "Sainte-Julie", "Varennes", "Châteauguay", "Saint-Constant", "Rive-Nord", "Rive-Sud", "Laurentides", "Lanaudière", "Montérégie", "Saint-Hubert", "Greenfield Park", "Sainte-Catherine", "Lorraine", "Carignan", "Saint-Basile-le-Grand", "Beloeil", "Mont-Saint-Hilaire"]
 
