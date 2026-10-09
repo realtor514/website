@@ -264,7 +264,13 @@ en une journee ressemble a du spam.
 pas seulement du signal SEO. Les gens qui consultent ces sites cherchent deja
 un courtier.
 
-- [ ] Centris, fiche courtier (verifier que le lien vers georgesmatar.ca y est)
+- [x] Centris, fiche courtier - FAIT. Trouvee et verifiee le 2026-10-09:
+      `www.centris.ca/en/real-estate-broker~georges-matar~re-max-du-cartier-inc.-duvernay/j7941`.
+      Le lien vers georgesmatar.ca y est deja, c'etait la seule chose a
+      confirmer. Adresse affichee: 2820, boul. Saint-Martin E. #201, Laval QC
+      H7E 5A1, ville Laval. Deux numeros, le tien 438-372-0102 et celui de
+      l'agence 450-661-6810. Seule reserve, l'adresse se lit #201 et non
+      Bureau 201. Ajoutee au sameAs du site le meme jour, commit 26ce52f.
 - [ ] RE/MAX Quebec, `remax-quebec.com` - FAIT
 - [ ] RE/MAX du Cartier, `remaxducartier.com` - FAIT
 - [ ] Trouvetoncourtier.net (celui de ta liste)
@@ -953,14 +959,45 @@ Mets exactement: **Agence immobiliere** ou **Courtier immobilier**
 le facteur numero 1 du classement local.
 
 Categories secondaires a ajouter:
-- Agent immobilier
-- Service d'evaluation immobiliere
-- Immobilier commercial (si applicable)
+- Courtier immobilier residentiel
+- Conseiller immobilier
+- Copropriete
+
+Corrige le 2026-10-09. L'ancienne liste proposait trois categories a retirer:
+
+- **Immobilier commercial.** Hors permis. Le permis J7941 est un permis de
+  courtier immobilier **residentiel**, limite aux immeubles principalement
+  residentiels de moins de 5 logements, aux terrains vacants a usage
+  residentiel et aux fractions de copropriete. L'immeuble commercial en est
+  explicitement exclu. Annoncer cette categorie, c'est offrir un service que
+  le permis ne couvre pas. Meme regle pour le contenu du site: duplex,
+  triplex et quadruplex sont dans le permis, un 5-plex ne l'est pas.
+- **Service d'evaluation immobiliere.** Seul un evaluateur agree de l'OEAQ
+  produit une evaluation reconnue. Un courtier produit une valeur marchande
+  estimee, une ACM, sans valeur legale. L'offre d'estimation gratuite reste
+  dans la description, ou elle est formulee correctement.
+- **Agent immobilier.** Le titre d'agent immobilier est aboli au Quebec
+  depuis 2010. Prendre "Courtier immobilier" partout ou il est offert.
 
 **2. Nom de l'etablissement**
-`Georges Matar - Courtier immobilier | RE/MAX Du Cartier`
+`Georges Matar - RE/MAX Du Cartier`
 
 Ne mets pas de mots-cles supplementaires (Google peut suspendre la fiche).
+
+Corrige le 2026-10-09. L'ancienne version, `Georges Matar - Courtier
+immobilier | RE/MAX Du Cartier`, contredisait la phrase ci-dessus et
+tronquait le titre du permis, qui est residentiel. Le titre n'a pas besoin
+d'etre dans le champ Nom: l'article 114 exige que **la publicite**, prise
+dans son ensemble, indique le nom du courtier, le permis qu'il detient et le
+nom de l'agence, pas qu'ils tiennent tous dans une seule case. Le titre vit
+donc dans la categorie et dans la description, et le champ Nom reste la
+chaine courte et identique que Google compare d'un annuaire a l'autre.
+
+**Condition:** remplir la description sur chaque fiche. Une fiche qui ne
+porterait que le nom, l'adresse et le telephone, sans le titre de courtier
+immobilier residentiel, ne respecterait pas l'article 114. Si un annuaire
+n'offre aucun champ de description, et seulement dans ce cas, utiliser le nom
+long: `Georges Matar, courtier immobilier residentiel - RE/MAX Du Cartier`.
 
 **3. Adresse et zone de service**
 - Adresse: celle du bloc de la section E. Dans la fiche: ligne 1
@@ -1083,9 +1120,12 @@ Verifie et corrige sur:
 
 Format de reference a utiliser partout (mis a jour le 2026-10-08: adresse
 confirmee par Georges, avec le bureau 201 et Laval comme ville, jamais
-Duvernay. Voir TODO-GOOGLE-BUSINESS.md, etape 16):
+Duvernay. Voir TODO-GOOGLE-BUSINESS.md, etape 16. Mis a jour le 2026-10-09:
+le nom prend un tiret, plus une virgule. Les fiches Google et Yelp affichent
+deja `Georges Matar - RE/MAX Du Cartier`, donc le tiret ne demande aucune
+correction, alors que la virgule aurait oblige a modifier les deux):
 ```
-Georges Matar, RE/MAX Du Cartier
+Georges Matar - RE/MAX Du Cartier
 2820, boul. St-Martin Est, Bureau 201
 Laval, QC H7E 5A1
 (438) 372-0102
