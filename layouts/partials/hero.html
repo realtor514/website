@@ -54,11 +54,14 @@
     <div class="hero__inner">
 
       <div class="hero__content">
+        {{/* Le ballon officiel de l extranet, pose directement sur le navy:
+             son filet blanc suffit a l en detacher, et le guide des normes
+             interdit tout encadrement autour du logo RE/MAX. */}}
         <div class="hero__eyebrow reveal">
-          <img src="{{ "images/remax-logo-96.png" | relURL }}"
-               alt="RE/MAX DU CARTIER INC."
-               class="hero__eyebrow-logo" width="28" height="28">
-          RE/MAX DU CARTIER INC.
+          <img src="{{ "images/remax-ballon.svg" | relURL }}"
+               alt=""
+               class="hero__eyebrow-logo" width="25" height="28">
+          {{ .Site.Params.brokerage }}
         </div>
 
         <h1 class="hero__name reveal reveal-delay-1">

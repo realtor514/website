@@ -3,7 +3,7 @@ title: "Coproprié-T : un courtier formé en droit de la copropriété"
 description: "Coproprié-T: formation exclusive de RE/MAX Québec, développée avec Me Yves Joli-Coeur et CondoLegal.com, pour la copropriété divise et indivise."
 program: "Coproprié-T"
 eyebrow: "Formation exclusive RE/MAX Québec"
-logo: "images/protections/coproprie-t.png"
+logo: "images/protections/coproprie-t-fr.png"
 accent: "navy"
 official: "https://www.remax-quebec.com/fr/coproprie-t"
 weight: 3

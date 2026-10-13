@@ -3,7 +3,7 @@ title: "Tranquilli-T: مساعدة قانونية مجانية طوال معام
 description: "برنامج حصري من RE/MAX Québec يحميك بين وعد الشراء والعقد الرسمي، مع استشارات قانونية غير محدودة وبدون أي تكلفة."
 program: "Tranquilli-T"
 eyebrow: "حماية حصرية من RE/MAX Québec"
-logo: "images/protections/tranquilli-t.png"
+logo: "images/protections/tranquilli-t-en.png"
 accent: "blue"
 official: "https://www.remax-quebec.com/en/tranquilli-t"
 weight: 1

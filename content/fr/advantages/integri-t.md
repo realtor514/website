@@ -3,7 +3,7 @@ title: "Intégri-T : protection des vices cachés"
 description: "La garantie RE/MAX Québec, offerte avec GBQ depuis le 1er octobre 2026 : jusqu'à 50 000 $ contre les vices cachés pendant 3 ans, acheteur comme vendeur."
 program: "Intégri-T"
 eyebrow: "Garantie exclusive RE/MAX Québec"
-logo: "images/protections/integri-t.png"
+logo: "images/protections/integri-t-fr.png"
 accent: "red"
 official: "https://www.remax-quebec.com/fr/integri-t"
 weight: 2

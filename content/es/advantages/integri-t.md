@@ -3,7 +3,7 @@ title: "Integri-T: protección contra vicios ocultos"
 description: "La garantía RE/MAX Québec, ofrecida con GBQ desde el 1 de octubre de 2026: hasta 50 000 $ contra los vicios ocultos durante 3 años, comprador y vendedor."
 program: "Integri-T"
 eyebrow: "Garantía exclusiva RE/MAX Québec"
-logo: "images/protections/integri-t.png"
+logo: "images/protections/integri-t-en.png"
 accent: "red"
 official: "https://www.remax-quebec.com/fr/integri-t"
 weight: 2

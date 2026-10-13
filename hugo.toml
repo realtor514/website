@@ -782,6 +782,13 @@ disableKinds = ["taxonomy", "term"]
   phone        = "(438) 372-0102"
   email        = "georges.matar@remax-quebec.com"
   address      = "2820, boul. St-Martin Est, Bureau 201, Laval, QC H7E 5A1"
+  # Telephone principal de l agence, distinct de celui de Georges. Le guide des
+  # normes RE/MAX (p. 42) l exige sur la page d accueil, avec le nom de
+  # l agence, la mention « Agence immobiliere » et l adresse civique. Confirme
+  # par Georges le 2026-10-13: c est le bureau de Duvernay, a Laval, celui
+  # auquel il est rattache, a la meme adresse que celle deja affichee.
+  agencyPhone    = "(450) 661-6810"
+  agencyPhoneRaw = "+14506616810"
   remaxProfile = "https://remaxducartier.com/fr/courtiers/georges-matar-140955"
 
   # Identifiant de mesure Google Analytics 4, format G-XXXXXXXXXX.

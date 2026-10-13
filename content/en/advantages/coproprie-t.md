@@ -3,7 +3,7 @@ title: "Coproprie-T: A Broker Trained in Condominium Law"
 description: "RE/MAX Québec's exclusive training program developed with Me Yves Joli-Coeur and CondoLegal.com, for divided and undivided co-ownership transactions."
 program: "Coproprie-T"
 eyebrow: "Exclusive RE/MAX Québec Training"
-logo: "images/protections/coproprie-t.png"
+logo: "images/protections/coproprie-t-en.png"
 accent: "navy"
 official: "https://www.remax-quebec.com/en/coproprie-t"
 weight: 3

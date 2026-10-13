@@ -490,8 +490,10 @@
   text-shadow: 0 1px 6px rgba(0,0,0,.85);
   opacity: .95;
 }
-.nav__logo-badge { transition: transform .5s var(--ease-spring); }
-.nav__logo:hover .nav__logo-badge { transform: rotate(-7deg) scale(1.06); }
+/* Le logo RE/MAX officiel ne pivote pas et ne se deforme pas: le survol ne
+   fait que l eclaircir legerement. */
+.nav__logo-remax { transition: opacity .35s ease; }
+.nav__logo:hover .nav__logo-remax { opacity: .85; }
 
 /* Barre de progression: degrade + halo */
 .scroll-progress {

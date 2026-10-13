@@ -19,7 +19,24 @@
             </div>
             <div>
               <span class="contact-detail__label">{{ if $isFr }}Téléphone{{ else if $isAr }}الهاتف{{ else if $isEs }}Teléfono{{ else }}Phone{{ end }}</span>
-              <a href="tel:+14383720102" class="contact-detail__value"><bdi dir="ltr">{{ .Site.Params.phone }}</bdi></a>
+              <a href="tel:{{ .Site.Params.phoneRaw }}" class="contact-detail__value"><bdi dir="ltr">{{ .Site.Params.phone }}</bdi></a>
+            </div>
+          </div>
+
+          {{/* Le telephone principal de l agence est une mention obligatoire du
+               guide des normes RE/MAX (p. 42), au meme titre que l adresse
+               civique. Il est distinct de celui de Georges, les deux sont donc
+               nommes. */}}
+          <div class="contact-detail">
+            <div class="contact-detail__icon">
+              <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M3 21h18"/><path d="M5 21V7l7-4 7 4v14"/>
+                <path d="M10 21v-6h4v6"/>
+              </svg>
+            </div>
+            <div>
+              <span class="contact-detail__label">{{ if $isFr }}Téléphone de l&rsquo;agence{{ else if $isAr }}هاتف الوكالة{{ else if $isEs }}Teléfono de la agencia{{ else }}Agency phone{{ end }}</span>
+              <a href="tel:{{ .Site.Params.agencyPhoneRaw }}" class="contact-detail__value"><bdi dir="ltr">{{ .Site.Params.agencyPhone }}</bdi></a>
             </div>
           </div>
 
@@ -46,6 +63,10 @@
             <div>
               <span class="contact-detail__label">{{ if $isFr }}Bureau{{ else if $isAr }}المكتب{{ else if $isEs }}Oficina{{ else }}Office{{ end }}</span>
               <span class="contact-detail__value"><bdi dir="ltr">{{ .Site.Params.address }}</bdi></span>
+              <span class="contact-detail__note">
+                {{ .Site.Params.brokerage }},
+                {{ if $isFr }}agence immobilière{{ else if $isAr }}وكالة عقارية{{ else if $isEs }}agencia inmobiliaria{{ else }}real estate agency{{ end }}
+              </span>
             </div>
           </div>
 

@@ -8,13 +8,13 @@
     <div class="footer__inner">
       <div>
         <div class="footer__logo-wrap">
-          <div class="footer__logo-badge">
-            <img src="{{ "images/remax-logo-96.png" | relURL }}"
-                 alt="RE/MAX DU CARTIER"
-                 class="footer__logo-img"
-                 width="36" height="36"
-                 loading="lazy">
-          </div>
+          {{/* Meme fichier d extranet que l entete, sans encadrement. */}}
+          <img src="{{ "images/remax-ballon-logotype-creme.svg" | relURL }}"
+               alt="RE/MAX"
+               class="footer__logo-remax"
+               width="110" height="30"
+               loading="lazy">
+          <span class="footer__logo-rule" aria-hidden="true"></span>
           <span class="footer__logo-label">{{ .Site.Params.name }}</span>
         </div>
         <div class="footer__brand-title">{{ .Site.Params.role }}</div>
@@ -78,12 +78,35 @@
                diverger. Elle reste en caracteres latins en arabe: c est une
                adresse postale canadienne, elle doit pouvoir etre recopiee
                telle quelle sur une enveloppe ou dans un GPS. */}}
+          {{/* Le guide des normes RE/MAX (p. 42) veut sur la page d accueil le
+               nom de l agence, la mention « Agence immobiliere », son adresse
+               civique et son telephone principal. Les deux numeros sont
+               nommes: celui de Georges et celui du bureau de rattachement ne
+               sonnent pas au meme endroit, et un visiteur doit savoir lequel
+               il compose. */}}
+          <li class="footer__agency">
+            <span class="footer__agency-name">{{ .Site.Params.brokerage }}</span>
+            <span class="footer__agency-kind">
+              {{ if $isFr }}Agence immobilière{{ else if $isAr }}وكالة عقارية{{ else if $isEs }}Agencia inmobiliaria{{ else }}Real estate agency{{ end }}
+            </span>
+          </li>
           <li>
             <a href="{{ .Site.Params.googleBusinessURL }}" target="_blank" rel="noopener" class="footer__link footer__address">
               <bdi dir="ltr">{{ .Site.Params.streetAddress }}<br>{{ .Site.Params.addressLocality }}, {{ .Site.Params.addressRegion }} {{ .Site.Params.postalCode }}</bdi>
             </a>
           </li>
-          <li><a href="tel:+14383720102" class="footer__link"><bdi dir="ltr">{{ .Site.Params.phone }}</bdi></a></li>
+          <li>
+            <a href="tel:{{ .Site.Params.phoneRaw }}" class="footer__link">
+              <span class="footer__contact-label">{{ .Site.Params.name }}</span>
+              <bdi dir="ltr">{{ .Site.Params.phone }}</bdi>
+            </a>
+          </li>
+          <li>
+            <a href="tel:{{ .Site.Params.agencyPhoneRaw }}" class="footer__link">
+              <span class="footer__contact-label">{{ if $isFr }}Agence{{ else if $isAr }}الوكالة{{ else if $isEs }}Agencia{{ else }}Agency{{ end }}</span>
+              <bdi dir="ltr">{{ .Site.Params.agencyPhone }}</bdi>
+            </a>
+          </li>
           <li><a href="mailto:{{ .Site.Params.email }}" class="footer__link">{{ .Site.Params.email }}</a></li>
           <li><a href="{{ .Site.Params.remaxProfile }}" target="_blank" rel="noopener" class="footer__link">{{ if $isFr }}Profil RE/MAX{{ else if $isAr }}ملف RE/MAX{{ else if $isEs }}Perfil RE/MAX{{ else }}RE/MAX Profile{{ end }}</a></li>
         </ul>

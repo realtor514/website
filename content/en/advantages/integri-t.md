@@ -3,7 +3,7 @@ title: "Integri-T: Up to $50,000 of Hidden Defect Protection"
 description: "The RE/MAX Québec warranty, offered with GBQ since October 1, 2026: up to $50,000 against hidden defects for 3 years, for buyer and seller alike."
 program: "Integri-T"
 eyebrow: "Exclusive RE/MAX Québec Warranty"
-logo: "images/protections/integri-t.png"
+logo: "images/protections/integri-t-en.png"
 accent: "red"
 official: "https://www.remax-quebec.com/en/integri-t"
 weight: 2

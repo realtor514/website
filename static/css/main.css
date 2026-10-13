@@ -190,9 +190,16 @@ p:last-child { margin-bottom: 0; }
   justify-content: space-between;
   height: 80px;
 }
-.nav__logo { display: flex; flex-direction: row; align-items: center; gap: 12px; }
-.nav__logo-badge { background: #fff; border-radius: 10px; padding: 4px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
-.nav__logo-img { height: 40px; width: 40px; object-fit: contain; display: block; }
+.nav__logo { display: flex; flex-direction: row; align-items: center; gap: 13px; }
+/* Logo RE/MAX officiel: aucun fond, aucun cadre, aucun arrondi. Le guide des
+   normes interdit tout encadrement, et le ballon officiel porte deja son
+   filet blanc, qui suffit a le detacher du navy. */
+.nav__logo-remax { height: 34px; width: auto; display: block; flex-shrink: 0; }
+.nav__logo-rule { width: 1px; height: 30px; background: rgba(247,245,238,.22); flex-shrink: 0; }
+/* Le verrou RE/MAX est plus large que l ancien ballon seul: sans ces deux
+   garde-fous, la barre serrait le bloc de texte et le nom du courtier passait
+   a la ligne. */
+.nav__logo { flex-shrink: 0; }
 .nav__logo-text { display: flex; flex-direction: column; }
 .nav__logo-name {
   font-family: 'Playfair Display', serif;
@@ -200,13 +207,42 @@ p:last-child { margin-bottom: 0; }
   font-weight: 700;
   color: var(--white);
   letter-spacing: .02em;
+  white-space: nowrap;
 }
 .nav__logo-title {
+  white-space: nowrap;
   font-size: .65rem;
   color: var(--red);
   letter-spacing: .14em;
   text-transform: uppercase;
   font-weight: 600;
+}
+/* Le menu deroulant complet, le bouton Reserver et le selecteur de langue
+   demandent a eux seuls environ 885 px. Entre le passage au hamburger et
+   1420 px, la ligne du metier s efface donc pour que le menu ait la place de
+   passer sans chevaucher le logo. Sous le hamburger, la place revient et elle
+   reparait. */
+@media (max-width: 1420px) {
+  .nav__logo { gap: 10px; }
+  .nav__logo-rule { height: 26px; }
+  .nav__logo-title { display: none; }
+}
+/* Sous le hamburger, le logo n a plus que le bouton du menu en face de lui: la
+   ligne du metier revient, et le bloc de texte se laisse couper proprement
+   plutot que de pousser le bouton hors de l ecran. La coupure vaut pour toutes
+   les largeurs de telephone, sans dependre d un point de rupture devine. Le
+   logo RE/MAX, lui, ne retrecit jamais. */
+@media (max-width: 1250px) {
+  .nav__logo-title { display: block; }
+  .nav__logo { flex-shrink: 1; min-width: 0; }
+  .nav__logo-text { min-width: 0; overflow: hidden; }
+  .nav__logo-name,
+  .nav__logo-title { overflow: hidden; text-overflow: ellipsis; }
+}
+@media (max-width: 430px) {
+  .nav__logo-remax { height: 26px; }
+  .nav__logo-name { font-size: 1.05rem; }
+  .nav__logo-title { display: none; }
 }
 .nav__menu { display: flex; align-items: center; gap: 4px; }
 .nav__link {
@@ -248,7 +284,10 @@ p:last-child { margin-bottom: 0; }
   border-radius: 2px;
   transition: var(--transition);
 }
-@media (max-width: 900px) {
+/* Le menu bascule en hamburger sous 1250 px, et non plus sous 900. Entre les
+   deux, il n avait jamais eu la place de s afficher en entier: il recouvrait
+   le logo et le selecteur de langue sortait de l ecran. */
+@media (max-width: 1250px) {
   .nav__toggle { display: flex; }
   .nav__menu {
     display: none;
@@ -364,7 +403,9 @@ p:last-child { margin-bottom: 0; }
   text-transform: uppercase;
   margin-bottom: 28px;
 }
-.hero__eyebrow-logo { height: 28px; width: 28px; object-fit: contain; border-radius: 6px; background: #fff; padding: 2px; }
+/* Ballon officiel pose a nu sur le bandeau: ni fond blanc, ni coins arrondis,
+   ni marge interieure, le guide des normes RE/MAX interdit l encadrement. */
+.hero__eyebrow-logo { height: 28px; width: auto; display: block; }
 .hero__name {
   color: var(--white);
   font-size: clamp(2.8rem, 6vw, 5rem);
@@ -865,6 +906,9 @@ p:last-child { margin-bottom: 0; }
 }
 .contact-detail__label { color: rgba(255,255,255,.4); font-size: .7rem; text-transform: uppercase; letter-spacing: .09em; display: block; margin-bottom: 3px; }
 .contact-detail__value { color: var(--white); font-weight: 500; font-size: .92rem; }
+/* Nom de l agence et mention « Agence immobiliere » sous l adresse du bureau:
+   deux des mentions obligatoires du guide des normes RE/MAX. */
+.contact-detail__note { display: block; margin-top: 3px; color: rgba(255,255,255,.45); font-size: .8rem; }
 .contact-form { background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); border-radius: var(--radius-xl); padding: 44px; backdrop-filter: blur(12px); }
 .form-group { margin-bottom: 20px; }
 .form-label { display: block; font-size: .82rem; color: rgba(255,255,255,.6); margin-bottom: 8px; font-weight: 500; }
@@ -895,6 +939,13 @@ p:last-child { margin-bottom: 0; }
 .footer__link { font-size: .88rem; transition: var(--transition); }
 .footer__link:hover { color: var(--red); }
 .footer__address { line-height: 1.55; display: inline-block; }
+/* Mentions obligatoires du guide des normes RE/MAX: le nom de l agence et la
+   mention « Agence immobiliere » ouvrent le bloc de coordonnees, au-dessus de
+   l adresse civique et des deux telephones. */
+.footer__agency { line-height: 1.45; margin-bottom: 2px; }
+.footer__agency-name { display: block; font-size: .88rem; font-weight: 600; color: var(--white); }
+.footer__agency-kind { display: block; font-size: .78rem; color: rgba(255,255,255,.45); }
+.footer__contact-label { color: rgba(255,255,255,.45); margin-inline-end: 7px; }
 /* Permis, conditions, garanties: une bande au-dessus de la ligne de droit
    d auteur, plus discrete que la navigation mais lisible. */
 .footer__legal { border-top: 1px solid rgba(255,255,255,.07); padding-top: 20px; margin-bottom: 18px; display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; font-size: .78rem; }
@@ -2657,20 +2708,19 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
   gap: 10px;
   margin-bottom: 14px;
 }
-.footer__logo-badge {
-  background: #fff;
-  border-radius: 8px;
-  padding: 3px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+/* Meme regle qu en entete: le logo RE/MAX officiel ne se pose jamais dans une
+   pastille. */
+.footer__logo-remax {
+  height: 30px;
+  width: auto;
+  display: block;
   flex-shrink: 0;
 }
-.footer__logo-img {
-  height: 36px;
-  width: 36px;
-  object-fit: contain;
-  display: block;
+.footer__logo-rule {
+  width: 1px;
+  height: 26px;
+  background: rgba(247,245,238,.22);
+  flex-shrink: 0;
 }
 .footer__logo-label {
   font-family: 'Playfair Display', serif;
@@ -2907,13 +2957,17 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
 .adv-card--navy { border-top-color: var(--navy-mid); }
 .adv-card--gold { border-top-color: #c9a84c; }
 .adv-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-lg); }
+/* Les logos officiels des programmes portent sous le nom une ligne « Offert en
+   partenariat avec » et le logo du partenaire: ils sont plus hauts que les
+   marques seules qui vivaient ici avant, et la case leur fait donc plus de
+   place. */
 .adv-card__logo {
-  height: 62px;
+  height: 88px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
 }
-.adv-card__logo img { max-height: 54px; max-width: 210px; width: auto; object-fit: contain; }
+.adv-card__logo img { max-height: 84px; max-width: 100%; width: auto; object-fit: contain; }
 .adv-card__title { font-size: 1.08rem; font-weight: 700; color: var(--text); margin: 0; line-height: 1.4; }
 .adv-card__desc { font-size: .92rem; color: var(--gray); line-height: 1.65; margin: 0; flex: 1; }
 .adv-card__link {
@@ -2989,7 +3043,7 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
 .lead-nav { background: var(--navy); border-bottom: 1px solid rgba(255,255,255,.09); padding: 15px 0; }
 .lead-nav__inner { display: flex; align-items: center; justify-content: space-between; gap: 18px; }
 .lead-nav__logo { display: flex; align-items: center; gap: 11px; }
-.lead-nav__logo img { border-radius: 7px; flex-shrink: 0; }
+.lead-nav__logo img { flex-shrink: 0; }
 .lead-nav__logo span { display: flex; flex-direction: column; line-height: 1.25; }
 .lead-nav__logo strong { color: var(--white); font-size: .95rem; font-weight: 600; }
 .lead-nav__logo em { color: rgba(255,255,255,.45); font-size: .72rem; font-style: normal; }

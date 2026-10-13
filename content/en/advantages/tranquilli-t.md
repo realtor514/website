@@ -3,7 +3,7 @@ title: "Tranquilli-T: Free Legal Assistance"
 description: "An exclusive RE/MAX Québec program that protects you between the accepted offer and the notarial deed, with unlimited legal consultations at no cost."
 program: "Tranquilli-T"
 eyebrow: "Exclusive RE/MAX Québec Protection"
-logo: "images/protections/tranquilli-t.png"
+logo: "images/protections/tranquilli-t-en.png"
 accent: "blue"
 official: "https://www.remax-quebec.com/en/tranquilli-t"
 weight: 1

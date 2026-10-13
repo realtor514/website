@@ -3,7 +3,7 @@ title: "Coproprie-T: وسيط مدرَّب في قانون الملكية الم
 description: "برنامج التدريب الحصري من RE/MAX Québec، طُوّر مع الأستاذ Yves Joli-Coeur وموقع CondoLegal.com، لمعاملات الملكية المشتركة المقسّمة وغير المقسّمة."
 program: "Coproprie-T"
 eyebrow: "تدريب حصري من RE/MAX Québec"
-logo: "images/protections/coproprie-t.png"
+logo: "images/protections/coproprie-t-en.png"
 accent: "navy"
 official: "https://www.remax-quebec.com/en/coproprie-t"
 weight: 3

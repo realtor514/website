@@ -3,7 +3,7 @@ title: "Integri-T: حماية تصل إلى 50,000 دولار من العيوب 
 description: "ضمان RE/MAX Québec، المقدَّم مع GBQ منذ 1 أكتوبر 2026: حتى 50,000 دولار ضد العيوب الخفية لمدة 3 سنوات، للمشتري والبائع معاً."
 program: "Integri-T"
 eyebrow: "ضمان حصري من RE/MAX Québec"
-logo: "images/protections/integri-t.png"
+logo: "images/protections/integri-t-en.png"
 accent: "red"
 official: "https://www.remax-quebec.com/en/integri-t"
 weight: 2

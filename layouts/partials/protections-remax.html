@@ -4,6 +4,13 @@
 {{ $base := "/en" }}
 {{ if $isFr }}{{ $base = "" }}{{ else if $isAr }}{{ $base = "/ar" }}{{ else if $isEs }}{{ $base = "/es" }}{{ end }}
 
+{{/* Les logos de programmes viennent de l extranet RE/MAX et portent une
+     ligne « Offert en partenariat avec » qui, elle, est traduite. RE/MAX
+     Quebec ne publie que le francais et l anglais: l espagnol et l arabe
+     prennent donc la version anglaise, un visiteur qui a choisi une de ces
+     deux langues lit l anglais plus surement que le francais. */}}
+{{ $progLang := cond $isFr "fr" "en" }}
+
 <section class="section section--light" id="protections">
   <div class="container">
 
@@ -32,7 +39,7 @@
       <!-- Tranquilli-T -->
       <a href="{{ $base }}/advantages/tranquilli-t/" class="adv-card adv-card--blue">
         <div class="adv-card__logo">
-          <img src="{{ "images/protections/tranquilli-t.png" | relURL }}" alt="Tranquilli-T" loading="lazy">
+          <img src="{{ printf "images/protections/tranquilli-t-%s.png" $progLang | relURL }}" alt="Tranquilli-T" loading="lazy">
         </div>
         <h3 class="adv-card__title">
           {{ if $isFr }}Assistance juridique incluse{{ else if $isAr }}المساعدة القانونية مشمولة{{ else if $isEs }}Asistencia juridica incluida{{ else }}Legal Assistance Included{{ end }}
@@ -52,7 +59,7 @@
       <!-- Integri-T -->
       <a href="{{ $base }}/advantages/integri-t/" class="adv-card adv-card--red">
         <div class="adv-card__logo">
-          <img src="{{ "images/protections/integri-t.png" | relURL }}" alt="Integri-T" loading="lazy">
+          <img src="{{ printf "images/protections/integri-t-%s.png" $progLang | relURL }}" alt="Integri-T" loading="lazy">
         </div>
         <h3 class="adv-card__title">
           {{ if $isFr }}Jusqu'a 50 000 $ contre les vices caches{{ else if $isAr }}حتى 50,000 دولار ضد العيوب الخفية{{ else if $isEs }}Hasta 50 000 $ contra vicios ocultos{{ else }}Up to $50,000 Against Hidden Defects{{ end }}
@@ -72,7 +79,7 @@
       <!-- Coproprie-T -->
       <a href="{{ $base }}/advantages/coproprie-t/" class="adv-card adv-card--navy">
         <div class="adv-card__logo">
-          <img src="{{ "images/protections/coproprie-t.png" | relURL }}" alt="Coproprie-T" loading="lazy">
+          <img src="{{ printf "images/protections/coproprie-t-%s.png" $progLang | relURL }}" alt="Coproprie-T" loading="lazy">
         </div>
         <h3 class="adv-card__title">
           {{ if $isFr }}Expertise en copropriete{{ else if $isAr }}خبرة في الملكية المشتركة{{ else if $isEs }}Experiencia en copropiedad{{ else }}Co-ownership Expertise{{ end }}
