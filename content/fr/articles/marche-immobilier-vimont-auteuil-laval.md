@@ -218,7 +218,7 @@ réévaluation.
 gouvernement donne une indication sans valeur légale. Les limites précises
 s'obtiennent auprès de la Ville.
 
-Pour compléter, lisez [les mois d'inventaire du haut de gamme à Laval](/articles/marche-haut-de-gamme-montreal-laval-donnees/) et [acheter un triplex à Laval](/articles/investir-triplex-laval/).
+Pour compléter, lisez [le marché immobilier de Laval, quartier par quartier](/articles/marche-immobilier-laval-secteurs/), [les mois d'inventaire du haut de gamme à Laval](/articles/marche-haut-de-gamme-montreal-laval-donnees/) et [acheter un triplex à Laval](/articles/investir-triplex-laval/).
 
 ---
 

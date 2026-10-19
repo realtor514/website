@@ -96,17 +96,17 @@ Source: mêmes [statistiques immobilières de Centris pour Laval](https://www.ce
 
 La Ville de Laval divise son territoire en six secteurs d'aménagement, dont chacun offre des services municipaux, et la série consacre une analyse à chacun. L'essentiel suit, quartier par quartier: Centris ne publie aucune médiane de secteur, et en fabriquer une à partir des médianes de quartier serait faux.
 
-**Secteur 1: Duvernay, Saint-Vincent-de-Paul et Saint-François.** Les deux extrêmes de la médiane unifamiliale du trimestre sont dans le même secteur: 735 000 $ à Duvernay, 542 500 $ à Saint-François. Duvernay a aussi le délai de vente unifamilial le plus court, 27 jours en moyenne. À Saint-Vincent-de-Paul, 14 unifamiliales vendues ne suffisent pas à une médiane trimestrielle; sur quatre trimestres, elle est de 584 187 $.
+**Secteur 1: [Duvernay, Saint-Vincent-de-Paul et Saint-François](/articles/marche-immobilier-est-de-laval-duvernay/).** Les deux extrêmes de la médiane unifamiliale du trimestre sont dans le même secteur: 735 000 $ à Duvernay, 542 500 $ à Saint-François. Duvernay a aussi le délai de vente unifamilial le plus court, 27 jours en moyenne. À Saint-Vincent-de-Paul, 14 unifamiliales vendues ne suffisent pas à une médiane trimestrielle; sur quatre trimestres, elle est de 584 187 $.
 
-**Secteur 2: Laval-des-Rapides et Pont-Viau.** Laval-des-Rapides enregistre le plus fort recul des ventes publié, -28 %, dans un marché partagé: 29 unifamiliales, 29 copropriétés et 12 plex vendus au trimestre. Pont-Viau a la médiane unifamiliale sur quatre trimestres qui baisse le plus: 532 250 $, -7 %.
+**Secteur 2: [Laval-des-Rapides et Pont-Viau](/articles/marche-immobilier-pont-viau-laval-des-rapides/).** Laval-des-Rapides enregistre le plus fort recul des ventes publié, -28 %, dans un marché partagé: 29 unifamiliales, 29 copropriétés et 12 plex vendus au trimestre. Pont-Viau a la médiane unifamiliale sur quatre trimestres qui baisse le plus: 532 250 $, -7 %.
 
-**Secteur 3: Chomedey.** Un secteur, un quartier, et le quart des ventes de Laval: 211 transactions, dont 114 copropriétés.
+**Secteur 3: [Chomedey](/articles/marche-immobilier-chomedey-laval/).** Un secteur, un quartier, et le quart des ventes de Laval: 211 transactions, dont 114 copropriétés.
 
-**Secteur 4: Laval-Ouest, Sainte-Dorothée, Laval-sur-le-Lac et Les Îles-Laval.** La médiane unifamiliale sur quatre trimestres la plus élevée de Laval, 756 787 $ à Sainte-Dorothée, y côtoie la plus basse, 479 312 $ à Laval-Ouest. Sainte-Dorothée a aussi le délai de vente unifamilial le plus long, 48 jours. Laval-sur-le-Lac compte 3 ventes au trimestre et aucune médiane publiée. Les Îles-Laval, que le guide de bienvenue de la Ville rattache à ce secteur, n'a pas de page Centris.
+**Secteur 4: [Laval-Ouest, Sainte-Dorothée, Laval-sur-le-Lac et Les Îles-Laval](/articles/marche-immobilier-sainte-dorothee-laval-ouest/).** La médiane unifamiliale sur quatre trimestres la plus élevée de Laval, 756 787 $ à Sainte-Dorothée, y côtoie la plus basse, 479 312 $ à Laval-Ouest. Sainte-Dorothée a aussi le délai de vente unifamilial le plus long, 48 jours. Laval-sur-le-Lac compte 3 ventes au trimestre et aucune médiane publiée. Les Îles-Laval, que le guide de bienvenue de la Ville rattache à ce secteur, n'a pas de page Centris.
 
-**Secteur 5: Sainte-Rose et Fabreville.** Deux trajectoires opposées: ventes en hausse de 21 % à Sainte-Rose, en recul de 18 % à Fabreville, où la médiane unifamiliale ne bouge pas.
+**Secteur 5: [Sainte-Rose et Fabreville](/articles/marche-immobilier-sainte-rose-fabreville-laval/).** Deux trajectoires opposées: ventes en hausse de 21 % à Sainte-Rose, en recul de 18 % à Fabreville, où la médiane unifamiliale ne bouge pas.
 
-**Secteur 6: Vimont et Auteuil.** Vimont affiche la plus forte hausse de médiane unifamiliale du trimestre, +22 %, à 700 000 $ sur 47 ventes; sur quatre trimestres, la hausse est de 6 %. Auteuil: 640 000 $ (+2 %), en 31 jours.
+**Secteur 6: [Vimont et Auteuil](/articles/marche-immobilier-vimont-auteuil-laval/).** Vimont affiche la plus forte hausse de médiane unifamiliale du trimestre, +22 %, à 700 000 $ sur 47 ventes; sur quatre trimestres, la hausse est de 6 %. Auteuil: 640 000 $ (+2 %), en 31 jours.
 
 ## Lire ces chiffres sans se tromper
 

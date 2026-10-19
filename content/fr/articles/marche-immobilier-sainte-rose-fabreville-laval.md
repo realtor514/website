@@ -210,7 +210,8 @@ l'APCIQ ne qualifie Sainte-Rose seule: son baromètre la regroupe avec Auteuil e
 Vimont. Pour la région métropolitaine, l'APCIQ écrit que les vendeurs
 d'unifamiliales gardent l'avantage dans chacun des grands secteurs.
 
-Pour compléter, lisez [acheter à Laval: les six
+Pour compléter, lisez [le marché immobilier de Laval, quartier par
+quartier](/articles/marche-immobilier-laval-secteurs/), [acheter à Laval: les six
 secteurs](/articles/acheter-laval-2025/) et voyez ma [page
 Laval](/courtier-immobilier/laval/).
 

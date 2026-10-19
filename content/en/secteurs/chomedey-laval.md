@@ -7,7 +7,7 @@ url: "/en/real-estate-broker/chomedey-laval/"
 translationKey: "quartier-chomedey"
 weight: 101
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-19
 cardText: "Chomedey, Laval: L'Abord-à-Plouffe, Souvenir-Labelle, Chomedey, Saint-Martin and Le Carrefour."
 facts:
   - value: "5"
@@ -46,6 +46,8 @@ For the Commission de toponymie du Québec, Chomedey is a sector of the city of 
 According to APCIQ's Centris community profile for the Laval (Chomedey) area, in the 2nd quarter of 2026 the median price was $652,500 for single-family homes (130 sales), $425,000 for condominiums (157 sales) and $962,500 for plexes of 2 to 5 units (30 sales).
 
 Condominiums therefore sold more often than single-family homes, which is unusual in a suburban sector. Average days on market also vary: 30 days for single-family, 37 for plexes, 62 for condominiums, same source. A condo seller who copies the strategy of the neighbour who owns a bungalow is in the wrong market.
+
+The figures for the following quarter are in [the Chomedey, Laval real estate market in the third quarter of 2026](/en/articles/chomedey-laval-real-estate-market/): sales, median prices and days on market for single-family homes, condos and plexes, as published by Centris.
 
 ## The five districts
 

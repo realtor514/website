@@ -7,7 +7,7 @@ url: "/es/corredor-inmobiliario/sainte-dorothee-laval/"
 translationKey: "quartier-sainte-dorothee"
 weight: 103
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-19
 cardText: "Oeste de Laval: Vieux-Sainte-Dorothée, chemin du Bord-de-l'Eau, Route des Fleurs, sector de la estación del REM."
 facts:
   - value: "REM"
@@ -33,7 +33,7 @@ faq:
   - q: "¿Qué cambia la zona agrícola para un comprador?"
     a: "El norte del sector está en zona agrícola permanente, dominado por los invernaderos y la producción hortícola. Un terreno situado allí no se lotifica ni se construye libremente: puede requerirse una autorización de la Commission de protection du territoire agricole du Québec. A eso se suma la circulación agrícola estacional. El Code de l'urbanisme de Laval, reglamento CDU-1 vigente desde noviembre de 2022, ofrece una ficha por dirección en el portal Info-règlements de la ciudad."
   - q: "¿Sainte-Dorothée es un mercado de casas o de condominios?"
-    a: "Domina la casa unifamiliar: según la Ville de Laval, los barrios residenciales se desarrollan a partir de los años 1950 en torno al núcleo del pueblo, luego por lotificaciones sucesivas, y la construcción nueva es reciente. Las estadísticas de la APCIQ se publican para Laval en su conjunto, no por barrio: para agosto de 2026, la isla registró 255 ventas y 1 514 inscripciones activas, con un precio mediano de 642 750 $ para una unifamiliar y de 449 000 $ para un condominio. Una mediana lavalense no dice nada del valor de una dirección precisa."
+    a: "Domina la casa unifamiliar: según la Ville de Laval, los barrios residenciales se desarrollan a partir de los años 1950 en torno al núcleo del pueblo, luego por lotificaciones sucesivas, y la construcción nueva es reciente. Las estadísticas mensuales de la APCIQ cubren Laval en su conjunto: para agosto de 2026, la isla registró 255 ventas y 1 514 inscripciones activas, con un precio mediano de 642 750 $ para una unifamiliar y de 449 000 $ para un condominio. Centris publica también cifras trimestrales por barrio, Sainte-Dorothée incluido. Una mediana lavalense no dice nada del valor de una dirección precisa."
   - q: "Agente inmobiliario o corredor inmobiliario en Sainte-Dorothée (Laval): ¿cuál es la diferencia?"
     a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Sainte-Dorothée (Laval), lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
@@ -49,6 +49,8 @@ Aquí se superponen tres capas.
 **La historia residencial.** La parroquia se erige en 1869, los barrios residenciales aparecen en los años 1950 cerca del núcleo del pueblo, y la población del antiguo municipio prácticamente se triplica entre 1950 y 1965. Laval-sur-le-Lac se separa en 1915, las Îles-Laval en 1941 (Ville de Laval).
 
 **El tren.** La estación Sainte-Dorothée del REM, en el 1411 chemin du Bord-de-l'Eau, está en servicio desde el 17 de noviembre de 2025 en el ramal Deux-Montagnes (REM). Es el factor más reciente, y el más visible en la construcción nueva.
+
+Las cifras recientes del sector están en [el mercado inmobiliario de Sainte-Dorothée, Laval, en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-sainte-dorothee-laval-ouest/), que compara Sainte-Dorothée con Laval-Ouest y Laval-sur-le-Lac a partir de los datos de Centris.
 
 ## Los microsectores
 

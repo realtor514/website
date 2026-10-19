@@ -7,7 +7,7 @@ url: "/en/real-estate-broker/sainte-dorothee-laval/"
 translationKey: "quartier-sainte-dorothee"
 weight: 103
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-19
 cardText: "West Laval: Vieux-Sainte-Dorothée, chemin du Bord-de-l'Eau, Route des Fleurs, REM station area."
 facts:
   - value: "REM"
@@ -33,7 +33,7 @@ faq:
   - q: "What does the agricultural zone change for a buyer?"
     a: "The north of the sector is in the permanent agricultural zone, dominated by greenhouses and horticultural production. A lot located there cannot be subdivided or built on freely: an authorization from the Commission de protection du territoire agricole du Québec may be required. Seasonal farm traffic comes with it. Laval's Code de l'urbanisme, bylaw CDU-1 in force since November 2022, provides a record per address in the city's Info-règlements portal."
   - q: "Is Sainte-Dorothée a house market or a condo market?"
-    a: "Single-family homes dominate: according to Ville de Laval, residential neighbourhoods developed from the 1950s onward around the village core, then through successive subdivisions, and new construction is recent. APCIQ statistics are published for all of Laval, not by neighbourhood: for August 2026, the island recorded 255 sales and 1,514 active listings, with a median price of $642,750 for a single-family home and $449,000 for a condo. A Laval median says nothing about the value of a specific address."
+    a: "Single-family homes dominate: according to Ville de Laval, residential neighbourhoods developed from the 1950s onward around the village core, then through successive subdivisions, and new construction is recent. APCIQ's monthly statistics cover Laval as a whole: for August 2026, the island recorded 255 sales and 1,514 active listings, with a median price of $642,750 for a single-family home and $449,000 for a condo. Centris also publishes quarterly figures by neighbourhood, Sainte-Dorothée included. A Laval median says nothing about the value of a specific address."
   - q: "Real estate agent or real estate broker in Sainte-Dorothée (Laval): what is the difference?"
     a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Sainte-Dorothée (Laval), what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
@@ -49,6 +49,8 @@ Three layers overlap here.
 **Residential history.** The parish was created in 1869, residential neighbourhoods appeared in the 1950s near the village core, and the population of the former municipality nearly tripled between 1950 and 1965. Laval-sur-le-Lac separated from it in 1915, Îles-Laval in 1941 (Ville de Laval).
 
 **The train.** The REM's Sainte-Dorothée station, at 1411 chemin du Bord-de-l'Eau, has been in service since November 17, 2025 on the Deux-Montagnes branch (REM). It is the most recent factor, and the most visible one in new construction.
+
+The figures are in [the Sainte-Dorothée, Laval real estate market in the third quarter of 2026](/en/articles/sainte-dorothee-laval-ouest-real-estate-market/): sales, median prices and days on market in Sainte-Dorothée, Laval-Ouest and Laval-sur-le-Lac, as published by Centris.
 
 ## The micro-areas
 

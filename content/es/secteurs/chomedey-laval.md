@@ -7,7 +7,7 @@ url: "/es/corredor-inmobiliario/chomedey-laval/"
 translationKey: "quartier-chomedey"
 weight: 101
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-19
 cardText: "Chomedey, Laval: L'Abord-à-Plouffe, Souvenir-Labelle, Chomedey, Saint-Martin y Le Carrefour."
 facts:
   - value: "5"
@@ -46,6 +46,8 @@ Para la Commission de toponymie du Québec, Chomedey es un sector de la ciudad d
 Según el perfil de barrio Centris de la APCIQ para el sector Laval (Chomedey), en el 2.º trimestre de 2026 el precio mediano era de 652 500 $ para la unifamiliar (130 ventas), de 425 000 $ para la copropiedad (157 ventas) y de 962 500 $ para el plex de 2 a 5 viviendas (30 ventas).
 
 La copropiedad se vendió, pues, más a menudo que la unifamiliar, algo inhabitual en un sector suburbano. El plazo medio de venta también varía: 30 días para la unifamiliar, 37 para el plex, 62 para la copropiedad, misma fuente. Un vendedor de condominio que copia la estrategia del vecino propietario de un bungalow se equivoca de mercado.
+
+Las cifras del trimestre siguiente están en [el mercado inmobiliario de Chomedey, Laval, en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-chomedey-laval/): ventas, precios medianos y plazos de venta de Centris para la unifamiliar, el condominio y el plex.
 
 ## Los cinco distritos
 

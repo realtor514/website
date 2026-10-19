@@ -98,7 +98,7 @@ CMHC does not divide Laval the way Centris does: its figures cover its "Chomedey
 
 **Do the new flood zone maps affect Chomedey?** The first batch covers the area along the Rivière des Prairies, which borders the south of the neighbourhood, and its publication has been postponed. Until then, the current maps apply: check the address before making an offer.
 
-To go further, read [real estate comparables: auditing your neighbour's price](/en/articles/real-estate-comparables-quebec/) and [the Bill 16 obligations for condos](/en/articles/condo-buyer-disclosure-quebec/). The [Chomedey page](/en/real-estate-broker/chomedey-laval/) brings together the rest.
+To go further, read [the Laval real estate market, neighbourhood by neighbourhood](/en/articles/laval-real-estate-market-by-sector/), [real estate comparables: auditing your neighbour's price](/en/articles/real-estate-comparables-quebec/) and [the Bill 16 obligations for condos](/en/articles/condo-buyer-disclosure-quebec/). The [Chomedey page](/en/real-estate-broker/chomedey-laval/) brings together the rest.
 
 ---
 

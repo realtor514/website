@@ -7,7 +7,7 @@ url: "/en/real-estate-broker/duvernay-laval/"
 translationKey: "quartier-duvernay"
 weight: 102
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-19
 cardText: "East Laval: Val-des-Arbres, Val-des-Brises, Val-des-Ruisseaux, Arèsville and the Bois Papineau area."
 facts:
   - value: "1965"
@@ -49,6 +49,8 @@ The first factor is road access. Autoroute 440 crosses the area east to west, Au
 The second is public transit. There is no metro station in Duvernay: the closest is Cartier, in Pont-Viau. The Pie-IX BRT has run since 7 November 2022 between boulevard Saint-Martin in Laval and avenue Pierre-De Coubertin in Montreal, according to the STM. Its northern terminus, on boulevard Saint-Martin, has a 750-space park and ride, and the corridor is used by STM, STL and exo buses.
 
 The third is the river, which runs along the whole south side of the area.
+
+The figures are in [the Duvernay, Laval real estate market in the third quarter of 2026](/en/articles/east-laval-real-estate-market-duvernay/): sales, median prices and days on market in Duvernay, Saint-Vincent-de-Paul and Saint-François, as published by Centris.
 
 ## The sectors
 

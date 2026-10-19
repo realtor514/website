@@ -222,8 +222,9 @@ la APCIQ califica a Sainte-Rose por sí sola: su barómetro la agrupa con Auteui
 y Vimont. Para la región metropolitana, la APCIQ escribe que los vendedores de
 unifamiliares conservan la ventaja en cada uno de los grandes sectores.
 
-Para completar, lea [comprar en Laval: los seis
-sectores](/es/articles/comprar-en-laval-2025/) y vea mi [página
+Para completar, lea [el mercado inmobiliario de Laval, barrio por
+barrio](/es/articles/mercado-inmobiliario-laval-por-sector/), [comprar en
+Laval: los seis sectores](/es/articles/comprar-en-laval-2025/) y vea mi [página
 Laval](/es/corredor-inmobiliario/laval/).
 
 ---

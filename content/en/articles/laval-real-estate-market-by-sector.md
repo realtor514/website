@@ -96,17 +96,17 @@ Source: the same [Centris real estate statistics for Laval](https://www.centris.
 
 The City of Laval divides its territory into six planning sectors, each of which offers municipal services, and this series devotes an analysis to each one. The essentials follow, neighbourhood by neighbourhood: Centris publishes no sector median, and building one out of neighbourhood medians would be wrong.
 
-**Sector 1: Duvernay, Saint-Vincent-de-Paul and Saint-François.** The two extremes of the quarter's single family median are in the same sector: $735,000 in Duvernay, $542,500 in Saint-François. Duvernay also has the shortest single family selling time, 27 days on average. In Saint-Vincent-de-Paul, 14 single family homes sold are not enough for a quarterly median; over four quarters, it is $584,187.
+**Sector 1: [Duvernay, Saint-Vincent-de-Paul and Saint-François](/en/articles/east-laval-real-estate-market-duvernay/).** The two extremes of the quarter's single family median are in the same sector: $735,000 in Duvernay, $542,500 in Saint-François. Duvernay also has the shortest single family selling time, 27 days on average. In Saint-Vincent-de-Paul, 14 single family homes sold are not enough for a quarterly median; over four quarters, it is $584,187.
 
-**Sector 2: Laval-des-Rapides and Pont-Viau.** Laval-des-Rapides records the steepest published drop in sales, -28%, in a split market: 29 single family homes, 29 condos and 12 plexes sold in the quarter. Pont-Viau has the single family median over four quarters that is falling the most: $532,250, -7%.
+**Sector 2: [Laval-des-Rapides and Pont-Viau](/en/articles/pont-viau-laval-des-rapides-real-estate-market/).** Laval-des-Rapides records the steepest published drop in sales, -28%, in a split market: 29 single family homes, 29 condos and 12 plexes sold in the quarter. Pont-Viau has the single family median over four quarters that is falling the most: $532,250, -7%.
 
-**Sector 3: Chomedey.** One sector, one neighbourhood, and a quarter of Laval's sales: 211 transactions, including 114 condos.
+**Sector 3: [Chomedey](/en/articles/chomedey-laval-real-estate-market/).** One sector, one neighbourhood, and a quarter of Laval's sales: 211 transactions, including 114 condos.
 
-**Sector 4: Laval-Ouest, Sainte-Dorothée, Laval-sur-le-Lac and Les Îles-Laval.** The highest single family median over four quarters in Laval, $756,787 in Sainte-Dorothée, sits next to the lowest, $479,312 in Laval-Ouest. Sainte-Dorothée also has the longest single family selling time, 48 days. Laval-sur-le-Lac has 3 sales in the quarter and no published median. Les Îles-Laval, which the City's welcome guide attaches to this sector, has no Centris page.
+**Sector 4: [Laval-Ouest, Sainte-Dorothée, Laval-sur-le-Lac and Les Îles-Laval](/en/articles/sainte-dorothee-laval-ouest-real-estate-market/).** The highest single family median over four quarters in Laval, $756,787 in Sainte-Dorothée, sits next to the lowest, $479,312 in Laval-Ouest. Sainte-Dorothée also has the longest single family selling time, 48 days. Laval-sur-le-Lac has 3 sales in the quarter and no published median. Les Îles-Laval, which the City's welcome guide attaches to this sector, has no Centris page.
 
-**Sector 5: Sainte-Rose and Fabreville.** Two opposite trajectories: sales up 21% in Sainte-Rose, down 18% in Fabreville, where the single family median is not moving.
+**Sector 5: [Sainte-Rose and Fabreville](/en/articles/sainte-rose-fabreville-laval-real-estate-market/).** Two opposite trajectories: sales up 21% in Sainte-Rose, down 18% in Fabreville, where the single family median is not moving.
 
-**Sector 6: Vimont and Auteuil.** Vimont shows the quarter's largest rise in single family median, +22%, to $700,000 on 47 sales; over four quarters, the increase is 6%. Auteuil: $640,000 (+2%), in 31 days.
+**Sector 6: [Vimont and Auteuil](/en/articles/vimont-auteuil-laval-real-estate-market/).** Vimont shows the quarter's largest rise in single family median, +22%, to $700,000 on 47 sales; over four quarters, the increase is 6%. Auteuil: $640,000 (+2%), in 31 days.
 
 ## Reading these figures without getting them wrong
 

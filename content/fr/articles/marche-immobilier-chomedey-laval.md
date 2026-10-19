@@ -98,7 +98,7 @@ La SCHL ne découpe pas Laval comme Centris: ses chiffres portent sur sa zone «
 
 **Les nouvelles cartes de zones inondables touchent-elles Chomedey?** Le premier lot couvre les abords de la rivière des Prairies, qui borde le sud du quartier, et sa publication est reportée. D'ici là, les cartes actuelles s'appliquent: vérifiez l'adresse avant l'offre.
 
-Pour compléter, lisez [comparables immobiliers: auditer le prix du voisin](/articles/comparables-prix-maison-voisin-quebec/) et [les obligations de la loi 16 en copropriété](/articles/loi-16-copropriete-acheteur-quebec/). La [page Chomedey](/courtier-immobilier/chomedey-laval/) rassemble le reste.
+Pour compléter, lisez [le marché immobilier de Laval, quartier par quartier](/articles/marche-immobilier-laval-secteurs/), [comparables immobiliers: auditer le prix du voisin](/articles/comparables-prix-maison-voisin-quebec/) et [les obligations de la loi 16 en copropriété](/articles/loi-16-copropriete-acheteur-quebec/). La [page Chomedey](/courtier-immobilier/chomedey-laval/) rassemble le reste.
 
 ---
 

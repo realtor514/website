@@ -117,7 +117,7 @@ draft: false
 
 **هل تسري خريطة المناطق المعرّضة للفيضان الجديدة منذ الآن؟** لا، حتى 19 أكتوبر 2026: تحتفظ المدينة بخرائط التيار القوي والتيار الضعيف حتى صدور الخريطة الجديدة، المتوقع بحلول نهاية 2026.
 
-وللاستزادة، اقرأ [الشراء في لافال: القطاعات الستة](/ar/articles/buying-in-laval-2025/) و[سوق العقارات في مونتريال ولافال](/ar/articles/marche-immobilier-montreal-analyse-donnees/).
+وللاستزادة، اقرأ [سوق العقارات في لافال، حياً بحي](/ar/articles/laval-real-estate-market-by-sector/)، و[الشراء في لافال: القطاعات الستة](/ar/articles/buying-in-laval-2025/) و[سوق العقارات في مونتريال ولافال](/ar/articles/marche-immobilier-montreal-analyse-donnees/).
 
 ---
 

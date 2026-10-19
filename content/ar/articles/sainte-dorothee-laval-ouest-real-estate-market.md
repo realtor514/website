@@ -120,7 +120,7 @@ draft: false
 **هل Laval-Ouest أرخص من Sainte-Dorothée؟**
 سعره الوسيط للمنزل لأسرة واحدة على أربعة أرباع، 479 312 $، أدنى بكثير من سعر Sainte-Dorothée، 756 787 $. لكن هذين السعرين الوسيطين لا يقارنان منازل متشابهة: فلمشروع محدد، قارن عقارات من النوع نفسه والمساحة نفسها والعمر نفسه، بيعت مؤخراً.
 
-وللاستزادة، اقرأ [كيف تُحسب ضريبة الترحيب](/ar/articles/welcome-tax-quebec-guide/) و[لماذا يصبح تأمين منزل صعباً](/ar/articles/hard-to-insure-home-quebec/).
+وللاستزادة، اقرأ [سوق العقارات في لافال، حياً بحي](/ar/articles/laval-real-estate-market-by-sector/)، و[كيف تُحسب ضريبة الترحيب](/ar/articles/welcome-tax-quebec-guide/) و[لماذا يصبح تأمين منزل صعباً](/ar/articles/hard-to-insure-home-quebec/).
 
 ---
 

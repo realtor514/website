@@ -120,7 +120,7 @@ Es posible, pero no hay ninguna fecha fijada: la entrada en vigor de los nuevos 
 **¿Laval-Ouest es más barato que Sainte-Dorothée?**
 Su mediana de unifamiliar en cuatro trimestres, 479 312 $, está muy por debajo de la de Sainte-Dorothée, 756 787 $. Pero esas medianas no comparan casas semejantes: para un proyecto concreto, compare propiedades del mismo tipo, superficie y antigüedad, vendidas recientemente.
 
-Para completar, lea [el cálculo de la taxe de bienvenue](/es/articles/welcome-tax-quebec-guide/) y [por qué una casa se vuelve difícil de asegurar](/es/articles/casa-dificil-de-asegurar-quebec/).
+Para completar, lea [el mercado inmobiliario de Laval, barrio por barrio](/es/articles/mercado-inmobiliario-laval-por-sector/), [el cálculo de la taxe de bienvenue](/es/articles/welcome-tax-quebec-guide/) y [por qué una casa se vuelve difícil de asegurar](/es/articles/casa-dificil-de-asegurar-quebec/).
 
 ---
 

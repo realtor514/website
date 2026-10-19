@@ -9,9 +9,11 @@ Ce script ne publie rien en ligne: il depose l article dans content/ avec
 `draft: true`. Seul tools/approve.py, lance par Georges, retire le draft.
 
 DATES
-Les articles ne portent pas tous la date du jour. Ils sont repartis sur le
-dernier mois, du plus ancien sujet au plus recent, sans jamais depasser
-aujourd hui. `--fenetre N` change la largeur de la fenetre (30 jours par defaut).
+Regle de Georges, 2026-10-19: un article porte la date du jour ou il est
+ecrit. Par defaut, le script garde donc la `date` du brouillon, celle que le
+redacteur a ecrite, et ne la ramene a aujourd hui que si elle est dans le
+futur. L ancien etalement sur une fenetre de jours ne se fait plus que sur
+demande explicite, avec `--fenetre N`.
 """
 
 import argparse
@@ -70,6 +72,14 @@ def spread_dates(count, window=30, end=None, avoid=()):
     return sorted(out)
 
 
+def written_date(path):
+    """La date du brouillon, jamais apres aujourd hui."""
+    m = re.search(r"^date:\s*(\d{4}-\d{2}-\d{2})", path.read_text(encoding="utf-8"), re.M)
+    if not m:
+        return TODAY
+    return min(datetime.date.fromisoformat(m.group(1)), TODAY)
+
+
 def set_date(raw, date):
     raw = re.sub(r"^date:.*$", "date: %s" % date.isoformat(), raw, count=1, flags=re.M)
     raw = re.sub(r"^lastmod:.*$", "lastmod: %s" % date.isoformat(), raw, count=1, flags=re.M)
@@ -100,7 +110,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("cmd", choices=["check", "run"])
     ap.add_argument("--lang", default="fr")
-    ap.add_argument("--fenetre", type=int, default=30)
+    ap.add_argument("--fenetre", type=int, default=None,
+                    help="etaler les dates sur N jours. Sans ca, chaque article "
+                         "garde la date ou il a ete ecrit.")
     ap.add_argument("--slugs", nargs="*", default=None,
                     help="ne traiter que ces slugs. Sans ca, tous les brouillons du "
                          "dossier, ce qui ramasse aussi ceux qu un agent est encore "
@@ -156,11 +168,15 @@ def main():
         print("Rien a copier.")
         return
 
-    dates = spread_dates(len(movable), window=args.fenetre, avoid=taken_dates(lang))
+    if args.fenetre is None:
+        dates = [written_date(p) for p, _ in movable]
+        print("\nDates: chaque article garde la date ou il a ete ecrit.")
+    else:
+        dates = spread_dates(len(movable), window=args.fenetre, avoid=taken_dates(lang))
+        print("\nDates reparties du %s au %s:" % (min(dates), max(dates)))
     plan = load_plan()
     by_slug = {t["slug"]: t for t in plan["topics"]}
 
-    print("\nDates reparties du %s au %s:" % (dates[0], dates[-1]))
     for (path, report), date in zip(movable, dates):
         dest = target_dir / path.name
         if dest.exists():

@@ -117,7 +117,7 @@ None of these data tells you whether this is the right time. They tell you where
 
 **Does the new flood map already apply?** No, as of October 19, 2026: the City keeps its high-velocity and low-velocity maps until the new one is published, which is expected by the end of 2026.
 
-To go further, read [Buying in Laval: The Six Sectors](/en/articles/buying-in-laval-2025/) and [Montreal and Laval Real Estate Market](/en/articles/marche-immobilier-montreal-analyse-donnees/).
+To go further, read [the Laval real estate market, neighbourhood by neighbourhood](/en/articles/laval-real-estate-market-by-sector/), [Buying in Laval: The Six Sectors](/en/articles/buying-in-laval-2025/) and [Montreal and Laval Real Estate Market](/en/articles/marche-immobilier-montreal-analyse-donnees/).
 
 ---
 

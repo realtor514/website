@@ -5,6 +5,8 @@ description: "Courtier immobilier à Laval: Duvernay, Chomedey, Sainte-Rose, Vim
 city: "Laval"
 url: "/courtier-immobilier/laval/"
 translationKey: "secteur-laval"
+date: 2026-08-05
+lastmod: 2026-10-19
 weight: 1
 cardText: "Les 14 quartiers lavallois, du corridor du métro aux secteurs familiaux de l'ouest."
 facts:
@@ -59,6 +61,8 @@ Laval n'est pas une banlieue homogène. C'est une ville de 450 000 habitants qui
 **[Chomedey](/courtier-immobilier/chomedey-laval/)** est un cas à part: forte densité, mixité de condos, de plex et d'unifamiliales, et des corridors commerciaux en redéveloppement. C'est aussi l'un des secteurs où je vois le plus d'écarts entre le prix demandé et la valeur réelle, dans les deux sens.
 
 **Le nord-est** (Saint-François, Saint-Vincent-de-Paul, Auteuil) reste plus abordable, avec des terrains plus grands. C'est là que les acheteurs qui ont été écartés de Duvernay ou de Vimont finissent souvent par trouver.
+
+Les ventes, les prix médians et les délais de vente de chaque quartier, selon Centris, sont comparés dans [le marché immobilier de Laval, quartier par quartier, au 3e trimestre 2026](/articles/marche-immobilier-laval-secteurs/).
 
 ## Vendre à Laval: ce qui fait la différence
 

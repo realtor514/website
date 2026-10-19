@@ -190,7 +190,8 @@ Centris: فأرقامها تخص منطقتها «Chomedey/Sainte-Dorothée»، 
 الحين، تسري الخرائط الحالية: تحقق من وضع العنوان قبل تقديم العرض.
 
 وللاستزادة، اقرأ
-[العقارات المقارنة: كيف تدقّق في سعر الجار](/ar/articles/real-estate-comparables-quebec/)
+[سوق العقارات في لافال، حياً بحي](/ar/articles/laval-real-estate-market-by-sector/)،
+و[العقارات المقارنة: كيف تدقّق في سعر الجار](/ar/articles/real-estate-comparables-quebec/)
 و[موجبات القانون 16 في الملكية المشتركة](/ar/articles/condo-buyer-disclosure-quebec/).
 أما [صفحة Chomedey](/ar/wasit-aqari/chomedey-laval/) فتجمع الباقي.
 

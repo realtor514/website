@@ -6,6 +6,8 @@ city: "Laval"
 url: "/es/corredor-inmobiliario/laval/"
 translationKey: "secteur-laval"
 weight: 1
+date: 2026-08-05
+lastmod: 2026-10-19
 cardText: "Los 14 barrios de Laval, del corredor del metro a los sectores familiares del oeste."
 facts:
   - value: "14"
@@ -59,6 +61,8 @@ Laval no es un suburbio homogéneo. Es una ciudad de 450 000 habitantes que cont
 **[Chomedey](/es/corredor-inmobiliario/chomedey-laval/)** es un caso aparte: alta densidad, mezcla de condominios, plex y unifamiliares, y corredores comerciales en redesarrollo. Es también el sector donde veo mayores diferencias entre el precio pedido y el valor real, en ambos sentidos.
 
 **El noreste** (Saint-François, Saint-Vincent-de-Paul, Auteuil) sigue siendo más asequible, con terrenos más grandes. Es donde suelen encontrar los compradores que quedaron fuera de Duvernay o Vimont.
+
+Las cifras de cada uno de estos mercados están en [el mercado inmobiliario de Laval, barrio por barrio, en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-laval-por-sector/): ventas, precios medianos y plazos de venta según Centris.
 
 ## Vender en Laval: lo que marca la diferencia
 

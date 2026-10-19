@@ -96,17 +96,17 @@ Fuente: las mismas [estadísticas inmobiliarias de Centris para Laval](https://w
 
 La Ciudad de Laval divide su territorio en seis sectores de ordenamiento, cada uno de los cuales ofrece servicios municipales, y la serie dedica un análisis a cada uno. Lo esencial sigue, barrio por barrio: Centris no publica ninguna mediana por sector, y fabricar una a partir de las medianas de barrio sería falso.
 
-**Sector 1: Duvernay, Saint-Vincent-de-Paul y Saint-François.** Los dos extremos de la mediana unifamiliar del trimestre están en el mismo sector: 735 000 $ en Duvernay, 542 500 $ en Saint-François. Duvernay tiene además el plazo de venta unifamiliar más corto, 27 días en promedio. En Saint-Vincent-de-Paul, 14 unifamiliares vendidas no alcanzan para una mediana trimestral; sobre cuatro trimestres, es de 584 187 $.
+**Sector 1: [Duvernay, Saint-Vincent-de-Paul y Saint-François](/es/articles/mercado-inmobiliario-este-de-laval-duvernay/).** Los dos extremos de la mediana unifamiliar del trimestre están en el mismo sector: 735 000 $ en Duvernay, 542 500 $ en Saint-François. Duvernay tiene además el plazo de venta unifamiliar más corto, 27 días en promedio. En Saint-Vincent-de-Paul, 14 unifamiliares vendidas no alcanzan para una mediana trimestral; sobre cuatro trimestres, es de 584 187 $.
 
-**Sector 2: Laval-des-Rapides y Pont-Viau.** Laval-des-Rapides registra el mayor retroceso de ventas publicado, -28 %, en un mercado repartido: 29 unifamiliares, 29 condominios y 12 plex vendidos en el trimestre. Pont-Viau tiene la mediana unifamiliar sobre cuatro trimestres que más baja: 532 250 $, -7 %.
+**Sector 2: [Laval-des-Rapides y Pont-Viau](/es/articles/mercado-inmobiliario-pont-viau-laval-des-rapides/).** Laval-des-Rapides registra el mayor retroceso de ventas publicado, -28 %, en un mercado repartido: 29 unifamiliares, 29 condominios y 12 plex vendidos en el trimestre. Pont-Viau tiene la mediana unifamiliar sobre cuatro trimestres que más baja: 532 250 $, -7 %.
 
-**Sector 3: Chomedey.** Un sector, un barrio, y la cuarta parte de las ventas de Laval: 211 transacciones, de ellas 114 condominios.
+**Sector 3: [Chomedey](/es/articles/mercado-inmobiliario-chomedey-laval/).** Un sector, un barrio, y la cuarta parte de las ventas de Laval: 211 transacciones, de ellas 114 condominios.
 
-**Sector 4: Laval-Ouest, Sainte-Dorothée, Laval-sur-le-Lac y Les Îles-Laval.** La mediana unifamiliar sobre cuatro trimestres más alta de Laval, 756 787 $ en Sainte-Dorothée, convive allí con la más baja, 479 312 $ en Laval-Ouest. Sainte-Dorothée tiene también el plazo de venta unifamiliar más largo, 48 días. Laval-sur-le-Lac cuenta 3 ventas en el trimestre y ninguna mediana publicada. Les Îles-Laval, que la guía de bienvenida de la Ciudad vincula a este sector, no tiene página en Centris.
+**Sector 4: [Laval-Ouest, Sainte-Dorothée, Laval-sur-le-Lac y Les Îles-Laval](/es/articles/mercado-inmobiliario-sainte-dorothee-laval-ouest/).** La mediana unifamiliar sobre cuatro trimestres más alta de Laval, 756 787 $ en Sainte-Dorothée, convive allí con la más baja, 479 312 $ en Laval-Ouest. Sainte-Dorothée tiene también el plazo de venta unifamiliar más largo, 48 días. Laval-sur-le-Lac cuenta 3 ventas en el trimestre y ninguna mediana publicada. Les Îles-Laval, que la guía de bienvenida de la Ciudad vincula a este sector, no tiene página en Centris.
 
-**Sector 5: Sainte-Rose y Fabreville.** Dos trayectorias opuestas: ventas en alza del 21 % en Sainte-Rose y en retroceso del 18 % en Fabreville, donde la mediana unifamiliar no se mueve.
+**Sector 5: [Sainte-Rose y Fabreville](/es/articles/mercado-inmobiliario-sainte-rose-fabreville-laval/).** Dos trayectorias opuestas: ventas en alza del 21 % en Sainte-Rose y en retroceso del 18 % en Fabreville, donde la mediana unifamiliar no se mueve.
 
-**Sector 6: Vimont y Auteuil.** Vimont muestra el mayor aumento de mediana unifamiliar del trimestre, +22 %, a 700 000 $ sobre 47 ventas; sobre cuatro trimestres, el aumento es del 6 %. Auteuil: 640 000 $ (+2 %), en 31 días.
+**Sector 6: [Vimont y Auteuil](/es/articles/mercado-inmobiliario-vimont-auteuil-laval/).** Vimont muestra el mayor aumento de mediana unifamiliar del trimestre, +22 %, a 700 000 $ sobre 47 ventas; sobre cuatro trimestres, el aumento es del 6 %. Auteuil: 640 000 $ (+2 %), en 31 días.
 
 ## Leer estas cifras sin equivocarse
 

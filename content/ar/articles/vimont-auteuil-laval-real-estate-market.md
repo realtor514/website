@@ -205,7 +205,8 @@ Sainte-Rose وAuteuil وVimont. وعلى الاثني عشر شهراً المن
 تعطي مؤشراً لا قيمة قانونية له. أما الحدود الدقيقة فتُطلب من المدينة.
 
 وللاستزادة، اقرأ
-[أشهر المخزون في الفئة السعرية العليا في لافال](/ar/articles/luxury-market-montreal-laval-data/)
+[سوق العقارات في لافال، حياً بحي](/ar/articles/laval-real-estate-market-by-sector/)،
+و[أشهر المخزون في الفئة السعرية العليا في لافال](/ar/articles/luxury-market-montreal-laval-data/)
 و[شراء مبنى ثلاثي في لافال](/ar/articles/investir-triplex-laval-strategie/).
 
 ---

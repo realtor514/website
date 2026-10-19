@@ -121,7 +121,7 @@ El REM (Réseau express métropolitain, el tren ligero del Gran Montreal) tiene 
 **¿Las 1 800 viviendas anunciadas cerca del metro Cartier van a mover los precios?**
 Ninguna fuente consultada mide tal efecto, y este artículo no predice ninguno. La cifra de la Ciudad describe una capacidad que hacen posible las nuevas tuberías, no proyectos aprobados. La Ciudad sí anunció este año un proyecto concreto en el sector: el convento de las Sœurs Missionnaires, con unas 200 viviendas fuera del mercado.
 
-Para completar, lea [Comprar en Laval: los seis sectores](/es/articles/comprar-en-laval-2025/) y [comprar un tríplex en Laval](/es/articles/investir-triplex-laval-strategie/).
+Para completar, lea [el mercado inmobiliario de Laval, barrio por barrio](/es/articles/mercado-inmobiliario-laval-por-sector/), [Comprar en Laval: los seis sectores](/es/articles/comprar-en-laval-2025/) y [comprar un tríplex en Laval](/es/articles/investir-triplex-laval-strategie/).
 
 ---
 

@@ -120,7 +120,7 @@ Possibly, but no date has been set: the coming into force of the new maps has be
 **Is Laval-Ouest cheaper than Sainte-Dorothée?**
 Its four-quarter single-family median, $479,312, is well below Sainte-Dorothée's, $756,787. But these medians do not compare similar houses: for a specific project, compare properties of the same type, size and age, sold recently.
 
-To go further, read [how the welcome tax is calculated](/en/articles/welcome-tax-quebec-guide/) and [why a home becomes hard to insure](/en/articles/hard-to-insure-home-quebec/).
+To go further, read [the Laval real estate market, neighbourhood by neighbourhood](/en/articles/laval-real-estate-market-by-sector/), [how the welcome tax is calculated](/en/articles/welcome-tax-quebec-guide/) and [why a home becomes hard to insure](/en/articles/hard-to-insure-home-quebec/).
 
 ---
 

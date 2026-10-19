@@ -228,7 +228,7 @@ que el calendario de puesta en servicio completa está en reevaluación.
 gobierno da una indicación sin valor legal. Los límites precisos se obtienen
 ante la Ciudad.
 
-Para completar, lea [los meses de inventario de la alta gama en Laval](/es/articles/mercado-alta-gama-montreal-laval/) y [comprar un tríplex en Laval](/es/articles/investir-triplex-laval-strategie/).
+Para completar, lea [el mercado inmobiliario de Laval, barrio por barrio](/es/articles/mercado-inmobiliario-laval-por-sector/), [los meses de inventario de la alta gama en Laval](/es/articles/mercado-alta-gama-montreal-laval/) y [comprar un tríplex en Laval](/es/articles/investir-triplex-laval-strategie/).
 
 ---
 

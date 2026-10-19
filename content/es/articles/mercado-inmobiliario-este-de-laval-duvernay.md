@@ -117,7 +117,7 @@ Ninguno de estos datos dice si es el buen momento. Dicen dónde está la oferta,
 
 **¿Ya se aplica el nuevo mapa de zonas inundables?** No, al 19 de octubre de 2026: la Ciudad conserva los mapas de gran y de baja corriente hasta la publicación del nuevo, prevista antes de finales de 2026.
 
-Para completar, lea [Comprar en Laval: los seis sectores](/es/articles/comprar-en-laval-2025/) y [Mercado inmobiliario de Montreal y Laval](/es/articles/marche-immobilier-montreal-analyse-donnees/).
+Para completar, lea [el mercado inmobiliario de Laval, barrio por barrio](/es/articles/mercado-inmobiliario-laval-por-sector/), [Comprar en Laval: los seis sectores](/es/articles/comprar-en-laval-2025/) y [Mercado inmobiliario de Montreal y Laval](/es/articles/marche-immobilier-montreal-analyse-donnees/).
 
 ---
 

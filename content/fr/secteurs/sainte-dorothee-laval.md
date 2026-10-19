@@ -7,7 +7,7 @@ url: "/courtier-immobilier/sainte-dorothee-laval/"
 translationKey: "quartier-sainte-dorothee"
 weight: 103
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-19
 cardText: "Ouest de Laval: Vieux-Sainte-Dorothée, chemin du Bord-de-l'Eau, Route des Fleurs, secteur de la gare du REM."
 facts:
   - value: "REM"
@@ -33,7 +33,7 @@ faq:
   - q: "Qu'est-ce que la zone agricole change pour un acheteur?"
     a: "Le nord du secteur est en zone agricole permanente, dominé par les serres et la production horticole. Un terrain qui s'y trouve ne se lotit pas et ne se construit pas librement: une autorisation de la Commission de protection du territoire agricole du Québec peut être requise. S'y ajoute la circulation agricole saisonnière. Le Code de l'urbanisme de Laval, règlement CDU-1 en vigueur depuis novembre 2022, donne une fiche par adresse dans le portail Info-règlements de la Ville."
   - q: "Sainte-Dorothée est-il un marché de maisons ou de copropriétés?"
-    a: "La maison unifamiliale y domine: selon la Ville de Laval, les quartiers résidentiels se développent à partir des années 1950 autour du noyau villageois, puis par lotissements successifs, et la construction neuve est récente. Les statistiques de l'APCIQ se publient pour Laval au complet, pas par quartier: pour août 2026, l'île a enregistré 255 ventes et 1 514 inscriptions actives, avec un prix médian de 642 750 $ pour une unifamiliale et de 449 000 $ pour une copropriété. Une médiane lavalloise ne dit rien de la valeur d'une adresse précise."
+    a: "La maison unifamiliale y domine: selon la Ville de Laval, les quartiers résidentiels se développent à partir des années 1950 autour du noyau villageois, puis par lotissements successifs, et la construction neuve est récente. Les statistiques mensuelles de l'APCIQ couvrent Laval au complet: pour août 2026, l'île a enregistré 255 ventes et 1 514 inscriptions actives, avec un prix médian de 642 750 $ pour une unifamiliale et de 449 000 $ pour une copropriété. Centris publie aussi des chiffres trimestriels par quartier, Sainte-Dorothée compris. Une médiane lavalloise ne dit rien de la valeur d'une adresse précise."
   - q: "Agent immobilier ou courtier immobilier à Sainte-Dorothée (Laval): quelle différence?"
     a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Sainte-Dorothée (Laval), vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
@@ -49,6 +49,8 @@ Trois couches se superposent ici.
 **L'histoire résidentielle.** La paroisse est érigée en 1869, les quartiers résidentiels apparaissent dans les années 1950 près du noyau villageois, et la population de l'ancienne municipalité triple pratiquement entre 1950 et 1965. Laval-sur-le-Lac s'en détache en 1915, les Îles-Laval en 1941 (Ville de Laval).
 
 **Le train.** La station Sainte-Dorothée du REM, au 1411, chemin du Bord-de-l'Eau, est en service depuis le 17 novembre 2025 sur l'antenne Deux-Montagnes (REM). C'est le facteur le plus récent, et le plus visible sur la construction neuve.
+
+Les ventes et les prix médians du quartier, comparés à Laval-Ouest et à Laval-sur-le-Lac, sont analysés dans [le marché immobilier de Sainte-Dorothée, à Laval, au 3e trimestre 2026](/articles/marche-immobilier-sainte-dorothee-laval-ouest/).
 
 ## Les micro-secteurs
 

@@ -121,7 +121,7 @@ The REM has two stations in Laval, Île-Bigras and Sainte-Dorothée, both in ser
 **Will the 1,800 housing units announced near Cartier metro move prices?**
 No source consulted measures such an effect, and this article predicts none. The City's figure describes a capacity made possible by the new pipes, not approved projects. The City did, however, announce one specific project in the sector this year: the Sœurs Missionnaires convent, with about 200 non-market housing units.
 
-To go further, read [Buying in Laval: The Six Sectors](/en/articles/buying-in-laval-2025/) and [buying a triplex in Laval](/en/articles/investir-triplex-laval-strategie/).
+To go further, read [the Laval real estate market, neighbourhood by neighbourhood](/en/articles/laval-real-estate-market-by-sector/), [Buying in Laval: The Six Sectors](/en/articles/buying-in-laval-2025/) and [buying a triplex in Laval](/en/articles/investir-triplex-laval-strategie/).
 
 ---
 

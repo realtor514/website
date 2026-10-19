@@ -98,7 +98,7 @@ La SCHL (la agencia federal de vivienda, CMHC en inglés) no divide Laval como C
 
 **¿Los nuevos mapas de zonas inundables afectan a Chomedey?** El primer lote cubre las inmediaciones de la rivière des Prairies, que bordea el sur del barrio, y su publicación está aplazada. Mientras tanto, se aplican los mapas actuales: verifique la dirección antes de presentar una oferta.
 
-Para completar, lea [comparables inmobiliarios: cómo auditar el precio del vecino](/es/articles/comparables-precio-casa-quebec/) y [las obligaciones de la ley 16 en copropiedad](/es/articles/documentos-condominio-comprador-quebec/). La [página de Chomedey](/es/corredor-inmobiliario/chomedey-laval/) reúne el resto.
+Para completar, lea [el mercado inmobiliario de Laval, barrio por barrio](/es/articles/mercado-inmobiliario-laval-por-sector/), [comparables inmobiliarios: cómo auditar el precio del vecino](/es/articles/comparables-precio-casa-quebec/) y [las obligaciones de la ley 16 en copropiedad](/es/articles/documentos-condominio-comprador-quebec/). La [página de Chomedey](/es/corredor-inmobiliario/chomedey-laval/) reúne el resto.
 
 ---
 

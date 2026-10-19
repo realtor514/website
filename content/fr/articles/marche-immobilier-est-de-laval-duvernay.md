@@ -117,7 +117,7 @@ Aucune de ces données ne dit si c'est le bon moment. Elles disent où se trouve
 
 **La nouvelle carte inondable s'applique-t-elle déjà?** Non, au 19 octobre 2026: la Ville garde les cartes de grand et de faible courant jusqu'à la publication de la nouvelle, prévue d'ici la fin de 2026.
 
-Pour compléter, lisez [Acheter à Laval : les six secteurs](/articles/acheter-laval-2025/) et [Marché immobilier de Montréal et Laval](/articles/marche-immobilier-montreal/).
+Pour compléter, lisez [le marché immobilier de Laval, quartier par quartier](/articles/marche-immobilier-laval-secteurs/), [Acheter à Laval : les six secteurs](/articles/acheter-laval-2025/) et [Marché immobilier de Montréal et Laval](/articles/marche-immobilier-montreal/).
 
 ---
 

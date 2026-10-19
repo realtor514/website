@@ -6,6 +6,8 @@ city: "Laval"
 url: "/en/real-estate-broker/laval/"
 translationKey: "secteur-laval"
 weight: 1
+date: 2026-08-05
+lastmod: 2026-10-19
 cardText: "All 14 Laval neighbourhoods, from the metro corridor to the family sectors in the west."
 facts:
   - value: "14"
@@ -59,6 +61,8 @@ Laval is not a uniform suburb. It is a city of 450,000 people containing at leas
 **[Chomedey](/en/real-estate-broker/chomedey-laval/)** is its own case: high density, a mix of condos, plexes and single-family homes, and commercial corridors under redevelopment. It is also the sector where I see the widest gaps between asking price and real value, in both directions.
 
 **The northeast** (Saint-François, Saint-Vincent-de-Paul, Auteuil) remains more affordable, with larger lots. This is where buyers priced out of Duvernay or Vimont often end up finding what they want.
+
+The figures behind these markets are in [the Laval real estate market by neighbourhood in the third quarter of 2026](/en/articles/laval-real-estate-market-by-sector/): sales, median prices and days on market, as published by Centris.
 
 ## Selling in Laval: what makes the difference
 

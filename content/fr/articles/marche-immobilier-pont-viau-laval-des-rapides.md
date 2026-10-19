@@ -121,7 +121,7 @@ Le REM compte deux stations à Laval, Île-Bigras et Sainte-Dorothée, toutes de
 **Les 1 800 logements annoncés près du métro Cartier vont-ils faire bouger les prix?**
 Aucune source consultée ne mesure un tel effet, et cet article n'en prédit aucun. Le chiffre de la Ville décrit une capacité rendue possible par les nouvelles conduites, pas des projets approuvés. La Ville a toutefois annoncé cette année un projet précis dans le secteur: le couvent des Sœurs Missionnaires, avec environ 200 logements hors marché.
 
-Pour compléter, lisez [Acheter à Laval : les six secteurs](/articles/acheter-laval-2025/) et [acheter un triplex à Laval](/articles/investir-triplex-laval/).
+Pour compléter, lisez [le marché immobilier de Laval, quartier par quartier](/articles/marche-immobilier-laval-secteurs/), [Acheter à Laval : les six secteurs](/articles/acheter-laval-2025/) et [acheter un triplex à Laval](/articles/investir-triplex-laval/).
 
 ---
 

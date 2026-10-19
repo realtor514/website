@@ -102,7 +102,7 @@ A proposal (avis de proposition) adopted in 2025, initially aimed at the Sainte-
 
 **Is the Sainte-Rose market favourable to sellers?** No APCIQ document describes Sainte-Rose on its own: its barometer groups it with Auteuil and Vimont. For the metropolitan area, APCIQ writes that single-family sellers keep the upper hand in each of the major sectors.
 
-To go further, read [buying in Laval: the six sectors](/en/articles/buying-in-laval-2025/) and see my [Laval page](/en/real-estate-broker/laval/).
+To go further, read [the Laval real estate market, neighbourhood by neighbourhood](/en/articles/laval-real-estate-market-by-sector/) and [buying in Laval: the six sectors](/en/articles/buying-in-laval-2025/), and see my [Laval page](/en/real-estate-broker/laval/).
 
 ---
 

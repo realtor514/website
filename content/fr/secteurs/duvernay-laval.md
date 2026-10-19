@@ -7,7 +7,7 @@ url: "/courtier-immobilier/duvernay-laval/"
 translationKey: "quartier-duvernay"
 weight: 102
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-19
 cardText: "Est de Laval: Val-des-Arbres, Val-des-Brises, Val-des-Ruisseaux, Arèsville et le secteur du Bois Papineau."
 facts:
   - value: "1965"
@@ -49,6 +49,8 @@ Le premier facteur est l'accès routier. L'autoroute 440 traverse le quartier d'
 Le deuxième est le transport collectif. Aucune station de métro n'est située à Duvernay: la plus proche est Cartier, dans Pont-Viau. Le SRB Pie-IX circule depuis le 7 novembre 2022 entre le boulevard Saint-Martin, à Laval, et l'avenue Pierre-De Coubertin, à Montréal, selon la STM. Son terminus nord, au boulevard Saint-Martin, a un stationnement incitatif de 750 places, et le corridor est emprunté par des autobus de la STM, de la STL et d'exo.
 
 Le troisième est la rivière, qui borde tout le sud du quartier.
+
+Les ventes, les prix médians et les délais de vente du quartier, comparés à Saint-Vincent-de-Paul et à Saint-François, sont analysés dans [le marché immobilier de Duvernay, à Laval, au 3e trimestre 2026](/articles/marche-immobilier-est-de-laval-duvernay/).
 
 ## Les secteurs
 

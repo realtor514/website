@@ -120,7 +120,7 @@ C'est possible, mais aucune date n'est fixée: l'entrée en vigueur des nouvelle
 **Laval-Ouest est-il moins cher que Sainte-Dorothée?**
 Sa médiane d'unifamiliale sur quatre trimestres, 479 312 $, est bien sous celle de Sainte-Dorothée, 756 787 $. Mais ces médianes ne comparent pas des maisons semblables: pour un projet précis, comparez des propriétés de même type, superficie et âge, vendues récemment.
 
-Pour compléter, lisez [le calcul de la taxe de bienvenue](/articles/taxe-de-bienvenue-quebec/) et [pourquoi une maison devient difficile à assurer](/articles/maison-difficile-assurer-quebec/).
+Pour compléter, lisez [le marché immobilier de Laval, quartier par quartier](/articles/marche-immobilier-laval-secteurs/), [le calcul de la taxe de bienvenue](/articles/taxe-de-bienvenue-quebec/) et [pourquoi une maison devient difficile à assurer](/articles/maison-difficile-assurer-quebec/).
 
 ---
 

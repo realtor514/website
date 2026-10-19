@@ -107,7 +107,7 @@ On September 17, 2026, the City presented draft by-law CDU-1-20, which targets a
 
 **Is my house in Auteuil in a flood zone?** The government's interactive map gives an indication with no legal value. The precise limits are available from the City.
 
-To go further, read [the months of inventory at the high end in Laval](/en/articles/luxury-market-montreal-laval-data/) and [buying a triplex in Laval](/en/articles/investir-triplex-laval-strategie/).
+To go further, read [the Laval real estate market, neighbourhood by neighbourhood](/en/articles/laval-real-estate-market-by-sector/), [the months of inventory at the high end in Laval](/en/articles/luxury-market-montreal-laval-data/) and [buying a triplex in Laval](/en/articles/investir-triplex-laval-strategie/).
 
 ---
 
