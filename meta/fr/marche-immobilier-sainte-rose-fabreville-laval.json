@@ -1,0 +1,216 @@
+{
+ "id": "t244",
+ "slug": "marche-immobilier-sainte-rose-fabreville-laval",
+ "title": "Marché immobilier à Sainte-Rose et Fabreville, Laval: 3e trimestre 2026",
+ "target_keyword": "marche immobilier sainte-rose laval",
+ "word_count": 1785,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/heritage-property-montreal/",
+  "/articles/acheter-zone-inondable-quebec/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/acheter-laval-2025/",
+  "/tools/welcome-tax/",
+  "/courtier-immobilier/laval/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-sainte-rose",
+   "title": "Statistiques immobilières, Laval (Sainte-Rose), Laval",
+   "publisher": "Centris",
+   "consulted": "2026-10-19",
+   "supports": "Page ouverte en curl le 2026-10-19, identique au JSON state/marche_T3_2026/centris_laval.json. 3e trimestre 2026: total résidentiel 84 ventes (+21 %), 150 nouvelles inscriptions (+44 %), 125 inscriptions en vigueur (+60 %); unifamiliale 71 ventes (+31 %), 100 inscriptions en vigueur (+72 %), prix médian 670 000 $ (+2 %), 39 jours (0); cumul 4 trimestres unifamiliale 302 ventes (+13 %), 83 inscriptions en vigueur (+43 %), prix médian 650 968 $ (+4 %), 34 jours (-1). Rouverte en curl par le vérificateur le 2026-10-19: chaque chiffre identique. Copropriété: 10 ventes, prix médian du trimestre non publié (**), cumul 46 ventes (+21 %), 447 112 $ (+2 %), 29 jours (-4). Plex: 3 ventes, cumul 32 ventes (-5 %), 891 500 $ (+4 %). Notes de la page: variations calculées par rapport au même trimestre de l'année précédente; ** = nombre de transactions insuffisant pour une statistique fiable."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-fabreville",
+   "title": "Statistiques immobilières, Laval (Fabreville), Laval",
+   "publisher": "Centris",
+   "consulted": "2026-10-19",
+   "supports": "Page ouverte en curl le 2026-10-19, identique au JSON. 3e trimestre 2026: total résidentiel 99 ventes (-18 %), 152 inscriptions en vigueur (-1 %); unifamiliale 82 ventes (-18 %), 103 inscriptions en vigueur (+22 %), prix médian 560 000 $ (0 %), 30 jours (-4); cumul 4 trimestres 397 ventes (-16 %), prix médian 566 125 $ (+3 %), 30 jours (-4). Rouverte en curl par le vérificateur le 2026-10-19: chaque chiffre identique. Copropriété: 12 ventes, 37 inscriptions en vigueur (-39 %), prix médian du trimestre non publié, cumul 90 ventes (-3 %), 397 100 $ (0 %), 52 jours (+4). Plex: 5 ventes, cumul 15 ventes, prix médian non publié même sur 4 trimestres. Un seul territoire « Laval (Fabreville) », sans découpage est-ouest."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval",
+   "title": "Statistiques immobilières, Laval",
+   "publisher": "Centris",
+   "consulted": "2026-10-19",
+   "supports": "Ensemble de Laval, 3e trimestre 2026: 848 ventes résidentielles (-15 %); unifamiliale 547 ventes (-8 %), 792 inscriptions en vigueur (+17 %), prix médian 630 000 $ (+5 %), 36 jours (-2); prix médian du cumul 4 trimestres 629 750 $."
+  },
+  {
+   "url": "https://www.donneesquebec.ca/recherche/dataset/geolocalisation-des-adresses",
+   "title": "Géolocalisation des adresses (fichier adresse-civique.geojson et .csv)",
+   "publisher": "Ville de Laval (Données Québec)",
+   "consulted": "2026-10-19",
+   "supports": "Champ EX_VILLE: 15 606 adresses civiques rattachées à Fabreville; le 1400, boulevard Mattawa (Golf Ste-Rose) est classé Fabreville; le 99, boulevard Sainte-Rose Est (gare) est classé Sainte-Rose. Fichiers: https://www.donneesquebec.ca/recherche/dataset/8cd81673-5b0b-4050-b4a6-aed80975158a/resource/7ccb7a8b-18bb-4818-b0f1-beb9b05dbe41/download/adresse-civique.geojson. Calcul de l'auteur: croisement point dans polygone (shapely) avec les limites des secteurs ci-dessous; 9 826 adresses de Fabreville tombent dans le secteur 5 et 5 780 dans le secteur 4, toutes à l'ouest (longitude de -73,868 à -73,814); le golf et la gare tombent dans le secteur 5. Calcul refait par le vérificateur le 2026-10-19 (fichier GeoJSON de 45 Mo, champ EX_VILLE, point dans polygone): 15 606, 9 826 et 5 780, résultats identiques; les 67 adresses de la rue Riviera sont classées Laval-Ouest et tombent dans le secteur 4."
+  },
+  {
+   "url": "https://www.donneesquebec.ca/recherche/dataset/limites-des-secteurs-d-amenagement",
+   "title": "Limites des secteurs d'aménagement",
+   "publisher": "Ville de Laval (Données Québec)",
+   "consulted": "2026-10-19",
+   "supports": "Polygones des six secteurs; secteur 5 nommé « Sainte-Rose, Fabreville », secteur 4 « Laval-Ouest, Sainte-Dorothée, Laval-sur-le-Lac ». Fichier: https://www.donneesquebec.ca/recherche/dataset/7855bca7-28c8-4da9-927b-1ffe10be4f09/resource/76bb4d9f-dff9-4863-b9bc-15e851e290e6/download/limites-des-secteurs-d-amenagement.geojson. Sert au calcul de répartition de Fabreville entre les secteurs 4 et 5."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI, baromètre résidentiel, 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-19",
+   "supports": "Page 6, « Définition des secteurs »: secteur 21 Sainte-Rose/Auteuil/Vimont (Auteuil, Vimont, Sainte-Rose) et secteur 23 Fabreville (Laval-Ouest, Fabreville). D'où l'absence de mois d'inventaire et de verdict de marché propres au secteur 5."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs (communiqué du 14 octobre 2026)",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-19",
+   "supports": "« Dans le segment de l'unifamiliale, les vendeurs conservent néanmoins un avantage pour chacun des grands secteurs de la RMR » et, pour la copropriété, « Les secteurs de Laval et de Vaudreuil-Soulanges se rapprochent également des seuils d'équilibre »."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/09/fad-communique-2026-09-02/",
+   "title": "La Banque du Canada maintient le taux directeur à 2¼ %",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-19",
+   "supports": "Taux cible du financement à un jour maintenu à 2,25 % le 2 septembre 2026; prochaine date d'établissement le 28 octobre 2026."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=1.1.1.8&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al&Ytd=true",
+   "title": "Mises en chantier, selon le type de logements par zone, Montréal (RMR), janvier à septembre 2026 et 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-10-19",
+   "supports": "Zone Laval-Ouest/Fabreville/Ste-Rose, janvier à septembre 2026: 16 individuels, 2 jumelés, 0 en rangée, 358 appartements, total 376. Même période de 2025 (paramètres ForTimePeriod.Year=2025&ForTimePeriod.Month=9): 29, 0, 19, 513, total 561."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.3&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al",
+   "title": "Taux d'inoccupation, selon le nombre de chambres par zone, Montréal, octobre 2025 et octobre 2024",
+   "publisher": "SCHL",
+   "consulted": "2026-10-19",
+   "supports": "Zone Laval-Ouest/Fabreville/Ste-Rose, en rangée et appartements, total: 2,0 % cote c en octobre 2025; 2,5 % cote c en octobre 2024 (paramètres ForTimePeriod.Year=2024&ForTimePeriod.Month=10)."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.4&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al",
+   "title": "Taux d'inoccupation, selon le nombre de chambres par subdivision de recensement, octobre 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-10-19",
+   "supports": "Laval (V), total: 3,4 % cote c en octobre 2025."
+  },
+  {
+   "url": "https://www.laval.ca/wp-content/uploads/2025/02/ppu-gare-sainte-rose.pdf",
+   "title": "Programme particulier d'urbanisme Gare Sainte-Rose (codification administrative)",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Section 1.2: territoire d'environ 415 ha de part et d'autre de la voie ferrée, aux limites du Vieux-Sainte-Rose et d'Auteuil. Section 3.1.2: hauteurs de 1 à 3 étages dans les milieux résidentiels établis, 6 étages près de la gare sur le boulevard Sainte-Rose Est, 8 étages au maximum dans le pôle de la gare. Stationnement incitatif: discussions prévues avec exo, propriétaire du terrain, en vue de le requalifier à des fins urbaines. Plan d'action par horizons, « court terme (0-5 ans), à moyen terme (5-10 ans), à long terme (+10 ans) », qui « constitue des intentions et souhaits du conseil municipal » et « est présenté à titre indicatif ». Le PPU permet par PPCMOI un nombre d'étages supérieur à son plan 3.2, sans excéder les hauteurs du SADR: d'où la formulation « prévoit jusqu'à huit étages » dans la FAQ."
+  },
+  {
+   "url": "https://www.laval.ca/amenagement-territoire/planification-territoire/programme-particulier-urbanisme/",
+   "title": "Programme particulier d'urbanisme (PPU)",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "« Depuis 2022, les programmes particuliers d'urbanisme (PPU) pour les secteurs Cartier, Gare Sainte-Rose et Centre-ville sont en vigueur. »"
+  },
+  {
+   "url": "https://exo.quebec/fr/carte-interactive/gare-sainte-rose",
+   "title": "Gare Sainte-Rose",
+   "publisher": "exo",
+   "consulted": "2026-10-19",
+   "supports": "99, boulevard Sainte-Rose Est, zone B, ligne de train 12 Saint-Jérôme, stationnement de 705 places."
+  },
+  {
+   "url": "https://www.laval.ca/amenagement-territoire/code-urbanisme-outils-discretionnaires/info-reglements/",
+   "title": "Info-règlements",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "« Info-règlements est un outil de recherche permettant de rechercher des informations dans le code de l'urbanisme (CDU) par mot-clé, numéro de lot ou adresse. »"
+  },
+  {
+   "url": "https://www.laval.ca/amenagement-territoire/code-urbanisme-outils-discretionnaires/plan-implantation-architecturale/",
+   "title": "Plan d'implantation et d'intégration architecturale (PIIA)",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Le PIIA évalue les projets sur des critères plutôt que des normes et « constitue une condition supplémentaire à la délivrance d'un permis ou d'un certificat »; types de projets visés: construction, agrandissement, rénovation extérieure, opération cadastrale, affichage, projet intégré."
+  },
+  {
+   "url": "https://www.laval.ca/wp-content/uploads/2026/04/presentation-2025-24-patriotes-1.pdf",
+   "title": "Demande d'autorisation de démolition d'un immeuble, dossier DE-2025-24, 755, rue des Patriotes",
+   "publisher": "Ville de Laval, Service de l'urbanisme",
+   "consulted": "2026-10-19",
+   "supports": "Objet: « Demande de démolition d'un immeuble patrimonial assujetti au règlement L-12507 concernant la démolition d'immeubles ». Bâtiment de 1904 répertorié à l'inventaire du patrimoine architectural de 2018, district électoral Sainte-Rose, « assujetti au PIIA Territoires d'intérêt patrimonial (Section 12) ». Requérant: Ville de Laval, propriétaire."
+  },
+  {
+   "url": "https://www.laval.ca/wp-content/uploads/2026/05/extrait-proces-verbaux-demolition-DE-2025-24.pdf",
+   "title": "Extrait du procès-verbal du Comité de démolition, séance du 11 mai 2026, dossier DE-2025-24",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Séance du 11 mai 2026, point 6.2 « Dossier de démolition assujetti au règlement L-12507 », 755, rue des Patriotes: « Considérant qu'aucun avis d'opposition n'a été reçu dans les 10 jours suivant la parution de l'avis public ». Le comité a accepté la démolition, le bâtiment ayant été incendié le 9 mai 2026; l'article ne cite pas cette issue."
+  },
+  {
+   "url": "https://www.laval.ca/wp-content/uploads/2025/02/avis-proposition-2025.pdf",
+   "title": "Avis de proposition 2025 (tableau de suivi)",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Avis déposé le 2025-06-03 pour un inventaire complémentaire du patrimoine bâti d'avant 1940 dans le district historique de Sainte-Rose et la révision de la zone patrimoniale visée par un PIIA; proposition amendée (inventaire complémentaire des immeubles d'avant 1940); résolution CM-20250708-707, « Adopté », statut « En cours »."
+  },
+  {
+   "url": "https://www.donneesquebec.ca/recherche/dataset/inventaire-du-patrimoine-architectural-janvier-2018",
+   "title": "Inventaire du patrimoine architectural (janvier 2018)",
+   "publisher": "Ville de Laval (Données Québec)",
+   "consulted": "2026-10-19",
+   "supports": "Fichier CSV de 793 fiches; champ municipalite: Sainte-Rose 175 fiches (le plus grand nombre), Fabreville 20. CSV: https://www.donneesquebec.ca/recherche/dataset/5a7e6439-c50f-436f-9339-df029eb2a9dd/resource/68d5daf7-8840-41c3-9513-9a1487d3f7d7/download/inventaire-patrimoine-architectural-2018.csv"
+  },
+  {
+   "url": "https://www.laval.ca/amenagement-territoire/planification-territoire/gestion-zones-inondables-rives-littoral/cartographie-zones-inondables/",
+   "title": "Cartes des zones inondables de Laval",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "La cartographie en vigueur des zones de grand courant (0-20 ans) et de faible courant (20-100 ans) demeure la référence jusqu'à la nouvelle cartographie, produite par la CMM et dont la publication est prévue d'ici la fin de 2026."
+  },
+  {
+   "url": "https://cmm.qc.ca/communiques/nouvelle-cartographie-des-zones-inondables-la-cmm-demande-au-gouvernement-du-quebec-de-maintenir-la-mise-en-vigueur-le-1er-aout/",
+   "title": "Nouvelle cartographie des zones inondables : La CMM demande au gouvernement du Québec de maintenir la mise en vigueur le 1er août (30 juillet 2026)",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-19",
+   "supports": "Décision du MELCCFP de retarder « à une date indéterminée » la publication du premier lot de cartes, qui couvre notamment les abords de la rivière des Mille Îles."
+  },
+  {
+   "url": "https://www.laval.ca/organisation-municipale/salle-presse/communiques-presse/situation-maitrisee-montee-eaux/",
+   "title": "Situation maîtrisée à Laval malgré la montée des eaux (communiqué du 15 avril 2026)",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "« Certaines rues sont toutefois impraticables en raison d'inondations mineures, notamment dans les secteurs de Laval-Ouest et de Fabreville »."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/verifier-propriete",
+   "title": "Vérifier si une propriété est située en zone inondable ou dans la zone de mobilité d'un cours d'eau",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-10-19",
+   "supports": "Carte interactive https://zonesinondables.mrnf.gouv.qc.ca/: recherche par adresse ou par numéro de lot."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur",
+   "title": "Cartographies des zones inondables et des zones de mobilité d'un cours d'eau en vigueur",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-10-19",
+   "supports": "La mention « Présence possible de zone inondable » est fournie à titre indicatif et n'a pas de valeur légale; pour des précisions, communiquer avec la municipalité ou la MRC."
+  },
+  {
+   "url": "https://www.laval.ca/organisation-municipale/salle-presse/communiques-presse/offre-golf-ste-rose/",
+   "title": "Laval présente une offre officielle pour le terrain du Golf Ste-Rose (communiqué du 4 février 2026)",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Offre d'achat officielle présentée le 4 février 2026; site de 52 hectares, soutien de 4,5 M$ à parts égales de la CMM et du gouvernement du Québec; « La Ville de Laval louera le site à l'entreprise Golf Ste-Rose jusqu'au 30 novembre 2027 »; transformation en parc naturel. Le montant de l'offre n'est pas repris: la consigne de la série interdit le prix d'une propriété vendue en particulier."
+  },
+  {
+   "url": "https://www.repensonslaval.ca/avenir-golf-ste-rose",
+   "title": "Avenir du site du Golf Ste-Rose",
+   "publisher": "Ville de Laval (Repensons Laval)",
+   "consulted": "2026-10-19",
+   "supports": "Page mise à jour le 28 septembre 2026: « À la suite à l'acquisition du terrain du Golf Ste-Rose, situé au 1400 boulevard Mattawa, la Ville de Laval souhaite réaménager et restaurer ce site »; étape « Rencontre d'information et atelier participatif », 22 octobre 2026, affichée comme le stade en cours. Présentation de juin 2026 (https://www.repensonslaval.ca/52128/widgets/220602/documents/170879/download): accès au site en 2028; zone inondable de 38,6 ha sur 52, soit 74 %."
+  },
+  {
+   "url": "https://www.laval.ca/taxes-evaluation-fonciere/droits-mutation-immobiliere/",
+   "title": "Droits de mutation immobilière",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Tranches 2026: 0,5 % jusqu'à 62 900 $, 1 % jusqu'à 315 000 $, 1,5 % jusqu'à 500 000 $, 3 % au-delà; base d'imposition = le plus élevé du montant payé, du montant inscrit à l'acte et de la valeur au rôle multipliée par le facteur comparatif de 1,03. Calcul de l'auteur avec cette grille: 314,50 + 2 521 + 2 775 + 1 800 = 7 410,50 $ pour 560 000 $; 314,50 + 2 521 + 2 775 + 5 100 = 10 710,50 $ pour 670 000 $."
+  }
+ ],
+ "claims_needing_review": []
+}

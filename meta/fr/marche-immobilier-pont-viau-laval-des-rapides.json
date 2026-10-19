@@ -1,0 +1,160 @@
+{
+ "id": "t241",
+ "slug": "marche-immobilier-pont-viau-laval-des-rapides",
+ "title": "Marché immobilier à Laval-des-Rapides et Pont-Viau, Laval: T3 2026",
+ "target_keyword": "marche immobilier laval-des-rapides",
+ "word_count": 1716,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/acheter-zone-inondable-quebec/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/loi-16-copropriete-acheteur-quebec/",
+  "/articles/acheter-laval-2025/",
+  "/articles/investir-triplex-laval/",
+  "/tools/home-estimate/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-pont-viau",
+   "title": "Statistiques immobilières, Laval (Pont-Viau), 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-19",
+   "supports": "Tableaux et texte pour Pont-Viau: T3 2026, 8 ventes d'unifamiliales, 8 de copropriétés, 9 de plex, 25 au total; cumul 4 trimestres: unifamiliale 58 ventes (-1 %), médiane 532 250 $ (-7 %), 36 jours (+7); copropriété 27 ventes, médiane, délai et variation non publiés (**); plex 36 ventes (+16 %), médiane 802 875 $ (+4 %), 46 jours (-19); total 121 ventes (+7 %); nouvelles inscriptions du trimestre +23 %, inscriptions en vigueur 44 (+41 %); 16 unifamiliales en vigueur. Définition de **: « Nombre de transactions insuffisant pour produire une statistique fiable ». Page ouverte par curl le 2026-10-19: identique au JSON state/marche_T3_2026/centris_laval.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-des-rapides",
+   "title": "Statistiques immobilières, Laval (Laval-des-Rapides), 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-19",
+   "supports": "Tableaux et texte pour Laval-des-Rapides: T3 2026, 70 ventes (-28 %), volume -20 %, 29 unifamiliales, 29 copropriétés, 12 plex, médianes et délais du trimestre non publiés (**); cumul 4 trimestres: unifamiliale 109 (-12 %), 638 000 $ (+4 %), 34 jours (0); copropriété 167 (-14 %), 374 375 $ (+4 %), 55 jours (+7); plex 53 (+17 %), 878 312 $ (+6 %), 56 jours (+6); total 329; 23 unifamiliales en vigueur. Notes de la page: variations calculées par rapport au même trimestre de l'année précédente; le total résidentiel comprend les fermettes. Page ouverte par curl le 2026-10-19: identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval",
+   "title": "Statistiques immobilières, Laval, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-19",
+   "supports": "Ligne Laval des tableaux et comparaisons: 848 ventes au T3 (-15 %), cumul 4 trimestres 4 098 (-8 %); unifamiliale 547 (-8 %), 792 en vigueur, cumul 2 521 (-7 %), 629 750 $ (+5 %), 35 jours (-3); copropriété 236 (-26 %), cumul 1 262 (-11 %), 428 349 $ (+3 %), 54 jours (-2); plex 65 (-20 %), cumul 314 (+1 %), 872 625 $ (+5 %), 50 jours (-12). Base du calcul des parts par catégorie (89 des 314 plex = 28 %; parts 48/22/30, 33/51/16, 62/31/8, arrondies)."
+  },
+  {
+   "url": "https://www.laval.ca/amenagement-territoire/projets-revitalisation/secteur-station-cartier/",
+   "title": "Secteur de la station Cartier",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Revitalisation lancée en 2016 du secteur de la station Cartier, « située dans les quartiers Pont-Viau et Laval-des-Rapides »; horizon de 15 à 25 ans; PPU Cartier adopté et en vigueur en 2022. Page ouverte par curl le 2026-10-19."
+  },
+  {
+   "url": "https://www.laval.ca/wp-content/uploads/2025/02/ppu-cartier.pdf",
+   "title": "Programme particulier d'urbanisme (PPU) Cartier",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Stratégie 3.1.3, milieux de vie établis du secteur Cartier: densification « en respect du cadre bâti actuel, majoritairement composé de maisons unifamiliales isolées et jumelées et de plex de 2 ou 3 étages »; « une densification accrue sera permise dans le secteur résidentiel situé du côté est du boulevard des Laurentides » où « les bâtiments pourront atteindre trois étages ». Territoire d'application « délimité par le boulevard de la Concorde au nord, le boulevard Goineau à l'est, la rivière des Prairies au sud et la rue Donck, la 5e Avenue et la rue Émile à l'ouest » (limite sud du territoire du PPU à la rivière). PDF ouvert par curl le 2026-10-19."
+  },
+  {
+   "url": "https://www.laval.ca/organisation-municipale/salle-presse/communiques-presse/investissement-revitalisation-secteur-cartier/",
+   "title": "Investissement de 20 M$ de la Ville et du gouvernement fédéral (communiqué du 8 avril 2026)",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Citation: les réseaux souterrains près du métro Cartier « ont atteint leur pleine capacité, limitant actuellement la réalisation de nouveaux projets résidentiels »; près de 20 M$, dont 8 M$ du gouvernement du Canada (Fonds pour bâtir des collectivités fortes); près de 2,5 km de conduites; travaux qui « débuteront à l'automne »; construction de près de 1 800 logements rendue possible. Statut au 2026-10-19: aucun communiqué ni page de la Ville postérieur au 8 avril 2026 sur ces travaux dans les plans du site laval.ca (page du secteur Cartier modifiée le 2026-04-07, dernier bulletin Info-Cartier de novembre 2025); l'article dit donc que leur début n'est pas confirmé."
+  },
+  {
+   "url": "https://www.laval.ca/organisation-municipale/salle-presse/communiques-presse/soeurs-missionnaires-immaculee-conception/",
+   "title": "La Ville de Laval donne un avenir social et culturel à un site patrimonial (communiqué du 31 mars 2026)",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Acquisition à Pont-Viau de la propriété des Sœurs Missionnaires de l'Immaculée-Conception pour 7,96 M$; environ 200 logements hors marché avec Interloge; rue publique et espaces publics; bâtiment d'intérêt patrimonial à vocation culturelle et communautaire; prise de possession prévue le 2 avril 2026. L'article ne dit plus qu'il s'agit du seul projet résidentiel du secteur."
+  },
+  {
+   "url": "https://www.laval.ca/wp-content/uploads/2026/04/bulletin-info-cartier-novembre-2025.pdf",
+   "title": "Bulletin Info-Cartier, numéro 06, novembre 2025",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Bassin souterrain de 15 000 m³ sous le parc Cartier pour limiter les surverses dans la rivière des Prairies; chantier commencé au printemps 2025, travaux jusqu'en 2027, parc fermé au public; démolition à l'automne 2025 du bâtiment Romance et de quatre immeubles voisins à l'entrée du pont Viau (cinq immeubles)."
+  },
+  {
+   "url": "https://www.laval.ca/organisation-municipale/salle-presse/communiques-presse/adaptation-investissements-majeurs/",
+   "title": "Laval accélère l'adaptation de son territoire grâce à des investissements majeurs (communiqué du 22 juin 2026)",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Le 22 juin 2026, la Ville mentionne « la poursuite de la construction du bassin de rétention Cartier visant à réduire les débordements vers la rivière des Prairies »."
+  },
+  {
+   "url": "https://www.laval.ca/wp-content/uploads/2025/02/guide-bienvenue-laval.pdf",
+   "title": "Guide de bienvenue Laval, page 10",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Secteur 2 de la Ville: « Laval-des-Rapides et Pont-Viau »; « La rivière des Prairies est la frontière entre Laval et Montréal. »"
+  },
+  {
+   "url": "https://www.laval.ca/amenagement-territoire/planification-territoire/gestion-zones-inondables-rives-littoral/cartographie-zones-inondables/",
+   "title": "Cartes des zones inondables",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-19",
+   "supports": "Nouveau cadre gouvernemental applicable dès le 1er mars 2026; la cartographie en vigueur (grand courant 0-20 ans, faible courant 20-100 ans) « demeure la référence jusqu'à la publication de la nouvelle cartographie »; nouvelle cartographie produite par la CMM, publication « prévue d'ici la fin de l'année 2026 »."
+  },
+  {
+   "url": "https://cmm.qc.ca/communiques/nouvelle-cartographie-des-zones-inondables-la-cmm-demande-au-gouvernement-du-quebec-de-maintenir-la-mise-en-vigueur-le-1er-aout/",
+   "title": "Nouvelle cartographie des zones inondables : La CMM demande au gouvernement du Québec de maintenir la mise en vigueur le 1er août (communiqué du 30 juillet 2026)",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-19",
+   "supports": "La CMM demande au MELCCFP de revenir sur sa décision de retarder, « à une date indéterminée », le premier lot de cartes de nouvelle génération, qui couvre notamment les abords de la rivière des Prairies."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=1.1.1.8&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al&Ytd=true",
+   "title": "Mises en chantier, selon le type de logements par zone, Montréal (RMR), janvier à septembre 2026 (Relevé des mises en chantier et des achèvements)",
+   "publisher": "SCHL",
+   "consulted": "2026-10-19",
+   "supports": "Zone Laval-des-Rapides: 275 mises en chantier, dont 274 appartements (1 individuel, 0 jumelé, 0 en rangée); zone Pont-Viau: 23 (1 individuel, 22 appartements)."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=1.1.1.8&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al&Ytd=true&ForTimePeriod.Year=2025&ForTimePeriod.Month=9",
+   "title": "Mises en chantier, selon le type de logements par zone, Montréal (RMR), janvier à septembre 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-10-19",
+   "supports": "Même période de 2025: zone Laval-des-Rapides 273, zone Pont-Viau 75."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.3&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al",
+   "title": "Taux d'inoccupation, selon le nombre de chambres par zone, octobre 2025 (Enquête sur les logements locatifs)",
+   "publisher": "SCHL",
+   "consulted": "2026-10-19",
+   "supports": "Zone Laval-des-Rapides: total 2,4 %, cote b (très bon); zone Pont-Viau: total non publié (**), 1 chambre 0,8 %, cote a (la SCHL publie aussi studio 0,0 %, cote d; 2 et 3 chambres non publiés). Définition des cotes: a Excellent, b Très bon, c Bon, d Passable (utiliser avec prudence)."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.3&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al&ForTimePeriod.Year=2024&ForTimePeriod.Month=10",
+   "title": "Taux d'inoccupation, selon le nombre de chambres par zone, octobre 2024",
+   "publisher": "SCHL",
+   "consulted": "2026-10-19",
+   "supports": "Zone Pont-Viau, octobre 2024: total 0,1 %, cote b."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.4&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al",
+   "title": "Taux d'inoccupation, selon le nombre de chambres par subdivision de recensement, octobre 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-10-19",
+   "supports": "Laval (V), octobre 2025: total 3,4 %, cote c (bon)."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs (communiqué du 14 octobre 2026)",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-19",
+   "supports": "Contexte régional: pour l'unifamiliale, les vendeurs conservent un avantage pour chacun des grands secteurs de la RMR; pour la copropriété, les secteurs de Laval et de Vaudreuil-Soulanges se rapprochent des seuils d'équilibre. Aucun verdict n'est appliqué aux deux quartiers."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI, baromètre résidentiel, 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-19",
+   "supports": "Page 6: secteur 19 « Centre-Ville de Laval » = Chomedey, Laval-des-Rapides, Pont-Viau (pas de baromètre propre aux deux quartiers). Page 65: l'évolution du prix médian ne reflète pas nécessairement celle de la valeur des propriétés; interpréter avec prudence « en particulier lorsque le nombre de transactions est faible »."
+  },
+  {
+   "url": "https://rem.info/fr/se-deplacer/stations-du-reseau",
+   "title": "Stations du réseau",
+   "publisher": "REM",
+   "consulted": "2026-10-19",
+   "supports": "FAQ: deux stations à Laval (zone tarifaire B), Île-Bigras et Sainte-Dorothée, toutes deux « En service »."
+  }
+ ],
+ "claims_needing_review": []
+}

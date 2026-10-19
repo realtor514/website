@@ -59,6 +59,14 @@ QUERIES = {
     "maison-passive-novoclimat-quebec": "house insulation wall construction",
     "maisons-abandonnees-ventes-pour-taxes": "abandoned house boarded windows",
     "permis-abattage-arbres-quebec": "arborist cutting tree chainsaw",
+    # Serie marche par secteur, Laval, T3 2026
+    "marche-immobilier-laval-secteurs": "aerial view suburban neighborhood houses",
+    "marche-immobilier-est-de-laval-duvernay": "riverside houses autumn trees",
+    "marche-immobilier-pont-viau-laval-des-rapides": "duplex triplex brick street",
+    "marche-immobilier-chomedey-laval": "modern condo building balconies sunny",
+    "marche-immobilier-sainte-dorothee-laval-ouest": "waterfront houses river quebec",
+    "marche-immobilier-sainte-rose-fabreville-laval": "suburban family house autumn trees",
+    "marche-immobilier-vimont-auteuil-laval": "new suburban houses development",
 }
 
 

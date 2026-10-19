@@ -7,23 +7,30 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 ## Análisis de Mercado
 - [Desplome inmobiliario en Montreal: datos](/es/articles/montreal-market-crash-analysis/) : Ventas, inscripciones, precios medianos y plazos de venta: lo que dicen los datos públicos de APCIQ, ISQ 
-- [El costo real de los suburbios, Montreal](/es/articles/suburbio-o-ciudad-costo-real-montreal/) : Precios medianos de agosto de 2026, impuestos, abono mensual contra un segundo auto, tiempos de trayecto:
+- [El costo real de los suburbios, Montreal](/es/articles/suburbio-o-ciudad-costo-real-montreal/) : El costo real de los suburbios de Montreal: precios medianos de agosto de 2026, impuestos, abono contra s
 - [Mejor momento para comprar en Montreal: los datos de agosto](/es/articles/mejor-momento-comprar-montreal-datos/) : El mejor momento para comprar en Montreal se lee en el inventario, el plazo de venta y los meses de inven
+- [Mercado inmobiliario de Laval por sector: T3 2026](/es/articles/mercado-inmobiliario-laval-por-sector/) : Mercado inmobiliario de Laval en el tercer trimestre de 2026: 848 ventas, unifamiliar con mediana de 630 
 - [Mercado inmobiliario de Montreal y Laval](/es/articles/marche-immobilier-montreal-analyse-donnees/) : Ventas, inscripciones, precios medianos, desocupación y población: cómo leer los datos fechados de la APC
 - [Mercado inmobiliario de alta gama en Montreal: los datos](/es/articles/mercado-alta-gama-montreal-laval/) : Mercado inmobiliario de alta gama en Montreal y Laval: el umbral real, el número de ventas, los meses de 
+- [Mercado inmobiliario en Chomedey, Laval: T3 2026](/es/articles/mercado-inmobiliario-chomedey-laval/) : Chomedey, Laval, tercer trimestre de 2026: 211 ventas, de ellas 114 condominios a 450 000 $ de precio med
+- [Mercado inmobiliario en Duvernay y Saint-François, Laval: T3 2026](/es/articles/mercado-inmobiliario-este-de-laval-duvernay/) : Duvernay y Saint-François, Laval, T3 2026: unifamiliar a 735 000 $ y 542 500 $ de precio mediano, vendida
+- [Mercado inmobiliario en Laval-des-Rapides y Pont-Viau, Laval: T3 2026](/es/articles/mercado-inmobiliario-pont-viau-laval-des-rapides/) : Laval-des-Rapides y Pont-Viau, Laval, T3 2026: 70 ventas (-28 %) en Laval-des-Rapides y 89 de los 314 ple
+- [Mercado inmobiliario en Sainte-Dorothée y Laval-Ouest, Laval: T3 2026](/es/articles/mercado-inmobiliario-sainte-dorothee-laval-ouest/) : Sainte-Dorothée, Laval, en el tercer trimestre de 2026: 54 casas unifamiliares vendidas, mediana de 728 4
+- [Mercado inmobiliario en Sainte-Rose y Fabreville, Laval: T3 2026](/es/articles/mercado-inmobiliario-sainte-rose-fabreville-laval/) : Sainte-Rose y Fabreville, Laval, en el tercer trimestre de 2026: unifamiliar a 670 000 $ y 560 000 $ de p
+- [Mercado inmobiliario en Vimont y Auteuil, Laval: T3 2026](/es/articles/mercado-inmobiliario-vimont-auteuil-laval/) : Vimont y Auteuil, Laval, en el tercer trimestre de 2026: unifamiliar a 700 000 $ y a 640 000 $ de precio 
 - [Precio pedido y precio vendido en Montreal: leer la brecha](/es/articles/precio-pedido-vs-precio-vendido-montreal/) : Precio pedido y precio vendido en Montreal: quién ve el precio de venta, cuándo se vuelve consultable en 
 
 ## Financiamiento
 - [Acceder a la propiedad en Quebec en 2026](/es/articles/everyone-deserves-homeownership/) : CELIAPP, RAP, créditos fiscales, reembolso de TPS en vivienda nueva, pago inicial mínimo y amortización a
 - [Alquilar o comprar en el Gran Montreal](/es/articles/renting-vs-buying-calculation/) : Comparar su alquiler con una cuota hipotecaria no prueba nada. Estos son los rubros que sí van lado a lad
 - [Casa Novoclimat en Quebec: qué compra](/es/articles/casa-eficiente-novoclimat-quebec/) : Novoclimat: qué garantiza la certificación, la ayuda de 2 000 $ o 4 000 $, el reembolso Éco Plus del 25 %
-- [Copropiedad indivisa en Montréal: cómo se financia](/es/articles/copropiedad-indivisa-montreal/) : Por qué existe la indivisión en Montréal, la aportación inicial exigida, la convention d'indivision y los
+- [Copropiedad indivisa en Montréal: cómo se financia](/es/articles/copropiedad-indivisa-montreal/) : Copropiedad indivisa en Montréal: por qué existe, la aportación inicial exigida, la convention d'indivisi
 - [Cómo pagar su hipoteca más rápido en Quebec](/es/articles/pagar-hipoteca-mas-rapido-quebec/) : Pago acelerado, pago global, aumento de la cuota y renovación: las cuatro palancas para pagar su hipoteca
-- [El mito del 20 % de entrada: lo que frena a los compradores](/es/articles/down-payment-myth-debunked/) : La entrada mínima real en Quebec, lo que cuesta de verdad el seguro CMHC, el QST que hay que pagar en efe
+- [El mito del 20 % de entrada: lo que frena a los compradores](/es/articles/down-payment-myth-debunked/) : El mito del 20 % de entrada: el mínimo real en Quebec, el costo del seguro CMHC, el QST pagado en efectiv
 - [Financiar una renovación mayor en Quebec](/es/articles/financiar-renovacion-mayor-quebec/) : Financiar una renovación mayor en Quebec: las cuatro fuentes de fondos, el desembolso, la fianza comparti
 - [Gastos de mudanza en Quebec: regla 40 km](/es/articles/deduccion-gastos-mudanza-quebec/) : Deducción de gastos de mudanza y regla de los 40 km: quién tiene derecho, qué se deduce, los formularios 
-- [Hipotecas en Quebec para primerizos](/es/articles/guide-hypotheque-premier-acheteur-quebec/) : El proceso hipotecario es más complejo de lo que su banco le hace creer, y más simple de lo que parece en
-- [Impuestos municipales en Montreal y Laval](/es/articles/property-tax-explained/) : Evaluación municipal, tasa, impuesto escolar, impuesto de bienvenida y el prorrateo ante el notario. Lo q
+- [Hipotecas en Quebec para primerizos](/es/articles/guide-hypotheque-premier-acheteur-quebec/) : Hipotecas en Quebec para primerizos: más complejas de lo que su banco deja ver y más simples de lo que pa
+- [Impuestos municipales en Montreal y Laval](/es/articles/property-tax-explained/) : Impuestos municipales en Montreal y Laval: evaluación municipal, tasa, impuesto escolar y prorrateo ante 
 - [Impuestos y propiedad en Quebec: qué se deduce de verdad](/es/articles/impuestos-propietario-quebec/) : Impuestos del propietario en Quebec: deducciones, exención de residencia principal, oficina en casa, plex
 - [La mejor tasa hipotecaria en Canadá](/es/articles/best-mortgage-rate-canada/) : Tasa anunciada o tasa real, fija o variable, plazo, penalidad y diferencial: lo que de verdad define el c
 - [Penalidad por romper una hipoteca: el cálculo real en Quebec](/es/articles/romper-hipoteca-penalidad-quebec/) : Tres meses de intereses o diferencial de tasas, tasa anunciada o tasa con descuento, carta de pago y Regi
@@ -32,10 +39,10 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Refinanciamiento hipotecario en Quebec: ¿vale la pena?](/es/articles/refinanciamiento-hipotecario-quebec/) : Renovación, transferencia o refinanciamiento hipotecario en Quebec: el tope del 80 %, la penalidad, el se
 - [Tasas de interés y mercado de Montreal](/es/articles/interest-rates-montreal-market/) : Tasa directriz, tasa preferencial, bonos, prueba de resistencia y renovación: el camino real entre el Ban
 - [Ventajas fiscales del comprador primerizo](/es/articles/first-time-buyer-tax-credits/) : CELIAPP, RAP, créditos fiscales, reembolso del impuesto de bienvenida y de la TPS en vivienda nueva: las 
-- [¿Qué salario se necesita para comprar en Montreal o Laval?](/es/articles/what-salary-to-buy-montreal/) : La pregunta no es solo el salario. Así calculan realmente los prestamistas su capacidad de endeudamiento 
+- [¿Qué salario se necesita para comprar en Montreal o Laval?](/es/articles/what-salary-to-buy-montreal/) : Qué salario para comprar en Montreal o Laval: cómo calculan los prestamistas su capacidad de endeudamient
 
 ## Guía del Comprador
-- [Casa difícil de asegurar en Quebec: lo que bloquea la compra](/es/articles/casa-dificil-de-asegurar-quebec/) : Negativa del seguro, tanque de mazut, aluminio, techo, siniestros anteriores: por qué una casa se vuelve 
+- [Casa difícil de asegurar en Quebec: lo que bloquea la compra](/es/articles/casa-dificil-de-asegurar-quebec/) : Casa difícil de asegurar en Quebec: negativa del seguro, tanque de mazut, aluminio, techo, siniestros ant
 - [Casa lista o para renovar en Quebec: quién financia](/es/articles/casa-lista-o-para-renovar-quebec/) : Casa para renovar o lista para habitar en Quebec: el préstamo SCHL Améliorations, el valor después de las
 - [Casa mínima en Quebec: zonificación, financiamiento, seguro](/es/articles/casa-minima-zonificacion-quebec/) : Casa mínima en Quebec: sobre cimientos o sobre ruedas, lo que autoriza la zonificación, por qué duda el p
 - [Casa nueva o usada en Quebec: lo que de verdad cambia](/es/articles/casa-nueva-o-existente-quebec/) : TPS y TVQ, garantía GCR, contrat préliminaire, droits de mutation: lo que separa realmente una casa nueva
@@ -47,7 +54,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Comprar entre varios en Quebec](/es/articles/buying-property-with-family/) : Indivisión, convenio notarial, solidaridad ante el prestamista, donación de los padres, ruptura o falleci
 - [Comprar un inmueble patrimonial](/es/articles/heritage-property-montreal/) : Clasificado, citado o dentro de un sitio patrimonial: autorizaciones antes de obrar, ayudas a la restaura
 - [Comprar un terreno en Quebec: las verificaciones](/es/articles/comprar-terreno-quebec/) : Zonificación, CPTAQ, humedales, pozo y fosa séptica, servidumbres y financiamiento: las verificaciones an
-- [Comprar una casa centenaria en Montreal: lo que cambia](/es/articles/comprar-casa-centenaria-quebec/) : Cimientos, estructura de época, cableado bouton et tube, plomería galvanizada, barrera de vapor, ventanas
+- [Comprar una casa centenaria en Montreal: lo que cambia](/es/articles/comprar-casa-centenaria-quebec/) : Comprar una casa centenaria en Montreal: cimientos, estructura de época, cableado bouton et tube, plomerí
 - [Comprar una casa de campo en Quebec: lo que cambia](/es/articles/comprar-casa-de-campo-quebec/) : Zona agrícola y CPTAQ, camino privado, seguro, servicios: las verificaciones antes de comprar una casa de
 - [Comprar una casa en invierno en Quebec: los puntos ciegos](/es/articles/comprar-casa-invierno-montreal/) : Menos compradores en enero, pero también menos opciones. Lo que el invierno revela de una casa, lo que la
 - [Comprar una casa sin visitarla en Quebec](/es/articles/comprar-sin-visitar-quebec/) : Visita virtual, inspección filmada, condiciones de la promesse d'achat, procuration y firma a distancia: 
@@ -56,21 +63,21 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Comprar una propiedad embargada en Quebec: las reglas](/es/articles/comprar-propiedad-embargada-quebec/) : Preaviso de ejercicio, plazo de 60 días, toma en pago o venta bajo control judicial: lo que usted acepta 
 - [Condominio o casa en Montréal: qué compra usted realmente](/es/articles/condo-vs-house-montreal/) : Fracción, partes comunes, declaración de copropiedad, seguros, votos en asamblea y capacidad de endeudami
 - [Cuotas de condominio y fondo de previsión](/es/articles/condo-fees-investment-killer/) : Fondo de previsión, libro de mantenimiento, certificación del sindicato, cuota especial: las reglas quebe
-- [Desagüe hundido en Montreal: qué revisar](/es/articles/desague-hundido-montreal/) : Ventre de bœuf en el desagüe en Montreal: inspección con cámara, responsabilidad hasta la calle, subvenci
-- [El Costo Real de Comprar su Primera Casa en Quebec](/es/articles/vrai-cout-achat-premiere-maison-quebec/) : Todo el mundo habla del precio de compra. Nadie le habla de lo que viene después. Aquí está el desglose c
+- [Desagüe hundido en Montreal: qué revisar](/es/articles/desague-hundido-montreal/) : Desagüe hundido en Montreal: ventre de bœuf, inspección con cámara, responsabilidad hasta la calle, subve
+- [El Costo Real de Comprar su Primera Casa en Quebec](/es/articles/vrai-cout-achat-premiere-maison-quebec/) : El costo real de comprar su primera casa en Quebec: más allá del precio, el desglose completo de los cost
 - [Elegir un inspector de edificios, Quebec](/es/articles/elegir-inspector-vivienda-quebec/) : Todavía no hace falta ninguna licencia en Quebec. Cómo elegir a un inspector de edificios: certificado de
 - [Garantía GCR de casa nueva en Quebec: 1 año, 3 años, 5 años](/es/articles/garantia-casa-nueva-quebec/) : Edificios cubiertos y excluidos, inspección préréception, 1, 3 y 5 años, plazos para denunciar y arbitraj
 - [Guerra de ofertas en Montreal: sobrepuja](/es/articles/bidding-wars-truth-montreal/) : Promesas de compra múltiples en Quebec: qué debe hacer el corredor del vendedor, qué decide el vendedor, 
-- [Historial de crédito y compra de vivienda](/es/articles/credit-score-home-buying-quebec/) : El mínimo de 600 exigido para una hipoteca asegurada, los cinco factores de su puntaje, lo que se corrige
-- [Impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) : Los derechos de mutación sorprenden cada año a miles de compradores en Quebec, porque la factura llega me
-- [Inspección previa: costo y cuándo hacerla](/es/articles/home-inspection-cost-timing-quebec/) : ¿Antes de la oferta o después? ¿Quién paga? ¿Cuánto? Aquí están las respuestas a las preguntas que más ha
+- [Historial de crédito y compra de vivienda](/es/articles/credit-score-home-buying-quebec/) : Historial de crédito y compra de vivienda: el mínimo de 600 para una hipoteca asegurada, los cinco factor
+- [Impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) : Impuesto de bienvenida en Quebec: cómo se calculan los derechos de mutación, quién los paga y cómo prever
+- [Inspección previa: costo y cuándo hacerla](/es/articles/home-inspection-cost-timing-quebec/) : Inspección previa en Quebec: antes o después de la oferta, quién paga, cuánto. Respuestas a las preguntas
 - [La inspección previa a la compra: la lista punto por punto](/es/articles/home-inspection-checklist-montreal/) : Techo, cimientos, drenaje, plomería, electricidad, pirita, vermiculita, plomo, radón: lo que el inspector
 - [Ley 16 y copropiedad en Quebec](/es/articles/documentos-condominio-comprador-quebec/) : Libro de mantenimiento, estudio del fondo de previsión, certificación del sindicato: las obligaciones de 
 - [Los costos ocultos de ser propietario](/es/articles/hidden-homeownership-costs/) : Impuestos, notario, condominio, seguro, mantenimiento: lo que cuesta de verdad tener una propiedad en Que
 - [Negociar una propiedad en Montreal](/es/articles/strategies-negociation-immobilier-montreal/) : Promesa de compra, condiciones, anticipo, fecha de ocupación: las verdaderas palancas de negociación en Q
 - [Ocho situaciones para no comprar](/es/articles/when-not-to-buy-real-estate/) : Ingreso reciente, deuda cara, pago inicial prestado, horizonte corto: los casos en que esperar cuesta men
 - [Propiedades fuera del mercado en Quebec](/es/articles/off-market-properties/) : Fuera de Centris no es un descuento. Declaración de interés, deber de verificación y doble representación
-- [Recién llegados: comprar en Quebec](/es/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/) : Comprar bienes raíces en Quebec como recién llegado es completamente posible, pero el sistema funciona de
+- [Recién llegados: comprar en Quebec](/es/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/) : Recién llegados: comprar en Quebec es completamente posible, pero el sistema difiere del de la mayoría de
 - [Retirarse de una propiedad: siete señales](/es/articles/red-flags-walk-away-property/) : Declaraciones del vendedor, venta a riesgo del comprador, certificado vencido, fondo de previsión, zonifi
 - [Ruido y aislamiento en condominio, Quebec](/es/articles/ruido-casa-condominio-quebec/) : Ruido aéreo o de impacto, año de construcción, el revestimiento de piso impuesto en copropiedad, cinco pr
 - [Su primera visita a una propiedad](/es/articles/first-visit-property-checklist/) : Documentos que pedir, qué mirar afuera y adentro, pirita, tanque de mazout, cableado de aluminio, plomo: 
@@ -86,24 +93,24 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Comparables inmobiliarios: cómo auditar el precio del vecino](/es/articles/comparables-precio-casa-quebec/) : Cuatro criterios, superficie medida, ajustes y condiciones de venta: cómo auditar los comparables inmobil
 - [Conservar o vender una propiedad en Quebec: cinco casos](/es/articles/conservar-o-vender-propiedad-quebec/) : Renovación hipotecaria, mantenimiento aplazado, vivienda desocupada, sucesión, cuota especial: cuando con
 - [Contrato de corretaje de venta en Quebec](/es/articles/contrato-corretaje-venta-quebec/) : Duración, precio, retribución, la cláusula de los 180 días, declaraciones: a qué lo compromete cada cláus
-- [Cuándo vender su propiedad en Montreal](/es/articles/best-time-sell-home-montreal/) : El mes de salida al mercado cambia el volumen, la competencia y el plazo de venta. Esto es lo que muestra
-- [Cómo preparar su casa para la venta en Montreal y Laval](/es/articles/preparar-casa-para-venta-montreal-laval/) : Una preparación cuidadosa suele ayudar a atraer más visitas desde las primeras semanas. Esto es exactamen
+- [Cuándo vender su propiedad en Montreal](/es/articles/best-time-sell-home-montreal/) : Cuándo vender su propiedad en Montreal: lo que muestran las estadísticas mensuales de la APCIQ sobre volu
+- [Cómo preparar su casa para la venta en Montreal y Laval](/es/articles/preparar-casa-para-venta-montreal-laval/) : Cómo preparar su casa para la venta en Montreal y Laval: qué hacer exactamente, y en qué no gastar, antes
 - [Declaraciones del vendedor: DV 00001](/es/articles/declaraciones-del-vendedor-quebec/) : El formulario DV 00001 es obligatorio y se anexa a la promesse d'achat. Lo que el vendedor declara realme
 - [Difusión de un anuncio en Centris: las reglas en Quebec](/es/articles/difusion-anuncio-centris-quebec/) : Centris, fiche descriptive, fotos, precio modificado, retiro: lo que implica la difusión de un anuncio in
-- [El costo real de vender una casa en Quebec](/es/articles/real-cost-selling-home-quebec/) : La retribución del corredor es solo una línea entre varias. Aquí está la lista completa de los gastos de 
-- [Jornada de puertas abiertas en Quebec](/es/articles/jornada-puertas-abiertas-vendedor-quebec/) : Visita libre en Quebec: lo que la OACIQ exige al corredor, lo que el vendedor guarda, lo que cubre el seg
+- [El costo real de vender una casa en Quebec](/es/articles/real-cost-selling-home-quebec/) : El costo real de vender una casa en Quebec: la lista completa de los gastos de venta, incluidos los que l
+- [Jornada de puertas abiertas en Quebec](/es/articles/jornada-puertas-abiertas-vendedor-quebec/) : Jornada de puertas abiertas en Quebec: lo que la OACIQ exige al corredor, lo que cubre el seguro de hogar
 - [Mi casa no se vende en Quebec: el diagnóstico honesto](/es/articles/casa-no-se-vende-quebec/) : Pocas visitas, ninguna promesa de compra, u ofertas que se caen: el síntoma señala la causa. Diagnóstico 
 - [Perfil de los compradores en Montreal](/es/articles/perfil-compradores-montreal-laval/) : El perfil de los compradores en Montreal y en Laval según la APCIQ, Statistique Canada y la SCHL, y lo qu
 - [Preparar una propiedad antes de la venta](/es/articles/home-staging-client-story/) : Despeje, mantenimiento postergado, fotos, orden de las etapas: el método antes de la inscripción, y por q
-- [Proceso de venta de una casa en Quebec: las etapas](/es/articles/proceso-de-venta-etapas-quebec/) : Contrat de courtage, declaraciones del vendedor, certificat de localisation, promesse d'achat, notaire: e
-- [Su Renovación No Añadirá lo que Cree al Valor de su Vivienda](/es/articles/renovations-dont-add-value/) : Lo que se recupera antes de una venta y lo que no, y luego las reglas de Quebec: declaraciones del vended
+- [Proceso de venta de una casa en Quebec: las etapas](/es/articles/proceso-de-venta-etapas-quebec/) : Proceso de venta de una casa en Quebec: contrat de courtage, declaraciones del vendedor, certificat de lo
+- [Su Renovación No Añadirá lo que Cree al Valor de su Vivienda](/es/articles/renovations-dont-add-value/) : Renovación y valor de su vivienda: lo que se recupera antes de una venta y lo que no, y las reglas de Que
 - [Vender antes de comprar en Quebec: las cláusulas que deciden](/es/articles/vender-antes-de-comprar-quebec/) : Vender antes de comprar en Quebec: la cláusula R2.1, la cláusula de 72 horas, el préstamo puente, cargar 
-- [Vender con o sin corredor en Quebec: la comparación honesta](/es/articles/selling-without-realtor-quebec/) : Es la pregunta número uno de los vendedores en Quebec. Aquí están las cifras reales, lo que usted ahorra 
+- [Vender con o sin corredor en Quebec: la comparación honesta](/es/articles/selling-without-realtor-quebec/) : Vender con o sin corredor en Quebec: las cifras reales, lo que usted ahorra, el riesgo que asume y los ca
 - [Vender la casa familiar: guía para mayores](/es/articles/senior-downsizing-guide/) : Condominio, alquiler, residencia para mayores o quedarse en casa: lo que realmente libera vender la casa 
 - [Vender o conservar su casa en Quebec: sus propias señales](/es/articles/senales-para-vender-quebec/) : Renovación, tamaño del hogar, trayecto, mantenimiento: seis señales personales que dicen si conservar o v
 - [Vender su casa en invierno en Quebec: las obligaciones](/es/articles/vender-en-otono-e-invierno-quebec/) : Vender su casa en invierno en Quebec: fotos de verano difundidas en enero, la nieve en las visitas y las 
 - [Vender una casa que vale menos que la hipoteca](/es/articles/vender-casa-vale-menos-hipoteca-quebec/) : Vender en Quebec una casa cuyo valor es inferior a la hipoteca: saldo, penalidad, carta de pago, retribuc
-- [¿Cuánto tiempo toma realmente vender una casa en Montreal?](/es/articles/how-long-to-sell-house-montreal/) : El plazo de venta depende mucho menos del mercado que de tres decisiones que usted controla. Aquí está el
+- [¿Cuánto tiempo toma realmente vender una casa en Montreal?](/es/articles/how-long-to-sell-house-montreal/) : Cuánto tiempo toma vender una casa en Montreal: depende menos del mercado que de tres decisiones suyas. E
 
 ## Guía práctica
 - [Adaptar la vivienda para envejecer en casa en Quebec](/es/articles/adaptar-vivienda-envejecer-quebec/) : Créditos fiscales y adaptación de la vivienda de adultos mayores en Quebec: quién tiene derecho, cuánto, 
@@ -123,7 +130,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Permiso de cobertizo, marquesina y garaje en Quebec](/es/articles/permiso-cobertizo-garaje-quebec/) : Permiso de cobertizo en Quebec: el umbral de 18 m² en Laval y de 15 m² en Montreal, los márgenes, el abri
 - [Permiso de renovación en Montreal y Laval: el invierno](/es/articles/renovar-en-invierno-permisos-montreal-laval/) : Hormigón, techo, interior: lo que el frío bloquea de verdad, y por qué un permiso de renovación en Montre
 - [Permiso de tala de árbol en Montreal: el trámite](/es/articles/permiso-tala-arbol-montreal/) : Permiso de tala de árbol en Montreal y en Laval: motivos aceptados, documentos, plazos, tarifas por distr
-- [Primera reunión con un corredor inmobiliario: los documentos](/es/articles/documentos-antes-de-reunirse-corredor-quebec/) : Certificat de localisation, escritura de compra, cuentas de impuestos, contratos de alquiler: los documen
+- [Primera reunión con un corredor inmobiliario: los documentos](/es/articles/documentos-antes-de-reunirse-corredor-quebec/) : Primera reunión con un corredor inmobiliario: certificat de localisation, escritura, cuentas de impuestos
 - [Prueba de radón en una vivienda, Quebec](/es/articles/radon-vivienda-quebec/) : Directriz de 200 Bq/m³, prueba de tres meses en temporada de calefacción, cláusula 3.21 y declaraciones d
 - [Reducir su factura de calefacción, Quebec](/es/articles/reducir-factura-calefaccion-quebec/) : Tarifa D, tramo de 40 kWh, aislamiento, bomba de calor y ayudas 2026: cómo reducir su factura de calefacc
 - [Reglamento de la estufa de leña en Montreal: lo que aplica](/es/articles/estufa-lena-reglamento-seguro-quebec/) : Estufa de leña en Montreal y en Laval: umbral de 2,5 g/h, declaración, smog, apagón, multas, deshollinado
@@ -137,23 +144,23 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Vicio oculto descubierto durante una renovación en Quebec](/es/articles/vicio-oculto-durante-renovacion-quebec/) : Vicio oculto descubierto durante una renovación: parar, documentar, denunciar por escrito. La secuencia e
 
 ## Inmobiliaria 101
-- [5 preguntas antes de elegir un corredor](/es/articles/questions-hire-broker/) : La mayoría elige corredor por una recomendación o por un cartel. Aquí están las cinco preguntas que revel
+- [5 preguntas antes de elegir un corredor](/es/articles/questions-hire-broker/) : 5 preguntas antes de elegir un corredor inmobiliario: las que revelan cómo trabaja realmente, y las respu
 - [Aumento de las cuotas de condominio en Quebec: quién decide](/es/articles/aumento-cuotas-condominio-quebec/) : Aumento de las cuotas de condominio en Quebec: por qué la ley 16 lo programa, quién lo decide realmente y
 - [Casa pasiva en Quebec: el costo y la norma exacta](/es/articles/casa-pasiva-novoclimat-quebec/) : Casa pasiva en Quebec: la norma de 15 kWh/m², la hermeticidad de 0,6, el único sobrecosto que cifra Quebe
 - [Comparar dos barrios de Montreal](/es/articles/best-neighborhoods-montreal/) : Impuestos por distrito, derechos de mutación, zonificación, escuelas, plomo y suelos: los criterios verif
 - [Contrato de corretaje de compra en Quebec: qué está firmando](/es/articles/contrato-corretaje-compra-quebec/) : Formulario CCA, exclusividad, cláusula 6.2, doble representación: a qué lo compromete realmente el contra
-- [Corredor, agente, REALTOR en Quebec](/es/articles/broker-agent-difference-quebec/) : En Quebec solo una de esas tres palabras corresponde a una licencia. Esto es lo que significa cada términ
-- [Cuando una transacción se descarrila](/es/articles/worst-real-estate-deal-lessons/) : Hipoteca legal, expediente de copropiedad, certificado de localización, inspección, financiamiento, vicio
+- [Corredor, agente, REALTOR en Quebec](/es/articles/broker-agent-difference-quebec/) : Corredor, agente, REALTOR en Quebec: solo una de estas palabras corresponde a una licencia. Qué significa
+- [Cuando una transacción se descarrila](/es/articles/worst-real-estate-deal-lessons/) : Transacción descarrilada en Quebec: hipoteca legal, copropiedad, inspección, financiamiento, vicios ocult
 - [Cómo impugnar su evaluación municipal en Quebec](/es/articles/impugnar-evaluacion-municipal-quebec/) : Fecha de referencia, plazo del 1 de mayo, costos, respuesta del evaluador y recurso ante el TAQ: cómo imp
 - [El notario en Quebec, paso a paso](/es/articles/quebec-notary-process/) : Por qué el notario es obligatorio en Quebec, quién lo elige y lo paga, cada etapa hasta la entrega de lla
 - [Fallecimiento de la pareja y la vivienda](/es/articles/proteger-vivienda-fallecimiento-quebec/) : Testamento, título, seguro, liquidateur y declaración de transmisión: lo que protege la vivienda cuando f
 - [Heredar una propiedad en Quebec](/es/articles/inheritance-property-quebec/) : Liquidateur, notario, declaración de transmisión, impuestos al fallecer, impuesto de bienvenida y casa va
-- [Idioma y transacción inmobiliaria, Quebec](/es/articles/multilingual-broker-advantage/) : Formularios de la OACIQ, artículo 55.1 de la Carta, acta notarial, registro de la propiedad, documentos d
-- [La comisión inmobiliaria en Quebec](/es/articles/commission-explained-quebec/) : Ninguna ley fija una tarifa en Quebec. Aquí está quién paga la comisión, cómo se reparte, los impuestos q
-- [La marca inmobiliaria en Quebec](/es/articles/why-choose-remax/) : Licencia, fondo de indemnización, formularios obligatorios: lo que es idéntico con todos los corredores d
-- [Mascotas en un condominio de Quebec](/es/articles/mascotas-en-condominio-quebec/) : Mascotas prohibidas en condominio en Quebec: dónde vive la cláusula, qué la hace válida, el caso del anim
+- [Idioma y transacción inmobiliaria, Quebec](/es/articles/multilingual-broker-advantage/) : Idioma y transacción inmobiliaria en Quebec: formularios OACIQ, artículo 55.1 de la Carta, acta notarial,
+- [La comisión inmobiliaria en Quebec](/es/articles/commission-explained-quebec/) : La comisión inmobiliaria en Quebec: ninguna ley fija la tarifa. Quién la paga, cómo se reparte, los impue
+- [La marca inmobiliaria en Quebec](/es/articles/why-choose-remax/) : La marca inmobiliaria en Quebec: licencia, fondo de indemnización y formularios son idénticos con todo co
+- [Mascotas en un condominio de Quebec](/es/articles/mascotas-en-condominio-quebec/) : Mascotas en un condominio de Quebec: dónde vive la cláusula que las prohíbe, qué la hace válida, el anima
 - [Ocho mitos inmobiliarios, y las reglas](/es/articles/real-estate-myths-debunked/) : Entrada, retribución del corredor, garantía GCR, preaprobación, precio pedido y promesa de compra: ocho c
-- [Parejas de hecho y vivienda en Quebec](/es/articles/parejas-de-hecho-propiedad-quebec/) : Patrimoine familial, union parentale desde el 30 de junio de 2025, título, indivisión y fallecimiento: qu
+- [Parejas de hecho y vivienda en Quebec](/es/articles/parejas-de-hecho-propiedad-quebec/) : Parejas de hecho y vivienda en Quebec: patrimoine familial, union parentale desde el 30 de junio de 2025,
 - [Renovar su condominio en Quebec: el límite](/es/articles/renovacion-condominio-quebec/) : Piso, ventana, balcón, muro de carga: lo que un copropietario puede renovar en su condominio en Quebec, y
 - [Separación, divorcio y vivienda en Quebec: lo que debe saber](/es/articles/divorce-real-estate-guide/) : Patrimoine familial, union parentale, recompra, venta o copropiedad: qué pasa con la casa cuando una pare
 - [Vicio oculto en Quebec: los recursos](/es/articles/vicio-oculto-recurso-quebec/) : Vicio oculto en una casa de Quebec: las cuatro condiciones del artículo 1726, la denuncia escrita obligat
@@ -161,10 +168,10 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Inversión
 - [Agregar una vivienda accesoria en Quebec: el marco](/es/articles/vivienda-accesoria-quebec/) : Vivienda accesoria en Quebec: el permiso en Laval y en Montreal, los costos publicados, el ingreso que re
 - [Alquiler de corto plazo en Quebec](/es/articles/alquiler-corto-plazo-quebec/) : Número de registro, zonificación de Montreal y Laval, declaración de copropiedad: las reglas del alquiler
-- [Aumentar el valor de un plex en Montreal o en Laval](/es/articles/aumentar-valor-plex-montreal/) : Aumentar el valor de un plex: lo que permite la fixation de loyer del TAL desde 2026, las obras que se re
+- [Aumentar el valor de un plex en Montreal o en Laval](/es/articles/aumentar-valor-plex-montreal/) : Aumentar el valor de un plex en Montreal o Laval: fixation de loyer del TAL desde 2026, obras recuperable
 - [Cartera inmobiliaria en el Gran Montreal](/es/articles/build-real-estate-portfolio/) : Pago inicial según el número de viviendas, prueba de resistencia, refinanciación al 80 %, control de alqu
 - [Comprar para revender en Montreal](/es/articles/house-flipping-montreal/) : Regla de los 365 días, TPS y TVQ en una renovación mayor, impuesto de bienvenida, permisos y licencia RBQ
-- [Comprar un inmueble comercial en Quebec: las verificaciones](/es/articles/verificaciones-inmueble-comercial-quebec/) : Licencia del corredor, contratos de arrendamiento, estudio fase I, zonificación, tasa no residencial, TPS
+- [Comprar un inmueble comercial en Quebec: las verificaciones](/es/articles/verificaciones-inmueble-comercial-quebec/) : Comprar un inmueble comercial en Quebec: licencia del corredor, arrendamientos, estudio fase I, zonificac
 - [Comprar un tríplex en Laval: qué revisar](/es/articles/investir-triplex-laval-strategie/) : Pago inicial, cómo cuenta los alquileres el prestamista, impuestos y derechos de mutación en Laval, regla
 - [Comprar una cabaña en Quebec: pozo, fosa séptica y acceso](/es/articles/comprar-una-cabana-quebec/) : Rive, fosse septique, pozo, chemin privé, seguro y financiamiento: las verificaciones antes de comprar un
 - [Comprar una casa para demoler en Quebec: el permiso](/es/articles/comprar-para-demoler-permiso-quebec/) : Comité de demolición, aviso público, 10 días para oponerse, proyecto de reemplazo y amianto: lo que exige
@@ -174,23 +181,25 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Plex o condominio en Montreal](/es/articles/triplex-vs-condo-montreal/) : Aportación inicial, tratamiento de los alquileres, reglas del TAL y fiscalidad del alquiler: lo que cada 
 - [Propiedades de alquiler en Montreal, Laval](/es/articles/rental-property-management/) : Sección G, selección del inquilino, depósito prohibido, aviso de aumento, recuperación, desalojo e impues
 - [Propietario ocupante de un plex, Quebec](/es/articles/plex-ocupado-propietario-quebec/) : Propietario ocupante de un plex en Quebec: quién puede recuperar una vivienda, los plazos del aviso, la i
-- [Valor del terreno y zonificación en Quebec: cómo leer el rol](/es/articles/valor-del-terreno-zonificacion-quebec/) : El rôle d'évaluation ya separa el terreno del edificio. Qué dice ese ratio, qué permite realmente la zoni
+- [Valor del terreno y zonificación en Quebec: cómo leer el rol](/es/articles/valor-del-terreno-zonificacion-quebec/) : Valor del terreno y zonificación en Quebec: el rôle d'évaluation separa terreno y edificio. Qué dice ese 
 - [Venta por impuestos municipales en Quebec: el procedimiento](/es/articles/venta-por-impuestos-municipales-quebec/) : Venta por impuestos municipales en Quebec: quién vende, qué se paga en el acto, el derecho de rescate de 
 
 ## Pages outils et conversion
 
 - /es/ : Corredor inmobiliario Laval y Montreal
 - /es/about/ : Sobre Georges Matar
-- /es/advantages/ : Visión general
+- /es/advantages/ : Mis ventajas RE/MAX para compradores y vendedores
 - /es/advantages/coproprie-t/ : Coproprie-T: un corredor formado en derecho de copropiedad
-- /es/advantages/integri-t/ : Integri-T: protección de vicios ocultos
+- /es/advantages/integri-t/ : Integri-T: protección contra vicios ocultos
 - /es/advantages/mes-rabais-remax/ : Mis descuentos RE/MAX: ahorro después de la transacción
 - /es/advantages/tranquilli-t/ : Tranquilli-T: asistencia jurídica gratuita
 - /es/buyer/ : Guía del Comprador | Georges Matar - Corredor Inmobiliario
+- /es/condiciones-de-uso/ : Condiciones de uso
 - /es/privacidad/ : Política de privacidad
 - /es/contacto/ : Contacto
 - /es/formulario/ : Solicitud de información
 - /es/gracias/ : Solicitud recibida
+- /es/mis-servicios/ : Mis servicios
 - /es/corredor-inmobiliario/ : Corredor inmobiliario en Laval y Montreal
 - /es/corredor-inmobiliario/beloeil/ : Corredor inmobiliario en Beloeil
 - /es/corredor-inmobiliario/blainville/ : Corredor inmobiliario en Blainville
@@ -204,6 +213,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - /es/corredor-inmobiliario/chomedey-laval/ : Corredor inmobiliario en Chomedey, Laval
 - /es/corredor-inmobiliario/delson/ : Corredor inmobiliario en Delson
 - /es/corredor-inmobiliario/duvernay-laval/ : Corredor inmobiliario en Duvernay, Laval
+- /es/corredor-inmobiliario/la-plaine-terrebonne/ : Corredor inmobiliario en La Plaine, Terrebonne
 - /es/corredor-inmobiliario/la-prairie/ : Corredor inmobiliario en La Prairie
 - /es/corredor-inmobiliario/laval/ : Corredor inmobiliario en Laval
 - /es/corredor-inmobiliario/longueuil/ : Corredor inmobiliario en Longueuil

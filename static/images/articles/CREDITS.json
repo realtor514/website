@@ -575,5 +575,47 @@
   "page": "https://commons.wikimedia.org/wiki/File:Habitat_67_2019_dllu_02.jpg",
   "recherche": "Category:Habitat 67",
   "licence": "CC BY-SA 4.0"
+ },
+ "marche-immobilier-chomedey-laval": {
+  "source": "unsplash",
+  "photographe": "Trevor",
+  "page": "https://unsplash.com/photos/white-and-brown-concrete-building-yz8_w9qtwZY",
+  "recherche": "modern condo building balconies sunny"
+ },
+ "marche-immobilier-est-de-laval-duvernay": {
+  "source": "unsplash",
+  "photographe": "Greg Rosenke",
+  "page": "https://unsplash.com/photos/shallow-focus-photo-of-orange-leaves-Fzx0cIl45JQ",
+  "recherche": "riverside houses autumn trees"
+ },
+ "marche-immobilier-laval-secteurs": {
+  "source": "unsplash",
+  "photographe": "Michael Tuszynski",
+  "page": "https://unsplash.com/photos/aerial-photo-of-city-2osRMlJLdbU",
+  "recherche": "aerial view suburban neighborhood houses"
+ },
+ "marche-immobilier-pont-viau-laval-des-rapides": {
+  "source": "unsplash",
+  "photographe": "Luis Pérez",
+  "page": "https://unsplash.com/photos/brick-house-with-front-porch-7f45VtaFs3g",
+  "recherche": "duplex triplex brick street"
+ },
+ "marche-immobilier-sainte-dorothee-laval-ouest": {
+  "source": "unsplash",
+  "photographe": "Kat van der Linden",
+  "page": "https://unsplash.com/photos/a-mountain-with-houses-on-the-side-of-it-SnIdlI7lzCw",
+  "recherche": "waterfront houses river quebec"
+ },
+ "marche-immobilier-sainte-rose-fabreville-laval": {
+  "source": "unsplash",
+  "photographe": "Tristan Gevaux",
+  "page": "https://unsplash.com/photos/a-house-with-a-car-parked-in-front-of-it-hlR8bq9PeF4",
+  "recherche": "suburban family house autumn trees"
+ },
+ "marche-immobilier-vimont-auteuil-laval": {
+  "source": "unsplash",
+  "photographe": "Marcus Lenk",
+  "page": "https://unsplash.com/photos/line-of-houses-during-day-wKO0rx50VWo",
+  "recherche": "new suburban houses development"
  }
 }

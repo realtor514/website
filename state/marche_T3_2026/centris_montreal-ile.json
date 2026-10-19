@@ -1,0 +1,4031 @@
+{
+ "source": "Centris, statistiques immobilieres",
+ "region": "montreal-ile",
+ "consulte": "2026-10-19",
+ "pages": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile",
+   "nom": "montreal-ile",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "3 344",
+     "var_trimestre": "-13 %",
+     "cumul_4t": "16 106",
+     "var_cumul_4t": "-7 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "7 940",
+     "var_trimestre": "1 %",
+     "cumul_4t": "33 060",
+     "var_cumul_4t": "4 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "10 490",
+     "var_trimestre": "12 %",
+     "cumul_4t": "9 889",
+     "var_cumul_4t": "11 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "2 633 212",
+     "var_trimestre": "-10 %",
+     "cumul_4t": "12 357 994",
+     "var_cumul_4t": "-4 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "1 002",
+     "var_trimestre": "-12 %",
+     "cumul_4t": "4 459",
+     "var_cumul_4t": "-7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2 162",
+     "var_trimestre": "7 %",
+     "cumul_4t": "2 021",
+     "var_cumul_4t": "4 %"
+    },
+    "Prix médian": {
+     "trimestre": "812 000 $",
+     "var_trimestre": "2 %",
+     "cumul_4t": "816 250 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "51",
+     "var_trimestre": "4",
+     "cumul_4t": "49",
+     "var_cumul_4t": "0"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "1 728",
+     "var_trimestre": "-15 %",
+     "cumul_4t": "8 729",
+     "var_cumul_4t": "-10 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "6 696",
+     "var_trimestre": "12 %",
+     "cumul_4t": "6 362",
+     "var_cumul_4t": "14 %"
+    },
+    "Prix médian": {
+     "trimestre": "477 000 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "477 544 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "67",
+     "var_trimestre": "14",
+     "cumul_4t": "60",
+     "var_cumul_4t": "3"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "614",
+     "var_trimestre": "-13 %",
+     "cumul_4t": "2 918",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1 631",
+     "var_trimestre": "16 %",
+     "cumul_4t": "1 505",
+     "var_cumul_4t": "10 %"
+    },
+    "Prix médian": {
+     "trimestre": "902 500 $",
+     "var_trimestre": "3 %",
+     "cumul_4t": "906 875 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "52",
+     "var_trimestre": "-1",
+     "cumul_4t": "52",
+     "var_cumul_4t": "-7"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 004 265"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/baie-d-urfe",
+   "nom": "Baie-d'Urfé",
+   "slug": "baie-d-urfe",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Baie-d'Urfé, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "50",
+     "var_cumul_4t": "-12 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "39",
+     "var_trimestre": "18 %",
+     "cumul_4t": "128",
+     "var_cumul_4t": "19 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "48",
+     "var_trimestre": "17 %",
+     "cumul_4t": "41",
+     "var_cumul_4t": "32 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "69 685",
+     "var_cumul_4t": "-4 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "47",
+     "var_cumul_4t": "-12 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "43",
+     "var_trimestre": "13 %",
+     "cumul_4t": "38",
+     "var_cumul_4t": "31 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "1 225 437 $",
+     "var_cumul_4t": "16 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "64",
+     "var_cumul_4t": "3"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "3 764"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/beaconsfield",
+   "nom": "Beaconsfield",
+   "slug": "beaconsfield",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Beaconsfield, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "52",
+     "var_trimestre": "-17 %",
+     "cumul_4t": "239",
+     "var_cumul_4t": "-8 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "117",
+     "var_trimestre": "-2 %",
+     "cumul_4t": "453",
+     "var_cumul_4t": "-7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "124",
+     "var_trimestre": "-3 %",
+     "cumul_4t": "113",
+     "var_cumul_4t": "1 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "59 079",
+     "var_trimestre": "-10 %",
+     "cumul_4t": "257 361",
+     "var_cumul_4t": "-6 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "47",
+     "var_trimestre": "-20 %",
+     "cumul_4t": "213",
+     "var_cumul_4t": "-11 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "110",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "100",
+     "var_cumul_4t": "0 %"
+    },
+    "Prix médian": {
+     "trimestre": "960 000 $",
+     "var_trimestre": "-1 %",
+     "cumul_4t": "987 500 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "46",
+     "var_trimestre": "9",
+     "cumul_4t": "47",
+     "var_cumul_4t": "4"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "26",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "13",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "19 277"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/cote-saint-luc",
+   "nom": "Côte-Saint-Luc",
+   "slug": "cote-saint-luc",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Côte-Saint-Luc, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "53",
+     "var_trimestre": "-19 %",
+     "cumul_4t": "218",
+     "var_cumul_4t": "-22 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "130",
+     "var_trimestre": "4 %",
+     "cumul_4t": "500",
+     "var_cumul_4t": "-5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "177",
+     "var_trimestre": "14 %",
+     "cumul_4t": "143",
+     "var_cumul_4t": "-4 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "44 241",
+     "var_trimestre": "-17 %",
+     "cumul_4t": "177 009",
+     "var_cumul_4t": "-19 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "25",
+     "var_trimestre": "**",
+     "cumul_4t": "92",
+     "var_cumul_4t": "-19 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "63",
+     "var_trimestre": "26 %",
+     "cumul_4t": "48",
+     "var_cumul_4t": "-5 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "969 937 $",
+     "var_cumul_4t": "8 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "50",
+     "var_cumul_4t": "-8"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "28",
+     "var_trimestre": "**",
+     "cumul_4t": "118",
+     "var_cumul_4t": "-26 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "108",
+     "var_trimestre": "11 %",
+     "cumul_4t": "91",
+     "var_cumul_4t": "-1 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "567 812 $",
+     "var_cumul_4t": "8 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "75",
+     "var_cumul_4t": "4"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "34 504"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/dollard-des-ormeaux",
+   "nom": "Dollard-des-Ormeaux",
+   "slug": "dollard-des-ormeaux",
+   "libelle": "Source : Recensement 2021, Statistique Canada Dollard-des-Ormeaux, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "92",
+     "var_trimestre": "-25 %",
+     "cumul_4t": "457",
+     "var_cumul_4t": "0 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "224",
+     "var_trimestre": "6 %",
+     "cumul_4t": "885",
+     "var_cumul_4t": "11 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "215",
+     "var_trimestre": "15 %",
+     "cumul_4t": "197",
+     "var_cumul_4t": "17 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "72 157",
+     "var_trimestre": "-23 %",
+     "cumul_4t": "334 734",
+     "var_cumul_4t": "-2 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "65",
+     "var_trimestre": "-26 %",
+     "cumul_4t": "283",
+     "var_cumul_4t": "-11 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "121",
+     "var_trimestre": "4 %",
+     "cumul_4t": "110",
+     "var_cumul_4t": "12 %"
+    },
+    "Prix médian": {
+     "trimestre": "797 000 $",
+     "var_trimestre": "6 %",
+     "cumul_4t": "789 000 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "56",
+     "var_trimestre": "26",
+     "cumul_4t": "45",
+     "var_cumul_4t": "10"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "25",
+     "var_trimestre": "**",
+     "cumul_4t": "171",
+     "var_cumul_4t": "24 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "91",
+     "var_trimestre": "33 %",
+     "cumul_4t": "85",
+     "var_cumul_4t": "25 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "446 887 $",
+     "var_cumul_4t": "-2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "46",
+     "var_cumul_4t": "-4"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "48 403"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/dorval",
+   "nom": "Dorval",
+   "slug": "dorval",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Dorval, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "39",
+     "var_trimestre": "-23 %",
+     "cumul_4t": "180",
+     "var_cumul_4t": "-14 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "90",
+     "var_trimestre": "5 %",
+     "cumul_4t": "324",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "84",
+     "var_trimestre": "18 %",
+     "cumul_4t": "76",
+     "var_cumul_4t": "4 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "26 240",
+     "var_trimestre": "-27 %",
+     "cumul_4t": "125 828",
+     "var_cumul_4t": "-13 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "26",
+     "var_trimestre": "**",
+     "cumul_4t": "115",
+     "var_cumul_4t": "-5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "52",
+     "var_trimestre": "6 %",
+     "cumul_4t": "44",
+     "var_cumul_4t": "-10 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "708 403 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "41",
+     "var_cumul_4t": "-8"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "60",
+     "var_cumul_4t": "-29 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "30",
+     "var_trimestre": "57 %",
+     "cumul_4t": "28",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "420 750 $",
+     "var_cumul_4t": "4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "43",
+     "var_cumul_4t": "-6"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "19 302"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/hampstead",
+   "nom": "Hampstead",
+   "slug": "hampstead",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Hampstead, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "48",
+     "var_cumul_4t": "-9 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "22",
+     "var_trimestre": "**",
+     "cumul_4t": "110",
+     "var_cumul_4t": "5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "38",
+     "var_trimestre": "-15 %",
+     "cumul_4t": "43",
+     "var_cumul_4t": "7 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "101 600",
+     "var_cumul_4t": "-1 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "12",
+     "var_trimestre": "**",
+     "cumul_4t": "39",
+     "var_cumul_4t": "-20 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "31",
+     "var_trimestre": "-20 %",
+     "cumul_4t": "35",
+     "var_cumul_4t": "2 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "1 859 375 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "93",
+     "var_cumul_4t": "10"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "7 037"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/kirkland",
+   "nom": "Kirkland",
+   "slug": "kirkland",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Kirkland, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "48",
+     "var_trimestre": "23 %",
+     "cumul_4t": "206",
+     "var_cumul_4t": "0 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "74",
+     "var_trimestre": "-17 %",
+     "cumul_4t": "343",
+     "var_cumul_4t": "-8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "80",
+     "var_trimestre": "-13 %",
+     "cumul_4t": "81",
+     "var_cumul_4t": "-2 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "49 059",
+     "var_trimestre": "34 %",
+     "cumul_4t": "196 540",
+     "var_cumul_4t": "2 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "43",
+     "var_trimestre": "22 %",
+     "cumul_4t": "186",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "72",
+     "var_trimestre": "-11 %",
+     "cumul_4t": "73",
+     "var_cumul_4t": "-2 %"
+    },
+    "Prix médian": {
+     "trimestre": "1 005 000 $",
+     "var_trimestre": "12 %",
+     "cumul_4t": "941 250 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "52",
+     "var_trimestre": "-1",
+     "cumul_4t": "49",
+     "var_cumul_4t": "3"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "20",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "7",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "19 413"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/l-ile-dorval",
+   "nom": "L'Île-Dorval",
+   "slug": "l-ile-dorval",
+   "libelle": ". Source : Recensement 2021, Statistique Canada L'Île-Dorval, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "30"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/mont-royal",
+   "nom": "Mont-Royal",
+   "slug": "mont-royal",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Mont-Royal, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "41",
+     "var_trimestre": "-16 %",
+     "cumul_4t": "192",
+     "var_cumul_4t": "-4 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "112",
+     "var_trimestre": "-12 %",
+     "cumul_4t": "446",
+     "var_cumul_4t": "-1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "163",
+     "var_trimestre": "-10 %",
+     "cumul_4t": "167",
+     "var_cumul_4t": "3 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "60 876",
+     "var_trimestre": "-20 %",
+     "cumul_4t": "280 769",
+     "var_cumul_4t": "-6 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "26",
+     "var_trimestre": "**",
+     "cumul_4t": "127",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "70",
+     "var_trimestre": "-30 %",
+     "cumul_4t": "79",
+     "var_cumul_4t": "-9 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "1 668 250 $",
+     "var_cumul_4t": "-4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "82",
+     "var_cumul_4t": "11"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "58",
+     "var_cumul_4t": "-14 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "86",
+     "var_trimestre": "14 %",
+     "cumul_4t": "80",
+     "var_cumul_4t": "17 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "618 000 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "82",
+     "var_cumul_4t": "-11"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "7",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "20 953"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-est",
+   "nom": "Montréal-Est",
+   "slug": "montreal-est",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Montréal-Est, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "38",
+     "var_cumul_4t": "2 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "19",
+     "var_trimestre": "**",
+     "cumul_4t": "66",
+     "var_cumul_4t": "11 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "17",
+     "var_trimestre": "**",
+     "cumul_4t": "13",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "21 263",
+     "var_cumul_4t": "13 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "13",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "16",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "4 394"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-ouest",
+   "nom": "Montréal-Ouest",
+   "slug": "montreal-ouest",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Montréal-Ouest, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "44",
+     "var_cumul_4t": "-6 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "19",
+     "var_trimestre": "**",
+     "cumul_4t": "81",
+     "var_cumul_4t": "-3 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "34",
+     "var_trimestre": "17 %",
+     "cumul_4t": "27",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "50 399",
+     "var_cumul_4t": "-9 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "37",
+     "var_cumul_4t": "-7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "18",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "1 215 625 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "65",
+     "var_cumul_4t": "-8"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "5 115"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-ahuntsic-cartierville",
+   "nom": "Montréal (Ahuntsic-Cartierville)",
+   "slug": "montreal-ahuntsic-cartierville",
+   "libelle": "nsement 2021, Statistique Canada Montréal (Ahuntsic-Cartierville), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "185",
+     "var_trimestre": "-3 %",
+     "cumul_4t": "885",
+     "var_cumul_4t": "-5 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "421",
+     "var_trimestre": "24 %",
+     "cumul_4t": "1 634",
+     "var_cumul_4t": "19 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "469",
+     "var_trimestre": "40 %",
+     "cumul_4t": "408",
+     "var_cumul_4t": "25 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "145 088",
+     "var_trimestre": "10 %",
+     "cumul_4t": "679 207",
+     "var_cumul_4t": "2 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "44",
+     "var_trimestre": "-2 %",
+     "cumul_4t": "202",
+     "var_cumul_4t": "-10 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "102",
+     "var_trimestre": "15 %",
+     "cumul_4t": "97",
+     "var_cumul_4t": "7 %"
+    },
+    "Prix médian": {
+     "trimestre": "917 500 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "924 625 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "31",
+     "var_trimestre": "-17",
+     "cumul_4t": "55",
+     "var_cumul_4t": "5"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "70",
+     "var_trimestre": "-30 %",
+     "cumul_4t": "392",
+     "var_cumul_4t": "-15 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "229",
+     "var_trimestre": "46 %",
+     "cumul_4t": "194",
+     "var_cumul_4t": "36 %"
+    },
+    "Prix médian": {
+     "trimestre": "420 000 $",
+     "var_trimestre": "1 %",
+     "cumul_4t": "422 750 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "52",
+     "var_trimestre": "-6",
+     "cumul_4t": "52",
+     "var_cumul_4t": "0"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "71",
+     "var_trimestre": "54 %",
+     "cumul_4t": "291",
+     "var_cumul_4t": "15 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "137",
+     "var_trimestre": "55 %",
+     "cumul_4t": "116",
+     "var_cumul_4t": "26 %"
+    },
+    "Prix médian": {
+     "trimestre": "935 000 $",
+     "var_trimestre": "6 %",
+     "cumul_4t": "920 000 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "42",
+     "var_trimestre": "-13",
+     "cumul_4t": "39",
+     "var_cumul_4t": "-25"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "135 336"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-anjou",
+   "nom": "Montréal (Anjou)",
+   "slug": "montreal-anjou",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Montréal (Anjou), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "59",
+     "var_trimestre": "3 %",
+     "cumul_4t": "279",
+     "var_cumul_4t": "-11 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "111",
+     "var_trimestre": "12 %",
+     "cumul_4t": "418",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "107",
+     "var_trimestre": "37 %",
+     "cumul_4t": "94",
+     "var_cumul_4t": "20 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "38 725",
+     "var_trimestre": "24 %",
+     "cumul_4t": "169 542",
+     "var_cumul_4t": "-4 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "74",
+     "var_cumul_4t": "-8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "630 000 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "29",
+     "var_cumul_4t": "2"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "25",
+     "var_trimestre": "**",
+     "cumul_4t": "137",
+     "var_cumul_4t": "-19 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "66",
+     "var_trimestre": "43 %",
+     "cumul_4t": "55",
+     "var_cumul_4t": "27 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "381 625 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "57",
+     "var_cumul_4t": "16"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "19",
+     "var_trimestre": "**",
+     "cumul_4t": "68",
+     "var_cumul_4t": "3 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "28",
+     "var_trimestre": "**",
+     "cumul_4t": "24",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "923 500 $",
+     "var_cumul_4t": "12 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "45",
+     "var_cumul_4t": "4"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "43 243"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-cote-des-neiges-notre-dame-de-grace",
+   "nom": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+   "slug": "montreal-cote-des-neiges-notre-dame-de-grace",
+   "libelle": "Statistique Canada Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "181",
+     "var_trimestre": "-5 %",
+     "cumul_4t": "841",
+     "var_cumul_4t": "-6 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "463",
+     "var_trimestre": "7 %",
+     "cumul_4t": "1 811",
+     "var_cumul_4t": "9 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "592",
+     "var_trimestre": "22 %",
+     "cumul_4t": "552",
+     "var_cumul_4t": "21 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "161 845",
+     "var_trimestre": "-3 %",
+     "cumul_4t": "752 256",
+     "var_cumul_4t": "-1 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "42",
+     "var_trimestre": "-19 %",
+     "cumul_4t": "203",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "109",
+     "var_trimestre": "25 %",
+     "cumul_4t": "95",
+     "var_cumul_4t": "17 %"
+    },
+    "Prix médian": {
+     "trimestre": "1 289 500 $",
+     "var_trimestre": "10 %",
+     "cumul_4t": "1 278 875 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "50",
+     "var_trimestre": "-4",
+     "cumul_4t": "47",
+     "var_cumul_4t": "-10"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "99",
+     "var_trimestre": "4 %",
+     "cumul_4t": "464",
+     "var_cumul_4t": "-13 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "369",
+     "var_trimestre": "27 %",
+     "cumul_4t": "345",
+     "var_cumul_4t": "28 %"
+    },
+    "Prix médian": {
+     "trimestre": "562 000 $",
+     "var_trimestre": "6 %",
+     "cumul_4t": "546 875 $",
+     "var_cumul_4t": "-1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "71",
+     "var_trimestre": "13",
+     "cumul_4t": "61",
+     "var_cumul_4t": "2"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "40",
+     "var_trimestre": "-9 %",
+     "cumul_4t": "174",
+     "var_cumul_4t": "9 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "114",
+     "var_trimestre": "8 %",
+     "cumul_4t": "111",
+     "var_cumul_4t": "7 %"
+    },
+    "Prix médian": {
+     "trimestre": "944 500 $",
+     "var_trimestre": "2 %",
+     "cumul_4t": "943 486 $",
+     "var_cumul_4t": "-2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "60",
+     "var_trimestre": "12",
+     "cumul_4t": "69",
+     "var_cumul_4t": "4"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "170 583"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-l-ile-bizard-sainte-genevieve",
+   "nom": "Montréal (L'Île-Bizard/Sainte-Geneviève)",
+   "slug": "montreal-l-ile-bizard-sainte-genevieve",
+   "libelle": "2021, Statistique Canada Montréal (L'Île-Bizard/Sainte-Geneviève), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "47",
+     "var_trimestre": "23 %",
+     "cumul_4t": "167",
+     "var_cumul_4t": "-8 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "93",
+     "var_trimestre": "-9 %",
+     "cumul_4t": "373",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "129",
+     "var_trimestre": "22 %",
+     "cumul_4t": "113",
+     "var_cumul_4t": "14 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "41 477",
+     "var_trimestre": "59 %",
+     "cumul_4t": "129 045",
+     "var_cumul_4t": "-3 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "39",
+     "var_trimestre": "34 %",
+     "cumul_4t": "134",
+     "var_cumul_4t": "-8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "109",
+     "var_trimestre": "28 %",
+     "cumul_4t": "95",
+     "var_cumul_4t": "25 %"
+    },
+    "Prix médian": {
+     "trimestre": "750 000 $",
+     "var_trimestre": "5 %",
+     "cumul_4t": "740 625 $",
+     "var_cumul_4t": "-2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "63",
+     "var_trimestre": "24",
+     "cumul_4t": "68",
+     "var_cumul_4t": "22"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "26",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "7",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "18 885"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-lasalle",
+   "nom": "Montréal (LaSalle)",
+   "slug": "montreal-lasalle",
+   "libelle": "Source : Recensement 2021, Statistique Canada Montréal (LaSalle), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "127",
+     "var_trimestre": "9 %",
+     "cumul_4t": "553",
+     "var_cumul_4t": "-8 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "248",
+     "var_trimestre": "6 %",
+     "cumul_4t": "995",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "329",
+     "var_trimestre": "8 %",
+     "cumul_4t": "319",
+     "var_cumul_4t": "16 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "86 172",
+     "var_trimestre": "17 %",
+     "cumul_4t": "374 648",
+     "var_cumul_4t": "-3 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "22",
+     "var_trimestre": "**",
+     "cumul_4t": "94",
+     "var_cumul_4t": "2 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "54",
+     "var_trimestre": "5 %",
+     "cumul_4t": "55",
+     "var_cumul_4t": "5 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "751 875 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "96",
+     "var_cumul_4t": "29"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "60",
+     "var_trimestre": "-3 %",
+     "cumul_4t": "270",
+     "var_cumul_4t": "-14 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "199",
+     "var_trimestre": "11 %",
+     "cumul_4t": "190",
+     "var_cumul_4t": "18 %"
+    },
+    "Prix médian": {
+     "trimestre": "449 500 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "449 750 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "93",
+     "var_trimestre": "38",
+     "cumul_4t": "70",
+     "var_cumul_4t": "8"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "45",
+     "var_trimestre": "4 %",
+     "cumul_4t": "189",
+     "var_cumul_4t": "-4 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "76",
+     "var_trimestre": "5 %",
+     "cumul_4t": "72",
+     "var_cumul_4t": "16 %"
+    },
+    "Prix médian": {
+     "trimestre": "880 000 $",
+     "var_trimestre": "6 %",
+     "cumul_4t": "907 875 $",
+     "var_cumul_4t": "8 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "35",
+     "var_trimestre": "-26",
+     "cumul_4t": "53",
+     "var_cumul_4t": "-2"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "82 235"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-lachine",
+   "nom": "Montréal (Lachine)",
+   "slug": "montreal-lachine",
+   "libelle": "Source : Recensement 2021, Statistique Canada Montréal (Lachine), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "80",
+     "var_trimestre": "-19 %",
+     "cumul_4t": "377",
+     "var_cumul_4t": "-17 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "185",
+     "var_trimestre": "10 %",
+     "cumul_4t": "753",
+     "var_cumul_4t": "3 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "217",
+     "var_trimestre": "29 %",
+     "cumul_4t": "191",
+     "var_cumul_4t": "8 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "44 990",
+     "var_trimestre": "-22 %",
+     "cumul_4t": "230 784",
+     "var_cumul_4t": "-12 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "19",
+     "var_trimestre": "**",
+     "cumul_4t": "110",
+     "var_cumul_4t": "-21 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "56",
+     "var_trimestre": "30 %",
+     "cumul_4t": "52",
+     "var_cumul_4t": "10 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "757 500 $",
+     "var_cumul_4t": "11 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "42",
+     "var_cumul_4t": "1"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "39",
+     "var_trimestre": "-15 %",
+     "cumul_4t": "174",
+     "var_cumul_4t": "-21 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "106",
+     "var_trimestre": "34 %",
+     "cumul_4t": "91",
+     "var_cumul_4t": "13 %"
+    },
+    "Prix médian": {
+     "trimestre": "375 000 $",
+     "var_trimestre": "-12 %",
+     "cumul_4t": "397 750 $",
+     "var_cumul_4t": "-4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "65",
+     "var_trimestre": "30",
+     "cumul_4t": "56",
+     "var_cumul_4t": "9"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "22",
+     "var_trimestre": "**",
+     "cumul_4t": "93",
+     "var_cumul_4t": "-3 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "54",
+     "var_trimestre": "20 %",
+     "cumul_4t": "48",
+     "var_cumul_4t": "2 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "716 687 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "45",
+     "var_cumul_4t": "-24"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "46 428"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-le-plateau-mont-royal",
+   "nom": "Montréal (Le Plateau-Mont-Royal)",
+   "slug": "montreal-le-plateau-mont-royal",
+   "libelle": "nsement 2021, Statistique Canada Montréal (Le Plateau-Mont-Royal), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "197",
+     "var_trimestre": "-6 %",
+     "cumul_4t": "952",
+     "var_cumul_4t": "-4 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "495",
+     "var_trimestre": "4 %",
+     "cumul_4t": "2 016",
+     "var_cumul_4t": "13 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "564",
+     "var_trimestre": "25 %",
+     "cumul_4t": "512",
+     "var_cumul_4t": "20 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "154 246",
+     "var_trimestre": "-7 %",
+     "cumul_4t": "767 059",
+     "var_cumul_4t": "0 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "16",
+     "var_trimestre": "**",
+     "cumul_4t": "80",
+     "var_cumul_4t": "6 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "35",
+     "var_trimestre": "9 %",
+     "cumul_4t": "37",
+     "var_cumul_4t": "0 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "1 383 812 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "42",
+     "var_cumul_4t": "-17"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "150",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "697",
+     "var_cumul_4t": "-7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "364",
+     "var_trimestre": "30 %",
+     "cumul_4t": "313",
+     "var_cumul_4t": "15 %"
+    },
+    "Prix médian": {
+     "trimestre": "575 000 $",
+     "var_trimestre": "-1 %",
+     "cumul_4t": "591 875 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "48",
+     "var_trimestre": "10",
+     "cumul_4t": "41",
+     "var_cumul_4t": "-2"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "31",
+     "var_trimestre": "-24 %",
+     "cumul_4t": "175",
+     "var_cumul_4t": "5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "164",
+     "var_trimestre": "18 %",
+     "cumul_4t": "160",
+     "var_cumul_4t": "36 %"
+    },
+    "Prix médian": {
+     "trimestre": "1 200 000 $",
+     "var_trimestre": "4 %",
+     "cumul_4t": "1 149 375 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "76",
+     "var_trimestre": "3",
+     "cumul_4t": "57",
+     "var_cumul_4t": "-26"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "105 813"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-le-sud-ouest",
+   "nom": "Montréal (Le Sud-Ouest)",
+   "slug": "montreal-le-sud-ouest",
+   "libelle": "ce : Recensement 2021, Statistique Canada Montréal (Le Sud-Ouest), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "268",
+     "var_trimestre": "-10 %",
+     "cumul_4t": "1 175",
+     "var_cumul_4t": "-16 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "623",
+     "var_trimestre": "-7 %",
+     "cumul_4t": "2 733",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "894",
+     "var_trimestre": "9 %",
+     "cumul_4t": "883",
+     "var_cumul_4t": "12 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "190 879",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "782 326",
+     "var_cumul_4t": "-12 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "72",
+     "var_cumul_4t": "-32 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "36",
+     "var_trimestre": "16 %",
+     "cumul_4t": "35",
+     "var_cumul_4t": "0 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "1 008 875 $",
+     "var_cumul_4t": "16 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "33",
+     "var_cumul_4t": "-17"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "206",
+     "var_trimestre": "-9 %",
+     "cumul_4t": "913",
+     "var_cumul_4t": "-18 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "733",
+     "var_trimestre": "7 %",
+     "cumul_4t": "730",
+     "var_cumul_4t": "12 %"
+    },
+    "Prix médian": {
+     "trimestre": "512 500 $",
+     "var_trimestre": "4 %",
+     "cumul_4t": "500 537 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "69",
+     "var_trimestre": "17",
+     "cumul_4t": "62",
+     "var_cumul_4t": "4"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "47",
+     "var_trimestre": "20 %",
+     "cumul_4t": "190",
+     "var_cumul_4t": "7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "124",
+     "var_trimestre": "15 %",
+     "cumul_4t": "117",
+     "var_cumul_4t": "19 %"
+    },
+    "Prix médian": {
+     "trimestre": "860 000 $",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "871 500 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "49",
+     "var_trimestre": "-19",
+     "cumul_4t": "50",
+     "var_cumul_4t": "-13"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "84 553"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-mercier-hochelaga-maisonneuve",
+   "nom": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+   "slug": "montreal-mercier-hochelaga-maisonneuve",
+   "libelle": "2021, Statistique Canada Montréal (Mercier/Hochelaga-Maisonneuve), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "205",
+     "var_trimestre": "-34 %",
+     "cumul_4t": "1 188",
+     "var_cumul_4t": "-12 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "499",
+     "var_trimestre": "-1 %",
+     "cumul_4t": "2 116",
+     "var_cumul_4t": "3 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "545",
+     "var_trimestre": "24 %",
+     "cumul_4t": "499",
+     "var_cumul_4t": "16 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "125 699",
+     "var_trimestre": "-32 %",
+     "cumul_4t": "721 511",
+     "var_cumul_4t": "-7 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "25",
+     "var_trimestre": "**",
+     "cumul_4t": "141",
+     "var_cumul_4t": "-25 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "53",
+     "var_trimestre": "20 %",
+     "cumul_4t": "44",
+     "var_cumul_4t": "-8 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "619 625 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "34",
+     "var_cumul_4t": "0"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "103",
+     "var_trimestre": "-38 %",
+     "cumul_4t": "646",
+     "var_cumul_4t": "-15 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "297",
+     "var_trimestre": "32 %",
+     "cumul_4t": "271",
+     "var_cumul_4t": "29 %"
+    },
+    "Prix médian": {
+     "trimestre": "415 000 $",
+     "var_trimestre": "-3 %",
+     "cumul_4t": "425 125 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "43",
+     "var_trimestre": "9",
+     "cumul_4t": "40",
+     "var_cumul_4t": "2"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "77",
+     "var_trimestre": "-23 %",
+     "cumul_4t": "401",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "194",
+     "var_trimestre": "13 %",
+     "cumul_4t": "182",
+     "var_cumul_4t": "7 %"
+    },
+    "Prix médian": {
+     "trimestre": "800 000 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "824 750 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "65",
+     "var_trimestre": "9",
+     "cumul_4t": "49",
+     "var_cumul_4t": "-4"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "140 627"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-montreal-nord",
+   "nom": "Montréal (Montréal-Nord)",
+   "slug": "montreal-montreal-nord",
+   "libelle": "e : Recensement 2021, Statistique Canada Montréal (Montréal-Nord), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "77",
+     "var_trimestre": "-31 %",
+     "cumul_4t": "340",
+     "var_cumul_4t": "-13 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "141",
+     "var_trimestre": "6 %",
+     "cumul_4t": "569",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "165",
+     "var_trimestre": "14 %",
+     "cumul_4t": "147",
+     "var_cumul_4t": "7 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "50 746",
+     "var_trimestre": "-30 %",
+     "cumul_4t": "213 052",
+     "var_cumul_4t": "-9 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "23",
+     "var_trimestre": "**",
+     "cumul_4t": "118",
+     "var_cumul_4t": "-11 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "46",
+     "var_trimestre": "-13 %",
+     "cumul_4t": "44",
+     "var_cumul_4t": "-10 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "524 875 $",
+     "var_cumul_4t": "-1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "43",
+     "var_cumul_4t": "-11"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "18",
+     "var_trimestre": "**",
+     "cumul_4t": "71",
+     "var_cumul_4t": "-24 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "51",
+     "var_trimestre": "96 %",
+     "cumul_4t": "43",
+     "var_cumul_4t": "65 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "374 375 $",
+     "var_cumul_4t": "4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "49",
+     "var_cumul_4t": "1"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "36",
+     "var_trimestre": "-29 %",
+     "cumul_4t": "151",
+     "var_cumul_4t": "-7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "67",
+     "var_trimestre": "4 %",
+     "cumul_4t": "59",
+     "var_cumul_4t": "-1 %"
+    },
+    "Prix médian": {
+     "trimestre": "820 000 $",
+     "var_trimestre": "1 %",
+     "cumul_4t": "788 750 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "63",
+     "var_trimestre": "10",
+     "cumul_4t": "57",
+     "var_cumul_4t": "6"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "88 471"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-outremont",
+   "nom": "Montréal (Outremont)",
+   "slug": "montreal-outremont",
+   "libelle": "ource : Recensement 2021, Statistique Canada Montréal (Outremont), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "36",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "233",
+     "var_cumul_4t": "8 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "96",
+     "var_trimestre": "-1 %",
+     "cumul_4t": "443",
+     "var_cumul_4t": "16 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "156",
+     "var_trimestre": "5 %",
+     "cumul_4t": "155",
+     "var_cumul_4t": "5 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "53 721",
+     "var_trimestre": "-9 %",
+     "cumul_4t": "330 666",
+     "var_cumul_4t": "9 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "67",
+     "var_cumul_4t": "-6 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "24",
+     "var_trimestre": "**",
+     "cumul_4t": "29",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "2 299 200 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "78",
+     "var_cumul_4t": "10"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "23",
+     "var_trimestre": "**",
+     "cumul_4t": "154",
+     "var_cumul_4t": "14 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "119",
+     "var_trimestre": "16 %",
+     "cumul_4t": "111",
+     "var_cumul_4t": "12 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "776 875 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "57",
+     "var_cumul_4t": "-6"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "24 629"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-pierrefonds-roxboro",
+   "nom": "Montréal (Pierrefonds-Roxboro)",
+   "slug": "montreal-pierrefonds-roxboro",
+   "libelle": "censement 2021, Statistique Canada Montréal (Pierrefonds-Roxboro), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "127",
+     "var_trimestre": "-16 %",
+     "cumul_4t": "558",
+     "var_cumul_4t": "-8 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "266",
+     "var_trimestre": "6 %",
+     "cumul_4t": "1 018",
+     "var_cumul_4t": "2 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "258",
+     "var_trimestre": "10 %",
+     "cumul_4t": "241",
+     "var_cumul_4t": "10 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "80 073",
+     "var_trimestre": "-23 %",
+     "cumul_4t": "351 140",
+     "var_cumul_4t": "-8 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "95",
+     "var_trimestre": "-22 %",
+     "cumul_4t": "394",
+     "var_cumul_4t": "-12 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "170",
+     "var_trimestre": "8 %",
+     "cumul_4t": "150",
+     "var_cumul_4t": "-1 %"
+    },
+    "Prix médian": {
+     "trimestre": "635 000 $",
+     "var_trimestre": "-2 %",
+     "cumul_4t": "645 325 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "33",
+     "var_trimestre": "-6",
+     "cumul_4t": "39",
+     "var_cumul_4t": "-2"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "28",
+     "var_trimestre": "**",
+     "cumul_4t": "147",
+     "var_cumul_4t": "5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "79",
+     "var_trimestre": "21 %",
+     "cumul_4t": "79",
+     "var_cumul_4t": "43 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "380 625 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "61",
+     "var_cumul_4t": "10"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "17",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "70 382"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-riviere-des-prairies-pointe-aux-trembles",
+   "nom": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+   "slug": "montreal-riviere-des-prairies-pointe-aux-trembles",
+   "libelle": "stique Canada Montréal (Rivière-des-Prairies/Pointe-aux-Trembles), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "176",
+     "var_trimestre": "-13 %",
+     "cumul_4t": "922",
+     "var_cumul_4t": "-3 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "340",
+     "var_trimestre": "18 %",
+     "cumul_4t": "1 450",
+     "var_cumul_4t": "12 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "340",
+     "var_trimestre": "48 %",
+     "cumul_4t": "300",
+     "var_cumul_4t": "26 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "94 670",
+     "var_trimestre": "-9 %",
+     "cumul_4t": "479 783",
+     "var_cumul_4t": "-1 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "109",
+     "var_trimestre": "17 %",
+     "cumul_4t": "482",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "174",
+     "var_trimestre": "50 %",
+     "cumul_4t": "152",
+     "var_cumul_4t": "23 %"
+    },
+    "Prix médian": {
+     "trimestre": "605 000 $",
+     "var_trimestre": "4 %",
+     "cumul_4t": "586 125 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "40",
+     "var_trimestre": "3",
+     "cumul_4t": "35",
+     "var_cumul_4t": "-7"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "60",
+     "var_trimestre": "-31 %",
+     "cumul_4t": "384",
+     "var_cumul_4t": "-2 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "133",
+     "var_trimestre": "44 %",
+     "cumul_4t": "122",
+     "var_cumul_4t": "41 %"
+    },
+    "Prix médian": {
+     "trimestre": "347 500 $",
+     "var_trimestre": "-2 %",
+     "cumul_4t": "349 125 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "60",
+     "var_trimestre": "27",
+     "cumul_4t": "46",
+     "var_cumul_4t": "12"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "56",
+     "var_cumul_4t": "-29 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "32",
+     "var_trimestre": "60 %",
+     "cumul_4t": "24",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "790 250 $",
+     "var_cumul_4t": "-3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "45",
+     "var_cumul_4t": "-14"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "107 941"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-rosemont-la-petite-patrie",
+   "nom": "Montréal (Rosemont/La Petite-Patrie)",
+   "slug": "montreal-rosemont-la-petite-patrie",
+   "libelle": "ent 2021, Statistique Canada Montréal (Rosemont/La Petite-Patrie), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "209",
+     "var_trimestre": "-23 %",
+     "cumul_4t": "1 117",
+     "var_cumul_4t": "-6 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "451",
+     "var_trimestre": "8 %",
+     "cumul_4t": "1 877",
+     "var_cumul_4t": "7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "421",
+     "var_trimestre": "22 %",
+     "cumul_4t": "393",
+     "var_cumul_4t": "12 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "165 025",
+     "var_trimestre": "-25 %",
+     "cumul_4t": "875 607",
+     "var_cumul_4t": "-2 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "19",
+     "var_trimestre": "**",
+     "cumul_4t": "102",
+     "var_cumul_4t": "-1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "40",
+     "var_trimestre": "-2 %",
+     "cumul_4t": "37",
+     "var_cumul_4t": "-5 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "1 103 250 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "39",
+     "var_cumul_4t": "-15"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "125",
+     "var_trimestre": "-17 %",
+     "cumul_4t": "676",
+     "var_cumul_4t": "-9 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "240",
+     "var_trimestre": "37 %",
+     "cumul_4t": "217",
+     "var_cumul_4t": "23 %"
+    },
+    "Prix médian": {
+     "trimestre": "563 200 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "560 475 $",
+     "var_cumul_4t": "4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "40",
+     "var_trimestre": "5",
+     "cumul_4t": "37",
+     "var_cumul_4t": "1"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "65",
+     "var_trimestre": "-24 %",
+     "cumul_4t": "339",
+     "var_cumul_4t": "-1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "140",
+     "var_trimestre": "9 %",
+     "cumul_4t": "137",
+     "var_cumul_4t": "3 %"
+    },
+    "Prix médian": {
+     "trimestre": "950 000 $",
+     "var_trimestre": "1 %",
+     "cumul_4t": "986 625 $",
+     "var_cumul_4t": "7 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "39",
+     "var_trimestre": "3",
+     "cumul_4t": "45",
+     "var_cumul_4t": "-4"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "141 813"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-saint-laurent",
+   "nom": "Montréal (Saint-Laurent)",
+   "slug": "montreal-saint-laurent",
+   "libelle": "e : Recensement 2021, Statistique Canada Montréal (Saint-Laurent), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "177",
+     "var_trimestre": "-6 %",
+     "cumul_4t": "833",
+     "var_cumul_4t": "1 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "394",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "1 666",
+     "var_cumul_4t": "4 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "538",
+     "var_trimestre": "13 %",
+     "cumul_4t": "518",
+     "var_cumul_4t": "18 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "124 130",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "615 665",
+     "var_cumul_4t": "3 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "61",
+     "var_trimestre": "-15 %",
+     "cumul_4t": "287",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "135",
+     "var_trimestre": "8 %",
+     "cumul_4t": "127",
+     "var_cumul_4t": "12 %"
+    },
+    "Prix médian": {
+     "trimestre": "880 000 $",
+     "var_trimestre": "3 %",
+     "cumul_4t": "898 437 $",
+     "var_cumul_4t": "8 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "40",
+     "var_trimestre": "0",
+     "cumul_4t": "48",
+     "var_cumul_4t": "6"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "100",
+     "var_trimestre": "6 %",
+     "cumul_4t": "466",
+     "var_cumul_4t": "2 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "351",
+     "var_trimestre": "19 %",
+     "cumul_4t": "340",
+     "var_cumul_4t": "25 %"
+    },
+    "Prix médian": {
+     "trimestre": "463 500 $",
+     "var_trimestre": "-2 %",
+     "cumul_4t": "478 947 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "75",
+     "var_trimestre": "22",
+     "cumul_4t": "68",
+     "var_cumul_4t": "5"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "16",
+     "var_trimestre": "**",
+     "cumul_4t": "80",
+     "var_cumul_4t": "-1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "51",
+     "var_trimestre": "-5 %",
+     "cumul_4t": "49",
+     "var_cumul_4t": "0 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "889 875 $",
+     "var_cumul_4t": "-1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "73",
+     "var_cumul_4t": "-3"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "102 104"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-saint-leonard",
+   "nom": "Montréal (Saint-Léonard)",
+   "slug": "montreal-saint-leonard",
+   "libelle": "e : Recensement 2021, Statistique Canada Montréal (Saint-Léonard), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "59",
+     "var_trimestre": "-20 %",
+     "cumul_4t": "303",
+     "var_cumul_4t": "0 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "132",
+     "var_trimestre": "13 %",
+     "cumul_4t": "545",
+     "var_cumul_4t": "20 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "163",
+     "var_trimestre": "25 %",
+     "cumul_4t": "149",
+     "var_cumul_4t": "17 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "50 919",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "257 054",
+     "var_cumul_4t": "7 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "18",
+     "var_trimestre": "**",
+     "cumul_4t": "70",
+     "var_cumul_4t": "12 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "24",
+     "var_trimestre": "**",
+     "cumul_4t": "24",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "718 125 $",
+     "var_cumul_4t": "-1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "47",
+     "var_cumul_4t": "-18"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "93",
+     "var_cumul_4t": "-15 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "83",
+     "var_trimestre": "36 %",
+     "cumul_4t": "72",
+     "var_cumul_4t": "26 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "422 125 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "60",
+     "var_cumul_4t": "-2"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "26",
+     "var_trimestre": "**",
+     "cumul_4t": "140",
+     "var_cumul_4t": "6 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "56",
+     "var_trimestre": "33 %",
+     "cumul_4t": "52",
+     "var_cumul_4t": "18 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "1 056 875 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "43",
+     "var_cumul_4t": "-7"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "79 495"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-verdun-ile-des-soeurs",
+   "nom": "Montréal (Verdun/Île-des-Soeurs)",
+   "slug": "montreal-verdun-ile-des-soeurs",
+   "libelle": "nsement 2021, Statistique Canada Montréal (Verdun/Île-des-Soeurs), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "166",
+     "var_trimestre": "-7 %",
+     "cumul_4t": "790",
+     "var_cumul_4t": "-3 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "361",
+     "var_trimestre": "-6 %",
+     "cumul_4t": "1 556",
+     "var_cumul_4t": "6 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "454",
+     "var_trimestre": "6 %",
+     "cumul_4t": "437",
+     "var_cumul_4t": "18 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "134 683",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "640 352",
+     "var_cumul_4t": "0 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "22",
+     "var_trimestre": "**",
+     "cumul_4t": "98",
+     "var_cumul_4t": "6 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "35",
+     "var_trimestre": "20 %",
+     "cumul_4t": "31",
+     "var_cumul_4t": "-6 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "1 225 000 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "33",
+     "var_cumul_4t": "-27"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "123",
+     "var_trimestre": "-6 %",
+     "cumul_4t": "586",
+     "var_cumul_4t": "-5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "365",
+     "var_trimestre": "5 %",
+     "cumul_4t": "355",
+     "var_cumul_4t": "24 %"
+    },
+    "Prix médian": {
+     "trimestre": "617 000 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "601 750 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "61",
+     "var_trimestre": "3",
+     "cumul_4t": "60",
+     "var_cumul_4t": "6"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "21",
+     "var_trimestre": "**",
+     "cumul_4t": "106",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "54",
+     "var_trimestre": "8 %",
+     "cumul_4t": "49",
+     "var_cumul_4t": "-2 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "947 762 $",
+     "var_cumul_4t": "-3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "47",
+     "var_cumul_4t": "5"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "70 377"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-ville-marie",
+   "nom": "Montréal (Ville-Marie)",
+   "slug": "montreal-ville-marie",
+   "libelle": "rce : Recensement 2021, Statistique Canada Montréal (Ville-Marie), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "311",
+     "var_trimestre": "-19 %",
+     "cumul_4t": "1 598",
+     "var_cumul_4t": "-8 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "1 180",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "5 247",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2 368",
+     "var_trimestre": "0 %",
+     "cumul_4t": "2 326",
+     "var_cumul_4t": "5 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "190 839",
+     "var_trimestre": "-27 %",
+     "cumul_4t": "990 839",
+     "var_cumul_4t": "-13 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "49",
+     "var_cumul_4t": "-12 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "70",
+     "var_trimestre": "29 %",
+     "cumul_4t": "67",
+     "var_cumul_4t": "15 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "1 265 562 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "79",
+     "var_cumul_4t": "-3"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "289",
+     "var_trimestre": "-16 %",
+     "cumul_4t": "1 468",
+     "var_cumul_4t": "-8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2 203",
+     "var_trimestre": "0 %",
+     "cumul_4t": "2 171",
+     "var_cumul_4t": "5 %"
+    },
+    "Prix médian": {
+     "trimestre": "442 500 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "458 662 $",
+     "var_cumul_4t": "-2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "92",
+     "var_trimestre": "8",
+     "cumul_4t": "90",
+     "var_cumul_4t": "2"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "12",
+     "var_trimestre": "**",
+     "cumul_4t": "81",
+     "var_cumul_4t": "-14 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "95",
+     "var_trimestre": "15 %",
+     "cumul_4t": "86",
+     "var_cumul_4t": "16 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "979 375 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "77",
+     "var_cumul_4t": "11"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "104 944"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-villeray-saint-michel-parc-extension",
+   "nom": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+   "slug": "montreal-villeray-saint-michel-parc-extension",
+   "libelle": "tatistique Canada Montréal (Villeray/Saint-Michel/Parc-Extension), Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "126",
+     "var_trimestre": "-26 %",
+     "cumul_4t": "665",
+     "var_cumul_4t": "-15 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "301",
+     "var_trimestre": "1 %",
+     "cumul_4t": "1 183",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "313",
+     "var_trimestre": "10 %",
+     "cumul_4t": "274",
+     "var_cumul_4t": "-2 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "101 511",
+     "var_trimestre": "-13 %",
+     "cumul_4t": "492 721",
+     "var_cumul_4t": "-10 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "20",
+     "var_trimestre": "**",
+     "cumul_4t": "90",
+     "var_cumul_4t": "-19 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "30",
+     "var_trimestre": "-16 %",
+     "cumul_4t": "31",
+     "var_cumul_4t": "-11 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "738 500 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "37",
+     "var_cumul_4t": "-4"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "47",
+     "var_trimestre": "-33 %",
+     "cumul_4t": "291",
+     "var_cumul_4t": "-16 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "122",
+     "var_trimestre": "7 %",
+     "cumul_4t": "108",
+     "var_cumul_4t": "-1 %"
+    },
+    "Prix médian": {
+     "trimestre": "586 500 $",
+     "var_trimestre": "33 %",
+     "cumul_4t": "497 562 $",
+     "var_cumul_4t": "8 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "51",
+     "var_trimestre": "5",
+     "cumul_4t": "39",
+     "var_cumul_4t": "-4"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "59",
+     "var_trimestre": "-13 %",
+     "cumul_4t": "284",
+     "var_cumul_4t": "-13 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "160",
+     "var_trimestre": "19 %",
+     "cumul_4t": "134",
+     "var_cumul_4t": "0 %"
+    },
+    "Prix médian": {
+     "trimestre": "880 000 $",
+     "var_trimestre": "7 %",
+     "cumul_4t": "856 250 $",
+     "var_cumul_4t": "7 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "43",
+     "var_trimestre": "-2",
+     "cumul_4t": "49",
+     "var_cumul_4t": "-9"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "145 090"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/pointe-claire",
+   "nom": "Pointe-Claire",
+   "slug": "pointe-claire",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Pointe-Claire, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "95",
+     "var_trimestre": "18 %",
+     "cumul_4t": "350",
+     "var_cumul_4t": "-4 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "164",
+     "var_trimestre": "0 %",
+     "cumul_4t": "669",
+     "var_cumul_4t": "3 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "185",
+     "var_trimestre": "13 %",
+     "cumul_4t": "182",
+     "var_cumul_4t": "23 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "77 622",
+     "var_trimestre": "27 %",
+     "cumul_4t": "274 676",
+     "var_cumul_4t": "-2 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "64",
+     "var_trimestre": "18 %",
+     "cumul_4t": "230",
+     "var_cumul_4t": "-12 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "84",
+     "var_trimestre": "9 %",
+     "cumul_4t": "80",
+     "var_cumul_4t": "2 %"
+    },
+    "Prix médian": {
+     "trimestre": "759 500 $",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "741 050 $",
+     "var_cumul_4t": "-1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "29",
+     "var_trimestre": "-9",
+     "cumul_4t": "42",
+     "var_cumul_4t": "6"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "31",
+     "var_trimestre": "19 %",
+     "cumul_4t": "116",
+     "var_cumul_4t": "13 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "100",
+     "var_trimestre": "19 %",
+     "cumul_4t": "98",
+     "var_cumul_4t": "48 %"
+    },
+    "Prix médian": {
+     "trimestre": "582 500 $",
+     "var_trimestre": "-5 %",
+     "cumul_4t": "567 562 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "78",
+     "var_trimestre": "11",
+     "cumul_4t": "66",
+     "var_cumul_4t": "-5"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "33 488"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/sainte-anne-de-bellevue",
+   "nom": "Sainte-Anne-de-Bellevue",
+   "slug": "sainte-anne-de-bellevue",
+   "libelle": "ce : Recensement 2021, Statistique Canada Sainte-Anne-de-Bellevue, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "58",
+     "var_cumul_4t": "41 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "23",
+     "var_trimestre": "**",
+     "cumul_4t": "163",
+     "var_cumul_4t": "71 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "54",
+     "var_trimestre": "54 %",
+     "cumul_4t": "43",
+     "var_cumul_4t": "22 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "44 090",
+     "var_cumul_4t": "48 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "36",
+     "var_cumul_4t": "89 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "13",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "773 750 $",
+     "var_cumul_4t": "20 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "31",
+     "var_cumul_4t": "-6"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "17",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "33",
+     "var_trimestre": "83 %",
+     "cumul_4t": "24",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "5 027"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/senneville",
+   "nom": "Senneville",
+   "slug": "senneville",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Senneville, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "20",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "951"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/westmount",
+   "nom": "Westmount",
+   "slug": "westmount",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Westmount, Montréal (Île)",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "56",
+     "var_trimestre": "9 %",
+     "cumul_4t": "245",
+     "var_cumul_4t": "0 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "98",
+     "var_trimestre": "-22 %",
+     "cumul_4t": "469",
+     "var_cumul_4t": "-2 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "223",
+     "var_trimestre": "-6 %",
+     "cumul_4t": "217",
+     "var_cumul_4t": "0 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "134 043",
+     "var_trimestre": "19 %",
+     "cumul_4t": "564 160",
+     "var_cumul_4t": "4 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "41",
+     "var_trimestre": "7 %",
+     "cumul_4t": "169",
+     "var_cumul_4t": "1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "136",
+     "var_trimestre": "-1 %",
+     "cumul_4t": "130",
+     "var_cumul_4t": "5 %"
+    },
+    "Prix médian": {
+     "trimestre": "2 525 000 $",
+     "var_trimestre": "24 %",
+     "cumul_4t": "2 257 500 $",
+     "var_cumul_4t": "7 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "102",
+     "var_trimestre": "6",
+     "cumul_4t": "97",
+     "var_cumul_4t": "-1"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "68",
+     "var_cumul_4t": "-6 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "71",
+     "var_trimestre": "-20 %",
+     "cumul_4t": "76",
+     "var_cumul_4t": "-6 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "950 481 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "121",
+     "var_cumul_4t": "49"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "19 658"
+   }
+  }
+ ]
+}

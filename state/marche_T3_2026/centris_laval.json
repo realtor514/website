@@ -1,0 +1,1616 @@
+{
+ "source": "Centris, statistiques immobilieres",
+ "region": "laval",
+ "consulte": "2026-10-19",
+ "pages": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval",
+   "nom": "laval",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "848",
+     "var_trimestre": "-15 %",
+     "cumul_4t": "4 098",
+     "var_cumul_4t": "-8 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "1 660",
+     "var_trimestre": "6 %",
+     "cumul_4t": "6 635",
+     "var_cumul_4t": "2 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1 545",
+     "var_trimestre": "10 %",
+     "cumul_4t": "1 446",
+     "var_cumul_4t": "5 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "559 064",
+     "var_trimestre": "-10 %",
+     "cumul_4t": "2 659 150",
+     "var_cumul_4t": "-1 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "547",
+     "var_trimestre": "-8 %",
+     "cumul_4t": "2 521",
+     "var_cumul_4t": "-7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "792",
+     "var_trimestre": "17 %",
+     "cumul_4t": "726",
+     "var_cumul_4t": "5 %"
+    },
+    "Prix médian": {
+     "trimestre": "630 000 $",
+     "var_trimestre": "5 %",
+     "cumul_4t": "629 750 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "36",
+     "var_trimestre": "-2",
+     "cumul_4t": "35",
+     "var_cumul_4t": "-3"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "236",
+     "var_trimestre": "-26 %",
+     "cumul_4t": "1 262",
+     "var_cumul_4t": "-11 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "623",
+     "var_trimestre": "3 %",
+     "cumul_4t": "596",
+     "var_cumul_4t": "7 %"
+    },
+    "Prix médian": {
+     "trimestre": "439 999 $",
+     "var_trimestre": "3 %",
+     "cumul_4t": "428 349 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "57",
+     "var_trimestre": "3",
+     "cumul_4t": "54",
+     "var_cumul_4t": "-2"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "65",
+     "var_trimestre": "-20 %",
+     "cumul_4t": "314",
+     "var_cumul_4t": "1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "127",
+     "var_trimestre": "4 %",
+     "cumul_4t": "120",
+     "var_cumul_4t": "-2 %"
+    },
+    "Prix médian": {
+     "trimestre": "890 000 $",
+     "var_trimestre": "2 %",
+     "cumul_4t": "872 625 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "58",
+     "var_trimestre": "7",
+     "cumul_4t": "50",
+     "var_cumul_4t": "-12"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "438 366"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-auteuil",
+   "nom": "Laval (Auteuil)",
+   "slug": "laval-auteuil",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval (Auteuil), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "71",
+     "var_trimestre": "-8 %",
+     "cumul_4t": "345",
+     "var_cumul_4t": "3 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "129",
+     "var_trimestre": "8 %",
+     "cumul_4t": "518",
+     "var_cumul_4t": "2 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "104",
+     "var_trimestre": "13 %",
+     "cumul_4t": "95",
+     "var_cumul_4t": "1 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "45 765",
+     "var_trimestre": "-6 %",
+     "cumul_4t": "226 925",
+     "var_cumul_4t": "14 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "55",
+     "var_trimestre": "-11 %",
+     "cumul_4t": "255",
+     "var_cumul_4t": "4 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "76",
+     "var_trimestre": "5 %",
+     "cumul_4t": "71",
+     "var_cumul_4t": "5 %"
+    },
+    "Prix médian": {
+     "trimestre": "640 000 $",
+     "var_trimestre": "2 %",
+     "cumul_4t": "640 625 $",
+     "var_cumul_4t": "7 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "31",
+     "var_trimestre": "-7",
+     "cumul_4t": "35",
+     "var_cumul_4t": "2"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "73",
+     "var_cumul_4t": "-5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "22",
+     "var_trimestre": "**",
+     "cumul_4t": "19",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "403 750 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "32",
+     "var_cumul_4t": "1"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "16",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "28 905"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-chomedey",
+   "nom": "Laval (Chomedey)",
+   "slug": "laval-chomedey",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval (Chomedey), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "211",
+     "var_trimestre": "-22 %",
+     "cumul_4t": "1 043",
+     "var_cumul_4t": "-11 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "479",
+     "var_trimestre": "1 %",
+     "cumul_4t": "1 862",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "496",
+     "var_trimestre": "8 %",
+     "cumul_4t": "458",
+     "var_cumul_4t": "6 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "131 208",
+     "var_trimestre": "-18 %",
+     "cumul_4t": "649 521",
+     "var_cumul_4t": "-4 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "79",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "387",
+     "var_cumul_4t": "-8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "123",
+     "var_trimestre": "19 %",
+     "cumul_4t": "115",
+     "var_cumul_4t": "7 %"
+    },
+    "Prix médian": {
+     "trimestre": "640 000 $",
+     "var_trimestre": "3 %",
+     "cumul_4t": "641 812 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "34",
+     "var_trimestre": "-1",
+     "cumul_4t": "36",
+     "var_cumul_4t": "-3"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "114",
+     "var_trimestre": "-26 %",
+     "cumul_4t": "556",
+     "var_cumul_4t": "-16 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "333",
+     "var_trimestre": "8 %",
+     "cumul_4t": "302",
+     "var_cumul_4t": "7 %"
+    },
+    "Prix médian": {
+     "trimestre": "450 000 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "447 250 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "59",
+     "var_trimestre": "5",
+     "cumul_4t": "59",
+     "var_cumul_4t": "-2"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "18",
+     "var_trimestre": "**",
+     "cumul_4t": "100",
+     "var_cumul_4t": "5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "40",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "40",
+     "var_cumul_4t": "-4 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "922 000 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "45",
+     "var_cumul_4t": "-15"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "118 556"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-duvernay",
+   "nom": "Laval (Duvernay)",
+   "slug": "laval-duvernay",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval (Duvernay), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "68",
+     "var_trimestre": "-21 %",
+     "cumul_4t": "370",
+     "var_cumul_4t": "-12 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "152",
+     "var_trimestre": "23 %",
+     "cumul_4t": "569",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "124",
+     "var_trimestre": "7 %",
+     "cumul_4t": "112",
+     "var_cumul_4t": "-5 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "51 772",
+     "var_trimestre": "-10 %",
+     "cumul_4t": "264 199",
+     "var_cumul_4t": "-4 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "47",
+     "var_trimestre": "-9 %",
+     "cumul_4t": "252",
+     "var_cumul_4t": "-4 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "64",
+     "var_trimestre": "-8 %",
+     "cumul_4t": "68",
+     "var_cumul_4t": "-6 %"
+    },
+    "Prix médian": {
+     "trimestre": "735 000 $",
+     "var_trimestre": "7 %",
+     "cumul_4t": "723 750 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "27",
+     "var_trimestre": "-18",
+     "cumul_4t": "34",
+     "var_cumul_4t": "-8"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "17",
+     "var_trimestre": "**",
+     "cumul_4t": "109",
+     "var_cumul_4t": "-24 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "51",
+     "var_trimestre": "21 %",
+     "cumul_4t": "39",
+     "var_cumul_4t": "-2 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "464 000 $",
+     "var_cumul_4t": "8 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "52",
+     "var_cumul_4t": "-14"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "37 460"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-fabreville",
+   "nom": "Laval (Fabreville)",
+   "slug": "laval-fabreville",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval (Fabreville), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "99",
+     "var_trimestre": "-18 %",
+     "cumul_4t": "502",
+     "var_cumul_4t": "-14 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "183",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "737",
+     "var_cumul_4t": "-9 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "152",
+     "var_trimestre": "-1 %",
+     "cumul_4t": "153",
+     "var_cumul_4t": "3 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "58 195",
+     "var_trimestre": "-17 %",
+     "cumul_4t": "285 637",
+     "var_cumul_4t": "-12 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "82",
+     "var_trimestre": "-18 %",
+     "cumul_4t": "397",
+     "var_cumul_4t": "-16 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "103",
+     "var_trimestre": "22 %",
+     "cumul_4t": "90",
+     "var_cumul_4t": "0 %"
+    },
+    "Prix médian": {
+     "trimestre": "560 000 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "566 125 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "30",
+     "var_trimestre": "-4",
+     "cumul_4t": "30",
+     "var_cumul_4t": "-4"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "12",
+     "var_trimestre": "**",
+     "cumul_4t": "90",
+     "var_cumul_4t": "-3 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "37",
+     "var_trimestre": "-39 %",
+     "cumul_4t": "52",
+     "var_cumul_4t": "4 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "397 100 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "52",
+     "var_cumul_4t": "4"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "15",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "47 872"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-ouest",
+   "nom": "Laval (Laval-Ouest)",
+   "slug": "laval-laval-ouest",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval (Laval-Ouest), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "30",
+     "var_trimestre": "-11 %",
+     "cumul_4t": "141",
+     "var_cumul_4t": "-7 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "50",
+     "var_trimestre": "8 %",
+     "cumul_4t": "216",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "47",
+     "var_trimestre": "20 %",
+     "cumul_4t": "43",
+     "var_cumul_4t": "4 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "13 975",
+     "var_trimestre": "-20 %",
+     "cumul_4t": "74 014",
+     "var_cumul_4t": "-8 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "23",
+     "var_trimestre": "**",
+     "cumul_4t": "114",
+     "var_cumul_4t": "-14 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "35",
+     "var_trimestre": "12 %",
+     "cumul_4t": "31",
+     "var_cumul_4t": "-8 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "479 312 $",
+     "var_cumul_4t": "-4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "31",
+     "var_cumul_4t": "-6"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "19",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "11 034"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-des-rapides",
+   "nom": "Laval (Laval-des-Rapides)",
+   "slug": "laval-laval-des-rapides",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval (Laval-des-Rapides), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "70",
+     "var_trimestre": "-28 %",
+     "cumul_4t": "329",
+     "var_cumul_4t": "-9 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "123",
+     "var_trimestre": "0 %",
+     "cumul_4t": "527",
+     "var_cumul_4t": "3 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "113",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "115",
+     "var_cumul_4t": "10 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "41 977",
+     "var_trimestre": "-20 %",
+     "cumul_4t": "184 339",
+     "var_cumul_4t": "-3 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "29",
+     "var_trimestre": "**",
+     "cumul_4t": "109",
+     "var_cumul_4t": "-12 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "23",
+     "var_trimestre": "**",
+     "cumul_4t": "23",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "638 000 $",
+     "var_cumul_4t": "4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "34",
+     "var_cumul_4t": "0"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "29",
+     "var_trimestre": "**",
+     "cumul_4t": "167",
+     "var_cumul_4t": "-14 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "74",
+     "var_trimestre": "0 %",
+     "cumul_4t": "73",
+     "var_cumul_4t": "19 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "374 375 $",
+     "var_cumul_4t": "4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "55",
+     "var_cumul_4t": "7"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "12",
+     "var_trimestre": "**",
+     "cumul_4t": "53",
+     "var_cumul_4t": "17 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "17",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "878 312 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "56",
+     "var_cumul_4t": "6"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "41 971"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-sur-le-lac",
+   "nom": "Laval (Laval-sur-le-Lac)",
+   "slug": "laval-laval-sur-le-lac",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval (Laval-sur-le-Lac), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "19",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "33",
+     "var_cumul_4t": "-25 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "19",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "10",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "10",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "879"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-pont-viau",
+   "nom": "Laval (Pont-Viau)",
+   "slug": "laval-pont-viau",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval (Pont-Viau), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "25",
+     "var_trimestre": "**",
+     "cumul_4t": "121",
+     "var_cumul_4t": "7 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "53",
+     "var_trimestre": "23 %",
+     "cumul_4t": "190",
+     "var_cumul_4t": "17 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "44",
+     "var_trimestre": "41 %",
+     "cumul_4t": "36",
+     "var_cumul_4t": "16 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "73 802",
+     "var_cumul_4t": "7 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "58",
+     "var_cumul_4t": "-1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "16",
+     "var_trimestre": "**",
+     "cumul_4t": "15",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "532 250 $",
+     "var_cumul_4t": "-7 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "36",
+     "var_cumul_4t": "7"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "27",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "10",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "36",
+     "var_cumul_4t": "16 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "12",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "802 875 $",
+     "var_cumul_4t": "4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "46",
+     "var_cumul_4t": "-19"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "14 608"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-saint-francois",
+   "nom": "Laval (Saint-François)",
+   "slug": "laval-saint-francois",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval (Saint-François), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "36",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "151",
+     "var_cumul_4t": "-11 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "61",
+     "var_trimestre": "-11 %",
+     "cumul_4t": "247",
+     "var_cumul_4t": "-1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "59",
+     "var_trimestre": "13 %",
+     "cumul_4t": "54",
+     "var_cumul_4t": "5 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "20 062",
+     "var_trimestre": "-13 %",
+     "cumul_4t": "88 358",
+     "var_cumul_4t": "-2 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "35",
+     "var_trimestre": "-5 %",
+     "cumul_4t": "140",
+     "var_cumul_4t": "-8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "52",
+     "var_trimestre": "18 %",
+     "cumul_4t": "47",
+     "var_cumul_4t": "4 %"
+    },
+    "Prix médian": {
+     "trimestre": "542 500 $",
+     "var_trimestre": "1 %",
+     "cumul_4t": "541 437 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "43",
+     "var_trimestre": "-7",
+     "cumul_4t": "37",
+     "var_cumul_4t": "-13"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "14 950"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-saint-vincent-de-paul",
+   "nom": "Laval (Saint-Vincent-de-Paul)",
+   "slug": "laval-saint-vincent-de-paul",
+   "libelle": "ource : Recensement 2021, Statistique Canada Laval (Saint-Vincent-de-Paul), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "26",
+     "var_trimestre": "**",
+     "cumul_4t": "107",
+     "var_cumul_4t": "-21 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "48",
+     "var_trimestre": "26 %",
+     "cumul_4t": "183",
+     "var_cumul_4t": "8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "47",
+     "var_trimestre": "34 %",
+     "cumul_4t": "38",
+     "var_cumul_4t": "22 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "68 720",
+     "var_cumul_4t": "-14 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "65",
+     "var_cumul_4t": "-28 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "30",
+     "var_trimestre": "50 %",
+     "cumul_4t": "23",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "584 187 $",
+     "var_cumul_4t": "4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "35",
+     "var_cumul_4t": "6"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "26",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "16",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "15 194"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-sainte-dorothee",
+   "nom": "Laval (Sainte-Dorothée)",
+   "slug": "laval-sainte-dorothee",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval (Sainte-Dorothée), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "67",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "311",
+     "var_cumul_4t": "-14 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "144",
+     "var_trimestre": "6 %",
+     "cumul_4t": "559",
+     "var_cumul_4t": "-1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "147",
+     "var_trimestre": "13 %",
+     "cumul_4t": "138",
+     "var_cumul_4t": "-3 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "58 422",
+     "var_trimestre": "-9 %",
+     "cumul_4t": "268 605",
+     "var_cumul_4t": "-3 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "54",
+     "var_trimestre": "-3 %",
+     "cumul_4t": "226",
+     "var_cumul_4t": "-14 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "112",
+     "var_trimestre": "23 %",
+     "cumul_4t": "97",
+     "var_cumul_4t": "-2 %"
+    },
+    "Prix médian": {
+     "trimestre": "728 400 $",
+     "var_trimestre": "5 %",
+     "cumul_4t": "756 787 $",
+     "var_cumul_4t": "7 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "48",
+     "var_trimestre": "-1",
+     "cumul_4t": "46",
+     "var_cumul_4t": "-2"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "12",
+     "var_trimestre": "**",
+     "cumul_4t": "75",
+     "var_cumul_4t": "-13 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "30",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "36",
+     "var_cumul_4t": "-5 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "509 000 $",
+     "var_cumul_4t": "-2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "66",
+     "var_cumul_4t": "-14"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "10",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "38 520"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-sainte-rose",
+   "nom": "Laval (Sainte-Rose)",
+   "slug": "laval-sainte-rose",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval (Sainte-Rose), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "84",
+     "var_trimestre": "21 %",
+     "cumul_4t": "380",
+     "var_cumul_4t": "12 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "150",
+     "var_trimestre": "44 %",
+     "cumul_4t": "607",
+     "var_cumul_4t": "36 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "125",
+     "var_trimestre": "60 %",
+     "cumul_4t": "108",
+     "var_cumul_4t": "36 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "58 311",
+     "var_trimestre": "19 %",
+     "cumul_4t": "257 994",
+     "var_cumul_4t": "16 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "71",
+     "var_trimestre": "31 %",
+     "cumul_4t": "302",
+     "var_cumul_4t": "13 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "100",
+     "var_trimestre": "72 %",
+     "cumul_4t": "83",
+     "var_cumul_4t": "43 %"
+    },
+    "Prix médian": {
+     "trimestre": "670 000 $",
+     "var_trimestre": "2 %",
+     "cumul_4t": "650 968 $",
+     "var_cumul_4t": "4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "39",
+     "var_trimestre": "0",
+     "cumul_4t": "34",
+     "var_cumul_4t": "-1"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "46",
+     "var_cumul_4t": "21 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "16",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "447 112 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "29",
+     "var_cumul_4t": "-4"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "32",
+     "var_cumul_4t": "-5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "891 500 $",
+     "var_cumul_4t": "4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "43",
+     "var_cumul_4t": "-20"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "37 408"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-vimont",
+   "nom": "Laval (Vimont)",
+   "slug": "laval-vimont",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Laval (Vimont), Laval",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "58",
+     "var_trimestre": "-20 %",
+     "cumul_4t": "279",
+     "var_cumul_4t": "-5 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "83",
+     "var_trimestre": "-7 %",
+     "cumul_4t": "387",
+     "var_cumul_4t": "-1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "67",
+     "var_trimestre": "-9 %",
+     "cumul_4t": "69",
+     "var_cumul_4t": "0 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "41 230",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "178 117",
+     "var_cumul_4t": "0 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "47",
+     "var_trimestre": "-9 %",
+     "cumul_4t": "207",
+     "var_cumul_4t": "-8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "43",
+     "var_trimestre": "-10 %",
+     "cumul_4t": "44",
+     "var_cumul_4t": "-4 %"
+    },
+    "Prix médian": {
+     "trimestre": "700 000 $",
+     "var_trimestre": "22 %",
+     "cumul_4t": "644 112 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "31",
+     "var_trimestre": "-8",
+     "cumul_4t": "30",
+     "var_cumul_4t": "-4"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "59",
+     "var_cumul_4t": "-3 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "19",
+     "var_trimestre": "**",
+     "cumul_4t": "19",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "371 500 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "47",
+     "var_cumul_4t": "4"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "13",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "31 009"
+   }
+  }
+ ]
+}

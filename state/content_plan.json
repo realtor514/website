@@ -9298,6 +9298,672 @@
    "status": "written_draft",
    "published_path": "content/fr/articles/toit-vert-toit-reflechissant-montreal-reglement.md",
    "date": "2026-09-26"
+  },
+  {
+   "id": "t239",
+   "topic": "Marche immobilier a Laval par secteur: les 13 quartiers compares au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier laval",
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "Article synthese de la serie Laval. Le tableau des 13 quartiers Centris de Laval au 3e trimestre 2026: ventes et variation, prix median de l unifamiliale au trimestre ou sur 4 trimestres quand Centris ne publie pas le trimestre, jours sur le marche. Les ecarts entre quartiers (Duvernay et Sainte-Dorothee en haut, Saint-Francois et Fabreville en bas, a verifier), la copropriete et le plex a l echelle de Laval, le contexte (taux directeur, communique APCIQ de septembre 2026, droits de mutation, role d evaluation, zones inondables), et une section qui presente les six secteurs de la Ville par leur nom, sans lien. Les six secteurs sont ceux de la Ville de Laval, tels que listes dans l article acheter-laval-2025.",
+   "planned_h2": [
+    "Laval au 3e trimestre 2026: moins de ventes, prix medians en hausse",
+    "Les 13 quartiers de Laval compares",
+    "Copropriete et plex: deux marches distincts",
+    "Ce qui pese sur le marche de Laval cet automne",
+    "Les six secteurs de Laval, un par un",
+    "Lire ces chiffres sans se tromper",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-laval-secteurs",
+   "distinct_de": [
+    "acheter-laval-2025",
+    "marche-immobilier-montreal",
+    "acheter-fin-ete-montreal-donnees"
+   ],
+   "region": "laval",
+   "quartiers_centris": [
+    "laval",
+    "laval-auteuil",
+    "laval-chomedey",
+    "laval-duvernay",
+    "laval-fabreville",
+    "laval-laval-ouest",
+    "laval-laval-des-rapides",
+    "laval-laval-sur-le-lac",
+    "laval-pont-viau",
+    "laval-saint-francois",
+    "laval-saint-vincent-de-paul",
+    "laval-sainte-dorothee",
+    "laval-sainte-rose",
+    "laval-vimont"
+   ],
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-laval-secteurs.md",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "t240",
+   "topic": "Marche immobilier dans l est de Laval: Duvernay, Saint-Vincent-de-Paul et Saint-Francois au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier duvernay laval",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Secteur 1 de la Ville de Laval. Trois quartiers aux profils opposes dans un meme secteur: Duvernay, prix median de l unifamiliale parmi les plus eleves de Laval, et Saint-Francois parmi les plus bas, avec Saint-Vincent-de-Paul entre les deux. Pistes d actualite a verifier a la source officielle: le prolongement du SRB Pie-IX vers Laval, la zone agricole de l est de Laval, les zones inondables le long des rivieres des Prairies et des Mille Iles, tout projet municipal du secteur. Le bureau de Georges est a Duvernay: n en tirez aucune affirmation sur son activite.",
+   "planned_h2": [
+    "L est de Laval en chiffres au 3e trimestre 2026",
+    "Duvernay, Saint-Vincent-de-Paul, Saint-Francois: trois marches",
+    "Ce qui a change en un an",
+    "Ce qui bouge dans l est de Laval",
+    "Vendre dans l est de Laval",
+    "Acheter dans l est de Laval",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-est-de-laval-duvernay",
+   "distinct_de": [
+    "acheter-laval-2025"
+   ],
+   "region": "laval",
+   "quartiers_centris": [
+    "laval-duvernay",
+    "laval-saint-vincent-de-paul",
+    "laval-saint-francois"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-est-de-laval-duvernay.md",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "t241",
+   "topic": "Marche immobilier a Pont-Viau et Laval-des-Rapides au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier laval-des-rapides",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Secteur 2 de la Ville de Laval (Pont-Viau, Laval-des-Rapides, Renaud-Coupal; Centris ne publie que Pont-Viau et Laval-des-Rapides). Le secteur le plus proche de Montreal, desservi par les trois stations de metro de Laval: plex et copropriete y pesent plus qu ailleurs, et Centris ne publie pas plusieurs medianes trimestrielles faute de ventes, ce que l article doit expliquer en utilisant le cumul de 4 trimestres. Pistes d actualite a verifier: projets d urbanisme du centre-ville de Laval et des abords des stations de metro, zones inondables de la riviere des Prairies, taux d inoccupation SCHL de la zone.",
+   "planned_h2": [
+    "Pont-Viau et Laval-des-Rapides en chiffres",
+    "Un marche de plex et de copropriete",
+    "Pourquoi certaines medianes manquent",
+    "Ce qui bouge pres du metro",
+    "Vendre a Pont-Viau ou a Laval-des-Rapides",
+    "Acheter dans le secteur",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-pont-viau-laval-des-rapides",
+   "distinct_de": [
+    "acheter-laval-2025",
+    "investir-triplex-laval"
+   ],
+   "region": "laval",
+   "quartiers_centris": [
+    "laval-pont-viau",
+    "laval-laval-des-rapides"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-pont-viau-laval-des-rapides.md",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "t242",
+   "topic": "Marche immobilier a Chomedey (Laval) au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier chomedey",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Secteur 3 de la Ville de Laval, un seul quartier, le plus peuple de Laval et celui qui compte le plus de ventes. La copropriete y represente plus de la moitie des ventes du trimestre: l article doit traiter la copropriete aussi serieusement que l unifamiliale (inventaire en hausse, jours sur le marche). Pistes d actualite a verifier: projets d urbanisme du centre-ville de Laval qui touchent Chomedey, grands axes et chantiers, taux d inoccupation SCHL de la zone, zones inondables le long de la riviere des Prairies.",
+   "planned_h2": [
+    "Chomedey en chiffres au 3e trimestre 2026",
+    "La copropriete, premier marche de Chomedey",
+    "L unifamiliale et le plex",
+    "Ce qui a change en un an",
+    "Ce qui bouge a Chomedey",
+    "Vendre ou acheter a Chomedey",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-chomedey-laval",
+   "distinct_de": [
+    "acheter-laval-2025"
+   ],
+   "region": "laval",
+   "quartiers_centris": [
+    "laval-chomedey"
+   ],
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-chomedey-laval.md",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "t243",
+   "topic": "Marche immobilier a Sainte-Dorothee et dans l ouest de Laval au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier sainte-dorothee",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Secteur 4 de la Ville de Laval: Sainte-Dorothee, Laval-Ouest, Laval-sur-le-Lac, Les Iles-Laval et Fabreville-Ouest. Centris publie Sainte-Dorothee, Laval-Ouest et Laval-sur-le-Lac; Fabreville n y est pas decoupe, il est traite dans l article Sainte-Rose et Fabreville, dites-le. Le secteur le plus riverain: les zones inondables sont un sujet central, a traiter avec le cadre en vigueur et les cartes applicables. Laval-sur-le-Lac a trop peu de ventes pour une statistique: dites-le au lieu d extrapoler. Pistes d actualite a verifier: les stations du REM dans le secteur et leur statut au 19 octobre 2026, la gare exo, tout projet municipal. Ne repetez pas l article marche-haut-de-gamme-montreal-laval-donnees, qui traite deja la tranche superieure du secteur 20 de l APCIQ.",
+   "planned_h2": [
+    "L ouest de Laval en chiffres",
+    "Sainte-Dorothee, Laval-Ouest, Laval-sur-le-Lac",
+    "Ce qui a change en un an",
+    "L eau, sujet central de l ouest de Laval",
+    "Le transport: ce qui est en service",
+    "Vendre ou acheter dans l ouest de Laval",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-sainte-dorothee-laval-ouest",
+   "distinct_de": [
+    "acheter-laval-2025",
+    "marche-haut-de-gamme-montreal-laval-donnees",
+    "acheter-zone-inondable-quebec"
+   ],
+   "region": "laval",
+   "quartiers_centris": [
+    "laval-sainte-dorothee",
+    "laval-laval-ouest",
+    "laval-laval-sur-le-lac"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-sainte-dorothee-laval-ouest.md",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "t244",
+   "topic": "Marche immobilier a Sainte-Rose et Fabreville (Laval) au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier sainte-rose laval",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Secteur 5 de la Ville de Laval: Sainte-Rose et Fabreville-Est. Centris ne decoupe pas Fabreville: ses chiffres couvrent tout Fabreville, y compris la partie ouest rattachee au secteur 4, dites-le. Deux quartiers voisins aux prix medians eloignes, a expliquer par les donnees seulement. Pistes d actualite a verifier: la gare Sainte-Rose de la ligne exo Saint-Jerome, le Vieux-Sainte-Rose et les regles patrimoniales qui s y appliquent, les zones inondables de la riviere des Mille Iles, tout projet municipal du secteur.",
+   "planned_h2": [
+    "Sainte-Rose et Fabreville en chiffres",
+    "Deux quartiers voisins, deux niveaux de prix",
+    "Ce qui a change en un an",
+    "Ce qui bouge dans le secteur",
+    "Vendre a Sainte-Rose ou a Fabreville",
+    "Acheter dans le secteur",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-sainte-rose-fabreville-laval",
+   "distinct_de": [
+    "acheter-laval-2025"
+   ],
+   "region": "laval",
+   "quartiers_centris": [
+    "laval-sainte-rose",
+    "laval-fabreville"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-sainte-rose-fabreville-laval.md",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "t245",
+   "topic": "Marche immobilier a Vimont et Auteuil (Laval) au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier vimont auteuil",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Secteur 6 de la Ville de Laval: Vimont et Auteuil, au centre-nord de l ile. Pistes d actualite a verifier a la source officielle: le chantier de l autoroute 19 et son statut au 19 octobre 2026 selon le ministere des Transports, la gare Vimont de la ligne exo Saint-Jerome, les developpements residentiels et le zonage, les zones inondables de la riviere des Mille Iles cote Auteuil. Comparer les deux quartiers par les donnees, et dire ce que les donnees ne permettent pas de conclure.",
+   "planned_h2": [
+    "Vimont et Auteuil en chiffres",
+    "Deux quartiers compares",
+    "Ce qui a change en un an",
+    "Ce qui bouge dans le secteur",
+    "Vendre a Vimont ou a Auteuil",
+    "Acheter dans le secteur",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-vimont-auteuil-laval",
+   "distinct_de": [
+    "acheter-laval-2025"
+   ],
+   "region": "laval",
+   "quartiers_centris": [
+    "laval-vimont",
+    "laval-auteuil"
+   ],
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-vimont-auteuil-laval.md",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "t246",
+   "topic": "Marche immobilier de Montreal par arrondissement: les 34 territoires de l ile compares au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier montreal par arrondissement",
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "Article synthese de la serie Montreal. Le tableau des 19 arrondissements et 15 villes liees de l ile selon Centris au 3e trimestre 2026: ventes et variation, prix median de la copropriete et de l unifamiliale au trimestre ou sur 4 trimestres, jours sur le marche. Sur l ile, la copropriete domine et l unifamiliale manque souvent de ventes pour une mediane trimestrielle: expliquez-le. Contexte a verifier: droits de mutation de Montreal et des villes liees, role d evaluation 2026-2028 et variations publiees par arrondissement, taux d inoccupation SCHL, chantiers de transport. Une section presente les neuf secteurs de la serie par leur nom, sans lien. Ne repetez pas l article marche-immobilier-montreal, qui explique comment lire les indicateurs avec les donnees d aout.",
+   "planned_h2": [
+    "L ile de Montreal au 3e trimestre 2026",
+    "Les arrondissements et les villes liees compares",
+    "Copropriete, unifamiliale, plex: trois marches",
+    "Ce qui pese sur le marche montrealais cet automne",
+    "Les neuf secteurs de l ile, un par un",
+    "Lire ces chiffres sans se tromper",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-montreal-arrondissements",
+   "distinct_de": [
+    "marche-immobilier-montreal",
+    "acheter-fin-ete-montreal-donnees",
+    "best-neighborhoods-montreal"
+   ],
+   "region": "montreal-ile",
+   "quartiers_centris": [
+    "REGION montreal-ile",
+    "et les 34 territoires du fichier"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t247",
+   "topic": "Marche immobilier a Ville-Marie et au Plateau-Mont-Royal au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier plateau mont-royal",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le centre de l ile: Ville-Marie, premier territoire de l ile pour le nombre de ventes, et le Plateau-Mont-Royal. Un marche de copropriete et de plex, ou l unifamiliale n a pas de mediane trimestrielle. Pistes a verifier a la source officielle: les regles de location a court terme de Montreal et leur application dans ces arrondissements, l inventaire de copropriete du centre-ville, les projets d urbanisme ou de logement annonces, la variation du role 2026-2028 publiee pour ces arrondissements.",
+   "planned_h2": [
+    "Ville-Marie et le Plateau en chiffres",
+    "Un marche de copropriete",
+    "Le plex au Plateau",
+    "Ce qui a change en un an",
+    "Ce qui bouge au centre de Montreal",
+    "Vendre ou acheter au centre",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-ville-marie-plateau-montreal",
+   "distinct_de": [
+    "marche-immobilier-montreal",
+    "location-court-terme-quebec-regles",
+    "condo-vs-house-montreal"
+   ],
+   "region": "montreal-ile",
+   "quartiers_centris": [
+    "montreal-ville-marie",
+    "montreal-le-plateau-mont-royal"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t248",
+   "topic": "Marche immobilier a Rosemont et Villeray au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier rosemont",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Rosemont-La Petite-Patrie et Villeray-Saint-Michel-Parc-Extension, deux arrondissements de plex et de copropriete. Pistes a verifier: le chantier du prolongement de la ligne bleue, dont le depart est a la station Saint-Michel, et son echeancier officiel; les regles montrealaises sur la conversion de plex en copropriete divise; le taux d inoccupation SCHL de ces zones pour les acheteurs de plex; la variation du role 2026-2028 publiee pour ces arrondissements.",
+   "planned_h2": [
+    "Rosemont et Villeray en chiffres",
+    "Le plex, marche central du secteur",
+    "La copropriete",
+    "Ce qui a change en un an",
+    "Ce qui bouge dans le secteur",
+    "Vendre ou acheter a Rosemont ou a Villeray",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-rosemont-villeray-montreal",
+   "distinct_de": [
+    "triplex-vs-condo-montreal",
+    "maximiser-valeur-plex-montreal",
+    "proprietaire-occupant-plex-reprise"
+   ],
+   "region": "montreal-ile",
+   "quartiers_centris": [
+    "montreal-rosemont-la-petite-patrie",
+    "montreal-villeray-saint-michel-parc-extension"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t249",
+   "topic": "Marche immobilier dans l est de Montreal: Hochelaga, Anjou, Saint-Leonard au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier est de montreal",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Mercier-Hochelaga-Maisonneuve, Anjou, Saint-Leonard et la ville de Montreal-Est. Pistes a verifier: les futures stations de la ligne bleue a Saint-Leonard et Anjou et l echeancier officiel, le SRB Pie-IX, les projets structurants de l est annonces par la Ville ou le gouvernement et leur statut au 19 octobre 2026, les terrains contamines et la requalification industrielle, la variation du role 2026-2028 par arrondissement.",
+   "planned_h2": [
+    "L est de Montreal en chiffres",
+    "Quatre territoires compares",
+    "Ce qui a change en un an",
+    "La ligne bleue et les autres chantiers",
+    "Vendre dans l est de Montreal",
+    "Acheter dans l est de Montreal",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-est-de-montreal-hochelaga",
+   "distinct_de": [
+    "marche-immobilier-montreal"
+   ],
+   "region": "montreal-ile",
+   "quartiers_centris": [
+    "montreal-mercier-hochelaga-maisonneuve",
+    "montreal-anjou",
+    "montreal-saint-leonard",
+    "montreal-est"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t250",
+   "topic": "Marche immobilier a Ahuntsic-Cartierville et Montreal-Nord au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier ahuntsic",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le nord de l ile: Ahuntsic-Cartierville, ou l unifamiliale a une mediane trimestrielle elevee, et Montreal-Nord, parmi les prix les plus bas de l ile. Pistes a verifier: zones inondables de la riviere des Prairies, SRB Pie-IX a Montreal-Nord, projets d urbanisme annonces, variation du role 2026-2028 publiee pour ces arrondissements, taux d inoccupation SCHL.",
+   "planned_h2": [
+    "Le nord de l ile en chiffres",
+    "Ahuntsic-Cartierville et Montreal-Nord compares",
+    "Ce qui a change en un an",
+    "La riviere des Prairies et les zones inondables",
+    "Ce qui bouge dans le secteur",
+    "Vendre ou acheter dans le nord de l ile",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-ahuntsic-montreal-nord",
+   "distinct_de": [
+    "acheter-zone-inondable-quebec"
+   ],
+   "region": "montreal-ile",
+   "quartiers_centris": [
+    "montreal-ahuntsic-cartierville",
+    "montreal-montreal-nord"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t251",
+   "topic": "Marche immobilier a Riviere-des-Prairies et Pointe-aux-Trembles au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier pointe-aux-trembles",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "L arrondissement Riviere-des-Prairies-Pointe-aux-Trembles, a la pointe est de l ile, ou la mediane trimestrielle de l unifamiliale est parmi les plus basses de l ile: le secteur ou l unifamiliale reste le plus accessible sur l ile, chiffres a l appui. Pistes a verifier: les gares de la ligne exo Mascouche dans l arrondissement, tout projet de transport structurant dans l est et son statut au 19 octobre 2026, les zones inondables des rivieres des Prairies et du fleuve, la variation du role 2026-2028. Une page de quartier existe: /courtier-immobilier/riviere-des-prairies-montreal/.",
+   "planned_h2": [
+    "Riviere-des-Prairies et Pointe-aux-Trembles en chiffres",
+    "L unifamiliale la plus accessible de l ile",
+    "Ce qui a change en un an",
+    "Le transport: ce qui est en service et ce qui est annonce",
+    "L eau des deux cotes",
+    "Vendre ou acheter dans l arrondissement",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-riviere-des-prairies-pointe-aux-trembles-montreal",
+   "distinct_de": [
+    "acheter-zone-inondable-quebec"
+   ],
+   "region": "montreal-ile",
+   "quartiers_centris": [
+    "montreal-riviere-des-prairies-pointe-aux-trembles"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t252",
+   "topic": "Marche immobilier dans le Sud-Ouest, Verdun, LaSalle et Lachine au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier verdun",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le sud-ouest de l ile: Le Sud-Ouest, Verdun-Ile-des-Soeurs, LaSalle et Lachine. Le Sud-Ouest est parmi les premiers territoires de l ile pour le nombre de ventes, surtout en copropriete. Pistes a verifier: la station du REM a l Ile-des-Soeurs, les grands projets de requalification (par exemple Lachine-Est) et leur statut officiel, les projets de transport annonces pour Lachine, la variation du role 2026-2028 par arrondissement, le taux d inoccupation SCHL.",
+   "planned_h2": [
+    "Le sud-ouest de l ile en chiffres",
+    "Quatre arrondissements compares",
+    "La copropriete, moteur du secteur",
+    "Ce qui a change en un an",
+    "Ce qui bouge dans le sud-ouest",
+    "Vendre ou acheter dans le secteur",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-sud-ouest-verdun-lasalle-montreal",
+   "distinct_de": [
+    "marche-immobilier-montreal"
+   ],
+   "region": "montreal-ile",
+   "quartiers_centris": [
+    "montreal-le-sud-ouest",
+    "montreal-verdun-ile-des-soeurs",
+    "montreal-lasalle",
+    "montreal-lachine"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t253",
+   "topic": "Marche immobilier a Cote-des-Neiges, NDG, Outremont, Westmount et Mont-Royal au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier notre-dame-de-grace",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le centre-ouest: Cote-des-Neiges-Notre-Dame-de-Grace et Outremont (arrondissements), Westmount, Mont-Royal, Hampstead, Cote-Saint-Luc et Montreal-Ouest (villes liees). Les prix medians de l unifamiliale les plus eleves de l ile, avec Westmount en tete: presentez les ecarts sans superlatif. Les villes liees fixent leurs propres taxes et peuvent fixer leurs propres taux de droits de mutation: verifiez ville par ville. Pistes a verifier: les stations du REM a Mont-Royal, les grands projets residentiels annonces dans Cote-des-Neiges-NDG (par exemple l ancien hippodrome) et leur statut officiel, le role 2026-2028.",
+   "planned_h2": [
+    "Le centre-ouest en chiffres",
+    "Arrondissements et villes liees compares",
+    "Ce qui a change en un an",
+    "Taxes et droits de mutation: chaque ville decide",
+    "Ce qui bouge dans le secteur",
+    "Vendre ou acheter dans le centre-ouest",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-cote-des-neiges-ndg-westmount-montreal",
+   "distinct_de": [
+    "marche-haut-de-gamme-montreal-laval-donnees",
+    "taxe-de-bienvenue-quebec"
+   ],
+   "region": "montreal-ile",
+   "quartiers_centris": [
+    "montreal-cote-des-neiges-notre-dame-de-grace",
+    "montreal-outremont",
+    "westmount",
+    "mont-royal",
+    "hampstead",
+    "cote-saint-luc",
+    "montreal-ouest"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t254",
+   "topic": "Marche immobilier a Saint-Laurent et Dorval au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier saint-laurent montreal",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "L arrondissement Saint-Laurent et la ville de Dorval, autour du pole d emploi et de l aeroport. Pistes a verifier: les stations du REM dans Saint-Laurent et leur statut, l antenne du REM vers l aeroport et son echeancier officiel, les nouveaux quartiers residentiels de Saint-Laurent, les taxes et droits de mutation propres a Dorval, le role 2026-2028.",
+   "planned_h2": [
+    "Saint-Laurent et Dorval en chiffres",
+    "Deux territoires compares",
+    "Ce qui a change en un an",
+    "Le REM et l aeroport: ce qui est en service",
+    "Ce qui bouge dans le secteur",
+    "Vendre ou acheter a Saint-Laurent ou a Dorval",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-saint-laurent-dorval-montreal",
+   "distinct_de": [
+    "marche-immobilier-montreal"
+   ],
+   "region": "montreal-ile",
+   "quartiers_centris": [
+    "montreal-saint-laurent",
+    "dorval",
+    "l-ile-dorval"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t255",
+   "topic": "Marche immobilier dans l Ouest-de-l Ile de Montreal au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier ouest de l ile",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "L Ouest-de-l Ile: Pointe-Claire, Dollard-des-Ormeaux, Kirkland, Beaconsfield, Baie-D Urfe, Sainte-Anne-de-Bellevue, Senneville (villes liees) et Pierrefonds-Roxboro, L Ile-Bizard-Sainte-Genevieve (arrondissements). Un marche d unifamiliale, ou plusieurs territoires ont une mediane trimestrielle. Pistes a verifier: l antenne Anse-a-l Orme du REM, ses stations et son statut au 19 octobre 2026; les zones inondables de Pierrefonds-Roxboro et de L Ile-Bizard; les taxes et droits de mutation propres a chaque ville liee; le role 2026-2028.",
+   "planned_h2": [
+    "L Ouest-de-l Ile en chiffres",
+    "Neuf territoires compares",
+    "Ce qui a change en un an",
+    "Le REM dans l Ouest-de-l Ile",
+    "L eau: Pierrefonds-Roxboro et L Ile-Bizard",
+    "Vendre ou acheter dans l Ouest-de-l Ile",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-ouest-de-l-ile-montreal",
+   "distinct_de": [
+    "acheter-zone-inondable-quebec",
+    "banlieue-ou-ville-cout-reel-montreal"
+   ],
+   "region": "montreal-ile",
+   "quartiers_centris": [
+    "pointe-claire",
+    "dollard-des-ormeaux",
+    "kirkland",
+    "beaconsfield",
+    "baie-d-urfe",
+    "sainte-anne-de-bellevue",
+    "senneville",
+    "montreal-pierrefonds-roxboro",
+    "montreal-l-ile-bizard-sainte-genevieve"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t270",
+   "topic": "Marche immobilier a Longueuil par secteur: les trois arrondissements au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier longueuil",
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "Article synthese de la serie Longueuil. Centris publie Longueuil en trois arrondissements: Le Vieux-Longueuil, Saint-Hubert et Greenfield Park. Le tableau les compare, avec comme seuls points de repere le total de la Rive-Sud de Montreal et les quatre autres villes de l agglomeration (Brossard, Boucherville, Saint-Bruno-de-Montarville, Saint-Lambert), qui ne sont pas des secteurs de la serie. Contexte a verifier: droits de mutation de Longueuil, role d evaluation de l agglomeration de Longueuil et sa date de reference, projet de tramway sur le boulevard Taschereau et son statut officiel au 19 octobre 2026, metro et REM sur la Rive-Sud, zones inondables du fleuve. Une section presente les trois arrondissements par leur nom, sans lien.",
+   "planned_h2": [
+    "Longueuil au 3e trimestre 2026",
+    "Les trois arrondissements compares",
+    "Longueuil et ses voisines de l agglomeration",
+    "Ce qui pese sur le marche de Longueuil",
+    "Les trois secteurs, un par un",
+    "Lire ces chiffres sans se tromper",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-longueuil-secteurs",
+   "distinct_de": [
+    "rive-nord-guide-laval"
+   ],
+   "region": "montreal-rive-sud",
+   "quartiers_centris": [
+    "longueuil-le-vieux-longueuil",
+    "longueuil-saint-hubert",
+    "longueuil-greenfield-park",
+    "REGION montreal-rive-sud",
+    "brossard",
+    "boucherville",
+    "saint-bruno-de-montarville",
+    "saint-lambert-monteregie"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t271",
+   "topic": "Marche immobilier dans le Vieux-Longueuil au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier vieux-longueuil",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "L arrondissement du Vieux-Longueuil, premier des trois arrondissements pour le nombre de ventes. Attention au nom: pour Centris, Le Vieux-Longueuil est tout l arrondissement, y compris LeMoyne, pas seulement le vieux quartier historique; la page /courtier-immobilier/vieux-longueuil/ du site decrit peut-etre le quartier historique, verifiez et dites la difference. Pistes a verifier: le metro et les projets d urbanisme et de logement autour de la station Longueuil, le site patrimonial du Vieux-Longueuil et ses regles, les zones inondables du fleuve, le projet de tramway Taschereau s il touche l arrondissement.",
+   "planned_h2": [
+    "Le Vieux-Longueuil en chiffres",
+    "Unifamiliale, copropriete, plex",
+    "Ce qui a change en un an",
+    "Ce qui bouge dans l arrondissement",
+    "Le quartier historique: des regles a part",
+    "Vendre ou acheter dans le Vieux-Longueuil",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-vieux-longueuil",
+   "distinct_de": [
+    "acheter-maison-centenaire-quebec"
+   ],
+   "region": "montreal-rive-sud",
+   "quartiers_centris": [
+    "longueuil-le-vieux-longueuil"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t272",
+   "topic": "Marche immobilier a Saint-Hubert (Longueuil) au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier saint-hubert",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "L arrondissement de Saint-Hubert, ou la mediane de l unifamiliale est sous celle du Vieux-Longueuil au 3e trimestre 2026, chiffres a l appui. Pistes a verifier: l aeroport de Saint-Hubert et son developpement, avec le bruit des avions et les outils officiels pour le verifier; les gares exo de l arrondissement; le projet de tramway Taschereau; les nouveaux developpements residentiels et le zonage; le role d evaluation. Une page existe: /courtier-immobilier/saint-hubert-longueuil/; ne recopiez pas ses phrases.",
+   "planned_h2": [
+    "Saint-Hubert en chiffres",
+    "Unifamiliale, copropriete, plex",
+    "Ce qui a change en un an",
+    "L aeroport et le transport",
+    "Ce qui bouge dans l arrondissement",
+    "Vendre ou acheter a Saint-Hubert",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-saint-hubert-longueuil",
+   "distinct_de": [
+    "bruit-maison-condo-quebec"
+   ],
+   "region": "montreal-rive-sud",
+   "quartiers_centris": [
+    "longueuil-saint-hubert"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t273",
+   "topic": "Marche immobilier a Greenfield Park (Longueuil) au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier greenfield park",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "L arrondissement de Greenfield Park, le plus petit des trois: peu de ventes par trimestre, donc plusieurs statistiques trimestrielles que Centris ne publie pas. L article doit travailler avec le cumul de 4 trimestres et dire clairement ce que si peu de ventes permet et ne permet pas de conclure. Pistes a verifier: le statut bilingue de l arrondissement selon la Charte de la langue francaise et ce qu il change concretement pour les services municipaux, l hopital Charles-LeMoyne et le transport, le boulevard Taschereau et le projet de tramway, le role d evaluation.",
+   "planned_h2": [
+    "Greenfield Park en chiffres",
+    "Peu de ventes: ce que les chiffres permettent de dire",
+    "Ce qui a change en un an",
+    "Ce qui bouge dans l arrondissement",
+    "Greenfield Park et ses voisins",
+    "Vendre ou acheter a Greenfield Park",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-greenfield-park-longueuil",
+   "distinct_de": [],
+   "region": "montreal-rive-sud",
+   "quartiers_centris": [
+    "longueuil-greenfield-park"
+   ],
+   "status": "in_progress"
   }
  ],
  "lots": "les 4 lots de sujets de reference sont planifies"

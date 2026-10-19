@@ -1,0 +1,7822 @@
+{
+ "source": "Centris, statistiques immobilieres",
+ "region": "lanaudiere",
+ "consulte": "2026-10-19",
+ "pages": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere",
+   "nom": "lanaudiere",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "1 628",
+     "var_trimestre": "-10 %",
+     "cumul_4t": "7 430",
+     "var_cumul_4t": "-6 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "2 864",
+     "var_trimestre": "10 %",
+     "cumul_4t": "11 656",
+     "var_cumul_4t": "7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2 958",
+     "var_trimestre": "22 %",
+     "cumul_4t": "2 729",
+     "var_cumul_4t": "7 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "858 257",
+     "var_trimestre": "-7 %",
+     "cumul_4t": "3 907 191",
+     "var_cumul_4t": "0 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "1 292",
+     "var_trimestre": "-10 %",
+     "cumul_4t": "5 820",
+     "var_cumul_4t": "-5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2 312",
+     "var_trimestre": "22 %",
+     "cumul_4t": "2 111",
+     "var_cumul_4t": "6 %"
+    },
+    "Prix médian": {
+     "trimestre": "518 250 $",
+     "var_trimestre": "4 %",
+     "cumul_4t": "519 312 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "43",
+     "var_trimestre": "3",
+     "cumul_4t": "41",
+     "var_cumul_4t": "-8"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "265",
+     "var_trimestre": "0 %",
+     "cumul_4t": "1 199",
+     "var_cumul_4t": "-8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "392",
+     "var_trimestre": "30 %",
+     "cumul_4t": "393",
+     "var_cumul_4t": "24 %"
+    },
+    "Prix médian": {
+     "trimestre": "363 000 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "356 437 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "52",
+     "var_trimestre": "12",
+     "cumul_4t": "41",
+     "var_cumul_4t": "1"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "61",
+     "var_trimestre": "-42 %",
+     "cumul_4t": "380",
+     "var_cumul_4t": "-16 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "206",
+     "var_trimestre": "13 %",
+     "cumul_4t": "187",
+     "var_cumul_4t": "0 %"
+    },
+    "Prix médian": {
+     "trimestre": "670 000 $",
+     "var_trimestre": "11 %",
+     "cumul_4t": "657 725 $",
+     "var_cumul_4t": "9 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "35",
+     "var_trimestre": "-15",
+     "cumul_4t": "45",
+     "var_cumul_4t": "-19"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "528 598"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/baie-obaoca",
+   "nom": "Baie-Obaoca",
+   "slug": "baie-obaoca",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Baie-Obaoca, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "0"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/baie-de-la-bouteille",
+   "nom": "Baie-de-la-Bouteille",
+   "slug": "baie-de-la-bouteille",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Baie-de-la-Bouteille, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "10"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/berthierville",
+   "nom": "Berthierville",
+   "slug": "berthierville",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Berthierville, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "41",
+     "var_cumul_4t": "-21 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "16",
+     "var_trimestre": "**",
+     "cumul_4t": "63",
+     "var_cumul_4t": "-11 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "17",
+     "var_trimestre": "**",
+     "cumul_4t": "17",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "16 526",
+     "var_cumul_4t": "-18 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "33",
+     "var_cumul_4t": "-17 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "397 062 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "43",
+     "var_cumul_4t": "1"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "7",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "4 386"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/charlemagne",
+   "nom": "Charlemagne",
+   "slug": "charlemagne",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Charlemagne, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "78",
+     "var_cumul_4t": "-16 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "29",
+     "var_trimestre": "**",
+     "cumul_4t": "120",
+     "var_cumul_4t": "8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "30",
+     "var_trimestre": "76 %",
+     "cumul_4t": "25",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "38 027",
+     "var_cumul_4t": "-8 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "22",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "48",
+     "var_cumul_4t": "-9 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "367 250 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "51",
+     "var_cumul_4t": "13"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "6 302"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/chertsey",
+   "nom": "Chertsey",
+   "slug": "chertsey",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Chertsey, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "30",
+     "var_trimestre": "-42 %",
+     "cumul_4t": "155",
+     "var_cumul_4t": "-15 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "81",
+     "var_trimestre": "-17 %",
+     "cumul_4t": "293",
+     "var_cumul_4t": "-14 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "102",
+     "var_trimestre": "-13 %",
+     "cumul_4t": "91",
+     "var_cumul_4t": "-17 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "12 215",
+     "var_trimestre": "-44 %",
+     "cumul_4t": "59 995",
+     "var_cumul_4t": "-12 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "29",
+     "var_trimestre": "**",
+     "cumul_4t": "152",
+     "var_cumul_4t": "-17 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "100",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "90",
+     "var_cumul_4t": "-13 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "369 000 $",
+     "var_cumul_4t": "10 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "62",
+     "var_cumul_4t": "-5"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "5 295"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/crabtree",
+   "nom": "Crabtree",
+   "slug": "crabtree",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Crabtree, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "46",
+     "var_cumul_4t": "21 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "71",
+     "var_cumul_4t": "54 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "17",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "24 856",
+     "var_cumul_4t": "54 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "12",
+     "var_trimestre": "**",
+     "cumul_4t": "35",
+     "var_cumul_4t": "6 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "510 600 $",
+     "var_cumul_4t": "32 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "27",
+     "var_cumul_4t": "-10"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "4 155"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/entrelacs",
+   "nom": "Entrelacs",
+   "slug": "entrelacs",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Entrelacs, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "37",
+     "var_cumul_4t": "-24 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "20",
+     "var_trimestre": "**",
+     "cumul_4t": "77",
+     "var_cumul_4t": "4 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "34",
+     "var_trimestre": "21 %",
+     "cumul_4t": "31",
+     "var_cumul_4t": "14 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "20 482",
+     "var_cumul_4t": "-15 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "35",
+     "var_cumul_4t": "-25 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "33",
+     "var_trimestre": "26 %",
+     "cumul_4t": "30",
+     "var_cumul_4t": "25 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "438 000 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "61",
+     "var_cumul_4t": "-37"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "1 054"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/joliette",
+   "nom": "Joliette",
+   "slug": "joliette",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Joliette, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "43",
+     "var_trimestre": "2 %",
+     "cumul_4t": "208",
+     "var_cumul_4t": "8 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "78",
+     "var_trimestre": "23 %",
+     "cumul_4t": "285",
+     "var_cumul_4t": "16 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "69",
+     "var_trimestre": "38 %",
+     "cumul_4t": "59",
+     "var_cumul_4t": "18 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "20 838",
+     "var_trimestre": "3 %",
+     "cumul_4t": "96 232",
+     "var_cumul_4t": "16 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "29",
+     "var_trimestre": "**",
+     "cumul_4t": "129",
+     "var_cumul_4t": "4 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "34",
+     "var_trimestre": "88 %",
+     "cumul_4t": "28",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "449 250 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "26",
+     "var_cumul_4t": "-30"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "41",
+     "var_cumul_4t": "57 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "335 112 $",
+     "var_cumul_4t": "7 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "48",
+     "var_cumul_4t": "-3"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "38",
+     "var_cumul_4t": "-11 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "20",
+     "var_trimestre": "**",
+     "cumul_4t": "16",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "510 084 $",
+     "var_cumul_4t": "8 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "36",
+     "var_cumul_4t": "-25"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "21 384"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/l-assomption",
+   "nom": "L'Assomption",
+   "slug": "l-assomption",
+   "libelle": ". Source : Recensement 2021, Statistique Canada L'Assomption, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "51",
+     "var_trimestre": "-25 %",
+     "cumul_4t": "273",
+     "var_cumul_4t": "-15 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "105",
+     "var_trimestre": "26 %",
+     "cumul_4t": "434",
+     "var_cumul_4t": "7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "107",
+     "var_trimestre": "50 %",
+     "cumul_4t": "94",
+     "var_cumul_4t": "14 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "28 681",
+     "var_trimestre": "-26 %",
+     "cumul_4t": "152 562",
+     "var_cumul_4t": "-7 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "40",
+     "var_trimestre": "-16 %",
+     "cumul_4t": "208",
+     "var_cumul_4t": "-13 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "79",
+     "var_trimestre": "75 %",
+     "cumul_4t": "67",
+     "var_cumul_4t": "17 %"
+    },
+    "Prix médian": {
+     "trimestre": "594 500 $",
+     "var_trimestre": "5 %",
+     "cumul_4t": "571 475 $",
+     "var_cumul_4t": "10 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "39",
+     "var_trimestre": "-5",
+     "cumul_4t": "34",
+     "var_cumul_4t": "-9"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "48",
+     "var_cumul_4t": "-31 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "16",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "383 687 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "51",
+     "var_cumul_4t": "17"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "16",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "23 442"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/l-epiphanie",
+   "nom": "L'Épiphanie",
+   "slug": "l-epiphanie",
+   "libelle": ". Source : Recensement 2021, Statistique Canada L'Épiphanie, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "34",
+     "var_trimestre": "36 %",
+     "cumul_4t": "108",
+     "var_cumul_4t": "-13 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "37",
+     "var_trimestre": "2 %",
+     "cumul_4t": "139",
+     "var_cumul_4t": "-9 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "30",
+     "var_trimestre": "15 %",
+     "cumul_4t": "29",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "17 248",
+     "var_trimestre": "55 %",
+     "cumul_4t": "56 095",
+     "var_cumul_4t": "-5 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "28",
+     "var_trimestre": "**",
+     "cumul_4t": "86",
+     "var_cumul_4t": "-12 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "26",
+     "var_trimestre": "**",
+     "cumul_4t": "24",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "489 700 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "39",
+     "var_cumul_4t": "-13"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "10",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "8 883"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/la-visitation-de-l-ile-dupas",
+   "nom": "La Visitation-de-l'Île-Dupas",
+   "slug": "la-visitation-de-l-ile-dupas",
+   "libelle": "e : Recensement 2021, Statistique Canada La Visitation-de-l'Île-Dupas, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "7",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "7",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "684"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/lac-cabasta",
+   "nom": "Lac-Cabasta",
+   "slug": "lac-cabasta",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Lac-Cabasta, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "0"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/lac-devenyns",
+   "nom": "Lac-Devenyns",
+   "slug": "lac-devenyns",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Lac-Devenyns, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "5"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/lac-matawin",
+   "nom": "Lac-Matawin",
+   "slug": "lac-matawin",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Lac-Matawin, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "10"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/lanoraie",
+   "nom": "Lanoraie",
+   "slug": "lanoraie",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Lanoraie, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "20",
+     "var_trimestre": "**",
+     "cumul_4t": "105",
+     "var_cumul_4t": "6 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "42",
+     "var_trimestre": "5 %",
+     "cumul_4t": "182",
+     "var_cumul_4t": "28 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "54",
+     "var_trimestre": "25 %",
+     "cumul_4t": "51",
+     "var_cumul_4t": "30 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "50 485",
+     "var_cumul_4t": "0 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "20",
+     "var_trimestre": "**",
+     "cumul_4t": "100",
+     "var_cumul_4t": "9 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "48",
+     "var_trimestre": "14 %",
+     "cumul_4t": "46",
+     "var_cumul_4t": "24 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "440 118 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "55",
+     "var_cumul_4t": "-39"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "5 134"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/lavaltrie",
+   "nom": "Lavaltrie",
+   "slug": "lavaltrie",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Lavaltrie, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "59",
+     "var_trimestre": "31 %",
+     "cumul_4t": "221",
+     "var_cumul_4t": "1 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "84",
+     "var_trimestre": "27 %",
+     "cumul_4t": "308",
+     "var_cumul_4t": "20 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "67",
+     "var_trimestre": "52 %",
+     "cumul_4t": "52",
+     "var_cumul_4t": "20 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "29 777",
+     "var_trimestre": "30 %",
+     "cumul_4t": "113 207",
+     "var_cumul_4t": "6 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "51",
+     "var_trimestre": "34 %",
+     "cumul_4t": "197",
+     "var_cumul_4t": "-1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "56",
+     "var_trimestre": "47 %",
+     "cumul_4t": "44",
+     "var_cumul_4t": "12 %"
+    },
+    "Prix médian": {
+     "trimestre": "490 000 $",
+     "var_trimestre": "2 %",
+     "cumul_4t": "489 437 $",
+     "var_cumul_4t": "7 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "30",
+     "var_trimestre": "2",
+     "cumul_4t": "32",
+     "var_cumul_4t": "-6"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "14 425"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/mandeville",
+   "nom": "Mandeville",
+   "slug": "mandeville",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Mandeville, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "52",
+     "var_cumul_4t": "-29 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "32",
+     "var_trimestre": "-8 %",
+     "cumul_4t": "140",
+     "var_cumul_4t": "5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "68",
+     "var_trimestre": "28 %",
+     "cumul_4t": "61",
+     "var_cumul_4t": "17 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "19 543",
+     "var_cumul_4t": "-25 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "52",
+     "var_cumul_4t": "-28 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "67",
+     "var_trimestre": "34 %",
+     "cumul_4t": "59",
+     "var_cumul_4t": "15 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "355 375 $",
+     "var_cumul_4t": "9 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "91",
+     "var_cumul_4t": "-9"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 363"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/mascouche",
+   "nom": "Mascouche",
+   "slug": "mascouche",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Mascouche, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "168",
+     "var_trimestre": "5 %",
+     "cumul_4t": "795",
+     "var_cumul_4t": "-2 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "253",
+     "var_trimestre": "13 %",
+     "cumul_4t": "1 138",
+     "var_cumul_4t": "15 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "203",
+     "var_trimestre": "29 %",
+     "cumul_4t": "198",
+     "var_cumul_4t": "22 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "96 537",
+     "var_trimestre": "12 %",
+     "cumul_4t": "457 687",
+     "var_cumul_4t": "6 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "104",
+     "var_trimestre": "-1 %",
+     "cumul_4t": "490",
+     "var_cumul_4t": "-1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "111",
+     "var_trimestre": "35 %",
+     "cumul_4t": "101",
+     "var_cumul_4t": "8 %"
+    },
+    "Prix médian": {
+     "trimestre": "600 000 $",
+     "var_trimestre": "3 %",
+     "cumul_4t": "610 750 $",
+     "var_cumul_4t": "7 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "25",
+     "var_trimestre": "-5",
+     "cumul_4t": "24",
+     "var_cumul_4t": "-11"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "60",
+     "var_trimestre": "25 %",
+     "cumul_4t": "274",
+     "var_cumul_4t": "-2 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "84",
+     "var_trimestre": "37 %",
+     "cumul_4t": "84",
+     "var_cumul_4t": "50 %"
+    },
+    "Prix médian": {
+     "trimestre": "387 500 $",
+     "var_trimestre": "6 %",
+     "cumul_4t": "365 187 $",
+     "var_cumul_4t": "4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "43",
+     "var_trimestre": "9",
+     "cumul_4t": "33",
+     "var_cumul_4t": "2"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "30",
+     "var_cumul_4t": "-3 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "828 237 $",
+     "var_cumul_4t": "7 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "54",
+     "var_cumul_4t": "-3"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "51 183"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/notre-dame-de-lourdes-lanaudiere",
+   "nom": "Notre-Dame-de-Lourdes (Lanaudière)",
+   "slug": "notre-dame-de-lourdes-lanaudiere",
+   "libelle": "censement 2021, Statistique Canada Notre-Dame-de-Lourdes (Lanaudière), Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "33",
+     "var_cumul_4t": "-5 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "18",
+     "var_trimestre": "**",
+     "cumul_4t": "57",
+     "var_cumul_4t": "29 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "14 353",
+     "var_cumul_4t": "7 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "28",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "3 141"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/notre-dame-de-la-merci",
+   "nom": "Notre-Dame-de-la-Merci",
+   "slug": "notre-dame-de-la-merci",
+   "libelle": "Source : Recensement 2021, Statistique Canada Notre-Dame-de-la-Merci, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "56",
+     "var_cumul_4t": "40 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "18",
+     "var_trimestre": "**",
+     "cumul_4t": "100",
+     "var_cumul_4t": "1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "36",
+     "var_trimestre": "-18 %",
+     "cumul_4t": "38",
+     "var_cumul_4t": "-5 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "32 390",
+     "var_cumul_4t": "57 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "56",
+     "var_cumul_4t": "40 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "34",
+     "var_trimestre": "-20 %",
+     "cumul_4t": "37",
+     "var_cumul_4t": "-5 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "470 625 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "65",
+     "var_cumul_4t": "-15"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "1 097"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/notre-dame-des-prairies",
+   "nom": "Notre-Dame-des-Prairies",
+   "slug": "notre-dame-des-prairies",
+   "libelle": "Source : Recensement 2021, Statistique Canada Notre-Dame-des-Prairies, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "25",
+     "var_trimestre": "**",
+     "cumul_4t": "120",
+     "var_cumul_4t": "0 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "28",
+     "var_trimestre": "**",
+     "cumul_4t": "159",
+     "var_cumul_4t": "9 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "29",
+     "var_trimestre": "**",
+     "cumul_4t": "29",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "56 804",
+     "var_cumul_4t": "2 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "19",
+     "var_trimestre": "**",
+     "cumul_4t": "99",
+     "var_cumul_4t": "3 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "23",
+     "var_trimestre": "**",
+     "cumul_4t": "23",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "438 625 $",
+     "var_cumul_4t": "-2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "31",
+     "var_cumul_4t": "8"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "9 471"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/rawdon",
+   "nom": "Rawdon",
+   "slug": "rawdon",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Rawdon, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "53",
+     "var_trimestre": "-3 %",
+     "cumul_4t": "207",
+     "var_cumul_4t": "-17 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "123",
+     "var_trimestre": "41 %",
+     "cumul_4t": "394",
+     "var_cumul_4t": "7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "116",
+     "var_trimestre": "31 %",
+     "cumul_4t": "91",
+     "var_cumul_4t": "-4 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "24 824",
+     "var_trimestre": "8 %",
+     "cumul_4t": "97 919",
+     "var_cumul_4t": "-11 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "46",
+     "var_trimestre": "-9 %",
+     "cumul_4t": "183",
+     "var_cumul_4t": "-16 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "97",
+     "var_trimestre": "29 %",
+     "cumul_4t": "78",
+     "var_cumul_4t": "-4 %"
+    },
+    "Prix médian": {
+     "trimestre": "404 450 $",
+     "var_trimestre": "4 %",
+     "cumul_4t": "421 307 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "38",
+     "var_trimestre": "-8",
+     "cumul_4t": "51",
+     "var_cumul_4t": "-3"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "16",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "11 719"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-le-gardeur",
+   "nom": "Repentigny (Le Gardeur)",
+   "slug": "repentigny-le-gardeur",
+   "libelle": "Source : Recensement 2021, Statistique Canada Repentigny (Le Gardeur), Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "55",
+     "var_trimestre": "-6 %",
+     "cumul_4t": "252",
+     "var_cumul_4t": "-6 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "75",
+     "var_trimestre": "-2 %",
+     "cumul_4t": "357",
+     "var_cumul_4t": "12 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "62",
+     "var_trimestre": "93 %",
+     "cumul_4t": "59",
+     "var_cumul_4t": "28 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "30 490",
+     "var_trimestre": "-6 %",
+     "cumul_4t": "135 386",
+     "var_cumul_4t": "-1 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "34",
+     "var_trimestre": "-17 %",
+     "cumul_4t": "175",
+     "var_cumul_4t": "-7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "34",
+     "var_trimestre": "61 %",
+     "cumul_4t": "34",
+     "var_cumul_4t": "3 %"
+    },
+    "Prix médian": {
+     "trimestre": "580 000 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "564 000 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "35",
+     "var_trimestre": "10",
+     "cumul_4t": "26",
+     "var_cumul_4t": "-10"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "16",
+     "var_trimestre": "**",
+     "cumul_4t": "64",
+     "var_cumul_4t": "6 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "25",
+     "var_trimestre": "**",
+     "cumul_4t": "21",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "341 750 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "30",
+     "var_cumul_4t": "5"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "13",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "21 688"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-repentigny",
+   "nom": "Repentigny (Repentigny)",
+   "slug": "repentigny-repentigny",
+   "libelle": "Source : Recensement 2021, Statistique Canada Repentigny (Repentigny), Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "174",
+     "var_trimestre": "-5 %",
+     "cumul_4t": "819",
+     "var_cumul_4t": "-2 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "277",
+     "var_trimestre": "9 %",
+     "cumul_4t": "1 189",
+     "var_cumul_4t": "12 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "228",
+     "var_trimestre": "39 %",
+     "cumul_4t": "217",
+     "var_cumul_4t": "21 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "101 218",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "467 243",
+     "var_cumul_4t": "3 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "122",
+     "var_trimestre": "0 %",
+     "cumul_4t": "562",
+     "var_cumul_4t": "-1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "134",
+     "var_trimestre": "32 %",
+     "cumul_4t": "124",
+     "var_cumul_4t": "5 %"
+    },
+    "Prix médian": {
+     "trimestre": "598 000 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "595 750 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "34",
+     "var_trimestre": "12",
+     "cumul_4t": "28",
+     "var_cumul_4t": "-9"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "49",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "241",
+     "var_cumul_4t": "-5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "82",
+     "var_trimestre": "51 %",
+     "cumul_4t": "82",
+     "var_cumul_4t": "49 %"
+    },
+    "Prix médian": {
+     "trimestre": "320 000 $",
+     "var_trimestre": "-15 %",
+     "cumul_4t": "336 625 $",
+     "var_cumul_4t": "-2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "59",
+     "var_trimestre": "24",
+     "cumul_4t": "47",
+     "var_cumul_4t": "2"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "16",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "64 412"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-alexis",
+   "nom": "Saint-Alexis",
+   "slug": "saint-alexis",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Alexis, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "16",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "20",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "16",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "1 370"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-alphonse-rodriguez",
+   "nom": "Saint-Alphonse-Rodriguez",
+   "slug": "saint-alphonse-rodriguez",
+   "libelle": "ource : Recensement 2021, Statistique Canada Saint-Alphonse-Rodriguez, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "18",
+     "var_trimestre": "**",
+     "cumul_4t": "80",
+     "var_cumul_4t": "-18 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "43",
+     "var_trimestre": "7 %",
+     "cumul_4t": "135",
+     "var_cumul_4t": "-10 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "45",
+     "var_trimestre": "2 %",
+     "cumul_4t": "42",
+     "var_cumul_4t": "-6 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "33 799",
+     "var_cumul_4t": "-9 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "18",
+     "var_trimestre": "**",
+     "cumul_4t": "77",
+     "var_cumul_4t": "-16 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "44",
+     "var_trimestre": "2 %",
+     "cumul_4t": "41",
+     "var_cumul_4t": "-2 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "385 000 $",
+     "var_cumul_4t": "15 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "63",
+     "var_cumul_4t": "-18"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "3 339"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-ambroise-de-kildare",
+   "nom": "Saint-Ambroise-de-Kildare",
+   "slug": "saint-ambroise-de-kildare",
+   "libelle": "urce : Recensement 2021, Statistique Canada Saint-Ambroise-de-Kildare, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "36",
+     "var_cumul_4t": "12 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "51",
+     "var_cumul_4t": "30 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "20 078",
+     "var_cumul_4t": "42 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "32",
+     "var_cumul_4t": "6 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "496 475 $",
+     "var_cumul_4t": "13 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "27",
+     "var_cumul_4t": "-5"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "4 090"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-barthelemy",
+   "nom": "Saint-Barthélemy",
+   "slug": "saint-barthelemy",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Barthélemy, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "28",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "51",
+     "var_cumul_4t": "30 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "19",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "26",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "19",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 087"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-calixte",
+   "nom": "Saint-Calixte",
+   "slug": "saint-calixte",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Calixte, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "33",
+     "var_trimestre": "-36 %",
+     "cumul_4t": "175",
+     "var_cumul_4t": "-8 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "88",
+     "var_trimestre": "27 %",
+     "cumul_4t": "329",
+     "var_cumul_4t": "19 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "97",
+     "var_trimestre": "32 %",
+     "cumul_4t": "81",
+     "var_cumul_4t": "12 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "11 240",
+     "var_trimestre": "-38 %",
+     "cumul_4t": "64 282",
+     "var_cumul_4t": "-4 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "30",
+     "var_trimestre": "-42 %",
+     "cumul_4t": "165",
+     "var_cumul_4t": "-10 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "90",
+     "var_trimestre": "34 %",
+     "cumul_4t": "76",
+     "var_cumul_4t": "15 %"
+    },
+    "Prix médian": {
+     "trimestre": "322 500 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "332 687 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "46",
+     "var_trimestre": "8",
+     "cumul_4t": "45",
+     "var_cumul_4t": "-5"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "6 792"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-charles-borromee",
+   "nom": "Saint-Charles-Borromée",
+   "slug": "saint-charles-borromee",
+   "libelle": "Source : Recensement 2021, Statistique Canada Saint-Charles-Borromée, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "20",
+     "var_trimestre": "**",
+     "cumul_4t": "106",
+     "var_cumul_4t": "-5 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "33",
+     "var_trimestre": "3 %",
+     "cumul_4t": "159",
+     "var_cumul_4t": "11 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "43",
+     "var_trimestre": "34 %",
+     "cumul_4t": "40",
+     "var_cumul_4t": "17 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "60 507",
+     "var_cumul_4t": "1 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "17",
+     "var_trimestre": "**",
+     "cumul_4t": "85",
+     "var_cumul_4t": "-9 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "33",
+     "var_trimestre": "32 %",
+     "cumul_4t": "30",
+     "var_cumul_4t": "11 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "495 862 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "45",
+     "var_cumul_4t": "2"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "17",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "15 285"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-cleophas-de-brandon",
+   "nom": "Saint-Cléophas-de-Brandon",
+   "slug": "saint-cleophas-de-brandon",
+   "libelle": "urce : Recensement 2021, Statistique Canada Saint-Cléophas-de-Brandon, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "254"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-come",
+   "nom": "Saint-Côme",
+   "slug": "saint-come",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Côme, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "18",
+     "var_trimestre": "**",
+     "cumul_4t": "98",
+     "var_cumul_4t": "-10 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "77",
+     "var_trimestre": "-22 %",
+     "cumul_4t": "275",
+     "var_cumul_4t": "-9 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "143",
+     "var_trimestre": "2 %",
+     "cumul_4t": "135",
+     "var_cumul_4t": "8 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "47 415",
+     "var_cumul_4t": "-1 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "85",
+     "var_cumul_4t": "-15 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "130",
+     "var_trimestre": "8 %",
+     "cumul_4t": "120",
+     "var_cumul_4t": "16 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "496 125 $",
+     "var_cumul_4t": "10 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "98",
+     "var_cumul_4t": "13"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 583"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-cuthbert",
+   "nom": "Saint-Cuthbert",
+   "slug": "saint-cuthbert",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Cuthbert, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "29",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "46",
+     "var_cumul_4t": "70 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "25",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "1 821"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-damien",
+   "nom": "Saint-Damien",
+   "slug": "saint-damien",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Damien, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "68",
+     "var_cumul_4t": "-1 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "30",
+     "var_trimestre": "-11 %",
+     "cumul_4t": "134",
+     "var_cumul_4t": "8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "56",
+     "var_trimestre": "16 %",
+     "cumul_4t": "52",
+     "var_cumul_4t": "8 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "24 925",
+     "var_cumul_4t": "17 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "66",
+     "var_cumul_4t": "-1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "52",
+     "var_trimestre": "15 %",
+     "cumul_4t": "48",
+     "var_cumul_4t": "6 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "337 675 $",
+     "var_cumul_4t": "26 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "81",
+     "var_cumul_4t": "-2"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 393"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-didace",
+   "nom": "Saint-Didace",
+   "slug": "saint-didace",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Didace, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "18",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "23",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "17",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "7",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "688"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-donat-lanaudiere",
+   "nom": "Saint-Donat (Lanaudière)",
+   "slug": "saint-donat-lanaudiere",
+   "libelle": "ource : Recensement 2021, Statistique Canada Saint-Donat (Lanaudière), Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "39",
+     "var_trimestre": "-25 %",
+     "cumul_4t": "142",
+     "var_cumul_4t": "-7 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "97",
+     "var_trimestre": "-1 %",
+     "cumul_4t": "342",
+     "var_cumul_4t": "-9 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "140",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "124",
+     "var_cumul_4t": "-15 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "27 672",
+     "var_trimestre": "-28 %",
+     "cumul_4t": "103 472",
+     "var_cumul_4t": "-1 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "37",
+     "var_trimestre": "-9 %",
+     "cumul_4t": "126",
+     "var_cumul_4t": "-5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "122",
+     "var_trimestre": "-2 %",
+     "cumul_4t": "109",
+     "var_cumul_4t": "-9 %"
+    },
+    "Prix médian": {
+     "trimestre": "612 500 $",
+     "var_trimestre": "0 %",
+     "cumul_4t": "545 875 $",
+     "var_cumul_4t": "-5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "62",
+     "var_trimestre": "-9",
+     "cumul_4t": "72",
+     "var_cumul_4t": "-14"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "4 561"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-esprit",
+   "nom": "Saint-Esprit",
+   "slug": "saint-esprit",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Esprit, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "25",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "32",
+     "var_cumul_4t": "10 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "24",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 011"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-felix-de-valois",
+   "nom": "Saint-Félix-de-Valois",
+   "slug": "saint-felix-de-valois",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Félix-de-Valois, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "79",
+     "var_cumul_4t": "-15 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "39",
+     "var_trimestre": "62 %",
+     "cumul_4t": "133",
+     "var_cumul_4t": "14 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "32",
+     "var_trimestre": "28 %",
+     "cumul_4t": "30",
+     "var_cumul_4t": "15 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "37 188",
+     "var_cumul_4t": "-3 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "69",
+     "var_cumul_4t": "-11 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "26",
+     "var_trimestre": "**",
+     "cumul_4t": "25",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "447 875 $",
+     "var_cumul_4t": "14 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "41",
+     "var_cumul_4t": "-8"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "6 975"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-gabriel",
+   "nom": "Saint-Gabriel",
+   "slug": "saint-gabriel",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Gabriel, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "24",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "18",
+     "var_trimestre": "**",
+     "cumul_4t": "59",
+     "var_cumul_4t": "43 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "23",
+     "var_trimestre": "**",
+     "cumul_4t": "17",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "16",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 803"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-gabriel-de-brandon",
+   "nom": "Saint-Gabriel-de-Brandon",
+   "slug": "saint-gabriel-de-brandon",
+   "libelle": "ource : Recensement 2021, Statistique Canada Saint-Gabriel-de-Brandon, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "12",
+     "var_trimestre": "**",
+     "cumul_4t": "42",
+     "var_cumul_4t": "-17 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "20",
+     "var_trimestre": "**",
+     "cumul_4t": "67",
+     "var_cumul_4t": "1 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "25",
+     "var_trimestre": "**",
+     "cumul_4t": "22",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "20 567",
+     "var_cumul_4t": "6 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "40",
+     "var_cumul_4t": "-18 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "25",
+     "var_trimestre": "**",
+     "cumul_4t": "21",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "346 175 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "68",
+     "var_cumul_4t": "-5"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 684"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-guillaume-nord",
+   "nom": "Saint-Guillaume-Nord",
+   "slug": "saint-guillaume-nord",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Guillaume-Nord, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "7",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "102"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-ignace-de-loyola",
+   "nom": "Saint-Ignace-de-Loyola",
+   "slug": "saint-ignace-de-loyola",
+   "libelle": "Source : Recensement 2021, Statistique Canada Saint-Ignace-de-Loyola, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "19",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "34",
+     "var_cumul_4t": "-5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "19",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "13",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 048"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-jacques",
+   "nom": "Saint-Jacques",
+   "slug": "saint-jacques",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Jacques, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "17",
+     "var_trimestre": "**",
+     "cumul_4t": "55",
+     "var_cumul_4t": "12 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "28",
+     "var_trimestre": "**",
+     "cumul_4t": "93",
+     "var_cumul_4t": "17 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "27",
+     "var_trimestre": "**",
+     "cumul_4t": "22",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "28 485",
+     "var_cumul_4t": "21 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "42",
+     "var_cumul_4t": "20 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "16",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "479 987 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "37",
+     "var_cumul_4t": "-1"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "4 302"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-jean-de-matha",
+   "nom": "Saint-Jean-de-Matha",
+   "slug": "saint-jean-de-matha",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Jean-de-Matha, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "20",
+     "var_trimestre": "**",
+     "cumul_4t": "87",
+     "var_cumul_4t": "-5 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "42",
+     "var_trimestre": "10 %",
+     "cumul_4t": "157",
+     "var_cumul_4t": "23 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "48",
+     "var_trimestre": "17 %",
+     "cumul_4t": "45",
+     "var_cumul_4t": "7 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "39 365",
+     "var_cumul_4t": "7 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "19",
+     "var_trimestre": "**",
+     "cumul_4t": "84",
+     "var_cumul_4t": "0 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "44",
+     "var_trimestre": "18 %",
+     "cumul_4t": "41",
+     "var_cumul_4t": "7 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "391 725 $",
+     "var_cumul_4t": "7 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "43",
+     "var_cumul_4t": "-43"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "4 838"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-liguori",
+   "nom": "Saint-Liguori",
+   "slug": "saint-liguori",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Liguori, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "26",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "37",
+     "var_cumul_4t": "42 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "23",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 066"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-lin-laurentides",
+   "nom": "Saint-Lin/Laurentides",
+   "slug": "saint-lin-laurentides",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Lin/Laurentides, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "74",
+     "var_trimestre": "-20 %",
+     "cumul_4t": "399",
+     "var_cumul_4t": "-10 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "114",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "542",
+     "var_cumul_4t": "2 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "97",
+     "var_trimestre": "15 %",
+     "cumul_4t": "102",
+     "var_cumul_4t": "6 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "36 510",
+     "var_trimestre": "-17 %",
+     "cumul_4t": "194 705",
+     "var_cumul_4t": "-10 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "71",
+     "var_trimestre": "-4 %",
+     "cumul_4t": "359",
+     "var_cumul_4t": "-3 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "78",
+     "var_trimestre": "27 %",
+     "cumul_4t": "84",
+     "var_cumul_4t": "16 %"
+    },
+    "Prix médian": {
+     "trimestre": "495 000 $",
+     "var_trimestre": "7 %",
+     "cumul_4t": "480 000 $",
+     "var_cumul_4t": "2 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "40",
+     "var_trimestre": "18",
+     "cumul_4t": "36",
+     "var_cumul_4t": "-2"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "30",
+     "var_cumul_4t": "-50 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "10",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "591 000 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "22",
+     "var_cumul_4t": "-34"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "24 030"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-michel-des-saints",
+   "nom": "Saint-Michel-des-Saints",
+   "slug": "saint-michel-des-saints",
+   "libelle": "Source : Recensement 2021, Statistique Canada Saint-Michel-des-Saints, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "55",
+     "var_cumul_4t": "17 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "31",
+     "var_trimestre": "-6 %",
+     "cumul_4t": "111",
+     "var_cumul_4t": "-7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "53",
+     "var_trimestre": "-5 %",
+     "cumul_4t": "51",
+     "var_cumul_4t": "4 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "27 129",
+     "var_cumul_4t": "51 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "12",
+     "var_trimestre": "**",
+     "cumul_4t": "52",
+     "var_cumul_4t": "18 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "46",
+     "var_trimestre": "-8 %",
+     "cumul_4t": "45",
+     "var_cumul_4t": "4 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "430 125 $",
+     "var_cumul_4t": "12 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "103",
+     "var_cumul_4t": "21"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 496"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-norbert",
+   "nom": "Saint-Norbert",
+   "slug": "saint-norbert",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Norbert, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "9",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "21",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "7",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "6",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "1 060"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-paul",
+   "nom": "Saint-Paul",
+   "slug": "saint-paul",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Paul, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "92",
+     "var_cumul_4t": "-20 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "15",
+     "var_trimestre": "**",
+     "cumul_4t": "106",
+     "var_cumul_4t": "-18 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "16",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "45 053",
+     "var_cumul_4t": "-15 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "83",
+     "var_cumul_4t": "-8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "13",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "475 250 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "35",
+     "var_cumul_4t": "-6"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "6 566"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-pierre",
+   "nom": "Saint-Pierre",
+   "slug": "saint-pierre",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Pierre, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "286"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-roch-ouest",
+   "nom": "Saint-Roch-Ouest",
+   "slug": "saint-roch-ouest",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Roch-Ouest, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "262"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-roch-de-l-achigan",
+   "nom": "Saint-Roch-de-l'Achigan",
+   "slug": "saint-roch-de-l-achigan",
+   "libelle": "Source : Recensement 2021, Statistique Canada Saint-Roch-de-l'Achigan, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "56",
+     "var_cumul_4t": "43 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "20",
+     "var_trimestre": "**",
+     "cumul_4t": "87",
+     "var_cumul_4t": "55 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "15",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "33 617",
+     "var_cumul_4t": "80 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "8",
+     "var_trimestre": "**",
+     "cumul_4t": "54",
+     "var_cumul_4t": "68 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "12",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "596 000 $",
+     "var_cumul_4t": "26 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "38",
+     "var_cumul_4t": "-1"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "5 453"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-sulpice",
+   "nom": "Saint-Sulpice",
+   "slug": "saint-sulpice",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Sulpice, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "61",
+     "var_cumul_4t": "5 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "18",
+     "var_trimestre": "**",
+     "cumul_4t": "83",
+     "var_cumul_4t": "-12 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "17",
+     "var_trimestre": "**",
+     "cumul_4t": "18",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "30 679",
+     "var_cumul_4t": "12 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "35",
+     "var_cumul_4t": "-2 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "551 687 $",
+     "var_cumul_4t": "15 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "38",
+     "var_cumul_4t": "-20"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "24",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "3 360"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-thomas",
+   "nom": "Saint-Thomas",
+   "slug": "saint-thomas",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Thomas, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "30",
+     "var_cumul_4t": "7 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "12",
+     "var_trimestre": "**",
+     "cumul_4t": "45",
+     "var_cumul_4t": "28 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "12",
+     "var_trimestre": "**",
+     "cumul_4t": "8",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "15 791",
+     "var_cumul_4t": "16 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "25",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "3 496"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-zenon",
+   "nom": "Saint-Zénon",
+   "slug": "saint-zenon",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Saint-Zénon, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "35",
+     "var_cumul_4t": "-28 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "20",
+     "var_trimestre": "**",
+     "cumul_4t": "68",
+     "var_cumul_4t": "-17 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "33",
+     "var_trimestre": "17 %",
+     "cumul_4t": "28",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "12 543",
+     "var_cumul_4t": "-23 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "35",
+     "var_cumul_4t": "-27 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "32",
+     "var_trimestre": "14 %",
+     "cumul_4t": "28",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "352 112 $",
+     "var_cumul_4t": "5 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "98",
+     "var_cumul_4t": "20"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "1 317"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-beatrix",
+   "nom": "Sainte-Béatrix",
+   "slug": "sainte-beatrix",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Sainte-Béatrix, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "47",
+     "var_cumul_4t": "-17 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "32",
+     "var_trimestre": "60 %",
+     "cumul_4t": "115",
+     "var_cumul_4t": "33 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "44",
+     "var_trimestre": "37 %",
+     "cumul_4t": "39",
+     "var_cumul_4t": "5 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "18 892",
+     "var_cumul_4t": "-23 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "45",
+     "var_cumul_4t": "-19 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "39",
+     "var_trimestre": "34 %",
+     "cumul_4t": "35",
+     "var_cumul_4t": "0 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "347 125 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "73",
+     "var_cumul_4t": "-1"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 170"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-elisabeth",
+   "nom": "Sainte-Élisabeth",
+   "slug": "sainte-elisabeth",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Sainte-Élisabeth, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "19",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "5",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "10",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "1 390"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-emelie-de-l-energie",
+   "nom": "Sainte-Émélie-de-l'Énergie",
+   "slug": "sainte-emelie-de-l-energie",
+   "libelle": "rce : Recensement 2021, Statistique Canada Sainte-Émélie-de-l'Énergie, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "37",
+     "var_cumul_4t": "-5 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "16",
+     "var_trimestre": "**",
+     "cumul_4t": "80",
+     "var_cumul_4t": "48 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "27",
+     "var_trimestre": "**",
+     "cumul_4t": "26",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "14 965",
+     "var_cumul_4t": "13 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "35",
+     "var_cumul_4t": "-5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "27",
+     "var_trimestre": "**",
+     "cumul_4t": "26",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "374 000 $",
+     "var_cumul_4t": "18 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "77",
+     "var_cumul_4t": "-16"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "1 741"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-genevieve-de-berthier",
+   "nom": "Sainte-Geneviève-de-Berthier",
+   "slug": "sainte-genevieve-de-berthier",
+   "libelle": "e : Recensement 2021, Statistique Canada Sainte-Geneviève-de-Berthier, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "13",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "14",
+     "var_trimestre": "**",
+     "cumul_4t": "38",
+     "var_cumul_4t": "5 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "7",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "13",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "13",
+     "var_trimestre": "**",
+     "cumul_4t": "7",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "2 253"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-julienne",
+   "nom": "Sainte-Julienne",
+   "slug": "sainte-julienne",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Sainte-Julienne, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "67",
+     "var_trimestre": "31 %",
+     "cumul_4t": "256",
+     "var_cumul_4t": "7 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "112",
+     "var_trimestre": "34 %",
+     "cumul_4t": "411",
+     "var_cumul_4t": "16 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "109",
+     "var_trimestre": "28 %",
+     "cumul_4t": "103",
+     "var_cumul_4t": "13 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "29 285",
+     "var_trimestre": "22 %",
+     "cumul_4t": "115 078",
+     "var_cumul_4t": "7 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "64",
+     "var_trimestre": "30 %",
+     "cumul_4t": "250",
+     "var_cumul_4t": "7 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "101",
+     "var_trimestre": "27 %",
+     "cumul_4t": "97",
+     "var_cumul_4t": "12 %"
+    },
+    "Prix médian": {
+     "trimestre": "440 700 $",
+     "var_trimestre": "7 %",
+     "cumul_4t": "440 787 $",
+     "var_cumul_4t": "3 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "81",
+     "var_trimestre": "39",
+     "cumul_4t": "46",
+     "var_cumul_4t": "-3"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "11 173"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-marcelline-de-kildare",
+   "nom": "Sainte-Marcelline-de-Kildare",
+   "slug": "sainte-marcelline-de-kildare",
+   "libelle": "e : Recensement 2021, Statistique Canada Sainte-Marcelline-de-Kildare, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "28",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "56",
+     "var_cumul_4t": "33 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "19",
+     "var_trimestre": "**",
+     "cumul_4t": "15",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "7",
+     "var_trimestre": "**",
+     "cumul_4t": "26",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "16",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "1 795"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-marie-salome",
+   "nom": "Sainte-Marie-Salomé",
+   "slug": "sainte-marie-salome",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Sainte-Marie-Salomé, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "5",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "6",
+     "var_trimestre": "**",
+     "cumul_4t": "15",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "11",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "3",
+     "var_trimestre": "**",
+     "cumul_4t": "2",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "1 221"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-melanie",
+   "nom": "Sainte-Mélanie",
+   "slug": "sainte-melanie",
+   "libelle": ". Source : Recensement 2021, Statistique Canada Sainte-Mélanie, Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "10",
+     "var_trimestre": "**",
+     "cumul_4t": "35",
+     "var_cumul_4t": "6 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "20",
+     "var_trimestre": "**",
+     "cumul_4t": "63",
+     "var_cumul_4t": "12 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "17",
+     "var_trimestre": "**",
+     "cumul_4t": "14",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "17 033",
+     "var_cumul_4t": "26 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "33",
+     "var_cumul_4t": "6 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "17",
+     "var_trimestre": "**",
+     "cumul_4t": "13",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "436 375 $",
+     "var_cumul_4t": "15 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "34",
+     "var_cumul_4t": "-10"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "1",
+     "var_trimestre": "**",
+     "cumul_4t": "1",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "3 250"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine",
+   "nom": "Terrebonne (La Plaine)",
+   "slug": "terrebonne-la-plaine",
+   "libelle": "Source : Recensement 2021, Statistique Canada Terrebonne (La Plaine), Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "69",
+     "var_trimestre": "9 %",
+     "cumul_4t": "344",
+     "var_cumul_4t": "8 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "112",
+     "var_trimestre": "45 %",
+     "cumul_4t": "478",
+     "var_cumul_4t": "26 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "89",
+     "var_trimestre": "74 %",
+     "cumul_4t": "77",
+     "var_cumul_4t": "26 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "35 496",
+     "var_trimestre": "17 %",
+     "cumul_4t": "174 720",
+     "var_cumul_4t": "16 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "56",
+     "var_trimestre": "21 %",
+     "cumul_4t": "270",
+     "var_cumul_4t": "8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "74",
+     "var_trimestre": "94 %",
+     "cumul_4t": "59",
+     "var_cumul_4t": "20 %"
+    },
+    "Prix médian": {
+     "trimestre": "520 000 $",
+     "var_trimestre": "3 %",
+     "cumul_4t": "519 062 $",
+     "var_cumul_4t": "7 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "31",
+     "var_trimestre": "4",
+     "cumul_4t": "27",
+     "var_cumul_4t": "-10"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "62",
+     "var_cumul_4t": "10 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "9",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "333 000 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "42",
+     "var_cumul_4t": "14"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "2",
+     "var_trimestre": "**",
+     "cumul_4t": "12",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "4",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "24 706"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie",
+   "nom": "Terrebonne (Lachenaie)",
+   "slug": "terrebonne-lachenaie",
+   "libelle": "Source : Recensement 2021, Statistique Canada Terrebonne (Lachenaie), Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "90",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "422",
+     "var_cumul_4t": "-13 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "125",
+     "var_trimestre": "-6 %",
+     "cumul_4t": "574",
+     "var_cumul_4t": "-6 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "108",
+     "var_trimestre": "9 %",
+     "cumul_4t": "103",
+     "var_cumul_4t": "-2 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "55 441",
+     "var_trimestre": "-14 %",
+     "cumul_4t": "261 195",
+     "var_cumul_4t": "-10 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "63",
+     "var_trimestre": "-20 %",
+     "cumul_4t": "286",
+     "var_cumul_4t": "-14 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "66",
+     "var_trimestre": "13 %",
+     "cumul_4t": "61",
+     "var_cumul_4t": "-6 %"
+    },
+    "Prix médian": {
+     "trimestre": "695 000 $",
+     "var_trimestre": "4 %",
+     "cumul_4t": "670 725 $",
+     "var_cumul_4t": "4 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "34",
+     "var_trimestre": "5",
+     "cumul_4t": "34",
+     "var_cumul_4t": "-3"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "27",
+     "var_trimestre": "**",
+     "cumul_4t": "129",
+     "var_cumul_4t": "-8 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "37",
+     "var_trimestre": "5 %",
+     "cumul_4t": "37",
+     "var_cumul_4t": "12 %"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "377 125 $",
+     "var_cumul_4t": "0 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "37",
+     "var_cumul_4t": "0"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "7",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "4",
+     "var_trimestre": "**",
+     "cumul_4t": "3",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "35 860"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne",
+   "nom": "Terrebonne (Terrebonne)",
+   "slug": "terrebonne-terrebonne",
+   "libelle": "Source : Recensement 2021, Statistique Canada Terrebonne (Terrebonne), Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "160",
+     "var_trimestre": "-16 %",
+     "cumul_4t": "713",
+     "var_cumul_4t": "-17 %"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "259",
+     "var_trimestre": "22 %",
+     "cumul_4t": "1 041",
+     "var_cumul_4t": "-2 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "201",
+     "var_trimestre": "22 %",
+     "cumul_4t": "191",
+     "var_cumul_4t": "0 %"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "101 805",
+     "var_trimestre": "-11 %",
+     "cumul_4t": "442 645",
+     "var_cumul_4t": "-12 %"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "107",
+     "var_trimestre": "-25 %",
+     "cumul_4t": "497",
+     "var_cumul_4t": "-14 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "138",
+     "var_trimestre": "28 %",
+     "cumul_4t": "130",
+     "var_cumul_4t": "5 %"
+    },
+    "Prix médian": {
+     "trimestre": "632 500 $",
+     "var_trimestre": "5 %",
+     "cumul_4t": "615 437 $",
+     "var_cumul_4t": "6 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "37",
+     "var_trimestre": "8",
+     "cumul_4t": "30",
+     "var_cumul_4t": "-5"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "42",
+     "var_trimestre": "16 %",
+     "cumul_4t": "167",
+     "var_cumul_4t": "-28 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "41",
+     "var_trimestre": "32 %",
+     "cumul_4t": "41",
+     "var_cumul_4t": "-4 %"
+    },
+    "Prix médian": {
+     "trimestre": "442 000 $",
+     "var_trimestre": "4 %",
+     "cumul_4t": "398 687 $",
+     "var_cumul_4t": "-1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "35",
+     "var_trimestre": "-8",
+     "cumul_4t": "35",
+     "var_cumul_4t": "-5"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "11",
+     "var_trimestre": "**",
+     "cumul_4t": "48",
+     "var_cumul_4t": "-14 %"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "20",
+     "var_trimestre": "**",
+     "cumul_4t": "18",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "754 640 $",
+     "var_cumul_4t": "1 %"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "53",
+     "var_cumul_4t": "-2"
+    }
+   },
+   "population": {
+    "annee": "2021",
+    "valeur": "59 378"
+   }
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/territoires-autres-other-territories-lanaudiere",
+   "nom": "Territoires autres/Other Territories (Lanaudière)",
+   "slug": "territoires-autres-other-territories-lanaudiere",
+   "libelle": "Statistique Canada Territoires autres/Other Territories (Lanaudière), Lanaudière",
+   "trimestre": "T3 2026",
+   "total_residentiel": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Nouvelles inscriptions": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Volume (en millier $)": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "unifamiliale": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "copropriete": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   },
+   "plex": {
+    "Ventes": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Inscriptions en vigueur": {
+     "trimestre": "0",
+     "var_trimestre": "**",
+     "cumul_4t": "0",
+     "var_cumul_4t": "**"
+    },
+    "Prix médian": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    },
+    "Moyenne de jours sur le marché": {
+     "trimestre": "**",
+     "var_trimestre": "**",
+     "cumul_4t": "**",
+     "var_cumul_4t": "**"
+    }
+   }
+  }
+ ]
+}
