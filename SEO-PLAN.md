@@ -858,7 +858,7 @@ Centris sur 4 villes, titre de l'article commission, dans les 4 langues), et
 les 30 adresses que Search Console montrait en "Detectee, actuellement non
 indexee". Toutes verifiees en ligne le 2026-10-07: elles repondent.
 
-#### Vague 2026-10-07, jour 1 - Francais: La Plaine, les 4 villes avec chiffres, la commission, et les pages en attente les plus utiles
+#### Vague 2026-10-07, jour 1 - FAIT - Francais: La Plaine, les 4 villes avec chiffres, la commission, et les pages en attente les plus utiles
 
 ```
 https://georgesmatar.ca/courtier-immobilier/la-plaine-terrebonne/
@@ -873,7 +873,7 @@ https://georgesmatar.ca/articles/banlieue-ou-ville-cout-reel-montreal/
 https://georgesmatar.ca/articles/vendre-avant-acheter-clauses-quebec/
 ```
 
-#### Vague 2026-10-07, jour 2 - Francais, suite, puis anglais: pages modifiees
+#### Vague 2026-10-07, jour 2 - FAIT - Francais, suite, puis anglais: pages modifiees
 
 ```
 https://georgesmatar.ca/articles/vendre-automne-hiver-presentation-quebec/
@@ -888,7 +888,7 @@ https://georgesmatar.ca/en/articles/commission-explained-quebec/
 https://georgesmatar.ca/en/listings/
 ```
 
-#### Vague 2026-10-07, jour 3 - Anglais, articles en attente, puis espagnol: pages modifiees
+#### Vague 2026-10-07, jour 3 - anglais FAIT, reste l espagnol - Anglais, articles en attente, puis espagnol: pages modifiees
 
 ```
 https://georgesmatar.ca/en/articles/breaking-mortgage-penalty-quebec/
@@ -947,12 +947,12 @@ non indexee" et clique "Valider la correction".
 
 #### VAGUE DU 2026-10-20 - Serie marche immobilier de Laval par secteur
 
-28 articles nouveaux (7 articles en 4 langues, publies le 2026-10-19) et
-16 pages de quartier modifiees le meme jour (lien vers l article de leur
-secteur). 44 adresses, en 5 jours. Ordre: francais d abord, puis anglais,
-arabe, et l espagnol en dernier.
+28 articles nouveaux, publies le 2026-10-19: 7 articles en 4 langues. Ils
+passent AVANT la fin de la vague du 2026-10-07, parce que Google ne les
+connait pas encore, alors que les pages de la vague du 7 sont deja connues.
+Ordre: francais, anglais, arabe, espagnol. 3 jours.
 
-#### Vague 2026-10-20, jour 1 - Francais
+#### Vague 2026-10-20, jour 1 - Francais, puis anglais
 
 ```
 https://georgesmatar.ca/articles/marche-immobilier-laval-secteurs/
@@ -962,47 +962,30 @@ https://georgesmatar.ca/articles/marche-immobilier-sainte-dorothee-laval-ouest/
 https://georgesmatar.ca/articles/marche-immobilier-sainte-rose-fabreville-laval/
 https://georgesmatar.ca/articles/marche-immobilier-vimont-auteuil-laval/
 https://georgesmatar.ca/articles/marche-immobilier-pont-viau-laval-des-rapides/
-https://georgesmatar.ca/courtier-immobilier/laval/
-https://georgesmatar.ca/courtier-immobilier/chomedey-laval/
-https://georgesmatar.ca/courtier-immobilier/duvernay-laval/
-```
-
-#### Vague 2026-10-20, jour 2 - Francais, fin, puis anglais
-
-```
-https://georgesmatar.ca/courtier-immobilier/sainte-dorothee-laval/
 https://georgesmatar.ca/en/articles/laval-real-estate-market-by-sector/
 https://georgesmatar.ca/en/articles/chomedey-laval-real-estate-market/
 https://georgesmatar.ca/en/articles/east-laval-real-estate-market-duvernay/
+```
+
+#### Vague 2026-10-20, jour 2 - Anglais, fin, puis arabe
+
+```
 https://georgesmatar.ca/en/articles/sainte-dorothee-laval-ouest-real-estate-market/
 https://georgesmatar.ca/en/articles/sainte-rose-fabreville-laval-real-estate-market/
 https://georgesmatar.ca/en/articles/vimont-auteuil-laval-real-estate-market/
 https://georgesmatar.ca/en/articles/pont-viau-laval-des-rapides-real-estate-market/
-https://georgesmatar.ca/en/real-estate-broker/laval/
-https://georgesmatar.ca/en/real-estate-broker/chomedey-laval/
-```
-
-#### Vague 2026-10-20, jour 3 - Anglais, fin, puis arabe
-
-```
-https://georgesmatar.ca/en/real-estate-broker/duvernay-laval/
-https://georgesmatar.ca/en/real-estate-broker/sainte-dorothee-laval/
 https://georgesmatar.ca/ar/articles/laval-real-estate-market-by-sector/
 https://georgesmatar.ca/ar/articles/chomedey-laval-real-estate-market/
 https://georgesmatar.ca/ar/articles/east-laval-real-estate-market-duvernay/
 https://georgesmatar.ca/ar/articles/sainte-dorothee-laval-ouest-real-estate-market/
 https://georgesmatar.ca/ar/articles/sainte-rose-fabreville-laval-real-estate-market/
 https://georgesmatar.ca/ar/articles/vimont-auteuil-laval-real-estate-market/
+```
+
+#### Vague 2026-10-20, jour 3 - Arabe, fin, puis espagnol
+
+```
 https://georgesmatar.ca/ar/articles/pont-viau-laval-des-rapides-real-estate-market/
-https://georgesmatar.ca/ar/wasit-aqari/laval/
-```
-
-#### Vague 2026-10-20, jour 4 - Arabe, fin, puis espagnol
-
-```
-https://georgesmatar.ca/ar/wasit-aqari/chomedey-laval/
-https://georgesmatar.ca/ar/wasit-aqari/duvernay-laval/
-https://georgesmatar.ca/ar/wasit-aqari/sainte-dorothee-laval/
 https://georgesmatar.ca/es/articles/mercado-inmobiliario-laval-por-sector/
 https://georgesmatar.ca/es/articles/mercado-inmobiliario-chomedey-laval/
 https://georgesmatar.ca/es/articles/mercado-inmobiliario-este-de-laval-duvernay/
@@ -1012,12 +995,31 @@ https://georgesmatar.ca/es/articles/mercado-inmobiliario-vimont-auteuil-laval/
 https://georgesmatar.ca/es/articles/mercado-inmobiliario-pont-viau-laval-des-rapides/
 ```
 
-#### Vague 2026-10-20, jour 5 - Espagnol, fin
+Ensuite: finir la vague du 2026-10-07 (jours 3 a 6, partie espagnole et
+arabe).
+
+#### Vague 2026-10-20, facultatif - 16 pages de quartier modifiees
+
+Ces pages sont deja indexees. Elles ont recu le 2026-10-19 un lien vers
+l article de leur secteur, et leur lastmod du sitemap a change: Google les
+repassera de lui-meme. A soumettre seulement s il reste du quota.
 
 ```
+https://georgesmatar.ca/courtier-immobilier/laval/
+https://georgesmatar.ca/en/real-estate-broker/laval/
+https://georgesmatar.ca/ar/wasit-aqari/laval/
 https://georgesmatar.ca/es/corredor-inmobiliario/laval/
+https://georgesmatar.ca/courtier-immobilier/chomedey-laval/
+https://georgesmatar.ca/en/real-estate-broker/chomedey-laval/
+https://georgesmatar.ca/ar/wasit-aqari/chomedey-laval/
 https://georgesmatar.ca/es/corredor-inmobiliario/chomedey-laval/
+https://georgesmatar.ca/courtier-immobilier/duvernay-laval/
+https://georgesmatar.ca/en/real-estate-broker/duvernay-laval/
+https://georgesmatar.ca/ar/wasit-aqari/duvernay-laval/
 https://georgesmatar.ca/es/corredor-inmobiliario/duvernay-laval/
+https://georgesmatar.ca/courtier-immobilier/sainte-dorothee-laval/
+https://georgesmatar.ca/en/real-estate-broker/sainte-dorothee-laval/
+https://georgesmatar.ca/ar/wasit-aqari/sainte-dorothee-laval/
 https://georgesmatar.ca/es/corredor-inmobiliario/sainte-dorothee-laval/
 ```
 
