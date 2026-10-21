@@ -146,7 +146,7 @@ By acting on what depends on you: the asking price, the documents and the deadli
 **How long does it take to sell a house in Laval, through to the deed of sale?**
 The time on market, 36 days on average for a single-family home in Q3 2026, plus the time until the notarial deed, whose date you write into the promesse d'achat (clause 11.1). No official statistic publishes the average for that second period.
 
-To go further, read [the selling calendar and the decisions that shape it, in Montreal](/en/articles/how-long-to-sell-house-montreal/) and [what happens at the notary, step by step](/en/articles/quebec-notary-process/).
+To go further, read [the selling calendar and the decisions that shape it, in Montreal](/en/articles/how-long-to-sell-house-montreal/) and [what happens at the notary, step by step](/en/articles/quebec-notary-process/), and find out [why your house is not selling in Laval](/en/articles/why-house-not-selling-laval/) and [whether now is a good time to sell your house in Laval](/en/articles/right-time-to-sell-house-laval/).
 
 ---
 

@@ -6,6 +6,8 @@ city: "Longueuil"
 url: "/es/corredor-inmobiliario/longueuil/"
 translationKey: "secteur-longueuil"
 weight: 7
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Rive-Sud: Vieux-Longueuil, Saint-Hubert y Greenfield Park, tres mercados distintos."
 facts:
   - value: "3"
@@ -47,6 +49,8 @@ Longueuil es la puerta de entrada de la Rive-Sud y una de las pocas ciudades de 
 **[Saint-Hubert](/es/corredor-inmobiliario/saint-hubert-longueuil/)** es el sector más asequible y el más extenso. Parque inmobiliario mayoritariamente unifamiliar, terrenos más grandes y una oferta que atrae a familias desplazadas de Brossard o Boucherville. Es también donde las diferencias de precio entre dos calles son más marcadas.
 
 **Greenfield Park** conserva una identidad propia, heredada de su condición de municipio distinto hasta las fusiones, con un parque inmobiliario de los años 1950 a 1970. Los terrenos maduros y los árboles establecidos son un argumento real para parte de los compradores.
+
+Las cifras de cada distrito están en [el mercado inmobiliario de Longueuil, distrito por distrito, en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-longueuil-por-sector/): ventas, precios medianos y plazos de venta según Centris para el Vieux-Longueuil, Saint-Hubert y Greenfield Park.
 
 ## Lo que hay que verificar primero aquí
 

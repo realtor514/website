@@ -129,7 +129,7 @@ Encargue uno nuevo de inmediato. La OACIQ explica que el notario lo exigirá, de
 **Vender su casa usted mismo en Quebec: ¿el plazo de venta será más largo?**
 Ninguna fuente oficial lo mide. Los 36 días de Laval publicados por Centris corresponden a ventas concluidas por corredores: sitúan el mercado, no una venta sin corredor.
 
-Para completar, lea [vender con o sin corredor en Quebec](/es/articles/selling-without-realtor-quebec/) y [el formulario Déclarations du vendeur](/es/articles/declaraciones-del-vendedor-quebec/).
+Para completar, lea [vender con o sin corredor en Quebec](/es/articles/selling-without-realtor-quebec/) y [el formulario Déclarations du vendeur](/es/articles/declaraciones-del-vendedor-quebec/), y descubra [cuánto cobra un corredor inmobiliario en Laval](/es/articles/comision-corredor-inmobiliario-laval/) y [cuánto vale su casa en Laval](/es/articles/cuanto-vale-mi-casa-laval/).
 
 ---
 

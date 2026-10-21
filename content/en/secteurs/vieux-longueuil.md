@@ -7,7 +7,7 @@ url: "/en/real-estate-broker/vieux-longueuil/"
 translationKey: "quartier-vieux-longueuil"
 weight: 106
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "Longueuil: heritage core, metro sector, Montréal-Sud, Coteau-Rouge, LeMoyne, parc Michel-Chartrand."
 facts:
   - value: "1993"
@@ -47,6 +47,8 @@ Old Longueuil is the oldest part of the agglomeration, and the borough where pla
 **The era of construction.** The stock runs from the old core to post war cottages and bungalows, then to plexes and recent condominium towers near the metro. The age of the building sets the size of the work to expect, and it is that amount that gets negotiated.
 
 In August 2026, in the Montreal CMA, the APCIQ recorded 2,853 sales and 20,128 active listings, median prices of $650,000 for single-family homes, $437,250 for condominiums and $856,000 for plexes, and a 28% year over year increase in supply on the South Shore. Those figures place a regional trend, not the price of a street.
+
+The borough's own figures are in [the Vieux-Longueuil, Longueuil real estate market in the third quarter of 2026](/en/articles/vieux-longueuil-real-estate-market/): sales, median prices and days on market for single-family homes, condos and plexes, as published by Centris.
 
 ## The sectors
 

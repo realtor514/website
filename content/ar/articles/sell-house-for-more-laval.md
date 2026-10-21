@@ -131,7 +131,7 @@ draft: false
 **كيف تبيع منزلك جيداً: هل ينبغي تحديد موعد نهائي لتقديم العروض؟**
 ليس إن كنت تبيع عبر وسيط: إذ ترى OACIQ أن هذه الاستراتيجية تتعارض مع واجبه في عرض كل وعد في أقرب وقت ممكن. ويبقى لك الحق في الانتظار طوال مهلة القبول.
 
-وللاستزادة، اقرأ [التكلفة الحقيقية لبيع منزل في كيبيك](/ar/articles/real-cost-selling-home-quebec/) و[روافع التفاوض في وعد الشراء](/ar/articles/strategies-negociation-immobilier-montreal/).
+وللاستزادة، اقرأ [هل ينبغي عرض منزلك بسعر أعلى للتفاوض في لافال](/ar/articles/overpricing-house-negotiation-laval/)، و[هل يجب تجديد منزلك قبل بيعه في لافال](/ar/articles/renovate-before-selling-house-laval/)، و[التكلفة الحقيقية لبيع منزل في كيبيك](/ar/articles/real-cost-selling-home-quebec/) و[روافع التفاوض في وعد الشراء](/ar/articles/strategies-negociation-immobilier-montreal/).
 
 ---
 

@@ -137,6 +137,8 @@ Yes. Both are calculated on the remuneration: $1,497.50 in taxes on $10,000.
 **Buyer's agent commission: does the buyer pay?**
 Not necessarily. The buyer's remuneration is deducted from the share offered by the seller; if that share covers it, the buyer has nothing to pay directly.
 
+Also in this series, find out [how to sell your house yourself with DuProprio in Laval](/en/articles/sell-house-yourself-duproprio-laval/) and [how to sell your house for the highest price in Laval](/en/articles/sell-house-for-more-laval/).
+
 To go further, read [real estate commission in Quebec, from start to finish](/en/articles/commission-explained-quebec/), [the listing brokerage contract clause by clause](/en/articles/listing-brokerage-contract-quebec/) and [the Laval market by sector](/en/articles/laval-real-estate-market-by-sector/).
 
 ---

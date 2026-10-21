@@ -5,6 +5,8 @@ description: "Courtier immobilier résidentiel à Longueuil: Vieux-Longueuil, Sa
 city: "Longueuil"
 url: "/courtier-immobilier/longueuil/"
 translationKey: "secteur-longueuil"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 7
 cardText: "Rive-Sud: Vieux-Longueuil, Saint-Hubert et Greenfield Park, trois marchés distincts."
 facts:
@@ -47,6 +49,8 @@ Longueuil est la porte d'entrée de la Rive-Sud, et l'une des rares villes de la
 **[Saint-Hubert](/courtier-immobilier/saint-hubert-longueuil/)** est le secteur le plus abordable et le plus vaste. Parc immobilier majoritairement unifamilial, terrains plus grands, et une offre qui attire les familles écartées de Brossard ou de Boucherville. C'est aussi le secteur où les écarts de prix entre deux rues sont les plus marqués.
 
 **Greenfield Park** garde une identité propre, héritée de son statut de municipalité distincte jusqu'aux fusions, avec un parc immobilier des années 1950 à 1970. Les terrains matures et les arbres établis y sont un argument réel pour une partie des acheteurs.
+
+Les ventes, les prix médians et les délais de vente des trois arrondissements, selon Centris, sont comparés dans [le marché immobilier de Longueuil, arrondissement par arrondissement, au 3e trimestre 2026](/articles/marche-immobilier-longueuil-secteurs/).
 
 ## Ce qu'il faut vérifier en priorité ici
 

@@ -5,6 +5,8 @@ description: "Courtier immobilier à Montréal: Ahuntsic, Villeray, Rosemont, Sa
 city: "Montréal"
 url: "/courtier-immobilier/montreal/"
 translationKey: "secteur-montreal"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 2
 cardText: "Les 19 arrondissements, avec une connaissance approfondie du nord et de l'est de l'île."
 facts:
@@ -59,6 +61,8 @@ Sur l'île, la moyenne montréalaise ne signifie rien. Un triplex à Villeray et
 **[Saint-Léonard](/courtier-immobilier/saint-leonard-montreal/), Anjou, Montréal-Nord et [Rivière-des-Prairies](/courtier-immobilier/riviere-des-prairies-montreal/)** offrent encore des unifamiliales et des duplex à des prix qui n'existent plus dans les quartiers centraux. Ce sont aussi des secteurs où le stationnement, le terrain et l'espace intérieur comptent davantage que la proximité du métro pour la clientèle locale.
 
 **Mercier-Hochelaga-Maisonneuve** a connu la transformation la plus rapide de l'est. Cela crée des occasions, et aussi des surprises: deux rues peuvent se négocier à des prix très différents.
+
+Les ventes, les prix médians et les délais de vente des 19 arrondissements et des 15 villes liées, selon Centris, sont comparés dans [le marché immobilier de Montréal, arrondissement par arrondissement, au 3e trimestre 2026](/articles/marche-immobilier-montreal-arrondissements/).
 
 ## Ce qu'il faut vérifier avant de faire une offre
 

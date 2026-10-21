@@ -124,7 +124,7 @@ En la zona Montréal-Nord de la SCHL (la agencia federal de vivienda, CMHC en in
 
 **La evaluación de las unifamiliares de Montréal-Nord subió un 18 %: ¿también los impuestos?** No tanto. El alza se reparte en tres años y se compara con la de las demás propiedades. En 2026, las cargas fiscales prediales de las unifamiliares del distrito aumentan un 5,5 % en promedio, según el presupuesto de la Ciudad.
 
-Para completar, lea [cómo leer los datos del mercado inmobiliario de Montreal y Laval](/es/articles/marche-immobilier-montreal-analyse-donnees/) y [lo que debe saber antes de comprar un plex de ingresos](/es/articles/income-property-beginners/).
+Para completar, lea [el mercado inmobiliario de Montreal, distrito por distrito](/es/articles/mercado-inmobiliario-montreal-por-distrito/), [cómo leer los datos del mercado inmobiliario de Montreal y Laval](/es/articles/marche-immobilier-montreal-analyse-donnees/) y [lo que debe saber antes de comprar un plex de ingresos](/es/articles/income-property-beginners/).
 
 ---
 

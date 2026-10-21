@@ -158,7 +158,7 @@ draft: false
 **الشراء قبل البيع بدون قرض جسري: هل على البائع أن يقبل شرطي؟**
 لا. لا شيء يلزمه بقبول الشرط R2.1 ولا بتاريخ عقد بعيد: إنها مفاوضة، مثل السعر.
 
-وللاستزادة، اقرأ [البيع قبل الشراء في كيبيك: البنود التي تحسم الأمر](/ar/articles/sell-before-buying-clauses-quebec/) و[سوق العقارات في لافال حسب القطاع](/ar/articles/laval-real-estate-market-by-sector/).
+وللاستزادة، اقرأ [كم يستغرق بيع منزل في لافال](/ar/articles/how-long-to-sell-house-laval/)، و[هل هذا هو الوقت المناسب لبيع منزلك في لافال](/ar/articles/right-time-to-sell-house-laval/)، و[البيع قبل الشراء في كيبيك: البنود التي تحسم الأمر](/ar/articles/sell-before-buying-clauses-quebec/) و[سوق العقارات في لافال حسب القطاع](/ar/articles/laval-real-estate-market-by-sector/).
 
 ---
 

@@ -110,7 +110,7 @@ Sí, pero no forzosamente sin costo: el punto 2 de la cláusula 7.1 del contrato
 **¿Cuánto tiempo antes de bajar el precio de una casa en Laval?**
 La decisión le corresponde, y se firma en el formulario Modifications, según la OACIQ. La APCIQ cuenta 44 días antes de la primera revisión del precio de una unifamiliar en Laval y 57 en Montreal, de enero a agosto de 2026.
 
-Para completar, lea [las palancas de negociación de una promesa de compra](/es/articles/strategies-negociation-immobilier-montreal/) y [lo que revela la brecha entre precio pedido y precio vendido en Montreal](/es/articles/precio-pedido-vs-precio-vendido-montreal/).
+Para completar, lea [las palancas de negociación de una promesa de compra](/es/articles/strategies-negociation-immobilier-montreal/) y [lo que revela la brecha entre precio pedido y precio vendido en Montreal](/es/articles/precio-pedido-vs-precio-vendido-montreal/), y descubra [por qué su casa no se vende en Laval](/es/articles/por-que-mi-casa-no-se-vende-laval/) y [cuánto vale su casa en Laval](/es/articles/cuanto-vale-mi-casa-laval/).
 
 ---
 

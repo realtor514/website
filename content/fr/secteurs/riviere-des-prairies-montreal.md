@@ -7,7 +7,7 @@ url: "/courtier-immobilier/riviere-des-prairies-montreal/"
 translationKey: "quartier-riviere-des-prairies"
 weight: 104
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "Est de l'île: noyau villageois du boulevard Gouin, Marc-Aurèle-Fortin, corridor Maurice-Duplessis, Faubourg Pointe-aux-Prairies."
 facts:
   - value: "49,2 %"
@@ -49,6 +49,8 @@ L'âge du bâti fait le reste: 12,3 % des logements de l'arrondissement datent d
 ## Le prix, et l'écart avec l'île
 
 Au deuxième trimestre de 2026, selon le profil de quartier de Centris, la plateforme de l'APCIQ, le prix médian d'une unifamiliale dans l'arrondissement s'établissait à 583 250 $, pour 144 ventes et 31 jours de délai moyen. Pour l'ensemble de l'île de Montréal, la même source donne 835 000 $ et 41 jours. En copropriété: 345 000 $ dans l'arrondissement contre 483 500 $ pour l'île.
+
+Les chiffres du trimestre suivant, catégorie par catégorie et Pointe-aux-Trembles comprise, sont analysés dans [le marché immobilier de Rivière-des-Prairies, à Montréal, au 3e trimestre 2026](/articles/marche-immobilier-riviere-des-prairies-pointe-aux-trembles-montreal/).
 
 ## Les sous-secteurs
 

@@ -196,7 +196,8 @@ tourisme). أما في لو بلاتو، فيلزم أن يقع العقار ف�
 Montréal/Île-des-Soeurs»، مقابل 392 مسكناً للإيجار.
 
 وللاستزادة، اقرأ
-[السعر المطلوب والسعر المُباع في مونتريال](/ar/articles/list-price-vs-sold-price-montreal/)
+[سوق العقارات في مونتريال، دائرةً بدائرة](/ar/articles/montreal-real-estate-market-by-borough/)،
+و[السعر المطلوب والسعر المُباع في مونتريال](/ar/articles/list-price-vs-sold-price-montreal/)
 و[الاعتراض على التقييم البلدي في كيبيك](/ar/articles/contest-property-assessment-quebec/).
 أما [صفحة مونتريال](/ar/wasit-aqari/montreal/) فتجمع الباقي.
 

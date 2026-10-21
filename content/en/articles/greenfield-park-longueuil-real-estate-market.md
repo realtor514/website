@@ -108,7 +108,7 @@ No. The borough may serve the public in English, but section 23 of the Charter o
 **Can the borough lose its status?**
 Section 29.2 provides for a review in light of each census. If the English mother tongue majority is still missing, the borough receives a notice and has 120 days to vote to keep its status, as it did in 2023.
 
-To go further, read [how the welcome tax is calculated in Quebec](/en/articles/welcome-tax-quebec-guide/) and [how to contest a municipal assessment](/en/articles/contest-property-assessment-quebec/).
+To go further, read [the Longueuil real estate market, borough by borough](/en/articles/longueuil-real-estate-market-by-sector/), [how the welcome tax is calculated in Quebec](/en/articles/welcome-tax-quebec-guide/) and [how to contest a municipal assessment](/en/articles/contest-property-assessment-quebec/).
 
 ---
 

@@ -110,6 +110,8 @@ Oui, mais pas forcément sans frais: le point 2 de la clause 7.1 du contrat de c
 **Combien de temps avant de baisser le prix d'une maison à Laval?**
 La décision vous revient, et elle se signe sur le formulaire Modifications, selon l'OACIQ. L'APCIQ compte 44 jours avant la première révision du prix d'une unifamiliale à Laval et 57 à Montréal, de janvier à août 2026.
 
+Deux questions voisines ont leur propre article: [pourquoi ma maison ne se vend pas à Laval?](/articles/pourquoi-maison-ne-se-vend-pas-laval/) et [combien vaut ma maison aujourd'hui à Laval?](/articles/combien-vaut-ma-maison-laval/)
+
 Pour compléter, lisez [les leviers de négociation d'une promesse d'achat](/articles/strategies-negociation-immobilier/) et [ce que l'écart entre prix demandé et prix vendu révèle à Montréal](/articles/prix-demande-prix-vendu-montreal/).
 
 ---

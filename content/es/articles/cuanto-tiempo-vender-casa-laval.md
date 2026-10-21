@@ -146,7 +146,7 @@ Actuando sobre lo que depende de usted: el precio pedido, los documentos y los p
 **¿Cuánto tiempo toma vender una casa en Laval, hasta la escritura de venta?**
 El plazo en el mercado, 36 días en promedio para una unifamiliar en el tercer trimestre de 2026, más el tiempo hasta la escritura notarial, cuya fecha usted escribe en la promesse d'achat (cláusula 11.1). Ninguna estadística oficial publica el promedio de ese segundo período.
 
-Para completar, lea [el calendario de venta y las decisiones que lo determinan, en Montreal](/es/articles/how-long-to-sell-house-montreal/) y [el trámite ante el notario, paso a paso](/es/articles/quebec-notary-process/).
+Para completar, lea [el calendario de venta y las decisiones que lo determinan, en Montreal](/es/articles/how-long-to-sell-house-montreal/) y [el trámite ante el notario, paso a paso](/es/articles/quebec-notary-process/), y descubra [por qué su casa no se vende en Laval](/es/articles/por-que-mi-casa-no-se-vende-laval/) y [si es buen momento para vender su casa en Laval](/es/articles/buen-momento-para-vender-casa-laval/).
 
 ---
 

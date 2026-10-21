@@ -130,6 +130,8 @@ Non, au sens strict. Quand l'offre vient d'un courtier, il s'agit d'une analyse 
 **Combien prend un agent immobilier pour estimer une maison?**
 Aucune source officielle consultée ne publie de prix pour l'analyse comparative d'un courtier: demandez-le avant qu'il commence. Celle que je prépare est sans frais. Pour un évaluateur agréé, l'Ordre n'a établi aucun tarif indicatif: les honoraires varient selon la région, le type de propriété et le but du rapport, et l'Ordre conseille d'en comparer quelques-uns.
 
+Deux questions voisines ont leur propre article: [faut-il afficher sa maison plus cher pour négocier à Laval?](/articles/afficher-maison-plus-cher-negociation-laval/) et [comment vendre ma maison le plus cher possible à Laval?](/articles/vendre-maison-plus-cher-laval/)
+
 Pour compléter, lisez [comment auditer les comparables qu'on vous présente](/articles/comparables-prix-maison-voisin-quebec/) et [comment contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
 
 ---

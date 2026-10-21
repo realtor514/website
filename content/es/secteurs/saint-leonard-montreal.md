@@ -7,7 +7,7 @@ url: "/es/corredor-inmobiliario/saint-leonard-montreal/"
 translationKey: "quartier-saint-leonard"
 weight: 105
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "Saint-Léonard, Montreal: Jean-Talon Est, Viau, Lacordaire, Langelier, Port-Maurice y Grande-Prairie."
 facts:
   - value: "82,2 %"
@@ -51,6 +51,8 @@ Luego viene el acceso. La autopista 40, el Métropolitain, atraviesa el distrito
 Después el metro, que exige precisión. Según la ARTM, la prolongación de la línea azul añade cinco estaciones en cerca de 6 kilómetros entre la estación Saint-Michel y el distrito de Anjou. Al 23 de septiembre de 2026, la STM indica en su página del proyecto que la inauguración está prevista para 2031. Dos estaciones están en Saint-Léonard: Césira-Parisotto, en Jean-Talon y Lacordaire, y Madeleine-Parent, en Jean-Talon y Langelier. Una tercera, Mary-Two-Axe-Earley, está prevista en Jean-Talon y Viau. Es un calendario anunciado, no una promesa, y hasta entonces es una obra: el 7 de julio de 2025 la STM puso en servicio la lanzadera 814 Jean-Talon Est / Bélanger para el sector afectado. Las líneas 32 Lacordaire y 33 Langelier ya figuran entre sus líneas de paso frecuente.
 
 El mercado, por último. Según las estadísticas de la APCIQ producidas por el sistema Centris, la isla de Montreal registró en agosto de 2026 179 ventas de plex de 2 a 5 viviendas, un 5 % menos en doce meses, con 1 622 fichas activas, un 18 % más, un precio mediano de 870 000 $, un 1 % menos, y un plazo medio de venta de 54 días. Es la isla entera: eso enmarca una conversación, no evalúa una dirección.
+
+Las cifras propias del distrito están en [el mercado inmobiliario de Saint-Léonard y del este de Montreal en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-este-de-montreal/): ventas, precios medianos y plazos de venta de Centris para Saint-Léonard, Anjou, Mercier-Hochelaga-Maisonneuve y Montréal-Est.
 
 ## Los sectores
 

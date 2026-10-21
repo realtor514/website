@@ -7,7 +7,7 @@ url: "/es/corredor-inmobiliario/riviere-des-prairies-montreal/"
 translationKey: "quartier-riviere-des-prairies"
 weight: 104
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "Este de la isla: núcleo del pueblo del bulevar Gouin, Marc-Aurèle-Fortin, corredor Maurice-Duplessis, Faubourg Pointe-aux-Prairies."
 facts:
   - value: "49,2 %"
@@ -49,6 +49,8 @@ La edad del parque explica lo demás: el 12,3 % de las viviendas del distrito da
 ## El precio, y la diferencia con la isla
 
 En el segundo trimestre de 2026, según el perfil de barrio de Centris, la plataforma de la APCIQ, el precio mediano de una unifamiliar en el distrito era de 583 250 $, con 144 ventas y 31 días de plazo medio. Para toda la isla de Montreal, la misma fuente da 835 000 $ y 41 días. En copropiedad: 345 000 $ en el distrito frente a 483 500 $ en la isla.
+
+Las cifras del trimestre siguiente están en [el mercado inmobiliario de Rivière-des-Prairies y Pointe-aux-Trembles, Montreal, en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-riviere-des-prairies-pointe-aux-trembles-montreal/): ventas, precios medianos y plazos de venta de Centris para la unifamiliar, el condominio y el plex.
 
 ## Los subsectores
 

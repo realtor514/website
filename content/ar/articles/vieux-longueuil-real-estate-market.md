@@ -215,7 +215,8 @@ Taschereau، الذي تشغّله RTL (شبكة النقل في لونغوي)،
 إلا الخط الأزرق.
 
 وللاستزادة، اقرأ
-[العقارات المقارنة: كيف تدقّق في سعر الجار](/ar/articles/real-estate-comparables-quebec/)
+[سوق العقارات في لونغوي، قطاعاً بقطاع](/ar/articles/longueuil-real-estate-market-by-sector/)،
+و[العقارات المقارنة: كيف تدقّق في سعر الجار](/ar/articles/real-estate-comparables-quebec/)
 و[موجبات القانون 16 في الملكية المشتركة](/ar/articles/condo-buyer-disclosure-quebec/).
 أما [صفحة لونغوي](/ar/wasit-aqari/longueuil/) فتعرض البلديات الفرعية الثلاث.
 

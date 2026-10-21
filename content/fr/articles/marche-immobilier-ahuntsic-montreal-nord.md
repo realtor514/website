@@ -232,7 +232,7 @@ aussi?** Pas autant. La hausse est étalée sur trois ans, et elle se compare à
 des autres propriétés. En 2026, les charges foncières des unifamiliales de
 l'arrondissement augmentent de 5,5 % en moyenne, selon le budget de la Ville.
 
-Pour compléter, lisez [comment lire les données du marché immobilier de Montréal et de Laval](/articles/marche-immobilier-montreal/) et [ce qu'il faut savoir avant d'acheter un plex à revenus](/articles/income-property-beginners/).
+Pour compléter, lisez [le marché immobilier de Montréal, arrondissement par arrondissement](/articles/marche-immobilier-montreal-arrondissements/), [comment lire les données du marché immobilier de Montréal et de Laval](/articles/marche-immobilier-montreal/) et [ce qu'il faut savoir avant d'acheter un plex à revenus](/articles/income-property-beginners/).
 
 ---
 

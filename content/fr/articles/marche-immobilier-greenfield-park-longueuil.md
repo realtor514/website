@@ -108,7 +108,7 @@ Non. L'arrondissement peut servir le public en anglais, mais l'article 23 de la 
 **Le statut de l'arrondissement peut-il disparaître?**
 L'article 29.2 prévoit un examen à la lumière de chaque recensement. Si la majorité de langue maternelle anglaise manque toujours, l'arrondissement reçoit un avis et dispose de 120 jours pour voter le maintien, comme en 2023.
 
-Pour compléter, lisez [le calcul de la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [comment contester une évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
+Pour compléter, lisez [le marché immobilier de Longueuil, arrondissement par arrondissement](/articles/marche-immobilier-longueuil-secteurs/), [le calcul de la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [comment contester une évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
 
 ---
 

@@ -122,7 +122,7 @@ draft: false
 
 **هل يمكن تأجير الكوندو على Airbnb في ميرسييه أوشلاغا ميزونوف؟** ليس كإقامة سياحية تجارية: فالدائرة تحظرها. ويبقى تأجير المسكن الرئيسي ممكناً من 10 يونيو إلى 10 سبتمبر، برخصة سنوية من المدينة، وفي الملكية المشتركة، بإعلان ملكية مشتركة (déclaration de copropriété) يسمح بذلك أو بإذن من النقابة (syndicat).
 
-وللاستزادة، اقرأ [سوق العقارات في مونتريال ولافال](/ar/articles/marche-immobilier-montreal-analyse-donnees/)، و[ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/) و[مبنى متعدد الشقق أم شقة مشتركة](/ar/articles/triplex-vs-condo-montreal/).
+وللاستزادة، اقرأ [سوق العقارات في مونتريال، دائرةً بدائرة](/ar/articles/montreal-real-estate-market-by-borough/)، و[سوق العقارات في مونتريال ولافال](/ar/articles/marche-immobilier-montreal-analyse-donnees/)، و[ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/) و[مبنى متعدد الشقق أم شقة مشتركة](/ar/articles/triplex-vs-condo-montreal/).
 
 ---
 

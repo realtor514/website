@@ -7,7 +7,7 @@ url: "/en/real-estate-broker/saint-leonard-montreal/"
 translationKey: "quartier-saint-leonard"
 weight: 105
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "Saint-Léonard, Montreal: Jean-Talon Est, Viau, Lacordaire, Langelier, Port-Maurice and Grande-Prairie."
 facts:
   - value: "82.2%"
@@ -51,6 +51,8 @@ Then comes access. Autoroute 40, the Métropolitain, crosses the borough from ea
 Then the metro, which calls for precision. According to the ARTM, the blue line extension adds five stations over nearly 6 kilometres between Saint-Michel station and the Anjou borough. As of 23 September 2026, the STM states on its project page that the inauguration is planned for 2031. Two stations are in Saint-Léonard: Césira-Parisotto, at Jean-Talon and Lacordaire, and Madeleine-Parent, at Jean-Talon and Langelier. A third, Mary-Two-Axe-Earley, is planned at Jean-Talon and Viau. That is an announced timeline, not a promise, and until then it is a worksite: on 7 July 2025 the STM launched the 814 Jean-Talon Est / Bélanger shuttle for the affected area. Lines 32 Lacordaire and 33 Langelier are already frequent bus lines.
 
 The market, finally. According to QPAREB statistics produced by the Centris system, the island of Montreal recorded 179 sales of plexes of 2 to 5 dwellings in August 2026, down 5% year over year, with 1,622 active listings, up 18%, a median price of $870,000, down 1%, and an average selling time of 54 days. That is the whole island, not your street.
+
+The borough's own figures are in [the Saint-Léonard and east end Montreal real estate market in the third quarter of 2026](/en/articles/east-end-montreal-real-estate-market/): sales, median prices and days on market for Saint-Léonard, Anjou, Mercier-Hochelaga-Maisonneuve and Montréal-Est, as published by Centris.
 
 ## The sectors
 

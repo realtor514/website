@@ -119,7 +119,7 @@ draft: false
 
 **هل يمكن تأجير الكوندو للسياح في سان لوران؟** لا. فالمدينة تمنع ذلك في سان لوران، سواء للمسكن الرئيسي أو للتأجير التجاري.
 
-وللاستزادة، اقرأ [سوق العقارات في مونتريال ولافال](/ar/articles/marche-immobilier-montreal-analyse-donnees/) و[كيف تدقّق في العقارات المقارنة التي يُستند إليها في سعر الجار](/ar/articles/real-estate-comparables-quebec/). وتجمع [صفحة مونتريال](/ar/wasit-aqari/montreal/) بقية المعلومات.
+وللاستزادة، اقرأ [سوق العقارات في مونتريال، دائرةً بدائرة](/ar/articles/montreal-real-estate-market-by-borough/)، و[سوق العقارات في مونتريال ولافال](/ar/articles/marche-immobilier-montreal-analyse-donnees/) و[كيف تدقّق في العقارات المقارنة التي يُستند إليها في سعر الجار](/ar/articles/real-estate-comparables-quebec/). وتجمع [صفحة مونتريال](/ar/wasit-aqari/montreal/) بقية المعلومات.
 
 ---
 

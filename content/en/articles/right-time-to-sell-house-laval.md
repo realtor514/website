@@ -117,7 +117,7 @@ The same three measures apply. On the Island, in Q3 2026, Centris counts 3,344 s
 **Good time to sell a house: should I wait for the October 28 announcement?**
 No one knows the decision in advance. It does not change the measures already published, which cover completed sales; it can change the cost of your next purchase, a figure to have your lender calculate.
 
-To go further, read [the Laval real estate market by sector](/en/articles/laval-real-estate-market-by-sector/) and [the mortgage penalty in Quebec](/en/articles/breaking-mortgage-penalty-quebec/).
+To go further, read [the Laval real estate market by sector](/en/articles/laval-real-estate-market-by-sector/) and [the mortgage penalty in Quebec](/en/articles/breaking-mortgage-penalty-quebec/), and find out [how long it takes to sell a house in Laval](/en/articles/how-long-to-sell-house-laval/) and [whether you can buy a house before selling yours in Laval](/en/articles/buy-before-selling-house-laval/).
 
 ---
 

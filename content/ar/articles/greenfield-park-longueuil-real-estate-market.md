@@ -108,7 +108,7 @@ draft: false
 **هل يمكن أن يزول وضع البلدية الفرعية؟**
 تنص المادة 29.2 على مراجعة في ضوء كل إحصاء. فإن ظلت أغلبية أصحاب الإنجليزية لغةً أمّاً غائبة، تتلقى البلدية الفرعية إشعاراً، ويكون أمامها 120 يوماً للتصويت على الإبقاء على الاعتراف، كما حدث في 2023.
 
-وللاستزادة، اقرأ [حساب ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/) و[كيف تعترض على التقييم البلدي](/ar/articles/contest-property-assessment-quebec/).
+وللاستزادة، اقرأ [سوق العقارات في لونغوي، قطاعاً بقطاع](/ar/articles/longueuil-real-estate-market-by-sector/)، و[حساب ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/) و[كيف تعترض على التقييم البلدي](/ar/articles/contest-property-assessment-quebec/).
 
 ---
 

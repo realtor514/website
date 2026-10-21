@@ -101,7 +101,7 @@ L'ancien aéroport de Saint-Hubert, sur la route de l'Aéroport, que le réseau 
 
 **Comment savoir si une maison est exposée au bruit des avions?** WebTrak montre les vols en temps réel, la carte 38 du schéma d'aménagement les secteurs de 25 NEF et plus, et la Ville, au 311 ou au 450 463-7311, la règle qui s'applique au terrain. Ajoutez une visite à l'heure où vous seriez chez vous.
 
-Pour compléter, lisez [contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/). La [page Saint-Hubert](/courtier-immobilier/saint-hubert-longueuil/) et la [page Longueuil](/courtier-immobilier/longueuil/) rassemblent le reste.
+Pour compléter, lisez [le marché immobilier de Longueuil, arrondissement par arrondissement](/articles/marche-immobilier-longueuil-secteurs/) et [contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/). La [page Saint-Hubert](/courtier-immobilier/saint-hubert-longueuil/) et la [page Longueuil](/courtier-immobilier/longueuil/) rassemblent le reste.
 
 ---
 

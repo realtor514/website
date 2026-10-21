@@ -10346,6 +10346,504 @@
    "status": "written_draft",
    "published_path": "content/fr/articles/acheter-avant-de-vendre-maison-laval.md",
    "date": "2026-10-20"
+  },
+  {
+   "id": "t256",
+   "topic": "Marche immobilier dans les Laurentides par secteur au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier laurentides",
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "Article synthese de la serie Laurentides. Centris publie plus de 80 territoires dans la region: le tableau garde les municipalites qui ont le plus de ventes sur 4 trimestres (une vingtaine), dit le critere de selection, et renvoie a Centris pour les autres. Deux marches dans une region: la couronne nord de Montreal (Blainville, Mirabel, Saint-Jerome, Saint-Eustache) et les Laurentides de villegiature (Pays-d en-Haut, Mont-Tremblant, Sainte-Agathe), avec Argenteuil et Antoine-Labelle couverts ici seulement. Contexte a verifier: communique APCIQ pour les Laurentides s il existe, droits de mutation, location a court terme, zones inondables. Une section presente les six secteurs de la serie par leur nom, sans lien.",
+   "planned_h2": [
+    "Les Laurentides au 3e trimestre 2026",
+    "Les municipalites comparees",
+    "Couronne nord et villegiature: deux marches",
+    "Argenteuil et Antoine-Labelle",
+    "Ce qui pese sur le marche des Laurentides",
+    "Les six secteurs de la region, un par un",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-laurentides-secteurs",
+   "distinct_de": [
+    "acheter-un-chalet-quebec-verifications",
+    "acheter-maison-campagne-quebec",
+    "rive-nord-guide-laval"
+   ],
+   "region": "laurentides",
+   "quartiers_centris": [
+    "REGION laurentides",
+    "et les territoires du fichier"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t257",
+   "topic": "Marche immobilier a Blainville, Sainte-Therese, Boisbriand et Rosemere au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier blainville",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La MRC de Therese-De Blainville: Blainville, Sainte-Therese, Boisbriand, Rosemere, Lorraine, Bois-des-Filion, Sainte-Anne-des-Plaines. Pistes a verifier: les gares de la ligne exo Saint-Jerome dans le secteur, le prolongement de l autoroute 19 vers Bois-des-Filion et son statut officiel au 19 octobre 2026, les droits de mutation et taxes propres a chaque ville, les zones inondables de la riviere des Mille Iles. Des pages de ville existent pour Blainville, Sainte-Therese, Boisbriand, Rosemere et Lorraine: Rosemere et Blainville ont deja une section de chiffres du 3e trimestre, l article doit aller plus loin qu elles.",
+   "planned_h2": [
+    "Le secteur en chiffres",
+    "Sept villes comparees",
+    "Ce qui a change en un an",
+    "Le transport: train, autoroutes 15 et 19",
+    "Ce qui bouge dans le secteur",
+    "Vendre ou acheter dans le secteur",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-blainville-sainte-therese-boisbriand",
+   "distinct_de": [
+    "rive-nord-guide-laval"
+   ],
+   "region": "laurentides",
+   "quartiers_centris": [
+    "blainville",
+    "sainte-therese",
+    "boisbriand",
+    "rosemere",
+    "lorraine",
+    "bois-des-filion",
+    "sainte-anne-des-plaines"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t258",
+   "topic": "Marche immobilier a Saint-Eustache et Deux-Montagnes au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier saint-eustache",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La MRC de Deux-Montagnes: Saint-Eustache, Deux-Montagnes, Sainte-Marthe-sur-le-Lac, Pointe-Calumet, Saint-Joseph-du-Lac, Oka, Saint-Placide. Pistes a verifier: la branche Deux-Montagnes du REM, ses stations dans le secteur et son statut au 19 octobre 2026; la digue de Sainte-Marthe-sur-le-Lac et les zones inondables du lac des Deux Montagnes et de la riviere des Mille Iles avec le cadre en vigueur; les taxes et droits de mutation propres a chaque ville. Une page de ville existe pour Saint-Eustache.",
+   "planned_h2": [
+    "Le secteur en chiffres",
+    "Saint-Eustache, Deux-Montagnes, Sainte-Marthe-sur-le-Lac compares",
+    "Ce qui a change en un an",
+    "Le REM: ce qui est en service",
+    "L eau, sujet central du secteur",
+    "Vendre ou acheter dans le secteur",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-saint-eustache-deux-montagnes",
+   "distinct_de": [
+    "acheter-zone-inondable-quebec",
+    "rive-nord-guide-laval"
+   ],
+   "region": "laurentides",
+   "quartiers_centris": [
+    "saint-eustache",
+    "deux-montagnes",
+    "sainte-marthe-sur-le-lac",
+    "pointe-calumet",
+    "saint-joseph-du-lac",
+    "oka",
+    "saint-placide"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t259",
+   "topic": "Marche immobilier a Mirabel au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier mirabel",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Mirabel, une ville, plusieurs secteurs: Centris la publie d un bloc, l article le dit. Deuxieme ville des Laurentides pour le nombre de ventes sur 4 trimestres. Pistes a verifier: la croissance demographique selon l ISQ ou Statistique Canada, les mises en chantier SCHL, la gare exo de Mirabel, la zone agricole et la CPTAQ (une grande partie du territoire), les taxes et droits de mutation de Mirabel, les nouveaux quartiers residentiels et leur zonage. Une page de ville existe: /courtier-immobilier/mirabel/.",
+   "planned_h2": [
+    "Mirabel en chiffres",
+    "Unifamiliale, copropriete, plex",
+    "Ce qui a change en un an",
+    "Une ville en croissance: ce que disent les donnees",
+    "La zone agricole et le zonage",
+    "Vendre ou acheter a Mirabel",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-mirabel",
+   "distinct_de": [
+    "acheter-un-terrain-quebec-verifications",
+    "maison-neuve-ou-existante-quebec"
+   ],
+   "region": "laurentides",
+   "quartiers_centris": [
+    "mirabel"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t260",
+   "topic": "Marche immobilier a Saint-Jerome et dans la Riviere-du-Nord au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier saint-jerome",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La MRC de La Riviere-du-Nord: Saint-Jerome, premiere ville des Laurentides pour le nombre de ventes, Saint-Colomban, Prevost, Sainte-Sophie, Saint-Hippolyte. Pistes a verifier: la ligne exo Saint-Jerome et son terminus, les projets d urbanisme du centre-ville de Saint-Jerome, les puits et installations septiques hors des reseaux municipaux dans les municipalites rurales, les taxes et droits de mutation. Une page de ville existe pour Saint-Jerome.",
+   "planned_h2": [
+    "La Riviere-du-Nord en chiffres",
+    "Saint-Jerome et ses voisines comparees",
+    "Ce qui a change en un an",
+    "Ce qui bouge dans le secteur",
+    "Hors des reseaux: puits et septiques",
+    "Vendre ou acheter dans le secteur",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-saint-jerome-riviere-du-nord",
+   "distinct_de": [
+    "acheter-un-chalet-quebec-verifications"
+   ],
+   "region": "laurentides",
+   "quartiers_centris": [
+    "saint-jerome",
+    "saint-colomban",
+    "prevost",
+    "sainte-sophie",
+    "saint-hippolyte"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t261",
+   "topic": "Marche immobilier dans les Pays-d en-Haut: Saint-Sauveur, Sainte-Adele au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier saint-sauveur",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La MRC des Pays-d en-Haut: Saint-Sauveur, Sainte-Adele, Morin-Heights, Piedmont, Sainte-Anne-des-Lacs, Saint-Adolphe-d Howard, Sainte-Marguerite-du-Lac-Masson, Wentworth-Nord, Esterel, Lac-des-Seize-Iles. Un marche de residence principale et de villegiature melees. Pistes a verifier: les reglements municipaux sur la location a court terme et l enregistrement provincial des etablissements d hebergement touristique, les regles de protection des lacs et des rives, puits et septiques, les taxes. Ne repetez pas l article acheter-un-chalet-quebec-verifications: ici, les donnees du marche d abord.",
+   "planned_h2": [
+    "Les Pays-d en-Haut en chiffres",
+    "Les municipalites comparees",
+    "Ce qui a change en un an",
+    "Location a court terme: les regles du secteur",
+    "Lacs, rives et septiques",
+    "Vendre ou acheter dans les Pays-d en-Haut",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-pays-d-en-haut-saint-sauveur",
+   "distinct_de": [
+    "acheter-un-chalet-quebec-verifications",
+    "location-court-terme-quebec-regles"
+   ],
+   "region": "laurentides",
+   "quartiers_centris": [
+    "saint-sauveur",
+    "sainte-adele",
+    "morin-heights",
+    "piedmont",
+    "sainte-anne-des-lacs",
+    "saint-adolphe-d-howard",
+    "sainte-marguerite-du-lac-masson",
+    "wentworth-nord",
+    "esterel",
+    "lac-des-seize-iles"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t262",
+   "topic": "Marche immobilier a Mont-Tremblant et Sainte-Agathe-des-Monts au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier mont-tremblant",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La MRC des Laurentides: Mont-Tremblant, Sainte-Agathe-des-Monts, Val-David, Val-Morin, Labelle, Mont-Blanc, Lac-Superieur, Amherst et les autres municipalites de la MRC publiees par Centris. Le marche de villegiature le plus actif de la region. Pistes a verifier: les reglements de Mont-Tremblant et de Sainte-Agathe sur la location a court terme, l enregistrement provincial des etablissements d hebergement touristique, la protection des lacs, puits et septiques, les taxes, la copropriete hoteliere et ses contraintes si une source officielle la decrit.",
+   "planned_h2": [
+    "Le secteur en chiffres",
+    "Mont-Tremblant, Sainte-Agathe et leurs voisines",
+    "Ce qui a change en un an",
+    "Location a court terme: ce que chaque ville permet",
+    "Ce qu une propriete de villegiature demande de verifier",
+    "Vendre ou acheter dans le secteur",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-mont-tremblant-sainte-agathe",
+   "distinct_de": [
+    "acheter-un-chalet-quebec-verifications",
+    "location-court-terme-quebec-regles"
+   ],
+   "region": "laurentides",
+   "quartiers_centris": [
+    "mont-tremblant",
+    "sainte-agathe-des-monts",
+    "val-david",
+    "val-morin",
+    "labelle",
+    "mont-blanc",
+    "lac-superieur",
+    "amherst",
+    "la-conception",
+    "ivry-sur-le-lac",
+    "lac-tremblant-nord",
+    "brebeuf",
+    "huberdeau",
+    "arundel",
+    "montcalm",
+    "barkmere",
+    "la-minerve",
+    "lantier",
+    "sainte-lucie-des-laurentides",
+    "val-des-lacs",
+    "lac-superieur"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t263",
+   "topic": "Marche immobilier dans Lanaudiere par secteur au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier lanaudiere",
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "Article synthese de la serie Lanaudiere. Centris publie plus de 60 territoires dans la region: le tableau garde ceux qui ont le plus de ventes sur 4 trimestres (une vingtaine), dit le critere, et renvoie a Centris pour les autres. Le sud de la region (Les Moulins, L Assomption) appartient a la couronne nord de Montreal, le nord (Matawinie) est un marche de villegiature. Contexte a verifier: communique APCIQ pour Lanaudiere s il existe, droits de mutation, train exo Mascouche, zones inondables. Une section presente les six secteurs de la serie par leur nom, sans lien.",
+   "planned_h2": [
+    "Lanaudiere au 3e trimestre 2026",
+    "Les municipalites comparees",
+    "Du sud au nord: trois marches",
+    "Ce qui pese sur le marche de Lanaudiere",
+    "Les six secteurs de la region, un par un",
+    "Lire ces chiffres sans se tromper",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-lanaudiere-secteurs",
+   "distinct_de": [
+    "rive-nord-guide-laval",
+    "acheter-maison-campagne-quebec"
+   ],
+   "region": "lanaudiere",
+   "quartiers_centris": [
+    "REGION lanaudiere",
+    "et les territoires du fichier"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t264",
+   "topic": "Marche immobilier a Terrebonne, Lachenaie et La Plaine au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier terrebonne",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Terrebonne, que Centris publie en trois secteurs: Terrebonne, Lachenaie et La Plaine. Les pages /courtier-immobilier/terrebonne/, /courtier-immobilier/vieux-terrebonne/ et /courtier-immobilier/la-plaine-terrebonne/ ont deja les chiffres de l unifamiliale du 3e trimestre: l article va plus loin (copropriete, plex, cumul de 4 trimestres, inventaire) et n en recopie pas les phrases. Pistes a verifier: zones inondables de la riviere des Mille Iles et de la riviere Mascouche, gare exo, projets d urbanisme et de logement annonces par la Ville, taxes et droits de mutation de Terrebonne.",
+   "planned_h2": [
+    "Terrebonne en chiffres",
+    "Terrebonne, Lachenaie, La Plaine compares",
+    "La copropriete et le plex",
+    "Ce qui a change en un an",
+    "Ce qui bouge a Terrebonne",
+    "Vendre ou acheter a Terrebonne",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-terrebonne-lachenaie-la-plaine",
+   "distinct_de": [
+    "rive-nord-guide-laval"
+   ],
+   "region": "lanaudiere",
+   "quartiers_centris": [
+    "terrebonne-terrebonne",
+    "terrebonne-lachenaie",
+    "terrebonne-la-plaine"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t265",
+   "topic": "Marche immobilier a Mascouche au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier mascouche",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Mascouche, deuxieme territoire de Lanaudiere pour le nombre de ventes sur 4 trimestres selon Centris. Pistes a verifier: la gare et la ligne exo Mascouche, les projets d urbanisme et de logement de la Ville, la zone agricole, les zones inondables de la riviere Mascouche, les taxes et droits de mutation. Une page de ville existe: /courtier-immobilier/mascouche/; ne recopiez pas ses phrases.",
+   "planned_h2": [
+    "Mascouche en chiffres",
+    "Unifamiliale, copropriete, plex",
+    "Mascouche et ses voisines",
+    "Ce qui a change en un an",
+    "Ce qui bouge a Mascouche",
+    "Vendre ou acheter a Mascouche",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-mascouche",
+   "distinct_de": [
+    "rive-nord-guide-laval"
+   ],
+   "region": "lanaudiere",
+   "quartiers_centris": [
+    "mascouche"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t266",
+   "topic": "Marche immobilier a Repentigny et L Assomption au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier repentigny",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La MRC de L Assomption: Repentigny, que Centris publie en deux secteurs (Repentigny et Le Gardeur), L Assomption, Charlemagne, L Epiphanie, Saint-Sulpice. Repentigny est le premier territoire de Lanaudiere pour le nombre de ventes sur 4 trimestres. Pistes a verifier: les gares exo, les zones inondables du fleuve et des rivieres L Assomption et des Prairies, les projets de la Ville, taxes et droits de mutation. Une page de ville existe pour Repentigny; ne recopiez pas ses phrases.",
+   "planned_h2": [
+    "Le secteur en chiffres",
+    "Repentigny, Le Gardeur, L Assomption compares",
+    "Ce qui a change en un an",
+    "L eau dans le secteur",
+    "Ce qui bouge dans le secteur",
+    "Vendre ou acheter dans le secteur",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-repentigny-l-assomption",
+   "distinct_de": [
+    "acheter-zone-inondable-quebec"
+   ],
+   "region": "lanaudiere",
+   "quartiers_centris": [
+    "repentigny-repentigny",
+    "repentigny-le-gardeur",
+    "l-assomption",
+    "charlemagne",
+    "l-epiphanie",
+    "saint-sulpice"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t267",
+   "topic": "Marche immobilier a Saint-Lin-Laurentides, Sainte-Julienne et dans Montcalm au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier saint-lin-laurentides",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La MRC de Montcalm: Saint-Lin-Laurentides, Sainte-Julienne, Saint-Calixte, Saint-Roch-de-l Achigan, Saint-Esprit, Saint-Jacques, Saint-Alexis, Saint-Liguori, Saint-Roch-Ouest. Des prix medians plus bas que dans le sud de Lanaudiere, a montrer chiffres a l appui. Pistes a verifier: la croissance demographique selon l ISQ, la route 125 et la route 335 et les chantiers du ministere des Transports, puits et septiques hors des reseaux, la zone agricole, les taxes et droits de mutation.",
+   "planned_h2": [
+    "Montcalm en chiffres",
+    "Les municipalites comparees",
+    "Ce qui a change en un an",
+    "Ce qui bouge dans le secteur",
+    "Hors des reseaux: puits, septiques, zone agricole",
+    "Vendre ou acheter dans Montcalm",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-saint-lin-sainte-julienne-montcalm",
+   "distinct_de": [
+    "acheter-maison-campagne-quebec"
+   ],
+   "region": "lanaudiere",
+   "quartiers_centris": [
+    "saint-lin-laurentides",
+    "sainte-julienne",
+    "saint-calixte",
+    "saint-roch-de-l-achigan",
+    "saint-esprit",
+    "saint-jacques",
+    "saint-alexis",
+    "saint-liguori",
+    "saint-roch-ouest"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t268",
+   "topic": "Marche immobilier a Joliette et Lavaltrie au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier joliette",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le centre de Lanaudiere: la MRC de Joliette (Joliette, Notre-Dame-des-Prairies, Saint-Charles-Borromee, Saint-Paul, Crabtree, Saint-Thomas, Sainte-Melanie, Saint-Ambroise-de-Kildare, Notre-Dame-de-Lourdes) et la MRC de D Autray (Lavaltrie, Lanoraie, Berthierville, Saint-Gabriel et les autres publiees par Centris). Joliette est la ville-centre de la region. Pistes a verifier: projets d urbanisme et de logement de Joliette, taux d inoccupation SCHL de Joliette s il est publie, zones inondables du fleuve et de la riviere L Assomption, taxes et droits de mutation.",
+   "planned_h2": [
+    "Le centre de Lanaudiere en chiffres",
+    "Joliette et ses voisines",
+    "Lavaltrie et D Autray",
+    "Ce qui a change en un an",
+    "Ce qui bouge dans le secteur",
+    "Vendre ou acheter dans le secteur",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-joliette-lavaltrie",
+   "distinct_de": [
+    "acheter-maison-campagne-quebec"
+   ],
+   "region": "lanaudiere",
+   "quartiers_centris": [
+    "joliette",
+    "notre-dame-des-prairies",
+    "saint-charles-borromee",
+    "saint-paul",
+    "crabtree",
+    "saint-thomas",
+    "sainte-melanie",
+    "saint-ambroise-de-kildare",
+    "notre-dame-de-lourdes-lanaudiere",
+    "lavaltrie",
+    "lanoraie",
+    "berthierville",
+    "saint-gabriel",
+    "saint-gabriel-de-brandon",
+    "saint-cuthbert",
+    "sainte-elisabeth",
+    "saint-barthelemy",
+    "sainte-genevieve-de-berthier",
+    "saint-ignace-de-loyola",
+    "la-visitation-de-l-ile-dupas",
+    "mandeville",
+    "saint-didace",
+    "saint-cleophas-de-brandon",
+    "saint-norbert"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t269",
+   "topic": "Marche immobilier a Rawdon, Saint-Donat et dans la Matawinie au 3e trimestre 2026",
+   "reference_theme": "Serie marche par secteur, T3 2026",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "marche immobilier rawdon",
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La MRC de Matawinie: Rawdon, Chertsey, Saint-Donat, Saint-Come, Saint-Jean-de-Matha, Saint-Alphonse-Rodriguez, Saint-Michel-des-Saints, Entrelacs, Notre-Dame-de-la-Merci, Saint-Damien, Sainte-Beatrix, Saint-Zenon, Sainte-Emelie-de-l Energie, Saint-Felix-de-Valois. Un marche de villegiature et de residence principale a prix plus bas que les Laurentides voisines, a montrer par les donnees. Pistes a verifier: reglements municipaux sur la location a court terme et enregistrement provincial des etablissements d hebergement touristique, protection des lacs et des rives, puits et septiques, taxes.",
+   "planned_h2": [
+    "La Matawinie en chiffres",
+    "Les municipalites comparees",
+    "Ce qui a change en un an",
+    "Location a court terme: les regles du secteur",
+    "Ce qu une propriete de villegiature demande de verifier",
+    "Vendre ou acheter dans la Matawinie",
+    "Questions frequentes"
+   ],
+   "slug": "marche-immobilier-rawdon-saint-donat-matawinie",
+   "distinct_de": [
+    "acheter-un-chalet-quebec-verifications",
+    "location-court-terme-quebec-regles"
+   ],
+   "region": "lanaudiere",
+   "quartiers_centris": [
+    "rawdon",
+    "chertsey",
+    "saint-donat-lanaudiere",
+    "saint-come",
+    "saint-jean-de-matha",
+    "saint-alphonse-rodriguez",
+    "saint-michel-des-saints",
+    "entrelacs",
+    "notre-dame-de-la-merci",
+    "saint-damien",
+    "sainte-beatrix",
+    "saint-zenon",
+    "sainte-emelie-de-l-energie",
+    "saint-felix-de-valois"
+   ],
+   "status": "in_progress"
   }
  ],
  "lots": "les 4 lots de sujets de reference sont planifies"

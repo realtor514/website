@@ -133,6 +133,8 @@ Oui. L'OACIQ compte les travaux de rénovation effectués parmi les informations
 **Rénover avant de vendre à Montréal: le délai est-il le même qu'à Laval?**
 Les délais annoncés diffèrent. La démarche générale de la Ville de Montréal pour rénover l'intérieur annonce, à titre indicatif et sans garantie, 8 à 10 semaines d'analyse après réception de tous les documents; Laval annonce 30 jours. Le comptoir des permis de votre arrondissement confirme le délai qui vous concerne.
 
+Deux questions voisines ont leur propre article: [comment vendre ma maison le plus cher possible à Laval?](/articles/vendre-maison-plus-cher-laval/) et [combien de temps pour vendre une maison à Laval?](/articles/combien-de-temps-vendre-maison-laval/)
+
 Pour compléter, lisez [rénovations et valeur de votre maison](/articles/renovations-dont-add-value/) et [la déclaration du vendeur au Québec](/articles/declaration-du-vendeur-quebec/).
 
 ---

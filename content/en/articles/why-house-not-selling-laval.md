@@ -137,7 +137,7 @@ On average, yes: in the third quarter of 2026, a single-family home sold on the 
 **Divorce: what to do with a house that is not selling?**
 For married spouses, selling the family residence is a decision made by both. Article 404 of the Code civil prohibits the spouse who owns a building with fewer than five dwellings from selling the family residence without the written consent of the other spouse, and the OACIQ then requires the spouse to intervene in the brokerage contract. Between co-owners, article 1030 provides that no one is bound to remain in indivision. Dividing the property is a matter for the notary, the lawyer or the mediator: see [separation, divorce and the home in Quebec](/en/articles/divorce-real-estate-guide/).
 
-To go further, read [the Laval real estate market by sector](/en/articles/laval-real-estate-market-by-sector/) and [the symptom grid for a property that is not selling](/en/articles/home-not-selling-quebec/).
+To go further, read [the Laval real estate market by sector](/en/articles/laval-real-estate-market-by-sector/) and [the symptom grid for a property that is not selling](/en/articles/home-not-selling-quebec/), and find out [whether to list your house higher to leave room to negotiate in Laval](/en/articles/overpricing-house-negotiation-laval/) and [how long it takes to sell a house in Laval](/en/articles/how-long-to-sell-house-laval/).
 
 ---
 

@@ -117,6 +117,8 @@ Les mêmes trois mesures s'appliquent. Sur l'île, au 3e trimestre 2026, Centris
 **Bon moment pour vendre sa maison: faut-il attendre l'annonce du 28 octobre?**
 Personne ne connaît la décision à l'avance. Elle ne change pas les mesures déjà publiées, qui portent sur des ventes conclues; elle peut changer le coût de votre rachat, un chiffre à faire calculer par votre prêteur.
 
+Deux questions voisines ont leur propre article: [combien de temps pour vendre une maison à Laval?](/articles/combien-de-temps-vendre-maison-laval/) et [peut-on acheter une maison avant de vendre la sienne à Laval?](/articles/acheter-avant-de-vendre-maison-laval/)
+
 Pour compléter, lisez [le marché immobilier de Laval par secteur](/articles/marche-immobilier-laval-secteurs/) et [la pénalité pour casser une hypothèque au Québec](/articles/casser-hypotheque-penalite-quebec/).
 
 ---

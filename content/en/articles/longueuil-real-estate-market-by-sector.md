@@ -89,11 +89,11 @@ Source: Centris real estate statistics for [Brossard](https://www.centris.ca/fr/
 
 This series devotes an analysis to each of the three boroughs.
 
-**Vieux-Longueuil.** The city's largest market, and the leading plex market on the South Shore over four quarters. It contains the cited heritage site of Vieux-Longueuil, more than 950 buildings protected under the Loi sur le patrimoine culturel (Quebec's Cultural Heritage Act): exterior work there is regulated, something a buyer checks before signing a promise to purchase.
+**[Vieux-Longueuil](/en/articles/vieux-longueuil-real-estate-market/).** The city's largest market, and the leading plex market on the South Shore over four quarters. It contains the cited heritage site of Vieux-Longueuil, more than 950 buildings protected under the Loi sur le patrimoine culturel (Quebec's Cultural Heritage Act): exterior work there is regulated, something a buyer checks before signing a promise to purchase.
 
-**Saint-Hubert.** The sharpest drop in sales, but the houses that sell fastest. The former Saint-Hubert airport, now the Aéroport métropolitain de Montréal, has been welcoming passengers in its new terminal since June 15, 2026, with Porter Airlines and Pascan Aviation. No source measures an effect on prices: near the airport, visit at flight times.
+**[Saint-Hubert](/en/articles/saint-hubert-longueuil-real-estate-market/).** The sharpest drop in sales, but the houses that sell fastest. The former Saint-Hubert airport, now the Aéroport métropolitain de Montréal, has been welcoming passengers in its new terminal since June 15, 2026, with Porter Airlines and Pascan Aviation. No source measures an effect on prices: near the airport, visit at flight times.
 
-**Greenfield Park.** The smallest of the three: 41 sales, supply that doubles and no published quarterly median. The City's 2026 budget plans an underground retention basin there, in the Murray sector, which it describes as "particularly vulnerable to heavy rainfall."
+**[Greenfield Park](/en/articles/greenfield-park-longueuil-real-estate-market/).** The smallest of the three: 41 sales, supply that doubles and no published quarterly median. The City's 2026 budget plans an underground retention basin there, in the Murray sector, which it describes as "particularly vulnerable to heavy rainfall."
 
 ## Reading these figures without getting them wrong
 

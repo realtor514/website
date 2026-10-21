@@ -6,6 +6,8 @@ city: "Montreal"
 url: "/es/corredor-inmobiliario/montreal/"
 translationKey: "secteur-montreal"
 weight: 2
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Los 19 distritos, con un conocimiento profundo del norte y del este de la isla."
 facts:
   - value: "19"
@@ -59,6 +61,8 @@ En la isla, la media de Montreal no significa nada. Un tríplex en Villeray y un
 **[Saint-Léonard](/es/corredor-inmobiliario/saint-leonard-montreal/), Anjou, Montréal-Nord y [Rivière-des-Prairies](/es/corredor-inmobiliario/riviere-des-prairies-montreal/)** ofrecen todavía unifamiliares y dúplex a precios que ya no existen en los barrios centrales. Son también sectores donde el estacionamiento, el terreno y el espacio interior cuentan más que la proximidad al metro para la clientela local.
 
 **Mercier-Hochelaga-Maisonneuve** ha vivido la transformación más rápida del este. Eso crea oportunidades, y también sorpresas: dos calles pueden negociarse a precios muy distintos.
+
+Las cifras de cada distrito están en [el mercado inmobiliario de Montreal, distrito por distrito, en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-montreal-por-distrito/): ventas, precios medianos y plazos de venta según Centris, para los 19 distritos y las 15 ciudades vinculadas de la isla.
 
 ## Lo que verifico antes de que haga una oferta
 

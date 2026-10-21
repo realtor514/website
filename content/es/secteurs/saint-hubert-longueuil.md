@@ -7,7 +7,7 @@ url: "/es/corredor-inmobiliario/saint-hubert-longueuil/"
 translationKey: "quartier-saint-hubert"
 weight: 107
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "El distrito más extenso de Longueuil: Vieux-Saint-Hubert, Laflèche, Parc-de-la-Cité, Croydon-Iberville, Boisé-Pilon y Les Maraîchers."
 facts:
   - value: "66 km²"
@@ -49,6 +49,8 @@ Saint-Hubert es el más extenso de los tres distritos de Longueuil: 66 km² seg�
 **El aeropuerto.** El Aéroport métropolitain de Montréal inauguró su terminal de pasajeros el 15 de junio de 2026. Para un comprador la cuestión no es la terminal sino la posición de la dirección respecto a los corredores de aproximación.
 
 **El límite sur.** Parte del distrito está en zona agrícola permanente: el stock de terrenos edificables está cerrado y el crecimiento se hace por redesarrollo de las arterias.
+
+Las cifras del distrito están en [el mercado inmobiliario de Saint-Hubert, Longueuil, en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-saint-hubert-longueuil/): ventas, precios medianos y plazos de venta de Centris para la unifamiliar, el condominio y el plex.
 
 ## Los sectores
 

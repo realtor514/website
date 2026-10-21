@@ -7,7 +7,7 @@ url: "/en/real-estate-broker/saint-hubert-longueuil/"
 translationKey: "quartier-saint-hubert"
 weight: 107
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "The largest borough of Longueuil: Vieux-Saint-Hubert, Laflèche, Parc-de-la-Cité, Croydon-Iberville, Boisé-Pilon and Les Maraîchers."
 facts:
   - value: "66 km²"
@@ -49,6 +49,8 @@ Saint-Hubert is the largest of Longueuil's three boroughs: 66 km² according to 
 **The airport.** Montreal Metropolitan Airport inaugurated its passenger terminal on 15 June 2026. For a buyer the question is not the terminal: it is where the address sits relative to the approach corridors.
 
 **The southern boundary.** Part of the borough is in the permanent agricultural zone: the stock of buildable land there is closed and growth happens by redevelopment of the arteries.
+
+The borough's own figures are in [the Saint-Hubert, Longueuil real estate market in the third quarter of 2026](/en/articles/saint-hubert-longueuil-real-estate-market/): sales, median prices and days on market for single-family homes, condos and plexes, as published by Centris.
 
 ## The sectors
 

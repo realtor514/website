@@ -133,7 +133,7 @@ Yes. The OACIQ lists renovation work done among the information to provide, and 
 **Renovating before selling in Montreal: is the timeline the same as in Laval?**
 The announced timelines differ. The City of Montreal's general procedure for renovating an interior announces, as an indication only and with no guarantee, 8 to 10 weeks of analysis once all the documents have been received; Laval announces 30 days. Your borough's permit counter confirms the timeline that applies to you.
 
-To go further, read [renovations and your home's value](/en/articles/renovations-dont-add-value/) and [the seller's declaration in Quebec](/en/articles/seller-declaration-form-quebec/).
+To go further, read [renovations and your home's value](/en/articles/renovations-dont-add-value/) and [the seller's declaration in Quebec](/en/articles/seller-declaration-form-quebec/), and find out [how to sell your house for the highest price in Laval](/en/articles/sell-house-for-more-laval/) and [how long it takes to sell a house in Laval](/en/articles/how-long-to-sell-house-laval/).
 
 ---
 

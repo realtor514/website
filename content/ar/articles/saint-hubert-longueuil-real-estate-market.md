@@ -101,7 +101,7 @@ draft: false
 
 **كيف أعرف إن كان منزل ما معرّضاً لضجيج الطائرات؟** تُظهر WebTrak الرحلات في الوقت الفعلي، وتُظهر الخريطة 38 من مخطط التهيئة القطاعات التي يبلغ فيها المؤشر 25 NEF فأكثر، وتحدد المدينة، على الرقم 311 أو [450-463-7311](tel:+14504637311)، القاعدة التي تسري على الأرض. وأضف زيارة في الساعة التي تكون فيها عادةً في البيت.
 
-وللاستزادة، اقرأ [الاعتراض على التقييم البلدي في كيبيك](/ar/articles/contest-property-assessment-quebec/). أما [صفحة سان أوبير](/ar/wasit-aqari/saint-hubert-longueuil/) و[صفحة لونغوي](/ar/wasit-aqari/longueuil/) فتجمعان الباقي.
+وللاستزادة، اقرأ [سوق العقارات في لونغوي، قطاعاً بقطاع](/ar/articles/longueuil-real-estate-market-by-sector/) و[الاعتراض على التقييم البلدي في كيبيك](/ar/articles/contest-property-assessment-quebec/). أما [صفحة سان أوبير](/ar/wasit-aqari/saint-hubert-longueuil/) و[صفحة لونغوي](/ar/wasit-aqari/longueuil/) فتجمعان الباقي.
 
 ---
 

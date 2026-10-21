@@ -137,6 +137,8 @@ En moyenne, oui: au 3e trimestre 2026, une unifamiliale vendue sur l'île de Mon
 **Divorce: que faire d'une maison qui ne se vend pas?**
 Pour des époux, vendre la résidence familiale se décide à deux. L'article 404 du Code civil interdit à l'époux propriétaire d'un immeuble de moins de cinq logements de vendre la résidence familiale sans le consentement écrit de son conjoint, et l'OACIQ requiert alors l'intervention du conjoint au contrat de courtage. Entre copropriétaires, l'article 1030 prévoit que nul n'est tenu de demeurer dans l'indivision. Le partage relève du notaire, de l'avocat ou du médiateur: voyez [séparation, divorce et maison au Québec](/articles/divorce-real-estate-guide/).
 
+Deux questions voisines ont leur propre article: [faut-il afficher sa maison plus cher pour négocier à Laval?](/articles/afficher-maison-plus-cher-negociation-laval/) et [combien de temps pour vendre une maison à Laval?](/articles/combien-de-temps-vendre-maison-laval/)
+
 Pour compléter, lisez [le marché immobilier de Laval par secteur](/articles/marche-immobilier-laval-secteurs/) et [la grille de symptômes d'une propriété qui ne se vend pas](/articles/propriete-ne-se-vend-pas-quebec/).
 
 ---

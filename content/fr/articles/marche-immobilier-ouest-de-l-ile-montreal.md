@@ -141,7 +141,7 @@ Pas dans les gammes où se font la plupart des ventes. Pour l'unifamiliale, selo
 **Ma maison est à Pierrefonds-Roxboro, près de la rivière. Quelle carte s'applique?**
 Les nouvelles cartes n'ont pas de date d'entrée en vigueur. D'ici là, selon le gouvernement du Québec, ce sont les cartes d'ancienne génération de la municipalité; la zone d'intervention spéciale y fait référence. Demandez à l'arrondissement, par écrit et avec le numéro de lot, quelle carte vaut pour votre adresse.
 
-Pour compléter, lisez [le calcul de la taxe de bienvenue](/articles/taxe-de-bienvenue-quebec/) et [comment contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
+Pour compléter, lisez [le marché immobilier de Montréal, arrondissement par arrondissement](/articles/marche-immobilier-montreal-arrondissements/), [le calcul de la taxe de bienvenue](/articles/taxe-de-bienvenue-quebec/) et [comment contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
 
 ---
 

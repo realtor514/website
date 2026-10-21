@@ -220,7 +220,8 @@ commerciales) في كامل أراضيها؛ ولا تقبلها أهونتسي�
 واحدة في الدائرة بمتوسط 5.5%، بحسب ميزانية المدينة.
 
 وللاستزادة، اقرأ
-[كيف تقرأ بيانات سوق العقارات في مونتريال ولافال](/ar/articles/marche-immobilier-montreal-analyse-donnees/)
+[سوق العقارات في مونتريال، دائرةً بدائرة](/ar/articles/montreal-real-estate-market-by-borough/)،
+و[كيف تقرأ بيانات سوق العقارات في مونتريال ولافال](/ar/articles/marche-immobilier-montreal-analyse-donnees/)
 و[ما يجب معرفته قبل شراء مبنى مدرّ للدخل](/ar/articles/income-property-beginners/).
 
 ---

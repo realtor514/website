@@ -141,7 +141,7 @@ Not in the price ranges where most sales happen. For single-family homes, accord
 **My house is in Pierrefonds-Roxboro, near the river. Which map applies?**
 The new maps have no date of coming into force. Until then, according to the Government of Quebec, the municipality's old-generation maps apply; the special intervention zone (zone d'intervention spéciale) refers to them. Ask the borough, in writing and with the lot number, which map applies to your address.
 
-To go further, read [how the welcome tax is calculated](/en/articles/welcome-tax-quebec-guide/) and [how to contest your municipal assessment](/en/articles/contest-property-assessment-quebec/).
+To go further, read [the Montreal real estate market, borough by borough](/en/articles/montreal-real-estate-market-by-borough/), [how the welcome tax is calculated](/en/articles/welcome-tax-quebec-guide/) and [how to contest your municipal assessment](/en/articles/contest-property-assessment-quebec/).
 
 ---
 

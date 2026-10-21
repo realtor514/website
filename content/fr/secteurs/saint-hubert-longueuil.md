@@ -7,7 +7,7 @@ url: "/courtier-immobilier/saint-hubert-longueuil/"
 translationKey: "quartier-saint-hubert"
 weight: 107
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "Le plus vaste arrondissement de Longueuil: Vieux-Saint-Hubert, Laflèche, Parc-de-la-Cité, Croydon-Iberville, Boisé-Pilon et les Maraîchers."
 facts:
   - value: "66 km²"
@@ -49,6 +49,8 @@ Saint-Hubert est le plus vaste des trois arrondissements de Longueuil: 66 km² s
 **L'aéroport.** L'Aéroport métropolitain de Montréal a inauguré son terminal de passagers le 15 juin 2026. Pour un acheteur, la question n'est pas le terminal: c'est la position de l'adresse par rapport aux corridors d'approche.
 
 **La limite sud.** Une partie de l'arrondissement est en zone agricole permanente: le stock de terrains constructibles y est fermé et la croissance se fait par redéveloppement des artères.
+
+Les ventes, les prix médians et les délais de vente de l'arrondissement, selon Centris, sont analysés dans [le marché immobilier de Saint-Hubert, à Longueuil, au 3e trimestre 2026](/articles/marche-immobilier-saint-hubert-longueuil/).
 
 ## Les secteurs
 

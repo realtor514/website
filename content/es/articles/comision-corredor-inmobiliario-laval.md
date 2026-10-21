@@ -137,6 +137,8 @@ Sí. Ambos impuestos se calculan sobre la retribución: 1 497,50 $ de impuestos 
 **Corredor inmobiliario y comisión del comprador: ¿paga el comprador?**
 No necesariamente. Su retribución se deduce de la parte ofrecida por el vendedor; si esa parte la cubre, no tiene nada que pagar directamente.
 
+En esta misma serie, descubra [cómo vender su casa usted mismo con DuProprio en Laval](/es/articles/vender-casa-uno-mismo-duproprio-laval/) y [cómo vender su casa al precio más alto posible en Laval](/es/articles/vender-casa-mas-cara-laval/).
+
 Para completar, lea [la comisión inmobiliaria en Quebec, de principio a fin](/es/articles/commission-explained-quebec/), [el contrato de corretaje de venta cláusula por cláusula](/es/articles/contrato-corretaje-venta-quebec/) y [el panorama del mercado de Laval por sector](/es/articles/mercado-inmobiliario-laval-por-sector/).
 
 ---

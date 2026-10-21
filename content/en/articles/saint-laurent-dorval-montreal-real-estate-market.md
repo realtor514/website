@@ -119,7 +119,7 @@ The [transfer duties calculator](/en/tools/welcome-tax/) redoes the Saint-Lauren
 
 **Can you rent your condo to tourists in Saint-Laurent?** No. The City prohibits it in Saint-Laurent, both for a principal residence and for commercial rentals.
 
-To go further, read [how to read Montreal and Laval real estate market data](/en/articles/marche-immobilier-montreal-analyse-donnees/) and [how to audit your neighbour's comparables](/en/articles/real-estate-comparables-quebec/). The [Montreal page](/en/real-estate-broker/montreal/) brings together the rest.
+To go further, read [the Montreal real estate market, borough by borough](/en/articles/montreal-real-estate-market-by-borough/), [how to read Montreal and Laval real estate market data](/en/articles/marche-immobilier-montreal-analyse-donnees/) and [how to audit your neighbour's comparables](/en/articles/real-estate-comparables-quebec/). The [Montreal page](/en/real-estate-broker/montreal/) brings together the rest.
 
 ---
 

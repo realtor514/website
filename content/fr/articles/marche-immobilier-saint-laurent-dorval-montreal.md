@@ -119,7 +119,7 @@ Le [calculateur des droits de mutation](/tools/welcome-tax/) refait le calcul de
 
 **Peut-on louer son condo aux touristes à Saint-Laurent?** Non. La Ville l'interdit à Saint-Laurent, pour la résidence principale comme pour la location commerciale.
 
-Pour compléter, lisez [le marché immobilier de Montréal et Laval](/articles/marche-immobilier-montreal/) et [comment auditer les comparables du voisin](/articles/comparables-prix-maison-voisin-quebec/). La [page Montréal](/courtier-immobilier/montreal/) rassemble le reste.
+Pour compléter, lisez [le marché immobilier de Montréal, arrondissement par arrondissement](/articles/marche-immobilier-montreal-arrondissements/), [le marché immobilier de Montréal et Laval](/articles/marche-immobilier-montreal/) et [comment auditer les comparables du voisin](/articles/comparables-prix-maison-voisin-quebec/). La [page Montréal](/courtier-immobilier/montreal/) rassemble le reste.
 
 ---
 

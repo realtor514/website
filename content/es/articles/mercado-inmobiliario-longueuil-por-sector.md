@@ -89,11 +89,11 @@ Fuente: estadísticas inmobiliarias de Centris para [Brossard](https://www.centr
 
 La serie dedica un análisis a cada uno de los tres distritos.
 
-**El Vieux-Longueuil.** El mercado más grande de la ciudad, y el primero del plex de la Rive-Sud sobre cuatro trimestres. Contiene el sitio patrimonial citado del Vieux-Longueuil, más de 950 edificios protegidos en virtud de la Loi sur le patrimoine culturel (la ley de patrimonio cultural de Quebec): las obras exteriores están reguladas, algo que un comprador verifica antes de firmar una promesse d'achat (promesa de compra).
+**[El Vieux-Longueuil](/es/articles/mercado-inmobiliario-vieux-longueuil/).** El mercado más grande de la ciudad, y el primero del plex de la Rive-Sud sobre cuatro trimestres. Contiene el sitio patrimonial citado del Vieux-Longueuil, más de 950 edificios protegidos en virtud de la Loi sur le patrimoine culturel (la ley de patrimonio cultural de Quebec): las obras exteriores están reguladas, algo que un comprador verifica antes de firmar una promesse d'achat (promesa de compra).
 
-**Saint-Hubert.** El retroceso de ventas más marcado, pero las casas que se venden más rápido. El antiguo aeropuerto de Saint-Hubert, convertido en el Aéroport métropolitain de Montréal, recibe viajeros en su nueva terminal desde el 15 de junio de 2026, con Porter Airlines y Pascan Aviation. Ninguna fuente mide un efecto sobre los precios: cerca del aeropuerto, visite a la hora de los vuelos.
+**[Saint-Hubert](/es/articles/mercado-inmobiliario-saint-hubert-longueuil/).** El retroceso de ventas más marcado, pero las casas que se venden más rápido. El antiguo aeropuerto de Saint-Hubert, convertido en el Aéroport métropolitain de Montréal, recibe viajeros en su nueva terminal desde el 15 de junio de 2026, con Porter Airlines y Pascan Aviation. Ninguna fuente mide un efecto sobre los precios: cerca del aeropuerto, visite a la hora de los vuelos.
 
-**Greenfield Park.** El más pequeño de los tres: 41 ventas, una oferta que se duplica y ninguna mediana trimestral publicada. El presupuesto 2026 de la Ciudad prevé allí una cuenca de retención subterránea en el sector Murray, que describe como « particularmente vulnerable a las lluvias fuertes ».
+**[Greenfield Park](/es/articles/mercado-inmobiliario-greenfield-park-longueuil/).** El más pequeño de los tres: 41 ventas, una oferta que se duplica y ninguna mediana trimestral publicada. El presupuesto 2026 de la Ciudad prevé allí una cuenca de retención subterránea en el sector Murray, que describe como « particularmente vulnerable a las lluvias fuertes ».
 
 ## Leer estas cifras sin equivocarse
 

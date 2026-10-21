@@ -110,7 +110,7 @@ La SCHL (la agencia federal de vivienda, CMHC en inglés) divide la isla de otro
 
 **¿Llegará el REM a LaSalle o a Lachine?** No se anuncia ninguna estación allí en los documentos oficiales consultados. En el sector, solo la estación Île-des-Sœurs está en servicio; otras dos están en planificación en el Sud-Ouest.
 
-Para completar, lea [comparables inmobiliarios: cómo auditar el precio del vecino](/es/articles/comparables-precio-casa-quebec/) y [las obligaciones de la ley 16 en copropiedad](/es/articles/documentos-condominio-comprador-quebec/). La [página de Montreal](/es/corredor-inmobiliario/montreal/) reúne el resto.
+Para completar, lea [el mercado inmobiliario de Montreal, distrito por distrito](/es/articles/mercado-inmobiliario-montreal-por-distrito/), [comparables inmobiliarios: cómo auditar el precio del vecino](/es/articles/comparables-precio-casa-quebec/) y [las obligaciones de la ley 16 en copropiedad](/es/articles/documentos-condominio-comprador-quebec/). La [página de Montreal](/es/corredor-inmobiliario/montreal/) reúne el resto.
 
 ---
 

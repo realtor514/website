@@ -7,7 +7,7 @@ url: "/es/corredor-inmobiliario/vieux-longueuil/"
 translationKey: "quartier-vieux-longueuil"
 weight: 106
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "Longueuil: núcleo patrimonial, sector del metro, Montréal-Sud, Coteau-Rouge, LeMoyne, parque Michel-Chartrand."
 facts:
   - value: "1993"
@@ -47,6 +47,8 @@ El Viejo Longueuil es la parte más antigua de la aglomeración, y el distrito d
 **La época de construcción.** El parque va del núcleo antiguo a los cottages y bungalows de posguerra, y luego a los plex y torres de condominio cerca del metro. La edad del edificio fija el volumen de trabajos, y es ese monto lo que se negocia.
 
 En agosto de 2026, en la RMR de Montreal, la APCIQ registró 2 853 ventas y 20 128 inscripciones en vigor, precios medianos de 650 000 $ para la unifamiliar, 437 250 $ para el condominio y 856 000 $ para el plex, y un aumento de la oferta del 28 % interanual en la Rive-Sud. Esas cifras sitúan una tendencia regional, no el precio de una calle.
+
+Las cifras propias del distrito están en [el mercado inmobiliario del Vieux-Longueuil, en Longueuil, en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-vieux-longueuil/): ventas, precios medianos y plazos de venta de Centris para la unifamiliar, el condominio y el plex.
 
 ## Los sectores
 

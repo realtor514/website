@@ -141,7 +141,7 @@ draft: false
 **منزلي في بييرفون روكسبورو، قرب النهر. أي خريطة تنطبق عليه؟**
 ليس للخرائط الجديدة تاريخ نفاذ بعد. وإلى ذلك الحين، وبحسب حكومة كيبيك، تنطبق خرائط الجيل القديم الخاصة بالبلدية؛ وإليها تحيل المنطقة الخاصة بالتدخل (zone d'intervention spéciale). اسأل الدائرة كتابياً، مع ذكر رقم القطعة (numéro de lot)، أي خريطة تسري على عنوانك.
 
-وللاستزادة، اقرأ [كيف تُحسب ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/) و[كيف تعترض على تقييمك البلدي](/ar/articles/contest-property-assessment-quebec/).
+وللاستزادة، اقرأ [سوق العقارات في مونتريال، دائرةً بدائرة](/ar/articles/montreal-real-estate-market-by-borough/)، و[كيف تُحسب ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/) و[كيف تعترض على تقييمك البلدي](/ar/articles/contest-property-assessment-quebec/).
 
 ---
 

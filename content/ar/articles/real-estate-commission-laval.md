@@ -209,6 +209,10 @@ rétribution، أي النفقات والأجر)، الذي يُرفق بالع�
 ليس بالضرورة. أجر وسيطه يُخصم من الحصة التي يعرضها البائع؛ فإن غطّتها هذه الحصة، لم
 يكن عليه أن يدفع شيئاً مباشرةً.
 
+ويكمّل هذا الحساب سؤالان آخران:
+[كيف تبيع منزلك بنفسك عبر DuProprio في لافال](/ar/articles/sell-house-yourself-duproprio-laval/)
+و[كيف تبيع منزلك بأعلى سعر ممكن في لافال](/ar/articles/sell-house-for-more-laval/).
+
 وللاستزادة، اقرأ [عمولة الوسيط العقاري في كيبيك، من أولها إلى آخرها](/ar/articles/commission-explained-quebec/)،
 و[عقد الوساطة للبيع بنداً بنداً](/ar/articles/listing-brokerage-contract-quebec/)،
 و[صورة سوق لافال حسب القطاع](/ar/articles/laval-real-estate-market-by-sector/).

@@ -94,7 +94,7 @@ Une moyenne n'est pas votre compte: selon le budget, la charge d'une propriété
 
 **Le train de Pointe-aux-Trembles va-t-il au centre-ville?** Pas directement. Selon l'horaire d'exo au 20 octobre 2026, la ligne 15 Mascouche s'arrête à la gare Côte-de-Liesse, en correspondance avec le REM.
 
-Pour compléter, lisez [taxes foncières à Montréal et Laval](/articles/property-tax-explained/) et [le marché immobilier de Montréal et Laval](/articles/marche-immobilier-montreal/). La [page Rivière-des-Prairies](/courtier-immobilier/riviere-des-prairies-montreal/) et la [page Montréal](/courtier-immobilier/montreal/) rassemblent le reste.
+Pour compléter, lisez [le marché immobilier de Montréal, arrondissement par arrondissement](/articles/marche-immobilier-montreal-arrondissements/), [taxes foncières à Montréal et Laval](/articles/property-tax-explained/) et [le marché immobilier de Montréal et Laval](/articles/marche-immobilier-montreal/). La [page Rivière-des-Prairies](/courtier-immobilier/riviere-des-prairies-montreal/) et la [page Montréal](/courtier-immobilier/montreal/) rassemblent le reste.
 
 ---
 

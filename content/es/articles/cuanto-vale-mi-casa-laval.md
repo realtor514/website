@@ -130,7 +130,7 @@ No, en sentido estricto. Cuando la oferta viene de un corredor, se trata de un a
 **¿Cuánto cobra un agente inmobiliario por estimar el valor de una casa?**
 Ninguna fuente oficial consultada publica un precio para el análisis comparativo de un corredor: pregúntelo antes de que empiece. El que yo preparo no tiene costo. Para un tasador acreditado, la Ordre no ha establecido ninguna tarifa indicativa: los honorarios varían según la región, el tipo de propiedad y el objetivo del informe, y la Ordre aconseja comparar varios.
 
-Para completar, lea [cómo auditar los comparables que le presentan](/es/articles/comparables-precio-casa-quebec/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
+Para completar, lea [cómo auditar los comparables que le presentan](/es/articles/comparables-precio-casa-quebec/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/), y descubra [si conviene anunciar su casa más cara para negociar en Laval](/es/articles/precio-alto-casa-negociacion-laval/) y [cómo vender su casa al precio más alto posible en Laval](/es/articles/vender-casa-mas-cara-laval/).
 
 ---
 

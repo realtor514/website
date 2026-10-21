@@ -129,7 +129,7 @@ draft: false
 **بيع المنزل بنفسك في كيبيك: هل ستطول مدة البيع؟**
 لا يقيس ذلك أي مصدر رسمي. فالأيام الستة والثلاثون التي تنشرها Centris للافال تخص مبيعات أبرمها وسطاء: إنها تحدد موقع السوق، لا مدة بيع من دون وسيط.
 
-وللاستزادة، اقرأ [البيع مع وسيط أو بدونه في كيبيك](/ar/articles/selling-without-realtor-quebec/) و[نموذج إقرارات البائع](/ar/articles/seller-declaration-form-quebec/).
+وللاستزادة، اقرأ [كم يتقاضى الوسيط العقاري في لافال](/ar/articles/real-estate-commission-laval/)، و[كم يساوي منزلك اليوم في لافال](/ar/articles/how-much-is-my-house-worth-laval/)، و[البيع مع وسيط أو بدونه في كيبيك](/ar/articles/selling-without-realtor-quebec/) و[نموذج إقرارات البائع](/ar/articles/seller-declaration-form-quebec/).
 
 ---
 

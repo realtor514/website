@@ -129,7 +129,7 @@ Order a new one right away. The OACIQ explains that the notary will require it, 
 **Selling your house yourself in Quebec: will it take longer to sell?**
 No official source measures that. The 36 days that Centris publishes for Laval cover sales concluded by brokers: they place the market, not a sale without a broker.
 
-To go further, read [selling with or without a broker in Quebec](/en/articles/selling-without-realtor-quebec/) and [the Déclarations du vendeur form](/en/articles/seller-declaration-form-quebec/).
+To go further, read [selling with or without a broker in Quebec](/en/articles/selling-without-realtor-quebec/) and [the Déclarations du vendeur form](/en/articles/seller-declaration-form-quebec/), and find out [how much a real estate broker charges in Laval](/en/articles/real-estate-commission-laval/) and [how much your house is worth in Laval](/en/articles/how-much-is-my-house-worth-laval/).
 
 ---
 

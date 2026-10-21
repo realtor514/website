@@ -133,7 +133,7 @@ Sí. La OACIQ cuenta las obras de renovación efectuadas entre la información q
 **Renovar antes de vender en Montreal: ¿el plazo es el mismo que en Laval?**
 Los plazos anunciados difieren. El trámite general de la Ciudad de Montreal para renovar el interior anuncia, a título indicativo y sin garantía, de 8 a 10 semanas de análisis tras la recepción de todos los documentos; Laval anuncia 30 días. La ventanilla de permisos de su distrito confirma el plazo que le corresponde.
 
-Para completar, lea [renovaciones y valor de su vivienda](/es/articles/renovations-dont-add-value/) y [las declaraciones del vendedor en Quebec](/es/articles/declaraciones-del-vendedor-quebec/).
+Para completar, lea [renovaciones y valor de su vivienda](/es/articles/renovations-dont-add-value/) y [las declaraciones del vendedor en Quebec](/es/articles/declaraciones-del-vendedor-quebec/), y descubra [cómo vender su casa al precio más alto posible en Laval](/es/articles/vender-casa-mas-cara-laval/) y [cuánto tiempo toma vender una casa en Laval](/es/articles/cuanto-tiempo-vender-casa-laval/).
 
 ---
 

@@ -89,11 +89,11 @@ Source: statistiques immobilières de Centris pour [Brossard](https://www.centri
 
 La série consacre une analyse à chacun des trois arrondissements.
 
-**Le Vieux-Longueuil.** Le plus gros marché de la ville, et le premier du plex de la Rive-Sud sur quatre trimestres. Il contient le site patrimonial cité du Vieux-Longueuil, plus de 950 bâtiments protégés en vertu de la Loi sur le patrimoine culturel: les travaux extérieurs y sont encadrés, ce qu'un acheteur vérifie avant de promettre d'acheter.
+**[Le Vieux-Longueuil](/articles/marche-immobilier-vieux-longueuil/).** Le plus gros marché de la ville, et le premier du plex de la Rive-Sud sur quatre trimestres. Il contient le site patrimonial cité du Vieux-Longueuil, plus de 950 bâtiments protégés en vertu de la Loi sur le patrimoine culturel: les travaux extérieurs y sont encadrés, ce qu'un acheteur vérifie avant de promettre d'acheter.
 
-**Saint-Hubert.** Le recul de ventes le plus marqué, mais les maisons les plus vite vendues. L'ancien aéroport de Saint-Hubert, devenu l'Aéroport métropolitain de Montréal, accueille des voyageurs dans son nouveau terminal depuis le 15 juin 2026, avec Porter Airlines et Pascan Aviation. Aucune source ne mesure un effet sur les prix: près de l'aéroport, visitez à l'heure des vols.
+**[Saint-Hubert](/articles/marche-immobilier-saint-hubert-longueuil/).** Le recul de ventes le plus marqué, mais les maisons les plus vite vendues. L'ancien aéroport de Saint-Hubert, devenu l'Aéroport métropolitain de Montréal, accueille des voyageurs dans son nouveau terminal depuis le 15 juin 2026, avec Porter Airlines et Pascan Aviation. Aucune source ne mesure un effet sur les prix: près de l'aéroport, visitez à l'heure des vols.
 
-**Greenfield Park.** Le plus petit des trois: 41 ventes, une offre qui double et aucune médiane trimestrielle publiée. Le budget 2026 de la Ville y prévoit un bassin de rétention souterrain dans le secteur Murray, qu'elle décrit comme « particulièrement vulnérable aux fortes pluies ».
+**[Greenfield Park](/articles/marche-immobilier-greenfield-park-longueuil/).** Le plus petit des trois: 41 ventes, une offre qui double et aucune médiane trimestrielle publiée. Le budget 2026 de la Ville y prévoit un bassin de rétention souterrain dans le secteur Murray, qu'elle décrit comme « particulièrement vulnérable aux fortes pluies ».
 
 ## Lire ces chiffres sans se tromper
 

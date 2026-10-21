@@ -137,7 +137,7 @@ En promedio, sí: en el tercer trimestre de 2026, una unifamiliar vendida en la 
 **Divorcio: ¿qué hacer con una casa que no se vende?**
 Para los cónyuges casados, vender la residencia familiar se decide entre los dos. El artículo 404 del Code civil du Québec prohíbe al cónyuge propietario de un inmueble de menos de cinco viviendas vender la residencia familiar sin el consentimiento escrito de su cónyuge, y la OACIQ exige entonces la intervención del cónyuge en el contrato de corretaje. Entre copropietarios, el artículo 1030 prevé que nadie está obligado a permanecer en la indivisión. La partición corresponde al notario, al abogado o al mediador: vea [separación, divorcio y vivienda en Quebec](/es/articles/divorce-real-estate-guide/).
 
-Para completar, lea [el mercado inmobiliario de Laval por sector](/es/articles/mercado-inmobiliario-laval-por-sector/) y [la tabla de síntomas de una propiedad que no se vende](/es/articles/casa-no-se-vende-quebec/).
+Para completar, lea [el mercado inmobiliario de Laval por sector](/es/articles/mercado-inmobiliario-laval-por-sector/) y [la tabla de síntomas de una propiedad que no se vende](/es/articles/casa-no-se-vende-quebec/), y descubra [si conviene anunciar su casa más cara para negociar en Laval](/es/articles/precio-alto-casa-negociacion-laval/) y [cuánto tiempo toma vender una casa en Laval](/es/articles/cuanto-tiempo-vender-casa-laval/).
 
 ---
 

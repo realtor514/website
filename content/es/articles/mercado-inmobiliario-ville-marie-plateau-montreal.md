@@ -95,7 +95,7 @@ La casa unifamiliar es marginal: 16 ventas en el Plateau y 10 en Ville-Marie en 
 
 **¿Se suman condominios nuevos en el centro de Montreal?** Pocos, según la SCHL: 20 condominios iniciados de enero a septiembre de 2026 en su zona «Centre-ville de Montréal/Île-des-Soeurs», frente a 392 viviendas de alquiler.
 
-Para completar, lea [precio pedido y precio vendido en Montreal](/es/articles/precio-pedido-vs-precio-vendido-montreal/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/). La [página de Montreal](/es/corredor-inmobiliario/montreal/) reúne el resto.
+Para completar, lea [el mercado inmobiliario de Montreal, distrito por distrito](/es/articles/mercado-inmobiliario-montreal-por-distrito/), [precio pedido y precio vendido en Montreal](/es/articles/precio-pedido-vs-precio-vendido-montreal/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/). La [página de Montreal](/es/corredor-inmobiliario/montreal/) reúne el resto.
 
 ---
 

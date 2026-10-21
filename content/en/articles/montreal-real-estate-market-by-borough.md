@@ -117,23 +117,23 @@ Source: Centris real estate statistics for each city, linked on its name, third 
 
 This series analyzes each of these nine sectors separately, using a grouping of its own. No sector median exists: medians cannot be combined.
 
-**Ville-Marie and Le Plateau-Mont-Royal.** Two condo markets with opposite selling times: 92 days against 48.
+**[Ville-Marie and Le Plateau-Mont-Royal](/en/articles/ville-marie-plateau-montreal-real-estate-market/).** Two condo markets with opposite selling times: 92 days against 48.
 
-**Rosemont/La Petite-Patrie and Villeray/Saint-Michel/Parc-Extension.** In Villeray/Saint-Michel/Parc-Extension, the condo median rises 33% on 47 sales, and 8% over four quarters.
+**[Rosemont/La Petite-Patrie and Villeray/Saint-Michel/Parc-Extension](/en/articles/rosemont-villeray-montreal-real-estate-market/).** In Villeray/Saint-Michel/Parc-Extension, the condo median rises 33% on 47 sales, and 8% over four quarters.
 
-**Mercier/Hochelaga-Maisonneuve, Anjou, Saint-Léonard and Montréal-Est.** The island's steepest drop in sales sits next to one of its three borough-level increases, in Anjou.
+**[Mercier/Hochelaga-Maisonneuve, Anjou, Saint-Léonard and Montréal-Est](/en/articles/east-end-montreal-real-estate-market/).** The island's steepest drop in sales sits next to one of its three borough-level increases, in Anjou.
 
-**Ahuntsic-Cartierville and Montréal-Nord.** Active listings rise 40% in Ahuntsic-Cartierville; Montréal-Nord has the island's lowest single-family median over four quarters.
+**[Ahuntsic-Cartierville and Montréal-Nord](/en/articles/ahuntsic-montreal-north-real-estate-market/).** Active listings rise 40% in Ahuntsic-Cartierville; Montréal-Nord has the island's lowest single-family median over four quarters.
 
-**Rivière-des-Prairies/Pointe-aux-Trembles.** Active listings rise 48% there, the largest increase of the 19 boroughs.
+**[Rivière-des-Prairies/Pointe-aux-Trembles](/en/articles/riviere-des-prairies-pointe-aux-trembles-montreal-real-estate-market/).** Active listings rise 48% there, the largest increase of the 19 boroughs.
 
-**Le Sud-Ouest, Verdun, LaSalle and Lachine.** Le Sud-Ouest is the island's second-largest market by sales, 268; in Lachine, the condo median falls 12% on 39 sales.
+**[Le Sud-Ouest, Verdun, LaSalle and Lachine](/en/articles/sud-ouest-verdun-lasalle-montreal-real-estate-market/).** Le Sud-Ouest is the island's second-largest market by sales, 268; in Lachine, the condo median falls 12% on 39 sales.
 
-**Côte-des-Neiges/Notre-Dame-de-Grâce, Outremont, Westmount, Mont-Royal, Hampstead, Côte-Saint-Luc and Montréal-Ouest.** The four highest single-family medians over four quarters are here, and supply is shrinking in Westmount (-6%), Mont-Royal (-10%) and Hampstead (-15%).
+**[Côte-des-Neiges/Notre-Dame-de-Grâce, Outremont, Westmount, Mont-Royal, Hampstead, Côte-Saint-Luc and Montréal-Ouest](/en/articles/ndg-westmount-montreal-real-estate-market/).** The four highest single-family medians over four quarters are here, and supply is shrinking in Westmount (-6%), Mont-Royal (-10%) and Hampstead (-15%).
 
-**Saint-Laurent, Dorval and L'Île-Dorval.** Saint-Laurent sells 100 condos (+6%), but in 75 days, 22 more than a year earlier.
+**[Saint-Laurent, Dorval and L'Île-Dorval](/en/articles/saint-laurent-dorval-montreal-real-estate-market/).** Saint-Laurent sells 100 condos (+6%), but in 75 days, 22 more than a year earlier.
 
-**The West Island.** Pointe-Claire, Dollard-des-Ormeaux, Kirkland, Beaconsfield, Baie-D'Urfé, Sainte-Anne-de-Bellevue, Senneville, Pierrefonds-Roxboro and L'Île-Bizard/Sainte-Geneviève sell mostly single-family homes; in Pointe-Claire, they sell in 29 days, the shortest published single-family selling time on the island.
+**[The West Island](/en/articles/west-island-montreal-real-estate-market/).** Pointe-Claire, Dollard-des-Ormeaux, Kirkland, Beaconsfield, Baie-D'Urfé, Sainte-Anne-de-Bellevue, Senneville, Pierrefonds-Roxboro and L'Île-Bizard/Sainte-Geneviève sell mostly single-family homes; in Pointe-Claire, they sell in 29 days, the shortest published single-family selling time on the island.
 
 ## Reading these figures without getting them wrong
 

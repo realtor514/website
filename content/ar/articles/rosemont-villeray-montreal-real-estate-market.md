@@ -112,7 +112,7 @@ draft: false
 
 **هل سيرفع المترو الأسعار قرب Jean-Talon؟** لا يقيس أي مصدر رسمي هذا الأثر. أما ما هو منشور فهو التاريخ: تتوقع STM افتتاح المحطات الخمس في 2031.
 
-وللاستزادة، اقرأ [العقارات المقارنة: كيف تدقّق في سعر الجار](/ar/articles/real-estate-comparables-quebec/)، ثم راجع [صفحة مونتريال](/ar/wasit-aqari/montreal/).
+وللاستزادة، اقرأ [سوق العقارات في مونتريال، دائرةً بدائرة](/ar/articles/montreal-real-estate-market-by-borough/) و[العقارات المقارنة: كيف تدقّق في سعر الجار](/ar/articles/real-estate-comparables-quebec/)، ثم راجع [صفحة مونتريال](/ar/wasit-aqari/montreal/).
 
 ---
 

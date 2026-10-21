@@ -112,7 +112,7 @@ Avec 19 ventes à Rosemont et 20 à Villeray au trimestre, Centris ne publie pas
 
 **Le métro fera-t-il monter les prix près de Jean-Talon?** Aucune source officielle ne mesure cet effet. Ce qui est publié, c'est la date: la STM prévoit d'ouvrir les cinq stations en 2031.
 
-Pour compléter, lisez [comparables immobiliers: auditer le prix du voisin](/articles/comparables-prix-maison-voisin-quebec/), puis consultez la [page Montréal](/courtier-immobilier/montreal/).
+Pour compléter, lisez [le marché immobilier de Montréal, arrondissement par arrondissement](/articles/marche-immobilier-montreal-arrondissements/) et [comparables immobiliers: auditer le prix du voisin](/articles/comparables-prix-maison-voisin-quebec/), puis consultez la [page Montréal](/courtier-immobilier/montreal/).
 
 ---
 

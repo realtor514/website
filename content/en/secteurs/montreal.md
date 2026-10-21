@@ -5,6 +5,8 @@ description: "Real estate broker in Montreal: Ahuntsic, Villeray, Rosemont, Sain
 city: "Montreal"
 url: "/en/real-estate-broker/montreal/"
 translationKey: "secteur-montreal"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 2
 cardText: "All 19 boroughs, with in-depth knowledge of the north and east of the island."
 facts:
@@ -59,6 +61,8 @@ On the island, the Montreal average means nothing. A triplex in Villeray and a t
 **[Saint-Léonard](/en/real-estate-broker/saint-leonard-montreal/), Anjou, Montréal-Nord and [Rivière-des-Prairies](/en/real-estate-broker/riviere-des-prairies-montreal/)** still offer single-family homes and duplexes at prices that no longer exist in central neighbourhoods. These are also sectors where parking, lot size and interior space matter more to local buyers than metro proximity.
 
 **Mercier-Hochelaga-Maisonneuve** has seen the fastest transformation in the east end. That creates opportunities, and also surprises: two streets apart can trade at very different prices.
+
+The figures behind these markets are in [the Montreal real estate market by borough in the third quarter of 2026](/en/articles/montreal-real-estate-market-by-borough/): sales, median prices and days on market for each borough and related city, as published by Centris.
 
 ## What to check before making an offer
 

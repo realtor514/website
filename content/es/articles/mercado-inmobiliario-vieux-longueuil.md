@@ -113,7 +113,7 @@ El plan d'urbanisme (plan de urbanismo) de 2021 anuncia además un futuro progra
 
 **¿Se prolongará el metro hacia la rue Saint-Charles?** No existe ningún calendario oficial. El plan d'urbanisme de 2021 mencionaba una estación Saint-Charles y el schéma de la aglomeración una prolongación en el distrito, sin fecha. El plan 2025-2034 de la ARTM solo prolonga la línea azul.
 
-Para completar, lea [comparables inmobiliarios: cómo auditar el precio del vecino](/es/articles/comparables-precio-casa-quebec/) y [las obligaciones de la ley 16 en copropiedad](/es/articles/documentos-condominio-comprador-quebec/). La [página Longueuil](/es/corredor-inmobiliario/longueuil/) presenta los tres distritos.
+Para completar, lea [el mercado inmobiliario de Longueuil, distrito por distrito](/es/articles/mercado-inmobiliario-longueuil-por-sector/), [comparables inmobiliarios: cómo auditar el precio del vecino](/es/articles/comparables-precio-casa-quebec/) y [las obligaciones de la ley 16 en copropiedad](/es/articles/documentos-condominio-comprador-quebec/). La [página Longueuil](/es/corredor-inmobiliario/longueuil/) presenta los tres distritos.
 
 ---
 

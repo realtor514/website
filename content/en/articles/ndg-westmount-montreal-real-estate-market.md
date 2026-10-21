@@ -119,7 +119,7 @@ For Hampstead, whose page still shows the first two brackets for 2025, the calcu
 
 **Will the Namur-Hippodrome project move prices in Côte-des-Neiges-Notre-Dame-de-Grâce?** No official source measures such an effect, and the City publishes no construction date.
 
-To go further, read [the welcome tax in Quebec](/en/articles/welcome-tax-quebec-guide/) and [comparing two Montreal neighbourhoods](/en/articles/best-neighborhoods-montreal/). The [Montreal page](/en/real-estate-broker/montreal/) brings together the rest.
+To go further, read [the Montreal real estate market, borough by borough](/en/articles/montreal-real-estate-market-by-borough/), [the welcome tax in Quebec](/en/articles/welcome-tax-quebec-guide/) and [comparing two Montreal neighbourhoods](/en/articles/best-neighborhoods-montreal/). The [Montreal page](/en/real-estate-broker/montreal/) brings together the rest.
 
 ---
 

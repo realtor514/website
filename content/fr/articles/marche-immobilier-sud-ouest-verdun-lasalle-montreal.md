@@ -110,7 +110,7 @@ La SCHL découpe l'île autrement que Centris: sa zone Sud-Ouest/Verdun laisse L
 
 **Le REM va-t-il desservir LaSalle ou Lachine?** Aucune station n'y est annoncée dans les documents officiels consultés. Dans le secteur, seule la station Île-des-Sœurs est en service; deux autres sont en planification au Sud-Ouest.
 
-Pour compléter, lisez [comparables immobiliers: auditer le prix du voisin](/articles/comparables-prix-maison-voisin-quebec/) et [les obligations de la loi 16 en copropriété](/articles/loi-16-copropriete-acheteur-quebec/). La [page Montréal](/courtier-immobilier/montreal/) rassemble le reste.
+Pour compléter, lisez [le marché immobilier de Montréal, arrondissement par arrondissement](/articles/marche-immobilier-montreal-arrondissements/), [comparables immobiliers: auditer le prix du voisin](/articles/comparables-prix-maison-voisin-quebec/) et [les obligations de la loi 16 en copropriété](/articles/loi-16-copropriete-acheteur-quebec/). La [page Montréal](/courtier-immobilier/montreal/) rassemble le reste.
 
 ---
 

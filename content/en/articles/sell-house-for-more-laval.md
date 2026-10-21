@@ -131,7 +131,7 @@ Not on the gain from a house that was exclusively your principal residence every
 **How to sell your house well: should you set a deadline for offers?**
 Not if you sell with a broker: the OACIQ considers this strategy contrary to the broker's obligation to present each promise as soon as possible. You keep the right to wait during the acceptance period.
 
-To go further, read [the real cost of selling a house in Quebec](/en/articles/real-cost-selling-home-quebec/) and [the negotiation levers of a promise to purchase](/en/articles/strategies-negociation-immobilier-montreal/).
+To go further, read [the real cost of selling a house in Quebec](/en/articles/real-cost-selling-home-quebec/) and [the negotiation levers of a promise to purchase](/en/articles/strategies-negociation-immobilier-montreal/), and find out [whether to list your house higher to leave room to negotiate in Laval](/en/articles/overpricing-house-negotiation-laval/) and [whether to renovate before selling your house in Laval](/en/articles/renovate-before-selling-house-laval/).
 
 ---
 

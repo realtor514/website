@@ -131,7 +131,7 @@ No sobre la ganancia de una casa que fue exclusivamente su residencia principal 
 **Vender bien mi casa: ¿hay que fijar una hora límite para las ofertas?**
 No si vende con un corredor: la OACIQ considera esa estrategia contraria a la obligación del corredor de presentar cada promesa en el menor plazo posible. Usted conserva el derecho de esperar durante el plazo de aceptación.
 
-Para completar, lea [el costo real de vender una casa en Quebec](/es/articles/real-cost-selling-home-quebec/) y [las palancas de negociación de una promesa de compra](/es/articles/strategies-negociation-immobilier-montreal/).
+Para completar, lea [el costo real de vender una casa en Quebec](/es/articles/real-cost-selling-home-quebec/) y [las palancas de negociación de una promesa de compra](/es/articles/strategies-negociation-immobilier-montreal/), y descubra [si conviene anunciar su casa más cara para negociar en Laval](/es/articles/precio-alto-casa-negociacion-laval/) y [si hay que renovar antes de vender su casa en Laval](/es/articles/renovar-antes-de-vender-casa-laval/).
 
 ---
 

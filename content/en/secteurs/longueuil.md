@@ -5,6 +5,8 @@ description: "Residential real estate broker in Longueuil: Vieux-Longueuil, Sain
 city: "Longueuil"
 url: "/en/real-estate-broker/longueuil/"
 translationKey: "secteur-longueuil"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 7
 cardText: "South Shore: Vieux-Longueuil, Saint-Hubert and Greenfield Park, three distinct markets."
 facts:
@@ -47,6 +49,8 @@ Longueuil is the gateway to the South Shore, and one of the few off-island citie
 **[Saint-Hubert](/en/real-estate-broker/saint-hubert-longueuil/)** is the most affordable and the largest sector. Mostly single-family stock, larger lots, and an offering that attracts families priced out of Brossard or Boucherville. It is also where price gaps between two streets are widest.
 
 **Greenfield Park** keeps its own identity, inherited from its status as a separate municipality until the mergers, with housing stock from the 1950s through the 1970s. Mature lots and established trees are a real argument for part of the buyer pool.
+
+The figures behind these three markets are in [the Longueuil real estate market by borough in the third quarter of 2026](/en/articles/longueuil-real-estate-market-by-sector/): sales, median prices and days on market for Vieux-Longueuil, Saint-Hubert and Greenfield Park, as published by Centris.
 
 ## What to check first here
 

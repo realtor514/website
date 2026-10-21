@@ -101,7 +101,7 @@ El antiguo aeropuerto de Saint-Hubert, en la route de l'Aéroport, que la red vi
 
 **¿Cómo saber si una casa está expuesta al ruido de los aviones?** WebTrak muestra los vuelos en tiempo real; el mapa 38 del schéma d'aménagement, los sectores de 25 NEF y más; y la Ciudad, en el 311 o en el 450 463-7311, la regla que se aplica al terreno. Añada una visita a la hora en que usted estaría en casa.
 
-Para completar, lea [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/). La [página de Saint-Hubert](/es/corredor-inmobiliario/saint-hubert-longueuil/) y la [página de Longueuil](/es/corredor-inmobiliario/longueuil/) reúnen el resto.
+Para completar, lea [el mercado inmobiliario de Longueuil, distrito por distrito](/es/articles/mercado-inmobiliario-longueuil-por-sector/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/). La [página de Saint-Hubert](/es/corredor-inmobiliario/saint-hubert-longueuil/) y la [página de Longueuil](/es/corredor-inmobiliario/longueuil/) reúnen el resto.
 
 ---
 

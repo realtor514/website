@@ -106,7 +106,6 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [نشر عرض العقار على Centris: القواعد في كيبيك](/ar/articles/listing-exposure-centris-advertising-quebec/) : Centris، وfiche descriptive، والصور، وتعديل السعر، والسحب: ما الذي يعنيه نشر عرض عقارك في كيبيك، والقواعد
 - [هل هذا هو الوقت المناسب لبيع منزلي في لافال؟](/ar/articles/right-time-to-sell-house-laval/) : الوقت المناسب لبيع منزل في لافال: لا رقم يحسم وحده. في الربع الثالث 2026، 848 عملية بيع (ناقص 15%) و1 545
 - [هل يجب تجديد منزلك قبل بيعه في لافال؟](/ar/articles/renovate-before-selling-house-laval/) : تجديد المنزل قبل البيع في لافال: لا يفرضه Code civil. الرخصة: 30 يوماً معلنة. المنزل الأحادي: 36 يوماً في
-- [هل يجب عرض منزلك بسعر أعلى للتفاوض في لافال؟](/ar/articles/overpricing-house-negotiation-laval-2/) (brouillon) : في لافال، تحصي APCIQ 44 يوماً قبل أول خفض لسعر المنزل في 2026، لكن لا هي ولا Centris تنشران الفارق بين ال
 - [هل يمكن شراء منزل قبل بيع منزلك في لافال؟](/ar/articles/buy-before-selling-house-laval/) : نعم في لافال: قرض جسري بعد توقيع بيع منزلك، وإلا فخط ائتمان أو البند R2.1. في الربع الثالث 2026، بيع المن
 - [هل ينبغي عرض منزلك بسعر أعلى للتفاوض في لافال؟](/ar/articles/overpricing-house-negotiation-laval/) : في لافال، يمرّ 44 يوماً قبل أول خفض لسعر المنزل في 2026 بحسب APCIQ، لكن لا هي ولا Centris تنشران الفارق ب
 

@@ -129,6 +129,8 @@ Commandez-en un nouveau tout de suite. L'OACIQ explique que le notaire l'exigera
 **Vendre sa maison soi-même au Québec: le délai de vente sera-t-il plus long?**
 Aucune source officielle ne le mesure. Les 36 jours de Laval publiés par Centris portent sur des ventes conclues par des courtiers: ils situent le marché, pas une vente sans courtier.
 
+Deux questions voisines ont leur propre article: [combien prend un courtier immobilier à Laval?](/articles/commission-courtier-immobilier-laval/) et [combien vaut ma maison aujourd'hui à Laval?](/articles/combien-vaut-ma-maison-laval/)
+
 Pour compléter, lisez [vendre avec ou sans courtier au Québec](/articles/vendre-avec-ou-sans-courtier-quebec/) et [le formulaire Déclarations du vendeur](/articles/declaration-du-vendeur-quebec/).
 
 ---

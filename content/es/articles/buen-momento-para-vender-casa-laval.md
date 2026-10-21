@@ -117,7 +117,7 @@ Las mismas tres medidas se aplican. En la isla, en el tercer trimestre de 2026, 
 **Buen momento para vender una casa: ¿hay que esperar el anuncio del 28 de octubre?**
 Nadie conoce la decisión de antemano. No cambia las medidas ya publicadas, que se refieren a ventas concluidas; puede cambiar el costo de su próxima compra, una cifra que debe calcular su prestamista.
 
-Para completar, lea [el mercado inmobiliario de Laval por sector](/es/articles/mercado-inmobiliario-laval-por-sector/) y [la penalidad por romper una hipoteca en Quebec](/es/articles/romper-hipoteca-penalidad-quebec/).
+Para completar, lea [el mercado inmobiliario de Laval por sector](/es/articles/mercado-inmobiliario-laval-por-sector/) y [la penalidad por romper una hipoteca en Quebec](/es/articles/romper-hipoteca-penalidad-quebec/), y descubra [cuánto tiempo toma vender una casa en Laval](/es/articles/cuanto-tiempo-vender-casa-laval/) y [si se puede comprar una casa antes de vender la suya en Laval](/es/articles/comprar-antes-de-vender-casa-laval/).
 
 ---
 

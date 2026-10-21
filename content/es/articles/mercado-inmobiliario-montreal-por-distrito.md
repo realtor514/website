@@ -117,23 +117,23 @@ Fuente: estadísticas inmobiliarias de Centris para cada ciudad, con el enlace e
 
 La serie analiza por separado cada uno de estos nueve sectores, una agrupación propia de la serie. No existe ninguna mediana de sector: las medianas no se combinan.
 
-**Ville-Marie y Le Plateau-Mont-Royal.** Dos mercados de condominio con plazos opuestos: 92 días contra 48.
+**[Ville-Marie y Le Plateau-Mont-Royal](/es/articles/mercado-inmobiliario-ville-marie-plateau-montreal/).** Dos mercados de condominio con plazos opuestos: 92 días contra 48.
 
-**Rosemont/La Petite-Patrie y Villeray/Saint-Michel/Parc-Extension.** En Villeray/Saint-Michel/Parc-Extension, la mediana del condominio sube un 33 % sobre 47 ventas, y un 8 % sobre cuatro trimestres.
+**[Rosemont/La Petite-Patrie y Villeray/Saint-Michel/Parc-Extension](/es/articles/mercado-inmobiliario-rosemont-villeray-montreal/).** En Villeray/Saint-Michel/Parc-Extension, la mediana del condominio sube un 33 % sobre 47 ventas, y un 8 % sobre cuatro trimestres.
 
-**Mercier/Hochelaga-Maisonneuve, Anjou, Saint-Léonard y Montréal-Est.** El mayor retroceso de ventas de la isla convive allí con una de sus tres alzas de distrito, en Anjou.
+**[Mercier/Hochelaga-Maisonneuve, Anjou, Saint-Léonard y Montréal-Est](/es/articles/mercado-inmobiliario-este-de-montreal/).** El mayor retroceso de ventas de la isla convive allí con una de sus tres alzas de distrito, en Anjou.
 
-**Ahuntsic-Cartierville y Montréal-Nord.** Las inscripciones vigentes aumentan un 40 % en Ahuntsic-Cartierville; Montréal-Nord tiene la mediana unifamiliar sobre cuatro trimestres más baja de la isla.
+**[Ahuntsic-Cartierville y Montréal-Nord](/es/articles/mercado-inmobiliario-ahuntsic-montreal-norte/).** Las inscripciones vigentes aumentan un 40 % en Ahuntsic-Cartierville; Montréal-Nord tiene la mediana unifamiliar sobre cuatro trimestres más baja de la isla.
 
-**Rivière-des-Prairies/Pointe-aux-Trembles.** Las inscripciones vigentes aumentan allí un 48 %, el alza más fuerte de los 19 distritos.
+**[Rivière-des-Prairies/Pointe-aux-Trembles](/es/articles/mercado-inmobiliario-riviere-des-prairies-pointe-aux-trembles-montreal/).** Las inscripciones vigentes aumentan allí un 48 %, el alza más fuerte de los 19 distritos.
 
-**Le Sud-Ouest, Verdun, LaSalle y Lachine.** Le Sud-Ouest es el segundo mercado de la isla en ventas, 268; en Lachine, la mediana del condominio retrocede un 12 % sobre 39 ventas.
+**[Le Sud-Ouest, Verdun, LaSalle y Lachine](/es/articles/mercado-inmobiliario-sud-oeste-verdun-lasalle-montreal/).** Le Sud-Ouest es el segundo mercado de la isla en ventas, 268; en Lachine, la mediana del condominio retrocede un 12 % sobre 39 ventas.
 
-**Côte-des-Neiges/Notre-Dame-de-Grâce, Outremont, Westmount, Mont-Royal, Hampstead, Côte-Saint-Luc y Montréal-Ouest.** Allí están las cuatro medianas unifamiliares más altas sobre cuatro trimestres, y la oferta retrocede en Westmount (-6 %), en Mont-Royal (-10 %) y en Hampstead (-15 %).
+**[Côte-des-Neiges/Notre-Dame-de-Grâce, Outremont, Westmount, Mont-Royal, Hampstead, Côte-Saint-Luc y Montréal-Ouest](/es/articles/mercado-inmobiliario-cote-des-neiges-ndg-westmount-montreal/).** Allí están las cuatro medianas unifamiliares más altas sobre cuatro trimestres, y la oferta retrocede en Westmount (-6 %), en Mont-Royal (-10 %) y en Hampstead (-15 %).
 
-**Saint-Laurent, Dorval y L'Île-Dorval.** Saint-Laurent vende 100 condominios (+6 %), pero en 75 días, 22 más que un año antes.
+**[Saint-Laurent, Dorval y L'Île-Dorval](/es/articles/mercado-inmobiliario-saint-laurent-dorval-montreal/).** Saint-Laurent vende 100 condominios (+6 %), pero en 75 días, 22 más que un año antes.
 
-**El Oeste de la Isla (L'Ouest-de-l'Île).** Pointe-Claire, Dollard-des-Ormeaux, Kirkland, Beaconsfield, Baie-D'Urfé, Sainte-Anne-de-Bellevue, Senneville, Pierrefonds-Roxboro y L'Île-Bizard/Sainte-Geneviève venden sobre todo unifamiliares; en Pointe-Claire se venden en 29 días, el plazo unifamiliar más corto publicado en la isla.
+**[El Oeste de la Isla (L'Ouest-de-l'Île)](/es/articles/mercado-inmobiliario-west-island-montreal/).** Pointe-Claire, Dollard-des-Ormeaux, Kirkland, Beaconsfield, Baie-D'Urfé, Sainte-Anne-de-Bellevue, Senneville, Pierrefonds-Roxboro y L'Île-Bizard/Sainte-Geneviève venden sobre todo unifamiliares; en Pointe-Claire se venden en 29 días, el plazo unifamiliar más corto publicado en la isla.
 
 ## Leer estas cifras sin equivocarse
 

@@ -229,7 +229,7 @@ well?** Not by as much. The increase is spread over three years, and it is measu
 that of other properties. In 2026, the property tax burden on single-family
 homes in the borough rises by 5.5% on average, according to the City's budget.
 
-To go further, read [how to read Montreal and Laval real estate market data](/en/articles/marche-immobilier-montreal-analyse-donnees/) and [what to know before buying an income plex](/en/articles/income-property-beginners/).
+To go further, read [the Montreal real estate market, borough by borough](/en/articles/montreal-real-estate-market-by-borough/), [how to read Montreal and Laval real estate market data](/en/articles/marche-immobilier-montreal-analyse-donnees/) and [what to know before buying an income plex](/en/articles/income-property-beginners/).
 
 ---
 

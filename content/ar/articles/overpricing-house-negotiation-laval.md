@@ -219,7 +219,9 @@ foncier، بحسب OACIQ؛ وقبل ذلك، يمكن للوسيط أن يسلّ
 إلى أغسطس 2026.
 
 وللاستزادة، اقرأ
-[روافع التفاوض في وعد الشراء](/ar/articles/strategies-negociation-immobilier-montreal/)
+[لماذا لا يُباع منزلك في لافال](/ar/articles/why-house-not-selling-laval/)،
+و[كم يساوي منزلك اليوم في لافال](/ar/articles/how-much-is-my-house-worth-laval/)،
+و[روافع التفاوض في وعد الشراء](/ar/articles/strategies-negociation-immobilier-montreal/)
 و[ما يكشفه الفارق بين السعر المطلوب والسعر المُباع في مونتريال](/ar/articles/list-price-vs-sold-price-montreal/).
 
 ---

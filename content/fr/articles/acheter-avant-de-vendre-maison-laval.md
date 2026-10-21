@@ -158,6 +158,8 @@ Vous portez deux maisons et deux prêts jusqu'à la vente. TD range ce cas parmi
 **Acheter avant de vendre sans prêt relais: le vendeur doit-il accepter ma condition?**
 Non. Rien ne l'oblige à accepter la condition R2.1 ni une date d'acte éloignée: c'est une négociation, comme le prix.
 
+Deux questions voisines ont leur propre article: [combien de temps pour vendre une maison à Laval?](/articles/combien-de-temps-vendre-maison-laval/) et [est-ce le bon moment pour vendre ma maison à Laval?](/articles/bon-moment-pour-vendre-maison-laval/)
+
 Pour compléter, lisez [vendre avant d'acheter au Québec: les clauses qui décident](/articles/vendre-avant-acheter-clauses-quebec/) et [le marché immobilier de Laval par secteur](/articles/marche-immobilier-laval-secteurs/).
 
 ---

@@ -110,7 +110,7 @@ CMHC divides the island differently from Centris: its Sud-Ouest/Verdun zone leav
 
 **Will the REM serve LaSalle or Lachine?** No station there is announced in the official documents consulted. In the area, only Île-des-Sœurs station is in service; two others are being planned in the Sud-Ouest.
 
-To go further, read [real estate comparables: auditing your neighbour's price](/en/articles/real-estate-comparables-quebec/) and [the Bill 16 obligations for condos](/en/articles/condo-buyer-disclosure-quebec/). The [Montreal page](/en/real-estate-broker/montreal/) brings together the rest.
+To go further, read [the Montreal real estate market, borough by borough](/en/articles/montreal-real-estate-market-by-borough/), [real estate comparables: auditing your neighbour's price](/en/articles/real-estate-comparables-quebec/) and [the Bill 16 obligations for condos](/en/articles/condo-buyer-disclosure-quebec/). The [Montreal page](/en/real-estate-broker/montreal/) brings together the rest.
 
 ---
 

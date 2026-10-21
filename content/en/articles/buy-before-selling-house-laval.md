@@ -158,7 +158,7 @@ You carry two houses and two loans until the sale. TD lists this case among the 
 **Buying before selling without a bridge loan: does the seller have to accept my condition?**
 No. Nothing obliges the seller to accept condition R2.1 or a distant deed date: it is a negotiation, just like the price.
 
-To go further, read [selling before buying in Quebec: the clauses that decide](/en/articles/sell-before-buying-clauses-quebec/) and [the Laval real estate market by sector](/en/articles/laval-real-estate-market-by-sector/).
+To go further, read [selling before buying in Quebec: the clauses that decide](/en/articles/sell-before-buying-clauses-quebec/) and [the Laval real estate market by sector](/en/articles/laval-real-estate-market-by-sector/), and find out [how long it takes to sell a house in Laval](/en/articles/how-long-to-sell-house-laval/) and [whether now is a good time to sell your house in Laval](/en/articles/right-time-to-sell-house-laval/).
 
 ---
 

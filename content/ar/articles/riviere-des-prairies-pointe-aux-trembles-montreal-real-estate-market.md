@@ -94,7 +94,7 @@ draft: false
 
 **هل يصل قطار بوانت أو ترامبل إلى وسط المدينة؟** ليس مباشرة. بحسب جدول exo في 20 أكتوبر 2026، يتوقف الخط 15 ماسكوش عند محطة كوت دو ليس، مع تبادل مع REM.
 
-وللاستزادة، اقرأ [الضرائب العقارية في مونتريال ولافال: شرح كامل](/ar/articles/property-tax-explained/) و[سوق العقارات في مونتريال ولافال: قراءة البيانات لا التوقعات](/ar/articles/marche-immobilier-montreal-analyse-donnees/). أما [صفحة ريفيير دي بريري](/ar/wasit-aqari/riviere-des-prairies-montreal/) و[صفحة مونتريال](/ar/wasit-aqari/montreal/) فتجمعان الباقي.
+وللاستزادة، اقرأ [سوق العقارات في مونتريال، دائرةً بدائرة](/ar/articles/montreal-real-estate-market-by-borough/)، و[الضرائب العقارية في مونتريال ولافال: شرح كامل](/ar/articles/property-tax-explained/) و[سوق العقارات في مونتريال ولافال: قراءة البيانات لا التوقعات](/ar/articles/marche-immobilier-montreal-analyse-donnees/). أما [صفحة ريفيير دي بريري](/ar/wasit-aqari/riviere-des-prairies-montreal/) و[صفحة مونتريال](/ar/wasit-aqari/montreal/) فتجمعان الباقي.
 
 ---
 

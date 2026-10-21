@@ -231,7 +231,9 @@ APCIQ المنزل الأحادي فيها في خانة سوق البائع، �
 لك المُقرض.
 
 وللاستزادة، اقرأ
-[سوق العقارات في لافال حسب القطاع](/ar/articles/laval-real-estate-market-by-sector/)
+[كم يستغرق بيع منزل في لافال](/ar/articles/how-long-to-sell-house-laval/)،
+و[هل يمكن شراء منزل قبل بيع منزلك في لافال](/ar/articles/buy-before-selling-house-laval/)،
+و[سوق العقارات في لافال حسب القطاع](/ar/articles/laval-real-estate-market-by-sector/)
 و[غرامة كسر الرهن العقاري في كيبيك](/ar/articles/breaking-mortgage-penalty-quebec/).
 
 ---

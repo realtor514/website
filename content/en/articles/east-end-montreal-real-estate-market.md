@@ -122,7 +122,7 @@ Montréal-Est's total increase of 33.3% is explained, according to the City, by 
 
 **Can I rent out my condo on Airbnb in Mercier-Hochelaga-Maisonneuve?** Not as a commercial tourist residence: the borough prohibits it. Renting out your principal residence remains possible from June 10 to September 10, with an annual permit from the City and, in a condo, a declaration of co-ownership that allows it or the syndicate's authorization.
 
-To go further, read [Montreal and Laval Real Estate Market](/en/articles/marche-immobilier-montreal-analyse-donnees/), [Welcome Tax in Quebec](/en/articles/welcome-tax-quebec-guide/) and [Plex or Condo in Montreal](/en/articles/triplex-vs-condo-montreal/).
+To go further, read [the Montreal real estate market, borough by borough](/en/articles/montreal-real-estate-market-by-borough/), [Montreal and Laval Real Estate Market](/en/articles/marche-immobilier-montreal-analyse-donnees/), [Welcome Tax in Quebec](/en/articles/welcome-tax-quebec-guide/) and [Plex or Condo in Montreal](/en/articles/triplex-vs-condo-montreal/).
 
 ---
 

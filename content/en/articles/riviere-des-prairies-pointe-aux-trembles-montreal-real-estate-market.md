@@ -94,7 +94,7 @@ At the eastern tip of the island, the borough has water to the north and to the 
 
 **Does the Pointe-aux-Trembles train go downtown?** Not directly. According to exo's schedule as of October 20, 2026, line 15 Mascouche stops at Côte-de-Liesse station, with a connection to the REM.
 
-To go further, read [property taxes in Montreal and Laval](/en/articles/property-tax-explained/) and [the Montreal and Laval real estate market](/en/articles/marche-immobilier-montreal-analyse-donnees/). The [Rivière-des-Prairies page](/en/real-estate-broker/riviere-des-prairies-montreal/) and the [Montreal page](/en/real-estate-broker/montreal/) bring together the rest.
+To go further, read [the Montreal real estate market, borough by borough](/en/articles/montreal-real-estate-market-by-borough/), [property taxes in Montreal and Laval](/en/articles/property-tax-explained/) and [the Montreal and Laval real estate market](/en/articles/marche-immobilier-montreal-analyse-donnees/). The [Rivière-des-Prairies page](/en/real-estate-broker/riviere-des-prairies-montreal/) and the [Montreal page](/en/real-estate-broker/montreal/) bring together the rest.
 
 ---
 

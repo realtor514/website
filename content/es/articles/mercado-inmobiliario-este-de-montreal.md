@@ -122,7 +122,7 @@ El aumento total de 33,3 % de Montréal-Est se explica, según la Ciudad, por su
 
 **¿Se puede alquilar su condominio en Airbnb en Mercier-Hochelaga-Maisonneuve?** No como residencia de turismo comercial: el distrito lo prohíbe. El alquiler de su residencia principal sigue siendo posible del 10 de junio al 10 de septiembre, con un permiso anual de la Ciudad y, en copropiedad, una declaración de copropiedad que lo permita o la autorización del sindicato.
 
-Para completar, lea [Mercado inmobiliario de Montreal y Laval](/es/articles/marche-immobilier-montreal-analyse-donnees/), [Impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [Plex o condominio en Montreal](/es/articles/triplex-vs-condo-montreal/).
+Para completar, lea [el mercado inmobiliario de Montreal, distrito por distrito](/es/articles/mercado-inmobiliario-montreal-por-distrito/), [Mercado inmobiliario de Montreal y Laval](/es/articles/marche-immobilier-montreal-analyse-donnees/), [Impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [Plex o condominio en Montreal](/es/articles/triplex-vs-condo-montreal/).
 
 ---
 

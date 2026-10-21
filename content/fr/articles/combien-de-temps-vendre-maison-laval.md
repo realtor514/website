@@ -146,6 +146,8 @@ En agissant sur ce qui dépend de vous: le prix demandé, les documents et les d
 **Combien de temps pour vendre une maison à Laval, jusqu'à l'acte de vente?**
 Le délai sur le marché, 36 jours en moyenne pour une unifamiliale au 3e trimestre 2026, plus le temps jusqu'à l'acte notarié, dont vous écrivez la date dans la promesse d'achat (clause 11.1). Aucune statistique officielle ne publie la moyenne de cette seconde période.
 
+Deux questions voisines ont leur propre article: [pourquoi ma maison ne se vend pas à Laval?](/articles/pourquoi-maison-ne-se-vend-pas-laval/) et [est-ce le bon moment pour vendre ma maison à Laval?](/articles/bon-moment-pour-vendre-maison-laval/)
+
 Pour compléter, lisez [le calendrier de vente et les décisions qui le déterminent, à Montréal](/articles/combien-de-temps-vendre-maison-montreal/) et [le déroulement chez le notaire, étape par étape](/articles/quebec-notary-process/).
 
 ---

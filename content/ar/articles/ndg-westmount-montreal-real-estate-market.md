@@ -217,7 +217,8 @@ Décarie.
 يقيس أي مصدر رسمي أثراً كهذا، ولا تنشر المدينة أي تاريخ لبدء البناء.
 
 وللاستزادة، اقرأ
-[ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/)
+[سوق العقارات في مونتريال، دائرةً بدائرة](/ar/articles/montreal-real-estate-market-by-borough/)،
+و[ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/)
 و[كيف تقارن بين حيّين في مونتريال](/ar/articles/best-neighborhoods-montreal/).
 أما [صفحة مونتريال](/ar/wasit-aqari/montreal/) فتجمع الباقي.
 

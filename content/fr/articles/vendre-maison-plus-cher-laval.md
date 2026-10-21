@@ -131,6 +131,8 @@ Pas sur le gain d'une maison qui a exclusivement été votre résidence principa
 **Bien vendre sa maison: faut-il fixer une heure limite pour les offres?**
 Pas si vous vendez avec un courtier: l'OACIQ juge cette stratégie contraire à son obligation de présenter chaque promesse dans les meilleurs délais. Vous gardez le droit d'attendre pendant le délai d'acceptation.
 
+Deux questions voisines ont leur propre article: [faut-il afficher sa maison plus cher pour négocier à Laval?](/articles/afficher-maison-plus-cher-negociation-laval/) et [faut-il rénover avant de vendre sa maison à Laval?](/articles/renover-avant-de-vendre-maison-laval/)
+
 Pour compléter, lisez [le coût réel de vendre une maison au Québec](/articles/cout-reel-vendre-maison-quebec/) et [les leviers de négociation d'une promesse d'achat](/articles/strategies-negociation-immobilier/).
 
 ---

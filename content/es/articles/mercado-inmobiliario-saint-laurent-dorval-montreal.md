@@ -119,7 +119,7 @@ La [calculadora del impuesto de bienvenida](/es/tools/welcome-tax/) rehace el c�
 
 **¿Se puede alquilar un condominio a turistas en Saint-Laurent?** No. La Ciudad lo prohíbe en Saint-Laurent, tanto para la residencia principal como para el alquiler comercial.
 
-Para completar, lea [el mercado inmobiliario de Montreal y Laval](/es/articles/marche-immobilier-montreal-analyse-donnees/) y [cómo auditar los comparables del vecino](/es/articles/comparables-precio-casa-quebec/). La [página de Montreal](/es/corredor-inmobiliario/montreal/) reúne el resto.
+Para completar, lea [el mercado inmobiliario de Montreal, distrito por distrito](/es/articles/mercado-inmobiliario-montreal-por-distrito/), [el mercado inmobiliario de Montreal y Laval](/es/articles/marche-immobilier-montreal-analyse-donnees/) y [cómo auditar los comparables del vecino](/es/articles/comparables-precio-casa-quebec/). La [página de Montreal](/es/corredor-inmobiliario/montreal/) reúne el resto.
 
 ---
 

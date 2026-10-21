@@ -110,7 +110,7 @@ Yes, but not necessarily without cost: point 2 of clause 7.1 of the exclusive br
 **How long before lowering the price of a house in Laval?**
 The decision is yours, and it is signed on the Amendments form, according to the OACIQ. APCIQ counts 44 days before the first price revision on a single-family home in Laval and 57 in Montreal, from January to August 2026.
 
-To go further, read [the negotiation levers of a promise to purchase](/en/articles/strategies-negociation-immobilier-montreal/) and [what the gap between asking price and sold price reveals in Montreal](/en/articles/list-price-vs-sold-price-montreal/).
+To go further, read [the negotiation levers of a promise to purchase](/en/articles/strategies-negociation-immobilier-montreal/) and [what the gap between asking price and sold price reveals in Montreal](/en/articles/list-price-vs-sold-price-montreal/), and find out [why your house is not selling in Laval](/en/articles/why-house-not-selling-laval/) and [how much your house is worth in Laval](/en/articles/how-much-is-my-house-worth-laval/).
 
 ---
 

@@ -7,7 +7,7 @@ url: "/en/real-estate-broker/laval/"
 translationKey: "secteur-laval"
 weight: 1
 date: 2026-08-05
-lastmod: 2026-10-19
+lastmod: 2026-10-21
 cardText: "All 14 Laval neighbourhoods, from the metro corridor to the family sectors in the west."
 facts:
   - value: "14"
@@ -65,6 +65,8 @@ Laval is not a uniform suburb. It is a city of 450,000 people containing at leas
 The figures behind these markets are in [the Laval real estate market by neighbourhood in the third quarter of 2026](/en/articles/laval-real-estate-market-by-sector/): sales, median prices and days on market, as published by Centris.
 
 ## Selling in Laval: what makes the difference
+
+Three seller questions each have their own article, built on the figures published for Laval. Find out [how much your house is worth in Laval](/en/articles/how-much-is-my-house-worth-laval/), [how long it takes to sell a house in Laval](/en/articles/how-long-to-sell-house-laval/) and [how much a real estate broker charges in Laval](/en/articles/real-estate-commission-laval/).
 
 The list price is the single most consequential decision of the entire sale, and it is the one most sellers make with the least data.
 

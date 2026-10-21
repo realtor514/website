@@ -141,7 +141,7 @@ No en los rangos donde se concentra la mayoría de las ventas. Para la unifamili
 **Mi casa está en Pierrefonds-Roxboro, cerca del río. ¿Qué mapa se aplica?**
 Los nuevos mapas no tienen fecha de entrada en vigor. Mientras tanto, según el gobierno de Quebec, se aplican los mapas de la generación anterior del municipio; la zone d'intervention spéciale (la zona de intervención especial) remite a ellos. Pida al distrito, por escrito y con el número de lote, qué mapa vale para su dirección.
 
-Para completar, lea [el cálculo del impuesto de bienvenida](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
+Para completar, lea [el mercado inmobiliario de Montreal, distrito por distrito](/es/articles/mercado-inmobiliario-montreal-por-distrito/), [el cálculo del impuesto de bienvenida](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
 
 ---
 

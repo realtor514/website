@@ -137,7 +137,7 @@ draft: false
 **الطلاق: ماذا نفعل بمنزل لا يُباع؟**
 بالنسبة إلى الزوجين، يُتخذ قرار بيع مسكن العائلة (résidence familiale) باتفاق الاثنين. فالمادة 404 من Code civil تمنع الزوج المالك لعقار يقل عن خمسة مساكن من بيع مسكن العائلة دون الموافقة الخطية للزوج الآخر، وتشترط OACIQ عندئذ تدخّل الزوج الآخر في عقد الوساطة. وبين المالكين على الشيوع، تنص المادة 1030 على أنه لا أحد ملزم بالبقاء في الشيوع. أما القسمة فمن اختصاص كاتب العدل أو المحامي أو الوسيط الأسري (médiateur): انظر [الانفصال والطلاق والمنزل في كيبيك](/ar/articles/divorce-real-estate-guide/).
 
-وللاستزادة، اقرأ [سوق العقارات في لافال حسب القطاع](/ar/articles/laval-real-estate-market-by-sector/) و[جدول أعراض عقار لا يُباع](/ar/articles/home-not-selling-quebec/).
+وللاستزادة، اقرأ [هل ينبغي عرض منزلك بسعر أعلى للتفاوض في لافال](/ar/articles/overpricing-house-negotiation-laval/)، و[كم يستغرق بيع منزل في لافال](/ar/articles/how-long-to-sell-house-laval/)، و[سوق العقارات في لافال حسب القطاع](/ar/articles/laval-real-estate-market-by-sector/) و[جدول أعراض عقار لا يُباع](/ar/articles/home-not-selling-quebec/).
 
 ---
 

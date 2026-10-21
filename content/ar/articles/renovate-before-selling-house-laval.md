@@ -133,7 +133,7 @@ draft: false
 **التجديد قبل البيع في مونتريال: هل المهلة هي نفسها في لافال؟**
 المهل المعلنة مختلفة. فالإجراء العام لمدينة مونتريال لتجديد داخل المبنى يعلن، على سبيل الإرشاد ومن دون ضمان، 8 إلى 10 أسابيع لدراسة الطلب بعد استلام جميع المستندات؛ أما لافال فتعلن 30 يوماً. وشبّاك الرخص في دائرتك (arrondissement) هو الذي يؤكد المهلة التي تخصك.
 
-وللاستزادة، اقرأ [التجديدات وقيمة منزلك](/ar/articles/renovations-dont-add-value/) و[إقرارات البائع في كيبيك](/ar/articles/seller-declaration-form-quebec/).
+وللاستزادة، اقرأ [كيف تبيع منزلك بأعلى سعر ممكن في لافال](/ar/articles/sell-house-for-more-laval/)، و[كم يستغرق بيع منزل في لافال](/ar/articles/how-long-to-sell-house-laval/)، و[التجديدات وقيمة منزلك](/ar/articles/renovations-dont-add-value/) و[إقرارات البائع في كيبيك](/ar/articles/seller-declaration-form-quebec/).
 
 ---
 

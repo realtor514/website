@@ -113,7 +113,7 @@ The 2021 urban plan also announces a future special planning program (programme 
 
 **Will the metro be extended to rue Saint-Charles?** No official timeline exists. The 2021 urban plan mentioned a Saint-Charles station and the agglomeration's land use plan an extension in the borough, with no date. The ARTM's 2025-2034 plan extends only the blue line.
 
-To go further, read [real estate comparables: auditing your neighbour's price](/en/articles/real-estate-comparables-quebec/) and [the Bill 16 obligations for condo buyers](/en/articles/condo-buyer-disclosure-quebec/). The [Longueuil page](/en/real-estate-broker/longueuil/) presents the city's three boroughs.
+To go further, read [the Longueuil real estate market, borough by borough](/en/articles/longueuil-real-estate-market-by-sector/), [real estate comparables: auditing your neighbour's price](/en/articles/real-estate-comparables-quebec/) and [the Bill 16 obligations for condo buyers](/en/articles/condo-buyer-disclosure-quebec/). The [Longueuil page](/en/real-estate-broker/longueuil/) presents the city's three boroughs.
 
 ---
 

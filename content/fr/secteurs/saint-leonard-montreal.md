@@ -7,7 +7,7 @@ url: "/courtier-immobilier/saint-leonard-montreal/"
 translationKey: "quartier-saint-leonard"
 weight: 105
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "Saint-Léonard, Montréal: Jean-Talon Est, Viau, Lacordaire, Langelier, Port-Maurice et Grande-Prairie."
 facts:
   - value: "82,2 %"
@@ -51,6 +51,8 @@ Vient ensuite l'accès. L'autoroute 40, le Métropolitain, traverse l'arrondisse
 Puis le métro, qui demande de la précision. Selon l'ARTM, le prolongement de la ligne bleue ajoute cinq stations sur près de 6 kilomètres entre la station Saint-Michel et l'arrondissement d'Anjou. Au 23 septembre 2026, la STM indique sur sa page de projet que l'inauguration est prévue pour 2031. Deux stations sont dans Saint-Léonard: Césira-Parisotto, à Jean-Talon et Lacordaire, et Madeleine-Parent, à Jean-Talon et Langelier. Une troisième, Mary-Two-Axe-Earley, est prévue à Jean-Talon et Viau. C'est un échéancier annoncé, pas une promesse, et d'ici là c'est un chantier: la STM a mis en service le 7 juillet 2025 la navette 814 Jean-Talon Est / Bélanger pour le secteur touché par les travaux. Les lignes 32 Lacordaire et 33 Langelier figurent déjà parmi ses lignes à passages fréquents.
 
 Le marché, enfin. Selon les statistiques de l'APCIQ produites par le système Centris, l'île de Montréal a enregistré en août 2026 179 ventes de plex de 2 à 5 logements, en baisse de 5 % sur douze mois, pour 1 622 inscriptions en vigueur, en hausse de 18 %, un prix médian de 870 000 $, en baisse de 1 %, et un délai de vente moyen de 54 jours. C'est l'île entière: cela cadre une discussion, cela n'évalue pas une adresse.
+
+Les ventes et les prix médians de l'arrondissement, comparés à ceux d'Anjou, de Mercier-Hochelaga-Maisonneuve et de Montréal-Est, sont analysés dans [le marché immobilier de Saint-Léonard, à Montréal, au 3e trimestre 2026](/articles/marche-immobilier-est-de-montreal-hochelaga/).
 
 ## Les secteurs
 

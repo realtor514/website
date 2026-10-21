@@ -7,7 +7,7 @@ url: "/courtier-immobilier/vieux-longueuil/"
 translationKey: "quartier-vieux-longueuil"
 weight: 106
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "Longueuil: noyau patrimonial, secteur du métro, Montréal-Sud, Coteau-Rouge, LeMoyne, parc Michel-Chartrand."
 facts:
   - value: "1993"
@@ -47,6 +47,8 @@ Le Vieux-Longueuil est la partie la plus ancienne de l'agglomération, et l'arro
 **L'époque de construction.** Le parc va du noyau ancien aux cottages et bungalows d'après-guerre, puis aux plex et aux tours de copropriété récentes près du métro. L'âge du bâtiment fixe l'ampleur des travaux à prévoir, et c'est ce montant qui se négocie.
 
 En août 2026, dans la RMR de Montréal, l'APCIQ relevait 2 853 ventes et 20 128 inscriptions en vigueur, des prix médians de 650 000 $ pour l'unifamiliale, 437 250 $ pour la copropriété et 856 000 $ pour le plex, et une hausse de l'offre de 28 % sur un an sur la Rive-Sud. Ces chiffres situent une tendance régionale, pas le prix d'une rue.
+
+Les ventes, les prix médians et les délais de vente de l'arrondissement, selon Centris, sont analysés dans [le marché immobilier du Vieux-Longueuil, à Longueuil, au 3e trimestre 2026](/articles/marche-immobilier-vieux-longueuil/).
 
 ## Les secteurs
 

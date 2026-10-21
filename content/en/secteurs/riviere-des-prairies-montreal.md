@@ -7,7 +7,7 @@ url: "/en/real-estate-broker/riviere-des-prairies-montreal/"
 translationKey: "quartier-riviere-des-prairies"
 weight: 104
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "East end of the island: the Gouin old village, Marc-Aurèle-Fortin, the Maurice-Duplessis corridor, Faubourg Pointe-aux-Prairies."
 facts:
   - value: "49.2%"
@@ -49,6 +49,8 @@ The age of the buildings explains the rest: 12.3% of the borough's dwellings dat
 ## Price, and the gap with the island
 
 In the second quarter of 2026, according to the community profile from Centris, the APCIQ platform, the median price of a single-family home in the borough was $583,250, on 144 sales and 31 days on market. For the island of Montreal as a whole, the same source gives $835,000 and 41 days. For condominiums: $345,000 in the borough against $483,500 for the island.
+
+The figures for the following quarter are in [the Rivière-des-Prairies and Pointe-aux-Trembles, Montreal real estate market in the third quarter of 2026](/en/articles/riviere-des-prairies-pointe-aux-trembles-montreal-real-estate-market/): sales, median prices and days on market for single-family homes, condos and plexes, as published by Centris.
 
 ## The sub-areas
 

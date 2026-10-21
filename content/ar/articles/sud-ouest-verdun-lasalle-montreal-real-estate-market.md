@@ -210,7 +210,8 @@ commerciale) ممنوع في فردان وفي لاشين، التي تمنع أ
 سود ويست.
 
 وللاستزادة، اقرأ
-[العقارات المقارنة: كيف تدقّق في سعر الجار](/ar/articles/real-estate-comparables-quebec/)
+[سوق العقارات في مونتريال، دائرةً بدائرة](/ar/articles/montreal-real-estate-market-by-borough/)،
+و[العقارات المقارنة: كيف تدقّق في سعر الجار](/ar/articles/real-estate-comparables-quebec/)
 و[موجبات القانون 16 في الملكية المشتركة](/ar/articles/condo-buyer-disclosure-quebec/).
 أما [صفحة مونتريال](/ar/wasit-aqari/montreal/) فتجمع الباقي.
 

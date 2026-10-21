@@ -108,7 +108,7 @@ No. El distrito puede atender al público en inglés, pero el artículo 23 de la
 **¿Puede desaparecer el estatus del distrito?**
 El artículo 29.2 prevé un examen a la luz de cada censo. Si sigue faltando la mayoría de lengua materna inglesa, el distrito recibe un aviso y dispone de 120 días para votar el mantenimiento, como en 2023.
 
-Para completar, lea [el cálculo del impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar una evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
+Para completar, lea [el mercado inmobiliario de Longueuil, distrito por distrito](/es/articles/mercado-inmobiliario-longueuil-por-sector/), [el cálculo del impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar una evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
 
 ---
 

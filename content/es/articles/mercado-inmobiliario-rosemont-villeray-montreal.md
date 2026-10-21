@@ -112,7 +112,7 @@ En Villeray, el distrito ya no autoriza la conversión: su reglamento de derogac
 
 **¿Hará subir el metro los precios cerca de Jean-Talon?** Ninguna fuente oficial mide ese efecto. Lo que está publicado es la fecha: la STM prevé abrir las cinco estaciones en 2031.
 
-Para completar, lea [comparables inmobiliarios: cómo auditar el precio del vecino](/es/articles/comparables-precio-casa-quebec/) y luego consulte la [página de Montreal](/es/corredor-inmobiliario/montreal/).
+Para completar, lea [el mercado inmobiliario de Montreal, distrito por distrito](/es/articles/mercado-inmobiliario-montreal-por-distrito/) y [comparables inmobiliarios: cómo auditar el precio del vecino](/es/articles/comparables-precio-casa-quebec/), y luego consulte la [página de Montreal](/es/corredor-inmobiliario/montreal/).
 
 ---
 

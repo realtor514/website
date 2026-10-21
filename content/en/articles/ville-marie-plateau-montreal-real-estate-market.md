@@ -95,7 +95,7 @@ Single-family homes are marginal here: 16 sales in the Plateau and 10 in Ville-M
 
 **Are new condos being added downtown?** Few, according to CMHC: 20 condos started from January to September 2026 in its "Centre-ville de Montréal/Île-des-Soeurs" zone, against 392 rental units.
 
-To go further, read [list price and sold price in Montreal](/en/articles/list-price-vs-sold-price-montreal/) and [contesting your municipal assessment](/en/articles/contest-property-assessment-quebec/). The [Montreal page](/en/real-estate-broker/montreal/) brings together the rest.
+To go further, read [the Montreal real estate market, borough by borough](/en/articles/montreal-real-estate-market-by-borough/), [list price and sold price in Montreal](/en/articles/list-price-vs-sold-price-montreal/) and [contesting your municipal assessment](/en/articles/contest-property-assessment-quebec/). The [Montreal page](/en/real-estate-broker/montreal/) brings together the rest.
 
 ---
 

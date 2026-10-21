@@ -119,7 +119,7 @@ En el caso de Hampstead, cuya página todavía muestra los dos primeros tramos d
 
 **¿Hará subir o bajar los precios el proyecto Namur-Hippodrome en Côte-des-Neiges-Notre-Dame-de-Grâce?** Ninguna fuente oficial mide un efecto así, y la Ciudad no publica fecha de construcción.
 
-Para completar, lea [el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [comparar dos barrios de Montreal](/es/articles/best-neighborhoods-montreal/). La [página de Montreal](/es/corredor-inmobiliario/montreal/) reúne el resto.
+Para completar, lea [el mercado inmobiliario de Montreal, distrito por distrito](/es/articles/mercado-inmobiliario-montreal-por-distrito/), [el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [comparar dos barrios de Montreal](/es/articles/best-neighborhoods-montreal/). La [página de Montreal](/es/corredor-inmobiliario/montreal/) reúne el resto.
 
 ---
 

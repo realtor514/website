@@ -137,6 +137,8 @@ Oui. Les deux se calculent sur la rétribution: 1 497,50 $ de taxes sur 10 000 $
 **Courtier immobilier commission acheteur: l'acheteur paie-t-il?**
 Pas nécessairement. Sa rétribution est déduite de la part offerte par le vendeur; si cette part la couvre, il n'a rien à payer directement.
 
+Deux questions voisines ont leur propre article: [comment vendre sa maison soi-même à Laval avec DuProprio?](/articles/vendre-maison-soi-meme-duproprio-laval/) et [comment vendre ma maison le plus cher possible à Laval?](/articles/vendre-maison-plus-cher-laval/)
+
 Pour compléter, lisez [la commission immobilière au Québec, de bout en bout](/articles/commission-explained-quebec/), [le contrat de courtage vente clause par clause](/articles/contrat-courtage-vente-quebec/) et [le portrait du marché de Laval par secteur](/articles/marche-immobilier-laval-secteurs/).
 
 ---

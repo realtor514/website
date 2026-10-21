@@ -112,7 +112,7 @@ In Villeray, the borough no longer allows conversion: its exemption by-law was r
 
 **Will the metro push prices up near Jean-Talon?** No official source measures that effect. What is published is the date: the STM plans to open the five stations in 2031.
 
-To go further, read [real estate comparables: auditing your neighbour's price](/en/articles/real-estate-comparables-quebec/), then visit the [Montreal page](/en/real-estate-broker/montreal/).
+To go further, read [the Montreal real estate market, borough by borough](/en/articles/montreal-real-estate-market-by-borough/) and [real estate comparables: auditing your neighbour's price](/en/articles/real-estate-comparables-quebec/), then visit the [Montreal page](/en/real-estate-broker/montreal/).
 
 ---
 

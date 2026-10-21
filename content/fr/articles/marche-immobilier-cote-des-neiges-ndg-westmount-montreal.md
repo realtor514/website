@@ -119,7 +119,7 @@ Pour Hampstead, dont la page affiche encore les deux premières tranches de 2025
 
 **Le projet Namur-Hippodrome va-t-il faire bouger les prix dans Côte-des-Neiges-Notre-Dame-de-Grâce?** Aucune source officielle ne mesure un tel effet, et la Ville ne publie pas de date de construction.
 
-Pour compléter, lisez [la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [comparer deux quartiers de Montréal](/articles/best-neighborhoods-montreal/). La [page Montréal](/courtier-immobilier/montreal/) rassemble le reste.
+Pour compléter, lisez [le marché immobilier de Montréal, arrondissement par arrondissement](/articles/marche-immobilier-montreal-arrondissements/), [la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [comparer deux quartiers de Montréal](/articles/best-neighborhoods-montreal/). La [page Montréal](/courtier-immobilier/montreal/) rassemble le reste.
 
 ---
 

@@ -158,7 +158,7 @@ Usted carga con dos casas y dos préstamos hasta la venta. TD clasifica este cas
 **Comprar antes de vender sin préstamo puente: ¿el vendedor tiene que aceptar mi condición?**
 No. Nada lo obliga a aceptar la condición R2.1 ni una fecha de escritura lejana: es una negociación, como el precio.
 
-Para completar, lea [vender antes de comprar en Quebec: las cláusulas que deciden](/es/articles/vender-antes-de-comprar-quebec/) y [el mercado inmobiliario de Laval por sector](/es/articles/mercado-inmobiliario-laval-por-sector/).
+Para completar, lea [vender antes de comprar en Quebec: las cláusulas que deciden](/es/articles/vender-antes-de-comprar-quebec/) y [el mercado inmobiliario de Laval por sector](/es/articles/mercado-inmobiliario-laval-por-sector/), y descubra [cuánto tiempo toma vender una casa en Laval](/es/articles/cuanto-tiempo-vender-casa-laval/) y [si es buen momento para vender su casa en Laval](/es/articles/buen-momento-para-vender-casa-laval/).
 
 ---
 

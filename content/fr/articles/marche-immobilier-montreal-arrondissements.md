@@ -117,23 +117,23 @@ Source: statistiques immobilières de Centris pour chaque ville, lien sur son no
 
 La série analyse à part chacun de ces neuf secteurs, un regroupement qui lui est propre. Aucune médiane de secteur n'existe: des médianes ne se combinent pas.
 
-**Ville-Marie et Le Plateau-Mont-Royal.** Deux marchés de copropriété aux délais opposés: 92 jours contre 48.
+**[Ville-Marie et Le Plateau-Mont-Royal](/articles/marche-immobilier-ville-marie-plateau-montreal/).** Deux marchés de copropriété aux délais opposés: 92 jours contre 48.
 
-**Rosemont/La Petite-Patrie et Villeray/Saint-Michel/Parc-Extension.** À Villeray/Saint-Michel/Parc-Extension, la médiane de la copropriété monte de 33 % sur 47 ventes, et de 8 % sur quatre trimestres.
+**[Rosemont/La Petite-Patrie et Villeray/Saint-Michel/Parc-Extension](/articles/marche-immobilier-rosemont-villeray-montreal/).** À Villeray/Saint-Michel/Parc-Extension, la médiane de la copropriété monte de 33 % sur 47 ventes, et de 8 % sur quatre trimestres.
 
-**Mercier/Hochelaga-Maisonneuve, Anjou, Saint-Léonard et Montréal-Est.** Le plus fort recul des ventes de l'île y voisine avec l'une de ses trois hausses d'arrondissement, à Anjou.
+**[Mercier/Hochelaga-Maisonneuve, Anjou, Saint-Léonard et Montréal-Est](/articles/marche-immobilier-est-de-montreal-hochelaga/).** Le plus fort recul des ventes de l'île y voisine avec l'une de ses trois hausses d'arrondissement, à Anjou.
 
-**Ahuntsic-Cartierville et Montréal-Nord.** Les inscriptions en vigueur augmentent de 40 % à Ahuntsic-Cartierville; Montréal-Nord a la médiane unifamiliale sur quatre trimestres la plus basse de l'île.
+**[Ahuntsic-Cartierville et Montréal-Nord](/articles/marche-immobilier-ahuntsic-montreal-nord/).** Les inscriptions en vigueur augmentent de 40 % à Ahuntsic-Cartierville; Montréal-Nord a la médiane unifamiliale sur quatre trimestres la plus basse de l'île.
 
-**Rivière-des-Prairies/Pointe-aux-Trembles.** Les inscriptions en vigueur y augmentent de 48 %, la plus forte hausse des 19 arrondissements.
+**[Rivière-des-Prairies/Pointe-aux-Trembles](/articles/marche-immobilier-riviere-des-prairies-pointe-aux-trembles-montreal/).** Les inscriptions en vigueur y augmentent de 48 %, la plus forte hausse des 19 arrondissements.
 
-**Le Sud-Ouest, Verdun, LaSalle et Lachine.** Le Sud-Ouest est le deuxième marché de l'île en ventes, 268; à Lachine, la médiane de la copropriété recule de 12 % sur 39 ventes.
+**[Le Sud-Ouest, Verdun, LaSalle et Lachine](/articles/marche-immobilier-sud-ouest-verdun-lasalle-montreal/).** Le Sud-Ouest est le deuxième marché de l'île en ventes, 268; à Lachine, la médiane de la copropriété recule de 12 % sur 39 ventes.
 
-**Côte-des-Neiges/Notre-Dame-de-Grâce, Outremont, Westmount, Mont-Royal, Hampstead, Côte-Saint-Luc et Montréal-Ouest.** Les quatre plus hautes médianes unifamiliales sur quatre trimestres y sont, et l'offre recule à Westmount (-6 %), à Mont-Royal (-10 %) et à Hampstead (-15 %).
+**[Côte-des-Neiges/Notre-Dame-de-Grâce, Outremont, Westmount, Mont-Royal, Hampstead, Côte-Saint-Luc et Montréal-Ouest](/articles/marche-immobilier-cote-des-neiges-ndg-westmount-montreal/).** Les quatre plus hautes médianes unifamiliales sur quatre trimestres y sont, et l'offre recule à Westmount (-6 %), à Mont-Royal (-10 %) et à Hampstead (-15 %).
 
-**Saint-Laurent, Dorval et L'Île-Dorval.** Saint-Laurent vend 100 copropriétés (+6 %), mais en 75 jours, 22 de plus qu'un an plus tôt.
+**[Saint-Laurent, Dorval et L'Île-Dorval](/articles/marche-immobilier-saint-laurent-dorval-montreal/).** Saint-Laurent vend 100 copropriétés (+6 %), mais en 75 jours, 22 de plus qu'un an plus tôt.
 
-**L'Ouest-de-l'Île.** Pointe-Claire, Dollard-des-Ormeaux, Kirkland, Beaconsfield, Baie-D'Urfé, Sainte-Anne-de-Bellevue, Senneville, Pierrefonds-Roxboro et L'Île-Bizard/Sainte-Geneviève vendent surtout des unifamiliales; à Pointe-Claire, elles se vendent en 29 jours, le délai unifamilial le plus court publié sur l'île.
+**[L'Ouest-de-l'Île](/articles/marche-immobilier-ouest-de-l-ile-montreal/).** Pointe-Claire, Dollard-des-Ormeaux, Kirkland, Beaconsfield, Baie-D'Urfé, Sainte-Anne-de-Bellevue, Senneville, Pierrefonds-Roxboro et L'Île-Bizard/Sainte-Geneviève vendent surtout des unifamiliales; à Pointe-Claire, elles se vendent en 29 jours, le délai unifamilial le plus court publié sur l'île.
 
 ## Lire ces chiffres sans se tromper
 

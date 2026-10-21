@@ -94,7 +94,7 @@ En la punta este de la isla, el distrito tiene agua al norte y al sur, y la Ciud
 
 **¿El tren de Pointe-aux-Trembles llega al centro de Montreal?** No directamente. Según el horario de exo al 20 de octubre de 2026, la línea 15 Mascouche termina en la estación Côte-de-Liesse, en correspondencia con el REM.
 
-Para completar, lea [impuestos municipales en Montreal y Laval](/es/articles/property-tax-explained/) y [el mercado inmobiliario de Montreal y Laval](/es/articles/marche-immobilier-montreal-analyse-donnees/). La [página de Rivière-des-Prairies](/es/corredor-inmobiliario/riviere-des-prairies-montreal/) y la [página de Montreal](/es/corredor-inmobiliario/montreal/) reúnen el resto.
+Para completar, lea [el mercado inmobiliario de Montreal, distrito por distrito](/es/articles/mercado-inmobiliario-montreal-por-distrito/), [impuestos municipales en Montreal y Laval](/es/articles/property-tax-explained/) y [el mercado inmobiliario de Montreal y Laval](/es/articles/marche-immobilier-montreal-analyse-donnees/). La [página de Rivière-des-Prairies](/es/corredor-inmobiliario/riviere-des-prairies-montreal/) y la [página de Montreal](/es/corredor-inmobiliario/montreal/) reúnen el resto.
 
 ---
 

@@ -95,7 +95,7 @@ La maison unifamiliale est marginale: 16 ventes au Plateau et 10 à Ville-Marie 
 
 **Des condos neufs s'ajoutent-ils au centre-ville?** Peu, selon la SCHL: 20 copropriétés mises en chantier de janvier à septembre 2026 dans sa zone « Centre-ville de Montréal/Île-des-Soeurs », contre 392 logements locatifs.
 
-Pour compléter, lisez [prix demandé et prix vendu à Montréal](/articles/prix-demande-prix-vendu-montreal/) et [contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/). La [page Montréal](/courtier-immobilier/montreal/) rassemble le reste.
+Pour compléter, lisez [le marché immobilier de Montréal, arrondissement par arrondissement](/articles/marche-immobilier-montreal-arrondissements/), [prix demandé et prix vendu à Montréal](/articles/prix-demande-prix-vendu-montreal/) et [contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/). La [page Montréal](/courtier-immobilier/montreal/) rassemble le reste.
 
 ---
 

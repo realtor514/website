@@ -113,7 +113,7 @@ Le plan d'urbanisme de 2021 annonce aussi un futur programme particulier d'urban
 
 **Le métro sera-t-il prolongé vers la rue Saint-Charles?** Aucun échéancier officiel n'existe. Le plan d'urbanisme de 2021 évoquait une station Saint-Charles et le schéma de l'agglomération un prolongement dans l'arrondissement, sans date. Le plan 2025-2034 de l'ARTM ne prolonge que la ligne bleue.
 
-Pour compléter, lisez [comparables immobiliers: auditer le prix du voisin](/articles/comparables-prix-maison-voisin-quebec/) et [les obligations de la loi 16 en copropriété](/articles/loi-16-copropriete-acheteur-quebec/). La [page Longueuil](/courtier-immobilier/longueuil/) présente les trois arrondissements.
+Pour compléter, lisez [le marché immobilier de Longueuil, arrondissement par arrondissement](/articles/marche-immobilier-longueuil-secteurs/), [comparables immobiliers: auditer le prix du voisin](/articles/comparables-prix-maison-voisin-quebec/) et [les obligations de la loi 16 en copropriété](/articles/loi-16-copropriete-acheteur-quebec/). La [page Longueuil](/courtier-immobilier/longueuil/) présente les trois arrondissements.
 
 ---
 

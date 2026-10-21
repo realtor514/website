@@ -130,7 +130,7 @@ Not in the strict sense. When the offer comes from a broker, it is a comparative
 **How much does a real estate agent charge to estimate a house?**
 No official source consulted publishes a price for a broker's comparative market analysis: ask before the broker starts. The one I prepare is free of charge. For a chartered appraiser, the Ordre has set no guideline fee: fees vary by region, type of property and purpose of the report, and the Ordre advises comparing a few.
 
-To go further, read [how to audit the comparables you are shown](/en/articles/real-estate-comparables-quebec/) and [how to contest your municipal assessment](/en/articles/contest-property-assessment-quebec/).
+To go further, read [how to audit the comparables you are shown](/en/articles/real-estate-comparables-quebec/) and [how to contest your municipal assessment](/en/articles/contest-property-assessment-quebec/), and find out [whether to list your house higher to leave room to negotiate in Laval](/en/articles/overpricing-house-negotiation-laval/) and [how to sell your house for the highest price in Laval](/en/articles/sell-house-for-more-laval/).
 
 ---
 

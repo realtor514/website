@@ -101,7 +101,7 @@ The former Saint-Hubert airport, on route de l'Aéroport, which the road network
 
 **How can you tell whether a house is exposed to aircraft noise?** WebTrak shows flights in real time, map 38 of the land use plan shows the NEF 25 and higher areas, and the City, at 311 or 450-463-7311, can tell you which rule applies to the lot. Add a visit at the time of day you would normally be at home.
 
-To go further, read [contesting your municipal assessment](/en/articles/contest-property-assessment-quebec/). The [Saint-Hubert page](/en/real-estate-broker/saint-hubert-longueuil/) and the [Longueuil page](/en/real-estate-broker/longueuil/) bring together the rest.
+To go further, read [the Longueuil real estate market, borough by borough](/en/articles/longueuil-real-estate-market-by-sector/) and [contesting your municipal assessment](/en/articles/contest-property-assessment-quebec/). The [Saint-Hubert page](/en/real-estate-broker/saint-hubert-longueuil/) and the [Longueuil page](/en/real-estate-broker/longueuil/) bring together the rest.
 
 ---
 
