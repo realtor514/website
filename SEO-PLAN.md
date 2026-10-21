@@ -945,6 +945,82 @@ https://georgesmatar.ca/ar/articles/spring-melt-water-infiltration-montreal/
 Quand les 6 jours sont faits, retourne sur la ligne "Detectee, actuellement
 non indexee" et clique "Valider la correction".
 
+#### VAGUE DU 2026-10-20 - Serie marche immobilier de Laval par secteur
+
+28 articles nouveaux (7 articles en 4 langues, publies le 2026-10-19) et
+16 pages de quartier modifiees le meme jour (lien vers l article de leur
+secteur). 44 adresses, en 5 jours. Ordre: francais d abord, puis anglais,
+arabe, et l espagnol en dernier.
+
+#### Vague 2026-10-20, jour 1 - Francais
+
+```
+https://georgesmatar.ca/articles/marche-immobilier-laval-secteurs/
+https://georgesmatar.ca/articles/marche-immobilier-chomedey-laval/
+https://georgesmatar.ca/articles/marche-immobilier-est-de-laval-duvernay/
+https://georgesmatar.ca/articles/marche-immobilier-sainte-dorothee-laval-ouest/
+https://georgesmatar.ca/articles/marche-immobilier-sainte-rose-fabreville-laval/
+https://georgesmatar.ca/articles/marche-immobilier-vimont-auteuil-laval/
+https://georgesmatar.ca/articles/marche-immobilier-pont-viau-laval-des-rapides/
+https://georgesmatar.ca/courtier-immobilier/laval/
+https://georgesmatar.ca/courtier-immobilier/chomedey-laval/
+https://georgesmatar.ca/courtier-immobilier/duvernay-laval/
+```
+
+#### Vague 2026-10-20, jour 2 - Francais, fin, puis anglais
+
+```
+https://georgesmatar.ca/courtier-immobilier/sainte-dorothee-laval/
+https://georgesmatar.ca/en/articles/laval-real-estate-market-by-sector/
+https://georgesmatar.ca/en/articles/chomedey-laval-real-estate-market/
+https://georgesmatar.ca/en/articles/east-laval-real-estate-market-duvernay/
+https://georgesmatar.ca/en/articles/sainte-dorothee-laval-ouest-real-estate-market/
+https://georgesmatar.ca/en/articles/sainte-rose-fabreville-laval-real-estate-market/
+https://georgesmatar.ca/en/articles/vimont-auteuil-laval-real-estate-market/
+https://georgesmatar.ca/en/articles/pont-viau-laval-des-rapides-real-estate-market/
+https://georgesmatar.ca/en/real-estate-broker/laval/
+https://georgesmatar.ca/en/real-estate-broker/chomedey-laval/
+```
+
+#### Vague 2026-10-20, jour 3 - Anglais, fin, puis arabe
+
+```
+https://georgesmatar.ca/en/real-estate-broker/duvernay-laval/
+https://georgesmatar.ca/en/real-estate-broker/sainte-dorothee-laval/
+https://georgesmatar.ca/ar/articles/laval-real-estate-market-by-sector/
+https://georgesmatar.ca/ar/articles/chomedey-laval-real-estate-market/
+https://georgesmatar.ca/ar/articles/east-laval-real-estate-market-duvernay/
+https://georgesmatar.ca/ar/articles/sainte-dorothee-laval-ouest-real-estate-market/
+https://georgesmatar.ca/ar/articles/sainte-rose-fabreville-laval-real-estate-market/
+https://georgesmatar.ca/ar/articles/vimont-auteuil-laval-real-estate-market/
+https://georgesmatar.ca/ar/articles/pont-viau-laval-des-rapides-real-estate-market/
+https://georgesmatar.ca/ar/wasit-aqari/laval/
+```
+
+#### Vague 2026-10-20, jour 4 - Arabe, fin, puis espagnol
+
+```
+https://georgesmatar.ca/ar/wasit-aqari/chomedey-laval/
+https://georgesmatar.ca/ar/wasit-aqari/duvernay-laval/
+https://georgesmatar.ca/ar/wasit-aqari/sainte-dorothee-laval/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-laval-por-sector/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-chomedey-laval/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-este-de-laval-duvernay/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-sainte-dorothee-laval-ouest/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-sainte-rose-fabreville-laval/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-vimont-auteuil-laval/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-pont-viau-laval-des-rapides/
+```
+
+#### Vague 2026-10-20, jour 5 - Espagnol, fin
+
+```
+https://georgesmatar.ca/es/corredor-inmobiliario/laval/
+https://georgesmatar.ca/es/corredor-inmobiliario/chomedey-laval/
+https://georgesmatar.ca/es/corredor-inmobiliario/duvernay-laval/
+https://georgesmatar.ca/es/corredor-inmobiliario/sainte-dorothee-laval/
+```
+
 ### B. Google Business Profile (30 min) - PRIORITE 1
 
 C'est ce qui genere le plus de leads pour un courtier. La majorite des gens qui
