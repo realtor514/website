@@ -5,6 +5,8 @@ description: "Courtier immobilier à Saint-Basile-le-Grand: quartier central, qu
 city: "Saint-Basile-le-Grand"
 url: "/courtier-immobilier/saint-basile-le-grand/"
 translationKey: "secteur-saint-basile-le-grand"
+date: 2026-09-19
+lastmod: 2026-10-21
 weight: 28
 cardText: "Vallée du Richelieu: une gare exo, le parc du Mont-Saint-Bruno voisin et des terres agricoles."
 facts:
@@ -62,6 +64,6 @@ Le parc national du Mont-Saint-Bruno touche la limite de la ville, avec un accè
 
 ## Vendre et acheter à Saint-Basile-le-Grand
 
-Les acheteurs comparent Saint-Basile avec [Saint-Bruno-de-Montarville](/courtier-immobilier/saint-bruno-de-montarville/) et [Sainte-Julie](/courtier-immobilier/sainte-julie/), ses voisines. À l'intérieur de la ville, la proximité de la gare et l'âge de la maison comptent parmi les premiers facteurs d'écart de prix.
+Les acheteurs comparent Saint-Basile avec [Saint-Bruno-de-Montarville](/courtier-immobilier/saint-bruno-de-montarville/) et [Sainte-Julie](/courtier-immobilier/sainte-julie/), ses voisines. À l'intérieur de la ville, comparez des propriétés d'âge semblable et à distance semblable de la gare.
 
 L'analyse comparative est préparée sans frais, avec les ventes récentes de votre quartier. Côté achat, établissez votre fourchette avec le [calculateur hypothécaire](/tools/mortgage/) et prévoyez les [coûts de clôture](/tools/closing-costs/).

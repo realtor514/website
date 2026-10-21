@@ -6,6 +6,8 @@ city: "Saint-Basile-le-Grand"
 url: "/en/real-estate-broker/saint-basile-le-grand/"
 translationKey: "secteur-saint-basile-le-grand"
 weight: 28
+date: 2026-09-19
+lastmod: 2026-10-21
 cardText: "Richelieu Valley: an exo station, Mont-Saint-Bruno park next door and farmland."
 facts:
   - value: "1871"
@@ -62,6 +64,6 @@ Mont-Saint-Bruno National Park touches the city limits, with an access point on 
 
 ## Selling and buying in Saint-Basile-le-Grand
 
-Buyers compare Saint-Basile with [Saint-Bruno-de-Montarville](/en/real-estate-broker/saint-bruno-de-montarville/) and [Sainte-Julie](/en/real-estate-broker/sainte-julie/), its neighbours. Within the city, proximity to the station and the age of the house are among the first drivers of price differences.
+Buyers compare Saint-Basile with [Saint-Bruno-de-Montarville](/en/real-estate-broker/saint-bruno-de-montarville/) and [Sainte-Julie](/en/real-estate-broker/sainte-julie/), its neighbours. Within the city, compare properties of a similar age and at a similar distance from the station.
 
 The comparative analysis is prepared at no charge, with recent sales from your district. On the buying side, set your range with the [mortgage calculator](/en/tools/mortgage/) and plan for [closing costs](/en/tools/closing-costs/).

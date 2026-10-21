@@ -6,6 +6,8 @@ city: "Brossard"
 url: "/en/real-estate-broker/brossard/"
 translationKey: "secteur-brossard"
 weight: 8
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "South Shore: the alphabetical sectors, DIX30 and the REM corridor."
 facts:
   - value: "3"
@@ -25,8 +27,8 @@ sectors:
   - "Sector L"
   - "Sector P"
 faq:
-  - q: "Did the REM really push Brossard prices up?"
-    a: "Yes, but not everywhere. The effect is concentrated around the Panama, Du Quartier and Brossard stations, mostly on condos. Single-family sectors away from the stations followed the general market with no particular premium."
+  - q: "Does the REM change the math for a buyer in Brossard?"
+    a: "For a buyer who works downtown, often yes: the Panama, Du Quartier and Brossard stations give access to downtown Montreal without a car. No public statistic measures the REM's effect on prices: Centris publishes a single figure for Brossard, so for a given property, the recent sales around the stations are what show it."
   - q: "What do the letters in Brossard sectors mean?"
     a: "Brossard is divided into sectors identified by a letter, where every street starts with that letter. It is not just trivia: each sector corresponds to a construction period and a property type, which makes it a useful marker for comparing correctly."
   - q: "Is buying a new condo near the REM a good idea?"

@@ -5,6 +5,8 @@ description: "Courtier immobilier résidentiel à Candiac: Square Candiac, Montc
 city: "Candiac"
 url: "/courtier-immobilier/candiac/"
 translationKey: "secteur-candiac"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 13
 cardText: "Roussillon: ville planifiée, gare exo et secteurs résidentiels haut de gamme."
 facts:
@@ -26,8 +28,8 @@ sectors:
 faq:
   - q: "Pourquoi Candiac est-elle plus chère que Delson ou Saint-Constant?"
     a: "Candiac a été conçue dès 1957 comme une ville planifiée, avec des normes d'urbanisme et de construction supérieures à la moyenne régionale de l'époque. Cette planification s'est maintenue, et elle se reflète dans le parc immobilier et dans les prix."
-  - q: "La gare exo change-t-elle la valeur des propriétés?"
-    a: "Pour une partie du marché, oui. La ligne Candiac relie la ville à la gare Lucien-L'Allier, et les propriétés à distance de marche de la gare intéressent un segment d'acheteurs qui n'existerait pas autrement. L'effet est réel mais localisé."
+  - q: "La gare exo change-t-elle le calcul pour un acheteur?"
+    a: "Pour une partie du marché, oui. La ligne Candiac relie la ville à la gare Lucien-L'Allier. Aucune statistique publique ne mesure l'effet de la gare sur les prix: Centris publie un seul chiffre pour Candiac, et pour une propriété donnée, ce sont les ventes récentes autour de la gare qui le montrent."
   - q: "Y a-t-il beaucoup de construction neuve à Candiac?"
     a: "Le Square Candiac est le principal pôle de développement récent, avec un mix de maisons de ville et de condos. Pour un revendeur dans ce secteur, la concurrence directe est souvent l'inventaire du promoteur, ce qui doit se refléter dans le prix d'affichage."
   - q: "Couvrez-vous aussi Saint-Constant et Sainte-Catherine?"
@@ -50,7 +52,7 @@ S'y ajoute la gare exo de la ligne Candiac, qui donne un accès direct au centre
 
 **Le Square Candiac** est le pôle de développement récent, avec maisons de ville, condos et normes architecturales encadrées.
 
-**Le secteur de la gare** bénéficie d'une prime liée au transport collectif, concentrée sur un rayon réduit.
+**Le secteur de la gare** donne accès à la ligne Candiac. Aucune statistique publique ne mesure son effet sur les prix.
 
 ## Ce qu'il faut vérifier ici
 

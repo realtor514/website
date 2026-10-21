@@ -6,6 +6,8 @@ city: "Brossard"
 url: "/es/corredor-inmobiliario/brossard/"
 translationKey: "secteur-brossard"
 weight: 8
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Rive-Sud: los sectores alfabéticos, el DIX30 y el corredor del REM."
 facts:
   - value: "3"
@@ -25,8 +27,8 @@ sectors:
   - "Sector L"
   - "Sector P"
 faq:
-  - q: "¿El REM subió realmente los precios en Brossard?"
-    a: "Sí, pero no en todas partes. El efecto se concentra alrededor de las estaciones Panama, Du Quartier y Brossard, sobre todo en los condominios. Los sectores unifamiliares alejados de las estaciones siguieron la tendencia general del mercado, sin prima particular."
+  - q: "¿El REM cambia el cálculo para un comprador en Brossard?"
+    a: "Para quien vive cerca de las estaciones Panama, Du Quartier y Brossard, el REM da acceso al centro de Montreal sin coche. Ninguna estadística pública mide el efecto del REM sobre los precios: Centris publica una sola cifra para Brossard, y para una propiedad determinada son las ventas recientes alrededor de las estaciones las que lo muestran."
   - q: "¿Qué significan las letras de los sectores de Brossard?"
     a: "Brossard está dividida en sectores identificados por una letra, donde todas las calles empiezan por esa letra. No es un detalle: cada sector corresponde a un periodo de construcción y a un tipo de propiedad, lo que lo convierte en una referencia útil para comparar correctamente."
   - q: "¿Comprar un condominio nuevo cerca del REM es buena idea?"

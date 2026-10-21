@@ -6,6 +6,8 @@ city: "Candiac"
 url: "/es/corredor-inmobiliario/candiac/"
 translationKey: "secteur-candiac"
 weight: 13
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Roussillon: ciudad planificada, estación exo y sectores residenciales de gama alta."
 facts:
   - value: "1957"
@@ -26,8 +28,8 @@ sectors:
 faq:
   - q: "¿Por qué Candiac es más cara que Delson o Saint-Constant?"
     a: "Candiac fue concebida desde 1957 como ciudad planificada, con normas urbanísticas y constructivas superiores a la media regional de la época. Esa planificación se ha mantenido y se refleja en el parque inmobiliario y en los precios."
-  - q: "¿La estación exo cambia el valor de las propiedades?"
-    a: "Para parte del mercado, sí. La línea Candiac conecta la ciudad con la estación Lucien-L'Allier, y las propiedades a distancia caminable interesan a un segmento de compradores que de otro modo no existiría. El efecto es real pero localizado."
+  - q: "¿La estación exo cambia el cálculo para un comprador?"
+    a: "Para parte del mercado, sí. La línea Candiac conecta la ciudad con la estación Lucien-L'Allier, en el centro de Montreal. Ninguna estadística pública mide el efecto de la estación sobre los precios: Centris publica una sola cifra para Candiac, y para una propiedad determinada son las ventas recientes alrededor de la estación las que lo muestran."
   - q: "¿Hay mucha construcción nueva en Candiac?"
     a: "El Square Candiac es el principal polo de desarrollo reciente, con una mezcla de casas adosadas y condominios. Para quien revende en ese sector, la competencia directa suele ser el inventario del promotor."
   - q: "¿Cubre también Saint-Constant y Sainte-Catherine?"
@@ -50,7 +52,7 @@ A eso se suma la estación exo de la línea Candiac, que da acceso directo al ce
 
 **El Square Candiac** es el polo de desarrollo reciente, con casas adosadas, condominios y normas arquitectónicas reguladas.
 
-**El sector de la estación** goza de una prima ligada al transporte colectivo, concentrada en un radio reducido.
+**El sector de la estación** da acceso a la línea Candiac. Ninguna estadística pública mide su efecto sobre los precios.
 
 ## Lo que hay que verificar aquí
 

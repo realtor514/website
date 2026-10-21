@@ -29,11 +29,11 @@ faq:
   - q: "Quels secteurs de Longueuil couvrez-vous?"
     a: "Les trois arrondissements: Vieux-Longueuil, Saint-Hubert et Greenfield Park. Ce sont trois marchés très différents, avec des parcs immobiliers et des acheteurs distincts, et les comparables ne se mélangent pas de l'un à l'autre."
   - q: "Longueuil est-elle plus abordable que Montréal?"
-    a: "Pour la plupart des types de propriétés, oui, surtout à Saint-Hubert. Le Vieux-Longueuil, lui, se rapproche des prix montréalais dans les rues près du métro, parce que le trajet vers le centre-ville est plus court que depuis plusieurs quartiers de l'île."
+    a: "Pour la plupart des types de propriétés, oui, surtout à Saint-Hubert. Dans le Vieux-Longueuil, les rues près du métro offrent un trajet vers le centre-ville plus court que depuis plusieurs quartiers de l'île. Aucune statistique publique ne mesure l'effet du métro sur les prix: Centris publie un seul chiffre pour le Vieux-Longueuil, et pour une propriété donnée, ce sont les ventes récentes autour de la station qui le montrent."
   - q: "Le marché des plex y est-il intéressant?"
     a: "C'est l'un des marchés de plex les plus actifs de la Rive-Sud, en particulier dans le Vieux-Longueuil. Le prix d'entrée reste inférieur à celui des plex de Rosemont ou de Villeray, et le bassin locatif est soutenu par la proximité du métro et de l'Université de Sherbrooke campus Longueuil."
   - q: "Le REM change-t-il quelque chose à Longueuil?"
-    a: "Il touche surtout Brossard directement, mais l'effet se ressent à Saint-Hubert par report de demande. Le facteur déterminant à Longueuil reste la ligne jaune du métro et le pont Jacques-Cartier."
+    a: "Il dessert Brossard directement, sans station à Longueuil. Aucune statistique publique ne mesure son effet sur les prix à Saint-Hubert. Pour le trajet, le facteur déterminant à Longueuil reste la ligne jaune du métro et le pont Jacques-Cartier."
   - q: "Faites-vous les évaluations gratuites à Longueuil?"
     a: "Oui, sans frais et sans engagement, avec les comparables réels de votre arrondissement et non une estimation automatisée."
   - q: "Agent immobilier ou courtier immobilier à Longueuil: quelle différence?"
@@ -44,7 +44,7 @@ Longueuil est la porte d'entrée de la Rive-Sud, et l'une des rares villes de la
 
 ## Trois arrondissements, trois marchés
 
-**[Le Vieux-Longueuil](/courtier-immobilier/vieux-longueuil/)** concentre l'essentiel du marché de plex et des propriétés anciennes. Les rues situées à distance de marche de la station Longueuil-Université-de-Sherbrooke se négocient à des prix qui n'ont plus grand-chose à voir avec le reste de la ville: c'est le seul endroit de la Rive-Sud où un acheteur peut se passer d'une voiture.
+**[Le Vieux-Longueuil](/courtier-immobilier/vieux-longueuil/)** concentre l'essentiel du marché de plex et des propriétés anciennes. Les rues à distance de marche de la station Longueuil-Université-de-Sherbrooke donnent accès au métro de Montréal sans voiture.
 
 **[Saint-Hubert](/courtier-immobilier/saint-hubert-longueuil/)** est le secteur le plus abordable et le plus vaste. Parc immobilier majoritairement unifamilial, terrains plus grands, et une offre qui attire les familles écartées de Brossard ou de Boucherville. C'est aussi le secteur où les écarts de prix entre deux rues sont les plus marqués.
 

@@ -38,9 +38,9 @@ faq:
     a: "Aucune dans les faits. Au Québec, le seul titre reconnu par l'OACIQ, l'organisme qui délivre les permis, est celui de courtier immobilier. « Agent immobilier » est un usage courant, emprunté à l'anglais et aux autres provinces, qui désigne la même personne. Si vous cherchez un agent immobilier à Mirabel, vérifiez surtout que la personne détient un permis valide au [registre de l'OACIQ](https://registre.oaciq.com/): le mien porte le numéro J7941. Les nuances sont expliquées dans [cet article](/articles/broker-agent-difference-quebec/)."
 ---
 
-Mirabel est le territoire le plus vaste et le plus fragmenté de la région. C'est aussi l'une des villes où une estimation automatisée a le plus de chances d'être fausse.
+Avec 486 km², Mirabel a l'un des plus grands territoires municipaux du Québec, selon la Ville.
 
-## Une ville, dix marchés
+## Une ville, 13 secteurs
 
 Selon la Ville, Mirabel est née en 1971 de la fusion de 14 municipalités et parties de municipalités; elle compte aujourd'hui 13 secteurs, séparés par de la zone agricole. Ce ne sont pas des quartiers: ce sont des noyaux distincts, parfois à quinze kilomètres les uns des autres.
 
@@ -52,7 +52,7 @@ Selon la Ville, Mirabel est née en 1971 de la fusion de 14 municipalités et pa
 
 **Sainte-Scholastique, Saint-Augustin et Saint-Benoît** restent ruraux, avec des propriétés sur grands terrains et parfois des vocations agricoles.
 
-Comparer une vente de Saint-Janvier à une propriété de Saint-Benoît n'a aucun sens. C'est pourtant exactement ce que font les outils en ligne.
+Une vente de Saint-Janvier ne se compare pas à une propriété de Saint-Benoît: un prix se compare aux ventes récentes du même secteur.
 
 Les ventes, les prix médians et les délais de vente de Mirabel, que Centris publie pour la ville entière, sont détaillés dans [le marché immobilier de Mirabel au 3e trimestre 2026](/articles/marche-immobilier-mirabel/).
 

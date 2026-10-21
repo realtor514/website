@@ -38,9 +38,9 @@ faq:
     a: "In practice, none. In Quebec, the only title recognized by the OACIQ, the body that issues licences, is real estate broker (courtier immobilier). “Real estate agent” is common usage, borrowed from English and from the other provinces, and it refers to the same person. If you are looking for a real estate agent in Mirabel, what matters is that the person holds a valid licence in the [OACIQ register](https://registre.oaciq.com/): mine is number J7941. The nuances are explained in [this article](/en/articles/broker-agent-difference-quebec/)."
 ---
 
-Mirabel is the largest and most fragmented territory in the region. It is also one of the cities where an automated estimate is most likely to be wrong.
+With 486 km², Mirabel has one of the largest municipal territories in Quebec, according to the City.
 
-## One city, ten markets
+## One city, 13 sectors
 
 Mirabel was created in 1971 from the merger of 14 municipalities and parts of municipalities, and today has 13 sectors, separated by agricultural land. These are not neighbourhoods: they are distinct cores, sometimes fifteen kilometres apart.
 
@@ -52,7 +52,7 @@ Mirabel was created in 1971 from the merger of 14 municipalities and parts of mu
 
 **Sainte-Scholastique, Saint-Augustin and Saint-Benoît** remain rural, with properties on large lots and sometimes agricultural uses.
 
-Comparing a Saint-Janvier sale to a Saint-Benoît property makes no sense. That is exactly what online tools do.
+A Saint-Janvier sale is not comparable to a Saint-Benoît property: a price is compared with recent sales in the same sector.
 
 The figures behind this market are in [the Mirabel real estate market in the third quarter of 2026](/en/articles/mirabel-real-estate-market/): sales, median prices and days on market for the city as a whole, as published by Centris.
 

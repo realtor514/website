@@ -5,6 +5,8 @@ description: "Courtier immobilier résidentiel à Delson: secteur de la gare, De
 city: "Delson"
 url: "/courtier-immobilier/delson/"
 translationKey: "secteur-delson"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 14
 cardText: "Roussillon: petite ville accessible, gare exo et proximité de Candiac."
 facts:
@@ -28,7 +30,7 @@ faq:
   - q: "Quelle est la différence entre Delson et Candiac?"
     a: "Candiac est une ville planifiée avec des normes urbanistiques plus strictes et un parc immobilier plus homogène, ce qui se reflète dans les prix. Delson s'est développée de façon plus organique, avec un parc plus varié et des points d'entrée plus bas. Les deux villes sont voisines mais les comparables ne se mélangent pas."
   - q: "La gare exo est-elle un avantage réel?"
-    a: "Pour les acheteurs qui travaillent au centre-ville, oui. La ligne Candiac dessert Delson et évite les ponts. L'effet sur les prix est concentré sur les propriétés à courte distance de la gare."
+    a: "Pour les acheteurs qui travaillent au centre-ville, oui. La ligne Candiac dessert Delson et évite les ponts. Aucune statistique publique ne mesure l'effet de la gare sur les prix: Centris publie un seul chiffre pour Delson, et pour une propriété donnée, ce sont les ventes récentes autour de la gare qui le montrent."
   - q: "Faites-vous les évaluations gratuites à Delson?"
     a: "Oui, sans frais ni engagement, avec les comparables réels de votre rue."
   - q: "Agent immobilier ou courtier immobilier à Delson: quelle différence?"

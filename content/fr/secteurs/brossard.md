@@ -5,6 +5,8 @@ description: "Courtier immobilier résidentiel à Brossard: secteurs A à V, DIX
 city: "Brossard"
 url: "/courtier-immobilier/brossard/"
 translationKey: "secteur-brossard"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 8
 cardText: "Rive-Sud: les secteurs alphabétiques, le DIX30 et le corridor du REM."
 facts:
@@ -25,8 +27,8 @@ sectors:
   - "Secteur L"
   - "Secteur P"
 faq:
-  - q: "Le REM a-t-il vraiment fait monter les prix à Brossard?"
-    a: "Oui, mais pas partout. L'effet est concentré autour des stations Panama, Du Quartier et Brossard, surtout sur les condos. Les secteurs unifamiliaux éloignés des stations ont suivi la tendance générale du marché, sans prime particulière."
+  - q: "Le REM change-t-il le calcul pour un acheteur à Brossard?"
+    a: "Pour un acheteur qui travaille au centre-ville, souvent oui: les stations Panama, Du Quartier et Brossard donnent accès au centre-ville de Montréal sans voiture. Aucune statistique publique ne mesure l'effet du REM sur les prix: Centris publie un seul chiffre pour Brossard, et pour une propriété donnée, ce sont les ventes récentes autour des stations qui le montrent."
   - q: "Que signifient les lettres des secteurs de Brossard?"
     a: "Brossard est divisée en secteurs identifiés par une lettre, où toutes les rues commencent par cette lettre. Ce n'est pas qu'un détail: chaque secteur correspond à une période de construction et à un type de propriété, ce qui en fait un repère utile pour comparer correctement."
   - q: "Acheter un condo neuf près du REM: bonne idée?"

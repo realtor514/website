@@ -29,11 +29,11 @@ faq:
   - q: "Which parts of Longueuil do you cover?"
     a: "All three boroughs: Vieux-Longueuil, Saint-Hubert and Greenfield Park. They are three very different markets, with distinct housing stock and buyers, and comparables do not cross from one to another."
   - q: "Is Longueuil more affordable than Montreal?"
-    a: "For most property types, yes, especially in Saint-Hubert. Vieux-Longueuil comes closer to Montreal prices on streets near the metro, because the commute downtown is shorter than from several neighbourhoods on the island itself."
+    a: "For most property types, yes, especially in Saint-Hubert. In Vieux-Longueuil, streets near the metro have a shorter commute downtown than several neighbourhoods on the island itself. No public statistic measures the metro's effect on prices."
   - q: "Is the plex market worth looking at here?"
     a: "It is one of the most active plex markets on the South Shore, particularly in Vieux-Longueuil. The entry price stays below Rosemont or Villeray plexes, and the rental pool is supported by the metro and the Université de Sherbrooke Longueuil campus."
   - q: "Does the REM change anything in Longueuil?"
-    a: "It affects Brossard directly, but the effect reaches Saint-Hubert through spillover demand. The deciding factor in Longueuil remains the yellow metro line and the Jacques-Cartier bridge."
+    a: "It serves Brossard directly, with no station in Longueuil. No public statistic measures its effect on prices in Saint-Hubert. For the commute, the deciding factor in Longueuil remains the yellow metro line and the Jacques-Cartier bridge."
   - q: "Do you offer free evaluations in Longueuil?"
     a: "Yes, free and with no obligation, using real comparables from your borough rather than an automated estimate."
   - q: "Real estate agent or real estate broker in Longueuil: what is the difference?"
@@ -44,7 +44,7 @@ Longueuil is the gateway to the South Shore, and one of the few off-island citie
 
 ## Three boroughs, three markets
 
-**[Vieux-Longueuil](/en/real-estate-broker/vieux-longueuil/)** holds most of the plex market and the older housing stock. Streets within walking distance of the Longueuil-Université-de-Sherbrooke station trade at prices that have little to do with the rest of the city: it is the only place on the South Shore where a buyer can genuinely go without a car.
+**[Vieux-Longueuil](/en/real-estate-broker/vieux-longueuil/)** holds most of the plex market and the older housing stock. Streets within walking distance of the Longueuil-Université-de-Sherbrooke station give access to the Montreal metro without a car.
 
 **[Saint-Hubert](/en/real-estate-broker/saint-hubert-longueuil/)** is the most affordable and the largest sector. Mostly single-family stock, larger lots, and an offering that attracts families priced out of Brossard or Boucherville. It is also where price gaps between two streets are widest.
 

@@ -6,6 +6,8 @@ city: "Delson"
 url: "/en/real-estate-broker/delson/"
 translationKey: "secteur-delson"
 weight: 14
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Roussillon: an accessible small city, an exo station and Candiac next door."
 facts:
   - value: "Station"
@@ -28,7 +30,7 @@ faq:
   - q: "What is the difference between Delson and Candiac?"
     a: "Candiac is a planned city with stricter planning standards and more homogeneous housing stock, which shows in prices. Delson developed more organically, with more varied stock and lower entry points. The two are neighbours but their comparables do not mix."
   - q: "Is the exo station a real advantage?"
-    a: "For buyers who work downtown, yes. The Candiac line serves Delson and avoids the bridges. The price effect is concentrated on properties a short distance from the station."
+    a: "For buyers who work downtown, yes. The Candiac line serves Delson and avoids the bridges. No public statistic measures the station's effect on prices: Centris publishes a single figure for Delson, so for a given property, the recent sales around the station are what show it."
   - q: "Do you offer free evaluations in Delson?"
     a: "Yes, free and with no obligation, using real comparables from your street."
   - q: "Real estate agent or real estate broker in Delson: what is the difference?"

@@ -29,11 +29,11 @@ faq:
   - q: "¿Qué sectores de Longueuil cubre?"
     a: "Los tres distritos: Vieux-Longueuil, Saint-Hubert y Greenfield Park. Son tres mercados muy diferentes, con parques inmobiliarios y compradores distintos, y los comparables no se mezclan de uno a otro."
   - q: "¿Es Longueuil más asequible que Montreal?"
-    a: "Para la mayoría de los tipos de propiedad, sí, sobre todo en Saint-Hubert. El Vieux-Longueuil se acerca a los precios de Montreal en las calles próximas al metro, porque el trayecto al centro es más corto que desde varios barrios de la isla."
+    a: "Para la mayoría de los tipos de propiedad, sí, sobre todo en Saint-Hubert. En el Vieux-Longueuil, desde las calles próximas al metro, el trayecto al centro es más corto que desde varios barrios de la isla. Ninguna estadística pública mide el efecto del metro sobre los precios: Centris publica una cifra por distrito, y para una propiedad determinada son las ventas recientes alrededor de la estación las que lo muestran."
   - q: "¿Es interesante el mercado de plex aquí?"
     a: "Es uno de los mercados de plex más activos de la Rive-Sud, en particular en el Vieux-Longueuil. El precio de entrada sigue siendo inferior al de los plex de Rosemont o Villeray, y la demanda de alquiler se apoya en el metro y en el campus Longueuil de la Université de Sherbrooke."
   - q: "¿El REM cambia algo en Longueuil?"
-    a: "Afecta sobre todo a Brossard de forma directa, pero el efecto llega a Saint-Hubert por desplazamiento de la demanda. El factor determinante en Longueuil sigue siendo la línea amarilla del metro y el puente Jacques-Cartier."
+    a: "Sirve directamente a Brossard, sin estación en Longueuil. Ninguna estadística pública mide su efecto sobre los precios en Saint-Hubert. Para el trayecto, el factor determinante en Longueuil sigue siendo la línea amarilla del metro y el puente Jacques-Cartier."
   - q: "¿Ofrece evaluaciones gratuitas en Longueuil?"
     a: "Sí, sin costo ni compromiso, con los comparables reales de su distrito y no una estimación automatizada."
   - q: "Agente inmobiliario o corredor inmobiliario en Longueuil: ¿cuál es la diferencia?"
@@ -44,7 +44,7 @@ Longueuil es la puerta de entrada de la Rive-Sud y una de las pocas ciudades de 
 
 ## Tres distritos, tres mercados
 
-**[El Vieux-Longueuil](/es/corredor-inmobiliario/vieux-longueuil/)** concentra lo esencial del mercado de plex y de las propiedades antiguas. Las calles a distancia caminable de la estación Longueuil-Université-de-Sherbrooke se negocian a precios que poco tienen que ver con el resto de la ciudad: es el único lugar de la Rive-Sud donde un comprador puede prescindir del coche.
+**[El Vieux-Longueuil](/es/corredor-inmobiliario/vieux-longueuil/)** concentra lo esencial del mercado de plex y de las propiedades antiguas. Las calles a distancia caminable de la estación Longueuil-Université-de-Sherbrooke dan acceso al metro de Montreal sin coche.
 
 **[Saint-Hubert](/es/corredor-inmobiliario/saint-hubert-longueuil/)** es el sector más asequible y el más extenso. Parque inmobiliario mayoritariamente unifamiliar, terrenos más grandes y una oferta que atrae a familias desplazadas de Brossard o Boucherville. Es también donde las diferencias de precio entre dos calles son más marcadas.
 

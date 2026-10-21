@@ -5,6 +5,8 @@ description: "Courtier immobilier résidentiel à Saint-Constant: Vieux-Saint-Co
 city: "Saint-Constant"
 url: "/courtier-immobilier/saint-constant/"
 translationKey: "secteur-saint-constant"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 24
 cardText: "Roussillon: gare exo, secteurs récents et prix sous ceux de Candiac."
 facts:
@@ -27,7 +29,7 @@ faq:
   - q: "Saint-Constant est-elle moins chère que Candiac?"
     a: "Généralement oui, à superficie comparable. Les deux villes sont limitrophes mais leurs parcs immobiliers et leurs normes de développement diffèrent, et les comparables ne se mélangent pas. C'est l'un des points d'entrée les plus intéressants du secteur Roussillon."
   - q: "La gare exo dessert-elle Saint-Constant?"
-    a: "Oui, sur la ligne Candiac. Les propriétés à courte distance de la gare intéressent un segment d'acheteurs qui travaillent au centre-ville et qui évitent ainsi les ponts. L'effet sur les prix est réel mais concentré."
+    a: "Oui, sur la ligne Candiac. Les propriétés à courte distance de la gare intéressent un segment d'acheteurs qui travaillent au centre-ville et qui évitent ainsi les ponts. Aucune statistique publique ne mesure l'effet de la gare sur les prix: Centris publie un seul chiffre pour Saint-Constant, et pour une propriété donnée, ce sont les ventes récentes autour de la gare qui le montrent."
   - q: "Y a-t-il beaucoup de construction récente?"
     a: "Oui, plusieurs secteurs se sont développés dans les vingt dernières années. Pour ces propriétés, la garantie de construction et l'état du drainage sont les deux points à vérifier en priorité."
   - q: "Faites-vous les évaluations gratuites à Saint-Constant?"
@@ -40,7 +42,7 @@ Saint-Constant fait partie du même bassin que Candiac, Delson et [Sainte-Cather
 
 ## Ce qui structure le marché
 
-**La gare exo** de la ligne Candiac donne un accès direct au centre-ville sans passer par les ponts en voiture. C'est un argument concret pour un segment précis d'acheteurs, avec une prime de prix localisée autour de la gare.
+**La gare exo** de la ligne Candiac donne un accès direct au centre-ville sans passer par les ponts en voiture. C'est un argument concret pour un segment précis d'acheteurs.
 
 **Le Vieux-Saint-Constant** conserve un noyau ancien avec des terrains matures.
 

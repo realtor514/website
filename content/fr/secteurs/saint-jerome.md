@@ -27,8 +27,8 @@ sectors:
 faq:
   - q: "Saint-Jérôme est-elle abordable comparée à Blainville?"
     a: "Généralement oui, souvent nettement. C'est la principale raison pour laquelle des acheteurs qui commencent leur recherche à Blainville ou Sainte-Thérèse finissent par visiter Saint-Jérôme. Le compromis est le trajet vers Montréal et une offre de services différente."
-  - q: "Le train de banlieue change-t-il la valeur des propriétés?"
-    a: "Pour une partie du marché, oui. La ligne Saint-Jérôme relie la ville au centre-ville de Montréal, et les propriétés situées à distance de marche ou de courte voiture de la gare intéressent un segment d'acheteurs qui n'existerait pas autrement. L'effet sur le prix est réel mais localisé: il ne se propage pas à toute la ville."
+  - q: "Le train de banlieue change-t-il le calcul pour un acheteur?"
+    a: "Pour une partie du marché, oui. La ligne Saint-Jérôme relie la ville au centre-ville de Montréal. Aucune statistique publique ne mesure l'effet de la gare sur les prix: Centris publie un seul chiffre pour Saint-Jérôme, et pour une propriété donnée, ce sont les ventes récentes autour de la gare qui le montrent."
   - q: "Y a-t-il un marché d'immeubles à revenus à Saint-Jérôme?"
     a: "Oui, et il est plus actif que dans la plupart des villes des Laurentides. La présence du cégep, de l'hôpital régional et d'un bassin de locataires stable soutient la demande locative. Les prix d'entrée y sont inférieurs à ceux de Laval, mais la gestion à distance est un facteur à considérer sérieusement si vous n'habitez pas la région."
   - q: "Quelle est la différence entre Bellefeuille, Lafontaine et Saint-Antoine?"

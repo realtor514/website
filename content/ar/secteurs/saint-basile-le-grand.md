@@ -5,6 +5,8 @@ description: "وسيط عقاري سكني في سان بازيل لو غران:
 city: "سان بازيل لو غران"
 url: "/ar/wasit-aqari/saint-basile-le-grand/"
 translationKey: "secteur-saint-basile-le-grand"
+date: 2026-09-19
+lastmod: 2026-10-21
 weight: 28
 cardText: "وادي ريشوليو: محطة exo، حديقة جبل سان برونو المجاورة وأراضٍ زراعية."
 facts:
@@ -62,6 +64,6 @@ faq:
 
 ## البيع والشراء في سان بازيل لو غران
 
-يقارن المشترون سان بازيل بـ[سان برونو دو مونتارفيل](/ar/wasit-aqari/saint-bruno-de-montarville/) و[سانت جولي](/ar/wasit-aqari/sainte-julie/)، جارتيها. داخل المدينة، القرب من المحطة وعمر المنزل من أول عوامل فارق السعر.
+يقارن المشترون سان بازيل بـ[سان برونو دو مونتارفيل](/ar/wasit-aqari/saint-bruno-de-montarville/) و[سانت جولي](/ar/wasit-aqari/sainte-julie/)، جارتيها. داخل المدينة، قارن بين عقارات متشابهة في العمر وفي المسافة إلى المحطة.
 
 أُعدّ التحليل المقارن دون رسوم، مع المبيعات الأخيرة في حيّك. للشراء، حدّد نطاقك عبر [حاسبة الرهن العقاري](/ar/tools/mortgage/) وتوقّع [تكاليف الإقفال](/ar/tools/closing-costs/).

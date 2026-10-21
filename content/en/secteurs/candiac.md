@@ -6,6 +6,8 @@ city: "Candiac"
 url: "/en/real-estate-broker/candiac/"
 translationKey: "secteur-candiac"
 weight: 13
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Roussillon: a planned city, an exo station and upper-end residential sectors."
 facts:
   - value: "1957"
@@ -26,8 +28,8 @@ sectors:
 faq:
   - q: "Why is Candiac more expensive than Delson or Saint-Constant?"
     a: "Candiac was designed from 1957 as a planned city, with planning and construction standards above the regional average of the time. That planning has been maintained, and it shows in the housing stock and in prices."
-  - q: "Does the exo station affect property values?"
-    a: "For part of the market, yes. The Candiac line connects the city to Lucien-L'Allier station, and properties within walking distance appeal to a buyer segment that would not otherwise exist. The effect is real but localized."
+  - q: "Does the exo station change the math for a buyer?"
+    a: "For part of the market, yes. The Candiac line connects the city to Lucien-L'Allier station. No public statistic measures the station's effect on prices: Centris publishes a single figure for Candiac, so for a given property, the recent sales around the station are what show it."
   - q: "Is there much new construction in Candiac?"
     a: "Square Candiac is the main recent development hub, with a mix of townhouses and condos. For a reseller in that sector, the direct competition is often the developer's inventory, which must be reflected in the list price."
   - q: "Do you also cover Saint-Constant and Sainte-Catherine?"
@@ -50,7 +52,7 @@ Add to that the exo station on the Candiac line, which gives direct access to do
 
 **Square Candiac** is the recent development hub, with townhouses, condos and governed architectural standards.
 
-**The station sector** carries a transit premium concentrated within a short radius.
+**The station sector** gives access to the Candiac line. No public statistic measures its effect on prices.
 
 ## What to check here
 

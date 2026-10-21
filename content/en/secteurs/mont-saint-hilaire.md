@@ -6,6 +6,8 @@ city: "Mont-Saint-Hilaire"
 url: "/en/real-estate-broker/mont-saint-hilaire/"
 translationKey: "secteur-mont-saint-hilaire"
 weight: 27
+date: 2026-09-19
+lastmod: 2026-10-21
 cardText: "Richelieu Valley: the mountain, the orchards and Village de la Gare at the end of the train line."
 facts:
   - value: "1978"
@@ -23,8 +25,8 @@ sectors:
   - "Quartier de la Pommeraie"
   - "Boisé ensoleillé sector"
 faq:
-  - q: "Does the train change property values?"
-    a: "For part of the market, yes. Mont-Saint-Hilaire station is the end of the exo line, and Village de la Gare was designed around it: about 1,000 homes within 750 metres of the station. For a buyer who works in downtown Montreal, that is a concrete advantage."
+  - q: "Does the train change the math for a buyer?"
+    a: "For part of the market, yes. Mont-Saint-Hilaire station is the end of the exo line, and Village de la Gare was designed around it: about 1,000 homes within 750 metres of the station. For a buyer who works in downtown Montreal, that is a concrete advantage. No public statistic measures the station's effect on prices: Centris publishes a single figure for Mont-Saint-Hilaire, so for a given property, the recent sales around the station are what show it."
   - q: "Can you build or extend near the mountain?"
     a: "With caution. The urban plan identifies steep slope and rockfall zones at the foot of the mountain, and landslide zones along the Voghel and Voghel-Lusignan streams. These constraints are checked before the offer, not after."
   - q: "How much of the territory is built up?"
@@ -57,6 +59,6 @@ According to the city's urban plan, 48% of the territory is in the agricultural 
 
 ## Selling and buying in Mont-Saint-Hilaire
 
-Buyers often compare with [Beloeil](/en/real-estate-broker/beloeil/), across the Richelieu. In Mont-Saint-Hilaire, the mountain view, the distance to the station and the constraints on the lot explain a good part of the price differences.
+Buyers often compare with [Beloeil](/en/real-estate-broker/beloeil/), across the Richelieu. In Mont-Saint-Hilaire, compare properties that are similar in mountain view, distance to the station and constraints on the lot.
 
 The comparative analysis is prepared at no charge, with recent sales from your exact sector. On the buying side, the [mortgage calculator](/en/tools/mortgage/) and the [closing cost calculator](/en/tools/closing-costs/) give you the numbers to plan for.

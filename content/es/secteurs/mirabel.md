@@ -38,7 +38,7 @@ faq:
     a: "En la práctica, ninguna. En Quebec, el único título reconocido por la OACIQ, el organismo que otorga los permisos, es el de corredor inmobiliario (courtier immobilier). «Agente inmobiliario» es un uso común, tomado del inglés y de las otras provincias, que designa a la misma persona. Si busca un agente inmobiliario en Mirabel, lo importante es verificar que la persona tenga un permiso vigente en el [registro de la OACIQ](https://registre.oaciq.com/): el mío lleva el número J7941. Los matices se explican en [este artículo](/es/articles/broker-agent-difference-quebec/)."
 ---
 
-Mirabel es el territorio más extenso y fragmentado de la región. Es también una de las ciudades donde una estimación automatizada tiene más probabilidades de ser falsa.
+Con 486 km², Mirabel tiene uno de los territorios municipales más grandes de Quebec, según la Ciudad.
 
 ## Una ciudad, trece sectores
 
@@ -52,7 +52,7 @@ Mirabel nació en 1971 de la fusión de 14 municipios y partes de municipios, y 
 
 **Sainte-Scholastique, Saint-Augustin y Saint-Benoît** siguen siendo rurales, con propiedades sobre grandes terrenos.
 
-Comparar una venta de Saint-Janvier con una propiedad de Saint-Benoît no tiene sentido. Es exactamente lo que hacen las herramientas en línea.
+Una venta de Saint-Janvier no se compara con una propiedad de Saint-Benoît: un precio se compara con las ventas recientes del mismo sector.
 
 Las cifras de la ciudad en su conjunto están en [el mercado inmobiliario de Mirabel en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-mirabel/): ventas, precios medianos y plazos de venta según Centris, que publica Mirabel en un solo bloque.
 

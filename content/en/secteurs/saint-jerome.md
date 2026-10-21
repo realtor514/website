@@ -27,8 +27,8 @@ sectors:
 faq:
   - q: "Is Saint-Jérôme affordable compared to Blainville?"
     a: "Generally yes, often significantly. That is the main reason buyers who start their search in Blainville or Sainte-Thérèse end up visiting Saint-Jérôme. The trade-off is the commute to Montreal and a different service offering."
-  - q: "Does the commuter train affect property values?"
-    a: "For part of the market, yes. The Saint-Jérôme line connects the city to downtown Montreal, and properties within walking or short driving distance of the station appeal to a buyer segment that would not otherwise exist. The price effect is real but localized: it does not spread across the whole city."
+  - q: "Does the commuter train change the math for a buyer?"
+    a: "For part of the market, yes. The Saint-Jérôme line connects the city to downtown Montreal. No public statistic measures the station's effect on prices: Centris publishes a single figure for Saint-Jérôme, so for a given property, the recent sales around the station are what show it."
   - q: "Is there an income property market in Saint-Jérôme?"
     a: "Yes, and it is more active than in most Laurentian cities. The CEGEP, the regional hospital and a stable tenant base support rental demand. Entry prices are lower than in Laval, but remote management is a factor to weigh seriously if you do not live in the area."
   - q: "What is the difference between Bellefeuille, Lafontaine and Saint-Antoine?"

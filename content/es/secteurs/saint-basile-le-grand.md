@@ -6,6 +6,8 @@ city: "Saint-Basile-le-Grand"
 url: "/es/corredor-inmobiliario/saint-basile-le-grand/"
 translationKey: "secteur-saint-basile-le-grand"
 weight: 28
+date: 2026-09-19
+lastmod: 2026-10-21
 cardText: "Valle del Richelieu: una estación exo, el parque del Mont-Saint-Bruno al lado y tierras agrícolas."
 facts:
   - value: "1871"
@@ -62,6 +64,6 @@ El parque nacional del Mont-Saint-Bruno toca el límite de la ciudad, con un acc
 
 ## Vender y comprar en Saint-Basile-le-Grand
 
-Los compradores comparan Saint-Basile con [Saint-Bruno-de-Montarville](/es/corredor-inmobiliario/saint-bruno-de-montarville/) y [Sainte-Julie](/es/corredor-inmobiliario/sainte-julie/), sus vecinas. Dentro de la ciudad, la cercanía de la estación y la edad de la casa figuran entre los primeros factores de diferencia de precio.
+Los compradores comparan Saint-Basile con [Saint-Bruno-de-Montarville](/es/corredor-inmobiliario/saint-bruno-de-montarville/) y [Sainte-Julie](/es/corredor-inmobiliario/sainte-julie/), sus vecinas. Dentro de la ciudad, compare propiedades de edad similar y a una distancia similar de la estación.
 
 El análisis comparativo se prepara sin costo, con las ventas recientes de su barrio. Para comprar, establezca su horquilla con la [calculadora hipotecaria](/es/tools/mortgage/) y prevea los [costos de cierre](/es/tools/closing-costs/).

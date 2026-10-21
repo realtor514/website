@@ -27,8 +27,8 @@ sectors:
 faq:
   - q: "¿Es Saint-Jérôme asequible comparada con Blainville?"
     a: "En general sí, y a menudo con claridad. Es la razón principal por la que compradores que empiezan su búsqueda en Blainville o Sainte-Thérèse acaban visitando Saint-Jérôme. El compromiso es el trayecto hacia Montreal y una oferta de servicios diferente."
-  - q: "¿El tren de cercanías cambia el valor de las propiedades?"
-    a: "Para una parte del mercado, sí. La línea Saint-Jérôme conecta la ciudad con el centro de Montreal, y las propiedades a distancia caminable o a poco trayecto en auto de la estación interesan a un segmento de compradores que de otro modo no existiría. El efecto sobre el precio es real pero localizado: no se propaga a toda la ciudad."
+  - q: "¿El tren de cercanías cambia el cálculo para un comprador?"
+    a: "Para una parte del mercado, sí. La línea Saint-Jérôme conecta la ciudad con el centro de Montreal. Ninguna estadística pública mide el efecto de la estación sobre los precios: Centris publica una sola cifra para Saint-Jérôme, y para una propiedad determinada son las ventas recientes alrededor de la estación las que lo muestran."
   - q: "¿Hay mercado de inmuebles de renta en Saint-Jérôme?"
     a: "Sí, y es más activo que en la mayoría de las ciudades de las Laurentides. La presencia del cégep, del hospital regional y de una base estable de inquilinos sostiene la demanda de alquiler. Los precios de entrada son inferiores a los de Laval, pero la gestión a distancia es un factor a considerar seriamente si no vive en la región."
   - q: "¿Cuál es la diferencia entre Bellefeuille, Lafontaine y Saint-Antoine?"

@@ -6,6 +6,8 @@ city: "Saint-Constant"
 url: "/en/real-estate-broker/saint-constant/"
 translationKey: "secteur-saint-constant"
 weight: 24
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Roussillon: exo station, newer sectors and prices below Candiac."
 facts:
   - value: "Station"
@@ -27,7 +29,7 @@ faq:
   - q: "Is Saint-Constant cheaper than Candiac?"
     a: "Generally yes, at comparable floor area. The two cities are adjacent but their housing stock and development standards differ, and their comparables do not mix. It is one of the most interesting entry points in the Roussillon area."
   - q: "Does the exo station serve Saint-Constant?"
-    a: "Yes, on the Candiac line. Properties a short distance from the station appeal to buyers who work downtown and thereby avoid the bridges. The price effect is real but concentrated."
+    a: "Yes, on the Candiac line. Properties a short distance from the station appeal to buyers who work downtown and thereby avoid the bridges. No public statistic measures the station's effect on prices: Centris publishes a single figure for Saint-Constant, so for a given property, the recent sales around the station are what show it."
   - q: "Is there much recent construction?"
     a: "Yes, several sectors developed over the last twenty years. For those properties, the construction warranty and the state of the drainage are the two things to verify first."
   - q: "Do you offer free evaluations in Saint-Constant?"
@@ -40,7 +42,7 @@ Saint-Constant belongs to the same pool as Candiac, Delson and [Sainte-Catherine
 
 ## What structures the market
 
-**The exo station** on the Candiac line gives direct downtown access without driving over a bridge. That is a concrete argument for a specific buyer segment, with a price premium localized around the station.
+**The exo station** on the Candiac line gives direct downtown access without driving over a bridge. That is a concrete argument for a specific buyer segment.
 
 **Vieux-Saint-Constant** keeps an older core with mature lots.
 
