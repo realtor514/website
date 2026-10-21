@@ -109,8 +109,17 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Vender la casa familiar: guía para mayores](/es/articles/senior-downsizing-guide/) : Condominio, alquiler, residencia para mayores o quedarse en casa: lo que realmente libera vender la casa 
 - [Vender o conservar su casa en Quebec: sus propias señales](/es/articles/senales-para-vender-quebec/) : Renovación, tamaño del hogar, trayecto, mantenimiento: seis señales personales que dicen si conservar o v
 - [Vender su casa en invierno en Quebec: las obligaciones](/es/articles/vender-en-otono-e-invierno-quebec/) : Vender su casa en invierno en Quebec: fotos de verano difundidas en enero, la nieve en las visitas y las 
+- [Vender su casa usted mismo en Laval con DuProprio: ¿cómo funciona?](/es/articles/vender-casa-uno-mismo-duproprio-laval/) : Vender su casa usted mismo en Laval está permitido: planes DuProprio de 1 199,95 $ a 1 999,95 $, unifamil
 - [Vender una casa que vale menos que la hipoteca](/es/articles/vender-casa-vale-menos-hipoteca-quebec/) : Vender en Quebec una casa cuyo valor es inferior a la hipoteca: saldo, penalidad, carta de pago, retribuc
+- [¿Conviene anunciar su casa más cara para negociar en Laval?](/es/articles/precio-alto-casa-negociacion-laval/) (brouillon) : En Laval, la APCIQ cuenta 44 días antes de la 1.ª baja del precio de una casa en 2026, pero ni ella ni Ce
+- [¿Cuánto cobra un corredor inmobiliario en Laval? El cálculo en dólares](/es/articles/comision-corredor-inmobiliario-laval/) : Comisión del corredor inmobiliario en Laval: sin tarifa fija, y un punto porcentual cuesta 7 243 $ con im
 - [¿Cuánto tiempo toma realmente vender una casa en Montreal?](/es/articles/how-long-to-sell-house-montreal/) : Cuánto tiempo toma vender una casa en Montreal: depende menos del mercado que de tres decisiones suyas. E
+- [¿Cuánto tiempo toma vender una casa en Laval?](/es/articles/cuanto-tiempo-vender-casa-laval/) : En Laval, 36 días en promedio del contrato de corretaje a la venta de una unifamiliar en el T3 2026, 57 p
+- [¿Cuánto vale mi casa hoy en Laval?](/es/articles/cuanto-vale-mi-casa-laval/) : Cuánto vale una casa en Laval: 630 000 $ de precio mediano para la unifamiliar en el T3 2026 según Centri
+- [¿Cómo vender mi casa al precio más alto posible en Laval?](/es/articles/vender-casa-mas-cara-laval/) : Vender su casa más cara en Laval, donde la unifamiliar tiene un precio mediano de 630 000 $ en el T3 2026
+- [¿Es buen momento para vender mi casa en Laval?](/es/articles/buen-momento-para-vender-casa-laval/) : Buen momento para vender su casa en Laval: ningún dato decide solo. En el T3 2026, 848 ventas (-15 %), 1 
+- [¿Hay que renovar antes de vender su casa en Laval?](/es/articles/renovar-antes-de-vender-casa-laval/) : Renovar antes de vender en Laval: el Code civil no lo exige. Permiso: 30 días anunciados. Unifamiliar: 36
+- [¿Se puede comprar una casa antes de vender la suya en Laval?](/es/articles/comprar-antes-de-vender-casa-laval/) (brouillon) : Sí, en Laval: préstamo puente con su venta firmada, si no, línea de crédito o cláusula R2.1. En el T3 202
 
 ## Guía práctica
 - [Adaptar la vivienda para envejecer en casa en Quebec](/es/articles/adaptar-vivienda-envejecer-quebec/) : Créditos fiscales y adaptación de la vivienda de adultos mayores en Quebec: quién tiene derecho, cuánto, 

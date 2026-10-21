@@ -9964,6 +9964,354 @@
     "longueuil-greenfield-park"
    ],
    "status": "in_progress"
+  },
+  {
+   "id": "t274",
+   "topic": "Combien vaut ma maison aujourd hui a Laval? Les quatre facons de le savoir, chiffres du 3e trimestre 2026",
+   "reference_theme": "Serie 10 questions des vendeurs, liste de Georges du 2026-10-19, question 1",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "combien vaut ma maison laval",
+   "requetes": [
+    "combien vaut ma maison",
+    "combien vaut ma maison aujourd'hui",
+    "combien vaut ma maison a laval",
+    "combien vaut ma maison sur le marché",
+    "combien vaut ma maison en ligne gratuit québec",
+    "evaluation gratuite maison",
+    "estimation gratuite maison",
+    "combien prend un agent immobilier pour estimer une maison"
+   ],
+   "search_intent": "transactionnel",
+   "funnel_stage": "decision",
+   "unique_angle": "La reponse en chiffres pour Laval et les villes du territoire: prix medians Centris du 3e trimestre 2026 par quartier de Laval et par ville. Puis les quatre facons d obtenir une valeur pour SON adresse, comparees dans un tableau: estimateur en ligne (ce qu il utilise, sa limite), role d evaluation municipal (ce qu il mesure, sa date de reference, pourquoi ce n est pas la valeur marchande), analyse comparative de marche d un courtier (sans frais, ce n est pas une evaluation), evaluateur agree de l OEAQ (payant, seule evaluation reconnue). Le lecteur sait laquelle demander selon son besoin (vendre, succession, refinancement, separation).",
+   "planned_h2": [
+    "Combien vaut une maison a Laval aujourd hui: les medianes par quartier",
+    "Dans votre ville: Montreal, Longueuil, Terrebonne et les autres",
+    "Combien vaut ma maison en ligne gratuitement: ce que valent les estimateurs",
+    "Le role d evaluation n est pas le prix de vente",
+    "Analyse comparative ou evaluateur agree: laquelle demander",
+    "Ce qui fait varier la valeur d une adresse precise",
+    "Questions frequentes"
+   ],
+   "slug": "combien-vaut-ma-maison-laval",
+   "distinct_de": [
+    "comparables-prix-maison-voisin-quebec",
+    "contester-evaluation-municipale-quebec",
+    "marche-immobilier-laval-secteurs"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/combien-vaut-ma-maison-laval.md",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "t275",
+   "topic": "Est-ce le bon moment pour vendre ma maison a Laval? Les mesures a regarder en octobre 2026",
+   "reference_theme": "Serie 10 questions des vendeurs, question 2",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "bon moment pour vendre sa maison laval",
+   "requetes": [
+    "est-ce le bon moment pour vendre sa maison",
+    "bon moment pour vendre sa maison",
+    "meilleur moment pour vendre sa maison",
+    "est ce le bon moment pour vendre un bien immobilier"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Aucun verdict: la question se tranche par trois groupes de mesures datees, que l article donne pour Laval et les villes du territoire. Le marche de votre secteur (ventes, inscriptions en vigueur et leur variation au 3e trimestre 2026 selon Centris, mois d inventaire et condition de marche par gamme de prix du barometre APCIQ du 3e trimestre pour Laval), le cout de l argent (taux directeur et date de la prochaine annonce de la Banque du Canada), et votre situation (penalite de remboursement anticipe, gain en capital si ce n est pas la residence principale, projet d achat). La saison est traitee brievement avec renvoi a l article existant.",
+   "planned_h2": [
+    "Est-ce le bon moment pour vendre sa maison: la reponse tient en trois mesures",
+    "Le marche de Laval en octobre 2026, chiffres a l appui",
+    "Dans votre ville: ou les inscriptions augmentent",
+    "Les taux d interet et la prochaine annonce",
+    "Votre situation compte plus que le marche",
+    "La saison: ce que les donnees montrent",
+    "Questions frequentes"
+   ],
+   "slug": "bon-moment-pour-vendre-maison-laval",
+   "distinct_de": [
+    "best-time-sell-home-montreal",
+    "garder-ou-vendre-signaux-quebec",
+    "garder-ou-vendre-propriete-quebec",
+    "vendre-automne-hiver-presentation-quebec"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/bon-moment-pour-vendre-maison-laval.md",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "t276",
+   "topic": "Combien de temps pour vendre ma maison a Laval? Les delais par quartier et par ville au 3e trimestre 2026",
+   "reference_theme": "Serie 10 questions des vendeurs, question 3",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "combien de temps pour vendre une maison laval",
+   "requetes": [
+    "combien de temps pour vendre une maison",
+    "combien de temps pour vendre une maison en 2026",
+    "combien de temps pour vendre une maison en moyenne",
+    "combien de temps pour vendre une maison en succession",
+    "vendre sa maison rapidement"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La moyenne de jours sur le marche selon Centris au 3e trimestre 2026 pour les 13 quartiers de Laval et les villes du territoire, par categorie (unifamiliale, copropriete, plex), avec la definition exacte de la mesure (de la signature du contrat de courtage a la vente, pas jusqu a l acte notarie). Puis le delai total reel: preparation, mise en marche, offre, conditions (inspection, financement), et le delai jusqu a l acte de vente chez le notaire. Ce qui allonge ou raccourcit le delai, sans promesse. L article existant sur Montreal est la reference generale: celui-ci est la version Laval et couronnes.",
+   "planned_h2": [
+    "Combien de temps pour vendre une maison a Laval en 2026",
+    "Les delais quartier par quartier",
+    "Dans votre ville: Montreal, Rive-Nord, Rive-Sud",
+    "Du contrat a l acte notarie: le calendrier complet",
+    "Ce qui allonge le delai, et ce qui le raccourcit",
+    "Questions frequentes"
+   ],
+   "slug": "combien-de-temps-vendre-maison-laval",
+   "distinct_de": [
+    "combien-de-temps-vendre-maison-montreal",
+    "processus-mise-en-vente-etapes-quebec",
+    "quebec-notary-process"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/combien-de-temps-vendre-maison-laval.md",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "t277",
+   "topic": "Combien de commission prend un courtier immobilier a Laval? Le calcul en dollars",
+   "reference_theme": "Serie 10 questions des vendeurs, question 4",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "commission courtier immobilier laval",
+   "requetes": [
+    "combien prend un courtier immobilier",
+    "combien coûte un courtier immobilier",
+    "combien coute un courtier immobilier au quebec",
+    "combien prend un agent immobilier sur une vente de maison",
+    "combien prend un agent immobilier en pourcentage",
+    "commission courtier immobilier taxable",
+    "courtier immobilier commission acheteur"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La version locale et chiffree de l article general sur la commission: aucun taux fixe au Quebec, la retribution se negocie et s inscrit au contrat de courtage. L article montre le calcul en dollars, taxes comprises (TPS et TVQ a leur taux officiel), sur le prix median de l unifamiliale et de la copropriete de chaque quartier de Laval et de chaque ville du territoire au 3e trimestre 2026, pour un pourcentage pris COMME EXEMPLE et nomme comme tel, jamais comme taux habituel. Il explique qui paie, quand la retribution devient due (renvoi au contrat de courtage vente), le partage avec le courtier de l acheteur, et ce qu il faut demander par ecrit avant de signer.",
+   "planned_h2": [
+    "Combien prend un courtier immobilier: aucun taux fixe au Quebec",
+    "Le calcul en dollars sur une maison de Laval",
+    "Dans votre ville: le meme calcul sur la mediane locale",
+    "TPS et TVQ sur la commission",
+    "Qui paie, et quand la retribution devient due",
+    "Ce qu il faut obtenir par ecrit avant de signer",
+    "Questions frequentes"
+   ],
+   "slug": "commission-courtier-immobilier-laval",
+   "distinct_de": [
+    "commission-explained-quebec",
+    "contrat-courtage-vente-quebec",
+    "cout-reel-vendre-maison-quebec"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/commission-courtier-immobilier-laval.md",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "t278",
+   "topic": "Vendre ma maison moi-meme avec DuProprio a Laval: les etapes, les couts et les obligations",
+   "reference_theme": "Serie 10 questions des vendeurs, question 5",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "vendre sa maison soi-meme laval duproprio",
+   "requetes": [
+    "vendre sa maison soi-même au québec",
+    "vendre sa maison avec duproprio",
+    "vendre maison duproprio",
+    "duproprio laval",
+    "peut on vendre sa maison soi même si elle est en agence",
+    "comment vendre sa maison soi même"
+   ],
+   "search_intent": "transactionnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Oui, c est permis: la reponse directe, puis le parcours concret d une vente sans courtier a Laval, etape par etape. Les forfaits de DuProprio decrits a partir de sa propre page, citee et datee, sans jugement. Ce que le vendeur prend en charge: prix (sans acces direct aux ventes Centris), declarations sur l immeuble, visites et securite, promesse d achat et conditions, collaboration avec le courtier de l acheteur et sa retribution, notaire. Ce que la loi impose au vendeur avec ou sans courtier (garantie legale, obligation de divulgation). La question « peut-on vendre soi-meme si on est deja sous contrat de courtage exclusif » est traitee avec le texte du contrat. Pas de denigrement.",
+   "planned_h2": [
+    "Vendre sa maison soi-meme au Quebec: oui, et voici le parcours",
+    "Ce que coute DuProprio, selon son offre publiee",
+    "Fixer le prix sans courtier a Laval: les donnees accessibles",
+    "Les obligations du vendeur, avec ou sans courtier",
+    "Le courtier de l acheteur: qui le paie",
+    "Deja sous contrat de courtage: ce que dit le contrat",
+    "Questions frequentes"
+   ],
+   "slug": "vendre-maison-soi-meme-duproprio-laval",
+   "distinct_de": [
+    "vendre-avec-ou-sans-courtier-quebec",
+    "declaration-du-vendeur-quebec",
+    "contrat-courtage-vente-quebec"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/vendre-maison-soi-meme-duproprio-laval.md",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "t279",
+   "topic": "Faut-il renover avant de vendre sa maison a Laval? Ce qui est demontre et ce qui ne l est pas",
+   "reference_theme": "Serie 10 questions des vendeurs, question 6",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "renover avant de vendre maison laval",
+   "requetes": [
+    "faut il renover avant de vendre",
+    "rénover avant de vendre",
+    "renover cuisine avant de vendre",
+    "refaire toiture avant de vendre",
+    "travaux obligatoires avant vente maison",
+    "renovation maison avant vente"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La reponse honnete: aucune source officielle quebecoise ne chiffre ce qu une renovation rapporte a la revente; l article le dit, puis donne ce qui se verifie. Ce qui est obligatoire avant de vendre (rien n oblige a renover, mais tout vice connu se declare, et certaines conformites municipales comptent), ce qui pese sur l inspection de l acheteur (toiture, drain, electricite, reservoir), ce que coutent des travaux et leurs permis a Laval, le delai que des travaux ajoutent alors que les jours sur le marche se comptent par quartier (Centris T3 2026), et l alternative: reparer, declarer, ou ajuster le prix. Les renovations qui touchent un vice cache potentiel sont traitees avec la declaration du vendeur.",
+   "planned_h2": [
+    "Faut-il renover avant de vendre: ce que personne ne peut chiffrer",
+    "Ce qui est obligatoire, et ce qui ne l est pas",
+    "Toiture, drain, electricite: ce que l inspection de l acheteur trouvera",
+    "Le cout et les permis d une renovation a Laval",
+    "Renover, declarer ou ajuster le prix",
+    "Dans votre ville: le temps que coutent des travaux",
+    "Questions frequentes"
+   ],
+   "slug": "renover-avant-de-vendre-maison-laval",
+   "distinct_de": [
+    "renovations-dont-add-value",
+    "preparer-maison-vente",
+    "vice-cache-pendant-renovation-quebec",
+    "declaration-du-vendeur-quebec"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/renover-avant-de-vendre-maison-laval.md",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "t280",
+   "topic": "Comment vendre ma maison le plus cher possible a Laval: les leviers mesurables",
+   "reference_theme": "Serie 10 questions des vendeurs, question 7",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "vendre sa maison plus cher laval",
+   "requetes": [
+    "comment vendre sa maison plus cher",
+    "vendre sa maison plus cher que le prix d achat",
+    "vendre sa maison le plus cher",
+    "bien vendre sa maison"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Aucune promesse de prix: les leviers que le vendeur controle, chacun rattache a une donnee ou a une regle. Le prix d affichage par rapport aux ventes comparables du quartier (medianes Centris du T3 2026 pour Laval et les villes), la presentation et les photos, la periode et l accessibilite pour les visites, les conditions acceptees dans la promesse d achat (une offre plus haute n est pas toujours la meilleure: financement, inspection, date d occupation), la gestion de plusieurs offres selon les regles de l OACIQ, et les couts qui reduisent le montant net (retribution, penalite hypothecaire, droits). Vendre plus cher que le prix d achat: gain en capital et residence principale, avec renvoi au comptable.",
+   "planned_h2": [
+    "Comment vendre sa maison plus cher: les leviers qui dependent de vous",
+    "Le prix d affichage face aux ventes de votre quartier",
+    "Dans votre ville: les medianes du 3e trimestre 2026",
+    "Presentation, visites et calendrier",
+    "La meilleure offre n est pas toujours la plus haute",
+    "Le montant net, ce qui reste apres la vente",
+    "Questions frequentes"
+   ],
+   "slug": "vendre-maison-plus-cher-laval",
+   "distinct_de": [
+    "strategies-negociation-immobilier",
+    "preparer-maison-vente",
+    "visite-libre-vendeur-quebec",
+    "cout-reel-vendre-maison-quebec"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/vendre-maison-plus-cher-laval.md",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "t281",
+   "topic": "Pourquoi ma maison ne se vend pas a Laval? Le diagnostic avec les chiffres de votre quartier",
+   "reference_theme": "Serie 10 questions des vendeurs, question 8",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "pourquoi ma maison ne se vend pas laval",
+   "requetes": [
+    "pourquoi ma maison ne se vend pas",
+    "ma maison ne se vend pas que faire",
+    "maison qui ne se vend pas",
+    "notre maison ne se vend pas",
+    "divorce maison qui ne se vend pas"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "decision",
+   "unique_angle": "La version locale et chiffree de l article general: un diagnostic en etapes que le vendeur peut faire lui-meme. Comparer ses jours sur le marche a la moyenne de son quartier de Laval ou de sa ville (Centris T3 2026), situer son prix dans la gamme de prix et la condition de marche de cette gamme (barometre APCIQ du 3e trimestre pour Laval, mois d inventaire par gamme), compter les visites et les retours, puis les causes possibles dans l ordre (prix, presentation, accessibilite, defaut connu, financement des acheteurs). Que faire: baisse de prix et ce qu elle change, retrait et remise en marche, changement de strategie, et ce que dit le contrat de courtage.",
+   "planned_h2": [
+    "Pourquoi ma maison ne se vend pas: le diagnostic en quatre etapes",
+    "Vos jours sur le marche face a votre quartier de Laval",
+    "Dans votre ville: les delais moyens du 3e trimestre 2026",
+    "Votre gamme de prix est-elle en surplus?",
+    "Ma maison ne se vend pas: que faire",
+    "Questions frequentes"
+   ],
+   "slug": "pourquoi-maison-ne-se-vend-pas-laval",
+   "distinct_de": [
+    "propriete-ne-se-vend-pas-quebec",
+    "marche-immobilier-laval-secteurs"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t282",
+   "topic": "Afficher sa maison plus cher pour laisser place a la negociation a Laval: ce que montrent les donnees",
+   "reference_theme": "Serie 10 questions des vendeurs, question 9",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "afficher maison plus cher negociation",
+   "requetes": [
+    "prix demandé maison négociation",
+    "afficher plus cher pour négocier",
+    "marge de négociation maison",
+    "prix demandé vs prix vendu"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La reponse: les donnees publiques mesurent l ecart entre prix demande et prix vendu a l echelle d un territoire, et l article donne celles qui existent pour Laval et les villes du territoire (cherchez-les dans le barometre APCIQ du 3e trimestre 2026 et les statistiques Centris; si la mesure n est pas publiee pour un territoire, dites-le). Ce que fait un prix gonfle selon les mecanismes verifiables: alertes Centris des courtiers d acheteurs filtrees par fourchette de prix, jours sur le marche qui s accumulent et s affichent, baisses de prix visibles. Ce que l OACIQ impose au courtier sur le prix recommande (analyse comparative). Ne recommandez aucune tactique que rien ne mesure. L article existant sur Montreal reste la reference sur l ecart prix demande et prix vendu.",
+   "planned_h2": [
+    "Afficher plus cher pour negocier: la reponse des donnees",
+    "L ecart entre prix demande et prix vendu a Laval",
+    "Dans votre ville: ce qui est publie",
+    "Ce qu un prix trop haut declenche, mecanisme par mecanisme",
+    "Le prix recommande par le courtier: la regle",
+    "Questions frequentes"
+   ],
+   "slug": "afficher-maison-plus-cher-negociation-laval",
+   "distinct_de": [
+    "prix-demande-prix-vendu-montreal",
+    "strategies-negociation-immobilier",
+    "propriete-ne-se-vend-pas-quebec"
+   ],
+   "status": "in_progress"
+  },
+  {
+   "id": "t283",
+   "topic": "Acheter ma prochaine maison avant de vendre la mienne a Laval: pret-relais, conditions et risques",
+   "reference_theme": "Serie 10 questions des vendeurs, question 10",
+   "category": "Guide du vendeur",
+   "target_keyword_fr": "acheter avant de vendre maison laval",
+   "requetes": [
+    "acheter une maison avant de vendre la sienne",
+    "acheter avant de vendre sa maison",
+    "acheter avant de vendre sans prêt relais",
+    "peut on acheter une maison avant de vendre la sienne",
+    "prêt relais hypothécaire desjardins",
+    "prêt relais comment ça marche"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "decision",
+   "unique_angle": "Les trois options, chacune avec son mecanisme et son risque: acheter d abord (pret-relais, ce que les preteurs publient sur son fonctionnement, ou deux hypotheques), vendre d abord (date d occupation et logement temporaire), ou acheter sous condition de la vente de sa propriete (la clause de la promesse d achat et ce qu elle permet au vendeur d en face). Le risque chiffre avec les donnees de Laval et des villes du territoire: jours sur le marche par quartier au T3 2026, donc le temps pendant lequel on porte deux proprietes. Les couts doubles (taxes, assurances, interets) en exemple calcule et nomme comme tel. Decision de financement renvoyee au preteur. L article existant sur les clauses reste la reference juridique.",
+   "planned_h2": [
+    "Peut-on acheter une maison avant de vendre la sienne: oui, de trois facons",
+    "Le pret-relais: comment ca marche",
+    "Acheter sous condition de vendre: la clause et sa limite",
+    "Combien de temps porter deux maisons a Laval",
+    "Dans votre ville: les delais de vente du 3e trimestre 2026",
+    "Le cout de deux proprietes en meme temps",
+    "Questions frequentes"
+   ],
+   "slug": "acheter-avant-de-vendre-maison-laval",
+   "distinct_de": [
+    "vendre-avant-acheter-clauses-quebec",
+    "refinancement-hypothecaire-quebec",
+    "casser-hypotheque-penalite-quebec"
+   ],
+   "status": "in_progress"
   }
  ],
  "lots": "les 4 lots de sujets de reference sont planifies"

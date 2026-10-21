@@ -1,0 +1,322 @@
+{
+ "id": "t274",
+ "slug": "combien-vaut-ma-maison-laval",
+ "title": "Combien vaut ma maison aujourd'hui à Laval?",
+ "target_keyword": "combien vaut ma maison laval",
+ "word_count": 1890,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/articles/marche-immobilier-est-de-laval-duvernay/",
+  "/articles/marche-immobilier-laval-secteurs/",
+  "/articles/contester-evaluation-municipale-quebec/",
+  "/articles/marche-immobilier-sainte-dorothee-laval-ouest/",
+  "/articles/renovations-dont-add-value/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/tools/home-estimate/",
+  "/formulaire/",
+  "/courtier-immobilier/laval/",
+  "/courtier-immobilier/montreal/",
+  "/courtier-immobilier/brossard/",
+  "/courtier-immobilier/longueuil/",
+  "/courtier-immobilier/vieux-longueuil/",
+  "/courtier-immobilier/saint-hubert-longueuil/",
+  "/courtier-immobilier/terrebonne/",
+  "/courtier-immobilier/la-plaine-terrebonne/",
+  "/courtier-immobilier/mascouche/",
+  "/courtier-immobilier/repentigny/",
+  "/courtier-immobilier/blainville/",
+  "/courtier-immobilier/mirabel/",
+  "/courtier-immobilier/saint-eustache/",
+  "/courtier-immobilier/saint-jerome/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval",
+   "title": "Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Laval, 3e trimestre 2026: unifamiliale 547 ventes (-8 %), 792 inscriptions en vigueur (+17 %), prix médian 630 000 $ (+5 %), 629 750 $ sur 4 trimestres; copropriété 439 999 $ (+3 %), 428 349 $ sur 4 trimestres; plex 890 000 $. Le menu des municipalités de l'outil Centris propose 13 quartiers pour Laval. Ligne Laval du tableau des villes. Définition du prix médian (la moitié des transactions sous ce prix, l'autre moitié au-dessus), variations calculées sur le même trimestre de l'année précédente, sens de « ** », et avertissement cité: les statistiques « ne sont pas le reflet de chaque propriété individuelle ». Page lue en curl le 2026-10-20 par le rédacteur et rouverte par le vérificateur le même jour, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-auteuil",
+   "title": "Laval (Auteuil), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Auteuil: unifamiliale 640 000 $ (+2 %), 640 625 $ sur 4 trimestres; copropriété 403 750 $ sur 4 trimestres. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-chomedey",
+   "title": "Laval (Chomedey), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Chomedey: unifamiliale 640 000 $ (+3 %), 641 812 $ sur 4 trimestres; copropriété 447 250 $ sur 4 trimestres. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-duvernay",
+   "title": "Laval (Duvernay), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Duvernay: unifamiliale 735 000 $ (+7 %), médiane la plus élevée du trimestre, 723 750 $ sur 4 trimestres; copropriété 464 000 $ sur 4 trimestres. Page lue en curl le 2026-10-20 par le rédacteur et rouverte par le vérificateur le même jour, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-fabreville",
+   "title": "Laval (Fabreville), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Fabreville: unifamiliale 560 000 $ (0 %), 566 125 $ sur 4 trimestres; copropriété 397 100 $ sur 4 trimestres. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-des-rapides",
+   "title": "Laval (Laval-des-Rapides), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Laval-des-Rapides: médiane unifamiliale du trimestre non publiée (**); 638 000 $ sur 4 trimestres; copropriété 374 375 $ sur 4 trimestres. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-ouest",
+   "title": "Laval (Laval-Ouest), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Laval-Ouest: médiane unifamiliale du trimestre non publiée (**); 479 312 $ sur 4 trimestres (comparée à Sainte-Dorothée dans la section sur l'emplacement); copropriété non publiée. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-sur-le-lac",
+   "title": "Laval (Laval-sur-le-Lac), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Laval-sur-le-Lac: aucune médiane publiée, ni au trimestre ni sur 4 trimestres. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-pont-viau",
+   "title": "Laval (Pont-Viau), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Pont-Viau: médiane unifamiliale du trimestre non publiée (**); 532 250 $ sur 4 trimestres; copropriété non publiée. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-saint-francois",
+   "title": "Laval (Saint-François), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-François: unifamiliale 542 500 $ (+1 %), médiane la plus basse du trimestre parmi celles publiées, 541 437 $ sur 4 trimestres; copropriété non publiée. Page lue en curl le 2026-10-20 par le rédacteur et rouverte par le vérificateur le même jour, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-saint-vincent-de-paul",
+   "title": "Laval (Saint-Vincent-de-Paul), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-Vincent-de-Paul: médiane unifamiliale du trimestre non publiée (**); 584 187 $ sur 4 trimestres; copropriété non publiée. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-sainte-dorothee",
+   "title": "Laval (Sainte-Dorothée), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Sainte-Dorothée: unifamiliale 728 400 $ (+5 %), 756 787 $ sur 4 trimestres; copropriété 509 000 $ sur 4 trimestres. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-sainte-rose",
+   "title": "Laval (Sainte-Rose), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Sainte-Rose: unifamiliale 670 000 $ (+2 %), 650 968 $ sur 4 trimestres; copropriété 447 112 $ sur 4 trimestres. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-vimont",
+   "title": "Laval (Vimont), Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Vimont: unifamiliale 47 ventes, 700 000 $ (+22 %), mais 644 112 $ sur 4 trimestres; copropriété 371 500 $ sur 4 trimestres. Page lue en curl le 2026-10-20 par le rédacteur et rouverte par le vérificateur le même jour, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile",
+   "title": "Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Île de Montréal, 3e trimestre 2026: unifamiliale 812 000 $ (+2 %), 816 250 $ sur 4 trimestres (comparée à Blainville); copropriété 477 000 $ (0 %). Région Centris montreal-ile, présentée comme « Montréal, île » dans le tableau. Page lue en curl le 2026-10-20 par le rédacteur et rouverte par le vérificateur le même jour, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/brossard",
+   "title": "Brossard, Montréal (Rive-Sud): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Brossard: unifamiliale 739 500 $ (+2 %), copropriété 410 000 $ (-2 %). Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-le-vieux-longueuil",
+   "title": "Longueuil (Le Vieux-Longueuil), Montréal (Rive-Sud): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Le Vieux-Longueuil: unifamiliale 625 000 $ (0 %), copropriété 398 500 $ (+5 %). Le menu des municipalités de l'outil de Centris ne propose que trois pages d'arrondissement pour Longueuil, sans total pour la ville. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-saint-hubert",
+   "title": "Longueuil (Saint-Hubert), Montréal (Rive-Sud): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-Hubert: unifamiliale 587 500 $ (0 %), copropriété 395 000 $ (+3 %). Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-greenfield-park",
+   "title": "Longueuil (Greenfield Park), Montréal (Rive-Sud): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Greenfield Park: médianes du trimestre non publiées (**); 570 062 $ (unifamiliale) et 375 875 $ (copropriété) sur 4 trimestres. Page lue en curl le 2026-10-20 par le rédacteur et rouverte par le vérificateur le même jour, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne",
+   "title": "Terrebonne (Terrebonne), Lanaudière: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Secteur Terrebonne: unifamiliale 632 500 $ (+5 %), copropriété 442 000 $ (+4 %). Le menu des municipalités de Centris propose Terrebonne en trois secteurs, sans total pour la ville. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie",
+   "title": "Terrebonne (Lachenaie), Lanaudière: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Lachenaie: unifamiliale 695 000 $ (+4 %); copropriété non publiée au trimestre, 377 125 $ sur 4 trimestres. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine",
+   "title": "Terrebonne (La Plaine), Lanaudière: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "La Plaine: unifamiliale 520 000 $ (+3 %), la plus basse du tableau des villes; copropriété non publiée au trimestre, 333 000 $ sur 4 trimestres. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/mascouche",
+   "title": "Mascouche, Lanaudière: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Mascouche: unifamiliale 600 000 $ (+3 %), copropriété 387 500 $ (+6 %). Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-repentigny",
+   "title": "Repentigny (Repentigny), Lanaudière: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Secteur Repentigny: unifamiliale 598 000 $ (0 %); copropriété 320 000 $ (-15 %) sur 49 ventes. Le menu des municipalités de Centris propose Repentigny en deux secteurs, sans total pour la ville. Page lue en curl le 2026-10-20 par le rédacteur et rouverte par le vérificateur le même jour, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-le-gardeur",
+   "title": "Repentigny (Le Gardeur), Lanaudière: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Le Gardeur: unifamiliale 580 000 $ (0 %); copropriété non publiée au trimestre, 341 750 $ sur 4 trimestres. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/blainville",
+   "title": "Blainville, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Blainville: unifamiliale 835 000 $ (+11 %) sur 148 ventes, au-dessus de l'île de Montréal au trimestre; 762 625 $ sur 4 trimestres, sous l'île (816 250 $); copropriété non publiée au trimestre, 432 425 $ sur 4 trimestres. Page lue en curl le 2026-10-20 par le rédacteur et rouverte par le vérificateur le même jour, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/mirabel",
+   "title": "Mirabel, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Mirabel: unifamiliale 650 000 $ (+11 %) sur 112 ventes, copropriété 462 000 $ (+4 %). Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-eustache",
+   "title": "Saint-Eustache, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-Eustache: unifamiliale 598 250 $ (+5 %); copropriété non publiée au trimestre, 366 250 $ sur 4 trimestres. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-jerome",
+   "title": "Saint-Jérôme, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-Jérôme: unifamiliale 540 000 $ (+6 %), copropriété 319 250 $ (0 %), la plus basse du tableau des villes. Page lue en curl le 2026-10-20, identique au JSON de state/marche_T3_2026/."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Page 65, « Définitions et notes explicatives »: l'évolution du prix moyen ou du prix médian entre deux périodes « ne reflète pas nécessairement l'évolution de la valeur de l'ensemble des propriétés d'un Secteur », à interpréter avec prudence quand les transactions sont peu nombreuses. PDF téléchargé et lu par pdftotext le 2026-10-20, relu par le vérificateur le même jour. La même mise en garde appuie la phrase sur la prudence devant les fortes variations (Repentigny, Blainville, Mirabel). Aucun chiffre du baromètre n'est mélangé aux tableaux Centris."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/etablissement-du-juste-prix-vente-0/",
+   "title": "L'évaluation du prix de vente : une responsabilité clé du courtier immobilier",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Pour déterminer la juste valeur marchande, le courtier doit notamment procéder à une analyse comparative avec d'autres propriétés semblables récemment vendues dans le même secteur; renvoi à l'article 76 du RCE. Éléments qui peuvent agir positivement ou négativement sur le prix de vente, dont l'article cite cinq en ouverture de la section sur ce qui fait varier la valeur: l'emplacement, l'année de construction, l'état de conservation, les matériaux utilisés, les caractéristiques actuelles du marché (la page nomme aussi les dimensions, le nombre de pièces et leurs dispositions, l'aménagement du terrain). Dernière mise à jour affichée: 17 décembre 2025. Relu en curl par le vérificateur le 2026-10-20."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-73.2,%20r.%201",
+   "title": "Règlement sur les conditions d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur la publicité (RLRQ, c. C-73.2, r. 1), article 76",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-20",
+   "supports": "Article 76 cité: le courtier ne doit pas émettre une opinion quant à la valeur d'un immeuble « à moins qu'elle ne soit fondée et motivée conformément aux usages et aux règles de l'art ». Texte à jour au 1er juillet 2026, lu en direct."
+  },
+  {
+   "url": "https://www.laval.ca/taxes-evaluation-fonciere/evaluation-fonciere/role-evaluation-fonciere/",
+   "title": "Rôle d'évaluation foncière",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-20",
+   "supports": "Rôle 2025-2026-2027, entré en vigueur le 1er janvier 2025, date de référence au marché le 1er juillet 2023, soit 18 mois avant; citation « L'évaluation de votre propriété ne reflète donc pas forcément sa valeur marchande actuelle »; test proposé par la Ville (accepteriez-vous de vendre au montant du rôle à la date de référence); valeur moyenne d'une résidence unifamiliale de 622 k$, affichée dans l'encadré « Le saviez-vous? » du rôle en vigueur (l'article la présente comme une moyenne de valeurs au rôle, établies selon le marché du 1er juillet 2023, sans dire qu'elle couvre toutes les maisons); « Facteurs influençant la valeur d'une propriété »: âge ajusté pour les rénovations ou un ajout majeur, qualité de la construction, matériaux intérieurs et extérieurs. Cette valeur sert à calculer les taxes municipales. Lu en curl avec agent de navigateur, relu par le vérificateur le 2026-10-20."
+  },
+  {
+   "url": "https://www.laval.ca/taxes-evaluation-fonciere/consulter-role-evaluation-taxation/",
+   "title": "Consulter le rôle d'évaluation foncière et de taxation",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-20",
+   "supports": "Le rôle de Laval se consulte en ligne par numéro de matricule, numéro de cadastre ou adresse."
+  },
+  {
+   "url": "https://montreal.ca/sujets/valeur-fonciere-dune-propriete",
+   "title": "Valeur foncière d'une propriété",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Pour les rôles 2026-2027-2028, les conditions du marché retenues sont celles du 1er juillet 2024, 18 mois avant l'entrée en vigueur."
+  },
+  {
+   "url": "https://montreal.ca/demarches/consulter-les-ventes-de-propriete-de-son-secteur",
+   "title": "Consulter les ventes de propriété de son secteur",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Service offert au propriétaire d'un immeuble résidentiel de 5 logements ou moins; ventes de l'année de référence 2024 pour les rôles 2026-2027-2028; citation « peuvent, ou non, être comparables »; elles ne remplacent pas le travail d'analyse d'un évaluateur agréé; le Registre foncier du Québec permet de connaître le prix de vente d'un immeuble. Page mise à jour le 10 septembre 2025."
+  },
+  {
+   "url": "https://oeaq.qc.ca/faq/",
+   "title": "FAQ - Ordre des évaluateurs agréés du Québec",
+   "publisher": "Ordre des évaluateurs agréés du Québec",
+   "consulted": "2026-10-20",
+   "supports": "Question 7: le rapport est rédigé et signé par l'évaluateur agréé, qui « signe une opinion motivée »; pour un rapport confectionné aux fins de partage de patrimoine familial, « vous pourrez aussi convenir avec l'évaluateur que ce dernier devra se présenter devant le tribunal, s'il y a lieu, à titre de témoin expert ». Question 8: « L'évaluation immobilière n'est pas une science exacte », deux évaluateurs peuvent arriver à deux valeurs. Question 10: pour un prêt hypothécaire, l'institution financière qui mandate l'évaluateur est la cliente; l'emprunteur n'obtient une copie que si elle y consent et peut demander à mandater lui-même l'évaluateur. Question 11: aucun tarif indicatif établi par l'Ordre; honoraires variables selon la région, le type de propriété et le but du rapport; conseil de comparer quelques évaluateurs."
+  },
+  {
+   "url": "https://oeaq.qc.ca/profession/evaluateur-agree/",
+   "title": "Évaluateur agréé: portrait de la profession et secteurs d'activités",
+   "publisher": "Ordre des évaluateurs agréés du Québec",
+   "consulted": "2026-10-20",
+   "supports": "L'évaluateur agréé formule une opinion objective sur la valeur d'un bien ou d'un droit immobilier « à une date donnée »; citation de l'article 36 du Code des professions, qui réserve le titre d'« évaluateur agréé » au détenteur d'un permis valide inscrit au tableau de l'Ordre."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-consommation-matiere-financiere/services/hypotheques/emprunt-valeur-net-maison.html",
+   "title": "Emprunter sur la valeur nette de votre maison",
+   "publisher": "Agence de la consommation en matière financière du Canada",
+   "consulted": "2026-10-20",
+   "supports": "« Vous pourriez devoir obtenir une évaluation immobilière pour déterminer la valeur de votre maison »; les frais administratifs peuvent comprendre les frais d'évaluation. Page modifiée le 2025-10-15. Lue par WebFetch le 2026-10-20, curl expirant sur canada.ca depuis ce poste. La page ne parle pas de refinancement: l'article la cite pour l'emprunt sur la valeur nette seulement, et renvoie au prêteur ou au courtier hypothécaire pour les exigences du dossier. Relue par WebFetch par le vérificateur le 2026-10-20: les deux phrases sont présentes, aucune occurrence de « refinancement »."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee/preparer-declarations/declarer-revenus/gains-capital.html",
+   "title": "Gains en capital imposables sur les biens, les placements et les objets: Préparer les déclarations de revenus d'une personne décédée",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-10-20",
+   "supports": "Sous l'intertitre « Si les biens ou les actifs sont transférés à d'autres bénéficiaires » (autres que l'époux ou le conjoint de fait survivant, traité dans l'intertitre précédent, où le gain peut être reporté): les immobilisations, « telles que les biens immobiliers, les placements et les objets », sont « considérés comme ayant été cédés par cette personne immédiatement avant son décès à leur juste valeur marchande ». L'article reprend cette condition. Page datée du 2026-01-20, lue par WebFetch le 2026-10-20 par le rédacteur puis par le vérificateur (curl échoue sur canada.ca depuis ce poste). Tiret du titre remplacé par un deux-points."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, article 417",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-20",
+   "supports": "Les biens du patrimoine familial sont « évalués à leur valeur marchande » à la date du décès ou à la date d'introduction de l'instance (séparation de corps, divorce, nullité), ou, à la demande d'un époux, à la date où les époux ont cessé de faire vie commune si le tribunal le décide. Lu en direct par tools/ccq.py."
+  }
+ ],
+ "claims_needing_review": []
+}

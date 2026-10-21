@@ -169,8 +169,13 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 ## Seller's Guide
 - [Downsizing in Greater Montreal: A Guide](/en/articles/senior-downsizing-guide/) : Condo, apartment, seniors' residence or staying put: what selling the family home really frees up, plus t
+- [How Do I Sell My House for the Highest Price in Laval?](/en/articles/sell-house-for-more-laval/) : Selling your house for more in Laval, where the single-family median was $630,000 in Q3 2026: asking pric
 - [How Long Does It Actually Take to Sell a House in Montreal?](/en/articles/how-long-to-sell-house-montreal/) : Time on market depends far less on the market than on three decisions you control. Here is the realistic 
+- [How Long Does It Take to Sell a House in Laval?](/en/articles/how-long-to-sell-house-laval/) : In Laval, 36 days on average from brokerage contract to sale for a single-family home in Q3 2026, 57 for 
+- [How Much Does a Real Estate Broker Charge in Laval? The Math in Dollars](/en/articles/real-estate-commission-laval/) : Real estate commission in Laval: no set rate, and one percentage point costs $7,243 with taxes on the med
+- [How Much Is My House Worth Today in Laval?](/en/articles/how-much-is-my-house-worth-laval/) : How much a house is worth in Laval: a $630,000 median price for single-family homes in Q3 2026, according
 - [How to Prepare Your Home for Sale in Montreal and Laval](/en/articles/preparer-maison-vente-montreal-laval/) : How to prepare your home for sale in Montreal and Laval: exactly what to do, and what not to waste money 
+- [Is Now a Good Time to Sell My House in Laval?](/en/articles/right-time-to-sell-house-laval/) : Is now a good time to sell a house in Laval? No single figure settles it. In Q3 2026: 848 sales (-15%) an
 - [Keep or Sell a Property in Quebec: Five Cases](/en/articles/keep-or-sell-property-quebec/) : Renewal, deferred maintenance, a vacant dwelling, an estate, a special assessment: five cases where keepi
 - [Listing Exposure on Centris in Quebec: The Rules](/en/articles/listing-exposure-centris-advertising-quebec/) : Centris, fiche descriptive, photos, a price change, a withdrawal: what the exposure of a Quebec listing a
 - [My House Is Not Selling in Quebec: The Honest Diagnosis](/en/articles/home-not-selling-quebec/) : Few showings, no promises to purchase, or offers that collapse: the symptom points to the cause. An hones
@@ -182,7 +187,10 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Selling Before Buying in Quebec: The Clauses That Decide](/en/articles/sell-before-buying-clauses-quebec/) : Selling before buying in Quebec: clause R2.1, the 72 hour clause, the bridge loan, carrying two propertie
 - [Selling With or Without a Realtor, Quebec](/en/articles/selling-without-realtor-quebec/) : Selling with or without a realtor in Quebec: the real numbers, what you actually save, the risk you take 
 - [Selling Your Home in Winter in Quebec: The Obligations](/en/articles/selling-in-fall-and-winter-quebec/) : Selling a home in winter in Quebec: summer photos posted in January, snow clearing for showings, and the 
+- [Selling Your House Yourself in Laval with DuProprio: How Does It Work?](/en/articles/sell-house-yourself-duproprio-laval/) : Selling your house yourself in Laval is allowed: DuProprio packages from $1,199.95 to $1,999.95, single-f
 - [Selling a Home Worth Less Than the Mortgage](/en/articles/selling-underwater-mortgage-quebec/) : Selling a Quebec home worth less than the mortgage: the balance, the penalty, the quittance, the broker's
+- [Should I Overprice My House to Leave Room to Negotiate in Laval?](/en/articles/overpricing-house-negotiation-laval/) (brouillon) : In Laval, APCIQ counts 44 days before a house's first price cut in 2026, but neither it nor Centris publi
+- [Should You Renovate Before Selling Your House in Laval?](/en/articles/renovate-before-selling-house-laval/) : Renovate before selling in Laval? The Code civil does not require it. Permit: 30 days announced. Single f
 - [The Listing Brokerage Contract in Quebec: Clause by Clause](/en/articles/listing-brokerage-contract-quebec/) : Term, price, remuneration, the 180 day clause, declarations: what each clause of the Quebec listing broke
 - [The Process of Selling a House in Quebec: The Steps](/en/articles/selling-process-steps-quebec/) : Contrat de courtage, seller's declarations, certificat de localisation, promesse d'achat, notaire: the pr
 - [The Real Cost of Selling a House in Quebec](/en/articles/real-cost-selling-home-quebec/) : The real cost of selling a house in Quebec: the complete list of selling costs, including the ones seller

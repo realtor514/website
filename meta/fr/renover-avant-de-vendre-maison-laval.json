@@ -1,0 +1,251 @@
+{
+ "id": "t279",
+ "slug": "renover-avant-de-vendre-maison-laval",
+ "title": "Faut-il rénover avant de vendre sa maison à Laval?",
+ "target_keyword": "rénover avant de vendre maison Laval",
+ "word_count": 1796,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/articles/renovations-dont-add-value/",
+  "/articles/reglement-piscine-securite-quebec/",
+  "/articles/duree-de-vie-composantes-maison-quebec/",
+  "/articles/declaration-du-vendeur-quebec/",
+  "/articles/preparer-maison-vente/",
+  "/articles/marche-immobilier-laval-secteurs/",
+  "/articles/marche-immobilier-est-de-laval-duvernay/",
+  "/articles/marche-immobilier-sainte-dorothee-laval-ouest/",
+  "/tools/home-estimate/",
+  "/courtier-immobilier/laval/",
+  "/courtier-immobilier/montreal/",
+  "/courtier-immobilier/longueuil/",
+  "/courtier-immobilier/brossard/",
+  "/courtier-immobilier/terrebonne/",
+  "/courtier-immobilier/mascouche/",
+  "/courtier-immobilier/repentigny/",
+  "/courtier-immobilier/blainville/",
+  "/courtier-immobilier/mirabel/",
+  "/courtier-immobilier/saint-jerome/",
+  "/courtier-immobilier/saint-eustache/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, articles 1716, 1718, 1726 et 1728",
+   "publisher": "LégisQuébec, Éditeur officiel du Québec",
+   "consulted": "2026-10-20",
+   "supports": "Accroche, section « Travaux obligatoires », section « Réparer, déclarer » et FAQ: obligation de délivrer et garanties de plein droit (1716), délivrance dans l'état où le bien se trouve lors de la vente (1718), pas de garantie du vice caché connu de l'acheteur ni du vice apparent (1726), restitution du prix et réparation du préjudice si le vendeur connaissait le vice ou ne pouvait l'ignorer (1728). Lu en direct sur le site officiel par tools/ccq.py."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/S-3.1.02,%20r.%201",
+   "title": "Règlement sur la sécurité des piscines résidentielles, chapitre S-3.1.02, r. 1, article 10",
+   "publisher": "LégisQuébec, Éditeur officiel du Québec",
+   "consulted": "2026-10-20",
+   "supports": "Texte à jour au 1er juillet 2026: une installation existant avant le 1er novembre 2010 doit être conforme au plus tard le 30 septembre 2027 (section « Travaux obligatoires » et FAQ)."
+  },
+  {
+   "url": "https://www.oaciq.com/media/badfjazf/declarations-vendeur.pdf",
+   "title": "Déclarations du vendeur sur l'immeuble, formulaire obligatoire DV (V24 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Questions D2.12 (avis de non-conformité d'une compagnie d'assurance, de la municipalité ou du gouvernement), D3.3 et D12.4 (réservoir de mazout), D8.2 et D8.3 (année et documents du revêtement de toiture), D9.4 (drain français et accès), D9.13 (clapet antiretour), D10.5 (panneau électrique changé, année), D14.4 (travaux importants, plans et devis, permis émis), D15 (l'endroit, l'année et comment la situation a été réglée), et l'engagement de fournir au courtier factures, garanties, plans, devis, permis et rapports. D2.12 comprend la sous-question « Si oui, avez-vous remédié à la situation ? » (« et si vous y avez remédié »). D15 sert aussi à la section « Ce que change un mur ouvert »."
+  },
+  {
+   "url": "https://espacecourtiers.oaciq.com/uploads/ckeditor/attachments/400/guide-vendeur.pdf",
+   "title": "Courtage immobilier résidentiel, Guide du vendeur (édition novembre 2017), page 24 « Fiche de préparation »",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Section « Faut-il rénover »: les frais des travaux de mise en valeur « pourront probablement être récupérés au moment de la vente »; pour les rénovations plus spécialisées, ces travaux « ne peuvent garantir que le prix de vente sera rehaussé pour compenser leur coût », mais augmenteront « à tout le moins » les chances de vendre plus rapidement (page 24, « Fiche de préparation »). Aucune donnée chiffrée dans le guide."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/guide-vendeur/vendeur-pendant-les-demarches-vers-la-vente-de-votre-propriete/vendeur-vous-recevez-une-promesse-dachat/",
+   "title": "Vous recevez une Promesse d'achat",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Promesse d'achat conditionnelle à une inspection, obligation déontologique du courtier de l'acheteur de la recommander; inspection prévente pour connaître l'état de l'immeuble, identifier les réparations importantes « et de décider de les faire ou non »; recommandation de fournir l'information du rapport à l'acheteur et de le divulguer dans le formulaire DV."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/guide-vendeur/vendeur-avant-comment-bien-vous-preparer/vendeur-bien-preparer-la-vente-de-votre-propriete/",
+   "title": "Bien préparer la vente de votre propriété",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Section « Travaux obligatoires »: parmi les « Dépenses à prévoir » figurent « des frais de réparations prévente s'il y a lieu »."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/guide-vendeur/vendeur-avant-comment-bien-vous-preparer/vendeur-les-declarations-du-vendeur-sur-limmeuble/",
+   "title": "Les Déclarations du vendeur sur l'immeuble",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Parmi les informations à fournir: « les travaux de réparation ou de rénovation effectués, preuves à l'appui si possible » (section « Réparer, déclarer » et FAQ sur la déclaration d'une rénovation); « Votre courtier devra donner accès au formulaire à tout acheteur qui manifeste un intérêt à faire une Promesse d'achat » (section « Toiture, drain, électricité »)."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/consommateurs/posseder-une-maison/gerer-un-pret-hypothecaire/la-valeur-de-votre-habitation",
+   "title": "La valeur de votre habitation",
+   "publisher": "SCHL",
+   "consulted": "2026-10-20",
+   "supports": "« Les rénovations ont aussi une incidence sur la valeur d'une maison », valeur définie par rapport aux prix de vente de propriétés semblables, sans taux de récupération publié."
+  },
+  {
+   "url": "https://www.laval.ca/reglements-permis/trouver-mon-permis/renovation-residentielle-interieure/",
+   "title": "Permis de rénovation ou de réparation résidentielle intérieure",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-20",
+   "supports": "Délai : 30 jours; notes: « Ces délais sont approximatifs », délais additionnels possibles selon le moment de l'année, la complexité du dossier ou une approbation particulière (dérogation mineure, PIIA), calcul du délai commençant « uniquement lorsque tous les documents exigés ont été reçus »; frais: 92 $ pour le 1er 20 000 $ + 2,50 $ par tranche ou partie de tranche de 1000 $, « en sus du tarif de base »; état de compte transmis quand la demande est complète; tableau: aucun permis pour travaux de peinture, rénovation d'une salle de bain existante, rénovation d'une cuisine, remplacement d'un panneau électrique, modification du filage électrique, remplacement ou rénovation du système de plomberie; permis pour ajout d'une salle de bain, ajout de chambre, et rénovation intérieure qui modifie les dimensions des pièces, le nombre de pièces ou la structure; documents: certificat de localisation récent préparé par un arpenteur-géomètre, puis, selon les travaux, plan d'architecture signé et scellé par un architecte en vertu de l'article 16 de la Loi sur les architectes et plan de structure signé et scellé par un ingénieur (« des plans scellés par un architecte ou un ingénieur peuvent s'ajouter »). Attention: sur cette page, la phrase « Attendez d'avoir reçu votre permis » se termine par « avant d'ouvrir votre commerce »; la citation de l'article vient de la page extérieure. Relu en curl avec agent de navigateur le 2026-10-20."
+  },
+  {
+   "url": "https://www.laval.ca/reglements-permis/trouver-mon-permis/renovation-residentielle-exterieure/",
+   "title": "Permis de rénovation ou de réparation résidentielle extérieure",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-20",
+   "supports": "Tableau: aucun permis pour le remplacement du revêtement de la toiture avec le même matériau et ajout d'isolation, permis avec un nouveau matériau; remplacement du drain français sans permis, ajout d'un drain français avec permis; remplacement des portes et fenêtres aux mêmes dimensions sans permis, permis pour celles situées à moins de 1,5 m (5 pieds) de la ligne de terrain; même délai de 30 jours, mêmes notes et même tarif; citation « Attendez d'avoir reçu votre permis avant de commencer vos travaux. » (étape 5). Relu en curl avec agent de navigateur le 2026-10-20."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/licence/savoir-si-une-licence-est-requise/exemptions-de-licence/exemptions-de-licence-pour-certains-constructeurs-proprietaires/",
+   "title": "Exemptions de licence pour certains constructeurs-propriétaires",
+   "publisher": "Régie du bâtiment du Québec",
+   "consulted": "2026-10-20",
+   "supports": "« En tout temps, une personne physique n'a pas le droit d'exécuter des travaux de construction à une installation destinée à utiliser du gaz, à une installation d'équipements pétroliers ou à une installation électrique, si elle ne détient pas la licence appropriée »; entrepreneur en électricité, sous-catégorie 16 (exemple 1); un entrepreneur engagé « doit détenir la licence appropriée » (tableau « Réparer, déclarer »). Les exemptions de licence du constructeur-propriétaire (usage personnel, moins de 20 000 $) ne sont plus citées: présentées seules, elles laissaient croire qu'un propriétaire occupant a besoin d'une licence au-delà de 20 000 $."
+  },
+  {
+   "url": "https://montreal.ca/demarches/renover-linterieur-dun-batiment",
+   "title": "Rénover l'intérieur d'un bâtiment",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "FAQ Montréal: « Le délai moyen pour l'analyse d'une demande de permis pour ce type de travaux est de 8 à 10 semaines, à partir du moment où tous les documents nécessaires ont été transmis. Ce délai est présenté à titre indicatif et n'est pas garanti. » Lu dans la démarche générale (aucun arrondissement sélectionné, page mise à jour le 2 février 2026): le chiffre n'est attribué à aucun arrondissement et le lecteur est renvoyé au comptoir des permis."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs (communiqué du 14 octobre 2026)",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "RMR de Montréal, 3e trimestre 2026: « Les délais de vente des unifamiliales (40 jours) et des plex (51 jours) sont demeurés relativement stables » (section « Laval, Montréal et les couronnes »)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval",
+   "title": "Laval: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 36 jours sur le marché (-2 sur un an), 35 sur 4 trimestres; notes: variations calculées par rapport au même trimestre de l'année précédente, ** = nombre de transactions insuffisant. Identique au JSON du 2026-10-19. Relu en direct par le vérificateur le 2026-10-20 (curl avec agent de navigateur): identique."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-duvernay",
+   "title": "Laval (Duvernay), Laval: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 27 jours (-18 sur un an), plus bas des 8 quartiers de Laval dont Centris publie le chiffre du trimestre (5 quartiers à **). Relu en direct par le vérificateur le 2026-10-20 (curl avec agent de navigateur): identique."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-sainte-dorothee",
+   "title": "Laval (Sainte-Dorothée), Laval: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 48 jours (-1 sur un an), plus haut des 8 quartiers de Laval dont Centris publie le chiffre du trimestre (les 13 pages de quartier ont été ouvertes pour vérifier l'étendue). Relu en direct par le vérificateur le 2026-10-20 (curl avec agent de navigateur): identique."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile",
+   "title": "Montréal (Île): Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 51 jours (+4), 49 sur 4 trimestres. Relu en direct par le vérificateur le 2026-10-20 (curl avec agent de navigateur): identique."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-le-vieux-longueuil",
+   "title": "Longueuil (Le Vieux-Longueuil), Montréal (Rive-Sud): Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 35 jours (+13), 32 sur 4 trimestres."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-saint-hubert",
+   "title": "Longueuil (Saint-Hubert), Montréal (Rive-Sud): Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 29 jours (-5), 31 sur 4 trimestres."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-greenfield-park",
+   "title": "Longueuil (Greenfield Park), Montréal (Rive-Sud): Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: jours et variation non publiés (**); 34 jours sur 4 trimestres. Relu en direct par le vérificateur le 2026-10-20 (curl avec agent de navigateur): identique."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/brossard",
+   "title": "Brossard, Montréal (Rive-Sud): Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 43 jours (0), 43 sur 4 trimestres."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne",
+   "title": "Terrebonne (Terrebonne), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 37 jours (+8), 30 sur 4 trimestres. Relu en direct par le vérificateur le 2026-10-20 (curl avec agent de navigateur): identique."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie",
+   "title": "Terrebonne (Lachenaie), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 34 jours (+5), 34 sur 4 trimestres."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine",
+   "title": "Terrebonne (La Plaine), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 31 jours (+4), 27 sur 4 trimestres."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/mascouche",
+   "title": "Mascouche, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 25 jours (-5), 24 sur 4 trimestres."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-repentigny",
+   "title": "Repentigny (Repentigny), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 34 jours (+12), 28 sur 4 trimestres."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-le-gardeur",
+   "title": "Repentigny (Le Gardeur), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 35 jours (+10), 26 sur 4 trimestres."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/blainville",
+   "title": "Blainville, Laurentides: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 34 jours (+5), 30 sur 4 trimestres."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/mirabel",
+   "title": "Mirabel, Laurentides: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 37 jours (+12), 31 sur 4 trimestres."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-jerome",
+   "title": "Saint-Jérôme, Laurentides: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 39 jours (+3), 32 sur 4 trimestres."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-eustache",
+   "title": "Saint-Eustache, Laurentides: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, T3 2026: 23 jours (-5), 28 sur 4 trimestres. Relu en direct par le vérificateur le 2026-10-20 (curl avec agent de navigateur): identique."
+  }
+ ],
+ "claims_needing_review": []
+}

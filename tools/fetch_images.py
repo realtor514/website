@@ -67,6 +67,17 @@ QUERIES = {
     "marche-immobilier-sainte-dorothee-laval-ouest": "waterfront houses river quebec",
     "marche-immobilier-sainte-rose-fabreville-laval": "suburban family house autumn trees",
     "marche-immobilier-vimont-auteuil-laval": "new suburban houses development",
+    # Serie 10 questions des vendeurs, Laval
+    "combien-vaut-ma-maison-laval": "house exterior front yard sunny",
+    "bon-moment-pour-vendre-maison-laval": "brick bungalow maple tree autumn street",
+    "combien-de-temps-vendre-maison-laval": "calendar planning desk house keys",
+    "commission-courtier-immobilier-laval": "calculator contract signing desk",
+    "vendre-maison-soi-meme-duproprio-laval": "homeowner holding house keys door",
+    "renover-avant-de-vendre-maison-laval": "kitchen renovation work tools",
+    "vendre-maison-plus-cher-laval": "bright staged living room interior",
+    "pourquoi-maison-ne-se-vend-pas-laval": "empty house for sale winter",
+    "afficher-maison-plus-cher-negociation-laval": "handshake negotiation table documents",
+    "acheter-avant-de-vendre-maison-laval": "moving boxes new house",
 }
 
 

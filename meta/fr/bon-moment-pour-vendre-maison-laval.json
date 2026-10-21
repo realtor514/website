@@ -1,0 +1,299 @@
+{
+ "id": "t275",
+ "slug": "bon-moment-pour-vendre-maison-laval",
+ "title": "Est-ce le bon moment pour vendre ma maison à Laval?",
+ "target_keyword": "bon moment pour vendre sa maison laval",
+ "word_count": 1699,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/articles/marche-immobilier-laval-secteurs/",
+  "/tools/home-estimate/",
+  "/courtier-immobilier/laval/",
+  "/courtier-immobilier/montreal/",
+  "/courtier-immobilier/vieux-longueuil/",
+  "/courtier-immobilier/saint-hubert-longueuil/",
+  "/courtier-immobilier/longueuil/",
+  "/courtier-immobilier/brossard/",
+  "/courtier-immobilier/terrebonne/",
+  "/courtier-immobilier/la-plaine-terrebonne/",
+  "/courtier-immobilier/mascouche/",
+  "/courtier-immobilier/repentigny/",
+  "/courtier-immobilier/blainville/",
+  "/courtier-immobilier/mirabel/",
+  "/courtier-immobilier/saint-jerome/",
+  "/courtier-immobilier/saint-eustache/",
+  "/articles/marche-immobilier-vimont-auteuil-laval/",
+  "/articles/marche-immobilier-sainte-rose-fabreville-laval/",
+  "/articles/marche-immobilier-pont-viau-laval-des-rapides/",
+  "/articles/marche-immobilier-est-de-laval-duvernay/",
+  "/articles/casser-hypotheque-penalite-quebec/",
+  "/articles/vendre-avant-acheter-clauses-quebec/",
+  "/articles/garder-ou-vendre-propriete-quebec/",
+  "/articles/garder-ou-vendre-signaux-quebec/",
+  "/articles/vendre-automne-hiver-presentation-quebec/",
+  "/articles/best-time-sell-home-montreal/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval",
+   "title": "Laval: Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Accroche, premier tableau et tableau des villes: 848 ventes (-15 %), 1 545 inscriptions en vigueur (+10 %), jours unifamiliale 36 (-2). Delais 57 jours copropriete (+3) et 58 jours plex (+7). 236 ventes de copropriete (-26 %). 792 unifamiliales en vigueur (+17 %). Notes de la page: variations par rapport au meme trimestre de l annee precedente; ** = nombre de transactions insuffisant."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile",
+   "title": "Montreal (Ile): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Premiere section, tableau des villes et FAQ Montreal: 3 344 ventes (-13 %), 10 490 inscriptions en vigueur (+12 %), 51 jours unifamiliale (+4). La page de region couvre toute l ile."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-le-vieux-longueuil",
+   "title": "Longueuil (Le Vieux-Longueuil): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 283 ventes (-9 %), 453 inscriptions en vigueur (+20 %), 35 jours unifamiliale (+13)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-saint-hubert",
+   "title": "Longueuil (Saint-Hubert): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 216 ventes (-25 %), 324 inscriptions en vigueur (+18 %), 29 jours unifamiliale (-5)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-greenfield-park",
+   "title": "Longueuil (Greenfield Park): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 41 ventes (-4 %), 73 inscriptions en vigueur (+102 %); jours unifamiliale non publies (**). Centris ne publie que les trois arrondissements de Longueuil, pas de total pour la ville."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/brossard",
+   "title": "Brossard: Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 291 ventes (0 %), 692 inscriptions en vigueur (+9 %), 43 jours unifamiliale (0)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne",
+   "title": "Terrebonne (Terrebonne): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 160 ventes (-16 %), 201 inscriptions en vigueur (+22 %), 37 jours unifamiliale (+8)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie",
+   "title": "Terrebonne (Lachenaie): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 90 ventes (-14 %), 108 inscriptions en vigueur (+9 %), 34 jours unifamiliale (+5)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine",
+   "title": "Terrebonne (La Plaine): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 69 ventes (+9 %), 89 inscriptions en vigueur (+74 %), 31 jours unifamiliale (+4)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/mascouche",
+   "title": "Mascouche: Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 168 ventes (+5 %), 203 inscriptions en vigueur (+29 %), 25 jours unifamiliale (-5)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-repentigny",
+   "title": "Repentigny (Repentigny): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 174 ventes (-5 %), 228 inscriptions en vigueur (+39 %), 34 jours unifamiliale (+12)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-le-gardeur",
+   "title": "Repentigny (Le Gardeur): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 55 ventes (-6 %), 62 inscriptions en vigueur (+93 %), 35 jours unifamiliale (+10)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/blainville",
+   "title": "Blainville: Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 185 ventes (-4 %), 232 inscriptions en vigueur (+8 %), 34 jours unifamiliale (+5)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/mirabel",
+   "title": "Mirabel: Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 173 ventes (-15 %), 307 inscriptions en vigueur (+18 %), 37 jours unifamiliale (+12)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-jerome",
+   "title": "Saint-Jerome: Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 250 ventes (-7 %), 358 inscriptions en vigueur (+23 %), 39 jours unifamiliale (+3)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-eustache",
+   "title": "Saint-Eustache: Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tableau des villes: 100 ventes (-13 %), 142 inscriptions en vigueur (+26 %), 23 jours unifamiliale (-5)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-vimont",
+   "title": "Laval (Vimont): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Inscriptions en vigueur totales de Vimont: 67 (-9 %), une des trois baisses parmi les douze quartiers ou la variation est publiee. Page rouverte par curl le 2026-10-20 par le verificateur: chiffres identiques au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-des-rapides",
+   "title": "Laval (Laval-des-Rapides): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Inscriptions en vigueur totales: 113 (-4 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-fabreville",
+   "title": "Laval (Fabreville): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Inscriptions en vigueur totales: 152 (-1 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-sainte-rose",
+   "title": "Laval (Sainte-Rose): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Inscriptions en vigueur totales: 125 (+60 %); ventes 84 (+21 %). Page rouverte par curl le 2026-10-20 par le verificateur: chiffres identiques au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-pont-viau",
+   "title": "Laval (Pont-Viau): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Inscriptions en vigueur totales: 44 (+41 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-saint-vincent-de-paul",
+   "title": "Laval (Saint-Vincent-de-Paul): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Inscriptions en vigueur totales: 47 (+34 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-auteuil",
+   "title": "Laval (Auteuil): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Controle du denombrement des quartiers: inscriptions en vigueur 104 (+13 %), en hausse."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-chomedey",
+   "title": "Laval (Chomedey): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Controle du denombrement des quartiers: inscriptions en vigueur 496 (+8 %), en hausse."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-duvernay",
+   "title": "Laval (Duvernay): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Controle du denombrement des quartiers: inscriptions en vigueur 124 (+7 %), en hausse."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-ouest",
+   "title": "Laval (Laval-Ouest): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Controle du denombrement des quartiers: inscriptions en vigueur 47 (+20 %), en hausse."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-saint-francois",
+   "title": "Laval (Saint-Francois): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Controle du denombrement des quartiers: inscriptions en vigueur 59 (+13 %), en hausse."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-sainte-dorothee",
+   "title": "Laval (Sainte-Dorothee): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Controle du denombrement des quartiers: inscriptions en vigueur 147 (+13 %), en hausse."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-sur-le-lac",
+   "title": "Laval (Laval-sur-le-Lac): Statistiques immobilieres, 3e trimestre 2026",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Explique les douze quartiers sur treize: a Laval-sur-le-Lac, la variation des inscriptions en vigueur n est pas publiee (**)."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - barometre residentiel - 3e trimestre 2026, Region metropolitaine de Montreal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Page 27 (Laval), tableau 3, unifamiliale, 12 derniers mois: inventaire moyen, ventes moyennes et mois d inventaire par gamme de prix (8, 5, 1,7; 45, 17, 2,6; 389, 140, 2,8; 113, 24, 4,6; 173, 24, 7,2), toutes Vendeur. Page 65: definition de l inventaire (moyenne des inscriptions en vigueur des 12 derniers mois) et des mois d inventaire (inventaire divise par la moyenne des ventes des 12 derniers mois), seuils 8 et 10, citations sur l elimination des fluctuations saisonnieres, la situation des 12 derniers mois et la difference avec le delai de vente moyen. Page 8 (ile de Montreal): unifamiliale Vendeur sauf 1 220 000 $ et plus, 9,1 mois, Equilibre. PDF telecharge par curl et lu par pdftotext; colonnes du tableau 3 verifiees. Reverifie le 2026-10-20 par le verificateur (pages 8, 27 et 65). Le tableau 1 de la page 27 donne pour Laval 849 ventes (-16 %) et 1 557 inscriptions en vigueur (+11 %): l article ne les reprend pas et attribue 848 et 1 545 a la page Centris, nommee comme telle."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier residentiel poursuit sa periode de transition au Quebec, mais la plupart des marches demeurent a l'avantage des vendeurs",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Communique du 14 octobre 2026, section RMR de Montreal: citation sur la hausse de l offre combinee au recul des ventes (premiere section); copropriete: sur l ile de Montreal, les conditions se situent a la frontiere entre le marche equilibre et l avantage des acheteurs (FAQ Montreal, attribue au communique), Laval et Vaudreuil-Soulanges se rapprochent des seuils d equilibre (section Laval). La projection de l APCIQ sur le taux directeur n est pas reprise."
+  },
+  {
+   "url": "https://comapciqca-152af.kxcdn.com/fsmi-stats/mensuelles/2026/stats-202609-fr.pdf",
+   "title": "FSMI statistiques mensuelles, Septembre 2026",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Page 6 (Laval), septembre 2026: 288 ventes contre 348 (-17 %), 1 728 inscriptions en vigueur contre 1 460 (+18 %), 694 nouvelles inscriptions contre 613 (+13 %). Lien Septembre 2026 de https://apciq.ca/barometre-residentiel/statistiques-mensuelles/."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+   "title": "Taux directeur",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-20",
+   "supports": "Taux de 2,25 % depuis la baisse de 0,25 point du 29 octobre 2025; annonces de 2026 (28 janvier, 18 mars, 29 avril, 10 juin, 15 juillet, 2 septembre) sans modification; calendrier 2026: 28 octobre avec le Rapport sur la politique monetaire, 9 decembre; changements en vigueur le jour suivant l annonce; citation sur la mise en oeuvre de la politique en influant sur les taux d interet a court terme, en ajustant le taux cible du financement a un jour a huit dates preetablies par an."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/09/fad-communique-2026-09-02/",
+   "title": "La Banque du Canada maintient le taux directeur a 2 1/4 %",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-20",
+   "supports": "Maintien a 2,25 % le 2 septembre 2026; prochaine date d etablissement du taux le 28 octobre 2026, avec le Rapport sur la politique monetaire d octobre."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-consommation-matiere-financiere/services/hypotheques/reduire-penalite-paiement-anticipes.html",
+   "title": "Frais hypothecaires : penalites pour remboursements anticipes",
+   "publisher": "Agence de la consommation en matiere financiere du Canada",
+   "consulted": "2026-10-20",
+   "supports": "Penalite possible si vous payez la totalite de l hypotheque avant la fin du terme, par exemple lorsque vous vendez votre maison; habituellement le plus eleve de trois mois d interets ou du differentiel de taux; transfert du pret en cas d achat; citation sur la verification du montant reel aupres du preteur. Page du 2025-10-15. canada.ca coupe la connexion a curl et a Python depuis ce poste: page lue par WebFetch."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/declaration-revenus/remplir-declaration-revenus/revenu-personnel/ligne-12700-gains-capital/residence-principale-biens-immobiliers.html",
+   "title": "Residence principale",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-10-20",
+   "supports": "Generalement pas d impot sur le gain si le bien a exclusivement ete la residence principale pendant chaque annee de propriete (la page dit « vous n etes generalement pas tenu de payer d impot »); declaration de la vente a l annexe 3 et au formulaire T2091(IND); partie du gain a declarer pour les annees non designees; bien a revente precipitee: logement detenu moins de 365 jours consecutifs, gain repute revenu d entreprise, sauf certains evenements de vie. Page du 2026-02-05. Lue par WebFetch (canada.ca refuse curl ici)."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/etablissement-du-juste-prix-vente-0/",
+   "title": "Etablissement du juste prix de vente",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Afin de determiner la juste valeur marchande, le courtier doit notamment proceder a une analyse comparative avec d autres proprietes semblables recemment vendues dans le meme secteur; pendant la duree du contrat de courtage, il doit conseiller et informer le vendeur afin que celui-ci puisse ajuster le prix en fonction de l evolution du marche. Derniere mise a jour de la page: 17 decembre 2025."
+  }
+ ],
+ "claims_needing_review": []
+}

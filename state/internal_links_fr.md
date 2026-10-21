@@ -92,11 +92,17 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Visite libre : le courtier et le vendeur](/articles/open-house-secrets/) : À une visite libre, le courtier présent représente le vendeur. Traitement équitable, double représentatio
 
 ## Guide du vendeur
+- [Combien de temps pour vendre une maison à Laval?](/articles/combien-de-temps-vendre-maison-laval/) : À Laval, 36 jours en moyenne du contrat de courtage à la vente d'une unifamiliale au 3e trimestre 2026, 5
 - [Combien de temps pour vendre à Montréal](/articles/combien-de-temps-vendre-maison-montreal/) : Combien de temps pour vendre à Montréal: le délai dépend surtout de trois décisions que vous contrôlez. L
+- [Combien prend un courtier immobilier à Laval? Le calcul en dollars](/articles/commission-courtier-immobilier-laval/) : Commission du courtier immobilier à Laval: aucun taux fixe, et un point de pourcentage coûte 7 243 $ taxe
+- [Combien vaut ma maison aujourd'hui à Laval?](/articles/combien-vaut-ma-maison-laval/) : Combien vaut une maison à Laval: 630 000 $ de prix médian pour l'unifamiliale au T3 2026 selon Centris, e
+- [Comment vendre ma maison le plus cher possible à Laval?](/articles/vendre-maison-plus-cher-laval/) : Vendre sa maison plus cher à Laval, où l'unifamiliale a un prix médian de 630 000 $ au T3 2026: prix d'af
 - [Comparables immobiliers: auditer le prix du voisin](/articles/comparables-prix-maison-voisin-quebec/) : Quatre critères, superficie mesurée, ajustements, conditions de vente: comment auditer les comparables im
 - [Contrat de courtage vente au Québec: clause par clause](/articles/contrat-courtage-vente-quebec/) : Durée, prix, rétribution, clause des 180 jours, déclarations: ce que chaque clause du contrat de courtage
 - [Diffusion d'une inscription sur Centris: les règles](/articles/diffusion-inscription-centris-publicite/) : Centris, fiche descriptive, photos, prix modifié, retrait: ce que la diffusion d'une inscription au Québe
 - [Déclaration du vendeur au Québec : le formulaire DV 00001](/articles/declaration-du-vendeur-quebec/) : Le formulaire DV 00001 est obligatoire et annexé à la promesse d'achat. Ce que le vendeur déclare vraimen
+- [Est-ce le bon moment pour vendre ma maison à Laval?](/articles/bon-moment-pour-vendre-maison-laval/) : Bon moment pour vendre sa maison à Laval: aucune donnée ne tranche seule. Au T3 2026, 848 ventes (-15 %),
+- [Faut-il rénover avant de vendre sa maison à Laval?](/articles/renover-avant-de-vendre-maison-laval/) : Rénover avant de vendre à Laval: le Code civil ne l'exige pas. Permis: 30 jours annoncés. Unifamiliale: 3
 - [Garder ou vendre une propriété au Québec: cinq cas](/articles/garder-ou-vendre-propriete-quebec/) : Renouvellement, entretien différé, logement vacant, succession, cotisation spéciale: cinq cas où garder u
 - [Le coût réel de vendre une maison au Québec](/articles/cout-reel-vendre-maison-quebec/) : Le coût réel de vendre une maison au Québec: la liste complète des frais de vente, y compris ceux que les
 - [Ma maison ne se vend pas au Québec: le vrai diagnostic](/articles/propriete-ne-se-vend-pas-quebec/) : Peu de visites, aucune promesse, ou des offres qui tombent: le symptôme désigne la cause. Diagnostic honn
@@ -111,6 +117,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Vendre la maison familiale : guide aînés](/articles/senior-downsizing-guide/) : Condo, logement, RPA ou rester chez soi : ce que la vente de la maison familiale libère vraiment, l'impôt
 - [Vendre ou garder sa maison au Québec: vos signaux](/articles/garder-ou-vendre-signaux-quebec/) : Taille du ménage, mutation, renouvellement, entretien, mobilité, attachement: les six signaux personnels 
 - [Vendre sa maison en hiver au Québec: les obligations](/articles/vendre-automne-hiver-presentation-quebec/) : Vendre sa maison en hiver au Québec: photos d'été diffusées en janvier, déneigement des visites, et les d
+- [Vendre sa maison soi-même à Laval avec DuProprio: comment ça marche?](/articles/vendre-maison-soi-meme-duproprio-laval/) : Vendre sa maison soi-même à Laval est permis: forfaits DuProprio de 1 199,95 $ à 1 999,95 $, unifamiliale
 - [Vendre une maison qui vaut moins que l'hypothèque](/articles/vendre-valeur-inferieure-solde-hypothecaire-quebec/) : Vendre une maison dont la valeur est inférieure à l'hypothèque au Québec: solde, pénalité, quittance, rét
 - [Visite libre: ce que le vendeur doit contrôler](/articles/visite-libre-vendeur-quebec/) : Visite libre au Québec: ce que l'OACIQ exige du courtier, ce que le vendeur range, ce que l'assurance cou
 
