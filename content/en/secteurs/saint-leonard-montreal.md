@@ -14,7 +14,7 @@ facts:
     label: "Dwellings in a duplex or small building"
   - value: "2"
     label: "Blue line stations planned here"
-  - value: "4"
+  - value: "3"
     label: "Languages of service"
   - value: "$0"
     label: "First consultation"

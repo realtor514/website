@@ -12,7 +12,7 @@ facts:
     label: "Pôle régional"
   - value: "3"
     label: "Secteurs fusionnés"
-  - value: "4"
+  - value: "3"
     label: "Langues de service"
   - value: "0 $"
     label: "Première consultation"

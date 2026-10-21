@@ -12,7 +12,7 @@ facts:
     label: "Western gateway"
   - value: "Riverfront"
     label: "A distinct market on the river"
-  - value: "4"
+  - value: "3"
     label: "Languages of service"
   - value: "$0"
     label: "First consultation"

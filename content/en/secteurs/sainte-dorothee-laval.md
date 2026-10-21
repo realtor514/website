@@ -14,7 +14,7 @@ facts:
     label: "Sainte-Dorothée station"
   - value: "6"
     label: "Micro-areas covered"
-  - value: "4"
+  - value: "3"
     label: "Languages of service"
   - value: "$0"
     label: "First consultation"

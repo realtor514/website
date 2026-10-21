@@ -14,7 +14,7 @@ facts:
     label: "Viviendas en dúplex o edificio pequeño"
   - value: "2"
     label: "Estaciones de la línea azul previstas aquí"
-  - value: "4"
+  - value: "3"
     label: "Idiomas de servicio"
   - value: "0 $"
     label: "Primera consulta"

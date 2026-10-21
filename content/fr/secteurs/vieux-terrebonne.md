@@ -14,7 +14,7 @@ facts:
     label: "Site patrimonial déclaré"
   - value: "4"
     label: "Unités de paysage"
-  - value: "4"
+  - value: "3"
     label: "Langues de service"
   - value: "0 $"
     label: "Première consultation"

@@ -14,7 +14,7 @@ facts:
     label: "Declared heritage site"
   - value: "4"
     label: "Landscape units"
-  - value: "4"
+  - value: "3"
     label: "Languages of service"
   - value: "$0"
     label: "First consultation"

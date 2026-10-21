@@ -12,7 +12,7 @@ facts:
     label: "Accès au fleuve et aux Îles"
   - value: "30"
     label: "Secteurs desservis au même titre"
-  - value: "4"
+  - value: "3"
     label: "Langues de service"
   - value: "0 $"
     label: "Première consultation"

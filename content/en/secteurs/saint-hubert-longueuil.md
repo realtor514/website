@@ -14,7 +14,7 @@ facts:
     label: "Area of the borough"
   - value: "6"
     label: "Micro sectors covered"
-  - value: "4"
+  - value: "3"
     label: "Languages of service"
   - value: "$0"
     label: "First consultation"

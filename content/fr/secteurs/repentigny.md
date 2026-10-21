@@ -12,7 +12,7 @@ facts:
     label: "Porte d'entrée ouest"
   - value: "Riverain"
     label: "Marché distinct sur le fleuve"
-  - value: "4"
+  - value: "3"
     label: "Langues de service"
   - value: "0 $"
     label: "Première consultation"

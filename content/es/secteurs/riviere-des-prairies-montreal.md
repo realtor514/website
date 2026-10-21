@@ -14,7 +14,7 @@ facts:
     label: "Unifamiliares en el distrito (censo 2021)"
   - value: "6"
     label: "Subsectores cubiertos"
-  - value: "4"
+  - value: "3"
     label: "Idiomas de servicio"
   - value: "0 $"
     label: "Primera consulta"
@@ -62,7 +62,7 @@ En el segundo trimestre de 2026, según el perfil de barrio de Centris, la plata
 
 ## Desplazarse, en concreto
 
-No hay estación de metro en Rivière-des-Prairies. El enlace pesado es el tren: la estación Rivière-des-Prairies, en el 10801 del bulevar Maurice-Duplessis, la sirve la línea 15 Mascouche de exo, en zona tarifaria A, con estacionamiento disuasorio de unas 300 plazas y taxi colectivo hacia el Faubourg Pointe-aux-Prairies. Desde el 12 de enero de 2026 su terminal ya no es la gare Centrale sino Côte-de-Liesse, con correspondencia directa con el REM: exo cifra la ganancia en unos 45 minutos hacia el centro.
+No hay estación de metro en Rivière-des-Prairies. El enlace pesado es el tren: la estación Rivière-des-Prairies, en el 10801 del bulevar Maurice-Duplessis, la sirve la línea 15 Mascouche de exo, en zona tarifaria A, con estacionamiento disuasorio de 194 plazas y taxi colectivo hacia el Faubourg Pointe-aux-Prairies. Desde el 12 de enero de 2026 su terminal ya no es la gare Centrale sino Côte-de-Liesse, con correspondencia directa con el REM: exo cifra la ganancia en unos 45 minutos hacia el centro.
 
 En autobús, la línea 449 Express Rivière-des-Prairies de la STM baja al metro Radisson, línea verde, y las líneas 48 Perras y 49 Maurice-Duplessis van al oeste hasta el metro Henri-Bourassa, línea naranja, cruzando el corredor Pie-IX que utiliza el SRB. En coche, la autopista 40 atraviesa el sur del distrito y la autopista 25 cruza la rivière des Prairies hacia Laval por el puente Olivier-Charbonneau, de peaje (Concession A25). Las escuelas públicas francófonas dependen del Centre de services scolaire de la Pointe-de-l'Île.
 

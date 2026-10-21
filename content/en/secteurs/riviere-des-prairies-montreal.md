@@ -14,7 +14,7 @@ facts:
     label: "Single-family homes in the borough (2021 census)"
   - value: "6"
     label: "Sub-areas covered"
-  - value: "4"
+  - value: "3"
     label: "Languages of service"
   - value: "$0"
     label: "First consultation"
@@ -62,7 +62,7 @@ In the second quarter of 2026, according to the community profile from Centris, 
 
 ## Getting around, in practice
 
-There is no metro station in Rivière-des-Prairies. The heavy link is the train: Gare Rivière-des-Prairies, at 10801 boulevard Maurice-Duplessis, is served by exo line 15 Mascouche, in fare zone A, with a park-and-ride of roughly 300 spaces and a shared taxi service to Faubourg Pointe-aux-Prairies. Since January 12, 2026, its terminus is no longer Gare Centrale but Gare Côte-de-Liesse, with a direct connection to the REM: exo puts the saving at about 45 minutes toward downtown.
+There is no metro station in Rivière-des-Prairies. The heavy link is the train: Gare Rivière-des-Prairies, at 10801 boulevard Maurice-Duplessis, is served by exo line 15 Mascouche, in fare zone A, with a park-and-ride of 194 spaces and a shared taxi service to Faubourg Pointe-aux-Prairies. Since January 12, 2026, its terminus is no longer Gare Centrale but Gare Côte-de-Liesse, with a direct connection to the REM: exo puts the saving at about 45 minutes toward downtown.
 
 For buses, STM line 449 Express Rivière-des-Prairies runs down to Radisson station on the green line, and lines 48 Perras and 49 Maurice-Duplessis run west to Henri-Bourassa station on the orange line, crossing the Pie-IX corridor used by the SRB. By car, Autoroute 40 crosses the south of the borough and Autoroute 25 crosses the rivière des Prairies toward Laval over the Olivier-Charbonneau bridge, a toll crossing (Concession A25). French-language public schools fall under the Centre de services scolaire de la Pointe-de-l'Île.
 

@@ -12,7 +12,7 @@ facts:
     label: "نهاية خط exo ماسكوش"
   - value: "30"
     label: "مناطق أخدمها بالتساوي"
-  - value: "4"
+  - value: "3"
     label: "لغات الخدمة"
   - value: "0 $"
     label: "الاستشارة الأولى"

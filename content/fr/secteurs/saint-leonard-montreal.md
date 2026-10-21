@@ -14,7 +14,7 @@ facts:
     label: "Logements en duplex ou petit immeuble"
   - value: "2"
     label: "Stations de la ligne bleue prévues ici"
-  - value: "4"
+  - value: "3"
     label: "Langues de service"
   - value: "0 $"
     label: "Première consultation"

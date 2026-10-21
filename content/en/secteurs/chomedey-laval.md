@@ -14,7 +14,7 @@ facts:
     label: "Municipal districts in Chomedey"
   - value: "3"
     label: "Distinct markets on the same streets"
-  - value: "4"
+  - value: "3"
     label: "Languages of service"
   - value: "$0"
     label: "First consultation"

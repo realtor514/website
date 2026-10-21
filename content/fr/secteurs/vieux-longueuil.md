@@ -14,7 +14,7 @@ facts:
     label: "Site patrimonial cité"
   - value: "950+"
     label: "Bâtiments dans le site patrimonial"
-  - value: "4"
+  - value: "3"
     label: "Langues de service"
   - value: "0 $"
     label: "Première consultation"

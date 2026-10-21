@@ -12,7 +12,7 @@ facts:
     label: "Boroughs on the island"
   - value: "Plexes"
     label: "My Montreal specialty"
-  - value: "4"
+  - value: "3"
     label: "Languages of service"
   - value: "$0"
     label: "First consultation"

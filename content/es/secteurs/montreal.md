@@ -12,7 +12,7 @@ facts:
     label: "Distritos en la isla"
   - value: "Plex"
     label: "Mi especialidad en Montreal"
-  - value: "4"
+  - value: "3"
     label: "Idiomas de servicio"
   - value: "0 $"
     label: "Primera consulta"

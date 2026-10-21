@@ -14,7 +14,7 @@ facts:
     label: "Unifamiliales dans l'arrondissement (recensement 2021)"
   - value: "6"
     label: "Sous-secteurs couverts"
-  - value: "4"
+  - value: "3"
     label: "Langues de service"
   - value: "0 $"
     label: "Première consultation"
@@ -62,7 +62,7 @@ Au deuxième trimestre de 2026, selon le profil de quartier de Centris, la plate
 
 ## Se déplacer, concrètement
 
-Il n'y a pas de station de métro à Rivière-des-Prairies. Le lien lourd, c'est le train: la gare Rivière-des-Prairies, au 10801, boulevard Maurice-Duplessis, est desservie par la ligne 15 Mascouche d'exo, en zone tarifaire A, avec un stationnement incitatif d'environ 300 places et un taxi collectif vers le Faubourg Pointe-aux-Prairies. Depuis le 12 janvier 2026, son terminus n'est plus la gare Centrale mais la gare Côte-de-Liesse, en correspondance directe avec le REM: exo y chiffre le gain à environ 45 minutes vers le centre-ville.
+Il n'y a pas de station de métro à Rivière-des-Prairies. Le lien lourd, c'est le train: la gare Rivière-des-Prairies, au 10801, boulevard Maurice-Duplessis, est desservie par la ligne 15 Mascouche d'exo, en zone tarifaire A, avec un stationnement incitatif de 194 places et un taxi collectif vers le Faubourg Pointe-aux-Prairies. Depuis le 12 janvier 2026, son terminus n'est plus la gare Centrale mais la gare Côte-de-Liesse, en correspondance directe avec le REM: exo y chiffre le gain à environ 45 minutes vers le centre-ville.
 
 Côté autobus, la ligne 449 Express Rivière-des-Prairies de la STM descend à la station Radisson, sur la ligne verte, et les lignes 48 Perras et 49 Maurice-Duplessis filent vers l'ouest jusqu'à la station Henri-Bourassa, sur la ligne orange, en croisant le corridor Pie-IX emprunté par le SRB. En voiture, l'autoroute 40 traverse le sud de l'arrondissement et l'autoroute 25 franchit la rivière des Prairies vers Laval par le pont Olivier-Charbonneau, à péage (Concession A25). Les écoles publiques francophones relèvent du Centre de services scolaire de la Pointe-de-l'Île.
 

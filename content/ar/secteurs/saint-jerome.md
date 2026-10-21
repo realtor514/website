@@ -12,7 +12,7 @@ facts:
     label: "قطب إقليمي"
   - value: "3"
     label: "قطاعات مدمجة"
-  - value: "4"
+  - value: "3"
     label: "لغات الخدمة"
   - value: "0 $"
     label: "الاستشارة الأولى"

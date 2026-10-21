@@ -14,7 +14,7 @@ facts:
     label: "موقع تراثي معلَن"
   - value: "4"
     label: "وحدات المشهد"
-  - value: "4"
+  - value: "3"
     label: "لغات الخدمة"
   - value: "0 $"
     label: "الاستشارة الأولى"

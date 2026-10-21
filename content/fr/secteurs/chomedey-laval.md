@@ -14,7 +14,7 @@ facts:
     label: "Districts municipaux dans Chomedey"
   - value: "3"
     label: "Marchés distincts dans les mêmes rues"
-  - value: "4"
+  - value: "3"
     label: "Langues de service"
   - value: "0 $"
     label: "Première consultation"

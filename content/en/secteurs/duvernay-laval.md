@@ -14,7 +14,7 @@ facts:
     label: "Year of the merger into Laval"
   - value: "6"
     label: "Micro sectors covered"
-  - value: "4"
+  - value: "3"
     label: "Languages of service"
   - value: "$0"
     label: "First consultation"

@@ -14,7 +14,7 @@ facts:
     label: "Estación Sainte-Dorothée"
   - value: "6"
     label: "Microsectores cubiertos"
-  - value: "4"
+  - value: "3"
     label: "Idiomas de servicio"
   - value: "0 $"
     label: "Primera consulta"

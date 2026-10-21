@@ -12,7 +12,7 @@ facts:
     label: "Fundación de la ciudad"
   - value: "30"
     label: "Zonas atendidas por igual"
-  - value: "4"
+  - value: "3"
     label: "Idiomas de servicio"
   - value: "0 $"
     label: "Primera consulta"

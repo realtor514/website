@@ -12,7 +12,7 @@ facts:
     label: "Arrondissements sur l'île"
   - value: "Plex"
     label: "Ma spécialité montréalaise"
-  - value: "4"
+  - value: "3"
     label: "Langues de service"
   - value: "0 $"
     label: "Première consultation"

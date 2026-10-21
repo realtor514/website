@@ -14,7 +14,7 @@ facts:
     label: "Gare Sainte-Dorothée"
   - value: "6"
     label: "Micro-secteurs couverts"
-  - value: "4"
+  - value: "3"
     label: "Langues de service"
   - value: "0 $"
     label: "Première consultation"

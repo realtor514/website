@@ -14,7 +14,7 @@ facts:
     label: "Cited heritage site"
   - value: "950+"
     label: "Buildings in the heritage site"
-  - value: "4"
+  - value: "3"
     label: "Languages of service"
   - value: "$0"
     label: "First consultation"

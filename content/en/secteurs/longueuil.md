@@ -12,7 +12,7 @@ facts:
     label: "Boroughs"
   - value: "30"
     label: "Areas served equally"
-  - value: "4"
+  - value: "3"
     label: "Languages of service"
   - value: "$0"
     label: "First consultation"

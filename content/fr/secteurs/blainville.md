@@ -13,7 +13,7 @@ facts:
     label: "Porte d'entrée sud"
   - value: "6"
     label: "Secteurs desservis au même titre"
-  - value: "4"
+  - value: "3"
     label: "Langues de service"
   - value: "0 $"
     label: "Première consultation"
