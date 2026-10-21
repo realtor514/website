@@ -955,7 +955,8 @@ marche de Montreal (10) et de Longueuil (4), en 4 langues, publies les
    les pages qui amenent des vendeurs.
 2. Puis la vague du 2026-10-20 (Laval, 3 jours).
 3. Puis les jours 2 a 10 de cette vague.
-4. Puis la fin de la vague du 2026-10-07.
+4. Puis la vague Laurentides et Lanaudiere (6 jours, juste apres).
+5. Puis la fin de la vague du 2026-10-07.
 
 #### Vague 2026-10-21, jour 1 - Francais: les 10 questions des vendeurs (les plus commerciales en premier)
 
@@ -1101,6 +1102,101 @@ https://georgesmatar.ca/es/articles/mercado-inmobiliario-longueuil-por-sector/
 https://georgesmatar.ca/es/articles/mercado-inmobiliario-vieux-longueuil/
 https://georgesmatar.ca/es/articles/mercado-inmobiliario-saint-hubert-longueuil/
 https://georgesmatar.ca/es/articles/mercado-inmobiliario-greenfield-park-longueuil/
+```
+
+#### VAGUE LAURENTIDES ET LANAUDIERE, creee le 2026-10-21
+
+56 articles nouveaux, publies le 2026-10-21: la serie de marche des
+Laurentides (7) et de Lanaudiere (7), en 4 langues. A faire apres les
+jours 2 a 10 de la vague du 2026-10-21 et avant la fin de la vague du
+2026-10-07. Les villes ou tu as une page de quartier passent en premier:
+Terrebonne, Mascouche, Repentigny, Blainville, Mirabel, Saint-Eustache,
+Saint-Jerome. Ordre: francais, anglais, arabe, espagnol. 6 jours.
+
+#### Vague Laurentides et Lanaudiere, jour 1 - Francais
+
+```
+https://georgesmatar.ca/articles/marche-immobilier-terrebonne-lachenaie-la-plaine/
+https://georgesmatar.ca/articles/marche-immobilier-lanaudiere-secteurs/
+https://georgesmatar.ca/articles/marche-immobilier-mascouche/
+https://georgesmatar.ca/articles/marche-immobilier-repentigny-l-assomption/
+https://georgesmatar.ca/articles/marche-immobilier-laurentides-secteurs/
+https://georgesmatar.ca/articles/marche-immobilier-blainville-sainte-therese-boisbriand/
+https://georgesmatar.ca/articles/marche-immobilier-mirabel/
+https://georgesmatar.ca/articles/marche-immobilier-saint-eustache-deux-montagnes/
+https://georgesmatar.ca/articles/marche-immobilier-saint-jerome-riviere-du-nord/
+https://georgesmatar.ca/articles/marche-immobilier-joliette-lavaltrie/
+```
+
+#### Vague Laurentides et Lanaudiere, jour 2 - Francais, puis anglais
+
+```
+https://georgesmatar.ca/articles/marche-immobilier-saint-lin-sainte-julienne-montcalm/
+https://georgesmatar.ca/articles/marche-immobilier-pays-d-en-haut-saint-sauveur/
+https://georgesmatar.ca/articles/marche-immobilier-mont-tremblant-sainte-agathe/
+https://georgesmatar.ca/articles/marche-immobilier-rawdon-saint-donat-matawinie/
+https://georgesmatar.ca/en/articles/terrebonne-real-estate-market/
+https://georgesmatar.ca/en/articles/lanaudiere-real-estate-market-by-sector/
+https://georgesmatar.ca/en/articles/mascouche-real-estate-market/
+https://georgesmatar.ca/en/articles/repentigny-l-assomption-real-estate-market/
+https://georgesmatar.ca/en/articles/laurentians-real-estate-market-by-sector/
+https://georgesmatar.ca/en/articles/blainville-sainte-therese-real-estate-market/
+```
+
+#### Vague Laurentides et Lanaudiere, jour 3 - Anglais, puis arabe
+
+```
+https://georgesmatar.ca/en/articles/mirabel-real-estate-market/
+https://georgesmatar.ca/en/articles/saint-eustache-deux-montagnes-real-estate-market/
+https://georgesmatar.ca/en/articles/saint-jerome-real-estate-market/
+https://georgesmatar.ca/en/articles/joliette-lavaltrie-real-estate-market/
+https://georgesmatar.ca/en/articles/montcalm-saint-lin-real-estate-market/
+https://georgesmatar.ca/en/articles/saint-sauveur-pays-d-en-haut-real-estate-market/
+https://georgesmatar.ca/en/articles/mont-tremblant-sainte-agathe-real-estate-market/
+https://georgesmatar.ca/en/articles/rawdon-saint-donat-real-estate-market/
+https://georgesmatar.ca/ar/articles/terrebonne-real-estate-market/
+https://georgesmatar.ca/ar/articles/lanaudiere-real-estate-market-by-sector/
+```
+
+#### Vague Laurentides et Lanaudiere, jour 4 - Arabe
+
+```
+https://georgesmatar.ca/ar/articles/mascouche-real-estate-market/
+https://georgesmatar.ca/ar/articles/repentigny-l-assomption-real-estate-market/
+https://georgesmatar.ca/ar/articles/laurentians-real-estate-market-by-sector/
+https://georgesmatar.ca/ar/articles/blainville-sainte-therese-real-estate-market/
+https://georgesmatar.ca/ar/articles/mirabel-real-estate-market/
+https://georgesmatar.ca/ar/articles/saint-eustache-deux-montagnes-real-estate-market/
+https://georgesmatar.ca/ar/articles/saint-jerome-real-estate-market/
+https://georgesmatar.ca/ar/articles/joliette-lavaltrie-real-estate-market/
+https://georgesmatar.ca/ar/articles/montcalm-saint-lin-real-estate-market/
+https://georgesmatar.ca/ar/articles/saint-sauveur-pays-d-en-haut-real-estate-market/
+```
+
+#### Vague Laurentides et Lanaudiere, jour 5 - Arabe, puis espagnol
+
+```
+https://georgesmatar.ca/ar/articles/mont-tremblant-sainte-agathe-real-estate-market/
+https://georgesmatar.ca/ar/articles/rawdon-saint-donat-real-estate-market/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-terrebonne/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-lanaudiere-por-sector/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-mascouche/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-repentigny-l-assomption/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-laurentides-por-sector/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-blainville-sainte-therese/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-mirabel/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-saint-eustache-deux-montagnes/
+```
+
+#### Vague Laurentides et Lanaudiere, jour 6 - Espagnol
+
+```
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-saint-jerome/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-joliette-lavaltrie/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-montcalm-saint-lin/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-saint-sauveur-pays-d-en-haut/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-mont-tremblant-sainte-agathe/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-rawdon-saint-donat/
 ```
 
 #### VAGUE DU 2026-10-20 - Serie marche immobilier de Laval par secteur
