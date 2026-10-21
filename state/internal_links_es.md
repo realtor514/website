@@ -33,6 +33,11 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Mercado inmobiliario en el West Island, Montreal: T3 2026](/es/articles/mercado-inmobiliario-west-island-montreal/) : West Island, Montreal, T3 2026: unifamiliar a 635 000 $ de precio mediano en Pierrefonds-Roxboro y 1 005 
 - [Mercado inmobiliario: Côte-des-Neiges, NDG (Montreal) y Westmount, T3 2026](/es/articles/mercado-inmobiliario-cote-des-neiges-ndg-westmount-montreal/) : Côte-des-Neiges, NDG y Westmount, Montreal, T3 2026: unifamiliar a 2 525 000 $ de precio mediano en Westm
 - [Precio pedido y precio vendido en Montreal: leer la brecha](/es/articles/precio-pedido-vs-precio-vendido-montreal/) : Precio pedido y precio vendido en Montreal: quién ve el precio de venta, cuándo se vuelve consultable en 
+- [¿Bajarán los precios de las casas en Quebec?](/es/articles/bajaran-precios-casas-quebec/) : ¿Bajarán los precios de las casas en Quebec? Medianas del T3 2026, previsiones de la SCHL y de la APCIQ, 
+- [¿Cuándo terminará la crisis de vivienda en Quebec?](/es/articles/fin-crisis-vivienda-quebec/) : ¿Cuándo terminará la crisis de vivienda? Ninguna fuente da una fecha. Desocupación, brecha de viviendas e
+- [¿Hay una burbuja inmobiliaria en Quebec?](/es/articles/burbuja-inmobiliaria-quebec/) : Burbuja inmobiliaria en Quebec: precios e ingresos, precios y alquileres, crédito, especulación, construc
+- [¿Qué factores influyen en el mercado inmobiliario de Quebec?](/es/articles/factores-mercado-inmobiliario-quebec/) : Qué influye en el mercado inmobiliario de Quebec: tasas, crédito, empleo, población, oferta, alquileres, 
+- [¿Serán asequibles las casas en Quebec en 2027?](/es/articles/asequibilidad-vivienda-quebec/) : Asequibilidad de la vivienda en Quebec: el pago sobre la mediana Centris del T3 2026 por ciudad, frente a
 
 ## Financiamiento
 - [Acceder a la propiedad en Quebec en 2026](/es/articles/everyone-deserves-homeownership/) : CELIAPP, RAP, créditos fiscales, reembolso de TPS en vivienda nueva, pago inicial mínimo y amortización a
@@ -53,6 +58,9 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Refinanciamiento hipotecario en Quebec: ¿vale la pena?](/es/articles/refinanciamiento-hipotecario-quebec/) : Renovación, transferencia o refinanciamiento hipotecario en Quebec: el tope del 80 %, la penalidad, el se
 - [Tasas de interés y mercado de Montreal](/es/articles/interest-rates-montreal-market/) : Tasa directriz, tasa preferencial, bonos, prueba de resistencia y renovación: el camino real entre el Ban
 - [Ventajas fiscales del comprador primerizo](/es/articles/first-time-buyer-tax-credits/) : CELIAPP, RAP, créditos fiscales, reembolso del impuesto de bienvenida y de la TPS en vivienda nueva: las 
+- [¿Bajarán las tasas hipotecarias en 2027?](/es/articles/bajaran-tasas-hipotecarias-quebec/) : ¿Bajarán las tasas hipotecarias? Tasa directriz de 2,25 %, anuncios de 2026 y 2027, señal de los bonos y 
+- [¿Bajó el poder adquisitivo de los primeros compradores?](/es/articles/poder-adquisitivo-primeros-compradores-quebec/) : Poder adquisitivo de los primeros compradores: precio mediano, ingreso y tasa publicada en 2016, 2021 y 2
+- [¿Cuál será la tasa de inflación en Quebec en 2027?](/es/articles/inflacion-quebec-propietarios/) : Tasa de inflación en Quebec: 3,1 % en septiembre de 2026. Lo que Quebec y el Banco de Canadá proyectan pa
 - [¿Qué salario se necesita para comprar en Montreal o Laval?](/es/articles/what-salary-to-buy-montreal/) : Qué salario para comprar en Montreal o Laval: cómo calculan los prestamistas su capacidad de endeudamient
 
 ## Guía del Comprador
@@ -102,6 +110,8 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Visita libre: el corredor y el vendedor](/es/articles/open-house-secrets/) : El corredor que recibe en una visite libre representa al vendedor. Trato equitativo, doble representación
 - [Vivienda intergeneracional en Laval](/es/articles/vivienda-intergeneracional-montreal-laval/) : Permiso, logement additionnel, residencia principal y financiamiento: el reglamento de la vivienda interg
 - [Zona escolar e impuesto escolar en Quebec](/es/articles/school-districts-property-values/) : Zona escolar, elección de escuela, programas con selección e impuesto escolar 2026-2027: lo que su direcc
+- [¿Cómo prepararse para comprar su primera casa en Quebec?](/es/articles/prepararse-compra-primera-vivienda-quebec/) : Prepararse para comprar su primera vivienda en Quebec: el calendario de 12 meses, del CELIAPP a las llave
+- [¿Hay que inspeccionar una propiedad antes de comprarla?](/es/articles/inspeccion-antes-de-comprar-quebec/) : Inspección antes de comprar: ninguna ley la exige, pero el artículo 1726 excluye el vicio aparente. Condo
 
 ## Guía del Vendedor
 - [Comparables inmobiliarios: cómo auditar el precio del vecino](/es/articles/comparables-precio-casa-quebec/) : Cuatro criterios, superficie medida, ajustes y condiciones de venta: cómo auditar los comparables inmobil
@@ -188,6 +198,9 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Renovar su condominio en Quebec: el límite](/es/articles/renovacion-condominio-quebec/) : Piso, ventana, balcón, muro de carga: lo que un copropietario puede renovar en su condominio en Quebec, y
 - [Separación, divorcio y vivienda en Quebec: lo que debe saber](/es/articles/divorce-real-estate-guide/) : Patrimoine familial, union parentale, recompra, venta o copropiedad: qué pasa con la casa cuando una pare
 - [Vicio oculto en Quebec: los recursos](/es/articles/vicio-oculto-recurso-quebec/) : Vicio oculto en una casa de Quebec: las cuatro condiciones del artículo 1726, la denuncia escrita obligat
+- [¿Cuáles son los riesgos de una transacción inmobiliaria?](/es/articles/riesgos-transaccion-inmobiliaria-quebec/) : Riesgos de una transacción inmobiliaria en Quebec: cada riesgo, la protección que le responde, quién la o
+- [¿Cómo serán las casas en Quebec en 2030?](/es/articles/casas-2030-quebec/) : Casas en 2030 en Quebec: código de construcción, fin del mazut, zonas inundables, vivienda accesoria. Qué
+- [¿Qué cambia para los propietarios en Quebec en 2027?](/es/articles/cambios-propietarios-quebec/) : Cambios para propietarios en Quebec en 2027: piscina, alquileres, rol de Laval, compradores extranjeros. 
 
 ## Inversión
 - [Agregar una vivienda accesoria en Quebec: el marco](/es/articles/vivienda-accesoria-quebec/) : Vivienda accesoria en Quebec: el permiso en Laval y en Montreal, los costos publicados, el ingreso que re
@@ -207,6 +220,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Propietario ocupante de un plex, Quebec](/es/articles/plex-ocupado-propietario-quebec/) : Propietario ocupante de un plex en Quebec: quién puede recuperar una vivienda, los plazos del aviso, la i
 - [Valor del terreno y zonificación en Quebec: cómo leer el rol](/es/articles/valor-del-terreno-zonificacion-quebec/) : Valor del terreno y zonificación en Quebec: el rôle d'évaluation separa terreno y edificio. Qué dice ese 
 - [Venta por impuestos municipales en Quebec: el procedimiento](/es/articles/venta-por-impuestos-municipales-quebec/) : Venta por impuestos municipales en Quebec: quién vende, qué se paga en el acto, el derecho de rescate de 
+- [¿Vale la pena invertir en inmuebles de alquiler en Quebec?](/es/articles/invertir-inmueble-alquiler-quebec/) : Invertir en inmuebles de alquiler en Quebec en 2026: un plex mediano de Laval calculado línea por línea, 
 
 ## Pages outils et conversion
 

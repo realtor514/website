@@ -1,0 +1,132 @@
+{
+ "id": "t294",
+ "slug": "inflation-quebec-immobilier",
+ "title": "Quel sera le taux d'inflation au Québec en 2027?",
+ "target_keyword": "taux d inflation quebec 2027",
+ "word_count": 1704,
+ "category": "Financement",
+ "internal_links": [
+  "/articles/interest-rates-montreal-market/",
+  "/tools/mortgage/",
+  "/articles/cout-entretien-maison-quebec/",
+  "/articles/rental-property-management/",
+  "/articles/property-tax-explained/",
+  "/articles/hidden-homeownership-costs/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
+   "title": "The Daily: Consumer Price Index, September 2026",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-10-21",
+   "supports": "Date de diffusion de l'IPC de septembre 2026 (Released: 2026-10-19); IPC canadien +3,1 % sur 12 mois; sous-indices canadiens du logement: cout de l'interet hypothecaire -0,2 %, assurance habitation et hypothecaire des proprietaires +4,9 %, entretien et reparations par le proprietaire +1,2 %, loyers +2,8 %, mazout et autres combustibles +57,8 %, logement +1,8 %; absence d'explication regionale pour le Quebec dans les faits saillants regionaux; prochaine diffusion: IPC d'octobre le lundi 16 novembre. Lu par la capture web.archive.org du 20 octobre 2026 (20261020090137), le site www150.statcan.gc.ca servant une page d'indisponibilite a toutes les routes le 21 octobre 2026; la version francaise n'etait pas archivee."
+  },
+  {
+   "url": "https://statistique.quebec.ca/fr/document/indice-prix-consommation-ipc/publication/indice-prix-consommation",
+   "title": "Indice des prix à la consommation (Faits saillants économiques, mise à jour : 19 octobre 2026)",
+   "publisher": "Institut de la statistique du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Donnees de Statistique Canada reprises par l'ISQ (« Statistique Canada, Indice des prix à la consommation. Adaptation par l'Institut de la statistique du Québec »): Quebec +3,1 % en septembre 2026 (+3,1 % en aout); essence +22,8 %; IPC hors essence +2,4 %; Canada +3,1 %; moyennes annuelles du Quebec: 4,5 % en 2023, 2,3 % en 2024, 2,4 % en 2025 (bases du calcul du pourcentage de base du TAL)."
+  },
+  {
+   "url": "https://statistique.quebec.ca/fr/document/indice-prix-consommation-ipc/tableau/indice-des-prix-a-la-consommation-ipc-produits-et-groupes-de-produits-quebec-canada-rmr-montreal-quebec-donnees-mensuelles-non-desaisonnalisees",
+   "title": "Indice des prix à la consommation (IPC), produits et groupes de produits, Québec, Canada, RMR de Montréal et RMR de Québec, données mensuelles non désaisonnalisées (2002=100)",
+   "publisher": "Institut de la statistique du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Donnees de Statistique Canada reprises par l'ISQ, tableau mis a jour le 19 octobre 2026 (lu via le service de donnees du tableau no 3879): septembre 2026, variation sur 12 mois. Quebec: ensemble 3,1 %, logement 3,2 %, logement locatif 3,2 %, logement en propriete 2,7 %, ensemble excluant les aliments et l'energie 2,2 %, mazout et autres combustibles 42,0 %, gaz naturel 1,6 %, electricite 2,4 %. RMR de Montreal: ensemble 3,0 %, logement 2,9 %, logement locatif 2,6 %, logement en propriete 2,9 %. Canada: ensemble 3,1 %, logement 1,8 %, logement locatif 2,7 %, logement en propriete 0,6 %; juillet et aout 3,0 %. Territoires publies: Quebec, Canada, RMR de Montreal, RMR de Quebec (aucun IPC propre a Laval)."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/publication/rpm/rpm-2026-07-15/",
+   "title": "Rapport sur la politique monétaire, juillet 2026 (PDF : https://www.banqueducanada.ca/wp-content/uploads/2026/06/rpm-2026-07-15.pdf)",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Tableau 2: inflation mesuree par l'IPC, moyenne annuelle, 2,5 % en 2026, 2,0 % en 2027, 2,1 % en 2028 (Canada). Tableau 3: 2,5 % projete pour le 3e trimestre 2026. Citation: « L'inflation au Canada devrait ralentir pour s'établir à environ 2½ % dans la deuxième moitié de 2026, puis revenir à la cible de 2 % au début de 2027 », projection fondee sur la courbe des contrats a terme sur le petrole en date du 9 juillet 2026. Le titre officiel contient un tiret long, remplace ici par une virgule (regle 1)."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/09/fad-communique-2026-09-02/",
+   "title": "La Banque du Canada maintient le taux directeur à 2¼ %",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Maintien du taux a 2,25 % le 2 septembre 2026; citations « les risques à la hausse entourant l'inflation ont augmenté » et « se tient prêt à ajuster la politique monétaire selon les besoins »; prochaine decision le 28 octobre 2026 avec le Rapport sur la politique monetaire d'octobre."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+   "title": "Taux directeur",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Taux cible de 2,25 % inchange depuis la baisse du 29 octobre 2025 (aucune modification aux annonces de 2026 jusqu'au 2 septembre); calendrier 2026 (28 octobre: taux et RPM) et calendrier 2027 (quatre RPM: 27 janvier, 28 avril, 21 juillet, 27 octobre). Concorde avec state/marche_T3_2026/contexte_commun.md, verifie le 2026-10-19."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/inflation/",
+   "title": "Inflation",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Cible de 2 %, point median d'une fourchette de 1 a 3 %, exprimee en fonction du taux d'augmentation sur douze mois de l'IPC global; renouvellement du cadre tous les cinq ans avec le gouvernement federal, « le cadre sera renouvelé en 2026 »."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/valet/observations/group/CPI_MONTHLY/json?recent=4",
+   "title": "L'indice des prix à la consommation (groupe de séries CPI_MONTHLY, interface Valet)",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Septembre 2026: taux de variation sur 12 mois de l'IPC 3,1 %; IPC-tronq 1,8 %; IPC-med 1,9 %."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/10/comprendre-les-couts-construction-logements/",
+   "title": "Comprendre les coûts de construction des logements",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Le taux directeur « ne cible pas des secteurs particuliers, comme le logement, ni des régions précises du pays »; la Banque mene la politique monetaire pour l'economie canadienne dans son ensemble."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2020/05/votre-taux-hypothecaire-de-quoi-depend-il/",
+   "title": "Votre taux hypothécaire : de quoi dépend-il?",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "La Banque peut augmenter son taux pour empecher l'inflation de depasser la cible; les modifications du taux directeur font bouger le taux preferentiel, base des taux hypothecaires variables; les taux fixes sont aussi influences par les marches financiers etrangers."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/finances/publications-adm/Rapport_preelectoral/FR/MINFR_RP_2026.pdf",
+   "title": "Rapport préélectoral sur l'état des finances publiques du Québec, août 2026 (dépôt légal 17 août 2026)",
+   "publisher": "Ministère des Finances du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Tableau Perspectives economiques au Quebec: IPC 2,3 % (2024), 2,4 % (2025), 3,0 % (2026), 2,1 % (2027), 2,0 % (2028 a 2030); raisons: recul des prix du petrole et ralentissement de la croissance des prix du logement; scenario de recession: IPC 1,7 % en 2027; rapport de certification du Verificateur general sur la plausibilite des previsions, exige par la Loi sur le ministere des Finances. Le site finances.gouv.qc.ca etait protege par un captcha; PDF lu sur cdn-contenu.quebec.ca."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/finances/publications-adm/rapport/TRIMFR_SIFIN_1T_26-27.pdf",
+   "title": "Rapport sur la situation financière du Québec, 1er trimestre de 2026-2027 (25 septembre 2026)",
+   "publisher": "Ministère des Finances du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Inflation au Quebec de 3,1 % en moyenne pour les huit premiers mois de 2026, apres 2,4 % en 2025, acceleration expliquee notamment par la hausse des prix de l'energie; les previsions reprennent celles du rapport preelectoral du 17 aout 2026."
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260724/dq260724b-eng.htm",
+   "title": "The Daily: Building construction price indexes, second quarter 2026",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-10-21",
+   "supports": "Communique du 24 juillet 2026: cout de construction residentiel +2,5 % au 2e trimestre a Montreal, deuxieme hausse apres Quebec (+2,6 %), parmi 15 RMR; au Quebec, les constructeurs citent les hausses salariales annuelles des syndiques de la construction; l'indice mesure les prix demandes par les entrepreneurs pour construire des batiments neufs, terrain et taxes sur la valeur ajoutee exclus. Lu par la capture web.archive.org du 30 juillet 2026 (20260730064330), www150.statcan.gc.ca etant indisponible le 21 octobre 2026."
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/fr/actualites/detail?code=le-calcul-de-l-ajustement-des-loyers-en-2026",
+   "title": "Le calcul de l'ajustement des loyers en 2026",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-10-21",
+   "supports": "Pourcentages diffuses le 19 janvier 2026; nouvelle methode pour les avis de modification donnes a compter du 1er janvier 2026; tableau pour les baux debutant entre le 2 avril 2026 et le 1er avril 2027; liberte des parties de s'entendre; delai d'un mois apres la reponse du locataire pour saisir le Tribunal, sinon reconduction aux memes conditions; regles particulieres pour un immeuble construit depuis cinq ans ou moins."
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/fr/reconduction-du-bail-et-fixation-de-loyer/pourcentages-applicables-aux-criteres-de-fixation-de-loyer",
+   "title": "Pourcentages applicables aux critères de fixation de loyer",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-10-21",
+   "supports": "Demandes dont l'avis a ete donne a compter du 1er janvier 2026: pourcentage de base pour le loyer 3,1 % (2026); depenses d'immobilisation 5 %."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/T-15.01,%20r.%202",
+   "title": "Règlement sur les critères de fixation de loyer (chapitre T-15.01, r. 2), à jour au 1er juillet 2026",
+   "publisher": "LegisQuébec, gouvernement du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Lu en direct. Art. 1: IPC defini comme l'IPC non desaisonnalise pour l'ensemble du Quebec etabli par Statistique Canada; periode de reference pour les baux se terminant entre le 1er avril et le 31 decembre: l'annee civile precedant le terme du bail. Art. 3.1 (D. 1455-2025): pourcentage de base egal a la moyenne des trois variations annuelles de l'IPC. Art. 3: criteres (taxes, assurances incendie et responsabilite, 5 % des depenses d'immobilisation). Art. 4: le pourcentage de base est soustrait de la variation positive des taxes et des primes, le resultat s'appliquant au montant mensuel."
+  }
+ ],
+ "claims_needing_review": []
+}

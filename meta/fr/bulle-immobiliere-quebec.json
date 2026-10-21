@@ -1,0 +1,145 @@
+{
+ "id": "t286",
+ "slug": "bulle-immobiliere-quebec",
+ "title": "Y a-t-il une bulle immobilière au Québec?",
+ "target_keyword": "bulle immobiliere quebec",
+ "word_count": 1599,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/renting-vs-buying-calculation/",
+  "/articles/montreal-market-crash-analysis/",
+  "/articles/marche-immobilier-laval-secteurs/",
+  "/articles/marche-immobilier-montreal-arrondissements/",
+  "/tools/rent-vs-buy/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 14 octobre 2026, 3e trimestre 2026: prix médian au Québec de 500 000 $ pour l'unifamiliale (+2 %) et de 400 000 $ pour la copropriété (stable); RMR de Montréal: 645 500 $ pour l'unifamiliale (+2 %) et 435 000 $ pour la copropriété (+2 %); citation « à un rythme généralement plus modéré que celui observé au cours des dernières années »; copropriété de l'île « à la frontière entre le marché équilibré et l'avantage des acheteurs »; délai de vente moyen de 61 jours pour la copropriété dans la RMR, 13 de plus qu'un an plus tôt."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Page 7 (RMR): unifamiliale 645 500 $, copropriété 435 000 $ (+2 %). Page 8 (île de Montréal): copropriété 477 500 $. Page 27 (Laval): unifamiliale 630 000 $ (+5 %), copropriété 440 000 $. Prix utilisés dans les deux tableaux de ratios et dans le bilan."
+  },
+  {
+   "url": "https://apciq.ca/stats-septembre-2026-fr/",
+   "title": "RMR de Montréal et de Québec : la route vers un marché plus équilibré se poursuit",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Brève du 2 octobre 2026: dans la RMR de Montréal, « L'inventaire est de 18 % supérieur au niveau moyen depuis 10 ans » en septembre 2026."
+  },
+  {
+   "url": "https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=F&SearchText=Qu%C3%A9bec%20&DGUIDlist=2013A000424003,2021A00052466023,2021A000224&GENDERlist=1,2,3&STATISTIClist=1&HEADERlist=0",
+   "title": "Profil du recensement, Recensement de la population de 2021, Québec [Province]",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-10-21",
+   "supports": "Revenu total médian des ménages en 2020 au Québec: 72 500 $ (ligne « Revenu total médian des ménages en 2020 ($) »). Statistique Canada servait une page « site non disponible » le 2026-10-21: lu par la capture web.archive.org du 2025-03-26 de cette page officielle (http://web.archive.org/web/20250326131556/ suivi de l'URL)."
+  },
+  {
+   "url": "https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&SearchText=Montreal&DGUIDlist=2021S0503462",
+   "title": "Census Profile, 2021 Census of Population, Montréal [Census metropolitan area], Quebec",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-10-21",
+   "supports": "Revenu total médian des ménages en 2020 dans la RMR de Montréal: 76 000 $ (« Median total income of household in 2020 ($) 76,000 »). Lu par la capture web.archive.org du 2024-09-10 de cette page officielle, le site de Statistique Canada étant indisponible le 2026-10-21."
+  },
+  {
+   "url": "https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&SearchText=laval&DGUIDlist=2021A000011124,2021A00052465005&GENDERlist=1,2,3&STATISTIClist=1&HEADERlist=0",
+   "title": "Census Profile, 2021 Census of Population, Laval [Census subdivision], Quebec",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-10-21",
+   "supports": "Revenu total médian des ménages en 2020 à Laval: 85 000 $ (« Median total income of household in 2020 ($) ... 85,000 »). Lu par la capture web.archive.org du 2023-01-20 de cette page officielle, le site de Statistique Canada étant indisponible le 2026-10-21."
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260911/dq260911a-eng.htm",
+   "title": "The Daily, National balance sheet and financial flow accounts, second quarter 2026",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-10-21",
+   "supports": "Diffusion du 11 septembre 2026: « household credit market debt as a proportion of household disposable income declined from 178.6% to 176.4% » au 2e trimestre 2026. Version anglaise lue par la capture web.archive.org du 2026-10-16 de la page officielle (aucune capture de la version française, dq260911a-fra.htm), le site de Statistique Canada étant indisponible le 2026-10-21."
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/n1/pub/46-28-0001/2026001/article/00003-fra.htm",
+   "title": "Investisseurs particuliers et institutionnels dans le marché immobilier canadien",
+   "publisher": "Statistique Canada",
+   "consulted": "2026-10-21",
+   "supports": "Article du Programme de la statistique du logement canadien, « Date de diffusion : le 7 juillet 2026 »: l'analyse porte sur l'année de référence 2022 « dans les provinces de l'Île-du-Prince-Édouard, de la Nouvelle-Écosse, du Nouveau-Brunswick, de l'Ontario, du Manitoba et de la Colombie-Britannique », donc sans le Québec. Lu par la capture web.archive.org du 2026-07-15 de la page officielle."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/publication/rapport-sur-la-stabilite-financiere/rapport-sur-la-stabilite-financiere-2026/menages/",
+   "title": "Rapport sur la stabilité financière - 2026, Ménages",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Rapport du 28 mai 2026: citation « L'endettement des ménages demeure élevé, mais en deçà de son sommet de 2022 »; part des emprunteurs hypothécaires avec un compte en souffrance depuis plus de 60 jours « à 1,3 % »; « le prix d'une maison typique a diminué d'environ 5 % au cours des 12 derniers mois, et de 20 % depuis le sommet de 2022 », recul « particulièrement prononcé en Ontario et en Colombie-Britannique »; note 5: « Le revenu disponible nominal moyen des ménages a augmenté d'environ 16 % entre 2021 et 2025 »."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/taux/indicateurs/indicateurs-de-stabilite-financiere/",
+   "title": "Indicateurs de stabilité financière",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Liste des indicateurs suivis (service de la dette hypothécaire, ratio prêt-revenu, achats-reventes, attentes de prix). « La Banque s'appuie sur la part des nouveaux prêts hypothécaires dont le RPR est supérieur à 450 % pour repérer les ménages les plus vulnérables. » Définition des achats-reventes: part des logements revendus dans les 6 ou 12 mois suivant leur achat, en moyenne mobile sur 12 mois. Mise en garde sur les attentes: « il est plus utile de s'attarder aux variations des attentes dans le temps plutôt qu'à leurs niveaux absolus »."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/valet/observations/group/FVI_LOAN_TO_INCOME_RATIO_ALL/csv",
+   "title": "Ratio prêt-revenu (données du graphique des indicateurs de stabilité financière)",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Série FVI_MTG_LTI450_ALL_MI_RESL2 (ensemble de données amélioré RESL2): 11,92 % au 2e trimestre 2026. Série FVI_MTG_LTI450_ALL (RESL1, dernière donnée au 1er trimestre 2024): sommet de 25,08 % au 1er trimestre 2022. Recoupement 2023T3 à 2024T1: 11,89/11,17, 9,93/9,24, 11,06/10,33, écarts de moins d'un point."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/valet/observations/group/FVI_HOUSE_FLIPPING_ACTIVITY/csv",
+   "title": "Opérations d'achat-revente (données du graphique des indicateurs de stabilité financière)",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "« Sources : Teranet, Banque Nationale et calculs de la Banque du Canada ». Part des logements revendus dans les 12 mois, RMR de Montréal: 0,89 % au 2e trimestre 2026, sommet de 1,88 % au 3e trimestre 2022; Canada: 1,64 % au 2e trimestre 2026."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/valet/observations/group/FVI_HOUSE_PRICE_EXPECTATIONS_CSCE/csv",
+   "title": "Attentes relatives aux prix des logements, Enquête sur les attentes des consommateurs au Canada (données du graphique)",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Série FVI_CSCE_QC, hausse attendue des prix moyens des logements dans 12 mois, Québec: 5,02 % au 2e trimestre 2026 (dernière donnée de la série au 2026-10-21), 8,60 % au 2e trimestre 2021."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/marches-de-lhabitation/rapports-sur-le-marche-de-lhabitation/evaluation-du-marche-de-lhabitation",
+   "title": "Évaluation du marché de l'habitation - Canada et régions métropolitaines",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "« nous avons décidé de mettre fin à notre rapport Évaluation du marché de l'habitation »; renvoi au Centre du savoir sur le logement pour les éditions antérieures; « Date de publication : 8 mars 2022 »."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/fr/housing-observer-online/2020-housing-observer/evidence-overvaluation-remains-moderate",
+   "title": "Les signes de surévaluation demeurent modérés",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "L'Observateur du logement, 20 février 2020: l'Évaluation, « publiée chaque trimestre », « tient compte de 4 principaux facteurs : la surchauffe, l'accélération de la croissance des prix, la surévaluation et la construction excessive »; rapport du 1er trimestre 2020: « Le degré de vulnérabilité globale demeure faible à Ottawa, Montréal [...] Cependant, des signes de surchauffe persistent sur les marchés de la revente de Montréal »."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/marches-de-lhabitation/rapports-sur-le-marche-locatif",
+   "title": "Rapport sur le marché locatif 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Publié le 11 décembre 2025. Section Montréal: taux d'inoccupation de 2,9 %; hausse de 7,2 % du loyer d'un deux chambres, accélération « principalement attribuable aux unités dont les baux ont été renouvelés »; détente expliquée par « une offre en forte croissance, combinée à un ralentissement de la demande », ralentissement qui « s'explique principalement par la baisse du nombre de résidents non permanents »."
+  },
+  {
+   "url": "https://assets.cmhc-schl.gc.ca/sites/cmhc/professional/housing-markets-data-and-research/housing-data-tables/rental-market/rental-market-report-data-tables/2025/rmr-montreal-2025-fr.xlsx?rev=95413ae7-df32-47f3-a84e-d805c7bd4cbf",
+   "title": "Enquête sur les logements locatifs, Montréal, 2025 (classeur de données)",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Tableau 4.1.2 (octobre 2025): loyer moyen d'un appartement en copropriété offert en location de 2 chambres, 1 826 $ (RMR), 2 064 $ (île), 1 729 $ (Laval). Tableau 4.1.3: 1 724 $ en octobre 2024 dans la RMR. Tableau 4.1.1: inoccupation des appartements visés par l'ELL, RMR, 2,1 % en 2024 et 2,9 % en 2025. Tableau 4.3.1: 233 535 copropriétés dans la RMR, 51 119 offertes en location, 21,9 % (21,7 % en 2024). Tableau 1.1.5: 7,2 % pour un deux chambres dans la RMR."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/donnees-sur-le-logement/tableaux-de-donnees/donnees-sur-le-marche-de-lhabitation/donnees-mensuelles-sur-les-mises-en-chantier-et-la-construction",
+   "title": "Données mensuelles sur les mises en chantier et la construction",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Classeur monthly-housing-starts-tables-2026-09-fr.xlsx, Tableau 2: RMR de Montréal, 19 028 mises en chantier de janvier à septembre 2026 contre 19 331 en 2025. Tableau 16: logements achevés mais non écoulés publiés seulement pour l'ensemble des régions métropolitaines, grands centres urbains et agglomérations du pays, sans détail pour Montréal."
+  }
+ ],
+ "claims_needing_review": []
+}

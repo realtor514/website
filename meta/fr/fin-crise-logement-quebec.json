@@ -1,0 +1,104 @@
+{
+ "id": "t297",
+ "slug": "fin-crise-logement-quebec",
+ "title": "Quand finira la crise du logement au Québec?",
+ "target_keyword": "quand finira la crise du logement",
+ "word_count": 1798,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/tools/rent-vs-buy/",
+  "/articles/renting-vs-buying-calculation/",
+  "/articles/new-construction-guide-quebec/",
+  "/articles/income-property-beginners/",
+  "/articles/marche-immobilier-montreal/",
+  "/articles/marche-immobilier-laval-secteurs/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/marches-de-lhabitation/rapports-sur-le-marche-locatif",
+   "title": "Rapport sur le marché locatif 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Édition la plus récente en ligne le 2026-10-21: « Date de publication : 11 décembre 2025 », enquête d'octobre 2025. RMR de Québec: taux d'inoccupation de 2,4 %. Gatineau: moyenne de 3,8 % (tableau 1.1.1). Section Montréal: taux de 2,9 %, détente attribuée à la hausse des achèvements et, pour la demande, « principalement » à la baisse du nombre de résidents non permanents; taux d'inoccupation des logements nouvellement construits nettement au-dessus de la moyenne; « des promotions sont parfois offertes (mois gratuits) »; accélération des loyers « principalement attribuable aux unités dont les baux ont été renouvelés ». Page lue en curl avec agent de navigateur."
+  },
+  {
+   "url": "https://assets.cmhc-schl.gc.ca/sites/cmhc/professional/housing-markets-data-and-research/housing-data-tables/rental-market/rental-market-report-data-tables/2025/rmr-montreal-2025-fr.xlsx?rev=95413ae7-df32-47f3-a84e-d805c7bd4cbf",
+   "title": "Enquête sur les logements locatifs, Montréal, 2025 (classeur de données du Rapport sur le marché locatif)",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Tableau 1.1.1, colonne « Tous les appartements »: RMR de Montréal 2,1 % (oct. 2024) et 2,9 % (oct. 2025, cote a, hausse significative); île de Montréal 2,0 % et 3,1 % (hausse significative); Laval 2,4 % et 3,4 % (variation non significative). Tableau 1.4, tous les appartements, octobre 2025: RMR de Montréal 1,3 % au 1er quartile de loyer (cote a) et 4,9 % au 4e quartile (cote b); Laval 0,8 % (cote a) et 7,7 % (cote c). Classeur téléchargé et lu le 2026-10-21; concorde avec state/marche_T3_2026/contexte_commun.md, section 4.1."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/observateur-logement/2026/mise-a-jour-sur-le-marche-locatif-de-mi-annee-2026",
+   "title": "Mise à jour sur le marché locatif de mi-année 2026",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Qui définit le seuil de 3 %: aucune source officielle; la SCHL écrit « Un taux d’inoccupation de 3 % est le seuil utilisé depuis longtemps dans le secteur de l’habitation pour mesurer l’équilibre du marché locatif. Toutefois, notre analyse montre que ce seuil ne fonctionne pas pour tous les marchés ni pour toutes les périodes. » Définition de la fourchette d'équilibre (croissance des loyers corrigée de l'inflation proche de zéro). Figure 2: Montréal, limite inférieure 2,5 %, limite supérieure 4,0 %, taux 2025 de 2,9 %; estimations qualifiées de préliminaires. « Date de publication : 9 juin 2026 »."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/marches-de-lhabitation/rapports-sur-le-marche-de-lhabitation/rapport-sur-loffre-de-logements",
+   "title": "Rapport sur l’offre de logements, automne 2026",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Édition la plus récente de l'estimation des écarts dans l'offre (« Date de publication : 10 septembre 2026 »), horizon 2036, cible: niveaux d'abordabilité de 2019. Tableau 1: Montréal, statu quo 22 000, limites 64 000 et 78 000, écart 42 000 à 56 000; Canada, 231 000, 417 000 à 469 000, écart 187 000 à 238 000; six RMR seulement, aucun chiffre pour le reste du Québec. Montréal: écart élargi depuis l'estimation de 2025; « la croissance des prix a réduit l’abordabilité plus que la croissance de l’offre n’a pu l’améliorer »; « il faudrait encore plus que tripler le taux annuel actuel de mises en chantier »; rapport coût-revenu passé de 34 à 48 %, « son plus haut niveau depuis les années 1990 »; logements locatifs à 86 % des mises en chantier au premier semestre de 2026, un record; copropriétés neuves « de 20 à 40 % supérieurs » aux logements comparables de la revente; mises en chantier de copropriétés près de leurs creux pluriannuels. National: logements manquants « de plus en plus concentrés dans le segment de la propriété »; demande soutenue au cours de la prochaine décennie; « Le principal risque est que l’offre de logements neufs soit insuffisante lorsque la demande se redressera. »"
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/recherche-sur-le-logement/rapports-de-recherche-en-habitation/accroitre-loffre-de-logements/penurie-logements-canada-nouveau-cadre-danalyse",
+   "title": "Pénurie de logements au Canada : un nouveau cadre d’analyse",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Dernière estimation qui chiffre le « Reste du Québec » (« Date de publication : 19 juin 2025 »): figure 12, 23 229 mises en chantier par an dans le scénario du statu quo et dans celui de l'accélération de la croissance de l'offre (0 supplémentaire, figure 19). Citation sur les ratios d'abordabilité: « Ces chiffres ne sont pas des cibles gouvernementales. »"
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/donnees-sur-le-logement/tableaux-de-donnees/donnees-sur-le-marche-de-lhabitation/donnees-mensuelles-sur-les-mises-en-chantier-et-la-construction",
+   "title": "Données mensuelles sur les mises en chantier et la construction",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Données de septembre 2026, « Date de publication : 16 octobre 2026 »: « À Montréal, la tendance sur six mois a diminué de 8 % d’un mois à l’autre, en raison de la baisse des mises en chantier de logements collectifs. » Classeur lié (monthly-housing-starts-tables-2026-09-fr.xlsx?rev=998a285a-0683-4ae7-8dae-2c39be362fd2), tableau 2, janvier à septembre, centres de 10 000 habitants et plus: Qc 37 782 (2025) et 39 071 (2026), +3,41 %; Ont. 46 111 et 43 994, -4,59 %; RMR de Montréal 19 331 et 19 028, -1,57 %. Tableau 1, septembre seulement: RMR de Montréal 2 610 et 1 266."
+  },
+  {
+   "url": "https://assets.cmhc-schl.gc.ca/sites/cmhc/professional/housing-markets-data-and-research/housing-data-tables/housing-market-data/monthly-housing-starts-construction-data-tables/2025/monthly-housing-starts-tables-2025-12-fr.xlsx",
+   "title": "Mises en chantier mensuelles et autres données sur la construction résidentielle, décembre 2025 (tableau 2, janvier à décembre 2024 et 2025)",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Totaux annuels, centres de 10 000 habitants et plus: Qc 41 221 (2024) et 54 220 (2025), +31,53 %; RMR de Montréal 17 570 et 27 777, +58,09 %. Les chiffres 2024 et 2025 de la RMR concordent avec le tableau des prévisions des Perspectives de l'été 2026."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/observateur-logement/2026/mise-a-jour-ete-perspectives-marche-habitation-2026",
+   "title": "Perspectives du marché de l’habitation au Canada : été 2026",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Projections pour la RMR de Montréal, édition la plus récente (« Date de publication : 22 juillet 2026 », information disponible au 23 juin 2026): taux d'inoccupation 3,8 % (2026), 4,5 % (2027), 4,8 % (2028); mises en chantier, scénario de référence, 24 600 (2026), 22 000 (2027), 20 500 (2028). Citées comme projections."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/marches-de-lhabitation/rapports-sur-le-marche-de-lhabitation/perspectives-du-marche-de-lhabitation",
+   "title": "Perspectives du marché de l’habitation 2026",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Édition du 10 février 2026 (information au 15 janvier 2026). Montréal: « De toutes les régions métropolitaines du Québec, elle est la plus touchée par le solde négatif des résidents non permanents », décroissance démographique attendue; « La détente du marché a été plus forte que prévu en 2025, si bien que les prévisions du taux d’inoccupation ont été revues à la hausse »; prévision du taux d'inoccupation de 4,2 % pour 2027, relevée à 4,5 % dans l'édition de l'été 2026."
+  },
+  {
+   "url": "https://statistique.quebec.ca/fr/communique/projections-demographiques-2026-stabilisation-population-maintenu-disparites-regionales-subsistent",
+   "title": "Projections démographiques 2026 : le scénario d’une stabilisation de la population du Québec est maintenu, les disparités régionales subsistent",
+   "publisher": "Institut de la statistique du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 9 juillet 2026: baisse d'environ 50 000 personnes (-0,6 %) entre 2025 et 2029, surtout en raison de la réduction attendue de l'immigration temporaire; hausse de 0,7 % des besoins en logement liés à la démographie sur la même période; projections qui « ne sont donc pas des prévisions ou des prédictions »; île de Montréal = région administrative de Montréal."
+  },
+  {
+   "url": "https://statistique.quebec.ca/fr/fichier/perspectives-demographiques-quebec-et-regions-edition-2026.pdf",
+   "title": "Perspectives démographiques du Québec et de ses régions, mise à jour 2026",
+   "publisher": "Institut de la statistique du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Page 12: baisse de population de 0,6 % et hausse des besoins en logement de 0,7 % entre 2025 et 2029, définition des besoins (ménages privés et personnes en logement collectif), explication par la structure d'âge (le nombre moyen d'unités de logement par habitant s'accroît avec l'âge); RA de Montréal: population -6,9 %, besoins en logement -5,3 %. Note de la figure 7: les résultats n'incluent pas « le manque à combler pour atteindre une meilleure abordabilité ». Page 16: résidents non permanents, environ 562 000 au 1er juillet 2025, 375 000 au 1er juillet 2030 dans l'hypothèse centrale. PDF lu par pdftotext."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/immigration/publications-adm/plan-immigration/PL_immigration_2026_MIFI.pdf",
+   "title": "Plan annuel d’immigration 2026 (Plan d’immigration du Québec 2026)",
+   "publisher": "Ministère de l’Immigration, de la Francisation et de l’Intégration",
+   "consulted": "2026-10-21",
+   "supports": "Section 5.2.2: objectifs d'admission permanente 2026 par catégorie, qui totalisent 43 000 à 47 000 (économique 27 500 à 30 100, regroupement familial 9 600 à 10 400, réfugiés 5 500 à 6 000, autres 400 à 500); « environ 45 000 personnes résidentes permanentes annuellement ». Section 5.1.2: fourchette planifiée de 48 500 à 51 500 admissions régulières pour 2025. Orientations: maximum de 65 000 travailleurs étrangers temporaires et de 110 000 étudiants étrangers sur le territoire en 2029; resserrement « en vue de diminuer une partie de la pression observée ces dernières années sur l’accès aux logements ». PDF lu par pdftotext."
+  }
+ ],
+ "claims_needing_review": []
+}

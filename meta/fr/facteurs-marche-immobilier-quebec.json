@@ -1,0 +1,167 @@
+{
+ "id": "t291",
+ "slug": "facteurs-marche-immobilier-quebec",
+ "title": "Quels facteurs influencent le marché immobilier au Québec?",
+ "target_keyword": "facteurs qui influencent le marche immobilier",
+ "word_count": 1795,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/interest-rates-montreal-market/",
+  "/articles/marche-immobilier-laval-secteurs/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/articles/marche-immobilier-montreal/",
+  "/articles/mortgage-preapproval-mistakes/",
+  "/tools/affordability/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+   "title": "Taux directeur",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Taux directeur de 2,25 % maintenu le 2 septembre 2026; inchangé depuis la baisse de 0,25 point annoncée le 29 octobre 2025; six annonces de 2026 (28 janvier, 18 mars, 29 avril, 10 juin, 15 juillet, 2 septembre) toutes à 2,25 (tableau « Données récentes » relu en curl le 2026-10-21, aucune annonce postérieure au 2 septembre). Huit dates préétablies par an. Calendrier 2026: 28 octobre et 9 décembre. Note du tableau: « À partir de 2021, les changements prennent effet le jour suivant leur annonce. » Ligne Taux court du tableau, paragraphe Le taux directeur, section Ce que les facteurs ne disent pas, FAQ Quand sortent les prochains chiffres."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/taux/taux-dinteret/obligations-canadiennes/",
+   "title": "Rendements des obligations",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Rendements des obligations de référence du gouvernement du Canada, série quotidienne (« Business daily ») téléchargée par l'interface Valet de la Banque à laquelle renvoie la page (https://www.banqueducanada.ca/valet/observations/BD.CDN.5YR.DQ.YLD,BD.CDN.10YR.DQ.YLD/json): 3,62 % à 5 ans et 3,90 % à 10 ans le 2026-10-20, dernière observation disponible le 2026-10-21. Ligne Taux obligataires du tableau."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/03/article-sparks-et-bank-2026-9/",
+   "title": "L'augmentation de la prime de terme au Canada dans le contexte mondial (Article de Sparks et Bank, mars 2026)",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Citation: « Les rendements des obligations d'État à long terme jouent un rôle crucial dans l'économie, car ils influent directement sur les taux hypothécaires et les taux des prêts aux entreprises. » et « depuis septembre 2024, les rendements des obligations d'État à long terme sont restés élevés, même si les banques centrales ont abaissé leur taux directeur ». Article signé par trois économistes de la Banque (Trostin, Ketcheson, Diez de los Rios), attribué comme tel dans le texte. Paragraphe Les rendements obligataires."
+  },
+  {
+   "url": "https://www.osfi-bsif.gc.ca/fr/surveillance/institutions-financieres/banques/taux-admissible-minimal-pour-prets-hypothecaires-non-assures",
+   "title": "Taux admissible minimal pour les prêts hypothécaires non assurés",
+   "publisher": "Bureau du surintendant des institutions financières (BSIF)",
+   "consulted": "2026-10-21",
+   "supports": "« Taux actuel : La valeur la plus élevée entre le taux hypothécaire contractuel majoré de 2 %, et 5,25 %. » Exigence imposée aux prêteurs fédéraux. « Nous examinons le taux admissible minimal (coussin et plancher) pour les prêts hypothécaires non assurés au moins une fois par année. » Date de modification: 2026-01-29. Ligne Crédit non assuré du tableau et paragraphe Le test de résistance."
+  },
+  {
+   "url": "https://www.osfi-bsif.gc.ca/fr/surveillance/institutions-financieres/banques/limites-associees-au-ratio-pret-revenu-sappliquant-portefeuilles-prets-hypothecaires-non-assures",
+   "title": "Limites associées au ratio prêt-revenu s'appliquant aux portefeuilles de prêts hypothécaires non assurés",
+   "publisher": "Bureau du surintendant des institutions financières (BSIF)",
+   "consulted": "2026-10-21",
+   "supports": "Limite sur le volume de nouveaux prêts non assurés dépassant 4,5 fois le ratio prêt-revenu; « Elle ne vaut pas pour chaque prêt individuel »; « Les limites associées au RPR sont entrées en vigueur au début de l'exercice 2025 de chaque institution ». Citation: « Comme on a pu le constater en 2020 et en 2021, la faiblesse des taux d'intérêt a augmenté la capacité d'emprunt et exercé une pression à la hausse sur le prix des logements. » Paragraphe La limite prêt-revenu et FAQ Qu'est-ce qui fait monter le prix des maisons."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/financement-de-projets-et-financement-hypothecaire/assurance-pret-hypothecaire/aph-po-et-petits-immeubles-locatifs/achat",
+   "title": "SCHL Achat",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "« Le prix d'achat maximal/la valeur d'emprunt maximale ou la valeur de la propriété rénovée doit être inférieur à 1 500 000 $ pour les prêts pour propriétaires-occupants. La période d'amortissement maximale est de 25 ans. (Les acheteurs peuvent être amissibles à une période d'amortissement de 30 ans grâce au produit SCHL Premier chez-soi.) » Seuils maximaux: ABD 39 %, ATD 44 %, « calculés selon le plus élevé entre le taux d'intérêt contractuel majoré de 2 % et un taux plancher établi à 5,25 % ». Ligne Crédit assuré du tableau, paragraphes Les prêts assurés et Le revenu fixe le montant du prêt."
+  },
+  {
+   "url": "https://assets.cmhc-schl.gc.ca/sites/cmhc/professional/project-funding-and-mortgage-financing/mortgage-loan-insurance/mortgage-loan-insurance-homeownership-programs/home-start/home-start-fact-sheet-fr.pdf?rev=a883b9bb-0238-442a-93fd-09b7d24a0166",
+   "title": "SCHL Premier chez-soi: Aider les acheteurs à l'accession à la propriété (feuillet d'information)",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Premier chez-soi permet aux acheteurs d'une première propriété ou d'une propriété nouvellement construite une période d'amortissement pouvant atteindre 30 ans; le RPV doit être supérieur à 80 %. Précise « premier achat ou du neuf » dans le tableau et le paragraphe Les prêts assurés."
+  },
+  {
+   "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2024/09/le-gouvernement-annonce-les-reformes-hypothecaires-les-plus-audacieuses-des-dernieres-decennies-pour-aider-un-plus-grand-nombre-de-canadiennes-et-d.html",
+   "title": "Le gouvernement annonce les réformes hypothécaires les plus audacieuses des dernières décennies pour aider un plus grand nombre de Canadiennes et de Canadiens à devenir propriétaires",
+   "publisher": "Ministère des Finances du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 16 septembre 2024: « Augmentation du prix plafond de 1 million de dollars pour les prêts hypothécaires assurés à 1,5 million de dollars », élargissement de l'amortissement sur 30 ans aux premiers acheteurs et aux acheteurs d'une propriété nouvellement construite, « à compter du 15 décembre 2024 ». Lu par WebFetch le 2026-10-21: curl, y compris avec --http1.1, n'a reçu aucun octet de canada.ca (renégociation TLS puis délai dépassé). La page anglaise équivalente, lue elle aussi par WebFetch, donne les mêmes trois éléments et la date du 16 septembre 2024. Le maintien de ces règles en octobre 2026 est confirmé par la page SCHL Achat ci-dessus. Paragraphe Les prêts assurés et colonne Diffusion de la ligne Crédit assuré."
+  },
+  {
+   "url": "https://statistique.quebec.ca/fr/document/resultats-de-lenquete-sur-la-population-active-pour-le-quebec/publication/resultats-enquete-population-active-quebec",
+   "title": "Résultats de l'Enquête sur la population active pour le Québec au mois de septembre 2026",
+   "publisher": "Institut de la statistique du Québec (données de Statistique Canada, Enquête sur la population active)",
+   "consulted": "2026-10-21",
+   "supports": "Diffusion du 9 octobre 2026: 4 539 300 emplois au Québec en septembre 2026 (-49 400, -1,1 %), taux de chômage de 6,0 % (+0,4 point). Mise en garde: estimations fondées sur un échantillon et sujettes à une variabilité statistique. Tableaux de la publication: « Emploi et taux de chômage, Québec, Canada, provinces canadiennes et RMR de Montréal » (tableau 4089, mis à jour le 9 octobre 2026) et « Principaux indicateurs du marché du travail et rémunération moyenne, Québec et Canada ». « Prochaine mise à jour : 6 novembre 2026 ». Le site de Statistique Canada affichait une page d'indisponibilité le 2026-10-21; l'ISQ reprend ces données « à partir des données diffusées par Statistique Canada ». Ligne Emploi du tableau, section L'emploi et les revenus, FAQ Quand sortent les prochains chiffres."
+  },
+  {
+   "url": "https://statistique.quebec.ca/fr/document/population-et-structure-par-age-et-sexe-le-quebec",
+   "title": "Population et structure par âge et genre - Le Québec",
+   "publisher": "Institut de la statistique du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Indicateur clé « 9,07 M (2026ᵖ) »; tableaux détaillés, dont « Population et composantes de l'accroissement démographique, par trimestre, Québec, 2001-2026 », mis à jour le 2026-09-23. Colonnes Fréquence (trimestrielle) et Diffusion de la ligne Population."
+  },
+  {
+   "url": "https://statistique.quebec.ca/en/fichier/tableau-statistique-canadien-demography.pdf",
+   "title": "Tableau statistique canadien, 1. La démographie (mise à jour : 9 octobre 2026)",
+   "publisher": "Institut de la statistique du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Carte 1.1, « Estimation trimestrielle de la population au 1er juillet 2026 »: Québec 9 067 114; tableau 1.3: Québec 9 051,0 milliers au 1er juillet 2025 et 9 067,1 milliers en 2026 (écart d'environ 16 100); « Estimations postcensitaires provisoires. Source : Statistique Canada, Estimations démographiques (septembre 2026). » Le fichier est servi sous un chemin /en/ mais son contenu est en français. Ligne Population du tableau et paragraphe La population."
+  },
+  {
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/planification-pluriannuelle-et-plan-dimmigration-2026-quebec-baisse-ses-seuils-dimmigration-66857",
+   "title": "Planification pluriannuelle et plan d'immigration 2026 - Québec baisse ses seuils d'immigration",
+   "publisher": "Cabinet du ministre de l'Immigration, de la Francisation et de l'Intégration, Gouvernement du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 6 novembre 2025: plan déposé à l'Assemblée nationale; « Plan d'immigration du Québec pour 2026 : admission de 45 000 personnes résidentes permanentes », dont 28 800 en immigration économique. Demande au fédéral de « réduire à 200 000 le nombre de résidents non permanents au Québec », réduction à concentrer « principalement à Montréal et à Laval ». Page lue en curl avec agent de navigateur. Ligne Immigration du tableau, paragraphes L'immigration permanente et Les résidents non permanents."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/I-0.2.1",
+   "title": "Loi sur l'immigration au Québec (RLRQ, c. I-0.2.1)",
+   "publisher": "LégisQuébec, Gouvernement du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Article 5, lu en direct (« À jour au 12 août 2026 »): le ministre établit un plan annuel d'immigration; « Le plan est déposé à l'Assemblée nationale au plus tard le 1er novembre de chaque année ou, si elle ne siège pas, dans les 15 jours suivant la reprise de ses travaux. » Fréquence annuelle de la ligne Immigration, paragraphe L'immigration permanente, FAQ Quand sortent les prochains chiffres."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/donnees-sur-le-logement/tableaux-de-donnees/donnees-sur-le-marche-de-lhabitation/donnees-mensuelles-sur-les-mises-en-chantier-et-la-construction",
+   "title": "Données mensuelles sur les mises en chantier et la construction",
+   "publisher": "SCHL",
+   "consulted": "2026-10-19",
+   "supports": "Fait vérifié dans state/marche_T3_2026/contexte_commun.md (section 4.2). Publication du 16 octobre 2026; classeur monthly-housing-starts-tables-2026-09-fr.xlsx, Table 2: RMR de Montréal, janvier à septembre 2026, 19 028 mises en chantier contre 19 331 (-1,567 %), dont 910 maisons individuelles et 18 118 autres. Page: « À Montréal, la tendance sur six mois a diminué de 8 % d'un mois à l'autre, en raison de la baisse des mises en chantier de logements collectifs. » Ligne Offre neuve, paragraphe Les mises en chantier, FAQ sur les mises en chantier."
+  },
+  {
+   "url": "https://apciq.ca/stats-septembre-2026-fr/",
+   "title": "RMR de Montréal et de Québec : la route vers un marché plus équilibré se poursuit",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-19",
+   "supports": "Fait vérifié dans state/marche_T3_2026/contexte_commun.md (section 2.1). Communiqué du 2 octobre 2026: « La remontée de l'offre (+20 %) se poursuit pour un 14e mois consécutif » et « L'inventaire est de 18 % supérieur au niveau moyen depuis 10 ans, ce qui atténue la pression sur les prix. » Paragraphe Les inscriptions en vigueur et FAQ Qu'est-ce qui fait monter le prix des maisons."
+  },
+  {
+   "url": "https://comapciqca-152af.kxcdn.com/fsmi-stats/mensuelles/2026/stats-202609-fr.pdf",
+   "title": "FSMI statistiques mensuelles, Septembre 2026",
+   "publisher": "APCIQ (par le système Centris)",
+   "consulted": "2026-10-19",
+   "supports": "Fait vérifié dans state/marche_T3_2026/contexte_commun.md (section 2.2). RMR de Montréal, septembre 2026: 21 793 inscriptions en vigueur (+20 %), page 4; Laval: 1 728 inscriptions en vigueur (+18 %), page 6. Ligne Offre de revente du tableau et paragraphe Les inscriptions en vigueur."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-19",
+   "supports": "Fait vérifié dans state/marche_T3_2026/contexte_commun.md (section 2.5). Page 65, « Définitions et notes explicatives »: mois d'inventaire = inventaire divisé par la moyenne des ventes des 12 derniers mois; moins de 8 mois, favorable aux vendeurs; 8 à 10, équilibré; plus de 10, favorable aux acheteurs. Paragraphe Le ratio qui relie l'offre aux ventes."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/marches-de-lhabitation/rapports-sur-le-marche-locatif",
+   "title": "Rapport sur le marché locatif 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Relu en curl le 2026-10-21: « Date de publication : 11 décembre 2025 », toujours le rapport le plus récent en ligne; section Montréal: taux d'inoccupation de 2,9 %, loyer moyen d'un deux chambres de 1 346 $, en hausse de 7,2 %. La détente « s'explique par une offre en forte croissance, combinée à un ralentissement de la demande »; « Ce ralentissement s'explique principalement par la baisse du nombre de résidents non permanents »; « La hausse des achèvements, découlant des mises en chantier record des dernières années, a contribué à détendre le marché locatif dans l'ensemble de la région. » Ligne Loyers du tableau, paragraphes Le marché locatif, Les résidents non permanents et Ils n'agissent pas au même rythme, FAQ sur l'immigration."
+  },
+  {
+   "url": "https://assets.cmhc-schl.gc.ca/sites/cmhc/professional/housing-markets-data-and-research/housing-data-tables/rental-market/rental-market-report-data-tables/2025/rmr-montreal-2025-fr.xlsx?rev=95413ae7-df32-47f3-a84e-d805c7bd4cbf",
+   "title": "Enquête sur les logements locatifs, Montréal, 2025 (tableau 1.1.1)",
+   "publisher": "SCHL",
+   "consulted": "2026-10-19",
+   "supports": "Fait vérifié dans state/marche_T3_2026/contexte_commun.md (section 4.1). Taux d'inoccupation des appartements d'initiative privée, RMR de Montréal: 2,1 % en octobre 2024, 2,9 % en octobre 2025. Paragraphe Le marché locatif (« contre 2,1 % un an plus tôt »)."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-15.1",
+   "title": "Loi concernant les droits sur les mutations immobilières (RLRQ, c. D-15.1)",
+   "publisher": "LégisQuébec, Gouvernement du Québec",
+   "consulted": "2026-10-19",
+   "supports": "Fait vérifié dans state/marche_T3_2026/contexte_commun.md (section 5), « À jour au 12 août 2026 ». Article 2: 0,5 % jusqu'à 62 900 $, 1 % jusqu'à 315 000 $, 1,5 % au-delà (montants de l'exercice 2026); base d'imposition = le plus élevé de la contrepartie fournie, de la contrepartie stipulée et de la valeur marchande; une municipalité peut fixer un taux supérieur sur la tranche qui excède 500 000 $, sans dépasser 3 %, sauf la Ville de Montréal. Article 2.1: indexation annuelle des seuils. Calcul du rédacteur pour 500 000 $: 314,50 $ + 2 521 $ + 2 775 $ = 5 610,50 $. Ligne Fiscalité et paragraphe Les droits de mutation."
+  },
+  {
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/montants-permettant-detablir-les-tranches-de-la-base-dimposition-des-droits-sur-les-mutations-immobilieres-exercice-2027-72131",
+   "title": "Montants permettant d'établir les tranches de la base d'imposition des droits sur les mutations immobilières - Exercice 2027",
+   "publisher": "Ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-10-19",
+   "supports": "Fait vérifié dans state/marche_T3_2026/contexte_commun.md (section 5). Pour l'exercice 2027, les seuils passent de 62 900 $ à 64 400 $ et de 315 000 $ à 322 600 $. Paragraphe Les droits de mutation."
+  }
+ ],
+ "claims_needing_review": []
+}

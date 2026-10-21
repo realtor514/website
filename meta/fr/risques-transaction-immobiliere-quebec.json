@@ -1,0 +1,161 @@
+{
+ "id": "t289",
+ "slug": "risques-transaction-immobiliere-quebec",
+ "title": "Quels sont les risques d'une transaction immobilière?",
+ "target_keyword": "risques transaction immobiliere",
+ "word_count": 1792,
+ "category": "Immobilier 101",
+ "internal_links": [
+  "/articles/mortgage-preapproval-mistakes/",
+  "/articles/vente-sans-garantie-legale-quebec/",
+  "/articles/worst-real-estate-deal-lessons/",
+  "/articles/quebec-notary-process/",
+  "/articles/red-flags-walk-away-property/",
+  "/advantages/integri-t/",
+  "/tools/closing-costs/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, articles 1711, 1712, 1726, 1732, 2726 et 2727",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Art. 1711: toute somme versée à l'occasion d'une promesse de vente est présumée être un acompte sur le prix, à moins que le contrat n'en dispose autrement. Art. 1712: le défaut de passer titre confère au bénéficiaire de la promesse le droit d'obtenir un jugement qui en tienne lieu. Art. 1726: garantie contre les vices cachés, sauf le vice caché connu de l'acheteur et le vice apparent (constatable par un acheteur prudent et diligent; l'article ajoute « sans avoir besoin de recourir à un expert », rendu dans l'article par « lui-même »). Art. 1732: les parties peuvent exclure entièrement la garantie légale, mais le vendeur ne peut se dégager de ses faits personnels. Art. 2726: l'hypothèque légale des personnes ayant participé à la construction ou à la rénovation existe sans qu'il soit nécessaire de la publier. Art. 2727: elle subsiste sans publication pendant les 30 jours qui suivent la fin des travaux. Lu en direct par tools/ccq.py, aucune archive."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-73.2",
+   "title": "Loi sur le courtage immobilier (RLRQ, c. C-73.2), articles 8, 10 et 108",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Art. 10: toute somme reçue par un courtier dans l'exercice de ses fonctions et qui ne lui appartient pas doit être versée dans un compte en fidéicommis. Art. 8: le courtier doit acquitter la prime d'assurance de responsabilité civile fixée par l'Organisme au fonds d'assurance. Art. 108: le Fonds d'indemnisation du courtage immobilier est affecté au paiement des indemnités aux victimes de fraude, de manoeuvres dolosives ou de détournement de fonds dont est responsable un titulaire de permis. Texte à jour au 12 août 2026, lu en direct en curl."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-73.2,%20r.%205",
+   "title": "Règlement sur le Fonds d'indemnisation du courtage immobilier (RLRQ, c. C-73.2, r. 5)",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Art. 6: réclamation par écrit, faits, montant réclamé avec preuve, titulaire visé. Art. 7: réclamation au plus tard 2 ans après la connaissance de la fraude, de la manoeuvre dolosive ou du détournement; prolongation possible si le réclamant démontre une cause ne dépendant pas de sa volonté. Art. 14: indemnité de 100 000 $ par réclamation au plus pour l'acte commis à compter du 10 mai 2018. Texte à jour au 1er juillet 2026, lu en direct en curl."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vos-protections/fici/",
+   "title": "FICI : le Fonds d'indemnisation du courtage immobilier",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-21",
+   "supports": "Plafond de 100 000 $ par réclamation pour un acte commis le 10 mai 2018 ou après; réclamation dans les deux ans de la prise de connaissance; la personne sans permis qui reçoit une rémunération pour une opération de courtage le fait dans l'illégalité et « vous n'avez aucun recours auprès du Fonds »; renvoi au Registre des titulaires de permis pour vérifier le permis. Dernière mise à jour affichée: 7 juin 2023. Lu en curl."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vos-protections/connaissez-vous-fonds-indemnisation-du-courtage-immobilier-0/",
+   "title": "Connaissez-vous le Fonds d'indemnisation du courtage immobilier?",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-21",
+   "supports": "Exemple de l'acompte remis au courtier à l'occasion d'une promesse d'achat, qui doit être déposé en fidéicommis; deux régimes distincts prévus par le législateur (assurance responsabilité professionnelle pour les fautes, erreurs et omissions; Fonds d'indemnisation pour la fraude, les manoeuvres dolosives ou le détournement de fonds); le Fonds ne couvre pas les manquements de compétence, de diligence ou de prudence, par exemple les erreurs sur une fiche descriptive ou les manquements au devoir de conseil, sauf erreur volontaire faite pour tromper; seuls les clients de titulaires de permis en vigueur bénéficient de la protection. Dernière mise à jour affichée: 10 juillet 2018. Lu en curl."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vos-protections/farciq/",
+   "title": "FARCIQ : le Fonds d'assurance responsabilité professionnelle du courtage immobilier du Québec",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-21",
+   "supports": "Le FARCIQ verse une indemnité pour la perte qui résulte d'une faute, d'une erreur ou d'une omission d'un courtier ou d'une agence lorsque leur responsabilité professionnelle est démontrée; trois critères (faute involontaire, dommage, lien de causalité); un manquement aux règles déontologiques n'entraîne pas nécessairement le droit à une compensation. Dernière mise à jour affichée: 8 juin 2023. Lu en curl."
+  },
+  {
+   "url": "https://farciq.com/fr/assurance/",
+   "title": "Assurance | FARCIQ",
+   "publisher": "FARCIQ (fonds d'assurance établi par l'OACIQ)",
+   "consulted": "2026-10-21",
+   "supports": "En vertu de la Loi sur le courtage immobilier, la souscription à la police d'assurance responsabilité professionnelle du FARCIQ est obligatoire pour tous les titulaires de permis de l'OACIQ. Aucun montant de garantie n'y est publié, d'où la mention « Non publiée sur les pages consultées » dans le tableau. Lu en curl."
+  },
+  {
+   "url": "https://farciq.com/fr/reclamations/je-suis-un-reclamant/",
+   "title": "Je suis un réclamant - Réclamations | FARCIQ",
+   "publisher": "FARCIQ (fonds d'assurance établi par l'OACIQ)",
+   "consulted": "2026-10-21",
+   "supports": "Réclamation par écrit au courtier ou à l'agence, avec copie au FARCIQ; le réclamant doit prouver la faute involontaire, une perte financière déterminée et quantifiable, et le lien de causalité; le FARCIQ ne peut agir à titre de conseiller juridique pour le réclamant en raison de son statut d'assureur et recommande de consulter un conseiller juridique. Lu en curl."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/acheter/promesse-achat-et-financement-immeuble-importance-section-relative-au-nouvel-emprunt-hypoth/",
+   "title": "Promesse d'achat et financement d'un immeuble : l'importance de la section relative au nouvel emprunt hypothécaire",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-21",
+   "supports": "Section 6 des promesses d'achat obligatoires; clause 6.1: montant de l'emprunt, taux d'intérêt à ne pas dépasser, amortissement, terme; interdiction d'inscrire « taux courant »; une préapprobation ne constitue pas une preuve de l'engagement d'un prêteur; délai de financement généralement d'au moins 14 jours, en jours de calendrier; délai de cinq jours de la clause 6.3 qualifié de délai de rigueur, le défaut du vendeur d'agir annulant automatiquement la promesse. Dernière mise à jour affichée: 10 juin 2025. Lu en curl."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-73.2,%20r.%201",
+   "title": "Règlement sur les conditions d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur la publicité (RLRQ, c. C-73.2, r. 1), article 29",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Art. 29: le titulaire de permis doit vérifier et s'assurer de l'identité de la partie qu'il représente ainsi que de celle des autres parties à la transaction, si elles ne sont pas représentées par un autre titulaire de permis. Texte à jour au 1er juillet 2026, lu en direct en curl."
+  },
+  {
+   "url": "https://fintrac-canafe.canada.ca/re-ed/real-fra",
+   "title": "Courtiers ou agents immobiliers et promoteurs immobiliers",
+   "publisher": "CANAFE",
+   "consulted": "2026-10-21",
+   "supports": "Obligations des courtiers et agents immobiliers en vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes: vérifier l'identité des personnes et des entités pour certaines activités et opérations, tenir certains documents, déclarer les opérations douteuses (ainsi que d'autres déclarations, dont les opérations importantes en espèces, non reprises dans l'article). Date de modification: 2024-06-25. Lu en curl."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/N-3,%20r.%2017",
+   "title": "Règlement sur la tenue des dossiers et des études des notaires (RLRQ, c. N-3, r. 17), articles 5 et 6",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Art. 5: lorsque ses services requièrent la réception d'un acte notarié ou la réception, le versement ou le virement de fonds, le notaire doit préalablement vérifier l'identité du client et du mandataire. Art. 6: vérification au moyen de deux documents de source fiable et indépendante, dont un avec photographie pour une personne physique. Texte à jour au 1er juillet 2026, lu en direct en curl."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/N-3,%20r.%205.2",
+   "title": "Règlement sur la comptabilité en fidéicommis des notaires (RLRQ, c. N-3, r. 5.2), articles 6, 17, 18 et 27",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Art. 6: compte général en fidéicommis composé de dépôts couverts par l'assurance-dépôts (SADC) ou garantis en vertu de la Loi sur les institutions de dépôts et la protection des dépôts, ouvert au Québec. Art. 17: reçu préparé dès réception d'une somme et remis à la personne qui l'a remise. Art. 18: vérification de l'identité de la personne qui remet une somme pour le bénéfice d'un client. Art. 27: avant la clôture, vérifier que les sommes suffisent et que les ordres de paiement sont compensés; retenir les sommes tant que les droits ne sont pas inscrits sans inscription préjudiciable; utiliser d'abord les sommes pour la radiation des charges non prises en charge par l'acheteur. Texte à jour au 1er juillet 2026, lu en direct en curl."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/N-3,%20r.%208.1",
+   "title": "Règlement sur le fonds d'indemnisation de la Chambre des notaires du Québec (RLRQ, c. N-3, r. 8.1)",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Art. 1: indemnisation à la suite de l'utilisation par un notaire de sommes ou de biens à d'autres fins que celles pour lesquelles ils lui avaient été remis. Art. 10: réclamation écrite, documentée, indiquant le montant, assermentée. Art. 12: dépôt dans l'année de la connaissance par le réclamant de l'utilisation des sommes à d'autres fins. Art. 18: indemnité de 200 000 $ par réclamation au plus; même plafond pour l'ensemble des réclamations découlant d'une même prestation au bénéfice de plusieurs personnes, réparti au prorata si les réclamations acceptées le dépassent. Texte à jour au 1er juillet 2026, lu en direct en curl."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/N-3,%20r.%201.1",
+   "title": "Règlement sur l'assurance de la responsabilité professionnelle des notaires (RLRQ, c. N-3, r. 1.1), articles 1 et 2",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Art. 1: le notaire doit souscrire au fonds d'assurance de la responsabilité professionnelle de la Chambre des notaires (dispenses à l'art. 3, notamment pour le notaire au service exclusif de l'État, non reprises dans l'article). Art. 2: garantie d'au moins 1 000 000 $ par sinistre et d'au moins 2 000 000 $ pour l'ensemble des sinistres de la période de garantie. Texte à jour au 1er juillet 2026, lu en direct en curl."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/B-1.1,%20r.%203.1",
+   "title": "Règlement sur l'encadrement des inspecteurs en bâtiments d'habitation pour les inspections en vue d'une transaction immobilière (RLRQ, c. B-1.1, r. 3.1)",
+   "publisher": "LégisQuébec (Régie du bâtiment du Québec)",
+   "consulted": "2026-10-21",
+   "supports": "Art. 4: certificats de catégorie 1 et 2. Art. 5, par. 3: le titulaire doit être couvert par une assurance responsabilité civile générale et une assurance responsabilité professionnelle erreurs et omissions d'au moins 1 000 000 $ par réclamation (catégorie 1) ou 2 000 000 $ (catégorie 2). Art. 43: jusqu'au 30 septembre 2027, une personne peut exercer les fonctions d'inspecteur sans être titulaire du certificat. Texte à jour au 1er juillet 2026, lu en direct en curl."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/immobilier-role-notaire/",
+   "title": "Immobilier : le rôle du notaire",
+   "publisher": "Éducaloi",
+   "consulted": "2026-10-21",
+   "supports": "Examen des titres: vérifier les anciens actes pour s'assurer que la propriété appartient au vendeur et qu'il a le droit de la vendre; exemples de ce qu'il révèle (gouvernement prêt à saisir pour des impôts impayés du vendeur, droit de passage d'un voisin); le compte en fidéicommis empêche que le vendeur se sauve avec les sous sans payer les dettes reliées à la propriété, le notaire payant les créanciers avant de lui remettre le produit de la vente. Lu en curl."
+  },
+  {
+   "url": "https://educaloi.qc.ca/capsules/acheteurs-pourquoi-exiger-certificat-de-localisation/",
+   "title": "Acheteurs : pourquoi exiger un certificat de localisation?",
+   "publisher": "Éducaloi",
+   "consulted": "2026-10-21",
+   "supports": "Ce que répond le certificat (règlements municipaux, ligne de lot, droit de passage, zone inondable ou de glissement); valable jusqu'au premier de deux événements, un changement à la propriété, aux règlements municipaux ou au numéro de lot, ou plus de 10 ans; l'assurance titres dédommage si un problème lié aux droits sur la propriété survient, exemple du garage à déplacer; exclusions des clôtures, murets, haies et du non-respect des lois et règlements environnementaux. Lu en curl."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-consommation-matiere-financiere/services/fraude-immobiliere.html",
+   "title": "Fraude immobilière",
+   "publisher": "Agence de la consommation en matière financière du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Fraude liée au transfert de titres: un fraudeur vole le titre de propriété puis vend la maison ou demande une nouvelle hypothèque; elle commence souvent par un vol d'identité. La page suggère aussi d'envisager une assurance titres contre cette fraude (non repris dans la version finale de l'article). Page datée du 2025-12-01, lue par WebFetch (canada.ca échoue en curl depuis ce poste, comme noté dans les meta d'autres articles)."
+  },
+  {
+   "url": "https://www.georgesmatar.ca/advantages/integri-t/",
+   "title": "Intégri-T : protection des vices cachés (page du site, content/fr/advantages/integri-t.md)",
+   "publisher": "georgesmatar.ca, recoupée avec remax-quebec.com/fr/integri-t",
+   "consulted": "2026-10-21",
+   "supports": "Description d'Intégri-T reprise telle que sur la page du site: offert par RE/MAX Québec avec GBQ, entreprise de cautionnement et non assureur; protection financière pouvant atteindre 50 000 $ pendant 3 ans après l'acte de vente; couverture du bâtiment principal; exclusions (aménagements extérieurs, usure normale, entretien inadéquat, entre autres); rapport d'inspection préachat récent exigé; mise en place avant l'acte notarié; propriété vendue sans garantie légale non admissible; bâtiment vacant, négligé ou faisant l'objet d'une reprise de finance non admissible; programme payant. La page officielle https://www.remax-quebec.com/fr/integri-t, lue en curl le 2026-10-21, confirme les 50 000 $, les 3 ans, la souscription avant l'acte notarié, l'exclusion des ventes sans garantie légale et l'exclusion des éléments relevés par l'inspecteur."
+  }
+ ],
+ "claims_needing_review": []
+}

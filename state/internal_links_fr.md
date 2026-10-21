@@ -8,6 +8,8 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 ## Analyse de marché
 - [Coût de la vie en banlieue de Montréal: le vrai calcul](/articles/banlieue-ou-ville-cout-reel-montreal/) : Prix médians d'août 2026, taxes, passe mensuelle contre deuxième voiture, temps de trajet: le coût réel d
 - [Krach immobilier à Montréal : les données](/articles/montreal-market-crash-analysis/) : Ventes, inscriptions, prix médians, délais de vente : ce que les données publiques de l'APCIQ, de l'ISQ e
+- [Le prix des maisons va-t-il baisser au Québec?](/articles/prix-maisons-baisser-quebec/) : Le prix des maisons va-t-il baisser au Québec? Médianes du T3 2026, prévisions de la SCHL et de l'APCIQ, 
+- [Les maisons seront-elles abordables au Québec en 2027?](/articles/maisons-abordables-quebec/) : Abordabilité d'une maison au Québec: versement sur la médiane Centris du T3 2026, ville par ville, face a
 - [Marché immobilier au Vieux-Longueuil, Longueuil: 3e trimestre 2026](/articles/marche-immobilier-vieux-longueuil/) : Vieux-Longueuil, Longueuil, au 3e trimestre 2026: 283 ventes, unifamiliale à 625 000 $ de prix médian, co
 - [Marché immobilier dans l'Ouest-de-l'Île, Montréal: 3e trimestre 2026](/articles/marche-immobilier-ouest-de-l-ile-montreal/) : L'Ouest-de-l'Île, Montréal, au 3e trimestre 2026: unifamiliale à 635 000 $ de prix médian à Pierrefonds-R
 - [Marché immobilier de Montréal et Laval](/articles/marche-immobilier-montreal/) : Ventes, inscriptions, prix médians, inoccupation, population: comment lire les données datées de l'APCIQ,
@@ -33,6 +35,9 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Marché immobilier à Vimont et Auteuil, Laval: 3e trimestre 2026](/articles/marche-immobilier-vimont-auteuil-laval/) : Vimont et Auteuil, Laval, au 3e trimestre 2026: unifamiliale à 700 000 $ et à 640 000 $ de prix médian, v
 - [Meilleur moment pour acheter à Montréal: les données d'août](/articles/acheter-fin-ete-montreal-donnees/) : Le meilleur moment pour acheter à Montréal se lit dans le stock, le délai de vente et les mois d'inventai
 - [Prix demandé et prix vendu à Montréal: lire l'écart](/articles/prix-demande-prix-vendu-montreal/) : Prix demandé et prix vendu à Montréal: qui voit le prix de vente, quand il devient public au Registre fon
+- [Quand finira la crise du logement au Québec?](/articles/fin-crise-logement-quebec/) : Quand finira la crise du logement? Aucune source ne donne de date. Inoccupation, écart de logements et mi
+- [Quels facteurs influencent le marché immobilier au Québec?](/articles/facteurs-marche-immobilier-quebec/) : Facteurs qui influencent le marché immobilier au Québec: taux, crédit, emploi, population, offre, loyers,
+- [Y a-t-il une bulle immobilière au Québec?](/articles/bulle-immobiliere-quebec/) : Bulle immobilière au Québec: prix et revenus, prix et loyers, crédit, spéculation, construction. Cinq cri
 
 ## Conseils honnêtes
 - [Huit situations où il ne faut pas acheter](/articles/when-not-to-buy-real-estate/) : Emploi récent, dette à taux élevé, mise de fonds empruntée, horizon trop court : les cas où attendre coût
@@ -46,12 +51,15 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Hypothèque du premier acheteur au Québec](/articles/guide-hypotheque-premier-acheteur/) : Hypothèque du premier acheteur au Québec: plus complexe que ne le laisse paraître votre banque, plus simp
 - [Impôt et propriétaire au Québec : ce qui se déduit](/articles/impot-proprietaire-quebec/) : Impôt du propriétaire au Québec : déduction, exemption de résidence principale, bureau à domicile, plex e
 - [La mise de fonds de 20 % : le mythe qui freine les acheteurs](/articles/down-payment-myth-debunked/) : La mise de fonds de 20 %, le mythe qui freine les acheteurs: le vrai minimum au Québec, l'assurance SCHL,
+- [Le pouvoir d'achat des premiers acheteurs a-t-il diminué?](/articles/pouvoir-achat-premiers-acheteurs-quebec/) : Pouvoir d'achat des premiers acheteurs: prix médian, revenu et taux affiché en 2016, 2021 et 2026 à Montr
+- [Les taux hypothécaires vont-ils baisser en 2027?](/articles/taux-hypothecaires-baisser-quebec/) : Les taux hypothécaires vont-ils baisser? Taux directeur à 2,25 %, annonces de 2026 et 2027, signal des ob
 - [Louer ou acheter dans le Grand Montréal](/articles/renting-vs-buying-calculation/) : Comparer son loyer à un versement hypothécaire ne veut rien dire. Voici les postes à mettre côte à côte a
 - [Maison Novoclimat au Québec: ce que la certification achète](/articles/maison-ecoenergetique-novoclimat-quebec/) : Novoclimat: ce que la certification garantit, l'aide de 2 000 $ ou 4 000 $, le remboursement Éco Plus de 
 - [Meilleur taux hypothécaire au Canada](/articles/best-mortgage-rate-canada/) : Taux affiché ou taux obtenu, fixe ou variable, terme, pénalité et différentiel de taux : ce qui décide vr
 - [Préapprobation hypothécaire : les limites](/articles/mortgage-preapproval-mistakes/) : Validité, ratios ABD et ATD, test de résistance, vérification de crédit et évaluation du prêteur : les er
 - [Pénalité pour casser une hypothèque : le calcul au Québec](/articles/casser-hypotheque-penalite-quebec/) : Trois mois d'intérêts ou différentiel de taux, taux affiché contre taux consenti, quittance et Registre f
 - [Quel salaire faut-il pour acheter à Montréal ou à Laval?](/articles/quel-salaire-pour-acheter-montreal/) : Quel salaire pour acheter à Montréal ou à Laval: comment les prêteurs calculent votre capacité d'emprunt,
+- [Quel sera le taux d'inflation au Québec en 2027?](/articles/inflation-quebec-immobilier/) : Taux d'inflation au Québec: 3,1 % en septembre 2026. Ce que Québec et la Banque du Canada projettent pour
 - [Quelles déductions un propriétaire peut réclamer au Québec](/articles/impots-proprietaire-quebec-deductions/) : Déductions du propriétaire au Québec: rien sur la résidence principale, tout sur l'immeuble loué, et deux
 - [Refinancement hypothécaire au Québec : est-ce rentable ?](/articles/refinancement-hypothecaire-quebec/) : Renouvellement, transfert ou refinancement hypothécaire au Québec : le plafond de 80 %, la pénalité, l'as
 - [Rembourser son hypothèque plus vite au Québec](/articles/rembourser-hypotheque-plus-vite-quebec/) : Paiement accéléré, versement forfaitaire, hausse du paiement, renouvellement : les quatre leviers pour re
@@ -75,10 +83,12 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Bassin scolaire et taxe scolaire au Québec](/articles/school-districts-property-values/) : Bassin scolaire, choix d'école, programmes à sélection, taxe scolaire 2026-2027 : ce qu'une adresse décid
 - [Bruit et insonorisation en condo au Québec : quoi vérifier](/articles/bruit-maison-condo-quebec/) : Bruit aérien ou d'impact, année de construction, couvre-plancher imposé en copropriété, cinq tests à la v
 - [Choisir un inspecteur en bâtiment au Québec](/articles/choisir-inspecteur-batiment-quebec/) : Aucun permis n'est encore obligatoire au Québec. Comment choisir un inspecteur en bâtiment: certificat RB
+- [Comment se préparer à l'achat d'une première propriété?](/articles/preparer-achat-premiere-propriete-quebec/) : Se préparer à l'achat d'une première propriété au Québec: le calendrier sur 12 mois, du CELIAPP aux clés,
 - [Comparer les secteurs de la Rive-Nord](/articles/rive-nord-guide-laval/) : Transport, taxes, zonage, écoles, zones inondables : les critères vérifiables pour comparer deux secteurs
 - [Copropriété ou maison à Montréal](/articles/condo-vs-house-montreal/) : Fraction, parties communes, déclaration de copropriété, assurances, votes en assemblée et capacité d'empr
 - [Cote de crédit et achat d'une propriété](/articles/credit-score-home-buying-quebec/) : Cote de crédit et achat d'une propriété: le minimum de 600 pour un prêt assuré, les cinq facteurs de la c
 - [Durée de vie d’une toiture et des fenêtres au Québec](/articles/duree-de-vie-composantes-maison-quebec/) : Durée de vie prévue d’une toiture, de fenêtres, d’une thermopompe : les chiffres officiels, la vie utile 
+- [Faut-il faire inspecter une propriété avant l'achat?](/articles/faut-il-inspecter-maison-avant-achat-quebec/) : Faire inspecter une propriété avant l'achat: aucune loi ne l'exige, mais l'article 1726 exclut le vice ap
 - [Frais de condo et fonds de prévoyance](/articles/condo-fees-investment-killer/) : Fonds de prévoyance, carnet d'entretien, attestation du syndicat, cotisation spéciale : les règles québéc
 - [Garantie GCR maison neuve au Québec : 1 an, 3 ans, 5 ans](/articles/garantie-gcr-maison-neuve-quebec/) : Bâtiments couverts et exclus, inspection préréception, 1, 3 et 5 ans, délais de dénonciation, arbitrage :
 - [Guerre d'offres à Montréal : surenchère](/articles/bidding-wars-truth-montreal/) : Promesses d'achat multiples au Québec : ce que le courtier inscripteur doit faire, ce que le vendeur déci
@@ -174,6 +184,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Animaux interdits en condo au Québec: où est la règle](/articles/animaux-copropriete-declaration-quebec/) : Animaux interdits en condo au Québec: où vit la clause, ce qui la rend valide, le cas de l'animal d'assis
 - [Augmentation des frais de condo au Québec: qui décide](/articles/hausse-frais-de-condo-quebec/) : Augmentation des frais de condo au Québec: pourquoi la loi 16 la programme, qui la décide vraiment, et le
 - [Bannière immobilière au Québec : le rôle](/articles/why-choose-remax/) : Bannière immobilière au Québec: permis, fonds d'indemnisation, formulaires, ce qui est identique partout,
+- [Comment seront les maisons en 2030 au Québec?](/articles/maisons-2030-quebec/) : Maisons en 2030 au Québec: Code de construction, fin du mazout, zones inondables, logement accessoire. Ce
 - [Comparer deux quartiers de Montréal](/articles/best-neighborhoods-montreal/) : Taxes par arrondissement, droits de mutation, zonage, écoles, plomb, sols : les critères vérifiables pour
 - [Conjoints de fait et maison au Québec : ce qui vous protège](/articles/conjoints-de-fait-maison-quebec/) : Patrimoine familial, union parentale depuis le 30 juin 2025, titre, indivision, décès : ce qui protège vr
 - [Contester son évaluation municipale au Québec](/articles/contester-evaluation-municipale-quebec/) : Date de référence, délai du 1er mai, frais, réponse de l'évaluateur et recours au TAQ : contester son éva
@@ -186,6 +197,8 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Langue et transaction immobilière, Québec](/articles/multilingual-broker-advantage/) : Langue et transaction immobilière au Québec: formulaires OACIQ, Charte, acte notarié, prêteur, et ce que 
 - [Le notaire au Québec, étape par étape](/articles/quebec-notary-process/) : Pourquoi le notaire est obligatoire, qui le choisit et le paie, chaque étape jusqu'aux clés, les répartit
 - [Maison passive au Québec: le coût et la norme exacte](/articles/maison-passive-novoclimat-quebec/) : Maison passive au Québec: la norme à 15 kWh/m², l'étanchéité à 0,6, le seul surcoût chiffré par Québec, e
+- [Quels changements pour les propriétaires au Québec en 2027?](/articles/changements-proprietaires-quebec/) : Changements pour les propriétaires au Québec en 2027: piscine, loyers, rôle de Laval, acheteurs étrangers
+- [Quels sont les risques d'une transaction immobilière?](/articles/risques-transaction-immobiliere-quebec/) : Risques d'une transaction immobilière au Québec: chaque risque, la protection qui y répond, qui l'offre, 
 - [Rénover son condo en copropriété au Québec: la vraie limite](/articles/renovation-condo-copropriete-quebec/) : Plancher, fenêtre, balcon, mur porteur: ce qu’un copropriétaire peut rénover dans son condo au Québec, et
 - [Séparation, divorce et maison au Québec](/articles/divorce-real-estate-guide/) : Patrimoine familial, union parentale, rachat, vente ou copropriété : ce qui arrive à la maison quand un c
 - [Transaction qui déraille : sept échecs](/articles/worst-real-estate-deal-lessons/) : Transaction qui déraille au Québec: hypothèque légale, copropriété, inspection, financement, vices cachés
@@ -199,6 +212,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Acheter une propriété au Québec en tant qu'étranger](/articles/acheteur-etranger-achat-quebec/) : Acheter une propriété au Québec en tant qu'étranger: l'interdiction fédérale, les exceptions, la mise de 
 - [Ajouter un logement accessoire au Québec : le cadre](/articles/rentabiliser-terrain-zonage-quebec/) : Ajouter un logement accessoire au Québec : le permis à Laval et à Montréal, les coûts publiés, le revenu 
 - [Augmenter la valeur d'un plex à Montréal ou à Laval](/articles/maximiser-valeur-plex-montreal/) : Augmenter la valeur d'un plex : ce que la fixation de loyer du TAL permet depuis 2026, les travaux récupé
+- [Faut-il investir dans l'immobilier locatif au Québec?](/articles/investir-immobilier-locatif-quebec/) : Investir dans l'immobilier locatif au Québec en 2026: un plex médian de Laval calculé ligne par ligne, lo
 - [Investir à Laval : ce qu'il faut vérifier avant de s'engager](/articles/laval-investment-city/) : Zonage et Code de l'urbanisme, logements non conformes, encadrement du TAL, mise de fonds selon le nombre
 - [Location court terme au Québec: les règles avant d'acheter](/articles/location-court-terme-quebec-regles/) : Numéro d'enregistrement, zonage de Montréal et de Laval, déclaration de copropriété: les règles de la loc
 - [Plex ou copropriété à Montréal](/articles/triplex-vs-condo-montreal/) : Mise de fonds, prise en compte des loyers, encadrement du TAL, fiscalité de la location : ce que chacun d

@@ -1,0 +1,140 @@
+{
+ "id": "t284",
+ "slug": "prix-maisons-baisser-quebec",
+ "title": "Le prix des maisons va-t-il baisser au Québec?",
+ "target_keyword": "prix des maisons va baisser quebec",
+ "word_count": 1778,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/courtier-immobilier/laval/",
+  "/articles/marche-immobilier-laval-secteurs/",
+  "/articles/marche-haut-de-gamme-montreal-laval-donnees/",
+  "/tools/rent-vs-buy/",
+  "/articles/renting-vs-buying-calculation/",
+  "/articles/montreal-market-crash-analysis/",
+  "/articles/marche-immobilier-montreal-arrondissements/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 14 octobre 2026, lu dans son PDF (https://apciqca-152af.kxcdn.com/wp-content/uploads/sites/4/2026/10/CP-trimestriel-2026-T3-fr-2.pdf). Québec, T3 2026: médianes 500 000 $ unifamiliale (+2 %), 400 000 $ copropriété (stable), 699 000 $ plex (+8 %); 42 408 inscriptions actives (+20 %). RMR de Montréal: 645 500 $ (+2 %), 435 000 $ (+2 %), 860 500 $ (+3 %); ventes -12 %, quatrième recul trimestriel consécutif; 20 350 inscriptions (+17 %); délai copropriété 61 jours (+13). Copropriété: île à la frontière équilibre et acheteurs, centre-ville et sud-ouest déjà en surplus, Laval et Vaudreuil-Soulanges près des seuils d'équilibre, Rive-Nord et Rive-Sud à l'avantage des vendeurs. Gatineau: unifamiliale -3 %, copropriété -5 %, quatrième trimestre de recul des ventes, cinquième de hausse de l'offre, 2 256 inscriptions (+42 %), copropriété équilibrée. Citations: « Au Québec, la demande diminue, mais c'est insuffisant pour entraîner une baisse généralisée des prix » et « Davantage de révisions à la baisse du prix demandé sont observées »."
+  },
+  {
+   "url": "https://apciq.ca/le-marche-immobilier-quebecois-en-2026-une-activite-soutenue-mais-en-phase-de-moderation/",
+   "title": "Le marché immobilier québécois en 2026: une activité soutenue, mais en phase de modération",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Prévisions 2026 publiées le 27 janvier 2026, tableau « Les prévisions 2026 en chiffres »: Québec, médiane unifamiliale 520 200 $ (+6 %), copropriété 408 000 $ (+3 %); RMR de Montréal, ventes 45 610 (-3 %), médiane unifamiliale 645 000 $ (+4 %), copropriété 425 100 $ (0 %)."
+  },
+  {
+   "url": "https://apciq.ca/stats-2e-trimestre-2026/",
+   "title": "Le marché immobilier québécois confirme un rééquilibrage graduel au 2e trimestre",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Révision du 14 juillet 2026: « Au Québec, nos prévisions tablent désormais sur une baisse de 6 % des ventes résidentielles totales en 2026 et une augmentation de 5 % du prix médian des unifamiliales. »"
+  },
+  {
+   "url": "https://comapciqca-152af.kxcdn.com/fsmi-stats/mensuelles/2026/stats-202609-fr.pdf",
+   "title": "FSMI statistiques mensuelles, Septembre 2026",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Lu en texte et en rendu image (pages 2 et 4). Page 2, Québec, cumul janvier à septembre 2026: médiane unifamiliale 514 000 $ (+5 %). Page 4, RMR de Montréal: 21 793 inscriptions en vigueur en septembre (+20 %); cumul: ventes 33 868 (-8 %), médiane unifamiliale 645 000 $ (+4 %), copropriété 430 000 $ (+1 %). Page 5, île de Montréal, unifamiliale: 779 000 $ en septembre (815 000 $ un an plus tôt, -4 %), cumul 820 000 $ (+4 %)."
+  },
+  {
+   "url": "https://apciq.ca/stats-septembre-2026-fr/",
+   "title": "RMR de Montréal et de Québec : la route vers un marché plus équilibré se poursuit",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 2 octobre 2026, lu dans son PDF (https://apciqca-152af.kxcdn.com/wp-content/uploads/sites/4/2026/10/2026-10-02_breve-donnees-mensuelles-fr.pdf): RMR de Montréal, « L'inventaire est de 18 % supérieur au niveau moyen depuis 10 ans »."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI, baromètre résidentiel, 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Page 7, RMR: mois d'inventaire de l'unifamiliale de 2,4 (320 000 à 480 000 $) à 7,6 (960 000 $ et plus), toutes gammes « Vendeur ». Page 8, île: médiane unifamiliale 811 000 $ (+2 %); 9,1 mois et « Équilibré » à 1 220 000 $ et plus. Page 45, Vaudreuil-Soulanges: 11,2 mois et « Acheteur » à 940 000 $ et plus. Page 65: seuils de 8 et 10 mois; « la croissance des prix est généralement modérée » en marché équilibré; l'évolution du prix médian « ne reflète pas nécessairement l'évolution de la valeur de l'ensemble des propriétés d'un Secteur »; interpréter « avec prudence, en particulier lorsque le nombre de transactions est faible »; conditions qui reflètent les 12 derniers mois."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-province.pdf",
+   "title": "FSMI, baromètre résidentiel, 3e trimestre 2026, Province de Québec",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Page 19, agglomération de Sainte-Agathe-des-Monts: unifamiliale, 81 ventes, médiane 450 000 $ (-7 %) (vérifié en rendu image). Page 28, centre urbain de Mont-Tremblant: copropriété, 50 ventes, médiane 364 500 $ (-38 %)."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/marches-de-lhabitation/rapports-sur-le-marche-de-lhabitation/perspectives-du-marche-de-lhabitation",
+   "title": "Perspectives du marché de l'habitation de 2026",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Édition publiée le 10 février 2026, information au 15 janvier 2026. Résumé des prévisions, RMR de Montréal: prix moyen 651 873 $ en 2025; 2026 entre 661 000 $ et 683 000 $. Section Québec: « À partir de 2027, les prix devraient se stabiliser », exception faite de la région de Québec."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/observateur-logement/2026/mise-a-jour-ete-perspectives-marche-habitation-2026",
+   "title": "Mise à jour de l'été : Perspectives du marché de l'habitation 2026",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Publiée le 22 juillet 2026, information au 23 juin 2026; plus récente édition trouvée le 21 octobre 2026. RMR de Montréal, prix moyen: 651 873 $ en 2025; scénario de référence 675 400 $ (2026), 685 000 $ (2027), 692 000 $ (2028); autre scénario 674 200 $, 669 100 $, 665 900 $. Autre scénario: inflation élevée ou tensions commerciales accrues. Québec: « de modestes hausses des prix ». Canada: taux hypothécaire fixe de 5 ans (moyenne des taux affichés) prévu à 5,2 % en 2026 et 5,4 % en 2027."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/marches-de-lhabitation/rapports-sur-le-marche-locatif",
+   "title": "Rapport sur le marché locatif 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Publié le 11 décembre 2025, toujours le plus récent le 21 octobre 2026. Montréal: loyer moyen des logements de 2 chambres de 1 346 $ (enquête d'octobre 2025), base du calcul de 16 152 $ sur 12 mois."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+   "title": "Taux directeur",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Taux cible de 2,25 % (dernière annonce le 2 septembre 2026, aucun changement depuis le 29 octobre 2025); prochaine annonce prévue le 28 octobre 2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval",
+   "title": "Laval: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Laval, 3e trimestre 2026: médianes 630 000 $ unifamiliale (+5 %), 439 999 $ copropriété (+3 %), 890 000 $ plex (+2 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile",
+   "title": "Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Île de Montréal, 3e trimestre 2026: médianes 812 000 $ unifamiliale (+2 %), 477 000 $ copropriété (0 %), 902 500 $ plex (+3 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud",
+   "title": "Montréal (Rive-Sud): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Montréal (Rive-Sud), 3e trimestre 2026: médianes 645 000 $ unifamiliale (0 %), 407 500 $ copropriété (+1 %), 800 000 $ plex (+3 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-le-vieux-longueuil",
+   "title": "Longueuil (Le Vieux-Longueuil), Montréal (Rive-Sud): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Le Vieux-Longueuil, 3e trimestre 2026: médianes 625 000 $ unifamiliale (0 %), 398 500 $ copropriété (+5 %), 840 000 $ plex (+2 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides",
+   "title": "Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Laurentides, 3e trimestre 2026: médianes 573 750 $ unifamiliale (+5 %), 385 000 $ copropriété (0 %), 655 000 $ plex (+5 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere",
+   "title": "Lanaudière: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Lanaudière, 3e trimestre 2026: médianes 518 250 $ unifamiliale (+4 %), 363 000 $ copropriété (0 %), 670 000 $ plex (+11 %, sur 61 ventes)."
+  }
+ ],
+ "claims_needing_review": []
+}

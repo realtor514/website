@@ -93,6 +93,21 @@ QUERIES = {
     "marche-immobilier-vieux-longueuil": "old stone house quebec village",
     "marche-immobilier-saint-hubert-longueuil": "suburban split level house lawn",
     "marche-immobilier-greenfield-park-longueuil": "snowy bungalow house winter quebec",
+    # Serie questions des consommateurs, t284 a t297, 2026-10-21
+    "prix-maisons-baisser-quebec": "suburban houses street aerial",
+    "taux-hypothecaires-baisser-quebec": "mortgage rate documents calculator",
+    "bulle-immobiliere-quebec": "row of new houses construction",
+    "maisons-abordables-quebec": "small starter home exterior",
+    "pouvoir-achat-premiers-acheteurs-quebec": "young couple new home keys",
+    "risques-transaction-immobiliere-quebec": "notary signing documents",
+    "faut-il-inspecter-maison-avant-achat-quebec": "home inspector flashlight basement",
+    "facteurs-marche-immobilier-quebec": "montreal skyline mount royal",
+    "investir-immobilier-locatif-quebec": "triplex apartment building exterior",
+    "preparer-achat-premiere-propriete-quebec": "planning budget notebook calendar",
+    "inflation-quebec-immobilier": "grocery receipt prices inflation",
+    "maisons-2030-quebec": "modern energy efficient house heat pump",
+    "changements-proprietaires-quebec": "calendar deadline paperwork home",
+    "fin-crise-logement-quebec": "apartment building construction crane",
 }
 
 

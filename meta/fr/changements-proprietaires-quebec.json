@@ -1,0 +1,241 @@
+{
+ "id": "t296",
+ "slug": "changements-proprietaires-quebec",
+ "title": "Quels changements pour les propriétaires au Québec en 2027?",
+ "target_keyword": "changements proprietaires 2027 quebec",
+ "word_count": 1566,
+ "category": "Immobilier 101",
+ "internal_links": [
+  "/articles/reglement-piscine-securite-quebec/",
+  "/articles/loi-16-copropriete-acheteur-quebec/",
+  "/articles/location-court-terme-quebec-regles/",
+  "/articles/contester-evaluation-municipale-quebec/",
+  "/articles/acheteur-etranger-achat-quebec/",
+  "/tools/welcome-tax/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/S-3.1.02,%20r.%201",
+   "title": "Règlement sur la sécurité des piscines résidentielles (S-3.1.02, r. 1)",
+   "publisher": "LegisQuébec, Éditeur officiel du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Texte à jour au 1er juillet 2026, lu en direct. Article 10: une installation existant avant le 1er novembre 2010 doit être conforme au plus tard le 30 septembre 2027 (article modifié par les décrets 662-2021, 1372-2022 et 120-2026). Article 11: amende de 500 $ à 700 $, portée à 700 $ et 1 000 $ en récidive, à la charge du propriétaire de piscine."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/vous-etes/inspecteur-preachat/obtenir-un-certificat-dinspecteur-en-batiments-dhabitation/",
+   "title": "Certificat d'inspecteur en bâtiments d'habitation",
+   "publisher": "Régie du bâtiment du Québec",
+   "consulted": "2026-10-21",
+   "supports": "À partir du 1er octobre 2027, les inspecteurs qui font des inspections en vue d'une transaction immobilière (préachat) devront détenir un certificat de la RBQ, en vertu du REIBH. La version anglaise de la page répondait 404 le 2026-10-21; la page française répond."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cadre-reglementaire",
+   "title": "Cadre réglementaire pour la gestion des milieux hydriques et des ouvrages de protection contre les inondations",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Le cadre réglementaire modernisé remplace le régime transitoire de gestion des zones inondables, des rives et du littoral depuis le 1er mars 2026; certaines modifications des règlements sont entrées en vigueur le 29 juillet 2026. Fait déjà consigné dans state/marche_T3_2026/contexte_commun.md (section 3, 2026-10-19) et rouvert en curl le 2026-10-21."
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/amenagement-developpement-territoires/amenagement-territoire/amenagement-protection-rives-littoral-zones-inondables/realiser-travaux",
+   "title": "Réaliser des travaux dans les zones inondables, les zones de mobilité des cours d'eau, les rives et le littoral",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Réparation et entretien permis dans l'ensemble des milieux hydriques; pour un travail majeur comme le remplacement des fondations, obligation d'adapter le bâtiment au risque d'inondation et d'obtenir l'avis d'un professionnel compétent; les municipalités appliquent ces règles et peuvent adopter des règlements plus contraignants."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/CCQ,%20r.%208.01",
+   "title": "Règlement établissant diverses règles en matière de copropriété divise (CCQ, r. 8.01)",
+   "publisher": "LegisQuébec, Éditeur officiel du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Décret 991-2025, en vigueur le 14 août 2025, texte à jour au 1er juillet 2026. Article 14: un carnet d'entretien ou une étude du fonds de prévoyance obtenu dans les 2 années précédant l'entrée en vigueur, par une personne remplissant les conditions des articles 1 ou 7, est valide 5 ans à compter de son obtention (10 ans pour le carnet d'un immeuble visé au deuxième alinéa de l'article 5)."
+  },
+  {
+   "url": "https://www.quebec.ca/habitation-territoire/achat-vente/condos-coproprietes/mesures-coproprietes",
+   "title": "Mesures applicables aux copropriétés divises pour les propriétaires et les constructeurs",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Nouvelles mesures en vigueur depuis le 14 août 2025; citation « Les syndicats ont un délai de trois ans et un jour pour faire établir leur carnet d'entretien et obtenir une première étude du fonds de prévoyance », d'où l'échéance du 15 août 2028. Page mise à jour le 22 mai 2026."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/guides-pratiques-professionnelles/copropriete-divise/nouvelles-regles-copropriete-divise-2025/",
+   "title": "Nouvelles règles en copropriété divise 2025",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-21",
+   "supports": "Aucune mesure transitoire pour l'attestation du syndicat; délai général de 3 ans à compter du 14 août 2025 pour le carnet d'entretien et l'étude du fonds de prévoyance; validité de 5 ans des documents obtenus dans les 2 années précédentes."
+  },
+  {
+   "url": "https://montreal.ca/articles/reglement-sur-la-divulgation-et-la-cotation-ges-des-grands-batiments-20548",
+   "title": "Règlement sur la divulgation et la cotation GES des grands bâtiments",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-21",
+   "supports": "Règlement 21-042 adopté le 27 septembre 2021: vise les bâtiments existants des secteurs commercial, institutionnel et résidentiel de 2 000 m² et plus ou de 25 logements et plus; les propriétaires transmettent au plus tard le 30 juin de chaque année les données mensuelles de consommation énergétique du 1er janvier au 31 décembre de l'année précédente, d'où la ligne du 30 juin 2027 pour l'année 2026. Page mise à jour le 8 septembre 2026."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec",
+   "publisher": "LegisQuébec, Éditeur officiel du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Articles 1942 (avis de modification au moins 3 mois et au plus 6 mois avant le terme d'un bail de 12 mois ou plus), 1945 (réponse du locataire dans le mois, silence valant acceptation) et 1947 (le locateur a un mois après le refus pour s'adresser au tribunal, sinon reconduction aux conditions antérieures). Lus en direct avec tools/ccq.py."
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/fr/reconduction-du-bail-et-fixation-de-loyer/augmentation-de-loyer",
+   "title": "Augmentation de loyer",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-10-21",
+   "supports": "Pour un avis de modification donné à compter du 1er janvier 2026: loyer indexé selon l'IPC général du Québec, moyenne des trois dernières années; le pourcentage de base est publié annuellement en janvier, lors de la publication par Statistique Canada des dernières données nécessaires."
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/fr/reconduction-du-bail-et-fixation-de-loyer/pourcentages-applicables-aux-criteres-de-fixation-de-loyer",
+   "title": "Pourcentages applicables aux critères de fixation de loyer",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-10-21",
+   "supports": "Pourcentage de base pour le loyer: 4,5 % en 2025 et 3,1 % en 2026, pour les demandes dont l'avis a été donné à compter du 1er janvier 2026. Aucun pourcentage 2027 affiché le 2026-10-21."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/T-15.01,%20r.%202",
+   "title": "Règlement sur les critères de fixation de loyer (T-15.01, r. 2)",
+   "publisher": "LegisQuébec, Éditeur officiel du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Article 3.1: formule du pourcentage de base sur trois périodes d'IPC; décret 1455-2025, dont l'article 6 maintient l'ancienne méthode pour un avis donné avant le 1er janvier 2026; article 4.2: le ministre informe le public du résultat à la Gazette officielle. Texte à jour au 1er juillet 2026."
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/fr/droit-du-locateur-de-mettre-fin-au-bail/eviction-pour-subdivision-agrandissement-substantiel-ou-changement-d-affection-d-un-logement",
+   "title": "Éviction pour subdivision, agrandissement substantiel ou changement d'affectation d'un logement",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-10-21",
+   "supports": "La Loi limitant le droit d'éviction des locateurs et renforçant la protection des locataires aînés, sanctionnée le 6 juin 2024, interdit l'éviction d'un locataire à des fins de subdivision, d'agrandissement ou de changement d'affectation d'un logement pour une période de trois ans."
+  },
+  {
+   "url": "https://www.tal.gouv.qc.ca/sites/default/files/projet_loi_65.pdf",
+   "title": "Loi limitant le droit d'éviction des locateurs et renforçant la protection des locataires aînés, principales modifications",
+   "publisher": "Tribunal administratif du logement",
+   "consulted": "2026-10-21",
+   "supports": "Interdiction « pour une durée de trois ans à compter de la sanction de la loi », sanction le 6 juin 2024, d'où le 6 juin 2027; avis de la ministre responsable de l'Habitation à la Gazette officielle lorsque le taux d'inoccupation SCHL de l'ensemble des centres urbains du Québec de 10 000 habitants et plus atteint 3 %, l'interdiction cessant le soixantième jour suivant; le gouvernement peut la maintenir sur une partie du territoire. Chapitre 23 des lois de 2024 selon la page du projet de loi 65 de l'Assemblée nationale (https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/projet-loi-65-43-1.html)."
+  },
+  {
+   "url": "https://assets.cmhc-schl.gc.ca/sites/cmhc/professional/housing-markets-data-and-research/housing-data-tables/rental-market/rental-market-report-data-tables/2025/rmr-canada-2025-fr.xlsx",
+   "title": "Enquête sur les logements locatifs, Canada, 2025, tableau 1.0",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Tableau 1.0, ligne « Québec, centres de 10 000+ »: taux d'inoccupation de 1,8 % en octobre 2024 et de 2,7 % en octobre 2025, cote a, sous le seuil de 3 % qui déclencherait la fin anticipée de l'interdiction d'éviction. Classeur trouvé sous le même dossier que les classeurs RMR liés depuis la page des rapports sur le marché locatif."
+  },
+  {
+   "url": "https://citq.qc.ca/communiques/reglesaffichage-avril2026/communique.html",
+   "title": "Règles d'affichage, avril 2026",
+   "publisher": "Corporation de l'industrie touristique du Québec, pour le ministère du Tourisme",
+   "consulted": "2026-10-21",
+   "supports": "Mesures en vigueur depuis le 9 avril 2026, dont l'obligation d'indiquer distinctement le numéro d'enregistrement dans toute publicité, y compris sur les médias sociaux."
+  },
+  {
+   "url": "https://citq.qc.ca/communiques/nouvellesobligations/communique.html",
+   "title": "Nouvelles obligations au 1er septembre 2026",
+   "publisher": "Corporation de l'industrie touristique du Québec, pour le ministère du Tourisme",
+   "consulted": "2026-10-21",
+   "supports": "Mesures en vigueur le 1er septembre 2026: deux preuves de résidence principale pour un établissement de résidence principale, à l'enregistrement et au renouvellement; autorisation annuelle du propriétaire pour un exploitant locataire et du syndicat pour un établissement en copropriété divise. Le règlement consolidé (H-1.01, r. 1, à jour au 1er juillet 2026, https://www.legisquebec.gouv.qc.ca/fr/document/rc/H-1.01,%20r.%201) porte les modifications du décret 324-2026."
+  },
+  {
+   "url": "https://www.laval.ca/taxes-evaluation-fonciere/evaluation-fonciere/role-evaluation-fonciere/",
+   "title": "Rôle d'évaluation foncière",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-21",
+   "supports": "Rôle d'évaluation actuel 2025-2026-2027, entré en vigueur le 1er janvier 2025, valeur au marché du 1er juillet 2023. Lu en curl avec agent de navigateur."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/F-2.1",
+   "title": "Loi sur la fiscalité municipale (F-2.1)",
+   "publisher": "LegisQuébec, Éditeur officiel du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Texte à jour au 12 août 2026. Art. 14 (rôle triennal), art. 46 (conditions du marché au 1er juillet du deuxième exercice précédant le premier exercice du rôle, donc le 1er juillet 2026 pour le rôle 2028), art. 70 (dépôt au plus tôt le 15 août et au plus tard le 15 septembre précédant le premier exercice), art. 71 (report possible jusqu'au 1er novembre), art. 81 (avis d'évaluation avant le 1er mars du premier exercice), art. 130 (demande de révision avant le 1er mai suivant l'entrée en vigueur du rôle)."
+  },
+  {
+   "url": "https://montreal.ca/sujets/valeur-fonciere-dune-propriete",
+   "title": "Valeur foncière d'une propriété",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-21",
+   "supports": "Pour les rôles 2026-2027-2028, les conditions du marché retenues sont celles du 1er juillet 2024. La page https://montreal.ca/sujets/roles-devaluation-fonciere, lue le même jour, confirme le rôle 2026-2027-2028 et son dépôt tous les 3 ans."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-19",
+   "title": "Loi sur les cités et villes (C-19)",
+   "publisher": "LegisQuébec, Éditeur officiel du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Article 474: le conseil prépare et adopte le budget du prochain exercice durant la période du 15 novembre au 31 décembre, prolongée au 31 janvier lors d'une année d'élection générale. Texte à jour au 12 août 2026."
+  },
+  {
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/montants-permettant-detablir-les-tranches-de-la-base-dimposition-des-droits-sur-les-mutations-immobilieres-exercice-2027-72131",
+   "title": "Montants permettant d'établir les tranches de la base d'imposition des droits sur les mutations immobilières, exercice 2027",
+   "publisher": "Ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-10-21",
+   "supports": "Avis du 31 juillet 2026: indexation de 2,4173 % (Gazette officielle no 27 du 4 juillet 2026); les montants passent de 62 900 $ à 64 400 $ et de 315 000 $ à 322 600 $ pour 2027. Fait déjà consigné dans contexte_commun.md (section 5) et rouvert le 2026-10-21. Le calcul 5 610,50 $ contre 5 565 $ sur 500 000 $ est fait par le rédacteur à partir des taux de 0,5 %, 1 % et 1,5 %."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-15.1",
+   "title": "Loi concernant les droits sur les mutations immobilières (D-15.1)",
+   "publisher": "LegisQuébec, Éditeur officiel du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Article 2: taux de 0,5 %, 1 % et 1,5 % par tranche; troisième alinéa: une municipalité peut fixer un taux supérieur sur la tranche qui excède 500 000 $; article 2.1: seule l'indexation des montants du premier alinéa est prévue, le seuil de 500 000 $ n'est donc pas indexé. Texte à jour au 12 août 2026."
+  },
+  {
+   "url": "https://laws-lois.justice.gc.ca/fra/lois/p-25.2/textecomplet.html",
+   "title": "Loi sur l'interdiction d'achat d'immeubles résidentiels par des non-Canadiens",
+   "publisher": "Ministère de la Justice du Canada, site de la législation",
+   "consulted": "2026-10-21",
+   "supports": "Loi en vigueur le 1er janvier 2023 (édictée par l'article 235 du chapitre 10 des Lois du Canada 2022); « Loi à jour 2026-09-30 », date de modification de la page 2026-10-15; l'abrogation (2022, ch. 10, art. 236) figure toujours sous « Modifications non en vigueur »."
+  },
+  {
+   "url": "https://laws-lois.justice.gc.ca/fra/LoisAnnuelles/2024_17/TexteComplet.html",
+   "title": "Loi no 1 d'exécution du budget de 2024 (L.C. 2024, ch. 17)",
+   "publisher": "Ministère de la Justice du Canada, site de la législation",
+   "consulted": "2026-10-21",
+   "supports": "Article 149: le paragraphe 237(2) de la Loi no 1 d'exécution du budget de 2022 est remplacé; « L'article 236 entre en vigueur au quatrième anniversaire de l'entrée en vigueur de l'article 235 », soit le 1er janvier 2027. Le texte original (https://laws-lois.justice.gc.ca/fra/LoisAnnuelles/2022_10/TexteComplet.html, art. 237(1)) fixe l'entrée en vigueur de l'article 235 au 1er janvier 2023."
+  },
+  {
+   "url": "https://www.parl.ca/legisinfo/fr/projet-de-loi/45-1/c-15",
+   "title": "C-15, Loi no 1 d'exécution du budget de 2025",
+   "publisher": "Parlement du Canada, LEGISinfo",
+   "consulted": "2026-10-21",
+   "supports": "Sanction royale le jeudi 26 mars 2026, Lois du Canada 2026, ch. 3."
+  },
+  {
+   "url": "https://www.parl.ca/DocumentViewer/fr/45-1/projet-loi/C-15/sanction-royal",
+   "title": "Projet de loi C-15, texte sanctionné",
+   "publisher": "Parlement du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Sommaire: la section 2 de la partie 3 modifie la Loi sur la taxe sur les logements sous-utilisés « afin de mettre fin à la taxe sur les logements sous-utilisés relative aux années civiles 2025 et suivantes » et abroge ultérieurement la loi et son règlement. Aucune disposition sur l'interdiction d'achat par des non-Canadiens trouvée dans le texte."
+  },
+  {
+   "url": "https://www.canada.ca/fr/services/impots/taxes-daccise-droits-et-prelevements/taxe-sur-les-logements-sous-utilises/quest-qui-change.html",
+   "title": "Taxe sur les logements sous-utilisés: qu'est-ce qui a changé",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-10-21",
+   "supports": "« À compter de l'année civile 2023, la majorité des propriétaires canadiens d'immeubles résidentiels n'auront plus à produire de déclaration ni à payer la taxe » (modifications sanctionnées le 20 juin 2024). Page datée du 2026-03-17, antérieure à la sanction de C-15: elle ne mentionne pas encore la fin de la taxe. Lue par WebFetch, curl ayant expiré."
+  },
+  {
+   "url": "https://www.osfi-bsif.gc.ca/fr/consignes/repertoire-consignes/bsif-exempte-prets-hypothecaires-non-assures-qui-font-lobjet-dun-transfert-direct-du-tam-prescrit",
+   "title": "Le BSIF exempte les prêts hypothécaires non assurés qui font l'objet d'un transfert direct du TAM prescrit",
+   "publisher": "Bureau du surintendant des institutions financières",
+   "consulted": "2026-10-21",
+   "supports": "Lettre du 21 novembre 2024: le BSIF ne s'attend plus à ce que les institutions financières fédérales appliquent le taux admissible minimal lorsqu'un prêt hypothécaire non assuré autonome passe d'une institution fédérale à une autre au renouvellement, sans augmentation du montant ni de la période d'amortissement restante; l'institution évalue quand même le prêt selon la ligne directrice B-20. La page du TAM (modifiée le 2026-01-29) maintient le taux le plus élevé entre le taux contractuel majoré de 2 % et 5,25 %."
+  },
+  {
+   "url": "https://www.canada.ca/en/department-finance/programs/consultations/2026/consultation-on-financial-tools-for-citizen-led-homebuilding-and-for-infill-housing.html",
+   "title": "Consultation on Financial Tools for Citizen-Led Homebuilding and for Infill Housing",
+   "publisher": "Ministère des Finances du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Propositions: permettre aux assureurs hypothécaires privés d'offrir l'assurance multilogement sur les immeubles résidentiels de cinq à huit logements et assouplir les produits pour la construction de nouveaux immeubles de trois et quatre logements; consultation du 2 juin au 2 juillet 2026, statut « Closed »; aucune date d'entrée en vigueur. Page en anglais, modifiée le 2026-07-03, lue par WebFetch."
+  },
+  {
+   "url": "https://www.pm.gc.ca/fr/nouvelles/communiques/2025/03/21/premier-ministre-mark-carney-annule-la-hausse-proposee-de-impot-gains-capital",
+   "title": "Le premier ministre Carney annule la hausse proposée de l'impôt sur les gains en capital",
+   "publisher": "Cabinet du premier ministre du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 21 mars 2025: le gouvernement « annulera la hausse proposée du taux d'inclusion des gains en capital ». Lu par WebFetch."
+  }
+ ],
+ "claims_needing_review": [
+  "Fin de l'interdiction d'éviction le 6 juin 2027: date calculée à partir du résumé officiel du TAL (« trois ans à compter de la sanction de la loi », sanction le 6 juin 2024). Le texte même de la loi (L.Q. 2024, c. 23) n'a pas pu être ouvert: LegisQuébec ne sert pas la loi annuelle à l'adresse essayée, et la page de l'Assemblée nationale ne donne que le numéro de chapitre. Aucun avis de fin anticipée n'a été cherché directement dans la Gazette officielle; le taux SCHL d'octobre 2025 (2,7 %) est sous le seuil. Le prochain rapport annuel de la SCHL pourrait changer cette ligne.",
+  "Interdiction d'achat par des non-Canadiens: l'abrogation au 1er janvier 2027 est vérifiée sur le site de la législation fédérale (page modifiée le 2026-10-15) et dans L.C. 2024, ch. 17, art. 149. Une loi ou un projet de loi déposé après le 2026-10-21 peut encore modifier la date: à revérifier avant publication et au 1er janvier 2027.",
+  "Règlement 21-042 de Montréal: la page de la Ville parle des « propriétaires » du bâtiment; qui transmet les données dans une copropriété divise (syndicat ou copropriétaires) n'a pas été vérifié dans le guide de la Ville. L'article renvoie le lecteur au syndicat."
+ ]
+}

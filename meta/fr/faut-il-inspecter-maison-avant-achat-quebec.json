@@ -1,0 +1,49 @@
+{
+ "id": "t290",
+ "slug": "faut-il-inspecter-maison-avant-achat-quebec",
+ "title": "Faut-il faire inspecter une propriété avant l'achat?",
+ "target_keyword": "faire inspecter une propriété avant l'achat",
+ "word_count": 1619,
+ "category": "Guide de l'acheteur",
+ "internal_links": [
+  "/articles/vice-cache-conditions-recours-quebec/",
+  "/articles/vente-sans-garantie-legale-quebec/",
+  "/articles/garantie-gcr-maison-neuve-quebec/",
+  "/articles/inspection-preachat-cout-moment-quebec/",
+  "/articles/choisir-inspecteur-batiment-quebec/",
+  "/buyer/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991", "title": "Code civil du Québec", "publisher": "LégisQuébec",
+   "consulted": "2026-10-21", "supports": "Article 1726, deuxième phrase citée mot pour mot: exclusion du vice caché connu de l'acheteur et du vice apparent, défini comme celui qu'un acheteur prudent et diligent peut constater sans recourir à un expert. Article 1731: la vente sous contrôle de justice ne donne lieu à aucune garantie de qualité. Lu en direct par tools/ccq.py."},
+  {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/B-1.1,%20r.%203.1", "title": "Règlement sur l'encadrement des inspecteurs en bâtiments d'habitation pour les inspections en vue d'une transaction immobilière", "publisher": "LégisQuébec",
+   "consulted": "2026-10-21", "supports": "Texte à jour au 1er juillet 2026, D. 282-2024. Article 3: certificat exigé pour toute inspection visée par la norme BNQ 3009-500. Article 43: une personne physique peut, jusqu'au 30 septembre 2027, exercer sans certificat. Article 19: guider le client sur les qualifications d'une expertise, sans recommander d'entreprise. Article 21: expliquer avantages et coûts approximatifs de l'inspection des parties communes d'une copropriété. Article 25, paragraphe 9: décision du client sur les parties communes inscrite au contrat. Article 26: aucune clause excluant la responsabilité civile. Article 40: dossier conservé 6 ans. Article 41: aucun rapport remis à un tiers sans consentement écrit et préalable."},
+  {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/B-1.1,%20r.%208", "title": "Règlement sur le plan de garantie des bâtiments résidentiels neufs", "publisher": "LégisQuébec",
+   "consulted": "2026-10-21", "supports": "Texte à jour au 1er juillet 2026. Article 17: inspection avant la réception, conjointe entrepreneur et bénéficiaire, qui « peut être assisté par une personne de son choix ». Article 10, paragraphe 2: vices et malfaçons apparents couverts s'ils sont dénoncés par écrit à la réception ou, tant que le bénéficiaire n'a pas emménagé, dans les 3 jours qui suivent la réception."},
+  {"url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-73.2,%20r.%201", "title": "Règlement sur les conditions d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur la publicité", "publisher": "LégisQuébec",
+   "consulted": "2026-10-21", "supports": "Article 81: le courtier doit recommander à la personne qui se propose d'acquérir un immeuble d'en faire effectuer une inspection complète."},
+  {"url": "https://www.rbq.gouv.qc.ca/vous-etes/citoyen/achat-ou-construction-dune-propriete/faire-inspecter-une-propriete/", "title": "Faire inspecter une propriété", "publisher": "Régie du bâtiment du Québec",
+   "consulted": "2026-10-21", "supports": "Depuis le 1er octobre 2024, la RBQ délivre des certificats aux inspecteurs en bâtiments d'habitation; certificat obligatoire à compter du 1er octobre 2027; registre public des inspecteurs certifiés; plainte possible contre un inspecteur certifié. Page imprimée le 2026-10-21, lue en curl."},
+  {"url": "https://www.rbq.gouv.qc.ca/vous-etes/inspecteur-preachat/obtenir-un-certificat-dinspecteur-en-batiments-dhabitation/", "title": "Certificat d'inspecteur en bâtiments d'habitation", "publisher": "Régie du bâtiment du Québec",
+   "consulted": "2026-10-21", "supports": "Nom exact du règlement (REIBH), obligation de respecter la norme BNQ 3009-500, et certificat exigé à partir du 1er octobre 2027. La page voisine « Qualification exigée » confirme la période transitoire du 1er octobre 2024 au 2 août 2027 pour la voie de qualification transitoire."},
+  {"url": "https://educaloi.qc.ca/capsules/inspection-preachat/", "title": "L'inspection préachat", "publisher": "Éducaloi",
+   "consulted": "2026-10-21", "supports": "La loi n'oblige pas à retenir un inspecteur mais oblige à agir avec prudence, ce qui implique de détecter les problèmes apparents; cas de la vieille maison; négocier le prix ou retirer l'offre si le rapport révèle des problèmes sérieux. Citation « doivent détenir » un certificat de la RBQ, sans mention de la période transitoire, relevée dans l'article comme écart avec l'article 43 du règlement."},
+  {"url": "https://educaloi.qc.ca/capsules/immobilier-acheter-sans-garantie-legale/", "title": "Immobilier : acheter sans garantie légale", "publisher": "Éducaloi",
+   "consulted": "2026-10-21", "supports": "La garantie légale est normalement automatique; elle ne s'applique ni à un problème déclaré dans la déclaration du vendeur, ni à ce que pourrait révéler une inspection préachat, un certificat de localisation à jour ou une recherche au registre foncier par un notaire; si la garantie est exclue, seul reste le recours fondé sur une vérité volontairement cachée."},
+  {"url": "https://educaloi.qc.ca/capsules/le-vice-cache-dans-un-immeuble/", "title": "Le vice caché dans un immeuble", "publisher": "Éducaloi",
+   "consulted": "2026-10-21", "supports": "L'examen de l'acheteur se fait au moment de la visite et doit être « sérieux, attentif et prudent »; citation « revient à accepter d'acheter l'immeuble avec tous les vices qui auraient pu être décelés par une inspection »."},
+  {"url": "https://www.oaciq.com/fr/titulaires-de-permis/linspection-en-batiment-et-les-responsabilites-du-courtier-immobilier/", "title": "L'inspection en bâtiment et les responsabilités du courtier immobilier", "publisher": "OACIQ",
+   "consulted": "2026-10-21", "supports": "Vente sans garantie: le courtier insiste sur l'importance accrue d'une inspection détaillée et l'inspecteur est avisé de l'exclusion. Construction neuve: recommander d'être accompagné d'un professionnel du bâtiment indépendant à l'inspection préréception. Rapport antérieur déclaré aux Déclarations du vendeur et remis en entier; un rapport prévente ne libère pas le courtier de sa recommandation. Calcul du délai de la clause 8.1 en jours civils consécutifs, jour d'acceptation non compté, jour d'échéance compté. Caractère significatif apprécié de façon objective selon les tribunaux, cité par l'OACIQ sans que l'article nomme d'arrêt; l'inspection ne doit pas servir de prétexte. Recommandation d'expertise quand des tests plus poussés sont requis."},
+  {"url": "https://www.oaciq.com/media/qqlnugz4/promesse-achat-residentiel.pdf", "title": "Promesse d'achat, immeuble principalement résidentiel de moins de 5 logements excluant la copropriété (PA, version 06/2022)", "publisher": "OACIQ",
+   "consulted": "2026-10-21", "supports": "Clause 7.1: l'acheteur a visité l'immeuble à une date inscrite « et s'en déclare satisfait », sous réserve de la clause 8.1. Avertissement de la section 8: promesse sans clause d'inspection appropriée seulement dans des circonstances particulières, par exemple remplacer l'immeuble ou y apporter des rénovations majeures. Clause 8.1: délai en jours laissé en blanc, facteur significatif, avis et rapport au plus tard la 4e journée suivant l'expiration, avant 20 h, renonciation réputée. Paraphes de renonciation."},
+  {"url": "https://www.oaciq.com/media/0c2eprbn/promesse-achat-copropriete-divise.pdf", "title": "Promesse d'achat, copropriété, fraction d'un immeuble principalement résidentiel détenu en copropriété divise (PAD, version 04/2023)", "publisher": "OACIQ",
+   "consulted": "2026-10-21", "supports": "Clause 8.1: inspection « y inclus toutes les parties communes » avec le concours du vendeur auprès du syndicat, ou limitation à la partie privative par paraphes, ou renonciation. Clause 9.1: examen de la déclaration de copropriété, des procès-verbaux, des états financiers et de l'état du fonds de prévoyance."},
+  {"url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf", "title": "Baromètre APCIQ, 3e trimestre 2026, région métropolitaine de Montréal", "publisher": "APCIQ",
+   "consulted": "2026-10-21", "supports": "Page 8, île de Montréal: 3 348 ventes résidentielles, dont 1 730 copropriétés. Page 27, Laval: 849 ventes, dont 236 copropriétés. Totaux vérifiés par addition des catégories (unifamiliale, copropriété, plex)."}
+ ],
+ "claims_needing_review": [
+  "Tableau des délais de la condition d'inspection: les dates (acceptation le lundi 26 octobre 2026, délai de 7 jours, dernier jour d'inspection le lundi 2 novembre, avis au plus tard le vendredi 6 novembre avant 20 h) sont un calcul de la rédaction. La méthode de l'OACIQ vise expressément le délai d'inspection; son application au décompte de la « 4e journée suivant l'expiration » est une déduction à faire confirmer par un courtier ou un notaire.",
+  "Premier tableau, ligne « Qu'une inspection aurait pu révéler: non garanti »: repose sur Éducaloi seulement. Le texte de l'article 1726 parle d'un vice constatable sans recourir à un expert; l'article présente l'écart comme une question ouverte et renvoie à l'avocat, mais la formulation mérite une relecture juridique."
+ ]
+}

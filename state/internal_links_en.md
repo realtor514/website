@@ -30,6 +30,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Fixer Upper or Turnkey Home in Quebec: Who Funds the Work](/en/articles/turnkey-or-fixer-upper-quebec/) : Fixer upper or turnkey in Quebec: the SCHL Améliorations loan, the value after improvements, the advances
 - [Hard to Insure Home in Quebec: What Actually Blocks the Deal](/en/articles/hard-to-insure-home-quebec/) : Insurance refusal, oil tank, aluminum wiring, roof, past claims: why a Quebec home becomes hard to insure
 - [Home Inspection in Quebec: What It Costs and When to Do It](/en/articles/home-inspection-cost-timing-quebec/) : Home inspection in Quebec: before or after the offer, who pays and how much. Answers to the questions buy
+- [How Do You Prepare to Buy a First Home in Quebec?](/en/articles/prepare-first-home-purchase-quebec/) : Preparing to buy your first home in Quebec: the 12-month timeline, from the CELIAPP to the keys, with the
 - [Intergenerational Home in Laval](/en/articles/intergenerational-home-montreal-laval/) : Permit, logement additionnel, principal residence, financing: the rules for an intergenerational home in 
 - [Negotiating a Property in Montreal](/en/articles/strategies-negociation-immobilier-montreal/) : Promise to purchase, conditions, deposit, occupancy date: the real negotiation levers in Quebec, and what
 - [New Build or Resale in Quebec: What Actually Differs](/en/articles/new-build-or-resale-quebec/) : TPS and TVQ, the GCR warranty, the contrat préliminaire, droits de mutation: what actually separates a ne
@@ -41,6 +42,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Roof and Window Lifespan in Quebec](/en/articles/roof-and-window-lifespan-quebec/) : Expected service life of a roof, of windows, of a heat pump: the official figures, the remaining useful l
 - [Sagging Sewer Drain in Montreal](/en/articles/sagging-sewer-drain-montreal/) : A ventre de boeuf in a Montreal drain: camera inspection, who is responsible up to the street, the RénoPl
 - [Sale Without Legal Warranty in Quebec](/en/articles/sale-without-legal-warranty-quebec/) : Sale without legal warranty in Quebec: what the clause takes away, what it cannot erase, and what a buyer
+- [Should You Get a Home Inspection Before Buying?](/en/articles/home-inspection-before-buying-quebec/) : Home inspection before buying: no law requires it, but article 1726 excludes apparent defects. Condo, new
 - [The Hidden Costs of Homeownership](/en/articles/hidden-homeownership-costs/) : Taxes, notary, condo fees, insurance, maintenance: what owning a property in Quebec really costs, using t
 - [The Home Inspection Checklist, Item by Item](/en/articles/home-inspection-checklist-montreal/) : Roof, foundation, drain, plumbing, wiring, pyrite, vermiculite, lead, radon: what a Quebec inspector actu
 - [The Real Cost of Buying Your First Home in Quebec](/en/articles/vrai-cout-achat-premiere-maison-quebec/) : The real cost of buying your first home in Quebec: beyond the purchase price, the complete cost breakdown
@@ -54,6 +56,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 
 ## Finance
 - [Financing a Major Renovation in Quebec](/en/articles/financing-major-renovation-quebec/) : Financing a major renovation in Quebec: the four sources of funds, when each dollar leaves, the shared li
+- [Has First-Time Buyer Purchasing Power Declined?](/en/articles/first-time-buyer-purchasing-power-quebec/) : First-time buyer purchasing power: median price, income and posted rate in 2016, 2021 and 2026 in Montrea
 - [Homeowner Tax in Quebec: What Actually Gets Deducted](/en/articles/homeowner-tax-deductions-quebec/) : Homeowner tax in Quebec: deductions, the principal residence exemption, the home office, plexes and chang
 - [Homeownership in Quebec in 2026](/en/articles/everyone-deserves-homeownership/) : FHSA, HBP, tax credits, the GST rebate on new homes, minimum down payments and 30-year amortization: who 
 - [How to Pay Off Your Mortgage Faster in Quebec](/en/articles/pay-off-mortgage-faster-quebec/) : Accelerated payments, lump sums, higher payments, renewal: the four levers that shorten a mortgage in Que
@@ -70,6 +73,8 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [The Best Mortgage Rate in Canada](/en/articles/best-mortgage-rate-canada/) : Posted rate versus your rate, fixed versus variable, term, penalty and the interest rate differential: wh
 - [Undivided Co-Ownership in Montreal: How It Gets Financed](/en/articles/undivided-co-ownership-montreal/) : Why indivision exists in Montreal, the down payment lenders require, the convention d'indivision, and the
 - [What Deductions a Homeowner Can Claim in Quebec](/en/articles/what-homeowners-can-deduct-quebec/) : Homeowner deductions in Quebec: nothing on the principal residence, everything on the rented building, an
+- [What Will Quebec's Inflation Rate Be in 2027?](/en/articles/inflation-quebec-homeowners/) : Quebec's inflation rate: 3.1% in September 2026. What Quebec and the Bank of Canada project for 2027, and
+- [Will Mortgage Rates Go Down in 2027?](/en/articles/will-mortgage-rates-go-down-quebec/) : Will mortgage rates go down? A 2.25% policy rate, Bank of Canada dates for 2026 and 2027, the bond signal
 
 ## Financing
 - [First-Time Buyer Mortgages in Quebec](/en/articles/guide-hypotheque-premier-acheteur-quebec/) : First-time buyer mortgages in Quebec: more complex than your bank makes it seem, simpler than the interne
@@ -96,6 +101,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Plex or Condo in Montreal: Two Commitments, Not a Ranking](/en/articles/triplex-vs-condo-montreal/) : Down payment, how lenders treat rent, the Tribunal's rent-setting rules and rental taxation: what each of
 - [Rental Properties in Montreal and Laval](/en/articles/rental-property-management/) : Section G, tenant screening, the banned security deposit, rent increases, repossession, eviction and taxe
 - [Short Term Rentals in Quebec: The Rules](/en/articles/short-term-rental-rules-quebec/) : Registration number, Montreal and Laval zoning, declaration of co-ownership: the short term rental rules 
+- [Should You Invest in Rental Property in Quebec?](/en/articles/invest-rental-property-quebec/) : Investing in rental property in Quebec in 2026: a median Laval plex worked out line by line, with CMHC re
 
 ## Market Analysis
 - [Ahuntsic and Montréal-Nord, Montreal Real Estate Market: Q3 2026](/en/articles/ahuntsic-montreal-north-real-estate-market/) : Ahuntsic-Cartierville and Montréal-Nord, Montreal, in Q3 2026: single-family median prices of $924,625 an
@@ -105,6 +111,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Duvernay and Saint-François, Laval Real Estate Market: Q3 2026](/en/articles/east-laval-real-estate-market-duvernay/) : Duvernay and Saint-François, Laval, in Q3 2026: single-family median prices of $735,000 and $542,500, sol
 - [Greenfield Park, Longueuil Real Estate Market: Q3 2026](/en/articles/greenfield-park-longueuil-real-estate-market/) : Greenfield Park, Longueuil, in Q3 2026: 41 sales, a $570,062 single-family median over one year, 73 prope
 - [Hochelaga, Anjou and Saint-Léonard, Montreal Real Estate Market: Q3 2026](/en/articles/east-end-montreal-real-estate-market/) : East End Montreal, Q3 2026: 205 sales (-34%) in Mercier-Hochelaga-Maisonneuve, condo median $415,000, ple
+- [Is There a Housing Bubble in Quebec?](/en/articles/housing-bubble-quebec/) : Housing bubble in Quebec: prices and incomes, prices and rents, credit, speculation, construction. Five c
 - [Laval Real Estate Market by Sector: Q3 2026](/en/articles/laval-real-estate-market-by-sector/) : Laval real estate market in Q3 2026: 848 sales, a $630,000 median price for single family homes and $439,
 - [Laval-des-Rapides and Pont-Viau, Laval Real Estate Market: Q3 2026](/en/articles/pont-viau-laval-des-rapides-real-estate-market/) : Laval-des-Rapides and Pont-Viau, Laval, in Q3 2026: 70 sales (-28%) in Laval-des-Rapides, and 89 of the 3
 - [List Price and Sold Price in Montreal: Reading the Gap](/en/articles/list-price-vs-sold-price-montreal/) : List price and sold price in Montreal: who sees the sale price, when it becomes consultable at the Regist
@@ -124,6 +131,10 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Ville-Marie and Plateau-Mont-Royal, Montreal Real Estate Market: Q3 2026](/en/articles/ville-marie-plateau-montreal-real-estate-market/) : Ville-Marie and Plateau-Mont-Royal, Montreal, in Q3 2026: 311 and 197 sales, condo median prices of $442,
 - [Vimont and Auteuil, Laval Real Estate Market: Q3 2026](/en/articles/vimont-auteuil-laval-real-estate-market/) : Vimont and Auteuil, Laval, in Q3 2026: single-family median prices of $700,000 and $640,000, sold in 31 d
 - [West Island, Montreal Real Estate Market: Q3 2026](/en/articles/west-island-montreal-real-estate-market/) : West Island, Montreal, in Q3 2026: single-family median prices of $635,000 in Pierrefonds-Roxboro and $1,
+- [What Factors Influence the Real Estate Market in Quebec?](/en/articles/factors-quebec-real-estate-market/) : Factors that influence the Quebec real estate market: rates, credit, jobs, population, supply, rents, tax
+- [When Will the Housing Crisis End in Quebec?](/en/articles/when-will-housing-crisis-end-quebec/) : When will the housing crisis end? No source gives a date. Vacancy, the housing gap and housing starts: wh
+- [Will Homes Be Affordable in Quebec in 2027?](/en/articles/home-affordability-quebec/) : Home affordability in Quebec: the payment on the Q3 2026 Centris median, city by city, against CMHC's 30%
+- [Will House Prices Drop in Quebec?](/en/articles/will-house-prices-drop-quebec/) : Will house prices drop in Quebec? Q3 2026 medians, CMHC and APCIQ forecasts, the signals to watch and wha
 
 ## Market Insights
 - [A Montreal Housing Crash: The Data](/en/articles/montreal-market-crash-analysis/) : Sales, active listings, median prices and days on market: what public APCIQ, ISQ and Statistics Canada da
@@ -179,6 +190,9 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Separation, Divorce and the Home, Quebec](/en/articles/divorce-real-estate-guide/) : Family patrimony, parental union, buyout, sale or co-ownership: what happens to the home when a couple se
 - [The Notary in Quebec, Step by Step](/en/articles/quebec-notary-process/) : Why a notary is mandatory in Quebec, who chooses and pays, every step from accepted offer to keys, the ad
 - [Vice caché in Quebec: The Four Conditions and Your Recourses](/en/articles/latent-defect-recourse-quebec/) : Latent defect in a Quebec home: the four conditions of article 1726, the mandatory written notice, your r
+- [What Are the Risks of a Real Estate Transaction?](/en/articles/real-estate-transaction-risks-quebec/) : Real estate transaction risks in Quebec: each risk, the protection that answers it, who offers it, its ce
+- [What Changes for Quebec Homeowners in 2027?](/en/articles/changes-homeowners-quebec/) : What changes for Quebec homeowners in 2027: pools, rent, Laval's assessment roll, foreign buyers. Every d
+- [What Will Homes Look Like in Quebec in 2030?](/en/articles/quebec-homes-2030/) : Quebec homes in 2030: the Construction Code, the end of heating oil, flood zones, accessory units. What i
 - [When a Quebec Deal Goes Wrong: Seven Cases](/en/articles/worst-real-estate-deal-lessons/) : When a Quebec deal goes wrong: legal hypothec, co-ownership file, inspection, financing, latent defects, 
 
 ## Seller's Guide

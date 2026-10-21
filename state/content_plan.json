@@ -10844,6 +10844,495 @@
     "saint-felix-de-valois"
    ],
    "status": "in_progress"
+  },
+  {
+   "id": "t284",
+   "topic": "Le prix des maisons va-t-il baisser au Quebec? Ce que montrent les donnees du 3e trimestre 2026",
+   "reference_theme": "Serie questions des consommateurs, captures du 2026-10-21: prix qui continuent d augmenter, prix qui vont baisser, evolution des prix",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "prix des maisons va baisser quebec",
+   "requetes": [
+    "est-ce que le prix des maisons va baisser au quebec",
+    "les prix des maisons au quebec vont-ils continuer d augmenter",
+    "comment vont evoluer les prix de l immobilier",
+    "prix maison quebec 2027",
+    "baisse prix immobilier montreal",
+    "prevision prix immobilier quebec"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "Repondre a la question de la direction des prix sans pretendre la connaitre. 1) Ce qui s est passe: prix medians et variations sur un an au T3 2026 pour la province, la RMR de Montreal, Laval, l ile de Montreal, Longueuil, Laurentides, Lanaudiere (APCIQ, voir state/marche_T3_2026/contexte_commun.md). Distinguer prix median, sensible a la composition des ventes, et indice de prix. 2) Ce que publient les previsionnistes officiels: Perspectives du marche de l habitation de la SCHL (derniere edition), previsions de l APCIQ si publiees; donner leurs fourchettes avec leur date, et dire qu une prevision n est pas une promesse. 3) Les signaux qui precedent un mouvement de prix et ou les lire: inscriptions en vigueur, mois d inventaire, delai de vente. 4) Une baisse generale et une baisse dans un segment sont deux choses differentes: copropriete, unifamiliale, plex, secteur. 5) Ce que ca change pour la decision: attendre a un cout mesurable (loyer paye, taux). Aucune prediction propre au courtier.",
+   "planned_h2": [
+    "Les prix au 3e trimestre 2026: hausse, baisse ou plateau",
+    "Prix median ou indice de prix: pourquoi deux chiffres divergent",
+    "Ce que prevoient la SCHL et l APCIQ, et ce que vaut une prevision",
+    "Les signaux a surveiller avant une baisse des prix",
+    "Une baisse pour qui: copropriete, unifamiliale, plex et secteurs",
+    "Attendre une baisse: le calcul pour un acheteur et pour un vendeur",
+    "Questions frequentes"
+   ],
+   "slug": "prix-maisons-baisser-quebec",
+   "distinct_de": [
+    "montreal-market-crash-analysis",
+    "marche-immobilier-montreal",
+    "marche-immobilier-laval-secteurs",
+    "bon-moment-pour-vendre-maison-laval"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/prix-maisons-baisser-quebec.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t285",
+   "topic": "Les taux hypothecaires vont-ils baisser en 2027? Ce que la Banque du Canada et les obligations indiquent",
+   "reference_theme": "Serie questions des consommateurs: taux hypothecaires qui baissent, taux d emprunt qui baissent",
+   "category": "Financement",
+   "target_keyword_fr": "taux hypothecaires vont-ils baisser",
+   "requetes": [
+    "les taux hypothecaires vont-ils baisser au quebec",
+    "est-ce que les taux d emprunt vont baisser",
+    "taux hypothecaire 2027",
+    "prochaine annonce banque du canada",
+    "taux directeur octobre 2026",
+    "taux fixe ou variable 2027"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La question de calendrier, pas un cours sur les taux. 1) Le taux directeur au 21 octobre 2026 et le calendrier officiel des annonces restantes de 2026 et de 2027 s il est publie (site de la Banque du Canada). 2) Taux variable: suit le taux preferentiel, qui suit le taux directeur. Taux fixe de 5 ans: suit surtout le rendement des obligations du Canada a 5 ans; donner le rendement observe et le taux hypothecaire affiche de 5 ans publies par la Banque du Canada, avec leur date. 3) Ce que la Banque du Canada a dit dans son dernier Rapport sur la politique monetaire sur l inflation projetee, sans en tirer une promesse. 4) Le cout concret d un quart de point sur un pret type calcule sur la mediane d une unifamiliale a Laval ou a Montreal au T3 2026, en dollars par mois, hypotheses ecrites et calcul montre. 5) Renouveler en 2026 et 2027: ce que la Banque du Canada a publie sur les hypotheques qui se renouvellent. 6) Ce qu un emprunteur controle: terme, garantie de taux d une preapprobation. Aucune prediction.",
+   "planned_h2": [
+    "Ou en est le taux directeur en octobre 2026",
+    "Taux variable et taux fixe ne suivent pas le meme signal",
+    "Les prochaines annonces de la Banque du Canada",
+    "Ce que vaut un quart de point sur une maison de Laval ou de Montreal",
+    "Renouveler en 2027: ce que montrent les donnees",
+    "Attendre une baisse des taux ou acheter maintenant",
+    "Questions frequentes"
+   ],
+   "slug": "taux-hypothecaires-baisser-quebec",
+   "distinct_de": [
+    "interest-rates-montreal-market",
+    "best-mortgage-rate-canada",
+    "refinancement-hypothecaire-quebec"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/taux-hypothecaires-baisser-quebec.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t286",
+   "topic": "Le marche immobilier quebecois est-il dans une bulle? Les indicateurs mesurables",
+   "reference_theme": "Serie questions des consommateurs: bulle immobiliere",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "bulle immobiliere quebec",
+   "requetes": [
+    "le marche immobilier quebecois est-il dans une bulle",
+    "bulle immobiliere montreal",
+    "bulle immobiliere 2027",
+    "krach immobilier quebec"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "Definir une bulle par des criteres mesurables, puis confronter le Quebec a chacun avec des sources officielles: 1) prix par rapport aux revenus (revenu median des menages de Statistique Canada, prix median Centris), 2) prix par rapport aux loyers (loyer moyen de la SCHL), 3) credit: endettement des menages (Statistique Canada, dette sur revenu disponible), part des prets a ratio eleve (Banque du Canada, Revue du systeme financier), 4) speculation: part des proprietaires de plusieurs logements ou des investisseurs (Statistique Canada, Programme de la statistique du logement canadien) si un chiffre existe pour le Quebec, 5) surconstruction: mises en chantier contre croissance demographique (SCHL, ISQ). Verifier si la SCHL publie encore son Evaluation du marche de l habitation et ne la citer que si une edition recente existe. Distinguer bulle, correction et krach. Ne pas trancher la ou les donnees ne tranchent pas.",
+   "planned_h2": [
+    "Ce qu est une bulle immobiliere, en criteres mesurables",
+    "Prix et revenus au Quebec: l ecart chiffre",
+    "Prix et loyers: ce que dit la SCHL",
+    "Le credit et l endettement des menages",
+    "Speculation et surconstruction: les donnees disponibles",
+    "Bulle, correction ou krach: pourquoi les mots comptent",
+    "Questions frequentes"
+   ],
+   "slug": "bulle-immobiliere-quebec",
+   "distinct_de": [
+    "montreal-market-crash-analysis",
+    "marche-immobilier-montreal"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/bulle-immobiliere-quebec.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t287",
+   "topic": "Les maisons seront-elles abordables au Quebec en 2027? L abordabilite mesuree ville par ville",
+   "reference_theme": "Serie questions des consommateurs: proprietes abordables",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "abordabilite maison quebec",
+   "requetes": [
+    "les proprietes seront-elles abordables au quebec",
+    "maison abordable quebec 2027",
+    "abordabilite logement quebec",
+    "prix maison par rapport au revenu quebec"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "Une mesure d abordabilite reproductible par le lecteur, photo de 2026 et scenarios pour 2027: part du revenu median des menages (Statistique Canada, par RMR ou municipalite, annee de reference dite) absorbee par le versement hypothecaire sur la mediane Centris de l unifamiliale et de la copropriete au T3 2026, hypotheses ecrites (mise de fonds, amortissement, taux). Tableau par ville du territoire, seulement la ou les deux donnees existent: Montreal, Laval, Longueuil, Terrebonne, Saint-Jerome, Mirabel, Repentigny. Seuil de reference: la SCHL considere un logement abordable s il coute moins de 30 % du revenu avant impot du menage. Puis ce qui fera bouger l abordabilite d ici 2027: revenus, taux, prix, offre. Trois scenarios calcules, aucune prediction. Ne pas refaire la comparaison historique 2016, 2021, 2026 qui appartient a t288.",
+   "planned_h2": [
+    "Ce que veut dire abordable: le seuil de 30 % de la SCHL",
+    "L abordabilite d une unifamiliale, ville par ville",
+    "La copropriete: l entree la plus accessible, en chiffres",
+    "Ce qui fera bouger l abordabilite d ici 2027",
+    "Trois scenarios calcules: taux, prix et revenus",
+    "Ou se situe votre propre budget",
+    "Questions frequentes"
+   ],
+   "slug": "maisons-abordables-quebec",
+   "distinct_de": [
+    "quel-salaire-pour-acheter-montreal",
+    "banlieue-ou-ville-cout-reel-montreal"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/maisons-abordables-quebec.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t288",
+   "topic": "Le pouvoir d achat des premiers acheteurs a-t-il diminue au Quebec? 2016, 2021 et 2026 compares",
+   "reference_theme": "Serie questions des consommateurs: pouvoir d achat des premiers acheteurs",
+   "category": "Financement",
+   "target_keyword_fr": "pouvoir d achat premiers acheteurs",
+   "requetes": [
+    "le pouvoir d achat des premiers acheteurs a-t-il diminue",
+    "premier acheteur quebec 2026",
+    "acheter sa premiere maison est-il plus difficile",
+    "taux de proprietaires jeunes quebec"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "Une comparaison dans le temps, pas une photo actuelle: pour trois annees (2016, 2021, 2026), le prix median (APCIQ ou Centris, RMR de Montreal), le revenu median des menages (Statistique Canada), le taux hypothecaire affiche de 5 ans (Banque du Canada), et le versement resultant en part du revenu, calcul montre. Puis ce que les regles ont change de chaque cote: test de resistance (BSIF, ligne directrice B-20), amortissement de 30 ans pour premiers acheteurs et plafond du pret assure (ministere des Finances du Canada, dates a verifier), CELIAPP (depuis 2023), RAP a 60 000 $, remboursement de TPS sur le neuf pour premier acheteur si en vigueur. Taux de proprietaires des jeunes menages (Statistique Canada, recensements 2016 et 2021). Conclure par ce que les chiffres disent et ne disent pas. Ne pas refaire le tableau d abordabilite ville par ville qui appartient a t287.",
+   "planned_h2": [
+    "La question, chiffree sur dix ans",
+    "Prix, revenus et taux: 2016, 2021 et 2026",
+    "Le versement hypothecaire en part du revenu",
+    "Ce que les regles ont retire, et ce qu elles ont rendu",
+    "Qui achete encore: le taux de proprietaires des jeunes menages",
+    "Ce qui compense en 2026: CELIAPP, RAP, amortissement de 30 ans",
+    "Questions frequentes"
+   ],
+   "slug": "pouvoir-achat-premiers-acheteurs-quebec",
+   "distinct_de": [
+    "first-time-buyer-tax-credits",
+    "everyone-deserves-homeownership",
+    "guide-hypotheque-premier-acheteur"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/pouvoir-achat-premiers-acheteurs-quebec.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t289",
+   "topic": "Quels sont les risques d une transaction immobiliere au Quebec? Chaque risque et la protection qui y repond",
+   "reference_theme": "Serie questions des consommateurs: risques d une transaction immobiliere",
+   "category": "Immobilier 101",
+   "target_keyword_fr": "risques transaction immobiliere",
+   "requetes": [
+    "quels sont les risques associes a une transaction immobiliere",
+    "risques achat maison quebec",
+    "fraude immobiliere quebec",
+    "fonds d indemnisation courtage immobilier",
+    "assurance titres quebec"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Une carte des risques, chacun associe a l outil de protection qui existe au Quebec et a qui l offre: risque financier (condition de financement de la promesse d achat), etat du batiment (inspection, garantie legale), titre et conformite (certificat de localisation, examen des titres par le notaire, assurance titres), fraude et usurpation d identite (verification d identite par le notaire et le courtier, obligations envers CANAFE), argent en transit (compte en fideicommis du courtier et du notaire, Fonds d indemnisation du courtage immobilier, fonds d indemnisation de la Chambre des notaires), faute professionnelle (assurance responsabilite obligatoire du courtier, FARCIQ), acheteur defaillant pour le vendeur (acompte, delais), hypotheque legale de la construction. Tableau risque, protection, qui l offre. Distinct de worst-real-estate-deal-lessons: ici la grille de protection, pas les recits d echec.",
+   "planned_h2": [
+    "Les risques d une transaction immobiliere, etape par etape",
+    "Le risque financier: la condition de financement",
+    "Le batiment: inspection et garantie legale",
+    "Le titre, la conformite et la fraude",
+    "L argent en transit: fideicommis et fonds d indemnisation",
+    "La faute d un professionnel: les assurances obligatoires",
+    "Questions frequentes"
+   ],
+   "slug": "risques-transaction-immobiliere-quebec",
+   "distinct_de": [
+    "worst-real-estate-deal-lessons",
+    "red-flags-walk-away-property",
+    "vice-cache-conditions-recours-quebec"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/risques-transaction-immobiliere-quebec.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t290",
+   "topic": "Faut-il faire inspecter une propriete avant l achat? Ce que le Code civil attend de l acheteur",
+   "reference_theme": "Serie questions des consommateurs: importance de l inspection avant l achat",
+   "category": "Guide de l'acheteur",
+   "target_keyword_fr": "faire inspecter une propriete avant l achat",
+   "requetes": [
+    "est-il important de faire inspecter une propriete avant l achat",
+    "inspection obligatoire achat maison quebec",
+    "acheter sans inspection",
+    "inspection condo necessaire",
+    "inspection maison neuve obligatoire"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Le pourquoi juridique, que les autres articles d inspection supposent acquis: aucune loi n oblige l acheteur a faire inspecter, mais l article 1726 du Code civil exclut de la garantie le vice apparent, celui qu un acheteur prudent et diligent peut constater sans recourir a un expert; ce qu Educaloi et l OACIQ disent du role de l inspection dans ce critere, sans citer d arret non verifie. Ce que change la presence ou l absence d inspection sur un recours en vice cache. Les cas ou elle pese plus lourd: vente sans garantie legale, copropriete (partie privative, parties communes, documents du syndicat), construction neuve (inspection prereception et garantie GCR), maison ancienne. La condition d inspection de la promesse d achat OACIQ et ses delais. L encadrement des inspecteurs: statut exact au 21 octobre 2026 de la certification obligatoire par la RBQ. Pas de liste de verification ni de couts: renvoyer aux articles existants.",
+   "planned_h2": [
+    "Aucune loi n oblige l inspection, mais le Code civil en tient compte",
+    "Le vice apparent et l acheteur prudent et diligent",
+    "Acheter sans inspection: ce que vous perdez en cas de vice",
+    "Les cas ou l inspection pese encore plus lourd",
+    "La condition d inspection dans la promesse d achat",
+    "L encadrement des inspecteurs au Quebec en 2026",
+    "Questions frequentes"
+   ],
+   "slug": "faut-il-inspecter-maison-avant-achat-quebec",
+   "distinct_de": [
+    "inspection-preachat-cout-moment-quebec",
+    "home-inspection-checklist-montreal",
+    "choisir-inspecteur-batiment-quebec",
+    "vice-cache-conditions-recours-quebec"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/faut-il-inspecter-maison-avant-achat-quebec.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t291",
+   "topic": "Quels facteurs influencent le marche immobilier quebecois? Les indicateurs et ou les lire",
+   "reference_theme": "Serie questions des consommateurs: facteurs qui influencent le marche",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "facteurs qui influencent le marche immobilier",
+   "requetes": [
+    "quels facteurs influencent le marche immobilier quebecois",
+    "qu est-ce qui fait monter le prix des maisons",
+    "facteurs prix immobilier",
+    "immigration et prix des maisons quebec",
+    "mises en chantier quebec 2026"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "Un tableau de bord pour le lecteur: chaque facteur, la donnee officielle qui le mesure, l organisme qui la publie, sa frequence, et sa derniere valeur connue au 21 octobre 2026. Facteurs: taux directeur et rendements obligataires (Banque du Canada), regles de credit (BSIF, ministere des Finances du Canada), emploi et revenus (Statistique Canada, Enquete sur la population active, Quebec et RMR de Montreal), population et immigration (ISQ, plan d immigration du Quebec), offre neuve (mises en chantier SCHL), offre de revente (inscriptions en vigueur APCIQ), loyers et inoccupation (SCHL), fiscalite (droits de mutation). Le mecanisme de chacun en deux phrases, sans pretendre ponderer leur importance relative si aucune source officielle ne le fait. Ne pas faire de prevision de prix: c est t284.",
+   "planned_h2": [
+    "Les facteurs qui influencent le marche immobilier: le tableau",
+    "Les taux et les regles de credit",
+    "L emploi et les revenus",
+    "La population et l immigration",
+    "L offre: mises en chantier et inscriptions",
+    "Les loyers, la fiscalite et les politiques publiques",
+    "Questions frequentes"
+   ],
+   "slug": "facteurs-marche-immobilier-quebec",
+   "distinct_de": [
+    "interest-rates-montreal-market",
+    "marche-immobilier-montreal"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/facteurs-marche-immobilier-quebec.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t292",
+   "topic": "Faut-il investir dans l immobilier locatif au Quebec en 2027? Le calcul avant de decider",
+   "reference_theme": "Serie questions des consommateurs: investir dans l immobilier locatif",
+   "category": "Investissement",
+   "target_keyword_fr": "investir immobilier locatif quebec",
+   "requetes": [
+    "faut-il investir dans l immobilier locatif au quebec",
+    "est-ce rentable d acheter un plex en 2026",
+    "rendement immeuble locatif montreal",
+    "taux d inoccupation montreal 2026",
+    "fixation des loyers 2026 tal"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "La decision d investir confrontee aux donnees de 2026: prix medians des plex au T3 2026 (Centris, Montreal et Laval, voir state/marche_T3_2026/), loyer moyen et taux d inoccupation (Rapport sur le marche locatif de la SCHL, derniere edition), regles de fixation des loyers du TAL en vigueur en 2026 (verifier le reglement et le calcul), mise de fonds selon le nombre de logements, taux. Un exemple calcule de flux de tresorerie sur un plex median, hypotheses ecrites, presente comme exemple et non comme promesse de rendement. Ce que l impot fait au rendement (revenu de location imposable, deduction pour amortissement, gain en capital, renvoi au comptable). Pour qui ca a du sens et pour qui non. Distinct des articles plex et portefeuille: ici le verdict chiffre de 2026, pas le mode d emploi.",
+   "planned_h2": [
+    "Ce qui a change pour les proprietaires bailleurs en 2026",
+    "Prix des plex et loyers: les donnees de 2026",
+    "La fixation des loyers au TAL",
+    "Un plex median, calcule ligne par ligne",
+    "Ce que l impot retire du rendement",
+    "Pour qui l immobilier locatif a du sens, et pour qui non",
+    "Questions frequentes"
+   ],
+   "slug": "investir-immobilier-locatif-quebec",
+   "distinct_de": [
+    "income-property-beginners",
+    "build-real-estate-portfolio",
+    "triplex-vs-condo-montreal",
+    "maximiser-valeur-plex-montreal",
+    "investir-triplex-laval"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/investir-immobilier-locatif-quebec.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t293",
+   "topic": "Comment se preparer a l achat d une premiere propriete au Quebec? Le calendrier sur 12 mois",
+   "reference_theme": "Serie questions des consommateurs: se preparer a un premier achat",
+   "category": "Guide de l'acheteur",
+   "target_keyword_fr": "se preparer a l achat d une premiere propriete",
+   "requetes": [
+    "comment se preparer a l achat d une premiere propriete",
+    "etapes premier achat maison quebec",
+    "premier achat maison par ou commencer",
+    "combien de temps pour preparer un achat de maison",
+    "celiapp quand ouvrir"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Un calendrier a rebours, de 12 mois avant l achat jusqu a la remise des cles, avec pour chaque etape la regle officielle qui fixe le delai: ouvrir le CELIAPP tot parce que les droits de cotisation ne s accumulent qu a partir de l ouverture (ARC), plafonds annuel et a vie; RAP a 60 000 $ et ses conditions de delai (ARC); dossier de credit (droit d obtenir son dossier gratuitement, Agence de la consommation en matiere financiere du Canada); mise de fonds minimale (ministere des Finances du Canada); epargne pour les frais (droits de mutation, notaire, inspection); preapprobation et sa duree; contrat de courtage achat; promesse d achat et ses delais. Tableau mois par mois. Renvoyer aux articles detailles existants au lieu de les repeter.",
+   "planned_h2": [
+    "12 mois avant: ouvrir le CELIAPP et verifier son credit",
+    "9 mois avant: le budget complet, frais compris",
+    "6 mois avant: la mise de fonds et le RAP",
+    "3 mois avant: la preapprobation et le choix du courtier",
+    "La recherche et la promesse d achat",
+    "De l acceptation aux cles: les dernieres semaines",
+    "Questions frequentes"
+   ],
+   "slug": "preparer-achat-premiere-propriete-quebec",
+   "distinct_de": [
+    "guide-hypotheque-premier-acheteur",
+    "vrai-cout-achat-premiere-maison",
+    "first-time-buyer-tax-credits",
+    "everyone-deserves-homeownership"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/preparer-achat-premiere-propriete-quebec.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t294",
+   "topic": "Quel sera le taux d inflation au Quebec en 2027? Ce que l inflation change pour un proprietaire",
+   "reference_theme": "Serie questions des consommateurs, capture Google: taux d inflation au Quebec",
+   "category": "Financement",
+   "target_keyword_fr": "taux d inflation quebec 2027",
+   "requetes": [
+    "quel sera le taux d inflation au quebec",
+    "inflation quebec 2026",
+    "inflation quebec 2027",
+    "prevision inflation banque du canada",
+    "inflation et taux hypothecaire",
+    "inflation et augmentation de loyer"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "La reponse chiffree en trois temps: 1) l inflation mesuree: IPC du Quebec et de Montreal selon le dernier communique de Statistique Canada (verifier la date de parution la plus recente), et sa composante logement (cout de l interet hypothecaire, loyer, entretien, impots fonciers), 2) l inflation projetee par la Banque du Canada (dernier Rapport sur la politique monetaire) et par le ministere des Finances du Quebec (dernier budget ou derniere mise a jour economique), avec leur date, sans en faire une promesse, 3) ce que l inflation change pour un proprietaire: lien avec les taux par la cible de 2 %, indice des prix de la construction de batiments de Statistique Canada et cout des renovations, assurance habitation si une source officielle chiffre la hausse, et pour un proprietaire bailleur le calcul de l augmentation de loyer du TAL s il depend de l IPC.",
+   "planned_h2": [
+    "L inflation au Quebec: le dernier chiffre officiel",
+    "La composante logement de l IPC",
+    "Ce que prevoient la Banque du Canada et Quebec pour 2027",
+    "Inflation et taux hypothecaires: le lien par la cible de 2 %",
+    "Ce que l inflation fait aux couts d un proprietaire",
+    "Proprietaire bailleur: inflation et augmentation de loyer",
+    "Questions frequentes"
+   ],
+   "slug": "inflation-quebec-immobilier",
+   "distinct_de": [
+    "interest-rates-montreal-market"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/inflation-quebec-immobilier.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t295",
+   "topic": "Comment seront les maisons en 2030 au Quebec? Ce que les regles deja adoptees imposent",
+   "reference_theme": "Serie questions des consommateurs, capture Google: les maisons en 2030",
+   "category": "Immobilier 101",
+   "target_keyword_fr": "maisons en 2030 quebec",
+   "requetes": [
+    "comment seront les maisons en 2030",
+    "maison du futur quebec",
+    "normes construction 2030 quebec",
+    "interdiction chauffage mazout quebec",
+    "efficacite energetique code construction quebec"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "Pas de futurologie: seulement ce que des reglements adoptes et des donnees publiees imposent deja aux maisons construites ou renovees d ici 2030. Pistes a verifier, avec la date d entree en vigueur de chacune: exigences d efficacite energetique du Code de construction du Quebec (RBQ), interdiction du mazout (reglement provincial sur les appareils de chauffage au mazout: construction neuve, remplacement), reglement de Montreal sur les appareils de chauffage aux combustibles fossiles, cotation ou divulgation energetique des batiments si en vigueur, cadre des zones inondables du 1er mars 2026, densification: logements accessoires et nouveaux pouvoirs municipaux en habitation (verifier la loi exacte), part des logements collectifs dans les mises en chantier (SCHL), construction industrialisee seulement si une politique publique est publiee. Chaque point: ce qui est adopte, depuis quand, pour qui, et ce qui reste un projet.",
+   "planned_h2": [
+    "Les maisons de 2030 sont deja dans les reglements",
+    "L efficacite energetique exigee a la construction",
+    "La fin du mazout et des combustibles fossiles",
+    "Zones inondables et adaptation au climat",
+    "Plus dense: logements accessoires et petits terrains",
+    "Ce que montrent les mises en chantier",
+    "Questions frequentes"
+   ],
+   "slug": "maisons-2030-quebec",
+   "distinct_de": [
+    "maison-passive-novoclimat-quebec",
+    "maison-ecoenergetique-novoclimat-quebec",
+    "renovations-resilience-climat-quebec",
+    "rentabiliser-terrain-zonage-quebec"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/maisons-2030-quebec.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t296",
+   "topic": "Quels changements pour les proprietaires au Quebec en 2027? Les echeances datees",
+   "reference_theme": "Serie questions des consommateurs, capture Google: changements pour les proprietaires",
+   "category": "Immobilier 101",
+   "target_keyword_fr": "changements proprietaires 2027 quebec",
+   "requetes": [
+    "quel changement pour les proprietaires en 2027",
+    "nouvelles regles proprietaires quebec 2026",
+    "nouvelle loi proprietaire quebec",
+    "ce qui change pour les proprietaires 2027",
+    "obligations proprietaire quebec"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "consideration",
+   "unique_angle": "Une liste datee, seulement des changements adoptes, avec leur date d entree en vigueur, qui touchent un proprietaire occupant, un coproprietaire ou un proprietaire bailleur au Quebec entre la fin de 2026 et la fin de 2027. Pistes a verifier une par une, garder seulement ce qu une source officielle confirme: echeance du 30 septembre 2027 pour la securite des piscines residentielles, obligations de la loi 16 en copropriete et leurs dates, fixation des loyers du TAL et publication des parametres pour 2027, roles d evaluation fonciere de Montreal et de Laval (periode du role en vigueur, prochain depot), cadre des zones inondables du 1er mars 2026, enregistrement des locations a court terme, changements federaux qui touchent les proprietaires (taxe sur les logements sous-utilises, regles hypothecaires). Tableau: date, changement, qui est vise, source. Dire clairement ce qui n est pas encore adopte.",
+   "planned_h2": [
+    "Les changements dates pour les proprietaires: le tableau",
+    "Proprietaire occupant: piscine, zones inondables, securite",
+    "Copropriete: les obligations de la loi 16",
+    "Proprietaire bailleur: loyers et location a court terme",
+    "Evaluation fonciere et taxes municipales",
+    "Les regles federales qui touchent les proprietaires",
+    "Questions frequentes"
+   ],
+   "slug": "changements-proprietaires-quebec",
+   "distinct_de": [
+    "reglement-piscine-securite-quebec",
+    "loi-16-copropriete-acheteur-quebec",
+    "location-court-terme-quebec-regles"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/changements-proprietaires-quebec.md",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "t297",
+   "topic": "Quand finira la crise du logement au Quebec? Ce que les donnees de la SCHL permettent de dire",
+   "reference_theme": "Serie questions des consommateurs, capture Google: quand finira la crise immobiliere",
+   "category": "Analyse de marché",
+   "target_keyword_fr": "quand finira la crise du logement",
+   "requetes": [
+    "quand finira la crise immobiliere",
+    "quand finira la crise du logement au quebec",
+    "crise du logement montreal 2026",
+    "penurie de logements quebec",
+    "taux d inoccupation quebec 2026"
+   ],
+   "search_intent": "informationnel",
+   "funnel_stage": "awareness",
+   "unique_angle": "Definir la fin d une crise par des seuils mesurables, puis montrer ou en est le Quebec sur chacun: taux d inoccupation (SCHL, Rapport sur le marche locatif; le seuil d equilibre de 3 % souvent cite: verifier qui le definit), ecart de logements a construire pour retrouver l abordabilite (SCHL, rapport le plus recent sur les penuries de logements, chiffres pour le Quebec), mises en chantier 2025 et 2026 au Quebec et dans la RMR de Montreal (SCHL), croissance demographique (ISQ, Statistique Canada) et cibles d immigration. Les mesures publiques seulement si adoptees. Ce qu on peut dire et ce qu on ne peut pas dire; aucune date de fin inventee. Ne pas refaire l analyse de bulle (t286) ni le tableau des facteurs (t291).",
+   "planned_h2": [
+    "Une crise du logement, mesuree comment",
+    "Le taux d inoccupation: ou en est le Quebec en 2026",
+    "L ecart de logements a construire selon la SCHL",
+    "Les mises en chantier: le rythme actuel",
+    "La demographie, l autre moitie de l equation",
+    "Ce que ca change pour un acheteur ou un proprietaire",
+    "Questions frequentes"
+   ],
+   "slug": "fin-crise-logement-quebec",
+   "distinct_de": [
+    "marche-immobilier-montreal"
+   ],
+   "status": "written_draft",
+   "published_path": "content/fr/articles/fin-crise-logement-quebec.md",
+   "date": "2026-10-21"
   }
  ],
  "lots": "les 4 lots de sujets de reference sont planifies"
