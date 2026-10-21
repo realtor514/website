@@ -945,6 +945,164 @@ https://georgesmatar.ca/ar/articles/spring-melt-water-infiltration-montreal/
 Quand les 6 jours sont faits, retourne sur la ligne "Detectee, actuellement
 non indexee" et clique "Valider la correction".
 
+#### VAGUE DU 2026-10-21 - Questions des vendeurs, Montreal et Longueuil
+
+96 articles nouveaux: les 10 questions des vendeurs (Laval) et la serie de
+marche de Montreal (10) et de Longueuil (4), en 4 langues, publies les
+2026-10-20 et 2026-10-21. Ordre de priorite:
+
+1. Le jour 1 de cette vague (questions des vendeurs en francais): ce sont
+   les pages qui amenent des vendeurs.
+2. Puis la vague du 2026-10-20 (Laval, 3 jours).
+3. Puis les jours 2 a 10 de cette vague.
+4. Puis la fin de la vague du 2026-10-07.
+
+#### Vague 2026-10-21, jour 1 - Francais: les 10 questions des vendeurs (les plus commerciales en premier)
+
+```
+https://georgesmatar.ca/articles/combien-vaut-ma-maison-laval/
+https://georgesmatar.ca/articles/combien-de-temps-vendre-maison-laval/
+https://georgesmatar.ca/articles/commission-courtier-immobilier-laval/
+https://georgesmatar.ca/articles/pourquoi-maison-ne-se-vend-pas-laval/
+https://georgesmatar.ca/articles/vendre-maison-plus-cher-laval/
+https://georgesmatar.ca/articles/vendre-maison-soi-meme-duproprio-laval/
+https://georgesmatar.ca/articles/bon-moment-pour-vendre-maison-laval/
+https://georgesmatar.ca/articles/renover-avant-de-vendre-maison-laval/
+https://georgesmatar.ca/articles/afficher-maison-plus-cher-negociation-laval/
+https://georgesmatar.ca/articles/acheter-avant-de-vendre-maison-laval/
+```
+
+#### Vague 2026-10-21, jour 2 - Francais: Montreal, synthese et secteurs
+
+```
+https://georgesmatar.ca/articles/marche-immobilier-montreal-arrondissements/
+https://georgesmatar.ca/articles/marche-immobilier-ville-marie-plateau-montreal/
+https://georgesmatar.ca/articles/marche-immobilier-rosemont-villeray-montreal/
+https://georgesmatar.ca/articles/marche-immobilier-est-de-montreal-hochelaga/
+https://georgesmatar.ca/articles/marche-immobilier-ahuntsic-montreal-nord/
+https://georgesmatar.ca/articles/marche-immobilier-riviere-des-prairies-pointe-aux-trembles-montreal/
+https://georgesmatar.ca/articles/marche-immobilier-sud-ouest-verdun-lasalle-montreal/
+https://georgesmatar.ca/articles/marche-immobilier-cote-des-neiges-ndg-westmount-montreal/
+https://georgesmatar.ca/articles/marche-immobilier-saint-laurent-dorval-montreal/
+https://georgesmatar.ca/articles/marche-immobilier-ouest-de-l-ile-montreal/
+```
+
+#### Vague 2026-10-21, jour 3 - Francais: Longueuil, puis anglais: questions des vendeurs
+
+```
+https://georgesmatar.ca/articles/marche-immobilier-longueuil-secteurs/
+https://georgesmatar.ca/articles/marche-immobilier-vieux-longueuil/
+https://georgesmatar.ca/articles/marche-immobilier-saint-hubert-longueuil/
+https://georgesmatar.ca/articles/marche-immobilier-greenfield-park-longueuil/
+https://georgesmatar.ca/en/articles/how-much-is-my-house-worth-laval/
+https://georgesmatar.ca/en/articles/how-long-to-sell-house-laval/
+https://georgesmatar.ca/en/articles/real-estate-commission-laval/
+https://georgesmatar.ca/en/articles/why-house-not-selling-laval/
+https://georgesmatar.ca/en/articles/sell-house-for-more-laval/
+https://georgesmatar.ca/en/articles/sell-house-yourself-duproprio-laval/
+```
+
+#### Vague 2026-10-21, jour 4 - Anglais
+
+```
+https://georgesmatar.ca/en/articles/right-time-to-sell-house-laval/
+https://georgesmatar.ca/en/articles/renovate-before-selling-house-laval/
+https://georgesmatar.ca/en/articles/overpricing-house-negotiation-laval/
+https://georgesmatar.ca/en/articles/buy-before-selling-house-laval/
+https://georgesmatar.ca/en/articles/montreal-real-estate-market-by-borough/
+https://georgesmatar.ca/en/articles/ville-marie-plateau-montreal-real-estate-market/
+https://georgesmatar.ca/en/articles/rosemont-villeray-montreal-real-estate-market/
+https://georgesmatar.ca/en/articles/east-end-montreal-real-estate-market/
+https://georgesmatar.ca/en/articles/ahuntsic-montreal-north-real-estate-market/
+https://georgesmatar.ca/en/articles/riviere-des-prairies-pointe-aux-trembles-montreal-real-estate-market/
+```
+
+#### Vague 2026-10-21, jour 5 - Anglais
+
+```
+https://georgesmatar.ca/en/articles/sud-ouest-verdun-lasalle-montreal-real-estate-market/
+https://georgesmatar.ca/en/articles/ndg-westmount-montreal-real-estate-market/
+https://georgesmatar.ca/en/articles/saint-laurent-dorval-montreal-real-estate-market/
+https://georgesmatar.ca/en/articles/west-island-montreal-real-estate-market/
+https://georgesmatar.ca/en/articles/longueuil-real-estate-market-by-sector/
+https://georgesmatar.ca/en/articles/vieux-longueuil-real-estate-market/
+https://georgesmatar.ca/en/articles/saint-hubert-longueuil-real-estate-market/
+https://georgesmatar.ca/en/articles/greenfield-park-longueuil-real-estate-market/
+https://georgesmatar.ca/ar/articles/how-much-is-my-house-worth-laval/
+https://georgesmatar.ca/ar/articles/how-long-to-sell-house-laval/
+```
+
+#### Vague 2026-10-21, jour 6 - Anglais, fin, puis arabe
+
+```
+https://georgesmatar.ca/ar/articles/real-estate-commission-laval/
+https://georgesmatar.ca/ar/articles/why-house-not-selling-laval/
+https://georgesmatar.ca/ar/articles/sell-house-for-more-laval/
+https://georgesmatar.ca/ar/articles/sell-house-yourself-duproprio-laval/
+https://georgesmatar.ca/ar/articles/right-time-to-sell-house-laval/
+https://georgesmatar.ca/ar/articles/renovate-before-selling-house-laval/
+https://georgesmatar.ca/ar/articles/overpricing-house-negotiation-laval/
+https://georgesmatar.ca/ar/articles/buy-before-selling-house-laval/
+https://georgesmatar.ca/ar/articles/montreal-real-estate-market-by-borough/
+https://georgesmatar.ca/ar/articles/ville-marie-plateau-montreal-real-estate-market/
+```
+
+#### Vague 2026-10-21, jour 7 - Arabe
+
+```
+https://georgesmatar.ca/ar/articles/rosemont-villeray-montreal-real-estate-market/
+https://georgesmatar.ca/ar/articles/east-end-montreal-real-estate-market/
+https://georgesmatar.ca/ar/articles/ahuntsic-montreal-north-real-estate-market/
+https://georgesmatar.ca/ar/articles/riviere-des-prairies-pointe-aux-trembles-montreal-real-estate-market/
+https://georgesmatar.ca/ar/articles/sud-ouest-verdun-lasalle-montreal-real-estate-market/
+https://georgesmatar.ca/ar/articles/ndg-westmount-montreal-real-estate-market/
+https://georgesmatar.ca/ar/articles/saint-laurent-dorval-montreal-real-estate-market/
+https://georgesmatar.ca/ar/articles/west-island-montreal-real-estate-market/
+https://georgesmatar.ca/ar/articles/longueuil-real-estate-market-by-sector/
+https://georgesmatar.ca/ar/articles/vieux-longueuil-real-estate-market/
+```
+
+#### Vague 2026-10-21, jour 8 - Arabe
+
+```
+https://georgesmatar.ca/ar/articles/saint-hubert-longueuil-real-estate-market/
+https://georgesmatar.ca/ar/articles/greenfield-park-longueuil-real-estate-market/
+https://georgesmatar.ca/es/articles/cuanto-vale-mi-casa-laval/
+https://georgesmatar.ca/es/articles/cuanto-tiempo-vender-casa-laval/
+https://georgesmatar.ca/es/articles/comision-corredor-inmobiliario-laval/
+https://georgesmatar.ca/es/articles/por-que-mi-casa-no-se-vende-laval/
+https://georgesmatar.ca/es/articles/vender-casa-mas-cara-laval/
+https://georgesmatar.ca/es/articles/vender-casa-uno-mismo-duproprio-laval/
+https://georgesmatar.ca/es/articles/buen-momento-para-vender-casa-laval/
+https://georgesmatar.ca/es/articles/renovar-antes-de-vender-casa-laval/
+```
+
+#### Vague 2026-10-21, jour 9 - Arabe, fin, puis espagnol
+
+```
+https://georgesmatar.ca/es/articles/precio-alto-casa-negociacion-laval/
+https://georgesmatar.ca/es/articles/comprar-antes-de-vender-casa-laval/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-montreal-por-distrito/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-ville-marie-plateau-montreal/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-rosemont-villeray-montreal/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-este-de-montreal/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-ahuntsic-montreal-norte/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-riviere-des-prairies-pointe-aux-trembles-montreal/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-sud-oeste-verdun-lasalle-montreal/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-cote-des-neiges-ndg-westmount-montreal/
+```
+
+#### Vague 2026-10-21, jour 10 - Espagnol
+
+```
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-saint-laurent-dorval-montreal/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-west-island-montreal/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-longueuil-por-sector/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-vieux-longueuil/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-saint-hubert-longueuil/
+https://georgesmatar.ca/es/articles/mercado-inmobiliario-greenfield-park-longueuil/
+```
+
 #### VAGUE DU 2026-10-20 - Serie marche immobilier de Laval par secteur
 
 28 articles nouveaux, publies le 2026-10-19: 7 articles en 4 langues. Ils
