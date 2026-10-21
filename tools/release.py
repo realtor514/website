@@ -3,6 +3,10 @@
 
     python tools/release.py --check   montre ce qui serait publie, ne touche rien
     python tools/release.py           valide, aligne lastmod, puis publie
+    python tools/release.py --only <slug> ...   seulement ces groupes (slug fr ou translationKey)
+
+--only sert quand deux sessions ecrivent en meme temps: sans lui, chacune
+publierait aussi les articles complets de l autre.
 
 Un groupe est publiable quand ses 4 langues existent, qu au moins une version
 est encore en draft, et que les 4 fichiers passent tools/validate.py sans
@@ -68,6 +72,9 @@ def publish(files):
 
 def main():
     check = "--check" in sys.argv
+    only = None
+    if "--only" in sys.argv:
+        only = {a for a in sys.argv[sys.argv.index("--only") + 1:] if not a.startswith("--")}
     ready, incomplete, invalid = [], [], []
 
     for key, langs in sorted(groups().items()):
@@ -75,6 +82,8 @@ def main():
             continue
         fr = langs.get("fr") or next(iter(langs.values()))
         name = fr["path"].stem
+        if only is not None and key not in only and name not in only:
+            continue
         if len(langs) < 4:
             incomplete.append((name, "".join(l for l in LANGS if l in langs)))
             continue
