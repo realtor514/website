@@ -1,0 +1,415 @@
+{
+ "id": "t246",
+ "slug": "marche-immobilier-montreal-arrondissements",
+ "title": "Marché immobilier à Montréal par arrondissement: 3e trimestre 2026",
+ "target_keyword": "marche immobilier montreal par arrondissement",
+ "word_count": 2155,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/courtier-immobilier/riviere-des-prairies-montreal/",
+  "/courtier-immobilier/montreal/",
+  "/courtier-immobilier/saint-leonard-montreal/",
+  "/articles/triplex-vs-condo-montreal/",
+  "/tools/welcome-tax/",
+  "/articles/acheter-zone-inondable-quebec/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/articles/best-neighborhoods-montreal/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile",
+   "title": "Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Île de Montréal, 3e trimestre 2026: 3 344 ventes (-13 %), 7 940 nouvelles inscriptions (+1 %), 10 490 inscriptions en vigueur (+12 %). Unifamiliale: 1 002 ventes (-12 %), 2 162 en vigueur (+7 %), médiane 812 000 $ (+2 %), 51 jours (+4). Copropriété: 1 728 ventes (-15 %), 6 696 en vigueur (+12 %), 477 000 $ (0 %), 67 jours (+14). Plex: 614 ventes (-13 %), 1 631 en vigueur (+16 %), 902 500 $ (+3 %), 52 jours (-1). Notes de la page citées: « Les taux de variation sont calculés par rapport au même trimestre de l'année précédente »; « Le total résidentiel comprend les catégories unifamiliale, copropriété, plex (2 à 5 logements) ainsi que les fermettes »; ** = « Nombre de transactions insuffisant pour produire une statistique fiable ». Le sélecteur de la page liste exactement les 34 territoires du tableau. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json. Vérification indépendante du 2026-10-20: les 35 pages Centris (île et 34 territoires) rouvertes par curl, chaque ligne comparée au JSON par script, aucun écart."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/baie-d-urfe",
+   "title": "Baie-d'Urfé, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Baie-d'Urfé, 3e trimestre 2026: 8 ventes, variation non publiée, 48 inscriptions en vigueur (17 %). Unifamiliale: 8 ventes, variation non publiée, médiane du trimestre non publiée (**), 1 225 437 $ (16 %) sur 4 trimestres; copropriété: 0 ventes, variation non publiée, aucune médiane publiée; plex: 0 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/beaconsfield",
+   "title": "Beaconsfield, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Beaconsfield, 3e trimestre 2026: 52 ventes (-17 %), 124 inscriptions en vigueur (-3 %). Unifamiliale: 47 ventes (-20 %), médiane 960 000 $ (-1 %), 46 jours (9); copropriété: 5 ventes, variation non publiée, aucune médiane publiée; plex: 0 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/cote-saint-luc",
+   "title": "Côte-Saint-Luc, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Côte-Saint-Luc, 3e trimestre 2026: 53 ventes (-19 %), 177 inscriptions en vigueur (14 %). Unifamiliale: 25 ventes, variation non publiée, médiane du trimestre non publiée (**), 969 937 $ (8 %) sur 4 trimestres; copropriété: 28 ventes, variation non publiée, médiane du trimestre non publiée (**), 567 812 $ (8 %) sur 4 trimestres; plex: 0 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/dollard-des-ormeaux",
+   "title": "Dollard-des-Ormeaux, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Dollard-des-Ormeaux, 3e trimestre 2026: 92 ventes (-25 %), 215 inscriptions en vigueur (15 %). Unifamiliale: 65 ventes (-26 %), médiane 797 000 $ (6 %), 56 jours (26); copropriété: 25 ventes, variation non publiée, médiane du trimestre non publiée (**), 446 887 $ (-2 %) sur 4 trimestres; plex: 2 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/dorval",
+   "title": "Dorval, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Dorval, 3e trimestre 2026: 39 ventes (-23 %), 84 inscriptions en vigueur (18 %). Unifamiliale: 26 ventes, variation non publiée, médiane du trimestre non publiée (**), 708 403 $ (0 %) sur 4 trimestres; copropriété: 13 ventes, variation non publiée, médiane du trimestre non publiée (**), 420 750 $ (4 %) sur 4 trimestres; plex: 0 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/hampstead",
+   "title": "Hampstead, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Hampstead, 3e trimestre 2026: 15 ventes, variation non publiée, 38 inscriptions en vigueur (-15 %). Unifamiliale: 12 ventes, variation non publiée, médiane du trimestre non publiée (**), 1 859 375 $ (6 %) sur 4 trimestres; copropriété: 0 ventes, variation non publiée, aucune médiane publiée; plex: 3 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/kirkland",
+   "title": "Kirkland, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Kirkland, 3e trimestre 2026: 48 ventes (23 %), 80 inscriptions en vigueur (-13 %). Unifamiliale: 43 ventes (22 %), médiane 1 005 000 $ (12 %), 52 jours (-1); copropriété: 5 ventes, variation non publiée, aucune médiane publiée; plex: 0 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/l-ile-dorval",
+   "title": "L'Île-Dorval, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "L'Île-Dorval, 3e trimestre 2026: 0 ventes, variation non publiée, 0 inscriptions en vigueur. Unifamiliale: 0 ventes, variation non publiée, aucune médiane publiée; copropriété: 0 ventes, variation non publiée, aucune médiane publiée; plex: 0 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/mont-royal",
+   "title": "Mont-Royal, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Mont-Royal, 3e trimestre 2026: 41 ventes (-16 %), 163 inscriptions en vigueur (-10 %). Unifamiliale: 26 ventes, variation non publiée, médiane du trimestre non publiée (**), 1 668 250 $ (-4 %) sur 4 trimestres; copropriété: 13 ventes, variation non publiée, médiane du trimestre non publiée (**), 618 000 $ (3 %) sur 4 trimestres; plex: 2 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-est",
+   "title": "Montréal-Est, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal-Est, 3e trimestre 2026: 8 ventes, variation non publiée, 17 inscriptions en vigueur. Unifamiliale: 3 ventes, variation non publiée, aucune médiane publiée; copropriété: 2 ventes, variation non publiée, aucune médiane publiée; plex: 3 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-ouest",
+   "title": "Montréal-Ouest, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal-Ouest, 3e trimestre 2026: 9 ventes, variation non publiée, 34 inscriptions en vigueur (17 %). Unifamiliale: 8 ventes, variation non publiée, médiane du trimestre non publiée (**), 1 215 625 $ (5 %) sur 4 trimestres; copropriété: 1 ventes, variation non publiée, aucune médiane publiée; plex: 0 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-ahuntsic-cartierville",
+   "title": "Montréal (Ahuntsic-Cartierville), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Ahuntsic-Cartierville), 3e trimestre 2026: 185 ventes (-3 %), 469 inscriptions en vigueur (40 %). Unifamiliale: 44 ventes (-2 %), médiane 917 500 $ (0 %), 31 jours (-17); copropriété: 70 ventes (-30 %), médiane 420 000 $ (1 %), 52 jours (-6); plex: 71 ventes (54 %), médiane 935 000 $ (6 %), 42 jours (-13). Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-anjou",
+   "title": "Montréal (Anjou), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Anjou), 3e trimestre 2026: 59 ventes (3 %), 107 inscriptions en vigueur (37 %). Unifamiliale: 15 ventes, variation non publiée, médiane du trimestre non publiée (**), 630 000 $ (1 %) sur 4 trimestres; copropriété: 25 ventes, variation non publiée, médiane du trimestre non publiée (**), 381 625 $ (0 %) sur 4 trimestres; plex: 19 ventes, variation non publiée, médiane du trimestre non publiée (**), 923 500 $ (12 %) sur 4 trimestres. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-cote-des-neiges-notre-dame-de-grace",
+   "title": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce), 3e trimestre 2026: 181 ventes (-5 %), 592 inscriptions en vigueur (22 %). Unifamiliale: 42 ventes (-19 %), médiane 1 289 500 $ (10 %), 50 jours (-4); copropriété: 99 ventes (4 %), médiane 562 000 $ (6 %), 71 jours (13); plex: 40 ventes (-9 %), médiane 944 500 $ (2 %), 60 jours (12). Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-l-ile-bizard-sainte-genevieve",
+   "title": "Montréal (L'Île-Bizard/Sainte-Geneviève), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (L'Île-Bizard/Sainte-Geneviève), 3e trimestre 2026: 47 ventes (23 %), 129 inscriptions en vigueur (22 %). Unifamiliale: 39 ventes (34 %), médiane 750 000 $ (5 %), 63 jours (24); copropriété: 7 ventes, variation non publiée, aucune médiane publiée; plex: 1 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-lasalle",
+   "title": "Montréal (LaSalle), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (LaSalle), 3e trimestre 2026: 127 ventes (9 %), 329 inscriptions en vigueur (8 %). Unifamiliale: 22 ventes, variation non publiée, médiane du trimestre non publiée (**), 751 875 $ (5 %) sur 4 trimestres; copropriété: 60 ventes (-3 %), médiane 449 500 $ (0 %), 93 jours (38); plex: 45 ventes (4 %), médiane 880 000 $ (6 %), 35 jours (-26). Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-lachine",
+   "title": "Montréal (Lachine), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Lachine), 3e trimestre 2026: 80 ventes (-19 %), 217 inscriptions en vigueur (29 %). Unifamiliale: 19 ventes, variation non publiée, médiane du trimestre non publiée (**), 757 500 $ (11 %) sur 4 trimestres; copropriété: 39 ventes (-15 %), médiane 375 000 $ (-12 %), 65 jours (30); plex: 22 ventes, variation non publiée, médiane du trimestre non publiée (**), 716 687 $ (6 %) sur 4 trimestres. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-le-plateau-mont-royal",
+   "title": "Montréal (Le Plateau-Mont-Royal), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Le Plateau-Mont-Royal), 3e trimestre 2026: 197 ventes (-6 %), 564 inscriptions en vigueur (25 %). Unifamiliale: 16 ventes, variation non publiée, médiane du trimestre non publiée (**), 1 383 812 $ (1 %) sur 4 trimestres; copropriété: 150 ventes (-4 %), médiane 575 000 $ (-1 %), 48 jours (10); plex: 31 ventes (-24 %), médiane 1 200 000 $ (4 %), 76 jours (3). Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-le-sud-ouest",
+   "title": "Montréal (Le Sud-Ouest), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Le Sud-Ouest), 3e trimestre 2026: 268 ventes (-10 %), 894 inscriptions en vigueur (9 %). Unifamiliale: 15 ventes, variation non publiée, médiane du trimestre non publiée (**), 1 008 875 $ (16 %) sur 4 trimestres; copropriété: 206 ventes (-9 %), médiane 512 500 $ (4 %), 69 jours (17); plex: 47 ventes (20 %), médiane 860 000 $ (-4 %), 49 jours (-19). Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-mercier-hochelaga-maisonneuve",
+   "title": "Montréal (Mercier/Hochelaga-Maisonneuve), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Mercier/Hochelaga-Maisonneuve), 3e trimestre 2026: 205 ventes (-34 %), 545 inscriptions en vigueur (24 %). Unifamiliale: 25 ventes, variation non publiée, médiane du trimestre non publiée (**), 619 625 $ (0 %) sur 4 trimestres; copropriété: 103 ventes (-38 %), médiane 415 000 $ (-3 %), 43 jours (9); plex: 77 ventes (-23 %), médiane 800 000 $ (0 %), 65 jours (9). Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-montreal-nord",
+   "title": "Montréal (Montréal-Nord), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Montréal-Nord), 3e trimestre 2026: 77 ventes (-31 %), 165 inscriptions en vigueur (14 %). Unifamiliale: 23 ventes, variation non publiée, médiane du trimestre non publiée (**), 524 875 $ (-1 %) sur 4 trimestres; copropriété: 18 ventes, variation non publiée, médiane du trimestre non publiée (**), 374 375 $ (4 %) sur 4 trimestres; plex: 36 ventes (-29 %), médiane 820 000 $ (1 %), 63 jours (10). Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-outremont",
+   "title": "Montréal (Outremont), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Outremont), 3e trimestre 2026: 36 ventes (-14 %), 156 inscriptions en vigueur (5 %). Unifamiliale: 9 ventes, variation non publiée, médiane du trimestre non publiée (**), 2 299 200 $ (6 %) sur 4 trimestres; copropriété: 23 ventes, variation non publiée, médiane du trimestre non publiée (**), 776 875 $ (2 %) sur 4 trimestres; plex: 4 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-pierrefonds-roxboro",
+   "title": "Montréal (Pierrefonds-Roxboro), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Pierrefonds-Roxboro), 3e trimestre 2026: 127 ventes (-16 %), 258 inscriptions en vigueur (10 %). Unifamiliale: 95 ventes (-22 %), médiane 635 000 $ (-2 %), 33 jours (-6); copropriété: 28 ventes, variation non publiée, médiane du trimestre non publiée (**), 380 625 $ (2 %) sur 4 trimestres; plex: 4 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-riviere-des-prairies-pointe-aux-trembles",
+   "title": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles), 3e trimestre 2026: 176 ventes (-13 %), 340 inscriptions en vigueur (48 %). Unifamiliale: 109 ventes (17 %), médiane 605 000 $ (4 %), 40 jours (3); copropriété: 60 ventes (-31 %), médiane 347 500 $ (-2 %), 60 jours (27); plex: 7 ventes, variation non publiée, médiane du trimestre non publiée (**), 790 250 $ (-3 %) sur 4 trimestres. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-rosemont-la-petite-patrie",
+   "title": "Montréal (Rosemont/La Petite-Patrie), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Rosemont/La Petite-Patrie), 3e trimestre 2026: 209 ventes (-23 %), 421 inscriptions en vigueur (22 %). Unifamiliale: 19 ventes, variation non publiée, médiane du trimestre non publiée (**), 1 103 250 $ (3 %) sur 4 trimestres; copropriété: 125 ventes (-17 %), médiane 563 200 $ (0 %), 40 jours (5); plex: 65 ventes (-24 %), médiane 950 000 $ (1 %), 39 jours (3). Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-saint-laurent",
+   "title": "Montréal (Saint-Laurent), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Saint-Laurent), 3e trimestre 2026: 177 ventes (-6 %), 538 inscriptions en vigueur (13 %). Unifamiliale: 61 ventes (-15 %), médiane 880 000 $ (3 %), 40 jours (0); copropriété: 100 ventes (6 %), médiane 463 500 $ (-2 %), 75 jours (22); plex: 16 ventes, variation non publiée, médiane du trimestre non publiée (**), 889 875 $ (-1 %) sur 4 trimestres. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-saint-leonard",
+   "title": "Montréal (Saint-Léonard), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Saint-Léonard), 3e trimestre 2026: 59 ventes (-20 %), 163 inscriptions en vigueur (25 %). Unifamiliale: 18 ventes, variation non publiée, médiane du trimestre non publiée (**), 718 125 $ (-1 %) sur 4 trimestres; copropriété: 15 ventes, variation non publiée, médiane du trimestre non publiée (**), 422 125 $ (2 %) sur 4 trimestres; plex: 26 ventes, variation non publiée, médiane du trimestre non publiée (**), 1 056 875 $ (3 %) sur 4 trimestres. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-verdun-ile-des-soeurs",
+   "title": "Montréal (Verdun/Île-des-Soeurs), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Verdun/Île-des-Soeurs), 3e trimestre 2026: 166 ventes (-7 %), 454 inscriptions en vigueur (6 %). Unifamiliale: 22 ventes, variation non publiée, médiane du trimestre non publiée (**), 1 225 000 $ (5 %) sur 4 trimestres; copropriété: 123 ventes (-6 %), médiane 617 000 $ (0 %), 61 jours (3); plex: 21 ventes, variation non publiée, médiane du trimestre non publiée (**), 947 762 $ (-3 %) sur 4 trimestres. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-ville-marie",
+   "title": "Montréal (Ville-Marie), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Ville-Marie), 3e trimestre 2026: 311 ventes (-19 %), 2 368 inscriptions en vigueur (0 %). Unifamiliale: 10 ventes, variation non publiée, médiane du trimestre non publiée (**), 1 265 562 $ (1 %) sur 4 trimestres; copropriété: 289 ventes (-16 %), médiane 442 500 $ (0 %), 92 jours (8); plex: 12 ventes, variation non publiée, médiane du trimestre non publiée (**), 979 375 $ (6 %) sur 4 trimestres. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-villeray-saint-michel-parc-extension",
+   "title": "Montréal (Villeray/Saint-Michel/Parc-Extension), Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Montréal (Villeray/Saint-Michel/Parc-Extension), 3e trimestre 2026: 126 ventes (-26 %), 313 inscriptions en vigueur (10 %). Unifamiliale: 20 ventes, variation non publiée, médiane du trimestre non publiée (**), 738 500 $ (5 %) sur 4 trimestres; copropriété: 47 ventes (-33 %), médiane 586 500 $ (33 %), 51 jours (5); plex: 59 ventes (-13 %), médiane 880 000 $ (7 %), 43 jours (-2). Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/pointe-claire",
+   "title": "Pointe-Claire, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Pointe-Claire, 3e trimestre 2026: 95 ventes (18 %), 185 inscriptions en vigueur (13 %). Unifamiliale: 64 ventes (18 %), médiane 759 500 $ (-4 %), 29 jours (-9); copropriété: 31 ventes (19 %), médiane 582 500 $ (-5 %), 78 jours (11); plex: 0 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/sainte-anne-de-bellevue",
+   "title": "Sainte-Anne-de-Bellevue, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Sainte-Anne-de-Bellevue, 3e trimestre 2026: 14 ventes, variation non publiée, 54 inscriptions en vigueur (54 %). Unifamiliale: 10 ventes, variation non publiée, médiane du trimestre non publiée (**), 773 750 $ (20 %) sur 4 trimestres; copropriété: 4 ventes, variation non publiée, aucune médiane publiée; plex: 0 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/senneville",
+   "title": "Senneville, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Senneville, 3e trimestre 2026: 1 ventes, variation non publiée, 13 inscriptions en vigueur. Unifamiliale: 1 ventes, variation non publiée, aucune médiane publiée; copropriété: 0 ventes, variation non publiée, aucune médiane publiée; plex: 0 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/westmount",
+   "title": "Westmount, Montréal (Île): Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Westmount, 3e trimestre 2026: 56 ventes (9 %), 223 inscriptions en vigueur (-6 %). Unifamiliale: 41 ventes (7 %), médiane 2 525 000 $ (24 %), 102 jours (6); copropriété: 14 ventes, variation non publiée, médiane du trimestre non publiée (**), 950 481 $ (2 %) sur 4 trimestres; plex: 1 ventes, variation non publiée, aucune médiane publiée. Page relue par curl le 2026-10-20: chaque chiffre concorde avec state/marche_T3_2026/centris_montreal-ile.json."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Communiqué daté « L'Île-des-Sœurs, le 14 octobre 2026 », section RMR de Montréal: « Dans le segment de l'unifamiliale, les vendeurs conservent néanmoins un avantage pour chacun des grands secteurs de la RMR. » et, pour la copropriété, « Sur l'île de Montréal, les conditions se situent désormais à la frontière entre le marché équilibré et l'avantage des acheteurs. » Section provinciale, à propos des copropriétés: « Le périmètre du centre-ville de Montréal et le secteur sud-ouest sont toutefois déjà en surplus ». Page relue par curl le 2026-10-20. Le communiqué contient aussi une projection sur le taux directeur, non reprise (prévision)."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "PDF de 65 pages téléchargé le 2026-10-20 (créé le 2 octobre, modifié le 9 octobre 2026), lu par pdftotext et vérifié sur un rendu en image des pages 8 et 19. Page 8, île de Montréal: 3 348 ventes (-14 %) au trimestre, écart avec les 3 344 (-13 %) de la page Centris signalé dans l'article; tableau 3 (Unifamiliale, 12 derniers mois): 3,9 mois sous 410 000 $, 3,0 de 410 000 à 610 000 $, 4,6 de 610 000 à 1 020 000 $, 5,1 de 1 020 000 à 1 220 000 $, tous « Vendeur », et 9,1 « Équilibré » à 1 220 000 $ et plus. Page 19, secteur 11 Ville-Marie, tableau 3 (Copropriété, 12 derniers mois): 6,9 « Vendeur » sous 230 000 $, puis 14,0, 16,9, 17,7 et 24,2 mois, tous « Acheteur », à partir de 230 000 $. Page 65: moins de 8 mois favorable aux vendeurs, entre 8 et 10 équilibré, plus de 10 favorable aux acheteurs; « l'évolution du prix moyen ou du prix médian entre deux périodes ne reflète pas nécessairement l'évolution de la valeur de l'ensemble des propriétés d'un Secteur ». Page 6: secteur 10 L'Île-des-Soeurs distinct du secteur 4 (Le Sud-Ouest, Verdun); secteur 7 NDG/Montréal-Ouest."
+  },
+  {
+   "url": "https://comapciqca-152af.kxcdn.com/fsmi-stats/mensuelles/2026/stats-202609-fr.pdf",
+   "title": "FSMI statistiques mensuelles, Septembre 2026",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Lien « Septembre 2026 » de https://apciq.ca/barometre-residentiel/statistiques-mensuelles/ (relu le 2026-10-20). Page 5, île de Montréal, septembre 2026: 1 104 ventes contre 1 287 (-14 %); unifamiliale 310 ventes, prix médian 779 000 $ contre 815 000 $ (-4 %); copropriété prix médian 476 500 $ (-1 %). PDF téléchargé et lu par pdftotext le 2026-10-20."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/09/fad-communique-2026-09-02/",
+   "title": "La Banque du Canada maintient le taux directeur à 2¼ %",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-20",
+   "supports": "« La Banque du Canada a annoncé aujourd'hui qu'elle maintient le taux cible du financement à un jour à 2,25 % » (2 septembre 2026); « La prochaine date d'établissement du taux cible du financement à un jour est le 28 octobre 2026. »"
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-15.1",
+   "title": "Loi concernant les droits sur les mutations immobilières (RLRQ, c. D-15.1)",
+   "publisher": "LegisQuébec, Gouvernement du Québec",
+   "consulted": "2026-10-20",
+   "supports": "Article 2, troisième alinéa, lu en direct (« À jour au 12 août 2026 »): « une municipalité peut, par règlement, fixer un taux supérieur [...] pour toute tranche de la base d'imposition qui excède 500 000 $. Un taux fixé en vertu du présent alinéa ne peut, sauf dans le cas de la Ville de Montréal, excéder 3%. »"
+  },
+  {
+   "url": "https://montreal.ca/articles/comment-sont-calcules-les-droits-sur-les-mutations-immobilieres-9279",
+   "title": "Comment sont calculés les droits sur les mutations immobilières",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Tableau 2026 de la Ville de Montréal: 1,5 % de 315 000 $ à 552 300 $, 2 % de 552 300 $ à 1 104 700 $, 2,5 % jusqu'à 2 136 500 $, 3,5 % de 2 136 500 $ à 3 113 000 $, 4 % à partir de 3 113 000 $."
+  },
+  {
+   "url": "https://westmount.org/fr/ville/administration-et-finances/taxes-et-evaluation-municipale",
+   "title": "Taxes et évaluation municipale",
+   "publisher": "Ville de Westmount",
+   "consulted": "2026-10-20",
+   "supports": "Section droits de mutation: « 315 001 $ - 500 000 $ 1,5 % » et « 500 001 $ - et plus 3,0 % » (tirets longs de la page remplacés par un trait d'union); bornes de 2026 (62 900 $, 315 000 $) et « Le facteur comparatif de 2026 est de 1. » Le tableau lui-même n'est pas daté."
+  },
+  {
+   "url": "https://www.senneville.ca/services/taxation-et-evaluation/droits-de-mutation/",
+   "title": "Droits de mutation",
+   "publisher": "Village de Senneville",
+   "consulted": "2026-10-20",
+   "supports": "« Qui excède 500 001 $ : 3 % »; tableau non daté, bornes de 2026."
+  },
+  {
+   "url": "https://www.ville.mont-royal.qc.ca/fr/ma-ville/administration-et-finances/droits-sur-les-mutations-immobilieres",
+   "title": "Droits sur les mutations immobilières",
+   "publisher": "Ville de Mont-Royal",
+   "consulted": "2026-10-20",
+   "supports": "Seuils et taux à partir du 1er janvier 2026: « qui excède 315 000 $ sans excéder 630 100 $, le taux est de 1,5 % », puis 2 % jusqu'à 1 260 300 $."
+  },
+  {
+   "url": "https://www.beaconsfield.ca/fr/services/services-aux-citoyens/taxes-et-role-d-evaluation-fonciere",
+   "title": "Taxes et rôle d'évaluation foncière",
+   "publisher": "Ville de Beaconsfield",
+   "consulted": "2026-10-20",
+   "supports": "Seuils et taux établis à partir du 22 janvier 2026: 1,5 % jusqu'à 630 100 $, puis « le taux est de 3 % » au-delà."
+  },
+  {
+   "url": "https://cotesaintluc.org/fr/taxes/mutations-immobilieres/",
+   "title": "Droits sur les mutations immobilières",
+   "publisher": "Ville de Côte Saint-Luc",
+   "consulted": "2026-10-20",
+   "supports": "Transferts du 1er janvier au 31 décembre 2026: 1,5 % de 315 001 $ à 800 000 $; règlement 2518-2: « la partie de la base d'imposition qui dépasse 800 000 $ est de 2,5 % »."
+  },
+  {
+   "url": "https://montreal.ca/communiques-de-presse/depot-des-roles-devaluation-fonciere-de-lagglomeration-de-montreal-pour-2026-2027-2028",
+   "title": "Dépôt des rôles d'évaluation foncière de l'agglomération de Montréal pour 2026-2027-2028",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Communiqué du 10 septembre 2025: rôles « en vigueur à compter du 1 er janvier 2026 »; « Pour le rôle 2026-2027-2028, cette date de référence correspond au 1er juillet 2024. »; « La hausse moyenne des valeurs liée à l'évolution du marché sur le territoire de l'agglomération de Montréal est de l'ordre de 12,2 % »."
+  },
+  {
+   "url": "https://montreal.ca/communiques-de-presse/declaration-de-ladministration-la-suite-du-depot-des-roles-devaluation-fonciere-2026-2027-2028-de",
+   "title": "Déclaration de l'administration à la suite du dépôt des rôles d'évaluation foncière 2026-2027-2028 de l'agglomération de Montréal",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "« la variation moyenne des valeurs au rôle pour la Ville de Montréal est de 12,6 % »."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.3&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al",
+   "title": "Taux d'inoccupation, selon le nombre de chambres par zone (Enquête sur les logements locatifs)",
+   "publisher": "SCHL",
+   "consulted": "2026-10-20",
+   "supports": "Période « octobre 2025 », la plus récente offerte; colonne Total: Centre-ville de Montréal/Île-des-Soeurs 6,4 % (cote c), le plus élevé des 18 zones de l'île; Montréal-Nord 0,7 % (cote a), le plus bas publié; taux total non publié (**) pour six zones de l'île: Sud-Ouest/Verdun, Villeray/St-Michel/Pc-Extension, Rosemont/La Petite-Patrie, Anjou/Saint-Léonard, Ahuntsic/Cartierville, Pte-aux-Trembles/Montréal-E etc."
+  },
+  {
+   "url": "https://rem.info/fr/actualites/louest-de-lile-maintenant-portee-de-rem",
+   "title": "L'Ouest-de-l'Île maintenant à portée de REM !",
+   "publisher": "REM (CDPQ Infra)",
+   "consulted": "2026-10-20",
+   "supports": "« Depuis le 18 mai, les quatre stations de l'antenne Anse-à-l'Orme sont désormais accessibles aux usagers et usagères »."
+  },
+  {
+   "url": "https://rem.info/fr/actualites/le-rem-cible-le-18-mai-pour-son-arrivee-dans-louest-de-lile",
+   "title": "Le REM cible le 18 mai pour son arrivée dans l'Ouest-de-l'Île",
+   "publisher": "REM (CDPQ Infra)",
+   "consulted": "2026-10-20",
+   "supports": "Quatre nouvelles stations « situées dans les villes de Pointe-Claire, Kirkland et Sainte-Anne-de-Bellevue : Des Sources Fairview-Pointe-Claire Kirkland Anse-à-l'Orme » (tiret long de la page remplacé par un trait d'union), donc au moins une station à Pointe-Claire et une à Kirkland. Relu par curl le 2026-10-20; la dernière actualité de rem.info est du 26 août 2026, aucune ne modifie ces faits."
+  },
+  {
+   "url": "https://rem.info/fr/actualites/en-route-vers-la-mise-en-service-les-essais-dynamiques-debutent-sur-lantenne-yul",
+   "title": "En route vers la mise en service : les essais dynamiques débutent sur l'antenne YUL-Aéroport-Montréal-Trudeau",
+   "publisher": "REM (CDPQ Infra)",
+   "consulted": "2026-10-20",
+   "supports": "« La mise en service des deux stations, qui se fera en même temps, est toujours prévue d'ici la fin 2027. »"
+  },
+  {
+   "url": "https://www.stm.info/fr/projet-ligne-bleue",
+   "title": "Projet ligne bleue",
+   "publisher": "Société de transport de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "« L'inauguration de ce nouveau tronçon est prévue pour 2031. » et « Voici l'ensemble des infrastructures qui seront érigées à l'est de la station Saint-Michel: Cinq nouvelles stations de métro universellement accessibles ». Lu par curl avec en-têtes Accept et Accept-Language."
+  },
+  {
+   "url": "https://montreal.ca/sujets/inondations",
+   "title": "Inondations",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Section « Crue des eaux », « Zones concernées »: Ahuntsic-Cartierville, L'Île-Bizard-Sainte-Geneviève, Lachine, Montréal-Nord, Pierrefonds-Roxboro, Rivière-des-Prairies-Pointe-aux-Trembles (six arrondissements; tirets longs de la page remplacés par un trait d'union), Baie d'Urfé, Beaconsfield, Dorval, Kirkland, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville (sept villes liées)."
+  },
+  {
+   "url": "https://cmm.qc.ca/communiques/nouvelle-cartographie-des-zones-inondables-la-cmm-demande-au-gouvernement-du-quebec-de-maintenir-la-mise-en-vigueur-le-1er-aout/",
+   "title": "Nouvelle cartographie des zones inondables : La CMM demande au gouvernement du Québec de maintenir la mise en vigueur le 1er août",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Communiqué daté « Montréal, 30 juillet 2026 »: la CMM demande au MELCCFP « de revenir sur sa décision de retarder, à une date indéterminée, la publication du premier lot de cartes des zones inondables de nouvelle génération »; « Le premier lot de cartes couvre les secteurs situés aux abords de la rivière des Mille Îles, de la rivière des Prairies, du lac des Deux Montagnes, du lac Saint-Louis, du fleuve Saint-Laurent » (et d'autres). Le titre fixe la mise en vigueur prévue au 1er août. Liste des communiqués de la CMM relue le 2026-10-20: aucun communiqué postérieur sur cette cartographie (les plus récents, des 7, 13 et 14 octobre 2026, n'en parlent pas)."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur",
+   "title": "Cartographies des zones inondables et des zones de mobilité d'un cours d'eau en vigueur",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-10-20",
+   "supports": "Page « Dernière mise à jour : 28 août 2026 », relue par curl le 2026-10-20: « En l'absence d'une cartographie de nouvelle génération, les cartographies en vigueur sont celles disponibles auprès de votre municipalité locale ou de votre MRC. » et « Les cartographies de nouvelle génération seront publiées progressivement au cours des prochains mois. » Appuie la phrase sur les cartes applicables tant que le premier lot de la CMM n'est pas publié."
+  }
+ ],
+ "claims_needing_review": []
+}

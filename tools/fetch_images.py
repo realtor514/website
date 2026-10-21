@@ -78,6 +78,21 @@ QUERIES = {
     "pourquoi-maison-ne-se-vend-pas-laval": "empty house for sale winter",
     "afficher-maison-plus-cher-negociation-laval": "handshake negotiation table documents",
     "acheter-avant-de-vendre-maison-laval": "moving boxes new house",
+    # Serie marche par secteur, Montreal et Longueuil, T3 2026
+    "marche-immobilier-montreal-arrondissements": "montreal city view",
+    "marche-immobilier-ville-marie-plateau-montreal": "montreal plateau colorful houses staircases",
+    "marche-immobilier-rosemont-villeray-montreal": "montreal duplex exterior staircase",
+    "marche-immobilier-est-de-montreal-hochelaga": "montreal triplex brick balconies",
+    "marche-immobilier-ahuntsic-montreal-nord": "montreal residential street autumn",
+    "marche-immobilier-riviere-des-prairies-pointe-aux-trembles-montreal": "suburban bungalow street summer",
+    "marche-immobilier-sud-ouest-verdun-lasalle-montreal": "griffintown montreal condos",
+    "marche-immobilier-cote-des-neiges-ndg-westmount-montreal": "westmount montreal",
+    "marche-immobilier-saint-laurent-dorval-montreal": "modern townhouses suburb",
+    "marche-immobilier-ouest-de-l-ile-montreal": "lakeside house quebec lake",
+    "marche-immobilier-longueuil-secteurs": "jacques cartier bridge montreal",
+    "marche-immobilier-vieux-longueuil": "old stone house quebec village",
+    "marche-immobilier-saint-hubert-longueuil": "suburban split level house lawn",
+    "marche-immobilier-greenfield-park-longueuil": "snowy bungalow house winter quebec",
 }
 
 

@@ -9563,7 +9563,9 @@
     "REGION montreal-ile",
     "et les 34 territoires du fichier"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-montreal-arrondissements.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t247",
@@ -9594,7 +9596,9 @@
     "montreal-ville-marie",
     "montreal-le-plateau-mont-royal"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-ville-marie-plateau-montreal.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t248",
@@ -9625,7 +9629,9 @@
     "montreal-rosemont-la-petite-patrie",
     "montreal-villeray-saint-michel-parc-extension"
    ],
-   "status": "in_progress"
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-rosemont-villeray-montreal.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t249",
@@ -9656,7 +9662,9 @@
     "montreal-saint-leonard",
     "montreal-est"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-est-de-montreal-hochelaga.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t250",
@@ -9685,7 +9693,9 @@
     "montreal-ahuntsic-cartierville",
     "montreal-montreal-nord"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-ahuntsic-montreal-nord.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t251",
@@ -9713,7 +9723,9 @@
    "quartiers_centris": [
     "montreal-riviere-des-prairies-pointe-aux-trembles"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-riviere-des-prairies-pointe-aux-trembles-montreal.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t252",
@@ -9744,7 +9756,9 @@
     "montreal-lasalle",
     "montreal-lachine"
    ],
-   "status": "in_progress"
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-sud-ouest-verdun-lasalle-montreal.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t253",
@@ -9779,7 +9793,9 @@
     "cote-saint-luc",
     "montreal-ouest"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-cote-des-neiges-ndg-westmount-montreal.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t254",
@@ -9809,7 +9825,9 @@
     "dorval",
     "l-ile-dorval"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-saint-laurent-dorval-montreal.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t255",
@@ -9846,7 +9864,9 @@
     "montreal-pierrefonds-roxboro",
     "montreal-l-ile-bizard-sainte-genevieve"
    ],
-   "status": "in_progress"
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-ouest-de-l-ile-montreal.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t270",
@@ -9881,7 +9901,9 @@
     "saint-bruno-de-montarville",
     "saint-lambert-monteregie"
    ],
-   "status": "in_progress"
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-longueuil-secteurs.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t271",
@@ -9909,7 +9931,9 @@
    "quartiers_centris": [
     "longueuil-le-vieux-longueuil"
    ],
-   "status": "in_progress"
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-vieux-longueuil.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t272",
@@ -9937,7 +9961,9 @@
    "quartiers_centris": [
     "longueuil-saint-hubert"
    ],
-   "status": "in_progress"
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-saint-hubert-longueuil.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t273",
@@ -9963,7 +9989,9 @@
    "quartiers_centris": [
     "longueuil-greenfield-park"
    ],
-   "status": "in_progress"
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-greenfield-park-longueuil.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t274",
@@ -10246,7 +10274,9 @@
     "propriete-ne-se-vend-pas-quebec",
     "marche-immobilier-laval-secteurs"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/pourquoi-maison-ne-se-vend-pas-laval.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t282",
@@ -10277,7 +10307,9 @@
     "strategies-negociation-immobilier",
     "propriete-ne-se-vend-pas-quebec"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/afficher-maison-plus-cher-negociation-laval.md",
+   "date": "2026-10-20"
   },
   {
    "id": "t283",
@@ -10311,7 +10343,9 @@
     "refinancement-hypothecaire-quebec",
     "casser-hypotheque-penalite-quebec"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/acheter-avant-de-vendre-maison-laval.md",
+   "date": "2026-10-20"
   }
  ],
  "lots": "les 4 lots de sujets de reference sont planifies"

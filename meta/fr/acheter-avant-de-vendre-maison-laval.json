@@ -1,0 +1,315 @@
+{
+ "id": "t283",
+ "slug": "acheter-avant-de-vendre-maison-laval",
+ "title": "Peut-on acheter une maison avant de vendre la sienne à Laval?",
+ "target_keyword": "acheter avant de vendre maison laval",
+ "word_count": 2061,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/tools/home-estimate/",
+  "/articles/refinancement-hypothecaire-quebec/",
+  "/articles/casser-hypotheque-penalite-quebec/",
+  "/articles/vendre-avant-acheter-clauses-quebec/",
+  "/articles/marche-immobilier-est-de-laval-duvernay/",
+  "/articles/marche-immobilier-sainte-dorothee-laval-ouest/",
+  "/articles/marche-immobilier-laval-secteurs/",
+  "/courtier-immobilier/laval/",
+  "/courtier-immobilier/chomedey-laval/",
+  "/courtier-immobilier/duvernay-laval/",
+  "/courtier-immobilier/sainte-dorothee-laval/",
+  "/courtier-immobilier/montreal/",
+  "/courtier-immobilier/longueuil/",
+  "/courtier-immobilier/vieux-longueuil/",
+  "/courtier-immobilier/saint-hubert-longueuil/",
+  "/courtier-immobilier/brossard/",
+  "/courtier-immobilier/terrebonne/",
+  "/courtier-immobilier/la-plaine-terrebonne/",
+  "/courtier-immobilier/mascouche/",
+  "/courtier-immobilier/repentigny/",
+  "/courtier-immobilier/blainville/",
+  "/courtier-immobilier/mirabel/",
+  "/courtier-immobilier/saint-jerome/",
+  "/courtier-immobilier/saint-eustache/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval",
+   "title": "Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Laval, ensemble, 3e trimestre 2026, unifamiliale: 36 jours sur le marché en moyenne (-2), 35 sur 4 trimestres, 547 ventes (-8 %), 792 inscriptions en vigueur (+17 %). Copropriété: 57 jours (+3). Notes de la page: variations par rapport au même trimestre de l'année précédente; ** = nombre de transactions insuffisant."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-auteuil",
+   "title": "Laval (Auteuil), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Auteuil, unifamiliale: 31 jours (-7), 35 sur 4 trimestres, 76 inscriptions en vigueur (+5 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-chomedey",
+   "title": "Laval (Chomedey), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Chomedey, unifamiliale: 34 jours (-1), 36 sur 4 trimestres, 123 inscriptions en vigueur (+19 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-duvernay",
+   "title": "Laval (Duvernay), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Duvernay, unifamiliale: 27 jours (-18), 34 sur 4 trimestres, 64 inscriptions en vigueur (-8 %). Page rouverte en direct par le vérificateur le 2026-10-20 (curl, agent de navigateur): identique au JSON state/marche_T3_2026; note de la page: taux de variation « calculés par rapport au même trimestre de l'année précédente »."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-fabreville",
+   "title": "Laval (Fabreville), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Fabreville, unifamiliale: 30 jours (-4), 30 sur 4 trimestres, 103 inscriptions en vigueur (+22 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-des-rapides",
+   "title": "Laval (Laval-des-Rapides), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Laval-des-Rapides, unifamiliale: jours du trimestre non publiés (**), 34 sur 4 trimestres, 23 inscriptions en vigueur (variation **)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-ouest",
+   "title": "Laval (Laval-Ouest), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Laval-Ouest, unifamiliale: jours du trimestre non publiés (**), 31 sur 4 trimestres, 35 inscriptions en vigueur (+12 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-sur-le-lac",
+   "title": "Laval (Laval-sur-le-Lac), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Laval-sur-le-Lac, unifamiliale: jours non publiés au trimestre ni sur 4 trimestres (**), 9 inscriptions en vigueur (variation **)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-pont-viau",
+   "title": "Laval (Pont-Viau), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Pont-Viau, unifamiliale: jours du trimestre non publiés (**), 36 sur 4 trimestres, 16 inscriptions en vigueur (variation **)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-saint-francois",
+   "title": "Laval (Saint-François), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-François, unifamiliale: 43 jours (-7), 37 sur 4 trimestres, 52 inscriptions en vigueur (+18 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-saint-vincent-de-paul",
+   "title": "Laval (Saint-Vincent-de-Paul), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-Vincent-de-Paul, unifamiliale: jours du trimestre non publiés (**), 35 sur 4 trimestres, 30 inscriptions en vigueur (+50 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-sainte-dorothee",
+   "title": "Laval (Sainte-Dorothée), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Sainte-Dorothée, unifamiliale: 48 jours (-1), 46 sur 4 trimestres, 112 inscriptions en vigueur (+23 %). Page rouverte en direct par le vérificateur le 2026-10-20 (curl, agent de navigateur): identique au JSON state/marche_T3_2026; note de la page: taux de variation « calculés par rapport au même trimestre de l'année précédente »."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-sainte-rose",
+   "title": "Laval (Sainte-Rose), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Sainte-Rose, unifamiliale: 39 jours (0), 34 sur 4 trimestres, 100 inscriptions en vigueur (+72 %). Page rouverte en direct par le vérificateur le 2026-10-20 (curl, agent de navigateur): identique au JSON state/marche_T3_2026; note de la page: taux de variation « calculés par rapport au même trimestre de l'année précédente »."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-vimont",
+   "title": "Laval (Vimont), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Vimont, unifamiliale: 31 jours (-8), 30 sur 4 trimestres, 43 inscriptions en vigueur (-10 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile",
+   "title": "Montréal (Île): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Île de Montréal, unifamiliale: 51 jours (+4), 1 002 ventes (-12 %), 2 162 inscriptions en vigueur (+7 %). Copropriété: 67 jours (+14). Page rouverte en direct par le vérificateur le 2026-10-20 (curl, agent de navigateur): identique au JSON state/marche_T3_2026; note de la page: taux de variation « calculés par rapport au même trimestre de l'année précédente »."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-le-vieux-longueuil",
+   "title": "Longueuil (Le Vieux-Longueuil), Montréal (Rive-Sud): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Longueuil (Le Vieux-Longueuil), unifamiliale: 35 jours (+13), 116 ventes (-5 %), 132 inscriptions en vigueur (+6 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-saint-hubert",
+   "title": "Longueuil (Saint-Hubert), Montréal (Rive-Sud): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Longueuil (Saint-Hubert), unifamiliale: 29 jours (-5), 129 ventes (-18 %), 134 inscriptions en vigueur (-10 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-greenfield-park",
+   "title": "Longueuil (Greenfield Park), Montréal (Rive-Sud): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Longueuil (Greenfield Park), unifamiliale: jours du trimestre non publiés (**), 34 sur 4 trimestres, 28 ventes (variation **), 36 inscriptions en vigueur (+63 %). Centris ne publie pas de page pour l'ensemble de Longueuil."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/brossard",
+   "title": "Brossard, Montréal (Rive-Sud): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Brossard, unifamiliale: 43 jours (0), 134 ventes (+2 %), 242 inscriptions en vigueur (-2 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne",
+   "title": "Terrebonne (Terrebonne), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Terrebonne (secteur Terrebonne), unifamiliale: 37 jours (+8), 107 ventes (-25 %), 138 inscriptions en vigueur (+28 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie",
+   "title": "Terrebonne (Lachenaie), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Terrebonne (Lachenaie), unifamiliale: 34 jours (+5), 63 ventes (-20 %), 66 inscriptions en vigueur (+13 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine",
+   "title": "Terrebonne (La Plaine), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Terrebonne (La Plaine), unifamiliale: 31 jours (+4), 56 ventes (+21 %), 74 inscriptions en vigueur (+94 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/mascouche",
+   "title": "Mascouche, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Mascouche, unifamiliale: 25 jours (-5), 104 ventes (-1 %), 111 inscriptions en vigueur (+35 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-repentigny",
+   "title": "Repentigny (Repentigny), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Repentigny (secteur Repentigny), unifamiliale: 34 jours (+12), 122 ventes (0 %), 134 inscriptions en vigueur (+32 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-le-gardeur",
+   "title": "Repentigny (Le Gardeur), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Repentigny (Le Gardeur), unifamiliale: 35 jours (+10), 34 ventes (-17 %), 34 inscriptions en vigueur (+61 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/blainville",
+   "title": "Blainville, Laurentides: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Blainville, unifamiliale: 34 jours (+5), 148 ventes (+8 %), 174 inscriptions en vigueur (+10 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/mirabel",
+   "title": "Mirabel, Laurentides: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Mirabel, unifamiliale: 37 jours (+12), 112 ventes (-4 %), 180 inscriptions en vigueur (+26 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-jerome",
+   "title": "Saint-Jérôme, Laurentides: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-Jérôme, unifamiliale: 39 jours (+3), 161 ventes (+8 %), 195 inscriptions en vigueur (+34 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-eustache",
+   "title": "Saint-Eustache, Laurentides: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-Eustache, unifamiliale: 23 jours (-5), 68 ventes (-15 %), 84 inscriptions en vigueur (+1 %). Page rouverte en direct par le vérificateur le 2026-10-20 (curl, agent de navigateur): identique au JSON state/marche_T3_2026; note de la page: taux de variation « calculés par rapport au même trimestre de l'année précédente »."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Page 65, définitions: moyenne de jours sur le marché, « Nombre moyen de jours entre la date de signature du contrat de courtage et la date de vente »; « La date de vente est celle de l'acceptation de la promesse d'achat, laquelle prend effet lors de la levée de toutes les conditions »; nombre de mois d'inventaire, « Nombre de mois nécessaires pour écouler tout l'inventaire de propriétés à vendre, calculé selon le rythme des ventes des 12 derniers mois », mesure « différente du délai de vente moyen ». Page 27, Laval, tableau 3, unifamiliale sur les 12 derniers mois: 2,8 mois d'inventaire entre 470 000 $ et 790 000 $, 7,2 mois à 950 000 $ et plus. La colonne « Conditions du marché » n'est pas reprise dans l'article (aucun verdict de marché)."
+  },
+  {
+   "url": "https://assets.cmhc-schl.gc.ca/sites/cmhc/consumers/home-buying/buying-guides/home-buying/homebuying-step-by-step-guide-fr.pdf",
+   "title": "L'achat d'une maison étape par étape : Votre guide pour acheter une maison au Canada",
+   "publisher": "SCHL",
+   "consulted": "2026-10-20",
+   "supports": "Date de clôture « généralement 30 à 60 jours après la signature de l'offre d'achat pour une maison existante »; définition de la transférabilité (transférer un prêt en cours à la nouvelle propriété sans pénalité ou avec une pénalité réduite au moment de la vente); liste des frais d'occupation (paiements hypothécaires, impôt foncier, primes d'assurance, services publics, frais de copropriété, réparations). Le guide ne mentionne pas le prêt-relais (recherche des mots relais et prêt-pont dans le texte: aucun résultat)."
+  },
+  {
+   "url": "https://www.oaciq.com/media/ukrmxnyh/annexe-r-immeuble-re-sidentiel-ar-2026-changements.pdf",
+   "title": "Formulaire obligatoire Annexe R, Immeuble résidentiel (AR 00001, v24 08/2025)",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Section 2: seules les conditions cochées font partie de l'annexe. Clause R2.1: promesse conditionnelle à la vente de l'immeuble de l'acheteur, avis écrit avant la date et l'heure inscrites que la condition est réalisée ou que l'acheteur y renonce; renonciation seulement s'il démontre en même temps avoir les fonds nécessaires pour couvrir le prix d'achat; promesse nulle et non avenue à défaut d'avis. Clause R2.2: le vendeur peut continuer d'offrir l'immeuble; s'il accepte une nouvelle promesse, il avise l'acheteur par écrit dès que toutes les conditions de celle-ci sont réalisées; l'acheteur a 72 heures après réception pour renoncer à R2.1 et à toutes les autres conditions non encore réalisées, fonds démontrés, ou rendre sa promesse nulle; à défaut, promesse nulle et non avenue. Clause R2.3 nommée (acceptation conditionnelle à l'annulation d'une autre promesse)."
+  },
+  {
+   "url": "https://www.oaciq.com/media/qqlnugz4/promesse-achat-residentiel.pdf",
+   "title": "Formulaire obligatoire Promesse d'achat, immeuble principalement résidentiel de moins de 5 logements excluant la copropriété (PA 00001, V29 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Clause 11.1: acte de vente signé devant notaire le ou avant une date laissée en blanc. Clause 11.2: date d'occupation distincte. Clause 11.3: si l'occupation suit l'acte, le vendeur paie un montant mensuel de la signature de l'acte à l'occupation, en compensation, versé à l'acheteur par le notaire, assume chauffage, électricité et entretien général, et fournit la preuve d'une assurance responsabilité à ses frais. Clause 10.4: frais de remboursement et de radiation de toute créance hypothécaire à la charge du vendeur, sauf stipulation contraire à la clause 12.1, y compris toute pénalité de remboursement par anticipation. Version V29 06/2022, celle que l'OACIQ sert à cette adresse au 2026-10-20."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, article 1503",
+   "publisher": "LégisQuébec, Publications du Québec",
+   "consulted": "2026-10-20",
+   "supports": "Article 1503: « L'obligation conditionnelle a tout son effet lorsque le débiteur obligé sous telle condition en empêche l'accomplissement. » Lu en direct avec tools/ccq.py, sans passage par l'archive."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-consommation-matiere-financiere/services/hypotheques/emprunt-valeur-net-maison.html",
+   "title": "Emprunter sur la valeur nette de votre maison",
+   "publisher": "Agence de la consommation en matière financière du Canada",
+   "consulted": "2026-10-20",
+   "supports": "Marge de crédit hypothécaire: « Vous pouvez emprunter jusqu'à 65 % de la valeur de votre maison. » Règle générale: « vous pouvez emprunter jusqu'à 80 % de la valeur de votre maison », avec l'exemple d'une maison de 250 000 $: 200 000 $ au maximum, moins un solde hypothécaire de 150 000 $, soit 50 000 $. Deuxième hypothèque: jusqu'à 80 % de la valeur évaluée moins le solde de l'hypothèque, « généralement un taux d'intérêt plus élevé qu'une première hypothèque ». Page datée du 2025-10-15. Aucune mention du prêt-relais. Lue par WebFetch (curl expire), par le rédacteur puis par le vérificateur le 2026-10-20."
+  },
+  {
+   "url": "https://www.canada.ca/en/financial-consumer-agency/services/mortgages/preparing-mortgage.html",
+   "title": "Preparing to get a mortgage",
+   "publisher": "Agence de la consommation en matière financière du Canada",
+   "consulted": "2026-10-20",
+   "supports": "Frais de logement mensuels d'au plus 39 % du revenu brut du ménage (paiements hypothécaires, taxes foncières, chauffage, 50 % des frais de copropriété); ensemble des dettes d'au plus 44 % du revenu brut, « your total monthly housing costs plus all of your other debts ». Aucune mention du prêt-relais. Page datée du 2025-10-15, lue en anglais par WebFetch, par le rédacteur puis par le vérificateur le 2026-10-20."
+  },
+  {
+   "url": "https://www.td.com/ca/fr/services-bancaires-personnels/produits/prets-hypothecaires/financement-entre-deux-proprietes",
+   "title": "Prêt-relais | TD Canada Trust",
+   "publisher": "TD Canada Trust (prêteur, description de son propre produit)",
+   "consulted": "2026-10-20",
+   "supports": "« Le prêt-relais fait la jonction entre la vente de votre maison et l'achat de la nouvelle [...] habituellement un maximum de 90 jours »; exemple: transfert de la nouvelle propriété dans 30 jours, vente de l'actuelle dans 90 jours, le prêt couvre les 60 jours entre les deux; taux « similaires aux prêts hypothécaires ouverts, souvent supérieurs au taux d'intérêt de votre prêt actuel »; montant fondé sur la valeur nette (valeur moins solde du prêt), moins un montant estimatif pour les frais de transfert; documents exigés: « une copie de la convention de vente pour votre maison actuelle, ainsi que la convention d'achat pour la nouvelle maison »; inconvénient: « Si la vente de votre maison actuelle échoue, vous pourriez avoir à payer deux prêts hypothécaires jusqu'à ce que la vente de votre maison soit conclue ». La page ne dit pas si les conditions de la vente doivent être levées: l'article écrit donc « convention de vente signée », pas « vente ferme »."
+  },
+  {
+   "url": "https://www.desjardins.com/fr/hypotheque/faq.html",
+   "title": "FAQ Hypothèque - Desjardins",
+   "publisher": "Desjardins (prêteur, description de son propre produit)",
+   "consulted": "2026-10-20",
+   "supports": "« Le prêt-pont, qu'on appelle aussi prêt-relais, est un prêt à court terme qui peut vous être accordé si vous prenez possession d'une nouvelle propriété avant d'avoir vendu la vôtre »; il sert à payer la mise de fonds et se rembourse une fois la propriété actuelle vendue, « selon les modalités convenues avec votre conseiller ou conseillère ». Aucun taux ni durée publiés sur la page."
+  },
+  {
+   "url": "https://www.laval.ca/wp-content/uploads/2026/01/budget-2026.pdf",
+   "title": "Budget 2026",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-20",
+   "supports": "Page 15: « Compte de taxes foncières unifamiliale moyen : 4,3 % (4,9 % avec une piscine) »; le budget publie la variation du compte moyen, pas son montant en dollars dans les pages lues (14 à 17)."
+  }
+ ],
+ "claims_needing_review": [
+  "Prêt-relais: aucune source publique consultée (guide de la SCHL, deux pages de l'ACFC) ne le décrit. Sa définition, sa durée habituelle (90 jours), ses taux et les documents exigés viennent des pages produit de deux prêteurs, TD et Desjardins, citées nommément comme description de leur propre produit. Ce type de source n'est pas dans la liste des sources primaires de state/BRIEF.md; les modalités varient d'un prêteur à l'autre et peuvent changer. TD exige une convention de vente sans préciser si ses conditions doivent être levées: l'article dit « convention de vente signée ».",
+  "Article 1503 du Code civil appliqué à la condition R2.1: le texte de l'article est cité tel quel, mais la phrase « retirer sa maison du marché pour faire tomber sa promesse peut donc tomber sous cet article » est une lecture de la règle, renvoyée au notaire ou à l'avocat. À confirmer par un juriste.",
+  "Le tableau des coûts repose sur des hypothèses d'illustration nommées comme telles (taux de 7 % et de 4,5 %, taxes de 5 000 $, assurance de 1 500 $, électricité de 200 $ par mois), pas sur des taux publiés. Le calendrier type (actes à 45 jours, dans la fourchette de 30 à 60 jours de la SCHL) est un calcul, pas une prévision."
+ ]
+}

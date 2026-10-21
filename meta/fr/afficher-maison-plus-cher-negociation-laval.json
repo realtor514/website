@@ -1,0 +1,223 @@
+{
+ "id": "t282",
+ "slug": "afficher-maison-plus-cher-negociation-laval",
+ "title": "Faut-il afficher sa maison plus cher pour négocier à Laval?",
+ "target_keyword": "afficher maison plus cher negociation",
+ "word_count": 1805,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/articles/prix-demande-prix-vendu-montreal/",
+  "/courtier-immobilier/laval/",
+  "/courtier-immobilier/montreal/",
+  "/courtier-immobilier/vieux-longueuil/",
+  "/courtier-immobilier/saint-hubert-longueuil/",
+  "/courtier-immobilier/longueuil/",
+  "/courtier-immobilier/brossard/",
+  "/courtier-immobilier/terrebonne/",
+  "/courtier-immobilier/la-plaine-terrebonne/",
+  "/courtier-immobilier/mascouche/",
+  "/courtier-immobilier/repentigny/",
+  "/courtier-immobilier/blainville/",
+  "/courtier-immobilier/mirabel/",
+  "/courtier-immobilier/saint-jerome/",
+  "/courtier-immobilier/saint-eustache/",
+  "/articles/marche-immobilier-laval-secteurs/",
+  "/articles/propriete-ne-se-vend-pas-quebec/",
+  "/tools/home-estimate/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/strategies-negociation-immobilier/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://extranet.apciq.ca/wp-content/uploads/2026/10/marche-decode-oct-26-fr-2.pdf",
+   "title": "Le marché décodé, octobre 2026: Révisions de prix, avec plus de choix sur le marché, les vendeurs s'ajustent",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Source principale. Lien trouvé sur https://apciq.ca/barometre-residentiel/le-march-dcod/ (édition « Octobre 2026 »). Page 1: près de 67 500 révisions de prix à la baisse de janvier à septembre 2026, appliquées sur 46 900 propriétés, près de deux fois plus qu'en 2021; hausse expliquée surtout par l'augmentation du nombre de propriétés à vendre. Page 2: près de 18,5 révisions par mois pour 100 propriétés en vente contre environ 17 de 2023 à 2025; première révision après 57 jours en 2026 contre deux mois de 2023 à 2025; graphique « Les propriétés au juste prix trouvent preneur rapidement », délais moyens entre la mise en marché et la vente: unifamiliale 46 jours (prix non révisé) contre 119 (révisé), copropriété 51 contre 121, plex 55 contre 143; marchés les plus serrés (Capitale-Nationale, Chaudière-Appalaches, Laval): ajustements plus rapides mais plus modestes; marchés à inventaire plus élevé: attente plus longue, révision souvent plus importante. Page 3: tableau « Les vendeurs s'ajustent au rythme de leur marché », janvier à août 2026, unifamiliale (jours avant 1re révision, révision moyenne, mois d'inventaire): Laval 44, -2,8 %, 2,7; Montréal 57, -3,8 %, 4,1; Montérégie 53, -3,1 %, 3,1; Lanaudière 52, -3,7 %, 3,2; Laurentides 59, -3,8 %, 4,0; copropriété: Laval 55 jours, -2,6 %; Montréal 60 jours, -3,1 %. 44 jours est le plus court des 17 régions, -2,8 % le deuxième plus faible après la Capitale-Nationale (-2,7 %). Définitions sous le tableau: « Jours écoulés avant révision: nombre de jours entre la mise en marché d'une propriété et sa première révision de prix »; « Révision moyenne: moyenne des révisions de prix, soit le nouveau prix par rapport au prix précédent ». La révision moyenne porte donc sur toutes les révisions, pas sur la seule première, et le tableau régional ne qualifie pas ses jours de moyenne: l'article dit « 44 jours avant la première révision » et « révision moyenne de -2,8 % », sans « en moyenne » sur les jours régionaux. Seul le chiffre provincial de la page 2 (57 jours) est donné « en moyenne » par l'APCIQ. Vérificateur, 2026-10-20: PDF retéléchargé, tableau relu par pdftotext -table et par rendu image, chiffres identiques; graphique de la page 2 relu sur rendu image (46/119, 51/121, 55/143, « Délais moyens, en jours, entre la mise en marché et la vente », sans détail par région). Tableau lu deux fois, par pdftotext en mode table et par rendu image de la page: la sortie pdftotext -layout décalait les lignes, seule la lecture concordante a été retenue. Valeurs du graphique de la page 2 lues sur le rendu image, leurs étiquettes étant absentes de la couche texte."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Communiqué du 14 octobre 2026: citation de Camille Laberge, « Davantage de révisions à la baisse du prix demandé sont observées, signe que l'augmentation du nombre de propriétés à vendre crée des conditions moins compétitives »; renvoi à Le marché décodé; RMR de Montréal, unifamiliale: « les vendeurs conservent néanmoins un avantage pour chacun des grands secteurs de la RMR ». Vérificateur, 2026-10-20: page relue par curl, citations retrouvées mot pour mot. L'article ne garde que la seconde citation, liée dans le paragraphe « Plus de maisons en vitrine, moins de ventes »; la citation sur les conditions moins compétitives a été retirée du texte."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Page 65, Définitions et notes explicatives: indicateurs définis (ventes, nouvelles inscriptions, inscriptions en vigueur, prix de vente moyen et médian, inventaire, mois d'inventaire, conditions du marché, moyenne de jours sur le marché); tous les prix sont des prix de vente, aucune mesure du prix demandé; moyenne de jours sur le marché = « Nombre moyen de jours entre la date de signature du contrat de courtage et la date de vente ». Page 27, Laval, tableau 3, unifamiliale, 12 derniers mois: 2,8 mois d'inventaire de 470 000 $ à 790 000 $, 4,6 de 790 000 $ à 950 000 $, 7,2 à 950 000 $ et plus. Page 8, île de Montréal, tableau 3: 9,1 mois et « Équilibré » à 1 220 000 $ et plus. Vérificateur, 2026-10-20: PDF retéléchargé (65 pages, la page 65 est la dernière), pages 65, 27 et 8 relues par pdftotext -table, chiffres identiques; les cinq gammes de l'unifamiliale à Laval sont classées « Vendeur »."
+  },
+  {
+   "url": "https://apciq.ca/pour-profiter-de-ressources-exclusives-lors-dun-achat/",
+   "title": "Pour profiter de ressources exclusives lors d'un achat",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "La base Centris réservée aux courtiers fournit le prix demandé, le prix de vente et l'historique de vente de la propriété, de sorte qu'un courtier peut suivre son évolution sur plusieurs années; la recherche peut se faire par prix, par quartier ou par caractéristiques. Vérificateur, 2026-10-20: page relue par curl, phrases retrouvées; l'article dit désormais « historique de vente » et « la recherche peut aussi se faire par prix », comme la page."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-protection-des-renseignements-personnels/communication-des-renseignements-personnels/",
+   "title": "Communication des renseignements personnels, Ligne directrice Protection des renseignements personnels",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Section 7.2.4: tant que l'acte n'est pas publié au Registre foncier, le prix de vente est confidentiel; le prix obtenu, « qu'il corresponde ou non au prix initial d'inscription », ne doit pas être publicisé; les fiches des comparables ne peuvent être remises aux clients que si les informations identifiant le vendeur (photos, adresse, nom du propriétaire) sont masquées. Vérificateur, 2026-10-20: section 7.2.4 relue par curl, texte identique. La page parle des « clients » en général: l'article dit « un courtier peut remettre à ses clients, acheteurs compris »."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/etablissement-du-juste-prix-vente-0/",
+   "title": "L'évaluation du prix de vente: une responsabilité clé du courtier immobilier",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Mise à jour le 17 décembre 2025: le courtier établit le prix de vente ou conseille le vendeur pour qu'il le fasse de manière éclairée; analyse comparative avec des propriétés semblables récemment vendues dans le même secteur; opinion fondée et motivée (article 76 du RCE); prix publicisé = prix du contrat (article 112); un prix nettement inférieur à la valeur marchande et aux comparables dans le but de créer une surenchère n'est pas permis; pendant le contrat, le courtier doit conseiller et informer le vendeur pour qu'il puisse ajuster le prix selon l'évolution du marché. Vérificateur, 2026-10-20: page relue par curl, « Dernière mise à jour 17 décembre 2025 » confirmé. Le lien de l'article dit « établissement du prix de vente », pas « évaluation », pour respecter la règle sur le vocabulaire du courtier."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/guides-pratiques-professionnelles/principaux-formulaires-en-courtage-immobilier-residentiel/contexte-dutilisation-du-formulaire-ccv/prix-et-conditions-de-vente-ccv/",
+   "title": "Prix et conditions de vente (plus taxes, le cas échéant), Contexte d'utilisation du formulaire CCV",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Dernière mise à jour le 18 mai 2023: méthode de parité fondée notamment sur l'historique des immeubles vendus des services de diffusion; comparer la valeur marchande obtenue avec le prix demandé des comparables en vente; « Selon les objectifs du vendeur et la stratégie de mise en marché employée, le courtier en tirera possiblement une autre valeur qui constituera le prix demandé »; le prix de la clause 4.1 est le seul qui peut être publicisé; une modification du prix demandé se fait par le formulaire Modifications signé par le vendeur et le courtier, clause M2.2. Vérificateur, 2026-10-20: page relue par curl, passages retrouvés, « Dernière mise à jour 18 mai 2023 » confirmé. La phrase sur la clause 4.1 seule publicisable a été retirée du texte, l'article 112 couvrant déjà ce point."
+  },
+  {
+   "url": "https://www.oaciq.com/media/yr3lojn4/contrat-courtage-residentiel.pdf",
+   "title": "Contrat de courtage exclusif - Vente, Immeuble principalement résidentiel de moins de 5 logements excluant la copropriété (formulaire obligatoire, v29 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Clause 4.1, prix de vente demandé; clause 7.1, point 2: rétribution due « si une promesse d'achat conforme aux conditions de vente énoncées au présent contrat lui est présentée pendant la durée dudit contrat et que le VENDEUR la refuse ». Vérificateur, 2026-10-20: PDF relu (CCVE 00001 v29 06/2022, 11 pages), clauses 4.1 et 7.1 point 2 retrouvées mot pour mot. Phrase « pas une première mise lancée pour voir » retirée: interprétation; la FAQ renvoie au notaire ou à l'avocat."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-73.2,%20r.%201",
+   "title": "Règlement sur les conditions d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur la publicité, C-73.2, r. 1 (à jour au 1er juillet 2026)",
+   "publisher": "LegisQuébec",
+   "consulted": "2026-10-20",
+   "supports": "Lu en direct. Article 76: opinion sur la valeur « fondée et motivée conformément aux usages et aux règles de l'art »; article 112, paragraphe 4: aucun renseignement faux, trompeur ou incomplet quant au prix de vente, « lequel doit être celui prévu au contrat de courtage immobilier ». Vérificateur, 2026-10-20: relu en direct, « À jour au 1er juillet 2026 », articles 76 et 112 paragraphe 4 identiques."
+  },
+  {
+   "url": "https://www.centris.ca/fr/propriete~a-vendre~laval",
+   "title": "Propriétés résidentielles à vendre à Laval - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Page de recherche publique ouverte le 2026-10-20: menu de prix par seuils de 25 000 $ jusqu'à 500 000 $, puis de 50 000 $ jusqu'à 1 000 000 $ (1 250 000 $ ensuite); fonction « Sauvegarder ma recherche » avec « M'envoyer une alerte: Recevez des alertes lorsque de nouvelles propriétés correspondent à votre recherche »; mention « Baisse de prix » sur des fiches de la page de résultats. Aucune fiche particulière n'est citée dans l'article. Vérificateur, 2026-10-20: menu de prix et alerte de recherche sauvegardée reconfirmés par curl (seuils 25 000 $ à 500 000 $, puis 550 000 $ à 1 000 000 $ par 50 000 $, puis 1 250 000 $); la mention « Baisse de prix » n'apparaissait sur aucune fiche de cette page au second passage, d'où la source suivante."
+  },
+  {
+   "url": "https://www.centris.ca/fr/maison~a-vendre~laval",
+   "title": "Maisons à vendre à Laval - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Page de résultats publique ouverte par curl le 2026-10-20 par le vérificateur: une fiche de maison (Laval, Auteuil) porte le badge « Baisse de prix » (classe badge-price-drop). Appuie la phrase « une fiche peut porter la mention « Baisse de prix »: c'était le cas d'une maison de la page de résultats pour Laval le 20 octobre 2026 ». Aucune fiche n'est citée ni liée dans l'article."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval",
+   "title": "Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 547 ventes (-8 %), 792 inscriptions en vigueur (+17 %), 36 jours (-2). Notes de la page: variations par rapport au même trimestre de l'année précédente; ** = nombre de transactions insuffisant. Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page. Vérificateur: page rouverte par curl le 2026-10-20, unifamiliale identique chiffre à chiffre au fichier state/marche_T3_2026 et à l'article; note de la page: variations calculées par rapport au même trimestre de l'année précédente."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile",
+   "title": "Montréal (île): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 1 002 ventes (-12 %), 2 162 en vigueur (+7 %), 51 jours (+4). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-le-vieux-longueuil",
+   "title": "Longueuil (Le Vieux-Longueuil): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 116 ventes (-5 %), 132 en vigueur (+6 %), 35 jours (+13). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-saint-hubert",
+   "title": "Longueuil (Saint-Hubert): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 129 ventes (-18 %), 134 en vigueur (-10 %), 29 jours (-5). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-greenfield-park",
+   "title": "Longueuil (Greenfield Park): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 28 ventes (variation **), 36 en vigueur (+63 %), jours du trimestre ** et 34 jours sur 4 trimestres. Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page. Vérificateur: page rouverte par curl le 2026-10-20, unifamiliale identique chiffre à chiffre au fichier state/marche_T3_2026 et à l'article; note de la page: variations calculées par rapport au même trimestre de l'année précédente."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/brossard",
+   "title": "Brossard: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 134 ventes (+2 %), 242 en vigueur (-2 %), 43 jours (0). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne",
+   "title": "Terrebonne (Terrebonne): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 107 ventes (-25 %), 138 en vigueur (+28 %), 37 jours (+8). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie",
+   "title": "Terrebonne (Lachenaie): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 63 ventes (-20 %), 66 en vigueur (+13 %), 34 jours (+5). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine",
+   "title": "Terrebonne (La Plaine): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 56 ventes (+21 %), 74 en vigueur (+94 %), 31 jours (+4). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page. Vérificateur: page rouverte par curl le 2026-10-20, unifamiliale identique chiffre à chiffre au fichier state/marche_T3_2026 et à l'article; note de la page: variations calculées par rapport au même trimestre de l'année précédente."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/mascouche",
+   "title": "Mascouche: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 104 ventes (-1 %), 111 en vigueur (+35 %), 25 jours (-5). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-repentigny",
+   "title": "Repentigny (Repentigny): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 122 ventes (0 %), 134 en vigueur (+32 %), 34 jours (+12). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-le-gardeur",
+   "title": "Repentigny (Le Gardeur): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 34 ventes (-17 %), 34 en vigueur (+61 %), 35 jours (+10). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/blainville",
+   "title": "Blainville: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 148 ventes (+8 %), 174 en vigueur (+10 %), 34 jours (+5). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/mirabel",
+   "title": "Mirabel: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 112 ventes (-4 %), 180 en vigueur (+26 %), 37 jours (+12). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-jerome",
+   "title": "Saint-Jérôme: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 161 ventes (+8 %), 195 en vigueur (+34 %), 39 jours (+3). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-eustache",
+   "title": "Saint-Eustache: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Unifamiliale, 3e trimestre 2026, variation sur un an: 68 ventes (-15 %), 84 en vigueur (+1 %), 23 jours (-5). Page ouverte par curl le 2026-10-20, chiffres identiques au fichier state/marche_T3_2026; aucune mesure de l'écart entre prix demandé et prix vendu ni des baisses de prix sur la page. Vérificateur: page rouverte par curl le 2026-10-20, unifamiliale identique chiffre à chiffre au fichier state/marche_T3_2026 et à l'article; note de la page: variations calculées par rapport au même trimestre de l'année précédente."
+  }
+ ],
+ "claims_needing_review": []
+}

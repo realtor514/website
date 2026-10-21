@@ -1,0 +1,190 @@
+{
+ "id": "t251",
+ "slug": "marche-immobilier-riviere-des-prairies-pointe-aux-trembles-montreal",
+ "title": "Marché immobilier à Pointe-aux-Trembles et RDP, Montréal: 3e trimestre 2026",
+ "target_keyword": "marche immobilier pointe-aux-trembles",
+ "word_count": 1797,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/contester-evaluation-municipale-quebec/",
+  "/articles/acheter-zone-inondable-quebec/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/property-tax-explained/",
+  "/articles/marche-immobilier-montreal/",
+  "/courtier-immobilier/riviere-des-prairies-montreal/",
+  "/courtier-immobilier/montreal/",
+  "/tools/welcome-tax/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-riviere-des-prairies-pointe-aux-trembles",
+   "title": "Statistiques immobilières, Montréal (Rivière-des-Prairies/Pointe-aux-Trembles), Montréal (île)",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Tous les chiffres de l'arrondissement au 3e trimestre 2026 et sur les 4 derniers trimestres: total résidentiel 176 ventes (-13 %), 340 nouvelles inscriptions (+18 %), 340 inscriptions en vigueur (+48 %); unifamiliale 109 ventes (+17 %), 174 inscriptions (+50 %), 605 000 $ (+4 %), 40 jours (+3), cumul 4 trimestres 586 125 $ (+5 %); copropriété 60 ventes (-31 %), 133 inscriptions (+44 %), 347 500 $ (-2 %), 60 jours (+27), cumul 349 125 $; plex 7 ventes avec variation, prix et délai non publiés (**), 32 inscriptions (+60 %), cumul 56 ventes (-29 %), 790 250 $ (-3 %), 45 jours (-14), 24 inscriptions; population 107 941 (recensement 2021); notes de la page (variation par rapport au même trimestre de l'année précédente, sens des deux astérisques). Page lue en curl le 2026-10-20 par le rédacteur et rouverte le 2026-10-20 par le vérificateur: identique, chiffre à chiffre, au JSON state/marche_T3_2026/centris_montreal-ile.json. Les 48 % de l'accroche sont les inscriptions en vigueur du total résidentiel."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile",
+   "title": "Statistiques immobilières, Montréal (île)",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Lignes « Île de Montréal » des trois tableaux: unifamiliale 1 002 ventes (-12 %), 812 000 $ (+2 %), 51 jours (+4), 2 162 inscriptions (+7 %); copropriété 1 728 ventes (-15 %), 477 000 $ (0 %), 67 jours (+14), 6 696 inscriptions (+12 %); plex 614 ventes (-13 %), 902 500 $ (+3 %), 52 jours (-1), 1 631 inscriptions (+16 %). Page lue en curl, identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-montreal-nord",
+   "title": "Statistiques immobilières, Montréal (Montréal-Nord), Montréal (île)",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Comparaison: unifamiliale de Montréal-Nord, prix médian trimestriel non publié (**) pour 23 ventes, cumul des 4 derniers trimestres 524 875 $, plus bas que les 586 125 $ de l'arrondissement; copropriété, cumul 374 375 $. Page lue en curl, identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-pierrefonds-roxboro",
+   "title": "Statistiques immobilières, Montréal (Pierrefonds-Roxboro), Montréal (île)",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Comparaison: unifamiliale 95 ventes, prix médian 635 000 $ au trimestre (deuxième plus bas et deuxième volume de l'île); copropriété, cumul des 4 derniers trimestres 380 625 $. Page lue en curl, identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile/montreal-l-ile-bizard-sainte-genevieve",
+   "title": "Statistiques immobilières, Montréal (L'Île-Bizard/Sainte-Geneviève), Montréal (île)",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Comparaison: prix médian trimestriel de l'unifamiliale de 750 000 $, troisième plus bas de l'île. Page lue en curl. Les classements (11 territoires de l'île avec un prix médian trimestriel d'unifamiliale publié, 14 en copropriété; aucun volume d'unifamiliales supérieur à 109; aucun cumul de copropriété inférieur à 349 125 $) ont été établis sur les 34 pages de state/marche_T3_2026/centris_montreal-ile.json, récoltées le 2026-10-19; les cinq pages Centris citées ici ont été rouvertes le 2026-10-20 et concordent avec ce fichier."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Page 6: le secteur 18 « Pointe Est de l'Île » regroupe Montréal-Est et Rivière-des-Prairies/Pointe-aux-Trembles. Page 26: inscriptions en vigueur 362 (+49 %), cité comme « hausse de 49 % des inscriptions en vigueur »; tableau 3 de copropriété sur 12 mois, gammes avec ventes toutes « Vendeur » (3,8; 3,8; 3,6; 7,2 mois d'inventaire). Pages 9 à 26, ligne Inscriptions en vigueur du tableau 1: +49 % est la plus forte hausse des 18 secteurs (Ahuntsic-Cartierville suit à +42 %). Page 8, tableau 3 de l'unifamiliale de l'île: 3,0 mois d'inventaire et « Vendeur » de 410 000 $ à 610 000 $. PDF téléchargé et lu par pdftotext (mode tableau). Ces chiffres APCIQ ne sont pas mélangés aux chiffres Centris dans les tableaux."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Contexte régional: RMR de Montréal au 3e trimestre 2026, 9 265 ventes (-12 %), 20 350 propriétés inscrites (+17 %); vendeurs d'unifamiliales avantagés dans chacun des grands secteurs; copropriété de l'île « à la frontière entre le marché équilibré et l'avantage des acheteurs »."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/09/fad-communique-2026-09-02/",
+   "title": "La Banque du Canada maintient le taux directeur à 2¼ %",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-20",
+   "supports": "Taux directeur maintenu à 2,25 % le 2 septembre 2026; prochaine date d'établissement du taux le 28 octobre 2026."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+   "title": "Taux directeur",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-20",
+   "supports": "Tableau « Données récentes »: dernière décision le 2 septembre 2026, taux cible de 2,25 %, sans décision plus récente au 20 octobre 2026; appuie « Au 20 octobre 2026, le taux directeur de la Banque du Canada est de 2,25 % »."
+  },
+  {
+   "url": "https://montreal.ca/communiques-de-presse/depot-des-roles-devaluation-fonciere-de-lagglomeration-de-montreal-pour-2026-2027-2028",
+   "title": "Dépôt des rôles d'évaluation foncière de l'agglomération de Montréal pour 2026-2027-2028",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Rôles en vigueur à compter du 1er janvier 2026; évolution du marché entre le 1er juillet 2021 et le 1er juillet 2024; plus fortes hausses toutes catégories à Anjou (22,6 %) et à Rivière-des-Prairies-Pointe-aux-Trembles (21,3 %)."
+  },
+  {
+   "url": "https://mtl.ged.montreal.ca/constellio/?collection=mtlca&portal=REPDOCVDM#!displayDocument/00000122631",
+   "title": "Rôles d'évaluation foncière 2026-2027-2028, Agglomération de Montréal (PDF, 78 pages)",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Page 55, tableau « Variation des valeurs par catégories d'immeubles, Arrondissements de Montréal »: Rivière-des-Prairies-Pointe-aux-Trembles, 19 784 unifamiliales +18,4 %, 7 408 condos +21,9 %, 2 à 5 logements +19,1 %, total +21,3 %; Ville de Montréal 12,1 % et 9,5 %; aucun des 19 arrondissements ne dépasse 18,4 % en unifamiliale ni 21,9 % en condo. PDF téléchargé par navigateur sans tête depuis le portail de la Ville, tableau lu sur un rendu en image."
+  },
+  {
+   "url": "https://mtl.ged.montreal.ca/constellio/?collection=mtlca&portal=REPDOCVDM#!displayDocument/00000133583",
+   "title": "Budget 2026 et PDI 2026-2035, document complet",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Page 61 (page 145 du PDF), section « Étalement des variations de valeurs au rôle d'évaluation foncière »: « Généralement, le propriétaire d'un immeuble dont la valeur foncière a augmenté plus que la moyenne [...] verra sa charge fiscale augmenter, toutes choses étant égales par ailleurs »; le tiers de la variation est successivement ajouté (ou retranché) à la valeur du rôle précédent pour 2026, 2027 et 2028 (exemple de la page 62: valeur ajustée à un tiers, deux tiers, puis la totalité de la variation). Page 68 (page 152 du PDF), tableau 64: Rivière-des-Prairies-Pointe-aux-Trembles 5,6 % (ensemble résidentiel), 5,7 % (unifamiliales), 6,8 % (condominiums); Ville de Montréal 3,8 % (ensemble résidentiel). Page 71 (page 155 du PDF), tableau 66: unifamiliale moyenne de l'arrondissement, valeur moyenne 2026 de 505 048 $, taxes de 3 394 $ en 2025 et de 3 586 $ en 2026 (+192 $, +5,7 %). PDF du portail de la Ville (téléchargé par navigateur sans tête), relu le 2026-10-20 par pdftotext."
+  },
+  {
+   "url": "https://montreal.ca/articles/comment-sont-calcules-les-droits-sur-les-mutations-immobilieres-9279",
+   "title": "Comment sont calculés les droits sur les mutations immobilières",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Tranches 2026 de la Ville de Montréal: 1,5 % de 315 000 $ à 552 300 $, 2 % de 552 300 $ à 1 104 700 $ (page mise à jour le 12 janvier 2026)."
+  },
+  {
+   "url": "https://exo.quebec/fr/carte-interactive/gare-pointe-aux-trembles",
+   "title": "Gare Pointe-aux-Trembles",
+   "publisher": "exo",
+   "consulted": "2026-10-20",
+   "supports": "14501, rue Sherbrooke Est, zone A, ligne de train 15 Mascouche, 316 places de stationnement."
+  },
+  {
+   "url": "https://exo.quebec/fr/carte-interactive/gare-riviere-des-prairies",
+   "title": "Gare Rivière-des-Prairies",
+   "publisher": "exo",
+   "consulted": "2026-10-20",
+   "supports": "10801, boulevard Maurice-Duplessis, zone A, ligne de train 15 Mascouche, 194 places de stationnement."
+  },
+  {
+   "url": "https://exo.quebec/fr/horaire-train/ligne/262-15-mascouche",
+   "title": "Ligne de train 15 Mascouche, horaire",
+   "publisher": "exo",
+   "consulted": "2026-10-20",
+   "supports": "Arrêts de la ligne: Mascouche, Terrebonne, Repentigny, Pointe-aux-Trembles, Rivière-des-Prairies, Anjou, Saint-Léonard-Montréal-Nord, Saint-Michel-Montréal-Nord, Sauvé, Ahuntsic, Côte-de-Liesse; directions « Côte-de-Liesse » et « Mascouche ». Appuie le terminus à Côte-de-Liesse au 20 octobre 2026."
+  },
+  {
+   "url": "https://exo.quebec/fr/carte-interactive/gare-cote-de-liesse",
+   "title": "Gare Côte-de-Liesse",
+   "publisher": "exo",
+   "consulted": "2026-10-20",
+   "supports": "Adresse de la gare terminale de la ligne 15: 260, rue Deslauriers, zone A."
+  },
+  {
+   "url": "https://rem.info/fr/se-deplacer/stations-du-reseau/cote-de-liesse",
+   "title": "Station Côte-de-Liesse",
+   "publisher": "REM",
+   "consulted": "2026-10-20",
+   "supports": "Même adresse (260, rue Deslauriers) et, sous « Connexions », la ligne 15 Mascouche du train de banlieue d'exo: appuie la correspondance avec le REM."
+  },
+  {
+   "url": "https://www.artm.quebec/grands-projets/projets-dinfrastructure/projet-structurant-de-lest/",
+   "title": "Projet structurant de l'Est (PSE)",
+   "publisher": "ARTM",
+   "consulted": "2026-10-20",
+   "supports": "Proposition de l'ARTM (rapport d'analyse complémentaire présenté en mai 2024): système sur rail de type tramway, en surface et en site propre, 38 km et 31 stations; antenne nord-sud de Rivière-des-Prairies à la ligne verte par Maurice-Duplessis et Lacordaire-Dickson, antenne est-ouest de Repentigny à la ligne verte par l'autoroute 40 et la rue Sherbrooke Est. La page ne donne aucune date de mise en service."
+  },
+  {
+   "url": "https://www.artm.quebec/wp-content/uploads/2026/06/pg-pdi-2026-2035-artm-r00-2025-10-30-version-signee.pdf",
+   "title": "Programme des immobilisations 2026-2035 (adopté par le conseil d'administration le 30 octobre 2025)",
+   "publisher": "ARTM",
+   "consulted": "2026-10-20",
+   "supports": "PDI adopté par le conseil d'administration de l'ARTM le 30 octobre 2025 (résolution 25-CA(ARTM)-109). Le gouvernement a annoncé la réalisation du PSE en février 2025 (selon l'ARTM); « le projet PSE sera transféré à Mobilité Infra Québec (MIQ) durant l'année 2026 »; aucune date de construction ni de mise en service. Statut au 20 octobre 2026: aucune page officielle consultée (page de projet de l'ARTM, arrêtée à mai 2024) ne confirme le transfert; l'article dit que le transfert « devait » avoir lieu en 2026 et qu'il n'est pas confirmé. PDF relu le 2026-10-20 par pdftotext."
+  },
+  {
+   "url": "https://montreal.ca/sujets/inondations",
+   "title": "Inondations",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Rivière-des-Prairies-Pointe-aux-Trembles figure parmi les zones concernées par la crue des eaux (fleuve Saint-Laurent, rivière des Prairies, lac Saint-Louis, lac des Deux Montagnes); page mise à jour le 29 juin 2026."
+  },
+  {
+   "url": "https://montreal.ca/articles/crue-printaniere-riviere-des-prairies-pointe-aux-trembles-4848",
+   "title": "Crue printanière - Rivière-des-Prairies-Pointe-aux-Trembles",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Mise à jour du 20 avril 2026: situation « sous contrôle », eau sur le terrain de parcs riverains comme ceux du Bout-de-l'Île et Pierre-Payet, « Aucune maison sur le territoire n'est impactée »; renvoi à la carte du gouvernement du Québec."
+  },
+  {
+   "url": "https://cmm.qc.ca/communiques/nouvelle-cartographie-des-zones-inondables-la-cmm-demande-au-gouvernement-du-quebec-de-maintenir-la-mise-en-vigueur-le-1er-aout/",
+   "title": "Nouvelle cartographie des zones inondables : La CMM demande au gouvernement du Québec de maintenir la mise en vigueur le 1er août",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-20",
+   "supports": "Premier lot de cartes de nouvelle génération couvrant notamment les abords de la rivière des Prairies et du fleuve Saint-Laurent; mise en vigueur prévue le 1er août 2026; le 30 juillet 2026, la CMM demande au MELCCFP de revenir sur sa décision d'en retarder la publication à une date indéterminée."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur",
+   "title": "Cartographies des zones inondables et des zones de mobilité d'un cours d'eau en vigueur",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-10-20",
+   "supports": "En l'absence de cartographie de nouvelle génération, les cartographies en vigueur sont celles d'ancienne génération, disponibles auprès de la municipalité ou de la MRC (page mise à jour le 28 août 2026). Ni cette page ni la page « Travaux en cours et échéanciers » (mise à jour le 31 juillet 2026) n'annoncent l'entrée en vigueur du lot de la CMM."
+  }
+ ],
+ "claims_needing_review": []
+}

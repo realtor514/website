@@ -1,0 +1,314 @@
+{
+ "id": "t281",
+ "slug": "pourquoi-maison-ne-se-vend-pas-laval",
+ "title": "Pourquoi ma maison ne se vend pas à Laval?",
+ "target_keyword": "pourquoi ma maison ne se vend pas laval",
+ "word_count": 1944,
+ "category": "Guide du vendeur",
+ "internal_links": [
+  "/articles/propriete-ne-se-vend-pas-quebec/",
+  "/courtier-immobilier/sainte-dorothee-laval/",
+  "/courtier-immobilier/duvernay-laval/",
+  "/articles/marche-immobilier-sainte-dorothee-laval-ouest/",
+  "/articles/marche-immobilier-est-de-laval-duvernay/",
+  "/articles/marche-immobilier-vimont-auteuil-laval/",
+  "/articles/marche-immobilier-sainte-rose-fabreville-laval/",
+  "/courtier-immobilier/laval/",
+  "/courtier-immobilier/montreal/",
+  "/courtier-immobilier/vieux-longueuil/",
+  "/courtier-immobilier/saint-hubert-longueuil/",
+  "/courtier-immobilier/longueuil/",
+  "/courtier-immobilier/brossard/",
+  "/courtier-immobilier/terrebonne/",
+  "/courtier-immobilier/la-plaine-terrebonne/",
+  "/courtier-immobilier/mascouche/",
+  "/courtier-immobilier/repentigny/",
+  "/courtier-immobilier/blainville/",
+  "/courtier-immobilier/mirabel/",
+  "/courtier-immobilier/saint-jerome/",
+  "/courtier-immobilier/saint-eustache/",
+  "/tools/home-estimate/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/declaration-du-vendeur-quebec/",
+  "/articles/contrat-courtage-vente-quebec/",
+  "/articles/divorce-real-estate-guide/",
+  "/articles/marche-immobilier-laval-secteurs/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval",
+   "title": "Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Laval, unifamiliale, 3e trimestre 2026: 547 ventes (-8 %), 792 inscriptions en vigueur (+17 %), 36 jours sur le marché (-2), prix médian 630 000 $ (utilisé pour le calcul de mise de fonds); copropriété 57 jours. Notes de la page: variations calculées par rapport au même trimestre de l'année précédente; ** = nombre de transactions insuffisant pour produire une statistique fiable. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-auteuil",
+   "title": "Laval (Auteuil), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Auteuil, unifamiliale: 55 ventes (-11 %), 76 en vigueur (+5 %), 31 jours (-7). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-chomedey",
+   "title": "Laval (Chomedey), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Chomedey, unifamiliale: 79 ventes (-14 %), 123 en vigueur (+19 %), 34 jours (-1); copropriété 59 jours, seul délai trimestriel de copropriété publié pour un quartier de Laval. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-duvernay",
+   "title": "Laval (Duvernay), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Duvernay, unifamiliale: 47 ventes (-9 %), 64 en vigueur (-8 %), 27 jours (-18), délai le plus court de Laval. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026. Relue en direct par le vérificateur le 2026-10-20: identique."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-fabreville",
+   "title": "Laval (Fabreville), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Fabreville, unifamiliale: 82 ventes (-18 %), 103 en vigueur (+22 %), 30 jours (-4). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-ouest",
+   "title": "Laval (Laval-Ouest), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Laval-Ouest, unifamiliale: 23 ventes (variation **), 35 en vigueur (+12 %), délai du trimestre **, donc 31 jours sur 4 trimestres. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-des-rapides",
+   "title": "Laval (Laval-des-Rapides), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Laval-des-Rapides, unifamiliale: 29 ventes, 23 en vigueur (variations **), délai du trimestre **, donc 34 jours sur 4 trimestres. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026. Relue en direct par le vérificateur le 2026-10-20: identique."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-laval-sur-le-lac",
+   "title": "Laval (Laval-sur-le-Lac), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Laval-sur-le-Lac, unifamiliale: 3 ventes, 9 en vigueur, délai non publié (** au trimestre et sur 4 trimestres). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-pont-viau",
+   "title": "Laval (Pont-Viau), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Pont-Viau, unifamiliale: 8 ventes, 16 en vigueur (variations **), délai du trimestre **, donc 36 jours sur 4 trimestres. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-saint-francois",
+   "title": "Laval (Saint-François), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-François, unifamiliale: 35 ventes (-5 %), 52 en vigueur (+18 %), 43 jours (-7). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-saint-vincent-de-paul",
+   "title": "Laval (Saint-Vincent-de-Paul), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-Vincent-de-Paul, unifamiliale: 14 ventes (variation **), 30 en vigueur (+50 %), délai du trimestre **, donc 35 jours sur 4 trimestres. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-sainte-dorothee",
+   "title": "Laval (Sainte-Dorothée), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Sainte-Dorothée, unifamiliale: 54 ventes (-3 %), 112 en vigueur (+23 %), 48 jours (-1), délai le plus long de Laval. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026. Relue en direct par le vérificateur le 2026-10-20: identique."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-sainte-rose",
+   "title": "Laval (Sainte-Rose), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Sainte-Rose, unifamiliale: 71 ventes (+31 %), 100 en vigueur (+72 %), 39 jours (0). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval/laval-vimont",
+   "title": "Laval (Vimont), Laval: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Vimont, unifamiliale: 47 ventes (-9 %), 43 en vigueur (-10 %), 31 jours (-8). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-ile",
+   "title": "Montréal (Île): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Île de Montréal, unifamiliale: 1 002 ventes (-12 %), 2 162 en vigueur (+7 %), 51 jours (+4); copropriété 67 jours (+14). Appuie l'accroche (51 jours contre 36 à Laval) et la question fréquente sur Montréal. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-le-vieux-longueuil",
+   "title": "Longueuil (Le Vieux-Longueuil), Montréal (Rive-Sud): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Longueuil, Le Vieux-Longueuil, unifamiliale: 116 ventes (-5 %), 132 en vigueur (+6 %), 35 jours (+13). Centris ne publie pas de total pour la ville de Longueuil, seulement ses arrondissements. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-saint-hubert",
+   "title": "Longueuil (Saint-Hubert), Montréal (Rive-Sud): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Longueuil, Saint-Hubert, unifamiliale: 129 ventes (-18 %), 134 en vigueur (-10 %), 29 jours (-5). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/longueuil-greenfield-park",
+   "title": "Longueuil (Greenfield Park), Montréal (Rive-Sud): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Longueuil, Greenfield Park, unifamiliale: 28 ventes (variation **), 36 en vigueur (+63 %), délai du trimestre **, donc 34 jours sur 4 trimestres. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/montreal-rive-sud/brossard",
+   "title": "Brossard, Montréal (Rive-Sud): Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Brossard, unifamiliale: 134 ventes (+2 %), 242 en vigueur (-2 %), 43 jours (0). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne",
+   "title": "Terrebonne (Terrebonne), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Terrebonne, secteur Terrebonne, unifamiliale: 107 ventes (-25 %), 138 en vigueur (+28 %), 37 jours (+8). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie",
+   "title": "Terrebonne (Lachenaie), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Terrebonne, Lachenaie, unifamiliale: 63 ventes (-20 %), 66 en vigueur (+13 %), 34 jours (+5). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine",
+   "title": "Terrebonne (La Plaine), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Terrebonne, La Plaine, unifamiliale: 56 ventes (+21 %), 74 en vigueur (+94 %, plus forte hausse du tableau), 31 jours (+4). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/mascouche",
+   "title": "Mascouche, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Mascouche, unifamiliale: 104 ventes (-1 %), 111 en vigueur (+35 %), 25 jours (-5), utilisé dans l'exemple des 45 jours. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026. Relue en direct par le vérificateur le 2026-10-20: identique."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-repentigny",
+   "title": "Repentigny (Repentigny), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Repentigny, secteur Repentigny, unifamiliale: 122 ventes (0 %), 134 en vigueur (+32 %), 34 jours (+12). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-le-gardeur",
+   "title": "Repentigny (Le Gardeur), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Repentigny, Le Gardeur, unifamiliale: 34 ventes (-17 %), 34 en vigueur (+61 %), 35 jours (+10). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/blainville",
+   "title": "Blainville, Laurentides: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Blainville, unifamiliale: 148 ventes (+8 %), 174 en vigueur (+10 %), 34 jours (+5). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/mirabel",
+   "title": "Mirabel, Laurentides: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Mirabel, unifamiliale: 112 ventes (-4 %), 180 en vigueur (+26 %), 37 jours (+12). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-jerome",
+   "title": "Saint-Jérôme, Laurentides: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-Jérôme, unifamiliale: 161 ventes (+8 %), 195 en vigueur (+34 %), 39 jours (+3). Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-eustache",
+   "title": "Saint-Eustache, Laurentides: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-20",
+   "supports": "Saint-Eustache, unifamiliale: 68 ventes (-15 %), 84 en vigueur (+1 %, plus faible hausse), 23 jours (-5), délai le plus court du tableau des villes. Page lue en direct le 2026-10-20; chiffres identiques à state/marche_T3_2026."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Tableau 3, unifamiliale, 12 derniers mois: Laval (p. 27) 1,7 mois sous 320 000 $, 2,8 de 470 000 à 790 000 $, 7,2 à 950 000 $ et plus, toutes gammes « Vendeur »; île de Montréal (p. 8) 4,6 de 610 000 à 1 020 000 $, 9,1 « Équilibré » à 1 220 000 $ et plus; Rive-Nord (p. 34) 2,5 de 440 000 à 740 000 $, 6,7 à 880 000 $ et plus; Rive-Sud (p. 50) 2,9 de 480 000 à 800 000 $, 6,5 à 960 000 $ et plus. Page 65: moyenne de jours sur le marché = nombre moyen de jours entre la signature du contrat de courtage et la date de vente; date de vente = acceptation de la promesse d'achat, qui prend effet à la levée de toutes les conditions; mois d'inventaire = inventaire moyen des 12 derniers mois divisé par la moyenne des ventes; seuils de 8 et 10 mois. Page 6: la Rive-Nord comprend les secteurs Ouest de la Rive-Nord (dont Saint-Eustache), Mirabel, Blainville, Terrebonne, Mascouche, Repentigny et Saint-Jérôme; la Rive-Sud comprend Brossard/Saint-Lambert, Vieux-Longueuil (avec Greenfield Park) et Saint-Hubert. PDF téléchargé et lu par pdftotext le 2026-10-20."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "Communiqué du 14 octobre 2026: copropriété de l'île de Montréal « à la frontière entre le marché équilibré et l'avantage des acheteurs »; Laval se rapproche « des seuils d'équilibre »; pour la copropriété, le périmètre du centre-ville de Montréal et le secteur sud-ouest « sont toutefois déjà en surplus »."
+  },
+  {
+   "url": "https://apciq.ca/pour-profiter-de-ressources-exclusives-lors-dun-achat/",
+   "title": "Pour profiter de ressources exclusives lors d'un achat",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-20",
+   "supports": "« La recherche peut se faire par prix, par quartier ou par caractéristiques » quand Centris aide le courtier à trouver des propriétés pour un acheteur; Centris fournit au courtier, entre autres, le prix demandé et « l'historique de vente de la propriété, de sorte qu'un courtier peut suivre l'évolution d'une propriété sur le marché sur une période de plusieurs années ». Relu le 2026-10-20 par le vérificateur: la page parle d'historique de vente, l'article cite donc ces mots et ne dit rien du compteur de jours après un retrait."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/etablissement-du-juste-prix-vente-0/",
+   "title": "Établissement du juste prix de vente",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Le courtier doit procéder à une analyse comparative avec d'autres propriétés semblables récemment vendues dans le même secteur; « Le prix de vente doit refléter la réalité du marché »; le prix publicisé doit être celui prévu au contrat de courtage (renvoi à l'article 112 du règlement); « Pendant la durée de son contrat de courtage, le courtier immobilier doit conseiller et informer le vendeur afin que celui-ci puisse ajuster le prix de l'immeuble en fonction de l'évolution du marché »."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/guide-vendeur/vendeur-avant-comment-bien-vous-preparer/vendeur-votre-contrat-de-courtage-exclusif-vente/",
+   "title": "Votre Contrat de courtage, Vente (guide du vendeur)",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Pour modifier le prix demandé une fois le contrat signé, le courtier remplit le formulaire obligatoire Modifications, que vendeur et courtier signent; moyens de promotion à discuter (publicité, pancartes, visites libres, service de diffusion d'information entre agences et courtiers); conditions de partage de la rétribution raisonnables « dans le but de ne pas diminuer l'intérêt des autres courtiers de proposer votre immeuble à leurs clients »; si le vendeur est l'unique propriétaire, l'intervention du conjoint est requise au contrat de courtage si la propriété constitue la résidence familiale. Le titre officiel de la page contient un tiret long, remplacé ici par une virgule."
+  },
+  {
+   "url": "https://www.oaciq.com/media/yr3lojn4/contrat-courtage-residentiel.pdf",
+   "title": "Formulaire obligatoire Contrat de courtage exclusif, Vente, immeuble principalement résidentiel de moins de 5 logements excluant la copropriété (v29 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "Clause 2.1: fin du contrat à la date inscrite, ou 30 jours après sa conclusion à défaut; résiliation en tout temps par le vendeur sauf stipulation contraire à la clause 11.1, avec frais et dépenses engagés ou dédommagement possibles. Clause 7.1, point 2: rétribution due si une promesse conforme aux conditions de vente est présentée et refusée; point 3: vente dans les 180 jours suivant la date de fin ou de résiliation du contrat avec une personne qui a été intéressée à l'immeuble pendant sa durée, sauf contrat stipulé exclusif conclu de bonne foi avec une autre agence ou un autre courtier. Clause 8.8: droit de faire visiter « à toute heure raisonnable », rendez-vous fixés avec l'occupant."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/titulaires-de-permis/lignes-directrices/ligne-directrice-verification-information-et-conseil/6-renseignements-sur-l-immeuble-principales-verifications-et-facteurs-defavorables/",
+   "title": "Renseignements sur l'immeuble : principales vérifications et facteurs défavorables",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-20",
+   "supports": "La fiche descriptive est souvent la première source d'information consultée; ses renseignements doivent être « exacts, vérifiés et à jour ». Après une inspection révélant des facteurs significatifs, le courtier du vendeur met à jour la fiche et les Déclarations du vendeur par formulaire Modifications (MO), et « ne peut continuer à diffuser une information devenue incomplète ou inexacte »."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-20",
+   "supports": "Articles 1726 (garantie contre les vices cachés), 1733 (pas d'exclusion ni de limitation de responsabilité pour les vices que le vendeur connaissait ou ne pouvait ignorer et n'a pas révélés, sauf achat aux risques et périls de l'acheteur auprès d'un vendeur non professionnel), 404 (l'époux propriétaire d'un immeuble de moins de cinq logements qui sert de résidence familiale ne peut l'aliéner sans le consentement écrit de son conjoint), 1030 (nul n'est tenu de demeurer dans l'indivision). Lus en direct par tools/ccq.py le 2026-10-20. L'article 2129 a été retiré du texte par le vérificateur: la résiliation et ses frais sont appuyés par la clause 2.1 du formulaire OACIQ, sans interprétation du Code."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-73.2,%20r.%201",
+   "title": "Règlement sur les conditions d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur la publicité (C-73.2, r. 1), à jour au 1er juillet 2026",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-20",
+   "supports": "Article 112, paragraphe 4: le prix de vente annoncé doit être celui prévu au contrat de courtage ou à la proposition de transaction. Article 99: aucun acte incompatible avec un contrat exclusif confié à un autre titulaire de permis, notamment fixer un rendez-vous ou présenter une proposition sans passer par lui, sauf autorisation; la sollicitation générale ne doit pas viser spécifiquement des personnes déjà liées par un contrat exclusif, d'où la formulation de l'appel à l'action final."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionnels/financement-de-projets-et-financement-hypothecaire/assurance-pret-hypothecaire/aph-po-et-petits-immeubles-locatifs/achat",
+   "title": "SCHL Achat",
+   "publisher": "SCHL",
+   "consulted": "2026-10-20",
+   "supports": "Prêt pour propriétaire-occupant, 1 ou 2 logements: mise de fonds minimale de 5 % de la première tranche de 500 000 $ plus 10 % du reste; prix d'achat maximal inférieur à 1 500 000 $; ratios ABD et ATD calculés selon le plus élevé entre le taux contractuel majoré de 2 % et 5,25 %. Calculs de l'article: 630 000 $ donne 25 000 $ + 13 000 $ = 38 000 $; 950 000 $ donne 25 000 $ + 45 000 $ = 70 000 $."
+  }
+ ],
+ "claims_needing_review": []
+}

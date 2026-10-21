@@ -98,18 +98,32 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Short Term Rentals in Quebec: The Rules](/en/articles/short-term-rental-rules-quebec/) : Registration number, Montreal and Laval zoning, declaration of co-ownership: the short term rental rules 
 
 ## Market Analysis
+- [Ahuntsic and Montréal-Nord, Montreal Real Estate Market: Q3 2026](/en/articles/ahuntsic-montreal-north-real-estate-market/) : Ahuntsic-Cartierville and Montréal-Nord, Montreal, in Q3 2026: single-family median prices of $924,625 an
 - [Best Time to Buy in Montreal: What the August Data Says](/en/articles/best-time-to-buy-montreal-data/) : The best time to buy in Montreal is read in your sector's supply, time on market and months of inventory,
 - [Chomedey, Laval Real Estate Market: Q3 2026](/en/articles/chomedey-laval-real-estate-market/) : Chomedey, Laval, in Q3 2026: 211 sales, including 114 condos at a $450,000 median price; single-family ho
+- [Côte-des-Neiges, NDG (Montreal) and Westmount Real Estate Market: Q3 2026](/en/articles/ndg-westmount-montreal-real-estate-market/) : Côte-des-Neiges, NDG and Westmount, Montreal, in Q3 2026: single-family median price of $2,525,000 in Wes
 - [Duvernay and Saint-François, Laval Real Estate Market: Q3 2026](/en/articles/east-laval-real-estate-market-duvernay/) : Duvernay and Saint-François, Laval, in Q3 2026: single-family median prices of $735,000 and $542,500, sol
+- [Greenfield Park, Longueuil Real Estate Market: Q3 2026](/en/articles/greenfield-park-longueuil-real-estate-market/) : Greenfield Park, Longueuil, in Q3 2026: 41 sales, a $570,062 single-family median over one year, 73 prope
+- [Hochelaga, Anjou and Saint-Léonard, Montreal Real Estate Market: Q3 2026](/en/articles/east-end-montreal-real-estate-market/) : East End Montreal, Q3 2026: 205 sales (-34%) in Mercier-Hochelaga-Maisonneuve, condo median $415,000, ple
 - [Laval Real Estate Market by Sector: Q3 2026](/en/articles/laval-real-estate-market-by-sector/) : Laval real estate market in Q3 2026: 848 sales, a $630,000 median price for single family homes and $439,
 - [Laval-des-Rapides and Pont-Viau, Laval Real Estate Market: Q3 2026](/en/articles/pont-viau-laval-des-rapides-real-estate-market/) : Laval-des-Rapides and Pont-Viau, Laval, in Q3 2026: 70 sales (-28%) in Laval-des-Rapides, and 89 of the 3
 - [List Price and Sold Price in Montreal: Reading the Gap](/en/articles/list-price-vs-sold-price-montreal/) : List price and sold price in Montreal: who sees the sale price, when it becomes consultable at the Regist
+- [Longueuil Real Estate Market by Sector: Q3 2026](/en/articles/longueuil-real-estate-market-by-sector/) : Longueuil in Q3 2026: single-family median of $625,000 in Vieux-Longueuil and $587,500 in Saint-Hubert, w
 - [Luxury Real Estate Market in Montreal: The Data](/en/articles/luxury-market-montreal-laval-data/) : Luxury real estate market in Montreal and Laval: the real threshold, the number of sales, months of inven
+- [Montreal Real Estate Market by Borough: Q3 2026](/en/articles/montreal-real-estate-market-by-borough/) : Montreal by borough, Q3 2026: 3,344 sales on the island, a $812,000 median price for single-family homes 
 - [Montreal and Laval Real Estate Market](/en/articles/marche-immobilier-montreal-analyse-donnees/) : Sales, listings, median prices, vacancy and population: how to read dated APCIQ, CMHC and ISQ data on the
+- [Pointe-aux-Trembles and RDP, Montreal Real Estate Market: Q3 2026](/en/articles/riviere-des-prairies-pointe-aux-trembles-montreal-real-estate-market/) : Pointe-aux-Trembles and Rivière-des-Prairies, Montreal, in Q3 2026: 109 single-family sales at a $605,000
+- [Rosemont and Villeray, Montreal Real Estate Market: Q3 2026](/en/articles/rosemont-villeray-montreal-real-estate-market/) : Rosemont and Villeray, Montreal, in Q3 2026: plex median prices of $950,000 and $880,000, sales down 23% 
+- [Saint-Hubert, Longueuil Real Estate Market: Q3 2026](/en/articles/saint-hubert-longueuil-real-estate-market/) : Saint-Hubert, Longueuil, in Q3 2026: 216 sales (-25%), single-family homes at a $587,500 median price, co
+- [Saint-Laurent (Montreal) and Dorval Real Estate Market: Q3 2026](/en/articles/saint-laurent-dorval-montreal-real-estate-market/) : Saint-Laurent (Montreal) and Dorval in Q3 2026: 177 sales in Saint-Laurent, single-family at $880,000, co
 - [Sainte-Dorothée and Laval-Ouest, Laval Real Estate Market: Q3 2026](/en/articles/sainte-dorothee-laval-ouest-real-estate-market/) : Sainte-Dorothée, Laval, in Q3 2026: 54 single-family sales at a $728,400 median price, and 23% more homes
 - [Sainte-Rose and Fabreville, Laval Real Estate Market: Q3 2026](/en/articles/sainte-rose-fabreville-laval-real-estate-market/) : Sainte-Rose and Fabreville, Laval, in Q3 2026: single-family median prices of $670,000 and $560,000, on 7
 - [The Real Cost of the Montreal Suburbs](/en/articles/suburb-or-city-real-cost-montreal/) : August 2026 median prices, taxes, a monthly pass against a second car, commuting time: what the Montreal 
+- [Verdun and Sud-Ouest, Montreal Real Estate Market: Q3 2026](/en/articles/sud-ouest-verdun-lasalle-montreal-real-estate-market/) : Verdun, Sud-Ouest, LaSalle and Lachine, Montreal, in Q3 2026: 641 sales, condo median of $617,000 in Verd
+- [Vieux-Longueuil, Longueuil Real Estate Market: Q3 2026](/en/articles/vieux-longueuil-real-estate-market/) : Vieux-Longueuil, Longueuil, in Q3 2026: 283 sales, a $625,000 median price for single-family homes and $3
+- [Ville-Marie and Plateau-Mont-Royal, Montreal Real Estate Market: Q3 2026](/en/articles/ville-marie-plateau-montreal-real-estate-market/) : Ville-Marie and Plateau-Mont-Royal, Montreal, in Q3 2026: 311 and 197 sales, condo median prices of $442,
 - [Vimont and Auteuil, Laval Real Estate Market: Q3 2026](/en/articles/vimont-auteuil-laval-real-estate-market/) : Vimont and Auteuil, Laval, in Q3 2026: single-family median prices of $700,000 and $640,000, sold in 31 d
+- [West Island, Montreal Real Estate Market: Q3 2026](/en/articles/west-island-montreal-real-estate-market/) : West Island, Montreal, in Q3 2026: single-family median prices of $635,000 in Pierrefonds-Roxboro and $1,
 
 ## Market Insights
 - [A Montreal Housing Crash: The Data](/en/articles/montreal-market-crash-analysis/) : Sales, active listings, median prices and days on market: what public APCIQ, ISQ and Statistics Canada da
@@ -168,6 +182,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [When a Quebec Deal Goes Wrong: Seven Cases](/en/articles/worst-real-estate-deal-lessons/) : When a Quebec deal goes wrong: legal hypothec, co-ownership file, inspection, financing, latent defects, 
 
 ## Seller's Guide
+- [Can You Buy a House Before Selling Yours in Laval?](/en/articles/buy-before-selling-house-laval/) : Yes, in Laval: a bridge loan once your sale is signed, otherwise a credit line or clause R2.1. In Q3 2026
 - [Downsizing in Greater Montreal: A Guide](/en/articles/senior-downsizing-guide/) : Condo, apartment, seniors' residence or staying put: what selling the family home really frees up, plus t
 - [How Do I Sell My House for the Highest Price in Laval?](/en/articles/sell-house-for-more-laval/) : Selling your house for more in Laval, where the single-family median was $630,000 in Q3 2026: asking pric
 - [How Long Does It Actually Take to Sell a House in Montreal?](/en/articles/how-long-to-sell-house-montreal/) : Time on market depends far less on the market than on three decisions you control. Here is the realistic 
@@ -189,7 +204,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [Selling Your Home in Winter in Quebec: The Obligations](/en/articles/selling-in-fall-and-winter-quebec/) : Selling a home in winter in Quebec: summer photos posted in January, snow clearing for showings, and the 
 - [Selling Your House Yourself in Laval with DuProprio: How Does It Work?](/en/articles/sell-house-yourself-duproprio-laval/) : Selling your house yourself in Laval is allowed: DuProprio packages from $1,199.95 to $1,999.95, single-f
 - [Selling a Home Worth Less Than the Mortgage](/en/articles/selling-underwater-mortgage-quebec/) : Selling a Quebec home worth less than the mortgage: the balance, the penalty, the quittance, the broker's
-- [Should I Overprice My House to Leave Room to Negotiate in Laval?](/en/articles/overpricing-house-negotiation-laval/) (brouillon) : In Laval, APCIQ counts 44 days before a house's first price cut in 2026, but neither it nor Centris publi
+- [Should I Overprice My House to Leave Room to Negotiate in Laval?](/en/articles/overpricing-house-negotiation-laval/) : In Laval, APCIQ counts 44 days before a house's first price cut in 2026, but neither it nor Centris publi
 - [Should You Renovate Before Selling Your House in Laval?](/en/articles/renovate-before-selling-house-laval/) : Renovate before selling in Laval? The Code civil does not require it. Permit: 30 days announced. Single f
 - [The Listing Brokerage Contract in Quebec: Clause by Clause](/en/articles/listing-brokerage-contract-quebec/) : Term, price, remuneration, the 180 day clause, declarations: what each clause of the Quebec listing broke
 - [The Process of Selling a House in Quebec: The Steps](/en/articles/selling-process-steps-quebec/) : Contrat de courtage, seller's declarations, certificat de localisation, promesse d'achat, notaire: the pr
@@ -197,6 +212,7 @@ Un article marque (brouillon) n est pas encore visible: ne le liez pas.
 - [The Seller's Declaration in Quebec: The DV 00001 Form](/en/articles/seller-declaration-form-quebec/) : Form DV 00001 is mandatory and annexed to the promesse d'achat. What the seller actually declares, and wh
 - [When to List Your Property in Montreal](/en/articles/best-time-sell-home-montreal/) : When to list your property in Montreal: what APCIQ monthly statistics show on volume, competition and tim
 - [Who Buys in Montreal and Laval: What the Data Actually Shows](/en/articles/who-buys-montreal-laval-sellers/) : Who buys in Montreal and Laval: condo, house or plex buyers according to APCIQ, Statistics Canada and CMH
+- [Why Is My House Not Selling in Laval?](/en/articles/why-house-not-selling-laval/) : House not selling in Laval? In Q3 2026, a single-family home sold there spent 36 days on the market on av
 
 ## Pages outils et conversion
 
