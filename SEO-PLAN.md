@@ -1340,6 +1340,144 @@ Tu as 147 articles publies. Ca te fait presque 3 ans de contenu hebdomadaire.
 
 Format: 1 photo + 2 phrases + bouton "En savoir plus" vers l'article.
 
+### D bis. Faire connaitre les 10 questions des vendeurs (ajoute le 2026-10-21)
+
+Les 10 articles publies le 2026-10-20 repondent aux questions que les
+vendeurs tapent dans Google. Le texte seul ne suffit pas pour monter: Google
+classe plus haut une page que d'autres sites citent et que les gens ouvrent.
+Ces liens et ces clics doivent venir de vrais endroits ou se trouvent des
+vendeurs de Laval. Ca prend ton nom et ton visage, je ne peux pas le faire a
+ta place.
+
+**A ne jamais faire.** Acheter des liens (Fiverr, "500 backlinks"), echanger
+des liens avec des reseaux de sites, coller ton lien en commentaire sur des
+blogues. Google le detecte et fait baisser tout le site, pas seulement la
+page. Le groupe 12 de la section 0 bis explique la seule forme payante
+acceptable.
+
+**Dans chaque publication, video ou texte.** Ton nom, ton titre et ton agence,
+comme sur le site: `Georges Matar, courtier immobilier résidentiel, RE/MAX DU
+CARTIER INC.` Les regles de publicite de l'OACIQ s'appliquent aussi aux
+reseaux sociaux: pas de promesse de resultat, pas de "meilleur", pas
+d'"expert". Les textes ci-dessous les respectent deja.
+
+#### 1. Google Business: une question par semaine, 10 semaines
+
+Bouton "En savoir plus", lien vers l'article. Une photo de maison de Laval que
+tu as prise toi-meme vaut mieux qu'une photo de banque. Les chiffres viennent
+de Centris et de l'APCIQ, T3 2026, et sont deja dans les articles.
+
+1. **Combien vaut ma maison**
+   > Combien vaut une maison à Laval? Selon Centris, le prix médian d'une
+   > unifamiliale y était de 630 000 $ au 3e trimestre 2026. Voici 4 façons de
+   > situer la vôtre par rapport à ce chiffre, quartier par quartier.
+
+   `https://georgesmatar.ca/articles/combien-vaut-ma-maison-laval/`
+2. **Combien de temps pour vendre**
+   > Combien de temps faut-il pour vendre une maison à Laval? Au 3e trimestre
+   > 2026, une unifamiliale s'y vendait en 36 jours en moyenne, un condo en 57,
+   > selon Centris. Les chiffres par quartier et ce qui allonge une vente.
+
+   `https://georgesmatar.ca/articles/combien-de-temps-vendre-maison-laval/`
+3. **Commission**
+   > Combien prend un courtier immobilier à Laval? Aucun taux n'est fixé: la
+   > rétribution se négocie et s'écrit dans le contrat de courtage. Le calcul
+   > en dollars sur une maison au prix médian.
+
+   `https://georgesmatar.ca/articles/commission-courtier-immobilier-laval/`
+4. **Pourquoi ma maison ne se vend pas**
+   > Votre maison à Laval est en vente depuis plus longtemps que prévu? Une
+   > unifamiliale vendue y restait 36 jours en moyenne sur le marché au
+   > 3e trimestre 2026. Le diagnostic à faire, point par point.
+
+   `https://georgesmatar.ca/articles/pourquoi-maison-ne-se-vend-pas-laval/`
+5. **Vendre le plus cher possible**
+   > Comment vendre sa maison le plus cher possible à Laval? Le prix
+   > d'affichage, les conditions des offres et le montant net qui vous reste
+   > comptent tous les trois. Les étapes, une par une.
+
+   `https://georgesmatar.ca/articles/vendre-maison-plus-cher-laval/`
+6. **DuProprio**
+   > Vendre sa maison soi-même à Laval est permis. Ce que comprennent les
+   > forfaits DuProprio, ce qu'ils coûtent et ce qui reste à votre charge.
+
+   `https://georgesmatar.ca/articles/vendre-maison-soi-meme-duproprio-laval/`
+7. **Bon moment pour vendre**
+   > Est-ce le bon moment pour vendre à Laval? Aucun chiffre ne tranche seul.
+   > Au 3e trimestre 2026: 848 ventes (-15 %) et 1 545 inscriptions en vigueur
+   > (+10 %). Comment lire ces chiffres pour votre maison.
+
+   `https://georgesmatar.ca/articles/bon-moment-pour-vendre-maison-laval/`
+8. **Renover avant de vendre**
+   > Faut-il rénover avant de vendre sa maison à Laval? Le Code civil ne
+   > l'exige pas. Comment trier les travaux qui valent la peine avant la mise
+   > en vente, et le délai des permis.
+
+   `https://georgesmatar.ca/articles/renover-avant-de-vendre-maison-laval/`
+9. **Afficher plus cher pour negocier**
+   > Faut-il afficher sa maison plus cher pour garder une marge de
+   > négociation? À Laval, l'APCIQ compte 44 jours avant la première baisse de
+   > prix d'une maison en 2026. Ce que ça implique pour votre prix de départ.
+
+   `https://georgesmatar.ca/articles/afficher-maison-plus-cher-negociation-laval/`
+10. **Acheter avant de vendre**
+    > Peut-on acheter une maison avant de vendre la sienne à Laval? Oui:
+    > prêt-relais une fois la vente signée, sinon d'autres options à valider
+    > avec votre prêteur. Comment comparer.
+
+    `https://georgesmatar.ca/articles/acheter-avant-de-vendre-maison-laval/`
+
+#### 2. Une courte video par question
+
+YouTube Shorts, Reels Instagram et Facebook, 45 a 60 secondes, filmee au
+telephone. Les videos YouTube peuvent aussi sortir dans les resultats de
+Google, et chacune ramene vers l'article.
+
+- **0 a 5 s:** la question telle qu'on la tape, en texte a l'ecran.
+- **5 a 15 s:** la reponse courte, le chiffre de Laval.
+- **15 a 50 s:** deux ou trois points de l'article.
+- **Fin:** "L'article complet avec les chiffres de votre quartier: lien
+  dans la description."
+- **Description YouTube:** la question en titre, l'adresse de l'article en
+  premiere ligne, puis ton nom, ton titre et ton agence.
+
+L'ordre des videos suit celui des publications Google ci-dessus.
+
+#### 3. Groupes Facebook de Laval
+
+Ne publie pas de lien a froid: la plupart des groupes l'interdisent et ca
+passe pour de la sollicitation. Quand quelqu'un pose une de ces 10 questions
+dans un groupe de quartier ou d'achat-vente de Laval, reponds en 2 ou 3
+phrases dans le commentaire. Ajoute ensuite: "J'ai mis les chiffres par
+quartier ici:" et le lien. Lis les regles du groupe avant. Le groupe
+Communaute RE/MAX du Cartier (lien dans `marketing tools by Daniella et
+Yassine/`) est aussi a essayer, si ses regles le permettent.
+
+#### 4. Medias locaux: un texte d'expert
+
+C'est le lien qui pese le plus. Un journal accepte plus volontiers un texte
+utile qu'une publicite. Les deux sujets les plus faciles a proposer:
+- "Combien de temps pour vendre une maison a Laval, quartier par quartier"
+  a Courrier Laval et Media Laval;
+- la version anglaise a The Laval News et Laval Weekly.
+
+Les adresses de redaction sont dans la section 0 bis, groupe 1. Dis-moi
+quel media, j'ecris le texte et la lettre de proposition.
+
+#### 5. Ton reseau, par courriel
+
+Une question par mois a tes contacts: 3 lignes plus le lien. Un courriel
+ouvert ne donne pas de lien pour Google, mais les visites et le temps passe
+sur la page comptent, et c'est la que se trouvent tes premiers vendeurs.
+
+#### Mesurer
+
+Dans Search Console: Performances, filtre Page contenant `-laval`. Regarde
+les impressions 3 a 4 semaines apres l'indexation, puis les positions des
+requetes "combien vaut ma maison laval", "commission courtier laval" et
+"combien de temps vendre maison laval". Envoie-moi une capture et je
+retravaille les articles qui restent sous la 20e position.
+
 ### E. Coherence NAP (nom, adresse, telephone) - 20 min
 
 Google verifie que tes coordonnees sont identiques partout. La moindre
