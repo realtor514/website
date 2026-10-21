@@ -5,6 +5,8 @@ description: "Courtier immobilier résidentiel à Repentigny et dans Lanaudière
 city: "Repentigny"
 url: "/courtier-immobilier/repentigny/"
 translationKey: "secteur-repentigny"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 5
 cardText: "Lanaudière: Le Gardeur, Vieux-Repentigny et le secteur riverain."
 facts:
@@ -44,6 +46,8 @@ Contrairement à Terrebonne ou Blainville, dont la clientèle vient largement de
 Cela a une conséquence directe sur les prix: le marché repentignois suit de près la dynamique de l'est de l'île. Quand les prix montent à Rivière-des-Prairies, la pression se déplace vers Repentigny dans les mois qui suivent.
 
 Pour un vendeur, cela signifie que la bonne comparaison n'est pas seulement locale. Pour un acheteur, cela signifie qu'il faut regarder les deux marchés en parallèle avant de conclure que l'un est plus avantageux que l'autre.
+
+Les ventes, les prix médians et les délais de vente de Repentigny, du Gardeur et des autres territoires de la MRC de L'Assomption, selon Centris, sont comparés dans [le marché immobilier de Repentigny et L'Assomption au 3e trimestre 2026](/articles/marche-immobilier-repentigny-l-assomption/).
 
 ## Les secteurs
 

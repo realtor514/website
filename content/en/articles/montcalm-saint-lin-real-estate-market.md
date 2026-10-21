@@ -113,7 +113,7 @@ No decree appears in the environmental assessment registry on October 21, 2026, 
 **Is Saint-Lin-Laurentides part of Montreal's North Shore?**
 For APCIQ, yes: it is sector 34 of the Rive-Nord (North Shore). Saint-Roch-de-l'Achigan is in its sector 32, with L'Assomption and Lavaltrie; the other eight Montcalm municipalities have no page in that barometer.
 
-To go further, read [how the welcome tax is calculated in Quebec](/en/articles/welcome-tax-quebec-guide/) and [what an address decides for school](/en/articles/school-districts-property-values/).
+To go further, read [the Lanaudière real estate market, sector by sector](/en/articles/lanaudiere-real-estate-market-by-sector/), [how the welcome tax is calculated in Quebec](/en/articles/welcome-tax-quebec-guide/) and [what an address decides for school](/en/articles/school-districts-property-values/).
 
 ---
 

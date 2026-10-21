@@ -6,6 +6,8 @@ city: "Sainte-Thérèse"
 url: "/es/corredor-inmobiliario/sainte-therese/"
 translationKey: "secteur-sainte-therese"
 weight: 16
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Basses-Laurentides: núcleo de pueblo, estación exo y mercado de alquiler del cégep."
 facts:
   - value: "Estación"
@@ -43,6 +45,8 @@ Sainte-Thérèse es una de las pocas ciudades de las Basses-Laurentides donde el
 Por un lado, un mercado de unifamiliares y adosados impulsado por familias que buscan el equilibrio entre precio y acceso a servicios.
 
 Por otro, un mercado de inmuebles de renta sostenido por el Cégep Lionel-Groulx, la estación de la línea Saint-Jérôme y una base estable de inquilinos. Los precios de entrada son inferiores a los de Laval, lo que atrae a inversores de fuera de la región.
+
+Las cifras de este mercado, comparadas con las de Blainville y Boisbriand, están en [el mercado inmobiliario de Sainte-Thérèse en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-blainville-sainte-therese/): ventas, precios medianos y plazos de venta según Centris, para la unifamiliar, el condominio y el plex.
 
 ## Lo que hay que verificar aquí
 

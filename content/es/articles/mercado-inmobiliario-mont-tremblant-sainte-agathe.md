@@ -112,7 +112,7 @@ Las verificaciones generales están en [comprar una cabaña en Quebec](/es/artic
 
 **¿Es un mercado de compradores en Sainte-Agathe-des-Monts?** La APCIQ no publica un veredicto para la ciudad sola. En su aglomeración, en 12 meses, clasifica la unifamiliar como favorable a los vendedores de 240 000 $ a 720 000 $, y a los compradores a partir de 720 000 $.
 
-Para completar, lea [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/) y [el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/).
+Para completar, lea [el mercado inmobiliario de las Laurentides, ciudad por ciudad](/es/articles/mercado-inmobiliario-laurentides-por-sector/), [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/) y [el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/).
 
 ---
 

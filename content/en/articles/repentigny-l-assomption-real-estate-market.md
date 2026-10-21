@@ -111,7 +111,7 @@ Repentigny sits on the north shore of the St. Lawrence River; the L'Assomption R
 
 **How do you know if a house in L'Assomption is in a flood zone?** The City launched an interactive map in 2020, and the government has its own. Then have the urban planning department confirm in writing the map and the flood elevation that apply to the lot: since the river's new map is not in force, the answer may change.
 
-To go further, read [the welcome tax in Quebec](/en/articles/welcome-tax-quebec-guide/) and [contesting your municipal assessment](/en/articles/contest-property-assessment-quebec/). The [Repentigny page](/en/real-estate-broker/repentigny/) brings together the rest.
+To go further, read [the Lanaudière real estate market, sector by sector](/en/articles/lanaudiere-real-estate-market-by-sector/), [the welcome tax in Quebec](/en/articles/welcome-tax-quebec-guide/) and [contesting your municipal assessment](/en/articles/contest-property-assessment-quebec/). The [Repentigny page](/en/real-estate-broker/repentigny/) brings together the rest.
 
 ---
 

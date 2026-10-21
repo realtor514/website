@@ -7,7 +7,7 @@ url: "/es/corredor-inmobiliario/vieux-terrebonne/"
 translationKey: "quartier-vieux-terrebonne"
 weight: 108
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "Bas-de-la-Côte, rue Saint-Louis, el sector institucional y la Île des Moulins, en Terrebonne."
 facts:
   - value: "25 ha"
@@ -71,6 +71,8 @@ El marco provincial ha cambiado: el nuevo reglamento sobre las zonas inundables 
 La autopista 25 sirve el centro por la salida 22, hacia la ruta 344 y el boulevard des Seigneurs, y conecta con la autopista 640, que bordea la rivière des Mille Îles. El tren exo, línea 15 Mascouche, para en la gare Terrebonne, fuera del núcleo antiguo, con unas 700 plazas de estacionamiento disuasorio y sin servicio el fin de semana. La escuela primaria Saint-Louis, en el 539 de la rue St-Sacrement, depende del Centre de services scolaire des Affluents.
 
 La ciudad prevé además soterrar los cables de servicios públicos en el Viejo Terrebonne, bajo responsabilidad de Hydro-Québec, en varias fases, con reposición del pavimento y las aceras: conviene saber qué fase afecta a su calle.
+
+Centris no publica cifras propias para el Viejo Terrebonne: divide la ciudad en tres sectores, Terrebonne, Lachenaie y La Plaine. Las de esos tres sectores, y el derecho de preferencia de la Ciudad sobre ciertos lotes del Viejo Terrebonne, están en [el mercado inmobiliario de Terrebonne, Viejo Terrebonne incluido, en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-terrebonne/).
 
 ## Vender en el Viejo Terrebonne
 

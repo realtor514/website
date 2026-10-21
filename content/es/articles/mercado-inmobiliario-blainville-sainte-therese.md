@@ -142,7 +142,7 @@ Contra la lluvia, Rosemère ofrece desde julio de 2026 un acompañamiento gratui
 
 **¿Por qué la evaluación municipal se aleja tanto del precio?** Cada rol de evaluación refleja el mercado en una fecha pasada, propia de cada ciudad. El de Rosemère está fijado al 1 de julio de 2022 y vive su último año en 2026; el de Blainville, al 1 de julio de 2023; los de Sainte-Thérèse y de Boisbriand, vigentes desde 2026, al 1 de julio de 2024.
 
-Para completar, lea [cómo comparar dos sectores de la Rive-Nord](/es/articles/rive-nord-guide-laval/), [el cálculo del impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
+Para completar, lea [el mercado inmobiliario de las Laurentides, ciudad por ciudad](/es/articles/mercado-inmobiliario-laurentides-por-sector/), [cómo comparar dos sectores de la Rive-Nord](/es/articles/rive-nord-guide-laval/), [el cálculo del impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
 
 ---
 

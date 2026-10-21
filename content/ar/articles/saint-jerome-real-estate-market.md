@@ -219,7 +219,7 @@ d'urbanisme) أن هذا القطاع يمكنه استيعاب نحو 4 500 م�
 السعر والقيمة المقيّدة في السجل مضروبةً في المعامل المقارن، الذي يبلغ 1.12 في سان
 هيبوليت.
 
-وللاستزادة، اقرأ [كيف تشتري منزلاً ريفياً في كيبيك](/ar/articles/buying-country-home-quebec/)
+وللاستزادة، اقرأ [سوق العقارات في لورانتيد، قطاعاً بقطاع](/ar/articles/laurentians-real-estate-market-by-sector/)، و[كيف تشتري منزلاً ريفياً في كيبيك](/ar/articles/buying-country-home-quebec/)
 و[كيف تعترض على تقييمك البلدي](/ar/articles/contest-property-assessment-quebec/).
 
 ---

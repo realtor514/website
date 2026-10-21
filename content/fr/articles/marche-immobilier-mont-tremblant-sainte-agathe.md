@@ -112,7 +112,7 @@ Les vérifications générales sont dans [acheter un chalet au Québec](/article
 
 **Est-ce un marché d'acheteurs à Sainte-Agathe-des-Monts?** L'APCIQ ne publie pas de verdict pour la seule ville. Dans son agglomération, sur 12 mois, elle classe l'unifamiliale favorable aux vendeurs de 240 000 $ à 720 000 $, et aux acheteurs à 720 000 $ et plus.
 
-Pour compléter, lisez [contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/) et [la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/).
+Pour compléter, lisez [le marché immobilier des Laurentides, ville par ville](/articles/marche-immobilier-laurentides-secteurs/), [contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/) et [la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/).
 
 ---
 

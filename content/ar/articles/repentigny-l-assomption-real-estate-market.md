@@ -111,7 +111,7 @@ draft: false
 
 **كيف أعرف إن كان منزل في لاسومسيون يقع في منطقة معرّضة للفيضان؟** أطلقت المدينة خريطة تفاعلية في 2020، وللحكومة خريطتها أيضاً. ثم اطلب من قسم التعمير (urbanisme) أن يؤكد كتابياً الخريطة والمنسوب (cote) المطبَّقين على قطعة الأرض: فبما أن الخريطة الجديدة للنهر ليست سارية بعد، قد يتغيّر الجواب.
 
-وللاستزادة، اقرأ [ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/) و[الاعتراض على التقييم البلدي في كيبيك](/ar/articles/contest-property-assessment-quebec/). أما [صفحة روبنتيني](/ar/wasit-aqari/repentigny/) فتجمع الباقي.
+وللاستزادة، اقرأ [سوق العقارات في لانودير، قطاعاً بقطاع](/ar/articles/lanaudiere-real-estate-market-by-sector/)، و[ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/) و[الاعتراض على التقييم البلدي في كيبيك](/ar/articles/contest-property-assessment-quebec/). أما [صفحة روبنتيني](/ar/wasit-aqari/repentigny/) فتجمع الباقي.
 
 ---
 

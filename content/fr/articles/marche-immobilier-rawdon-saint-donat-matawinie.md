@@ -135,7 +135,7 @@ Seulement dans une zone admissible, après l'approbation du conseil, puis avec l
 **Mon évaluation municipale à Rawdon va-t-elle être revue?**
 Oui. Selon la MRC, le rôle 2027-2028-2029 révise la valeur des propriétés de Rawdon, et des rencontres avec les citoyens sont prévues au printemps 2027. Une demande de révision se dépose avant le 1er mai qui suit l'entrée en vigueur du rôle, avec 90 $ pour une évaluation de 500 000 $ ou moins.
 
-Pour compléter, lisez [comment se calcule la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [comment contester une évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
+Pour compléter, lisez [le marché immobilier de Lanaudière, ville par ville](/articles/marche-immobilier-lanaudiere-secteurs/), [comment se calcule la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [comment contester une évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
 
 ---
 

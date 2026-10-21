@@ -7,7 +7,7 @@ url: "/courtier-immobilier/vieux-terrebonne/"
 translationKey: "quartier-vieux-terrebonne"
 weight: 108
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "Bas-de-la-Côte, rue Saint-Louis, secteur institutionnel et île des Moulins, à Terrebonne."
 facts:
   - value: "25 ha"
@@ -71,6 +71,8 @@ Le cadre provincial a changé: le nouveau règlement sur les zones inondables es
 L'autoroute 25 dessert le centre-ville par la sortie 22, vers la route 344 et le boulevard des Seigneurs, et rejoint l'autoroute 640, qui longe la rivière des Mille Îles. Le train exo, ligne 15 Mascouche, s'arrête à la gare Terrebonne, hors du noyau ancien, avec environ 700 places de stationnement incitatif et aucun service la fin de semaine. L'école primaire Saint-Louis, au 539, rue St-Sacrement, relève du Centre de services scolaire des Affluents.
 
 La Ville prévoit aussi l'enfouissement des fils des utilités publiques dans le Vieux-Terrebonne, sous la responsabilité d'Hydro-Québec, en plusieurs phases, avec réfection du pavage et des trottoirs. Mieux vaut savoir quelle phase touche votre rue.
+
+Centris ne publie pas de statistiques propres au Vieux-Terrebonne. Les ventes, les prix médians et les délais de vente des trois secteurs de la ville sont comparés dans [le marché immobilier de Terrebonne et du Vieux-Terrebonne au 3e trimestre 2026](/articles/marche-immobilier-terrebonne-lachenaie-la-plaine/), qui traite aussi du droit de préemption de la Ville sur des lots du quartier.
 
 ## Vendre dans le Vieux-Terrebonne
 

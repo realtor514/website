@@ -6,6 +6,8 @@ city: "Repentigny"
 url: "/es/corredor-inmobiliario/repentigny/"
 translationKey: "secteur-repentigny"
 weight: 5
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Lanaudière: Le Gardeur, Viejo Repentigny y el sector ribereño."
 facts:
   - value: "Lanaudière"
@@ -44,6 +46,8 @@ A diferencia de Terrebonne o Blainville, cuya clientela viene mayoritariamente d
 Eso tiene una consecuencia directa sobre los precios: el mercado de Repentigny sigue de cerca la dinámica del este de la isla. Cuando los precios suben en Rivière-des-Prairies, la presión se desplaza hacia Repentigny en los meses siguientes.
 
 Para un vendedor, eso significa que la buena comparación no es únicamente local. Para un comprador, significa que hay que mirar ambos mercados en paralelo antes de concluir que uno es más ventajoso que el otro.
+
+Las cifras de Repentigny, de Le Gardeur y de L'Assomption están en [el mercado inmobiliario de Repentigny en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-repentigny-l-assomption/): ventas, precios medianos y plazos de venta según Centris, territorio por territorio.
 
 ## Los sectores
 

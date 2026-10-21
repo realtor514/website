@@ -248,7 +248,7 @@ et vit sa dernière année en 2026; celui de Blainville, au 1er juillet 2023;
 ceux de Sainte-Thérèse et de Boisbriand, en vigueur depuis 2026, au 1er juillet
 2024.
 
-Pour compléter, lisez [comment comparer deux secteurs de la Rive-Nord](/articles/rive-nord-guide-laval/), [le calcul de la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [comment contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
+Pour compléter, lisez [le marché immobilier des Laurentides, ville par ville](/articles/marche-immobilier-laurentides-secteurs/), [comment comparer deux secteurs de la Rive-Nord](/articles/rive-nord-guide-laval/), [le calcul de la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [comment contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
 
 ---
 

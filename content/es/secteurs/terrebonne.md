@@ -5,7 +5,8 @@ description: "Corredor inmobiliario residencial en Terrebonne: Viejo Terrebonne,
 city: "Terrebonne"
 url: "/es/corredor-inmobiliario/terrebonne/"
 translationKey: "secteur-terrebonne"
-lastmod: 2026-10-07
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 3
 cardText: "Viejo Terrebonne, Lachenaie, La Plaine y el desarrollo Urbanova."
 facts:
@@ -52,6 +53,8 @@ Centris no publica estadísticas para Terrebonne en su conjunto. Divide la ciuda
 Fuente: estadísticas inmobiliarias de Centris para [Terrebonne](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne), [Lachenaie](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie) y [La Plaine](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine), tercer trimestre de 2026, de julio a septiembre. Las variaciones se comparan con el mismo trimestre de 2025.
 
 Dos lecturas. Primero, la brecha: 175 000 $ de precio mediano entre Lachenaie y La Plaine, dentro de la misma ciudad. Un precio «en Terrebonne» no dice nada mientras no se precise el sector. Luego, el volumen: las ventas bajaron entre un 20 y un 25 % en los dos sectores más caros y subieron un 21 % en La Plaine, el único de los tres en alza. En condominio, el sector Terrebonne registró 42 ventas en el mismo trimestre, con un precio mediano de 442 000 $; Lachenaie y La Plaine no tuvieron suficientes para que Centris publicara una mediana.
+
+El detalle de los tres sectores, condominio y plex incluidos, está en [el mercado inmobiliario de Terrebonne en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-terrebonne/): ventas, precios medianos y plazos de venta según Centris.
 
 ## Cuatro sectores, cuatro mercados
 

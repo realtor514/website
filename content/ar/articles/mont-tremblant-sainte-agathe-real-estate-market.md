@@ -112,7 +112,7 @@ draft: false
 
 **هل السوق في سانت أغات دي مون سوق مشترين؟** لا تنشر APCIQ حكماً خاصاً بالمدينة وحدها. وفي تجمّعها، وعلى 12 شهراً، تصنّف المنزل لأسرة واحدة لصالح البائعين من 240 000 $ إلى 720 000 $، ولصالح المشترين عند 720 000 $ وما فوق.
 
-وللاستزادة، اقرأ [كيف تعترض على تقييمك البلدي](/ar/articles/contest-property-assessment-quebec/) و[ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/).
+وللاستزادة، اقرأ [سوق العقارات في لورانتيد، قطاعاً بقطاع](/ar/articles/laurentians-real-estate-market-by-sector/)، و[كيف تعترض على تقييمك البلدي](/ar/articles/contest-property-assessment-quebec/) و[ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/).
 
 ---
 

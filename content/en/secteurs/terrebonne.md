@@ -5,7 +5,8 @@ description: "Residential real estate broker in Terrebonne: Old Terrebonne, Lach
 city: "Terrebonne"
 url: "/en/real-estate-broker/terrebonne/"
 translationKey: "secteur-terrebonne"
-lastmod: 2026-10-07
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 3
 cardText: "Old Terrebonne, Lachenaie, La Plaine and the Urbanova development."
 facts:
@@ -52,6 +53,8 @@ Centris does not publish statistics for Terrebonne as a whole. It splits the cit
 Source: Centris real estate statistics for [Terrebonne](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne), [Lachenaie](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie) and [La Plaine](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine), third quarter of 2026, July to September. Changes compare with the same quarter of 2025.
 
 Two readings. First, the gap: $175,000 in median price between Lachenaie and La Plaine, in the same city. A price "in Terrebonne" means nothing until you name the sector. Second, volume: sales fell 20 to 25% in the two most expensive sectors and rose 21% in La Plaine, the only one of the three to grow. In condominiums, the Terrebonne sector had 42 sales in the same quarter at a median price of $442,000; Lachenaie and La Plaine had too few for Centris to publish a median.
+
+The full figures are in [the Terrebonne real estate market in the third quarter of 2026](/en/articles/terrebonne-real-estate-market/): sales, median prices and days on market in Terrebonne, Lachenaie and La Plaine, for single-family homes, condos and plexes, as published by Centris.
 
 ## Four sectors, four markets
 

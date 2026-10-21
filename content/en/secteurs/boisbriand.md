@@ -6,6 +6,8 @@ city: "Boisbriand"
 url: "/en/real-estate-broker/boisbriand/"
 translationKey: "secteur-boisbriand"
 weight: 15
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Lower Laurentians: the Faubourg, the station district and the established sectors."
 facts:
   - value: "Faubourg"
@@ -43,6 +45,8 @@ Boisbriand changed profile with the development of the Faubourg, built on the fo
 **Faubourg Boisbriand** is a planned district with architectural requirements, a commercial core and higher density than the rest of the city. It holds townhouses, condos and recent single-family homes. For a reseller, the competition often includes inventory still under construction.
 
 **The established sectors** (Chambéry, Boisbriand-Est, Grande-Côte) are single-family markets from the 1970s through the 2000s, with larger lots and a stable family clientele. Comparables here are reliable because properties resemble each other enough.
+
+The figures for Boisbriand are in [the Boisbriand real estate market in the third quarter of 2026](/en/articles/blainville-sainte-therese-real-estate-market/): sales, median prices and days on market, compared with Blainville, Sainte-Thérèse and the other towns of the MRC de Thérèse-De Blainville, as published by Centris.
 
 ## What to check here
 

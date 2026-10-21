@@ -6,6 +6,8 @@ city: "Sainte-Thérèse"
 url: "/en/real-estate-broker/sainte-therese/"
 translationKey: "secteur-sainte-therese"
 weight: 16
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Lower Laurentians: village core, exo station and the CEGEP rental market."
 facts:
   - value: "Station"
@@ -45,6 +47,8 @@ On one side, a single-family and semi-detached market driven by families looking
 On the other, an income property market supported by Cégep Lionel-Groulx, the Saint-Jérôme line station and a stable tenant base. Entry prices are lower than in Laval, which attracts investors who do not live in the area.
 
 These two markets do not respond to the same signals, and a seller's strategy differs depending on which side they are on.
+
+The figures for Sainte-Thérèse are in [the Sainte-Thérèse real estate market in the third quarter of 2026](/en/articles/blainville-sainte-therese-real-estate-market/): sales, median prices and days on market, compared with Blainville, Boisbriand and the other towns of the MRC de Thérèse-De Blainville, as published by Centris.
 
 ## What to check here
 

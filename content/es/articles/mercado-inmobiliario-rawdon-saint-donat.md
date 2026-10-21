@@ -135,7 +135,7 @@ Solo en una zona admisible, tras la aprobación del consejo, y luego con el regi
 **¿Se revisará mi evaluación municipal en Rawdon?**
 Sí. Según la MRC, el rol 2027-2028-2029 revisa el valor de las propiedades de Rawdon, y hay reuniones con los ciudadanos previstas para la primavera de 2027. Una demande de révision (la solicitud de revisión) se presenta antes del 1 de mayo siguiente a la entrada en vigor del rol, con 90 $ para una evaluación de 500 000 $ o menos.
 
-Para completar, lea [cómo se calcula el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
+Para completar, lea [el mercado inmobiliario de Lanaudière, ciudad por ciudad](/es/articles/mercado-inmobiliario-lanaudiere-por-sector/), [cómo se calcula el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
 
 ---
 

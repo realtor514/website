@@ -6,10 +6,12 @@ city: "Mirabel"
 url: "/es/corredor-inmobiliario/mirabel/"
 translationKey: "secteur-mirabel"
 weight: 20
-cardText: "Laurentides: diez antiguos pueblos, crecimiento rápido y grandes terrenos."
+date: 2026-08-05
+lastmod: 2026-10-21
+cardText: "Laurentides: 13 sectores surgidos de la fusión de 1971, crecimiento rápido y grandes terrenos."
 facts:
-  - value: "10"
-    label: "Antiguos pueblos fusionados"
+  - value: "14"
+    label: "Municipios y partes fusionados en 1971"
   - value: "30"
     label: "Zonas atendidas por igual"
   - value: "3"
@@ -25,7 +27,7 @@ sectors:
   - "Saint-Benoît"
 faq:
   - q: "¿Mirabel es una ciudad o varias?"
-    a: "Administrativamente una, pero en la práctica una decena de sectores procedentes de antiguos pueblos, separados por kilómetros de zona agrícola. Saint-Janvier y Saint-Canut no comparten mercado, compradores ni precios. Es el error más frecuente en las valoraciones automatizadas de Mirabel."
+    a: "Administrativamente una, pero en la práctica 13 sectores surgidos de la fusión de 1971, separados por kilómetros de zona agrícola. Centris publica una sola cifra para toda la ciudad, así que un precio se compara con las ventas recientes del mismo sector."
   - q: "¿Por qué Mirabel crece tan rápido?"
     a: "El espacio disponible y el precio del terreno. Es una de las ciudades donde quedan lotes por desarrollar a distancia razonable de Laval."
   - q: "¿Se puede comprar tierra agrícola en Mirabel?"
@@ -38,9 +40,9 @@ faq:
 
 Mirabel es el territorio más extenso y fragmentado de la región. Es también una de las ciudades donde una estimación automatizada tiene más probabilidades de ser falsa.
 
-## Una ciudad, diez mercados
+## Una ciudad, trece sectores
 
-Mirabel resulta de la fusión de una decena de antiguos pueblos separados por zona agrícola. No son barrios: son núcleos distintos, a veces a quince kilómetros unos de otros.
+Mirabel nació en 1971 de la fusión de 14 municipios y partes de municipios, y hoy cuenta con 13 sectores separados por zona agrícola. No son barrios: son núcleos distintos, a veces a quince kilómetros unos de otros.
 
 **Saint-Janvier** es el polo más desarrollado y el más cercano a la autopista 15.
 
@@ -51,6 +53,8 @@ Mirabel resulta de la fusión de una decena de antiguos pueblos separados por zo
 **Sainte-Scholastique, Saint-Augustin y Saint-Benoît** siguen siendo rurales, con propiedades sobre grandes terrenos.
 
 Comparar una venta de Saint-Janvier con una propiedad de Saint-Benoît no tiene sentido. Es exactamente lo que hacen las herramientas en línea.
+
+Las cifras de la ciudad en su conjunto están en [el mercado inmobiliario de Mirabel en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-mirabel/): ventas, precios medianos y plazos de venta según Centris, que publica Mirabel en un solo bloque.
 
 ## Lo que hay que verificar aquí
 

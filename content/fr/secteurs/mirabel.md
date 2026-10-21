@@ -5,11 +5,13 @@ description: "Courtier immobilier résidentiel à Mirabel: Saint-Janvier, Saint-
 city: "Mirabel"
 url: "/courtier-immobilier/mirabel/"
 translationKey: "secteur-mirabel"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 20
-cardText: "Laurentides: dix anciens villages, croissance rapide et grands terrains."
+cardText: "Laurentides: 13 secteurs issus de la fusion de 1971, croissance rapide et grands terrains."
 facts:
-  - value: "10"
-    label: "Anciens villages fusionnés"
+  - value: "14"
+    label: "Municipalités et parties fusionnées en 1971"
   - value: "30"
     label: "Secteurs desservis au même titre"
   - value: "3"
@@ -25,7 +27,7 @@ sectors:
   - "Saint-Benoît"
 faq:
   - q: "Mirabel est-elle une seule ville ou plusieurs?"
-    a: "Administrativement une seule, mais dans les faits une dizaine de secteurs issus d'anciens villages, séparés par des kilomètres de zone agricole. Saint-Janvier et Saint-Canut n'ont pas le même marché, ni les mêmes acheteurs, ni les mêmes prix. C'est l'erreur la plus fréquente dans les évaluations automatisées de Mirabel."
+    a: "Administrativement une seule, mais dans les faits 13 secteurs issus de la fusion de 1971, séparés par des kilomètres de zone agricole. Saint-Janvier et Saint-Canut n'ont pas le même marché, ni les mêmes acheteurs. Centris publie un seul chiffre pour toute la ville: un prix se compare donc aux ventes récentes du même secteur."
   - q: "Pourquoi Mirabel croît-elle si vite?"
     a: "L'espace disponible et le prix du terrain. C'est l'une des villes où il reste des lots à développer à distance raisonnable de Laval, ce qui attire à la fois les promoteurs et les acheteurs qui veulent du neuf sans payer le prix de Blainville."
   - q: "Peut-on acheter une terre agricole à Mirabel?"
@@ -40,7 +42,7 @@ Mirabel est le territoire le plus vaste et le plus fragmenté de la région. C'e
 
 ## Une ville, dix marchés
 
-Mirabel résulte de la fusion d'une dizaine d'anciens villages séparés par de la zone agricole. Ce ne sont pas des quartiers: ce sont des noyaux distincts, parfois à quinze kilomètres les uns des autres.
+Selon la Ville, Mirabel est née en 1971 de la fusion de 14 municipalités et parties de municipalités; elle compte aujourd'hui 13 secteurs, séparés par de la zone agricole. Ce ne sont pas des quartiers: ce sont des noyaux distincts, parfois à quinze kilomètres les uns des autres.
 
 **Saint-Janvier** est le pôle le plus développé et le plus proche de l'autoroute 15. C'est là que se concentre l'essentiel de la construction récente et des services.
 
@@ -51,6 +53,8 @@ Mirabel résulte de la fusion d'une dizaine d'anciens villages séparés par de 
 **Sainte-Scholastique, Saint-Augustin et Saint-Benoît** restent ruraux, avec des propriétés sur grands terrains et parfois des vocations agricoles.
 
 Comparer une vente de Saint-Janvier à une propriété de Saint-Benoît n'a aucun sens. C'est pourtant exactement ce que font les outils en ligne.
+
+Les ventes, les prix médians et les délais de vente de Mirabel, que Centris publie pour la ville entière, sont détaillés dans [le marché immobilier de Mirabel au 3e trimestre 2026](/articles/marche-immobilier-mirabel/).
 
 ## Ce qu'il faut vérifier ici
 

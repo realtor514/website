@@ -116,17 +116,17 @@ Ninguno de estos municipios tiene página en los barómetros de la APCIQ, de mod
 
 La serie dedica un análisis a seis sectores, calcados de las MRC. Las ventas suman las páginas de Centris sobre cuatro trimestres; no existe una mediana por sector, y fabricarla sería falso.
 
-**Thérèse-De Blainville: Blainville, Sainte-Thérèse, Boisbriand, Rosemère, Lorraine, Bois-des-Filion y Sainte-Anne-des-Plaines.** 2 038 ventas, y las dos medianas unifamiliares más altas de la región, en Blainville y en Rosemère.
+**[Thérèse-De Blainville](/es/articles/mercado-inmobiliario-blainville-sainte-therese/): Blainville, Sainte-Thérèse, Boisbriand, Rosemère, Lorraine, Bois-des-Filion y Sainte-Anne-des-Plaines.** 2 038 ventas, y las dos medianas unifamiliares más altas de la región, en Blainville y en Rosemère.
 
-**Deux-Montagnes: Saint-Eustache, Deux-Montagnes, Sainte-Marthe-sur-le-Lac, Pointe-Calumet, Saint-Joseph-du-Lac, Oka y Saint-Placide.** 1 362 ventas. Saint-Eustache tiene el plazo de venta unifamiliar más corto de la tabla.
+**[Deux-Montagnes](/es/articles/mercado-inmobiliario-saint-eustache-deux-montagnes/): Saint-Eustache, Deux-Montagnes, Sainte-Marthe-sur-le-Lac, Pointe-Calumet, Saint-Joseph-du-Lac, Oka y Saint-Placide.** 1 362 ventas. Saint-Eustache tiene el plazo de venta unifamiliar más corto de la tabla.
 
-**Mirabel.** 918 ventas, segunda ciudad de la región, publicada en un solo bloque por Centris.
+**[Mirabel](/es/articles/mercado-inmobiliario-mirabel/).** 918 ventas, segunda ciudad de la región, publicada en un solo bloque por Centris.
 
-**La Rivière-du-Nord: Saint-Jérôme, Saint-Colomban, Prévost, Sainte-Sophie y Saint-Hippolyte.** 2 152 ventas, el sector más activo, de ellas 1 146 en Saint-Jérôme, primera ciudad de la región.
+**[La Rivière-du-Nord](/es/articles/mercado-inmobiliario-saint-jerome/): Saint-Jérôme, Saint-Colomban, Prévost, Sainte-Sophie y Saint-Hippolyte.** 2 152 ventas, el sector más activo, de ellas 1 146 en Saint-Jérôme, primera ciudad de la región.
 
-**Les Pays-d'en-Haut: Saint-Sauveur, Sainte-Adèle, Morin-Heights, Piedmont, Sainte-Anne-des-Lacs, Saint-Adolphe-d'Howard, Sainte-Marguerite-du-Lac-Masson, Wentworth-Nord, Estérel y Lac-des-Seize-Îles.** 1 349 ventas. Dos ciudades de la misma MRC, dos ritmos: 70 días en Saint-Sauveur, 29 en Sainte-Adèle.
+**[Les Pays-d'en-Haut](/es/articles/mercado-inmobiliario-saint-sauveur-pays-d-en-haut/): Saint-Sauveur, Sainte-Adèle, Morin-Heights, Piedmont, Sainte-Anne-des-Lacs, Saint-Adolphe-d'Howard, Sainte-Marguerite-du-Lac-Masson, Wentworth-Nord, Estérel y Lac-des-Seize-Îles.** 1 349 ventas. Dos ciudades de la misma MRC, dos ritmos: 70 días en Saint-Sauveur, 29 en Sainte-Adèle.
 
-**La MRC des Laurentides: Mont-Tremblant, Sainte-Agathe-des-Monts, Val-David, Val-Morin, Mont-Blanc, Labelle y otros 14 municipios.** 1 269 ventas. En Sainte-Agathe-des-Monts, la mediana retrocede en el trimestre (459 000 $, -16 %) pero sube sobre cuatro trimestres (501 000 $, +8 %).
+**[La MRC des Laurentides](/es/articles/mercado-inmobiliario-mont-tremblant-sainte-agathe/): Mont-Tremblant, Sainte-Agathe-des-Monts, Val-David, Val-Morin, Mont-Blanc, Labelle y otros 14 municipios.** 1 269 ventas. En Sainte-Agathe-des-Monts, la mediana retrocede en el trimestre (459 000 $, -16 %) pero sube sobre cuatro trimestres (501 000 $, +8 %).
 
 ## Preguntas frecuentes
 

@@ -233,7 +233,7 @@ de 11 %. La valeur d'une maison donnée s'établit avec des ventes comparables.
 que la base est le plus élevé du prix et de la valeur au rôle multipliée par le
 facteur comparatif, qui atteint 1,12 à Saint-Hippolyte.
 
-Pour compléter, lisez [comment acheter une maison de campagne au Québec](/articles/acheter-maison-campagne-quebec/) et [comment contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
+Pour compléter, lisez [le marché immobilier des Laurentides, ville par ville](/articles/marche-immobilier-laurentides-secteurs/), [comment acheter une maison de campagne au Québec](/articles/acheter-maison-campagne-quebec/) et [comment contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
 
 ---
 

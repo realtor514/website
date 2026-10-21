@@ -98,7 +98,7 @@ En la región metropolitana, la APCIQ contó 9 265 ventas en el trimestre, un 12
 
 **¿Los mapas ya tienen en cuenta el dique de Sainte-Marthe-sur-le-Lac?** Todavía no. Su reconocimiento pasa por un estudio que debe presentarse a más tardar el 1 de marzo de 2028, y los nuevos mapas de la CMM no están en vigor. Incluso reconocido, dejaría una «zone protégée à risque résiduel».
 
-Para completar, lea [las verificaciones antes de comprar en zona inundable](/es/articles/comprar-zona-inundable-quebec/) y [cómo comparar dos sectores de la Rive-Nord](/es/articles/rive-nord-guide-laval/), y vea mi [página Saint-Eustache](/es/corredor-inmobiliario/saint-eustache/).
+Para completar, lea [el mercado inmobiliario de las Laurentides, ciudad por ciudad](/es/articles/mercado-inmobiliario-laurentides-por-sector/), [las verificaciones antes de comprar en zona inundable](/es/articles/comprar-zona-inundable-quebec/) y [cómo comparar dos sectores de la Rive-Nord](/es/articles/rive-nord-guide-laval/), y vea mi [página Saint-Eustache](/es/corredor-inmobiliario/saint-eustache/).
 
 ---
 

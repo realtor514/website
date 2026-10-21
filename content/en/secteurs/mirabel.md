@@ -6,10 +6,12 @@ city: "Mirabel"
 url: "/en/real-estate-broker/mirabel/"
 translationKey: "secteur-mirabel"
 weight: 20
-cardText: "Laurentians: ten former villages, fast growth and large lots."
+date: 2026-08-05
+lastmod: 2026-10-21
+cardText: "Laurentians: 13 sectors from the 1971 merger, fast growth and large lots."
 facts:
-  - value: "10"
-    label: "Former villages merged"
+  - value: "14"
+    label: "Municipalities and parts merged in 1971"
   - value: "30"
     label: "Areas served equally"
   - value: "3"
@@ -25,7 +27,7 @@ sectors:
   - "Saint-Benoît"
 faq:
   - q: "Is Mirabel one city or several?"
-    a: "Administratively one, but in practice about ten sectors from former villages, separated by kilometres of agricultural land. Saint-Janvier and Saint-Canut do not share the same market, the same buyers or the same prices. This is the most common error in automated Mirabel valuations."
+    a: "Administratively one, but in practice 13 sectors, separated by kilometres of agricultural land. Centris publishes a single figure for the whole city, so a price is compared with recent sales in the same sector."
   - q: "Why is Mirabel growing so fast?"
     a: "Available space and land prices. It is one of the cities where developable lots remain within reasonable distance of Laval, which attracts both developers and buyers who want new construction without paying Blainville prices."
   - q: "Can you buy farmland in Mirabel?"
@@ -40,7 +42,7 @@ Mirabel is the largest and most fragmented territory in the region. It is also o
 
 ## One city, ten markets
 
-Mirabel is the result of merging about ten former villages separated by agricultural land. These are not neighbourhoods: they are distinct cores, sometimes fifteen kilometres apart.
+Mirabel was created in 1971 from the merger of 14 municipalities and parts of municipalities, and today has 13 sectors, separated by agricultural land. These are not neighbourhoods: they are distinct cores, sometimes fifteen kilometres apart.
 
 **Saint-Janvier** is the most developed hub and the closest to Highway 15. Most recent construction and services are concentrated there.
 
@@ -51,6 +53,8 @@ Mirabel is the result of merging about ten former villages separated by agricult
 **Sainte-Scholastique, Saint-Augustin and Saint-Benoît** remain rural, with properties on large lots and sometimes agricultural uses.
 
 Comparing a Saint-Janvier sale to a Saint-Benoît property makes no sense. That is exactly what online tools do.
+
+The figures behind this market are in [the Mirabel real estate market in the third quarter of 2026](/en/articles/mirabel-real-estate-market/): sales, median prices and days on market for the city as a whole, as published by Centris.
 
 ## What to check here
 

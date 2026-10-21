@@ -5,7 +5,8 @@ description: "Real estate broker in Blainville and the Lower Laurentians: Fontai
 city: "Blainville"
 url: "/en/real-estate-broker/blainville/"
 translationKey: "secteur-blainville"
-lastmod: 2026-10-07
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 4
 cardText: "Lower Laurentians: Fontainebleau, Chante-Bois, Notre-Dame, Domaine Vert area."
 facts:
@@ -48,6 +49,8 @@ Blainville holds a particular position in the Lower Laurentians: it is often the
 Source: [Centris real estate statistics for Blainville](https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/blainville), third quarter of 2026, July to September. Changes compare with the same quarter of 2025.
 
 The median price rose 11% in a year, with more sales: demand has not weakened. Over the last four quarters, Centris counts 646 single-family sales, the same as the year before. In condominiums, 28 sales in the third quarter, too few for a published median. And a median describes the city, not your house: Fontainebleau does not compare with Chante-Bois.
+
+The figures for Blainville and its neighbours are in [the Blainville real estate market in the third quarter of 2026](/en/articles/blainville-sainte-therese-real-estate-market/): sales, median prices and days on market for Blainville, Sainte-Thérèse, Boisbriand and the other towns of the MRC de Thérèse-De Blainville, as published by Centris.
 
 ## What supports prices here
 

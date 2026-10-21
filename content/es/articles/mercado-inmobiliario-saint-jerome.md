@@ -124,7 +124,7 @@ Fuente: [tabla comparativa 2026 de la evaluación inmobiliaria](https://d12oqns8
 
 **¿Por qué mis derechos de mutación superan el cálculo hecho sobre mi precio?** Porque la base es el más alto entre el precio y el valor en el rol multiplicado por el factor comparativo, que llega a 1,12 en Saint-Hippolyte.
 
-Para completar, lea [comprar una casa de campo en Quebec](/es/articles/comprar-casa-de-campo-quebec/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
+Para completar, lea [el mercado inmobiliario de las Laurentides, ciudad por ciudad](/es/articles/mercado-inmobiliario-laurentides-por-sector/), [comprar una casa de campo en Quebec](/es/articles/comprar-casa-de-campo-quebec/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
 
 ---
 

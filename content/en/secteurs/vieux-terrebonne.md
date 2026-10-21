@@ -7,7 +7,7 @@ url: "/en/real-estate-broker/vieux-terrebonne/"
 translationKey: "quartier-vieux-terrebonne"
 weight: 108
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-21
 cardText: "Bas-de-la-Côte, rue Saint-Louis, the institutional sector and Île des Moulins, in Terrebonne."
 facts:
   - value: "25 ha"
@@ -71,6 +71,8 @@ The provincial framework has changed: the new regulation on flood zones has been
 Autoroute 25 serves the town centre at exit 22, toward route 344 and boulevard des Seigneurs, and meets autoroute 640, which runs along the rivière des Mille Îles. The exo train, line 15 Mascouche, stops at gare Terrebonne, outside the old core, with about 700 park and ride spaces and no weekend service. École primaire Saint-Louis, at 539 rue St-Sacrement, falls under the Centre de services scolaire des Affluents.
 
 The city also plans to bury the utility wires in Old Terrebonne, under Hydro-Québec's responsibility, in several phases, with paving and sidewalks redone: know which phase touches your street.
+
+Centris publishes no figure for Old Terrebonne alone. The figures for the city's three sectors, Terrebonne, Lachenaie and La Plaine, are in [the Terrebonne real estate market in the third quarter of 2026](/en/articles/terrebonne-real-estate-market/): sales, median prices and days on market, as published by Centris.
 
 ## Selling in Old Terrebonne
 

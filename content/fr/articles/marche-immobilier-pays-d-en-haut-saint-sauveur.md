@@ -102,7 +102,7 @@ Si ce n'est pas votre résidence principale, seulement dans une zone où l'usage
 **La Ville peut-elle confirmer que la fosse septique est conforme?**
 À Saint-Sauveur, non: la demande d'information confirme le type de système, pas son fonctionnement. Demandez au vendeur le permis et les factures de vidange, et faites évaluer l'installation par un professionnel avant de lever vos conditions.
 
-Pour compléter, lisez [le calcul de la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [les vérifications avant d'acheter en zone inondable](/articles/acheter-zone-inondable-quebec/).
+Pour compléter, lisez [le marché immobilier des Laurentides, ville par ville](/articles/marche-immobilier-laurentides-secteurs/), [le calcul de la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [les vérifications avant d'acheter en zone inondable](/articles/acheter-zone-inondable-quebec/).
 
 ---
 

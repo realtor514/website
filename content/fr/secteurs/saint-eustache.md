@@ -5,6 +5,8 @@ description: "Courtier immobilier résidentiel à Saint-Eustache: Vieux-Saint-Eu
 city: "Saint-Eustache"
 url: "/courtier-immobilier/saint-eustache/"
 translationKey: "secteur-saint-eustache"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 19
 cardText: "Basses-Laurentides: noyau patrimonial, rivière des Mille Îles et secteurs familiaux."
 facts:
@@ -45,6 +47,8 @@ Saint-Eustache combine un noyau patrimonial parmi les plus significatifs des Lau
 **Le front riverain**, le long de la rivière des Mille Îles, constitue un marché distinct: moins d'acheteurs, demande stable, et des contraintes réglementaires à vérifier au cas par cas.
 
 **Les secteurs familiaux** (Grand-Chêne, Arthur-Sauvé, Rivière-Nord) portent le volume, avec des maisons construites majoritairement entre 1980 et 2010.
+
+Les ventes, les prix médians et les délais de vente de Saint-Eustache et des six autres municipalités de la MRC de Deux-Montagnes, selon Centris, sont comparés dans [le marché immobilier de Saint-Eustache et Deux-Montagnes au 3e trimestre 2026](/articles/marche-immobilier-saint-eustache-deux-montagnes/).
 
 ## Ce qu'il faut vérifier ici en priorité
 

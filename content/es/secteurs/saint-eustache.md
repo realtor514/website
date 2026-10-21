@@ -6,6 +6,8 @@ city: "Saint-Eustache"
 url: "/es/corredor-inmobiliario/saint-eustache/"
 translationKey: "secteur-saint-eustache"
 weight: 19
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Basses-Laurentides: núcleo patrimonial, rivière des Mille Îles y sectores familiares."
 facts:
   - value: "1837"
@@ -45,6 +47,8 @@ Saint-Eustache combina uno de los núcleos patrimoniales más significativos de 
 **El frente fluvial**, a lo largo de la rivière des Mille Îles, constituye un mercado distinto: menos compradores, demanda estable y restricciones normativas que verificar caso por caso.
 
 **Los sectores familiares** (Grand-Chêne, Arthur-Sauvé, Rivière-Nord) aportan el volumen, con casas construidas mayoritariamente entre 1980 y 2010.
+
+Las cifras de la ciudad, junto a las de Deux-Montagnes y Sainte-Marthe-sur-le-Lac, están en [el mercado inmobiliario de Saint-Eustache en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-saint-eustache-deux-montagnes/): ventas, precios medianos y plazos de venta según Centris.
 
 ## Lo que hay que priorizar aquí
 

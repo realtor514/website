@@ -102,7 +102,7 @@ Si no es su residencia principal, solo en una zona donde ese uso esté autorizad
 **¿Puede la Ciudad confirmar que la fosa séptica es conforme?**
 En Saint-Sauveur, no: la solicitud de información confirma el tipo de sistema, no su funcionamiento. Pida al vendedor el permiso y las facturas de vaciado, y haga evaluar la instalación por un profesional antes de levantar sus condiciones.
 
-Para completar, lea [el cálculo del impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [las verificaciones antes de comprar en zona inundable](/es/articles/comprar-zona-inundable-quebec/).
+Para completar, lea [el mercado inmobiliario de las Laurentides, ciudad por ciudad](/es/articles/mercado-inmobiliario-laurentides-por-sector/), [el cálculo del impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [las verificaciones antes de comprar en zona inundable](/es/articles/comprar-zona-inundable-quebec/).
 
 ---
 

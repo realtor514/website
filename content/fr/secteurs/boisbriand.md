@@ -5,6 +5,8 @@ description: "Courtier immobilier résidentiel à Boisbriand: Faubourg Boisbrian
 city: "Boisbriand"
 url: "/courtier-immobilier/boisbriand/"
 translationKey: "secteur-boisbriand"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 15
 cardText: "Basses-Laurentides: le Faubourg, le quartier de la Gare et les secteurs établis."
 facts:
@@ -43,6 +45,8 @@ Boisbriand a changé de profil avec le développement du Faubourg, construit sur
 **Le Faubourg Boisbriand** est un quartier planifié avec des exigences architecturales, un noyau commercial et une densité supérieure au reste de la ville. On y trouve des maisons de ville, des condos et des unifamiliales récentes. Pour un revendeur, la concurrence inclut souvent l'inventaire encore en construction.
 
 **Les secteurs établis** (Chambéry, Boisbriand-Est, Grande-Côte) sont des marchés d'unifamiliales des années 1970 à 2000, avec des terrains plus grands et une clientèle familiale stable. Les comparables y sont fiables parce que les propriétés se ressemblent suffisamment.
+
+Les ventes, les prix médians et les délais de vente de Boisbriand et des six autres villes de la MRC de Thérèse-De Blainville, selon Centris, sont comparés dans [le marché immobilier de Boisbriand, Blainville et Sainte-Thérèse au 3e trimestre 2026](/articles/marche-immobilier-blainville-sainte-therese-boisbriand/).
 
 ## Ce qu'il faut vérifier ici
 

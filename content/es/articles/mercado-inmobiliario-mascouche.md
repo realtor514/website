@@ -113,7 +113,7 @@ Fuente: estadísticas inmobiliarias de Centris para Lanaudière, páginas [Masco
 
 **¿Está abierta la nueva salida de la A-640?** No al 21 de octubre de 2026: las obras están en curso, y la Ciudad prevé la puesta en servicio para el verano de 2027.
 
-Para completar, lea [el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [comprar en zona inundable en Quebec](/es/articles/comprar-zona-inundable-quebec/). La [página Mascouche](/es/corredor-inmobiliario/mascouche/) y la [página Terrebonne](/es/corredor-inmobiliario/terrebonne/) reúnen el resto.
+Para completar, lea [el mercado inmobiliario de Lanaudière, ciudad por ciudad](/es/articles/mercado-inmobiliario-lanaudiere-por-sector/), [el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [comprar en zona inundable en Quebec](/es/articles/comprar-zona-inundable-quebec/). La [página Mascouche](/es/corredor-inmobiliario/mascouche/) y la [página Terrebonne](/es/corredor-inmobiliario/terrebonne/) reúnen el resto.
 
 ---
 

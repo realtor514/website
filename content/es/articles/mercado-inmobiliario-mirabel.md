@@ -106,7 +106,7 @@ Para los 14 plex del trimestre, Centris no publica ni variación, ni precio medi
 
 **¿La futura línea de Hydro-Québec pasará cerca de mi casa?** El trazado propuesto, que parte de Saint-Canut y sigue el eje de la ruta 158, no es definitivo. El mapa de las variantes está en la página del proyecto de Hydro-Québec.
 
-Para completar, lea [el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [comparar sectores de la Rive-Nord](/es/articles/rive-nord-guide-laval/). La [página Mirabel](/es/corredor-inmobiliario/mirabel/) reúne el resto.
+Para completar, lea [el mercado inmobiliario de las Laurentides, ciudad por ciudad](/es/articles/mercado-inmobiliario-laurentides-por-sector/), [el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [comparar sectores de la Rive-Nord](/es/articles/rive-nord-guide-laval/). La [página Mirabel](/es/corredor-inmobiliario/mirabel/) reúne el resto.
 
 ---
 

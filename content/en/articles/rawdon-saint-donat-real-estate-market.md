@@ -135,7 +135,7 @@ Only in an eligible zone, after council approval, then with provincial registrat
 **Will my municipal assessment in Rawdon be revised?**
 Yes. According to the MRC, the 2027-2028-2029 roll revises the value of properties in Rawdon, and meetings with residents are planned for spring 2027. A request for review must be filed before the May 1 following the roll's coming into force, with $90 for an assessment of $500,000 or less.
 
-To go further, read [how the welcome tax is calculated in Quebec](/en/articles/welcome-tax-quebec-guide/) and [how to contest a municipal assessment](/en/articles/contest-property-assessment-quebec/).
+To go further, read [the Lanaudière real estate market, sector by sector](/en/articles/lanaudiere-real-estate-market-by-sector/), [how the welcome tax is calculated in Quebec](/en/articles/welcome-tax-quebec-guide/) and [how to contest a municipal assessment](/en/articles/contest-property-assessment-quebec/).
 
 ---
 

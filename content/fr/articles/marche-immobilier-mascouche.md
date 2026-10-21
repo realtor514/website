@@ -113,7 +113,7 @@ Source: statistiques immobilières de Centris pour Lanaudière, pages [Mascouche
 
 **La nouvelle sortie de l'A-640 est-elle ouverte?** Pas au 21 octobre 2026: les travaux sont en cours, et la Ville prévoit la mise en service à l'été 2027.
 
-Pour compléter, lisez [la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [acheter en zone inondable au Québec](/articles/acheter-zone-inondable-quebec/). La [page Mascouche](/courtier-immobilier/mascouche/) et la [page Terrebonne](/courtier-immobilier/terrebonne/) rassemblent le reste.
+Pour compléter, lisez [le marché immobilier de Lanaudière, ville par ville](/articles/marche-immobilier-lanaudiere-secteurs/), [la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [acheter en zone inondable au Québec](/articles/acheter-zone-inondable-quebec/). La [page Mascouche](/courtier-immobilier/mascouche/) et la [page Terrebonne](/courtier-immobilier/terrebonne/) rassemblent le reste.
 
 ---
 

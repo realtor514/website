@@ -230,7 +230,7 @@ d'évaluation) السوق في تاريخ سابق خاص بكل مدينة. ف�
 2022 ويعيش سنته الأخيرة في 2026؛ وسجل بلينفيل على 1 يوليو 2023؛ وسجلا سانت تيريز
 وبوابرياند، الساريان منذ 2026، على 1 يوليو 2024.
 
-وللاستزادة، اقرأ [كيف تقارن بين قطاعين في الضفة الشمالية](/ar/articles/rive-nord-guide-laval/)،
+وللاستزادة، اقرأ [سوق العقارات في لورانتيد، قطاعاً بقطاع](/ar/articles/laurentians-real-estate-market-by-sector/)، و[كيف تقارن بين قطاعين في الضفة الشمالية](/ar/articles/rive-nord-guide-laval/)،
 و[حساب ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/)،
 و[كيف تعترض على تقييمك البلدي](/ar/articles/contest-property-assessment-quebec/).
 

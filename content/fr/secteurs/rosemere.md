@@ -5,7 +5,8 @@ description: "Courtier immobilier résidentiel à Rosemère: Vieux-Rosemère, se
 city: "Rosemère"
 url: "/courtier-immobilier/rosemere/"
 translationKey: "secteur-rosemere"
-lastmod: 2026-10-07
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 17
 cardText: "Basses-Laurentides: grands terrains boisés, golf et bordure de la rivière."
 facts:
@@ -49,6 +50,8 @@ Rosemère est un marché étroit, cher et peu liquide. Ce sont trois caractéris
 Source: [statistiques immobilières de Centris pour Rosemère](https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/rosemere), 3e trimestre 2026 et cumul des quatre derniers trimestres. Centris ne publie pas de statistique quand le nombre de transactions est insuffisant pour qu'elle soit fiable, ce qui est le cas de Rosemère sur un seul trimestre.
 
 C'est la mesure de ce marché: 141 ventes de maisons en un an, 17 % de moins que l'année précédente. Avec si peu de transactions, une seule vente déplace la médiane. L'évaluation sérieuse se fait donc vente par vente et rue par rue, pas sur une moyenne.
+
+Les ventes, les prix médians et les délais de vente de Rosemère et des six autres villes de la MRC de Thérèse-De Blainville, selon Centris, sont comparés dans [le marché immobilier de Rosemère et des villes voisines au 3e trimestre 2026](/articles/marche-immobilier-blainville-sainte-therese-boisbriand/).
 
 ## Une offre structurellement limitée
 

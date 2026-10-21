@@ -106,7 +106,7 @@ No, because the rate went down. According to the City, 57% of single-family owne
 **Does the market favour sellers across the whole sector?**
 APCIQ only gives a verdict where it publishes. In the Joliette agglomeration, every range is "Vendeur" (seller's). In the Est de la Rive-Nord, which includes Lavaltrie, the ranges below $790,000 are too, but the top range is "Équilibré" (balanced), at 8.5 months. Lanoraie, Berthierville and northern D'Autray have no page in the barometer.
 
-To go further, read [how the welcome tax is calculated in Quebec](/en/articles/welcome-tax-quebec-guide/) and [how to contest your municipal assessment](/en/articles/contest-property-assessment-quebec/).
+To go further, read [the Lanaudière real estate market, sector by sector](/en/articles/lanaudiere-real-estate-market-by-sector/), [how the welcome tax is calculated in Quebec](/en/articles/welcome-tax-quebec-guide/) and [how to contest your municipal assessment](/en/articles/contest-property-assessment-quebec/).
 
 ---
 

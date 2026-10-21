@@ -6,6 +6,8 @@ city: "Saint-Eustache"
 url: "/en/real-estate-broker/saint-eustache/"
 translationKey: "secteur-saint-eustache"
 weight: 19
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Lower Laurentians: heritage core, Rivière des Mille Îles and family sectors."
 facts:
   - value: "1837"
@@ -45,6 +47,8 @@ Saint-Eustache combines one of the most significant heritage cores in the Lauren
 **The waterfront**, along the Rivière des Mille Îles, is a distinct market: fewer buyers, steady demand, and regulatory constraints to verify case by case.
 
 **The family sectors** (Grand-Chêne, Arthur-Sauvé, Rivière-Nord) carry the volume, with homes built mostly between 1980 and 2010.
+
+The figures behind this market are in [the Saint-Eustache real estate market in the third quarter of 2026](/en/articles/saint-eustache-deux-montagnes-real-estate-market/): sales, median prices and days on market for Saint-Eustache, Deux-Montagnes and Sainte-Marthe-sur-le-Lac, as published by Centris.
 
 ## What to prioritize here
 

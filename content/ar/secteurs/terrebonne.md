@@ -5,7 +5,8 @@ description: "وسيط عقاري سكني في تيربون: تيربون ال�
 city: "تيربون"
 url: "/ar/wasit-aqari/terrebonne/"
 translationKey: "secteur-terrebonne"
-lastmod: 2026-10-07
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 3
 cardText: "تيربون القديمة، لاشيني، لا بلين ومشروع أوربانوفا."
 facts:
@@ -52,6 +53,8 @@ faq:
 المصدر: إحصاءات Centris العقارية لـ[تيربون](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne) و[لاشيني](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie) و[لا بلين](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine)، الربع الثالث من 2026، أي من يوليو إلى سبتمبر. التغيّرات مقارنةً بالربع نفسه من 2025.
 
 قراءتان. أولاً الفارق: 175 000 $ في السعر الوسيط بين لاشيني ولا بلين، داخل المدينة نفسها. فالسعر «في تيربون» لا يعني شيئاً ما لم يُحدَّد القطاع. ثانياً الحجم: تراجعت المبيعات بين 20 و25% في القطاعين الأغلى، وارتفعت 21% في لا بلين، القطاع الوحيد من الثلاثة الذي سجّل زيادة. في الملكية المشتركة، سجّل قطاع تيربون 42 عملية بيع في الربع نفسه بسعر وسيط قدره 442 000 $، بينما لم تبلغ لاشيني ولا بلين عدداً كافياً لتنشر Centris سعراً وسيطاً.
+
+أما مبيعات قطاعات تيربون الثلاثة وأسعارها الوسيطة، بحسب Centris، فمفصّلة للمنزل لأسرة واحدة والكوندو والمبنى المتعدد الشقق في [سوق العقارات في تيربون في الربع الثالث من 2026](/ar/articles/terrebonne-real-estate-market/).
 
 ## أربعة قطاعات، أربعة أسواق
 

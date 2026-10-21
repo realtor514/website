@@ -225,7 +225,7 @@ d'assujettissement est inscrit au registre foncier et vaut au plus 10 ans. Le
 règlement 870 énumère les lots visés. Demandez au notaire de le vérifier avant
 de fixer les dates.
 
-Pour compléter, lisez [comment comparer deux secteurs de la Rive-Nord](/articles/rive-nord-guide-laval/) et [la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/).
+Pour compléter, lisez [le marché immobilier de Lanaudière, ville par ville](/articles/marche-immobilier-lanaudiere-secteurs/), [comment comparer deux secteurs de la Rive-Nord](/articles/rive-nord-guide-laval/) et [la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/).
 
 ---
 

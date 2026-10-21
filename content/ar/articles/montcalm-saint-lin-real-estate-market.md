@@ -113,7 +113,7 @@ draft: false
 **هل سان لان لورانتيد جزء من الضفة الشمالية لمونتريال؟**
 بالنسبة إلى APCIQ، نعم: إنها القطاع 34 من الضفة الشمالية. وتقع سان روك دو لاشيغان في قطاعها 32، مع لاسومسيون (L'Assomption) ولافالتري (Lavaltrie)؛ أما بلديات مونكالم الثماني الأخرى فليست لها صفحة في هذا المقياس.
 
-وللاستزادة، اقرأ [كيف تُحسب ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/) و[ما الذي يقرره العنوان بشأن المدرسة](/ar/articles/school-districts-property-values/).
+وللاستزادة، اقرأ [سوق العقارات في لانودير، قطاعاً بقطاع](/ar/articles/lanaudiere-real-estate-market-by-sector/)، و[كيف تُحسب ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/) و[ما الذي يقرره العنوان بشأن المدرسة](/ar/articles/school-districts-property-values/).
 
 ---
 

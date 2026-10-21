@@ -113,7 +113,7 @@ Aucun décret n'apparaît au registre des évaluations environnementales le 21 o
 **Saint-Lin-Laurentides fait-elle partie de la Rive-Nord de Montréal?**
 Pour l'APCIQ, oui: c'est le secteur 34 de la Rive-Nord. Saint-Roch-de-l'Achigan est dans son secteur 32, avec L'Assomption et Lavaltrie; les huit autres municipalités de Montcalm n'ont pas de page dans ce baromètre.
 
-Pour compléter, lisez [le calcul de la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [ce qu'une adresse décide pour l'école](/articles/school-districts-property-values/).
+Pour compléter, lisez [le marché immobilier de Lanaudière, ville par ville](/articles/marche-immobilier-lanaudiere-secteurs/), [le calcul de la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [ce qu'une adresse décide pour l'école](/articles/school-districts-property-values/).
 
 ---
 

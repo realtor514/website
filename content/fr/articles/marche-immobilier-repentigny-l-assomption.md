@@ -111,7 +111,7 @@ Repentigny occupe la rive nord du fleuve Saint-Laurent; la rivière L'Assomption
 
 **Comment savoir si une maison de L'Assomption est en zone inondable?** La Ville a lancé une carte interactive en 2020, et le gouvernement a la sienne. Faites ensuite confirmer par écrit, à l'urbanisme, la carte et la cote qui s'appliquent au lot: la nouvelle carte de la rivière n'étant pas en vigueur, la réponse peut changer.
 
-Pour compléter, lisez [la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/). La [page Repentigny](/courtier-immobilier/repentigny/) rassemble le reste.
+Pour compléter, lisez [le marché immobilier de Lanaudière, ville par ville](/articles/marche-immobilier-lanaudiere-secteurs/), [la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/). La [page Repentigny](/courtier-immobilier/repentigny/) rassemble le reste.
 
 ---
 

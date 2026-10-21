@@ -74,17 +74,17 @@ Plexes total 61 sales in the region during the quarter (-42%), 27 of them in the
 
 This series devotes an analysis to each of these six sectors. The APCIQ barometer places Terrebonne, Mascouche, Repentigny, Charlemagne, L'Assomption, L'Épiphanie, Saint-Sulpice, Lavaltrie, Saint-Roch-de-l'Achigan and Saint-Lin-Laurentides in the North Shore of the Montreal metropolitan area; the rest of Lanaudière is not part of it. Centris publishes no sector median: the benchmarks go territory by territory.
 
-**Sector 1: Terrebonne, Lachenaie and La Plaine.** Terrebonne's three territories total 319 sales for the quarter. In the Terrebonne territory, single-family sales fall 25%; in La Plaine, they rise 21%, and the active supply of single-family homes there has nearly doubled (+94%).
+**Sector 1: [Terrebonne, Lachenaie and La Plaine](/en/articles/terrebonne-real-estate-market/).** Terrebonne's three territories total 319 sales for the quarter. In the Terrebonne territory, single-family sales fall 25%; in La Plaine, they rise 21%, and the active supply of single-family homes there has nearly doubled (+94%).
 
-**Sector 2: Mascouche.** The region's second territory over four quarters, and the first for condos: 60 sales during the quarter, 25% more than a year earlier.
+**Sector 2: [Mascouche](/en/articles/mascouche-real-estate-market/).** The region's second territory over four quarters, and the first for condos: 60 sales during the quarter, 25% more than a year earlier.
 
-**Sector 3: Repentigny, L'Assomption and their neighbours.** Repentigny is the most active territory in Lanaudière, with 819 sales over four quarters. In Le Gardeur, total active supply has nearly doubled (+93%). In L'Assomption, the single-family median over four quarters gains 10%, while sales for the quarter fall 25%.
+**Sector 3: [Repentigny, L'Assomption and their neighbours](/en/articles/repentigny-l-assomption-real-estate-market/).** Repentigny is the most active territory in Lanaudière, with 819 sales over four quarters. In Le Gardeur, total active supply has nearly doubled (+93%). In L'Assomption, the single-family median over four quarters gains 10%, while sales for the quarter fall 25%.
 
-**Sector 4: Saint-Lin-Laurentides, Sainte-Julienne and Saint-Calixte.** Medians well below those of Terrebonne or Repentigny: $495,000 in Saint-Lin-Laurentides, $440,700 in Sainte-Julienne and $322,500 in Saint-Calixte for the quarter.
+**Sector 4: [Saint-Lin-Laurentides, Sainte-Julienne and Saint-Calixte](/en/articles/montcalm-saint-lin-real-estate-market/).** Medians well below those of Terrebonne or Repentigny: $495,000 in Saint-Lin-Laurentides, $440,700 in Sainte-Julienne and $322,500 in Saint-Calixte for the quarter.
 
-**Sector 5: Joliette, Lavaltrie and the centre of the region.** In Joliette, 29 single-family homes sold during the quarter are not enough for a median; over four quarters, it is $449,250 (+6%). In Lavaltrie, sales rise 31%, with a median of $490,000.
+**Sector 5: [Joliette, Lavaltrie and the centre of the region](/en/articles/joliette-lavaltrie-real-estate-market/).** In Joliette, 29 single-family homes sold during the quarter are not enough for a median; over four quarters, it is $449,250 (+6%). In Lavaltrie, sales rise 31%, with a median of $490,000.
 
-**Sector 6: Rawdon, Chertsey, Saint-Donat and the Matawinie.** Long selling times over four quarters, 72 days in Saint-Donat and 62 in Chertsey, and tourist rental rules specific to each municipality. In Chertsey, since July 7, 2022, a new résidence de tourisme (tourist residence) requires an application for a conditional use, in a zone that allows it; in Rawdon, the certificate of authorization costs $1,250, then $1,000 for each annual renewal. Before buying a cottage to rent it out, read [the short-term rental rules](/en/articles/short-term-rental-rules-quebec/).
+**Sector 6: [Rawdon, Chertsey, Saint-Donat and the Matawinie](/en/articles/rawdon-saint-donat-real-estate-market/).** Long selling times over four quarters, 72 days in Saint-Donat and 62 in Chertsey, and tourist rental rules specific to each municipality. In Chertsey, since July 7, 2022, a new résidence de tourisme (tourist residence) requires an application for a conditional use, in a zone that allows it; in Rawdon, the certificate of authorization costs $1,250, then $1,000 for each annual renewal. Before buying a cottage to rent it out, read [the short-term rental rules](/en/articles/short-term-rental-rules-quebec/).
 
 ## The Lanaudière real estate market this fall: the context
 

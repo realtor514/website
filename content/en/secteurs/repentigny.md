@@ -6,6 +6,8 @@ city: "Repentigny"
 url: "/en/real-estate-broker/repentigny/"
 translationKey: "secteur-repentigny"
 weight: 5
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Lanaudière: Le Gardeur, Old Repentigny and the riverfront sector."
 facts:
   - value: "Lanaudière"
@@ -44,6 +46,8 @@ Unlike Terrebonne or Blainville, whose clientele comes largely from Laval and th
 That has a direct consequence on prices: the Repentigny market tracks east-island dynamics closely. When prices rise in Rivière-des-Prairies, the pressure shifts to Repentigny in the months that follow.
 
 For a seller, this means the right comparison is not purely local. For a buyer, it means you need to watch both markets in parallel before concluding that one is the better deal.
+
+The figures for Repentigny are in [the Repentigny real estate market in the third quarter of 2026](/en/articles/repentigny-l-assomption-real-estate-market/): sales, median prices and days on market in Repentigny, Le Gardeur and L'Assomption, as published by Centris.
 
 ## The sectors
 

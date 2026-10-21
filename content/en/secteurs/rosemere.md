@@ -5,7 +5,8 @@ description: "Residential real estate broker in Rosemère: Vieux-Rosemère, golf
 city: "Rosemère"
 url: "/en/real-estate-broker/rosemere/"
 translationKey: "secteur-rosemere"
-lastmod: 2026-10-07
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 17
 cardText: "Lower Laurentians: large wooded lots, golf and river frontage."
 facts:
@@ -49,6 +50,8 @@ Rosemère is a thin, expensive and illiquid market. Those three characteristics 
 Source: [Centris real estate statistics for Rosemère](https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/rosemere), third quarter of 2026 and the cumulative last four quarters. Centris does not publish a statistic when there are too few transactions for it to be reliable, which is the case for Rosemère over a single quarter.
 
 That is the measure of this market: 141 house sales in a year, 17% fewer than the year before. With so few transactions, a single sale moves the median. A serious evaluation is therefore done sale by sale and street by street, not on an average.
+
+Rosemère is compared with the six other towns of the MRC de Thérèse-De Blainville in [the Rosemère real estate market in the third quarter of 2026](/en/articles/blainville-sainte-therese-real-estate-market/): sales, four-quarter median prices and active listings, as published by Centris.
 
 ## Structurally limited supply
 

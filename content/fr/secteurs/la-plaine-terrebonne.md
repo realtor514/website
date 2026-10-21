@@ -7,7 +7,7 @@ url: "/courtier-immobilier/la-plaine-terrebonne/"
 translationKey: "quartier-la-plaine-terrebonne"
 weight: 109
 date: 2026-10-07
-lastmod: 2026-10-07
+lastmod: 2026-10-21
 cardText: "Secteur nord de Terrebonne: maisons unifamiliales, route 337 et le prix d'entrée le plus bas de la ville."
 facts:
   - value: "24 706"
@@ -49,6 +49,8 @@ La Plaine est le secteur nord de Terrebonne, et celui où l'on entre dans le mar
 Source: [statistiques immobilières de Centris pour Terrebonne (La Plaine)](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine), 3e trimestre 2026, soit de juillet à septembre. Les variations comparent au même trimestre de 2025.
 
 C'est le seul des trois secteurs de Terrebonne où les ventes ont augmenté au 3e trimestre: +21 %, alors qu'elles reculaient de 25 % dans le secteur Terrebonne et de 20 % à Lachenaie. Sur les quatre derniers trimestres, Centris y compte 270 ventes d'unifamiliales, en hausse de 8 %. La copropriété reste marginale: 62 ventes sur la même période.
+
+Les ventes, les prix médians et les délais de vente de La Plaine, de Lachenaie et du secteur Terrebonne, selon Centris, sont comparés dans [le marché immobilier de La Plaine, Lachenaie et Terrebonne au 3e trimestre 2026](/articles/marche-immobilier-terrebonne-lachenaie-la-plaine/).
 
 ## D'une paroisse agricole à un secteur de Terrebonne
 

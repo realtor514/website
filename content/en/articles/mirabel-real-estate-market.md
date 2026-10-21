@@ -106,7 +106,7 @@ For the 14 plexes sold in the quarter, Centris publishes no change, no median pr
 
 **Will the future Hydro-Québec line pass near my home?** The proposed route, which starts in Saint-Canut and follows the Route 158 corridor, is not final. The map of route options is on Hydro-Québec's project page.
 
-To go further, read [the welcome tax in Quebec](/en/articles/welcome-tax-quebec-guide/) and [comparing North Shore sectors](/en/articles/rive-nord-guide-laval/). The [Mirabel page](/en/real-estate-broker/mirabel/) covers the rest.
+To go further, read [the Laurentians real estate market, sector by sector](/en/articles/laurentians-real-estate-market-by-sector/), [the welcome tax in Quebec](/en/articles/welcome-tax-quebec-guide/) and [comparing North Shore sectors](/en/articles/rive-nord-guide-laval/). The [Mirabel page](/en/real-estate-broker/mirabel/) covers the rest.
 
 ---
 

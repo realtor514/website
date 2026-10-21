@@ -6,6 +6,8 @@ city: "Saint-Jérôme"
 url: "/en/real-estate-broker/saint-jerome/"
 translationKey: "secteur-saint-jerome"
 weight: 6
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Laurentians: Bellefeuille, Lafontaine, Saint-Antoine and downtown."
 facts:
   - value: "Laurentians"
@@ -44,6 +46,8 @@ On one side, a single-family market driven by buyers looking for affordability: 
 On the other, an income property market more active than in the rest of the Laurentians, supported by the CEGEP student population, hospital staff and a stable tenant base. Entry prices are noticeably lower than in Laval, which attracts investors from the metropolitan area.
 
 These two markets do not respond to the same signals. A single-family seller and a fourplex seller in Saint-Jérôme do not have the same strategy or the same timeline.
+
+The figures behind these two markets are in [the Saint-Jérôme real estate market in the third quarter of 2026](/en/articles/saint-jerome-real-estate-market/): sales, median prices and days on market for Saint-Jérôme and the other municipalities of the Rivière-du-Nord, as published by Centris.
 
 ## The sectors
 

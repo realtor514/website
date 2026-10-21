@@ -6,6 +6,8 @@ city: "Saint-Jérôme"
 url: "/es/corredor-inmobiliario/saint-jerome/"
 translationKey: "secteur-saint-jerome"
 weight: 6
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Laurentides: Bellefeuille, Lafontaine, Saint-Antoine y el centro."
 facts:
   - value: "Laurentides"
@@ -44,6 +46,8 @@ Por un lado, un mercado de casas unifamiliares impulsado por compradores que bus
 Por otro, un mercado de inmuebles de renta más activo que en el resto de las Laurentides, sostenido por la población estudiantil del cégep, el personal hospitalario y una base estable de inquilinos. Los precios de entrada son sensiblemente inferiores a los de Laval, lo que atrae a inversores de la región metropolitana.
 
 Estos dos mercados no responden a las mismas señales. Un vendedor de unifamiliar y un vendedor de cuádruplex en Saint-Jérôme no tienen la misma estrategia ni el mismo calendario.
+
+Las cifras de la ciudad, junto a las de Saint-Colomban, Prévost, Sainte-Sophie y Saint-Hippolyte, están en [el mercado inmobiliario de Saint-Jérôme en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-saint-jerome/): ventas, precios medianos y plazos de venta según Centris.
 
 ## Los sectores
 

@@ -6,6 +6,8 @@ city: "Boisbriand"
 url: "/es/corredor-inmobiliario/boisbriand/"
 translationKey: "secteur-boisbriand"
 weight: 15
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Basses-Laurentides: el Faubourg, el barrio de la estación y los sectores establecidos."
 facts:
   - value: "Faubourg"
@@ -43,6 +45,8 @@ Boisbriand cambió de perfil con el desarrollo del Faubourg, construido sobre el
 **El Faubourg Boisbriand** es un barrio planificado con exigencias arquitectónicas, un núcleo comercial y una densidad superior al resto de la ciudad: casas adosadas, condominios y unifamiliares recientes. Para quien revende, la competencia incluye a menudo el inventario aún en construcción.
 
 **Los sectores establecidos** (Chambéry, Boisbriand-Est, Grande-Côte) son mercados de unifamiliares de los años 1970 a 2000, con terrenos más grandes y clientela familiar estable. Los comparables son fiables porque las propiedades se parecen lo suficiente.
+
+Centris publica una sola cifra para los dos: está en [el mercado inmobiliario de Boisbriand en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-blainville-sainte-therese/), con las ventas, los precios medianos y los plazos de venta de la ciudad comparados con Blainville y Sainte-Thérèse.
 
 ## Lo que hay que verificar aquí
 

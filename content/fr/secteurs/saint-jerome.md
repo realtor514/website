@@ -5,6 +5,8 @@ description: "Courtier immobilier résidentiel à Saint-Jérôme et dans les Lau
 city: "Saint-Jérôme"
 url: "/courtier-immobilier/saint-jerome/"
 translationKey: "secteur-saint-jerome"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 6
 cardText: "Laurentides: Bellefeuille, Lafontaine, Saint-Antoine et le centre-ville."
 facts:
@@ -44,6 +46,8 @@ D'un côté, un marché de maisons unifamiliales tiré par des acheteurs qui che
 De l'autre, un marché d'immeubles à revenus plus actif que dans le reste des Laurentides, soutenu par la population étudiante du cégep, le personnel hospitalier et un bassin de locataires stable. Les prix d'entrée y sont sensiblement inférieurs à ceux de Laval, ce qui attire des investisseurs de la région métropolitaine.
 
 Ces deux marchés ne répondent pas aux mêmes signaux. Un vendeur d'unifamiliale et un vendeur de quadruplex à Saint-Jérôme n'ont pas la même stratégie, ni le même calendrier.
+
+Les ventes, les prix médians et les délais de vente de Saint-Jérôme et des quatre autres municipalités de la MRC de La Rivière-du-Nord, selon Centris, sont comparés dans [le marché immobilier de Saint-Jérôme et de la Rivière-du-Nord au 3e trimestre 2026](/articles/marche-immobilier-saint-jerome-riviere-du-nord/).
 
 ## Les secteurs
 

@@ -5,6 +5,8 @@ description: "Courtier immobilier résidentiel à Lorraine: Lorraine-en-Haut, Lo
 city: "Lorraine"
 url: "/courtier-immobilier/lorraine/"
 translationKey: "secteur-lorraine"
+date: 2026-09-19
+lastmod: 2026-10-21
 weight: 30
 cardText: "Rive-Nord: ville planifiée en 1960, presque uniquement des maisons unifamiliales."
 facts:
@@ -46,6 +48,8 @@ Selon le recensement de 2021, 88 % des logements de Lorraine sont des maisons in
 **La forêt du Grand Coteau**, partagée avec Blainville et Sainte-Thérèse, offre environ 6 km de sentiers du côté de Lorraine. La proximité du boisé est un argument de vente concret pour les rues qui le bordent.
 
 **Le Domaine Garth**, domaine patrimonial au bord de la rivière des Mille Îles, complète l'accès à la nature d'une ville qui en a fait sa marque.
+
+Les ventes, les prix médians et les délais de vente de Lorraine et des six autres villes de la MRC de Thérèse-De Blainville, selon Centris, sont comparés dans [le marché immobilier de Lorraine et des villes voisines au 3e trimestre 2026](/articles/marche-immobilier-blainville-sainte-therese-boisbriand/).
 
 ## Ce qu'il faut vérifier ici
 

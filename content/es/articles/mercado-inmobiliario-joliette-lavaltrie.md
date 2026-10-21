@@ -106,7 +106,7 @@ No, porque la tasa bajó. Según la Ciudad, el 57 % de los propietarios de unifa
 **¿El mercado favorece a los vendedores en todo el sector?**
 La APCIQ solo se pronuncia donde publica. En la aglomeración de Joliette, todos los rangos son «Vendeur». En el este de la Rive-Nord, que incluye Lavaltrie, lo son por debajo de 790 000 $, pero el rango superior es «Équilibré» (equilibrado), con 8,5 meses. Lanoraie, Berthierville y el norte de D'Autray no tienen página en el barómetro.
 
-Para completar, lea [cómo se calcula el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
+Para completar, lea [el mercado inmobiliario de Lanaudière, ciudad por ciudad](/es/articles/mercado-inmobiliario-lanaudiere-por-sector/), [cómo se calcula el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
 
 ---
 

@@ -233,7 +233,7 @@ median price of the 231 single-family homes sold over four quarters that rose
 Because the base is the higher of the price and the roll value multiplied by
 the comparative factor, which reaches 1.12 in Saint-Hippolyte.
 
-To go further, read [how to buy a country home in Quebec](/en/articles/buying-country-home-quebec/) and [how to contest your municipal assessment](/en/articles/contest-property-assessment-quebec/).
+To go further, read [the Laurentians real estate market, sector by sector](/en/articles/laurentians-real-estate-market-by-sector/), [how to buy a country home in Quebec](/en/articles/buying-country-home-quebec/) and [how to contest your municipal assessment](/en/articles/contest-property-assessment-quebec/).
 
 ---
 

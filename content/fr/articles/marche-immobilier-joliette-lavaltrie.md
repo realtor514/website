@@ -106,7 +106,7 @@ Non, parce que le taux a baissé. Selon la Ville, 57 % des propriétaires d'unif
 **Le marché favorise-t-il les vendeurs dans tout le secteur?**
 L'APCIQ ne tranche que là où elle publie. Dans l'agglomération de Joliette, toutes les gammes sont « Vendeur ». Dans l'Est de la Rive-Nord, qui inclut Lavaltrie, elles le sont sous 790 000 $, mais la gamme supérieure est « Équilibré », à 8,5 mois. Lanoraie, Berthierville et le nord de D'Autray n'ont pas de page dans le baromètre.
 
-Pour compléter, lisez [comment se calcule la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [comment contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
+Pour compléter, lisez [le marché immobilier de Lanaudière, ville par ville](/articles/marche-immobilier-lanaudiere-secteurs/), [comment se calcule la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [comment contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
 
 ---
 

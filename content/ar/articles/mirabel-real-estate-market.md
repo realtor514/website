@@ -209,7 +209,7 @@ Victor، ضمن قطاع سان جانفييه، في المنطقة التعر�
 كانو ويتبع محور الطريق 158، ليس نهائياً. وخريطة البدائل منشورة على صفحة مشروع
 Hydro-Québec.
 
-وللاستزادة، اقرأ [ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/)
+وللاستزادة، اقرأ [سوق العقارات في لورانتيد، قطاعاً بقطاع](/ar/articles/laurentians-real-estate-market-by-sector/)، و[ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/)
 و[كيف تقارن بين قطاعات الضفة الشمالية](/ar/articles/rive-nord-guide-laval/). أما
 [صفحة ميرابيل](/ar/wasit-aqari/mirabel/) فتجمع الباقي.
 

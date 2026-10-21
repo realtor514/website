@@ -106,7 +106,7 @@ Pour les 14 plex du trimestre, Centris ne publie ni variation, ni prix médian, 
 
 **La future ligne d'Hydro-Québec passera-t-elle près de chez moi?** Le tracé proposé, qui part de Saint-Canut et suit l'axe de la route 158, n'est pas final. La carte des variantes est sur la page du projet d'Hydro-Québec.
 
-Pour compléter, lisez [la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [comparer les secteurs de la Rive-Nord](/articles/rive-nord-guide-laval/). La [page Mirabel](/courtier-immobilier/mirabel/) rassemble le reste.
+Pour compléter, lisez [le marché immobilier des Laurentides, ville par ville](/articles/marche-immobilier-laurentides-secteurs/), [la taxe de bienvenue au Québec](/articles/taxe-de-bienvenue-quebec/) et [comparer les secteurs de la Rive-Nord](/articles/rive-nord-guide-laval/). La [page Mirabel](/courtier-immobilier/mirabel/) rassemble le reste.
 
 ---
 

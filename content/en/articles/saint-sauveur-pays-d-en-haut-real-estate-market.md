@@ -102,7 +102,7 @@ If it is not your principal residence, only in a zone where the use is authorize
 **Can the Town confirm that the septic tank is compliant?**
 In Saint-Sauveur, no: the information request confirms the type of system, not whether it works. Ask the seller for the permit and the pumping invoices, and have the system assessed by a professional before you waive your conditions.
 
-To go further, read [how the welcome tax is calculated in Quebec](/en/articles/welcome-tax-quebec-guide/) and [the checks before buying in a flood zone](/en/articles/buying-in-flood-zone-quebec/).
+To go further, read [the Laurentians real estate market, sector by sector](/en/articles/laurentians-real-estate-market-by-sector/), [how the welcome tax is calculated in Quebec](/en/articles/welcome-tax-quebec-guide/) and [the checks before buying in a flood zone](/en/articles/buying-in-flood-zone-quebec/).
 
 ---
 

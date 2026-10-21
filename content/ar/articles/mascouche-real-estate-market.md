@@ -113,7 +113,7 @@ draft: false
 
 **هل فُتح المخرج الجديد من الطريق السريع 640؟** ليس حتى 21 أكتوبر 2026: الأشغال جارية، والمدينة تتوقع تشغيله في صيف 2027.
 
-وللاستزادة، اقرأ [ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/) و[الشراء في منطقة معرّضة للفيضان في كيبيك](/ar/articles/buying-in-flood-zone-quebec/). أما [صفحة ماسكوش](/ar/wasit-aqari/mascouche/) و[صفحة تيربون](/ar/wasit-aqari/terrebonne/) فتجمعان الباقي.
+وللاستزادة، اقرأ [سوق العقارات في لانودير، قطاعاً بقطاع](/ar/articles/lanaudiere-real-estate-market-by-sector/)، و[ضريبة الترحيب في كيبيك](/ar/articles/welcome-tax-quebec-guide/) و[الشراء في منطقة معرّضة للفيضان في كيبيك](/ar/articles/buying-in-flood-zone-quebec/). أما [صفحة ماسكوش](/ar/wasit-aqari/mascouche/) و[صفحة تيربون](/ar/wasit-aqari/terrebonne/) فتجمعان الباقي.
 
 ---
 

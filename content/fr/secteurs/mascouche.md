@@ -5,6 +5,8 @@ description: "Courtier immobilier résidentiel à Mascouche: Vieux-Mascouche, se
 city: "Mascouche"
 url: "/courtier-immobilier/mascouche/"
 translationKey: "secteur-mascouche"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 18
 cardText: "Lanaudière: gare exo, Vieux-Mascouche et secteurs en croissance rapide."
 facts:
@@ -24,8 +26,8 @@ sectors:
   - "Mascouche-Ouest"
   - "Secteur de la Seigneurie"
 faq:
-  - q: "La gare de Mascouche vaut-elle la prime?"
-    a: "Pour un acheteur qui travaille au centre-ville, souvent oui: la ligne exo Mascouche évite la 25 et le pont aux heures de pointe. L'effet sur les prix se concentre sur les propriétés à courte distance de la gare, pas sur toute la ville."
+  - q: "La gare de Mascouche change-t-elle le calcul pour un acheteur?"
+    a: "Pour un acheteur qui travaille au centre-ville, souvent oui: la ligne exo Mascouche évite la 25 et le pont aux heures de pointe. Aucune statistique publique ne mesure l'effet de la gare sur les prix: Centris publie un seul chiffre pour Mascouche, et pour une propriété donnée, ce sont les ventes récentes autour de la gare qui le montrent."
   - q: "Mascouche est-elle plus abordable que Terrebonne?"
     a: "Selon le secteur, souvent oui, surtout dans l'ouest et le nord de la ville. Les deux villes sont limitrophes et forment un seul bassin d'acheteurs, donc la comparaison doit se faire secteur par secteur."
   - q: "Y a-t-il beaucoup de construction neuve?"
@@ -40,11 +42,13 @@ Mascouche fait partie du même bassin que Terrebonne, mais avec sa propre dynami
 
 ## Ce qui structure le marché
 
-**La gare exo** est le terminus de la ligne Mascouche. Pour un acheteur qui travaille au centre-ville, elle change la donne: elle évite l'autoroute 25 et le pont aux heures de pointe. La prime de prix est réelle mais localisée sur un rayon réduit.
+**La gare exo** est le terminus de la ligne Mascouche. Pour un acheteur qui travaille au centre-ville, elle change la donne: elle évite l'autoroute 25 et le pont aux heures de pointe. Aucune statistique publique ne mesure son effet sur les prix.
 
 **Le Vieux-Mascouche** conserve un noyau ancien avec des propriétés plus âgées et des terrains matures.
 
 **Les secteurs récents** (Domaine du Golf, Les Manoirs, Mascouche-Ouest) représentent le volume: maisons construites depuis 1995, comparables fiables, clientèle familiale.
+
+Les ventes, les prix médians et les délais de vente de Mascouche, selon Centris, sont comparés à ceux de Terrebonne, de Repentigny et de l'ensemble de Lanaudière dans [le marché immobilier de Mascouche au 3e trimestre 2026](/articles/marche-immobilier-mascouche/).
 
 ## Ce qu'il faut vérifier ici
 

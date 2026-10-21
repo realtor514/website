@@ -6,6 +6,8 @@ city: "Lorraine"
 url: "/en/real-estate-broker/lorraine/"
 translationKey: "secteur-lorraine"
 weight: 30
+date: 2026-09-19
+lastmod: 2026-10-21
 cardText: "North Shore: a town planned in 1960, almost entirely single-family homes."
 facts:
   - value: "88%"
@@ -46,6 +48,8 @@ According to the 2021 census, 88% of dwellings in Lorraine are single-detached h
 **The Grand Coteau forest**, shared with Blainville and Sainte-Thérèse, offers about 6 km of trails on the Lorraine side. Being close to the woods is a concrete selling point for the streets that border it.
 
 **Domaine Garth**, a heritage estate on the Rivière des Mille Îles, rounds out the access to nature in a town that made it its signature.
+
+Lorraine is compared with the six other towns of the MRC de Thérèse-De Blainville in [the Lorraine real estate market in the third quarter of 2026](/en/articles/blainville-sainte-therese-real-estate-market/): sales, four-quarter median prices and active listings, as published by Centris.
 
 ## What to check here
 

@@ -111,7 +111,7 @@ Repentigny ocupa la orilla norte del río San Lorenzo; el río L'Assomption atra
 
 **¿Cómo saber si una casa de L'Assomption está en zona inundable?** La Ciudad lanzó un mapa interactivo en 2020, y el gobierno tiene el suyo. Luego haga confirmar por escrito, en el servicio de urbanismo, el mapa y la cota que se aplican al lote: como el nuevo mapa del río no está vigente, la respuesta puede cambiar.
 
-Para completar, lea [el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/). La [página Repentigny](/es/corredor-inmobiliario/repentigny/) reúne el resto.
+Para completar, lea [el mercado inmobiliario de Lanaudière, ciudad por ciudad](/es/articles/mercado-inmobiliario-lanaudiere-por-sector/), [el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/). La [página Repentigny](/es/corredor-inmobiliario/repentigny/) reúne el resto.
 
 ---
 

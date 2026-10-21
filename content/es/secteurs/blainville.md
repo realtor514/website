@@ -5,7 +5,8 @@ description: "Corredor inmobiliario en Blainville y las Basses-Laurentides: Font
 city: "Blainville"
 url: "/es/corredor-inmobiliario/blainville/"
 translationKey: "secteur-blainville"
-lastmod: 2026-10-07
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 4
 cardText: "Basses-Laurentides: Fontainebleau, Chante-Bois, Notre-Dame, sector del Domaine Vert."
 facts:
@@ -48,6 +49,8 @@ Blainville ocupa una posición particular en las Basses-Laurentides: suele ser e
 Fuente: [estadísticas inmobiliarias de Centris para Blainville](https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/blainville), tercer trimestre de 2026, de julio a septiembre. Las variaciones se comparan con el mismo trimestre de 2025.
 
 El precio mediano subió un 11 % en un año, con más ventas: la demanda no se ha debilitado. En los últimos cuatro trimestres, Centris registra 646 ventas de viviendas unifamiliares, igual que el año anterior. En condominio, 28 ventas en el tercer trimestre, muy pocas para publicar una mediana. Y una mediana describe la ciudad, no su casa: Fontainebleau no se compara con Chante-Bois.
+
+La comparación con Sainte-Thérèse, Boisbriand, Rosemère y Lorraine está en [el mercado inmobiliario de Blainville y sus vecinas en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-blainville-sainte-therese/): ventas, precios medianos y plazos de venta según Centris, ciudad por ciudad.
 
 ## Lo que sostiene los precios aquí
 

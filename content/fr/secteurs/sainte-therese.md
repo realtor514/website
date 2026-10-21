@@ -5,6 +5,8 @@ description: "Courtier immobilier résidentiel à Sainte-Thérèse: Vieux-Sainte
 city: "Sainte-Thérèse"
 url: "/courtier-immobilier/sainte-therese/"
 translationKey: "secteur-sainte-therese"
+date: 2026-08-05
+lastmod: 2026-10-21
 weight: 16
 cardText: "Basses-Laurentides: noyau villageois, gare exo et marché locatif du cégep."
 facts:
@@ -45,6 +47,8 @@ D'un côté, un marché d'unifamiliales et de jumelés, tiré par des familles q
 De l'autre, un marché d'immeubles à revenus soutenu par le Cégep Lionel-Groulx, la gare de la ligne Saint-Jérôme et un bassin de locataires stable. Les prix d'entrée y sont inférieurs à ceux de Laval, ce qui attire des investisseurs qui n'habitent pas la région.
 
 Ces deux marchés ne répondent pas aux mêmes signaux, et un vendeur n'a pas la même stratégie selon le côté où il se trouve.
+
+Les ventes, les prix médians et les délais de vente de Sainte-Thérèse et des six autres villes de la MRC de Thérèse-De Blainville, selon Centris, sont comparés dans [le marché immobilier de Sainte-Thérèse, Blainville et Boisbriand au 3e trimestre 2026](/articles/marche-immobilier-blainville-sainte-therese-boisbriand/).
 
 ## Ce qu'il faut vérifier ici
 

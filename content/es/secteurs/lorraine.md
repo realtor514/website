@@ -6,6 +6,8 @@ city: "Lorraine"
 url: "/es/corredor-inmobiliario/lorraine/"
 translationKey: "secteur-lorraine"
 weight: 30
+date: 2026-09-19
+lastmod: 2026-10-21
 cardText: "Rive-Nord: ciudad planificada en 1960, casi solo casas unifamiliares."
 facts:
   - value: "88%"
@@ -46,6 +48,8 @@ Según el censo de 2021, el 88% de las viviendas de Lorraine son casas unifamili
 **El bosque del Grand Coteau**, compartido con Blainville y Sainte-Thérèse, ofrece unos 6 km de senderos del lado de Lorraine. La cercanía del bosque es un argumento de venta concreto para las calles que lo bordean.
 
 **El Domaine Garth**, finca patrimonial a orillas del río des Mille Îles, completa el acceso a la naturaleza de una ciudad que lo convirtió en su sello.
+
+Las cifras de Lorraine, comparadas con las de las otras seis ciudades de la MRC de Thérèse-De Blainville, están en [el mercado inmobiliario de Lorraine en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-blainville-sainte-therese/): ventas y precios medianos según Centris.
 
 ## Lo que hay que verificar aquí
 

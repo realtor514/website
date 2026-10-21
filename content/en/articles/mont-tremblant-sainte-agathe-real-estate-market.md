@@ -112,7 +112,7 @@ The general checks are covered in [buying a cottage in Quebec](/en/articles/buyi
 
 **Is Sainte-Agathe-des-Monts a buyer's market?** APCIQ does not publish a verdict for the town alone. In its agglomeration, over 12 months, it classifies the single-family market as favouring sellers from $240,000 to $720,000, and buyers at $720,000 and up.
 
-To go further, read [contesting your municipal assessment](/en/articles/contest-property-assessment-quebec/) and [the welcome tax in Quebec](/en/articles/welcome-tax-quebec-guide/).
+To go further, read [the Laurentians real estate market, sector by sector](/en/articles/laurentians-real-estate-market-by-sector/), [contesting your municipal assessment](/en/articles/contest-property-assessment-quebec/) and [the welcome tax in Quebec](/en/articles/welcome-tax-quebec-guide/).
 
 ---
 

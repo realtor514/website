@@ -206,8 +206,9 @@ Not yet. Its recognition depends on a study to be filed by March 1, 2028, and
 the CMM's new maps are not in force. Even once recognized, the dike would
 leave a "zone protégée à risque résiduel" behind it.
 
-To go further, read [the checks before buying in a flood
-zone](/en/articles/buying-in-flood-zone-quebec/) and [how to compare two
+To go further, read [the Laurentians real estate market, sector by
+sector](/en/articles/laurentians-real-estate-market-by-sector/), [the checks
+before buying in a flood zone](/en/articles/buying-in-flood-zone-quebec/) and [how to compare two
 North Shore sectors](/en/articles/rive-nord-guide-laval/), and see my
 [Saint-Eustache page](/en/real-estate-broker/saint-eustache/).
 

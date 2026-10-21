@@ -223,7 +223,7 @@ The notice of subjection is registered in the land register and is valid for
 no more than 10 years. By-law 870 lists the lots concerned. Ask the notary to
 check before setting the dates.
 
-To go further, read [how to compare two North Shore sectors](/en/articles/rive-nord-guide-laval/) and [the welcome tax in Quebec](/en/articles/welcome-tax-quebec-guide/).
+To go further, read [the Lanaudière real estate market, sector by sector](/en/articles/lanaudiere-real-estate-market-by-sector/), [how to compare two North Shore sectors](/en/articles/rive-nord-guide-laval/) and [the welcome tax in Quebec](/en/articles/welcome-tax-quebec-guide/).
 
 ---
 

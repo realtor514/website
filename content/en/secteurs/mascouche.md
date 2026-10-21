@@ -6,6 +6,8 @@ city: "Mascouche"
 url: "/en/real-estate-broker/mascouche/"
 translationKey: "secteur-mascouche"
 weight: 18
+date: 2026-08-05
+lastmod: 2026-10-21
 cardText: "Lanaudière: exo station, Vieux-Mascouche and fast-growing sectors."
 facts:
   - value: "Station"
@@ -24,8 +26,8 @@ sectors:
   - "Mascouche-Ouest"
   - "Seigneurie sector"
 faq:
-  - q: "Is the Mascouche station worth the premium?"
-    a: "For a buyer who works downtown, often yes: the exo Mascouche line avoids Highway 25 and the bridge at rush hour. The price effect is concentrated on properties a short distance from the station, not across the whole city."
+  - q: "Does the Mascouche station change the math for a buyer?"
+    a: "For a buyer who works downtown, often yes: the exo Mascouche line avoids Highway 25 and the bridge at rush hour. No public statistic measures the station's effect on prices: Centris publishes a single figure for Mascouche, so for a given property, the recent sales around the station are what show it."
   - q: "Is Mascouche more affordable than Terrebonne?"
     a: "Depending on the sector, often yes, especially in the west and north of the city. The two cities are adjacent and form a single buyer pool, so the comparison has to be made sector by sector."
   - q: "Is there much new construction?"
@@ -40,11 +42,13 @@ Mascouche belongs to the same pool as Terrebonne, but with its own dynamic: fast
 
 ## What structures the market
 
-**The exo station** is the terminus of the Mascouche line. For a buyer who works downtown, it changes things: it avoids Highway 25 and the bridge at rush hour. The price premium is real but localized within a short radius.
+**The exo station** is the terminus of the Mascouche line. For a buyer who works downtown, it changes things: it avoids Highway 25 and the bridge at rush hour. No public statistic measures its effect on prices.
 
 **Vieux-Mascouche** keeps an older core with more mature properties and lots.
 
 **The newer sectors** (Domaine du Golf, Les Manoirs, Mascouche-Ouest) carry the volume: homes built since 1995, reliable comparables, family clientele.
+
+The figures behind this market are in [the Mascouche real estate market in the third quarter of 2026](/en/articles/mascouche-real-estate-market/): sales, median prices and days on market for single-family homes, condos and plexes, as published by Centris.
 
 ## What to check here
 

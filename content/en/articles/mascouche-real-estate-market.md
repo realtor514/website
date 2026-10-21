@@ -113,7 +113,7 @@ Source: Centris real estate statistics for Lanaudière, pages for [Mascouche](ht
 
 **Is the new A-640 exit open?** Not as of October 21, 2026: work is under way, and the City expects it to open in summer 2027.
 
-To go further, read [the welcome tax in Quebec](/en/articles/welcome-tax-quebec-guide/) and [buying in a flood zone in Quebec](/en/articles/buying-in-flood-zone-quebec/). The [Mascouche page](/en/real-estate-broker/mascouche/) and the [Terrebonne page](/en/real-estate-broker/terrebonne/) cover the rest.
+To go further, read [the Lanaudière real estate market, sector by sector](/en/articles/lanaudiere-real-estate-market-by-sector/), [the welcome tax in Quebec](/en/articles/welcome-tax-quebec-guide/) and [buying in a flood zone in Quebec](/en/articles/buying-in-flood-zone-quebec/). The [Mascouche page](/en/real-estate-broker/mascouche/) and the [Terrebonne page](/en/real-estate-broker/terrebonne/) cover the rest.
 
 ---
 

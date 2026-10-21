@@ -114,7 +114,7 @@ El ministère des Transports et de la Mobilité durable (el ministerio de Transp
 
 **¿Cómo saber si una casa está sujeta al derecho de preferencia?** El avis d'assujettissement se inscribe en el Registre foncier y tiene una validez máxima de 10 años. El reglamento 870 enumera los lotes afectados. Pida al notario que lo verifique antes de fijar las fechas.
 
-Para completar, lea [cómo comparar dos sectores de la Rive-Nord](/es/articles/rive-nord-guide-laval/) y [el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/).
+Para completar, lea [el mercado inmobiliario de Lanaudière, ciudad por ciudad](/es/articles/mercado-inmobiliario-lanaudiere-por-sector/), [cómo comparar dos sectores de la Rive-Nord](/es/articles/rive-nord-guide-laval/) y [el impuesto de bienvenida en Quebec](/es/articles/welcome-tax-quebec-guide/).
 
 ---
 

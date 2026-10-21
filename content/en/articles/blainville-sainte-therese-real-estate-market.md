@@ -247,7 +247,7 @@ reflects the market at a past date specific to the town. Rosemère's is based on
 July 1, 2022 and is in its last year in 2026; Blainville's, on July 1, 2023;
 those of Sainte-Thérèse and Boisbriand, in force since 2026, on July 1, 2024.
 
-To round things out, read [how to compare two North Shore sectors](/en/articles/rive-nord-guide-laval/), [how the welcome tax is calculated in Quebec](/en/articles/welcome-tax-quebec-guide/) and [how to contest your municipal assessment](/en/articles/contest-property-assessment-quebec/).
+To round things out, read [the Laurentians real estate market, sector by sector](/en/articles/laurentians-real-estate-market-by-sector/), [how to compare two North Shore sectors](/en/articles/rive-nord-guide-laval/), [how the welcome tax is calculated in Quebec](/en/articles/welcome-tax-quebec-guide/) and [how to contest your municipal assessment](/en/articles/contest-property-assessment-quebec/).
 
 ---
 
