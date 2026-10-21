@@ -1,0 +1,333 @@
+{
+ "id": "t262",
+ "slug": "marche-immobilier-mont-tremblant-sainte-agathe",
+ "title": "Marché immobilier à Mont-Tremblant et Sainte-Agathe-des-Monts: T3 2026",
+ "target_keyword": "marche immobilier mont-tremblant",
+ "word_count": 1730,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/location-court-terme-quebec-regles/",
+  "/articles/acheter-un-chalet-quebec-verifications/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/contester-evaluation-municipale-quebec/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/tools/welcome-tax/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides",
+   "title": "Statistiques immobilières, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Lignes « Laurentides, ensemble » des deux tableaux: unifamiliale 1 804 ventes (+2 %), prix médian 573 750 $ (+5 %), 567 487 $ sur 4 trimestres (+6 %); copropriété 361 ventes (-23 %), 385 000 $ (0 %), 71 jours (+17), 996 inscriptions (+17 %). Total résidentiel: 2 324 ventes, base de la part de 14 % (320 sur 2 324, calcul de l'article); inscriptions en vigueur 5 191 (+15 %), citées dans « Le contexte régional ». Page lue en curl le 2026-10-21 par le rédacteur, puis relue en curl par le vérificateur le même jour: identique au JSON state/marche_T3_2026/centris_laurentides.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/mont-tremblant",
+   "title": "Statistiques immobilières, Mont-Tremblant, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Total résidentiel: 96 ventes (-8 %), 448 inscriptions en vigueur (-2 %), volume -13 %; unifamiliale 47 ventes (+27 %), 141 inscriptions (+13 %), 645 000 $ (+12 %), 656 625 $ sur 4 trimestres (+13 %), 76 jours (+19), 151 ventes sur 4 trimestres; copropriété 49 ventes (-24 %), 292 inscriptions (-9 %), 370 000 $ (-37 %), 174 jours (+49), et sur 4 trimestres 224 ventes (-3 %), 417 125 $ (-6 %), 162 jours (+1), 295 inscriptions (-8 %); plex 0 vente, prix médian non publié; population 2021: 10 992. Notes de la page: variations par rapport au même trimestre de l'année précédente, total résidentiel incluant les fermettes, deux astérisques = nombre de transactions insuffisant. Volume (en millier $): 72 616, -13 %. Relue en curl par le vérificateur le 2026-10-21: identique au JSON, chiffre par chiffre."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/sainte-agathe-des-monts",
+   "title": "Statistiques immobilières, Sainte-Agathe-des-Monts, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "43 ventes résidentielles; unifamiliale 33 ventes (+6 %), 459 000 $ (-16 %), 45 jours (-21), et sur 4 trimestres 157 ventes (+20 %), 501 000 $ (+8 %), 53 jours; prix médians de copropriété et de plex non publiés; population 2021: 11 211. Écart de 114 750 $ avec la médiane régionale (calcul de l'article). Relue en curl par le vérificateur le 2026-10-21: identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/val-david",
+   "title": "Statistiques immobilières, Val-David, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Total résidentiel 31 ventes (+24 %); unifamiliale 28 ventes, prix médian trimestriel non publié, 479 500 $ sur 4 trimestres (+2 %). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/val-morin",
+   "title": "Statistiques immobilières, Val-Morin, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Unifamiliale 20 ventes, prix médian trimestriel non publié, 478 062 $ sur 4 trimestres (+20 %). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/mont-blanc",
+   "title": "Statistiques immobilières, Mont-Blanc, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Unifamiliale 18 ventes, 509 437 $ sur 4 trimestres (+13 %). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/la-minerve",
+   "title": "Statistiques immobilières, La Minerve, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Unifamiliale 17 ventes, 547 444 $ sur 4 trimestres (+10 %), 161 jours en moyenne sur 4 trimestres, le plus long délai publié dans la MRC. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/amherst",
+   "title": "Statistiques immobilières, Amherst, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Unifamiliale 14 ventes, 416 875 $ sur 4 trimestres (+13 %), la médiane la plus basse publiée dans la MRC. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/lac-superieur",
+   "title": "Statistiques immobilières, Lac-Supérieur, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Unifamiliale 13 ventes, 591 250 $ sur 4 trimestres (+17 %), la plus haute des médianes sur 4 trimestres hors Mont-Tremblant. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/la-conception",
+   "title": "Statistiques immobilières, La Conception, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Unifamiliale 13 ventes, 448 937 $ sur 4 trimestres (-22 %). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/sainte-lucie-des-laurentides",
+   "title": "Statistiques immobilières, Sainte-Lucie-des-Laurentides, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Unifamiliale 10 ventes, 491 687 $ sur 4 trimestres (+23 %). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/labelle",
+   "title": "Statistiques immobilières, Labelle, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Unifamiliale 9 ventes, 458 875 $ sur 4 trimestres (+19 %). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/arundel",
+   "title": "Statistiques immobilières, Arundel, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "0 ventes résidentielles au trimestre, aucun prix médian publié même sur 4 trimestres: compte dans les 27 ventes des neuf petites municipalités et dans le total de 320 ventes des 20 municipalités (addition de l'article). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/barkmere",
+   "title": "Statistiques immobilières, Barkmere, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "3 ventes résidentielles au trimestre, aucun prix médian publié même sur 4 trimestres: compte dans les 27 ventes des neuf petites municipalités et dans le total de 320 ventes des 20 municipalités (addition de l'article). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/brebeuf",
+   "title": "Statistiques immobilières, Brébeuf, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "3 ventes résidentielles au trimestre, aucun prix médian publié même sur 4 trimestres: compte dans les 27 ventes des neuf petites municipalités et dans le total de 320 ventes des 20 municipalités (addition de l'article). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/huberdeau",
+   "title": "Statistiques immobilières, Huberdeau, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "3 ventes résidentielles au trimestre, aucun prix médian publié même sur 4 trimestres: compte dans les 27 ventes des neuf petites municipalités et dans le total de 320 ventes des 20 municipalités (addition de l'article). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/ivry-sur-le-lac",
+   "title": "Statistiques immobilières, Ivry-sur-le-Lac, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "0 ventes résidentielles au trimestre, aucun prix médian publié même sur 4 trimestres: compte dans les 27 ventes des neuf petites municipalités et dans le total de 320 ventes des 20 municipalités (addition de l'article). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/lac-tremblant-nord",
+   "title": "Statistiques immobilières, Lac-Tremblant-Nord, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "2 ventes résidentielles au trimestre, aucun prix médian publié même sur 4 trimestres: compte dans les 27 ventes des neuf petites municipalités et dans le total de 320 ventes des 20 municipalités (addition de l'article). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/lantier",
+   "title": "Statistiques immobilières, Lantier, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "5 ventes résidentielles au trimestre, aucun prix médian publié même sur 4 trimestres: compte dans les 27 ventes des neuf petites municipalités et dans le total de 320 ventes des 20 municipalités (addition de l'article). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/montcalm",
+   "title": "Statistiques immobilières, Montcalm, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "4 ventes résidentielles au trimestre, aucun prix médian publié même sur 4 trimestres: compte dans les 27 ventes des neuf petites municipalités et dans le total de 320 ventes des 20 municipalités (addition de l'article). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/val-des-lacs",
+   "title": "Statistiques immobilières, Val-des-Lacs, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "7 ventes résidentielles au trimestre, aucun prix médian publié même sur 4 trimestres: compte dans les 27 ventes des neuf petites municipalités et dans le total de 320 ventes des 20 municipalités (addition de l'article). Identique au JSON."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-province.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Province de Québec",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Page 28, « Centre urbain de Mont-Tremblant » (carte: Mont-Tremblant, Lac-Tremblant-Nord, Mont-Blanc), tableau 3 copropriété, 12 derniers mois: 7,5 mois sous 210 000 $ (Vendeur), puis 20,0, 14,5, 22,0 et 22,8 mois (Acheteur). Page 19, « Agglomération de Sainte-Agathe-des-Monts » (carte: Sainte-Agathe-des-Monts, Val-David, Val-Morin), tableau 3 unifamiliale: 8,9 mois sous 240 000 $ (Équilibré), 3,8, 4,0 et 6,9 mois de 240 000 $ à 720 000 $ (Vendeur), 14,2 mois à 720 000 $ et plus (Acheteur). Page 31: équilibre entre 8 et 10 mois, mise en garde sur le prix médian. Lu par pdftotext et par rendu en image des pages 19 et 28, puis relu de la même façon par le vérificateur le 2026-10-21 (cartes et tableau 3 concordants)."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 14 octobre 2026: les marchés de villégiature des Laurentides présentent les conditions les plus équilibrées de la province, « sans toutefois avantager systématiquement les acheteurs »."
+  },
+  {
+   "url": "https://mrclaurentides.qc.ca/",
+   "title": "MRC des Laurentides, menu « Municipalités »",
+   "publisher": "MRC des Laurentides",
+   "consulted": "2026-10-21",
+   "supports": "Les 20 municipalités de la MRC, dont deux villes (Ville de Mont-Tremblant, Ville de Sainte-Agathe-des-Monts); même liste en en-tête de l'avis public du RCI 408-2024."
+  },
+  {
+   "url": "https://vdmt.ca/services/residence-de-tourisme",
+   "title": "Résidence de tourisme",
+   "publisher": "Ville de Mont-Tremblant",
+   "consulted": "2026-10-21",
+   "supports": "Séjours de moins de 31 jours; confirmation de la zone par le Service de l'urbanisme en raison des règlements intérimaires; seul le type unifamilial isolé autorisé en vertu du RCI; avis de conformité municipal exigé par la CITQ, traité par le Service de l'urbanisme; usage considéré comme un commerce d'hébergement soumis à un taux de taxation distinct."
+  },
+  {
+   "url": "https://vdmt.ca/storage/app/media/services/reglements-durbanisme/RCI/reglement-2025-234.pdf",
+   "title": "Règlement (2025)-234 de contrôle intérimaire (compilation administrative)",
+   "publisher": "Ville de Mont-Tremblant",
+   "consulted": "2026-10-21",
+   "supports": "En vigueur le 19 mars 2025, amendé par le (2025)-234-1 (en vigueur le 18 juin 2025). Article 3, 1°: interdiction d'une opération cadastrale pour une nouvelle rue, un prolongement ou un projet intégré « à moins de 300 mètres de certains lacs », sans levée prévue au règlement. Article 3, 2°: interdiction d'une « nouvelle construction ou un agrandissement d'un bâtiment principal, une utilisation du sol, une opération cadastrale, un changement d'usage, lorsque réalisé à des fins d'usage de commerce d'hébergement ». Article 3, 3°: le 2° ne s'applique pas a) dans les bassins versants du RCI 408-2024 de la MRC, b) à l'intérieur des périmètres urbains, c) à la résidence de tourisme dans un bâtiment d'un logement en structure isolée, d) à la résidence de tourisme, peu importe la structure, dans les zones TM-680, TM-682, TM-683, TM-511, TF-623, TF-624, TF-625, TF-554, TF-631, TF-632, TF-637, TF-638 et TF-639 (ajout du (2025)-234-1). Relu par le vérificateur le 2026-10-21 (pdftotext)."
+  },
+  {
+   "url": "https://vdmt.ca/informations-municipales/dossiers-en-cours/refonte-du-plan-durbanisme",
+   "title": "Refonte du plan d'urbanisme",
+   "publisher": "Ville de Mont-Tremblant",
+   "consulted": "2026-10-21",
+   "supports": "Dépôt le 13 avril 2026 de la version révisée du projet de plan d'urbanisme et de 12 projets de règlements (documents de travail); mémoires jusqu'au 26 juin 2026 « en vue de leur adoption en août 2026 »; échéancier affiché: début de la procédure d'adoption « Hiver/printemps 2027 », adoption des projets « Hiver/printemps 2027 », avis de motion « 2027, dates à déterminer ». Relu par le vérificateur le 2026-10-21."
+  },
+  {
+   "url": "https://mrclaurentides.qc.ca/wp-content/uploads/2025/11/408-2024_Compilation_Administrative-1.pdf",
+   "title": "Règlement de contrôle intérimaire numéro 408-2024 (compilation administrative)",
+   "publisher": "MRC des Laurentides",
+   "consulted": "2026-10-21",
+   "supports": "Adopté le 20 juin 2024, modifié par le 408-2024-A1 (adopté le 21 août 2025). Articles 3 et 17: dans les bassins versants des lacs cartographiés, interdiction d'une nouvelle rue, d'un prolongement, d'une opération cadastrale pour un projet intégré (sauf déclaration de copropriété), et densité maximale des établissements d'hébergement touristique autres qu'une résidence principale: 6 unités à l'hectare desservi, 4 partiellement desservi, 3,3 non desservi, 2,5 en secteur riverain. Définition: établissement d'hébergement touristique « autre qu'un établissement de résidence principale ». Article 4: affectations urbaine, villageoise et touristique exclues. Article 7: en vigueur « jusqu'à la date de la délivrance du dernier certificat de conformité par la MRC des Laurentides à l'égard des règlements d'urbanisme applicables ». Article 18, 2): les interdictions des paragraphes 1) et 2) de l'article 17 (rues, projets intégrés) peuvent être levées par l'approbation d'un PIIA en vertu d'un règlement municipal sur les PIIA des bassins versants. Relu par le vérificateur le 2026-10-21 (pdftotext)."
+  },
+  {
+   "url": "https://mrclaurentides.qc.ca/wp-content/uploads/2024/09/Avis_Public_RCI_408-2024.pdf",
+   "title": "Avis public, entrée en vigueur du Règlement de contrôle intérimaire 408-2024",
+   "publisher": "MRC des Laurentides",
+   "consulted": "2026-10-21",
+   "supports": "Entrée en vigueur le 3 septembre 2024 après l'approbation du ministère des Affaires municipales du 27 août 2024 (PDF image, lu par rendu en image)."
+  },
+  {
+   "url": "https://mrclaurentides.qc.ca/schema-damenagement/",
+   "title": "Schéma d'aménagement",
+   "publisher": "MRC des Laurentides",
+   "consulted": "2026-10-21",
+   "supports": "Schéma révisé (SADT no 410-2024) adopté le 20 juin 2024; avis de non-conformité du ministère le 11 novembre 2024; schéma en vigueur: celui de 2000 (no 166-2000)."
+  },
+  {
+   "url": "https://vsadm.ca/citoyens/reglementation/herbergement-touristique/",
+   "title": "Hébergement touristique",
+   "publisher": "Ville de Sainte-Agathe-des-Monts",
+   "consulted": "2026-10-21",
+   "supports": "« Processus réglementaire terminé »; modification réglementaire de décembre 2022 à mars 2023 (échéancier: second projet le 7 février 2023, demandes de référendum du 9 au 17 février, avis public pour la tenue du registre le 28 février 2023), menée à la suite de la loi qui permet aux municipalités d'encadrer la location en résidence principale par leur zonage; zones permises « à jour au 27 avril 2023 »: 7 pour la résidence principale (Ha-599, Ha-611, Ht-413, Ha-607, Ha-620, Ha-609, Ha-720), 11 pour la résidence de tourisme."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/H-1.01",
+   "title": "Loi sur l'hébergement touristique (RLRQ, c. H-1.01)",
+   "publisher": "LegisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Version à jour au 12 août 2026, lue en direct. Article 23: une municipalité peut interdire la location en résidence principale par un règlement de zonage adopté selon une procédure référendaire adaptée."
+  },
+  {
+   "url": "https://vdmt.ca/actualites/nouvelles-municipales/votre-fosse-septique-a-t-elle-ete-vidangee",
+   "title": "Votre fosse septique a-t-elle été vidangée?",
+   "publisher": "Ville de Mont-Tremblant",
+   "consulted": "2026-10-21",
+   "supports": "Actualité du 27 août 2026: avis de rappel et lettres de suivi en septembre sur la vidange; copie de la facture à transmettre au Service de l'urbanisme."
+  },
+  {
+   "url": "https://vsadm.ca/citoyens/reglementation/fosses-septiques/",
+   "title": "Fosses septiques",
+   "publisher": "Ville de Sainte-Agathe-des-Monts",
+   "consulted": "2026-10-21",
+   "supports": "Suivi des vidanges depuis 2009 (règlements 2009-M-163 et 2018-M-262); preuve de vidange à transmettre à la Ville avant le 30 septembre de l'année où elle doit être faite."
+  },
+  {
+   "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/lois_reglements/2023F/79014.pdf",
+   "title": "Règlement sur les dispenses de prospectus et d'inscription dans le secteur immobilier, Gazette officielle du Québec, partie 2, 8 mars 2023",
+   "publisher": "Éditeur officiel du Québec (règlement de l'Autorité des marchés financiers approuvé par le ministre des Finances)",
+   "consulted": "2026-10-21",
+   "supports": "Article 1: placement d'un « contrat d'investissement qui comprend un droit réel dans un immeuble ainsi qu'une entente de gestion locative »; article 3: dispense de prospectus si l'émetteur transmet le document d'offre avant d'accepter l'engagement et, pour un projet en opération, des états du revenu net audités; article 18 (section VII, Revente): « Le prospectus n'est pas exigé à l'occasion du placement d'un contrat d'investissement [...] effectué par un porteur auprès d'un acquéreur si le porteur a notifié, préalablement à la revente, la personne qui a la direction de l'affaire »; article 19, 2e alinéa: si la notification a lieu après le début de l'affaire, cette personne « doit remettre à l'acquéreur le document d'offre dans le secteur immobilier, le document de la revente [...] ainsi que l'état du revenu net audité de l'affaire disponible pour les deux derniers exercices »; article 25: entrée en vigueur à la publication. Relu par le vérificateur le 2026-10-21 (pdftotext)."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/V-1.1,%20r.%2045.1",
+   "title": "V-1.1, r. 45.1 - Règlement sur les dispenses de prospectus et d'inscription dans le secteur immobilier",
+   "publisher": "LegisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Confirme que le règlement est codifié au chapitre V-1.1, r. 45.1, page « À jour au 1er juillet 2026 ». Le texte codifié n'est pas affiché: la page renvoie au site de l'Autorité des marchés financiers, que curl ne lit pas. Les modifications postérieures au 8 mars 2023 n'ont donc pas pu être vérifiées."
+  },
+  {
+   "url": "https://vdmt.ca/actualites/finance/nouveau-role-devaluation-fonciere-des-valeurs-foncieres-ajustees-au-marche-immobilier",
+   "title": "Nouveau rôle d'évaluation foncière : des valeurs foncières ajustées au marché immobilier",
+   "publisher": "Ville de Mont-Tremblant",
+   "consulted": "2026-10-21",
+   "supports": "Actualité du 10 décembre 2025: rôle triennal préparé par la MRC, déposé le 8 octobre 2025, en vigueur le 1er janvier 2026, date de référence du 1er juillet 2024."
+  },
+  {
+   "url": "https://vdmt.ca/actualites/finance/conclusion-du-processus-budgetaire-2026-un-equilibre-entre-equite-et-responsabilite",
+   "title": "Conclusion du processus budgétaire 2026 : un équilibre entre équité et responsabilité",
+   "publisher": "Ville de Mont-Tremblant",
+   "consulted": "2026-10-21",
+   "supports": "Actualité du 14 avril 2026: hausse moyenne de 37,9 % de l'évaluation des immeubles résidentiels; taux résidentiel abaissé de 0,577 $ à 0,4283 $ par 100 $."
+  },
+  {
+   "url": "https://vdmt.ca/storage/app/media/informations-municipales/administration-et-finances/reglements-municipaux/2026/Reglement_-2026-240_taxes_2026.pdf",
+   "title": "Règlement (2026)-240 établissant les taux de taxation et de tarification de certains services municipaux pour l'année 2026",
+   "publisher": "Ville de Mont-Tremblant",
+   "consulted": "2026-10-21",
+   "supports": "Taxe foncière générale 2026: catégorie résiduelle 0,325381 $ par 100 $; sous-catégorie des résidences de tourisme (CUBF 5834) 0,609066 $. En vigueur le 11 février 2026."
+  },
+  {
+   "url": "https://vdmt.ca/storage/app/media/informations-municipales/administration-et-finances/reglements-municipaux/2026/Reglement-2026-A-89_taxes-2026.pdf",
+   "title": "Règlement (2026)-A-89 établissant les taux de taxes pour l'année 2026 (conseil d'agglomération)",
+   "publisher": "Ville de Mont-Tremblant",
+   "consulted": "2026-10-21",
+   "supports": "Catégorie résiduelle 0,102924 $ par 100 $; résidences de tourisme (CUBF 5834) 0,223482 $. Additionnés au règlement (2026)-240: 0,428305 $ (concorde avec le taux résidentiel de 0,4283 $ annoncé) et 0,832548 $; exemple de 500 000 $: 2 142 $ et 4 163 $ (calcul de l'article)."
+  },
+  {
+   "url": "https://vdmt.ca/informations-municipales/administration-et-finances/taxes-et-droits-de-mutation",
+   "title": "Taxes et droits de mutation",
+   "publisher": "Ville de Mont-Tremblant",
+   "consulted": "2026-10-21",
+   "supports": "Taux 2026: 0,5 %, 1 %, 1,5 %, puis 2 % de 500 000 $ à 750 000 $ et 3 % au-delà de 750 000 $; facteur comparatif 1,00. Exemple de 600 000 $: 7 610,50 $ (calcul de l'article)."
+  },
+  {
+   "url": "https://vsadm.ca/citoyens/evaluation-taxes-tresorerie/",
+   "title": "Évaluation, taxes et trésorerie",
+   "publisher": "Ville de Sainte-Agathe-des-Monts",
+   "consulted": "2026-10-21",
+   "supports": "Rôle 2025-2026-2027 établi selon le marché au 1er juillet 2023; deux hausses moyennes pour le résidentiel sur la même page (60 % et 54 %); droits de mutation à 3 % sur ce qui excède 500 000 $ (seuils de 62 900 $ et 315 000 $). Exemple de 600 000 $: 8 610,50 $ (calcul de l'article)."
+  },
+  {
+   "url": "https://vsadm.ca/wp-content/uploads/2024/12/2023-M-370_Reglement_mutations_MAJ.pdf",
+   "title": "Règlement numéro 2023-M-370 concernant les droits sur les mutations immobilières (mise à jour administrative, janvier 2025)",
+   "publisher": "Ville de Sainte-Agathe-des-Monts",
+   "consulted": "2026-10-21",
+   "supports": "Article 2: « La Ville perçoit un droit de 3 % sur la tranche de la base d'imposition qui excède 500 000 $ lors du transfert de tout immeuble situé sur son territoire. » Appuie le taux de Sainte-Agathe-des-Monts, la page de la Ville ne datant pas sa grille."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.2&GeographyId=24&GeographyTypeId=2&DisplayAs=Table&GeograghyName=Qu%C3%A9bec",
+   "title": "Taux d'inoccupation, selon le nombre de chambres, Régions métropolitaines, agglomérations de recensement et villes, Québec (octobre 2025)",
+   "publisher": "SCHL (Enquête sur les logements locatifs)",
+   "consulted": "2026-10-21",
+   "supports": "Sainte-Agathe-des-Monts: taux total de 1,4 % (cote a) en octobre 2025; Mont-Tremblant V: taux total non publié."
+  }
+ ],
+ "claims_needing_review": [
+  "Copropriété hôtelière: l'article cite le champ d'application du Règlement sur les dispenses de prospectus et d'inscription dans le secteur immobilier (RLRQ, c. V-1.1, r. 45.1) et les obligations de revente de ses articles 18 et 19, puis renvoie à l'avocat ou au notaire. Il ne tranche pas si une unité donnée, avec son programme de location, est un « contrat d'investissement » visé: c'est l'objet du « Si l'unité relève de ce régime ». Texte lu dans la Gazette officielle du 8 mars 2023; LegisQuébec confirme le chapitre (à jour au 1er juillet 2026) mais renvoie au site de l'AMF pour le texte codifié, que curl ne lit pas: modifications postérieures non vérifiées.",
+  "Sainte-Agathe-des-Monts: la liste des zones permises pour la location court terme est datée du 27 avril 2023 sur la page de la Ville. Aucune confirmation pour 2026; l'article demande d'obtenir la zone par écrit.",
+  "RCI 408-2024 de la MRC: l'article résume l'article 17 (densité maximale en cas de construction, d'agrandissement ou de nouvel usage) sans trancher si la conversion d'un chalet existant en résidence de tourisme est une « utilisation du sol » visée. À faire confirmer par la MRC ou la municipalité.",
+  "Taxe des résidences de tourisme à Mont-Tremblant: les taux additionnés (0,428305 $ et 0,832548 $) et l'exemple de 500 000 $ sont un calcul de l'article à partir des règlements (2026)-240 et (2026)-A-89; le classement d'une unité dans la sous-catégorie CUBF 5834 relève de l'évaluateur, et une unité mixte peut être répartie entre catégories."
+ ]
+}

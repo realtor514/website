@@ -1,0 +1,245 @@
+{
+ "id": "t266",
+ "slug": "marche-immobilier-repentigny-l-assomption",
+ "title": "Marché immobilier à Repentigny et L'Assomption: 3e trimestre 2026",
+ "target_keyword": "marche immobilier repentigny",
+ "word_count": 1797,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/acheter-zone-inondable-quebec/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/loi-16-copropriete-acheteur-quebec/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/articles/contester-evaluation-municipale-quebec/",
+  "/courtier-immobilier/repentigny/",
+  "/tools/welcome-tax/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-repentigny",
+   "title": "Repentigny (Repentigny), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Population 64 412 (recensement 2021). Total résidentiel T3 2026: 174 ventes (-5 %), cumul 4 trimestres 819 (-2 %). Unifamiliale T3: 122 ventes (0 %), 134 inscriptions en vigueur (+32 %), prix médian 598 000 $ (0 %), 34 jours (+12); 4 trimestres: 562 ventes (-1 %), 595 750 $ (+3 %), 28 jours (-9). Copropriété T3: 49 ventes (-14 %), 82 inscriptions (+51 %), 320 000 $ (-15 %), 59 jours (+24); 4 trimestres: 241 (-5 %), 336 625 $ (-2 %), 47 jours (+2), 82 inscriptions (+49 %). Inscriptions en vigueur totales +39 %. Plex: 3 ventes, 16 sur 4 trimestres, prix non publié (**). Notes de la page: variations par rapport au même trimestre de l'année précédente, sens de **. Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au JSON state/marche_T3_2026/centris_lanaudiere.json. Page rouverte en curl par le vérificateur le 2026-10-21: identique chiffre à chiffre."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-le-gardeur",
+   "title": "Repentigny (Le Gardeur), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Population 21 688 (recensement 2021). Total: inscriptions en vigueur +93 %. Unifamiliale T3: 34 ventes (-17 %), 34 inscriptions (+61 %), 580 000 $ (0 %), 35 jours (+10); 4 trimestres: 175 ventes (-7 %), 564 000 $ (+6 %), 26 jours (-10). Copropriété T3: 16 ventes, prix, délai et variation non publiés (**); 4 trimestres: 64 ventes (+6 %), 341 750 $ (+3 %), 30 jours (+5), 21 inscriptions. Plex: 5 ventes, 13 sur 4 trimestres. Identique au JSON. Page rouverte en curl par le vérificateur le 2026-10-21: identique chiffre à chiffre."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/l-assomption",
+   "title": "L'Assomption, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Total: inscriptions en vigueur +50 %. Unifamiliale T3: 40 ventes (-16 %), 79 inscriptions (+75 %), 594 500 $ (+5 %), 39 jours (-5); 4 trimestres: 208 ventes (-13 %), 571 475 $ (+10 %), 34 jours (-9). Copropriété T3: 10 ventes, prix non publié (**); 4 trimestres: 48 ventes (-31 %), 383 687 $ (+5 %), 51 jours (+17), 16 inscriptions. Plex: 1 vente, 16 sur 4 trimestres. Identique au JSON. Page rouverte en curl par le vérificateur le 2026-10-21: identique chiffre à chiffre."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/charlemagne",
+   "title": "Charlemagne, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Unifamiliale T3: 5 ventes, prix non publié; 4 trimestres: 22 ventes, prix et délai non publiés (**). Copropriété T3: 9 ventes, prix non publié; 4 trimestres: 48 ventes (-9 %), 367 250 $ (0 %), 51 jours (+13), 14 inscriptions. Plex: 0 vente, 8 sur 4 trimestres. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/l-epiphanie",
+   "title": "L'Épiphanie, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Unifamiliale T3: 28 ventes, prix non publié (**); 4 trimestres: 86 ventes (-12 %), 489 700 $ (+1 %), 39 jours (-13). Plex: 0 vente, 11 sur 4 trimestres. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-sulpice",
+   "title": "Saint-Sulpice, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Unifamiliale T3: 7 ventes, prix non publié (**); 4 trimestres: 35 ventes (-2 %), 551 687 $ (+15 %), 38 jours (-20). Plex: 1 vente, 2 sur 4 trimestres. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere",
+   "title": "Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Lignes « Lanaudière » des tableaux et du contexte régional: total 1 628 ventes (-10 %); unifamiliale 1 292 ventes (-10 %), 518 250 $ (+4 %), 43 jours (+3), 2 312 inscriptions (+22 %); copropriété 265 ventes (0 %), 363 000 $ (0 %), 52 jours (+12), 392 inscriptions (+30 %). Écarts de 61 750 $ à 79 750 $ et de 43 000 $ calculés à partir de ces médianes et de celles des pages de secteur. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/mascouche",
+   "title": "Mascouche, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Rang du secteur Repentigny: Mascouche, 168 ventes au T3 et 795 sur 4 trimestres, deuxième derrière Repentigny (Repentigny), 174 et 819, dans les deux colonnes. Classement établi sur les 67 territoires du JSON centris_lanaudiere.json (recalculé par le vérificateur le 2026-10-21), puis vérifié en direct sur les pages des quatre premiers."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne",
+   "title": "Terrebonne (Terrebonne), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Nuance sur le rang: 713 ventes sur 4 trimestres; avec Lachenaie (422) et La Plaine (344), les trois territoires de Terrebonne totalisent 1 479 ventes, plus que le secteur Repentigny (819)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie",
+   "title": "Terrebonne (Lachenaie), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "422 ventes sur 4 trimestres (nuance sur le rang du secteur Repentigny)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine",
+   "title": "Terrebonne (La Plaine), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "344 ventes sur 4 trimestres (nuance sur le rang du secteur Repentigny)."
+  },
+  {
+   "url": "https://www.mrclassomption.qc.ca/administration/territoire",
+   "title": "Territoire, MRC de L'Assomption",
+   "publisher": "MRC de L'Assomption",
+   "consulted": "2026-10-21",
+   "supports": "Composition de la MRC: « elle est composée de cinq municipalités : Charlemagne, L’Assomption, L’Épiphanie, Repentigny et Saint-Sulpice »."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Page 6: secteur 31 Repentigny (Le Gardeur, Charlemagne, Repentigny), secteur 32 Est de la Rive-Nord (L'Assomption, Lavaltrie, Saint-Sulpice, L'Épiphanie, Saint-Roch-de-l'Achigan). Page 41, tableau 3: mois d'inventaire de l'unifamiliale sur 12 mois de 2,0 à 5,7, toutes gammes « Vendeur ». Page 42, tableau 3: gammes sous 790 000 $ de 2,6 à 4,5 mois (4,4; 2,6; 2,8; 4,5), toutes « Vendeur »; 8,5 mois et « Équilibré » à 790 000 $ et plus. Page 65: définitions (équilibre de 8 à 10 mois). PDF téléchargé et lu par pdftotext le 2026-10-21, relu par le vérificateur le même jour (pages 6, 41 et 42)."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L’immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l’avantage des vendeurs",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "RMR de Montréal, T3 2026: 20 350 propriétés inscrites, « en hausse de 17 % depuis un an »."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+   "title": "Taux directeur",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Taux directeur de 2,25 % au 21 octobre 2026 (dernière décision le 2 septembre 2026); prochaine annonce le 28 octobre 2026 au calendrier."
+  },
+  {
+   "url": "https://cmm.qc.ca/nouvelles/zones-inondables-et-crues-printanieres-petit-guide-pratique/",
+   "title": "Zones inondables et crues printanières : petit guide pratique",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-21",
+   "supports": "Cartes de nouvelle génération pour 14 plans d'eau, dont le fleuve Saint-Laurent et la rivière L'Assomption; récurrence 350 ans et crues de 2017, 2019 et 2023; les cartes d'ancienne génération « conservent leur pleine validité jusqu’à ce qu’elles soient officiellement remplacées »."
+  },
+  {
+   "url": "https://cmm.qc.ca/communiques/nouvelle-cartographie-des-zones-inondables-la-cmm-demande-au-gouvernement-du-quebec-de-maintenir-la-mise-en-vigueur-le-1er-aout/",
+   "title": "Nouvelle cartographie des zones inondables : La CMM demande au gouvernement du Québec de maintenir la mise en vigueur le 1er août",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 30 juillet 2026: la CMM demande au MELCCFP « de revenir sur sa décision de retarder, à une date indéterminée, la publication du premier lot », dont la mise en vigueur était prévue le 1er août 2026; « Le premier lot de cartes couvre les secteurs situés aux abords de la rivière des Mille Îles, de la rivière des Prairies, du lac des Deux Montagnes, du lac Saint-Louis, du fleuve Saint-Laurent, de la rivière Saint-Régis et de la rivière Saint-Pierre » (la rivière L'Assomption n'y est pas nommée); cartes préliminaires « rendues publiques en septembre 2024 ». La liste des communiqués de la CMM (https://cmm.qc.ca/communiques/), relue le 2026-10-21, ne contient rien de plus récent sur ce sujet (derniers: 7, 13 et 14 octobre 2026)."
+  },
+  {
+   "url": "https://cmm.qc.ca/projets/resilience-aux-inondations/",
+   "title": "Résilience aux inondations",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-21",
+   "supports": "« l’ajout d’une superficie importante de territoire déjà urbanisé et de plusieurs bâtiments auparavant non considérés à risque »."
+  },
+  {
+   "url": "https://www.ville.lassomption.qc.ca/un-nouvel-outil-de-sensibilisation-aux-risques-dinondations-pour-la-ville-de-lassomption/",
+   "title": "Un nouvel outil de sensibilisation aux risques d’inondations pour la Ville de L’Assomption",
+   "publisher": "Ville de L'Assomption",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 12 novembre 2020: « La Ville de L’Assomption lance une nouvelle carte interactive »; « Le cœur de la Ville de L’Assomption est encerclé par la rivière »; « près de 300 domiciles » en zone de faible et de grand courant; ville « traversée par la rivière L’Assomption du nord au sud »; « La dernière inondation majeure remonte à 1976, due à la formation d’un embâcle en aval du pont de la route 341 »."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur",
+   "title": "Cartographies des zones inondables et des zones de mobilité d’un cours d’eau en vigueur",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-10-21",
+   "supports": "La carte interactive donne une idée générale; « Pour des précisions, communiquez avec votre municipalité ou votre MRC. » Page mise à jour le 28 août 2026, lue en curl."
+  },
+  {
+   "url": "https://repentigny.ca/la-ville/a-propos/avantia",
+   "title": "Avantia | Ville de Repentigny",
+   "publisher": "Ville de Repentigny",
+   "consulted": "2026-10-21",
+   "supports": "Secteur « situé entre les boulevards Brien et Industriel, le long de l'autoroute 40 »; « 6 millions de pieds carrés » accueillant « progressivement » logements, commerces et espaces verts; « terminus exo et futur tramway de l'Est », « Un terminus d'autobus et futur tramway au cœur du secteur »; « transformera progressivement un secteur industriel vieillissant »; territoire « développé à près de 99 % »; « Aucune expropriation n’est prévue »; « La transformation d’un quartier est une démarche qui se fait en près de 20 ans »; aucune date de construction sur la page. Page relue en curl le 2026-10-21 (https://repentigny.ca/avantia sert le même contenu)."
+  },
+  {
+   "url": "https://repentigny.ca/sites/default/files/2025-08/ville_repentigny_reglement_437_plan_urbanisme_PPU_Avantia_2025-08.pdf",
+   "title": "Plan particulier d'urbanisme, Quartier Avantia (règlement 437, plan d'urbanisme, août 2025)",
+   "publisher": "Ville de Repentigny",
+   "consulted": "2026-10-21",
+   "supports": "Page 5: secteur « Situé au sud de l'autoroute 40 et encadré par des axes majeurs ». Page 6: « Située sur la rive nord du fleuve Saint-Laurent, Repentigny fait partie de la MRC de l'Assomption ». Page 68, stratégie réglementaire: aire d'affectation « Mixte urbaine (MX) », « Densité Minimum 40 logements à l'hectare » (l'article écrit « prévoit », la date d'entrée en vigueur du règlement n'ayant pas été trouvée). PDF de 70 pages créé le 23 juillet 2025, relu le 2026-10-21."
+  },
+  {
+   "url": "https://www.artm.quebec/grands-projets/projets-dinfrastructure/projet-structurant-de-lest/",
+   "title": "Projet structurant de l'Est (PSE)",
+   "publisher": "ARTM",
+   "consulted": "2026-10-21",
+   "supports": "« l’ARTM propose l’implantation d’un système sur rail (de type tramway) [...] est-ouest : de Repentigny à la ligne verte du métro, dans les axes de l’autoroute 40 et de la rue Sherbrooke Est »; 38 km et 31 stations; dernier jalon de la page: « Mai 2024 : l’ARTM présente son rapport d’analyse complémentaire »; aucune date de mise en service. Relue le 2026-10-21."
+  },
+  {
+   "url": "https://www.artm.quebec/wp-content/uploads/2026/06/pg-pdi-2026-2035-artm-r00-2025-10-30-version-signee.pdf",
+   "title": "Programme des immobilisations 2026-2035",
+   "publisher": "ARTM",
+   "consulted": "2026-10-21",
+   "supports": "Version signée datée du 30 octobre 2025 (nom du fichier): mandat des étapes préalables à l'ARTM « avant son transfert à Mobilité Infra Québec prévu durant l’année 2026 »; « Ultimement, le projet PSE sera transféré à Mobilité Infra Québec (MIQ) durant l'année 2026 »; aucun échéancier de mise en service. Le statut de ce transfert au 21 octobre 2026 n'est confirmé par aucune source officielle trouvée: l'article écrit « prévoyait »."
+  },
+  {
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/projet-structurant-de-lest-un-premier-mandat-pour-mobilite-infra-quebec-61403",
+   "title": "Projet structurant de l'est - Un premier mandat pour Mobilité Infra Québec",
+   "publisher": "Gouvernement du Québec (Cabinet de la ministre des Transports et de la Mobilité durable)",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 5 mars 2025: « le projet structurant de l'est (PSE) sera le premier à être confié à Mobilité Infra Québec (MIQ), lors de sa mise sur pied »; « En attendant que Mobilité Infra Québec (MIQ) soit pleinement opérationnelle, l'Autorité régionale de transport métropolitain (ARTM) sera chargée de lancer les premières étapes du projet ». Remplace la mention « février 2025 » du programme d'immobilisations de l'ARTM: la source gouvernementale date l'annonce du 5 mars 2025."
+  },
+  {
+   "url": "https://repentigny.ca/sites/default/files/2025-12/ville_repentigny_budget_2026.pdf",
+   "title": "Budget 2026",
+   "publisher": "Ville de Repentigny",
+   "consulted": "2026-10-21",
+   "supports": "« Valeur moyenne d'une propriété unifamiliale à Repentigny : 500 000 $ »; « Taxes annuelles 2025 : 3 437 $ 2026 : 3 557 $ », « Variation de 3,49 % » (consommation d'eau exclue du calcul). Relu le 2026-10-21."
+  },
+  {
+   "url": "https://fichiers.exo.quebec/pdf/lignes/train/TRAINS/MA/exo15-20251222_20271231.pdf",
+   "title": "Ligne Mascouche, Horaire en vigueur à compter du 12 janvier 2026",
+   "publisher": "exo",
+   "consulted": "2026-10-21",
+   "supports": "Gare Repentigny, direction Montréal, du lundi au vendredi: départs à 5 h 54, 6 h 31, 7 h 04, 7 h 44, 8 h 44, 13 h 45, 17 h 30 et 20 h 33 (huit, dont cinq entre 5 h 54 et 8 h 44); premier train à Ahuntsic à 6 h 31 (37 minutes); « Aucun service offert les fins de semaine et jours fériés ». Lu avec pdftotext -table, colonnes alignées sur les gares."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=1.1.1.9&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al&Ytd=true",
+   "title": "Montréal - Mises en chantier, selon le type de logements par subdivision de recensement",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Janvier à septembre 2026: Charlemagne 10, L'Assomption 38, L'Épiphanie 61, Repentigny 129, Saint-Sulpice 10 (total 248). Janvier à septembre 2025 (même URL avec &ForTimePeriod.Year=2025&ForTimePeriod.Month=9): Charlemagne 748, L'Assomption 137, L'Épiphanie 96, Repentigny 167, Saint-Sulpice 152 (total 1 300). Les totaux sont des additions de nombres de logements, pas de prix. Relu le 2026-10-21: lignes identiques (Charlemagne 0, 0, 0, 10, 10 en 2026 et 0, 0, 0, 748, 748 en 2025)."
+  },
+  {
+   "url": "https://repentigny.ca/services/citoyens/maison-logement/achat-vente-propriete",
+   "title": "Achat et vente d'une propriété | Ville de Repentigny",
+   "publisher": "Ville de Repentigny",
+   "consulted": "2026-10-21",
+   "supports": "Taux 2026: 3 % pour la tranche excédant 500 000 $; exemple de 550 000 $ à 7 110,50 $; « payable en un seul versement exigible, par la municipalité, dans les 30 jours suivant la facturation »; base = le plus élevé du prix de vente ou de la valeur uniformisée; nouveaux acquéreurs ne reçoivent pas le compte annuel « à moins qu’ils n’en fassent la demande »; infrastructures en cours ou à venir pas encore facturées dans certains secteurs en développement."
+  },
+  {
+   "url": "https://www.ville.lassomption.qc.ca/droits-mutation/",
+   "title": "Droits de mutation - Ville de L'Assomption",
+   "publisher": "Ville de L'Assomption",
+   "consulted": "2026-10-21",
+   "supports": "Depuis le 1er janvier 2026, l'excédent de 500 000 $ est calculé à 3 %; « Le facteur comparatif est de 1.08 pour 2026 »."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-15.1",
+   "title": "Loi concernant les droits sur les mutations immobilières (RLRQ, c. D-15.1)",
+   "publisher": "LegisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Article 2, troisième alinéa: une municipalité peut fixer un taux supérieur sur la tranche qui excède 500 000 $, qui ne peut, sauf dans le cas de la Ville de Montréal, excéder 3 %. Lu en direct."
+  },
+  {
+   "url": "https://www.ville.lassomption.qc.ca/images/clients/document_explicatif_role_evaluation_nov2024.pdf",
+   "title": "Document explicatif, Rôle d'évaluation 2025-2026-2027",
+   "publisher": "Ville de L'Assomption",
+   "consulted": "2026-10-21",
+   "supports": "Unifamiliales: valeur moyenne 291 337 $ en 2024, 460 605 $ au rôle 2025-2026-2027, variation moyenne 58,10 %; valeur établie le 1er juillet 2023. Page « Rôle d'évaluation » (https://www.ville.lassomption.qc.ca/role-evaluation/) lue aussi: rôle déposé en septembre 2024, couvrant 2025, 2026 et 2027."
+  }
+ ],
+ "claims_needing_review": []
+}

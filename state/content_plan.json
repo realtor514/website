@@ -10376,7 +10376,9 @@
     "REGION laurentides",
     "et les territoires du fichier"
    ],
-   "status": "in_progress"
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-laurentides-secteurs.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t257",
@@ -10410,7 +10412,9 @@
     "bois-des-filion",
     "sainte-anne-des-plaines"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-blainville-sainte-therese-boisbriand.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t258",
@@ -10445,7 +10449,9 @@
     "oka",
     "saint-placide"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-saint-eustache-deux-montagnes.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t259",
@@ -10474,7 +10480,9 @@
    "quartiers_centris": [
     "mirabel"
    ],
-   "status": "in_progress"
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-mirabel.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t260",
@@ -10506,7 +10514,9 @@
     "sainte-sophie",
     "saint-hippolyte"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-saint-jerome-riviere-du-nord.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t261",
@@ -10544,7 +10554,9 @@
     "esterel",
     "lac-des-seize-iles"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-pays-d-en-haut-saint-sauveur.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t262",
@@ -10593,7 +10605,9 @@
     "val-des-lacs",
     "lac-superieur"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-mont-tremblant-sainte-agathe.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t263",
@@ -10623,7 +10637,9 @@
     "REGION lanaudiere",
     "et les territoires du fichier"
    ],
-   "status": "in_progress"
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-lanaudiere-secteurs.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t264",
@@ -10653,7 +10669,9 @@
     "terrebonne-lachenaie",
     "terrebonne-la-plaine"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-terrebonne-lachenaie-la-plaine.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t265",
@@ -10681,7 +10699,9 @@
    "quartiers_centris": [
     "mascouche"
    ],
-   "status": "in_progress"
+   "status": "written_draft_review",
+   "published_path": "content/fr/articles/marche-immobilier-mascouche.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t266",
@@ -10714,7 +10734,9 @@
     "l-epiphanie",
     "saint-sulpice"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-repentigny-l-assomption.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t267",
@@ -10750,7 +10772,9 @@
     "saint-liguori",
     "saint-roch-ouest"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-saint-lin-sainte-julienne-montcalm.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t268",
@@ -10801,7 +10825,9 @@
     "saint-cleophas-de-brandon",
     "saint-norbert"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-joliette-lavaltrie.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t269",
@@ -10843,7 +10869,9 @@
     "sainte-emelie-de-l-energie",
     "saint-felix-de-valois"
    ],
-   "status": "in_progress"
+   "status": "written_draft",
+   "published_path": "content/fr/articles/marche-immobilier-rawdon-saint-donat-matawinie.md",
+   "date": "2026-10-21"
   },
   {
    "id": "t284",

@@ -1,0 +1,356 @@
+{
+ "id": "t263",
+ "slug": "marche-immobilier-lanaudiere-secteurs",
+ "title": "Marché immobilier dans Lanaudière par secteur: 3e trimestre 2026",
+ "target_keyword": "marché immobilier Lanaudière",
+ "word_count": 1898,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/location-court-terme-quebec-regles/",
+  "/tools/welcome-tax/",
+  "/articles/acheter-zone-inondable-quebec/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/articles/rive-nord-guide-laval/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere",
+   "title": "Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Region, 3e trimestre 2026 (page lue en direct, identique au fichier state): 1 628 ventes (-10 %), 2 864 nouvelles inscriptions (+10 %), 2 958 inscriptions en vigueur (+22 %), 7 430 ventes sur 4 trimestres (-6 %); unifamiliale 1 292 ventes (-10 %), 2 312 en vigueur (+22 %), mediane 518 250 $ (+4 %), 519 312 $ sur 4 trimestres (+6 %), 43 jours (+3), 41 sur 4 trimestres; copropriete 265 (0 %), 392 en vigueur (+30 %), 363 000 $ (0 %), 52 jours (+12); plex 61 (-42 %), 206 en vigueur (+13 %), 670 000 $ (+11 %), 35 jours (-15). Notes de la page: variations par rapport au meme trimestre de l annee precedente; le total residentiel inclut les fermettes; ** = nombre de transactions insuffisant pour produire une statistique fiable. Somme des 67 territoires egale au total regional (verifie). Sommes de nombres de ventes (jamais de prix) tirees des pages de territoire, T3: Terrebonne (3 territoires), Repentigny (2), Mascouche, L Assomption, Charlemagne, L Epiphanie et Saint-Sulpice = 235 des 265 coproprietes et 27 des 61 plex vendus. Pages region, Chertsey, Sainte-Julienne, La Plaine, Saint-Donat et Le Gardeur relues en direct par le verificateur le 2026-10-21: identiques au fichier state."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-repentigny",
+   "title": "Repentigny (Repentigny), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 819 ventes sur 4 trimestres, 174 au T3 (-5 %); unifamiliale: mediane T3 598 000 $ (0 %), mediane 4 trimestres 595 750 $ (3 %), jours T3 34, 4 trimestres 28; inscriptions d unifamiliales en vigueur 134 (32 %); copropriete 49 ventes T3 (-14 %), mediane T3 320 000 $; plex 3 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/mascouche",
+   "title": "Mascouche, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 795 ventes sur 4 trimestres, 168 au T3 (5 %); unifamiliale: mediane T3 600 000 $ (3 %), mediane 4 trimestres 610 750 $ (7 %), jours T3 25, 4 trimestres 24; inscriptions d unifamiliales en vigueur 111 (35 %); copropriete 60 ventes T3 (25 %), mediane T3 387 500 $; plex 4 ventes T3, mediane 4 trimestres 828 237 $."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne",
+   "title": "Terrebonne (Terrebonne), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 713 ventes sur 4 trimestres, 160 au T3 (-16 %); unifamiliale: mediane T3 632 500 $ (5 %), mediane 4 trimestres 615 437 $ (6 %), jours T3 37, 4 trimestres 30; inscriptions d unifamiliales en vigueur 138 (28 %); copropriete 42 ventes T3 (16 %), mediane T3 442 000 $; plex 11 ventes T3, mediane 4 trimestres 754 640 $."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie",
+   "title": "Terrebonne (Lachenaie), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 422 ventes sur 4 trimestres, 90 au T3 (-14 %); unifamiliale: mediane T3 695 000 $ (4 %), mediane 4 trimestres 670 725 $ (4 %), jours T3 34, 4 trimestres 34; inscriptions d unifamiliales en vigueur 66 (13 %); copropriete 27 ventes T3 (**), mediane T3 **; plex 0 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-lin-laurentides",
+   "title": "Saint-Lin/Laurentides, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 399 ventes sur 4 trimestres, 74 au T3 (-20 %); unifamiliale: mediane T3 495 000 $ (7 %), mediane 4 trimestres 480 000 $ (2 %), jours T3 40, 4 trimestres 36; inscriptions d unifamiliales en vigueur 78 (27 %); copropriete 2 ventes T3 (**), mediane T3 **; plex 1 ventes T3, mediane 4 trimestres 591 000 $."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine",
+   "title": "Terrebonne (La Plaine), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 344 ventes sur 4 trimestres, 69 au T3 (9 %); unifamiliale: mediane T3 520 000 $ (3 %), mediane 4 trimestres 519 062 $ (7 %), jours T3 31, 4 trimestres 27; inscriptions d unifamiliales en vigueur 74 (94 %); copropriete 11 ventes T3 (**), mediane T3 **; plex 2 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/l-assomption",
+   "title": "L'Assomption, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 273 ventes sur 4 trimestres, 51 au T3 (-25 %); unifamiliale: mediane T3 594 500 $ (5 %), mediane 4 trimestres 571 475 $ (10 %), jours T3 39, 4 trimestres 34; inscriptions d unifamiliales en vigueur 79 (75 %); copropriete 10 ventes T3 (**), mediane T3 **; plex 1 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-julienne",
+   "title": "Sainte-Julienne, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 256 ventes sur 4 trimestres, 67 au T3 (31 %); unifamiliale: mediane T3 440 700 $ (7 %), mediane 4 trimestres 440 787 $ (3 %), jours T3 81, 4 trimestres 46; inscriptions d unifamiliales en vigueur 101 (27 %); copropriete 1 ventes T3 (**), mediane T3 **; plex 1 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-le-gardeur",
+   "title": "Repentigny (Le Gardeur), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 252 ventes sur 4 trimestres, 55 au T3 (-6 %); unifamiliale: mediane T3 580 000 $ (0 %), mediane 4 trimestres 564 000 $ (6 %), jours T3 35, 4 trimestres 26; inscriptions d unifamiliales en vigueur 34 (61 %); copropriete 16 ventes T3 (**), mediane T3 **; plex 5 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/lavaltrie",
+   "title": "Lavaltrie, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 221 ventes sur 4 trimestres, 59 au T3 (31 %); unifamiliale: mediane T3 490 000 $ (2 %), mediane 4 trimestres 489 437 $ (7 %), jours T3 30, 4 trimestres 32; inscriptions d unifamiliales en vigueur 56 (47 %); copropriete 6 ventes T3 (**), mediane T3 **; plex 2 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/joliette",
+   "title": "Joliette, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 208 ventes sur 4 trimestres, 43 au T3 (2 %); unifamiliale: mediane T3 ** (**), mediane 4 trimestres 449 250 $ (6 %), jours T3 **, 4 trimestres 26; inscriptions d unifamiliales en vigueur 34 (88 %); copropriete 8 ventes T3 (**), mediane T3 **; plex 6 ventes T3, mediane 4 trimestres 510 084 $."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/rawdon",
+   "title": "Rawdon, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 207 ventes sur 4 trimestres, 53 au T3 (-3 %); unifamiliale: mediane T3 404 450 $ (4 %), mediane 4 trimestres 421 307 $ (3 %), jours T3 38, 4 trimestres 51; inscriptions d unifamiliales en vigueur 97 (29 %); copropriete 2 ventes T3 (**), mediane T3 **; plex 5 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-calixte",
+   "title": "Saint-Calixte, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 175 ventes sur 4 trimestres, 33 au T3 (-36 %); unifamiliale: mediane T3 322 500 $ (0 %), mediane 4 trimestres 332 687 $ (0 %), jours T3 46, 4 trimestres 45; inscriptions d unifamiliales en vigueur 90 (34 %); copropriete 0 ventes T3 (**), mediane T3 **; plex 2 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/chertsey",
+   "title": "Chertsey, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 155 ventes sur 4 trimestres, 30 au T3 (-42 %); unifamiliale: mediane T3 ** (**), mediane 4 trimestres 369 000 $ (10 %), jours T3 **, 4 trimestres 62; inscriptions d unifamiliales en vigueur 100 (-14 %); copropriete 0 ventes T3 (**), mediane T3 **; plex 1 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-donat-lanaudiere",
+   "title": "Saint-Donat (Lanaudière), Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 142 ventes sur 4 trimestres, 39 au T3 (-25 %); unifamiliale: mediane T3 612 500 $ (0 %), mediane 4 trimestres 545 875 $ (-5 %), jours T3 62, 4 trimestres 72; inscriptions d unifamiliales en vigueur 122 (-2 %); copropriete 2 ventes T3 (**), mediane T3 **; plex 0 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/notre-dame-des-prairies",
+   "title": "Notre-Dame-des-Prairies, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 120 ventes sur 4 trimestres, 25 au T3 (**); unifamiliale: mediane T3 ** (**), mediane 4 trimestres 438 625 $ (-2 %), jours T3 **, 4 trimestres 31; inscriptions d unifamiliales en vigueur 23 (**); copropriete 3 ventes T3 (**), mediane T3 **; plex 3 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/l-epiphanie",
+   "title": "L'Épiphanie, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 108 ventes sur 4 trimestres, 34 au T3 (36 %); unifamiliale: mediane T3 ** (**), mediane 4 trimestres 489 700 $ (1 %), jours T3 **, 4 trimestres 39; inscriptions d unifamiliales en vigueur 26 (**); copropriete 5 ventes T3 (**), mediane T3 **; plex 0 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-charles-borromee",
+   "title": "Saint-Charles-Borromée, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 106 ventes sur 4 trimestres, 20 au T3 (**); unifamiliale: mediane T3 ** (**), mediane 4 trimestres 495 862 $ (1 %), jours T3 **, 4 trimestres 45; inscriptions d unifamiliales en vigueur 33 (32 %); copropriete 1 ventes T3 (**), mediane T3 **; plex 2 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/lanoraie",
+   "title": "Lanoraie, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 105 ventes sur 4 trimestres, 20 au T3 (**); unifamiliale: mediane T3 ** (**), mediane 4 trimestres 440 118 $ (1 %), jours T3 **, 4 trimestres 55; inscriptions d unifamiliales en vigueur 48 (14 %); copropriete 0 ventes T3 (**), mediane T3 **; plex 0 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-come",
+   "title": "Saint-Côme, Lanaudière: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tableau des 20 territoires: 98 ventes sur 4 trimestres, 18 au T3 (**); unifamiliale: mediane T3 ** (**), mediane 4 trimestres 496 125 $ (10 %), jours T3 **, 4 trimestres 98; inscriptions d unifamiliales en vigueur 130 (8 %); copropriete 3 ventes T3 (**), mediane T3 **; plex 0 ventes T3, mediane 4 trimestres **."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/bois-des-filion",
+   "title": "Bois-des-Filion, Laurentides: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Centris classe Bois-des-Filion dans la region des Laurentides (titre de la page), alors que le secteur 29 Terrebonne du barometre APCIQ l inclut."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/sainte-anne-des-plaines",
+   "title": "Sainte-Anne-des-Plaines, Laurentides: Statistiques immobilières - Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Centris classe Sainte-Anne-des-Plaines dans la region des Laurentides (titre de la page), alors que le secteur 29 Terrebonne du barometre APCIQ l inclut."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Page 6: definition des secteurs 29 (Bois-des-Filion, Terrebonne, Lachenaie, Sainte-Anne-des-Plaines, La Plaine), 30 (Mascouche), 31 (Le Gardeur, Charlemagne, Repentigny), 32 (L Assomption, Lavaltrie, Saint-Sulpice, L Epiphanie, Saint-Roch-de-l Achigan), 34 (Saint-Lin-Laurentides). Pages 39 a 42 et 44, tableau 3: toutes les gammes de prix de l unifamiliale sont Vendeur, sauf 790 000 $ et plus dans l Est de la Rive-Nord, 8,5 mois, Equilibre (p. 42). Page 40: 104 ventes d unifamiliales a Mascouche (-2 %). Page 65: seuils (moins de 8 mois vendeur, 8 a 10 equilibre) et mise en garde: interpreter avec prudence, en particulier lorsque le nombre de transactions est faible. Couche texte lue avec pdftotext."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-province.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Province de Québec",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Page 15, Agglomeration de Joliette: mois d inventaire de l unifamiliale de 1,0 a 4,6 selon la gamme, toutes Vendeur. Titres des pages 13 a 30: aucune page pour Rawdon, Saint-Donat ou Berthierville; Joliette est la seule agglomeration de Lanaudiere."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/09/fad-communique-2026-09-02/",
+   "title": "La Banque du Canada maintient le taux directeur à 2¼ %",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Taux directeur maintenu a 2,25 % le 2 septembre 2026; prochaine date d etablissement du taux le 28 octobre 2026."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+   "title": "Taux directeur - Banque du Canada",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Au 21 octobre 2026, le tableau Donnees recentes s arrete au 2 septembre 2026 (2,25 %), sans decision posterieure; calendrier 2026: 28 octobre, taux directeur et Rapport sur la politique monetaire."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-15.1",
+   "title": "Loi concernant les droits sur les mutations immobilières (RLRQ, c. D-15.1)",
+   "publisher": "LegisQuebec",
+   "consulted": "2026-10-21",
+   "supports": "Article 2: base d imposition = le plus eleve de la contrepartie fournie, de la contrepartie stipulee et de la valeur marchande; une municipalite peut fixer un taux superieur a 1,5 % sur la tranche qui excede 500 000 $, sans exceder 3 % (sauf Montreal). Article 1.1: valeur marchande d une unite inscrite au role = valeur au role multipliee par le facteur du role etabli selon l article 264 de la Loi sur la fiscalite municipale. Texte a jour au 12 aout 2026, lu en direct."
+  },
+  {
+   "url": "https://terrebonne.ca/taxes/",
+   "title": "Taxes - Ville de Terrebonne",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Droit de mutation 2026: 3 % pour la tranche excedant 500 001 $; facteur comparatif 2026 de 1."
+  },
+  {
+   "url": "https://mascouche.ca/ville/administration/taxes-1",
+   "title": "Taxes | Ville de Mascouche",
+   "publisher": "Ville de Mascouche",
+   "consulted": "2026-10-21",
+   "supports": "Taux du droit de mutation: 3 % sur la tranche qui excede 500 000 $."
+  },
+  {
+   "url": "https://repentigny.ca/services/citoyens/maison-logement/achat-vente-propriete",
+   "title": "Achat et vente d'une propriété | Ville de Repentigny",
+   "publisher": "Ville de Repentigny",
+   "consulted": "2026-10-21",
+   "supports": "Taux 2026: 3 % pour la tranche excedant 500 000 $; exemple de la Ville: 7 110,50 $ pour une maison de 550 000 $."
+  },
+  {
+   "url": "https://www.ville.lassomption.qc.ca/droits-mutation/",
+   "title": "Droits de mutation - Ville de L'Assomption",
+   "publisher": "Ville de L Assomption",
+   "consulted": "2026-10-21",
+   "supports": "Depuis le 1er janvier 2026, l excedent de 500 000,01 $ est calcule a 3 %."
+  },
+  {
+   "url": "https://www.joliette.ca/la-ville/administration-et-finances/taxes-et-evaluation",
+   "title": "Taxes et évaluation | Ville de Joliette",
+   "publisher": "Ville de Joliette",
+   "consulted": "2026-10-21",
+   "supports": "Droit de mutation: 3,0 % sur la tranche excedant 500 000 $."
+  },
+  {
+   "url": "https://www.saint-lin-laurentides.com/decouvrir/administration-et-finances/taxes-et-role-devaluation-fonciere",
+   "title": "Taxes et rôle d'évaluation foncière | Ville de Saint-Lin-Laurentides",
+   "publisher": "Ville de Saint-Lin-Laurentides",
+   "consulted": "2026-10-21",
+   "supports": "Droit de mutation: excedant 500 000 $ au taux de 3,0 %."
+  },
+  {
+   "url": "https://rawdon.ca/fr/municipalite/administration/taxes-et-evaluation-municipale",
+   "title": "Taxes et évaluation municipale | Rawdon",
+   "publisher": "Municipalite de Rawdon",
+   "consulted": "2026-10-21",
+   "supports": "Quatrieme tranche, 500 000,01 $ et plus, a 3 %; facteur comparatif 2026 de 1,19; role 2024-2025-2026 depose par la MRC de Matawinie, base sur le marche au 1er juillet 2022."
+  },
+  {
+   "url": "https://www.saint-donat.ca/services-aux-citoyens/administration/taxes-et-evaluations/",
+   "title": "Taxes et évaluations - Municipalité de Saint Donat",
+   "publisher": "Municipalite de Saint-Donat",
+   "consulted": "2026-10-21",
+   "supports": "Taux par paliers: 2,0 % de 500 000 $ a 750 000 $, 2,5 % de 750 000 $ a 1 000 000 $, 3,0 % au-dela de 1 000 000 $."
+  },
+  {
+   "url": "https://terrebonne.ca/role-d-evaluation-fonciere/",
+   "title": "Rôle d'évaluation foncière - Ville de Terrebonne",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Role triennal 2026-2027-2028; date de reference du 1er juillet 2024 conformement a l article 46 de la Loi sur la fiscalite municipale."
+  },
+  {
+   "url": "https://exo.quebec/fr/horaire-train/ligne/262-15-mascouche",
+   "title": "Ligne de train 15 Mascouche | Exo",
+   "publisher": "exo",
+   "consulted": "2026-10-21",
+   "supports": "Gares Mascouche, Terrebonne et Repentigny sur la ligne 15, terminus Cote-de-Liesse a Montreal."
+  },
+  {
+   "url": "https://fichiers.exo.quebec/pdf/lignes/train/TRAINS/MA/exo15-20251222_20271231.pdf",
+   "title": "Ligne Mascouche, horaire en vigueur à compter du 12 janvier 2026",
+   "publisher": "exo",
+   "consulted": "2026-10-21",
+   "supports": "Du lundi au vendredi: 8 trains direction Montreal (1200 a 1214) et 8 direction Mascouche (1201 a 1215); aucun service les fins de semaine et jours feries."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cadre-reglementaire",
+   "title": "Cadre réglementaire pour la gestion des milieux hydriques et des ouvrages de protection contre les inondations",
+   "publisher": "Gouvernement du Quebec",
+   "consulted": "2026-10-21",
+   "supports": "Le cadre reglementaire modernise remplace le regime transitoire depuis le 1er mars 2026."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur",
+   "title": "Cartographies des zones inondables et des zones de mobilité d'un cours d'eau en vigueur",
+   "publisher": "Gouvernement du Quebec",
+   "consulted": "2026-10-21",
+   "supports": "En l absence d une cartographie de nouvelle generation, les cartographies en vigueur sont celles de la municipalite locale ou de la MRC; publication progressive des nouvelles cartes (page mise a jour le 28 aout 2026)."
+  },
+  {
+   "url": "https://cmm.qc.ca/nouvelles/zones-inondables-et-crues-printanieres-petit-guide-pratique/",
+   "title": "Zones inondables et crues printanières : petit guide pratique",
+   "publisher": "Communaute metropolitaine de Montreal",
+   "consulted": "2026-10-21",
+   "supports": "Le MELCCFP a delegue a la CMM la cartographie de son territoire; plans d eau vises incluant les rivieres Mascouche, L Assomption et de l Achigan; publication graduelle a partir du printemps 2026."
+  },
+  {
+   "url": "https://cmm.qc.ca/communiques/nouvelle-cartographie-des-zones-inondables-la-cmm-demande-au-gouvernement-du-quebec-de-maintenir-la-mise-en-vigueur-le-1er-aout/",
+   "title": "Nouvelle cartographie des zones inondables : La CMM demande au gouvernement du Québec de maintenir la mise en vigueur le 1er août",
+   "publisher": "Communaute metropolitaine de Montreal",
+   "consulted": "2026-10-21",
+   "supports": "Communique du 30 juillet 2026: decision du ministere de retarder a une date indeterminee la publication du premier lot, qui couvre notamment les abords de la riviere des Mille Iles et du fleuve Saint-Laurent."
+  },
+  {
+   "url": "https://terrebonne.ca/projet/carteszonesinondables/",
+   "title": "Séance d'information sur les cartes préliminaires des zones inondables - Ville de Terrebonne",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Page de la seance d information du 26 fevrier 2025, toujours en ligne le 21 octobre 2026: les cartes de la CMM y sont presentees comme preliminaires et pas encore en vigueur officiellement. Avec la page provinciale des cartographies en vigueur (mise a jour du 28 aout 2026, aucun secteur nomme) et la liste des communiques de la CMM, appuie la phrase: le 21 octobre 2026, aucune page officielle consultee n annonce la mise en vigueur des nouvelles cartes. La citation de 2025 n est plus reprise dans l article."
+  },
+  {
+   "url": "https://cmm.qc.ca/communiques/",
+   "title": "Communiqués - Archives- Communauté métropolitaine de Montréal - CMM",
+   "publisher": "Communaute metropolitaine de Montreal",
+   "consulted": "2026-10-21",
+   "supports": "Liste des communiques lue le 21 octobre 2026: les plus recents (Sommet de l habitation, plan d action du PMAD, communique du 7 octobre 2026 sur l election, aide aux municipalites rurales, REM) ne portent pas sur les cartes de zones inondables; le dernier communique sur ce sujet reste celui du 30 juillet 2026."
+  },
+  {
+   "url": "https://statistique.quebec.ca/fr/fichier/fiches-demographiques-regions-administratives-quebec-2025.pdf",
+   "title": "Fiches démographiques, Les régions administratives du Québec en 2025",
+   "publisher": "Institut de la statistique du Quebec",
+   "consulted": "2026-10-21",
+   "supports": "Fiche Region 14, Lanaudiere: 569 300 personnes au 1er juillet 2025, croissance de 15,7 pour mille en 2024-2025 (donnees provisoires), premier rang des regions pour la premiere fois en 13 ans."
+  },
+  {
+   "url": "https://chertsey.ca/urbanisme-et-environnement/urbanisme/reglements-durbanisme",
+   "title": "Règlements d'urbanisme | Municipalité de Chertsey",
+   "publisher": "Municipalite de Chertsey",
+   "consulted": "2026-10-21",
+   "supports": "Depuis le 7 juillet 2022 (reglement 627-2021), une nouvelle residence de tourisme exige une demande d usage conditionnel; l usage de location a court terme (code 32 014) doit figurer a la grille de la zone."
+  },
+  {
+   "url": "https://rawdon.ca/storage/app/media/services/services-en-ligne/2026/2026exploitation-dune-residence-de-tourisme-location-a-court-terme.pdf",
+   "title": "Demande de certificat d'autorisation, exploitation d'une résidence de tourisme (location à court terme), formulaire 2026",
+   "publisher": "Municipalite de Rawdon",
+   "consulted": "2026-10-21",
+   "supports": "Frais de 1 250 $ a la demande de certificat; certificat valide un an, renouvellement annuel a 1 000 $."
+  }
+ ],
+ "claims_needing_review": []
+}

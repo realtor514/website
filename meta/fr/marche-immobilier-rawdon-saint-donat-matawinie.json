@@ -1,0 +1,314 @@
+{
+ "id": "t269",
+ "slug": "marche-immobilier-rawdon-saint-donat-matawinie",
+ "title": "Marché immobilier à Rawdon, Saint-Donat et en Matawinie: 3e trimestre 2026",
+ "target_keyword": "marche immobilier rawdon",
+ "word_count": 1895,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/location-court-terme-quebec-regles/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/acheter-un-chalet-quebec-verifications/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/articles/contester-evaluation-municipale-quebec/",
+  "/tools/welcome-tax/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/rawdon",
+   "title": "Rawdon, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Rawdon des deux tableaux et chiffres du texte, 3e trimestre 2026 et cumul des 4 derniers trimestres: total 53 ventes (-3 %), 207 sur 4 trimestres (-17 %), 123 nouvelles inscriptions (+41 %), 116 inscriptions en vigueur (+31 %); unifamiliale 46 ventes, médiane 404 450 $ (+4 %), 421 307 $ sur 4 trimestres (+3 %), 38 jours au trimestre, 51 sur 4 trimestres; copropriété 2 ventes, plex 5 ventes, prix non publiés (**); population 11 719 (recensement 2021); notes de la page (variation par rapport au même trimestre de l'année précédente, sens de **). Page lue en curl: identique, chiffre à chiffre, au JSON state/marche_T3_2026/centris_lanaudiere.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/chertsey",
+   "title": "Chertsey, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Chertsey: 30 ventes (-42 %), 155 sur 4 trimestres (-15 %), 102 inscriptions en vigueur (-13 %); unifamiliale, médiane trimestrielle non publiée (**), 369 000 $ sur 4 trimestres (+10 %), 62 jours; 1 plex vendu. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-donat-lanaudiere",
+   "title": "Saint-Donat (Lanaudière): Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Saint-Donat: 39 ventes (-25 %), 142 sur 4 trimestres (-7 %), 140 inscriptions en vigueur (-4 %); unifamiliale médiane 612 500 $ (0 %), 545 875 $ sur 4 trimestres (-5 %), 62 jours au trimestre, 72 sur 4 trimestres; 2 copropriétés vendues, prix non publié. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-come",
+   "title": "Saint-Côme, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Saint-Côme: 18 ventes, 98 sur 4 trimestres (-10 %), 143 inscriptions en vigueur (+2 %); unifamiliale 496 125 $ sur 4 trimestres (+10 %), 98 jours; 3 copropriétés vendues, prix non publié. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-jean-de-matha",
+   "title": "Saint-Jean-de-Matha, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Saint-Jean-de-Matha: 20 ventes, 87 sur 4 trimestres (-5 %), 48 inscriptions en vigueur (+17 %); unifamiliale 391 725 $ sur 4 trimestres (+7 %), 43 jours (-43); 1 plex vendu. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-alphonse-rodriguez",
+   "title": "Saint-Alphonse-Rodriguez, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Saint-Alphonse-Rodriguez: 18 ventes, 80 sur 4 trimestres (-18 %), 45 inscriptions en vigueur (+2 %); unifamiliale 385 000 $ sur 4 trimestres (+15 %), 63 jours. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-felix-de-valois",
+   "title": "Saint-Félix-de-Valois, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Saint-Félix-de-Valois: 9 ventes, 79 sur 4 trimestres (-15 %), 32 inscriptions en vigueur (+28 %); unifamiliale 447 875 $ sur 4 trimestres (+14 %), 41 jours, le délai le plus court de la MRC sur 4 trimestres. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-damien",
+   "title": "Saint-Damien, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Saint-Damien: 15 ventes, 68 sur 4 trimestres (-1 %), 56 inscriptions en vigueur (+16 %); unifamiliale 66 ventes sur 4 trimestres, 337 675 $ (+26 %), la médiane la plus basse de la MRC, 81 jours. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/notre-dame-de-la-merci",
+   "title": "Notre-Dame-de-la-Merci, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Notre-Dame-de-la-Merci: 13 ventes, 56 sur 4 trimestres (+40 %), 36 inscriptions en vigueur (-18 %); unifamiliale 470 625 $ sur 4 trimestres (+1 %), 65 jours. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-michel-des-saints",
+   "title": "Saint-Michel-des-Saints, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Saint-Michel-des-Saints: 13 ventes, 55 sur 4 trimestres (+17 %), 53 inscriptions en vigueur (-5 %); unifamiliale 430 125 $ sur 4 trimestres (+12 %), 103 jours (+21), le délai le plus long de la MRC; 1 plex vendu. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-beatrix",
+   "title": "Sainte-Béatrix, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Sainte-Béatrix: 10 ventes, 47 sur 4 trimestres (-17 %), 44 inscriptions en vigueur (+37 %); unifamiliale 347 125 $ sur 4 trimestres (0 %), 73 jours. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/entrelacs",
+   "title": "Entrelacs, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Entrelacs: 13 ventes, 37 sur 4 trimestres (-24 %), 34 inscriptions en vigueur (+21 %); unifamiliale 438 000 $ sur 4 trimestres (+1 %), 61 jours (-37). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-emelie-de-l-energie",
+   "title": "Sainte-Émélie-de-l'Énergie, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Sainte-Émélie-de-l'Énergie: 9 ventes, 37 sur 4 trimestres (-5 %), 27 inscriptions en vigueur (variation non publiée); unifamiliale 374 000 $ sur 4 trimestres (+18 %), 77 jours. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-zenon",
+   "title": "Saint-Zénon, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Saint-Zénon: 11 ventes, 35 sur 4 trimestres (-28 %), 33 inscriptions en vigueur (+17 %); unifamiliale 352 112 $ sur 4 trimestres (+5 %), 98 jours (+20). Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-marcelline-de-kildare",
+   "title": "Sainte-Marcelline-de-Kildare, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Sainte-Marcelline-de-Kildare et question fréquente: 7 ventes au trimestre, 28 sur 4 trimestres, 19 inscriptions en vigueur; aucune médiane ni aucun délai publiés, même en cumul (**). Page lue en curl; absente de la ligne de plan, ajoutée parce que la MRC la compte parmi ses 15 municipalités. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere",
+   "title": "Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Lignes « Lanaudière, ensemble »: 1 628 ventes (-10 %), 7 430 sur 4 trimestres (-6 %), 2 958 inscriptions en vigueur (+22 %); unifamiliale médiane 518 250 $ (+4 %), 519 312 $ sur 4 trimestres (+6 %), 43 jours au trimestre, 41 sur 4 trimestres. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides",
+   "title": "Laurentides: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Comparaison avec les Laurentides: médiane unifamiliale de la région 573 750 $ au 3e trimestre 2026, 567 487 $ sur 4 trimestres. Identique au JSON state/marche_T3_2026/centris_laurentides.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-adolphe-d-howard",
+   "title": "Saint-Adolphe-d'Howard, Laurentides: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Médiane unifamiliale de 432 500 $ au 3e trimestre 2026, comparée à Rawdon. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/sainte-agathe-des-monts",
+   "title": "Sainte-Agathe-des-Monts, Laurentides: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Médiane unifamiliale de 459 000 $ au 3e trimestre 2026, comparée à Rawdon et à Saint-Donat. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/mont-tremblant",
+   "title": "Mont-Tremblant, Laurentides: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Médiane unifamiliale de 645 000 $ au 3e trimestre 2026, comparée à Saint-Donat. Identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-sauveur",
+   "title": "Saint-Sauveur, Laurentides: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Médiane unifamiliale de 725 000 $ au 3e trimestre 2026, comparée à Saint-Donat. Identique au JSON."
+  },
+  {
+   "url": "https://mrcmatawinie.org/la-mrc/decouvrir/nos-municipalites",
+   "title": "Nos municipalités | MRC Matawinie",
+   "publisher": "MRC de Matawinie",
+   "consulted": "2026-10-21",
+   "supports": "La MRC « Composée de 15 municipalités »: Chertsey, Entrelacs, Notre-Dame-de-la-Merci, Rawdon, Saint-Alphonse-Rodriguez, Saint-Côme, Saint-Damien, Saint-Donat, Saint-Félix-de-Valois, Saint-Jean-de-Matha, Saint-Michel-des-Saints, Saint-Zénon, Sainte-Béatrix, Sainte-Émélie-de-l'Énergie, Sainte-Marcelline-de-Kildare, plus Manawan et le territoire non organisé; Rawdon, population permanente 11 719, la plus élevée."
+  },
+  {
+   "url": "https://mrcmatawinie.org/services/services-aux-citoyens/evaluation-fonciere",
+   "title": "Évaluation foncière | MRC Matawinie",
+   "publisher": "MRC de Matawinie",
+   "consulted": "2026-10-21",
+   "supports": "Nouveau rôle 2027-2028-2029 déposé pour Saint-Félix-de-Valois, Saint-Jean-de-Matha, Rawdon, Saint-Damien et le territoire non organisé, valeur des propriétés « révisée », rencontres avec les citoyens au printemps 2027; demande de révision « avant le 1er mai qui suit l'entrée en vigueur du rôle »; somme exigée de 90 $ pour une évaluation inférieure ou égale à 500 000 $ (règlement 163-2014-1). Aucune date de dépôt ni variation publiée."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/F-2.1",
+   "title": "Loi sur la fiscalité municipale (RLRQ, c. F-2.1)",
+   "publisher": "LegisQuebec, Gouvernement du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Article 46 (texte à jour au 12 août 2026, lu en direct): les valeurs d'un rôle reflètent le marché au 1er juillet du deuxième exercice qui précède le premier exercice du rôle, donc le 1er juillet 2025 pour le rôle 2027-2028-2029 de Rawdon."
+  },
+  {
+   "url": "https://rawdon.ca/fr/municipalite/administration/taxes-et-evaluation-municipale",
+   "title": "Taxes et évaluation municipale | Rawdon",
+   "publisher": "Municipalité de Rawdon",
+   "consulted": "2026-10-21",
+   "supports": "Rôle 2024-2025-2026 déposé le 15 septembre 2023, basé sur le marché au 1er juillet 2022; tranches 2026 et 3 % au-delà de 500 000 $; « Facteur comparatif 2026 : 1.19 »; base: valeur la plus élevée entre le montant de la transaction et l'évaluation uniformisée. Sert au calcul illustratif de 8 610,50 $ pour une base de 600 000 $ et de la valeur uniformisée de 535 500 $ pour 450 000 $ au rôle (calculs de l'article)."
+  },
+  {
+   "url": "https://rawdon.ca/storage/app/media/municipalite/administration/taxes-et-evaluation-municipale/R127-2019-Fixant-un-taux-de-droit-de-mutation.pdf",
+   "title": "Règlement numéro 127-2019 fixant un taux de droit de mutation applicable aux transferts d'immeubles dont la base d'imposition excède 500 000 $",
+   "publisher": "Municipalité de Rawdon",
+   "consulted": "2026-10-21",
+   "supports": "Article 3: « 3 % sur la tranche de la base d'imposition qui excède 500 000 $ »."
+  },
+  {
+   "url": "https://www.saint-donat.ca/services-aux-citoyens/administration/taxes-et-evaluations/",
+   "title": "Taxes et évaluations - Municipalité de Saint Donat",
+   "publisher": "Municipalité de Saint-Donat",
+   "consulted": "2026-10-21",
+   "supports": "Tranches 2026: 2,0 % de 500 000 $ à 750 000 $, 2,5 % jusqu'à 1 000 000 $, 3,0 % au-delà; base d'imposition, plus élevé du prix, de la valeur uniformisée et de la contrepartie; « Le facteur comparatif en vigueur pour l'année 2026 est de 1.00 ». Sert au calcul illustratif de 7 610,50 $ pour une base de 600 000 $."
+  },
+  {
+   "url": "https://www.saint-donat.ca/wp-content/uploads/2025/04/Reglement-21-1082-concernant-les-droits-de-mutations-immobilieres-sur-les-immeubles-dont-la-base-dimposition-excede-500-000.pdf",
+   "title": "Règlement numéro 21-1082 concernant les droits de mutations immobilières sur les immeubles dont la base d'imposition excède 500 000 $ (version refondue)",
+   "publisher": "Municipalité de Saint-Donat",
+   "consulted": "2026-10-21",
+   "supports": "Article 2: 2 %, 2,5 % et 3 % par tranches au-delà de 500 000 $; adopté le 18 janvier 2021, en vigueur le 26 janvier 2021."
+  },
+  {
+   "url": "https://www.saint-donat.ca/wp-content/uploads/2026/01/Depliant_budg_26_WEB.pdf",
+   "title": "Budget 2026 (dépliant)",
+   "publisher": "Municipalité de Saint-Donat",
+   "consulted": "2026-10-21",
+   "supports": "Rôle 2026-2027-2028 de la MRC, déposé en septembre 2025, en vigueur le 1er janvier 2026, basé sur le marché de l'été 2024; hausses « d'environ 15 % à 60 % » selon les secteurs; taux résidentiel de 0,4685 $ (2025) abaissé à 0,3326 $ par 100 $ d'évaluation (2026)."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/H-1.01",
+   "title": "Loi sur l'hébergement touristique (RLRQ, c. H-1.01)",
+   "publisher": "LegisQuebec, Gouvernement du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Article 2 (unité, dont un chalet, offerte en location à des touristes contre rémunération, pour une période n'excédant pas 31 jours); article 4 (exploitation soumise à l'enregistrement auprès du ministre); article 6.1 (l'enregistrement prend la forme d'un certificat délivré par le ministre); article 7 (« Nul ne peut céder l'enregistrement d'un établissement d'hébergement touristique »). Texte à jour au 12 août 2026, lu en direct."
+  },
+  {
+   "url": "https://rawdon.ca/storage/app/media/services/services-en-ligne/2025/2025demande-dusage-conditionnellocation-a-court-terme.pdf",
+   "title": "Demande relative au règlement sur les usages conditionnels, R 2021-05, location à court terme (31 jours et moins), formulaire 2025-01",
+   "publisher": "Municipalité de Rawdon",
+   "consulted": "2026-10-21",
+   "supports": "Zones admissibles (RUR, VC, VD, CV, M, RC, RD, REC, avec exceptions); maximum de 3 chambres; distance séparatrice de 300 m de tout bâtiment où une location à court terme est légalement exercée, dans une zone située à l'extérieur du périmètre d'urbanisation (excluant la zone REC-11) et dans certaines zones RC; 50 m d'un autre bâtiment résidentiel sur un terrain riverain du lac Pontbriand ou du lac Rawdon; vidange de la fosse au moins une fois tous les deux ans; frais d'étude de 775 $; certificat d'autorisation à 1 250 $ lors du dépôt de la demande. Le tarif de renouvellement de ce formulaire (1 250 $) diffère de celui du formulaire 2026-03 (1 000 $): l'article ne donne plus aucun tarif de renouvellement."
+  },
+  {
+   "url": "https://rawdon.ca/storage/app/media/services/services-en-ligne/2026/2026exploitation-dune-residence-de-tourisme-location-a-court-terme.pdf",
+   "title": "Demande de certificat d'autorisation, exploitation d'une résidence de tourisme (location à court terme), formulaire 2026-03",
+   "publisher": "Municipalité de Rawdon",
+   "consulted": "2026-10-21",
+   "supports": "Certificat d'autorisation: « Les frais de 1 250 $ sont encaissés lors de la demande de certificat »; « valide pour une période d'un an et doit être renouvelé annuellement »; attestation de la CITQ « obtenue et déposée dans un délai de 6 mois suivant la résolution du conseil municipal »; rapport d'un ingénieur sur l'installation septique. Sert aussi à la question fréquente sur la location à la semaine (approbation du conseil, puis certificat)."
+  },
+  {
+   "url": "https://chertsey.ca/urbanisme-et-environnement/urbanisme/reglements-durbanisme",
+   "title": "Règlements d'urbanisme | Municipalité de Chertsey",
+   "publisher": "Municipalité de Chertsey",
+   "consulted": "2026-10-21",
+   "supports": "Usage 32 014 à la grille de la zone et demande d'usage conditionnel; bâtiment terminé, installation conforme au Q-2, r. 22 attestée, superficie minimale du lot; résidences de tourisme existantes au 7 juillet 2022 et autorisées par la CITQ exemptées (article 3.7.2 du règlement 627-2021); droit acquis rattaché au lot et non à la personne, transférable aux futurs propriétaires qui déposent leur demande à la CITQ, perdu après 12 mois de cessation."
+  },
+  {
+   "url": "https://www.stcomelanaudiere.ca/storage/app/media/citoyens/environnement-et-urbanisme/Grille%20des%20usages/510-2013_Usages_conditionnels_Juillet_2025.pdf",
+   "title": "Règlement d'urbanisme numéro 510-2013 relatif aux usages conditionnels, codification administrative à jour le 9 juillet 2025",
+   "publisher": "Municipalité de Saint-Côme",
+   "consulted": "2026-10-21",
+   "supports": "Article 50: location court terme soumise à l'usage conditionnel dans 18 zones nommées (104A à 608-1); article 51: « Un seul usage de location court terme est autorisée par terrain à l'exception des projets intégrés » et « ne peut être aménagée dans un bâtiment accessoire »."
+  },
+  {
+   "url": "https://smds.quebec/wp-content/uploads/2024/06/7110-residence-de-tourisme.pdf",
+   "title": "7.1.10 Résidence de tourisme (extrait du règlement de zonage 320-1992)",
+   "publisher": "Municipalité de Saint-Michel-des-Saints",
+   "consulted": "2026-10-21",
+   "supports": "Zones Pa, Vb, Ca et Ru-29 où le commerce d'hébergement est indiqué, sauf Vb-3 et Vb-4; approbation du conseil en vertu du règlement 716-2023; au plus 5 % des habitations d'une zone (sauf zones Ca); terrain d'au moins 3 000 m² (sauf zones Ca)."
+  },
+  {
+   "url": "https://www.saint-donat.ca/wp-content/uploads/2026/09/1-zonage_15-924_texte_au_2026-09-16.pdf",
+   "title": "Règlement de zonage numéro 15-924, texte à jour au 16 septembre 2026",
+   "publisher": "Municipalité de Saint-Donat",
+   "consulted": "2026-10-21",
+   "supports": "La résidence de tourisme fait partie du sous-groupe « établissement léger » du groupe C405; article 14.3, paragraphe 6: « Les commerces d'hébergement situés dans une zone habitation ne peuvent être situés que dans un bâtiment unifamilial isolé ». Texte à jour au 16 septembre 2026: aucun amendement de 2025 ou 2026 ne touche la résidence de tourisme. Les zones nommées dans l'article viennent de la page des permis de la Municipalité."
+  },
+  {
+   "url": "https://saint-donat.ca/wp-content/uploads/2025/01/Proces-verbal-2024-12-10.pdf",
+   "title": "Procès-verbal de la séance ordinaire du 10 décembre 2024",
+   "publisher": "Municipalité de Saint-Donat",
+   "consulted": "2026-10-21",
+   "supports": "Résolution 24-1210-476: règlements 24-1187-1, 24-1187-2 et 24-1189-1 adoptés le 21 octobre 2024; nombre de signatures requis pour un référendum atteint le 27 octobre 2024; processus abandonné."
+  },
+  {
+   "url": "https://www.saint-donat.ca/services-aux-citoyens/urbanisme-et-environnement/demande-de-permis/",
+   "title": "Demande de permis - Municipalité de Saint Donat",
+   "publisher": "Municipalité de Saint-Donat",
+   "consulted": "2026-10-21",
+   "supports": "Rubrique « Location à court terme » (page modifiée le 24 septembre 2026): « uniquement permise dans des endroits spécifiquement désignés » et « Les zones autorisées sont : UR-C1, UR-C10, UR-H6, UR-H13, UR-H14, UR-H15, UR-P4, UR-P9 et RECI-6 »; certificat de 50 $, « Tant et aussi longtemps que l'usage est exploité »; dépôt, pour une résidence de tourisme, d'une copie du code de bonne conduite visant les locataires."
+  },
+  {
+   "url": "https://www.saint-donat.ca/wp-content/uploads/2025/01/07-749_sur-la-gestion-des-installations-septiques-refondu-23-1178.pdf",
+   "title": "Règlement numéro 07-749 (refondu) sur la gestion des installations septiques",
+   "publisher": "Municipalité de Saint-Donat",
+   "consulted": "2026-10-21",
+   "supports": "Articles 5.1, 6.1 et 6.2: inspection obligatoire aux frais du propriétaire, attestation signée par un membre de l'Ordre des technologues professionnels ou de l'Ordre des ingénieurs; première attestation au 20e anniversaire de la fosse, puis tous les 4 ans, ou tous les 8 ans pour une fosse de béton ou de polyéthylène."
+  },
+  {
+   "url": "https://www.saint-donat.ca/services-aux-citoyens/urbanisme-et-environnement/activite-nautique-et-rampe-de-mise-a-leau/",
+   "title": "Activités nautiques et rampes de mise à l'eau - Municipalité de Saint-Donat",
+   "publisher": "Municipalité de Saint-Donat",
+   "consulted": "2026-10-21",
+   "supports": "Règlement 10-803 sur la protection des plans d'eau contre les espèces exotiques envahissantes: permis d'accès aux lacs obligatoire pour chaque embarcation motorisée et électrique d'un contribuable; permis spécial et certificat de lavage obligatoires pour un non-contribuable."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-province.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Province de Québec",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Liste des 32 pages lue: aucune page pour Rawdon, Saint-Donat ou la Matawinie (seule l'agglomération de Joliette représente Lanaudière). Fonde l'absence de toute lecture vendeur ou acheteur dans l'article."
+  },
+  {
+   "url": "https://statistique.quebec.ca/fr/fichier/fiches-demographiques-regionales-donnees.xlsx",
+   "title": "Fiches démographiques régionales en 2025, données (onglet « MRC-Pop et Taux accr »)",
+   "publisher": "Institut de la statistique du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Matawinie: 60 977 habitants au 1er juillet 2025 (provisoire), accroissement de 26,3 pour mille en 2024-2025, le plus élevé des six MRC de Lanaudière (D'Autray 13,8, L'Assomption 15,8, Joliette 11,4, Montcalm 15,3, Les Moulins 14,5); ensemble du Québec 7,0."
+  }
+ ],
+ "claims_needing_review": []
+}

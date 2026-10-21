@@ -1,0 +1,363 @@
+{
+ "id": "t256",
+ "slug": "marche-immobilier-laurentides-secteurs",
+ "title": "Marché immobilier dans les Laurentides par secteur: 3e trimestre 2026",
+ "target_keyword": "marche immobilier laurentides",
+ "word_count": 1955,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/tools/welcome-tax/",
+  "/articles/location-court-terme-quebec-regles/",
+  "/articles/acheter-zone-inondable-quebec/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/articles/acheter-un-chalet-quebec-verifications/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides",
+   "title": "Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Région des Laurentides, 3e trimestre 2026: 2 324 ventes (-5 %), 10 236 sur les 4 derniers trimestres, 4 622 nouvelles inscriptions (+12 %), 5 191 inscriptions en vigueur (+15 %). Unifamiliale: 1 804 ventes (+2 %), 3 783 en vigueur (+16 %), médiane 573 750 $ (+5 %), 567 487 $ (+6 %) sur 4 trimestres, 49 jours (+3). Copropriété: 361 ventes (-23 %), 996 en vigueur (+17 %), 385 000 $ (0 %), 71 jours (+17). Plex: 153 ventes (-27 %), 359 en vigueur (+6 %), 655 000 $ (+5 %), 46 jours (-10). Notes de la page citées: variations « par rapport au même trimestre de l'année précédente »; le total résidentiel comprend aussi les fermettes (2 324 contre 2 318 pour les trois catégories); ** = « Nombre de transactions insuffisant pour produire une statistique fiable ». Les 84 pages de la région (région, 82 municipalités et territoires non organisés, « Territoires autres ») ont été relues par curl le 21 octobre 2026: chaque chiffre concorde avec state/marche_T3_2026/centris_laurentides.json. La somme des pages municipales égale exactement le total régional (2 324 au trimestre, 10 236 sur 4 trimestres); les totaux par MRC de l'article reposent sur cette somme (calcul du rédacteur sur des nombres de ventes, jamais sur des médianes). Six territoires non organisés (Lac-Bazinet, Lac-De La Bidière, Lac-Douaire, Lac-Ernest, Lac-Marguerite, Lac-Oscar) n'ont aucune vente sur 4 trimestres. Copropriétés du trimestre: Saint-Jérôme 52, Mont-Tremblant 49 et Mirabel 47, soit 148 des 361 (41 %, calcul sur des nombres de ventes). Vérificateur, 21 octobre 2026: pages région, Rosemère, Mont-Laurier, Saint-Sauveur et Blainville rouvertes par curl, identiques au JSON; somme des 82 pages municipales recalculée (2 324 et 10 236)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-jerome",
+   "title": "Saint-Jérôme, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Jérôme: 1 146 ventes sur 4 trimestres, 250 au trimestre (-7 %); unifamiliale 161 ventes, 195 en vigueur (+34 %), 540 000 $ (+6 %), 538 125 $ (+7 %) sur 4 trimestres, 39 jours; copropriété 52 ventes, 319 250 $; plex 37 ventes, 655 000 $, seule médiane trimestrielle de plex publiée pour une municipalité de la région."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/mirabel",
+   "title": "Mirabel, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Mirabel: 918 ventes sur 4 trimestres, 173 au trimestre (-15 %); unifamiliale 112 ventes, 650 000 $ (+11 %), 647 750 $ (+8 %), 37 jours; copropriété 47 ventes, 462 000 $."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/blainville",
+   "title": "Blainville, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Blainville: 849 ventes sur 4 trimestres, 185 au trimestre (-4 %); unifamiliale 835 000 $ (+11 %), la médiane trimestrielle la plus élevée de la région, 762 625 $ (+4 %) sur 4 trimestres, 34 jours."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-eustache",
+   "title": "Saint-Eustache, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Eustache: 555 ventes sur 4 trimestres, 100 au trimestre (-13 %); unifamiliale 598 250 $ (+5 %), 589 187 $ (+6 %), 23 jours, le délai le plus court du tableau; 84 en vigueur (+1 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/mont-tremblant",
+   "title": "Mont-Tremblant, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Mont-Tremblant: 388 ventes sur 4 trimestres, 96 au trimestre (-8 %); unifamiliale 645 000 $ (+12 %), 656 625 $ (+13 %), 76 jours; copropriété 49 ventes, 370 000 $."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/sainte-marthe-sur-le-lac",
+   "title": "Sainte-Marthe-sur-le-Lac, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Sainte-Marthe-sur-le-Lac: 350 ventes sur 4 trimestres, 71 au trimestre (+10 %); unifamiliale 558 750 $ (-9 %), 605 187 $ (+3 %), 29 jours."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/sainte-therese",
+   "title": "Sainte-Thérèse, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Sainte-Thérèse: 341 ventes sur 4 trimestres, 70 au trimestre (-9 %); unifamiliale 710 000 $ (+15 %), 615 400 $ (+5 %), 28 jours; 33 en vigueur (+83 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/sainte-adele",
+   "title": "Sainte-Adèle, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Sainte-Adèle: 328 ventes sur 4 trimestres, 70 au trimestre (-12 %); unifamiliale 560 000 $ (-1 %), 549 000 $ (0 %), 29 jours (-24)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-sauveur",
+   "title": "Saint-Sauveur, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Sauveur: 328 ventes sur 4 trimestres, 84 au trimestre (-3 %); unifamiliale 725 000 $ (+10 %), 685 000 $ (+11 %), 70 jours; 158 en vigueur (-1 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-colomban",
+   "title": "Saint-Colomban, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Colomban: 301 ventes sur 4 trimestres, 76 au trimestre (+38 %), la plus forte hausse du tableau; unifamiliale 592 500 $ (+1 %), 618 185 $ (+1 %), 37 jours."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/sainte-sophie",
+   "title": "Sainte-Sophie, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Sainte-Sophie: 271 ventes sur 4 trimestres, 65 au trimestre (-2 %); unifamiliale 501 000 $ (+1 %), 516 500 $ (+5 %), 49 jours."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-hippolyte",
+   "title": "Saint-Hippolyte, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Hippolyte: 238 ventes sur 4 trimestres, 57 au trimestre (-3 %); unifamiliale 504 000 $ (+3 %), 530 237 $ (+11 %), 53 jours."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/boisbriand",
+   "title": "Boisbriand, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Boisbriand: 238 ventes sur 4 trimestres, 71 au trimestre (-7 %); unifamiliale 622 500 $ (+3 %), 626 875 $ (+5 %), 38 jours."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/deux-montagnes",
+   "title": "Deux-Montagnes, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Deux-Montagnes: 229 ventes sur 4 trimestres, 40 au trimestre (-2 %); 29 unifamiliales vendues, médiane trimestrielle et jours non publiés (**); 553 750 $ (+8 %) sur 4 trimestres; 45 unifamiliales en vigueur (+95 %)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/sainte-agathe-des-monts",
+   "title": "Sainte-Agathe-des-Monts, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Sainte-Agathe-des-Monts: 209 ventes sur 4 trimestres, 43 au trimestre (-12 %); 33 unifamiliales vendues, 459 000 $ (-16 %), 501 000 $ (+8 %) sur 4 trimestres, 45 jours."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/prevost",
+   "title": "Prévost, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Prévost: 196 ventes sur 4 trimestres, 47 au trimestre (+2 %); unifamiliale 630 000 $ (+3 %), 620 125 $ (+2 %), 32 jours."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/lachute",
+   "title": "Lachute, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Lachute (MRC d'Argenteuil): 177 ventes sur 4 trimestres, 39 au trimestre (-4 %); unifamiliale 475 000 $ (+15 %), 431 627 $ (+14 %), 74 jours; 1 copropriété vendue au trimestre."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/rosemere",
+   "title": "Rosemère, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Rosemère: 176 ventes sur 4 trimestres, 38 au trimestre (-32 %), le plus fort recul du tableau; 26 unifamiliales vendues, médiane trimestrielle non publiée (**); 877 722 $ (+10 %) sur 4 trimestres, la plus élevée de la région; unifamiliales en vigueur 0 %."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/bois-des-filion",
+   "title": "Bois-des-Filion, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Bois-des-Filion: 166 ventes sur 4 trimestres, 34 au trimestre (-17 %); médiane trimestrielle et jours non publiés; 537 500 $ (+3 %) sur 4 trimestres; variation des inscriptions en vigueur non publiée."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/sainte-anne-des-plaines",
+   "title": "Sainte-Anne-des-Plaines, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Sainte-Anne-des-Plaines: 158 ventes sur 4 trimestres (égalité au 20e rang), 31 au trimestre (-20 %); médiane trimestrielle non publiée; 528 566 $ (+9 %) sur 4 trimestres."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/brownsburg-chatham",
+   "title": "Brownsburg-Chatham, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Brownsburg-Chatham (MRC d'Argenteuil): 158 ventes sur 4 trimestres (égalité au 20e rang), 37 au trimestre (-19 %); unifamiliale 392 250 $ (+6 %), 389 250 $ (+2 %), les plus basses du tableau, 44 jours; aucune copropriété vendue au trimestre."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/mont-laurier",
+   "title": "Mont-Laurier, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Mont-Laurier (MRC d'Antoine-Labelle): 136 ventes sur 4 trimestres, 38 au trimestre (+5 %); unifamiliale 319 000 $ (-10 %), la médiane trimestrielle la plus basse de toute la région, 346 162 $ (-1 %) sur 4 trimestres, 73 jours."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/riviere-rouge",
+   "title": "Rivière-Rouge, Laurentides: Statistiques immobilières, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Rivière-Rouge (MRC d'Antoine-Labelle): 86 ventes sur 4 trimestres, 25 au trimestre; médiane trimestrielle non publiée; 354 975 $ (0 %) sur 4 trimestres."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Tableau 3 (unifamiliale, 12 derniers mois), gamme la plus chère: secteur 25 Ouest de la Rive-Nord (p. 35) 850 000 $ et plus, 12,1 mois, Acheteur, autres gammes de 2,5 à 5,6 mois, Vendeur; secteur 26 Mirabel (p. 36) 970 000 $ et plus, 10,0, Acheteur (libellé de l'APCIQ, vérifié sur rendu en image), autres gammes 2,8 à 3,0, Vendeur; secteur 27 Boisbriand/Sainte-Thérèse (p. 37) 940 000 $ et plus, 9,8, Équilibré, autres gammes 1,0 à 3,3, Vendeur; secteur 28 Blainville, Lorraine, Rosemère (p. 38) 1 180 000 $ et plus, 7,1, Vendeur, toutes gammes Vendeur; secteur 33 Saint-Jérôme, Gore, Saint-Colomban (p. 43) 820 000 $ et plus, 8,9, Équilibré, autres gammes 2,7 à 4,4, Vendeur. Ces cinq secteurs sont entièrement dans les Laurentides; le secteur 29 Terrebonne (p. 39), qui inclut Bois-des-Filion et Sainte-Anne-des-Plaines avec des villes de Lanaudière, n'est pas repris. Seuils de la page 65: moins de 8 mois = vendeurs, 8 à 10 = équilibre, plus de 10 = acheteurs. Composition des secteurs (p. 6), dont Gore dans le secteur 33. Servi le 21 octobre 2026 depuis la copie comapciqca-152af.kxcdn.com après redirection (65 pages, créé le 2 octobre 2026, modifié le 9 octobre 2026); lu par PyMuPDF, mots replacés par position. Lachute, Brownsburg-Chatham, Mille-Isles et Mont-Laurier n'apparaissent pas dans ce PDF."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-province.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Province de Québec",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Tableau 3, 12 derniers mois: agglomération de Sainte-Agathe-des-Monts (p. 19), unifamiliale, 8,9 mois Équilibré sous 240 000 $, 3,8 à 6,9 Vendeur jusqu'à 720 000 $, 14,2 Acheteur à 720 000 $ et plus; centre urbain de Mont-Tremblant (p. 28), tableau de la copropriété: 7,5 Vendeur sous 210 000 $, puis 20,0, 14,5, 22,0 et 22,8 mois, Acheteur; centre urbain de Saint-Sauveur (p. 29), unifamiliale (libellé vérifié sur rendu en image), 4,2 à 7,4 Vendeur, 14,8 Acheteur à 940 000 $ et plus; centre urbain de Sainte-Adèle (p. 30), 2,6 à 6,1 Vendeur, 19,0 Acheteur à 830 000 $ et plus. Carte de la page 29, lue sur rendu en image: Saint-Sauveur, Prévost, Piedmont, Morin-Heights, Sainte-Anne-des-Lacs, Saint-Adolphe-d'Howard. Aucune page pour Lachute, Mont-Laurier, Argenteuil ou Antoine-Labelle. Servi depuis la copie comapciqca-152af.kxcdn.com (31 pages)."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 14 octobre 2026: au Québec, médiane de 500 000 $ pour l'unifamiliale, 400 000 $ pour la copropriété et 699 000 $ pour le plex; « les marchés de villégiature des Laurentides [...] présentent les conditions les plus équilibrées de la province, sans toutefois avantager systématiquement les acheteurs ». Aucun communiqué propre aux Laurentides n'existe pour le 3e trimestre 2026."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+   "title": "Taux directeur",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Taux directeur de 2,25 % au 21 octobre 2026, inchangé à chaque annonce depuis la baisse de 0,25 point du 29 octobre 2025 (tableau « Données récentes »); prochaine annonce le 28 octobre 2026 (calendrier 2026)."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/09/fad-communique-2026-09-02/",
+   "title": "La Banque du Canada maintient le taux directeur à 2¼ %",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Maintien du taux cible à 2,25 % le 2 septembre 2026; « La prochaine date d'établissement du taux cible du financement à un jour est le 28 octobre 2026 »."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-15.1",
+   "title": "Loi concernant les droits sur les mutations immobilières (RLRQ, c. D-15.1)",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Article 2, troisième alinéa: une municipalité peut fixer un taux supérieur à 1,5 % sur la tranche qui excède 500 000 $, sans excéder 3 % sauf pour la Ville de Montréal. Lu en direct, version « À jour au 12 août 2026 »."
+  },
+  {
+   "url": "https://www.vsj.ca/taxes-et-evaluation/taxes-municipales/",
+   "title": "Taxes municipales",
+   "publisher": "Ville de Saint-Jérôme",
+   "consulted": "2026-10-21",
+   "supports": "Année 2026: 0,5 % jusqu'à 62 900 $, 1 % jusqu'à 315 000 $, 1,5 % jusqu'à 500 000 $, « 3 % entre 500 000,01 $ et plus »."
+  },
+  {
+   "url": "https://blainville.ca/ville/administration-municipale/taxes-et-evaluation",
+   "title": "Taxes et évaluation",
+   "publisher": "Ville de Blainville",
+   "consulted": "2026-10-21",
+   "supports": "Tranches 2026: 1,5 % de 315 000 $ à 750 000 $, 3,0 % au-delà de 750 000 $ (en 2025, 3 % dès 500 000 $). Simulation publiée pour une propriété de 850 000 $: 16 153,50 $ en 2025, 12 360,50 $ en 2026."
+  },
+  {
+   "url": "https://www.ville.boisbriand.qc.ca/ville/administration-municipale/taxes-municipales-et-evaluation-fonciere",
+   "title": "Taxes municipales, évaluation foncière et compteur d'eau",
+   "publisher": "Ville de Boisbriand",
+   "consulted": "2026-10-21",
+   "supports": "2,5 % pour la base d'imposition comprise entre 500 000,01 $ et 800 000 $, 3,0 % pour la tranche excédant 800 000 $, à partir du 1er janvier 2026."
+  },
+  {
+   "url": "https://vdmt.ca/informations-municipales/administration-et-finances/taxes-et-droits-de-mutation",
+   "title": "Taxes et droits de mutation",
+   "publisher": "Ville de Mont-Tremblant",
+   "consulted": "2026-10-21",
+   "supports": "Taux 2026: 2 % sur la tranche de 500 000 $ à 750 000 $, 3 % au-delà de 750 000 $."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/H-1.01",
+   "title": "Loi sur l'hébergement touristique (RLRQ, c. H-1.01)",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Article 2: établissement d'hébergement touristique, location à des touristes « pour une période n'excédant pas 31 jours »; article 4: exploitation soumise à l'enregistrement; article 23: aucun règlement d'urbanisme ne peut interdire la location en résidence principale, sauf une disposition d'un règlement de zonage ou d'un règlement sur les usages conditionnels adoptée avec toutes les zones réputées avoir présenté une demande de référendum et un nombre de demandes requis réduit de 50 %; article 28: amende de 2 500 $ à 25 000 $ pour une personne physique qui exploite sans enregistrement. Lu en direct, version « À jour au 12 août 2026 »."
+  },
+  {
+   "url": "https://vdsa.ca/ville/administration/reglements-municipaux",
+   "title": "Règlements municipaux",
+   "publisher": "Ville de Sainte-Adèle",
+   "consulted": "2026-10-21",
+   "supports": "Rubrique « Location court terme »: « La location touristique à court terme de type AirBnB est interdite sur la vaste majorité du territoire de Sainte-Adèle. »"
+  },
+  {
+   "url": "https://www.vss.ca/services-aux-citoyens/en-ligne/demande-de-permis-et-durbanisme",
+   "title": "Demande de permis et d'urbanisme",
+   "publisher": "Ville de Saint-Sauveur",
+   "consulted": "2026-10-21",
+   "supports": "Rubrique « Location à court terme »: location de moins de 4 mois permise dans certains secteurs et pour certaines catégories d'usages seulement, avec un certificat d'occupation; liste de zones donnée « à titre indicatif »."
+  },
+  {
+   "url": "https://vdmt.ca/services/residence-de-tourisme",
+   "title": "Résidence de tourisme",
+   "publisher": "Ville de Mont-Tremblant",
+   "consulted": "2026-10-21",
+   "supports": "Type de résidence autorisé en vertu du RCI: unifamilial isolé; la résidence de tourisme est considérée comme un commerce d'hébergement et « un taux de taxation distinct s'applique »."
+  },
+  {
+   "url": "https://cmm.qc.ca/communiques/nouvelle-cartographie-des-zones-inondables-la-cmm-demande-au-gouvernement-du-quebec-de-maintenir-la-mise-en-vigueur-le-1er-aout/",
+   "title": "Nouvelle cartographie des zones inondables : La CMM demande au gouvernement du Québec de maintenir la mise en vigueur le 1er août",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 30 juillet 2026: le ministère de l'Environnement a décidé de retarder « à une date indéterminée » la publication du premier lot de cartes de nouvelle génération, dont la mise en vigueur était prévue le 1er août 2026; ce lot couvre notamment les abords de la rivière des Mille Îles et du lac des Deux Montagnes. Relu le 21 octobre 2026: la liste des communiqués de la CMM (dernier du 14 octobre 2026) n'en publie aucun plus récent sur ce lot."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur",
+   "title": "Cartographies des zones inondables et des zones de mobilité d'un cours d'eau en vigueur",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Les cartographies de nouvelle génération « seront publiées progressivement au cours des prochains mois »; en leur absence, les cartographies en vigueur sont celles de la municipalité locale ou de la MRC. Aucune page officielle ouverte n'annonce la mise en vigueur du premier lot de la CMM au 21 octobre 2026."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=1.1.1.9&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al&Ytd=true",
+   "title": "Mises en chantier, selon le type de logements par subdivision de recensement, Montréal (RMR), janvier à septembre 2026 et 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Janvier à septembre 2026 (colonnes Individuels, Jumelés, En rangée, Appartements, Total): Saint-Jérôme 59, 6, 5, 1 821, 1 891; Blainville 23, 0, 19, 534, 576; Deux-Montagnes 3, 0, 10, 520, 533. Même période de 2025 (même URL suivie de &ForTimePeriod.Year=2025&ForTimePeriod.Month=9): Saint-Jérôme 682, Blainville 223, Deux-Montagnes 186. Les deux tableaux relus le 21 octobre 2026 par le vérificateur."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.2&GeographyId=24&GeographyTypeId=2&DisplayAs=Table&GeograghyName=Qu%C3%A9bec",
+   "title": "Taux d'inoccupation, selon le nombre de chambres, régions métropolitaines, agglomérations de recensement et villes, Québec, octobre 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Enquête sur les logements locatifs d'octobre 2025, tableau « En rangée / Appartements », colonne Total: Lachute 1,5 % (cote a); Mont-Laurier V 2,2 % (cote c). Cotes de la SCHL: a = excellente, c = bonne."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/cartes/mrc/760.pdf",
+   "title": "Cartographie de la MRC d'Argenteuil (760)",
+   "publisher": "Ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-10-21",
+   "supports": "9 municipalités: Brownsburg-Chatham, Gore, Grenville, Grenville-sur-la-Rouge, Harrington, Lachute, Mille-Isles, Saint-André-d'Argenteuil, Wentworth; population 2026 de 38 581 (source de la carte: décret de population 1499-2025). Lien de la page Répertoire des municipalités, https://www.quebec.ca/gouvernement/portrait-quebec/repertoire-municipalites."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/cartes/mrc/790.pdf",
+   "title": "Cartographie de la MRC d'Antoine-Labelle (790)",
+   "publisher": "Ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-10-21",
+   "supports": "17 municipalités et 11 territoires non organisés, dont Mont-Laurier et Rivière-Rouge; population 2026 de 38 189 (décret de population 1499-2025); superficie terrestre de 14 793,2 km². Relu le 21 octobre 2026 par le vérificateur."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/cartes/mrc/730.pdf",
+   "title": "Cartographie de la MRC de Thérèse-De Blainville (730)",
+   "publisher": "Ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-10-21",
+   "supports": "Composition du secteur: Blainville, Bois-des-Filion, Boisbriand, Lorraine, Rosemère, Sainte-Anne-des-Plaines, Sainte-Thérèse."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/cartes/mrc/720.pdf",
+   "title": "Cartographie de la MRC de Deux-Montagnes (720)",
+   "publisher": "Ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-10-21",
+   "supports": "Composition du secteur: Deux-Montagnes, Oka, Pointe-Calumet, Saint-Eustache, Saint-Joseph-du-Lac, Saint-Placide, Sainte-Marthe-sur-le-Lac."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/cartes/mrc/750.pdf",
+   "title": "Cartographie de la MRC de La Rivière-du-Nord (750)",
+   "publisher": "Ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-10-21",
+   "supports": "Composition du secteur: Prévost, Saint-Colomban, Saint-Hippolyte, Saint-Jérôme, Sainte-Sophie."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/cartes/mrc/770.pdf",
+   "title": "Cartographie de la MRC des Pays-d'en-Haut (770)",
+   "publisher": "Ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-10-21",
+   "supports": "Composition du secteur: Estérel, Lac-des-Seize-Îles, Morin-Heights, Piedmont, Saint-Adolphe-d'Howard, Saint-Sauveur, Sainte-Adèle, Sainte-Anne-des-Lacs, Sainte-Marguerite-du-Lac-Masson, Wentworth-Nord."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/cartes/mrc/780.pdf",
+   "title": "Cartographie de la MRC des Laurentides (780)",
+   "publisher": "Ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-10-21",
+   "supports": "Composition du secteur: 20 municipalités, dont Mont-Tremblant, Sainte-Agathe-des-Monts, Val-David, Val-Morin, Mont-Blanc et Labelle (d'où « et 14 autres municipalités »)."
+  }
+ ],
+ "claims_needing_review": []
+}

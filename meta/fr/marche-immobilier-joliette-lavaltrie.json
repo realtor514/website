@@ -1,0 +1,334 @@
+{
+ "id": "t268",
+ "slug": "marche-immobilier-joliette-lavaltrie",
+ "title": "Marché immobilier à Joliette et Lavaltrie: 3e trimestre 2026",
+ "target_keyword": "marche immobilier joliette",
+ "word_count": 1765,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/acheter-zone-inondable-quebec/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/articles/contester-evaluation-municipale-quebec/",
+  "/tools/welcome-tax/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/joliette",
+   "title": "Joliette, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Joliette du tableau de l'unifamiliale (29 ventes au T3, médiane T3 non publiée **, 129 ventes sur 4 trimestres +4 %, médiane 449 250 $ +6 %, 26 jours, -30) et du tableau copropriété et plex (copropriété: 8 ventes, 41 sur 4 trimestres +57 %, 335 112 $ +7 %, 48 jours; plex: 6 ventes, 38 sur 4 trimestres -11 %, 510 084 $ +8 %, 36 jours); dans le texte: 43 ventes résidentielles (+2 %), 208 sur 4 trimestres (+8 %), 34 unifamiliales en vigueur (+88 %); notes de la page (variation par rapport au même trimestre de l'année précédente, sens de **, fermettes dans le total). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-charles-borromee",
+   "title": "Saint-Charles-Borromée, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Saint-Charles-Borromée du tableau de l'unifamiliale: 17 ventes, 85 sur 4 trimestres (-9 %), médiane 4 trimestres 495 862 $ (+1 %), 45 jours. Fait partie de l'agglomération APCIQ de Joliette (somme de 76 unifamiliales). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/notre-dame-des-prairies",
+   "title": "Notre-Dame-des-Prairies, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Notre-Dame-des-Prairies du tableau de l'unifamiliale: 19 ventes, 99 sur 4 trimestres (+3 %), médiane 4 trimestres 438 625 $ (-2 %), 31 jours. Fait partie de l'agglomération APCIQ de Joliette. Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-paul",
+   "title": "Saint-Paul, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Saint-Paul du tableau de l'unifamiliale: 11 ventes, 83 sur 4 trimestres (-8 %), 475 250 $ (+5 %), 35 jours; dans le texte: 92 ventes résidentielles sur 4 trimestres (-20 %). Fait partie de l'agglomération APCIQ de Joliette. Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/crabtree",
+   "title": "Crabtree, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Crabtree du tableau de l'unifamiliale: 12 ventes, 35 sur 4 trimestres (+6 %), 510 600 $ (+32 %), 27 jours; hausse de +32 % citée comme reposant sur peu de ventes. Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-ambroise-de-kildare",
+   "title": "Saint-Ambroise-de-Kildare, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Saint-Ambroise-de-Kildare du tableau de l'unifamiliale: 8 ventes, 32 sur 4 trimestres (+6 %), 496 475 $ (+13 %), 27 jours. Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-melanie",
+   "title": "Sainte-Mélanie, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Sainte-Mélanie du tableau de l'unifamiliale: 9 ventes, 33 sur 4 trimestres (+6 %), 436 375 $ (+15 %), 34 jours. Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/lavaltrie",
+   "title": "Lavaltrie, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Lavaltrie du tableau de l'unifamiliale: 51 ventes (+34 %), 197 sur 4 trimestres (-1 %), médiane T3 490 000 $ (+2 %), médiane 4 trimestres 489 437 $ (+7 %), 32 jours; dans le texte: 59 ventes résidentielles (+31 %), 56 unifamiliales en vigueur (+47 %); base du calcul du droit de mutation sur 490 000 $. Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/lanoraie",
+   "title": "Lanoraie, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Lanoraie du tableau de l'unifamiliale: 20 ventes, 100 sur 4 trimestres (+9 %), 440 118 $ (+1 %), 55 jours (-39). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/berthierville",
+   "title": "Berthierville, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Berthierville du tableau de l'unifamiliale: 8 ventes, 33 sur 4 trimestres (-17 %), 397 062 $ (+5 %), 43 jours; dans le texte: 41 ventes résidentielles sur 4 trimestres (-21 %). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/mandeville",
+   "title": "Mandeville, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Mandeville du tableau de l'unifamiliale: 14 ventes, 52 sur 4 trimestres (-28 %), 355 375 $ (+9 %), 91 jours; dans le texte: 52 ventes résidentielles sur 4 trimestres (-29 %). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-gabriel-de-brandon",
+   "title": "Saint-Gabriel-de-Brandon, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Saint-Gabriel-de-Brandon du tableau de l'unifamiliale: 11 ventes, 40 sur 4 trimestres (-18 %), 346 175 $ (+1 %), 68 jours. Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-pierre",
+   "title": "Saint-Pierre, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Pierre: aucune vente au trimestre, aucune médiane, cité dans le texte. Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/notre-dame-de-lourdes-lanaudiere",
+   "title": "Notre-Dame-de-Lourdes (Lanaudière), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Notre-Dame-de-Lourdes: 10 ventes résidentielles au trimestre, aucune médiane, cité dans le texte. Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-thomas",
+   "title": "Saint-Thomas, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Thomas: 4 ventes résidentielles au trimestre, aucune médiane publiée, au trimestre comme sur 4 trimestres (une des 13 municipalités sans médiane). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-gabriel",
+   "title": "Saint-Gabriel, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Gabriel: 4 ventes résidentielles au trimestre, aucune médiane publiée, au trimestre comme sur 4 trimestres (une des 13 municipalités sans médiane). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-cuthbert",
+   "title": "Saint-Cuthbert, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Cuthbert: 8 ventes résidentielles au trimestre, aucune médiane publiée, au trimestre comme sur 4 trimestres (une des 13 municipalités sans médiane). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-elisabeth",
+   "title": "Sainte-Élisabeth, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Sainte-Élisabeth: 3 ventes résidentielles au trimestre, aucune médiane publiée, au trimestre comme sur 4 trimestres (une des 13 municipalités sans médiane). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-barthelemy",
+   "title": "Saint-Barthélemy, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Barthélemy: 8 ventes résidentielles au trimestre, aucune médiane publiée, au trimestre comme sur 4 trimestres (une des 13 municipalités sans médiane). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/sainte-genevieve-de-berthier",
+   "title": "Sainte-Geneviève-de-Berthier, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Sainte-Geneviève-de-Berthier: 3 ventes résidentielles au trimestre, aucune médiane publiée, au trimestre comme sur 4 trimestres (une des 13 municipalités sans médiane). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-ignace-de-loyola",
+   "title": "Saint-Ignace-de-Loyola, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Ignace-de-Loyola: 7 ventes résidentielles au trimestre, aucune médiane publiée, au trimestre comme sur 4 trimestres (une des 13 municipalités sans médiane). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/la-visitation-de-l-ile-dupas",
+   "title": "La Visitation-de-l'Île-Dupas, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "La Visitation-de-l'Île-Dupas: 2 ventes résidentielles au trimestre, aucune médiane publiée, au trimestre comme sur 4 trimestres (une des 13 municipalités sans médiane). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-didace",
+   "title": "Saint-Didace, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Didace: 3 ventes résidentielles au trimestre, aucune médiane publiée, au trimestre comme sur 4 trimestres (une des 13 municipalités sans médiane). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-cleophas-de-brandon",
+   "title": "Saint-Cléophas-de-Brandon, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Cléophas-de-Brandon: 1 ventes résidentielles au trimestre, aucune médiane publiée, au trimestre comme sur 4 trimestres (une des 13 municipalités sans médiane). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/saint-norbert",
+   "title": "Saint-Norbert, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Saint-Norbert: 3 ventes résidentielles au trimestre, aucune médiane publiée, au trimestre comme sur 4 trimestres (une des 13 municipalités sans médiane). Comptée dans l'addition des 25 pages municipales (145 ventes au trimestre pour la MRC de Joliette, 155 pour D'Autray). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere",
+   "title": "Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Lignes Lanaudière des deux tableaux: unifamiliale 1 292 ventes (-10 %), 5 820 sur 4 trimestres (-5 %), 518 250 $ (+4 %), 519 312 $ (+6 %), 41 jours; copropriété 265 ventes (0 %), 1 199 (-8 %), 356 437 $ (0 %), 41 jours; plex 61 (-42 %), 380 (-16 %), 657 725 $ (+9 %), 45 jours. Contexte régional: 1 628 ventes (-10 %), inscriptions en vigueur +22 %. Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19)."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-province.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Province de Québec",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Page 15, « Agglomération de Joliette » (carte: Joliette, Notre-Dame-des-Prairies, Saint-Charles-Borromée, Saint-Paul): unifamiliale 76 ventes, médiane 452 000 $ (+1 %), 33 jours; 12 derniers mois 396 ventes (-2 %), médiane 465 000 $ (+5 %); copropriété 12 mois 62 ventes, 332 500 $ (+6 %); plex 12 mois 66 ventes, 515 000 $ (-4 %); 102 unifamiliales en vigueur (+35 %); tableau 3: toutes les gammes « Vendeur », au plus 4,6 mois d'inventaire. Page 31, « Définitions et notes explicatives »: seuils de 8 et 10 mois, et citation « avec prudence, en particulier lorsque le nombre de transactions est faible ». PDF lu par la couche texte et par un rendu en image de la page 15; les deux concordent. La concordance des ventes (99 au total, 76 unifamiliales, 526 et 396 sur 12 mois) avec l'addition des quatre pages Centris a été vérifiée."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Page 42, « Secteur 32 : Est de la Rive-Nord » (carte: Lavaltrie, L'Assomption, Saint-Sulpice, L'Épiphanie, Saint-Roch-de-l'Achigan): unifamiliale médiane 525 000 $ (+4 %) au trimestre; tableau 3: « Vendeur » sous 790 000 $, 8,5 mois et « Équilibré » à 790 000 $ et plus. Page 6, définition des secteurs. Page lue par la couche texte et par un rendu en image."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 14 octobre 2026: l'agglomération de Joliette parmi les marchés où les conditions « demeurent néanmoins très avantageuses pour les vendeurs »."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/cartes/mrc/610.pdf",
+   "title": "610 - MRC de Joliette (carte du Répertoire des municipalités)",
+   "publisher": "Ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-10-21",
+   "supports": "Composition de la MRC de Joliette (10 municipalités, dont Saint-Pierre), population totale 75 511 et Joliette 22 401 selon le décret de population 1499-2025 (population 2026)."
+  },
+  {
+   "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications/cartes/mrc/520.pdf",
+   "title": "520 - MRC de D'Autray (carte du Répertoire des municipalités)",
+   "publisher": "Ministère des Affaires municipales et de l'Habitation",
+   "consulted": "2026-10-21",
+   "supports": "Composition de la MRC de D'Autray (15 municipalités), population totale 47 664 et Lavaltrie 16 016 selon le décret de population 1499-2025 (population 2026)."
+  },
+  {
+   "url": "https://www.joliette.ca/la-ville/administration-et-finances/refonte-reglementaire-durbanisme",
+   "title": "Refonte de la règlementation d'urbanisme | Ville de Joliette",
+   "publisher": "Ville de Joliette",
+   "consulted": "2026-10-21",
+   "supports": "Dernière refonte en 1990; projets de règlements préliminaires mis à jour le 20 octobre 2026, documents de travail appelés à évoluer; consultation publique le 4 novembre à 18 h au 1075, boulevard de la Firestone; adoption prévue à l'automne 2026; annexes du projet de zonage « Cote de crues » et « Cadre normatif glissement de terrain »."
+  },
+  {
+   "url": "https://www.joliette.ca/actualite/communiques/2026-un-budget-axe-sur-la-perennite",
+   "title": "2026 : Un budget axé sur la pérennité | Ville de Joliette",
+   "publisher": "Ville de Joliette",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 15 décembre 2025: nouveau rôle en vigueur le 1er janvier 2026, valeur résidentielle moyenne +45 %, taux de 0,73 $ à 0,549 $ par 100 $, maison moyenne d'un peu plus de 427 000 $ et hausse annuelle de 200 $; 57 % des propriétaires d'unifamiliales: baisse, stabilité ou hausse de 120 $ ou moins, 43 %: hausse de plus de 120 $."
+  },
+  {
+   "url": "https://www.joliette.ca/la-ville/administration-et-finances/taxes-et-evaluation",
+   "title": "Taxes et évaluation | Ville de Joliette",
+   "publisher": "Ville de Joliette",
+   "consulted": "2026-10-21",
+   "supports": "Barème du droit de mutation: 0,5 % jusqu'à 62 900 $, 1 % jusqu'à 315 000 $, 1,5 % jusqu'à 500 000 $, 3,0 % au-delà; base: le plus élevé du prix, de la contrepartie et de la valeur au rôle multipliée par un facteur comparatif; paiement en trois versements si le droit est de 300 $ ou plus; rôle 2026-2027-2028."
+  },
+  {
+   "url": "https://www.ville.lavaltrie.qc.ca/ville/taxes-municipales",
+   "title": "Taxes municipales | Ma ville | Ville de Lavaltrie",
+   "publisher": "Ville de Lavaltrie",
+   "consulted": "2026-10-21",
+   "supports": "Barème 2026 du droit de mutation: 0,5 %, 1 %, 1,5 % puis 3 % au-delà de 500 000 $; base: le plus élevé du prix, de la contrepartie et de la valeur au rôle; facturation dans un délai de 1 à 3 mois après la vente. Calcul de l'article sur 490 000 $: 314,50 $ + 2 521,00 $ + 2 625,00 $ = 5 460,50 $."
+  },
+  {
+   "url": "https://www.ville.lavaltrie.qc.ca/services-citoyens/evaluation-fonciere",
+   "title": "Évaluation foncière | Services aux citoyens | Ville de Lavaltrie",
+   "publisher": "Ville de Lavaltrie",
+   "consulted": "2026-10-21",
+   "supports": "Rôle 2024-2025-2026, date de référence 1er juillet 2022, fin le 31 décembre 2026; valeur moyenne d'une unifamiliale de 252 500 $ à 415 000 $ (+64 %) entre le 1er juillet 2019 et le 1er juillet 2022."
+  },
+  {
+   "url": "https://www.ville.lavaltrie.qc.ca/info/avis-publics",
+   "title": "Avis publics et appels d'offres | Information | Ville de Lavaltrie",
+   "publisher": "Ville de Lavaltrie",
+   "consulted": "2026-10-21",
+   "supports": "Liste des avis publics 2026 parcourue le 2026-10-21: aucun avis de dépôt d'un nouveau rôle d'évaluation (seul un avis de dépôt du rôle de perception, le 2026-01-14). L'avis du 2025-09-24 « dépôt du rôle d'évaluation foncière », rouvert par le vérificateur le 2026-10-21, porte sur la troisième année d'application du rôle triennal 2024, 2025 et 2026 (sommaire déposé le 15 septembre 2025), pas sur un nouveau rôle."
+  },
+  {
+   "url": "https://www.ville.lavaltrie.qc.ca/storage/app/media/Avis%20publics/2026/AVP_consul_RRU1-13-2026_RRU2-76-2026_208-4-2026_V2_sc.pdf",
+   "title": "Avis public: consultation publique sur les projets de règlement RRU1-13-2026, RRU2-76-2026 et 208-4-2026",
+   "publisher": "Ville de Lavaltrie",
+   "consulted": "2026-10-21",
+   "supports": "Avis du 7 octobre 2026: projets adoptés le 14 septembre 2026 visant le centre-ville (RRU1-13-2026: nouvelle affectation « Urbain, entrée de centre-ville » au PPU du centre-ville) et la zone U-186 (RRU2-76-2026: hauteur, façades, marges; 208-4-2026: critères de PIIA); au moins 70 % des cases en souterrain pour un bâtiment de plus de 50 logements; assemblée de consultation le 19 octobre 2026 à 18 h 30; projet de zonage susceptible d'approbation référendaire."
+  },
+  {
+   "url": "https://www.mrcautray.qc.ca/citoyens/evaluation-fonciere/",
+   "title": "Évaluation foncière - MRC de D'Autray",
+   "publisher": "MRC de D'Autray",
+   "consulted": "2026-10-21",
+   "supports": "Page du service d'évaluation de la MRC, lue le 2026-10-21: aucune mention d'un rôle 2027-2028-2029 pour Lavaltrie."
+  },
+  {
+   "url": "https://www.ville.lavaltrie.qc.ca/storage/app/media/Proc%C3%A8s-verbaux/2025/2025-09-08_PV_ord.pdf",
+   "title": "Séance ordinaire du conseil municipal du 8 septembre 2025, procès-verbal",
+   "publisher": "Ville de Lavaltrie",
+   "consulted": "2026-10-21",
+   "supports": "Résolution « Confection de la cartographie des zones inondables du fleuve Saint-Laurent par la Communauté métropolitaine de Montréal »: le conseil demande au gouvernement d'appuyer financièrement la cartographie du secteur du lac Saint-Pierre pour qu'elle soit réalisée par la CMM."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cadre-reglementaire",
+   "title": "Cadre réglementaire pour la gestion des milieux hydriques et des ouvrages de protection contre les inondations",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Le cadre réglementaire modernisé remplace le régime transitoire depuis le 1er mars 2026."
+  },
+  {
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/remplacement-de-ponceaux-sous-lautoroute-40-felix-leclerc-a-lavaltrie-a-sainte-genevieve-de-berthier-et-a-saint-barthelemy-72696",
+   "title": "Remplacement de ponceaux sous l'autoroute 40 (Félix-Leclerc) à Lavaltrie, à Sainte-Geneviève-de-Berthier et à Saint-Barthélemy",
+   "publisher": "Ministère des Transports et de la Mobilité durable",
+   "consulted": "2026-10-21",
+   "supports": "Avis du 15 octobre 2026: travaux à compter de la semaine du 19 octobre, deux semaines entre les kilomètres 116 et 121 à Lavaltrie, aire de service du Point-du-Jour fermée, une voie par direction, 70 km/h."
+  },
+  {
+   "url": "https://www.transports.gouv.qc.ca/fr/projets-infrastructures/investissements/investissements-2026-2028/Pages/investissements-2026-2028.aspx",
+   "title": "Investissements 2026-2028",
+   "publisher": "Ministère des Transports et de la Mobilité durable",
+   "consulted": "2026-10-21",
+   "supports": "Données servies par https://www.transports.gouv.qc.ca/Documents/Investissements/XML/Investissements_20262028.xml, lues le 2026-10-21: « Lavaltrie | Reconstruction d'un pont d'étagement sur l'autoroute 31, au-dessus de l'autoroute 40 | $$$$ » (10 à 25 M$), travaux en 2026-2027 et 2027-2028; aucun projet dont la municipalité principale est Joliette."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.2&GeographyId=24&GeographyTypeId=2&DisplayAs=Table&GeograghyName=Qu%C3%A9bec",
+   "title": "Québec - Taux d'inoccupation, selon le nombre de chambres, Régions métropolitaines, agglomérations de recensement et villes",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Agglomération de recensement de Joliette: taux total 1,5 % (cote a, « Excellent ») en octobre 2025; 3,3 % (cote c) en octobre 2024 (même URL avec &ForTimePeriod.Year=2024&ForTimePeriod.Month=10)."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=1.1.1.6&GeographyId=24&GeographyTypeId=2&DisplayAs=Table&GeograghyName=Qu%C3%A9bec&Ytd=true",
+   "title": "Québec - Mises en chantier, selon le type de logements, dans les régions métropolitaines de recensement et les agglomérations de recensement comptant au moins 50 000 habitants",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Agglomération de recensement de Joliette, janvier à septembre 2026: 281 mises en chantier, dont 261 appartements; janvier à septembre 2025: 397 (même URL avec &ForTimePeriod.Year=2025&ForTimePeriod.Month=9)."
+  }
+ ],
+ "claims_needing_review": []
+}

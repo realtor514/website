@@ -1,0 +1,203 @@
+{
+ "id": "t265",
+ "slug": "marche-immobilier-mascouche",
+ "title": "Marché immobilier à Mascouche: 3e trimestre 2026",
+ "target_keyword": "marche immobilier mascouche",
+ "word_count": 1775,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/fonte-neiges-infiltration-clapet-montreal/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/articles/acheter-zone-inondable-quebec/",
+  "/courtier-immobilier/mascouche/",
+  "/courtier-immobilier/terrebonne/",
+  "/tools/welcome-tax/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/mascouche",
+   "title": "Mascouche, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tous les chiffres de Mascouche des trois tableaux et du texte, 3e trimestre 2026 et cumul des 4 derniers trimestres: total résidentiel 168 ventes (+5 %), 253 nouvelles inscriptions (+13 %), 203 inscriptions en vigueur (+29 %), 795 ventes sur 4 trimestres (-2 %); unifamiliale 104 ventes (-1 %), 111 inscriptions (+35 %), 600 000 $ (+3 %), 25 jours (-5), cumul 490 ventes (-1 %), 610 750 $ (+7 %), 24 jours (-11), 101 inscriptions (+8 %); copropriété 60 ventes (+25 %), 84 inscriptions (+37 %), 387 500 $ (+6 %), 43 jours (+9), cumul 274 (-2 %), 365 187 $ (+4 %), 33 jours (+2), 84 (+50 %); plex 4 ventes, prix et délai non publiés (**), 7 inscriptions, cumul 30 ventes (-3 %), 828 237 $ (+7 %), 54 jours (-3), 11 inscriptions; population 51 183 (recensement 2021); notes de la page (variation par rapport au même trimestre de l'année précédente, sens de **). Page lue en curl le 2026-10-21: identique, chiffre à chiffre, au JSON state/marche_T3_2026/centris_lanaudiere.json."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere",
+   "title": "Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Lignes « Lanaudière » des trois tableaux: total 1 628 ventes (-10 %); unifamiliale 1 292 ventes (-10 %), 518 250 $ (+4 %), 43 jours (+3), 2 312 inscriptions (+22 %); copropriété 265 ventes (0 %), 363 000 $ (0 %), 52 jours (+12), 392 inscriptions (+30 %); plex 61 ventes (-42 %), 670 000 $ (+11 %), 35 jours (-15), 206 inscriptions (+13 %). Page lue en curl le 2026-10-21. Les rangs cités (délai de l'unifamiliale le plus court de la région, 2e rang des ventes sur 4 trimestres derrière Repentigny (Repentigny) à 819, plus grand nombre de ventes de copropriétés) sont calculés sur les 67 pages Centris de Lanaudière du fichier state/marche_T3_2026/centris_lanaudiere.json (récolté le 2026-10-19), en ne retenant que les territoires où la statistique est publiée."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie",
+   "title": "Terrebonne (Lachenaie), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Lachenaie du tableau des voisins: unifamiliale 63 ventes (-20 %), 695 000 $ (+4 %), 34 jours (+5); copropriété sans prix médian trimestriel publié (**). Page lue en curl le 2026-10-21."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne",
+   "title": "Terrebonne (Terrebonne), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Terrebonne du tableau des voisins: unifamiliale 107 ventes (-25 %), 632 500 $ (+5 %), 37 jours (+8); copropriété 42 ventes, 442 000 $. Page lue en curl le 2026-10-21."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/repentigny-repentigny",
+   "title": "Repentigny (Repentigny), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Ligne Repentigny du tableau des voisins: unifamiliale 122 ventes (0 %), 598 000 $ (0 %), 34 jours (+12); copropriété 49 ventes, 320 000 $ (-15 %); 819 ventes résidentielles sur 4 trimestres. Page lue en curl le 2026-10-21."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine",
+   "title": "Terrebonne (La Plaine), Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Délai de l'unifamiliale à La Plaine, 31 jours, cité dans le texte. Page lue en curl le 2026-10-21."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/lavaltrie",
+   "title": "Lavaltrie, Lanaudière: Statistiques immobilières",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Délai de l'unifamiliale à Lavaltrie, 30 jours, deuxième plus court de Lanaudière après Mascouche. Page lue en curl le 2026-10-21."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Page 40, « Secteur 30 : Mascouche », tableau 3 (12 derniers mois, unifamiliale): 4,3 mois sous 310 000 $, 2,9 de 310 000 à 460 000 $, 2,0 de 460 000 à 770 000 $, 2,6 de 770 000 à 920 000 $, 4,9 à 920 000 $ et plus, toutes « Vendeur »; tableau 2: unifamiliale 104 ventes à -2 % et 26 jours (-4), copropriété 85 inscriptions, 387 500 $ (+7 %) et 44 jours, d'où la mention de chiffres un peu différents de ceux de Centris pour le même trimestre (cause non expliquée par les sources). Relu le 2026-10-21 (pdftotext, page 40). Page 65, définitions: moins de 8 mois d'inventaire = marché favorable aux vendeurs, 8 à 10 = équilibré. PDF servi depuis comapciqca-152af.kxcdn.com, lu par sa couche texte et en rendu image le 2026-10-21."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
+   "title": "Taux directeur",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Taux directeur de 2,25 % maintenu à chaque annonce de 2026 jusqu'au 2 septembre 2026; dernière modification le 29 octobre 2025 (-0,25)."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/09/fad-communique-2026-09-02/",
+   "title": "La Banque du Canada maintient le taux directeur à 2¼ %",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Prochaine date d'établissement du taux cible: 28 octobre 2026."
+  },
+  {
+   "url": "https://mascouche.ca/ville/administration/taxes-1",
+   "title": "Taxes | Ville de Mascouche",
+   "publisher": "Ville de Mascouche",
+   "consulted": "2026-10-21",
+   "supports": "Rubrique « Nouveauté 2026, Taxe sur les surfaces imperméables »: en vigueur dès le 1er janvier 2026, tarification progressive, exemption de base, mesure réversible l'année suivant un verdissement, formule « Superficie du terrain moins (bâtiment + verdure) = surface taxable », renvoi au règlement 1350. Rubrique « Taxe de Bienvenue »: taux de 3 % sur la tranche qui excède 500 000 $, paiement en deux versements."
+  },
+  {
+   "url": "https://faq.mascouche.ca/article/quest-ce-que-le-droit-de-mutation",
+   "title": "Qu'est-ce que le droit de mutation?",
+   "publisher": "Ville de Mascouche",
+   "consulted": "2026-10-21",
+   "supports": "Exemple de la Ville: propriété de 560 000 $, droit total de 7 410,50 $, dont 60 000 $ x 3 % = 1 800 $. Les 900 $ au taux provincial sont 60 000 $ x 1,5 %, taux de la Loi D-15.1."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-15.1",
+   "title": "Loi concernant les droits sur les mutations immobilières (RLRQ, c. D-15.1), article 2",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Taux de 1,5 % au-delà de 315 000 $; faculté pour une municipalité de fixer un taux supérieur sur la tranche qui excède 500 000 $, sans dépasser 3 % sauf pour la Ville de Montréal. Lu en direct le 2026-10-21."
+  },
+  {
+   "url": "https://mascouche.ca/storage/app/media/ville/administration/budget-et-rapports-financiers/2026/budget2026-presentation.pdf",
+   "title": "Budget municipal 2026 (présentation du 15 décembre 2025)",
+   "publisher": "Ville de Mascouche",
+   "consulted": "2026-10-21",
+   "supports": "Page 26, « Simulation d'un compte de taxes moyen »: total de 3 690 $ en 2025 et 3 818 $ en 2026 (« 3.44 % »), services municipaux compris. Page 5: « Augmentation moyenne de 128 $ par résidence [...] 3,44 % ». La même page titre aussi « Hausse du compte de taxes moyen limitée à 2,63 % », chiffre de la seule ligne des taxes à taux (3 226 $ à 3 324 $, page 26), non repris; le taux total (0,6115 puis 0,6300) n'est pas repris non plus, le document n'en donnant pas l'unité. Pages PTI 2026-2027-2028: « Bretelle A-640 » 5 675 (000 $) en 2026; « Réaménagement avenue de la Gare » 300, 5 680 et 2 750 (000 $), total 8 730. Page « Écofiscalité et innovation »: « Nouvelle tarification équitable pour grandes surfaces non végétalisées ». Pages lues en rendu image."
+  },
+  {
+   "url": "https://mascouche.ca/services/services-aux-citoyens/evaluation-municipale",
+   "title": "Évaluation municipale | Ville de Mascouche",
+   "publisher": "Ville de Mascouche",
+   "consulted": "2026-10-21",
+   "supports": "Rôle 2025-2026-2027 basé sur le marché au 1er juillet 2023; règle de la Ville: valeurs basées sur le marché au 1er juillet de la deuxième année du rôle précédent, d'où le 1er juillet 2026 pour le rôle 2028-2029-2030. La page ne publie pas de variation moyenne du rôle."
+  },
+  {
+   "url": "https://mascouche.ca/actualites/plan-strategique/feu-vert-pour-la-construction-dune-nouvelle-bretelle-sur-lautoroute-640-a-mascouche",
+   "title": "Feu vert pour la construction d'une nouvelle bretelle sur l'autoroute 640 à Mascouche",
+   "publisher": "Ville de Mascouche",
+   "consulted": "2026-10-21",
+   "supports": "Publié le 8 juillet 2026: certificat d'autorisation du ministère des Transports et de la Mobilité durable obtenu; bretelle de l'A-640 en direction ouest débouchant sur l'avenue de l'Esplanade; passage à la réalisation au cours du mois d'août 2026; mise en service prévue en 2027 selon l'échéancier actuel."
+  },
+  {
+   "url": "https://citoyen.mascouche.ca/consultation/projets/construction-bretelle-autoroute-640",
+   "title": "Construction d'une nouvelle bretelle sur l'autoroute 640 | Projets | Ville de Mascouche",
+   "publisher": "Ville de Mascouche",
+   "consulted": "2026-10-21",
+   "supports": "Statut au 21 octobre 2026: « Début du chantier, Complétée, Août 2026 »; « Réalisation des travaux, En cours, Automne 2026 - Été 2027 »; « Mise en service, À venir, Été 2027 »; « Le projet prévoit l'ajout d'une nouvelle sortie uniquement. Il ne s'agit donc pas d'une nouvelle entrée vers l'autoroute 640 ». Page liée depuis mascouche.ca/info-travaux (« Construction d'une bretelle de sortie de l'autoroute 640 vers avenue de l'Esplanade, Août 2026 à 2027 »). Lue en curl le 2026-10-21."
+  },
+  {
+   "url": "https://mascouche.ca/actualites/plan-strategique/proteger-nos-maisons-et-nos-infrastructures-mascouche-passe-a-laction",
+   "title": "Protéger nos maisons et nos infrastructures : on passe à l'action",
+   "publisher": "Ville de Mascouche",
+   "consulted": "2026-10-21",
+   "supports": "Publié le 10 juin 2026: inondations causées par la tempête Debby en 2024; adoption du premier Plan de résilience climatique, axé sur la gestion de l'eau."
+  },
+  {
+   "url": "https://mascouche.ca/actualites/environnement/protection-contre-les-inondations-nouvelle-aide-financiere",
+   "title": "Protection contre les inondations : nouvelle aide financière",
+   "publisher": "Ville de Mascouche",
+   "consulted": "2026-10-21",
+   "supports": "Publié le 17 juin 2026: programme contre les inondations causées par les pluies abondantes, 75 % des dépenses admissibles avant taxes jusqu'à 1 500 $ par adresse; plafonds de 250 $ (évaluation ou inspection préventive), 400 $ (clapet anti-retour), 600 $ (pompe de puisard), 700 $ (batterie ou pompe de relève); enveloppe de 100 000 $ pour 2026; premier arrivé, premier servi."
+  },
+  {
+   "url": "https://mascouche.ca/services/services-aux-citoyens/programmes-et-subventions",
+   "title": "Programmes et subventions | Ville de Mascouche",
+   "publisher": "Ville de Mascouche",
+   "consulted": "2026-10-21",
+   "supports": "Statut au 21 octobre 2026 de la « Subvention pour résilience des pluies abondantes »: « Le programme est en vigueur pour l'année 2026 », « jusqu'à l'épuisement de l'enveloppe budgétaire », sans mention d'enveloppe épuisée; mêmes plafonds (250 $, 400 $, 600 $, 700 $) et « Remboursement de 75 % des dépenses admissibles avant taxes, jusqu'à un maximum de 1 500 $ par adresse civique »."
+  },
+  {
+   "url": "https://mascouche.ca/storage/app/media/services/reglements-et-permis/urbanisme/reglement1103zonage.pdf",
+   "title": "Règlement de zonage no 1103, codification administrative, septembre 2026",
+   "publisher": "Ville de Mascouche",
+   "consulted": "2026-10-21",
+   "supports": "Article 37, zones inondables: cartes « Zones de contraintes naturelles » de la MRC Les Moulins, cartes « Représentation de la plaine inondable » du Centre d'expertise hydrique et cotes de crues de la rivière Mascouche (amont et aval); les tableaux de cotes prévalent en cas de contradiction; délimitation exacte par un arpenteur-géomètre aux frais du propriétaire."
+  },
+  {
+   "url": "https://cmm.qc.ca/nouvelles/zones-inondables-et-crues-printanieres-petit-guide-pratique/",
+   "title": "Zones inondables et crues printanières : petit guide pratique",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-21",
+   "supports": "Nouvelles cartes de la CMM pour 14 plans d'eau, dont la rivière Mascouche; les cartes d'ancienne génération conservent leur pleine validité jusqu'à leur remplacement."
+  },
+  {
+   "url": "https://cmm.qc.ca/communiques/nouvelle-cartographie-des-zones-inondables-la-cmm-demande-au-gouvernement-du-quebec-de-maintenir-la-mise-en-vigueur-le-1er-aout/",
+   "title": "Nouvelle cartographie des zones inondables : La CMM demande au gouvernement du Québec de maintenir la mise en vigueur le 1er août",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-21",
+   "supports": "Communiqué du 30 juillet 2026: la CMM « demande au ministère de l'Environnement [...] de revenir sur sa décision de retarder, à une date indéterminée, la publication du premier lot de cartes », dont la mise en vigueur était prévue le 1er août 2026; liste des secteurs du premier lot, qui ne nomme pas la rivière Mascouche."
+  },
+  {
+   "url": "https://fichiers.exo.quebec/pdf/lignes/train/TRAINS/MA/exo15-20251222_20271231.pdf",
+   "title": "Ligne Mascouche, horaire en vigueur à compter de janvier 2026",
+   "publisher": "exo",
+   "consulted": "2026-10-21",
+   "supports": "Mascouche en zone C, première gare de la direction Montréal; huit départs du lundi au vendredi (5 h 40, 6 h 17, 6 h 50, 7 h 30, 8 h 30, 13 h 32, 17 h 17, 20 h 20), dont cinq avant 9 h; aucun service les fins de semaine et jours fériés. La couche texte du PDF indique le 12 janvier 2026, le rendu image semble afficher le 2 janvier: l'article écrit seulement « depuis janvier 2026 »."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=1.1.1.9&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al&Ytd=true",
+   "title": "Montréal - Mises en chantier, selon le type de logements par subdivision de recensement",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Janvier à septembre 2026: Mascouche 308 mises en chantier (28 individuels, 280 appartements), Terrebonne 208, Repentigny 129. Janvier à septembre 2025 (même URL avec &ForTimePeriod.Year=2025&ForTimePeriod.Month=9): Mascouche 272."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.4&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al",
+   "title": "Montréal - Taux d'inoccupation, selon le nombre de chambres par subdivision de recensement",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Octobre 2025: taux d'inoccupation total de Mascouche de 3,3 %, cote d (« Passable, utiliser avec prudence »)."
+  }
+ ],
+ "claims_needing_review": []
+}

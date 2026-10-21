@@ -1,0 +1,258 @@
+{
+ "id": "t258",
+ "slug": "marche-immobilier-saint-eustache-deux-montagnes",
+ "title": "Marché immobilier à Saint-Eustache et Deux-Montagnes: 3e trimestre 2026",
+ "target_keyword": "marche immobilier saint-eustache",
+ "word_count": 1689,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/tools/welcome-tax/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/acheter-zone-inondable-quebec/",
+  "/articles/rive-nord-guide-laval/",
+  "/courtier-immobilier/saint-eustache/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-eustache",
+   "title": "Statistiques immobilières, Saint-Eustache, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Page ouverte en curl le 2026-10-21, identique au JSON state/marche_T3_2026/centris_laurentides.json. 3e trimestre 2026: total résidentiel 100 ventes (-13 %), 142 inscriptions en vigueur (+26 %). Unifamiliale: 68 ventes (-15 %), 84 inscriptions en vigueur (+1 %), prix médian 598 250 $ (+5 %), 23 jours (-5); cumul 4 trimestres 400 ventes (+5 %), 589 187 $ (+6 %), 28 jours (-3). Copropriété: 28 ventes, prix médian du trimestre non publié (**), 51 inscriptions en vigueur (+121 %); cumul 143 ventes (-3 %), 366 250 $ (+2 %), 39 jours (+4). Plex: 3 ventes, médiane non publiée même sur 4 trimestres. Notes de la page: variations « calculées par rapport au même trimestre de l'année précédente »; ** = « Nombre de transactions insuffisant pour produire une statistique fiable »; le total résidentiel inclut les fermettes."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/sainte-marthe-sur-le-lac",
+   "title": "Statistiques immobilières, Sainte-Marthe-sur-le-Lac, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Page ouverte en curl le 2026-10-21, identique au JSON. 3e trimestre 2026: total 71 ventes (+10 %). Unifamiliale: 49 ventes (+28 %), 69 inscriptions en vigueur (+35 %), prix médian 558 750 $ (-9 %), 29 jours (-3); cumul 4 trimestres 231 ventes (-8 %), 605 187 $ (+3 %), 31 jours (-8). Copropriété: 19 ventes, médiane du trimestre non publiée; cumul 112 ventes (+25 %), 383 487 $ (-1 %), 24 jours (+2). Plex: 3 ventes."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/deux-montagnes",
+   "title": "Statistiques immobilières, Deux-Montagnes, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Page ouverte en curl le 2026-10-21, identique au JSON. 3e trimestre 2026: total 40 ventes (-2 %), 64 inscriptions en vigueur (+72 %). Unifamiliale: 29 ventes (variation **), 45 inscriptions en vigueur (+95 %), prix médian et jours du trimestre non publiés (**); cumul 4 trimestres 170 ventes (+17 %), 553 750 $ (+8 %), 26 jours (-7). Copropriété: 5 ventes; cumul 37 ventes (+42 %), 359 725 $ (-2 %), 63 jours (+22). Plex: 6 ventes, médiane non publiée."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/pointe-calumet",
+   "title": "Statistiques immobilières, Pointe-Calumet, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Page ouverte en curl le 2026-10-21, identique au JSON. 3e trimestre 2026: total 19 ventes; unifamiliale 17 ventes, médiane du trimestre non publiée; cumul 4 trimestres 85 ventes (-11 %), 416 715 $ (+2 %), 35 jours (-13). Copropriété: 0 vente. Plex: 2 ventes."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-joseph-du-lac",
+   "title": "Statistiques immobilières, Saint-Joseph-du-Lac, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Page ouverte en curl le 2026-10-21, identique au JSON. 3e trimestre 2026: total 12 ventes; unifamiliale 8 ventes, médiane du trimestre non publiée; cumul 4 trimestres 43 ventes (-17 %), 598 687 $ (-1 %), 30 jours (-26). Copropriété: 4 ventes, cumul 25, médiane non publiée même sur 4 trimestres. Plex: 0 vente."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/oka",
+   "title": "Statistiques immobilières, Oka, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Page ouverte en curl le 2026-10-21, identique au JSON. 3e trimestre 2026: total 6 ventes; unifamiliale 5 ventes, médiane du trimestre non publiée; cumul 4 trimestres 39 ventes (-22 %), 568 750 $ (-5 %), 45 jours (-11). Copropriété: 1 vente. Plex: 0 vente."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/saint-placide",
+   "title": "Statistiques immobilières, Saint-Placide, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Page ouverte en curl le 2026-10-21, identique au JSON. 3e trimestre 2026: total 4 ventes, toutes unifamiliales; cumul 4 trimestres 25 ventes; prix médian non publié, même sur 4 trimestres. Copropriété et plex: 0 vente au trimestre."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides",
+   "title": "Statistiques immobilières, Laurentides",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Région des Laurentides, 3e trimestre 2026: unifamiliale 1 804 ventes (+2 %), prix médian 573 750 $ (+5 %), 49 jours (+3); cumul 4 trimestres 7 645 ventes (-2 %), 567 487 $ (+6 %), 47 jours (-6). Copropriété: 361 ventes (-23 %); cumul 1 837 (-10 %), 386 112 $ (+3 %), 62 jours (+2). Calcul de l'auteur à partir des huit pages Centris: ventes totales des sept municipalités 100+40+71+19+12+6+4 = 252 (Saint-Eustache 100/252, environ 40 %); unifamiliales 68+29+49+17+8+5+4 = 180; copropriétés 28+5+19+0+4+1+0 = 57; plex 3+6+3+2+0+0+0 = 14. Aucune somme ni moyenne de prix médians."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI, baromètre résidentiel, 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "PDF téléchargé le 2026-10-21; page 35 lue par couche texte et par rendu image. Secteur 25 Ouest de la Rive-Nord, T3 2026: 252 ventes (-9 %), 484 nouvelles inscriptions (+12 %), 416 inscriptions en vigueur (+25 %). Unifamiliale: 180 ventes (-9 %), prix médian 573 500 $ (+2 %), 30 jours (-7). Copropriété: 57 ventes (-15 %), 355 000 $ (-4 %), 45 jours (+12). Plex: 14 ventes, médiane du trimestre **; 12 derniers mois 47 ventes, 766 000 $ (+2 %). Tableau 3, unifamiliale, 12 derniers mois: 5,6 mois sous 280 000 $, 2,7 de 280 000 à 430 000 $, 2,5 de 430 000 à 710 000 $, 3,2 de 710 000 à 850 000 $ (« Vendeur »), 12,1 à 850 000 $ et plus (« Acheteur »). Page 6: le secteur 25 liste Deux-Montagnes, Oka, Pointe-Calumet, Sainte-Marthe-sur-le-Lac, Saint-Eustache, Saint-Joseph-du-Lac; la carte de la page 35 étiquette aussi Saint-Placide. Page 34, Rive-Nord: unifamiliale 1 566 ventes, prix médian 596 000 $ (+4 %), 36 jours (+4)."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs (communiqué du 14 octobre 2026)",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "« 9 265 transactions ont été conclues dans la RMR de Montréal, soit 12 % de moins qu'à la même période un an plus tôt »; « Dans le segment de l'unifamiliale, les vendeurs conservent néanmoins un avantage pour chacun des grands secteurs de la RMR »; pour la copropriété, « la Rive-Nord et la Rive-Sud demeurent à l'avantage des vendeurs »."
+  },
+  {
+   "url": "https://www.banqueducanada.ca/2026/09/fad-communique-2026-09-02/",
+   "title": "La Banque du Canada maintient le taux directeur à 2¼ %",
+   "publisher": "Banque du Canada",
+   "consulted": "2026-10-21",
+   "supports": "Taux cible du financement à un jour maintenu à 2,25 % le 2 septembre 2026; « La prochaine date d'établissement du taux cible du financement à un jour est le 28 octobre 2026. » Formulation « au 19 octobre 2026 » reprise de la consigne de la série (contexte_commun.md)."
+  },
+  {
+   "url": "https://rem.info/fr/se-deplacer/stations-du-reseau",
+   "title": "Stations du réseau",
+   "publisher": "REM (CDPQ Infra)",
+   "consulted": "2026-10-21",
+   "supports": "« Couronne Nord (zone tarifaire C) (2 stations) Grand-Moulin En service Deux-Montagnes En service ». Aucune station listée à Saint-Eustache ni à Sainte-Marthe-sur-le-Lac."
+  },
+  {
+   "url": "https://rem.info/fr/se-deplacer/stations-du-reseau/deux-montagnes",
+   "title": "Station Deux-Montagnes",
+   "publisher": "REM (CDPQ Infra)",
+   "consulted": "2026-10-21",
+   "supports": "Adresse: « 400, boulevard Deux-Montagnes, Deux-Montagnes ». Fiche de la station Grand-Moulin (https://rem.info/fr/se-deplacer/stations-du-reseau/grand-moulin), ouverte le même jour: « 46, rue de la Gare, Deux-Montagnes »."
+  },
+  {
+   "url": "https://rem.info/fr/actualites/ouverture-officielle-de-14-nouvelles-stations-du-rem",
+   "title": "Ouverture officielle de 14 nouvelles stations du REM entre le centre-ville de Montréal et Deux-Montagnes (publiée le 17 novembre 2025)",
+   "publisher": "REM (CDPQ Infra)",
+   "consulted": "2026-10-21",
+   "supports": "« Dès aujourd'hui, vous pouvez officiellement utiliser le REM de la Rive-Sud jusqu'à la Rive-Nord de Montréal. », publiée le 17 novembre 2025; inauguration protocolaire le 14 novembre 2025 à la station Deux-Montagnes."
+  },
+  {
+   "url": "https://rem.info/fr/se-deplacer/faq-sur-les-deplacements/stationnements-payants-inauguration-novembre-2025",
+   "title": "Est-ce qu'il y a des stationnements payants aux stations Du Ruisseau, Bois-Franc, Sunnybrooke, Pierrefonds-Roxboro, Île-Bigras, Sainte-Dorothée, Grand-Moulin et Deux-Montagnes?",
+   "publisher": "REM (CDPQ Infra)",
+   "consulted": "2026-10-21",
+   "supports": "« Les espaces de stationnement payants sont actuellement actifs aux stations suivantes : Deux-Montagnes Grand-Moulin ... »"
+  },
+  {
+   "url": "https://www.ville.deux-montagnes.qc.ca/actualites/info-travaux/debut-des-travaux-projet-residentiel-quai-no-15",
+   "title": "Début des travaux, Projet résidentiel Quai no. 15 (19 mars 2026)",
+   "publisher": "Ville de Deux-Montagnes",
+   "consulted": "2026-10-21",
+   "supports": "Projet au bout de la 15e Avenue, en bordure du lac des Deux Montagnes: « cinq bâtiments de 16 étages »; « Situé à proximité de la gare du REM Grand-Moulin, ce projet s'inscrit dans une aire de type TOD (Transit Oriented Development), favorisant la densification près des pôles de transport collectif »; « les deux tiers du territoire de Deux-Montagnes demeurent composés d'unifamiliales ou de bifamiliales »; orientations de la Ville qui « visent notamment à concentrer la densification à proximité des gares, de manière à préserver les quartiers existants » (appuie la conséquence pratique). Le titre de la source contient un tiret long, remplacé ici par une virgule."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=1.1.1.9&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al&Ytd=true",
+   "title": "Montréal, Mises en chantier, selon le type de logements par subdivision de recensement, janvier à septembre 2026 et 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Janvier à septembre 2026: Deux-Montagnes (V) 3 individuels, 0 jumelé, 10 en rangée, 520 appartements, total 533; Saint-Eustache (V) total 23; Sainte-Marthe-sur-le-Lac (V) 41; Saint-Joseph-du-Lac 53; Oka 5; Pointe-Calumet 2; Saint-Placide 3. Même période de 2025 (paramètres &ForTimePeriod.Year=2025&ForTimePeriod.Month=9): Deux-Montagnes 186, Saint-Eustache 100, Sainte-Marthe-sur-le-Lac 85."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.4&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al",
+   "title": "Montréal, Taux d'inoccupation, selon le nombre de chambres par subdivision de recensement, octobre 2025",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Colonne Total, octobre 2025: Saint-Eustache (V) 1,0 % (cote a); Deux-Montagnes (V) 0,6 % (cote b); Montréal (RMR) 2,9 % (a). Total non publié (**) pour Sainte-Marthe-sur-le-Lac, Oka, Pointe-Calumet, Saint-Joseph-du-Lac et Saint-Placide. Seule cellule publiée pour ces cinq: Sainte-Marthe-sur-le-Lac, 3 chambres et plus, 0,0 % (cote d); l'article dit donc « pas de taux global » et non « rien » (vérification du 2026-10-21)."
+  },
+  {
+   "url": "https://cmm.qc.ca/communiques/nouvelle-cartographie-des-zones-inondables-la-cmm-demande-au-gouvernement-du-quebec-de-maintenir-la-mise-en-vigueur-le-1er-aout/",
+   "title": "Nouvelle cartographie des zones inondables : La CMM demande au gouvernement du Québec de maintenir la mise en vigueur le 1er août (30 juillet 2026)",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-21",
+   "supports": "La CMM demande au MELCCFP « de revenir sur sa décision de retarder, à une date indéterminée, la publication du premier lot de cartes des zones inondables de nouvelle génération », dont la mise en vigueur était prévue « le 1er août 2026 »; ce lot couvre notamment « la rivière des Mille Îles » et « le lac des Deux Montagnes »."
+  },
+  {
+   "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/zones-inondables-mobilite-rives-littoral/cartographies/en-vigueur",
+   "title": "Cartographies des zones inondables et des zones de mobilité d'un cours d'eau en vigueur",
+   "publisher": "Gouvernement du Québec",
+   "consulted": "2026-10-21",
+   "supports": "Page « Dernière mise à jour : 28 août 2026 »: « Les cartographies de nouvelle génération seront publiées progressivement au cours des prochains mois. »; « En l'absence d'une cartographie de nouvelle génération, les cartographies en vigueur sont celles disponibles auprès de votre municipalité locale ou de votre MRC. Elles sont désignées comme des cartographies d'ancienne génération. »; derrière un ouvrage dont une municipalité est déclarée responsable, une « zone protégée à risque résiduel » dont les normes « seront associées à la classe d'intensité faible »."
+  },
+  {
+   "url": "https://vsmsll.ca/actualites/communications-citoyennes/nouveau-cadre-reglementaire-sur-les-zones-inondables-ce-que-cela-signifie-pour-sainte-marthe-sur-le-lac",
+   "title": "Nouveau cadre réglementaire sur les zones inondables : ce que cela signifie pour Sainte-Marthe-sur-le-Lac (publié le 16 mars 2026)",
+   "publisher": "Ville de Sainte-Marthe-sur-le-Lac",
+   "consulted": "2026-10-21",
+   "supports": "Digue « prolongée, renforcée, rehaussée et imperméabilisée en 2020 », « financé par Québec et Ottawa à hauteur de 48,8 M$ »; « quelque 2 000 résidences situées dans le secteur sud »; étude de performance à soumettre « d'ici le 1er mars 2028 »; « le conseil municipal a autorisé la réalisation d'une étude de performance de la digue »; la Ville souhaite que « le secteur sud du territoire soit associé au plus faible degré de risque d'inondation ». Citation du maire François Robillard: clarifier « la catégorisation du sud du chemin d'Oka, semant la confusion chez les assureurs et les prêteurs hypothécaires »."
+  },
+  {
+   "url": "https://vsmsll.ca/services/environnement-et-voirie/cadre-reglementaire-sur-les-zones-inondables",
+   "title": "Cadre réglementaire sur les zones inondables",
+   "publisher": "Ville de Sainte-Marthe-sur-le-Lac",
+   "consulted": "2026-10-21",
+   "supports": "Résolution du conseil sur la prise en charge de la responsabilité d'un ouvrage de protection contre les inondations et la « réalisation d'une étude de performance de la digue d'ici le 1er mars 2028 ». La page dit « séance du conseil municipal du 11 février » sans année: l'article ne cite donc pas cette date."
+  },
+  {
+   "url": "https://www.ville.deux-montagnes.qc.ca/actualites/amenagement-du-territoire/cartographie-preliminaire-des-nouvelles-zones-inondables-retour-sur-la-seance-dinformation-du-21-octobre-2024",
+   "title": "Cartographie préliminaire des nouvelles zones inondables : retour sur la séance d'information du 21 octobre 2024 (22 octobre 2024)",
+   "publisher": "Ville de Deux-Montagnes",
+   "consulted": "2026-10-21",
+   "supports": "« les villes qui, comme Deux-Montagnes, se sont dotées récemment de digues : la nouvelle règlementation les reconnaîtra enfin. Toutefois, il incombe aux villes de démontrer que leur ouvrage de protection contre les inondations (OPI) est sécuritaire »."
+  },
+  {
+   "url": "https://www.ville.deux-montagnes.qc.ca/actualites/amenagement-du-territoire/mise-a-jour-des-travaux-entourant-les-nouvelles-infrastructures-de-resilience-face-aux-inondations",
+   "title": "Mise à jour des travaux entourant les nouvelles infrastructures de résilience face aux inondations (25 avril 2025)",
+   "publisher": "Ville de Deux-Montagnes",
+   "consulted": "2026-10-21",
+   "supports": "Poste de pompage d'égout pluvial et bassin de rétention du parc Central « maintenant pleinement fonctionnels »; « lorsque le niveau du lac est trop haut, la nouvelle station de pompage prend le relais »; « La capacité de pompage des trois pompes de la station est de 1 200 litres par seconde. »"
+  },
+  {
+   "url": "https://www.saint-eustache.ca/ville/planification-du-territoire/zones-inondables",
+   "title": "Zones inondables",
+   "publisher": "Ville de Saint-Eustache",
+   "consulted": "2026-10-21",
+   "supports": "La CMM a été mandatée pour la nouvelle cartographie en quatre classes d'intensité; « L'entrée en vigueur est prévue en 2025. » (énoncé non mis à jour au 21 octobre 2026); « Les propriétaires dont la propriété est située en zones inondables et qui désirent réaliser des travaux ou une construction doivent s'informer auprès du Service de l'urbanisme »."
+  },
+  {
+   "url": "https://www.saint-eustache.ca/actualites/zones-inondables/crues-printanieres-de-la-riviere-des-mille-iles-saint-eustache-passe-en-veille-orange-et-surveille-la-situation-de-tres-pres",
+   "title": "Crues printanières de la rivière des Mille Îles : Saint-Eustache passe en veille orange et surveille la situation de très près (15 avril 2026)",
+   "publisher": "Ville de Saint-Eustache",
+   "consulted": "2026-10-21",
+   "supports": "« (Saint-Eustache, le 15 avril 2026) La Ville de Saint-Eustache surveille de près les mouvements de la rivière des Mille Îles en cette période de crues printanières et passe en mode veille orange »."
+  },
+  {
+   "url": "https://mrc2m.qc.ca/votre-mrc/portrait-de-la-mrc/municipalites",
+   "title": "Municipalités",
+   "publisher": "MRC de Deux-Montagnes",
+   "consulted": "2026-10-21",
+   "supports": "« la MRC de Deux-Montagnes regroupe les municipalités de Saint-Eustache, Deux-Montagnes, Sainte-Marthe-sur-le-Lac, Pointe-Calumet, Saint-Joseph-du-Lac, Oka et Saint-Placide »; « À l'exception de Saint-Placide, le territoire de la MRC est compris à l'intérieur des limites de la Communauté métropolitaine de Montréal (CMM) »; Pointe-Calumet: « l'aménagement d'un ouvrage de protection contre les inondations ». Appuie aussi « Dans la même MRC » de l'accroche."
+  },
+  {
+   "url": "https://www.saint-eustache.ca/taxes-permis-et-reglements/taxes-et-evaluation-fonciere/droits-de-mutation",
+   "title": "Droits de mutation",
+   "publisher": "Ville de Saint-Eustache",
+   "consulted": "2026-10-21",
+   "supports": "« Calcul du droit de mutation 2026 »: 0,5 % jusqu'à 62 900 $, 1 % jusqu'à 315 000 $, 1,5 % jusqu'à 500 000 $, « Sur la tranche excédant 500 000 $ 3 % »; « Le droit de mutation est calculé sur une base qui correspond au montant le plus élevé entre : Le prix d'achat de la propriété. La valeur inscrite au rôle d'évaluation municipale multipliée par un facteur comparatif [...] Le montant de la contrepartie inscrit à l'acte de transfert. »"
+  },
+  {
+   "url": "https://www.ville.deux-montagnes.qc.ca/ville-de-deux-montagnes/administration-et-finances/taxes-et-evaluation-fonciere",
+   "title": "Taxes et évaluation foncière",
+   "publisher": "Ville de Deux-Montagnes",
+   "consulted": "2026-10-21",
+   "supports": "« Tranches de la base d'imposition pour 2026 », « Qui excède 500 000 $ 3,00 % »; « Le facteur comparatif en vigueur pour la Ville de Deux-Montagnes est de 1,12. »"
+  },
+  {
+   "url": "https://vsmsll.ca/ville/administration-et-finances/taxes-et-evaluation-fonciere",
+   "title": "Taxes et évaluation foncière",
+   "publisher": "Ville de Sainte-Marthe-sur-le-Lac",
+   "consulted": "2026-10-21",
+   "supports": "Taux en vigueur « à compter du 1er janvier 2026 »: « Qui excède 500 000 $ 3 % »."
+  },
+  {
+   "url": "https://www.pointe-calumet.ca/municipalite/administration/taxation-et-finances",
+   "title": "Taxation et finances",
+   "publisher": "Municipalité de Pointe-Calumet",
+   "consulted": "2026-10-21",
+   "supports": "« Tranche de la base d'imposition, 2026 »: « Excède 500 000 $ 3,0 % » (tiret long du titre de la source remplacé par une virgule)."
+  },
+  {
+   "url": "https://sjdl.qc.ca/services-municipaux/finances/droit-de-mutation-taxe-de-bienvenue/",
+   "title": "Droit de mutation (taxe de bienvenue)",
+   "publisher": "Municipalité de Saint-Joseph-du-Lac",
+   "consulted": "2026-10-21",
+   "supports": "Taux 2026: « 3 % sur la tranche qui excède 500 000 $ »."
+  },
+  {
+   "url": "https://saintplacide.ca/services-aux-citoyens/administration/finances/services-des-finances/",
+   "title": "Service des finances (section Droit de mutation)",
+   "publisher": "Municipalité de Saint-Placide",
+   "consulted": "2026-10-21",
+   "supports": "« Le taux du droit de mutation pour l'année 2026 »: « 500 000.01 à 1 000 000 : 2 % » et « qui excède 1 000 000 : 3 % ». La page écrit la première tranche « de 5 000 à 62 900 $ », d'où l'absence de total calculé pour Saint-Placide dans l'article: seule la tranche de 500 000 $ à 600 000 $ est comparée (100 000 $ x 2 % = 2 000 $)."
+  },
+  {
+   "url": "https://municipalite.oka.qc.ca/citoyen/droit-de-mutation-oka/",
+   "title": "Droit de mutation",
+   "publisher": "Municipalité d'Oka",
+   "consulted": "2026-10-21",
+   "supports": "« 1,5 % sur la tranche de 315 000,01 $ à 630 100 $ », « 2,0% sur la tranche de 630 100,01 $ à 1 260 300 $ », « 3,0 % sur la tranche qui excède 1 260 300,01 $ »; « Information mise à jour le : 30 janvier 2026 »; Règlement 2018-195. Calcul de l'auteur sur la tranche de 500 000 $ à 600 000 $: 3 000 $ à 3 % (cinq villes), 2 000 $ à Saint-Placide, 1 500 $ à Oka."
+  }
+ ],
+ "claims_needing_review": []
+}

@@ -1,0 +1,216 @@
+{
+ "id": "t264",
+ "slug": "marche-immobilier-terrebonne-lachenaie-la-plaine",
+ "title": "Marché immobilier à Terrebonne, Lachenaie et La Plaine: 3e trimestre 2026",
+ "target_keyword": "marche immobilier terrebonne",
+ "word_count": 1795,
+ "category": "Analyse de marché",
+ "internal_links": [
+  "/articles/acheter-zone-inondable-quebec/",
+  "/articles/comparables-prix-maison-voisin-quebec/",
+  "/articles/rive-nord-guide-laval/",
+  "/articles/taxe-de-bienvenue-quebec/",
+  "/courtier-immobilier/la-plaine-terrebonne/",
+  "/tools/welcome-tax/",
+  "/formulaire/"
+ ],
+ "sources": [
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne",
+   "title": "Statistiques immobilières, Terrebonne (Terrebonne), Lanaudière",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tous les chiffres du secteur Terrebonne, 3e trimestre 2026 et cumul des 4 derniers trimestres: total résidentiel 160 ventes (-16 %), 259 nouvelles inscriptions (+22 %), 201 inscriptions en vigueur (+22 %), 713 ventes sur 4 trimestres (-17 %); unifamiliale 107 ventes (-25 %), 138 inscriptions en vigueur (+28 %), prix médian 632 500 $ (+5 %), 37 jours (+8), sur 4 trimestres 615 437 $ et 30 jours; copropriété 42 ventes (+16 %), 442 000 $ (+4 %), 35 jours, sur 4 trimestres 167 ventes (-28 %) et 398 687 $ (-1 %); plex 11 ventes, prix du trimestre **, sur 4 trimestres 48 ventes (-14 %) et 754 640 $ (+1 %). Notes de la page lues: « Les taux de variation sont calculés par rapport au même trimestre de l'année précédente » et « ** Nombre de transactions insuffisant pour produire une statistique fiable ». Page lue en curl et state/marche_T3_2026/centris_lanaudiere.json concordent."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-lachenaie",
+   "title": "Statistiques immobilières, Terrebonne (Lachenaie), Lanaudière",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tous les chiffres de Lachenaie: total résidentiel 90 ventes (-14 %), 125 nouvelles inscriptions (-6 %), 108 inscriptions en vigueur (+9 %), 422 ventes sur 4 trimestres (-13 %); unifamiliale 63 ventes (-20 %), 66 inscriptions en vigueur (+13 %), prix médian 695 000 $ (+4 %), 34 jours (+5), sur 4 trimestres 670 725 $ et 34 jours; copropriété 27 ventes, prix et délai du trimestre **, sur 4 trimestres 129 ventes (-8 %) et 377 125 $ (0 %); plex 0 vente, 7 sur 4 trimestres, prix **. Page et JSON concordent."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine",
+   "title": "Statistiques immobilières, Terrebonne (La Plaine), Lanaudière",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Tous les chiffres de La Plaine: total résidentiel 69 ventes (+9 %), 112 nouvelles inscriptions (+45 %), 89 inscriptions en vigueur (+74 %), 344 ventes sur 4 trimestres (+8 %); unifamiliale 56 ventes (+21 %), 74 inscriptions en vigueur (+94 %), prix médian 520 000 $ (+3 %), 31 jours (+4), sur 4 trimestres 519 062 $ et 27 jours; copropriété 11 ventes, prix du trimestre **, sur 4 trimestres 62 ventes (+10 %) et 333 000 $ (+1 %); plex 2 ventes, 12 sur 4 trimestres, prix **. Page et JSON concordent. Calculs de l'article à partir des trois pages: 160 + 90 + 69 = 319 ventes; 226 unifamiliales sur 319, soit sept sur dix; écart entre deux prix médians du trimestre, sans moyenne: 695 000 - 520 000 = 175 000 $ (Lachenaie moins La Plaine). Page relue en curl le 2026-10-21: identique au JSON."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere",
+   "title": "Statistiques immobilières, Lanaudière",
+   "publisher": "Centris",
+   "consulted": "2026-10-21",
+   "supports": "Comparaison régionale: 1 628 ventes résidentielles (-10 %), inscriptions en vigueur +22 %; unifamiliale 518 250 $ (+4 %), 43 jours, 519 312 $ sur 4 trimestres; copropriété 356 437 $ sur 4 trimestres; plex 657 725 $ sur 4 trimestres. 319 sur 1 628, soit près d'une vente sur cinq. Écarts calculés: 632 500 - 518 250 = 114 250 $; 695 000 - 518 250 = 176 750 $. Aucune moyenne ni somme de prix médians."
+  },
+  {
+   "url": "https://apciq.ca/stats-t3-2026/",
+   "title": "L'immobilier résidentiel poursuit sa période de transition au Québec, mais la plupart des marchés demeurent à l'avantage des vendeurs (communiqué du 14 octobre 2026)",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "« Dans le segment de l'unifamiliale, les vendeurs conservent néanmoins un avantage pour chacun des grands secteurs de la RMR » et « la Rive-Nord et la Rive-Sud demeurent à l'avantage des vendeurs » (copropriété)."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ",
+   "consulted": "2026-10-21",
+   "supports": "Page 39, Secteur 29 Terrebonne (Bois-des-Filion, Terrebonne, Lachenaie, Sainte-Anne-des-Plaines, La Plaine, selon la page 6), tableau 3 sur les 12 derniers mois: 2,3 mois d'inventaire de 440 000 $ à 730 000 $, 4,0 de 730 000 $ à 870 000 $, 6,2 à 870 000 $ et plus, toutes gammes « Vendeur ». Page 65: équilibre entre 8 et 10 mois, moins de 8 favorable aux vendeurs. PDF téléchargé et lu en pdftotext le 2026-10-21."
+  },
+  {
+   "url": "https://terrebonne.ca/taxes/",
+   "title": "Taxes - Ville de Terrebonne",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Droit de mutation 2026: « 3 % pour la tranche excédant 500 001 $ »; exemple de la Ville pour 585 000 $: total 8 160,50 $, dont « Les 85 000 $ excédant à 3,0 % 2 550,00 $ »; « les délais pour recevoir votre taxe de mutation se situent présentement de 3 à 6 mois ». Relu le 2026-10-21: tranches 2026 de 62 900 $ et 315 000 $, total de l'exemple 314,50 + 2 521,00 + 2 775,00 + 2 550,00 = 8 160,50 $."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-15.1",
+   "title": "Loi concernant les droits sur les mutations immobilières (RLRQ, c. D-15.1), article 2",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Troisième alinéa de l'article 2: un taux municipal sur la tranche qui excède 500 000 $ « ne peut, sauf dans le cas de la Ville de Montréal, excéder 3% ». Lu en direct (à jour au 12 août 2026)."
+  },
+  {
+   "url": "https://terrebonne.ca/role-d-evaluation-fonciere/",
+   "title": "Rôle d'évaluation foncière - Ville de Terrebonne",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Rôle 2026-2027-2028 déposé, date de référence le 1er juillet 2024; étalement: « la valeur qui sera inscrite sur le compte de taxes 2026 sera la valeur 2025 additionnée d'un tiers de la variation du rôle. En 2027 et 2028, un tiers sera de nouveau ajouté »; la Ville réduit ses taux chaque année lors de la préparation budgétaire (réponse de FAQ du compte 2027)."
+  },
+  {
+   "url": "https://terrebonne.ca/wp-content/uploads/2025/12/Budget-2026-Ville-de-Terrebonne-web_VF.pdf",
+   "title": "Budget 2026, Ville de Terrebonne",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "« La nouvelle valeur de la maison moyenne est de 573 987$ »; tableau « Compte de taxes de la maison moyenne résidentielle »: « Taxes sur une valeur de 462 698$ 499 796$ » et « Total compte de taxes 3 830,52$ » pour 2026. L'article présente ces deux chiffres côte à côte sans calculer de lien entre eux."
+  },
+  {
+   "url": "https://terrebonne.ca/droit-de-preemption/",
+   "title": "Droit de préemption - Ville de Terrebonne",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Avis d'intention d'aliéner à transmettre « seulement lorsque toutes les conditions prévues à l'offre d'achat sont réalisées »; délai de 60 jours de la Ville; avis d'assujettissement valide 10 ans à compter de sa publication au registre foncier; renvoi au règlement 870."
+  },
+  {
+   "url": "https://terrebonne.ca/wp-content/uploads/2026/07/reglement-870-droit-preemption-v2.pdf",
+   "title": "Règlement numéro 870 déterminant le territoire sur lequel le droit de préemption peut être exercé et les fins municipales pour lesquelles des immeubles peuvent être ainsi acquis (codification administrative au 2 février 2026)",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Règlement adopté le 12 septembre 2022; article 3.1: lots énumérés un par un, notamment dans le district 12 Vieux-Terrebonne; article 3.2: fins (logement social, communautaire ou abordable, parc, terrain de jeux et espace naturel, réserve foncière, entre autres)."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-19",
+   "title": "Loi sur les cités et villes (RLRQ, c. C-19), articles 572.0.1 à 572.0.7",
+   "publisher": "LégisQuébec",
+   "consulted": "2026-10-21",
+   "supports": "Droit de préemption introduit par 2022, c. 25, a. 8: avis d'assujettissement inscrit au registre foncier, au plus 10 ans (572.0.3); nullité de l'aliénation sans avis d'intention (572.0.4); 60 jours, silence réputé renonciation (572.0.5); dédommagement de l'acquéreur pour ses dépenses raisonnables de négociation (572.0.7). Lu en direct (à jour au 12 août 2026)."
+  },
+  {
+   "url": "https://terrebonne.ca/wp-content/uploads/2026/09/R1001-379-Avis-public-Appro-referendaire_Site-internet.pdf",
+   "title": "Avis public à toute personne intéressée ayant le droit de signer une demande d'approbation référendaire pour le règlement numéro 1001-379",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Second projet adopté « lors de la séance du 15 septembre 2026 »; zones 0465-54 et 0465-344, « situées à l'intersection de la montée des Pionniers et de la rue Yves-Blais ainsi qu'à l'intersection de l'avenue de la Croisée et de la rue Yves-Blais »; zone 0465-54: « Autoriser un nombre maximal de 500 logements par terrain » et « un nombre maximal de logements pour l'ensemble de la zone 0465-54 fixé à 1 300 logements »; préambule: « le projet District Union », site desservi « par une gare ferroviaire ». PDF relu en pdftotext le 2026-10-21."
+  },
+  {
+   "url": "https://terrebonne.ca/wp-content/uploads/2026/09/Toutes-les-pages-partant-de-R1001-379-Certificat-Avis-public-Appro-referendaire.pdf",
+   "title": "Certificat relatif au nombre de demandes écrites reçues pour le règlement numéro 1001-379",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Nombre de signatures reçues: « ZÉRO (0) », certificat signé le 30 septembre 2026, déposé à la séance du 13 octobre 2026."
+  },
+  {
+   "url": "https://terrebonne.ca/avis-publics/",
+   "title": "Avis publics - Ville de Terrebonne",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Liste des avis lue le 2026-10-21 (dernier avis daté du 19 octobre 2026) et recherche par numéro dans la même liste: pour le 1001-379, seuls l'avis de consultation (24 août), l'avis d'approbation référendaire (21 septembre) et le certificat (30 septembre) figurent, aucun avis de promulgation (base de la phrase « Au 21 octobre, ni le procès-verbal de cette séance ni un avis de promulgation ne sont en ligne »). Pour le 1001-374: avis d'approbation référendaire du 25 février 2026 et « Promulgation - Règlement numéro 1001-374 », daté du 13 avril 2026 (FAQ: étapes annoncées dans les avis publics)."
+  },
+  {
+   "url": "https://terrebonne.ca/projet/projet-de-redeveloppement-du-secteur-de-lhippodrome/",
+   "title": "Projet de redéveloppement du secteur de l'hippodrome - Ville de Terrebonne",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "« Consultation réglementaire du 11 février 2026 », « Projets de règlement 1001-374 et 1010-002 »; la Ville doit modifier le zonage « de manière à autoriser les usages résidentiels » sur le site « de l'ancien hippodrome de Lachenaie » (FAQ: consultation publique du 11 février 2026)."
+  },
+  {
+   "url": "https://terrebonne.ca/wp-content/uploads/2026/04/R1001-374-Avis-public-promulgation.pdf",
+   "title": "Avis public relatif à la promulgation du règlement numéro 1001-374 (13 avril 2026), avec le texte du règlement",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "« lors de la séance ordinaire tenue le 17 mars 2026, le conseil municipal de la Ville de Terrebonne a adopté le règlement »; « la MRC Les Moulins a approuvé le règlement numéro 1001-374 le 7 avril 2026 et a également émis un certificat de conformité »; « le règlement numéro 1001-374 est entré en vigueur le 8 avril 2026, soit la date de l'émission du certificat de conformité par la MRC Les Moulins »; titre: « afin d'encadrer le développement du plan d'aménagement d'ensemble de l'hippodrome de Lachenaie, dans le secteur des rues Sarrazin et Saguenay »; préambule: découper la zone 9562-13 en deux zones « dans lesquelles seront autorisés des usages résidentiels de faible et de moyenne densité »."
+  },
+  {
+   "url": "https://terrebonne.ca/wp-content/uploads/2026/03/PV_CM_2026-03-17.pdf",
+   "title": "Procès-verbal de la séance ordinaire du conseil municipal de la Ville de Terrebonne du 17 mars 2026",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Résolution 126-03-2026, adoption finale du règlement 1001-374: « la tenue d'une assemblée publique de consultation le 11 février 2026 »; « le 25 février 2026, un avis public à toute personne intéressée ayant le droit de signer une demande d'approbation référendaire pour le règlement numéro 1001-374 a été publié »; « aucune demande n'a été reçue » (FAQ sur le zonage)."
+  },
+  {
+   "url": "https://terrebonne.ca/wp-content/uploads/2025/12/ODJ_CM_2026-10-13-1.pdf",
+   "title": "Ordre du jour de la séance ordinaire du conseil municipal du 13 octobre 2026",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Point 20.9: « Adoption finale du Règlement numéro 1001-379 modifiant le Règlement de zonage numéro 1001, afin de modifier les grilles des usages et des normes des zones 0465-54 et 0465-344 » (base de la phrase « L'adoption finale était inscrite à l'ordre du jour de la séance du 13 octobre »)."
+  },
+  {
+   "url": "https://terrebonne.ca/seances-du-conseil-municipal/",
+   "title": "Séances du conseil municipal - Ville de Terrebonne",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Pour la « Dernière séance », le « 13 octobre 2026, 19 h », la page ne donne que l'ordre du jour, les dossiers décisionnels et la webdiffusion, sans procès-verbal (les procès-verbaux en ligne s'arrêtent à la séance extraordinaire du 29 septembre 2026). Base de « ni le procès-verbal de cette séance [...] ne sont en ligne »."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=1.1.1.9&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al&Ytd=true",
+   "title": "Montréal - Mises en chantier, selon le type de logements par subdivision de recensement (janvier - septembre 2026; même URL avec ForTimePeriod.Year=2025&ForTimePeriod.Month=9 pour 2025)",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Terrebonne (V): 208 mises en chantier de janvier à septembre 2026 (63 individuels, 0 jumelé, 38 en rangée, 107 appartements), contre 662 de janvier à septembre 2025 (43, 0, 34, 585). Colonnes « Individuels | Jumelés | En rangée | Appartements | Total », « Marchés visés - Total ». Relu en curl le 2026-10-21."
+  },
+  {
+   "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.4&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al",
+   "title": "Montréal - Taux d'inoccupation, selon le nombre de chambres par subdivision de recensement (octobre 2025; même URL avec ForTimePeriod.Year=2024&ForTimePeriod.Month=10 pour 2024)",
+   "publisher": "SCHL",
+   "consulted": "2026-10-21",
+   "supports": "Terrebonne (V), octobre 2025: total 4,6 %, cote d; Montréal (RMR): 2,9 %, cote a. Octobre 2024: total de Terrebonne supprimé (**). Cote d = « Passable (utiliser avec prudence) »."
+  },
+  {
+   "url": "https://www.transports.gouv.qc.ca/fr/projets-infrastructures/investissements/investissements-2026-2028/Pages/investissements-2026-2028.aspx",
+   "title": "Investissements 2026-2028, ministère des Transports et de la Mobilité durable (données: Investissements_20262028.xml)",
+   "publisher": "Ministère des Transports et de la Mobilité durable",
+   "consulted": "2026-10-21",
+   "supports": "Terrebonne: « Construction d'un échangeur sur l'autoroute 640, à la hauteur de l'avenue Urbanova », « $$$$$$ » (légende: « Plus de 50 M$ »), « Travaux » en 2026-2027 et en 2027-2028, lancement « S1 2026 ». Aucun avis de début de chantier trouvé (state/marche_T3_2026/contexte_lanaudiere.md, « Non trouvé »)."
+  },
+  {
+   "url": "https://fichiers.exo.quebec/pdf/lignes/train/TRAINS/MA/exo15-20251222_20271231.pdf",
+   "title": "Ligne Mascouche, horaire en vigueur à compter du 12 janvier 2026",
+   "publisher": "exo",
+   "consulted": "2026-10-21",
+   "supports": "Gare Terrebonne en zone C; 8 trains par direction « Du lundi au vendredi, sauf les jours fériés »; « Aucun service offert les fins de semaine et jours fériés »."
+  },
+  {
+   "url": "https://terrebonne.ca/projet/carteszonesinondables/",
+   "title": "Séance d'information sur les cartes préliminaires des zones inondables - Ville de Terrebonne",
+   "publisher": "Ville de Terrebonne",
+   "consulted": "2026-10-21",
+   "supports": "Cartes de la CMM présentées comme préliminaires: « Il est à noter que ces cartes ne sont pas encore en vigueur officiellement. »"
+  },
+  {
+   "url": "https://cmm.qc.ca/communiques/nouvelle-cartographie-des-zones-inondables-la-cmm-demande-au-gouvernement-du-quebec-de-maintenir-la-mise-en-vigueur-le-1er-aout/",
+   "title": "Nouvelle cartographie des zones inondables : La CMM demande au gouvernement du Québec de maintenir la mise en vigueur le 1er août (communiqué du 30 juillet 2026)",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-21",
+   "supports": "Report « à une date indéterminée » du premier lot de cartes; ce lot « couvre les secteurs situés aux abords de la rivière des Mille Îles », sans nommer la rivière Mascouche."
+  },
+  {
+   "url": "https://cmm.qc.ca/nouvelles/zones-inondables-et-crues-printanieres-petit-guide-pratique/",
+   "title": "Zones inondables et crues printanières : petit guide pratique",
+   "publisher": "Communauté métropolitaine de Montréal",
+   "consulted": "2026-10-21",
+   "supports": "Liste des 14 plans d'eau cartographiés, dont la rivière des Mille Îles et la rivière Mascouche; « les cartographies d'ancienne génération conservent leur pleine validité jusqu'à ce qu'elles soient officiellement remplacées »."
+  }
+ ],
+ "claims_needing_review": []
+}
