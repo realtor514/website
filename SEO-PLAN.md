@@ -956,7 +956,9 @@ marche de Montreal (10) et de Longueuil (4), en 4 langues, publies les
 2. Puis la vague du 2026-10-20 (Laval, 3 jours).
 3. Puis les jours 2 a 10 de cette vague.
 4. Puis la vague Laurentides et Lanaudiere (6 jours, juste apres).
-5. Puis la fin de la vague du 2026-10-07.
+5. Puis la vague des 14 questions des consommateurs (6 jours, ajoutee le
+   2026-10-27: elle manquait au plan).
+6. Puis la fin de la vague du 2026-10-07.
 
 #### Vague 2026-10-21, jour 1 - Francais: les 10 questions des vendeurs (les plus commerciales en premier)
 
@@ -1197,6 +1199,103 @@ https://georgesmatar.ca/es/articles/mercado-inmobiliario-montcalm-saint-lin/
 https://georgesmatar.ca/es/articles/mercado-inmobiliario-saint-sauveur-pays-d-en-haut/
 https://georgesmatar.ca/es/articles/mercado-inmobiliario-mont-tremblant-sainte-agathe/
 https://georgesmatar.ca/es/articles/mercado-inmobiliario-rawdon-saint-donat/
+```
+
+#### VAGUE QUESTIONS DES CONSOMMATEURS, creee le 2026-10-27
+
+56 articles publies le 2026-10-21 (commit 757f531) et oublies du plan jusqu
+ici: les 14 questions que les consommateurs posent sur le marche quebecois
+(les prix vont-ils baisser, les taux, l abordabilite, le premier achat,
+l inspection, l investissement locatif, la bulle, la crise du logement), en
+4 langues. Verifie le 2026-10-27: les pages repondent en ligne. A faire apres
+la vague Laurentides et Lanaudiere et avant la fin de la vague du 2026-10-07.
+Ordre: francais, anglais, arabe, espagnol, les questions d achat en premier.
+6 jours.
+
+#### Vague questions des consommateurs, jour 1 - Francais
+
+```
+https://georgesmatar.ca/articles/prix-maisons-baisser-quebec/
+https://georgesmatar.ca/articles/taux-hypothecaires-baisser-quebec/
+https://georgesmatar.ca/articles/maisons-abordables-quebec/
+https://georgesmatar.ca/articles/preparer-achat-premiere-propriete-quebec/
+https://georgesmatar.ca/articles/pouvoir-achat-premiers-acheteurs-quebec/
+https://georgesmatar.ca/articles/faut-il-inspecter-maison-avant-achat-quebec/
+https://georgesmatar.ca/articles/investir-immobilier-locatif-quebec/
+https://georgesmatar.ca/articles/risques-transaction-immobiliere-quebec/
+https://georgesmatar.ca/articles/bulle-immobiliere-quebec/
+https://georgesmatar.ca/articles/fin-crise-logement-quebec/
+```
+
+#### Vague questions des consommateurs, jour 2 - Francais, fin, puis anglais
+
+```
+https://georgesmatar.ca/articles/facteurs-marche-immobilier-quebec/
+https://georgesmatar.ca/articles/changements-proprietaires-quebec/
+https://georgesmatar.ca/articles/inflation-quebec-immobilier/
+https://georgesmatar.ca/articles/maisons-2030-quebec/
+https://georgesmatar.ca/en/articles/will-house-prices-drop-quebec/
+https://georgesmatar.ca/en/articles/will-mortgage-rates-go-down-quebec/
+https://georgesmatar.ca/en/articles/home-affordability-quebec/
+https://georgesmatar.ca/en/articles/prepare-first-home-purchase-quebec/
+https://georgesmatar.ca/en/articles/first-time-buyer-purchasing-power-quebec/
+https://georgesmatar.ca/en/articles/home-inspection-before-buying-quebec/
+```
+
+#### Vague questions des consommateurs, jour 3 - Anglais, fin, puis arabe
+
+```
+https://georgesmatar.ca/en/articles/invest-rental-property-quebec/
+https://georgesmatar.ca/en/articles/real-estate-transaction-risks-quebec/
+https://georgesmatar.ca/en/articles/housing-bubble-quebec/
+https://georgesmatar.ca/en/articles/when-will-housing-crisis-end-quebec/
+https://georgesmatar.ca/en/articles/factors-quebec-real-estate-market/
+https://georgesmatar.ca/en/articles/changes-homeowners-quebec/
+https://georgesmatar.ca/en/articles/inflation-quebec-homeowners/
+https://georgesmatar.ca/en/articles/quebec-homes-2030/
+https://georgesmatar.ca/ar/articles/will-house-prices-drop-quebec/
+https://georgesmatar.ca/ar/articles/will-mortgage-rates-go-down-quebec/
+```
+
+#### Vague questions des consommateurs, jour 4 - Arabe
+
+```
+https://georgesmatar.ca/ar/articles/home-affordability-quebec/
+https://georgesmatar.ca/ar/articles/prepare-first-home-purchase-quebec/
+https://georgesmatar.ca/ar/articles/first-time-buyer-purchasing-power-quebec/
+https://georgesmatar.ca/ar/articles/home-inspection-before-buying-quebec/
+https://georgesmatar.ca/ar/articles/invest-rental-property-quebec/
+https://georgesmatar.ca/ar/articles/real-estate-transaction-risks-quebec/
+https://georgesmatar.ca/ar/articles/housing-bubble-quebec/
+https://georgesmatar.ca/ar/articles/when-will-housing-crisis-end-quebec/
+https://georgesmatar.ca/ar/articles/factors-quebec-real-estate-market/
+https://georgesmatar.ca/ar/articles/changes-homeowners-quebec/
+```
+
+#### Vague questions des consommateurs, jour 5 - Arabe, fin, puis espagnol
+
+```
+https://georgesmatar.ca/ar/articles/inflation-quebec-homeowners/
+https://georgesmatar.ca/ar/articles/quebec-homes-2030/
+https://georgesmatar.ca/es/articles/bajaran-precios-casas-quebec/
+https://georgesmatar.ca/es/articles/bajaran-tasas-hipotecarias-quebec/
+https://georgesmatar.ca/es/articles/asequibilidad-vivienda-quebec/
+https://georgesmatar.ca/es/articles/prepararse-compra-primera-vivienda-quebec/
+https://georgesmatar.ca/es/articles/poder-adquisitivo-primeros-compradores-quebec/
+https://georgesmatar.ca/es/articles/inspeccion-antes-de-comprar-quebec/
+https://georgesmatar.ca/es/articles/invertir-inmueble-alquiler-quebec/
+https://georgesmatar.ca/es/articles/riesgos-transaccion-inmobiliaria-quebec/
+```
+
+#### Vague questions des consommateurs, jour 6 - Espagnol
+
+```
+https://georgesmatar.ca/es/articles/burbuja-inmobiliaria-quebec/
+https://georgesmatar.ca/es/articles/fin-crisis-vivienda-quebec/
+https://georgesmatar.ca/es/articles/factores-mercado-inmobiliario-quebec/
+https://georgesmatar.ca/es/articles/cambios-propietarios-quebec/
+https://georgesmatar.ca/es/articles/inflacion-quebec-propietarios/
+https://georgesmatar.ca/es/articles/casas-2030-quebec/
 ```
 
 #### VAGUE DU 2026-10-20 - Serie marche immobilier de Laval par secteur
