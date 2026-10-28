@@ -499,16 +499,6 @@ p:last-child { margin-bottom: 0; }
   width: 100%;
   max-width: 440px;
 }
-.hero__photo-bg {
-  position: absolute;
-  bottom: 0; left: 50%;
-  transform: translateX(-50%);
-  width: 88%;
-  height: 90%;
-  background: linear-gradient(135deg, var(--navy-mid), rgba(0,67,255,.2));
-  border-radius: var(--radius-xl) var(--radius-xl) 0 0;
-  border: 1px solid rgba(0,67,255,.2);
-}
 .hero__photo {
   position: relative;
   z-index: 2;
