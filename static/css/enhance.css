@@ -1157,19 +1157,43 @@ input:focus-visible, select:focus-visible, textarea:focus-visible {
    comme un zoom arriere. On elargit le conteneur
    et on augmente legerement la base typographique.
    ══════════════════════════════════════════════ */
-@media (min-width: 1600px) {
-  :root { --max-width: 1400px; }
+/* Largeur fluide: le conteneur suit l ecran (92 %) au lieu de plafonner a
+   une valeur fixe, qui laissait de grandes bandes vides sur les cotes. */
+@media (min-width: 1280px) {
+  :root { --max-width: min(92vw, 2200px); }
   .container { padding: 0 40px; }
 }
 
 @media (min-width: 1920px) {
-  :root { --max-width: 1560px; }
   html { font-size: 17px; }
 }
 
 @media (min-width: 2400px) {
-  :root { --max-width: 1720px; }
   html { font-size: 18px; }
+}
+
+/* Bandeau d accueil sur ordinateur: titre, textes, boutons et portrait
+   grandissent avec l ecran pour occuper l espace au lieu de flotter au
+   milieu. Sous 961px, la mise en page mobile de main.css reprend la main. */
+@media (min-width: 961px) {
+  .hero__inner { grid-template-columns: 1.1fr 1fr; gap: 4vw; }
+  .hero__eyebrow { font-size: clamp(.74rem, .8vw, 1rem); padding: .6em 1.4em; }
+  .hero__eyebrow-logo { height: clamp(28px, 2vw, 40px); }
+  .hero__name { font-size: clamp(3.5rem, 6.6vw, 8.5rem); }
+  .hero__role { font-size: clamp(.9rem, 1.1vw, 1.35rem); max-width: none; }
+  .hero__pitch { font-size: clamp(1rem, 1.15vw, 1.4rem); max-width: 40em; }
+  .hero__quicklink { font-size: clamp(.92rem, 1.15vw, 1.4rem); }
+  .hero__actions { gap: clamp(16px, 1.2vw, 24px); }
+  .hero__actions .btn {
+    font-size: clamp(.9rem, 1.05vw, 1.25rem);
+    padding: clamp(14px, 1.1vw, 22px) clamp(32px, 2.4vw, 48px);
+  }
+  .hero__trust { gap: clamp(24px, 2vw, 44px); }
+  .hero__trust-num { font-size: clamp(1.8rem, 2.4vw, 3.2rem); }
+  .hero__trust-label { font-size: clamp(.72rem, .8vw, 1rem); }
+  .hero__trust-divider { height: clamp(40px, 3vw, 64px); }
+  .hero__photo-frame { max-width: min(42vw, 820px); }
+  .hero__photo { max-height: min(78vh, 920px); }
 }
 
 /* ══════════════════════════════════════════════

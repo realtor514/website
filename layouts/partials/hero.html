@@ -122,7 +122,7 @@
                visiteur doit voir tout de suite. `fetchpriority=high` la fait
                passer devant le reste, les dimensions evitent le saut de mise
                en page. */}}
-          {{ partial "img.html" (dict "src" "images/georges-matar.webp" "alt" "Georges Matar" "class" "hero__photo" "sizes" "(max-width: 768px) 92vw, 440px" "loading" "eager" "fetchpriority" "high") }}
+          {{ partial "img.html" (dict "src" "images/georges-matar.webp" "alt" "Georges Matar" "class" "hero__photo" "sizes" "(max-width: 960px) 92vw, 42vw" "widths" (slice 480 800 1200 1600) "loading" "eager" "fetchpriority" "high") }}
         </div>
       </div>
 
