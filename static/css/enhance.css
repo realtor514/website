@@ -79,16 +79,18 @@
     radial-gradient(120% 90% at 50% 110%, rgba(6,14,28,.85), transparent 60%) !important;
 }
 
-/* Vignette douce */
-.hero .container::before {
+/* Vignette douce, sur toute la largeur du bandeau. Accrochee au conteneur,
+   elle dessinait un rectangle sombre a bords nets au milieu de l ecran. */
+.hero__overlay::after {
   content: '';
   position: absolute;
-  inset: -20%;
+  inset: 0;
   background: radial-gradient(closest-side, transparent 55%, rgba(4,10,22,.55) 100%);
   pointer-events: none;
-  z-index: 0;
 }
-.hero .container { position: relative; }
+/* .hero est en flex: sans largeur explicite, le conteneur se reduisait a la
+   largeur de son contenu et restait tasse au centre sur un grand ecran. */
+.hero .container { position: relative; width: 100%; }
 .hero__inner { position: relative; z-index: 2; }
 
 /* Badge RE/MAX en verre */
