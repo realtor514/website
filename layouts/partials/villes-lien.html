@@ -1,0 +1,16 @@
+{{/* Bas de l accueil: un seul bouton vers la page des villes desservies.
+     Remplace la grille de cartes "Zone de service" retiree de l accueil. */}}
+{{ $isFr := eq .Lang "fr" }}
+{{ $isAr := eq .Lang "ar" }}
+{{ $isEs := eq .Lang "es" }}
+{{ $hub := "/en/real-estate-broker/" }}
+{{ if $isFr }}{{ $hub = "/courtier-immobilier/" }}{{ else if $isAr }}{{ $hub = "/ar/wasit-aqari/" }}{{ else if $isEs }}{{ $hub = "/es/corredor-inmobiliario/" }}{{ end }}
+{{ $nb := len (where .Site.RegularPages "Section" "secteurs") }}
+<section class="section section--light villes-lien" id="villes">
+  <div class="container text-center">
+    <h2 class="villes-lien__titre">{{ if $isFr }}Les villes où je travaille{{ else if $isAr }}المدن التي أعمل فيها{{ else if $isEs }}Las ciudades donde trabajo{{ else }}The cities where I work{{ end }}</h2>
+    <a href="{{ $hub }}" class="btn btn-primary villes-lien__btn">
+      {{ if $isFr }}Voir les {{ $nb }} villes{{ else if $isAr }}عرض المدن الـ{{ $nb }}{{ else if $isEs }}Ver las {{ $nb }} ciudades{{ else }}View all {{ $nb }} cities{{ end }}
+    </a>
+  </div>
+</section>
