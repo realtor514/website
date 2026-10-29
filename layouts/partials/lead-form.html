@@ -5,7 +5,7 @@
   Appel:  {{ partial "lead-form.html" (dict "ctx" . "source" "accueil") }}
   source     identifie la provenance du lead dans le courriel recu.
   intention  optionnel, le choix coche a l ouverture: acheter (defaut),
-             vendre, evaluation ou investir. Un lien peut aussi le choisir
+             vendre, evaluation, investir ou question. Un lien peut aussi le choisir
              par l adresse, /formulaire/?intention=evaluation, ce que font
              les boutons "Evaluation gratuite", les lettres et les publicites.
 */}}
@@ -48,6 +48,7 @@
         (dict "v" "vendre"     "fr" "Vendre"             "en" "Sell"                "es" "Vender"             "ar" "البيع")
         (dict "v" "evaluation" "fr" "Faire évaluer"      "en" "Get an evaluation"   "es" "Obtener evaluación" "ar" "تقييم عقاري")
         (dict "v" "investir"   "fr" "Investir"           "en" "Invest"              "es" "Invertir"           "ar" "الاستثمار")
+        (dict "v" "question"   "fr" "Poser une question" "en" "Ask a question"      "es" "Hacer una pregunta" "ar" "طرح سؤال")
       }}
       {{ range $i, $it := $intents }}
       <label class="intent-option">
@@ -156,7 +157,7 @@
   /* Les deux intentions qui trahissent un vendeur. `evaluation` en fait
      partie: on ne fait pas evaluer une maison qu on ne songe pas a vendre. */
   var VENDEUR = { vendre: 1, evaluation: 1 };
-  var INTENTIONS = { acheter: 1, vendre: 1, evaluation: 1, investir: 1 };
+  var INTENTIONS = { acheter: 1, vendre: 1, evaluation: 1, investir: 1, question: 1 };
 
   /* Recalcule l objet et montre ou cache les questions au vendeur. Le delai
      passe devant l intention: dans la liste de la boite de reception, sur un

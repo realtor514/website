@@ -2994,6 +2994,8 @@ details[open] .wt-rates-box__toggle::before { content: '-'; }
 /* ── Selecteur d intention ── */
 .intent-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
 .intent-option { cursor: pointer; }
+/* Nombre impair de choix: le dernier prend toute la largeur au lieu de rester seul a gauche. */
+.intent-option:last-child:nth-child(odd) { grid-column: 1 / -1; }
 .intent-option input { position: absolute; opacity: 0; width: 0; height: 0; }
 .intent-option__box {
   display: flex; align-items: center; justify-content: center;
