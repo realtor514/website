@@ -2,9 +2,9 @@
 {{ $isAr := eq .Lang "ar" }}
 {{ $isEs := eq .Lang "es" }}
 
-{{/* La section "Zone de service, Ou je travaille" a ete retiree: ses styles
-     de cartes n existaient plus et elle s affichait comme un grand vide. Les
-     pages de secteur restent accessibles par le menu et le pied de page. */}}
+{{/* La section "Zone de service, Ou je travaille" a ete retiree a la
+     demande de Georges: sur telephone, elle s affichait comme un grand vide.
+     Les pages de secteur restent liees depuis le pied de page. */}}
 
 {{ with .Params.faq }}
 <section class="section" id="faq">
