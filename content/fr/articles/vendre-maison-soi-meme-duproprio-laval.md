@@ -1,6 +1,6 @@
 ---
 title: "Vendre sa maison soi-même à Laval avec DuProprio: comment ça marche?"
-seo_title: "Vendre sa maison soi-même à Laval: DuProprio, étapes, coûts"
+seo_title: "Vendre sa maison sans courtier à Laval: DuProprio et coûts"
 date: 2026-10-20
 lastmod: 2026-10-20
 translationKey: "article-vendre-maison-soi-meme-duproprio-laval"

@@ -1,6 +1,6 @@
 ---
 title: "بيع منزلك بنفسك في لافال عبر DuProprio: كيف يتم ذلك؟"
-seo_title: "بيع منزلك بنفسك في لافال: DuProprio والمراحل والتكاليف"
+seo_title: "بيع منزلك بدون وسيط في لافال: DuProprio والتكاليف"
 date: 2026-10-20
 lastmod: 2026-10-20
 translationKey: "article-vendre-maison-soi-meme-duproprio-laval"

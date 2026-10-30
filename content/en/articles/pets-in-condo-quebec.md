@@ -1,10 +1,11 @@
 ---
 title: "Pets Banned in a Quebec Condo: Where the Rule Actually Lives"
+seo_title: "Pets Banned in a Quebec Condo: Is It Legal?"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-animaux-condo"
 category: "Real Estate 101"
-description: "Pets banned in a Quebec condo: where the clause lives, what makes it valid, the case of the animal d'assistance, and the documents to demand before your offer."
+description: "Can a condo syndicate ban dogs and cats? Where the rule lives, what makes it valid, the animal d'assistance, tenants, and what to demand before your offer."
 image: "images/articles/animaux-copropriete-declaration-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

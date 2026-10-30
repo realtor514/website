@@ -1,10 +1,11 @@
 ---
 title: "Permiso de cobertizo, marquesina y garaje en Quebec"
+seo_title: "Permiso para un cobertizo en Quebec: ¿cuándo hace falta?"
 date: 2026-08-26
 lastmod: 2026-08-26
 translationKey: "article-cabanon-abri-garage-permis"
 category: "Guía práctica"
-description: "Permiso de cobertizo en Quebec: el umbral de 18 m² en Laval y de 15 m² en Montreal, los márgenes, el abrigo de invierno, el rol de evaluación y el seguro."
+description: "Permiso de cobertizo en Quebec: obligatorio desde 18 m² en Laval, a menudo desde 15 m² en Montreal según el distrito. Márgenes, abrigo de invierno, seguro."
 image: "images/articles/cabanon-abri-auto-garage-permis-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

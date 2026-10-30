@@ -1,10 +1,11 @@
 ---
 title: "Detector de humo en Quebec: obligación y seguro"
+seo_title: "Detector de humo en Quebec: obligaciones y seguro"
 date: 2026-09-07
 lastmod: 2026-09-07
 translationKey: "article-prevention-incendie-assurance"
 category: "Guía práctica"
-description: "Detector de humo, obligación en Quebec: el reglamento de Montreal y de Laval, el detector de monóxido de carbono, y lo que la aseguradora exige además."
+description: "Detectores de humo y monóxido de carbono: lo que exigen Montreal y Laval, quién los instala, propietario o inquilino, la visita de prevención, el seguro."
 image: "images/articles/prevention-incendie-assurance-habitation-quebec/featured.jpg"
 draft: false
 ---

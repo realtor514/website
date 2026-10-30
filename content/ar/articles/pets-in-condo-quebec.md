@@ -1,10 +1,11 @@
 ---
 title: "منع الحيوانات في الكوندو في كيبيك: أين تعيش القاعدة فعلاً"
+seo_title: "منع الحيوانات في الكوندو في كيبيك: هل هو قانوني؟"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-animaux-condo"
 category: "عقارات 101"
-description: "منع الحيوانات في الكوندو في كيبيك: أين يعيش البند، وما الذي يجعله صحيحاً، وحالة animal d'assistance، والمستندات التي تطلبها قبل تقديم العرض."
+description: "هل يمكن لنقابة الملاك منع الكلاب والقطط؟ أين توجد القاعدة، وما الذي يجعلها صحيحة، وحالة animal d'assistance، والمستأجر، والمستندات التي تطلبها قبل العرض."
 image: "images/articles/animaux-copropriete-declaration-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

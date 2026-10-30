@@ -1,10 +1,11 @@
 ---
 title: "البيع قبل الشراء في كيبيك: البنود التي تحسم الأمر"
+seo_title: "البيع أولاً أم الشراء أولاً في كيبيك؟ البنود التي تحسم الأمر"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-vendre-avant-acheter"
 category: "دليل البائع"
-description: "البيع قبل الشراء في كيبيك: البند R2.1، وبند الـ72 ساعة، والقرض الجسري، وحمل عقارين معاً، والتواريخ لدى كاتب العدل."
+description: "البيع أولاً أم الشراء أولاً؟ البند R2.1، وبند الـ72 ساعة، والقرض الجسري، وتكلفة حمل عقارين معاً: ما الذي يحسم القرار في حالتك."
 image: "images/articles/vendre-avant-acheter-clauses-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

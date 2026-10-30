@@ -1,10 +1,11 @@
 ---
 title: "How to Cut Your Heating Bill in Quebec: Where to Start"
+seo_title: "Lower Your Heating Bill in Quebec: Rate D and 2026 Grants"
 date: 2026-09-22
 lastmod: 2026-09-23
 translationKey: "article-facture-chauffage"
 category: "Practical Guide"
-description: "Rate D, the 40 kWh tier, insulation, heat pumps and 2026 grants: how to reduce your heating bill in Quebec, in the order that actually pays."
+description: "Hydro-Québec Rate D, the 40 kWh tier, air sealing, insulation, heat pumps and 2026 grants: how to lower your heating bill in Quebec, in the right order."
 image: "images/articles/reduire-facture-chauffage-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

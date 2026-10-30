@@ -1,10 +1,11 @@
 ---
 title: "Vente sans garantie légale au Québec : ce que ça change"
+seo_title: "Vente sans garantie légale au Québec : risques de l'acheteur"
 date: 2026-09-21
 lastmod: 2026-09-23
 translationKey: "article-as-is-sale-quebec"
 category: "Guide de l'acheteur"
-description: "Vente sans garantie légale au Québec : ce que la clause enlève, ce qu'elle ne peut pas effacer, et ce qu'un acheteur doit exiger en échange."
+description: "Pourquoi successions et reprises de finance vendent sans garantie légale, ce que la clause enlève, ce qu'elle ne peut effacer et quoi exiger en échange."
 image: "images/articles/vente-sans-garantie-legale-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Vendre avant d'acheter au Québec: les clauses qui décident"
+seo_title: "Vendre avant d'acheter ou acheter avant de vendre au Québec?"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-vendre-avant-acheter"
 category: "Guide du vendeur"
-description: "Vendre avant d'acheter au Québec: la clause R2.1, la clause de 72 heures, le prêt relais, le double portage et les dates chez le notaire."
+description: "Vendre d'abord ou acheter d'abord? La clause R2.1, la clause de 72 heures, le prêt relais et le coût du double portage: ce qui tranche dans votre cas."
 image: "images/articles/vendre-avant-acheter-clauses-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

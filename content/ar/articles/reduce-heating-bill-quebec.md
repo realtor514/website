@@ -1,10 +1,11 @@
 ---
 title: "خفض فاتورة التدفئة في كيبيك: من أين تبدأ"
+seo_title: "خفض فاتورة التدفئة في كيبيك: التعرفة D والمساعدات"
 date: 2026-09-22
 lastmod: 2026-09-23
 translationKey: "article-facture-chauffage"
 category: "دليل عملي"
-description: "تعرفة D، وشريحة 40 كيلوواط ساعة، والعزل، والمضخة الحرارية، ومساعدات 2026: كيف تخفض فاتورة التدفئة في كيبيك، بالترتيب الذي يعود عليك فعلاً."
+description: "تعرفة D من Hydro-Québec، وشريحة 40 كيلوواط ساعة، والإحكام، والعزل، والمضخة الحرارية، ومساعدات 2026: كيف تخفض فاتورة التدفئة بالترتيب الذي يعود عليك فعلاً."
 image: "images/articles/reduire-facture-chauffage-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

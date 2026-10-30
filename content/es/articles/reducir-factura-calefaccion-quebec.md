@@ -1,10 +1,11 @@
 ---
 title: "Reducir su factura de calefacción, Quebec"
+seo_title: "Bajar la factura de calefacción en Quebec: tarifa D y ayudas"
 date: 2026-09-22
 lastmod: 2026-09-23
 translationKey: "article-facture-chauffage"
 category: "Guía práctica"
-description: "Tarifa D, tramo de 40 kWh, aislamiento, bomba de calor y ayudas 2026: cómo reducir su factura de calefacción en Quebec, en el orden que de verdad rinde."
+description: "Tarifa D de Hydro-Québec, tramo de 40 kWh, hermeticidad, aislamiento, bomba de calor y ayudas 2026: cómo bajar su factura de calefacción, en orden."
 image: "images/articles/reduire-facture-chauffage-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

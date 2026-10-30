@@ -1,10 +1,11 @@
 ---
 title: "Combien de temps pour vendre à Montréal"
+seo_title: "Combien de temps pour vendre une maison à Montréal?"
 date: 2026-06-21
 lastmod: 2026-10-02
 translationKey: "article-combien-temps-vendre"
 category: "Guide du vendeur"
-description: "Combien de temps pour vendre à Montréal: le délai dépend surtout de trois décisions que vous contrôlez. Le calendrier réaliste, de l'appel au notaire."
+description: "Délai de vente par type de propriété, les trois décisions qui fixent votre calendrier et où se perd le temps après l'offre: le calendrier réaliste."
 image: "images/articles/how-long-to-sell-house-montreal/featured.jpg"
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: "Should You Get a Home Inspection Before Buying?"
+seo_title: "Is a Home Inspection Mandatory in Quebec Before Buying?"
 date: 2026-10-21
 lastmod: 2026-10-21
 translationKey: "article-faut-il-inspecter-maison-avant-achat-quebec"
 category: "Buyer's Guide"
-description: "Home inspection before buying: no law requires it, but article 1726 excludes apparent defects. Condo, new build, no legal warranty: what changes."
+description: "No law requires a home inspection in Quebec, but article 1726 excludes apparent defects from the warranty. What you lose without one, and the deadlines."
 image: "images/articles/faut-il-inspecter-maison-avant-achat-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

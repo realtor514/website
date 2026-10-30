@@ -1,10 +1,11 @@
 ---
 title: "Garantía GCR de casa nueva en Quebec: 1 año, 3 años, 5 años"
+seo_title: "Garantía GCR de casa nueva en Quebec: qué cubre y plazos"
 date: 2026-09-23
 lastmod: 2026-09-24
 translationKey: "article-garantie-gcr"
 category: "Guía del Comprador"
-description: "Edificios cubiertos y excluidos, inspección préréception, 1, 3 y 5 años, plazos para denunciar y arbitraje: la garantía GCR de una casa nueva en Quebec."
+description: "Qué cubre la garantía GCR de una casa nueva en Quebec: edificios excluidos, inspección préréception, 1, 3 y 5 años, plazos para denunciar y arbitraje."
 image: "images/articles/garantie-gcr-maison-neuve-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

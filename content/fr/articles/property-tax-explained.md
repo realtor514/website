@@ -1,9 +1,10 @@
 ---
 title: "Taxes foncières à Montréal et Laval"
+seo_title: "Taxes foncières à Montréal et Laval: le calcul expliqué"
 date: 2026-05-25
 lastmod: 2026-09-19
 category: "Financement"
-description: "Taxes foncières à Montréal et Laval: évaluation municipale, taux, taxe scolaire et répartition chez le notaire. Ce que vous paierez vraiment chaque année."
+description: "Comment se calculent les taxes foncières à Montréal et à Laval: évaluation, taux, taxe scolaire, répartition chez le notaire et deux erreurs de budget."
 image: "images/articles/property-tax-explained/featured.jpg"
 ---
 

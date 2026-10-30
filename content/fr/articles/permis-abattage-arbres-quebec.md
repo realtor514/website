@@ -1,10 +1,11 @@
 ---
 title: "Permis d'abattage d'arbre à Montréal : la démarche"
+seo_title: "Permis d'abattage d'arbre à Montréal et Laval : coût, règles"
 date: 2026-09-26
 lastmod: 2026-09-26
 translationKey: "article-tree-cutting-permits"
 category: "Guide pratique"
-description: "Permis d'abattage d'arbre à Montréal et à Laval : motifs acceptés, documents, délais, tarifs par arrondissement, frêne, amende et revente."
+description: "À Montréal, le permis d'abattage coûte de 58 $ à 268 $ selon l'arrondissement; à Laval, 84 $ par arbre. Motifs acceptés, documents, délais et amendes."
 image: "images/articles/permis-abattage-arbres-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

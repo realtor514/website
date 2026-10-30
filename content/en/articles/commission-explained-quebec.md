@@ -1,10 +1,10 @@
 ---
 title: "Real Estate Commission in Quebec"
-seo_title: "Real Estate Commission in Quebec: Fees and Who Pays"
+seo_title: "Real Estate Commission in Quebec: How Much and Who Pays"
 date: 2026-06-16
 lastmod: 2026-09-21
 category: "Real Estate 101"
-description: "Real estate commission in Quebec: no rate is set by law. Who pays it, how it is split, the taxes almost nobody budgets for, and what to ask first."
+description: "Real estate commission in Quebec: often 4% to 5% in Greater Montreal, with no rate set by law. Who pays it, how it is split, and the GST and QST on top."
 image: "images/articles/commission-explained-quebec/featured.jpg"
 ---
 

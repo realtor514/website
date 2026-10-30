@@ -1,10 +1,11 @@
 ---
 title: "¿Hay que inspeccionar una propiedad antes de comprarla?"
+seo_title: "¿Es obligatoria la inspección antes de comprar en Quebec?"
 date: 2026-10-21
 lastmod: 2026-10-21
 translationKey: "article-faut-il-inspecter-maison-avant-achat-quebec"
 category: "Guía del Comprador"
-description: "Inspección antes de comprar: ninguna ley la exige, pero el artículo 1726 excluye el vicio aparente. Condominio, obra nueva, sin garantía: qué cambia."
+description: "Ninguna ley exige la inspección en Quebec, pero el artículo 1726 excluye el vicio aparente de la garantía. Lo que pierde sin ella y cómo corren los plazos."
 image: "images/articles/faut-il-inspecter-maison-avant-achat-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

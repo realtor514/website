@@ -1,9 +1,10 @@
 ---
 title: "The Notary in Quebec, Step by Step"
+seo_title: "Quebec Notary Process for a Home Purchase: Steps, Who Pays"
 date: 2026-08-04
 lastmod: 2026-09-19
 category: "Real Estate 101"
-description: "Why a notary is mandatory in Quebec, who chooses and pays, every step from accepted offer to keys, the adjustments, and what most often delays a closing."
+description: "In Quebec, you close with a notary, not a lawyer. Who chooses and pays, every step from accepted offer to keys, the adjustments, and what delays a closing."
 image: "images/articles/quebec-notary-process/featured.jpg"
 ---
 

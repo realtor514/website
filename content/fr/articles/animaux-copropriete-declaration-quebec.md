@@ -1,10 +1,11 @@
 ---
 title: "Animaux interdits en condo au Québec: où est la règle"
+seo_title: "Animaux interdits en condo au Québec: est-ce légal?"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-animaux-condo"
 category: "Immobilier 101"
-description: "Animaux interdits en condo au Québec: où vit la clause, ce qui la rend valide, le cas de l'animal d'assistance et les documents à exiger avant l'offre."
+description: "Le syndicat peut-il interdire chiens et chats? Où vit la règle, ce qui la rend valide, l'animal d'assistance, le locataire et quoi exiger avant l'offre."
 image: "images/articles/animaux-copropriete-declaration-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

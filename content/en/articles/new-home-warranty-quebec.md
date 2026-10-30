@@ -1,10 +1,11 @@
 ---
 title: "New Home Warranty in Quebec: The GCR Plan"
+seo_title: "New Home Warranty in Quebec (GCR): What 1, 3, 5 Years Cover"
 date: 2026-09-23
 lastmod: 2026-09-24
 translationKey: "article-garantie-gcr"
 category: "Buyer's Guide"
-description: "Buildings covered and excluded, the inspection préréception, 1, 3 and 5 years, notice deadlines, arbitration: the GCR warranty on a new home in Quebec."
+description: "What the GCR warranty covers on a new home in Quebec: buildings excluded, the inspection préréception, 1, 3 and 5 years, notice deadlines and arbitration."
 image: "images/articles/garantie-gcr-maison-neuve-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

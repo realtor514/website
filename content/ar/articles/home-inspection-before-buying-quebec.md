@@ -1,10 +1,11 @@
 ---
 title: "هل يجب فحص العقار قبل شرائه؟"
+seo_title: "هل فحص المنزل إلزامي قبل الشراء في كيبيك؟"
 date: 2026-10-21
 lastmod: 2026-10-21
 translationKey: "article-faut-il-inspecter-maison-avant-achat-quebec"
 category: "دليل المشتري"
-description: "فحص العقار قبل الشراء: لا يفرضه أي قانون، لكن المادة 1726 تستثني العيب الظاهر من الضمان. الكوندو، والبناء الجديد، والبيع بلا ضمان: ما الذي يتغيّر."
+description: "لا يفرض أي قانون فحص المنزل في كيبيك، لكن المادة 1726 تستثني العيب الظاهر من الضمان. ما تخسره بدونه، وكيف تُحسب المهل."
 image: "images/articles/faut-il-inspecter-maison-avant-achat-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

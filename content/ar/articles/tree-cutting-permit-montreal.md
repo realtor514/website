@@ -1,10 +1,11 @@
 ---
 title: "رخصة قطع شجرة في مونتريال: الإجراءات"
+seo_title: "رخصة قطع شجرة في مونتريال ولافال: التكلفة والقواعد"
 date: 2026-09-26
 lastmod: 2026-09-26
 translationKey: "article-tree-cutting-permits"
 category: "دليل عملي"
-description: "رخصة قطع شجرة في مونتريال ولافال: الأسباب المقبولة، والمستندات، والمهل، والرسوم حسب الدائرة، والدردار، والغرامة، وإعادة البيع."
+description: "في مونتريال تكلّف رخصة قطع الشجرة من 58 إلى 268 دولاراً حسب الدائرة، وفي لافال 84 دولاراً لكل شجرة. الأسباب المقبولة، والمستندات، والمهل، والغرامات."
 image: "images/articles/permis-abattage-arbres-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

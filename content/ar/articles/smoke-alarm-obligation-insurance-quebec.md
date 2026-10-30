@@ -1,10 +1,11 @@
 ---
 title: "كاشف الدخان في كيبيك: الإلزام والتأمين"
+seo_title: "كاشف الدخان في كيبيك: الالتزامات والتأمين"
 date: 2026-09-07
 lastmod: 2026-09-07
 translationKey: "article-prevention-incendie-assurance"
 category: "دليل عملي"
-description: "كاشف الدخان وإلزامه في كيبيك: نظام مونتريال ونظام لافال، وكاشف أحد أكسيد الكربون، وما يطلبه المؤمِّن إضافةً إلى ذلك."
+description: "كاشف الدخان وأحادي أكسيد الكربون: ما تفرضه مونتريال ولافال، ومن يركّبه بين المالك والمستأجر، وزيارة الوقاية، وما يطلبه المؤمِّن."
 image: "images/articles/prevention-incendie-assurance-habitation-quebec/featured.jpg"
 draft: false
 ---

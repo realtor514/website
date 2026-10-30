@@ -1,10 +1,11 @@
 ---
 title: "Smoke Alarms in Quebec: The Obligation and the Insurer"
+seo_title: "Smoke Detector Rules in Quebec: Montreal, Laval, Insurance"
 date: 2026-09-07
 lastmod: 2026-09-07
 translationKey: "article-prevention-incendie-assurance"
 category: "Practical Guide"
-description: "Smoke alarm obligation in Quebec: the Montreal and Laval by-laws, the carbon monoxide alarm, and what your insurer asks for on top of them."
+description: "Smoke and carbon monoxide alarms: what Montreal and Laval require, who installs them, owner or tenant, the prevention visit, and what insurers ask for."
 image: "images/articles/prevention-incendie-assurance-habitation-quebec/featured.jpg"
 draft: false
 ---

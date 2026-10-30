@@ -1,6 +1,6 @@
 ---
 title: "Vender su casa usted mismo en Laval con DuProprio: ¿cómo funciona?"
-seo_title: "Vender mi casa yo mismo en Laval: DuProprio, pasos y costos"
+seo_title: "Vender sin corredor en Laval: DuProprio, pasos y costos"
 date: 2026-10-20
 lastmod: 2026-10-20
 translationKey: "article-vendre-maison-soi-meme-duproprio-laval"

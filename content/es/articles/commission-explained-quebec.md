@@ -1,10 +1,10 @@
 ---
 title: "La comisión inmobiliaria en Quebec"
-seo_title: "Comisión y honorarios del corredor inmobiliario en Quebec"
+seo_title: "Comisión inmobiliaria en Quebec: cuánto es y quién paga"
 date: 2026-06-16
 lastmod: 2026-09-21
 category: "Inmobiliaria 101"
-description: "La comisión inmobiliaria en Quebec: ninguna ley fija la tarifa. Quién la paga, cómo se reparte, los impuestos que casi nadie anticipa y qué preguntar."
+description: "Comisión inmobiliaria en Quebec: a menudo del 4 % al 5 % en el Gran Montreal, sin tarifa fijada por ley. Quién la paga, cómo se reparte y el GST y el QST."
 image: "images/articles/commission-explained-quebec/featured.jpg"
 ---
 

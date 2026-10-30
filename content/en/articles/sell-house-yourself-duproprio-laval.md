@@ -1,6 +1,6 @@
 ---
 title: "Selling Your House Yourself in Laval with DuProprio: How Does It Work?"
-seo_title: "Sell Your House Yourself in Laval: DuProprio, Steps, Costs"
+seo_title: "Selling Without an Agent in Laval: DuProprio and Costs"
 date: 2026-10-20
 lastmod: 2026-10-20
 translationKey: "article-vendre-maison-soi-meme-duproprio-laval"

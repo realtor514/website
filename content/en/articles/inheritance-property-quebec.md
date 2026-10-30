@@ -1,9 +1,10 @@
 ---
 title: "Inheriting Property in Quebec"
+seo_title: "Inheriting a House in Quebec: Steps, Taxes and Selling"
 date: 2026-05-16
 lastmod: 2026-09-21
 category: "Real Estate 101"
-description: "Liquidator, notary, declaration of transmission, tax at death, welcome tax and the empty house: the steps before you sell, buy out or keep an inherited home."
+description: "Inherited a house in Quebec? The liquidator, declaration of transmission, tax at death, welcome tax, and your options: sell, buy out the heirs or keep it."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: "Cutting Down a Tree in Quebec"
+seo_title: "Neighbour's Tree, Cutting and Permits in Quebec: The Rules"
 date: 2026-08-31
 lastmod: 2026-09-23
 translationKey: "article-arbres-propriete"
 category: "Practical Guide"
-description: "Who owns the tree, what the Code civil allows between neighbours, the felling permit in Montreal and Laval, and what has to be declared when you sell."
+description: "Who owns the tree, what the Code civil allows when a neighbour's branches or roots cross the line, the cutting permit, and insurance if a tree falls."
 image: "images/articles/arbres-propriete-reglements-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

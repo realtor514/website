@@ -1,10 +1,11 @@
 ---
 title: "إقرارات البائع في كيبيك: نموذج DV 00001"
+seo_title: "إقرارات البائع في كيبيك: شرح نموذج DV 00001"
 date: 2026-09-06
 lastmod: 2026-09-23
 translationKey: "article-declaration-vendeur"
 category: "دليل البائع"
-description: "نموذج DV 00001 إلزامي ويُرفَق بـ promesse d'achat. ما الذي يعلنه البائع فعلاً، وما الذي يخاطر به إن أخفى عيباً."
+description: "نموذج DV 00001 إلزامي ويُرفَق بـ promesse d'achat: أقسامه الست عشرة، وما يجب على البائع التصريح به، وخطر إخفاء عيب."
 image: "images/articles/declaration-du-vendeur-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

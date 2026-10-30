@@ -1,10 +1,11 @@
 ---
 title: "قطع شجرة في كيبيك: النظام البلدي ولمن تعود ملكية الشجرة"
+seo_title: "شجرة الجار وقطعها والرخصة في كيبيك: القواعد"
 date: 2026-08-31
 lastmod: 2026-09-23
 translationKey: "article-arbres-propriete"
 category: "دليل عملي"
-description: "لمن تعود ملكية الشجرة، وما يسمح به Code civil بين الجيران، ورخصة القطع في مونتريال ولافال، وما يجب التصريح به عند البيع."
+description: "لمن تعود ملكية الشجرة، وما يسمح به Code civil عندما تتجاوز أغصان الجار أو جذوره الحد، ورخصة القطع، والتأمين عند سقوط شجرة."
 image: "images/articles/arbres-propriete-reglements-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

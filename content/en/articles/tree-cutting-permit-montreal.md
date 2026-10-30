@@ -1,10 +1,11 @@
 ---
 title: "Tree Cutting Permit in Montreal: How It Works"
+seo_title: "Tree Removal Permit in Montreal and Laval: Cost and Rules"
 date: 2026-09-26
 lastmod: 2026-09-26
 translationKey: "article-tree-cutting-permits"
 category: "Practical Guide"
-description: "Tree cutting permit in Montreal and Laval: accepted reasons, documents, processing times, fees by borough, ash trees, fines and resale."
+description: "A Montreal tree cutting permit costs $58 to $268 depending on the borough; Laval charges $84 per tree. Accepted reasons, documents, delays and fines."
 image: "images/articles/permis-abattage-arbres-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

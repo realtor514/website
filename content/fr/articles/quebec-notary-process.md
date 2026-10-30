@@ -1,9 +1,10 @@
 ---
 title: "Le notaire au Québec, étape par étape"
+seo_title: "Notaire à l'achat d'une maison au Québec: étapes, qui paie"
 date: 2026-08-04
 lastmod: 2026-09-19
 category: "Immobilier 101"
-description: "Pourquoi le notaire est obligatoire, qui le choisit et le paie, chaque étape jusqu'aux clés, les répartitions et ce qui retarde une signature au Québec."
+description: "Au Québec, on signe chez le notaire, pas chez un avocat. Qui le choisit et le paie, chaque étape jusqu'aux clés, et ce qui retarde une signature."
 image: "images/articles/quebec-notary-process/featured.jpg"
 ---
 

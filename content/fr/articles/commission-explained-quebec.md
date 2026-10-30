@@ -1,10 +1,10 @@
 ---
 title: "La commission immobilière au Québec"
-seo_title: "Commission et frais du courtier immobilier au Québec"
+seo_title: "Commission courtier immobilier Québec: combien et qui paie"
 date: 2026-06-16
 lastmod: 2026-09-21
 category: "Immobilier 101"
-description: "La commission immobilière au Québec: aucun taux fixé par la loi. Qui la paie, comment elle se partage et les taxes que presque personne n'anticipe."
+description: "Commission du courtier au Québec: souvent de 4 % à 5 % dans le Grand Montréal, aucun taux fixé par la loi. Qui la paie, le partage, la TPS et la TVQ."
 image: "images/articles/commission-explained-quebec/featured.jpg"
 ---
 

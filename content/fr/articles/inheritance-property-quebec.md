@@ -1,9 +1,10 @@
 ---
 title: "Hériter d'une propriété au Québec"
+seo_title: "Hériter d'une maison au Québec: étapes, impôts et vente"
 date: 2026-05-16
 lastmod: 2026-09-21
 category: "Immobilier 101"
-description: "Liquidateur, notaire, déclaration de transmission, impôt au décès, taxe de bienvenue et maison vide : les étapes avant de vendre, racheter ou garder la maison."
+description: "Vous héritez d'une maison au Québec? Liquidateur, déclaration de transmission, impôt au décès, taxe de bienvenue, et vos options: vendre, racheter, garder."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
 ---
 

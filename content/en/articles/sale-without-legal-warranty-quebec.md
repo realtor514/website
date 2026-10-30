@@ -1,10 +1,11 @@
 ---
 title: "Sale Without Legal Warranty in Quebec"
+seo_title: "Sale Without Legal Warranty in Quebec: What Buyers Risk"
 date: 2026-09-21
 lastmod: 2026-09-23
 translationKey: "article-as-is-sale-quebec"
 category: "Buyer's Guide"
-description: "Sale without legal warranty in Quebec: what the clause takes away, what it cannot erase, and what a buyer should demand in exchange."
+description: "Why estates and repossessions sell without legal warranty, what the clause removes, what it can never erase, and what a buyer should demand in exchange."
 image: "images/articles/vente-sans-garantie-legale-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

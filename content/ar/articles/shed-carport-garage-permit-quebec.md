@@ -1,10 +1,11 @@
 ---
 title: "رخصة المستودع ومظلة السيارة والمرآب في كيبيك"
+seo_title: "رخصة المستودع في كيبيك: متى تحتاج إليها؟"
 date: 2026-08-26
 lastmod: 2026-08-26
 translationKey: "article-cabanon-abri-garage-permis"
 category: "دليل عملي"
-description: "رخصة المستودع في كيبيك: حدّ 18 م² في لافال و15 م² في مونتريال، والمسافات، ومظلة الشتاء، وسجل التقييم، والتأمين."
+description: "رخصة المستودع في كيبيك: إلزامية ابتداءً من 18 م² في لافال، وغالباً من 15 م² في مونتريال حسب الدائرة. المسافات، ومظلة الشتاء، وسجل التقييم، والتأمين."
 image: "images/articles/cabanon-abri-auto-garage-permis-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

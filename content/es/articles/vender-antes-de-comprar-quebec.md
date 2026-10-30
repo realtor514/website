@@ -1,10 +1,11 @@
 ---
 title: "Vender antes de comprar en Quebec: las cláusulas que deciden"
+seo_title: "¿Vender o comprar primero en Quebec? Cláusulas que deciden"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-vendre-avant-acheter"
 category: "Guía del Vendedor"
-description: "Vender antes de comprar en Quebec: la cláusula R2.1, la cláusula de 72 horas, el préstamo puente, cargar dos propiedades y las fechas ante el notario."
+description: "¿Vender primero o comprar primero? La cláusula R2.1, la de 72 horas, el préstamo puente y el costo de cargar dos propiedades: lo que decide en su caso."
 image: "images/articles/vendre-avant-acheter-clauses-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

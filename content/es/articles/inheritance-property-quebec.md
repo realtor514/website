@@ -1,9 +1,10 @@
 ---
 title: "Heredar una propiedad en Quebec"
+seo_title: "Heredar una casa en Quebec: pasos, impuestos y venta"
 date: 2026-05-16
 lastmod: 2026-09-21
 category: "Inmobiliaria 101"
-description: "Liquidateur, notario, declaración de transmisión, impuestos al fallecer, impuesto de bienvenida y casa vacía: los pasos antes de vender, recomprar o conservar."
+description: "¿Heredó una casa en Quebec? Liquidador, transmisión, impuestos al fallecer, impuesto de bienvenida y sus opciones: vender, recomprar o conservar."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
 ---
 

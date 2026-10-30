@@ -1,9 +1,10 @@
 ---
 title: "Property Taxes in Montreal and Laval: A Complete Explanation"
+seo_title: "Property Tax in Montreal and Laval: How It Is Calculated"
 date: 2026-05-25
 lastmod: 2026-09-19
 category: "Finance"
-description: "Property taxes in Montreal and Laval: municipal evaluation, tax rate, school tax and the notary adjustment. What you will actually pay each year."
+description: "How property tax is calculated in Montreal and Laval: municipal evaluation, rate, school tax, the notary adjustment, and two common budget mistakes."
 image: "images/articles/property-tax-explained/featured.jpg"
 ---
 

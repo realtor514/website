@@ -1,10 +1,11 @@
 ---
 title: "Selling Before Buying in Quebec: The Clauses That Decide"
+seo_title: "Sell First or Buy First in Quebec? The Clauses That Decide"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-vendre-avant-acheter"
 category: "Seller's Guide"
-description: "Selling before buying in Quebec: clause R2.1, the 72 hour clause, the bridge loan, carrying two properties and the dates at the notary."
+description: "Sell first or buy first? Clause R2.1, the 72 hour clause, the bridge loan and the cost of carrying two properties: what decides it for your household."
 image: "images/articles/vendre-avant-acheter-clauses-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

@@ -1,9 +1,10 @@
 ---
 title: "El notario en Quebec, paso a paso"
+seo_title: "Notario en Quebec al comprar una casa: pasos y quién paga"
 date: 2026-08-04
 lastmod: 2026-09-19
 category: "Inmobiliaria 101"
-description: "Por qué el notario es obligatorio en Quebec, quién lo elige y lo paga, cada etapa hasta la entrega de llaves, los prorrateos y lo que más retrasa una firma."
+description: "En Quebec se firma ante notario, no ante un abogado. Quién lo elige y lo paga, cada etapa hasta las llaves, los prorrateos y lo que más retrasa una firma."
 image: "images/articles/quebec-notary-process/featured.jpg"
 ---
 

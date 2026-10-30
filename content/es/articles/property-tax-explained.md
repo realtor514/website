@@ -1,9 +1,10 @@
 ---
 title: "Impuestos municipales en Montreal y Laval"
+seo_title: "Impuestos municipales en Montreal y Laval: cómo se calculan"
 date: 2026-05-25
 lastmod: 2026-09-19
 category: "Financiamiento"
-description: "Impuestos municipales en Montreal y Laval: evaluación municipal, tasa, impuesto escolar y prorrateo ante el notario. Lo que pagará realmente cada año."
+description: "Cómo se calculan los impuestos municipales en Montreal y Laval: evaluación, tasa, impuesto escolar, prorrateo ante el notario y dos errores de presupuesto."
 image: "images/articles/property-tax-explained/featured.jpg"
 ---
 

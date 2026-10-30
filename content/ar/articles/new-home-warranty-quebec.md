@@ -1,10 +1,11 @@
 ---
 title: "ضمان GCR للمنزل الجديد في كيبيك: سنة واحدة، 3 سنوات، 5 سنوات"
+seo_title: "ضمان GCR للمنزل الجديد في كيبيك: ما الذي يغطيه ومهله"
 date: 2026-09-23
 lastmod: 2026-09-24
 translationKey: "article-garantie-gcr"
 category: "دليل المشتري"
-description: "المباني المشمولة والمستثناة، والفحص السابق للاستلام، ومهل سنة و3 و5 سنوات، ومهل الإبلاغ، والتحكيم: ضمان GCR لمنزل جديد في كيبيك."
+description: "ما الذي يغطيه ضمان GCR لمنزل جديد في كيبيك: المباني المستثناة، والفحص السابق للاستلام، ومهل سنة و3 و5 سنوات، ومهل الإبلاغ، والتحكيم."
 image: "images/articles/garantie-gcr-maison-neuve-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

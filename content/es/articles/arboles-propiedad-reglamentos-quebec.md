@@ -1,10 +1,11 @@
 ---
 title: "Talar un árbol en Quebec: el reglamento"
+seo_title: "Árbol del vecino, tala y permisos en Quebec: las reglas"
 date: 2026-08-31
 lastmod: 2026-09-23
 translationKey: "article-arbres-propriete"
 category: "Guía práctica"
-description: "De quién es el árbol, qué permite el Code civil entre vecinos, el permiso de tala en Montreal y en Laval, y lo que hay que declarar al vender."
+description: "De quién es el árbol, qué permite el Code civil cuando las ramas o raíces del vecino cruzan el límite, el permiso de tala y el seguro cuando cae un árbol."
 image: "images/articles/arbres-propriete-reglements-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

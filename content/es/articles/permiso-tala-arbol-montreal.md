@@ -1,10 +1,11 @@
 ---
 title: "Permiso de tala de árbol en Montreal: el trámite"
+seo_title: "Permiso de tala de árbol en Montreal y Laval: costo y reglas"
 date: 2026-09-26
 lastmod: 2026-09-26
 translationKey: "article-tree-cutting-permits"
 category: "Guía práctica"
-description: "Permiso de tala de árbol en Montreal y en Laval: motivos aceptados, documentos, plazos, tarifas por distrito, fresno, multa y reventa."
+description: "En Montreal, el permiso de tala cuesta de 58 $ a 268 $ según el distrito; en Laval, 84 $ por árbol. Motivos aceptados, documentos, plazos y multas."
 image: "images/articles/permis-abattage-arbres-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

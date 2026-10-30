@@ -1,10 +1,11 @@
 ---
 title: "Shed, Carport and Garage Permits in Quebec"
+seo_title: "Shed Permit in Quebec: When Do You Need One?"
 date: 2026-08-26
 lastmod: 2026-08-26
 translationKey: "article-cabanon-abri-garage-permis"
 category: "Practical Guide"
-description: "Shed permit in Quebec: the 18 m² threshold in Laval, 15 m² in Montreal, setbacks, the winter carport, the assessment roll and insurance."
+description: "Shed permit in Quebec: required from 18 m² in Laval, often from 15 m² in Montreal depending on the borough. Setbacks, winter carport, insurance."
 image: "images/articles/cabanon-abri-auto-garage-permis-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

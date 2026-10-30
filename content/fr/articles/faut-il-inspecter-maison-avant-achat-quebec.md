@@ -1,10 +1,11 @@
 ---
 title: "Faut-il faire inspecter une propriété avant l'achat?"
+seo_title: "Inspection avant achat au Québec: obligatoire ou non?"
 date: 2026-10-21
 lastmod: 2026-10-21
 translationKey: "article-faut-il-inspecter-maison-avant-achat-quebec"
 category: "Guide de l'acheteur"
-description: "Faire inspecter une propriété avant l'achat: aucune loi ne l'exige, mais l'article 1726 exclut le vice apparent. Condo, neuf, sans garantie: ce qui change."
+description: "Aucune loi n'oblige à faire inspecter, mais l'article 1726 exclut le vice apparent de la garantie. Ce que vous perdez sans inspection et les délais."
 image: "images/articles/faut-il-inspecter-maison-avant-achat-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

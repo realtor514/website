@@ -1,10 +1,11 @@
 ---
 title: "البيع بدون ضمان قانوني في كيبيك: ما الذي يتغيّر فعلاً"
+seo_title: "البيع بدون ضمان قانوني في كيبيك: مخاطر المشتري"
 date: 2026-09-21
 lastmod: 2026-09-23
 translationKey: "article-as-is-sale-quebec"
 category: "دليل المشتري"
-description: "البيع بدون ضمان قانوني في كيبيك: ما الذي يسقطه البند، وما الذي لا يستطيع محوه، وما الذي يجب على المشتري أن يطلبه في المقابل."
+description: "لماذا تُباع التركات والعقارات المستعادة بدون ضمان قانوني، وما الذي يسقطه البند، وما لا يستطيع البائع محوه أبداً، وما يجب على المشتري طلبه في المقابل."
 image: "images/articles/vente-sans-garantie-legale-quebec/featured.jpg"
 needs_expert_review: true
 draft: false

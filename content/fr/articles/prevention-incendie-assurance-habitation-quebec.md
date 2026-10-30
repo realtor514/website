@@ -1,10 +1,11 @@
 ---
 title: "Avertisseur de fumée au Québec: obligation et assurance"
+seo_title: "Détecteur de fumée au Québec: obligations et assurance"
 date: 2026-09-07
 lastmod: 2026-09-07
 translationKey: "article-prevention-incendie-assurance"
 category: "Guide pratique"
-description: "Avertisseur de fumée, obligation au Québec: le règlement de Montréal et de Laval, l'avertisseur de CO, et ce que l'assureur exige en plus."
+description: "Avertisseurs de fumée et de CO: ce qu'exigent Montréal et Laval, qui les installe, propriétaire ou locataire, la visite de prévention et l'assureur."
 image: "images/articles/prevention-incendie-assurance-habitation-quebec/featured.jpg"
 draft: false
 ---

@@ -1,10 +1,11 @@
 ---
 title: "Mascotas en un condominio de Quebec"
+seo_title: "Mascotas prohibidas en un condominio de Quebec: ¿es legal?"
 date: 2026-09-24
 lastmod: 2026-09-24
 translationKey: "article-animaux-condo"
 category: "Inmobiliaria 101"
-description: "Mascotas en un condominio de Quebec: dónde vive la cláusula que las prohíbe, qué la hace válida, el animal d'assistance y qué exigir antes de la oferta."
+description: "¿Puede el sindicato prohibir perros y gatos? Dónde vive la regla, qué la hace válida, el animal d'assistance, el inquilino y qué exigir antes de la oferta."
 image: "images/articles/animaux-copropriete-declaration-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
