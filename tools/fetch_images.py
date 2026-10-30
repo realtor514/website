@@ -123,6 +123,7 @@ QUERIES = {
     "maisons-2030-quebec": "modern energy efficient house heat pump",
     "changements-proprietaires-quebec": "calendar deadline paperwork home",
     "fin-crise-logement-quebec": "apartment building construction crane",
+    "augmentation-loyer-2027-quebec": "montreal apartment building exterior stairs",
 }
 
 

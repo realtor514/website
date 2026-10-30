@@ -929,5 +929,11 @@
   "photographe": "Goran Vinko",
   "page": "https://unsplash.com/photos/person-walking-dog-on-suburban-street-fgiL8pL9XHI",
   "recherche": "suburban street canada summer"
+ },
+ "augmentation-loyer-2027-quebec": {
+  "source": "unsplash",
+  "photographe": "Bee",
+  "page": "https://unsplash.com/photos/modern-brutalist-building-with-balconies-against-blue-sky-yQ42d7IYUjU",
+  "recherche": "montreal apartment building exterior stairs"
  }
 }
