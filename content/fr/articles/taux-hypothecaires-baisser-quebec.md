@@ -1,29 +1,30 @@
 ---
 title: "Les taux hypothécaires vont-ils baisser en 2027?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-taux-hypothecaires-baisser-quebec"
 category: "Financement"
-description: "Les taux hypothécaires vont-ils baisser? Taux directeur à 2,25 %, annonces de 2026 et 2027, signal des obligations, et prix d'un quart de point à Laval."
+description: "Les taux hypothécaires vont-ils baisser en 2027? Taux directeur relevé à 2,5 % le 28 octobre, prochaines annonces, obligations et quart de point à Laval."
 image: "images/articles/taux-hypothecaires-baisser-quebec/featured.jpg"
 draft: false
 ---
 
-Au 21 octobre 2026, le taux directeur de la Banque du Canada est de 2,25 %, et il n'a pas bougé depuis un an. Aucune source officielle ne donne la date d'une prochaine baisse, et la Banque ne s'engage sur aucune direction. Ce qui se vérifie: le calendrier des annonces jusqu'à la fin de 2027, les rendements obligataires qui guident le taux fixe, la projection d'inflation de la Banque et le coût d'un quart de point sur une maison de Laval ou de Montréal.
+Au 30 octobre 2026, le taux directeur de la Banque du Canada est de 2,5 %. La Banque l'a relevé de 0,25 point le 28 octobre, sa première hausse depuis juillet 2023, et elle écrit qu'une hausse additionnelle pourrait être nécessaire. Aucune source officielle ne donne la date d'une prochaine baisse. Ce qui se vérifie: le calendrier des annonces jusqu'à la fin de 2027, les rendements obligataires qui guident le taux fixe, la nouvelle projection d'inflation de la Banque et le coût d'un quart de point sur une maison de Laval ou de Montréal.
 
-## Où en est le taux directeur au 21 octobre 2026
+## Où en est le taux directeur au 30 octobre 2026
 
-**2,25 % depuis le 29 octobre 2025.** Ce jour-là, la Banque du Canada a abaissé son taux de 0,25 point. Les sept annonces suivantes l'ont maintenu, la dernière le 2 septembre 2026. Depuis 2021, une modification prend effet le jour suivant son annonce.
+**2,5 % depuis le 28 octobre 2026.** Ce jour-là, la Banque du Canada a relevé son taux de 0,25 point. Il était de 2,25 % depuis la baisse du 29 octobre 2025, et les sept annonces suivantes l'avaient maintenu. Depuis 2021, une modification prend effet le jour suivant son annonce, ici le 29 octobre.
 
-**Ce que la Banque a écrit le 2 septembre.** L'inflation mesurée par l'IPC s'est maintenue autour de 3 % ces derniers mois, surtout à cause de l'essence; sans l'essence, elle était de 2,2 % en juillet. La Banque ajoute que « les risques à la hausse entourant les perspectives d'inflation de la Banque ont augmenté ». Sa conclusion ne penche d'aucun côté: le Conseil de direction « se tient prêt à ajuster la politique monétaire selon les besoins ».
+**Ce que la Banque a écrit le 28 octobre.** La hausse vise à réduire le risque que la persistance des prix élevés de l'énergie se propage aux prix d'autres biens et services. L'inflation avoisine 3 % depuis avril, et la Banque s'attend à environ 3,5 % d'ici la fin de l'année; sans l'essence, elle était de 2,2 % en septembre, et les mesures de l'inflation fondamentale restent proches de 2 %. Pour la suite, la Banque indique qu'une hausse additionnelle du taux directeur pourrait être nécessaire, et qu'elle procédera avec prudence, une décision à la fois.
+
+**Ce que la hausse change dès maintenant.** Le 28 octobre, RBC, TD, BMO, CIBC et la Banque Nationale ont relevé leur taux préférentiel de 4,45 % à 4,70 %, à compter du 29 octobre. Un prêt à taux variable suit ce taux: selon le contrat, c'est le versement qui augmente, ou la part d'intérêt dans un versement qui ne change pas. Un prêt à taux fixe en cours ne bouge pas avant son renouvellement.
 
 ## Les prochaines annonces de la Banque du Canada, jusqu'à la fin de 2027
 
-La Banque annonce son taux à huit dates préétablies par an, un régime adopté en 2000. Son calendrier de 2027 est déjà en ligne. Dix rendez-vous restent prévus d'ici la fin de 2027:
+La Banque annonce son taux à huit dates préétablies par an, un régime adopté en 2000. Son calendrier de 2027 est déjà en ligne. Neuf rendez-vous restent prévus d'ici la fin de 2027:
 
 | Date | Ce que la Banque annonce |
 |---|---|
-| 28 octobre 2026 | Taux directeur et Rapport sur la politique monétaire |
 | 9 décembre 2026 | Taux directeur |
 | 27 janvier 2027 | Taux directeur et Rapport |
 | 3 mars 2027 | Taux directeur |
@@ -34,13 +35,13 @@ La Banque annonce son taux à huit dates préétablies par an, un régime adopt�
 | 27 octobre 2027 | Taux directeur et Rapport |
 | 8 décembre 2027 | Taux directeur |
 
-Source: page « Taux directeur » de la Banque du Canada, consultée le 21 octobre 2026.
+Source: page « Taux directeur » de la Banque du Canada, consultée le 30 octobre 2026.
 
-**Une date hors calendrier reste possible.** La Banque peut ajuster son taux à d'autres dates « dans des circonstances particulières », comme elle l'a fait les 13 et 27 mars 2020. Après le 28 octobre, vérifiez la décision sur le site de la Banque.
+**Une date hors calendrier reste possible.** La Banque peut ajuster son taux à d'autres dates « dans des circonstances particulières », comme elle l'a fait les 13 et 27 mars 2020.
 
 ## Taux variable et taux fixe ne suivent pas le même signal
 
-**Le taux variable suit les dates du tableau.** Selon la Banque du Canada, les modifications du taux directeur entraînent des mouvements semblables du taux préférentiel, base des taux hypothécaires variables. Au 14 octobre 2026, elle relevait un taux préférentiel de 4,45 % chez les grandes banques à charte. Sans décision nouvelle, le variable reste immobile: de novembre 2025 à juillet 2026, le taux moyen exigé sur les prêts non assurés à taux variable est resté entre 3,84 % et 3,90 %.
+**Le taux variable suit les dates du tableau.** Selon la Banque du Canada, les modifications du taux directeur entraînent des mouvements semblables du taux préférentiel, base des taux hypothécaires variables. Le 28 octobre l'a montré: hausse de 0,25 point du taux directeur, hausse de 0,25 point du taux préférentiel des grandes banques, de 4,45 % à 4,70 %. Entre deux décisions, le variable reste immobile: de novembre 2025 à juillet 2026, le taux moyen exigé sur les prêts non assurés à taux variable est resté entre 3,84 % et 3,90 %.
 
 **Le taux fixe peut bouger n'importe quel jour.** La Banque explique que le coût de financement du prêteur est « ce qui influence le plus votre taux hypothécaire ». Dans ses simulations de renouvellement, son personnel fixe le taux d'un prêt à taux fixe par un écart au-dessus du rendement prévu des obligations du gouvernement du Canada. Or, taux directeur immobile ou non, ces rendements bougent:
 
@@ -50,17 +51,19 @@ Source: page « Taux directeur » de la Banque du Canada, consultée le 21 octob
 | Taux moyen exigé, prêts non assurés, fixe 5 ans et plus | 4,40 % (oct. 2025) | 4,49 % (juillet 2026) |
 | Taux affiché, prêt ordinaire de 5 ans | 6,09 % (oct. 2025 à sept. 2026) | 6,19 % (14 oct. 2026) |
 
-Le 2 septembre, la Banque l'écrivait elle-même: « Les rendements des obligations à long terme ont augmenté à l'échelle mondiale, y compris au Canada. » Conséquence pratique: une baisse du taux directeur ne ferait pas baisser mécaniquement un taux fixe de 5 ans, et l'inverse vaut aussi.
+Le 2 septembre, la Banque l'écrivait elle-même: « Les rendements des obligations à long terme ont augmenté à l'échelle mondiale, y compris au Canada. » Conséquence pratique: une hausse du taux directeur ne fait pas monter mécaniquement un taux fixe de 5 ans, et une baisse ne le ferait pas baisser mécaniquement non plus.
 
 ## Les taux hypothécaires vont-ils baisser? Ce que la Banque projette
 
-La Banque ne répond pas à cette question. Elle publie une projection dans son Rapport sur la politique monétaire, dont le plus récent, au 21 octobre 2026, est celui de juillet.
+La Banque ne répond pas à cette question. Elle publie une projection dans son Rapport sur la politique monétaire, dont le plus récent est celui du 28 octobre 2026.
 
-**L'inflation.** Selon cette projection, l'inflation mesurée par l'IPC devait ralentir progressivement et retourner autour de 2 % au début de 2027, « sous réserve de la trajectoire des prix du pétrole et de l'essence », puis s'établir en moyenne autour de 2 % en 2027 et en 2028.
+**L'inflation.** Selon ce Rapport, l'inflation au Canada devrait rester au-dessus de 3 % pendant la majeure partie de 2027, puis revenir près de 2 % vers le milieu de 2028. En juillet, la Banque prévoyait encore un retour autour de 2 % au début de 2027: le retour à la cible a reculé d'environ un an et demi. La Banque l'explique par la persistance des prix élevés de l'énergie et des importations, et suppose que les prix du pétrole baisseront graduellement.
 
-**Le taux.** En juillet, le Conseil de direction jugeait que « le niveau actuel du taux directeur demeure approprié pour soutenir la reprise économique et ramener l'inflation à la cible de 2 % ».
+**La croissance et le logement.** La croissance devrait se raffermir à environ 2 % en 2027 et en 2028. Pour le logement, la Banque s'attend à une activité qui reste relativement faible.
 
-Une projection n'est pas une promesse: la Banque la conditionne elle-même au prix du pétrole, elle porte sur l'inflation et non sur votre taux, et celle du 28 octobre la remplacera.
+**Le taux.** En juillet, le Conseil de direction jugeait le niveau du taux approprié. En octobre, il l'a relevé, et il n'exclut pas d'autres hausses. Aucune baisse n'est évoquée.
+
+Une projection n'est pas une promesse: la Banque la conditionne elle-même aux prix de l'énergie et à la relation commerciale avec les États-Unis, elle porte sur l'inflation et non sur votre taux, et celle du 27 janvier 2027 la remplacera.
 
 ## Ce que vaut un quart de point sur une maison de Laval ou de Montréal
 
@@ -98,7 +101,7 @@ Briser un prêt en cours pour profiter d'une baisse? Demandez d'abord par écrit
 
 ## Ce qu'un emprunteur contrôle en attendant une baisse des taux
 
-**La garantie de taux.** L'ACFC indique qu'une préapprobation permet de garantir un taux pendant 60 à 130 jours, selon le prêteur, sans garantir le prêt lui-même. Obtenue le 21 octobre, une garantie de 60 jours couvre les annonces du 28 octobre et du 9 décembre; à 130 jours, aussi celle du 27 janvier 2027. Demandez si vous obtiendrez automatiquement le taux le plus bas si les taux baissent pendant la période, comme le suggère l'ACFC. Les autres limites sont dans [les erreurs de préapprobation](/articles/mortgage-preapproval-mistakes/).
+**La garantie de taux.** L'ACFC indique qu'une préapprobation permet de garantir un taux pendant 60 à 130 jours, selon le prêteur, sans garantir le prêt lui-même. Obtenue le 30 octobre, une garantie de 60 jours couvre l'annonce du 9 décembre; à 130 jours, aussi celles du 27 janvier et du 3 mars 2027. Le taux garanti reste acquis si les taux montent pendant la période. Demandez aussi si vous obtiendrez automatiquement le taux le plus bas s'ils baissent, comme le suggère l'ACFC. Les autres limites sont dans [les erreurs de préapprobation](/articles/mortgage-preapproval-mistakes/).
 
 **La durée du terme.** Le terme fixe la date de votre prochain retour au marché: un terme de 5 ans signé à l'automne 2026 se renouvelle à l'automne 2031, un terme de 3 ans en 2029.
 
@@ -106,11 +109,11 @@ Briser un prêt en cours pour profiter d'une baisse? Demandez d'abord par écrit
 
 ## Questions fréquentes
 
-**La Banque du Canada va-t-elle baisser son taux le 28 octobre 2026?**
-Aucune source officielle ne le dit avant l'annonce. Le communiqué du 2 septembre ne donne aucune direction. La décision et le Rapport d'octobre paraissent le même jour.
+**Pourquoi la Banque du Canada a-t-elle monté son taux le 28 octobre 2026?**
+Pour réduire le risque que les prix élevés de l'énergie se propagent aux autres prix. L'inflation avoisine 3 % depuis avril, et la Banque l'attend vers 3,5 % à la fin de 2026. La prochaine décision est prévue le 9 décembre 2026.
 
-**Si le taux directeur baisse, mon taux fixe baisse-t-il aussi?**
-Pas automatiquement: il dépend surtout du marché obligataire. Depuis la dernière baisse, le 29 octobre 2025, le rendement à 5 ans est passé de 2,73 % à 3,62 % sans que le taux directeur bouge.
+**Si le taux directeur monte, mon taux fixe monte-t-il aussi?**
+Pas automatiquement: il dépend surtout du marché obligataire. Entre la baisse du 29 octobre 2025 et le 20 octobre 2026, le rendement à 5 ans est passé de 2,73 % à 3,62 % sans que le taux directeur bouge.
 
 **Mon prêt se renouvelle en 2027: fixe ou variable?**
 La décision vous revient, avec votre prêteur ou votre courtier hypothécaire. Le variable suit le taux préférentiel, donc les décisions de la Banque; le fixe dépend surtout du marché obligataire au moment de la signature. Comparez deux offres datées, pour le même terme.

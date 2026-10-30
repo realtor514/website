@@ -1,7 +1,7 @@
 ---
 title: "Will Homes Be Affordable in Quebec in 2027?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-maisons-abordables-quebec"
 category: "Market Analysis"
 description: "Home affordability in Quebec: the payment on the Q3 2026 Centris median, city by city, against CMHC's 30% threshold, and 3 scenarios for 2027."
@@ -70,7 +70,7 @@ Lachenaie, La Plaine and Le Gardeur have no published quarterly median, for lack
 
 Four levers, each with its most recent data. None of them is a forecast; the direction of prices and the timing of rate moves are covered in other articles in the same series.
 
-**Rates.** The Bank of Canada's policy rate has been 2.25% since the cut announced on October 29, 2025; the next announcement is scheduled for October 28, 2026. The rate used in the calculation, however, has gone up: 4.17% in April, 4.49% in July. The chartered banks' 5-year conventional mortgage rate went from 6.09% at the end of September to 6.19% on October 7 and 14.
+**Rates.** The Bank of Canada's policy rate has been 2.5% since the increase announced on October 28, 2026, the first since July 2023; the next announcement is scheduled for December 9, 2026. The rate used in the calculation, however, has gone up: 4.17% in April, 4.49% in July. The chartered banks' 5-year conventional mortgage rate went from 6.09% at the end of September to 6.19% on October 7 and 14.
 
 **Prices.** In the Montreal CMA, in the third quarter of 2026, APCIQ (the Quebec Professional Association of Real Estate Brokers) measures a median single-family home at $645,500 (+2%) and a median condo at $435,000 (+2%), with 20,350 properties listed (+17%). In September, inventory was 18% above its ten-year average, "which eases pressure on prices," according to APCIQ.
 

@@ -1,29 +1,30 @@
 ---
 title: "Will Mortgage Rates Go Down in 2027?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-taux-hypothecaires-baisser-quebec"
 category: "Finance"
-description: "Will mortgage rates go down? A 2.25% policy rate, Bank of Canada dates for 2026 and 2027, the bond signal and the cost of a quarter point in Laval."
+description: "Will mortgage rates go down in 2027? The Bank of Canada raised its rate to 2.5% on October 28, 2026: next dates, the bond signal, a quarter point in Laval."
 image: "images/articles/taux-hypothecaires-baisser-quebec/featured.jpg"
 draft: false
 ---
 
-As of October 21, 2026, the Bank of Canada's policy rate is 2.25%, and it has not moved in a year. No official source gives the date of a next cut, and the Bank commits to no direction. What can be checked: the schedule of announcements through the end of 2027, the bond yields that guide fixed rates, the Bank's inflation projection and the cost of a quarter point on a house in Laval or Montreal.
+As of October 30, 2026, the Bank of Canada's policy rate is 2.5%. The Bank raised it by 0.25 percentage point on October 28, its first increase since July 2023, and it writes that a further increase may be needed. No official source gives the date of a next cut. What can be checked: the schedule of announcements through the end of 2027, the bond yields that guide fixed rates, the Bank's new inflation projection and the cost of a quarter point on a house in Laval or Montreal.
 
-## Where the policy rate stands as of October 21, 2026
+## Where the policy rate stands as of October 30, 2026
 
-**2.25% since October 29, 2025.** That day, the Bank of Canada lowered its rate by 0.25 percentage point. The seven announcements that followed held it there, the most recent on September 2, 2026. Since 2021, a change takes effect the day after it is announced.
+**2.5% since October 28, 2026.** That day, the Bank of Canada raised its rate by 0.25 percentage point. It had been 2.25% since the cut of October 29, 2025, and the seven announcements that followed had held it there. Since 2021, a change takes effect the day after it is announced, in this case October 29.
 
-**What the Bank wrote on September 2.** CPI inflation has held around 3% in recent months, mainly because of gasoline; excluding gasoline, it was 2.2% in July. The Bank adds that "upside risks around the Bank's inflation outlook have increased." Its conclusion leans neither way: Governing Council "stands ready to adjust monetary policy as needed."
+**What the Bank wrote on October 28.** The increase aims to reduce the risk that persistently high energy prices spread to the prices of other goods and services. Inflation has been around 3% since April, and the Bank expects about 3.5% by the end of the year; excluding gasoline, it was 2.2% in September, and measures of core inflation remain close to 2%. Looking ahead, the Bank says a further increase in the policy rate may be needed, and that it will proceed carefully, one decision at a time.
+
+**What the increase changes right away.** On October 28, RBC, TD, BMO, CIBC and National Bank raised their prime rate from 4.45% to 4.70%, effective October 29. A variable-rate mortgage follows that rate: depending on the contract, either the payment goes up, or the interest share of a payment that does not change. A fixed-rate mortgage already in place does not move until renewal.
 
 ## The Bank of Canada's next announcements, through the end of 2027
 
-The Bank announces its rate on eight pre-set dates a year, a system adopted in 2000. Its 2027 schedule is already online. Ten announcements remain scheduled between now and the end of 2027:
+The Bank announces its rate on eight pre-set dates a year, a system adopted in 2000. Its 2027 schedule is already online. Nine announcements remain scheduled between now and the end of 2027:
 
 | Date | What the Bank announces |
 |---|---|
-| October 28, 2026 | Policy rate and Monetary Policy Report |
 | December 9, 2026 | Policy rate |
 | January 27, 2027 | Policy rate and Report |
 | March 3, 2027 | Policy rate |
@@ -34,13 +35,13 @@ The Bank announces its rate on eight pre-set dates a year, a system adopted in 2
 | October 27, 2027 | Policy rate and Report |
 | December 8, 2027 | Policy rate |
 
-Source: the Bank of Canada's "Policy interest rate" page, consulted October 21, 2026.
+Source: the Bank of Canada's "Policy interest rate" page, consulted October 30, 2026.
 
-**An off-schedule date remains possible.** The Bank can adjust its rate on other dates "in special circumstances," as it did on March 13 and 27, 2020. After October 28, check the decision on the Bank's website.
+**An off-schedule date remains possible.** The Bank can adjust its rate on other dates "in special circumstances," as it did on March 13 and 27, 2020.
 
 ## Variable and fixed rates do not follow the same signal
 
-**The variable rate follows the dates in the table.** According to the Bank of Canada, changes to the policy rate lead to similar movements in the prime rate, the basis for variable mortgage rates. As of October 14, 2026, it recorded a prime rate of 4.45% at the major chartered banks. Without a new decision, the variable rate stays put: from November 2025 to July 2026, the average rate charged on uninsured variable-rate mortgages stayed between 3.84% and 3.90%.
+**The variable rate follows the dates in the table.** According to the Bank of Canada, changes to the policy rate lead to similar movements in the prime rate, the basis for variable mortgage rates. October 28 showed it: a 0.25 point increase in the policy rate, a 0.25 point increase in the major banks' prime rate, from 4.45% to 4.70%. Between two decisions, the variable rate stays put: from November 2025 to July 2026, the average rate charged on uninsured variable-rate mortgages stayed between 3.84% and 3.90%.
 
 **The fixed rate can move on any day.** The Bank explains that the lender's cost of funding is "what most influences your mortgage rate." In its renewal simulations, its staff set the rate on a fixed-rate mortgage as a spread above the expected yield on Government of Canada bonds. And whether the policy rate moves or not, those yields do:
 
@@ -50,17 +51,19 @@ Source: the Bank of Canada's "Policy interest rate" page, consulted October 21, 
 | Average rate charged, uninsured mortgages, fixed 5 years and over | 4.40% (Oct. 2025) | 4.49% (July 2026) |
 | Posted rate, conventional 5-year mortgage | 6.09% (Oct. 2025 to Sept. 2026) | 6.19% (Oct. 14, 2026) |
 
-On September 2, the Bank wrote it itself: "Long-term bond yields have risen globally, including in Canada." The practical consequence: a cut in the policy rate would not mechanically lower a 5-year fixed rate, and the reverse is also true.
+On September 2, the Bank wrote it itself: "Long-term bond yields have risen globally, including in Canada." The practical consequence: an increase in the policy rate does not mechanically raise a 5-year fixed rate, and a cut would not mechanically lower it either.
 
 ## Will mortgage rates go down? What the Bank projects
 
-The Bank does not answer that question. It publishes a projection in its Monetary Policy Report, the most recent of which, as of October 21, 2026, is the July edition.
+The Bank does not answer that question. It publishes a projection in its Monetary Policy Report, the most recent of which is the October 28, 2026 edition.
 
-**Inflation.** Under that projection, CPI inflation was expected to slow gradually and return to around 2% in early 2027, "subject to the path of oil and gasoline prices," then average around 2% in 2027 and in 2028.
+**Inflation.** According to that Report, inflation in Canada is expected to stay above 3% for most of 2027, then return close to 2% around the middle of 2028. In July, the Bank still expected a return to around 2% in early 2027: the return to target has slipped by about a year and a half. The Bank attributes this to persistently high energy and import prices, and assumes oil prices will decline gradually.
 
-**The rate.** In July, Governing Council judged that "the current level of the policy rate remains appropriate to support the economic recovery and bring inflation back to the 2% target."
+**Growth and housing.** Growth is expected to firm to about 2% in 2027 and 2028. For housing, the Bank expects activity to remain relatively weak.
 
-A projection is not a promise: the Bank itself makes it conditional on the price of oil, it covers inflation and not your rate, and the October 28 projection will replace it.
+**The rate.** In July, Governing Council judged the level of the rate appropriate. In October, it raised it, and it does not rule out further increases. No cut is mentioned.
+
+A projection is not a promise: the Bank itself makes it conditional on energy prices and on the trade relationship with the United States, it covers inflation and not your rate, and the January 27, 2027 projection will replace it.
 
 ## What a quarter point is worth on a house in Laval or Montreal
 
@@ -98,7 +101,7 @@ Breaking a current mortgage to take advantage of a cut? First ask in writing for
 
 ## What a borrower controls while waiting for rates to drop
 
-**The rate hold.** The FCAC says a pre-approval can hold a rate for 60 to 130 days, depending on the lender, without guaranteeing the loan itself. Obtained on October 21, a 60-day hold covers the October 28 and December 9 announcements; at 130 days, the January 27, 2027 announcement as well. Ask whether you will automatically get the lowest rate if rates fall during that period, as the FCAC suggests. The other limits are covered in [what a mortgage pre-approval does not guarantee](/en/articles/mortgage-preapproval-mistakes/).
+**The rate hold.** The FCAC says a pre-approval can hold a rate for 60 to 130 days, depending on the lender, without guaranteeing the loan itself. Obtained on October 30, a 60-day hold covers the December 9 announcement; at 130 days, the January 27 and March 3, 2027 announcements as well. The held rate stays yours if rates rise during that period. Also ask whether you will automatically get the lowest rate if they fall, as the FCAC suggests. The other limits are covered in [what a mortgage pre-approval does not guarantee](/en/articles/mortgage-preapproval-mistakes/).
 
 **The length of the term.** The term sets the date of your next return to the market: a 5-year term signed in the fall of 2026 renews in the fall of 2031, a 3-year term in 2029.
 
@@ -106,11 +109,11 @@ Breaking a current mortgage to take advantage of a cut? First ask in writing for
 
 ## Frequently asked questions
 
-**Will the Bank of Canada cut its rate on October 28, 2026?**
-No official source says so before the announcement. The September 2 press release gives no direction. The decision and the October Report come out the same day.
+**Why did the Bank of Canada raise its rate on October 28, 2026?**
+To reduce the risk that high energy prices spread to other prices. Inflation has been around 3% since April, and the Bank expects about 3.5% by the end of 2026. The next decision is scheduled for December 9, 2026.
 
-**If the policy rate goes down, does my fixed rate go down too?**
-Not automatically: it depends mainly on the bond market. Since the last cut, on October 29, 2025, the 5-year yield has gone from 2.73% to 3.62% without the policy rate moving.
+**If the policy rate goes up, does my fixed rate go up too?**
+Not automatically: it depends mainly on the bond market. Between the cut of October 29, 2025 and October 20, 2026, the 5-year yield went from 2.73% to 3.62% without the policy rate moving.
 
 **My mortgage renews in 2027: fixed or variable?**
 The decision is yours, with your lender or your mortgage broker. The variable rate follows the prime rate, and therefore the Bank's decisions; the fixed rate depends mainly on the bond market at the time of signing. Compare two dated offers, for the same term.

@@ -1,29 +1,30 @@
 ---
 title: "¿Bajarán las tasas hipotecarias en 2027?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-taux-hypothecaires-baisser-quebec"
 category: "Financiamiento"
-description: "¿Bajarán las tasas hipotecarias? Tasa directriz de 2,25 %, anuncios de 2026 y 2027, señal de los bonos y costo de un cuarto de punto en Laval."
+description: "¿Bajarán las tasas hipotecarias en 2027? El Banco de Canadá subió su tasa a 2,5 % el 28 de octubre: próximas fechas, bonos y un cuarto de punto en Laval."
 image: "images/articles/taux-hypothecaires-baisser-quebec/featured.jpg"
 draft: false
 ---
 
-Al 21 de octubre de 2026, la tasa directriz del Banco de Canadá es de 2,25 %, y no se ha movido en un año. Ninguna fuente oficial da la fecha de una próxima baja, y el Banco no se compromete con ninguna dirección. Lo que sí se puede verificar: el calendario de anuncios hasta finales de 2027, los rendimientos de los bonos que orientan la tasa fija, la proyección de inflación del Banco y el costo de un cuarto de punto sobre una casa en Laval o en Montreal.
+Al 30 de octubre de 2026, la tasa directriz del Banco de Canadá es de 2,5 %. El Banco la subió 0,25 punto el 28 de octubre, su primera alza desde julio de 2023, y escribe que podría ser necesaria una nueva alza. Ninguna fuente oficial da la fecha de una próxima baja. Lo que sí se puede verificar: el calendario de anuncios hasta finales de 2027, los rendimientos de los bonos que orientan la tasa fija, la nueva proyección de inflación del Banco y el costo de un cuarto de punto sobre una casa en Laval o en Montreal.
 
-## Dónde está la tasa directriz al 21 de octubre de 2026
+## Dónde está la tasa directriz al 30 de octubre de 2026
 
-**2,25 % desde el 29 de octubre de 2025.** Ese día, el Banco de Canadá bajó su tasa 0,25 punto. Los siete anuncios siguientes la mantuvieron, el último el 2 de septiembre de 2026. Desde 2021, una modificación entra en vigor el día siguiente a su anuncio.
+**2,5 % desde el 28 de octubre de 2026.** Ese día, el Banco de Canadá subió su tasa 0,25 punto. Estaba en 2,25 % desde la baja del 29 de octubre de 2025, y los siete anuncios siguientes la habían mantenido. Desde 2021, una modificación entra en vigor el día siguiente a su anuncio, en este caso el 29 de octubre.
 
-**Lo que el Banco escribió el 2 de septiembre.** La inflación medida por el IPC (índice de precios al consumidor) se mantuvo alrededor del 3 % en los últimos meses, sobre todo a causa de la gasolina; sin la gasolina, era de 2,2 % en julio. El Banco agrega que « los riesgos al alza en torno a las perspectivas de inflación del Banco han aumentado ». Su conclusión no se inclina hacia ningún lado: el Consejo de Gobierno « está listo para ajustar la política monetaria según sea necesario ».
+**Lo que el Banco escribió el 28 de octubre.** El alza busca reducir el riesgo de que la persistencia de los precios elevados de la energía se propague a los precios de otros bienes y servicios. La inflación medida por el IPC (índice de precios al consumidor) ronda el 3 % desde abril, y el Banco espera cerca de 3,5 % de aquí a fin de año; sin la gasolina, era de 2,2 % en septiembre, y las medidas de inflación subyacente siguen cerca del 2 %. Para lo que sigue, el Banco indica que podría ser necesaria una nueva alza de la tasa directriz, y que procederá con prudencia, una decisión a la vez.
+
+**Lo que el alza cambia desde ya.** El 28 de octubre, RBC, TD, BMO, CIBC y el Banco Nacional subieron su tasa preferencial de 4,45 % a 4,70 %, a partir del 29 de octubre. Un préstamo a tasa variable sigue esa tasa: según el contrato, sube el pago, o la parte de interés dentro de un pago que no cambia. Un préstamo a tasa fija en curso no se mueve antes de su renovación.
 
 ## Los próximos anuncios del Banco de Canadá, hasta finales de 2027
 
-El Banco anuncia su tasa en ocho fechas fijadas de antemano cada año, un régimen adoptado en 2000. Su calendario de 2027 ya está en línea. Quedan diez citas previstas de aquí a finales de 2027:
+El Banco anuncia su tasa en ocho fechas fijadas de antemano cada año, un régimen adoptado en 2000. Su calendario de 2027 ya está en línea. Quedan nueve citas previstas de aquí a finales de 2027:
 
 | Fecha | Lo que anuncia el Banco |
 |---|---|
-| 28 de octubre de 2026 | Tasa directriz e Informe de Política Monetaria |
 | 9 de diciembre de 2026 | Tasa directriz |
 | 27 de enero de 2027 | Tasa directriz e Informe |
 | 3 de marzo de 2027 | Tasa directriz |
@@ -34,13 +35,13 @@ El Banco anuncia su tasa en ocho fechas fijadas de antemano cada año, un régim
 | 27 de octubre de 2027 | Tasa directriz e Informe |
 | 8 de diciembre de 2027 | Tasa directriz |
 
-Fuente: página « Taux directeur » (tasa directriz) del Banco de Canadá, consultada el 21 de octubre de 2026.
+Fuente: página « Taux directeur » (tasa directriz) del Banco de Canadá, consultada el 30 de octubre de 2026.
 
-**Una fecha fuera del calendario sigue siendo posible.** El Banco puede ajustar su tasa en otras fechas « en circunstancias particulares », como lo hizo el 13 y el 27 de marzo de 2020. Después del 28 de octubre, verifique la decisión en el sitio web del Banco.
+**Una fecha fuera del calendario sigue siendo posible.** El Banco puede ajustar su tasa en otras fechas « en circunstancias particulares », como lo hizo el 13 y el 27 de marzo de 2020.
 
 ## La tasa variable y la tasa fija no siguen la misma señal
 
-**La tasa variable sigue las fechas de la tabla.** Según el Banco de Canadá, las modificaciones de la tasa directriz provocan movimientos similares de la tasa preferencial, la base de las tasas hipotecarias variables. Al 14 de octubre de 2026, el Banco registraba una tasa preferencial de 4,45 % en los grandes bancos autorizados. Sin una nueva decisión, la variable se queda inmóvil: de noviembre de 2025 a julio de 2026, la tasa promedio cobrada sobre los préstamos no asegurados a tasa variable se mantuvo entre 3,84 % y 3,90 %.
+**La tasa variable sigue las fechas de la tabla.** Según el Banco de Canadá, las modificaciones de la tasa directriz provocan movimientos similares de la tasa preferencial, la base de las tasas hipotecarias variables. El 28 de octubre lo mostró: alza de 0,25 punto de la tasa directriz, alza de 0,25 punto de la tasa preferencial de los grandes bancos, de 4,45 % a 4,70 %. Entre dos decisiones, la variable se queda inmóvil: de noviembre de 2025 a julio de 2026, la tasa promedio cobrada sobre los préstamos no asegurados a tasa variable se mantuvo entre 3,84 % y 3,90 %.
 
 **La tasa fija puede moverse cualquier día.** El Banco explica que el costo de financiamiento del prestamista es « lo que más influye en su tasa hipotecaria ». En sus simulaciones de renovación, su personal fija la tasa de un préstamo a tasa fija como un margen por encima del rendimiento previsto de los bonos del Gobierno de Canadá. Y, se mueva o no la tasa directriz, esos rendimientos se mueven:
 
@@ -50,17 +51,19 @@ Fuente: página « Taux directeur » (tasa directriz) del Banco de Canadá, cons
 | Tasa promedio cobrada, préstamos no asegurados, fija a 5 años o más | 4,40 % (oct. 2025) | 4,49 % (julio 2026) |
 | Tasa anunciada, préstamo convencional a 5 años | 6,09 % (oct. 2025 a sept. 2026) | 6,19 % (14 oct. 2026) |
 
-El 2 de septiembre, el propio Banco lo escribía: « Los rendimientos de los bonos a largo plazo aumentaron a escala mundial, incluso en Canadá ». Consecuencia práctica: una baja de la tasa directriz no haría bajar mecánicamente una tasa fija a 5 años, y lo inverso también es cierto.
+El 2 de septiembre, el propio Banco lo escribía: « Los rendimientos de los bonos a largo plazo aumentaron a escala mundial, incluso en Canadá ». Consecuencia práctica: un alza de la tasa directriz no hace subir mecánicamente una tasa fija a 5 años, y una baja tampoco la haría bajar mecánicamente.
 
 ## ¿Bajarán las tasas hipotecarias? Lo que proyecta el Banco
 
-El Banco no responde a esa pregunta. Publica una proyección en su Informe de Política Monetaria, cuya edición más reciente, al 21 de octubre de 2026, es la de julio.
+El Banco no responde a esa pregunta. Publica una proyección en su Informe de Política Monetaria, cuya edición más reciente es la del 28 de octubre de 2026.
 
-**La inflación.** Según esa proyección, la inflación medida por el IPC debía desacelerarse progresivamente y volver a alrededor del 2 % a comienzos de 2027, « sujeto a la trayectoria de los precios del petróleo y de la gasolina », y luego situarse en promedio alrededor del 2 % en 2027 y en 2028.
+**La inflación.** Según ese Informe, la inflación en Canadá debería mantenerse por encima del 3 % durante la mayor parte de 2027, y luego volver cerca del 2 % hacia mediados de 2028. En julio, el Banco todavía preveía un regreso a alrededor del 2 % a comienzos de 2027: el regreso a la meta se retrasó cerca de un año y medio. El Banco lo atribuye a la persistencia de los precios elevados de la energía y de las importaciones, y supone que los precios del petróleo bajarán gradualmente.
 
-**La tasa.** En julio, el Consejo de Gobierno consideraba que « el nivel actual de la tasa directriz sigue siendo apropiado para sostener la recuperación económica y llevar la inflación de vuelta a la meta del 2 % ».
+**El crecimiento y la vivienda.** El crecimiento debería afianzarse en torno al 2 % en 2027 y en 2028. Para la vivienda, el Banco espera una actividad que siga relativamente débil.
 
-Una proyección no es una promesa: el propio Banco la condiciona al precio del petróleo, se refiere a la inflación y no a su tasa, y la del 28 de octubre la reemplazará.
+**La tasa.** En julio, el Consejo de Gobierno consideraba apropiado el nivel de la tasa. En octubre, la subió, y no descarta otras alzas. No se menciona ninguna baja.
+
+Una proyección no es una promesa: el propio Banco la condiciona a los precios de la energía y a la relación comercial con Estados Unidos, se refiere a la inflación y no a su tasa, y la del 27 de enero de 2027 la reemplazará.
 
 ## Lo que vale un cuarto de punto sobre una casa en Laval o en Montreal
 
@@ -98,7 +101,7 @@ Dos reservas. El informe no da ninguna cifra para Quebec ni para Montreal. Y sus
 
 ## Lo que un prestatario controla mientras espera una baja de las tasas
 
-**La garantía de tasa.** La ACFC indica que una preaprobación permite garantizar una tasa durante 60 a 130 días, según el prestamista, sin garantizar el préstamo en sí. Obtenida el 21 de octubre, una garantía de 60 días cubre los anuncios del 28 de octubre y del 9 de diciembre; a 130 días, también el del 27 de enero de 2027. Pregunte si obtendrá automáticamente la tasa más baja si las tasas bajan durante ese período, como sugiere la ACFC. Los demás límites están en [lo que garantiza y lo que no una preaprobación hipotecaria](/es/articles/mortgage-preapproval-mistakes/).
+**La garantía de tasa.** La ACFC indica que una preaprobación permite garantizar una tasa durante 60 a 130 días, según el prestamista, sin garantizar el préstamo en sí. Obtenida el 30 de octubre, una garantía de 60 días cubre el anuncio del 9 de diciembre; a 130 días, también los del 27 de enero y del 3 de marzo de 2027. La tasa garantizada se mantiene si las tasas suben durante ese período. Pregunte también si obtendrá automáticamente la tasa más baja si bajan, como sugiere la ACFC. Los demás límites están en [lo que garantiza y lo que no una preaprobación hipotecaria](/es/articles/mortgage-preapproval-mistakes/).
 
 **La duración del plazo.** El plazo fija la fecha de su próximo regreso al mercado: un plazo de 5 años firmado en el otoño de 2026 se renueva en el otoño de 2031, un plazo de 3 años en 2029.
 
@@ -106,11 +109,11 @@ Dos reservas. El informe no da ninguna cifra para Quebec ni para Montreal. Y sus
 
 ## Preguntas frecuentes
 
-**¿Bajará el Banco de Canadá su tasa el 28 de octubre de 2026?**
-Ninguna fuente oficial lo dice antes del anuncio. El comunicado del 2 de septiembre no da ninguna dirección. La decisión y el Informe de octubre se publican el mismo día.
+**¿Por qué el Banco de Canadá subió su tasa el 28 de octubre de 2026?**
+Para reducir el riesgo de que los precios elevados de la energía se propaguen a los demás precios. La inflación ronda el 3 % desde abril, y el Banco la espera cerca de 3,5 % a fines de 2026. La próxima decisión está prevista para el 9 de diciembre de 2026.
 
-**Si la tasa directriz baja, ¿baja también mi tasa fija?**
-No automáticamente: depende sobre todo del mercado de bonos. Desde la última baja, el 29 de octubre de 2025, el rendimiento a 5 años pasó de 2,73 % a 3,62 % sin que la tasa directriz se moviera.
+**Si la tasa directriz sube, ¿sube también mi tasa fija?**
+No automáticamente: depende sobre todo del mercado de bonos. Entre la baja del 29 de octubre de 2025 y el 20 de octubre de 2026, el rendimiento a 5 años pasó de 2,73 % a 3,62 % sin que la tasa directriz se moviera.
 
 **Mi préstamo se renueva en 2027: ¿fija o variable?**
 La decisión le corresponde a usted, con su prestamista o su corredor hipotecario. La variable sigue la tasa preferencial, y por lo tanto las decisiones del Banco; la fija depende sobre todo del mercado de bonos en el momento de la firma. Compare dos ofertas fechadas, para el mismo plazo.

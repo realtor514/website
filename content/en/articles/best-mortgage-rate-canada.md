@@ -1,7 +1,7 @@
 ---
 title: "The Best Mortgage Rate in Canada"
 date: 2026-07-07
-lastmod: 2026-09-21
+lastmod: 2026-10-30
 category: "Finance"
 description: "Posted rate versus your rate, fixed versus variable, term, penalty and the interest rate differential: what really sets the cost of a Quebec mortgage."
 image: "images/articles/best-mortgage-rate-canada/featured.jpg"
@@ -12,8 +12,9 @@ rarely the same number. Between the two sit a qualifying test, debt service
 ratios, a down payment, a term, an amortization and a penalty clause almost
 nobody reads.
 
-One marker, with a date attached: on September 2, 2026, the Bank of Canada held
-its policy rate at 2.25%. That rate moves, and mortgage rates move with it. Any
+One marker, with a date attached: on October 28, 2026, the Bank of Canada raised
+its policy rate to 2.5%, its first increase since July 2023. That rate moves,
+and mortgage rates move with it. Any
 rate figure you read in an article ages quickly, so check the date before you
 rely on it.
 

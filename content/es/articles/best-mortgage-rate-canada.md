@@ -1,7 +1,7 @@
 ---
 title: "La mejor tasa hipotecaria en Canadá"
 date: 2026-07-07
-lastmod: 2026-09-21
+lastmod: 2026-10-30
 category: "Financiamiento"
 description: "Tasa anunciada o tasa real, fija o variable, plazo, penalidad y diferencial: lo que de verdad define el costo de su hipoteca en Quebec, con fuentes oficiales."
 image: "images/articles/best-mortgage-rate-canada/featured.jpg"
@@ -12,8 +12,9 @@ rara vez son el mismo número. Entre las dos hay una prueba de calificación,
 ratios de endeudamiento, una cuota inicial, un plazo, una amortización y una
 cláusula de penalidad que casi nadie lee.
 
-Un punto de referencia, con fecha: el 2 de septiembre de 2026, el Banco de
-Canadá mantuvo su tasa directriz en 2,25 %. Esa tasa se mueve, y las tasas
+Un punto de referencia, con fecha: el 28 de octubre de 2026, el Banco de
+Canadá subió su tasa directriz a 2,5 %, su primera alza desde julio de 2023.
+Esa tasa se mueve, y las tasas
 hipotecarias se mueven con ella. Cualquier cifra de tasa que lea en un artículo
 envejece rápido: verifique la fecha antes de fiarse de ella.
 

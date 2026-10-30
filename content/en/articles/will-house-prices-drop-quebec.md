@@ -1,7 +1,7 @@
 ---
 title: "Will House Prices Drop in Quebec?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-prix-maisons-baisser-quebec"
 category: "Market Analysis"
 description: "Will house prices drop in Quebec? Q3 2026 medians, CMHC and APCIQ forecasts, the signals to watch and what waiting really costs."
@@ -95,7 +95,7 @@ A general decline is not the same as a decline in one segment, and the segments 
 
 **For a buyer, a drop has to be weighed against what waiting costs.** In the CMA, one percentage point on the single-family median, $645,500, is worth $6,455; on the condo median, $435,000, it is worth $4,350. On the other side of the scale, a year of average rent for a two-bedroom apartment in the CMA, $1,346 a month according to CMHC's October 2025 survey, comes to $16,152. The two amounts do not offset each other directly: an owner also pays interest, taxes and maintenance. The [rent vs. buy calculator](/en/tools/rent-vs-buy/) puts those items side by side with your own figures, and [the rent-or-buy calculation in Greater Montreal](/en/articles/renting-vs-buying-calculation/) explains which ones to compare.
 
-**The rate matters too.** CMHC forecasts a posted 5-year fixed rate averaging 5.2% in 2026 and 5.4% in 2027, which is also a forecast. As of October 21, 2026, the policy rate is 2.25%; the Bank of Canada's next announcement is scheduled for October 28. For your own rate, see a mortgage broker.
+**The rate matters too.** CMHC forecasts a posted 5-year fixed rate averaging 5.2% in 2026 and 5.4% in 2027, which is also a forecast. On October 28, 2026, the Bank of Canada raised its policy rate from 2.25% to 2.5%, and it expects housing activity to remain relatively weak; its next announcement is scheduled for December 9. For your own rate, see a mortgage broker.
 
 **For a seller who buys again, the gap is what counts.** Selling a condo at the CMA median price, $435,000, to buy a single-family home at $645,500 means a gap of $210,500. A uniform 5% drop, purely a calculation assumption, would bring that gap down to $199,975; a uniform 5% rise would push it to $221,025. But segments do not move together, as we have seen. For a seller who is not buying again, the price affects the full amount, and every month of waiting adds taxes, interest and insurance.
 

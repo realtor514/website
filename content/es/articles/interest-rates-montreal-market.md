@@ -1,7 +1,7 @@
 ---
 title: "Tasas de interés y mercado de Montreal"
 date: 2026-07-13
-lastmod: 2026-09-21
+lastmod: 2026-10-30
 category: "Financiamiento"
 description: "Tasa directriz, tasa preferencial, bonos, prueba de resistencia y renovación: el camino real entre el Banco de Canadá y su hipoteca en Montreal y Laval."
 image: "images/articles/interest-rates-montreal-market/featured.jpg"
@@ -13,15 +13,16 @@ Canadá, y la pregunta que sigue es siempre la misma: ¿cambia mi pago mensual?
 
 A menudo no. No de inmediato, no de forma automática, y no de la misma manera
 según su tasa sea fija o variable. Aquí está el camino real, con las cifras
-oficiales vigentes al 21 de septiembre de 2026. No encontrará ninguna
+oficiales vigentes al 21 de septiembre de 2026, y la tasa directriz al 30 de
+octubre de 2026. No encontrará ninguna
 previsión: nadie conoce la próxima tasa, y yo tampoco.
 
 ## Lo que fija el Banco de Canadá, y lo que no fija
 
 El Banco de Canadá anuncia su tasa directriz (taux directeur) en ocho fechas
-fijadas de antemano cada año. El 2 de septiembre de 2026 la mantuvo en 2,25 %,
-el nivel vigente desde el 29 de octubre de 2025. Los dos últimos anuncios de
-2026 están previstos para el 28 de octubre y el 9 de diciembre.
+fijadas de antemano cada año. El 28 de octubre de 2026 la subió 0,25 punto, a
+2,5 %, después de haberla mantenido en 2,25 % desde el 29 de octubre de 2025.
+El último anuncio de 2026 está previsto para el 9 de diciembre.
 
 Esa tasa no fija su hipoteca. Fija el costo del financiamiento a un día entre
 instituciones financieras. Todo lo demás, la tasa preferencial, la tasa
@@ -36,9 +37,9 @@ difusión del 14 de septiembre de 2026.
 
 La tasa preferencial (taux préférentiel) de los grandes bancos autorizados es
 la referencia de los préstamos variables, y se mueve prácticamente en paralelo
-con la tasa directriz. Al 16 de septiembre de 2026, el Banco de Canadá
-registraba una tasa preferencial de 4,45 %, es decir 2,20 puntos por encima de
-la tasa directriz de 2,25 %.
+con la tasa directriz. El 28 de octubre de 2026, los grandes bancos la subieron
+de 4,45 % a 4,70 %, a partir del 29 de octubre, es decir 2,20 puntos por encima
+de la nueva tasa directriz de 2,5 %.
 
 Un préstamo variable se escribe entonces en relación con esa cifra, del tipo
 preferencial menos un descuento. Cuando el Banco se mueve y los bancos lo

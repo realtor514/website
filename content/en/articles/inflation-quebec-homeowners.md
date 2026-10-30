@@ -1,7 +1,7 @@
 ---
 title: "What Will Quebec's Inflation Rate Be in 2027?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-inflation-quebec-immobilier"
 category: "Finance"
 description: "Quebec's inflation rate: 3.1% in September 2026. What Quebec and the Bank of Canada project for 2027, and what it means for a homeowner."
@@ -43,15 +43,15 @@ Two bodies publish a projection for 2027. They are dated scenarios built on assu
 | Body and document | Date | 2026 | 2027 | 2028 | Territory |
 |---|---|---|---|---|---|
 | Ministère des Finances du Québec, Pre-election Report | August 17, 2026 | 3.0% | 2.1% | 2.0% | Quebec |
-| Bank of Canada, Monetary Policy Report | July 15, 2026 | 2.5% | 2.0% | 2.1% | Canada |
+| Bank of Canada, Monetary Policy Report | October 28, 2026 | 2.9% | 3.1% | 2.2% | Canada |
 
-Annual average increase in the CPI.
+Annual average increase in the CPI. The two projections do not have the same date: Quebec's precedes the Bank's revision by ten weeks.
 
 **Quebec: 2.1% in 2027.** The Ministère des Finances projects 3.0% in 2026, 2.1% in 2027, then 2.0% from 2028 to 2030. It points in particular to lower oil prices and slower growth in housing prices. Its recession scenario gives 1.7% in 2027. As the law requires, the Auditor General of Quebec (Vérificateur général du Québec) accompanies this report with a report on the plausibility of the forecasts.
 
-**Canada: 2.0% in 2027.** In July, the Bank of Canada expected Canadian inflation "to settle at around 2½% in the second half of 2026, then return to the 2% target in early 2027," based on oil futures as of July 9, 2026. The figures measured in Canada since then are higher: 3.0% in July and in August, 3.1% in September, compared with the 2.5% projected for the third quarter.
+**Canada: 3.1% in 2027.** On October 28, 2026, the Bank of Canada revised its projection upward: 2.9% in 2026, 3.1% in 2027 and 2.2% in 2028, compared with 2.5%, 2.0% and 2.1% in its July Report. It expects inflation above 3% for most of 2027, then a return to near 2% around mid-2028, and attributes this to persistently high energy and import prices. In July, it still saw a return to the 2% target in early 2027; the figures measured since then, 3.0% in July and in August and 3.1% in September, exceeded the 2.5% it projected for the third quarter.
 
-**A projection gets replaced.** The Bank will present its next Report on October 28, 2026, then four more in 2027. It does not project Quebec's inflation: among the official sources consulted, only the Ministère des Finances does.
+**A projection gets replaced.** The Bank will present its next Report on January 27, 2027, then three more in 2027. It does not project Quebec's inflation: among the official sources consulted, only the Ministère des Finances does.
 
 ## Inflation and mortgage rates: the link through the 2% target
 
@@ -59,7 +59,7 @@ The Bank of Canada targets inflation of 2%, the midpoint of a range of 1% to 3%,
 
 At 3.1% in September, Canada's CPI is above the top of the range. The core inflation measures the Bank monitors remain lower: 1.8% for CPI-trim, 1.9% for CPI-median.
 
-As of October 21, 2026, the policy rate is 2.25%, unchanged since October 29, 2025. When it held the rate on September 2, the Bank wrote that "upside risks around inflation have increased," and that its Governing Council "stands ready to adjust monetary policy as needed."
+On October 28, 2026, the Bank raised its policy rate by 0.25 percentage point, to 2.5%, its first increase since July 2023. It wants to reduce the risk that persistently high energy prices spread to the prices of other goods and services, and indicates that a further increase may be needed. The same day, the major banks raised their prime rate from 4.45% to 4.70%. The details are in [will mortgage rates go down in 2027](/en/articles/will-mortgage-rates-go-down-quebec/).
 
 The mechanism, according to the Bank: it can raise its rate to keep inflation from going above the target, and its decisions move the prime rate, the basis for variable-rate loans. Fixed rates also depend on financial markets, including foreign ones. The full path is laid out in [what connects the Bank of Canada to your payment](/en/articles/interest-rates-montreal-market/).
 
@@ -95,7 +95,7 @@ Since January 1, 2026, inflation feeds directly into rent setting. The Regulatio
 3.1% over 12 months in September 2026, and 3.0% in the Montreal CMA. The October figure is scheduled for November 16, 2026.
 
 **What will Quebec's inflation rate be in 2027?**
-No organization knows. The Ministère des Finances du Québec projects 2.1%, and 1.7% in its recession scenario. The Bank of Canada projects 2.0% for Canada and will present a new projection on October 28, 2026.
+No organization knows. The Ministère des Finances du Québec projects 2.1%, and 1.7% in its recession scenario, in a report dated August 17, 2026. The Bank of Canada has projected 3.1% for Canada since its Report of October 28, 2026, compared with 2.0% in July.
 
 **Has the TAL published the rent increase percentage for 2027?**
 No. The 2027 percentage will average the CPI increases of 2024, 2025 and 2026, and the 2026 increase is not yet known. The base percentage is not a cap: taxes, insurance and work are added according to the Regulation, and an agreement is still possible.

@@ -1,7 +1,7 @@
 ---
 title: "¿Serán asequibles las casas en Quebec en 2027?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-maisons-abordables-quebec"
 category: "Análisis de Mercado"
 description: "Asequibilidad de la vivienda en Quebec: el pago sobre la mediana Centris del T3 2026 por ciudad, frente al umbral del 30 % de la SCHL, y 3 escenarios 2027."
@@ -70,7 +70,7 @@ Lachenaie, La Plaine y Le Gardeur no tienen mediana trimestral publicada, por fa
 
 Cuatro palancas, cada una con su dato más reciente. Ninguno de esos datos es una previsión; la dirección de los precios y el calendario de las tasas se tratan en otros textos de la misma serie.
 
-**Las tasas.** La tasa directriz del Banco de Canadá es de 2,25 % desde la baja anunciada el 29 de octubre de 2025; el próximo anuncio está previsto para el 28 de octubre de 2026. La tasa del cálculo, en cambio, subió: 4,17 % en abril, 4,49 % en julio. La tasa hipotecaria ordinaria a 5 años de los bancos con carta federal pasó de 6,09 % a fines de septiembre a 6,19 % el 7 y el 14 de octubre.
+**Las tasas.** La tasa directriz del Banco de Canadá es de 2,5 % desde el alza anunciada el 28 de octubre de 2026, la primera desde julio de 2023; el próximo anuncio está previsto para el 9 de diciembre de 2026. La tasa del cálculo, en cambio, subió: 4,17 % en abril, 4,49 % en julio. La tasa hipotecaria ordinaria a 5 años de los bancos con carta federal pasó de 6,09 % a fines de septiembre a 6,19 % el 7 y el 14 de octubre.
 
 **Los precios.** En la región metropolitana de censo (RMR) de Montreal, en el tercer trimestre de 2026, la APCIQ, la asociación profesional de corredores inmobiliarios de Quebec, mide una unifamiliar mediana de 645 500 $ (+2 %) y un condominio mediano de 435 000 $ (+2 %), con 20 350 propiedades inscritas (+17 %). En septiembre, el inventario superaba en un 18 % su promedio de diez años, « lo que atenúa la presión sobre los precios », según la APCIQ.
 

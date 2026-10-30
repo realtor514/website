@@ -1,7 +1,7 @@
 ---
 title: "Interest Rates and the Montreal Market"
 date: 2026-07-13
-lastmod: 2026-09-21
+lastmod: 2026-10-30
 category: "Finance"
 description: "Policy rate, prime rate, bond yields, stress test and renewal shock: the real path between a Bank of Canada decision and a Montreal buyer's monthly payment."
 image: "images/articles/interest-rates-montreal-market/featured.jpg"
@@ -13,15 +13,16 @@ that follows is always the same: does my payment change?
 
 Often it does not. Not right away, not automatically, and not in the same way
 depending on whether your rate is fixed or variable. Here is the real path,
-with official figures current as of 21 September 2026. You will find no
+with official figures current as of 21 September 2026, and the policy rate as
+of 30 October 2026. You will find no
 forecast here. Nobody knows the next rate, and I am no exception.
 
 ## What the Bank of Canada Sets, and What It Does Not
 
 The Bank of Canada announces its policy rate on eight pre-set dates each year.
-On 2 September 2026 it held that rate at 2.25%, the level in place since
-29 October 2025. The two remaining 2026 announcements are scheduled for
-28 October and 9 December.
+On 28 October 2026 it raised that rate by 0.25 point, to 2.5%, after holding
+it at 2.25% since 29 October 2025. The last 2026 announcement is scheduled for
+9 December.
 
 That rate does not set your mortgage. It sets the cost of overnight funding
 between financial institutions. Everything else, the prime rate, variable
@@ -35,9 +36,9 @@ over year in August 2026, according to Statistics Canada in its release of
 ## Variable Rates Travel Through the Prime Rate
 
 The prime rate at the major chartered banks is the reference for variable
-mortgages, and it moves roughly in step with the policy rate. As of
-16 September 2026, the Bank of Canada reported a prime rate of 4.45%, which is
-2.20 points above the 2.25% policy rate.
+mortgages, and it moves roughly in step with the policy rate. On
+28 October 2026, the major banks raised it from 4.45% to 4.70%, effective
+29 October, which is 2.20 points above the new 2.5% policy rate.
 
 A variable mortgage is therefore written in relation to that number, in the
 form of prime minus a discount. When the Bank moves and the banks follow, your

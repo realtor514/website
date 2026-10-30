@@ -1,7 +1,7 @@
 ---
 title: "¿Qué factores influyen en el mercado inmobiliario de Quebec?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-facteurs-marche-immobilier-quebec"
 category: "Análisis de Mercado"
 description: "Qué influye en el mercado inmobiliario de Quebec: tasas, crédito, empleo, población, oferta, alquileres, impuestos. El dato, su fuente y su último valor."
@@ -15,7 +15,7 @@ Cuando el mercado se desacelera, cada titular señala a un culpable: las tasas, 
 
 | Factor | Dato | Organismo | Frecuencia | Último valor | Difusión |
 |---|---|---|---|---|---|
-| Tasa de corto plazo | Tasa directriz | Banco de Canadá | 8 fechas al año | 2,25 % | 2 de septiembre de 2026 |
+| Tasa de corto plazo | Tasa directriz | Banco de Canadá | 8 fechas al año | 2,5 % | 28 de octubre de 2026 |
 | Tasas de los bonos | Bonos de referencia del Gobierno de Canadá | Banco de Canadá | Cada día hábil | 3,62 % a 5 años, 3,90 % a 10 años | 20 de octubre de 2026 |
 | Crédito no asegurado | Tasa mínima de calificación | BSIF | Al menos una revisión al año | Tasa del contrato más 2 puntos, o 5,25 % | Página del 29 de enero de 2026 |
 | Crédito asegurado | Precio máximo, amortización | SCHL, Finanzas Canadá | Según los anuncios | Menos de 1 500 000 $; 25 años, o 30 años para una primera compra o una vivienda nueva | Vigente desde el 15 de diciembre de 2024 |
@@ -35,7 +35,7 @@ MIFI: Ministère de l'Immigration, de la Francisation et de l'Intégration (el m
 
 ## Las tasas y las reglas de crédito
 
-**La tasa directriz.** El Banco de Canadá la fija en ocho fechas preestablecidas al año. Está en 2,25 % desde la baja anunciada el 29 de octubre de 2025, y los seis anuncios de 2026 la mantuvieron. El próximo está previsto para el 28 de octubre de 2026.
+**La tasa directriz.** El Banco de Canadá la fija en ocho fechas preestablecidas al año. Está en 2,5 % desde el alza anunciada el 28 de octubre de 2026, la primera desde julio de 2023, después de siete anuncios que la mantuvieron en 2,25 %. El próximo está previsto para el 9 de diciembre de 2026.
 
 **Los rendimientos de los bonos.** En un artículo de marzo de 2026, economistas del Banco de Canadá recuerdan que los rendimientos de los bonos del Estado a largo plazo « influyen directamente en las tasas hipotecarias », y que se han mantenido elevados desde septiembre de 2024 a pesar de la baja de las tasas directrices. El camino hasta su pago mensual se describe en [el artículo sobre las tasas de interés y el mercado de Montreal](/es/articles/interest-rates-montreal-market/).
 
@@ -93,7 +93,7 @@ Ninguna de las fuentes consultadas lo cifra. La SCHL relaciona más bien la dism
 Ninguna fuente consultada mide su efecto sobre el precio de reventa. En la RMR de Montreal, 18 118 de las 19 028 viviendas iniciadas de enero a septiembre de 2026 no eran casas unifamiliares aisladas.
 
 **¿Cuándo salen las próximas cifras?**
-La tasa directriz el 28 de octubre de 2026, y luego el 9 de diciembre; la EPA de octubre el 6 de noviembre de 2026, según el ISQ. El plan de inmigración debe presentarse a más tardar el 1 de noviembre, o dentro de los 15 días siguientes a la reanudación de los trabajos si la Asamblea Nacional no está sesionando.
+La tasa directriz el 9 de diciembre de 2026, y luego el 27 de enero de 2027; la EPA de octubre el 6 de noviembre de 2026, según el ISQ. El plan de inmigración debe presentarse a más tardar el 1 de noviembre, o dentro de los 15 días siguientes a la reanudación de los trabajos si la Asamblea Nacional no está sesionando.
 
 Para completar, lea [cómo leer los datos fechados del mercado de Montreal y Laval](/es/articles/marche-immobilier-montreal-analyse-donnees/) y [los límites de una preaprobación hipotecaria](/es/articles/mortgage-preapproval-mistakes/).
 

@@ -1,7 +1,7 @@
 ---
 title: "Le prix des maisons va-t-il baisser au Québec?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-prix-maisons-baisser-quebec"
 category: "Analyse de marché"
 description: "Le prix des maisons va-t-il baisser au Québec? Médianes du T3 2026, prévisions de la SCHL et de l'APCIQ, signaux à surveiller et coût d'attendre."
@@ -95,7 +95,7 @@ Une baisse générale n'est pas une baisse dans un segment, et les segments se d
 
 **Pour un acheteur, une baisse se compare à ce que l'attente coûte.** Dans la RMR, un point de pourcentage sur la médiane de l'unifamiliale, 645 500 $, vaut 6 455 $; sur celle de la copropriété, 435 000 $, il vaut 4 350 $. En face, un an de loyer moyen d'un deux-chambres dans la RMR, 1 346 $ par mois selon l'enquête de la SCHL d'octobre 2025, représente 16 152 $. Les deux montants ne s'opposent pas directement: un propriétaire paie aussi des intérêts, des taxes et l'entretien. Le [calculateur louer ou acheter](/tools/rent-vs-buy/) met ces postes côte à côte avec vos propres chiffres, et [le calcul louer ou acheter dans le Grand Montréal](/articles/renting-vs-buying-calculation/) explique lesquels comparer.
 
-**Le taux pèse aussi.** La SCHL prévoit un taux fixe affiché de 5 ans de 5,2 % en moyenne en 2026 et de 5,4 % en 2027, une prévision elle aussi. Au 21 octobre 2026, le taux directeur est de 2,25 %; la prochaine annonce de la Banque du Canada est prévue le 28 octobre. Pour votre taux, voyez un courtier hypothécaire.
+**Le taux pèse aussi.** La SCHL prévoit un taux fixe affiché de 5 ans de 5,2 % en moyenne en 2026 et de 5,4 % en 2027, une prévision elle aussi. Le 28 octobre 2026, la Banque du Canada a relevé son taux directeur de 2,25 % à 2,5 %, et elle s'attend à une activité qui reste relativement faible dans le logement; sa prochaine annonce est prévue le 9 décembre. Pour votre taux, voyez un courtier hypothécaire.
 
 **Pour un vendeur qui rachète, c'est l'écart qui compte.** Vendre une copropriété au prix médian de la RMR, 435 000 $, pour acheter une unifamiliale à 645 500 $, c'est un écart de 210 500 $. Une baisse uniforme de 5 %, simple hypothèse de calcul, le ramènerait à 199 975 $; une hausse uniforme de 5 % le porterait à 221 025 $. Or les segments ne bougent pas ensemble, on l'a vu. Pour un vendeur qui ne rachète pas, le prix touche tout le montant, et chaque mois d'attente ajoute taxes, intérêts et assurance.
 

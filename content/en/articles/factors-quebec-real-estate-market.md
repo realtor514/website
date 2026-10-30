@@ -1,7 +1,7 @@
 ---
 title: "What Factors Influence the Real Estate Market in Quebec?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-facteurs-marche-immobilier-quebec"
 category: "Market Analysis"
 description: "Factors that influence the Quebec real estate market: rates, credit, jobs, population, supply, rents, taxes. The data, its source, its latest value."
@@ -15,7 +15,7 @@ When the market slows down, every headline names a culprit: interest rates, immi
 
 | Factor | Data | Source | Frequency | Latest value | Released |
 |---|---|---|---|---|---|
-| Short-term rate | Policy interest rate | Bank of Canada | 8 dates a year | 2.25% | September 2, 2026 |
+| Short-term rate | Policy interest rate | Bank of Canada | 8 dates a year | 2.5% | October 28, 2026 |
 | Bond yields | Government of Canada benchmark bonds | Bank of Canada | Every business day | 3.62% for 5 years, 3.90% for 10 years | October 20, 2026 |
 | Uninsured credit | Minimum qualifying rate | OSFI | Reviewed at least once a year | Contract rate plus 2 points, or 5.25% | Page dated January 29, 2026 |
 | Insured credit | Price cap, amortization | CMHC, Finance Canada | As announced | Under $1,500,000; 25 years, or 30 years for a first purchase or a new build | In force December 15, 2024 |
@@ -35,7 +35,7 @@ MIFI: Ministère de l'Immigration, de la Francisation et de l'Intégration (Queb
 
 ## Interest rates and lending rules
 
-**The policy rate.** The Bank of Canada sets it on eight pre-set dates a year. It has stood at 2.25% since the cut announced on October 29, 2025, and all six announcements of 2026 have held it there. The next one is scheduled for October 28, 2026.
+**The policy rate.** The Bank of Canada sets it on eight pre-set dates a year. It has stood at 2.5% since the increase announced on October 28, 2026, the first since July 2023, after seven announcements that held it at 2.25%. The next one is scheduled for December 9, 2026.
 
 **Bond yields.** In a March 2026 article, Bank of Canada economists point out that yields on long-term government bonds "directly influence mortgage rates," and that they have stayed high since September 2024 despite the cuts to the policy rate. The path from there to your payment is described in [the article on interest rates and the Montreal market](/en/articles/interest-rates-montreal-market/).
 
@@ -93,7 +93,7 @@ None of the sources consulted puts a figure on it. CMHC instead links the drop i
 No source consulted measures their effect on resale prices. In the Montreal CMA, 18,118 of the 19,028 dwellings started from January to September 2026 were not single-detached houses.
 
 **When do the next figures come out?**
-The policy rate on October 28, 2026, then on December 9; the October LFS on November 6, 2026, according to the ISQ. The immigration plan must be tabled no later than November 1, or within 15 days after proceedings resume if the National Assembly is not sitting.
+The policy rate on December 9, 2026, then on January 27, 2027; the October LFS on November 6, 2026, according to the ISQ. The immigration plan must be tabled no later than November 1, or within 15 days after proceedings resume if the National Assembly is not sitting.
 
 To go further, read [how to read the dated data on the Montreal and Laval market](/en/articles/marche-immobilier-montreal-analyse-donnees/) and [the limits of a mortgage pre-approval](/en/articles/mortgage-preapproval-mistakes/).
 

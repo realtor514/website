@@ -1,7 +1,7 @@
 ---
 title: "Quel sera le taux d'inflation au Québec en 2027?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-inflation-quebec-immobilier"
 category: "Financement"
 description: "Taux d'inflation au Québec: 3,1 % en septembre 2026. Ce que Québec et la Banque du Canada projettent pour 2027, et l'effet sur un propriétaire."
@@ -43,15 +43,15 @@ Deux organismes publient une projection pour 2027. Ce sont des scénarios datés
 | Organisme et document | Date | 2026 | 2027 | 2028 | Territoire |
 |---|---|---|---|---|---|
 | Ministère des Finances du Québec, Rapport préélectoral | 17 août 2026 | 3,0 % | 2,1 % | 2,0 % | Québec |
-| Banque du Canada, Rapport sur la politique monétaire | 15 juillet 2026 | 2,5 % | 2,0 % | 2,1 % | Canada |
+| Banque du Canada, Rapport sur la politique monétaire | 28 octobre 2026 | 2,9 % | 3,1 % | 2,2 % | Canada |
 
-Hausse de l'IPC en moyenne annuelle.
+Hausse de l'IPC en moyenne annuelle. Les deux projections n'ont pas la même date: celle de Québec précède de dix semaines la révision de la Banque.
 
 **Québec: 2,1 % en 2027.** Le ministère des Finances projette 3,0 % en 2026, 2,1 % en 2027, puis 2,0 % de 2028 à 2030. Il invoque notamment le recul des prix du pétrole et le ralentissement de la croissance des prix du logement. Son scénario de récession donne 1,7 % en 2027. Comme l'exige la loi, le Vérificateur général du Québec accompagne ce rapport d'un rapport sur la plausibilité des prévisions.
 
-**Canada: 2,0 % en 2027.** En juillet, la Banque du Canada voyait l'inflation canadienne « s'établir à environ 2½ % dans la deuxième moitié de 2026, puis revenir à la cible de 2 % au début de 2027 », sur la foi des contrats à terme du pétrole au 9 juillet 2026. Les chiffres mesurés depuis au Canada sont plus élevés: 3,0 % en juillet et en août, 3,1 % en septembre, contre 2,5 % projetés pour le troisième trimestre.
+**Canada: 3,1 % en 2027.** Le 28 octobre 2026, la Banque du Canada a révisé sa projection à la hausse: 2,9 % en 2026, 3,1 % en 2027 et 2,2 % en 2028, contre 2,5 %, 2,0 % et 2,1 % dans son Rapport de juillet. Elle s'attend à une inflation au-dessus de 3 % pendant la majeure partie de 2027, puis à un retour près de 2 % vers le milieu de 2028, et l'explique par la persistance des prix élevés de l'énergie et des importations. En juillet, elle voyait encore un retour à la cible de 2 % au début de 2027; les chiffres mesurés depuis, 3,0 % en juillet et en août et 3,1 % en septembre, ont dépassé les 2,5 % qu'elle projetait pour le troisième trimestre.
 
-**Une projection se remplace.** La Banque présentera son prochain Rapport le 28 octobre 2026, puis quatre autres en 2027. Elle ne projette pas l'inflation du Québec: parmi les sources officielles consultées, seul le ministère des Finances le fait.
+**Une projection se remplace.** La Banque présentera son prochain Rapport le 27 janvier 2027, puis trois autres en 2027. Elle ne projette pas l'inflation du Québec: parmi les sources officielles consultées, seul le ministère des Finances le fait.
 
 ## Inflation et taux hypothécaires: le lien par la cible de 2 %
 
@@ -59,7 +59,7 @@ La Banque du Canada vise une inflation de 2 %, au point médian d'une fourchette
 
 À 3,1 % en septembre, l'IPC canadien dépasse le haut de la fourchette. Les mesures de l'inflation fondamentale que la Banque surveille restent plus basses: 1,8 % pour l'IPC-tronq, 1,9 % pour l'IPC-méd.
 
-Au 21 octobre 2026, le taux directeur est de 2,25 %, inchangé depuis le 29 octobre 2025. En le maintenant le 2 septembre, la Banque écrivait que « les risques à la hausse entourant l'inflation ont augmenté », et que son Conseil de direction « se tient prêt à ajuster la politique monétaire selon les besoins ».
+Le 28 octobre 2026, la Banque a relevé son taux directeur de 0,25 point, à 2,5 %, sa première hausse depuis juillet 2023. Elle veut réduire le risque que la persistance des prix élevés de l'énergie se propage aux prix d'autres biens et services, et indique qu'une hausse additionnelle pourrait être nécessaire. Le même jour, les grandes banques ont porté leur taux préférentiel de 4,45 % à 4,70 %. Le détail est dans [les taux hypothécaires vont-ils baisser en 2027](/articles/taux-hypothecaires-baisser-quebec/).
 
 Le mécanisme, selon la Banque: elle peut relever son taux pour empêcher l'inflation de dépasser la cible, et ses décisions font bouger le taux préférentiel, base des prêts à taux variable. Le taux fixe dépend aussi des marchés financiers, y compris étrangers. Le chemin complet est dans [ce qui relie la Banque du Canada à votre versement](/articles/interest-rates-montreal-market/).
 
@@ -95,7 +95,7 @@ Depuis le 1er janvier 2026, l'inflation entre directement dans la fixation des l
 3,1 % sur 12 mois en septembre 2026, et 3,0 % dans la RMR de Montréal. Le chiffre d'octobre est annoncé pour le 16 novembre 2026.
 
 **Quel sera le taux d'inflation au Québec en 2027?**
-Aucun organisme ne le sait. Le ministère des Finances du Québec projette 2,1 %, et 1,7 % dans son scénario de récession. La Banque du Canada projette 2,0 % pour le Canada et présentera une nouvelle projection le 28 octobre 2026.
+Aucun organisme ne le sait. Le ministère des Finances du Québec projette 2,1 %, et 1,7 % dans son scénario de récession, dans un rapport du 17 août 2026. La Banque du Canada projette 3,1 % pour le Canada depuis son Rapport du 28 octobre 2026, contre 2,0 % en juillet.
 
 **Le TAL a-t-il publié le pourcentage d'augmentation de loyer pour 2027?**
 Non. Celui de 2027 fera la moyenne des hausses de l'IPC de 2024, 2025 et 2026, et celle de 2026 n'est pas encore connue. Le pourcentage de base n'est pas un plafond: taxes, assurances et travaux s'ajoutent selon le Règlement, et une entente reste possible.

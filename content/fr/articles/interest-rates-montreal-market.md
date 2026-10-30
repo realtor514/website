@@ -1,7 +1,7 @@
 ---
 title: "Taux d'intérêt et marché de Montréal"
 date: 2026-07-13
-lastmod: 2026-09-21
+lastmod: 2026-10-30
 category: "Financement"
 description: "Taux directeur, taux préférentiel, marché obligataire, test de résistance, renouvellement : le chemin réel entre la Banque du Canada et votre versement."
 image: "images/articles/interest-rates-montreal-market/featured.jpg"
@@ -14,15 +14,16 @@ que mon versement change ?
 
 Souvent, non. Pas tout de suite, pas automatiquement, et pas de la même façon
 selon que votre taux est fixe ou variable. Voici le chemin réel, avec les
-chiffres officiels à jour au 21 septembre 2026. Vous ne trouverez ici aucune
+chiffres officiels à jour au 21 septembre 2026, et le taux directeur au
+30 octobre 2026. Vous ne trouverez ici aucune
 prévision : personne ne connaît le prochain taux, moi pas plus qu'un autre.
 
 ## Ce que la Banque du Canada fixe, et ce qu'elle ne fixe pas
 
 La Banque du Canada annonce son taux directeur à huit dates fixées d'avance
-chaque année. Le 2 septembre 2026, elle l'a maintenu à 2,25 %, le niveau en
-vigueur depuis le 29 octobre 2025. Les deux dernières annonces de 2026 sont
-prévues le 28 octobre et le 9 décembre.
+chaque année. Le 28 octobre 2026, elle l'a relevé de 0,25 point, à 2,5 %,
+après l'avoir maintenu à 2,25 % depuis le 29 octobre 2025. La dernière annonce
+de 2026 est prévue le 9 décembre.
 
 Ce taux ne fixe pas votre hypothèque. Il fixe le coût du financement à un jour
 entre institutions financières. Tout le reste, taux préférentiel, taux
@@ -36,9 +37,9 @@ Canada dans sa diffusion du 14 septembre 2026.
 ## Le taux variable passe par le taux préférentiel
 
 Le taux préférentiel des grandes banques à charte est la référence des prêts
-variables. Il se déplace à peu près en parallèle avec le taux directeur. Au
-16 septembre 2026, la Banque du Canada relevait un taux préférentiel de 4,45 %,
-soit 2,20 points au-dessus du taux directeur de 2,25 %.
+variables. Il se déplace à peu près en parallèle avec le taux directeur. Le
+28 octobre 2026, les grandes banques l'ont relevé de 4,45 % à 4,70 %, à compter
+du 29 octobre, soit 2,20 points au-dessus du nouveau taux directeur de 2,5 %.
 
 Un prêt variable s'écrit donc en relation avec ce chiffre, du type
 « préférentiel moins une marge ». Quand la Banque bouge et que les banques

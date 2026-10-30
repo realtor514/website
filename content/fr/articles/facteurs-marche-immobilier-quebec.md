@@ -1,7 +1,7 @@
 ---
 title: "Quels facteurs influencent le marché immobilier au Québec?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-facteurs-marche-immobilier-quebec"
 category: "Analyse de marché"
 description: "Facteurs qui influencent le marché immobilier au Québec: taux, crédit, emploi, population, offre, loyers, taxes. La donnée, sa source, sa dernière valeur."
@@ -15,7 +15,7 @@ Quand le marché ralentit, chaque manchette désigne un coupable: les taux, l'im
 
 | Facteur | Donnée | Organisme | Fréquence | Dernière valeur | Diffusion |
 |---|---|---|---|---|---|
-| Taux court | Taux directeur | Banque du Canada | 8 dates par an | 2,25 % | 2 septembre 2026 |
+| Taux court | Taux directeur | Banque du Canada | 8 dates par an | 2,5 % | 28 octobre 2026 |
 | Taux obligataires | Obligations de référence du Canada | Banque du Canada | Chaque jour ouvrable | 3,62 % à 5 ans, 3,90 % à 10 ans | 20 octobre 2026 |
 | Crédit non assuré | Taux admissible minimal | BSIF | Au moins une révision par an | Taux du contrat plus 2 points, ou 5,25 % | Page du 29 janvier 2026 |
 | Crédit assuré | Prix plafond, amortissement | SCHL, Finances Canada | Selon les annonces | Moins de 1 500 000 $; 25 ans, ou 30 ans pour un premier achat ou du neuf | En vigueur le 15 décembre 2024 |
@@ -35,7 +35,7 @@ MIFI: ministère de l'Immigration, de la Francisation et de l'Intégration.
 
 ## Les taux et les règles de crédit
 
-**Le taux directeur.** La Banque du Canada le fixe à huit dates préétablies par année. Il est de 2,25 % depuis la baisse annoncée le 29 octobre 2025, et les six annonces de 2026 l'ont maintenu. La prochaine est prévue le 28 octobre 2026.
+**Le taux directeur.** La Banque du Canada le fixe à huit dates préétablies par année. Il est de 2,5 % depuis la hausse annoncée le 28 octobre 2026, la première depuis juillet 2023, après sept annonces de maintien à 2,25 %. La prochaine est prévue le 9 décembre 2026.
 
 **Les rendements obligataires.** Dans un article de mars 2026, des économistes de la Banque du Canada rappellent que les rendements des obligations d'État à long terme « influent directement sur les taux hypothécaires », et qu'ils sont restés élevés depuis septembre 2024 malgré la baisse des taux directeurs. Le chemin jusqu'à votre versement est décrit dans [l'article sur les taux d'intérêt et le marché de Montréal](/articles/interest-rates-montreal-market/).
 
@@ -93,7 +93,7 @@ Aucune des sources consultées ne le chiffre. La SCHL relie plutôt la baisse de
 Aucune source consultée ne mesure leur effet sur le prix de revente. Dans la RMR de Montréal, 18 118 des 19 028 logements mis en chantier de janvier à septembre 2026 n'étaient pas des maisons individuelles.
 
 **Quand sortent les prochains chiffres?**
-Le taux directeur le 28 octobre 2026, puis le 9 décembre; l'EPA d'octobre le 6 novembre 2026, selon l'ISQ. Le plan d'immigration doit être déposé au plus tard le 1er novembre, ou dans les 15 jours suivant la reprise des travaux si l'Assemblée ne siège pas.
+Le taux directeur le 9 décembre 2026, puis le 27 janvier 2027; l'EPA d'octobre le 6 novembre 2026, selon l'ISQ. Le plan d'immigration doit être déposé au plus tard le 1er novembre, ou dans les 15 jours suivant la reprise des travaux si l'Assemblée ne siège pas.
 
 Pour compléter, lisez [comment lire les données datées du marché de Montréal et de Laval](/articles/marche-immobilier-montreal/) et [les limites d'une préapprobation hypothécaire](/articles/mortgage-preapproval-mistakes/).
 

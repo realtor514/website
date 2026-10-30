@@ -1,7 +1,7 @@
 ---
 title: "¿Cuál será la tasa de inflación en Quebec en 2027?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-inflation-quebec-immobilier"
 category: "Financiamiento"
 description: "Tasa de inflación en Quebec: 3,1 % en septiembre de 2026. Lo que Quebec y el Banco de Canadá proyectan para 2027, y el efecto en un propietario."
@@ -43,15 +43,15 @@ Dos organismos publican una proyección para 2027. Son escenarios fechados, basa
 | Organismo y documento | Fecha | 2026 | 2027 | 2028 | Territorio |
 |---|---|---|---|---|---|
 | Ministère des Finances du Québec, informe preelectoral | 17 de agosto de 2026 | 3,0 % | 2,1 % | 2,0 % | Quebec |
-| Banco de Canadá, Informe de Política Monetaria | 15 de julio de 2026 | 2,5 % | 2,0 % | 2,1 % | Canadá |
+| Banco de Canadá, Informe de Política Monetaria | 28 de octubre de 2026 | 2,9 % | 3,1 % | 2,2 % | Canadá |
 
-Alza del IPC en promedio anual.
+Alza del IPC en promedio anual. Las dos proyecciones no tienen la misma fecha: la de Quebec precede en diez semanas a la revisión del Banco.
 
 **Quebec: 2,1 % en 2027.** El Ministère des Finances proyecta 3,0 % en 2026, 2,1 % en 2027 y luego 2,0 % de 2028 a 2030. Invoca en particular la baja de los precios del petróleo y la desaceleración del crecimiento de los precios de la vivienda. Su escenario de recesión da 1,7 % en 2027. Como lo exige la ley, el Vérificateur général du Québec (el auditor general de Quebec) acompaña este informe con un informe sobre la plausibilidad de las previsiones.
 
-**Canadá: 2,0 % en 2027.** En julio, el Banco de Canadá preveía que la inflación canadiense iba a «situarse en alrededor de 2½ % en la segunda mitad de 2026, y luego volver a la meta de 2 % a comienzos de 2027», con base en los contratos de futuros del petróleo al 9 de julio de 2026. Las cifras medidas desde entonces en Canadá son más altas: 3,0 % en julio y en agosto, 3,1 % en septiembre, frente al 2,5 % proyectado para el tercer trimestre.
+**Canadá: 3,1 % en 2027.** El 28 de octubre de 2026, el Banco de Canadá revisó su proyección al alza: 2,9 % en 2026, 3,1 % en 2027 y 2,2 % en 2028, frente a 2,5 %, 2,0 % y 2,1 % en su Informe de julio. Espera una inflación por encima de 3 % durante la mayor parte de 2027, y luego un regreso cerca de 2 % hacia mediados de 2028, y lo explica por la persistencia de los precios elevados de la energía y de las importaciones. En julio, todavía preveía un regreso a la meta de 2 % a comienzos de 2027; las cifras medidas desde entonces, 3,0 % en julio y en agosto y 3,1 % en septiembre, superaron el 2,5 % que proyectaba para el tercer trimestre.
 
-**Una proyección se reemplaza.** El Banco presentará su próximo Informe el 28 de octubre de 2026, y luego otros cuatro en 2027. No proyecta la inflación de Quebec: entre las fuentes oficiales consultadas, solo el Ministère des Finances lo hace.
+**Una proyección se reemplaza.** El Banco presentará su próximo Informe el 27 de enero de 2027, y luego otros tres en 2027. No proyecta la inflación de Quebec: entre las fuentes oficiales consultadas, solo el Ministère des Finances lo hace.
 
 ## Inflación y tasas hipotecarias: el vínculo a través de la meta de 2 %
 
@@ -59,7 +59,7 @@ El Banco de Canadá busca una inflación de 2 %, en el punto medio de un rango d
 
 Con 3,1 % en septiembre, el IPC canadiense supera el límite superior del rango. Las medidas de inflación subyacente que vigila el Banco siguen más bajas: 1,8 % para el IPC-tronq (media recortada), 1,9 % para el IPC-méd (mediana).
 
-Al 21 de octubre de 2026, la tasa directriz es de 2,25 %, sin cambios desde el 29 de octubre de 2025. Al mantenerla el 2 de septiembre, el Banco escribía que «los riesgos al alza en torno a la inflación han aumentado», y que su Consejo de Dirección «está listo para ajustar la política monetaria según sea necesario».
+El 28 de octubre de 2026, el Banco subió su tasa directriz 0,25 punto, a 2,5 %, su primera alza desde julio de 2023. Quiere reducir el riesgo de que la persistencia de los precios elevados de la energía se propague a los precios de otros bienes y servicios, e indica que un alza adicional podría ser necesaria. El mismo día, los grandes bancos llevaron su tasa preferencial de 4,45 % a 4,70 %. El detalle está en [¿bajarán las tasas hipotecarias en 2027?](/es/articles/bajaran-tasas-hipotecarias-quebec/).
 
 El mecanismo, según el Banco: puede subir su tasa para impedir que la inflación supere la meta, y sus decisiones mueven la tasa preferencial, base de los préstamos a tasa variable. La tasa fija depende también de los mercados financieros, incluidos los extranjeros. El camino completo está en [lo que conecta al Banco de Canadá con su pago](/es/articles/interest-rates-montreal-market/).
 
@@ -95,7 +95,7 @@ Desde el 1 de enero de 2026, la inflación entra directamente en la fijación de
 3,1 % en 12 meses en septiembre de 2026, y 3,0 % en la RMR de Montreal. La cifra de octubre está anunciada para el 16 de noviembre de 2026.
 
 **¿Cuál será la tasa de inflación en Quebec en 2027?**
-Ningún organismo lo sabe. El Ministère des Finances du Québec proyecta 2,1 %, y 1,7 % en su escenario de recesión. El Banco de Canadá proyecta 2,0 % para Canadá y presentará una nueva proyección el 28 de octubre de 2026.
+Ningún organismo lo sabe. El Ministère des Finances du Québec proyecta 2,1 %, y 1,7 % en su escenario de recesión, en un informe del 17 de agosto de 2026. El Banco de Canadá proyecta 3,1 % para Canadá desde su Informe del 28 de octubre de 2026, frente a 2,0 % en julio.
 
 **¿Publicó el TAL el porcentaje de aumento del alquiler para 2027?**
 No. El de 2027 promediará los aumentos del IPC de 2024, 2025 y 2026, y el de 2026 todavía no se conoce. El porcentaje de base no es un tope: impuestos, seguros y obras se suman según el Reglamento, y un acuerdo sigue siendo posible.

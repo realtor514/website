@@ -1,7 +1,7 @@
 ---
 title: "Les maisons seront-elles abordables au Québec en 2027?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-maisons-abordables-quebec"
 category: "Analyse de marché"
 description: "Abordabilité d'une maison au Québec: versement sur la médiane Centris du T3 2026, ville par ville, face au seuil de 30 % de la SCHL, et 3 scénarios 2027."
@@ -70,7 +70,7 @@ Lachenaie, La Plaine et Le Gardeur n'ont pas de médiane trimestrielle publiée,
 
 Quatre leviers, chacun avec sa donnée la plus récente. Aucune n'est une prévision; la direction des prix et le calendrier des taux sont traités dans d'autres textes de la même série.
 
-**Les taux.** Le taux directeur de la Banque du Canada est de 2,25 % depuis la baisse annoncée le 29 octobre 2025; la prochaine annonce est prévue le 28 octobre 2026. Le taux du calcul, lui, a monté: 4,17 % en avril, 4,49 % en juillet. Le taux hypothécaire ordinaire de 5 ans des banques à charte est passé de 6,09 % fin septembre à 6,19 % les 7 et 14 octobre.
+**Les taux.** Le taux directeur de la Banque du Canada est de 2,5 % depuis la hausse annoncée le 28 octobre 2026, la première depuis juillet 2023; la prochaine annonce est prévue le 9 décembre 2026. Le taux du calcul, lui, a monté: 4,17 % en avril, 4,49 % en juillet. Le taux hypothécaire ordinaire de 5 ans des banques à charte est passé de 6,09 % fin septembre à 6,19 % les 7 et 14 octobre.
 
 **Les prix.** Dans la RMR de Montréal, au 3e trimestre 2026, l'APCIQ mesure une unifamiliale médiane à 645 500 $ (+2 %) et une copropriété à 435 000 $ (+2 %), avec 20 350 propriétés inscrites (+17 %). En septembre, l'inventaire dépassait de 18 % sa moyenne de dix ans, « ce qui atténue la pression sur les prix », selon l'APCIQ.
 

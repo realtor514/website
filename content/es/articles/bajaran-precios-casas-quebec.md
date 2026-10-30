@@ -1,7 +1,7 @@
 ---
 title: "¿Bajarán los precios de las casas en Quebec?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-30
 translationKey: "article-prix-maisons-baisser-quebec"
 category: "Análisis de Mercado"
 description: "¿Bajarán los precios de las casas en Quebec? Medianas del T3 2026, previsiones de la SCHL y de la APCIQ, señales a vigilar y el costo de esperar."
@@ -95,7 +95,7 @@ Una baja general no es una baja en un segmento, y los segmentos se distienden a 
 
 **Para un comprador, una baja se compara con lo que cuesta esperar.** En la RMR, un punto porcentual sobre la mediana de la unifamiliar, 645 500 $, vale 6 455 $; sobre la del condominio, 435 000 $, vale 4 350 $. En el otro platillo de la balanza, un año de alquiler promedio de un apartamento de dos habitaciones en la RMR, 1 346 $ al mes según la encuesta de la SCHL de octubre de 2025, representa 16 152 $. Los dos montos no se oponen directamente: un propietario también paga intereses, impuestos y mantenimiento. La [calculadora alquilar o comprar](/es/tools/rent-vs-buy/) pone esos rubros lado a lado con sus propias cifras, y [el cálculo alquilar o comprar en el Gran Montreal](/es/articles/renting-vs-buying-calculation/) explica cuáles comparar.
 
-**La tasa también pesa.** La SCHL prevé una tasa fija publicada a 5 años de 5,2 % en promedio en 2026 y de 5,4 % en 2027, que también es una previsión. Al 21 de octubre de 2026, la tasa directora es de 2,25 %; el próximo anuncio del Banco de Canadá está previsto para el 28 de octubre. Para conocer su tasa, consulte a un corredor hipotecario.
+**La tasa también pesa.** La SCHL prevé una tasa fija publicada a 5 años de 5,2 % en promedio en 2026 y de 5,4 % en 2027, que también es una previsión. El 28 de octubre de 2026, el Banco de Canadá subió su tasa directora de 2,25 % a 2,5 %, y espera que la actividad en la vivienda siga relativamente débil; su próximo anuncio está previsto para el 9 de diciembre. Para conocer su tasa, consulte a un corredor hipotecario.
 
 **Para un vendedor que vuelve a comprar, lo que cuenta es la diferencia.** Vender un condominio al precio mediano de la RMR, 435 000 $, para comprar una unifamiliar a 645 500 $ supone una diferencia de 210 500 $. Una baja uniforme del 5 %, simple hipótesis de cálculo, la reduciría a 199 975 $; una subida uniforme del 5 % la llevaría a 221 025 $. Pero los segmentos no se mueven juntos, como vimos. Para un vendedor que no vuelve a comprar, el precio afecta a todo el monto, y cada mes de espera suma impuestos, intereses y seguro.
 

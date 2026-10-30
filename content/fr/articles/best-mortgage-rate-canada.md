@@ -1,7 +1,7 @@
 ---
 title: "Meilleur taux hypothécaire au Canada"
 date: 2026-07-07
-lastmod: 2026-09-21
+lastmod: 2026-10-30
 category: "Financement"
 description: "Taux affiché ou taux obtenu, fixe ou variable, terme, pénalité et différentiel de taux : ce qui décide vraiment du coût réel de votre hypothèque au Québec."
 image: "images/articles/best-mortgage-rate-canada/featured.jpg"
@@ -12,8 +12,8 @@ rarement le même chiffre. Entre les deux : un test de qualification, des ratios
 d'endettement, une mise de fonds, un terme, un amortissement et une clause de
 pénalité que presque personne ne lit.
 
-Un repère, à dater : le 2 septembre 2026, la Banque du Canada a maintenu son
-taux directeur à 2,25 %. Ce taux bouge, et les taux hypothécaires bougent avec
+Un repère, à dater : le 28 octobre 2026, la Banque du Canada a relevé son
+taux directeur à 2,5 %, sa première hausse depuis juillet 2023. Ce taux bouge, et les taux hypothécaires bougent avec
 lui. Tout chiffre de taux lu dans un article vieillit vite : vérifiez la date
 avant de vous y fier.
 
