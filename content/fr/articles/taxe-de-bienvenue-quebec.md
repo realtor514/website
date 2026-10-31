@@ -95,7 +95,17 @@ L'exemple publié par la Ville, pour une base de 700 000 $ en 2026, donne 9 349 
 
 **Laval en 2026.** Selon le Courrier Laval du 9 février 2026, le budget 2026 de la Ville a porté à 3 % le taux applicable à toute somme qui excède 500 000 $. Sur une base de 630 000 $, le prix médian d'une unifamiliale à Laval au troisième trimestre de 2026 selon l'APCIQ, le calcul donne 5 610,50 $ jusqu'à 500 000 $, plus 3 900 $ sur les 130 000 $ suivants: 9 510,50 $. Le conseil municipal a aussi demandé d'étudier un paiement étalé à compter de l'exercice 2027. Le taux et les modalités de 2027 dépendront du budget 2027 de la Ville.
 
-**Ailleurs.** Plusieurs municipalités des Laurentides, de Lanaudière et de la Montérégie ont adopté leur propre règlement pour la tranche de plus de 500 000 $. Pour une propriété dans cette gamme de prix, demandez le règlement en vigueur à la municipalité, ou à votre notaire, avant de faire votre offre. Pour une première estimation, le [calculateur de taxe de bienvenue](/tools/welcome-tax/) applique les taux de la loi.
+**Ailleurs en 2026.** Plusieurs villes des couronnes ont adopté leur propre taux pour la tranche de plus de 500 000 $. Voici ceux que publient cinq d'entre elles sur leur site:
+
+| Ville | Taux sur la tranche de plus de 500 000 $ | Exemple publié ou calculé |
+|---|---|---|
+| [Terrebonne](/courtier-immobilier/terrebonne/) | 3 % | 8 160,50 $ pour 585 000 $ (exemple de la Ville) |
+| [Boisbriand](/courtier-immobilier/boisbriand/) | 2,5 % jusqu'à 800 000 $, puis 3 % | 6 860,50 $ pour 550 000 $ (exemple de la Ville) |
+| [Sainte-Thérèse](/courtier-immobilier/sainte-therese/) | 3 % | 8 160,50 $ pour 585 000 $ |
+| [Delson](/courtier-immobilier/delson/) | 3 %, payable en un ou quatre versements | 8 175,50 $ pour 585 500 $, la médiane de Delson |
+| [Saint-Bruno-de-Montarville](/courtier-immobilier/saint-bruno-de-montarville/) | 3 % | 17 085,50 $ pour 882 500 $ |
+
+Les exemples sans mention sont calculés avec les tranches de 2026. Pour une autre municipalité, demandez le règlement en vigueur à la Ville, ou à votre notaire, avant de faire votre offre. Le [calculateur de taxe de bienvenue](/tools/welcome-tax/) applique les taux de ces villes, ceux de Montréal, Laval, Québec et Gatineau, et ceux de la loi ailleurs.
 
 ## Quand vous la recevez
 

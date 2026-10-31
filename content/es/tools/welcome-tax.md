@@ -16,7 +16,7 @@ faq:
     a: "Da una estimación sobre el precio introducido. Si el valor del rol multiplicado por el factor comparativo supera el precio pagado, el municipio calcula sobre ese valor y la factura es más alta. Para las ciudades no listadas, aplica las tasas de la ley: verifique el reglamento municipal por encima de 500 000 $."
 ---
 
-Esta calculadora aplica los tramos de la Loi concernant les droits sur les mutations immobilières y, para Montreal, Laval, Quebec y Gatineau, las tasas municipales vigentes sobre la parte que supera 500 000 $. Elija el año de la firma ante el notario: los umbrales cambian el 1 de enero de 2027.
+Esta calculadora aplica los tramos de la Loi concernant les droits sur les mutations immobilières y, para Montreal, Laval, Quebec, Gatineau, Terrebonne, Boisbriand, Sainte-Thérèse, Delson y Saint-Bruno-de-Montarville, las tasas municipales vigentes sobre la parte que supera 500 000 $. Elija el año de la firma ante el notario: los umbrales cambian el 1 de enero de 2027.
 
 | Base imponible | Tasa | Umbrales 2026 | Umbrales 2027 |
 |---|---|---|---|

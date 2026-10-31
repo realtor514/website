@@ -16,7 +16,7 @@ faq:
     a: "It gives an estimate based on the price you enter. If the roll value multiplied by the comparative factor exceeds the price paid, the municipality uses that value and the bill is higher. For cities not listed, it applies the rates set by the Act: check the municipal by-law above $500,000."
 ---
 
-This calculator applies the brackets of the Act respecting duties on transfers of immovables and, for Montreal, Laval, Quebec City and Gatineau, the municipal rates in force on the portion above $500,000. Choose the year of the notary signing: the thresholds change on January 1, 2027.
+This calculator applies the brackets of the Act respecting duties on transfers of immovables and, for Montreal, Laval, Quebec City, Gatineau, Terrebonne, Boisbriand, Sainte-Thérèse, Delson and Saint-Bruno-de-Montarville, the municipal rates in force on the portion above $500,000. Choose the year of the notary signing: the thresholds change on January 1, 2027.
 
 | Tax base | Rate | 2026 thresholds | 2027 thresholds |
 |---|---|---|---|

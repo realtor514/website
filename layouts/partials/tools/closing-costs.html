@@ -41,24 +41,44 @@
             <option value="montreal">Ville de Montréal</option>
             <option value="quebec">Ville de Québec</option>
             <option value="gatineau">Ville de Gatineau</option>
+            <option value="terrebonne">Ville de Terrebonne</option>
+            <option value="boisbriand">Ville de Boisbriand</option>
+            <option value="sainte-therese">Ville de Sainte-Thérèse</option>
+            <option value="delson">Ville de Delson</option>
+            <option value="saint-bruno">Ville de Saint-Bruno-de-Montarville</option>
           {{ else if $isAr }}
             <option value="other">بلديات كيبيك الأخرى</option>
             <option value="laval">مدينة لافال</option>
             <option value="montreal">مدينة مونتريال</option>
             <option value="quebec">مدينة كيبيك</option>
             <option value="gatineau">مدينة غاتينو</option>
+            <option value="terrebonne">مدينة تيربون</option>
+            <option value="boisbriand">مدينة بوابرياند</option>
+            <option value="sainte-therese">مدينة سانت تيريز</option>
+            <option value="delson">مدينة دلسون</option>
+            <option value="saint-bruno">مدينة سان برونو دو مونتارفيل</option>
           {{ else if $isEs }}
             <option value="other">Otro municipio de Quebec</option>
             <option value="laval">Ville de Laval</option>
             <option value="montreal">Ville de Montréal</option>
             <option value="quebec">Ville de Québec</option>
             <option value="gatineau">Ville de Gatineau</option>
+            <option value="terrebonne">Ville de Terrebonne</option>
+            <option value="boisbriand">Ville de Boisbriand</option>
+            <option value="sainte-therese">Ville de Sainte-Thérèse</option>
+            <option value="delson">Ville de Delson</option>
+            <option value="saint-bruno">Ville de Saint-Bruno-de-Montarville</option>
           {{ else }}
             <option value="other">Other Quebec municipality</option>
             <option value="laval">Ville de Laval</option>
             <option value="montreal">Ville de Montréal</option>
             <option value="quebec">Ville de Québec</option>
             <option value="gatineau">Ville de Gatineau</option>
+            <option value="terrebonne">Ville de Terrebonne</option>
+            <option value="boisbriand">Ville de Boisbriand</option>
+            <option value="sainte-therese">Ville de Sainte-Thérèse</option>
+            <option value="delson">Ville de Delson</option>
+            <option value="saint-bruno">Ville de Saint-Bruno-de-Montarville</option>
           {{ end }}
         </select>
         <span class="mc-select-arrow">
@@ -159,7 +179,12 @@
     laval:    [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: Infinity, rate: 0.030 } ],
     montreal: [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 552300, rate: 0.015 }, { limit: 1104700, rate: 0.020 }, { limit: 2136500, rate: 0.025 }, { limit: 3113000, rate: 0.035 }, { limit: Infinity, rate: 0.040 } ],
     quebec:   [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: 750000, rate: 0.025 }, { limit: Infinity, rate: 0.030 } ],
-    gatineau: [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: Infinity, rate: 0.030 } ]
+    gatineau: [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: Infinity, rate: 0.030 } ],
+    terrebonne:    [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: Infinity, rate: 0.030 } ],
+    boisbriand:    [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: 800000, rate: 0.025 }, { limit: Infinity, rate: 0.030 } ],
+    'sainte-therese': [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: Infinity, rate: 0.030 } ],
+    delson:        [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: Infinity, rate: 0.030 } ],
+    'saint-bruno': [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: Infinity, rate: 0.030 } ]
   };
 
   /* A partir du 1er janvier 2027, les deux seuils indexes passent a

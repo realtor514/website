@@ -45,24 +45,44 @@
             <option value="montreal">Ville de Montréal</option>
             <option value="quebec">Ville de Québec</option>
             <option value="gatineau">Ville de Gatineau</option>
+            <option value="terrebonne">Ville de Terrebonne</option>
+            <option value="boisbriand">Ville de Boisbriand</option>
+            <option value="sainte-therese">Ville de Sainte-Thérèse</option>
+            <option value="delson">Ville de Delson</option>
+            <option value="saint-bruno">Ville de Saint-Bruno-de-Montarville</option>
           {{ else if $isAr }}
             <option value="other">بلديات كيبيك الأخرى</option>
             <option value="laval">مدينة لافال</option>
             <option value="montreal">مدينة مونتريال</option>
             <option value="quebec">مدينة كيبيك</option>
             <option value="gatineau">مدينة غاتينو</option>
+            <option value="terrebonne">مدينة تيربون</option>
+            <option value="boisbriand">مدينة بوابرياند</option>
+            <option value="sainte-therese">مدينة سانت تيريز</option>
+            <option value="delson">مدينة دلسون</option>
+            <option value="saint-bruno">مدينة سان برونو دو مونتارفيل</option>
           {{ else if $isEs }}
             <option value="other">Otro municipio de Quebec</option>
             <option value="laval">Ville de Laval</option>
             <option value="montreal">Ville de Montréal</option>
             <option value="quebec">Ville de Québec</option>
             <option value="gatineau">Ville de Gatineau</option>
+            <option value="terrebonne">Ville de Terrebonne</option>
+            <option value="boisbriand">Ville de Boisbriand</option>
+            <option value="sainte-therese">Ville de Sainte-Thérèse</option>
+            <option value="delson">Ville de Delson</option>
+            <option value="saint-bruno">Ville de Saint-Bruno-de-Montarville</option>
           {{ else }}
             <option value="other">Other Quebec municipality</option>
             <option value="laval">Ville de Laval</option>
             <option value="montreal">Ville de Montréal</option>
             <option value="quebec">Ville de Québec</option>
             <option value="gatineau">Ville de Gatineau</option>
+            <option value="terrebonne">Ville de Terrebonne</option>
+            <option value="boisbriand">Ville de Boisbriand</option>
+            <option value="sainte-therese">Ville de Sainte-Thérèse</option>
+            <option value="delson">Ville de Delson</option>
+            <option value="saint-bruno">Ville de Saint-Bruno-de-Montarville</option>
           {{ end }}
         </select>
         <span class="mc-select-arrow">
@@ -224,7 +244,12 @@
       { limit: 315000,   rate: 0.010 },
       { limit: 500000,   rate: 0.015 },
       { limit: Infinity, rate: 0.030 }
-    ]
+    ],
+    terrebonne:    [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: Infinity, rate: 0.030 } ],
+    boisbriand:    [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: 800000, rate: 0.025 }, { limit: Infinity, rate: 0.030 } ],
+    'sainte-therese': [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: Infinity, rate: 0.030 } ],
+    delson:        [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: Infinity, rate: 0.030 } ],
+    'saint-bruno': [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: Infinity, rate: 0.030 } ]
   };
 
   var CITY_LABELS = {
@@ -232,7 +257,12 @@
     laval:    { en: 'Ville de Laval',            fr: 'Ville de Laval',               ar: 'مدينة لافال',      es: 'Ville de Laval' },
     montreal: { en: 'Ville de Montréal',         fr: 'Ville de Montréal',            ar: 'مدينة مونتريال',   es: 'Ville de Montréal' },
     quebec:   { en: 'Ville de Québec',           fr: 'Ville de Québec',              ar: 'مدينة كيبيك',      es: 'Ville de Québec' },
-    gatineau: { en: 'Ville de Gatineau',         fr: 'Ville de Gatineau',            ar: 'مدينة غاتينو',     es: 'Ville de Gatineau' }
+    gatineau: { en: 'Ville de Gatineau',         fr: 'Ville de Gatineau',            ar: 'مدينة غاتينو',     es: 'Ville de Gatineau' },
+    'terrebonne': { en: 'Ville de Terrebonne', fr: 'Ville de Terrebonne', ar: 'مدينة تيربون', es: 'Ville de Terrebonne' },
+    'boisbriand': { en: 'Ville de Boisbriand', fr: 'Ville de Boisbriand', ar: 'مدينة بوابرياند', es: 'Ville de Boisbriand' },
+    'sainte-therese': { en: 'Ville de Sainte-Thérèse', fr: 'Ville de Sainte-Thérèse', ar: 'مدينة سانت تيريز', es: 'Ville de Sainte-Thérèse' },
+    'delson': { en: 'Ville de Delson', fr: 'Ville de Delson', ar: 'مدينة دلسون', es: 'Ville de Delson' },
+    'saint-bruno': { en: 'Ville de Saint-Bruno-de-Montarville', fr: 'Ville de Saint-Bruno-de-Montarville', ar: 'مدينة سان برونو دو مونتارفيل', es: 'Ville de Saint-Bruno-de-Montarville' }
   };
 
   var DISCLAIMERS = {
@@ -259,6 +289,36 @@
       fr: '* Taux 2026 de la Ville de Québec. Source : ville.quebec.qc.ca.',
       ar: '* معدلات 2026 لمدينة كيبيك. المصدر: ville.quebec.qc.ca.',
       es: '* Tarifas 2026 de la Ville de Québec. Fuente: ville.quebec.qc.ca.'
+    },
+    terrebonne: {
+      en: '* 2026 rates for Ville de Terrebonne: 3% on the portion above $500,000. Source: terrebonne.ca.',
+      fr: '* Taux 2026 de la Ville de Terrebonne : 3 % sur la tranche au-delà de 500 000 $. Source : terrebonne.ca.',
+      ar: '* معدلات 2026 لمدينة تيربون: 3% على الجزء الذي يتجاوز 500,000$. المصدر: terrebonne.ca.',
+      es: '* Tarifas 2026 de la Ville de Terrebonne: 3% sobre la parte que supera $500,000. Fuente: terrebonne.ca.'
+    },
+    boisbriand: {
+      en: '* Rates for Ville de Boisbriand since January 1, 2026: 2.5% from $500,000 to $800,000, then 3%. Source: ville.boisbriand.qc.ca.',
+      fr: '* Taux de la Ville de Boisbriand depuis le 1er janvier 2026 : 2,5 % de 500 000 $ à 800 000 $, puis 3 %. Source : ville.boisbriand.qc.ca.',
+      ar: '* معدلات مدينة بوابرياند منذ 1 يناير 2026: 2.5% من 500,000$ إلى 800,000$، ثم 3%. المصدر: ville.boisbriand.qc.ca.',
+      es: '* Tarifas de la Ville de Boisbriand desde el 1 de enero de 2026: 2,5% de $500,000 a $800,000, luego 3%. Fuente: ville.boisbriand.qc.ca.'
+    },
+    'sainte-therese': {
+      en: '* 2026 rates for Ville de Sainte-Thérèse: 3% from $500,001. Source: sainte-therese.ca.',
+      fr: '* Taux 2026 de la Ville de Sainte-Thérèse : 3 % à partir de 500 001 $. Source : sainte-therese.ca.',
+      ar: '* معدلات 2026 لمدينة سانت تيريز: 3% ابتداءً من 500,001$. المصدر: sainte-therese.ca.',
+      es: '* Tarifas 2026 de la Ville de Sainte-Thérèse: 3% desde $500,001. Fuente: sainte-therese.ca.'
+    },
+    delson: {
+      en: '* 2026 rates for Ville de Delson: 3% above $500,000, payable in one or four instalments. Source: ville.delson.qc.ca.',
+      fr: '* Taux 2026 de la Ville de Delson : 3 % au-delà de 500 000 $, payable en un ou quatre versements. Source : ville.delson.qc.ca.',
+      ar: '* معدلات 2026 لمدينة دلسون: 3% فوق 500,000$، تُدفع على قسط واحد أو أربعة. المصدر: ville.delson.qc.ca.',
+      es: '* Tarifas 2026 de la Ville de Delson: 3% por encima de $500,000, pagadero en uno o cuatro pagos. Fuente: ville.delson.qc.ca.'
+    },
+    'saint-bruno': {
+      en: '* 2026 rates for Ville de Saint-Bruno-de-Montarville: 3% on the portion above $500,000. Source: stbruno.ca.',
+      fr: '* Taux 2026 de la Ville de Saint-Bruno-de-Montarville : 3 % sur la tranche au-delà de 500 000 $. Source : stbruno.ca.',
+      ar: '* معدلات 2026 لمدينة سان برونو دو مونتارفيل: 3% على الجزء الذي يتجاوز 500,000$. المصدر: stbruno.ca.',
+      es: '* Tarifas 2026 de la Ville de Saint-Bruno-de-Montarville: 3% sobre la parte que supera $500,000. Fuente: stbruno.ca.'
     },
     gatineau: {
       en: '* Rates for Ville de Gatineau in effect since February 25, 2026. Source: gatineau.ca.',

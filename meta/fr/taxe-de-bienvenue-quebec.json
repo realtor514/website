@@ -46,6 +46,41 @@
       "publisher": "Revenu Québec",
       "consulted": "2026-10-21",
       "supports": "Crédit premier acheteur: 100 % des premiers 5 000 $ de droits et 25 % des 3 500 $ suivants, jusqu'à 5 875 $."
+    },
+    {
+      "url": "https://ville.delson.qc.ca/services-aux-citoyens/finances/droits-de-mutation/",
+      "title": "Droits de mutation - Ville de Delson",
+      "publisher": "Ville de Delson",
+      "consulted": "2026-10-31",
+      "supports": "Tranches d'imposition 2026: 0,5 % jusqu'à 62 900 $, 1,0 % jusqu'à 315 000 $, 1,5 % jusqu'à 500 000 $, 3,0 % au-delà de 500 000 $; facteur comparatif 2026 de 1,08, proportion médiane 93 %; paiement en un versement (30 jours) ou en quatre versements."
+    },
+    {
+      "url": "https://terrebonne.ca/taxes/",
+      "title": "Taxes - Ville de Terrebonne",
+      "publisher": "Ville de Terrebonne",
+      "consulted": "2026-10-31",
+      "supports": "3 % pour la tranche excédant 500 001 $; exemple de 8 160,50 $ pour 585 000 $; délai de 3 à 6 mois pour recevoir le compte de mutation; facteur comparatif 2026 de 1."
+    },
+    {
+      "url": "https://www.ville.boisbriand.qc.ca/ville/administration-municipale/taxes-municipales-et-evaluation-fonciere",
+      "title": "Taxes municipales, évaluation foncière et compteur d'eau",
+      "publisher": "Ville de Boisbriand",
+      "consulted": "2026-10-31",
+      "supports": "Depuis le 1er janvier 2026: 2,5 % de 500 000 $ à 800 000 $, 3,0 % au-delà de 800 000 $; exemple de 6 860,50 $ pour 550 000 $, payable en un seul versement dans les 30 jours."
+    },
+    {
+      "url": "https://www.sainte-therese.ca/services/services-aux-citoyens/taxes-evaluation-et-droit-de-mutation",
+      "title": "Taxes, évaluation et droit de mutation",
+      "publisher": "Ville de Sainte-Thérèse",
+      "consulted": "2026-10-31",
+      "supports": "Année 2026, facteur comparatif 1.00; 3 % à partir de 500 001 $; simulation de 8 215 $ pour 586 790 $; rôle 2026-2027-2028, marché au 1er juillet 2024."
+    },
+    {
+      "url": "https://stbruno.ca/ville/evaluation-et-taxation/droits-de-mutation/",
+      "title": "Droits de mutation - Taxe de bienvenue",
+      "publisher": "Ville de Saint-Bruno-de-Montarville",
+      "consulted": "2026-10-31",
+      "supports": "Transactions 2026: 0,5 %, 1,0 %, 1,5 % puis 3 % sur la tranche qui excède 500 000 $; facteur comparatif 2026 de 1,06; base d'imposition = le plus élevé du prix, de la contrepartie stipulée et de la valeur marchande."
     }
   ],
   "claims_needing_review": [

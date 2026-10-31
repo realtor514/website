@@ -16,7 +16,7 @@ faq:
     a: "Il donne une estimation sur le prix saisi. Si la valeur au rôle, multipliée par le facteur comparatif, dépasse le prix payé, la municipalité calcule sur cette valeur, et la facture est plus élevée. Pour les villes non listées, il applique les taux de la loi: vérifiez le règlement municipal au-delà de 500 000 $."
 ---
 
-Ce calculateur applique les tranches de la Loi concernant les droits sur les mutations immobilières et, pour Montréal, Laval, Québec et Gatineau, les taux municipaux en vigueur sur la portion qui dépasse 500 000 $. Choisissez l'année de la signature chez le notaire: les seuils changent le 1er janvier 2027.
+Ce calculateur applique les tranches de la Loi concernant les droits sur les mutations immobilières et, pour Montréal, Laval, Québec, Gatineau, Terrebonne, Boisbriand, Sainte-Thérèse, Delson et Saint-Bruno-de-Montarville, les taux municipaux en vigueur sur la portion qui dépasse 500 000 $. Choisissez l'année de la signature chez le notaire: les seuils changent le 1er janvier 2027.
 
 | Base d'imposition | Taux | Seuils 2026 | Seuils 2027 |
 |---|---|---|---|

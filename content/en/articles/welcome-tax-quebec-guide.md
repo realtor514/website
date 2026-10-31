@@ -95,7 +95,17 @@ The example published by the city, for a $700,000 base in 2026, comes to $9,349.
 
 **Laval in 2026.** According to the Courrier Laval of February 9, 2026, the city's 2026 budget raised to 3% the rate on any amount above $500,000. On a $630,000 base, the median price of a single-family home in Laval in the third quarter of 2026 according to the QPAREB, the calculation gives $5,610.50 up to $500,000, plus $3,900 on the next $130,000: $9,510.50. City council also asked staff to study spreading the payment over several instalments starting with the 2027 fiscal year. The 2027 rate and terms depend on the city's 2027 budget.
 
-**Elsewhere.** Several municipalities in the Laurentides, Lanaudière and Montérégie have adopted their own by-law for the portion above $500,000. For a property in that price range, ask the municipality, or your notary, for the by-law in force before you make your offer. For a first estimate, the [welcome tax calculator](/en/tools/welcome-tax/) applies the rates set by the Act.
+**Elsewhere in 2026.** Several suburban cities have adopted their own rate for the portion above $500,000. These are the rates five of them publish on their website:
+
+| City | Rate on the portion above $500,000 | Published or calculated example |
+|---|---|---|
+| [Terrebonne](/en/real-estate-broker/terrebonne/) | 3% | $8,160.50 for $585,000 (city's example) |
+| [Boisbriand](/en/real-estate-broker/boisbriand/) | 2.5% up to $800,000, then 3% | $6,860.50 for $550,000 (city's example) |
+| [Sainte-Thérèse](/en/real-estate-broker/sainte-therese/) | 3% | $8,160.50 for $585,000 |
+| [Delson](/en/real-estate-broker/delson/) | 3%, payable in one or four instalments | $8,175.50 for $585,500, the Delson median |
+| [Saint-Bruno-de-Montarville](/en/real-estate-broker/saint-bruno-de-montarville/) | 3% | $17,085.50 for $882,500 |
+
+Examples without a note are calculated with the 2026 brackets. For another municipality, ask the city, or your notary, for the by-law in force before you make your offer. The [welcome tax calculator](/en/tools/welcome-tax/) applies these cities' rates, those of Montreal, Laval, Quebec City and Gatineau, and the rates set by the Act elsewhere.
 
 ## When you receive it
 

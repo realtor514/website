@@ -95,7 +95,17 @@ El ejemplo publicado por la ciudad, para una base de 700 000 $ en 2026, da 9 349
 
 **Laval en 2026.** Según el Courrier Laval del 9 de febrero de 2026, el presupuesto 2026 de la ciudad elevó a 3 % la tasa aplicable a toda suma que exceda 500 000 $. Sobre una base de 630 000 $, el precio mediano de una casa unifamiliar en Laval en el tercer trimestre de 2026 según la APCIQ, el cálculo da 5 610,50 $ hasta 500 000 $, más 3 900 $ sobre los 130 000 $ siguientes: 9 510,50 $. El consejo municipal también pidió estudiar un pago escalonado a partir del ejercicio 2027. La tasa y las modalidades de 2027 dependerán del presupuesto 2027 de la ciudad.
 
-**En otros lugares.** Varios municipios de los Laurentides, de Lanaudière y de Montérégie adoptaron su propio reglamento para el tramo de más de 500 000 $. Para una propiedad en esa gama de precios, pida el reglamento vigente al municipio, o a su notario, antes de hacer su oferta. Para una primera estimación, la [calculadora del impuesto de bienvenida](/es/tools/welcome-tax/) aplica las tasas de la ley.
+**En otros lugares en 2026.** Varias ciudades de las coronas adoptaron su propia tasa para el tramo de más de 500 000 $. Estas son las que publican cinco de ellas en su sitio:
+
+| Ciudad | Tasa sobre el tramo de más de 500 000 $ | Ejemplo publicado o calculado |
+|---|---|---|
+| [Terrebonne](/es/corredor-inmobiliario/terrebonne/) | 3 % | 8 160,50 $ para 585 000 $ (ejemplo de la ciudad) |
+| [Boisbriand](/es/corredor-inmobiliario/boisbriand/) | 2,5 % hasta 800 000 $, luego 3 % | 6 860,50 $ para 550 000 $ (ejemplo de la ciudad) |
+| [Sainte-Thérèse](/es/corredor-inmobiliario/sainte-therese/) | 3 % | 8 160,50 $ para 585 000 $ |
+| [Delson](/es/corredor-inmobiliario/delson/) | 3 %, pagadero en uno o cuatro pagos | 8 175,50 $ para 585 500 $, la mediana de Delson |
+| [Saint-Bruno-de-Montarville](/es/corredor-inmobiliario/saint-bruno-de-montarville/) | 3 % | 17 085,50 $ para 882 500 $ |
+
+Los ejemplos sin mención se calculan con los tramos de 2026. Para otro municipio, pida el reglamento vigente a la ciudad, o a su notario, antes de hacer su oferta. La [calculadora del impuesto de bienvenida](/es/tools/welcome-tax/) aplica las tasas de estas ciudades, las de Montreal, Laval, Quebec y Gatineau, y las de la ley en los demás lugares.
 
 ## Cuándo la recibe
 
