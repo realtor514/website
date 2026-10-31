@@ -1,13 +1,33 @@
 ---
-title: "Fissure de fondation au Québec: diagnostic et recours"
+title: "Fissure de fondation au Québec: cause, réparation et recours"
+seo_title: "Fissure de fondation au Québec: cause, réparation, recours"
 date: 2026-09-13
-lastmod: 2026-09-13
+lastmod: 2026-10-31
 translationKey: "article-foundation-cracks-expertise"
 category: "Guide pratique"
-description: "Fissure de fondation au Québec: argile, drainage, pyrite ou pyrrhotite, qui établit la cause, et quel recours selon l'âge du bâtiment."
+description: "Fissure de fondation au Québec: argile, drainage ou pyrite, qui établit la cause, qui répare (licence RBQ) et quel recours selon l'âge de la maison."
 image: "images/articles/fissures-affaissement-fondation-expertise-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Aucune source officielle québécoise ne fixe une largeur de fissure de fondation jugée grave: l'Ordre des ingénieurs du Québec classe l'avis sur les conséquences d'une fissure dans un mur de fondation parmi les mandats d'ingénierie."
+  - "Selon l'Ordre des ingénieurs, l'inspection préachat ne consiste qu'en des constats et ne permet généralement pas de déterminer la cause d'une détérioration ni la méthode pour la réparer."
+  - "Les quatre causes documentées sont distinctes: retrait des sols argileux, drainage, pyrite dans le remblai sous la dalle et pyrrhotite dans le béton."
+  - "Maison neuve: l'article 2118 du Code civil et le plan de garantie couvrent pendant 5 ans après la fin des travaux les vices de construction et les vices du sol. Maison usagée: dénonciation écrite dans un délai raisonnable (article 1739), puis 3 ans à partir de la découverte pour poursuivre."
+  - "Selon la Ville de Montréal, les assurances habitation ne couvrent généralement pas l'affaissement de sols argileux; à Laval, le volet maisons lézardées a remboursé jusqu'à 35 000 $ par résidence dans son édition fermée le 21 mars 2025."
+faq:
+  - q: "Une fissure de fondation est-elle grave?"
+    a: "Aucune source officielle québécoise ne publie de seuil de largeur. L'Ordre des ingénieurs du Québec classe l'avis sur les conséquences d'une fissure dans un mur de fondation parmi les mandats d'ingénierie: photographiez, datez, puis faites examiner."
+  - q: "Qui peut déterminer la cause d'une fissure de fondation au Québec?"
+    a: "Un ingénieur. L'inspection préachat ne fait que des constats, selon l'Ordre des ingénieurs, et l'OACIQ précise qu'un courtier ne peut se prononcer sur l'origine de fissures."
+  - q: "Qui répare une fissure de fondation?"
+    a: "Un entrepreneur titulaire d'une licence de la Régie du bâtiment du Québec, que vous pouvez vérifier au Registre des détenteurs de licence. Si vous avez acheté récemment, dénoncez d'abord le vice par écrit au vendeur et ne réparez pas avant, sauf urgence."
+  - q: "Quel délai pour un recours après l'achat d'une maison avec une fissure?"
+    a: "L'article 1739 exige une dénonciation écrite dans un délai raisonnable, qu'Éducaloi situe généralement entre six mois et un an. La poursuite se prescrit ensuite par trois ans à partir de la découverte (articles 2925 et 2926)."
+  - q: "Mon assurance habitation va-t-elle payer le pieutage?"
+    a: "La Ville de Montréal écrit que les assurances habitation ne couvrent généralement pas les dommages causés par l'affaissement de sols argileux, et le Bureau d'assurance du Canada indique qu'aucune protection n'existe pour le glissement de terrain. Faites confirmer votre cas par votre assureur."
+  - q: "Puis-je réparer la fissure avant de vendre et ne rien dire?"
+    a: "Non. La section D5.2 des Déclarations du vendeur porte sur les problèmes qui ont déjà affecté le sous-sol, dont les fissures dans la fondation, et la D15 demande l'année et la façon dont la situation a été réglée."
 ---
 
 Une fissure ne dit pas ce qui l'a causée. C'est pourtant la cause, et elle seule,
@@ -66,8 +86,8 @@ L'OACIQ précise qu'elle provient de carrières de la Mauricie, que son oxydatio
 beaucoup plus rapide que celle de la pyrite, et qu'une analyse pétrographique par un
 laboratoire reconnu est fortement recommandée pour tous les immeubles construits
 entre 1996 et 2008 en Mauricie. Elle a donné lieu à un long contentieux judiciaire
-dans cette région, mais je n'ai trouvé aucune source primaire ouverte pour en
-résumer l'issue, alors je ne le résume pas.
+dans cette région; aucune source primaire ouverte n'en résume l'issue, qui n'est
+donc pas résumée ici.
 
 | Cause | Où elle agit | Ce qui la confirme |
 |---|---|---|
@@ -142,6 +162,30 @@ recours](/articles/vice-cache-conditions-recours-quebec/), et le [guide de
 l'acheteur](/buyer/) replace cette étape dans la transaction. Aucun recours n'est
 gagné d'avance: un ingénieur établit une cause, pas un jugement.
 
+## Réparer une fissure de fondation au Québec: qui fait quoi
+
+**L'ingénieur fixe la cause, et donc la méthode.** Une fissure due au retrait de
+l'argile, au drainage ou à la pyrite ne se répare pas de la même façon. Le guide
+de l'Ordre des ingénieurs rappelle que le rapport d'inspection préachat ne permet
+généralement pas de déterminer la cause d'une détérioration ni la méthode pour la
+réparer: c'est l'objet d'un avis d'ingénieur, à obtenir avant de choisir entre
+une réparation localisée et des travaux de stabilisation comme le pieutage.
+
+**L'entrepreneur détient une licence de la Régie du bâtiment du Québec.** La RBQ
+demande de vérifier, avant d'embaucher un entrepreneur, qu'il détient une licence
+valide, au moyen du Registre des détenteurs de licence. Chaque fiche y indique
+les coordonnées, les sous-catégories de licence et les réclamations. En février
+2026, la RBQ constatait que trop peu de consommateurs font cette vérification.
+Demandez le numéro de licence et comparez la sous-catégorie aux travaux prévus.
+
+**La municipalité délivre le permis.** Le programme lavallois des maisons
+lézardées exigeait que le permis soit obtenu avant d'entamer les travaux.
+Renseignez-vous auprès de votre municipalité avant de signer le contrat.
+
+**Après un achat récent, la dénonciation passe avant la réparation.** Le vendeur doit
+pouvoir constater le vice avant toute réparation, sauf urgence. Une fissure
+colmatée avant la dénonciation écrite est une preuve perdue.
+
 ## Ce que l'assurance exclut, et la subvention qui existe à Laval
 
 La Ville de Montréal l'écrit sans détour: « les assurances d'habitation ne couvrent
@@ -162,8 +206,8 @@ condition du sol et non pas à un défaut ou à un vice de construction ». Lise
 phrase deux fois: la subvention exige la preuve inverse de celle d'une réclamation
 contre un entrepreneur, et c'est la même expertise qui sert aux deux.
 
-La dernière édition que j'ai pu vérifier fermait le 21 mars 2025, avec plus de 66
-propriétaires aidés depuis 2019. La page du programme redirige maintenant vers la
+La dernière édition dont les critères ont été publiés fermait le 21 mars 2025,
+avec plus de 66 propriétaires aidés depuis 2019. La page du programme redirige maintenant vers la
 page générale des aides: appelez la Ville avant de compter dessus.
 
 ## Vendre ou acheter avec une fissure de fondation: ce qui se déclare
@@ -188,36 +232,16 @@ clause E2.1, « Expertise à la demande de l'acheteur ». C'est à l'acheteur, e
 courtier, de décider s'il est satisfait des résultats. Notez enfin les sections D2.13
 et D2.14, sur le refus d'un assureur d'assurer ou d'indemniser: un mouvement de
 fondation y laisse une trace qui pèse parfois plus lourd que la fissure elle-même.
-
-## Questions fréquentes
-
-**Une fissure verticale et fine dans mon sous-sol, est-ce grave?**
-Aucune source officielle ne publie de seuil de largeur, donc aucun chiffre ne figure
-ici. L'Ordre des ingénieurs classe l'avis sur les conséquences d'une fissure dans un
-mur de fondation parmi les mandats d'ingénierie. Photographiez, datez, faites
-examiner.
-
-**Puis-je réparer la fissure avant de vendre et ne rien dire?**
-Non. La section D5.2 des Déclarations du vendeur porte sur les problèmes qui ont déjà
-affecté le sous-sol, et la D15 demande l'année et comment la situation a été réglée.
 Une réparation documentée rassure; une réparation cachée devient une question de
 bonne foi.
 
-**Mon assurance habitation va-t-elle payer le pieutage?**
-La Ville de Montréal écrit que les assurances habitation ne couvrent généralement pas
-les dommages causés par l'affaissement de sols argileux, et le Bureau d'assurance du
-Canada indique qu'aucune protection n'existe pour le glissement de terrain. Faites
-confirmer votre cas par votre assureur.
+En Mauricie, l'OACIQ signale en outre que les institutions financières exigent le
+test de pyrrhotite avant d'octroyer le prêt, même après une inspection rassurante.
 
-**J'achète en Mauricie: le test de pyrrhotite est-il nécessaire?**
-L'OACIQ recommande fortement une analyse pétrographique par un laboratoire reconnu
-pour tous les immeubles construits entre 1996 et 2008 en Mauricie, et signale que les
-institutions financières exigent le test avant d'octroyer le prêt, même après une
-inspection rassurante.
-
-Pour compléter, lisez [la liste de l'inspection
-préachat](/articles/home-inspection-checklist-montreal/) et [la garantie GCR d'une
-maison neuve](/articles/garantie-gcr-maison-neuve-quebec/).
+Pour compléter, lisez [choisir un inspecteur en bâtiment au
+Québec](/articles/choisir-inspecteur-batiment-quebec/), [l'inspection préachat:
+coût et moment](/articles/inspection-preachat-cout-moment-quebec/) et [la vente
+sans garantie légale au Québec](/articles/vente-sans-garantie-legale-quebec/).
 
 ---
 

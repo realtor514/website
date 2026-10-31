@@ -1,13 +1,33 @@
 ---
-title: "Foundation Cracks in Quebec: Diagnosis and Recourses"
+title: "Foundation Cracks in Quebec: Cause, Repair and Recourses"
+seo_title: "Foundation Cracks in Quebec: Cause, Repair, Recourses"
 date: 2026-09-13
-lastmod: 2026-09-13
+lastmod: 2026-10-31
 translationKey: "article-foundation-cracks-expertise"
 category: "Practical Guide"
-description: "Foundation cracks in Quebec: clay, drainage, pyrite or pyrrhotite, who establishes the cause, and which recourse applies depending on the building's age."
+description: "Foundation cracks in Quebec: clay, drainage or pyrite, who establishes the cause, who repairs (RBQ licence) and which recourse applies to your home."
 image: "images/articles/fissures-affaissement-fondation-expertise-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "No official Quebec source sets a foundation crack width considered serious: the Ordre des ingénieurs du Québec classes an opinion on the consequences of a crack in a foundation wall among engineering mandates."
+  - "According to the Ordre des ingénieurs, a pre-purchase inspection consists of observations only and generally does not allow the cause of a deterioration or the method to repair it to be determined."
+  - "The four documented causes are distinct: shrinking clay soils, drainage, pyrite in the backfill under the slab, and pyrrhotite in the concrete."
+  - "New home: article 2118 of the Civil Code and the warranty plan cover construction defects and defects in the ground for 5 years after the work is completed. Existing home: written notice within a reasonable time (article 1739), then 3 years from discovery to sue."
+  - "According to the City of Montreal, home insurance generally does not cover the settling of clay soils; in Laval, the maisons lézardées component reimbursed up to $35,000 per residence in its edition that closed on March 21, 2025."
+faq:
+  - q: "Is a foundation crack serious?"
+    a: "No official Quebec source publishes a width threshold. The Ordre des ingénieurs du Québec classes an opinion on the consequences of a crack in a foundation wall among engineering mandates: photograph it, date it, then have it examined."
+  - q: "Who can determine the cause of a foundation crack in Quebec?"
+    a: "An engineer. A pre-purchase inspection only records observations, according to the Ordre des ingénieurs, and the OACIQ specifies that a broker cannot give an opinion on the origin of cracks."
+  - q: "Who repairs a foundation crack?"
+    a: "A contractor holding a licence from the Régie du bâtiment du Québec, which you can check in the licence holders' register. If you bought recently, first give the seller written notice of the defect and do not repair before then, except in an emergency."
+  - q: "How long do I have for a recourse after buying a house with a crack?"
+    a: "Article 1739 requires written notice within a reasonable time, which Éducaloi generally places between six months and a year. The lawsuit is then prescribed by three years from discovery (articles 2925 and 2926)."
+  - q: "Will my home insurance pay for the piling?"
+    a: "The City of Montreal writes that home insurance generally does not cover damage caused by the settling of clay soils, and the Bureau d'assurance du Canada indicates that no coverage exists for landslides. Have your own case confirmed by your insurer."
+  - q: "Can I repair the crack before selling and say nothing?"
+    a: "No. Section D5.2 of the Déclarations du vendeur covers problems that have already affected the basement, including cracks in the foundation, and D15 asks for the year and how the situation was settled."
 ---
 
 A crack does not say what caused it. Yet it is the cause, and the cause alone,
@@ -60,8 +80,8 @@ the island of Montreal.
 OACIQ specifies that it comes from quarries in the Mauricie, that its oxidation is
 much faster than pyrite's, and that a petrographic analysis by a recognized
 laboratory is strongly recommended for every building constructed between 1996 and
-2008 in the Mauricie. It gave rise to long litigation in that region, but I found
-no open primary source to summarize the outcome, so I am not summarizing it.
+2008 in the Mauricie. It gave rise to long litigation in that region; no open
+primary source summarizes the outcome, so it is not summarized here.
 
 | Cause | Where it acts | What confirms it |
 |---|---|---|
@@ -137,6 +157,30 @@ conditions are detailed in our article on
 and the [buyer's guide](/en/buyer/) places that step back inside the transaction.
 No recourse is won in advance: an engineer establishes a cause, not a judgment.
 
+## Repairing a foundation crack in Quebec: who does what
+
+**The engineer sets the cause, and therefore the method.** A crack caused by
+shrinking clay, by drainage or by pyrite is not repaired the same way. The Ordre
+des ingénieurs guide recalls that the pre-purchase inspection report generally
+does not allow the cause of a deterioration or the method to repair it to be
+determined: that is the subject of an engineer's opinion, to obtain before
+choosing between a localized repair and stabilization work such as piling.
+
+**The contractor holds a licence from the Régie du bâtiment du Québec.** The RBQ
+asks you to check, before hiring a contractor, that he holds a valid licence,
+using its licence holders' register. Each file shows the contact details, the
+licence subclasses and any claims. In February 2026, the RBQ noted that too few
+consumers make this check. Ask for the licence number and compare the subclass
+with the planned work.
+
+**The municipality issues the permit.** The Laval maisons lézardées program
+required the permit to be obtained before starting the work. Check with your
+municipality before signing the contract.
+
+**After a recent purchase, the notice comes before the repair.** The seller
+must be able to see the defect before any repair, except in an emergency. A
+crack sealed before the written notice is lost evidence.
+
 ## What insurance excludes, and the grant that exists in Laval
 
 The City of Montreal writes it without hedging: "home insurance generally does not
@@ -156,8 +200,8 @@ the condition of the soil and not to a construction defect or flaw". Read that
 sentence twice: the grant demands the opposite proof from the one a claim against a
 contractor demands, and it is the same expert report that serves both.
 
-The most recent edition I was able to verify closed on March 21, 2025, with more
-than 66 owners helped since 2019. The program page now redirects to the general
+The most recent edition whose criteria were published closed on March 21, 2025,
+with more than 66 owners helped since 2019. The program page now redirects to the general
 assistance page: call the City before counting on it.
 
 ## Selling or buying with a foundation crack: what gets declared
@@ -182,34 +226,15 @@ clause E2.1, "Expert report at the buyer's request". It is up to the buyer, not
 the broker, to decide whether the results are satisfactory. Note finally sections
 D2.13 and D2.14, on an insurer's refusal to insure or to indemnify: foundation
 movement leaves a trace there that sometimes weighs more than the crack itself.
-
-## Frequently asked questions
-
-**A fine vertical crack in my basement, is that serious?**
-No official source publishes a width threshold, so no figure appears here. The
-Ordre des ingénieurs classes an opinion on the consequences of a crack in a
-foundation wall among engineering mandates. Photograph, date, have it examined.
-
-**Can I repair the crack before selling and say nothing?**
-No. Section D5.2 of the Déclarations du vendeur covers problems that have already
-affected the basement, and D15 asks for the year and how the situation was settled.
 A documented repair reassures; a hidden repair becomes a question of good faith.
 
-**Will my home insurance pay for the piling?**
-The City of Montreal writes that home insurance generally does not cover damage
-caused by the settling of clay soils, and the Bureau d'assurance du Canada
-indicates that no coverage exists for landslides. Have your own case confirmed by
-your insurer.
-
-**I am buying in the Mauricie: is the pyrrhotite test necessary?**
-The OACIQ strongly recommends a petrographic analysis by a recognized laboratory
-for every building constructed between 1996 and 2008 in the Mauricie, and notes
-that financial institutions require the test before granting the loan, even after
-a reassuring inspection.
+In the Mauricie, the OACIQ also notes that financial institutions require the
+pyrrhotite test before granting the loan, even after a reassuring inspection.
 
 To go further, read
-[the pre-purchase inspection checklist](/en/articles/home-inspection-checklist-montreal/)
-and [the GCR warranty on a new home](/en/articles/new-home-warranty-quebec/).
+[choosing a home inspector in Quebec](/en/articles/choosing-home-inspector-quebec/),
+[home inspection in Quebec: what it costs and when to do it](/en/articles/home-inspection-cost-timing-quebec/)
+and [sale without legal warranty in Quebec](/en/articles/sale-without-legal-warranty-quebec/).
 
 ---
 

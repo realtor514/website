@@ -1,13 +1,33 @@
 ---
-title: "Vice caché in Quebec: The Four Conditions and Your Recourses"
+title: "Hidden Defects (Vice Caché) in Quebec: Conditions, Deadlines and Recourses"
+seo_title: "Hidden Defects in Quebec: Conditions, Deadlines, Recourses"
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-31
 translationKey: "article-vice-cache-recours"
 category: "Real Estate 101"
-description: "Latent defect in a Quebec home: the four conditions of article 1726, the mandatory written notice, your recourses and the three year deadline."
+description: "Hidden defects in Quebec: the 4 conditions of art. 1726, written notice (art. 1739), 3 years to sue, sales without legal warranty and who to consult."
 image: "images/articles/vice-cache-conditions-recours-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "In Quebec, article 1726 of the Civil Code requires the seller to warrant that the home is free of latent defects (vices cachés) at the time of the sale, even if the seller was unaware of the defect."
+  - "A latent defect must meet four cumulative conditions: it is hidden, serious, prior to the sale and unknown to the buyer."
+  - "The buyer must give the seller written notice of the defect within a reasonable time after discovering it (article 1739), generally 6 months to a year according to Éducaloi, and must not repair before then, except in an emergency."
+  - "The action is prescribed by three years (article 2925), counted from the discovery of the defect or the first appearance of the injury (article 2926), not from the purchase date."
+  - "A sale without legal warranty can exclude the warranty (article 1732), but a seller who kept quiet about a defect he knew of cannot rely on it, unless the buyer bought at his own risk from a non-professional seller (article 1733)."
+faq:
+  - q: "How long does the legal warranty on a house last in Quebec?"
+    a: "The Civil Code sets no duration for the warranty of quality: it covers defects that existed at the time of the sale. The limits come from the deadlines to act: written notice within a reasonable time (article 1739), then three years from discovery to sue (articles 2925 and 2926)."
+  - q: "What is the deadline to report a hidden defect?"
+    a: "A reasonable time after discovery, under article 1739. Éducaloi generally places it between 6 months and a year, longer if the defect shows up seasonally. Where the defect appears gradually, the time runs from the day the buyer could have suspected its seriousness and extent."
+  - q: "Who should I consult about a hidden defect in Laval or Montreal?"
+    a: "A building expert to establish that the defect predates the sale and to price the work, then a lawyer for the formal demand letter and the lawsuit. The Barreau du Québec directory lets you search for a lawyer by region, language spoken and area of law. The same Civil Code articles apply in Laval, Montreal and everywhere in Quebec."
+  - q: "Can I sue for a hidden defect in small claims court?"
+    a: "Yes, if the amount claimed is $15,000 or less, not counting interest. Parties represent themselves there without a lawyer, and a buyer can reduce the claim to $15,000 to get in."
+  - q: "The inspector saw nothing: do I still have a recourse?"
+    a: "In principle, yes: Éducaloi points out that an inspection does not guarantee the absence of a defect. If the report recommended a more thorough check that you did not carry out, however, that sentence will be held against your diligence."
+  - q: "Can I do the work and send the invoice to the seller?"
+    a: "That is the riskiest scenario. Éducaloi asks you not to start repairs at your own expense, because the seller must be able to verify the defect, see the damage and repair it himself. Only urgent repairs are an exception."
 ---
 
 The water arrives in the spring, in a finished basement bought the previous
@@ -149,7 +169,35 @@ warranties are passed on: from that point, they are reset. Your recourse
 against previous owners therefore depends on the earlier deeds, and one sale
 without legal warranty anywhere in that chain is enough to end it.
 
+## Sale without legal warranty: what articles 1732 and 1733 allow
+
+**The warranty of quality can be reduced or excluded by contract.** Article 1732
+allows the parties to add to the obligations of the legal warranty, to diminish
+its effects or to exclude it entirely. The same sentence sets a limit: the
+seller may in no case exclude himself from liability for his own personal acts.
+
+**The exclusion does not protect a seller who knew.** Article 1733 forbids the
+seller to exclude or limit his liability if he did not disclose the defects he
+knew of or could not have been unaware of. One exception only: a buyer who buys
+at his own risk from a non-professional seller. The detail is in
+[sale without legal warranty in Quebec](/en/articles/sale-without-legal-warranty-quebec/).
+
+| Clause in the deed | Effect on a hidden defect claim |
+|---|---|
+| Full legal warranty | The four conditions and the written notice apply |
+| Without legal warranty, seller unaware of the defect | The recourse is excluded in principle |
+| Without legal warranty, seller knew of the defect and kept quiet | The exclusion does not apply (article 1733) |
+| At the buyer's own risk, non-professional seller | The exclusion can be raised even for a defect the seller knew of (article 1733), subject to his personal acts (article 1732) |
+
+So read the warranty clause in your deed of sale before doing anything else: it
+tells you whether the following sections concern you.
+
 ## Three years to act, and the court that will hear you
+
+**How long does the legal warranty last?** The Civil Code sets no duration for
+it: it bears on the defects that existed at the time of the sale, whatever the
+date on which they come to light. It is the deadlines to act that limit the
+recourse.
 
 Article 2925 sets at three years the prescription of a personal action whose
 period is not otherwise determined, and Éducaloi specifies the starting point
@@ -164,7 +212,33 @@ less, interest excluded, and Éducaloi gives as an example a claim against the
 seller for the cost of the work for a latent defect. You act alone there,
 without a lawyer, and you can reduce your claim to $15,000 to get in even if
 the work costs $21,000. Free mediation is offered. Above that, you need a
-lawyer, and no official source lets me put forward an average cost.
+lawyer, and no official source publishes an average cost for such a lawsuit.
+
+## Inspector, building expert, lawyer: who does what
+
+**The pre-purchase inspector observes.** The inspection is visual, Éducaloi
+points out. The Ordre des ingénieurs du Québec guide specifies that a
+pre-purchase inspection report consists of observations only and generally does
+not allow the cause of a deterioration or the method to repair it to be
+determined. The criteria for hiring one are in
+[choosing a home inspector in Quebec](/en/articles/choosing-home-inspector-quebec/).
+
+**The building expert establishes the cause and the anteriority.** It is his
+report that shows the defect existed before the sale and that prices the work.
+For a foundation, an opinion on the consequences of a crack is an engineering
+mandate: see
+[foundation cracks in Quebec: cause, repair and recourses](/en/articles/foundation-cracks-diagnosis-quebec/).
+For mould, the steps specific to that case are in
+[mould in a Quebec home](/en/articles/mould-in-the-home-quebec/).
+
+**The lawyer advises on deadlines, drafts the formal demand letter and argues
+claims above $15,000.** The Barreau du Québec directory lets you search for a
+lawyer by region, language spoken and area of law, which works as well in Laval
+as in Montreal: articles 1726 to 1739 of the Civil Code apply the same way
+everywhere in Quebec.
+
+**The notary rereads the deeds.** The warranty clause in your deed and those in
+earlier sales decide against whom the recourse still exists.
 
 ## The first week after the discovery
 
@@ -183,25 +257,14 @@ lawyer, and no official source lets me put forward an average cost.
 7. **Log everything**: dates, calls, replies. That file is what will count in
    front of the judge, not your memory.
 
-## Frequently asked questions
+If the defect comes from an earlier owner, the warranty is passed along the
+chain of sales, but an earlier sale made at the buyer's risk and peril breaks
+it, the OACIQ notes. Ask the notary to check the earlier deeds before choosing
+who you act against.
 
-**I had an inspection done and the inspector saw nothing. Do I still have a
-recourse?** Yes, in principle. Éducaloi points out that an inspection does not
-guarantee the absence of a defect. Reread the report, though: if it recommended
-a more thorough check that you did not carry out, that sentence will be held
-against your diligence.
-
-**Can I do the work and send the invoice to the seller?** That is the riskiest
-scenario. Éducaloi asks you not to start the repairs at your own expense,
-because the seller must be able to verify the defect, see the damage and repair
-it himself. Only urgent repairs are an exception.
-
-**The defect comes from the owner before last.** The warranty is passed along
-the chain of sales, but an earlier sale made at the buyer's risk and peril
-breaks it, the OACIQ notes. Ask the notary to check the earlier deeds before
-choosing who you act against.
-
-To go further, read [seven failures that derail a
+To go further, read
+[the seller's declaration in Quebec](/en/articles/seller-declaration-form-quebec/),
+[seven failures that derail a
 transaction](/en/articles/worst-real-estate-deal-lessons/) and [walking away:
 seven red flags you can verify on
 paper](/en/articles/red-flags-walk-away-property/).

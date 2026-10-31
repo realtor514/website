@@ -1,7 +1,7 @@
 {
  "id": "t214",
  "slug": "fissures-affaissement-fondation-expertise-quebec",
- "title": "Fissure de fondation au Québec: diagnostic et recours",
+ "title": "Fissure de fondation au Québec: cause, réparation et recours",
  "target_keyword": "fissure fondation quebec",
  "word_count": 1974,
  "category": "Guide pratique",
@@ -12,6 +12,9 @@
   "/articles/vice-cache-conditions-recours-quebec/",
   "/articles/declaration-du-vendeur-quebec/",
   "/buyer/",
+  "/articles/choisir-inspecteur-batiment-quebec/",
+  "/articles/inspection-preachat-cout-moment-quebec/",
+  "/articles/vente-sans-garantie-legale-quebec/",
   "/formulaire/"
  ],
  "sources": [
@@ -19,8 +22,8 @@
    "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
    "title": "Code civil du Québec, articles 1726, 1739, 2118, 2925 et 2926",
    "publisher": "Légis Québec, Publications du Québec",
-   "consulted": "2026-09-25",
-   "supports": "Texte intégral des articles 1726 (vice caché et vice apparent constatable sans recourir à un expert), 1739 (dénonciation écrite dans un délai raisonnable, point de départ quand le vice apparaît graduellement), 2118 (responsabilité solidaire sur cinq ans pour la perte de l'ouvrage, y compris pour un vice du sol), 2925 (prescription de trois ans) et 2926 (délai qui court de la première manifestation du préjudice). Lus par capture web.archive.org de la page officielle datée du 2026-03-10, au moyen de tools/ccq.py, LegisQuebec étant hors service."
+   "consulted": "2026-10-31",
+   "supports": "Texte intégral des articles 1726 (vice caché et vice apparent constatable sans recourir à un expert), 1739 (dénonciation écrite dans un délai raisonnable, point de départ quand le vice apparaît graduellement), 2118 (responsabilité solidaire sur cinq ans pour la perte de l'ouvrage, y compris pour un vice du sol), 2925 (prescription de trois ans) et 2926 (délai qui court de la première manifestation du préjudice). Lus par capture web.archive.org de la page officielle datée du 2026-03-10, au moyen de tools/ccq.py, LegisQuebec étant hors service. Articles 1726, 1739, 2925 et 2926 relus en direct sur LegisQuébec le 2026-10-31 avec tools/ccq.py, texte inchangé."
   },
   {
    "url": "https://www.oiq.qc.ca/wp-content/uploads/2023/02/20230503_Guide_retenir_services_ingenieur_vf.pdf",
@@ -126,6 +129,20 @@
    "publisher": "Éducaloi",
    "consulted": "2026-09-25",
    "supports": "Conditions du vice caché, recours de l'acheteur, et effet d'un achat à ses risques et périls qui peut priver l'acheteur de protection contre un vice caché."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/en/you-are/citizen/check-a-contractors-licence/",
+   "title": "Check a contractor's licence",
+   "publisher": "Régie du bâtiment du Québec",
+   "consulted": "2026-10-31",
+   "supports": "Avant d'embaucher un entrepreneur pour des travaux de rénovation ou de construction, vérifier qu'il détient une licence valide au moyen du Registre des détenteurs de licence; chaque fiche indique les coordonnées, les sous-catégories de licence et les réclamations. La page française équivalente n'a pas été ouverte."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/salle-de-presse/les-nouvelles/nouvelles-detail/item/2026-02-09-verifiez-si-votre-entrepreneur-a-une-licence-de-la-rbq/",
+   "title": "Vérifiez si votre entrepreneur a une licence de la RBQ!",
+   "publisher": "Régie du bâtiment du Québec",
+   "consulted": "2026-10-31",
+   "supports": "Nouvelle du 9 février 2026: « Encore trop peu de consommatrices et de consommateurs vérifient la licence de leur entrepreneur », invitation à consulter le Registre des détenteurs de licence."
   }
  ],
  "review_status": {
@@ -135,6 +152,7 @@
   "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
  },
  "claims_needing_review": [
-  "Le volet maisons lezardees du programme Renovation Quebec a Laval: la derniere edition verifiable fermait le 21 mars 2025 et la page dediee redirige vers la page generale des aides. Si une edition 2026 a ouvert, le paragraphe est a mettre a jour. A verifier aupres de la Ville de Laval."
+  "Le volet maisons lezardees du programme Renovation Quebec a Laval: la derniere edition verifiable fermait le 21 mars 2025 et la page dediee redirige vers la page generale des aides. Si une edition 2026 a ouvert, le paragraphe est a mettre a jour. A verifier aupres de la Ville de Laval. Nouvelle tentative le 2026-10-31: laval.ca refuse la récupération automatique (403) et aucune source primaire ouverte n'annonce une édition 2026. Le texte présente donc l'édition fermée le 21 mars 2025 comme la dernière dont les critères ont été publiés.",
+  "Section sur la réparation: l'exigence d'un permis municipal est sourcée seulement pour le programme lavallois des maisons lézardées; le texte renvoie le lecteur à sa municipalité pour les autres cas. Aucun coût de réparation n'est avancé, faute de source officielle."
  ]
 }

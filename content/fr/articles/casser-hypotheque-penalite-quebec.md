@@ -1,13 +1,33 @@
 ---
-title: "Pénalité pour casser une hypothèque : le calcul au Québec"
+title: "Pénalité hypothécaire au Québec : le calcul, avec exemples"
+seo_title: "Calcul de la pénalité hypothécaire au Québec"
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-31
 translationKey: "article-casser-hypotheque"
 category: "Financement"
-description: "Trois mois d'intérêts ou différentiel de taux, taux affiché contre taux consenti, quittance et Registre foncier : le calcul réel au Québec."
+description: "Calcul de la pénalité hypothécaire : 3 mois d'intérêts ou différentiel de taux, formules, exemple de 12 000 $, piège du taux affiché et frais au Québec."
 image: "images/articles/casser-hypotheque-penalite-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Pour casser une hypothèque fermée, la pénalité est habituellement le plus élevé de deux montants : trois mois d'intérêts sur le solde, ou le différentiel de taux d'intérêt, selon l'Agence de la consommation en matière financière du Canada (ACFC)."
+  - "Trois mois d'intérêts se calculent ainsi : solde impayé x taux annuel / 4. Sur un solde de 200 000 $ à 6 %, cela donne 3 000 $."
+  - "Dans l'exemple de l'ACFC (200 000 $ à 6 %, 36 mois restants, taux affiché courant de 4 %), le différentiel de taux atteint 12 000 $, soit quatre fois les trois mois d'intérêts."
+  - "Le choix des deux taux comparés appartient au contrat du prêteur : comparer le taux affiché de départ au taux affiché courant moins le rabais consenti peut multiplier la pénalité. Le montant exact vient de l'état écrit du prêteur."
+  - "Au Québec s'ajoutent le notaire et le Registre foncier : depuis le 1er avril 2026, 165 $ par réquisition de radiation et 145 $ pour inscrire la nouvelle hypothèque."
+faq:
+  - q: "Comment calculer sa pénalité hypothécaire ?"
+    a: "Calculez deux montants et retenez le plus élevé. Trois mois d'intérêts : solde x taux annuel / 4. Différentiel de taux : solde x (votre taux - taux de comparaison) x mois restants / 12. Le prêteur confirme ensuite le montant par écrit."
+  - q: "Un calculateur de pénalité hypothécaire en ligne est-il fiable ?"
+    a: "Il donne un ordre de grandeur. L'ACFC indique que les institutions financières offrent des calculatrices en ligne, mais recommande de vérifier le montant réel auprès du prêteur, parce que le taux de comparaison dépend de votre contrat et de votre rabais."
+  - q: "Pourquoi ma pénalité est-elle beaucoup plus élevée que celle de mon voisin ?"
+    a: "Sa pénalité était probablement les trois mois d'intérêts, parce que les taux courants n'étaient pas plus bas que le sien. Ou son contrat compare le taux du contrat au taux affiché courant, alors que le vôtre repart du taux affiché de départ diminué de votre rabais."
+  - q: "Comment réduire la pénalité pour casser une hypothèque ?"
+    a: "L'ACFC conseille d'utiliser pleinement vos privilèges de remboursement anticipé et de faire un paiement global avant de résilier : la pénalité est alors calculée sur un solde moins élevé. La fusion et prolongation permet aussi de changer de taux sans pénalité, avec des frais administratifs possibles."
+  - q: "Vaut-il mieux attendre l'échéance de l'hypothèque ?"
+    a: "Souvent, oui. À l'échéance, changer de prêteur ne déclenche aucune pénalité. Comparez l'économie mensuelle multipliée par les mois restants avec le total de la pénalité et des frais."
+  - q: "La hausse du taux directeur change-t-elle ma pénalité ?"
+    a: "Pas directement. La Banque du Canada a relevé son taux cible à 2,50 % le 28 octobre 2026, prochaine annonce le 9 décembre 2026. Le différentiel se calcule sur les taux hypothécaires affichés pour un terme comparable : plus ces taux se rapprochent du vôtre, plus il diminue."
 ---
 
 Un prêteur vous offre un point de pourcentage de moins que votre taux actuel. Avant
@@ -53,12 +73,19 @@ plus élevé que les taux en vigueur et que le contrat a moins de cinq ans. Rete
 la conséquence : si les taux courants sont égaux ou supérieurs au vôtre, le
 différentiel s'effondre vers zéro et il ne reste que les trois mois d'intérêts.
 
-Vos privilèges de remboursement anticipé, eux, ne déclenchent rien. Ils sont dans
-votre contrat, et ils ne s'appliquent pas à une résiliation complète.
+Vos privilèges de remboursement anticipé ne s'appliquent pas à une résiliation
+complète. Ils servent avant : l'ACFC conseille de les utiliser pleinement et de
+faire un paiement global avant de résilier, parce que la pénalité sera alors
+calculée sur un solde moins élevé.
 
-## Le différentiel de taux d'intérêt, calculé étape par étape
+## Calcul de la pénalité hypothécaire : formules et exemple chiffré
 
-La méthode que décrit l'ACFC compte cinq gestes.
+**Les deux formules tiennent chacune en une ligne.**
+
+- Trois mois d'intérêts = solde impayé x taux annuel du contrat / 12 x 3
+- Différentiel de taux = solde impayé x (taux du contrat - taux de comparaison) x mois restants / 12
+
+Pour le différentiel, la méthode que décrit l'ACFC compte cinq gestes.
 
 1. Prenez le solde impayé.
 2. Prenez le nombre de mois qui restent au terme.
@@ -73,6 +100,13 @@ soit 200 000 $ multipliés par 6 %, divisés par quatre. Le différentiel donne
 12 000 $, soit 200 000 $ multipliés par l'écart de 2 points, multipliés par les
 trois années restantes. La pénalité payable est de 12 000 $, plus des frais
 d'administration possibles. Quatre fois le montant attendu.
+
+**Ces formules donnent un ordre de grandeur, pas la facture.** L'ACFC indique que
+les institutions financières offrent des calculatrices en ligne, et recommande de
+vérifier le montant réel auprès de votre prêteur. Un calculateur générique de
+pénalité hypothécaire ne connaît ni votre rabais ni la méthode prévue à votre
+contrat : la section suivante montre qu'à elle seule, cette méthode peut
+multiplier le résultat par quatre.
 
 Avant de comparer quoi que ce soit, chiffrez l'écart de versement réel avec le
 [calculateur hypothécaire](/tools/mortgage/). Si l'économie cumulée sur les mois
@@ -116,8 +150,7 @@ taux variable, votre taux n'est justement pas fixé, ce qui prive la formule de 
 terme de comparaison. Beaucoup de contrats à taux variable prévoient donc les
 trois mois d'intérêts.
 
-Ce que je ne peux pas faire, c'est vous le présenter comme une règle générale.
-L'ACFC ne publie aucun barème distinct pour le taux variable, et son exemple
+Ce n'est toutefois pas une règle générale. L'ACFC ne publie aucun barème distinct pour le taux variable, et son exemple
 d'encadré informatif pour ce produit reprend la même formulation que celui du taux
 fixe : le plus élevé des deux montants. C'est votre contrat qui tranche, pas la
 réputation du produit.
@@ -167,7 +200,9 @@ Le code de conduite applicable aux institutions sous réglementation fédérale
 prévoit qu'une fois votre intention de rembourser confirmée, le prêteur remet un
 état écrit indiquant les frais applicables, la méthode de calcul, la période de
 validité du montant, les facteurs qui pourraient le faire changer et toute autre
-somme due. Un montant donné au téléphone ne vaut rien.
+somme due. Le même code prévoit aussi des renseignements annuels expliquant la
+méthode de calcul et les facteurs qui influent sur les frais, sans aucune
+confirmation préalable. Un montant donné au téléphone ne vaut rien.
 
 **2. Quels deux taux avez-vous utilisés, et pourquoi ceux-là ?** Le même code
 prévoit que si le calcul repose sur le différentiel, l'état écrit précise le solde
@@ -200,35 +235,22 @@ fusionnant l'ancien taux et celui du nouveau terme. Son exemple : 200 000 $ à
 5,5 % avec 24 mois restants, nouveau taux de 4 % sur cinq ans, taux fusionné de
 4,6 % sur 60 mois. Des frais administratifs peuvent s'appliquer.
 
-## Questions fréquentes
+**Vous pouvez attendre l'échéance.** À l'échéance, changer de prêteur ne déclenche
+aucune pénalité, puisqu'il n'y a plus de promesse à rompre. Restent les frais
+d'ouverture et, au Québec, l'acte et la radiation.
 
-**Est-ce que ma banque peut refuser de me donner le calcul avant que je m'engage ?**
-Pour une institution sous réglementation fédérale, le code de conduite prévoit un
-état écrit une fois votre intention confirmée, et des renseignements annuels
-expliquant la méthode de calcul et les facteurs qui influent sur les frais. Si on
-vous renvoie à plus tard, demandez l'information annuelle : elle ne dépend
-d'aucune confirmation.
+**Le taux directeur ne fixe pas la pénalité.** La Banque du Canada a relevé son
+taux cible du financement à un jour à 2,50 % le 28 octobre 2026, prochaine
+annonce le 9 décembre 2026. Le différentiel, lui, se calcule sur les taux
+hypothécaires affichés pour un terme comparable. Quand ces taux baissent, l'écart
+avec votre taux se creuse et le différentiel grossit ; quand ils remontent vers
+votre taux, il diminue.
 
-**Mon voisin a payé 2 000 $ et moi 14 000 $. Comment est-ce possible ?**
-Sa pénalité était probablement les trois mois d'intérêts, parce que les taux
-courants n'étaient pas plus bas que le sien. Ou son contrat compare le taux du
-contrat au taux affiché courant, alors que le vôtre repart du taux affiché de
-départ diminué de votre rabais.
-
-**Vaut-il mieux attendre l'échéance ?**
-Souvent, oui. À l'échéance, changer de prêteur ne déclenche aucune pénalité,
-puisqu'il n'y a plus de promesse à rompre. Restent les frais d'ouverture et, au
-Québec, l'acte et la radiation. Comparez l'économie mensuelle multipliée par les
-mois restants avec le total pénalité plus frais.
-
-**Le taux directeur baisse. Est-ce que ma pénalité baisse aussi ?**
-Pas mécaniquement. La Banque du Canada a maintenu son taux cible du financement à
-un jour à 2,25 % le 2 septembre 2026, prochaine annonce le 28 octobre 2026. Mais
-le différentiel se calcule sur les taux hypothécaires affichés pour un terme
-comparable, pas sur le taux directeur. Une baisse des taux courants a même l'effet
-inverse : elle creuse l'écart avec votre taux et grossit le différentiel.
-
-Pour compléter, lisez [ce qui se décide avant votre taux hypothécaire](/articles/best-mortgage-rate-canada/) et [le rôle du notaire au Québec](/articles/quebec-notary-process/).
+Pour compléter, lisez [vendre une maison qui vaut moins que
+l'hypothèque](/articles/vendre-valeur-inferieure-solde-hypothecaire-quebec/),
+[rembourser son hypothèque plus vite](/articles/rembourser-hypotheque-plus-vite-quebec/)
+et [les taux hypothécaires vont-ils baisser en
+2027](/articles/taux-hypothecaires-baisser-quebec/).
 
 ---
 

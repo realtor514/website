@@ -1,8 +1,8 @@
 {
  "id": "t138",
  "slug": "casser-hypotheque-penalite-quebec",
- "title": "Pénalité pour casser une hypothèque : le calcul au Québec",
- "target_keyword": "penalite pour casser une hypotheque",
+ "title": "Pénalité hypothécaire au Québec : le calcul, avec exemples",
+ "target_keyword": "calcul pénalité hypothécaire",
  "word_count": 1790,
  "category": "Financement",
  "internal_links": [
@@ -12,6 +12,9 @@
   "/articles/cout-reel-vendre-maison-quebec/",
   "/articles/divorce-real-estate-guide/",
   "/articles/refinancement-hypothecaire-quebec/",
+  "/articles/vendre-valeur-inferieure-solde-hypothecaire-quebec/",
+  "/articles/rembourser-hypotheque-plus-vite-quebec/",
+  "/articles/taux-hypothecaires-baisser-quebec/",
   "/formulaire/"
  ],
  "sources": [
@@ -19,15 +22,15 @@
    "url": "https://www.canada.ca/fr/agence-consommation-matiere-financiere/services/hypotheques/reduire-penalite-paiement-anticipes.html",
    "title": "Frais hypothécaires : pénalités pour remboursement anticipé",
    "publisher": "Agence de la consommation en matière financière du Canada",
-   "consulted": "2026-09-23",
-   "supports": "La pénalité correspond au plus élevé de deux montants, trois mois d'intérêts ou différentiel de taux d'intérêt. Le différentiel s'applique quand votre taux dépasse les taux en vigueur et que le contrat a moins de cinq ans. Les quatre combinaisons de taux comparés (taux affiché à la signature ou taux escompté, taux affiché courant ou taux affiché moins le rabais). Exemple chiffré : solde de 200 000 $, taux de 6 %, 36 mois restants, taux affiché courant de 4 %, soit 3 000 $ de trois mois d'intérêts contre 12 000 $ de différentiel, et 12 000 $ payables."
+   "consulted": "2026-10-31",
+   "supports": "La pénalité correspond au plus élevé de deux montants, trois mois d'intérêts ou différentiel de taux d'intérêt. Le différentiel s'applique quand votre taux dépasse les taux en vigueur et que le contrat a moins de cinq ans. Les quatre combinaisons de taux comparés (taux affiché à la signature ou taux escompté, taux affiché courant ou taux affiché moins le rabais). Exemple chiffré : solde de 200 000 $, taux de 6 %, 36 mois restants, taux affiché courant de 4 %, soit 3 000 $ de trois mois d'intérêts contre 12 000 $ de différentiel, et 12 000 $ payables. Relu le 2026-10-31 (page datée du 2025-10-15), contenu inchangé. La page ajoute que les institutions financières offrent des calculatrices en ligne, qu'il faut vérifier le montant réel auprès du prêteur, et conseille d'utiliser pleinement les privilèges de remboursement anticipé et de faire un paiement global avant de résilier, la pénalité étant alors calculée sur un solde moins élevé."
   },
   {
    "url": "https://www.canada.ca/fr/agence-consommation-matiere-financiere/services/hypotheques/resilier-hypotheque.html",
    "title": "Résilier votre hypothèque",
    "publisher": "Agence de la consommation en matière financière du Canada",
-   "consulted": "2026-09-23",
-   "supports": "Résilier une hypothèque fermée oblige habituellement à payer une pénalité pour remboursement anticipé, qui peut coûter des milliers de dollars. Liste des frais à vérifier : pénalité, administration, évaluation, réinvestissement, quittance et enregistrement. Option de fusion et prolongation, avec l'exemple d'un solde de 200 000 $ à 5,5 % et 24 mois restants, nouveau taux de 4 % sur cinq ans, taux fusionné de 4,6 % sur 60 mois."
+   "consulted": "2026-10-31",
+   "supports": "Résilier une hypothèque fermée oblige habituellement à payer une pénalité pour remboursement anticipé, qui peut coûter des milliers de dollars. Liste des frais à vérifier : pénalité, administration, évaluation, réinvestissement, quittance et enregistrement. Option de fusion et prolongation, avec l'exemple d'un solde de 200 000 $ à 5,5 % et 24 mois restants, nouveau taux de 4 % sur cinq ans, taux fusionné de 4,6 % sur 60 mois. Relu le 2026-10-31 (page datée du 2025-10-15), contenu et exemple de fusion et prolongation inchangés."
   },
   {
    "url": "https://www.canada.ca/en/financial-consumer-agency/services/industry/laws-regulations/mortgage-prepayment-information-code.html",
@@ -82,8 +85,8 @@
    "url": "https://www.banqueducanada.ca/grandes-fonctions/politique-monetaire/taux-directeur/",
    "title": "Taux directeur",
    "publisher": "Banque du Canada",
-   "consulted": "2026-09-23",
-   "supports": "Taux cible du financement à un jour maintenu à 2,25 % le 2 septembre 2026, prochaine annonce prévue le 28 octobre 2026."
+   "consulted": "2026-10-31",
+   "supports": "Taux cible du financement à un jour relevé de 25 points de base à 2,50 % le 28 octobre 2026; prochaine annonce prévue le 9 décembre 2026. Remplace la mention du maintien à 2,25 % le 2 septembre 2026."
   }
  ],
  "review_status": {
@@ -95,6 +98,7 @@
  "claims_needing_review": [
   "Illustration arithmétique de la section sur le taux affiché contre le taux consenti : les chiffres (solde de 300 000 $, 30 mois restants, taux au contrat de 5 %, taux affiché à la signature de 6,5 %, taux affiché courant de 4 %) sont inventés pour démontrer la mécanique et sont présentés comme tels dans le texte. Les trois résultats (3 750 $, 7 500 $, 30 000 $) sont arithmétiquement exacts selon la méthode décrite par l'ACFC, mais ne proviennent d'aucune source et ne reflètent aucun taux du marché. À faire valider par un courtier hypothécaire avant publication.",
   "Affirmation selon laquelle beaucoup de contrats à taux variable prévoient les trois mois d'intérêts : aucune source officielle ne le chiffre. Le texte le présente comme une pratique courante et non comme une règle, et renvoie au contrat. À faire valider.",
-  "Le lien interne vers /articles/refinancement-hypothecaire-quebec/ pointe vers un article publié le 2026-09-15 mais absent de state/internal_links_fr.md à la date de rédaction. Vérifier que l'URL est bien en ligne avant publication."
+  "RÉSOLU le 2026-10-31. Le lien /articles/refinancement-hypothecaire-quebec/ pointe vers un article publié (content/fr/articles/refinancement-hypothecaire-quebec.md, draft: false).",
+  "Les formules en une ligne (trois mois d'intérêts = solde x taux / 12 x 3; différentiel = solde x écart de taux x mois restants / 12) sont la traduction arithmétique de la méthode de l'ACFC et reproduisent son exemple (3 000 $ et 12 000 $). Le prêteur peut appliquer une méthode plus fine prévue au contrat; le texte renvoie à son état écrit pour le montant exact."
  ]
 }

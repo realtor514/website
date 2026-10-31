@@ -1,13 +1,33 @@
 ---
-title: "Vice caché au Québec : les conditions et vos recours"
+title: "Vice caché au Québec : les conditions, les délais et vos recours"
+seo_title: "Vice caché au Québec : conditions, délais et recours"
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-31
 translationKey: "article-vice-cache-recours"
 category: "Immobilier 101"
-description: "Vice caché maison Québec : les quatre conditions de l'article 1726, la dénonciation écrite obligatoire, vos recours et le délai de trois ans."
+description: "Vice caché au Québec : les 4 conditions de l'art. 1726, la dénonciation écrite (art. 1739), 3 ans pour poursuivre, vente sans garantie et qui consulter."
 image: "images/articles/vice-cache-conditions-recours-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Au Québec, l'article 1726 du Code civil oblige le vendeur à garantir que la maison est exempte de vices cachés au moment de la vente, même s'il ignorait le vice."
+  - "Le vice caché doit remplir quatre conditions cumulatives : il est caché, grave, antérieur à la vente et inconnu de l'acheteur."
+  - "L'acheteur doit dénoncer le vice par écrit au vendeur dans un délai raisonnable après sa découverte (article 1739), généralement de 6 mois à un an selon Éducaloi, et ne pas réparer avant, sauf urgence."
+  - "L'action se prescrit par trois ans (article 2925), à compter de la découverte du vice ou de la première manifestation du préjudice (article 2926), et non de la date d'achat."
+  - "Une vente sans garantie légale peut exclure la garantie (article 1732), mais le vendeur qui tait un vice qu'il connaissait ne peut s'en libérer, sauf si l'acheteur achète à ses risques et périls d'un vendeur non professionnel (article 1733)."
+faq:
+  - q: "Combien de temps dure la garantie légale sur une maison au Québec ?"
+    a: "Le Code civil ne fixe pas de durée à la garantie de qualité : elle couvre les vices qui existaient au moment de la vente. Ce sont les délais d'action qui limitent le recours : une dénonciation écrite dans un délai raisonnable (article 1739), puis trois ans à partir de la découverte pour poursuivre (articles 2925 et 2926)."
+  - q: "Quel est le délai pour dénoncer un vice caché ?"
+    a: "Un délai raisonnable depuis la découverte, selon l'article 1739. Éducaloi le situe généralement entre 6 mois et un an, plus long si le vice se manifeste de façon saisonnière. Quand le vice apparaît graduellement, le délai court du jour où l'acheteur a pu en soupçonner la gravité et l'étendue."
+  - q: "Qui consulter pour un vice caché à Laval ou à Montréal ?"
+    a: "Un expert en bâtiment pour établir l'antériorité du vice et le coût des travaux, puis un avocat pour la mise en demeure et la poursuite. Le répertoire du Barreau du Québec permet de chercher un avocat par région, langue parlée et domaine de droit. Les mêmes articles du Code civil s'appliquent à Laval, à Montréal et partout au Québec."
+  - q: "Peut-on poursuivre pour un vice caché aux petites créances ?"
+    a: "Oui, si la somme réclamée est de 15 000 $ ou moins, sans compter les intérêts. Les parties s'y représentent sans avocat, et un acheteur peut réduire sa réclamation à 15 000 $ pour y accéder."
+  - q: "L'inspecteur n'a rien vu : ai-je encore un recours ?"
+    a: "En principe, oui : Éducaloi rappelle qu'une inspection ne garantit pas l'absence de vice. Si le rapport recommandait une vérification plus poussée que vous n'avez pas faite, cette phrase sera toutefois opposée à votre diligence."
+  - q: "Puis-je faire les travaux et envoyer la facture au vendeur ?"
+    a: "C'est le scénario le plus risqué. Éducaloi demande de ne pas commencer les réparations à vos frais, parce que le vendeur doit pouvoir vérifier le vice, constater les dommages et réparer lui-même. Seules les réparations urgentes font exception."
 ---
 
 L'eau arrive au printemps, dans un sous-sol fini acheté l'automne précédent.
@@ -157,7 +177,34 @@ recours contre les propriétaires antérieurs dépend donc des actes précédent
 détaillés dans [vente sans garantie légale au
 Québec](/articles/vente-sans-garantie-legale-quebec/).
 
+## Vente sans garantie légale : ce que permettent les articles 1732 et 1733
+
+**La garantie de qualité peut être réduite ou exclue par contrat.** L'article
+1732 permet aux parties d'ajouter aux obligations de la garantie légale, d'en
+diminuer les effets ou de l'exclure entièrement. La même phrase pose une limite :
+le vendeur ne peut, en aucun cas, se dégager de ses faits personnels.
+
+**L'exclusion ne protège pas le vendeur qui savait.** L'article 1733 interdit au
+vendeur d'exclure ou de limiter sa responsabilité s'il n'a pas révélé les vices
+qu'il connaissait ou ne pouvait ignorer. Une seule exception : l'acheteur qui
+achète à ses risques et périls d'un vendeur non professionnel.
+
+| Clause à l'acte | Effet sur le recours pour vice caché |
+|---|---|
+| Garantie légale complète | Les quatre conditions et la dénonciation écrite s'appliquent |
+| Sans garantie légale, vendeur qui ignorait le vice | Le recours est en principe exclu |
+| Sans garantie légale, vendeur qui connaissait le vice et l'a tu | L'exclusion ne s'applique pas (article 1733) |
+| Aux risques et périls de l'acheteur, vendeur non professionnel | L'exclusion peut être opposée même pour un vice connu du vendeur (article 1733), sous réserve de ses faits personnels (article 1732) |
+
+Lisez donc la clause de garantie de votre acte de vente avant toute démarche :
+c'est elle qui dit si les sections suivantes vous concernent.
+
 ## Trois ans pour agir, et le tribunal qui vous entendra
+
+**Combien de temps dure la garantie légale ?** Le Code civil ne lui fixe pas de
+durée : elle porte sur les vices qui existaient au moment de la vente, quelle que
+soit la date où ils se révèlent. Ce sont les délais d'action qui limitent le
+recours.
 
 L'article 2925 fixe à trois ans la prescription d'une action personnelle dont
 le délai n'est pas autrement fixé, et Éducaloi précise le point de départ pour
@@ -173,7 +220,33 @@ non compris, et Éducaloi donne comme exemple la réclamation du coût des trava
 au vendeur pour un vice caché. Vous y agissez seul, sans avocat, et vous pouvez
 réduire votre réclamation à 15 000 $ pour y accéder même si les travaux coûtent
 21 000 $. Une médiation gratuite y est offerte. Au-delà, il faut un avocat, et
-aucune source officielle ne me permet d'avancer un coût moyen.
+aucune source officielle ne publie de coût moyen pour une telle poursuite.
+
+## Inspecteur, expert en bâtiment, avocat : qui fait quoi
+
+**L'inspecteur préachat constate.** Son inspection est visuelle, rappelle
+Éducaloi. Le guide de l'Ordre des ingénieurs du Québec précise qu'un rapport
+d'inspection préachat ne consiste qu'en des constats et ne permet généralement
+pas de déterminer la cause d'une détérioration ni la méthode pour la réparer. Les
+critères pour en retenir un sont dans [choisir un inspecteur en bâtiment au
+Québec](/articles/choisir-inspecteur-batiment-quebec/).
+
+**L'expert en bâtiment établit la cause et l'antériorité.** C'est son rapport qui
+démontre que le vice existait avant la vente et qui chiffre les travaux. Pour une
+fondation, l'avis sur les conséquences d'une fissure est un mandat d'ingénierie :
+voyez [fissure de fondation au Québec : cause, réparation et
+recours](/articles/fissures-affaissement-fondation-expertise-quebec/). Pour une
+moisissure, les étapes propres à ce cas sont dans [moisissure dans une maison au
+Québec](/articles/moisissure-maison-detection-recours-quebec/).
+
+**L'avocat conseille sur les délais, rédige la mise en demeure et plaide
+au-delà de 15 000 $.** Le répertoire du Barreau du Québec permet de chercher un
+avocat par région, langue parlée et domaine de droit, ce qui sert autant à Laval
+qu'à Montréal : les articles 1726 à 1739 du Code civil s'appliquent de la même
+façon partout au Québec.
+
+**Le notaire relit les actes.** La clause de garantie de votre acte et celles des
+ventes antérieures décident contre qui le recours existe encore.
 
 ## La première semaine après la découverte
 
@@ -191,26 +264,15 @@ aucune source officielle ne me permet d'avancer un coût moyen.
 7. **Tout consigner** : dates, appels, réponses. C'est ce dossier qui vaudra
    devant le juge, pas votre souvenir.
 
-## Questions fréquentes
+Si le vice vient d'un propriétaire antérieur, la garantie se transmet le long de
+la chaîne des ventes, mais une vente antérieure faite aux risques et périls de
+l'acheteur la rompt, note l'OACIQ. Demandez au notaire de vérifier les actes
+antérieurs avant de choisir contre qui vous agissez.
 
-**J'ai fait inspecter et l'inspecteur n'a rien vu. Ai-je encore un recours ?**
-Oui, en principe. Éducaloi rappelle qu'une inspection ne garantit pas l'absence
-de vice. Relisez toutefois le rapport : s'il recommandait une vérification plus
-poussée que vous n'avez pas faite, cette phrase sera opposée à votre diligence.
-
-**Puis-je faire les travaux et envoyer la facture au vendeur ?** C'est le
-scénario le plus risqué. Éducaloi demande de ne pas commencer les réparations à
-vos frais, parce que le vendeur doit pouvoir vérifier le vice, constater les
-dommages et réparer lui-même. Seules les réparations urgentes font exception.
-
-**Le vice vient de l'avant-dernier propriétaire.** La garantie se transmet le
-long de la chaîne des ventes, mais une vente antérieure faite aux risques et
-périls de l'acheteur la rompt, note l'OACIQ. Demandez au notaire de vérifier
-les actes antérieurs avant de choisir contre qui vous agissez.
-
-Pour compléter, lisez [sept échecs qui font dérailler une
-transaction](/articles/worst-real-estate-deal-lessons/) et [se retirer d'une
-propriété : sept signaux qui se vérifient sur
+Pour compléter, lisez [la déclaration du vendeur au
+Québec](/articles/declaration-du-vendeur-quebec/), [sept échecs qui font
+dérailler une transaction](/articles/worst-real-estate-deal-lessons/) et [se
+retirer d'une propriété : sept signaux qui se vérifient sur
 papier](/articles/red-flags-walk-away-property/).
 
 ---

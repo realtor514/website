@@ -1,13 +1,33 @@
 ---
-title: "Grieta en los cimientos en Quebec: diagnóstico y recursos"
+title: "Grieta en los cimientos en Quebec: causa, reparación y recursos"
+seo_title: "Grieta en los cimientos en Quebec: causa y reparación"
 date: 2026-09-13
-lastmod: 2026-09-13
+lastmod: 2026-10-31
 translationKey: "article-foundation-cracks-expertise"
 category: "Guía práctica"
-description: "Grieta en los cimientos en Quebec: arcilla, drenaje, pirita o pirrotina, quién establece la causa, y qué recurso según la edad del edificio."
+description: "Grieta en los cimientos en Quebec: arcilla, drenaje o pirita, quién establece la causa, quién repara (licencia RBQ) y qué recurso según la casa."
 image: "images/articles/fissures-affaissement-fondation-expertise-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Ninguna fuente oficial quebequense fija un ancho de grieta en los cimientos considerado grave: el Ordre des ingénieurs du Québec clasifica la opinión sobre las consecuencias de una grieta en un muro de cimientos entre los mandatos de ingeniería."
+  - "Según el Ordre des ingénieurs, la inspección previa a la compra consiste solo en constataciones y no permite en general determinar la causa de un deterioro ni el método para repararlo."
+  - "Las cuatro causas documentadas son distintas: retracción de suelos arcillosos, drenaje, pirita en el relleno bajo la losa y pirrotina en el hormigón."
+  - "Casa nueva: el artículo 2118 del Código Civil y el plan de garantía cubren durante 5 años después del fin de los trabajos los vicios de construcción y los vicios del suelo. Casa usada: denuncia escrita en un plazo razonable (artículo 1739) y luego 3 años desde el descubrimiento para demandar."
+  - "Según la Ciudad de Montreal, los seguros de hogar en general no cubren el hundimiento de suelos arcillosos; en Laval, el componente de casas agrietadas reembolsó hasta 35 000 $ por residencia en su edición cerrada el 21 de marzo de 2025."
+faq:
+  - q: "¿Es grave una grieta en los cimientos?"
+    a: "Ninguna fuente oficial quebequense publica un umbral de ancho. El Ordre des ingénieurs du Québec clasifica la opinión sobre las consecuencias de una grieta en un muro de cimientos entre los mandatos de ingeniería: fotografíe, ponga fecha y haga examinar."
+  - q: "¿Quién puede determinar la causa de una grieta en los cimientos en Quebec?"
+    a: "Un ingeniero. La inspección previa a la compra solo hace constataciones, según el Ordre des ingénieurs, y la OACIQ precisa que un corredor no puede pronunciarse sobre el origen de unas grietas."
+  - q: "¿Quién repara una grieta en los cimientos?"
+    a: "Un contratista con licencia de la Régie du bâtiment du Québec, que usted puede verificar en el registro de titulares de licencia. Si compró hace poco, denuncie primero el vicio por escrito al vendedor y no repare antes, salvo urgencia."
+  - q: "¿Qué plazo hay para un recurso tras comprar una casa con una grieta?"
+    a: "El artículo 1739 exige una denuncia escrita en un plazo razonable, que Éducaloi sitúa en general entre seis meses y un año. La demanda prescribe luego a los tres años desde el descubrimiento (artículos 2925 y 2926)."
+  - q: "¿Mi seguro de hogar pagará el pilotaje?"
+    a: "La Ciudad de Montreal escribe que los seguros de hogar en general no cubren los daños causados por el hundimiento de suelos arcillosos, y el Bureau d'assurance du Canada indica que no existe ninguna protección para el deslizamiento de terreno. Haga confirmar su caso por su aseguradora."
+  - q: "¿Puedo reparar la grieta antes de vender y no decir nada?"
+    a: "No. La sección D5.2 de las Déclarations du vendeur trata de los problemas que ya afectaron al sótano, entre ellos las grietas en los cimientos, y la D15 pide el año y cómo se resolvió la situación."
 ---
 
 Una grieta no dice qué la causó. Y es la causa, y solo ella, la que decide si
@@ -67,8 +87,8 @@ precisa que proviene de canteras de la Mauricie, que su oxidación es mucho más
 rápida que la de la pirita, y que se recomienda enfáticamente un análisis
 petrográfico por un laboratorio reconocido para todos los inmuebles construidos
 entre 1996 y 2008 en la Mauricie. Dio lugar a un largo litigio judicial en esa
-región, pero no encontré ninguna fuente primaria abierta para resumir su desenlace,
-así que no lo resumo.
+región; ninguna fuente primaria abierta resume su desenlace, que por eso no se
+resume aquí.
 
 | Causa | Dónde actúa | Qué la confirma |
 |---|---|---|
@@ -144,6 +164,31 @@ recursos](/es/articles/vicio-oculto-recurso-quebec/), y la [guía del
 comprador](/es/buyer/) sitúa esta etapa dentro de la transacción. Ningún recurso
 está ganado de antemano: un ingeniero establece una causa, no una sentencia.
 
+## Reparar una grieta en los cimientos en Quebec: quién hace qué
+
+**El ingeniero fija la causa, y por tanto el método.** Una grieta debida a la
+retracción de la arcilla, al drenaje o a la pirita no se repara de la misma
+manera. La guía del Ordre des ingénieurs recuerda que el informe de inspección
+previa a la compra no permite en general determinar la causa de un deterioro ni
+el método para repararlo: es el objeto de una opinión de ingeniero, que conviene
+obtener antes de elegir entre una reparación localizada y obras de
+estabilización como el pilotaje.
+
+**El contratista tiene una licencia de la Régie du bâtiment du Québec.** La RBQ
+pide verificar, antes de contratar a un contratista, que tiene una licencia
+válida, mediante su registro de titulares de licencia. Cada ficha indica los
+datos de contacto, las subcategorías de licencia y las reclamaciones. En febrero
+de 2026, la RBQ constataba que muy pocos consumidores hacen esta verificación.
+Pida el número de licencia y compare la subcategoría con las obras previstas.
+
+**El municipio expide el permiso.** El programa de Laval para casas agrietadas
+exigía obtener el permiso antes de iniciar las obras. Infórmese en su municipio
+antes de firmar el contrato.
+
+**Después de una compra reciente, la denuncia va antes que la reparación.** El
+vendedor debe poder constatar el vicio antes de cualquier reparación, salvo
+urgencia. Una grieta sellada antes de la denuncia escrita es una prueba perdida.
+
 ## Lo que el seguro excluye, y la subvención que existe en Laval
 
 La Ciudad de Montreal lo escribe sin rodeos: «los seguros de hogar en general no
@@ -165,8 +210,8 @@ construcción». Lea esa frase dos veces: la subvención exige la prueba inversa
 de una reclamación contra un contratista, y es el mismo peritaje el que sirve para
 las dos.
 
-La última edición que pude verificar cerraba el 21 de marzo de 2025, con más de 66
-propietarios ayudados desde 2019. La página del programa redirige ahora a la página
+La última edición cuyos criterios se publicaron cerraba el 21 de marzo de 2025,
+con más de 66 propietarios ayudados desde 2019. La página del programa redirige ahora a la página
 general de ayudas: llame a la Ciudad antes de contar con ella.
 
 ## Vender o comprar con una grieta en los cimientos: lo que se declara
@@ -191,37 +236,17 @@ cláusula E2.1, «Peritaje a solicitud del comprador». Es el comprador, y no el
 corredor, quien decide si está satisfecho con los resultados. Note por último las
 secciones D2.13 y D2.14, sobre la negativa de una aseguradora a asegurar o a
 indemnizar: un movimiento de cimientos deja allí una huella que a veces pesa más
-que la grieta misma.
+que la grieta misma. Una reparación documentada tranquiliza; una reparación
+oculta se vuelve una cuestión de buena fe.
 
-## Preguntas frecuentes
+En la Mauricie, la OACIQ señala además que las instituciones financieras exigen
+la prueba de pirrotina antes de otorgar el préstamo, incluso después de una
+inspección tranquilizadora.
 
-**Una grieta vertical y fina en mi sótano, ¿es grave?**
-Ninguna fuente oficial publica un umbral de ancho, así que aquí no figura ninguna
-cifra. El Ordre des ingénieurs clasifica la opinión sobre las consecuencias de una
-grieta en un muro de cimientos entre los mandatos de ingeniería. Fotografíe, ponga
-fecha, haga examinar.
-
-**¿Puedo reparar la grieta antes de vender y no decir nada?**
-No. La sección D5.2 de las Déclarations du vendeur trata de los problemas que ya
-afectaron al sótano, y la D15 pide el año y cómo se resolvió la situación. Una
-reparación documentada tranquiliza; una reparación oculta se vuelve una cuestión de
-buena fe.
-
-**¿Mi seguro de hogar pagará el pilotaje?**
-La Ciudad de Montreal escribe que los seguros de hogar en general no cubren los
-daños causados por el hundimiento de suelos arcillosos, y el Bureau d'assurance du
-Canada indica que no existe ninguna protección para el deslizamiento de terreno.
-Haga confirmar su caso por su aseguradora.
-
-**Compro en la Mauricie: ¿es necesaria la prueba de pirrotina?**
-La OACIQ recomienda enfáticamente un análisis petrográfico por un laboratorio
-reconocido para todos los inmuebles construidos entre 1996 y 2008 en la Mauricie, y
-señala que las instituciones financieras exigen la prueba antes de otorgar el
-préstamo, incluso después de una inspección tranquilizadora.
-
-Para completar, lea [la lista de la inspección previa a la
-compra](/es/articles/home-inspection-checklist-montreal/) y [la garantía GCR de una
-casa nueva](/es/articles/garantia-casa-nueva-quebec/).
+Para completar, lea [elegir un inspector de edificios en
+Quebec](/es/articles/elegir-inspector-vivienda-quebec/), [la inspección previa:
+costo y cuándo hacerla](/es/articles/home-inspection-cost-timing-quebec/) y [la
+venta sin garantía legal en Quebec](/es/articles/venta-sin-garantia-legal-quebec/).
 
 ---
 

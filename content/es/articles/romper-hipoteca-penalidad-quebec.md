@@ -1,13 +1,33 @@
 ---
-title: "Penalidad por romper una hipoteca: el cálculo real en Quebec"
+title: "Penalidad hipotecaria en Quebec: el cálculo, con ejemplos"
+seo_title: "Cálculo de la penalidad hipotecaria en Quebec"
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-31
 translationKey: "article-casser-hypotheque"
 category: "Financiamiento"
-description: "Tres meses de intereses o diferencial de tasas, tasa anunciada o tasa con descuento, carta de pago y Registre foncier: el cálculo real en Quebec."
+description: "Cálculo de la penalidad hipotecaria: 3 meses de intereses o diferencial de tasas, fórmulas, ejemplo de 12 000 $, tasa anunciada y costos en Quebec."
 image: "images/articles/casser-hypotheque-penalite-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Para romper una hipoteca cerrada, la penalidad es normalmente el mayor de dos montos: tres meses de intereses sobre el saldo, o el diferencial de tasas de interés, según la Agencia de Consumo en materia Financiera de Canadá (ACFC)."
+  - "Tres meses de intereses se calculan así: saldo pendiente x tasa anual / 4. Sobre un saldo de 200 000 $ al 6 %, eso da 3 000 $."
+  - "En el ejemplo de la ACFC (200 000 $ al 6 %, 36 meses restantes, tasa anunciada vigente del 4 %), el diferencial de tasas llega a 12 000 $, cuatro veces los tres meses de intereses."
+  - "Qué dos tasas se comparan lo fija el contrato del prestamista: comparar la tasa anunciada inicial con la tasa anunciada vigente menos el descuento concedido puede multiplicar la penalidad. El monto exacto viene del estado escrito del prestamista."
+  - "En Quebec se suman el notario y el Registre foncier: desde el 1 de abril de 2026, 165 $ por solicitud de cancelación y 145 $ para inscribir la nueva hipoteca."
+faq:
+  - q: "¿Cómo se calcula la penalidad hipotecaria?"
+    a: "Calcule dos montos y quédese con el mayor. Tres meses de intereses: saldo x tasa anual / 4. Diferencial de tasas: saldo x (su tasa - tasa de comparación) x meses restantes / 12. Luego el prestamista confirma el monto por escrito."
+  - q: "¿Es fiable una calculadora de penalidad hipotecaria en línea?"
+    a: "Da un orden de magnitud. La ACFC indica que las instituciones financieras ofrecen calculadoras en línea, pero recomienda verificar el monto real con el prestamista, porque la tasa de comparación depende de su contrato y de su descuento."
+  - q: "¿Por qué mi penalidad es mucho más alta que la de mi vecino?"
+    a: "Su penalidad fue probablemente los tres meses de intereses, porque las tasas vigentes no eran más bajas que la suya. O su contrato compara la tasa del contrato con la tasa anunciada vigente, mientras que el de usted parte de la tasa anunciada inicial menos su descuento."
+  - q: "¿Cómo reducir la penalidad por romper una hipoteca?"
+    a: "La ACFC aconseja usar plenamente sus privilegios de pago anticipado y hacer un pago global antes de cancelar: la penalidad se calcula entonces sobre un saldo menor. La fusión y prolongación también permite cambiar de tasa sin penalidad, con posibles gastos administrativos."
+  - q: "¿Conviene esperar al vencimiento de la hipoteca?"
+    a: "A menudo, sí. Al vencimiento, cambiar de prestamista no activa ninguna penalidad. Compare el ahorro mensual multiplicado por los meses restantes con el total de la penalidad y los costos."
+  - q: "¿La subida de la tasa directriz cambia mi penalidad?"
+    a: "No directamente. El Banco de Canadá subió su tasa objetivo al 2,50 % el 28 de octubre de 2026, y el próximo anuncio es el 9 de diciembre de 2026. El diferencial se calcula sobre las tasas hipotecarias anunciadas para un plazo comparable: cuanto más se acercan a la suya, más disminuye."
 ---
 
 Un prestamista le ofrece un punto porcentual menos que su tasa actual. Antes de
@@ -54,12 +74,18 @@ alta que las tasas vigentes y el contrato tiene menos de cinco años. Retenga la
 consecuencia: si las tasas vigentes son iguales o superiores a la suya, el
 diferencial se desploma hacia cero y solo quedan los tres meses de intereses.
 
-Sus privilegios de pago anticipado, por su parte, no activan nada aquí. Están en
-su contrato, y no se aplican a una cancelación completa.
+Sus privilegios de pago anticipado no se aplican a una cancelación completa.
+Sirven antes: la ACFC aconseja usarlos plenamente y hacer un pago global antes de
+cancelar, porque la penalidad se calculará entonces sobre un saldo menor.
 
-## El diferencial de tasas, paso a paso
+## Cálculo de la penalidad hipotecaria: fórmulas y ejemplo con cifras
 
-El método que describe la ACFC tiene cinco gestos.
+**Cada fórmula cabe en una línea.**
+
+- Tres meses de intereses = saldo pendiente x tasa anual del contrato / 12 x 3
+- Diferencial de tasas = saldo pendiente x (tasa del contrato - tasa de comparación) x meses restantes / 12
+
+Para el diferencial, el método que describe la ACFC tiene cinco gestos.
 
 1. Tome el saldo pendiente.
 2. Tome el número de meses que quedan del plazo.
@@ -76,6 +102,13 @@ cuatro. El diferencial da 12 000 $, es decir 200 000 $ multiplicados por la
 brecha de 2 puntos, multiplicados por los tres años restantes. La penalidad
 pagadera es de 12 000 $, más posibles gastos de administración. Cuatro veces el
 monto esperado.
+
+**Estas fórmulas dan un orden de magnitud, no la factura.** La ACFC indica que
+las instituciones financieras ofrecen calculadoras en línea, y recomienda
+verificar el monto real con su prestamista. Una calculadora genérica de penalidad
+hipotecaria no conoce ni su descuento ni el método previsto en su contrato: la
+sección siguiente muestra que ese método, por sí solo, puede multiplicar el
+resultado por cuatro.
 
 Antes de comparar nada, ponga cifras a la diferencia real de pago con la
 [calculadora hipotecaria](/es/tools/mortgage/). Si el ahorro acumulado sobre los
@@ -120,7 +153,7 @@ variable, su tasa justamente no está fijada, lo que priva a la fórmula de su
 término de comparación. Por eso muchos contratos a tasa variable prevén los tres
 meses de intereses.
 
-Lo que no puedo hacer es presentárselo como una regla general. La ACFC no publica
+Sin embargo, no es una regla general. La ACFC no publica
 ninguna escala distinta para la tasa variable, y su ejemplo de recuadro
 informativo para ese producto repite la misma formulación que el de la tasa fija:
 el mayor de los dos montos. Es su contrato el que decide, no la reputación del
@@ -171,7 +204,9 @@ conducta aplicable a las instituciones bajo reglamentación federal prevé que,
 una vez confirmada su intención de reembolsar, el prestamista entregue un estado
 escrito con los cargos aplicables, el método de cálculo, el período de validez
 del monto, los factores que podrían modificarlo y cualquier otra suma adeudada.
-Un monto dado por teléfono no vale nada.
+El mismo código prevé también información anual que explique el método de
+cálculo y los factores que influyen en los cargos, sin ninguna confirmación
+previa. Un monto dado por teléfono no vale nada.
 
 **2. ¿Qué dos tasas usaron, y por qué esas?** El mismo código prevé que, si el
 cálculo se basa en el diferencial, el estado escrito precise el saldo pendiente,
@@ -204,37 +239,21 @@ fusionando el prestamista la tasa antigua con la del nuevo plazo. Su ejemplo:
 200 000 $ al 5,5 % con 24 meses restantes, tasa nueva del 4 % a cinco años, tasa
 fusionada del 4,6 % sobre 60 meses. Pueden aplicarse gastos administrativos.
 
-## Preguntas frecuentes
+**Puede esperar al vencimiento.** Al vencimiento, cambiar de prestamista no
+activa ninguna penalidad, porque ya no queda promesa que romper. Quedan los
+gastos de apertura y, en Quebec, el acta y la cancelación.
 
-**¿Puede mi banco negarse a darme el cálculo antes de que me comprometa?**
-Para una institución bajo reglamentación federal, el código de conducta prevé un
-estado escrito una vez confirmada su intención, e información anual que explique
-el método de cálculo y los factores que influyen en los cargos. Si lo remiten a
-más adelante, pida la información anual: no depende de ninguna confirmación.
-
-**Mi vecino pagó 2 000 $ y yo 14 000 $. ¿Cómo es posible?**
-Su penalidad fue probablemente los tres meses de intereses, porque las tasas
-vigentes no eran más bajas que la suya. O su contrato compara la tasa del
-contrato con la tasa anunciada vigente, mientras que el de usted parte de la tasa
-anunciada inicial menos su descuento.
-
-**¿Conviene esperar al vencimiento?**
-A menudo, sí. Al vencimiento, cambiar de prestamista no activa ninguna penalidad,
-porque ya no queda promesa que romper. Quedan los gastos de apertura y, en
-Quebec, el acta y la cancelación. Compare el ahorro mensual multiplicado por los
-meses restantes con el total de penalidad más costos.
-
-**La tasa directriz baja. ¿Baja también mi penalidad?**
-No de forma mecánica. El Banco de Canadá mantuvo su tasa objetivo de
-financiamiento a un día en 2,25 % el 2 de septiembre de 2026, y el próximo
-anuncio es el 28 de octubre de 2026. Pero el diferencial se calcula sobre las
-tasas hipotecarias anunciadas para un plazo comparable, no sobre la tasa
-directriz. Una baja de las tasas vigentes tiene incluso el efecto contrario:
-ensancha la brecha con su tasa y agranda el diferencial.
+**La tasa directriz no fija la penalidad.** El Banco de Canadá subió su tasa
+objetivo de financiamiento a un día al 2,50 % el 28 de octubre de 2026, y el
+próximo anuncio es el 9 de diciembre de 2026. El diferencial, en cambio, se
+calcula sobre las tasas hipotecarias anunciadas para un plazo comparable. Cuando
+esas tasas bajan, la brecha con su tasa se ensancha y el diferencial crece;
+cuando vuelven a subir hacia su tasa, disminuye.
 
 Para completar, lea
-[lo que se decide antes de su tasa hipotecaria](/es/articles/best-mortgage-rate-canada/)
-y [el papel del notario en Quebec](/es/articles/quebec-notary-process/).
+[vender una casa que vale menos que la hipoteca](/es/articles/vender-casa-vale-menos-hipoteca-quebec/),
+[pagar su hipoteca más rápido](/es/articles/pagar-hipoteca-mas-rapido-quebec/)
+y [¿bajarán las tasas hipotecarias en 2027?](/es/articles/bajaran-tasas-hipotecarias-quebec/).
 
 ---
 

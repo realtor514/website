@@ -1,13 +1,33 @@
 ---
-title: "Mortgage Penalty in Quebec: The Math"
+title: "Mortgage Penalty in Quebec: The Calculation, With Examples"
+seo_title: "Mortgage Penalty Calculation in Quebec"
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-31
 translationKey: "article-casser-hypotheque"
 category: "Finance"
-description: "Three months' interest or the interest rate differential, posted rate versus discounted rate, discharge and the Registre foncier: the real math in Quebec."
+description: "Mortgage penalty calculation: 3 months' interest or the rate differential, formulas, a $12,000 example, the posted rate trap and Quebec fees."
 image: "images/articles/casser-hypotheque-penalite-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "To break a closed mortgage, the penalty is usually the higher of two amounts: three months' interest on the balance, or the interest rate differential, according to the Financial Consumer Agency of Canada (FCAC)."
+  - "Three months' interest is calculated as: outstanding balance x annual rate / 4. On a $200,000 balance at 6%, that gives $3,000."
+  - "In FCAC's example ($200,000 at 6%, 36 months left, current posted rate of 4%), the interest rate differential reaches $12,000, four times the three months' interest."
+  - "Which two rates are compared is set by the lender's contract: comparing the original posted rate with the current posted rate minus the discount you received can multiply the penalty. The exact amount comes from the lender's written statement."
+  - "In Quebec, the notary and the Registre foncier add their share: since April 1, 2026, $165 per application to cancel the old mortgage and $145 to register the new one."
+faq:
+  - q: "How do I calculate my mortgage penalty?"
+    a: "Calculate two amounts and keep the higher one. Three months' interest: balance x annual rate / 4. Interest rate differential: balance x (your rate - comparison rate) x months left / 12. The lender then confirms the amount in writing."
+  - q: "Is an online mortgage penalty calculator reliable?"
+    a: "It gives an order of magnitude. FCAC notes that financial institutions offer online calculators, but recommends checking the actual amount with your lender, because the comparison rate depends on your contract and your discount."
+  - q: "Why is my penalty much higher than my neighbour's?"
+    a: "His penalty was probably the three months' interest, because current rates were not lower than his. Or his contract compares the contract rate to the current posted rate, while yours starts from the original posted rate reduced by your discount."
+  - q: "How can I reduce the penalty for breaking my mortgage?"
+    a: "FCAC advises using your prepayment privileges in full and making a lump-sum payment before you break the mortgage: the penalty is then calculated on a lower balance. A blend and extend also lets you change rates without a penalty, with possible administration fees."
+  - q: "Is it better to wait until the mortgage matures?"
+    a: "Often, yes. At maturity, switching lenders triggers no penalty. Compare the monthly saving multiplied by the months left against the total of the penalty and fees."
+  - q: "Does the rise in the policy rate change my penalty?"
+    a: "Not directly. The Bank of Canada raised its target rate to 2.50% on October 28, 2026, with the next announcement on December 9, 2026. The differential is calculated on posted mortgage rates for a comparable term: the closer those rates get to yours, the smaller it becomes."
 ---
 
 A lender offers you a full percentage point below your current rate. Before you
@@ -53,12 +73,19 @@ than prevailing rates and the contract is less than five years old. Hold on to
 the consequence: if current rates are equal to or higher than yours, the
 differential collapses toward zero and only the three months' interest remains.
 
-Your prepayment privileges, for their part, trigger nothing here. They are in
-your contract, and they do not apply to a full cancellation.
+Your prepayment privileges do not apply to a full cancellation. They work
+before it: FCAC advises using them in full and making a lump-sum payment before
+you break the mortgage, because the penalty will then be calculated on a lower
+balance.
 
-## The interest rate differential, step by step
+## Mortgage penalty calculation: formulas and a worked example
 
-The method FCAC describes has five moves.
+**Each formula fits on one line.**
+
+- Three months' interest = outstanding balance x contract annual rate / 12 x 3
+- Interest rate differential = outstanding balance x (contract rate - comparison rate) x months left / 12
+
+For the differential, the method FCAC describes has five moves.
 
 1. Take the outstanding balance.
 2. Take the number of months left in the term.
@@ -73,6 +100,12 @@ $200,000 multiplied by 6%, divided by four. The differential gives $12,000, that
 is $200,000 multiplied by the 2-point gap, multiplied by the three remaining
 years. The penalty payable is $12,000, plus possible administration fees. Four
 times the expected amount.
+
+**These formulas give an order of magnitude, not the bill.** FCAC notes that
+financial institutions offer online calculators, and recommends checking the
+actual amount with your lender. A generic mortgage penalty calculator knows
+neither your discount nor the method set out in your contract: the next section
+shows that this method alone can multiply the result by four.
 
 Before you compare anything, put a number on the real payment difference with the
 [mortgage calculator](/en/tools/mortgage/). If the savings accumulated over the
@@ -117,7 +150,7 @@ interest at two rates set for the time that is left. On a variable rate, your
 rate is precisely not set, which deprives the formula of its term of comparison.
 Many variable-rate contracts therefore provide for the three months' interest.
 
-What I cannot do is present that to you as a general rule. FCAC publishes no
+That is not a general rule, though. FCAC publishes no
 separate scale for variable rates, and its sample information box for that
 product repeats the same wording as the fixed-rate one: the higher of the two
 amounts. Your contract decides, not the product's reputation.
@@ -165,7 +198,9 @@ repaid.
 of conduct applicable to federally regulated institutions provides that once your
 intention to repay is confirmed, the lender gives you a written statement setting
 out the applicable charges, the calculation method, how long the amount stays
-valid, the factors that could change it and any other amount owing. A number
+valid, the factors that could change it and any other amount owing. The same
+code also provides for annual information explaining the calculation method and
+the factors that affect the charges, with no prior confirmation needed. A number
 given over the phone is worth nothing.
 
 **2. Which two rates did you use, and why those?** The same code provides that if
@@ -199,36 +234,21 @@ penalty, the lender blending the old rate with the rate for the new term. Its
 example: $200,000 at 5.5% with 24 months left, a new rate of 4% over five years,
 a blended rate of 4.6% over 60 months. Administration fees may apply.
 
-## Frequently asked questions
+**You can wait for maturity.** At maturity, switching lenders triggers no
+penalty, because there is no promise left to break. What remains is the setup
+costs and, in Quebec, the deed and the cancellation.
 
-**Can my bank refuse to give me the calculation before I commit?**
-For a federally regulated institution, the code of conduct provides for a written
-statement once your intention is confirmed, and annual information explaining the
-calculation method and the factors that affect the charges. If you get put off,
-ask for the annual information: it does not depend on any confirmation.
-
-**My neighbour paid $2,000 and I paid $14,000. How is that possible?**
-His penalty was probably the three months' interest, because current rates were
-not lower than his. Or his contract compares the contract rate to the current
-posted rate, while yours starts from the original posted rate reduced by your
-discount.
-
-**Is it better to wait for maturity?**
-Often, yes. At maturity, switching lenders triggers no penalty, because there is
-no promise left to break. What remains is the setup costs and, in Quebec, the
-deed and the cancellation. Compare the monthly saving multiplied by the months
-left against the total of penalty plus fees.
-
-**The policy rate is falling. Does my penalty fall too?**
-Not mechanically. The Bank of Canada held its target for the overnight rate at
-2.25% on September 2, 2026, with the next announcement on October 28, 2026. But
-the differential is calculated on posted mortgage rates for a comparable term,
-not on the policy rate. A drop in current rates actually has the opposite effect:
-it widens the gap with your rate and grows the differential.
+**The policy rate does not set the penalty.** The Bank of Canada raised its
+target for the overnight rate to 2.50% on October 28, 2026, with the next
+announcement on December 9, 2026. The differential, for its part, is calculated
+on posted mortgage rates for a comparable term. When those rates fall, the gap
+with your rate widens and the differential grows; when they climb back toward
+your rate, it shrinks.
 
 To go further, read
-[what gets decided before your mortgage rate](/en/articles/best-mortgage-rate-canada/)
-and [the notary's role in Quebec](/en/articles/quebec-notary-process/).
+[selling a home worth less than the mortgage](/en/articles/selling-underwater-mortgage-quebec/),
+[paying off your mortgage faster](/en/articles/pay-off-mortgage-faster-quebec/)
+and [will mortgage rates go down in 2027](/en/articles/will-mortgage-rates-go-down-quebec/).
 
 ---
 

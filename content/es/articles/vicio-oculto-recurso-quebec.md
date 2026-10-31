@@ -1,13 +1,33 @@
 ---
-title: "Vicio oculto en Quebec: los recursos"
+title: "Vicio oculto en Quebec: condiciones, plazos y recursos"
+seo_title: "Vicio oculto en Quebec: condiciones, plazos y recursos"
 date: 2026-09-23
-lastmod: 2026-09-23
+lastmod: 2026-10-31
 translationKey: "article-vice-cache-recours"
 category: "Inmobiliaria 101"
-description: "Vicio oculto en una casa de Quebec: las cuatro condiciones del artículo 1726, la denuncia escrita obligatoria, sus recursos y el plazo de tres años."
+description: "Vicio oculto en Quebec: las 4 condiciones del art. 1726, la denuncia escrita (art. 1739), 3 años para demandar, venta sin garantía y a quién consultar."
 image: "images/articles/vice-cache-conditions-recours-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "En Quebec, el artículo 1726 del Código Civil obliga al vendedor a garantizar que la casa está exenta de vicios ocultos al momento de la venta, aunque ignorara el vicio."
+  - "El vicio oculto debe cumplir cuatro condiciones acumulativas: es oculto, grave, anterior a la venta y desconocido para el comprador."
+  - "El comprador debe denunciar el vicio por escrito al vendedor dentro de un plazo razonable después de descubrirlo (artículo 1739), en general de 6 meses a un año según Éducaloi, y no reparar antes, salvo urgencia."
+  - "La acción prescribe a los tres años (artículo 2925), contados desde el descubrimiento del vicio o la primera manifestación del perjuicio (artículo 2926), y no desde la fecha de compra."
+  - "Una venta sin garantía legal puede excluir la garantía (artículo 1732), pero el vendedor que calla un vicio que conocía no puede ampararse en ella, salvo si el comprador compra a su riesgo de un vendedor no profesional (artículo 1733)."
+faq:
+  - q: "¿Cuánto dura la garantía legal de una casa en Quebec?"
+    a: "El Código Civil no fija una duración a la garantía de calidad: cubre los vicios que existían al momento de la venta. Lo que limita el recurso son los plazos para actuar: una denuncia escrita en un plazo razonable (artículo 1739) y luego tres años desde el descubrimiento para demandar (artículos 2925 y 2926)."
+  - q: "¿Cuál es el plazo para denunciar un vicio oculto?"
+    a: "Un plazo razonable desde el descubrimiento, según el artículo 1739. Éducaloi lo sitúa en general entre 6 meses y un año, más largo si el vicio se manifiesta de forma estacional. Cuando el vicio aparece gradualmente, el plazo corre desde el día en que el comprador pudo sospechar su gravedad y su extensión."
+  - q: "¿A quién consultar por un vicio oculto en Laval o en Montreal?"
+    a: "A un perito en construcción para establecer la anterioridad del vicio y el costo de los trabajos, y luego a un abogado para la intimación formal y la demanda. El directorio del Barreau du Québec permite buscar un abogado por región, idioma y área del derecho. Los mismos artículos del Código Civil se aplican en Laval, en Montreal y en todo Quebec."
+  - q: "¿Se puede demandar por un vicio oculto en pequeñas reclamaciones?"
+    a: "Sí, si la suma reclamada es de 15 000 $ o menos, sin contar los intereses. Las partes se representan allí sin abogado, y un comprador puede reducir su reclamación a 15 000 $ para acceder."
+  - q: "El inspector no vio nada: ¿tengo todavía un recurso?"
+    a: "En principio, sí: Éducaloi recuerda que una inspección no garantiza la ausencia de vicio. Pero si el informe recomendaba una verificación más profunda que usted no hizo, esa frase se opondrá a su diligencia."
+  - q: "¿Puedo hacer los trabajos y enviar la factura al vendedor?"
+    a: "Es el escenario más riesgoso. Éducaloi pide no comenzar las reparaciones a su cargo, porque el vendedor debe poder verificar el vicio, constatar los daños y reparar él mismo. Solo las reparaciones urgentes son una excepción."
 ---
 
 El agua llega en primavera, en un sótano terminado comprado el otoño anterior.
@@ -154,7 +174,34 @@ de las garantías: a partir de ahí quedan reiniciadas. Su recurso contra los
 propietarios anteriores depende, por tanto, de las escrituras precedentes, y
 una sola venta sin garantía legal en esa cadena basta para cortarla.
 
+## Venta sin garantía legal: lo que permiten los artículos 1732 y 1733
+
+**La garantía de calidad puede reducirse o excluirse por contrato.** El artículo
+1732 permite a las partes añadir obligaciones a la garantía legal, disminuir sus
+efectos o excluirla por completo. La misma frase fija un límite: el vendedor no
+puede, en ningún caso, librarse de sus hechos personales.
+
+**La exclusión no protege al vendedor que sabía.** El artículo 1733 prohíbe al
+vendedor excluir o limitar su responsabilidad si no reveló los vicios que conocía
+o no podía ignorar. Una sola excepción: el comprador que compra a su riesgo y
+ventura a un vendedor no profesional. El detalle está en
+[venta sin garantía legal en Quebec](/es/articles/venta-sin-garantia-legal-quebec/).
+
+| Cláusula en la escritura | Efecto sobre el recurso por vicio oculto |
+|---|---|
+| Garantía legal completa | Se aplican las cuatro condiciones y la denuncia escrita |
+| Sin garantía legal, vendedor que ignoraba el vicio | El recurso queda en principio excluido |
+| Sin garantía legal, vendedor que conocía el vicio y lo calló | La exclusión no se aplica (artículo 1733) |
+| A riesgo y ventura del comprador, vendedor no profesional | La exclusión puede oponerse incluso por un vicio conocido del vendedor (artículo 1733), salvo sus hechos personales (artículo 1732) |
+
+Lea entonces la cláusula de garantía de su escritura de venta antes de cualquier
+gestión: es ella la que dice si las secciones siguientes le conciernen.
+
 ## Tres años para actuar, y el tribunal que lo escuchará
+
+**¿Cuánto dura la garantía legal?** El Código Civil no le fija una duración:
+recae sobre los vicios que existían al momento de la venta, sea cual sea la
+fecha en que se revelen. Son los plazos para actuar los que limitan el recurso.
 
 El artículo 2925 fija en tres años la prescripción de una acción personal cuyo
 plazo no está fijado de otro modo, y Éducaloi precisa el punto de partida para
@@ -170,7 +217,33 @@ ejemplo la reclamación al vendedor del costo de los trabajos por un vicio
 oculto. Usted actúa solo, sin abogado, y puede reducir su reclamación a
 15 000 $ para acceder a ella aunque los trabajos cuesten 21 000 $. Se ofrece
 una mediación gratuita. Por encima de ese monto hace falta un abogado, y
-ninguna fuente oficial me permite adelantar un costo promedio.
+ninguna fuente oficial publica un costo promedio para una demanda así.
+
+## Inspector, perito en construcción, abogado: quién hace qué
+
+**El inspector previo a la compra constata.** Su inspección es visual, recuerda
+Éducaloi. La guía del Ordre des ingénieurs du Québec precisa que un informe de
+inspección previa a la compra consiste solo en constataciones y no permite en
+general determinar la causa de un deterioro ni el método para repararlo. Los
+criterios para contratar uno están en [elegir un inspector de edificios en
+Quebec](/es/articles/elegir-inspector-vivienda-quebec/).
+
+**El perito en construcción establece la causa y la anterioridad.** Es su
+informe el que demuestra que el vicio existía antes de la venta y el que cifra
+los trabajos. Para unos cimientos, la opinión sobre las consecuencias de una
+grieta es un mandato de ingeniería: vea [grieta en los cimientos en Quebec:
+causa, reparación y recursos](/es/articles/grietas-cimientos-diagnostico-quebec/).
+Para el moho, los pasos propios de ese caso están en [moho en una vivienda en
+Quebec](/es/articles/moho-vivienda-quebec/).
+
+**El abogado aconseja sobre los plazos, redacta la intimación formal y litiga
+por encima de 15 000 $.** El directorio del Barreau du Québec permite buscar un
+abogado por región, idioma y área del derecho, lo que sirve tanto en Laval como
+en Montreal: los artículos 1726 a 1739 del Código Civil se aplican de la misma
+manera en todo Quebec.
+
+**El notario relee las escrituras.** La cláusula de garantía de su escritura y
+las de las ventas anteriores deciden contra quién existe todavía el recurso.
 
 ## La primera semana después del descubrimiento
 
@@ -189,26 +262,15 @@ ninguna fuente oficial me permite adelantar un costo promedio.
 7. **Consignarlo todo**: fechas, llamadas, respuestas. Es ese expediente el que
    valdrá ante el juez, no su recuerdo.
 
-## Preguntas frecuentes
-
-**Hice inspeccionar y el inspector no vio nada. ¿Tengo todavía un recurso?**
-Sí, en principio. Éducaloi recuerda que una inspección no garantiza la ausencia
-de vicio. Relea sin embargo el informe: si recomendaba una verificación más
-profunda que usted no hizo, esa frase se opondrá a su diligencia.
-
-**¿Puedo hacer los trabajos y enviar la factura al vendedor?** Es el escenario
-más riesgoso. Éducaloi pide no comenzar las reparaciones a su cargo, porque el
-vendedor debe poder verificar el vicio, constatar los daños y reparar él mismo.
-Solo las reparaciones urgentes son una excepción.
-
-**El vicio viene del penúltimo propietario.** La garantía se transmite a lo
-largo de la cadena de ventas, pero una venta anterior hecha a riesgo y ventura
-del comprador la rompe, señala la OACIQ. Pida al notario que verifique las
+Si el vicio viene de un propietario anterior, la garantía se transmite a lo largo
+de la cadena de ventas, pero una venta anterior hecha a riesgo y ventura del
+comprador la rompe, señala la OACIQ. Pida al notario que verifique las
 escrituras anteriores antes de elegir contra quién actúa.
 
-Para completar, lea [siete fallas que descarrilan una
-transacción](/es/articles/worst-real-estate-deal-lessons/) y [retirarse de una
-propiedad: siete señales que se verifican en
+Para completar, lea [las declaraciones del vendedor en
+Quebec](/es/articles/declaraciones-del-vendedor-quebec/), [siete fallas que
+descarrilan una transacción](/es/articles/worst-real-estate-deal-lessons/) y
+[retirarse de una propiedad: siete señales que se verifican en
 papel](/es/articles/red-flags-walk-away-property/).
 
 ---
