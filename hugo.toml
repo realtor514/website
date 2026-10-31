@@ -864,6 +864,13 @@ disableKinds = ["taxonomy", "term"]
   [[module.mounts]]
     source = "static/css"
     target = "assets/css"
+  # Les fiches de sources des articles (meta/fr/<slug>.json) deviennent des
+  # donnees lisibles par les gabarits: site.Data.sources.<slug>. Le bas de
+  # chaque article affiche ainsi ses sources officielles, ce que Google et les
+  # moteurs de reponse (ChatGPT, Perplexity) prennent en compte pour citer.
+  [[module.mounts]]
+    source = "meta/fr"
+    target = "data/sources"
 
 [markup]
   [markup.goldmark]

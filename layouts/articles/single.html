@@ -19,6 +19,13 @@
     <p class="content-hero__meta">
       {{ if $isFr }}Par{{ else if $isAr }}بقلم{{ else if $isEs }}Por{{ else }}By{{ end }} <strong style="color:rgba(255,255,255,.9)">{{ if $isAr }}جورج مطر{{ else }}Georges Matar{{ end }}</strong> &middot;
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ partial "localized-date.html" . }}</time>
+      {{/* Date de mise a jour visible quand l article a ete revu apres sa
+           publication: Google et les moteurs de reponse privilegient une
+           information dont la fraicheur se lit sur la page. */}}
+      {{ if gt (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }}
+      &middot; {{ if $isFr }}Mis à jour le{{ else if $isAr }}حُدِّث في{{ else if $isEs }}Actualizado el{{ else }}Updated{{ end }}
+      <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ partial "localized-date.html" (dict "Date" .Lastmod "Lang" .Lang) }}</time>
+      {{ end }}
       &middot; {{ .ReadingTime }} {{ if $isFr }}min de lecture{{ else if $isAr }}دقائق قراءة{{ else if $isEs }}min de lectura{{ else }}min read{{ end }}
     </p>
   </div>
@@ -50,7 +57,48 @@
   </p>
   {{ end }}
 
+  {{/* L essentiel: 3 a 5 phrases autonomes en tete d article, chacune avec
+       son chiffre et sa date. C est le passage que Google et les moteurs de
+       reponse extraient le plus volontiers pour citer la page. Frontmatter:
+         tldr:
+           - "Phrase complete, chiffree et datee." */}}
+  {{ with .Params.tldr }}
+  <aside class="article-essentiel">
+    <p class="article-essentiel__titre">{{ if $isFr }}L&rsquo;essentiel{{ else if $isAr }}باختصار{{ else if $isEs }}Lo esencial{{ else }}Key points{{ end }}</p>
+    <ul>{{ range . }}<li>{{ . | markdownify }}</li>{{ end }}</ul>
+  </aside>
+  {{ end }}
+
   {{ .Content }}
+
+  {{/* FAQ visible: les memes questions que le balisage FAQPage de seo.html.
+       Google refuse un balisage dont le texte n est pas affiche sur la page. */}}
+  {{ with .Params.faq }}
+  <section class="article-faq">
+    <h2>{{ if $isFr }}Questions fréquentes{{ else if $isAr }}أسئلة شائعة{{ else if $isEs }}Preguntas frecuentes{{ else }}Frequently asked questions{{ end }}</h2>
+    <div class="faq-list">
+      {{ range . }}
+      <details class="faq-item">
+        <summary class="faq-item__q">{{ .q }}</summary>
+        <div class="faq-item__a">{{ .a | markdownify }}</div>
+      </details>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* Sources officielles, tirees de meta/fr/<slug>.json. Elles restent dans
+       la langue de publication de l organisme (le plus souvent le francais). */}}
+  {{ with partial "article-sources.html" . }}
+  <section class="article-sources">
+    <h2>{{ if $isFr }}Sources{{ else if $isAr }}المصادر{{ else if $isEs }}Fuentes{{ else }}Sources{{ end }}</h2>
+    <ol>
+      {{ range . }}
+      <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>{{ with .publisher }}, {{ . }}{{ end }}{{ with .consulted }} <span class="article-sources__date">({{ if $isFr }}consulté le{{ else if $isAr }}اطُّلع عليه في{{ else if $isEs }}consultado el{{ else }}accessed{{ end }} <span dir="ltr">{{ . }}</span>)</span>{{ end }}</li>
+      {{ end }}
+    </ol>
+  </section>
+  {{ end }}
 
   {{/* Mention affichee sur les seuls articles marques `needs_expert_review`
        dans leur frontmatter. Le drapeau existait deja mais n etait rendu

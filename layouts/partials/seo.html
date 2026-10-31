@@ -227,6 +227,15 @@
         "mainEntityOfPage" (dict "@id" $pageID)
   -}}
   {{- with .Params.category }}{{ $article = merge $article (dict "articleSection" .) }}{{ end -}}
+  {{- /* Les sources affichees en bas de l article, declarees aussi comme
+         citations: c est ce qui relie le texte a ses documents officiels. */ -}}
+  {{- $cites := slice -}}
+  {{- range partial "article-sources.html" . -}}
+    {{- $c := dict "@type" "CreativeWork" "name" .title "url" .url -}}
+    {{- with .publisher }}{{ $c = merge $c (dict "publisher" (dict "@type" "Organization" "name" .)) }}{{ end -}}
+    {{- $cites = $cites | append $c -}}
+  {{- end -}}
+  {{- with $cites }}{{ $article = merge $article (dict "citation" .) }}{{ end -}}
   {{- $graph = $graph | append $article -}}
 {{- end -}}
 
