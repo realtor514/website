@@ -24,7 +24,7 @@ This calculator looks for the highest purchase price that meets three rules at t
 
 **The qualifying rate.** Ratios are calculated at the greater of the contract rate plus 2 points or 5.25%: a 4% rate qualifies at 6%. The payment the calculator shows is the payment at this qualifying rate, not your actual payment.
 
-**The minimum down payment.** 5% up to $500,000, 10% on the portion between $500,000 and $1,500,000, 20% from $1,500,000, the price at which mortgage loan insurance is no longer available. Below 20%, the CMHC premium is added to the loan: 4.00%, 3.10% or 2.80% of the amount borrowed, depending on the down payment. A 30-year amortization is insured only for a first-time buyer or a newly built home, with a premium 0.20 points higher; the calculator applies the 25-year premium.
+**The minimum down payment.** 5% up to $500,000, 10% on the portion between $500,000 and $1,500,000, 20% from $1,500,000, the price at which mortgage loan insurance is no longer available. Below 20%, the CMHC premium is added to the loan: 4.00%, 3.10% or 2.80% of the amount borrowed, depending on the down payment. A 30-year amortization is insured only for a first-time buyer or a newly built home, with a premium 0.20 points higher; the calculator applies that surcharge when you choose 30 years.
 
 | Household, 25 years | Contract rate | Maximum price | Binding constraint |
 |---|---|---|---|

@@ -24,7 +24,7 @@ Ce calculateur cherche le prix d'achat le plus élevé qui respecte en même tem
 
 **Le taux de qualification.** Les ratios se calculent au plus élevé du taux du contrat plus 2 points ou de 5,25 %: un taux de 4 % se qualifie à 6 %. Le versement affiché par le calculateur est celui de ce taux de qualification, pas votre versement réel.
 
-**La mise de fonds minimale.** 5 % jusqu'à 500 000 $, 10 % sur la portion entre 500 000 $ et 1 500 000 $, 20 % à partir de 1 500 000 $, prix à partir duquel l'assurance prêt hypothécaire n'est plus offerte. Sous 20 %, la prime SCHL s'ajoute au prêt: 4,00 %, 3,10 % ou 2,80 % du montant emprunté selon la mise de fonds. Un amortissement de 30 ans n'est assuré que pour un premier acheteur ou une habitation neuve, avec une prime plus élevée de 0,20 point; le calculateur applique la prime de 25 ans.
+**La mise de fonds minimale.** 5 % jusqu'à 500 000 $, 10 % sur la portion entre 500 000 $ et 1 500 000 $, 20 % à partir de 1 500 000 $, prix à partir duquel l'assurance prêt hypothécaire n'est plus offerte. Sous 20 %, la prime SCHL s'ajoute au prêt: 4,00 %, 3,10 % ou 2,80 % du montant emprunté selon la mise de fonds. Un amortissement de 30 ans n'est assuré que pour un premier acheteur ou une habitation neuve, avec une prime plus élevée de 0,20 point; le calculateur applique cette majoration quand vous choisissez 30 ans.
 
 | Ménage, sur 25 ans | Taux du contrat | Prix maximum | Contrainte |
 |---|---|---|---|

@@ -320,16 +320,23 @@
   var results = document.getElementById('mc-results');
   var freq    = document.getElementById('mc-freq');
 
-  function cmhcRate(downPct) {
+  /* Au-dela de 25 ans, la SCHL majore la prime de 0,20 point: 3,00 %,
+     3,30 % et 4,20 % au lieu de 2,80 %, 3,10 % et 4,00 %. L amortissement de
+     30 ans n est assurable que pour un premier acheteur ou une construction
+     neuve (SCHL, depuis le 15 decembre 2024): le texte de la page le dit. */
+  function amortYearsNow() { return parseInt(document.getElementById('mc-amort').value) || 25; }
+  function cmhcRate(downPct, amortYears) {
+    var r = 0;
     if (downPct >= 20) return 0;
-    if (downPct >= 15) return 0.0280;
-    if (downPct >= 10) return 0.0310;
-    if (downPct >=  5) return 0.0400;
-    return 0;
+    if (downPct >= 15) r = 0.0280;
+    else if (downPct >= 10) r = 0.0310;
+    else if (downPct >=  5) r = 0.0400;
+    else return 0;
+    return amortYears > 25 ? r + 0.0020 : r;
   }
-  function calcCMHC(propertyPrice, loanAmt, downPct) {
+  function calcCMHC(propertyPrice, loanAmt, downPct, amortYears) {
     if (propertyPrice >= 1500000 || downPct >= 20 || downPct < 5) return 0;
-    return Math.round(loanAmt * cmhcRate(downPct));
+    return Math.round(loanAmt * cmhcRate(downPct, amortYears));
   }
   function effectiveRate(annualPct, ppy) {
     var semi = annualPct / 100 / 2;
@@ -342,10 +349,10 @@
     var l    = Math.max(0, p - d);
     var dpct = p > 0 ? (d / p) * 100 : 0;
     loan.value = formatMoney(l);
-    var premium = calcCMHC(p, l, dpct);
+    var premium = calcCMHC(p, l, dpct, amortYearsNow());
     var banner  = document.getElementById('mc-cmhc-banner');
     if (premium > 0) {
-      document.getElementById('mc-cmhc-pct-display').textContent = (cmhcRate(dpct) * 100).toFixed(2) + '%';
+      document.getElementById('mc-cmhc-pct-display').textContent = (cmhcRate(dpct, amortYearsNow()) * 100).toFixed(2) + '%';
       document.getElementById('mc-cmhc-amt').textContent         = fmt(premium);
       document.getElementById('mc-cmhc-insured').textContent     = fmt(l + premium);
       banner.style.display = 'flex';
@@ -371,6 +378,7 @@
   down.addEventListener('input',  syncPct);
   down.addEventListener('blur',   function() { fmtBlur(down); syncPct(); });
   pct.addEventListener('input',   syncDown);
+  document.getElementById('mc-amort').addEventListener('change', updateLoanAndCMHC);
 
   rateUp.addEventListener('click', function() { rate.value = Math.min(30, +((parseFloat(rate.value)||5.5) + 0.05).toFixed(2)); });
   rateDn.addEventListener('click', function() { rate.value = Math.max(0,  +((parseFloat(rate.value)||5.5) - 0.05).toFixed(2)); });
@@ -413,7 +421,7 @@
       return;
     }
 
-    var premium = calcCMHC(p_price, baseLoan, dpct);
+    var premium = calcCMHC(p_price, baseLoan, dpct, amortYears);
     var P       = baseLoan + premium;
     if (termYears > amortYears) termYears = amortYears;
 

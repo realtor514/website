@@ -292,7 +292,7 @@
       if (price <= downPayment) return { gds: 999, tds: 999, payment: 0, pith: 0, tax: 0 };
       var loan       = price - downPayment;
       var dpct       = (downPayment / price) * 100;
-      var cmhc       = u.calcCMHC(price, loan, dpct);
+      var cmhc       = u.calcCMHC(price, loan, dpct, amortYears);
       var P          = loan + cmhc;
       var payment    = r === 0 ? P / N : P * r * Math.pow(1+r,N) / (Math.pow(1+r,N) - 1);
       var monthlyTax = (price * PROPERTY_TAX_RATE) / 12;

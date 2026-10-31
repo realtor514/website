@@ -35,12 +35,16 @@
       function parseMoney(v) { return parseFloat(String(v).replace(/[^0-9.]/g, '')) || 0; }
       function formatMoney(n) { return n.toLocaleString('en-CA', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
       function fmt(n) { return '$' + formatMoney(n); }
-      function cmhcRate(downPct) {
+      /* Au-dela de 25 ans, la SCHL majore la prime de 0,20 point (30 ans:
+         premier acheteur ou construction neuve seulement). */
+      function cmhcRate(downPct, amortYears) {
+        var r = 0;
         if (downPct >= 20) return 0;
-        if (downPct >= 15) return 0.0280;
-        if (downPct >= 10) return 0.0310;
-        if (downPct >=  5) return 0.0400;
-        return 0;
+        if (downPct >= 15) r = 0.0280;
+        else if (downPct >= 10) r = 0.0310;
+        else if (downPct >=  5) r = 0.0400;
+        else return 0;
+        return amortYears > 25 ? r + 0.0020 : r;
       }
       /* Mise de fonds minimale legale: 5 % sur la tranche jusqu a 500 000 $,
          10 % sur la portion au-dela, et 20 % des que le prix atteint
@@ -56,9 +60,9 @@
       function meetsMinDown(price, downPayment) {
         return downPayment >= minDownPayment(price) - 0.01;
       }
-      function calcCMHC(propertyPrice, loanAmt, downPct) {
+      function calcCMHC(propertyPrice, loanAmt, downPct, amortYears) {
         if (propertyPrice >= 1500000 || downPct >= 20 || downPct < 5) return 0;
-        return Math.round(loanAmt * cmhcRate(downPct));
+        return Math.round(loanAmt * cmhcRate(downPct, amortYears || 25));
       }
       function effectiveRate(annualPct, ppy) {
         var semi = annualPct / 100 / 2;

@@ -24,7 +24,7 @@ Esta calculadora busca el precio de compra más alto que cumple al mismo tiempo 
 
 **La tasa de calificación.** Las razones se calculan al mayor entre la tasa del contrato más 2 puntos y 5,25 %: una tasa de 4 % se califica a 6 %. El pago que muestra la calculadora es el de esa tasa de calificación, no su pago real.
 
-**El pago inicial mínimo.** 5 % hasta 500 000 $, 10 % sobre la parte entre 500 000 $ y 1 500 000 $, 20 % a partir de 1 500 000 $, precio desde el cual ya no se ofrece el seguro hipotecario. Por debajo de 20 %, la prima de la CMHC se suma al préstamo: 4,00 %, 3,10 % o 2,80 % del monto prestado según el pago inicial. Una amortización de 30 años solo se asegura para un comprador primerizo o una vivienda nueva, con una prima 0,20 puntos más alta; la calculadora aplica la prima de 25 años.
+**El pago inicial mínimo.** 5 % hasta 500 000 $, 10 % sobre la parte entre 500 000 $ y 1 500 000 $, 20 % a partir de 1 500 000 $, precio desde el cual ya no se ofrece el seguro hipotecario. Por debajo de 20 %, la prima de la CMHC se suma al préstamo: 4,00 %, 3,10 % o 2,80 % del monto prestado según el pago inicial. Una amortización de 30 años solo se asegura para un comprador primerizo o una vivienda nueva, con una prima 0,20 puntos más alta; la calculadora aplica ese recargo cuando elige 30 años.
 
 | Hogar, a 25 años | Tasa del contrato | Precio máximo | Restricción |
 |---|---|---|---|
