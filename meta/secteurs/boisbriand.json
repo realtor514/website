@@ -1,0 +1,103 @@
+{
+  "slug": "boisbriand",
+  "sources": [
+    {
+      "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/boisbriand",
+      "title": "Boisbriand, Laurentides: Statistiques immobilières",
+      "publisher": "Centris",
+      "consulted": "2026-10-31",
+      "supports": "T3 2026: unifamiliale 48 ventes (0 %), 622 500 $ (+3 %), 38 jours (+7); 4 trimestres: 162 ventes (-25 %), 626 875 $ (+5 %), 28 jours; copropriété 18 ventes au T3, 62 sur 4 trimestres (-47 %), 492 237 $ (-1 %); 93 inscriptions en vigueur (+43 %); population 2021 de 28 308."
+    },
+    {
+      "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+      "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+      "publisher": "APCIQ (Source : APCIQ par le système Centris)",
+      "consulted": "2026-10-31",
+      "supports": "Secteur 27 Boisbriand/Sainte-Thérèse, page 37, T3 2026: unifamiliale 83 ventes (+6 %), 82 inscriptions en vigueur (+64 %), 650 000 $ (+8 %), 34 jours (+4); copropriété 41 ventes (-31 %), 420 000 $ (+5 %); tableau 3: Vendeur jusqu'à 940 000 $ (1,0 à 3,3 mois), Équilibré à 940 000 $ et plus (9,8). Chiffres de state/marche_T3_2026/contexte_laurentides.md (2026-10-21); PDF retéléchargé le 2026-10-31."
+    },
+    {
+      "url": "https://www.ville.boisbriand.qc.ca/ville/administration-municipale/taxes-municipales-et-evaluation-fonciere",
+      "title": "Taxes municipales, évaluation foncière et compteur d'eau",
+      "publisher": "Ville de Boisbriand",
+      "consulted": "2026-10-31",
+      "supports": "Depuis le 1er janvier 2026: 2,5 % de 500 000 $ à 800 000 $, 3,0 % au-delà de 800 000 $; exemple de 6 860,50 $ pour 550 000 $, payable en un seul versement dans les 30 jours."
+    },
+    {
+      "url": "https://www.ville.boisbriand.qc.ca/actualites/communiques/adoption-du-budget-2026-sous-le-signe-de-lequilibre-et-des-realisations",
+      "title": "Adoption du budget 2026 sous le signe de l'équilibre et des réalisations",
+      "publisher": "Ville de Boisbriand",
+      "consulted": "2026-10-31",
+      "supports": "Rôle 2026-2027-2028; valeur moyenne d'une propriété résidentielle +23 %, à 592 866 $."
+    },
+    {
+      "url": "https://www.ville.boisbriand.qc.ca/actualites/vie-municipale/role-devaluation-2026-2028-une-courte-video-pour-en-apprendre-davantage",
+      "title": "Rôle d'évaluation 2026-2028 : une courte vidéo pour en apprendre davantage!",
+      "publisher": "Ville de Boisbriand",
+      "consulted": "2026-10-21",
+      "supports": "Avis d'évaluation envoyés avec le compte de taxes le 30 janvier 2026 (via contexte_laurentides.md)."
+    },
+    {
+      "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.4&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al",
+      "title": "Taux d'inoccupation selon le nombre de chambres par subdivision de recensement, Montréal (RMR)",
+      "publisher": "SCHL (Enquête sur les logements locatifs)",
+      "consulted": "2026-10-21",
+      "supports": "Boisbriand: 2,9 % en octobre 2025 (cote c); 0,5 % en octobre 2024 (cote a). Enquête d'octobre 2026 non publiée au 21 octobre 2026."
+    },
+    {
+      "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=1.1.1.9&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al&Ytd=true",
+      "title": "Mises en chantier selon le type de logements par subdivision de recensement, Montréal (RMR)",
+      "publisher": "SCHL",
+      "consulted": "2026-10-21",
+      "supports": "Boisbriand: 68 mises en chantier de janvier à septembre 2026, contre 198 à la même période de 2025."
+    },
+    {
+      "url": "https://www.quebec.ca/transports/infrastructures-projets/projets/projets-routiers/laurentides/voie-reservee-autoroute-15-direction-nord",
+      "title": "Aménagement d'une voie réservée sur l'autoroute 15, en direction nord",
+      "publisher": "Ministère des Transports et de la Mobilité durable",
+      "consulted": "2026-10-21",
+      "supports": "Voie réservée en construction entre Boisbriand et Mirabel; travaux 2026 entre la route 344 et la sortie 25; mise en service complète prévue fin 2027."
+    },
+    {
+      "url": "https://www.quebec.ca/transports/infrastructures-projets/projets/projets-routiers/laval/pont-gedeon-ouimet-reconstruction-maintien",
+      "title": "Reconstruction du pont Gédéon-Ouimet",
+      "publisher": "Ministère des Transports et de la Mobilité durable",
+      "consulted": "2026-10-21",
+      "supports": "Le pont relie Laval et Boisbriand (autoroute 15, rivière des Mille Îles); projet en planification, coût et échéancier non publiés."
+    },
+    {
+      "url": "https://exo.quebec/fr/horaire-train/ligne/260-12-saint-jerome",
+      "title": "Ligne de train 12 Saint-Jérôme",
+      "publisher": "exo",
+      "consulted": "2026-10-21",
+      "supports": "Liste des 14 gares de la ligne, aucune à Boisbriand."
+    },
+    {
+      "url": "https://exo.quebec/fr/carte-interactive/gare-sainte-therese",
+      "title": "Gare Sainte-Thérèse",
+      "publisher": "exo",
+      "consulted": "2026-10-31",
+      "supports": "6, rue de la Gare, 573 places de stationnement."
+    },
+    {
+      "url": "https://www.cssmi.qc.ca/app/uploads/2026/04/Avis_designation_parents_2026-2029_VF.pdf",
+      "title": "Avis de désignation, membres parents au conseil d'administration, 2026-2029",
+      "publisher": "Centre de services scolaire des Mille-Îles",
+      "consulted": "2026-10-31",
+      "supports": "Écoles du CSSMI situées à Boisbriand: Le Sentier, Le Tandem, Gabrielle-Roy, Gaston-Pilon, du Mai, Plateau Saint-Louis."
+    },
+    {
+      "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-15.1",
+      "title": "Loi concernant les droits sur les mutations immobilières (RLRQ, c. D-15.1)",
+      "publisher": "LegisQuébec, Gouvernement du Québec",
+      "consulted": "2026-10-19",
+      "supports": "Tranches provinciales 2026 (0,5 % jusqu'à 62 900 $, 1 % jusqu'à 315 000 $, 1,5 % au-delà) et pouvoir municipal jusqu'à 3 % au-delà de 500 000 $; seuils 2027 de 64 400 $ et 322 600 $ (avis MAMH). Lu dans state/marche_T3_2026/contexte_commun.md, section 5."
+    }
+  ],
+  "claims_needing_review": [
+    "Population 2021 (28 308): lue sur la page Centris, qui cite le Recensement 2021 de Statistique Canada; le profil du recensement de Statistique Canada n'a pas pu être ouvert (vérification de sécurité, HTTP 403).",
+    "Faubourg Boisbriand construit sur un ancien site industriel: repris de la page existante, non revérifié auprès d'une source officielle.",
+    "Liste des écoles tirée d'un avis de désignation qui classe les écoles par district: peut ne pas être exhaustive, d'où « parmi ». Une ligne du PDF porte « Boisbriand » sans nom d'école lisible.",
+    "Calcul de 13 110,50 $ pour 800 000 $: calcul du rédacteur selon le barème publié par la Ville.",
+    "Noms des secteurs en pastilles (Domaine Vert Nord, Boisbriand-Est, Grande-Côte, Quartier de la Gare): repris de la page existante, non vérifiés."
+  ]
+}

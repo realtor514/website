@@ -1,13 +1,14 @@
 ---
 title: "Real Estate Broker in La Plaine, Terrebonne"
+seo_title: "Real Estate Broker La Plaine, Terrebonne: $520,000"
 h1: "Real Estate Broker in La Plaine, Terrebonne"
-description: "Real estate broker in La Plaine, the northern sector of Terrebonne: market prices, schools, transit, agricultural zone. Buying, selling and free evaluation. (438) 372-0102."
+description: "Real estate broker in La Plaine, Terrebonne: single-family median of $520,000 in Q3 2026 (Centris), lowest of the 3 sectors. Taxes, schools, transit."
 city: "La Plaine"
 url: "/en/real-estate-broker/la-plaine-terrebonne/"
 translationKey: "quartier-la-plaine-terrebonne"
 weight: 109
 date: 2026-10-07
-lastmod: 2026-10-21
+lastmod: 2026-10-31
 cardText: "The northern sector of Terrebonne: single-family homes, Route 337 and the lowest entry price in the city."
 facts:
   - value: "24,706"
@@ -26,8 +27,10 @@ sectors:
   - "Parc du Boisé"
   - "Mascouche River"
 faq:
-  - q: "Is La Plaine part of Terrebonne?"
-    a: "Yes. La Plaine was a separate municipality until 2001, when it merged with Lachenaie and Terrebonne to form today's City of Terrebonne. Centris still treats it as a separate sub-sector, which makes it possible to track its prices apart from the rest of the city."
+  - q: "What is the median price of a house in La Plaine, Terrebonne?"
+    a: "According to Centris, the median price of a single-family home in La Plaine was $520,000 in the third quarter of 2026, up 3%, on 56 sales and 31 days on market on average. Over the four quarters ending in September 2026, the median is $519,062 (+7%) on 270 sales."
+  - q: "What is the welcome tax rate in La Plaine, Terrebonne?"
+    a: "La Plaine is part of the City of Terrebonne, which applies a 3% rate in 2026 on the portion above $500,000, with a comparative factor of 1. For a $520,000 house, the calculation gives $6,210.50; the example published by the City gives $8,160.50 for $585,000. The City says it takes 3 to 6 months to receive the bill."
   - q: "Why is La Plaine cheaper than the rest of Terrebonne?"
     a: "In the third quarter of 2026, the median single-family price there was $520,000, compared with $632,500 in the Terrebonne sector and $695,000 in Lachenaie, according to Centris. The City describes La Plaine as off-centre in the north of its territory: it is the only urbanized sector of Terrebonne outside the band between the Rivière des Mille Îles and Autoroute 640. The price gap is mostly paid in commuting time. Drive the actual route at rush hour before deciding."
   - q: "How do I get to Montreal from La Plaine by public transit?"
@@ -45,10 +48,13 @@ La Plaine is the northern sector of Terrebonne, and the one where you enter the 
 | Single-family | Sales | Median price | Average days on market |
 |---|---|---|---|
 | Q3 2026 | 56 (+21%) | $520,000 (+3%) | 31 |
+| 4 quarters ending September 2026 | 270 (+8%) | $519,062 (+7%) | 27 |
 
-Source: [Centris real estate statistics for Terrebonne (La Plaine)](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine), third quarter of 2026, July to September. Changes compare with the same quarter of 2025.
+Source: [Centris real estate statistics for Terrebonne (La Plaine)](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine), third quarter of 2026, July to September. Changes compare with the same period a year earlier.
 
-It is the only one of Terrebonne's three sectors where sales rose in the third quarter: +21%, while they fell 25% in the Terrebonne sector and 20% in Lachenaie. Over the last four quarters, Centris counts 270 single-family sales there, up 8%. Condominiums remain marginal: 62 sales over the same period.
+It is the only one of Terrebonne's three sectors where sales rose in the third quarter: +21%, while they fell 25% in the Terrebonne sector and 20% in Lachenaie. Supply rose even faster: 74 active single-family listings in the third quarter, 94% more than a year earlier. Condominiums remain marginal: 62 sales over four quarters, at a median price of $333,000 (+1%).
+
+The APCIQ places La Plaine in its sector 29, Terrebonne, with Bois-des-Filion, the rest of Terrebonne, Lachenaie and Sainte-Anne-des-Plaines. In the third quarter of 2026, single-family homes there recorded 273 sales (-14%), a median price of $587,500 (+2%) and 37 days on market on average; active listings had risen 38%. Over 12 months, the APCIQ classifies every single-family price range in the sector as a seller's market, with 2.0 to 6.2 months of inventory. Source: [APCIQ residential barometer, Q3 2026](https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf), page 39.
 
 The figures for La Plaine and the city's two other sectors are in [the La Plaine, Terrebonne real estate market in the third quarter of 2026](/en/articles/terrebonne-real-estate-market/): sales, median prices and days on market for single-family homes, condos and plexes, as published by Centris.
 
@@ -66,13 +72,19 @@ Route 337, boulevard Laurier, crosses the sector and is its main artery. Autorou
 
 The plan counts 9 neighbourhood parks, 7 sector parks and two large parks in the sector, Philippe-Villeneuve and du Boisé. It notes, however, that the north of the sector is not served by any large park.
 
+## Assessment roll and welcome tax
+
+Terrebonne's 2026-2027-2028 assessment roll, prepared by LBP Évaluateurs agréés, has a reference date of July 1, 2024. According to the City's 2026 budget, the overall roll rises 24.66% from the 2023-2025 roll; the city's average house is valued at $573,987 and the average condo at $390,955. These averages cover the whole city, not La Plaine alone. The City spreads the change over three years: the 2026 tax bill uses the 2025 value plus one third of the difference.
+
+For transfer duties, Terrebonne applies a 3% rate in 2026 on the portion above $500,000, on top of the provincial brackets of 0.5%, 1% and 1.5%; the 2026 comparative factor is 1. For a $520,000 house, La Plaine's third-quarter median price, the calculation gives $6,210.50. The City says it takes 3 to 6 months to receive the bill. The calculation and the 2027 thresholds are in the [welcome tax guide](/en/articles/welcome-tax-quebec-guide/).
+
 ## What to check before buying
 
 **The agricultural zone.** According to the City, 37% of Terrebonne's territory is in the agricultural zone, and a good part of La Plaine is woodland and farmland. In the agricultural zone, several actions, such as subdividing a lot or changing its use, require authorization from the Commission de protection du territoire agricole du Québec. For a large lot or a property on the edge of this zone, check what is allowed before the offer, not after.
 
 **Water and sewer.** In a partly rural sector, do not assume the connection. Check whether the property is connected to municipal water and sewer, or whether it has a well and a septic system, which are inspected and maintained differently.
 
-**Flood zones.** The Mascouche River borders the sector to the south. The provincial flood zone framework has been in force since March 1, 2026, and the status is checked address by address. I verify the applicable map before the offer, because the status affects insurance and financing.
+**Flood zones.** The Mascouche River borders the sector to the south. The provincial flood zone framework has been in force since March 1, 2026, and the status is checked address by address. I verify the applicable map before the offer, because the status affects insurance and financing. The checks are detailed in [buying in a flood zone in Quebec](/en/articles/buying-in-flood-zone-quebec/).
 
 **The commute.** Drive the actual route to your workplace, at the time you would really make it. That is the true price of the gap with Lachenaie.
 

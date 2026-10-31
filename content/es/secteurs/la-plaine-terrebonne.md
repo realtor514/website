@@ -1,13 +1,14 @@
 ---
 title: "Corredor inmobiliario en La Plaine, Terrebonne"
+seo_title: "Corredor inmobiliario La Plaine, Terrebonne: 520 000 $"
 h1: "Corredor inmobiliario en La Plaine, Terrebonne"
-description: "Corredor inmobiliario en La Plaine, el sector norte de Terrebonne: precios del mercado, escuelas, transporte, zona agrícola. Compra, venta y evaluación gratuita. (438) 372-0102."
+description: "Corredor inmobiliario en La Plaine, Terrebonne: unifamiliar a 520 000 $ en el T3 2026 (Centris), el más bajo de los 3 sectores. Impuestos y escuelas."
 city: "La Plaine"
 url: "/es/corredor-inmobiliario/la-plaine-terrebonne/"
 translationKey: "quartier-la-plaine-terrebonne"
 weight: 109
 date: 2026-10-07
-lastmod: 2026-10-21
+lastmod: 2026-10-31
 cardText: "El sector norte de Terrebonne: casas unifamiliares, la ruta 337 y el precio de entrada más bajo de la ciudad."
 facts:
   - value: "24 706"
@@ -26,8 +27,10 @@ sectors:
   - "Parc du Boisé"
   - "Río Mascouche"
 faq:
-  - q: "¿La Plaine forma parte de Terrebonne?"
-    a: "Sí. La Plaine fue un municipio independiente hasta 2001, año en que se fusionó con Lachenaie y Terrebonne para formar la actual Ciudad de Terrebonne. Centris sigue tratándola como un subsector aparte, lo que permite seguir sus precios por separado del resto de la ciudad."
+  - q: "¿Cuál es el precio mediano de una casa en La Plaine, Terrebonne?"
+    a: "Según Centris, el precio mediano de una vivienda unifamiliar en La Plaine fue de 520 000 $ en el tercer trimestre de 2026, un 3 % más, con 56 ventas y 31 días en el mercado en promedio. En los cuatro trimestres terminados en septiembre de 2026, la mediana es de 519 062 $ (+7 %) con 270 ventas."
+  - q: "¿Cuál es la tasa del impuesto de bienvenida en La Plaine, Terrebonne?"
+    a: "La Plaine forma parte de la Ciudad de Terrebonne, que aplica en 2026 una tasa del 3 % sobre el tramo que supera 500 000 $, con un factor comparativo de 1. Para una casa de 520 000 $, el cálculo da 6 210,50 $; el ejemplo publicado por la Ciudad da 8 160,50 $ para 585 000 $. La Ciudad indica un plazo de 3 a 6 meses para recibir la cuenta."
   - q: "¿Por qué La Plaine es más barata que el resto de Terrebonne?"
     a: "En el tercer trimestre de 2026, el precio mediano de una vivienda unifamiliar era de 520 000 $, frente a 632 500 $ en el sector Terrebonne y 695 000 $ en Lachenaie, según Centris. La Ciudad describe La Plaine como un sector descentrado al norte de su territorio: es el único sector urbanizado de Terrebonne situado fuera de la franja entre la rivière des Mille Îles y la autopista 640. La diferencia de precio se paga sobre todo en tiempo de trayecto. Haga el recorrido real en hora punta antes de decidir."
   - q: "¿Cómo llegar a Montreal desde La Plaine en transporte público?"
@@ -45,10 +48,13 @@ La Plaine es el sector norte de Terrebonne, y aquel donde se entra al mercado al
 | Unifamiliar | Ventas | Precio mediano | Días en el mercado, en promedio |
 |---|---|---|---|
 | 3.er trimestre de 2026 | 56 (+21 %) | 520 000 $ (+3 %) | 31 |
+| 4 trimestres terminados en septiembre de 2026 | 270 (+8 %) | 519 062 $ (+7 %) | 27 |
 
-Fuente: [estadísticas inmobiliarias de Centris para Terrebonne (La Plaine)](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine), tercer trimestre de 2026, de julio a septiembre. Las variaciones se comparan con el mismo trimestre de 2025.
+Fuente: [estadísticas inmobiliarias de Centris para Terrebonne (La Plaine)](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine), tercer trimestre de 2026, de julio a septiembre. Las variaciones se comparan con el mismo período un año antes.
 
-Es el único de los tres sectores de Terrebonne donde las ventas aumentaron en el tercer trimestre: +21 %, mientras bajaban un 25 % en el sector Terrebonne y un 20 % en Lachenaie. En los últimos cuatro trimestres, Centris registra allí 270 ventas de viviendas unifamiliares, un 8 % más. El condominio sigue siendo marginal: 62 ventas en el mismo período.
+Es el único de los tres sectores de Terrebonne donde las ventas aumentaron en el tercer trimestre: +21 %, mientras bajaban un 25 % en el sector Terrebonne y un 20 % en Lachenaie. La oferta creció aún más rápido: 74 inscripciones vigentes de unifamiliares en el tercer trimestre, un 94 % más que un año antes. El condominio sigue siendo marginal: 62 ventas en cuatro trimestres, a un precio mediano de 333 000 $ (+1 %).
+
+La APCIQ sitúa La Plaine en su sector 29, Terrebonne, con Bois-des-Filion, el resto de Terrebonne, Lachenaie y Sainte-Anne-des-Plaines. En el tercer trimestre de 2026, la vivienda unifamiliar registró allí 273 ventas (-14 %), un precio mediano de 587 500 $ (+2 %) y 37 días en el mercado en promedio; sus inscripciones vigentes habían aumentado un 38 %. En 12 meses, la APCIQ clasifica todos los rangos de precio de la vivienda unifamiliar del sector como mercado de vendedores, con 2,0 a 6,2 meses de inventario. Fuente: [barómetro residencial de la APCIQ, 3.er trimestre de 2026](https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf), página 39.
 
 La comparación con el sector Terrebonne y Lachenaie, condominio y plex incluidos, está en [el mercado inmobiliario de La Plaine y de Terrebonne en el tercer trimestre de 2026](/es/articles/mercado-inmobiliario-terrebonne/): ventas, precios medianos y plazos de venta según Centris.
 
@@ -66,13 +72,19 @@ La ruta 337, el boulevard Laurier, atraviesa el sector y es su eje principal. La
 
 El plan cuenta en el sector 9 parques de barrio, 7 parques de sector y dos grandes parques, Philippe-Villeneuve y du Boisé. Señala, sin embargo, que el norte del sector no está servido por ningún gran parque.
 
+## Rol de evaluación e impuesto de bienvenida
+
+El rol de evaluación 2026-2027-2028 de Terrebonne, preparado por LBP Évaluateurs agréés, tiene como fecha de referencia el 1 de julio de 2024. Según el presupuesto de 2026 de la Ciudad, el rol global aumenta un 24,66 % respecto al rol 2023-2025; la casa media de la ciudad vale 573 987 $ y el condominio medio 390 955 $. Estos promedios cubren toda la ciudad, no solo La Plaine. La Ciudad escalona la variación en tres años: la cuenta de impuestos de 2026 usa el valor de 2025 más un tercio de la diferencia.
+
+Para los derechos de transmisión, Terrebonne aplica en 2026 una tasa del 3 % sobre el tramo que supera 500 000 $, además de los tramos provinciales de 0,5 %, 1 % y 1,5 %; el factor comparativo de 2026 es de 1. Para una casa de 520 000 $, el precio mediano del tercer trimestre en La Plaine, el cálculo da 6 210,50 $. La Ciudad indica un plazo de 3 a 6 meses para recibir la cuenta. El cálculo y los umbrales de 2027 están en la [guía del impuesto de bienvenida](/es/articles/welcome-tax-quebec-guide/).
+
 ## Lo que hay que verificar antes de comprar
 
 **La zona agrícola.** Según la Ciudad, el 37 % del territorio de Terrebonne está en zona agrícola, y buena parte de La Plaine son bosques y tierras agrícolas. En zona agrícola, varias acciones, como dividir un terreno o cambiar su uso, requieren una autorización de la Commission de protection du territoire agricole du Québec. Para un terreno grande o una propiedad en el borde de esta zona, verifique lo que está permitido antes de la oferta, no después.
 
 **El agua y el alcantarillado.** En un sector en parte rural, no dé por sentada la conexión. Verifique si la propiedad está conectada al acueducto y al alcantarillado municipales, o si tiene un pozo y una instalación séptica, que se inspeccionan y se mantienen de otra manera.
 
-**Las zonas inundables.** El río Mascouche bordea el sector por el sur. El marco provincial sobre las zonas inundables está en vigor desde el 1 de marzo de 2026, y el estatus se verifica dirección por dirección. Valido el mapa aplicable antes de la oferta, porque ese estatus repercute en el seguro y en el financiamiento.
+**Las zonas inundables.** El río Mascouche bordea el sector por el sur. El marco provincial sobre las zonas inundables está en vigor desde el 1 de marzo de 2026, y el estatus se verifica dirección por dirección. Valido el mapa aplicable antes de la oferta, porque ese estatus repercute en el seguro y en el financiamiento. Las verificaciones se detallan en [comprar en zona inundable en Quebec](/es/articles/comprar-zona-inundable-quebec/).
 
 **El trayecto.** Haga el recorrido real hacia su trabajo, a la hora en que lo haría. Ese es el verdadero precio de la diferencia con Lachenaie.
 

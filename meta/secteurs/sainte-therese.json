@@ -1,0 +1,89 @@
+{
+  "slug": "sainte-therese",
+  "sources": [
+    {
+      "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/sainte-therese",
+      "title": "Sainte-Thérèse, Laurentides: Statistiques immobilières",
+      "publisher": "Centris",
+      "consulted": "2026-10-31",
+      "supports": "T3 2026: unifamiliale 35 ventes (+16 %), 710 000 $ (+15 %), 28 jours; 4 trimestres: 140 ventes (-10 %), 615 400 $ (+5 %), 26 jours; copropriété 23 ventes au T3, 129 sur 4 trimestres (-21 %), 366 250 $ (0 %), 33 jours; plex 12 au T3, 72 sur 4 trimestres (+30 %), 800 612 $ (+14 %), 33 jours; 89 inscriptions en vigueur (+28 %); population 2021 de 26 533."
+    },
+    {
+      "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laurentides/boisbriand",
+      "title": "Boisbriand, Laurentides: Statistiques immobilières",
+      "publisher": "Centris",
+      "consulted": "2026-10-31",
+      "supports": "Boisbriand: 14 ventes de plex sur 4 trimestres (comparaison)."
+    },
+    {
+      "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+      "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+      "publisher": "APCIQ (Source : APCIQ par le système Centris)",
+      "consulted": "2026-10-31",
+      "supports": "Secteur 27 Boisbriand/Sainte-Thérèse, page 37, T3 2026: unifamiliale 83 ventes (+6 %), 650 000 $ (+8 %), 34 jours; copropriété 41 ventes (-31 %), 420 000 $ (+5 %); Vendeur jusqu'à 940 000 $, Équilibré au-delà."
+    },
+    {
+      "url": "https://www.sainte-therese.ca/services/services-aux-citoyens/taxes-evaluation-et-droit-de-mutation",
+      "title": "Taxes, évaluation et droit de mutation",
+      "publisher": "Ville de Sainte-Thérèse",
+      "consulted": "2026-10-31",
+      "supports": "Année 2026, facteur comparatif 1.00; 3 % à partir de 500 001 $; simulation de 8 215 $ pour 586 790 $; rôle 2026-2027-2028, marché au 1er juillet 2024."
+    },
+    {
+      "url": "https://www.sainte-therese.ca/nouvelles-municipales/administration/budget-2026-la-ville-annonce-une-augmentation-du-compte-de-taxes-de-389",
+      "title": "Budget 2026 : La Ville annonce une augmentation du compte de taxes de 3,89 %",
+      "publisher": "Ville de Sainte-Thérèse",
+      "consulted": "2026-10-31",
+      "supports": "Valeur foncière totale de 4,46 G$ à 5,5 G$ (+24,1 %); unifamiliales et condos +23 % en moyenne; hausse du compte de taxes de 3,89 % (titre)."
+    },
+    {
+      "url": "https://exo.quebec/fr/carte-interactive/gare-sainte-therese",
+      "title": "Gare Sainte-Thérèse",
+      "publisher": "exo",
+      "consulted": "2026-10-31",
+      "supports": "6, rue de la Gare, zone C, ligne 12 Saint-Jérôme, 573 places, vélostation, station Communauto."
+    },
+    {
+      "url": "https://exo.quebec/fr/a-propos/salle-de-presse/communiques-de-presse/lancement-des-travaux-de-refection-de-la-boucle-dautobus-au-terminus-sainte-therese-dexo",
+      "title": "Lancement des travaux de réfection de la boucle d'autobus au terminus Sainte-Thérèse d'exo",
+      "publisher": "exo",
+      "consulted": "2026-10-21",
+      "supports": "Chantier du 29 juin au 28 août 2026."
+    },
+    {
+      "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=2.1.1.4&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al",
+      "title": "Taux d'inoccupation selon le nombre de chambres par subdivision de recensement, Montréal (RMR)",
+      "publisher": "SCHL (Enquête sur les logements locatifs)",
+      "consulted": "2026-10-21",
+      "supports": "Sainte-Thérèse: 1,4 % en octobre 2025 (cote a); octobre 2024 non publié; RMR de Montréal 2,9 % (a)."
+    },
+    {
+      "url": "https://www03.cmhc-schl.gc.ca/hmip-pimh/fr/TableMapChart/Table?TableId=1.1.1.9&GeographyId=1060&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Montr%C3%A9al&Ytd=true",
+      "title": "Mises en chantier selon le type de logements par subdivision de recensement, Montréal (RMR)",
+      "publisher": "SCHL",
+      "consulted": "2026-10-21",
+      "supports": "Sainte-Thérèse: 30 mises en chantier de janvier à septembre 2026, contre 77 à la même période de 2025."
+    },
+    {
+      "url": "https://www.cssmi.qc.ca/app/uploads/2026/04/Avis_designation_parents_2026-2029_VF.pdf",
+      "title": "Avis de désignation, membres parents au conseil d'administration, 2026-2029",
+      "publisher": "Centre de services scolaire des Mille-Îles",
+      "consulted": "2026-10-31",
+      "supports": "Écoles du CSSMI situées à Sainte-Thérèse: Arthur-Vaillancourt, Saint-Gabriel, du Trait-d'Union, Saint-Pierre, Terre-Soleil, de la Renaissance, Polyvalente Sainte-Thérèse."
+    },
+    {
+      "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-15.1",
+      "title": "Loi concernant les droits sur les mutations immobilières (RLRQ, c. D-15.1)",
+      "publisher": "LegisQuébec, Gouvernement du Québec",
+      "consulted": "2026-10-19",
+      "supports": "Tranches provinciales 2026 (0,5 % jusqu'à 62 900 $, 1 % jusqu'à 315 000 $, 1,5 % au-delà) et pouvoir municipal jusqu'à 3 % au-delà de 500 000 $; seuils 2027 de 64 400 $ et 322 600 $ (avis MAMH). Lu dans state/marche_T3_2026/contexte_commun.md, section 5."
+    }
+  ],
+  "claims_needing_review": [
+    "Population 2021 (26 533): lue sur la page Centris, qui cite le Recensement 2021 de Statistique Canada; le profil du recensement de Statistique Canada n'a pas pu être ouvert (vérification de sécurité, HTTP 403).",
+    "Présence du Cégep Lionel-Groulx à Sainte-Thérèse: reprise de la page existante; non revérifiée dans cette session.",
+    "Médiane trimestrielle de 710 000 $ (+15 %) sur 35 ventes: publiée par Centris mais volatile; la page met en avant la médiane sur 4 trimestres.",
+    "Noms des secteurs en pastilles (Blainvillier, Sainte-Thérèse-Ouest, Village, Secteur du Cégep): repris de la page existante, non vérifiés.",
+    "La hausse de 3,89 % vient du titre du communiqué budgétaire; la base exacte (compte moyen ou résidence moyenne) n'a pas été relue."
+  ]
+}

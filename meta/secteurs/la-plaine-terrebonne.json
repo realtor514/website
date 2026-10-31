@@ -1,0 +1,60 @@
+{
+  "slug": "la-plaine-terrebonne",
+  "sources": [
+    {
+      "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine",
+      "title": "Terrebonne (La Plaine), Lanaudière: Statistiques immobilières",
+      "publisher": "Centris",
+      "consulted": "2026-10-31",
+      "supports": "T3 2026: unifamiliale 56 ventes (+21 %), 520 000 $ (+3 %), 31 jours (+4), 74 inscriptions en vigueur (+94 %); 4 trimestres: 270 ventes (+8 %), 519 062 $ (+7 %), 27 jours; copropriété 62 ventes sur 4 trimestres (+10 %), 333 000 $ (+1 %); population 2021 de 24 706."
+    },
+    {
+      "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+      "title": "FSMI - baromètre résidentiel - 3e trimestre 2026, Région métropolitaine de Montréal",
+      "publisher": "APCIQ (Source : APCIQ par le système Centris)",
+      "consulted": "2026-10-31",
+      "supports": "Page 6: secteur 29 Terrebonne = Bois-des-Filion, Terrebonne, Lachenaie, Sainte-Anne-des-Plaines, La Plaine. Page 39, T3 2026: unifamiliale 273 ventes (-14 %), 352 inscriptions en vigueur (+38 %), 587 500 $ (+2 %), 37 jours (+6); tableau 3: toutes gammes « Vendeur » (2,0 à 6,2 mois sur 12 mois). Chiffres de state/marche_T3_2026/contexte_lanaudiere.md (2026-10-21); PDF retéléchargé le 2026-10-31."
+    },
+    {
+      "url": "https://terrebonne.ca/taxes/",
+      "title": "Taxes - Ville de Terrebonne",
+      "publisher": "Ville de Terrebonne",
+      "consulted": "2026-10-31",
+      "supports": "3 % pour la tranche excédant 500 001 $; exemple de 8 160,50 $ pour 585 000 $; délai de 3 à 6 mois pour recevoir le compte de mutation; facteur comparatif 2026 de 1."
+    },
+    {
+      "url": "https://terrebonne.ca/role-d-evaluation-fonciere/",
+      "title": "Rôle d'évaluation foncière - Ville de Terrebonne",
+      "publisher": "Ville de Terrebonne",
+      "consulted": "2026-10-21",
+      "supports": "Rôle 2026-2027-2028, date de référence 1er juillet 2024, LBP Évaluateurs agréés, étalement de la variation sur trois ans (page rouverte le 2026-10-31: mention de LBP confirmée)."
+    },
+    {
+      "url": "https://terrebonne.ca/wp-content/uploads/2025/12/Budget-2026-Ville-de-Terrebonne-web_VF.pdf",
+      "title": "Budget 2026",
+      "publisher": "Ville de Terrebonne",
+      "consulted": "2026-10-21",
+      "supports": "Rôle global 2026-2028 +24,66 % par rapport au rôle 2023-2025; maison moyenne 573 987 $, condo moyen 390 955 $ (toute la ville)."
+    },
+    {
+      "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-terrebonne",
+      "title": "Terrebonne (Terrebonne): Statistiques immobilières",
+      "publisher": "Centris",
+      "consulted": "2026-10-19",
+      "supports": "Comparaisons déjà présentes sur la page: secteur Terrebonne 632 500 $, Lachenaie 695 000 $ (unifamiliale, T3 2026)."
+    },
+    {
+      "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-15.1",
+      "title": "Loi concernant les droits sur les mutations immobilières (RLRQ, c. D-15.1)",
+      "publisher": "LegisQuébec, Gouvernement du Québec",
+      "consulted": "2026-10-19",
+      "supports": "Tranches provinciales 2026 (0,5 % jusqu'à 62 900 $, 1 % jusqu'à 315 000 $, 1,5 % au-delà) et pouvoir municipal jusqu'à 3 % au-delà de 500 000 $; seuils 2027 de 64 400 $ et 322 600 $ (avis MAMH). Lu dans state/marche_T3_2026/contexte_commun.md, section 5."
+    }
+  ],
+  "claims_needing_review": [
+    "Calcul de 6 210,50 $ pour 520 000 $: calcul du rédacteur selon les tranches publiées par la Ville.",
+    "Les moyennes du rôle (573 987 $, 390 955 $) portent sur toute la ville de Terrebonne, pas sur La Plaine; la page le précise.",
+    "Faits historiques, parcs, écoles du CSS des Affluents, lignes exo 14, 17 et 417 et part de zone agricole (37 %): repris de la version existante de la page, non revérifiés dans cette session.",
+    "Population 2021 (24 706): lue sur la page Centris, qui cite le Recensement 2021 de Statistique Canada; le profil du recensement de Statistique Canada n'a pas pu être ouvert (vérification de sécurité, HTTP 403)."
+  ]
+}

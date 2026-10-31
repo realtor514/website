@@ -1,13 +1,14 @@
 ---
 title: "Courtier immobilier à La Plaine, Terrebonne"
+seo_title: "Courtier immobilier La Plaine, Terrebonne: 520 000 $"
 h1: "Courtier immobilier à La Plaine, Terrebonne"
-description: "Courtier immobilier à La Plaine, secteur nord de Terrebonne: prix du marché, écoles, transport, zone agricole. Achat, vente et évaluation gratuite. (438) 372-0102."
+description: "Courtier immobilier à La Plaine, Terrebonne: unifamiliale à 520 000 $ au T3 2026 (Centris), le plus bas des 3 secteurs. Taxes, écoles, transport."
 city: "La Plaine"
 url: "/courtier-immobilier/la-plaine-terrebonne/"
 translationKey: "quartier-la-plaine-terrebonne"
 weight: 109
 date: 2026-10-07
-lastmod: 2026-10-21
+lastmod: 2026-10-31
 cardText: "Secteur nord de Terrebonne: maisons unifamiliales, route 337 et le prix d'entrée le plus bas de la ville."
 facts:
   - value: "24 706"
@@ -26,8 +27,10 @@ sectors:
   - "Parc du Boisé"
   - "Rivière Mascouche"
 faq:
-  - q: "La Plaine fait-elle partie de Terrebonne?"
-    a: "Oui. La Plaine était une municipalité distincte jusqu'en 2001, année de son regroupement avec Lachenaie et Terrebonne, qui a donné la Ville de Terrebonne actuelle. Centris continue de la traiter comme un sous-secteur à part, ce qui permet de suivre ses prix séparément du reste de la ville."
+  - q: "Quel est le prix médian d'une maison à La Plaine, Terrebonne?"
+    a: "Selon Centris, le prix médian d'une unifamiliale à La Plaine était de 520 000 $ au 3e trimestre 2026, en hausse de 3 %, pour 56 ventes et 31 jours sur le marché en moyenne. Sur les quatre trimestres terminés en septembre 2026, la médiane est de 519 062 $ (+7 %) pour 270 ventes."
+  - q: "Quel est le taux de la taxe de bienvenue à La Plaine, Terrebonne?"
+    a: "La Plaine fait partie de la Ville de Terrebonne, qui applique en 2026 un taux de 3 % sur la tranche qui dépasse 500 000 $, avec un facteur comparatif de 1. Pour une maison de 520 000 $, le calcul donne 6 210,50 $; l'exemple publié par la Ville donne 8 160,50 $ pour 585 000 $. La Ville indique un délai de 3 à 6 mois pour recevoir le compte."
   - q: "Pourquoi La Plaine est-elle moins chère que le reste de Terrebonne?"
     a: "Au 3e trimestre 2026, le prix médian d'une unifamiliale y était de 520 000 $, contre 632 500 $ dans le secteur Terrebonne et 695 000 $ à Lachenaie, selon Centris. La Ville décrit La Plaine comme excentrée au nord de son territoire: c'est le seul secteur urbanisé de Terrebonne situé hors de la bande comprise entre la rivière des Mille Îles et l'autoroute 640. L'écart de prix se paie surtout en trajet. Faites le parcours réel à l'heure de pointe avant de conclure."
   - q: "Comment se rendre à Montréal depuis La Plaine en transport collectif?"
@@ -45,10 +48,13 @@ La Plaine est le secteur nord de Terrebonne, et celui où l'on entre dans le mar
 | Unifamiliale | Ventes | Prix médian | Jours sur le marché, en moyenne |
 |---|---|---|---|
 | 3e trimestre 2026 | 56 (+21 %) | 520 000 $ (+3 %) | 31 |
+| 4 trimestres terminés en septembre 2026 | 270 (+8 %) | 519 062 $ (+7 %) | 27 |
 
-Source: [statistiques immobilières de Centris pour Terrebonne (La Plaine)](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine), 3e trimestre 2026, soit de juillet à septembre. Les variations comparent au même trimestre de 2025.
+Source: [statistiques immobilières de Centris pour Terrebonne (La Plaine)](https://www.centris.ca/fr/outils/statistiques-immobilieres/lanaudiere/terrebonne-la-plaine), 3e trimestre 2026, soit de juillet à septembre. Les variations comparent à la même période un an plus tôt.
 
-C'est le seul des trois secteurs de Terrebonne où les ventes ont augmenté au 3e trimestre: +21 %, alors qu'elles reculaient de 25 % dans le secteur Terrebonne et de 20 % à Lachenaie. Sur les quatre derniers trimestres, Centris y compte 270 ventes d'unifamiliales, en hausse de 8 %. La copropriété reste marginale: 62 ventes sur la même période.
+C'est le seul des trois secteurs de Terrebonne où les ventes ont augmenté au 3e trimestre: +21 %, alors qu'elles reculaient de 25 % dans le secteur Terrebonne et de 20 % à Lachenaie. L'offre a augmenté plus vite encore: 74 inscriptions en vigueur d'unifamiliales au 3e trimestre, 94 % de plus qu'un an plus tôt. La copropriété reste marginale: 62 ventes sur quatre trimestres, à un prix médian de 333 000 $ (+1 %).
+
+L'APCIQ classe La Plaine dans son secteur 29, Terrebonne, avec Bois-des-Filion, le reste de Terrebonne, Lachenaie et Sainte-Anne-des-Plaines. Au 3e trimestre 2026, l'unifamiliale y comptait 273 ventes (-14 %), un prix médian de 587 500 $ (+2 %) et 37 jours sur le marché en moyenne; ses inscriptions en vigueur avaient augmenté de 38 %. Sur 12 mois, l'APCIQ classe toutes les gammes de prix de l'unifamiliale du secteur en marché vendeur, de 2,0 à 6,2 mois d'inventaire. Source: [baromètre résidentiel de l'APCIQ, 3e trimestre 2026](https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf), page 39.
 
 Les ventes, les prix médians et les délais de vente de La Plaine, de Lachenaie et du secteur Terrebonne, selon Centris, sont comparés dans [le marché immobilier de La Plaine, Lachenaie et Terrebonne au 3e trimestre 2026](/articles/marche-immobilier-terrebonne-lachenaie-la-plaine/).
 
@@ -66,13 +72,19 @@ La route 337, le boulevard Laurier, traverse le secteur et en constitue l'axe pr
 
 Le plan compte dans le secteur 9 parcs de voisinage, 7 parcs de secteur et deux grands parcs, Philippe-Villeneuve et du Boisé. Il note toutefois que le nord du secteur n'est desservi par aucun grand parc.
 
+## Rôle d'évaluation et taxe de bienvenue
+
+Le rôle d'évaluation 2026-2027-2028 de Terrebonne, préparé par LBP Évaluateurs agréés, a pour date de référence le 1er juillet 2024. Selon le budget 2026 de la Ville, le rôle global augmente de 24,66 % par rapport au rôle 2023-2025; la maison moyenne de la ville y vaut 573 987 $ et le condo moyen 390 955 $. Ces moyennes portent sur toute la ville, pas sur La Plaine seule. La Ville étale la variation sur trois ans: le compte de taxes de 2026 utilise la valeur de 2025 plus un tiers de l'écart.
+
+Pour les droits de mutation, Terrebonne applique en 2026 un taux de 3 % sur la tranche qui dépasse 500 000 $, au-dessus des tranches provinciales de 0,5 %, 1 % et 1,5 %; le facteur comparatif 2026 est de 1. Pour une maison de 520 000 $, le prix médian du 3e trimestre à La Plaine, le calcul donne 6 210,50 $. La Ville indique un délai de 3 à 6 mois pour recevoir le compte. Le calcul et les seuils de 2027 sont dans le [guide de la taxe de bienvenue](/articles/taxe-de-bienvenue-quebec/).
+
 ## Ce qu'il faut vérifier avant d'acheter
 
 **La zone agricole.** Selon la Ville, 37 % du territoire de Terrebonne est en zone agricole, et une bonne partie de La Plaine est faite de boisés et de terres agricoles. En zone agricole, plusieurs gestes, comme lotir un terrain ou en changer l'usage, demandent une autorisation de la Commission de protection du territoire agricole du Québec. Pour un grand terrain ou une propriété en bordure de cette zone, vérifiez ce qui est permis avant l'offre, pas après.
 
 **L'eau et l'égout.** Dans un secteur en partie rural, ne présumez pas du raccordement. Vérifiez si la propriété est branchée à l'aqueduc et à l'égout municipaux, ou si elle a un puits et une installation septique, qui s'inspectent et s'entretiennent autrement.
 
-**Les zones inondables.** La rivière Mascouche borde le secteur au sud. Le cadre provincial sur les zones inondables est en vigueur depuis le 1er mars 2026, et le statut se vérifie adresse par adresse. Je valide la carte applicable avant l'offre, parce que ce statut se répercute sur l'assurance et sur le financement.
+**Les zones inondables.** La rivière Mascouche borde le secteur au sud. Le cadre provincial sur les zones inondables est en vigueur depuis le 1er mars 2026, et le statut se vérifie adresse par adresse. Je valide la carte applicable avant l'offre, parce que ce statut se répercute sur l'assurance et sur le financement. Les vérifications sont détaillées dans [acheter en zone inondable au Québec](/articles/acheter-zone-inondable-quebec/).
 
 **Le trajet.** Faites le parcours réel vers votre travail, à l'heure où vous le feriez. C'est le vrai prix de l'écart avec Lachenaie.
 
