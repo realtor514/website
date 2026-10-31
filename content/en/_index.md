@@ -3,7 +3,7 @@ title: "Residential Real Estate Broker in Laval"
 description: "Residential real estate broker in Laval, Montreal, Terrebonne and the North Shore. Buying, selling, investing, free evaluation and service in 3 languages."
 faq:
   - q: "How much does a real estate broker cost in Quebec?"
-    a: "For a buyer, generally nothing: the commission is paid by the seller out of the sale proceeds. For a seller, the commission is negotiated and usually falls between 4% and 6% of the sale price in Greater Montreal. There is no legally fixed rate. I explain in detail what the commission actually covers in [this article](/en/articles/commission-explained-quebec/)."
+    a: "No rate is set by law or by the OACIQ: the commission is freely negotiated and written into the brokerage contract. The seller pays it to their agency, which shares a portion with the buyer's agency; under a buyer brokerage contract, that portion is deducted from what the buyer owes, and the broker must tell the buyer the amount before an offer. GST and QST are added. A worked example on $630,000: [this article](/en/articles/commission-explained-quebec/)."
   - q: "Is the property evaluation really free?"
     a: "Yes, free and with no obligation. I prepare a comparative market analysis using recent sales in your sector and properties withdrawn from the market without selling. You keep the document, whether you decide to list with me or not."
   - q: "What down payment do I need to buy a property in Quebec?"

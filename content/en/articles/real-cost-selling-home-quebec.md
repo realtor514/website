@@ -24,7 +24,7 @@ The suggested fee from the Ordre des arpenteurs-géomètres du Québec for a sin
 
 ## At the sale
 
-**Broker compensation.** Often in the range of 4% to 5% of the sale price before tax, with GST and QST added on top. No rate is set by law in Quebec, and it is always negotiable. On $500,000, that is roughly $20,000 to $25,000 before tax.
+**Broker compensation.** No rate is set by law or by the OACIQ: it is negotiated and written into the brokerage contract, and GST and QST are added on top. On $500,000, each percentage point is $5,000 before tax. A worked example: [real estate commission in Quebec](/en/articles/commission-explained-quebec/).
 
 It is the most visible item, and often the only one sellers anticipate.
 
@@ -62,7 +62,7 @@ Often left out of the calculation: movers, temporary storage if there is a gap b
 
 As an indication, for a single-family home sold at $500,000 with a mortgage in place:
 
-- Broker compensation: roughly $22,500 before tax
+- Broker compensation: $22,500 before tax, at a 4.5% rate chosen for the example
 - Certificate of location: roughly $1,630 plus taxes
 - Preparation and staging: $1,000 to $3,000
 - Mortgage discharge: a few hundred dollars

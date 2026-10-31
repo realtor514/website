@@ -14,7 +14,7 @@ Voici la comparaison complète, y compris les cas où vendre seul est le bon cho
 
 ## Ce que vous économisez vraiment
 
-Au Québec, la rétribution du courtier est souvent de l'ordre de 4 % à 5 % du prix de vente avant taxes. Sur une propriété de 500 000 dollars, cela représente environ 20 000 à 25 000 dollars avant taxes.
+Au Québec, la rétribution du courtier se négocie et s'exprime le plus souvent en pourcentage du prix de vente. Sur une propriété de 500 000 dollars, chaque point de pourcentage représente 5 000 dollars avant taxes, auxquels s'ajoutent la TPS et la TVQ. Exemple chiffré complet: [la commission du courtier immobilier au Québec](/articles/commission-explained-quebec/).
 
 C'est un montant réel, et il faut le prendre au sérieux. Mais deux précisions changent le calcul.
 

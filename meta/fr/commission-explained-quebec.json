@@ -1,0 +1,109 @@
+{
+ "id": "commission-explained-quebec",
+ "slug": "commission-explained-quebec",
+ "title": "Commission du courtier immobilier au Québec: calcul, partage et taxes",
+ "target_keyword": "commission courtier immobilier québec",
+ "category": "Immobilier 101",
+ "sources": [
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/acheter/retribution-payable-par-lacheteur-contrat-de-courtage-exclusif-achat/",
+   "title": "Rétribution payable par l'acheteur: Contrat de courtage exclusif, Achat",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-31",
+   "supports": "Citation sur la libre concurrence (rétribution non réglementée par la Loi, par l'OACIQ ni par aucune autre loi); obligation d'informer l'acheteur du partage avant la promesse d'achat; déduction du partage et possibilité que l'acheteur n'ait rien à payer directement; clause type 1.12 de non-réclamation; contrat de courtage achat à 0 % non liant selon l'article 1 de la Loi; financement de la différence par la clause R2.5 de l'annexe R; exemples OACIQ à 3 % et 2 % sur 390 000 $. Page mise à jour le 7 mai 2024."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/retribution-payable-vendeur/",
+   "title": "Rétribution payable par le vendeur: Contrat de courtage exclusif, Vente en matière résidentielle",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-31",
+   "supports": "Pourcentage, forme la plus courante, appliqué au prix accepté (exemple 500 000 $ inscrit, 495 000 $ accepté); somme forfaitaire; annexe DR; forme et montant négociables; obligation d'expliquer que les taxes s'ajoutent à la rétribution de la clause 7.1; les quatre cas de la clause 7.1; citation « L'acte de vente n'a donc pas à être signé pour que la rétribution soit acquise »; paiement après l'acte à même le produit de la vente selon la clause 11.4 de la promesse d'achat; calcul du délai de 180 jours et notion de personne intéressée. Page mise à jour le 6 mai 2025."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/mon-courtier/comment-retribuer-mon-courtier-immobilier-residentiel/",
+   "title": "Comment rétribuer mon courtier immobilier résidentiel?",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-31",
+   "supports": "La Loi ne traite pas du montant; variation d'une bannière et d'un courtier à l'autre; quatre formes (pourcentage, forfait, taux horaire avec annexe DR, combinaison); citation « Peu importe la forme de rétribution choisie, celle-ci est taxable »; versement à l'agence une fois les services rendus; diminution possible pour des personnes désignées; obligation de dévoiler par écrit les conditions de rétribution, y compris la part offerte aux collaborateurs; paiement réparti par le notaire à la signature de l'acte; cause efficiente régie par l'APCIQ; l'OACIQ n'intervient habituellement pas dans les litiges de rétribution, renvoi au dirigeant d'agence."
+  },
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/resiliation-contrat-courtage/",
+   "title": "Résiliation d'un contrat de courtage",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-31",
+   "supports": "Droit de dédit de trois jours; résiliation sans motif selon la clause 2.1 et frais, dépenses et préjudice selon l'article 2129 du Code civil; contrat stipulé non résiliable à la clause 11.1; rétribution possible pour une vente dans les 180 jours à une personne intéressée; résiliation par le courtier pour motif sérieux (article 2126 C.c.Q.). Page mise à jour le 16 juin 2025."
+  },
+  {
+   "url": "https://www.oaciq.com/media/yr3lojn4/contrat-courtage-residentiel.pdf",
+   "title": "Formulaire obligatoire, Contrat de courtage exclusif, Vente, immeuble principalement résidentiel de moins de 5 logements excluant la copropriété (CCVE, v29 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-31",
+   "supports": "Clause 2.1 (fin à 23 h 59, 30 jours à défaut de date, résiliation sans motif, droit des trois jours maintenu même si non résiliable, résiliation par l'agence pour motif sérieux seulement); clause 7.1 (pourcentage ou somme forfaitaire plus taxes, quatre cas dont les 180 jours); clause 7.2 (droit de partager); clause 7.3 (engagement de collaborer, partage versé à même la somme due, avertissement sur un partage déraisonnable); clause 7.4 (cas sans rétribution). Le PDF est celui que lie la page Formulaires de courtage de l'OACIQ au 31 octobre 2026."
+  },
+  {
+   "url": "https://www.oaciq.com/media/4nvchmpa/contrat-courtage-achat-residentiel.pdf",
+   "title": "Formulaire obligatoire, Contrat de courtage exclusif, Achat, immeuble principalement résidentiel de moins de 5 logements excluant la copropriété (CCA, v22 03/2023)",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-31",
+   "supports": "Clause 6.2: le partage perçu d'une autre agence est déduit de la rétribution prévue; avertissement que ce partage peut varier et dépasser le taux convenu; obligation d'informer l'acheteur du montant attendu avant qu'il formule une proposition d'achat. Clause 6.3 (cas sans rétribution, dont la faute du vendeur)."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-73.2",
+   "title": "Loi sur le courtage immobilier, RLRQ c. C-73.2, à jour au 15 octobre 2026",
+   "publisher": "Légis Québec, Éditeur officiel du Québec",
+   "consulted": "2026-10-31",
+   "supports": "Article 23 (champ d'application: immeuble principalement résidentiel de moins de cinq logements, fonds de terre destiné à la construction résidentielle, fraction d'immeuble visée par les articles 1009 à 1109 C.c.Q.); article 24 (contrat écrit sur le formulaire obligatoire); article 26 (nullité du contrat verbal); article 27 (trois conditions de la rétribution après expiration, maximum de 180 jours); article 28 (résiliation discrétionnaire dans les trois jours); article 29 (aucune rétribution après cette résiliation, sauf cas de l'article 27); article 30 (impossibilité de renoncer)."
+  },
+  {
+   "url": "https://www.revenuquebec.ca/fr/entreprises/taxes/tpstvh-et-tvq/perception-de-la-tps-et-de-la-tvq/calcul-des-taxes/",
+   "title": "Calcul des taxes (TPS et TVQ)",
+   "publisher": "Revenu Québec",
+   "consulted": "2026-10-31",
+   "supports": "TPS de 5 % appliquée au prix de vente, puis TVQ de 9,975 % au même prix; taux combiné de 14,975 %."
+  },
+  {
+   "url": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises/facturer-percevoir-quel-taux/calculatrice.html",
+   "title": "Taux de TPS/TVH et calculatrice",
+   "publisher": "Agence du revenu du Canada",
+   "consulted": "2026-10-31",
+   "supports": "Taux de TPS de 5 % au Québec et taxe provinciale de 9,975 % présentée à part."
+  },
+  {
+   "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+   "title": "Baromètre résidentiel, 3e trimestre 2026, Région métropolitaine de Montréal",
+   "publisher": "APCIQ, par le système Centris",
+   "consulted": "2026-10-31",
+   "supports": "Page 27, Laval: prix médian de l'unifamiliale de 630 000 $ au 3e trimestre 2026 (+5 %), base de l'exemple chiffré."
+  },
+  {
+   "url": "https://www.canada.ca/en/competition-bureau/news/2024/10/competition-bureau-advances-investigation-into-the-canadian-real-estate-associations-policies.html",
+   "title": "Competition Bureau advances investigation into the Canadian Real Estate Association's policies (3 octobre 2024)",
+   "publisher": "Bureau de la concurrence Canada",
+   "consulted": "2026-10-31",
+   "supports": "Enquête sur les règles de commission de l'ACI et sa politique de coopération; ces règles exigent que l'agent du vendeur offre une rémunération à l'agent de l'acheteur pour une propriété inscrite sur un système MLS; examen de l'effet sur la concurrence par des taux plus bas; aucune conclusion d'acte répréhensible."
+  },
+  {
+   "url": "https://www.canada.ca/en/competition-bureau/news/2026/01/competition-bureau-expands-its-investigation-of-real-estate-commission-rules-to-include-greater-vancouver-realtors.html",
+   "title": "Competition Bureau expands its investigation of real estate commission rules to include Greater Vancouver REALTORS (20 février 2026)",
+   "publisher": "Bureau de la concurrence Canada",
+   "consulted": "2026-10-31",
+   "supports": "Extension de l'enquête à Greater Vancouver REALTORS le 20 février 2026, aucune conclusion d'acte répréhensible; le Québec n'est pas visé nommément."
+  },
+  {
+   "url": "https://www.canada.ca/en/competition-bureau/news/2026/10/competition-bureau-reaches-agreement-to-increase-access-to-centris-real-estate-data.html",
+   "title": "Competition Bureau reaches agreement to increase access to Centris real estate data (15 octobre 2026)",
+   "publisher": "Bureau de la concurrence Canada",
+   "consulted": "2026-10-31",
+   "supports": "Consentement avec l'APCIQ (QPAREB): flux de données immobilières à fournir aux membres, en vigueur dix ans; le communiqué ne traite pas des commissions."
+  }
+ ],
+ "claims_needing_review": [
+  "Aucune source officielle consultée ne publie de taux moyen de commission pour le Québec. L'article le dit et ne donne aucune fourchette. La page d'accueil (content/fr/_index.md et content/en/_index.md, FAQ) affirme encore « habituellement entre 4 % et 6 % du prix de vente dans le Grand Montréal » sans source: à corriger ou à sourcer par une autre session, ce fichier n'a pas été modifié ici.",
+  "Les taux de l'exemple (4 % au contrat vente, 2 % de partage, 2,5 % au contrat achat) sont fictifs et présentés comme tels. Les montants sont calculés: 25 200 $, TPS 1 260 $, TVQ 2 513,70 $, total 28 973,70 $; différence acheteur 3 150 $ plus taxes, 3 621,71 $; un point sur 630 000 $: 7 243,43 $.",
+  "La phrase selon laquelle la différence financée par la clause R2.5 dépend de ce que le prêteur accepte est une mise en garde générale; les conditions précises de la SCHL ou des prêteurs n'ont pas été vérifiées.",
+  "L'affirmation qu'un contrat de courtage achat à 0 % ne lierait pas les parties est rapportée telle que l'OACIQ l'énonce (renvoi à l'article 1 de la Loi); sa portée juridique est à faire confirmer.",
+  "L'article 23 de la Loi, modifié par 2024, c. 15, vise la fraction d'immeuble détenue en copropriété; l'article l'applique à « une copropriété » de façon générale. Le formulaire CCVE consulté exclut la copropriété, qui a son propre formulaire: les numéros de clauses cités (2.1, 7.1 à 7.4) sont ceux du CCVE pour une maison et peuvent différer dans le formulaire de copropriété. À confirmer.",
+  "Le Bureau de la concurrence ne dit pas si les règles de commission de l'ACI s'appliquent aux inscriptions sur Centris; l'article se limite à dire que ses communiqués ne visent pas le Québec nommément.",
+  "Le partage interne entre l'agence et son courtier est décrit comme une entente qui ne figure pas au contrat du client: constat tiré de la lecture du CCVE, pas d'une source qui l'énonce."
+ ]
+}

@@ -24,7 +24,7 @@ La tarifa sugerida por el Colegio de Agrimensores de Quebec (Ordre des arpenteur
 
 ## En la venta
 
-**La retribución del corredor.** A menudo del orden del 4 % al 5 % del precio de venta antes de impuestos, a lo que se suman el GST y el QST. Ninguna ley fija la tasa en Quebec, y siempre es negociable. Sobre 500 000 dólares, hablamos de unos 20 000 a 25 000 dólares antes de impuestos.
+**La retribución del corredor.** Ninguna tasa está fijada por la ley ni por la OACIQ: se negocia y se inscribe en el contrato de corretaje, y se suman el GST y el QST. Sobre 500 000 dólares, cada punto porcentual representa 5 000 dólares antes de impuestos. Un ejemplo calculado: [la comisión del corredor inmobiliario en Quebec](/es/articles/commission-explained-quebec/).
 
 Es el rubro más visible y a menudo el único que los vendedores anticipan.
 
@@ -62,7 +62,7 @@ A menudo olvidada en el cálculo: mudanza, almacenamiento temporal si hay desfas
 
 A título indicativo, para una unifamiliar vendida en 500 000 dólares con una hipoteca vigente:
 
-- Retribución del corredor: unos 22 500 dólares antes de impuestos
+- Retribución del corredor: 22 500 dólares antes de impuestos, con una tasa de 4,5 % elegida para el ejemplo
 - Certificado de ubicación: unos 1 630 dólares más impuestos
 - Preparación y puesta en valor: 1 000 a 3 000 dólares
 - Cancelación hipotecaria: unos cientos de dólares

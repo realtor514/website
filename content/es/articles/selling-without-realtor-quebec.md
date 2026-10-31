@@ -14,7 +14,7 @@ Aquí está la comparación completa, incluidos los casos en que vender por cuen
 
 ## Lo que usted ahorra realmente
 
-En Quebec, la retribución del corredor es a menudo del orden del 4 % al 5 % del precio de venta antes de impuestos. En una propiedad de 500 000 dólares, eso representa aproximadamente entre 20 000 y 25 000 dólares antes de impuestos.
+En Quebec, la retribución del corredor se negocia y suele expresarse como un porcentaje del precio de venta. En una propiedad de 500 000 dólares, cada punto porcentual representa 5 000 dólares antes de impuestos, a los que se suman el GST y el QST. Un ejemplo calculado completo: [la comisión del corredor inmobiliario en Quebec](/es/articles/commission-explained-quebec/).
 
 Es una cantidad real y merece tomarse en serio. Pero dos precisiones cambian el cálculo.
 

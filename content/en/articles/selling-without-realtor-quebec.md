@@ -14,7 +14,7 @@ Here is the full comparison, including the cases where selling on your own is th
 
 ## What you actually save
 
-In Quebec, broker compensation is often in the range of 4% to 5% of the sale price before tax. On a $500,000 property, that is roughly $20,000 to $25,000 before tax.
+In Quebec, broker compensation is negotiated and most often expressed as a percentage of the sale price. On a $500,000 property, each percentage point is $5,000 before tax, with GST and QST added. A full worked example: [real estate commission in Quebec](/en/articles/commission-explained-quebec/).
 
 That is real money and it deserves to be taken seriously. But two details change the math.
 

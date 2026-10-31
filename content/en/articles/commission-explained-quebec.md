@@ -1,185 +1,292 @@
 ---
-title: "Real Estate Commission in Quebec"
+title: "Real Estate Commission in Quebec: How It Is Set, Split and Taxed"
 seo_title: "Real Estate Commission in Quebec: How Much and Who Pays"
 date: 2026-06-16
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 category: "Real Estate 101"
-description: "Real estate commission in Quebec: often 4% to 5% in Greater Montreal, with no rate set by law. Who pays it, how it is split, and the GST and QST on top."
+description: "Real estate commission in Quebec: no rate set by law, a worked example on $630,000, the split with the buyer's broker, and the GST and QST on top."
 image: "images/articles/commission-explained-quebec/featured.jpg"
+needs_expert_review: true
+tldr:
+  - "In Quebec, no law sets real estate broker commission: according to the OACIQ, it is not regulated by the Real Estate Brokerage Act, by the OACIQ or by any other law, and it is negotiated."
+  - "Remuneration can be a percentage of the price, a lump sum, an hourly rate or a combination. It is written into the brokerage contract, drawn up on the OACIQ's mandatory form."
+  - "GST at 5% and QST at 9.975% are added to the commission: on a $630,000 sale, the median single-family price in Laval in Q3 2026, each percentage point costs $7,243.43 with taxes."
+  - "The seller pays the listing agency, which shares its remuneration with the buyer's broker's agency under clause 7.3 of the contract; that share is deducted from what the buyer owes their own broker."
+  - "After an exclusive contract ends or is terminated, commission can remain payable for up to 180 days if the sale is made to a person who was interested in the property during the contract (section 27 of the Real Estate Brokerage Act)."
+faq:
+  - q: "How much does a real estate broker charge in Quebec?"
+    a: "The amount written in your brokerage contract, plus GST and QST. No law sets a rate and the OACIQ publishes no average rate. On a $630,000 sale, each percentage point is $6,300 before tax and $7,243.43 with taxes."
+  - q: "Is real estate commission negotiable in Quebec?"
+    a: "Yes. According to the OACIQ, it is determined by free competition. The rate or amount, the form of remuneration, the share offered to the buyer's broker and the length of the contract are all negotiated before signing."
+  - q: "Who pays the buyer's broker in Quebec?"
+    a: "When the seller is represented, the seller's agency pays the collaborating broker the share set in clause 7.3 of the listing contract. That share is deducted from the remuneration in the buyer brokerage contract: the buyer pays directly only the difference, if any, or the full amount if the seller has no broker."
+  - q: "Is real estate commission taxable in Quebec?"
+    a: "Yes. The OACIQ states that remuneration is taxable whatever its form. GST at 5% and QST at 9.975% are both calculated on the commission amount, for 14.975% on top."
+  - q: "When is the real estate commission paid?"
+    a: "In practice, the notary pays it out of the sale proceeds after the deed is signed. The right to the remuneration can be earned earlier, however: as soon as a promise to purchase accepted during the contract has all its conditions fulfilled, except the signing of the deed and payment of the price."
+  - q: "Do I owe commission if I cancel my brokerage contract?"
+    a: "Within three days of receiving the signed copy, the Act lets you terminate at your discretion with no remuneration owed, unless a sale meeting the conditions of section 27 takes place. After that, the mandatory contract can be terminated without cause unless stated otherwise, but you may owe the costs, expenses and damage caused, and the 180-day clause still applies."
 ---
 
-Commission is the fee everyone has heard of and almost nobody gets explained
-in full. Sellers often discover the real number the day before signing at the
-notary, taxes included. Buyers frequently believe they are paying their broker
-out of pocket, which is not the case in the vast majority of transactions.
+In Quebec, real estate broker commission has no official rate: it is
+negotiated between the client and the agency, then written into the brokerage
+contract. This guide explains how it is calculated, who pays it, how it is
+split between the seller's broker and the buyer's broker, which taxes are added,
+and what the exclusive contract provides when it ends.
 
-Here is the complete picture, with the numbers.
+Every rule cited comes from the Real Estate Brokerage Act, the OACIQ's mandatory
+forms or Revenu Québec. The sources are listed at the bottom of the page.
 
-## There is no fixed rate in Quebec
+## No set rate: what the law and the OACIQ say
 
-This is the starting point, and it is the most commonly ignored. No law, no
-regulation and no professional body imposes a percentage. Commission is
-negotiated between the seller and their listing broker, then written into the
-brokerage contract before the property goes to market.
+**Remuneration is a matter of free competition.** According to the
+[OACIQ](https://www.oaciq.com/en/general-public/buying/remuneration-payable-by-the-buyer-exclusive-brokerage-contract-purchase/),
+this remuneration, often called commission, "is not regulated by the Real
+Estate Brokerage Act or the OACIQ, or by any other law, but rather is
+determined by free competition." The Act governs brokers' activities, but it
+does not deal with the amount they can charge, and that amount varies from one
+banner to another and from one broker to another.
 
-In Greater Montreal, commission is often in the range of 4% to 5% of the sale
-price before tax, with no rate set by law, and always negotiable. That is not a
-rule, it is an observation of the market. The percentage
-varies with property type, price, the marketing effort involved, and what you
-negotiate.
+**No official average rate.** None of the official sources consulted for this
+guide (OACIQ, LegisQuébec, Revenu Québec, Competition Bureau) publishes an
+average rate for Quebec. The ranges that circulate online come from private
+websites, not from these bodies. A rate presented as "standard" is a proposal,
+not a rule.
 
-If a broker presents a rate as "the standard rate" or "the required rate",
-treat it as a signal. The rate is always negotiable and should be presented to
-you that way.
+**Four possible forms.** The OACIQ lists four:
 
-## Who pays, and the exception few people know about
+- a percentage of the sale price, the most common form according to the OACIQ;
+- a lump sum, set in advance, which does not change with the price;
+- an hourly rate, which requires the DR schedule (Disbursements and
+  remuneration);
+- a combination of these options.
 
-In the usual structure, the seller pays the commission out of the sale
-proceeds, at the moment the deed is signed at the notary. The buyer does not
-pay out of pocket to compensate their own broker.
+**A written contract, on a mandatory form.** For a mainly residential property
+with fewer than five dwellings, land intended for residential construction or a
+condominium, sections 23 and 24 of the
+[Real Estate Brokerage Act](https://www.legisquebec.gouv.qc.ca/en/document/cs/C-73.2)
+require a contract "evidenced in writing on the mandatory form prepared by the
+Organization." Section 26 adds that any verbal contract is null. In the
+[exclusive brokerage contract to sell](https://www.oaciq.com/media/yr3lojn4/contrat-courtage-residentiel.pdf)
+a house, remuneration goes in clause 7.1, followed by the words "plus
+applicable taxes."
 
-The exception is worth knowing. When a buyer signs a buyer brokerage contract,
-that contract can provide for remuneration payable by the buyer if the selling
-party pays nothing, or pays less than the agreed amount. This comes up in
-particular for properties sold without a listing broker. Read that clause
-before signing and ask to have the exact circumstances explained to you.
+## The math in dollars: a $630,000 sale
 
-## The taxes almost nobody budgets for
+The percentage applies to the accepted price, not the asking price. The OACIQ
+gives the example of a property listed at $500,000 and sold for $495,000: the
+commission is calculated on $495,000. A lump sum stays the same whatever the
+price.
 
-Commission is a service, so it is taxable. GST at 5% and QST at 9.975% are
-added to the agreed amount. The gap between the headline percentage and the
-amount actually withheld at the notary is far from symbolic.
+Take $630,000, the median single-family price in Laval in Q3 2026 according to
+the APCIQ barometer. One percentage point is worth:
 
-| Sale price | Rate | Commission | GST + QST | Total withheld |
-|---|---|---|---|---|
-| $400,000 | 4% | $16,000 | $2,396 | $18,396 |
-| $500,000 | 5% | $25,000 | $3,744 | $28,744 |
-| $600,000 | 5% | $30,000 | $4,493 | $34,493 |
-| $750,000 | 6% | $45,000 | $6,739 | $51,739 |
+| Item | Amount |
+|---|---|
+| 1% of $630,000 | $6,300.00 |
+| GST at 5% | $315.00 |
+| QST at 9.975% | $628.43 |
+| One point, taxes included | $7,243.43 |
 
-Put differently, a 5% commission actually costs about 5.75% once taxes are
-added. That is the figure to use when you calculate your net proceeds, not the
-gross percentage.
+**A full example, with made-up rates.** The rates below only illustrate the
+mechanics. They are neither usual rates nor recommendations: replace them with
+the ones in your contract.
 
-The [closing costs calculator](/en/tools/closing-costs/) lets you place that
-amount beside the other costs of the transaction.
+Assume a listing contract at 4% (clause 7.1), a 2% share offered to the
+collaborating broker (clause 7.3) and, on the buyer's side, a buyer brokerage
+contract at 2.5%.
 
-## How the commission gets split
+| Step | Calculation | Amount |
+|---|---|---|
+| Seller's remuneration to their agency | 4% of $630,000 | $25,200.00 |
+| GST | 5% of $25,200 | $1,260.00 |
+| QST | 9.975% of $25,200 | $2,513.70 |
+| Total withheld at the notary | | $28,973.70 |
+| Share paid to the buyer's agency, out of the $25,200 | 2% of $630,000 | $12,600.00 plus taxes |
+| Remuneration in the buyer's contract | 2.5% of $630,000 | $15,750.00 |
+| Difference payable by the buyer | $15,750 minus $12,600 | $3,150.00 plus taxes, or $3,621.71 |
 
-When a property sells through the Centris system, the commission agreed in the
-contract is usually split between two sides: the listing side, meaning the
-seller's broker, and the collaborating side, meaning the buyer's broker. The
-split is frequently 50/50, but it is set in the contract and can vary.
+The seller therefore receives $601,026.30 before paying off the mortgage and
+other costs. Had the buyer's contract provided for 2% or less, the share offered
+would have covered everything and the buyer would have paid nothing directly.
 
-There is then a second split, invisible to the client: each broker gives a
-share to their agency. The broker does not keep everything their half suggests.
+For other prices, the medians of every Laval neighbourhood are worked out in
+[the article on commission in Laval](/en/articles/real-estate-commission-laval/),
+and the [closing costs calculator](/en/tools/closing-costs/) places this amount
+beside the other costs of the transaction.
 
-This split also has a consequence for sellers. A represented buyer has signed a
-buyer brokerage contract, which can set their broker's remuneration. If the
-share offered to the collaborating broker is lower than what that contract
-provides, the buyer may have to pay the difference, which can complicate their
-offer. It is a point to discuss with your broker when you set that share.
+## Taxes: GST and QST on the commission
 
-## What commission actually pays for
+"Compensation is taxable, regardless of the form chosen," writes the
+[OACIQ](https://www.oaciq.com/en/general-public/my-broker/how-can-i-compensate-my-residential-real-estate-broker/).
+[Revenu Québec](https://www.revenuquebec.ca/en/businesses/consumption-taxes/gsthst-and-qst/collecting-gst-and-qst/calculating-the-taxes/)
+explains the calculation: GST at 5% applies to the price, then QST at 9.975%
+applies to the same price. QST is therefore not calculated on the GST, and the
+two together add 14.975%.
 
-"Broker services" is vague. Here is the concrete detail of what the service can
-include, depending on the property, when a seller lists with me.
+In practice, multiply the commission by 1.14975. A 4% rate actually costs just
+under 4.6% of the price once taxes are added. That is the figure to use when
+estimating the net proceeds of a sale. The OACIQ notes that the broker must
+explain to the client that taxes are calculated on the remuneration in clause
+7.1 and added to it.
 
-**Preparation.** Professional photography, staging consultation, floor plan,
-virtual tour. The difference between a well presented property and one
-photographed on a phone shows up in days on market and in the final price.
+## Who pays: the seller, the buyer and the split between agencies
 
-**Pricing analysis.** A serious comparative market analysis is not a look at
-what the neighbours got. It adjusts for condition, size, exposure, renovations,
-time of year, and the properties that were withdrawn without selling. Those
-last ones are often the most useful information, because they show where buyers
-refuse to go.
+**The seller pays the agency.** If the broker acts for an agency, the
+remuneration is paid to the agency once the services are rendered. What the
+agency then pays its broker is an internal arrangement that does not appear in
+the client's contract.
 
-**Distribution.** The listing reaches every active buyer broker in the region
-through Centris, and the general public through the public portals. It is the
-most powerful distribution mechanism in the Quebec market.
+**The seller's agency shares with the buyer's agency.** Under clause 7.2, the
+seller recognizes the agency's right to share its remuneration with an agency
+that collaborates in the sale. Under clause 7.3, the agency undertakes to
+collaborate with any agency that asks and writes in the percentage or amount it
+will pay, out of the sum owed to it. The form warns that a share on
+unreasonable terms could reduce other brokers' interest in proposing the
+property to their clients.
 
-**Negotiation.** When offers arrive, they have to be read in full: the price,
-but also the conditions, the deadlines, the strength of the financing, the
-buyer's real ability to close. This is the point in the transaction where money
-is won or lost.
+**The broker must disclose everything in writing.** According to the OACIQ, the
+seller's broker must disclose in writing the conditions of their remuneration,
+including the share offered to collaborating brokers, and the consequences of
+those conditions.
 
-**Management through to closing.** Between the accepted offer and the signing
-at the notary there are inspection, financing, legal documents and deadlines. A
-file that is poorly followed at this stage ends in a sale that collapses.
+**What the buyer pays.** Clause 6.2 of the
+[exclusive brokerage contract to purchase](https://www.oaciq.com/media/4nvchmpa/contrat-courtage-achat-residentiel.pdf)
+provides that the share received from the seller's agency is deducted from the
+remuneration agreed with the buyer. The broker must tell the buyer the amount
+they expect to receive before the buyer makes an offer. According to the
+OACIQ, "the buyer may not have any remuneration to pay directly to his own
+broker." If the share received is lower, or if the seller has no broker, the
+buyer pays the difference. Clause R2.5 of Schedule R then allows it to be
+included in the purchase price so it can be financed, subject to what the
+lender accepts.
 
-**Professional accountability.** A broker is regulated by the OACIQ, held to a
-duty to advise, and covered by mandatory professional liability insurance. That
-is protection you do not have in a private transaction.
+**Two details on the buyer's side.** The buyer brokerage contract can include
+standard clause 1.12, under which the broker claims nothing from the buyer if
+they receive a share. And according to the OACIQ, a buyer brokerage contract at
+0% would not bind the parties: the broker could not then represent the buyer.
 
-## The alternatives, honestly
-
-**Sliding percentage.** A rate that decreases above a certain price. Worth
-considering for higher value properties, where a flat percentage produces an
-amount out of proportion with the actual work.
-
-**Flat fee.** A set amount instead of a percentage. Predictable, but check what
-is included and what becomes a paid option.
-
-**Discount brokerage.** Reduced commission in exchange for reduced service.
-This suits a seller who accepts handling part of the process, knows their
-sector's values well, and is comfortable negotiating. It transfers execution
-and risk to the seller.
-
-**Selling without a broker.** It avoids the listing side commission, but not
-necessarily the buying side, since many buyers arrive represented. The real
-calculation is not "commission versus zero", it is "commission versus the price
-you would have obtained otherwise, minus the time invested and the risk
-carried".
+**A dispute to avoid.** The OACIQ points out that visiting a house with the
+seller's broker without saying you intend to be represented by your own broker
+can lead to a dispute between brokers over remuneration. The criterion, called
+the efficient cause of the sale, is governed by APCIQ rules. Each side's
+obligations are detailed in
+[the guide to the buyer brokerage contract](/en/articles/buyer-brokerage-contract-quebec/).
 
 ## When commission becomes payable
 
-Commission is usually withheld by the notary from the sale proceeds when the
-deed is signed. But under the mandatory exclusive brokerage contract, it can
-also be owed in other cases: if a promise to purchase accepted during the
-contract has all its conditions fulfilled, even if the deed is never signed,
-unless the buyer is at fault; if you refuse a promise to purchase that conforms
-to the contract's conditions of sale; if you sell on your own during the
-contract; or if you prevent the sale.
+Clause 7.1 of the listing contract sets out four cases:
 
-Two clauses deserve your attention before you sign:
+1. an agreement to sell the property is made during the contract, with or
+   without the agency's involvement, and all its conditions are fulfilled,
+   except the signing of the deed of sale and payment of the price;
+2. the seller refuses a promise to purchase that meets the conditions of sale
+   in the contract;
+3. a sale takes place within 180 days after the end or termination of the
+   contract with a person who was interested in the property during the
+   contract, unless a new exclusive contract was signed in good faith with
+   another agency;
+4. a voluntary act by the seller prevents performance of the contract.
 
-The **protection clause**, which provides that commission remains payable if
-the property is sold, within a set period after the contract ends, to a buyer
-who was introduced to you during the contract. It is normal. The Real Estate
-Brokerage Act (section 27) caps that period at 180 days, and the clause does
-not apply if, during that period, you signed an exclusive brokerage contract
-with another licence holder. Check its duration.
+The OACIQ sums it up: the deed of sale does not have to be signed for the
+remuneration to be earned. In practice, the remuneration is paid after the deed
+is signed, out of the sale proceeds, under clause 11.4 of the promise to
+purchase. The notary distributes the sums, as explained in
+[the guide to the notary in Quebec](/en/articles/quebec-notary-process/).
 
-The **length of the brokerage contract** itself. It is negotiable. A short
-contract leaves you free to change brokers if the marketing does not deliver,
-and it obliges your broker to perform early.
+Conversely, clause 7.4 rules out any remuneration if the deed is not signed
+through the buyer's fault, or if the broker, their spouse or a company they
+control acquires an interest in the property.
 
-## Questions to ask before signing
+## The exclusive contract: term, termination and 180 days
 
-1. What is the rate, and how is it split with the buyer's broker?
-2. What exactly is included: photos, floor plan, virtual tour, staging, paid
-   advertising?
-3. How often and through which channel will you update me?
-4. How long is the contract, and how long is the protection clause?
-5. Which comparable sales support the price you propose, and did you look at
-   properties withdrawn without a sale?
-6. What happens if I am not satisfied with the marketing?
+**The term.** The contract ends at 11:59 p.m. on the date written in clause
+2.1. With no date, it ends 30 days after it is made. The form does not set the
+date itself: it is negotiated.
 
-A broker who answers those six questions clearly has already shown you how they
-will work during the transaction.
+**Three days to change your mind.** Section 28 of the Act lets the client
+terminate the contract at their discretion within three days after receiving a
+copy signed by both parties, despite any stipulation to the contrary, by simple
+written notice. Section 29 then bars any remuneration, unless a sale meeting
+the conditions of section 27 takes place.
 
-## The bottom line
+**After that period.** Clause 2.1 lets the seller terminate at any time,
+without cause, unless clause 11.1 states otherwise. The seller may then have to
+pay the costs and expenses incurred by the agency or compensate it for the
+damage suffered, as article 2129 of the Civil Code provides, the
+[OACIQ](https://www.oaciq.com/en/general-public/residential-sale/cancellation-of-brokerage-contract/)
+notes. A contract can be stipulated as non-terminable, but the three-day right
+remains. The agency, for its part, can terminate only for a serious reason, and
+not at an inopportune time.
 
-Commission is not a tariff, it is the price of a service you should be able to
-describe. What matters is not paying as little as possible, but knowing exactly
-what you get for what you pay, and being able to see whether it was delivered.
+**The 180-day protection.** Section 27 of the Act makes a clause requiring the
+client to pay after the contract expires valid only if three conditions are
+met: the contract is exclusive, the buyer was interested in the property during
+the contract, and the sale occurs no more than 180 days after expiry, without
+the client having signed an exclusive contract with another broker in the
+meantime. According to the OACIQ, a person who visited the property or made a
+promise to purchase during the contract is generally considered interested.
+The period runs from the scheduled end date, or from the termination date.
+Section 30 bars waiving these rights by agreement.
 
-If you are preparing a sale, start by knowing your baseline with a
-[property value estimate](/en/tools/home-estimate/), then place commission and
-taxes in the full picture of your costs.
+The rest of the form is reviewed clause by clause in
+[the guide to the listing brokerage contract](/en/articles/listing-brokerage-contract-quebec/).
+
+## What is negotiable, and what to get in writing
+
+Before signing, these points are open for discussion:
+
+1. **The rate or lump sum** in clause 7.1, and the price it applies to.
+2. **The form of remuneration**: percentage, lump sum, hourly rate with the DR
+   schedule, or a combination.
+3. **The share offered to the buyer's broker**, in clause 7.3.
+4. **The end date** of the contract, in clause 2.1, and whether it can be
+   terminated.
+5. **Any agreed reduction**, for example for designated persons, in the "Other
+   declarations and conditions" section or in a schedule.
+6. **The services included**: photography, floor plan, virtual tour,
+   advertising. The form does not list them; ask for them in writing.
+
+For buyers, the same questions apply to the buyer brokerage contract, plus
+clause 1.12 on non-claiming of remuneration.
+
+If you disagree about remuneration, the OACIQ says it does not usually
+intervene in such disputes and refers clients to the agency's executive
+officer, who must ensure that ethical obligations are respected.
+
+## Selling without a broker or for a flat fee: what changes
+
+Selling without a broker avoids the commission on the seller's side. It does
+not remove the buyer's broker's commission: a represented buyer has signed a
+buyer brokerage contract, and if nobody pays a share, the buyer pays their
+broker, sometimes by adjusting their offer. The seller also takes on the
+marketing, the visits, the negotiation and the documents.
+
+A flat fee and limited service are other permitted options: a fixed amount, or
+lower remuneration in exchange for fewer services. Check what is included, what
+becomes a paid extra and what remains your responsibility. The full comparison
+is in [the article on selling with or without a broker](/en/articles/selling-without-realtor-quebec/).
+
+## What has changed in Canada since 2024
+
+On October 3, 2024, the Competition Bureau announced it was advancing its
+investigation into the commission rules of the Canadian Real Estate Association
+(CREA). Those rules require the seller's agent to offer compensation to the
+buyer's agent for a property listed on an MLS system. The Bureau is examining
+whether they discourage buyers' agents from competing with lower rates. On
+February 20, 2026, it extended the investigation to Greater Vancouver REALTORS,
+stating that no conclusion of wrongdoing had been reached. Its releases do not
+single out Quebec.
+
+In Quebec, the share is still set by clause 7.3 of the mandatory form. On
+October 15, 2026, the Bureau also reached an agreement with the Quebec
+Professional Association of Real Estate Brokers (QPAREB) requiring it to provide
+its members with a real estate data feed for ten years. That agreement concerns
+access to data, not the amount of commissions.
 
 ---
 
-*Questions about how commission works in your specific situation? [Let's talk
-about it directly](/en/form/).*
+*Want the calculation for your property rather than for a median?
+[Write to me](/en/form/) with the address and your target price: you will get
+the remuneration converted into dollars, taxes included, and the share offered
+to the buyer's broker, before anything is signed.*

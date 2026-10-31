@@ -24,7 +24,7 @@ Le tarif suggéré par l'Ordre des arpenteurs-géomètres du Québec pour une un
 
 ## À la vente
 
-**La rétribution du courtier.** Souvent de l'ordre de 4 % à 5 % du prix de vente avant taxes, auxquels s'ajoutent la TPS et la TVQ. Aucun taux n'est fixé par la loi au Québec, et il est toujours négociable. Sur 500 000 dollars, on parle d'environ 20 000 à 25 000 dollars avant taxes.
+**La rétribution du courtier.** Aucun taux n'est fixé par la loi ni par l'OACIQ: il se négocie et s'inscrit au contrat de courtage, et la TPS et la TVQ s'ajoutent. Sur 500 000 dollars, chaque point de pourcentage représente 5 000 dollars avant taxes. Calcul détaillé: [la commission du courtier immobilier au Québec](/articles/commission-explained-quebec/).
 
 C'est le poste le plus visible, et souvent le seul que les vendeurs anticipent.
 
@@ -62,7 +62,7 @@ Souvent oublié dans le calcul: déménageurs, entreposage temporaire s'il y a u
 
 À titre indicatif, pour une unifamiliale vendue 500 000 dollars avec une hypothèque en cours:
 
-- Rétribution du courtier: environ 22 500 dollars avant taxes
+- Rétribution du courtier: 22 500 dollars avant taxes, à un taux de 4,5 % retenu pour l'exemple
 - Certificat de localisation: environ 1 630 dollars plus taxes
 - Préparation et mise en valeur: 1 000 à 3 000 dollars
 - Quittance hypothécaire: quelques centaines de dollars

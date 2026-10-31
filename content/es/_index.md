@@ -3,7 +3,7 @@ title: "Corredor inmobiliario Laval y Montreal"
 description: "Corredor inmobiliario residencial en Laval, Montreal, Terrebonne y la Rive-Nord. Compra, venta, inversión, evaluación gratuita y servicio en 3 idiomas."
 faq:
   - q: "¿Cuánto cuesta un corredor inmobiliario en Quebec?"
-    a: "Para un comprador, generalmente nada: la comisión la paga el vendedor con el producto de la venta. Para un vendedor, la comisión se negocia y suele situarse entre el 4 % y el 6 % del precio de venta en el Gran Montreal. No existe ninguna tarifa fija impuesta por la ley."
+    a: "Ninguna tasa está fijada por la ley ni por la OACIQ: la comisión se negocia libremente y se inscribe en el contrato de corretaje. El vendedor la paga a su agencia, que comparte una parte con la agencia del comprador; con un contrato de corretaje de compra, esa parte se descuenta de lo que debe el comprador, y el corredor debe indicarle el monto antes de la oferta. Se añaden la TPS y la TVQ. Un ejemplo calculado sobre 630 000 $: [este artículo](/es/articles/commission-explained-quebec/)."
   - q: "¿La evaluación de mi propiedad es realmente gratuita?"
     a: "Sí, gratuita y sin compromiso. Preparo un análisis comparativo de mercado con las ventas recientes de su sector y las propiedades retiradas del mercado sin venderse. Usted se queda con el documento, decida vender conmigo o no."
   - q: "¿Qué aporte inicial se necesita para comprar en Quebec?"

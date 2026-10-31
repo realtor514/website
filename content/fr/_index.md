@@ -3,7 +3,7 @@ title: "Courtier immobilier Laval et Montréal"
 description: "Courtier immobilier à Laval, Montréal, Terrebonne et sur la Rive-Nord. Achat, vente, investissement, évaluation gratuite et service en 3 langues."
 faq:
   - q: "Combien coûte un courtier immobilier au Québec?"
-    a: "Pour un acheteur, généralement rien: la commission est payée par le vendeur sur le produit de la vente. Pour un vendeur, la commission est négociée et se situe habituellement entre 4 % et 6 % du prix de vente dans le Grand Montréal. Il n'existe aucun taux fixe imposé par la loi. J'explique en détail ce que la commission couvre réellement dans [cet article](/articles/commission-explained-quebec/)."
+    a: "Aucun taux n'est fixé par la loi ni par l'OACIQ: la commission se négocie librement et s'inscrit au contrat de courtage. Le vendeur la paie à son agence, qui en partage une part avec l'agence de l'acheteur; avec un contrat de courtage achat, cette part est déduite de ce que l'acheteur doit, et le courtier doit lui en indiquer le montant avant l'offre. La TPS et la TVQ s'ajoutent. Calcul détaillé sur 630 000 $: [cet article](/articles/commission-explained-quebec/)."
   - q: "L'évaluation de ma propriété est-elle vraiment gratuite?"
     a: "Oui, gratuite et sans engagement. Je prépare une analyse comparative de marché avec les ventes récentes de votre secteur et les propriétés retirées du marché sans avoir été vendues. Vous repartez avec le document, que vous décidiez de vendre avec moi ou non."
   - q: "Quelle mise de fonds faut-il pour acheter une propriété au Québec?"
