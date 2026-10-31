@@ -798,7 +798,9 @@ disableKinds = ["taxonomy", "term"]
   ga4Id        = "G-75XEE6C7X8"
 
   # ── SEO / donnees structurees ──
-  ogImage      = "images/og-georges-matar.jpg"
+  # Image de partage Facebook, LinkedIn, X: format paysage 1200 x 630, celui
+  # que ces sites attendent. Le portrait carre d origine etait recadre.
+  ogImage      = "images/og-georges-matar-1200x630.jpg"
   phoneRaw     = "+14383720102"
   # L adresse confirmee par Georges le 2026-10-08, avec le bureau 201 et
   # Laval comme ville, jamais Duvernay. Une seule ecriture partout: Google

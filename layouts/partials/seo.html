@@ -63,6 +63,15 @@
 
 {{- /* ── Open Graph complementaire ── */ -}}
 <meta property="og:image" content="{{ $ogImage }}">
+{{- /* Dimensions declarees pour l image par defaut seulement: sans elles,
+       Facebook n affiche pas l image au premier partage d un lien, et peut
+       en choisir une autre dans la page. */ -}}
+{{- if eq $ogImage ($p.ogImage | absURL) }}
+<meta property="og:image:secure_url" content="{{ $ogImage }}">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+{{- end }}
 <meta property="og:image:alt" content="{{ $p.name }}, {{ $p.founderTitle }}">
 {{- /* Le nom de marque, pas le titre SEO complet de la page d accueil. */}}
 <meta property="og:site_name" content="{{ $p.name }}">
