@@ -204,7 +204,8 @@
       notary:    { en: 'Notary fees',                               fr: 'Honoraires notariaux',           ar: 'أتعاب كاتب العدل',   es: 'Honorarios notariales' },
       inspect:   { en: 'Home inspection',                           fr: 'Inspection préachat',            ar: 'فحص العقار',         es: 'Inspección de la propiedad' },
       title:     { en: 'Title insurance',                           fr: 'Assurance titres',               ar: 'تأمين الملكية',       es: 'Seguro de título' },
-      cmhc:      { en: 'CMHC / Sagen / Canada Guaranty insurance', fr: 'Prime CMHC / Sagen / Canada Guaranty', ar: 'تأمين CMHC',   es: 'Seguro CMHC / Sagen / Canada Guaranty' },
+      cmhc:      { en: 'Mortgage insurance premium (added to the loan, not in the total)', fr: 'Prime d’assurance prêt (ajoutée au prêt, hors total)', ar: 'قسط تأمين القرض (يُضاف إلى القرض، خارج المجموع)', es: 'Prima del seguro hipotecario (añadida al préstamo, fuera del total)' },
+      cmhcTax:   { en: 'Quebec tax on the premium (paid in cash)',  fr: 'Taxe du Québec sur la prime (payée comptant)', ar: 'ضريبة كيبيك على القسط (تُدفع نقداً)', es: 'Impuesto de Quebec sobre la prima (pagado al contado)' },
       moving:    { en: 'Moving costs',                              fr: 'Frais de déménagement',          ar: 'تكاليف الانتقال',    es: 'Gastos de mudanza' },
       adj:       { en: 'Adjustments (taxes, fees)',                 fr: 'Ajustements (taxes, charges)',   ar: 'التسويات (الضرائب، الرسوم)', es: 'Ajustes (impuestos, cargos)' },
       tax:       { en: 'GST (5%) + QST (9.975%), new build',      fr: 'TPS (5 %) + TVQ (9,975 %), neuf', ar: 'GST + QST، بناء جديد', es: 'GST (5%) + QST (9.975%), nueva construcción' }
@@ -217,7 +218,16 @@
       { label: l('inspect'),low: 400,         high: 700 },
       { label: l('title'),  low: 200,         high: 400 }
     ];
-    if (cmhc > 0) items.push({ label: l('cmhc'), low: cmhc, high: cmhc, exact: true, ins: true });
+    /* La prime d assurance pret s ajoute d ordinaire au pret: elle est
+       affichee mais exclue du comptant. La taxe du Quebec sur cette prime,
+       elle, ne peut pas etre financee (SCHL) et se paie chez le notaire:
+       9 %, puis 9,975 % pour les primes payees apres le 31 decembre 2026
+       (Revenu Quebec). Sources: meta/tools/closing-costs.json. */
+    if (cmhc > 0) {
+      items.push({ label: l('cmhc'), low: cmhc, high: cmhc, exact: true, ins: true, financed: true });
+      var pst = cmhc * (is2027 ? 0.09975 : 0.09);
+      items.push({ label: l('cmhcTax'), low: pst, high: pst, exact: true, ins: true });
+    }
     items.push({ label: l('moving'), low: 800,  high: 2500 });
     items.push({ label: l('adj'),    low: 500,  high: 2000 });
     if (isNew) {
@@ -230,8 +240,10 @@
     var totalLow = 0, totalHigh = 0;
 
     items.forEach(function (item) {
-      totalLow  += item.low;
-      totalHigh += item.high;
+      if (!item.financed) {
+        totalLow  += item.low;
+        totalHigh += item.high;
+      }
       var tr = document.createElement('tr');
       tr.className = 'mc-tr' + (item.ins ? ' mc-tr--insurance' : '');
       var highVal = item.exact ? u.fmt(item.low) : u.fmt(item.high);

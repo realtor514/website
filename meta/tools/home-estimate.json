@@ -1,0 +1,59 @@
+{
+ "tool": "home-estimate",
+ "pages": ["content/fr/tools/home-estimate.md", "content/en/tools/home-estimate.md", "content/es/tools/home-estimate.md", "content/ar/tools/home-estimate.md"],
+ "sources": [
+  {
+   "url": "https://www.oaciq.com/fr/grand-public/vendre/etablissement-du-juste-prix-vente-0/",
+   "title": "Etablissement du juste prix de vente",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-31",
+   "supports": "To determine market value the broker must carry out a comparative analysis with similar properties recently sold in the same sector, and give a well-founded, reasoned opinion; factors: location, dimensions, year built, state of upkeep, number of rooms and layout, materials, landscaping, market characteristics."
+  },
+  {
+   "url": "https://oeaq.qc.ca/",
+   "title": "Ordre des evaluateurs agrees du Quebec",
+   "publisher": "OEAQ",
+   "consulted": "2026-10-31",
+   "supports": "'L'evaluateur agree formule une opinion objective et motivee sur la valeur d'un bien ou d'un droit immobilier. Il procede a l'examen methodique du marche immobilier et genere un rapport d'evaluation.'"
+  },
+  {
+   "url": "https://www.quebec.ca/emploi/informer-metier-profession/explorer-metiers-professions/12203.001-evaluateurs-agrees-evaluatrices-agreees",
+   "title": "Evaluateurs agrees, evaluatrices agreees (12203.001)",
+   "publisher": "Gouvernement du Quebec",
+   "consulted": "2026-10-31",
+   "supports": "Membership in the OEAQ is required to use the title evaluateur agree."
+  },
+  {
+   "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8365646/evaluateur-agree",
+   "title": "evaluateur agree, Grand dictionnaire terminologique",
+   "publisher": "Office quebecois de la langue francaise",
+   "consulted": "2026-10-31",
+   "supports": "In Quebec the title evaluateur agree is granted by the OEAQ, governed by the Professional Code."
+  },
+  {
+   "url": "https://www.centris.ca/fr/outils/statistiques-immobilieres/laval",
+   "title": "Laval: Statistiques immobilieres, Centris.ca",
+   "publisher": "Centris",
+   "consulted": "2026-10-31",
+   "supports": "Laval, 3rd quarter 2026, median price: single-family $630,000, condominium $439,999. Median definition: half of transactions below, half above."
+  },
+  {
+   "url": "https://www.laval.ca/taxes-evaluation-fonciere/droits-mutation-immobiliere/",
+   "title": "Droits de mutation immobiliere, Ville de Laval",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-31",
+   "supports": "The comparative factor brings the roll amount to market value; 1.032 for 2026."
+  },
+  {
+   "url": "layouts/partials/tools/home-estimate.html",
+   "title": "Code de l'estimateur",
+   "publisher": "georgesmatar.ca",
+   "consulted": "2026-10-31",
+   "supports": "Method described on the page; example Laval condo 900 sq ft, 2 bd, 2 ba, 1990s, average, exterior parking, no basement: 390 x 900 = 351,000; range 0.85 / 1.15 rounded to thousands = 298,000 to 404,000."
+  }
+ ],
+ "claims_needing_review": [
+  "Calculator code (already documented in the code, decision of 2026-10-02): coefficients have no published source. With the same code, Laval detached 1,600 sq ft, 3 bd, 2 ba, 1990s, average, 1-car garage, finished basement gives about $919,000 against a Centris Q3 2026 single-family median of $630,000. The page now shows the Centris medians next to the method so the reader can calibrate.",
+  "Wording rule applied: the result is never called an evaluation/appraisal; the broker's product is a 'valeur marchande estimee' from an ACM; only an evaluateur agree (OEAQ) produces an appraisal report."
+ ]
+}

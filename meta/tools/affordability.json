@@ -1,0 +1,76 @@
+{
+ "tool": "affordability",
+ "pages": ["content/fr/tools/affordability.md", "content/en/tools/affordability.md", "content/es/tools/affordability.md", "content/ar/tools/affordability.md"],
+ "sources": [
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/mortgage-loan-insurance-homeownership-programs/purchase",
+   "title": "CMHC Purchase (mortgage loan insurance, homeowner)",
+   "publisher": "Societe canadienne d'hypotheques et de logement (SCHL/CMHC)",
+   "consulted": "2026-10-31",
+   "supports": "GDS maximum 39 %, TDS maximum 44 %. GDS and TDS calculated at the greater of the contract rate plus 2 % or 5.25 %. Purchase price or lending value must be below $1,500,000. Maximum amortization 25 years (30 years through CMHC Home Start). Premium on total loan: 2.80 % (80.01-85 % LTV), 3.10 % (85.01-90 %), 4.00 % (90.01-95 %), 4.50 % with non-traditional down payment. Premiums are a one-time charge which may be added to the insured loan amount. Worked example: 5 % of $500,000 + 10 % of the portion above."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/mortgage-loan-insurance-homeownership-programs/home-start",
+   "title": "CMHC Home Start: 30-year mortgages for first-time homebuyers or buyers of a newly built home",
+   "publisher": "SCHL/CMHC",
+   "consulted": "2026-10-31",
+   "supports": "30-year amortization available if at least one borrower is a first-time homebuyer or the home is newly built. Premiums: 3.00 % (80.01-85 %), 3.30 % (85.01-90 %), 4.20 % (90.01-95 %), i.e. 0.20 point above the 25-year schedule."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/consumers/home-buying/mortgage-loan-insurance-for-consumers/what-are-the-general-requirements-to-qualify-for-homeowner-mortgage-loan-insurance",
+   "title": "What are the general requirements to qualify for homeowner mortgage loan insurance?",
+   "publisher": "SCHL/CMHC",
+   "consulted": "2026-10-31",
+   "supports": "GDS includes principal and interest, property taxes, heating, and half of condominium fees; GDS 39 % and TDS 44 % of gross household income; minimum down payment 5 % on the first $500,000 and 10 % above; price below $1,500,000."
+  },
+  {
+   "url": "https://www.osfi-bsif.gc.ca/en/supervision/financial-institutions/banks/minimum-qualifying-rate-uninsured-mortgages",
+   "title": "Minimum qualifying rate for uninsured mortgages",
+   "publisher": "Bureau du surintendant des institutions financieres (BSIF/OSFI)",
+   "consulted": "2026-10-31",
+   "supports": "Uninsured MQR: the greater of the mortgage contract rate plus 2 % or 5.25 %. OSFI does not expect lenders to apply the MQR to uninsured straight switches at renewal (no increase in amount or amortization). Page modified 2026-01-29; rate reviewed at least annually."
+  },
+  {
+   "url": "https://www.canada.ca/en/department-finance/news/2021/05/statement-by-the-deputy-prime-minister-and-minister-of-finance-on-the-canadian-housing-market.html",
+   "title": "Statement by the Deputy Prime Minister and Minister of Finance on the Canadian housing market (May 2021)",
+   "publisher": "Ministere des Finances du Canada",
+   "consulted": "2026-10-31",
+   "supports": "Insured mortgages: minimum qualifying rate is the greater of the contract rate plus 2 % or 5.25 %, for insured mortgages approved on or after June 1, 2021."
+  },
+  {
+   "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017",
+   "title": "Guideline B-20: Residential Mortgage Underwriting Practices and Procedures",
+   "publisher": "BSIF/OSFI",
+   "consulted": "2026-10-31",
+   "supports": "B-20 sets no numeric GDS/TDS limits: CMHC sets them for insured loans; each lender sets its own maximums in its underwriting policy for other loans."
+  },
+  {
+   "url": "https://www.canada.ca/en/financial-consumer-agency/services/mortgages/down-payment.html",
+   "title": "Saving for a down payment and closing costs",
+   "publisher": "Agence de la consommation en matiere financiere du Canada (ACFC/FCAC)",
+   "consulted": "2026-10-31",
+   "supports": "Minimum down payment: 5 % up to $500,000; 5 % of the first $500,000 plus 10 % of the portion above for $500,000 to $1.5 million; 20 % for $1.5 million or more."
+  },
+  {
+   "url": "https://www.canada.ca/en/department-finance/news/2024/09/government-announces-mortgage-reform-details-to-ensure-canadians-can-access-lower-monthly-mortgage-payments-by-december-15.html",
+   "title": "Government announces mortgage reform details (September 2024)",
+   "publisher": "Ministere des Finances du Canada",
+   "consulted": "2026-10-31",
+   "supports": "Insured price cap raised from $1 million to $1.5 million; 30-year amortizations extended to all first-time homebuyers and all buyers of new builds (effective December 15, 2024)."
+  },
+  {
+   "url": "layouts/partials/tools/affordability.html + layouts/tools/single.html",
+   "title": "Code du calculateur (calcul refait hors navigateur)",
+   "publisher": "georgesmatar.ca",
+   "consulted": "2026-10-31",
+   "supports": "All worked examples were computed by reproducing findMaxAffordable() exactly (semi-annual compounding, 25 years, property tax 1 %/year, heating $150, condo fees x 0.5). Ex. 1: $100,000 income, $500 debts, $50,000 down, 4 % -> 6 %: max $450,000, loan $400,000, premium 3.10 % = $12,400, payment $2,638.56, PITH $3,163.56, GDS 37.96 %, TDS 43.96 %; payment at 4 % = $2,169.31. Same at 5.5 % -> 7.5 %: $405,000 (TDS 43.98 %). $150,000 / $800 / $150,000 / 4.5 %: $737,000 (TDS 43.97 %, no premium). $200,000 / $0 / $30,000 / 4.5 %: $550,000, bound by down payment. FAQ: $500,000 with $25,000 down at 4 %: payment $3,160.64 on $494,000, tax $416.67, heating $150 -> income $114,687; with $100,000 down: $96,181."
+  }
+ ],
+ "claims_needing_review": [
+  "Calculator code: property tax fixed at 1 % of price per year and heating at $150/month have no cited source; effective residential tax rates in Laval and Montreal should be checked against the 2026 municipal rates.",
+  "Calculator code: 30-year amortization is offered to everyone and priced with the 25-year premium; CMHC insures 30 years only through Home Start (first-time buyer or new build) at premiums 0.20 point higher (3.00 / 3.30 / 4.20 %).",
+  "Calculator code: the 'estimated monthly payment' shown is computed at the stress-test rate, not the contract rate (example: $2,638.56 shown vs $2,169.31 at the 4 % contract rate). The page text now says so.",
+  "Calculator code: 39 % / 44 % limits are also applied to uninsured loans (20 %+ down), where lenders set their own limits under B-20. The page text says so.",
+  "OSFI MQR rule (contract + 2 % or 5.25 %) confirmed on the OSFI page modified 2026-01-29; re-check after OSFI's annual December review."
+ ]
+}

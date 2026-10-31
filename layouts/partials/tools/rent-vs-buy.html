@@ -244,13 +244,21 @@
     }
 
     var down         = u.parseMoney(document.getElementById('rvb-down').value);
-    var rate         = parseFloat(document.getElementById('rvb-rate').value) || 5.5;
+    /* Un zero saisi est une hypothese valable (aucune appreciation, aucune
+       hausse de loyer): seul un champ vide prend la valeur par defaut. */
+    function num(id, def, parse) {
+      var raw = String(document.getElementById(id).value).trim();
+      if (raw === '') return def;
+      var v = (parse || parseFloat)(raw);
+      return isNaN(v) ? def : v;
+    }
+    var rate         = num('rvb-rate', 5.5);
     var amortYears   = parseInt(document.getElementById('rvb-amort').value) || 25;
-    var appreciation = parseFloat(document.getElementById('rvb-appreciation').value) || 3.0;
-    var propTax      = u.parseMoney(document.getElementById('rvb-proptax').value) || 300;
+    var appreciation = num('rvb-appreciation', 3.0);
+    var propTax      = num('rvb-proptax', 300, u.parseMoney);
     var rent0        = u.parseMoney(document.getElementById('rvb-rent').value);
-    var rentInc      = parseFloat(document.getElementById('rvb-rentincrease').value) || 3.0;
-    var investReturn = parseFloat(document.getElementById('rvb-invest').value) || 6.0;
+    var rentInc      = num('rvb-rentincrease', 3.0);
+    var investReturn = num('rvb-invest', 6.0);
     var years        = parseInt(document.getElementById('rvb-years').value) || 20;
 
     var ppy      = 12;

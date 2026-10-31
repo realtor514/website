@@ -1,0 +1,25 @@
+{
+ "tool": "rent-vs-buy",
+ "pages": ["content/fr/tools/rent-vs-buy.md", "content/en/tools/rent-vs-buy.md", "content/es/tools/rent-vs-buy.md", "content/ar/tools/rent-vs-buy.md"],
+ "sources": [
+  {
+   "url": "layouts/partials/tools/rent-vs-buy.html",
+   "title": "Code du calculateur (simulation refaite hors navigateur)",
+   "publisher": "georgesmatar.ca",
+   "consulted": "2026-10-31",
+   "supports": "Method described on the page (monthly loop, buyer equity = value - balance, renter wealth = down payment invested + monthly gap, maintenance 1 % of initial price, rent raised yearly). Results after 20 years with preloaded values (550,000 / 110,000 / 4.99 % / 25 y / tax 275 / rent 2,300 / +3 % / 6 %), one change at a time: appreciation 4 %: 1,069,443 vs 520,533; 2 %: 681,596 vs 520,533; 1 %: 535,430 vs 520,533 (gap 14,897); return 8 %: renter 751,796; return 4 %: renter 356,047. 3 % appreciation: 857,686."
+  },
+  {
+   "url": "https://www.laval.ca/taxes-evaluation-fonciere/droits-mutation-immobiliere/",
+   "title": "Droits de mutation immobiliere, Ville de Laval",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-31",
+   "supports": "2026 Laval brackets used for the FAQ figure: welcome tax on $550,000 = 314.50 + 2,521 + 2,775 + 1,500 = $7,110.50."
+  }
+ ],
+ "claims_needing_review": [
+  "Calculator code: inputs use 'parseFloat(x) || default', so entering 0 is silently replaced: appreciation 0 -> 3 %, rent increase 0 -> 3 %, investment return 0 -> 6 %, rate 0 -> 5.5 %, property tax 0 -> $300. A user testing a flat market gets a 3 % appreciation result.",
+  "Calculator code: preset note says values are 'based on the Montreal and Laval market (2025)' but no source is recorded for price 550,000, rent 2,300, appreciation 4 %, return 6 %, rent increase 3 %, property tax 275.",
+  "Calculator code: property tax and maintenance stay flat in nominal dollars for up to 30 years while rent grows yearly; no buying costs, selling costs, home insurance or tax on investment income; the Quebec tax on the CMHC premium is omitted. Most of these bias toward buying, especially on short horizons. The page text lists these limits."
+ ]
+}

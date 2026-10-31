@@ -1,0 +1,83 @@
+{
+ "tool": "closing-costs",
+ "pages": ["content/fr/tools/closing-costs.md", "content/en/tools/closing-costs.md", "content/es/tools/closing-costs.md", "content/ar/tools/closing-costs.md"],
+ "sources": [
+  {
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/montants-permettant-detablir-les-tranches-de-la-base-dimposition-des-droits-sur-les-mutations-immobilieres-exercice-2027-72131",
+   "title": "Montants permettant d'etablir les tranches de la base d'imposition des droits sur les mutations immobilieres, exercice 2027",
+   "publisher": "Gouvernement du Quebec (MAMH)",
+   "consulted": "2026-10-31",
+   "supports": "Notice of July 31, 2026: indexation rate 2.4173 %; thresholds go from $62,900 to $64,400 and from $315,000 to $322,600 for the 2027 municipal fiscal year."
+  },
+  {
+   "url": "https://www.laval.ca/taxes-evaluation-fonciere/droits-mutation-immobiliere/",
+   "title": "Droits de mutation immobiliere, Ville de Laval",
+   "publisher": "Ville de Laval",
+   "consulted": "2026-10-31",
+   "supports": "2026 brackets: 0.5 % to $62,900, 1 % to $315,000, 1.5 % to $500,000, 3 % above $500,000. Comparative factor 1.032 for 2026."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/consumers/home-buying/mortgage-loan-insurance-for-consumers/cmhc-mortgage-loan-insurance-cost",
+   "title": "CMHC Mortgage Loan Insurance cost",
+   "publisher": "SCHL/CMHC",
+   "consulted": "2026-10-31",
+   "supports": "Premium table (2.80 / 3.10 / 4.00 %). 'Premiums in Quebec, Ontario and Saskatchewan are subject to provincial sales tax. The provincial sales tax cannot be added to the loan amount.'"
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/mortgage-loan-insurance-homeownership-programs/purchase",
+   "title": "CMHC Purchase",
+   "publisher": "SCHL/CMHC",
+   "consulted": "2026-10-31",
+   "supports": "The application premiums are a one-time charge which may be added to the insured loan amount."
+  },
+  {
+   "url": "https://www.revenuquebec.ca/fr/citoyens/taxes/biens-et-services-taxables-detaxes-ou-exoneres/taxe-sur-les-primes-dassurance/",
+   "title": "Taxe sur les primes d'assurance, paiement de la taxe",
+   "publisher": "Revenu Quebec",
+   "consulted": "2026-10-31",
+   "supports": "The tax on insurance premiums is 9 %; neither GST nor QST applies to insurance premiums. Page read with curl (WebFetch returned 403)."
+  },
+  {
+   "url": "https://www.revenuquebec.ca/fr/salle-de-presse/nouvelles-fiscales/details/2026-04-09/uniformisation-du-taux-de-la-taxe-sur-les-primes-dassurance-avec-celui-de-la-tvq/",
+   "title": "Uniformisation du taux de la taxe sur les primes d'assurance avec celui de la TVQ",
+   "publisher": "Revenu Quebec",
+   "consulted": "2026-10-31",
+   "supports": "Rate goes from 9 % to 9.975 % for insurance premiums paid after December 31, 2026. Page read with curl."
+  },
+  {
+   "url": "https://www.revenuquebec.ca/fr/salle-de-presse/nouvelles-fiscales/details/2026-04-21/instauration-dun-credit-dimpot-remboursable-pour-acces-a-la-propriete/",
+   "title": "Instauration d'un credit d'impot remboursable pour acces a la propriete",
+   "publisher": "Revenu Quebec",
+   "consulted": "2026-10-31",
+   "supports": "Refundable credit from the 2026 taxation year on the municipal transfer duty paid for a first home: 100 % of the first $5,000 plus 25 % of the next $3,500, maximum $5,875; reduced by 2.35 % of the tax base above $750,000, zero at $1 million."
+  },
+  {
+   "url": "https://www.oaciq.com/media/qqlnugz4/promesse-achat-residentiel.pdf",
+   "title": "Promesse d'achat, immeuble principalement residentiel (formulaire PA, V29 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-31",
+   "supports": "Clause 7.3: fees for the deed of sale, its publication and copies are paid by the buyer. Repayment and discharge of the seller's hypothecs are paid by the seller unless otherwise stipulated. Repartitions of general and special property taxes, fuel reserves and income and expenses at the date of the deed or of occupancy."
+  },
+  {
+   "url": "https://www.revenuquebec.ca/fr/entreprises/taxes/tpstvh-et-tvq/perception-de-la-tps-et-de-la-tvq/calcul-des-taxes/",
+   "title": "Calcul des taxes (TPS et TVQ)",
+   "publisher": "Revenu Quebec",
+   "consulted": "2026-10-31",
+   "supports": "GST 5 % and QST 9.975 %."
+  },
+  {
+   "url": "layouts/partials/tools/closing-costs.html",
+   "title": "Code du calculateur (calcul refait a la main)",
+   "publisher": "georgesmatar.ca",
+   "consulted": "2026-10-31",
+   "supports": "Example Laval, $400,000, $40,000 down, 2026: welcome tax 314.50 + 2,521 + 1,275 = $4,110.50 (2027: 322 + 2,582 + 1,161 = $4,065); premium 3.10 % x $360,000 = $11,160; tax 9 % = $1,004.40, 9.975 % = $1,113.21; ranges coded: notary 1,500-3,500, inspection 400-700, title 200-400, moving 800-2,500, adjustments 500-2,000 -> 3,400 to 9,100. Calculator total 18,670.50 to 24,370.50; cash without premium but with its tax 8,514.90 to 14,214.90."
+  }
+ ],
+ "claims_needing_review": [
+  "Ranges for notary (1,500-3,500), inspection (400-700), title insurance (200-400), moving (800-2,500) and adjustments (500-2,000) come from the calculator code, not from a published source. The page presents them as budgeting ranges, not rates.",
+  "Calculator code: counts the full CMHC premium as a closing cost, though CMHC says it may be added to the loan, and omits the Quebec tax on the premium (9 %, 9.975 % for premiums paid after 2026-12-31), which cannot be financed. The page text explains both.",
+  "Calculator code: switches to 2027 thresholds based on today's date, not the deed year (the welcome-tax calculator lets the user choose). The page text says so.",
+  "Calculator code: Montreal upper brackets (552,300 / 1,104,700 / 2,136,500 / 3,113,000) are 2026 values; INDEX_2027 only maps the two provincial thresholds. Update once Montreal's 2027 by-law is adopted.",
+  "Calculator code: new construction adds GST + QST on the full price with no rebate and assumes the price excludes taxes; rebates were not researched for this page."
+ ]
+}
