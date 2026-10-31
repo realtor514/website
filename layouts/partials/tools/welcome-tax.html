@@ -7,7 +7,22 @@
     {{ if $isFr }}Estimez les droits de mutation immobilière (taxe de bienvenue) à payer lors de l'achat d'une propriété au Québec, selon les taux officiels 2026 de la municipalité.{{ else if $isAr }}احسب رسوم نقل ملكية العقار (ضريبة الترحيب) عند شراء عقار في كيبيك، وفق المعدلات الرسمية لعام 2026 حسب البلدية.{{ else if $isEs }}Estime el impuesto de bienvenida (droits de mutation) a pagar al comprar una propiedad en Quebec, según las tarifas oficiales 2026 de cada municipio.{{ else }}Estimate the welcome tax (droits de mutation) payable when purchasing property in Quebec, using each municipality's official 2026 rates.{{ end }}
   </p>
 
-  <div class="mc-row mc-row--2">
+  <div class="mc-row mc-row--3">
+    <div class="mc-field">
+      <label class="mc-label" for="wt-year">
+        {{ if $isFr }}Année de l&rsquo;achat chez le notaire{{ else if $isAr }}سنة الشراء لدى الموثق{{ else if $isEs }}Año de la compra ante notario{{ else }}Year of the notary signing{{ end }}
+      </label>
+      <div class="mc-select-wrap">
+        <select class="mc-select" id="wt-year">
+          <option value="2026">2026</option>
+          <option value="2027">2027</option>
+        </select>
+        <span class="mc-select-arrow">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </span>
+      </div>
+    </div>
+
     <div class="mc-field">
       <label class="mc-label" for="wt-price">
         {{ if $isFr }}Prix de la propriété{{ else if $isAr }}سعر العقار{{ else if $isEs }}Precio de la propiedad{{ else }}Property price{{ end }}
@@ -69,6 +84,10 @@
       {{ if $isFr }}Voir les taux de droits de mutation 2026{{ else if $isAr }}عرض معدلات رسوم النقل 2026{{ else if $isEs }}Ver tarifas de impuesto de bienvenida 2026{{ else }}View 2026 welcome tax rates{{ end }}
     </summary>
     <div class="wt-rates-box__body">
+
+      <p class="wt-rates-box__note">
+        {{ if $isFr }}En 2027, les deux premiers seuils passent de 62 900 $ à 64 400 $ et de 315 000 $ à 322 600 $ partout au Québec (avis du ministère des Affaires municipales et de l&rsquo;Habitation, 31 juillet 2026). Le seuil de 500 000 $ ne change pas.{{ else if $isAr }}في 2027، تنتقل العتبتان الأوليان من 62,900$ إلى 64,400$ ومن 315,000$ إلى 322,600$ في كل كيبيك (إشعار وزارة الشؤون البلدية والإسكان، 31 يوليو 2026). ولا تتغير عتبة 500,000$.{{ else if $isEs }}En 2027, los dos primeros umbrales pasan de $62,900 a $64,400 y de $315,000 a $322,600 en todo Quebec (aviso del Ministère des Affaires municipales et de l&rsquo;Habitation, 31 de julio de 2026). El umbral de $500,000 no cambia.{{ else }}In 2027, the first two thresholds move from $62,900 to $64,400 and from $315,000 to $322,600 everywhere in Quebec (notice from the Ministère des Affaires municipales et de l&rsquo;Habitation, July 31, 2026). The $500,000 threshold does not change.{{ end }}
+      </p>
 
       <!-- Other QC -->
       <p class="wt-rates-box__city-title">
@@ -249,8 +268,29 @@
     }
   };
 
-  function calcWelcomeTax(price, city) {
+  /* 2027: les deux seuils indexes par la loi passent a 64 400 $ et
+     322 600 $ (avis du MAMH du 31 juillet 2026). Les tranches municipales
+     au-dela de 500 000 $ restent celles de 2026 jusqu a l adoption des
+     budgets 2027: l avertissement le dit. */
+  var INDEX_2027 = { 62900: 64400, 315000: 322600 };
+  function bracketsFor(city, year) {
     var b = BRACKETS[city] || BRACKETS.other;
+    if (year !== '2027') return b;
+    return b.map(function (x) { return { limit: INDEX_2027[x.limit] || x.limit, rate: x.rate }; });
+  }
+  var YEAR_NOTE_2027 = {
+    en: ' 2027: indexed thresholds of $64,400 and $322,600. Municipal rates above $500,000 are the 2026 ones until the 2027 municipal budgets are adopted.',
+    fr: ' 2027 : seuils indexés de 64 400 $ et 322 600 $. Les taux municipaux au-delà de 500 000 $ sont ceux de 2026 jusqu’à l’adoption des budgets municipaux 2027.',
+    ar: ' 2027: العتبتان المفهرستان 64,400$ و322,600$. والنسب البلدية فوق 500,000$ هي نسب 2026 إلى حين اعتماد الميزانيات البلدية لسنة 2027.',
+    es: ' 2027: umbrales indexados de $64,400 y $322,600. Las tasas municipales por encima de $500,000 son las de 2026 hasta la adopción de los presupuestos municipales 2027.'
+  };
+  /* L annee proposee par defaut est celle du jour: 2027 a partir du
+     1er janvier 2027. */
+  var yearEl = document.getElementById('wt-year');
+  if (new Date() >= new Date(2027, 0, 1)) yearEl.value = '2027';
+
+  function calcWelcomeTax(price, city, year) {
+    var b = bracketsFor(city, year);
     var tax = 0, prev = 0, rows = [];
     for (var i = 0; i < b.length; i++) {
       if (price <= prev) break;
@@ -282,7 +322,8 @@
       return;
     }
     var city   = document.getElementById('wt-city').value;
-    var result = calcWelcomeTax(price, city);
+    var year   = yearEl.value;
+    var result = calcWelcomeTax(price, city, year);
 
     document.getElementById('wt-total').textContent     = u.fmt(result.total);
     document.getElementById('wt-city-label').textContent = (CITY_LABELS[city] || CITY_LABELS.other)[lang] || (CITY_LABELS[city] || CITY_LABELS.other)['en'];
@@ -306,7 +347,7 @@
     tbody.appendChild(totalTr);
 
     var disc = DISCLAIMERS[city] || DISCLAIMERS.other;
-    document.getElementById('wt-disclaimer').textContent = disc[lang] || disc['en'];
+    document.getElementById('wt-disclaimer').textContent = (disc[lang] || disc['en']) + (year === '2027' ? (YEAR_NOTE_2027[lang] || YEAR_NOTE_2027.en) : '');
 
     var res = document.getElementById('wt-results');
     res.classList.add('mc-results--visible');

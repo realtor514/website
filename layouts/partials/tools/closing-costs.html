@@ -162,8 +162,15 @@
     gatineau: [ { limit: 62900, rate: 0.005 }, { limit: 315000, rate: 0.010 }, { limit: 500000, rate: 0.015 }, { limit: Infinity, rate: 0.030 } ]
   };
 
+  /* A partir du 1er janvier 2027, les deux seuils indexes passent a
+     64 400 $ et 322 600 $ (avis du MAMH du 31 juillet 2026), comme dans le
+     calculateur des droits de mutation. */
+  var INDEX_2027 = { 62900: 64400, 315000: 322600 };
+  var is2027 = new Date() >= new Date(2027, 0, 1);
+
   function calcWelcomeTax(price, city) {
     var b = BRACKETS[city] || BRACKETS.other;
+    if (is2027) b = b.map(function (x) { return { limit: INDEX_2027[x.limit] || x.limit, rate: x.rate }; });
     var tax = 0, prev = 0;
     for (var i = 0; i < b.length; i++) {
       if (price <= prev) break;

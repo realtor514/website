@@ -101,6 +101,21 @@
 <div class="content-body">
   {{ with .Content }}{{ . }}{{ end }}
 
+  {{/* FAQ visible, la meme que le balisage FAQPage de seo.html. */}}
+  {{ with .Params.faq }}
+  <section class="article-faq">
+    <h2>{{ if $isFr }}Questions fréquentes{{ else if $isAr }}أسئلة شائعة{{ else if $isEs }}Preguntas frecuentes{{ else }}Frequently asked questions{{ end }}</h2>
+    <div class="faq-list">
+      {{ range . }}
+      <details class="faq-item">
+        <summary class="faq-item__q">{{ .q }}</summary>
+        <div class="faq-item__a">{{ .a | markdownify }}</div>
+      </details>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
   <h2>
     {{ if $isFr }}D&rsquo;o&ugrave; viennent ces chiffres{{ else if $isAr }}من أين تأتي هذه الأرقام{{ else if $isEs }}De d&oacute;nde vienen estas cifras{{ else }}Where these figures come from{{ end }}
   </h2>

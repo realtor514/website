@@ -1,0 +1,55 @@
+{
+  "id": "taxe-de-bienvenue-quebec",
+  "slug": "taxe-de-bienvenue-quebec",
+  "title": "Taxe de bienvenue au Québec en 2027: tranches, calcul et qui la paie",
+  "target_keyword": "taxe de bienvenue 2027",
+  "category": "Guide de l'acheteur",
+  "sources": [
+    {
+      "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-15.1",
+      "title": "Loi concernant les droits sur les mutations immobilières (RLRQ, c. D-15.1)",
+      "publisher": "LegisQuébec, Éditeur officiel du Québec",
+      "consulted": "2026-10-19",
+      "supports": "Article 2: taux de 0,5 %, 1 % et 1,5 %; base d'imposition, plus élevé des trois montants; troisième alinéa: taux municipal supérieur sur la tranche de plus de 500 000 $, plafonné à 3 % sauf pour Montréal. Article 11: exigible le 31e jour suivant l'envoi du compte. Seuils 2026: 62 900 $ et 315 000 $."
+    },
+    {
+      "url": "https://www.quebec.ca/nouvelles/actualites/details/montants-permettant-detablir-les-tranches-de-la-base-dimposition-des-droits-sur-les-mutations-immobilieres-exercice-2027-72131",
+      "title": "Montants permettant d'établir les tranches de la base d'imposition des droits sur les mutations immobilières, exercice 2027",
+      "publisher": "Ministère des Affaires municipales et de l'Habitation",
+      "consulted": "2026-10-21",
+      "supports": "Avis du 31 juillet 2026: indexation de 2,4173 %; seuils de 64 400 $ et 322 600 $ pour 2027. Exemples chiffrés calculés par le rédacteur."
+    },
+    {
+      "url": "https://montreal.ca/articles/comment-sont-calcules-les-droits-sur-les-mutations-immobilieres-9279",
+      "title": "Comment sont calculés les droits sur les mutations immobilières",
+      "publisher": "Ville de Montréal",
+      "consulted": "2026-10-31",
+      "supports": "Page mise à jour le 12 janvier 2026: tranches 2026 jusqu'à 62 900 $ (0,5 %), 315 000 $ (1 %), 552 300 $ (1,5 %), 1 104 700 $ (2 %), 2 136 500 $ (2,5 %), 3 113 000 $ (3,5 %), au-delà 4 %. Facteur comparatif 2026: 1,00. Exemple: base de 700 000 $, 9 349 $."
+    },
+    {
+      "url": "https://courrierlaval.com/taxe-bienvenue-laval-etaler-versements-des-2027/",
+      "title": "Taxe de bienvenue: Laval pourrait étaler les versements dès 2027",
+      "publisher": "Courrier Laval",
+      "consulted": "2026-10-31",
+      "supports": "Article du 9 février 2026: le budget 2026 a porté à 3 % le taux sur toute somme excédant 500 000 $; résolution adoptée à l'unanimité demandant à la Direction générale d'étudier un étalement du paiement en vue de l'exercice 2027. Source secondaire: le site laval.ca refuse la lecture automatique (HTTP 403)."
+    },
+    {
+      "url": "https://com.apciq.ca/sam/pdf/bar/2026/202603-bar-mtl-fr.pdf",
+      "title": "Baromètre résidentiel, 3e trimestre 2026, RMR de Montréal",
+      "publisher": "APCIQ",
+      "consulted": "2026-10-19",
+      "supports": "Page 27: Laval, unifamiliale, prix médian de 630 000 $ au 3e trimestre 2026."
+    },
+    {
+      "url": "https://www.revenuquebec.ca/fr/salle-de-presse/nouvelles-fiscales/details/2026-04-21/instauration-dun-credit-dimpot-remboursable-pour-acces-a-la-propriete/",
+      "title": "Instauration d'un crédit d'impôt remboursable pour accès à la propriété",
+      "publisher": "Revenu Québec",
+      "consulted": "2026-10-21",
+      "supports": "Crédit premier acheteur: 100 % des premiers 5 000 $ de droits et 25 % des 3 500 $ suivants, jusqu'à 5 875 $."
+    }
+  ],
+  "claims_needing_review": [
+    "Taux de Laval au-delà de 500 000 $ en 2026: source secondaire (Courrier Laval). À confirmer sur le règlement de la Ville ou le compte de taxe, et à revoir avec le budget 2027 de Laval.",
+    "Tranches de Montréal pour 2027: à ajouter dès la publication du budget 2027 de la Ville (fin novembre ou décembre 2026)."
+  ]
+}
