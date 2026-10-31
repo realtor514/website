@@ -1,7 +1,7 @@
 ---
 title: "Mes services"
 seo_title: "Mes services de courtier immobilier à Laval et Montréal"
-description: "Mes services: vente, achat, location, évaluation de la valeur marchande et immeubles à revenus, à Laval, Montréal et dans 38 villes des deux rives."
+description: "Mes services: vente, achat, location, estimation de la valeur marchande et immeubles à revenus, à Laval, Montréal et dans 30 villes des deux rives."
 url: "/mes-services/"
 translationKey: "services"
 faq:
@@ -10,7 +10,7 @@ faq:
   - q: "Quand les honoraires de courtage sont-ils dus pour une vente?"
     a: "À la vente, et uniquement à la vente. Le pourcentage et les conditions sont écrits dans le contrat de courtage avant la mise en marché. Un acheteur ne verse habituellement rien: la rétribution vient du produit de la vente."
   - q: "Travaillez-vous en dehors de Laval?"
-    a: "Oui. Laval, Montréal, la Rive-Nord, la Rive-Sud, les Laurentides et Lanaudière, soit 38 villes couvertes par le site, chacune avec sa page."
+    a: "Oui. Laval, Montréal, la Rive-Nord, la Rive-Sud, les Laurentides et Lanaudière, soit 30 villes et 9 quartiers couverts par le site, chacun avec sa page."
   - q: "En quelles langues puis-je être servi?"
     a: "En français, en anglais et en arabe."
 ---
@@ -96,4 +96,4 @@ détail est sur la [page des avantages](/advantages/).
 ## Territoire
 
 Laval, Montréal, la Rive-Nord, la Rive-Sud, les Laurentides et Lanaudière. Le
-site couvre 38 villes, chacune avec sa page.
+site couvre 30 villes et 9 quartiers, chacun avec sa page.

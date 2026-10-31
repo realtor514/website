@@ -57,7 +57,7 @@ cambio sin previo aviso. Cada uno tiene su página en este sitio.
 Laval, incluidos Duvernay, Chomedey, Vimont y Sainte-Rose. Montreal, incluidos
 Ahuntsic-Cartierville, Villeray, Rosemont, Rivière-des-Prairies y
 Saint-Léonard. La Costa Norte y la Costa Sur, los Laurentides y Lanaudière. El
-sitio cubre 38 ciudades, cada una con su página.
+sitio cubre 30 ciudades y 9 barrios, cada uno con su página.
 
 ## Idiomas de trabajo
 

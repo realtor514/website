@@ -1,7 +1,7 @@
 ---
 title: "My Services"
 seo_title: "Real Estate Broker Services in Laval and Montreal"
-description: "Selling, buying, renting, market value assessment and income properties, in Laval, Montreal and 38 cities across the North and South Shores."
+description: "Selling, buying, renting, market value estimates and income properties, in Laval, Montreal and 30 cities across the North and South Shores."
 url: "/en/my-services/"
 translationKey: "services"
 faq:
@@ -10,7 +10,7 @@ faq:
   - q: "When is the brokerage fee due on a sale?"
     a: "On the sale, and only on the sale. The percentage and the conditions are written into the brokerage contract before the property goes to market. A buyer usually pays nothing: the compensation comes out of the sale proceeds."
   - q: "Do you work outside Laval?"
-    a: "Yes. Laval, Montreal, the North Shore, the South Shore, the Laurentians and Lanaudière, which is 38 cities covered by this site, each with its own page."
+    a: "Yes. Laval, Montreal, the North Shore, the South Shore, the Laurentians and Lanaudière, which is 30 cities and 9 neighbourhoods covered by this site, each with its own page."
   - q: "What languages can I be served in?"
     a: "French, English and Arabic."
 ---
@@ -91,4 +91,4 @@ is on the [advantages page](/en/advantages/).
 ## Territory
 
 Laval, Montreal, the North Shore, the South Shore, the Laurentians and
-Lanaudière. The site covers 38 cities, each with its own page.
+Lanaudière. The site covers 30 cities and 9 neighbourhoods, each with its own page.

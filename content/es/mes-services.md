@@ -1,7 +1,7 @@
 ---
 title: "Mis servicios"
 seo_title: "Servicios de corredor inmobiliario en Laval y Montreal"
-description: "Venta, compra, alquiler, estimación del valor de mercado e inmuebles de renta, en Laval, Montreal y 38 ciudades de la Costa Norte y la Costa Sur."
+description: "Venta, compra, alquiler, estimación del valor de mercado e inmuebles de renta, en Laval, Montreal y 30 ciudades de la Costa Norte y la Costa Sur."
 url: "/es/mis-servicios/"
 translationKey: "services"
 faq:
@@ -10,7 +10,7 @@ faq:
   - q: "¿Cuándo se deben los honorarios de corretaje en una venta?"
     a: "En la venta, y solo en la venta. El porcentaje y las condiciones se escriben en el contrato de corretaje antes de la puesta en mercado. Un comprador normalmente no paga nada: la retribución sale del producto de la venta."
   - q: "¿Trabaja fuera de Laval?"
-    a: "Sí. Laval, Montreal, la Costa Norte, la Costa Sur, los Laurentides y Lanaudière, es decir 38 ciudades cubiertas por el sitio, cada una con su página."
+    a: "Sí. Laval, Montreal, la Costa Norte, la Costa Sur, los Laurentides y Lanaudière, es decir 30 ciudades y 9 barrios cubiertos por el sitio, cada uno con su página."
   - q: "¿En qué idiomas puedo ser atendido?"
     a: "En francés, inglés y árabe."
 ---
@@ -96,4 +96,4 @@ previo aviso. El detalle está en la [página de ventajas](/es/advantages/).
 ## Territorio
 
 Laval, Montreal, la Costa Norte, la Costa Sur, los Laurentides y Lanaudière. El
-sitio cubre 38 ciudades, cada una con su página.
+sitio cubre 30 ciudades y 9 barrios, cada uno con su página.

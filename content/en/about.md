@@ -56,7 +56,7 @@ Each one has its own page on this site.
 Laval, including Duvernay, Chomedey, Vimont and Sainte-Rose. Montreal,
 including Ahuntsic-Cartierville, Villeray, Rosemont, Rivière-des-Prairies and
 Saint-Léonard. The North Shore and the South Shore, the Laurentians and
-Lanaudière. The site covers 38 cities, each with its own page.
+Lanaudière. The site covers 30 cities and 9 neighbourhoods, each with its own page.
 
 ## Working languages
 

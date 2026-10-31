@@ -53,7 +53,7 @@ St-Martin Est, Bureau 201, Laval.
 لافال، ومنها Duvernay وChomedey وVimont وSainte-Rose. ومونتريال، ومنها
 Ahuntsic-Cartierville وVilleray وRosemont وRivière-des-Prairies
 وSaint-Léonard. والضفة الشمالية والضفة الجنوبية، ومنطقتا اللورانتيد
-ولانوديير. ويغطي الموقع 38 مدينة، لكل منها صفحتها.
+ولانوديير. ويغطي الموقع 30 مدينة و9 أحياء، لكل منها صفحتها.
 
 ## لغات العمل
 

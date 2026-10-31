@@ -57,7 +57,7 @@ préavis. Ils sont détaillés sur ce site, chacun sur sa page.
 Laval, dont Duvernay, Chomedey, Vimont et Sainte-Rose. Montréal, dont
 Ahuntsic-Cartierville, Villeray, Rosemont, Rivière-des-Prairies et
 Saint-Léonard. La Rive-Nord et la Rive-Sud, les Laurentides et Lanaudière. Le
-site détaille 38 villes, chacune avec sa page.
+site détaille 30 villes et 9 quartiers, chacun avec sa page.
 
 ## Langues de travail
 
