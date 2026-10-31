@@ -5,7 +5,10 @@
 {{ $isEs := eq .Lang "es" }}
 {{ $hub := "/en/real-estate-broker/" }}
 {{ if $isFr }}{{ $hub = "/courtier-immobilier/" }}{{ else if $isAr }}{{ $hub = "/ar/wasit-aqari/" }}{{ else if $isEs }}{{ $hub = "/es/corredor-inmobiliario/" }}{{ end }}
-{{ $nb := len (where .Site.RegularPages "Section" "secteurs") }}
+{{/* Les pages de quartier (cle quartier-...) ne sont pas des villes: sans ce
+     filtre, le bouton annoncait 39 villes au lieu de 30. */}}
+{{ $nb := 0 }}
+{{ range where .Site.RegularPages "Section" "secteurs" }}{{ if not (hasPrefix .TranslationKey "quartier-") }}{{ $nb = add $nb 1 }}{{ end }}{{ end }}
 <section class="section section--light villes-lien" id="villes">
   <div class="container text-center">
     <h2 class="villes-lien__titre">{{ if $isFr }}Les villes où je travaille{{ else if $isAr }}المدن التي أعمل فيها{{ else if $isEs }}Las ciudades donde trabajo{{ else }}The cities where I work{{ end }}</h2>

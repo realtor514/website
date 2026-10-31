@@ -115,6 +115,10 @@
 
     {{ $sectors := where .Site.RegularPages "Section" "secteurs" }}
     {{ with $sectors }}
+    {{/* La liste montre villes et quartiers, mais le lien compte les villes
+         seulement: les pages de quartier (cle quartier-...) en sont exclues. */}}
+    {{ $nbVilles := 0 }}
+    {{ range . }}{{ if not (hasPrefix .TranslationKey "quartier-") }}{{ $nbVilles = add $nbVilles 1 }}{{ end }}{{ end }}
     {{ $hub := "/en/real-estate-broker/" }}
     {{ if $isFr }}{{ $hub = "/courtier-immobilier/" }}{{ else if $isAr }}{{ $hub = "/ar/wasit-aqari/" }}{{ else if $isEs }}{{ $hub = "/es/corredor-inmobiliario/" }}{{ end }}
     <div class="footer__sectors">
@@ -125,7 +129,7 @@
         {{ range $i, $p := sort . "Weight" }}{{ if $i }}<span class="footer__sectors-sep">&middot;</span>{{ end }}<a href="{{ $p.Permalink }}" class="footer__link">{{ $p.Params.city }}</a>{{ end }}
         <span class="footer__sectors-sep">&middot;</span>
         <a href="{{ $hub }}" class="footer__link footer__sectors-all">
-          {{ if $isFr }}Voir les {{ len . }} villes{{ else if $isAr }}عرض المدن الـ{{ len . }}{{ else if $isEs }}Ver las {{ len . }} ciudades{{ else }}View all {{ len . }} cities{{ end }}
+          {{ if $isFr }}Voir les {{ $nbVilles }} villes{{ else if $isAr }}عرض المدن الـ{{ $nbVilles }}{{ else if $isEs }}Ver las {{ $nbVilles }} ciudades{{ else }}View all {{ $nbVilles }} cities{{ end }}
         </a>
       </p>
     </div>
