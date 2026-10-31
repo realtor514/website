@@ -83,7 +83,7 @@ Since January 1, 2026, inflation feeds directly into rent setting. The Regulatio
 
 **In 2026: 3.1%.** That is the base percentage the Tribunal administratif du logement (TAL, Quebec's rental board) made public on January 19, 2026, for a lease beginning between April 2, 2026 and April 1, 2027. Allowing for rounding, it matches the average of the Quebec CPI increases for 2023, 2024 and 2025: (4.5 + 2.3 + 2.4) ÷ 3.
 
-**For 2027, two of the three years are known.** For a lease ending between April 1 and December 31, 2027, the reference period is 2026. The calculation will use 2024 (2.3%), 2025 (2.4%) and 2026, which will be known once the December CPI is out. As an illustration, the Ministère des Finances projection of 3.0% would give about 2.6%. Only the figure the TAL makes public will be authoritative.
+**For 2027, two of the three years are known.** For a lease ending between April 1 and December 31, 2027, the reference period is 2026. The calculation will use 2024 (2.3%), 2025 (2.4%) and 2026, which will be known once the December CPI is out. As an illustration, the Ministère des Finances projection of 3.0% would give about 2.6%. Only the figure the TAL makes public will be authoritative. Worked scenarios and notice deadlines: [the 2027 rent increase in Quebec](/en/articles/rent-increase-2027-quebec/).
 
 **Taxes and insurance: only the portion above the base percentage is added.** Section 4 of the Regulation subtracts the base percentage from the increase in property taxes and in fire and liability insurance premiums. A fictitious example: municipal taxes up 5%, with a base percentage of 3.1%, count for only 1.9%, applied to the monthly amount of the taxes. Capital expenditures made during the reference period are recognized at 5%.
 
