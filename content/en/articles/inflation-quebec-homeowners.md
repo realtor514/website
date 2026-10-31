@@ -77,6 +77,8 @@ One limitation: this index measures the price a contractor asks for a new buildi
 
 **Property taxes.** They follow from your municipal assessment and the rate set by your city. The figure that counts is the one on your tax bill, not a CPI average.
 
+**The welcome tax.** Its first two thresholds are indexed every year: 2.4173% for 2027, which brings them to $64,400 and $322,600 on January 1, 2027. Tables and worked examples: [the welcome tax in Quebec in 2027](/en/articles/welcome-tax-quebec-guide/).
+
 ## Landlords: the CPI sets the TAL's base percentage
 
 Since January 1, 2026, inflation feeds directly into rent setting. The Regulation respecting the criteria for the fixing of rent (Règlement sur les critères de fixation de loyer), as amended by Order in Council 1455-2025, calculates the base percentage as the average of the last three annual changes in the Quebec CPI established by Statistics Canada. The method applies to applications where the notice of modification of the lease was given on or after that date.

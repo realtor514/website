@@ -78,7 +78,9 @@ restitution of the price and for damages if he knew of the vice caché, the
 latent defect, "or could not have been unaware of it", and article 1733 uses the
 same formula. "Could not have been unaware" is not "knew". A basement that takes
 on water every spring, a ceiling stain painted over three times: an attentive
-owner cannot argue he had noticed nothing.
+owner cannot argue he had noticed nothing. The four conditions of a latent
+defect, the deadline to report it and the buyer's remedies:
+[latent defects in Quebec](/en/articles/latent-defect-recourse-quebec/).
 
 A word on disputes, because the belief is widespread. The DV asks no general
 question along the lines of "do you have a dispute in progress". It asks whether

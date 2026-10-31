@@ -77,6 +77,8 @@ Une limite: cet indice mesure le prix demandé par un entrepreneur pour un bâti
 
 **Les taxes foncières.** Elles découlent de votre évaluation municipale et du taux fixé par votre ville. Le chiffre qui compte est celui de votre compte de taxes, pas une moyenne de l'IPC.
 
+**La taxe de bienvenue.** Ses deux premiers seuils sont indexés chaque année: 2,4173 % pour 2027, ce qui les porte à 64 400 $ et 322 600 $ au 1er janvier 2027. Tableaux et exemples chiffrés: [la taxe de bienvenue au Québec en 2027](/articles/taxe-de-bienvenue-quebec/).
+
 ## Propriétaire bailleur: l'IPC fixe le pourcentage de base du TAL
 
 Depuis le 1er janvier 2026, l'inflation entre directement dans la fixation des loyers. Le Règlement sur les critères de fixation de loyer, modifié par le décret 1455-2025, calcule le pourcentage de base comme la moyenne des trois dernières variations annuelles de l'IPC du Québec établi par Statistique Canada. La méthode vise les demandes dont l'avis de modification du bail a été donné à compter de cette date.

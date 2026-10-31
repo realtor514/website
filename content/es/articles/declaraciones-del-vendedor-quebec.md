@@ -79,7 +79,9 @@ responsable de la restitución del precio y de la reparación del perjuicio si
 conocía el vice caché, el vicio oculto, "o no podía ignorarlo", y el artículo
 1733 retoma la misma fórmula. "No podía ignorar" no es "sabía". Un sótano que se
 inunda cada primavera, una mancha en el techo repintada tres veces: un
-propietario atento no puede sostener que no había notado nada.
+propietario atento no puede sostener que no había notado nada. Las cuatro
+condiciones del vicio oculto, el plazo para denunciarlo y los recursos del
+comprador: [el vicio oculto en Quebec](/es/articles/vicio-oculto-recurso-quebec/).
 
 Una palabra sobre los litigios, porque la creencia está extendida. El DV no
 plantea ninguna pregunta general del tipo "¿tiene un litigio en curso?".

@@ -77,6 +77,8 @@ vice caché « ou ne pouvait l'ignorer », et l'article 1733 reprend la même
 formule. « Ne pouvait ignorer » n'est pas « savait ». Un sous-sol qui prend
 l'eau chaque printemps, une auréole au plafond repeinte trois fois : un
 propriétaire attentif ne peut pas soutenir qu'il n'avait rien remarqué.
+Les quatre conditions du vice caché, le délai pour le dénoncer et les recours
+de l'acheteur : [le vice caché au Québec](/articles/vice-cache-conditions-recours-quebec/).
 
 Un mot sur les litiges, parce que la croyance est répandue. Le DV ne pose aucune
 question générale du type « avez-vous un litige en cours ». Il demande si vous

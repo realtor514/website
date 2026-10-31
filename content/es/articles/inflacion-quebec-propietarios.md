@@ -77,6 +77,8 @@ Un límite: este índice mide el precio que pide un contratista por un edificio 
 
 **Los impuestos municipales.** Dependen de su evaluación municipal y de la tasa que fija su ciudad. La cifra que cuenta es la de su cuenta de impuestos, no un promedio del IPC.
 
+**El impuesto de bienvenida.** Sus dos primeros umbrales se indexan cada año: 2,4173 % para 2027, lo que los lleva a 64 400 $ y 322 600 $ el 1 de enero de 2027. Tablas y ejemplos en cifras: [el impuesto de bienvenida en Quebec en 2027](/es/articles/welcome-tax-quebec-guide/).
+
 ## Propietario arrendador: el IPC fija el porcentaje de base del TAL
 
 Desde el 1 de enero de 2026, la inflación entra directamente en la fijación de los alquileres. El Règlement sur les critères de fixation de loyer (el reglamento sobre los criterios de fijación del alquiler), modificado por el decreto 1455-2025, calcula el porcentaje de base como el promedio de las tres últimas variaciones anuales del IPC de Quebec establecido por Statistique Canada. El método se aplica a las solicitudes cuyo aviso de modificación del contrato de arrendamiento se dio a partir de esa fecha.
