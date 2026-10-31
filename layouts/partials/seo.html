@@ -122,7 +122,7 @@
       "name" (printf "%s - %s" $p.name $p.brokerage)
       "alternateName" $p.name
       "url" $baseURL
-      "image" ($p.ogImage | absURL)
+      "image" ("images/og-georges-matar.jpg" | absURL)
       "logo" ("images/remax-ballon-512.png" | absURL)
       "telephone" $p.phoneRaw
       "email" $p.email
@@ -160,7 +160,7 @@
       "givenName" "Georges"
       "familyName" "Matar"
       "jobTitle" $p.role
-      "image" ($p.ogImage | absURL)
+      "image" ("images/og-georges-matar.jpg" | absURL)
       "url" $baseURL
       "telephone" $p.phoneRaw
       "email" $p.email
@@ -168,6 +168,19 @@
       "worksFor" (dict "@type" "Organization" "name" $p.brokerage)
       "workLocation" (dict "@id" $agentID)
 -}}
+{{- /* Titres verifiables: le permis OACIQ (registre public), l Ordre des
+       ingenieurs du Quebec et le doctorat. Les moteurs de reponse s en
+       servent pour juger qui parle. */ -}}
+{{- $creds := slice (dict
+      "@type" "EducationalOccupationalCredential"
+      "credentialCategory" "license"
+      "name" "Permis de courtier immobilier résidentiel"
+      "identifier" $p.oaciqPermit
+      "recognizedBy" (dict "@type" "Organization" "name" "Organisme d'autoréglementation du courtage immobilier du Québec (OACIQ)" "url" "https://www.oaciq.com/")) -}}
+{{- $creds = $creds | append (dict "@type" "EducationalOccupationalCredential" "credentialCategory" "degree" "name" "Doctorat (Ph. D.)") -}}
+{{- $person = merge $person (dict
+      "hasCredential" $creds
+      "memberOf" (slice (dict "@type" "Organization" "name" "Ordre des ingénieurs du Québec" "url" "https://www.oiq.qc.ca/"))) -}}
 {{- if $sameAs }}{{ $person = merge $person (dict "sameAs" $sameAs) }}{{ end -}}
 
 {{- $website := dict

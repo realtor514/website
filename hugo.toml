@@ -872,6 +872,18 @@ disableKinds = ["taxonomy", "term"]
     source = "meta/fr"
     target = "data/sources"
 
+# llms.txt: la carte du site pour les moteurs de reponse (ChatGPT, Perplexity,
+# Claude), une par langue, generee par layouts/index.llms.txt.
+[outputFormats]
+  [outputFormats.llms]
+    mediaType      = "text/plain"
+    baseName       = "llms"
+    isPlainText    = true
+    notAlternative = true
+
+[outputs]
+  home = ["html", "rss", "llms"]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

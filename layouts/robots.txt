@@ -17,6 +17,26 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Carte du site pour les moteurs de reponse: {{ "llms.txt" | absURL }}
+
 {{/* L index, puis chaque sitemap de langue. Hugo range celui du francais
      sous /fr/sitemap.xml, alors que les pages francaises vivent a la racine.
      Google limite un sitemap aux adresses de son propre dossier, sauf s il

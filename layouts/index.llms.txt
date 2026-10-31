@@ -1,0 +1,73 @@
+{{- /* llms.txt (format llmstxt.org): la carte du site pour les moteurs de
+       reponse (ChatGPT, Perplexity, Claude, Google AI). Une version par
+       langue: /llms.txt, /en/llms.txt, /es/llms.txt, /ar/llms.txt. Tout est
+       genere a partir du contenu: un nouvel article y entre de lui-meme.
+       Les tirets longs sont remplaces par un trait d union a la sortie. */ -}}
+{{- $p := site.Params -}}
+{{- $isFr := eq .Lang "fr" -}}{{- $isAr := eq .Lang "ar" -}}{{- $isEs := eq .Lang "es" -}}
+{{- $clean := `[\x{2013}\x{2014}\x{2015}]` -}}
+# {{ $p.name }}, {{ if $isFr }}courtier immobilier résidentiel{{ else if $isAr }}وسيط عقاري سكني{{ else if $isEs }}corredor inmobiliario residencial{{ else }}residential real estate broker{{ end }}, {{ $p.brokerage }}
+
+> {{ replaceRE $clean "-" $p.description }}
+
+{{ if $isFr -}}
+- Permis de courtier OACIQ: {{ $p.oaciqPermit }} (vérifiable au registre public: {{ $p.oaciqRegisterURL }})
+- Agence: {{ $p.brokerage }}, {{ $p.streetAddress }}, {{ $p.addressLocality }} (Québec) {{ $p.postalCode }}
+- Téléphone: {{ $p.phone }}. Courriel: {{ $p.email }}
+- Langues de service: français, anglais, arabe
+- Formation: ingénieur, membre de l'Ordre des ingénieurs du Québec, titulaire d'un doctorat
+- Territoire: Laval, Montréal, Rive-Nord et Rive-Sud de Montréal
+- Les articles citent leurs sources officielles en bas de page (LegisQuébec, ministères, municipalités, APCIQ, Banque du Canada, Statistique Canada). Chaque article indique sa date de publication et sa date de mise à jour.
+{{- else if $isAr -}}
+- رخصة الوساطة من OACIQ: {{ $p.oaciqPermit }} (يمكن التحقق منها في السجل العام: {{ $p.oaciqRegisterURL }})
+- الوكالة: {{ $p.brokerage }}، {{ $p.streetAddress }}، {{ $p.addressLocality }} (كيبيك) {{ $p.postalCode }}
+- الهاتف: {{ $p.phone }}. البريد الإلكتروني: {{ $p.email }}
+- لغات الخدمة: الفرنسية والإنجليزية والعربية
+- التكوين: مهندس، عضو في نقابة مهندسي كيبيك، حاصل على الدكتوراه
+- المنطقة: لافال ومونتريال والضفتان الشمالية والجنوبية لمونتريال
+- تذكر المقالات مصادرها الرسمية في أسفل الصفحة، مع تاريخ النشر وتاريخ التحديث.
+{{- else if $isEs -}}
+- Licencia de corredor OACIQ: {{ $p.oaciqPermit }} (verificable en el registro público: {{ $p.oaciqRegisterURL }})
+- Agencia: {{ $p.brokerage }}, {{ $p.streetAddress }}, {{ $p.addressLocality }} (Quebec) {{ $p.postalCode }}
+- Teléfono: {{ $p.phone }}. Correo: {{ $p.email }}
+- Idiomas de servicio: francés, inglés, árabe
+- Formación: ingeniero, miembro de la Ordre des ingénieurs du Québec, doctorado
+- Territorio: Laval, Montreal, North Shore y South Shore de Montreal
+- Los artículos citan sus fuentes oficiales al pie de la página e indican su fecha de publicación y de actualización.
+{{- else -}}
+- OACIQ broker licence: {{ $p.oaciqPermit }} (verifiable in the public register: {{ $p.oaciqRegisterURL }})
+- Agency: {{ $p.brokerage }}, {{ $p.streetAddress }}, {{ $p.addressLocality }} (Quebec) {{ $p.postalCode }}
+- Phone: {{ $p.phone }}. Email: {{ $p.email }}
+- Languages of service: French, English, Arabic
+- Background: engineer, member of the Ordre des ingénieurs du Québec, holds a doctorate
+- Territory: Laval, Montreal, the North Shore and the South Shore of Montreal
+- Articles cite their official sources at the bottom of the page and show their publication and update dates.
+{{- end }}
+
+## {{ if $isFr }}Pages principales{{ else if $isAr }}الصفحات الرئيسية{{ else if $isEs }}Páginas principales{{ else }}Main pages{{ end }}
+
+{{ range where (where site.RegularPages "Section" "") "Params.noindex" "!=" true -}}
+{{- if not (in (slice "merci" "formulaire") .File.ContentBaseName) -}}
+- [{{ replaceRE $clean "-" .Title }}]({{ .Permalink }}){{ with .Description }}: {{ replaceRE $clean "-" . }}{{ end }}
+{{ end -}}
+{{- end }}
+## {{ if $isFr }}Calculateurs{{ else if $isAr }}الحاسبات{{ else if $isEs }}Calculadoras{{ else }}Calculators{{ end }}
+
+{{ range where site.RegularPages "Section" "tools" -}}
+- [{{ replaceRE $clean "-" .Title }}]({{ .Permalink }}){{ with .Description }}: {{ replaceRE $clean "-" . }}{{ end }}
+{{ end }}
+## {{ if $isFr }}Villes et quartiers desservis{{ else if $isAr }}المدن والأحياء المخدومة{{ else if $isEs }}Ciudades y barrios atendidos{{ else }}Cities and neighbourhoods served{{ end }}
+
+{{ range sort (where site.RegularPages "Section" "secteurs") "Weight" -}}
+- [{{ replaceRE $clean "-" .Title }}]({{ .Permalink }}){{ with .Description }}: {{ replaceRE $clean "-" . }}{{ end }}
+{{ end }}
+{{- $articles := where site.RegularPages "Section" "articles" -}}
+{{- $cats := slice -}}
+{{- range $articles }}{{ with .Params.category }}{{ if not (in $cats .) }}{{ $cats = $cats | append . }}{{ end }}{{ end }}{{ end -}}
+{{- range sort $cats }}
+## {{ . }}
+
+{{ range sort (where $articles "Params.category" .) "Lastmod" "desc" -}}
+- [{{ replaceRE $clean "-" .Title }}]({{ .Permalink }}){{ with .Description }}: {{ replaceRE $clean "-" . }}{{ end }} ({{ if $isFr }}mis à jour le{{ else if $isAr }}حُدِّث في{{ else if $isEs }}actualizado el{{ else }}updated{{ end }} {{ .Lastmod.Format "2006-01-02" }})
+{{ end }}
+{{- end }}
