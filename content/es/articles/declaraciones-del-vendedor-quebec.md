@@ -143,8 +143,8 @@ los permisos requeridos para cada uno. El formulario advierte además que podrí
 requerirse un nuevo certificado de localización tras añadir una piscina, un
 cobertizo, una terraza o una cerca (D2.11). Eso es lo que el inspector del
 comprador verificará en el lugar, como detalla [la lista de la inspección previa
-a la compra](/es/articles/home-inspection-checklist-montreal/). Lo que yo le
-pido a un vendedor antes de sentarme con él está resumido en [la página del
+a la compra](/es/articles/home-inspection-checklist-montreal/). Lo que se le
+pide a un vendedor antes de una primera reunión está resumido en [la página del
 vendedor](/es/seller/).
 
 ## Sin garantía legal, una declaración falsa del vendedor sigue siendo atacable

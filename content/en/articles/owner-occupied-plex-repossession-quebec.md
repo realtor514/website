@@ -168,8 +168,8 @@ for more, is not a grey area.
 
 ## Before you offer on a plex: the leases, the rent on paper, the notices already sent
 
-Three documents decide your timeline. I ask for them before any promesse
-d'achat.
+Three documents decide your timeline. They should be obtained before any
+promesse d'achat.
 
 - **Every signed lease.** Term, end date, tenant names, services included. The
   end date commands your notice period, and therefore your move-in date.

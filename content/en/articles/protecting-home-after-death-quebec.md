@@ -167,7 +167,7 @@ movable real rights and, where there is an immovable, in the land register (art.
 | Heirs' option | 6 months, extended to leave 60 days from the closure (art. 632) |
 | More than a year | Annual account of management to heirs and unpaid creditors (art. 806) |
 
-The most ordinary reason an estate loses a buyer, I find in that calendar, not in the
+The most ordinary reason an estate loses a buyer lies in that calendar, not in the
 price.
 
 ## The declaration of transmission and the Registre foncier

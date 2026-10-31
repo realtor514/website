@@ -137,8 +137,8 @@ ont été émis pour chacun. Le formulaire prévient aussi qu'un nouveau certifi
 de localisation pourrait être requis après l'ajout d'une piscine, d'un cabanon,
 d'une terrasse ou d'une clôture (D2.11). C'est ce que l'inspecteur de l'acheteur
 vérifiera sur place, comme le détaille [la liste de l'inspection
-préachat](/articles/home-inspection-checklist-montreal/). Ce que je demande à un
-vendeur avant de m'asseoir avec lui est résumé sur [la page vendeur](/seller/).
+préachat](/articles/home-inspection-checklist-montreal/). Ce qui est demandé à un
+vendeur avant une première rencontre est résumé sur [la page vendeur](/seller/).
 
 ## Sans garantie légale, une fausse déclaration du vendeur reste attaquable
 

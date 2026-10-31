@@ -133,7 +133,7 @@ La Ciudad de Laval divide su territorio en seis sectores de ordenamiento, cada u
 
 **Una mediana no es el precio de su casa.** Una variación del precio mediano no es la variación de valor de una casa determinada, porque la mezcla de propiedades vendidas cambia de un trimestre a otro. En Vimont, la mediana unifamiliar marca +22 % en el trimestre y +6 % sobre cuatro trimestres. La propia APCIQ pide interpretar estas estadísticas « con prudencia, en particular cuando el número de transacciones es bajo ». Para situar una dirección se trabaja con ventas comparables: el método está en [auditar los comparables del vecino](/es/articles/comparables-precio-casa-quebec/).
 
-**Un vacío sigue siendo un vacío.** Los dos asteriscos de Centris significan « Número de transacciones insuficiente para producir una estadística confiable ». No los he llenado ni con un cálculo ni con una estimación: las tablas remiten al acumulado de los cuatro últimos trimestres cuando Centris lo publica.
+**Un vacío sigue siendo un vacío.** Los dos asteriscos de Centris significan « Número de transacciones insuficiente para producir una estadística confiable ». Esos vacíos no se llenan ni con un cálculo ni con una estimación: las tablas remiten al acumulado de los cuatro últimos trimestres cuando Centris lo publica.
 
 **Dos fuentes, dos cifras.** El barómetro de la APCIQ, que también sale del sistema Centris, cuenta 849 ventas en Laval en el trimestre (-16 %), contra 848 (-15 %) en la página de Centris consultada el mismo día. Las tablas de este artículo no mezclan las dos.
 

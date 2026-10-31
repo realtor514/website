@@ -168,7 +168,7 @@ mobiliarios y, si hay un inmueble, en el registro de la propiedad (art. 777).
 | Opción de los herederos | 6 meses, prorrogados para dejar 60 días desde el cierre (art. 632) |
 | Más de un año | Cuenta anual de gestión a herederos y acreedores impagos (art. 806) |
 
-La razón más banal por la que una sucesión pierde a un comprador la veo en ese
+La razón más banal por la que una sucesión pierde a un comprador está en ese
 calendario, no en el precio.
 
 ## La declaración de transmisión y el Registre foncier

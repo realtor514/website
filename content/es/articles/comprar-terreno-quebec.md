@@ -157,7 +157,7 @@ en los cinco días hábiles, con 30 días para completar un expediente.
 
 **La capacidad portante.** El estudio exigido por el reglamento Q-2, r. 22 mide
 la permeabilidad, la roca y el nivel freático, no la capacidad del suelo para
-soportar cimientos. No encontré ninguna regla provincial que imponga un estudio
+soportar cimientos. Ninguna regla provincial publicada impone un estudio
 geotécnico para una casa unifamiliar: son el ingeniero, el constructor o el
 prestamista quienes lo exigen. Arcilla sensible, relleno, antigua turbera: ahí
 se juega el costo de la cimentación.
@@ -174,7 +174,7 @@ sobre un terreno vacante. Para una casa autoconstruida, el prestatario debe
 tener el título del terreno en el primer anticipo.
 
 El terreno se paga entonces antes, con su liquidez o con un préstamo aparte
-negociado caso por caso. Ninguna fuente pública me permite anunciar un pago
+negociado caso por caso. Ninguna fuente pública permite anunciar un pago
 inicial típico sobre un terreno desnudo. Simule al menos la cuota de la casa
 proyectada con la [calculadora hipotecaria](/es/tools/mortgage/).
 

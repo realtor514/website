@@ -172,8 +172,8 @@ plus cher, n'est pas une zone grise.
 
 ## Avant l'offre sur un plex : les baux, le loyer inscrit, les avis déjà transmis
 
-Trois documents décident de votre échéancier. Je les demande avant toute
-promesse d'achat.
+Trois documents décident de votre échéancier. Ils sont à obtenir avant
+toute promesse d'achat.
 
 - **Les baux signés, tous.** Durée, date de fin, nom des locataires, services
   inclus. La date de fin commande votre délai d'avis, donc votre date

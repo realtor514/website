@@ -140,8 +140,8 @@ permits were issued for each one. The form also warns that a new certificate of
 location may be required after adding a pool, a shed, a deck or a fence
 (D2.11). That is what the buyer's inspector will verify on site, as [the
 pre-purchase inspection
-checklist](/en/articles/home-inspection-checklist-montreal/) sets out. What I
-ask a seller for before sitting down with him is summarized on [the seller
+checklist](/en/articles/home-inspection-checklist-montreal/) sets out. What a
+seller is asked for before a first meeting is summarized on [the seller
 page](/en/seller/).
 
 ## Without legal warranty, a false seller's declaration is still actionable

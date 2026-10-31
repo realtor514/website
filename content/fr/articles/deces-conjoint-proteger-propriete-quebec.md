@@ -164,7 +164,7 @@ réels mobiliers et, s'il y a un immeuble, au registre foncier (art. 777).
 | Option des héritiers | 6 mois, prolongés pour laisser 60 jours depuis la clôture (art. 632) |
 | Plus d'un an | Compte annuel de gestion aux héritiers et créanciers impayés (art. 806) |
 
-La raison la plus banale pour laquelle une succession perd un acheteur, je la vois
+La raison la plus banale pour laquelle une succession perd un acheteur se trouve
 dans ce calendrier, pas dans le prix.
 
 ## La déclaration de transmission et le Registre foncier

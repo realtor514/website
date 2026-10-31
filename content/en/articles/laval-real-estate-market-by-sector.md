@@ -133,7 +133,7 @@ The City of Laval divides its territory into six planning sectors, each of which
 
 **A median is not the price of your house.** A change in the median price is not the change in value of any given house, because the mix of properties sold shifts from one quarter to the next. In Vimont, the single family median is up 22% for the quarter and 6% over four quarters. The APCIQ itself asks that these statistics be interpreted "with caution, especially when the number of transactions is low." To place a specific address, you work from comparable sales: the method is in [auditing your neighbour's comparables](/en/articles/real-estate-comparables-quebec/).
 
-**A gap stays a gap.** Centris's two asterisks mean "Insufficient number of transactions to produce a reliable statistic." I did not fill them in with a calculation or an estimate: the tables fall back on the total for the last four quarters when Centris publishes it.
+**A gap stays a gap.** Centris's two asterisks mean "Insufficient number of transactions to produce a reliable statistic." These gaps are not filled in with a calculation or an estimate: the tables fall back on the total for the last four quarters when Centris publishes it.
 
 **Two sources, two figures.** The APCIQ barometer, also drawn from the Centris system, counts 849 sales in Laval for the quarter (-16%), against 848 (-15%) on the Centris page read the same day. The tables in this article do not mix the two.
 

@@ -152,7 +152,7 @@ business days, with 30 days to complete a file.
 
 **Bearing capacity.** The study required by regulation Q-2, r. 22 measures
 permeability, bedrock and the water table, not the soil's capacity to carry
-foundations. I found no provincial rule imposing a geotechnical study for a
+foundations. No published provincial rule imposes a geotechnical study for a
 single-family house: it is the engineer, the builder or the lender who asks for
 one. Sensitive clay, fill, an old peat bog: that is where the cost of the
 foundation gets decided.
@@ -168,7 +168,7 @@ vacant land. For a self-built home, the borrower must hold title to the land at
 the first advance.
 
 So the land gets paid for beforehand, out of your own cash or with a separate
-loan negotiated case by case. No public source lets me announce a typical down
+loan negotiated case by case. No public source gives a typical down
 payment on a bare lot. At the very least, model the payment on the house you
 plan to build with the [mortgage calculator](/en/tools/mortgage/).
 

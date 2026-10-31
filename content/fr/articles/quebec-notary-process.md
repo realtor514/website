@@ -72,7 +72,7 @@ plex, plusieurs acheteurs, actes en anglais. Demandez une soumission écrite,
 puis placez ce montant dans le [calculateur de frais de
 clôture](/tools/closing-costs/).
 
-Mon conseil : choisissez votre notaire avant de signer la promesse d'achat,
+La démarche prudente : choisir votre notaire avant de signer la promesse d'achat,
 pour y inscrire son nom dès le départ.
 
 ## De la promesse acceptée à la signature

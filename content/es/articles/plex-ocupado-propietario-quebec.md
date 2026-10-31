@@ -176,8 +176,8 @@ más caro, no es una zona gris.
 
 ## Antes de la oferta sobre un plex: los contratos, el alquiler inscrito, los avisos ya enviados
 
-Tres documentos deciden su calendario. Los pido antes de cualquier promesse
-d'achat.
+Tres documentos deciden su calendario. Conviene obtenerlos antes de cualquier
+promesse d'achat.
 
 - **Los contratos firmados, todos.** Duración, fecha de fin, nombre de los
   inquilinos, servicios incluidos. La fecha de fin manda sobre su plazo de

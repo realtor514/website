@@ -109,7 +109,7 @@ Para una primera compra, Quebec anunció en abril de 2026 un crédito fiscal ree
 
 En Quebec, los compradores tienen derecho a incluir una condición de inspección en su oferta de compra. Esto significa que un inspector de edificios calificado (verifique su certificado de la RBQ o su asociación) examina la propiedad (techo, cimientos, plomería, electricidad, aislamiento, ventanas) y proporciona un informe escrito detallado.
 
-**Nunca compre una propiedad sin esta inspección.** Incluso en mercados competitivos donde algunos compradores renuncian a las condiciones para ganar guerras de ofertas, le recomiendo firmemente no renunciar a la inspección.
+**Nunca compre una propiedad sin esta inspección.** Incluso en mercados competitivos donde algunos compradores renuncian a las condiciones para ganar guerras de ofertas, se desaconseja firmemente renunciar a la inspección.
 
 Una inspección de edificios cuesta de $500 a $900. Puede revelar defectos cuya reparación cuesta decenas de miles de dólares.
 
@@ -139,10 +139,10 @@ Este puede ser el consejo más práctico de esta guía: elija un corredor que ha
 
 El proceso inmobiliario de Quebec implica docenas de conversaciones, documentos y decisiones. Poder hacer preguntas y recibir explicaciones en su idioma nativo no es un lujo. Es una condición para tomar decisiones plenamente informadas.
 
-Trabajo en francés, inglés y árabe, y tengo en cuenta las preferencias de cada familia: algunas quieren asociar a la familia extendida a la decisión, otras dan gran importancia a la privacidad, prefieren la estabilidad a largo plazo a la especulación a corto plazo, o buscan ante todo poseer algo que sea verdaderamente suyo.
+El servicio se ofrece en francés, inglés y árabe, y se tienen en cuenta las preferencias de cada familia: algunas quieren asociar a la familia extendida a la decisión, otras dan gran importancia a la privacidad, prefieren la estabilidad a largo plazo a la especulación a corto plazo, o buscan ante todo poseer algo que sea verdaderamente suyo.
 
 Esos valores se alinean bien con lo que el sector inmobiliario de Quebec, bien ejecutado, puede ofrecer.
 
 ---
 
-*¿Es usted un recién llegado que navega el mercado inmobiliario de Quebec? Estaré feliz de tener una conversación en el idioma que mejor le funcione. [Contácteme](/es/formulario/) y empecemos desde donde usted está.*
+*¿Es usted un recién llegado que navega el mercado inmobiliario de Quebec? La conversación puede tenerse en el idioma que mejor le convenga. [Póngase en contacto](/es/formulario/).*

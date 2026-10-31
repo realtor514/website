@@ -71,7 +71,7 @@ Notary fees follow no fixed tariff and vary with the file: condo, plex, several
 buyers, deeds in English. Ask for a written quote, then add that amount to the
 [closing costs calculator](/en/tools/closing-costs/).
 
-My advice: pick your notary before you sign the promise to purchase, so their
+The prudent approach: pick your notary before you sign the promise to purchase, so their
 name goes on it from day one.
 
 ## From accepted offer to signing

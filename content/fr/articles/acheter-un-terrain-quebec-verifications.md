@@ -152,8 +152,8 @@ jours ouvrables, avec 30 jours pour compléter un dossier.
 
 **La capacité portante.** L'étude exigée par le règlement Q-2, r. 22 mesure la
 perméabilité, le roc et la nappe, pas la capacité du sol à porter des
-fondations. Je n'ai trouvé aucune règle provinciale imposant une étude
-géotechnique pour une maison unifamiliale : ce sont l'ingénieur, le
+fondations. Aucune règle provinciale publiée n'impose d'étude géotechnique
+pour une maison unifamiliale : ce sont l'ingénieur, le
 constructeur ou le prêteur qui l'exigent. Argile sensible, remblai, ancienne
 tourbière : le coût de la fondation se joue là.
 
@@ -169,7 +169,7 @@ maison autoconstruite, l'emprunteur doit détenir le titre du terrain à la
 première avance.
 
 Le terrain se paie donc avant, avec vos liquidités ou un prêt distinct négocié
-cas par cas. Aucune source publique ne me permet d'annoncer une mise de fonds
+cas par cas. Aucune source publique ne permet d'annoncer une mise de fonds
 type sur un terrain nu. Simulez au moins le versement de la maison projetée
 avec le [calculateur hypothécaire](/tools/mortgage/).
 

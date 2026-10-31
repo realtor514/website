@@ -70,7 +70,7 @@ condominio, plex, varios compradores, actas en inglés. Pida un presupuesto por
 escrito y súmelo en la [calculadora de gastos de
 cierre](/es/tools/closing-costs/).
 
-Mi consejo: elija a su notario antes de firmar la promesa de compra, para
+Lo prudente: elegir a su notario antes de firmar la promesa de compra, para
 inscribir su nombre en ella desde el inicio.
 
 ## De la promesa aceptada a la firma
