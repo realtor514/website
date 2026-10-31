@@ -1,18 +1,22 @@
 {
  "id": "t134",
  "slug": "processus-mise-en-vente-etapes-quebec",
- "title": "Processus de vente d'une maison au Québec: les étapes",
+ "title": "Processus de vente d'une maison au Québec: les étapes et les délais",
  "target_keyword": "processus de vente maison quebec",
  "word_count": 1798,
  "category": "Guide du vendeur",
  "internal_links": [
+  "/articles/casser-hypotheque-penalite-quebec/",
+  "/articles/combien-de-temps-vendre-maison-laval/",
+  "/articles/combien-de-temps-vendre-maison-montreal/",
   "/articles/contrat-courtage-vente-quebec/",
   "/articles/declaration-du-vendeur-quebec/",
-  "/articles/combien-de-temps-vendre-maison-montreal/",
-  "/articles/quebec-notary-process/",
   "/articles/preparer-maison-vente/",
-  "/tools/home-estimate/",
-  "/formulaire/"
+  "/articles/quebec-notary-process/",
+  "/articles/vendre-avant-acheter-clauses-quebec/",
+  "/articles/vente-sans-garantie-legale-quebec/",
+  "/formulaire/",
+  "/tools/home-estimate/"
  ],
  "sources": [
   {
@@ -63,6 +67,34 @@
    "publisher": "Éducaloi",
    "consulted": "2026-09-24",
    "supports": "Vérification par le notaire des anciens actes de transfert de propriété, rédaction de l'acte de vente et de l'acte d'hypothèque, publication au registre foncier et gestion des fonds en fidéicommis avec paiement des créanciers du vendeur avant la remise du produit de la vente."
+  },
+  {
+   "url": "https://com.apciq.ca/fsmi-stats/mensuelles/2026/stats-202609-fr.pdf",
+   "title": "Fenêtre sur le marché immobilier, statistiques mensuelles, septembre 2026",
+   "publisher": "APCIQ, par le système Centris",
+   "consulted": "2026-10-31",
+   "supports": "Moyenne de jours sur le marché en septembre 2026 : RMR de Montréal, unifamiliale 41 jours, copropriété 65 jours (page 4); Laval, unifamiliale 44 jours, copropriété 57 jours (page 6)."
+  },
+  {
+   "url": "https://www.canada.ca/en/financial-consumer-agency/services/mortgages/reduce-prepayment-penalties.html",
+   "title": "Mortgage fees: Prepayment penalties",
+   "publisher": "Agence de la consommation en matière financière du Canada",
+   "consulted": "2026-10-31",
+   "supports": "Un prêteur peut exiger une pénalité si vous remboursez votre prêt en entier avant la fin du terme, y compris quand vous vendez votre maison. Elle correspond généralement au plus élevé de trois mois d'intérêts sur le solde ou du différentiel de taux d'intérêt. Possibilité de demander le transfert du prêt vers la nouvelle propriété."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+   "title": "Code civil du Québec, article 1716",
+   "publisher": "Légis Québec, Publications du Québec",
+   "consulted": "2026-10-31",
+   "supports": "Le vendeur est tenu de délivrer le bien, et d'en garantir le droit de propriété et la qualité. Ces garanties existent de plein droit, sans qu'il soit nécessaire de les stipuler dans le contrat de vente."
+  },
+  {
+   "url": "https://www.oaciq.com/media/qqlnugz4/promesse-achat-residentiel.pdf",
+   "title": "Promesse d'achat, immeuble principalement résidentiel de moins de 5 logements excluant la copropriété (PA 00001, v29 06/2022), clauses 10.1, 11.2, 11.4, 12.1 et 13.1",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-31",
+   "supports": "Clause 10.1 : immeuble vendu avec la garantie légale de propriété et de qualité à moins de stipulation contraire à la clause 12.1. Clause 11.2 : date d'occupation. Clause 11.4 : paiement de la rétribution du courtier après les créances prioritaires et hypothécaires et les honoraires du notaire pour leur radiation. Clause 12.1 : autres déclarations et conditions; 13.1 : annexes (aucune case imprimée pour une condition de vente d'un autre immeuble)."
   }
  ],
  "review_status": {
@@ -74,6 +106,7 @@
  "claims_needing_review": [
   "Affirmation selon laquelle l'OACIQ range le certificat de localisation de plus de dix ans parmi les situations à soulever dès la prise du contrat de courtage: cette position est reprise dans le coffre à outils de la ligne directrice (fiche Certificat de localisation datant de plus de 10 ans), mais la page dédiée n'était pas accessible publiquement au moment de la rédaction. À faire valider par le courtier ou par l'OACIQ.",
   "Liste des documents que le vendeur apporte chez le notaire: elle est construite à partir des clauses 10.3, 10.6, 11.3 et 11.7 de la Promesse d'achat et de l'examen des titres décrit par l'OACIQ. Elle n'est pas une liste officielle publiée par la Chambre des notaires, dont le site était inaccessible par pare-feu au moment de la rédaction. À faire confirmer par un notaire.",
-  "Mention que l'engagement du prêteur dépend souvent de sa propre évaluation de la propriété: formulation prudente, non chiffrée, à faire valider par un courtier hypothécaire."
+  "Mention que l'engagement du prêteur dépend souvent de sa propre évaluation de la propriété: formulation prudente, non chiffrée, à faire valider par un courtier hypothécaire.",
+  "Les moyennes de jours sur le marché de l'APCIQ sont celles de septembre 2026 et changent chaque mois : à mettre à jour lors d'une prochaine révision. La définition exacte de l'indicateur n'a pas été recopiée de la page Définitions et notes explicatives."
  ]
 }

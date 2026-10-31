@@ -1,17 +1,63 @@
 ---
-title: "Acheter comptant au Québec : le vrai risque"
+title: "Achat comptant d'une maison au Québec : règles, risques et protections"
+seo_title: "Achat comptant d'une maison au Québec : règles et risques"
 date: 2026-08-05
-lastmod: 2026-09-21
+lastmod: 2026-10-31
+translationKey: "article-cash-buyers"
 category: "Guide de l'acheteur"
-description: "Offre sans condition de financement, inspection, préapprobation, obligations envers CANAFE, plafond de 7 500 $ chez le notaire : l'achat comptant au Québec."
+description: "Achat comptant au Québec : aucune condition de financement, inspection quand même, avis à CANAFE dès 10 000 $, 7 500 $ maximum en espèces au notaire."
 image: "images/articles/cash-buyers-advantage/featured.jpg"
+needs_expert_review: true
+draft: false
+tldr:
+  - "Un achat comptant est une promesse d'achat sans condition de financement : dans le formulaire de l'OACIQ, la section 6, Nouvel emprunt hypothécaire, reste vide et le prix est versé au notaire en fidéicommis."
+  - "Aucun organisme officiel ne publie de rabais moyen consenti à un acheteur comptant au Québec. L'avantage de l'offre tient à l'absence de condition de financement."
+  - "Payer comptant ne dispense pas de l'inspection : le vendeur ne garantit pas le vice apparent, celui qu'un acheteur prudent et diligent peut constater sans recourir à un expert (article 1726 du Code civil)."
+  - "Le courtier immobilier tient un relevé de chaque réception de fonds, quel qu'en soit le montant, et déclare à CANAFE toute réception de 10 000 $ ou plus en espèces."
+  - "Un notaire ne peut pas recevoir une somme en espèces de 7 500 $ ou plus pour un même contrat de service (article 20 du Règlement sur la comptabilité en fidéicommis des notaires)."
+faq:
+  - q: "Qu'est-ce qu'un achat comptant en immobilier au Québec ?"
+    a: "C'est un achat sans emprunt hypothécaire, donc sans condition de financement dans la promesse d'achat. Le prix est payé avec les fonds de l'acheteur, versés au notaire en fidéicommis, et non en billets de banque."
+  - q: "Peut-on payer une maison en argent liquide au Québec ?"
+    a: "Dans les faits, non. Un notaire ne peut pas recevoir 7 500 $ ou plus en espèces pour un même contrat de service, et la promesse d'achat de l'OACIQ prévoit le versement de l'acompte par chèque, virement ou traite bancaire. Le courtier qui reçoit 10 000 $ ou plus en espèces doit le déclarer à CANAFE."
+  - q: "Un vendeur doit-il baisser son prix pour une offre comptant ?"
+    a: "Non, rien ne l'y oblige, et aucun organisme officiel ne publie l'écart de prix accordé aux offres comptant. Le vendeur compare le prix, l'acompte, les conditions et la date de signature de chaque promesse reçue."
+  - q: "Faut-il faire inspecter une maison achetée comptant ?"
+    a: "Oui. Le courtier doit recommander une inspection complète à tout acheteur (article 81 du règlement sur les conditions d'exercice), et le vendeur ne garantit pas le vice qu'un acheteur prudent et diligent aurait pu constater sans expert (article 1726 du Code civil)."
+  - q: "Peut-on acheter une maison avec 0 $ comptant ?"
+    a: "Pas avec un prêt hypothécaire au Canada. La mise de fonds minimale est de 5 % jusqu'à 500 000 $, plus 10 % sur la portion de 500 000 $ à 1,5 million $, et de 20 % à 1,5 million $ ou plus. Elle doit normalement provenir de vos propres fonds; la SCHL accepte aussi un don non remboursable d'un membre de la famille. Voir [le mythe de la mise de fonds de 20 %](/articles/down-payment-myth-debunked/)."
+  - q: "Comment un vendeur vérifie-t-il une offre comptant ?"
+    a: "Il vérifie que la section 6 de la promesse est vide, que l'acompte est déposé en fidéicommis selon la clause 4.3, et quelles autres conditions restent, comme l'inspection. Il peut demander, par l'entremise des courtiers, une lettre de l'institution financière qui confirme les fonds."
 ---
 
-Payer comptant n'achète pas un rabais automatique. Ça achète de la certitude,
-et la certitude se paie en protections abandonnées. Voici ce qui change
-vraiment quand un acheteur retire la condition de financement, ce qu'il perd
-au passage, et ce que la loi québécoise exige dès que de l'argent liquide
-entre dans une transaction immobilière.
+Payer comptant n'achète pas un rabais automatique. Ça achète de la certitude
+pour le vendeur, et cette certitude se paie en protections que l'acheteur
+abandonne. Voici ce que veut dire « comptant » dans une promesse d'achat
+québécoise, ce qui change quand un acheteur retire la condition de
+financement, ce qu'il perd au passage, et ce que la loi exige dès que de
+l'argent liquide entre dans une transaction immobilière.
+
+## Ce que « comptant » veut dire dans une promesse d'achat
+
+Le formulaire *Promesse d'achat* de l'OACIQ (PA, version 29 de juin 2022)
+décrit le paiement en cinq lignes, à sa section 5 : l'acompte (5.1), les fonds
+additionnels que l'acheteur verse au notaire en fidéicommis (5.2), le nouvel
+emprunt (5.3), l'emprunt existant repris (5.4) et le solde payé au vendeur
+(5.5).
+
+Un acheteur comptant remplit l'acompte et les fonds additionnels, et laisse
+vide le nouvel emprunt. La section 6, *Nouvel emprunt hypothécaire*, qui
+l'obligerait à fournir l'engagement d'un prêteur dans un délai convenu, ne
+s'applique donc pas. Il n'y a pas de condition de financement.
+
+L'acompte de la clause 4.3 se verse par chèque, par virement électronique ou
+par traite bancaire, à l'ordre d'un fiduciaire « en fidéicommis ». Le
+formulaire ne prévoit pas d'acompte en billets. Si la promesse devient nulle,
+le fiduciaire rembourse l'acompte sans intérêt, sur demande écrite.
+
+Dans le langage courant, « comptant » désigne aussi la mise de fonds d'un
+acheteur qui emprunte. Ce n'est pas le sens de cet article : un achat comptant
+se fait sans emprunt hypothécaire.
 
 ## Ce que le vendeur achète, ce n'est pas votre argent
 
@@ -20,15 +66,18 @@ prêteur hypothécaire. L'avantage de l'offre comptant tient entièrement à une
 chose : l'absence de condition de financement.
 
 Une promesse d'achat conditionnelle au financement ouvre une période pendant
-laquelle l'acheteur peut se retirer si le prêt n'est pas accordé. Pour le
-vendeur, c'est une fenêtre d'incertitude : sa propriété est retirée de la
-circulation, les autres promettants acheteurs passent à autre chose, et si la
-condition échoue, il recommence avec une propriété qui a vécu. C'est cette
-fenêtre que l'acheteur comptant supprime, et c'est tout ce qu'il supprime.
+laquelle l'acheteur peut se retirer si le prêt n'est pas accordé. La clause
+6.3 donne alors au vendeur cinq jours pour exiger une nouvelle demande auprès
+d'un prêteur qu'il désigne ou pour rendre la promesse nulle. Pour le vendeur,
+c'est une fenêtre d'incertitude : sa propriété est retirée de la circulation,
+les autres promettants acheteurs passent à autre chose, et si la condition
+échoue, il recommence. C'est cette fenêtre que l'acheteur comptant supprime,
+et c'est tout ce qu'il supprime.
 
-Je ne vous donnerai pas de pourcentage de rabais. Aucun organisme officiel ne
-publie l'écart de prix qu'un vendeur québécois consent à une offre comptant.
-Les chiffres qui circulent là-dessus sont des impressions, pas des données.
+Aucun organisme officiel ne publie l'écart de prix qu'un vendeur québécois
+consent à une offre comptant. Les pourcentages qui circulent là-dessus sont
+des impressions, pas des données. Le prix reste une négociation, avec [les
+mêmes leviers que toute autre offre](/articles/strategies-negociation-immobilier/).
 
 ## Comptant et préapprouvé, ce n'est pas la même chose
 
@@ -64,15 +113,14 @@ vous vous prévalez d'une condition dans le délai et de la façon prévus,
 l'acompte vous est remboursé (clause 4.3 de la promesse d'achat).
 
 La condition de financement est la porte par laquelle un acheteur sort sans
-casse. La retirer, ce n'est pas être audacieux, c'est renoncer à cette porte.
-Ça ne se fait qu'avec un prêteur qui a vu votre dossier complet et l'immeuble,
+casse. La retirer, c'est renoncer à cette porte. Un acheteur qui compte sur un
+prêt ne le fait qu'avec un prêteur qui a vu son dossier complet et l'immeuble,
 pas sur la foi d'une lettre générique.
 
 ## L'inspection n'a rien à voir avec le financement
 
-C'est l'angle mort classique de l'acheteur comptant : « je n'ai aucune
-condition, donc je n'inspecte pas ». Les deux conditions ne servent pas au
-même but.
+L'erreur classique de l'acheteur comptant : « je n'ai aucune condition, donc je
+n'inspecte pas ». Les deux conditions ne servent pas au même but.
 
 Le Règlement sur les conditions d'exercice d'une opération de courtage oblige
 d'ailleurs le courtier à recommander à tout acheteur une inspection complète
@@ -89,7 +137,8 @@ soi-même la zone de ce qui sera tenu pour apparent. L'article 1733 ajoute que
 la limitation de garantie joue en faveur d'un vendeur non professionnel quand
 l'acheteur achète à ses risques et périls. Et l'article 1739 exige, une fois
 le vice découvert, une dénonciation écrite au vendeur dans un délai
-raisonnable.
+raisonnable. Les conditions d'un recours sont détaillées dans [le guide du
+vice caché](/articles/vice-cache-conditions-recours-quebec/).
 
 Si le calendrier vous inquiète, l'inspection peut se faire avant de déposer
 l'offre plutôt qu'après. Le [coût et le bon moment d'une inspection
@@ -126,6 +175,12 @@ l'opération par la haute direction : toujours s'il s'agit d'une personne
 politiquement vulnérable étrangère ou de l'un de ses proches, et seulement
 s'il juge le risque élevé dans les autres cas.
 
+Un projet de loi fédéral, C-2, déposé le 3 juin 2025, propose d'interdire à
+certaines entreprises et à certains professionnels d'accepter un paiement en
+espèces de 10 000 $ ou plus. Selon le suivi parlementaire consulté le
+31 octobre 2026, il n'était pas adopté : la déclaration à CANAFE reste la
+règle en vigueur.
+
 Et le notaire ? La croyance répandue veut qu'il soit soumis au même régime.
 Ce n'est pas exact, et l'OACIQ l'écrit lui-même dans sa ligne directrice :
 certaines professions, dont les notaires et les avocats, ne sont pas
@@ -136,12 +191,31 @@ appelle au Québec avocats et notaires.
 Cela ne veut surtout pas dire que le liquide passe. Le Règlement sur la
 comptabilité en fidéicommis des notaires est plus strict que le seuil
 fédéral : son article 20 interdit au notaire de recevoir une somme en espèces
-de 7 500 $ ou plus dans le cadre d'un même contrat de service. Ajoutez que la Banque du Canada a retiré le cours légal
-des billets de 500 $ et de 1 000 $ le 1er janvier 2021, ce qui laisse le
-billet de 100 $ comme plus grosse coupure. Une transaction « comptant » au
-Québec est donc, dans les faits, un virement depuis un compte documenté, pas
-une valise. Si le mot vous intrigue, voyez [ce que fait vraiment le
+de 7 500 $ ou plus dans le cadre d'un même contrat de service. Ajoutez que la
+Banque du Canada a retiré le cours légal des billets de 500 $ et de 1 000 $ le
+1er janvier 2021, ce qui laisse le billet de 100 $ comme plus grosse coupure.
+Une transaction « comptant » au Québec est donc, dans les faits, un virement
+depuis un compte documenté, pas une valise. Voyez [ce que fait vraiment le
 notaire](/articles/quebec-notary-process/).
+
+## Vendeur : comment lire une offre comptant
+
+Une offre comptant se lit comme toute autre promesse, clause par clause :
+
+1. **La section 6 est-elle vide ?** Si une condition de financement y figure,
+   l'offre n'est pas comptant, quel que soit le mot employé.
+2. **L'acompte.** Son montant, son mode de versement et le moment prévu à la
+   clause 4.3 : avec la promesse, ou dans les 72 heures suivant la réalisation
+   des conditions.
+3. **Les autres conditions.** Une inspection (clause 8.1) ou un examen de
+   documents (clause 9.1) peut rester, avec ses propres délais.
+4. **La date de l'acte de vente** prévue à la clause 11.1, et la date
+   d'occupation.
+5. **Qui achète.** Avant de traiter avec une entreprise qui offre d'acheter
+   « comptant et rapidement », vérifiez au [registre de
+   l'OACIQ](https://registre.oaciq.com/fr/) si votre interlocuteur détient un
+   permis de courtage, et comparez le prix offert à la valeur marchande
+   estimée par une analyse comparative de marché.
 
 ## Si vous financez, la partie se joue ailleurs
 

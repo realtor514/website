@@ -1,17 +1,62 @@
 ---
-title: "Buying with Cash in Quebec: Risk and Rules"
+title: "Buying a Home with Cash in Quebec: Rules, Risks and Protections"
+seo_title: "Cash Offer on a House in Quebec: Rules and Risks"
 date: 2026-08-05
-lastmod: 2026-09-21
+lastmod: 2026-10-31
+translationKey: "article-cash-buyers"
 category: "Buyer's Guide"
-description: "No financing condition, inspection, pre-approval, FINTRAC duties and the $7,500 cash ceiling at the notary: what buying with cash in Quebec really means."
+description: "Cash purchase in Quebec: no financing condition, still inspect, FINTRAC report from $10,000 and a $7,500 limit on cash a notary can accept."
 image: "images/articles/cash-buyers-advantage/featured.jpg"
+needs_expert_review: true
+draft: false
+tldr:
+  - "A cash purchase is a promise to purchase with no financing condition: in the OACIQ form, section 6, New hypothecary loan, stays blank and the price is paid to the notary in trust."
+  - "No official body publishes an average discount granted to cash buyers in Quebec. The advantage of the offer lies in the absence of a financing condition."
+  - "Paying cash does not replace the inspection: the seller does not warrant an apparent defect, one a prudent and diligent buyer can see without needing an expert (article 1726 of the Civil Code)."
+  - "A real estate broker keeps a record of every receipt of funds, whatever the amount, and reports to FINTRAC any receipt of $10,000 or more in cash."
+  - "A notary may not receive a cash amount of $7,500 or more for a single service contract (section 20 of the regulation on notaries' trust accounting)."
+faq:
+  - q: "What is a cash purchase in Quebec real estate?"
+    a: "It is a purchase with no mortgage loan, so with no financing condition in the promise to purchase. The price is paid from the buyer's own funds, deposited with the notary in trust, not in bank notes."
+  - q: "Can you pay for a house in physical cash in Quebec?"
+    a: "In practice, no. A notary may not receive $7,500 or more in cash for a single service contract, and the OACIQ promise to purchase provides for the deposit to be paid by cheque, wire transfer or bank draft. A broker who receives $10,000 or more in cash must report it to FINTRAC."
+  - q: "Does a seller have to lower the price for a cash offer?"
+    a: "No, nothing requires it, and no official body publishes the price gap granted to cash offers. The seller compares the price, the deposit, the conditions and the signing date of each promise received."
+  - q: "Should you inspect a house you buy with cash?"
+    a: "Yes. The broker must recommend a complete inspection to every buyer (section 81 of the brokerage regulation), and the seller does not warrant a defect a prudent and diligent buyer could have seen without an expert (article 1726 of the Civil Code)."
+  - q: "Can you buy a house with no down payment?"
+    a: "Not with a mortgage in Canada. The minimum down payment is 5% up to $500,000, plus 10% on the portion from $500,000 to $1.5 million, and 20% at $1.5 million or more. It must normally come from your own funds; CMHC also accepts a non-repayable gift from a relative. See [the 20% down payment myth](/en/articles/down-payment-myth-debunked/)."
+  - q: "How does a seller check a cash offer?"
+    a: "The seller checks that section 6 of the promise is blank, that the deposit is held in trust under clause 4.3, and which other conditions remain, such as an inspection. Through the brokers, the seller can ask for a letter from the financial institution confirming the funds."
 ---
 
-Paying cash does not buy you an automatic discount. It buys certainty, and
-certainty is paid for in protections given up. Here is what actually changes
+Paying cash does not buy you an automatic discount. It buys certainty for the
+seller, and that certainty is paid for in protections the buyer gives up. Here
+is what "cash" means in a Quebec promise to purchase, what actually changes
 when a buyer removes the financing condition, what that buyer loses along the
-way, and what Quebec law requires the moment physical money enters a real
-estate transaction.
+way, and what the law requires the moment physical money enters a real estate
+transaction.
+
+## What "cash" means in a promise to purchase
+
+The OACIQ *Promise to Purchase* form (PA, version 29 of June 2022) describes
+payment in five lines, in section 5: the deposit (5.1), the additional funds
+the buyer pays to the notary in trust (5.2), the new loan (5.3), the existing
+loan assumed (5.4) and the balance paid to the seller (5.5).
+
+A cash buyer fills in the deposit and the additional funds and leaves the new
+loan blank. Section 6, *New hypothecary loan*, which would require the buyer to
+provide a lender's commitment within an agreed time, therefore does not apply.
+There is no financing condition.
+
+The deposit in clause 4.3 is paid by cheque, by electronic transfer or by bank
+draft, to the order of a trustee "in trust". The form does not provide for a
+deposit in bank notes. If the promise becomes null, the trustee refunds the
+deposit without interest, on written request.
+
+In everyday Quebec French, "comptant" also refers to the down payment of a
+buyer who borrows. That is not the meaning here: a cash purchase is made
+without a mortgage loan.
 
 ## What the seller is buying is not your money
 
@@ -20,15 +65,17 @@ a mortgage lender. The advantage of a cash offer rests entirely on one thing:
 the absence of a financing condition.
 
 A promise to purchase conditional on financing opens a window during which the
-buyer can walk away if the loan is not granted. For the seller, that window is
-uncertainty: the property is out of circulation, other interested buyers move
-on, and if the condition fails, the seller starts again with a listing that
-now has a history. That window is what the cash buyer removes, and it is all
-the cash buyer removes.
+buyer can walk away if the loan is not granted. Clause 6.3 then gives the
+seller five days to require a new application with a lender the seller names,
+or to make the promise null. For the seller, that window is uncertainty: the
+property is out of circulation, other interested buyers move on, and if the
+condition fails, the seller starts again. That window is what the cash buyer
+removes, and it is all the cash buyer removes.
 
-I will not give you a discount percentage. No official body publishes the
-price gap a Quebec seller grants a cash offer. The numbers that circulate on
-this are impressions, not data.
+No official body publishes the price gap a Quebec seller grants a cash offer.
+The percentages that circulate on this are impressions, not data. Price
+remains a negotiation, with [the same levers as any other
+offer](/en/articles/strategies-negociation-immobilier-montreal/).
 
 ## Cash and pre-approved are not the same thing
 
@@ -64,14 +111,14 @@ time and in the manner provided, the deposit is refunded to you (clause 4.3 of
 the promise to purchase).
 
 The financing condition is the door through which a buyer leaves without
-damage. Removing it is not boldness, it is giving up that door. It is done
-only with a lender who has seen your complete file and the building itself,
-never on the strength of a generic letter.
+damage. Removing it means giving up that door. A buyer who relies on a loan
+does it only with a lender who has seen the complete file and the building
+itself, never on the strength of a generic letter.
 
 ## The inspection has nothing to do with financing
 
-This is the classic blind spot of the cash buyer: "I have no conditions, so I
-skip the inspection." The two conditions do not serve the same purpose.
+The classic mistake of the cash buyer: "I have no conditions, so I skip the
+inspection." The two conditions do not serve the same purpose.
 
 The Regulation respecting brokerage requirements, professional conduct of
 brokers and advertising in fact requires the broker to recommend to every
@@ -87,7 +134,9 @@ see it without needing an expert. Waiving the expert therefore widens, by your
 own hand, the zone of what will be treated as apparent. Article 1733 adds that
 a limitation of warranty holds in favour of a non-professional seller when the
 buyer buys at their own risk. And article 1739 requires, once a defect is
-found, written notice to the seller within a reasonable time.
+found, written notice to the seller within a reasonable time. The conditions
+of a claim are set out in [the latent defect
+guide](/en/articles/latent-defect-recourse-quebec/).
 
 If the calendar worries you, the inspection can be done before the offer is
 submitted rather than after. The [cost and timing of a pre-purchase
@@ -123,6 +172,11 @@ for a foreign politically exposed person or one of their family members or
 close associates, and only when they judge the risk to be high in the other
 cases.
 
+A federal bill, C-2, introduced on June 3, 2025, proposes to prohibit certain
+businesses and professionals from accepting a cash payment of $10,000 or more.
+According to the parliamentary tracker consulted on October 31, 2026, it had
+not been adopted: reporting to FINTRAC remains the rule in force.
+
 And the notary? The common belief is that the same regime applies. It does
 not, and the OACIQ says so itself in its guideline: certain professions,
 including notaries and lawyers, are not subject to all the requirements of
@@ -134,11 +188,28 @@ This absolutely does not mean cash sails through. The notaries' trust
 accounting regulation (Règlement sur la comptabilité en fidéicommis des
 notaires, CQLR c N-3, r 5.2) is stricter than the federal threshold: its
 section 20 forbids a notary from receiving a sum of $7,500 or more in cash
-under a single service contract. Add that the Bank of Canada removed legal tender status from the $500 and
-$1,000 notes on January 1, 2021, which leaves the $100 note as the largest
-denomination. A cash transaction in Quebec is therefore, in practice, a
-transfer from a documented account, not a suitcase. If the word intrigues you,
-see [what the notary actually does](/en/articles/quebec-notary-process/).
+under a single service contract. Add that the Bank of Canada removed legal
+tender status from the $500 and $1,000 notes on January 1, 2021, which leaves
+the $100 note as the largest denomination. A cash transaction in Quebec is
+therefore, in practice, a transfer from a documented account, not a suitcase.
+See [what the notary actually does](/en/articles/quebec-notary-process/).
+
+## Seller: how to read a cash offer
+
+A cash offer is read like any other promise, clause by clause:
+
+1. **Is section 6 blank?** If a financing condition appears there, the offer is
+   not a cash offer, whatever word is used.
+2. **The deposit.** Its amount, how it is paid and when, as set in clause 4.3:
+   with the promise, or within 72 hours after the conditions are fulfilled.
+3. **The other conditions.** An inspection (clause 8.1) or a review of
+   documents (clause 9.1) can remain, with its own deadlines.
+4. **The date of the deed of sale** set in clause 11.1, and the occupancy
+   date.
+5. **Who is buying.** Before dealing with a company that offers to buy "cash
+   and fast", check the [OACIQ register](https://registre.oaciq.com/en/) to see
+   whether the person holds a brokerage licence, and compare the price offered
+   with the estimated market value from a comparative market analysis.
 
 ## If you are financing, the game is played elsewhere
 

@@ -1,20 +1,54 @@
 ---
-title: "Processus de vente d'une maison au Québec: les étapes"
+title: "Processus de vente d'une maison au Québec: les étapes et les délais"
+seo_title: "Étapes pour vendre une maison au Québec: délais réels"
 date: 2026-09-24
-lastmod: 2026-09-24
+lastmod: 2026-10-31
 translationKey: "article-processus-mise-en-vente"
 category: "Guide du vendeur"
-description: "Contrat de courtage, Déclarations du vendeur, certificat, promesse d'achat, notaire: le processus de vente d'une maison au Québec, étape par étape."
+description: "Les 9 étapes pour vendre une maison au Québec: contrat de courtage, DV, certificat, promesse, conditions, notaire. Délais réels et vente avec hypothèque."
 image: "images/articles/processus-mise-en-vente-etapes-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Une vente résidentielle au Québec suit les formulaires de l'OACIQ: contrat de courtage vente, Déclarations du vendeur, promesse d'achat, puis acte de vente signé devant notaire."
+  - "Le certificat de localisation se vérifie dès la signature du contrat de courtage, parce que la clause 10.3 de la promesse d'achat oblige le vendeur à en fournir un qui reflète l'état actuel des lieux."
+  - "Une contre-proposition a le même effet qu'un refus: la promesse d'achat initiale devient nulle (clause 14.1 du formulaire Promesse d'achat)."
+  - "En septembre 2026, une unifamiliale est restée en moyenne 41 jours sur le marché dans la région métropolitaine de Montréal et 44 jours à Laval, selon les statistiques Centris de l'APCIQ."
+  - "Une maison hypothéquée se vend: le notaire rembourse le prêteur à même le prix de vente, et le prêteur peut exiger une pénalité si le prêt est remboursé avant la fin du terme."
+faq:
+  - q: "Quelles sont les étapes pour vendre une maison au Québec?"
+    a: "Signer le contrat de courtage vente, remplir les Déclarations du vendeur, vérifier le certificat de localisation, fixer le prix demandé, diffuser la fiche et faire les visites, répondre aux promesses d'achat, suivre la réalisation des conditions, préparer les documents, puis signer l'acte de vente chez le notaire."
+  - q: "Combien de temps faut-il pour vendre une maison au Québec?"
+    a: "Selon l'APCIQ, une unifamiliale est restée en moyenne 41 jours sur le marché dans la région de Montréal en septembre 2026, et 44 jours à Laval. S'ajoutent ensuite les délais des conditions inscrits à la promesse d'achat, puis la date de l'acte de vente fixée à la clause 11.1."
+  - q: "Peut-on vendre une maison qui a encore une hypothèque?"
+    a: "Oui. Le notaire rembourse le prêteur à même le prix de vente et fait radier l'hypothèque (article 1723 du Code civil, clause 11.4 de la promesse). Si le prêt est remboursé avant la fin du terme, le prêteur peut exiger une pénalité, généralement le plus élevé de trois mois d'intérêts ou du différentiel de taux d'intérêt."
+  - q: "Quelles sont les obligations du vendeur avant de vendre une maison?"
+    a: "Le vendeur doit délivrer l'immeuble et en garantir le droit de propriété et la qualité, des garanties qui existent de plein droit (article 1716 du Code civil). Il remet ses titres, son acte d'acquisition et son certificat de localisation (article 1719), et déclare ce qu'il sait de l'immeuble au formulaire Déclarations du vendeur."
+  - q: "Puis-je refuser une promesse d'achat sans conséquence?"
+    a: "Le refus rend la promesse nulle et non avenue, sans obligation de le motiver. Mais si la promesse était conforme aux conditions inscrites à votre contrat de courtage, le refus rend la rétribution du courtier exigible. Faites vérifier la conformité avant de répondre."
+  - q: "L'inspection a révélé un problème: l'acheteur peut-il exiger une baisse de prix?"
+    a: "Non, pas sur la base de la clause 8.1, qui lui permet seulement de rendre la promesse nulle en vous avisant par écrit avec une copie du rapport dans le délai prévu. Un ajustement de prix est une entente distincte, que vous êtes libre de refuser."
 ---
 
 Entre le premier rendez-vous avec un courtier et la signature chez le notaire,
-une vente résidentielle traverse une dizaine d'étapes. Chacune est attachée à un
+une vente résidentielle traverse neuf étapes. Chacune est attachée à un
 document précis, et c'est ce document, pas l'habitude des parties, qui décide de
 ce que vous devez faire et dans quel délai. Voici la séquence réelle, formulaire
 par formulaire.
+
+## Les 9 étapes pour vendre une maison au Québec
+
+1. **Signer le contrat de courtage vente**, formulaire obligatoire de l'OACIQ.
+2. **Remplir les Déclarations du vendeur sur l'immeuble** (DV) avec le courtier.
+3. **Vérifier le certificat de localisation** et rassembler les titres.
+4. **Fixer le prix demandé** à partir d'éléments objectifs et de comparables.
+5. **Diffuser la fiche descriptive** et organiser les visites.
+6. **Répondre aux promesses d'achat**: accepter, refuser ou contre-proposer.
+7. **Suivre la réalisation des conditions** de l'acheteur: inspection,
+   financement, examen de documents.
+8. **Préparer les documents pour le notaire**, dont le solde hypothécaire.
+9. **Signer l'acte de vente chez le notaire** et libérer les lieux à la date
+   d'occupation.
 
 ## Le processus de vente d'une maison au Québec commence par deux formulaires
 
@@ -36,6 +70,22 @@ mettre à jour dès qu'un élément nouveau apparaît. Ce que vous écrivez là 
 le dossier jusque chez le notaire:
 [le formulaire DV en détail](/articles/declaration-du-vendeur-quebec/).
 
+## Ce que la loi exige du vendeur
+
+L'article 1716 du Code civil fixe la base: le vendeur est tenu de délivrer le
+bien, et d'en garantir le droit de propriété et la qualité. Ces garanties
+existent de plein droit, sans qu'il soit nécessaire de les stipuler dans le
+contrat. Le formulaire *Promesse d'achat* le reprend à sa clause 10.1: l'immeuble
+est vendu avec la garantie légale de propriété et de qualité, à moins d'une
+stipulation contraire à la clause 12.1. Une vente [sans garantie
+légale](/articles/vente-sans-garantie-legale-quebec/) doit donc être écrite.
+
+L'article 1719 oblige le vendeur à remettre ses titres, une copie de son acte
+d'acquisition, des titres antérieurs et du certificat de localisation qu'il
+possède. L'article 1723 l'oblige à garantir que l'immeuble est libre de tous
+droits, sauf ceux qu'il a déclarés. Ces trois articles expliquent l'ordre des
+étapes qui suivent.
+
 ## Le certificat de localisation, la pièce qui retarde le plus de dossiers
 
 **Dès la signature du contrat de courtage**, le courtier doit vérifier si vous
@@ -44,7 +94,7 @@ faits depuis son émission, et en examiner le contenu. S'il n'y en a pas, s'il
 n'est plus valide ou s'il ne reflète pas l'état actuel des lieux, il doit vous
 recommander d'en faire produire un nouveau.
 
-Pourquoi si tôt. Parce que la clause 10.3 du formulaire *Promesse d'achat* vous
+Pourquoi si tôt? Parce que la clause 10.3 du formulaire *Promesse d'achat* vous
 oblige à fournir à l'acheteur une copie authentique de votre acte d'acquisition
 et de votre certificat de localisation, et ce certificat doit refléter toute
 opération ou rénovation cadastrale, l'état physique actuel des lieux, les
@@ -61,6 +111,12 @@ signature du contrat de courtage, pas le jour où une promesse arrive.
 
 ## Fiche descriptive, diffusion et visites: la mise en vente réelle
 
+Le prix demandé se fixe avant la diffusion. Selon la ligne directrice de
+l'OACIQ, le courtier accompagne le vendeur dans l'établissement de la valeur
+marchande à partir d'éléments objectifs et de comparables (article 76 du
+Règlement sur les conditions d'exercice). Situez votre point de départ avec
+une [estimation de la valeur de votre propriété](/tools/home-estimate/).
+
 La fiche descriptive est la première source d'information consultée par le
 public. L'OACIQ est clair: les renseignements diffusés doivent être exacts,
 vérifiés et à jour, et le courtier doit être en mesure d'en démontrer
@@ -72,12 +128,32 @@ spéciale, il doit corriger la fiche et les Déclarations du vendeur au moyen d'
 formulaire *Modifications*.
 
 Viennent ensuite la diffusion aux services entre courtiers, les visites et la
-rétroaction. Le nombre de visites et le temps avant une première promesse
-varient d'un secteur à l'autre et d'un mois à l'autre; aucune moyenne ne
-s'applique à votre propriété. Avant de fixer le prix demandé, situez votre point
-de départ avec une
-[estimation de la valeur de votre propriété](/tools/home-estimate/). Sur le
-délai, lisez [ce qui fait varier le temps de vente](/articles/combien-de-temps-vendre-maison-montreal/).
+rétroaction.
+
+## Combien de temps prend la vente d'une maison au Québec
+
+Le délai total se compose de trois périodes distinctes.
+
+**Avant la première promesse acceptée.** Les statistiques Centris de l'APCIQ
+publient chaque mois la moyenne de jours sur le marché, par secteur et par type
+de propriété. En septembre 2026:
+
+| Secteur | Unifamiliale | Copropriété |
+|---|---|---|
+| Région métropolitaine de Montréal | 41 jours | 65 jours |
+| Laval | 44 jours | 57 jours |
+
+Ces moyennes changent d'un mois à l'autre et ne prédisent pas le délai d'une
+propriété précise: le prix demandé, l'état et le secteur le font varier. Voyez
+[ce qui fait varier le temps de vente à Laval](/articles/combien-de-temps-vendre-maison-laval/)
+et [à Montréal](/articles/combien-de-temps-vendre-maison-montreal/).
+
+**Entre l'acceptation et la levée des conditions.** Ce sont les délais inscrits
+à la promesse d'achat, détaillés plus bas, auxquels s'ajoutent les délais
+imprimés au formulaire.
+
+**Jusqu'à l'acte de vente.** C'est la date inscrite à la clause 11.1, négociée
+avec l'acheteur, et la date d'occupation de la clause 11.2.
 
 ## La promesse d'achat: accepter, refuser, ou contre-proposer
 
@@ -140,6 +216,39 @@ aviser par écrit dans les sept jours suivant l'expiration de ce délai. Ces avi
 se consignent sur le formulaire *Avis et suivi de réalisation de conditions*,
 pour qu'aucune des parties ne puisse prétendre plus tard n'avoir rien reçu.
 
+**Un vice découvert après la levée des conditions.** La vente n'est pas annulée
+automatiquement. La clause 10.5 vous accorde 21 jours à compter de la
+dénonciation écrite pour remédier à vos frais ou aviser que vous n'y remédierez
+pas. L'acheteur a ensuite cinq jours pour acheter quand même ou rendre la
+promesse nulle. Faites lire la dénonciation par un notaire avant de répondre.
+
+**Si vous devez acheter en même temps.** Le formulaire n'a pas de case imprimée
+pour une condition de vente de la propriété de l'acheteur, ni pour la vôtre.
+Une telle condition, si elle est négociée, s'écrit à la clause 12.1 ou dans une
+annexe, et la date d'occupation de la clause 11.2 peut être alignée sur votre
+propre achat. Les options sont détaillées dans [vendre avant d'acheter: les
+clauses](/articles/vendre-avant-acheter-clauses-quebec/).
+
+## Vendre une maison encore hypothéquée
+
+C'est le cas le plus courant, et il ne bloque pas la vente. L'article 1723
+oblige le vendeur à purger l'immeuble des hypothèques qui le grèvent. La clause
+11.4 de la promesse donne au notaire l'instruction irrévocable de payer la
+rétribution du courtier à même les sommes qui vous reviennent, après le
+paiement de toutes les créances prioritaires et hypothécaires et de ses
+honoraires, notamment pour la radiation de ces créances. Le prêteur est donc
+remboursé à même le prix de vente.
+
+**La pénalité de remboursement anticipé.** Selon l'Agence de la consommation en
+matière financière du Canada, un prêteur peut exiger une pénalité si vous
+remboursez votre prêt en entier avant la fin du terme, y compris quand vous
+vendez votre maison. Elle correspond généralement au plus élevé de deux
+montants: trois mois d'intérêts sur le solde, ou le différentiel de taux
+d'intérêt. Si vous achetez une autre propriété, demandez au prêteur si le prêt
+peut être transféré, ce qui conserve le taux et les conditions. Demandez le
+calcul écrit avant de fixer votre prix net:
+[casser son hypothèque et la pénalité](/articles/casser-hypotheque-penalite-quebec/).
+
 ## La dernière étape du processus de vente: chez le notaire
 
 Les conditions réalisées, l'acte de vente se signe devant le notaire identifié à
@@ -151,20 +260,11 @@ l'immeuble. Avec le certificat de localisation, il vérifie les dimensions du
 terrain, que le bâtiment est bien érigé sur le lot vendu, la conformité au
 zonage, les empiétements et les droits de passage.
 
-Deux articles du Code civil commandent cette étape. L'article 1719 vous oblige à
-remettre les titres que vous possédez, une copie de votre acte d'acquisition,
-des titres antérieurs et du certificat de localisation. L'article 1723 vous
-oblige à garantir que l'immeuble est libre de tous droits sauf ceux que vous
-avez déclarés, et à le purger des hypothèques qui le grèvent. De là vient la
-quittance: votre prêteur doit consentir à la radiation de son hypothèque.
-
 Il calcule ensuite les répartitions prévues à la clause 11.3: taxes foncières
 générales et spéciales, réserves de combustibles, revenus et dépenses, à la date
-de la signature ou à celle de l'occupation. La clause 11.4 lui donne
-l'instruction irrévocable de payer la rétribution du courtier à même les sommes
-qui vous reviennent, après les créances prioritaires et hypothécaires. Et il
-retient les fonds tant que l'acte n'est pas inscrit au Bureau de la publicité
-des droits.
+de la signature ou à celle de l'occupation. Il obtient la quittance du prêteur,
+qui consent à la radiation de son hypothèque, et retient les fonds tant que
+l'acte n'est pas inscrit au Bureau de la publicité des droits.
 
 **Ce que le vendeur apporte.** Pièces d'identité, acte d'acquisition,
 certificat de localisation, dernier compte de taxes municipales et scolaires,
@@ -174,28 +274,6 @@ consentement du conjoint si l'immeuble est la résidence familiale. Jusqu'à
 l'occupation, vous demeurez responsable de maintenir les lieux dans l'état où
 ils se trouvaient lors des visites:
 [le déroulement chez le notaire](/articles/quebec-notary-process/).
-
-## Questions fréquentes
-
-**Puis-je refuser une promesse d'achat sans conséquence?**
-Le refus rend la promesse nulle et non avenue, et vous n'avez pas à le motiver.
-Mais si elle était conforme aux conditions inscrites à votre contrat de
-courtage, le refus rend la rétribution du courtier exigible. Faites vérifier la
-conformité avant de répondre.
-
-**L'inspection a révélé un problème. L'acheteur peut-il exiger une baisse de
-prix?**
-Non, pas sur la base de la clause 8.1, qui lui permet seulement de rendre la
-promesse nulle en vous avisant par écrit avec une copie du rapport dans le délai
-prévu. Un ajustement de prix est une entente distincte, que vous êtes libre de
-refuser.
-
-**Un vice découvert après la levée des conditions annule-t-il la vente?**
-Pas automatiquement. La clause 10.5 vous accorde 21 jours à compter de la
-dénonciation écrite pour remédier à vos frais ou aviser que vous n'y remédierez
-pas. L'acheteur a ensuite cinq jours pour acheter quand même, avec les
-déclarations diminuées d'autant, ou rendre la promesse nulle. Faites lire la
-dénonciation par un notaire avant de répondre.
 
 Pour compléter, lisez [comment préparer votre maison avant la mise en marché](/articles/preparer-maison-vente/)
 et [le contrat de courtage vente clause par clause](/articles/contrat-courtage-vente-quebec/).

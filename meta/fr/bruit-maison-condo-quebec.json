@@ -1,16 +1,20 @@
 {
  "id": "t11",
  "slug": "bruit-maison-condo-quebec",
- "title": "Bruit et insonorisation en condo au Québec : quoi vérifier",
+ "title": "Bruit et insonorisation en condo au Québec : normes, tests et recours",
  "target_keyword": "bruit condo insonorisation quebec",
  "word_count": 1798,
  "category": "Guide de l'acheteur",
  "internal_links": [
+  "/articles/choisir-inspecteur-batiment-quebec/",
   "/articles/condo-fees-investment-killer/",
-  "/courtier-immobilier/laval/",
-  "/articles/first-visit-property-checklist/",
   "/articles/condo-vs-house-montreal/",
+  "/articles/first-visit-property-checklist/",
   "/articles/home-inspection-checklist-montreal/",
+  "/articles/loi-16-copropriete-acheteur-quebec/",
+  "/articles/renovation-condo-copropriete-quebec/",
+  "/articles/troubles-de-voisinage-quebec/",
+  "/courtier-immobilier/laval/",
   "/formulaire/"
  ],
  "sources": [
@@ -97,6 +101,41 @@
    "publisher": "Éducaloi",
    "consulted": "2026-09-23",
    "supports": "Le trouble de voisinage doit être continu ou répétitif et sérieux, et s'apprécie selon le milieu. Démarche progressive : discussion, mise en demeure, puis recours judiciaire."
+  },
+  {
+   "url": "https://cecobois.com/wp-content/uploads/2024/04/Fiche-BP-Controle-du-bruit-pour-la-construction-a-ossature-en-bois_Final.pdf",
+   "title": "Fiche technique, Contrôle du bruit pour la construction à ossature en bois (2024)",
+   "publisher": "FPInnovations, avec la contribution du MRNF, de la Régie du bâtiment du Québec et de Cecobois",
+   "consulted": "2026-10-31",
+   "supports": "Le Code (chapitre I, Bâtiment, CNB 2015 modifié) exige qu'un assemblage de séparation et la construction attenante fournissent un ITSA d'au moins 47 ou un ITS d'au moins 50, avec des constructions contiguës conformes à 9.11.1.4 (articles 5.8.1.1 et 9.11.1.1). Il n'y a pas d'exigence dans le Code pour le contrôle de la transmission des bruits d'impact; le Code recommande que le plancher nu atteigne un IIC d'au moins 55."
+  },
+  {
+   "url": "https://www.rbq.gouv.qc.ca/salle-de-presse/les-nouvelles/nouvelles-detail/item/2026-08-26-prolongation-de-la-periode-transitoire-en-batiment-et-en-electricite-reglements-publies-pour-entree-en-vigueur/",
+   "title": "Prolongation de la période transitoire en bâtiment et en électricité : règlements publiés pour entrée en vigueur",
+   "publisher": "Régie du bâtiment du Québec",
+   "consulted": "2026-10-31",
+   "supports": "Règlements publiés à la Gazette officielle le 26 août 2026, en vigueur le 10 septembre 2026, prolongeant d'un an la période transitoire; les anciennes dispositions peuvent s'appliquer aux travaux débutés avant le 17 octobre 2027."
+  },
+  {
+   "url": "https://ocpm.qc.ca/sites/default/files/pdf/P129/6-2_Re%CC%80glement%20sur%20le%20bruit%20a%CC%80%20l%26%23039%3Be%CC%81gard%20de%20l%26%23039%3Barrondissement%20de%20Mercier-Hochelaga-Maisonneuve%20%28R.R.V.M.%2C%20c.%20B-3%29%20%28fe%CC%81vrier%202024%29-Codification.pdf",
+   "title": "Règlement sur le bruit à l'égard de l'arrondissement de Mercier-Hochelaga-Maisonneuve, R.R.V.M. c. B-3, codification administrative (février 2024)",
+   "publisher": "Ville de Montréal, arrondissement de Mercier-Hochelaga-Maisonneuve",
+   "consulted": "2026-10-31",
+   "supports": "Article 2 : le bruit supérieur au maximum fixé ou spécifiquement prohibé constitue une nuisance. Article 9 : bruits spécifiquement prohibés lorsqu'ils s'entendent à l'extérieur ou dans un autre local, dont les appareils sonores, les cris et le tapage, et les instruments de musique en période de nuit, en tout temps s'ils sont à percussion ou électriques."
+  },
+  {
+   "url": "https://montreal.ca/communiques-de-presse/larrondissement-du-plateau-mont-royal-modernise-sa-reglementation-sur-le-bruit",
+   "title": "L'arrondissement du Plateau-Mont-Royal modernise sa réglementation sur le bruit (9 avril 2026)",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-31",
+   "supports": "Refonte de la réglementation sur le bruit du Plateau-Mont-Royal, avis de motion le 13 avril 2026, adoption prévue le 4 mai 2026, plaintes par le 311."
+  },
+  {
+   "url": "https://montreal.ca/actualites/le-conseil-darrondissement-du-plateau-mont-royal-du-4-mai-en-bref-109790",
+   "title": "Le conseil d'arrondissement du Plateau-Mont-Royal du 4 mai en bref",
+   "publisher": "Ville de Montréal",
+   "consulted": "2026-10-31",
+   "supports": "Le conseil d'arrondissement a adopté le 4 mai 2026 le nouveau règlement sur le bruit, désormais en vigueur."
   }
  ],
  "review_status": {
@@ -106,8 +145,8 @@
   "convention": "claims_needing_review est le journal de verification tenu a la redaction. Une entree qui commence par RESOLU a ete verifiee et fermee, avec sa date. Les autres restent ouvertes: la plupart decrivent une limite que le texte enonce deja au lecteur, les autres attendent la validation d un professionnel nomme dans l entree. La mention avant publication dans une entree date de la redaction: elle ne signifie pas que l article est inedit."
  },
  "claims_needing_review": [
-  "La valeur chiffrée minimale de l'ITS et de l'ITSA exigée par le chapitre I, Bâtiment, n'a pas pu être confirmée dans une source primaire ouverte pendant la rédaction. L'article décrit donc le principe (deux options de conformité, parcours directs contre parcours directs et indirects, portée limitée aux sons aériens) et renvoie explicitement le lecteur à la RBQ ou à un acousticien plutôt que d'avancer un nombre.",
-  "La codification du Règlement sur le bruit R.R.V.M. c. B-3 consultée est celle de l'arrondissement du Plateau-Mont-Royal. L'article le dit explicitement, car les arrondissements montréalais appliquent des versions différentes.",
+  "RESOLU 2026-10-31 : les valeurs ITSA 47 et ITS 50 et l'absence d'exigence pour le bruit d'impact (recommandation IIC 55) viennent de la fiche FPInnovations 2024, rédigée avec la contribution de la RBQ, qui porte sur l'édition du Code fondée sur le CNB 2015. L'article le précise. Le maintien des mêmes valeurs dans l'édition fondée sur le CNB 2020 n'a pas été confirmé dans une source primaire ouverte : à valider auprès de la RBQ.",
+  "RESOLU 2026-10-31 : le Plateau-Mont-Royal a adopté le 4 mai 2026 un nouveau règlement sur le bruit, ce qui rendait périmée la citation de la codification B-3 du Plateau d'octobre 2024. L'article cite désormais la codification B-3 de Mercier-Hochelaga-Maisonneuve (février 2024) et mentionne le nouveau règlement du Plateau sans en détailler le contenu, son numéro et son texte final n'ayant pas été consultés.",
   "Le lien interne vers la page de secteur de Laval utilise /courtier-immobilier/laval/, soit l'URL réellement publiée par le front matter de content/fr/secteurs/laval.md, et non /secteurs/laval/ tel qu'écrit dans state/internal_links_fr.md."
  ]
 }

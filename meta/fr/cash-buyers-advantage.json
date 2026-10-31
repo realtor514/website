@@ -1,0 +1,70 @@
+{
+ "id": "cash-buyers-advantage",
+ "slug": "cash-buyers-advantage",
+ "title": "Achat comptant d'une maison au Québec : règles, risques et protections",
+ "target_keyword": "achat comptant maison quebec",
+ "category": "Guide de l'acheteur",
+ "sources": [
+  {
+   "url": "https://www.oaciq.com/media/qqlnugz4/promesse-achat-residentiel.pdf",
+   "title": "Promesse d'achat, immeuble principalement résidentiel de moins de 5 logements excluant la copropriété (PA 00001, v29 06/2022)",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-31",
+   "supports": "Section 5 Mode de paiement (5.1 acompte, 5.2 fonds additionnels versés au notaire en fidéicommis, 5.3 nouvel emprunt, 5.4 emprunt existant, 5.5 solde). Section 6 Nouvel emprunt hypothécaire, dont 6.3 : cinq jours au vendeur en l'absence d'engagement. Clause 4.3 : acompte par chèque, virement électronique ou traite bancaire à l'ordre du fiduciaire en fidéicommis, remis avec la promesse ou dans les 72 heures de la réalisation des conditions, remboursé sans intérêt sur demande écrite si la promesse devient nulle. Clauses 8.1, 9.1, 11.1."
+  },
+  {
+   "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/N-3,%20r.%205.2",
+   "title": "Règlement sur la comptabilité en fidéicommis des notaires, RLRQ c N-3, r 5.2, article 20",
+   "publisher": "Légis Québec, Publications du Québec",
+   "consulted": "2026-10-31",
+   "supports": "Le notaire ne peut recevoir une somme en espèces de 7 500 $ ou plus dans le cadre d'un même contrat de service."
+  },
+  {
+   "url": "https://fintrac-canafe.canada.ca/guidance-directives/recordkeeping-document/record/real-fra",
+   "title": "Exigences en matière de tenue de documents pour le secteur immobilier",
+   "publisher": "CANAFE",
+   "consulted": "2026-10-31",
+   "supports": "Relevé de réception de fonds requis lorsque des fonds sont reçus, peu importe le montant; relevé d'opération importante en espèces à 10 000 $ ou plus; conservation d'au moins cinq ans."
+  },
+  {
+   "url": "https://fintrac-canafe.canada.ca/re-ed/real-fra",
+   "title": "Courtiers et agents immobiliers et promoteurs immobiliers",
+   "publisher": "CANAFE",
+   "consulted": "2026-10-31",
+   "supports": "Obligations du secteur immobilier : programme de conformité, vérification de l'identité, bénéficiaires effectifs à 25 %, personnes politiquement vulnérables, déclarations d'opérations douteuses, déclaration d'opérations importantes en espèces de 10 000 $ ou plus et règle des 24 heures. La page ne mentionne aucune interdiction des paiements en espèces."
+  },
+  {
+   "url": "https://www.cmhc-schl.gc.ca/consumers/home-buying/mortgage-loan-insurance-for-consumers/what-are-the-general-requirements-to-qualify-for-homeowner-mortgage-loan-insurance",
+   "title": "What are the general requirements to qualify for homeowner mortgage loan insurance?",
+   "publisher": "Société canadienne d'hypothèques et de logement",
+   "consulted": "2026-10-31",
+   "supports": "Mise de fonds minimale de 5 % jusqu'à 500 000 $ et 10 % sur l'excédent; valeur inférieure à 1 500 000 $; frais de logement d'au plus 39 % et dette totale d'au plus 44 % du revenu brut; sources traditionnelles de mise de fonds : économies, vente d'une propriété, don financier non remboursable d'un membre de la famille."
+  },
+  {
+   "url": "https://www.canada.ca/en/financial-consumer-agency/services/mortgages/down-payment.html",
+   "title": "Down payment",
+   "publisher": "Agence de la consommation en matière financière du Canada",
+   "consulted": "2026-10-31",
+   "supports": "Tableau de la mise de fonds minimale : 5 % jusqu'à 500 000 $, 5 % des premiers 500 000 $ plus 10 % de la portion au-delà jusqu'à 1,5 million $, 20 % à 1,5 million $ ou plus. La mise de fonds minimale doit normalement provenir de vos propres fonds."
+  },
+  {
+   "url": "https://openparliament.ca/bills/45-1/C-2/",
+   "title": "Bill C-2, Strong Borders Act (45e législature, 1re session)",
+   "publisher": "openparliament.ca, suivi des projets de loi fédéraux",
+   "consulted": "2026-10-31",
+   "supports": "Le projet de loi C-2 (partie 11) interdirait à certaines personnes ou entités d'accepter un paiement, un don ou un dépôt en espèces de 10 000 $ ou plus. Dernière étape affichée : deuxième lecture à la Chambre des communes, septembre 2025; aucune sanction royale affichée."
+  },
+  {
+   "url": "https://registre.oaciq.com/fr/",
+   "title": "Registre des titulaires de permis",
+   "publisher": "OACIQ",
+   "consulted": "2026-10-31",
+   "supports": "Outil public permettant de vérifier si une personne détient un permis de courtage immobilier."
+  }
+ ],
+ "claims_needing_review": [
+  "Les passages repris de la version du 21 septembre 2026 (préapprobation de l'ACFC et taux retenu de 60 à 130 jours, articles 1711, 1712, 1726, 1733 et 1739 du Code civil, articles 29, 30 et 81 du règlement sur les conditions d'exercice, règle des 100 000 $ en espèces pour les PPV, position de l'OACIQ sur les notaires et l'arrêt de la Cour suprême de 2015, retrait du cours légal des billets de 500 $ et de 1 000 $ le 1er janvier 2021) n'avaient pas de fiche de sources; ils n'ont pas été rouverts le 2026-10-31 et doivent être rattachés à leurs sources lors d'une prochaine révision.",
+  "Statut du projet de loi C-2 : vérifié sur openparliament.ca, qui peut accuser un retard sur LEGISinfo. À revérifier sur parl.ca avant toute mise à jour.",
+  "La recommandation au courtier d'un acompte raisonnable déposé en fidéicommis (tableau final) n'a pas été rattachée à un article précis du règlement."
+ ]
+}
