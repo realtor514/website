@@ -2,13 +2,32 @@
 title: "Pets Banned in a Quebec Condo: Where the Rule Actually Lives"
 seo_title: "Pets Banned in a Quebec Condo: Is It Legal?"
 date: 2026-09-24
-lastmod: 2026-09-24
+lastmod: 2026-10-31
 translationKey: "article-animaux-condo"
 category: "Real Estate 101"
 description: "Can a condo syndicate ban dogs and cats? Where the rule lives, what makes it valid, the animal d'assistance, tenants, and what to demand before your offer."
 image: "images/articles/animaux-copropriete-declaration-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Under article 1052 of the Code civil du Québec, the déclaration de copropriété comprises the acte constitutif, the règlement de l'immeuble and the description of the fractions; a pet ban usually sits in the règlement de l'immeuble (article 1054)."
+  - "The déclaration de copropriété binds the co-owners and their successors from its registration (article 1062): a condo buyer is bound by a pet ban without ever having signed it."
+  - "The règlement de l'immeuble is amended by a majority of the votes of the co-owners present or represented (article 1096), and a co-owner has 90 days to ask a court to annul a partial decision (article 1103)."
+  - "A guide dog or service dog trained by a specialized organization is recognized as a means of palliating a handicap under article 10 of the Charte des droits et libertés de la personne, and reasonable accommodation applies unless it imposes undue hardship."
+  - "The règlement de l'immeuble can be set up against a tenant once a copy is given to him (article 1057), and a co-owner who leases must notify the syndicat within 15 days (article 1065)."
+faq:
+  - q: "Can a condo ban pets in Quebec?"
+    a: "A ban written into the déclaration de copropriété binds every buyer from its registration (article 1062). Article 1056 allows only restrictions justified by the destination of the immovable, its characteristics or its location, and a court decides, file by file."
+  - q: "What majority is needed to ban pets in a Quebec condo?"
+    a: "If the clause is in the règlement de l'immeuble, a majority of the votes of the co-owners present or represented is enough (article 1096). If it is in the acte constitutif, it takes three quarters of the votes of those present or represented (article 1097)."
+  - q: "Can a condo refuse a service dog in Quebec?"
+    a: "Article 10 of the Charte prohibits discrimination based on the use of any means to palliate a handicap, and article 13 makes a discriminatory clause without effect. A guide dog or service dog trained by a specialized organization is recognized by Quebec courts, and the organization's documentation serves as proof."
+  - q: "The seller says everyone in the building has a dog. Is that enough?"
+    a: "No. A tolerance in fact is not an amendment to the by-laws, and article 1062 keeps binding you. It may serve as an argument one day before a court, with evidence, but it does not replace a written authorization from the board."
+  - q: "The by-laws ban dogs but say nothing about cats. Can I keep a cat?"
+    a: "The text is read as it is written, and Éducaloi notes that in lease matters a tenant may in principle conclude that he has the right to keep a cat if the clause covers dogs only. In co-ownership, the syndicat can always invoke article 1063 if the animal impairs the rights of the others."
+  - q: "I rent out my condo. Am I answerable for my tenant's dog?"
+    a: "You must notify the syndicat within 15 days of the lessee's name, the term of the lease and the date the by-laws were given (article 1065). Without that delivery, the by-laws cannot be set up against him (article 1057), and the syndicat may apply for the resolution of the lease if the non-performance causes serious injury (article 1079)."
 ---
 
 You have visited the condo twice. You like the courtyard, the light, the parking
@@ -190,27 +209,6 @@ If your animal is an animal d'assistance (a service animal), raise it in writing
 before the offer, with the organization's documentation in support. Asked ahead
 of time, the question is handled as a request for accommodation. Asked after the
 move, as a contravention.
-
-## Frequently asked questions
-
-**The seller tells me everyone in the building has a dog.**
-A tolerance in fact is not an amendment to the by-laws, and article 1062 keeps
-binding you. It may serve as an argument one day, before a court, with evidence.
-It does not replace a written authorization from the board.
-
-**The by-laws ban dogs but say nothing about cats.**
-The text is read as it is written, and Éducaloi notes that in lease matters a
-tenant may in principle conclude that he has the right to keep a cat if the
-clause covers dogs only. In co-ownership, the syndicat can always invoke
-article 1063 if the animal impairs the rights of the others. Have the exact
-clause read before you adopt.
-
-**I rent out my condo. Am I answerable for my tenant's dog?**
-You must notify the syndicat within 15 days of the lessee's name, the term of
-the lease and the date the by-laws were given (article 1065). Without that
-delivery, the by-laws cannot be set up against him (article 1057), and the
-syndicat may apply for the resolution of the lease if the non-performance causes
-serious injury (article 1079).
 
 To go further, read
 [what you are actually buying in a co-ownership](/en/articles/condo-vs-house-montreal/)

@@ -1,13 +1,32 @@
 ---
 title: "Owner Occupied Plex in Quebec: Repossessing a Dwelling"
 date: 2026-09-18
-lastmod: 2026-09-18
+lastmod: 2026-10-31
 translationKey: "article-occupant-plex"
 category: "Investment"
 description: "Owner occupied plex in Quebec: who may repossess a dwelling, the notice deadlines, the indemnity and the tenants the law protects."
 image: "images/articles/proprietaire-occupant-plex-reprise/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Selling a plex does not end the leases: under article 1937 of the Code civil, the lease is continued and the new landlord takes on its rights and obligations."
+  - "Under article 1957, the owner may repossess a dwelling to live in it himself, or to house his ascendants or descendants in the first degree, or any other relative or person connected by marriage of whom he is the main support."
+  - "For a lease of more than 6 months, the notice of repossession is given at least 6 months before the end of the lease: for a lease ending June 30, no later than the December 31 before it (article 1960)."
+  - "Since June 6, 2024, article 1959.1 prohibits repossession where the tenant or the tenant's spouse is 65 or over, has occupied the dwelling for at least 10 years and has income equal to or less than 125% of the maximum income for eligibility for low-rental housing."
+  - "Under article 1968, the tenant may recover the damages resulting from a repossession unless the landlord proves good faith, and punitive damages if the tenant shows bad faith."
+faq:
+  - q: "How much notice is required to repossess a dwelling in Quebec?"
+    a: "At least 6 months before the end of a fixed-term lease of more than 6 months, at least 1 month before the end of a lease of 6 months or less, and 6 months before the repossession date for an indeterminate-term lease (article 1960). For a lease ending June 30, the notice goes out no later than the December 31 before it."
+  - q: "I take possession on July 1. Can I move into the upstairs unit the same day?"
+    a: "Only if it is free, or if the tenant leaves voluntarily and the agreement is in writing. Otherwise the notice must precede the end of the lease by six months, and you are a landlord only as of the deed of sale."
+  - q: "Can two co-owners of a duplex each repossess a dwelling?"
+    a: "No. Article 1958 reserves repossession in undivided co-ownership for the case where there is only one other owner and that owner is your spouse. Adding a third co-owner, even at 1%, extinguishes the right."
+  - q: "Can a landlord repossess the dwelling of a tenant aged 65 or over?"
+    a: "Not when the three conditions of article 1959.1 are met: 65 or over for the tenant or the tenant's spouse, at least 10 years of occupancy, and income equal to or less than 125% of the eligibility threshold for low-rental housing. The exceptions tied to the age of the landlord or the beneficiary may also come into play."
+  - q: "What happens if the tenant does not answer the notice of repossession?"
+    a: "If the tenant does not answer within a month of receiving the notice, article 1962 deems the tenant to have refused to vacate. The landlord then has one month to apply for the tribunal's authorization (article 1963), where he must show that he truly intends to repossess the dwelling."
+  - q: "How much do you have to pay a tenant for a repossession?"
+    a: "For a repossession, the tribunal may impose an indemnity equal to moving expenses, and the conditions it considers just and reasonable (article 1967). A negotiated agreement is not presumed: it is written down."
 ---
 
 You are buying a duplex or a triplex in Montreal or Laval to live in it. The
@@ -166,28 +185,6 @@ tenant of 65 who has lived there for 12 years is not a detail of the showing, it
 is possibly the end of your plan to move in. The other checks specific to an
 income property are in [the Laval triplex
 guide](/en/articles/investir-triplex-laval-strategie/).
-
-## Frequently Asked Questions
-
-**I take possession on July 1. Can I move into the upstairs unit the same day?**
-Only if it is free, or if the tenant leaves voluntarily and the agreement is in
-writing. Otherwise the notice must precede the end of the lease by six months,
-and you are a landlord only as of the deed of sale.
-
-**My brother and I are buying a duplex. Can we each repossess a dwelling?**
-No. Article 1958 reserves repossession in undivided co-ownership for the case
-where there is only one other owner and that owner is your spouse.
-
-**The tenant is 68. Is repossession prohibited outright?**
-No, the three conditions of article 1959.1 are cumulative: 65 or over for the
-tenant or the tenant's spouse, at least 10 years of occupancy, and income equal
-to or less than 125% of the eligibility threshold for low-rental housing. The
-exceptions tied to age may also come into play.
-
-**How much will I have to pay the tenant?**
-For a repossession, the tribunal may impose an indemnity equal to moving
-expenses, and the conditions it considers just and reasonable. A negotiated
-agreement is common, but it is not presumed: it is written down.
 
 To go further, read [Plex or condo in
 Montreal](/en/articles/triplex-vs-condo-montreal/) and [Managing rental

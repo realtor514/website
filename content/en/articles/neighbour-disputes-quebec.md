@@ -1,13 +1,32 @@
 ---
 title: "Neighbour Disputes in Quebec: The Recourses"
 date: 2026-09-25
-lastmod: 2026-09-25
+lastmod: 2026-10-31
 translationKey: "article-neighbour-disputes"
 category: "Practical Guide"
 description: "Article 976, views at one metre fifty, a common fence, mediation and small claims: the recourses in a neighbour dispute, and what gets declared at sale."
 image: "images/articles/troubles-de-voisinage-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Article 976 of the Code civil du Québec requires neighbours to suffer normal neighbourhood annoyances, and the Supreme Court held in Ciment du Saint-Laurent inc. v. Barrette, 2008 SCC 64, that this recourse requires no proof of fault."
+  - "Article 993 prohibits direct views on the neighbouring land less than 1.5 m from the dividing line, except views on a public road or public park, or solid or translucent doors."
+  - "Article 1002 allows an owner to compel a neighbour to make a fence on the dividing line at shared expense, and article 1003 presumes any fence on that line to be common."
+  - "In the small claims division of the Cour du Québec, the maximum claim is $15,000 without interest, and mediation is mandatory and free, for a maximum of 3 hours, for claims of $5,000 and less."
+  - "The Déclarations du vendeur form DV 00001 asks no question about a 'dispute': a neighbour conflict gets declared at D2.8, D2.10, D2.11, D2.12 and D14.5, with the details in D15."
+faq:
+  - q: "Do you have to prove fault to sue a neighbour for a nuisance in Quebec?"
+    a: "No. Under Ciment du Saint-Laurent inc. v. Barrette, 2008 SCC 64, article 976 creates a no fault liability regime, measured by the annoyances suffered. The annoyance still has to be continuous or repetitive, real and serious, assessed against the local environment."
+  - q: "How much can you claim in small claims court for a neighbour dispute in Quebec?"
+    a: "At most $15,000, not counting interest, and a claim cannot be split into several causes. Mediation is mandatory for claims of $5,000 and less, and it is free for a maximum of 3 hours."
+  - q: "My neighbour put his fence 30 cm onto my land. Can I remove it myself?"
+    a: "No. You notify him, then you establish the real line through a boundary determination with an arpenteur géomètre, whose minutes are entered in the land register. What follows ranges from an indemnity to buying the strip of land to removing the structure, depending on the situation."
+  - q: "I am selling. Do I have to mention a neighbour conflict that is not before a court?"
+    a: "The DV form has no 'dispute' box, but it has D2.10, D2.12 and D14.5, and section D15 exists precisely to explain a situation. A disagreement touching the fence, a view, a right of way or a notice from the municipality gets told there, with the documents."
+  - q: "Can the City settle a property line quarrel?"
+    a: "No. The Ville de Montréal writes that it has no jurisdiction over the dividing line between two lots. It applies its by-laws on height, material and permits; the rest falls under the Code civil du Québec and the courts."
+  - q: "Does a neighbour dispute lower the price of a house?"
+    a: "No public Quebec data puts a number on that effect. An undocumented file makes a buyer back away at the time of the title examination, later and more painfully than a disclosure made at the start."
 ---
 
 A fence quarrel never stays between two neighbours. It ends up in the certificate
@@ -185,31 +204,6 @@ entered in the land register? Is there a notarized agreement about a view, an
 encroachment, a right of way or the common ownership of a fence? Does the
 certificate of location show the fence in its current position? A vague answer
 justifies having the file checked by a lawyer or a notary before you commit.
-
-## Frequently asked questions
-
-**My neighbour put his fence 30 cm onto my land. Can I remove it myself?**
-No. You notify him, then you establish the real line through a boundary
-determination with an arpenteur géomètre, whose minutes are entered in the land
-register. What follows ranges from an indemnity to buying the strip of land to
-removing the structure, depending on the situation.
-
-**I am selling. Do I have to mention a conflict that is not before a court?**
-The DV form has no "dispute" box, but it has D2.10, D2.12 and D14.5, and section
-D15 exists precisely to explain a situation. A disagreement touching the fence, a
-view, a right of way or a notice from the municipality gets told there, with the
-documents.
-
-**Can the City settle my property line quarrel?**
-No. The Ville de Montréal writes that it has no jurisdiction over the dividing line
-between two lots. It applies its by-laws on height, material and permits. The rest
-falls under the Code civil du Québec and the courts.
-
-**Does a neighbour dispute lower the price of my house?**
-No public Quebec data lets me put a number on that effect, and I will not invent
-one. What I do see is that an undocumented file makes a buyer back away at the time
-of the title examination, later and more painfully than a disclosure made at the
-start.
 
 To round this out, read [the Déclarations du vendeur
 form](/en/articles/seller-declaration-form-quebec/) and [the documents to gather

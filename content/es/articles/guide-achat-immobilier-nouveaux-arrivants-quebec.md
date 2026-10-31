@@ -1,12 +1,31 @@
 ---
 title: "Recién llegados: comprar en Quebec"
 date: 2026-07-16
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 translationKey: "article-guide-nouveaux-arrivants"
 category: "Guía del Comprador"
 description: "Recién llegados: comprar en Quebec es completamente posible, pero el sistema difiere del de la mayoría de países. La guía completa, en lenguaje claro."
 image: "images/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/featured.jpg"
 draft: false
+tldr:
+  - "En Quebec, los residentes permanentes tienen los mismos derechos que los ciudadanos canadienses para comprar una propiedad, mientras que una ley federal prohíbe a los no canadienses, salvo excepciones, comprar un edificio de 1 a 3 viviendas en un área metropolitana o una aglomeración censal hasta el 1 de enero de 2027."
+  - "Con un pago inicial inferior al 20%, el seguro hipotecario CMHC es obligatorio y cuesta del 2.8% al 4% del monto del préstamo, añadido directamente a la hipoteca."
+  - "La FHSA permite ahorrar hasta $40,000 de por vida, con contribuciones de $8,000 por año deducibles de impuestos y retiros libres de impuestos para una compra de vivienda calificada."
+  - "En Quebec, toda transferencia de propiedad pasa por un notario, cuyos honorarios se estiman para 2026 en unos $1,500 a $3,500 para una compra financiada, con impuestos y gastos de publicación incluidos."
+  - "Con los umbrales de 2026, el impuesto de bienvenida sobre una propiedad de $400,000 es de unos $4,100, y Quebec devuelve hasta $5,875 a un comprador primerizo mediante un crédito fiscal reembolsable, para una propiedad adquirida desde el 1 de enero de 2026."
+faq:
+  - q: "¿Un residente permanente puede comprar una casa en Quebec?"
+    a: "Sí. Los residentes permanentes tienen los mismos derechos que los ciudadanos canadienses para comprar bienes raíces en Quebec, y la prohibición federal que afecta a los no canadienses no se les aplica."
+  - q: "¿Un no canadiense puede comprar una propiedad en Quebec?"
+    a: "Una ley federal prohíbe a las personas que no son ciudadanas ni residentes permanentes comprar un edificio de 1 a 3 viviendas, incluido un condominio, situado en un área metropolitana o una aglomeración censal, actualmente hasta el 1 de enero de 2027. Prevé excepciones, en particular para algunos titulares de permiso de trabajo, algunos estudiantes y los refugiados: haga revisar su situación por un abogado o un notario antes de firmar."
+  - q: "¿Cómo construir un historial crediticio al llegar a Canadá?"
+    a: "Abra una cuenta bancaria canadiense, solicite una tarjeta de crédito asegurada, pague cada saldo completo y a tiempo, y evite solicitar muchos productos crediticios a la vez. Con disciplina consistente, un sólido expediente crediticio se construye en 12 a 24 meses."
+  - q: "¿Un recién llegado puede abrir una FHSA?"
+    a: "Sí, si es residente de Canadá a efectos fiscales, tiene de 18 a 71 años y no ha vivido, en el año en curso ni en los cuatro años civiles anteriores, en una vivienda de la que usted o su cónyuge fueran propietarios, en Canadá o en el extranjero. La residencia permanente no es una condición, y el espacio de contribución solo empieza a acumularse a partir de la apertura de la cuenta."
+  - q: "¿Cuánto es el impuesto de bienvenida sobre una propiedad de $600,000 en Quebec?"
+    a: "Con los umbrales de 2026, unos $7,100 con la tasa base, unos $7,350 en Montreal y unos $8,600 en Laval, que aplica el 3% por encima de $500,000 desde 2026. El municipio envía la factura unos meses después de la firma ante el notario, y se paga dentro de los 30 días siguientes a ese envío."
+  - q: "¿Cuánto cuesta una inspección de edificio en Quebec?"
+    a: "De $500 a $900. Un inspector de edificios calificado, cuyo certificado de la RBQ o asociación conviene verificar, examina la propiedad y entrega un informe escrito detallado."
 ---
 
 Para quien llega del extranjero, el sistema inmobiliario de Quebec resulta completamente opaco: la estructura hipotecaria, el marco legal, las implicaciones fiscales, las normas culturales alrededor de la negociación. Todo hay que aprenderlo desde cero.

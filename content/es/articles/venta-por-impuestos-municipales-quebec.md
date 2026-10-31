@@ -1,13 +1,32 @@
 ---
 title: "Venta por impuestos municipales en Quebec: el procedimiento"
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-10-31
 translationKey: "article-tax-sale-properties"
 category: "Inversión"
 description: "Venta por impuestos municipales en Quebec: quién vende, qué se paga en el acto, el derecho de rescate de un año y las cargas que sobreviven a la subasta."
 image: "images/articles/maisons-abandonnees-ventes-pour-taxes/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Tras una venta por impuestos municipales, el antiguo propietario dispone de un año para recuperar el inmueble pagando el precio de venta con un interés del 10 % anual, y una fracción de año cuenta como un año entero (artículo 531 de la Loi sur les cités et villes)."
+  - "El adjudicatario debe pagar inmediatamente; si no, el inmueble se vuelve a poner en venta o la venta se aplaza (artículo 519 de la Loi sur les cités et villes, artículo 1034 del Code municipal)."
+  - "La venta por impuestos purga el inmueble de toda hipoteca (artículos 528 y 529), pero las servidumbres y cualquier otro derecho real o personal sobreviven a la venta."
+  - "En 2026, la subasta de Montreal está fijada para el 2 de noviembre a las 10 h en el Marché Bonsecours, y la de Laval para el 19 de noviembre a las 10 h en el 3131, boulevard Saint-Martin Ouest."
+  - "Bajo el Code municipal, quien vende es la MRC, por defecto el segundo jueves de marzo a las 10 h (artículo 1026)."
+faq:
+  - q: "¿Cuánto tiempo tiene el antiguo propietario para recuperar una casa vendida por impuestos en Quebec?"
+    a: "Un año desde la adjudicación. Paga el precio de venta, incluido el costo del certificado de adjudicación, con un interés del 10 % anual (artículo 531), y el comprador no puede oponerse. La escritura de venta definitiva llega solo al vencer ese plazo (artículo 525)."
+  - q: "¿Se compra por debajo del valor de mercado en una venta por impuestos?"
+    a: "Ninguna fuente oficial permite afirmarlo. No hay precio mínimo de salida, pero tampoco nada limita la puja. La ciudad anuncia el monto adeudado, no un descuento."
+  - q: "¿Se puede visitar un inmueble antes de una venta por impuestos?"
+    a: "No. Blainville precisa que no es posible visitar los inmuebles con edificio puestos en venta, y el adjudicatario acepta el inmueble sin garantía y por su sola cuenta y riesgo, en el estado en que se encuentra en el momento de la adjudicación."
+  - q: "¿Puedo renovar durante el año del rescate?"
+    a: "El artículo 521 prohíbe retirar la madera o las construcciones durante ese año. Desde 2024, el artículo 534.1 permite reclamar el costo de las reparaciones necesarias con un 10 % de interés, pero ese reembolso es objeto de un recurso distinto."
+  - q: "¿Mi prestamista va a financiar una compra en una venta por impuestos?"
+    a: "El precio es exigible inmediatamente y el título sigue siendo precario durante un año. Ninguna fuente publica una política de prestamista para este caso: la pregunta se le hace a un corredor hipotecario antes de la subasta, no después."
+  - q: "¿Una venta por impuestos es una buena primera compra?"
+    a: "No. Pagar en efectivo, sin visita, sin garantía, con un título revocable durante un año, no es una puerta de entrada a la propiedad. Es una operación para quien puede inmovilizar la suma durante doce meses y absorber la pérdida."
 ---
 
 Una casa abandonada, una subasta municipal, un precio que parece irrisorio: la
@@ -208,27 +227,6 @@ patrimonial. Impone, en particular, cerrar la entrada principal de agua en un
 edificio desocupado. Las multas van de 500 $ a 1 000 $ para una persona física,
 hasta 125 000 $ en caso de reincidencia, y cada día cuenta como una infracción
 distinta.
-
-## Preguntas frecuentes
-
-**¿Se compra por debajo del valor de mercado?** Ninguna fuente oficial permite
-afirmarlo. No hay precio mínimo de salida, pero tampoco nada limita la puja. La
-ciudad anuncia el monto adeudado, no un descuento.
-
-**¿Puedo renovar durante el año del rescate?** El artículo 521 le prohíbe retirar
-la madera o las construcciones. Desde 2024, usted puede reclamar el costo de las
-reparaciones necesarias con un 10 % de interés, pero ese reembolso es objeto de
-un recurso distinto.
-
-**¿Mi prestamista va a financiar esto?** El precio es exigible inmediatamente y
-el título sigue siendo precario durante un año. Ninguna fuente publica una
-política de prestamista para este caso: la pregunta se le hace a un corredor
-hipotecario antes de la subasta, no después.
-
-**¿Es una buena primera compra?** No, y lo digo sin matices: pagar en efectivo,
-sin visita, sin garantía, con un título revocable durante un año, no es una
-puerta de entrada a la propiedad. Es una operación para quien puede inmovilizar
-la suma durante doce meses y absorber la pérdida.
 
 Para completar, lea [los impuestos municipales en Montreal y
 Laval](/es/articles/property-tax-explained/) y [comprar una propiedad embargada

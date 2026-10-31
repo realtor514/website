@@ -1,13 +1,32 @@
 ---
 title: "Décès du conjoint et maison au Québec : préparer avant"
 date: 2026-09-03
-lastmod: 2026-09-03
+lastmod: 2026-10-31
 translationKey: "article-deces-conjoint"
 category: "Immobilier 101"
 description: "Testament, titre, assurance, liquidateur, déclaration de transmission : ce qui protège la maison au décès d'un conjoint de fait au Québec."
 image: "images/articles/deces-conjoint-proteger-propriete-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Au Québec, on ne peut tester que par testament notarié, olographe ou devant témoins (art. 712 du Code civil)."
+  - "Le testament olographe ou devant témoins doit être vérifié (art. 772), ce qu'Éducaloi chiffre à plus de 1 000 $ devant le tribunal et à plus de 1 500 $ chez un notaire; le testament notarié n'a pas à l'être."
+  - "La somme d'assurance vie payable à un bénéficiaire désigné ne fait pas partie de la succession (art. 2455), alors que l'assurance vendue par le prêteur rembourse seulement le solde du prêt et ne verse rien au survivant."
+  - "Le divorce ou la dissolution de l'union civile rend caduque la désignation du conjoint comme bénéficiaire (art. 2459), mais une séparation de conjoints de fait ne change rien tant que la désignation n'est pas modifiée par écrit."
+  - "Le liquidateur ne peut pas vendre seul un immeuble de la succession: il lui faut le consentement des héritiers ou l'autorisation du tribunal (art. 804)."
+faq:
+  - q: "Le conjoint de fait hérite-t-il de la maison au Québec?"
+    a: "Non. Hors mariage, union civile et union parentale, le conjoint de fait n'est pas héritier légal et n'a aucun droit sur l'immeuble de l'autre. Un testament peut lui léguer un droit d'usage, un usufruit ou l'immeuble en pleine propriété."
+  - q: "Mon conjoint de fait est bénéficiaire de mon assurance vie. Est-ce suffisant pour qu'il garde la maison?"
+    a: "Non. La somme lui sera versée hors succession (art. 2455), mais ne lui donne aucun droit sur l'immeuble: il devra racheter la part des héritiers et se qualifier seul auprès d'un prêteur."
+  - q: "Nous sommes séparés depuis deux ans et je n'ai rien changé. Qui reçoit l'argent de l'assurance vie?"
+    a: "Si vous étiez conjoints de fait, votre ex demeure bénéficiaire. La caducité de l'article 2459 ne vise que le divorce, la nullité du mariage et la dissolution ou la nullité de l'union civile."
+  - q: "Un testament olographe doit-il être vérifié au Québec?"
+    a: "Oui. L'article 772 prévoit la vérification du testament olographe ou devant témoins, et Éducaloi situe les frais à plus de 1 000 $ devant le tribunal et à plus de 1 500 $ chez un notaire, succession gelée pendant tout le processus. Le testament notarié n'a pas à être vérifié."
+  - q: "Qu'est-ce que la déclaration de transmission?"
+    a: "C'est un acte notarié en minute qui publie au Registre foncier les droits de l'héritier ou du légataire particulier dans un immeuble de la succession (art. 2998). Sans elle, le titre s'arrête au défunt."
+  - q: "Combien de temps avant de pouvoir mettre la maison d'une succession en vente?"
+    a: "La loi fixe l'ordre des étapes, pas la durée. Aucune source officielle ne permet de donner un délai moyen: la forme du testament et l'entente entre les héritiers décident presque tout."
 ---
 
 Un testament écrit à la main gèle une succession pendant des semaines. Une assurance
@@ -178,22 +197,6 @@ complet.
 
 Éducaloi recommande de revoir cette planification tous les 3 à 5 ans, ou après une
 séparation, une nouvelle union ou un achat.
-
-## Questions fréquentes
-
-**Mon conjoint de fait est bénéficiaire de mon assurance vie. Est-ce suffisant pour
-qu'il garde la maison ?** Non. La somme lui sera versée hors succession (art. 2455),
-mais ne lui donne aucun droit sur l'immeuble : il devra racheter la part des héritiers
-et se qualifier seul auprès d'un prêteur.
-
-**Nous sommes séparés depuis deux ans et je n'ai rien changé. Qui reçoit l'argent ?**
-Si vous étiez conjoints de fait, votre ex demeure bénéficiaire. La caducité de
-l'article 2459 ne vise que le divorce, la nullité du mariage et la dissolution ou la
-nullité de l'union civile.
-
-**Combien de temps avant de pouvoir mettre la maison en vente ?** La loi fixe l'ordre
-des étapes, pas la durée. Aucune source officielle ne permet de donner un délai
-moyen : la forme du testament et l'entente entre les héritiers décident presque tout.
 
 Pour compléter, lisez [hériter d'une propriété au
 Québec](/articles/inheritance-property-quebec/) et [le processus notarial

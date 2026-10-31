@@ -1,13 +1,32 @@
 ---
 title: "Propietario ocupante de un plex, Quebec"
 date: 2026-09-18
-lastmod: 2026-09-18
+lastmod: 2026-10-31
 translationKey: "article-occupant-plex"
 category: "Inversión"
 description: "Propietario ocupante de un plex en Quebec: quién puede recuperar una vivienda, los plazos del aviso, la indemnización y los inquilinos protegidos."
 image: "images/articles/proprietaire-occupant-plex-reprise/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "La venta de un plex no pone fin a los contratos: según el artículo 1937 del Código Civil, el contrato continúa y el nuevo arrendador asume sus derechos y obligaciones."
+  - "Según el artículo 1957, el propietario puede recuperar una vivienda para habitarla él mismo, o para alojar a sus ascendientes o descendientes en primer grado, o a cualquier otro pariente o afín del que sea el principal sostén."
+  - "Para un contrato de más de 6 meses, el aviso de recuperación se da al menos 6 meses antes del fin del contrato: para un contrato que termina el 30 de junio, a más tardar el 31 de diciembre anterior (artículo 1960)."
+  - "Desde el 6 de junio de 2024, el artículo 1959.1 prohíbe la recuperación cuando el inquilino o su cónyuge tiene 65 años o más, ocupa la vivienda desde hace al menos 10 años y tiene un ingreso igual o inferior al 125 % del ingreso máximo de admisibilidad a una vivienda de alquiler módico."
+  - "Según el artículo 1968, el inquilino puede recuperar los daños resultantes de una recuperación a menos que el arrendador pruebe su buena fe, y daños punitivos si demuestra la mala fe."
+faq:
+  - q: "¿Con cuánta anticipación se envía un aviso de recuperación de vivienda en Quebec?"
+    a: "Al menos 6 meses antes del fin de un contrato de duración fija de más de 6 meses, al menos 1 mes antes del fin de un contrato de 6 meses o menos, y 6 meses antes de la fecha de la recuperación para un contrato de duración indeterminada (artículo 1960). Para un contrato que termina el 30 de junio, el aviso sale a más tardar el 31 de diciembre anterior."
+  - q: "Tomo posesión el 1 de julio. ¿Puedo mudarme a la vivienda de arriba el mismo día?"
+    a: "Solo si está libre, o si el inquilino se va por su propia voluntad y el acuerdo está por escrito. Si no, el aviso debe preceder en seis meses al fin del contrato, y usted es arrendador solo a partir del acto de venta."
+  - q: "¿Dos copropietarios de un dúplex pueden recuperar cada uno una vivienda?"
+    a: "No. El artículo 1958 reserva la recuperación en indivisión al caso en que hay un solo otro propietario y este es su cónyuge. Agregar un tercer copropietario, aunque sea al 1 %, extingue el derecho."
+  - q: "¿Se puede recuperar la vivienda de un inquilino de 65 años o más?"
+    a: "No cuando se cumplen las tres condiciones del artículo 1959.1: 65 años o más para el inquilino o su cónyuge, 10 años de ocupación al menos, y un ingreso igual o inferior al 125 % del umbral de admisibilidad a una vivienda de alquiler módico. Las excepciones ligadas a la edad del arrendador o del beneficiario también pueden jugar."
+  - q: "¿Qué pasa si el inquilino no responde al aviso de recuperación?"
+    a: "Si no responde dentro del mes de la recepción del aviso, el artículo 1962 lo reputa haber rechazado dejar la vivienda. El arrendador tiene entonces un mes para pedir la autorización del tribunal (artículo 1963), donde debe demostrar que realmente entiende recuperar la vivienda."
+  - q: "¿Cuánto hay que pagarle al inquilino por una recuperación de vivienda?"
+    a: "Para una recuperación, el tribunal puede imponer una indemnización equivalente a los gastos de mudanza, y las condiciones que juzgue justas y razonables (artículo 1967). Un acuerdo amistoso no se presume: se escribe."
 ---
 
 Usted compra un dúplex o un tríplex en Montreal o en Laval para vivir en él. Las
@@ -176,30 +195,6 @@ de 65 años instalado desde hace 12 años no es un detalle de la visita, es
 posiblemente el fin de su proyecto de ocupación. Las demás verificaciones
 propias de un inmueble de renta están en [la guía del tríplex en
 Laval](/es/articles/investir-triplex-laval-strategie/).
-
-## Preguntas frecuentes
-
-**Tomo posesión el 1 de julio. ¿Puedo mudarme a la vivienda de arriba el mismo
-día?**
-Solo si está libre, o si el inquilino se va por su propia voluntad y el acuerdo
-está por escrito. Si no, el aviso debe preceder en seis meses al fin del
-contrato, y usted es arrendador solo a partir del acto de venta.
-
-**Mi hermano y yo compramos un dúplex. ¿Podemos recuperar cada uno una
-vivienda?**
-No. El artículo 1958 reserva la recuperación en indivisión al caso en que hay un
-solo otro propietario y este es su cónyuge.
-
-**El inquilino tiene 68 años. ¿La recuperación está prohibida de oficio?**
-No, las tres condiciones del artículo 1959.1 son acumulativas: 65 años o más
-para el inquilino o su cónyuge, 10 años de ocupación al menos, y un ingreso
-igual o inferior al 125 % del umbral de admisibilidad a una vivienda de alquiler
-módico. Las excepciones ligadas a la edad también pueden jugar.
-
-**¿Cuánto tendré que pagarle al inquilino?**
-Para una recuperación, el tribunal puede imponer una indemnización equivalente a
-los gastos de mudanza, y las condiciones que juzgue justas y razonables. Un
-acuerdo amistoso es frecuente, pero no se presume: se escribe.
 
 Para completar, lea [Plex o condominio en
 Montréal](/es/articles/triplex-vs-condo-montreal/) y [Gestionar propiedades de

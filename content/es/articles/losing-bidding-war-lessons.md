@@ -1,10 +1,29 @@
 ---
 title: "Su promesa de compra fue rechazada"
 date: 2026-06-11
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 category: "Guía del Comprador"
 description: "Qué ocurre jurídicamente cuando rechazan su oferta en Quebec, el análisis posterior en cuatro preguntas y cómo reconstruir un tope que su prestamista acepte."
 image: "images/articles/losing-bidding-war-lessons/featured.jpg"
+tldr:
+  - "Según la cláusula 14.1 del formulario Promesa de compra de Quebec, una promesa rechazada, no aceptada dentro del plazo de irrevocabilidad o seguida de una contrapropuesta del vendedor queda nula y sin efecto."
+  - "Según la cláusula 4.3, en cuanto la promesa queda nula y sin efecto, el fiduciario debe reembolsar de inmediato el anticipo al depositante, sin intereses, previa solicitud escrita."
+  - "El artículo 96 del Reglamento sobre las condiciones de ejercicio prohíbe al corredor revelar el contenido de una promesa de compra: el precio ganador se hace público cuando la venta se publica en el Registro de la propiedad."
+  - "El vendedor puede rechazar una promesa de compra aunque el precio y las condiciones correspondan a sus expectativas, y nunca está obligado a tomar la oferta más alta."
+  - "Según la SCHL, el pago inicial mínimo es 5 % del primer tramo de 500 000 $ y 10 % del resto, con ratios máximos de 39 % de amortización bruta de la deuda y 44 % de amortización total."
+faq:
+  - q: "¿Qué pasa con mi anticipo si rechazan mi promesa de compra en Quebec?"
+    a: "Según la cláusula 4.3 del formulario Promesa de compra, en cuanto la promesa queda nula y sin efecto, el fiduciario debe reembolsar de inmediato el anticipo al depositante, sin intereses, previa solicitud escrita. Haga la solicitud por escrito el mismo día y conserve el recibo del depósito."
+  - q: "¿Se puede presentar una nueva promesa de compra después de un rechazo?"
+    a: "Sí. Una promesa vencida no se revive: su corredor debe redactar una nueva. El vendedor puede reabrir la conversación mediante una contrapropuesta, incluso después de vencido el plazo de aceptación."
+  - q: "¿Mi corredor puede decirme el precio de la oferta ganadora?"
+    a: "No. El artículo 96 del Reglamento sobre las condiciones de ejercicio prohíbe al corredor revelar el contenido de una promesa de compra. El precio se hace público cuando la venta se publica en el Registro de la propiedad."
+  - q: "¿El vendedor está obligado a aceptar la oferta más alta?"
+    a: "No. El vendedor puede rechazar una promesa de compra aunque el precio y las condiciones correspondan a sus expectativas. La fecha de firma, el anticipo, las condiciones conservadas y los plazos también pesan en su decisión."
+  - q: "¿Cuántos días prever para la condición de financiamiento?"
+    a: "La OACIQ recomienda al menos 14 días. Los plazos corren en días consecutivos: sábados, domingos y feriados cuentan, el día de la aceptación no cuenta, el del vencimiento sí."
+  - q: "¿Una propiedad que perdí frente a otro comprador puede volver al mercado?"
+    a: "Sí, porque una promesa aceptada sigue siendo condicional. La cláusula 6.3 permite anularla por falta de compromiso de préstamo, la cláusula 8.1 la vuelve nula con un aviso acompañado de un informe de inspección desfavorable, y la cláusula 9.1 abre la misma puerta para los documentos por examinar."
 ---
 
 Perder una situación de ofertas múltiples en Quebec tiene tres nombres

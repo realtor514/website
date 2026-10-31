@@ -1,13 +1,32 @@
 ---
 title: "Death of a Partner and the Home, Quebec"
 date: 2026-09-03
-lastmod: 2026-09-03
+lastmod: 2026-10-31
 translationKey: "article-deces-conjoint"
 category: "Real Estate 101"
 description: "Will, title, insurance, liquidator, declaration of transmission: what actually protects the home when a common-law partner dies in Quebec."
 image: "images/articles/deces-conjoint-proteger-propriete-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "In Quebec, a will can be made only in notarial form, in holograph form or before witnesses (art. 712 of the Code civil du Québec)."
+  - "A holograph will or a will before witnesses must be verified (art. 772), which Éducaloi puts at more than $1,000 before the court and more than $1,500 with a notary; a notarial will does not have to be verified."
+  - "Life insurance payable to a designated beneficiary does not form part of the succession (art. 2455), while insurance sold by the lender only repays the loan balance and pays the survivor nothing."
+  - "Divorce or the dissolution of a civil union cancels the designation of the spouse as beneficiary (art. 2459), but a separation of common-law partners changes nothing until the designation is changed in writing."
+  - "The liquidator cannot sell an immovable of the succession alone: they need the consent of the heirs or the authorization of the court (art. 804)."
+faq:
+  - q: "Does a common-law partner inherit the house in Quebec?"
+    a: "No. Outside marriage, civil union and union parentale, a conjoint de fait is not a legal heir and has no right in the other's property. A will can leave them a right of use, a usufruct or the property in full ownership."
+  - q: "My common-law partner is the beneficiary of my life insurance. Is that enough for them to keep the house?"
+    a: "No. The sum will be paid to them outside the succession (art. 2455), but it gives them no right in the property: they will have to buy out the heirs' share and qualify on their own with a lender."
+  - q: "We separated two years ago and I changed nothing. Who receives the life insurance money?"
+    a: "If you were common-law partners, your ex remains the beneficiary. The lapse in article 2459 covers only divorce, nullity of marriage, and the dissolution or nullity of a civil union."
+  - q: "Does a holograph will have to be verified in Quebec?"
+    a: "Yes. Article 772 provides for the verification of holograph wills and wills before witnesses, and Éducaloi puts the fees at more than $1,000 before the court and more than $1,500 with a notary, with the estate frozen for the whole process. A notarial will does not have to be verified."
+  - q: "What is a declaration of transmission?"
+    a: "It is a notarial act en minute that publishes in the Registre foncier the rights of an heir or a legatee by particular title in an immovable of the succession (art. 2998). Without it, title stops at the deceased."
+  - q: "How long before an estate can put the house up for sale?"
+    a: "The law sets the order of the steps, not their duration. No official source allows an average timeline to be given: the form of the will and the agreement between the heirs decide almost everything."
 ---
 
 A will written by hand can freeze an estate for weeks. Insurance sold by the lender
@@ -180,22 +199,6 @@ notary](/en/articles/quebec-notary-process/) works faster with a complete file.
 
 Éducaloi recommends reviewing this planning every 3 to 5 years, or after a separation,
 a new relationship or a purchase.
-
-## Frequently asked questions
-
-**My common-law partner is the beneficiary of my life insurance. Is that enough for
-them to keep the house?** No. The sum will be paid to them outside the succession
-(art. 2455), but it gives them no right in the property: they will have to buy out the
-heirs' share and qualify on their own with a lender.
-
-**We separated two years ago and I changed nothing. Who receives the money?** If you
-were common-law partners, your ex remains the beneficiary. The lapse in article 2459
-covers only divorce, nullity of marriage, and the dissolution or nullity of a civil
-union.
-
-**How long before the house can be put up for sale?** The law sets the order of the
-steps, not their duration. No official source allows an average timeline to be given:
-the form of the will and the agreement between the heirs decide almost everything.
 
 To go further, read [inheriting property in
 Quebec](/en/articles/inheritance-property-quebec/) and [the Quebec notary

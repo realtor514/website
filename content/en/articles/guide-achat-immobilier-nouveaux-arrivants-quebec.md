@@ -1,12 +1,31 @@
 ---
 title: "A Complete Guide for Newcomers Buying Property in Quebec"
 date: 2026-07-16
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 translationKey: "article-guide-nouveaux-arrivants"
 category: "Buyer's Guide"
 description: "Newcomers buying property in Quebec: entirely possible, but the system works differently from most countries. What you need to know, in plain language."
 image: "images/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/featured.jpg"
 draft: false
+tldr:
+  - "In Quebec, permanent residents have the same rights as Canadian citizens to buy property, while a federal law prohibits non-Canadians, with exceptions, from buying a 1 to 3 unit building in a census metropolitan area or census agglomeration until January 1, 2027."
+  - "With a down payment below 20%, CMHC mortgage insurance is mandatory and costs 2.8% to 4% of the loan amount, added directly to the mortgage."
+  - "The FHSA lets you save up to $40,000 lifetime, with $8,000 per year of tax-deductible contributions and tax-free withdrawals for a qualifying home purchase."
+  - "In Quebec, every property transfer goes through a notary, whose fees are estimated for 2026 at about $1,500 to $3,500 for a financed purchase, taxes and registry fees included."
+  - "With the 2026 thresholds, the welcome tax on a $400,000 property is about $4,100, and Quebec gives a first-time buyer back up to $5,875 of it through a refundable tax credit, for a home acquired on or after January 1, 2026."
+faq:
+  - q: "Can a permanent resident buy a house in Quebec?"
+    a: "Yes. Permanent residents have the same rights as Canadian citizens to purchase real estate in Quebec, and the federal prohibition on non-Canadians does not apply to them."
+  - q: "Can a non-Canadian buy property in Quebec?"
+    a: "A federal law prohibits people who are neither citizens nor permanent residents from buying a building of 1 to 3 dwelling units, including a condo, in a census metropolitan area or census agglomeration, currently until January 1, 2027. It provides exceptions, notably for some work permit holders, some students and refugees: have your situation checked by a lawyer or notary before you sign."
+  - q: "How do I build a credit history as a newcomer to Canada?"
+    a: "Open a Canadian bank account, apply for a secured credit card, pay every balance in full and on time, and avoid applying for many credit products at once. With consistent discipline, a strong credit file can be built in 12 to 24 months."
+  - q: "Can a newcomer open an FHSA?"
+    a: "Yes, if you are a resident of Canada for tax purposes, aged 18 to 71, and have not lived, in the current year or the previous four calendar years, in a home that you or your spouse owned, in Canada or abroad. Permanent residence is not a condition, and contribution room only starts accumulating once the account is opened."
+  - q: "How much is the welcome tax on a $600,000 home in Quebec?"
+    a: "With the 2026 thresholds, about $7,100 at the base rate, about $7,350 in Montreal and about $8,600 in Laval, which has charged 3% above $500,000 since 2026. The municipality sends the bill a few months after the notary signing, payable within 30 days of that bill."
+  - q: "How much does a home inspection cost in Quebec?"
+    a: "$500 to $900. A qualified building inspector, whose RBQ certificate or professional association you should check, examines the property and provides a detailed written report."
 ---
 
 For anyone arriving from abroad, the Quebec real estate system is completely opaque: the mortgage structure, the legal framework, the tax implications, the cultural norms around negotiation. All of it has to be learned from scratch.

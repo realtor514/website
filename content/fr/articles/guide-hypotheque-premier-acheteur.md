@@ -1,12 +1,31 @@
 ---
 title: "Hypothèque du premier acheteur au Québec"
 date: 2026-07-29
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 translationKey: "article-guide-hypotheque"
 category: "Financement"
 description: "Hypothèque du premier acheteur au Québec: plus complexe que ne le laisse paraître votre banque, plus simple qu'on le croit. Le guide complet et honnête."
 image: "images/articles/guide-hypotheque-premier-acheteur-quebec/featured.jpg"
 draft: false
+tldr:
+  - "Une préapprobation hypothécaire est une estimation fondée sur ce que vous avez dit au prêteur; l'approbation finale vient après une révision complète de votre dossier et de la propriété que vous achetez."
+  - "Au Canada, le test de résistance hypothécaire exige de se qualifier au plus élevé du taux contractuel plus 2% ou de 5,25%: à un taux de 5%, il faut se qualifier à 7%."
+  - "Au Québec, un courtier hypothécaire doit être certifié par l'AMF, et son certificat se vérifie dans le registre de l'AMF."
+  - "Le CELIAPP permet d'épargner jusqu'à 40 000 dollars sur une vie, à raison de 8 000 dollars d'espace de cotisation par année, avec des cotisations déductibles et des retraits non imposables pour l'achat d'une maison."
+  - "Le RAP permet de retirer jusqu'à 60 000 dollars de son REER pour un premier achat, ou 120 000 dollars pour un couple, montant remboursable dans le REER sur 15 ans."
+faq:
+  - q: "Quelle est la différence entre une préapprobation et une approbation hypothécaire?"
+    a: "La préapprobation est une estimation fondée sur ce que vous avez dit au prêteur. L'approbation finale vient après une révision complète de votre dossier et de la propriété précise que vous achetez: entre les deux, ne changez rien à votre vie financière, ni emploi, ni véhicule, ni nouveau crédit."
+  - q: "Comment fonctionne le test de résistance hypothécaire?"
+    a: "Vous devez vous qualifier au plus élevé de deux taux: votre taux contractuel plus 2%, ou 5,25%. Avec un taux hypothécaire de 5%, vous devez vous qualifier à 7%, ce qui réduit le montant auquel vous êtes admissible."
+  - q: "Vaut-il mieux passer par sa banque ou par un courtier hypothécaire?"
+    a: "La banque présente les produits d'un seul prêteur, alors qu'un courtier hypothécaire peut présenter votre dossier à plusieurs prêteurs. Au Québec, le courtier doit être certifié par l'AMF; comparez plusieurs sources et demandez à chacune comment elle est rémunérée."
+  - q: "Taux fixe ou variable: lequel choisir pour une première hypothèque?"
+    a: "Il n'y a pas de réponse universelle. Le taux fixe donne un paiement connu pour tout le terme, le taux variable suit le taux préférentiel du prêteur, plus ou moins un écart; si une hausse de 200 dollars par mois mettrait votre budget sous pression, choisissez le fixe."
+  - q: "Combien d'intérêts paie-t-on sur un prêt de 400 000 dollars sur 25 ans?"
+    a: "À 5%, environ 300 000 dollars: le remboursement total atteint environ 700 000 dollars. À 4%, le même prêt coûte environ 630 000 dollars, soit 70 000 dollars d'économie sur 25 ans."
+  - q: "Quand commencer à comparer les taux avant un renouvellement hypothécaire?"
+    a: "De 90 à 120 jours avant la date de renouvellement. Le taux de la lettre de renouvellement n'est pas toujours le plus bas offert: apportez une offre concurrente à votre banque et demandez-lui de l'égaler ou de faire mieux."
 ---
 
 Le processus hypothécaire intimide la plupart des premiers acheteurs. Il ne devrait pas.

@@ -1,12 +1,31 @@
 ---
 title: "First-Time Buyer Mortgages in Quebec"
 date: 2026-07-29
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 translationKey: "article-guide-hypotheque"
 category: "Financing"
 description: "First-time buyer mortgages in Quebec: more complex than your bank makes it seem, simpler than the internet makes it look. The complete, honest guide."
 image: "images/articles/guide-hypotheque-premier-acheteur-quebec/featured.jpg"
 draft: false
+tldr:
+  - "A mortgage pre-approval is an estimate based on what you told the lender; the final approval comes after a full review of your file and of the specific property you are buying."
+  - "In Canada, the mortgage stress test requires you to qualify at the higher of your contract rate plus 2% or 5.25%: at a 5% rate, you must qualify at 7%."
+  - "In Quebec, a mortgage broker must be certified by the AMF, and the certificate can be checked in the AMF register."
+  - "The FHSA lets you save up to $40,000 over your lifetime, with contribution room of $8,000 per year, tax-deductible contributions and tax-free withdrawals for a home purchase."
+  - "The Home Buyers' Plan (RAP) lets you withdraw up to $60,000 from your RRSP for a first home, or $120,000 for a couple, repayable to the RRSP over 15 years."
+faq:
+  - q: "What is the difference between mortgage pre-approval and approval?"
+    a: "A pre-approval is an estimate based on what you told the lender. The final approval comes after a full review of your file and the specific property you are buying: in between, change nothing in your financial life, no job change, no new vehicle, no new credit."
+  - q: "How does the mortgage stress test work in Canada?"
+    a: "You must qualify at the higher of two rates: your contract rate plus 2%, or 5.25%. With a 5% mortgage rate, you must qualify at 7%, which lowers the amount you qualify for."
+  - q: "Should I go to my bank or to a mortgage broker?"
+    a: "A bank shows you one lender's products, while a mortgage broker can present your file to several lenders. In Quebec, a mortgage broker must be certified by the AMF; compare several sources and ask each one how they are paid."
+  - q: "Fixed or variable rate for a first mortgage?"
+    a: "There is no universally correct answer. A fixed rate gives a known payment for the full term, while a variable rate follows the lender's prime rate, plus or minus a spread; if a $200/month increase would stress your budget, choose fixed."
+  - q: "How much interest do you pay on a $400,000 mortgage over 25 years?"
+    a: "At 5%, about $300,000: total repayment reaches approximately $700,000. At 4%, the same loan costs approximately $630,000, a $70,000 saving over 25 years."
+  - q: "When should I start comparing rates before a mortgage renewal?"
+    a: "90 to 120 days before your renewal date. The rate in the renewal letter is not always the lowest available: bring a competing offer to your bank and ask them to match or beat it."
 ---
 
 The mortgage process intimidates most first-time buyers. It shouldn't.

@@ -1,13 +1,32 @@
 ---
 title: "Déclaration du vendeur au Québec : le formulaire DV 00001"
 date: 2026-09-06
-lastmod: 2026-09-23
+lastmod: 2026-10-31
 translationKey: "article-declaration-vendeur"
 category: "Guide du vendeur"
 description: "Le formulaire DV 00001 est obligatoire et annexé à la promesse d'achat. Ce que le vendeur déclare vraiment, et ce qu'il risque en cachant un défaut."
 image: "images/articles/declaration-du-vendeur-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Le formulaire Déclarations du vendeur sur l'immeuble (DV) est obligatoire depuis juillet 2012 pour la vente, par une personne physique, d'un immeuble principalement résidentiel de moins de 5 logements; la copropriété divise utilise le formulaire DVD."
+  - "La version en vigueur, DV 00001 (V24 06/2022), compte treize pages et seize sections, de D1 à D16."
+  - "Le formulaire est annexé à la clause 13.1 de la Promesse d'achat, transmis au prêteur hypothécaire et remis à tout inspecteur qui le demande."
+  - "Si le vendeur refuse de remplir et de signer la déclaration, le courtier ne peut pas conclure de contrat de courtage avec lui."
+  - "Une clause de vente sans garantie légale ne couvre pas une réponse sciemment inexacte: selon l'article 1732 du Code civil, le vendeur ne peut, en aucun cas, se dégager de ses faits personnels."
+faq:
+  - q: "Qui remplit la déclaration du vendeur?"
+    a: "Le courtier la remplit conjointement avec le vendeur au moment de la prise du contrat de courtage, et la lui fait signer. Les sections D3 à D14 portent la mention « À votre connaissance »: le vendeur ne déclare pas ce qu'il ne connaît pas."
+  - q: "Puis-je vendre sans remplir la déclaration du vendeur?"
+    a: "Sans courtier, aucune règle de l'OACIQ ne vous y oblige, mais les articles 1401, 1728 et 1733 du Code civil s'appliquent quand même. Dès qu'un courtier prend l'inscription, le formulaire devient une annexe obligatoire du contrat."
+  - q: "Si je vends sans garantie légale, dois-je quand même tout déclarer?"
+    a: "Oui. La clause d'exclusion ne vous dispense ni de remplir le formulaire ni de répondre avec exactitude. Elle vous protège contre les vices que vous ignoriez, pas contre une réponse fausse, qui reste un fait personnel au sens de l'article 1732."
+  - q: "J'ai réparé le problème. Dois-je le déclarer?"
+    a: "Oui. La section D15 demande de préciser la nature de l'événement, l'endroit et comment la situation a été réglée. Selon l'article 1726, le vendeur n'est pas tenu de garantir le vice caché connu de l'acheteur: un défaut déclaré cesse d'être caché."
+  - q: "Un liquidateur de succession doit-il remplir la déclaration du vendeur?"
+    a: "Oui, le formulaire reste obligatoire. Le liquidateur répond au meilleur de sa connaissance et, s'il ne peut pas répondre, l'indique en D15 avec son statut et la raison. C'est écrit en première page."
+  - q: "Que faire si je ne connais pas la réponse à une question?"
+    a: "Certaines questions ont une case « ne sais pas »: année de construction, type de fondation, année du revêtement de toiture. Ailleurs, la réponse va en D15 avec le numéro de la clause et la raison; ne devinez jamais une année et ne laissez jamais une case vide."
 ---
 
 Beaucoup de vendeurs remplissent les Déclarations du vendeur sur l'immeuble en
@@ -184,30 +203,6 @@ Ne devinez jamais une année et ne laissez jamais une case vide : le vide est
 ambigu, et l'ambiguïté se retourne contre celui qui l'a créée. « Je l'ignore, je
 suis propriétaire depuis 2021 et l'immeuble date de 1958 » est une réponse
 précise et défendable.
-
-## Questions fréquentes
-
-**Puis-je vendre sans remplir la déclaration du vendeur ?**
-Sans courtier, aucune règle de l'OACIQ ne vous y oblige, mais les articles 1401,
-1728 et 1733 du Code civil s'appliquent quand même. Dès qu'un courtier prend
-l'inscription, le formulaire devient une annexe obligatoire du contrat.
-
-**Si je vends sans garantie légale, dois-je quand même tout déclarer ?**
-Oui. La clause d'exclusion ne vous dispense ni de remplir le formulaire ni de
-répondre avec exactitude. Elle vous protège contre les vices que vous ignoriez,
-pas contre une réponse fausse, qui reste un fait personnel au sens de l'article
-1732.
-
-**J'ai réparé le problème. Dois-je le déclarer ?**
-Oui, et c'est à votre avantage. La section D15 demande de préciser la nature de
-l'événement, l'endroit et comment la situation a été réglée. Une infiltration
-documentée et corrigée est un argument de vente ; la même, découverte par
-l'acheteur, est un litige.
-
-**Je suis liquidateur d'une succession et je n'ai jamais habité la maison.**
-Le formulaire reste obligatoire. Le liquidateur répond au meilleur de sa
-connaissance et, s'il ne peut pas répondre, l'indique en D15 avec son statut et
-la raison. C'est écrit en première page.
 
 Pour compléter, lisez [sept échecs qui reviennent dans une
 transaction](/articles/worst-real-estate-deal-lessons/) et [vendre avec ou sans

@@ -1,10 +1,29 @@
 ---
 title: "Promesse d'achat refusée : la suite"
 date: 2026-06-11
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 category: "Guide de l'acheteur"
 description: "Votre promesse d'achat a été refusée. Ce qui se passe juridiquement, le post-mortem en quatre questions, et comment reconstruire un plafond défendable."
 image: "images/articles/losing-bidding-war-lessons/featured.jpg"
+tldr:
+  - "Selon la clause 14.1 du formulaire Promesse d'achat, une promesse refusée, non acceptée dans le délai d'irrévocabilité ou suivie d'une contre-proposition du vendeur devient nulle et non avenue."
+  - "Selon la clause 4.3, dès que la promesse devient nulle et non avenue, le fiduciaire doit rembourser immédiatement l'acompte au déposant, sans intérêt, sur demande écrite."
+  - "L'article 96 du Règlement sur les conditions d'exercice interdit au courtier de dévoiler le contenu d'une promesse d'achat: le prix gagnant devient public quand la vente est publiée au Registre foncier."
+  - "Le vendeur peut refuser une promesse d'achat même si le prix et les conditions correspondent à ses attentes, et il n'est jamais tenu de prendre la plus haute offre."
+  - "Selon la SCHL, la mise de fonds minimale est de 5 % de la première tranche de 500 000 $ et de 10 % du reste, avec des ratios maximaux de 39 % pour l'amortissement brut de la dette et de 44 % pour l'amortissement total."
+faq:
+  - q: "Que devient mon acompte si ma promesse d'achat est refusée?"
+    a: "Selon la clause 4.3 du formulaire Promesse d'achat, dès que la promesse devient nulle et non avenue, le fiduciaire doit rembourser immédiatement l'acompte au déposant, sans intérêt, sur demande écrite. Faites la demande par écrit le jour même et gardez le reçu remis au dépôt."
+  - q: "Peut-on présenter une nouvelle promesse d'achat après un refus?"
+    a: "Oui. Une promesse expirée ne se ressuscite pas: le courtier doit en rédiger une nouvelle. Le vendeur, lui, peut relancer la discussion par une contre-proposition, même après l'expiration du délai d'acceptation."
+  - q: "Mon courtier peut-il me dire le prix de l'offre gagnante?"
+    a: "Non. L'article 96 du Règlement sur les conditions d'exercice interdit au courtier de dévoiler le contenu d'une promesse d'achat. Le prix devient public quand la vente est publiée au Registre foncier."
+  - q: "Le vendeur est-il obligé d'accepter l'offre la plus haute?"
+    a: "Non. Le vendeur peut refuser une promesse d'achat même si le prix et les conditions correspondent à ses attentes. La date de signature, l'acompte, les conditions conservées et les délais pèsent aussi dans son choix."
+  - q: "Combien de jours prévoir pour la condition de financement?"
+    a: "L'OACIQ recommande au moins 14 jours. Les délais se comptent en jours consécutifs: les samedis, les dimanches et les jours fériés comptent, le jour de l'acceptation ne compte pas, celui de l'échéance compte."
+  - q: "Une propriété perdue au profit d'un autre acheteur peut-elle revenir sur le marché?"
+    a: "Oui, car une promesse acceptée reste conditionnelle. La clause 6.3 permet de l'annuler faute d'engagement de prêt, la clause 8.1 la rend nulle sur avis accompagné d'un rapport d'inspection défavorable, et la clause 9.1 ouvre la même porte pour les documents à examiner."
 ---
 
 Perdre une situation multi-offres, au Québec, ça porte trois noms différents :

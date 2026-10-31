@@ -1,13 +1,32 @@
 ---
 title: "Fallecimiento de la pareja y la vivienda"
 date: 2026-09-03
-lastmod: 2026-09-03
+lastmod: 2026-10-31
 translationKey: "article-deces-conjoint"
 category: "Inmobiliaria 101"
 description: "Testamento, título, seguro, liquidateur y declaración de transmisión: lo que protege la vivienda cuando fallece una pareja de hecho en Quebec."
 image: "images/articles/deces-conjoint-proteger-propriete-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "En Quebec, solo se puede testar por testamento notarial, ológrafo o ante testigos (art. 712 del Code civil du Québec)."
+  - "El testamento ológrafo o ante testigos debe verificarse (art. 772), con gastos que Éducaloi sitúa en más de 1 000 $ ante el tribunal y en más de 1 500 $ ante un notario; el testamento notarial no necesita verificación."
+  - "La suma de un seguro de vida pagadera a un beneficiario designado no forma parte de la sucesión (art. 2455), mientras que el seguro vendido por el prestamista solo reembolsa el saldo del préstamo y no entrega nada al sobreviviente."
+  - "El divorcio o la disolución de la unión civil hacen caducar la designación del cónyuge como beneficiario (art. 2459), pero la separación de una pareja de hecho no cambia nada hasta que la designación se modifique por escrito."
+  - "El liquidateur no puede vender solo un inmueble de la sucesión: necesita el consentimiento de los herederos o la autorización del tribunal (art. 804)."
+faq:
+  - q: "¿La pareja de hecho hereda la casa en Quebec?"
+    a: "No. Fuera del matrimonio, de la unión civil y de la union parentale, el conjoint de fait no es heredero legal y no tiene ningún derecho sobre el inmueble del otro. Un testamento puede legarle un derecho de uso, un usufructo o el inmueble en plena propiedad."
+  - q: "Mi pareja de hecho es beneficiaria de mi seguro de vida. ¿Alcanza para que se quede con la casa?"
+    a: "No. La suma se le pagará fuera de la sucesión (art. 2455), pero no le da ningún derecho sobre el inmueble: tendrá que comprar la parte de los herederos y calificar por su cuenta ante un prestamista."
+  - q: "Estamos separados desde hace dos años y no cambié nada. ¿Quién recibe el dinero del seguro de vida?"
+    a: "Si eran pareja de hecho, su ex sigue siendo beneficiario. La caducidad del artículo 2459 solo alcanza al divorcio, a la nulidad del matrimonio y a la disolución o nulidad de la unión civil."
+  - q: "¿Hay que verificar un testamento ológrafo en Quebec?"
+    a: "Sí. El artículo 772 prevé la verificación del testamento ológrafo o ante testigos, y Éducaloi sitúa los gastos en más de 1 000 $ ante el tribunal y en más de 1 500 $ ante un notario, con la sucesión bloqueada durante todo el proceso. El testamento notarial no necesita verificación."
+  - q: "¿Qué es la declaración de transmisión?"
+    a: "Es un acto notarial en minuta que publica en el Registre foncier los derechos del heredero o del legatario particular sobre un inmueble de la sucesión (art. 2998). Sin ella, el título se detiene en el difunto."
+  - q: "¿Cuánto tiempo pasa antes de poder poner en venta la casa de una sucesión?"
+    a: "La ley fija el orden de las etapas, no su duración. Ninguna fuente oficial permite dar un plazo promedio: la forma del testamento y el acuerdo entre los herederos deciden casi todo."
 ---
 
 Un testamento escrito a mano congela una sucesión durante semanas. Un seguro vendido
@@ -184,22 +203,6 @@ completo.
 
 Éducaloi recomienda revisar esta planificación cada 3 a 5 años, o después de una
 separación, una nueva unión o una compra.
-
-## Preguntas frecuentes
-
-**Mi pareja de hecho es beneficiaria de mi seguro de vida. ¿Alcanza para que se quede
-con la casa?** No. La suma se le pagará fuera de la sucesión (art. 2455), pero no le da
-ningún derecho sobre el inmueble: tendrá que comprar la parte de los herederos y
-calificar por su cuenta ante un prestamista.
-
-**Estamos separados desde hace dos años y no cambié nada. ¿Quién recibe el dinero?** Si
-eran pareja de hecho, su ex sigue siendo beneficiario. La caducidad del artículo 2459
-solo alcanza al divorcio, a la nulidad del matrimonio y a la disolución o nulidad de la
-unión civil.
-
-**¿Cuánto tiempo pasa antes de poder poner la casa en venta?** La ley fija el orden de
-las etapas, no su duración. Ninguna fuente oficial permite dar un plazo promedio: la
-forma del testamento y el acuerdo entre los herederos deciden casi todo.
 
 Para completar, lea [heredar una propiedad en
 Quebec](/es/articles/inheritance-property-quebec/) y [el proceso notarial

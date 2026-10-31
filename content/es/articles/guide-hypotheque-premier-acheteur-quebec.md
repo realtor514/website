@@ -1,12 +1,31 @@
 ---
 title: "Hipotecas en Quebec para primerizos"
 date: 2026-07-29
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 translationKey: "article-guide-hypotheque"
 category: "Financiamiento"
 description: "Hipotecas en Quebec para primerizos: más complejas de lo que su banco deja ver y más simples de lo que parece en internet. La guía completa y honesta."
 image: "images/articles/guide-hypotheque-premier-acheteur-quebec/featured.jpg"
 draft: false
+tldr:
+  - "Una preaprobación hipotecaria es una estimación basada en lo que usted le dijo al prestamista; la aprobación final llega después de una revisión completa de su expediente y de la propiedad específica que compra."
+  - "En Canadá, la prueba de estrés hipotecario exige calificar a la más alta entre la tasa contractual más 2% y 5.25%: con una tasa del 5%, hay que calificar al 7%."
+  - "En Quebec, un corredor hipotecario debe estar certificado por la AMF, y su certificado se puede verificar en el registro de la AMF."
+  - "La FHSA permite ahorrar hasta $40,000 a lo largo de la vida, con un espacio de contribución de $8,000 por año, contribuciones deducibles y retiros libres de impuestos para la compra de una vivienda."
+  - "El Plan de Compradores de Vivienda (RAP) permite retirar hasta $60,000 del RRSP para una primera vivienda, o $120,000 para una pareja, reembolsables al RRSP durante 15 años."
+faq:
+  - q: "¿Cuál es la diferencia entre preaprobación y aprobación hipotecaria?"
+    a: "La preaprobación es una estimación basada en lo que usted le dijo al prestamista. La aprobación final llega después de una revisión completa de su expediente y de la propiedad específica que compra: entre ambas, no cambie nada en su vida financiera, ni empleo, ni vehículo, ni crédito nuevo."
+  - q: "¿Cómo funciona la prueba de estrés hipotecario en Canadá?"
+    a: "Debe calificar a la más alta de dos tasas: su tasa contractual más 2%, o 5.25%. Con una tasa hipotecaria del 5%, debe calificar al 7%, lo que reduce el monto para el que califica."
+  - q: "¿Conviene ir a mi banco o a un corredor hipotecario?"
+    a: "El banco le muestra los productos de un solo prestamista, mientras que un corredor hipotecario puede presentar su expediente a varios prestamistas. En Quebec, el corredor debe estar certificado por la AMF; compare varias fuentes y pregunte a cada una cómo se le remunera."
+  - q: "¿Tasa fija o variable para una primera hipoteca?"
+    a: "No hay una respuesta universalmente correcta. La tasa fija da un pago conocido durante todo el plazo, la variable sigue la tasa preferencial del prestamista, más o menos un margen; si un aumento de $200/mes estrecharía su presupuesto, elija fija."
+  - q: "¿Cuántos intereses se pagan por un préstamo de $400,000 a 25 años?"
+    a: "Al 5%, unos $300,000: el reembolso total llega a aproximadamente $700,000. Al 4%, el mismo préstamo cuesta aproximadamente $630,000, un ahorro de $70,000 en 25 años."
+  - q: "¿Cuándo empezar a comparar tasas antes de renovar la hipoteca?"
+    a: "Entre 90 y 120 días antes de la fecha de renovación. La tasa de la carta de renovación no siempre es la más baja disponible: lleve una oferta competidora a su banco y pídale que la iguale o la supere."
 ---
 
 El proceso hipotecario intimida a la mayoría de los compradores primerizos. No debería.

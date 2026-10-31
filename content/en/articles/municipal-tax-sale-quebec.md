@@ -1,13 +1,32 @@
 ---
 title: "Municipal Tax Sale in Quebec: The Procedure"
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-10-31
 translationKey: "article-tax-sale-properties"
 category: "Investment"
 description: "Municipal tax sale in Quebec: who sells, what gets paid on the spot, the one year right of redemption and the charges that survive the auction."
 image: "images/articles/maisons-abandonnees-ventes-pour-taxes/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "After a municipal tax sale, the former owner has one year to take the property back by paying the sale price with interest of 10% a year, a fraction of a year counting as a full year (section 531 of the Cities and Towns Act)."
+  - "The successful bidder must pay immediately, failing which the property is put back up for sale or the sale is adjourned (section 519 of the Cities and Towns Act, article 1034 of the Municipal Code)."
+  - "The tax sale purges the property of every hypothec (sections 528 and 529), but servitudes and every other real or personal right survive the sale."
+  - "In 2026, the Montreal auction is set for November 2 at 10 a.m. at Marché Bonsecours, and the Laval auction for November 19 at 10 a.m. at 3131, boulevard Saint-Martin Ouest."
+  - "Under the Municipal Code, the MRC sells, by default on the second Thursday of March at 10 a.m. (article 1026)."
+faq:
+  - q: "How long does the former owner have to redeem a property sold for taxes in Quebec?"
+    a: "One year from the adjudication. They pay the sale price, including the cost of the certificate of adjudication, with interest of 10% a year (section 531), and the buyer cannot object. The final deed of sale only comes when that period expires (section 525)."
+  - q: "Do you buy below market value at a tax sale?"
+    a: "No official source allows that claim. There is no minimum opening bid, but nothing caps the bidding either. The city announces the amount owed, not a discount."
+  - q: "Can you visit a property before a tax sale?"
+    a: "No. Blainville states that it is not possible to visit the properties with buildings put up for sale, and the successful bidder accepts the property without warranty and at their own risk, in the condition it is in at the time of the adjudication."
+  - q: "Can I renovate during the redemption year?"
+    a: "Section 521 prohibits removing the wood or the buildings during that year. Since 2024, section 534.1 allows you to claim the cost of necessary repairs with 10% interest, but that reimbursement is the subject of a separate recourse."
+  - q: "Will my lender finance a tax sale purchase?"
+    a: "The price is payable immediately and the title remains precarious for a year. No source publishes a lender policy on this case: the question goes to a mortgage broker before the auction, not after."
+  - q: "Is a tax sale property a good first purchase?"
+    a: "No. Paying cash, without a visit, without a warranty, with a title that can be revoked for a year, is not an entry point into ownership. It is an operation for someone who can tie up the money for twelve months and absorb the loss."
 ---
 
 An abandoned house, a municipal auction, a price that looks ridiculously low: the
@@ -199,26 +218,6 @@ target all buildings, but about 2,600 properties of heritage interest. Among
 other things, it requires the main water supply to be shut off in a vacant
 building. Fines range from $500 to $1,000 for a natural person, up to $125,000
 for a repeat offence, and each day counts as a separate offence.
-
-## Frequently asked questions
-
-**Do you buy below market value?** No official source allows that claim. There
-is no minimum opening bid, but nothing caps the bidding either. The city
-announces the amount owed, not a discount.
-
-**Can I renovate during the redemption year?** Section 521 prohibits you from
-removing the wood or the buildings. Since 2024, you can claim the cost of
-necessary repairs with 10% interest, but that reimbursement is the subject of a
-separate recourse.
-
-**Will my lender finance this?** The price is payable immediately and the title
-remains precarious for a year. No source publishes a lender policy on this case:
-the question goes to a mortgage broker before the auction, not after.
-
-**Is it a good first purchase?** No, and I say so without nuance: paying cash,
-without a visit, without a warranty, with a title that can be revoked for a
-year, is not an entry point into ownership. It is an operation for someone who
-can tie up the money for twelve months and absorb the loss.
 
 To go further, read
 [property taxes in Montreal and Laval](/en/articles/property-tax-explained/) and

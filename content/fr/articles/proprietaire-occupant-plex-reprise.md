@@ -1,13 +1,32 @@
 ---
 title: "Propriétaire occupant d'un plex au Québec : la reprise"
 date: 2026-09-18
-lastmod: 2026-09-18
+lastmod: 2026-10-31
 translationKey: "article-occupant-plex"
 category: "Investissement"
 description: "Propriétaire occupant d'un plex au Québec : qui peut reprendre un logement, les délais d'avis, l'indemnité et les locataires protégés."
 image: "images/articles/proprietaire-occupant-plex-reprise/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "La vente d'un plex ne met pas fin aux baux: selon l'article 1937 du Code civil, le bail est continué et le nouveau locateur en reprend les droits et obligations."
+  - "Selon l'article 1957, le propriétaire peut reprendre un logement pour l'habiter lui-même ou y loger ses ascendants ou descendants au premier degré, ou tout autre parent ou allié dont il est le principal soutien."
+  - "Pour un bail de plus de 6 mois, l'avis de reprise se donne au moins 6 mois avant la fin du bail: pour un bail qui finit le 30 juin, au plus tard le 31 décembre précédent (article 1960)."
+  - "Depuis le 6 juin 2024, l'article 1959.1 interdit la reprise lorsque le locataire ou son conjoint a 65 ans ou plus, occupe le logement depuis au moins 10 ans et a un revenu égal ou inférieur à 125 % du revenu maximal d'admissibilité à un logement à loyer modique."
+  - "Selon l'article 1968, le locataire peut recouvrer les dommages résultant d'une reprise à moins que le locateur ne prouve sa bonne foi, et des dommages punitifs s'il démontre la mauvaise foi."
+faq:
+  - q: "Quel est le délai pour envoyer un avis de reprise de logement au Québec?"
+    a: "Au moins 6 mois avant la fin d'un bail à durée fixe de plus de 6 mois, au moins 1 mois avant la fin d'un bail de 6 mois ou moins, et 6 mois avant la date de la reprise pour un bail à durée indéterminée (article 1960). Pour un bail qui se termine le 30 juin, l'avis part au plus tard le 31 décembre précédent."
+  - q: "Je prends possession le 1er juillet. Puis-je emménager dans le logement du haut le même jour?"
+    a: "Seulement s'il est libre, ou si le locataire quitte de son plein gré et que l'entente est écrite. Sinon, l'avis doit précéder de six mois la fin du bail, et vous n'êtes locateur qu'à compter de l'acte de vente."
+  - q: "Deux copropriétaires d'un duplex peuvent-ils reprendre chacun un logement?"
+    a: "Non. L'article 1958 réserve la reprise en indivision au cas où il n'y a qu'un seul autre propriétaire et que ce dernier est votre conjoint. Ajouter un troisième copropriétaire, même à 1 %, éteint le droit."
+  - q: "Peut-on reprendre le logement d'un locataire de 65 ans ou plus?"
+    a: "Pas lorsque les trois conditions de l'article 1959.1 sont réunies: 65 ans ou plus pour le locataire ou son conjoint, 10 ans d'occupation au moins, et un revenu égal ou inférieur à 125 % du seuil d'admissibilité à un logement à loyer modique. Les exceptions liées à l'âge du locateur ou du bénéficiaire peuvent aussi jouer."
+  - q: "Que se passe-t-il si le locataire ne répond pas à l'avis de reprise?"
+    a: "S'il ne répond pas dans le mois de la réception de l'avis, l'article 1962 le répute avoir refusé de quitter le logement. Le locateur a alors un mois pour demander l'autorisation du tribunal (article 1963), où il doit démontrer qu'il entend réellement reprendre le logement."
+  - q: "Combien faut-il payer au locataire pour une reprise de logement?"
+    a: "Pour une reprise, le tribunal peut imposer une indemnité équivalente aux frais de déménagement, et les conditions qu'il juge justes et raisonnables (article 1967). Une entente de gré à gré ne se présume pas: elle s'écrit."
 ---
 
 Vous achetez un duplex ou un triplex à Montréal ou à Laval pour y habiter. Les
@@ -171,30 +190,6 @@ locataire de 65 ans installé depuis 12 ans n'est pas un détail de visite, c'es
 possiblement la fin de votre projet d'occupation. Les autres vérifications
 propres à un immeuble à revenus sont dans [le guide du triplex à
 Laval](/articles/investir-triplex-laval/).
-
-## Questions fréquentes
-
-**Je prends possession le 1er juillet. Puis-je emménager dans le logement du
-haut le même jour ?**
-Seulement s'il est libre, ou si le locataire quitte de son plein gré et que
-l'entente est écrite. Sinon, l'avis doit précéder de six mois la fin du bail, et
-vous n'êtes locateur qu'à compter de l'acte de vente.
-
-**Mon frère et moi achetons un duplex. Pouvons-nous reprendre chacun un
-logement ?**
-Non. L'article 1958 réserve la reprise en indivision au cas où il n'y a qu'un
-seul autre propriétaire et que ce dernier est votre conjoint.
-
-**Le locataire a 68 ans. La reprise est-elle interdite d'office ?**
-Non, les trois conditions de l'article 1959.1 sont cumulatives : 65 ans ou plus
-pour le locataire ou son conjoint, 10 ans d'occupation au moins, et un revenu
-égal ou inférieur à 125 % du seuil d'admissibilité à un logement à loyer
-modique. Les exceptions liées à l'âge peuvent aussi jouer.
-
-**Combien vais-je devoir payer au locataire ?**
-Pour une reprise, le tribunal peut imposer une indemnité équivalente aux frais
-de déménagement, et les conditions qu'il juge justes et raisonnables. Une
-entente de gré à gré est fréquente, mais elle ne se présume pas : elle s'écrit.
 
 Pour compléter, lisez [Plex ou copropriété à
 Montréal](/articles/triplex-vs-condo-montreal/) et [Gérer des propriétés

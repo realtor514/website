@@ -2,13 +2,32 @@
 title: "Declaraciones del vendedor: DV 00001"
 seo_title: "Declaración del vendedor en Quebec: formulario DV 00001"
 date: 2026-09-06
-lastmod: 2026-09-23
+lastmod: 2026-10-31
 translationKey: "article-declaration-vendeur"
 category: "Guía del Vendedor"
 description: "El formulario DV 00001 es obligatorio y se anexa a la promesse d'achat: sus dieciséis secciones, lo que se debe declarar y el riesgo de ocultar un defecto."
 image: "images/articles/declaration-du-vendeur-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "El formulario Déclarations du vendeur sur l'immeuble (DV) es obligatorio desde julio de 2012 para la venta, por una persona física, de un inmueble principalmente residencial de menos de 5 viviendas; la copropiedad dividida usa el formulario DVD."
+  - "La versión vigente, DV 00001 (V24 06/2022), tiene trece páginas y dieciséis secciones, numeradas de D1 a D16."
+  - "El formulario se anexa en la cláusula 13.1 de la Promesse d'achat, se transmite al prestamista hipotecario y se entrega a todo inspector que lo pida."
+  - "Si el vendedor se niega a llenar y firmar las declaraciones, el corredor no puede celebrar un contrato de corretaje con él."
+  - "Una venta sin garantía legal no cubre una respuesta a sabiendas inexacta: según el artículo 1732 del Code civil, el vendedor no puede, en ningún caso, liberarse de sus hechos personales."
+faq:
+  - q: "¿Quién llena las declaraciones del vendedor en Quebec?"
+    a: "El corredor las llena junto con el vendedor al momento de tomar el contrato de corretaje, y se las hace firmar. Las secciones D3 a D14 se abren con la mención \"a su conocimiento\": el vendedor no declara lo que no conoce."
+  - q: "¿Puedo vender sin llenar las declaraciones del vendedor?"
+    a: "Sin corredor, ninguna regla de la OACIQ se lo exige, pero los artículos 1401, 1728 y 1733 del Code civil se aplican igualmente. En cuanto un corredor toma la inscripción, el formulario se vuelve un anexo obligatorio del contrato."
+  - q: "Si vendo sin garantía legal, ¿debo declararlo todo de todas formas?"
+    a: "Sí. La cláusula de exclusión no le dispensa ni de llenar el formulario ni de responder con exactitud. Le protege contra los vicios que ignoraba, no contra una respuesta falsa, que sigue siendo un hecho personal en el sentido del artículo 1732."
+  - q: "Reparé el problema. ¿Debo declararlo?"
+    a: "Sí. La sección D15 pide precisar la naturaleza del suceso, el lugar y cómo se resolvió la situación. Según el artículo 1726, el vendedor no está obligado a garantizar el vicio oculto conocido por el comprador: un defecto declarado deja de estar oculto."
+  - q: "¿El liquidador de una sucesión debe llenar las declaraciones del vendedor?"
+    a: "Sí, el formulario sigue siendo obligatorio. El liquidador responde a su leal saber y entender y, si no puede responder, lo indica en D15 con su condición y la razón. Está escrito en la primera página."
+  - q: "¿Qué hago si no sé la respuesta a una pregunta?"
+    a: "Algunas preguntas tienen una casilla \"no sé\": año de construcción, tipo de cimentación, año del revestimiento del techo. En los demás casos, la respuesta va en D15 con el número de la cláusula y la razón; no adivine nunca un año y no deje nunca una casilla vacía."
 ---
 
 Muchos vendedores llenan las Déclarations du vendeur sur l'immeuble en quince
@@ -193,29 +212,6 @@ cuales una pregunta no fue respondida.
 No adivine nunca un año y no deje nunca una casilla vacía: el vacío es ambiguo,
 y la ambigüedad se vuelve contra quien la creó. "Lo ignoro, soy propietario
 desde 2021 y el inmueble data de 1958" es una respuesta precisa y defendible.
-
-## Preguntas frecuentes
-
-**¿Puedo vender sin llenar las declaraciones del vendedor?**
-Sin corredor, ninguna regla de la OACIQ se lo exige, pero los artículos 1401,
-1728 y 1733 del Code civil se aplican igualmente. En cuanto un corredor toma la
-inscripción, el formulario se vuelve un anexo obligatorio del contrato.
-
-**Si vendo sin garantía legal, ¿debo declararlo todo de todas formas?**
-Sí. La cláusula de exclusión no le dispensa ni de llenar el formulario ni de
-responder con exactitud. Le protege contra los vicios que ignoraba, no contra
-una respuesta falsa, que sigue siendo un hecho personal en el sentido del
-artículo 1732.
-
-**Reparé el problema. ¿Debo declararlo?**
-Sí, y es a su favor. La sección D15 pide precisar la naturaleza del suceso, el
-lugar y cómo se resolvió la situación. Una infiltración documentada y corregida
-es un argumento de venta; la misma, descubierta por el comprador, es un litigio.
-
-**Soy liquidador de una sucesión y nunca habité la casa.**
-El formulario sigue siendo obligatorio. El liquidador responde a su leal saber y
-entender y, si no puede responder, lo indica en D15 con su condición y la razón.
-Está escrito en la primera página.
 
 Para completar, lea [siete fallas que se repiten en una
 transacción](/es/articles/worst-real-estate-deal-lessons/) y [vender con o sin

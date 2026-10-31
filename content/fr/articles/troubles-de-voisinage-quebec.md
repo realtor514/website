@@ -1,13 +1,32 @@
 ---
 title: "Troubles de voisinage au Québec : les recours"
 date: 2026-09-25
-lastmod: 2026-09-25
+lastmod: 2026-10-31
 translationKey: "article-neighbour-disputes"
 category: "Guide pratique"
 description: "Article 976, vues à 1,5 m, clôture mitoyenne, médiation et petites créances : les recours en troubles de voisinage et ce qui se déclare à la vente."
 image: "images/articles/troubles-de-voisinage-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "L'article 976 du Code civil du Québec oblige les voisins à accepter les inconvénients normaux du voisinage, et la Cour suprême a établi dans Ciment du Saint-Laurent c. Barrette, 2008 CSC 64, que ce recours n'exige aucune preuve de faute."
+  - "L'article 993 interdit d'avoir sur le fonds voisin des vues droites à moins de 1,5 m de la ligne séparative, sauf sur la voie publique ou un parc public, ou pour des portes pleines ou à verre translucide."
+  - "L'article 1002 permet à un propriétaire d'obliger son voisin à faire une clôture sur la ligne séparative à frais communs, et l'article 1003 présume mitoyenne toute clôture qui se trouve sur cette ligne."
+  - "Aux petites créances de la Cour du Québec, la réclamation maximale est de 15 000 $ sans les intérêts, et la médiation est obligatoire et gratuite, pour un maximum de 3 heures, pour les réclamations de 5 000 $ et moins."
+  - "Le formulaire Déclarations du vendeur DV 00001 n'a aucune question sur un « litige »: un conflit de voisinage se déclare aux sections D2.8, D2.10, D2.11, D2.12 et D14.5, avec les précisions en D15."
+faq:
+  - q: "Faut-il prouver une faute pour poursuivre un voisin pour trouble de voisinage au Québec?"
+    a: "Non. Selon Ciment du Saint-Laurent inc. c. Barrette, 2008 CSC 64, l'article 976 fonde un régime de responsabilité sans faute, mesuré par les inconvénients subis. L'inconvénient doit toutefois être continu ou répétitif, réel et sérieux, selon l'environnement local."
+  - q: "Combien peut-on réclamer aux petites créances pour un trouble de voisinage?"
+    a: "Au plus 15 000 $, sans les intérêts, et une réclamation ne peut pas être divisée en plusieurs causes. La médiation est obligatoire pour les réclamations de 5 000 $ et moins; elle est gratuite pour un maximum de 3 heures."
+  - q: "Mon voisin a installé sa clôture 30 cm chez moi. Je peux l'enlever moi-même?"
+    a: "Non. Vous l'avisez, puis vous établissez la ligne réelle par un bornage avec un arpenteur-géomètre, dont le procès-verbal s'inscrit au registre foncier. Les suites vont de l'indemnité à l'achat de la bande de terrain jusqu'au retrait de l'ouvrage, selon la situation."
+  - q: "Je vends. Dois-je parler d'un conflit de voisinage qui n'est pas devant un tribunal?"
+    a: "Le formulaire DV n'a pas de case « litige », mais il a D2.10, D2.12 et D14.5, et la section D15 existe précisément pour préciser une situation. Une mésentente qui touche la clôture, une vue, un droit de passage ou un avis de la municipalité se raconte là, avec les documents."
+  - q: "La Ville peut-elle régler une chicane de ligne de terrain?"
+    a: "Non. La Ville de Montréal écrit qu'elle n'a aucune juridiction sur la ligne mitoyenne entre deux terrains. Elle applique ses règlements de hauteur, de matériau et de permis; le reste relève du Code civil et des tribunaux."
+  - q: "Un trouble de voisinage fait-il baisser le prix d'une maison?"
+    a: "Aucune donnée québécoise publique ne permet de chiffrer cet effet. Un dossier non documenté fait reculer un acheteur au moment de l'examen des titres, plus tard et plus mal qu'une divulgation faite au départ."
 ---
 
 Une chicane de clôture ne reste jamais entre deux voisins. Elle finit dans le
@@ -198,31 +217,6 @@ entente notariée sur une vue, un empiétement, un droit de passage ou la
 mitoyenneté d'une clôture ? Le certificat de localisation montre-t-il la clôture
 à sa position actuelle ? Une réponse floue justifie de faire vérifier le dossier
 par un avocat ou un notaire avant de vous engager.
-
-## Questions fréquentes
-
-**Mon voisin a installé sa clôture 30 cm chez moi. Je peux l'enlever moi-même ?**
-Non. Vous l'avisez, puis vous établissez la ligne réelle par un bornage avec un
-arpenteur-géomètre, dont le procès-verbal s'inscrit au registre foncier. Les
-suites vont de l'indemnité à l'achat de la bande de terrain jusqu'au retrait de
-l'ouvrage, selon la situation.
-
-**Je vends. Dois-je parler d'un conflit qui n'est pas devant un tribunal ?**
-Le formulaire DV n'a pas de case « litige », mais il a D2.10, D2.12 et D14.5, et
-la section D15 existe précisément pour préciser une situation. Une mésentente
-qui touche la clôture, une vue, un droit de passage ou un avis de la
-municipalité se raconte là, avec les documents.
-
-**La Ville peut-elle régler ma chicane de ligne de terrain ?**
-Non. La Ville de Montréal écrit qu'elle n'a aucune juridiction sur la ligne
-mitoyenne entre deux terrains. Elle applique ses règlements de hauteur, de
-matériau et de permis. Le reste relève du Code civil et des tribunaux.
-
-**Un trouble de voisinage fait-il baisser le prix de ma maison ?**
-Aucune donnée québécoise publique ne me permet de chiffrer cet effet, et je ne
-l'inventerai pas. Ce que je constate, c'est qu'un dossier non documenté fait
-reculer un acheteur au moment de l'examen des titres, plus tard et plus mal
-qu'une divulgation faite au départ.
 
 Pour compléter, lisez [le formulaire Déclarations du
 vendeur](/articles/declaration-du-vendeur-quebec/) et [les documents à réunir

@@ -1,13 +1,32 @@
 ---
 title: "Conflictos vecinales en Quebec: los recursos"
 date: 2026-09-25
-lastmod: 2026-09-25
+lastmod: 2026-10-31
 translationKey: "article-neighbour-disputes"
 category: "Guía práctica"
 description: "Artículo 976, vistas a 1,5 m, cerca medianera, mediación y pequeñas causas: los recursos por conflictos vecinales y lo que se declara en la venta."
 image: "images/articles/troubles-de-voisinage-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "El artículo 976 del Code civil du Québec obliga a los vecinos a aceptar los inconvenientes normales de la vecindad, y la Corte Suprema estableció en Ciment du Saint-Laurent inc. c. Barrette, 2008 CSC 64, que ese recurso no exige ninguna prueba de falta."
+  - "El artículo 993 prohíbe tener sobre el predio vecino vistas rectas a menos de 1,5 m de la línea divisoria, salvo sobre la vía pública o un parque público, o en el caso de puertas macizas o de vidrio translúcido."
+  - "El artículo 1002 permite a un propietario obligar a su vecino a hacer una cerca sobre la línea divisoria a gastos comunes, y el artículo 1003 presume medianera toda cerca que se encuentra sobre esa línea."
+  - "En la división de pequeñas causas de la Cour du Québec, la reclamación máxima es de 15 000 $ sin los intereses, y la mediación es obligatoria y gratuita, por un máximo de 3 horas, para las reclamaciones de 5 000 $ y menos."
+  - "El formulario Déclarations du vendeur DV 00001 no tiene ninguna pregunta sobre un «litigio»: un conflicto vecinal se declara en las secciones D2.8, D2.10, D2.11, D2.12 y D14.5, con las precisiones en D15."
+faq:
+  - q: "¿Hay que probar una falta para demandar a un vecino por molestias en Quebec?"
+    a: "No. Según Ciment du Saint-Laurent inc. c. Barrette, 2008 CSC 64, el artículo 976 funda un régimen de responsabilidad sin falta, medido por los inconvenientes sufridos. El inconveniente debe ser, sin embargo, continuo o repetitivo, real y serio, según el entorno local."
+  - q: "¿Cuánto se puede reclamar en pequeñas causas por un conflicto vecinal en Quebec?"
+    a: "Como máximo 15 000 $, sin contar los intereses, y una reclamación no se puede dividir en varias causas. La mediación es obligatoria para las reclamaciones de 5 000 $ y menos, y es gratuita por un máximo de 3 horas."
+  - q: "Mi vecino instaló su cerca 30 cm dentro de mi terreno. ¿Puedo quitarla yo mismo?"
+    a: "No. Usted le avisa, y luego establece la línea real mediante un deslinde con un arpenteur géomètre, cuya acta se inscribe en el registro de la propiedad. Las consecuencias van de la indemnización a la compra de la franja de terreno, hasta el retiro de la obra, según la situación."
+  - q: "Estoy vendiendo. ¿Debo hablar de un conflicto vecinal que no está ante un tribunal?"
+    a: "El formulario DV no tiene casilla de «litigio», pero tiene D2.10, D2.12 y D14.5, y la sección D15 existe precisamente para precisar una situación. Un desacuerdo que toca la cerca, una vista, un derecho de paso o un aviso del municipio se cuenta ahí, con los documentos."
+  - q: "¿La Ciudad puede resolver una pelea por la línea del terreno?"
+    a: "No. La Ville de Montréal escribe que no tiene ninguna jurisdicción sobre la línea medianera entre dos terrenos. Aplica sus reglamentos de altura, de material y de permiso; el resto corresponde al Code civil y a los tribunales."
+  - q: "¿Un conflicto vecinal hace bajar el precio de una casa?"
+    a: "Ningún dato público quebequense permite cifrar ese efecto. Un expediente no documentado hace retroceder a un comprador en el momento del examen de los títulos, más tarde y peor que una divulgación hecha desde el principio."
 ---
 
 Una pelea por una cerca nunca se queda entre dos vecinos. Termina en el certificat
@@ -196,31 +215,6 @@ notariado sobre una vista, una invasión, un derecho de paso o la medianería de
 cerca? ¿El certificat de localisation muestra la cerca en su posición actual? Una
 respuesta vaga justifica hacer revisar el expediente por un abogado o un notario
 antes de comprometerse.
-
-## Preguntas frecuentes
-
-**Mi vecino instaló su cerca 30 cm dentro de mi terreno. ¿Puedo quitarla yo mismo?**
-No. Usted le avisa, y luego establece la línea real mediante un deslinde con un
-arpenteur géomètre, cuya acta se inscribe en el registro de la propiedad. Las
-consecuencias van de la indemnización a la compra de la franja de terreno, hasta el
-retiro de la obra, según la situación.
-
-**Estoy vendiendo. ¿Debo hablar de un conflicto que no está ante un tribunal?**
-El formulario DV no tiene casilla de «litigio», pero tiene D2.10, D2.12 y D14.5, y
-la sección D15 existe precisamente para precisar una situación. Un desacuerdo que
-toca la cerca, una vista, un derecho de paso o un aviso del municipio se cuenta
-ahí, con los documentos.
-
-**¿La Ciudad puede resolver mi pelea por la línea del terreno?**
-No. La Ville de Montréal escribe que no tiene ninguna jurisdicción sobre la línea
-medianera entre dos terrenos. Aplica sus reglamentos de altura, de material y de
-permiso. El resto corresponde al Code civil y a los tribunales.
-
-**¿Un conflicto vecinal hace bajar el precio de mi casa?**
-Ningún dato público quebequense me permite cifrar ese efecto, y no lo voy a
-inventar. Lo que constato es que un expediente no documentado hace retroceder a un
-comprador en el momento del examen de los títulos, más tarde y peor que una
-divulgación hecha desde el principio.
 
 Para completar, lea [el formulario Déclarations du
 vendeur](/es/articles/declaraciones-del-vendedor-quebec/) y [los documentos que hay

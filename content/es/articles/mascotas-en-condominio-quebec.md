@@ -2,13 +2,32 @@
 title: "Mascotas en un condominio de Quebec"
 seo_title: "Mascotas prohibidas en un condominio de Quebec: ¿es legal?"
 date: 2026-09-24
-lastmod: 2026-09-24
+lastmod: 2026-10-31
 translationKey: "article-animaux-condo"
 category: "Inmobiliaria 101"
 description: "¿Puede el sindicato prohibir perros y gatos? Dónde vive la regla, qué la hace válida, el animal d'assistance, el inquilino y qué exigir antes de la oferta."
 image: "images/articles/animaux-copropriete-declaration-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Según el artículo 1052 del Code civil du Québec, la déclaration de copropriété comprende el acte constitutif, el règlement de l'immeuble y el estado descriptivo de las fracciones; una prohibición de animales suele estar en el règlement de l'immeuble (artículo 1054)."
+  - "La déclaration de copropriété obliga a los copropietarios y a sus causahabientes desde su inscripción (artículo 1062): el comprador de un condominio queda obligado por la prohibición de animales sin haberla firmado."
+  - "El règlement de l'immeuble se modifica por mayoría de los votos de los copropietarios presentes o representados (artículo 1096), y un copropietario tiene 90 días para pedir al tribunal que anule una decisión parcial (artículo 1103)."
+  - "El perro guía y el perro de asistencia entrenados por un organismo especializado se reconocen como un medio de paliar una discapacidad según el artículo 10 de la Charte des droits et libertés de la personne, y el acomodamiento razonable se aplica salvo restricción excesiva."
+  - "El règlement de l'immeuble es oponible al inquilino desde que se le entrega un ejemplar (artículo 1057), y el copropietario que alquila debe avisar al syndicat dentro de los 15 días (artículo 1065)."
+faq:
+  - q: "¿Puede un condominio prohibir las mascotas en Quebec?"
+    a: "Una prohibición inscrita en la déclaration de copropriété obliga a todo comprador desde su inscripción (artículo 1062). El artículo 1056 solo admite las restricciones justificadas por el destino del inmueble, sus características o su situación, y un tribunal resuelve, expediente por expediente."
+  - q: "¿Qué mayoría hace falta para prohibir los animales en un condominio?"
+    a: "Si la cláusula está en el règlement de l'immeuble, basta la mayoría de los votos de los copropietarios presentes o representados (artículo 1096). Si está en el acte constitutif, hacen falta tres cuartos de los votos de los presentes o representados (artículo 1097)."
+  - q: "¿Un condominio puede rechazar un perro de asistencia en Quebec?"
+    a: "El artículo 10 de la Charte prohíbe la discriminación fundada en el uso de un medio para paliar una discapacidad, y el artículo 13 deja sin efecto una cláusula discriminatoria. El perro guía o de asistencia entrenado por un organismo especializado es reconocido por los tribunales quebequenses, y la documentación del organismo sirve de prueba."
+  - q: "El vendedor dice que todo el mundo tiene perro en el edificio. ¿Alcanza con eso?"
+    a: "No. Una tolerancia de hecho no es una modificación del reglamento, y el artículo 1062 sigue obligándolo. Puede servir de argumento algún día ante un tribunal, con una prueba, pero no reemplaza una autorización escrita del consejo."
+  - q: "El reglamento prohíbe los perros pero no dice nada de los gatos. ¿Puedo tener un gato?"
+    a: "El texto se lee tal como está escrito, y Éducaloi señala que, en materia de arrendamiento, un inquilino puede en principio concluir que tiene derecho a tener un gato si la cláusula solo se refiere a los perros. En copropiedad, el syndicat siempre puede invocar el artículo 1063 si el animal atenta contra los derechos de los demás."
+  - q: "Alquilo mi condominio. ¿Respondo por el perro de mi inquilino?"
+    a: "Debe avisar al syndicat dentro de los 15 días del nombre del inquilino, de la duración del contrato y de la fecha de entrega del reglamento (artículo 1065). Sin esa entrega, el reglamento no le es oponible (artículo 1057), y el syndicat puede pedir la resolución del contrato si el incumplimiento causa un perjuicio serio (artículo 1079)."
 ---
 
 Usted visitó el condominio dos veces. Le gustan el patio, la luz, el
@@ -194,27 +213,6 @@ Si su animal es un animal d'assistance (un animal de asistencia), plantéelo por
 escrito antes de la oferta, con la documentación del organismo en apoyo.
 Planteada con anticipación, la pregunta se trata como una solicitud de
 acomodamiento. Planteada después de la mudanza, como una contravención.
-
-## Preguntas frecuentes
-
-**El vendedor me dice que todo el mundo tiene perro en el edificio.**
-Una tolerancia de hecho no es una modificación del reglamento, y el artículo 1062
-sigue obligándolo. Puede servir de argumento algún día, ante un tribunal, con una
-prueba. No reemplaza una autorización escrita del consejo.
-
-**El reglamento prohíbe los perros pero no dice nada de los gatos.**
-El texto se lee tal como está escrito, y Éducaloi señala que, en materia de
-arrendamiento, un inquilino puede en principio concluir que tiene derecho a tener
-un gato si la cláusula solo se refiere a los perros. En copropiedad, el syndicat
-siempre puede invocar el artículo 1063 si el animal atenta contra los derechos de
-los demás. Haga leer la cláusula exacta antes de adoptar.
-
-**Alquilo mi condominio. ¿Respondo por el perro de mi inquilino?**
-Debe avisar al syndicat dentro de los 15 días del nombre del inquilino, de la
-duración del contrato y de la fecha de entrega del reglamento (artículo 1065).
-Sin esa entrega, el reglamento no le es oponible (artículo 1057), y el syndicat
-puede pedir la resolución del contrato si el incumplimiento causa un perjuicio
-serio (artículo 1079).
 
 Para completar, lea
 [lo que compra realmente en copropiedad](/es/articles/condo-vs-house-montreal/)

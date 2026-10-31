@@ -1,10 +1,29 @@
 ---
 title: "Your Promise to Purchase Was Refused"
 date: 2026-06-11
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 category: "Buyer's Guide"
 description: "What legally happens when your offer is refused in Quebec, a four-question post-mortem, and how to rebuild a ceiling your lender will actually support."
 image: "images/articles/losing-bidding-war-lessons/featured.jpg"
+tldr:
+  - "Under clause 14.1 of the Quebec Promise to purchase form, a promise that is refused, not accepted within the irrevocability period, or answered by a seller's counter-proposal becomes null and void."
+  - "Under clause 4.3, as soon as the promise becomes null and void, the trustee must immediately reimburse the deposit to the depositor, without interest, upon written request."
+  - "Section 96 of the Regulation respecting brokerage requirements forbids a broker from disclosing the content of a promise to purchase: the winning price becomes public when the sale is published in the Land Register."
+  - "A seller can refuse a promise to purchase even when the price and conditions match his expectations, and he is never obliged to take the highest offer."
+  - "Under CMHC rules, the minimum down payment is 5% of the first $500,000 and 10% of the remainder, with maximum ratios of 39% gross debt service and 44% total debt service."
+faq:
+  - q: "What happens to my deposit if my offer is refused in Quebec?"
+    a: "Under clause 4.3 of the Promise to purchase form, as soon as the promise becomes null and void, the trustee must immediately reimburse the deposit to the depositor, without interest, upon written request. Send the request the same day and keep the receipt you got when the funds were deposited."
+  - q: "Can I submit a new offer after my promise to purchase is refused?"
+    a: "Yes. An expired promise cannot be revived: your broker must draft a new one. The seller can reopen the discussion through a counter-proposal, even after the acceptance period has expired."
+  - q: "Can my broker tell me the winning price?"
+    a: "No. Section 96 of the Regulation respecting brokerage requirements forbids a broker from disclosing the content of a promise to purchase. The price becomes public when the sale is published in the Land Register."
+  - q: "Does a seller have to accept the highest offer in Quebec?"
+    a: "No. A seller can refuse a promise to purchase even when the price and conditions match his expectations. The closing date, the deposit, the conditions kept and the deadlines all weigh on his choice."
+  - q: "How many days should I allow for the financing condition?"
+    a: "The OACIQ recommends at least 14 days. Periods run in consecutive calendar days: Saturdays, Sundays and statutory holidays count, the day of acceptance does not, the deadline day does."
+  - q: "Can a property I lost to another buyer come back on the market?"
+    a: "Yes, because an accepted promise stays conditional. Clause 6.3 allows cancellation for lack of a loan undertaking, clause 8.1 renders it null on notice with an unfavourable inspection report, and clause 9.1 opens the same door for the documents under review."
 ---
 
 Losing a multiple-offer situation in Quebec goes by three different names: your

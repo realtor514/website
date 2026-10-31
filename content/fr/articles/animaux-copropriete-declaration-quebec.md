@@ -2,13 +2,32 @@
 title: "Animaux interdits en condo au Québec: où est la règle"
 seo_title: "Animaux interdits en condo au Québec: est-ce légal?"
 date: 2026-09-24
-lastmod: 2026-09-24
+lastmod: 2026-10-31
 translationKey: "article-animaux-condo"
 category: "Immobilier 101"
 description: "Le syndicat peut-il interdire chiens et chats? Où vit la règle, ce qui la rend valide, l'animal d'assistance, le locataire et quoi exiger avant l'offre."
 image: "images/articles/animaux-copropriete-declaration-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Selon l'article 1052 du Code civil, la déclaration de copropriété comprend l'acte constitutif, le règlement de l'immeuble et l'état descriptif des fractions; une interdiction d'animaux se trouve le plus souvent dans le règlement de l'immeuble (article 1054)."
+  - "La déclaration de copropriété lie les copropriétaires et leurs ayants cause dès son inscription (article 1062): l'acheteur d'un condo est lié par l'interdiction d'animaux sans l'avoir signée."
+  - "Le règlement de l'immeuble se modifie à la majorité des voix des copropriétaires présents ou représentés (article 1096), et un copropriétaire a 90 jours pour demander l'annulation d'une décision partiale (article 1103)."
+  - "Le chien guide et le chien d'assistance entraînés par un organisme spécialisé sont reconnus comme un moyen de pallier un handicap au sens de l'article 10 de la Charte des droits et libertés de la personne, et l'accommodement raisonnable s'applique sauf contrainte excessive."
+  - "Le règlement de l'immeuble est opposable au locataire dès qu'un exemplaire lui est remis (article 1057), et le copropriétaire qui loue doit aviser le syndicat dans les 15 jours (article 1065)."
+faq:
+  - q: "Un syndicat de copropriété peut-il interdire les animaux au Québec?"
+    a: "Une interdiction inscrite dans la déclaration de copropriété lie tout acheteur dès son inscription (article 1062). L'article 1056 n'admet que les restrictions justifiées par la destination de l'immeuble, ses caractères ou sa situation, et c'est un tribunal qui tranche, dossier par dossier."
+  - q: "Quelle majorité faut-il pour interdire les animaux dans un condo?"
+    a: "Si la clause est au règlement de l'immeuble, la majorité des voix des copropriétaires présents ou représentés suffit (article 1096). Si elle est à l'acte constitutif, il faut les trois quarts des voix des présents ou représentés (article 1097)."
+  - q: "Un condo peut-il refuser un chien d'assistance?"
+    a: "L'article 10 de la Charte interdit la discrimination fondée sur l'utilisation d'un moyen pour pallier un handicap, et l'article 13 rend sans effet une clause discriminatoire. Le chien guide ou d'assistance entraîné par un organisme spécialisé est reconnu par les tribunaux québécois, et la documentation de l'organisme sert de preuve."
+  - q: "Le vendeur dit que tout le monde a un chien dans l'immeuble. Est-ce suffisant?"
+    a: "Non. Une tolérance de fait n'est pas une modification du règlement, et l'article 1062 continue de vous lier. Elle peut servir d'argument un jour devant un tribunal, avec une preuve, mais ne remplace pas une autorisation écrite du conseil."
+  - q: "Le règlement interdit les chiens mais ne dit rien des chats. Puis-je avoir un chat?"
+    a: "Le texte se lit tel qu'il est écrit, et Éducaloi note qu'en matière de bail, un locataire peut en principe conclure qu'il a le droit d'avoir un chat si la clause ne vise que les chiens. En copropriété, le syndicat peut toujours invoquer l'article 1063 si l'animal porte atteinte aux droits des autres."
+  - q: "Je loue mon condo. Est-ce que je réponds du chien de mon locataire?"
+    a: "Vous devez aviser le syndicat dans les 15 jours du nom du locataire, de la durée du bail et de la date de remise du règlement (article 1065). Sans cette remise, le règlement ne lui est pas opposable (article 1057), et le syndicat peut demander la résiliation du bail si l'inexécution cause un préjudice sérieux (article 1079)."
 ---
 
 Vous avez visité le condo deux fois. Vous aimez la cour, la lumière, le
@@ -188,27 +207,6 @@ Si votre animal est un animal d'assistance, soulevez-le par écrit avant l'offre
 documentation de l'organisme à l'appui. Posée d'avance, la question se traite
 comme une demande d'accommodement. Posée après le déménagement, comme une
 contravention.
-
-## Questions fréquentes
-
-**Le vendeur me dit que tout le monde a un chien dans l'immeuble.**
-Une tolérance de fait n'est pas une modification du règlement, et l'article 1062
-continue de vous lier. Elle peut servir d'argument un jour, devant un tribunal,
-avec une preuve. Elle ne remplace pas une autorisation écrite du conseil.
-
-**Le règlement interdit les chiens mais ne dit rien des chats.**
-Le texte se lit tel qu'il est écrit, et Éducaloi note qu'en matière de bail, un
-locataire peut en principe conclure qu'il a le droit d'avoir un chat si la
-clause ne vise que les chiens. En copropriété, le syndicat peut toujours
-invoquer l'article 1063 si l'animal porte atteinte aux droits des autres.
-Faites lire la clause exacte avant d'adopter.
-
-**Je loue mon condo. Est-ce que je réponds du chien de mon locataire?**
-Vous devez aviser le syndicat dans les 15 jours du nom du locataire, de la durée
-du bail et de la date de remise du règlement (article 1065). Sans cette remise,
-le règlement ne lui est pas opposable (article 1057), et le syndicat peut
-demander la résiliation du bail si l'inexécution cause un préjudice sérieux
-(article 1079).
 
 Pour compléter, lisez
 [ce que vous achetez vraiment en copropriété](/articles/condo-vs-house-montreal/)

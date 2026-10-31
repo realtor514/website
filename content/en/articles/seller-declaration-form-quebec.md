@@ -2,13 +2,32 @@
 title: "The Seller's Declaration in Quebec: The DV 00001 Form"
 seo_title: "Seller's Declaration Form in Quebec (DV 00001) Explained"
 date: 2026-09-06
-lastmod: 2026-09-23
+lastmod: 2026-10-31
 translationKey: "article-declaration-vendeur"
 category: "Seller's Guide"
 description: "Form DV 00001 is mandatory and annexed to the promesse d'achat: its sixteen sections, what the seller must declare, and the risk of hiding a defect."
 image: "images/articles/declaration-du-vendeur-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "The Déclarations du vendeur sur l'immeuble form (DV) has been mandatory since July 2012 for the sale, by a natural person, of a mainly residential immovable of fewer than 5 dwellings; a divided co-ownership uses the DVD form."
+  - "The version in force, DV 00001 (V24 06/2022), has thirteen pages and sixteen sections, numbered D1 to D16."
+  - "The form is annexed at clause 13.1 of the Promesse d'achat, sent to the mortgage lender and handed to any inspector who asks for it."
+  - "If the seller refuses to fill out and sign the declaration, the broker cannot enter into a brokerage contract with him."
+  - "A sale without legal warranty does not cover a knowingly inaccurate answer: under article 1732 of the Code civil, the seller can in no case release himself from his personal acts."
+faq:
+  - q: "Who fills out the seller's declaration in Quebec?"
+    a: "The broker fills it out jointly with the seller when the brokerage contract is taken, and has him sign it. Sections D3 to D14 open with the words \"to your knowledge\": the seller does not declare what he does not know."
+  - q: "Can I sell without filling out the seller's declaration?"
+    a: "Without a broker, no OACIQ rule requires it of you, but articles 1401, 1728 and 1733 of the Code civil apply all the same. The moment a broker takes the listing, the form becomes a mandatory annex to the contract."
+  - q: "If I sell without legal warranty, do I still have to declare everything?"
+    a: "Yes. The exclusion clause relieves you neither of filling out the form nor of answering accurately. It protects you against defects you did not know about, not against a false answer, which remains a personal act within the meaning of article 1732."
+  - q: "I repaired the problem. Do I have to declare it?"
+    a: "Yes. Section D15 asks you to specify the nature of the event, the location and how the situation was resolved. Under article 1726, the seller does not warrant a latent defect known to the buyer: a declared defect stops being hidden."
+  - q: "Does the liquidator of a succession have to fill out the seller's declaration?"
+    a: "Yes, the form remains mandatory. The liquidator answers to the best of his knowledge and, where he cannot answer, says so in D15 with his status and the reason. It is written on the first page."
+  - q: "What if I do not know the answer to a question?"
+    a: "Some questions have a \"do not know\" box: year of construction, type of foundation, year of the roof covering. Elsewhere, the answer goes in D15 with the clause number and the reason; never guess at a year and never leave a box empty."
 ---
 
 Plenty of sellers fill out the Déclarations du vendeur sur l'immeuble in fifteen
@@ -187,30 +206,6 @@ form asks you to set out there the reasons a question was not answered.
 Never guess at a year and never leave a box empty: emptiness is ambiguous, and
 ambiguity turns against whoever created it. "I do not know, I have owned since
 2021 and the building dates from 1958" is a precise and defensible answer.
-
-## Frequently asked questions
-
-**Can I sell without filling out the seller's declaration?**
-Without a broker, no OACIQ rule requires it of you, but articles 1401, 1728 and
-1733 of the Code civil apply all the same. The moment a broker takes the
-listing, the form becomes a mandatory annex to the contract.
-
-**If I sell without legal warranty, do I still have to declare everything?**
-Yes. The exclusion clause relieves you neither of filling out the form nor of
-answering accurately. It protects you against defects you did not know about,
-not against a false answer, which remains a personal act within the meaning of
-article 1732.
-
-**I repaired the problem. Do I have to declare it?**
-Yes, and it works in your favour. Section D15 asks you to specify the nature of
-the event, the location and how the situation was resolved. A documented and
-corrected infiltration is a selling point; the same one, discovered by the
-buyer, is a lawsuit.
-
-**I am the liquidator of a succession and I never lived in the house.**
-The form remains mandatory. The liquidator answers to the best of his knowledge
-and, where he cannot answer, says so in D15 with his status and the reason. It
-is written on the first page.
 
 To round it out, read [seven recurring failures in a
 transaction](/en/articles/worst-real-estate-deal-lessons/) and [selling with or

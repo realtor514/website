@@ -1,13 +1,32 @@
 ---
 title: "Vente pour taxes municipales au Québec: la procédure"
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-10-31
 translationKey: "article-tax-sale-properties"
 category: "Investissement"
 description: "Vente pour taxes municipales au Québec: qui vend, ce qui se paie sur place, le droit de retrait d’un an et les charges qui survivent à l’encan."
 image: "images/articles/maisons-abandonnees-ventes-pour-taxes/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Après une vente pour taxes, l’ancien propriétaire dispose d’un an pour reprendre l’immeuble en payant le prix de vente avec un intérêt de 10 % par an, une fraction d’année comptant pour l’année entière (article 531 de la Loi sur les cités et villes)."
+  - "L’adjudicataire doit payer immédiatement, faute de quoi l’immeuble est remis en vente ou la vente est ajournée (article 519 de la Loi sur les cités et villes, article 1034 du Code municipal)."
+  - "La vente pour taxes purge l’immeuble de toute hypothèque (articles 528 et 529), mais les servitudes et tout autre droit réel ou personnel survivent à la vente."
+  - "En 2026, l’encan de Montréal est fixé au 2 novembre à 10 h au Marché Bonsecours, et celui de Laval au 19 novembre à 10 h au 3131, boulevard Saint-Martin Ouest."
+  - "Sous le Code municipal, c’est la MRC qui vend, par défaut le deuxième jeudi de mars à 10 h (article 1026)."
+faq:
+  - q: "Combien de temps l’ancien propriétaire a-t-il pour racheter une maison vendue pour taxes?"
+    a: "Un an à compter de l’adjudication. Il paie le prix de vente, y compris le coût du certificat d’adjudication, avec un intérêt de 10 % par an (article 531), et l’acheteur ne peut pas s’y opposer. L’acte de vente définitif n’arrive qu’à l’expiration de ce délai (article 525)."
+  - q: "Achète-t-on sous la valeur marchande à une vente pour taxes?"
+    a: "Aucune source officielle ne permet de l’affirmer. Il n’y a pas de mise à prix minimale, mais rien ne plafonne l’enchère non plus. La ville annonce le montant dû, pas un rabais."
+  - q: "Peut-on visiter un immeuble avant une vente pour taxes?"
+    a: "Non. Blainville précise qu’il n’est pas possible de visiter les immeubles avec bâtiment mis en vente, et l’adjudicataire accepte l’immeuble sans garantie, à ses risques et périls, dans l’état où il se trouve au moment de l’adjudication."
+  - q: "Puis-je rénover pendant l’année du retrait?"
+    a: "L’article 521 interdit d’enlever le bois ou les constructions pendant cette année. Depuis 2024, l’article 534.1 permet de réclamer le coût des réparations nécessaires avec 10 % d’intérêt, mais ce remboursement fait l’objet d’un recours distinct."
+  - q: "Mon prêteur va-t-il financer un achat à une vente pour taxes?"
+    a: "Le prix est exigible immédiatement et le titre reste précaire un an. Aucune source ne publie de politique de prêteur sur ce cas: la question se pose à un courtier hypothécaire avant l’encan, pas après."
+  - q: "Une vente pour taxes est-elle un bon premier achat?"
+    a: "Non. Payer comptant, sans visite, sans garantie, avec un titre révocable pendant un an, ce n’est pas une porte d’entrée vers la propriété. C’est une opération pour qui peut immobiliser la somme douze mois et absorber la perte."
 ---
 
 Une maison à l’abandon, un encan municipal, un prix qui paraît dérisoire: la vente
@@ -192,26 +211,6 @@ tous les bâtiments, mais environ 2 600 immeubles d’intérêt patrimonial. Il 
 notamment la fermeture de l’arrivée d’eau principale dans un bâtiment vacant. Les
 amendes vont de 500 $ à 1 000 $ pour une personne physique, jusqu’à 125 000 $ en
 récidive, et chaque jour compte comme une infraction distincte.
-
-## Questions fréquentes
-
-**Est-ce qu’on achète sous la valeur marchande?** Aucune source officielle ne
-permet de l’affirmer. Il n’y a pas de mise à prix minimale, mais rien ne plafonne
-l’enchère non plus. La ville annonce le montant dû, pas un rabais.
-
-**Puis-je rénover pendant l’année du retrait?** L’article 521 vous interdit
-d’enlever le bois ou les constructions. Depuis 2024, vous pouvez réclamer le coût
-des réparations nécessaires avec 10 % d’intérêt, mais ce remboursement fait
-l’objet d’un recours distinct.
-
-**Mon prêteur va-t-il financer ça?** Le prix est exigible immédiatement et le
-titre reste précaire un an. Aucune source ne publie de politique de prêteur sur ce
-cas: la question se pose à un courtier hypothécaire avant l’encan, pas après.
-
-**Est-ce un bon premier achat?** Non, et je le dis sans nuance: payer comptant,
-sans visite, sans garantie, avec un titre révocable un an, ce n’est pas une porte
-d’entrée vers la propriété. C’est une opération pour qui peut immobiliser la somme
-douze mois et absorber la perte.
 
 Pour compléter, lisez [les taxes foncières à Montréal et
 Laval](/articles/property-tax-explained/) et [acheter une reprise de finance au

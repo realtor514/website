@@ -1,12 +1,31 @@
 ---
 title: "Nouveaux arrivants : acheter au Québec"
 date: 2026-07-16
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 translationKey: "article-guide-nouveaux-arrivants"
 category: "Guide de l'acheteur"
 description: "Nouveaux arrivants: acheter au Québec est tout à fait possible, mais le système diffère de la plupart des pays. Ce guide explique tout, en langage simple."
 image: "images/articles/guide-achat-immobilier-nouveaux-arrivants-quebec/featured.jpg"
 draft: false
+tldr:
+  - "Au Québec, les résidents permanents ont les mêmes droits que les citoyens canadiens pour acheter une propriété, alors qu'une loi fédérale interdit aux non-Canadiens, sauf exceptions, d'acheter un immeuble de 1 à 3 logements dans une région métropolitaine ou une agglomération de recensement jusqu'au 1er janvier 2027."
+  - "Avec une mise de fonds inférieure à 20%, l'assurance hypothécaire SCHL est obligatoire et coûte de 2,8% à 4% du montant du prêt, ajoutée directement à l'hypothèque."
+  - "Le CELIAPP permet d'épargner jusqu'à 40 000 dollars à vie, avec des cotisations de 8 000 dollars par année déductibles d'impôt et des retraits non imposables pour un achat immobilier admissible."
+  - "Au Québec, tout transfert de propriété passe par un notaire, dont les frais sont estimés pour 2026 entre environ 1 500 et 3 500 dollars pour un achat financé, taxes et frais de publication compris."
+  - "Avec les seuils de 2026, la taxe de bienvenue est d'environ 4 100 dollars sur une propriété de 400 000 dollars, et Québec en rembourse jusqu'à 5 875 $ à un premier acheteur, par un crédit d'impôt remboursable, pour une propriété acquise depuis le 1er janvier 2026."
+faq:
+  - q: "Un résident permanent peut-il acheter une maison au Québec?"
+    a: "Oui. Les résidents permanents ont les mêmes droits que les citoyens canadiens pour acquérir des biens immobiliers au Québec, et l'interdiction fédérale visant les non-Canadiens ne s'applique pas à eux."
+  - q: "Un non-Canadien peut-il acheter une propriété au Québec?"
+    a: "Une loi fédérale interdit aux personnes qui ne sont ni citoyennes ni résidentes permanentes d'acheter un immeuble de 1 à 3 logements, y compris un condo, situé dans une région métropolitaine ou une agglomération de recensement, présentement jusqu'au 1er janvier 2027. Elle prévoit des exceptions, notamment pour certains titulaires de permis de travail, certains étudiants et les réfugiés: faites vérifier votre situation par un avocat ou un notaire avant de signer."
+  - q: "Comment bâtir un historique de crédit en arrivant au Canada?"
+    a: "Ouvrez un compte bancaire canadien, demandez une carte de crédit sécurisée, payez chaque solde en totalité et à temps, et évitez de demander plusieurs produits de crédit en même temps. Avec une discipline constante, un bon dossier de crédit se bâtit en 12 à 24 mois."
+  - q: "Un nouvel arrivant peut-il ouvrir un CELIAPP?"
+    a: "Oui, s'il est résident du Canada aux fins de l'impôt, âgé de 18 à 71 ans, et n'a pas habité, dans l'année en cours ou les quatre années civiles précédentes, une propriété dont lui ou son conjoint étaient propriétaires, au Canada ou à l'étranger. La résidence permanente n'est pas une condition, et les droits de cotisation ne s'accumulent qu'à partir de l'ouverture du compte."
+  - q: "Combien coûte la taxe de bienvenue sur une propriété de 600 000 dollars?"
+    a: "Avec les seuils de 2026, environ 7 100 dollars au taux de base, environ 7 350 dollars à Montréal et environ 8 600 dollars à Laval, qui applique 3 % au-delà de 500 000 dollars depuis 2026. La municipalité envoie le compte quelques mois après la signature chez le notaire, payable dans les 30 jours suivant cet envoi."
+  - q: "Combien coûte une inspection préachat au Québec?"
+    a: "De 500 à 900 dollars. Un inspecteur en bâtiment qualifié, dont on vérifie le certificat RBQ ou l'association, examine la propriété et remet un rapport écrit détaillé."
 ---
 
 Pour une personne arrivée de l'étranger, le système immobilier québécois est complètement opaque: la structure hypothécaire, le cadre légal, les implications fiscales, les normes culturelles autour de la négociation. Tout est à apprendre de zéro.
