@@ -2,10 +2,29 @@
 title: "The Notary in Quebec, Step by Step"
 seo_title: "Quebec Notary Process for a Home Purchase: Steps, Who Pays"
 date: 2026-08-04
-lastmod: 2026-09-19
+lastmod: 2026-10-31
 category: "Real Estate 101"
 description: "In Quebec, you close with a notary, not a lawyer. Who chooses and pays, every step from accepted offer to keys, the adjustments, and what delays a closing."
 image: "images/articles/quebec-notary-process/featured.jpg"
+tldr:
+  - "In Quebec, article 2693 of the Civil Code requires an immovable hypothec to be made by notarial act en minute, on pain of absolute nullity, so every financed purchase goes through a notary."
+  - "Under the OACIQ promise to purchase, the buyer chooses the notary and pays for the deed of sale, its publication and the hypothec deed, while the seller pays to discharge their mortgage and provides the certificate of location."
+  - "The notary prorates to the day what the seller has prepaid, including municipal taxes (January 1 to December 31) and school tax (July 1 to June 30)."
+  - "According to Éducaloi, the clearing period for funds deposited in the notary's trust account can run up to 10 business days, and publishing the deed at the land registry takes about two to three days."
+  - "A purchase is usually signed in two appointments, the hypothec deed first and the deed of sale a few days later, and the buyer becomes the owner when the deed of sale is signed."
+faq:
+  - q: "Do you need a notary to buy a house in Quebec?"
+    a: "For a mortgage, yes: article 2693 of the Civil Code of Québec requires a notarial act en minute, on pain of absolute nullity. For the sale, the mandatory OACIQ promise to purchase also provides that the deed of sale is signed before a notary."
+  - q: "Who pays the notary when buying a house in Quebec?"
+    a: "Under the OACIQ promise to purchase, the buyer chooses the notary and pays for the deed of sale, its publication and the hypothec deed. The seller pays to discharge their mortgage, the checks needed to deliver clear title and the certificate of location. Notary fees follow no fixed tariff, so ask for a written quote."
+  - q: "How long does it take for funds to clear in the notary's trust account?"
+    a: "According to Éducaloi, the clearing period for funds deposited in trust can run up to 10 business days. Transfer early and, if the money comes from abroad, keep the statements that show its origin."
+  - q: "When do you become the owner and get the keys in Quebec?"
+    a: "You become the owner when the deed of sale is signed. Keys are usually handed over that day, unless the promise to purchase sets a later occupancy date."
+  - q: "What can delay a closing at the notary?"
+    a: "Slow financing, a certificate of location that is out of date or reveals a problem, a charge on the title such as a contractor's legal hypothec, a condo syndicate slow to provide the statement of common expenses, or funds not yet cleared."
+  - q: "Is the welcome tax paid at the notary?"
+    a: "No. The notary does not collect it at signing: the municipality sends the bill a few months later, usually payable within 30 days. You can estimate it with the [welcome tax calculator](/en/tools/welcome-tax/)."
 ---
 
 Many buyers arriving from another province or another country expect to close

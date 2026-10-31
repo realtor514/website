@@ -2,10 +2,29 @@
 title: "Heredar una propiedad en Quebec"
 seo_title: "Heredar una casa en Quebec: pasos, impuestos y venta"
 date: 2026-05-16
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 category: "Inmobiliaria 101"
 description: "¿Heredó una casa en Quebec? Liquidador, transmisión, impuestos al fallecer, impuesto de bienvenida y sus opciones: vender, recomprar o conservar."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
+tldr:
+  - "En Quebec, salvo que el testamento le dé poderes más amplios, el liquidateur no puede vender solo la casa de una sucesión: necesita el consentimiento de los herederos o, a falta de él, la autorización del tribunal."
+  - "Sin la declaración de transmisión, el acto notarial publicado en el Registre foncier du Québec que identifica a los herederos y la parte de cada uno, un inmueble heredado no se puede vender ni hipotecar."
+  - "En Canadá no existe impuesto a la herencia, pero al fallecer se considera que la persona vendió sus bienes a valor justo de mercado, y la ganancia va en sus declaraciones finales, federal y de Quebec."
+  - "Los hijos, nietos, padres y el cónyuge que heredan un inmueble están exentos del impuesto de bienvenida, aunque la ciudad puede cobrar un derecho supletorio, en general de 200 $, mientras que un hermano, una hermana, un sobrino o un amigo paga los derechos completos."
+  - "Los herederos tienen seis meses para aceptar o rechazar la sucesión, y calentar, asegurar o reparar una fuga no cuenta como aceptación."
+faq:
+  - q: "¿Se puede vender una casa heredada en Quebec sin declaración de transmisión?"
+    a: "No. Sin la declaración de transmisión, acto notarial publicado en el Registre foncier du Québec, el inmueble no se puede vender ni hipotecar: el notario del comprador necesita un título que pase del difunto a quienes firman."
+  - q: "¿Se pagan impuestos por una casa heredada en Quebec?"
+    a: "En Canadá no existe impuesto a la herencia. Al fallecer, se considera que la persona vendió sus bienes a valor justo de mercado y la ganancia va en sus declaraciones finales, pero la exención de residencia principal puede borrarla si se designa. Una casa legada al cónyuge pasa al costo, y el impuesto se difiere salvo elección contraria."
+  - q: "¿Se paga el impuesto de bienvenida por una casa heredada?"
+    a: "Hijos, nietos, padres y cónyuge están exentos, pero la ciudad puede cobrar un derecho supletorio, en general de 200 $, al que la ley le permite renunciar en caso de fallecimiento. Un hermano, una hermana, un sobrino o un amigo paga los derechos completos, calculados sobre el valor de mercado."
+  - q: "¿Hereda una pareja de hecho sin testamento en Quebec?"
+    a: "Solo si estaba en unión parental con el difunto en el momento del fallecimiento, lo que por regla general supone un hijo común nacido o adoptado desde el 30 de junio de 2025. Con hijos, el cónyuge casado, en unión civil o en unión parental recibe un tercio de la sucesión, y los hijos los dos tercios."
+  - q: "¿Hay que verificar un testamento ológrafo en Quebec?"
+    a: "Sí. Un testamento ológrafo o ante testigos debe ser verificado por el tribunal o por un notario, lo que deja la sucesión prácticamente bloqueada varias semanas. Un testamento notarial no necesita verificación."
+  - q: "¿Cuánto tiempo tienen los herederos para aceptar una sucesión en Quebec?"
+    a: "Seis meses para aceptar o rechazar la sucesión. Calentar, asegurar o reparar una fuga no cuenta como aceptación, pero un heredero que mezcla los bienes de la sucesión con los suyos antes del inventario puede responder de deudas más allá de lo que recibe."
 ---
 
 Cuando una casa forma parte de una sucesión, la primera pregunta de los herederos es casi siempre: ¿vendemos? Antes de responder hay un orden que respetar, personas concretas que pueden firmar y algunos costos que nadie ve venir.

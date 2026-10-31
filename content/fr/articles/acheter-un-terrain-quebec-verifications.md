@@ -1,13 +1,32 @@
 ---
 title: "Acheter un terrain au Québec : les vérifications"
 date: 2026-09-24
-lastmod: 2026-09-24
+lastmod: 2026-10-31
 translationKey: "article-achat-terrain-quebec"
 category: "Guide de l'acheteur"
 description: "Zonage, CPTAQ, milieux humides, puits et fosse septique, servitudes, financement : les vérifications avant d'acheter un terrain au Québec."
 image: "images/articles/acheter-un-terrain-quebec-verifications/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Au Québec, un terrain n'a aucun droit automatique à un permis de construction : l'article 116 de la Loi sur l'aménagement et l'urbanisme permet à une municipalité d'exiger un lot distinct au cadastre, l'aqueduc et les égouts ou des installations conformes, et un accès à une rue publique ou à une rue privée conforme."
+  - "En zone agricole, utiliser un lot à une fin autre que l'agriculture, y compris résidentielle, exige l'autorisation de la CPTAQ (article 26 de la Loi sur la protection du territoire et des activités agricoles)."
+  - "Sans réseau municipal, une installation septique exige un permis de la municipalité et une étude de caractérisation du site (Q-2, r. 22, articles 4 et 4.1), et le puits doit être à 15 m ou plus d'un système étanche et à 30 m ou plus d'un système non étanche (Q-2, r. 35.2, article 17)."
+  - "Le programme SCHL Améliorations ne permet aucune avance sur un terrain vacant : le terrain se paie avant, avec vos liquidités ou un prêt distinct négocié cas par cas."
+  - "La vente d'un terrain par un particulier est généralement exonérée de TPS et de TVQ, mais devient taxable notamment si le terrain a été loti en plus de deux parties ou servait principalement à une entreprise."
+faq:
+  - q: "Quelle distance faut-il entre un puits et une fosse septique au Québec ?"
+    a: "Le Règlement sur le prélèvement des eaux et leur protection (Q-2, r. 35.2, article 17) impose 15 m ou plus d'un système étanche de traitement des eaux usées, et 30 m ou plus d'un système non étanche, ou 15 m si le puits est scellé selon l'article 19. En zone inondable, le puits doit être scellé et aménagé sous la supervision d'un professionnel (article 16)."
+  - q: "Peut-on financer un terrain vacant avec un prêt assuré par la SCHL ?"
+    a: "Non. Le programme SCHL Améliorations assure une construction neuve jusqu'à 95 % de la valeur une fois les travaux faits, mais ne permet aucune avance sur un terrain vacant. Le terrain se paie donc avant, avec vos liquidités ou un prêt distinct négocié cas par cas."
+  - q: "Le vendeur dit que le terrain est « prêt à construire ». Ça vaut quoi ?"
+    a: "Rien, tant que ce n'est pas écrit par la municipalité. Demandez la confirmation du zonage et des conditions du permis par écrit, au numéro de lot."
+  - q: "Combien de temps prend une autorisation de la CPTAQ ?"
+    a: "Il n'existe pas de délai chiffré fiable : il dépend du dossier et du passage par la municipalité, par laquelle la demande transite. Traitez-le comme un délai long plutôt que de deviner, et rendez la vente conditionnelle à l'autorisation."
+  - q: "Peut-on acheter un terrain cette année et bâtir dans trois ans ?"
+    a: "Du côté du financement, oui, si vous payez le terrain autrement qu'avec un prêt assuré. Vérifiez par contre les délais de bâtir imposés par le promoteur ou la municipalité."
+  - q: "Un certificat de localisation de 2011 est-il utilisable pour acheter un terrain ?"
+    a: "Il montre l'état des lieux à cette date. Une servitude publiée depuis, une nouvelle carte d'inondation ou une opération cadastrale n'y figurent pas."
 ---
 
 Un terrain vacant se visite en cinq minutes. Ni toiture à inspecter, ni
@@ -182,26 +201,6 @@ Chaque condition nomme le document attendu, la date limite et l'effet si la
 réponse déplaît. Une clause qui dit seulement « à la satisfaction de
 l'acheteur » se négocie mal. Pour la mécanique des délais, voyez [les leviers
 de négociation](/articles/strategies-negociation-immobilier/).
-
-## Questions fréquentes
-
-**Le vendeur dit que le terrain est « prêt à construire ». Ça vaut quoi ?**
-Rien, tant que ce n'est pas écrit par la municipalité. Demandez la confirmation
-du zonage et des conditions du permis par écrit, au numéro de lot.
-
-**Combien de temps prend une autorisation de la CPTAQ ?**
-Je ne peux pas vous donner un délai chiffré fiable : il dépend du dossier et du
-passage par la municipalité. Traitez-le comme un délai long plutôt que de
-deviner.
-
-**Je peux acheter cette année et bâtir dans trois ans ?**
-Du côté du financement, oui, si vous payez le terrain autrement qu'avec un prêt
-assuré. Vérifiez par contre les délais de bâtir imposés par le promoteur ou la
-municipalité.
-
-**Le certificat de localisation du vendeur date de 2011. Utilisable ?**
-Il montre l'état des lieux à cette date. Une servitude publiée depuis, une
-nouvelle carte d'inondation ou une opération cadastrale n'y figurent pas.
 
 Pour compléter, lisez [les vérifications pour acheter à
 Laval](/articles/acheter-laval-2025/) et [ce que la brochure du neuf ne dit

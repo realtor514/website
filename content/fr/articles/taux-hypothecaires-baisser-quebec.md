@@ -1,12 +1,31 @@
 ---
 title: "Les taux hypothécaires vont-ils baisser en 2027?"
 date: 2026-10-21
-lastmod: 2026-10-30
+lastmod: 2026-10-31
 translationKey: "article-taux-hypothecaires-baisser-quebec"
 category: "Financement"
 description: "Les taux hypothécaires vont-ils baisser en 2027? Taux directeur relevé à 2,5 % le 28 octobre, prochaines annonces, obligations et quart de point à Laval."
 image: "images/articles/taux-hypothecaires-baisser-quebec/featured.jpg"
 draft: false
+tldr:
+  - "Le taux directeur de la Banque du Canada est de 2,5 % depuis le 28 octobre 2026, date d'une hausse de 0,25 point, la première depuis juillet 2023."
+  - "Le 28 octobre 2026, RBC, TD, BMO, CIBC et la Banque Nationale ont relevé leur taux préférentiel de 4,45 % à 4,70 %, à compter du 29 octobre; les prêts à taux variable suivent ce taux."
+  - "Aucune source officielle ne donne la date d'une prochaine baisse: la Banque du Canada écrit qu'une hausse additionnelle pourrait être nécessaire, et sa prochaine annonce est prévue le 9 décembre 2026."
+  - "Le taux fixe suit surtout le marché obligataire: le rendement des obligations du Canada à 5 ans est passé de 2,73 % le 29 octobre 2025 à 3,62 % le 20 octobre 2026, sans que le taux directeur bouge."
+  - "Sur une unifamiliale de Laval à 630 000 $, avec 20 % de mise de fonds et un amortissement de 25 ans, un quart de point de plus ou de moins autour de 4,49 % change le versement d'environ 70 $ par mois, soit environ 4 200 $ sur un terme de 5 ans."
+faq:
+  - q: "Les taux hypothécaires vont-ils baisser en 2027?"
+    a: "Aucune source officielle ne le dit. Dans son Rapport du 28 octobre 2026, la Banque du Canada prévoit une inflation au-dessus de 3 % pendant la majeure partie de 2027 et un retour près de 2 % vers le milieu de 2028; elle n'exclut pas d'autres hausses et n'évoque aucune baisse."
+  - q: "Pourquoi la Banque du Canada a-t-elle augmenté son taux directeur le 28 octobre 2026?"
+    a: "Pour réduire le risque que les prix élevés de l'énergie se propagent aux autres prix. L'inflation avoisine 3 % depuis avril, et la Banque l'attend vers 3,5 % à la fin de 2026. La prochaine décision est prévue le 9 décembre 2026."
+  - q: "Quand est la prochaine annonce du taux directeur de la Banque du Canada?"
+    a: "Le 9 décembre 2026, puis le 27 janvier, le 3 mars et le 28 avril 2027. La Banque annonce son taux à huit dates préétablies par an, mais peut l'ajuster à une autre date dans des circonstances particulières, comme les 13 et 27 mars 2020."
+  - q: "Si le taux directeur monte, mon taux fixe monte-t-il aussi?"
+    a: "Pas automatiquement: il dépend surtout du marché obligataire. Entre la baisse du 29 octobre 2025 et le 20 octobre 2026, le rendement à 5 ans est passé de 2,73 % à 3,62 % sans que le taux directeur bouge."
+  - q: "Mon prêt se renouvelle en 2027: taux fixe ou variable?"
+    a: "La décision vous revient, avec votre prêteur ou votre courtier hypothécaire. Le variable suit le taux préférentiel, donc les décisions de la Banque; le fixe dépend surtout du marché obligataire au moment de la signature. En juillet 2026, sur les prêts non assurés, le taux moyen était de 3,86 % en variable et de 4,49 % en fixe de 5 ans et plus."
+  - q: "Combien de temps peut-on garantir un taux hypothécaire?"
+    a: "Selon l'Agence de la consommation en matière financière du Canada (ACFC), une préapprobation permet de garantir un taux pendant 60 à 130 jours, selon le prêteur, sans garantir le prêt lui-même. Le taux garanti reste acquis si les taux montent pendant la période."
 ---
 
 Au 30 octobre 2026, le taux directeur de la Banque du Canada est de 2,5 %. La Banque l'a relevé de 0,25 point le 28 octobre, sa première hausse depuis juillet 2023, et elle écrit qu'une hausse additionnelle pourrait être nécessaire. Aucune source officielle ne donne la date d'une prochaine baisse. Ce qui se vérifie: le calendrier des annonces jusqu'à la fin de 2027, les rendements obligataires qui guident le taux fixe, la nouvelle projection d'inflation de la Banque et le coût d'un quart de point sur une maison de Laval ou de Montréal.
@@ -106,17 +125,6 @@ Briser un prêt en cours pour profiter d'une baisse? Demandez d'abord par écrit
 **La durée du terme.** Le terme fixe la date de votre prochain retour au marché: un terme de 5 ans signé à l'automne 2026 se renouvelle à l'automne 2031, un terme de 3 ans en 2029.
 
 **Le choix entre fixe et variable.** En juillet 2026, sur les prêts non assurés, l'écart moyen était de 0,63 point: 3,86 % en variable, 4,49 % en fixe de 5 ans et plus. Je suis courtier immobilier, pas courtier hypothécaire: ce choix se fait avec votre prêteur ou un courtier hypothécaire.
-
-## Questions fréquentes
-
-**Pourquoi la Banque du Canada a-t-elle monté son taux le 28 octobre 2026?**
-Pour réduire le risque que les prix élevés de l'énergie se propagent aux autres prix. L'inflation avoisine 3 % depuis avril, et la Banque l'attend vers 3,5 % à la fin de 2026. La prochaine décision est prévue le 9 décembre 2026.
-
-**Si le taux directeur monte, mon taux fixe monte-t-il aussi?**
-Pas automatiquement: il dépend surtout du marché obligataire. Entre la baisse du 29 octobre 2025 et le 20 octobre 2026, le rendement à 5 ans est passé de 2,73 % à 3,62 % sans que le taux directeur bouge.
-
-**Mon prêt se renouvelle en 2027: fixe ou variable?**
-La décision vous revient, avec votre prêteur ou votre courtier hypothécaire. Le variable suit le taux préférentiel, donc les décisions de la Banque; le fixe dépend surtout du marché obligataire au moment de la signature. Comparez deux offres datées, pour le même terme.
 
 Pour compléter, lisez [le chemin entre le taux directeur et votre versement](/articles/interest-rates-montreal-market/) et [ce qui distingue renouveler, transférer et refinancer](/articles/refinancement-hypothecaire-quebec/).
 

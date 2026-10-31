@@ -1,12 +1,29 @@
 ---
 title: "¿Cuál será la tasa de inflación en Quebec en 2027?"
 date: 2026-10-21
-lastmod: 2026-10-30
+lastmod: 2026-10-31
 translationKey: "article-inflation-quebec-immobilier"
 category: "Financiamiento"
 description: "Tasa de inflación en Quebec: 3,1 % en septiembre de 2026. Lo que Quebec y el Banco de Canadá proyectan para 2027, y el efecto en un propietario."
 image: "images/articles/inflation-quebec-immobilier/featured.jpg"
 draft: false
+tldr:
+  - "En Quebec, el índice de precios al consumidor (IPC) subió 3,1 % en un año en septiembre de 2026, según Statistique Canada; en la RMR de Montreal, 3,0 %."
+  - "Para 2027, el Ministère des Finances du Québec proyecta una inflación de 2,1 % en Quebec en su informe preelectoral del 17 de agosto de 2026, y de 1,7 % en su escenario de recesión."
+  - "El 28 de octubre de 2026, el Banco de Canadá llevó su proyección de inflación para Canadá a 3,1 % en 2027, frente a 2,0 % en julio, y subió su tasa directriz 0,25 punto, a 2,5 %."
+  - "En septiembre de 2026, el costo de la vivienda en propiedad subió 2,7 % en un año en Quebec, frente a 0,6 % en Canadá."
+  - "Desde el 1 de enero de 2026, el porcentaje de base del TAL para la fijación de los alquileres es el promedio de las tres últimas alzas anuales del IPC de Quebec: 3,1 % en 2026."
+faq:
+  - q: "¿Cuál es la tasa de inflación en Quebec en este momento?"
+    a: "3,1 % en 12 meses en septiembre de 2026, y 3,0 % en la RMR de Montreal, según el IPC difundido por Statistique Canada el 19 de octubre de 2026. La cifra de octubre está anunciada para el 16 de noviembre de 2026."
+  - q: "¿Cuál será la tasa de inflación en Quebec en 2027?"
+    a: "Ningún organismo lo sabe. El Ministère des Finances du Québec proyecta 2,1 %, y 1,7 % en su escenario de recesión, en un informe del 17 de agosto de 2026. El Banco de Canadá proyecta 3,1 % para Canadá desde su Informe del 28 de octubre de 2026, frente a 2,0 % en julio."
+  - q: "¿Publicó el TAL el porcentaje de aumento del alquiler para 2027?"
+    a: "No. El de 2027 promediará los aumentos del IPC de Quebec de 2024 (2,3 %), de 2025 (2,4 %) y de 2026, que todavía no se conoce. El porcentaje de base no es un tope: impuestos, seguros y obras se suman según el Reglamento, y un acuerdo sigue siendo posible."
+  - q: "¿Por qué la vivienda sube más rápido en Quebec que en Canadá?"
+    a: "Los datos muestran la diferencia, 3,2 % contra 1,8 % en septiembre de 2026, sin dar la causa. El Ministère des Finances cuenta con una desaceleración del crecimiento de los precios de la vivienda en 2027: es una hipótesis de proyección, no una medición."
+  - q: "¿La inflación hace subir las tasas hipotecarias?"
+    a: "El Banco de Canadá busca una inflación de 2 %, dentro de un rango de 1 a 3 %, y puede subir su tasa para impedir que la inflación supere la meta. El 28 de octubre de 2026, la llevó a 2,5 %, y los grandes bancos subieron su tasa preferencial de 4,45 % a 4,70 %. La tasa fija depende también de los mercados financieros."
 ---
 
 Nadie conoce la tasa de inflación de Quebec en 2027. Dos organismos públicos publican una proyección fechada, y Statistique Canada, la agencia federal de estadística, mide cada mes la de hoy: 3,1 % en un año en septiembre de 2026. Estas son las tres cifras que no hay que confundir, la medida, la proyectada y la que afecta a su propiedad, junto con la regla que ahora vincula la inflación con el alquiler.
@@ -90,20 +107,6 @@ Desde el 1 de enero de 2026, la inflación entra directamente en la fijación de
 **Impuestos y seguros: solo se suma la parte que supera el porcentaje de base.** El artículo 4 del Reglamento resta el porcentaje de base del alza de los impuestos prediales y de las primas de seguro contra incendio y de responsabilidad. Ejemplo ficticio: unos impuestos municipales que suben 5 %, con un porcentaje de base de 3,1 %, solo cuentan por 1,9 %, aplicado al monto mensual de los impuestos. Los gastos de capital del período de referencia se reconocen a 5 %.
 
 **Un acuerdo sigue siendo posible.** El TAL recuerda que arrendador e inquilino son libres de ponerse de acuerdo. Sin acuerdo, el arrendador tiene un mes a partir de la respuesta del inquilino para solicitar la fijación; si no lo hace, el contrato se renueva en las mismas condiciones. Se aplican reglas particulares a un inmueble construido hace cinco años o menos. Avisos y plazos: [la gestión de un inmueble de alquiler en Montreal y Laval](/es/articles/rental-property-management/).
-
-## Preguntas frecuentes
-
-**¿Cuál es la tasa de inflación en Quebec en este momento?**
-3,1 % en 12 meses en septiembre de 2026, y 3,0 % en la RMR de Montreal. La cifra de octubre está anunciada para el 16 de noviembre de 2026.
-
-**¿Cuál será la tasa de inflación en Quebec en 2027?**
-Ningún organismo lo sabe. El Ministère des Finances du Québec proyecta 2,1 %, y 1,7 % en su escenario de recesión, en un informe del 17 de agosto de 2026. El Banco de Canadá proyecta 3,1 % para Canadá desde su Informe del 28 de octubre de 2026, frente a 2,0 % en julio.
-
-**¿Publicó el TAL el porcentaje de aumento del alquiler para 2027?**
-No. El de 2027 promediará los aumentos del IPC de 2024, 2025 y 2026, y el de 2026 todavía no se conoce. El porcentaje de base no es un tope: impuestos, seguros y obras se suman según el Reglamento, y un acuerdo sigue siendo posible.
-
-**¿Por qué la vivienda sube más rápido en Quebec que en Canadá?**
-Los datos muestran la diferencia, 3,2 % contra 1,8 % en septiembre de 2026, sin dar la causa. El Ministère des Finances cuenta con una desaceleración del crecimiento de los precios de la vivienda en 2027: es una hipótesis de proyección, no una medición.
 
 Para completar, lea [cómo se calculan los impuestos municipales en Montreal y en Laval](/es/articles/property-tax-explained/) y [los costos ocultos de ser propietario en Quebec](/es/articles/hidden-homeownership-costs/).
 

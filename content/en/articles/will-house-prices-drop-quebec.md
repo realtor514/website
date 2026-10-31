@@ -1,12 +1,31 @@
 ---
 title: "Will House Prices Drop in Quebec?"
 date: 2026-10-21
-lastmod: 2026-10-30
+lastmod: 2026-10-31
 translationKey: "article-prix-maisons-baisser-quebec"
 category: "Market Analysis"
 description: "Will house prices drop in Quebec? Q3 2026 medians, CMHC and APCIQ forecasts, the signals to watch and what waiting really costs."
 image: "images/articles/prix-maisons-baisser-quebec/featured.jpg"
 draft: false
+tldr:
+  - "In Q3 2026, according to APCIQ, the median single-family price rose 2% in Quebec, to $500,000, and 2% in the Montreal CMA, to $645,500."
+  - "In the Montreal CMA, sales fell 12% in Q3 2026, a fourth consecutive quarterly decline, and active listings reached 21,793 in September 2026 (+20%)."
+  - "For 2027, CMHC forecasts an average price of $685,000 in the Montreal CMA in its baseline scenario, and $669,100 in its alternative scenario, built on inflation that stays high or heightened trade tensions."
+  - "APCIQ classifies a market as favouring sellers below 8 months of inventory, balanced from 8 to 10 months and favouring buyers beyond 10. In Q3 2026, every single-family price range in the Montreal CMA was still below 8 months."
+  - "Declines do exist elsewhere in Quebec: in the Gatineau CMA, in Q3 2026, the median price fell 3% for single-family homes and 5% for condos."
+faq:
+  - q: "Will house prices drop in Quebec in 2027?"
+    a: "No source says so with certainty. For the Montreal CMA, CMHC forecasts an average price of $685,000 in 2027 in its baseline scenario, and $669,100 in its alternative scenario. As of October 21, 2026, no APCIQ forecast for 2027 appears on its website."
+  - q: "Did house prices drop in Quebec in 2026?"
+    a: "Not at the median. In Q3 2026, according to APCIQ, the Quebec median reached $500,000 for single-family homes (+2%), $400,000 for condos (stable) and $699,000 for plexes (+8%). The Gatineau CMA is the exception, with -3% for single-family homes and -5% for condos."
+  - q: "Will house prices in Quebec keep going up?"
+    a: "In Q3 2026, they are still rising, slowly: +2% for the single-family median. APCIQ considers the drop in demand insufficient for a widespread decline, and CMHC forecasts modest increases in Quebec. These are forecasts."
+  - q: "Are real estate prices dropping in Montreal?"
+    a: "It depends on the measure. On the Island of Montreal, the single-family median fell 4% in September 2026, but it is up 2% for Q3. For condos, APCIQ places downtown and the southwest sector in surplus."
+  - q: "What is the median house price in Laval in 2026?"
+    a: "According to Centris statistics for July to September 2026, the median price in Laval was $630,000 for single-family homes (+5% over one year), $439,999 for condos (+3%) and $890,000 for plexes (+2%)."
+  - q: "Should I wait for prices to drop before buying?"
+    a: "Do the math with your own figures: your rent, the rate you are offered, the category and the sector you are targeting. On a single-family home at the Montreal CMA median price, $645,500, one point of decline is worth $6,455, while a year of average rent for a two-bedroom in the CMA comes to $16,152 according to CMHC. An owner also pays interest, taxes and maintenance: the [rent vs. buy calculator](/en/tools/rent-vs-buy/) puts those items side by side."
 ---
 
 In the third quarter of 2026, the median price of a single-family home rose 2% in Quebec as a whole, just as it did in the Montreal metropolitan area, while sales fell and supply climbed 17% to 20%. Nobody knows what comes next. CMHC (Canada Mortgage and Housing Corporation) and APCIQ (the Quebec Professional Association of Real Estate Brokers) publish dated forecasts, and both revised theirs during the year. Here are the data, those forecasts, the signals that come before a decline and what waiting actually costs.
@@ -98,20 +117,6 @@ A general decline is not the same as a decline in one segment, and the segments 
 **The rate matters too.** CMHC forecasts a posted 5-year fixed rate averaging 5.2% in 2026 and 5.4% in 2027, which is also a forecast. On October 28, 2026, the Bank of Canada raised its policy rate from 2.25% to 2.5%, and it expects housing activity to remain relatively weak; its next announcement is scheduled for December 9. For your own rate, see a mortgage broker.
 
 **For a seller who buys again, the gap is what counts.** Selling a condo at the CMA median price, $435,000, to buy a single-family home at $645,500 means a gap of $210,500. A uniform 5% drop, purely a calculation assumption, would bring that gap down to $199,975; a uniform 5% rise would push it to $221,025. But segments do not move together, as we have seen. For a seller who is not buying again, the price affects the full amount, and every month of waiting adds taxes, interest and insurance.
-
-## Frequently asked questions
-
-**Will house prices drop in Quebec in 2027?**
-No source says so with certainty. For the Montreal CMA, CMHC forecasts an average price of $685,000 in 2027 in its baseline scenario, and $669,100 in its alternative scenario. As of October 21, 2026, no APCIQ forecast for 2027 appears on its website.
-
-**Will house prices in Quebec keep going up?**
-In Q3 2026, they are still rising, slowly: +2% for the single-family median. APCIQ considers the drop in demand insufficient for a widespread decline; CMHC forecasts modest increases in Quebec. These are forecasts.
-
-**Are real estate prices dropping in Montreal?**
-It depends on the measure. On the island, the single-family median fell 4% in September, but it is up 2% for the quarter. For condos, APCIQ places downtown and the southwest in surplus.
-
-**Should I wait for a drop before buying?**
-Do the math with your own figures: your rent, the rate you are offered, the category and the sector you are targeting. On a single-family home at the CMA median price, one point of decline is worth $6,455.
 
 To go further, read [what the data say about a Montreal housing crash](/en/articles/montreal-market-crash-analysis/) and [the Montreal real estate market by borough](/en/articles/montreal-real-estate-market-by-borough/).
 

@@ -1,12 +1,31 @@
 ---
 title: "Le prix des maisons va-t-il baisser au Québec?"
 date: 2026-10-21
-lastmod: 2026-10-30
+lastmod: 2026-10-31
 translationKey: "article-prix-maisons-baisser-quebec"
 category: "Analyse de marché"
 description: "Le prix des maisons va-t-il baisser au Québec? Médianes du T3 2026, prévisions de la SCHL et de l'APCIQ, signaux à surveiller et coût d'attendre."
 image: "images/articles/prix-maisons-baisser-quebec/featured.jpg"
 draft: false
+tldr:
+  - "Au 3e trimestre 2026, selon l'APCIQ, le prix médian de l'unifamiliale a monté de 2 % au Québec, à 500 000 $, et de 2 % dans la RMR de Montréal, à 645 500 $."
+  - "Dans la RMR de Montréal, les ventes ont reculé de 12 % au 3e trimestre 2026, un quatrième recul trimestriel consécutif, et les inscriptions en vigueur atteignaient 21 793 en septembre 2026 (+20 %)."
+  - "Pour 2027, la SCHL prévoit un prix moyen de 685 000 $ dans la RMR de Montréal dans son scénario de référence, et de 669 100 $ dans son autre scénario, bâti sur une inflation élevée ou des tensions commerciales accrues."
+  - "L'APCIQ classe un marché favorable aux vendeurs sous 8 mois d'inventaire, équilibré de 8 à 10 mois et favorable aux acheteurs au-delà de 10. Au 3e trimestre 2026, toutes les gammes de prix de l'unifamiliale de la RMR de Montréal restaient sous 8 mois."
+  - "La baisse existe ailleurs au Québec: dans la RMR de Gatineau, au 3e trimestre 2026, le prix médian a reculé de 3 % pour l'unifamiliale et de 5 % pour la copropriété."
+faq:
+  - q: "Est-ce que le prix des maisons va baisser au Québec en 2027?"
+    a: "Aucune source ne le dit avec certitude. Pour la RMR de Montréal, la SCHL prévoit un prix moyen de 685 000 $ en 2027 dans son scénario de référence, et de 669 100 $ dans son autre scénario. Au 21 octobre 2026, aucune prévision de l'APCIQ pour 2027 ne figure sur son site."
+  - q: "Le prix des maisons a-t-il baissé au Québec en 2026?"
+    a: "Pas en médiane. Au 3e trimestre 2026, selon l'APCIQ, la médiane a atteint au Québec 500 000 $ pour l'unifamiliale (+2 %), 400 000 $ pour la copropriété (stable) et 699 000 $ pour le plex (+8 %). La RMR de Gatineau fait exception, avec -3 % pour l'unifamiliale et -5 % pour la copropriété."
+  - q: "Les prix des maisons au Québec vont-ils continuer d'augmenter?"
+    a: "Au 3e trimestre 2026, ils montent encore, lentement: +2 % pour la médiane de l'unifamiliale. L'APCIQ juge le recul de la demande insuffisant pour une baisse généralisée, et la SCHL prévoit de modestes hausses au Québec. Ce sont des prévisions."
+  - q: "Y a-t-il une baisse des prix de l'immobilier à Montréal?"
+    a: "Cela dépend de la mesure. Sur l'île de Montréal, la médiane de l'unifamiliale a reculé de 4 % en septembre 2026, mais elle monte de 2 % au 3e trimestre. Pour la copropriété, l'APCIQ place le centre-ville et le secteur sud-ouest en surplus."
+  - q: "Quel est le prix médian d'une maison à Laval en 2026?"
+    a: "Selon les statistiques de Centris pour juillet à septembre 2026, le prix médian à Laval était de 630 000 $ pour l'unifamiliale (+5 % sur un an), de 439 999 $ pour la copropriété (+3 %) et de 890 000 $ pour le plex (+2 %)."
+  - q: "Faut-il attendre une baisse des prix pour acheter?"
+    a: "Faites le calcul avec vos chiffres: votre loyer, le taux offert, la catégorie et le secteur visés. Sur une unifamiliale au prix médian de la RMR de Montréal, 645 500 $, un point de baisse vaut 6 455 $, alors qu'un an de loyer moyen d'un deux-chambres dans la RMR représente 16 152 $ selon la SCHL. Un propriétaire paie aussi des intérêts, des taxes et l'entretien: le [calculateur louer ou acheter](/tools/rent-vs-buy/) met ces postes côte à côte."
 ---
 
 Au 3e trimestre 2026, le prix médian de l'unifamiliale a monté de 2 % au Québec comme dans la région métropolitaine de Montréal, pendant que les ventes reculaient et que l'offre grimpait de 17 % à 20 %. Personne ne connaît la suite. La SCHL et l'APCIQ publient des prévisions datées, qu'elles ont révisées en cours d'année. Voici les données, ces prévisions, les signaux qui précèdent une baisse et ce que coûte le fait d'attendre.
@@ -98,20 +117,6 @@ Une baisse générale n'est pas une baisse dans un segment, et les segments se d
 **Le taux pèse aussi.** La SCHL prévoit un taux fixe affiché de 5 ans de 5,2 % en moyenne en 2026 et de 5,4 % en 2027, une prévision elle aussi. Le 28 octobre 2026, la Banque du Canada a relevé son taux directeur de 2,25 % à 2,5 %, et elle s'attend à une activité qui reste relativement faible dans le logement; sa prochaine annonce est prévue le 9 décembre. Pour votre taux, voyez un courtier hypothécaire.
 
 **Pour un vendeur qui rachète, c'est l'écart qui compte.** Vendre une copropriété au prix médian de la RMR, 435 000 $, pour acheter une unifamiliale à 645 500 $, c'est un écart de 210 500 $. Une baisse uniforme de 5 %, simple hypothèse de calcul, le ramènerait à 199 975 $; une hausse uniforme de 5 % le porterait à 221 025 $. Or les segments ne bougent pas ensemble, on l'a vu. Pour un vendeur qui ne rachète pas, le prix touche tout le montant, et chaque mois d'attente ajoute taxes, intérêts et assurance.
-
-## Questions fréquentes
-
-**Est-ce que le prix des maisons va baisser au Québec en 2027?**
-Aucune source ne le dit avec certitude. Pour la RMR de Montréal, la SCHL prévoit un prix moyen de 685 000 $ en 2027 dans son scénario de référence, et de 669 100 $ dans son autre scénario. Au 21 octobre 2026, aucune prévision de l'APCIQ pour 2027 ne figure sur son site.
-
-**Les prix des maisons au Québec vont-ils continuer d'augmenter?**
-Au 3e trimestre 2026, ils montent encore, lentement: +2 % pour la médiane de l'unifamiliale. L'APCIQ juge le recul de la demande insuffisant pour une baisse généralisée; la SCHL prévoit de modestes hausses au Québec. Ce sont des prévisions.
-
-**Y a-t-il une baisse des prix de l'immobilier à Montréal?**
-Cela dépend de la mesure. Sur l'île, la médiane de l'unifamiliale a reculé de 4 % en septembre, mais elle monte de 2 % au trimestre. Pour la copropriété, l'APCIQ place le centre-ville et le sud-ouest en surplus.
-
-**Faut-il attendre une baisse pour acheter?**
-Faites le calcul avec vos chiffres: votre loyer, le taux offert, la catégorie et le secteur visés. Sur une unifamiliale au prix médian de la RMR, un point de baisse vaut 6 455 $.
 
 Pour compléter, lisez [ce que les données disent d'un krach immobilier à Montréal](/articles/montreal-market-crash-analysis/) et [le marché immobilier à Montréal par arrondissement](/articles/marche-immobilier-montreal-arrondissements/).
 

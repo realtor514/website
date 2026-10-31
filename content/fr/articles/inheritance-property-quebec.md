@@ -2,10 +2,29 @@
 title: "Hériter d'une propriété au Québec"
 seo_title: "Hériter d'une maison au Québec: étapes, impôts et vente"
 date: 2026-05-16
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 category: "Immobilier 101"
 description: "Vous héritez d'une maison au Québec? Liquidateur, déclaration de transmission, impôt au décès, taxe de bienvenue, et vos options: vendre, racheter, garder."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
+tldr:
+  - "Au Québec, sauf si le testament lui donne des pouvoirs plus larges, le liquidateur ne peut pas vendre seul la maison d'une succession: il lui faut le consentement des héritiers ou, à défaut, l'autorisation du tribunal."
+  - "Sans déclaration de transmission, l'acte notarié publié au Registre foncier du Québec qui identifie les héritiers et la part de chacun, un immeuble hérité ne peut être ni vendu ni hypothéqué."
+  - "Il n'y a pas d'impôt sur l'héritage au Canada, mais au décès la personne est réputée avoir vendu ses biens à leur juste valeur marchande, et le gain se déclare sur sa déclaration finale, fédérale et québécoise."
+  - "Les enfants, petits-enfants, parents et le conjoint qui héritent d'un immeuble sont exonérés de la taxe de bienvenue, mais la ville peut exiger un droit supplétif, généralement 200 $, alors qu'un frère, une sœur, un neveu ou un ami paie les droits au complet."
+  - "Les héritiers ont six mois pour accepter ou refuser la succession, et chauffer, assurer ou réparer une fuite ne vaut pas acceptation."
+faq:
+  - q: "Peut-on vendre une maison héritée au Québec sans déclaration de transmission?"
+    a: "Non. Sans la déclaration de transmission, acte notarié publié au Registre foncier du Québec, l'immeuble ne peut être ni vendu ni hypothéqué: le notaire de l'acheteur doit voir un titre qui passe du défunt à ceux qui signent."
+  - q: "Paie-t-on de l'impôt sur une maison héritée au Québec?"
+    a: "Il n'y a pas d'impôt sur l'héritage au Canada. Au décès, la personne est réputée avoir vendu ses biens à leur juste valeur marchande et le gain se déclare sur sa déclaration finale, mais l'exemption pour résidence principale peut l'effacer si elle est désignée. Une maison léguée au conjoint passe au coût, et l'impôt est reporté sauf choix contraire."
+  - q: "Paie-t-on la taxe de bienvenue sur une maison héritée?"
+    a: "Les enfants, petits-enfants, parents et le conjoint en sont exonérés, mais la ville peut exiger un droit supplétif, généralement 200 $, auquel la loi lui permet de renoncer en cas de décès. Un frère, une sœur, un neveu ou un ami paie les droits au complet, calculés sur la valeur marchande."
+  - q: "Un conjoint de fait hérite-t-il sans testament au Québec?"
+    a: "Seulement s'il formait une union parentale avec le défunt au moment du décès, ce qui suppose en règle générale un enfant commun né ou adopté depuis le 30 juin 2025. Avec des enfants, le conjoint marié, uni civilement ou en union parentale reçoit le tiers de la succession, et les enfants les deux tiers."
+  - q: "Un testament olographe doit-il être vérifié au Québec?"
+    a: "Oui. Un testament olographe ou devant témoins doit être vérifié par le tribunal ou par un notaire, ce qui laisse la succession pratiquement bloquée plusieurs semaines. Un testament notarié ne demande aucune vérification."
+  - q: "Combien de temps les héritiers ont-ils pour accepter une succession au Québec?"
+    a: "Six mois pour accepter ou refuser la succession. Chauffer, assurer ou réparer une fuite ne vaut pas acceptation, mais un héritier qui mêle les biens de la succession aux siens avant l'inventaire peut devenir responsable des dettes au-delà de ce qu'il reçoit."
 ---
 
 Quand une maison fait partie d'une succession, la première question des héritiers est presque toujours : est-ce qu'on vend ? Avant d'y répondre, il y a un ordre à respecter, des personnes précises qui peuvent signer, et quelques coûts que personne ne voit venir.

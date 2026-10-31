@@ -1,13 +1,32 @@
 ---
 title: "Comprar un terreno en Quebec: las verificaciones"
 date: 2026-09-24
-lastmod: 2026-09-24
+lastmod: 2026-10-31
 translationKey: "article-achat-terrain-quebec"
 category: "Guía del Comprador"
 description: "Zonificación, CPTAQ, humedales, pozo y fosa séptica, servidumbres y financiamiento: las verificaciones antes de comprar un terreno en Quebec."
 image: "images/articles/acheter-un-terrain-quebec-verifications/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "En Quebec, ningún terreno tiene derecho automático a un permiso de construcción: el artículo 116 de la Loi sur l'aménagement et l'urbanisme permite a un municipio exigir un lote distinto en el catastro, acueducto y alcantarillado o instalaciones conformes, y acceso a una calle pública o a una calle privada conforme."
+  - "En zona agrícola, usar un lote para un fin distinto de la agricultura, incluido el residencial, exige la autorización de la CPTAQ (artículo 26 de la Loi sur la protection du territoire et des activités agricoles)."
+  - "Sin red municipal, una instalación séptica exige un permiso del municipio y un estudio de caracterización del sitio (Q-2, r. 22, artículos 4 y 4.1), y el pozo debe estar a 15 m o más de un sistema estanco y a 30 m o más de un sistema no estanco (Q-2, r. 35.2, artículo 17)."
+  - "El programa CMHC Mejoras (SCHL Améliorations) no permite ningún anticipo sobre un terreno vacante: el terreno se paga antes, con su liquidez o con un préstamo aparte negociado caso por caso."
+  - "La venta de un predio por un particular está generalmente exenta de TPS y TVQ, pero se vuelve gravable, en particular, si el terreno fue fraccionado en más de dos partes o servía principalmente a una empresa."
+faq:
+  - q: "¿Qué distancia debe haber entre un pozo y una fosa séptica en Quebec?"
+    a: "El Règlement sur le prélèvement des eaux et leur protection (Q-2, r. 35.2, artículo 17) impone 15 m o más de un sistema estanco de tratamiento de aguas residuales, y 30 m o más de un sistema no estanco, o 15 m si el pozo está sellado conforme al artículo 19. En zona inundable, el pozo debe estar sellado y acondicionado bajo la supervisión de un profesional (artículo 16)."
+  - q: "¿Se puede financiar un terreno vacante con un préstamo asegurado por la SCHL?"
+    a: "No. El programa CMHC Mejoras asegura una construcción nueva hasta el 95 % del valor una vez terminadas las obras, pero no permite ningún anticipo sobre un terreno vacante. El terreno se paga entonces antes, con su liquidez o con un préstamo aparte negociado caso por caso."
+  - q: "El vendedor dice que el terreno está « listo para construir ». ¿Cuánto vale eso?"
+    a: "Nada, mientras no lo escriba el municipio. Pida por escrito la confirmación de la zonificación y de las condiciones del permiso, por número de lote."
+  - q: "¿Cuánto tarda una autorización de la CPTAQ?"
+    a: "No existe un plazo cifrado confiable: depende del expediente y del paso por el municipio, por el que pasa la solicitud. Trátelo como un plazo largo en lugar de adivinarlo, y condicione la venta a la autorización."
+  - q: "¿Puedo comprar un terreno este año y construir dentro de tres años?"
+    a: "Del lado del financiamiento, sí, si paga el terreno de otra manera que con un préstamo asegurado. Verifique en cambio los plazos para construir impuestos por el promotor o por el municipio."
+  - q: "¿Sirve un certificat de localisation de 2011 para comprar un terreno?"
+    a: "Muestra el estado del lugar en esa fecha. Una servidumbre publicada desde entonces, un nuevo mapa de inundación o una operación catastral no figuran ahí."
 ---
 
 Un terreno vacante se visita en cinco minutos. No hay techo que inspeccionar ni
@@ -187,27 +206,6 @@ Cada condición nombra el documento esperado, la fecha límite y el efecto si la
 respuesta no le gusta. Una cláusula que solo dice "a satisfacción del
 comprador" se negocia mal. Para la mecánica de los plazos, vea [las palancas de
 negociación](/es/articles/strategies-negociation-immobilier-montreal/).
-
-## Preguntas frecuentes
-
-**El vendedor dice que el terreno está "listo para construir". ¿Cuánto vale
-eso?**
-Nada, mientras no lo escriba el municipio. Pida por escrito la confirmación de
-la zonificación y de las condiciones del permiso, por número de lote.
-
-**¿Cuánto tarda una autorización de la CPTAQ?**
-No puedo darle un plazo cifrado confiable: depende del expediente y del paso
-por el municipio. Trátelo como un plazo largo en lugar de adivinarlo.
-
-**¿Puedo comprar este año y construir dentro de tres años?**
-Del lado del financiamiento, sí, si paga el terreno de otra manera que con un
-préstamo asegurado. Verifique en cambio los plazos para construir impuestos por
-el promotor o por el municipio.
-
-**El certificat de localisation del vendedor es de 2011. ¿Sirve?**
-Muestra el estado del lugar en esa fecha. Una servidumbre publicada desde
-entonces, un nuevo mapa de inundación o una operación catastral no figuran
-ahí.
 
 Para completar, lea [las verificaciones para comprar en
 Laval](/es/articles/comprar-en-laval-2025/) y [lo que el folleto de la obra

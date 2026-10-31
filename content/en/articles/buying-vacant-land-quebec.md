@@ -1,13 +1,32 @@
 ---
 title: "Buying Vacant Land in Quebec: The Checks to Make First"
 date: 2026-09-24
-lastmod: 2026-09-24
+lastmod: 2026-10-31
 translationKey: "article-achat-terrain-quebec"
 category: "Buyer's Guide"
 description: "Zoning, CPTAQ, wetlands, well and septic system, servitudes, financing: the checks to make before buying vacant land in Quebec."
 image: "images/articles/acheter-un-terrain-quebec-verifications/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "In Quebec, no lot carries an automatic right to a building permit: section 116 of the Loi sur l'aménagement et l'urbanisme allows a municipality to require a distinct lot on the cadastral plan, water and sewer services or compliant systems, and access to a public street or a compliant private street."
+  - "In an agricultural zone, using a lot for a purpose other than agriculture, residential use included, requires the authorization of the CPTAQ (section 26 of the Loi sur la protection du territoire et des activités agricoles)."
+  - "Without a municipal network, a septic system requires a municipal permit and a site characterization study (Q-2, r. 22, sections 4 and 4.1), and the well must be 15 m or more from a sealed system and 30 m or more from a non-sealed system (Q-2, r. 35.2, section 17)."
+  - "The CMHC Improvement program (SCHL Améliorations) permits no advance on vacant land: the land gets paid for beforehand, out of your own cash or with a separate loan negotiated case by case."
+  - "The sale of land by an individual is generally exempt from GST and QST, but it becomes taxable notably if the land has been subdivided into more than two parts or was used primarily in a business."
+faq:
+  - q: "How far must a well be from a septic system in Quebec?"
+    a: "The Règlement sur le prélèvement des eaux et leur protection (Q-2, r. 35.2, section 17) requires 15 m or more from a sealed wastewater treatment system, and 30 m or more from a non-sealed system, or 15 m if the well is sealed in accordance with section 19. In a flood zone, the well must be sealed and installed under the supervision of a professional (section 16)."
+  - q: "Can you finance vacant land with a CMHC-insured loan?"
+    a: "No. The CMHC Improvement program insures new construction up to 95% of the value once the work is done, but permits no advance on vacant land. The land therefore gets paid for beforehand, out of your own cash or with a separate loan negotiated case by case."
+  - q: "The seller says the land is 'ready to build'. What is that worth?"
+    a: "Nothing, as long as the municipality has not written it down. Ask for written confirmation of the zoning and of the permit conditions, by lot number."
+  - q: "How long does a CPTAQ authorization take?"
+    a: "There is no reliable figure: it depends on the file and on the passage through the municipality, which the application goes through. Treat it as a long delay rather than guess at one, and make the sale conditional on the authorization."
+  - q: "Can I buy land this year and build in three years?"
+    a: "On the financing side, yes, provided you pay for the land other than with an insured loan. Check the deadlines to build imposed by the developer or the municipality, though."
+  - q: "Is a certificat de localisation from 2011 usable when buying land?"
+    a: "It shows the state of the premises on that date. A servitude published since, a new flood map or a cadastral operation do not appear on it."
 ---
 
 A vacant lot takes five minutes to visit. No roof to inspect, no foundation to
@@ -181,25 +200,6 @@ Every condition names the document expected, the deadline and the effect if the
 answer displeases you. A clause that says only "to the buyer's satisfaction"
 negotiates badly. For the mechanics of deadlines, see [the negotiation
 levers](/en/articles/strategies-negociation-immobilier-montreal/).
-
-## Frequently asked questions
-
-**The seller says the land is "ready to build". What is that worth?**
-Nothing, as long as the municipality has not written it down. Ask for written
-confirmation of the zoning and of the permit conditions, by lot number.
-
-**How long does a CPTAQ authorization take?**
-I cannot give you a reliable figure: it depends on the file and on the passage
-through the municipality. Treat it as a long delay rather than guess at one.
-
-**Can I buy this year and build in three years?**
-On the financing side, yes, provided you pay for the land other than with an
-insured loan. Check the deadlines to build imposed by the developer or the
-municipality, though.
-
-**The seller's certificat de localisation dates from 2011. Usable?**
-It shows the state of the premises on that date. A servitude published since, a
-new flood map or a cadastral operation do not appear on it.
 
 To go further, read [the checks for buying in
 Laval](/en/articles/buying-in-laval-2025/) and [what the new build brochure does

@@ -1,12 +1,31 @@
 ---
 title: "¿Bajarán las tasas hipotecarias en 2027?"
 date: 2026-10-21
-lastmod: 2026-10-30
+lastmod: 2026-10-31
 translationKey: "article-taux-hypothecaires-baisser-quebec"
 category: "Financiamiento"
 description: "¿Bajarán las tasas hipotecarias en 2027? El Banco de Canadá subió su tasa a 2,5 % el 28 de octubre: próximas fechas, bonos y un cuarto de punto en Laval."
 image: "images/articles/taux-hypothecaires-baisser-quebec/featured.jpg"
 draft: false
+tldr:
+  - "La tasa directriz del Banco de Canadá es de 2,5 % desde el 28 de octubre de 2026, fecha de un alza de 0,25 punto, la primera desde julio de 2023."
+  - "El 28 de octubre de 2026, RBC, TD, BMO, CIBC y el Banco Nacional subieron su tasa preferencial de 4,45 % a 4,70 %, a partir del 29 de octubre; los préstamos a tasa variable siguen esa tasa."
+  - "Ninguna fuente oficial da la fecha de una próxima baja: el Banco de Canadá escribe que podría ser necesaria una nueva alza, y su próximo anuncio está previsto para el 9 de diciembre de 2026."
+  - "La tasa fija sigue sobre todo al mercado de bonos: el rendimiento de los bonos de Canadá a 5 años pasó de 2,73 % el 29 de octubre de 2025 a 3,62 % el 20 de octubre de 2026, sin que la tasa directriz se moviera."
+  - "Sobre una casa unifamiliar de Laval de 630 000 $, con un pago inicial del 20 % y una amortización de 25 años, un cuarto de punto más o menos en torno a 4,49 % cambia el pago en unos 70 $ al mes, es decir unos 4 200 $ en un plazo de 5 años."
+faq:
+  - q: "¿Bajarán las tasas hipotecarias en 2027?"
+    a: "Ninguna fuente oficial lo dice. En su Informe del 28 de octubre de 2026, el Banco de Canadá prevé una inflación por encima del 3 % durante la mayor parte de 2027 y un regreso cerca del 2 % hacia mediados de 2028; no descarta otras alzas y no menciona ninguna baja."
+  - q: "¿Por qué el Banco de Canadá subió su tasa directriz el 28 de octubre de 2026?"
+    a: "Para reducir el riesgo de que los precios elevados de la energía se propaguen a los demás precios. La inflación ronda el 3 % desde abril, y el Banco la espera cerca de 3,5 % a fines de 2026. La próxima decisión está prevista para el 9 de diciembre de 2026."
+  - q: "¿Cuándo es el próximo anuncio de la tasa directriz del Banco de Canadá?"
+    a: "El 9 de diciembre de 2026, y luego el 27 de enero, el 3 de marzo y el 28 de abril de 2027. El Banco anuncia su tasa en ocho fechas fijadas de antemano cada año, pero puede ajustarla en otra fecha en circunstancias particulares, como lo hizo el 13 y el 27 de marzo de 2020."
+  - q: "Si la tasa directriz sube, ¿sube también mi tasa fija?"
+    a: "No automáticamente: depende sobre todo del mercado de bonos. Entre la baja del 29 de octubre de 2025 y el 20 de octubre de 2026, el rendimiento a 5 años pasó de 2,73 % a 3,62 % sin que la tasa directriz se moviera."
+  - q: "Mi préstamo se renueva en 2027: ¿tasa fija o variable?"
+    a: "La decisión le corresponde a usted, con su prestamista o su corredor hipotecario. La variable sigue la tasa preferencial, y por lo tanto las decisiones del Banco; la fija depende sobre todo del mercado de bonos en el momento de la firma. En julio de 2026, sobre los préstamos no asegurados, la tasa promedio era de 3,86 % en variable y de 4,49 % en fija a 5 años o más."
+  - q: "¿Durante cuánto tiempo se puede garantizar una tasa hipotecaria?"
+    a: "Según la Agencia de Consumo en Materia Financiera de Canadá (ACFC), una preaprobación permite garantizar una tasa durante 60 a 130 días, según el prestamista, sin garantizar el préstamo en sí. La tasa garantizada se mantiene si las tasas suben durante ese período."
 ---
 
 Al 30 de octubre de 2026, la tasa directriz del Banco de Canadá es de 2,5 %. El Banco la subió 0,25 punto el 28 de octubre, su primera alza desde julio de 2023, y escribe que podría ser necesaria una nueva alza. Ninguna fuente oficial da la fecha de una próxima baja. Lo que sí se puede verificar: el calendario de anuncios hasta finales de 2027, los rendimientos de los bonos que orientan la tasa fija, la nueva proyección de inflación del Banco y el costo de un cuarto de punto sobre una casa en Laval o en Montreal.
@@ -106,17 +125,6 @@ Dos reservas. El informe no da ninguna cifra para Quebec ni para Montreal. Y sus
 **La duración del plazo.** El plazo fija la fecha de su próximo regreso al mercado: un plazo de 5 años firmado en el otoño de 2026 se renueva en el otoño de 2031, un plazo de 3 años en 2029.
 
 **La elección entre fija y variable.** En julio de 2026, sobre los préstamos no asegurados, la diferencia promedio era de 0,63 punto: 3,86 % en variable, 4,49 % en fija a 5 años o más. Soy corredor inmobiliario, no corredor hipotecario: esta elección se hace con su prestamista o con un corredor hipotecario.
-
-## Preguntas frecuentes
-
-**¿Por qué el Banco de Canadá subió su tasa el 28 de octubre de 2026?**
-Para reducir el riesgo de que los precios elevados de la energía se propaguen a los demás precios. La inflación ronda el 3 % desde abril, y el Banco la espera cerca de 3,5 % a fines de 2026. La próxima decisión está prevista para el 9 de diciembre de 2026.
-
-**Si la tasa directriz sube, ¿sube también mi tasa fija?**
-No automáticamente: depende sobre todo del mercado de bonos. Entre la baja del 29 de octubre de 2025 y el 20 de octubre de 2026, el rendimiento a 5 años pasó de 2,73 % a 3,62 % sin que la tasa directriz se moviera.
-
-**Mi préstamo se renueva en 2027: ¿fija o variable?**
-La decisión le corresponde a usted, con su prestamista o su corredor hipotecario. La variable sigue la tasa preferencial, y por lo tanto las decisiones del Banco; la fija depende sobre todo del mercado de bonos en el momento de la firma. Compare dos ofertas fechadas, para el mismo plazo.
 
 Para completar, lea [el camino entre la tasa directriz y su pago](/es/articles/interest-rates-montreal-market/) y [lo que distingue renovar, transferir y refinanciar](/es/articles/refinanciamiento-hipotecario-quebec/).
 

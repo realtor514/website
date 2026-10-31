@@ -2,12 +2,31 @@
 title: "Mercado inmobiliario de Laval por sector: T3 2026"
 seo_title: "Precio de las casas en Laval por barrio (T3 2026)"
 date: 2026-10-19
-lastmod: 2026-10-19
+lastmod: 2026-10-31
 translationKey: "article-marche-immobilier-laval-secteurs"
 category: "Análisis de Mercado"
 description: "Mercado inmobiliario de Laval en el tercer trimestre de 2026: 848 ventas, unifamiliar con mediana de 630 000 $, condominio a 439 999 $. Cifras de Centris."
 image: "images/articles/marche-immobilier-laval-secteurs/featured.jpg"
 draft: false
+tldr:
+  - "En el tercer trimestre de 2026, de julio a septiembre, Centris contabiliza 848 ventas residenciales en Laval, un 15 % menos que un año antes, y un precio mediano de la unifamiliar de 630 000 $, con un alza del 5 %."
+  - "En Laval, en el tercer trimestre de 2026, el condominio tiene un precio mediano de 439 999 $ (+3 %) sobre 236 ventas (-26 %), y el plex de 2 a 5 viviendas, de 890 000 $ (+2 %) sobre 65 ventas (-20 %), según Centris."
+  - "Sobre cuatro trimestres, la mediana unifamiliar más alta de Laval está en Sainte-Dorothée (756 787 $) y la más baja en Laval-Ouest (479 312 $), según Centris para el tercer trimestre de 2026."
+  - "Sainte-Rose es el único barrio de Laval donde Centris publica un alza de las ventas en el tercer trimestre de 2026, +21 %, mientras que retroceden un 28 % en Laval-des-Rapides."
+  - "Chomedey concentra el condominio en Laval: 114 de los 236 condominios vendidos en el tercer trimestre de 2026, y 556 de los 1 262 sobre cuatro trimestres."
+faq:
+  - q: "¿Cuál es el precio mediano de una casa en Laval en 2026?"
+    a: "En el tercer trimestre de 2026, de julio a septiembre, el precio mediano de la unifamiliar en Laval es de 630 000 $, un 5 % más que un año antes, según Centris. El del condominio es de 439 999 $ (+3 %) y el del plex de 2 a 5 viviendas, de 890 000 $ (+2 %)."
+  - q: "¿Qué barrio de Laval tiene el precio mediano más alto?"
+    a: "Depende del período. Para la unifamiliar, entre los barrios donde Centris publica una mediana: Duvernay en el tercer trimestre de 2026 (735 000 $), Sainte-Dorothée sobre cuatro trimestres (756 787 $). Laval-sur-le-Lac no tiene ninguna mediana publicada."
+  - q: "¿Bajan los precios de las casas en Laval?"
+    a: "Las medianas de Centris suben en el tercer trimestre de 2026: +5 % para la unifamiliar, +3 % para el condominio, +2 % para el plex. Dos excepciones: sobre cuatro trimestres, la mediana unifamiliar retrocede en Pont-Viau (-7 %) y en Laval-Ouest (-4 %); solo en septiembre, la del condominio retrocede un 5 % según la APCIQ. Son medidas del pasado: ninguna de estas series dice lo que harán los precios."
+  - q: "¿El mercado inmobiliario de Laval favorece a los vendedores?"
+    a: "Para la unifamiliar, el barómetro de la APCIQ del tercer trimestre de 2026 clasifica todas las gamas de precio de Laval como mercado de vendedor, desde 1,7 meses de inventario por debajo de 320 000 $ hasta 7,2 meses a partir de 950 000 $, sobre los últimos 12 meses; el umbral de equilibrio empieza en 8 meses. Para el condominio, la APCIQ ve a Laval acercarse al equilibrio."
+  - q: "¿Por qué Centris no muestra ningún precio para mi barrio?"
+    a: "Porque las ventas son demasiado pocas para una estadística confiable. El acumulado de los cuatro últimos trimestres toma entonces el relevo cuando existe: en Pont-Viau, 8 unifamiliares vendidas en el trimestre no dan mediana; los cuatro últimos trimestres, sí. Si no, quedan las ventas comparables."
+  - q: "¿Cuál es la tasa del impuesto de bienvenida en Laval?"
+    a: "En 2026, Laval aplica el 0,5 %, el 1 % y el 1,5 % sobre los tramos hasta 500 000 $, y luego el 3 % a partir de 500 001 $. En el ejemplo publicado por la Ciudad, una propiedad pagada 650 000 $ e inscrita en el rol a 650 000 $ tributa sobre 669 500 $ (650 000 $ x 1,03), lo que da 10 695,50 $ de derechos."
 ---
 
 En el tercer trimestre de 2026, Centris, el sistema de inscripciones de los corredores inmobiliarios de Quebec, contabiliza 848 ventas residenciales en Laval, un 15 % menos que un año antes, mientras el precio mediano de la unifamiliar sube un 5 %, a 630 000 $. Esa cifra única esconde barrios que no se mueven juntos: las ventas retroceden un 28 % en Laval-des-Rapides y avanzan un 21 % en Sainte-Rose. Estos son los 13 barrios que Centris sigue en Laval, uno al lado del otro, y lo que esos datos no dicen.
@@ -119,20 +138,6 @@ La Ciudad de Laval divide su territorio en seis sectores de ordenamiento, cada u
 **Dos fuentes, dos cifras.** El barómetro de la APCIQ, que también sale del sistema Centris, cuenta 849 ventas en Laval en el trimestre (-16 %), contra 848 (-15 %) en la página de Centris consultada el mismo día. Las tablas de este artículo no mezclan las dos.
 
 **« Sector » no tiene el mismo sentido en todas partes.** El barómetro de la APCIQ agrupa, por ejemplo, Chomedey, Laval-des-Rapides y Pont-Viau en un solo sector « Centre-Ville de Laval », y Laval-Ouest con Fabreville. Verifique el territorio antes de comparar dos cifras.
-
-## Preguntas frecuentes
-
-**¿Qué barrio de Laval tiene el precio mediano más alto?**
-Depende del período. Para la unifamiliar, entre los barrios donde Centris publica una mediana: Duvernay en el tercer trimestre de 2026 (735 000 $), Sainte-Dorothée sobre cuatro trimestres (756 787 $). Laval-sur-le-Lac no tiene ninguna mediana publicada.
-
-**¿Bajan los precios en Laval?**
-Las medianas de Centris suben en el tercer trimestre de 2026: +5 % para la unifamiliar, +3 % para el condominio, +2 % para el plex. Dos excepciones: sobre cuatro trimestres, la mediana unifamiliar retrocede en Pont-Viau (-7 %) y en Laval-Ouest (-4 %); solo en septiembre, la del condominio retrocede un 5 % según la APCIQ. Son medidas del pasado: ninguna de estas series dice lo que harán los precios.
-
-**¿El mercado de Laval favorece a los vendedores?**
-Para la unifamiliar, el barómetro de la APCIQ del tercer trimestre de 2026 clasifica todas las gamas de precio de Laval como mercado de vendedor, desde 1,7 meses de inventario por debajo de 320 000 $ hasta 7,2 meses a partir de 950 000 $, sobre los últimos 12 meses. El umbral de equilibrio empieza en 8 meses. Para el condominio, la APCIQ ve a Laval acercarse al equilibrio.
-
-**¿Por qué Centris no muestra ningún precio para mi barrio?**
-Porque las ventas son demasiado pocas para una estadística confiable. El acumulado de los cuatro últimos trimestres toma entonces el relevo cuando existe: en Pont-Viau, 8 unifamiliares vendidas en el trimestre no dan mediana; los cuatro últimos trimestres, sí. Si no, quedan las ventas comparables.
 
 Para completar, lea [cómo se calcula el impuesto de bienvenida](/es/articles/welcome-tax-quebec-guide/) y [cómo impugnar su evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
 

@@ -1,12 +1,31 @@
 ---
 title: "¿Bajarán los precios de las casas en Quebec?"
 date: 2026-10-21
-lastmod: 2026-10-30
+lastmod: 2026-10-31
 translationKey: "article-prix-maisons-baisser-quebec"
 category: "Análisis de Mercado"
 description: "¿Bajarán los precios de las casas en Quebec? Medianas del T3 2026, previsiones de la SCHL y de la APCIQ, señales a vigilar y el costo de esperar."
 image: "images/articles/prix-maisons-baisser-quebec/featured.jpg"
 draft: false
+tldr:
+  - "En el tercer trimestre de 2026, según la APCIQ, el precio mediano de la casa unifamiliar subió un 2 % en Quebec, a 500 000 $, y un 2 % en la RMR de Montreal, a 645 500 $."
+  - "En la RMR de Montreal, las ventas retrocedieron un 12 % en el tercer trimestre de 2026, su cuarto retroceso trimestral consecutivo, y las inscripciones vigentes llegaron a 21 793 en septiembre de 2026 (+20 %)."
+  - "Para 2027, la SCHL prevé un precio promedio de 685 000 $ en la RMR de Montreal en su escenario de referencia, y de 669 100 $ en su otro escenario, construido sobre una inflación alta o mayores tensiones comerciales."
+  - "La APCIQ clasifica un mercado como favorable a los vendedores por debajo de 8 meses de inventario, equilibrado de 8 a 10 meses y favorable a los compradores por encima de 10. En el tercer trimestre de 2026, todos los rangos de precios de la unifamiliar de la RMR de Montreal seguían por debajo de 8 meses."
+  - "La baja existe en otras partes de Quebec: en la RMR de Gatineau, en el tercer trimestre de 2026, el precio mediano retrocedió un 3 % para la unifamiliar y un 5 % para el condominio."
+faq:
+  - q: "¿Va a bajar el precio de las casas en Quebec en 2027?"
+    a: "Ninguna fuente lo dice con certeza. Para la RMR de Montreal, la SCHL prevé un precio promedio de 685 000 $ en 2027 en su escenario de referencia, y de 669 100 $ en su otro escenario. Al 21 de octubre de 2026, ninguna previsión de la APCIQ para 2027 figura en su sitio web."
+  - q: "¿Bajó el precio de las casas en Quebec en 2026?"
+    a: "No en mediana. En el tercer trimestre de 2026, según la APCIQ, la mediana en Quebec alcanzó 500 000 $ para la unifamiliar (+2 %), 400 000 $ para el condominio (estable) y 699 000 $ para el plex (+8 %). La RMR de Gatineau es la excepción, con -3 % para la unifamiliar y -5 % para el condominio."
+  - q: "¿Los precios de las casas en Quebec van a seguir subiendo?"
+    a: "En el tercer trimestre de 2026 todavía suben, lentamente: +2 % para la mediana de la unifamiliar. La APCIQ considera que el retroceso de la demanda no basta para una baja generalizada, y la SCHL prevé modestas subidas en Quebec. Son previsiones."
+  - q: "¿Están bajando los precios inmobiliarios en Montreal?"
+    a: "Depende de la medida. En la isla de Montreal, la mediana de la unifamiliar retrocedió un 4 % en septiembre de 2026, pero sube un 2 % en el tercer trimestre. Para el condominio, la APCIQ sitúa el centro de la ciudad y el sector suroeste en excedente."
+  - q: "¿Cuál es el precio mediano de una casa en Laval en 2026?"
+    a: "Según las estadísticas de Centris de julio a septiembre de 2026, el precio mediano en Laval era de 630 000 $ para la unifamiliar (+5 % en un año), de 439 999 $ para el condominio (+3 %) y de 890 000 $ para el plex (+2 %)."
+  - q: "¿Conviene esperar una baja de precios para comprar?"
+    a: "Haga el cálculo con sus propias cifras: su alquiler, la tasa que le ofrecen, la categoría y el sector que busca. En una unifamiliar al precio mediano de la RMR de Montreal, 645 500 $, un punto de baja vale 6 455 $, mientras que un año de alquiler promedio de un apartamento de dos habitaciones en la RMR representa 16 152 $ según la SCHL. Un propietario también paga intereses, impuestos y mantenimiento: la [calculadora alquilar o comprar](/es/tools/rent-vs-buy/) pone esos rubros lado a lado."
 ---
 
 En el tercer trimestre de 2026, el precio mediano de la casa unifamiliar subió un 2 % en Quebec, igual que en la región metropolitana de Montreal, mientras las ventas retrocedían y la oferta crecía entre un 17 % y un 20 %. Nadie sabe lo que vendrá. La SCHL (Société canadienne d'hypothèques et de logement, la agencia federal de vivienda) y la APCIQ (la asociación profesional de corredores inmobiliarios de Quebec) publican previsiones fechadas, que revisaron en el curso del año. Estos son los datos, esas previsiones, las señales que preceden a una baja y lo que cuesta esperar.
@@ -98,20 +117,6 @@ Una baja general no es una baja en un segmento, y los segmentos se distienden a 
 **La tasa también pesa.** La SCHL prevé una tasa fija publicada a 5 años de 5,2 % en promedio en 2026 y de 5,4 % en 2027, que también es una previsión. El 28 de octubre de 2026, el Banco de Canadá subió su tasa directora de 2,25 % a 2,5 %, y espera que la actividad en la vivienda siga relativamente débil; su próximo anuncio está previsto para el 9 de diciembre. Para conocer su tasa, consulte a un corredor hipotecario.
 
 **Para un vendedor que vuelve a comprar, lo que cuenta es la diferencia.** Vender un condominio al precio mediano de la RMR, 435 000 $, para comprar una unifamiliar a 645 500 $ supone una diferencia de 210 500 $. Una baja uniforme del 5 %, simple hipótesis de cálculo, la reduciría a 199 975 $; una subida uniforme del 5 % la llevaría a 221 025 $. Pero los segmentos no se mueven juntos, como vimos. Para un vendedor que no vuelve a comprar, el precio afecta a todo el monto, y cada mes de espera suma impuestos, intereses y seguro.
-
-## Preguntas frecuentes
-
-**¿Va a bajar el precio de las casas en Quebec en 2027?**
-Ninguna fuente lo dice con certeza. Para la RMR de Montreal, la SCHL prevé un precio promedio de 685 000 $ en 2027 en su escenario de referencia, y de 669 100 $ en su otro escenario. Al 21 de octubre de 2026, ninguna previsión de la APCIQ para 2027 figura en su sitio web.
-
-**¿Los precios de las casas en Quebec van a seguir subiendo?**
-En el tercer trimestre de 2026 todavía suben, lentamente: +2 % para la mediana de la unifamiliar. La APCIQ considera que el retroceso de la demanda no basta para una baja generalizada; la SCHL prevé modestas subidas en Quebec. Son previsiones.
-
-**¿Están bajando los precios inmobiliarios en Montreal?**
-Depende de la medida. En la isla, la mediana de la unifamiliar retrocedió un 4 % en septiembre, pero sube un 2 % en el trimestre. Para el condominio, la APCIQ sitúa el centro de la ciudad y el suroeste en excedente.
-
-**¿Conviene esperar una baja para comprar?**
-Haga el cálculo con sus propias cifras: su alquiler, la tasa que le ofrecen, la categoría y el sector que busca. En una unifamiliar al precio mediano de la RMR, un punto de baja vale 6 455 $.
 
 Para completar, lea [lo que dicen los datos sobre un desplome inmobiliario en Montreal](/es/articles/montreal-market-crash-analysis/) y [el mercado inmobiliario de Montreal por distrito](/es/articles/mercado-inmobiliario-montreal-por-distrito/).
 

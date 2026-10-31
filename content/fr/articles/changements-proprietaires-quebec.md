@@ -1,13 +1,32 @@
 ---
 title: "Quels changements pour les propriétaires au Québec en 2027?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-31
 translationKey: "article-changements-proprietaires-quebec"
 category: "Immobilier 101"
 description: "Changements pour les propriétaires au Québec en 2027: piscine, loyers, rôle de Laval, acheteurs étrangers. Chaque date vient d'un texte adopté."
 image: "images/articles/changements-proprietaires-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Une piscine résidentielle installée avant le 1er novembre 2010 doit être conforme au plus tard le 30 septembre 2027, selon l'article 10 du Règlement sur la sécurité des piscines résidentielles. L'amende va de 500 $ à 700 $."
+  - "À compter du 1er janvier 2027, les seuils des droits de mutation passent de 62 900 $ et 315 000 $ à 64 400 $ et 322 600 $, après une indexation de 2,4173 % confirmée par le MAMH le 31 juillet 2026."
+  - "L'abrogation de l'interdiction fédérale d'achat par des non-Canadiens, en vigueur depuis le 1er janvier 2023, est prévue pour le 1er janvier 2027. Une loi peut encore changer cette date."
+  - "Laval dépose son rôle d'évaluation 2028-2029-2030 entre le 15 août et le 15 septembre 2027. Il reflétera le marché du 1er juillet 2026, et la demande de révision devra être déposée avant le 1er mai 2028."
+  - "Les syndicats de copropriété ont jusqu'au 15 août 2028 pour établir le carnet d'entretien et obtenir une première étude du fonds de prévoyance, mais l'attestation du syndicat est exigée depuis le 14 août 2025."
+faq:
+  - q: "Quelle est la date limite pour mettre une piscine aux normes au Québec?"
+    a: "Le 30 septembre 2027, pour toute piscine installée avant le 1er novembre 2010, selon l'article 10 du Règlement sur la sécurité des piscines résidentielles. L'obligation suit l'installation: si vous vendez avant, elle passe à l'acheteur, et la question se règle à l'offre. L'amende va de 500 $ à 700 $."
+  - q: "L'évaluation municipale change-t-elle en 2027 à Laval et à Montréal?"
+    a: "Pas par un nouveau rôle: à Laval comme à Montréal, le rôle en vigueur couvre 2027, et le compte de taxes varie surtout avec le taux du budget. Le prochain rôle de Laval, déposé entre le 15 août et le 15 septembre 2027, s'appliquera à partir de 2028."
+  - q: "Quand faut-il envoyer l'avis d'augmentation de loyer pour un bail qui finit le 30 juin 2027?"
+    a: "Entre janvier et la fin de mars 2027. Pour un bail de 12 mois ou plus, l'article 1942 du Code civil exige un avis donné au moins trois mois, mais pas plus de six mois, avant la fin du bail. Le locataire a un mois pour répondre, et son silence vaut acceptation."
+  - q: "Quelle est l'échéance de la loi 16 pour l'étude du fonds de prévoyance?"
+    a: "Le 15 août 2028. Le règlement en vigueur depuis le 14 août 2025 accorde aux syndicats « trois ans et un jour » pour établir le carnet d'entretien et obtenir une première étude du fonds de prévoyance. L'attestation du syndicat, elle, est exigée depuis le 14 août 2025."
+  - q: "Un acheteur étranger pourra-t-il acheter une maison au Québec en 2027?"
+    a: "Si l'abrogation entre en vigueur comme prévu, l'interdiction fédérale cesse le 1er janvier 2027. Vérifiez l'état de la loi à la date de la promesse d'achat, et le reste du dossier avec le notaire, qui conclut la vente."
+  - q: "À partir de quand l'inspecteur préachat doit-il être certifié au Québec?"
+    a: "À partir du 1er octobre 2027, l'inspecteur préachat devra détenir un certificat de la Régie du bâtiment du Québec (RBQ). Avant cette date, il n'est pas exigé."
 ---
 
 D'ici la fin de 2027, une douzaine de dates touchent les propriétaires du Québec, et plusieurs circulent avec une erreur: la piscine qu'on croit déjà en retard, la copropriété qu'on croit en infraction, l'interdiction fédérale qu'on croit déjà tombée. Le tableau ne retient que des règles adoptées, chacune avec la date de son texte officiel. Ce qui est seulement annoncé est mis à part, en fin d'article.
@@ -84,20 +103,6 @@ L'attestation du syndicat, elle, n'a reçu aucun délai: l'OACIQ précise qu'auc
 **Le taux d'inclusion des gains en capital.** La hausse proposée a été annulée le 21 mars 2025, avant d'entrer en vigueur.
 
 Pour la piscine comme pour l'interdiction fédérale, seule une modification du texte peut déplacer la date.
-
-## Questions fréquentes
-
-**Ma piscine date de 2005. Le 30 septembre 2027 me vise-t-il?**
-Oui. Elle existait avant le 1er novembre 2010: elle doit être conforme au plus tard à cette date. Si vous vendez avant, l'obligation suit la piscine chez l'acheteur, et la question se règle à l'offre.
-
-**Mon évaluation municipale change-t-elle en 2027?**
-Pas par un nouveau rôle: à Laval comme à Montréal, le rôle en vigueur couvre 2027. Le compte varie surtout avec le taux du budget. Le prochain rôle de Laval s'appliquera à partir de 2028.
-
-**Mon syndicat n'a pas d'étude du fonds de prévoyance. Est-il en retard?**
-Pas avant le 15 août 2028. L'attestation du syndicat, elle, est exigée depuis le 14 août 2025.
-
-**Un acheteur étranger pourra-t-il acheter ma maison en 2027?**
-Si l'abrogation entre en vigueur comme prévu, l'interdiction fédérale cesse le 1er janvier 2027. Vérifiez l'état de la loi à la date de la promesse d'achat, et le reste du dossier avec le notaire, qui conclut la vente.
 
 Pour compléter, lisez [le règlement sur les piscines et son échéance de 2027](/articles/reglement-piscine-securite-quebec/) et [la révision du rôle d'évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
 

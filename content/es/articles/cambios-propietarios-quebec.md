@@ -1,13 +1,32 @@
 ---
 title: "¿Qué cambia para los propietarios en Quebec en 2027?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-31
 translationKey: "article-changements-proprietaires-quebec"
 category: "Inmobiliaria 101"
 description: "Cambios para propietarios en Quebec en 2027: piscina, alquileres, rol de Laval, compradores extranjeros. Cada fecha sale de un texto adoptado."
 image: "images/articles/changements-proprietaires-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "Una piscina residencial instalada antes del 1 de noviembre de 2010 debe ser conforme a más tardar el 30 de septiembre de 2027, según el artículo 10 del reglamento de piscinas residenciales de Quebec. La multa va de 500 $ a 700 $."
+  - "A partir del 1 de enero de 2027, los umbrales de los derechos de mutación pasan de 62 900 $ y 315 000 $ a 64 400 $ y 322 600 $, tras una indexación de 2,4173 % confirmada por el MAMH el 31 de julio de 2026."
+  - "La derogación de la prohibición federal de compra por no canadienses, vigente desde el 1 de enero de 2023, está prevista para el 1 de enero de 2027. Una ley todavía puede cambiar esa fecha."
+  - "Laval deposita su rol de evaluación 2028-2029-2030 entre el 15 de agosto y el 15 de septiembre de 2027. Reflejará el mercado del 1 de julio de 2026, y la solicitud de revisión deberá presentarse antes del 1 de mayo de 2028."
+  - "Los sindicatos de copropietarios tienen hasta el 15 de agosto de 2028 para establecer el libro de mantenimiento y obtener un primer estudio del fondo de previsión, pero la certificación del sindicato se exige desde el 14 de agosto de 2025."
+faq:
+  - q: "¿Cuál es la fecha límite para poner una piscina en conformidad en Quebec?"
+    a: "El 30 de septiembre de 2027, para toda piscina instalada antes del 1 de noviembre de 2010, según el artículo 10 del reglamento de piscinas residenciales de Quebec. La obligación sigue a la instalación: si vende antes, pasa al comprador, y el asunto se resuelve en la oferta. La multa va de 500 $ a 700 $."
+  - q: "¿Cambia la evaluación municipal en 2027 en Laval y en Montreal?"
+    a: "No por un rol nuevo: en Laval como en Montreal, el rol vigente cubre 2027, y la cuenta de impuestos varía sobre todo con la tasa del presupuesto. El próximo rol de Laval, depositado entre el 15 de agosto y el 15 de septiembre de 2027, se aplicará a partir de 2028."
+  - q: "¿Cuándo hay que enviar el aviso de aumento de alquiler para un contrato que termina el 30 de junio de 2027?"
+    a: "Entre enero y finales de marzo de 2027. Para un contrato de 12 meses o más, el artículo 1942 del código civil de Quebec exige un aviso entregado al menos tres meses, pero no más de seis, antes del fin del contrato. El inquilino tiene un mes para responder, y su silencio equivale a aceptación."
+  - q: "¿Cuál es el plazo de la ley 16 para el estudio del fondo de previsión?"
+    a: "El 15 de agosto de 2028. El reglamento vigente desde el 14 de agosto de 2025 da a los sindicatos « tres años y un día » para establecer el libro de mantenimiento y obtener un primer estudio del fondo de previsión. La certificación del sindicato, en cambio, se exige desde el 14 de agosto de 2025."
+  - q: "¿Podrá un comprador extranjero comprar una casa en Quebec en 2027?"
+    a: "Si la derogación entra en vigor como se prevé, la prohibición federal cesa el 1 de enero de 2027. Verifique el estado de la ley en la fecha de la promesa de compra, y el resto del expediente con el notario, que concluye la venta."
+  - q: "¿Desde cuándo debe estar certificado el inspector previo a la compra en Quebec?"
+    a: "A partir del 1 de octubre de 2027, el inspector previo a la compra deberá tener un certificado de la Régie du bâtiment du Québec (RBQ, el regulador de la construcción). Antes de esa fecha, no se exige."
 ---
 
 Hasta finales de 2027, una docena de fechas afectan a los propietarios de Quebec, y varias circulan con un error: la piscina que se cree ya fuera de plazo, la copropiedad que se cree en infracción, la prohibición federal que se cree ya levantada. La tabla solo recoge reglas adoptadas, cada una con la fecha de su texto oficial. Lo que solo se anunció va aparte, al final del artículo.
@@ -84,20 +103,6 @@ La certificación del sindicato, en cambio, no recibió ningún plazo: la OACIQ 
 **La tasa de inclusión de las ganancias de capital.** El aumento propuesto se anuló el 21 de marzo de 2025, antes de entrar en vigor.
 
 Para la piscina como para la prohibición federal, solo una modificación del texto puede desplazar la fecha.
-
-## Preguntas frecuentes
-
-**Mi piscina es de 2005. ¿Me afecta el 30 de septiembre de 2027?**
-Sí. Existía antes del 1 de noviembre de 2010: debe ser conforme a más tardar en esa fecha. Si vende antes, la obligación pasa al comprador con la piscina, y el asunto se resuelve en la oferta.
-
-**¿Cambia mi evaluación municipal en 2027?**
-No por un rol nuevo: en Laval como en Montreal, el rol vigente cubre 2027. La cuenta varía sobre todo con la tasa del presupuesto. El próximo rol de Laval se aplicará a partir de 2028.
-
-**Mi sindicato no tiene estudio del fondo de previsión. ¿Está atrasado?**
-No antes del 15 de agosto de 2028. La certificación del sindicato, en cambio, se exige desde el 14 de agosto de 2025.
-
-**¿Podrá un comprador extranjero comprar mi casa en 2027?**
-Si la derogación entra en vigor como se prevé, la prohibición federal cesa el 1 de enero de 2027. Verifique el estado de la ley en la fecha de la promesse d'achat (la promesa de compra), y el resto del expediente con el notario, que concluye la venta.
 
 Para completar, lea [el reglamento de piscinas y su plazo de 2027](/es/articles/reglamento-piscinas-quebec/) y [la revisión del rol de evaluación municipal](/es/articles/impugnar-evaluacion-municipal-quebec/).
 

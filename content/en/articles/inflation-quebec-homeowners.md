@@ -1,12 +1,29 @@
 ---
 title: "What Will Quebec's Inflation Rate Be in 2027?"
 date: 2026-10-21
-lastmod: 2026-10-30
+lastmod: 2026-10-31
 translationKey: "article-inflation-quebec-immobilier"
 category: "Finance"
 description: "Quebec's inflation rate: 3.1% in September 2026. What Quebec and the Bank of Canada project for 2027, and what it means for a homeowner."
 image: "images/articles/inflation-quebec-immobilier/featured.jpg"
 draft: false
+tldr:
+  - "Quebec's consumer price index (CPI) rose 3.1% year over year in September 2026, according to Statistics Canada; in the Montreal census metropolitan area, it rose 3.0%."
+  - "For 2027, the Ministère des Finances du Québec projects inflation of 2.1% in Quebec in its Pre-election Report of August 17, 2026, and 1.7% in its recession scenario."
+  - "On October 28, 2026, the Bank of Canada raised its inflation projection for Canada to 3.1% in 2027, from 2.0% in July, and raised its policy rate by 0.25 percentage point, to 2.5%."
+  - "In September 2026, the cost of owned accommodation rose 2.7% year over year in Quebec, compared with 0.6% in Canada."
+  - "Since January 1, 2026, the TAL's base percentage for fixing rent is the average of the last three annual increases in the Quebec CPI: 3.1% in 2026."
+faq:
+  - q: "What is Quebec's inflation rate right now?"
+    a: "3.1% over 12 months in September 2026, and 3.0% in the Montreal CMA, according to the CPI released by Statistics Canada on October 19, 2026. The October figure is scheduled for November 16, 2026."
+  - q: "What will Quebec's inflation rate be in 2027?"
+    a: "No organization knows. The Ministère des Finances du Québec projects 2.1%, and 1.7% in its recession scenario, in a report dated August 17, 2026. The Bank of Canada has projected 3.1% for Canada since its Report of October 28, 2026, compared with 2.0% in July."
+  - q: "Has the TAL published the rent increase percentage for 2027?"
+    a: "No. The 2027 percentage will average the Quebec CPI increases of 2024 (2.3%), 2025 (2.4%) and 2026, which is not yet known. The base percentage is not a cap: taxes, insurance and work are added according to the Regulation, and an agreement is still possible."
+  - q: "Why are housing costs rising faster in Quebec than in Canada?"
+    a: "The data show the gap, 3.2% versus 1.8% in September 2026, without giving the cause. The Ministère des Finances is counting on slower growth in housing prices in 2027: that is a projection assumption, not a measurement."
+  - q: "Does inflation push mortgage rates up?"
+    a: "The Bank of Canada targets 2% inflation, within a range of 1% to 3%, and can raise its rate to keep inflation from going above the target. On October 28, 2026, it raised its policy rate to 2.5%, and the major banks raised their prime rate from 4.45% to 4.70%. Fixed rates also depend on financial markets."
 ---
 
 Nobody knows what Quebec's inflation rate will be in 2027. Two public bodies publish a dated projection for it, and Statistics Canada measures today's rate every month: 3.1% year over year in September 2026. Here are the three figures not to mix up, the measured one, the projected one and the one that affects your property, along with the rule that now ties inflation to rent.
@@ -90,20 +107,6 @@ Since January 1, 2026, inflation feeds directly into rent setting. The Regulatio
 **Taxes and insurance: only the portion above the base percentage is added.** Section 4 of the Regulation subtracts the base percentage from the increase in property taxes and in fire and liability insurance premiums. A fictitious example: municipal taxes up 5%, with a base percentage of 3.1%, count for only 1.9%, applied to the monthly amount of the taxes. Capital expenditures made during the reference period are recognized at 5%.
 
 **An agreement is still possible.** The TAL points out that the landlord and the tenant are free to come to an agreement. Without one, the landlord has one month from the tenant's reply to apply for the fixing of the rent; otherwise, the lease is renewed on the same conditions. Special rules apply to a building constructed five years ago or less. Notices and deadlines: [managing a rental property in Montreal and Laval](/en/articles/rental-property-management/).
-
-## Frequently asked questions
-
-**What is Quebec's inflation rate right now?**
-3.1% over 12 months in September 2026, and 3.0% in the Montreal CMA. The October figure is scheduled for November 16, 2026.
-
-**What will Quebec's inflation rate be in 2027?**
-No organization knows. The Ministère des Finances du Québec projects 2.1%, and 1.7% in its recession scenario, in a report dated August 17, 2026. The Bank of Canada has projected 3.1% for Canada since its Report of October 28, 2026, compared with 2.0% in July.
-
-**Has the TAL published the rent increase percentage for 2027?**
-No. The 2027 percentage will average the CPI increases of 2024, 2025 and 2026, and the 2026 increase is not yet known. The base percentage is not a cap: taxes, insurance and work are added according to the Regulation, and an agreement is still possible.
-
-**Why are housing costs rising faster in Quebec than in Canada?**
-The data show the gap, 3.2% versus 1.8% in September 2026, without giving the cause. The Ministère des Finances is counting on slower growth in housing prices in 2027: that is a projection assumption, not a measurement.
 
 To go further, read [how property taxes are calculated in Montreal and Laval](/en/articles/property-tax-explained/) and [the hidden costs of homeownership in Quebec](/en/articles/hidden-homeownership-costs/).
 

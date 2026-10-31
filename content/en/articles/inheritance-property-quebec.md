@@ -2,10 +2,29 @@
 title: "Inheriting Property in Quebec"
 seo_title: "Inheriting a House in Quebec: Steps, Taxes and Selling"
 date: 2026-05-16
-lastmod: 2026-09-21
+lastmod: 2026-10-31
 category: "Real Estate 101"
 description: "Inherited a house in Quebec? The liquidator, declaration of transmission, tax at death, welcome tax, and your options: sell, buy out the heirs or keep it."
 image: "images/articles/inheritance-property-quebec/featured.jpg"
+tldr:
+  - "In Quebec, unless the will gives broader powers, the liquidator cannot sell an estate's house alone: it takes the heirs' consent or, failing that, the court's authorization."
+  - "Without a declaration of transmission, the notarial deed published in the Land Register of Québec that identifies the heirs and each one's share, an inherited property cannot be sold or mortgaged."
+  - "Canada has no inheritance tax, but at death a person is deemed to have sold their property at fair market value, and the gain goes on their final returns, federal and Quebec."
+  - "Children, grandchildren, parents and spouses who inherit a property are exempt from the welcome tax, though the city may charge special duties in lieu, generally $200, while a brother, sister, nephew or friend pays the full duties."
+  - "Heirs have six months to accept or refuse the estate, and heating, insuring or fixing a leak does not count as acceptance."
+faq:
+  - q: "Can you sell an inherited house in Quebec without a declaration of transmission?"
+    a: "No. Without the declaration of transmission, a notarial deed published in the Land Register of Québec, the property cannot be sold or mortgaged: the buyer's notary needs a title that runs from the deceased to the people signing."
+  - q: "Do you pay tax on an inherited house in Quebec?"
+    a: "Canada has no inheritance tax. At death, the person is deemed to have sold their property at fair market value and the gain goes on their final returns, but the principal residence exemption can wipe it out if it is designated. A house left to a spouse rolls over at cost, and tax is deferred unless an election is made."
+  - q: "Do you pay the welcome tax on an inherited house?"
+    a: "Children, grandchildren, parents and spouses are exempt, but the city may charge special duties in lieu, generally $200, which the law allows it to waive when the transfer results from a death. A brother, sister, nephew or friend pays the full duties, based on market value."
+  - q: "Does a common-law partner inherit without a will in Quebec?"
+    a: "Only if they were in a parental union with the deceased at the time of death, which as a rule means a common child born or adopted on or after June 30, 2025. With children, a spouse by marriage, civil union or parental union receives one third of the estate and the children two thirds."
+  - q: "Does a holograph will need to be probated in Quebec?"
+    a: "Yes. A holograph will or a will made before witnesses must be verified by the court or a notary, which leaves the estate essentially frozen for several weeks. A notarial will needs no verification."
+  - q: "How long do heirs have to accept an estate in Quebec?"
+    a: "Six months to accept or refuse the estate. Heating, insuring or fixing a leak does not count as acceptance, but an heir who mixes estate property with their own before the inventory can become liable for debts beyond what they inherit."
 ---
 
 When a house is part of an estate, the heirs' first question is almost always the same: do we sell? Before answering, there is an order to follow, specific people who have the power to sign, and a few costs nobody sees coming.

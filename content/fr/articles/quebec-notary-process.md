@@ -2,10 +2,29 @@
 title: "Le notaire au Québec, étape par étape"
 seo_title: "Notaire à l'achat d'une maison au Québec: étapes, qui paie"
 date: 2026-08-04
-lastmod: 2026-09-19
+lastmod: 2026-10-31
 category: "Immobilier 101"
 description: "Au Québec, on signe chez le notaire, pas chez un avocat. Qui le choisit et le paie, chaque étape jusqu'aux clés, et ce qui retarde une signature."
 image: "images/articles/quebec-notary-process/featured.jpg"
+tldr:
+  - "Au Québec, l'article 2693 du Code civil exige que l'hypothèque immobilière soit constituée par acte notarié en minute, sous peine de nullité absolue: tout achat financé passe donc par un notaire."
+  - "Selon la promesse d'achat de l'OACIQ, l'acheteur choisit le notaire et paie l'acte de vente, sa publication et l'acte d'hypothèque, tandis que le vendeur paie la radiation de son hypothèque et fournit le certificat de localisation."
+  - "Le notaire répartit au jour près ce que le vendeur a payé d'avance, dont les taxes municipales (du 1er janvier au 31 décembre) et la taxe scolaire (du 1er juillet au 30 juin)."
+  - "Selon Éducaloi, le délai de compensation des fonds déposés dans le compte en fidéicommis du notaire peut aller jusqu'à 10 jours ouvrables, et la publication de l'acte au Registre foncier demande environ deux à trois jours."
+  - "L'achat se signe habituellement en deux rendez-vous, l'acte d'hypothèque puis l'acte de vente quelques jours plus tard, et l'acheteur devient propriétaire à la signature de l'acte de vente."
+faq:
+  - q: "Faut-il obligatoirement un notaire pour acheter une maison au Québec?"
+    a: "Pour une hypothèque, oui: l'article 2693 du Code civil du Québec exige un acte notarié en minute, sous peine de nullité absolue. Pour la vente, la promesse d'achat obligatoire de l'OACIQ prévoit aussi la signature de l'acte de vente devant notaire."
+  - q: "Qui paie le notaire lors de l'achat d'une maison au Québec?"
+    a: "Selon la promesse d'achat de l'OACIQ, l'acheteur choisit le notaire et paie l'acte de vente, sa publication et l'acte d'hypothèque. Le vendeur paie la radiation de son hypothèque, les vérifications pour livrer des titres clairs et le certificat de localisation. Les honoraires ne suivent aucun tarif fixe: demandez une soumission écrite."
+  - q: "Combien de temps faut-il pour que les fonds soient disponibles chez le notaire?"
+    a: "Selon Éducaloi, le délai de compensation des fonds déposés en fidéicommis peut aller jusqu'à 10 jours ouvrables. Transférez tôt et, si l'argent vient de l'étranger, gardez les relevés qui en montrent l'origine."
+  - q: "Quand devient-on propriétaire et reçoit-on les clés au Québec?"
+    a: "Vous devenez propriétaire à la signature de l'acte de vente. Les clés sont habituellement remises ce jour-là, sauf si la promesse d'achat prévoit une occupation plus tard."
+  - q: "Qu'est-ce qui peut retarder une signature chez le notaire?"
+    a: "Un financement qui traîne, un certificat de localisation dépassé ou qui révèle un problème, une charge aux titres comme l'hypothèque légale d'un entrepreneur, un syndicat de copropriété lent à fournir l'état des charges, ou des fonds pas encore libérés."
+  - q: "La taxe de bienvenue se paie-t-elle chez le notaire?"
+    a: "Non. Le notaire ne la perçoit pas à la signature: la municipalité envoie le compte quelques mois plus tard, habituellement payable en 30 jours. Vous pouvez l'estimer avec le [calculateur de taxe de bienvenue](/tools/welcome-tax/)."
 ---
 
 Beaucoup d'acheteurs venus d'une autre province ou d'un autre pays s'attendent

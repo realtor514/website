@@ -2,10 +2,29 @@
 title: "El notario en Quebec, paso a paso"
 seo_title: "Notario en Quebec al comprar una casa: pasos y quién paga"
 date: 2026-08-04
-lastmod: 2026-09-19
+lastmod: 2026-10-31
 category: "Inmobiliaria 101"
 description: "En Quebec se firma ante notario, no ante un abogado. Quién lo elige y lo paga, cada etapa hasta las llaves, los prorrateos y lo que más retrasa una firma."
 image: "images/articles/quebec-notary-process/featured.jpg"
+tldr:
+  - "En Quebec, el artículo 2693 del Código Civil exige, so pena de nulidad absoluta, que la hipoteca inmobiliaria se constituya por acta notarial en minute: toda compra financiada pasa por un notario."
+  - "Según la promesa de compra del OACIQ, el comprador elige al notario y paga la escritura de venta, su publicación y la escritura de hipoteca, mientras que el vendedor paga la cancelación de su hipoteca y proporciona el certificat de localisation."
+  - "El notario prorratea al día lo que el vendedor pagó por adelantado, entre ello los impuestos municipales (del 1 de enero al 31 de diciembre) y el impuesto escolar (del 1 de julio al 30 de junio)."
+  - "Según Éducaloi, el plazo de compensación de los fondos depositados en la cuenta en fideicomiso del notario puede llegar a 10 días hábiles, y la publicación del acta en el Registre foncier toma unos dos o tres días."
+  - "La compra suele firmarse en dos citas, primero la escritura de hipoteca y unos días después la de venta, y el comprador es propietario desde la firma de la escritura de venta."
+faq:
+  - q: "¿Es obligatorio un notario para comprar una casa en Quebec?"
+    a: "Para una hipoteca, sí: el artículo 2693 del Código Civil de Quebec exige un acta notarial en minute, so pena de nulidad absoluta. Para la venta, la promesa de compra obligatoria del OACIQ también prevé firmar la escritura de venta ante notario."
+  - q: "¿Quién paga al notario al comprar una casa en Quebec?"
+    a: "Según la promesa de compra del OACIQ, el comprador elige al notario y paga la escritura de venta, su publicación y la escritura de hipoteca. El vendedor paga la cancelación de su hipoteca, las verificaciones para entregar títulos limpios y el certificat de localisation. Los honorarios no tienen tarifa fija: pida un presupuesto por escrito."
+  - q: "¿Cuánto tardan en estar disponibles los fondos en la cuenta del notario?"
+    a: "Según Éducaloi, el plazo de compensación de los fondos depositados en fideicomiso puede llegar a 10 días hábiles. Transfiera con tiempo y, si el dinero viene del extranjero, conserve los estados de cuenta que prueban su origen."
+  - q: "¿Cuándo se es propietario y se reciben las llaves en Quebec?"
+    a: "Usted es propietario desde la firma de la escritura de venta. Las llaves suelen entregarse ese mismo día, salvo que la promesa de compra prevea una ocupación posterior."
+  - q: "¿Qué puede retrasar una firma ante notario?"
+    a: "Un financiamiento lento, un certificat de localisation desactualizado o que revela un problema, una carga en los títulos como la hipoteca legal de un contratista, un sindicato de copropietarios lento en entregar el estado de cuotas, o fondos aún no liberados."
+  - q: "¿El impuesto de bienvenida se paga ante el notario?"
+    a: "No. El notario no lo cobra en la firma: el municipio envía la cuenta unos meses después, que suele pagarse en 30 días. Puede calcularlo con la [calculadora del impuesto de bienvenida](/es/tools/welcome-tax/)."
 ---
 
 Muchos compradores llegados de otra provincia o de otro país esperan cerrar su

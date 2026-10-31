@@ -1,13 +1,32 @@
 ---
 title: "What Changes for Quebec Homeowners in 2027?"
 date: 2026-10-21
-lastmod: 2026-10-21
+lastmod: 2026-10-31
 translationKey: "article-changements-proprietaires-quebec"
 category: "Real Estate 101"
 description: "What changes for Quebec homeowners in 2027: pools, rent, Laval's assessment roll, foreign buyers. Every date comes from an adopted text."
 image: "images/articles/changements-proprietaires-quebec/featured.jpg"
 needs_expert_review: true
 draft: false
+tldr:
+  - "A residential pool installed before November 1, 2010 must comply no later than September 30, 2027, under section 10 of Quebec's residential pool safety regulation. The fine ranges from $500 to $700."
+  - "Starting January 1, 2027, the transfer duty thresholds rise from $62,900 and $315,000 to $64,400 and $322,600, after a 2.4173% indexation confirmed by the MAMH on July 31, 2026."
+  - "The repeal of the federal ban on purchases by non-Canadians, in force since January 1, 2023, is scheduled for January 1, 2027. A new act could still change that date."
+  - "Laval deposits its 2028-2029-2030 assessment roll between August 15 and September 15, 2027. It will reflect the market as of July 1, 2026, and the request for review must be filed before May 1, 2028."
+  - "Syndicates of co-owners have until August 15, 2028 to set up the maintenance logbook and obtain a first contingency fund study, but the syndicate's attestation has been required since August 14, 2025."
+faq:
+  - q: "What is the deadline to bring a pool up to standard in Quebec?"
+    a: "September 30, 2027, for any pool installed before November 1, 2010, under section 10 of Quebec's residential pool safety regulation. The obligation follows the installation: if you sell before then, it passes to the buyer, and the question gets settled at the offer. The fine ranges from $500 to $700."
+  - q: "Does the municipal assessment change in 2027 in Laval and Montreal?"
+    a: "Not through a new roll: in Laval as in Montreal, the roll in force covers 2027, and the tax bill varies mainly with the rate set in the budget. Laval's next roll, deposited between August 15 and September 15, 2027, will apply from 2028."
+  - q: "When must the rent increase notice be sent for a lease ending June 30, 2027?"
+    a: "Between January and the end of March 2027. For a lease of 12 months or more, article 1942 of the Civil Code requires a notice given at least three months, but no more than six months, before the end of the lease. The tenant has one month to respond, and silence counts as acceptance."
+  - q: "What is the Bill 16 deadline for the contingency fund study?"
+    a: "August 15, 2028. The regulation in force since August 14, 2025 gives syndicates \"three years and one day\" to set up the maintenance logbook and obtain a first contingency fund study. The syndicate's attestation, however, has been required since August 14, 2025."
+  - q: "Will a foreign buyer be able to buy a house in Quebec in 2027?"
+    a: "If the repeal comes into force as planned, the federal ban ends on January 1, 2027. Check the state of the law on the date of the promise to purchase, and the rest of the file with the notary, who concludes the sale."
+  - q: "When do pre-purchase inspectors need to be certified in Quebec?"
+    a: "Starting October 1, 2027, pre-purchase inspectors will have to hold a certificate from the Régie du bâtiment du Québec (RBQ, Quebec's building authority). Before that date, it is not required."
 ---
 
 Between now and the end of 2027, about a dozen dates affect Quebec homeowners, and several of them circulate with a mistake attached: the pool people think is already overdue, the condo people think is in breach, the federal ban people think has already lapsed. The table keeps only rules that have been adopted, each with the date from its official text. What has only been announced is set apart, at the end of the article.
@@ -84,20 +103,6 @@ The syndicate's attestation, on the other hand, was given no grace period: the O
 **The capital gains inclusion rate.** The proposed increase was cancelled on March 21, 2025, before it took effect.
 
 For the pool as for the federal ban, only an amendment to the text can move the date.
-
-## Frequently asked questions
-
-**My pool dates from 2005. Does September 30, 2027 apply to me?**
-Yes. It existed before November 1, 2010: it must comply no later than that date. If you sell before then, the obligation follows the pool to the buyer, and the question gets settled at the offer.
-
-**Does my municipal assessment change in 2027?**
-Not through a new roll: in Laval as in Montreal, the roll in force covers 2027. The bill varies mainly with the tax rate set in the budget. Laval's next roll will apply from 2028.
-
-**My syndicate has no contingency fund study. Is it behind?**
-Not before August 15, 2028. The syndicate's attestation, however, has been required since August 14, 2025.
-
-**Will a foreign buyer be able to buy my house in 2027?**
-If the repeal comes into force as planned, the federal ban ends on January 1, 2027. Check the state of the law on the date of the promesse d'achat (the promise to purchase), and the rest of the file with the notary, who concludes the sale.
 
 To go further, read [the pool regulation and its 2027 deadline](/en/articles/pool-safety-rules-quebec/) and [the municipal assessment roll review](/en/articles/contest-property-assessment-quebec/).
 

@@ -1,12 +1,29 @@
 ---
 title: "Quel sera le taux d'inflation au Québec en 2027?"
 date: 2026-10-21
-lastmod: 2026-10-30
+lastmod: 2026-10-31
 translationKey: "article-inflation-quebec-immobilier"
 category: "Financement"
 description: "Taux d'inflation au Québec: 3,1 % en septembre 2026. Ce que Québec et la Banque du Canada projettent pour 2027, et l'effet sur un propriétaire."
 image: "images/articles/inflation-quebec-immobilier/featured.jpg"
 draft: false
+tldr:
+  - "Au Québec, l'indice des prix à la consommation (IPC) a augmenté de 3,1 % sur un an en septembre 2026, selon Statistique Canada; dans la RMR de Montréal, de 3,0 %."
+  - "Pour 2027, le ministère des Finances du Québec projette une inflation de 2,1 % au Québec dans son Rapport préélectoral du 17 août 2026, et de 1,7 % dans son scénario de récession."
+  - "Le 28 octobre 2026, la Banque du Canada a porté sa projection d'inflation pour le Canada à 3,1 % en 2027, contre 2,0 % en juillet, et a relevé son taux directeur de 0,25 point, à 2,5 %."
+  - "En septembre 2026, le coût du logement en propriété a augmenté de 2,7 % sur un an au Québec, contre 0,6 % au Canada."
+  - "Depuis le 1er janvier 2026, le pourcentage de base du TAL pour la fixation des loyers est la moyenne des trois dernières hausses annuelles de l'IPC du Québec: 3,1 % en 2026."
+faq:
+  - q: "Quel est le taux d'inflation au Québec en ce moment?"
+    a: "3,1 % sur 12 mois en septembre 2026, et 3,0 % dans la RMR de Montréal, selon l'IPC diffusé par Statistique Canada le 19 octobre 2026. Le chiffre d'octobre est annoncé pour le 16 novembre 2026."
+  - q: "Quel sera le taux d'inflation au Québec en 2027?"
+    a: "Aucun organisme ne le sait. Le ministère des Finances du Québec projette 2,1 %, et 1,7 % dans son scénario de récession, dans un rapport du 17 août 2026. La Banque du Canada projette 3,1 % pour le Canada depuis son Rapport du 28 octobre 2026, contre 2,0 % en juillet."
+  - q: "Le TAL a-t-il publié le pourcentage d'augmentation de loyer pour 2027?"
+    a: "Non. Celui de 2027 fera la moyenne des hausses de l'IPC du Québec de 2024 (2,3 %), de 2025 (2,4 %) et de 2026, qui n'est pas encore connue. Le pourcentage de base n'est pas un plafond: taxes, assurances et travaux s'ajoutent selon le Règlement, et une entente reste possible."
+  - q: "Pourquoi le logement augmente-t-il plus vite au Québec qu'au Canada?"
+    a: "Les données montrent l'écart, 3,2 % contre 1,8 % en septembre 2026, sans en donner la cause. Le ministère des Finances compte sur un ralentissement de la croissance des prix du logement en 2027: c'est une hypothèse de projection, pas une mesure."
+  - q: "L'inflation fait-elle monter les taux hypothécaires?"
+    a: "La Banque du Canada vise une inflation de 2 %, dans une fourchette de 1 à 3 %, et peut relever son taux pour empêcher l'inflation de dépasser la cible. Le 28 octobre 2026, elle l'a porté à 2,5 %, et les grandes banques ont relevé leur taux préférentiel de 4,45 % à 4,70 %. Le taux fixe dépend aussi des marchés financiers."
 ---
 
 Personne ne connaît le taux d'inflation du Québec en 2027. Deux organismes publics en publient une projection datée, et Statistique Canada mesure chaque mois celui d'aujourd'hui: 3,1 % sur un an en septembre 2026. Voici les trois chiffres à ne pas confondre, le mesuré, le projeté et celui qui touche votre propriété, avec la règle qui relie désormais l'inflation au loyer.
@@ -90,20 +107,6 @@ Depuis le 1er janvier 2026, l'inflation entre directement dans la fixation des l
 **Taxes et assurances: seule la part au-delà du pourcentage de base s'ajoute.** L'article 4 du Règlement soustrait le pourcentage de base de la hausse des taxes foncières et des primes d'assurance incendie et responsabilité. Exemple fictif: des taxes municipales en hausse de 5 %, avec un pourcentage de base de 3,1 %, ne comptent que pour 1,9 %, appliqué au montant mensuel des taxes. Les dépenses d'immobilisation de la période de référence sont reconnues à 5 %.
 
 **Une entente reste possible.** Le TAL rappelle que locateur et locataire sont libres de s'entendre. Sans entente, le locateur a un mois à compter de la réponse du locataire pour demander la fixation; à défaut, le bail est reconduit aux mêmes conditions. Des règles particulières visent un immeuble construit depuis cinq ans ou moins. Avis et délais: [la gestion d'un immeuble locatif à Montréal et Laval](/articles/rental-property-management/).
-
-## Questions fréquentes
-
-**Quel est le taux d'inflation au Québec en ce moment?**
-3,1 % sur 12 mois en septembre 2026, et 3,0 % dans la RMR de Montréal. Le chiffre d'octobre est annoncé pour le 16 novembre 2026.
-
-**Quel sera le taux d'inflation au Québec en 2027?**
-Aucun organisme ne le sait. Le ministère des Finances du Québec projette 2,1 %, et 1,7 % dans son scénario de récession, dans un rapport du 17 août 2026. La Banque du Canada projette 3,1 % pour le Canada depuis son Rapport du 28 octobre 2026, contre 2,0 % en juillet.
-
-**Le TAL a-t-il publié le pourcentage d'augmentation de loyer pour 2027?**
-Non. Celui de 2027 fera la moyenne des hausses de l'IPC de 2024, 2025 et 2026, et celle de 2026 n'est pas encore connue. Le pourcentage de base n'est pas un plafond: taxes, assurances et travaux s'ajoutent selon le Règlement, et une entente reste possible.
-
-**Pourquoi le logement augmente-t-il plus vite au Québec qu'au Canada?**
-Les données montrent l'écart, 3,2 % contre 1,8 % en septembre 2026, sans en donner la cause. Le ministère des Finances compte sur un ralentissement de la croissance des prix du logement en 2027: c'est une hypothèse de projection, pas une mesure.
 
 Pour compléter, lisez [comment se calculent les taxes foncières à Montréal et à Laval](/articles/property-tax-explained/) et [les coûts cachés de la propriété au Québec](/articles/hidden-homeownership-costs/).
 

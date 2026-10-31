@@ -2,12 +2,31 @@
 title: "Marché immobilier à Laval par secteur: 3e trimestre 2026"
 seo_title: "Prix des maisons à Laval par quartier (T3 2026)"
 date: 2026-10-19
-lastmod: 2026-10-19
+lastmod: 2026-10-31
 translationKey: "article-marche-immobilier-laval-secteurs"
 category: "Analyse de marché"
 description: "Marché immobilier à Laval au 3e trimestre 2026: 848 ventes, unifamiliale à 630 000 $ de prix médian, copropriété à 439 999 $. Chiffres Centris."
 image: "images/articles/marche-immobilier-laval-secteurs/featured.jpg"
 draft: false
+tldr:
+  - "Au 3e trimestre 2026, de juillet à septembre, Centris compte 848 ventes résidentielles à Laval, 15 % de moins qu'un an plus tôt, et un prix médian de l'unifamiliale de 630 000 $, en hausse de 5 %."
+  - "À Laval, au 3e trimestre 2026, la copropriété a un prix médian de 439 999 $ (+3 %) sur 236 ventes (-26 %), et le plex de 2 à 5 logements, de 890 000 $ (+2 %) sur 65 ventes (-20 %), selon Centris."
+  - "Sur quatre trimestres, la médiane unifamiliale la plus élevée de Laval est à Sainte-Dorothée (756 787 $) et la plus basse à Laval-Ouest (479 312 $), selon Centris au 3e trimestre 2026."
+  - "Sainte-Rose est le seul quartier de Laval où Centris publie une hausse des ventes au 3e trimestre 2026, +21 %, alors qu'elles reculent de 28 % à Laval-des-Rapides."
+  - "Chomedey concentre la copropriété à Laval: 114 des 236 copropriétés vendues au 3e trimestre 2026, et 556 des 1 262 sur quatre trimestres."
+faq:
+  - q: "Quel est le prix médian d'une maison à Laval en 2026?"
+    a: "Au 3e trimestre 2026, de juillet à septembre, le prix médian de l'unifamiliale à Laval est de 630 000 $, en hausse de 5 % sur un an, selon Centris. Celui de la copropriété est de 439 999 $ (+3 %) et celui du plex de 2 à 5 logements, de 890 000 $ (+2 %)."
+  - q: "Quel quartier de Laval a le prix médian le plus élevé?"
+    a: "Cela dépend de la période. Pour l'unifamiliale, parmi les quartiers où Centris publie une médiane: Duvernay au 3e trimestre 2026 (735 000 $), Sainte-Dorothée sur quatre trimestres (756 787 $). Laval-sur-le-Lac n'a aucune médiane publiée."
+  - q: "Les prix des maisons baissent-ils à Laval?"
+    a: "Les médianes de Centris montent au 3e trimestre 2026: +5 % pour l'unifamiliale, +3 % pour la copropriété, +2 % pour le plex. Deux exceptions: sur quatre trimestres, la médiane unifamiliale recule à Pont-Viau (-7 %) et à Laval-Ouest (-4 %); en septembre seul, celle de la copropriété recule de 5 % selon l'APCIQ. Ce sont des mesures du passé: aucune de ces séries ne dit ce que feront les prix."
+  - q: "Le marché immobilier de Laval favorise-t-il les vendeurs?"
+    a: "Pour l'unifamiliale, le baromètre de l'APCIQ du 3e trimestre 2026 classe toutes les gammes de prix de Laval en marché de vendeur, de 1,7 mois d'inventaire sous 320 000 $ à 7,2 mois à 950 000 $ et plus, sur les 12 derniers mois; le seuil d'équilibre commence à 8 mois. Pour la copropriété, l'APCIQ voit Laval se rapprocher de l'équilibre."
+  - q: "Pourquoi Centris n'affiche-t-il aucun prix pour mon quartier?"
+    a: "Parce que les ventes y sont trop peu nombreuses pour une statistique fiable. Le cumul des quatre derniers trimestres prend alors le relais quand il existe: à Pont-Viau, 8 unifamiliales vendues au trimestre ne donnent pas de médiane, les quatre derniers trimestres, oui. Sinon, restent les ventes comparables."
+  - q: "Quel est le taux de la taxe de bienvenue à Laval?"
+    a: "En 2026, Laval applique 0,5 %, 1 % et 1,5 % sur les tranches jusqu'à 500 000 $, puis 3 % à partir de 500 001 $. Dans l'exemple publié par la Ville, une propriété payée 650 000 $ et inscrite au rôle à 650 000 $ est imposée sur 669 500 $ (650 000 $ x 1,03), pour 10 695,50 $ de droits."
 ---
 
 Au 3e trimestre 2026, Centris compte 848 ventes résidentielles à Laval, 15 % de moins qu'un an plus tôt, pendant que le prix médian de l'unifamiliale monte de 5 %, à 630 000 $. Ce chiffre unique cache des quartiers qui ne bougent pas ensemble: les ventes reculent de 28 % à Laval-des-Rapides et progressent de 21 % à Sainte-Rose. Voici les 13 quartiers que Centris suit à Laval, côte à côte, et ce que ces données ne disent pas.
@@ -119,20 +138,6 @@ La Ville de Laval divise son territoire en six secteurs d'aménagement, dont cha
 **Deux sources, deux chiffres.** Le baromètre de l'APCIQ, tiré lui aussi du système Centris, compte 849 ventes à Laval au trimestre (-16 %), contre 848 (-15 %) sur la page Centris lue le même jour. Les tableaux de cet article ne mélangent pas les deux.
 
 **« Secteur » n'a pas le même sens partout.** Le baromètre de l'APCIQ regroupe par exemple Chomedey, Laval-des-Rapides et Pont-Viau dans un seul secteur « Centre-Ville de Laval », et Laval-Ouest avec Fabreville. Vérifiez le territoire avant de comparer deux chiffres.
-
-## Questions fréquentes
-
-**Quel quartier de Laval a le prix médian le plus élevé?**
-Cela dépend de la période. Pour l'unifamiliale, parmi les quartiers où Centris publie une médiane: Duvernay au 3e trimestre 2026 (735 000 $), Sainte-Dorothée sur quatre trimestres (756 787 $). Laval-sur-le-Lac n'a aucune médiane publiée.
-
-**Les prix baissent-ils à Laval?**
-Les médianes de Centris montent au 3e trimestre 2026: +5 % pour l'unifamiliale, +3 % pour la copropriété, +2 % pour le plex. Deux exceptions: sur quatre trimestres, la médiane unifamiliale recule à Pont-Viau (-7 %) et à Laval-Ouest (-4 %); en septembre seul, celle de la copropriété recule de 5 % selon l'APCIQ. Ce sont des mesures du passé: aucune de ces séries ne dit ce que feront les prix.
-
-**Le marché de Laval favorise-t-il les vendeurs?**
-Pour l'unifamiliale, le baromètre de l'APCIQ du 3e trimestre 2026 classe toutes les gammes de prix de Laval en marché de vendeur, de 1,7 mois d'inventaire sous 320 000 $ à 7,2 mois à 950 000 $ et plus, sur les 12 derniers mois. Le seuil d'équilibre commence à 8 mois. Pour la copropriété, l'APCIQ voit Laval se rapprocher de l'équilibre.
-
-**Pourquoi Centris n'affiche-t-il aucun prix pour mon quartier?**
-Parce que les ventes y sont trop peu nombreuses pour une statistique fiable. Le cumul des quatre derniers trimestres prend alors le relais quand il existe: à Pont-Viau, 8 unifamiliales vendues au trimestre ne donnent pas de médiane, les quatre derniers trimestres, oui. Sinon, restent les ventes comparables.
 
 Pour compléter, lisez [comment se calcule la taxe de bienvenue](/articles/taxe-de-bienvenue-quebec/) et [comment contester son évaluation municipale](/articles/contester-evaluation-municipale-quebec/).
 

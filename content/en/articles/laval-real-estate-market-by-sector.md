@@ -2,12 +2,31 @@
 title: "Laval Real Estate Market by Sector: Q3 2026"
 seo_title: "Laval Home Prices by Neighbourhood (Q3 2026)"
 date: 2026-10-19
-lastmod: 2026-10-19
+lastmod: 2026-10-31
 translationKey: "article-marche-immobilier-laval-secteurs"
 category: "Market Analysis"
 description: "Laval real estate market in Q3 2026: 848 sales, a $630,000 median price for single family homes and $439,999 for condos. Centris figures."
 image: "images/articles/marche-immobilier-laval-secteurs/featured.jpg"
 draft: false
+tldr:
+  - "In the third quarter of 2026, July to September, Centris counts 848 residential sales in Laval, 15% fewer than a year earlier, and a single family median price of $630,000, up 5%."
+  - "In Laval in the third quarter of 2026, the condo median price is $439,999 (+3%) on 236 sales (-26%), and the plex (2 to 5 units) median is $890,000 (+2%) on 65 sales (-20%), according to Centris."
+  - "Over four quarters, Laval's highest single family median is in Sainte-Dorothée ($756,787) and the lowest in Laval-Ouest ($479,312), according to Centris for the third quarter of 2026."
+  - "Sainte-Rose is the only Laval neighbourhood where Centris publishes a rise in sales in the third quarter of 2026, +21%, while sales fall 28% in Laval-des-Rapides."
+  - "Chomedey is Laval's condo hub: 114 of the 236 condos sold in the third quarter of 2026, and 556 of the 1,262 over four quarters."
+faq:
+  - q: "What is the median house price in Laval in 2026?"
+    a: "In the third quarter of 2026, July to September, the median price of a single family home in Laval is $630,000, up 5% year over year, according to Centris. The condo median is $439,999 (+3%) and the plex (2 to 5 units) median is $890,000 (+2%)."
+  - q: "Which Laval neighbourhood has the highest median price?"
+    a: "It depends on the period. For the single family home, among the neighbourhoods where Centris publishes a median: Duvernay in the third quarter of 2026 ($735,000), Sainte-Dorothée over four quarters ($756,787). Laval-sur-le-Lac has no published median."
+  - q: "Are house prices falling in Laval?"
+    a: "Centris medians are rising in the third quarter of 2026: +5% for single family homes, +3% for condos, +2% for plexes. Two exceptions: over four quarters, the single family median is down in Pont-Viau (-7%) and Laval-Ouest (-4%); for September alone, the condo median is down 5% according to the APCIQ. These are measures of the past: none of these series says what prices will do."
+  - q: "Does the Laval real estate market favour sellers?"
+    a: "For single family homes, the APCIQ barometer for the third quarter of 2026 classifies every price range in Laval as a seller's market, from 1.7 months of inventory under $320,000 to 7.2 months at $950,000 and up, over the last 12 months; the balanced-market threshold starts at 8 months. For condos, the APCIQ sees Laval moving closer to balance."
+  - q: "Why does Centris show no price for my neighbourhood?"
+    a: "Because there are too few sales there for a reliable statistic. The total for the last four quarters then takes over when it exists: in Pont-Viau, 8 single family homes sold in the quarter do not produce a median, but the last four quarters do. Otherwise, comparable sales remain."
+  - q: "What is the welcome tax rate in Laval?"
+    a: "In 2026, Laval applies 0.5%, 1% and 1.5% on the brackets up to $500,000, then 3% from $500,001. In the example published by the City, a property bought for $650,000 and entered on the roll at $650,000 is taxed on $669,500 ($650,000 x 1.03), for $10,695.50 in duties."
 ---
 
 In the third quarter of 2026, Centris counts 848 residential sales in Laval, 15% fewer than a year earlier, while the median price of a single family home rises 5% to $630,000. That single figure hides neighbourhoods that do not move together: sales fall 28% in Laval-des-Rapides and climb 21% in Sainte-Rose. Here are the 13 neighbourhoods Centris tracks in Laval, side by side, and what these data do not tell you.
@@ -119,20 +138,6 @@ The City of Laval divides its territory into six planning sectors, each of which
 **Two sources, two figures.** The APCIQ barometer, also drawn from the Centris system, counts 849 sales in Laval for the quarter (-16%), against 848 (-15%) on the Centris page read the same day. The tables in this article do not mix the two.
 
 **"Sector" does not mean the same thing everywhere.** The APCIQ barometer, for example, groups Chomedey, Laval-des-Rapides and Pont-Viau into a single "Centre-Ville de Laval" sector, and Laval-Ouest with Fabreville. Check the territory before comparing two figures.
-
-## Frequently asked questions
-
-**Which Laval neighbourhood has the highest median price?**
-It depends on the period. For the single family home, among the neighbourhoods where Centris publishes a median: Duvernay in the third quarter of 2026 ($735,000), Sainte-Dorothée over four quarters ($756,787). Laval-sur-le-Lac has no published median.
-
-**Are prices falling in Laval?**
-Centris medians are rising in the third quarter of 2026: +5% for single family homes, +3% for condos, +2% for plexes. Two exceptions: over four quarters, the single family median is down in Pont-Viau (-7%) and Laval-Ouest (-4%); for September alone, the condo median is down 5% according to the APCIQ. These are measures of the past: none of these series says what prices will do.
-
-**Does the Laval market favour sellers?**
-For single family homes, the APCIQ barometer for the third quarter of 2026 classifies every price range in Laval as a seller's market, from 1.7 months of inventory under $320,000 to 7.2 months at $950,000 and up, over the last 12 months. The balanced-market threshold starts at 8 months. For condos, the APCIQ sees Laval moving closer to balance.
-
-**Why does Centris show no price for my neighbourhood?**
-Because there are too few sales there for a reliable statistic. The total for the last four quarters then takes over when it exists: in Pont-Viau, 8 single family homes sold in the quarter do not produce a median, but the last four quarters do. Otherwise, comparable sales remain.
 
 To go further, read [how the welcome tax is calculated](/en/articles/welcome-tax-quebec-guide/) and [how to contest your municipal assessment](/en/articles/contest-property-assessment-quebec/).
 
