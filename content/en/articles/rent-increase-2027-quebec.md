@@ -6,7 +6,6 @@ translationKey: "article-augmentation-loyer-2027-quebec"
 category: "Practical Guide"
 description: "Rent increase 2027 in Quebec: the TAL publishes its percentage in January. The three-year formula, worked scenarios and the notice deadlines."
 image: "images/articles/augmentation-loyer-2027-quebec/featured.jpg"
-draft: true
 ---
 
 The 2027 rent increase percentage does not exist yet. The Tribunal administratif du logement (TAL, Quebec's rental board) will make it public in January 2027, once the December consumer price index (CPI) is known. Two of the three figures behind it are already published, however, and the formula is written into a regulation. Here is the calculation, what it would give depending on 2026 inflation, and the deadlines that matter for a lease renewed on July 1, 2027.

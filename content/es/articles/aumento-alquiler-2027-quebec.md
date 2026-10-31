@@ -6,7 +6,6 @@ translationKey: "article-augmentation-loyer-2027-quebec"
 category: "Guía práctica"
 description: "Aumento de alquiler 2027 en Quebec: el TAL publica su porcentaje en enero. La fórmula de tres años, escenarios en cifras y los plazos del aviso."
 image: "images/articles/augmentation-loyer-2027-quebec/featured.jpg"
-draft: true
 ---
 
 El porcentaje de aumento de alquiler de 2027 todavía no existe. El Tribunal administratif du logement (TAL, el tribunal de vivienda de Quebec) lo hará público en enero de 2027, una vez conocido el índice de precios al consumidor (IPC) de diciembre. Sin embargo, dos de las tres cifras que lo componen ya están publicadas, y la fórmula está escrita en un reglamento. Aquí están el cálculo, lo que daría según la inflación de 2026 y los plazos que cuentan para un contrato de arrendamiento renovado el 1 de julio de 2027.

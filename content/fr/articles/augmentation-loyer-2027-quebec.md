@@ -6,7 +6,6 @@ translationKey: "article-augmentation-loyer-2027-quebec"
 category: "Guide pratique"
 description: "Augmentation de loyer 2027 au Québec: le TAL publie son pourcentage en janvier. La formule sur trois ans, des scénarios chiffrés et les délais d'avis."
 image: "images/articles/augmentation-loyer-2027-quebec/featured.jpg"
-draft: true
 ---
 
 Le pourcentage d'augmentation de loyer 2027 n'existe pas encore. Le Tribunal administratif du logement (TAL) le rendra public en janvier 2027, une fois connu l'indice des prix à la consommation (IPC) de décembre. Deux des trois chiffres qui le composent sont pourtant déjà publiés, et la formule est écrite dans un règlement. Voici le calcul, ce qu'il donnerait selon l'inflation de 2026, et les délais qui comptent pour un bail renouvelé le 1er juillet 2027.
